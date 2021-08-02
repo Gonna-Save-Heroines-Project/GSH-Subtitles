@@ -1,0 +1,388 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: HaneMain,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: HaneItalic,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,1,0,0,100,100,0,0,1,2,2,2,27,27,24,0
+Style: HaneFlashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: HaneFlashbackItalic,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: HaneNote,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,27,27,24,0
+Style: HaneEpTitle,Open Sans Semibold,30,&H00FFFFFF,&H000000FF,&H00716F6D,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,51,40,60,0
+Style: Schedule,Open Sans Semibold,27,&H0017180F,&H000000FF,&H003E3A32,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,33,27,93,0
+Style: sign_9841_80_Today_s_schedule,Open Sans Semibold,33,&H0016170D,&H000000FF,&H00887765,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,40,40,27,0
+Style: sign_20348_164___Club_Submissio,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,-160,1,3,0,2,153,40,187,0
+Style: sign_21052_177_Confectionery_Fo,Open Sans Semibold,33,&H00B2694D,&H000000FF,&H003F1D11,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,0
+Style: sign_22394_193_Japanese_Nationa,Open Sans Semibold,21,&H002E3F4E,&H000000FF,&H0071B2BC,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,0
+Style: sign_22394_194_Celebrating_10_s,Open Sans Semibold,24,&H002F2821,&H000000FF,&H00736561,&H00000000,1,0,0,0,100,100,0,0,1,3,0,2,40,40,120,0
+Style: sign_22691_195_Celebrating_ten_,Open Sans Semibold,30,&H002F2821,&H000000FF,&H00736561,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,0
+Style: sign_26466_231_Hanesaki_Ayano_H,Open Sans Semibold,39,&H002F3E52,&H000000FF,&H0094B4CD,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,40,40,27,0
+Style: sign_26774_232_Shindo_Uchika_Ta,Open Sans Semibold,33,&H003C3F53,&H000000FF,&H0089AAC2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,9,40,40,27,0
+Style: sign_26863_233_The_prodigy_rais,Open Sans Semibold,39,&H00698BC1,&H000000FF,&H00000000,&H00A1C7DD,1,0,0,0,100,100,0,0,1,2,2,9,40,40,27,0
+Style: sign_34134_293_Club_Submission_,Open Sans Semibold,30,&H003B3027,&H000000FF,&H00FEFEFE,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,40,427,27,0
+Style: sign_34134_294_Club_Submission_,Open Sans Semibold,30,&H003B3027,&H000000FF,&H00FEFEFE,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,480,40,27,0
+Style: sign_1317_12_Kitakomachi_High,Open Sans Semibold,27,&H00A99D99,&H000000FF,&H00ECE2DD,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,0
+Style: sign_6539_49_Fredricia_Girls_,Open Sans Semibold,33,&H00FFFFFF,&H000000FF,&H00A75EC3,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,0
+Style: sign_8813_79_Doubles_Ebina_Is,Open Sans Semibold,30,&H00182F2B,&H000000FF,&H00D5DAD3,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,40,427,27,0
+Style: sign_8813_80_Singles_Aragaki,Open Sans Semibold,30,&H00202B24,&H000000FF,&H00D5DBD5,&H00000000,1,0,0,0,100,100,0,0,1,3,0,9,427,100,27,0
+Style: sign_10117_96_Way_to_the_Conve,Open Sans Semibold,24,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,0
+Style: sign_10117_97_Start_College,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,213,560,133,0
+Style: sign_10117_98_Long,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,280,367,107,0
+Style: sign_10117_99_Uphill,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,9,560,300,107,0
+Style: sign_10117_100_About_5_km_,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,9,560,233,200,0
+Style: sign_10117_101_Almost_there_,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,5,280,280,0,0
+Style: sign_10117_102_Finish_line__Con,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,1,400,280,67,0
+Style: sign_10117_103_Great_weather_to,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,2,400,280,167,0
+Style: sign_10117_104_You_can_see_moun,Open Sans Semibold,18,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,3,560,100,167,0
+Style: sign_11241_120_Almost_there_,Open Sans Semibold,24,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,7,167,560,107,0
+Style: sign_11241_121_Uphill,Open Sans Semibold,24,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,9,560,173,40,0
+Style: sign_11241_122_About_5_km_,Open Sans Semibold,24,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,3,427,300,200,0
+Style: sign_11241_123_You_can_see_moun,Open Sans Semibold,24,&H007B716E,&H000000FF,&H00FDF4F2,&H00000000,1,0,0,0,100,100,0,0,1,3,0,2,180,433,107,0
+Style: sign_17249_187_Popilla,Open Sans Semibold,33,&H00E6E4C6,&H000000FF,&H005B5BB7,&H00000000,1,0,0,0,100,100,0,0,1,3,0,2,40,40,160,0
+Style: sign_21559_227_Tagajo,Open Sans Semibold,33,&H004F5252,&H000000FF,&H00F8F8F8,&H00000000,1,0,0,0,100,100,0,8,1,3,0,8,40,153,40,0
+Style: sign_21559_228_Connie_C,Open Sans Semibold,33,&H004F5252,&H000000FF,&H00F8F8F8,&H00000000,1,0,0,0,100,100,0,7,1,3,0,2,40,53,253,0
+Style: sign_6345_49_Fredricia_Girls_,Open Sans Semibold,24,&H00FFFFFF,&H000000FF,&H00A75EC3,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,0
+Style: sign_8325_71_Singles_Aragaki,Open Sans Semibold,24,&H00202B24,&H000000FF,&H00D5DBD5,&H00000000,1,0,0,0,100,100,0,0,1,3,0,9,40,40,27,0
+Style: sign_30532_317_Tagajo,Open Sans Semibold,33,&H00404542,&H000000FF,&H00F9F9F9,&H00000000,1,0,0,0,100,100,0,73,1,3,0,8,40,460,207,0
+Style: sign_30532_318_Connie_C,Open Sans Semibold,33,&H006F7975,&H000000FF,&H00F8F9F9,&H00000000,1,0,0,0,100,100,0,73,1,3,0,2,40,107,207,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.13,0:00:09.06,HaneMain,,0000,0000,0000,,Ayano, I watched you play badminton \Nin your mother's class when we were kids.
+Dialogue: 0,0:00:09.85,0:00:12.89,HaneMain,,0000,0000,0000,,Do you know what I was \Nthinking during that time?
+Dialogue: 0,0:00:13.41,0:00:14.73,HaneMain,,0000,0000,0000,,No.
+Dialogue: 0,0:00:15.09,0:00:18.20,HaneMain,,0000,0000,0000,,I felt left out.
+Dialogue: 0,0:00:19.36,0:00:25.21,HaneMain,,0000,0000,0000,,Lately, too, I've felt a little left out, \Nwatching the Bad Club girls fawning over you.
+Dialogue: 0,0:00:26.02,0:00:28.63,HaneMain,,0000,0000,0000,,But... even so!
+Dialogue: 0,0:00:30.67,0:00:34.92,HaneMain,,0000,0000,0000,,I still think you should \Nbe playing badminton.
+Dialogue: 0,0:00:37.01,0:00:39.26,HaneFlashback,,0000,0000,0000,,I love badminton!
+Dialogue: 0,0:00:41.06,0:00:44.60,sign_34134_293_Club_Submission_,,0000,0000,0000,,{\fad(1,2000)}< Club Submission Form >\N{\fs16}Year:{\u1}1{\u0} Class: {\u1}4{\u0}\NName: {\u1}Fujisawa Elena{\u0}\NI hereby ask to join the {\u1}badminton{\u0} club.
+Dialogue: 0,0:00:41.06,0:00:44.60,sign_34134_294_Club_Submission_,,0000,0000,0000,,{\fad(1,2000)}< Club Submission Form >\N{\fs16}Year:{\u1}1{\u0} Class: {\u1}4{\u0}\NName: {\u1}Hanesaki Ayano{\u0}\NI hereby ask to join the {\u1}badminton{\u0} club.
+Dialogue: 0,0:00:54.90,0:00:57.36,sign_1317_12_Kitakomachi_High,sign,0000,0000,0000,,Kitakomachi High School Badminton Club\NSummer Training Camp Schedule
+Dialogue: 0,0:00:55.27,0:00:56.92,HaneMain,yu,0000,0000,0000,,All done, Sora-chan!
+Dialogue: 0,0:00:58.47,0:01:00.50,HaneMain,yu,0000,0000,0000,,Can I play with your hair?
+Dialogue: 0,0:01:00.94,0:01:04.85,HaneMain,yu,0000,0000,0000,,Don't worry! I'll put it back right after!
+Dialogue: 0,0:01:04.85,0:01:06.84,HaneMain,yu,0000,0000,0000,,C'mon, just a little?
+Dialogue: 0,0:01:06.84,0:01:08.36,HaneMain,aya,0000,0000,0000,,Okay...
+Dialogue: 0,0:01:08.36,0:01:09.43,HaneMain,yu,0000,0000,0000,,Awesome!
+Dialogue: 0,0:01:11.61,0:01:14.42,HaneMain,yu,0000,0000,0000,,What to do, what to do...
+Dialogue: 0,0:01:15.00,0:01:18.45,HaneMain,yu,0000,0000,0000,,Wow! It's so silky!
+Dialogue: 0,0:01:20.94,0:01:22.73,HaneMain,ele,0000,0000,0000,,Wh-What are you doing?
+Dialogue: 0,0:01:22.73,0:01:25.01,HaneMain,sora,0000,0000,0000,,It's all good. Just leave it to me!
+Dialogue: 0,0:01:25.01,0:01:26.55,HaneMain,riko,0000,0000,0000,,How about you, Nagisa?
+Dialogue: 0,0:01:27.29,0:01:29.89,HaneMain,nagi,0000,0000,0000,,No... I have short hair, anyway.
+Dialogue: 0,0:01:29.89,0:01:31.81,HaneMain,yu,0000,0000,0000,,We could still put a pin in it!
+Dialogue: 0,0:01:31.81,0:01:33.09,HaneMain,yu,0000,0000,0000,,Here, take it!
+Dialogue: 0,0:01:40.02,0:01:42.16,HaneMain,yu,0000,0000,0000,,There! All done!
+Dialogue: 0,0:01:42.16,0:01:44.12,HaneMain,yu,0000,0000,0000,,You look great, Ayanon!
+Dialogue: 0,0:01:44.12,0:01:45.83,HaneMain,aya,0000,0000,0000,,A-Ayanon?
+Dialogue: 0,0:01:46.61,0:01:48.66,HaneMain,yu,0000,0000,0000,,Ayanon! It's short for Ayano-chan!
+Dialogue: 0,0:01:48.66,0:01:50.06,HaneMain,yu,0000,0000,0000,,Cute, huh?
+Dialogue: 0,0:01:50.40,0:01:51.21,HaneMain,aya,0000,0000,0000,,Sure...
+Dialogue: 0,0:01:51.21,0:01:54.87,HaneMain,ha,0000,0000,0000,,Wow, it really changes her whole look!
+Dialogue: 0,0:01:54.87,0:01:57.28,HaneMain,yu,0000,0000,0000,,Hayama-senpai, could you take a picture?
+Dialogue: 0,0:01:57.28,0:01:58.09,HaneMain,hay,0000,0000,0000,,Sure!
+Dialogue: 0,0:01:59.06,0:02:00.77,HaneMain,hay,0000,0000,0000,,Here goes!
+Dialogue: 0,0:02:00.77,0:02:02.68,HaneMain,hay,0000,0000,0000,,Say cheese!
+Dialogue: 0,0:02:06.15,0:02:08.46,HaneMain,ele,0000,0000,0000,,It's really nice, isn't it?
+Dialogue: 0,0:02:08.85,0:02:10.59,HaneMain,ele,0000,0000,0000,,It feels like we're part of the team.
+Dialogue: 0,0:02:16.73,0:02:18.07,HaneMain,aya,0000,0000,0000,,A team...
+Dialogue: 0,0:02:32.61,0:02:33.69,HaneMain,girl,0000,0000,0000,,Værste.
+Dialogue: 0,0:04:04.78,0:04:06.93,HaneMain,ko,0000,0000,0000,,{\an8}Sorry, Tachibana-senpai!
+Dialogue: 0,0:04:04.93,0:04:09.93,HaneEpTitle,sign,0000,0000,0000,,{\fad(523,515)}#4 I'm Lost Right Now, Too
+Dialogue: 0,0:04:06.93,0:04:09.29,HaneMain,ko,0000,0000,0000,,{\an8}I was sure I'd already told you.
+Dialogue: 0,0:04:09.29,0:04:14.92,HaneMain,tachi,0000,0000,0000,,{\an8}So you're saying another school \Nis here for a training camp?
+Dialogue: 0,0:04:14.92,0:04:15.99,HaneMain,ko,0000,0000,0000,,Yes...
+Dialogue: 0,0:04:15.99,0:04:20.11,HaneMain,ko,0000,0000,0000,,And they really want to have a \Npractice game against Kitakomachi.
+Dialogue: 0,0:04:20.50,0:04:21.68,HaneMain,tachi,0000,0000,0000,,I see.
+Dialogue: 0,0:04:24.61,0:04:27.57,sign_6345_49_Fredricia_Girls_,,0000,0000,0000,,Fredericia Girls Junior College Affiliate High School\N{\fs24}Pure of Heart and Victorious\N{\fs12}Girls Badminton Club
+Dialogue: 0,0:04:32.71,0:04:35.17,sign_6539_49_Fredricia_Girls_,sign,0000,0000,0000,,Fredericia Girls Junior College Affiliate High School\N{\fs30}Pure of Heart and Victorious\N{\fs18}Girls Badminton Club
+Dialogue: 0,0:04:37.01,0:04:38.08,HaneMain,nagi,0000,0000,0000,,FreGirls?
+Dialogue: 0,0:04:38.65,0:04:41.20,HaneMain,hay,0000,0000,0000,,Wow, they're regulars at the Inter-High.
+Dialogue: 0,0:04:41.20,0:04:43.22,HaneMain,hay,0000,0000,0000,,They're based in... Miyagi, I think?
+Dialogue: 0,0:04:43.22,0:04:45.49,HaneMain,riko,0000,0000,0000,,What's such a strong school doing here?
+Dialogue: 0,0:04:46.18,0:04:50.75,HaneMain,shi,0000,0000,0000,,One of our girls absolutely \Ninsisted on playing Kitakomachi.
+Dialogue: 0,0:04:51.14,0:04:52.48,HaneMain,shi,0000,0000,0000,,It's a pleasure to meet you.
+Dialogue: 0,0:04:52.48,0:04:56.06,HaneMain,shi,0000,0000,0000,,I'm the captain of the Fredericia \NGirls Badminton Club, Shiwahime.
+Dialogue: 0,0:04:57.19,0:04:59.66,HaneMain,yu,0000,0000,0000,,She's so... dignified.
+Dialogue: 0,0:05:00.57,0:05:02.44,HaneMain,shi,0000,0000,0000,,These are our regulars.
+Dialogue: 0,0:05:03.76,0:05:06.23,HaneMain,shi,0000,0000,0000,,It's a pleasure to meet you.
+Dialogue: 0,0:05:06.23,0:05:07.88,HaneMain,all,0000,0000,0000,,A pleasure to meet you!
+Dialogue: 0,0:05:10.34,0:05:12.82,HaneItalic,tachi,0000,0000,0000,,They're completely overwhelmed.
+Dialogue: 0,0:05:15.48,0:05:17.75,HaneMain,nagi,0000,0000,0000,,I'm Kitakomachi's captain, Aragaki.
+Dialogue: 0,0:05:17.75,0:05:19.39,HaneMain,nagi,0000,0000,0000,,It's a pleasure to meet you, too.
+Dialogue: 0,0:05:20.71,0:05:22.55,HaneMain,all,0000,0000,0000,,A pleasure to meet you!
+Dialogue: 0,0:05:30.47,0:05:32.36,HaneMain,tachi,0000,0000,0000,,Since our club is so small,
+Dialogue: 0,0:05:32.36,0:05:38.56,HaneMain,tachi,0000,0000,0000,,we'll have one singles match \Nand two doubles matches.
+Dialogue: 0,0:05:38.56,0:05:40.78,HaneMain,tachi,0000,0000,0000,,For singles, Aragaki.
+Dialogue: 0,0:05:40.78,0:05:44.19,HaneMain,tachi,0000,0000,0000,,For doubles, the first pair will be\N Ebina and the younger Isehara,
+Dialogue: 0,0:05:44.19,0:05:46.02,HaneMain,tachi,0000,0000,0000,,and the other will be Izumi and Hanesaki.
+Dialogue: 0,0:05:47.20,0:05:52.12,sign_8325_71_Singles_Aragaki,sign,0000,0000,0000,,Singles\NAragaki
+Dialogue: 0,0:05:47.45,0:05:51.01,HaneMain,tachi,0000,0000,0000,,Don't be spooked just because \Nthey're a strong team.
+Dialogue: 0,0:05:51.01,0:05:52.12,HaneMain,tachi,0000,0000,0000,,Let's win!
+Dialogue: 0,0:05:52.12,0:05:53.27,HaneMain,all,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:05:54.66,0:05:56.71,HaneMain,yu,0000,0000,0000,,Yes! Let's do it!
+Dialogue: 0,0:05:56.71,0:05:59.08,HaneMain,yu,0000,0000,0000,,Ayanon, we're counting on you!
+Dialogue: 0,0:06:00.50,0:06:04.71,HaneMain,hay,0000,0000,0000,,I've never seen Hanesaki \Nin a real match before.
+Dialogue: 0,0:06:04.71,0:06:07.55,HaneMain,hay,0000,0000,0000,,I really want to see how good she is!
+Dialogue: 0,0:06:07.55,0:06:11.37,HaneMain,tachi,0000,0000,0000,,And you boys will be playing \Nthe college students.
+Dialogue: 0,0:06:07.55,0:06:12.26,sign_8813_79_Doubles_Ebina_Is,sign,0000,0000,0000,,Doubles\N\NEbina\NIsehara (Younger)\N\NIzumi\NHanesaki
+Dialogue: 0,0:06:07.55,0:06:12.26,sign_8813_80_Singles_Aragaki,sign,0000,0000,0000,,Singles\N\NAragaki
+Dialogue: 0,0:06:11.37,0:06:12.25,HaneMain,hay,0000,0000,0000,,Ugh!
+Dialogue: 0,0:06:12.25,0:06:15.29,HaneMain,hay,0000,0000,0000,,We've got our work cut out for us, too!
+Dialogue: 0,0:06:17.78,0:06:20.32,HaneItalic,aya,0000,0000,0000,,They're counting on me...
+Dialogue: 0,0:06:20.92,0:06:23.56,HaneMain,riko,0000,0000,0000,,Ayano-chan, let's do our best!
+Dialogue: 0,0:06:25.13,0:06:26.02,HaneMain,aya,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:27.20,0:06:28.57,HaneMain,bi,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:28.57,0:06:31.99,HaneMain,bi,0000,0000,0000,,Can someone pick up some things \Nfrom a convenience store?
+Dialogue: 0,0:06:31.99,0:06:33.24,HaneMain,yu,0000,0000,0000,,Convenience store?
+Dialogue: 0,0:06:33.66,0:06:37.28,HaneMain,hay,0000,0000,0000,,It's all cabbage fields around here.
+Dialogue: 0,0:06:38.92,0:06:41.38,HaneMain,aya,0000,0000,0000,,Um, I...
+Dialogue: 0,0:06:42.46,0:06:45.22,HaneMain,aya,0000,0000,0000,,I was hoping I could go to a \Nconvenience store anyway.
+Dialogue: 0,0:06:47.65,0:06:49.16,HaneMain,mi,0000,0000,0000,,Hold on a minute.
+Dialogue: 0,0:06:49.16,0:06:50.52,HaneMain,mi,0000,0000,0000,,I'll get you the money.
+Dialogue: 0,0:06:50.92,0:06:52.78,HaneMain,yu,0000,0000,0000,,Ayanon! Thank you!
+Dialogue: 0,0:06:52.99,0:06:54.08,HaneMain,yu,0000,0000,0000,,S-Sure.
+Dialogue: 0,0:06:55.29,0:06:58.24,HaneMain,nag,0000,0000,0000,,Hanesaki, I'll draw you up a map.
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_96_Way_to_the_Conve,sign,0000,0000,0000,,Way to the Convenience Store
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_97_Start_College,sign,0000,0000,0000,,Start\NCollege
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_98_Long,sign,0000,0000,0000,,Long
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_99_Uphill,sign,0000,0000,0000,,Uphill
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_100_About_5_km_,sign,0000,0000,0000,,About 5 km?
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_101_Almost_there_,sign,0000,0000,0000,,Almost there!
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_102_Finish_line__Con,sign,0000,0000,0000,,Finish line!\NConvenience Store
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_103_Great_weather_to,sign,0000,0000,0000,,Great\Nweather\N today!
+Dialogue: 0,0:07:01.94,0:07:04.19,sign_10117_104_You_can_see_moun,sign,0000,0000,0000,,You can see mountains!\N Big mountain!
+Dialogue: 0,0:07:05.10,0:07:05.95,HaneMain,aya,0000,0000,0000,,I...
+Dialogue: 0,0:07:06.26,0:07:08.01,HaneMain,aya,0000,0000,0000,,I'm lost.
+Dialogue: 0,0:07:10.81,0:07:12.56,HaneMain,aya,0000,0000,0000,,What should I do?
+Dialogue: 0,0:07:12.97,0:07:14.00,HaneMain,girl,0000,0000,0000,,Are you lost?
+Dialogue: 0,0:07:18.91,0:07:21.56,HaneItalic,aya,0000,0000,0000,,A... A foreigner!
+Dialogue: 0,0:07:22.94,0:07:25.69,HaneMain,girl,0000,0000,0000,,Did you hear me? Are you lost?
+Dialogue: 0,0:07:25.69,0:07:27.35,HaneMain,aya,0000,0000,0000,,Y-Yes...
+Dialogue: 0,0:07:27.35,0:07:28.98,HaneMain,girl,0000,0000,0000,,I hear you.
+Dialogue: 0,0:07:28.98,0:07:30.60,HaneMain,girl,0000,0000,0000,,I'm lost, too.
+Dialogue: 0,0:07:30.60,0:07:32.43,HaneMain,girl,0000,0000,0000,,I was looking for a convenience store.
+Dialogue: 0,0:07:32.43,0:07:35.29,HaneMain,aya,0000,0000,0000,,I-I'm also... doing that.
+Dialogue: 0,0:07:35.68,0:07:37.89,HaneMain,girl,0000,0000,0000,,Then let's search together!
+Dialogue: 0,0:07:39.14,0:07:40.42,HaneMain,girl,0000,0000,0000,,Is that a map?
+Dialogue: 0,0:07:40.42,0:07:43.84,HaneMain,aya,0000,0000,0000,,Y-Yes. But...
+Dialogue: 0,0:07:43.84,0:07:47.35,HaneMain,con,0000,0000,0000,,What is this? Did a little kid draw this?
+Dialogue: 0,0:07:48.82,0:07:51.20,sign_11241_120_Almost_there_,sign,0000,0000,0000,,{\fad(1,500)}Almost there!
+Dialogue: 0,0:07:48.82,0:07:51.20,sign_11241_121_Uphill,sign,0000,0000,0000,,{\fad(1,500)}Uphill
+Dialogue: 0,0:07:48.82,0:07:51.20,sign_11241_122_About_5_km_,sign,0000,0000,0000,,{\fad(1,500)}About 5 km?
+Dialogue: 0,0:07:48.82,0:07:51.20,sign_11241_123_You_can_see_moun,sign,0000,0000,0000,,{\fad(1,500)}You can see mountains!\NBig mountain!
+Dialogue: 0,0:07:49.13,0:07:51.11,HaneMain,girl,0000,0000,0000,,But that symbol...
+Dialogue: 0,0:07:52.91,0:07:55.30,HaneMain,aya,0000,0000,0000,,W-Wait a minute!
+Dialogue: 0,0:07:59.02,0:07:59.95,HaneMain,taga,0000,0000,0000,,Captain!
+Dialogue: 0,0:08:00.46,0:08:03.15,HaneMain,taga,0000,0000,0000,,I couldn't find her anywhere!
+Dialogue: 0,0:08:03.73,0:08:05.91,HaneMain,shi,0000,0000,0000,,I can't get through, either.
+Dialogue: 0,0:08:05.91,0:08:10.14,HaneMain,shi,0000,0000,0000,,Honestly, our youngest \Nis such a problem child.
+Dialogue: 0,0:08:10.14,0:08:12.09,HaneMain,o,0000,0000,0000,,It's so typical of her.
+Dialogue: 0,0:08:13.27,0:08:17.31,HaneMain,ushi,0000,0000,0000,,Aw, I'm sure she'll be back soon!
+Dialogue: 0,0:08:17.31,0:08:18.73,HaneMain,o,0000,0000,0000,,Honestly...
+Dialogue: 0,0:08:19.12,0:08:24.89,HaneMain,o,0000,0000,0000,,The only reason we came here is because \Nshe wanted to play Kitakomachi, right?
+Dialogue: 0,0:08:24.89,0:08:25.87,HaneMain,she,0000,0000,0000,,Yes...
+Dialogue: 0,0:08:25.87,0:08:29.33,HaneMain,ta,0000,0000,0000,,Why's she so obsessed with \Nthis school, anyway?
+Dialogue: 0,0:08:47.57,0:08:48.70,HaneMain,girl,0000,0000,0000,,I knew it!
+Dialogue: 0,0:08:49.35,0:08:52.76,HaneMain,girl,0000,0000,0000,,Say, this symbol is about that thing, right?
+Dialogue: 0,0:08:56.28,0:08:57.73,HaneMain,aya,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:08:57.73,0:08:59.16,HaneMain,aya,0000,0000,0000,,Looks like it.
+Dialogue: 0,0:08:59.68,0:09:04.14,HaneMain,aya,0000,0000,0000,,Um... if we're facing the gate, \Nit would be to the right.
+Dialogue: 0,0:09:04.14,0:09:06.39,HaneMain,aya,0000,0000,0000,,So if we go straight this way...
+Dialogue: 0,0:09:11.27,0:09:12.56,HaneMain,aya,0000,0000,0000,,Thank you.
+Dialogue: 0,0:09:16.75,0:09:18.59,HaneMain,girl,0000,0000,0000,,You're in high school?
+Dialogue: 0,0:09:18.95,0:09:22.51,HaneMain,girl,0000,0000,0000,,Japanese people really do look like kids.
+Dialogue: 0,0:09:22.97,0:09:25.51,HaneMain,aya,0000,0000,0000,,Where did you come from?
+Dialogue: 0,0:09:26.39,0:09:27.29,HaneMain,girl,0000,0000,0000,,Miyagi.
+Dialogue: 0,0:09:27.71,0:09:28.76,HaneMain,aya,0000,0000,0000,,Wow...
+Dialogue: 0,0:09:29.80,0:09:31.04,HaneMain,aya,0000,0000,0000,,Miyagi?
+Dialogue: 0,0:09:32.99,0:09:35.29,HaneMain,girl,0000,0000,0000,,But I was born in Denmark.
+Dialogue: 0,0:09:35.29,0:09:38.25,HaneMain,girl,0000,0000,0000,,I came to Miyagi as part\Nof an exchange program.
+Dialogue: 0,0:09:38.25,0:09:40.11,HaneMain,aya,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:09:45.53,0:09:48.43,HaneMain,aya,0000,0000,0000,,What made you want to come to Japan?
+Dialogue: 0,0:10:00.85,0:10:04.74,HaneMain,girl,0000,0000,0000,,There's someone I really want to beat.
+Dialogue: 0,0:10:10.61,0:10:14.14,HaneMain,yu,0000,0000,0000,,I can't believe I'm playing the FreGirls...
+Dialogue: 0,0:10:14.14,0:10:16.88,HaneMain,yu,0000,0000,0000,,My heart is pounding like a drum.
+Dialogue: 0,0:10:16.88,0:10:17.79,HaneMain,sora,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:17.79,0:10:23.27,HaneMain,yu,0000,0000,0000,,But we've got Aragaki-senpai,\N and Ayanon seems really good, too.
+Dialogue: 0,0:10:23.27,0:10:25.60,HaneMain,yu,0000,0000,0000,,I think we might even win!
+Dialogue: 0,0:10:28.45,0:10:31.70,HaneMain,yu,0000,0000,0000,,Sora-chan, did something \Nhappen with you and Ayanon?
+Dialogue: 0,0:10:32.69,0:10:33.60,HaneMain,sora,0000,0000,0000,,No.
+Dialogue: 0,0:10:33.60,0:10:35.90,HaneMain,yu,0000,0000,0000,,Really? But you seem...
+Dialogue: 0,0:10:34.97,0:10:36.92,HaneMain,nagi,0000,0000,0000,,{\an8}Yu, Sora...
+Dialogue: 0,0:10:36.92,0:10:39.74,HaneMain,nagi,0000,0000,0000,,She's not back yet, is she?
+Dialogue: 0,0:10:39.74,0:10:41.59,HaneMain,yu,0000,0000,0000,,You mean Ayanon?
+Dialogue: 0,0:10:41.59,0:10:43.83,HaneMain,yu,0000,0000,0000,,I guess she has been gone for a while.
+Dialogue: 0,0:10:47.42,0:10:48.93,HaneMain,aya,0000,0000,0000,,Beat her?
+Dialogue: 0,0:10:48.93,0:10:50.87,HaneMain,girl,0000,0000,0000,,I want to play her.
+Dialogue: 0,0:10:51.48,0:10:52.95,HaneMain,girl,0000,0000,0000,,The reason I came to Japan,
+Dialogue: 0,0:10:52.95,0:10:54.87,HaneMain,girl,0000,0000,0000,,and the reason I'm here at this camp...
+Dialogue: 0,0:10:54.87,0:10:57.34,HaneMain,girl,0000,0000,0000,,It's all been so that I can fight her.
+Dialogue: 0,0:10:58.00,0:11:00.49,HaneMain,girl,0000,0000,0000,,I've been waiting a long time to play her.
+Dialogue: 0,0:11:01.52,0:11:04.26,HaneMain,girl,0000,0000,0000,,Just the thought of beating \Nher into the ground...
+Dialogue: 0,0:11:05.42,0:11:07.18,HaneMain,girl,0000,0000,0000,,It fills me with excitement.
+Dialogue: 0,0:11:10.80,0:11:12.71,HaneMain,aya,0000,0000,0000,,Oh, I see!
+Dialogue: 0,0:11:12.71,0:11:16.32,HaneMain,aya,0000,0000,0000,,I'm here on a training \Ncamp for my club, too!
+Dialogue: 0,0:11:19.15,0:11:23.48,HaneMain,girl,0000,0000,0000,,The sight of your back is so disarming.
+Dialogue: 0,0:11:24.78,0:11:27.06,HaneMain,girl,0000,0000,0000,,I just mean that it's kind of soothing.
+Dialogue: 0,0:11:28.79,0:11:31.47,HaneMain,girl,0000,0000,0000,,I know someone else who's like that.
+Dialogue: 0,0:11:33.26,0:11:37.05,HaneMain,girl,0000,0000,0000,,So, what about you?\N Why'd you join your club?
+Dialogue: 0,0:11:38.68,0:11:42.31,HaneMain,aya,0000,0000,0000,,Lately, I've started thinking\Nthat it might be fun...
+Dialogue: 0,0:11:43.05,0:11:45.68,HaneMain,aya,0000,0000,0000,,And I think I might be get \Nto be part of a team.
+Dialogue: 0,0:11:45.68,0:11:46.99,HaneMain,girl,0000,0000,0000,,A team?
+Dialogue: 0,0:11:46.99,0:11:50.95,HaneMain,aya,0000,0000,0000,,Yeah. I've been alone for \Na really long time...
+Dialogue: 0,0:11:50.95,0:11:55.13,HaneMain,aya,0000,0000,0000,,But I think I could have \Na lot of fun with a team!
+Dialogue: 0,0:11:56.99,0:11:58.52,HaneMain,girl,0000,0000,0000,,Hey, what exactly do you—
+Dialogue: 0,0:11:58.52,0:11:59.41,HaneMain,aya,0000,0000,0000,,Oh, there it is!
+Dialogue: 0,0:11:59.40,0:12:01.86,sign_17249_187_Popilla,sign,0000,0000,0000,,Popilla
+Dialogue: 0,0:12:01.37,0:12:03.06,HaneMain,clerk,0000,0000,0000,,Thank you for coming.
+Dialogue: 0,0:12:05.10,0:12:06.49,HaneMain,girl,0000,0000,0000,,That's going to be tough...
+Dialogue: 0,0:12:06.49,0:12:10.87,HaneMain,aya,0000,0000,0000,,No, I think I might like \Nhelping everyone out!
+Dialogue: 0,0:12:10.87,0:12:12.25,HaneMain,girl,0000,0000,0000,,You {\i1}think{\i0}?
+Dialogue: 0,0:12:12.25,0:12:13.69,HaneMain,girl,0000,0000,0000,,That's weird.
+Dialogue: 0,0:12:13.69,0:12:16.05,HaneMain,girl,0000,0000,0000,,Hey, what club are you in?
+Dialogue: 0,0:12:16.05,0:12:17.54,HaneMain,aya,0000,0000,0000,,The badminton club.
+Dialogue: 0,0:12:21.68,0:12:25.13,HaneMain,girl,0000,0000,0000,,What school are you from?
+Dialogue: 0,0:12:26.00,0:12:28.33,HaneMain,aya,0000,0000,0000,,It's called Kitakomachi High.
+Dialogue: 0,0:12:29.71,0:12:31.01,HaneMain,girl,0000,0000,0000,,Hold on a minute.
+Dialogue: 0,0:12:31.97,0:12:32.96,HaneMain,girl,0000,0000,0000,,Are you...
+Dialogue: 0,0:12:32.96,0:12:34.51,HaneMain,sora,0000,0000,0000,,Hanesaki-san!
+Dialogue: 0,0:12:38.79,0:12:40.14,HaneMain,aya,0000,0000,0000,,Sora-chan!
+Dialogue: 0,0:12:40.42,0:12:43.86,HaneMain,aya,0000,0000,0000,,I think my club senpai... came to get...
+Dialogue: 0,0:12:55.51,0:12:58.09,HaneMain,con,0000,0000,0000,,Was there a point to your \Nlittle friendship act?
+Dialogue: 0,0:12:59.41,0:13:03.76,HaneMain,con,0000,0000,0000,,Can you get what you want that way?
+Dialogue: 0,0:13:09.83,0:13:10.63,HaneMain,con,0000,0000,0000,,Later.
+Dialogue: 0,0:13:13.20,0:13:16.55,HaneMain,aya,0000,0000,0000,,Sora-chan, did you come to get me?
+Dialogue: 0,0:13:16.95,0:13:18.22,HaneMain,aya,0000,0000,0000,,I'll carry half of it!
+Dialogue: 0,0:13:18.22,0:13:19.89,HaneMain,aya,0000,0000,0000,,W-Wait!
+Dialogue: 0,0:13:23.07,0:13:24.58,HaneMain,riko,0000,0000,0000,,Welcome back!
+Dialogue: 0,0:13:25.23,0:13:28.56,HaneMain,riko,0000,0000,0000,,Great timing. The first match \Nis just about to begin.
+Dialogue: 0,0:13:28.89,0:13:31.79,HaneMain,yu,0000,0000,0000,,Let's cheer on Aragaki-senpai together!
+Dialogue: 0,0:13:32.03,0:13:34.90,HaneMain,hay,0000,0000,0000,,Come on, guys! Make some noise!
+Dialogue: 0,0:13:34.90,0:13:35.90,HaneMain,hay,0000,0000,0000,,You too, Gaku.
+Dialogue: 0,0:13:36.74,0:13:40.36,HaneMain,mi,0000,0000,0000,,Aragaki-san! Give it all you've got!
+Dialogue: 0,0:13:42.05,0:13:45.64,HaneMain,aya,0000,0000,0000,,It's my first match with everyone.
+Dialogue: 0,0:14:00.05,0:14:03.77,HaneMain,aya,0000,0000,0000,,I want to win and be part of the team.
+Dialogue: 0,0:14:12.04,0:14:13.83,HaneMain,shi,0000,0000,0000,,You're finally back...
+Dialogue: 0,0:14:17.10,0:14:18.23,HaneMain,shi,0000,0000,0000,,Connie.
+Dialogue: 0,0:14:29.56,0:14:34.46,HaneMain,girl,0000,0000,0000,,Game! Match won by Shiraishi-Misato, \NFredericia Girls.
+Dialogue: 0,0:14:37.75,0:14:40.60,HaneMain,yu,0000,0000,0000,,Sorry, I messed up the last one.
+Dialogue: 0,0:14:40.60,0:14:42.94,HaneMain,sora,0000,0000,0000,,I should have covered you sooner.
+Dialogue: 0,0:14:42.94,0:14:44.08,HaneMain,misa,0000,0000,0000,,Great job!
+Dialogue: 0,0:14:44.08,0:14:46.00,HaneMain,yu,0000,0000,0000,,They really are good!
+Dialogue: 0,0:14:46.00,0:14:48.77,HaneMain,yu,0000,0000,0000,,I was hoping we'd be able \Nto score a few more.
+Dialogue: 0,0:14:52.76,0:14:54.96,HaneMain,elena,0000,0000,0000,,Now it's one to one.
+Dialogue: 0,0:14:54.96,0:14:59.17,HaneMain,elena,0000,0000,0000,,Ayano's team will have to break the tie.
+Dialogue: 0,0:14:55.69,0:14:57.21,HaneMain,nagi,0000,0000,0000,,Don't sweat it!
+Dialogue: 0,0:14:59.16,0:15:02.38,sign_21559_227_Tagajo,sign,0000,0000,0000,,Tagajo
+Dialogue: 0,0:14:59.16,0:15:02.38,sign_21559_228_Connie_C,sign,0000,0000,0000,,Connie C
+Dialogue: 0,0:14:59.64,0:15:01.65,HaneMain,tachi,0000,0000,0000,,Connie C?
+Dialogue: 0,0:15:02.37,0:15:06.27,HaneMain,ele,0000,0000,0000,,But Ayano can beat somebody\Nfrom FreGirls, right?
+Dialogue: 0,0:15:06.27,0:15:12.06,HaneMain,tachi,0000,0000,0000,,Yeah... Hanesaki's talents should \Nget us pretty far, but...
+Dialogue: 0,0:15:15.42,0:15:17.44,HaneMain,ta,0000,0000,0000,,You were gone forever.
+Dialogue: 0,0:15:17.44,0:15:19.46,HaneMain,ta,0000,0000,0000,,Was it really that far away?
+Dialogue: 0,0:15:19.46,0:15:22.43,HaneMain,ta,0000,0000,0000,,You didn't get lost, did you?
+Dialogue: 0,0:15:22.82,0:15:25.97,HaneMain,con,0000,0000,0000,,I made it back in time. What's the big deal?
+Dialogue: 0,0:15:25.97,0:15:28.28,HaneMain,ta,0000,0000,0000,,You had us worried!
+Dialogue: 0,0:15:29.07,0:15:31.05,HaneMain,shira,0000,0000,0000,,Hina never lets up.
+Dialogue: 0,0:15:31.05,0:15:32.96,HaneMain,misa,0000,0000,0000,,I wish she would, though.
+Dialogue: 0,0:15:32.96,0:15:35.00,HaneMain,misa,0000,0000,0000,,Connie never takes the bait, anyway.
+Dialogue: 0,0:15:36.45,0:15:38.18,HaneMain,riko,0000,0000,0000,,Let's go, Ayano-chan.
+Dialogue: 0,0:15:39.18,0:15:40.22,HaneMain,ay,0000,0000,0000,,Sure.
+Dialogue: 0,0:15:40.95,0:15:43.04,HaneMain,nagi,0000,0000,0000,,Hanesaki! Win this one, okay?
+Dialogue: 0,0:15:59.90,0:16:02.50,HaneMain,con,0000,0000,0000,,I'm going to play this match my way.
+Dialogue: 0,0:16:02.97,0:16:06.40,HaneMain,shi,0000,0000,0000,,It's not like you'd listen to me anyway.
+Dialogue: 0,0:16:06.88,0:16:08.85,HaneMain,con,0000,0000,0000,,Hey, you're catching on!
+Dialogue: 0,0:16:17.01,0:16:19.66,HaneMain,hay,0000,0000,0000,,Yeah, I'm black and blue, too!
+Dialogue: 0,0:16:19.66,0:16:22.11,HaneMain,hay,0000,0000,0000,,Those college students are amazing!
+Dialogue: 0,0:16:22.40,0:16:26.00,HaneMain,hay,0000,0000,0000,,Oh, but you hung on pretty \Ngood in that second game!
+Dialogue: 0,0:16:26.00,0:16:28.84,HaneMain,hay,0000,0000,0000,,If only that hairpin had landed.
+Dialogue: 0,0:16:29.34,0:16:31.05,HaneMain,hay,0000,0000,0000,,I guess it's too late to \Nsalvage it now, though.
+Dialogue: 0,0:16:31.05,0:16:33.58,HaneMain,yu,0000,0000,0000,,Hayama-senpai, Gaku-sen—
+Dialogue: 0,0:16:34.03,0:16:36.47,HaneMain,yu,0000,0000,0000,,Well, don't get too bummed out about it.
+Dialogue: 0,0:16:36.47,0:16:38.77,HaneMain,yu,0000,0000,0000,,It's just a practice match anyway.
+Dialogue: 0,0:16:38.77,0:16:40.46,HaneMain,yu,0000,0000,0000,,Let's just work hard for next time, okay?
+Dialogue: 0,0:16:41.60,0:16:42.71,HaneMain,sora,0000,0000,0000,,Right.
+Dialogue: 0,0:16:42.71,0:16:46.45,HaneMain,sora,0000,0000,0000,,Just a little more wrist \Nsnap in that hairpin...
+Dialogue: 0,0:16:47.66,0:16:49.71,HaneMain,yu,0000,0000,0000,,Hayama-senpai! Sora-chan!
+Dialogue: 0,0:16:49.71,0:16:51.78,HaneMain,yu,0000,0000,0000,,The match is starting!
+Dialogue: 0,0:16:51.78,0:16:52.78,HaneMain,hay,0000,0000,0000,,Whoops!
+Dialogue: 0,0:16:54.16,0:16:55.42,HaneMain,hay,0000,0000,0000,,Thank you!
+Dialogue: 0,0:16:55.42,0:16:57.49,HaneMain,sora,0000,0000,0000,,Yu-chan, did you come here to let us know?
+Dialogue: 0,0:16:57.79,0:16:58.83,HaneMain,sora,0000,0000,0000,,Thanks.
+Dialogue: 0,0:17:00.45,0:17:03.01,HaneMain,ref,0000,0000,0000,,Okay, the third match is starting.
+Dialogue: 0,0:17:03.01,0:17:04.49,HaneMain,all,0000,0000,0000,,Let's play!
+Dialogue: 0,0:17:04.82,0:17:06.13,HaneMain,con,0000,0000,0000,,Get ready.
+Dialogue: 0,0:17:07.16,0:17:11.06,HaneMain,con,0000,0000,0000,,I'm going to show you how \Nmeaningless your "team" is.
+Dialogue: 0,0:17:14.51,0:17:17.58,HaneMain,riko,0000,0000,0000,,Ayano-chan, did something \Nhappen between you two?
+Dialogue: 0,0:17:18.04,0:17:19.17,HaneMain,aya,0000,0000,0000,,I don't think so...
+Dialogue: 0,0:17:21.12,0:17:23.13,HaneMain,con,0000,0000,0000,,You don't have to do anything.
+Dialogue: 0,0:17:23.92,0:17:27.29,HaneMain,con,0000,0000,0000,,I'll play them both. Don't interfere.
+Dialogue: 0,0:17:28.40,0:17:30.60,HaneMain,ta,0000,0000,0000,,Do you not get how doubles works?!
+Dialogue: 0,0:17:30.60,0:17:32.37,HaneMain,sora,0000,0000,0000,,Go for it!
+Dialogue: 0,0:17:32.37,0:17:34.31,HaneMain,sora,0000,0000,0000,,Ayanon, do your best!
+Dialogue: 0,0:17:34.64,0:17:37.52,HaneMain,sora,0000,0000,0000,,Get that win, Ayano!
+Dialogue: 0,0:17:41.19,0:17:45.84,HaneMain,ref,0000,0000,0000,,On my right, Connie-Tagajo, Fredericia Girls.
+Dialogue: 0,0:17:46.97,0:17:51.85,HaneMain,ref,0000,0000,0000,,On my left, Hanesaki-Izumi, \NKitakomachi High School.
+Dialogue: 0,0:17:53.61,0:17:56.46,HaneMain,ref,0000,0000,0000,,Hanesaki to serve. Love-all. Play.
+Dialogue: 0,0:18:05.21,0:18:07.24,HaneItalic,taga,0000,0000,0000,,She told me not to interfere...
+Dialogue: 0,0:18:07.24,0:18:10.18,HaneItalic,taga,0000,0000,0000,,But I can't let a perfect \Nshot like that get away!
+Dialogue: 0,0:18:12.37,0:18:13.54,HaneMain,taga,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:13.88,0:18:14.84,HaneMain,yu,0000,0000,0000,,1-love!
+Dialogue: 0,0:18:15.63,0:18:17.18,HaneMain,yu,0000,0000,0000,,It's okay!
+Dialogue: 0,0:18:17.18,0:18:19.01,HaneMain,sora,0000,0000,0000,,Defense!
+Dialogue: 0,0:18:21.49,0:18:23.79,HaneMain,riko,0000,0000,0000,,Sorry. I'll stop the next one.
+Dialogue: 0,0:18:34.72,0:18:36.59,HaneMain,ref,0000,0000,0000,,S-Service over.
+Dialogue: 0,0:18:36.59,0:18:37.81,HaneMain,ref,0000,0000,0000,,1-all.
+Dialogue: 0,0:18:40.70,0:18:43.57,HaneMain,ta,0000,0000,0000,,Connie! What are you doing?
+Dialogue: 0,0:18:44.10,0:18:47.95,HaneMain,con,0000,0000,0000,,It's pointless unless \NI win the match by myself.
+Dialogue: 0,0:18:49.07,0:18:52.33,HaneMain,con,0000,0000,0000,,If you're going to get in my way,\N you can play by yourself.
+Dialogue: 0,0:19:07.54,0:19:09.65,HaneMain,riko,0000,0000,0000,,Ayano-chan, focus.
+Dialogue: 0,0:19:10.24,0:19:13.10,HaneMain,riko,0000,0000,0000,,We just need to give this all we have.
+Dialogue: 0,0:19:13.10,0:19:14.03,HaneMain,aya,0000,0000,0000,,Okay.
+Dialogue: 0,0:19:15.11,0:19:18.40,HaneMain,wata,0000,0000,0000,,Hey, sorry I'm late.
+Dialogue: 0,0:19:19.04,0:19:21.83,HaneMain,shi,0000,0000,0000,,Good morning, Coach Watari.
+Dialogue: 0,0:19:22.42,0:19:24.50,HaneMain,wata,0000,0000,0000,,Yes, good morning.
+Dialogue: 0,0:19:25.01,0:19:27.96,HaneMain,wata,0000,0000,0000,,I won't interfere.
+Dialogue: 0,0:19:28.38,0:19:29.77,HaneMain,shi,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:40.25,0:19:41.56,HaneMain,ref,0000,0000,0000,,10-2.
+Dialogue: 0,0:19:46.68,0:19:48.00,HaneMain,ta,0000,0000,0000,,This is impossible.
+Dialogue: 0,0:19:50.86,0:19:53.55,HaneMain,ta,0000,0000,0000,,I can't possibly win all by myself!
+Dialogue: 0,0:19:53.55,0:19:55.20,HaneMain,con,0000,0000,0000,,Let's swap, then!
+Dialogue: 0,0:20:20.41,0:20:22.96,HaneMain,ref,0000,0000,0000,,Service over. 3-10.
+Dialogue: 0,0:20:23.41,0:20:25.43,HaneMain,con,0000,0000,0000,,I'll handle the rest.
+Dialogue: 0,0:20:26.19,0:20:28.17,HaneMain,con,0000,0000,0000,,Don't get in my way again.
+Dialogue: 0,0:20:29.04,0:20:32.08,HaneMain,hay,0000,0000,0000,,Do you think you could've returned that one?
+Dialogue: 0,0:20:33.16,0:20:35.92,HaneMain,hay,0000,0000,0000,,Thought so... I couldn't even see it.
+Dialogue: 0,0:20:45.71,0:20:46.30,HaneMain,hay,0000,0000,0000,,Great one!
+Dialogue: 0,0:20:46.77,0:20:48.55,HaneMain,hay,0000,0000,0000,,Yeah! It'll get through!
+Dialogue: 0,0:20:52.54,0:20:53.49,HaneMain,tachi,0000,0000,0000,,So high...
+Dialogue: 0,0:20:58.50,0:21:01.02,HaneMain,con,0000,0000,0000,,What was with that wimpy return?
+Dialogue: 0,0:21:01.02,0:21:03.02,HaneMain,con,0000,0000,0000,,We're finally face to face here.
+Dialogue: 0,0:21:03.02,0:21:04.98,HaneMain,con,0000,0000,0000,,Give me a little more fun.
+Dialogue: 0,0:21:05.58,0:21:09.20,HaneMain,ele,0000,0000,0000,,What's with that Connie girl?
+Dialogue: 0,0:21:09.55,0:21:10.86,HaneMain,tachi,0000,0000,0000,,Connie...
+Dialogue: 0,0:21:11.32,0:21:13.41,HaneMain,tachi,0000,0000,0000,,Connie Christiansen...
+Dialogue: 0,0:21:13.41,0:21:16.87,sign_30532_317_Tagajo,,0000,0000,0000,,Tagajo
+Dialogue: 0,0:21:13.41,0:21:16.87,sign_30532_318_Connie_C,,0000,0000,0000,,Connie C
+Dialogue: 0,0:21:14.36,0:21:16.87,HaneMain,tachi,0000,0000,0000,,A prodigy from Denmark.
+Dialogue: 0,0:21:17.39,0:21:21.63,HaneMain,tachi,0000,0000,0000,,She won multiple world titles \Nat just sixteen years old.
+Dialogue: 0,0:21:22.86,0:21:24.94,HaneMain,ele,0000,0000,0000,,She's from Denmark?
+Dialogue: 0,0:21:24.94,0:21:26.79,HaneMain,ele,0000,0000,0000,,What's she doing here?
+Dialogue: 0,0:21:26.79,0:21:29.89,HaneMain,tachi,0000,0000,0000,,The length of her limbs, \Nher physical prowess...
+Dialogue: 0,0:21:29.89,0:21:33.77,HaneMain,tachi,0000,0000,0000,,She's at the top of her age group \Non an international scale.
+Dialogue: 0,0:21:34.11,0:21:37.04,HaneMain,tachi,0000,0000,0000,,Hanesaki might have great instincts, but...
+Dialogue: 0,0:21:38.44,0:21:40.99,HaneMain,ref,0000,0000,0000,,11-10! Interval!
+Dialogue: 0,0:21:56.16,0:21:58.42,HaneMain,riko,0000,0000,0000,,Ayano-chan, let's turn things around.
+Dialogue: 0,0:21:58.42,0:21:59.95,HaneMain,,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:22:00.70,0:22:02.25,HaneMain,ref,0000,0000,0000,,One minute!
+Dialogue: 0,0:22:22.36,0:22:25.39,HaneMain,ref,0000,0000,0000,,Like I said, your team is meaningless...
+Dialogue: 0,0:22:26.24,0:22:27.64,HaneMain,ref,0000,0000,0000,,Big Sister.

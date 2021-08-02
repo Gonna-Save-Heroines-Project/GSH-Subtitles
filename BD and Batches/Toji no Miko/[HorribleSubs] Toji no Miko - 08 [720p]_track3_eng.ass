@@ -1,0 +1,374 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,24,0
+Style: italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: italicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashbackitalics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: flashbacktop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashbackitalicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: sign_31989_282_Katana_Maidens,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,2,40,40,347,1
+Style: sign_3034_13_Episode_8__Day_o,Open Sans Semibold,21,&H00FBFCFE,&H000000FF,&H00414141,&H00000000,1,0,0,0,100,100,0,0,1,3,0,3,40,60,73,1
+Style: sign_16382_170_Spirit_Lantern,Open Sans Semibold,33,&H003D3639,&H000000FF,&H00DAF8F7,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,40,27,1
+Style: sign_21275_226_Juujou_Kagari_sa,Open Sans Semibold,33,&H00050C05,&H000000FF,&H00B1C1CF,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,40,120,27,1
+Style: sign_33924_347_Next_Episode__Af,Open Sans Semibold,21,&H00FBFCFE,&H000000FF,&H0019213F,&H00000000,1,0,0,0,100,100,0,0,1,3,0,3,40,60,73,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.48,0:00:03.55,flashbackitalics,Announcer,0000,0000,0000,,Today is the fourth day \Nsince a gigantic aradama
+Dialogue: 0,0:00:03.55,0:00:05.76,flashbackitalics,,0000,0000,0000,,never seen before in recorded \Nhistory has appeared.
+Dialogue: 0,0:00:05.76,0:00:07.85,flashbackitalics,,0000,0000,0000,,The damage at the center of\N Sagami Bay has expanded.
+Dialogue: 0,0:00:07.85,0:00:09.69,flashbackitalics,Announcer,0000,0000,0000,,According to the\N Special Religious Military Unit,
+Dialogue: 0,0:00:09.69,0:00:13.88,flashbackitalics,,0000,0000,0000,,the death toll is currently at \N1,089, while 864 remain missing,
+Dialogue: 0,0:00:13.88,0:00:16.54,flashbackitalics,,0000,0000,0000,,and 15,246 are injured.
+Dialogue: 0,0:00:16.54,0:00:19.76,flashbackitalics,Announcer,0000,0000,0000,,I repeat, the death toll \Nis currently at 1,089,
+Dialogue: 0,0:00:19.76,0:00:24.75,flashbackitalics,,0000,0000,0000,,while 864 remain missing, \Nand 15,246 are injured.
+Dialogue: 0,0:00:27.75,0:00:30.11,flashbackitalics,Soldier,0000,0000,0000,,It has been a approximately an hour since the
+Dialogue: 0,0:00:30.11,0:00:32.51,flashbackitalics,Soldier,0000,0000,0000,,Special Religious Military Unit's\Nspecial unit began their attack.
+Dialogue: 0,0:00:33.91,0:00:35.26,flashback,Akane,0000,0000,0000,,Nee-sama...
+Dialogue: 0,0:00:44.27,0:00:54.57,sign_31989_282_Katana_Maidens,Title,0000,0000,0000,,{\fad(271,271)}Katana Maidens
+Dialogue: 0,0:02:06.52,0:02:11.94,sign_3034_13_Episode_8__Day_o,Text,0000,0000,0000,,{\fad(481,643)}Episode 8  {\fs22}Day of Disaster
+Dialogue: 0,0:02:16.84,0:02:17.94,flashback,Yukari,0000,0000,0000,,What should we do?
+Dialogue: 0,0:02:18.40,0:02:19.61,flashback,Ema,0000,0000,0000,,Yukari, behind you!
+Dialogue: 0,0:02:22.16,0:02:23.62,flashback,Yukari,0000,0000,0000,,Th-Thank you.
+Dialogue: 0,0:02:26.13,0:02:27.23,flashback,Iroha,0000,0000,0000,,Yukina-chan!
+Dialogue: 0,0:02:27.23,0:02:28.14,flashback,Iroha,0000,0000,0000,,Yukina!
+Dialogue: 0,0:02:28.14,0:02:29.86,flashback,Iroha,0000,0000,0000,,It's no good, she can't use her utsushi anymore.
+Dialogue: 0,0:02:31.54,0:02:33.70,flashback,Yukina,0000,0000,0000,,Yukari-sama...
+Dialogue: 0,0:02:34.52,0:02:35.50,flashback,Yukari,0000,0000,0000,,Yukina...
+Dialogue: 0,0:02:37.43,0:02:42.05,flashback,Yukari,0000,0000,0000,,Minato, Yuzuki-senpai, \NEma, Iroha-senpai, Sana,
+Dialogue: 0,0:02:42.05,0:02:44.56,flashback,,0000,0000,0000,,you five take Yukina and retreat!
+Dialogue: 0,0:02:44.96,0:02:46.33,flashback,Yukina,0000,0000,0000,,No, please!
+Dialogue: 0,0:02:46.33,0:02:51.48,flashback,Yukina,0000,0000,0000,,You can't order a retreat because \Nof me. Please just let me die here!
+Dialogue: 0,0:02:51.48,0:02:52.19,flashback,Iroha,0000,0000,0000,,Yukina-chan!
+Dialogue: 0,0:02:52.60,0:02:55.19,flashback,Yukari,0000,0000,0000,,I don't want anyone else \Nto sacrifice themselves.
+Dialogue: 0,0:02:59.01,0:02:59.95,flashback,Minato,0000,0000,0000,,Kagari?
+Dialogue: 0,0:03:00.39,0:03:04.20,flashback,Iroha,0000,0000,0000,,That may be, but it'll be a little \Ndifficult to retreat, don't you think?
+Dialogue: 0,0:03:04.20,0:03:05.60,flashback,Sana,0000,0000,0000,,She's right!
+Dialogue: 0,0:03:05.60,0:03:09.29,flashback,Sana,0000,0000,0000,,We have trouble ahead of us and trouble \Nbehind us. We might as well go forward!
+Dialogue: 0,0:03:11.32,0:03:14.29,flashback,Ema,0000,0000,0000,,We're so close to it, though.
+Dialogue: 0,0:03:14.66,0:03:15.63,flashback,Yukari,0000,0000,0000,,No, we're not.
+Dialogue: 0,0:03:15.63,0:03:16.17,flashback,Ema,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:16.53,0:03:19.42,flashback,Yukari,0000,0000,0000,,The main body is likely deeper inside.
+Dialogue: 0,0:03:19.42,0:03:21.88,flashback,Minato,0000,0000,0000,,Then let's go and destroy it.
+Dialogue: 0,0:03:21.88,0:03:26.59,flashback,Kagari,0000,0000,0000,,No, Yukari-sama and I will \Ngo on our own from here.
+Dialogue: 0,0:03:26.59,0:03:28.10,flashback,Minato,0000,0000,0000,,What? Why?
+Dialogue: 0,0:03:28.10,0:03:30.57,flashback,Minato,0000,0000,0000,,Wait, hey, what do you mean?
+Dialogue: 0,0:03:31.63,0:03:35.11,flashback,Yukari,0000,0000,0000,,The aradama and Toji have been fighting \Neach other for over 400 years.
+Dialogue: 0,0:03:36.07,0:03:38.06,flashback,Yukari,0000,0000,0000,,In all that time, there have\N been three recorded
+Dialogue: 0,0:03:38.06,0:03:40.44,flashback,,0000,0000,0000,,instances of massive \Ndisasters caused by the aradama.
+Dialogue: 0,0:03:40.44,0:03:43.61,flashback,Yukari,0000,0000,0000,,Each time, a member of the Origami family, \Nalong with only one other person,
+Dialogue: 0,0:03:43.61,0:03:45.24,flashback,,0000,0000,0000,,suppressed them using an inherited technique.
+Dialogue: 0,0:03:45.24,0:03:46.74,flashback,Ema,0000,0000,0000,,A way to suppress them?
+Dialogue: 0,0:03:47.09,0:03:47.99,flashback,Minato,0000,0000,0000,,There is one?
+Dialogue: 0,0:03:48.64,0:03:49.50,flashback,Yukari,0000,0000,0000,,There is.
+Dialogue: 0,0:03:49.91,0:03:52.08,flashback,Yukari,0000,0000,0000,,I just need Kagari's help.
+Dialogue: 0,0:03:53.58,0:03:55.48,flashback,Minato,0000,0000,0000,,This is the first we've heard of it.
+Dialogue: 0,0:03:55.48,0:03:58.05,flashback,Ema,0000,0000,0000,,Why didn't you tell us, too?
+Dialogue: 0,0:03:58.44,0:04:01.67,flashback,Yuzuki,0000,0000,0000,,There's no time to explain. \NWe will follow orders.
+Dialogue: 0,0:04:01.67,0:04:03.24,flashback,Minato,0000,0000,0000,,Yuzuki-san...
+Dialogue: 0,0:04:03.24,0:04:05.63,flashback,Yuzuki,0000,0000,0000,,I will take command of the squad from here.
+Dialogue: 0,0:04:05.63,0:04:08.43,flashback,Yuzuki,0000,0000,0000,,We will protect Yukina and \Nretreat as quickly as possible.
+Dialogue: 0,0:04:08.43,0:04:12.43,flashback,Yukina,0000,0000,0000,,No, Yukari-sama... Yukari-oneesama!
+Dialogue: 0,0:04:12.43,0:04:13.42,flashback,Yukari,0000,0000,0000,,Kagari...
+Dialogue: 0,0:04:17.78,0:04:20.88,flashback,Yuzuki,0000,0000,0000,,Minato, take the lead and \Nsecure an escape route.
+Dialogue: 0,0:04:20.88,0:04:23.79,flashback,Minato,0000,0000,0000,,Sorry, Yuzuki-san. I'm gonna go back them up.
+Dialogue: 0,0:04:23.79,0:04:26.17,flashback,Yuzuki,0000,0000,0000,,Wait! There's nothing you can do if you go.
+Dialogue: 0,0:04:26.17,0:04:28.24,flashback,Minato,0000,0000,0000,,Ema, take care of things for me.
+Dialogue: 0,0:04:28.24,0:04:29.29,flashback,Ema,0000,0000,0000,,Minato!
+Dialogue: 0,0:04:29.69,0:04:31.90,flashback,Minato,0000,0000,0000,,Yukari and Kagari are both exhausted.
+Dialogue: 0,0:04:31.90,0:04:34.00,flashback,Minato,0000,0000,0000,,I can at least serve as the outrider.
+Dialogue: 0,0:04:34.95,0:04:37.24,flashback,Ema,0000,0000,0000,,Got it. Leave everyone to me!
+Dialogue: 0,0:04:37.24,0:04:38.00,flashback,Yuzuki,0000,0000,0000,,Ema!
+Dialogue: 0,0:04:41.13,0:04:45.26,flashback,Ema,0000,0000,0000,,You know how Minato is, \Ndon't you, Yuzuki-senpai?
+Dialogue: 0,0:04:45.26,0:04:48.10,flashback,Iroha,0000,0000,0000,,Exactly, it's a waste of \Ntime to try and stop her.
+Dialogue: 0,0:04:48.43,0:04:50.01,flashback,Sana,0000,0000,0000,,Then I'm going, too.
+Dialogue: 0,0:04:50.01,0:04:52.93,flashback,Ema,0000,0000,0000,,Sana-chan, things are pretty bad here, too.
+Dialogue: 0,0:04:54.37,0:04:55.18,flashback,Sana,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:00.45,0:05:01.68,flashback,Yukari,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:05:01.68,0:05:02.82,flashback,Yukari,0000,0000,0000,,Kagari, behind you!
+Dialogue: 0,0:05:06.43,0:05:08.42,flashback,Kagari,0000,0000,0000,,Minato-senpai?
+Dialogue: 0,0:05:09.24,0:05:10.33,flashback,Yukari,0000,0000,0000,,Why?
+Dialogue: 0,0:05:11.07,0:05:14.75,flashback,Minato,0000,0000,0000,,I don't understand how, but you can suppress\N that thing if you get to it, right?
+Dialogue: 0,0:05:14.75,0:05:15.98,flashback,Minato,0000,0000,0000,,Then...
+Dialogue: 0,0:05:19.99,0:05:21.63,flashback,,0000,0000,0000,,I'll back you up until you do.
+Dialogue: 0,0:05:21.63,0:05:23.39,flashback,Kagari,0000,0000,0000,,Are you crazy?
+Dialogue: 0,0:05:23.39,0:05:25.84,flashback,,0000,0000,0000,,Do you have any idea why \NYukari-sama had everyone go back?
+Dialogue: 0,0:05:25.84,0:05:28.59,flashback,Minato,0000,0000,0000,,If you have time to talk, save your breath.
+Dialogue: 0,0:05:29.62,0:05:31.60,flashback,Kagari,0000,0000,0000,,Why are you always like this?
+Dialogue: 0,0:05:31.60,0:05:35.10,flashback,Yukari,0000,0000,0000,,Kagari, Minato is right. Focus on the fight.
+Dialogue: 0,0:05:37.02,0:05:38.57,flashback,Yukari,0000,0000,0000,,Frankly, you saved us.
+Dialogue: 0,0:05:40.15,0:05:43.23,flashback,Yukari,0000,0000,0000,,But disobeying orders is a serious offense.
+Dialogue: 0,0:05:43.23,0:05:46.60,flashback,Minato,0000,0000,0000,,Aw, but it all worked\Nout in the end, didn't it?
+Dialogue: 0,0:05:50.84,0:05:52.08,flashback,Toji A,0000,0000,0000,,Across the bridge!
+Dialogue: 0,0:06:00.45,0:06:01.54,flashback,Ema,0000,0000,0000,,Minato...
+Dialogue: 0,0:06:15.66,0:06:18.01,main,Akane,0000,0000,0000,,The Great Disaster of Sagami Bay.
+Dialogue: 0,0:06:18.01,0:06:21.27,main,Akane,0000,0000,0000,,Twenty years have passed since that day.
+Dialogue: 0,0:06:21.27,0:06:23.19,main,Sana,0000,0000,0000,,It passed in a flash.
+Dialogue: 0,0:06:23.19,0:06:25.61,main,Ellen,0000,0000,0000,,Hi, Sana-sensei!
+Dialogue: 0,0:06:25.61,0:06:28.61,main,Mai,0000,0000,0000,,President Maniwa from Osafune Girls' School?
+Dialogue: 0,0:06:28.61,0:06:33.33,main,Sana,0000,0000,0000,,You're Juujou Hiyori and you \Nare Etou Kanami, correct?
+Dialogue: 0,0:06:33.63,0:06:34.70,main,Kanami,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:34.70,0:06:38.63,main,Sana,0000,0000,0000,,I can still remember that \Nday as if it was yesterday.
+Dialogue: 0,0:06:38.63,0:06:43.46,main,Sana,0000,0000,0000,,I am here today because \Nof both of your mothers.
+Dialogue: 0,0:06:45.75,0:06:47.38,main,Hiyori,0000,0000,0000,,Both of us?
+Dialogue: 0,0:06:47.72,0:06:48.86,main,Akane,0000,0000,0000,,That's right.
+Dialogue: 0,0:06:48.86,0:06:50.52,main,Akane,0000,0000,0000,,On the day of the disaster,
+Dialogue: 0,0:06:50.52,0:06:54.76,main,,0000,0000,0000,,three members of our unit headed to \NOkutsumiya to suppress the great aradama.
+Dialogue: 0,0:06:54.76,0:06:57.64,main,Akane,0000,0000,0000,,One of them was my older sister, Yukari.
+Dialogue: 0,0:06:58.12,0:07:01.65,main,Akane,0000,0000,0000,,Another one was Hiyori-san's \Nmother, Hiiragi Kagari.
+Dialogue: 0,0:07:02.08,0:07:06.90,main,Akane,0000,0000,0000,,And the third was Kanami-san's \Nmother, Fujiwara Minato.
+Dialogue: 0,0:07:07.53,0:07:09.03,main,Mai,0000,0000,0000,,Eh?!
+Dialogue: 0,0:07:07.53,0:07:09.03,main,Ellen,0000,0000,0000,,Oh!
+Dialogue: 0,0:07:07.53,0:07:09.03,top,Kaoru,0000,0000,0000,,Seriously?
+Dialogue: 0,0:07:09.03,0:07:11.20,main,Ellen,0000,0000,0000,,Hiyoyon's mama was Kagarin, and...
+Dialogue: 0,0:07:11.20,0:07:13.95,main,Mai,0000,0000,0000,,Kanami-chan's mother was Minato-san?
+Dialogue: 0,0:07:13.95,0:07:15.20,main,Akane,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:15.20,0:07:16.75,main,Hiyori,0000,0000,0000,,Why didn't you tell me?!
+Dialogue: 0,0:07:16.75,0:07:18.80,main,Kanami,0000,0000,0000,,Well, you didn't ask me.
+Dialogue: 0,0:07:18.80,0:07:22.54,main,Kanami,0000,0000,0000,,Besides, Fujiwara is her maiden name. \NShe goes by Etou Minato now.
+Dialogue: 0,0:07:22.54,0:07:25.39,main,Kaoru,0000,0000,0000,,But she's your mother, right?
+Dialogue: 0,0:07:25.39,0:07:28.17,main,Kaoru,0000,0000,0000,,Didn't you ask her about \Nher time as a Toji at all?
+Dialogue: 0,0:07:28.17,0:07:31.55,main,Kanami,0000,0000,0000,,My mother never talked about those things.
+Dialogue: 0,0:07:32.50,0:07:35.30,main,Kanami,0000,0000,0000,,But I get it now. My mother was a Toji.
+Dialogue: 0,0:07:35.30,0:07:39.87,main,Mai,0000,0000,0000,,Wasn't your mother your first \Nsword instructor, Kanami-chan?
+Dialogue: 0,0:07:39.87,0:07:43.77,main,Kanami,0000,0000,0000,,Yeah, she worked me hard \Nevery day, ever since I was little.
+Dialogue: 0,0:07:43.77,0:07:46.52,main,Sana,0000,0000,0000,,Minato-senpai was really strong.
+Dialogue: 0,0:07:46.52,0:07:51.24,main,Sana,0000,0000,0000,,She was the best I ever knew, and even \Nstronger than Origami Yukari at the time.
+Dialogue: 0,0:07:51.24,0:07:52.65,main,Kanami,0000,0000,0000,,Is that true?
+Dialogue: 0,0:07:52.65,0:07:58.41,main,Sana,0000,0000,0000,,Yes, Minato-senpai and Kagari-senpai \Nwere both incredible Toji.
+Dialogue: 0,0:07:58.68,0:08:02.01,main,Akane,0000,0000,0000,,The real heroes who suppressed \Nthe great aradama
+Dialogue: 0,0:08:02.01,0:08:05.42,main,,0000,0000,0000,,at the Great Disaster of \NSagami Bay were your mothers.
+Dialogue: 0,0:08:05.42,0:08:10.80,main,Sana,0000,0000,0000,,And we were never able to repay those heroes.
+Dialogue: 0,0:08:14.30,0:08:16.04,main,Mai,0000,0000,0000,,Kanami-chan...
+Dialogue: 0,0:08:16.04,0:08:21.30,main,Akane,0000,0000,0000,,There is something else I need \Nto tell you all while we are here.
+Dialogue: 0,0:08:21.81,0:08:27.44,main,Akane,0000,0000,0000,,We have not yet completely vanquished the\Ngreat aradama that appeared twenty years ago.
+Dialogue: 0,0:08:27.92,0:08:32.32,main,Akane,0000,0000,0000,,Furthermore, the great aradama has \Ngained far more power since then,
+Dialogue: 0,0:08:32.32,0:08:33.70,main,,0000,0000,0000,,and become much stronger.
+Dialogue: 0,0:08:34.28,0:08:37.95,main,Akane,0000,0000,0000,,We believe that it could cause a great \Ndisaster like it did twenty years ago
+Dialogue: 0,0:08:38.28,0:08:39.95,main,,0000,0000,0000,,at any time.
+Dialogue: 0,0:08:39.95,0:08:43.96,main,Mai,0000,0000,0000,,Could that great aradama be \Nthe one that Kanami-chan saw?
+Dialogue: 0,0:08:43.96,0:08:46.38,main,Akane,0000,0000,0000,,Yes. Princess Tagitsu...
+Dialogue: 0,0:08:46.38,0:08:49.22,main,Akane,0000,0000,0000,,Who is now my older sister, Origami Yukari.
+Dialogue: 0,0:09:01.78,0:09:03.85,flashback,Akane,0000,0000,0000,,Nee-sama, you're all right!
+Dialogue: 0,0:09:07.35,0:09:11.08,flashback,Akane,0000,0000,0000,,Nee-sama, where are Kagari-san and Minato-san?
+Dialogue: 0,0:09:24.84,0:09:29.04,main,Akane,0000,0000,0000,,When the huge aradama that had \Npossessed Enoshima disappeared,
+Dialogue: 0,0:09:29.04,0:09:33.15,main,,0000,0000,0000,,the government and the Sword Administration\N declared the incident over.
+Dialogue: 0,0:09:33.51,0:09:37.18,main,,0000,0000,0000,,They hid the existence of Prince Tagitsu,\N who was in Okutsumiya.
+Dialogue: 0,0:09:37.63,0:09:40.09,main,Akane,0000,0000,0000,,They concluded that the \Nexistence of an aradama
+Dialogue: 0,0:09:40.09,0:09:43.56,main,,0000,0000,0000,,with such high intelligence \Nwould lead to confusion for the masses.
+Dialogue: 0,0:09:44.18,0:09:46.94,main,Akane,0000,0000,0000,,Of course, that was just the alleged reason.
+Dialogue: 0,0:09:48.10,0:09:50.96,main,Sana,0000,0000,0000,,Since one of the people making that decision
+Dialogue: 0,0:09:50.96,0:09:52.94,main,,0000,0000,0000,,was none other than Origami Yukari herself.
+Dialogue: 0,0:09:53.44,0:09:56.54,main,Akane,0000,0000,0000,,That is why the tale of the vanquishing \Nof the great disaster
+Dialogue: 0,0:09:56.54,0:09:58.45,main,,0000,0000,0000,,that you all know is not the truth.
+Dialogue: 0,0:09:58.45,0:10:01.93,main,Mai,0000,0000,0000,,We were taught in school that it \Nwas vanquished by the six members
+Dialogue: 0,0:10:01.93,0:10:05.20,main,,0000,0000,0000,,of the special unit consisting of the head of the Origami family, Yukari-sama,
+Dialogue: 0,0:10:05.62,0:10:07.39,main,,0000,0000,0000,,and the current presidents\N of the five schools.
+Dialogue: 0,0:10:07.39,0:10:10.96,main,Akane,0000,0000,0000,,Yes, Hiiragi Kagari and \NFujiwara Minato's names
+Dialogue: 0,0:10:10.96,0:10:14.59,main,,0000,0000,0000,,were removed from the special unit's roster,\N which should have listed eight members.
+Dialogue: 0,0:10:16.80,0:10:18.17,main,Akane,0000,0000,0000,,Princess Tagitsu...
+Dialogue: 0,0:10:18.79,0:10:23.31,main,Akane,0000,0000,0000,,She never told us how she suppressed it.
+Dialogue: 0,0:10:24.15,0:10:26.31,main,Akane,0000,0000,0000,,Two years after the great disaster,
+Dialogue: 0,0:10:26.60,0:10:28.81,main,,0000,0000,0000,,Yukari ascended to the head \Nof the Origami family.
+Dialogue: 0,0:10:28.81,0:10:31.19,main,Sana,0000,0000,0000,,And those of us in the special unit
+Dialogue: 0,0:10:31.19,0:10:33.93,main,,0000,0000,0000,,were installed as the presidents \Nof the five schools,
+Dialogue: 0,0:10:33.93,0:10:36.69,main,,0000,0000,0000,,since we were the heroes of \Nthe great aradama vanquishing.
+Dialogue: 0,0:10:37.05,0:10:41.45,main,Sana,0000,0000,0000,,Even then, Minato-senpai and \NKagari-senpai weren't included.
+Dialogue: 0,0:10:42.68,0:10:47.95,main,Akane,0000,0000,0000,,They both had their lives,\N but they never returned to being Toji.
+Dialogue: 0,0:10:48.42,0:10:53.71,main,Akane,0000,0000,0000,,But they each made a family for themselves, \Nand they lived their days in peace.
+Dialogue: 0,0:10:55.71,0:10:58.97,main,Akane,0000,0000,0000,,Shortly thereafter, the Sword Administration
+Dialogue: 0,0:10:58.97,0:11:03.16,main,,0000,0000,0000,,and Special Religious Military Unit \Norganizations grew much stronger
+Dialogue: 0,0:11:03.16,0:11:05.10,main,,0000,0000,0000,,under Yukari's control.
+Dialogue: 0,0:11:05.60,0:11:09.77,main,Akane,0000,0000,0000,,As a result, damage by the \Naradama was minimized,
+Dialogue: 0,0:11:09.77,0:11:13.26,main,,0000,0000,0000,,public opinion improved in polling,\N and new technologies were developed
+Dialogue: 0,0:11:13.26,0:11:16.39,main,,0000,0000,0000,,one after another in cooperation \Nwith other countries.
+Dialogue: 0,0:11:16.86,0:11:23.24,main,Akane,0000,0000,0000,,But no one realized what was \Nleft behind twenty years ago.
+Dialogue: 0,0:11:23.24,0:11:25.49,sign_16382_170_Spirit_Lantern,Text,0000,0000,0000,,Spirit Lantern
+Dialogue: 0,0:11:23.88,0:11:25.49,main,Akane,0000,0000,0000,,The significance of the situation...
+Dialogue: 0,0:11:25.79,0:11:31.00,main,Akane,0000,0000,0000,,It was seven years ago when Minato-san \Npassed away that I realized the truth.
+Dialogue: 0,0:11:31.97,0:11:34.43,main,Akane,0000,0000,0000,,When she found out that \NMinato-san had passed,
+Dialogue: 0,0:11:34.43,0:11:38.95,main,,0000,0000,0000,,Kagari-san blamed herself, \Nsaying it was all her fault.
+Dialogue: 0,0:11:42.04,0:11:44.39,main,Akane,0000,0000,0000,,Upon hearing Kagari-san's words,
+Dialogue: 0,0:11:44.39,0:11:48.64,main,,0000,0000,0000,,I was determined to discover the truth \Nof the great aradama vanquishing.
+Dialogue: 0,0:11:49.22,0:11:52.92,main,Akane,0000,0000,0000,,The method that Yukari used \Nat the great disaster...
+Dialogue: 0,0:11:53.65,0:11:59.05,main,Akane,0000,0000,0000,,The calming ritual was only passed down to \Na small portion of the Origami family.
+Dialogue: 0,0:11:59.68,0:12:03.56,main,Akane,0000,0000,0000,,I was able to locate it \Nwith clues from old books.
+Dialogue: 0,0:12:04.27,0:12:08.41,main,Akane,0000,0000,0000,,That method would have dragged\N Princess Tagitsu into the netherworld
+Dialogue: 0,0:12:08.41,0:12:12.74,main,,0000,0000,0000,,in exchange for the life of Hiiragi Kagari.
+Dialogue: 0,0:12:16.13,0:12:18.92,main,Mai,0000,0000,0000,,To the netherworld? In exchange for a life?
+Dialogue: 0,0:12:18.92,0:12:21.42,main,Kaoru,0000,0000,0000,,Is that even possible?
+Dialogue: 0,0:12:21.87,0:12:23.10,main,Sana,0000,0000,0000,,It is.
+Dialogue: 0,0:12:23.10,0:12:25.31,main,Sana,0000,0000,0000,,Toji use the power of their okatana,
+Dialogue: 0,0:12:25.31,0:12:28.44,main,,0000,0000,0000,,and use the power of various \Nlayers of the netherworld,
+Dialogue: 0,0:12:28.44,0:12:32.78,main,,0000,0000,0000,,but rarely, there are those with the power \Nto reach the depths of the netherworld.
+Dialogue: 0,0:12:33.44,0:12:36.19,main,Sana,0000,0000,0000,,Kagari-senpai's jin'i was one such power.
+Dialogue: 0,0:12:36.57,0:12:40.76,main,Sana,0000,0000,0000,,Jin'i uses a layer of the netherworld \Nto change the flow of time.
+Dialogue: 0,0:12:40.76,0:12:42.33,main,,0000,0000,0000,,It's an accelerating technique.
+Dialogue: 0,0:12:42.33,0:12:45.07,main,Sana,0000,0000,0000,,The further you dive into it,\N the more you accelerate.
+Dialogue: 0,0:12:45.07,0:12:49.70,main,Sana,0000,0000,0000,,But what do you think happens once \Nyou reach the theoretical limit?
+Dialogue: 0,0:12:50.19,0:12:53.46,main,Sayaka,0000,0000,0000,,A moment becomes an eternity \Nand time becomes infinite.
+Dialogue: 0,0:12:54.37,0:12:56.53,main,Sayaka,0000,0000,0000,,And you won't be able to come back.
+Dialogue: 0,0:12:56.53,0:13:02.46,main,Sana,0000,0000,0000,,That's right. Kagari-senpai had the \Nability to reach infinity.
+Dialogue: 0,0:13:02.46,0:13:04.75,main,Sana,0000,0000,0000,,Pierce your opponent with your okatana,
+Dialogue: 0,0:13:04.75,0:13:07.69,main,,0000,0000,0000,,and, theoretically, perform your \Njin'i at the maximum speed.
+Dialogue: 0,0:13:07.69,0:13:10.99,main,Sana,0000,0000,0000,,And then drag your opponent \Ninto the netherworld.
+Dialogue: 0,0:13:10.99,0:13:12.14,main,Ellen,0000,0000,0000,,Goodness...
+Dialogue: 0,0:13:12.14,0:13:14.23,main,Kaoru,0000,0000,0000,,A double suicide move, huh?
+Dialogue: 0,0:13:14.60,0:13:19.01,main,Sana,0000,0000,0000,,Kagari-senpai bore the burden of such a duty.
+Dialogue: 0,0:13:19.01,0:13:21.10,main,Sana,0000,0000,0000,,She was prepared from the very beginning
+Dialogue: 0,0:13:21.10,0:13:23.61,main,,0000,0000,0000,,to give up her own life \Nto suppress the aradama.
+Dialogue: 0,0:13:25.21,0:13:28.25,main,Akane,0000,0000,0000,,But Kagari-san survived.
+Dialogue: 0,0:13:28.25,0:13:32.76,main,Akane,0000,0000,0000,,That is because Minato-san just \Nbarely managed to save her.
+Dialogue: 0,0:13:32.76,0:13:34.25,main,Kanami,0000,0000,0000,,My mother did?
+Dialogue: 0,0:13:34.25,0:13:38.89,main,Sana,0000,0000,0000,,Even so, we believe they literally \Nshortened their own lives.
+Dialogue: 0,0:13:38.89,0:13:43.64,main,Sana,0000,0000,0000,,They lost their powers as Toji, and \Nafter some years, they also lost their lives.
+Dialogue: 0,0:13:46.38,0:13:49.64,main,Mai,0000,0000,0000,,Then that was the cause of their passing?
+Dialogue: 0,0:13:49.64,0:13:51.55,main,Ellen,0000,0000,0000,,How strange.
+Dialogue: 0,0:13:51.55,0:13:54.86,main,Ellen,0000,0000,0000,,If they chased Princess Tagitsu \Nback into the netherworld,
+Dialogue: 0,0:13:54.86,0:13:57.50,main,,0000,0000,0000,,then what is Origami Yukari?
+Dialogue: 0,0:13:57.50,0:14:00.73,main,Hiyori,0000,0000,0000,,My mother wasn't able to \Nsuppress the great aradama.
+Dialogue: 0,0:14:00.73,0:14:03.59,main,Hiyori,0000,0000,0000,,She only took away its power temporarily.
+Dialogue: 0,0:14:04.20,0:14:08.46,main,Hiyori,0000,0000,0000,,It most likely escaped extinction \Nby possessing Origami Yukari.
+Dialogue: 0,0:14:08.88,0:14:13.03,main,Hiyori,0000,0000,0000,,And after twenty years, it is \Ntrying to revive itself.
+Dialogue: 0,0:14:13.03,0:14:16.54,main,Kanami,0000,0000,0000,,Wait, then what happened \Nto who she used to be?
+Dialogue: 0,0:14:16.54,0:14:18.84,main,Hiyori,0000,0000,0000,,She's been gradually worn \Naway by the aradama.
+Dialogue: 0,0:14:18.84,0:14:19.79,main,Akane,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:20.12,0:14:23.80,main,Akane,0000,0000,0000,,Ever since that day, that thing\N was no longer my sister.
+Dialogue: 0,0:14:26.24,0:14:30.55,main,Akane,0000,0000,0000,,I saw her myself in the hall \Nof worship two years ago.
+Dialogue: 0,0:14:30.89,0:14:35.06,main,Akane,0000,0000,0000,,She was talking with \Nsomething lurking inside.
+Dialogue: 0,0:14:35.81,0:14:40.84,main,Akane,0000,0000,0000,,I was convinced that it \Nwas Princess Tagitsu,
+Dialogue: 0,0:14:40.84,0:14:44.44,main,,0000,0000,0000,,the aradama who was vanquished in the \Ngreat disaster, in the form of Yukari.
+Dialogue: 0,0:14:44.96,0:14:50.07,main,Akane,0000,0000,0000,,I wrote those details down in a letter, \Nand implored Kagari-san for her help.
+Dialogue: 0,0:14:47.32,0:14:50.07,sign_21275_226_Juujou_Kagari_sa,Text,0000,0000,0000,,Juujou Kagari-sama
+Dialogue: 0,0:14:51.44,0:14:53.83,main,Akane,0000,0000,0000,,You have read that letter, haven't you?
+Dialogue: 0,0:15:01.62,0:15:06.14,main,Akane,0000,0000,0000,,Hiyori-san, Kanami-san, \Nhere is what I believe...
+Dialogue: 0,0:15:06.14,0:15:10.52,main,Akane,0000,0000,0000,,Had Yukari's plan succeeded \Non that day twenty years ago,
+Dialogue: 0,0:15:10.95,0:15:13.85,main,,0000,0000,0000,,and Minato-san and Kagari-san not come back,
+Dialogue: 0,0:15:13.85,0:15:16.35,main,,0000,0000,0000,,you two would not be here.
+Dialogue: 0,0:15:16.73,0:15:19.10,main,Akane,0000,0000,0000,,I cannot help but wonder
+Dialogue: 0,0:15:19.57,0:15:23.86,main,,0000,0000,0000,,if it was their true wish that \Nyou both be here right now.
+Dialogue: 0,0:15:25.11,0:15:29.21,main,Akane,0000,0000,0000,,Myself, along with the members of\N Mokusa here, will do something about Yukari.
+Dialogue: 0,0:15:29.80,0:15:30.86,main,Akane,0000,0000,0000,,So...
+Dialogue: 0,0:15:34.32,0:15:36.66,main,Sana,0000,0000,0000,,Professor, how's that ampoule coming?
+Dialogue: 0,0:15:36.66,0:15:41.02,main,Friedman,0000,0000,0000,,It is being analyzed for now, but it may \Nbe impossible for our facility to deal with.
+Dialogue: 0,0:15:41.02,0:15:44.92,main,Friedman,0000,0000,0000,,In that case, I would like for you to \Ntake it to your friends at Osafune.
+Dialogue: 0,0:15:44.92,0:15:46.20,main,Sana,0000,0000,0000,,Understood.
+Dialogue: 0,0:15:46.20,0:15:48.41,main,Sana,0000,0000,0000,,If the ampoule is what we think it is,
+Dialogue: 0,0:15:48.41,0:15:50.84,main,,0000,0000,0000,,we can finally shed light on the injustices
+Dialogue: 0,0:15:50.84,0:15:53.18,main,,0000,0000,0000,,the Origami family and Renpu \Nhave been carrying out.
+Dialogue: 0,0:15:53.18,0:15:54.59,main,Friedman,0000,0000,0000,,This is the precious thing
+Dialogue: 0,0:15:54.59,0:15:57.47,main,,0000,0000,0000,,my granddaughter and her friends obtained,\N heedless of the dangers.
+Dialogue: 0,0:15:57.47,0:15:58.81,main,Friedman,0000,0000,0000,,I won't let it go to waste.
+Dialogue: 0,0:15:58.81,0:16:00.89,main,Ellen,0000,0000,0000,,Please praise me!
+Dialogue: 0,0:16:00.89,0:16:03.93,main,Sana,0000,0000,0000,,All right, good girl, good girl, good girl.
+Dialogue: 0,0:16:03.93,0:16:05.40,main,Ellen,0000,0000,0000,,Hooray!
+Dialogue: 0,0:16:05.40,0:16:08.79,main,Kaoru,0000,0000,0000,,I'm expecting a bonus for this.
+Dialogue: 0,0:16:09.99,0:16:13.42,main,Sana,0000,0000,0000,,The more you succeed,\N the busier I'm going to make you.
+Dialogue: 0,0:16:13.42,0:16:14.74,main,Kaoru,0000,0000,0000,,Hey...
+Dialogue: 0,0:16:15.00,0:16:17.80,main,Akane,0000,0000,0000,,Chidori and Kogarasumaru were the okatana
+Dialogue: 0,0:16:17.80,0:16:20.63,main,,0000,0000,0000,,each used by Minato-san and \NKagari-san, respectively.
+Dialogue: 0,0:16:21.00,0:16:24.37,main,Akane,0000,0000,0000,,And now they have been passed \Ndown to their daughters.
+Dialogue: 0,0:16:25.01,0:16:28.25,italics,Akane,0000,0000,0000,,Could there be some kind of \Nlink between these two swords?
+Dialogue: 0,0:16:29.96,0:16:32.76,main,Akane,0000,0000,0000,,Nothing. It was just my imagination.
+Dialogue: 0,0:16:39.51,0:16:43.68,main,Mai,0000,0000,0000,,We only just got here,\N and that was a lot to take in.
+Dialogue: 0,0:16:43.68,0:16:46.28,main,Sayaka,0000,0000,0000,,What should I do now?
+Dialogue: 0,0:16:46.28,0:16:48.90,main,Mai,0000,0000,0000,,What? Just act normal.
+Dialogue: 0,0:16:49.29,0:16:52.20,main,Sayaka,0000,0000,0000,,I can't do anything except fight,
+Dialogue: 0,0:16:52.20,0:16:54.78,main,,0000,0000,0000,,but I want to be useful to everyone.
+Dialogue: 0,0:16:55.24,0:16:56.74,main,Mai,0000,0000,0000,,Sayaka-chan...
+Dialogue: 0,0:17:02.26,0:17:03.98,main,Kanami,0000,0000,0000,,Hey, Hiyori-chan.
+Dialogue: 0,0:17:05.29,0:17:10.48,main,Kanami,0000,0000,0000,,It's kind of strange, isn't it?\N Sleeping with everyone like this.
+Dialogue: 0,0:17:10.48,0:17:13.66,main,Kanami,0000,0000,0000,,Having obtained that ampoule, \Nthe members of Mokusa
+Dialogue: 0,0:17:13.66,0:17:16.86,main,,0000,0000,0000,,might be able to actually make a \Nmove against the Origami family.
+Dialogue: 0,0:17:17.32,0:17:21.45,main,Kanami,0000,0000,0000,,All of these things are the \Nresult of your actions.
+Dialogue: 0,0:17:21.81,0:17:25.96,main,Kanami,0000,0000,0000,,Your hard work wasn't a mistake.
+Dialogue: 0,0:17:27.70,0:17:33.43,main,Hiyori,0000,0000,0000,,Kanami, do you really plan to just leave \Nit all up to Mokusa like Origami Akane?
+Dialogue: 0,0:17:33.83,0:17:35.18,main,Kanami,0000,0000,0000,,I didn't say that.
+Dialogue: 0,0:17:36.70,0:17:40.08,main,Ellen,0000,0000,0000,,You two are so noisy! Especially Hiyoyon!
+Dialogue: 0,0:17:40.08,0:17:40.62,main,Hiyori,0000,0000,0000,,Wha?
+Dialogue: 0,0:17:40.62,0:17:42.35,main,Kaoru,0000,0000,0000,,Be quiet and go to sleep.
+Dialogue: 0,0:17:42.35,0:17:45.24,main,Kaoru,0000,0000,0000,,Our Mokusa senpai are going \Nto have us train tomorrow,
+Dialogue: 0,0:17:45.24,0:17:46.96,main,,0000,0000,0000,,even though we didn't ask for that.
+Dialogue: 0,0:17:46.96,0:17:49.45,main,Kaoru,0000,0000,0000,,They're really going to work us hard.
+Dialogue: 0,0:17:51.76,0:17:53.10,main,Kanami,0000,0000,0000,,Okay.
+Dialogue: 0,0:18:02.92,0:18:05.68,main,Minato,0000,0000,0000,,I see, you heard all that from Sana.
+Dialogue: 0,0:18:06.08,0:18:08.31,main,Kanami,0000,0000,0000,,So you are my mother from back then.
+Dialogue: 0,0:18:08.31,0:18:13.39,main,Minato,0000,0000,0000,,But even still, I don't have any \Nmemories from beyond the age of 17.
+Dialogue: 0,0:18:13.39,0:18:18.07,main,Minato,0000,0000,0000,,I think your mother was a different me,\N but it's kind of complicated.
+Dialogue: 0,0:18:18.07,0:18:19.93,main,Kanami,0000,0000,0000,,I get it.
+Dialogue: 0,0:18:19.93,0:18:23.63,main,Kanami,0000,0000,0000,,The friend I mentioned before \Nis Kagari-san's daughter.
+Dialogue: 0,0:18:23.63,0:18:24.91,main,Kanami,0000,0000,0000,,Her name is Hiyori-chan.
+Dialogue: 0,0:18:24.91,0:18:27.71,main,Minato,0000,0000,0000,,Wow! So Kagari actually got married?
+Dialogue: 0,0:18:27.71,0:18:29.86,main,Minato,0000,0000,0000,,I guess I did too, though.
+Dialogue: 0,0:18:30.63,0:18:33.29,main,Minato,0000,0000,0000,,Hey, you'll have to tell me \Nhow we got together next time.
+Dialogue: 0,0:18:33.29,0:18:34.17,main,Kanami,0000,0000,0000,,Okay.
+Dialogue: 0,0:18:34.17,0:18:37.80,main,Kanami,0000,0000,0000,,Oh, but I forget everything \Nabout this place when I wake up.
+Dialogue: 0,0:18:37.80,0:18:39.18,main,Minato,0000,0000,0000,,I see...
+Dialogue: 0,0:18:39.98,0:18:42.80,main,Minato,0000,0000,0000,,Does that mean you've forgotten all \Nthe techniques I've taught you so far?
+Dialogue: 0,0:18:42.80,0:18:45.50,main,Kanami,0000,0000,0000,,My body seems to remember them.
+Dialogue: 0,0:18:45.50,0:18:47.88,main,Minato,0000,0000,0000,,Does it? That's great. What a relief!
+Dialogue: 0,0:18:47.88,0:18:50.80,main,Minato,0000,0000,0000,,Then today, I'll teach you my trump card.
+Dialogue: 0,0:18:50.80,0:18:52.73,main,Kanami,0000,0000,0000,,Okay! Please do, Mother!
+Dialogue: 0,0:18:52.73,0:18:55.61,main,Minato,0000,0000,0000,,Stop that! I'm not old enough for that yet.
+Dialogue: 0,0:18:55.61,0:18:57.19,main,Kanami,0000,0000,0000,,Minato, then!
+Dialogue: 0,0:18:57.19,0:18:58.59,main,Minato,0000,0000,0000,,Master.
+Dialogue: 0,0:18:58.59,0:18:59.91,main,Kanami,0000,0000,0000,,Master Minato!
+Dialogue: 0,0:19:04.64,0:19:09.91,main,Minato,0000,0000,0000,,Hey, what was I like when I was your mom?
+Dialogue: 0,0:19:10.72,0:19:13.33,main,Kanami,0000,0000,0000,,You were no different at all!\N Exactly like this!
+Dialogue: 0,0:19:13.33,0:19:15.68,main,Minato,0000,0000,0000,,Figures!
+Dialogue: 0,0:19:15.68,0:19:17.26,main,Minato,0000,0000,0000,,Okay, come at me!
+Dialogue: 0,0:19:17.99,0:19:20.91,main,Kanami,0000,0000,0000,,My mother used to change how she \Nheld her sword like that, too.
+Dialogue: 0,0:19:20.91,0:19:22.91,main,Kanami,0000,0000,0000,,Is it a habit? Does it have some meaning?
+Dialogue: 0,0:19:23.47,0:19:24.89,main,Minato,0000,0000,0000,,What, this?
+Dialogue: 0,0:19:24.89,0:19:29.10,main,Minato,0000,0000,0000,,Well, it depends on the situation, \Nbut you don't need to copy me.
+Dialogue: 0,0:19:34.11,0:19:36.44,main,Kouko,0000,0000,0000,,Fighting an aradama requires teamwork.
+Dialogue: 0,0:19:36.44,0:19:40.07,main,Kouko,0000,0000,0000,,Keep a close eye on who's attacking, \Ndefending, and commanding.
+Dialogue: 0,0:19:40.84,0:19:42.06,main,Kouko,0000,0000,0000,,That's enough!
+Dialogue: 0,0:19:42.06,0:19:43.08,main,Kaoru,0000,0000,0000,,How disappointing.
+Dialogue: 0,0:19:44.64,0:19:48.37,main,Kouko,0000,0000,0000,,You're all decent enough on your own,\N but together, you're hopeless.
+Dialogue: 0,0:19:48.37,0:19:52.49,main,Satomi,0000,0000,0000,,If you command the team timidly,\N it will not function.
+Dialogue: 0,0:19:52.49,0:19:56.10,main,Satomi,0000,0000,0000,,You can see through things,\N so have confidence in yourself.
+Dialogue: 0,0:19:56.10,0:19:57.38,main,Mai,0000,0000,0000,,Okay...
+Dialogue: 0,0:19:57.38,0:20:00.16,main,Kouko,0000,0000,0000,,Now, what should we do?\N Do you wanna go one more round?
+Dialogue: 0,0:20:00.16,0:20:02.78,main,Kaoru,0000,0000,0000,,No, I can't take anymore.
+Dialogue: 0,0:20:02.78,0:20:03.96,main,Sayaka,0000,0000,0000,,One more please.
+Dialogue: 0,0:20:03.96,0:20:06.92,main,Ellen,0000,0000,0000,,Saaya, you're so full of motivation.
+Dialogue: 0,0:20:09.10,0:20:12.22,main,Kaoru,0000,0000,0000,,I'm beat. I need water.
+Dialogue: 0,0:20:14.60,0:20:18.11,main,Kanami,0000,0000,0000,,That's the S Equipment Ellen-chan and \NKaoru-chan were wearing before, right?
+Dialogue: 0,0:20:18.64,0:20:22.56,main,Kanami,0000,0000,0000,,That kind of equipment didn't exist \Nduring my mom's time, did it.
+Dialogue: 0,0:20:22.56,0:20:23.68,main,Hiyori,0000,0000,0000,,If it did...
+Dialogue: 0,0:20:23.68,0:20:27.19,main,Friedman,0000,0000,0000,,You think your mothers \Nmight not have passed away?
+Dialogue: 0,0:20:28.20,0:20:30.42,main,Hiyori,0000,0000,0000,,Fine—Friedman.
+Dialogue: 0,0:20:31.91,0:20:35.71,main,Friedman,0000,0000,0000,,Though they can use special \Npowers like utsushi and jin'i,
+Dialogue: 0,0:20:35.71,0:20:38.32,main,,0000,0000,0000,,Toji are still just girls.
+Dialogue: 0,0:20:38.32,0:20:41.46,main,Friedman,0000,0000,0000,,The number of Toji saved by \Nthis technology will increase.
+Dialogue: 0,0:20:42.07,0:20:44.79,main,Friedman,0000,0000,0000,,That's not the only benefit \Nof the netherworld technology.
+Dialogue: 0,0:20:45.24,0:20:49.02,main,Friedman,0000,0000,0000,,The world as we know it will change \Ncompletely as development progresses.
+Dialogue: 0,0:20:49.02,0:20:52.46,main,Friedman,0000,0000,0000,,Just like in my native country, \Nthere are many people who think
+Dialogue: 0,0:20:52.46,0:20:55.72,main,,0000,0000,0000,,they want this technology, even if \Nthey have to enter another person's property.
+Dialogue: 0,0:20:56.16,0:21:00.61,main,Friedman,0000,0000,0000,,But why did Origami Yukari \Nbring about this technology?
+Dialogue: 0,0:21:00.61,0:21:04.07,main,Friedman,0000,0000,0000,,I study this technology every day.
+Dialogue: 0,0:21:04.07,0:21:08.81,main,Friedman,0000,0000,0000,,Because I thought that I could figure out \NOrigami Yukari's motivation that way.
+Dialogue: 0,0:21:08.81,0:21:13.11,main,Friedman,0000,0000,0000,,And once I did find it,\N I came to a simple conclusion.
+Dialogue: 0,0:21:13.11,0:21:16.56,main,Friedman,0000,0000,0000,,It seemed to me that it \Nwas just a way for Toji
+Dialogue: 0,0:21:16.56,0:21:21.04,main,,0000,0000,0000,,to effectively hunt aradama \Nand to quickly recover noro.
+Dialogue: 0,0:21:21.04,0:21:26.38,main,Friedman,0000,0000,0000,,Developing this technology is no more\N than making tea to her.
+Dialogue: 0,0:21:28.22,0:21:33.35,main,Friedman,0000,0000,0000,,The opponent we are trying to face \Nnow isn't just an ordinary aradama.
+Dialogue: 0,0:21:34.02,0:21:36.39,main,Friedman,0000,0000,0000,,She may be more like a god.
+Dialogue: 0,0:21:39.98,0:21:44.15,main,Sana,0000,0000,0000,,Well, then, I will report in once we \Nare finished analyzing it at Osafune.
+Dialogue: 0,0:21:44.56,0:21:47.95,main,Akane,0000,0000,0000,,Please do, and take care of yourself.
+Dialogue: 0,0:21:47.95,0:21:49.10,main,Sana,0000,0000,0000,,You, too.
+Dialogue: 0,0:22:01.83,0:22:03.96,main,Yukari,0000,0000,0000,,I've found you, Akane.
+Dialogue: 0,0:23:34.89,0:23:39.89,sign_33924_347_Next_Episode__Af,Text,0000,0000,0000,,Next Episode{\fs16}  After the Festival

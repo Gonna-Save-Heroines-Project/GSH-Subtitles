@@ -1,0 +1,307 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,24,0
+Style: italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: italicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashbackitalics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: flashbacktop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashbackitalicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: sign_31989_282_Katana_Maidens,Open Sans Semibold,45,&H00000000,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,0,2,40,40,347,1
+Style: sign_5408_29_Episode_6__The_S,Open Sans Semibold,21,&H00F5FFFF,&H000000FF,&H00857F75,&H00000000,1,0,0,0,100,100,0,0,1,3,0,3,40,53,73,1
+Style: sign_10556_90_Irozaki,Open Sans Semibold,33,&H00C7B8AC,&H000000FF,&H006F6133,&H00000000,1,0,0,0,100,100,0,-8,1,3,0,2,193,40,320,1
+Style: sign_33927_276_Next_Episode__He,Open Sans Semibold,18,&H00FDFDFD,&H000000FF,&H00313A3E,&H00000000,1,0,0,0,100,100,0,0,1,3,0,3,40,60,73,1
+Style: sign_629_2_There_s_somethin,Open Sans Semibold,33,&H00DDEFF5,&H000000FF,&H0007BCD3,&H00000000,1,0,0,0,100,100,0,15,1,3,0,2,193,40,320,1
+Style: sign_816_3_Missing,Open Sans Semibold,33,&H00EFA417,&H000000FF,&H00341E16,&H00000000,1,0,0,0,100,100,0,15,1,3,0,2,251,480,195,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:18.88,0:00:20.73,main,Kaoru,0000,0000,0000,,What's wrong, Nene?
+Dialogue: 0,0:00:26.21,0:00:29.71,italics,Text/Ellen,0000,0000,0000,,There's something I want to look into, \Nso I'm going to be late getting back.
+Dialogue: 0,0:00:26.21,0:00:34.01,sign_629_2_There_s_somethin,,0000,0000,0000,,There's something I want to look into,\Nso I'm going to be late getting back.\NPlease see off the caged birdies.
+Dialogue: 0,0:00:29.71,0:00:33.67,italics,Text/Ellen,0000,0000,0000,,Please see off the caged birdies.
+Dialogue: 0,0:00:34.01,0:00:34.97,sign_816_3_Missing,,0000,0000,0000,,{\fad(107,1)}Thanks!
+Dialogue: 0,0:00:41.35,0:00:42.62,main,Kaoru,0000,0000,0000,,Stupid Ellen...
+Dialogue: 0,0:00:44.85,0:00:48.98,main,Suzuka,0000,0000,0000,,Kohagura Ellen, first-year high school \Nstudent from Osafune Girls' School.
+Dialogue: 0,0:00:49.29,0:00:51.48,main,Maki,0000,0000,0000,,You participated in the \Ntournament matches, didn't you?
+Dialogue: 0,0:00:51.48,0:00:55.64,main,Ellen,0000,0000,0000,,Oh, how embarrassing. That was \Na very disappointing result.
+Dialogue: 0,0:00:55.64,0:00:58.01,main,Suzuka,0000,0000,0000,,I see you've decided to feign ignorance.
+Dialogue: 0,0:00:58.01,0:01:01.82,main,Ellen,0000,0000,0000,,Um... may I put my hands down now?
+Dialogue: 0,0:01:01.82,0:01:05.88,main,Ellen,0000,0000,0000,,I don't have any intention \Nof fighting with you.
+Dialogue: 0,0:01:05.88,0:01:08.62,main,Maki,0000,0000,0000,,Then hand over your okatana.
+Dialogue: 0,0:01:08.62,0:01:10.21,main,Suzuka,0000,0000,0000,,And your cell phone.
+Dialogue: 0,0:01:13.65,0:01:15.68,main,Ellen,0000,0000,0000,,My hands were going numb.
+Dialogue: 0,0:01:15.68,0:01:18.51,main,Maki,0000,0000,0000,,So, what were you doing here?
+Dialogue: 0,0:01:18.51,0:01:22.56,main,Ellen,0000,0000,0000,,Well, you saw how my \Nmatch turned out, right?
+Dialogue: 0,0:01:22.56,0:01:24.20,main,Ellen,0000,0000,0000,,I knew that if I went back empty-handed,
+Dialogue: 0,0:01:24.20,0:01:27.53,main,,0000,0000,0000,,I would get a serious scolding \Nfrom my school's president,
+Dialogue: 0,0:01:27.53,0:01:31.90,main,,0000,0000,0000,,so I thought that I would get credit \Nby catching Yukari-sama's attackers.
+Dialogue: 0,0:01:31.90,0:01:36.40,main,Suzuka,0000,0000,0000,,Then the reason you brought out\NS Equipment was to catch the traitors?
+Dialogue: 0,0:01:36.40,0:01:39.41,main,Ellen,0000,0000,0000,,S Equipment? What are you talking about?
+Dialogue: 0,0:01:39.74,0:01:42.57,main,Maki,0000,0000,0000,,Last night, two S Equipment \Ncontainers of unknown origin
+Dialogue: 0,0:01:42.57,0:01:45.48,main,,0000,0000,0000,,were launched toward \Nthe middle of Mount Izu.
+Dialogue: 0,0:01:45.96,0:01:49.23,main,Maki,0000,0000,0000,,We believe they were prepared \Nfor the escaping traitors.
+Dialogue: 0,0:01:49.23,0:01:51.77,main,Suzuka,0000,0000,0000,,It's only natural that we would \Nthink they belonged to you
+Dialogue: 0,0:01:51.77,0:01:54.80,main,,0000,0000,0000,,and the one other representative \Nfrom Osafune, Mashiko Kaoru.
+Dialogue: 0,0:01:59.89,0:02:01.93,main,Ellen,0000,0000,0000,,I'm hungry!
+Dialogue: 0,0:02:02.52,0:02:06.50,main,Suzuka,0000,0000,0000,,It seems we need to ask you a few things.
+Dialogue: 0,0:02:23.24,0:02:33.54,sign_31989_282_Katana_Maidens,Title,0000,0000,0000,,{\fad(271,271)}Katana Maidens
+Dialogue: 0,0:03:45.53,0:03:50.96,sign_5408_29_Episode_6__The_S,Text,0000,0000,0000,,{\fad(487,689)}Episode 6  {\fs22}The Space Between Humans and Disgrace
+Dialogue: 0,0:03:46.15,0:03:48.92,top,Maki,0000,0000,0000,,What do you mean, you don't \Nwant me to interrogate her?
+Dialogue: 0,0:03:48.92,0:03:51.62,top,Suzuka,0000,0000,0000,,I mean exactly that.
+Dialogue: 0,0:03:51.96,0:03:56.16,main,Maki,0000,0000,0000,,Do you intend to ignore that \NYukari-sama placed me in charge?
+Dialogue: 0,0:03:56.16,0:03:59.63,main,Suzuka,0000,0000,0000,,Goodness, using your position \Nas a shield to get your way
+Dialogue: 0,0:03:59.97,0:04:01.91,main,,0000,0000,0000,,isn't like you at all.
+Dialogue: 0,0:04:03.81,0:04:08.16,main,Suzuka,0000,0000,0000,,You're not going to let that \Ngirl see your eye, are you?
+Dialogue: 0,0:04:08.16,0:04:10.97,main,Suzuka,0000,0000,0000,,She might be a part of Mokusa.
+Dialogue: 0,0:04:12.21,0:04:17.67,main,Maki,0000,0000,0000,,I seem to be lacking calm after \Nfalling behind in last night's fight.
+Dialogue: 0,0:04:18.31,0:04:19.55,main,Suzuka,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:04:19.55,0:04:20.94,main,Maki,0000,0000,0000,,To calm myself.
+Dialogue: 0,0:04:21.97,0:04:24.65,main,Suzuka,0000,0000,0000,,Perhaps I teased her too much?
+Dialogue: 0,0:04:24.65,0:04:28.70,main,,0000,0000,0000,,I am also lacking calm myself.
+Dialogue: 0,0:04:29.03,0:04:33.04,main,Suzuka,0000,0000,0000,,If you are indeed their friend,
+Dialogue: 0,0:04:33.40,0:04:37.50,main,,0000,0000,0000,,I will have to make you pay, Kohagura-san.
+Dialogue: 0,0:04:40.02,0:04:42.16,main,Ellen,0000,0000,0000,,Thank you for the food.
+Dialogue: 0,0:04:42.16,0:04:43.63,main,Suzuka,0000,0000,0000,,Was it to your liking?
+Dialogue: 0,0:04:44.05,0:04:45.68,main,Ellen,0000,0000,0000,,It's a bit annoying
+Dialogue: 0,0:04:45.68,0:04:49.04,main,,0000,0000,0000,,that they microwave the pickles with the \Nconvenience store lunch boxes though.
+Dialogue: 0,0:04:49.04,0:04:53.14,main,Suzuka,0000,0000,0000,,Really? I don't really mind it so much.
+Dialogue: 0,0:04:53.14,0:04:55.82,main,Ellen,0000,0000,0000,,You're an interesting person.
+Dialogue: 0,0:04:58.05,0:05:02.65,main,Suzuka,0000,0000,0000,,About that S Equipment...\N It's already been carried away.
+Dialogue: 0,0:05:02.65,0:05:05.80,main,Ellen,0000,0000,0000,,That's really nothing to do with me.
+Dialogue: 0,0:05:05.80,0:05:09.13,main,Suzuka,0000,0000,0000,,Kohagura is certainly an unusual name.
+Dialogue: 0,0:05:09.62,0:05:12.62,main,Suzuka,0000,0000,0000,,But I felt like I had \Nheard it somewhere before.
+Dialogue: 0,0:05:14.02,0:05:16.70,main,Suzuka,0000,0000,0000,,And I remembered why a little bit ago.
+Dialogue: 0,0:05:17.54,0:05:19.87,main,Suzuka,0000,0000,0000,,It seems the chief engineer \Nof the S Equipment
+Dialogue: 0,0:05:19.87,0:05:23.77,main,,0000,0000,0000,,development team that transferred \Nfrom DARPA had that name.
+Dialogue: 0,0:05:24.47,0:05:28.76,main,Suzuka,0000,0000,0000,,I believe her name was \NJacqueline Anne Kohagura?
+Dialogue: 0,0:05:28.76,0:05:30.80,main,Ellen,0000,0000,0000,,Jacqueline is my mother.
+Dialogue: 0,0:05:30.80,0:05:33.71,main,Ellen,0000,0000,0000,,And let me also just say that my father,
+Dialogue: 0,0:05:33.71,0:05:37.02,main,,0000,0000,0000,,Kohagura Kimitake, works with her, but...
+Dialogue: 0,0:05:37.02,0:05:42.83,main,Suzuka,0000,0000,0000,,Even the head of development cannot \Nlaunch an unregistered unit.
+Dialogue: 0,0:05:42.83,0:05:45.69,main,Suzuka,0000,0000,0000,,The development and creation \Nof the S Equipment
+Dialogue: 0,0:05:45.69,0:05:48.78,main,,0000,0000,0000,,is all being done under the \Ncontrol of the Origami family.
+Dialogue: 0,0:05:49.73,0:05:52.66,main,Suzuka,0000,0000,0000,,But I wonder about your grandfather?
+Dialogue: 0,0:05:52.66,0:05:54.63,main,Ellen,0000,0000,0000,,My grandpa?
+Dialogue: 0,0:05:54.63,0:05:56.29,main,Ellen,0000,0000,0000,,Grandpa is...
+Dialogue: 0,0:05:56.29,0:06:00.19,main,Suzuka,0000,0000,0000,,Yes, Richard Friedman, the brilliant \Nscientist who became the forerunner
+Dialogue: 0,0:06:00.19,0:06:05.30,main,,0000,0000,0000,,of noro's military use and pioneered \Nthe development of the S Equipment.
+Dialogue: 0,0:06:05.30,0:06:09.88,main,Suzuka,0000,0000,0000,,Five years ago, after selling off the \Ntechnological development company
+Dialogue: 0,0:06:09.88,0:06:12.20,main,,0000,0000,0000,,he founded himself,\N he suddenly disappeared, right?
+Dialogue: 0,0:06:12.20,0:06:13.06,main,Ellen,0000,0000,0000,,Yes.
+Dialogue: 0,0:06:13.06,0:06:18.54,main,Suzuka,0000,0000,0000,,Are you aware that there is evidence \Nthat Dr. Friedman has entered Japan?
+Dialogue: 0,0:06:18.54,0:06:20.94,main,Suzuka,0000,0000,0000,,And he has been in contact with Mokusa.
+Dialogue: 0,0:06:20.94,0:06:25.53,main,Suzuka,0000,0000,0000,,No, rather, what if he was one of the \Npeople who formed the core of Mokusa?
+Dialogue: 0,0:06:25.53,0:06:27.95,main,Ellen,0000,0000,0000,,Mogusa? Is that like moxibustion?
+Dialogue: 0,0:06:29.48,0:06:31.95,main,Suzuka,0000,0000,0000,,You insist on playing dumb?
+Dialogue: 0,0:06:31.95,0:06:33.75,main,Suzuka,0000,0000,0000,,Well, it's no matter.
+Dialogue: 0,0:06:34.56,0:06:38.86,main,Suzuka,0000,0000,0000,,Oh, that's right.\NAbout your friend, Mashiko Kaoru...
+Dialogue: 0,0:06:39.77,0:06:44.09,main,Suzuka,0000,0000,0000,,Are you aware that she faced off against \Nour comrade Satsuki Yomi last night?
+Dialogue: 0,0:06:46.03,0:06:50.79,main,Suzuka,0000,0000,0000,,It seems this is the first you're hearing\N of it. Or are you still just playing dumb?
+Dialogue: 0,0:06:51.19,0:06:53.60,main,Suzuka,0000,0000,0000,,Well, regardless of the reason,
+Dialogue: 0,0:06:53.60,0:06:56.52,main,,0000,0000,0000,,turning your blade on a \Nmember of the elite guard
+Dialogue: 0,0:06:56.52,0:06:59.48,main,,0000,0000,0000,,is the same as turning \Nyour blade on Yukari-sama.
+Dialogue: 0,0:07:00.24,0:07:02.86,main,Suzuka,0000,0000,0000,,That sin is remedied with death...
+Dialogue: 0,0:07:03.23,0:07:07.33,main,Suzuka,0000,0000,0000,,Regardless of whether or not you \Nand Mashiko-san are part of Mokusa.
+Dialogue: 0,0:07:07.33,0:07:10.36,main,Ellen,0000,0000,0000,,What happened to Kaoru?
+Dialogue: 0,0:07:10.36,0:07:11.40,main,Suzuka,0000,0000,0000,,Who knows?
+Dialogue: 0,0:07:11.92,0:07:13.58,main,Suzuka,0000,0000,0000,,I will speak with you again.
+Dialogue: 0,0:07:20.25,0:07:22.75,sign_10556_90_Irozaki,Text,0000,0000,0000,,Irozaki
+Dialogue: 0,0:07:21.09,0:07:22.75,main,Hiyori,0000,0000,0000,,Only six more kilometers.
+Dialogue: 0,0:07:23.20,0:07:26.70,main,Kanami,0000,0000,0000,,I wonder if Ellen-chan and Kaoru-chan \Nare safely on their way, too?
+Dialogue: 0,0:07:31.34,0:07:33.18,main,Kanami,0000,0000,0000,,N-Nene-chan?
+Dialogue: 0,0:07:34.13,0:07:36.46,main,Hiyori,0000,0000,0000,,If he's here, then that means...
+Dialogue: 0,0:07:38.64,0:07:41.24,main,Kanami,0000,0000,0000,,Kaoru-chan, you're all right!
+Dialogue: 0,0:07:41.24,0:07:43.11,main,Kaoru,0000,0000,0000,,I'll help you reach the meeting point.
+Dialogue: 0,0:07:44.28,0:07:45.78,main,Kanami,0000,0000,0000,,Kaoru-chan?
+Dialogue: 0,0:07:47.21,0:07:48.76,main,Kanami,0000,0000,0000,,What is it?
+Dialogue: 0,0:07:49.54,0:07:50.68,main,Hiyori,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:07:50.68,0:07:54.27,main,Kanami,0000,0000,0000,,Apparently, he wants to take us somewhere.
+Dialogue: 0,0:07:54.27,0:07:55.21,main,Kaoru,0000,0000,0000,,Nene!
+Dialogue: 0,0:07:56.82,0:07:58.99,main,Hiyori,0000,0000,0000,,What happened to the other girl?
+Dialogue: 0,0:07:58.99,0:08:00.41,main,Kanami,0000,0000,0000,,Where's Ellen-chan?
+Dialogue: 0,0:08:08.88,0:08:09.98,main,Yume,0000,0000,0000,,Come in.
+Dialogue: 0,0:08:20.07,0:08:22.39,main,Yume,0000,0000,0000,,Sorry, it's just me.
+Dialogue: 0,0:08:24.43,0:08:26.48,main,Yukina,0000,0000,0000,,Where did Yukari-sama go?
+Dialogue: 0,0:08:26.48,0:08:27.39,main,Yume,0000,0000,0000,,Who knows?
+Dialogue: 0,0:08:27.39,0:08:30.04,main,Yume,0000,0000,0000,,When I got here, she was already gone.
+Dialogue: 0,0:08:30.04,0:08:33.04,main,Yume,0000,0000,0000,,Even though I came all \Nthis way to play with her.
+Dialogue: 0,0:08:33.04,0:08:33.90,main,Yukina,0000,0000,0000,,I see.
+Dialogue: 0,0:08:33.90,0:08:36.66,main,Yume,0000,0000,0000,,I know, why don't I go look for her?
+Dialogue: 0,0:08:36.66,0:08:38.09,main,Yukina,0000,0000,0000,,No, thank you.
+Dialogue: 0,0:08:40.45,0:08:42.66,main,Yume,0000,0000,0000,,So boring!
+Dialogue: 0,0:09:10.69,0:09:14.19,main,Yukari,0000,0000,0000,,Just rest for now.
+Dialogue: 0,0:09:25.20,0:09:28.22,main,Suzuka,0000,0000,0000,,Do you know the meaning of the word "limit"?
+Dialogue: 0,0:09:29.62,0:09:30.92,main,Maki,0000,0000,0000,,What do you want?
+Dialogue: 0,0:09:30.92,0:09:32.70,main,Suzuka,0000,0000,0000,,We're heading out.
+Dialogue: 0,0:09:32.70,0:09:34.38,main,Maki,0000,0000,0000,,Did we find the others?
+Dialogue: 0,0:09:34.38,0:09:36.08,main,Suzuka,0000,0000,0000,,It's unconfirmed,
+Dialogue: 0,0:09:36.08,0:09:40.57,main,,0000,0000,0000,,but we've obtained a report that they \Nwere spotted in the mountains of Minamiizu.
+Dialogue: 0,0:09:40.57,0:09:44.38,main,Suzuka,0000,0000,0000,,I don't believe there are any \Nother middle school girls running
+Dialogue: 0,0:09:44.38,0:09:46.39,main,,0000,0000,0000,,around the mountains in their uniforms.
+Dialogue: 0,0:09:47.77,0:09:49.21,main,Maki,0000,0000,0000,,Let's go, Suzuka.
+Dialogue: 0,0:09:49.73,0:09:52.36,main,Suzuka,0000,0000,0000,,I'm the one who came to get you.
+Dialogue: 0,0:09:55.53,0:09:57.85,main,Maki,0000,0000,0000,,Squads One and and Two with me!
+Dialogue: 0,0:09:57.85,0:10:00.81,main,,0000,0000,0000,,Squad Three, wait here for \Nfurther communication!
+Dialogue: 0,0:10:00.81,0:10:01.74,main,,0000,0000,0000,,Roger!
+Dialogue: 0,0:10:15.11,0:10:18.80,main,Ellen,0000,0000,0000,,Well, then, I guess it's \Ntime I got moving, too.
+Dialogue: 0,0:10:36.10,0:10:40.14,main,Ellen,0000,0000,0000,,Hi! It's been a while, my sweet Yasutsugu!
+Dialogue: 0,0:10:57.12,0:10:59.76,main,Yomi,0000,0000,0000,,I must be useful, no matter what.
+Dialogue: 0,0:11:01.51,0:11:06.42,main,Ellen,0000,0000,0000,,I see. So this is the reason \NKaoru drew her okatana on her.
+Dialogue: 0,0:11:22.71,0:11:27.31,main,Ellen,0000,0000,0000,,What poor manners. If you knew I \Nwas here, you should have said so.
+Dialogue: 0,0:11:27.31,0:11:32.07,main,Yomi,0000,0000,0000,,Such considerations are not necessary \Nfor those who wrong Yukari-sama.
+Dialogue: 0,0:11:33.92,0:11:36.67,main,Ellen,0000,0000,0000,,Then I will show no restraint, either.
+Dialogue: 0,0:11:37.80,0:11:40.70,main,Ellen,0000,0000,0000,,I'm pretty skilled with my fingers!
+Dialogue: 0,0:11:42.48,0:11:43.93,main,Yomi,0000,0000,0000,,Here I come.
+Dialogue: 0,0:12:02.35,0:12:04.14,main,Ellen,0000,0000,0000,,There will be no end to them this way.
+Dialogue: 0,0:12:04.14,0:12:06.70,main,Ellen,0000,0000,0000,,I'll have to destroy the source.
+Dialogue: 0,0:12:21.55,0:12:24.97,main,Ellen,0000,0000,0000,,Toji aren't necessarily just \Nskilled in the use of swords.
+Dialogue: 0,0:12:26.85,0:12:28.35,main,Yomi,0000,0000,0000,,Not enough.
+Dialogue: 0,0:12:29.47,0:12:30.22,main,Yomi,0000,0000,0000,,More...
+Dialogue: 0,0:12:31.14,0:12:33.10,main,Yomi,0000,0000,0000,,More power...
+Dialogue: 0,0:12:49.60,0:12:51.37,main,Ellen,0000,0000,0000,,A-A horn?!
+Dialogue: 0,0:12:51.37,0:12:52.58,main,Ellen,0000,0000,0000,,Are you a demon?
+Dialogue: 0,0:12:52.95,0:12:54.74,main,Yomi,0000,0000,0000,,For my master.
+Dialogue: 0,0:13:00.55,0:13:02.51,main,,0000,0000,0000,,I'm not holding back then!
+Dialogue: 0,0:13:06.64,0:13:09.29,main,Ellen,0000,0000,0000,,My deadly stomach blow didn't work?!
+Dialogue: 0,0:13:11.64,0:13:14.78,main,Ellen,0000,0000,0000,,This is just a little bit bad.
+Dialogue: 0,0:13:16.13,0:13:17.77,main,Maki,0000,0000,0000,,Kohagura escaped?
+Dialogue: 0,0:13:17.77,0:13:21.06,main,Soldier,0000,0000,0000,,Yes. Squad member Satsuki \Nis currently pursuing her.
+Dialogue: 0,0:13:21.59,0:13:23.40,main,Suzuka,0000,0000,0000,,Isn't that for the best?
+Dialogue: 0,0:13:23.40,0:13:26.38,main,Suzuka,0000,0000,0000,,The fox is bringing out its tail.
+Dialogue: 0,0:13:26.79,0:13:31.28,main,Suzuka,0000,0000,0000,,No, I guess "tanuki" would \Nbe more fitting? Or else—
+Dialogue: 0,0:13:31.28,0:13:35.04,main,Maki,0000,0000,0000,,Yes. This is Yomi we're talking about.\N She won't get away so easily.
+Dialogue: 0,0:13:36.55,0:13:38.94,main,Yomi,0000,0000,0000,,So you can no longer generate utsushi?
+Dialogue: 0,0:13:39.54,0:13:40.71,main,Yomi,0000,0000,0000,,En garde.
+Dialogue: 0,0:13:45.88,0:13:47.05,main,Ellen,0000,0000,0000,,Kaoru?!
+Dialogue: 0,0:13:50.90,0:13:52.39,main,Kaoru,0000,0000,0000,,You're still alive, Ellen.
+Dialogue: 0,0:13:52.39,0:13:53.66,main,Ellen,0000,0000,0000,,Yes!
+Dialogue: 0,0:13:53.66,0:13:55.00,main,Kaoru,0000,0000,0000,,Then use kongoushin.
+Dialogue: 0,0:13:56.69,0:13:58.02,main,Kaoru,0000,0000,0000,,Home run!
+Dialogue: 0,0:13:58.02,0:14:00.30,main,Ellen,0000,0000,0000,,Y-You idiot!
+Dialogue: 0,0:14:02.90,0:14:05.55,main,Kanami,0000,0000,0000,,A-Are you okay, Ellen-chan?
+Dialogue: 0,0:14:05.55,0:14:08.97,main,Ellen,0000,0000,0000,,K-Kanamin? What are you doing here?
+Dialogue: 0,0:14:08.97,0:14:11.37,main,Kanami,0000,0000,0000,,Hiyoyon is here, too! See?
+Dialogue: 0,0:14:12.10,0:14:14.37,main,Hiyori,0000,0000,0000,,Don't get the wrong idea.
+Dialogue: 0,0:14:14.37,0:14:19.00,main,Hiyori,0000,0000,0000,,I only came to make sure which \Nopponent I should be fighting.
+Dialogue: 0,0:14:19.43,0:14:22.46,main,Kanami,0000,0000,0000,,The members of the elite guard \Nreally are using aradama.
+Dialogue: 0,0:14:22.88,0:14:25.63,main,Hiyori,0000,0000,0000,,So this is the "human experimentation"\Nthe letter mentioned.
+Dialogue: 0,0:14:26.08,0:14:29.78,main,Hiyori,0000,0000,0000,,Can a human really become so repulsive?
+Dialogue: 0,0:14:33.43,0:14:35.89,main,Hiyori,0000,0000,0000,,Kanami, take the blonde with you.
+Dialogue: 0,0:14:35.89,0:14:37.23,main,Kanami,0000,0000,0000,,What about you?
+Dialogue: 0,0:14:37.23,0:14:41.53,main,Hiyori,0000,0000,0000,,I'm going to stop her, with shorty here.
+Dialogue: 0,0:14:42.36,0:14:44.73,main,Hiyori,0000,0000,0000,,Got it! Let's go, Ellen-chan.
+Dialogue: 0,0:14:44.73,0:14:47.20,main,Ellen,0000,0000,0000,,Why did you come?
+Dialogue: 0,0:14:47.20,0:14:49.10,main,Ellen,0000,0000,0000,,You could be in Irozaki by now...
+Dialogue: 0,0:14:49.10,0:14:54.24,main,Kanami,0000,0000,0000,,Yeah, we thought about going,\N but we heard about her from Kaoru-chan...
+Dialogue: 0,0:14:54.24,0:14:57.45,main,Kanami,0000,0000,0000,,About how she was using aradama yesterday.
+Dialogue: 0,0:14:57.45,0:14:58.37,main,Ellen,0000,0000,0000,,So that's why?
+Dialogue: 0,0:14:58.75,0:15:01.88,main,Kanami,0000,0000,0000,,Kaoru-chan was so worried about you.
+Dialogue: 0,0:15:01.88,0:15:03.94,main,Kanami,0000,0000,0000,,Nene-chan told us.
+Dialogue: 0,0:15:04.80,0:15:06.13,main,Ellen,0000,0000,0000,,Nene did?
+Dialogue: 0,0:15:06.49,0:15:12.62,italics,Kaoru,0000,0000,0000,,First my pet and now my partner...\NI keep increasing my debt to you.
+Dialogue: 0,0:15:17.43,0:15:18.39,main,Hiyori,0000,0000,0000,,It's over.
+Dialogue: 0,0:15:18.95,0:15:20.02,main,Yomi,0000,0000,0000,,Over?
+Dialogue: 0,0:15:20.44,0:15:22.42,main,Yomi,0000,0000,0000,,Is it really, now?
+Dialogue: 0,0:15:35.91,0:15:36.92,main,Maki,0000,0000,0000,,What?
+Dialogue: 0,0:15:37.54,0:15:39.06,main,Suzuka,0000,0000,0000,,That's...
+Dialogue: 0,0:15:39.06,0:15:40.09,main,Maki,0000,0000,0000,,Yomi!
+Dialogue: 0,0:15:40.92,0:15:42.79,main,Kanami,0000,0000,0000,,What is it? What happened?
+Dialogue: 0,0:15:44.29,0:15:46.09,main,Kanami,0000,0000,0000,,Hiyori-chan, what's wrong?!
+Dialogue: 0,0:15:46.09,0:15:47.30,main,Hiyori,0000,0000,0000,,Kanami!
+Dialogue: 0,0:15:47.30,0:15:49.17,main,Hiyori,0000,0000,0000,,Hurry, and go! They're coming!
+Dialogue: 0,0:16:08.44,0:16:09.78,main,Ellen,0000,0000,0000,,Kaoru!
+Dialogue: 0,0:16:14.95,0:16:15.96,main,Kanami,0000,0000,0000,,Hiyori-chan!
+Dialogue: 0,0:16:15.96,0:16:17.38,main,Hiyori,0000,0000,0000,,Don't move, Kanami!
+Dialogue: 0,0:16:18.33,0:16:20.02,main,Hiyori,0000,0000,0000,,She is beyond help...
+Dialogue: 0,0:16:25.96,0:16:27.51,main,Kanami,0000,0000,0000,,Over here!
+Dialogue: 0,0:16:28.64,0:16:30.88,main,Kanami,0000,0000,0000,,I'll be your opponent now!
+Dialogue: 0,0:16:39.89,0:16:40.96,main,Maki,0000,0000,0000,,Yomi...
+Dialogue: 0,0:16:40.96,0:16:43.14,main,Maki,0000,0000,0000,,She's taken on more noro \Nthan she can control.
+Dialogue: 0,0:16:43.14,0:16:45.31,main,Suzuka,0000,0000,0000,,We have to hurry.
+Dialogue: 0,0:16:45.31,0:16:46.15,main,Maki,0000,0000,0000,,Right.
+Dialogue: 0,0:16:54.36,0:16:55.28,main,Hiyori,0000,0000,0000,,Kanami!
+Dialogue: 0,0:17:03.94,0:17:05.00,main,Hiyori,0000,0000,0000,,Cut her down, Kanami!
+Dialogue: 0,0:17:05.00,0:17:06.62,main,Hiyori,0000,0000,0000,,She is no longer human!
+Dialogue: 0,0:17:06.62,0:17:08.21,main,Hiyori,0000,0000,0000,,You're going to die!
+Dialogue: 0,0:17:11.96,0:17:13.38,main,Hiyori,0000,0000,0000,,Kanami!
+Dialogue: 0,0:17:22.72,0:17:24.48,main,Hiyori,0000,0000,0000,,What's happening?
+Dialogue: 0,0:17:38.41,0:17:40.22,main,Kanami,0000,0000,0000,,I'm saved?
+Dialogue: 0,0:17:40.22,0:17:41.76,main,,0000,0000,0000,,It seems so.
+Dialogue: 0,0:17:41.76,0:17:45.64,main,Ellen,0000,0000,0000,,She probably couldn't balance \Nthe power of the noro.
+Dialogue: 0,0:17:45.64,0:17:50.17,main,Ellen,0000,0000,0000,,Injecting the human body with \Nnoro is beyond reckless.
+Dialogue: 0,0:17:50.54,0:17:53.08,main,Kaoru,0000,0000,0000,,It's because they use the aradama that way.
+Dialogue: 0,0:17:54.84,0:17:57.93,main,Kanami,0000,0000,0000,,What a relief! She's still alive.
+Dialogue: 0,0:17:57.93,0:17:59.63,main,Hiyori,0000,0000,0000,,What are we going to do now?
+Dialogue: 0,0:17:59.63,0:18:03.16,main,Hiyori,0000,0000,0000,,Other elite guards will come running \Nbecause of this commotion.
+Dialogue: 0,0:18:03.16,0:18:04.36,main,Kaoru,0000,0000,0000,,No problem.
+Dialogue: 0,0:18:04.77,0:18:05.66,main,Kaoru,0000,0000,0000,,Ellen...
+Dialogue: 0,0:18:06.40,0:18:07.89,main,Ellen,0000,0000,0000,,Yes, roger that.
+Dialogue: 0,0:18:07.89,0:18:11.21,main,Ellen,0000,0000,0000,,Please arrange a taxi for us urgently!
+Dialogue: 0,0:18:11.21,0:18:12.38,main,Hiyori,0000,0000,0000,,Taxi?
+Dialogue: 0,0:18:14.69,0:18:19.85,main,Ellen,0000,0000,0000,,Stuff like this is a piece of cake\N for an organization like Mokusa.
+Dialogue: 0,0:18:19.85,0:18:22.62,main,Hiyori,0000,0000,0000,,There's no way we can escape \Non a boat like this.
+Dialogue: 0,0:18:22.94,0:18:25.96,main,Hiyori,0000,0000,0000,,You there, contact the Japan Coast Guard.
+Dialogue: 0,0:18:25.96,0:18:28.06,main,Ellen,0000,0000,0000,,There's no need to worry!
+Dialogue: 0,0:18:28.06,0:18:30.63,main,Ellen,0000,0000,0000,,This isn't the taxi I summoned.
+Dialogue: 0,0:18:30.63,0:18:32.71,main,Ellen,0000,0000,0000,,That is!
+Dialogue: 0,0:18:45.73,0:18:48.02,main,Suzuka,0000,0000,0000,,This was unpredictable.
+Dialogue: 0,0:18:50.21,0:18:51.34,main,Maki,0000,0000,0000,,Withdraw.
+Dialogue: 0,0:18:55.82,0:18:59.63,main,Operator,0000,0000,0000,,Inbound from the US military,\N no response on the patrol network
+Dialogue: 0,0:18:59.63,0:19:01.95,main,Operator,0000,0000,0000,,They have been unable to spot the target.
+Dialogue: 0,0:19:03.38,0:19:05.60,main,Suzuka,0000,0000,0000,,They completely managed to escape.
+Dialogue: 0,0:19:05.60,0:19:09.33,main,Yukina,0000,0000,0000,,How could you fail with three \Nmembers of the elite guard?
+Dialogue: 0,0:19:09.33,0:19:11.90,main,Yukina,0000,0000,0000,,Not to mention, one of you ended up like {\i1}that{\i0}.
+Dialogue: 0,0:19:16.84,0:19:19.24,main,Iroha,0000,0000,0000,,How regrettable.
+Dialogue: 0,0:19:24.88,0:19:25.97,main,Maki,0000,0000,0000,,Yukari-sama!
+Dialogue: 0,0:19:27.97,0:19:29.71,main,Maki,0000,0000,0000,,My apologies.
+Dialogue: 0,0:19:29.71,0:19:32.20,main,Maki,0000,0000,0000,,I have no excuses for this failure—
+Dialogue: 0,0:19:32.20,0:19:34.14,main,Yukari,0000,0000,0000,,Enough. Don't trouble yourself.
+Dialogue: 0,0:19:34.14,0:19:35.11,main,Maki,0000,0000,0000,,But...
+Dialogue: 0,0:19:35.53,0:19:38.46,main,Yukari,0000,0000,0000,,The presidents from Minoseki Academy\N and the Heijou Institute
+Dialogue: 0,0:19:38.46,0:19:41.69,main,,0000,0000,0000,,are dismissed from this special \Nmission at the present time.
+Dialogue: 0,0:19:42.16,0:19:44.41,main,Yukari,0000,0000,0000,,Return to your usual duties.
+Dialogue: 0,0:19:45.16,0:19:46.14,main,Hashima,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:19:46.76,0:19:47.54,main,Iroha,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:19:48.00,0:19:49.12,main,Yukari,0000,0000,0000,,Renpu President...
+Dialogue: 0,0:19:49.12,0:19:50.50,main,Yukina,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:50.81,0:19:54.13,main,Yukari,0000,0000,0000,,I believe I told you not to leave your post.
+Dialogue: 0,0:19:55.16,0:19:56.47,main,Yukina,0000,0000,0000,,Yes, ma'am.
+Dialogue: 0,0:20:02.79,0:20:06.25,main,Yukari,0000,0000,0000,,The two birds are right in \Nthe palm of my hand even now.
+Dialogue: 0,0:20:07.56,0:20:09.80,main,Yukari,0000,0000,0000,,Why don't we guide them some more?
+Dialogue: 0,0:20:15.36,0:20:19.11,main,Iroha,0000,0000,0000,,Now, Ema-chan, don't overdo it.
+Dialogue: 0,0:20:19.11,0:20:19.91,main,Hashima,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:34.28,0:20:36.06,main,Yukina,0000,0000,0000,,Sayaka, come with me.
+Dialogue: 0,0:20:47.64,0:20:48.94,main,Hashima,0000,0000,0000,,Yukina...
+Dialogue: 0,0:20:54.55,0:20:55.60,main,Mai,0000,0000,0000,,Sayaka-chan.
+Dialogue: 0,0:20:56.73,0:20:58.58,main,Mai,0000,0000,0000,,I'm glad you can leave.
+Dialogue: 0,0:20:59.30,0:21:02.86,main,Mai,0000,0000,0000,,We'll be going back to Minoseki tomorrow, too.
+Dialogue: 0,0:21:03.59,0:21:04.57,main,Sayaka,0000,0000,0000,,I see.
+Dialogue: 0,0:21:04.57,0:21:05.51,main,Mai,0000,0000,0000,,Bye.
+Dialogue: 0,0:21:08.90,0:21:11.40,main,Sayaka,0000,0000,0000,,Your cookies were delicious.
+Dialogue: 0,0:21:11.40,0:21:12.59,main,Mai,0000,0000,0000,,Thank you.
+Dialogue: 0,0:21:12.59,0:21:14.21,main,Mai,0000,0000,0000,,I'll make some again if you'd like.
+Dialogue: 0,0:21:15.43,0:21:16.21,main,Sayaka,0000,0000,0000,,Okay.
+Dialogue: 0,0:21:16.21,0:21:18.71,main,Mai,0000,0000,0000,,Hey, do you have a cell phone?
+Dialogue: 0,0:21:19.07,0:21:21.21,main,Mai,0000,0000,0000,,Let's exchange contact info.
+Dialogue: 0,0:21:23.97,0:21:25.26,main,Yukina,0000,0000,0000,,Sayaka!
+Dialogue: 0,0:21:26.16,0:21:27.16,main,Sayaka,0000,0000,0000,,Coming.
+Dialogue: 0,0:21:29.72,0:21:32.09,main,Hashima,0000,0000,0000,,Still the same as ever, Yukina.
+Dialogue: 0,0:21:34.39,0:21:35.89,main,Hashima,0000,0000,0000,,Sana?
+Dialogue: 0,0:21:36.66,0:21:42.65,italics,Sana,0000,0000,0000,,Ah, thank goodness! Ema-senpai? I have \Njust a teeny tiny favor to ask of you.
+Dialogue: 0,0:21:42.65,0:21:46.90,main,Hashima,0000,0000,0000,,I don't have a single good memory \Nattached to hearing you sound like that.
+Dialogue: 0,0:21:47.23,0:21:52.54,italics,Sana,0000,0000,0000,,Don't say that! It's a request from S-a-n-a!
+Dialogue: 0,0:21:54.74,0:21:58.36,italics,Yukina,0000,0000,0000,,I must have Yukari-sama's approval.
+Dialogue: 0,0:21:59.04,0:22:02.44,italics,Yukina,0000,0000,0000,,It's Renpu and my reason for living...
+Dialogue: 0,0:23:35.01,0:23:40.02,sign_33927_276_Next_Episode__He,Text,0000,0000,0000,,Next Episode{\fs16}  Heart Ache

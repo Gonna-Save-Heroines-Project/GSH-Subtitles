@@ -1,0 +1,417 @@
+
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Humana Sans Md ITC TT,27,&H00EDEBE8,&H000000FF,&H002F2724,&H96000000,-1,0,0,0,100,120,0,0,1,1.7,0,2,40,40,35,1
+Style: Main,Humana Sans Md ITC TT,27,&H00EDEBE8,&H000000FF,&H002F2724,&H96000000,-1,0,0,0,100,120,0,0,1,1.7,0,2,40,40,35,1
+Style: Italics,Humana Sans Md ITC TT,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,1,0,0,100,100,0,0,1,2,2,2,0010,0010,0018,0
+Style: Flashback,Humana Sans Md ITC TT,27,&H00FFFFFF,&H000000FF,&H00512C2A,&H00512C2A,0,1,0,0,100,100,0,0,1,2,2,2,0010,0010,0018,0
+Style: Title,Humana Sans Md ITC TT,39,&H0048D7F3,&H000000FF,&H00070A0E,&H00070A0E,1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0070,0
+Style: Location,Humana Sans Md ITC TT,21,&H00F9FAF8,&H000000FF,&H003A2C29,&H003A2C29,1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0050,0
+Style: Location2,Humana Sans Md ITC TT,21,&H00F9FAF8,&H000000FF,&H00171110,&H00171110,1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0055,0
+Style: Hour Later,Humana Sans Md ITC TT,21,&H00F9FAF8,&H000000FF,&H00171110,&H00171110,1,0,0,0,100,100,0,0,1,1,1,8,0010,0010,0040,0
+Style: Copy of Title,Humana Sans Md ITC TT,33,&H002A25C8,&H000000FF,&H00070A0E,&H00070A0E,1,0,0,0,100,100,0,0,1,1,1,8,0010,0010,0200,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:00.00,Main,,0000,0000,0000,,
+Dialogue: 0,0:00:01.65,0:00:04.98,Italics,Blue,0000,0000,0000,,I don't have many memories \Nof my dad from when I was young.
+Dialogue: 0,0:00:06.98,0:00:08.35,Italics,Blue,0000,0000,0000,,All I remember...
+Dialogue: 0,0:00:09.93,0:00:11.68,Flashback,Dad,0000,0000,0000,,I win.
+Dialogue: 0,0:00:11.68,0:00:13.57,Italics,Bl,0000,0000,0000,,Is that we used to play \Nrock, paper, scissors a lot.
+Dialogue: 0,0:00:13.57,0:00:14.55,Flashback,Bl,0000,0000,0000,,That's not fair!
+Dialogue: 0,0:00:14.55,0:00:16.72,Flashback,Bl,0000,0000,0000,,I only got to eat two!
+Dialogue: 0,0:00:17.30,0:00:19.55,Flashback,Dad,0000,0000,0000,,You're telling me it's not fair \Nto decide by rock, paper, scissors?
+Dialogue: 0,0:00:21.16,0:00:23.38,Flashback,Dad,0000,0000,0000,,There are lots of things in \Nthe world that aren't fair.
+Dialogue: 0,0:00:23.79,0:00:27.58,Flashback,Dad,0000,0000,0000,,But accepting them all is life.
+Dialogue: 0,0:00:27.94,0:00:31.48,Italics,Bl,0000,0000,0000,,I didn't understand the \Nmeaning of the words he used,
+Dialogue: 0,0:00:31.48,0:00:33.40,Italics,,0000,0000,0000,,or what he was trying to say.
+Dialogue: 0,0:00:33.40,0:00:34.89,Italics,Bl,0000,0000,0000,,But I remembered it for some reason.
+Dialogue: 0,0:00:35.64,0:00:39.27,Italics,Bl,0000,0000,0000,,Like he knew what was going \Nto happen in the future...
+Dialogue: 0,0:02:10.94,0:02:15.99,Title,Bl,0000,0000,0000,,Killer
+Dialogue: 0,0:02:29.31,0:02:31.09,Main,T,0000,0000,0000,,You've gotten a lot better.
+Dialogue: 0,0:02:32.31,0:02:34.22,Main,T,0000,0000,0000,,I suppose since you don't have any
+Dialogue: 0,0:02:34.22,0:02:36.09,Main,,0000,0000,0000,,preconceptions getting in the \Nway, you're learning fast.
+Dialogue: 0,0:02:36.40,0:02:38.32,Main,T,0000,0000,0000,,You can still get stronger.
+Dialogue: 0,0:02:38.63,0:02:40.59,Main,T,0000,0000,0000,,Because you're a Killer.
+Dialogue: 0,0:02:42.76,0:02:45.22,Main,Bl,0000,0000,0000,,I've heard that a lot \Nsince I came here.
+Dialogue: 0,0:02:45.80,0:02:47.23,Main,Bl,0000,0000,0000,,But what's a "Killer"?
+Dialogue: 0,0:02:50.81,0:02:52.35,Main,T,0000,0000,0000,,All right, I'll tell you.
+Dialogue: 0,0:02:53.94,0:02:56.61,Main,T,0000,0000,0000,,There once was a nation that conquered
+Dialogue: 0,0:02:56.61,0:02:58.08,Main,,0000,0000,0000,,most of the land of Consume.
+Dialogue: 0,0:02:58.82,0:03:00.65,Main,T,0000,0000,0000,,The Great Atarika Empire.
+Dialogue: 0,0:03:00.99,0:03:03.91,Main,T,0000,0000,0000,,The Atarika Empire was on \Nthe verge of conquering
+Dialogue: 0,0:03:03.91,0:03:05.70,Main,,0000,0000,0000,,the continent with the overwhelming \Nsize of its forces.
+Dialogue: 0,0:03:06.20,0:03:08.70,Main,T,0000,0000,0000,,But before that could, it fell apart.
+Dialogue: 0,0:03:09.33,0:03:10.91,Main,T,0000,0000,0000,,In order to expand its armies,
+Dialogue: 0,0:03:10.91,0:03:13.29,Main,,0000,0000,0000,,it would gather soldiers of any \Nkind, no matter what they were.
+Dialogue: 0,0:03:13.83,0:03:16.88,Main,T,0000,0000,0000,,But because they brought in \Nbandits and thugs, as well,
+Dialogue: 0,0:03:16.88,0:03:21.76,Main,,0000,0000,0000,,it decreased the quality of their troops\Nand cost them the people's trust.
+Dialogue: 0,0:03:21.76,0:03:24.68,Main,T,0000,0000,0000,,In the end, a coup d'etat \Nbrought them down.
+Dialogue: 0,0:03:25.04,0:03:27.47,Main,T,0000,0000,0000,,This was crash was \Nknown as the Atarika Shock.
+Dialogue: 0,0:03:27.72,0:03:31.48,Main,Bl,0000,0000,0000,,I know that, but what does\Nthat have to do with "Killer"?
+Dialogue: 0,0:03:31.48,0:03:33.19,Main,T,0000,0000,0000,,Let me finish.
+Dialogue: 0,0:03:33.90,0:03:37.57,Main,T,0000,0000,0000,,After the Atarika Shock, \NConsume fell into chaos.
+Dialogue: 0,0:03:38.19,0:03:40.78,Main,T,0000,0000,0000,,But all the nations \Navoided unnecessarily
+Dialogue: 0,0:03:40.78,0:03:42.32,Main,,0000,0000,0000,,increasing the size of their armies,
+Dialogue: 0,0:03:42.91,0:03:45.82,Main,T,0000,0000,0000,,in order to avoid a repeat \Nof what happened to Atarika.
+Dialogue: 0,0:03:47.53,0:03:49.45,Main,T,0000,0000,0000,,They would make strong \Nindividual soldiers
+Dialogue: 0,0:03:49.45,0:03:51.16,Main,,0000,0000,0000,,and put them into elite squads.
+Dialogue: 0,0:03:51.79,0:03:54.58,Main,T,0000,0000,0000,,In other words, quality over quantity.
+Dialogue: 0,0:03:54.58,0:03:56.71,Main,,0000,0000,0000,,A race of people with \Npower greater than that
+Dialogue: 0,0:03:56.71,0:04:00.01,Main,,0000,0000,0000,,of normal humans were \Ncreated: the Killers.
+Dialogue: 0,0:04:00.88,0:04:03.34,Main,Bl,0000,0000,0000,,But why am I one?
+Dialogue: 0,0:04:04.01,0:04:07.73,Main,T,0000,0000,0000,,Perhaps one of your mom or dad's \Nancestors was a Killer?
+Dialogue: 0,0:04:08.60,0:04:10.77,Main,T,0000,0000,0000,,I'm told it's genetic.
+Dialogue: 0,0:04:12.02,0:04:13.39,Main,Bl,0000,0000,0000,,My family...
+Dialogue: 0,0:04:13.94,0:04:16.06,Main,Bl,0000,0000,0000,,Come to think of it, I heard my mom
+Dialogue: 0,0:04:16.06,0:04:18.61,Main,,0000,0000,0000,,and dad were both pretty strong.
+Dialogue: 0,0:04:18.61,0:04:20.53,Main,Bl,0000,0000,0000,,Maybe they were.
+Dialogue: 0,0:04:20.99,0:04:22.65,Main,T,0000,0000,0000,,They say wars these days
+Dialogue: 0,0:04:22.65,0:04:27.20,Main,,0000,0000,0000,,are decided by how many \NKillers are in an army.
+Dialogue: 0,0:04:27.20,0:04:29.28,Main,T,0000,0000,0000,,Anyway, that's basically it.
+Dialogue: 0,0:04:29.70,0:04:32.29,Main,Bl,0000,0000,0000,,So basically it's just \Na very strong person?
+Dialogue: 0,0:04:34.33,0:04:37.63,Italics,T,0000,0000,0000,,Tejirof didn't tell me at that time...
+Dialogue: 0,0:04:38.50,0:04:40.80,Italics,T,0000,0000,0000,,what the real meaning of \Nthe name "Killer" was...
+Dialogue: 0,0:04:41.21,0:04:42.38,Italics,,0000,0000,0000,,or how cruel it was.
+Dialogue: 0,0:04:45.43,0:04:47.14,Main,T,0000,0000,0000,,Hey, Big Tits.
+Dialogue: 0,0:04:48.64,0:04:51.35,Main,T,0000,0000,0000,,Gear's training is taken \Ncare of for a while.
+Dialogue: 0,0:04:51.35,0:04:53.52,Main,T,0000,0000,0000,,Now it's my turn to train you.
+Dialogue: 0,0:04:54.31,0:04:56.27,Italics,R,0000,0000,0000,,Alone with him?
+Dialogue: 0,0:04:56.40,0:04:57.77,Italics,R,0000,0000,0000,,Hell no.
+Dialogue: 0,0:04:58.86,0:05:02.44,Main,R,0000,0000,0000,,I-I don't have anything \Nto learn from you.
+Dialogue: 0,0:05:05.15,0:05:07.20,Main,T,0000,0000,0000,,Nice shot.
+Dialogue: 0,0:05:07.20,0:05:08.03,Main,R,0000,0000,0000,,See?
+Dialogue: 0,0:05:08.03,0:05:09.78,Main,R,0000,0000,0000,,My skill with a bow \Nis perfect, isn't it?
+Dialogue: 0,0:05:10.66,0:05:12.75,Main,T,0000,0000,0000,,The bow and arrow's perfect, yeah...
+Dialogue: 0,0:05:13.08,0:05:14.33,Main,R,0000,0000,0000,,What?
+Dialogue: 0,0:05:14.33,0:05:15.37,Main,R,0000,0000,0000,,Come out and say it.
+Dialogue: 0,0:05:15.79,0:05:16.83,Main,T,0000,0000,0000,,You're right.
+Dialogue: 0,0:05:16.83,0:05:21.16,Main,,0000,0000,0000,,You have a good eye and \Nyou're an accurate shot.
+Dialogue: 0,0:05:21.92,0:05:24.63,Main,T,0000,0000,0000,,But I think you're a little \Nlacking as a fighter.
+Dialogue: 0,0:05:26.68,0:05:32.32,Main,T,0000,0000,0000,,But I can put something better than \Nan arrow into your open hole.
+Dialogue: 0,0:05:32.72,0:05:34.68,Main,R,0000,0000,0000,,Better than an arrow?
+Dialogue: 0,0:05:35.14,0:05:36.89,Main,T,0000,0000,0000,,Ranged tactics.
+Dialogue: 0,0:05:36.89,0:05:37.94,Main,T,0000,0000,0000,,Shooting.
+Dialogue: 0,0:05:38.44,0:05:39.94,Main,R,0000,0000,0000,,Shooting?
+Dialogue: 0,0:05:40.40,0:05:41.94,Main,T,0000,0000,0000,,You've never heard of it?
+Dialogue: 0,0:05:41.94,0:05:43.19,Main,T,0000,0000,0000,,My my...
+Dialogue: 0,0:05:43.19,0:05:45.94,Main,,0000,0000,0000,,the Segua army's full of \Ncherries and virgins, huh?
+Dialogue: 0,0:05:47.32,0:05:51.91,Main,T,0000,0000,0000,,Every Killer has a style of \Ncombat they're best with.
+Dialogue: 0,0:05:53.33,0:05:55.25,Main,T,0000,0000,0000,,In Gear's case, for example,
+Dialogue: 0,0:05:55.25,0:05:58.83,Main,,0000,0000,0000,,the ability to change life \Nenergy into power, Action.
+Dialogue: 0,0:05:58.83,0:05:59.98,Main,T,0000,0000,0000,,In my and Ramses's case,
+Dialogue: 0,0:05:59.98,0:06:04.17,Main,,0000,0000,0000,,it's Puzzle, the ability to rearrange life \Nenergy into other kinds of energy.
+Dialogue: 0,0:06:04.71,0:06:07.22,Main,T,0000,0000,0000,,And yours is Shooting.
+Dialogue: 0,0:06:08.38,0:06:10.22,Main,T,0000,0000,0000,,A method of combat created
+Dialogue: 0,0:06:10.22,0:06:13.89,Main,,0000,0000,0000,,by the legendary invader \Nof Consume, I. Vazer.
+Dialogue: 0,0:06:14.43,0:06:15.81,Main,T,0000,0000,0000,,If you can master it,
+Dialogue: 0,0:06:16.31,0:06:18.77,Main,,0000,0000,0000,,you'll be able to fight at long range
+Dialogue: 0,0:06:18.77,0:06:21.19,Main,,0000,0000,0000,,while still taking advantage \Nof your skill with a bow.
+Dialogue: 0,0:06:22.69,0:06:25.39,Main,T,0000,0000,0000,,I'll show you how to \Ndo it the first time.
+Dialogue: 0,0:06:25.99,0:06:29.24,Main,T,0000,0000,0000,,A girl like you should be able \Nto take it the rest of the way.
+Dialogue: 0,0:06:29.53,0:06:32.41,Main,T,0000,0000,0000,,Concentrate your mind \Non these three fingers.
+Dialogue: 0,0:06:35.04,0:06:37.58,Main,T,0000,0000,0000,,Don't relax until I tell you to.
+Dialogue: 0,0:06:38.79,0:06:39.79,Italics,R,0000,0000,0000,,What?
+Dialogue: 0,0:06:39.79,0:06:42.16,Italics,R,0000,0000,0000,,Something's gathering in my fingers...
+Dialogue: 0,0:06:42.75,0:06:44.00,Italics,R,0000,0000,0000,,My fingers...
+Dialogue: 0,0:06:44.88,0:06:46.46,Italics,,0000,0000,0000,,are going to explode!
+Dialogue: 0,0:06:46.84,0:06:48.92,Main,R,0000,0000,0000,,Hey... stop!
+Dialogue: 0,0:06:48.92,0:06:51.14,Main,T,0000,0000,0000,,Not yet. Endure it.
+Dialogue: 0,0:06:51.14,0:06:53.47,Main,R,0000,0000,0000,,How long do I have to endure this?
+Dialogue: 0,0:06:55.06,0:06:55.68,Main,,0000,0000,0000,,No!
+Dialogue: 0,0:06:56.43,0:06:57.47,Italics,R,0000,0000,0000,,I...
+Dialogue: 0,0:06:59.56,0:07:01.48,Italics,R,0000,0000,0000,,I can't hold it in anymore!
+Dialogue: 0,0:07:08.78,0:07:11.53,Main,T,0000,0000,0000,,That's the basic skill \Nof Shooting. "Shot."
+Dialogue: 0,0:07:12.16,0:07:16.29,Main,T,0000,0000,0000,,For the next four days you \Nneed to learn to master it.
+Dialogue: 0,0:07:17.91,0:07:19.16,Main,R,0000,0000,0000,,Four days, huh?
+Dialogue: 0,0:07:19.16,0:07:21.25,Main,R,0000,0000,0000,,Fine. I'll do it.
+Dialogue: 0,0:07:23.13,0:07:25.09,Main,R,0000,0000,0000,,I understand the theory.
+Dialogue: 0,0:07:25.09,0:07:27.46,Main,R,0000,0000,0000,,Hold... and then fire, right?
+Dialogue: 0,0:07:27.46,0:07:29.92,Main,T,0000,0000,0000,,Don't be in such a hurry.
+Dialogue: 0,0:07:30.38,0:07:32.72,Main,T,0000,0000,0000,,First practice gathering the energy...
+Dialogue: 0,0:07:35.18,0:07:37.81,Main,R,0000,0000,0000,,I can't control the power \Nas much as I'd like to yet.
+Dialogue: 0,0:07:40.35,0:07:41.85,Main,R,0000,0000,0000,,But I can do this.
+Dialogue: 0,0:07:41.85,0:07:43.06,Main,R,0000,0000,0000,,If I've got four days.
+Dialogue: 0,0:07:43.44,0:07:44.81,Main,N,0000,0000,0000,,There he is!
+Dialogue: 0,0:07:45.11,0:07:48.19,Main,N,0000,0000,0000,,There you are, Tejirof-san.
+Dialogue: 0,0:07:48.86,0:07:52.57,Main,T,0000,0000,0000,,You're Gear's little sister, \NNel-chan, right?
+Dialogue: 0,0:07:52.99,0:07:54.20,Main,N,0000,0000,0000,,Yes.
+Dialogue: 0,0:07:56.41,0:07:57.83,Main,N,0000,0000,0000,,You remembered me!
+Dialogue: 0,0:07:58.20,0:08:00.33,Main,N,0000,0000,0000,,My brother's looking for you.
+Dialogue: 0,0:08:00.33,0:08:02.67,Main,N,0000,0000,0000,,He says he wants more training.
+Dialogue: 0,0:08:02.67,0:08:05.50,Main,T,0000,0000,0000,,Yeah, I was just on my way.
+Dialogue: 0,0:08:05.50,0:08:07.25,Main,T,0000,0000,0000,,Don't rush me.
+Dialogue: 0,0:08:07.73,0:08:11.09,Main,T,0000,0000,0000,,I'm surprised you knew \NI was here, though.
+Dialogue: 0,0:08:11.67,0:08:13.88,Main,T,0000,0000,0000,,Shooting practice is dangerous,
+Dialogue: 0,0:08:13.88,0:08:17.01,Main,,0000,0000,0000,,so I'd thought I'd chosen a \Nplace where no one would come.
+Dialogue: 0,0:08:17.01,0:08:22.35,Main,N,0000,0000,0000,,Um, I thought I could hear \Nyour voice coming from here.
+Dialogue: 0,0:08:23.14,0:08:23.85,Main,T,0000,0000,0000,,My voice...
+Dialogue: 0,0:08:24.81,0:08:28.98,Italics,T,0000,0000,0000,,Did she find me just from my voice?
+Dialogue: 0,0:08:29.57,0:08:31.82,Italics,T,0000,0000,0000,,I'd heard that when Maxley \Nvillage was attacked,
+Dialogue: 0,0:08:31.82,0:08:34.49,Italics,,0000,0000,0000,,she survived, even though she \Nwas only a child, but...
+Dialogue: 0,0:08:35.07,0:08:37.12,Italics,T,0000,0000,0000,,Does the power of a Killer
+Dialogue: 0,0:08:37.70,0:08:40.49,Italics,,0000,0000,0000,,sleep within her, too?
+Dialogue: 0,0:08:41.54,0:08:42.75,Main,T,0000,0000,0000,,Hey, Ears.
+Dialogue: 0,0:08:43.00,0:08:46.58,Main,T,0000,0000,0000,,How do you feel about \Nhelping your brother out?
+Dialogue: 0,0:08:52.46,0:08:54.13,Main,Soldiers,0000,0000,0000,,W-Wow...
+Dialogue: 0,0:08:54.72,0:08:57.89,Main,Soldiers,0000,0000,0000,,She was really able to dodge all \Nthose arrows at this range?
+Dialogue: 0,0:09:00.14,0:09:02.90,Main,N,0000,0000,0000,,Did I really do this?
+Dialogue: 0,0:09:03.39,0:09:06.19,Main,T,0000,0000,0000,,Yes. Your power was just dormant.
+Dialogue: 0,0:09:06.81,0:09:09.52,Main,T,0000,0000,0000,,There's no doubt about it. \NYou're a Killer.
+Dialogue: 0,0:09:17.78,0:09:20.41,Main,T,0000,0000,0000,,How does it feel to be awakened?
+Dialogue: 0,0:09:21.49,0:09:22.41,Main,N,0000,0000,0000,,Amazing...
+Dialogue: 0,0:09:22.83,0:09:24.83,Main,N,0000,0000,0000,,I can see far away.
+Dialogue: 0,0:09:26.04,0:09:27.88,Main,N,0000,0000,0000,,I can hear perfectly, too.
+Dialogue: 0,0:09:28.46,0:09:31.46,Main,N,0000,0000,0000,,And my body can feel even \Nthe slightest breeze.
+Dialogue: 0,0:09:32.63,0:09:33.71,Main,N,0000,0000,0000,,This is
+Dialogue: 0,0:09:34.84,0:09:35.81,Main,,0000,0000,0000,,my...
+Dialogue: 0,0:09:36.68,0:09:38.05,Main,T,0000,0000,0000,,It seems you have the power
+Dialogue: 0,0:09:38.05,0:09:42.85,Main,,0000,0000,0000,,to attune your senses to the \Nsurrounding area: Online.
+Dialogue: 0,0:09:43.43,0:09:45.48,Main,T,0000,0000,0000,,I'm sure it'll grow to be \Nsomething more in the future,
+Dialogue: 0,0:09:45.48,0:09:48.44,Main,T,0000,0000,0000,,but even now, you could go into combat
+Dialogue: 0,0:09:48.44,0:09:49.86,Main,,0000,0000,0000,,and be very helpful.
+Dialogue: 0,0:09:50.81,0:09:52.40,Main,T,0000,0000,0000,,I won't force you.
+Dialogue: 0,0:09:53.23,0:09:55.69,Main,T,0000,0000,0000,,I'll leave the decision to you.
+Dialogue: 0,0:09:58.57,0:09:59.49,Main,N,0000,0000,0000,,Combat?
+Dialogue: 0,0:10:00.03,0:10:00.99,Main,N,0000,0000,0000,,Me?
+Dialogue: 0,0:10:02.20,0:10:02.99,Flashback,N,0000,0000,0000,,Til...
+Dialogue: 0,0:10:04.37,0:10:05.54,Flashback,N,0000,0000,0000,,Brother...
+Dialogue: 0,0:10:07.00,0:10:08.00,Main,N,0000,0000,0000,,All right.
+Dialogue: 0,0:10:08.33,0:10:11.00,Main,N,0000,0000,0000,,I'll... I'll fight, too!
+Dialogue: 0,0:10:12.42,0:10:13.96,Main,Ra,0000,0000,0000,,So all four are ready?
+Dialogue: 0,0:10:14.42,0:10:16.09,Main,Ra,0000,0000,0000,,That's good.
+Dialogue: 0,0:10:16.84,0:10:19.51,Main,T,0000,0000,0000,,Ramses, I want to confirm something...
+Dialogue: 0,0:10:20.01,0:10:21.47,Main,T,0000,0000,0000,,Does Gear know?
+Dialogue: 0,0:10:21.93,0:10:25.98,Main,Ra,0000,0000,0000,,Since I first saw him, \NI thought that might be the case...
+Dialogue: 0,0:10:26.60,0:10:30.02,Main,Ra,0000,0000,0000,,A survivor of Maxley, and a Killer.
+Dialogue: 0,0:10:30.02,0:10:32.56,Main,Ra,0000,0000,0000,,And when I saw that power, I was certain.
+Dialogue: 0,0:10:33.19,0:10:37.24,Main,Ra,0000,0000,0000,,He's the son of General Alex.
+Dialogue: 0,0:10:37.90,0:10:40.24,Main,T,0000,0000,0000,,And you're going through \Nwith this cruel plan?
+Dialogue: 0,0:10:40.91,0:10:46.66,Main,Ra,0000,0000,0000,,Segua can't lose all of its generals.
+Dialogue: 0,0:10:47.25,0:10:48.10,Main,Ra,0000,0000,0000,,Does it bother you?
+Dialogue: 0,0:10:48.75,0:10:50.25,Main,T,0000,0000,0000,,Nope. Not at all.
+Dialogue: 0,0:10:50.67,0:10:54.14,Main,T,0000,0000,0000,,If I get paid, I'll do any job, \Nno matter how dirty.
+Dialogue: 0,0:10:54.55,0:10:56.65,Main,T,0000,0000,0000,,I'm a dirty guy to begin with.
+Dialogue: 0,0:10:56.92,0:11:00.00,Main,Ra,0000,0000,0000,,Take care of Gear.
+Dialogue: 0,0:11:10.31,0:11:12.19,Main,Bl,0000,0000,0000,,Hey, Tejirof.
+Dialogue: 0,0:11:12.86,0:11:14.77,Main,Bl,0000,0000,0000,,How many Killers are there?
+Dialogue: 0,0:11:15.27,0:11:17.94,Main,T,0000,0000,0000,,How many of them?
+Dialogue: 0,0:11:18.78,0:11:19.99,Main,T,0000,0000,0000,,I don't know.
+Dialogue: 0,0:11:20.45,0:11:21.87,Main,T,0000,0000,0000,,Maybe hundreds?
+Dialogue: 0,0:11:22.53,0:11:25.70,Main,Bl,0000,0000,0000,,Then just tell me the strong ones.
+Dialogue: 0,0:11:25.70,0:11:28.20,Main,T,0000,0000,0000,,Let me see... the strong \Nones would be...
+Dialogue: 0,0:11:29.08,0:11:33.21,Main,T,0000,0000,0000,,The Emperor of the Ninteldo Empire, \Nthe perfect Killer: Marcus.
+Dialogue: 0,0:11:33.58,0:11:34.96,Main,T,0000,0000,0000,,Ninteldo's number two,
+Dialogue: 0,0:11:35.46,0:11:38.17,Main,T,0000,0000,0000,,the genius who's known as the \N"Man who solves all mysteries:"
+Dialogue: 0,0:11:38.17,0:11:39.21,Main,T,0000,0000,0000,,Zelig.
+Dialogue: 0,0:11:39.80,0:11:41.97,Main,,0000,0000,0000,,The princess of one of \Ntheir allied nations,
+Dialogue: 0,0:11:41.97,0:11:47.22,Main,,0000,0000,0000,,Slovia, said to be of the highest \Nquality in Consume: Crystal.
+Dialogue: 0,0:11:47.68,0:11:50.43,Main,,0000,0000,0000,,The Samurai CEO of the \Nrepublic of Havid: Kichou.
+Dialogue: 0,0:11:51.06,0:11:55.77,Main,,0000,0000,0000,,The undefeated martial artist \Nof the Ganp Federation: Tofig.
+Dialogue: 0,0:11:56.94,0:11:58.40,Main,,0000,0000,0000,,And the man who's
+Dialogue: 0,0:11:58.40,0:12:01.36,Main,,0000,0000,0000,,known as the only hero \Non the continent,
+Dialogue: 0,0:12:01.36,0:12:03.57,Main,,0000,0000,0000,,Myomuto, of the Elil Republic.
+Dialogue: 0,0:12:03.57,0:12:05.49,Main,,0000,0000,0000,,Even Marcus avoided fighting him.
+Dialogue: 0,0:12:05.78,0:12:08.20,Main,,0000,0000,0000,,They would be the ones to look out for.
+Dialogue: 0,0:12:08.95,0:12:12.00,Main,,0000,0000,0000,,Of course, there are Killers in Tatoland, \Nwhich we're attacking tomorrow.
+Dialogue: 0,0:12:12.58,0:12:15.63,Main,,0000,0000,0000,,D. Fisher, said to be three times \Nthe size of an ordinary man.
+Dialogue: 0,0:12:16.04,0:12:19.09,Main,,0000,0000,0000,,The younger of the cursed \NBrothers, the drinker, Boys.
+Dialogue: 0,0:12:19.42,0:12:21.26,Main,,0000,0000,0000,,The older of the cursed Brothers,
+Dialogue: 0,0:12:21.26,0:12:23.51,Main,,0000,0000,0000,,said to be the strongest \Nin Tatoland, Bays.
+Dialogue: 0,0:12:23.88,0:12:27.18,Main,,0000,0000,0000,,But all of them are people \Nwe'll have to defeat.
+Dialogue: 0,0:12:27.97,0:12:30.47,Main,,0000,0000,0000,,If you want to get better, that is.
+Dialogue: 0,0:12:31.06,0:12:32.43,Main,Bl,0000,0000,0000,,Yeah, I know.
+Dialogue: 0,0:12:33.02,0:12:34.52,Main,Bl,0000,0000,0000,,We'll have to defeat them.
+Dialogue: 0,0:12:35.15,0:12:39.65,Main,T,0000,0000,0000,,Sometimes you have to sacrifice \Nsomething to become stronger.
+Dialogue: 0,0:12:40.65,0:12:42.28,Main,T,0000,0000,0000,,Are you prepared for that?
+Dialogue: 0,0:12:42.61,0:12:45.28,Main,Bl,0000,0000,0000,,Yes. I still want to become stronger.
+Dialogue: 0,0:12:48.28,0:12:49.41,Main,T,0000,0000,0000,,Hey, kid.
+Dialogue: 0,0:12:49.87,0:12:53.33,Main,T,0000,0000,0000,,When did you realize you \Nwanted to join the military?
+Dialogue: 0,0:12:53.96,0:12:55.67,Main,Bl,0000,0000,0000,,I don't know...
+Dialogue: 0,0:12:55.67,0:12:58.08,Main,Bl,0000,0000,0000,,Maybe it was because \Nmy dad was a soldier?
+Dialogue: 0,0:12:59.59,0:13:02.34,Main,Bl,0000,0000,0000,,I haven't seen him since \NI went to the village
+Dialogue: 0,0:13:02.34,0:13:04.55,Main,,0000,0000,0000,,when I was five, so I don't \Nreally remember, but...
+Dialogue: 0,0:13:04.93,0:13:09.56,Main,Bl,0000,0000,0000,,I do remember watching him defeat lots of \Nsoldiers at once during practice matches.
+Dialogue: 0,0:13:10.31,0:13:11.77,Main,Bl,0000,0000,0000,,It may have been watching that
+Dialogue: 0,0:13:11.77,0:13:14.27,Main,,0000,0000,0000,,when I decided to join the military.
+Dialogue: 0,0:13:15.98,0:13:19.69,Main,Bl,0000,0000,0000,,I thought if I joined, \NI might be able to see him.
+Dialogue: 0,0:13:20.23,0:13:23.23,Main,Bl,0000,0000,0000,,But so far, I didn't see \Nanybody who looked like him.
+Dialogue: 0,0:13:24.36,0:13:27.41,Main,Bl,0000,0000,0000,,I wonder what he's doing now.
+Dialogue: 0,0:13:27.91,0:13:29.91,Main,Bl,0000,0000,0000,,Maybe he's dead.
+Dialogue: 0,0:13:29.91,0:13:31.16,Main,T,0000,0000,0000,,I don't know.
+Dialogue: 0,0:13:32.30,0:13:35.83,Main,T,0000,0000,0000,,Well... Maybe if you're a good boy, \Nyou'll get to see him.
+Dialogue: 0,0:13:38.67,0:13:41.09,Main,T,0000,0000,0000,,Our primary objective for today's operation
+Dialogue: 0,0:13:42.71,0:13:46.55,Main,,0000,0000,0000,,is to rescue General Alex, \Nwho's being held in an underground cell.
+Dialogue: 0,0:13:47.34,0:13:50.43,Main,T,0000,0000,0000,,While the decoy force draws \Nthe enemy towards the front,
+Dialogue: 0,0:13:50.43,0:13:56.02,Main,T,0000,0000,0000,,we'll go in from the back, \Nand head straight to his cell.
+Dialogue: 0,0:13:57.69,0:14:00.73,Main,T,0000,0000,0000,,We'll avoid standing out or getting \Ninto any unnecessary fights.
+Dialogue: 0,0:14:00.73,0:14:06.03,Main,T,0000,0000,0000,,So Ears will use her Online \Nto search for traps and enemies.
+Dialogue: 0,0:14:06.03,0:14:06.78,Main,,0000,0000,0000,,Right.
+Dialogue: 0,0:14:06.78,0:14:09.07,Main,T,0000,0000,0000,,Opal will snipe from far away.
+Dialogue: 0,0:14:09.07,0:14:09.74,Main,R,0000,0000,0000,,Leave it to me.
+Dialogue: 0,0:14:10.24,0:14:12.12,Main,T,0000,0000,0000,,And if we need you to, Gear,
+Dialogue: 0,0:14:12.12,0:14:14.54,Main,,0000,0000,0000,,you'll break through with your speed.
+Dialogue: 0,0:14:14.95,0:14:15.79,Main,Bl,0000,0000,0000,,Yeah.
+Dialogue: 0,0:14:16.37,0:14:19.71,Main,T,0000,0000,0000,,And if things get bad, \Njust remain calm.
+Dialogue: 0,0:14:20.21,0:14:22.50,Main,T,0000,0000,0000,,I'll handle it.
+Dialogue: 0,0:14:25.26,0:14:26.59,Main,Soldiers,0000,0000,0000,,Advance!
+Dialogue: 0,0:14:27.05,0:14:27.97,Main,Soldiers,0000,0000,0000,,It's the Segua army!
+Dialogue: 0,0:14:28.30,0:14:30.01,Main,Soldiers,0000,0000,0000,,The Segua army is attacking!
+Dialogue: 0,0:14:30.01,0:14:30.97,Main,Soldiers,0000,0000,0000,,Everybody to your posts!
+Dialogue: 0,0:14:34.26,0:14:35.35,Main,N,0000,0000,0000,,It's started.
+Dialogue: 0,0:14:35.77,0:14:36.73,Main,T,0000,0000,0000,,Okay, let's hurry.
+Dialogue: 0,0:14:37.89,0:14:38.98,Main,N,0000,0000,0000,,Hold up, guys.
+Dialogue: 0,0:14:39.61,0:14:41.73,Main,N,0000,0000,0000,,There's a Seguan who's \Ncollapsed over there.
+Dialogue: 0,0:14:42.15,0:14:43.15,Main,T,0000,0000,0000,,Who?
+Dialogue: 0,0:14:43.15,0:14:44.23,Main,T,0000,0000,0000,,A scout?
+Dialogue: 0,0:14:53.24,0:14:55.49,Main,R,0000,0000,0000,,You're one of the scouts...
+Dialogue: 0,0:14:56.04,0:14:58.21,Main,Scout,0000,0000,0000,,We underestimated them.
+Dialogue: 0,0:14:58.91,0:15:00.12,Main,Scout,0000,0000,0000,,Be careful.
+Dialogue: 0,0:15:00.62,0:15:02.46,Main,Scout,0000,0000,0000,,He's waiting at the rear gate.
+Dialogue: 0,0:15:03.09,0:15:05.11,Main,Scout,0000,0000,0000,,The strongest warrior of Tatoland.
+Dialogue: 0,0:15:05.75,0:15:06.80,Main,Scout,0000,0000,0000,,Bays!
+Dialogue: 0,0:15:08.26,0:15:09.34,Main,T,0000,0000,0000,,Bays, huh?
+Dialogue: 0,0:15:09.34,0:15:10.51,Main,T,0000,0000,0000,,That's a problem.
+Dialogue: 0,0:15:11.09,0:15:12.61,Main,Scout,0000,0000,0000,,I'm done for.
+Dialogue: 0,0:15:13.01,0:15:14.22,Main,Scout,0000,0000,0000,,I'm going to die here.
+Dialogue: 0,0:15:14.76,0:15:17.98,Main,Scout,0000,0000,0000,,But... you guys are Killers, right?
+Dialogue: 0,0:15:17.98,0:15:22.60,Main,Scout,0000,0000,0000,,Please! Any of you! Absorb me.
+Dialogue: 0,0:15:23.61,0:15:27.11,Main,Scout,0000,0000,0000,,Please... absorb me...
+Dialogue: 0,0:15:27.86,0:15:29.78,Main,N,0000,0000,0000,,Absorb you?
+Dialogue: 0,0:15:30.32,0:15:31.45,Main,T,0000,0000,0000,,Impossible.
+Dialogue: 0,0:15:34.95,0:15:36.41,Main,T,0000,0000,0000,,You know that.
+Dialogue: 0,0:15:37.62,0:15:39.16,Main,T,0000,0000,0000,,You're not powerful enough.
+Dialogue: 0,0:15:39.62,0:15:40.58,Main,T,0000,0000,0000,,Give up.
+Dialogue: 0,0:15:41.08,0:15:43.33,Main,T,0000,0000,0000,,We'll avenge you, if nothing else.
+Dialogue: 0,0:15:43.79,0:15:45.67,Main,T,0000,0000,0000,,So rest in peace.
+Dialogue: 0,0:15:48.59,0:15:50.13,Main,Scout,0000,0000,0000,,You're right...
+Dialogue: 0,0:15:51.22,0:15:56.01,Main,Scout,0000,0000,0000,,Bring victory to Segua for me...
+Dialogue: 0,0:16:01.98,0:16:03.23,Main,Bl,0000,0000,0000,,What did he mean by absorb?
+Dialogue: 0,0:16:03.81,0:16:04.90,Main,R,0000,0000,0000,,That's right.
+Dialogue: 0,0:16:04.90,0:16:06.44,Main,R,0000,0000,0000,,You don't know yet, do you?
+Dialogue: 0,0:16:06.44,0:16:07.73,Main,R,0000,0000,0000,,I guess you wouldn't...
+Dialogue: 0,0:16:08.65,0:16:12.45,Main,R,0000,0000,0000,,You don't know why we're called "Killers."
+Dialogue: 0,0:16:12.95,0:16:16.12,Main,R,0000,0000,0000,,Killers are people who \Nare strong to begin with,
+Dialogue: 0,0:16:16.12,0:16:18.33,Main,,0000,0000,0000,,but there's a way for \Nthem to get stronger.
+Dialogue: 0,0:16:18.79,0:16:20.75,Main,R,0000,0000,0000,,And it's easy.
+Dialogue: 0,0:16:22.25,0:16:24.96,Main,R,0000,0000,0000,,You simply absorb.
+Dialogue: 0,0:16:25.13,0:16:26.50,Main,Bl,0000,0000,0000,,Absorb?
+Dialogue: 0,0:16:26.50,0:16:27.46,Main,N,0000,0000,0000,,Absorb what?
+Dialogue: 0,0:16:28.42,0:16:29.63,Main,R,0000,0000,0000,,Other's lives.
+Dialogue: 0,0:16:31.72,0:16:33.55,Main,R,0000,0000,0000,,Absorb their lives and become stronger.
+Dialogue: 0,0:16:34.05,0:16:35.89,Main,R,0000,0000,0000,,That's why we're called "Killers."
+Dialogue: 0,0:16:36.55,0:16:38.47,Main,N,0000,0000,0000,,People's lives?
+Dialogue: 0,0:16:38.81,0:16:41.02,Main,Bl,0000,0000,0000,,I-I don't understand...
+Dialogue: 0,0:16:41.02,0:16:44.23,Main,,0000,0000,0000,,But then, shouldn't we have absorbed his?
+Dialogue: 0,0:16:48.11,0:16:50.48,Main,T,0000,0000,0000,,It's not that easy.
+Dialogue: 0,0:16:50.90,0:16:53.28,Main,T,0000,0000,0000,,There's a limit to how many \None person can absorb.
+Dialogue: 0,0:16:54.07,0:16:58.53,Main,T,0000,0000,0000,,You have two marks, \Nso you can only absorb two.
+Dialogue: 0,0:16:59.20,0:17:00.66,Main,T,0000,0000,0000,,There's a limit,
+Dialogue: 0,0:17:00.66,0:17:03.87,Main,,0000,0000,0000,,so you should only absorb someone \Nwhen it's more effective.
+Dialogue: 0,0:17:04.79,0:17:06.08,Main,N,0000,0000,0000,,Effective?
+Dialogue: 0,0:17:06.58,0:17:09.29,Main,Bl,0000,0000,0000,,You mean someone stronger?
+Dialogue: 0,0:17:09.88,0:17:11.09,Main,,0000,0000,0000,,Well, well...
+Dialogue: 0,0:17:13.01,0:17:15.01,Main,T,0000,0000,0000,,Looks like we don't have time to talk.
+Dialogue: 0,0:17:15.76,0:17:18.35,Main,T,0000,0000,0000,,He's come to us.
+Dialogue: 0,0:17:19.47,0:17:21.43,Main,Bl,0000,0000,0000,,That's him?
+Dialogue: 0,0:17:21.43,0:17:22.43,Main,T,0000,0000,0000,,Yes, that's right.
+Dialogue: 0,0:17:23.27,0:17:25.77,Main,T,0000,0000,0000,,That's the strongest Killer in Tatoland,
+Dialogue: 0,0:17:26.77,0:17:27.77,Main,,0000,0000,0000,,Bays.
+Dialogue: 0,0:17:28.27,0:17:29.44,Main,Ba,0000,0000,0000,,Yeah, I did.
+Dialogue: 0,0:17:29.44,0:17:30.90,Main,Ba,0000,0000,0000,,I was bored.
+Dialogue: 0,0:17:30.90,0:17:33.28,Main,Ba,0000,0000,0000,,I'm glad I won't be bored now.
+Dialogue: 0,0:17:33.32,0:17:37.13,Italics,Bl,0000,0000,0000,,This guy is the strongest \Nwarrior in Tatoland, Bays?
+Dialogue: 0,0:17:38.78,0:17:42.70,Italics,Bl,0000,0000,0000,,I want to see how far my \Nstrength can take me!
+Dialogue: 0,0:17:42.75,0:17:44.20,Italics,Bl,0000,0000,0000,,Okay, let's do this!
+Dialogue: 0,0:17:51.21,0:17:52.55,Italics,Bl,0000,0000,0000,,I can't advance...
+Dialogue: 0,0:17:53.80,0:17:56.80,Italics,Bl,0000,0000,0000,,This is a real fight?
+Dialogue: 0,0:17:58.30,0:17:59.18,Main,T,0000,0000,0000,,Good.
+Dialogue: 0,0:17:59.55,0:18:01.81,Main,T,0000,0000,0000,,You can judge these things now.
+Dialogue: 0,0:18:02.35,0:18:05.31,Main,T,0000,0000,0000,,The fact that you can tell how strong\Nhe is means you're growing.
+Dialogue: 0,0:18:05.60,0:18:08.35,Main,T,0000,0000,0000,,If you'd jumped in, you would've died.
+Dialogue: 0,0:18:09.06,0:18:10.56,Main,T,0000,0000,0000,,He's strong.
+Dialogue: 0,0:18:10.86,0:18:13.03,Main,T,0000,0000,0000,,If we were to seriously fight him here,
+Dialogue: 0,0:18:13.03,0:18:15.53,Main,,0000,0000,0000,,we could lose two of us.
+Dialogue: 0,0:18:16.15,0:18:17.15,Main,Ba,0000,0000,0000,,Two?
+Dialogue: 0,0:18:17.15,0:18:18.57,Main,Ba,0000,0000,0000,,Don't you mean four?
+Dialogue: 0,0:18:19.24,0:18:20.20,Main,R,0000,0000,0000,,What do we do?
+Dialogue: 0,0:18:20.20,0:18:23.24,Main,R,0000,0000,0000,,If we waste time here, \Nthe operation will fail.
+Dialogue: 0,0:18:23.24,0:18:24.58,Main,T,0000,0000,0000,,Very well.
+Dialogue: 0,0:18:25.29,0:18:26.10,Main,T,0000,0000,0000,,I'll...
+Dialogue: 0,0:18:28.62,0:18:30.29,Main,,0000,0000,0000,,stop him here.
+Dialogue: 0,0:18:35.30,0:18:36.05,Main,Ba,0000,0000,0000,,Stop me?
+Dialogue: 0,0:18:36.92,0:18:37.88,Main,Ba,0000,0000,0000,,You?
+Dialogue: 0,0:18:38.47,0:18:39.51,Main,Ba,0000,0000,0000,,Alone?
+Dialogue: 0,0:18:40.22,0:18:41.51,Main,T,0000,0000,0000,,Yeah. That's right.
+Dialogue: 0,0:18:42.01,0:18:44.14,Main,T,0000,0000,0000,,Sorry, since you took the \Ntrouble to come here...
+Dialogue: 0,0:18:50.48,0:18:53.98,Main,T,0000,0000,0000,,But you're going to vanish \Nfrom the stage here.
+Dialogue: 0,0:19:03.99,0:19:05.29,Main,T,0000,0000,0000,,Now, run.
+Dialogue: 0,0:19:10.12,0:19:11.08,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:11.33,0:19:12.54,Main,T,0000,0000,0000,,A wall of light.
+Dialogue: 0,0:19:13.13,0:19:14.92,Main,T,0000,0000,0000,,I can't attack you from the outside,
+Dialogue: 0,0:19:14.92,0:19:17.05,Main,,0000,0000,0000,,but you can't attack it \Nfrom the inside, either.
+Dialogue: 0,0:19:19.26,0:19:21.51,Main,T,0000,0000,0000,,Stay there and play with \Nyourself for a while.
+Dialogue: 0,0:19:22.05,0:19:22.68,Main,T,0000,0000,0000,,See ya.
+Dialogue: 0,0:19:30.64,0:19:32.35,Main,T,0000,0000,0000,,How's it going, Ears?
+Dialogue: 0,0:19:33.27,0:19:35.36,Main,N,0000,0000,0000,,The decoy squad is working.
+Dialogue: 0,0:19:35.77,0:19:37.99,Main,N,0000,0000,0000,,There aren't many enemies \Nwithin the fortress.
+Dialogue: 0,0:19:38.86,0:19:42.41,Main,T,0000,0000,0000,,The wall of light holding Bays \Nwill last twenty minutes at best.
+Dialogue: 0,0:19:42.91,0:19:45.45,Main,T,0000,0000,0000,,If he gets out we have a problem.
+Dialogue: 0,0:19:46.33,0:19:48.45,Main,T,0000,0000,0000,,We need to keep going before that happens.
+Dialogue: 0,0:19:49.46,0:19:50.54,Main,N,0000,0000,0000,,Wait, guys.
+Dialogue: 0,0:19:51.08,0:19:52.83,Main,N,0000,0000,0000,,There's a strong aura up ahead.
+Dialogue: 0,0:19:54.67,0:19:57.76,Main,N,0000,0000,0000,,He's big... like a fish?
+Dialogue: 0,0:19:57.76,0:19:58.76,Main,Bl,0000,0000,0000,,A fish?
+Dialogue: 0,0:19:58.76,0:20:00.97,Main,T,0000,0000,0000,,Probably D. Fisher.
+Dialogue: 0,0:20:00.97,0:20:01.76,Main,Bl,0000,0000,0000,,What do we do?
+Dialogue: 0,0:20:01.76,0:20:04.64,Main,Bl,0000,0000,0000,,Stop him with another wall of light?
+Dialogue: 0,0:20:05.10,0:20:07.39,Main,T,0000,0000,0000,,No, that won't be possible anymore.
+Dialogue: 0,0:20:07.89,0:20:10.06,Main,T,0000,0000,0000,,It's not something I can use that often.
+Dialogue: 0,0:20:10.81,0:20:15.81,Main,T,0000,0000,0000,,It's a bit risky, but we'll \Nhave to use another decoy.
+Dialogue: 0,0:20:16.98,0:20:18.03,Main,Bl,0000,0000,0000,,Okay.
+Dialogue: 0,0:20:18.03,0:20:19.53,Main,Bl,0000,0000,0000,,Then I'll be the decoy.
+Dialogue: 0,0:20:19.53,0:20:21.65,Main,S,0000,0000,0000,,Don't rush ahead, kid.
+Dialogue: 0,0:20:22.15,0:20:25.82,Main,S,0000,0000,0000,,Your job's to destroy the doors \Nwhile the decoy draws him off.
+Dialogue: 0,0:20:26.58,0:20:30.41,Main,S,0000,0000,0000,,And you've got a bigger job coming up.
+Dialogue: 0,0:20:31.04,0:20:32.08,Main,Bl,0000,0000,0000,,A bigger job?
+Dialogue: 0,0:20:32.08,0:20:35.54,Main,T,0000,0000,0000,,So, Opal, you're the decoy.
+Dialogue: 0,0:20:36.96,0:20:39.05,Main,R,0000,0000,0000,,All right, I'll do it.
+Dialogue: 0,0:20:39.55,0:20:42.76,Main,T,0000,0000,0000,,Just so we're clear, the fish \Nman is stronger than you.
+Dialogue: 0,0:20:43.18,0:20:45.51,Main,T,0000,0000,0000,,Draw him off and buy time,
+Dialogue: 0,0:20:45.93,0:20:48.00,Main,,0000,0000,0000,,then withdraw when you have a chance.
+Dialogue: 0,0:20:48.34,0:20:49.81,Main,R,0000,0000,0000,,Got it!
+Dialogue: 0,0:20:49.81,0:20:51.06,Main,R,0000,0000,0000,,There's no time, right?
+Dialogue: 0,0:20:51.06,0:20:52.06,Main,R,0000,0000,0000,,Let's go.
+Dialogue: 0,0:20:52.52,0:20:56.06,Main,R,0000,0000,0000,,I'll {\i1}lure{\i0} him away from you guys.
+Dialogue: 0,0:20:57.15,0:21:00.07,Main,R,0000,0000,0000,,Wasn't that funny?
+Dialogue: 0,0:21:00.07,0:21:01.40,Main,Bl,0000,0000,0000,,Not at all.
+Dialogue: 0,0:21:02.70,0:21:06.32,Main,F,0000,0000,0000,,The guys fighting outside \Nmust be having fun.
+Dialogue: 0,0:21:06.78,0:21:08.58,Main,F,0000,0000,0000,,I want to smash somebody.
+Dialogue: 0,0:21:09.12,0:21:11.58,Main,F,0000,0000,0000,,I hope somebody gets this far.
+Dialogue: 0,0:21:21.69,0:21:23.00,Main,F,0000,0000,0000,,There you are.
+Dialogue: 0,0:21:28.64,0:21:31.14,Main,F,0000,0000,0000,,Stop moving around!
+Dialogue: 0,0:21:32.52,0:21:33.48,Main,F,0000,0000,0000,,Crap!
+Dialogue: 0,0:21:38.02,0:21:40.19,Italics,F,0000,0000,0000,,Tejirof told me to pull back...
+Dialogue: 0,0:21:40.63,0:21:43.19,Italics,F,0000,0000,0000,,But I'll defeat him here!
+Dialogue: 0,0:21:54.90,0:21:58.83,Main,F,0000,0000,0000,,This is the prison where General \NAlex is being held captive.
+Dialogue: 0,0:21:59.22,0:22:00.78,Italics,Bl,0000,0000,0000,,General Alex.
+Dialogue: 0,0:22:01.31,0:22:05.15,Italics,Bl,0000,0000,0000,,The man who's said to be \Nthe strongest in Segua.
+Dialogue: 0,0:22:05.96,0:22:08.34,Italics,Bl,0000,0000,0000,,I wonder what he's like.
+Dialogue: 0,0:22:16.25,0:22:17.21,Main,Bl,0000,0000,0000,,No...
+Dialogue: 0,0:22:17.59,0:22:18.35,Main,Bl,0000,0000,0000,,Why?
+Dialogue: 0,0:22:20.28,0:22:21.11,Main,Bl,0000,0000,0000,,Dad?
+Dialogue: 0,0:23:40.74,0:23:43.52,Main,Preview,0000,0000,0000,,I can hold it in better than anybody!
+Dialogue: 0,0:23:43.98,0:23:44.88,Main,Preview,0000,0000,0000,,I was happy...
+Dialogue: 0,0:23:45.77,0:23:49.10,Main,Preview,0000,0000,0000,,I can do anything, if I want.
+Dialogue: 0,0:23:49.52,0:23:51.82,Main,Preview,0000,0000,0000,,Even so, I'm going to keep running,
+Dialogue: 0,0:23:51.82,0:23:53.70,Main,,0000,0000,0000,,towards the center of the world...
+Dialogue: 0,0:23:51.82,0:23:54.90,Copy of Title,,0000,0000,0000,,{\fad(1,973)}Episode 3 is Being Worked On Right Now!

@@ -1,0 +1,402 @@
+
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Humana Sans Md ITC TT,27,&H00EDEBE8,&H000000FF,&H002F2724,&H96000000,-1,0,0,0,100,120,0,0,1,1.7,0,2,40,40,35,1
+Style: Main,Humana Sans Md ITC TT,27,&H00EDEBE8,&H000000FF,&H002F2724,&H96000000,-1,0,0,0,100,120,0,0,1,1.7,0,2,40,40,35,1
+Style: Italics,Humana Sans Md ITC TT,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,1,0,0,100,100,0,0,1,2,2,2,0010,0010,0018,0
+Style: Title,Humana Sans Md ITC TT,27,&H003436E2,&H000000FF,&H00070A0E,&H00070A0E,1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0130,0
+Style: Location,Humana Sans Md ITC TT,21,&H00F9FAF8,&H000000FF,&H003A2C29,&H003A2C29,1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0050,0
+Style: Location2,Humana Sans Md ITC TT,21,&H00F9FAF8,&H000000FF,&H00171110,&H00171110,1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0055,0
+Style: Hour Later,Humana Sans Md ITC TT,21,&H00F9FAF8,&H000000FF,&H00171110,&H00171110,1,0,0,0,100,100,0,0,1,1,1,8,0010,0010,0040,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.54,0:00:01.48,Italics,G,0000,0000,0000,,Go forward...
+Dialogue: 0,0:00:03.91,0:00:04.95,Italics,G,0000,0000,0000,,Forward!
+Dialogue: 0,0:00:07.19,0:00:08.43,Italics,G,0000,0000,0000,,I won't run away...
+Dialogue: 0,0:00:20.69,0:00:21.62,Italics,G,0000,0000,0000,,Not anymore!
+Dialogue: 0,0:00:23.24,0:00:24.37,Italics,G,0000,0000,0000,,I won't go back!
+Dialogue: 0,0:00:29.70,0:00:30.93,Italics,G,0000,0000,0000,,Go forward...
+Dialogue: 0,0:00:40.52,0:00:42.02,Italics,G,0000,0000,0000,,with all my power!
+Dialogue: 0,0:00:48.19,0:00:53.61,Main,Til,0000,0000,0000,,I knew that you could do \Nit if you tried, brother.
+Dialogue: 0,0:00:54.19,0:00:59.62,Main,Til,0000,0000,0000,,I wish I could have seen you do more.
+Dialogue: 0,0:01:04.95,0:01:07.71,Main,N,0000,0000,0000,,Til! Til! Til!
+Dialogue: 0,0:01:09.34,0:01:11.94,Italics,G,0000,0000,0000,,I swear I won't run away anymore.
+Dialogue: 0,0:01:11.94,0:01:13.08,Italics,G,0000,0000,0000,,I won't go back.
+Dialogue: 0,0:01:13.08,0:01:14.27,Italics,G,0000,0000,0000,,I won't stop.
+Dialogue: 0,0:01:14.27,0:01:17.03,Italics,G,0000,0000,0000,,Even if my legs break, \Neven if I can no longer see,
+Dialogue: 0,0:01:17.03,0:01:19.01,Italics,,0000,0000,0000,,I'll keep running forward.
+Dialogue: 0,0:01:19.63,0:01:22.98,Italics,G,0000,0000,0000,,And you'll be watching \Nme from somewhere,
+Dialogue: 0,0:01:22.98,0:01:24.02,Italics,,0000,0000,0000,,won't you, Til?
+Dialogue: 0,0:01:25.10,0:01:28.98,Italics,G,0000,0000,0000,,And so I started running to \Nthe center of the world.
+Dialogue: 0,0:03:00.50,0:03:04.11,Italics,Narr,0000,0000,0000,,The continent of Consume, \Na land where war never stops.
+Dialogue: 0,0:03:04.68,0:03:08.08,Italics,Narr,0000,0000,0000,,There, the blue-eyed Segua Kingdom
+Dialogue: 0,0:03:08.08,0:03:10.57,Italics,,0000,0000,0000,,and the Red-Eyed Ninteldo Empire
+Dialogue: 0,0:03:10.57,0:03:14.19,Italics,,0000,0000,0000,,struggled for control of the land.
+Dialogue: 0,0:03:14.19,0:03:15.75,Italics,Narr,0000,0000,0000,,But for the last few years,
+Dialogue: 0,0:03:15.75,0:03:17.75,Italics,,0000,0000,0000,,with the ascension of Emperor Marcus,
+Dialogue: 0,0:03:17.75,0:03:20.29,Italics,Narr,0000,0000,0000,,the forces of Ninteldo rapidly grew in power,
+Dialogue: 0,0:03:20.29,0:03:25.03,Italics,,0000,0000,0000,,and they and their allies \Ncontrolled 90% of the continent.
+Dialogue: 0,0:03:25.03,0:03:29.02,Italics,Narr,0000,0000,0000,,The Segua Kingdom was losing the war.
+Dialogue: 0,0:03:29.98,0:03:34.98,Title,Narr,0000,0000,0000,,The Hard Wars of Consume
+Dialogue: 0,0:03:35.48,0:03:38.65,Location,Narr,0000,0000,0000,,{\fad(485,1)}Capital of Segua, Outori
+Dialogue: 0,0:03:38.87,0:03:41.00,Main,G,0000,0000,0000,,We finally made it, Til.
+Dialogue: 0,0:03:41.62,0:03:43.03,Main,Soldier,0000,0000,0000,,Vice-General Ramses!
+Dialogue: 0,0:03:43.54,0:03:44.96,Main,R,0000,0000,0000,,You're being very loud.
+Dialogue: 0,0:03:44.96,0:03:46.31,Main,R,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:03:46.31,0:03:48.89,Main,Soldier,0000,0000,0000,,M-My apologies, Vice-General Ramses.
+Dialogue: 0,0:03:48.89,0:03:50.87,Main,Soldier,0000,0000,0000,,A strange man is asking to \Nbe let into the military.
+Dialogue: 0,0:03:51.40,0:03:52.65,Main,R,0000,0000,0000,,Who?
+Dialogue: 0,0:03:52.65,0:03:56.13,Main,Soldier,0000,0000,0000,,He's definitely a Seguaian, \Nbut I don't know about him...
+Dialogue: 0,0:03:56.38,0:03:58.34,Main,Soldier,0000,0000,0000,,He says his name is Gear.
+Dialogue: 0,0:03:58.78,0:04:00.01,Main,R,0000,0000,0000,,Gear?
+Dialogue: 0,0:04:02.37,0:04:06.67,Main,R,0000,0000,0000,,So you're the one who wants \Nto join our army, right?
+Dialogue: 0,0:04:06.67,0:04:09.77,Main,G,0000,0000,0000,,Um, I want to join the Segua army.
+Dialogue: 0,0:04:10.13,0:04:10.93,Main,G,0000,0000,0000,,Please!
+Dialogue: 0,0:04:12.55,0:04:14.46,Italics,R,0000,0000,0000,,I knew it. He's...
+Dialogue: 0,0:04:16.27,0:04:18.44,Main,R,0000,0000,0000,,Very well, I understand.
+Dialogue: 0,0:04:18.44,0:04:20.66,Main,R,0000,0000,0000,,Gear, correct?
+Dialogue: 0,0:04:21.15,0:04:23.45,Main,R,0000,0000,0000,,If you want to join the army,
+Dialogue: 0,0:04:23.45,0:04:27.39,Main,,0000,0000,0000,,you must fight here and \Nprove your strength.
+Dialogue: 0,0:04:27.39,0:04:28.94,Main,R,0000,0000,0000,,Fight everyone here.
+Dialogue: 0,0:04:29.83,0:04:31.66,Main,N,0000,0000,0000,,B-But that's crazy!
+Dialogue: 0,0:04:32.18,0:04:33.55,Main,R,0000,0000,0000,,Does that not satisfy you?
+Dialogue: 0,0:04:33.55,0:04:35.28,Main,G,0000,0000,0000,,No, I understand.
+Dialogue: 0,0:04:36.57,0:04:39.81,Main,R,0000,0000,0000,,There are 50 of the regular \Narmy's best men here.
+Dialogue: 0,0:04:39.81,0:04:43.72,Main,,0000,0000,0000,,Now show me your Killer Power!
+Dialogue: 0,0:04:44.11,0:04:44.72,Main,R,0000,0000,0000,,Begin!
+Dialogue: 0,0:04:53.52,0:04:54.49,Main,N,0000,0000,0000,,Wow!
+Dialogue: 0,0:04:54.49,0:04:56.57,Main,Soldier,0000,0000,0000,,He moved so fast!
+Dialogue: 0,0:04:56.57,0:04:57.48,Main,Soldier2,0000,0000,0000,,Could you see that?
+Dialogue: 0,0:04:57.48,0:04:58.94,Main,Soldier2,0000,0000,0000,,What was that?
+Dialogue: 0,0:05:02.44,0:05:05.29,Italics,G,0000,0000,0000,,I won't run away anymore. \NI'll go forward!
+Dialogue: 0,0:05:08.28,0:05:11.12,Italics,G,0000,0000,0000,,I'll prove my power!
+Dialogue: 0,0:05:11.58,0:05:12.80,Italics,R,0000,0000,0000,,He wiped them all out?
+Dialogue: 0,0:05:12.80,0:05:14.30,Italics,,0000,0000,0000,,In just a few minutes?
+Dialogue: 0,0:05:14.30,0:05:17.12,Italics,R,0000,0000,0000,,He's far beyond what I imagined!
+Dialogue: 0,0:05:17.84,0:05:19.42,Main,H,0000,0000,0000,,Stop right there, kid.
+Dialogue: 0,0:05:20.41,0:05:21.18,Main,H,0000,0000,0000,,Not yet.
+Dialogue: 0,0:05:21.18,0:05:23.63,Main,H,0000,0000,0000,,It's still too early to get cocky.
+Dialogue: 0,0:05:24.06,0:05:26.63,Italics,R,0000,0000,0000,,The strongest man in the Segua army.
+Dialogue: 0,0:05:26.93,0:05:28.96,Italics,R,0000,0000,0000,,Harris, the Captain of Defenses.
+Dialogue: 0,0:05:28.96,0:05:32.14,Main,H,0000,0000,0000,,You're fast, I'll admit that.
+Dialogue: 0,0:05:32.14,0:05:35.81,Main,H,0000,0000,0000,,But do you have power?
+Dialogue: 0,0:05:38.49,0:05:39.59,Main,H,0000,0000,0000,,What?
+Dialogue: 0,0:05:44.54,0:05:45.41,Italics,R,0000,0000,0000,,There it is!
+Dialogue: 0,0:05:45.41,0:05:48.28,Italics,R,0000,0000,0000,,He's what I've been waiting for!
+Dialogue: 0,0:05:51.51,0:05:53.29,Italics,R,0000,0000,0000,,With him here, I can make it real.
+Dialogue: 0,0:05:56.80,0:05:58.76,Italics,R,0000,0000,0000,,A new era for Segua!
+Dialogue: 0,0:06:01.35,0:06:03.13,Main,N,0000,0000,0000,,That was great, brother!
+Dialogue: 0,0:06:03.59,0:06:07.64,Italics,R,0000,0000,0000,,I can take back our share \Nof Consume from Ninteldo,
+Dialogue: 0,0:06:07.64,0:06:09.64,Italics,,0000,0000,0000,,and end the Hard Wars!
+Dialogue: 0,0:06:10.16,0:06:13.68,Location2,R,0000,0000,0000,,{\fad(460,516)}Ninteldo Territory
+Dialogue: 0,0:06:21.46,0:06:23.22,Main,Zelig,0000,0000,0000,,I told you!
+Dialogue: 0,0:06:23.22,0:06:27.40,Main,Zelig,0000,0000,0000,,Games like you don't know a thing!
+Dialogue: 0,0:06:29.48,0:06:32.41,Main,Zelig,0000,0000,0000,,Here in Consume...
+Dialogue: 0,0:06:35.89,0:06:38.09,Main,Zelig,0000,0000,0000,,things won't work that way.
+Dialogue: 0,0:07:05.14,0:07:06.32,Main,Zelig,0000,0000,0000,,It's over.
+Dialogue: 0,0:07:07.93,0:07:09.76,Main,Zelig,0000,0000,0000,,People kept going on about how great
+Dialogue: 0,0:07:09.76,0:07:12.17,Main,,0000,0000,0000,,their specs were before \Nthey actually showed up,
+Dialogue: 0,0:07:12.17,0:07:13.82,Main,Zelig,0000,0000,0000,,but they were crap.
+Dialogue: 0,0:07:15.47,0:07:19.36,Main,Zelig,0000,0000,0000,,There's no one left on Consume \Nwho can stand against us.
+Dialogue: 0,0:07:19.36,0:07:22.16,Main,Zelig,0000,0000,0000,,I guess all that's left is Segua.
+Dialogue: 0,0:07:22.16,0:07:24.84,Main,Zelig,0000,0000,0000,,I heard rumors they're going \Nto try something soon.
+Dialogue: 0,0:07:26.38,0:07:27.50,Main,Marcus,0000,0000,0000,,Segua?
+Dialogue: 0,0:07:28.04,0:07:31.04,Main,Marcus,0000,0000,0000,,It doesn't matter what Segua does.
+Dialogue: 0,0:07:31.04,0:07:33.95,Main,Marcus,0000,0000,0000,,Ninteldo has but one goal.
+Dialogue: 0,0:07:34.50,0:07:36.10,Main,Marcus,0000,0000,0000,,And I believe that
+Dialogue: 0,0:07:37.79,0:07:41.35,Main,,0000,0000,0000,,heaven has entrusted us with it.
+Dialogue: 0,0:07:43.10,0:07:46.29,Main,R,0000,0000,0000,,To be honest, things don't look good.
+Dialogue: 0,0:07:46.29,0:07:50.67,Main,R,0000,0000,0000,,Ninteldo and its allies control \N90% of the continent.
+Dialogue: 0,0:07:50.67,0:07:53.86,Main,R,0000,0000,0000,,But the next operation is the \Nbeginning of our counterattack.
+Dialogue: 0,0:07:54.60,0:07:56.59,Main,R,0000,0000,0000,,Our target is Hope Fortress,
+Dialogue: 0,0:07:56.59,0:07:59.62,Main,,0000,0000,0000,,in one of the countries allied \Nto Ninteldo, "Tetrand."
+Dialogue: 0,0:08:00.03,0:08:03.06,Main,R,0000,0000,0000,,We'll rescue General Alex, \Nwho's being held there.
+Dialogue: 0,0:08:03.66,0:08:06.63,Main,R,0000,0000,0000,,Gear, I'm putting you in charge
+Dialogue: 0,0:08:06.63,0:08:09.01,Main,,0000,0000,0000,,of the first special forces \Nsquad for the mission.
+Dialogue: 0,0:08:10.30,0:08:14.13,Main,G,0000,0000,0000,,This is all moving a little too fast...
+Dialogue: 0,0:08:14.54,0:08:17.27,Main,R,0000,0000,0000,,It's the most important task \Nin the upcoming operation.
+Dialogue: 0,0:08:17.27,0:08:18.47,Main,R,0000,0000,0000,,Is that not enough?
+Dialogue: 0,0:08:18.47,0:08:20.47,Main,G,0000,0000,0000,,No, it's plenty.
+Dialogue: 0,0:08:20.47,0:08:23.39,Main,H,0000,0000,0000,,You can beat up those Ninteldo guys!
+Dialogue: 0,0:08:23.74,0:08:25.61,Main,Soldiers,0000,0000,0000,,You're great!
+Dialogue: 0,0:08:25.61,0:08:26.86,Main,Soldiers,0000,0000,0000,,Go get 'em!
+Dialogue: 0,0:08:26.86,0:08:29.19,Main,Soldiers,0000,0000,0000,,Let's all do our best \Nin the next operation.
+Dialogue: 0,0:08:29.72,0:08:33.85,Main,H,0000,0000,0000,,I didn't know Segua still \Nhad warriors like you.
+Dialogue: 0,0:08:33.85,0:08:35.29,Main,H,0000,0000,0000,,Where have you been?
+Dialogue: 0,0:08:44.44,0:08:45.62,Main,R,0000,0000,0000,,Opal!
+Dialogue: 0,0:08:47.31,0:08:48.73,Main,R,0000,0000,0000,,What are you—
+Dialogue: 0,0:08:48.73,0:08:50.51,Main,O,0000,0000,0000,,Just saying hello.
+Dialogue: 0,0:08:57.00,0:08:58.58,Main,O,0000,0000,0000,,I was watching from above.
+Dialogue: 0,0:08:58.58,0:09:00.47,Main,O,0000,0000,0000,,You're putting him in the \Nspecial forces squad?
+Dialogue: 0,0:09:01.60,0:09:03.11,Main,R,0000,0000,0000,,This is Opal,
+Dialogue: 0,0:09:03.11,0:09:05.48,Main,R,0000,0000,0000,,one of the special \Nforces, just like you.
+Dialogue: 0,0:09:06.01,0:09:08.72,Main,R,0000,0000,0000,,She's the second strongest \Nin the Segua army.
+Dialogue: 0,0:09:09.28,0:09:11.97,Main,R,0000,0000,0000,,General Alex is the strongest,
+Dialogue: 0,0:09:11.97,0:09:13.89,Main,,0000,0000,0000,,but he's been captured by the enemy.
+Dialogue: 0,0:09:13.89,0:09:17.49,Main,R,0000,0000,0000,,So right now, she's the strongest \Nwe have in our army.
+Dialogue: 0,0:09:17.91,0:09:19.31,Main,G,0000,0000,0000,,I'm Gear.
+Dialogue: 0,0:09:19.31,0:09:20.30,Main,G,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:09:20.30,0:09:22.48,Main,N,0000,0000,0000,,I-I'm Nel!
+Dialogue: 0,0:09:23.73,0:09:26.50,Main,R,0000,0000,0000,,W-Well, for today you should rest.
+Dialogue: 0,0:09:27.33,0:09:29.04,Main,R,0000,0000,0000,,I'll have a room prepared.
+Dialogue: 0,0:09:29.04,0:09:30.31,Main,R,0000,0000,0000,,We can go over the details tomorrow.
+Dialogue: 0,0:09:33.48,0:09:34.88,Main,G,0000,0000,0000,,It's so soft!
+Dialogue: 0,0:09:34.88,0:09:37.51,Main,N,0000,0000,0000,,I haven't slept in a \Nbed like this in ages.
+Dialogue: 0,0:09:40.66,0:09:41.67,Main,N,0000,0000,0000,,A letter?
+Dialogue: 0,0:09:41.67,0:09:43.35,Main,G,0000,0000,0000,,Yeah, looks like it.
+Dialogue: 0,0:09:46.56,0:09:47.87,Main,G,0000,0000,0000,,I'm tired.
+Dialogue: 0,0:09:47.87,0:09:49.12,Main,G,0000,0000,0000,,Let's get to sleep.
+Dialogue: 0,0:09:49.12,0:09:49.84,Main,N,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:58.31,0:09:59.53,Main,G,0000,0000,0000,,What do you want?
+Dialogue: 0,0:10:00.28,0:10:02.12,Main,G,0000,0000,0000,,Calling me out at this hour.
+Dialogue: 0,0:10:03.20,0:10:05.12,Main,O,0000,0000,0000,,I'm amazed you didn't run away.
+Dialogue: 0,0:10:05.75,0:10:09.12,Main,,0000,0000,0000,,I'll be up front with you: \NI don't like you!
+Dialogue: 0,0:10:09.32,0:10:10.14,Main,,0000,0000,0000,,What?
+Dialogue: 0,0:10:10.60,0:10:13.52,Main,,0000,0000,0000,,I don't want to fight in the \Nspecial forces with you.
+Dialogue: 0,0:10:13.99,0:10:15.57,Main,,0000,0000,0000,,Fight me!
+Dialogue: 0,0:10:15.57,0:10:19.13,Main,,0000,0000,0000,,If you win, I'll do whatever you want.
+Dialogue: 0,0:10:19.13,0:10:20.22,Main,,0000,0000,0000,,But if I win...
+Dialogue: 0,0:10:21.73,0:10:23.72,Main,,0000,0000,0000,,You leave the castle!
+Dialogue: 0,0:10:25.56,0:10:28.73,Main,G,0000,0000,0000,,All right, if that's what \Nit takes to satisfy you.
+Dialogue: 0,0:10:30.03,0:10:32.27,Main,O,0000,0000,0000,,That's the attitude I hate!
+Dialogue: 0,0:10:32.27,0:10:35.40,Main,O,0000,0000,0000,,You think if you show how strong you are, \Neverything will go your way.
+Dialogue: 0,0:10:35.40,0:10:37.99,Main,O,0000,0000,0000,,You get off on beating \Npeople weaker than you.
+Dialogue: 0,0:10:38.57,0:10:39.94,Main,O,0000,0000,0000,,Just like him...
+Dialogue: 0,0:10:40.79,0:10:43.49,Main,O,0000,0000,0000,,I hate men like you \Nmore than anything!
+Dialogue: 0,0:10:43.79,0:10:45.99,Main,O,0000,0000,0000,,I saw your power back there.
+Dialogue: 0,0:10:45.99,0:10:48.75,Main,O,0000,0000,0000,,It's not fair unless I show you mine.
+Dialogue: 0,0:10:49.01,0:10:51.90,Main,O,0000,0000,0000,,Throw that rock there at me.
+Dialogue: 0,0:10:53.11,0:10:54.18,Main,G,0000,0000,0000,,Like this?
+Dialogue: 0,0:10:59.80,0:11:01.01,Main,O,0000,0000,0000,,Got it?
+Dialogue: 0,0:11:01.01,0:11:03.48,Main,O,0000,0000,0000,,No matter how fast you are,
+Dialogue: 0,0:11:03.48,0:11:05.60,Main,O,0000,0000,0000,,I'll never miss.
+Dialogue: 0,0:11:05.60,0:11:08.89,Main,O,0000,0000,0000,,I'm not stupid enough to \Nkill another Seguaian.
+Dialogue: 0,0:11:08.89,0:11:11.99,Main,O,0000,0000,0000,,Whoever lands the first \Nsolid hit wins.
+Dialogue: 0,0:11:11.99,0:11:12.88,Main,O,0000,0000,0000,,Got it?
+Dialogue: 0,0:11:12.88,0:11:13.81,Main,G,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:15.84,0:11:17.52,Main,O,0000,0000,0000,,Then let's get started.
+Dialogue: 0,0:11:17.52,0:11:20.36,Main,O,0000,0000,0000,,When this pebble hits \Nthe ground, we begin.
+Dialogue: 0,0:11:20.36,0:11:21.59,Main,G,0000,0000,0000,,Okay.
+Dialogue: 0,0:11:23.42,0:11:24.40,Italics,O,0000,0000,0000,,I've won.
+Dialogue: 0,0:11:24.40,0:11:26.83,Italics,O,0000,0000,0000,,My victory is already assured!
+Dialogue: 0,0:11:26.83,0:11:30.00,Italics,O,0000,0000,0000,,He's probably going to go \Naround to dodge the arrow,
+Dialogue: 0,0:11:30.00,0:11:33.28,Italics,O,0000,0000,0000,,but he has to get close to attack.
+Dialogue: 0,0:11:33.80,0:11:35.90,Italics,O,0000,0000,0000,,He'll leap towards me.
+Dialogue: 0,0:11:36.38,0:11:38.63,Italics,O,0000,0000,0000,,And when he does, he's mine!
+Dialogue: 0,0:11:40.19,0:11:41.72,Italics,O,0000,0000,0000,,You're just a barbarian.
+Dialogue: 0,0:11:41.72,0:11:43.39,Italics,O,0000,0000,0000,,You can't beat me.
+Dialogue: 0,0:11:43.39,0:11:47.31,Main,O,0000,0000,0000,,Unlike you, I've fought \Nfor years and years.
+Dialogue: 0,0:11:47.31,0:11:50.39,Main,O,0000,0000,0000,,You're just an arrogant rat who's \Ncome down from the mountains!
+Dialogue: 0,0:11:51.95,0:11:53.00,Main,O,0000,0000,0000,,And that arrogance ends here!
+Dialogue: 0,0:11:55.09,0:11:56.48,Italics,O,0000,0000,0000,,He's coming straight \Nat me, and he's fast!
+Dialogue: 0,0:12:09.76,0:12:10.56,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:11.06,0:12:12.16,Main,G,0000,0000,0000,,Oh, you're awake?
+Dialogue: 0,0:12:12.46,0:12:13.66,Main,O,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:12:13.66,0:12:15.00,Main,O,0000,0000,0000,,Put me down!
+Dialogue: 0,0:12:15.00,0:12:16.58,Main,G,0000,0000,0000,,You were out cold.
+Dialogue: 0,0:12:16.23,0:12:17.37,Main,,0000,0000,0000,,{\a6}Let me go!
+Dialogue: 0,0:12:16.58,0:12:19.17,Main,G,0000,0000,0000,,I couldn't leave you out \Non the beach at night.
+Dialogue: 0,0:12:20.86,0:12:23.49,Main,G,0000,0000,0000,,Maybe everybody thinks \NI'm full of myself
+Dialogue: 0,0:12:23.49,0:12:25.18,Main,,0000,0000,0000,,because I beat them,
+Dialogue: 0,0:12:25.18,0:12:26.79,Main,G,0000,0000,0000,,but that's not true.
+Dialogue: 0,0:12:26.79,0:12:29.89,Main,G,0000,0000,0000,,I just wanted everyone to accept me,
+Dialogue: 0,0:12:29.89,0:12:32.17,Main,,0000,0000,0000,,and to help Segua as fast as I could.
+Dialogue: 0,0:12:32.78,0:12:35.19,Main,G,0000,0000,0000,,You're right. I've been hiding in the \Nmountains until a short time ago.
+Dialogue: 0,0:12:35.77,0:12:38.15,Main,G,0000,0000,0000,,I wasn't trying to go forward.
+Dialogue: 0,0:12:38.76,0:12:41.35,Main,G,0000,0000,0000,,I didn't realize how stupid I was.
+Dialogue: 0,0:12:43.35,0:12:45.53,Main,G,0000,0000,0000,,Until my best friend died...
+Dialogue: 0,0:12:46.32,0:12:49.37,Main,G,0000,0000,0000,,You guys have been fighting \Nfor years, right?
+Dialogue: 0,0:12:49.78,0:12:52.02,Main,G,0000,0000,0000,,So I respect all of you...
+Dialogue: 0,0:12:53.48,0:12:57.18,Main,G,0000,0000,0000,,All of you that had already \Nbeen moving forward
+Dialogue: 0,0:12:57.18,0:12:58.42,Main,,0000,0000,0000,,years before me.
+Dialogue: 0,0:12:59.81,0:13:02.50,Italics,O,0000,0000,0000,,I guess he's not so bad.
+Dialogue: 0,0:13:02.50,0:13:04.73,Italics,O,0000,0000,0000,,He's just really straightforward.
+Dialogue: 0,0:13:05.43,0:13:07.59,Italics,O,0000,0000,0000,,I'll have to apologize later.
+Dialogue: 0,0:13:17.91,0:13:19.23,Main,O,0000,0000,0000,,That's far enough.
+Dialogue: 0,0:13:20.20,0:13:22.02,Main,O,0000,0000,0000,,I can walk the rest of the way.
+Dialogue: 0,0:13:23.66,0:13:26.35,Main,O,0000,0000,0000,,So, what should I do?
+Dialogue: 0,0:13:26.35,0:13:26.95,Main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:26.95,0:13:29.33,Main,O,0000,0000,0000,,Well... you know...
+Dialogue: 0,0:13:29.97,0:13:34.30,Main,O,0000,0000,0000,,I said that if you won, I'd do anything...
+Dialogue: 0,0:13:35.73,0:13:36.96,Italics,O,0000,0000,0000,,This is bad.
+Dialogue: 0,0:13:36.96,0:13:40.94,Italics,O,0000,0000,0000,,I was so sure I wouldn't lose, \NI got carried away!
+Dialogue: 0,0:13:47.80,0:13:50.22,Main,G,0000,0000,0000,,But that wasn't really my victory.
+Dialogue: 0,0:13:50.79,0:13:53.57,Main,G,0000,0000,0000,,You hesitated because that arrow
+Dialogue: 0,0:13:53.57,0:13:56.48,Main,,0000,0000,0000,,would've hit me right \Nin the head, didn't you?
+Dialogue: 0,0:13:56.96,0:13:58.98,Main,G,0000,0000,0000,,I thought to myself that \Nyou were a lot nicer
+Dialogue: 0,0:13:58.98,0:14:00.24,Main,,0000,0000,0000,,than you looked.
+Dialogue: 0,0:14:01.69,0:14:02.73,Main,O,0000,0000,0000,,A loss is a loss!
+Dialogue: 0,0:14:03.15,0:14:05.28,Main,O,0000,0000,0000,,Give me your order already!
+Dialogue: 0,0:14:07.51,0:14:09.30,Main,G,0000,0000,0000,,Okay, got it.
+Dialogue: 0,0:14:09.30,0:14:10.29,Main,G,0000,0000,0000,,Then...
+Dialogue: 0,0:14:11.33,0:14:14.86,Main,G,0000,0000,0000,,Let's fight together from now on, okay?
+Dialogue: 0,0:14:21.43,0:14:22.82,Main,O,0000,0000,0000,,Okay...
+Dialogue: 0,0:14:28.14,0:14:31.64,Main,O,0000,0000,0000,,Ramses-san, when does the \Nspecial forces mission start?
+Dialogue: 0,0:14:31.95,0:14:34.46,Main,G,0000,0000,0000,,The two of us will execute it perfectly!
+Dialogue: 0,0:14:36.11,0:14:37.53,Main,O,0000,0000,0000,,We can do this!
+Dialogue: 0,0:14:37.53,0:14:40.20,Main,,0000,0000,0000,,If Gear and I work together,
+Dialogue: 0,0:14:40.20,0:14:41.40,Main,,0000,0000,0000,,and the gears mesh...
+Dialogue: 0,0:14:41.40,0:14:44.39,Main,O,0000,0000,0000,,Was that not hilarious?
+Dialogue: 0,0:14:44.39,0:14:45.45,Main,G,0000,0000,0000,,No, it wasn't.
+Dialogue: 0,0:14:45.45,0:14:48.37,Main,N,0000,0000,0000,,I'm glad the two of \Nyou are friends now.
+Dialogue: 0,0:14:48.37,0:14:51.72,Italics,R,0000,0000,0000,,Why are the two of them \Nfriends all of a sudden?
+Dialogue: 0,0:14:52.36,0:14:55.34,Main,R,0000,0000,0000,,I called you here to introduce
+Dialogue: 0,0:14:55.34,0:14:57.74,Main,,0000,0000,0000,,the other member of the special forces.
+Dialogue: 0,0:14:58.49,0:15:00.11,Main,N,0000,0000,0000,,Other member?
+Dialogue: 0,0:15:00.11,0:15:01.58,Main,O,0000,0000,0000,,Is it somebody I know?
+Dialogue: 0,0:15:01.83,0:15:04.83,Main,R,0000,0000,0000,,No, he's not a Seguaian.
+Dialogue: 0,0:15:04.83,0:15:07.04,Main,O,0000,0000,0000,,So he's a mercenary?
+Dialogue: 0,0:15:07.04,0:15:08.78,Main,O,0000,0000,0000,,You paid money to hire him?
+Dialogue: 0,0:15:08.78,0:15:09.59,Main,R,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:10.21,0:15:12.92,Main,N,0000,0000,0000,,Will that really be okay?
+Dialogue: 0,0:15:12.92,0:15:14.89,Main,R,0000,0000,0000,,Yes. I'm confident in his skills.
+Dialogue: 0,0:15:15.36,0:15:18.08,Main,R,0000,0000,0000,,There aren't any warriors \Nwho are a match
+Dialogue: 0,0:15:18.08,0:15:19.85,Main,,0000,0000,0000,,for you two in Segua.
+Dialogue: 0,0:15:20.36,0:15:21.81,Main,R,0000,0000,0000,,His name is Tejirof.
+Dialogue: 0,0:15:22.41,0:15:26.98,Main,R,0000,0000,0000,,He was my upperclassman \Nat Puzzle Magic Academy.
+Dialogue: 0,0:15:28.92,0:15:30.49,Main,G,0000,0000,0000,,What's he like?
+Dialogue: 0,0:15:30.49,0:15:31.97,Main,R,0000,0000,0000,,Hmm...
+Dialogue: 0,0:15:31.97,0:15:33.81,Main,R,0000,0000,0000,,I guess the best word \Nwould be "genius."
+Dialogue: 0,0:15:33.81,0:15:36.99,Main,R,0000,0000,0000,,A genius at theory.
+Dialogue: 0,0:15:37.47,0:15:40.73,Main,All,0000,0000,0000,,A genius at theory?
+Dialogue: 0,0:15:42.21,0:15:44.06,Main,R,0000,0000,0000,,He'll be here soon.
+Dialogue: 0,0:15:44.06,0:15:46.34,Main,R,0000,0000,0000,,He's supposed to arrive \Nin about five minutes.
+Dialogue: 0,0:15:46.34,0:15:47.73,Main,G,0000,0000,0000,,He sounds like the kind of guy
+Dialogue: 0,0:15:47.73,0:15:49.97,Main,,0000,0000,0000,,who'd show up right on time.
+Dialogue: 0,0:15:49.97,0:15:50.99,Main,O,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:50.99,0:15:52.26,Main,N,0000,0000,0000,,I can't wait to meet him.
+Dialogue: 0,0:16:00.35,0:16:03.90,Hour Later,N,0000,0000,0000,,{\fad(526,521)}One hour later...
+Dialogue: 0,0:16:03.16,0:16:04.27,Main,G,0000,0000,0000,,Isn't he late?
+Dialogue: 0,0:16:04.85,0:16:06.27,Main,R,0000,0000,0000,,This is strange.
+Dialogue: 0,0:16:06.69,0:16:09.21,Italics,G,0000,0000,0000,,This isn't exactly the best start.
+Dialogue: 0,0:16:10.14,0:16:10.94,Main,All,0000,0000,0000,,He's here.
+Dialogue: 0,0:16:12.06,0:16:13.70,Main,T,0000,0000,0000,,Oh, hey there.
+Dialogue: 0,0:16:14.23,0:16:18.45,Main,T,0000,0000,0000,,I was busy pleasuring \Nmyself and so I'm late.
+Dialogue: 0,0:16:20.10,0:16:22.33,Main,T,0000,0000,0000,,Ramses, it's been a while.
+Dialogue: 0,0:16:31.21,0:16:33.79,Main,T,0000,0000,0000,,You're as hot as ever.
+Dialogue: 0,0:16:33.79,0:16:35.39,Main,T,0000,0000,0000,,Let me stick it in later.
+Dialogue: 0,0:16:35.39,0:16:37.97,Main,R,0000,0000,0000,,Just go sit down.
+Dialogue: 0,0:16:38.95,0:16:41.98,Main,T,0000,0000,0000,,I heard things are bad because \Nyour general was captured.
+Dialogue: 0,0:16:42.78,0:16:44.48,Main,T,0000,0000,0000,,Well, don't worry.
+Dialogue: 0,0:16:44.84,0:16:49.98,Main,T,0000,0000,0000,,I'll plug my stick in the \Nhole left by your general.
+Dialogue: 0,0:16:53.07,0:16:55.41,Italics,G,0000,0000,0000,,Is this really going to work?
+Dialogue: 0,0:16:59.53,0:17:00.49,Main,T,0000,0000,0000,,I see.
+Dialogue: 0,0:17:01.01,0:17:03.27,Main,T,0000,0000,0000,,I more or less understand \Nthe situation.
+Dialogue: 0,0:17:03.27,0:17:05.75,Main,T,0000,0000,0000,,It's going to be hard \Nwith just these two.
+Dialogue: 0,0:17:06.38,0:17:09.60,Main,T,0000,0000,0000,,The girl with the big \Nrack and the new kid.
+Dialogue: 0,0:17:09.60,0:17:11.68,Main,O,0000,0000,0000,,My breasts don't have \Nanything to do with it!
+Dialogue: 0,0:17:11.68,0:17:13.01,Main,T,0000,0000,0000,,What about the girl with the ears?
+Dialogue: 0,0:17:13.81,0:17:17.76,Main,N,0000,0000,0000,,No, I can't fight...
+Dialogue: 0,0:17:19.57,0:17:20.81,Main,T,0000,0000,0000,,Well, that's fine.
+Dialogue: 0,0:17:21.35,0:17:23.52,Main,T,0000,0000,0000,,How much time do we have \Nleft until the operation?
+Dialogue: 0,0:17:23.83,0:17:25.11,Main,R,0000,0000,0000,,Four days.
+Dialogue: 0,0:17:25.11,0:17:26.36,Main,T,0000,0000,0000,,Four days, huh?
+Dialogue: 0,0:17:26.36,0:17:28.31,Main,T,0000,0000,0000,,That's plenty.
+Dialogue: 0,0:17:28.31,0:17:29.89,Main,T,0000,0000,0000,,Okay, got it.
+Dialogue: 0,0:17:29.89,0:17:32.13,Main,T,0000,0000,0000,,I'll train you hard for the four days
+Dialogue: 0,0:17:32.13,0:17:34.03,Main,,0000,0000,0000,,until the operation starts.
+Dialogue: 0,0:17:36.36,0:17:38.52,Main,T,0000,0000,0000,,Your defenses are full of holes.
+Dialogue: 0,0:17:38.52,0:17:41.29,Main,T,0000,0000,0000,,I'll poke my stick in all over.
+Dialogue: 0,0:17:46.20,0:17:47.12,Main,T,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:47.12,0:17:48.54,Main,T,0000,0000,0000,,Then let's get started.
+Dialogue: 0,0:17:49.04,0:17:51.55,Italics,G,0000,0000,0000,,Is this really okay?
+Dialogue: 0,0:17:51.82,0:17:54.05,Main,T,0000,0000,0000,,Let's start with you, new kid.
+Dialogue: 0,0:17:54.81,0:17:57.05,Main,T,0000,0000,0000,,You think I'm weak, don't you?
+Dialogue: 0,0:17:57.86,0:17:58.55,Main,T,0000,0000,0000,,That's fine.
+Dialogue: 0,0:17:58.97,0:18:00.80,Main,T,0000,0000,0000,,First come at me as hard as you can.
+Dialogue: 0,0:18:01.48,0:18:03.97,Main,T,0000,0000,0000,,And I'll carve this into your memory:
+Dialogue: 0,0:18:03.97,0:18:06.49,Main,T,0000,0000,0000,,"The first person I met \Nwho was stronger than me
+Dialogue: 0,0:18:06.49,0:18:09.56,Main,,0000,0000,0000,,was a pervert with a \Nthing for dirty jokes."
+Dialogue: 0,0:18:09.56,0:18:10.56,Main,T,0000,0000,0000,,Ready?
+Dialogue: 0,0:18:12.29,0:18:15.35,Main,T,0000,0000,0000,,Let's see the power that got you into
+Dialogue: 0,0:18:15.35,0:18:18.32,Main,,0000,0000,0000,,the special forces squad \Non your first day!
+Dialogue: 0,0:18:20.94,0:18:21.70,Main,T,0000,0000,0000,,He's fast!
+Dialogue: 0,0:18:23.87,0:18:24.70,Main,T,0000,0000,0000,,But...
+Dialogue: 0,0:18:27.59,0:18:30.24,Main,T,0000,0000,0000,,This stops him.
+Dialogue: 0,0:18:35.71,0:18:36.32,Main,N,0000,0000,0000,,Brother!
+Dialogue: 0,0:18:36.32,0:18:38.29,Main,O,0000,0000,0000,,He was able to see through Gear's speed?
+Dialogue: 0,0:18:40.16,0:18:42.99,Main,T,0000,0000,0000,,You weren't running with \Nyour best technique.
+Dialogue: 0,0:18:42.99,0:18:47.04,Main,T,0000,0000,0000,,Maybe it feels good to run as \Nfast as you can like that,
+Dialogue: 0,0:18:47.73,0:18:51.11,Main,T,0000,0000,0000,,but that only works on the first stage.
+Dialogue: 0,0:18:51.46,0:18:54.55,Main,T,0000,0000,0000,,If you want to survive, \Ncast aside those feelings.
+Dialogue: 0,0:18:54.93,0:18:56.11,Main,T,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:18:56.75,0:19:00.11,Main,T,0000,0000,0000,,Fighting on a battlefield \Nmeans killing.
+Dialogue: 0,0:19:00.11,0:19:02.62,Main,T,0000,0000,0000,,You can't fight a real battle \Nbased off how you feel.
+Dialogue: 0,0:19:04.35,0:19:05.37,Italics,G,0000,0000,0000,,I lost.
+Dialogue: 0,0:19:05.92,0:19:07.31,Italics,G,0000,0000,0000,,I completely lost.
+Dialogue: 0,0:19:10.26,0:19:11.28,Italics,G,0000,0000,0000,,Til.
+Dialogue: 0,0:19:12.21,0:19:16.13,Italics,G,0000,0000,0000,,Am I really unworthy of your respect?
+Dialogue: 0,0:19:16.77,0:19:19.51,Italics,G,0000,0000,0000,,No, I made a promise!
+Dialogue: 0,0:19:20.17,0:19:23.27,Italics,G,0000,0000,0000,,Nobody starts at the goal.
+Dialogue: 0,0:19:23.27,0:19:26.45,Italics,G,0000,0000,0000,,I swore to run to the goal!
+Dialogue: 0,0:19:29.88,0:19:33.19,Italics,G,0000,0000,0000,,No matter how many times \NI go down on the way!
+Dialogue: 0,0:19:38.84,0:19:40.48,Main,N,0000,0000,0000,,Are you okay, brother?
+Dialogue: 0,0:19:40.48,0:19:41.48,Main,N,0000,0000,0000,,Brother?
+Dialogue: 0,0:19:42.61,0:19:43.78,Main,T,0000,0000,0000,,Morning.
+Dialogue: 0,0:19:44.43,0:19:47.61,Main,T,0000,0000,0000,,How did you enjoy your first beating?
+Dialogue: 0,0:19:49.03,0:19:51.04,Main,T,0000,0000,0000,,Sure, you're strong.
+Dialogue: 0,0:19:51.53,0:19:55.04,Main,T,0000,0000,0000,,But there are a lot of people on \Nthe battlefield who are stronger.
+Dialogue: 0,0:19:55.52,0:19:58.62,Main,T,0000,0000,0000,,I'd imagine you'll meet a few \Nof them during the operation.
+Dialogue: 0,0:19:59.42,0:20:02.50,Main,T,0000,0000,0000,,Are you prepared to go anyway, new kid?
+Dialogue: 0,0:20:03.09,0:20:05.99,Main,T,0000,0000,0000,,Or will you give up and \Ngo back to training?
+Dialogue: 0,0:20:05.99,0:20:06.81,Main,G,0000,0000,0000,,No,
+Dialogue: 0,0:20:07.44,0:20:08.76,Main,,0000,0000,0000,,I won't stop.
+Dialogue: 0,0:20:09.24,0:20:10.26,Main,G,0000,0000,0000,,I'm going.
+Dialogue: 0,0:20:10.83,0:20:13.41,Main,G,0000,0000,0000,,I decided I'd go straight ahead!
+Dialogue: 0,0:20:14.10,0:20:15.98,Main,T,0000,0000,0000,,No hesitation.
+Dialogue: 0,0:20:16.61,0:20:17.57,Main,T,0000,0000,0000,,I see.
+Dialogue: 0,0:20:17.91,0:20:20.00,Main,T,0000,0000,0000,,For your dead friend?
+Dialogue: 0,0:20:20.63,0:20:21.82,Main,N,0000,0000,0000,,How did you know?
+Dialogue: 0,0:20:22.86,0:20:23.81,Main,T,0000,0000,0000,,Was I right?
+Dialogue: 0,0:20:24.39,0:20:26.83,Main,T,0000,0000,0000,,Well, it was the only \Nlogical deduction.
+Dialogue: 0,0:20:27.50,0:20:29.30,Main,T,0000,0000,0000,,I figured something like that was
+Dialogue: 0,0:20:29.30,0:20:32.16,Main,,0000,0000,0000,,the only way to get a \Ncoward to come down from
+Dialogue: 0,0:20:32.16,0:20:34.08,Main,,0000,0000,0000,,the mountain he was hiding on.
+Dialogue: 0,0:20:34.45,0:20:36.24,Main,T,0000,0000,0000,,You're trying to go straight forward,
+Dialogue: 0,0:20:36.24,0:20:38.35,Main,,0000,0000,0000,,to make up for all the time \Nyou spent at a standstill?
+Dialogue: 0,0:20:38.35,0:20:39.51,Main,T,0000,0000,0000,,Pretty simple.
+Dialogue: 0,0:20:40.00,0:20:41.59,Main,G,0000,0000,0000,,No matter what you say,
+Dialogue: 0,0:20:41.59,0:20:44.01,Main,,0000,0000,0000,,I'm going to follow my own path!
+Dialogue: 0,0:20:44.52,0:20:47.21,Main,T,0000,0000,0000,,No, I'm not saying it's a bad thing.
+Dialogue: 0,0:20:47.21,0:20:48.39,Main,T,0000,0000,0000,,I think it's fine.
+Dialogue: 0,0:20:48.88,0:20:51.89,Main,T,0000,0000,0000,,I think there's nothing \Nwrong with your answer.
+Dialogue: 0,0:20:52.60,0:20:54.80,Main,T,0000,0000,0000,,I don't like people who aren't \Nstraight with others.
+Dialogue: 0,0:20:55.20,0:20:57.40,Main,T,0000,0000,0000,,You should go as deep \Nas you can with it.
+Dialogue: 0,0:20:58.09,0:20:59.48,Main,T,0000,0000,0000,,A stick...
+Dialogue: 0,0:21:00.33,0:21:03.90,Main,,0000,0000,0000,,doesn't feel good unless \Nyou stick it straight in.
+Dialogue: 0,0:21:04.30,0:21:05.57,Main,T,0000,0000,0000,,Go straight ahead.
+Dialogue: 0,0:21:06.17,0:21:09.02,Main,T,0000,0000,0000,,I hope you find your real answer there.
+Dialogue: 0,0:21:13.30,0:21:15.34,Main,G,0000,0000,0000,,Tejirof, I'm sorry!
+Dialogue: 0,0:21:15.84,0:21:18.42,Main,G,0000,0000,0000,,I had the wrong idea about you.
+Dialogue: 0,0:21:18.79,0:21:20.61,Main,G,0000,0000,0000,,I want to be stronger.
+Dialogue: 0,0:21:21.26,0:21:23.67,Main,G,0000,0000,0000,,So help me train!
+Dialogue: 0,0:21:24.34,0:21:25.47,Main,T,0000,0000,0000,,Sure.
+Dialogue: 0,0:21:25.47,0:21:27.94,Main,T,0000,0000,0000,,But rest a bit more today.
+Dialogue: 0,0:21:27.94,0:21:30.18,Main,T,0000,0000,0000,,You can read these \Nwhile you're resting.
+Dialogue: 0,0:21:31.84,0:21:32.93,Main,G,0000,0000,0000,,What's this?
+Dialogue: 0,0:21:33.34,0:21:36.94,Main,T,0000,0000,0000,,The map of Hope Fortress, \Nwhere we're headed.
+Dialogue: 0,0:21:37.33,0:21:41.19,Main,T,0000,0000,0000,,It was close to the port, \Nso I took a look before I came here.
+Dialogue: 0,0:21:41.55,0:21:45.17,Main,T,0000,0000,0000,,I got a little too into it and so \NI was an hour late in arriving,
+Dialogue: 0,0:21:45.17,0:21:48.45,Main,T,0000,0000,0000,,but well, nobody told \Nme to look for it.
+Dialogue: 0,0:21:48.74,0:21:51.95,Main,T,0000,0000,0000,,So this was me pleasuring myself.
+Dialogue: 0,0:21:53.39,0:21:54.46,Main,T,0000,0000,0000,,Bye.
+Dialogue: 0,0:21:58.25,0:22:00.96,Main,G,0000,0000,0000,,Nel, the world's a big place.
+Dialogue: 0,0:22:01.51,0:22:04.10,Italics,G,0000,0000,0000,,Til, I'm going to keep running!
+Dialogue: 0,0:23:26.29,0:23:28.74,Main,Preview,0000,0000,0000,,That was the incident known \Nas the Atarika Shock.
+Dialogue: 0,0:23:28.74,0:23:29.84,Main,Preview,0000,0000,0000,,"Shooting."
+Dialogue: 0,0:23:29.84,0:23:31.80,Main,Preview,0000,0000,0000,,No, I can't hold it in anymore!
+Dialogue: 0,0:23:31.80,0:23:33.55,Main,Preview,0000,0000,0000,,You seem to have a knack for Online.
+Dialogue: 0,0:23:33.55,0:23:35.14,Main,Preview,0000,0000,0000,,Like how that girl's nice...
+Dialogue: 0,0:23:35.14,0:23:36.82,Main,Preview,0000,0000,0000,,I want to be strong anyway!
+Dialogue: 0,0:23:36.81,0:23:39.89,Title,Preview,0000,0000,0000,,{\fad(1,973)}Episode 2 is Being Worked On Right Now!
+Dialogue: 0,0:23:36.82,0:23:39.94,Main,Preview,0000,0000,0000,,Is that why this operation is so cruel?
