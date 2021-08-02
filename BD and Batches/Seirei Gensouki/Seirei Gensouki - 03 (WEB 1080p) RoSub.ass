@@ -14,17 +14,6 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../Anime/[SubsPlease] Seirei Gensouki - 03 (1080p) [B897760D].mkv
-Video File: ../../../../Anime/[SubsPlease] Seirei Gensouki - 03 (1080p) [B897760D].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 239
-Active Line: 248
-Video Position: 25489
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fontin Sans,74,&H00FFFFFF,&H000000FF,&H00400468,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,53,0
@@ -39,7 +28,7 @@ Dialogue: 100,0:00:21.03,0:00:23.50,Dialogue,,0,0,0,,Rio este singurul care nu a
 Dialogue: 100,0:00:24.06,0:00:26.34,Dialogue,,0,0,0,,Unde voiai să mergi, Rio?
 Dialogue: 100,0:00:26.34,0:00:29.50,Dialogue,,0,0,0,,În locul natal al părinților mei, \Nregiunea Yagumo.
 Dialogue: 100,0:02:05.98,0:02:07.99,Dialogue,,0,0,0,,După cum știți deja,
-Dialogue: 100,0:02:07.99,0:02:10.94,Dialogue,,0,0,0,,magia folosește formule create pentru controlul puterii magice.
+Dialogue: 100,0:02:07.99,0:02:10.94,Dialogue,,0,0,0,,magia se folosește de formule create pentru a putea controla puterea magică.
 Dialogue: 100,0:02:11.66,0:02:15.26,Dialogue,,0,0,0,,Punând putere spirituală în acele formule, acestea interferează cu materia acestei lumi.
 Dialogue: 100,0:02:15.97,0:02:19.46,Dialogue,,0,0,0,,Astăzi, anul cinci și șase \Nvor folosi vraja Lumină
 Dialogue: 100,0:02:19.46,0:02:22.29,Dialogue,,0,0,0,,ca să-și aprofundeze cunoștințele despre controlul puterii magice.
@@ -49,7 +38,7 @@ Dialogue: 100,0:02:29.45,0:02:30.21,Dialogue,,0,0,0,,Nu, stați puțin.
 Dialogue: 100,0:02:30.70,0:02:33.13,Dialogue,,0,0,0,,Există o persoană care nu poate.
 Dialogue: 100,0:02:33.13,0:02:34.69,Dialogue,,0,0,0,,Da, așa este!
 Dialogue: 100,0:02:34.69,0:02:37.70,Dialogue,,0,0,0,,O lecție orientată spre cei care au un control slab al magiei...
-Dialogue: 100,0:02:37.70,0:02:39.68,Dialogue,,0,0,0,,Nu este puțin cam târziu pentru asta?
+Dialogue: 100,0:02:37.70,0:02:39.68,Dialogue,,0,0,0,,Nu este puțin cam târziu pentru așa ceva?
 Dialogue: 100,0:02:46.12,0:02:47.11,Dialogue,,0,0,0,,Înțeleg.
 Dialogue: 100,0:02:47.11,0:02:50.31,Dialogue,,0,0,0,,În acest caz, ați vrea voi doi să-mi arătați cum folosiți vraja Lumină?
 Dialogue: 100,0:02:50.85,0:02:51.55,Dialogue,,0,0,0,,Desigur!
@@ -58,63 +47,63 @@ Dialogue: 100,0:02:59.07,0:03:02.57,Dialogue,,0,0,0,,În acest moment, nu pot sp
 Dialogue: 100,0:03:03.74,0:03:05.47,Dialogue,,0,0,0,,Ce vreți să spuneți?
 Dialogue: 100,0:03:05.47,0:03:09.58,Dialogue,,0,0,0,,Abilitatea de a folosi o formulă potrivită depinde de afinitatea acelei persoane.
 Dialogue: 100,0:03:10.28,0:03:13.08,Dialogue,,0,0,0,,Iar asta nu e același lucru cu a fi expert în controlul magiei.
-Dialogue: 100,0:03:17.07,0:03:20.79,Dialogue,,0,0,0,,Even without the use of magic, \Nwith the existence of artifacts,
-Dialogue: 100,0:03:20.79,0:03:23.71,Dialogue,,0,0,0,,there are those who can use multiple \Nmagical techniques simultaneously.
-Dialogue: 100,0:03:24.30,0:03:25.39,Dialogue,,0,0,0,,Like this.
-Dialogue: 100,0:03:26.54,0:03:27.90,Dialogue,,0,0,0,,Dectet Magician.
+Dialogue: 100,0:03:17.07,0:03:20.79,Dialogue,,0,0,0,,Chiar și fără folosirea magiei, \Ncu ajutorul artefactelor,
+Dialogue: 100,0:03:20.79,0:03:23.71,Dialogue,,0,0,0,,există persoane care pot folosi multiple vrăji magice simultan.
+Dialogue: 100,0:03:24.30,0:03:25.39,Dialogue,,0,0,0,,Exact așa.
+Dialogue: 100,0:03:26.54,0:03:27.90,Dialogue,,0,0,0,,Recunoașterea Magicianului.
 Dialogue: 100,0:03:29.31,0:03:30.23,Dialogue,,0,0,0,,Lumină.
 Dialogue: 100,0:03:37.37,0:03:39.20,Dialogue,,0,0,0,,Uimitor!
 Dialogue: 100,0:03:39.20,0:03:41.96,Dialogue,,0,0,0,,O singură persoană poate controla atâtea vrăji Lumină deodată?!
-Dialogue: 100,0:03:52.33,0:03:56.92,Dialogue,,0,0,0,,{\i1}It's true that I can't cast magical \Ncovenant formulae like they can.
+Dialogue: 100,0:03:52.33,0:03:56.92,Dialogue,,0,0,0,,{\i1}Este adevărat că nu pot folosi formule magice de legătură ca ei.
 Dialogue: 100,0:03:56.92,0:03:58.26,Dialogue,,0,0,0,,{\i1}Dar...
 Dialogue: 100,0:03:58.26,0:04:00.41,Dialogue,,0,0,0,,{\i1}dintr-un oarecare motiv,
 Dialogue: 100,0:04:00.41,0:04:03.05,Dialogue,,0,0,0,,{\i1}pot reproduce vrăji imitând \Nfluxul puterii magice.
 Dialogue: 100,0:04:06.97,0:04:07.68,Dialogue,,0,0,0,,În regulă!
 Dialogue: 100,0:04:07.68,0:04:11.52,Dialogue,,0,0,0,,Și acum, haideți să ne începem lecția despre controlul magiei!
-Dialogue: 100,0:04:18.99,0:04:20.94,Dialogue,,0,0,0,,Sunteți uimitoare, dnă profesoară Celia!
+Dialogue: 100,0:04:18.99,0:04:20.94,Dialogue,,0,0,0,,Sunteți uimitoare, \Ndnă profesoară Celia!
 Dialogue: 100,0:04:20.94,0:04:23.16,Dialogue,,0,0,0,,Am fost total impresionat!
 Dialogue: 100,0:04:24.44,0:04:26.04,Dialogue,,0,0,0,,Mersi.
 Dialogue: 100,0:04:26.04,0:04:27.49,Dialogue,,0,0,0,,Hei, om de rând.
-Dialogue: 100,0:04:27.88,0:04:31.70,Dialogue,,0,0,0,,Se pare că încerci să seduci fetele în ultimul timp.
+Dialogue: 100,0:04:27.88,0:04:31.70,Dialogue,,0,0,0,,Observ că încerci să seduci \Nfetele în ultimul timp.
 Dialogue: 100,0:04:32.51,0:04:34.12,Dialogue,,0,0,0,,Ce vrei să spui?
 Dialogue: 100,0:04:34.12,0:04:35.83,Dialogue,,0,0,0,,Nu te flata singur.
-Dialogue: 100,0:04:35.83,0:04:38.74,Dialogue,,0,0,0,,Victoria ta din turneu a fost doar un noroc chior.
+Dialogue: 100,0:04:35.83,0:04:38.74,Dialogue,,0,0,0,,Victoria ta din turneu a \Nfost doar un noroc chior.
 Dialogue: 100,0:04:40.32,0:04:42.21,Dialogue,,0,0,0,,Sunt conștient de asta.
-Dialogue: 100,0:04:42.21,0:04:44.40,Dialogue,,0,0,0,,Then stop trying to push yourself forward.
+Dialogue: 100,0:04:42.21,0:04:44.40,Dialogue,,0,0,0,,Atunci, nu mai încerca să ieși în evidență.
 Dialogue: 100,0:04:44.40,0:04:46.97,Dialogue,,0,0,0,,Stewart, încetează odată.
 Dialogue: 100,0:04:46.97,0:04:49.10,Dialogue,,0,0,0,,Ești un nobil, nu-i așa?
-Dialogue: 100,0:04:49.10,0:04:52.47,Dialogue,,0,0,0,,Nu ar trebui să critici pe cineva fără dovezi clare.
-Dialogue: 100,0:04:52.47,0:04:56.48,Dialogue,,0,0,0,,D-Dar... el a încercat să se dea chiar și la tine!
+Dialogue: 100,0:04:49.10,0:04:52.47,Dialogue,,0,0,0,,Nu ar trebui să acuzi pe \Ncineva fără să ai dovezi clare.
+Dialogue: 100,0:04:52.47,0:04:56.48,Dialogue,,0,0,0,,D-Dar... el a încercat \Nsă se dea chiar și la tine!
 Dialogue: 100,0:04:56.48,0:04:58.98,Dialogue,,0,0,0,,Așa ceva nu s-a întâmplat niciodată.
 Dialogue: 100,0:05:02.06,0:05:03.60,Dialogue,,0,0,0,,Hei, om de rând.
 Dialogue: 100,0:05:03.60,0:05:06.42,Dialogue,,0,0,0,,Dacă vei încerca să faci ceva stupid în timpul antrenamentului în aer liber,
-Dialogue: 100,0:05:06.42,0:05:09.16,Dialogue,,0,0,0,,casa ducelui Huguenot nu va sta cu mâinile în sân!
+Dialogue: 100,0:05:06.42,0:05:09.16,Dialogue,,0,0,0,,casa ducelui Huguenot nu \Nva sta cu mâinile în sân!
 Dialogue: 100,0:05:13.99,0:05:15.13,Dialogue,,0,0,0,,Rio...
 Dialogue: 100,0:05:15.87,0:05:16.91,Dialogue,,0,0,0,,Flora?
 Dialogue: 100,0:05:18.62,0:05:19.43,Dialogue,,0,0,0,,Ei bine...
 Dialogue: 100,0:05:19.92,0:05:23.30,Dialogue,,0,0,0,,Aia era clar o acuzație falsă, nu-i așa?
 Dialogue: 100,0:05:23.30,0:05:24.30,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:05:24.72,0:05:28.54,Dialogue,,0,0,0,,Dar este mai bine pentru toți să nu ne implicăm.
+Dialogue: 100,0:05:24.72,0:05:28.54,Dialogue,,0,0,0,,Dar este mai bine pentru \Ntoți să nu ne implicăm.
 Dialogue: 100,0:05:28.99,0:05:31.06,Dialogue,,0,0,0,,Sunt sigură că și el știe asta.
 Dialogue: 100,0:05:31.06,0:05:32.48,Dialogue,,0,0,0,,Dar...
 Dialogue: 100,0:05:33.29,0:05:36.01,Dialogue,,0,0,0,,{\i1}Mereu face toate lucrurile de unul singur.
 Dialogue: 100,0:05:36.53,0:05:39.56,Dialogue,,0,0,0,,{\i1}Iar eu nu am reușit să fac nimic ca să-l răsplătesc că m-a salvat.
-Dialogue: 100,0:05:46.64,0:05:49.66,Dialogue,,0,0,0,,Aici vom ține examenul practic în aer liber, nu-i așa?
+Dialogue: 100,0:05:46.64,0:05:49.66,Dialogue,,0,0,0,,Aici vom ține examenul \Npractic în aer liber, nu-i așa?
 Dialogue: 100,0:05:49.66,0:05:50.42,Dialogue,,0,0,0,,Da.
 Dialogue: 100,0:05:51.03,0:05:54.70,Dialogue,,0,0,0,,Vor să vadă cât de bine ne-am însușit exercițiile militare predate la academie.
 Dialogue: 100,0:05:54.70,0:05:56.94,Dialogue,,0,0,0,,Sunt puțin neliniștită.
 Dialogue: 100,0:05:56.94,0:05:58.94,Dialogue,,0,0,0,,Nu ai de ce să-ți faci griji.
-Dialogue: 100,0:05:58.94,0:06:02.80,Dialogue,,0,0,0,,Se bazează pe munca în echipă, \Niar cei mai periculoși monștri au fost eliminați.
+Dialogue: 100,0:05:58.94,0:06:02.80,Dialogue,,0,0,0,,Se bazează pe munca în echipă, iar cei mai periculoși monștri au fost deja eliminați.
 Dialogue: 100,0:06:02.80,0:06:05.92,Dialogue,,0,0,0,,Vă voi da acum detaliile examenului practic exact așa cum erau ele scrise.
 Dialogue: 100,0:06:06.70,0:06:09.70,Dialogue,,0,0,0,,Ca să se retragă dintr-o zonă \Nde luptă, unitatea noastră
 Dialogue: 100,0:06:09.70,0:06:13.43,Dialogue,,0,0,0,,trebuie să traverseze pe cel mai scurt drum această pădure de munte și să ajungă la destinație.
 Dialogue: 100,0:06:13.78,0:06:16.50,Dialogue,,0,0,0,,Timpul limită este până la apus.
-Dialogue: 100,0:06:16.50,0:06:20.69,Dialogue,,0,0,0,,Dacă ne vom descurca bine, notele noastre finale se vor îmbunătății semnificativ.
+Dialogue: 100,0:06:16.50,0:06:20.69,Dialogue,,0,0,0,,Dacă ne vom descurca bine, notele noastre finale se vor îmbunătăți semnificativ.
 Dialogue: 100,0:06:20.69,0:06:24.37,Dialogue,,0,0,0,,Prieteni, haideți să ajungem \Nla destinație până la prânz.
 Dialogue: 100,0:06:24.37,0:06:25.69,Dialogue,,0,0,0,,Da!
-Dialogue: 100,0:06:25.69,0:06:27.69,Dialogue,,0,0,0,,Nu este cam imposibil?
+Dialogue: 100,0:06:25.69,0:06:27.69,Dialogue,,0,0,0,,Nu asta este cam imposibil?
 Dialogue: 100,0:06:27.69,0:06:30.08,Dialogue,,0,0,0,,Asta este o zonă muntoasă și împădurită.
-Dialogue: 100,0:06:30.08,0:06:32.87,Dialogue,,0,0,0,,Ne va lua de două ori mai mult să ajungem într-un loc anume.
+Dialogue: 100,0:06:30.08,0:06:32.87,Dialogue,,0,0,0,,Ne va lua de două ori mai mult să ajungem la destinație.
 Dialogue: 100,0:06:32.87,0:06:34.93,Dialogue,,0,0,0,,Nu vă faceți griji.
 Dialogue: 100,0:06:34.93,0:06:37.87,Dialogue,,0,0,0,,Am deja un drum special în minte.
 Dialogue: 100,0:06:37.87,0:06:39.71,Dialogue,,0,0,0,,Ce vrei să spui?
@@ -122,7 +111,7 @@ Dialogue: 100,0:06:39.71,0:06:42.14,Dialogue,,0,0,0,,Se întâmplă ca soldații
 Dialogue: 100,0:06:42.14,0:06:45.14,Dialogue,,0,0,0,,să cunoască geografia acestei zone.
 Dialogue: 100,0:06:45.72,0:06:49.30,Dialogue,,0,0,0,,Le-am cerut să-mi spună despre toate rutele pentru animale care pot fi folosite drept scurtături.
 Dialogue: 100,0:06:49.30,0:06:51.59,Dialogue,,0,0,0,,Iar apoi le-am transmis mai departe colegilor noștri mai mari.
-Dialogue: 100,0:06:52.75,0:06:56.06,Dialogue,,0,0,0,,Nu prea-mi place asta. Mă simt de parcă aș trișa.
+Dialogue: 100,0:06:52.75,0:06:56.06,Dialogue,,0,0,0,,Nu prea-mi place asta. \NMă simt de parcă aș trișa.
 Dialogue: 100,0:06:56.51,0:07:01.49,Dialogue,,0,0,0,,Afirmația că informațiile controlează totul într-un război nu este o exagerare.
 Dialogue: 100,0:07:01.49,0:07:05.52,Dialogue,,0,0,0,,Practic, avem garantat un rezultat bun.
 Dialogue: 100,0:07:06.14,0:07:08.74,Dialogue,,0,0,0,,Ce părere ai, prințesă Christina?
@@ -133,12 +122,12 @@ Dialogue: 100,0:07:17.44,0:07:19.24,Dialogue,,0,0,0,,Acum, să pornim!
 Dialogue: 100,0:07:19.24,0:07:20.25,Dialogue,,0,0,0,,Da!
 Dialogue: 100,0:07:20.25,0:07:21.90,Dialogue,,0,0,0,,Hei, om de rând!
 Dialogue: 100,0:07:21.90,0:07:23.42,Dialogue,,0,0,0,,Consideră-te norocos.
-Dialogue: 100,0:07:23.87,0:07:26.53,Dialogue,,0,0,0,,Ești o povară care nici măcar nu poate folosi magia,
-Dialogue: 100,0:07:26.53,0:07:28.76,Dialogue,,0,0,0,,dar ți-am pregătit o treabă pe care și tu o poți face.
+Dialogue: 100,0:07:23.87,0:07:26.53,Dialogue,,0,0,0,,Ești o povară care nici \Nmăcar nu poate folosi magia,
+Dialogue: 100,0:07:26.53,0:07:28.76,Dialogue,,0,0,0,,dar ți-am pregătit o treabă \Npe care și tu o poți face.
 Dialogue: 100,0:07:28.76,0:07:30.73,Dialogue,,0,0,0,,Acela este bajagul tuturor.
 Dialogue: 100,0:07:30.73,0:07:32.76,Dialogue,,0,0,0,,Ia-l în spate și urmează-ne.
 Dialogue: 100,0:07:33.53,0:07:34.87,Dialogue,,0,0,0,,Am înțeles.
-Dialogue: 100,0:07:35.47,0:07:38.43,Dialogue,,0,0,0,,Să nu îndrăznești să faci necugetat.
+Dialogue: 100,0:07:35.47,0:07:38.43,Dialogue,,0,0,0,,Să nu îndrăznești să faci stupid.
 Dialogue: 100,0:07:41.05,0:07:42.14,Dialogue,,0,0,0,,Scuză-mă.
 Dialogue: 100,0:07:42.73,0:07:43.81,Dialogue,,0,0,0,,Ei bine...
 Dialogue: 100,0:07:44.59,0:07:46.94,Dialogue,,0,0,0,,Ai vrea să te ajut cu bagajele?
@@ -146,14 +135,14 @@ Dialogue: 100,0:07:46.94,0:07:47.82,Dialogue,,0,0,0,,Ce?
 Dialogue: 100,0:07:48.53,0:07:50.56,Dialogue,,0,0,0,,Nu, este în regulă.
 Dialogue: 100,0:07:50.56,0:07:53.16,Dialogue,,0,0,0,,Mersi că-ți faci griji pentru mine.
 Dialogue: 100,0:08:03.51,0:08:05.56,Dialogue,,0,0,0,,Asta nu este corect.
-Dialogue: 100,0:08:05.56,0:08:07.58,Dialogue,,0,0,0,,De ce doar Rio trebuie să treacă prin asemenea...
+Dialogue: 100,0:08:05.56,0:08:07.58,Dialogue,,0,0,0,,De ce doar Rio trebuie să \Ntreacă prin asemenea...
 Dialogue: 100,0:08:07.58,0:08:08.50,Dialogue,,0,0,0,,Monștri!
-Dialogue: 100,0:08:16.80,0:08:19.15,Dialogue,,0,0,0,,Nu vă panicați! Sunt doar goblini!
-Dialogue: 100,0:08:19.96,0:08:22.82,Dialogue,,0,0,0,,Cei trei din avangardă, folosiți artefacte ca să vă sporiți abilitățile fizice.
+Dialogue: 100,0:08:16.80,0:08:19.15,Dialogue,,0,0,0,,Nu vă panicați! \NSunt doar goblini!
+Dialogue: 100,0:08:19.96,0:08:22.82,Dialogue,,0,0,0,,Avangarda, folosiți artefactele ca să vă sporiți abilitățile fizice.
 Dialogue: 100,0:08:22.82,0:08:23.90,Dialogue,,0,0,0,,Să mergem!
 Dialogue: 100,0:08:23.90,0:08:26.81,Dialogue,,0,0,0,,Sporirea Abilităților Fizice!
 Dialogue: 100,0:08:39.24,0:08:43.55,Dialogue,,0,0,0,,Nu a fost mare lucru. Avem nevoie de niște monștri mai puternici.
-Dialogue: 100,0:08:43.55,0:08:46.73,Dialogue,,0,0,0,,Exact cum mă așteptam, Stewart. Mă pot baza pe tine.
+Dialogue: 100,0:08:43.55,0:08:46.73,Dialogue,,0,0,0,,Exact cum mă așteptam, \NStewart. Mă pot baza pe tine.
 Dialogue: 100,0:08:46.73,0:08:48.29,Dialogue,,0,0,0,,În comparație cu tine...
 Dialogue: 100,0:08:49.09,0:08:50.25,Dialogue,,0,0,0,,Hei, Rio!
 Dialogue: 100,0:08:50.25,0:08:51.84,Dialogue,,0,0,0,,Nu mai visa cu ochii deschiși!
@@ -168,7 +157,7 @@ Dialogue: 100,0:09:25.17,0:09:26.13,Dialogue,,0,0,0,,O prăpastie?
 Dialogue: 100,0:09:26.54,0:09:27.76,Dialogue,,0,0,0,,Nu se poate!
 Dialogue: 100,0:09:27.76,0:09:28.95,Dialogue,,0,0,0,,Ce se întâmplă?
 Dialogue: 100,0:09:29.51,0:09:31.86,Dialogue,,0,0,0,,Poate informațiile sale erau greșite?
-Dialogue: 100,0:09:31.86,0:09:34.30,Dialogue,,0,0,0,,Ce vom face acum? Ne vom întoarce pe unde am venit?
+Dialogue: 100,0:09:31.86,0:09:34.30,Dialogue,,0,0,0,,Ce vom face acum? \NNe vom întoarce pe unde am venit?
 Dialogue: 100,0:09:34.30,0:09:36.33,Dialogue,,0,0,0,,Am pierde o grămadă de timp.
 Dialogue: 100,0:09:38.71,0:09:39.64,Dialogue,,0,0,0,,Comandante.
 Dialogue: 100,0:09:40.19,0:09:41.51,Dialogue,,0,0,0,,D-Da?
@@ -187,56 +176,55 @@ Dialogue: 100,0:10:46.24,0:10:47.40,Dialogue,,0,0,0,,Rio?
 Dialogue: 100,0:10:48.78,0:10:49.72,Dialogue,,0,0,0,,Flora!
 Dialogue: 100,0:10:51.32,0:10:54.58,Dialogue,,0,0,0,,Trebuie să ne concentrăm pe exterminarea lor mai întâi!
 Dialogue: 100,0:10:54.59,0:10:56.59,Dialogue,,0,0,0,,F-Formația defensivă!
-Dialogue: 100,0:10:56.91,0:10:59.19,Dialogue,,0,0,0,,Avangardă, ridicați-vă scuturile și formați un zid.
-Dialogue: 100,0:10:59.19,0:11:02.17,Dialogue,,0,0,0,,Ariergardă, folosiți magie de atac ca să creați un baraj!
+Dialogue: 100,0:10:56.91,0:10:59.19,Dialogue,,0,0,0,,Avangardă, ridicați-vă \Nscuturile și formați un zid.
+Dialogue: 100,0:10:59.19,0:11:02.17,Dialogue,,0,0,0,,Ariergardă, folosiți magie \Nde atac ca să creați un baraj!
 Dialogue: 100,0:11:02.17,0:11:04.32,Dialogue,,0,0,0,,Roanna, vindecă-i pe cei răniți!
 Dialogue: 100,0:11:08.81,0:11:10.14,Dialogue,,0,0,0,,Proiectilul Fulger!
 Dialogue: 100,0:11:16.73,0:11:18.74,Dialogue,,0,0,0,,Proiectilul Fulger!
 Dialogue: 100,0:11:27.49,0:11:29.21,Dialogue,,0,0,0,,Proiectilul Fulger!
-Dialogue: 100,0:11:39.51,0:11:42.23,Dialogue,,0,0,0,,{\i1}I wonder if falling from there without \Na single injury will make them
-Dialogue: 100,0:11:42.23,0:11:43.76,Dialogue,,0,0,0,,{\i1}suspicious of me.
-Dialogue: 100,0:11:45.26,0:11:47.14,Dialogue,,0,0,0,,{\i1}Am salvat-o fără să stau prea mult pe gânduri.
-Dialogue: 100,0:11:55.31,0:11:57.26,Dialogue,,0,0,0,,{\i1}Nu este magie sau vrăji.
-Dialogue: 100,0:11:57.77,0:12:01.99,Dialogue,,0,0,0,,{\i1}Nici măcar acum nu am habar ce anume este această puterea...
+Dialogue: 100,0:11:39.51,0:11:43.76,Dialogue,,0,0,0,,{\i1}Oare vor fi suspicioși dacă mă voi întoarce la ei nevătămat după ce am căzut de acolo?
+Dialogue: 100,0:11:45.26,0:11:47.14,Dialogue,,0,0,0,,{\i1}Am salvat-o fără să stau \Nprea mult pe gânduri.
+Dialogue: 100,0:11:55.31,0:11:57.26,Dialogue,,0,0,0,,{\i1}Nu este magie sau o vrajă.
+Dialogue: 100,0:11:57.77,0:12:01.99,Dialogue,,0,0,0,,{\i1}Nici măcar acum nu știu \Nce este această putere...
 Dialogue: 100,0:12:04.90,0:12:06.33,Dialogue,,0,0,0,,{\i1}Sau cine era acea fată.
 Dialogue: 100,0:12:06.33,0:12:07.53,Dialogue,,0,0,0,,Nu glumi cu asta!
-Dialogue: 100,0:12:07.53,0:12:10.33,Dialogue,,0,0,0,,Insinuezi cumva că am împins-o pe prințesa Flora de pe stâncă?!
+Dialogue: 100,0:12:07.53,0:12:10.33,Dialogue,,0,0,0,,Insinuezi cumva că eu am împins-o pe prințesa Flora de pe stâncă?!
 Dialogue: 100,0:12:10.33,0:12:12.79,Dialogue,,0,0,0,,Nu, nu asta era intenția mea.
-Dialogue: 100,0:12:12.79,0:12:17.77,Dialogue,,0,0,0,,Doar că Alphonse mă întrebase dacă nu cumva cineva a intrat în prințesa Flora.
+Dialogue: 100,0:12:12.79,0:12:17.77,Dialogue,,0,0,0,,Doar că Alphonse m-a întrebat dacă nu cumva cineva a intrat în prințesa Flora.
 Dialogue: 100,0:12:17.77,0:12:20.03,Dialogue,,0,0,0,,Și eu am fost împins!
 Dialogue: 100,0:12:20.03,0:12:21.63,Dialogue,,0,0,0,,Și eu sunt o victimă aici!
 Dialogue: 100,0:12:21.63,0:12:23.58,Dialogue,,0,0,0,,Altcineva este vinovatul!
-Dialogue: 100,0:12:23.58,0:12:25.93,Dialogue,,0,0,0,,Dacă te agiți prea mult, rana ți se va deschide!
+Dialogue: 100,0:12:23.58,0:12:25.93,Dialogue,,0,0,0,,Dacă te agiți prea mult, \Nrana ți se va deschide!
 Dialogue: 100,0:12:25.93,0:12:27.97,Dialogue,,0,0,0,,Și abia ce te-am vindecat.
 Dialogue: 100,0:12:27.97,0:12:30.30,Dialogue,,0,0,0,,Stewart, liniștește-te, te rog.
 Dialogue: 100,0:12:30.83,0:12:33.56,Dialogue,,0,0,0,,Încerc doar să înțeleg ce s-a întâmplat.
 Dialogue: 100,0:12:33.56,0:12:36.78,Dialogue,,0,0,0,,A-Așa este! Tocmai mi-am amintit.
 Dialogue: 100,0:12:37.26,0:12:40.45,Dialogue,,0,0,0,,Acel om de rând este vinovatul!
-Dialogue: 100,0:12:40.45,0:12:41.30,Dialogue,,0,0,0,,Ți-ai amintit?
+Dialogue: 100,0:12:40.45,0:12:41.30,Dialogue,,0,0,0,,Tocmai ți-ai amintit?
 Dialogue: 100,0:12:41.73,0:12:42.53,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:12:42.53,0:12:46.69,Dialogue,,0,0,0,,Acel fricos a fost așa de speriat de atacul monștrilor
-Dialogue: 100,0:12:46.69,0:12:49.64,Dialogue,,0,0,0,,încât, deși era rănit, m-a împins cu toată puterea sa!
+Dialogue: 100,0:12:42.53,0:12:46.69,Dialogue,,0,0,0,,Acel fricos a fost așa de speriat de atacul monștrilor încât,
+Dialogue: 100,0:12:46.69,0:12:49.64,Dialogue,,0,0,0,,deși eram rănit, m-a împins \Ncu toată puterea sa!
 Dialogue: 100,0:12:49.64,0:12:53.90,Dialogue,,0,0,0,,Din acea cauză nu am putut evita coliziunea cu prințesa Flora!
-Dialogue: 100,0:12:53.90,0:12:57.65,Dialogue,,0,0,0,,So, fearful of committing the crime of \Nkilling a member of the royal family,
-Dialogue: 100,0:12:57.65,0:13:00.03,Dialogue,,0,0,0,,that man may have saved\N Princess Flora in his desperation,
-Dialogue: 100,0:13:00.03,0:13:03.05,Dialogue,,0,0,0,,dar el a căzut prăpastie în schimb, nu?
+Dialogue: 100,0:12:53.90,0:12:57.65,Dialogue,,0,0,0,,Deci, temându-se că ar fi putut ucide pe cineva din familia regală,
+Dialogue: 100,0:12:57.65,0:13:00.03,Dialogue,,0,0,0,,acel om a sărit disperat s-o \Nsalveze pe prințesa Flora
+Dialogue: 100,0:13:00.03,0:13:03.05,Dialogue,,0,0,0,,și a căzut el în prăpastie, nu?
 Dialogue: 100,0:13:03.40,0:13:05.68,Dialogue,,0,0,0,,A-Asta nu poate fi adevărat!
-Dialogue: 100,0:13:06.08,0:13:09.39,Dialogue,,0,0,0,,Rio a dat tot ce a avut mai bun ca să mă salveze!
-Dialogue: 100,0:13:10.11,0:13:12.08,Dialogue,,0,0,0,,{\i1}Asta a devenit destul de problematic.
+Dialogue: 100,0:13:06.08,0:13:09.39,Dialogue,,0,0,0,,Rio a dat tot ce a avut \Nmai bun ca să mă salveze!
+Dialogue: 100,0:13:10.11,0:13:12.08,Dialogue,,0,0,0,,{\i1}Asta a devenit \Ndestul de problematic.
 Dialogue: 100,0:13:12.51,0:13:13.89,Dialogue,,0,0,0,,{\i1}Ce ar trebui să fac?
 Dialogue: 100,0:13:13.89,0:13:17.22,Dialogue,,0,0,0,,El este vinovatul. \NNu-i așa, colegii noștri mai mari?
 Dialogue: 100,0:13:17.22,0:13:18.90,Dialogue,,0,0,0,,D-Da.
-Dialogue: 100,0:13:18.90,0:13:21.98,Dialogue,,0,0,0,,Chiar e ăsta un moment bun ca să căutăm un vinovat?
+Dialogue: 100,0:13:18.90,0:13:21.98,Dialogue,,0,0,0,,Chiar e ăsta un moment bun \Nca să căutăm un vinovat?
 Dialogue: 100,0:13:21.98,0:13:22.86,Dialogue,,0,0,0,,Comandante!
 Dialogue: 100,0:13:22.86,0:13:26.37,Dialogue,,0,0,0,,A-Atunci, din moment ce \Nprințesa Flora e în siguranță,
-Dialogue: 100,0:13:26.37,0:13:28.66,Dialogue,,0,0,0,,haideți să găsim un mod de a ieși din pădure!
-Dialogue: 100,0:13:30.02,0:13:33.08,Dialogue,,0,0,0,,{\i1}Plănuiam să absolv această academie, dar...
+Dialogue: 100,0:13:26.37,0:13:28.66,Dialogue,,0,0,0,,haideți să găsim un \Nmod de a ieși din pădure!
+Dialogue: 100,0:13:30.02,0:13:33.08,Dialogue,,0,0,0,,{\i1}Plănuiam să absolv \Naceastă academie, dar...
 Dialogue: 100,0:13:34.64,0:13:35.91,Dialogue,,0,0,0,,Așteptați, vă rog!
 Dialogue: 100,0:13:36.40,0:13:38.67,Dialogue,,0,0,0,,Vrei să spuneți că-l vom abandona pe Rio?
 Dialogue: 100,0:13:38.67,0:13:42.00,Dialogue,,0,0,0,,A primit ceea ce a meritat.
 Dialogue: 100,0:13:42.00,0:13:43.85,Dialogue,,0,0,0,,Poftim?
 Dialogue: 100,0:13:43.85,0:13:47.68,Dialogue,,0,0,0,,Atunci, faptul că și eu era să cad de pe stâncă era ceea ce meritam.
-Dialogue: 100,0:13:48.03,0:13:51.18,Dialogue,,0,0,0,,Îl voi ajuta pe Rio, chiar dacă va trebui s-o fac singură!
+Dialogue: 100,0:13:48.03,0:13:51.18,Dialogue,,0,0,0,,Îl voi ajuta pe Rio, \Nchiar dacă va trebui s-o fac singură!
 Dialogue: 100,0:13:52.50,0:13:53.59,Dialogue,,0,0,0,,Nu poți face așa ceva!
 Dialogue: 100,0:13:53.59,0:13:56.04,Dialogue,,0,0,0,,Ce tot spui acolo, prințesă Flora?
 Dialogue: 100,0:13:56.04,0:13:57.88,Dialogue,,0,0,0,,Flora, liniștește-te.
@@ -245,17 +233,17 @@ Dialogue: 100,0:14:21.71,0:14:23.50,Dialogue,,0,0,0,,Ce caută un asemenea monst
 Dialogue: 100,0:14:23.89,0:14:26.78,Dialogue,,0,0,0,,De ce stai acolo și visezi cu ochii deschiși? Chestia aia ne va ucide!
 Dialogue: 100,0:14:27.72,0:14:29.51,Dialogue,,0,0,0,,Bila Fulger!
 Dialogue: 100,0:14:36.43,0:14:37.43,Dialogue,,0,0,0,,Ce...
-Dialogue: 100,0:14:39.61,0:14:42.73,Dialogue,,0,0,0,,Dacă Bila Fulger nu funcționează, atunci trebuie să folosim Lancea de Gheață!
+Dialogue: 100,0:14:39.61,0:14:42.73,Dialogue,,0,0,0,,Dacă Bila Fulger nu funcționează, \Natunci trebuie să folosim Lancea de Gheață!
 Dialogue: 100,0:14:43.43,0:14:45.80,Dialogue,,0,0,0,,Avangardă, sporiți-vă abilitățile fizice!
 Dialogue: 100,0:14:46.33,0:14:47.74,Dialogue,,0,0,0,,Lancea de Gheață!
 Dialogue: 100,0:14:49.29,0:14:51.74,Dialogue,,0,0,0,,Sporirea Abilităților Fizice!
 Dialogue: 100,0:15:04.04,0:15:05.05,Dialogue,,0,0,0,,Re...
 Dialogue: 100,0:15:05.05,0:15:06.44,Dialogue,,0,0,0,,Retragerea!
 Dialogue: 100,0:15:06.44,0:15:08.28,Dialogue,,0,0,0,,Fugiți!
-Dialogue: 100,0:15:09.66,0:15:12.55,Dialogue,,0,0,0,,Prințesă Christina! Revino-ți, te rog!
+Dialogue: 100,0:15:09.66,0:15:12.55,Dialogue,,0,0,0,,Prințesă Christina! \NRevino-ți, te rog!
 Dialogue: 100,0:15:12.55,0:15:13.54,Dialogue,,0,0,0,,B-Bine...
 Dialogue: 100,0:15:13.54,0:15:14.74,Dialogue,,0,0,0,,Unde este Flora?
-Dialogue: 100,0:15:15.50,0:15:17.78,Dialogue,,0,0,0,,Cred că a reușit deja să scape.
+Dialogue: 100,0:15:15.50,0:15:17.78,Dialogue,,0,0,0,,Cred că a reușit să scape deja.
 Dialogue: 100,0:15:17.78,0:15:19.29,Dialogue,,0,0,0,,Și noi ar trebui să ne grăbim.
 Dialogue: 100,0:15:24.43,0:15:25.73,Dialogue,,0,0,0,,Ești bine?
 Dialogue: 100,0:15:42.12,0:15:44.26,Dialogue,,0,0,0,,Nu!
@@ -269,7 +257,7 @@ Dialogue: 100,0:16:06.89,0:16:07.69,Dialogue,,0,0,0,,{\i1}Este rezistent.
 Dialogue: 100,0:16:07.69,0:16:08.86,Dialogue,,0,0,0,,{\i1}Și...
 Dialogue: 100,0:16:08.86,0:16:09.61,Dialogue,,0,0,0,,{\i1}Rapid!
 Dialogue: 100,0:16:11.05,0:16:12.95,Dialogue,,0,0,0,,{\i1}Nu pot muri aici.
-Dialogue: 100,0:16:12.95,0:16:15.91,Dialogue,,0,0,0,,{\i1}Deci de ce m-am întors ca s-o salvez?
+Dialogue: 100,0:16:12.95,0:16:15.91,Dialogue,,0,0,0,,{\i1}Deci, de ce m-am întors ca s-o salvez?
 Dialogue: 100,0:16:20.36,0:16:21.29,Dialogue,,0,0,0,,Uimitor!
 Dialogue: 100,0:16:48.90,0:16:49.44,Dialogue,,0,0,0,,{\i1}Acum.
 Dialogue: 100,0:17:07.50,0:17:09.08,Dialogue,,0,0,0,,Ce naiba căuta acel monstru aici...
@@ -279,48 +267,48 @@ Dialogue: 100,0:17:12.80,0:17:15.58,Dialogue,,0,0,0,,Nu. Î-Îmi pare foarte ră
 Dialogue: 100,0:17:21.26,0:17:25.88,Dialogue,,0,0,0,,{\i1}Hopa. Tocmai am asistat la ceva și mai interesant decât m-aș fi așteptat.
 Dialogue: 100,0:17:25.88,0:17:27.39,Dialogue,,0,0,0,,{\i1}Acel copil cu părul negru...
 Dialogue: 100,0:17:27.39,0:17:31.15,Dialogue,,0,0,0,,{\i1}Este cumva odrasla unor persoane care au ajuns aici din regiunea Yagumo?
-Dialogue: 100,0:17:31.15,0:17:35.02,Dialogue,,0,0,0,,{\i1}Dacă da, atunci înțeleg de ce poate folosi artele spiritelor.
+Dialogue: 100,0:17:31.15,0:17:35.02,Dialogue,,0,0,0,,{\i1}Dacă da, atunci înțeleg de ce \Npoate folosi artele spiritelor.
 Dialogue: 100,0:17:35.53,0:17:37.77,Dialogue,,0,0,0,,{\i1}Ce copil problematic.
 Dialogue: 100,0:17:41.74,0:17:43.08,Dialogue,,0,0,0,,Doamne!
-Dialogue: 100,0:17:43.08,0:17:46.87,Dialogue,,0,0,0,,The Head of the Academy\N is such a taskmaster!
-Dialogue: 100,0:17:46.87,0:17:49.99,Dialogue,,0,0,0,,You could just do the \Nresearch yourself, you know!
-Dialogue: 100,0:17:49.99,0:17:53.00,Dialogue,,0,0,0,,And these materials on monsters are so old...
-Dialogue: 100,0:17:54.76,0:17:57.13,Dialogue,,0,0,0,,And so, that commoner...
-Dialogue: 100,0:17:57.54,0:18:00.18,Dialogue,,0,0,0,,Rio has gone missing.
-Dialogue: 100,0:18:02.59,0:18:07.39,Dialogue,,0,0,0,,But Princess Flora is \Nadvocating for this... Rio.
+Dialogue: 100,0:17:43.08,0:17:46.87,Dialogue,,0,0,0,,Directorul academiei este așa un tiran!
+Dialogue: 100,0:17:46.87,0:17:49.99,Dialogue,,0,0,0,,Ar putea să-și facă \Ncercetările de unul singur!
+Dialogue: 100,0:17:49.99,0:17:53.00,Dialogue,,0,0,0,,Iar aceste cărți despre \Nmonștrii sunt foarte vechi...
+Dialogue: 100,0:17:54.76,0:17:57.13,Dialogue,,0,0,0,,Și astfel, acel om de rând...
+Dialogue: 100,0:17:57.54,0:18:00.18,Dialogue,,0,0,0,,Rio a dispărut.
+Dialogue: 100,0:18:02.59,0:18:07.39,Dialogue,,0,0,0,,Dar prințesa Flora este \Nde partea acestui Rio.
 Dialogue: 100,0:18:07.39,0:18:09.17,Dialogue,,0,0,0,,Lord Garcia,
-Dialogue: 100,0:18:09.17,0:18:12.93,Dialogue,,0,0,0,,if the standing of the \NHouse of Huguenot is put at risk,
-Dialogue: 100,0:18:12.93,0:18:15.90,Dialogue,,0,0,0,,it will only embolden \Nthe house of Duke Arbor.
-Dialogue: 100,0:18:16.65,0:18:18.84,Dialogue,,0,0,0,,That would be bad for the kingdom,\N would it not?
-Dialogue: 100,0:18:20.94,0:18:24.43,Dialogue,,0,0,0,,{\i1}The royal family has become weak.
-Dialogue: 100,0:18:24.86,0:18:27.00,Dialogue,,0,0,0,,It's maddening!
-Dialogue: 100,0:18:27.00,0:18:31.66,Dialogue,,0,0,0,,Now that things have come to this, I suppose\N we have no choice but to blame the boy.
-Dialogue: 100,0:18:32.88,0:18:34.93,Dialogue,,0,0,0,,I'll leave the rest to you,
-Dialogue: 100,0:18:34.93,0:18:36.77,Dialogue,,0,0,0,,Duke Huguenot.
-Dialogue: 100,0:18:36.77,0:18:38.22,Dialogue,,0,0,0,,Understood.
-Dialogue: 100,0:18:38.22,0:18:40.68,Dialogue,,0,0,0,,Please leave the matter to me hereafter.
+Dialogue: 100,0:18:09.17,0:18:12.93,Dialogue,,0,0,0,,dacă statul casei Huguenot \Nva ajunge să fie în pericol,
+Dialogue: 100,0:18:12.93,0:18:15.90,Dialogue,,0,0,0,,asta doar va pune în avantaj casa familiei ducelui Arbor.
+Dialogue: 100,0:18:16.65,0:18:18.84,Dialogue,,0,0,0,,Nu ar fi bine pentru regat \Nsă se întâmple așa ceva, nu?
+Dialogue: 100,0:18:20.94,0:18:24.43,Dialogue,,0,0,0,,{\i1}Familia regală a devenit slabă.
+Dialogue: 100,0:18:24.86,0:18:27.00,Dialogue,,0,0,0,,Chiar este un lucru problematic!
+Dialogue: 100,0:18:27.00,0:18:31.66,Dialogue,,0,0,0,,Acum că s-a ajuns la una ca asta, bănuiesc că nu avem de ales decât să-l facem vinovat pe acel băiat.
+Dialogue: 100,0:18:32.88,0:18:34.93,Dialogue,,0,0,0,,Voi lăsa restul în seama ta,
+Dialogue: 100,0:18:34.93,0:18:36.77,Dialogue,,0,0,0,,duce Huguenot.
+Dialogue: 100,0:18:36.77,0:18:38.22,Dialogue,,0,0,0,,Am înțeles.
+Dialogue: 100,0:18:38.22,0:18:40.68,Dialogue,,0,0,0,,Vă rog să lăsați această situație în mâinile mele de acum.
 Dialogue: 100,0:18:44.99,0:18:45.78,Dialogue,,0,0,0,,{\i1}Rio...
-Dialogue: 100,0:18:46.19,0:18:48.01,Dialogue,,0,0,0,,{\i1}What could have happened?
-Dialogue: 100,0:18:57.23,0:18:58.03,Dialogue,,0,0,0,,Who's there?
-Dialogue: 100,0:18:59.45,0:19:00.80,Dialogue,,0,0,0,,It's Rio.
-Dialogue: 100,0:19:00.80,0:19:02.53,Dialogue,,0,0,0,,I'm sorry for causing such a commotion.
-Dialogue: 100,0:19:06.72,0:19:08.71,Dialogue,,0,0,0,,P-Professor...
-Dialogue: 100,0:19:09.39,0:19:11.21,Dialogue,,0,0,0,,I was really worried!
-Dialogue: 100,0:19:11.63,0:19:12.96,Dialogue,,0,0,0,,I'm sorry.
-Dialogue: 100,0:19:12.96,0:19:15.54,Dialogue,,0,0,0,,Are you hurt? Are you all right?
-Dialogue: 100,0:19:15.54,0:19:17.45,Dialogue,,0,0,0,,That tickles!
-Dialogue: 100,0:19:21.28,0:19:25.22,Dialogue,,0,0,0,,That's horrible. What are they thinking? \NThey're laying a false charge!
-Dialogue: 100,0:19:25.95,0:19:27.90,Dialogue,,0,0,0,,Rio, you haven't done anything wrong!
-Dialogue: 100,0:19:29.33,0:19:32.70,Dialogue,,0,0,0,,It's the people in power who \Ndecide what's wrong or not.
-Dialogue: 100,0:19:32.70,0:19:36.73,Dialogue,,0,0,0,,Even if I appealed with the truth, \Nno one would acknowledge it.
-Dialogue: 100,0:19:37.27,0:19:39.32,Dialogue,,0,0,0,,It's because I'm not of the nobility.
+Dialogue: 100,0:18:46.19,0:18:48.01,Dialogue,,0,0,0,,{\i1}Ce s-ar fi putut întâmpla?
+Dialogue: 100,0:18:57.23,0:18:58.03,Dialogue,,0,0,0,,Cine e?
+Dialogue: 100,0:18:59.45,0:19:00.80,Dialogue,,0,0,0,,Sunt eu, Rio.
+Dialogue: 100,0:19:00.80,0:19:02.53,Dialogue,,0,0,0,,Îmi pare rău pentru \Nderanjul provocat.
+Dialogue: 100,0:19:06.72,0:19:08.71,Dialogue,,0,0,0,,D-Dnă profesoară...
+Dialogue: 100,0:19:09.39,0:19:11.21,Dialogue,,0,0,0,,Am fost foarte îngrijorată!
+Dialogue: 100,0:19:11.63,0:19:12.96,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 100,0:19:12.96,0:19:15.54,Dialogue,,0,0,0,,Ești bine? Nu ești rănit, nu?
+Dialogue: 100,0:19:15.54,0:19:17.45,Dialogue,,0,0,0,,Mă gâdili!
+Dialogue: 100,0:19:21.28,0:19:25.22,Dialogue,,0,0,0,,Asta este îngrozitor. La ce naiba se gândesc? Să arunce asemenea acuzații false!
+Dialogue: 100,0:19:25.95,0:19:27.90,Dialogue,,0,0,0,,Rio, tu nu ai făcut nimic greșit!
+Dialogue: 100,0:19:29.33,0:19:32.70,Dialogue,,0,0,0,,Oamenii de la putere decid \Nce este corect și ce nu.
+Dialogue: 100,0:19:32.70,0:19:36.73,Dialogue,,0,0,0,,Chiar dacă aș spune adevărul într-o instituție juridică, nimeni nu m-ar crede.
+Dialogue: 100,0:19:37.27,0:19:39.32,Dialogue,,0,0,0,,Deoarece nu sunt un nobil.
 Dialogue: 100,0:19:42.24,0:19:43.47,Dialogue,,0,0,0,,Îmi pare rău.
 Dialogue: 100,0:19:43.47,0:19:47.74,Dialogue,,0,0,0,,Chiar îmi doresc să pot face ceva să te scot din situația asta, dar...
 Dialogue: 100,0:19:48.29,0:19:50.14,Dialogue,,0,0,0,,Nu are de ce să-ți pară.
-Dialogue: 100,0:19:50.14,0:19:51.88,Dialogue,,0,0,0,,Everything is thanks to you, Professor.
-Dialogue: 100,0:19:52.46,0:19:54.25,Dialogue,,0,0,0,,It's thanks to you
-Dialogue: 100,0:19:54.75,0:19:57.75,Dialogue,,0,0,0,,that I've been able to come this far \Nwithout crumbling and going bad.
-Dialogue: 100,0:19:58.81,0:20:00.65,Dialogue,,0,0,0,,Mă bucur că te-am întâlnit, dna profesoară.
+Dialogue: 100,0:19:50.14,0:19:51.88,Dialogue,,0,0,0,,Îți datorez totul ție, dna profesoară.
+Dialogue: 100,0:19:52.46,0:19:54.25,Dialogue,,0,0,0,,Mulțumită ție
+Dialogue: 100,0:19:54.75,0:19:57.75,Dialogue,,0,0,0,,am reușit să ajung până aici fără să pășesc pe un drum greșit.
+Dialogue: 100,0:19:58.81,0:20:00.65,Dialogue,,0,0,0,,Mă bucur că te-am întâlnit, \Ndna profesoară.
 Dialogue: 100,0:20:01.31,0:20:03.26,Dialogue,,0,0,0,,Simt asta din adâncul inimii.
 Dialogue: 100,0:20:04.66,0:20:05.83,Dialogue,,0,0,0,,Rio...
 Dialogue: 100,0:20:05.83,0:20:09.27,Dialogue,,0,0,0,,De asta tu ești singura persoană de la care vreau să-mi iau rămas bun, dna profesoară.
@@ -337,7 +325,7 @@ Dialogue: 100,0:20:35.45,0:20:36.38,Dialogue,,0,0,0,,Haruto.
 Dialogue: 100,0:20:37.38,0:20:39.38,Dialogue,,0,0,0,,În acest caz, voi pleca.
 Dialogue: 100,0:20:40.01,0:20:41.46,Dialogue,,0,0,0,,Ne vom revedea, nu-i așa?
 Dialogue: 100,0:20:42.16,0:20:44.55,Dialogue,,0,0,0,,Da. Sunt sigur de asta.
-Dialogue: 100,0:20:46.76,0:20:49.56,Dialogue,,0,0,0,,For certain, absolutely certain, understand?
+Dialogue: 100,0:20:46.76,0:20:49.56,Dialogue,,0,0,0,,Ne vom revedea, orice ar fi, bine?
 Dialogue: 100,0:20:50.19,0:20:51.01,Dialogue,,0,0,0,,Ai grijă de tine...
 Dialogue: 100,0:20:51.77,0:20:53.81,Dialogue,,0,0,0,,până te vei întoarce... bine?
 Dialogue: 100,0:21:02.71,0:21:03.99,Dialogue,,0,0,0,,Drum bun!
@@ -374,7 +362,7 @@ Dialogue: 100,0:22:44.42,0:22:44.92,Dialogue,,0,0,0,,Ce?
 Dialogue: 100,0:22:45.66,0:22:47.92,Dialogue,,0,0,0,,Nu mă deranjează.
 Dialogue: 100,0:23:11.27,0:23:13.68,Dialogue,,0,0,0,,Asta e haina țintei tale.
 Dialogue: 100,0:23:13.68,0:23:14.95,Dialogue,,0,0,0,,Reține-i mirosul.
-Dialogue: 100,0:23:15.75,0:23:20.27,Dialogue,,0,0,0,,Trebuie să asasinezi un băiat de 12 ani. Numele lui este Rio.
+Dialogue: 100,0:23:15.75,0:23:20.27,Dialogue,,0,0,0,,Trebuie să asasinezi un băiat \Nde 12 ani pe nume Rio.
 Dialogue: 100,0:23:20.27,0:23:22.96,Dialogue,,0,0,0,,Părul lui este negru, \Ndeci îl vei recunoaște imediat.
 Dialogue: 100,0:23:22.96,0:23:25.77,Dialogue,,0,0,0,,Nu contează ce trebuie să faci, \Ngăsește-l și omoară-l,
 Dialogue: 100,0:23:26.24,0:23:27.71,Dialogue,,0,0,0,,Latifa.
@@ -419,68 +407,62 @@ Dialogue: 0,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\
 Dialogue: 1,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\bord0.5\shad0.001\3c&H17B20D&\4c&H17B20D&\1a&HFF&\3a&HFF&\4a&HFF&\blur3\fad(500,1000)\t(0,500,\1a&HFE&\3a&H00&\4a&H00&)\t(3960,0,\1a&HFF&\3a&HFF&\4a&HFF&)}Regatul minciunilor
 Comment: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\fad(500,1000)\an2\fnUn Batang\b1\fs66\pos(366.86,891.53)\blur0.6}Regatul minciunilor
 Comment: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\fad(500,1000)\an2\fnUn Batang\b1\fs66\pos(366.86,891.53)\blur0.6\c&H6CF4F0&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,834,619,835)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFFFFFF&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,835,619,836)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFEFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,836,619,837)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFEFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,837,619,838)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFEFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,838,619,839)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFEFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,839,619,840)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFEFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,840,619,841)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFDFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,841,619,842)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFDFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,842,619,843)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFCFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,843,619,844)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFBFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,844,619,845)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFBFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,845,619,846)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HFAFEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,846,619,847)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF9FEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,847,619,848)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF8FEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,848,619,849)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF7FEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,849,619,850)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF6FEFE&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,850,619,851)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF4FEFD&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,851,619,852)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF3FEFD&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,852,619,853)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF2FEFD&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,853,619,854)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HF0FDFD&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,854,619,855)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HEFFDFD&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,855,619,856)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HEDFDFD&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,856,619,857)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HEBFDFD&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,857,619,858)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HEAFDFC&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,858,619,859)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HE8FDFC&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,859,619,860)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HE6FDFC&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,860,619,861)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HE4FDFC&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,861,619,862)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HE2FCFC&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,862,619,863)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HE0FCFB&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,863,619,864)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HDDFCFB&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,864,619,865)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HDBFCFB&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,865,619,866)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HD9FCFB&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,866,619,867)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HD6FBFA&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,867,619,868)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HD3FBFA&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,868,619,869)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HD1FBFA&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,869,619,870)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HCEFBFA&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,870,619,871)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HCBFBF9&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,871,619,872)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HC8FAF9&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,872,619,873)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HC5FAF9&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,873,619,874)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HC2FAF8&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,874,619,875)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HBFFAF8&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,875,619,876)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HBCFAF8&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,876,619,877)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HB9F9F7&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,877,619,878)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HB5F9F7&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,878,619,879)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HB2F9F7&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,879,619,880)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HAFF9F6&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,880,619,881)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HABF8F6&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,881,619,882)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HA7F8F6&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,882,619,883)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HA3F8F5&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,883,619,884)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&HA0F7F5&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,884,619,885)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H9CF7F4&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,885,619,886)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H98F7F4&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,886,619,887)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H94F7F4&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,887,619,888)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H90F6F3&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,888,619,889)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H8BF6F3&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,889,619,890)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H87F6F2&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,890,619,891)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H83F5F2&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,891,619,892)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H7EF5F1&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,892,619,893)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H7AF5F1&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,893,619,894)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H75F4F0&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,894,619,895)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H70F4F0&}Regatul minciunilor
-Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\clip(116,895,619,896)\pos(366.86,891.53)\fad(500,1000)\an2\fnUn Batang\b1\fs66\blur0.6\c&H6CF4F0&}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFEFEFE&\blur0.6\fad(500,1000)\clip(116,837,619,838)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFEFEFE&\blur0.6\fad(500,1000)\clip(116,838,619,839)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFEFEFE&\blur0.6\fad(500,1000)\clip(116,839,619,840)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFDFEFE&\blur0.6\fad(500,1000)\clip(116,840,619,841)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFDFEFE&\blur0.6\fad(500,1000)\clip(116,841,619,842)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFCFEFE&\blur0.6\fad(500,1000)\clip(116,842,619,843)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFBFEFE&\blur0.6\fad(500,1000)\clip(116,843,619,844)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFBFEFE&\blur0.6\fad(500,1000)\clip(116,844,619,845)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HFAFEFE&\blur0.6\fad(500,1000)\clip(116,845,619,846)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF9FEFE&\blur0.6\fad(500,1000)\clip(116,846,619,847)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF8FEFE&\blur0.6\fad(500,1000)\clip(116,847,619,848)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF7FEFE&\blur0.6\fad(500,1000)\clip(116,848,619,849)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF6FEFE&\blur0.6\fad(500,1000)\clip(116,849,619,850)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF4FEFD&\blur0.6\fad(500,1000)\clip(116,850,619,851)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF3FEFD&\blur0.6\fad(500,1000)\clip(116,851,619,852)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF2FEFD&\blur0.6\fad(500,1000)\clip(116,852,619,853)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HF0FDFD&\blur0.6\fad(500,1000)\clip(116,853,619,854)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HEFFDFD&\blur0.6\fad(500,1000)\clip(116,854,619,855)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HEDFDFD&\blur0.6\fad(500,1000)\clip(116,855,619,856)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HEBFDFD&\blur0.6\fad(500,1000)\clip(116,856,619,857)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HEAFDFC&\blur0.6\fad(500,1000)\clip(116,857,619,858)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HE8FDFC&\blur0.6\fad(500,1000)\clip(116,858,619,859)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HE6FDFC&\blur0.6\fad(500,1000)\clip(116,859,619,860)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HE4FDFC&\blur0.6\fad(500,1000)\clip(116,860,619,861)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HE2FCFC&\blur0.6\fad(500,1000)\clip(116,861,619,862)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HE0FCFB&\blur0.6\fad(500,1000)\clip(116,862,619,863)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HDDFCFB&\blur0.6\fad(500,1000)\clip(116,863,619,864)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HDBFCFB&\blur0.6\fad(500,1000)\clip(116,864,619,865)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HD9FCFB&\blur0.6\fad(500,1000)\clip(116,865,619,866)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HD6FBFA&\blur0.6\fad(500,1000)\clip(116,866,619,867)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HD3FBFA&\blur0.6\fad(500,1000)\clip(116,867,619,868)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HD1FBFA&\blur0.6\fad(500,1000)\clip(116,868,619,869)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HCEFBFA&\blur0.6\fad(500,1000)\clip(116,869,619,870)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HCBFBF9&\blur0.6\fad(500,1000)\clip(116,870,619,871)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HC8FAF9&\blur0.6\fad(500,1000)\clip(116,871,619,872)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HC5FAF9&\blur0.6\fad(500,1000)\clip(116,872,619,873)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HC2FAF8&\blur0.6\fad(500,1000)\clip(116,873,619,874)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HBFFAF8&\blur0.6\fad(500,1000)\clip(116,874,619,875)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HBCFAF8&\blur0.6\fad(500,1000)\clip(116,875,619,876)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HB9F9F7&\blur0.6\fad(500,1000)\clip(116,876,619,877)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HB5F9F7&\blur0.6\fad(500,1000)\clip(116,877,619,878)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HB2F9F7&\blur0.6\fad(500,1000)\clip(116,878,619,879)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HAFF9F6&\blur0.6\fad(500,1000)\clip(116,879,619,880)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HABF8F6&\blur0.6\fad(500,1000)\clip(116,880,619,881)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HA7F8F6&\blur0.6\fad(500,1000)\clip(116,881,619,882)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HA3F8F5&\blur0.6\fad(500,1000)\clip(116,882,619,883)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&HA0F7F5&\blur0.6\fad(500,1000)\clip(116,883,619,884)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H9CF7F4&\blur0.6\fad(500,1000)\clip(116,884,619,885)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H98F7F4&\blur0.6\fad(500,1000)\clip(116,885,619,886)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H94F7F4&\blur0.6\fad(500,1000)\clip(116,886,619,887)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H90F6F3&\blur0.6\fad(500,1000)\clip(116,887,619,888)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H8BF6F3&\blur0.6\fad(500,1000)\clip(116,888,619,889)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H87F6F2&\blur0.6\fad(500,1000)\clip(116,889,619,890)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H83F5F2&\blur0.6\fad(500,1000)\clip(116,890,619,891)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H7EF5F1&\blur0.6\fad(500,1000)\clip(116,891,619,892)}Regatul minciunilor
+Dialogue: 2,0:02:03.02,0:02:07.98,DedzuyaSigns,,0,0,0,,{\an2\pos(366.86,891.53)\fnUn Batang\fs66\b1\c&H7AF5F1&\blur0.6\fad(500,1000)\clip(116,892,619,893)}Regatul minciunilor
 Dialogue: 0,0:23:35.02,0:23:40.02,DedzuyaSigns,,0,0,0,,{\an2\pos(960,365)\fnUn Batang\fs70\fsp1\b1\bord4\c&HD0AB59&\3c&HD0AB59&\blur2.5}Data viitoare
 Dialogue: 1,0:23:35.02,0:23:40.02,DedzuyaSigns,,0,0,0,,{\an2\pos(960,365)\fnUn Batang\fs70\fsp1\b1\blur0.6}Data viitoare
 Dialogue: 0,0:23:35.02,0:23:40.02,DedzuyaSigns,,0,0,0,,{\an8\pos(960,675)\fnUn Batang\fs100\fsp1\b1\bord4\c&HD0AB59&\3c&HD0AB59&\blur2.5\xc&HD6B160&}Fetița asasin
@@ -566,8 +548,8 @@ Dialogue: 0,0:23:45.04,0:23:48.05,DedzuyaSigns,,0,0,0,,{\an7\pos(202.67,345.7)\c
 Dialogue: 1,0:23:45.04,0:23:48.05,DedzuyaSigns,,0,0,0,,{\pos(201.67,332.7)\fnSpinner Rack BB\fs90\c&H0F0F0F&\blur0.6}unde \Neste \NRio \Nacum?
 Dialogue: 0,0:23:48.05,0:23:50.25,DedzuyaSigns,,0,0,0,,{\an7\pos(1705.67,295.37)\c&HEAEAEA&\blur1\p1}m -83 -194 l 50 -194 50 233 -83 233
 Dialogue: 1,0:23:48.05,0:23:50.25,DedzuyaSigns,,0,0,0,,{\pos(1701.67,296.7)\fnSpinner Rack BB\fs90\c&H0F0F0F&\blur0.6}N-Nu?
-Dialogue: 0,0:23:48.05,0:23:50.25,DedzuyaSigns,,0,0,0,,{\pos(236.33,311.22)\frz19.66\bord6\c&HEAEAEA&\3c&HEAEAEA&\blur0.6}E surprinzător \Nde isteață...
-Dialogue: 1,0:23:48.05,0:23:50.25,DedzuyaSigns,,0,0,0,,{\pos(236.33,311.22)\frz19.66\c&H0F0F0F&\blur0.5}E surprinzător \Nde isteață...
+Dialogue: 0,0:23:48.05,0:23:50.25,DedzuyaSigns,,0,0,0,,{\pos(264.55,296.11)\frz20.53\fnMagic Mushroom\fs80\fsp2\bord7\c&HEAEAEA&\3c&HEAEAEA&\blur0.6}E surprinzător \Nde isteață...
+Dialogue: 1,0:23:48.05,0:23:50.25,DedzuyaSigns,,0,0,0,,{\pos(264.55,296.11)\frz20.53\fnMagic Mushroom\fs80\fsp2\c&H0F0F0F&\blur0.5}E surprinzător \Nde isteață...
 Comment: 0,0:00:33.18,0:00:33.22,OP TL,,0,0,0,,{OP first hand frame}
 Dialogue: 0,0:00:33.96,0:00:37.08,OP TL,,0,0,0,,{\c&HF89E3A&\3c&HF89E3A&\blur3\fad(200,0)}Am alergat cu mâna întinsă
 Dialogue: 1,0:00:33.96,0:00:37.08,OP TL,,0,0,0,,{\bord0\blur0.6\fad(200,0)}Am alergat cu mâna întinsă
@@ -628,16 +610,16 @@ Dialogue: 0,0:22:13.97,0:22:20.03,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\b
 Dialogue: 1,0:22:13.97,0:22:20.03,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6}Încerc să par puternică și să țin pasul cu tine
 Dialogue: 0,0:22:20.03,0:22:22.03,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8}Deoarece îmi doresc să fiu cu tine pentru totdeauna
 Dialogue: 1,0:22:20.03,0:22:22.03,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6}Deoarece îmi doresc să fiu cu tine pentru totdeauna
-Dialogue: 0,0:22:22.03,0:22:28.43,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8\move(960,30,960,105,3400,4000)}Inimile noastre se contopesc
-Dialogue: 1,0:22:22.03,0:22:28.43,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6\move(960,30,960,105,3400,4000)}Inimile noastre se contopesc
-Dialogue: 0,0:22:26.03,0:22:34.04,ED TL,,0,0,0,,{\an8\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8}Floare străveche, sunt sigură că florile tale albe se vor reflecta în ochii lui
-Dialogue: 1,0:22:26.03,0:22:34.04,ED TL,,0,0,0,,{\an8\fsp-2\bord0\blur0.6}Floare străveche, sunt sigură că florile tale albe se vor reflecta în ochii lui
+Dialogue: 0,0:22:22.03,0:22:28.43,ED TL,,0,0,0,,{\move(960,30,960,105,3400,4000)\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8}Inimile noastre se contopesc
+Dialogue: 1,0:22:22.03,0:22:28.43,ED TL,,0,0,0,,{\move(960,30,960,105,3400,4000)\fsp-2\bord0\blur0.6}Inimile noastre se contopesc
+Dialogue: 0,0:22:26.03,0:22:34.04,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8}Floare străveche, sunt sigură că florile tale albe se vor reflecta în ochii lui
+Dialogue: 1,0:22:26.03,0:22:34.04,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6}Floare străveche, sunt sigură că florile tale albe se vor reflecta în ochii lui
 Dialogue: 0,0:22:34.04,0:22:36.23,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8}Chiar dacă nu suntem unul lângă celălalt, amintește-ți,
 Dialogue: 1,0:22:34.04,0:22:36.23,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6}Chiar dacă nu suntem unul lângă celălalt, amintește-ți,
 Dialogue: 0,0:22:36.23,0:22:38.04,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8}eu îți voi fi mereu alături
 Dialogue: 1,0:22:36.23,0:22:38.04,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6}eu îți voi fi mereu alături
-Dialogue: 0,0:22:38.04,0:22:46.01,ED TL,,0,0,0,,{\fad(0,200)\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8}Nu ești singur deloc
-Dialogue: 1,0:22:38.04,0:22:46.01,ED TL,,0,0,0,,{\fad(0,200)\fsp-2\bord0\blur0.6}Nu ești singur deloc
+Dialogue: 0,0:22:38.04,0:22:46.01,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8\fad(0,200)}Nu ești singur deloc
+Dialogue: 1,0:22:38.04,0:22:46.01,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6\fad(0,200)}Nu ești singur deloc
 Dialogue: 0,0:22:52.18,0:22:55.17,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8\fad(200,0)}Un spate care știe ce înseamnă blândețea
 Dialogue: 1,0:22:52.18,0:22:55.17,ED TL,,0,0,0,,{\fsp-2\bord0\blur0.6\fad(200,0)}Un spate care știe ce înseamnă blândețea
 Dialogue: 0,0:22:55.17,0:23:02.43,ED TL,,0,0,0,,{\fsp-2\c&HC62E21&\3c&HC62E21&\blur0.8\fad(0,200)}se vindecă de singurătatea sa, oh, tu, floare străveche
