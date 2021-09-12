@@ -25,186 +25,186 @@ Style: ED TL,Handage AOE,89,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 20,0:00:05.68,0:00:10.09,Dialogue,,0,0,0,,{\i1}Îmi pare foarte rău \Npentru Floare de Cireș.
-Dialogue: 20,0:01:52.32,0:01:57.09,Dialogue,,0,0,0,,Am onoarea de a vă prezenta adevăratul porc care trăiește în afara Gran Mur!
-Dialogue: 20,0:01:57.97,0:01:59.80,Dialogue,,0,0,0,,{\an8}Nu ești amuzant deloc, Haruto.
-Dialogue: 20,0:02:00.69,0:02:02.63,Dialogue,,0,0,0,,Nu mi-a ieșit prea bine gluma, nu?
-Dialogue: 20,0:02:02.63,0:02:04.10,Dialogue,,0,0,0,,Aici ar fi trebuit să râdeți, știți?
-Dialogue: 20,0:02:04.44,0:02:07.35,Dialogue,,0,0,0,,Vrei să spui că asta e partea \Nunde ne uităm lung la tine, nu?
-Dialogue: 20,0:02:07.69,0:02:10.46,Dialogue,,0,0,0,,Oricum, unde este Anju?
-Dialogue: 20,0:02:10.46,0:02:12.98,Dialogue,,0,0,0,,Vreau să mă înlocuiască \Nla prepararea cinei.
-Dialogue: 20,0:02:13.39,0:02:15.48,Dialogue,,0,0,0,,Se ocupă de spălatul hainelor astăzi.
-Dialogue: 20,0:02:15.48,0:02:17.92,Dialogue,,0,0,0,,Evident că știi asta, Daiya.
-Dialogue: 20,0:02:17.92,0:02:20.53,Dialogue,,0,0,0,,Nu este doar ea, ci și celelalte fete.
-Dialogue: 20,0:02:20.53,0:02:22.22,Dialogue,,0,0,0,,Când au început?
-Dialogue: 20,0:02:22.22,0:02:24.88,Dialogue,,0,0,0,,Cred că imediat după micul dejun.
-Dialogue: 20,0:02:24.88,0:02:26.33,Dialogue,,0,0,0,,Dar s-a făcut deja ora prânzului.
-Dialogue: 20,0:02:26.33,0:02:29.89,Dialogue,,0,0,0,,Da, nu ar fi trebuit să le ia atât de mult.
-Dialogue: 20,0:02:29.89,0:02:31.31,Dialogue,,0,0,0,,Deci fac baie.
-Dialogue: 20,0:02:31.31,0:02:33.00,Dialogue,,0,0,0,,Iar acum, râul este...
-Dialogue: 20,0:02:33.00,0:02:34.63,Dialogue,,0,0,0,,raiul pe pământ!
-Dialogue: 20,0:02:35.88,0:02:37.76,Dialogue,,0,0,0,,Nu, nu! Sub nicio formă!
-Dialogue: 20,0:02:37.76,0:02:40.53,Dialogue,,0,0,0,,Nu fi așa de nașpa!
-Dialogue: 20,0:02:40.53,0:02:43.53,Dialogue,,0,0,0,,Am putea muri mâine, știi?
-Dialogue: 20,0:02:43.53,0:02:45.56,Dialogue,,0,0,0,,Spui asta de fiecare dată, Haruto!
-Dialogue: 20,0:02:45.56,0:02:48.06,Dialogue,,0,0,0,,Nu-ți face griji, nu ne vom uita la Anju.
-Dialogue: 20,0:02:48.06,0:02:49.31,Dialogue,,0,0,0,,E evident că o veți vedea și pe ea!
-Dialogue: 20,0:02:49.71,0:02:52.19,Dialogue,,0,0,0,,Și nu asta e problema.
-Dialogue: 20,0:02:52.19,0:02:53.66,Dialogue,,0,0,0,,Eu nu merg!
-Dialogue: 20,0:02:53.66,0:02:55.22,Dialogue,,0,0,0,,Sub nicio formă!
-Dialogue: 20,0:02:55.22,0:02:58.24,Dialogue,,0,0,0,,Chiar dacă suntem băieți și fete, suntem camarazi, înainte de toate!
-Dialogue: 20,0:02:58.73,0:03:00.32,Dialogue,,0,0,0,,Camarazi loiali!
-Dialogue: 20,0:03:05.20,0:03:06.16,Dialogue,,0,0,0,,E așa de rece!
-Dialogue: 20,0:03:09.15,0:03:10.73,Dialogue,,0,0,0,,Se simte așa de plăcut!
-Dialogue: 20,0:03:11.84,0:03:14.73,Dialogue,,0,0,0,,Kaie, ce tot faci?
-Dialogue: 20,0:03:14.73,0:03:16.94,Dialogue,,0,0,0,,Nu mai sta acolo și alătură-te nouă!
-Dialogue: 20,0:03:16.94,0:03:20.64,Dialogue,,0,0,0,,Voi toate arătați apetisant de aici dacă înțelegeți la ce mă refer.
-Dialogue: 20,0:03:20.64,0:03:21.97,Dialogue,,0,0,0,,Despre ce vorbești?
-Dialogue: 20,0:03:21.97,0:03:24.68,Dialogue,,0,0,0,,În funcție de perspectiva pe care o ai, poți considera acest loc a fiind raiul.
-Dialogue: 20,0:03:27.33,0:03:29.36,Dialogue,,0,0,0,,Nu mai fi așa dificilă și alătură-te lor odată!
-Dialogue: 20,0:03:29.36,0:03:31.12,Dialogue,,0,0,0,,Da! Haide!
-Dialogue: 20,0:03:31.12,0:03:35.04,Dialogue,,0,0,0,,Dar chiar este în regulă să ne jucăm acum?
-Dialogue: 20,0:03:35.04,0:03:37.61,Dialogue,,0,0,0,,Ești așa serioasă uneori, Kaie.
-Dialogue: 20,0:03:38.17,0:03:39.07,Dialogue,,0,0,0,,Evident că este în regulă.
-Dialogue: 20,0:03:39.07,0:03:41.02,Dialogue,,0,0,0,,Am terminat cu spălatul hainelor.
-Dialogue: 20,0:03:41.02,0:03:43.74,Dialogue,,0,0,0,,Pe lângă asta, sunt sigură că Shin știa deja ce vom face când și-a dat acordul, nu?
-Dialogue: 20,0:03:44.05,0:03:46.87,Dialogue,,0,0,0,,Se prinde repede de chestii de genul ăsta,
-Dialogue: 20,0:03:46.87,0:03:49.15,Dialogue,,0,0,0,,acel băiat inexpresiv, știți?
-Dialogue: 20,0:03:50.41,0:03:52.98,Dialogue,,0,0,0,,Scuze, ar fi trebuit să-mi dau seama!
-Dialogue: 20,0:03:52.98,0:03:55.37,Dialogue,,0,0,0,,Nici tu și nici Shin nu aveți treburi astăzi,
-Dialogue: 20,0:03:55.37,0:03:59.38,Dialogue,,0,0,0,,deci ar fi trebuit să-ți găsim \No scuză ca să puteți fi singuri!
-Dialogue: 20,0:03:59.38,0:04:00.49,Dialogue,,0,0,0,,Nu!
-Dialogue: 20,0:04:00.49,0:04:02.18,Dialogue,,0,0,0,,Nu este așa!
-Dialogue: 20,0:04:02.62,0:04:06.39,Dialogue,,0,0,0,,Ce îți place la el? \NNu am niciodată idee ce gândește.
-Dialogue: 20,0:04:07.49,0:04:10.79,Dialogue,,0,0,0,,Am spus deja că nu este așa!
-Dialogue: 20,0:04:10.79,0:04:12.64,Dialogue,,0,0,0,,Dar ție, Kaie?
-Dialogue: 20,0:04:12.64,0:04:16.81,Dialogue,,0,0,0,,Shin? Nu este rău deloc, bănuiesc.
-Dialogue: 20,0:04:16.81,0:04:20.03,Dialogue,,0,0,0,,Este direct și îmi place latura sa stoică.
-Dialogue: 20,0:04:20.03,0:04:21.24,Dialogue,,0,0,0,,S-Stai puțin! Kaie!
-Dialogue: 20,0:04:21.58,0:04:22.93,Dialogue,,0,0,0,,Înțeleg. Înțeleg!
-Dialogue: 20,0:04:22.93,0:04:28.73,Dialogue,,0,0,0,,Dacă niciuna nu este interesată de el, \Natunci îl pot lua eu, nu?
-Dialogue: 20,0:04:28.73,0:04:33.27,Dialogue,,0,0,0,,În acest caz, poate ar trebui \Nsă-i fac clasica "vizită nocturnă".
-Dialogue: 20,0:04:34.82,0:04:36.42,Dialogue,,0,0,0,,K-Kaie!
-Dialogue: 20,0:04:36.42,0:04:41.30,Dialogue,,0,0,0,,N-Nu este ca și cum îmi \Npasă de Shin sau ceva,
-Dialogue: 20,0:04:41.93,0:04:44.88,Dialogue,,0,0,0,,dar nu cred că este bine.
-Dialogue: 20,0:04:44.88,0:04:50.18,Dialogue,,0,0,0,,Ș-Știți, dacă vreți să fiți elegante și cumpătate ca o adevărată doamnă...
-Dialogue: 20,0:04:50.45,0:04:52.66,Dialogue,,0,0,0,,Ești așa drăguță, Kurena!
-Dialogue: 20,0:04:54.37,0:04:55.96,Dialogue,,0,0,0,,Încetați!
-Dialogue: 20,0:04:58.57,0:05:00.91,Dialogue,,0,0,0,,D-De câte ori trebuie să vă spun băieți?
-Dialogue: 20,0:05:00.91,0:05:02.82,Dialogue,,0,0,0,,A-Asta nu este bine!
-Dialogue: 20,0:05:03.09,0:05:05.30,Dialogue,,0,0,0,,Tu te holbezi mai tare ca noi.
-Dialogue: 20,0:05:05.30,0:05:07.41,Dialogue,,0,0,0,,Și de ce mă rog ai venit cu noi?
-Dialogue: 20,0:05:07.41,0:05:09.10,Dialogue,,0,0,0,,Ca să stau cu ochii pe voi!
-Dialogue: 20,0:05:10.91,0:05:12.75,Dialogue,,0,0,0,,Ținte multiple... Pregătiți-vă!
-Dialogue: 20,0:05:12.75,0:05:13.96,Dialogue,,0,0,0,,Foc!
-Dialogue: 20,0:05:13.96,0:05:15.72,Dialogue,,0,0,0,,V-ați pierdut mințile?
+Dialogue: 100,0:00:05.68,0:00:10.09,Dialogue,,0,0,0,,{\i1}Îmi pare foarte rău \Npentru Floare de Cireș.
+Dialogue: 100,0:01:52.32,0:01:57.09,Dialogue,,0,0,0,,Am onoarea de a vă prezenta adevăratul porc care trăiește în afara Gran Mur!
+Dialogue: 100,0:01:57.97,0:01:59.80,Dialogue,,0,0,0,,{\an8}Nu ești amuzant deloc, Haruto.
+Dialogue: 100,0:02:00.69,0:02:02.63,Dialogue,,0,0,0,,Nu mi-a ieșit prea bine gluma, nu?
+Dialogue: 100,0:02:02.63,0:02:04.10,Dialogue,,0,0,0,,Aici ar fi trebuit să râdeți, știți?
+Dialogue: 100,0:02:04.44,0:02:07.35,Dialogue,,0,0,0,,Vrei să spui că asta e partea \Nunde ne uităm lung la tine, nu?
+Dialogue: 100,0:02:07.69,0:02:10.46,Dialogue,,0,0,0,,Oricum, unde este Anju?
+Dialogue: 100,0:02:10.46,0:02:12.98,Dialogue,,0,0,0,,Vreau să mă înlocuiască \Nla prepararea cinei.
+Dialogue: 100,0:02:13.39,0:02:15.48,Dialogue,,0,0,0,,Se ocupă de spălatul hainelor astăzi.
+Dialogue: 100,0:02:15.48,0:02:17.92,Dialogue,,0,0,0,,Evident că știi asta, Daiya.
+Dialogue: 100,0:02:17.92,0:02:20.53,Dialogue,,0,0,0,,Nu este doar ea, ci și celelalte fete.
+Dialogue: 100,0:02:20.53,0:02:22.22,Dialogue,,0,0,0,,Când au început?
+Dialogue: 100,0:02:22.22,0:02:24.88,Dialogue,,0,0,0,,Cred că imediat după micul dejun.
+Dialogue: 100,0:02:24.88,0:02:26.33,Dialogue,,0,0,0,,Dar s-a făcut deja ora prânzului.
+Dialogue: 100,0:02:26.33,0:02:29.89,Dialogue,,0,0,0,,Da, nu ar fi trebuit să le ia atât de mult.
+Dialogue: 100,0:02:29.89,0:02:31.31,Dialogue,,0,0,0,,Deci fac baie.
+Dialogue: 100,0:02:31.31,0:02:33.00,Dialogue,,0,0,0,,Iar acum, râul este...
+Dialogue: 100,0:02:33.00,0:02:34.63,Dialogue,,0,0,0,,raiul pe pământ!
+Dialogue: 100,0:02:35.88,0:02:37.76,Dialogue,,0,0,0,,Nu, nu! Sub nicio formă!
+Dialogue: 100,0:02:37.76,0:02:40.53,Dialogue,,0,0,0,,Nu fi așa de nașpa!
+Dialogue: 100,0:02:40.53,0:02:43.53,Dialogue,,0,0,0,,Am putea muri mâine, știi?
+Dialogue: 100,0:02:43.53,0:02:45.56,Dialogue,,0,0,0,,Spui asta de fiecare dată, Haruto!
+Dialogue: 100,0:02:45.56,0:02:48.06,Dialogue,,0,0,0,,Nu-ți face griji, nu ne vom uita la Anju.
+Dialogue: 100,0:02:48.06,0:02:49.31,Dialogue,,0,0,0,,E evident că o veți vedea și pe ea!
+Dialogue: 100,0:02:49.71,0:02:52.19,Dialogue,,0,0,0,,Și nu asta e problema.
+Dialogue: 100,0:02:52.19,0:02:53.66,Dialogue,,0,0,0,,Eu nu merg!
+Dialogue: 100,0:02:53.66,0:02:55.22,Dialogue,,0,0,0,,Sub nicio formă!
+Dialogue: 100,0:02:55.22,0:02:58.24,Dialogue,,0,0,0,,Chiar dacă suntem băieți și fete, suntem camarazi, înainte de toate!
+Dialogue: 100,0:02:58.73,0:03:00.32,Dialogue,,0,0,0,,Camarazi loiali!
+Dialogue: 100,0:03:05.20,0:03:06.16,Dialogue,,0,0,0,,E așa de rece!
+Dialogue: 100,0:03:09.15,0:03:10.73,Dialogue,,0,0,0,,Se simte așa de plăcut!
+Dialogue: 100,0:03:11.84,0:03:14.73,Dialogue,,0,0,0,,Kaie, ce tot faci?
+Dialogue: 100,0:03:14.73,0:03:16.94,Dialogue,,0,0,0,,Nu mai sta acolo și alătură-te nouă!
+Dialogue: 100,0:03:16.94,0:03:20.64,Dialogue,,0,0,0,,Voi toate arătați apetisant de aici dacă înțelegeți la ce mă refer.
+Dialogue: 100,0:03:20.64,0:03:21.97,Dialogue,,0,0,0,,Despre ce vorbești?
+Dialogue: 100,0:03:21.97,0:03:24.68,Dialogue,,0,0,0,,În funcție de perspectiva pe care o ai, poți considera acest loc a fiind raiul.
+Dialogue: 100,0:03:27.33,0:03:29.36,Dialogue,,0,0,0,,Nu mai fi așa dificilă și alătură-te lor odată!
+Dialogue: 100,0:03:29.36,0:03:31.12,Dialogue,,0,0,0,,Da! Haide!
+Dialogue: 100,0:03:31.12,0:03:35.04,Dialogue,,0,0,0,,Dar chiar este în regulă să ne jucăm acum?
+Dialogue: 100,0:03:35.04,0:03:37.61,Dialogue,,0,0,0,,Ești așa serioasă uneori, Kaie.
+Dialogue: 100,0:03:38.17,0:03:39.07,Dialogue,,0,0,0,,Evident că este în regulă.
+Dialogue: 100,0:03:39.07,0:03:41.02,Dialogue,,0,0,0,,Am terminat cu spălatul hainelor.
+Dialogue: 100,0:03:41.02,0:03:43.74,Dialogue,,0,0,0,,Pe lângă asta, sunt sigură că Shin știa deja ce vom face când și-a dat acordul, nu?
+Dialogue: 100,0:03:44.05,0:03:46.87,Dialogue,,0,0,0,,Se prinde repede de chestii de genul ăsta,
+Dialogue: 100,0:03:46.87,0:03:49.15,Dialogue,,0,0,0,,acel băiat inexpresiv, știți?
+Dialogue: 100,0:03:50.41,0:03:52.98,Dialogue,,0,0,0,,Scuze, ar fi trebuit să-mi dau seama!
+Dialogue: 100,0:03:52.98,0:03:55.37,Dialogue,,0,0,0,,Nici tu și nici Shin nu aveți treburi astăzi,
+Dialogue: 100,0:03:55.37,0:03:59.38,Dialogue,,0,0,0,,deci ar fi trebuit să-ți găsim \No scuză ca să puteți fi singuri!
+Dialogue: 100,0:03:59.38,0:04:00.49,Dialogue,,0,0,0,,Nu!
+Dialogue: 100,0:04:00.49,0:04:02.18,Dialogue,,0,0,0,,Nu este așa!
+Dialogue: 100,0:04:02.62,0:04:06.39,Dialogue,,0,0,0,,Ce îți place la el? \NNu am niciodată idee ce gândește.
+Dialogue: 100,0:04:07.49,0:04:10.79,Dialogue,,0,0,0,,Am spus deja că nu este așa!
+Dialogue: 100,0:04:10.79,0:04:12.64,Dialogue,,0,0,0,,Dar ție, Kaie?
+Dialogue: 100,0:04:12.64,0:04:16.81,Dialogue,,0,0,0,,Shin? Nu este rău deloc, bănuiesc.
+Dialogue: 100,0:04:16.81,0:04:20.03,Dialogue,,0,0,0,,Este direct și îmi place latura sa stoică.
+Dialogue: 100,0:04:20.03,0:04:21.24,Dialogue,,0,0,0,,S-Stai puțin! Kaie!
+Dialogue: 100,0:04:21.58,0:04:22.93,Dialogue,,0,0,0,,Înțeleg. Înțeleg!
+Dialogue: 100,0:04:22.93,0:04:28.73,Dialogue,,0,0,0,,Dacă niciuna nu este interesată de el, \Natunci îl pot lua eu, nu?
+Dialogue: 100,0:04:28.73,0:04:33.27,Dialogue,,0,0,0,,În acest caz, poate ar trebui \Nsă-i fac clasica "vizită nocturnă".
+Dialogue: 100,0:04:34.82,0:04:36.42,Dialogue,,0,0,0,,K-Kaie!
+Dialogue: 100,0:04:36.42,0:04:41.30,Dialogue,,0,0,0,,N-Nu este ca și cum îmi \Npasă de Shin sau ceva,
+Dialogue: 100,0:04:41.93,0:04:44.88,Dialogue,,0,0,0,,dar nu cred că este bine.
+Dialogue: 100,0:04:44.88,0:04:50.18,Dialogue,,0,0,0,,Ș-Știți, dacă vreți să fiți elegante și cumpătate ca o adevărată doamnă...
+Dialogue: 100,0:04:50.45,0:04:52.66,Dialogue,,0,0,0,,Ești așa drăguță, Kurena!
+Dialogue: 100,0:04:54.37,0:04:55.96,Dialogue,,0,0,0,,Încetați!
+Dialogue: 100,0:04:58.57,0:05:00.91,Dialogue,,0,0,0,,D-De câte ori trebuie să vă spun băieți?
+Dialogue: 100,0:05:00.91,0:05:02.82,Dialogue,,0,0,0,,A-Asta nu este bine!
+Dialogue: 100,0:05:03.09,0:05:05.30,Dialogue,,0,0,0,,Tu te holbezi mai tare ca noi.
+Dialogue: 100,0:05:05.30,0:05:07.41,Dialogue,,0,0,0,,Și de ce mă rog ai venit cu noi?
+Dialogue: 100,0:05:07.41,0:05:09.10,Dialogue,,0,0,0,,Ca să stau cu ochii pe voi!
+Dialogue: 100,0:05:10.91,0:05:12.75,Dialogue,,0,0,0,,Ținte multiple... Pregătiți-vă!
+Dialogue: 100,0:05:12.75,0:05:13.96,Dialogue,,0,0,0,,Foc!
+Dialogue: 100,0:05:13.96,0:05:15.72,Dialogue,,0,0,0,,V-ați pierdut mințile?
 Dialogue: 100,0:05:17.41,0:05:19.74,Dialogue,,0,0,0,,Auci...
-Dialogue: 20,0:05:22.67,0:05:25.43,Dialogue,,0,0,0,,Hei... stați... Nu este...
-Dialogue: 20,0:05:31.89,0:05:32.73,Dialogue,,0,0,0,,Daiya...
-Dialogue: 20,0:05:32.73,0:05:34.03,Dialogue,,0,0,0,,Nu te vom uita niciodată.
-Dialogue: 20,0:05:34.03,0:05:35.11,Dialogue,,0,0,0,,Mori!
-Dialogue: 20,0:05:35.11,0:05:36.60,Dialogue,,0,0,0,,Perversule!
-Dialogue: 20,0:05:36.60,0:05:37.35,Dialogue,,0,0,0,,Nu veni aici!
-Dialogue: 20,0:05:39.52,0:05:40.27,Dialogue,,0,0,0,,Deci...
-Dialogue: 20,0:05:41.24,0:05:44.74,Dialogue,,0,0,0,,Ce este, Daiya?
-Dialogue: 20,0:05:44.74,0:05:50.07,Dialogue,,0,0,0,,Știi, asta e partea când mă întrebi "Ești bine?" cu o voce drăguță și îngrijorată, nu, Anju?
-Dialogue: 20,0:05:50.07,0:05:53.45,Dialogue,,0,0,0,,Vai, vai, ești bine, dragul meu Daiya?
-Dialogue: 20,0:05:53.45,0:05:56.52,Dialogue,,0,0,0,,De ce nu vă arătați și voi restul?
+Dialogue: 100,0:05:22.67,0:05:25.43,Dialogue,,0,0,0,,Hei... stați... Nu este...
+Dialogue: 100,0:05:31.89,0:05:32.73,Dialogue,,0,0,0,,Daiya...
+Dialogue: 100,0:05:32.73,0:05:34.03,Dialogue,,0,0,0,,Nu te vom uita niciodată.
+Dialogue: 100,0:05:34.03,0:05:35.11,Dialogue,,0,0,0,,Mori!
+Dialogue: 100,0:05:35.11,0:05:36.60,Dialogue,,0,0,0,,Perversule!
+Dialogue: 100,0:05:36.60,0:05:37.35,Dialogue,,0,0,0,,Nu veni aici!
+Dialogue: 100,0:05:39.52,0:05:40.27,Dialogue,,0,0,0,,Deci...
+Dialogue: 100,0:05:41.24,0:05:44.74,Dialogue,,0,0,0,,Ce este, Daiya?
+Dialogue: 100,0:05:44.74,0:05:50.07,Dialogue,,0,0,0,,Știi, asta e partea când mă întrebi "Ești bine?" cu o voce drăguță și îngrijorată, nu, Anju?
+Dialogue: 100,0:05:50.07,0:05:53.45,Dialogue,,0,0,0,,Vai, vai, ești bine, dragul meu Daiya?
+Dialogue: 100,0:05:53.45,0:05:56.52,Dialogue,,0,0,0,,De ce nu vă arătați și voi restul?
 Dialogue: 100,0:05:56.90,0:05:58.05,Dialogue,,0,0,0,,Auci!
-Dialogue: 20,0:05:58.07,0:05:59.14,Dialogue,,0,0,0,,Theo?
-Dialogue: 20,0:06:01.33,0:06:03.55,Dialogue,,0,0,0,,Deci, ce faceți aici?
-Dialogue: 20,0:06:03.88,0:06:06.66,Dialogue,,0,0,0,,O, păi... Știți voi...
-Dialogue: 20,0:06:06.66,0:06:07.51,Dialogue,,0,0,0,,Nu-i așa, Haruto?
-Dialogue: 20,0:06:07.79,0:06:08.80,Dialogue,,0,0,0,,Nu-i așa, Daiya?
-Dialogue: 20,0:06:08.80,0:06:10.01,Dialogue,,0,0,0,,Ce? Eu?
-Dialogue: 20,0:06:10.01,0:06:12.15,Dialogue,,0,0,0,,Ei bine, este...
-Dialogue: 20,0:06:12.15,0:06:12.95,Dialogue,,0,0,0,,Chestia aia!
-Dialogue: 20,0:06:12.95,0:06:14.89,Dialogue,,0,0,0,,Voiam să vă întrebăm ceva.
-Dialogue: 20,0:06:14.89,0:06:17.60,Dialogue,,0,0,0,,Nu puteați folosi Para-RAID-ul?
-Dialogue: 20,0:06:17.60,0:06:22.44,Dialogue,,0,0,0,,Ei bine, părea că vă distrați, \Niar noi nu voiam să vă intrerupem, știți?
-Dialogue: 20,0:06:22.78,0:06:26.36,Dialogue,,0,0,0,,Ar fi fost ciudat dacă ați \Nfi vorbit despre iubire, nu?
-Dialogue: 20,0:06:26.36,0:06:30.99,Dialogue,,0,0,0,,Doar imaginați-vi-o pe Kurena \Nspunând: "Shin, te iubesc!"
-Dialogue: 20,0:06:30.99,0:06:33.83,Dialogue,,0,0,0,,Ei bine, a cam spus asta.
-Dialogue: 20,0:06:34.44,0:06:35.50,Dialogue,,0,0,0,,Știu!
-Dialogue: 20,0:06:35.50,0:06:38.98,Dialogue,,0,0,0,,Ar trebui s-o păcălim să spună asta fix atunci când se conectează Shin!
-Dialogue: 20,0:06:38.98,0:06:41.59,Dialogue,,0,0,0,,Abia aștept să le văd reacția!
-Dialogue: 20,0:06:41.59,0:06:42.97,Dialogue,,0,0,0,,Vrei să spui reacția lui Kurena.
-Dialogue: 20,0:06:42.97,0:06:44.52,Dialogue,,0,0,0,,Shin e o cauză pierdută.
-Dialogue: 20,0:06:44.52,0:06:47.30,Dialogue,,0,0,0,,Zeul nostru al Morții nici măcar nu va clipi.
-Dialogue: 20,0:06:47.30,0:06:48.92,Dialogue,,0,0,0,,Nu e amuzant deloc!
-Dialogue: 20,0:06:48.92,0:06:51.43,Dialogue,,0,0,0,,N-Nu am spus așa ceva!
-Dialogue: 20,0:06:51.69,0:06:53.91,Dialogue,,0,0,0,,Încetați!
-Dialogue: 20,0:06:52.98,0:06:55.58,Dialogue,,0,0,0,,{\an8}Ești așa drăguță, Kurena!
-Dialogue: 20,0:06:58.96,0:07:02.12,Dialogue,,0,0,0,,Deci ce voiați să ne întrebați?
-Dialogue: 20,0:07:02.12,0:07:03.10,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 20,0:07:03.10,0:07:03.78,Dialogue,,0,0,0,,Daiya?
-Dialogue: 20,0:07:03.78,0:07:05.39,Dialogue,,0,0,0,,Eu din nou?
-Dialogue: 20,0:07:05.39,0:07:07.03,Dialogue,,0,0,0,,Păi... Ei bine...
-Dialogue: 20,0:07:10.89,0:07:12.75,Dialogue,,0,0,0,,Ce este o "vizită nocturnă"?
-Dialogue: 20,0:07:12.75,0:07:14.17,Dialogue,,0,0,0,,Deci voi trăgeați cu urechea!
-Dialogue: 20,0:07:14.17,0:07:15.92,Dialogue,,0,0,0,,Am spus că ne pare rău!
-Dialogue: 20,0:07:15.24,0:07:17.62,Dialogue,,0,0,0,,{\an8}Trebuie să ducem hainele spălate înapoi.
-Dialogue: 20,0:07:16.30,0:07:17.04,Dialogue,,0,0,0,,Unde este Daiya?
-Dialogue: 20,0:07:17.04,0:07:17.69,Dialogue,,0,0,0,,Acolo!
-Dialogue: 20,0:07:17.69,0:07:18.91,Dialogue,,0,0,0,,Daiya!
-Dialogue: 20,0:07:18.15,0:07:21.00,Dialogue,,0,0,0,,{\an8}Hei, Daiya, nu vrei să cari \Ntu hainele în locul meu?
-Dialogue: 20,0:07:21.00,0:07:23.92,Dialogue,,0,0,0,,{\an8}Te rog frumos.
-Dialogue: 20,0:07:27.51,0:07:29.26,Dialogue,,0,0,0,,{\i1}S-a întâmplat ceva?
-Dialogue: 20,0:07:29.61,0:07:31.01,Dialogue,,0,0,0,,Nu. A fost doar un șobolan.
-Dialogue: 20,0:07:31.01,0:07:32.16,Dialogue,,0,0,0,,{\i1}Un șobolan?!
-Dialogue: 20,0:07:32.79,0:07:34.35,Dialogue,,0,0,0,,Ce minciună oribilă.
-Dialogue: 20,0:07:34.66,0:07:36.89,Dialogue,,0,0,0,,{\i1}Sunt șobolani acolo?
-Dialogue: 20,0:07:38.94,0:07:40.39,Dialogue,,0,0,0,,Da.
-Dialogue: 20,0:07:41.90,0:07:42.85,Dialogue,,0,0,0,,Kurena...
-Dialogue: 20,0:07:44.14,0:07:47.55,Dialogue,,0,0,0,,De ce continuă să vorbească cu \Nacea femeie în fiecare seară?
-Dialogue: 20,0:07:47.55,0:07:50.74,Dialogue,,0,0,0,,Ar trebui ca acel timp să-l petreacă cu noi!
-Dialogue: 20,0:07:51.18,0:07:53.20,Dialogue,,0,0,0,,Am putea muri mâine!
-Dialogue: 20,0:07:53.50,0:07:55.35,Dialogue,,0,0,0,,E doar ceva de moment.
-Dialogue: 20,0:07:55.35,0:07:59.09,Dialogue,,0,0,0,,Prințesa va înceta să ne mai \Ncontacteze în cele din urmă.
-Dialogue: 20,0:07:59.09,0:08:01.25,Dialogue,,0,0,0,,Doar pierd timpul amândoi.
-Dialogue: 20,0:08:01.25,0:08:04.75,Dialogue,,0,0,0,,Dar de ce ai fi drăguț cu un porc alb?
-Dialogue: 20,0:08:05.06,0:08:08.43,Dialogue,,0,0,0,,Shin ar trebui s-o distrugă odată.
-Dialogue: 20,0:08:08.43,0:08:11.62,Dialogue,,0,0,0,,Shin nu face asta intenționat.
-Dialogue: 20,0:08:11.62,0:08:14.90,Dialogue,,0,0,0,,Și ai putea să-i spui asta lui Shin?
-Dialogue: 20,0:08:14.90,0:08:18.10,Dialogue,,0,0,0,,Nu o placi, deci vrei ca el s-o distrugă, nu?
-Dialogue: 20,0:08:18.10,0:08:19.30,Dialogue,,0,0,0,,Ai putea să i-o spui?
-Dialogue: 20,0:08:21.24,0:08:22.06,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 20,0:08:23.51,0:08:25.35,Dialogue,,0,0,0,,Dar tot o urăsc.
-Dialogue: 20,0:08:25.96,0:08:29.13,Dialogue,,0,0,0,,Acei porci albi mi-au omorât părinții.
-Dialogue: 20,0:08:29.13,0:08:31.86,Dialogue,,0,0,0,,I-au aruncat afară precum gunoiul și i-au folosit pe post de ținte.
-Dialogue: 20,0:08:32.58,0:08:34.52,Dialogue,,0,0,0,,Toți porcii albi sunt niște nemernici.
-Dialogue: 20,0:08:36.27,0:08:37.85,Dialogue,,0,0,0,,Nu-i voi ierta niciodată.
-Dialogue: 20,0:08:44.76,0:08:46.67,Dialogue,,0,0,0,,{\i1}Serios, Floare de Cireș?
-Dialogue: 20,0:08:46.99,0:08:52.47,Dialogue,,0,0,0,,Da. Erau atât de multe încât părea că plouă.
-Dialogue: 20,0:08:53.54,0:08:55.68,Dialogue,,0,0,0,,Întregul cer era străbătut de linii luminoase.
-Dialogue: 20,0:08:56.43,0:08:58.71,Dialogue,,0,0,0,,Chiar a fost ceva impresionant.
-Dialogue: 20,0:08:58.71,0:09:01.59,Dialogue,,0,0,0,,{\i1}Atât de multe stele căzătoare erau?
-Dialogue: 20,0:09:01.59,0:09:04.53,Dialogue,,0,0,0,,Da, erau atât de mult încât nu le puteai număra.
-Dialogue: 20,0:09:04.53,0:09:05.57,Dialogue,,0,0,0,,O ploaie de stele?
-Dialogue: 20,0:09:05.57,0:09:06.94,Dialogue,,0,0,0,,Și eu am văzut una.
-Dialogue: 20,0:09:07.21,0:09:08.57,Dialogue,,0,0,0,,{\i1}Serios?
-Dialogue: 20,0:09:08.57,0:09:14.50,Dialogue,,0,0,0,,Da, dar eram pe câmpul de luptă, unde ambele părți fuseseră anihilate.
-Dialogue: 20,0:09:14.50,0:09:16.69,Dialogue,,0,0,0,,Iar lângă mine mai era o singură persoană.
-Dialogue: 20,0:09:16.69,0:09:18.95,Dialogue,,0,0,0,,Nu-i așa, Groparule?
-Dialogue: 20,0:09:19.29,0:09:21.88,Dialogue,,0,0,0,,Ei bine, asta nu e foarte romantic.
-Dialogue: 20,0:09:23.08,0:09:26.11,Dialogue,,0,0,0,,În plus, toate Distrugătoarele noastre rămăseseră fără combustibil.
-Dialogue: 20,0:09:26.11,0:09:28.92,Dialogue,,0,0,0,,Și până când Fido a ajuns la noi,
-Dialogue: 20,0:09:28.92,0:09:32.05,Dialogue,,0,0,0,,am fost blocați într-o situație destul de nasoală.
-Dialogue: 20,0:09:32.41,0:09:33.92,Dialogue,,0,0,0,,{\i1}Fido?
-Dialogue: 20,0:09:33.92,0:09:35.89,Dialogue,,0,0,0,,Câinele nostru.
-Dialogue: 20,0:09:35.89,0:09:37.69,Dialogue,,0,0,0,,{\i1}Aveți și un câine?
-Dialogue: 20,0:09:37.69,0:09:42.31,Dialogue,,0,0,0,,Este un câine mai neobișnuit. \NFace "bip" în loc de "ham".
-Dialogue: 20,0:09:42.31,0:09:43.11,Dialogue,,0,0,0,,{\i1}"Bip?"
-Dialogue: 20,0:09:44.04,0:09:48.31,Dialogue,,0,0,0,,Nopțile pe câmpul de luptă sunt așa de întunecate încât e înfiorător.
-Dialogue: 20,0:09:49.50,0:09:56.93,Dialogue,,0,0,0,,Iar apoi, aceste lumini palide și tăcute au început să străbată cerul, una după alta, umplându-l.
-Dialogue: 20,0:09:57.39,0:10:02.71,Dialogue,,0,0,0,,Îmi amintesc că am spus ceva jenant atunci, asta fiind cea mai mare greșeală din viața mea.
-Dialogue: 20,0:10:02.71,0:10:04.69,Dialogue,,0,0,0,,Ce ai spus, lăudărosule?
-Dialogue: 20,0:10:04.69,0:10:06.67,Dialogue,,0,0,0,,Nu vă voi spune.
-Dialogue: 20,0:10:06.67,0:10:07.71,Dialogue,,0,0,0,,{\an8}Dacă acesta...
-Dialogue: 20,0:10:06.67,0:10:08.33,Dialogue,,0,0,0,,Dacă acesta este ultimul lucru pe care-l văd,
-Dialogue: 20,0:10:08.33,0:10:10.08,Dialogue,,0,0,0,,atunci poate că nu e așa de rău.
-Dialogue: 20,0:10:14.38,0:10:17.65,Dialogue,,0,0,0,,Hei, de ce a trebuit să-i spui?
-Dialogue: 20,0:10:17.65,0:10:20.68,Dialogue,,0,0,0,,După ce m-a auzit, Shin a bufnit în râs!
+Dialogue: 100,0:05:58.07,0:05:59.14,Dialogue,,0,0,0,,Theo?
+Dialogue: 100,0:06:01.33,0:06:03.55,Dialogue,,0,0,0,,Deci, ce faceți aici?
+Dialogue: 100,0:06:03.88,0:06:06.66,Dialogue,,0,0,0,,O, păi... Știți voi...
+Dialogue: 100,0:06:06.66,0:06:07.51,Dialogue,,0,0,0,,Nu-i așa, Haruto?
+Dialogue: 100,0:06:07.79,0:06:08.80,Dialogue,,0,0,0,,Nu-i așa, Daiya?
+Dialogue: 100,0:06:08.80,0:06:10.01,Dialogue,,0,0,0,,Ce? Eu?
+Dialogue: 100,0:06:10.01,0:06:12.15,Dialogue,,0,0,0,,Ei bine, este...
+Dialogue: 100,0:06:12.15,0:06:12.95,Dialogue,,0,0,0,,Chestia aia!
+Dialogue: 100,0:06:12.95,0:06:14.89,Dialogue,,0,0,0,,Voiam să vă întrebăm ceva.
+Dialogue: 100,0:06:14.89,0:06:17.60,Dialogue,,0,0,0,,Nu puteați folosi Para-RAID-ul?
+Dialogue: 100,0:06:17.60,0:06:22.44,Dialogue,,0,0,0,,Ei bine, părea că vă distrați, \Niar noi nu voiam să vă intrerupem, știți?
+Dialogue: 100,0:06:22.78,0:06:26.36,Dialogue,,0,0,0,,Ar fi fost ciudat dacă ați \Nfi vorbit despre iubire, nu?
+Dialogue: 100,0:06:26.36,0:06:30.99,Dialogue,,0,0,0,,Doar imaginați-vi-o pe Kurena \Nspunând: "Shin, te iubesc!"
+Dialogue: 100,0:06:30.99,0:06:33.83,Dialogue,,0,0,0,,Ei bine, a cam spus asta.
+Dialogue: 100,0:06:34.44,0:06:35.50,Dialogue,,0,0,0,,Știu!
+Dialogue: 100,0:06:35.50,0:06:38.98,Dialogue,,0,0,0,,Ar trebui s-o păcălim să spună asta fix atunci când se conectează Shin!
+Dialogue: 100,0:06:38.98,0:06:41.59,Dialogue,,0,0,0,,Abia aștept să le văd reacția!
+Dialogue: 100,0:06:41.59,0:06:42.97,Dialogue,,0,0,0,,Vrei să spui reacția lui Kurena.
+Dialogue: 100,0:06:42.97,0:06:44.52,Dialogue,,0,0,0,,Shin e o cauză pierdută.
+Dialogue: 100,0:06:44.52,0:06:47.30,Dialogue,,0,0,0,,Zeul nostru al Morții nici măcar nu va clipi.
+Dialogue: 100,0:06:47.30,0:06:48.92,Dialogue,,0,0,0,,Nu e amuzant deloc!
+Dialogue: 100,0:06:48.92,0:06:51.43,Dialogue,,0,0,0,,N-Nu am spus așa ceva!
+Dialogue: 100,0:06:51.69,0:06:53.91,Dialogue,,0,0,0,,Încetați!
+Dialogue: 100,0:06:52.98,0:06:55.58,Dialogue,,0,0,0,,{\an8}Ești așa drăguță, Kurena!
+Dialogue: 100,0:06:58.96,0:07:02.12,Dialogue,,0,0,0,,Deci ce voiați să ne întrebați?
+Dialogue: 100,0:07:02.12,0:07:03.10,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 100,0:07:03.10,0:07:03.78,Dialogue,,0,0,0,,Daiya?
+Dialogue: 100,0:07:03.78,0:07:05.39,Dialogue,,0,0,0,,Eu din nou?
+Dialogue: 100,0:07:05.39,0:07:07.03,Dialogue,,0,0,0,,Păi... Ei bine...
+Dialogue: 100,0:07:10.89,0:07:12.75,Dialogue,,0,0,0,,Ce este o "vizită nocturnă"?
+Dialogue: 100,0:07:12.75,0:07:14.17,Dialogue,,0,0,0,,Deci voi trăgeați cu urechea!
+Dialogue: 100,0:07:14.17,0:07:15.92,Dialogue,,0,0,0,,Am spus că ne pare rău!
+Dialogue: 100,0:07:15.24,0:07:17.62,Dialogue,,0,0,0,,{\an8}Trebuie să ducem hainele spălate înapoi.
+Dialogue: 100,0:07:16.30,0:07:17.04,Dialogue,,0,0,0,,Unde este Daiya?
+Dialogue: 100,0:07:17.04,0:07:17.69,Dialogue,,0,0,0,,Acolo!
+Dialogue: 100,0:07:17.69,0:07:18.91,Dialogue,,0,0,0,,Daiya!
+Dialogue: 100,0:07:18.15,0:07:21.00,Dialogue,,0,0,0,,{\an8}Hei, Daiya, nu vrei să cari \Ntu hainele în locul meu?
+Dialogue: 100,0:07:21.00,0:07:23.92,Dialogue,,0,0,0,,{\an8}Te rog frumos.
+Dialogue: 100,0:07:27.51,0:07:29.26,Dialogue,,0,0,0,,{\i1}S-a întâmplat ceva?
+Dialogue: 100,0:07:29.61,0:07:31.01,Dialogue,,0,0,0,,Nu. A fost doar un șobolan.
+Dialogue: 100,0:07:31.01,0:07:32.16,Dialogue,,0,0,0,,{\i1}Un șobolan?!
+Dialogue: 100,0:07:32.79,0:07:34.35,Dialogue,,0,0,0,,Ce minciună oribilă.
+Dialogue: 100,0:07:34.66,0:07:36.89,Dialogue,,0,0,0,,{\i1}Sunt șobolani acolo?
+Dialogue: 100,0:07:38.94,0:07:40.39,Dialogue,,0,0,0,,Da.
+Dialogue: 100,0:07:41.90,0:07:42.85,Dialogue,,0,0,0,,Kurena...
+Dialogue: 100,0:07:44.14,0:07:47.55,Dialogue,,0,0,0,,De ce continuă să vorbească cu \Nacea femeie în fiecare seară?
+Dialogue: 100,0:07:47.55,0:07:50.74,Dialogue,,0,0,0,,Ar trebui ca acel timp să-l petreacă cu noi!
+Dialogue: 100,0:07:51.18,0:07:53.20,Dialogue,,0,0,0,,Am putea muri mâine!
+Dialogue: 100,0:07:53.50,0:07:55.35,Dialogue,,0,0,0,,E doar ceva de moment.
+Dialogue: 100,0:07:55.35,0:07:59.09,Dialogue,,0,0,0,,Prințesa va înceta să ne mai \Ncontacteze în cele din urmă.
+Dialogue: 100,0:07:59.09,0:08:01.25,Dialogue,,0,0,0,,Doar pierd timpul amândoi.
+Dialogue: 100,0:08:01.25,0:08:04.75,Dialogue,,0,0,0,,Dar de ce ai fi drăguț cu un porc alb?
+Dialogue: 100,0:08:05.06,0:08:08.43,Dialogue,,0,0,0,,Shin ar trebui s-o distrugă odată.
+Dialogue: 100,0:08:08.43,0:08:11.62,Dialogue,,0,0,0,,Shin nu face asta intenționat.
+Dialogue: 100,0:08:11.62,0:08:14.90,Dialogue,,0,0,0,,Și ai putea să-i spui asta lui Shin?
+Dialogue: 100,0:08:14.90,0:08:18.10,Dialogue,,0,0,0,,Nu o placi, deci vrei ca el s-o distrugă, nu?
+Dialogue: 100,0:08:18.10,0:08:19.30,Dialogue,,0,0,0,,Ai putea să i-o spui?
+Dialogue: 100,0:08:21.24,0:08:22.06,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 100,0:08:23.51,0:08:25.35,Dialogue,,0,0,0,,Dar tot o urăsc.
+Dialogue: 100,0:08:25.96,0:08:29.13,Dialogue,,0,0,0,,Acei porci albi mi-au omorât părinții.
+Dialogue: 100,0:08:29.13,0:08:31.86,Dialogue,,0,0,0,,I-au aruncat afară precum gunoiul și i-au folosit pe post de ținte.
+Dialogue: 100,0:08:32.58,0:08:34.52,Dialogue,,0,0,0,,Toți porcii albi sunt niște nemernici.
+Dialogue: 100,0:08:36.27,0:08:37.85,Dialogue,,0,0,0,,Nu-i voi ierta niciodată.
+Dialogue: 100,0:08:44.76,0:08:46.67,Dialogue,,0,0,0,,{\i1}Serios, Floare de Cireș?
+Dialogue: 100,0:08:46.99,0:08:52.47,Dialogue,,0,0,0,,Da. Erau atât de multe încât părea că plouă.
+Dialogue: 100,0:08:53.54,0:08:55.68,Dialogue,,0,0,0,,Întregul cer era străbătut de linii luminoase.
+Dialogue: 100,0:08:56.43,0:08:58.71,Dialogue,,0,0,0,,Chiar a fost ceva impresionant.
+Dialogue: 100,0:08:58.71,0:09:01.59,Dialogue,,0,0,0,,{\i1}Atât de multe stele căzătoare erau?
+Dialogue: 100,0:09:01.59,0:09:04.53,Dialogue,,0,0,0,,Da, erau atât de mult încât nu le puteai număra.
+Dialogue: 100,0:09:04.53,0:09:05.57,Dialogue,,0,0,0,,O ploaie de stele?
+Dialogue: 100,0:09:05.57,0:09:06.94,Dialogue,,0,0,0,,Și eu am văzut una.
+Dialogue: 100,0:09:07.21,0:09:08.57,Dialogue,,0,0,0,,{\i1}Serios?
+Dialogue: 100,0:09:08.57,0:09:14.50,Dialogue,,0,0,0,,Da, dar eram pe câmpul de luptă, unde ambele părți fuseseră anihilate.
+Dialogue: 100,0:09:14.50,0:09:16.69,Dialogue,,0,0,0,,Iar lângă mine mai era o singură persoană.
+Dialogue: 100,0:09:16.69,0:09:18.95,Dialogue,,0,0,0,,Nu-i așa, Groparule?
+Dialogue: 100,0:09:19.29,0:09:21.88,Dialogue,,0,0,0,,Ei bine, asta nu e foarte romantic.
+Dialogue: 100,0:09:23.08,0:09:26.11,Dialogue,,0,0,0,,În plus, toate Distrugătoarele noastre rămăseseră fără combustibil.
+Dialogue: 100,0:09:26.11,0:09:28.92,Dialogue,,0,0,0,,Și până când Fido a ajuns la noi,
+Dialogue: 100,0:09:28.92,0:09:32.05,Dialogue,,0,0,0,,am fost blocați într-o situație destul de nasoală.
+Dialogue: 100,0:09:32.41,0:09:33.92,Dialogue,,0,0,0,,{\i1}Fido?
+Dialogue: 100,0:09:33.92,0:09:35.89,Dialogue,,0,0,0,,Câinele nostru.
+Dialogue: 100,0:09:35.89,0:09:37.69,Dialogue,,0,0,0,,{\i1}Aveți și un câine?
+Dialogue: 100,0:09:37.69,0:09:42.31,Dialogue,,0,0,0,,Este un câine mai neobișnuit. \NFace "bip" în loc de "ham".
+Dialogue: 100,0:09:42.31,0:09:43.11,Dialogue,,0,0,0,,{\i1}"Bip?"
+Dialogue: 100,0:09:44.04,0:09:48.31,Dialogue,,0,0,0,,Nopțile pe câmpul de luptă sunt așa de întunecate încât e înfiorător.
+Dialogue: 100,0:09:49.50,0:09:56.93,Dialogue,,0,0,0,,Iar apoi, aceste lumini palide și tăcute au început să străbată cerul, una după alta, umplându-l.
+Dialogue: 100,0:09:57.39,0:10:02.71,Dialogue,,0,0,0,,Îmi amintesc că am spus ceva jenant atunci, asta fiind cea mai mare greșeală din viața mea.
+Dialogue: 100,0:10:02.71,0:10:04.69,Dialogue,,0,0,0,,Ce ai spus, lăudărosule?
+Dialogue: 100,0:10:04.69,0:10:06.67,Dialogue,,0,0,0,,Nu vă voi spune.
+Dialogue: 100,0:10:06.67,0:10:07.71,Dialogue,,0,0,0,,{\an8}Dacă acesta...
+Dialogue: 100,0:10:06.67,0:10:08.33,Dialogue,,0,0,0,,Dacă acesta este ultimul lucru pe care-l văd,
+Dialogue: 100,0:10:08.33,0:10:10.08,Dialogue,,0,0,0,,atunci poate că nu e așa de rău.
+Dialogue: 100,0:10:14.38,0:10:17.65,Dialogue,,0,0,0,,Hei, de ce a trebuit să-i spui?
+Dialogue: 100,0:10:17.65,0:10:20.68,Dialogue,,0,0,0,,După ce m-a auzit, Shin a bufnit în râs!
 Dialogue: 100,0:10:20.68,0:10:23.13,Dialogue,,0,0,0,,Mă îndoiesc că vom mai \Nvedea vreodată așa ceva.
 Dialogue: 100,0:10:23.13,0:10:26.35,Dialogue,,0,0,0,,{\i1}Mi-aș fi dorit să fi văzut \Nși eu ploaia de stele.
 Dialogue: 100,0:10:26.35,0:10:28.72,Dialogue,,0,0,0,,Nu ai putut s-o vezi din locul în care erai?
