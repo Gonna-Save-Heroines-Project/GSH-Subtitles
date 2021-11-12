@@ -24,25 +24,25 @@ Style: OP TL,LT Emphasis,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:06.24,0:00:08.90,Dialogue,,0,0,0,,{\i1}Supervizorul 1 către Gropar.
+Dialogue: 100,0:00:06.24,0:00:08.90,Dialogue,,0,0,0,,{\i1}Supervizorul unu către Gropar.
 Dialogue: 100,0:00:08.90,0:00:13.56,Dialogue,,0,0,0,,{\i1}Forțele inamice de interceptare au fost detectate în punctele 30 și 504.
 Dialogue: 100,0:00:13.56,0:00:18.38,Dialogue,,0,0,0,,{\i1}Conțin drone de tipul antitanc și rază scurtă.
 Dialogue: 100,0:00:18.38,0:00:21.58,Dialogue,,0,0,0,,{\i1}Către toate unitățile, avansați \Nși eliminați-le cât mai repede.
 Dialogue: 100,0:00:22.44,0:00:28.82,Dialogue,,0,0,0,,{\i1}Deși, cu atât de multe, pariez că niciunul dintre voi nu va scăpa cu viață!
 Dialogue: 100,0:00:30.96,0:00:32.94,Dialogue,,0,0,0,,{\i1}Haideți! Mai repede!
 Dialogue: 100,0:00:32.94,0:00:34.86,Dialogue,,0,0,0,,{\i1}Mergeți, porcilor!
-Dialogue: 100,0:00:35.84,0:00:41.19,Dialogue,,0,0,0,,{\i1}Luptați până nu va mai rămâne nimic din voi, gunoaie din Districtul 86!
-Dialogue: 100,0:00:48.03,0:00:49.90,Dialogue,,0,0,0,,{\i1}Ce este asta?
+Dialogue: 100,0:00:35.84,0:00:41.19,Dialogue,,0,0,0,,{\i1}Luptați până nu va mai rămâne nimic din voi, gunoaie din Sectorul 86!
+Dialogue: 100,0:00:48.03,0:00:49.90,Dialogue,,0,0,0,,{\i1}Ce e asta?
 Dialogue: 100,0:00:50.48,0:00:52.69,Dialogue,,0,0,0,,{\i1}Hei, încetează!
 Dialogue: 100,0:00:54.03,0:00:55.95,Dialogue,,0,0,0,,{\i1}Oprește-te! Nu te apropia!
 Dialogue: 100,0:00:56.67,0:00:58.95,Dialogue,,0,0,0,,{\i1}Taci! Taci dracului odată!
-Dialogue: 100,0:01:52.31,0:02:00.18,Dialogue,,0,0,0,,{\i1}După cum puteți vedea, avem parte de o altă zi frumoasă în toate cele 85 de districte ale Republicii!
+Dialogue: 100,0:01:52.31,0:02:00.18,Dialogue,,0,0,0,,{\i1}După cum puteți vedea, avem parte de o altă zi frumoasă în toate cele 85 de sectoare ale Republicii!
 Dialogue: 100,0:02:00.18,0:02:03.25,Dialogue,,0,0,0,,{\i1}Deci de ce nu vă petrece timpul \Nafară cu prietenii și familia?
 Dialogue: 100,0:02:03.25,0:02:08.31,Dialogue,,0,0,0,,{\i1}Vremea se va înrăutăți puțin mâine, dar nu veți avea nevoie de umbrelă.
 Dialogue: 100,0:02:08.58,0:02:10.81,Dialogue,,0,0,0,,{\i1}Vă doresc un weekend plăcut tuturor!
 Dialogue: 100,0:02:12.93,0:02:17.78,Dialogue,,0,0,0,,{\i1}Acum urmează raportul sediului \Nmilitar din San Magnolia!
 Dialogue: 100,0:02:18.64,0:02:22.32,Dialogue,,0,0,0,,{\i1}Un grup de drone, cunoscute ca Legiune,
-Dialogue: 100,0:02:22.32,0:02:25.29,Dialogue,,0,0,0,,{\i1}ale fostului Imperiu Giadian, care au invadat zona de luptă a Districtului 17,
+Dialogue: 100,0:02:22.32,0:02:25.29,Dialogue,,0,0,0,,{\i1}ale fostului Imperiu Giadian, care a invadat zona de luptă a Sectorului 17,
 Dialogue: 100,0:02:25.29,0:02:28.65,Dialogue,,0,0,0,,{\i1}au suferit daune masive produse de unitățile noastre autonome, cunoscute ca Distrugătoare,
 Dialogue: 100,0:02:28.65,0:02:31.06,Dialogue,,0,0,0,,{\i1}și au fost forțate să se retragă.
 Dialogue: 100,0:02:31.06,0:02:35.43,Dialogue,,0,0,0,,{\i1}Daunele suferite de armata noastră au fost minime, fără a fi înregistrate decese.
@@ -75,25 +75,25 @@ Dialogue: 100,0:04:01.05,0:04:03.36,Dialogue,,0,0,0,,Da, da.
 Dialogue: 100,0:04:03.36,0:04:06.23,Dialogue,,0,0,0,,Nu sunt destul de trează \Nîncât să-ți ascult discursurile.
 Dialogue: 100,0:04:06.87,0:04:11.11,Dialogue,,0,0,0,,Ce naiba e cu acel Procesor? \NEste doar o componentă!
 Dialogue: 100,0:04:11.11,0:04:12.53,Dialogue,,0,0,0,,Așa este!
-Dialogue: 100,0:04:12.53,0:04:18.03,Dialogue,,0,0,0,,Noi suntem din Districtul 1. De ce trebuie să ascultăm tâmpeniile porcilor din Districtul 86?
+Dialogue: 100,0:04:12.53,0:04:18.03,Dialogue,,0,0,0,,Noi suntem din Sectorul 1. De ce trebuie să ascultăm tâmpeniile porcilor din Sectorul 86?
 Dialogue: 100,0:04:24.10,0:04:27.96,Dialogue,,0,0,0,,De ce îți pasă atât de mult de drone, Lena?
 Dialogue: 100,0:04:27.96,0:04:30.54,Dialogue,,0,0,0,,Ei nu sunt drone.
 Dialogue: 100,0:04:31.86,0:04:33.63,Dialogue,,0,0,0,,Voi reformula.
-Dialogue: 100,0:04:33.63,0:04:37.29,Dialogue,,0,0,0,,De ce îți pasă atât de mult \Nde cei din Districtul 86?
+Dialogue: 100,0:04:33.63,0:04:37.29,Dialogue,,0,0,0,,De ce îți pasă atât de mult \Nde cei din Sectorul 86?
 Dialogue: 100,0:04:45.26,0:04:48.55,Dialogue,,0,0,0,,Se pare că ești chemată la datorie, prințesă.
 Dialogue: 100,0:05:08.64,0:05:10.04,Dialogue,,0,0,0,,Inițiez confirmarea identității.
-Dialogue: 100,0:05:10.04,0:05:14.03,Dialogue,,0,0,0,,Maior Vladilena Milizé. Regiunea estică a zonei de luptă din Districtul 9.
+Dialogue: 100,0:05:10.04,0:05:14.03,Dialogue,,0,0,0,,Maior Vladilena Milizé. Regiunea estică a zonei de luptă din Sectorul 9.
 Dialogue: 100,0:05:14.03,0:05:16.32,Dialogue,,0,0,0,,Ofițerul de comandament \Nși control al escadronului 3.
 Dialogue: 100,0:05:27.93,0:05:29.43,Dialogue,,0,0,0,,Activez Para-RAID.
 Dialogue: 100,0:05:29.87,0:05:33.27,Dialogue,,0,0,0,,Sincronizare cu Procesorul Pleiade.
 Dialogue: 100,0:05:36.13,0:05:37.27,Dialogue,,0,0,0,,Sincronizare completă.
-Dialogue: 100,0:05:38.01,0:05:40.39,Dialogue,,0,0,0,,Supervizorul 1 către Pleiade:
+Dialogue: 100,0:05:38.01,0:05:40.39,Dialogue,,0,0,0,,Supervizorul unu către Pleiade:
 Dialogue: 100,0:05:40.39,0:05:42.36,Dialogue,,0,0,0,,Mă bucur să lucrez și astăzi cu tine.
-Dialogue: 100,0:05:43.68,0:05:45.94,Dialogue,,0,0,0,,{\i1}Pleiadele către supervizorul 1:
+Dialogue: 100,0:05:43.68,0:05:45.94,Dialogue,,0,0,0,,{\i1}Pleiadele către supervizorul unu:
 Dialogue: 100,0:05:45.94,0:05:47.32,Dialogue,,0,0,0,,{\i1}Sincronizarea a reușit.
 Dialogue: 100,0:05:48.46,0:05:52.22,Dialogue,,0,0,0,,Ai grijă. Inamicul intră în zona de tragere.
 Dialogue: 100,0:05:52.22,0:05:53.04,Dialogue,,0,0,0,,Înaintează cu...
-Dialogue: 100,0:05:53.04,0:05:57.79,Dialogue,,0,0,0,,{\i1}Ești mereu așa de drăguță cu noi, \Nanimalele din Districtul 86.
+Dialogue: 100,0:05:53.04,0:05:57.79,Dialogue,,0,0,0,,{\i1}Ești mereu așa de drăguță cu noi, \Nanimalele din Sectorul 86.
 Dialogue: 100,0:05:58.55,0:06:02.01,Dialogue,,0,0,0,,{\i1}Cât de frumos din partea ta, bunule om.
 Dialogue: 100,0:06:06.90,0:06:11.31,Dialogue,,0,0,0,,Mă veți transfera la o altă unitate, \Ndomnule general Karlstahl?
 Dialogue: 100,0:06:11.31,0:06:12.04,Dialogue,,0,0,0,,Așa este.
@@ -101,7 +101,7 @@ Dialogue: 100,0:06:12.56,0:06:16.52,Dialogue,,0,0,0,,Supervizorul ei se retrage 
 Dialogue: 100,0:06:16.85,0:06:21.34,Dialogue,,0,0,0,,deci este nevoie de cineva care să-l înlocuiască.
 Dialogue: 100,0:06:21.34,0:06:24.23,Dialogue,,0,0,0,,Dacă unitatea nu poate fi retrasă până ce se găsește un înlocuitor,
 Dialogue: 100,0:06:24.23,0:06:26.47,Dialogue,,0,0,0,,asta înseamnă că apără o bază importantă?
-Dialogue: 100,0:06:26.47,0:06:30.72,Dialogue,,0,0,0,,Da, este vorba de escadronul 1 care apără regiunea estică din zona de luptă a Districtului 1.
+Dialogue: 100,0:06:26.47,0:06:30.72,Dialogue,,0,0,0,,Da, este vorba de escadronul 1 care apără regiunea estică din zona de luptă a Sectorului 1.
 Dialogue: 100,0:06:30.72,0:06:33.20,Dialogue,,0,0,0,,Cunoscut oficial drept \Nescadronul Vârf de Lance.
 Dialogue: 100,0:06:33.51,0:06:36.77,Dialogue,,0,0,0,,Este format din veterani \Ndin întreaga regiune estică.
 Dialogue: 100,0:06:36.77,0:06:39.13,Dialogue,,0,0,0,,Poți spune că e o unitate de elită.
@@ -152,7 +152,7 @@ Dialogue: 100,0:08:53.38,0:08:54.09,Dialogue,,0,0,0,,Lena.
 Dialogue: 100,0:08:57.36,0:08:59.85,Dialogue,,0,0,0,,Chiar ești exact ca Václav.
 Dialogue: 100,0:09:02.98,0:09:04.29,Dialogue,,0,0,0,,Foarte bine.
 Dialogue: 100,0:09:04.29,0:09:07.77,Dialogue,,0,0,0,,Te numesc pe tine, Vladilena Milizé, drept ofițerul de comandament și control,
-Dialogue: 100,0:09:07.77,0:09:11.06,Dialogue,,0,0,0,,supervizorul escadronului 1 din \Nzona de luptă a Districtului 1.
+Dialogue: 100,0:09:07.77,0:09:11.06,Dialogue,,0,0,0,,supervizorul escadronului 1 din \Nzona de luptă a Sectorului 1.
 Dialogue: 100,0:09:11.06,0:09:13.42,Dialogue,,0,0,0,,Să ai toate documentele\N pregătite când ajungi acolo.
 Dialogue: 100,0:09:14.28,0:09:15.11,Dialogue,,0,0,0,,Mult noroc.
 Dialogue: 100,0:09:16.43,0:09:19.26,Dialogue,,0,0,0,,Voi da tot ce pot până \Nla ultima mea misiune.
@@ -185,7 +185,7 @@ Dialogue: 100,0:10:33.52,0:10:35.91,Dialogue,,0,0,0,,Atunci, nu ați vorbit cu G
 Dialogue: 100,0:10:35.91,0:10:37.20,Dialogue,,0,0,0,,Doar am citit raportul.
 Dialogue: 100,0:10:37.20,0:10:39.48,Dialogue,,0,0,0,,Spunea: "Habar n-avem."
 Dialogue: 100,0:10:39.48,0:10:43.20,Dialogue,,0,0,0,,Le-am spus despre supervizorul mort, iar tot ce au spus ei a fost: "Bine."
-Dialogue: 100,0:10:43.20,0:10:45.35,Dialogue,,0,0,0,,Păi, ce așteptări să ai de la \Nrezidenții Districtului 86?
+Dialogue: 100,0:10:43.20,0:10:45.35,Dialogue,,0,0,0,,Păi, ce așteptări să ai de la \Nrezidenții Sectorului 86?
 Dialogue: 100,0:10:46.01,0:10:50.48,Dialogue,,0,0,0,,Totuși, nu este imposibil ca Para-RAID-ul să nu te facă să-ți pierzi mințile.
 Dialogue: 100,0:10:50.48,0:10:52.72,Dialogue,,0,0,0,,Pune presiune suplimentară \Npe creier ca să poată
 Dialogue: 100,0:10:52.72,0:10:55.04,Dialogue,,0,0,0,,împărtăși informații senzoriale cu o altă persoană.
@@ -204,7 +204,7 @@ Dialogue: 100,0:11:34.49,0:11:35.66,Dialogue,,0,0,0,,Mersi.
 Dialogue: 100,0:11:35.66,0:11:37.21,Dialogue,,0,0,0,,Dar suntem la război acum.
 Dialogue: 100,0:11:37.21,0:11:39.71,Dialogue,,0,0,0,,Acele Procesoare sunt nebune!
 Dialogue: 100,0:11:39.71,0:11:41.97,Dialogue,,0,0,0,,Nu știm ce efecte poate avea folosirea \NPara-RAID-ului pe termen lung.
-Dialogue: 100,0:11:41.97,0:11:44.85,Dialogue,,0,0,0,,Oricum, cei din Districtul 86 mor repede, \Ndeci asta nu prea contează pentru ei.
+Dialogue: 100,0:11:41.97,0:11:44.85,Dialogue,,0,0,0,,Oricum, cei din Sectorul 86 mor repede, \Ndeci asta nu prea contează pentru ei.
 Dialogue: 100,0:11:44.85,0:11:46.58,Dialogue,,0,0,0,,Dar nu vrea ca tu să pățești ceva.
 Dialogue: 100,0:11:46.58,0:11:49.06,Dialogue,,0,0,0,,Dar tot este un lucru pe \Ncare doar fricoșii l-ar face.
 Dialogue: 100,0:11:51.61,0:11:52.66,Dialogue,,0,0,0,,Da, da.
@@ -236,25 +236,25 @@ Dialogue: 100,0:13:07.00,0:13:09.86,Dialogue,,0,0,0,,Le-am lăsat în cutia poș
 Dialogue: 100,0:13:16.42,0:13:18.04,Dialogue,,0,0,0,,{\an8}Ce s-a întâmplat, Pleiade?
 Dialogue: 100,0:13:18.04,0:13:19.36,Dialogue,,0,0,0,,{\an8}Răspunde!
 Dialogue: 100,0:13:19.63,0:13:21.37,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:13:21.37,0:13:22.93,Dialogue,,0,0,0,,Supervizorul 1 către Pleiade!
+Dialogue: 100,0:13:21.37,0:13:22.93,Dialogue,,0,0,0,,Supervizorul unu către Pleiade!
 Dialogue: 100,0:13:22.93,0:13:23.86,Dialogue,,0,0,0,,{\i1}Încetează...
 Dialogue: 100,0:13:24.88,0:13:25.98,Dialogue,,0,0,0,,{\i1}Este mort!
 Dialogue: 100,0:13:33.79,0:13:35.70,Dialogue,,0,0,0,,{\i1}Retragerea! Acum!
 Dialogue: 100,0:13:35.70,0:13:37.33,Dialogue,,0,0,0,,{\i1}La naiba!
-Dialogue: 100,0:13:38.98,0:13:41.63,Dialogue,,0,0,0,,Supervizorul 1 către toți membrii escadronului 3.
+Dialogue: 100,0:13:38.98,0:13:41.63,Dialogue,,0,0,0,,Supervizorul unu către toți membrii escadronului 3.
 Dialogue: 100,0:13:42.54,0:13:45.28,Dialogue,,0,0,0,,Inamicul a început să se retragă.
 Dialogue: 100,0:13:45.28,0:13:48.40,Dialogue,,0,0,0,,Escadronul 4 va prelua \Nmisiunea de patrulare.
 Dialogue: 100,0:13:48.40,0:13:51.30,Dialogue,,0,0,0,,Întoarceți-vă la bază.
 Dialogue: 100,0:13:51.30,0:13:52.35,Dialogue,,0,0,0,,{\i1}Recepționat.
 Dialogue: 100,0:13:55.12,0:13:58.90,Dialogue,,0,0,0,,Pleiade și alți șase au murit...
 Dialogue: 100,0:14:00.04,0:14:02.40,Dialogue,,0,0,0,,Îmi pare foarte rău pentru asta.
-Dialogue: 100,0:14:04.04,0:14:08.72,Dialogue,,0,0,0,,{\i1}Ca întotdeauna, îți mulțumim pentru frumoasele cuvinte, supervizor 1.
+Dialogue: 100,0:14:04.04,0:14:08.72,Dialogue,,0,0,0,,{\i1}Ca întotdeauna, îți mulțumim pentru frumoasele cuvinte, supervizor unu.
 Dialogue: 100,0:14:11.06,0:14:12.63,Dialogue,,0,0,0,,După cum știți,
 Dialogue: 100,0:14:12.63,0:14:18.04,Dialogue,,0,0,0,,escadronul 3 va primi un nou supervizor.
 Dialogue: 100,0:14:18.89,0:14:20.90,Dialogue,,0,0,0,,Vă mulțumesc pentru tot.
 Dialogue: 100,0:14:23.46,0:14:27.10,Dialogue,,0,0,0,,Eu voi deveni ofițerul de comandament și control al escadronului Vârf de Lance.
 Dialogue: 100,0:14:28.05,0:14:29.89,Dialogue,,0,0,0,,{\i1}Astea sunt vești bune.
-Dialogue: 100,0:14:31.00,0:14:34.18,Dialogue,,0,0,0,,{\i1}Te compătimesc, supervizor 1, \Ndar chiar mă bucur că se întâmplă asta.
+Dialogue: 100,0:14:31.00,0:14:34.18,Dialogue,,0,0,0,,{\i1}Te compătimesc, supervizor unu, \Ndar chiar mă bucur că se întâmplă asta.
 Dialogue: 100,0:14:34.18,0:14:35.18,Dialogue,,0,0,0,,Ce vrei să spui...
 Dialogue: 100,0:14:35.18,0:14:36.98,Dialogue,,0,0,0,,{\i1}Salută-l pe Zeul Morții din partea mea.
 Dialogue: 100,0:15:01.10,0:15:02.93,Dialogue,,0,0,0,,Activez Para-RAID-ul.
@@ -315,11 +315,11 @@ Dialogue: 100,0:20:30.46,0:20:31.35,Dialogue,,0,0,0,,Înțeleg.
 Dialogue: 100,0:20:54.62,0:20:56.31,Dialogue,,0,0,0,,{\an8}Ai mâncat tot deja.
 Dialogue: 100,0:20:58.16,0:20:59.66,Dialogue,,0,0,0,,{\an8}Ești varză.
 Dialogue: 100,0:20:59.66,0:21:00.61,Dialogue,,0,0,0,,{\an8}Am câștigat!
-Dialogue: 100,0:21:22.54,0:21:26.34,Dialogue,,0,0,0,,{\i1}Supervizorul 1 către toți membrii \Nescadronului Vârf de Lance.
+Dialogue: 100,0:21:22.54,0:21:26.34,Dialogue,,0,0,0,,{\i1}Supervizorul unu către toți membrii \Nescadronului Vârf de Lance.
 Dialogue: 100,0:21:26.86,0:21:31.73,Dialogue,,0,0,0,,{\i1}Salutare. Eu sunt noul vostru ofițer de comandament și control.
 Dialogue: 100,0:21:31.73,0:21:33.06,Dialogue,,0,0,0,,O femeie?
 Dialogue: 100,0:21:33.06,0:21:36.52,Dialogue,,0,0,0,,{\i1}V-am contactat în această \Nseară ca să mă prezint.
-Dialogue: 100,0:21:40.35,0:21:42.50,Dialogue,,0,0,0,,Salutare, supervizor 1.
+Dialogue: 100,0:21:40.35,0:21:42.50,Dialogue,,0,0,0,,Salutare, supervizor unu.
 Dialogue: 100,0:21:42.50,0:21:45.05,Dialogue,,0,0,0,,Eu sunt căpitanul \Nescadronului Vârf de Lance,
 Dialogue: 100,0:21:45.05,0:21:47.66,Dialogue,,0,0,0,,nume de cod: Groparul.
 Dialogue: 100,0:21:47.95,0:21:51.10,Dialogue,,0,0,0,,{\i1}Am primit vestea că vom \Navea un nou supervizor.
