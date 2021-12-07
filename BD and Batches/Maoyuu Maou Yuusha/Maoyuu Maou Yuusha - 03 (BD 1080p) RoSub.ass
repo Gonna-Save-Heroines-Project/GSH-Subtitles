@@ -15,444 +15,445 @@ Video Zoom: 6
 Last Style Storage: Default
 Audio File: maoyuu03_premux.mkv
 Video Zoom Percent: 1.000000
-Active Line: 23
+Scroll Position: 45
+Active Line: 51
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Profile,48,&H00FFFFFF,&H000000FF,&H00160012,&H00000000,-1,0,0,0,106,100,0,0,1,2,0,2,90,90,30,1
-Style: Titles,Clearly Gothic Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Dialogue,Profile,48,&H00FFFFFF,&H000000FF,&H00160012,&H00000000,-1,0,0,0,106,100,0,0,1,2,0,2,90,90,30,1
+Style: DedzuyaSigns,Clearly Gothic Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: OP,Segoe Script,60,&H00FAFCFE,&H000000FF,&H002D424E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,40,40,18,1
 Style: ED,Mistral,65,&H003C3740,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,40,40,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.08,0:00:02.64,Default,Y,0,0,0,,Au trecut trei luni.
-Dialogue: 100,0:00:02.64,0:00:05.23,Default,M,0,0,0,,Trei luni și nouă zile, mai exact.
-Dialogue: 100,0:00:07.99,0:00:09.78,Default,Y,0,0,0,,Chiar au început să crească...
-Dialogue: 100,0:00:09.78,0:00:11.85,Default,M,0,0,0,,Experimentul decurge foarte bine.
-Dialogue: 100,0:00:11.85,0:00:13.53,Default,Villagers,0,0,0,,Domnișoară cercetătoare!
-Dialogue: 100,0:00:13.53,0:00:15.21,Default,M,0,0,0,,Bună dimineața!
-Dialogue: 100,0:00:15.21,0:00:17.28,Default,Villagers,0,0,0,,Bună dimineața.
-Dialogue: 100,0:00:18.87,0:00:21.38,Default,Villagers,0,0,0,,Chiar cresc.
-Dialogue: 100,0:00:21.38,0:00:23.71,Default,Villagers,0,0,0,,Primarul a fost surprins.
-Dialogue: 100,0:00:23.71,0:00:28.84,Default,Villagers,0,0,0,,Deci le mărunțiți{tocați, tăiați subtirii}, le prăjiți în ulei, le puneți sare și le mâncați?
-Dialogue: 100,0:00:28.84,0:00:31.55,Default,M,0,0,0,,Sunt așa de bune încât nu vă veți mai putea opri din mâncat.
-Dialogue: 100,0:00:31.99,0:00:34.96,Default,M,0,0,0,,Când va veni vremea recoltării{culegerii}, îl vom invita pe primar la o petrecere.
-Dialogue: 100,0:02:09.81,0:02:13.58,Default,Y,0,0,0,,Voiam să lucrez câmpul alături de restul oamenilor.
-Dialogue: 100,0:02:13.58,0:02:16.12,Default,M,0,0,0,,Ai încercat asta o dată și a fost un dezastru total.
-Dialogue: 100,0:02:16.12,0:02:17.90,Default,M,0,0,0,,Nu ți-ai putut stăpâni puterea.
-Dialogue: 100,0:02:19.03,0:02:21.20,Default,Y,0,0,0,,Eram sigur că mă abțineam.
-Dialogue: 100,0:02:24.66,0:02:26.66,Default,M,0,0,0,,Se pare că se potrivesc{integrează} bine{perfect}.
-Dialogue: 100,0:02:27.32,0:02:28.71,Default,M,0,0,0,,Mă bucur să văd asta.
-Dialogue: 100,0:02:29.99,0:02:32.09,Default,Ma,0,0,0,,Cum a fost să ieși afară după atâta timp?
-Dialogue: 100,0:02:32.09,0:02:33.55,Default,M,0,0,0,,Arată bine.
-Dialogue: 100,0:02:33.55,0:02:35.58,Default,M,0,0,0,,Putem începe recoltarea{culegerea} de astăzi.
-Dialogue: 100,0:02:35.58,0:02:36.84,Default,Ma,0,0,0,,Excelent.
-Dialogue: 100,0:02:36.84,0:02:39.38,Default,Ma,0,0,0,,Alte lucruri bune de raportat?
-Dialogue: 100,0:02:40.63,0:02:41.98,Default,M,0,0,0,,Nimic altceva.
-Dialogue: 100,0:02:41.98,0:02:44.92,Default,Ma,0,0,0,,I don't care how minor it may be.
-Dialogue: 100,0:02:44.92,0:02:46.06,Default,M,0,0,0,,No, nothing.
-Dialogue: 100,0:02:58.95,0:03:00.03,Default,Y,0,0,0,,We'll walk the rest of the way.
-Dialogue: 100,0:03:00.83,0:03:03.10,Default,Y,0,0,0,,That big stone building is the convent
-Dialogue: 100,0:03:03.10,0:03:05.62,Default,,0,0,0,,that oversees the nuns of this area.
-Dialogue: 100,0:03:05.62,0:03:09.32,Default,M,0,0,0,,The Lake Country isn't as cold as the Winter Country.
-Dialogue: 100,0:03:09.89,0:03:11.84,Default,Y,0,0,0,,It's pretty far north.
-Dialogue: 100,0:03:11.84,0:03:13.08,Default,Y,0,0,0,,Let's hurry up a little.
-Dialogue: 100,0:03:13.68,0:03:15.66,Default,Y,0,0,0,,The church emphasizes punctuality.
-Dialogue: 100,0:03:15.66,0:03:16.38,Default,M,0,0,0,,Yeah.
-Dialogue: 100,0:03:17.56,0:03:21.72,Default,M,0,0,0,,I guess all humans, from nobles to serfs, are very devout.
-Dialogue: 100,0:03:21.72,0:03:24.62,Default,Y,0,0,0,,Yeah, like you can't imagine.
-Dialogue: 100,0:03:24.62,0:03:27.71,Default,M,0,0,0,,"The Spirit's light illuminates the world,
-Dialogue: 100,0:03:27.71,0:03:30.14,Default,M,0,0,0,,bringing rest and peace to good folk."
-Dialogue: 100,0:03:30.82,0:03:33.15,Default,M,0,0,0,,Do you worship the Light Spirit as well?
-Dialogue: 100,0:03:34.95,0:03:36.83,Default,Y,0,0,0,,I wouldn't call it worship.
-Dialogue: 100,0:03:37.48,0:03:40.99,Default,Y,0,0,0,,When I'm fighting, I can feel the Spirit close to me.
-Dialogue: 100,0:03:41.98,0:03:45.12,Default,Y,0,0,0,,I've heard her voice, so she's more like a friend.
-Dialogue: 100,0:03:45.75,0:03:47.40,Default,Y,0,0,0,,The Spirit's just a pushover
-Dialogue: 100,0:03:47.40,0:03:50.75,Default,,0,0,0,,who can't refuse anything someone asks of her.
-Dialogue: 100,0:03:50.75,0:03:52.42,Default,M,0,0,0,,I'm glad to hear that.
-Dialogue: 100,0:03:53.51,0:03:58.25,Default,M,0,0,0,,If you were a devout believer, I would've felt bad.
-Dialogue: 100,0:03:58.25,0:03:59.70,Default,Y,0,0,0,,Oh, don't worry.
-Dialogue: 100,0:04:00.33,0:04:03.01,Default,Y,0,0,0,,I just find the church very impressive.
-Dialogue: 100,0:04:04.45,0:04:07.69,Default,Y,0,0,0,,Everyone learns to read and write at the church.
-Dialogue: 100,0:04:07.69,0:04:11.60,Default,,0,0,0,,And I've heard they do some type of difficult research as well.
-Dialogue: 100,0:04:11.88,0:04:14.15,Default,Y,0,0,0,,Nobles who care for such things
-Dialogue: 100,0:04:14.15,0:04:16.78,Default,,0,0,0,,care more about the church than the king.
-Dialogue: 100,0:04:16.78,0:04:17.86,Default,M,0,0,0,,I'm sure.
-Dialogue: 100,0:04:17.86,0:04:23.36,Default,M,0,0,0,,Almost all human education and science relies on the church.
-Dialogue: 100,0:04:24.02,0:04:26.73,Default,M,0,0,0,,I hope to take advantage of their power as an organization.
-Dialogue: 100,0:04:28.87,0:04:29.82,Default,Y,0,0,0,,Let's go.
-Dialogue: 100,0:04:29.82,0:04:30.89,Default,M,0,0,0,,Yeah.
-Dialogue: 100,0:04:32.25,0:04:35.04,Default,M,0,0,0,,It's nice to see a busy town once in a while.
-Dialogue: 100,0:04:38.91,0:04:39.92,Default,M,0,0,0,,Is this it?
-Dialogue: 100,0:04:39.92,0:04:40.61,Default,Y,0,0,0,,Yeah.
-Dialogue: 100,0:04:43.53,0:04:45.13,Default,Y,0,0,0,,Take this, then.
-Dialogue: 100,0:04:51.35,0:04:55.02,Default,Nun,0,0,0,,I shall summon the Prioress immediately.
-Dialogue: 100,0:04:55.02,0:04:56.96,Default,Nun,0,0,0,,Please wait here.
-Dialogue: 100,0:04:59.48,0:05:02.61,Default,M,0,0,0,,Okay, we made it in.
-Dialogue: 100,0:05:03.00,0:05:06.03,Default,Y,0,0,0,,If negotiations fail and someone comes after us, leave it to me.
-Dialogue: 100,0:05:06.60,0:05:07.70,Default,Y,0,0,0,,No one will beat me.
-Dialogue: 100,0:05:07.70,0:05:11.17,Default,M,0,0,0,,I wouldn't expect anyone like that to be in a convent.
-Dialogue: 100,0:05:11.17,0:05:12.41,Default,M,0,0,0,,But I appreciate the thought.
-Dialogue: 100,0:05:15.63,0:05:16.59,Default,Y,0,0,0,,Demon King...
-Dialogue: 100,0:05:17.58,0:05:20.92,Default,Y,0,0,0,,Why did you make such a sad face just then?
-Dialogue: 100,0:05:20.92,0:05:22.02,Default,M,0,0,0,,Did I?
-Dialogue: 100,0:05:22.02,0:05:22.88,Default,Y,0,0,0,,Yeah.
-Dialogue: 100,0:05:23.48,0:05:25.68,Default,Y,0,0,0,,I've seen you do it before.
-Dialogue: 100,0:05:25.68,0:05:27.20,Default,M,0,0,0,,Really?
-Dialogue: 100,0:05:27.20,0:05:28.13,Default,Y,0,0,0,,Yeah.
-Dialogue: 100,0:05:28.13,0:05:29.98,Default,M,0,0,0,,I've never noticed.
-Dialogue: 100,0:05:29.98,0:05:34.14,Default,Y,0,0,0,,It's been bothering me for some time.
-Dialogue: 100,0:05:39.03,0:05:40.84,Default,M,0,0,0,,A pleasure to meet you.
-Dialogue: 100,0:05:40.84,0:05:44.64,Default,M,0,0,0,,I am the Crimson Scholar, an agricultural researcher
-Dialogue: 100,0:05:44.64,0:05:46.57,Default,,0,0,0,,in one of the southern frontier villages.
-Dialogue: 100,0:05:47.13,0:05:48.45,Default,M,0,0,0,,Thank you for meeting with us.
-Dialogue: 100,0:05:52.77,0:05:55.80,Default,Y,0,0,0,,I'm the White Swordsman, her protector.
-Dialogue: 100,0:05:55.80,0:05:59.46,Default,Y,0,0,0,,I'm not really the type who belongs in a convent...
-Dialogue: 100,0:05:59.46,0:06:01.88,Default,K,0,0,0,,White Swordsman?
-Dialogue: 100,0:06:02.46,0:06:04.88,Default,K,0,0,0,,The White Swordsman?
-Dialogue: 100,0:06:07.06,0:06:08.68,Default,K,0,0,0,,You are the {\i1}Hero!{\i0}
-Dialogue: 100,0:06:08.68,0:06:10.49,Default,Y,0,0,0,,Kn-Knight!
-Dialogue: 100,0:06:12.76,0:06:14.81,Default,K,0,0,0,,Where have you been?!
-Dialogue: 100,0:06:14.81,0:06:16.60,Default,Y,0,0,0,,Uh, well...
-Dialogue: 100,0:06:16.98,0:06:18.81,Default,K,0,0,0,,It's been a year since I heard from you!
-Dialogue: 100,0:06:19.20,0:06:22.42,Default,K,0,0,0,,The four of us were traveling together to defeat the Demon King!
-Dialogue: 100,0:06:22.42,0:06:25.69,Default,K,0,0,0,,And one day, you leave a message saying,
-Dialogue: 100,0:06:25.69,0:06:27.37,Default,,0,0,0,,"I can handle the rest myself."
-Dialogue: 100,0:06:27.37,0:06:29.32,Default,Y,0,0,0,,Well, uh...
-Dialogue: 100,0:06:29.32,0:06:32.12,Default,Y,0,0,0,,I felt bad for getting you guys involved.
-Dialogue: 100,0:06:40.10,0:06:41.21,Default,K,0,0,0,,You idiot...
-Dialogue: 100,0:06:41.92,0:06:43.76,Default,K,0,0,0,,Do you...
-Dialogue: 100,0:06:43.76,0:06:46.17,Default,K,0,0,0,,Do you understand how worried I was?
-Dialogue: 100,0:06:47.33,0:06:48.01,Default,Y,0,0,0,,I'm sorry.
-Dialogue: 100,0:06:48.01,0:06:49.13,Default,K,0,0,0,,Don't give me that!
-Dialogue: 100,0:06:49.13,0:06:52.80,Default,K,0,0,0,,You have the nerve to show up out of nowhere with some beautiful woman?
-Dialogue: 100,0:06:52.80,0:06:54.64,Default,K,0,0,0,,What happened?
-Dialogue: 100,0:06:54.64,0:06:57.68,Default,Y,0,0,0,,Wha? Well, she's...
-Dialogue: 100,0:06:57.68,0:06:58.49,Default,Y,0,0,0,,I mean...
-Dialogue: 100,0:06:58.49,0:06:59.68,Default,K,0,0,0,,She's what?
-Dialogue: 100,0:07:01.41,0:07:05.36,Default,M,0,0,0,,Ah, I can explain that.
-Dialogue: 100,0:07:06.54,0:07:10.28,Default,M,0,0,0,,And thus, he managed to wound the Demon King.
-Dialogue: 100,0:07:10.28,0:07:13.45,Default,,0,0,0,,But when so many demons came to retaliate, he had to retreat.
-Dialogue: 100,0:07:13.72,0:07:16.87,Default,M,0,0,0,,Then I met him by chance and offered to take care of him
-Dialogue: 100,0:07:16.87,0:07:18.70,Default,,0,0,0,,until he could recover from his injuries.
-Dialogue: 100,0:07:19.33,0:07:23.59,Default,M,0,0,0,,As thanks, he's now serving as my bodyguard.
-Dialogue: 100,0:07:24.12,0:07:26.21,Default,K,0,0,0,,So that's how it is.
-Dialogue: 100,0:07:26.63,0:07:30.12,Default,K,0,0,0,,I'm sorry for reacting as I did.
-Dialogue: 100,0:07:30.12,0:07:33.15,Default,M,0,0,0,,It's fine, so long as you understand.
-Dialogue: 100,0:07:33.15,0:07:34.20,Default,Y,0,0,0,,What about you?
-Dialogue: 100,0:07:34.20,0:07:35.97,Default,Y,0,0,0,,How did you become a prioress?
-Dialogue: 100,0:07:36.92,0:07:40.98,Default,K,0,0,0,,It was after I reported that you had gone to the Demon King's castle alone...
-Dialogue: 100,0:07:41.39,0:07:43.85,Default,K,0,0,0,,A month later, I received a letter.
-Dialogue: 100,0:07:44.55,0:07:48.57,Default,K,0,0,0,,It said the Hero had sacrificed himself to wound the Demon King.
-Dialogue: 100,0:07:48.95,0:07:51.91,Default,K,0,0,0,,So they sent all of his companions a reward.
-Dialogue: 100,0:07:53.15,0:07:54.95,Default,K,0,0,0,,But I didn't want it.
-Dialogue: 100,0:07:55.30,0:07:57.75,Default,K,0,0,0,,Getting rich off your death...
-Dialogue: 100,0:07:59.54,0:08:03.80,Default,K,0,0,0,,So I returned to this convent, where I had been knighted,
-Dialogue: 100,0:08:03.80,0:08:06.55,Default,,0,0,0,,and I tried to help everyone.
-Dialogue: 100,0:08:06.55,0:08:08.09,Default,Y,0,0,0,,Awesome.
-Dialogue: 100,0:08:08.09,0:08:11.59,Default,Y,0,0,0,,You really are manly, Knight.
-Dialogue: 100,0:08:11.59,0:08:13.61,Default,K,0,0,0,,Manly?
-Dialogue: 100,0:08:13.61,0:08:15.43,Default,Y,0,0,0,,So don't hide your personality.
-Dialogue: 100,0:08:15.43,0:08:16.10,Default,K,0,0,0,,I'm not...
-Dialogue: 100,0:08:17.65,0:08:20.82,Default,K,0,0,0,,t-trying to hide anything...
-Dialogue: 100,0:08:20.82,0:08:22.60,Default,Y,0,0,0,,Don't hurt yourself.
-Dialogue: 100,0:08:24.04,0:08:24.85,Default,K,0,0,0,,Dammit!
-Dialogue: 100,0:08:24.85,0:08:28.19,Default,K,0,0,0,,I finally got good at acting feminine.
-Dialogue: 100,0:08:29.23,0:08:31.08,Default,Y,0,0,0,,Well? Where are the other two?
-Dialogue: 100,0:08:33.16,0:08:37.66,Default,K,0,0,0,,The old pervert said he'd go and work for an intelligence group in one of the southern countries.
-Dialogue: 100,0:08:37.96,0:08:39.09,Default,Y,0,0,0,,Oh.
-Dialogue: 100,0:08:39.09,0:08:41.40,Default,K,0,0,0,,He took the money.
-Dialogue: 100,0:08:41.40,0:08:42.46,Default,Y,0,0,0,,I'm glad.
-Dialogue: 100,0:08:42.46,0:08:44.12,Default,Y,0,0,0,,Sounds like he's moving up.
-Dialogue: 100,0:08:44.76,0:08:46.04,Default,K,0,0,0,,Hero...
-Dialogue: 100,0:08:46.04,0:08:47.88,Default,Y,0,0,0,,And what about Mage?
-Dialogue: 100,0:08:48.32,0:08:50.34,Default,Y,0,0,0,,She took the money, right?
-Dialogue: 100,0:08:50.34,0:08:52.26,Default,Y,0,0,0,,She doesn't look it, but she's quite stingy.
-Dialogue: 100,0:08:52.26,0:08:54.95,Default,Y,0,0,0,,Well, she's a fun girl at least.
-Dialogue: 100,0:08:54.95,0:08:56.23,Default,K,0,0,0,,She left on her own.
-Dialogue: 100,0:08:57.32,0:08:59.47,Default,K,0,0,0,,She went to the Demon World to look for you.
-Dialogue: 100,0:09:00.05,0:09:01.55,Default,Y,0,0,0,,She did?
-Dialogue: 100,0:09:01.55,0:09:02.14,Default,K,0,0,0,,I'm sorry...
-Dialogue: 100,0:09:02.86,0:09:04.12,Default,Y,0,0,0,,You did try to stop her?
-Dialogue: 100,0:09:04.12,0:09:05.14,Default,K,0,0,0,,Of course!
-Dialogue: 100,0:09:05.59,0:09:08.87,Default,K,0,0,0,,But the next morning, all her things were gone.
-Dialogue: 100,0:09:08.87,0:09:09.75,Default,K,0,0,0,,I think...
-Dialogue: 100,0:09:13.00,0:09:14.78,Default,Y,0,0,0,,Don't let it get you down.
-Dialogue: 100,0:09:15.72,0:09:17.87,Default,Y,0,0,0,,This was all my fault to begin with.
-Dialogue: 100,0:09:17.87,0:09:19.28,Default,Y,0,0,0,,And you know how she is.
-Dialogue: 100,0:09:20.06,0:09:22.12,Default,Y,0,0,0,,She won't die that easily.
-Dialogue: 100,0:09:22.96,0:09:24.41,Default,K,0,0,0,,Hero...
-Dialogue: 100,0:09:24.41,0:09:28.22,Default,Y,0,0,0,,Anyway, I'm here for the Scholar today.
-Dialogue: 100,0:09:28.22,0:09:31.92,Default,K,0,0,0,,I've come to petition your convent for aid.
-Dialogue: 100,0:09:32.24,0:09:34.38,Default,K,0,0,0,,First, I'd like to show you this.
-Dialogue: 100,0:09:34.38,0:09:35.67,Default,Y,0,0,0,,What's this?
-Dialogue: 100,0:09:36.43,0:09:39.22,Default,M,0,0,0,,A plant, known as a potato, that grows underground.
-Dialogue: 100,0:09:44.16,0:09:46.48,Default,M,0,0,0,,It appears the food I asked for is here.
-Dialogue: 100,0:09:47.85,0:09:48.82,Default,K,0,0,0,,The food?
-Dialogue: 100,0:09:51.05,0:09:52.57,Default,Nun,0,0,0,,Excuse us.
-Dialogue: 100,0:09:52.57,0:09:55.87,Default,Nun,0,0,0,,I prepared it just as you requested.
-Dialogue: 100,0:09:57.29,0:09:58.82,Default,K,0,0,0,,It smells good.
-Dialogue: 100,0:09:59.44,0:10:00.70,Default,M,0,0,0,,Try it.
-Dialogue: 100,0:10:01.26,0:10:02.12,Default,K,0,0,0,,Okay.
-Dialogue: 100,0:10:02.40,0:10:03.79,Default,K,0,0,14,,Excuse me, then.
-Dialogue: 100,0:10:08.87,0:10:09.67,Default,Y,0,0,14,,You see?
-Dialogue: 100,0:10:09.90,0:10:12.09,Default,K,0,0,14,,Yes, it's delicious.
-Dialogue: 100,0:10:12.09,0:10:13.59,Default,M,0,0,0,,It's very nutritious,
-Dialogue: 100,0:10:13.59,0:10:17.09,Default,M,0,0,0,,and because it grows underground, it's difficult for birds to reach.
-Dialogue: 100,0:10:17.09,0:10:19.84,Default,M,0,0,0,,Also, it will grow in poor soil or colder climates,
-Dialogue: 100,0:10:19.84,0:10:22.18,Default,M,0,0,0,,as well as in hard ground.
-Dialogue: 100,0:10:22.18,0:10:23.95,Default,K,0,0,0,,That's wonderful!
-Dialogue: 100,0:10:23.95,0:10:26.51,Default,M,0,0,0,,Of course, it isn't perfect.
-Dialogue: 100,0:10:26.51,0:10:27.94,Default,M,0,0,0,,First, it's poisonous.
-Dialogue: 100,0:10:27.94,0:10:29.18,Default,M,0,0,0,,Don't worry.
-Dialogue: 100,0:10:29.18,0:10:33.45,Default,M,0,0,0,,It's only toxic after exposure to sunlight, when it's begun to bud.
-Dialogue: 100,0:10:34.25,0:10:37.44,Default,M,0,0,0,,If you take care in harvesting and storing it, it's perfectly safe.
-Dialogue: 100,0:10:38.24,0:10:41.41,Default,M,0,0,0,,In a cold place, you can store it for nearly a year.
-Dialogue: 100,0:10:41.41,0:10:42.96,Default,K,0,0,0,,A year?
-Dialogue: 100,0:10:42.96,0:10:46.84,Default,M,0,0,0,,Under the right conditions, it can be harvested three times a year.
-Dialogue: 100,0:10:46.84,0:10:48.37,Default,K,0,0,0,,Amazing.
-Dialogue: 100,0:10:48.37,0:10:51.71,Default,M,0,0,0,,As a result, the harvest for a given area
-Dialogue: 100,0:10:52.77,0:10:54.55,Default,,0,0,0,,yields three times more than wheat.
-Dialogue: 100,0:10:54.55,0:10:56.39,Default,K,0,0,0,,Really?
-Dialogue: 100,0:10:56.39,0:10:59.01,Default,M,0,0,0,,I've already experimented with it at Winter's Pass Village.
-Dialogue: 100,0:10:59.01,0:11:02.43,Default,K,0,0,0,,If that's true, we'll be able to save many starving people.
-Dialogue: 100,0:11:02.86,0:11:04.19,Default,K,0,0,0,,However...
-Dialogue: 100,0:11:04.19,0:11:07.96,Default,K,0,0,0,,If you're seeking our financial support...
-Dialogue: 100,0:11:07.96,0:11:09.23,Default,K,0,0,0,,I regret to inform you that...
-Dialogue: 100,0:11:09.23,0:11:12.33,Default,M,0,0,0,,No, I'd be happy if you could offer it,
-Dialogue: 100,0:11:12.89,0:11:14.82,Default,M,0,0,0,,but that is not my immediate objective.
-Dialogue: 100,0:11:14.82,0:11:17.53,Default,K,0,0,0,,Then what would you have of us?
-Dialogue: 100,0:11:17.53,0:11:20.73,Default,M,0,0,0,,I want you to establish a convent in Winter's Pass Village.
-Dialogue: 100,0:11:20.73,0:11:25.55,Default,M,0,0,0,,And then, I'd like you to teach the villagers new,
-Dialogue: 100,0:11:25.55,0:11:27.37,Default,,0,0,0,,more effective agricultural methods.
-Dialogue: 100,0:11:27.37,0:11:31.21,Default,K,0,0,0,,That falls perfectly within our convent's mission.
-Dialogue: 100,0:11:31.21,0:11:35.04,Default,M,0,0,0,,And then, I would like you to build convents in surrounding areas,
-Dialogue: 100,0:11:35.04,0:11:37.84,Default,,0,0,0,,to further spread knowledge of this new method.
-Dialogue: 100,0:11:38.26,0:11:41.18,Default,K,0,0,0,,How does this benefit you, Scholar?
-Dialogue: 100,0:11:42.21,0:11:44.01,Default,M,0,0,0,,If we move forward,
-Dialogue: 100,0:11:44.01,0:11:46.06,Default,M,0,0,0,,we can see what's on the other side of the hill.
-Dialogue: 100,0:11:47.14,0:11:48.80,Default,M,0,0,0,,A future without war,
-Dialogue: 100,0:11:48.80,0:11:50.56,Default,M,0,0,0,,a world without starvation.
-Dialogue: 100,0:11:50.95,0:11:53.48,Default,M,0,0,0,,If potato planting becomes common,{once the potato becomes mass produced, the federation is over!}
-Dialogue: 100,0:11:53.48,0:11:55.76,Default,,0,0,0,,and the food situation improves,
-Dialogue: 100,0:11:55.76,0:11:57.23,Default,M,0,0,0,,I'm sure we will get closer.
-Dialogue: 100,0:11:58.36,0:12:00.56,Default,M,0,0,0,,I wish to see the other side of the hill.
-Dialogue: 100,0:12:02.06,0:12:03.28,Default,K,0,0,0,,You...
-Dialogue: 100,0:12:11.27,0:12:12.55,Default,K,0,0,0,,Very well.
-Dialogue: 100,0:12:12.55,0:12:15.63,Default,K,0,0,0,,The convent will provide all it can to assist you.
-Dialogue: 100,0:12:16.06,0:12:17.65,Default,M,0,0,0,,Thank you.
-Dialogue: 100,0:12:18.17,0:12:22.34,Default,K,0,0,0,,{\move(640,690,1280,690,3988,4155)}Then I shall go to Winter's Pass Village personally.
-Dialogue: 100,0:12:22.30,0:12:22.34,Default,,0,0,0,,{\pos(130,690)}You will?!
-Dialogue: 100,0:12:22.34,0:12:22.38,Default,K,0,0,0,,{\pos(380,690)}You will?!
-Dialogue: 100,0:12:22.38,0:12:22.42,Default,K,0,0,0,,{\pos(565,690)}You will?!
-Dialogue: 100,0:12:22.42,0:12:23.38,Default,Y,0,0,0,,{\move(640,690,0,690,739,989)}You will?!
-Dialogue: 100,0:12:23.34,0:12:24.93,Default,K,0,0,0,,{\move(1020,690,640,690,0,111)}Got a problem with that?
-Dialogue: 100,0:12:24.93,0:12:25.09,Default,K,0,0,0,,{\move(640,690,1280,690)}Got a problem with that?
-Dialogue: 100,0:12:25.05,0:12:26.98,Default,Y,0,0,0,,{\move(100,690,640,690,0,72)}No...
-Dialogue: 100,0:12:26.98,0:12:28.20,Default,Y,0,0,0,,Just...
-Dialogue: 100,0:12:28.20,0:12:31.77,Default,Y,0,0,0,,Haven't I always been a nihilistic, dangerous hero?
-Dialogue: 100,0:12:31.77,0:12:34.10,Default,Y,0,0,0,,So being close to me could endanger you.
-Dialogue: 100,0:12:34.10,0:12:35.85,Default,K,0,0,0,,I'm used to that!
-Dialogue: 100,0:12:36.22,0:12:39.23,Default,K,0,0,0,,Or is there another reason you'd prefer I didn't go?
-Dialogue: 100,0:12:39.23,0:12:41.36,Default,Y,0,0,0,,No, well...
-Dialogue: 100,0:12:41.79,0:12:43.49,Default,M,0,0,0,,What troubles you?
-Dialogue: 100,0:12:44.26,0:12:48.20,Default,M,0,0,0,,You're being quite rude to the head of the convent, who has offered us aid.
-Dialogue: 100,0:12:48.60,0:12:50.52,Default,M,0,0,0,,Nothing would make me happier.
-Dialogue: 100,0:12:50.52,0:12:52.58,Default,M,0,0,0,,I would welcome you.
-Dialogue: 100,0:12:52.58,0:12:54.12,Default,K,0,0,0,,You seem unconcerned.
-Dialogue: 100,0:12:54.12,0:12:55.49,Default,M,0,0,0,,Not at all...
-Dialogue: 100,0:12:55.49,0:12:59.71,Default,M,0,0,0,,I always have the greatest respect for those with whom I form a contract.
-Dialogue: 100,0:12:59.71,0:13:01.35,Default,K,0,0,0,,Really now?
-Dialogue: 100,0:13:01.35,0:13:05.97,Default,K,0,0,0,,Then I shall answer in kind, in accordance with the laws of chivalry.
-Dialogue: 100,0:13:17.89,0:13:20.69,Default,K,0,0,0,,First you return after I'd already given up on seeing you again.
-Dialogue: 100,0:13:21.04,0:13:24.70,Default,K,0,0,0,,And then, there's this wonderful food the Scholar brought us.
-Dialogue: 100,0:13:26.30,0:13:29.37,Default,K,0,0,0,,It must be the Light Spirit's guidance.
-Dialogue: 100,0:13:29.37,0:13:32.66,Default,M,0,0,0,,No, this was accomplished purely by human hands.
-Dialogue: 100,0:13:33.64,0:13:36.96,Default,M,0,0,0,,The product of hard work done by those with souls.
-Dialogue: 100,0:13:38.41,0:13:40.21,Default,Y,0,0,0,,I'm glad your secret weapon worked.
-Dialogue: 100,0:13:40.21,0:13:41.46,Default,M,0,0,0,,Yeah.
-Dialogue: 100,0:13:41.46,0:13:44.16,Default,M,0,0,0,,But I wasn't expecting to see your ex-girlfriend.
-Dialogue: 100,0:13:44.16,0:13:45.33,Default,Y,0,0,0,,Don't call her that!
-Dialogue: 100,0:13:45.33,0:13:46.07,Default,M,0,0,0,,Is she not?
-Dialogue: 100,0:13:46.07,0:13:46.97,Default,Y,0,0,0,,No!
-Dialogue: 100,0:13:46.97,0:13:49.51,Default,Y,0,0,0,,She and I...
-Dialogue: 100,0:13:49.51,0:13:52.31,Default,Y,0,0,0,,We aren't like that...
-Dialogue: 100,0:13:52.31,0:13:54.71,Default,M,0,0,0,,Okay, I'll stop bringing it up.
-Dialogue: 100,0:13:55.32,0:13:56.81,Default,K,0,0,0,,By the way...
-Dialogue: 100,0:13:57.13,0:14:00.02,Default,K,0,0,0,,Lately, you've been locked in your room all the time.
-Dialogue: 100,0:14:00.02,0:14:00.86,Default,K,0,0,0,,What have you been doing?
-Dialogue: 100,0:14:00.86,0:14:05.21,Default,M,0,0,0,,If we stay in one place and rely solely on the bounty of the land,
-Dialogue: 100,0:14:05.21,0:14:06.86,Default,M,0,0,0,,we'll run into problems before long.
-Dialogue: 100,0:14:06.86,0:14:08.88,Default,Y,0,0,0,,You mean the soil will deplete?
-Dialogue: 100,0:14:08.88,0:14:09.85,Default,M,0,0,0,,Yes.
-Dialogue: 100,0:14:09.85,0:14:12.41,Default,M,0,0,0,,And so we must make an offering to the land.
-Dialogue: 100,0:14:13.07,0:14:15.36,Default,M,0,0,0,,Burnt crops, the bodies of animals...
-Dialogue: 100,0:14:15.36,0:14:17.08,Default,M,0,0,0,,Manure and leftover food.
-Dialogue: 100,0:14:17.60,0:14:20.45,Default,M,0,0,0,,Best of all would be fish from the southern ice seas.
-Dialogue: 100,0:14:20.45,0:14:22.34,Default,Y,0,0,0,,I'll buy some and bring them back...
-Dialogue: 100,0:14:22.84,0:14:24.17,Default,Y,0,0,0,,with my teleportation magic!
-Dialogue: 100,0:14:25.11,0:14:28.84,Default,M,0,0,0,,We'd need 30,000 a year for Winter's Pass Village alone.
-Dialogue: 100,0:14:30.27,0:14:32.39,Default,Y,0,0,0,,Okay, maybe not.
-Dialogue: 100,0:14:33.01,0:14:35.68,Default,M,0,0,0,,And the Ice General dwells in the southern ice seas.
-Dialogue: 100,0:14:36.05,0:14:37.81,Default,Y,0,0,0,,I've fought him many times.
-Dialogue: 100,0:14:37.81,0:14:41.15,Default,Y,0,0,0,,He's huge and was unstoppable with a harpoon.
-Dialogue: 100,0:14:41.15,0:14:45.15,Default,M,0,0,0,,He's one of the most warmongering demons, as well as one of the strongest.
-Dialogue: 100,0:14:45.15,0:14:47.65,Default,M,0,0,0,,Clashing with him would complicate things.
-Dialogue: 100,0:14:47.65,0:14:51.04,Default,M,0,0,0,,But the bigger problem is the Alliance.
-Dialogue: 100,0:14:51.04,0:14:51.66,Default,Y,0,0,0,,Alliance?
-Dialogue: 100,0:14:52.09,0:14:57.37,Default,M,0,0,0,,Their full name is the Economic Alliance of Free Merchants and Southern Independent Cities.
-Dialogue: 100,0:14:57.37,0:15:00.09,Default,Y,0,0,0,,So it's a merchant group, right?
-Dialogue: 100,0:15:00.09,0:15:01.42,Default,M,0,0,0,,Yeah...
-Dialogue: 100,0:15:02.00,0:15:04.25,Default,M,0,0,0,,They're based primarily here, in the south,
-Dialogue: 100,0:15:04.25,0:15:06.44,Default,,0,0,0,,but their reach extends across the entire continent.
-Dialogue: 100,0:15:06.79,0:15:11.22,Default,M,0,0,0,,My estimates suggest their total capital is astronomical.
-Dialogue: 100,0:15:11.22,0:15:12.48,Default,M,0,0,0,,In the south alone,
-Dialogue: 100,0:15:12.48,0:15:16.35,Default,M,0,0,0,,the Alliance is involved in 60 percent of the wheat trade.
-Dialogue: 100,0:15:16.35,0:15:19.61,Default,M,0,0,0,,If they desired it, they're powerful enough to dethrone a king.
-Dialogue: 100,0:15:19.61,0:15:21.30,Default,Y,0,0,0,,What kind of monsters are they?
-Dialogue: 100,0:15:21.30,0:15:23.20,Default,M,0,0,0,,Without a doubt, they're monsters.
-Dialogue: 100,0:15:23.71,0:15:27.40,Default,M,0,0,0,,And human life rests on these monsters' backs.
-Dialogue: 100,0:15:28.39,0:15:29.85,Default,Y,0,0,0,,So that was the Alliance, then.
-Dialogue: 100,0:15:30.88,0:15:33.56,Default,Y,0,0,0,,They asked me to give some speeches for them.
-Dialogue: 100,0:15:33.56,0:15:35.65,Default,Y,0,0,0,,"Up and at 'em!"
-Dialogue: 100,0:15:35.65,0:15:36.66,Default,Y,0,0,0,,That kind of thing.
-Dialogue: 100,0:15:37.07,0:15:38.95,Default,M,0,0,0,,It's propaganda.
-Dialogue: 100,0:15:38.95,0:15:41.49,Default,M,0,0,0,,They paid you several million in gold pieces, right?
-Dialogue: 100,0:15:41.49,0:15:43.33,Default,Y,0,0,0,,More like fifteen!
-Dialogue: 100,0:15:43.71,0:15:45.21,Default,M,0,0,0,,Only fifteen?
-Dialogue: 100,0:15:45.21,0:15:48.01,Default,Y,0,0,0,,These girls in flashy dresses came out and said,
-Dialogue: 100,0:15:48.01,0:15:51.43,Default,,0,0,0,,"We love you, Hero!"
-Dialogue: 100,0:15:51.43,0:15:54.05,Default,M,0,0,0,,Girls in flashy dresses?
-Dialogue: 100,0:15:54.05,0:15:55.68,Default,Y,0,0,0,,And the guy from the Alliance told me,
-Dialogue: 100,0:15:55.68,0:15:58.85,Default,,0,0,0,,"When you return, we'll throw a victory parade!"
-Dialogue: 100,0:15:59.43,0:16:02.20,Default,Y,0,0,0,,And he gave me a nudge me and said, "You sure are popular."
-Dialogue: 100,0:16:04.81,0:16:06.36,Default,Y,0,0,0,,I'm a failure as a hero...
-Dialogue: 100,0:16:07.17,0:16:09.37,Default,M,0,0,0,,I guess you require a harsh lesson.
-Dialogue: 100,0:16:10.47,0:16:12.20,Default,M,0,0,0,,The Alliance has no will of its own.
-Dialogue: 100,0:16:12.83,0:16:16.74,Default,M,0,0,0,,Their sole interest is self-protection and expansion.
-Dialogue: 100,0:16:16.74,0:16:18.58,Default,M,0,0,0,,That's what makes them worth using.
-Dialogue: 100,0:16:19.45,0:16:21.46,Default,M,0,0,0,,But that's not what's important.
-Dialogue: 100,0:16:22.22,0:16:25.96,Default,M,0,0,0,,What have I been doing in my room these last two months?
-Dialogue: 100,0:16:25.96,0:16:27.59,Default,YM,0,0,0,,Look at this.
-Dialogue: 100,0:16:27.59,0:16:28.76,Default,A,0,0,0,,What's this?
-Dialogue: 100,0:16:28.76,0:16:30.72,Default,OM,0,0,0,,A compass.
-Dialogue: 100,0:16:30.72,0:16:32.34,Default,OM,0,0,0,,I've never seen one like it before.
-Dialogue: 100,0:16:33.32,0:16:37.84,Default,YM,0,0,0,,These two circles keep it level, no matter the conditions.
-Dialogue: 100,0:16:37.84,0:16:40.70,Default,A,0,0,0,,It doesn't use any kind of special device.
-Dialogue: 100,0:16:41.46,0:16:42.60,Default,YM,0,0,0,,What do you think?
-Dialogue: 100,0:16:42.60,0:16:44.78,Default,OM,0,0,0,,This is splendid!
-Dialogue: 100,0:16:44.78,0:16:48.98,Default,OM,0,0,0,,You could be one of the leaders. Maybe even join the Council of Ten!
-Dialogue: 100,0:16:48.98,0:16:51.90,Default,YM,0,0,0,,Yes, this will change the world.
-Dialogue: 100,0:16:51.90,0:16:54.86,Default,OM,0,0,0,,Yeah! It will.
-Dialogue: 100,0:16:54.86,0:16:58.37,Default,A,0,0,0,,It will bring the Alliance great wealth.
-Dialogue: 100,0:16:58.37,0:17:00.87,Default,YM,0,0,0,,But there's a problem.
-Dialogue: 100,0:17:02.36,0:17:03.37,Default,OM,0,0,0,,Indeed.
-Dialogue: 100,0:17:04.63,0:17:06.18,Default,A,0,0,0,,What's wrong?
-Dialogue: 100,0:17:06.18,0:17:10.30,Default,YM,0,0,0,,Someone else invented this and gave it to me.
-Dialogue: 100,0:17:11.03,0:17:13.09,Default,YM,0,0,0,,We must consider what they're after.
-Dialogue: 100,0:17:13.09,0:17:14.70,Default,A,0,0,0,,I understand.
-Dialogue: 100,0:17:14.70,0:17:16.95,Default,OM,0,0,0,,Do you know who it is?
-Dialogue: 100,0:17:16.95,0:17:18.97,Default,YM,0,0,0,,They fancy themselves "the Crimson Scholar."
-Dialogue: 100,0:17:18.97,0:17:23.64,Default,YM,0,0,0,,They live in Winter's Pass, an isolated village in the Southern Nations.
-Dialogue: 100,0:17:23.89,0:17:26.30,Default,A,0,0,0,,It appears to be a normal frontier village,
-Dialogue: 100,0:17:26.30,0:17:28.98,Default,,0,0,0,,producing nothing of particular account.
-Dialogue: 100,0:17:28.98,0:17:30.98,Default,A,0,0,0,,No, wait...
-Dialogue: 100,0:17:30.98,0:17:32.44,Default,A,0,0,0,,I knew it.
-Dialogue: 100,0:17:32.93,0:17:34.39,Default,A,0,0,0,,The Elder of Winter's Pass Village
-Dialogue: 100,0:17:34.39,0:17:38.29,Default,A,0,0,0,,is in negotiations with the Lakeside Convent of the Lake Country.
-Dialogue: 100,0:17:38.29,0:17:40.24,Default,YM,0,0,0,,I'm amazed you have that information.
-Dialogue: 100,0:17:40.24,0:17:44.52,Default,A,0,0,0,,Someone wondered why they would approach the convent of such a distant land,
-Dialogue: 100,0:17:44.52,0:17:45.87,Default,,0,0,0,,and so they reported to us.
-Dialogue: 100,0:17:46.41,0:17:48.38,Default,OM,0,0,0,,Indeed, it is suspicious.
-Dialogue: 100,0:17:48.38,0:17:51.25,Default,A,0,0,0,,If they're involved, this could be problematic.
-Dialogue: 100,0:17:51.25,0:17:52.21,Default,OM,0,0,0,,Yes...
-Dialogue: 100,0:17:52.55,0:17:54.01,Default,OM,0,0,0,,We must ensure that
-Dialogue: 100,0:17:55.72,0:17:59.72,Default,,0,0,0,,only the Alliance benefits from this compass.
-Dialogue: 100,0:17:59.72,0:18:04.06,Default,A,0,0,0,,We'll just have to pray it hasn't been sold to anyone other than us.
-Dialogue: 100,0:18:04.06,0:18:05.23,Default,YM,0,0,0,,That's right.
-Dialogue: 100,0:18:06.22,0:18:07.92,Default,YM,0,0,0,,I am a simple merchant.
-Dialogue: 100,0:18:09.56,0:18:12.36,Default,YM,0,0,0,,I have no wish to be an assassin.
-Dialogue: 100,0:18:15.28,0:18:17.48,Default,Villager,0,0,0,,You're expecting a visitor?
-Dialogue: 100,0:18:17.48,0:18:18.65,Default,Mb,0,0,0,,Yes.
-Dialogue: 100,0:18:18.65,0:18:21.78,Default,Villager,0,0,0,,Then take this rabbit to the Scholar.
-Dialogue: 100,0:18:21.78,0:18:22.64,Default,Mb,0,0,0,,But...
-Dialogue: 100,0:18:22.64,0:18:24.32,Default,Ms,0,0,0,,Thank you!
-Dialogue: 100,0:18:24.32,0:18:26.37,Default,Villager,0,0,0,,And here's some watercress from the swamp.
-Dialogue: 100,0:18:27.04,0:18:28.77,Default,Ms,0,0,0,,{\an8}Hooray!
-Dialogue: 100,0:18:27.04,0:18:28.77,Default,Mb,0,0,0,,Thank you very much.
-Dialogue: 100,0:18:28.77,0:18:29.84,Default,Villager,0,0,0,,No...
-Dialogue: 100,0:18:29.84,0:18:32.46,Default,Villager,0,0,0,,Thanks to you, the village is much brighter.
-Dialogue: 100,0:18:32.46,0:18:34.21,Default,Villager,0,0,0,,You are both very beautiful.
-Dialogue: 100,0:18:36.38,0:18:38.80,Default,Villager,0,0,0,,They were born to a different life than ours.
-Dialogue: 100,0:18:41.57,0:18:44.24,Default,Villager,0,0,0,,Everyone admires you.
-Dialogue: 100,0:18:51.32,0:18:53.19,Default,M,0,0,0,,You're fully armored at this hour?
-Dialogue: 100,0:18:54.06,0:18:54.90,Default,Y,0,0,0,,Demon King!
-Dialogue: 100,0:18:54.90,0:18:56.88,Default,M,0,0,0,,You can't stop worrying about her, huh?
-Dialogue: 100,0:18:56.88,0:18:58.26,Default,Y,0,0,0,,Y-Yeah.
-Dialogue: 100,0:18:58.80,0:19:00.91,Default,M,0,0,0,,Did you think I would stop you?
-Dialogue: 100,0:19:01.28,0:19:02.31,Default,Y,0,0,0,,You're okay with this?
-Dialogue: 100,0:19:02.31,0:19:05.57,Default,M,0,0,0,,If Mage is another girlfriend of yours, maybe not.
-Dialogue: 100,0:19:06.09,0:19:07.75,Default,Y,0,0,0,,No, it's not like that!
-Dialogue: 100,0:19:08.56,0:19:10.01,Default,M,0,0,0,,Okay then.
-Dialogue: 100,0:19:10.01,0:19:11.25,Default,M,0,0,0,,Follow me.
-Dialogue: 100,0:19:20.09,0:19:21.36,Default,Y,0,0,0,,What's this?
-Dialogue: 100,0:19:21.36,0:19:22.79,Default,M,0,0,0,,Don't worry.
-Dialogue: 100,0:19:22.79,0:19:24.60,Default,M,0,0,0,,It isn't cursed in any way.
-Dialogue: 100,0:19:25.37,0:19:28.56,Default,M,0,0,0,,The Demon World is starting to get lax in my absence.
-Dialogue: 100,0:19:29.13,0:19:32.28,Default,M,0,0,0,,I'd like you to go and take care of the rowdier ones.
-Dialogue: 100,0:19:32.28,0:19:33.11,Default,Y,0,0,0,,Okay.
-Dialogue: 100,0:19:33.11,0:19:35.14,Default,M,0,0,0,,I have a list, with letters of introduction,
-Dialogue: 100,0:19:35.14,0:19:37.44,Default,,0,0,0,,of the leaders I think you can trust.
-Dialogue: 100,0:19:37.96,0:19:41.09,Default,M,0,0,0,,You'll need their help if you're looking for someone.
-Dialogue: 100,0:19:41.89,0:19:44.20,Default,M,0,0,0,,You should be grateful for my kindness.
-Dialogue: 100,0:19:44.20,0:19:45.64,Default,Y,0,0,0,,Of course I am.
-Dialogue: 100,0:19:45.64,0:19:47.10,Default,Y,0,0,0,,Thank you.
-Dialogue: 100,0:19:47.10,0:19:48.62,Default,M,0,0,0,,That's it?!
-Dialogue: 100,0:19:48.62,0:19:51.72,Default,M,0,0,0,,That's, well... In the Human World...
-Dialogue: 100,0:19:52.54,0:19:57.31,Default,M,0,0,0,,There's a special ritual men and women who are close perform when parting!
-Dialogue: 100,0:19:59.42,0:20:00.76,Default,M,0,0,0,,Do you refuse because of my useless flesh?
-Dialogue: 100,0:20:01.68,0:20:04.15,Default,Y,0,0,0,,N-No, well...
-Dialogue: 100,0:20:04.15,0:20:06.65,Default,M,0,0,0,,Maybe we do need to be closer physically...
-Dialogue: 100,0:20:06.65,0:20:08.24,Default,Y,0,0,0,,Where did that come from?
-Dialogue: 100,0:20:08.24,0:20:09.93,Default,M,0,0,0,,Well, the Head Maid said...
-Dialogue: 100,0:20:10.33,0:20:12.12,Default,Ma,0,0,0,,Perhaps I'm overstepping myself,
-Dialogue: 100,0:20:12.12,0:20:16.82,Default,Ma,0,0,0,,but you two haven't even held hands for almost two months, right?
-Dialogue: 100,0:20:16.82,0:20:18.72,Default,M,0,0,0,,H-How did you know our secret?!
-Dialogue: 100,0:20:18.72,0:20:20.40,Default,Ma,0,0,0,,I could tell by observing.
-Dialogue: 100,0:20:20.40,0:20:22.95,Default,Ma,0,0,0,,He is a virgin,
-Dialogue: 100,0:20:22.95,0:20:25.82,Default,Ma,0,0,0,,so you must go on the offensive.
-Dialogue: 100,0:20:27.16,0:20:29.49,Default,M,0,0,0,,Wh-Wh-What are you doing?!
-Dialogue: 100,0:20:29.49,0:20:33.50,Default,Ma,0,0,0,,You've spent the past two months locked in your room, ignoring the Hero.
-Dialogue: 100,0:20:34.41,0:20:36.13,Default,I knew it,0,0,0,,Your useless flesh coefficient is increasing.
-Dialogue: 100,0:20:36.13,0:20:37.44,Default,M,0,0,0,,Don't say that!
-Dialogue: 100,0:20:39.47,0:20:41.92,Default,Ma,0,0,0,,Your clothes aren't revealing enough, and you aren't cute enough.
-Dialogue: 100,0:20:41.92,0:20:44.87,Default,Ma,0,0,0,,If you're stingy with physical contact, what's left?
-Dialogue: 100,0:20:44.87,0:20:46.26,Default,M,0,0,0,,I don't know...
-Dialogue: 100,0:20:46.61,0:20:47.80,Default,Ma,0,0,0,,Listen to me!
-Dialogue: 100,0:20:47.80,0:20:49.93,Default,Ma,0,0,0,,In war, the most important thing is quantity.
-Dialogue: 100,0:20:49.93,0:20:53.78,Default,Ma,0,0,0,,Surround and overwhelm a man's reason,
-Dialogue: 100,0:20:53.78,0:20:56.81,Default,,0,0,0,,and you don't even need strategy!
-Dialogue: 100,0:20:57.20,0:20:59.66,Default,Y,0,0,0,,Technically, she's right, but...
-Dialogue: 100,0:20:59.66,0:21:00.71,Default,M,0,0,0,,Is it not okay?
-Dialogue: 100,0:21:00.71,0:21:02.61,Default,Y,0,0,0,,Ah! It's e-embarrassing!
-Dialogue: 100,0:21:02.61,0:21:05.61,Default,Y,0,0,0,,We should do it when we aren't so busy.
-Dialogue: 100,0:21:05.61,0:21:06.78,Default,M,0,0,0,,Six months!
-Dialogue: 100,0:21:07.15,0:21:10.79,Default,M,0,0,0,,It's tearing me up that I should have a clear advantage,
-Dialogue: 100,0:21:10.79,0:21:14.56,Default,,0,0,0,,after spending all this time with you in the snow...
-Dialogue: 100,0:21:14.56,0:21:17.96,Default,M,0,0,0,,And six months have passed, with no changes at all!
-Dialogue: 100,0:21:17.96,0:21:21.50,Default,M,0,0,0,,Additionally, once the convent is complete, your first girlfriend will arrive,
-Dialogue: 100,0:21:21.50,0:21:24.67,Default,M,0,0,0,,and you're leaving to search for your second girlfriend!
-Dialogue: 100,0:21:24.67,0:21:27.68,Default,M,0,0,0,,How could it not bother me?
-Dialogue: 100,0:21:30.51,0:21:33.04,Default,Y,0,0,0,,Well, you know...
-Dialogue: 100,0:21:43.86,0:21:47.20,Default,Y,0,0,0,,Wh-What? Why do you look so mad?
-Dialogue: 100,0:21:47.20,0:21:48.49,Default,M,0,0,0,,That was on the forehead.
-Dialogue: 100,0:21:48.94,0:21:50.33,Default,Y,0,0,0,,We'll do the rest when I get back.
-Dialogue: 100,0:21:50.33,0:21:51.74,Default,M,0,0,0,,You'd better promise, Hero!
-Dialogue: 100,0:22:00.86,0:22:02.38,Default,M,0,0,0,,You'd better...
-Dialogue: 0,0:00:38.60,0:00:46.90,Titles,,0,0,0,,{\fad(354,0)\fnStonehenge\fs50\c&H66A4CC&\shad1.5\bord1\blur0.8\3c&H264556&\4c&H264556&\t(7653,8112,\1c&HFFFFFFF\3c&HFFFFFF&\4c&HFFFFFF&)\pos(942.333,530)}Eroul și regele demonilor
-Dialogue: 0,0:02:05.89,0:02:09.81,Titles,,0,0,0,,{\c&H75DFF7&\blur0.6\shad2\4c&H000E13&\\pos(1065,195)}Capitolul 4
-Dialogue: 0,0:02:05.89,0:02:09.81,Titles,,0,0,0,,{\c&H63CFEA&\blur0.6\shad2\4c&H000E13&\pos(474.4,586.658)}Unde ai fost?!
-Dialogue: 0,0:23:34.85,0:23:39.77,Titles,,0,0,0,,{\c&H75DFF7&\blur0.6\shad2\4c&H000E13&\pos(584,659)}Data viitoare
-Dialogue: 0,0:23:34.85,0:23:39.77,Titles,,0,0,0,,{\c&H63CFEA&\blur0.6\shad2\4c&H000E13&\pos(395,118)}Dacă se va întâmpla asta,
-Dialogue: 0,0:23:34.85,0:23:39.77,Titles,,0,0,0,,{\c&H63CFEA&\blur0.6\shad2\4c&H000E13&\pos(640,198)}îl voi mușca pe erou
+Dialogue: 100,0:00:01.08,0:00:02.64,Dialogue,Y,0,0,0,,Au trecut trei luni.
+Dialogue: 100,0:00:02.64,0:00:05.23,Dialogue,M,0,0,0,,Trei luni și nouă zile, mai exact.
+Dialogue: 100,0:00:07.99,0:00:09.78,Dialogue,Y,0,0,0,,Chiar au început să crească...
+Dialogue: 100,0:00:09.78,0:00:11.85,Dialogue,M,0,0,0,,Experimentul decurge foarte bine.
+Dialogue: 100,0:00:11.85,0:00:13.53,Dialogue,Villagers,0,0,0,,Domnișoară cercetătoare!
+Dialogue: 100,0:00:13.53,0:00:15.21,Dialogue,M,0,0,0,,Bună dimineața!
+Dialogue: 100,0:00:15.21,0:00:17.28,Dialogue,Villagers,0,0,0,,Bună dimineața.
+Dialogue: 100,0:00:18.87,0:00:21.38,Dialogue,Villagers,0,0,0,,Chiar cresc.
+Dialogue: 100,0:00:21.38,0:00:23.71,Dialogue,Villagers,0,0,0,,Primarul a fost surprins.
+Dialogue: 100,0:00:23.71,0:00:28.84,Dialogue,Villagers,0,0,0,,Deci le mărunțiți{tocați, tăiați subtirii}, le prăjiți în ulei, le puneți sare și le mâncați?
+Dialogue: 100,0:00:28.84,0:00:31.55,Dialogue,M,0,0,0,,Sunt așa de bune încât nu vă veți mai putea opri din mâncat.
+Dialogue: 100,0:00:31.99,0:00:34.96,Dialogue,M,0,0,0,,Când va veni vremea recoltării{culegerii}, îl vom invita pe primar la o petrecere.
+Dialogue: 100,0:02:09.81,0:02:13.58,Dialogue,Y,0,0,0,,Voiam să lucrez câmpul alături de restul oamenilor.
+Dialogue: 100,0:02:13.58,0:02:16.12,Dialogue,M,0,0,0,,Ai încercat asta o dată și a fost un dezastru total.
+Dialogue: 100,0:02:16.12,0:02:17.90,Dialogue,M,0,0,0,,Nu ți-ai putut stăpâni puterea.
+Dialogue: 100,0:02:19.03,0:02:21.20,Dialogue,Y,0,0,0,,Eram sigur că mă abțineam.
+Dialogue: 100,0:02:24.66,0:02:26.66,Dialogue,M,0,0,0,,Se pare că se potrivesc{integrează} bine{perfect}.
+Dialogue: 100,0:02:27.32,0:02:28.71,Dialogue,M,0,0,0,,Mă bucur să văd asta.
+Dialogue: 100,0:02:29.99,0:02:32.09,Dialogue,Ma,0,0,0,,Cum a fost să ieși afară după atâta timp?
+Dialogue: 100,0:02:32.09,0:02:33.55,Dialogue,M,0,0,0,,Arată bine.
+Dialogue: 100,0:02:33.55,0:02:35.58,Dialogue,M,0,0,0,,Putem începe recoltarea{culegerea} de astăzi.
+Dialogue: 100,0:02:35.58,0:02:36.84,Dialogue,Ma,0,0,0,,Excelent.
+Dialogue: 100,0:02:36.84,0:02:39.38,Dialogue,Ma,0,0,0,,Alte lucruri bune de raportat?
+Dialogue: 100,0:02:40.63,0:02:41.98,Dialogue,M,0,0,0,,Nimic altceva.
+Dialogue: 100,0:02:41.98,0:02:44.92,Dialogue,Ma,0,0,0,,Nu contează cât de neimportant ar putea părea.
+Dialogue: 100,0:02:44.92,0:02:46.06,Dialogue,M,0,0,0,,Nu, nimic.
+Dialogue: 100,0:02:58.95,0:03:00.03,Dialogue,Y,0,0,0,,Vom merge pe jos restul de drum.
+Dialogue: 100,0:03:00.83,0:03:03.10,Dialogue,Y,0,0,0,,Acea clădire mare de piatră e mânăstirea
+Dialogue: 100,0:03:03.10,0:03:05.62,Dialogue,,0,0,0,,care supraveghează călugărițele din această zonă.
+Dialogue: 100,0:03:05.62,0:03:09.32,Dialogue,M,0,0,0,,Țara Lacului nu este la fel de rece precum Țara Iernii.
+Dialogue: 100,0:03:09.89,0:03:11.84,Dialogue,Y,0,0,0,,E destul de departe spre nord.
+Dialogue: 100,0:03:11.84,0:03:13.08,Dialogue,Y,0,0,0,,Haide să ne grăbim puțin.
+Dialogue: 100,0:03:13.68,0:03:15.66,Dialogue,Y,0,0,0,,Biserica pune accent pe punctualitate.
+Dialogue: 100,0:03:15.66,0:03:16.38,Dialogue,M,0,0,0,,Da.
+Dialogue: 100,0:03:17.56,0:03:21.72,Dialogue,M,0,0,0,,Bănuiesc că toți oamenii, de la nobili la șerbi, sunt foarte devotați.
+Dialogue: 100,0:03:21.72,0:03:24.62,Dialogue,Y,0,0,0,,Da, nici nu-ți poți imagina.
+Dialogue: 100,0:03:24.62,0:03:27.71,Dialogue,M,0,0,0,,„Lumina Spiritului Luminii luminează lumea,
+Dialogue: 100,0:03:27.71,0:03:30.14,Dialogue,M,0,0,0,,aducând pace și odihnă persoanelor bune.”
+Dialogue: 100,0:03:30.82,0:03:33.15,Dialogue,M,0,0,0,,Și tu îl venerezi pe Spiritul Luminii?
+Dialogue: 100,0:03:34.95,0:03:36.83,Dialogue,Y,0,0,0,,Nu aș spune chiar venerat.
+Dialogue: 100,0:03:37.48,0:03:40.99,Dialogue,Y,0,0,0,,Când lupt, o simt aproape.
+Dialogue: 100,0:03:41.98,0:03:45.12,Dialogue,Y,0,0,0,,I-am auzit vocea, deci îmi e mai mult o prietenă.
+Dialogue: 100,0:03:45.75,0:03:47.40,Dialogue,Y,0,0,0,,Spiritul e ușor de influențat
+Dialogue: 100,0:03:47.40,0:03:50.75,Dialogue,,0,0,0,,și nu poate refuza pe nimeni.
+Dialogue: 100,0:03:50.75,0:03:52.42,Dialogue,M,0,0,0,,Mă bucur să aud asta.
+Dialogue: 100,0:03:53.51,0:03:58.25,Dialogue,M,0,0,0,,Dacă ai fi fost un credincios devotat, mi-ar fi părut rău.
+Dialogue: 100,0:03:58.25,0:03:59.70,Dialogue,Y,0,0,0,,O, nu-ți face griji.
+Dialogue: 100,0:04:00.33,0:04:03.01,Dialogue,Y,0,0,0,,Doar mi se pare că Biserica e foarte impresionantă.
+Dialogue: 100,0:04:04.45,0:04:07.69,Dialogue,Y,0,0,0,,Toată lumea învață să scrie și să citească acolo.
+Dialogue: 100,0:04:07.69,0:04:11.60,Dialogue,,0,0,0,,Și am auzit că fac și niște cercetări destul de dificile.
+Dialogue: 100,0:04:11.88,0:04:14.15,Dialogue,Y,0,0,0,,Nobililor cărora le pasă de astfel de lucruri
+Dialogue: 100,0:04:14.15,0:04:16.78,Dialogue,,0,0,0,,le pasă mai mult de Biserică decât de rege.
+Dialogue: 100,0:04:16.78,0:04:17.86,Dialogue,M,0,0,0,,Sunt sigură de asta.
+Dialogue: 100,0:04:17.86,0:04:23.36,Dialogue,M,0,0,0,,Almost all human education and science relies on the church.
+Dialogue: 100,0:04:24.02,0:04:26.73,Dialogue,M,0,0,0,,I hope to take advantage of their power as an organization.
+Dialogue: 100,0:04:28.87,0:04:29.82,Dialogue,Y,0,0,0,,Let's go.
+Dialogue: 100,0:04:29.82,0:04:30.89,Dialogue,M,0,0,0,,Yeah.
+Dialogue: 100,0:04:32.25,0:04:35.04,Dialogue,M,0,0,0,,It's nice to see a busy town once in a while.
+Dialogue: 100,0:04:38.91,0:04:39.92,Dialogue,M,0,0,0,,Is this it?
+Dialogue: 100,0:04:39.92,0:04:40.61,Dialogue,Y,0,0,0,,Yeah.
+Dialogue: 100,0:04:43.53,0:04:45.13,Dialogue,Y,0,0,0,,Take this, then.
+Dialogue: 100,0:04:51.35,0:04:55.02,Dialogue,Nun,0,0,0,,I shall summon the Prioress immediately.
+Dialogue: 100,0:04:55.02,0:04:56.96,Dialogue,Nun,0,0,0,,Please wait here.
+Dialogue: 100,0:04:59.48,0:05:02.61,Dialogue,M,0,0,0,,Okay, we made it in.
+Dialogue: 100,0:05:03.00,0:05:06.03,Dialogue,Y,0,0,0,,If negotiations fail and someone comes after us, leave it to me.
+Dialogue: 100,0:05:06.60,0:05:07.70,Dialogue,Y,0,0,0,,No one will beat me.
+Dialogue: 100,0:05:07.70,0:05:11.17,Dialogue,M,0,0,0,,I wouldn't expect anyone like that to be in a convent.
+Dialogue: 100,0:05:11.17,0:05:12.41,Dialogue,M,0,0,0,,But I appreciate the thought.
+Dialogue: 100,0:05:15.63,0:05:16.59,Dialogue,Y,0,0,0,,Demon King...
+Dialogue: 100,0:05:17.58,0:05:20.92,Dialogue,Y,0,0,0,,Why did you make such a sad face just then?
+Dialogue: 100,0:05:20.92,0:05:22.02,Dialogue,M,0,0,0,,Did I?
+Dialogue: 100,0:05:22.02,0:05:22.88,Dialogue,Y,0,0,0,,Yeah.
+Dialogue: 100,0:05:23.48,0:05:25.68,Dialogue,Y,0,0,0,,I've seen you do it before.
+Dialogue: 100,0:05:25.68,0:05:27.20,Dialogue,M,0,0,0,,Really?
+Dialogue: 100,0:05:27.20,0:05:28.13,Dialogue,Y,0,0,0,,Yeah.
+Dialogue: 100,0:05:28.13,0:05:29.98,Dialogue,M,0,0,0,,I've never noticed.
+Dialogue: 100,0:05:29.98,0:05:34.14,Dialogue,Y,0,0,0,,It's been bothering me for some time.
+Dialogue: 100,0:05:39.03,0:05:40.84,Dialogue,M,0,0,0,,A pleasure to meet you.
+Dialogue: 100,0:05:40.84,0:05:44.64,Dialogue,M,0,0,0,,I am the Crimson Scholar, an agricultural researcher
+Dialogue: 100,0:05:44.64,0:05:46.57,Dialogue,,0,0,0,,in one of the southern frontier villages.
+Dialogue: 100,0:05:47.13,0:05:48.45,Dialogue,M,0,0,0,,Thank you for meeting with us.
+Dialogue: 100,0:05:52.77,0:05:55.80,Dialogue,Y,0,0,0,,I'm the White Swordsman, her protector.
+Dialogue: 100,0:05:55.80,0:05:59.46,Dialogue,Y,0,0,0,,I'm not really the type who belongs in a convent...
+Dialogue: 100,0:05:59.46,0:06:01.88,Dialogue,K,0,0,0,,White Swordsman?
+Dialogue: 100,0:06:02.46,0:06:04.88,Dialogue,K,0,0,0,,The White Swordsman?
+Dialogue: 100,0:06:07.06,0:06:08.68,Dialogue,K,0,0,0,,You are the {\i1}Hero!{\i0}
+Dialogue: 100,0:06:08.68,0:06:10.49,Dialogue,Y,0,0,0,,Kn-Knight!
+Dialogue: 100,0:06:12.76,0:06:14.81,Dialogue,K,0,0,0,,Where have you been?!
+Dialogue: 100,0:06:14.81,0:06:16.60,Dialogue,Y,0,0,0,,Uh, well...
+Dialogue: 100,0:06:16.98,0:06:18.81,Dialogue,K,0,0,0,,It's been a year since I heard from you!
+Dialogue: 100,0:06:19.20,0:06:22.42,Dialogue,K,0,0,0,,The four of us were traveling together to defeat the Demon King!
+Dialogue: 100,0:06:22.42,0:06:25.69,Dialogue,K,0,0,0,,And one day, you leave a message saying,
+Dialogue: 100,0:06:25.69,0:06:27.37,Dialogue,,0,0,0,,"I can handle the rest myself."
+Dialogue: 100,0:06:27.37,0:06:29.32,Dialogue,Y,0,0,0,,Well, uh...
+Dialogue: 100,0:06:29.32,0:06:32.12,Dialogue,Y,0,0,0,,I felt bad for getting you guys involved.
+Dialogue: 100,0:06:40.10,0:06:41.21,Dialogue,K,0,0,0,,You idiot...
+Dialogue: 100,0:06:41.92,0:06:43.76,Dialogue,K,0,0,0,,Do you...
+Dialogue: 100,0:06:43.76,0:06:46.17,Dialogue,K,0,0,0,,Do you understand how worried I was?
+Dialogue: 100,0:06:47.33,0:06:48.01,Dialogue,Y,0,0,0,,I'm sorry.
+Dialogue: 100,0:06:48.01,0:06:49.13,Dialogue,K,0,0,0,,Don't give me that!
+Dialogue: 100,0:06:49.13,0:06:52.80,Dialogue,K,0,0,0,,You have the nerve to show up out of nowhere with some beautiful woman?
+Dialogue: 100,0:06:52.80,0:06:54.64,Dialogue,K,0,0,0,,What happened?
+Dialogue: 100,0:06:54.64,0:06:57.68,Dialogue,Y,0,0,0,,Wha? Well, she's...
+Dialogue: 100,0:06:57.68,0:06:58.49,Dialogue,Y,0,0,0,,I mean...
+Dialogue: 100,0:06:58.49,0:06:59.68,Dialogue,K,0,0,0,,She's what?
+Dialogue: 100,0:07:01.41,0:07:05.36,Dialogue,M,0,0,0,,Ah, I can explain that.
+Dialogue: 100,0:07:06.54,0:07:10.28,Dialogue,M,0,0,0,,And thus, he managed to wound the Demon King.
+Dialogue: 100,0:07:10.28,0:07:13.45,Dialogue,,0,0,0,,But when so many demons came to retaliate, he had to retreat.
+Dialogue: 100,0:07:13.72,0:07:16.87,Dialogue,M,0,0,0,,Then I met him by chance and offered to take care of him
+Dialogue: 100,0:07:16.87,0:07:18.70,Dialogue,,0,0,0,,until he could recover from his injuries.
+Dialogue: 100,0:07:19.33,0:07:23.59,Dialogue,M,0,0,0,,As thanks, he's now serving as my bodyguard.
+Dialogue: 100,0:07:24.12,0:07:26.21,Dialogue,K,0,0,0,,So that's how it is.
+Dialogue: 100,0:07:26.63,0:07:30.12,Dialogue,K,0,0,0,,I'm sorry for reacting as I did.
+Dialogue: 100,0:07:30.12,0:07:33.15,Dialogue,M,0,0,0,,It's fine, so long as you understand.
+Dialogue: 100,0:07:33.15,0:07:34.20,Dialogue,Y,0,0,0,,What about you?
+Dialogue: 100,0:07:34.20,0:07:35.97,Dialogue,Y,0,0,0,,How did you become a prioress?
+Dialogue: 100,0:07:36.92,0:07:40.98,Dialogue,K,0,0,0,,It was after I reported that you had gone to the Demon King's castle alone...
+Dialogue: 100,0:07:41.39,0:07:43.85,Dialogue,K,0,0,0,,A month later, I received a letter.
+Dialogue: 100,0:07:44.55,0:07:48.57,Dialogue,K,0,0,0,,It said the Hero had sacrificed himself to wound the Demon King.
+Dialogue: 100,0:07:48.95,0:07:51.91,Dialogue,K,0,0,0,,So they sent all of his companions a reward.
+Dialogue: 100,0:07:53.15,0:07:54.95,Dialogue,K,0,0,0,,But I didn't want it.
+Dialogue: 100,0:07:55.30,0:07:57.75,Dialogue,K,0,0,0,,Getting rich off your death...
+Dialogue: 100,0:07:59.54,0:08:03.80,Dialogue,K,0,0,0,,So I returned to this convent, where I had been knighted,
+Dialogue: 100,0:08:03.80,0:08:06.55,Dialogue,,0,0,0,,and I tried to help everyone.
+Dialogue: 100,0:08:06.55,0:08:08.09,Dialogue,Y,0,0,0,,Awesome.
+Dialogue: 100,0:08:08.09,0:08:11.59,Dialogue,Y,0,0,0,,You really are manly, Knight.
+Dialogue: 100,0:08:11.59,0:08:13.61,Dialogue,K,0,0,0,,Manly?
+Dialogue: 100,0:08:13.61,0:08:15.43,Dialogue,Y,0,0,0,,So don't hide your personality.
+Dialogue: 100,0:08:15.43,0:08:16.10,Dialogue,K,0,0,0,,I'm not...
+Dialogue: 100,0:08:17.65,0:08:20.82,Dialogue,K,0,0,0,,t-trying to hide anything...
+Dialogue: 100,0:08:20.82,0:08:22.60,Dialogue,Y,0,0,0,,Don't hurt yourself.
+Dialogue: 100,0:08:24.04,0:08:24.85,Dialogue,K,0,0,0,,Dammit!
+Dialogue: 100,0:08:24.85,0:08:28.19,Dialogue,K,0,0,0,,I finally got good at acting feminine.
+Dialogue: 100,0:08:29.23,0:08:31.08,Dialogue,Y,0,0,0,,Well? Where are the other two?
+Dialogue: 100,0:08:33.16,0:08:37.66,Dialogue,K,0,0,0,,The old pervert said he'd go and work for an intelligence group in one of the southern countries.
+Dialogue: 100,0:08:37.96,0:08:39.09,Dialogue,Y,0,0,0,,Oh.
+Dialogue: 100,0:08:39.09,0:08:41.40,Dialogue,K,0,0,0,,He took the money.
+Dialogue: 100,0:08:41.40,0:08:42.46,Dialogue,Y,0,0,0,,I'm glad.
+Dialogue: 100,0:08:42.46,0:08:44.12,Dialogue,Y,0,0,0,,Sounds like he's moving up.
+Dialogue: 100,0:08:44.76,0:08:46.04,Dialogue,K,0,0,0,,Hero...
+Dialogue: 100,0:08:46.04,0:08:47.88,Dialogue,Y,0,0,0,,And what about Mage?
+Dialogue: 100,0:08:48.32,0:08:50.34,Dialogue,Y,0,0,0,,She took the money, right?
+Dialogue: 100,0:08:50.34,0:08:52.26,Dialogue,Y,0,0,0,,She doesn't look it, but she's quite stingy.
+Dialogue: 100,0:08:52.26,0:08:54.95,Dialogue,Y,0,0,0,,Well, she's a fun girl at least.
+Dialogue: 100,0:08:54.95,0:08:56.23,Dialogue,K,0,0,0,,She left on her own.
+Dialogue: 100,0:08:57.32,0:08:59.47,Dialogue,K,0,0,0,,She went to the Demon World to look for you.
+Dialogue: 100,0:09:00.05,0:09:01.55,Dialogue,Y,0,0,0,,She did?
+Dialogue: 100,0:09:01.55,0:09:02.14,Dialogue,K,0,0,0,,I'm sorry...
+Dialogue: 100,0:09:02.86,0:09:04.12,Dialogue,Y,0,0,0,,You did try to stop her?
+Dialogue: 100,0:09:04.12,0:09:05.14,Dialogue,K,0,0,0,,Of course!
+Dialogue: 100,0:09:05.59,0:09:08.87,Dialogue,K,0,0,0,,But the next morning, all her things were gone.
+Dialogue: 100,0:09:08.87,0:09:09.75,Dialogue,K,0,0,0,,I think...
+Dialogue: 100,0:09:13.00,0:09:14.78,Dialogue,Y,0,0,0,,Don't let it get you down.
+Dialogue: 100,0:09:15.72,0:09:17.87,Dialogue,Y,0,0,0,,This was all my fault to begin with.
+Dialogue: 100,0:09:17.87,0:09:19.28,Dialogue,Y,0,0,0,,And you know how she is.
+Dialogue: 100,0:09:20.06,0:09:22.12,Dialogue,Y,0,0,0,,She won't die that easily.
+Dialogue: 100,0:09:22.96,0:09:24.41,Dialogue,K,0,0,0,,Hero...
+Dialogue: 100,0:09:24.41,0:09:28.22,Dialogue,Y,0,0,0,,Anyway, I'm here for the Scholar today.
+Dialogue: 100,0:09:28.22,0:09:31.92,Dialogue,K,0,0,0,,I've come to petition your convent for aid.
+Dialogue: 100,0:09:32.24,0:09:34.38,Dialogue,K,0,0,0,,First, I'd like to show you this.
+Dialogue: 100,0:09:34.38,0:09:35.67,Dialogue,Y,0,0,0,,What's this?
+Dialogue: 100,0:09:36.43,0:09:39.22,Dialogue,M,0,0,0,,A plant, known as a potato, that grows underground.
+Dialogue: 100,0:09:44.16,0:09:46.48,Dialogue,M,0,0,0,,It appears the food I asked for is here.
+Dialogue: 100,0:09:47.85,0:09:48.82,Dialogue,K,0,0,0,,The food?
+Dialogue: 100,0:09:51.05,0:09:52.57,Dialogue,Nun,0,0,0,,Excuse us.
+Dialogue: 100,0:09:52.57,0:09:55.87,Dialogue,Nun,0,0,0,,I prepared it just as you requested.
+Dialogue: 100,0:09:57.29,0:09:58.82,Dialogue,K,0,0,0,,It smells good.
+Dialogue: 100,0:09:59.44,0:10:00.70,Dialogue,M,0,0,0,,Try it.
+Dialogue: 100,0:10:01.26,0:10:02.12,Dialogue,K,0,0,0,,Okay.
+Dialogue: 100,0:10:02.40,0:10:03.79,Dialogue,K,0,0,14,,Excuse me, then.
+Dialogue: 100,0:10:08.87,0:10:09.67,Dialogue,Y,0,0,14,,You see?
+Dialogue: 100,0:10:09.90,0:10:12.09,Dialogue,K,0,0,14,,Yes, it's delicious.
+Dialogue: 100,0:10:12.09,0:10:13.59,Dialogue,M,0,0,0,,It's very nutritious,
+Dialogue: 100,0:10:13.59,0:10:17.09,Dialogue,M,0,0,0,,and because it grows underground, it's difficult for birds to reach.
+Dialogue: 100,0:10:17.09,0:10:19.84,Dialogue,M,0,0,0,,Also, it will grow in poor soil or colder climates,
+Dialogue: 100,0:10:19.84,0:10:22.18,Dialogue,M,0,0,0,,as well as in hard ground.
+Dialogue: 100,0:10:22.18,0:10:23.95,Dialogue,K,0,0,0,,That's wonderful!
+Dialogue: 100,0:10:23.95,0:10:26.51,Dialogue,M,0,0,0,,Of course, it isn't perfect.
+Dialogue: 100,0:10:26.51,0:10:27.94,Dialogue,M,0,0,0,,First, it's poisonous.
+Dialogue: 100,0:10:27.94,0:10:29.18,Dialogue,M,0,0,0,,Don't worry.
+Dialogue: 100,0:10:29.18,0:10:33.45,Dialogue,M,0,0,0,,It's only toxic after exposure to sunlight, when it's begun to bud.
+Dialogue: 100,0:10:34.25,0:10:37.44,Dialogue,M,0,0,0,,If you take care in harvesting and storing it, it's perfectly safe.
+Dialogue: 100,0:10:38.24,0:10:41.41,Dialogue,M,0,0,0,,In a cold place, you can store it for nearly a year.
+Dialogue: 100,0:10:41.41,0:10:42.96,Dialogue,K,0,0,0,,A year?
+Dialogue: 100,0:10:42.96,0:10:46.84,Dialogue,M,0,0,0,,Under the right conditions, it can be harvested three times a year.
+Dialogue: 100,0:10:46.84,0:10:48.37,Dialogue,K,0,0,0,,Amazing.
+Dialogue: 100,0:10:48.37,0:10:51.71,Dialogue,M,0,0,0,,As a result, the harvest for a given area
+Dialogue: 100,0:10:52.77,0:10:54.55,Dialogue,,0,0,0,,yields three times more than wheat.
+Dialogue: 100,0:10:54.55,0:10:56.39,Dialogue,K,0,0,0,,Really?
+Dialogue: 100,0:10:56.39,0:10:59.01,Dialogue,M,0,0,0,,I've already experimented with it at Winter's Pass Village.
+Dialogue: 100,0:10:59.01,0:11:02.43,Dialogue,K,0,0,0,,If that's true, we'll be able to save many starving people.
+Dialogue: 100,0:11:02.86,0:11:04.19,Dialogue,K,0,0,0,,However...
+Dialogue: 100,0:11:04.19,0:11:07.96,Dialogue,K,0,0,0,,If you're seeking our financial support...
+Dialogue: 100,0:11:07.96,0:11:09.23,Dialogue,K,0,0,0,,I regret to inform you that...
+Dialogue: 100,0:11:09.23,0:11:12.33,Dialogue,M,0,0,0,,No, I'd be happy if you could offer it,
+Dialogue: 100,0:11:12.89,0:11:14.82,Dialogue,M,0,0,0,,but that is not my immediate objective.
+Dialogue: 100,0:11:14.82,0:11:17.53,Dialogue,K,0,0,0,,Then what would you have of us?
+Dialogue: 100,0:11:17.53,0:11:20.73,Dialogue,M,0,0,0,,I want you to establish a convent in Winter's Pass Village.
+Dialogue: 100,0:11:20.73,0:11:25.55,Dialogue,M,0,0,0,,And then, I'd like you to teach the villagers new,
+Dialogue: 100,0:11:25.55,0:11:27.37,Dialogue,,0,0,0,,more effective agricultural methods.
+Dialogue: 100,0:11:27.37,0:11:31.21,Dialogue,K,0,0,0,,That falls perfectly within our convent's mission.
+Dialogue: 100,0:11:31.21,0:11:35.04,Dialogue,M,0,0,0,,And then, I would like you to build convents in surrounding areas,
+Dialogue: 100,0:11:35.04,0:11:37.84,Dialogue,,0,0,0,,to further spread knowledge of this new method.
+Dialogue: 100,0:11:38.26,0:11:41.18,Dialogue,K,0,0,0,,How does this benefit you, Scholar?
+Dialogue: 100,0:11:42.21,0:11:44.01,Dialogue,M,0,0,0,,If we move forward,
+Dialogue: 100,0:11:44.01,0:11:46.06,Dialogue,M,0,0,0,,we can see what's on the other side of the hill.
+Dialogue: 100,0:11:47.14,0:11:48.80,Dialogue,M,0,0,0,,A future without war,
+Dialogue: 100,0:11:48.80,0:11:50.56,Dialogue,M,0,0,0,,a world without starvation.
+Dialogue: 100,0:11:50.95,0:11:53.48,Dialogue,M,0,0,0,,If potato planting becomes common,{once the potato becomes mass produced, the federation is over!}
+Dialogue: 100,0:11:53.48,0:11:55.76,Dialogue,,0,0,0,,and the food situation improves,
+Dialogue: 100,0:11:55.76,0:11:57.23,Dialogue,M,0,0,0,,I'm sure we will get closer.
+Dialogue: 100,0:11:58.36,0:12:00.56,Dialogue,M,0,0,0,,I wish to see the other side of the hill.
+Dialogue: 100,0:12:02.06,0:12:03.28,Dialogue,K,0,0,0,,You...
+Dialogue: 100,0:12:11.27,0:12:12.55,Dialogue,K,0,0,0,,Very well.
+Dialogue: 100,0:12:12.55,0:12:15.63,Dialogue,K,0,0,0,,The convent will provide all it can to assist you.
+Dialogue: 100,0:12:16.06,0:12:17.65,Dialogue,M,0,0,0,,Thank you.
+Dialogue: 100,0:12:18.17,0:12:22.34,Dialogue,K,0,0,0,,{\move(640,690,1280,690,3988,4155)}Then I shall go to Winter's Pass Village personally.
+Dialogue: 100,0:12:22.30,0:12:22.34,Dialogue,,0,0,0,,{\pos(130,690)}You will?!
+Dialogue: 100,0:12:22.34,0:12:22.38,Dialogue,K,0,0,0,,{\pos(380,690)}You will?!
+Dialogue: 100,0:12:22.38,0:12:22.42,Dialogue,K,0,0,0,,{\pos(565,690)}You will?!
+Dialogue: 100,0:12:22.42,0:12:23.38,Dialogue,Y,0,0,0,,{\move(640,690,0,690,739,989)}You will?!
+Dialogue: 100,0:12:23.34,0:12:24.93,Dialogue,K,0,0,0,,{\move(1020,690,640,690,0,111)}Got a problem with that?
+Dialogue: 100,0:12:24.93,0:12:25.09,Dialogue,K,0,0,0,,{\move(640,690,1280,690)}Got a problem with that?
+Dialogue: 100,0:12:25.05,0:12:26.98,Dialogue,Y,0,0,0,,{\move(100,690,640,690,0,72)}No...
+Dialogue: 100,0:12:26.98,0:12:28.20,Dialogue,Y,0,0,0,,Just...
+Dialogue: 100,0:12:28.20,0:12:31.77,Dialogue,Y,0,0,0,,Haven't I always been a nihilistic, dangerous hero?
+Dialogue: 100,0:12:31.77,0:12:34.10,Dialogue,Y,0,0,0,,So being close to me could endanger you.
+Dialogue: 100,0:12:34.10,0:12:35.85,Dialogue,K,0,0,0,,I'm used to that!
+Dialogue: 100,0:12:36.22,0:12:39.23,Dialogue,K,0,0,0,,Or is there another reason you'd prefer I didn't go?
+Dialogue: 100,0:12:39.23,0:12:41.36,Dialogue,Y,0,0,0,,No, well...
+Dialogue: 100,0:12:41.79,0:12:43.49,Dialogue,M,0,0,0,,What troubles you?
+Dialogue: 100,0:12:44.26,0:12:48.20,Dialogue,M,0,0,0,,You're being quite rude to the head of the convent, who has offered us aid.
+Dialogue: 100,0:12:48.60,0:12:50.52,Dialogue,M,0,0,0,,Nothing would make me happier.
+Dialogue: 100,0:12:50.52,0:12:52.58,Dialogue,M,0,0,0,,I would welcome you.
+Dialogue: 100,0:12:52.58,0:12:54.12,Dialogue,K,0,0,0,,You seem unconcerned.
+Dialogue: 100,0:12:54.12,0:12:55.49,Dialogue,M,0,0,0,,Not at all...
+Dialogue: 100,0:12:55.49,0:12:59.71,Dialogue,M,0,0,0,,I always have the greatest respect for those with whom I form a contract.
+Dialogue: 100,0:12:59.71,0:13:01.35,Dialogue,K,0,0,0,,Really now?
+Dialogue: 100,0:13:01.35,0:13:05.97,Dialogue,K,0,0,0,,Then I shall answer in kind, in accordance with the laws of chivalry.
+Dialogue: 100,0:13:17.89,0:13:20.69,Dialogue,K,0,0,0,,First you return after I'd already given up on seeing you again.
+Dialogue: 100,0:13:21.04,0:13:24.70,Dialogue,K,0,0,0,,And then, there's this wonderful food the Scholar brought us.
+Dialogue: 100,0:13:26.30,0:13:29.37,Dialogue,K,0,0,0,,It must be the Light Spirit's guidance.
+Dialogue: 100,0:13:29.37,0:13:32.66,Dialogue,M,0,0,0,,No, this was accomplished purely by human hands.
+Dialogue: 100,0:13:33.64,0:13:36.96,Dialogue,M,0,0,0,,The product of hard work done by those with souls.
+Dialogue: 100,0:13:38.41,0:13:40.21,Dialogue,Y,0,0,0,,I'm glad your secret weapon worked.
+Dialogue: 100,0:13:40.21,0:13:41.46,Dialogue,M,0,0,0,,Yeah.
+Dialogue: 100,0:13:41.46,0:13:44.16,Dialogue,M,0,0,0,,But I wasn't expecting to see your ex-girlfriend.
+Dialogue: 100,0:13:44.16,0:13:45.33,Dialogue,Y,0,0,0,,Don't call her that!
+Dialogue: 100,0:13:45.33,0:13:46.07,Dialogue,M,0,0,0,,Is she not?
+Dialogue: 100,0:13:46.07,0:13:46.97,Dialogue,Y,0,0,0,,No!
+Dialogue: 100,0:13:46.97,0:13:49.51,Dialogue,Y,0,0,0,,She and I...
+Dialogue: 100,0:13:49.51,0:13:52.31,Dialogue,Y,0,0,0,,We aren't like that...
+Dialogue: 100,0:13:52.31,0:13:54.71,Dialogue,M,0,0,0,,Okay, I'll stop bringing it up.
+Dialogue: 100,0:13:55.32,0:13:56.81,Dialogue,K,0,0,0,,By the way...
+Dialogue: 100,0:13:57.13,0:14:00.02,Dialogue,K,0,0,0,,Lately, you've been locked in your room all the time.
+Dialogue: 100,0:14:00.02,0:14:00.86,Dialogue,K,0,0,0,,What have you been doing?
+Dialogue: 100,0:14:00.86,0:14:05.21,Dialogue,M,0,0,0,,If we stay in one place and rely solely on the bounty of the land,
+Dialogue: 100,0:14:05.21,0:14:06.86,Dialogue,M,0,0,0,,we'll run into problems before long.
+Dialogue: 100,0:14:06.86,0:14:08.88,Dialogue,Y,0,0,0,,You mean the soil will deplete?
+Dialogue: 100,0:14:08.88,0:14:09.85,Dialogue,M,0,0,0,,Yes.
+Dialogue: 100,0:14:09.85,0:14:12.41,Dialogue,M,0,0,0,,And so we must make an offering to the land.
+Dialogue: 100,0:14:13.07,0:14:15.36,Dialogue,M,0,0,0,,Burnt crops, the bodies of animals...
+Dialogue: 100,0:14:15.36,0:14:17.08,Dialogue,M,0,0,0,,Manure and leftover food.
+Dialogue: 100,0:14:17.60,0:14:20.45,Dialogue,M,0,0,0,,Best of all would be fish from the southern ice seas.
+Dialogue: 100,0:14:20.45,0:14:22.34,Dialogue,Y,0,0,0,,I'll buy some and bring them back...
+Dialogue: 100,0:14:22.84,0:14:24.17,Dialogue,Y,0,0,0,,with my teleportation magic!
+Dialogue: 100,0:14:25.11,0:14:28.84,Dialogue,M,0,0,0,,We'd need 30,000 a year for Winter's Pass Village alone.
+Dialogue: 100,0:14:30.27,0:14:32.39,Dialogue,Y,0,0,0,,Okay, maybe not.
+Dialogue: 100,0:14:33.01,0:14:35.68,Dialogue,M,0,0,0,,And the Ice General dwells in the southern ice seas.
+Dialogue: 100,0:14:36.05,0:14:37.81,Dialogue,Y,0,0,0,,I've fought him many times.
+Dialogue: 100,0:14:37.81,0:14:41.15,Dialogue,Y,0,0,0,,He's huge and was unstoppable with a harpoon.
+Dialogue: 100,0:14:41.15,0:14:45.15,Dialogue,M,0,0,0,,He's one of the most warmongering demons, as well as one of the strongest.
+Dialogue: 100,0:14:45.15,0:14:47.65,Dialogue,M,0,0,0,,Clashing with him would complicate things.
+Dialogue: 100,0:14:47.65,0:14:51.04,Dialogue,M,0,0,0,,But the bigger problem is the Alliance.
+Dialogue: 100,0:14:51.04,0:14:51.66,Dialogue,Y,0,0,0,,Alliance?
+Dialogue: 100,0:14:52.09,0:14:57.37,Dialogue,M,0,0,0,,Their full name is the Economic Alliance of Free Merchants and Southern Independent Cities.
+Dialogue: 100,0:14:57.37,0:15:00.09,Dialogue,Y,0,0,0,,So it's a merchant group, right?
+Dialogue: 100,0:15:00.09,0:15:01.42,Dialogue,M,0,0,0,,Yeah...
+Dialogue: 100,0:15:02.00,0:15:04.25,Dialogue,M,0,0,0,,They're based primarily here, in the south,
+Dialogue: 100,0:15:04.25,0:15:06.44,Dialogue,,0,0,0,,but their reach extends across the entire continent.
+Dialogue: 100,0:15:06.79,0:15:11.22,Dialogue,M,0,0,0,,My estimates suggest their total capital is astronomical.
+Dialogue: 100,0:15:11.22,0:15:12.48,Dialogue,M,0,0,0,,In the south alone,
+Dialogue: 100,0:15:12.48,0:15:16.35,Dialogue,M,0,0,0,,the Alliance is involved in 60 percent of the wheat trade.
+Dialogue: 100,0:15:16.35,0:15:19.61,Dialogue,M,0,0,0,,If they desired it, they're powerful enough to dethrone a king.
+Dialogue: 100,0:15:19.61,0:15:21.30,Dialogue,Y,0,0,0,,What kind of monsters are they?
+Dialogue: 100,0:15:21.30,0:15:23.20,Dialogue,M,0,0,0,,Without a doubt, they're monsters.
+Dialogue: 100,0:15:23.71,0:15:27.40,Dialogue,M,0,0,0,,And human life rests on these monsters' backs.
+Dialogue: 100,0:15:28.39,0:15:29.85,Dialogue,Y,0,0,0,,So that was the Alliance, then.
+Dialogue: 100,0:15:30.88,0:15:33.56,Dialogue,Y,0,0,0,,They asked me to give some speeches for them.
+Dialogue: 100,0:15:33.56,0:15:35.65,Dialogue,Y,0,0,0,,"Up and at 'em!"
+Dialogue: 100,0:15:35.65,0:15:36.66,Dialogue,Y,0,0,0,,That kind of thing.
+Dialogue: 100,0:15:37.07,0:15:38.95,Dialogue,M,0,0,0,,It's propaganda.
+Dialogue: 100,0:15:38.95,0:15:41.49,Dialogue,M,0,0,0,,They paid you several million in gold pieces, right?
+Dialogue: 100,0:15:41.49,0:15:43.33,Dialogue,Y,0,0,0,,More like fifteen!
+Dialogue: 100,0:15:43.71,0:15:45.21,Dialogue,M,0,0,0,,Only fifteen?
+Dialogue: 100,0:15:45.21,0:15:48.01,Dialogue,Y,0,0,0,,These girls in flashy dresses came out and said,
+Dialogue: 100,0:15:48.01,0:15:51.43,Dialogue,,0,0,0,,"We love you, Hero!"
+Dialogue: 100,0:15:51.43,0:15:54.05,Dialogue,M,0,0,0,,Girls in flashy dresses?
+Dialogue: 100,0:15:54.05,0:15:55.68,Dialogue,Y,0,0,0,,And the guy from the Alliance told me,
+Dialogue: 100,0:15:55.68,0:15:58.85,Dialogue,,0,0,0,,"When you return, we'll throw a victory parade!"
+Dialogue: 100,0:15:59.43,0:16:02.20,Dialogue,Y,0,0,0,,And he gave me a nudge me and said, "You sure are popular."
+Dialogue: 100,0:16:04.81,0:16:06.36,Dialogue,Y,0,0,0,,I'm a failure as a hero...
+Dialogue: 100,0:16:07.17,0:16:09.37,Dialogue,M,0,0,0,,I guess you require a harsh lesson.
+Dialogue: 100,0:16:10.47,0:16:12.20,Dialogue,M,0,0,0,,The Alliance has no will of its own.
+Dialogue: 100,0:16:12.83,0:16:16.74,Dialogue,M,0,0,0,,Their sole interest is self-protection and expansion.
+Dialogue: 100,0:16:16.74,0:16:18.58,Dialogue,M,0,0,0,,That's what makes them worth using.
+Dialogue: 100,0:16:19.45,0:16:21.46,Dialogue,M,0,0,0,,But that's not what's important.
+Dialogue: 100,0:16:22.22,0:16:25.96,Dialogue,M,0,0,0,,What have I been doing in my room these last two months?
+Dialogue: 100,0:16:25.96,0:16:27.59,Dialogue,YM,0,0,0,,Look at this.
+Dialogue: 100,0:16:27.59,0:16:28.76,Dialogue,A,0,0,0,,What's this?
+Dialogue: 100,0:16:28.76,0:16:30.72,Dialogue,OM,0,0,0,,A compass.
+Dialogue: 100,0:16:30.72,0:16:32.34,Dialogue,OM,0,0,0,,I've never seen one like it before.
+Dialogue: 100,0:16:33.32,0:16:37.84,Dialogue,YM,0,0,0,,These two circles keep it level, no matter the conditions.
+Dialogue: 100,0:16:37.84,0:16:40.70,Dialogue,A,0,0,0,,It doesn't use any kind of special device.
+Dialogue: 100,0:16:41.46,0:16:42.60,Dialogue,YM,0,0,0,,What do you think?
+Dialogue: 100,0:16:42.60,0:16:44.78,Dialogue,OM,0,0,0,,This is splendid!
+Dialogue: 100,0:16:44.78,0:16:48.98,Dialogue,OM,0,0,0,,You could be one of the leaders. Maybe even join the Council of Ten!
+Dialogue: 100,0:16:48.98,0:16:51.90,Dialogue,YM,0,0,0,,Yes, this will change the world.
+Dialogue: 100,0:16:51.90,0:16:54.86,Dialogue,OM,0,0,0,,Yeah! It will.
+Dialogue: 100,0:16:54.86,0:16:58.37,Dialogue,A,0,0,0,,It will bring the Alliance great wealth.
+Dialogue: 100,0:16:58.37,0:17:00.87,Dialogue,YM,0,0,0,,But there's a problem.
+Dialogue: 100,0:17:02.36,0:17:03.37,Dialogue,OM,0,0,0,,Indeed.
+Dialogue: 100,0:17:04.63,0:17:06.18,Dialogue,A,0,0,0,,What's wrong?
+Dialogue: 100,0:17:06.18,0:17:10.30,Dialogue,YM,0,0,0,,Someone else invented this and gave it to me.
+Dialogue: 100,0:17:11.03,0:17:13.09,Dialogue,YM,0,0,0,,We must consider what they're after.
+Dialogue: 100,0:17:13.09,0:17:14.70,Dialogue,A,0,0,0,,I understand.
+Dialogue: 100,0:17:14.70,0:17:16.95,Dialogue,OM,0,0,0,,Do you know who it is?
+Dialogue: 100,0:17:16.95,0:17:18.97,Dialogue,YM,0,0,0,,They fancy themselves "the Crimson Scholar."
+Dialogue: 100,0:17:18.97,0:17:23.64,Dialogue,YM,0,0,0,,They live in Winter's Pass, an isolated village in the Southern Nations.
+Dialogue: 100,0:17:23.89,0:17:26.30,Dialogue,A,0,0,0,,It appears to be a normal frontier village,
+Dialogue: 100,0:17:26.30,0:17:28.98,Dialogue,,0,0,0,,producing nothing of particular account.
+Dialogue: 100,0:17:28.98,0:17:30.98,Dialogue,A,0,0,0,,No, wait...
+Dialogue: 100,0:17:30.98,0:17:32.44,Dialogue,A,0,0,0,,I knew it.
+Dialogue: 100,0:17:32.93,0:17:34.39,Dialogue,A,0,0,0,,The Elder of Winter's Pass Village
+Dialogue: 100,0:17:34.39,0:17:38.29,Dialogue,A,0,0,0,,is in negotiations with the Lakeside Convent of the Lake Country.
+Dialogue: 100,0:17:38.29,0:17:40.24,Dialogue,YM,0,0,0,,I'm amazed you have that information.
+Dialogue: 100,0:17:40.24,0:17:44.52,Dialogue,A,0,0,0,,Someone wondered why they would approach the convent of such a distant land,
+Dialogue: 100,0:17:44.52,0:17:45.87,Dialogue,,0,0,0,,and so they reported to us.
+Dialogue: 100,0:17:46.41,0:17:48.38,Dialogue,OM,0,0,0,,Indeed, it is suspicious.
+Dialogue: 100,0:17:48.38,0:17:51.25,Dialogue,A,0,0,0,,If they're involved, this could be problematic.
+Dialogue: 100,0:17:51.25,0:17:52.21,Dialogue,OM,0,0,0,,Yes...
+Dialogue: 100,0:17:52.55,0:17:54.01,Dialogue,OM,0,0,0,,We must ensure that
+Dialogue: 100,0:17:55.72,0:17:59.72,Dialogue,,0,0,0,,only the Alliance benefits from this compass.
+Dialogue: 100,0:17:59.72,0:18:04.06,Dialogue,A,0,0,0,,We'll just have to pray it hasn't been sold to anyone other than us.
+Dialogue: 100,0:18:04.06,0:18:05.23,Dialogue,YM,0,0,0,,That's right.
+Dialogue: 100,0:18:06.22,0:18:07.92,Dialogue,YM,0,0,0,,I am a simple merchant.
+Dialogue: 100,0:18:09.56,0:18:12.36,Dialogue,YM,0,0,0,,I have no wish to be an assassin.
+Dialogue: 100,0:18:15.28,0:18:17.48,Dialogue,Villager,0,0,0,,You're expecting a visitor?
+Dialogue: 100,0:18:17.48,0:18:18.65,Dialogue,Mb,0,0,0,,Yes.
+Dialogue: 100,0:18:18.65,0:18:21.78,Dialogue,Villager,0,0,0,,Then take this rabbit to the Scholar.
+Dialogue: 100,0:18:21.78,0:18:22.64,Dialogue,Mb,0,0,0,,But...
+Dialogue: 100,0:18:22.64,0:18:24.32,Dialogue,Ms,0,0,0,,Thank you!
+Dialogue: 100,0:18:24.32,0:18:26.37,Dialogue,Villager,0,0,0,,And here's some watercress from the swamp.
+Dialogue: 100,0:18:27.04,0:18:28.77,Dialogue,Ms,0,0,0,,{\an8}Hooray!
+Dialogue: 100,0:18:27.04,0:18:28.77,Dialogue,Mb,0,0,0,,Thank you very much.
+Dialogue: 100,0:18:28.77,0:18:29.84,Dialogue,Villager,0,0,0,,No...
+Dialogue: 100,0:18:29.84,0:18:32.46,Dialogue,Villager,0,0,0,,Thanks to you, the village is much brighter.
+Dialogue: 100,0:18:32.46,0:18:34.21,Dialogue,Villager,0,0,0,,You are both very beautiful.
+Dialogue: 100,0:18:36.38,0:18:38.80,Dialogue,Villager,0,0,0,,They were born to a different life than ours.
+Dialogue: 100,0:18:41.57,0:18:44.24,Dialogue,Villager,0,0,0,,Everyone admires you.
+Dialogue: 100,0:18:51.32,0:18:53.19,Dialogue,M,0,0,0,,You're fully armored at this hour?
+Dialogue: 100,0:18:54.06,0:18:54.90,Dialogue,Y,0,0,0,,Demon King!
+Dialogue: 100,0:18:54.90,0:18:56.88,Dialogue,M,0,0,0,,You can't stop worrying about her, huh?
+Dialogue: 100,0:18:56.88,0:18:58.26,Dialogue,Y,0,0,0,,Y-Yeah.
+Dialogue: 100,0:18:58.80,0:19:00.91,Dialogue,M,0,0,0,,Did you think I would stop you?
+Dialogue: 100,0:19:01.28,0:19:02.31,Dialogue,Y,0,0,0,,You're okay with this?
+Dialogue: 100,0:19:02.31,0:19:05.57,Dialogue,M,0,0,0,,If Mage is another girlfriend of yours, maybe not.
+Dialogue: 100,0:19:06.09,0:19:07.75,Dialogue,Y,0,0,0,,No, it's not like that!
+Dialogue: 100,0:19:08.56,0:19:10.01,Dialogue,M,0,0,0,,Okay then.
+Dialogue: 100,0:19:10.01,0:19:11.25,Dialogue,M,0,0,0,,Follow me.
+Dialogue: 100,0:19:20.09,0:19:21.36,Dialogue,Y,0,0,0,,What's this?
+Dialogue: 100,0:19:21.36,0:19:22.79,Dialogue,M,0,0,0,,Don't worry.
+Dialogue: 100,0:19:22.79,0:19:24.60,Dialogue,M,0,0,0,,It isn't cursed in any way.
+Dialogue: 100,0:19:25.37,0:19:28.56,Dialogue,M,0,0,0,,The Demon World is starting to get lax in my absence.
+Dialogue: 100,0:19:29.13,0:19:32.28,Dialogue,M,0,0,0,,I'd like you to go and take care of the rowdier ones.
+Dialogue: 100,0:19:32.28,0:19:33.11,Dialogue,Y,0,0,0,,Okay.
+Dialogue: 100,0:19:33.11,0:19:35.14,Dialogue,M,0,0,0,,I have a list, with letters of introduction,
+Dialogue: 100,0:19:35.14,0:19:37.44,Dialogue,,0,0,0,,of the leaders I think you can trust.
+Dialogue: 100,0:19:37.96,0:19:41.09,Dialogue,M,0,0,0,,You'll need their help if you're looking for someone.
+Dialogue: 100,0:19:41.89,0:19:44.20,Dialogue,M,0,0,0,,You should be grateful for my kindness.
+Dialogue: 100,0:19:44.20,0:19:45.64,Dialogue,Y,0,0,0,,Of course I am.
+Dialogue: 100,0:19:45.64,0:19:47.10,Dialogue,Y,0,0,0,,Thank you.
+Dialogue: 100,0:19:47.10,0:19:48.62,Dialogue,M,0,0,0,,That's it?!
+Dialogue: 100,0:19:48.62,0:19:51.72,Dialogue,M,0,0,0,,That's, well... In the Human World...
+Dialogue: 100,0:19:52.54,0:19:57.31,Dialogue,M,0,0,0,,There's a special ritual men and women who are close perform when parting!
+Dialogue: 100,0:19:59.42,0:20:00.76,Dialogue,M,0,0,0,,Do you refuse because of my useless flesh?
+Dialogue: 100,0:20:01.68,0:20:04.15,Dialogue,Y,0,0,0,,N-No, well...
+Dialogue: 100,0:20:04.15,0:20:06.65,Dialogue,M,0,0,0,,Maybe we do need to be closer physically...
+Dialogue: 100,0:20:06.65,0:20:08.24,Dialogue,Y,0,0,0,,Where did that come from?
+Dialogue: 100,0:20:08.24,0:20:09.93,Dialogue,M,0,0,0,,Well, the Head Maid said...
+Dialogue: 100,0:20:10.33,0:20:12.12,Dialogue,Ma,0,0,0,,Perhaps I'm overstepping myself,
+Dialogue: 100,0:20:12.12,0:20:16.82,Dialogue,Ma,0,0,0,,but you two haven't even held hands for almost two months, right?
+Dialogue: 100,0:20:16.82,0:20:18.72,Dialogue,M,0,0,0,,H-How did you know our secret?!
+Dialogue: 100,0:20:18.72,0:20:20.40,Dialogue,Ma,0,0,0,,I could tell by observing.
+Dialogue: 100,0:20:20.40,0:20:22.95,Dialogue,Ma,0,0,0,,He is a virgin,
+Dialogue: 100,0:20:22.95,0:20:25.82,Dialogue,Ma,0,0,0,,so you must go on the offensive.
+Dialogue: 100,0:20:27.16,0:20:29.49,Dialogue,M,0,0,0,,Wh-Wh-What are you doing?!
+Dialogue: 100,0:20:29.49,0:20:33.50,Dialogue,Ma,0,0,0,,You've spent the past two months locked in your room, ignoring the Hero.
+Dialogue: 100,0:20:34.41,0:20:36.13,Dialogue,I knew it,0,0,0,,Your useless flesh coefficient is increasing.
+Dialogue: 100,0:20:36.13,0:20:37.44,Dialogue,M,0,0,0,,Don't say that!
+Dialogue: 100,0:20:39.47,0:20:41.92,Dialogue,Ma,0,0,0,,Your clothes aren't revealing enough, and you aren't cute enough.
+Dialogue: 100,0:20:41.92,0:20:44.87,Dialogue,Ma,0,0,0,,If you're stingy with physical contact, what's left?
+Dialogue: 100,0:20:44.87,0:20:46.26,Dialogue,M,0,0,0,,I don't know...
+Dialogue: 100,0:20:46.61,0:20:47.80,Dialogue,Ma,0,0,0,,Listen to me!
+Dialogue: 100,0:20:47.80,0:20:49.93,Dialogue,Ma,0,0,0,,In war, the most important thing is quantity.
+Dialogue: 100,0:20:49.93,0:20:53.78,Dialogue,Ma,0,0,0,,Surround and overwhelm a man's reason,
+Dialogue: 100,0:20:53.78,0:20:56.81,Dialogue,,0,0,0,,and you don't even need strategy!
+Dialogue: 100,0:20:57.20,0:20:59.66,Dialogue,Y,0,0,0,,Technically, she's right, but...
+Dialogue: 100,0:20:59.66,0:21:00.71,Dialogue,M,0,0,0,,Is it not okay?
+Dialogue: 100,0:21:00.71,0:21:02.61,Dialogue,Y,0,0,0,,Ah! It's e-embarrassing!
+Dialogue: 100,0:21:02.61,0:21:05.61,Dialogue,Y,0,0,0,,We should do it when we aren't so busy.
+Dialogue: 100,0:21:05.61,0:21:06.78,Dialogue,M,0,0,0,,Six months!
+Dialogue: 100,0:21:07.15,0:21:10.79,Dialogue,M,0,0,0,,It's tearing me up that I should have a clear advantage,
+Dialogue: 100,0:21:10.79,0:21:14.56,Dialogue,,0,0,0,,after spending all this time with you in the snow...
+Dialogue: 100,0:21:14.56,0:21:17.96,Dialogue,M,0,0,0,,And six months have passed, with no changes at all!
+Dialogue: 100,0:21:17.96,0:21:21.50,Dialogue,M,0,0,0,,Additionally, once the convent is complete, your first girlfriend will arrive,
+Dialogue: 100,0:21:21.50,0:21:24.67,Dialogue,M,0,0,0,,and you're leaving to search for your second girlfriend!
+Dialogue: 100,0:21:24.67,0:21:27.68,Dialogue,M,0,0,0,,How could it not bother me?
+Dialogue: 100,0:21:30.51,0:21:33.04,Dialogue,Y,0,0,0,,Well, you know...
+Dialogue: 100,0:21:43.86,0:21:47.20,Dialogue,Y,0,0,0,,Wh-What? Why do you look so mad?
+Dialogue: 100,0:21:47.20,0:21:48.49,Dialogue,M,0,0,0,,That was on the forehead.
+Dialogue: 100,0:21:48.94,0:21:50.33,Dialogue,Y,0,0,0,,We'll do the rest when I get back.
+Dialogue: 100,0:21:50.33,0:21:51.74,Dialogue,M,0,0,0,,You'd better promise, Hero!
+Dialogue: 100,0:22:00.86,0:22:02.38,Dialogue,M,0,0,0,,You'd better...
+Dialogue: 0,0:00:38.60,0:00:46.90,DedzuyaSigns,,0,0,0,,{\fad(354,0)\fnStonehenge\fs50\c&H66A4CC&\shad1.5\bord1\blur0.8\3c&H264556&\4c&H264556&\t(7653,8112,\1c&HFFFFFFF\3c&HFFFFFF&\4c&HFFFFFF&)\pos(942.333,530)}Eroul și regele demonilor
+Dialogue: 0,0:02:05.89,0:02:09.81,DedzuyaSigns,,0,0,0,,{\c&H75DFF7&\blur0.6\shad2\4c&H000E13&\\pos(1065,195)}Capitolul 4
+Dialogue: 0,0:02:05.89,0:02:09.81,DedzuyaSigns,,0,0,0,,{\c&H63CFEA&\blur0.6\shad2\4c&H000E13&\pos(474.4,586.658)}Unde ai fost?!
+Dialogue: 0,0:23:34.85,0:23:39.77,DedzuyaSigns,,0,0,0,,{\c&H75DFF7&\blur0.6\shad2\4c&H000E13&\pos(584,659)}Data viitoare
+Dialogue: 0,0:23:34.85,0:23:39.77,DedzuyaSigns,,0,0,0,,{\c&H63CFEA&\blur0.6\shad2\4c&H000E13&\pos(395,118)}Dacă se va întâmpla asta,
+Dialogue: 0,0:23:34.85,0:23:39.77,DedzuyaSigns,,0,0,0,,{\c&H63CFEA&\blur0.6\shad2\4c&H000E13&\pos(640,198)}îl voi mușca pe erou
