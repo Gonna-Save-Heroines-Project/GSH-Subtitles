@@ -14,11 +14,11 @@ PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 Original Script: CR
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Scroll Position: 57
-Active Line: 69
+Scroll Position: 79
+Active Line: 89
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -109,27 +109,27 @@ Dialogue: 0,0:04:27.85,0:04:28.61,Main,Bee,0,0,0,,Cine ești?
 Dialogue: 0,0:04:29.29,0:04:30.73,Main,Bee,0,0,0,,Stai, e periculos!
 Dialogue: 0,0:04:31.46,0:04:33.04,Italics,Will,0,0,0,,Blood mi-a spus că
 Dialogue: 0,0:04:33.04,0:04:34.80,Italics,Will,0,0,0,,atunci când înfrunți un animal sălbatic,
-Dialogue: 0,0:04:34.80,0:04:36.28,Italics,Will,0,0,0,,în momentul în care a
-Dialogue: 0,0:04:38.29,0:04:40.73,Italics,Will,0,0,0,,Well, come at me if you're going to.
-Dialogue: 0,0:04:40.73,0:04:42.50,Italics,Will,0,0,0,,We can do a little wrestling.
-Dialogue: 0,0:05:01.15,0:05:04.04,Main,Will,0,0,0,,Thank goodness. I didn't have to fight it.
-Dialogue: 0,0:05:04.41,0:05:05.42,Main,Will,0,0,0,,Are you okay?
-Dialogue: 0,0:05:05.42,0:05:08.07,Main,Bee,0,0,0,,Hey, who the heck are you?! An adventurer?!
-Dialogue: 0,0:05:08.07,0:05:11.71,Main,Bee,0,0,0,,Not many people can stop an agitated \Ngiant ape just by looking at it!
-Dialogue: 0,0:05:11.71,0:05:13.31,Main,Bee,0,0,0,,You're awesome! Awesome!
-Dialogue: 0,0:05:13.31,0:05:16.07,Main,Bee,0,0,0,,Oh! I'm Robina! Robina Goodfellow!
-Dialogue: 0,0:05:16.07,0:05:19.62,Main,Bee,0,0,0,,I'm a troubadour! I sing, I dance, \NI go where the wind takes me!
-Dialogue: 0,0:05:19.62,0:05:21.08,Main,Bee,0,0,0,,You can call me Bee!
-Dialogue: 0,0:05:21.08,0:05:23.84,Main,Bee,0,0,0,,And that dork over there \Nis Antonio the hawker.
-Dialogue: 0,0:05:23.84,0:05:25.36,Main,Bee,0,0,0,,I call him Tonio!
-Dialogue: 0,0:05:25.36,0:05:27.11,Main,Bee,0,0,0,,The company he worked for went under,
-Dialogue: 0,0:05:27.11,0:05:30.41,Main,Bee,0,0,0,,so now he passes himself off as a \Nhawker on remote country roads!
-Dialogue: 0,0:05:31.70,0:05:34.62,Main,Tonio,0,0,0,,I didn't even get a chance to speak.
+Dialogue: 0,0:04:34.80,0:04:36.28,Italics,Will,0,0,0,,ai pierdut imediat cum ai rupt contactul vizual.
+Dialogue: 0,0:04:38.29,0:04:40.73,Italics,Will,0,0,0,,Ei bine, haide, atacă-mă.
+Dialogue: 0,0:04:40.73,0:04:42.50,Italics,Will,0,0,0,,Ne putem tăvăli puțin.
+Dialogue: 0,0:05:01.15,0:05:04.04,Main,Will,0,0,0,,Ce ușurare. Nu a trebuit să mă lupt cu ea.
+Dialogue: 0,0:05:04.41,0:05:05.42,Main,Will,0,0,0,,Ești bine?
+Dialogue: 0,0:05:05.42,0:05:08.07,Main,Bee,0,0,0,,Hei, cine naiba ești tu?! Un aventurier?!
+Dialogue: 0,0:05:08.07,0:05:11.71,Main,Bee,0,0,0,,Nu mulți oameni pot opri o maimuță uriașă, agitată doar uitându-se la ea!
+Dialogue: 0,0:05:11.71,0:05:13.31,Main,Bee,0,0,0,,Ești incredibil! Incredibil!
+Dialogue: 0,0:05:13.31,0:05:16.07,Main,Bee,0,0,0,,Oh! Numele meu e Robina! Robina Om-bun!
+Dialogue: 0,0:05:16.07,0:05:19.62,Main,Bee,0,0,0,,Sunt un trubadur! Cânt, dansez și merg oriunde mă poartă vântul!
+Dialogue: 0,0:05:19.62,0:05:21.08,Main,Bee,0,0,0,,Îmi poți spune Bee!
+Dialogue: 0,0:05:21.08,0:05:23.84,Main,Bee,0,0,0,,Iar ciudatul de acolo e negustorul ambulant Antonio.
+Dialogue: 0,0:05:23.84,0:05:25.36,Main,Bee,0,0,0,,Eu îi spun Tonio!
+Dialogue: 0,0:05:25.36,0:05:27.11,Main,Bee,0,0,0,,Compania pentru care lucra a dat faliment,
+Dialogue: 0,0:05:27.11,0:05:30.41,Main,Bee,0,0,0,,deci acum se dă drept negustor ambulant pe drumurile de țară mai izolate!
+Dialogue: 0,0:05:31.70,0:05:34.62,Main,Tonio,0,0,0,,Nici măcar nu am avut ocazia să spun ceva.
 Dialogue: 0,0:05:34.62,0:05:38.09,Main,Tonio,0,0,0,,I'm on my way back to \NWhitesails, my home base.
-Dialogue: 0,0:05:38.34,0:05:39.82,Main,Will,0,0,0,,Whitesails?
-Dialogue: 0,0:05:39.82,0:05:41.97,Main,Tonio,0,0,0,,Boy, you really saved our hides.
-Dialogue: 0,0:05:41.97,0:05:44.02,Main,Tonio,0,0,0,,Thank you so much.
-Dialogue: 0,0:05:44.02,0:05:47.30,Main,Menel,0,0,0,,I'm Meneldor. I hunt around here.
+Dialogue: 0,0:05:38.34,0:05:39.82,Main,Will,0,0,0,,Pânzele Albe?
+Dialogue: 0,0:05:39.82,0:05:41.97,Main,Tonio,0,0,0,,Vai, chiar ne-ai salvat pieile acolo.
+Dialogue: 0,0:05:41.97,0:05:44.02,Main,Tonio,0,0,0,,Îți mulțumim.
+Dialogue: 0,0:05:44.02,0:05:47.30,Main,Menel,0,0,0,,Eu sunt Meneldor. Vânez prin zonă.
 Dialogue: 0,0:05:47.30,0:05:49.93,Main,Menel,0,0,0,,We were just heading toward the \Ntown to do some shopping.
 Dialogue: 0,0:05:49.93,0:05:51.17,Main,Will,0,0,0,,And that's...
 Dialogue: 0,0:05:51.17,0:05:54.47,Main,Will,0,0,0,,William. William G. Maryblood.
