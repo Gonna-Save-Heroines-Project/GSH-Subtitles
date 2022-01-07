@@ -18,7 +18,7 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.500000
-Scroll Position: 317
+Active Line: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,15 +40,15 @@ Style: Words,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.92,0:00:05.32,Italics,Will,0,0,0,,Many things happened at a very rapid pace.
-Dialogue: 0,0:00:07.61,0:00:10.82,Italics,Will,0,0,0,,Having earned official permission from \Nthe crown prince and the temple,
-Dialogue: 0,0:00:10.82,0:00:13.61,Italics,Will,0,0,0,,I set off with my team of rowdy adventurers
+Dialogue: 0,0:00:01.92,0:00:05.32,Italics,Will,0,0,0,,Multe lucruri s-au întâmplat într-un ritm foarte rapid.
+Dialogue: 0,0:00:07.61,0:00:10.82,Italics,Will,0,0,0,,După ce am primit oficial permisiunea de la prințul încoronat și de la templu,
+Dialogue: 0,0:00:10.82,0:00:13.61,Italics,Will,0,0,0,,am plecat cu echipa mea de aventurieri gălăgioși
 Dialogue: 0,0:00:13.98,0:00:16.72,Italics,Will,0,0,0,,to begin the process of exterminating \Nthe dangerous demons
 Dialogue: 0,0:00:16.72,0:00:19.11,Italics,Will,0,0,0,,and demon beasts infesting Beast Woods.
 Dialogue: 0,0:00:19.55,0:00:21.97,Italics,Will,0,0,0,,For areas that were relatively safe,
 Dialogue: 0,0:00:21.97,0:00:25.75,Italics,Will,0,0,0,,we brought human resources and supplies, \Ntwo things every poor village needs.
 Dialogue: 0,0:00:26.59,0:00:28.30,Main,Will,0,0,0,,The village is within sight!
-Dialogue: 0,0:00:28.30,0:00:29.88,Main,Caravan,0,0,0,,Yeah!
+Dialogue: 0,0:00:28.30,0:00:29.88,Main,Caravan,0,0,0,,Da!
 Dialogue: 0,0:00:31.50,0:00:34.94,Italics,Will,0,0,0,,A village with access to supplies \Nbecomes more productive.
 Dialogue: 0,0:00:35.26,0:00:38.61,Italics,Will,0,0,0,,Even if it starts out in debt, \Nit should eventually make a profit.
 Dialogue: 0,0:00:39.20,0:00:42.47,Italics,Will,0,0,0,,Tonio handled all that \Nwith remarkable skill.
@@ -215,7 +215,7 @@ Dialogue: 0,0:11:39.37,0:11:40.58,Italics,Will,0,0,0,,Why...
 Dialogue: 0,0:11:42.19,0:11:45.49,Italics,Will,0,0,0,,Everything was going so well up until now.
 Dialogue: 0,0:11:46.19,0:11:47.15,Italics,Will,0,0,0,,And yet...
 Dialogue: 0,0:11:47.63,0:11:50.11,Italics,Will,0,0,0,,Where did I...
-Dialogue: 0,0:11:50.65,0:11:52.46,Italics,Will,0,0,0,,What did I do wrong?
+Dialogue: 0,0:11:50.65,0:11:52.46,Italics,Will,0,0,0,,Ce am făcut greșit?
 Dialogue: 0,0:11:51.10,0:11:52.07,Main - Top,Reystov,0,0,0,,William!
 Dialogue: 0,0:12:17.19,0:12:19.05,Italics,Will,0,0,0,,The techniques that I had honed...
 Dialogue: 0,0:12:19.66,0:12:21.54,Italics,Will,0,0,0,,The spirit that I had refined...
@@ -358,7 +358,8 @@ Dialogue: 0,0:21:06.24,0:21:08.72,Main,Will,0,0,0,,Please rest at ease.
 Dialogue: 0,0:21:08.72,0:21:11.84,Main,Will,0,0,0,,I'll put a stop to your sadness right away.
 Dialogue: 0,0:21:12.19,0:21:15.60,Main,Will,0,0,0,,I'll save everything, \Neverything within my reach,
 Dialogue: 0,0:21:16.04,0:21:20.96,Main,Will,0,0,0,,as your sword, and as your hand.
-Dialogue: 0,0:21:21.47,0:21:22.63,Main,Will,0,0,0,,It's all right.
-Dialogue: 0,0:21:23.11,0:21:26.79,Main,Will,0,0,0,,I'll solve all of this on my own.
+Dialogue: 0,0:21:21.47,0:21:22.63,Main,Will,0,0,0,,E în regulă.
+Dialogue: 0,0:21:23.11,0:21:26.79,Main,Will,0,0,0,,Voi rezolva toate astea pe cont propriu.
 Dialogue: 0,0:23:30.51,0:23:31.71,Main,Menel,0,0,0,,Will...
-Dialogue: 0,0:23:35.85,0:23:39.97,Next_Ep_Title,Title,0,0,0,,{\fad(825,0)\blur2}Episode 12\N{\fs40}The Faraway Paladin
+Dialogue: 0,0:23:35.85,0:23:39.97,Next_Ep_Title,Title,0,0,0,,Episodul 12
+Dialogue: 0,0:23:35.85,0:23:39.97,Next_Ep_Title,Title,0,0,0,,Paladinul Ținutului Îndepărtat
