@@ -26,8 +26,8 @@ Style: ED TL,Gunny Manual Medium,84,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.02,Dialogue,,0,0,0,chptr,{Film}
-Comment: 0,0:39:28.30,0:39:28.34,Dialogue,,0,0,0,chptr,{ED}
+Comment: 0,0:00:00.00,0:00:00.02,Dialogue,Chapter,0,0,0,,{Film}
+Comment: 0,0:39:28.30,0:39:28.34,Dialogue,Chapter,0,0,0,,{ED}
 Dialogue: 100,0:00:53.28,0:00:54.66,Dialogue,,0,0,0,,Așa...
 Dialogue: 100,0:00:56.28,0:00:59.19,Dialogue,,0,0,0,,Asigură-te că asculți de unchiul tău.
 Dialogue: 100,0:00:59.19,0:01:00.36,Dialogue,,0,0,0,,Bine.
