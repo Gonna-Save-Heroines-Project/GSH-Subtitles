@@ -1,0 +1,286 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,24,0
+Style: italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: italicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: flashback italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: flashbacktop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashbackitalicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: sign_0_1_Magical_Sempai,Open Sans Semibold,45,&H00A9AEBB,&H000000FF,&H00FEFEFE,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,40,40,27,1
+Style: sign_1764_7_The_Unknown_Senp,Open Sans Semibold,39,&H006A00EE,&H000000FF,&H00010200,&H000A0700,1,0,0,0,100,100,0,0,1,2,3,8,40,40,133,1
+Style: sign_3687_39_Japanese_Eel,Open Sans Semibold,18,&H00929596,&H009034D8,&H00FFFFF8,&H00D55743,1,0,0,0,100,100,0,0,1,4,3,8,40,640,27,1
+Style: sign_3685_40_Conger_Eel,Open Sans Semibold,18,&H00929596,&H009034D8,&H00FFFFF8,&H004978F2,1,0,0,0,100,100,0,0,1,4,3,8,40,333,27,1
+Style: sign_3687_41_Moray_Eel,Open Sans Semibold,18,&H00929596,&H009034D8,&H00FFFFF8,&H005DF3F7,1,0,0,0,100,100,0,0,1,4,3,8,40,40,27,1
+Style: sign_3687_42_Snake_Eel,Open Sans Semibold,18,&H00929596,&H009034D8,&H00FFFFF8,&H00272E33,1,0,0,0,100,100,0,0,1,4,3,8,387,40,27,1
+Style: sign_4667_60_Roe,Open Sans Semibold,30,&H00AFA5E9,&H009034D8,&H006146E7,&H00000838,1,0,0,0,100,100,0,0,1,4,1,2,40,400,200,1
+Style: sign_5609_75_1_Minute_Passes,Open Sans Semibold,21,&H00000000,&H009034D8,&H00FEFFFC,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,660,40,27,1
+Style: sign_6442_87_Victory_,Open Sans Semibold,42,&H004113C8,&H009034D8,&H00EFF4F9,&H001F4A55,1,0,0,0,100,100,0,0,1,3,1,8,673,40,27,1
+Style: sign_8422_114_The__friend_s_fr,Open Sans Semibold,24,&H00000000,&H009034D8,&H00FEFFFC,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,560,40,27,1
+Style: sign_8680_119_Law_of_Inertia,Open Sans Semibold,45,&H00F6F4FD,&H000000FF,&H002163AE,&H00135FAC,1,0,0,0,100,100,0,0,1,2,2,8,40,267,213,1
+Style: sign_8911_123_Friction,Open Sans Semibold,45,&H007BFDFF,&H000000FF,&H006D20EF,&H00000000,1,0,0,0,100,100,0,0,1,4,0,2,40,167,120,1
+Style: sign_8935_125_Stationary_Force,Open Sans Semibold,33,&H0082FDFF,&H000000FF,&H0094B11C,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,587,40,33,1
+Style: sign_9359_135_He_s_in_my_club_,Open Sans Semibold,30,&H0047401A,&H000000FF,&H00FAF8F8,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,507,40,127,1
+Style: sign_9473_137_What_if_he_s_bee,Open Sans Semibold,30,&H005E000E,&H000000FF,&H00FAF8F8,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,67,40,247,1
+Style: sign_9532_139_Maybe_I_should_j,Open Sans Semibold,30,&H0045031E,&H000000FF,&H00FAF8F8,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,553,40,160,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:03.14,sign_0_1_Magical_Sempai,,0000,0000,0000,,{\fad(1,100)}Magical Sempai
+Dialogue: 0,0:00:03.14,0:00:05.27,sign_0_1_Magical_Sempai,,0000,0000,0000,,{\c&H690AD5&\fad(100,1)}Magi{\c&HB1AD1E&}cal Sem{\c&H7A16E2&}pai
+Dialogue: 0,0:01:00.03,0:01:02.04,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Growing {\c&HDDCA21&}Sempai
+Dialogue: 0,0:01:00.37,0:01:02.04,main,,0000,0000,0000,,"Growing Sempai."
+Dialogue: 0,0:01:03.54,0:01:06.04,italics,ass,0000,0000,0000,,Cleaning duty held me up, so I'm late.
+Dialogue: 0,0:01:06.04,0:01:08.19,main,ma,0000,0000,0000,,Big Sis, let it go for a minute!
+Dialogue: 0,0:01:08.19,0:01:10.29,main,saki,0000,0000,0000,,Don't worry. I've got it.
+Dialogue: 0,0:01:10.29,0:01:12.93,main,saki,0000,0000,0000,,It's so big and full already.
+Dialogue: 0,0:01:12.93,0:01:14.99,main,saki,0000,0000,0000,,Should I use my mouth now?
+Dialogue: 0,0:01:14.99,0:01:17.41,main,ma,0000,0000,0000,,No, don't grab it so hard!
+Dialogue: 0,0:01:17.41,0:01:18.25,main,saki,0000,0000,0000,,I know.
+Dialogue: 0,0:01:18.25,0:01:20.58,main,saki,0000,0000,0000,,I'll watch my nails and be gentle.
+Dialogue: 0,0:01:20.58,0:01:22.56,italics,ass,0000,0000,0000,,What are those siblings doing in the club room?
+Dialogue: 0,0:01:23.47,0:01:24.81,main,ass,0000,0000,0000,,What are you people doing?!
+Dialogue: 0,0:01:26.68,0:01:28.27,main,sem,0000,0000,0000,,Hey, Assistant!
+Dialogue: 0,0:01:28.27,0:01:31.67,main,sem,0000,0000,0000,,Saki-chan and Ma-kun were showing\Nme how to make balloon art!
+Dialogue: 0,0:01:31.67,0:01:33.03,main,ass,0000,0000,0000,,Just what I thought!
+Dialogue: 0,0:01:33.58,0:01:36.95,main,saki,0000,0000,0000,,Okay, let's start with\Nhow to blow up your balloons!
+Dialogue: 0,0:01:36.95,0:01:39.48,main,ass,0000,0000,0000,,Really? Seems pretty basic...
+Dialogue: 0,0:01:39.48,0:01:42.70,main,saki,0000,0000,0000,,Before you blow into it, make sure\Nyou stretch it nice and good.
+Dialogue: 0,0:01:43.73,0:01:45.33,main,sem,0000,0000,0000,,I'm gonna get right to it!
+Dialogue: 0,0:01:49.02,0:01:50.34,main,saki,0000,0000,0000,,Mysterious, huh?
+Dialogue: 0,0:01:50.34,0:01:53.59,main,saki,0000,0000,0000,,There's a trick to blowing\Nit up with your mouth.
+Dialogue: 0,0:01:53.59,0:01:56.56,main,saki,0000,0000,0000,,Of course, I can do it with just my nose!
+Dialogue: 0,0:01:56.56,0:01:59.80,italics,ass,0000,0000,0000,,I think you lose girl points\Nfor acting smug about that.
+Dialogue: 0,0:02:00.72,0:02:02.60,main,saki,0000,0000,0000,,Everyone, got your balloons?
+Dialogue: 0,0:02:02.97,0:02:05.60,main,saki,0000,0000,0000,,Okay, let's start with a doggy!
+Dialogue: 0,0:02:05.60,0:02:07.40,main,ass,0000,0000,0000,,Isn't that a bit advanced?
+Dialogue: 0,0:02:07.40,0:02:10.92,main,saki,0000,0000,0000,,You can make it purely with cod roe twists,\N so it's good for practice.
+Dialogue: 0,0:02:10.92,0:02:12.57,main,ass,0000,0000,0000,,Cod roe twists?
+Dialogue: 0,0:02:12.57,0:02:15.78,main,saki,0000,0000,0000,,Twist the balloon three times to make bubbles.
+Dialogue: 0,0:02:15.78,0:02:18.24,main,saki,0000,0000,0000,,Fold the bubbles back\Non each other and twist again.
+Dialogue: 0,0:02:18.24,0:02:19.38,main,saki,0000,0000,0000,,This is a cod roe twist.
+Dialogue: 0,0:02:19.38,0:02:21.53,main,saki,0000,0000,0000,,Then repeat that two more times, and...
+Dialogue: 0,0:02:22.77,0:02:25.62,main,saki,0000,0000,0000,,Ta-dah! You've got your doggy!
+Dialogue: 0,0:02:25.62,0:02:28.41,main,saki,0000,0000,0000,,The trick is to twist with determination.
+Dialogue: 0,0:02:29.22,0:02:31.50,main,ass,0000,0000,0000,,It's a little scary once\Nyou're actually doing it.
+Dialogue: 0,0:02:31.98,0:02:33.63,main,ass,0000,0000,0000,,How are you doing, Sempai?
+Dialogue: 0,0:02:33.67,0:02:37.26,sign_3685_40_Conger_Eel,sign,0000,0000,0000,,Conger Eel
+Dialogue: 0,0:02:33.75,0:02:35.84,sign_3687_42_Snake_Eel,sign,0000,0000,0000,,Snake Eel
+Dialogue: 0,0:02:33.75,0:02:37.09,sign_3687_39_Japanese_Eel,sign,0000,0000,0000,,Japanese Eel
+Dialogue: 0,0:02:33.75,0:02:37.21,sign_3687_41_Moray_Eel,sign,0000,0000,0000,,Moray Eel
+Dialogue: 0,0:02:33.89,0:02:36.09,main,sem,0000,0000,0000,,Don't make me do more than this!
+Dialogue: 0,0:02:36.09,0:02:37.32,italics,ass,0000,0000,0000,,You've got quite the haul.
+Dialogue: 0,0:02:38.57,0:02:41.51,main,sem,0000,0000,0000,,What kind of person twists a balloon?!
+Dialogue: 0,0:02:43.58,0:02:45.89,main,sem,0000,0000,0000,,My hands are exhausted...
+Dialogue: 0,0:02:46.16,0:02:47.77,main,sem,0000,0000,0000,,I've done enough for today.
+Dialogue: 0,0:02:47.77,0:02:49.89,main,ass,0000,0000,0000,,I personally recommend not stopping there.
+Dialogue: 0,0:02:49.89,0:02:52.44,main,saki,0000,0000,0000,,When you get tired,\Njust stick it between your legs,
+Dialogue: 0,0:02:52.44,0:02:53.77,main,saki,0000,0000,0000,,and rest!
+Dialogue: 0,0:02:53.77,0:02:55.64,main,sem,0000,0000,0000,,I get it! Smart thinking!
+Dialogue: 0,0:02:55.64,0:02:57.18,main,ass,0000,0000,0000,,There's nothing smart about that!
+Dialogue: 0,0:02:58.90,0:03:01.76,main,saki,0000,0000,0000,,I guess you don't get nervous\Nif you're not doing magic?
+Dialogue: 0,0:03:01.76,0:03:04.55,main,sem,0000,0000,0000,,Instead of being nervous, I'm terrified!
+Dialogue: 0,0:03:04.91,0:03:06.69,main,saki,0000,0000,0000,,But you totally finished it!
+Dialogue: 0,0:03:06.69,0:03:08.70,main,sem,0000,0000,0000,,Hey, I did!
+Dialogue: 0,0:03:08.70,0:03:09.91,main,sem,0000,0000,0000,,I did it, Assistant!
+Dialogue: 0,0:03:11.81,0:03:12.67,main,ass,0000,0000,0000,,Bummer!
+Dialogue: 0,0:03:14.35,0:03:17.45,main,sem,0000,0000,0000,,My dog turned into cod roe...
+Dialogue: 0,0:03:14.63,0:03:19.34,sign_4667_60_Roe,sign,0000,0000,0000,,{\fad(189,1)}Roe...
+Dialogue: 0,0:03:17.45,0:03:19.34,main,saki,0000,0000,0000,,How did this happen?
+Dialogue: 0,0:03:19.34,0:03:21.34,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Unfailing {\c&HDDCA21&}Sempai
+Dialogue: 0,0:03:19.67,0:03:21.34,main,,0000,0000,0000,,"Unfailing Sempai."
+Dialogue: 0,0:03:23.19,0:03:25.66,main,sem,0000,0000,0000,,Assistant, hold onto your butt for this one!
+Dialogue: 0,0:03:25.66,0:03:26.85,main,ass,0000,0000,0000,,What now?
+Dialogue: 0,0:03:28.32,0:03:32.85,main,sem,0000,0000,0000,,Sempai just discovered\Na way not to fail at magic!
+Dialogue: 0,0:03:34.00,0:03:34.98,main,ass,0000,0000,0000,,Sempai...
+Dialogue: 0,0:03:34.98,0:03:37.06,main,sem,0000,0000,0000,,What? Curious?
+Dialogue: 0,0:03:37.06,0:03:39.57,main,ass,0000,0000,0000,,At times like these, it's best to remain calm.
+Dialogue: 0,0:03:39.57,0:03:41.55,main,ass,0000,0000,0000,,Our first job is to contact\Nthe consumer center...
+Dialogue: 0,0:03:41.55,0:03:42.65,main,sem,0000,0000,0000,,It's not a scam!
+Dialogue: 0,0:03:42.65,0:03:44.58,main,sem,0000,0000,0000,,Watch and you'll see!
+Dialogue: 0,0:03:46.78,0:03:48.62,main,sem,0000,0000,0000,,Now, wait just a single minute.
+Dialogue: 0,0:03:48.94,0:03:50.87,main,sem,0000,0000,0000,,Close the curtain!
+Dialogue: 0,0:03:53.92,0:03:55.88,sign_5609_75_1_Minute_Passes,sign,0000,0000,0000,,{\fad(188,1)}1 Minute Passes
+Dialogue: 0,0:03:55.88,0:03:57.57,italics,ass,0000,0000,0000,,Strangely quiet in there.
+Dialogue: 0,0:03:57.57,0:03:59.63,italics,ass,0000,0000,0000,,I wonder if she's pouting\Nbecause she can't get out.
+Dialogue: 0,0:04:01.09,0:04:03.23,main,ass,0000,0000,0000,,I'm opening the curtain, Sempai.
+Dialogue: 0,0:04:04.40,0:04:06.38,main,ass,0000,0000,0000,,She's gone! How?
+Dialogue: 0,0:04:07.16,0:04:08.58,main,ass,0000,0000,0000,,Sempai?
+Dialogue: 0,0:04:08.58,0:04:11.41,italics,ass,0000,0000,0000,,Strange... I thought the magic\Nwas taking off the shackles,
+Dialogue: 0,0:04:11.41,0:04:13.46,italics,ass,0000,0000,0000,,but was it about disappearing instead?
+Dialogue: 0,0:04:14.66,0:04:16.52,italics,ass,0000,0000,0000,,Then she actually succeeded?
+Dialogue: 0,0:04:18.09,0:04:20.03,italics,sem,0000,0000,0000,,Trick successful!
+Dialogue: 0,0:04:20.03,0:04:23.78,italics,sem,0000,0000,0000,,That's right... I couldn't remove\N the shackles at all!
+Dialogue: 0,0:04:23.78,0:04:29.08,italics,sem,0000,0000,0000,,However, I never claimed I was\Ngoing to escape from the shackles!
+Dialogue: 0,0:04:28.66,0:04:32.66,sign_6442_87_Victory_,sign,0000,0000,0000,,Victory!
+Dialogue: 0,0:04:29.08,0:04:33.05,italics,sem,0000,0000,0000,,It's the perfect way keep\Nfrom ever failing at magic!
+Dialogue: 0,0:04:33.05,0:04:36.97,italics,sem,0000,0000,0000,,But it's getting hot in here, so maybe\NI'll jump out and surprise him now.
+Dialogue: 0,0:04:36.97,0:04:38.67,main,ass,0000,0000,0000,,Oh, well. Better go...
+Dialogue: 0,0:04:41.64,0:04:42.47,main,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:42.47,0:04:45.09,main,sem,0000,0000,0000,,No way! I'm stuck and can't move!
+Dialogue: 0,0:04:54.81,0:04:56.81,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Competitive {\c&HDDCA21&}Sempai
+Dialogue: 0,0:04:55.19,0:04:56.81,main,,0000,0000,0000,,"Competitive Sempai."
+Dialogue: 0,0:04:59.95,0:05:01.44,main,mad,0000,0000,0000,,Yes? Who's there?
+Dialogue: 0,0:05:03.07,0:05:08.04,main,ass,0000,0000,0000,,The club room is locked, so I'm going\Nto get in through the chem room.
+Dialogue: 0,0:05:08.04,0:05:09.17,main,mad,0000,0000,0000,,Okay, but...
+Dialogue: 0,0:05:09.17,0:05:11.20,main,mad,0000,0000,0000,,Oh, wait a minute.
+Dialogue: 0,0:05:12.53,0:05:13.89,main,mad,0000,0000,0000,,Take this with you.
+Dialogue: 0,0:05:13.89,0:05:16.08,main,ass,0000,0000,0000,,A cola? Thanks so much!
+Dialogue: 0,0:05:17.13,0:05:19.08,main,mad,0000,0000,0000,,It's no ordinary cola.
+Dialogue: 0,0:05:20.00,0:05:22.13,main,ass,0000,0000,0000,,It's freezing inside?
+Dialogue: 0,0:05:22.13,0:05:25.04,main,mad,0000,0000,0000,,It uses the supercooling phenomenon.
+Dialogue: 0,0:05:25.04,0:05:26.09,main,ass,0000,0000,0000,,Supercooling?
+Dialogue: 0,0:05:26.47,0:05:29.26,main,mad,0000,0000,0000,,If a liquid is slowly and evenly\Nlowered to its freezing point,
+Dialogue: 0,0:05:29.26,0:05:32.63,main,mad,0000,0000,0000,,and then opened, moved,\Nor otherwise stimulated,
+Dialogue: 0,0:05:33.37,0:05:35.40,main,mad,0000,0000,0000,,it will immediately freeze over.
+Dialogue: 0,0:05:35.96,0:05:37.69,main,ass,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:05:39.80,0:05:41.77,main,sem,0000,0000,0000,,Sorry I'm late!
+Dialogue: 0,0:05:42.55,0:05:44.36,main,sem,0000,0000,0000,,Is that my assistant's voice?
+Dialogue: 0,0:05:45.74,0:05:48.99,main,sem,0000,0000,0000,,He's really having fun talking to her.
+Dialogue: 0,0:05:49.27,0:05:51.29,main,sem,0000,0000,0000,,I wouldn't want to interrupt.
+Dialogue: 0,0:05:51.24,0:05:53.24,sign_8422_114_The__friend_s_fr,sign,0000,0000,0000,,{\fad(194,1)}The "my friend's friends\N aren't necessarily\N my friends" type
+Dialogue: 0,0:05:51.29,0:05:53.24,main,sem,0000,0000,0000,,I guess I'll wait a while.
+Dialogue: 0,0:05:53.73,0:05:57.25,main,mad,0000,0000,0000,,While you wait for your club president\Nto arrive, I'll show you one more thing!
+Dialogue: 0,0:05:57.60,0:05:59.19,main,mad,0000,0000,0000,,The tablecloth pull!
+Dialogue: 0,0:05:59.55,0:06:02.00,main,ass,0000,0000,0000,,Does that have to do with science, too?
+Dialogue: 0,0:06:02.00,0:06:07.26,sign_8680_119_Law_of_Inertia,sign,0000,0000,0000,,{\fad(1,352)}Law of Inertia
+Dialogue: 0,0:06:02.27,0:06:07.38,main,ass,0000,0000,0000,,The reason things don't fall when you pull\Nthe cloth is due to the law of inertia.
+Dialogue: 0,0:06:07.38,0:06:10.46,main,sign,0000,0000,0000,,An object at rest tends to stay at rest,
+Dialogue: 0,0:06:10.14,0:06:10.39,sign_8911_123_Friction,,0000,0000,0000,,Friction
+Dialogue: 0,0:06:10.46,0:06:12.32,main,sign,0000,0000,0000,,so if a stationary object's stationary force
+Dialogue: 0,0:06:10.64,0:06:10.89,sign_8911_123_Friction,,0000,0000,0000,,Friction
+Dialogue: 0,0:06:11.14,0:06:11.39,sign_8911_123_Friction,,0000,0000,0000,,Friction
+Dialogue: 0,0:06:11.64,0:06:11.89,sign_8911_123_Friction,sign,0000,0000,0000,,Friction
+Dialogue: 0,0:06:12.14,0:06:14.39,sign_8911_123_Friction,sign,0000,0000,0000,,Friction
+Dialogue: 0,0:06:12.32,0:06:14.74,main,sign,0000,0000,0000,,exceeds the friction created\Nwhen the cloth is pulled,
+Dialogue: 0,0:06:12.64,0:06:12.89,sign_8935_125_Stationary_Force,sign,0000,0000,0000,,Stationary Force
+Dialogue: 0,0:06:13.14,0:06:13.39,sign_8935_125_Stationary_Force,sign,0000,0000,0000,,Stationary Force
+Dialogue: 0,0:06:13.64,0:06:13.89,sign_8935_125_Stationary_Force,sign,0000,0000,0000,,Stationary Force
+Dialogue: 0,0:06:14.14,0:06:14.39,sign_8935_125_Stationary_Force,sign,0000,0000,0000,,Stationary Force
+Dialogue: 0,0:06:14.74,0:06:16.58,main,sign,0000,0000,0000,,you can pull out just the cloth.
+Dialogue: 0,0:06:17.39,0:06:19.27,main,sign,0000,0000,0000,,Let's begin the experiment!
+Dialogue: 0,0:06:20.56,0:06:21.65,main,sign,0000,0000,0000,,It's heavier than I thought...
+Dialogue: 0,0:06:22.74,0:06:23.86,main,ass,0000,0000,0000,,Look out!
+Dialogue: 0,0:06:25.54,0:06:28.53,italics,sem,0000,0000,0000,,Is my assistant more interested\Nin science than magic?
+Dialogue: 0,0:06:28.83,0:06:31.25,italics,sem,0000,0000,0000,,But he's in my club, so...
+Dialogue: 0,0:06:30.32,0:06:38.41,sign_9359_135_He_s_in_my_club_,sign,0000,0000,0000,,{\fad(487,1)}He's in my club!
+Dialogue: 0,0:06:31.25,0:06:35.96,italics,sem,0000,0000,0000,,But what if he's been having secret chemistry\Nclub meetings that I just never saw?
+Dialogue: 0,0:06:35.08,0:06:38.41,sign_9473_137_What_if_he_s_bee,sign,0000,0000,0000,,{\fad(356,1)}What if he's been\Nhaving secret chemistry\Nclub meetings that\NI just never saw?
+Dialogue: 0,0:06:35.96,0:06:38.41,italics,sem,0000,0000,0000,,But maybe I should just watch a little longer?
+Dialogue: 0,0:06:37.54,0:06:38.41,sign_9532_139_Maybe_I_should_j,sign,0000,0000,0000,,{\fad(399,1)}Maybe I should just\N watch a little longer...
+Dialogue: 0,0:06:40.79,0:06:41.97,main,ass,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:06:41.97,0:06:43.96,main,mad,0000,0000,0000,,Um... Ah...
+Dialogue: 0,0:06:44.34,0:06:45.53,main,sem,0000,0000,0000,,Is that what it's about?!
+Dialogue: 0,0:06:45.53,0:06:46.96,main,ass,0000,0000,0000,,What's going on here, Sempai?
+Dialogue: 0,0:06:46.96,0:06:49.32,main,sem,0000,0000,0000,,Which means more to you? Me or chemistry?
+Dialogue: 0,0:06:49.32,0:06:51.24,main,ass,0000,0000,0000,,Don't make this more\Ncomplicated than it has to be!
+Dialogue: 0,0:06:51.64,0:06:53.30,main,sem,0000,0000,0000,,I see everything now!
+Dialogue: 0,0:06:53.30,0:06:56.21,main,sem,0000,0000,0000,,It's time for us to fight with our\N honor as club leaders on the line.
+Dialogue: 0,0:06:56.21,0:06:57.49,main,ass,0000,0000,0000,,You don't see anything!
+Dialogue: 0,0:06:57.49,0:06:59.70,main,sem,0000,0000,0000,,I'll pull the cloth next!
+Dialogue: 0,0:06:59.70,0:07:01.26,main,mad,0000,0000,0000,,Wh-Where did that come from?
+Dialogue: 0,0:07:01.26,0:07:02.99,main,ass,0000,0000,0000,,I'm sorry, Madara-san.
+Dialogue: 0,0:07:02.99,0:07:05.36,main,ass,0000,0000,0000,,I think she just really wants to pull the cloth.
+Dialogue: 0,0:07:06.86,0:07:09.94,main,mad,0000,0000,0000,,She's so confident...\NYou think she'll pull it off?
+Dialogue: 0,0:07:09.94,0:07:11.74,main,ass,0000,0000,0000,,I wouldn't get my hopes up.
+Dialogue: 0,0:07:12.04,0:07:13.24,main,sem,0000,0000,0000,,Now, let's begin!
+Dialogue: 0,0:07:15.07,0:07:16.62,italics,mad,0000,0000,0000,,This is remarkable.
+Dialogue: 0,0:07:17.62,0:07:19.07,main,sem,0000,0000,0000,,I admit defeat.
+Dialogue: 0,0:07:19.07,0:07:20.67,main,sem,0000,0000,0000,,I'm sorry about the mess.
+Dialogue: 0,0:07:20.67,0:07:22.42,italics,mad,0000,0000,0000,,This is also remarkable.
+Dialogue: 0,0:07:24.32,0:07:25.64,main,ass,0000,0000,0000,,Nice and cool...
+Dialogue: 0,0:07:25.64,0:07:27.80,main,mad,0000,0000,0000,,It uses the heat of vaporization.
+Dialogue: 0,0:07:27.80,0:07:29.52,main,sem,0000,0000,0000,,Science is so cool!
+Dialogue: 0,0:07:29.52,0:07:31.93,main,mad,0000,0000,0000,,That's right! Science is {\i1}very{\i0} cool!
+Dialogue: 0,0:07:31.93,0:07:34.75,italics,mad,0000,0000,0000,,I found her threatening because\Nshe promotes that "magic" fraud,
+Dialogue: 0,0:07:34.75,0:07:38.02,italics,mad,0000,0000,0000,,but she's proving herself rather harmless.
+Dialogue: 0,0:07:38.02,0:07:41.19,italics,mad,0000,0000,0000,,I never should have\Njudged a book by its cover.
+Dialogue: 0,0:07:41.19,0:07:43.03,italics,mad,0000,0000,0000,,It seems I still have much to learn.
+Dialogue: 0,0:07:44.02,0:07:46.27,italics,mad,0000,0000,0000,,How long are these people going to stay here?
+Dialogue: 0,0:07:46.27,0:07:48.59,main,saki,0000,0000,0000,,Feels so good!
+Dialogue: 0,0:07:48.59,0:07:49.85,italics,mad,0000,0000,0000,,And they're multiplying!
+Dialogue: 0,0:07:49.85,0:07:52.88,main,sem,0000,0000,0000,,You know? It feels even colder on wet clothing!
+Dialogue: 0,0:07:52.88,0:07:55.13,main,ass,0000,0000,0000,,Don't blame me if you catch a cold.
+Dialogue: 0,0:07:55.13,0:07:57.28,main,mad,0000,0000,0000,,Um... Are you guys leaving, ever?
+Dialogue: 0,0:07:57.28,0:07:59.29,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Silent {\c&HDDCA21&}Sempai
+Dialogue: 0,0:07:57.66,0:07:59.29,main,,0000,0000,0000,,"Silent Sempai."
+Dialogue: 0,0:08:00.79,0:08:03.29,main,sem,0000,0000,0000,,Would you look at that!
+Dialogue: 0,0:08:03.78,0:08:06.26,main,sem,0000,0000,0000,,Saki-chan and Ma-kun don't\Nseem to be coming today,
+Dialogue: 0,0:08:06.26,0:08:08.17,main,sem,0000,0000,0000,,so maybe I'll let him sleep.
+Dialogue: 0,0:08:08.17,0:08:11.43,main,sem,0000,0000,0000,,I'll try to do magic in total silence.
+Dialogue: 0,0:08:12.78,0:08:14.71,main,sem,0000,0000,0000,,I'll start with this coin.
+Dialogue: 0,0:08:14.71,0:08:17.55,main,sem,0000,0000,0000,,I'll make it fly, opposing all laws of gravity!
+Dialogue: 0,0:08:17.98,0:08:21.36,main,sem,0000,0000,0000,,If I place the coin in my palm\Nand pinch it tightly,
+Dialogue: 0,0:08:21.36,0:08:25.31,main,sem,0000,0000,0000,,the pressure on both sides\Nwill make the coin fly!
+Dialogue: 0,0:08:26.93,0:08:29.71,italics,sem,0000,0000,0000,,Just be careful. Don't drop the coin!
+Dialogue: 0,0:08:30.82,0:08:31.69,main,sem,0000,0000,0000,,Oops!
+Dialogue: 0,0:08:32.30,0:08:33.95,italics,sem,0000,0000,0000,,Oh, no! Did I wake him up?
+Dialogue: 0,0:08:34.84,0:08:36.97,main,ass,0000,0000,0000,,Sempai... please....
+Dialogue: 0,0:08:36.97,0:08:38.72,italics,sem,0000,0000,0000,,He's talking in his sleep?
+Dialogue: 0,0:08:38.72,0:08:40.82,italics,sem,0000,0000,0000,,I wonder what he's dreaming about...
+Dialogue: 0,0:08:43.21,0:08:46.21,main,sem,0000,0000,0000,,Now it's time to bring out\N our two good friends!
+Dialogue: 0,0:08:46.51,0:08:48.84,main,sem,0000,0000,0000,,All I need is a single handkerchief.
+Dialogue: 0,0:08:48.84,0:08:52.43,main,sem,0000,0000,0000,,When I put this over my hand,\Na pigeon will appear—
+Dialogue: 0,0:08:52.90,0:08:54.80,italics,sem,0000,0000,0000,,—over there?!
+Dialogue: 0,0:08:58.38,0:09:00.71,italics,sem,0000,0000,0000,,But where's the other one?
+Dialogue: 0,0:09:01.22,0:09:04.23,italics,sem,0000,0000,0000,,Don't come out of there!
+Dialogue: 0,0:09:06.05,0:09:10.41,italics,sem,0000,0000,0000,,I'm glad he didn't see that,\Nbut without his snark, it feels a little...
+Dialogue: 0,0:09:10.41,0:09:12.06,italics,sem,0000,0000,0000,,I can't believe I acclimated to that.
+Dialogue: 0,0:09:13.60,0:09:17.24,main,sem,0000,0000,0000,,It got a little dicey for a minute there, but\NI got a pretty good club practice out of it!
+Dialogue: 0,0:09:17.66,0:09:20.24,main,sem,0000,0000,0000,,Hey, Assistant. It's time to go home!
+Dialogue: 0,0:09:20.24,0:09:21.99,main,sem,0000,0000,0000,,Assistant?
+Dialogue: 0,0:09:26.60,0:09:29.19,italics,sem,0000,0000,0000,,Maybe I'll leave him a while longer.
+Dialogue: 0,0:09:31.63,0:09:34.13,italics,sem,0000,0000,0000,,Okay, okay! Almost there!
+Dialogue: 0,0:09:34.50,0:09:38.26,italics,ass,0000,0000,0000,,Why did I feign sleep expecting\Nsomething to happen?!
+Dialogue: 0,0:09:38.26,0:09:40.26,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Bunny {\c&HDDCA21&}Sempai
+Dialogue: 0,0:09:38.64,0:09:40.01,main,,0000,0000,0000,,"Bunny Sempai."
+Dialogue: 0,0:09:45.36,0:09:47.54,main,sem,0000,0000,0000,,Sh-Shank you for coming today!
+Dialogue: 0,0:09:47.54,0:09:50.27,main,ass,0000,0000,0000,,Sempai... why are you dressed like that?
+Dialogue: 0,0:09:50.27,0:09:51.93,main,sem,0000,0000,0000,,You know how when you get a mosquito bite,
+Dialogue: 0,0:09:51.93,0:09:55.31,main,sem,0000,0000,0000,,and you pinch the nearby skin,\Nwhich hurts, but makes it itch less?
+Dialogue: 0,0:09:55.31,0:09:57.03,main,ass,0000,0000,0000,,I... g-guess so?
+Dialogue: 0,0:09:57.03,0:09:59.56,main,sem,0000,0000,0000,,So it occurred to me...
+Dialogue: 0,0:09:59.56,0:10:02.65,main,sem,0000,0000,0000,,To get over my stage fright—\Nin other words, my embarrassment—
+Dialogue: 0,0:10:02.65,0:10:05.44,main,sem,0000,0000,0000,,I just need to wear an even\Nmore embarrassing outfit!
+Dialogue: 0,0:10:05.44,0:10:08.19,main,ass,0000,0000,0000,,I worry for your future, Sempai.
+Dialogue: 0,0:10:08.56,0:10:11.04,main,sem,0000,0000,0000,,Today's performance begins\Nwith the cups and balls!
+Dialogue: 0,0:10:11.90,0:10:13.06,italics,ass,0000,0000,0000,,I can't look away!
+Dialogue: 0,0:10:13.06,0:10:16.02,main,sem,0000,0000,0000,,What, you love the trick that much?
+Dialogue: 0,0:10:16.02,0:10:17.32,main,ass,0000,0000,0000,,Like hell I do!
+Dialogue: 0,0:10:17.32,0:10:20.30,italics,ass,0000,0000,0000,,Stay calm. Don't get drawn\Ninto this deviant's rhythm!
+Dialogue: 0,0:10:20.65,0:10:22.60,italics,ass,0000,0000,0000,,See? She's as red as a beet!
+Dialogue: 0,0:10:22.60,0:10:26.06,italics,ass,0000,0000,0000,,You can't get over your stage\Nfright just by changing your outfit!
+Dialogue: 0,0:10:26.06,0:10:30.05,italics,ass,0000,0000,0000,,As usual, she'll fail the minute\Nshe's in front of an audience.
+Dialogue: 0,0:10:30.05,0:10:32.44,main,sem,0000,0000,0000,,So I hold the ball tight, and...
+Dialogue: 0,0:10:32.86,0:10:34.19,main,sem,0000,0000,0000,,There!
+Dialogue: 0,0:10:34.19,0:10:36.37,main,sem,0000,0000,0000,,Ta-dah! What a mystery!
+Dialogue: 0,0:10:36.37,0:10:39.00,main,sem,0000,0000,0000,,When I open my hand, the ball is gone!
+Dialogue: 0,0:10:39.24,0:10:41.45,main,ass,0000,0000,0000,,Sorry, I didn't see it.
+Dialogue: 0,0:10:41.45,0:10:43.28,main,sem,0000,0000,0000,,Of course you didn't!
+Dialogue: 0,0:10:43.28,0:10:45.29,main,sem,0000,0000,0000,,It's a testament to my skill!
+Dialogue: 0,0:10:45.29,0:10:47.46,main,ass,0000,0000,0000,,What's with that, "Hah, I tricked you!" look?
+Dialogue: 0,0:10:47.46,0:10:48.62,main,ass,0000,0000,0000,,Move on already!
+Dialogue: 0,0:10:49.33,0:10:53.71,main,sem,0000,0000,0000,,Next, watch! I've sandwiched\Nthe ball between the cups.
+Dialogue: 0,0:10:53.71,0:10:56.92,main,ass,0000,0000,0000,,Sandwiched... Must be pretty\N soft in there, yeah...
+Dialogue: 0,0:10:56.92,0:10:59.97,main,sem,0000,0000,0000,,Huh? The ball is quite hard, actually.
+Dialogue: 0,0:11:00.35,0:11:02.22,main,sem,0000,0000,0000,,Now I'll use my magic wand!
+Dialogue: 0,0:11:02.60,0:11:05.12,main,sem,0000,0000,0000,,If I stroke the side of\Nthe cups with the wand...
+Dialogue: 0,0:11:05.12,0:11:07.29,main,sem,0000,0000,0000,,W-Would you look at that?
+Dialogue: 0,0:11:07.29,0:11:09.73,main,sem,0000,0000,0000,,The balls have all moved to the bottom cup!
+Dialogue: 0,0:11:10.24,0:11:12.38,italics,sem,0000,0000,0000,,I managed it, even though he's watching!
+Dialogue: 0,0:11:12.38,0:11:14.75,main,ass,0000,0000,0000,,Incredible. Truly incredible.
+Dialogue: 0,0:11:15.22,0:11:19.21,main,sem,0000,0000,0000,,W-Well? How did you enjoy the cups and balls?
+Dialogue: 0,0:11:19.21,0:11:20.99,main,sem,0000,0000,0000,,I had a pretty good showing today, right?
+Dialogue: 0,0:11:20.99,0:11:23.08,main,ass,0000,0000,0000,,Yes, the cups were truly amazing!
+Dialogue: 0,0:11:23.08,0:11:24.49,main,sem,0000,0000,0000,,Hooray!

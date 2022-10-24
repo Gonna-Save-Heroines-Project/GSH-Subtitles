@@ -16,32 +16,27 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../Anime/[💉] Shuumatsu no Harem - S01E05 [WEB 1080p HEVC AAC].mkv
-Video File: ../../../../Anime/[💉] Shuumatsu no Harem - S01E05 [WEB 1080p HEVC AAC].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.675000
-Scroll Position: 16
-Active Line: 22
-Video Position: 1545
+Scroll Position: 254
+Active Line: 290
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Aller Loose,78,&H00FFFFFF,&H000000FF,&H00440554,&HB4000000,-1,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,1
+Style: Dialogue Overlap,Aller Loose,78,&H00FFFFFF,&H000000FF,&H00052854,&HB4000000,-1,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Ep Title,Ryumin ExtraHeavy,140,&H00EFECF6,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,0,0,5,10,10,10,1
 Style: Next Ep,Ryumin ExtraHeavy,200,&H00EEECF7,&H000000FF,&H00000000,&H00000000,0,0,0,0,90,100,0,0,1,0,0,8,10,10,10,1
-Style: OP TL,Arial,76,&H00EEEBF5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,50,50,30,1
+Style: OP TL,Noto Sans,78,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,50,50,20,1
+Style: ED TL,MADE Mirage,74,&H00EEEBF5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,3,0,8,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.19,0:00:04.55,Dialogue,Gu,0,0,0,,Nu se poate face un vaccin \Npe baza unui virus inactiv.
+Dialogue: 100,0:00:01.19,0:00:04.55,Dialogue,Gu,0,0,0,,Nu pot face un vaccin pe \Nbaza unui virus inactiv.
 Dialogue: 100,0:00:04.55,0:00:07.48,Dialogue,Gu,0,0,0,,Și nu ajung nicăieri cu o \Nvariantă mai slabă a virusului.
 Dialogue: 100,0:00:07.48,0:00:08.23,Dialogue,Gu,0,0,0,,La naiba!
 Dialogue: 100,0:00:10.67,0:00:12.74,Dialogue,Gu,0,0,0,,Dă-mi o lună.
-Dialogue: 100,0:00:12.74,0:00:16.73,Dialogue,Gu,0,0,0,,{\i1}Trebuie să-mi țin acea promisiune?
-Dialogue: 100,0:00:20.05,0:00:22.87,Dialogue,Gi,0,0,0,,Experimentele pe creaturi vii sunt dificile, deci...
+Dialogue: 100,0:00:12.74,0:00:16.73,Dialogue,Gu,0,0,0,,{\i1}Oare chiar trebuie să-mi \Nțin acea promisiune?
+Dialogue: 100,0:00:20.05,0:00:22.87,Dialogue,Gi,0,0,0,,Experimentele pe creaturi \Nvii sunt dificile, deci...
 Dialogue: 100,0:00:23.89,0:00:25.09,Dialogue,,0,0,0,,Au...
 Dialogue: 100,0:00:25.47,0:00:28.25,Dialogue,Gi,0,0,0,,S-Scuze! Eram pierdută în gânduri!
 Dialogue: 100,0:00:28.25,0:00:29.83,Dialogue,Gu,0,0,0,,Sunt bine, dar...
@@ -51,7 +46,7 @@ Dialogue: 100,0:00:41.97,0:00:43.20,Dialogue,Gu,0,0,0,,Autograful meu?
 Dialogue: 100,0:00:43.20,0:00:44.02,Dialogue,Gi,0,0,0,,Da.
 Dialogue: 100,0:00:44.58,0:00:45.59,Dialogue,Gu,0,0,0,,Poftim.
 Dialogue: 100,0:00:45.59,0:00:46.52,Dialogue,Gi,0,0,0,,Mersi.
-Dialogue: 100,0:00:46.52,0:00:50.90,Dialogue,Gi,0,0,0,,El e un pervers care atacă orice femeie vede.
+Dialogue: 100,0:00:46.52,0:00:50.90,Dialogue,Gi,0,0,0,,El e un pervers care \Natacă orice femeie vede.
 Dialogue: 100,0:00:50.90,0:00:53.06,Dialogue,Gi,0,0,0,,S-Scuză-ne!
 Dialogue: 100,0:00:54.37,0:00:55.53,Dialogue,Gu,0,0,0,,Pervers?
 Dialogue: 100,0:00:55.53,0:00:57.28,Dialogue,Gu,0,0,0,,Asta e cam nepoliticos.
@@ -70,336 +65,502 @@ Dialogue: 100,0:01:24.04,0:01:25.23,Dialogue,Gi,0,0,0,,Ți le voi prezenta.
 Dialogue: 100,0:01:28.00,0:01:30.51,Dialogue,Gi,0,0,0,,Ele sunt Katagiri Rea și Kuroda Maria.
 Dialogue: 100,0:01:30.51,0:01:32.73,Dialogue,Gi,0,0,0,,Vor fi noile tale însoțitoare.
 Dialogue: 100,0:03:06.80,0:03:08.33,Dialogue,Gu,0,0,0,,Ce se petrece aici?
-Dialogue: 100,0:03:08.33,0:03:12.53,Dialogue,Gi,0,0,0,,Mizuhara Reito, you are \Nnow famous worldwide,
-Dialogue: 100,0:03:12.53,0:03:15.61,Dialogue,Gi,0,0,0,,and in a unique position compared \Nto the rest of the Numbers.
-Dialogue: 100,0:03:15.61,0:03:18.88,Dialogue,Gi,0,0,0,,Deci îți vom da mai mult de o însoțitoare.
-Dialogue: 100,0:03:18.88,0:03:22.09,Dialogue,Gi,0,0,0,,There's no rule saying you can only have one.
-Dialogue: 100,0:03:22.41,0:03:24.95,Dialogue,Gi,0,0,0,,Kuroda Maria is a researcher.
-Dialogue: 100,0:03:24.95,0:03:27.81,Dialogue,,0,0,0,,Our technology director \Ntrusts her quite a bit.
-Dialogue: 100,0:03:27.81,0:03:30.32,Dialogue,Gi,0,0,0,,She'll be useful in your research.
-Dialogue: 100,0:03:30.32,0:03:32.60,Dialogue,Gi,0,0,0,,N-Nice to meet you.
-Dialogue: 100,0:03:32.94,0:03:37.41,Dialogue,Gi,0,0,0,,Katagiri will relieve Suou \Nand see to your needs.
-Dialogue: 100,0:03:37.41,0:03:40.54,Dialogue,Gi,0,0,0,,She was a Citizen Relations Officer.
-Dialogue: 100,0:03:40.54,0:03:41.49,Dialogue,Gu,0,0,0,,Citizen Relations Officer?
-Dialogue: 100,0:03:41.73,0:03:46.70,Dialogue,Gi,0,0,0,,Her job was to interact with the people \Non behalf of UW, and keep them pacified.
-Dialogue: 100,0:03:46.99,0:03:48.84,Dialogue,Gi,0,0,0,,She knows the outside world well.
-Dialogue: 100,0:03:48.84,0:03:51.34,Dialogue,Gi,0,0,0,,If you want to know something, ask her.
-Dialogue: 100,0:03:52.66,0:03:55.08,Dialogue,Gi,0,0,0,,I'll be going, then.
-Dialogue: 100,0:03:57.76,0:03:59.09,Dialogue,Gu,0,0,0,,Suou-san!
-Dialogue: 100,0:04:01.96,0:04:03.97,Dialogue,Gu,0,0,0,,Why did you make her leave?
-Dialogue: 100,0:04:04.32,0:04:08.93,Dialogue,Gi,0,0,0,,If you like her that much, \Njust mate with her.
-Dialogue: 100,0:04:08.93,0:04:09.89,Dialogue,Gu,0,0,0,,I will not!
-Dialogue: 100,0:04:09.89,0:04:12.18,Dialogue,Gi,0,0,0,,Don't get so mad!
-Dialogue: 100,0:04:12.50,0:04:17.33,Dialogue,Gi,0,0,0,,As soon as the paperwork is finished, \NSuou Mira will no longer be your attendant.
-Dialogue: 100,0:04:17.33,0:04:20.82,Dialogue,Gi,0,0,0,,But she may still stay with \Nyou as a mating candidate.
-Dialogue: 100,0:04:25.12,0:04:28.28,Dialogue,Gi,0,0,0,,It's your fault she was forced to leave.
-Dialogue: 100,0:04:29.05,0:04:34.64,Dialogue,Gi,0,0,0,,Her most important mission was to get you \Nto mate with as many girls as possible.
-Dialogue: 100,0:04:34.64,0:04:38.84,Dialogue,Gi,0,0,0,,She failed, so of course she lost the job.
-Dialogue: 100,0:04:38.84,0:04:42.19,Dialogue,Gi,0,0,0,,If you don't like it, then why \Nnot go mate with someone?
-Dialogue: 100,0:04:43.34,0:04:47.64,Dialogue,Gi,0,0,0,,And while I'll permit you to \Ncontinue your research into a cure,
-Dialogue: 100,0:04:47.64,0:04:53.35,Dialogue,Gi,0,0,0,,if you're not going to mate with anyone, \Nyour other freedoms will be restricted.
-Dialogue: 100,0:04:53.66,0:04:55.23,Dialogue,Gu,0,0,0,,That's not fair!
+Dialogue: 100,0:03:08.33,0:03:12.53,Dialogue,Gi,0,0,0,,Mizuhara Reito, acum ești \Ncelebru în întreaga lume
+Dialogue: 100,0:03:12.53,0:03:15.61,Dialogue,Gi,0,0,0,,și într-o poziție unică \Nfață de celelalte Numere.
+Dialogue: 100,0:03:15.61,0:03:18.88,Dialogue,Gi,0,0,0,,Deci îți vom da mai \Nmult de o însoțitoare.
+Dialogue: 100,0:03:18.88,0:03:22.09,Dialogue,Gi,0,0,0,,Nu există nicio regulă care să spună că poți avea doar una.
+Dialogue: 100,0:03:22.41,0:03:24.95,Dialogue,Gi,0,0,0,,Kuroda Maria e o cercetătoare.
+Dialogue: 100,0:03:24.95,0:03:27.81,Dialogue,,0,0,0,,Directorul tehnologiei \Nare ceva încredere în ea.
+Dialogue: 100,0:03:27.81,0:03:30.32,Dialogue,Gi,0,0,0,,Îți va fi de folos în cercetările tale.
+Dialogue: 100,0:03:30.32,0:03:32.60,Dialogue,Gi,0,0,0,,Î-Încântată de cunoștință.
+Dialogue: 100,0:03:32.94,0:03:37.41,Dialogue,Gi,0,0,0,,Katagiri o va înlocui pe Suou și se va ocupa de nevoile tale.
+Dialogue: 100,0:03:37.41,0:03:40.54,Dialogue,Gi,0,0,0,,Ea a fost un ofițer relații publice.
+Dialogue: 100,0:03:40.54,0:03:41.49,Dialogue,Gu,0,0,0,,Ofițer relații publice?
+Dialogue: 100,0:03:41.73,0:03:46.70,Dialogue,Gi,0,0,0,,Treaba ei a fost să interacționeze cu oamenii în numele OF și să-i liniștească.
+Dialogue: 100,0:03:46.99,0:03:48.84,Dialogue,Gi,0,0,0,,Cunoaște bine lumea de afară.
+Dialogue: 100,0:03:48.84,0:03:51.34,Dialogue,Gi,0,0,0,,Dacă vrei ceva, vorbește cu ea.
+Dialogue: 100,0:03:52.66,0:03:55.08,Dialogue,Gi,0,0,0,,În acest caz, voi pleca.
+Dialogue: 100,0:03:57.76,0:03:59.09,Dialogue,Gu,0,0,0,,Suou!
+Dialogue: 100,0:04:01.96,0:04:03.97,Dialogue,Gu,0,0,0,,De ce ați eliberat-o din funcție?
+Dialogue: 100,0:04:04.32,0:04:08.93,Dialogue,Gi,0,0,0,,Dacă o placi așa de mult, \Nîmperechează-te cu ea.
+Dialogue: 100,0:04:08.93,0:04:09.89,Dialogue,Gu,0,0,0,,Nu voi face așa ceva!
+Dialogue: 100,0:04:09.89,0:04:12.18,Dialogue,Gi,0,0,0,,Înfricoșător! Nu te enerva așa de tare!
+Dialogue: 100,0:04:12.50,0:04:17.33,Dialogue,Gi,0,0,0,,Imediat ce toate documentele sunt completate, Suou Mira nu va mai fi însoțitoarea ta.
+Dialogue: 100,0:04:17.33,0:04:20.82,Dialogue,Gi,0,0,0,,Dar îți poate rămâne alături drept o posibilă parteneră de împerecheat.
+Dialogue: 100,0:04:25.12,0:04:28.28,Dialogue,Gi,0,0,0,,E vina ta pentru că a \Nfost eliberată din funcție.
+Dialogue: 100,0:04:29.05,0:04:34.64,Dialogue,Gi,0,0,0,,Cea mai importantă misiune a ei a fost să te facă să te împerechezi cu cât mai multe femei posibil.
+Dialogue: 100,0:04:34.64,0:04:38.84,Dialogue,Gi,0,0,0,,Nu a reușit să facă asta, \Ndeci și-a pierdut postul.
+Dialogue: 100,0:04:38.84,0:04:42.19,Dialogue,Gi,0,0,0,,Dacă nu-ți place asta, de ce nu mergi să te împerechezi cu cineva?
+Dialogue: 100,0:04:43.34,0:04:47.64,Dialogue,Gi,0,0,0,,Și, în timp ce-ți voi permite \Nsă lucrezi la un vaccin.
+Dialogue: 100,0:04:47.64,0:04:53.35,Dialogue,Gi,0,0,0,,dacă nu te vei împerechea cu nimeni, celelalte libertăți ale tale vor avea de suferit.
+Dialogue: 100,0:04:53.66,0:04:55.23,Dialogue,Gu,0,0,0,,Asta nu e corect!
 Dialogue: 100,0:04:59.36,0:05:00.22,Dialogue,Gi,0,0,0,,Mira!
-Dialogue: 100,0:05:01.30,0:05:02.58,Dialogue,Gi,0,0,0,,It's been a long time.
-Dialogue: 100,0:05:02.58,0:05:03.61,Dialogue,Gi,0,0,0,,Yes.
-Dialogue: 100,0:05:03.61,0:05:05.59,Dialogue,Gi,0,0,0,,You've lost weight.
-Dialogue: 100,0:05:06.18,0:05:09.12,Dialogue,Gi,0,0,0,,Take care of Mizuhara-sama.
-Dialogue: 100,0:05:09.36,0:05:13.26,Dialogue,Gi,0,0,0,,You don't need to worry about that man.
-Dialogue: 100,0:05:13.26,0:05:16.87,Dialogue,Gi,0,0,0,,He's just a loser who only \Nthinks of women as tools.
-Dialogue: 100,0:05:17.84,0:05:20.88,Dialogue,Gi,0,0,0,,That's not who he is.
-Dialogue: 100,0:05:21.19,0:05:22.44,Dialogue,Gi,0,0,0,,Goodbye.
-Dialogue: 100,0:05:22.44,0:05:23.88,Dialogue,Gi,0,0,0,,Wait! Listen, Mira!
-Dialogue: 100,0:05:23.88,0:05:25.86,Dialogue,Gi,0,0,0,,If you let your guard down around a man...
-Dialogue: 100,0:05:26.61,0:05:31.22,Dialogue,Gi,0,0,0,,You're as beautiful as ever, aren't you? \NLike time's stopped.
-Dialogue: 100,0:05:36.80,0:05:38.40,Dialogue,Gu,0,0,0,,Um, Kuroda-san?
-Dialogue: 100,0:05:39.12,0:05:40.00,Dialogue,Gi,0,0,0,,Y-Y-Yes?
-Dialogue: 100,0:05:40.00,0:05:42.95,Dialogue,Gu,0,0,0,,What is there where we're going?
-Dialogue: 100,0:05:42.95,0:05:45.86,Dialogue,Gi,0,0,0,,It's called Keimon City. \NThere is a hot spring.
-Dialogue: 100,0:05:45.86,0:05:48.16,Dialogue,Gu,0,0,0,,A hot spring? Is that all?
-Dialogue: 100,0:05:48.16,0:05:52.62,Dialogue,Gi,0,0,0,,Um... somebody important in \Nthe MK Virus research field.
-Dialogue: 100,0:05:52.62,0:05:54.12,Dialogue,Gu,0,0,0,,Somebody important?
-Dialogue: 100,0:05:55.79,0:05:57.36,Dialogue,Gi,0,0,0,,What are you doing?
-Dialogue: 100,0:05:57.36,0:05:58.62,Dialogue,Gu,0,0,0,,Sorry!
-Dialogue: 100,0:05:58.62,0:06:00.61,Dialogue,Gi,0,0,0,,I'll go change.
-Dialogue: 100,0:06:05.56,0:06:08.26,Dialogue,Gi,0,0,0,,You should just go over there.
-Dialogue: 100,0:06:09.09,0:06:13.35,Dialogue,Gi,0,0,0,,I'm not Mizuhara-san's attendant right now.
-Dialogue: 100,0:06:14.76,0:06:17.78,Dialogue,Gi,0,0,0,,You've got a difficult \Npersonality, too, don't you?
-Dialogue: 100,0:06:23.44,0:06:25.86,Dialogue,Gu,0,0,0,,I'm sorry, Kuroda-san.
-Dialogue: 100,0:06:26.10,0:06:28.36,Dialogue,Gi,0,0,0,,No, I'm sorry.
-Dialogue: 100,0:06:28.36,0:06:31.44,Dialogue,Gi,0,0,0,,I'm not used to men.
-Dialogue: 100,0:06:31.44,0:06:33.53,Dialogue,Gu,0,0,0,,Is it okay if we try to \Nbe a little more casual?
-Dialogue: 100,0:06:33.53,0:06:35.12,Dialogue,Gu,0,0,0,,We're close, age-wise.
-Dialogue: 100,0:06:36.54,0:06:37.51,Dialogue,Gi,0,0,0,,Okay...
-Dialogue: 100,0:06:38.12,0:06:41.55,Dialogue,Gu,0,0,0,,Kuroda-san, you said you \Nstudy virology, right?
-Dialogue: 100,0:06:41.55,0:06:42.63,Dialogue,Gi,0,0,0,,Yes.
-Dialogue: 100,0:06:42.63,0:06:47.13,Dialogue,Gi,0,0,0,,I know a decent amount about \Nthe MK Virus, I think.
-Dialogue: 100,0:06:47.13,0:06:49.88,Dialogue,Gi,0,0,0,,{\i1}The MK Virus was artificially created!
-Dialogue: 100,0:06:50.27,0:06:54.16,Dialogue,Gu,0,0,0,,How do you think it was born?
-Dialogue: 100,0:06:54.16,0:06:56.73,Dialogue,Gi,0,0,0,,There are three theories \Non the origin of viruses.
-Dialogue: 100,0:06:56.73,0:06:57.93,Dialogue,Gi,0,0,0,,The regressive hypothesis,
-Dialogue: 100,0:06:57.93,0:07:01.89,Dialogue,Gi,0,0,0,,The escape hypothesis, \Nand the virus-first hypothesis.
-Dialogue: 100,0:07:01.89,0:07:03.93,Dialogue,Gi,0,0,0,,But we don't know yet.
-Dialogue: 100,0:07:03.93,0:07:08.28,Dialogue,Gi,0,0,0,,And since we don't know, "how it was born" \Nmay not even be the right phrase to use.
-Dialogue: 100,0:07:08.82,0:07:14.40,Dialogue,Gi,0,0,0,,It's possible that something that's existed for \Neons only just now came in contact with humanity.
-Dialogue: 100,0:07:14.40,0:07:19.54,Dialogue,Gi,0,0,0,,In fact, in biology, viruses aren't \Neven treated as living creatures...
-Dialogue: 100,0:07:19.54,0:07:21.53,Dialogue,Gu,0,0,0,,{\i1}She's suddenly much more talkative...
-Dialogue: 100,0:07:21.53,0:07:25.29,Dialogue,Gi,0,0,0,,Is it possible that a human made it?
-Dialogue: 100,0:07:26.08,0:07:28.91,Dialogue,Gu,0,0,0,,You've got an interesting theory.
-Dialogue: 100,0:07:29.67,0:07:31.06,Dialogue,Gi,0,0,0,,Put on your clothes.
-Dialogue: 100,0:07:31.06,0:07:35.55,Dialogue,Gi,0,0,0,,We might find some clues where we're going.
-Dialogue: 100,0:07:35.73,0:07:37.85,Dialogue,Gu,0,0,0,,Wh-What do you mean?
-Dialogue: 100,0:07:37.85,0:07:43.94,Dialogue,Gi,0,0,0,,Keimon City is where the first victim \Nof the MK Virus in Japan appeared.
-Dialogue: 100,0:07:47.07,0:07:48.71,Dialogue,Gi,0,0,0,,It's huge!
-Dialogue: 100,0:07:48.71,0:07:51.07,Dialogue,Gi,0,0,0,,The lake's so big!
-Dialogue: 100,0:07:51.07,0:07:55.23,Dialogue,Gi,0,0,0,,There's a group of students on a trip here.
-Dialogue: 100,0:07:55.23,0:07:56.58,Dialogue,Gi,0,0,0,,But beyond that, we have \Nthe place to ourselves.
-Dialogue: 100,0:07:56.58,0:07:58.92,Dialogue,Gi,0,0,0,,I heard we're having \Nspiny lobster for dinner!
-Dialogue: 100,0:07:58.92,0:08:00.97,Dialogue,Gi,0,0,0,,Let's go play ping-pong! Ping-pong!
-Dialogue: 100,0:08:00.97,0:08:02.71,Dialogue,Gi,0,0,0,,Forget that. Let's hit the hot springs!
-Dialogue: 100,0:08:02.97,0:08:05.29,Dialogue,Gi,0,0,0,,We're not here to play!
-Dialogue: 100,0:08:05.97,0:08:07.54,Dialogue,Gu,0,0,0,,This place is pretty...
-Dialogue: 100,0:08:07.86,0:08:10.55,Dialogue,Gi,0,0,0,,I wish Mahiru-chan could've come.
-Dialogue: 100,0:08:10.55,0:08:13.68,Dialogue,Gi,0,0,0,,We can't let an outsider tag along.
-Dialogue: 100,0:08:13.68,0:08:17.80,Dialogue,Gi,0,0,0,,Creating an environment that relaxes \NReito is part of your job, right?
-Dialogue: 100,0:08:18.13,0:08:21.36,Dialogue,Gi,0,0,0,,My job is to manage his daily life
-Dialogue: 100,0:08:21.36,0:08:24.06,Dialogue,Gi,0,0,0,,and help him focus on viral research.
-Dialogue: 100,0:08:24.36,0:08:26.44,Dialogue,Gi,0,0,0,,We disagree there, then.
-Dialogue: 100,0:08:27.39,0:08:28.19,Dialogue,Gu,0,0,0,,Um...
-Dialogue: 100,0:08:31.20,0:08:33.98,Dialogue,GI,0,0,0,,That looks fun! Let me join in!
-Dialogue: 100,0:08:34.70,0:08:36.53,Dialogue,GI,0,0,0,,Knock it off!
-Dialogue: 100,0:08:39.87,0:08:42.61,Dialogue,Gu,0,0,0,,I wish I could've gone into \Nthe open-air bath, too...
-Dialogue: 100,0:08:45.79,0:08:47.58,Dialogue,Gu,0,0,0,,A holographic open-air bath!
-Dialogue: 100,0:08:48.98,0:08:50.84,Dialogue,Gi,0,0,0,,This isn't bad either.
-Dialogue: 100,0:08:57.24,0:08:57.86,Dialogue,Gi,0,0,0,,Why...?
-Dialogue: 100,0:08:57.86,0:09:01.76,Dialogue,Gi,0,0,0,,It's fine. It's more fun \Nif we all go in together.
-Dialogue: 100,0:09:01.76,0:09:04.98,Dialogue,Gi,0,0,0,,There's no "Men's Bath" and \N"Women's Bath" these days.
-Dialogue: 100,0:09:05.87,0:09:07.32,Dialogue,Gu,0,0,0,,I'll leave...
-Dialogue: 100,0:09:07.32,0:09:08.23,Dialogue,Gi,0,0,0,,Hold on.
-Dialogue: 100,0:09:08.50,0:09:11.86,Dialogue,Gi,0,0,0,,I'll wash your back as thanks \Nfor all the help you give me.
-Dialogue: 100,0:09:11.86,0:09:15.09,Dialogue,Gu,0,0,0,,No, you're the one who's \Nhelping me all the time!
-Dialogue: 100,0:09:15.09,0:09:16.62,Dialogue,Gu,0,0,0,,It's the other way around!
-Dialogue: 100,0:09:17.53,0:09:19.37,Dialogue,Gi,0,0,0,,Then maybe I'll ask you for help, then.
-Dialogue: 100,0:09:20.49,0:09:23.78,Dialogue,Gi,0,0,0,,Wash our backs.
-Dialogue: 100,0:09:26.25,0:09:31.28,Dialogue,Gi,0,0,0,,It's so nice, having Reito-sama wash my back!
-Dialogue: 100,0:09:32.11,0:09:33.95,Dialogue,Gu,0,0,0,,Okay, all clean.
-Dialogue: 100,0:09:33.95,0:09:35.51,Dialogue,Gi,0,0,0,,Thank you!
-Dialogue: 100,0:09:36.80,0:09:38.99,Dialogue,Gi,0,0,0,,G-Go ahead.
-Dialogue: 100,0:09:40.01,0:09:41.79,Dialogue,Gu,0,0,0,,O-Okay...
-Dialogue: 100,0:09:41.79,0:09:44.20,Dialogue,Gi,0,0,0,,{\i1}She's like a different person.
-Dialogue: 100,0:09:44.20,0:09:47.20,Dialogue,Gi,0,0,0,,{\i1}Does her personality change when \Nshe's talking about the virus?
-Dialogue: 100,0:09:50.41,0:09:51.90,Dialogue,Gu,0,0,0,,Sorry! Was it too hot?
-Dialogue: 100,0:09:51.90,0:09:54.28,Dialogue,Gi,0,0,0,,I'll do the rest myself.
-Dialogue: 100,0:09:54.70,0:09:57.32,Dialogue,Gi,0,0,0,,Go ahead.
-Dialogue: 100,0:09:59.16,0:10:00.28,Dialogue,Gu,0,0,0,,Sit down.
-Dialogue: 100,0:10:06.95,0:10:09.04,Dialogue,Gu,0,0,0,,{\i1}She has such a pretty back.
-Dialogue: 100,0:10:09.04,0:10:11.13,Dialogue,Gi,0,0,0,,Why not have him wash yours, too?
-Dialogue: 100,0:10:11.13,0:10:12.51,Dialogue,Gi,0,0,0,,Not a chance.
-Dialogue: 100,0:10:12.51,0:10:14.80,Dialogue,Gi,0,0,0,,Okay, I'm last, then.
-Dialogue: 100,0:10:16.18,0:10:17.57,Dialogue,Gu,0,0,0,,It's finally over...
-Dialogue: 100,0:10:17.57,0:10:19.09,Dialogue,Gi,0,0,0,,Not that.
-Dialogue: 100,0:10:19.44,0:10:23.60,Dialogue,Gi,0,0,0,,My skin is sensitive. \NWill you wash me with your hands?
-Dialogue: 100,0:10:27.12,0:10:30.85,Dialogue,Gi,0,0,0,,That feels so good. You're good at this.
-Dialogue: 100,0:10:30.85,0:10:33.11,Dialogue,Gu,0,0,0,,I-I'll wash it off.
-Dialogue: 100,0:10:33.44,0:10:36.36,Dialogue,Gi,0,0,0,,Not yet. Here, too.
-Dialogue: 100,0:10:40.36,0:10:42.37,Dialogue,Gi,0,0,0,,You can do the legs, too, can't you?
-Dialogue: 100,0:10:42.62,0:10:46.87,Dialogue,Gi,0,0,0,,Run your hands over every little bit.
-Dialogue: 100,0:10:49.87,0:10:51.48,Dialogue,Gi,0,0,0,,And lastly this.
-Dialogue: 100,0:10:53.28,0:10:54.48,Dialogue,Gu,0,0,0,,I'm leaving!
-Dialogue: 100,0:10:54.48,0:10:56.63,Dialogue,Gu,0,0,0,,Do the rest yourself!
-Dialogue: 100,0:10:57.17,0:10:59.19,Dialogue,Gi,0,0,0,,And I was so close, too.
-Dialogue: 100,0:11:02.88,0:11:05.64,Dialogue,Gi,0,0,0,,It's been so long since \NI've seen Ms. Taniguchi.
-Dialogue: 100,0:11:05.64,0:11:09.14,Dialogue,Gi,0,0,0,,I'm Katagiri Rea with UW's Japan branch.
-Dialogue: 100,0:11:09.14,0:11:09.89,Dialogue,Gi,0,0,0,,This is...
-Dialogue: 100,0:11:09.89,0:11:11.18,Dialogue,Gi,0,0,0,,I know.
-Dialogue: 100,0:11:12.40,0:11:15.51,Dialogue,Gi,0,0,0,,We're here to talk about your husband...
-Dialogue: 100,0:11:15.51,0:11:18.65,Dialogue,Gi,0,0,0,,I told you everything I could.
-Dialogue: 100,0:11:19.23,0:11:21.27,Dialogue,Gi,0,0,0,,I saw your press conference.
-Dialogue: 100,0:11:21.27,0:11:22.41,Dialogue,Gu,0,0,0,,Thank you.
-Dialogue: 100,0:11:22.41,0:11:25.21,Dialogue,Gi,0,0,0,,But it's not my problem.
-Dialogue: 100,0:11:25.21,0:11:29.41,Dialogue,Gi,0,0,0,,My husband's not coming back, \Neven if you do make a cure.
-Dialogue: 100,0:11:29.41,0:11:33.31,Dialogue,Gi,0,0,0,,Taniguchi-san, can you \Ntell us what your husband
-Dialogue: 100,0:11:33.31,0:11:37.34,Dialogue,,0,0,0,,was doing just before \Nhe contracted the virus?
-Dialogue: 100,0:11:37.34,0:11:38.05,Dialogue,Gi,0,0,0,,No.
-Dialogue: 100,0:11:38.05,0:11:40.80,Dialogue,Gi,0,0,0,,Please! This is for all humanity's sake!
-Dialogue: 100,0:11:40.80,0:11:43.68,Dialogue,Gi,0,0,0,,You took his body and sliced it into pieces!
-Dialogue: 100,0:11:43.95,0:11:48.21,Dialogue,Gi,0,0,0,,Ma'am, that's called an autopsy. We have \Nto do it to find out what happened...
-Dialogue: 100,0:11:48.21,0:11:49.72,Dialogue,Gi,0,0,0,,I don't care.
-Dialogue: 100,0:11:49.72,0:11:52.56,Dialogue,Gi,0,0,0,,He hated doctors.
-Dialogue: 100,0:11:53.43,0:11:54.23,Dialogue,Gi,0,0,0,,Taniguchi-san!
-Dialogue: 100,0:11:54.23,0:11:55.56,Dialogue,Gi,0,0,0,,Don't touch me.
-Dialogue: 100,0:11:55.99,0:11:58.32,Dialogue,Gu,0,0,0,,What do I have to do to get you to help me?
-Dialogue: 100,0:12:00.35,0:12:02.04,Dialogue,Gi,0,0,0,,You can screw me.
-Dialogue: 100,0:12:02.85,0:12:04.82,Dialogue,Gi,0,0,0,,I'm joking, of course.
-Dialogue: 100,0:12:05.20,0:12:06.26,Dialogue,Gi,0,0,0,,Leave.
-Dialogue: 100,0:12:09.98,0:12:14.50,Dialogue,Gi,0,0,0,,The MK Virus appeared in multiple \Nspots all around the world at once.
-Dialogue: 100,0:12:14.95,0:12:17.41,Dialogue,Gi,0,0,0,,There's a theory that it was bioterrorism \Nby a nation-state or terrorist group.
-Dialogue: 100,0:12:17.41,0:12:18.77,Dialogue,Gi,0,0,0,,A theory it arose naturally.
-Dialogue: 100,0:12:18.77,0:12:22.76,Dialogue,Gi,0,0,0,,And even a theory that the Earth \Nitself created it to purge humanity.
-Dialogue: 100,0:12:22.76,0:12:25.68,Dialogue,Gi,0,0,0,,But we don't know where it came from.
-Dialogue: 100,0:12:26.51,0:12:31.64,Dialogue,Gi,0,0,0,,Ms. Taniguchi's husband was \Nthe first victim in Japan.
-Dialogue: 100,0:12:32.61,0:12:36.52,Dialogue,Gi,0,0,0,,He hated technology and had no GPS on him.
-Dialogue: 100,0:12:37.02,0:12:39.89,Dialogue,Gi,0,0,0,,If we knew what he was doing and where he was
-Dialogue: 100,0:12:39.89,0:12:43.29,Dialogue,Gi,0,0,0,,before he got sick, \Nit might give us a clue, but...
-Dialogue: 100,0:12:44.22,0:12:47.00,Dialogue,Gi,0,0,0,,She greatly distrusts UW.
-Dialogue: 100,0:12:47.59,0:12:50.17,Dialogue,Gi,0,0,0,,The government at the time was really rough.
-Dialogue: 100,0:12:54.49,0:12:57.29,Dialogue,Gi,0,0,0,,The person you care about was here.
-Dialogue: 100,0:12:57.63,0:13:01.82,Dialogue,Gi,0,0,0,,Why not meet him, Erisa?
-Dialogue: 100,0:13:03.93,0:13:05.72,Dialogue,Gi,0,0,0,,You never learn.
-Dialogue: 100,0:13:05.72,0:13:07.69,Dialogue,Gi,0,0,0,,It doesn't matter how many times \Nyou come. It won't change a thing.
-Dialogue: 100,0:13:07.69,0:13:08.72,Dialogue,Gu,0,0,0,,Please!
-Dialogue: 100,0:13:09.11,0:13:13.85,Dialogue,Gu,0,0,0,,If we know what your husband was doing, \Nwe might know where the virus came from!
-Dialogue: 100,0:13:13.85,0:13:17.98,Dialogue,Gi,0,0,0,,You should just stop making \Nvaccines and start making kids.
-Dialogue: 100,0:13:19.00,0:13:22.73,Dialogue,Gi,0,0,0,,Your biggest job right now is making kids.
-Dialogue: 100,0:13:23.04,0:13:26.36,Dialogue,Gi,0,0,0,,I'm sure you're having some fun with \Nthe crowd of girls behind you, though.
-Dialogue: 100,0:13:26.67,0:13:27.91,Dialogue,Gu,0,0,0,,I'm...
-Dialogue: 100,0:13:27.91,0:13:34.75,Dialogue,Gi,0,0,0,,Mizuhara hasn't mated, that is, had any \Nsexual relations with women after waking up.
-Dialogue: 100,0:13:36.29,0:13:38.88,Dialogue,Gi,0,0,0,,The rest of you, leave.
-Dialogue: 100,0:13:39.92,0:13:41.63,Dialogue,Gi,0,0,0,,I don't get it.
-Dialogue: 100,0:13:42.92,0:13:47.68,Dialogue,Gi,0,0,0,,Most people in your situation would be going \Nat it like a rabbit with any girl he could find.
-Dialogue: 100,0:13:47.68,0:13:51.14,Dialogue,Gi,0,0,0,,You'd have enough time left \Nover to research the medicine.
-Dialogue: 100,0:13:51.59,0:13:53.49,Dialogue,Gu,0,0,0,,I don't have the kind of \Npersonality you'd need
-Dialogue: 100,0:13:53.49,0:13:56.77,Dialogue,,0,0,0,,to be having fun with girls \Nwhile doing research.
-Dialogue: 100,0:13:56.77,0:13:58.68,Dialogue,Gi,0,0,0,,You gay?
-Dialogue: 100,0:13:58.68,0:14:00.21,Dialogue,Gu,0,0,0,,No.
-Dialogue: 100,0:14:00.21,0:14:02.25,Dialogue,Gu,0,0,0,,There are a lot of girls who are very pretty.
-Dialogue: 100,0:14:02.25,0:14:05.40,Dialogue,Gu,0,0,0,,And honestly, I'd love to \Ndo what they want me to.
-Dialogue: 100,0:14:05.40,0:14:06.87,Dialogue,Gi,0,0,0,,So why?
-Dialogue: 100,0:14:06.87,0:14:09.24,Dialogue,Gi,0,0,0,,That's what would benefit the world the most.
-Dialogue: 100,0:14:10.70,0:14:13.53,Dialogue,Gu,0,0,0,,There's a girl I'm in love with.
-Dialogue: 100,0:14:14.35,0:14:16.99,Dialogue,Gu,0,0,0,,I know it's selfish,
-Dialogue: 100,0:14:16.99,0:14:22.25,Dialogue,,0,0,0,,but I figured if I put my efforts into \Nfinding a cure for the MK Virus,
-Dialogue: 100,0:14:22.56,0:14:25.76,Dialogue,,0,0,0,,it would make up for it.
-Dialogue: 100,0:14:28.56,0:14:30.30,Dialogue,Gu,0,0,0,,We're done talking.
-Dialogue: 100,0:14:42.35,0:14:44.40,Dialogue,Gu,0,0,0,,It feels so good to be outside!
-Dialogue: 100,0:14:44.74,0:14:49.53,Dialogue,Gu,0,0,0,,If Rea-san finds out I brought you to the \Nopen-air bath, she'll get mad at me!
-Dialogue: 100,0:14:49.53,0:14:52.22,Dialogue,Gu,0,0,0,,It's fine! Nobody's here.
-Dialogue: 100,0:14:52.22,0:14:55.16,Dialogue,Gi,0,0,0,,Don't blame me if something happens.
-Dialogue: 100,0:14:55.16,0:14:58.42,Dialogue,Gu,0,0,0,,{\i1}Taniguchi-san managed to \Navoid telling me anything.
-Dialogue: 100,0:14:58.42,0:14:59.53,Dialogue,Gi,0,0,0,,Come on, hurry!
-Dialogue: 100,0:14:59.53,0:15:01.17,Dialogue,Gu,0,0,0,,Reito-sama, hide!
-Dialogue: 100,0:15:02.48,0:15:05.05,Dialogue,Gi,0,0,0,,Um, this bath is in use...
-Dialogue: 100,0:15:05.05,0:15:06.24,Dialogue,Gi,0,0,0,,She's so cute!
-Dialogue: 100,0:15:06.24,0:15:07.69,Dialogue,Gu,0,0,0,,The students?
-Dialogue: 100,0:15:08.93,0:15:11.61,Dialogue,Gu,0,0,0,,I'll just have to hide in here for a little.
+Dialogue: 100,0:05:01.30,0:05:02.58,Dialogue,Gi,0,0,0,,A trecut ceva timp.
+Dialogue: 100,0:05:02.58,0:05:03.61,Dialogue,Gi,0,0,0,,Da.
+Dialogue: 100,0:05:03.61,0:05:05.59,Dialogue,Gi,0,0,0,,Văd că ai slăbit puțin.
+Dialogue: 100,0:05:06.18,0:05:09.12,Dialogue,Gi,0,0,0,,Ai grjiă de Mizuhara.
+Dialogue: 100,0:05:09.36,0:05:13.26,Dialogue,Gi,0,0,0,,Nu trebuie să-ți faci \Ngriji pentru acel bărbat.
+Dialogue: 100,0:05:13.26,0:05:16.87,Dialogue,Gi,0,0,0,,E doar un fraier care crede că femeile sunt doar niște unelte.
+Dialogue: 100,0:05:17.84,0:05:20.88,Dialogue,Gi,0,0,0,,Nu este adevărat.
+Dialogue: 100,0:05:21.19,0:05:22.44,Dialogue,Gi,0,0,0,,Să ai o zi bună.
+Dialogue: 100,0:05:22.44,0:05:23.88,Dialogue,Gi,0,0,0,,Stai! Ascultă-mă, Mira!
+Dialogue: 100,0:05:23.88,0:05:25.86,Dialogue,Gi,0,0,0,,Dacă-ți lași garda jos \Nîn jurul acelui bărbat...
+Dialogue: 100,0:05:26.61,0:05:31.22,Dialogue,Gi,0,0,0,,Ai rămas la fel de frumoasă, nu-i așa? \NDe parcă timpul s-a oprit pentru tine.
+Dialogue: 100,0:05:36.80,0:05:38.40,Dialogue,Gu,0,0,0,,Hei, Kuroda?
+Dialogue: 100,0:05:39.12,0:05:40.00,Dialogue,Gi,0,0,0,,D-D-Da?
+Dialogue: 100,0:05:40.00,0:05:42.95,Dialogue,Gu,0,0,0,,Unde mergem acum?
+Dialogue: 100,0:05:42.95,0:05:45.86,Dialogue,Gi,0,0,0,,La un izvor termal \Ndin orașul Keimon.
+Dialogue: 100,0:05:45.86,0:05:48.16,Dialogue,Gu,0,0,0,,Un izvor termal? Asta e tot?
+Dialogue: 100,0:05:48.16,0:05:52.62,Dialogue,Gi,0,0,0,,Ei bine... și la o persoană importantă în domeniul cercetării virsului MK.
+Dialogue: 100,0:05:52.62,0:05:54.12,Dialogue,Gu,0,0,0,,O persoană importantă?
+Dialogue: 100,0:05:55.79,0:05:57.36,Dialogue,Gi,0,0,0,,Ce naiba faceți?
+Dialogue: 100,0:05:57.36,0:05:58.62,Dialogue,Gu,0,0,0,,Scuze!
+Dialogue: 100,0:05:58.62,0:06:00.61,Dialogue,Gi,0,0,0,,Voi merge să mă schimb.
+Dialogue: 100,0:06:05.56,0:06:08.26,Dialogue,Gi,0,0,0,,Ar trebui să mergi la ei.
+Dialogue: 100,0:06:09.09,0:06:13.35,Dialogue,Gi,0,0,0,,Nu mai sunt însoțitoarea lui Mizuhara.
+Dialogue: 100,0:06:14.76,0:06:17.78,Dialogue,Gi,0,0,0,,Și tu ai o personalitate dificilă, nu?
+Dialogue: 100,0:06:23.44,0:06:25.86,Dialogue,Gu,0,0,0,,Îmi cer scuze, Kuroda.
+Dialogue: 100,0:06:26.10,0:06:28.36,Dialogue,Gi,0,0,0,,Nu, eu îmi cer scuze.
+Dialogue: 100,0:06:28.36,0:06:31.44,Dialogue,Gi,0,0,0,,Nu sunt obișnuită cu bărbații.
+Dialogue: 100,0:06:31.44,0:06:33.53,Dialogue,Gu,0,0,0,,E în regulă dacă suntem mai puțin formali unul cu celălalt?
+Dialogue: 100,0:06:33.53,0:06:35.12,Dialogue,Gu,0,0,0,,Din moment ce suntem \Ncam de aceeași vârstă.
+Dialogue: 100,0:06:36.54,0:06:37.51,Dialogue,Gi,0,0,0,,Bine...
+Dialogue: 100,0:06:38.12,0:06:41.55,Dialogue,Gu,0,0,0,,Kuroda, ai spus că \Nstudiezi virologia, nu?
+Dialogue: 100,0:06:41.55,0:06:42.63,Dialogue,Gi,0,0,0,,Da.
+Dialogue: 100,0:06:42.63,0:06:47.13,Dialogue,Gi,0,0,0,,Cred că știu ceva lucruri \Ndespre virusul MK.
+Dialogue: 100,0:06:47.13,0:06:49.88,Dialogue,Gi,0,0,0,,{\i1}Virusul MK a fost creat artificial! {check}
+Dialogue: 100,0:06:50.27,0:06:54.16,Dialogue,Gu,0,0,0,,Cum crezi că a luat naștere?
+Dialogue: 100,0:06:54.16,0:06:56.73,Dialogue,Gi,0,0,0,,Există trei teorii despre \Ncum au apărut virusurile:
+Dialogue: 100,0:06:56.73,0:07:01.89,Dialogue,Gi,0,0,0,,ipoteza regresivă, ipoteza originii celulare și ipoteza co-evoluției.
+Dialogue: 100,0:07:01.89,0:07:03.93,Dialogue,Gi,0,0,0,,Dar încă nu știm cu exactitate.
+Dialogue: 100,0:07:03.93,0:07:08.28,Dialogue,Gi,0,0,0,,Și din moment ce nu știm cu exactitate, nu cred că e corect să pui întrebarea „cum a luat naștere”.
+Dialogue: 100,0:07:08.82,0:07:14.40,Dialogue,Gi,0,0,0,,E posibil ca abia acum ceva ce exista de milioane de ani să fi intrat în contact cu umanitatea.
+Dialogue: 100,0:07:14.40,0:07:19.54,Dialogue,Gi,0,0,0,,De fapt, în biologie, virusurile nu sunt văzute drept creaturi vii...
+Dialogue: 100,0:07:19.54,0:07:21.53,Dialogue,Gu,0,0,0,,{\i1}Brusc, e mult mai vorbăreață...
+Dialogue: 100,0:07:21.53,0:07:25.29,Dialogue,Gi,0,0,0,,E posibil să fi fost creat de oameni?
+Dialogue: 100,0:07:26.08,0:07:28.91,Dialogue,Gu,0,0,0,,Asta e o teorie interesantă.
+Dialogue: 100,0:07:29.67,0:07:31.06,Dialogue,Gi,0,0,0,,Pune niște haine pe tine.
+Dialogue: 100,0:07:31.06,0:07:35.55,Dialogue,Gi,0,0,0,,Am putea găsi niște \Nindicii acolo unde mergem.
+Dialogue: 100,0:07:35.73,0:07:37.85,Dialogue,Gu,0,0,0,,C-Ce vrei să spui?
+Dialogue: 100,0:07:37.85,0:07:43.94,Dialogue,Gi,0,0,0,,În orașul Keimon a apărut prima victimă a virusului MK din Japonia.
+Dialogue: 100,0:07:47.07,0:07:48.71,Dialogue,Gi,0,0,0,,E imens!
+Dialogue: 100,0:07:48.71,0:07:51.07,Dialogue,Gi,0,0,0,,Lacul e așa de mare!
+Dialogue: 100,0:07:51.07,0:07:55.23,Dialogue,Gi,0,0,0,,Mai e un grup de \Nstudenți în excursie aici,
+Dialogue: 100,0:07:55.23,0:07:56.58,Dialogue,Gi,0,0,0,,dar, pe lângă asta, \Nîntregul loc e al nostru.
+Dialogue: 100,0:07:56.58,0:07:58.92,Dialogue,Gi,0,0,0,,Am auzit că vom avea languste la cină!
+Dialogue: 100,0:07:58.92,0:08:00.97,Dialogue,Gi,0,0,0,,Haideți să jucăm ping-pong! Ping-pong!
+Dialogue: 100,0:08:00.97,0:08:02.71,Dialogue,Gi,0,0,0,,Mai bine mergem la izvoarele termale!
+Dialogue: 100,0:08:02.97,0:08:05.29,Dialogue,Gi,0,0,0,,Nu suntem aici să ne jucăm!
+Dialogue: 100,0:08:05.97,0:08:07.54,Dialogue,Gu,0,0,0,,Acest loc e drăguț...
+Dialogue: 100,0:08:07.86,0:08:10.55,Dialogue,Gi,0,0,0,,Mi-aș fi dorit să fi \Nputut să vină și Mahiru.
+Dialogue: 100,0:08:10.55,0:08:13.68,Dialogue,Gi,0,0,0,,Nu putem lăsa o persoană \Ndin afară să vină cu noi.
+Dialogue: 100,0:08:13.68,0:08:17.80,Dialogue,Gi,0,0,0,,Una din atribuțiile tale e să creezi un mediu relaxant pentru Reito, nu crezi?
+Dialogue: 100,0:08:18.13,0:08:21.36,Dialogue,Gi,0,0,0,,Treaba mea e să mă ocup de viața lui de zi cu zi
+Dialogue: 100,0:08:21.36,0:08:24.06,Dialogue,Gi,0,0,0,,și să-l ajut să se concentreze \Nla crearea unui vaccin.
+Dialogue: 100,0:08:24.36,0:08:26.44,Dialogue,Gi,0,0,0,,Se pare că nu suntem de \Nacord în această privință.
+Dialogue: 100,0:08:27.39,0:08:28.19,Dialogue,Gu,0,0,0,,Hei...
+Dialogue: 100,0:08:31.20,0:08:33.98,Dialogue,GI,0,0,0,,Pare distractiv! \NVreau să mă alătur și eu!
+Dialogue: 100,0:08:34.70,0:08:36.53,Dialogue,GI,0,0,0,,Încetați!
+Dialogue: 100,0:08:39.87,0:08:42.61,Dialogue,Gu,0,0,0,,Mi-aș fi dorit să pot merge \Nși eu în baia în aer liber...
+Dialogue: 100,0:08:45.79,0:08:47.58,Dialogue,Gu,0,0,0,,O hologramă a unei băi în aer liber!
+Dialogue: 100,0:08:48.98,0:08:50.84,Dialogue,Gi,0,0,0,,Nici asta nu e rea deloc.
+Dialogue: 100,0:08:57.24,0:08:57.86,Dialogue,Gi,0,0,0,,De ce...
+Dialogue: 100,0:08:57.86,0:09:01.76,Dialogue,Gi,0,0,0,,E în regulă. E mai distractiv \Ndacă suntem toți.
+Dialogue: 100,0:09:01.76,0:09:04.98,Dialogue,Gi,0,0,0,,Nu mai există „baia bărbaților” \Nși „baia femeilor” acum.
+Dialogue: 100,0:09:05.87,0:09:07.32,Dialogue,Gu,0,0,0,,Voi ieși...
+Dialogue: 100,0:09:07.32,0:09:08.23,Dialogue,Gi,0,0,0,,Așteaptă.
+Dialogue: 100,0:09:08.50,0:09:11.86,Dialogue,Gi,0,0,0,,Te voi spăla pe spate drept mulțumire pentru tot ajutorul oferit.
+Dialogue: 100,0:09:11.86,0:09:15.09,Dialogue,Gu,0,0,0,,Nu, tu ești cea care mă ajută mereu!
+Dialogue: 100,0:09:15.09,0:09:16.62,Dialogue,Gu,0,0,0,,E fix pe dos!
+Dialogue: 100,0:09:17.53,0:09:19.37,Dialogue,Gi,0,0,0,,Atunci, poate voi apela la ajutorul tău.
+Dialogue: 100,0:09:20.49,0:09:23.78,Dialogue,Gi,0,0,0,,Spală-ne pe spate pe toate.
+Dialogue: 100,0:09:26.25,0:09:31.28,Dialogue,Gi,0,0,0,,E așa de plăcut să fiu \Nspălată pe spate de Reito!
+Dialogue: 100,0:09:32.11,0:09:33.95,Dialogue,Gu,0,0,0,,Bun, am terminat.
+Dialogue: 100,0:09:33.95,0:09:35.51,Dialogue,Gi,0,0,0,,Mersi!
+Dialogue: 100,0:09:36.80,0:09:38.99,Dialogue,Gi,0,0,0,,P-Poți începe.
+Dialogue: 100,0:09:40.01,0:09:41.79,Dialogue,Gu,0,0,0,,B-Bine...
+Dialogue: 100,0:09:41.79,0:09:44.20,Dialogue,Gi,0,0,0,,{\i1}Pare o cu totul altă persoană.
+Dialogue: 100,0:09:44.20,0:09:47.20,Dialogue,Gi,0,0,0,,{\i1}Personalitatea ei se schimbă când vorbește despre virusuri?
+Dialogue: 100,0:09:50.41,0:09:51.90,Dialogue,Gu,0,0,0,,Scuze! A fost prea fierbinte?
+Dialogue: 100,0:09:51.90,0:09:54.28,Dialogue,Gi,0,0,0,,Mă descurc de aici.
+Dialogue: 100,0:09:54.70,0:09:57.32,Dialogue,Gi,0,0,0,,Sunt gata.
+Dialogue: 100,0:09:59.16,0:10:00.28,Dialogue,Gu,0,0,0,,Așează-te.
+Dialogue: 100,0:10:06.95,0:10:09.04,Dialogue,Gu,0,0,0,,{\i1}Are un spate așa de frumos.
+Dialogue: 100,0:10:09.04,0:10:11.13,Dialogue,Gi,0,0,0,,Vei merge să te spele \Nși pe tine pe spate?
+Dialogue: 100,0:10:11.13,0:10:12.51,Dialogue,Gi,0,0,0,,Nici moartă.
+Dialogue: 100,0:10:12.51,0:10:14.80,Dialogue,Gi,0,0,0,,Bine, atunci, eu sunt ultima.
+Dialogue: 100,0:10:16.18,0:10:17.57,Dialogue,Gu,0,0,0,,În sfârșit, am terminat...
+Dialogue: 100,0:10:17.57,0:10:19.09,Dialogue,Gi,0,0,0,,Nu cu ăla.
+Dialogue: 100,0:10:19.44,0:10:23.60,Dialogue,Gi,0,0,0,,Pielea mea e sensibilă. \NPoți s-o faci cu mâinile?
+Dialogue: 100,0:10:27.12,0:10:30.85,Dialogue,Gi,0,0,0,,E așa de plăcut. \NChiar te pricepi.
+Dialogue: 100,0:10:30.85,0:10:33.11,Dialogue,Gu,0,0,0,,T-Te voi clăti acum.
+Dialogue: 100,0:10:33.44,0:10:36.36,Dialogue,Gi,0,0,0,,Nu încă. Și aici.
+Dialogue: 100,0:10:40.36,0:10:42.37,Dialogue,Gi,0,0,0,,Și pe picioare, bine?
+Dialogue: 100,0:10:42.62,0:10:46.87,Dialogue,Gi,0,0,0,,Asigură-te că mă freci peste tot.
+Dialogue: 100,0:10:49.87,0:10:51.48,Dialogue,Gi,0,0,0,,Și, în cele din urmă.
+Dialogue: 100,0:10:53.28,0:10:54.48,Dialogue,Gu,0,0,0,,Voi pleca!
+Dialogue: 100,0:10:54.48,0:10:56.63,Dialogue,Gu,0,0,0,,Poți face singură restul!
+Dialogue: 100,0:10:57.17,0:10:59.19,Dialogue,Gi,0,0,0,,Și eram atât de aproape.
+Dialogue: 100,0:11:02.88,0:11:05.64,Dialogue,Gi,0,0,0,,A trecut ceva timp de când n-am mai văzut-o pe doamna Taniguchi.
+Dialogue: 100,0:11:05.64,0:11:09.14,Dialogue,Gi,0,0,0,,Eu sunt Katagiri Rea de \Nla filiala japoneză a OF.
+Dialogue: 100,0:11:09.14,0:11:09.89,Dialogue,Gi,0,0,0,,Acesta este...
+Dialogue: 100,0:11:09.89,0:11:11.18,Dialogue,Gi,0,0,0,,Știu deja.
+Dialogue: 100,0:11:12.40,0:11:15.51,Dialogue,Gi,0,0,0,,Am venit ca să vorbim \Ndespre soțul dumneavoastră...
+Dialogue: 100,0:11:15.51,0:11:18.65,Dialogue,Gi,0,0,0,,V-am spus deja tot.
+Dialogue: 100,0:11:19.23,0:11:21.27,Dialogue,Gi,0,0,0,,Ți-am văzut conferința de presă.
+Dialogue: 100,0:11:21.27,0:11:22.41,Dialogue,Gu,0,0,0,,Apreciez.
+Dialogue: 100,0:11:22.41,0:11:25.21,Dialogue,Gi,0,0,0,,Dar nu e problema mea.
+Dialogue: 100,0:11:25.21,0:11:29.41,Dialogue,Gi,0,0,0,,Soțul meu nu se va mai întoarce, chiar dacă veți crea un vaccin.
+Dialogue: 100,0:11:29.41,0:11:33.31,Dialogue,Gi,0,0,0,,Dnă Taniguchi, ne puteți spune ce făcea soțul dumneavoastră
+Dialogue: 100,0:11:33.31,0:11:37.34,Dialogue,,0,0,0,,exact înainte să contracteze virusul?
+Dialogue: 100,0:11:37.34,0:11:38.05,Dialogue,Gi,0,0,0,,Nu.
+Dialogue: 100,0:11:38.05,0:11:40.80,Dialogue,Gi,0,0,0,,Vă rugăm! Asta va fi \Npentru binele umanității!
+Dialogue: 100,0:11:40.80,0:11:43.68,Dialogue,Gi,0,0,0,,I-ați luat corpul neînsuflețit \Nși l-ați făcut bucăți!
+Dialogue: 100,0:11:43.95,0:11:48.21,Dialogue,Gi,0,0,0,,Era o autopsie. Am fost nevoiți s-o facem ca să aflăm ce s-a întâmplat...
+Dialogue: 100,0:11:48.21,0:11:49.72,Dialogue,Gi,0,0,0,,Nu-mi pasă.
+Dialogue: 100,0:11:49.72,0:11:52.56,Dialogue,Gi,0,0,0,,El ura doctorii.
+Dialogue: 100,0:11:53.43,0:11:54.23,Dialogue,Gi,0,0,0,,Dnă Taniguchi!
+Dialogue: 100,0:11:54.23,0:11:55.56,Dialogue,Gi,0,0,0,,Nu mă atinge.
+Dialogue: 100,0:11:55.99,0:11:58.32,Dialogue,Gu,0,0,0,,Ce trebuie să fac ca să ne ajutați?
+Dialogue: 100,0:12:00.35,0:12:02.04,Dialogue,Gi,0,0,0,,Poți să mi-o tragi.
+Dialogue: 100,0:12:02.85,0:12:04.82,Dialogue,Gi,0,0,0,,Glumesc, evident.
+Dialogue: 100,0:12:05.20,0:12:06.26,Dialogue,Gi,0,0,0,,Plecați.
+Dialogue: 100,0:12:09.98,0:12:14.50,Dialogue,Gi,0,0,0,,Virusul MK a apărut în mai multe locuri de pe planetă în același timp.
+Dialogue: 100,0:12:14.95,0:12:17.41,Dialogue,Gi,0,0,0,,Există o teorie care spune că ar fi un atac terorist al unei națiuni sau grup.
+Dialogue: 100,0:12:17.41,0:12:18.77,Dialogue,Gi,0,0,0,,O teorie care a prins susținători.
+Dialogue: 100,0:12:18.77,0:12:22.76,Dialogue,Gi,0,0,0,,Și chiar există o teorie care spune că Pământul l-ar fi creat ca să distrugă omenirea.
+Dialogue: 100,0:12:22.76,0:12:25.68,Dialogue,Gi,0,0,0,,Dar nu știm de unde a apărut.
+Dialogue: 100,0:12:26.51,0:12:31.64,Dialogue,Gi,0,0,0,,Soțul doamnei Taniguchi a fost prima victimă din Japonia.
+Dialogue: 100,0:12:32.61,0:12:36.52,Dialogue,Gi,0,700,0,,Ura tehnologia și nu \Navea un GPS asupra lui.
+Dialogue: 100,0:12:37.02,0:12:39.89,Dialogue,Gi,0,0,0,,Dacă am știi ce făcea și unde era
+Dialogue: 100,0:12:39.89,0:12:43.29,Dialogue,Gi,0,0,0,,înainte să se îmbolnăvească, \Nne-ar putea ajuta să găsim ceva, dar...
+Dialogue: 100,0:12:44.22,0:12:47.00,Dialogue,Gi,0,0,0,,Nu are încredere deloc în OF.
+Dialogue: 100,0:12:47.59,0:12:50.17,Dialogue,Gi,0,0,0,,Guvernul din acea \Nperioadă a fost foarte dur.
+Dialogue: 100,0:12:54.49,0:12:57.29,Dialogue,Gi,0,0,0,,Persoana la care ții a fost aici.
+Dialogue: 100,0:12:57.63,0:13:01.82,Dialogue,Gi,0,0,0,,De ce nu te vezi cu el, Erisa?
+Dialogue: 100,0:13:03.93,0:13:05.72,Dialogue,Gi,0,0,0,,Nu te înveți minte niciodată.
+Dialogue: 100,0:13:05.72,0:13:07.69,Dialogue,Gi,0,0,0,,Nu contează de câte ori vii, \Nnu se va schimba nimic.
+Dialogue: 100,0:13:07.69,0:13:08.72,Dialogue,Gu,0,0,0,,Vă rugăm!
+Dialogue: 100,0:13:09.11,0:13:13.85,Dialogue,Gu,0,0,0,,Dacă am știi ce făcea soțul dumneavoastră, am putea afla de unde a apărut virusul!
+Dialogue: 100,0:13:13.85,0:13:17.98,Dialogue,Gi,0,0,0,,Ar trebui să nu-ți mai bați capul cu vaccinul și să treci la făcut copii.
+Dialogue: 100,0:13:19.00,0:13:22.73,Dialogue,Gi,0,0,0,,Treaba ta cea mai \Nimportantă e să faci copii.
+Dialogue: 100,0:13:23.04,0:13:26.36,Dialogue,Gi,0,0,0,,Deși, sunt destul de sigură că ai parte de puțină distracție cu fetele din spatele tău.
+Dialogue: 100,0:13:26.67,0:13:27.91,Dialogue,Gu,0,0,0,,Ei bine...
+Dialogue: 100,0:13:27.91,0:13:34.75,Dialogue,Gi,0,0,0,,Mizuhara nu s-a împerecheat, adică, nu a întreținut relații sexuale cu nicio femeie de când a fost trezit.
+Dialogue: 100,0:13:36.29,0:13:38.88,Dialogue,Gi,0,0,0,,Fetelor, plecați.
+Dialogue: 100,0:13:39.92,0:13:41.63,Dialogue,Gi,0,0,0,,Nu înțeleg.
+Dialogue: 100,0:13:42.92,0:13:47.68,Dialogue,Gi,0,0,0,,Majoritatea bărbaților ar face-o ca iepurii cu orice fată ar prinde dacă ar fi în situația ta.
+Dialogue: 100,0:13:47.68,0:13:51.14,Dialogue,Gi,0,0,0,,Și tot ai mai avea destul timp rămas pentru descoperirea unui vaccin.
+Dialogue: 100,0:13:51.59,0:13:53.49,Dialogue,Gu,0,0,0,,Nu sunt genul de persoană
+Dialogue: 100,0:13:53.49,0:13:56.77,Dialogue,,0,0,0,,care să se distreze cu fetele \Nîn timp ce face cercetări.
+Dialogue: 100,0:13:56.77,0:13:58.68,Dialogue,Gi,0,0,0,,Ești cumva gay?
+Dialogue: 100,0:13:58.68,0:14:00.21,Dialogue,Gu,0,0,0,,Nu.
+Dialogue: 100,0:14:00.21,0:14:02.25,Dialogue,Gu,0,0,0,,Sunt foarte multe fete frumoase.
+Dialogue: 100,0:14:02.25,0:14:05.40,Dialogue,Gu,0,0,0,,Și, sincer, mi-ar plăcea să fac ceea ce se așteaptă de la mine.
+Dialogue: 100,0:14:05.40,0:14:06.87,Dialogue,Gi,0,0,0,,Atunci, de ce?
+Dialogue: 100,0:14:06.87,0:14:09.24,Dialogue,Gi,0,0,0,,Asta ar ajuta cel mai mult lumea.
+Dialogue: 100,0:14:10.70,0:14:13.53,Dialogue,Gu,0,0,0,,Există o fată de care sunt îndrăgostit.
+Dialogue: 100,0:14:14.35,0:14:16.99,Dialogue,Gu,0,0,0,,Știu că sună egoist,
+Dialogue: 100,0:14:16.99,0:14:22.25,Dialogue,,0,0,0,,dar mi-am dat seama că dacă m-aș dedica creării unui vaccin pentru virusul MK,
+Dialogue: 100,0:14:22.56,0:14:25.76,Dialogue,,0,0,0,,m-aș revanșa pentru că \Nrefuz să mă împerechez.
+Dialogue: 100,0:14:28.56,0:14:30.30,Dialogue,Gu,0,0,0,,Am terminat cu vorba.
+Dialogue: 100,0:14:42.35,0:14:44.40,Dialogue,Gu,0,0,0,,E așa de plăcut să fii afară.
+Dialogue: 100,0:14:44.74,0:14:49.53,Dialogue,Gu,0,0,0,,Dacă Rea află că te-am adus la o baie în aer liber, se va supăra pe mine!
+Dialogue: 100,0:14:49.53,0:14:52.22,Dialogue,Gu,0,0,0,,E în regulă! Nu e nimeni aici.
+Dialogue: 100,0:14:52.22,0:14:55.16,Dialogue,Gi,0,0,0,,Să nu dai vina mea mine \Ndacă se va întâmpla ceva.
+Dialogue: 100,0:14:55.16,0:14:58.42,Dialogue,Gu,0,0,0,,{\i1}Dna Taniguchi a reușit să evite să-mi ofere orice fel de informație.
+Dialogue: 100,0:14:58.42,0:14:59.53,Dialogue,Gi,0,0,0,,Haide, grăbește-te!
+Dialogue: 100,0:14:59.53,0:15:01.17,Dialogue,Gu,0,0,0,,Reito, ascunde-te!
+Dialogue: 100,0:15:02.48,0:15:05.05,Dialogue,Gi,0,0,0,,Ei bine, baia asta e deja ocupată...
+Dialogue: 100,0:15:05.05,0:15:06.24,Dialogue,Gi,0,0,0,,E așa de drăguță!
+Dialogue: 100,0:15:06.24,0:15:07.69,Dialogue,Gu,0,0,0,,Studentele?
+Dialogue: 100,0:15:08.93,0:15:11.61,Dialogue,Gu,0,0,0,,Va trebui să mă ascund \Naici pentru o vreme.
 Dialogue: 100,0:15:14.64,0:15:15.56,Dialogue,Gi,0,0,0,,Oh!
-Dialogue: 100,0:15:16.77,0:15:18.22,Dialogue,Gu,0,0,0,,U-Um...
-Dialogue: 100,0:15:22.51,0:15:23.82,Dialogue,Gu,0,0,0,,I'll be going—
-Dialogue: 100,0:15:22.88,0:15:25.86,Dialogue,Gi,0,0,0,,Leave, and I'll scream.
-Dialogue: 100,0:15:25.86,0:15:30.49,Dialogue,Gi,0,0,0,,If you don't want to \Ncause a ruckus, sit down.
-Dialogue: 100,0:15:30.78,0:15:33.24,Dialogue,Gu,0,0,0,,Why are you wearing a yukata in the sauna?
-Dialogue: 100,0:15:33.24,0:15:37.27,Dialogue,Gi,0,0,0,,Because I'm an exchange \Nstudent that loves Japan!
-Dialogue: 100,0:15:37.27,0:15:40.06,Dialogue,Gi,0,0,0,,The rich depths of the Japanese heart!
-Dialogue: 100,0:15:40.06,0:15:41.50,Dialogue,Gu,0,0,0,,{\i1}I don't think that's how it works.
-Dialogue: 100,0:15:41.81,0:15:44.75,Dialogue,Gi,0,0,0,,Now, let's play a game.
-Dialogue: 100,0:15:45.68,0:15:51.63,Dialogue,Gi,0,0,0,,If I leave the sauna first, \NI won't tell anybody you're here.
-Dialogue: 100,0:15:51.93,0:15:53.39,Dialogue,Gu,0,0,0,,And if I leave first...
-Dialogue: 100,0:15:53.71,0:15:59.89,Dialogue,Gi,0,0,0,,You'll have to do one thing I tell \Nyou to do, Mizuhara Reito-san.
-Dialogue: 100,0:15:59.89,0:16:02.77,Dialogue,Gu,0,0,0,,{\i1}She knows me. Of course she would.
-Dialogue: 100,0:16:03.10,0:16:05.68,Dialogue,Gi,0,0,0,,Let's see who can last longer.
-Dialogue: 100,0:16:11.44,0:16:13.78,Dialogue,Gi,0,0,0,,It's so hot.
-Dialogue: 100,0:16:14.13,0:16:15.69,Dialogue,Gi,0,0,0,,I should introduce myself.
-Dialogue: 100,0:16:15.69,0:16:20.29,Dialogue,Gi,0,0,0,,I'm Chloe. I'm an exchange \Nstudent from America.
-Dialogue: 100,0:16:20.29,0:16:23.23,Dialogue,Gu,0,0,0,,Y-Your Japanese is very good.
-Dialogue: 100,0:16:23.23,0:16:25.29,Dialogue,Gu,0,0,0,,A little weird, but good.
-Dialogue: 100,0:16:25.29,0:16:28.80,Dialogue,Gi,0,0,0,,I love Japan.
-Dialogue: 100,0:16:29.07,0:16:32.05,Dialogue,Gi,0,0,0,,Would you like to have sex with me?
-Dialogue: 100,0:16:32.92,0:16:35.93,Dialogue,Gi,0,0,0,,Oh, you call it "mating," right?
-Dialogue: 100,0:16:35.93,0:16:39.68,Dialogue,Gi,0,0,0,,You shouldn't try to endure \Nthings for too long.
-Dialogue: 100,0:16:40.25,0:16:44.19,Dialogue,Gi,0,0,0,,That goes for the sauna, \Nand for a woman's temptation.
-Dialogue: 100,0:16:44.19,0:16:46.72,Dialogue,Gu,0,0,0,,I'm good at self-control.
-Dialogue: 100,0:16:46.72,0:16:50.57,Dialogue,Gu,0,0,0,,What about you? You should \Nprobably give up and leave soon.
-Dialogue: 100,0:16:55.12,0:16:59.20,Dialogue,Gi,0,0,0,,Your samurai soul is impressive...
-Dialogue: 100,0:17:03.44,0:17:05.70,Dialogue,Gu,0,0,0,,Have some water.
-Dialogue: 100,0:17:07.01,0:17:09.49,Dialogue,Gu,0,0,0,,{\i1}I should call Akane-san.
-Dialogue: 100,0:17:09.49,0:17:10.71,Dialogue,Gu,0,0,0,,Wait a second.
-Dialogue: 100,0:17:11.46,0:17:14.72,Dialogue,Gu,0,0,0,,Feed me with your mouth.
-Dialogue: 100,0:17:14.72,0:17:16.01,Dialogue,Gu,0,0,0,,No, no.
-Dialogue: 100,0:17:16.01,0:17:17.84,Dialogue,Gu,0,0,0,,I'll go get the nurse!
-Dialogue: 100,0:17:17.84,0:17:21.60,Dialogue,Gi,0,0,0,,If you don't... I'll scream.
-Dialogue: 100,0:17:26.73,0:17:29.11,Dialogue,Gi,0,0,0,,Reito-sama, I brought help!
-Dialogue: 100,0:17:30.72,0:17:36.11,Dialogue,Gi,0,0,0,,Reito-sama is mating with a \Nstrange woman before any of us!
-Dialogue: 100,0:17:36.11,0:17:37.49,Dialogue,Gu,0,0,0,,No, this is...
-Dialogue: 100,0:17:37.49,0:17:39.62,Dialogue,Gi,0,0,0,,Reito-sama, you traitor!
-Dialogue: 100,0:17:39.62,0:17:41.57,Dialogue,Gi,0,0,0,,Sorry for bothering you.
-Dialogue: 100,0:17:40.47,0:17:41.57,Dialogue,Gi,0,0,0,,You're such an animal.
-Dialogue: 100,0:17:41.57,0:17:43.37,Dialogue,Gu,0,0,0,,You've got it wrong.
-Dialogue: 100,0:17:43.37,0:17:45.32,Dialogue,Gi,0,0,0,,That was fun.
-Dialogue: 100,0:17:46.13,0:17:47.37,Dialogue,Gu,0,0,0,,It was an act?
-Dialogue: 100,0:17:47.37,0:17:50.25,Dialogue,Gi,0,0,0,,American girls are strong.
-Dialogue: 100,0:17:50.25,0:17:53.15,Dialogue,Gi,0,0,0,,It'd take more than that to knock me out.
-Dialogue: 100,0:17:54.38,0:17:58.78,Dialogue,Gi,0,0,0,,Now let's have a nice long \Nchat, Mizuhara Reito-san.
-Dialogue: 100,0:18:01.76,0:18:03.44,Dialogue,Gi,0,0,0,,Harder!
-Dialogue: 100,0:18:03.44,0:18:04.43,Dialogue,Gu,0,0,0,,Sorry.
-Dialogue: 100,0:18:04.74,0:18:05.86,Dialogue,Gi,0,0,0,,Please.
-Dialogue: 100,0:18:05.86,0:18:06.94,Dialogue,Gi,0,0,0,,Thank you.
-Dialogue: 100,0:18:07.21,0:18:10.69,Dialogue,Gi,0,0,0,,There's a bakery on the corner \Njust outside this building, kid.
-Dialogue: 100,0:18:10.97,0:18:12.94,Dialogue,Gi,0,0,0,,I want a white bean jam pastry from there.
-Dialogue: 100,0:18:12.94,0:18:15.40,Dialogue,Gi,0,0,0,,I can send someone from UW...
-Dialogue: 100,0:18:15.40,0:18:18.69,Dialogue,Gi,0,0,0,,I'm not eating it unless he gets it for me.
-Dialogue: 100,0:18:18.69,0:18:20.59,Dialogue,Gu,0,0,0,,All right. I'll go.
-Dialogue: 100,0:18:20.59,0:18:21.45,Dialogue,Gi,0,0,0,,Mizuhara-san!
-Dialogue: 100,0:18:24.27,0:18:25.71,Dialogue,Gi,0,0,0,,You.
-Dialogue: 100,0:18:26.20,0:18:28.92,Dialogue,Gi,0,0,0,,I want to talk with you privately.
-Dialogue: 100,0:18:28.92,0:18:30.21,Dialogue,Gi,0,0,0,,Come in.
-Dialogue: 100,0:18:31.96,0:18:34.84,Dialogue,Gi,0,0,0,,You know about Tachibana Erisa, right?
-Dialogue: 100,0:18:36.08,0:18:38.47,Dialogue,Gi,0,0,0,,She's Mizuhara-sama's childhood friend.
-Dialogue: 100,0:18:38.47,0:18:40.84,Dialogue,Gi,0,0,0,,That's not what I meant.
-Dialogue: 100,0:18:47.64,0:18:50.14,Dialogue,Gi,0,0,0,,I'll ask a different question, then.
-Dialogue: 100,0:18:50.14,0:18:53.33,Dialogue,Gi,0,0,0,,Tell me what that kid's like.
-Dialogue: 100,0:18:53.33,0:18:55.68,Dialogue,Gi,0,0,0,,Why do you want to know?
-Dialogue: 100,0:18:55.68,0:18:57.11,Dialogue,Gi,0,0,0,,Just answer me.
-Dialogue: 100,0:18:57.11,0:18:59.86,Dialogue,Gi,0,0,0,,Don't you want to help him?
-Dialogue: 100,0:19:01.60,0:19:03.87,Dialogue,Gi,0,0,0,,Mizuhara-sama is very selfish.
-Dialogue: 100,0:19:04.16,0:19:08.43,Dialogue,Gi,0,0,0,,It's wonderful that he's working on a cure.
-Dialogue: 100,0:19:08.43,0:19:13.34,Dialogue,Gi,0,0,0,,But I think he could mate at least once or \Ntwice a week even while doing his research.
-Dialogue: 100,0:19:13.34,0:19:15.66,Dialogue,Gi,0,0,0,,With the world on the brink of destruction,
-Dialogue: 100,0:19:15.66,0:19:20.23,Dialogue,Gi,0,0,0,,having someone he's in love with is not \Na good enough reason to refuse mating.
-Dialogue: 100,0:19:21.44,0:19:24.14,Dialogue,Gi,0,0,0,,He really is selfish.
-Dialogue: 100,0:19:25.37,0:19:28.14,Dialogue,Gi,0,0,0,,But not many people could do that.
-Dialogue: 100,0:19:28.80,0:19:31.99,Dialogue,Gi,0,0,0,,He has the same desires as any normal man.
-Dialogue: 100,0:19:31.99,0:19:33.65,Dialogue,Gi,0,0,0,,But he's always fighting them.
-Dialogue: 100,0:19:33.65,0:19:38.34,Dialogue,Gi,0,0,0,,And he can keep being selfish \Nin the face of the entire world.
-Dialogue: 100,0:19:38.34,0:19:41.91,Dialogue,Gi,0,0,0,,He may really be able to save the world.
-Dialogue: 100,0:19:41.91,0:19:45.41,Dialogue,Gi,0,0,0,,You know him well.
-Dialogue: 100,0:19:45.72,0:19:48.68,Dialogue,Gi,0,0,0,,Well, I'm always watching him.
-Dialogue: 100,0:19:50.80,0:19:51.92,Dialogue,Gu,0,0,0,,I got it.
-Dialogue: 100,0:19:51.92,0:19:52.97,Dialogue,Gi,0,0,0,,You're late.
-Dialogue: 100,0:19:52.97,0:19:54.17,Dialogue,Gi,0,0,0,,I don't want it now.
-Dialogue: 100,0:19:55.15,0:19:58.55,Dialogue,Gi,0,0,0,,Are you never going to have kids, then?
-Dialogue: 100,0:19:58.83,0:20:03.56,Dialogue,Gu,0,0,0,,If it really will help humanity, \NI might, some day.
-Dialogue: 100,0:20:04.49,0:20:07.68,Dialogue,Gi,0,0,0,,You'll give up on the girl you love.
-Dialogue: 100,0:20:07.68,0:20:12.95,Dialogue,Gu,0,0,0,,No. Even if I did mate, I'd only \Ndo it because they wanted me to.
-Dialogue: 100,0:20:12.95,0:20:14.69,Dialogue,Gu,0,0,0,,My heart wouldn't change.
-Dialogue: 100,0:20:14.96,0:20:18.19,Dialogue,Gu,0,0,0,,I only love one girl.
-Dialogue: 100,0:20:20.44,0:20:22.55,Dialogue,Gi,0,0,0,,I'm tired today.
-Dialogue: 100,0:20:22.55,0:20:24.42,Dialogue,Gi,0,0,0,,Come back tomorrow.
-Dialogue: 100,0:20:24.42,0:20:27.61,Dialogue,Gi,0,0,0,,I'll make you listen to \Nme talk about old times.
-Dialogue: 100,0:20:27.61,0:20:28.45,Dialogue,Gu,0,0,0,,Okay.
-Dialogue: 100,0:20:28.72,0:20:31.58,Dialogue,Gi,0,0,0,,I would like to talk about \Nmy husband once in a while.
-Dialogue: 100,0:20:32.83,0:20:34.46,Dialogue,Gu,0,0,0,,I'll come! I promise!
-Dialogue: 100,0:20:37.99,0:20:43.97,Dialogue,Gi,0,0,0,,No one would fault you for giving up on saving \Nthe world and being with the man you love.
-Dialogue: 100,0:20:45.72,0:20:47.87,Dialogue,Gi,0,0,0,,You're so stubborn!
-Dialogue: 100,0:20:47.87,0:20:50.85,Dialogue,Gi,0,0,0,,If you don't hurry, you'll lose him!
-Dialogue: 100,0:20:50.85,0:20:53.13,Dialogue,Gi,0,0,0,,He had a whole bunch of pretty \Nladies with him today—
-Dialogue: 100,0:20:53.13,0:20:56.36,Dialogue,Gi,0,0,0,,{\i1}Even if Reito falls in \Nlove with someone else,
-Dialogue: 100,0:20:56.36,0:20:59.08,Dialogue,Gi,0,0,0,,{\i1}I'll only ever love him.
-Dialogue: 100,0:21:02.37,0:21:05.61,Dialogue,Gi,0,0,0,,You're both very similar.
-Dialogue: 100,0:21:20.38,0:21:22.33,Dialogue,Gi,0,0,0,,Her condition suddenly worsened!
-Dialogue: 100,0:21:22.33,0:21:24.51,Dialogue,Gu,0,0,0,,She was doing just fine until today.
+Dialogue: 100,0:15:16.77,0:15:18.22,Dialogue,Gu,0,0,0,,H-Hei...
+Dialogue: 100,0:15:22.51,0:15:23.82,Dialogue,Gu,0,0,0,,Voi pleca...
+Dialogue: 100,0:15:22.88,0:15:25.86,Dialogue Overlap,Gi,0,0,0,,Dacă pleci, voi striga.
+Dialogue: 100,0:15:25.86,0:15:30.49,Dialogue,Gi,0,0,0,,Dacă nu vrei să provocăm \Nzarvă, așează-te, te rog.
+Dialogue: 100,0:15:30.78,0:15:33.24,Dialogue,Gu,0,0,0,,De ce porți o yukata în saună?
+Dialogue: 100,0:15:33.24,0:15:37.27,Dialogue,Gi,0,0,0,,Doarece sunt o studentă în schimb de experiență care iubește Japonia!
+Dialogue: 100,0:15:37.27,0:15:40.06,Dialogue,Gi,0,0,0,,Bogatele profunzimi ale inimii japoneze!
+Dialogue: 100,0:15:40.06,0:15:41.50,Dialogue,Gu,0,0,0,,{\i1}Nu cred că funcționează așa.
+Dialogue: 100,0:15:41.81,0:15:44.75,Dialogue,Gi,0,0,0,,Acum, haide să jucăm un micuț joc.
+Dialogue: 100,0:15:45.68,0:15:51.63,Dialogue,Gi,0,0,0,,Dacă voi părăsi eu prima sauna, \Nnu voi spune nimănui că ai fost aici.
+Dialogue: 100,0:15:51.93,0:15:53.39,Dialogue,Gu,0,0,0,,Și dacă eu plec primul...
+Dialogue: 100,0:15:53.71,0:15:59.89,Dialogue,Gi,0,0,0,,Va trebui să faci un lucru pe care ți-l voi cere eu, Mizuhara Reito.
+Dialogue: 100,0:15:59.89,0:16:02.77,Dialogue,Gu,0,0,0,,{\i1}Evident că știe cine sunt.
+Dialogue: 100,0:16:03.10,0:16:05.68,Dialogue,Gi,0,0,0,,Să vedem cine poate rezista mai mult.
+Dialogue: 100,0:16:11.44,0:16:13.78,Dialogue,Gi,0,0,0,,E așa de cald.
+Dialogue: 100,0:16:14.13,0:16:15.69,Dialogue,Gi,0,0,0,,Ar trebui să mă prezint.
+Dialogue: 100,0:16:15.69,0:16:20.29,Dialogue,Gi,0,0,0,,Eu sunt Chloe. O studentă în schimb de experiență din SUA.
+Dialogue: 100,0:16:20.29,0:16:23.23,Dialogue,Gu,0,0,0,,V-Vorbești destul de bine japoneza.
+Dialogue: 100,0:16:23.23,0:16:25.29,Dialogue,Gu,0,0,0,,Puțin ciudat, dar destul de bine.
+Dialogue: 100,0:16:25.29,0:16:28.80,Dialogue,Gi,0,0,0,,Iubesc Japonia.
+Dialogue: 100,0:16:29.07,0:16:32.05,Dialogue,Gi,0,0,0,,Ai vrea să faci sex cu mine?
+Dialogue: 100,0:16:32.92,0:16:35.93,Dialogue,Gi,0,0,0,,Oh, voi numiți chestia \Nasta „împerecheat”, nu?
+Dialogue: 100,0:16:35.93,0:16:39.68,Dialogue,Gi,0,0,0,,Nu ar trebui să înduri anumite lucruri pentru prea mult timp.
+Dialogue: 100,0:16:40.25,0:16:44.19,Dialogue,Gi,0,0,0,,Asta e valabil și pentru saună, și pentru tentația unei femei.
+Dialogue: 100,0:16:44.19,0:16:46.72,Dialogue,Gu,0,0,0,,Sunt destul de rezistent.
+Dialogue: 100,0:16:46.72,0:16:50.57,Dialogue,Gu,0,0,0,,Dar tu? Probabil ar trebui să \Nrenunți și să pleci curând.
+Dialogue: 100,0:16:55.12,0:16:59.20,Dialogue,Gi,0,0,0,,Sufletul tău de samurai \Nmă împresionează...
+Dialogue: 100,0:17:03.44,0:17:05.70,Dialogue,Gu,0,0,0,,Poftim niște apă.
+Dialogue: 100,0:17:07.01,0:17:09.49,Dialogue,Gu,0,0,0,,{\i1}Ar trebui s-o chem pe Akane.
+Dialogue: 100,0:17:09.49,0:17:10.71,Dialogue,Gu,0,0,0,,Așteaptă aici puțin.
+Dialogue: 100,0:17:11.46,0:17:14.72,Dialogue,Gu,0,0,0,,Dă-mi de la tine din gură.
+Dialogue: 100,0:17:14.72,0:17:16.01,Dialogue,Gu,0,0,0,,Nu, nu.
+Dialogue: 100,0:17:16.01,0:17:17.84,Dialogue,Gu,0,0,0,,Voi chema o asistentă!
+Dialogue: 100,0:17:17.84,0:17:21.60,Dialogue,Gi,0,0,0,,Dacă nu o vei face... voi țipa.
+Dialogue: 100,0:17:26.73,0:17:29.11,Dialogue,Gi,0,0,0,,Reito, am adus ajutoare!
+Dialogue: 100,0:17:30.72,0:17:36.11,Dialogue,Gi,0,0,0,,Reito se împerechează cu o femeie străină înainte s-o facă cu noi!
+Dialogue: 100,0:17:36.11,0:17:37.49,Dialogue,Gu,0,0,0,,Nu, asta e...
+Dialogue: 100,0:17:37.49,0:17:39.62,Dialogue,Gi,0,0,0,,Reito, trădătorule!
+Dialogue: 100,0:17:39.62,0:17:41.57,Dialogue,Gi,0,0,0,,Scuze de deranj.
+Dialogue: 100,0:17:40.47,0:17:41.57,Dialogue Overlap,Gi,0,0,0,,Animalule.
+Dialogue: 100,0:17:41.57,0:17:43.37,Dialogue,Gu,0,0,0,,Ați înțeles greșit.
+Dialogue: 100,0:17:43.37,0:17:45.32,Dialogue,Gi,0,0,0,,Asta a fost distractiv.
+Dialogue: 100,0:17:46.13,0:17:47.37,Dialogue,Gu,0,0,0,,Te prefăceai?
+Dialogue: 100,0:17:47.37,0:17:50.25,Dialogue,Gi,0,0,0,,Fetele din SUA sunt destul de puternice.
+Dialogue: 100,0:17:50.25,0:17:53.15,Dialogue,Gi,0,0,0,,Va fi nevoie de mai mult \Ndecât atât ca să mă doboare.
+Dialogue: 100,0:17:54.38,0:17:58.78,Dialogue,Gi,0,0,0,,Haide să avem o discuție lungă și drăguță data viitoare, Mizuhara Reito.
+Dialogue: 100,0:18:01.76,0:18:03.44,Dialogue,Gi,0,0,0,,Mai tare!
+Dialogue: 100,0:18:03.44,0:18:04.43,Dialogue,Gu,0,0,0,,Îmi cer scuze.
+Dialogue: 100,0:18:04.74,0:18:05.86,Dialogue,Gi,0,0,0,,Te rog.
+Dialogue: 100,0:18:05.86,0:18:06.94,Dialogue,Gi,0,0,0,,Foarte bine.
+Dialogue: 100,0:18:07.21,0:18:10.69,Dialogue,Gi,0,0,0,,Copile, există o brutărie \Nla colțul acestui spital.
+Dialogue: 100,0:18:10.97,0:18:12.94,Dialogue,Gi,0,0,0,,Vreau o chiflă cu fasole de acolo.
+Dialogue: 100,0:18:12.94,0:18:15.40,Dialogue,Gi,0,0,0,,Pot trimite pe cineva din OF...
+Dialogue: 100,0:18:15.40,0:18:18.69,Dialogue,Gi,0,0,0,,Nu voi mânca dacă nu e adusă de el.
+Dialogue: 100,0:18:18.69,0:18:20.59,Dialogue,Gu,0,0,0,,Foarte bine. Voi merge chiar acum.
+Dialogue: 100,0:18:20.59,0:18:21.45,Dialogue,Gi,0,0,0,,Mizuhara!
+Dialogue: 100,0:18:24.27,0:18:25.71,Dialogue,Gi,0,0,0,,Hei, tu.
+Dialogue: 100,0:18:26.20,0:18:28.92,Dialogue,Gi,0,0,0,,Vreau să vorbesc cu \Ntine între patru ochi.
+Dialogue: 100,0:18:28.92,0:18:30.21,Dialogue,Gi,0,0,0,,Intră.
+Dialogue: 100,0:18:31.96,0:18:34.84,Dialogue,Gi,0,0,0,,Știi cine e Tachibana Erisa, nu?
+Dialogue: 100,0:18:36.08,0:18:38.47,Dialogue,Gi,0,0,0,,Ea e prietena din copilărie a lui Mizuhara.
+Dialogue: 100,0:18:38.47,0:18:40.84,Dialogue,Gi,0,0,0,,Nu la asta mă refer.
+Dialogue: 100,0:18:47.64,0:18:50.14,Dialogue,Gi,0,0,0,,Atunci, voi pune o altă întrebare.
+Dialogue: 100,0:18:50.14,0:18:53.33,Dialogue,Gi,0,0,0,,Ce fel de persoană e acel băiat?
+Dialogue: 100,0:18:53.33,0:18:55.68,Dialogue,Gi,0,0,0,,De ce doriți să știți?
+Dialogue: 100,0:18:55.68,0:18:57.11,Dialogue,Gi,0,0,0,,Răspunde-mi doar.
+Dialogue: 100,0:18:57.11,0:18:59.86,Dialogue,Gi,0,0,0,,Nu-ți dorești să-l ajuți?
+Dialogue: 100,0:19:01.60,0:19:03.87,Dialogue,Gi,0,0,0,,Mizuhara e foarte egoist.
+Dialogue: 100,0:19:04.16,0:19:08.43,Dialogue,Gi,0,0,0,,E minunat că lucrează la un vaccin.
+Dialogue: 100,0:19:08.43,0:19:13.34,Dialogue,Gi,0,0,0,,Dar cred că s-ar putea împerechea o dată sau de două pe săptămână în timp ce-și face cercetările.
+Dialogue: 100,0:19:13.34,0:19:15.66,Dialogue,Gi,0,0,0,,Cu lumea în pragul anihilării,
+Dialogue: 100,0:19:15.66,0:19:20.23,Dialogue,Gi,0,0,0,,să fii îndrăgostit de cineva nu e un motiv destul de bun încât să refuzi.
+Dialogue: 100,0:19:21.44,0:19:24.14,Dialogue,Gi,0,0,0,,E foarte egoist.
+Dialogue: 100,0:19:25.37,0:19:28.14,Dialogue,Gi,0,0,0,,Dar nu mulți ar putea face asta.
+Dialogue: 100,0:19:28.80,0:19:31.99,Dialogue,Gi,0,0,0,,Are aceleași dorințe ca orice alt bărbat.
+Dialogue: 100,0:19:31.99,0:19:33.65,Dialogue,Gi,0,0,0,,Dar el se luptă cu ele.
+Dialogue: 100,0:19:33.65,0:19:38.34,Dialogue,Gi,0,0,0,,Și astfel, poate continua să fie \Negoist în fața întregii lumi.
+Dialogue: 100,0:19:38.34,0:19:41.91,Dialogue,Gi,0,0,0,,E destul de posibil ca \Nel să salveze lumea.
+Dialogue: 100,0:19:41.91,0:19:45.41,Dialogue,Gi,0,0,0,,Îl cunoști destul de bine.
+Dialogue: 100,0:19:45.72,0:19:48.68,Dialogue,Gi,0,0,0,,Ei bine, îl privesc mereu.
+Dialogue: 100,0:19:50.80,0:19:51.92,Dialogue,Gu,0,0,0,,Am înțeles.
+Dialogue: 100,0:19:51.92,0:19:52.97,Dialogue,Gi,0,0,0,,Ai întârziat.
+Dialogue: 100,0:19:52.97,0:19:54.17,Dialogue,Gi,0,0,0,,Nu mai vreau acum.
+Dialogue: 100,0:19:55.15,0:19:58.55,Dialogue,Gi,0,0,0,,Chiar nu intenționezi să faci copii?
+Dialogue: 100,0:19:58.83,0:20:03.56,Dialogue,Gu,0,0,0,,Dacă acest lucru chiar va ajuta omenirea, s-ar putea s-o fac, într-o bună  zi.
+Dialogue: 100,0:20:04.49,0:20:07.68,Dialogue,Gi,0,0,0,,Deci vei renunța la fata pe care o iubești?
+Dialogue: 100,0:20:07.68,0:20:12.95,Dialogue,Gu,0,0,0,,Nu. Chiar dacă mă voi împerechea, o voi face doar pentru că asta se dorește de la mine.
+Dialogue: 100,0:20:12.95,0:20:14.69,Dialogue,Gu,0,0,0,,Sentimentele mele nu se vor schimba.
+Dialogue: 100,0:20:14.96,0:20:18.19,Dialogue,Gu,0,0,0,,O voi iubi doar pe acea fată.
+Dialogue: 100,0:20:20.44,0:20:22.55,Dialogue,Gi,0,0,0,,Mă simt cam obosită astăzi.
+Dialogue: 100,0:20:22.55,0:20:24.42,Dialogue,Gi,0,0,0,,Revino mâine.
+Dialogue: 100,0:20:24.42,0:20:27.61,Dialogue,Gi,0,0,0,,Îți voi spune câteva povești despre niște vremuri de mult apuse.
+Dialogue: 100,0:20:27.61,0:20:28.45,Dialogue,Gu,0,0,0,,Bine.
+Dialogue: 100,0:20:28.72,0:20:31.58,Dialogue,Gi,0,0,0,,Mi-ar plăcea să vorbesc despre soțul meu din când în când.
+Dialogue: 100,0:20:32.83,0:20:34.46,Dialogue,Gu,0,0,0,,Voi veni! Vă promit!
+Dialogue: 100,0:20:37.99,0:20:43.97,Dialogue,Gi,0,0,0,,Nimeni nu te va învinovăți dacă vei renunța la salvarea lumii ca să fii cu băiatul pe care-l iubești.
+Dialogue: 100,0:20:45.72,0:20:47.87,Dialogue,Gi,0,0,0,,Ești așa de încăpățânată!
+Dialogue: 100,0:20:47.87,0:20:50.85,Dialogue,Gi,0,0,0,,Dacă nu te grăbești, îl vei pierde!
+Dialogue: 100,0:20:50.85,0:20:53.13,Dialogue,Gi,0,0,0,,Avea o grămadă de fete \Ndrăguțe cu el astăzi...
+Dialogue: 100,0:20:53.13,0:20:56.36,Dialogue,Gi,0,0,0,,{\i1}Chiar dacă Reito se va \Nîndrăgosti de altcineva,
+Dialogue: 100,0:20:56.36,0:20:59.08,Dialogue,Gi,0,0,0,,{\i1}eu îl voi iubi doar pe el.
+Dialogue: 100,0:21:02.37,0:21:05.61,Dialogue,Gi,0,0,0,,Amândoi sunteți foarte asemănători.
+Dialogue: 100,0:21:20.38,0:21:22.33,Dialogue,Gi,0,0,0,,Condiția ei s-a înrăutățit dintr-odată!
+Dialogue: 100,0:21:22.33,0:21:24.51,Dialogue,Gu,0,0,0,,A fost perfect în regulă până azi.
 Dialogue: 100,0:21:24.51,0:21:27.39,Dialogue,Gi,0,0,0,,V-Va fi bine, nu?
-Dialogue: 100,0:21:27.66,0:21:30.70,Dialogue,Gi,0,0,0,,E în comă. It could go either way.
-Dialogue: 100,0:21:31.20,0:21:34.00,Dialogue,Gi,0,0,0,,Um, this is from her.
+Dialogue: 100,0:21:27.66,0:21:30.70,Dialogue,Gi,0,0,0,,E în comă acum. Nu știm \Ncum vor decurge lucrurile.
+Dialogue: 100,0:21:31.20,0:21:34.00,Dialogue,Gi,0,0,0,,Ei bine, voia ca tu să ai asta.
 Dialogue: 100,0:21:34.00,0:21:35.14,Dialogue,Gu,0,0,0,,Ce este?
 Dialogue: 100,0:21:35.83,0:21:38.06,Dialogue,Gi,0,0,0,,Dnă Taniguchi, ce ați pățit?
-Dialogue: 100,0:21:38.06,0:21:43.78,Dialogue,Gi,0,0,0,,Dacă se va întâmpla ceva, \Ndăi asta acelui băiat.
-Dialogue: 100,0:21:46.66,0:21:47.78,Dialogue,Gu,0,0,0,,Taniguchi-san.
-Dialogue: 100,0:21:48.28,0:21:49.98,Dialogue,Gu,0,0,0,,I'll take it.
-Dialogue: 100,0:21:50.45,0:21:53.29,Dialogue,Gu,0,0,0,,I'll come give it back when she's better.
+Dialogue: 100,0:21:38.06,0:21:43.78,Dialogue,Gi,0,0,0,,Dacă se va întâmpla ceva, \Ndă-i asta acelui băiat.
+Dialogue: 100,0:21:46.66,0:21:47.78,Dialogue,Gu,0,0,0,,Doamnă Taniguchi.
+Dialogue: 100,0:21:48.28,0:21:49.98,Dialogue,Gu,0,0,0,,O voi accepta.
+Dialogue: 100,0:21:50.45,0:21:53.29,Dialogue,Gu,0,0,0,,I-o voi returna când își va reveni.
 Dialogue: 100,0:21:53.59,0:21:55.79,Dialogue,Gu,0,0,0,,Aveți grijă de ea până atunci.
 Dialogue: 100,0:21:56.09,0:21:57.00,Dialogue,Gi,0,0,0,,Bine...
-Dialogue: 0,0:12:32.48,0:12:37.02,DedzuyaSigns,Gi,0,0,0,,Episodul 5
-Dialogue: 1,0:12:32.48,0:12:37.02,Ep Title,Gi,0,0,0,,Prima victimă
-Dialogue: 0,0:13:02.92,0:13:05.72,DedzuyaSigns,,0,0,0,,{\pos(682,416)}Spitalul Central al orașului Keimon
-Dialogue: 0,0:21:05.61,0:21:07.62,DedzuyaSigns,,0,0,0,,Spitalul Central al orașului Keimon
-Dialogue: 0,0:23:34.93,0:23:39.93,DedzuyaSigns,,0,0,0,,Episodul 6
-Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,Comploturi conectate
+Dialogue: 0,0:00:00.00,0:00:02.98,DedzuyaSigns,,0,0,0,,{\pos(671,971)\frz0.08\fry-0.01\frx0.01\fnAmiko\fs17\b1\c&H684131&\blur0.7}Laboratorul OF de cercetare a virusurilor
+Dialogue: 1,0:00:00.00,0:00:02.98,DedzuyaSigns,,0,0,0,,{\pos(670,971)\frz0.08\fry-0.01\frx0.01\fnAmiko\fs17\b1\c&HB78868&\blur0.7}L{\c&HB78969&}a{\c&HB88A6A&}b{\c&HB98B6B&}o{\c&HBA8C6C&}r{\c&HBA8D6D&}a{\c&HBB8E6E&}t{\c&HBC8F6F&}o{\c&HBD9070&}r{\c&HBD9171&}u{\c&HBE9273&}l {\c&HC09475&}O{\c&HC19576&}F {\c&HC29778&}d{\c&HC39879&}e {\c&HC49A7B&}c{\c&HC59B7C&}e{\c&HC69C7E&}r{\c&HC79D7F&}c{\c&HC89E80&}e{\c&HC89F81&}t{\c&HC9A082&}a{\c&HCAA183&}r{\c&HCBA284&}e {\c&HCCA486&}a {\c&HCEA689&}v{\c&HCFA78A&}i{\c&HCFA88B&}r{\c&HD0A98C&}u{\c&HD1AA8D&}s{\c&HD2AB8E&}u{\c&HD2AC8F&}r{\c&HD3AD90&}i{\c&HD4AE91&}l{\c&HD5AF92&}o{\c&HD6B094&}r
+Dialogue: 0,0:11:00.64,0:11:02.64,DedzuyaSigns,,0,0,0,,{\an7\pos(645.71,360.29)\c&HF4F5F3&\blur1\p1}m -138 4 l 150 -52 150 -5 -139 48
+Dialogue: 1,0:11:00.64,0:11:02.64,DedzuyaSigns,,0,0,0,,{\pos(646.71,361.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&H888784&\blur1}Spitalul Central din Keimon
+Dialogue: 2,0:11:00.64,0:11:02.64,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&H888784&\blur1}Spitalul Central din Keimon
+Dialogue: 0,0:12:32.48,0:12:37.03,DedzuyaSigns,,0,0,0,,{\pos(367,80)\fnRyumin ExtraHeavy\fs74\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}Episodul 5
+Dialogue: 1,0:12:32.48,0:12:37.03,DedzuyaSigns,,0,0,0,,{\pos(367,80)\fnRyumin ExtraHeavy\fs74\c&HEFECF6&\blur0.5\fad(500,0)}Episodul 5
+Dialogue: 0,0:12:52.29,0:12:54.04,DedzuyaSigns,,0,0,0,,{\an7\pos(645.71,360.29)\c&H533E0F&\blur1\p1}m -138 4 l 150 -52 152 -2 -140 52
+Dialogue: 0,0:12:52.29,0:12:54.04,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDroid Sans\fs24\b1\bord2\3c&HFFFFFF&\blur8}Spitalul Central din Keimon
+Dialogue: 1,0:12:52.29,0:12:54.04,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDroid Sans\fs24\b1\c&H4E391C&\blur1}Spitalul Central din Keimon
+Dialogue: 2,0:12:52.29,0:12:54.04,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDroid Sans\fs24\b1\c&H4E391C&\blur1}Spitalul Central din Keimon
+Dialogue: 0,0:13:02.92,0:13:05.72,DedzuyaSigns,,0,0,0,,{\an7\pos(645.71,360.29)\c&HF5F3F3&\blur1\p1}m -138 4 l 150 -52 150 -5 -139 48
+Dialogue: 1,0:13:02.92,0:13:05.72,DedzuyaSigns,,0,0,0,,{\pos(646.71,361.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&HC19374&\blur1}Spitalul Central din Keimon
+Dialogue: 2,0:13:02.92,0:13:05.72,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&HC19374&\blur1}Spitalul Central din Keimon
+Dialogue: 0,0:14:33.27,0:14:35.27,DedzuyaSigns,,0,0,0,,{\an7\pos(645.71,360.29)\c&H3FA1E7&\blur1\p1}m -138 4 l 150 -52 150 -5 -139 48
+Dialogue: 1,0:14:33.27,0:14:35.27,DedzuyaSigns,,0,0,0,,{\pos(646.71,361.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&H1F4690&\blur1}Spitalul Central din Keimon
+Dialogue: 2,0:14:33.27,0:14:35.27,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&H1F4690&\blur1}Spitalul Central din Keimon
+Dialogue: 0,0:17:59.93,0:18:01.44,DedzuyaSigns,,0,0,0,,{\an7\pos(645.71,360.29)\c&HF5F3F3&\blur1\p1}m -138 4 l 150 -52 150 -5 -139 48
+Dialogue: 1,0:17:59.93,0:18:01.44,DedzuyaSigns,,0,0,0,,{\pos(646.71,361.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&HC19374&\blur1}Spitalul Central din Keimon
+Dialogue: 2,0:17:59.93,0:18:01.44,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&HC19374&\blur1}Spitalul Central din Keimon
+Dialogue: 0,0:19:49.67,0:19:51.92,DedzuyaSigns,,0,0,0,,{\an7\pos(645.71,360.29)\c&H3FA1E7&\blur1\p1}m -138 4 l 150 -52 150 -5 -139 48
+Dialogue: 1,0:19:49.67,0:19:51.92,DedzuyaSigns,,0,0,0,,{\pos(646.71,361.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&H1F4690&\blur1}Spitalul Central din Keimon
+Dialogue: 2,0:19:49.67,0:19:51.92,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDriod Sans\fs24\b1\c&H1F4690&\blur1}Spitalul Central din Keimon
+Dialogue: 0,0:21:05.61,0:21:07.62,DedzuyaSigns,,0,0,0,,{\an7\pos(645.71,360.29)\c&H4B340C&\blur1\p1}m -138 4 l 150 -52 152 -2 -140 52
+Dialogue: 0,0:21:05.61,0:21:07.62,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDroid Sans\fs24\b1\bord2\3c&HFFFFFF&\blur8}Spitalul Central din Keimon
+Dialogue: 1,0:21:05.61,0:21:07.62,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDroid Sans\fs24\b1\c&H412714&\blur1}Spitalul Central din Keimon
+Dialogue: 2,0:21:05.61,0:21:07.62,DedzuyaSigns,,0,0,0,,{\pos(645.71,360.29)\frz10.61\fry-7.28\frx2.09\fax-0.2\fnDroid Sans\fs24\b1\c&H412714&\blur1}Spitalul Central din Keimon
+Dialogue: 0,0:23:34.93,0:23:39.93,DedzuyaSigns,,0,0,0,,{\an2\pos(960,210)\fnRyumin ExtraHeavy\fs110\c&HE6E3EF&\alpha&HA0&\blur8}Episodul 6
+Dialogue: 1,0:23:34.93,0:23:39.93,DedzuyaSigns,,0,0,0,,{\an2\pos(960,210)\fnRyumin ExtraHeavy\fs110\c&HE6E3EF&\blur0.5}Episodul 6
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(115,175)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}P
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(166,185)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}r
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(202,180)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}i
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(253,175)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}m
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(316,185)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}a
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(394,175)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}v
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(433,185)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}i
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(468,180)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}c
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(506,175)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}t
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(536,185)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}i
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(587,180)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}m
+Dialogue: 0,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(650,175)\bord1\yshad0.001\c&H000000&\alpha&H90&\1a&HFE&\blur3\fad(500,0)}ă
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(115,175)\blur0.6\fad(500,0)}P
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(166,185)\blur0.6\fad(500,0)}r
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(202,180)\blur0.6\fad(500,0)}i
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(253,175)\blur0.6\fad(500,0)}m
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(316,185)\blur0.6\fad(500,0)}a
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(394,175)\blur0.6\fad(500,0)}v
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(433,185)\blur0.6\fad(500,0)}i
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(468,180)\blur0.6\fad(500,0)}c
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(506,175)\blur0.6\fad(500,0)}t
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(536,185)\blur0.6\fad(500,0)}i
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(587,180)\blur0.6\fad(500,0)}m
+Dialogue: 1,0:12:32.48,0:12:37.03,Ep Title,,0,0,0,,{\pos(650,175)\blur0.6\fad(500,0)}ă
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(404,792)\alpha&HA0&\blur8}C
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(478,808)\alpha&HA0&\blur8}o
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(563,800)\alpha&HA0&\blur8}m
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(648,792)\alpha&HA0&\blur8}p
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(700,808)\alpha&HA0&\blur8}l
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(752,800)\alpha&HA0&\blur8}o
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(808,792)\alpha&HA0&\blur8}t
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(863,808)\alpha&HA0&\blur8}u
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(926,800)\alpha&HA0&\blur8}r
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(974,792)\alpha&HA0&\blur8}i
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1061,800)\alpha&HA0&\blur8}c
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1124,792)\alpha&HA0&\blur8}o
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1192,808)\alpha&HA0&\blur8}n
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1255,800)\alpha&HA0&\blur8}e
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1314,792)\alpha&HA0&\blur8}c
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1365,808)\alpha&HA0&\blur8}t
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1420,800)\alpha&HA0&\blur8}a
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1476,792)\alpha&HA0&\blur8}t
+Dialogue: 0,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1527,808)\alpha&HA0&\blur8}e
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(404,792)\blur0.6}C
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(478,808)\blur0.6}o
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(563,800)\blur0.6}m
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(648,792)\blur0.6}p
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(700,808)\blur0.6}l
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(752,800)\blur0.6}o
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(808,792)\blur0.6}t
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(863,808)\blur0.6}u
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(926,800)\blur0.6}r
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(974,792)\blur0.6}i
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1061,800)\blur0.6}c
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1124,792)\blur0.6}o
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1192,808)\blur0.6}n
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1255,800)\blur0.6}e
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1314,792)\blur0.6}c
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1365,808)\blur0.6}t
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1420,800)\blur0.6}a
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1476,792)\blur0.6}t
+Dialogue: 1,0:23:34.93,0:23:39.93,Next Ep,,0,0,0,,{\pos(1527,808)\blur0.6}e
+Comment: 0,0:01:35.99,0:01:36.03,OP TL,,0,0,0,,{OP first frame}
+Dialogue: 0,0:01:50.80,0:01:52.77,OP TL,,0,0,0,,{\blur5\fad(200,0)}Nu-mi vine să cred
+Dialogue: 1,0:01:50.80,0:01:52.77,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(200,0)}Nu-mi vine să cred
+Dialogue: 0,0:01:52.77,0:01:55.40,OP TL,,0,0,0,,{\blur5\fad(0,200)}Lumea, pe care o știam, a dispărut complet
+Dialogue: 1,0:01:52.77,0:01:55.40,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(0,200)}Lumea, pe care o știam, a dispărut complet
+Dialogue: 0,0:01:56.01,0:02:00.64,OP TL,,0,0,0,,{\blur5\fad(200,200)}M-am trezit într-o bună zi și totul era schimbat
+Dialogue: 1,0:01:56.01,0:02:00.64,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(200,200)}M-am trezit într-o bună zi și totul era schimbat
+Dialogue: 0,0:02:00.64,0:02:03.31,OP TL,,0,0,0,,{\blur5\fad(200,0)}Disperare (Nu mai există nicio rază de speranță?)
+Dialogue: 1,0:02:00.64,0:02:03.31,OP TL,,0,0,0,,{\c&HEE028D&\blur0.6\fad(200,0)}Disperare (Nu mai există nicio rază de speranță?)
+Dialogue: 0,0:02:03.31,0:02:04.81,OP TL,,0,0,0,,{\blur5}Ideal (Nu renunța!)
+Dialogue: 1,0:02:03.31,0:02:04.81,OP TL,,0,0,0,,{\c&HEE028D&\blur0.6}Ideal (Nu renunța!)
+Dialogue: 0,0:02:04.81,0:02:06.00,OP TL,,0,0,0,,{\blur5\fad(0,200)}Ideal (Nu renunța!)
+Dialogue: 1,0:02:04.81,0:02:06.00,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(0,200)}Ideal (Nu renunța!)
+Dialogue: 0,0:02:06.00,0:02:10.40,OP TL,,0,0,0,,{\blur5\fad(200,0)}O lume care ți-a fost încredințată pentru a o repopula
+Dialogue: 1,0:02:06.00,0:02:10.40,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(200,0)}O lume care ți-a fost încredințată pentru a o repopula
+Dialogue: 0,0:02:10.40,0:02:11.85,OP TL,,0,0,0,,{\blur5\fad(0,200)}Ești încântat?
+Dialogue: 1,0:02:10.40,0:02:11.85,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(0,200)}Ești încântat?
+Dialogue: 0,0:02:11.85,0:02:17.06,OP TL,,0,0,0,,{\blur5\fad(200,0)}Cu respirațiile calde și obrajii roșii
+Dialogue: 1,0:02:11.85,0:02:17.06,OP TL,,0,0,0,,{\c&HEF04D5&\blur0.6\fad(200,0)}Cu respirațiile calde și obrajii roșii
+Dialogue: 0,0:02:17.06,0:02:18.03,OP TL,,0,0,0,,{\blur5}Te pot vedea râzând cu coada ochiului
+Dialogue: 1,0:02:17.06,0:02:18.03,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6}Te pot vedea râzând cu coada ochiului
+Dialogue: 0,0:02:18.03,0:02:18.87,OP TL,,0,0,0,,{\bord3\c&H52DF86&\3c&H52DF86&\blur1}Te pot vedea râzând cu coada ochiului
+Dialogue: 1,0:02:18.03,0:02:21.83,OP TL,,0,0,0,,{\c&HFFFFFF&\blur0.6}Te pot vedea râzând cu coada ochiului
+Dialogue: 0,0:02:18.87,0:02:19.70,OP TL,,0,0,0,,{\bord3\c&H7D44D9&\3c&H7D44D9&\blur1}Te pot vedea râzând cu coada ochiului
+Dialogue: 0,0:02:19.70,0:02:20.41,OP TL,,0,0,0,,{\bord3\c&HE4D41C&\3c&HE4D41C&\blur1}Te pot vedea râzând cu coada ochiului
+Dialogue: 0,0:02:20.41,0:02:21.08,OP TL,,0,0,0,,{\bord3\c&H9949F9&\3c&H9949F9&\blur1}Te pot vedea râzând cu coada ochiului
+Dialogue: 0,0:02:21.08,0:02:21.83,OP TL,,0,0,0,,{\bord3\c&H076FEC&\3c&H076FEC&\blur1}Te pot vedea râzând cu coada ochiului
+Dialogue: 0,0:02:21.83,0:02:25.67,OP TL,,0,0,0,,{\blur5\fad(0,200)}Chiar dacă plângi sau strigi
+Dialogue: 1,0:02:21.83,0:02:25.67,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(0,200)}Chiar dacă plângi sau strigi
+Dialogue: 0,0:02:25.67,0:02:27.96,OP TL,,0,0,0,,{\blur5\fad(200,200)}Impulsul nu se va opri
+Dialogue: 1,0:02:25.67,0:02:27.96,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(200,200)}Impulsul nu se va opri
+Dialogue: 0,0:02:29.54,0:02:30.25,OP TL,,0,0,0,,{\blur5\fad(200,0)}Nu renunța la promisiunea din mâinile tale
+Dialogue: 1,0:02:29.54,0:02:30.25,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(200,0)}Nu renunța la promisiunea din mâinile tale
+Dialogue: 0,0:02:30.25,0:02:33.17,OP TL,,0,0,0,,{\bord3\c&HBC10B7&\3c&HBC10B7&\blur3}Nu renunța la promisiunea din mâinile tale
+Dialogue: 1,0:02:30.25,0:02:33.17,OP TL,,0,0,0,,{\c&HFFFFFF&\blur0.6}Nu renunța la promisiunea din mâinile tale
+Dialogue: 0,0:02:33.17,0:02:35.62,OP TL,,0,0,0,,{\bord3\c&HBC10B7&\3c&HBC10B7&\blur3}Deoarece te pot simți aproape
+Dialogue: 1,0:02:33.17,0:02:35.62,OP TL,,0,0,0,,{\c&HFFFFFF&\blur0.6}Deoarece te pot simți aproape
+Dialogue: 0,0:02:35.62,0:02:40.96,OP TL,,0,0,0,,{\bord3\c&HBC10B7&\3c&HBC10B7&\blur3}Nu voi ceda până nu voi știi cu siguranță
+Dialogue: 1,0:02:35.62,0:02:40.96,OP TL,,0,0,0,,{\c&HFFFFFF&\blur0.6}Nu voi ceda până nu voi știi cu siguranță
+Dialogue: 0,0:02:40.96,0:02:43.98,OP TL,,0,0,0,,{\blur5}Chiar dacă voi ajunge într-un loc necunoscut
+Dialogue: 1,0:02:40.96,0:02:43.98,OP TL,,0,0,0,,{\c&HD1FE05&\blur0.6}Chiar dacă voi ajunge într-un loc necunoscut
+Dialogue: 0,0:02:43.98,0:02:46.02,OP TL,,0,0,0,,{\blur5}Voi continua să înaintez
+Dialogue: 1,0:02:43.98,0:02:46.02,OP TL,,0,0,0,,{\c&HD1FE05&\blur0.6}Voi continua să înaintez
+Dialogue: 0,0:02:46.02,0:02:51.61,OP TL,,0,0,0,,{\blur5\fad(0,200)}Îmi voi aminti de ochii tăi puternici și strălucitori
+Dialogue: 1,0:02:46.02,0:02:51.61,OP TL,,0,0,0,,{\c&H1D7BF0&\blur0.6\fad(0,200)\t(3880,4460,\c&HFF00E2&)}Îmi voi aminti de ochii tăi puternici și strălucitori
+Dialogue: 0,0:02:51.61,0:02:57.16,OP TL,,0,0,0,,{\blur5\fad(200,200)}Chiar dacă nu o va face nimeni, o voi face eu
+Dialogue: 1,0:02:51.61,0:02:57.16,OP TL,,0,0,0,,{\c&HFF00E2&\blur0.6\fad(200,200)}Chiar dacă nu o va face nimeni, o voi face eu
+Dialogue: 0,0:02:57.16,0:03:00.95,OP TL,,0,0,0,,{\blur5\fad(200,200)}Trebuie s-o fac, cu orice preț!
+Dialogue: 1,0:02:57.16,0:03:00.95,OP TL,,0,0,0,,{\c&HCCF902&\blur0.6\fad(200,200)}Trebuie s-o fac, cu orice preț!
+Comment: 0,0:22:04.93,0:22:04.97,ED TL,,0,0,0,,{ED first frame}
+Dialogue: 0,0:22:06.57,0:22:12.58,ED TL,,0,0,0,,{\c&H5F7707&\3c&H5F7707&\blur2\fad(200,200)}Cel puțin, sunt în brațele tale acum
+Dialogue: 1,0:22:06.57,0:22:12.58,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Cel puțin, sunt în brațele tale acum
+Dialogue: 0,0:22:12.58,0:22:19.03,ED TL,,0,0,0,,{\c&H883719&\3c&H883719&\blur2\fad(200,200)}Iubirea mea se trezește din somnul ei criogenic
+Dialogue: 1,0:22:12.58,0:22:19.03,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Iubirea mea se trezește din somnul ei criogenic
+Dialogue: 0,0:22:20.36,0:22:25.76,ED TL,,0,0,0,,{\an7\c&H391A73&\3c&H391A73&\blur2\fad(200,200)}E în regulă chiar și dacă găsești
+Dialogue: 1,0:22:20.36,0:22:25.76,ED TL,,0,0,0,,{\an7\bord0\blur0.7\fad(200,200)}E în regulă chiar și dacă găsești
+Dialogue: 0,0:22:27.22,0:22:32.53,ED TL,,0,0,0,,{\an7\c&H1D7E1E&\3c&H1D7E1E&\blur2\fad(200,200)}O dorință ascunsă într-o imagine înșelătoare
+Dialogue: 1,0:22:27.22,0:22:32.53,ED TL,,0,0,0,,{\an7\bord0\blur0.7\fad(200,200)}O dorință ascunsă într-o imagine înșelătoare
+Dialogue: 0,0:22:34.08,0:22:39.49,ED TL,,0,0,0,,{\an7\c&H13327F&\3c&H13327F&\blur2\fad(200,200)}Deoarece cunosc gustul sfârșitului
+Dialogue: 1,0:22:34.08,0:22:39.49,ED TL,,0,0,0,,{\an7\bord0\blur0.7\fad(200,200)}Deoarece cunosc gustul sfârșitului
+Dialogue: 0,0:22:40.93,0:22:46.69,ED TL,,0,0,0,,{\an7\c&H451F94&\3c&H451F94&\blur2\fad(200,200)}Mi-e teamă chiar și de inima pe care mi-o doresc
+Dialogue: 1,0:22:40.93,0:22:46.69,ED TL,,0,0,0,,{\an7\bord0\blur0.7\fad(200,200)}Mi-e teamă chiar și de inima pe care mi-o doresc
+Dialogue: 0,0:22:46.69,0:22:53.52,ED TL,,0,0,0,,{\an7\c&H2C241D&\3c&H2C241D&\blur2\fad(200,200)}Acest miraj stupid mă face să mă arunc într-o iubire fără sens
+Dialogue: 1,0:22:46.69,0:22:53.52,ED TL,,0,0,0,,{\an7\bord0\blur0.7\fad(200,200)}Acest miraj stupid mă face să mă arunc într-o iubire fără sens
+Dialogue: 0,0:22:53.52,0:23:00.07,ED TL,,0,0,0,,{\an7\c&H791D69&\3c&H791D69&\blur2\fad(200,200)\t(5800,5920,\c&H03A9D3&\3c&H03A9D3&)}Și mă simt de parcă am ajuns la capătul drumului
+Dialogue: 1,0:22:53.52,0:23:00.07,ED TL,,0,0,0,,{\an7\bord0\blur0.7\fad(200,200)}Și mă simt de parcă am ajuns la capătul drumului
+Dialogue: 0,0:23:00.07,0:23:03.70,ED TL,,0,0,0,,{\c&H03A9D3&\3c&H03A9D3&\blur2\fad(200,200)\t(700,1950,\3c&H32129B&\c&H32129B&)}„De ce nu sunt eu persoana potrivită?”
+Dialogue: 1,0:23:00.07,0:23:03.70,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}„De ce nu sunt eu persoana potrivită?”
+Dialogue: 0,0:23:03.70,0:23:07.73,ED TL,,0,0,0,,{\c&H32129B&\3c&H32129B&\blur2\fad(200,200)}Mă agăț de tine cu toată ființa mea în timp ce strig din răsputeri
+Dialogue: 1,0:23:03.70,0:23:07.73,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Mă agăț de tine cu toată ființa mea în timp ce strig din răsputeri
+Dialogue: 0,0:23:07.73,0:23:12.68,ED TL,,0,0,0,,{\c&H32129B&\3c&H32129B&\blur2\fad(200,200)}Parcă aș fi pe fundul oceanului când doar încerci să fii drăguț
+Dialogue: 1,0:23:07.73,0:23:12.68,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Parcă aș fi pe fundul oceanului când doar încerci să fii drăguț
+Dialogue: 0,0:23:12.68,0:23:14.66,ED TL,,0,0,0,,{\c&H32129B&\3c&H32129B&\blur2\fad(200,200)}Și nu pot respira deloc
+Dialogue: 1,0:23:12.68,0:23:14.66,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Și nu pot respira deloc
+Dialogue: 0,0:23:14.66,0:23:18.25,ED TL,,0,0,0,,{\c&H32129B&\3c&H32129B&\blur2\fad(200,200)}Dragul meu, te sărut de parcă doar tu mă poți ține în viață
+Dialogue: 1,0:23:14.66,0:23:18.25,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Dragul meu, te sărut de parcă doar tu mă poți ține în viață
+Dialogue: 0,0:23:18.25,0:23:24.27,ED TL,,0,0,0,,{\c&H32129B&\3c&H32129B&\blur2\fad(200,200)}Această plăcere temporară se transformă în durere
+Dialogue: 1,0:23:18.25,0:23:24.27,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Această plăcere temporară se transformă în durere
+Dialogue: 0,0:23:24.27,0:23:26.51,ED TL,,0,0,0,,{\c&H32129B&\3c&H32129B&\blur2\fad(200,200)}Când sunt în brațele tale,
+Dialogue: 1,0:23:24.27,0:23:26.51,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Când sunt în brațele tale,
+Dialogue: 0,0:23:26.51,0:23:31.91,ED TL,,0,0,0,,{\c&H791D69&\3c&H791D69&\blur2\fad(200,200)}Nu vreau să mă mai trezesc din acest miraj fără de sfârșit
+Dialogue: 1,0:23:26.51,0:23:31.91,ED TL,,0,0,0,,{\bord0\blur0.7\fad(200,200)}Nu vreau să mă mai trezesc din acest miraj fără de sfârșit

@@ -9,37 +9,44 @@ Synch Point:
 Script Updated By: 
 Update Details: 
 ScriptType: v4.00+
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Scroll Position: 262
-Active Line: 278
+Audio File: ../../../../Anime/[SubsPlease] Saihate no Paladin - 12 (1080p) [2A1C5480].mkv
+Video File: ../../../../Anime/[SubsPlease] Saihate no Paladin - 12 (1080p) [2A1C5480].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 360
+Active Line: 376
+Video Position: 33860
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
-Style: Episode_Title,Times New Roman,20,&H00FFFFFF,&H000000FF,&H8C000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,40,10,80,1
-Style: Show_Title,Times New Roman,50,&H00211360,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,18,1
-Style: Next_Ep_Title,Times New Roman,33,&H00FFFFFF,&H000000FF,&H8C000000,&H00000000,0,0,0,0,110,110,0,0,1,1,0,2,10,10,60,1
-Style: Words,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,52,1
+Style: Default,Roboto Medium,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Flashback_Italics,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Narration,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
+Style: Main - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Flashback_Italics - Top,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3.9,0,8,60,60,69,1
+Style: Sign_Basic,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,1
+Style: Episode_Title,Times New Roman,60,&H00FFFFFF,&H000000FF,&H8C000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,120,30,240,1
+Style: Show_Title,Times New Roman,150,&H00211360,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,9,0,2,30,30,54,1
+Style: Next_Ep_Title,Times New Roman,99,&H00FFFFFF,&H000000FF,&H8C000000,&H00000000,0,0,0,0,110,110,0,0,1,3,0,2,30,30,180,1
+Style: Words,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,156,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:14.50,0:00:15.33,Main,Menel,0,0,0,,Hei.
-Dialogue: 0,0:00:31.01,0:00:36.01,Show_Title,Title,0,0,0,,{\fad(1075,0)\blur2\move(320,300,320,290)\org(320,180)\fs58\t(\fs50)}The Faraway Paladin
+Dialogue: 0,0:00:31.01,0:00:36.01,Show_Title,Title,0,0,0,,{\fad(1075,0)\blur6\move(960,900,960,870)\org(960,540)\fs174\t(\fs150)}The Faraway Paladin
 Dialogue: 0,0:00:38.33,0:00:39.87,Main,Menel,0,0,0,,Unde crezi că te duci?
 Dialogue: 0,0:00:41.41,0:00:42.71,Main,Will,0,0,0,,Unde?
 Dialogue: 0,0:00:43.50,0:00:45.43,Main,Will,0,0,0,,Să omor bestiile demonice.
@@ -76,91 +83,91 @@ Dialogue: 0,0:02:45.52,0:02:48.42,Main - Top,Menel,0,0,0,,Gnomilor, oh, gnomilor
 Dialogue: 0,0:02:48.42,0:02:50.68,Main - Top,Menel,0,0,0,,Și folosiți-i ca să vă doborâți inamicul!
 Dialogue: 0,0:02:51.02,0:02:52.62,Main,Will,0,0,0,,O incantație inutilă.
 Dialogue: 0,0:02:54.68,0:02:57.36,Italics,Will,0,0,0,,Nu! Dacă mă voi feri, vraja îl va lovi pe Menel!
-Dialogue: 0,0:03:05.32,0:03:08.15,Main,Menel,0,0,0,,What's this crap about \Nfixing everything alone?
+Dialogue: 0,0:03:05.32,0:03:08.15,Main,Menel,0,0,0,,Care-i treaba cu tâmpenia \Nasta de a face totul singur?
 Dialogue: 0,0:03:08.42,0:03:10.79,Main,Menel,0,0,0,,Ești doar un fricos!
 Dialogue: 0,0:03:17.90,0:03:20.26,Main,Will,0,0,0,,Chiar trebuia să mergi atât de departe?
 Dialogue: 0,0:03:20.26,0:03:21.01,Main,Menel,0,0,0,,Ce?
-Dialogue: 0,0:03:21.34,0:03:23.48,Main,Will,0,0,0,,We were only together because \Nthings worked out that way.
+Dialogue: 0,0:03:21.34,0:03:23.48,Main,Will,0,0,0,,Am ajuns să călătorim \Nîmpreună din pură coincidență.
 Dialogue: 0,0:03:24.01,0:03:26.46,Main,Will,0,0,0,,Nu ai niciun motiv să faci asta.
 Dialogue: 0,0:03:26.46,0:03:28.94,Main,Menel,0,0,0,,Da, așa este.
-Dialogue: 0,0:03:29.42,0:03:31.82,Main,Menel,0,0,0,,I have no reason to go out of my way
-Dialogue: 0,0:03:31.82,0:03:35.11,Main,Menel,0,0,0,,to stop an emotionally unstable \Ncoward who's completely lost it
-Dialogue: 0,0:03:35.11,0:03:37.12,Main,Menel,0,0,0,,just because he got his \Nass handed to him once.
+Dialogue: 0,0:03:29.42,0:03:31.82,Main,Menel,0,0,0,,Nu am niciun motiv să mă obosesc
+Dialogue: 0,0:03:31.82,0:03:35.11,Main,Menel,0,0,0,,să opresc un fricos instabil emoțional, care și-a pierdut mințile,
+Dialogue: 0,0:03:35.11,0:03:37.12,Main,Menel,0,0,0,,doar pentru că i-a fost \Ntăbăcit fundul o dată.
 Dialogue: 0,0:03:37.99,0:03:38.65,Main,Will,0,0,0,,În acest caz...
 Dialogue: 0,0:03:38.65,0:03:39.41,Main,Menel,0,0,0,,Dar...
 Dialogue: 0,0:03:40.11,0:03:41.40,Main,Menel,0,0,0,,Ești prietenul meu.
 Dialogue: 0,0:03:42.96,0:03:44.85,Main,Menel,0,0,0,,Iar prietenii rămân împreună.
-Dialogue: 0,0:03:45.19,0:03:47.74,Main,Menel,0,0,0,,Dacă prietenul meu o ia razna, trebuie să-l readuc cu picioarele pe pământ.
+Dialogue: 0,0:03:45.19,0:03:47.74,Main,Menel,0,0,0,,Dacă prietenul meu o ia razna, \Ntrebuie să-l readuc cu picioarele pe pământ.
 Dialogue: 0,0:03:50.07,0:03:51.08,Main,Will,0,0,0,,Menel...
-Dialogue: 0,0:03:51.71,0:03:54.31,Main,Menel,0,0,0,,You don't know much about your own origins,
-Dialogue: 0,0:03:54.31,0:03:56.44,Main,Menel,0,0,0,,and you're clueless about the world.
-Dialogue: 0,0:03:56.44,0:03:58.84,Main,Menel,0,0,0,,There've been times when I \Nthought you seemed suspicious.
-Dialogue: 0,0:03:58.84,0:04:01.53,Main,Menel,0,0,0,,But you're a nice guy.
-Dialogue: 0,0:04:01.88,0:04:05.31,Main,Menel,0,0,0,,I know you're trying to do things right, \Nand doing your best at everything.
-Dialogue: 0,0:04:07.72,0:04:11.57,Main,Menel,0,0,0,,You saved my life, you saved that village...
-Dialogue: 0,0:04:11.95,0:04:15.37,Main,Menel,0,0,0,,We traveled together, we fought together...
-Dialogue: 0,0:04:15.79,0:04:17.89,Main,Menel,0,0,0,,And I enjoyed spending time with you.
-Dialogue: 0,0:04:18.36,0:04:22.26,Main,Menel,0,0,0,,I'm grateful to you from the bottom of my \Nheart for sending off those villagers.
-Dialogue: 0,0:04:22.85,0:04:27.87,Main,Menel,0,0,0,,Will, you are my friend, \Nand I don't abandon my friends.
-Dialogue: 0,0:04:33.96,0:04:36.48,Main,Menel,0,0,0,,Well, you still wanna fight?
-Dialogue: 0,0:04:40.38,0:04:41.82,Main,Will,0,0,0,,I surrender.
-Dialogue: 0,0:04:42.32,0:04:44.86,Main,Menel,0,0,0,,I'm still weaker than you now,
-Dialogue: 0,0:04:45.35,0:04:46.30,Main,Menel,0,0,0,,but just wait.
-Dialogue: 0,0:04:46.93,0:04:48.62,Main,Menel,0,0,0,,I'll catch up before you know it.
+Dialogue: 0,0:03:51.71,0:03:54.31,Main,Menel,0,0,0,,Nu știi multe despre originea ta
+Dialogue: 0,0:03:54.31,0:03:56.44,Main,Menel,0,0,0,,și nu ai nicio idee cum funcționează lumea.
+Dialogue: 0,0:03:56.44,0:03:58.84,Main,Menel,0,0,0,,Au fost moment când te credeam un tip suspicios.
+Dialogue: 0,0:03:58.84,0:04:01.53,Main,Menel,0,0,0,,Dar ești un tip de treabă.
+Dialogue: 0,0:04:01.88,0:04:05.31,Main,Menel,0,0,0,,Știu că încerci să faci lucrurile corect și da-i tot ce poți în toate.
+Dialogue: 0,0:04:07.72,0:04:11.57,Main,Menel,0,0,0,,Mi-ai salvat viața și satul meu...
+Dialogue: 0,0:04:11.95,0:04:15.37,Main,Menel,0,0,0,,Am călătorit împreună, am luptat împreună...
+Dialogue: 0,0:04:15.79,0:04:17.89,Main,Menel,0,0,0,,Și mi-a plăcut să-mi petrec timpul alături de tine.
+Dialogue: 0,0:04:18.36,0:04:22.26,Main,Menel,0,0,0,,Îți sunt recunoscător din adâncul inimii că i-ai ajutat să treacă pe lumea celaltă pe acei săteni.
+Dialogue: 0,0:04:22.85,0:04:27.87,Main,Menel,0,0,0,,Will, ești prietenul meu, iar eu nu-mi abandonez prietenii.
+Dialogue: 0,0:04:33.96,0:04:36.48,Main,Menel,0,0,0,,Deci vrei să ne mai batem?
+Dialogue: 0,0:04:40.38,0:04:41.82,Main,Will,0,0,0,,Renunț.
+Dialogue: 0,0:04:42.32,0:04:44.86,Main,Menel,0,0,0,,Încă sunt mai slab decât tine acum,
+Dialogue: 0,0:04:45.35,0:04:46.30,Main,Menel,0,0,0,,dar așteaptă doar.
+Dialogue: 0,0:04:46.93,0:04:48.62,Main,Menel,0,0,0,,Te voi prinde din urmă înainte să-ți dai seama.
 Dialogue: 0,0:04:49.33,0:04:50.51,Main,Will,0,0,0,,Menel...
-Dialogue: 0,0:04:50.51,0:04:52.99,Main,Menel,0,0,0,,I'll prove to you soon enough
-Dialogue: 0,0:04:52.99,0:04:54.53,Main,Menel,0,0,0,,that you're no monster.
-Dialogue: 0,0:05:01.45,0:05:02.38,Main,Will,0,0,0,,Okay.
-Dialogue: 0,0:05:03.19,0:05:06.05,Main,Will,0,0,0,,I'll wait. I'll be waiting for you.
-Dialogue: 0,0:05:06.58,0:05:09.65,Main,Menel,0,0,0,,Man, you're a real pain in the ass!
-Dialogue: 0,0:05:11.26,0:05:14.53,Main,Will,0,0,0,,Sorry. I kinda lost control of myself.
-Dialogue: 0,0:05:15.48,0:05:17.54,Main,Menel,0,0,0,,Well, it happens—ow!
-Dialogue: 0,0:05:17.54,0:05:18.63,Main,Will,0,0,0,,I'll heal that—
-Dialogue: 0,0:05:18.63,0:05:21.29,Main,Menel,0,0,0,,But a surrender's a surrender.
-Dialogue: 0,0:05:21.29,0:05:22.63,Main,Menel,0,0,0,,That means I win!
-Dialogue: 0,0:05:22.96,0:05:26.61,Main,Will,0,0,0,,I only surrendered because \Nyou wouldn't give it a rest!
-Dialogue: 0,0:05:26.61,0:05:27.58,Main,Menel,0,0,0,,Keep whining!
-Dialogue: 0,0:05:29.66,0:05:30.59,Main,Menel,0,0,0,,Wow...
-Dialogue: 0,0:05:32.13,0:05:36.94,Italics,Will,0,0,0,,And so we kept exchanging \Ndumb jokes and laughter.
-Dialogue: 0,0:05:32.47,0:05:36.25,Main - Top,Menel,0,0,0,,What a pretty sight. The moon's \Ncongratulating me on my victory.
-Dialogue: 0,0:05:36.25,0:05:39.19,Main - Top,Will,0,0,0,,What? Want me to break your other arm?
-Dialogue: 0,0:05:37.90,0:05:40.63,Italics,Will,0,0,0,,It was my first ever argument with a friend,
-Dialogue: 0,0:05:41.08,0:05:43.96,Italics,Will,0,0,0,,and I guess I lost.
-Dialogue: 0,0:05:46.88,0:05:48.85,Main,Adventurer,0,0,0,,Oh, you're back, eh?
-Dialogue: 0,0:05:47.19,0:05:48.35,Main,Adventurer,0,0,0,,Welcome back!
+Dialogue: 0,0:04:50.51,0:04:52.99,Main,Menel,0,0,0,,Îți voi demonstra curând
+Dialogue: 0,0:04:52.99,0:04:54.53,Main,Menel,0,0,0,,că nu ești un monstru.
+Dialogue: 0,0:05:01.45,0:05:02.38,Main,Will,0,0,0,,Bine.
+Dialogue: 0,0:05:03.19,0:05:06.05,Main,Will,0,0,0,,Te voi aștepta. Te voi aștepta s-o faci.
+Dialogue: 0,0:05:06.58,0:05:09.65,Main,Menel,0,0,0,,Vai, chiar ești o adevărată bătaie de cap!
+Dialogue: 0,0:05:11.26,0:05:14.53,Main,Will,0,0,0,,Scuze. Mi-am cam ieșit din minți.
+Dialogue: 0,0:05:15.48,0:05:17.54,Main,Menel,0,0,0,,Ei bine, se mai întâmplă... au!
+Dialogue: 0,0:05:17.54,0:05:18.63,Main,Will,0,0,0,,Te voi vindeca...
+Dialogue: 0,0:05:18.63,0:05:21.29,Main,Menel,0,0,0,,Dar ai spus-o cu gura ta că te-ai dat bătut.
+Dialogue: 0,0:05:21.29,0:05:22.63,Main,Menel,0,0,0,,Asta înseamnă că eu am câștigat!
+Dialogue: 0,0:05:22.96,0:05:26.61,Main,Will,0,0,0,,M-am dat bătut doar pentru că nu voiai să mă lași în pace!
+Dialogue: 0,0:05:26.61,0:05:27.58,Main,Menel,0,0,0,,Continuă să plângi!
+Dialogue: 0,0:05:29.66,0:05:30.59,Main,Menel,0,0,0,,Uau...
+Dialogue: 0,0:05:32.13,0:05:36.94,Italics,Will,0,0,0,,Și astfel, am continuat să glumim și să râdem.
+Dialogue: 0,0:05:32.47,0:05:36.25,Main - Top,Menel,0,0,0,,Ce priveliște frumoasă. Luna mă felicită pentru victoria mea.
+Dialogue: 0,0:05:36.25,0:05:39.19,Main - Top,Will,0,0,0,,Ce? Vrei să-ți rup și cealaltă mână?
+Dialogue: 0,0:05:37.90,0:05:40.63,Italics,Will,0,0,0,,A fost prima mea ceartă cu un prieten,
+Dialogue: 0,0:05:41.08,0:05:43.96,Italics,Will,0,0,0,,unde se pare că am pierdut.
+Dialogue: 0,0:05:46.88,0:05:48.85,Main,Adventurer,0,0,0,,Oh, v-ați întors, nu?
+Dialogue: 0,0:05:47.19,0:05:48.35,Main,Adventurer,0,0,0,,{\an8}Bine ați revenit!
 Dialogue: 0,0:05:49.56,0:05:51.49,Main,Bee,0,0,0,,Will! Menel!
-Dialogue: 0,0:05:51.49,0:05:53.07,Main,Adventurer,0,0,0,,Welcome back!
-Dialogue: 0,0:05:51.79,0:05:54.79,Main,Bee,0,0,0,,You jerks! You had me worried!
-Dialogue: 0,0:05:55.38,0:05:57.08,Main,Will,0,0,0,,Sorry, Bee.
+Dialogue: 0,0:05:51.49,0:05:53.07,Main,Adventurer,0,0,0,,{\an8}Bine ați revenit!
+Dialogue: 0,0:05:51.79,0:05:54.79,Main,Bee,0,0,0,,Proștilor! Mi-am făcut griji pentru voi!
+Dialogue: 0,0:05:55.38,0:05:57.08,Main,Will,0,0,0,,Scuze, Bee.
 Dialogue: 0,0:05:57.52,0:05:58.51,Main,Tonio,0,0,0,,Will...
-Dialogue: 0,0:05:58.86,0:06:02.70,Main,Tonio,0,0,0,,If you don't mind, would you \Nplease tell me what happened?
-Dialogue: 0,0:06:07.13,0:06:08.00,Main,Will,0,0,0,,Sure.
-Dialogue: 0,0:06:14.17,0:06:16.01,Main,Reystov,0,0,0,,That's an illness of the strong.
-Dialogue: 0,0:06:16.43,0:06:19.68,Main,Reystov,0,0,0,,The stronger you are, \Nthe harder it hits you.
-Dialogue: 0,0:06:19.68,0:06:22.90,Main,Reystov,0,0,0,,Depending on the case, it can even kill you.
-Dialogue: 0,0:06:22.90,0:06:26.47,Main,Will,0,0,0,,I'm really sorry for \Nmaking all of you worry.
-Dialogue: 0,0:06:27.52,0:06:29.96,Main,Will,0,0,0,,But I'm all right now.
+Dialogue: 0,0:05:58.86,0:06:02.70,Main,Tonio,0,0,0,,Dacă nu te deranjează, ai vrea să-mi spui ce s-a întâmplat?
+Dialogue: 0,0:06:07.13,0:06:08.00,Main,Will,0,0,0,,Desigur.
+Dialogue: 0,0:06:14.17,0:06:16.01,Main,Reystov,0,0,0,,Asta e boala celui puternic.
+Dialogue: 0,0:06:16.43,0:06:19.68,Main,Reystov,0,0,0,,Cu cât ești mai puternic, \Ncu atât te lovește mai tare.
+Dialogue: 0,0:06:19.68,0:06:22.90,Main,Reystov,0,0,0,,În funcție de caz, \Nchiar te poate ucide.
+Dialogue: 0,0:06:22.90,0:06:26.47,Main,Will,0,0,0,,Chiar îmi pare rău că \Nv-am făcut griji tuturor.
+Dialogue: 0,0:06:27.52,0:06:29.96,Main,Will,0,0,0,,Dar sunt bine acum.
 Dialogue: 0,0:06:36.90,0:06:38.99,Main,AdventurerA,0,0,0,,You were just stuck in bed not long ago,
 Dialogue: 0,0:06:38.99,0:06:40.62,Main,AdventurerA,0,0,0,,and you were off slugging it out?
 Dialogue: 0,0:06:40.62,0:06:42.66,Main,AdventurerC,0,0,0,,We even set a trap for a surprise attack.
 Dialogue: 0,0:06:42.66,0:06:44.49,Main,AdventurerC,0,0,0,,That chimera's got no chance!
 Dialogue: 0,0:06:45.37,0:06:46.66,Main,Adventurer,0,0,0,,You said it!
-Dialogue: 0,0:06:47.24,0:06:49.65,Main,Menel,0,0,0,,I've got a debt to repay to that bastard.
-Dialogue: 0,0:06:49.97,0:06:51.62,Main,Menel,0,0,0,,I won't be humiliated like that again.
+Dialogue: 0,0:06:47.24,0:06:49.65,Main,Menel,0,0,0,,Îi sunt dator acelui nemernic.
+Dialogue: 0,0:06:49.97,0:06:51.62,Main,Menel,0,0,0,,Nu mă va mai umili din nou.
 Dialogue: 0,0:06:52.73,0:06:55.21,Main,Reystov,0,0,0,,You're gonna fight that thing again?
 Dialogue: 0,0:06:55.21,0:06:57.86,Main,Will,0,0,0,,Yeah. We're going for a return match.
-Dialogue: 0,0:06:57.86,0:07:00.03,Main,Menel,0,0,0,,I refuse to just get beat \Nup and leave it at that.
-Dialogue: 0,0:07:00.03,0:07:03.15,Main,Menel,0,0,0,,I'll split all three of that \Ndemon beast's heads open.
-Dialogue: 0,0:07:07.02,0:07:09.41,Main,Will,0,0,0,,Chimeras don't occur naturally.
-Dialogue: 0,0:07:09.41,0:07:12.78,Main,Will,0,0,0,,That thing is, without a doubt, \Nthe product of a demonic ritual.
+Dialogue: 0,0:06:57.86,0:07:00.03,Main,Menel,0,0,0,,Refuz să-mi iau bătaie și să las lucrurile așa.
+Dialogue: 0,0:07:00.03,0:07:03.15,Main,Menel,0,0,0,,Îi voi sparge toate cele trei capete ale acelei bestii demonice.
+Dialogue: 0,0:07:07.02,0:07:09.41,Main,Will,0,0,0,,Himerele nu apar în mod natural.
+Dialogue: 0,0:07:09.41,0:07:12.78,Main,Will,0,0,0,,Chestia aia este, fără îndoială, apărută în urma unui ritual demonic.
 Dialogue: 0,0:07:12.78,0:07:15.54,Main,Will,0,0,0,,Let's take all of them out at once, \Nbefore they can escape.
 Dialogue: 0,0:07:16.06,0:07:18.97,Main,AdventurerD,0,0,0,,So soon after it roughed us up that bad?
-Dialogue: 0,0:07:18.97,0:07:20.76,Main,AdventurerA,0,0,0,,I can't just give up and leave it like this.
-Dialogue: 0,0:07:20.76,0:07:22.03,Main,AdventurerA,0,0,0,,Let's bust 'em up good!
+Dialogue: 0,0:07:18.97,0:07:20.76,Main,AdventurerA,0,0,0,,Nu pot renunța și să las lucrurile așa.
+Dialogue: 0,0:07:20.76,0:07:22.03,Main,AdventurerA,0,0,0,,Să le tăbăcim fundurile!
 Dialogue: 0,0:07:22.03,0:07:24.81,Main,AdventurerD,0,0,0,,All right, guess we should \Nround up some help, huh?
-Dialogue: 0,0:07:24.81,0:07:28.03,Main,AdventurerA,0,0,0,,It's gonna be a good, fun, \Nstupid-as-hell adventure!
-Dialogue: 0,0:07:28.03,0:07:30.21,Main,Will,0,0,0,,You'll get one silver coin \Nfor a demon beast's head,
-Dialogue: 0,0:07:30.75,0:07:33.17,Main,Will,0,0,0,,and ten gold coins for the demon boss's!
+Dialogue: 0,0:07:24.81,0:07:28.03,Main,AdventurerA,0,0,0,,Va fi o aventură al naibii de distractivă!
+Dialogue: 0,0:07:28.03,0:07:30.21,Main,Will,0,0,0,,Veți primi o monedă de argint pentru fiecare bestie demonică doborâtă
+Dialogue: 0,0:07:30.75,0:07:33.17,Main,Will,0,0,0,,și zece monede de argint pentru liderul lor!
 Dialogue: 0,0:07:48.69,0:07:51.96,Italics,Will,0,0,0,,After that, we spent a few days \Ngetting a force together,
 Dialogue: 0,0:07:51.96,0:07:54.79,Italics,Will,0,0,0,,sent out several rounds of scouts, \Nand made our preparations.
 Dialogue: 0,0:07:55.26,0:07:57.18,Italics,Will,0,0,0,,We didn't arrange any special tricks.
@@ -183,53 +190,53 @@ Dialogue: 0,0:09:02.75,0:09:05.43,Main,AdventurerA,0,0,0,,By Volt's blade of lig
 Dialogue: 0,0:09:05.43,0:09:08.14,Main,AdventurerF,0,0,0,,Burn bright, Blaze's flames of courage!
 Dialogue: 0,0:09:10.03,0:09:12.40,Main,AdventurerG,0,0,0,,Whirl, send us a tailwind of good fortune!
 Dialogue: 0,0:09:12.40,0:09:14.35,Main,AdventurerB,0,0,0,,Grant us the divine protection \Nof all the virtuous gods!
-Dialogue: 0,0:09:18.59,0:09:19.55,Main,Menel,0,0,0,,Shoot!
+Dialogue: 0,0:09:18.59,0:09:19.55,Main,Menel,0,0,0,,Foc!
 Dialogue: 0,0:09:20.78,0:09:22.51,Main - Top,Sorcerer,0,0,0,,Sagitta Flammeum!
-Dialogue: 0,0:09:20.91,0:09:22.29,Words,Text,0,0,0,,{\blur1}Flame Arrow
-Dialogue: 0,0:09:28.03,0:09:29.17,Italics,Will,0,0,0,,It's war!
+Dialogue: 0,0:09:20.91,0:09:22.29,Words,Text,0,0,0,,{\blur3}Săgeata de foc
+Dialogue: 0,0:09:28.03,0:09:29.17,Italics,Will,0,0,0,,E război!
 Dialogue: 0,0:09:32.42,0:09:33.24,Main,Will,0,0,0,,Stand ready!
 Dialogue: 0,0:09:35.30,0:09:39.80,Main,Will,0,0,0,,Goddess of flux, repel the \Npoisons that rain down upon us!
 Dialogue: 0,0:09:40.12,0:09:40.88,Main - Top,Will,0,0,0,,Fortis...
-Dialogue: 0,0:09:40.22,0:09:40.85,Words,Text,0,0,0,,{\blur1}Strong
+Dialogue: 0,0:09:40.22,0:09:40.85,Words,Text,0,0,0,,{\blur3}Strong
 Dialogue: 0,0:09:40.88,0:09:41.80,Main - Top,Will,0,0,0,,Vita!
-Dialogue: 0,0:09:40.97,0:09:41.60,Words,Text,0,0,0,,{\blur1}Life
-Dialogue: 0,0:10:07.27,0:10:09.65,Italics,Will,0,0,0,,How could I say I'd fix all this alone?
-Dialogue: 0,0:10:09.65,0:10:12.84,Italics,Will,0,0,0,,I was never any more than \None factor in this battle.
+Dialogue: 0,0:09:40.97,0:09:41.60,Words,Text,0,0,0,,{\blur3}Life
+Dialogue: 0,0:10:07.27,0:10:09.65,Italics,Will,0,0,0,,Cum am putut spune că voi repara totul singur?
+Dialogue: 0,0:10:09.65,0:10:12.84,Italics,Will,0,0,0,,Nu am fost niciodată mai mult decât un micuț factor în această luptă.
 Dialogue: 0,0:10:12.84,0:10:14.85,Italics,Will,0,0,0,,The battlefield isn't so easy
 Dialogue: 0,0:10:14.85,0:10:17.46,Italics,Will,0,0,0,,that just one dose of penetrating \Nstrength is enough!
 Dialogue: 0,0:10:19.61,0:10:22.47,Main,Will,0,0,0,,By the flame of Gracefeel!
-Dialogue: 0,0:10:27.27,0:10:28.73,Main,Ethelbald,0,0,0,,According to reports,
+Dialogue: 0,0:10:27.27,0:10:28.73,Main,Ethelbald,0,0,0,,Potrivit rapoartelor,
 Dialogue: 0,0:10:28.73,0:10:32.64,Main,Ethelbald,0,0,0,,the campaign to eliminate the demon \Nbeasts should be starting by now.
 Dialogue: 0,0:10:33.16,0:10:36.77,Main,Ethelbald,0,0,0,,I wonder, will these great Wyvern Killers
 Dialogue: 0,0:10:36.77,0:10:40.61,Main,Ethelbald,0,0,0,,succeed in a new heroic feat \Nfor the bards to sing about?
-Dialogue: 0,0:10:40.86,0:10:41.74,Main,Bagley,0,0,0,,Hmph.
+Dialogue: 0,0:10:40.86,0:10:41.74,Main,Bagley,0,0,0,,Hmpf.
 Dialogue: 0,0:10:41.74,0:10:46.56,Main,Bagley,0,0,0,,The temple has bent over backwards \Nto facilitate that novice boy.
 Dialogue: 0,0:10:46.56,0:10:49.24,Main,Bagley,0,0,0,,If he fails to succeed in this,
 Dialogue: 0,0:10:49.24,0:10:51.53,Main,Bagley,0,0,0,,he will not be worthy of our backing.
-Dialogue: 0,0:10:51.53,0:10:53.58,Main,Ethelbald,0,0,0,,By the way, Bishop,
-Dialogue: 0,0:10:53.58,0:10:55.77,Main,Ethelbald,0,0,0,,I hear you entrusted your daughter, Anna,
-Dialogue: 0,0:10:55.77,0:10:59.95,Main,Ethelbald,0,0,0,,and many other brilliant \Npriests to the paladin.
+Dialogue: 0,0:10:51.53,0:10:53.58,Main,Ethelbald,0,0,0,,Apropo, domnule episcop,
+Dialogue: 0,0:10:53.58,0:10:55.77,Main,Ethelbald,0,0,0,,am auzit că ți-ai încredințat fata, pe Anna,
+Dialogue: 0,0:10:55.77,0:10:59.95,Main,Ethelbald,0,0,0,,și mulți alți preoți nemaipomeniți acelui paladin.
 Dialogue: 0,0:10:59.95,0:11:04.08,Main,Bagley,0,0,0,,Losing valuable talent to the philanthropic \Nexploits of such a novice
 Dialogue: 0,0:11:04.08,0:11:06.27,Main,Bagley,0,0,0,,has caused nothing but trouble for me!
-Dialogue: 0,0:11:11.22,0:11:12.40,Main,Menel,0,0,0,,What's this?
-Dialogue: 0,0:11:12.40,0:11:14.93,Main,Will,0,0,0,,The abandoned remains of a monastery?
-Dialogue: 0,0:11:15.29,0:11:18.00,Main,Will,0,0,0,,Looks like we're the first ones here.
-Dialogue: 0,0:11:18.00,0:11:20.64,Main,Menel,0,0,0,,Be careful. There might be traps.
+Dialogue: 0,0:11:11.22,0:11:12.40,Main,Menel,0,0,0,,Ce e asta?
+Dialogue: 0,0:11:12.40,0:11:14.93,Main,Will,0,0,0,,Ruinele unei mânăstiri abandonate?
+Dialogue: 0,0:11:15.29,0:11:18.00,Main,Will,0,0,0,,Se pare că am ajuns primii aici.
+Dialogue: 0,0:11:18.00,0:11:20.64,Main,Menel,0,0,0,,Ai grijă. Ar putea fi capcane.
 Dialogue: 0,0:11:34.15,0:11:35.01,Main - Top,Will,0,0,0,,Omnia...
-Dialogue: 0,0:11:34.29,0:11:34.84,Words,Text,0,0,0,,{\blur1}Everything
+Dialogue: 0,0:11:34.29,0:11:34.84,Words,Text,0,0,0,,{\blur3}Totul
 Dialogue: 0,0:11:35.01,0:11:35.99,Main - Top,Will,0,0,0,,Vanitas.
-Dialogue: 0,0:11:35.09,0:11:35.84,Words,Text,0,0,0,,{\blur1}In Vain
+Dialogue: 0,0:11:35.09,0:11:35.84,Words,Text,0,0,0,,{\blur3}e în zadar
 Dialogue: 0,0:11:35.99,0:11:37.28,Main - Top,Will,0,0,0,,Erasus.
-Dialogue: 0,0:11:36.13,0:11:37.09,Words,Text,0,0,0,,{\blur1}Erasure
-Dialogue: 0,0:11:43.75,0:11:44.90,Main,Will,0,0,0,,Hi there.
-Dialogue: 0,0:11:44.90,0:11:47.19,Main,Menel,0,0,0,,It was waiting in ambush with Invisibility?
-Dialogue: 0,0:11:47.19,0:11:50.74,Main,Menel,0,0,0,,Careful, Will. \NThis thing's pretty damn smart.
-Dialogue: 0,0:11:50.74,0:11:54.20,Main,Will,0,0,0,,Do you think maybe it's \Ngot some demon in it?
-Dialogue: 0,0:11:57.29,0:11:59.66,Main,Will,0,0,0,,Are you after the High King?
+Dialogue: 0,0:11:36.13,0:11:37.09,Words,Text,0,0,0,,{\blur3}Ștergere
+Dialogue: 0,0:11:43.75,0:11:44.90,Main,Will,0,0,0,,Salut.
+Dialogue: 0,0:11:44.90,0:11:47.19,Main,Menel,0,0,0,,Era camuflată și aștepta să ne atace, nu?
+Dialogue: 0,0:11:47.19,0:11:50.74,Main,Menel,0,0,0,,Ai grijă, Will. Chestia asta e destul de deșteaptă.
+Dialogue: 0,0:11:50.74,0:11:54.20,Main,Will,0,0,0,,Poate chiar are un demon înăuntrul ei, nu?
+Dialogue: 0,0:11:57.29,0:11:59.66,Main,Will,0,0,0,,Obiectivul tău e Marele Rege?
 Dialogue: 0,0:11:59.85,0:12:01.14,Main,Chimera,0,0,0,,Oh?
-Dialogue: 0,0:12:01.14,0:12:03.61,Main,Chimera,0,0,0,,You know the High King's seal.
-Dialogue: 0,0:12:03.61,0:12:07.00,Main,Chimera,0,0,0,,Are you a warrior sent by one of the gods?
-Dialogue: 0,0:12:07.00,0:12:09.89,Italics,Will,0,0,0,,That answer... I'm certain now.
+Dialogue: 0,0:12:01.14,0:12:03.61,Main,Chimera,0,0,0,,Știi despre sigiuliul Marelui Rege.
+Dialogue: 0,0:12:03.61,0:12:07.00,Main,Chimera,0,0,0,,Ești cumva un războinic trimis de unul dintre zei?
+Dialogue: 0,0:12:07.00,0:12:09.89,Italics,Will,0,0,0,,Acest răspuns... Sunt sigur acum.
 Dialogue: 0,0:12:11.90,0:12:15.05,Italics,Will,0,0,0,,Basically, this is like taking \Na square on a chess board.
 Dialogue: 0,0:12:15.40,0:12:17.86,Italics,Will,0,0,0,,The city of the dead, where \Nthe High King was sealed,
 Dialogue: 0,0:12:17.86,0:12:20.65,Italics,Will,0,0,0,,isn't yet under either side's control.
@@ -247,19 +254,19 @@ Dialogue: 0,0:12:52.93,0:12:55.62,Italics,Will,0,0,0,,They can't let them think 
 Dialogue: 0,0:12:57.39,0:12:59.40,Italics,Will,0,0,0,,If you consider the existence of their king,
 Dialogue: 0,0:12:59.40,0:13:02.96,Italics,Will,0,0,0,,it's incredibly easy to figure \Nout what their objective is.
 Dialogue: 0,0:13:04.80,0:13:08.94,Main,Will,0,0,0,,In the name of the goddess of flux, \NI will destroy all of you.
-Dialogue: 0,0:13:09.45,0:13:12.37,Main,Chimera,0,0,0,,Oh? But wait.
+Dialogue: 0,0:13:09.45,0:13:12.37,Main,Chimera,0,0,0,,Oh? Dar stai.
 Dialogue: 0,0:13:12.37,0:13:16.66,Main,Chimera,0,0,0,,There seems to be some sort of mistake, \Nor perhaps a misunderstanding.
 Dialogue: 0,0:13:16.94,0:13:19.09,Main,Will,0,0,0,,A misunderstanding, you say?
-Dialogue: 0,0:13:19.52,0:13:20.45,Main,Chimera,0,0,0,,Yes.
+Dialogue: 0,0:13:19.52,0:13:20.45,Main,Chimera,0,0,0,,Da.
 Dialogue: 0,0:13:21.19,0:13:23.10,Main,Chimera,0,0,0,,In truth...
 Dialogue: 0,0:13:31.77,0:13:35.74,Main,Will,0,0,0,,Demons like to stick to the classics \Nin their surprise attacks, don't they?
 Dialogue: 0,0:13:38.24,0:13:39.01,Main,Will,0,0,0,,Menel!
 Dialogue: 0,0:13:39.01,0:13:39.85,Main,Menel,0,0,0,,Yep!
 Dialogue: 0,0:13:40.33,0:13:42.08,Main - Top,Chimera,0,0,0,,Sagitta Flammeum!
-Dialogue: 0,0:13:40.46,0:13:41.96,Words,Text,0,0,0,,{\blur1}Flame Arrow
+Dialogue: 0,0:13:40.46,0:13:41.96,Words,Text,0,0,0,,{\blur3}Săgeata de foc
 Dialogue: 0,0:13:42.39,0:13:43.74,Main,Menel,0,0,0,,I'm not takin' that hit!
 Dialogue: 0,0:13:43.74,0:13:45.88,Main,Menel,0,0,0,,Sylphs, sylphs, maidens of wind!
-Dialogue: 0,0:13:48.10,0:13:50.64,Main,Will,0,0,0,,Gracefeel, grant us your protection!
+Dialogue: 0,0:13:48.10,0:13:50.64,Main,Will,0,0,0,,Gracefeel, oferă-ne protecția ta divină!
 Dialogue: 0,0:13:52.89,0:13:54.26,Italics,Will,0,0,0,,Don't stop it!
 Dialogue: 0,0:13:54.26,0:13:55.13,Italics,Will,0,0,0,,Divert it!
 Dialogue: 0,0:13:58.13,0:14:00.16,Main,Menel,0,0,0,,Gnomes, O gnomes, slip underfoot!
@@ -291,7 +298,7 @@ Dialogue: 0,0:15:42.91,0:15:45.16,Main,Menel,0,0,0,,Use them to strike the enemy
 Dialogue: 0,0:15:51.77,0:15:53.81,Italics,Will,0,0,0,,There's nowhere to run to the left or right!
 Dialogue: 0,0:15:53.81,0:15:54.63,Italics,Will,0,0,0,,Then...
 Dialogue: 0,0:15:55.23,0:15:56.65,Main - Top,Will,0,0,0,,Acceleratio!
-Dialogue: 0,0:15:55.35,0:15:56.43,Words,Text,0,0,0,,{\blur1}Accelerate
+Dialogue: 0,0:15:55.35,0:15:56.43,Words,Text,0,0,0,,{\blur3}Accelerare
 Dialogue: 0,0:16:01.76,0:16:03.68,Main,Menel,0,0,0,,Gnomes, O gnomes, slip underfoot!
 Dialogue: 0,0:16:03.68,0:16:05.64,Main,Menel,0,0,0,,Tighten, bind, and tie it down!
 Dialogue: 0,0:16:20.74,0:16:21.54,Main,Will,0,0,0,,We won!
@@ -404,14 +411,14 @@ Dialogue: 0,0:22:38.67,0:22:40.06,Main,Menel,0,0,0,,Te voi ajuta.
 Dialogue: 0,0:22:40.33,0:22:43.26,Main,Will,0,0,0,,Mai întâi, trebuie să aflăm ce plănuiesc demonii...
 Dialogue: 0,0:22:43.26,0:22:44.18,Main,Menel,0,0,0,,Cui îi pasă?
 Dialogue: 0,0:22:44.18,0:22:46.80,Main,Menel,0,0,0,,Just grab the bastards and crush 'em \Nas soon as you find 'em!
-Dialogue: 0,0:22:46.80,0:22:48.16,Main,Will,0,0,0,,That's so violent...
+Dialogue: 0,0:22:46.80,0:22:48.16,Main,Will,0,0,0,,Cât de violent...
 Dialogue: 0,0:22:48.16,0:22:51.66,Main,Bee,0,0,0,,Hei! Will! Menel!
-Dialogue: 0,0:22:51.88,0:22:56.22,Main,Bee,0,0,0,,Nu vă mai ascundeți în micuța voastră lume și veniți aici!
-Dialogue: 0,0:22:58.35,0:23:02.03,Italics,Will,0,0,0,,If more people come in and \Neverything goes well,
-Dialogue: 0,0:23:04.21,0:23:07.32,Italics,Will,0,0,0,,maybe we'll be able to return to that city.
-Dialogue: 0,0:23:09.28,0:23:10.92,Italics,Will,0,0,0,,Maybe we can make the city of the dead
-Dialogue: 0,0:23:11.38,0:23:15.84,Italics,Will,0,0,0,,a regular city where living \Npeople can laugh together.
-Dialogue: 0,0:23:19.18,0:23:23.19,Italics,Will,0,0,0,,Up on the hill where \NMary and Blood's graves are,
-Dialogue: 0,0:23:23.19,0:23:25.38,Italics,Will,0,0,0,,the laughter of children will resound,
-Dialogue: 0,0:23:25.38,0:23:28.15,Italics,Will,0,0,0,,and the sounds of people working \Nto make a living will return.
-Dialogue: 0,0:23:32.22,0:23:36.65,Italics,Will,0,0,0,,Somehow, that seemed like \Nsuch a wonderful thing to me.
+Dialogue: 0,0:22:51.88,0:22:56.22,Main,Bee,0,0,0,,Nu vă mai ascundeți în micuța \Nvoastră lume și veniți aici!
+Dialogue: 0,0:22:58.35,0:23:02.03,Italics,Will,0,0,0,,Dacă ni se vor alătura mai mulți oameni și totul va merge bine,
+Dialogue: 0,0:23:04.21,0:23:07.32,Italics,Will,0,0,0,,poate chiar vom reuși să \Nne întoarcem în acel oraș.
+Dialogue: 0,0:23:09.28,0:23:10.92,Italics,Will,0,0,0,,Poate vom putea \Ntransforma orașul morților vii
+Dialogue: 0,0:23:11.38,0:23:15.84,Italics,Will,0,0,0,,într-un oraș obișnuit unde \Noamenii să poată trăi.
+Dialogue: 0,0:23:19.18,0:23:23.19,Italics,Will,0,0,0,,Sus pe dealul unde sunt \Nmormintele lui Mary și Blood,
+Dialogue: 0,0:23:23.19,0:23:25.38,Italics,Will,0,0,0,,să răsune râsetele copiiilor
+Dialogue: 0,0:23:25.38,0:23:28.15,Italics,Will,0,0,0,,și ale oamenilor care muncesc \Npentru a-și face un trai.
+Dialogue: 0,0:23:32.22,0:23:36.65,Italics,Will,0,0,0,,Cumva, văd acest lucru ca pe unul minunat.

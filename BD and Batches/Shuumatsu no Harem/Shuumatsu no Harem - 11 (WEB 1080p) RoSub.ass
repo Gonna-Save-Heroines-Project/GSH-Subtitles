@@ -9,400 +9,994 @@ Synch Point:
 Script Updated By: 
 Update Details: 
 ScriptType: v4.00+
-PlayResX: 640
-PlayResY: 360
+PlayResX: 1920
+PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Scroll Position: 69
-Active Line: 77
+Last Style Storage: Default
+Audio File: ../../../../Anime/Shuumatsu no Harem/Shuumatsu no Harem - 11 (WEBRip 1920x1080 x264 AAC Rus + Jap Uncensored)_DAD.mkv
+Video File: ../../../../Anime/Shuumatsu no Harem/Shuumatsu no Harem - 11 (WEBRip 1920x1080 x264 AAC Rus + Jap Uncensored)_DAD.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 418
+Active Line: 427
+Video Position: 12070
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Roboto Medium,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
-Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
-Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
-Style: sign_1042_4_2040_Tokyo,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&HC8000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,65,1
-Style: Episode_Number,Times New Roman,18,&H00FFFFFF,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,110,110,0,0,1,1,0,2,470,94,210,1
-Style: Episode_Title,Times New Roman,28,&H00FFFFFF,&H00FFFFFF,&HC8000000,&H00000000,-1,0,0,0,100,140,0,0,1,1,0,2,411,35,170,1
-Style: Next_Ep_Number,Times New Roman,22,&H00FFFFFF,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,110,110,0,0,1,1,0,2,10,10,296,1
-Style: Next_Ep_Title,Times New Roman,34,&H00FFFFFF,&H00FFFFFF,&HC8000000,&H00000000,-1,0,0,0,100,140,0,0,1,1,0,2,10,10,45,1
-Style: sign_5356_65_Doi_Shouta,Trebuchet MS,24,&H00343841,&H000000FF,&H009CA3AA,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,8,268,268,148,1
+Style: Dialogue,Aller Loose,78,&H00FFFFFF,&H000000FF,&H00440554,&HB4000000,-1,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,1
+Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Ep Title,Ryumin ExtraHeavy,140,&H00EFECF6,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,100,0,0,1,0,0,5,10,10,10,1
+Style: Next Ep,Ryumin ExtraHeavy,200,&H00EEECF7,&H000000FF,&H00000000,&H00000000,0,0,0,0,90,100,0,0,1,0,0,8,10,10,10,1
+Style: OP TL,Noto Sans,78,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,50,50,20,1
+Style: ED TL,MADE Mirage,74,&H00EEEBF5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,3,0,8,50,50,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.93,0:00:03.98,Flashback,Gu,0,0,0,,Nu credeam că mă voi mai întoarce într-una din astea.
-Dialogue: 0,0:00:03.98,0:00:07.48,Flashback,Gi,0,0,0,,Nu-ți face griji. De data asta nu va mai dura cinci ani!
-Dialogue: 0,0:00:07.84,0:00:11.72,Flashback,Gu,0,0,0,,Is it okay to shorten the \Namount of time I'm young? {this is clearly wrong}
-Dialogue: 0,0:00:11.72,0:00:14.68,Flashback,Gi,0,0,0,,Tehnologia anti-îmbătrânire a evoluat mult.
-Dialogue: 0,0:00:14.68,0:00:18.89,Flashback,Gi,0,0,0,,You'll be able to maintain \Nyour youth for 30 years!
-Dialogue: 0,0:00:18.89,0:00:20.03,Flashback,Gu,0,0,0,,Bine.
-Dialogue: 0,0:00:20.48,0:00:21.50,Flashback,Gu,0,0,0,,Începe.
-Dialogue: 0,0:00:21.86,0:00:24.35,Flashback,Gi,0,0,0,,Switch... on!
-Dialogue: 0,0:00:38.87,0:00:42.32,Flashback,Gi,0,0,0,,Ești la pubertate, deci te-ai înălțat ceva!
-Dialogue: 0,0:00:42.32,0:00:47.23,Flashback,Gi,0,0,0,,Ți-am făcut și o operație pe retină, deci nu vei mai avea nevoie de ochelari.
-Dialogue: 0,0:00:47.23,0:00:48.97,Flashback,Gu,0,0,0,,Asta e motivul?
-Dialogue: 0,0:00:48.97,0:00:51.53,Flashback,Gu,0,0,0,,Chiar mă întrebam de ce văd mai bine.
-Dialogue: 0,0:00:56.80,0:00:59.53,Flashback,Gi,0,0,0,,Acum, să mergem acolo și să ne pregătim!
-Dialogue: 0,0:01:02.08,0:01:04.96,Flashback,Gi,0,0,0,,Exact cum credeam! Arăți grozav!
-Dialogue: 0,0:01:05.37,0:01:07.46,Flashback,Gu,0,0,0,,Mă simt ca o persoană diferită.
-Dialogue: 0,0:01:07.46,0:01:10.48,Flashback,Gi,0,0,0,,Tocmai a luat naștere Neo Shouta!
-Dialogue: 0,0:01:24.30,0:01:26.73,Italics,Gu,0,0,0,,Deci acesta e Numărul 3...
-Dialogue: 0,0:01:26.73,0:01:28.52,Italics,,0,0,0,,Doi Shouta...
-Dialogue: 0,0:01:28.98,0:01:32.98,Main,Gi,0,0,0,,E-E împotriva regulilor să intri în camera altui Număr fără permisiune!
-Dialogue: 0,0:01:34.03,0:01:39.51,Main,Gi,0,0,0,,Scuze! Era un terorist la TV spunând chestii înfricoșătoare,
-Dialogue: 0,0:01:39.51,0:01:42.24,Main,,0,0,0,,deci noi căutam un loc unde să fim în siguranță!
-Dialogue: 0,0:01:42.69,0:01:44.62,Main,Gu,0,0,0,,Doi, unde ai fost în tot acest timp?
-Dialogue: 0,0:01:44.62,0:01:47.25,Main,Gu,0,0,0,,Într-un loc numit orașul Keimon.
-Dialogue: 0,0:01:47.50,0:01:50.50,Main,Gu,0,0,0,,A avut loc un atac terorist acolo, deci am fost evacuați aici.
-Dialogue: 0,0:01:50.92,0:01:53.32,Main,Gu,0,0,0,,Dar se pare că nici acest loc nu e cu mult mai sigur.
-Dialogue: 0,0:01:53.32,0:01:56.01,Main,Gi,0,0,0,,Aș vrea să te întreb ceva.
-Dialogue: 0,0:01:56.28,0:01:57.76,Main,Gu,0,0,0,,P-Pe mine?
-Dialogue: 0,0:01:57.76,0:02:00.76,Main,Gu,0,0,0,,Ce fel de persoană e această Mans nu știu cum?
-Dialogue: 0,0:02:01.08,0:02:02.42,Main,Gu,0,0,0,,Chloe?
-Dialogue: 0,0:02:03.13,0:02:07.19,Main,Gu,0,0,0,,E greu de spus ce gândește.
-Dialogue: 0,0:02:07.19,0:02:10.52,Main,Gu,0,0,0,,Ea și restul OF au spus că
-Dialogue: 0,0:02:10.52,0:02:15.48,Main,,0,0,0,,the ones behind that airwaves hijack, \NIzanami, are evil. Terrorists.
-Dialogue: 0,0:02:16.12,0:02:23.53,Main,Gu,0,0,0,,Chloe mi-a salvat viața, dar nu știu care dintre ei are dreptate încă.
-Dialogue: 0,0:02:23.82,0:02:25.44,Main,Gi,0,0,0,,Înțeleg.
-Dialogue: 0,0:02:25.44,0:02:27.24,Main,Gi,0,0,0,,Mersi!
-Dialogue: 0,0:02:27.24,0:02:29.67,Main,Gi,0,0,0,,Oh, tu ești Kuroda Maria, nu?
-Dialogue: 0,0:02:29.67,0:02:31.17,Main,Gi,0,0,0,,D-Da!
-Dialogue: 0,0:02:35.80,0:02:36.42,Main,Gi,0,0,0,,Cine-i acolo?
-Dialogue: 0,0:02:36.67,0:02:37.97,Main,Gi,0,0,0,,Soră mai mare!
-Dialogue: 0,0:02:37.97,0:02:39.68,Main,Gi,0,0,0,,C-Chifuyu!
-Dialogue: 0,0:02:39.92,0:02:43.18,Main,Gi,0,0,0,,S-Sunt așa de fericită că ești în s-siguranță...
-Dialogue: 0,0:02:43.40,0:02:46.20,Main,Gi,0,0,0,,Deci aceea e sora lui Chifuyun, nu?
-Dialogue: 0,0:02:44.42,0:02:47.26,Main - Top,Background,0,0,0,,Mi-am făcut atât de multe griji pentru tine...
-Dialogue: 0,0:02:46.20,0:02:49.15,Main,Gi,0,0,0,,Chifuyu, mă bucur că ați reușit să vă întâlniți aici!
-Dialogue: 0,0:02:47.26,0:02:50.94,Main - Top,Background,0,0,0,,Sunt mereu bine!
-Dialogue: 0,0:02:49.15,0:02:53.49,Main,Gi,0,0,0,,Dar de ce e îmbrăcată cu acele haine?
-Dialogue: 0,0:02:50.94,0:02:53.49,Main - Top,Background,0,0,0,,Mi-am făcut griji pentru tine!
-Dialogue: 0,0:02:55.51,0:02:56.94,Main,Gi,0,0,0,,Mai întâi atacul terorist
-Dialogue: 0,0:02:57.31,0:03:02.63,Main,,0,0,0,,și apoi aflăm că mai există încă patru bărbați rezistenți la virus, pe lângă Shouta.
-Dialogue: 0,0:03:02.63,0:03:05.08,Main,Gi,0,0,0,,Au fost niște zile nebune.
-Dialogue: 0,0:03:05.08,0:03:08.48,Main,Gi,0,0,0,,Creierul meu nu reușește să țină pasul!
-Dialogue: 0,0:03:08.48,0:03:12.84,Main,Gi,0,0,0,,O, așa e. Vă mulțumesc că ați a-avut grijă de sora mea mai mică!
-Dialogue: 0,0:03:12.84,0:03:14.34,Main,Gi,0,0,0,,Nu, ei bine...
-Dialogue: 0,0:03:14.65,0:03:17.53,Main,Gi,0,0,0,,Eu sunt cea care are grijă de ele!
-Dialogue: 0,0:03:17.53,0:03:20.34,Main,Gi,0,0,0,,Nu trebuie să te pleci în fața lor!
-Dialogue: 0,0:03:20.34,0:03:24.72,Main,Gi,0,0,0,,Ți-am tot spus să nu te mai porți așa!
-Dialogue: 0,0:03:24.72,0:03:26.67,Main,Gi,0,0,0,,Vai, Doamne...
-Dialogue: 0,0:03:26.67,0:03:28.35,Main,Gi,0,0,0,,O, așa e! Soră mai mare!
-Dialogue: 0,0:03:28.35,0:03:32.94,Main,Gi,0,0,0,,Am auzit că ești însoțitoarea Numărului 2, nu-i așa?
-Dialogue: 0,0:03:32.94,0:03:34.32,Main,Gi,0,0,0,,Da, dar...
-Dialogue: 0,0:03:34.32,0:03:36.23,Main,Gi,0,0,0,,Te-ai împerecheat cu el?
-Dialogue: 0,0:03:36.23,0:03:38.36,Main,Gi,0,0,0,,C-C-Ce naiba mă întrebi?!
-Dialogue: 0,0:03:38.77,0:03:40.25,Main,Gi,0,0,0,,Nu ai făcut-o încă?
-Dialogue: 0,0:03:40.25,0:03:42.61,Main,Gi,0,0,0,,N-Nici măcar nu am vorbit depsre asta...
-Dialogue: 0,0:03:46.16,0:03:48.79,Main,Gu,0,0,0,,Ce părere ai despre Mizuhara?
-Dialogue: 0,0:03:48.79,0:03:53.25,Main,Gi,0,0,0,,Hm... Un softy, exact cum am auzit.
-Dialogue: 0,0:03:53.57,0:03:55.78,Main,Gu,0,0,0,,Părea inteligent.
-Dialogue: 0,0:03:56.26,0:03:59.16,Main,Gu,0,0,0,,În comparație cu Numărul 1, Hino.
-Dialogue: 0,0:03:59.16,0:04:02.24,Main,Gi,0,0,0,,Doar era student la medicină.
-Dialogue: 0,0:04:02.24,0:04:03.26,Main,Gu,0,0,0,,Înțeleg.
-Dialogue: 0,0:04:05.90,0:04:08.00,Main,Gu,0,0,0,,Dna profesoară e aici?
-Dialogue: 0,0:04:08.00,0:04:12.64,Main,Gi,0,0,0,,Dna profesoară Yuzu a fost trimisă într-un loc sigur după atacurile teroriste.
-Dialogue: 0,0:04:13.07,0:04:17.83,Main,Gi,0,0,0,,Nu le-am spus nici măcar liderilor OF unde e.
-Dialogue: 0,0:04:18.84,0:04:22.69,Main,Gi,0,0,0,,Și acum, ne vom întâlni mâine cu Mans nu știu cum!
-Dialogue: 0,0:04:23.27,0:04:25.24,Main,Gi,0,0,0,,Să te culci devreme, bine?
-Dialogue: 0,0:04:33.70,0:04:34.97,Italics,Gu,0,0,0,,Dna profesoară...
-Dialogue: 0,0:04:45.84,0:04:47.43,Main,Gi,0,0,0,,Scuze că te-am deranjat la ora asta.
-Dialogue: 0,0:04:47.43,0:04:49.87,Main,Gu,0,0,0,,Nu, eu ți-am cerut să vii...
-Dialogue: 0,0:04:52.65,0:04:55.69,Main,Gi,0,0,0,,Deci? Despre ce voiai să vorbim?
-Dialogue: 0,0:04:55.69,0:04:59.94,Main,Gu,0,0,0,,U-Um... would you come with \Nme to the shower room?
-Dialogue: 0,0:05:01.36,0:05:02.19,Main,Gi,0,0,0,,Well...
-Dialogue: 0,0:05:02.19,0:05:04.07,Main,Gu,0,0,0,,No, I didn't mean that!
-Dialogue: 0,0:05:05.64,0:05:09.40,Main,Gu,0,0,0,,Akane-san and I always do \Nthis so nobody will hear us.
-Dialogue: 0,0:05:09.40,0:05:12.08,Main,Gu,0,0,0,,I forgot to explain that to you.
-Dialogue: 0,0:05:12.31,0:05:17.83,Main,Gi,0,0,0,,So this is something you don't \Nwant the leaders of UW hearing?
-Dialogue: 0,0:05:18.16,0:05:22.06,Main,Gu,0,0,0,,The terrorist attacks, the arrest \Nof Kihara and the other directors...
-Dialogue: 0,0:05:22.06,0:05:23.97,Main,Gu,0,0,0,,The airwaves hijacking...
-Dialogue: 0,0:05:23.97,0:05:25.62,Main,Gu,0,0,0,,Too much is happening.
-Dialogue: 0,0:05:26.59,0:05:29.99,Main,Gu,0,0,0,,Come with us! Let's escape!
-Dialogue: 0,0:05:30.86,0:05:36.94,Main,Gu,0,0,0,,The one who was talking during the airwaves \Nhijacking was Erisa, the girl I'm looking for.
-Dialogue: 0,0:05:37.30,0:05:41.82,Main,Gi,0,0,0,,It didn't occur to you that I might tell UW?
-Dialogue: 0,0:05:42.66,0:05:43.80,Main,Gu,0,0,0,,Well...
-Dialogue: 0,0:05:44.37,0:05:46.07,Main,Gu,0,0,0,,No, it didn't.
-Dialogue: 0,0:05:47.80,0:05:53.33,Main,Gu,0,0,0,,You've always been there for me \Nsince I woke up from cold sleep.
-Dialogue: 0,0:05:53.33,0:05:57.83,Main,Gu,0,0,0,,Come with me, and let's find out \Nwhat's true and what's a lie!
-Dialogue: 0,0:05:58.61,0:06:03.20,Main,Gu,0,0,0,,UW say they're terrorists, but I trust Erisa!
-Dialogue: 0,0:06:03.20,0:06:04.02,Main,Gu,0,0,0,,So...
-Dialogue: 0,0:06:05.52,0:06:06.70,Main,Gi,0,0,0,,I...
-Dialogue: 0,0:06:08.08,0:06:09.09,Main,Gi,0,0,0,,can't go.
-Dialogue: 0,0:06:09.64,0:06:12.47,Main,Gu,0,0,0,,Because the UW is important to you?
-Dialogue: 0,0:06:15.93,0:06:18.10,Main,Gu,0,0,0,,Wh-What's wrong? What are you—
-Dialogue: 0,0:06:22.11,0:06:25.04,Main,Gi,0,0,0,,If you want me to come, then...
-Dialogue: 0,0:06:25.61,0:06:26.81,Main,Gu,0,0,0,,Suou-san!
-Dialogue: 0,0:06:26.81,0:06:31.87,Main,Gi,0,0,0,,Mate with me right here.
-Dialogue: 0,0:06:32.52,0:06:35.26,Main,Gu,0,0,0,,Here? With you?
-Dialogue: 0,0:06:36.08,0:06:38.25,Main,Gu,0,0,0,,Wh-What's gotten into you?
-Dialogue: 0,0:06:38.25,0:06:42.70,Main,Gi,0,0,0,,If you want me to leave UW \Nand put myself in danger,
-Dialogue: 0,0:06:42.70,0:06:45.25,Main,Gi,0,0,0,,shouldn't it be easy for you?
-Dialogue: 0,0:06:46.63,0:06:49.38,Main,Gu,0,0,0,,Do you really not want \Nto go with me that much?
-Dialogue: 0,0:06:49.81,0:06:50.88,Main,Gi,0,0,0,,Why?
-Dialogue: 0,0:06:51.58,0:06:55.39,Main,Gu,0,0,0,,You know I'm going to refuse.
-Dialogue: 0,0:06:55.39,0:06:57.02,Main,Gi,0,0,0,,I want to go!
-Dialogue: 0,0:07:01.93,0:07:04.47,Main,Gi,0,0,0,,But I can't...
-Dialogue: 0,0:07:10.44,0:07:12.16,Flashback,Gi,0,0,0,,Who is this?
-Dialogue: 0,0:07:12.16,0:07:14.03,Flashback,Gi,0,0,0,,A man named Mizuhara Reito.
-Dialogue: 0,0:07:14.32,0:07:17.97,Flashback,Gi,0,0,0,,He's a very important person to everyone.
-Dialogue: 0,0:07:17.97,0:07:19.38,Flashback,Gi,0,0,0,,Mizuhara...
-Dialogue: 0,0:07:33.84,0:07:39.78,Main,Gu,0,0,0,,Suou-san! I'm sorry. \NI... didn't mean to make you cry!
-Dialogue: 0,0:08:03.48,0:08:05.72,Main,Gu,0,0,0,,Wh-Who are you people?
-Dialogue: 0,0:08:09.87,0:08:13.18,Main,Gi,0,0,0,,Reito Mizuhara. You're coming with me.
-Dialogue: 0,0:08:13.80,0:08:15.19,Main,Gi,0,0,0,,The girl, too.
-Dialogue: 0,0:08:19.40,0:08:23.44,Main,Gi,0,0,0,,I'm Pope. Director Mansfield's aide.
-Dialogue: 0,0:08:23.82,0:08:24.97,Italics,Gu,0,0,0,,Chloe-san's aide?
-Dialogue: 0,0:08:25.71,0:08:30.29,Main,Gi,0,0,0,,Akane Ryuuzouji and Sui Yamada \Nhave been captured, as well.
-Dialogue: 0,0:08:30.82,0:08:33.07,Main,Gu,0,0,0,,Akane-san and Sui-chan? Why?
-Dialogue: 0,0:08:33.42,0:08:40.08,Main,Gi,0,0,0,,They, as well as Mira Suou, seem to \Nhave taken quite a liking to you.
-Dialogue: 0,0:08:40.32,0:08:44.54,Main,Gi,0,0,0,,We can't have you forgetting your position \Nand running around doing whatever you like.
-Dialogue: 0,0:08:45.33,0:08:49.09,Main,Gi,0,0,0,,You're coming to America with us.
-Dialogue: 0,0:08:49.31,0:08:50.56,Main,Gu,0,0,0,,America?
-Dialogue: 0,0:08:50.56,0:08:54.48,Main,Gi,0,0,0,,The Izanami terrorists in Japan make \Nit too dangerous for you to be here.
-Dialogue: 0,0:08:54.48,0:08:56.72,Main,Gi,0,0,0,,You're the most valuable person in the world.
-Dialogue: 0,0:08:56.72,0:09:00.06,Main,Gi,0,0,0,,We need to keep you safe, of course.
-Dialogue: 0,0:09:00.85,0:09:06.35,Main,Gi,0,0,0,,Don't worry. The Director's told me \Nto ensure you're treated properly.
-Dialogue: 0,0:09:06.35,0:09:08.72,Main,Gi,0,0,0,,Get in. We're heading to the airport.
-Dialogue: 0,0:09:09.86,0:09:11.40,Main,Gi,0,0,0,,Hi!
-Dialogue: 0,0:09:12.52,0:09:14.11,Main,Gi,0,0,0,,How did you—
-Dialogue: 0,0:09:16.50,0:09:17.74,Main,Gi,0,0,0,,This won't kill you!
-Dialogue: 0,0:09:17.74,0:09:19.67,Main,Gu,0,0,0,,Akane-san! Sui-chan!
-Dialogue: 0,0:09:19.67,0:09:20.99,Main,Gi,0,0,0,,Don't move.
-Dialogue: 0,0:09:21.44,0:09:24.10,Main,,0,0,0,,This gun is loaded.
-Dialogue: 0,0:09:24.57,0:09:26.12,Main,Gi,0,0,0,,I'm not bluffing.
-Dialogue: 0,0:09:38.32,0:09:39.46,Main,Gi,0,0,0,,Suou-san!
-Dialogue: 0,0:09:40.07,0:09:41.04,Main,Gi,0,0,0,,What happened?
-Dialogue: 0,0:09:42.05,0:09:44.77,Main,Gi,0,0,0,,She saved us, too.
-Dialogue: 0,0:09:44.77,0:09:47.27,Main,Gi,0,0,0,,Katagiri-san! Kuroda-san!
-Dialogue: 0,0:09:48.23,0:09:50.51,Main,Gi,0,0,0,,What are you doing? Hurry.
-Dialogue: 0,0:09:55.32,0:09:57.53,Main,Gi,0,0,0,,The GPS has been off since yesterday!
-Dialogue: 0,0:09:57.53,0:10:00.15,Main,Gi,0,0,0,,Intercept their communications and find them!
-Dialogue: 0,0:10:00.15,0:10:03.02,Main,Gi,0,0,0,,We can't have them getting \Non the highway! Hurry!
-Dialogue: 0,0:10:03.79,0:10:08.04,Main,Gi,0,0,0,,The staff are in a big hurry over something.
-Dialogue: 0,0:10:08.04,0:10:09.92,Main,Gi,0,0,0,,Did something happen?
-Dialogue: 0,0:10:09.92,0:10:13.42,Main,Gi,0,0,0,,One of my girls made a mistake, is all.
-Dialogue: 0,0:10:13.76,0:10:16.06,Main,Gi,0,0,0,,It's not an issue.
-Dialogue: 0,0:10:16.06,0:10:22.05,Main,Gi,0,0,0,,Now, you didn't come all the way from \NKeimon City to say hello, did you?
-Dialogue: 0,0:10:22.43,0:10:24.56,Main,Gi,0,0,0,,Did you, Doi-san?
-Dialogue: 0,0:10:26.36,0:10:30.81,Main,Gi,0,0,0,,As Shouta-sama's attendant, \NI'd like to be the one to speak.
-Dialogue: 0,0:10:33.40,0:10:36.14,Main,Gi,0,0,0,,I want to make a deal!
-Dialogue: 0,0:10:39.33,0:10:41.75,Main,Gi,0,0,0,,How about it? It's a good deal, right?
-Dialogue: 0,0:10:42.40,0:10:46.80,Main,Gi,0,0,0,,I understand your proposal. \NIt does make sense.
-Dialogue: 0,0:10:46.80,0:10:48.83,Main,Gi,0,0,0,,I'll give it full consideration.
-Dialogue: 0,0:10:50.06,0:10:53.79,Main,Gi,0,0,0,,So, I have a request...
-Dialogue: 0,0:10:53.79,0:10:56.21,Main,Gi,0,0,0,,Go ahead. Anything.
-Dialogue: 0,0:10:56.56,0:11:00.02,Main,Gi,0,0,0,,I want you to introduce me to the Three Magi.
-Dialogue: 0,0:11:00.84,0:11:06.48,Main,Gi,0,0,0,,I've heard about them. \NThe three geniuses who run UW.
-Dialogue: 0,0:11:06.48,0:11:08.85,Main,Gi,0,0,0,,All of different ages, \Nand born in different places!
-Dialogue: 0,0:11:08.85,0:11:12.60,Main,Gi,0,0,0,,All they have in common is \Ntheir brilliant intellects,
-Dialogue: 0,0:11:12.93,0:11:16.11,Main,Gi,0,0,0,,and hatred of men, I suppose.
-Dialogue: 0,0:11:18.49,0:11:21.05,Main,Gi,0,0,0,,Oh, am I right?
-Dialogue: 0,0:11:21.05,0:11:23.24,Main,Gi,0,0,0,,That was a joke!
-Dialogue: 0,0:11:23.74,0:11:27.99,Main,Gi,0,0,0,,If Doi-san's willing to show \Nus a cooperative attitude,
-Dialogue: 0,0:11:27.99,0:11:30.50,Main,,0,0,0,,you'll get a chance.
-Dialogue: 0,0:11:32.57,0:11:36.15,Main,Gi,0,0,0,,Well, you can set that up for us later.
-Dialogue: 0,0:11:36.15,0:11:38.30,Main,Gi,0,0,0,,There is one more thing, though!
-Dialogue: 0,0:11:38.77,0:11:40.01,Main,Gi,0,0,0,,What is it?
-Dialogue: 0,0:11:40.01,0:11:44.51,Main,Gi,0,0,0,,Are you going to be occupying Japan?
-Dialogue: 0,0:11:44.76,0:11:51.02,Main,Gi,0,0,0,,"Occupying"? If I know my Japanese, \Nthat's not the right word.
-Dialogue: 0,0:11:51.47,0:11:57.02,Main,Gi,0,0,0,,We've been sent from World HQ \Nto protect the Japanese people.
-Dialogue: 0,0:11:57.02,0:11:59.59,Main,Gi,0,0,0,,You can use whatever words you like.
-Dialogue: 0,0:11:59.59,0:12:03.66,Main,,0,0,0,,But I think a Japanese \Nperson should rule Japan.
-Dialogue: 0,0:12:03.96,0:12:07.78,Main,Gi,0,0,0,,You're wasting my time. \NJust come out and say it.
-Dialogue: 0,0:12:09.41,0:12:12.04,Main,Gi,0,0,0,,Would you give that position to me?
-Dialogue: 0,0:12:14.94,0:12:17.55,Main,Gi,0,0,0,,The position of National Affairs Director.
-Dialogue: 0,0:12:25.96,0:12:26.93,Main,Gi,0,0,0,,This is the place.
-Dialogue: 0,0:12:34.56,0:12:35.56,Main,Gi,0,0,0,,Rei-nii!
-Dialogue: 0,0:12:35.84,0:12:37.06,Main,Gi,0,0,0,,Mahiru!
-Dialogue: 0,0:12:37.80,0:12:39.94,Main,Gi,0,0,0,,I'm glad you made it here!
-Dialogue: 0,0:12:40.33,0:12:42.64,Main,Gi,0,0,0,,Everybody helped.
-Dialogue: 0,0:12:42.64,0:12:44.70,Main,Gi,0,0,0,,Thank you, everyone.
-Dialogue: 0,0:12:44.96,0:12:49.15,Main,Gi,0,0,0,,I wondered what Katagiri-san would want \Nafter she contacted me out of the blue.
-Dialogue: 0,0:12:49.15,0:12:52.20,Main,Gi,0,0,0,,She wanted help getting Mahiru out!
-Dialogue: 0,0:12:52.20,0:12:54.82,Main,Gi,0,0,0,,You knew Katagiri-san, huh?
-Dialogue: 0,0:12:55.41,0:12:59.41,Main,Gi,0,0,0,,I was a Citizen Relations Officer, \Nso I know a lot of the locals.
-Dialogue: 0,0:12:59.97,0:13:05.24,Main,Gi,0,0,0,,Katagiri-san's successor \Ndoesn't care about us all.
-Dialogue: 0,0:13:05.24,0:13:09.62,Main,Gi,0,0,0,,Everybody hates UW, but we like her!
-Dialogue: 0,0:13:11.13,0:13:11.97,Main,Gi,0,0,0,,What?
-Dialogue: 0,0:13:11.97,0:13:13.89,Main,Gi,0,0,0,,Nothing...
-Dialogue: 0,0:13:13.89,0:13:19.51,Main,Gi,0,0,0,,But still... I can't believe \NMizuhara Reito is actually your brother!
-Dialogue: 0,0:13:19.51,0:13:21.23,Main,Gi,0,0,0,,Sorry for not telling you.
-Dialogue: 0,0:13:21.52,0:13:24.99,Main,Gi,0,0,0,,These days everybody's got their secrets.
-Dialogue: 0,0:13:26.61,0:13:29.69,Main,Gi,0,0,0,,You're cuter than on TV!
-Dialogue: 0,0:13:29.69,0:13:30.23,Main,Gu,0,0,0,,Thanks.
-Dialogue: 0,0:13:30.23,0:13:34.00,Main,Gi,0,0,0,,Hey, get your hands off humanity's treasure!
-Dialogue: 0,0:13:34.00,0:13:36.32,Main,Gi,0,0,0,,It's not like I'm hurting him.
-Dialogue: 0,0:13:36.86,0:13:38.35,Main,Gi,0,0,0,,It's ready?
-Dialogue: 0,0:13:38.35,0:13:41.25,Main,Gi,0,0,0,,Yeah. It's a little old, but it works.
-Dialogue: 0,0:13:41.57,0:13:42.88,Main,Gi,0,0,0,,Thanks.
-Dialogue: 0,0:13:42.88,0:13:46.17,Main,Gi,0,0,0,,Onee-sama... what will you do now?
-Dialogue: 0,0:13:48.07,0:13:49.51,Main,Gi,0,0,0,,Listen, everyone.
-Dialogue: 0,0:13:49.51,0:13:53.14,Main,Gi,0,0,0,,We'll stay here until sunset.
-Dialogue: 0,0:13:53.14,0:13:54.20,Main,Gu,0,0,0,,And then?
-Dialogue: 0,0:13:54.20,0:13:55.40,Main,Gi,0,0,0,,I have a plan.
-Dialogue: 0,0:13:55.96,0:13:59.15,Main,Gi,0,0,0,,We'll get moving when night falls. \NRest up until then.
-Dialogue: 0,0:13:59.37,0:14:02.15,Main,Gu,0,0,0,,Thank you, Katagiri-san.
-Dialogue: 0,0:14:03.24,0:14:04.94,Main,Gi,0,0,0,,It's not for your sake.
-Dialogue: 0,0:14:12.43,0:14:14.91,Main,Gi,0,0,0,,May we join in?
-Dialogue: 0,0:14:19.92,0:14:25.42,Main,Gi,0,0,0,,After you grew up, it felt like \Nyou were going to leave us.
-Dialogue: 0,0:14:26.03,0:14:28.56,Main,,0,0,0,,But you can still make that face, huh?
-Dialogue: 0,0:14:28.56,0:14:30.55,Main,Gu,0,0,0,,Did you like the old me better?
-Dialogue: 0,0:14:30.83,0:14:32.16,Main,Gi,0,0,0,,I'm not sure.
-Dialogue: 0,0:14:32.16,0:14:34.31,Main,Gi,0,0,0,,I liked how cute you were!
-Dialogue: 0,0:14:34.60,0:14:37.71,Main,Gu,0,0,0,,Even if I do this to you?
-Dialogue: 0,0:14:40.57,0:14:44.07,Main,Gi,0,0,0,,Shouta-san... that was amazing.
-Dialogue: 0,0:14:44.52,0:14:46.10,Main,Gu,0,0,0,,You all rest up.
-Dialogue: 0,0:14:49.85,0:14:51.13,Main,Gu,0,0,0,,How was it?
-Dialogue: 0,0:14:52.04,0:14:53.68,Main,Gu,0,0,0,,I'm feeling good.
-Dialogue: 0,0:14:53.68,0:14:56.70,Main,Gi,0,0,0,,It's been a few days since you mated.
-Dialogue: 0,0:14:56.70,0:14:59.33,Main,Gi,0,0,0,,You had a pretty good time, I bet.
-Dialogue: 0,0:14:59.73,0:15:02.33,Main,Gu,0,0,0,,Yeah, it felt great.
-Dialogue: 0,0:15:04.48,0:15:05.56,Main,Gu,0,0,0,,What's wrong?
-Dialogue: 0,0:15:06.00,0:15:11.11,Main,Gi,0,0,0,,No, it just feels like you've \Nreally grown up! I'm happy!
-Dialogue: 0,0:15:11.11,0:15:13.35,Main,Gu,0,0,0,,Did Miss Mansfield get back to us?
-Dialogue: 0,0:15:13.35,0:15:16.47,Main,Gi,0,0,0,,"I'll think about it!" was all she said.
-Dialogue: 0,0:15:16.47,0:15:20.00,Main,Gu,0,0,0,,I guess it won't be that easy to get the \Nposition of National Affairs Director.
-Dialogue: 0,0:15:20.72,0:15:24.11,Main,Gi,0,0,0,,And Number 2 ran, it looks like.
-Dialogue: 0,0:15:25.83,0:15:29.11,Italics,Gu,0,0,0,,He's braver than I thought.
-Dialogue: 0,0:15:29.11,0:15:32.03,Main,Gi,0,0,0,,Things are going to get busy!
-Dialogue: 0,0:15:32.03,0:15:34.54,Main,Gi,0,0,0,,We'll have to have the others help!
-Dialogue: 0,0:15:41.07,0:15:42.25,Main,Gi,0,0,0,,That's it.
-Dialogue: 0,0:15:42.79,0:15:43.98,Main,Gu,0,0,0,,We'll use this ship?
-Dialogue: 0,0:15:45.75,0:15:48.04,Main,Gu,0,0,0,,This is as far as Mira and I go.
-Dialogue: 0,0:15:48.04,0:15:51.71,Main,Gu,0,0,0,,I have someone who'll get \Nit out of Japanese waters.
-Dialogue: 0,0:15:51.71,0:15:54.26,Main,Gu,0,0,0,,Ask them for the rest.
-Dialogue: 0,0:15:54.57,0:15:58.52,Main,Gi,0,0,0,,Katagiri-san, thank you.
-Dialogue: 0,0:15:58.81,0:16:02.49,Main,Gu,0,0,0,,Mizuhara Ryuu, your brother...
-Dialogue: 0,0:16:02.49,0:16:04.40,Main,Gu,0,0,0,,I'll do everything I can to keep him safe.
-Dialogue: 0,0:16:04.40,0:16:07.32,Main,Gi,0,0,0,,Thank you for taking care of my brother.
-Dialogue: 0,0:16:07.32,0:16:08.53,Main,Gi,0,0,0,,Thank you!
-Dialogue: 0,0:16:10.18,0:16:10.99,Main,Gi,0,0,0,,Reito.
-Dialogue: 0,0:16:11.28,0:16:13.41,Main,Gi,0,0,0,,We'll go on ahead.
-Dialogue: 0,0:16:13.41,0:16:15.12,Main,Gi,0,0,0,,Me, too!
-Dialogue: 0,0:16:20.04,0:16:22.70,Main,Gu,0,0,0,,Um, Suou-san...
-Dialogue: 0,0:16:23.24,0:16:24.00,Main,Gi,0,0,0,,Yes?
-Dialogue: 0,0:16:24.41,0:16:27.75,Main,Gu,0,0,0,,Thank you for everything.
-Dialogue: 0,0:16:27.75,0:16:30.24,Main,Gi,0,0,0,,No, I didn't do anything.
-Dialogue: 0,0:16:34.80,0:16:40.77,Main,Gi,0,0,0,,I should thank you. \NIt was an honor to be by your side.
-Dialogue: 0,0:16:46.75,0:16:49.42,Main,Gu,0,0,0,,I'll come back, I promise!
-Dialogue: 0,0:16:50.22,0:16:53.54,Main,Gu,0,0,0,,Stay safe until then.
-Dialogue: 0,0:16:55.82,0:16:56.62,Main,Gi,0,0,0,,I will.
-Dialogue: 0,0:17:07.18,0:17:11.63,Main,Gi,0,0,0,,Reito, this is the person who'll \Nbe getting us out of Japan.
-Dialogue: 0,0:17:11.63,0:17:12.66,Main,Gu,0,0,0,,You're...?
-Dialogue: 0,0:17:12.66,0:17:14.67,Main,Gi,0,0,0,,Yes. I'm with Izanami.
-Dialogue: 0,0:17:14.96,0:17:16.55,Italics,Gi,0,0,0,,The mysterious organization?
-Dialogue: 0,0:17:16.55,0:17:19.56,Main,Gu,0,0,0,,We'll be heading south.
-Dialogue: 0,0:17:19.56,0:17:22.23,Main,Gu,0,0,0,,South? To where?
-Dialogue: 0,0:17:22.23,0:17:23.30,Main,Gu,0,0,0,,Taiwan.
-Dialogue: 0,0:17:23.30,0:17:25.94,Main,Gu,0,0,0,,You'll meet Erisa there.
-Dialogue: 0,0:17:26.84,0:17:30.08,Main,Gu,0,0,0,,Taiwan? Not Niigata?
-Dialogue: 0,0:17:30.08,0:17:33.32,Main,Gu,0,0,0,,It's too risky to stay entirely within Japan.
-Dialogue: 0,0:17:33.64,0:17:35.82,Main,Gu,0,0,0,,Erisa is on her way.
-Dialogue: 0,0:17:36.29,0:17:37.40,Main,Gu,0,0,0,,Erisa...
-Dialogue: 0,0:17:37.40,0:17:39.07,Main,Gu,0,0,0,,She said she wanted to see you.
-Dialogue: 0,0:17:46.28,0:17:49.63,Main,Gu,0,0,0,,So much has happened since \NI woke up from cold sleep.
-Dialogue: 0,0:17:52.75,0:17:54.01,Italics,Gu,0,0,0,,Suou-san...
-Dialogue: 0,0:17:55.66,0:17:58.14,Italics,,0,0,0,,are you sure you can't \Nbetray the Japanese branch?
-Dialogue: 0,0:17:59.08,0:18:01.56,Main,Gu,0,0,0,,You were thinking about \NSuou-san, weren't you?
-Dialogue: 0,0:18:01.56,0:18:03.53,Main,Gu,0,0,0,,Mahiru, I didn't...
-Dialogue: 0,0:18:03.53,0:18:05.14,Main,Gu,0,0,0,,I'll tell Erisa-chan!
-Dialogue: 0,0:18:05.14,0:18:06.16,Main,Gu,0,0,0,,Why?
-Dialogue: 0,0:18:06.16,0:18:08.26,Main,Gu,0,0,0,,This is for you.
-Dialogue: 0,0:18:09.35,0:18:10.29,Main,Gu,0,0,0,,A tablet?
-Dialogue: 0,0:18:10.73,0:18:11.90,Main,Gu,0,0,0,,Who's it from?
-Dialogue: 0,0:18:11.90,0:18:12.85,Main,Gu,0,0,0,,No idea.
-Dialogue: 0,0:18:14.88,0:18:17.44,Main,Gu,0,0,0,,Why is she mad?
-Dialogue: 0,0:18:17.44,0:18:19.41,Main,Gu,0,0,0,,Oh, it's on.
-Dialogue: 0,0:18:20.41,0:18:21.58,Italics,Gu,0,0,0,,Hino-san!
-Dialogue: 0,0:18:21.58,0:18:24.72,Main,Gu,0,0,0,,You're braver than you look!
-Dialogue: 0,0:18:24.72,0:18:27.50,Italics,Gu,0,0,0,,Sorry for worrying you.
-Dialogue: 0,0:18:27.50,0:18:29.17,Main,Gu,0,0,0,,But I think you made the right call.
-Dialogue: 0,0:18:29.62,0:18:35.30,Main,Gu,0,0,0,,The blonde chick told me no more \Nmating and won't even let me leave.
-Dialogue: 0,0:18:35.30,0:18:37.66,Italics,Gu,0,0,0,,She's basically got me locked up!
-Dialogue: 0,0:18:37.66,0:18:40.22,Main,Gu,0,0,0,,I wish you could've come with us...
-Dialogue: 0,0:18:40.22,0:18:43.41,Main,Gu,0,0,0,,But we had to act fast.
-Dialogue: 0,0:18:43.41,0:18:49.35,Italics,Gu,0,0,0,,Well, this tablet's special. My lovely and \Ntalented assistant prepared it for me.
-Dialogue: 0,0:18:49.35,0:18:54.45,Main,Gu,0,0,0,,If it uses an underground net \Nconnection, UW can't detect it.
-Dialogue: 0,0:18:54.45,0:18:55.36,Italics,Gu,0,0,0,,And...
-Dialogue: 0,0:18:56.07,0:18:58.72,Italics,Gu,0,0,0,,Let me know what you're \Nup to once in a while!
-Dialogue: 0,0:18:58.72,0:19:00.80,Main,Gu,0,0,0,,Yeah, stay safe, Hino-chan.
-Dialogue: 0,0:19:00.80,0:19:02.90,Main,Gu,0,0,0,,Say hi to Mahiru-chan for me!
-Dialogue: 0,0:19:08.29,0:19:13.08,Main,Gu,0,0,0,,I'm worried about Mizuhara-kun, \Nbut also everybody else who isn't here.
-Dialogue: 0,0:19:13.08,0:19:14.49,Main,Gu,0,0,0,,Kitayama-chan, too.
-Dialogue: 0,0:19:14.49,0:19:19.51,Main,Gu,0,0,0,,I'll do everything I can \Nto keep the girls safe.
-Dialogue: 0,0:19:19.87,0:19:22.89,Main,Gu,0,0,0,,Yeah, thanks for everything.
-Dialogue: 0,0:19:23.11,0:19:28.64,Main,Gu,0,0,0,,Hino-sama, did you want to \Nleave with Mizuhara-sama?
-Dialogue: 0,0:19:28.92,0:19:30.14,Main,Gu,0,0,0,,No...
-Dialogue: 0,0:19:32.81,0:19:37.15,Main,Gu,0,0,0,,I can't leave all of you behind.
-Dialogue: 0,0:19:37.40,0:19:38.71,Main,Gu,0,0,0,,Hino-sama...
-Dialogue: 0,0:19:46.12,0:19:50.37,Main,Gu,0,0,0,,Oh, that girl's Number 1's mating partner.
-Dialogue: 0,0:19:51.42,0:19:52.92,Main,Gu,0,0,0,,She's pretty.
-Dialogue: 0,0:19:55.27,0:19:56.42,Main,Gu,0,0,0,,Ow!
-Dialogue: 0,0:19:56.42,0:19:58.75,Main,Gu,0,0,0,,F-Forgive me!
-Dialogue: 0,0:19:58.75,0:20:03.82,Main,Gu,0,0,0,,Was it that hard to get \Na single man back home?
-Dialogue: 0,0:20:03.82,0:20:05.43,Main,Gu,0,0,0,,Give me another chance.
-Dialogue: 0,0:20:05.72,0:20:09.56,Main,Gu,0,0,0,,You know what'll happen if you fail, right?
-Dialogue: 0,0:20:10.53,0:20:12.23,Main,Gu,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:20:14.08,0:20:17.46,Main,Gu,0,0,0,,Now then, it's your turn.
-Dialogue: 0,0:20:18.44,0:20:23.36,Main,Gu,0,0,0,,I should've kept my eyes on \NMiss Suou, as well as Miss Katagiri.
-Dialogue: 0,0:20:23.36,0:20:26.52,Main,Gu,0,0,0,,All of this was my plan.
-Dialogue: 0,0:20:26.52,0:20:28.70,Main,Gu,0,0,0,,Former attendant Suou had \Nnothing to do with this.
-Dialogue: 0,0:20:29.72,0:20:32.36,Main,Gu,0,0,0,,What beautiful friendship.
-Dialogue: 0,0:20:32.36,0:20:38.48,Main,Gu,0,0,0,,Or... is "friendship" not the \Nright Japanese word for you?
-Dialogue: 0,0:20:40.34,0:20:42.82,Main,Gu,0,0,0,,Take them to the cells.
-Dialogue: 0,0:20:43.28,0:20:43.99,Main,,0,0,0,,Come.
-Dialogue: 0,0:20:46.60,0:20:49.81,Main,Gu,0,0,0,,Now then, it's time for our next step...
-Dialogue: 0,0:20:50.60,0:20:53.26,Main,Gu,0,0,0,,In the plan to exterminate all men...
-Dialogue: 0,0:20:55.63,0:20:56.98,Main,Gu,0,0,0,,This is the place!
-Dialogue: 0,0:20:57.31,0:20:58.27,Main,Gu,0,0,0,,What is this place?
-Dialogue: 0,0:20:58.27,0:21:00.98,Main,Gu,0,0,0,,This window's a one-way mirror!
-Dialogue: 0,0:21:04.40,0:21:05.49,Main,Gu,0,0,0,,What's this?
-Dialogue: 0,0:21:05.81,0:21:10.24,Main,Gu,0,0,0,,I'm giving you a new girl as a \Npresent to celebrate your rebirth!
-Dialogue: 0,0:21:10.76,0:21:13.37,Main,Gu,0,0,0,,Choose your favorite from in there.
-Dialogue: 0,0:21:13.37,0:21:14.91,Main,Gu,0,0,0,,From in there?
-Dialogue: 0,0:21:16.09,0:21:18.06,Main,Gu,0,0,0,,I saw her yesterday...
-Dialogue: 0,0:21:18.06,0:21:22.51,Main,Gu,0,0,0,,She was an actress when \Nyou went into cold sleep.
-Dialogue: 0,0:21:22.76,0:21:25.60,Main,Gu,0,0,0,,I thought I'd seen her somewhere.
-Dialogue: 0,0:21:25.60,0:21:28.11,Main,Gu,0,0,0,,But she's Hino-san's partner, right?
-Dialogue: 0,0:21:28.11,0:21:34.48,Main,Gi,0,0,0,,When World HQ came, they told all \Nthe Numbers to stop mating, right?
-Dialogue: 0,0:21:34.48,0:21:36.39,Main,Gi,0,0,0,,Except for you.
-Dialogue: 0,0:21:36.69,0:21:40.77,Flashback,Gi,0,0,0,,I want you to let Shouta-sama mate, \Nwith certain conditions.
-Dialogue: 0,0:21:40.77,0:21:44.36,Main,Gu,0,0,0,,I see. So that's what you meant.
-Dialogue: 0,0:21:45.11,0:21:48.28,Main,Gu,0,0,0,,This world is amazing!
-Dialogue: 0,0:21:48.53,0:21:51.78,Main,Gi,0,0,0,,Now, who do you want?
-Dialogue: 0,0:21:54.19,0:21:56.29,Main,Gi,0,0,0,,We'll head to the meeting place.
-Dialogue: 0,0:21:56.60,0:21:57.91,Main,Gi,0,0,0,,It's beautiful!
-Dialogue: 0,0:21:59.45,0:22:01.10,Main,Gi,0,0,0,,It's unbelievable!
-Dialogue: 0,0:22:01.80,0:22:02.80,Main,Gu,0,0,0,,Wow.
-Dialogue: 0,0:22:02.80,0:22:03.71,Main,Gi,0,0,0,,This is the place.
-Dialogue: 0,0:22:04.54,0:22:05.67,Italics,Gi,0,0,0,,Erisa...
-Dialogue: 0,0:22:06.04,0:22:07.74,Italics,Gi,0,0,0,,Vor reuși în sfârșit să te văd?
-Dialogue: 0,0:22:26.39,0:22:27.43,Main,Gi,0,0,0,,Erisa...
-Dialogue: 0,0:22:28.60,0:22:29.75,Main,Gi,0,0,0,,Reito...
-Dialogue: 0,0:22:35.41,0:22:38.85,Main,Gi,0,0,0,,Reito, mă bucur că te-ai vindecat...
-Dialogue: 0,0:22:39.62,0:22:42.26,Main,Gu,0,0,0,,Sunt... Sunt așa de fericit că ești bine!
-Dialogue: 0,0:22:44.92,0:22:46.13,Main,Gi,0,0,0,,Te-am așteptat...
-Dialogue: 0,0:22:49.60,0:22:50.92,Main,,0,0,0,,atât de mult...
-Dialogue: 0,0:22:52.64,0:22:56.35,Main,Gu,0,0,0,,Erisa, I'm going to develop \Na cure for the MK Virus.
-Dialogue: 0,0:22:59.10,0:23:02.48,Main,Gu,0,0,0,,If nobody else will do it, \Nwe'll have to do it ourselves.
-Dialogue: 0,0:23:02.48,0:23:06.11,Main,Gu,0,0,0,,And if there's two of us, it'll be more \Nlikely to work than if it was just one!
-Dialogue: 0,0:23:06.11,0:23:07.06,Main,Gu,0,0,0,,Right?
-Dialogue: 0,0:23:09.17,0:23:10.02,Main,Gi,0,0,0,,Yeah.
-Dialogue: 0,0:03:43.36,0:03:45.87,sign_5356_65_Doi_Shouta,,0,0,0,,Doi Shouta
-Dialogue: 0,0:04:36.29,0:04:37.92,sign_5356_65_Doi_Shouta,Gu,0,0,0,,Mizuhara Reito
-Dialogue: 0,0:07:25.04,0:07:27.75,Sign_Basic,Gi,0,0,0,,Mizuhara Reito\NMizuhara Reito\NMizuhara Reito
-Dialogue: 1,0:08:19.47,0:08:23.44,Episode_Number,,0,0,0,,Episodul 11
-Dialogue: 0,0:08:19.47,0:08:23.44,Episode_Title,,0,0,0,,Evadarea
-Dialogue: 0,0:10:01.03,0:10:03.79,Sign_Basic,,0,0,0,,{\an7\fnTimes New Roman\b1\shad0\3c&H303232&\c&HB0B2B2&\bord1.5\fs16\pos(196,220)}UW Japan Branch\N{\fs26\fscx79}National Affairs Director Office
-Dialogue: 0,0:20:12.81,0:20:15.19,Sign_Basic,,0,0,0,,{\an7\fnTimes New Roman\b1\shad0\3c&H303232&\c&HB0B2B2&\bord1.5\fs16\pos(196,220)}UW Japan Branch\N{\fs26\fscx79}National Affairs Director Office
+Dialogue: 100,0:00:00.93,0:00:03.98,Dialogue,,0,0,0,,Nu credeam că mă voi mai \Nîntoarce într-una din astea.
+Dialogue: 100,0:00:03.98,0:00:07.48,Dialogue,,0,0,0,,Nu-ți face griji. De data asta \Nnu va mai dura cinci ani!
+Dialogue: 100,0:00:07.84,0:00:11.72,Dialogue,,0,0,0,,E în regulă să-mi scurtez \Nperioada în care sunt tânăr?
+Dialogue: 100,0:00:11.72,0:00:14.68,Dialogue,,0,0,0,,Tehnologia anti-îmbătrânire a evoluat mult.
+Dialogue: 100,0:00:14.68,0:00:18.89,Dialogue,,0,0,0,,Vei putea să-ți menții \Ntinerețea pentru încă 30 de ani!
+Dialogue: 100,0:00:18.89,0:00:20.03,Dialogue,,0,0,0,,Bine.
+Dialogue: 100,0:00:20.48,0:00:21.50,Dialogue,,0,0,0,,Începe.
+Dialogue: 100,0:00:21.86,0:00:24.35,Dialogue,,0,0,0,,Și... start!
+Dialogue: 100,0:00:38.87,0:00:42.32,Dialogue,,0,0,0,,Ești la pubertate, \Ndeci te-ai înălțat ceva!
+Dialogue: 100,0:00:42.32,0:00:47.23,Dialogue,,0,0,0,,Ți-am făcut și o operație pe retină, \Ndeci nu vei mai avea nevoie de ochelari.
+Dialogue: 100,0:00:47.23,0:00:48.97,Dialogue,,0,0,0,,Deci ăsta e motivul?
+Dialogue: 100,0:00:48.97,0:00:51.53,Dialogue,,0,0,0,,Chiar mă întrebam de ce văd mai bine.
+Dialogue: 100,0:00:56.80,0:00:59.53,Dialogue,,0,0,0,,Acum, să mergem acolo și să ne pregătim!
+Dialogue: 100,0:01:02.08,0:01:04.96,Dialogue,,0,0,0,,Exact cum credeam! Arăți grozav!
+Dialogue: 100,0:01:05.37,0:01:07.46,Dialogue,,0,0,0,,Mă simt ca o persoană diferită.
+Dialogue: 100,0:01:07.46,0:01:10.48,Dialogue,,0,0,0,,Tocmai a luat naștere noul Shouta!
+Dialogue: 100,0:01:24.30,0:01:26.73,Dialogue,,0,0,0,,{\i1}Deci acesta e Numărul 3...
+Dialogue: 100,0:01:26.73,0:01:28.52,Dialogue,,0,0,0,,{\i1}Doi Shouta...
+Dialogue: 100,0:01:28.98,0:01:32.98,Dialogue,,0,0,0,,E-E interzis să intri fără permisiune în camera altui Număr!
+Dialogue: 100,0:01:34.03,0:01:39.51,Dialogue,,0,0,0,,Scuze! Era o teroristă la TV, \Ncare spune chestii înfricoșătoare,
+Dialogue: 100,0:01:39.51,0:01:42.24,Dialogue,,0,0,0,,deci am căutat un loc \Nunde să fim în siguranță!
+Dialogue: 100,0:01:42.69,0:01:44.62,Dialogue,,0,0,0,,Doi, unde ai fost în tot acest timp?
+Dialogue: 100,0:01:44.62,0:01:47.25,Dialogue,,0,0,0,,Într-un loc numit Keimon.
+Dialogue: 100,0:01:47.50,0:01:50.50,Dialogue,,0,0,0,,A avut loc un atac terorist acolo, deci am fost evacuați aici.
+Dialogue: 100,0:01:50.92,0:01:53.32,Dialogue,,0,0,0,,Dar se pare că nici acest \Nloc nu e cu mult mai sigur.
+Dialogue: 100,0:01:53.32,0:01:56.01,Dialogue,,0,0,0,,Aș vrea să te întreb ceva.
+Dialogue: 100,0:01:56.28,0:01:57.76,Dialogue,,0,0,0,,P-Pe mine?
+Dialogue: 100,0:01:57.76,0:02:00.76,Dialogue,,0,0,0,,Ce fel de persoană e această \Ntipă Mans „nu știu cum”?
+Dialogue: 100,0:02:01.08,0:02:02.42,Dialogue,,0,0,0,,Chloe?
+Dialogue: 100,0:02:03.13,0:02:07.19,Dialogue,,0,0,0,,E greu de spus ce gândește.
+Dialogue: 100,0:02:07.19,0:02:10.52,Dialogue,,0,0,0,,Ea și restul celor din OF au spus că
+Dialogue: 100,0:02:10.52,0:02:15.48,Dialogue,,0,0,0,,Izanami, teroristele, cele care ne-au interceptat semnalul TV, sunt persoanele rele.
+Dialogue: 100,0:02:16.12,0:02:23.53,Dialogue,,0,0,0,,Chloe mi-a salvat viața, \Ndar nu știu cine are dreptate.
+Dialogue: 100,0:02:23.82,0:02:25.44,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 100,0:02:25.44,0:02:27.24,Dialogue,,0,0,0,,Mersi!
+Dialogue: 100,0:02:27.24,0:02:29.67,Dialogue,,0,0,0,,Oh, tu ești Kuroda Maria, nu?
+Dialogue: 100,0:02:29.67,0:02:31.17,Dialogue,,0,0,0,,D-Da!
+Dialogue: 100,0:02:35.80,0:02:36.42,Dialogue,,0,0,0,,Cine-i acolo?
+Dialogue: 100,0:02:36.67,0:02:37.97,Dialogue,,0,0,0,,Soră mai mare!
+Dialogue: 100,0:02:37.97,0:02:39.68,Dialogue,,0,0,0,,C-Chifuyu!
+Dialogue: 100,0:02:39.92,0:02:43.18,Dialogue,,0,0,0,,S-Sunt așa de fericită \Ncă ești în s-siguranță...
+Dialogue: 100,0:02:43.40,0:02:46.20,Dialogue,,0,0,0,,Deci aceea e sora lui Chifuyun, nu?
+Dialogue: 100,0:02:44.42,0:02:47.26,Dialogue,,0,0,0,,{\an8}Mi-am făcut atât de multe griji pentru tine...
+Dialogue: 100,0:02:46.20,0:02:49.15,Dialogue,,0,0,0,,Chifuyu, mă bucur că ați \Nreușit să vă întâlniți aici!
+Dialogue: 100,0:02:47.26,0:02:50.94,Dialogue,,0,0,0,,{\an8}Mereu sunt bine!
+Dialogue: 100,0:02:49.15,0:02:53.49,Dialogue,,0,0,0,,Dar de ce e îmbrăcată cu acele haine?
+Dialogue: 100,0:02:50.94,0:02:53.49,Dialogue,,0,0,0,,{\an8}Mi-am făcut griji pentru tine!
+Dialogue: 100,0:02:55.51,0:02:56.94,Dialogue,,0,0,0,,Mai întâi atacul terorist
+Dialogue: 100,0:02:57.31,0:03:02.63,Dialogue,,0,0,0,,și apoi aflăm că mai există încă patru bărbați rezistenți la virus, pe lângă Shouta.
+Dialogue: 100,0:03:02.63,0:03:05.08,Dialogue,,0,0,0,,Au fost niște zile nebune.
+Dialogue: 100,0:03:05.08,0:03:08.48,Dialogue,,0,0,0,,Creierul meu nu reușește să țină pasul!
+Dialogue: 100,0:03:08.48,0:03:12.84,Dialogue,,0,0,0,,O, așa e. Vă mulțumesc că ați a-avut grijă de sora mea mai mică!
+Dialogue: 100,0:03:12.84,0:03:14.34,Dialogue,,0,0,0,,Nu, ei bine...
+Dialogue: 100,0:03:14.65,0:03:17.53,Dialogue,,0,0,0,,Eu sunt cea care are grijă de ele!
+Dialogue: 100,0:03:17.53,0:03:20.34,Dialogue,,0,0,0,,Nu trebuie să te pleci în fața lor!
+Dialogue: 100,0:03:20.34,0:03:24.72,Dialogue,,0,0,0,,Ți-am tot spus să nu te mai porți așa!
+Dialogue: 100,0:03:24.72,0:03:26.67,Dialogue,,0,0,0,,Vai, Doamne...
+Dialogue: 100,0:03:26.67,0:03:28.35,Dialogue,,0,0,0,,O, așa e! Soră mai mare!
+Dialogue: 100,0:03:28.35,0:03:32.94,Dialogue,,0,0,0,,Am auzit că ești însoțitoarea \NNumărului 2, nu-i așa?
+Dialogue: 100,0:03:32.94,0:03:34.32,Dialogue,,0,0,0,,Da, dar...
+Dialogue: 100,0:03:34.32,0:03:36.23,Dialogue,,0,0,0,,Te-ai împerecheat cu el?
+Dialogue: 100,0:03:36.23,0:03:38.36,Dialogue,,0,0,0,,C-C-Ce naiba mă întrebi?!
+Dialogue: 100,0:03:38.77,0:03:40.25,Dialogue,,0,0,0,,Nu ai făcut-o încă?
+Dialogue: 100,0:03:40.25,0:03:42.61,Dialogue,,0,0,0,,N-Nici măcar nu am vorbit despre asta...
+Dialogue: 100,0:03:46.16,0:03:48.79,Dialogue,,0,0,0,,Ce părere ai despre Mizuhara?
+Dialogue: 100,0:03:48.79,0:03:53.25,Dialogue,,0,0,0,,Să vedem... O persoană amabilă, \Nexact cum am auzit.
+Dialogue: 100,0:03:53.57,0:03:55.78,Dialogue,,0,0,0,,Părea inteligent.
+Dialogue: 100,0:03:56.26,0:03:59.16,Dialogue,,0,0,0,,În comparație cu Numărul 1, Hino.
+Dialogue: 100,0:03:59.16,0:04:02.24,Dialogue,,0,0,0,,Doar era student la medicină.
+Dialogue: 100,0:04:02.24,0:04:03.26,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 100,0:04:05.90,0:04:08.00,Dialogue,,0,0,0,,Dna profesoară e aici?
+Dialogue: 100,0:04:08.00,0:04:12.64,Dialogue,,0,0,0,,Dna profesoară Yuzu a fost trimisă într-un loc sigur după atacurile teroriste.
+Dialogue: 100,0:04:13.07,0:04:17.83,Dialogue,,0,0,0,,Nu le-am spus nici măcar \Nliderilor OF unde e.
+Dialogue: 100,0:04:18.84,0:04:22.69,Dialogue,,0,0,0,,Și acum, ne vom întâlni mâine cu tipa Mans „nu știu cum”!
+Dialogue: 100,0:04:23.27,0:04:25.24,Dialogue,,0,0,0,,Să te culci devreme, bine?
+Dialogue: 100,0:04:33.70,0:04:34.97,Dialogue,,0,0,0,,{\i1}Dna profesoară...
+Dialogue: 100,0:04:45.84,0:04:47.43,Dialogue,,0,0,0,,Scuze că te deranjez la ora asta.
+Dialogue: 100,0:04:47.43,0:04:49.87,Dialogue,,0,0,0,,Nu, eu ți-am cerut să vii...
+Dialogue: 100,0:04:52.65,0:04:55.69,Dialogue,,0,0,0,,Deci? Despre ce voiai să vorbim?
+Dialogue: 100,0:04:55.69,0:04:59.94,Dialogue,,0,0,0,,P-Păi... ai vrea să vii \Ncu mine până în baie?
+Dialogue: 100,0:05:01.36,0:05:02.19,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 100,0:05:02.19,0:05:04.07,Dialogue,,0,0,0,,Nu, nu mă refeream la aia!
+Dialogue: 100,0:05:05.64,0:05:09.40,Dialogue,,0,0,0,,Akane și cu mine facem mereu asta ca să nu ne audă nimeni.
+Dialogue: 100,0:05:09.40,0:05:12.08,Dialogue,,0,0,0,,Am uitat să-ți spun asta.
+Dialogue: 100,0:05:12.31,0:05:17.83,Dialogue,,0,0,0,,Deci e ceva ce nu vrei \Nca liderii OF să audă?
+Dialogue: 100,0:05:18.16,0:05:22.06,Dialogue,,0,0,0,,Atacurile teroriste, arestarea dnei Kihara și a celorlalți miniștri...
+Dialogue: 100,0:05:22.06,0:05:23.97,Dialogue,,0,0,0,,Interceptarea semnalului TV...
+Dialogue: 100,0:05:23.97,0:05:25.62,Dialogue,,0,0,0,,Se întâmplă prea multe lucruri.
+Dialogue: 100,0:05:26.59,0:05:29.99,Dialogue,,0,0,0,,Vino cu noi! \NHaide să fugim împreună!
+Dialogue: 100,0:05:30.86,0:05:36.94,Dialogue,,0,0,0,,Cea care a vorbit în timpul interceptării semnalului TV era Erisa, fata pe care o caut.
+Dialogue: 100,0:05:37.30,0:05:41.82,Dialogue,,0,0,0,,Nu te-ai gândit că le-aș \Nputea spune celor din OF?
+Dialogue: 100,0:05:42.66,0:05:43.80,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 100,0:05:44.37,0:05:46.07,Dialogue,,0,0,0,,Chiar deloc.
+Dialogue: 100,0:05:47.80,0:05:53.33,Dialogue,,0,0,0,,Mi-ai fost alături mereu, de când m-am trezit din somnul criogenic.
+Dialogue: 100,0:05:53.33,0:05:57.83,Dialogue,,0,0,0,,Vino cu mine și haide să \Naflăm care e adevărul!
+Dialogue: 100,0:05:58.61,0:06:03.20,Dialogue,,0,0,0,,OF spun că sunt teroriste, \Ndar eu cred în Erisa!
+Dialogue: 100,0:06:03.20,0:06:04.02,Dialogue,,0,0,0,,Deci...
+Dialogue: 100,0:06:05.52,0:06:06.70,Dialogue,,0,0,0,,Eu...
+Dialogue: 100,0:06:08.08,0:06:09.09,Dialogue,,0,0,0,,nu pot merge.
+Dialogue: 100,0:06:09.64,0:06:12.47,Dialogue,,0,0,0,,Deoarece OF e importantă pentru tine?
+Dialogue: 100,0:06:15.93,0:06:18.10,Dialogue,,0,0,0,,C-Ce s-a întâmplat? Ce tot...
+Dialogue: 100,0:06:22.11,0:06:25.04,Dialogue,,0,0,0,,Dacă vrei să vin, atunci...
+Dialogue: 100,0:06:25.61,0:06:26.81,Dialogue,,0,0,0,,Suou!
+Dialogue: 100,0:06:26.81,0:06:31.87,Dialogue,,0,0,0,,Împerechează-te cu mine chiar acum.
+Dialogue: 100,0:06:32.52,0:06:35.26,Dialogue,,0,0,0,,Cu tine? Chiar acum?
+Dialogue: 100,0:06:36.08,0:06:38.25,Dialogue,,0,0,0,,C-Ce te-a apucat?
+Dialogue: 100,0:06:38.25,0:06:42.70,Dialogue,,0,0,0,,Dacă vrei să părăsesc OF \Nși să mă pun în pericol,
+Dialogue: 100,0:06:42.70,0:06:45.25,Dialogue,,0,0,0,,poți face măcar atât, nu?
+Dialogue: 100,0:06:46.63,0:06:49.38,Dialogue,,0,0,0,,Chiar atât de mult îți displace \Nideea de a veni cu mine?
+Dialogue: 100,0:06:49.81,0:06:50.88,Dialogue,,0,0,0,,De ce?
+Dialogue: 100,0:06:51.58,0:06:55.39,Dialogue,,0,0,0,,Doar știi că voi refuza, nu?
+Dialogue: 100,0:06:55.39,0:06:57.02,Dialogue,,0,0,0,,Vreau să merg!
+Dialogue: 100,0:07:01.93,0:07:04.47,Dialogue,,0,0,0,,Dar nu pot...
+Dialogue: 100,0:07:10.44,0:07:12.16,Dialogue,,0,0,0,,Cine e el?
+Dialogue: 100,0:07:12.16,0:07:14.03,Dialogue,,0,0,0,,Un bărbat pe nume Mizuhara Reito.
+Dialogue: 100,0:07:14.32,0:07:17.97,Dialogue,,0,0,0,,E o persoană foarte \Nimportantă pentru toată lumea.
+Dialogue: 100,0:07:17.97,0:07:19.38,Dialogue,,0,0,0,,Mizuhara...
+Dialogue: 100,0:07:33.84,0:07:39.78,Dialogue,,0,0,0,,Suou! Îmi cer scuze. Nu...  \NNu voiam să te fac să plângi!
+Dialogue: 100,0:08:03.48,0:08:05.72,Dialogue,,0,0,0,,C-Cine sunteți voi?
+Dialogue: 100,0:08:09.87,0:08:13.18,Dialogue,,0,0,0,,Reito Mizuhara. \NTu vei veni cu noi.
+Dialogue: 100,0:08:13.80,0:08:15.19,Dialogue,,0,0,0,,La fel și fata.
+Dialogue: 100,0:08:19.40,0:08:23.44,Dialogue,,0,0,0,,Eu sunt Pope. Ajutoarea \Ndirectorului Mansfield.
+Dialogue: 100,0:08:23.82,0:08:24.97,Dialogue,,0,0,0,,{\i1}Ajutoarea lui Chloe?
+Dialogue: 100,0:08:25.71,0:08:30.29,Dialogue,,0,0,0,,Și Akane Ryuuzouji, \Nși Sui Yamada au fost capturate.
+Dialogue: 100,0:08:30.82,0:08:33.07,Dialogue,,0,0,0,,Akane și Sui? De ce?
+Dialogue: 100,0:08:33.42,0:08:40.08,Dialogue,,0,0,0,,Ele, la fel ca și Mira Suou, \Npar să te placă destul de mult.
+Dialogue: 100,0:08:40.32,0:08:44.54,Dialogue,,0,0,0,,Nu te putem lăsa să-ți uiți poziția și să umbli pe unde ai tu chef.
+Dialogue: 100,0:08:45.33,0:08:49.09,Dialogue,,0,0,0,,Vei veni cu noi în SUA.
+Dialogue: 100,0:08:49.31,0:08:50.56,Dialogue,,0,0,0,,SUA?
+Dialogue: 100,0:08:50.56,0:08:54.48,Dialogue,,0,0,0,,E mult prea periculos să rămâi în Japonia cu teroristele din Izanami prin preajmă.
+Dialogue: 100,0:08:54.48,0:08:56.72,Dialogue,,0,0,0,,Tu ești cea mai importantă \Npersoană din lume.
+Dialogue: 100,0:08:56.72,0:09:00.06,Dialogue,,0,0,0,,Asta înseamnă că trebuie \Nsă te ținem în siguranță.
+Dialogue: 100,0:09:00.85,0:09:06.35,Dialogue,,0,0,0,,Nu-ți face griji. Directorul mi-a spus să mă asigur că ești tratat cum trebuie.
+Dialogue: 100,0:09:06.35,0:09:08.72,Dialogue,,0,0,0,,Urcă. Mergem la aeroport chiar acum.
+Dialogue: 100,0:09:09.86,0:09:11.40,Dialogue,,0,0,0,,Bună!
+Dialogue: 100,0:09:12.52,0:09:14.11,Dialogue,,0,0,0,,Cum ai...
+Dialogue: 100,0:09:16.50,0:09:17.74,Dialogue,,0,0,0,,Nu vei muri de la atât!
+Dialogue: 100,0:09:17.74,0:09:19.67,Dialogue,,0,0,0,,Akane! Sui!
+Dialogue: 100,0:09:19.67,0:09:20.99,Dialogue,,0,0,0,,Nu miscați!
+Dialogue: 100,0:09:21.44,0:09:24.10,Dialogue,,0,0,0,,Arma e încărcată.
+Dialogue: 100,0:09:24.57,0:09:26.12,Dialogue,,0,0,0,,Și nu mă tem s-o folosesc.
+Dialogue: 100,0:09:38.32,0:09:39.46,Dialogue,,0,0,0,,Suou!
+Dialogue: 100,0:09:40.07,0:09:41.04,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 100,0:09:42.05,0:09:44.77,Dialogue,,0,0,0,,Ea ne-a salvat și pe noi.
+Dialogue: 100,0:09:44.77,0:09:47.27,Dialogue,,0,0,0,,Katagiri! Kuroda!
+Dialogue: 100,0:09:48.23,0:09:50.51,Dialogue,,0,0,0,,Ce tot faceți? Grăbiți-vă.
+Dialogue: 100,0:09:55.32,0:09:57.53,Dialogue,,0,0,0,,GPS-ul e oprit încă de ieri!
+Dialogue: 100,0:09:57.53,0:10:00.15,Dialogue,,0,0,0,,Interceptați-le canalele \Nde comunicații și găsiți-i!
+Dialogue: 100,0:10:00.15,0:10:03.02,Dialogue,,0,0,0,,Nu-i putem lăsa să ajungă \Npe autostradă! Grăbiți-vă!
+Dialogue: 100,0:10:03.79,0:10:08.04,Dialogue,,0,0,0,,Se pare că personalul e destul de agitat dintr-un oarecare motiv.
+Dialogue: 100,0:10:08.04,0:10:09.92,Dialogue,,0,0,0,,S-a întâmplat ceva?
+Dialogue: 100,0:10:09.92,0:10:13.42,Dialogue,,0,0,0,,Una din fetele mele a \Nfăcut o mică greșeală.
+Dialogue: 100,0:10:13.76,0:10:16.06,Dialogue,,0,0,0,,Dar nu e nimic grav.
+Dialogue: 100,0:10:16.06,0:10:22.05,Dialogue,,0,0,0,,Și acum, nu ați bătut tot drumul din Keimon până aici doar ca să mă salutați, nu?
+Dialogue: 100,0:10:22.43,0:10:24.56,Dialogue,,0,0,0,,Am dreptate, Doi?
+Dialogue: 100,0:10:26.36,0:10:30.81,Dialogue,,0,0,0,,Din moment ce sunt însoțitoarea lui Shouta, mi-ar plăcea mie să vorbesc în locul lui.
+Dialogue: 100,0:10:33.40,0:10:36.14,Dialogue,,0,0,0,,Vreau să facem o înțelegere!
+Dialogue: 100,0:10:39.33,0:10:41.75,Dialogue,,0,0,0,,Ce spui? Nu sună rău deloc, nu?
+Dialogue: 100,0:10:42.40,0:10:46.80,Dialogue,,0,0,0,,Îți înțeleg propunerea. \NChiar pare plauzibilă.
+Dialogue: 100,0:10:46.80,0:10:48.83,Dialogue,,0,0,0,,Mă voi gândi la ea.
+Dialogue: 100,0:10:50.06,0:10:53.79,Dialogue,,0,0,0,,Și mai am o cerere...
+Dialogue: 100,0:10:53.79,0:10:56.21,Dialogue,,0,0,0,,Sigur. Spune ce dorești.
+Dialogue: 100,0:10:56.56,0:11:00.02,Dialogue,,0,0,0,,Vreau să mă prezinți celor Trei Magi.
+Dialogue: 100,0:11:00.84,0:11:06.48,Dialogue,,0,0,0,,Am auzit despre ele. \NSunt cele trei genii care conduc OF.
+Dialogue: 100,0:11:06.48,0:11:08.85,Dialogue,,0,0,0,,Toate au vârste diferite și \Nsunt născute în locuri diferite!
+Dialogue: 100,0:11:08.85,0:11:12.60,Dialogue,,0,0,0,,Singurele lucruri pe care le au în comun sunt geniul lor strălucit
+Dialogue: 100,0:11:12.93,0:11:16.11,Dialogue,,0,0,0,,și ura lor față de bărbați, presupun.
+Dialogue: 100,0:11:18.49,0:11:21.05,Dialogue,,0,0,0,,Ce? Am nimerit?
+Dialogue: 100,0:11:21.05,0:11:23.24,Dialogue,,0,0,0,,Eu doar glumeam!
+Dialogue: 100,0:11:23.74,0:11:27.99,Dialogue,,0,0,0,,Dacă Doi va fi cooperativ,
+Dialogue: 100,0:11:27.99,0:11:30.50,Dialogue,,0,0,0,,vei avea ocazia.
+Dialogue: 100,0:11:32.57,0:11:36.15,Dialogue,,0,0,0,,Ei bine, ne poți aranja o \Nîntâlnire pentru mai târziu.
+Dialogue: 100,0:11:36.15,0:11:38.30,Dialogue,,0,0,0,,Oh, și încă un lucru.
+Dialogue: 100,0:11:38.77,0:11:40.01,Dialogue,,0,0,0,,Ce este?
+Dialogue: 100,0:11:40.01,0:11:44.51,Dialogue,,0,0,0,,Vei ocupa Japonia?
+Dialogue: 100,0:11:44.76,0:11:51.02,Dialogue,,0,0,0,,„Ocupa?” Dacă știu bine japoneză, nu ăsta e termenul corect.
+Dialogue: 100,0:11:51.47,0:11:57.02,Dialogue,,0,0,0,,Am fost trimise de la sediul mondial OF ca să protejăm populația Japoniei.
+Dialogue: 100,0:11:57.02,0:11:59.59,Dialogue,,0,0,0,,Poți folosi ce cuvânt dorești,
+Dialogue: 100,0:11:59.59,0:12:03.66,Dialogue,,0,0,0,,dar cred că o persoană japoneză ar trebui să conducă Japonia.
+Dialogue: 100,0:12:03.96,0:12:07.78,Dialogue,,0,0,0,,Văd că-ți place să mă iei \Npe ocolite. Spune-o direct.
+Dialogue: 100,0:12:09.41,0:12:12.04,Dialogue,,0,0,0,,Îmi vei oferi mie acel post?
+Dialogue: 100,0:12:14.94,0:12:17.55,Dialogue,,0,0,0,,Cel de ministrur al Afacerilor Interne.
+Dialogue: 100,0:12:25.96,0:12:26.93,Dialogue,,0,0,0,,Acesta e locul.
+Dialogue: 100,0:12:34.56,0:12:35.56,Dialogue,,0,0,0,,Frățioare Rei!
+Dialogue: 100,0:12:35.84,0:12:37.06,Dialogue,,0,0,0,,Mahiru!
+Dialogue: 100,0:12:37.80,0:12:39.94,Dialogue,,0,0,0,,Mă bucur că ai ajuns aici!
+Dialogue: 100,0:12:40.33,0:12:42.64,Dialogue,,0,0,0,,Toată lumea m-a ajutat.
+Dialogue: 100,0:12:42.64,0:12:44.70,Dialogue,,0,0,0,,Vă mulțumesc.
+Dialogue: 100,0:12:44.96,0:12:49.15,Dialogue,,0,0,0,,Chiar mă întrebam ce ar putea dori Katagiri contactându-mă atât de brusc.
+Dialogue: 100,0:12:49.15,0:12:52.20,Dialogue,,0,0,0,,Se pare că vrea s-o ajute pe Mahiru să părăsească acest loc!
+Dialogue: 100,0:12:52.20,0:12:54.82,Dialogue,,0,0,0,,O cunoașteți pe Katagiri, nu?
+Dialogue: 100,0:12:55.41,0:12:59.41,Dialogue,,0,0,0,,Am fost un ofițer relații publice, deci cunosc multe persoane.
+Dialogue: 100,0:12:59.97,0:13:05.24,Dialogue,,0,0,0,,Pe succesoarea lui Katagiri \Nnu o interesează deloc de noi.
+Dialogue: 100,0:13:05.24,0:13:09.62,Dialogue,,0,0,0,,Toată lumea urăște OF, \Ndar o iubim pe ea!
+Dialogue: 100,0:13:11.13,0:13:11.97,Dialogue,,0,0,0,,Ce e?
+Dialogue: 100,0:13:11.97,0:13:13.89,Dialogue,,0,0,0,,Nimic...
+Dialogue: 100,0:13:13.89,0:13:19.51,Dialogue,,0,0,0,,Totuși, încă nu-mi vine să cred că Mizuhara Reito e fratele tău!
+Dialogue: 100,0:13:19.51,0:13:21.23,Dialogue,,0,0,0,,Îmi cer scuze că nu v-am spus.
+Dialogue: 100,0:13:21.52,0:13:24.99,Dialogue,,0,0,0,,Toată lumea are secrete în zilele noastre.
+Dialogue: 100,0:13:26.61,0:13:29.69,Dialogue,,0,0,0,,Ești mai drăguț în \Nrealitate decât la TV!
+Dialogue: 100,0:13:29.69,0:13:30.23,Dialogue,,0,0,0,,Mulțumesc.
+Dialogue: 100,0:13:30.23,0:13:34.00,Dialogue,,0,0,0,,Hei, ia-ți mâinile de pe \Ncomoara umanității!
+Dialogue: 100,0:13:34.00,0:13:36.32,Dialogue,,0,0,0,,Care-i problema? \NNu-l mănânc sau ceva.
+Dialogue: 100,0:13:36.86,0:13:38.35,Dialogue,,0,0,0,,E pregătită?
+Dialogue: 100,0:13:38.35,0:13:41.25,Dialogue,,0,0,0,,Da. E puțin veche, \Ndar încă funcționează.
+Dialogue: 100,0:13:41.57,0:13:42.88,Dialogue,,0,0,0,,Mersi.
+Dialogue: 100,0:13:42.88,0:13:46.17,Dialogue,,0,0,0,,Soră mai mare... \Nce vei face acum?
+Dialogue: 100,0:13:48.07,0:13:49.51,Dialogue,,0,0,0,,Ascultați-mă, toată lumea.
+Dialogue: 100,0:13:49.51,0:13:53.14,Dialogue,,0,0,0,,Vom sta aici până la apus.
+Dialogue: 100,0:13:53.14,0:13:54.20,Dialogue,,0,0,0,,Și apoi?
+Dialogue: 100,0:13:54.20,0:13:55.40,Dialogue,,0,0,0,,Am un plan.
+Dialogue: 100,0:13:55.96,0:13:59.15,Dialogue,,0,0,0,,Îl vom pune în aplicare la lăsarea nopții. Până atunci, odihniți-vă.
+Dialogue: 100,0:13:59.37,0:14:02.15,Dialogue,,0,0,0,,Mulțumim, Katagiri.
+Dialogue: 100,0:14:03.24,0:14:04.94,Dialogue,,0,0,0,,Nu o fac pentru tine.
+Dialogue: 100,0:14:12.43,0:14:14.91,Dialogue,,0,0,0,,Ne putem alătura și noi?
+Dialogue: 100,0:14:19.92,0:14:25.42,Dialogue,,0,0,0,,După ce ai crescut, \Npărea că vei uita de noi.
+Dialogue: 100,0:14:26.03,0:14:28.56,Dialogue,,0,0,0,,Dar încă mai faci fața asta, nu?
+Dialogue: 100,0:14:28.56,0:14:30.55,Dialogue,,0,0,0,,Îți plăcea mai mult cum eram înainte?
+Dialogue: 100,0:14:30.83,0:14:32.16,Dialogue,,0,0,0,,Nu prea știu.
+Dialogue: 100,0:14:32.16,0:14:34.31,Dialogue,,0,0,0,,Îmi plăcea cât de drăguț erai!
+Dialogue: 100,0:14:34.60,0:14:37.71,Dialogue,,0,0,0,,Chiar dacă îți fac asta acum?
+Dialogue: 100,0:14:40.57,0:14:44.07,Dialogue,,0,0,0,,Shouta... ai fost uimitor.
+Dialogue: 100,0:14:44.52,0:14:46.10,Dialogue,,0,0,0,,Odihniți-vă acum.
+Dialogue: 100,0:14:49.85,0:14:51.13,Dialogue,,0,0,0,,Cum a fost?
+Dialogue: 100,0:14:52.04,0:14:53.68,Dialogue,,0,0,0,,Grozav.
+Dialogue: 100,0:14:53.68,0:14:56.70,Dialogue,,0,0,0,,Au trecut câteva zile de când \Nnu te-ai mai împerecheat.
+Dialogue: 100,0:14:56.70,0:14:59.33,Dialogue,,0,0,0,,Pariez că te-ai simțit destul de bine.
+Dialogue: 100,0:14:59.73,0:15:02.33,Dialogue,,0,0,0,,Da, chiar a fost grozav.
+Dialogue: 100,0:15:04.48,0:15:05.56,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 100,0:15:06.00,0:15:11.11,Dialogue,,0,0,0,,Nimic, doar că acum pari un adult în toată firea! Mă bucur!
+Dialogue: 100,0:15:11.11,0:15:13.35,Dialogue,,0,0,0,,Ne-a dat un Mansfield un răspuns?
+Dialogue: 100,0:15:13.35,0:15:16.47,Dialogue,,0,0,0,,Tot ce a spus e: „Mă voi gândi la asta.”
+Dialogue: 100,0:15:16.47,0:15:20.00,Dialogue,,0,0,0,,Bănuiesc că nu va fi atât de ușor să facem rost de postul de ministru al Afacerilor Interne.
+Dialogue: 100,0:15:20.72,0:15:24.11,Dialogue,,0,0,0,,Și se pare că Numărul 2 a fugit.
+Dialogue: 100,0:15:25.83,0:15:29.11,Dialogue,,0,0,0,,{\i1}E mai curajos decât credeam.
+Dialogue: 100,0:15:29.11,0:15:32.03,Dialogue,,0,0,0,,O să fim destul de ocupați!
+Dialogue: 100,0:15:32.03,0:15:34.54,Dialogue,,0,0,0,,Va trebuie să le cerem \Najutorul și fetelor!
+Dialogue: 100,0:15:41.07,0:15:42.25,Dialogue,,0,0,0,,Aceea e.
+Dialogue: 100,0:15:42.79,0:15:43.98,Dialogue,,0,0,0,,Vom folosi această navă?
+Dialogue: 100,0:15:45.75,0:15:48.04,Dialogue,,0,0,0,,Până aici putem merge eu și cu Mira.
+Dialogue: 100,0:15:48.04,0:15:51.71,Dialogue,,0,0,0,,Unul din oamenii mei vă va ajuta să ieșiți din zona maritimă a Japoniei.
+Dialogue: 100,0:15:51.71,0:15:54.26,Dialogue,,0,0,0,,Pentru mai multe detalii, vorbiți cu ea.
+Dialogue: 100,0:15:54.57,0:15:58.52,Dialogue,,0,0,0,,Katagiri, îți mulțumesc.
+Dialogue: 100,0:15:58.81,0:16:02.49,Dialogue,,0,0,0,,Pe fratele tău, Mizuhara Ryuu...
+Dialogue: 100,0:16:02.49,0:16:04.40,Dialogue,,0,0,0,,Voi face tot ce pot ca să-l protejez.
+Dialogue: 100,0:16:04.40,0:16:07.32,Dialogue,,0,0,0,,Îți mulțumesc că ai grijă de fratele meu.
+Dialogue: 100,0:16:07.32,0:16:08.53,Dialogue,,0,0,0,,Și eu îți mulțumesc!
+Dialogue: 100,0:16:10.18,0:16:10.99,Dialogue,,0,0,0,,Reito.
+Dialogue: 100,0:16:11.28,0:16:13.41,Dialogue,,0,0,0,,Noi o vom lua înainte.
+Dialogue: 100,0:16:13.41,0:16:15.12,Dialogue,,0,0,0,,Vin și eu!
+Dialogue: 100,0:16:20.04,0:16:22.70,Dialogue,,0,0,0,,Ei bine, Suou...
+Dialogue: 100,0:16:23.24,0:16:24.00,Dialogue,,0,0,0,,Da?
+Dialogue: 100,0:16:24.41,0:16:27.75,Dialogue,,0,0,0,,Îți mulțumesc pentru tot.
+Dialogue: 100,0:16:27.75,0:16:30.24,Dialogue,,0,0,0,,Nu, eu nu am făcut nimic.
+Dialogue: 100,0:16:34.80,0:16:40.77,Dialogue,,0,0,0,,Eu ar trebui să-ți mulțumesc. \NA fost o onoare să-ți fiu alături.
+Dialogue: 100,0:16:46.75,0:16:49.42,Dialogue,,0,0,0,,Îți promit că mă voi întoarce!
+Dialogue: 100,0:16:50.22,0:16:53.54,Dialogue,,0,0,0,,Ai grijă de tine până atunci.
+Dialogue: 100,0:16:55.82,0:16:56.62,Dialogue,,0,0,0,,Voi avea.
+Dialogue: 100,0:17:07.18,0:17:11.63,Dialogue,,0,0,0,,Reito, ea ne va ajuta să \Npărăsim zona maritimă a Japoniei.
+Dialogue: 100,0:17:11.63,0:17:12.66,Dialogue,,0,0,0,,Ești cumva...
+Dialogue: 100,0:17:12.66,0:17:14.67,Dialogue,,0,0,0,,Da. Sunt membră Izanami.
+Dialogue: 100,0:17:14.96,0:17:16.55,Dialogue,,0,0,0,,{\i1}Organizația misterioasă?
+Dialogue: 100,0:17:16.55,0:17:19.56,Dialogue,,0,0,0,,Vom naviga spre sud.
+Dialogue: 100,0:17:19.56,0:17:22.23,Dialogue,,0,0,0,,Spre sud? Încotro ne îndreptăm?
+Dialogue: 100,0:17:22.23,0:17:23.30,Dialogue,,0,0,0,,Taiwan.
+Dialogue: 100,0:17:23.30,0:17:25.94,Dialogue,,0,0,0,,O vei întâlni pe Erisa acolo.
+Dialogue: 100,0:17:26.84,0:17:30.08,Dialogue,,0,0,0,,Taiwan? Nu Niigata?
+Dialogue: 100,0:17:30.08,0:17:33.32,Dialogue,,0,0,0,,E prea riscant să rămânem doar în Japonia.
+Dialogue: 100,0:17:33.64,0:17:35.82,Dialogue,,0,0,0,,Erisa e și ea pe drum.
+Dialogue: 100,0:17:36.29,0:17:37.40,Dialogue,,0,0,0,,Erisa...
+Dialogue: 100,0:17:37.40,0:17:39.07,Dialogue,,0,0,0,,A spus că vrea să te vadă.
+Dialogue: 100,0:17:46.28,0:17:49.63,Dialogue,,0,0,0,,S-au întâmplat atât de multe de când am fost trezit din somnul criogenic.
+Dialogue: 100,0:17:52.75,0:17:54.01,Dialogue,,0,0,0,,{\i1}Suou...
+Dialogue: 100,0:17:55.66,0:17:58.14,Dialogue,,0,0,0,,{\i1}chiar nu poți trăda filiala japoneză a OF?
+Dialogue: 100,0:17:59.08,0:18:01.56,Dialogue,,0,0,0,,Te gândeai la Suou, nu-i așa?
+Dialogue: 100,0:18:01.56,0:18:03.53,Dialogue,,0,0,0,,Mahiru, nu e...
+Dialogue: 100,0:18:03.53,0:18:05.14,Dialogue,,0,0,0,,Îi voi spune lui Erisa!
+Dialogue: 100,0:18:05.14,0:18:06.16,Dialogue,,0,0,0,,De ce?
+Dialogue: 100,0:18:06.16,0:18:08.26,Dialogue,,0,0,0,,Pentru tine.
+Dialogue: 100,0:18:09.35,0:18:10.29,Dialogue,,0,0,0,,O tabletă?
+Dialogue: 100,0:18:10.73,0:18:11.90,Dialogue,,0,0,0,,De la cine?
+Dialogue: 100,0:18:11.90,0:18:12.85,Dialogue,,0,0,0,,Nu știu.
+Dialogue: 100,0:18:14.88,0:18:17.44,Dialogue,,0,0,0,,De ce e supărată?
+Dialogue: 100,0:18:17.44,0:18:19.41,Dialogue,,0,0,0,,Oh, e pornită.
+Dialogue: 100,0:18:20.41,0:18:21.58,Dialogue,,0,0,0,,{\i1}Hino!
+Dialogue: 100,0:18:21.58,0:18:24.72,Dialogue,,0,0,0,,Ești mai curajos decât pari!
+Dialogue: 100,0:18:24.72,0:18:27.50,Dialogue,,0,0,0,,{\i1}Scuze dacă ți-ai făcut griji.
+Dialogue: 100,0:18:27.50,0:18:29.17,Dialogue,,0,0,0,,Dar cred că ai făcut alegerea corectă.
+Dialogue: 100,0:18:29.62,0:18:35.30,Dialogue,,0,0,0,,Tipa aia blondă mi-a spus că nu mai am voie să mă împerechez și nu mă lasă să plec.
+Dialogue: 100,0:18:35.30,0:18:37.66,Dialogue,,0,0,0,,{\i1}Pot spune că sunt arestat la domiciliu!
+Dialogue: 100,0:18:37.66,0:18:40.22,Dialogue,,0,0,0,,Mi-aș fi dorit să poți veni și tu cu noi...
+Dialogue: 100,0:18:40.22,0:18:43.41,Dialogue,,0,0,0,,Dar a trebuit să ne mișcăm repede.
+Dialogue: 100,0:18:43.41,0:18:49.35,Dialogue,,0,0,0,,{\i1}Ei bine, tableta asta e specială. Draga și talentata mea însoțitoare a pregătit-o pentru mine.
+Dialogue: 100,0:18:49.35,0:18:54.45,Dialogue,,0,0,0,,Dacă folosește o rețea de net ascunsă, OF nu o va putea găsi.
+Dialogue: 100,0:18:54.45,0:18:55.36,Dialogue,,0,0,0,,{\i1}Și...
+Dialogue: 100,0:18:56.07,0:18:58.72,Dialogue,,0,0,0,,{\i1}Ține-mă la curent cu ceea \Nce faci din când în când!
+Dialogue: 100,0:18:58.72,0:19:00.80,Dialogue,,0,0,0,,Da, ai grijă, Hino.
+Dialogue: 100,0:19:00.80,0:19:02.90,Dialogue,,0,0,0,,{\i1}Salut-o pe Mahiru din partea mea!
+Dialogue: 100,0:19:08.29,0:19:13.08,Dialogue,,0,0,0,,Îmi fac griji pentru Mizuhara, dar și pentru celelalte persoane care nu sunt aici.
+Dialogue: 100,0:19:13.08,0:19:14.49,Dialogue,,0,0,0,,Și pentru Kitayama.
+Dialogue: 100,0:19:14.49,0:19:19.51,Dialogue,,0,0,0,,Voi face tot ce pot ca \Nfetele să fie în siguranță.
+Dialogue: 100,0:19:19.87,0:19:22.89,Dialogue,,0,0,0,,Da, îți mulțumesc pentru tot.
+Dialogue: 100,0:19:23.11,0:19:28.64,Dialogue,,0,0,0,,Hino, voiai să mergi și tu cu Mizuhara?
+Dialogue: 100,0:19:28.92,0:19:30.14,Dialogue,,0,0,0,,Nu...
+Dialogue: 100,0:19:32.81,0:19:37.15,Dialogue,,0,0,0,,Nu le pot lăsa în urmă.
+Dialogue: 100,0:19:37.40,0:19:38.71,Dialogue,,0,0,0,,Hino...
+Dialogue: 100,0:19:46.12,0:19:50.37,Dialogue,,0,0,0,,Oh, aceea e partenera de \Nîmperecheat a Numărului 1.
+Dialogue: 100,0:19:51.42,0:19:52.92,Dialogue,,0,0,0,,E drăguță.
+Dialogue: 100,0:19:55.27,0:19:56.42,Dialogue,,0,0,0,,Au!
+Dialogue: 100,0:19:56.42,0:19:58.75,Dialogue,,0,0,0,,V-Vă rog să mă iertați!
+Dialogue: 100,0:19:58.75,0:20:03.82,Dialogue,,0,0,0,,A fost chiar atât de greu să aduci un singur bărbat înapoi?
+Dialogue: 100,0:20:03.82,0:20:05.43,Dialogue,,0,0,0,,Mai oferiți-mi încă o șansă.
+Dialogue: 100,0:20:05.72,0:20:09.56,Dialogue,,0,0,0,,Știi ce se va întâmpla \Ndacă dai greș, nu?
+Dialogue: 100,0:20:10.53,0:20:12.23,Dialogue,,0,0,0,,Da, doamnă.
+Dialogue: 100,0:20:14.08,0:20:17.46,Dialogue,,0,0,0,,Și acum, e rândul vostru.
+Dialogue: 100,0:20:18.44,0:20:23.36,Dialogue,,0,0,0,,Ar fi trebuit să stau cu ochii pe amândouă.
+Dialogue: 100,0:20:23.36,0:20:26.52,Dialogue,,0,0,0,,Eu am plănuit totul.
+Dialogue: 100,0:20:26.52,0:20:28.70,Dialogue,,0,0,0,,Fosta însoțitoare, Suou, \Nnu a fost implicată deloc.
+Dialogue: 100,0:20:29.72,0:20:32.36,Dialogue,,0,0,0,,Ce prietenie frumoasă.
+Dialogue: 100,0:20:32.36,0:20:38.48,Dialogue,,0,0,0,,Sau... poate că „prietenie” nu e cuvântul corect care să descrie asta?
+Dialogue: 100,0:20:40.34,0:20:42.82,Dialogue,,0,0,0,,Duceți-le în celule.
+Dialogue: 100,0:20:43.28,0:20:43.99,Dialogue,,0,0,0,,Să mergem.
+Dialogue: 100,0:20:46.60,0:20:49.81,Dialogue,,0,0,0,,Și acum, e timpul pentru următoarea etapă...
+Dialogue: 100,0:20:50.60,0:20:53.26,Dialogue,,0,0,0,,a planului de exterminare \Na tuturor bărbaților...
+Dialogue: 100,0:20:55.63,0:20:56.98,Dialogue,,0,0,0,,Și am ajuns!
+Dialogue: 100,0:20:57.31,0:20:58.27,Dialogue,,0,0,0,,Ce e acest loc?
+Dialogue: 100,0:20:58.27,0:21:00.98,Dialogue,,0,0,0,,Asta e o fereastră cu \Nvedere unidirecțională!
+Dialogue: 100,0:21:04.40,0:21:05.49,Dialogue,,0,0,0,,Ce e asta?
+Dialogue: 100,0:21:05.81,0:21:10.24,Dialogue,,0,0,0,,Îți voi da o nouă fată drept \Ncadou pentru renașterea ta!
+Dialogue: 100,0:21:10.76,0:21:13.37,Dialogue,,0,0,0,,Alege pe cine dorești.
+Dialogue: 100,0:21:13.37,0:21:14.91,Dialogue,,0,0,0,,Pe oricine doresc de acolo?
+Dialogue: 100,0:21:16.09,0:21:18.06,Dialogue,,0,0,0,,Pe ea am văzut-o ieri...
+Dialogue: 100,0:21:18.06,0:21:22.51,Dialogue,,0,0,0,,Era o actriță când tu \Nai fost criogenizat.
+Dialogue: 100,0:21:22.76,0:21:25.60,Dialogue,,0,0,0,,Mă gândeam eu că-mi părea cunoscută.
+Dialogue: 100,0:21:25.60,0:21:28.11,Dialogue,,0,0,0,,Dar ea e partenera lui Hino, nu?
+Dialogue: 100,0:21:28.11,0:21:34.48,Dialogue,,0,0,0,,{\q2}Când cei de la sediul mondial OF au venit, au cerut oprirea \Nactelor de împerechere pentru toate Numerele, nu?
+Dialogue: 100,0:21:34.48,0:21:36.39,Dialogue,,0,0,0,,Cu excepția ta.
+Dialogue: 100,0:21:36.69,0:21:40.77,Dialogue,,0,0,0,,Vreau să-i permiți lui Shouta să se împerecheze, desigur, sub anumite condiții.
+Dialogue: 100,0:21:40.77,0:21:44.36,Dialogue,,0,0,0,,Înțeleg. Deci la asta te refereai.
+Dialogue: 100,0:21:45.11,0:21:48.28,Dialogue,,0,0,0,,Această lume e uimitoare!
+Dialogue: 100,0:21:48.53,0:21:51.78,Dialogue,,0,0,0,,Și acum, pe cine vei alege?
+Dialogue: 100,0:21:54.19,0:21:56.29,Dialogue,,0,0,0,,Ne vom îndrepta spre \Npunctul de întâlnire acum.
+Dialogue: 100,0:21:56.60,0:21:57.91,Dialogue,,0,0,0,,Cât de frumos!
+Dialogue: 100,0:21:59.45,0:22:01.10,Dialogue,,0,0,0,,E incredibil!
+Dialogue: 100,0:22:01.80,0:22:02.80,Dialogue,,0,0,0,,Uau.
+Dialogue: 100,0:22:02.80,0:22:03.71,Dialogue,,0,0,0,,Acesta e locul.
+Dialogue: 100,0:22:04.54,0:22:05.67,Dialogue,,0,0,0,,{\i1}Erisa...
+Dialogue: 100,0:22:06.04,0:22:07.74,Dialogue,,0,0,0,,{\i1}Vor reuși în sfârșit să te văd?
+Dialogue: 100,0:22:26.39,0:22:27.43,Dialogue,,0,0,0,,Erisa...
+Dialogue: 100,0:22:28.60,0:22:29.75,Dialogue,,0,0,0,,Reito...
+Dialogue: 100,0:22:35.41,0:22:38.85,Dialogue,,0,0,0,,Reito, mă bucur că te-ai vindecat...
+Dialogue: 100,0:22:39.62,0:22:42.26,Dialogue,,0,0,0,,Sunt... Sunt așa de fericit că ești bine!
+Dialogue: 100,0:22:44.92,0:22:46.13,Dialogue,,0,0,0,,Te-am așteptat...
+Dialogue: 100,0:22:49.60,0:22:50.92,Dialogue,,0,0,0,,atât de mult...
+Dialogue: 100,0:22:52.64,0:22:56.35,Dialogue,,0,0,0,,Erisa, voi crea un vaccin pentru virusul MK.
+Dialogue: 100,0:22:59.10,0:23:02.48,Dialogue,,0,0,0,,Dacă nimeni altcineva nu \No va face, o vom face noi.
+Dialogue: 100,0:23:02.48,0:23:06.11,Dialogue,,0,0,0,,Dacă vom lucra împreună, \Nvom avea mai multe șanse să reușim...
+Dialogue: 100,0:23:06.11,0:23:07.06,Dialogue,,0,0,0,,Nu-i așa?
+Dialogue: 100,0:23:09.17,0:23:10.02,Dialogue,,0,0,0,,Da.
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HC2C3C7&\blur5\clip(722,240,1193,245)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HC0C1C6&\blur5\clip(722,245,1193,250)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HBFC0C5&\blur5\clip(722,250,1193,255)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HBEBFC4&\blur5\clip(722,255,1193,260)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HBDBEC3&\blur5\clip(722,260,1193,265)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HBCBDC3&\blur5\clip(722,265,1193,270)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HBBBCC2&\blur5\clip(722,270,1193,275)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HBABBC1&\blur5\clip(722,275,1193,280)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB9BAC0&\blur5\clip(722,280,1193,285)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB8B9BF&\blur5\clip(722,285,1193,290)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB7B8BF&\blur5\clip(722,290,1193,295)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB6B7BE&\blur5\clip(722,295,1193,300)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB5B6BD&\blur5\clip(722,300,1193,305)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB4B5BC&\blur5\clip(722,305,1193,310)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB3B4BB&\blur5\clip(722,310,1193,315)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB2B3BB&\blur5\clip(722,315,1193,320)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HB0B2BA&\blur5\clip(722,320,1193,325)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HAFB1B9&\blur5\clip(722,325,1193,330)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HAEB0B8&\blur5\clip(722,330,1193,335)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HADAFB7&\blur5\clip(722,335,1193,340)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HACAEB7&\blur5\clip(722,340,1193,345)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HABADB6&\blur5\clip(722,345,1193,350)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HAAACB5&\blur5\clip(722,350,1193,355)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HA9ABB4&\blur5\clip(722,355,1193,360)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HA8AAB3&\blur5\clip(722,360,1193,365)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HA7A9B3&\blur5\clip(722,365,1193,370)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HA6A8B2&\blur5\clip(722,370,1193,375)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HA5A7B1&\blur5\clip(722,375,1193,380)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HA4A6B0&\blur5\clip(722,380,1193,385)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 0,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\an7\pos(965,316)\c&HA3A5AF&\blur5\clip(722,385,1193,390)\p1}m -227 -59 l 212 -59 212 59 -227 59
+Dialogue: 1,0:03:43.37,0:03:45.87,DedzuyaSigns,,0,0,0,,{\pos(966,316)\fnAmble\fs80\b1\c&H2E323F&\blur0.9}Doi Shouta
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEBE5&\blur5\clip(712,243,1195,248)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE4&\blur5\clip(712,248,1195,253)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE4&\blur5\clip(712,253,1195,258)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE4&\blur5\clip(712,258,1195,263)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE4&\blur5\clip(712,263,1195,268)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE4&\blur5\clip(712,268,1195,273)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE3&\blur5\clip(712,273,1195,278)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE3&\blur5\clip(712,278,1195,283)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE3&\blur5\clip(712,283,1195,288)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE3&\blur5\clip(712,288,1195,293)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE3&\blur5\clip(712,293,1195,298)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE3&\blur5\clip(712,298,1195,303)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE2&\blur5\clip(712,303,1195,308)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE2&\blur5\clip(712,308,1195,313)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE2&\blur5\clip(712,313,1195,318)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE2&\blur5\clip(712,318,1195,323)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE2&\blur5\clip(712,323,1195,328)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE1&\blur5\clip(712,328,1195,333)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE1&\blur5\clip(712,333,1195,338)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE1&\blur5\clip(712,338,1195,343)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE1&\blur5\clip(712,343,1195,348)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE1&\blur5\clip(712,348,1195,353)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE1&\blur5\clip(712,353,1195,358)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE0&\blur5\clip(712,358,1195,363)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE0&\blur5\clip(712,363,1195,368)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE0&\blur5\clip(712,368,1195,373)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE0&\blur5\clip(712,373,1195,378)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE0&\blur5\clip(712,378,1195,383)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 0,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\an7\pos(963,312)\c&HECEAE0&\blur5\clip(712,383,1195,388)\p1}m -235 -52 l 216 -52 216 59 -235 59
+Dialogue: 1,0:04:36.30,0:04:37.92,DedzuyaSigns,,0,0,0,,{\pos(966,316)\fnAmble\fs80\b1\c&H7E5539&\blur0.9}Mizuhara Reito
+Dialogue: 0,0:07:24.55,0:07:27.76,DedzuyaSigns,,0,0,0,,{\fad(1900,0)\an7\pos(1230,565)\frz13.89\frx5\fax0.11\bord3\c&HDAE4E8&\3c&HDAE4E8&\blur0.5\fry}Mizuhara Reito
+Dialogue: 1,0:07:24.55,0:07:27.76,DedzuyaSigns,,0,0,0,,{\fad(1900,0)\an7\pos(1230,565)\frz13.89\frx5\fax0.11\c&H64757A&\blur0.6\fry}Mizuhara Reito
+Dialogue: 0,0:07:24.55,0:07:27.76,DedzuyaSigns,,0,0,0,,{\fad(1900,0)\an7\pos(1259,640)\frz13.89\frx5\fax0.11\bord3\c&HDAE4E8&\3c&HDAE4E8&\blur0.5\fry}Mizuhara Reito
+Dialogue: 1,0:07:24.55,0:07:27.76,DedzuyaSigns,,0,0,0,,{\fad(1900,0)\an7\pos(1259,640)\frz13.89\frx5\fax0.11\c&H64757A&\blur0.6\fry}Mizuhara Reito
+Dialogue: 0,0:07:24.55,0:07:27.76,DedzuyaSigns,,0,0,0,,{\fad(1900,0)\an7\pos(1285,715)\frz13.89\frx5\fax0.11\bord3\c&HDAE4E8&\3c&HDAE4E8&\blur0.5\fry}Mizuhara Reito
+Dialogue: 1,0:07:24.55,0:07:27.76,DedzuyaSigns,,0,0,0,,{\fad(1900,0)\an7\pos(1285,715)\frz13.89\frx5\fax0.11\c&H64757A&\blur0.6\fry}Mizuhara Reito
+Dialogue: 0,0:08:19.48,0:08:23.44,DedzuyaSigns,,0,0,0,,Episodul 11
+Dialogue: 0,0:08:19.48,0:08:23.44,DedzuyaSigns,,0,0,0,,Evadarea
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HD0CFCC&\blur5\clip(563,340,1368,341)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HD0CFCC&\blur5\clip(563,342,1368,343)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCFCECB&\blur5\clip(563,343,1368,344)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCFCECB&\blur5\clip(563,344,1368,345)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCFCECB&\blur5\clip(563,345,1368,346)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCECDCA&\blur5\clip(563,346,1368,347)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCECDCA&\blur5\clip(563,347,1368,348)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCECDCA&\blur5\clip(563,348,1368,349)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCDCCC9&\blur5\clip(563,349,1368,350)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCDCCC9&\blur5\clip(563,350,1368,351)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCDCBC9&\blur5\clip(563,351,1368,352)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCCCBC8&\blur5\clip(563,352,1368,353)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCCCBC8&\blur5\clip(563,353,1368,354)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCBCAC7&\blur5\clip(563,354,1368,355)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCBCAC7&\blur5\clip(563,355,1368,356)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCBCAC7&\blur5\clip(563,356,1368,357)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCAC9C6&\blur5\clip(563,357,1368,358)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCAC9C6&\blur5\clip(563,358,1368,359)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HCAC9C6&\blur5\clip(563,359,1368,360)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC9C8C5&\blur5\clip(563,360,1368,361)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC9C8C5&\blur5\clip(563,361,1368,362)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC9C7C5&\blur5\clip(563,362,1368,363)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC8C7C4&\blur5\clip(563,363,1368,364)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC8C7C4&\blur5\clip(563,364,1368,365)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC8C6C4&\blur5\clip(563,365,1368,366)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC7C6C3&\blur5\clip(563,366,1368,367)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC7C6C3&\blur5\clip(563,367,1368,368)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC7C5C3&\blur5\clip(563,368,1368,369)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC6C5C2&\blur5\clip(563,369,1368,370)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC6C5C2&\blur5\clip(563,370,1368,371)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC5C4C1&\blur5\clip(563,371,1368,372)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC5C4C1&\blur5\clip(563,372,1368,373)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC5C4C1&\blur5\clip(563,373,1368,374)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC4C3C0&\blur5\clip(563,374,1368,375)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC4C3C0&\blur5\clip(563,375,1368,376)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC4C2C0&\blur5\clip(563,376,1368,377)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC3C2BF&\blur5\clip(563,377,1368,378)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC3C2BF&\blur5\clip(563,378,1368,379)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC3C1BF&\blur5\clip(563,379,1368,380)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC2C1BE&\blur5\clip(563,380,1368,381)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC2C1BE&\blur5\clip(563,381,1368,382)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC2C0BE&\blur5\clip(563,382,1368,383)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC1C0BD&\blur5\clip(563,383,1368,384)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC1C0BD&\blur5\clip(563,384,1368,385)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC1BFBD&\blur5\clip(563,385,1368,386)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC0BFBC&\blur5\clip(563,386,1368,387)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HC0BEBC&\blur5\clip(563,387,1368,388)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBFBEBB&\blur5\clip(563,388,1368,389)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBFBEBB&\blur5\clip(563,389,1368,390)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBFBDBB&\blur5\clip(563,390,1368,391)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBEBDBA&\blur5\clip(563,391,1368,392)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBEBDBA&\blur5\clip(563,392,1368,393)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBEBCBA&\blur5\clip(563,393,1368,394)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBDBCB9&\blur5\clip(563,394,1368,395)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBDBCB9&\blur5\clip(563,395,1368,396)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBDBBB9&\blur5\clip(563,396,1368,397)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBCBBB8&\blur5\clip(563,397,1368,398)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBCBAB8&\blur5\clip(563,398,1368,399)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBCBAB8&\blur5\clip(563,399,1368,400)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBBBAB7&\blur5\clip(563,400,1368,401)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBBB9B7&\blur5\clip(563,401,1368,402)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBBB9B7&\blur5\clip(563,402,1368,403)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBAB9B6&\blur5\clip(563,403,1368,404)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HBAB8B6&\blur5\clip(563,404,1368,405)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB9B8B5&\blur5\clip(563,405,1368,406)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB9B8B5&\blur5\clip(563,406,1368,407)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB9B7B5&\blur5\clip(563,407,1368,408)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB8B7B4&\blur5\clip(563,408,1368,409)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB8B7B4&\blur5\clip(563,409,1368,410)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB8B6B4&\blur5\clip(563,410,1368,411)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B6B3&\blur5\clip(563,411,1368,412)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B5B3&\blur5\clip(563,412,1368,413)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B5B3&\blur5\clip(563,413,1368,414)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B5B2&\blur5\clip(563,414,1368,415)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B4B2&\blur5\clip(563,415,1368,416)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B4B2&\blur5\clip(563,416,1368,417)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B4B1&\blur5\clip(563,417,1368,418)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B3B1&\blur5\clip(563,418,1368,419)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B3B1&\blur5\clip(563,419,1368,420)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B3B0&\blur5\clip(563,420,1368,421)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B2B0&\blur5\clip(563,421,1368,422)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B2AF&\blur5\clip(563,422,1368,423)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B1AF&\blur5\clip(563,423,1368,424)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B1AF&\blur5\clip(563,424,1368,425)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2B1AE&\blur5\clip(563,425,1368,426)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2B0AE&\blur5\clip(563,426,1368,427)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2B0AE&\blur5\clip(563,427,1368,428)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1B0AD&\blur5\clip(563,428,1368,429)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AFAD&\blur5\clip(563,429,1368,430)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AFAD&\blur5\clip(563,430,1368,431)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0AFAC&\blur5\clip(563,431,1368,432)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0AEAC&\blur5\clip(563,432,1368,433)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0AEAC&\blur5\clip(563,433,1368,434)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFADAB&\blur5\clip(563,434,1368,435)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFADAB&\blur5\clip(563,435,1368,436)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFADAB&\blur5\clip(563,436,1368,437)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEACAA&\blur5\clip(563,437,1368,438)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEACAA&\blur5\clip(563,438,1368,439)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADACA9&\blur5\clip(563,439,1368,440)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADABA9&\blur5\clip(563,440,1368,441)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADABA9&\blur5\clip(563,441,1368,442)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACABA8&\blur5\clip(563,442,1368,443)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACAAA8&\blur5\clip(563,443,1368,444)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACAAA8&\blur5\clip(563,444,1368,445)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABAAA7&\blur5\clip(563,445,1368,446)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA9A7&\blur5\clip(563,446,1368,447)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA9A7&\blur5\clip(563,447,1368,448)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA8A6&\blur5\clip(563,448,1368,449)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA8A6&\blur5\clip(563,449,1368,450)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA8A6&\blur5\clip(563,450,1368,451)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A7A5&\blur5\clip(563,451,1368,452)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A7A5&\blur5\clip(563,452,1368,453)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A7A5&\blur5\clip(563,453,1368,454)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A6A4&\blur5\clip(563,454,1368,455)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A6A4&\blur5\clip(563,455,1368,456)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A6A3&\blur5\clip(563,456,1368,457)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A5A3&\blur5\clip(563,457,1368,458)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A5A3&\blur5\clip(563,458,1368,459)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A2&\blur5\clip(563,459,1368,460)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A2&\blur5\clip(563,460,1368,461)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A2&\blur5\clip(563,461,1368,462)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A1&\blur5\clip(563,462,1368,463)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A1&\blur5\clip(563,463,1368,464)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A1&\blur5\clip(563,464,1368,465)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,465,1368,466)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,466,1368,467)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,467,1368,468)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,468,1368,469)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,469,1368,470)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,470,1368,471)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,471,1368,472)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,472,1368,473)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,473,1368,474)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,474,1368,475)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,475,1368,476)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A19F&\blur5\clip(563,476,1368,477)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA3A1A0&\blur5\clip(563,477,1368,478)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,478,1368,479)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,479,1368,480)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,480,1368,481)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,481,1368,482)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A0&\blur5\clip(563,482,1368,483)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA4A2A1&\blur5\clip(563,483,1368,484)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A2A1&\blur5\clip(563,484,1368,485)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A1&\blur5\clip(563,485,1368,486)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A1&\blur5\clip(563,486,1368,487)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A1&\blur5\clip(563,487,1368,488)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A1&\blur5\clip(563,488,1368,489)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA5A3A2&\blur5\clip(563,489,1368,490)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A3A2&\blur5\clip(563,490,1368,491)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A2&\blur5\clip(563,491,1368,492)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A2&\blur5\clip(563,492,1368,493)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A2&\blur5\clip(563,493,1368,494)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A3&\blur5\clip(563,494,1368,495)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A3&\blur5\clip(563,495,1368,496)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA6A4A3&\blur5\clip(563,496,1368,497)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A4A3&\blur5\clip(563,497,1368,498)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A5A3&\blur5\clip(563,498,1368,499)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A5A3&\blur5\clip(563,499,1368,500)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A5A4&\blur5\clip(563,500,1368,501)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A5A4&\blur5\clip(563,501,1368,502)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA7A5A4&\blur5\clip(563,502,1368,503)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A5A4&\blur5\clip(563,503,1368,504)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A6A4&\blur5\clip(563,504,1368,505)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A6A4&\blur5\clip(563,505,1368,506)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A6A5&\blur5\clip(563,506,1368,507)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A6A5&\blur5\clip(563,507,1368,508)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA8A6A5&\blur5\clip(563,508,1368,509)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A6A5&\blur5\clip(563,509,1368,510)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A6A5&\blur5\clip(563,510,1368,511)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A7A5&\blur5\clip(563,511,1368,512)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A7A6&\blur5\clip(563,512,1368,513)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A7A6&\blur5\clip(563,513,1368,514)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HA9A7A6&\blur5\clip(563,514,1368,515)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA7A6&\blur5\clip(563,515,1368,516)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA7A6&\blur5\clip(563,516,1368,517)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA7A7&\blur5\clip(563,517,1368,518)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA8A7&\blur5\clip(563,518,1368,519)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA8A7&\blur5\clip(563,519,1368,520)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA8A7&\blur5\clip(563,520,1368,521)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAAA8A7&\blur5\clip(563,521,1368,522)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA8A7&\blur5\clip(563,522,1368,523)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA8A8&\blur5\clip(563,523,1368,524)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA9A8&\blur5\clip(563,524,1368,525)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA9A8&\blur5\clip(563,525,1368,526)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA9A8&\blur5\clip(563,526,1368,527)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HABA9A8&\blur5\clip(563,527,1368,528)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACA9A8&\blur5\clip(563,528,1368,529)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACA9A9&\blur5\clip(563,529,1368,530)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACA9A9&\blur5\clip(563,530,1368,531)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACAAA9&\blur5\clip(563,531,1368,532)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACAAA9&\blur5\clip(563,532,1368,533)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HACAAA9&\blur5\clip(563,533,1368,534)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADAAA9&\blur5\clip(563,534,1368,535)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADAAAA&\blur5\clip(563,535,1368,536)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADAAAA&\blur5\clip(563,536,1368,537)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADABAA&\blur5\clip(563,537,1368,538)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADABAA&\blur5\clip(563,538,1368,539)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADABAA&\blur5\clip(563,539,1368,540)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HADABAB&\blur5\clip(563,540,1368,541)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEABAB&\blur5\clip(563,541,1368,542)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEABAB&\blur5\clip(563,542,1368,543)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEABAB&\blur5\clip(563,543,1368,544)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEACAB&\blur5\clip(563,544,1368,545)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEACAB&\blur5\clip(563,545,1368,546)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAEACAC&\blur5\clip(563,546,1368,547)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFACAC&\blur5\clip(563,547,1368,548)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFACAC&\blur5\clip(563,548,1368,549)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFACAC&\blur5\clip(563,549,1368,550)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFACAC&\blur5\clip(563,550,1368,551)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFADAC&\blur5\clip(563,551,1368,552)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HAFADAD&\blur5\clip(563,552,1368,553)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0ADAD&\blur5\clip(563,553,1368,554)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0ADAD&\blur5\clip(563,554,1368,555)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0ADAD&\blur5\clip(563,555,1368,556)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0ADAD&\blur5\clip(563,556,1368,557)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0AEAD&\blur5\clip(563,557,1368,558)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB0AEAE&\blur5\clip(563,558,1368,559)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AEAE&\blur5\clip(563,559,1368,560)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AEAE&\blur5\clip(563,560,1368,561)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AEAE&\blur5\clip(563,561,1368,562)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AEAE&\blur5\clip(563,562,1368,563)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AEAF&\blur5\clip(563,563,1368,564)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AFAF&\blur5\clip(563,564,1368,565)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB1AFAF&\blur5\clip(563,565,1368,566)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2AFAF&\blur5\clip(563,566,1368,567)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2AFAF&\blur5\clip(563,567,1368,568)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2AFAF&\blur5\clip(563,568,1368,569)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2AFB0&\blur5\clip(563,569,1368,570)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2B0B0&\blur5\clip(563,570,1368,571)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB2B0B0&\blur5\clip(563,571,1368,572)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B0B0&\blur5\clip(563,572,1368,573)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B0B0&\blur5\clip(563,573,1368,574)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B0B0&\blur5\clip(563,574,1368,575)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B0B1&\blur5\clip(563,575,1368,576)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B0B1&\blur5\clip(563,576,1368,577)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB3B1B1&\blur5\clip(563,577,1368,578)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B1B1&\blur5\clip(563,578,1368,579)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B1B1&\blur5\clip(563,579,1368,580)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B1B1&\blur5\clip(563,580,1368,581)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B1B2&\blur5\clip(563,581,1368,582)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B1B2&\blur5\clip(563,582,1368,583)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B1B2&\blur5\clip(563,583,1368,584)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB4B2B2&\blur5\clip(563,584,1368,585)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B2B2&\blur5\clip(563,585,1368,586)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B2B3&\blur5\clip(563,586,1368,587)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B2B3&\blur5\clip(563,587,1368,588)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B2B3&\blur5\clip(563,588,1368,589)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B2B3&\blur5\clip(563,589,1368,590)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB5B3B3&\blur5\clip(563,590,1368,591)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B3B3&\blur5\clip(563,591,1368,592)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B3B4&\blur5\clip(563,592,1368,593)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B3B4&\blur5\clip(563,593,1368,594)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B3B4&\blur5\clip(563,594,1368,595)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B3B4&\blur5\clip(563,595,1368,596)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB6B3B4&\blur5\clip(563,596,1368,597)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B4B4&\blur5\clip(563,597,1368,598)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B4B5&\blur5\clip(563,598,1368,599)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B4B5&\blur5\clip(563,599,1368,600)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 0,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\an7\pos(958.8,474.27)\c&HB7B4B5&\blur5\clip(563,600,1368,601)\p1}m -379 -120 l 392 -120 392 114 -379 114
+Dialogue: 1,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\pos(958.8,474.27)\fnRyumin ExtraHeavy\fs54\bord3.5\c&H2A292C&\3c&H2A292C&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne
+Dialogue: 2,0:10:01.04,0:10:03.79,DedzuyaSigns,,0,0,0,,{\pos(958.8,474.27)\fnRyumin ExtraHeavy\fs54\c&HB6B5B7&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCFD0CC&\blur5\clip(552,344,1391,345)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCED0CB&\blur5\clip(552,345,1391,346)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCED0CB&\blur5\clip(552,346,1391,347)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCECFCB&\blur5\clip(552,347,1391,348)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCDCFCA&\blur5\clip(552,348,1391,349)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCDCFCA&\blur5\clip(552,349,1391,350)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCDCECA&\blur5\clip(552,350,1391,351)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCCCEC9&\blur5\clip(552,351,1391,352)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCCCEC9&\blur5\clip(552,352,1391,353)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCCCDC9&\blur5\clip(552,353,1391,354)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCBCDC8&\blur5\clip(552,354,1391,355)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCBCDC8&\blur5\clip(552,355,1391,356)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCBCCC8&\blur5\clip(552,356,1391,357)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCACCC7&\blur5\clip(552,357,1391,358)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCACBC7&\blur5\clip(552,358,1391,359)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HCACBC7&\blur5\clip(552,359,1391,360)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC9CBC6&\blur5\clip(552,360,1391,361)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC9CAC6&\blur5\clip(552,361,1391,362)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC9CAC6&\blur5\clip(552,362,1391,363)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC8CAC5&\blur5\clip(552,363,1391,364)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC8C9C5&\blur5\clip(552,364,1391,365)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC8C9C5&\blur5\clip(552,365,1391,366)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC7C9C4&\blur5\clip(552,366,1391,367)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC7C8C4&\blur5\clip(552,367,1391,368)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC7C8C4&\blur5\clip(552,368,1391,369)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC6C8C3&\blur5\clip(552,369,1391,370)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC6C7C3&\blur5\clip(552,370,1391,371)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC6C7C3&\blur5\clip(552,371,1391,372)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC5C6C2&\blur5\clip(552,372,1391,373)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC5C6C2&\blur5\clip(552,373,1391,374)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC5C6C2&\blur5\clip(552,374,1391,375)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC4C5C1&\blur5\clip(552,375,1391,376)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC4C5C1&\blur5\clip(552,376,1391,377)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC4C5C1&\blur5\clip(552,377,1391,378)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC3C4C0&\blur5\clip(552,378,1391,379)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC3C4C0&\blur5\clip(552,379,1391,380)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC3C4C0&\blur5\clip(552,380,1391,381)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC2C3BF&\blur5\clip(552,381,1391,382)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC2C3BF&\blur5\clip(552,382,1391,383)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC2C3BF&\blur5\clip(552,383,1391,384)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC1C2BE&\blur5\clip(552,384,1391,385)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC1C2BE&\blur5\clip(552,385,1391,386)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC1C2BE&\blur5\clip(552,386,1391,387)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC1C1BD&\blur5\clip(552,387,1391,388)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC0C1BD&\blur5\clip(552,388,1391,389)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC0C0BD&\blur5\clip(552,389,1391,390)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HC0C0BC&\blur5\clip(552,390,1391,391)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBFC0BC&\blur5\clip(552,391,1391,392)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBFBFBC&\blur5\clip(552,392,1391,393)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBFBFBB&\blur5\clip(552,393,1391,394)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBEBFBB&\blur5\clip(552,394,1391,395)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBEBEBB&\blur5\clip(552,395,1391,396)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBEBEBA&\blur5\clip(552,396,1391,397)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBDBEBA&\blur5\clip(552,397,1391,398)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBDBDBA&\blur5\clip(552,398,1391,399)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBDBDB9&\blur5\clip(552,399,1391,400)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBCBDB9&\blur5\clip(552,400,1391,401)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBCBCB9&\blur5\clip(552,401,1391,402)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBCBCB8&\blur5\clip(552,402,1391,403)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBBBBB8&\blur5\clip(552,403,1391,404)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBBBBB8&\blur5\clip(552,404,1391,405)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBBBBB7&\blur5\clip(552,405,1391,406)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBABAB7&\blur5\clip(552,406,1391,407)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBABAB7&\blur5\clip(552,407,1391,408)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HBABAB6&\blur5\clip(552,408,1391,409)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB9B9B6&\blur5\clip(552,409,1391,410)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB9B9B6&\blur5\clip(552,410,1391,411)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB9B9B5&\blur5\clip(552,411,1391,412)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB8B8B5&\blur5\clip(552,412,1391,413)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB8B8B5&\blur5\clip(552,413,1391,414)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB8B8B4&\blur5\clip(552,414,1391,415)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB7B7B4&\blur5\clip(552,415,1391,416)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB7B7B4&\blur5\clip(552,416,1391,417)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB7B7B3&\blur5\clip(552,417,1391,418)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB6B6B3&\blur5\clip(552,418,1391,419)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB6B6B3&\blur5\clip(552,419,1391,420)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB6B5B2&\blur5\clip(552,420,1391,421)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB5B5B2&\blur5\clip(552,421,1391,422)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB5B5B2&\blur5\clip(552,422,1391,423)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB5B4B1&\blur5\clip(552,423,1391,424)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB4B4B1&\blur5\clip(552,424,1391,425)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB4B4B1&\blur5\clip(552,425,1391,426)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB4B3B0&\blur5\clip(552,426,1391,427)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B3B0&\blur5\clip(552,427,1391,428)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B3B0&\blur5\clip(552,428,1391,429)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B2AF&\blur5\clip(552,429,1391,430)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B2AF&\blur5\clip(552,430,1391,431)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B2AF&\blur5\clip(552,431,1391,432)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B1AE&\blur5\clip(552,432,1391,433)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B1AE&\blur5\clip(552,433,1391,434)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1B0AE&\blur5\clip(552,434,1391,435)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1B0AD&\blur5\clip(552,435,1391,436)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1B0AD&\blur5\clip(552,436,1391,437)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AFAD&\blur5\clip(552,437,1391,438)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AFAC&\blur5\clip(552,438,1391,439)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AFAC&\blur5\clip(552,439,1391,440)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFAEAC&\blur5\clip(552,440,1391,441)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFAEAB&\blur5\clip(552,441,1391,442)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFAEAB&\blur5\clip(552,442,1391,443)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEADAB&\blur5\clip(552,443,1391,444)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEADAA&\blur5\clip(552,444,1391,445)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEADAA&\blur5\clip(552,445,1391,446)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADACAA&\blur5\clip(552,446,1391,447)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADACA9&\blur5\clip(552,447,1391,448)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADACA9&\blur5\clip(552,448,1391,449)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACABA9&\blur5\clip(552,449,1391,450)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACABA8&\blur5\clip(552,450,1391,451)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA8&\blur5\clip(552,451,1391,452)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABAAA8&\blur5\clip(552,452,1391,453)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABAAA7&\blur5\clip(552,453,1391,454)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A7&\blur5\clip(552,454,1391,455)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA9A7&\blur5\clip(552,455,1391,456)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA9A6&\blur5\clip(552,456,1391,457)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A6&\blur5\clip(552,457,1391,458)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A8A6&\blur5\clip(552,458,1391,459)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A8A5&\blur5\clip(552,459,1391,460)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A5&\blur5\clip(552,460,1391,461)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A7A5&\blur5\clip(552,461,1391,462)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A7A4&\blur5\clip(552,462,1391,463)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A4&\blur5\clip(552,463,1391,464)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A6A4&\blur5\clip(552,464,1391,465)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A3&\blur5\clip(552,465,1391,466)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A3&\blur5\clip(552,466,1391,467)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A5A3&\blur5\clip(552,467,1391,468)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A2&\blur5\clip(552,468,1391,469)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A2&\blur5\clip(552,469,1391,470)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A4A2&\blur5\clip(552,470,1391,471)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A1&\blur5\clip(552,471,1391,472)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A1&\blur5\clip(552,472,1391,473)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A3A1&\blur5\clip(552,473,1391,474)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,474,1391,475)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,475,1391,476)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A2A0&\blur5\clip(552,476,1391,477)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,477,1391,478)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,478,1391,479)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,479,1391,480)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,480,1391,481)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,481,1391,482)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,482,1391,483)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,483,1391,484)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,484,1391,485)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,485,1391,486)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,486,1391,487)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A19F&\blur5\clip(552,487,1391,488)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA3A1A0&\blur5\clip(552,488,1391,489)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,489,1391,490)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,490,1391,491)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,491,1391,492)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,492,1391,493)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,493,1391,494)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A0&\blur5\clip(552,494,1391,495)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A1&\blur5\clip(552,495,1391,496)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA4A2A1&\blur5\clip(552,496,1391,497)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A1&\blur5\clip(552,497,1391,498)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A1&\blur5\clip(552,498,1391,499)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A1&\blur5\clip(552,499,1391,500)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A1&\blur5\clip(552,500,1391,501)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A1&\blur5\clip(552,501,1391,502)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A2&\blur5\clip(552,502,1391,503)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A2&\blur5\clip(552,503,1391,504)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA5A3A2&\blur5\clip(552,504,1391,505)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A2&\blur5\clip(552,505,1391,506)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A2&\blur5\clip(552,506,1391,507)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A2&\blur5\clip(552,507,1391,508)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A2&\blur5\clip(552,508,1391,509)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A3&\blur5\clip(552,509,1391,510)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A3&\blur5\clip(552,510,1391,511)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A3&\blur5\clip(552,511,1391,512)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA6A4A3&\blur5\clip(552,512,1391,513)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A3&\blur5\clip(552,513,1391,514)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A3&\blur5\clip(552,514,1391,515)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A3&\blur5\clip(552,515,1391,516)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A3&\blur5\clip(552,516,1391,517)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A4&\blur5\clip(552,517,1391,518)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A4&\blur5\clip(552,518,1391,519)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A4&\blur5\clip(552,519,1391,520)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA7A5A4&\blur5\clip(552,520,1391,521)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A4&\blur5\clip(552,521,1391,522)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A4&\blur5\clip(552,522,1391,523)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A4&\blur5\clip(552,523,1391,524)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A5&\blur5\clip(552,524,1391,525)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A5&\blur5\clip(552,525,1391,526)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A5&\blur5\clip(552,526,1391,527)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A5&\blur5\clip(552,527,1391,528)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA8A6A5&\blur5\clip(552,528,1391,529)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A5&\blur5\clip(552,529,1391,530)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A5&\blur5\clip(552,530,1391,531)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A6&\blur5\clip(552,531,1391,532)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A6&\blur5\clip(552,532,1391,533)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A6&\blur5\clip(552,533,1391,534)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A6&\blur5\clip(552,534,1391,535)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A6&\blur5\clip(552,535,1391,536)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HA9A7A6&\blur5\clip(552,536,1391,537)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A6&\blur5\clip(552,537,1391,538)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A7&\blur5\clip(552,538,1391,539)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A7&\blur5\clip(552,539,1391,540)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A7&\blur5\clip(552,540,1391,541)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A7&\blur5\clip(552,541,1391,542)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A7&\blur5\clip(552,542,1391,543)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A7&\blur5\clip(552,543,1391,544)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAAA8A7&\blur5\clip(552,544,1391,545)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,545,1391,546)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,546,1391,547)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,547,1391,548)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,548,1391,549)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,549,1391,550)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,550,1391,551)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,551,1391,552)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HABA9A8&\blur5\clip(552,552,1391,553)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA9&\blur5\clip(552,553,1391,554)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA9&\blur5\clip(552,554,1391,555)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA9&\blur5\clip(552,555,1391,556)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA9&\blur5\clip(552,556,1391,557)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA9&\blur5\clip(552,557,1391,558)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA9&\blur5\clip(552,558,1391,559)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAA9&\blur5\clip(552,559,1391,560)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HACAAAA&\blur5\clip(552,560,1391,561)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAA&\blur5\clip(552,561,1391,562)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAA&\blur5\clip(552,562,1391,563)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAA&\blur5\clip(552,563,1391,564)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAA&\blur5\clip(552,564,1391,565)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAA&\blur5\clip(552,565,1391,566)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAA&\blur5\clip(552,566,1391,567)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAB&\blur5\clip(552,567,1391,568)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HADABAB&\blur5\clip(552,568,1391,569)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAB&\blur5\clip(552,569,1391,570)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAB&\blur5\clip(552,570,1391,571)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAB&\blur5\clip(552,571,1391,572)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAB&\blur5\clip(552,572,1391,573)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAB&\blur5\clip(552,573,1391,574)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAC&\blur5\clip(552,574,1391,575)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAC&\blur5\clip(552,575,1391,576)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAEACAC&\blur5\clip(552,576,1391,577)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAC&\blur5\clip(552,577,1391,578)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAC&\blur5\clip(552,578,1391,579)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAC&\blur5\clip(552,579,1391,580)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAC&\blur5\clip(552,580,1391,581)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAD&\blur5\clip(552,581,1391,582)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAD&\blur5\clip(552,582,1391,583)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAD&\blur5\clip(552,583,1391,584)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HAFADAD&\blur5\clip(552,584,1391,585)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAD&\blur5\clip(552,585,1391,586)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAD&\blur5\clip(552,586,1391,587)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAD&\blur5\clip(552,587,1391,588)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAD&\blur5\clip(552,588,1391,589)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAE&\blur5\clip(552,589,1391,590)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAE&\blur5\clip(552,590,1391,591)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAE&\blur5\clip(552,591,1391,592)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB0AEAE&\blur5\clip(552,592,1391,593)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAE&\blur5\clip(552,593,1391,594)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAE&\blur5\clip(552,594,1391,595)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAE&\blur5\clip(552,595,1391,596)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAF&\blur5\clip(552,596,1391,597)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAF&\blur5\clip(552,597,1391,598)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAF&\blur5\clip(552,598,1391,599)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAF&\blur5\clip(552,599,1391,600)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB1AFAF&\blur5\clip(552,600,1391,601)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0AF&\blur5\clip(552,601,1391,602)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0AF&\blur5\clip(552,602,1391,603)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0B0&\blur5\clip(552,603,1391,604)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0B0&\blur5\clip(552,604,1391,605)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0B0&\blur5\clip(552,605,1391,606)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0B0&\blur5\clip(552,606,1391,607)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0B0&\blur5\clip(552,607,1391,608)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB2B0B0&\blur5\clip(552,608,1391,609)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B0&\blur5\clip(552,609,1391,610)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,610,1391,611)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,611,1391,612)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,612,1391,613)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,613,1391,614)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 0,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\an7\pos(964.93,481.74)\c&HB3B1B1&\blur5\clip(552,614,1391,615)\p1}m -396 -125 l 409 -125 409 121 -396 121
+Dialogue: 1,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\pos(964.93,481.74)\fnRyumin ExtraHeavy\fs57\bord3.5\c&H292B2E&\3c&H292B2E&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne
+Dialogue: 2,0:20:12.82,0:20:15.19,DedzuyaSigns,,0,0,0,,{\pos(964.93,481.74)\fnRyumin ExtraHeavy\fs57\c&HB7B6B8&\blur0.5}Filiala japoneză OF \N{\fscx160\fscy160}Biroul ministrului \NAfacerilor Interne

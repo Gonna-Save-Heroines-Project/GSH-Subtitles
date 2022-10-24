@@ -1,0 +1,274 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: main,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,13,13,24,0
+Style: italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: italicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: flashback italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: flashbacktop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: flashbackitalicstop,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: sign_0_1_Magical_Sempai,Open Sans Semibold,45,&H00A9AEBB,&H000000FF,&H00FEFEFE,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,40,40,27,1
+Style: sign_1764_7_The_Unknown_Senp,Open Sans Semibold,39,&H006A00EE,&H000000FF,&H00010200,&H000A0700,1,0,0,0,100,100,0,0,1,2,3,8,40,40,133,1
+Style: sign_8567_107_After_Club,Open Sans Semibold,30,&H00000000,&H009034D8,&H00FEFFFC,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,673,40,27,1
+Style: sign_13072_182_Friendly_Fire,Open Sans Semibold,24,&H00000000,&H009034D8,&H00FEFFFC,&H00000000,1,0,0,0,100,100,0,0,1,4,0,2,40,667,187,1
+Style: sign_13315_188_Missing_Missing,Open Sans Semibold,27,&H00126CC6,&H000000FF,&H008AFFFE,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,400,40,27,1
+Style: sign_10366_135_Missing_Missing_,Open Sans Semibold,15,&H00FFFFFF,&H000000FF,&H00DDC49A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,367,40,293,1
+Style: sign_12100_166_Missing,Open Sans Semibold,21,&H0085B2D0,&H000000FF,&H00C1E0F3,&H00000000,1,0,0,0,100,100,0,0,1,4,0,8,73,40,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:03.14,sign_0_1_Magical_Sempai,,0000,0000,0000,,{\fad(1,100)}Magical Sempai
+Dialogue: 0,0:00:03.14,0:00:05.27,sign_0_1_Magical_Sempai,,0000,0000,0000,,{\c&H690AD5&\fad(100,1)}Magi{\c&HB1AD1E&}cal Sem{\c&H7A16E2&}pai
+Dialogue: 0,0:01:00.03,0:01:02.04,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Four {\c&HDDCA21&}Balls {\c&H6A00EE&}Sempai
+Dialogue: 0,0:01:00.41,0:01:02.04,main,,0000,0000,0000,,"Four Balls Sempai."
+Dialogue: 0,0:01:06.01,0:01:08.92,main,ass,0000,0000,0000,,You never get tired of playing\Nwith yourself, do you?
+Dialogue: 0,0:01:10.09,0:01:12.05,main,sem,0000,0000,0000,,Why won't it work out?
+Dialogue: 0,0:01:12.48,0:01:14.03,main,ass,0000,0000,0000,,Could I see them?
+Dialogue: 0,0:01:17.50,0:01:19.52,main,sem,0000,0000,0000,,At last, you show interest...
+Dialogue: 0,0:01:19.52,0:01:21.34,main,sem,0000,0000,0000,,It's been so long.
+Dialogue: 0,0:01:21.34,0:01:23.49,main,sem,0000,0000,0000,,I'll teach you anything you want to know.
+Dialogue: 0,0:01:23.49,0:01:25.43,main,ass,0000,0000,0000,,Don't make it sound like\Nyou ever taught me anything!
+Dialogue: 0,0:01:25.68,0:01:27.93,main,sem,0000,0000,0000,,The name of this trick is "The Four Balls."
+Dialogue: 0,0:01:27.93,0:01:30.83,main,sem,0000,0000,0000,,You stick one ball in between\Neach of your fingers,
+Dialogue: 0,0:01:30.83,0:01:33.07,main,sem,0000,0000,0000,,which leaves you with four.
+Dialogue: 0,0:01:33.07,0:01:37.34,main,sem,0000,0000,0000,,You can increase or de... de...
+Dialogue: 0,0:01:37.34,0:01:39.00,main,sem,0000,0000,0000,,decrease the number of balls!
+Dialogue: 0,0:01:39.00,0:01:40.32,main,ass,0000,0000,0000,,There are just as many as before.
+Dialogue: 0,0:01:40.62,0:01:43.78,main,sem,0000,0000,0000,,To make the ball in the right hand disappear,\Nyou use a technique called palming,
+Dialogue: 0,0:01:43.78,0:01:47.17,main,sem,0000,0000,0000,,where you pinch it in your palm\Nto make it look like it disappeared.
+Dialogue: 0,0:01:47.17,0:01:49.58,main,sem,0000,0000,0000,,But my hands are slick with sweat,\N so it's not working right.
+Dialogue: 0,0:01:49.89,0:01:52.23,main,sem,0000,0000,0000,,Even though I practiced so much...
+Dialogue: 0,0:01:52.23,0:01:56.29,main,sem,0000,0000,0000,,On the way to school, \Nwhen I'm eating, even in the bath...
+Dialogue: 0,0:01:56.29,0:01:58.84,main,ass,0000,0000,0000,,If you can do it in the bath,\Nwhy is sweat a problem?
+Dialogue: 0,0:01:58.84,0:02:03.85,main,sem,0000,0000,0000,,I wonder if my hands\Nare just too small to do it...
+Dialogue: 0,0:02:04.22,0:02:06.69,main,ass,0000,0000,0000,,Can't you just get some smaller ones\N that fit your hands better?
+Dialogue: 0,0:02:06.69,0:02:09.93,main,sem,0000,0000,0000,,I thought the bigger ones looked cooler!
+Dialogue: 0,0:02:09.93,0:02:11.26,main,ass,0000,0000,0000,,Self-defeating vanity.
+Dialogue: 0,0:02:11.26,0:02:13.73,main,sem,0000,0000,0000,,I envy your big hands, Assistant.
+Dialogue: 0,0:02:14.24,0:02:16.63,main,sem,0000,0000,0000,,See? They're so much bigger.
+Dialogue: 0,0:02:17.14,0:02:20.49,main,sem,0000,0000,0000,,There's nothing better for doing\Nmagic than big hands.
+Dialogue: 0,0:02:20.49,0:02:25.62,main,ass,0000,0000,0000,,Well... it would look strange\Nif yours were this big.
+Dialogue: 0,0:02:25.62,0:02:29.80,main,ass,0000,0000,0000,,I think they're fine... just the way they are.
+Dialogue: 0,0:02:30.75,0:02:33.23,main,sem,0000,0000,0000,,Y-Y-You think?
+Dialogue: 0,0:02:34.99,0:02:36.80,main,sem,0000,0000,0000,,Sorry for touching!
+Dialogue: 0,0:02:36.80,0:02:38.80,main,ass,0000,0000,0000,,G-Gross!
+Dialogue: 0,0:02:38.80,0:02:41.03,main,ass,0000,0000,0000,,The sweat! The sweat!
+Dialogue: 0,0:02:41.03,0:02:44.05,main,sem,0000,0000,0000,,But he was just complimenting them.
+Dialogue: 0,0:02:44.05,0:02:46.06,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Ventriloquism {\c&HDDCA21&}Sempai
+Dialogue: 0,0:02:44.43,0:02:46.06,main,,0000,0000,0000,,"Ventriloquism Sempai."
+Dialogue: 0,0:02:46.64,0:02:48.43,italics,ass,0000,0000,0000,,When I arrived in the club room...
+Dialogue: 0,0:02:48.89,0:02:50.72,italics,ass,0000,0000,0000,,I found Saki-san dead on the ground.
+Dialogue: 0,0:02:51.73,0:02:53.20,italics,ass,0000,0000,0000,,What a twist!
+Dialogue: 0,0:02:53.20,0:02:54.60,main,saki,0000,0000,0000,,I'm not dead.
+Dialogue: 0,0:02:54.60,0:02:56.48,main,ass,0000,0000,0000,,Oh, you're not dead.
+Dialogue: 0,0:02:56.84,0:02:58.44,main,saki,0000,0000,0000,,I'm done for.
+Dialogue: 0,0:02:58.44,0:03:01.35,main,saki,0000,0000,0000,,My Ma-kun meter's all petered out.
+Dialogue: 0,0:03:01.35,0:03:03.70,main,ass,0000,0000,0000,,What kind of stupid scale is that?
+Dialogue: 0,0:03:04.21,0:03:06.95,main,ass,0000,0000,0000,,That's right. You're not with\NMasashi today, are you?
+Dialogue: 0,0:03:07.30,0:03:08.47,main,saki,0000,0000,0000,,It's because...
+Dialogue: 0,0:03:08.47,0:03:12.38,main,saki,0000,0000,0000,,This morning, I was rummaging through\NMa-kun's trash like usual, when...
+Dialogue: 0,0:03:13.43,0:03:16.05,flashback,saki,0000,0000,0000,,Smells like Ma-kun!
+Dialogue: 0,0:03:19.72,0:03:22.52,main,saki,0000,0000,0000,,And now he hasn't talked to me all day!
+Dialogue: 0,0:03:22.52,0:03:24.93,main,ass,0000,0000,0000,,It's entirely your fault.\NI refuse to comfort you.
+Dialogue: 0,0:03:25.23,0:03:28.17,main,saki,0000,0000,0000,,Wait! I know what to do at times like this.
+Dialogue: 0,0:03:28.17,0:03:29.07,main,ass,0000,0000,0000,,What is it?
+Dialogue: 0,0:03:29.76,0:03:32.44,main,saki,0000,0000,0000,,You' aweshome, 'ig Shish! You're sho hrehhy!
+Dialogue: 0,0:03:32.44,0:03:35.06,main,saki,0000,0000,0000,,You can't flatter me with the truth!
+Dialogue: 0,0:03:35.56,0:03:39.07,main,ass,0000,0000,0000,,So you do ventriloquism\Nwith that Masashi puppet?
+Dialogue: 0,0:03:39.33,0:03:41.33,main,saki,0000,0000,0000,,It's just a hobby, is all.
+Dialogue: 0,0:03:41.33,0:03:45.10,main,saki,0000,0000,0000,,You open your mouth a tiny bit,\Nthen without moving your lips...
+Dialogue: 0,0:03:45.10,0:03:46.24,main,saki,0000,0000,0000,,I' 'ashashi.
+Dialogue: 0,0:03:46.52,0:03:48.84,main,ass,0000,0000,0000,,It must be hard to talk.
+Dialogue: 0,0:03:48.84,0:03:51.00,main,saki,0000,0000,0000,,Bs and Ps are hard to say.
+Dialogue: 0,0:03:51.27,0:03:52.65,main,saki,0000,0000,0000,,So are Ms.
+Dialogue: 0,0:03:52.65,0:03:54.88,main,saki,0000,0000,0000,,Because you use your lips for those.
+Dialogue: 0,0:03:54.88,0:03:58.56,main,saki,0000,0000,0000,,If you can say "pushy," it means\Nyou're on the right track.
+Dialogue: 0,0:03:58.56,0:04:00.76,main,saki,0000,0000,0000,,'Ushy. 'Ushy.
+Dialogue: 0,0:04:01.09,0:04:02.76,main,saki,0000,0000,0000,,See? Hard, right?
+Dialogue: 0,0:04:03.43,0:04:04.79,main,saki,0000,0000,0000,,Puhhy.
+Dialogue: 0,0:04:04.79,0:04:06.84,main,saki,0000,0000,0000,,Oh, I think I can do it. Puh—
+Dialogue: 0,0:04:06.84,0:04:09.78,main,ass,0000,0000,0000,,I get it already! You can stop saying it!
+Dialogue: 0,0:04:10.40,0:04:13.20,main,saki,0000,0000,0000,,Well, now you try it, Assistant!
+Dialogue: 0,0:04:14.12,0:04:16.59,main,saki,0000,0000,0000,,Use what I taught you,\Nand you'll have it in no time!
+Dialogue: 0,0:04:17.62,0:04:20.17,main,ass,0000,0000,0000,,All right, Masashi, introduce yourself.
+Dialogue: 0,0:04:20.17,0:04:21.54,main,ass,0000,0000,0000,,Nasashi here.
+Dialogue: 0,0:04:21.54,0:04:23.78,main,ass,0000,0000,0000,,Ny havori'e dri'k ish curry.
+Dialogue: 0,0:04:24.09,0:04:27.37,main,saki,0000,0000,0000,,Ma-kun would never say that.
+Dialogue: 0,0:04:27.37,0:04:29.03,main,ass,0000,0000,0000,,That's the issue? Scary...
+Dialogue: 0,0:04:30.01,0:04:33.42,main,saki,0000,0000,0000,,I just feel so lonely without Ma-kun around!
+Dialogue: 0,0:04:33.42,0:04:34.97,main,saki,0000,0000,0000,,The puppet can't fill the gap in my heart!
+Dialogue: 0,0:04:34.97,0:04:36.54,main,ass,0000,0000,0000,,You seemed to enjoy it, though.
+Dialogue: 0,0:04:36.84,0:04:38.00,main,saki,0000,0000,0000,,Whatever.
+Dialogue: 0,0:04:38.00,0:04:41.30,main,saki,0000,0000,0000,,I'll just have to mess around with \N{\i1}you{\i0} today, Assistant-kun.
+Dialogue: 0,0:04:41.73,0:04:43.48,main,ass,0000,0000,0000,,What? Wait a minute.
+Dialogue: 0,0:04:43.48,0:04:45.66,main,ass,0000,0000,0000,,This is very abrupt, Saki-san!
+Dialogue: 0,0:04:50.55,0:04:52.58,main,ass,0000,0000,0000,,H-Hang on...
+Dialogue: 0,0:04:52.58,0:04:53.80,main,ass,0000,0000,0000,,Saki-san?!
+Dialogue: 0,0:04:57.96,0:04:59.61,main,saki,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:05:02.18,0:05:05.74,main,saki,0000,0000,0000,,I'll give you this Magic Doll\Nas thanks for cheering me up.
+Dialogue: 0,0:05:06.11,0:05:08.35,main,saki,0000,0000,0000,,It's a present from me to you!
+Dialogue: 0,0:05:08.35,0:05:09.76,main,ass,0000,0000,0000,,I really don't want it.
+Dialogue: 0,0:05:09.76,0:05:11.62,main,saki,0000,0000,0000,,Well, gotta get to the part-time job!
+Dialogue: 0,0:05:11.62,0:05:13.62,main,ass,0000,0000,0000,,You're just going to leave it here?
+Dialogue: 0,0:05:13.62,0:05:15.16,main,saki,0000,0000,0000,,Bye-bye!
+Dialogue: 0,0:05:32.16,0:05:33.31,main,ass,0000,0000,0000,,White, eh?
+Dialogue: 0,0:05:33.31,0:05:35.31,sign_1764_7_The_Unknown_Senp,title,0000,0000,0000,,Tailing {\c&HDDCA21&}Sempai
+Dialogue: 0,0:05:33.68,0:05:35.10,main,,0000,0000,0000,,"Tailing Sempai."
+Dialogue: 0,0:05:35.31,0:05:37.69,main,sem,0000,0000,0000,,Now, behold!
+Dialogue: 0,0:05:37.69,0:05:39.88,main,saki,0000,0000,0000,,It's leaking out! It's totally leaking!
+Dialogue: 0,0:05:39.88,0:05:40.87,main,ma,0000,0000,0000,,Hey, hey...
+Dialogue: 0,0:05:41.90,0:05:43.74,main,ma,0000,0000,0000,,Does Sempai have a boyfriend?
+Dialogue: 0,0:05:44.46,0:05:47.90,main,ass,0000,0000,0000,,Don't tell me... you're planning\N on {\i1}that{\i0}, are you?
+Dialogue: 0,0:05:47.90,0:05:49.28,main,ass,0000,0000,0000,,Don't do it, seriously.
+Dialogue: 0,0:05:49.28,0:05:52.08,main,ma,0000,0000,0000,,It's not that. I saw her yesterday.
+Dialogue: 0,0:05:52.08,0:05:54.83,main,ma,0000,0000,0000,,She was walking around with a strange man.
+Dialogue: 0,0:05:56.10,0:05:57.19,main,ass,0000,0000,0000,,No way.
+Dialogue: 0,0:05:57.29,0:05:59.08,sign_8567_107_After_Club,sign,0000,0000,0000,,{\fad(108,1)}After Club
+Dialogue: 0,0:06:01.80,0:06:04.38,main,saki,0000,0000,0000,,Now, let's begin tailing her!
+Dialogue: 0,0:06:04.38,0:06:05.58,main,ma,0000,0000,0000,,I wonder who the man is.
+Dialogue: 0,0:06:05.58,0:06:08.96,main,ass,0000,0000,0000,,I'm sure he just accosted her\Nfor a survey or something.
+Dialogue: 0,0:06:09.80,0:06:11.22,main,saki,0000,0000,0000,,She entered a family restaurant!
+Dialogue: 0,0:06:11.35,0:06:13.03,main,ma,0000,0000,0000,,Behavioral psychology\Nsuggests it's suspicious
+Dialogue: 0,0:06:13.03,0:06:15.97,main,ma,0000,0000,0000,,for a teenage female to enter\Na family restaurant alone.
+Dialogue: 0,0:06:16.24,0:06:17.85,main,saki,0000,0000,0000,,You're so smart, Ma-kun!
+Dialogue: 0,0:06:17.85,0:06:19.63,main,saki,0000,0000,0000,,Did you use that mental stuff?!
+Dialogue: 0,0:06:19.63,0:06:21.48,main,ass,0000,0000,0000,,Are you talking about being a mentalist?
+Dialogue: 0,0:06:22.06,0:06:25.11,main,saki,0000,0000,0000,,Look! Two plates of cake and two glasses!
+Dialogue: 0,0:06:25.51,0:06:28.11,main,saki,0000,0000,0000,,And she's sitting in the back,\Nwary of eyes upon her!
+Dialogue: 0,0:06:28.11,0:06:30.11,main,saki,0000,0000,0000,,She's clearly waiting for someone!
+Dialogue: 0,0:06:31.66,0:06:33.12,main,ass,0000,0000,0000,,She drank one down.
+Dialogue: 0,0:06:37.73,0:06:40.18,main,saki,0000,0000,0000,,She's practicing the coin trick.
+Dialogue: 0,0:06:40.18,0:06:42.17,main,ass,0000,0000,0000,,Can I go now?
+Dialogue: 0,0:06:44.58,0:06:47.08,main,ass,0000,0000,0000,,She ended up eating both\Nslices of cake by herself, too.
+Dialogue: 0,0:06:47.08,0:06:48.42,main,ass,0000,0000,0000,,I think you were off base.
+Dialogue: 0,0:06:49.52,0:06:51.43,main,saki,0000,0000,0000,,She's watching her smartphone.
+Dialogue: 0,0:06:51.80,0:06:53.10,main,saki,0000,0000,0000,,She took off!
+Dialogue: 0,0:06:53.10,0:06:55.31,main,ass,0000,0000,0000,,She probably needs to hit the bathroom.
+Dialogue: 0,0:06:55.31,0:06:57.94,main,ma,0000,0000,0000,,No, she's meeting someone.
+Dialogue: 0,0:06:57.94,0:06:59.84,main,ma,0000,0000,0000,,When one puts their face that\Nclose to their smartphone,
+Dialogue: 0,0:06:59.84,0:07:02.73,main,ma,0000,0000,0000,,it's proof that they're engaging\Nin intimate messaging.
+Dialogue: 0,0:07:02.73,0:07:04.21,main,ass,0000,0000,0000,,Are you enjoying this?
+Dialogue: 0,0:07:04.21,0:07:06.32,main,saki,0000,0000,0000,,She's running right for the convenience store!
+Dialogue: 0,0:07:06.65,0:07:08.07,main,saki,0000,0000,0000,,She must be going for...
+Dialogue: 0,0:07:08.36,0:07:10.23,main,saki,0000,0000,0000,,The bathroom!
+Dialogue: 0,0:07:12.32,0:07:14.32,sign_10366_135_Missing_Missing_,,0000,0000,0000,,{\move(270,140,270,220)}Thank you for \Nalways keeping \Nthe bathroom {\c&HB3A7E4&\3c&HFBF7FF&}clean
+Dialogue: 0,0:07:13.37,0:07:14.32,main,saki,0000,0000,0000,,She's been in there a while.
+Dialogue: 0,0:07:14.32,0:07:18.89,main,saki,0000,0000,0000,,But if I'm in the toilet, I'll be\Nfixing my hair and my make-up.
+Dialogue: 0,0:07:18.89,0:07:21.84,main,ma,0000,0000,0000,,Of course! That explains\Nwhy she's been in there so long!
+Dialogue: 0,0:07:21.84,0:07:23.21,main,ass,0000,0000,0000,,I think it's time to let it go.
+Dialogue: 0,0:07:24.19,0:07:25.20,main,saki,0000,0000,0000,,She's back!
+Dialogue: 0,0:07:26.66,0:07:28.95,main,ass,0000,0000,0000,,She looks cleaned out, is all!
+Dialogue: 0,0:07:30.59,0:07:32.41,main,saki,0000,0000,0000,,We tailed her for half the day,
+Dialogue: 0,0:07:32.41,0:07:35.60,main,saki,0000,0000,0000,,and not only did she not meet anyone,\Nall she did was eat and poop.
+Dialogue: 0,0:07:35.60,0:07:39.44,main,ass,0000,0000,0000,,I'm telling you, there's no\N way Sempai has a boy—
+Dialogue: 0,0:07:39.44,0:07:41.45,main,sem,0000,0000,0000,,Sorry! Were you waiting long?
+Dialogue: 0,0:07:42.98,0:07:45.51,main,sem,0000,0000,0000,,I got a little sidetracked,\Nso I'm running late.
+Dialogue: 0,0:07:45.51,0:07:47.36,main,mimu,0000,0000,0000,,It's okay. I didn't wait long at all.
+Dialogue: 0,0:07:47.98,0:07:49.22,top,mimu,0000,0000,0000,,Let's go, then.
+Dialogue: 0,0:07:48.37,0:07:50.32,main,saki,0000,0000,0000,,This is getting fun!
+Dialogue: 0,0:07:49.22,0:07:50.32,top,sem,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:51.44,0:07:52.36,main,ma,0000,0000,0000,,You okay?
+Dialogue: 0,0:07:52.36,0:07:56.04,main,saki,0000,0000,0000,,Assistant-kun, do you like\NMagic Girl that much?
+Dialogue: 0,0:07:56.04,0:07:58.08,main,saki,0000,0000,0000,,Maybe I'll console you.
+Dialogue: 0,0:07:58.08,0:07:59.93,main,saki,0000,0000,0000,,I'm about as big as she is.
+Dialogue: 0,0:07:59.93,0:08:01.07,main,ass,0000,0000,0000,,No way!
+Dialogue: 0,0:08:01.07,0:08:03.25,main,ass,0000,0000,0000,,It's not like I'm trying to be her boyfriend.
+Dialogue: 0,0:08:03.25,0:08:04.86,main,ass,0000,0000,0000,,It's like when you take care of a stray cat,
+Dialogue: 0,0:08:04.86,0:08:07.28,main,ass,0000,0000,0000,,and you find out it was a housecat all along!
+Dialogue: 0,0:08:07.28,0:08:09.66,main,ass,0000,0000,0000,,It's that kind of thing!
+Dialogue: 0,0:08:09.66,0:08:10.91,main,ma,0000,0000,0000,,Sounds possessive.
+Dialogue: 0,0:08:10.91,0:08:14.01,main,saki,0000,0000,0000,,The way he refuses to take any responsibility\Njust makes the boyfriend act creepier.
+Dialogue: 0,0:08:14.28,0:08:17.53,main,saki,0000,0000,0000,,But there's nothing wrong with\NMagic Girl having a boyfriend, right?
+Dialogue: 0,0:08:18.29,0:08:20.98,main,ma,0000,0000,0000,,The question is whether or not he's dangerous.
+Dialogue: 0,0:08:20.98,0:08:23.45,main,ma,0000,0000,0000,,Time for the mentalist to resurface.
+Dialogue: 0,0:08:23.45,0:08:24.65,main,ass,0000,0000,0000,,More of this?
+Dialogue: 0,0:08:24.65,0:08:26.90,sign_12100_166_Missing,,0000,0000,0000,,Higashi Tanenashi Station
+Dialogue: 0,0:08:25.04,0:08:26.90,main,ma,0000,0000,0000,,First, let's judge his appearance.
+Dialogue: 0,0:08:27.32,0:08:29.09,main,ma,0000,0000,0000,,He's wearing street clothes on a weeknight.
+Dialogue: 0,0:08:29.09,0:08:31.95,main,ma,0000,0000,0000,,In other words, he's likely\N not an office worker.
+Dialogue: 0,0:08:31.95,0:08:33.65,main,as,0000,0000,0000,,Unemployed or a student, then?
+Dialogue: 0,0:08:33.94,0:08:37.53,main,ma,0000,0000,0000,,No, that ring on his left hand\Nmeans he's likely not a student.
+Dialogue: 0,0:08:37.88,0:08:40.13,main,ma,0000,0000,0000,,His shoes are expensive,\Nand his clothing is dark.
+Dialogue: 0,0:08:40.13,0:08:42.04,main,ma,0000,0000,0000,,He's watching his surroundings carefully.
+Dialogue: 0,0:08:42.37,0:08:45.78,main,ma,0000,0000,0000,,It's very likely that the man is married.
+Dialogue: 0,0:08:45.78,0:08:47.21,main,ma,0000,0000,0000,,And a professional assassin!
+Dialogue: 0,0:08:47.21,0:08:49.77,main,saki,0000,0000,0000,,So cool! You're such a genius!
+Dialogue: 0,0:08:49.77,0:08:51.36,main,ass,0000,0000,0000,,Are you all right in the head?
+Dialogue: 0,0:08:51.36,0:08:54.74,main,ma,0000,0000,0000,,His only visible possession\Nis the key to a minivan.
+Dialogue: 0,0:08:55.34,0:08:56.66,main,saki,0000,0000,0000,,Minivan...
+Dialogue: 0,0:08:56.66,0:08:58.68,main,saki,0000,0000,0000,,I saw that in one of your secret\N adult videos, Ma-kun!
+Dialogue: 0,0:08:58.68,0:09:01.01,main,saki,0000,0000,0000,,{\i1}Vehicle to Rendezvous{\i0} or something!
+Dialogue: 0,0:09:01.01,0:09:03.34,main,saki,0000,0000,0000,,That guy might be involved with adult videos!
+Dialogue: 0,0:09:03.34,0:09:04.56,main,ass,0000,0000,0000,,That's a gross hobby.
+Dialogue: 0,0:09:04.56,0:09:07.44,main,ma,0000,0000,0000,,It's not like that! It's just that\Nit starred my favorite actress—
+Dialogue: 0,0:09:05.19,0:09:07.44,sign_13072_182_Friendly_Fire,sign,0000,0000,0000,,Friendly Fire
+Dialogue: 0,0:09:08.04,0:09:09.82,main,ass,0000,0000,0000,,They're going into a department store!
+Dialogue: 0,0:09:09.82,0:09:11.50,main,sem,0000,0000,0000,,Look, Mimura-san!
+Dialogue: 0,0:09:11.50,0:09:13.56,main,sem,0000,0000,0000,,They sell Okinawa stuff here, it says!
+Dialogue: 0,0:09:13.56,0:09:15.32,main,ma,0000,0000,0000,,So his name is Mimura, eh? Well done!
+Dialogue: 0,0:09:15.32,0:09:19.12,sign_13315_188_Missing_Missing,sem,0000,0000,0000,,Ryukyu Gifts\N{\c&H090F19&\fs24}Okinawan Chinsukou
+Dialogue: 0,0:09:15.61,0:09:17.62,main,sem,0000,0000,0000,,Look! Chincocksu!
+Dialogue: 0,0:09:17.62,0:09:19.12,italics,ass,0000,0000,0000,,She read it wrong!
+Dialogue: 0,0:09:20.10,0:09:22.76,main,ma,0000,0000,0000,,Has the adult video shoot started already?
+Dialogue: 0,0:09:22.76,0:09:24.93,main,saki,0000,0000,0000,,Would this be the introduction or something?
+Dialogue: 0,0:09:24.93,0:09:26.10,main,sem,0000,0000,0000,,Look! Look!
+Dialogue: 0,0:09:26.10,0:09:27.62,main,sem,0000,0000,0000,,This bitter gourd is so big!
+Dialogue: 0,0:09:27.62,0:09:28.50,italics,ass,0000,0000,0000,,Stop it!
+Dialogue: 0,0:09:28.50,0:09:30.63,italics,ass,0000,0000,0000,,Now that it's on my mind,\NI can't stop thinking about it!
+Dialogue: 0,0:09:30.63,0:09:33.38,main,sem,0000,0000,0000,,The bumps are so cool...
+Dialogue: 0,0:09:34.38,0:09:36.44,main,ass,0000,0000,0000,,I-I-It's gotta be a cooking show!
+Dialogue: 0,0:09:36.44,0:09:38.21,main,ass,0000,0000,0000,,Th-Th-They scouted out a \Npretty high school girl,
+Dialogue: 0,0:09:38.21,0:09:40.88,main,ass,0000,0000,0000,,and th-th-they're having her\Nintroduce local cuisine!
+Dialogue: 0,0:09:40.88,0:09:43.89,main,ass,0000,0000,0000,,It's a totally family-friendly show!
+Dialogue: 0,0:09:41.86,0:09:43.89,top,saki,0000,0000,0000,,Assistant-kun is breaking down.
+Dialogue: 0,0:09:46.22,0:09:48.65,main,ma,0000,0000,0000,,Given the flow of the date so far...
+Dialogue: 0,0:09:49.45,0:09:53.83,main,ma,0000,0000,0000,,I thought Mimura was a man\Ncheating on his wife with Sempai,
+Dialogue: 0,0:09:53.83,0:09:58.41,main,ma,0000,0000,0000,,but it's clear he's a professional\Nkiller-slash-adult video performer
+Dialogue: 0,0:09:58.41,0:10:01.28,main,ma,0000,0000,0000,,who lures out teenage girls\Nwith dubious proposals
+Dialogue: 0,0:10:01.28,0:10:03.64,main,ma,0000,0000,0000,,then uses regional produce\Nto f*** them in his minivan.
+Dialogue: 0,0:10:03.64,0:10:05.41,main,ass,0000,0000,0000,,That seems ridiculously improbable!
+Dialogue: 0,0:10:05.41,0:10:07.44,main,saki,0000,0000,0000,,They're in a lingerie store!
+Dialogue: 0,0:10:07.91,0:10:09.67,main,mim,0000,0000,0000,,What are you thinking, size-wise?
+Dialogue: 0,0:10:10.44,0:10:11.85,main,saki,0000,0000,0000,,Assistant-kun, get a grip!
+Dialogue: 0,0:10:11.85,0:10:13.78,main,sem,0000,0000,0000,,Not sure...
+Dialogue: 0,0:10:13.78,0:10:15.05,main,sem,0000,0000,0000,,About average, I think?
+Dialogue: 0,0:10:15.05,0:10:16.79,main,ass,0000,0000,0000,,Average, my ass!
+Dialogue: 0,0:10:16.79,0:10:18.93,main,ass,0000,0000,0000,,Go for the cow tits!
+Dialogue: 0,0:10:17.27,0:10:18.93,top,saki,0000,0000,0000,,Calm down, Assistant-kun!
+Dialogue: 0,0:10:20.12,0:10:21.35,main,mim,0000,0000,0000,,Thanks for everything.
+Dialogue: 0,0:10:21.61,0:10:22.76,main,saki,0000,0000,0000,,They're back outside!
+Dialogue: 0,0:10:23.22,0:10:25.64,main,mim,0000,0000,0000,,It'll be cold in short sleeves at night.
+Dialogue: 0,0:10:26.12,0:10:27.27,main,mim,0000,0000,0000,,Let's move to the car.
+Dialogue: 0,0:10:28.88,0:10:31.17,main,mim,0000,0000,0000,,Look at that nice, fat...
+Dialogue: 0,0:10:31.17,0:10:32.52,main,mim,0000,0000,0000,,Yeah, do it!
+Dialogue: 0,0:10:32.52,0:10:34.63,main,sem,0000,0000,0000,,It's too bitter raw! Please cook it!
+Dialogue: 0,0:10:34.63,0:10:37.03,main,mim,0000,0000,0000,,How do you feel now, pig?!
+Dialogue: 0,0:10:38.15,0:10:39.78,main,ass,0000,0000,0000,,Magic Mirror Van, move out!
+Dialogue: 0,0:10:41.34,0:10:44.74,main,ass,0000,0000,0000,,Underage kids aren't allowed out past ten!
+Dialogue: 0,0:10:45.21,0:10:46.43,main,sem,0000,0000,0000,,Assistant?
+Dialogue: 0,0:10:47.27,0:10:50.42,main,sem,0000,0000,0000,,Mimura-san is my big sister's husband.
+Dialogue: 0,0:10:51.29,0:10:55.79,main,sem,0000,0000,0000,,Her birthday is next week,\Nso I went with him to buy a present.
+Dialogue: 0,0:10:55.79,0:10:58.36,main,mim,0000,0000,0000,,I just didn't know what to get by myself.
+Dialogue: 0,0:10:58.36,0:10:59.30,italics,ass,0000,0000,0000,,What a nice man.
+Dialogue: 0,0:10:59.74,0:11:01.44,main,mim,0000,0000,0000,,Sorry about the misunderstanding.
+Dialogue: 0,0:11:01.44,0:11:03.55,main,mim,0000,0000,0000,,It's late. Should I give you a ride home?
+Dialogue: 0,0:11:04.74,0:11:06.38,main,ass,0000,0000,0000,,S-Sorry.
+Dialogue: 0,0:11:06.38,0:11:09.34,main,saki,0000,0000,0000,,We live nearby, so we'll be okay.
+Dialogue: 0,0:11:09.34,0:11:10.92,italics,ass,0000,0000,0000,,Just a really nice guy...
+Dialogue: 0,0:11:13.07,0:11:16.12,main,sem,0000,0000,0000,,You were tailing me because you\Nthought Mimura-san was my boyfriend?
+Dialogue: 0,0:11:16.12,0:11:17.73,main,ass,0000,0000,0000,,I'm very sorry.
+Dialogue: 0,0:11:17.73,0:11:20.57,main,sem,0000,0000,0000,,There's no way.
+Dialogue: 0,0:11:21.35,0:11:24.99,italics,ass,0000,0000,0000,,The fact that she laughed it off...\Nis somehow more scary.
+Dialogue: 0,0:12:24.97,0:12:29.81,sign_1764_7_The_Unknown_Senp,sign,0000,0000,0000,,Growing {\c&HDDCA21&}Sempai\N{\c&H6A00EE&}Unfailing {\c&HDDCA21&}Sempai\N{\c&H6A00EE&}Persistent {\c&HDDCA21&}Sempai\N{\c&H6A00EE&}Silent {\c&HDDCA21&}Sempai\N{\c&H6A00EE&}Bunny {\c&HDDCA21&}Sempai
+Dialogue: 0,0:12:25.60,0:12:28.49,main,sem,0000,0000,0000,,Join us next week for more {\i1}Magical Sempai{\i0}!

@@ -16,8 +16,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Scroll Position: 316
-Active Line: 334
+Scroll Position: 322
+Active Line: 323
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -235,7 +235,7 @@ Dialogue: 100,0:14:32.24,0:14:34.72,Dialogue,,0,0,0,,{\i1}Uită tot. Haide să v
 Dialogue: 100,0:14:37.53,0:14:39.23,Dialogue,,0,0,0,,{\an8\i1}Și acum, următoare emisiune.
 Dialogue: 100,0:14:40.73,0:14:42.06,Dialogue,,0,0,0,,{\an8\i1}Încă de când a fost trezit,
 Dialogue: 100,0:14:43.36,0:14:45.35,Dialogue,,0,0,0,,{\an8\i1}Mizuhara și-a petrecut timpul lucrând
-Dialogue: 100,0:14:45.35,0:14:46.74,Dialogue,,0,0,0,,{\an8\i1}la crearea unui tratament pentru virus.
+Dialogue: 100,0:14:45.35,0:14:46.74,Dialogue,,0,0,0,,{\an8\i1}la crearea unui vaccin pentru virus.
 Dialogue: 100,0:14:47.10,0:14:49.53,Dialogue,,0,0,0,,{\an8\i1}A mâncat curry la cină.
 Dialogue: 100,0:14:50.36,0:14:52.41,Dialogue,,0,0,0,,{\an8\i1}Mi-ar plăcea să fie nepotul meu.
 Dialogue: 100,0:14:52.41,0:14:54.95,Dialogue,,0,0,0,,{\an8\i1}Dacă eram cu 10 ani mai tânără...
@@ -352,7 +352,7 @@ Dialogue: 100,0:20:33.61,0:20:38.41,Dialogue,,0,0,0,,Nu știm dacă imunitatea t
 Dialogue: 100,0:20:38.41,0:20:42.48,Dialogue,,0,0,0,,dar dacă nu te împerechezi \Nca să-ți răspândești genele,
 Dialogue: 100,0:20:42.48,0:20:45.51,Dialogue,,0,0,0,,umanitatea nu va supraviețui!
 Dialogue: 100,0:20:45.96,0:20:50.72,Dialogue,,0,0,0,,Am făcut multe pregătiri înainte să aducem aceste fete aici.
-Dialogue: 100,0:20:50.72,0:20:54.64,Dialogue,,0,0,0,,Niciuna dintre ele nu te urăște.
+Dialogue: 100,0:20:50.72,0:20:54.64,Dialogue,,0,0,0,,Niciuna dintre ele nu te displace.
 Dialogue: 100,0:20:54.99,0:20:58.40,Dialogue,,0,0,0,,De fapt, toate sunt foarte \Ninteresate de tine!
 Dialogue: 100,0:20:58.40,0:21:02.36,Dialogue,,0,0,0,,Deci niciuna dintre ele nu a \Nfost constrânsă sau obligată.
 Dialogue: 100,0:21:02.36,0:21:04.66,Dialogue,,0,0,0,,Dacă vreuna dintre ele \Nrămâne însărcinată,
@@ -388,8 +388,8 @@ Dialogue: 0,0:14:41.02,0:14:43.36,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmik
 Dialogue: 1,0:14:41.02,0:14:43.36,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\blur0.6}Încă de când a fost trezit, Mizuhara
 Dialogue: 0,0:14:43.36,0:14:44.48,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\bord4\c&H000000&\blur0.6}și-a petrecut timpul lucrând
 Dialogue: 1,0:14:43.36,0:14:44.48,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\blur0.6}și-a petrecut timpul lucrând
-Dialogue: 0,0:14:44.48,0:14:46.74,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\bord4\c&H000000&\blur0.6}la crearea unui {\c&H13EAF6&}tratament pentru virus{\c&HFFFFFF&}.
-Dialogue: 1,0:14:44.48,0:14:46.74,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\blur0.6}la crearea unui {\c&H14E0FF&}tratament pentru virus{\c&HFFFFFF&}.
+Dialogue: 0,0:14:44.48,0:14:46.74,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\bord4\c&H000000&\blur0.6}la crearea unui {\c&H13EAF6&}vaccin pentru virus{\c&HFFFFFF&}.
+Dialogue: 1,0:14:44.48,0:14:46.74,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\blur0.6}la crearea unui {\c&H14E0FF&}vaccin pentru virus{\c&HFFFFFF&}.
 Dialogue: 0,0:14:47.32,0:14:48.74,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\bord4\c&H000000&\blur0.6}A mâncat {\c&H21ECEE&}curry {\c&HFFFFFF&}la cină.
 Dialogue: 1,0:14:47.32,0:14:48.74,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnAmiko\fs90\fsp1\b1\blur0.6}A mâncat {\c&H14E0FF&}curry {\c&HFFFFFF&}la cină.
 Dialogue: 0,0:14:50.37,0:14:54.96,DedzuyaSigns,,0,0,0,,{\an1\pos(160.51,56.4)\fscx25\fscy25\fnAscota\fs80\fsp5\bord4.5\c&H34AAEF&\3c&H34AAEF&\blur0.6}Ce face {\fnVAG Rounded\c&HD07507&\3c&HD07507&}Mizuhara Reito {\fnAscota\c&H34AAEF&\3c&H34AAEF&}azi{\bord0}?
