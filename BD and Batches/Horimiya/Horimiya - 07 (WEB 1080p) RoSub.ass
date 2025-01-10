@@ -39,7 +39,7 @@ Style: ED TL,Hiragino Maru Gothic Semibold,64,&H00FFFFFF,&H000000FF,&H00000000,&
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:13.75,0:00:14.53,Dialogue,,0,0,0,,Bun venit!
+Dialogue: 100,0:00:13.75,0:00:14.53,Dialogue,,0,0,0,,Bun-venit!
 Dialogue: 100,0:00:32.03,0:00:33.86,Dialogue,,0,0,0,,Ai găsit ceea ce căutai?
 Dialogue: 100,0:00:33.86,0:00:37.95,Dialogue,,0,0,0,,Nu. Poate ar trebui să dau comanda, dar...
 Dialogue: 100,0:00:37.95,0:00:39.97,Dialogue,,0,0,0,,Ai putea cere ajutor unui angajat.

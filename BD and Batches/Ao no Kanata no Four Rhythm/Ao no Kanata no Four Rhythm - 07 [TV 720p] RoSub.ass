@@ -37,7 +37,7 @@ Style: Credits,HelveticaNeueLT Com 55 Roman,20,&H00FFFFFF,&H000000FF,&H00C58B20,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.73,0:00:05.21,Dialogue,,0,0,0,,Bun venit la a doua zi a Calificărilor \NConcursului de Vară din Kyushu Vest!
+Dialogue: 100,0:00:01.73,0:00:05.21,Dialogue,,0,0,0,,Bun-venit la a doua zi a Calificărilor \NConcursului de Vară din Kyushu Vest!
 Dialogue: 100,0:00:05.21,0:00:07.73,Dialogue,,0,0,0,,Meciul cu numărul 31 tocmai s-a terminat!
 Dialogue: 100,0:00:08.32,0:00:12.08,Dialogue,,0,0,0,,Vedeta puternicei Shitou Susain, Ganeko Mayu,
 Dialogue: 100,0:00:08.93,0:00:10.64,Alternative,,0,0,0,,Onee-sama!
