@@ -35,7 +35,7 @@ Style: KazuyaShuuSign,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,{episod}
-Comment: 0,0:02:29.96,0:02:30.00,Dialogue,,0,0,0,,{ending}
+Comment: 0,0:02:29.96,0:02:30.00,Dialogue,,0,0,0,,{ED}
 Comment: 0,0:02:57.36,0:02:57.40,Dialogue,,0,0,0,,{epilog}
 Dialogue: 100,0:00:00.48,0:00:03.67,Dialogue,,0,0,0,,Este așa de bun!
 Dialogue: 100,0:00:07.07,0:00:09.79,Dialogue,,0,0,0,,{\an8}Am sfârșit prin a bea în această după-amiază.
