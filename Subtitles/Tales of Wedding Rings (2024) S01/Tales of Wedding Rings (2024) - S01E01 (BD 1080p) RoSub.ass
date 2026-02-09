@@ -18,14 +18,6 @@ ScaledBorderAndShadow: yes
 Original Script: CR
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Video File: ?dummy:24000/1001:200000:1920:1080:47:163:254:
-Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 332
-Active Line: 333
-Video Position: 9632
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Profile Medium,74,&H00FFFFFF,&H000000FF,&H004E2703,&HB4000000,0,0,0,0,100,100,0,0,1,3.6,1.6,2,150,150,60,0
@@ -156,7 +148,7 @@ Dialogue: 100,0:09:03.96,0:09:05.36,Dialogue,HIME,0,0,0,,Mă bucur...
 Dialogue: 100,0:09:05.89,0:09:07.94,Dialogue,HIME,0,0,0,,că reușesc să văd această \Npriveliște alături de tine.
 Dialogue: 100,0:09:09.08,0:09:10.34,Dialogue,SATOU,0,0,0,,Și eu.
 Dialogue: 100,0:09:18.36,0:09:19.80,Dialogue,HIME,0,0,0,,Hei, Satou...
-Dialogue: 100,0:09:21.07,0:09:25.66,Dialogue,HIME,0,0,0,,Există ceva ce vreau \Nsă-ți spun de ceva timp.
+Dialogue: 100,0:09:21.07,0:09:25.66,Dialogue,HIME,0,0,0,,Am ceva ce vreau să-ți spun de ceva timp.
 Dialogue: 100,0:09:26.97,0:09:28.38,Dialogue,SATOU,0,0,0,,{\i1}Stai, ce?
 Dialogue: 100,0:09:29.04,0:09:30.22,Dialogue,SATOU,0,0,0,,{\i1}E cumva...
 Dialogue: 100,0:09:31.34,0:09:32.78,Dialogue,SATOU,0,0,0,,{\i1}E cumva ceea ce cred eu?!
@@ -175,7 +167,7 @@ Dialogue: 100,0:10:08.58,0:10:09.46,Dialogue,SATOU,0,0,0,,Eu...
 Dialogue: 100,0:10:09.46,0:10:12.11,Dialogue,HIME,0,0,0,,Mă bucur că am reușit să \Nvăd artificiile alături de tine.
 Dialogue: 100,0:10:13.00,0:10:14.64,Dialogue,HIME,0,0,0,,Și festivalul...
 Dialogue: 100,0:10:15.42,0:10:16.80,Dialogue,HIME,0,0,0,,Și acest pluș!
-Dialogue: 100,0:10:18.34,0:10:20.77,Dialogue,SATOU,0,0,0,,Nu există posibilitatea să rămâi?
+Dialogue: 100,0:10:18.34,0:10:20.77,Dialogue,SATOU,0,0,0,,Nu există nicio posibilitate să rămâi?
 Dialogue: 100,0:10:21.52,0:10:22.77,Dialogue,HIME,0,0,0,,Chiar...
 Dialogue: 100,0:10:23.76,0:10:26.28,Dialogue,HIME,0,0,0,,mi-am făcut niște \Namintiri minunate aici.
 Dialogue: 100,0:10:28.19,0:10:29.32,Dialogue,HIME,0,0,0,,Pa!
@@ -183,7 +175,7 @@ Dialogue: 100,0:10:29.32,0:10:30.44,Dialogue,SATOU,0,0,0,,Hime!
 Dialogue: 100,0:10:32.91,0:10:34.15,Dialogue,SATOU,0,0,0,,Hime...
 Dialogue: 100,0:10:37.46,0:10:39.86,Dialogue,SATOU,0,0,0,,{\i1}A spus că e undeva departe,
 Dialogue: 100,0:10:40.35,0:10:41.75,Dialogue,SATOU,0,0,0,,{\i1}dar unde se duce, mai exact?
-Dialogue: 100,0:10:43.67,0:10:48.58,Dialogue,SATOU,0,0,0,,{\i1}Privind înapoi, credeam că o cunosc, dar se pare că nu știu nimic despre ea.
+Dialogue: 100,0:10:43.67,0:10:48.58,Dialogue,SATOU,0,0,0,,{\i1}Privind în urmă, credeam că o cunosc, \Ndar se pare că nu știu nimic despre ea.
 Dialogue: 100,0:10:49.25,0:10:52.05,Dialogue,SATOU,0,0,0,,{\i1}Chiar și în ziua când am întâlnit-o...
 Dialogue: 100,0:10:52.73,0:10:54.08,Dialogue,SATOU,0,0,0,,{\i1}Simt că...
 Dialogue: 100,0:11:03.49,0:11:04.72,Dialogue,SATOU,0,0,0,,Așa este.

@@ -1,0 +1,444 @@
+[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,17,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: ep title,Arial,18,&H00FFFFFF,&H000000FF,&H00B35427,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.17,0:00:10.18,Italics,Amelia,0,0,0,,I can't believe Ray is \Nthe Iceblade Sorcerer...
+Dialogue: 0,0:00:10.81,0:00:14.12,Italics,Amelia,0,0,0,,one of the Seven Grands, \Nthe best of the best.
+Dialogue: 0,0:00:15.07,0:00:16.66,Italics,Amelia,0,0,0,,He's not like me.
+Dialogue: 0,0:00:16.66,0:00:19.37,Italics,Amelia,0,0,0,,He's overcome a cruel past.
+Dialogue: 0,0:00:19.37,0:00:21.21,Flashback_Italics,Wanda,0,0,0,,Just what I'd expect from you, Amelia!
+Dialogue: 0,0:00:21.21,0:00:22.65,Flashback_Italics,Laquis,0,0,0,,The eldest daughter of the House Rose,
+Dialogue: 0,0:00:22.65,0:00:24.24,Flashback_Italics,Laquis,0,0,0,,the leader of the three greatest families.
+Dialogue: 0,0:00:24.24,0:00:26.68,Flashback_Italics,Jeryl,0,0,0,,Not just a noble bloodline, \Nbut also the promise of a bright future!
+Dialogue: 0,0:00:26.68,0:00:28.67,Flashback_Italics,All,0,0,0,,So wonderful!
+Dialogue: 0,0:00:30.62,0:00:32.63,Italics,Amelia,0,0,0,,They can expect all they want,
+Dialogue: 0,0:00:32.63,0:00:35.00,Italics,Amelia,0,0,0,,but I'll never amount to anything.
+Dialogue: 0,0:00:35.56,0:00:36.90,Italics,Amelia,0,0,0,,In reality, I'm completely empty inside.
+Dialogue: 0,0:00:36.90,0:00:37.85,Italics,Amelia,0,0,0,,Just like a...
+Dialogue: 0,0:00:38.85,0:00:40.80,Italics,Amelia,0,0,0,,...a bird in a cage.
+Dialogue: 0,0:00:42.27,0:00:44.96,Main,Amelia,0,0,0,,Ow, my eyes!
+Dialogue: 0,0:00:44.96,0:00:46.14,Main,Amelia,0,0,0,,My eyes!
+Dialogue: 0,0:00:50.36,0:00:53.69,Main,Amelia,0,0,0,,Anyway, that Ray...
+Dialogue: 0,0:00:55.13,0:00:57.44,Main,Amelia,0,0,0,,Isn't he supposed to be more flustered?
+Dialogue: 0,0:01:00.99,0:01:04.00,Main,Amelia,0,0,0,,Or does this mean I'm not attractive enough?
+Dialogue: 0,0:01:24.87,0:01:32.67,Sign_Basic,Title,0,0,0,,{\fad(475,1)\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:02:31.71,0:02:35.17,ep title,Titl,0,0,0,,{\fad(550,0)}Episode 6\N{\fscx85}The Boy Who Became the World's Strongest Sorcerer Dons a Mask
+Dialogue: 0,0:02:35.66,0:02:38.05,Main,Carol,0,0,0,,And how are you all doing today?
+Dialogue: 0,0:02:38.56,0:02:40.55,Main,Carol,0,0,0,,It's me, Carocaro!
+Dialogue: 0,0:02:40.82,0:02:44.54,Main,Carol,0,0,0,,Let's go over the topic of \Nthe Magic Chevalier again!
+Dialogue: 0,0:02:45.02,0:02:48.69,Main,Carol,0,0,0,,The Magic Chevalier is a magic \Nsword-fighting tournament
+Dialogue: 0,0:02:48.69,0:02:50.56,Main,Carol,0,0,0,,held between three sorcery academies.
+Dialogue: 0,0:02:50.93,0:02:53.43,Main,Carol,0,0,0,,First-year students will compete \Nin the rookie bracket.
+Dialogue: 0,0:02:53.43,0:02:57.57,Main,Carol,0,0,0,,Second-year students and higher will \Nparticipate in the main tournament.
+Dialogue: 0,0:02:57.57,0:03:03.84,Main,Carol,0,0,0,,Usually, 16 contestants are selected \Nfrom each of the three academies.
+Dialogue: 0,0:03:03.84,0:03:08.00,Main,Carol,0,0,0,,But since last year's winner \Nwas our own Rebecca Bradley,
+Dialogue: 0,0:03:08.35,0:03:13.71,Main,Carol,0,0,0,,our academy gets to pick not just five, \Nbut six contestants!
+Dialogue: 0,0:03:13.71,0:03:15.01,Main,Carol,0,0,0,,That's so lucky!
+Dialogue: 0,0:03:15.50,0:03:19.04,Main,Carol,0,0,0,,They say overall, we're the strongest,
+Dialogue: 0,0:03:19.04,0:03:21.97,Main,Carol,0,0,0,,but Diom is an academy that \Nspecializes in actual battle,
+Dialogue: 0,0:03:21.97,0:03:25.51,Main,Carol,0,0,0,,while Mercross specializes \Nin sorcery research.
+Dialogue: 0,0:03:25.51,0:03:28.84,Main,Carol,0,0,0,,Many students there go on to become researchers.
+Dialogue: 0,0:03:28.84,0:03:31.35,Main,Carol,0,0,0,,Well, anyway, we've all got our \Nown particular strengths,
+Dialogue: 0,0:03:31.35,0:03:33.78,Main,Carol,0,0,0,,so it should be a good competition.
+Dialogue: 0,0:03:33.78,0:03:37.75,Main,Carol,0,0,0,,The organizational staff might be doing the \Nnon-glamorous job of supporting the faculty,
+Dialogue: 0,0:03:37.75,0:03:40.52,Main,Carol,0,0,0,,but they are the unsung heroes.
+Dialogue: 0,0:03:40.52,0:03:43.47,Main,Carol,0,0,0,,So, we're counting on you!
+Dialogue: 0,0:03:45.75,0:03:48.94,Main - Top,Carol,0,0,0,,Now, let's get right to the qualifiers.
+Dialogue: 0,0:03:48.22,0:03:50.37,Main,Claris,0,0,0,,Ray, we've got to do our best!
+Dialogue: 0,0:03:49.30,0:03:52.81,Main - Top,Carol,0,0,0,,Let's assign you all your tasks!
+Dialogue: 0,0:03:52.81,0:03:54.64,Main - Top,Carol,0,0,0,,Yay! Fun fun!
+Dialogue: 0,0:03:52.97,0:03:53.76,Main,Claris,0,0,0,,Huh?
+Dialogue: 0,0:03:55.63,0:03:56.80,Main,Ray,0,0,0,,Miss Abbie!
+Dialogue: 0,0:03:57.39,0:03:58.75,Main,Abbie,0,0,0,,What is it, Ray?
+Dialogue: 0,0:03:58.75,0:04:00.49,Main,Ray,0,0,0,,You know exactly what it is!
+Dialogue: 0,0:04:00.49,0:04:03.55,Main,Ray,0,0,0,,Why is... why is that woman... here?!
+Dialogue: 0,0:04:03.79,0:04:05.65,Main,Abbie,0,0,0,,Oh, you mean Carol.
+Dialogue: 0,0:04:05.65,0:04:08.37,Main,Abbie,0,0,0,,She happened to be free, \Nso I called her here.
+Dialogue: 0,0:04:08.37,0:04:12.61,Main,Abbie,0,0,0,,It's also my responsibility to select \Nstaff that will keep this academy safe.
+Dialogue: 0,0:04:12.61,0:04:15.25,Main,Ray,0,0,0,,Then, I will assist you!
+Dialogue: 0,0:04:15.25,0:04:17.20,Main,Ray,0,0,0,,But please, anyone but that woman!
+Dialogue: 0,0:04:17.55,0:04:19.02,Main,Abbie,0,0,0,,I understand how you feel, but...
+Dialogue: 0,0:04:19.02,0:04:20.94,Main,Ray,0,0,0,,Miss Abbie, I'm sure you're also aware of this.
+Dialogue: 0,0:04:20.94,0:04:23.36,Main,Ray,0,0,0,,She's the only person I can't handle. \NIt's always been that way.
+Dialogue: 0,0:04:23.36,0:04:26.01,Main,Ray,0,0,0,,And on top of it all, \Nshe has to be my homeroom teacher?
+Dialogue: 0,0:04:26.01,0:04:27.66,Main,Abbie,0,0,0,,Relax.
+Dialogue: 0,0:04:27.66,0:04:31.38,Main,Abbie,0,0,0,,Carol's brand of sorcery is \Nvery convenient to have.
+Dialogue: 0,0:04:31.66,0:04:34.75,Main,Abbie,0,0,0,,Plus, the students seem to like her, too.
+Dialogue: 0,0:04:35.15,0:04:37.12,Main,Ray,0,0,0,,Th-That's...
+Dialogue: 0,0:04:37.43,0:04:40.16,Main,Ray,0,0,0,,That's because they don't \Nknow her true nature!
+Dialogue: 0,0:04:40.16,0:04:43.27,Main,Ray,0,0,0,,Anyway, please just fire her, \Nthe sooner the better!
+Dialogue: 0,0:04:45.39,0:04:48.56,Main,Carol,0,0,0,,Did you really just say that, Ray?
+Dialogue: 0,0:04:49.56,0:04:51.81,Main,Carol,0,0,0,,That makes me so sad.
+Dialogue: 0,0:04:55.20,0:04:56.70,Main,Ray,0,0,0,,Miss Abbie!
+Dialogue: 0,0:04:56.70,0:04:57.90,Main,Carol,0,0,0,,Wait!
+Dialogue: 0,0:04:59.24,0:05:01.31,Main,Abbie,0,0,0,,Sorry, but you'll have to give it up.
+Dialogue: 0,0:04:59.24,0:05:02.44,Main - Top,Carol,0,0,0,,Let me pet you like I used to!
+Dialogue: 0,0:05:01.31,0:05:05.04,Main,Abbie,0,0,0,,Despite being this way, \Nshe's actually quite a talented sorcerer.
+Dialogue: 0,0:05:10.11,0:05:13.15,Main,Claris,0,0,0,,Who do you think is going to win this match?
+Dialogue: 0,0:05:13.15,0:05:16.37,Main,Ray,0,0,0,,I don't know her name, but I think \Nit will be the female student.
+Dialogue: 0,0:05:16.64,0:05:20.17,Main,Ray,0,0,0,,Her code assembly rate and \Naccuracy are on another level.
+Dialogue: 0,0:05:20.60,0:05:24.87,Main,Ray,0,0,0,,The guy keeps trying to attack her with \Nhis sword, but he's still very clumsy.
+Dialogue: 0,0:05:25.40,0:05:29.46,Main,Ray,0,0,0,,Based on her overall power, \Nshe's got the better chance here.
+Dialogue: 0,0:05:29.79,0:05:30.63,Main,Ray,0,0,0,,Oh.
+Dialogue: 0,0:05:30.63,0:05:31.98,Main,Ray,0,0,0,,Looks like they're done.
+Dialogue: 0,0:05:32.61,0:05:34.51,Main,Claris,0,0,0,,That's a bit creepy.
+Dialogue: 0,0:05:34.51,0:05:35.44,Main,Ray,0,0,0,,What is?
+Dialogue: 0,0:05:35.44,0:05:37.11,Main,Claris,0,0,0,,Don't "what is" me!
+Dialogue: 0,0:05:37.11,0:05:40.48,Main,Claris,0,0,0,,It's weird to know who will win a \Nfight mere seconds after it started.
+Dialogue: 0,0:05:40.48,0:05:41.51,Main,Ray,0,0,0,,Is it?
+Dialogue: 0,0:05:41.51,0:05:43.47,Main,Ray,0,0,0,,The difference in their \Nabilities was clear as day.
+Dialogue: 0,0:05:43.76,0:05:48.01,Main,Ray,0,0,0,,At this level, three seconds is usually \Nenough to determine how it will end.
+Dialogue: 0,0:05:48.37,0:05:50.31,Main,Claris,0,0,0,,Creepy...
+Dialogue: 0,0:05:50.31,0:05:51.98,Main,Guy,0,0,0,,Oh, this is the big one!
+Dialogue: 0,0:05:52.42,0:05:54.42,Main,Wanda,0,0,0,,Miss Amelia!
+Dialogue: 0,0:05:55.23,0:05:57.16,Main,Claris,0,0,0,,Oh, it's over.
+Dialogue: 0,0:05:57.16,0:05:59.67,Main,Claris,0,0,0,,Even I can tell!
+Dialogue: 0,0:06:02.08,0:06:03.82,Main,Eliott,0,0,0,,The winner is Amelia Rose.
+Dialogue: 0,0:06:04.32,0:06:05.76,Main,Claris,0,0,0,,Six seconds!
+Dialogue: 0,0:06:05.76,0:06:08.75,Main,Claris,0,0,0,,I know it's just an early round, \Nbut Amelia is truly amazing.
+Dialogue: 0,0:06:08.75,0:06:10.79,Main,Ray,0,0,0,,Yes, however...
+Dialogue: 0,0:06:11.50,0:06:13.36,Main,Ray,0,0,0,,Victory is obvious.
+Dialogue: 0,0:06:13.36,0:06:15.35,Main,Ray,0,0,0,,But it doesn't look like that's \Nwhat she's thinking about...
+Dialogue: 0,0:06:16.66,0:06:21.09,Main,Ray,0,0,0,,She has the expression of someone \Nhandling a mundane task.
+Dialogue: 0,0:06:22.81,0:06:25.66,Flashback,Claude,0,0,0,,We're expecting great \Nthings from you, Amelia.
+Dialogue: 0,0:06:25.66,0:06:27.55,Flashback,Amelia,0,0,0,,Yes, Father.
+Dialogue: 0,0:06:27.55,0:06:29.72,Flashback,Claude,0,0,0,,You are the eldest daughter \Nof House Rose,
+Dialogue: 0,0:06:29.72,0:06:31.40,Flashback,Claude,0,0,0,,the leader of the three great houses.
+Dialogue: 0,0:06:31.40,0:06:32.90,Flashback,Claude,0,0,0,,Compete like your life depends on it.
+Dialogue: 0,0:06:34.18,0:06:35.25,Flashback,Amelia,0,0,0,,I understand.
+Dialogue: 0,0:06:36.20,0:06:38.00,Flashback,Claude,0,0,0,,Especially concerning Algren.
+Dialogue: 0,0:06:38.37,0:06:41.56,Flashback,Claude,0,0,0,,Losing to Miss Ariane \Nis out of the question.
+Dialogue: 0,0:06:43.39,0:06:46.75,Flashback,Claude,0,0,0,,Never forget the position you're in.
+Dialogue: 0,0:06:47.06,0:06:48.28,Flashback,Claude,0,0,0,,Understood?
+Dialogue: 0,0:06:48.28,0:06:50.42,Flashback,Amelia,0,0,0,,Yes, Father.
+Dialogue: 0,0:06:51.72,0:06:54.22,Main,Ray,0,0,0,,Ariane Algren?
+Dialogue: 0,0:06:54.22,0:06:55.47,Main,Rebecca,0,0,0,,Yes.
+Dialogue: 0,0:06:55.47,0:06:59.11,Main,Rebecca,0,0,0,,Ariane has already been selected \Nas one of Diom's representatives.
+Dialogue: 0,0:06:59.11,0:07:00.97,Main,Dina,0,0,0,,That makes sense, too.
+Dialogue: 0,0:07:01.33,0:07:04.97,Main,Ray,0,0,0,,Is she strong, this Ariane Algren?
+Dialogue: 0,0:07:05.37,0:07:07.23,Main,Rebecca,0,0,0,,She is.
+Dialogue: 0,0:07:07.55,0:07:12.08,Main,Rebecca,0,0,0,,Despite also coming from a great family, \Nshe and Amelia are a little different.
+Dialogue: 0,0:07:12.08,0:07:13.40,Main,Rebecca,0,0,0,,How can I put it?
+Dialogue: 0,0:07:13.93,0:07:16.07,Main,Rebecca,0,0,0,,To me she seems like the type who takes pride
+Dialogue: 0,0:07:16.07,0:07:18.53,Main,Rebecca,0,0,0,,in being a noble, and can \Nturn that into strength.
+Dialogue: 0,0:07:18.53,0:07:20.02,Main,Ray,0,0,0,,Being a noble...
+Dialogue: 0,0:07:20.46,0:07:24.30,Main,Dina,0,0,0,,I saw her practice once.
+Dialogue: 0,0:07:24.30,0:07:27.67,Main,Dina,0,0,0,,Even though she's younger than me, \Nher movements were truly marvelous.
+Dialogue: 0,0:07:27.67,0:07:31.33,Main,Dina,0,0,0,,Like a majestic bird soaring across the sky!
+Dialogue: 0,0:07:33.04,0:07:35.28,Main,Rebecca,0,0,0,,She's a formidable opponent,
+Dialogue: 0,0:07:35.28,0:07:39.01,Main,Rebecca,0,0,0,,but I know Amelia will \Ngive her a good fight.
+Dialogue: 0,0:07:39.01,0:07:41.51,Main,Ray,0,0,0,,Yes. That's what I believe.
+Dialogue: 0,0:07:41.51,0:07:45.18,Main,Dina,0,0,0,,In any case, Miss Rebecca is going \Nto take first place by a huge margin,
+Dialogue: 0,0:07:45.18,0:07:47.68,Main,Dina,0,0,0,,just like last year!
+Dialogue: 0,0:07:47.68,0:07:49.66,Main,Rebecca,0,0,0,,Oh, Dina.
+Dialogue: 0,0:07:55.36,0:07:57.44,Main,Eliott,0,0,0,,The winner is Amelia Rose.
+Dialogue: 0,0:07:57.44,0:08:01.45,Main,Eliott,0,0,0,,Having won all her matches, she has secured \Na spot for the Magic Chevalier!
+Dialogue: 0,0:08:01.45,0:08:03.78,Main,Evi,0,0,0,,Wow, she's in first place!
+Dialogue: 0,0:08:03.78,0:08:05.49,Main,Elisa,0,0,0,,Amelia did it!
+Dialogue: 0,0:08:05.49,0:08:08.17,Main,Claris,0,0,0,,Most of her fights were \Ndone in under ten seconds.
+Dialogue: 0,0:08:08.40,0:08:10.76,Main,Claris,0,0,0,,But it looks like her opponent, Alium,
+Dialogue: 0,0:08:10.76,0:08:12.96,Main,Claris,0,0,0,,made it through the qualifiers \N in second place.
+Dialogue: 0,0:08:14.17,0:08:16.89,Main,Claris,0,0,0,,I've never seen him like that.
+Dialogue: 0,0:08:16.89,0:08:17.98,Main,Ray,0,0,0,,Is that right?
+Dialogue: 0,0:08:19.69,0:08:22.17,Main,Wanda,0,0,0,,Great work, Miss Amelia!
+Dialogue: 0,0:08:22.17,0:08:23.24,Main,Laquis,0,0,0,,Just as expected!
+Dialogue: 0,0:08:23.24,0:08:24.66,Main,Jeryl,0,0,0,,Congratulations!
+Dialogue: 0,0:08:24.66,0:08:25.80,Main,Amelia,0,0,0,,Thank you.
+Dialogue: 0,0:08:27.21,0:08:29.54,Main,Wanda,0,0,0,,We'll be cheering for you \Nin the main matches, too!
+Dialogue: 0,0:08:29.54,0:08:31.12,Main,All,0,0,0,,We all will!
+Dialogue: 0,0:08:31.86,0:08:36.62,Italics,Amelia,0,0,0,,I need to meet everyone's expectations.
+Dialogue: 0,0:08:37.36,0:08:39.07,Italics,Amelia,0,0,0,,My father's expectations.
+Dialogue: 0,0:08:45.38,0:08:47.12,Flashback_Italics,Lydia,0,0,0,,Here, take this.
+Dialogue: 0,0:08:47.55,0:08:50.02,Flashback_Italics,Lydia,0,0,0,,I'm sure it'll be useful some day.
+Dialogue: 0,0:08:58.21,0:08:59.33,Main,Amelia,0,0,0,,Ray?
+Dialogue: 0,0:08:59.33,0:09:00.68,Main,Amelia,0,0,0,,What are you doing here?
+Dialogue: 0,0:09:00.68,0:09:02.74,Main,Ray,0,0,0,,Congratulations on making \Nit through the qualifiers.
+Dialogue: 0,0:09:02.74,0:09:04.26,Main,Amelia,0,0,0,,Thank yo—
+Dialogue: 0,0:09:04.26,0:09:06.31,Main,Ray,0,0,0,,It was too easy, \Nand it makes you uneasy.
+Dialogue: 0,0:09:07.74,0:09:10.06,Main,Ray,0,0,0,,"Am I good enough like this?"
+Dialogue: 0,0:09:10.59,0:09:12.32,Main,Ray,0,0,0,,That's what you're thinking.
+Dialogue: 0,0:09:14.01,0:09:15.28,Main,Ray,0,0,0,,Do you want to become strong?
+Dialogue: 0,0:09:17.43,0:09:22.28,Main,Amelia,0,0,0,,Ariane is going to be in the rookie \Nbracket of the Magic Chevalier.
+Dialogue: 0,0:09:22.28,0:09:25.46,Main,Amelia,0,0,0,,She's stronger than me...
+Dialogue: 0,0:09:26.56,0:09:31.10,Main,Ray,0,0,0,,We have less than a month left until \Nthe tournament, but I could train you.
+Dialogue: 0,0:09:31.10,0:09:33.22,Main,Amelia,0,0,0,,Really? But you're—
+Dialogue: 0,0:09:33.22,0:09:34.10,Main,Ray,0,0,0,,It's fine.
+Dialogue: 0,0:09:35.09,0:09:39.26,Main,Ray,0,0,0,,Since I'll only be instructing, \NI won't need to release my abilities.
+Dialogue: 0,0:09:39.26,0:09:42.71,Main,Ray,0,0,0,,My master also lent me this.
+Dialogue: 0,0:09:42.71,0:09:44.07,Main,Amelia,0,0,0,,What is that?
+Dialogue: 0,0:09:44.07,0:09:46.70,Main,Ray,0,0,0,,The Ainsworth-style boot camp.
+Dialogue: 0,0:09:46.70,0:09:49.81,Main,Ray,0,0,0,,This is what I used to \Nbuild my own foundation.
+Dialogue: 0,0:09:49.81,0:09:52.50,Main,Ray,0,0,0,,I completed it when I was little.
+Dialogue: 0,0:09:52.50,0:09:53.55,Main,Amelia,0,0,0,,I'll do it!
+Dialogue: 0,0:09:54.79,0:09:56.48,Main,Ray,0,0,0,,That's the spirit!
+Dialogue: 0,0:09:56.96,0:09:59.35,Main,Ray,0,0,0,,Then, follow me, Amelia!
+Dialogue: 0,0:09:59.67,0:10:01.97,Main,Ray,0,0,0,,The path ahead is going to be brutal.
+Dialogue: 0,0:10:01.97,0:10:05.53,Main,Ray,0,0,0,,But if you make it to the \Nend, you can get stronger.
+Dialogue: 0,0:10:05.53,0:10:06.79,Main,Ray,0,0,0,,So much stronger than you are now.
+Dialogue: 0,0:10:07.18,0:10:07.92,Main,Ray,0,0,0,,Okay?
+Dialogue: 0,0:10:12.56,0:10:17.59,Italics,Amelia,0,0,0,,The first time I met Ariane was at one \Nof the parties for the upper nobility.
+Dialogue: 0,0:10:18.79,0:10:21.19,Flashback,Ariane,0,0,0,,Are you Amelia?
+Dialogue: 0,0:10:22.52,0:10:24.89,Flashback,Ariane,0,0,0,,I'm Ariane Algren.
+Dialogue: 0,0:10:25.33,0:10:27.10,Flashback,Ariane,0,0,0,,Want to come play with me?
+Dialogue: 0,0:10:43.24,0:10:48.72,Italics,Amelia,0,0,0,,Being the same age, we naturally \Nbecame friends after that.
+Dialogue: 0,0:10:49.07,0:10:51.46,Flashback,Ariane,0,0,0,,Let's go, Amelia!
+Dialogue: 0,0:10:51.46,0:10:53.97,Flashback,Amelia,0,0,0,,W-Wait for me!
+Dialogue: 0,0:10:55.09,0:10:58.46,Flashback,Ariane,0,0,0,,Amelia, this is a stag beetle.
+Dialogue: 0,0:10:58.94,0:11:01.47,Flashback,Amelia,0,0,0,,Its horn is so big!
+Dialogue: 0,0:11:07.03,0:11:08.60,Flashback,Ariane,0,0,0,,I won.
+Dialogue: 0,0:11:09.77,0:11:11.30,Italics,Amelia,0,0,0,,We had so much fun.
+Dialogue: 0,0:11:11.30,0:11:15.23,Italics,Amelia,0,0,0,,I loved her with all my heart.
+Dialogue: 0,0:11:19.86,0:11:21.66,Flashback,Ariane,0,0,0,,Is something the matter?
+Dialogue: 0,0:11:22.28,0:11:28.36,Flashback,Amelia,0,0,0,,Thank you for always playing with me.
+Dialogue: 0,0:11:29.99,0:11:34.38,Flashback,Ariane,0,0,0,,I'm also always grateful for you.
+Dialogue: 0,0:11:34.38,0:11:36.17,Flashback,Amelia,0,0,0,,Really?
+Dialogue: 0,0:11:36.17,0:11:36.92,Flashback,Ariane,0,0,0,,Yes.
+Dialogue: 0,0:11:37.46,0:11:43.89,Flashback,Ariane,0,0,0,,I do worry that you actually resent me for \Nalways dragging you all over the place...
+Dialogue: 0,0:11:43.89,0:11:45.38,Flashback,Amelia,0,0,0,,I'd never resent you!
+Dialogue: 0,0:11:45.77,0:11:51.14,Flashback,Amelia,0,0,0,,If it wasn't for you, \NI think I'd just be inside all the time.
+Dialogue: 0,0:11:51.62,0:11:58.16,Flashback,Amelia,0,0,0,,But you're the one who got \Nme outside, so thank you!
+Dialogue: 0,0:12:02.15,0:12:03.54,Flashback,Ariane,0,0,0,,Amelia.
+Dialogue: 0,0:12:03.54,0:12:06.90,Flashback,Ariane,0,0,0,,We will always be friends.
+Dialogue: 0,0:12:08.63,0:12:09.55,Flashback,Amelia,0,0,0,,Yes.
+Dialogue: 0,0:12:09.90,0:12:11.87,Flashback,Amelia,0,0,0,,Always, always.
+Dialogue: 0,0:12:11.87,0:12:14.17,Flashback,Ariane,0,0,0,,Always, always, always.
+Dialogue: 0,0:12:15.32,0:12:17.46,Italics,Amelia,0,0,0,,We were so close, but...
+Dialogue: 0,0:12:50.47,0:12:53.79,Italics,Amelia,0,0,0,,That was the last time we were really friends.
+Dialogue: 0,0:12:54.75,0:12:58.32,Italics,Amelia,0,0,0,,No, Ariane has always stayed the same.
+Dialogue: 0,0:12:58.80,0:13:00.66,Italics,Amelia,0,0,0,,It was me who changed.
+Dialogue: 0,0:13:07.70,0:13:09.60,Italics,Amelia,0,0,0,,Being a noble.
+Dialogue: 0,0:13:09.60,0:13:11.61,Italics,Amelia,0,0,0,,Being perceived as a noble.
+Dialogue: 0,0:13:12.14,0:13:15.71,Italics,Amelia,0,0,0,,At some point I realized that it \Nhad become everything to me.
+Dialogue: 0,0:13:16.71,0:13:18.10,Italics,Amelia,0,0,0,,In order to survive.
+Dialogue: 0,0:13:18.96,0:13:20.22,Main,Amelia,0,0,0,,I need to win.
+Dialogue: 0,0:13:25.11,0:13:28.09,Main,Amelia,0,0,0,,It looks like Ray's not here yet.
+Dialogue: 0,0:13:28.09,0:13:29.65,Main,Ray,0,0,0,,Good morning, Amelia.
+Dialogue: 0,0:13:35.22,0:13:37.22,Main,Amelia,0,0,0,,Ray. That is you, right?
+Dialogue: 0,0:13:37.22,0:13:39.29,Main,Ray,0,0,0,,I am Master White.
+Dialogue: 0,0:13:40.16,0:13:42.87,Main,Ray,0,0,0,,From here on, I am your instructor.
+Dialogue: 0,0:13:42.87,0:13:44.93,Main,Ray,0,0,0,,You are a private in training.
+Dialogue: 0,0:13:45.19,0:13:46.68,Main,Ray,0,0,0,,You answer with "ranger".
+Dialogue: 0,0:13:46.68,0:13:47.47,Main,Ray,0,0,0,,Got it?!
+Dialogue: 0,0:13:47.83,0:13:50.00,Main,Amelia,0,0,0,,Uh? Huh?
+Dialogue: 0,0:13:50.20,0:13:53.58,Main,Ray,0,0,0,,I said you answer with "ranger",\NPrivate Amelia!
+Dialogue: 0,0:13:54.32,0:13:55.88,Main,Ray,0,0,0,,First, I want you to lap the school,
+Dialogue: 0,0:13:55.88,0:13:59.04,Main,Ray,0,0,0,,enter the Kafka Forest \Nand then come back here.
+Dialogue: 0,0:13:59.04,0:14:01.27,Main,Ray,0,0,0,,That's easily twenty kilometers,
+Dialogue: 0,0:14:01.27,0:14:03.87,Main,Ray,0,0,0,,but you are not allowed to \Nuse any body enhancements!
+Dialogue: 0,0:14:03.87,0:14:06.29,Main,Amelia,0,0,0,,Twenty kilometers without body enhancements?
+Dialogue: 0,0:14:06.58,0:14:07.53,Main,Ray,0,0,0,,What is the response?
+Dialogue: 0,0:14:07.86,0:14:09.76,Main,Amelia,0,0,0,,R-Ranger!
+Dialogue: 0,0:14:12.78,0:14:16.87,Main,Ray,0,0,0,,Many sorcerers try to rely \Non body enhancement sorcery.
+Dialogue: 0,0:14:16.87,0:14:20.54,Main,Ray,0,0,0,,However, in the end, you only have \Nyour own body to fall back on!
+Dialogue: 0,0:14:20.54,0:14:22.84,Main,Ray,0,0,0,,No matter how strong your will might be,
+Dialogue: 0,0:14:22.84,0:14:24.78,Main,Ray,0,0,0,,it's meaningless if your body cannot keep up!
+Dialogue: 0,0:14:27.07,0:14:31.25,Main,Ray,0,0,0,,Today's routine was light, but we'll \Nbe going in earnest tomorrow.
+Dialogue: 0,0:14:32.16,0:14:33.97,Main,Amelia,0,0,0,,This was "light"?
+Dialogue: 0,0:14:34.24,0:14:36.48,Main,Ray,0,0,0,,I said you answer with "ranger"!
+Dialogue: 0,0:14:37.78,0:14:39.58,Main,Amelia,0,0,0,,Ranger!
+Dialogue: 0,0:14:39.58,0:14:40.07,Main,Ray,0,0,0,,Good!
+Dialogue: 0,0:14:45.62,0:14:47.81,Main,Evi,0,0,0,,What's up with her?
+Dialogue: 0,0:14:47.81,0:14:50.57,Main,Elisa,0,0,0,,I guess she's doing Ray's special training.
+Dialogue: 0,0:14:50.57,0:14:54.35,Main,Elisa,0,0,0,,It seems she's being pushed quite \Nhard from morning until evening.
+Dialogue: 0,0:14:54.35,0:14:58.22,Main,Evi,0,0,0,,So that's why Ray was going out in \Nthe morning with that weird mask on.
+Dialogue: 0,0:14:58.22,0:14:58.97,Main,Elisa,0,0,0,,A mask?
+Dialogue: 0,0:14:58.97,0:15:01.95,Main,Evi,0,0,0,,I was wondering why he \Nneeds that to go running.
+Dialogue: 0,0:15:01.95,0:15:03.07,Main,Evi,0,0,0,,But now I get it.
+Dialogue: 0,0:15:03.07,0:15:04.32,Main,Elisa,0,0,0,,You do?
+Dialogue: 0,0:15:10.12,0:15:12.53,Main,Amelia,0,0,0,,I'm in Hell.
+Dialogue: 0,0:15:19.37,0:15:20.68,Main,Amelia,0,0,0,,Ariane!
+Dialogue: 0,0:15:21.59,0:15:23.67,Main,Amelia,0,0,0,,Wait, don't go!
+Dialogue: 0,0:15:30.45,0:15:31.85,Main,Elisa,0,0,0,,Amelia.
+Dialogue: 0,0:15:35.11,0:15:37.28,Main,Amelia,0,0,0,,E-Elisa?
+Dialogue: 0,0:15:37.56,0:15:39.84,Main,Elisa,0,0,0,,You seem so alone.
+Dialogue: 0,0:15:38.91,0:15:41.07,Main - Top,Amelia,0,0,0,,Wai— Elisa!
+Dialogue: 0,0:15:42.12,0:15:44.54,Main,Elisa,0,0,0,,There, there.
+Dialogue: 0,0:15:42.80,0:15:46.18,Main,Amelia,0,0,0,,I-I'm stuck.
+Dialogue: 0,0:15:46.18,0:15:48.55,Main,Elisa,0,0,0,,Poor Amelia.
+Dialogue: 0,0:15:49.26,0:15:50.71,Main,Amelia,0,0,0,,Claris?!
+Dialogue: 0,0:15:50.71,0:15:52.55,Main,Amelia,0,0,0,,Huh? Why?!
+Dialogue: 0,0:15:53.61,0:15:56.61,Main,Amelia,0,0,0,,Is this... H-Heaven?
+Dialogue: 0,0:15:56.61,0:15:58.01,Main - Top,Claris,0,0,0,,Bunny bun.
+Dialogue: 0,0:15:57.25,0:16:01.20,Main,Ray,0,0,0,,Amelia!
+Dialogue: 0,0:16:01.20,0:16:05.25,Main,Ray,0,0,0,,Amelia!
+Dialogue: 0,0:16:12.78,0:16:15.58,Main,Amelia,0,0,0,,R-Ray, y-you're too close!
+Dialogue: 0,0:16:16.49,0:16:17.58,Main,Ray,0,0,0,,Want a bite?
+Dialogue: 0,0:16:21.79,0:16:24.37,Main,Ray,0,0,0,,Private Amelia! Time to report for duty!
+Dialogue: 0,0:16:24.37,0:16:25.91,Main,Ray,0,0,0,,You have one minute to get ready.
+Dialogue: 0,0:16:26.22,0:16:27.79,Main,Amelia,0,0,0,,This can't be happening.
+Dialogue: 0,0:16:27.79,0:16:29.43,Main,Ray,0,0,0,,Are you still sleeping?!
+Dialogue: 0,0:16:29.43,0:16:32.41,Main,Ray,0,0,0,,I told you, you answer with "ranger"!
+Dialogue: 0,0:16:32.41,0:16:33.37,Main,Ray,0,0,0,,Hurry up!
+Dialogue: 0,0:16:33.37,0:16:34.89,Main,Ray,0,0,0,,I'll be waiting for you downstairs.
+Dialogue: 0,0:16:35.65,0:16:36.89,Main,Dina,0,0,0,,Ray!
+Dialogue: 0,0:16:36.89,0:16:37.55,Main,Ray,0,0,0,,Huh?
+Dialogue: 0,0:16:37.94,0:16:41.07,Main,Dina,0,0,0,,What are you doing out here so early \Nin the morning with that mask?!
+Dialogue: 0,0:16:41.07,0:16:42.74,Main,Ray,0,0,0,,What am I doing?
+Dialogue: 0,0:16:42.74,0:16:45.56,Main,Ray,0,0,0,,You mean the Ainsworth-style wake-up call?
+Dialogue: 0,0:16:45.56,0:16:47.70,Main,Ray,0,0,0,,Also, I am not Ray.
+Dialogue: 0,0:16:48.08,0:16:50.43,Main,Ray,0,0,0,,I am Master White!
+Dialogue: 0,0:16:50.81,0:16:52.05,Main - Top,Rebecca,0,0,0,,Honestly, Ray...
+Dialogue: 0,0:16:51.37,0:16:53.93,Main,Dina,0,0,0,,I don't care about the official name for it!
+Dialogue: 0,0:16:53.93,0:16:56.45,Main,Dina,0,0,0,,Just stop coming into the girls' dormitory!
+Dialogue: 0,0:16:56.45,0:16:57.50,Main,Ray,0,0,0,,I see.
+Dialogue: 0,0:16:57.50,0:17:00.80,Main,Ray,0,0,0,,My apologies for not being more \Nconsiderate of the surroundings.
+Dialogue: 0,0:17:00.80,0:17:05.43,Main,Ray,0,0,0,,But I must say that you both look \Nvery exquisite in your pajamas.
+Dialogue: 0,0:17:05.43,0:17:07.19,Main,Dina,0,0,0,,I don't care what you \Nthink about that, either!
+Dialogue: 0,0:17:07.19,0:17:08.30,Main,Rebecca,0,0,0,,Oh, my.
+Dialogue: 0,0:17:08.72,0:17:10.60,Main,Ray,0,0,0,,Where do you think you're \Ngoing, Private Amelia?!
+Dialogue: 0,0:17:10.60,0:17:11.46,Main,Amelia,0,0,0,,Oh, no!
+Dialogue: 0,0:17:12.46,0:17:13.75,Main,Dina,0,0,0,,Is that...
+Dialogue: 0,0:17:13.75,0:17:15.28,Main,Rebecca,0,0,0,,Miss Amelia?
+Dialogue: 0,0:17:15.28,0:17:16.74,Main,Ray,0,0,0,,I see.
+Dialogue: 0,0:17:16.74,0:17:19.09,Main,Ray,0,0,0,,We've got a runner this morning, huh?
+Dialogue: 0,0:17:19.09,0:17:21.14,Main,Ray,0,0,0,,However, I am a pro chaser!
+Dialogue: 0,0:17:20.25,0:17:21.59,Main,Dina,0,0,0,,Hey, Ray!
+Dialogue: 0,0:17:21.59,0:17:22.32,Main,Ray,0,0,0,,Let's go!
+Dialogue: 0,0:17:22.32,0:17:23.61,Main - Top,Amelia,0,0,0,,No!
+Dialogue: 0,0:17:22.94,0:17:24.60,Main - Top,Ray,0,0,0,,You won't get away!
+Dialogue: 0,0:17:23.79,0:17:26.04,Main - Top,Amelia,0,0,0,,I was training on my own!
+Dialogue: 0,0:17:24.60,0:17:25.91,Main,Rebecca,0,0,0,,See you later.
+Dialogue: 0,0:17:25.91,0:17:27.79,Main,Dina,0,0,0,,I wasn't done with you!
+Dialogue: 0,0:17:31.90,0:17:34.15,Main,Ray,0,0,0,,I can't believe she ran away again.
+Dialogue: 0,0:17:35.48,0:17:36.58,Main,Ray,0,0,0,,Albert?
+Dialogue: 0,0:17:37.19,0:17:38.36,Main,Albert,0,0,0,,Oh, Ray, it's you.
+Dialogue: 0,0:17:38.64,0:17:40.25,Main,Ray,0,0,0,,Are you here all by yourself?
+Dialogue: 0,0:17:40.25,0:17:41.85,Main,Ray,0,0,0,,Where's your usual group?
+Dialogue: 0,0:17:42.29,0:17:45.33,Main,Albert,0,0,0,,Once in a while, I do like to be alone.
+Dialogue: 0,0:17:45.33,0:17:46.63,Main,Ray,0,0,0,,I see.
+Dialogue: 0,0:17:48.10,0:17:48.94,Main,Albert,0,0,0,,Hey.
+Dialogue: 0,0:17:49.62,0:17:52.75,Main,Albert,0,0,0,,How can I become strong?
+Dialogue: 0,0:17:54.29,0:17:57.93,Main,Albert,0,0,0,,To be honest, I still \Nhave doubt in my heart.
+Dialogue: 0,0:17:58.37,0:18:00.37,Main,Albert,0,0,0,,I train every day,
+Dialogue: 0,0:18:01.03,0:18:04.42,Main,Albert,0,0,0,,but trying to shake off this doubt \Nis proving quite difficult.
+Dialogue: 0,0:18:05.94,0:18:07.34,Main,Ray,0,0,0,,There's no need to rush.
+Dialogue: 0,0:18:07.82,0:18:10.92,Main,Ray,0,0,0,,You've gotten stronger without\Neven knowing it.
+Dialogue: 0,0:18:10.92,0:18:12.41,Main,Ray,0,0,0,,And I'm sure you'll get even stronger.
+Dialogue: 0,0:18:13.41,0:18:14.85,Main,Ray,0,0,0,,So don't worry.
+Dialogue: 0,0:18:16.21,0:18:17.52,Main,Albert,0,0,0,,You really think so?
+Dialogue: 0,0:18:18.08,0:18:19.06,Main,Ray,0,0,0,,I do.
+Dialogue: 0,0:18:19.06,0:18:20.55,Main,Ray,0,0,0,,I guarantee it.
+Dialogue: 0,0:18:22.53,0:18:27.33,Main,Albert,0,0,0,,Hearing it from you makes me \Nbelieve it will actually happen.
+Dialogue: 0,0:18:29.10,0:18:31.09,Main,Claris,0,0,0,,I can't take this anymore!
+Dialogue: 0,0:18:31.09,0:18:33.09,Main,Claris,0,0,0,,This assignment is way too hard!
+Dialogue: 0,0:18:33.09,0:18:36.72,Main,Elisa,0,0,0,,Your hair is all messed up.
+Dialogue: 0,0:18:36.72,0:18:38.88,Main,Elisa,0,0,0,,Let me fix it for you.
+Dialogue: 0,0:18:39.59,0:18:41.76,Main,Claris,0,0,0,,I'm so sorry, Elisa.
+Dialogue: 0,0:18:41.76,0:18:44.77,Main,Elisa,0,0,0,,I'd prefer a thank you over an apology.
+Dialogue: 0,0:18:45.77,0:18:47.31,Main,Claris,0,0,0,,Thank you.
+Dialogue: 0,0:18:48.72,0:18:50.42,Main,Ray,0,0,0,,Have you seen Amelia?
+Dialogue: 0,0:18:50.42,0:18:51.61,Main,Elisa,0,0,0,,Amelia?
+Dialogue: 0,0:18:51.61,0:18:52.76,Main,Elisa,0,0,0,,We haven't seen her.
+Dialogue: 0,0:18:52.76,0:18:53.95,Main,Ray,0,0,0,,I see.
+Dialogue: 0,0:18:54.48,0:18:57.75,Main,Ray,0,0,0,,Well, you can't run from me, Private Amelia!
+Dialogue: 0,0:19:06.26,0:19:08.74,Main,Ray,0,0,0,,I found you, Private Amelia!
+Dialogue: 0,0:19:08.96,0:19:11.35,Main,Librarian,0,0,0,,Hey, you can't run in here!
+Dialogue: 0,0:19:14.99,0:19:16.50,Main,Amelia,0,0,0,,This is too hard.
+Dialogue: 0,0:19:21.44,0:19:23.33,Main,Amelia,0,0,0,,H-How did you find me here?
+Dialogue: 0,0:19:23.33,0:19:24.91,Main,Ray,0,0,0,,I used my abilities a bit.
+Dialogue: 0,0:19:24.91,0:19:26.18,Main,Amelia,0,0,0,,You went that far?
+Dialogue: 0,0:19:26.18,0:19:30.36,Main,Ray,0,0,0,,Finding a private on the run is also \Nthe instructor's responsibility.
+Dialogue: 0,0:19:31.75,0:19:34.35,Main,Amelia,0,0,0,,I wasn't trying to run away, you know?
+Dialogue: 0,0:19:34.35,0:19:37.16,Main,Amelia,0,0,0,,I just wanted to be alone for a little bit.
+Dialogue: 0,0:19:37.16,0:19:38.15,Main,Ray,0,0,0,,Worthless excuses!
+Dialogue: 0,0:19:38.56,0:19:41.97,Main,Ray,0,0,0,,For running away twice today, \Na penalty will be added!
+Dialogue: 0,0:19:41.97,0:19:45.04,Main,Ray,0,0,0,,I'll also be explaining your self \Ntraining plan, which starts tomorrow!
+Dialogue: 0,0:19:43.00,0:19:45.03,Main - Top,Amelia,0,0,0,,My hand!
+Dialogue: 0,0:19:45.04,0:19:45.59,Main,Ray,0,0,0,,This hand?
+Dialogue: 0,0:19:45.59,0:19:48.19,Main,Ray,0,0,0,,I will not be releasing it until \Nwe reach the training area.
+Dialogue: 0,0:19:48.19,0:19:49.57,Main,Ray,0,0,0,,You can count on that!
+Dialogue: 0,0:19:50.85,0:19:52.98,Main,Ray,0,0,0,,Let's go, Private Amelia!
+Dialogue: 0,0:19:51.92,0:19:54.31,Main - Top,Amelia,0,0,0,,I don't want to!
+Dialogue: 0,0:19:54.31,0:19:55.37,Main,Ray,0,0,0,,The only answer is "ranger"!
+Dialogue: 0,0:19:55.37,0:19:58.90,Main - Top,Amelia,0,0,0,,R-Ranger!
+Dialogue: 0,0:19:57.30,0:19:59.00,Main,Elisa,0,0,0,,It's not easy...
+Dialogue: 0,0:19:59.00,0:20:01.08,Main,Claris,0,0,0,,...for her, either.
+Dialogue: 0,0:20:02.19,0:20:04.84,Main,Lex,0,0,0,,You want to form an Amelia cheering squad?
+Dialogue: 0,0:20:05.20,0:20:06.16,Main,Ray,0,0,0,,Yes!
+Dialogue: 0,0:20:06.16,0:20:07.86,Main,Ray,0,0,0,,I humbly ask for your approval!
+Dialogue: 0,0:20:07.86,0:20:10.38,Main,Lex,0,0,0,,But why should we do this?
+Dialogue: 0,0:20:10.38,0:20:13.22,Main,Ray,0,0,0,,Fighting when you feel the presence of those \Ncheering you on...
+Dialogue: 0,0:20:13.22,0:20:15.66,Main,Ray,0,0,0,,is a big help in itself.
+Dialogue: 0,0:20:15.66,0:20:19.11,Main,Ray,0,0,0,,However, I also believe that the \Nloudness of their cheers is also important.
+Dialogue: 0,0:20:19.11,0:20:22.79,Main,Ray,0,0,0,,I believe that we, with the most \Nimpressive bulk at this academy,
+Dialogue: 0,0:20:22.79,0:20:26.54,Main,Ray,0,0,0,,could definitely become the \Nvery best cheering squad!
+Dialogue: 0,0:20:26.54,0:20:29.20,Main,Lex,0,0,0,,Hm, now I see.
+Dialogue: 0,0:20:29.39,0:20:31.20,Main,Evi,0,0,0,,An Amelia cheering squad...
+Dialogue: 0,0:20:31.20,0:20:33.37,Main,Evi,0,0,0,,What could be better than that?
+Dialogue: 0,0:20:33.37,0:20:37.72,Main,Evi,0,0,0,,Let's lend our superior bulk \Nand cheer on Amelia, everyone!
+Dialogue: 0,0:20:37.72,0:20:41.19,Main,All,0,0,0,,Hell yeah!
+Dialogue: 0,0:20:41.19,0:20:42.34,Main,Lex,0,0,0,,Ray.
+Dialogue: 0,0:20:42.34,0:20:43.01,Main,Ray,0,0,0,,Yes!
+Dialogue: 0,0:20:43.96,0:20:46.01,Main,Lex,0,0,0,,Here's what you asked for.
+Dialogue: 0,0:20:46.01,0:20:47.97,Main,Ray,0,0,0,,Thank you.
+Dialogue: 0,0:20:47.97,0:20:51.00,Main,Lex,0,0,0,,I will not ask how you plan on using that.
+Dialogue: 0,0:20:51.29,0:20:54.01,Main,Lex,0,0,0,,You stay on your path of conviction!
+Dialogue: 0,0:20:54.52,0:20:55.44,Main,Ray,0,0,0,,Yes, sir!
+Dialogue: 0,0:21:06.28,0:21:07.79,Main,Evi,0,0,0,,Who was that?
+Dialogue: 0,0:21:08.52,0:21:10.07,Main,Evi,0,0,0,,Well, whatever.
+Dialogue: 0,0:21:17.28,0:21:19.47,Main,Elisa,0,0,0,,That was amazing, Amelia!
+Dialogue: 0,0:21:19.47,0:21:21.71,Main,Claris,0,0,0,,You beat your previous time.
+Dialogue: 0,0:21:22.89,0:21:26.44,Main,Amelia,0,0,0,,Thank you for coming out with \Nme so early in the morning.
+Dialogue: 0,0:21:26.44,0:21:28.36,Main,Claris,0,0,0,,It's the least we can do.
+Dialogue: 0,0:21:28.36,0:21:30.35,Main,Elisa,0,0,0,,Claris and I were talking.
+Dialogue: 0,0:21:30.35,0:21:33.20,Main,Elisa,0,0,0,,We were wondering if there was \Nanything we could do to help.
+Dialogue: 0,0:21:33.86,0:21:35.19,Main,Amelia,0,0,0,,Thank you both.
+Dialogue: 0,0:21:35.19,0:21:37.85,Main,Lily,0,0,0,,Good job, Private Amelia.
+Dialogue: 0,0:21:37.85,0:21:38.88,Main,Amelia,0,0,0,,Ranger!
+Dialogue: 0,0:21:38.88,0:21:41.08,Main,Amelia,0,0,0,,I'm training as hard as I can!
+Dialogue: 0,0:21:41.85,0:21:42.69,Main,Amelia,0,0,0,,Huh?
+Dialogue: 0,0:21:43.68,0:21:45.54,Main,Elisa,0,0,0,,Who...
+Dialogue: 0,0:21:45.54,0:21:46.83,Main,Claris,0,0,0,,...was that?
+Dialogue: 0,0:21:47.10,0:21:48.66,Main,Amelia,0,0,0,,No idea.
+Dialogue: 0,0:21:49.58,0:21:52.58,Main,Rebecca,0,0,0,,Become beautiful, become beautiful.
+Dialogue: 0,0:21:52.58,0:21:54.34,Main,Rebecca,0,0,0,,You have to say it, too, Dina.
+Dialogue: 0,0:21:54.34,0:21:55.98,Main,Dina,0,0,0,,I do?
+Dialogue: 0,0:21:56.55,0:21:58.97,Main,Lily,0,0,0,,Good work so early in the morning, Senpais!
+Dialogue: 0,0:22:00.74,0:22:04.17,Main,Dina,0,0,0,,Isn't that Diom's uniform?
+Dialogue: 0,0:22:04.17,0:22:06.75,Main,Dina,0,0,0,,But didn't she just call us senpai?
+Dialogue: 0,0:22:07.39,0:22:08.66,Main,Rebecca,0,0,0,,Oh, my.
+Dialogue: 0,0:22:09.32,0:22:10.66,Italics,Ray,0,0,0,,It's perfect.
+Dialogue: 0,0:22:10.66,0:22:13.15,Italics,Ray,0,0,0,,I'm currently absolutely without flaw.
+Dialogue: 0,0:22:13.15,0:22:15.69,Italics,Ray,0,0,0,,But the real trial is yet to come.
+Dialogue: 0,0:22:16.10,0:22:18.78,Italics,Ray,0,0,0,,Off to Diom Academy!
+Dialogue: 0,0:22:26.63,0:22:28.66,Main,Lily,0,0,0,,That's a cardboard box for you.
+Dialogue: 0,0:22:28.66,0:22:30.84,Main,Lily,0,0,0,,Nobody has noticed me.
+Dialogue: 0,0:22:32.92,0:22:36.65,Main,Tiana,0,0,0,,Big sister, where are you?
+Dialogue: 0,0:22:52.79,0:22:53.53,Main,Tiana,0,0,0,,Huh?
+Dialogue: 0,0:23:49.99,0:23:54.99,Sign_Basic,Title,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:23:49.99,0:23:54.99,ep title,txt,0,0,0,,{\pos(320,228)\3c&HDA9D66&\clip(0,225,640,236)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:23:49.99,0:23:54.99,ep title,txt,0,0,0,,{\pos(320,228)\3c&HED4CA1&\clip(0,236,640,360)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:23:50.00,0:23:54.58,Main,Claris,0,0,0,,Umm... This is the preview of the next episode of \N{\i1}The Iceblade Sorcerer Shall Rule the World{\i0}!
+Dialogue: 0,0:23:54.99,0:23:58.92,Main,Claris,0,0,0,,Infiltrating Diom! The target is a \Nsmart and beautiful young lady.
+Dialogue: 0,0:23:58.92,0:24:02.15,Main,Claris,0,0,0,,A very volatile teatime is about to begin!
+Dialogue: 0,0:24:02.15,0:24:06.57,Main,Claris,0,0,0,,"The Girl Who Became the World's Strongest \NSorcerer Infiltrates a Sorcery Academy".
+Dialogue: 0,0:24:05.46,0:24:09.96,ep title,txt,0,0,0,,Episode 7\N{\fscx75}The Girl Who Became the World's Strongest Sorcerer Infiltrates a Sorcery Academy
+Dialogue: 0,0:24:06.57,0:24:09.58,Main,Claris,0,0,0,,This was Claris Cleveland!

@@ -1,0 +1,402 @@
+[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,17,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback_Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Narration,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Main - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback_Italics - Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Sign_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: ep title,Arial,18,&H00FFFFFF,&H000000FF,&H00B35427,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.18,0:00:24.40,Flashback,Evan,0,0,0,,Do you understand?
+Dialogue: 0,0:00:24.40,0:00:26.89,Flashback,Evan,0,0,0,,This is the collective \Ndecision of House Bradley.
+Dialogue: 0,0:00:27.38,0:00:31.08,Flashback,Evan,0,0,0,,So that your father may stand at the \Napex of the three great houses.
+Dialogue: 0,0:00:31.08,0:00:34.34,Flashback,Evan,0,0,0,,That's why I signed a contract \Nwith Bruno Bradley.
+Dialogue: 0,0:00:35.18,0:00:37.47,Flashback,Evan,0,0,0,,Resist if you want.
+Dialogue: 0,0:00:38.51,0:00:43.18,Flashback,Evan,0,0,0,,If you don't care what happens \Nto your precious little sister.
+Dialogue: 0,0:00:44.43,0:00:45.49,Main,Rebecca,0,0,0,,Ow...
+Dialogue: 0,0:00:54.03,0:00:57.78,Sign_Basic,Title,0,0,0,,{\fad(475,1)\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:01:56.80,0:02:00.01,ep title,Titl,0,0,0,,{\fad(550,0)}Episode 11\N{\fscx80}The Boy Who Became the World's Strongest Sorcerer Resonates with the Past
+Dialogue: 0,0:02:05.74,0:02:06.71,Main,Rebecca,0,0,0,,Where am I?
+Dialogue: 0,0:02:06.71,0:02:10.20,Main,Young Ray,0,0,0,,Howard. Howard!
+Dialogue: 0,0:02:10.69,0:02:11.97,Main,Young Ray,0,0,0,,Why?
+Dialogue: 0,0:02:12.72,0:02:15.45,Main,Young Ray,0,0,0,,Howard, open your eyes!
+Dialogue: 0,0:02:15.45,0:02:16.97,Main,Young Ray,0,0,0,,Howard!
+Dialogue: 0,0:02:16.10,0:02:17.40,Main,Rebecca,0,0,0,,This child...
+Dialogue: 0,0:02:18.11,0:02:18.86,Main,Lydia,0,0,0,,Ray.
+Dialogue: 0,0:02:19.15,0:02:21.95,Main,Young Ray,0,0,0,,He could still make it!
+Dialogue: 0,0:02:23.13,0:02:24.70,Main,Lydia,0,0,0,,Ray, stop.
+Dialogue: 0,0:02:26.24,0:02:27.74,Main,Young Ray,0,0,0,,Why are you stopping me?
+Dialogue: 0,0:02:28.99,0:02:31.47,Main,Lydia,0,0,0,,I think you already know why.
+Dialogue: 0,0:02:32.94,0:02:33.94,Main,Lydia,0,0,0,,Let's go.
+Dialogue: 0,0:02:33.94,0:02:35.78,Main,Lydia,0,0,0,,Our mission isn't over.
+Dialogue: 0,0:02:36.64,0:02:37.69,Main,Ray,0,0,0,,But...
+Dialogue: 0,0:02:38.11,0:02:39.42,Main,Lydia,0,0,0,,Wrap your head around it.
+Dialogue: 0,0:02:39.42,0:02:40.94,Main,Lydia,0,0,0,,This is a battlefield.
+Dialogue: 0,0:02:57.08,0:02:59.55,Italics,Rebecca,0,0,0,,Was that Ray?
+Dialogue: 0,0:03:01.00,0:03:02.95,Main,Dina,0,0,0,,Ray, do you have a moment?
+Dialogue: 0,0:03:02.95,0:03:03.71,Main,Ray,0,0,0,,I do.
+Dialogue: 0,0:03:08.37,0:03:10.46,Main,Maria,0,0,0,,You're Ray White, correct?
+Dialogue: 0,0:03:10.46,0:03:11.18,Main,Ray,0,0,0,,Yes.
+Dialogue: 0,0:03:11.18,0:03:14.48,Main,Maria,0,0,0,,I'm Maria Bradley. Rebecca's little sister.
+Dialogue: 0,0:03:14.48,0:03:15.70,Main,Ray,0,0,0,,I see.
+Dialogue: 0,0:03:15.70,0:03:18.32,Main,Ray,0,0,0,,You are a beauty, \Njust like your older sister.
+Dialogue: 0,0:03:18.32,0:03:21.86,Main,Ray,0,0,0,,Both your gleaming white hair and \Nyour red eyes are very pretty.
+Dialogue: 0,0:03:22.75,0:03:23.72,Main,Ray,0,0,0,,Is something wrong?
+Dialogue: 0,0:03:23.72,0:03:28.00,Main,Maria,0,0,0,,I already heard it from Dina, \Nbut you really are like this.
+Dialogue: 0,0:03:28.00,0:03:29.31,Main,Ray,0,0,0,,You mean Miss Sera?
+Dialogue: 0,0:03:29.31,0:03:32.09,Main,Maria,0,0,0,,Yes. She and I are friends.
+Dialogue: 0,0:03:32.09,0:03:34.74,Main,Maria,0,0,0,,That's why I asked her to have you come here.
+Dialogue: 0,0:03:35.39,0:03:37.67,Main,Ray,0,0,0,,I'm assuming this is about Miss Rebecca.
+Dialogue: 0,0:03:37.67,0:03:38.36,Main,Maria,0,0,0,,Yes.
+Dialogue: 0,0:03:39.13,0:03:41.84,Main,Maria,0,0,0,,Isn't she just perfect?
+Dialogue: 0,0:03:41.84,0:03:42.84,Main,Ray,0,0,0,,Yes.
+Dialogue: 0,0:03:42.84,0:03:44.20,Main,Ray,0,0,0,,She is impeccable.
+Dialogue: 0,0:03:45.01,0:03:48.07,Main,Maria,0,0,0,,Even though we're sisters, \Nwe couldn't be more different.
+Dialogue: 0,0:03:49.08,0:03:52.94,Main,Maria,0,0,0,,I'm constantly compared to her,\Nno matter what I do.
+Dialogue: 0,0:03:53.42,0:03:57.18,Main,Maria,0,0,0,,That's why I wear strange \Nclothes and I always run away...
+Dialogue: 0,0:03:57.18,0:03:58.45,Main,Maria,0,0,0,,from this world.
+Dialogue: 0,0:03:59.84,0:04:04.43,Main,Maria,0,0,0,,Even with me being such a failure, \Nmy sister is nice to me.
+Dialogue: 0,0:04:05.13,0:04:07.02,Main,Maria,0,0,0,,That's why I want to help her.
+Dialogue: 0,0:04:07.02,0:04:09.23,Main,Maria,0,0,0,,Even if she didn't want me to.
+Dialogue: 0,0:04:10.69,0:04:11.74,Main,Ray,0,0,0,,Maria,
+Dialogue: 0,0:04:12.66,0:04:15.72,Main,Ray,0,0,0,,I will protect her with everything I have.
+Dialogue: 0,0:04:16.02,0:04:17.69,Main,Ray,0,0,0,,And one more thing.
+Dialogue: 0,0:04:17.69,0:04:21.83,Main,Ray,0,0,0,,Your concern for your sister shows you \Nhave a pure and beautiful heart.
+Dialogue: 0,0:04:22.22,0:04:23.73,Main,Ray,0,0,0,,You don't need to put yourself down.
+Dialogue: 0,0:04:27.86,0:04:28.98,Main,Maria,0,0,0,,Idiot.
+Dialogue: 0,0:04:33.90,0:04:36.10,Italics,Rebecca,0,0,0,,Why... Why?
+Dialogue: 0,0:04:44.57,0:04:47.02,Main,Rebecca,0,0,0,,Why am I thinking about that this much?
+Dialogue: 0,0:04:49.36,0:04:51.21,Italics,Rebecca,0,0,0,,Because it's weird, that's why!
+Dialogue: 0,0:04:51.21,0:04:53.34,Italics,Rebecca,0,0,0,,What was Maria even doing there?
+Dialogue: 0,0:04:53.34,0:04:55.23,Italics,Rebecca,0,0,0,,And why was he holding...
+Dialogue: 0,0:04:55.23,0:04:57.17,Italics,Rebecca,0,0,0,,Holding her?
+Dialogue: 0,0:04:57.17,0:05:01.52,Italics,Rebecca,0,0,0,,I guess it's true that Ray is pretty \Noblivious of his own effect on girls,
+Dialogue: 0,0:05:01.52,0:05:05.00,Italics,Rebecca,0,0,0,,and oddly comfortable around them, so I \Nalready had an inkling, but...!
+Dialogue: 0,0:05:07.12,0:05:08.48,Italics,Rebecca,0,0,0,,No...
+Dialogue: 0,0:05:08.48,0:05:11.35,Italics,Rebecca,0,0,0,,It's not my place to say \Nanything about that.
+Dialogue: 0,0:05:14.48,0:05:17.31,Main,Evi,0,0,0,,Shall we sleep?
+Dialogue: 0,0:05:17.78,0:05:19.32,Main,Evi,0,0,0,,You're going to stay up longer?
+Dialogue: 0,0:05:19.32,0:05:21.10,Main,Ray,0,0,0,,Yes, a bit more.
+Dialogue: 0,0:05:21.76,0:05:23.21,Main,Evi,0,0,0,,What are you reading?
+Dialogue: 0,0:05:23.21,0:05:24.81,Main,Ray,0,0,0,,Luna Ether's newest book.
+Dialogue: 0,0:05:24.81,0:05:25.87,Main,Evi,0,0,0,,Luna...
+Dialogue: 0,0:05:25.87,0:05:28.29,Main,Evi,0,0,0,,Oh, so a love story.
+Dialogue: 0,0:05:28.29,0:05:31.63,Main,Evi,0,0,0,,Not something I would have expected \Nfrom you, that's for sure.
+Dialogue: 0,0:05:31.63,0:05:33.26,Main,Ray,0,0,0,,You should read it, too.
+Dialogue: 0,0:05:33.26,0:05:35.82,Main,Ray,0,0,0,,Luna Ether is a spectacular author
+Dialogue: 0,0:05:35.82,0:05:38.38,Main,Ray,0,0,0,,who can accurately portray \Nthe nuances of human emotions.
+Dialogue: 0,0:05:38.38,0:05:41.58,Main,Evi,0,0,0,,Our textbooks have more \Nthan enough words for me.
+Dialogue: 0,0:05:42.02,0:05:44.34,Main,Evi,0,0,0,,So what's the story about?
+Dialogue: 0,0:05:44.81,0:05:47.31,Main,Ray,0,0,0,,It's about a girl who's said to be a demon.
+Dialogue: 0,0:05:48.99,0:05:52.38,Main,Ray,0,0,0,,Looking different than \Nthe humans around her,
+Dialogue: 0,0:05:52.38,0:05:54.58,Main,Ray,0,0,0,,the girl lives her life \Nkeeping herself distanced.
+Dialogue: 0,0:05:55.67,0:05:58.55,Main,Ray,0,0,0,,But one day, she meets a young man.
+Dialogue: 0,0:05:59.21,0:06:01.64,Main,Ray,0,0,0,,Since she has never interacted with humans,
+Dialogue: 0,0:06:01.64,0:06:04.09,Main,Ray,0,0,0,,she doesn't know the first \Nthing about human emotions.
+Dialogue: 0,0:06:04.96,0:06:06.80,Main,Ray,0,0,0,,But through her relationship \Nwith him,
+Dialogue: 0,0:06:06.80,0:06:09.75,Main,Ray,0,0,0,,she begins to understand the human heart.
+Dialogue: 0,0:06:09.75,0:06:11.05,Main,Evi,0,0,0,,Hmm.
+Dialogue: 0,0:06:11.05,0:06:13.24,Main,Evi,0,0,0,,So the demon becomes more human, huh?
+Dialogue: 0,0:06:13.60,0:06:17.03,Main,Ray,0,0,0,,But while he develops this \Nrelationship with the girl,
+Dialogue: 0,0:06:17.03,0:06:20.20,Main,Ray,0,0,0,,the young man becomes fascinated \Nby the powers she has.
+Dialogue: 0,0:06:21.25,0:06:25.26,Main,Ray,0,0,0,,The powers of a demon that a normal \Nhuman could never ever attain.
+Dialogue: 0,0:06:25.69,0:06:29.28,Main,Ray,0,0,0,,He falls into despair and \Nbegins to avoid the girl.
+Dialogue: 0,0:06:30.44,0:06:33.24,Main,Ray,0,0,0,,Believing that the young man \Nwill one day come back,
+Dialogue: 0,0:06:33.24,0:06:34.90,Main,Ray,0,0,0,,the girl waits for a very long time.
+Dialogue: 0,0:06:35.59,0:06:40.92,Main,Ray,0,0,0,,So that she can understand what the feelings \Nshe has developed for him truly mean.
+Dialogue: 0,0:06:43.03,0:06:45.62,Main,Evi,0,0,0,,Well, that sounds like a depressing story.
+Dialogue: 0,0:06:45.62,0:06:48.69,Main,Ray,0,0,0,,I still haven't read to the end, either.
+Dialogue: 0,0:06:48.69,0:06:52.36,Main,Ray,0,0,0,,But I do hope the demon \Ngirl finds happiness.
+Dialogue: 0,0:06:54.01,0:06:55.33,Main,Evi,0,0,0,,I hope so, too.
+Dialogue: 0,0:06:55.64,0:06:57.32,Main,Evi,0,0,0,,Sadness is such a bummer.
+Dialogue: 0,0:06:58.71,0:07:02.03,Main,Ray,0,0,0,,I think so, too.
+Dialogue: 0,0:07:05.93,0:07:07.88,Main,All,0,0,0,,Welcome home!
+Dialogue: 0,0:07:07.88,0:07:09.11,Main,All,0,0,0,,Master!
+Dialogue: 0,0:07:09.11,0:07:10.86,Main,Elisa,0,0,0,,Miss...
+Dialogue: 0,0:07:44.49,0:07:47.61,Main,Carol,0,0,0,,Thank you, Ray.
+Dialogue: 0,0:07:47.61,0:07:50.08,Main,Ray,0,0,0,,It's fine.
+Dialogue: 0,0:07:54.70,0:07:55.76,Main,Rebecca,0,0,0,,Ray?
+Dialogue: 0,0:08:00.26,0:08:02.76,Main,Ray,0,0,0,,Miss Rebecca?
+Dialogue: 0,0:08:03.83,0:08:07.72,Main,Rebecca,0,0,0,,Ray, who are you exactly?
+Dialogue: 0,0:08:09.95,0:08:11.42,Main,Ray,0,0,0,,I am...
+Dialogue: 0,0:08:20.00,0:08:22.59,Main,Ray,0,0,0,,Was that a dream?
+Dialogue: 0,0:08:40.22,0:08:41.33,Main,Ray,0,0,0,,Miss?
+Dialogue: 0,0:08:41.33,0:08:42.42,Main,Rebecca,0,0,0,,Ray?
+Dialogue: 0,0:08:44.87,0:08:48.59,Main,Rebecca,0,0,0,,The cultural festival finally starts today.
+Dialogue: 0,0:08:48.59,0:08:49.57,Main,Ray,0,0,0,,Yes.
+Dialogue: 0,0:08:49.57,0:08:52.68,Main,Ray,0,0,0,,This is my first time doing something \Nlike this, so I'm very excited.
+Dialogue: 0,0:08:54.44,0:08:55.31,Main,Ray,0,0,0,,Miss?
+Dialogue: 0,0:08:56.93,0:09:00.22,Main,Rebecca,0,0,0,,Ray, were you maybe...
+Dialogue: 0,0:09:00.87,0:09:02.13,Main,Rebecca,0,0,0,,in the east—
+Dialogue: 0,0:09:03.01,0:09:04.74,Main,Rebecca,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:04.74,0:09:06.31,Main,Rebecca,0,0,0,,It's nothing!
+Dialogue: 0,0:09:06.63,0:09:09.82,Main,Rebecca,0,0,0,,I hope you enjoy your \Nfirst cultural festival.
+Dialogue: 0,0:09:10.72,0:09:13.26,Main,Ray,0,0,0,,Thank you very much.
+Dialogue: 0,0:09:22.09,0:09:24.28,Main,Tiana,0,0,0,,It's going to be so much fun, huh?
+Dialogue: 0,0:09:24.28,0:09:25.09,Main,Ariane,0,0,0,,It will.
+Dialogue: 0,0:09:25.09,0:09:28.49,Main,Ariane,0,0,0,,Let's go find Amelia right away.
+Dialogue: 0,0:09:28.84,0:09:31.51,Main,Tiana,0,0,0,,To Amelia's!
+Dialogue: 0,0:09:39.87,0:09:41.39,Main,Maria,0,0,0,,A maid cafe.
+Dialogue: 0,0:09:41.39,0:09:42.50,Main,Maria,0,0,0,,This means...!
+Dialogue: 0,0:09:46.17,0:09:48.40,Main,Amelia,0,0,0,,Become super tasty!
+Dialogue: 0,0:09:48.40,0:09:51.14,Main,Amelia,0,0,0,,Moe moe kyun!
+Dialogue: 0,0:09:51.14,0:09:52.85,Main,Tiana,0,0,0,,Wow, it's a heart!
+Dialogue: 0,0:09:52.85,0:09:54.18,Main,Tiana,0,0,0,,That's so neat!
+Dialogue: 0,0:09:54.66,0:09:57.96,Main,Ariane,0,0,0,,Um, thank you very much.
+Dialogue: 0,0:09:57.96,0:10:02.02,Main,Amelia,0,0,0,,Please enjoy, Miss Ariane!
+Dialogue: 0,0:10:02.02,0:10:03.83,Main,Elisa,0,0,0,,Please take your time.
+Dialogue: 0,0:10:08.10,0:10:09.66,Main,Ariane,0,0,0,,That reminds me.
+Dialogue: 0,0:10:10.09,0:10:12.77,Main,Ariane,0,0,0,,I haven't seen Ray at all.
+Dialogue: 0,0:10:12.77,0:10:14.74,Main,Ariane,0,0,0,,Maybe he's in the kitchen?
+Dialogue: 0,0:10:15.13,0:10:17.25,Main,Ariane,0,0,0,,Wait, don't tell me!
+Dialogue: 0,0:10:27.30,0:10:28.90,Main,Lily,0,0,0,,I'm Lily White.
+Dialogue: 0,0:10:28.90,0:10:30.82,Main,Lily,0,0,0,,Sorry I kept you waiting.
+Dialogue: 0,0:10:30.82,0:10:32.35,Main,All,0,0,0,,Wow!
+Dialogue: 0,0:10:32.35,0:10:33.60,Main,All,0,0,0,,Is that...
+Dialogue: 0,0:10:33.60,0:10:34.54,Main,All,0,0,0,,Incredible!
+Dialogue: 0,0:10:35.33,0:10:39.25,Main,Ariane,0,0,0,,I! Can't! Believe! It!
+Dialogue: 0,0:10:39.25,0:10:41.08,Main,Wanda,0,0,0,,Is that seriously White?!
+Dialogue: 0,0:10:41.08,0:10:43.34,Main,Laquis,0,0,0,,Really? I love it!
+Dialogue: 0,0:10:43.34,0:10:44.75,Main,Jeryl,0,0,0,,She's too cute!
+Dialogue: 0,0:10:44.75,0:10:48.21,Main,Cusuechs,0,0,0,,I feel like a new door is opening for me.
+Dialogue: 0,0:10:48.21,0:10:49.75,Main,Zuina,0,0,0,,I can't believe you!
+Dialogue: 0,0:10:49.75,0:10:50.51,Main,Cusuechs,0,0,0,,Ow!
+Dialogue: 0,0:10:50.51,0:10:52.66,Main,Tiana,0,0,0,,It's Lily!
+Dialogue: 0,0:10:52.91,0:10:54.56,Main,Lily,0,0,0,,Oh, Miss Tiana!
+Dialogue: 0,0:10:56.36,0:10:58.51,Italics,Ray,0,0,0,,All right, everything is in place now.
+Dialogue: 0,0:10:58.98,0:11:01.31,Italics,Ray,0,0,0,,I will execute this perfectly.
+Dialogue: 0,0:11:01.31,0:11:03.02,Italics,Ray,0,0,0,,I am a pro, after all.
+Dialogue: 0,0:11:03.02,0:11:04.95,Italics,Ray,0,0,0,,And a specialist!
+Dialogue: 0,0:11:08.43,0:11:10.56,Main,Girl,0,0,0,,This is so scary!
+Dialogue: 0,0:11:10.56,0:11:12.62,Main,Guy,0,0,0,,It's f-fine.
+Dialogue: 0,0:11:14.13,0:11:16.28,Main,Claris,0,0,0,,I am angry!
+Dialogue: 0,0:11:19.99,0:11:22.48,Main,Claris,0,0,0,,I guess this is it's own kind of fun.
+Dialogue: 0,0:11:22.78,0:11:24.60,Main,Claris,0,0,0,,But it is pretty lonely, too.
+Dialogue: 0,0:11:27.90,0:11:29.70,Main,Carol,0,0,0,,Everyone's having so much fun.
+Dialogue: 0,0:11:29.70,0:11:31.05,Main,Abbie,0,0,0,,Don't space out.
+Dialogue: 0,0:11:31.05,0:11:33.52,Main,Abbie,0,0,0,,We have a job to do.
+Dialogue: 0,0:11:33.52,0:11:37.13,Main,Carol,0,0,0,,But my naughty festival plans with Ray...
+Dialogue: 0,0:11:37.13,0:11:38.45,Main,Abbie,0,0,0,,Oh, jeez.
+Dialogue: 0,0:11:44.03,0:11:45.59,Main,Lily,0,0,0,,Thank you for waiting.
+Dialogue: 0,0:11:47.04,0:11:50.14,Main,Lily,0,0,0,,Here is your super moe moe rice omelet.
+Dialogue: 0,0:11:50.14,0:11:51.64,Main,Lily,0,0,0,,Miss Maria.
+Dialogue: 0,0:11:52.92,0:11:54.30,Main,Maria,0,0,0,,Lily!
+Dialogue: 0,0:11:54.30,0:11:58.20,Main,Maria,0,0,0,,I knew they meant you with \Nthat beautiful flower!
+Dialogue: 0,0:11:58.20,0:12:00.64,Main,Lily,0,0,0,,You're very perceptive, Miss Maria.
+Dialogue: 0,0:12:01.68,0:12:03.74,Main,Maria,0,0,0,,You praised me!
+Dialogue: 0,0:12:04.63,0:12:07.37,Main,Lily,0,0,0,,And now we cast the magic spell!
+Dialogue: 0,0:12:07.37,0:12:09.71,Main,Maria,0,0,0,,A magic spell? Not sorcery?
+Dialogue: 0,0:12:09.71,0:12:13.45,Main,Lily,0,0,0,,Become super tasty!
+Dialogue: 0,0:12:15.60,0:12:17.07,Main,Lily,0,0,0,,Encoding.
+Dialogue: 0,0:12:17.07,0:12:18.38,Main,Lily,0,0,0,,Decoding.
+Dialogue: 0,0:12:18.38,0:12:19.59,Main,Lily,0,0,0,,Processing.
+Dialogue: 0,0:12:19.59,0:12:21.45,Main,Lily,0,0,0,,Embodiment.
+Dialogue: 0,0:12:21.45,0:12:24.52,Main,Lily,0,0,0,,Moe moe moe moe scatter shot!
+Dialogue: 0,0:12:27.28,0:12:29.81,Main,Lily,0,0,0,,Miss Maria, are you all right?
+Dialogue: 0,0:12:30.08,0:12:31.08,Main,Maria,0,0,0,,Wait, I can't!
+Dialogue: 0,0:12:31.08,0:12:32.02,Main,Maria,0,0,0,,No way, it's too much!
+Dialogue: 0,0:12:32.02,0:12:33.66,Main,Maria,0,0,0,,You're too precious!
+Dialogue: 0,0:12:33.66,0:12:35.09,Main,Lily,0,0,0,,Miss Maria?
+Dialogue: 0,0:12:35.09,0:12:37.55,Main,Amelia,0,0,0,,I hate to admit it, but I lost.
+Dialogue: 0,0:12:37.55,0:12:38.94,Main,Elisa,0,0,0,,What do you mean?
+Dialogue: 0,0:12:38.94,0:12:41.81,Main,Amelia,0,0,0,,As I thought, Ray's a terrifying girl.
+Dialogue: 0,0:12:42.72,0:12:45.90,Main,Evi,0,0,0,,I'm not really sure what's going \Non, but that's pretty amazing.
+Dialogue: 0,0:12:45.90,0:12:49.02,Main,Albert,0,0,0,,So that's how a professional does it.
+Dialogue: 0,0:12:49.84,0:12:52.18,Main,Tiana,0,0,0,,Amazing! So cute!
+Dialogue: 0,0:12:52.18,0:12:55.96,Italics,Ariane,0,0,0,,Have I wandered into a seriously \Nterrifying place here?
+Dialogue: 0,0:13:04.56,0:13:06.40,Flashback,Dina,0,0,0,,So, Miss Rebecca.
+Dialogue: 0,0:13:06.40,0:13:07.77,Flashback,Rebecca,0,0,0,,B-But...
+Dialogue: 0,0:13:07.77,0:13:10.41,Flashback,Dina,0,0,0,,Come on, it's the cultural festival!
+Dialogue: 0,0:13:10.41,0:13:12.17,Flashback,Dina,0,0,0,,You need to go have fun.
+Dialogue: 0,0:13:12.17,0:13:13.23,Flashback_Italics,Dina,0,0,0,,With Ray!
+Dialogue: 0,0:13:14.71,0:13:15.93,Main,Ray,0,0,0,,What's wrong?
+Dialogue: 0,0:13:16.74,0:13:18.43,Main,Rebecca,0,0,0,,Well... uh...
+Dialogue: 0,0:13:22.40,0:13:23.72,Main,Ray,0,0,0,,Miss?
+Dialogue: 0,0:13:23.72,0:13:24.96,Main,Rebecca,0,0,0,,Shall we?
+Dialogue: 0,0:13:42.31,0:13:45.85,Main,Claris,0,0,0,,I am angry! I'll curse you!
+Dialogue: 0,0:13:45.85,0:13:47.33,Main,Rebecca,0,0,0,,Eek!
+Dialogue: 0,0:13:47.33,0:13:48.61,Main,Ray,0,0,0,,Don't worry.
+Dialogue: 0,0:13:48.61,0:13:50.37,Main,Ray,0,0,0,,It's a very cute ghost.
+Dialogue: 0,0:13:50.37,0:13:52.47,Main,Rebecca,0,0,0,,Oh, you're right.
+Dialogue: 0,0:13:52.47,0:13:54.73,Main,Claris,0,0,0,,Hey, you two shouldn't be so relaxed!
+Dialogue: 0,0:13:58.55,0:14:02.57,Main,Rebecca,0,0,0,,Thank you so much for spending time with me.
+Dialogue: 0,0:14:02.57,0:14:05.52,Main,Ray,0,0,0,,It was my pleasure.
+Dialogue: 0,0:14:05.52,0:14:07.58,Main,Ray,0,0,0,,I'll take my leave now.
+Dialogue: 0,0:14:07.58,0:14:08.40,Main,Rebecca,0,0,0,,All right.
+Dialogue: 0,0:14:11.12,0:14:12.04,Main,Rebecca,0,0,0,,Ray!
+Dialogue: 0,0:14:12.61,0:14:13.50,Main,Ray,0,0,0,,Yes?
+Dialogue: 0,0:14:14.06,0:14:18.14,Main,Rebecca,0,0,0,,They're going to have fireworks \Ntomorrow at the end of the festival.
+Dialogue: 0,0:14:18.14,0:14:20.24,Main,Rebecca,0,0,0,,So I was thinking...
+Dialogue: 0,0:14:21.12,0:14:22.18,Main,Ray,0,0,0,,What is it?
+Dialogue: 0,0:14:22.76,0:14:25.01,Main,Rebecca,0,0,0,,No, it's nothing!
+Dialogue: 0,0:14:25.01,0:14:25.87,Main,Rebecca,0,0,0,,Goodbye!
+Dialogue: 0,0:14:39.97,0:14:41.61,Main,Maria,0,0,0,,Sister...
+Dialogue: 0,0:14:53.16,0:14:56.17,Main,Maria,0,0,0,,White hair. Just like mine?
+Dialogue: 0,0:14:56.93,0:15:00.41,Main,Lieselotte,0,0,0,,Maria Bradley, may I \Nspeak to you for a bit?
+Dialogue: 0,0:15:00.41,0:15:01.39,Main,Maria,0,0,0,,What?
+Dialogue: 0,0:15:01.39,0:15:03.66,Main,Lieselotte,0,0,0,,At this rate, your big sister,
+Dialogue: 0,0:15:03.66,0:15:05.59,Main,Lieselotte,0,0,0,,Rebecca Bradley,
+Dialogue: 0,0:15:06.52,0:15:07.76,Main,Lieselotte,0,0,0,,will die.
+Dialogue: 0,0:15:12.65,0:15:14.51,Main,Ray,0,0,0,,Rebecca is going to die?!
+Dialogue: 0,0:15:14.78,0:15:16.43,Main,Ray,0,0,0,,Master, what are you saying?
+Dialogue: 0,0:15:16.43,0:15:17.87,Main,Lydia,0,0,0,,Calm down, Ray.
+Dialogue: 0,0:15:17.87,0:15:19.78,Main,Lydia,0,0,0,,Only if we don't do something.
+Dialogue: 0,0:15:22.32,0:15:24.73,Main,Lydia,0,0,0,,You're here so that doesn't happen.
+Dialogue: 0,0:15:24.73,0:15:25.90,Main,Ray,0,0,0,,But...
+Dialogue: 0,0:15:25.90,0:15:27.03,Main,Bruno,0,0,0,,Why don't I explain it?
+Dialogue: 0,0:15:29.48,0:15:32.15,Main,Bruno,0,0,0,,Iceblade Sorcerer, Ray White.
+Dialogue: 0,0:15:32.97,0:15:37.03,Main,Bruno,0,0,0,,Please, save my daughter. Save Rebecca.
+Dialogue: 0,0:15:43.30,0:15:44.40,Main,Evi,0,0,0,,So, Ray...
+Dialogue: 0,0:15:45.01,0:15:46.28,Main,Ray,0,0,0,,What is it?
+Dialogue: 0,0:15:46.28,0:15:47.93,Main,Evi,0,0,0,,If something's up, you can tell me.
+Dialogue: 0,0:15:48.42,0:15:53.52,Main,Evi,0,0,0,,Neither Al, nor Amelia, nor anybody \Nelse would be bothered, you know?
+Dialogue: 0,0:15:53.72,0:15:54.76,Main,Ray,0,0,0,,Evi....
+Dialogue: 0,0:15:55.19,0:15:57.25,Main,Evi,0,0,0,,We're friends, right?
+Dialogue: 0,0:15:57.81,0:15:59.64,Main,Ray,0,0,0,,We are.
+Dialogue: 0,0:16:03.77,0:16:04.80,Main,Morse,0,0,0,,Tomorrow...
+Dialogue: 0,0:16:05.49,0:16:06.76,Main,Morse,0,0,0,,It will be time.
+Dialogue: 0,0:16:07.57,0:16:09.77,Main,Morse,0,0,0,,The Kreuz will awaken.
+Dialogue: 0,0:16:10.63,0:16:12.85,Main,Paratrogo,0,0,0,,You do whatever you like.
+Dialogue: 0,0:16:13.24,0:16:15.83,Main,Paratrogo,0,0,0,,So long as I get to eat...
+Dialogue: 0,0:16:15.83,0:16:18.22,Main,Paratrogo,0,0,0,,the Iceblade, that is!
+Dialogue: 0,0:16:33.63,0:16:36.43,Italics,Maria,0,0,0,,Big Sister... Big Sister...
+Dialogue: 0,0:16:43.93,0:16:45.52,Main,Rebecca,0,0,0,,Good morning!
+Dialogue: 0,0:16:46.53,0:16:47.68,Main,Ray,0,0,0,,Miss.
+Dialogue: 0,0:16:47.68,0:16:49.15,Main,Rebecca,0,0,0,,I've been waiting.
+Dialogue: 0,0:16:49.15,0:16:50.86,Main,Ray,0,0,0,,For me?
+Dialogue: 0,0:16:52.70,0:16:56.83,Main,Rebecca,0,0,0,,Please look after Maria.
+Dialogue: 0,0:16:56.83,0:16:57.33,Main,Ray,0,0,0,,Huh?
+Dialogue: 0,0:16:57.66,0:16:59.82,Main,Rebecca,0,0,0,,I'm engaged.
+Dialogue: 0,0:16:59.82,0:17:02.19,Main,Rebecca,0,0,0,,Soon, I will be leaving the Bradley house.
+Dialogue: 0,0:17:02.19,0:17:05.88,Main,Rebecca,0,0,0,,That means I'll have fewer and \Nfewer days to spend with Maria.
+Dialogue: 0,0:17:05.88,0:17:07.20,Main,Ray,0,0,0,,Miss...
+Dialogue: 0,0:17:07.50,0:17:12.17,Main,Rebecca,0,0,0,,But she avoids me anyway, \Nso I guess it will be fine.
+Dialogue: 0,0:17:12.78,0:17:15.89,Main,Rebecca,0,0,0,,She can be blunt, and she has a sharp tongue,
+Dialogue: 0,0:17:15.89,0:17:17.21,Main,Rebecca,0,0,0,,but she's a good kid at heart.
+Dialogue: 0,0:17:17.49,0:17:19.33,Main,Rebecca,0,0,0,,A very kind one.
+Dialogue: 0,0:17:20.21,0:17:22.76,Main,Ray,0,0,0,,Yes. I'm aware of that.
+Dialogue: 0,0:17:22.76,0:17:25.03,Main,Rebecca,0,0,0,,You don't have to worry about me anymore.
+Dialogue: 0,0:17:25.03,0:17:28.25,Main,Rebecca,0,0,0,,So, please be a friend to her, going forward.
+Dialogue: 0,0:17:28.91,0:17:30.32,Main,Ray,0,0,0,,Miss Rebecca...
+Dialogue: 0,0:17:46.96,0:17:48.27,Main,Carla,0,0,0,,Coming in.
+Dialogue: 0,0:17:48.79,0:17:49.67,Main,Abbie,0,0,0,,You made it.
+Dialogue: 0,0:17:49.67,0:17:51.11,Main,Carla,0,0,0,,I'm sorry we kept you waiting.
+Dialogue: 0,0:17:51.11,0:17:52.33,Main,Lydia,0,0,0,,Let's go, then.
+Dialogue: 0,0:17:53.69,0:17:57.00,Main,Carol,0,0,0,,Right when we're in the middle \Nof a fun cultural festival.
+Dialogue: 0,0:17:57.00,0:17:57.83,Main,Abbie,0,0,0,,Give it up.
+Dialogue: 0,0:17:57.83,0:18:01.09,Main,Lydia,0,0,0,,Stop dreaming and get ready, Dumbpink.
+Dialogue: 0,0:18:01.09,0:18:02.39,Main,Carol,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:18:02.65,0:18:04.84,Main,Carol,0,0,0,,I'm already done, anyway.
+Dialogue: 0,0:18:07.40,0:18:11.11,Main,Lily,0,0,0,,Moe moe scatter shot!
+Dialogue: 0,0:18:13.06,0:18:16.67,Main,Maria,0,0,0,,Thank you so much for that.
+Dialogue: 0,0:18:16.67,0:18:18.43,Main,Lily,0,0,0,,Miss Maria?
+Dialogue: 0,0:18:18.69,0:18:22.63,Main,Maria,0,0,0,,May I ask you for a favor?
+Dialogue: 0,0:18:22.63,0:18:24.34,Main,Lily,0,0,0,,Yes, anything.
+Dialogue: 0,0:18:25.84,0:18:28.70,Main,Maria,0,0,0,,Please give me courage!
+Dialogue: 0,0:18:29.31,0:18:30.79,Main,Lily,0,0,0,,Miss?
+Dialogue: 0,0:18:38.55,0:18:40.10,Main,Rebecca,0,0,0,,Lord Evan?
+Dialogue: 0,0:18:44.11,0:18:47.17,Main,Maria,0,0,0,,Thank you for the lovely memory.
+Dialogue: 0,0:18:50.29,0:18:53.55,Main,Amelia,0,0,0,,I didn't think you'd get her, too.
+Dialogue: 0,0:18:53.55,0:18:56.24,Main,Amelia,0,0,0,,I really can't let down my guard.
+Dialogue: 0,0:18:56.74,0:18:57.79,Main,Amelia,0,0,0,,Ray?
+Dialogue: 0,0:18:57.79,0:18:58.65,Main,Lily,0,0,0,,Amelia...
+Dialogue: 0,0:18:58.65,0:18:59.84,Main,Amelia,0,0,0,,What is it?
+Dialogue: 0,0:18:59.84,0:19:00.96,Main,Lily,0,0,0,,I have to go.
+Dialogue: 0,0:19:00.96,0:19:02.69,Main,Amelia,0,0,0,,Hang on. Ray!
+Dialogue: 0,0:19:03.25,0:19:05.16,Main,Elisa,0,0,0,,What happened to Ray?
+Dialogue: 0,0:19:05.16,0:19:07.21,Main,Amelia,0,0,0,,I don't know.
+Dialogue: 0,0:19:07.60,0:19:10.03,Main,Evi,0,0,0,,Everyone, listen up.
+Dialogue: 0,0:19:14.92,0:19:16.40,Main,Evan,0,0,0,,Please wake up.
+Dialogue: 0,0:19:18.97,0:19:20.17,Main,Rebecca,0,0,0,,Where am I?
+Dialogue: 0,0:19:26.07,0:19:28.95,Main,Evan,0,0,0,,We are going to break you now.
+Dialogue: 0,0:19:38.27,0:19:41.20,Main,Morse,0,0,0,,The party begins now.
+Dialogue: 0,0:19:41.20,0:19:42.39,Main,Paratrogo,0,0,0,,The Iceblade.
+Dialogue: 0,0:19:42.39,0:19:43.54,Main,Paratrogo,0,0,0,,I can't wait.
+Dialogue: 0,0:19:44.47,0:19:45.17,Main,Paratrogo,0,0,0,,What's that?
+Dialogue: 0,0:19:53.86,0:19:55.76,Main,Ray,0,0,0,,There're so many of them.
+Dialogue: 0,0:19:55.76,0:19:58.18,Main,Ray,0,0,0,,I don't know how far I can \Nget with just Inside code.
+Dialogue: 0,0:20:05.75,0:20:07.69,Main,Lily,0,0,0,,Butterfly Effect?
+Dialogue: 0,0:20:07.69,0:20:08.68,Main,Amelia,0,0,0,,Ray!
+Dialogue: 0,0:20:09.98,0:20:11.10,Main,Elisa,0,0,0,,Are you all right?
+Dialogue: 0,0:20:11.10,0:20:12.77,Main,Claris,0,0,0,,What is going on here?
+Dialogue: 0,0:20:12.77,0:20:14.90,Main,Albert,0,0,0,,I've seen these monsters before.
+Dialogue: 0,0:20:14.90,0:20:16.78,Main,Evi,0,0,0,,Ray, you should have said something!
+Dialogue: 0,0:20:16.78,0:20:18.10,Main,Lily,0,0,0,,Everyone...
+Dialogue: 0,0:20:18.10,0:20:22.07,Main,Amelia,0,0,0,,This time, it's our turn to save Ray!
+Dialogue: 0,0:20:28.11,0:20:30.10,Main,Rebecca,0,0,0,,What is going on?
+Dialogue: 0,0:20:30.10,0:20:31.49,Main,Maria,0,0,0,,Big Sister!
+Dialogue: 0,0:20:33.12,0:20:34.53,Main,Evan,0,0,0,,So you've come.
+Dialogue: 0,0:20:34.53,0:20:35.46,Main,Rebecca,0,0,0,,Maria.
+Dialogue: 0,0:20:44.19,0:20:44.97,Main,Evi,0,0,0,,Albert!
+Dialogue: 0,0:20:46.88,0:20:48.51,Main,Albert,0,0,0,,Febris Draco!
+Dialogue: 0,0:20:50.66,0:20:52.61,Main,Elisa,0,0,0,,Tornado Impact!
+Dialogue: 0,0:20:55.77,0:20:57.40,Main,Claris,0,0,0,,Sparkle Web!
+Dialogue: 0,0:21:01.40,0:21:02.94,Main,Claris,0,0,0,,Elisa, we did it!
+Dialogue: 0,0:21:02.94,0:21:03.50,Main,Elisa,0,0,0,,Yeah!
+Dialogue: 0,0:21:09.07,0:21:10.99,Main,Amelia,0,0,0,,Butterfly Effect.
+Dialogue: 0,0:21:10.99,0:21:12.62,Main,Amelia,0,0,0,,Explosion!
+Dialogue: 0,0:21:15.64,0:21:19.34,Main,Paratrogo,0,0,0,,Your Engram is mine!
+Dialogue: 0,0:21:20.58,0:21:21.97,Main,Paratrogo,0,0,0,,Who the hell are you?
+Dialogue: 0,0:21:21.97,0:21:23.42,Main,Lily,0,0,0,,Wouldn't you like to know?
+Dialogue: 0,0:21:27.71,0:21:30.71,Main,Paratrogo,0,0,0,,Not a lot of prima materia, but...
+Dialogue: 0,0:21:30.71,0:21:33.29,Main,Morse,0,0,0,,Para, stop worrying about that brat.
+Dialogue: 0,0:21:33.29,0:21:34.48,Main,Morse,0,0,0,,Please head up instead.
+Dialogue: 0,0:21:35.82,0:21:37.23,Main,Paratrogo,0,0,0,,All right, fine.
+Dialogue: 0,0:21:42.27,0:21:43.28,Main,Lily,0,0,0,,That's...
+Dialogue: 0,0:21:43.28,0:21:44.81,Main,Amelia,0,0,0,,Ray, go!
+Dialogue: 0,0:21:44.81,0:21:49.12,Main,Albert,0,0,0,,We don't know what's going on, \Nbut we'll be fine here.
+Dialogue: 0,0:21:49.12,0:21:50.62,Main,Evi,0,0,0,,Let us handle this.
+Dialogue: 0,0:21:50.62,0:21:51.61,Main,Elisa,0,0,0,,Ray.
+Dialogue: 0,0:21:51.61,0:21:52.45,Main,Claris,0,0,0,,Ray!
+Dialogue: 0,0:21:54.86,0:21:56.16,Main,Lily,0,0,0,,You guys...
+Dialogue: 0,0:22:00.82,0:22:01.87,Main,Lily,0,0,0,,Thank you.
+Dialogue: 0,0:22:04.10,0:22:06.40,Main,All,0,0,0,,Your voice!
+Dialogue: 0,0:22:08.81,0:22:13.72,Flashback,Bruno,0,0,0,,The name Bradley is a curse that \Nwas cast on our bloodline.
+Dialogue: 0,0:22:14.22,0:22:18.10,Flashback,Bruno,0,0,0,,Because of the massive bloodshed \Nrevolving around the Kreuz
+Dialogue: 0,0:22:18.10,0:22:21.82,Flashback,Bruno,0,0,0,,that appears once every few hundred years...
+Dialogue: 0,0:22:22.62,0:22:25.41,Flashback,Ray,0,0,0,,So Miss Rebecca is the Kreuz?
+Dialogue: 0,0:22:25.41,0:22:28.91,Flashback,Lydia,0,0,0,,Right now, she is very far \Naway from being the Kreuz.
+Dialogue: 0,0:22:28.91,0:22:32.26,Flashback,Lydia,0,0,0,,She can't even control \Nher own sorcerer's eye.
+Dialogue: 0,0:22:32.26,0:22:35.62,Flashback,Bruno,0,0,0,,If she continues to be \Nunable to control her power,
+Dialogue: 0,0:22:35.62,0:22:38.61,Flashback,Bruno,0,0,0,,Rebecca probably won't \Neven live to see twenty.
+Dialogue: 0,0:22:39.31,0:22:42.24,Flashback,Bruno,0,0,0,,Maria being born as an albino was due to
+Dialogue: 0,0:22:42.24,0:22:45.14,Flashback,Bruno,0,0,0,,the after-effects of Rebecca \Nbeing born as the Kreuz.
+Dialogue: 0,0:22:45.98,0:22:47.74,Flashback,Bruno,0,0,0,,It might not be limited to Rebecca,
+Dialogue: 0,0:22:47.74,0:22:51.13,Flashback,Bruno,0,0,0,,meaning there may be some sort \Nof effect on Maria, as well.
+Dialogue: 0,0:22:51.80,0:22:53.14,Flashback,Bruno,0,0,0,,That's why...
+Dialogue: 0,0:22:53.14,0:22:54.84,Flashback,Bruno,0,0,0,,That's why I...
+Dialogue: 0,0:22:56.80,0:22:58.22,Main,Ray,0,0,0,,Miss Rebecca!
+Dialogue: 0,0:23:50.03,0:23:55.04,Sign_Basic,Title,0,0,0,,{\an8\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3}T{\3c&HB3571A&}h{\3c&HB35621&}e{\3c&HB45529&} {\3c&HB45430&}I{\3c&HB55337&}c{\3c&HB5513E&}e{\3c&HB65045&}b{\3c&HB64F4C&}l{\3c&HB74E54&}a{\3c&HB74D5B&}d{\3c&HB84C62&}e {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}S{\c&HB54F25&}o{\c&HB8482F&}r{\c&HBA403A&}c{\c&HBD3944&}e{\c&HBF314F&}r{\c&HC22A59&}e{\c&HC42264&}r\N{\fnGeorgia\b0\c&H000000&}Shall {\fnArial\b1\shad0\3c&HFFFFFF&\blur3\c&HB3571A&}R{\c&HB94533&}u{\c&HBE344B&}l{\c&HC42264&}e {\fnGeorgia\b0\c&H000000&}the {\fnTimes New Roman\b1\shad0\3c&HB25813&\blur3\c&HFFFFFF&}W{\3c&HB65428&}o{\3c&HB94F3C&}r{\3c&HBD4B51&}l{\3c&HC04665&}d
+Dialogue: 0,0:23:50.03,0:23:55.04,ep title,txt,0,0,0,,{\pos(320,228)\3c&HDA9D66&\clip(0,225,640,236)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:23:50.03,0:23:55.04,ep title,txt,0,0,0,,{\pos(320,228)\3c&HED4CA1&\clip(0,236,640,360)\blur2}~ Next Episode Preview ~
+Dialogue: 0,0:23:50.54,0:23:51.87,Main,Ray,0,0,0,,This is the preview of the next episode
+Dialogue: 0,0:23:51.87,0:23:54.06,Main,Ray,0,0,0,,of {\i1}The Iceblade Sorcerer \NShall Rule the World{\i0}!
+Dialogue: 0,0:23:55.04,0:23:57.09,Main,Ray,0,0,0,,Everything has converged.
+Dialogue: 0,0:23:57.09,0:23:58.78,Main,Ray,0,0,0,,Love and hatred are forming an eddy.
+Dialogue: 0,0:23:58.78,0:24:02.75,Main,Ray,0,0,0,,The glimmering Iceblade is a single \Nflash that rules the world.
+Dialogue: 0,0:24:02.75,0:24:06.48,Main,Ray,0,0,0,,"The Boy Who Became the World's \NStrongest Sorcerer Unveils Ākāśa"!
+Dialogue: 0,0:24:05.54,0:24:10.05,ep title,txt,0,0,0,,Episode 12\N{\fscx90}The Boy Who Became the World's Strongest Sorcerer Unveils Ākāśa
+Dialogue: 0,0:24:06.48,0:24:09.43,Main,Ray,0,0,0,,I am the Iceblade Sorcerer, Ray White!

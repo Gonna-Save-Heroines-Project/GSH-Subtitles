@@ -34,9 +34,9 @@ Style: ED TL,Varela Round,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,{Prolog}
-Comment: 0,0:01:01.95,0:01:02.00,Dialogue,,0,0,0,,{Opening}
+Comment: 0,0:01:01.95,0:01:02.00,Dialogue,,0,0,0,,{OP}
 Comment: 0,0:02:32.00,0:02:32.04,Dialogue,,0,0,0,,{Episod}
-Comment: 0,0:22:04.97,0:22:05.01,Dialogue,,0,0,0,,{Ending}
+Comment: 0,0:22:04.97,0:22:05.01,Dialogue,,0,0,0,,{ED}
 Comment: 0,0:23:34.97,0:23:35.01,Dialogue,,0,0,0,,{Data viitoare}
 Dialogue: 100,0:00:04.29,0:00:09.46,Dialogue Top,,0,0,0,,{\i1}Au trecut trei luni de când m-am mutat din orașul meu natal din Hokkaido ca să urmez o universitate de fete în Tokyo.
 Dialogue: 100,0:00:11.17,0:00:17.35,Dialogue Top,,0,0,0,,{\i1}La început, am crezut că lucrurile vor fi diferite dacă aș merge în Tokyo, sau cel puțin asta am sperat,

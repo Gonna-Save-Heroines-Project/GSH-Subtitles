@@ -62,7 +62,7 @@ Comment: 0,0:01:44.86,0:01:47.40,OP TL,,0,0,0,karaoke,Mi-ar plăcea să las totu
 Comment: 0,0:01:47.40,0:01:50.95,OP TL,,0,0,0,karaoke,Dar alegerea chiar nu este a mea
 Comment: 0,0:01:50.95,0:01:58.72,OP TL,,0,0,0,karaoke,Există un singur lucru pe care vreau să-l protejez
 Comment: 0,0:01:59.18,0:02:02.11,OP TL,,0,0,0,karaoke,Dar asta nu sens științific
-Comment: 0,0:02:02.11,0:02:04.82,OP TL,,0,0,0,karaoke,Chiar nu se merită să ai încredere în visuri
+Comment: 0,0:02:02.11,0:02:04.82,OP TL,,0,0,0,karaoke,Chiar nu merită să ai încredere în visuri
 Comment: 0,0:02:06.78,0:02:09.56,OP TL,,0,0,0,karaoke,Singurul lucru în care putem crede este realitatea
 Comment: 0,0:02:09.56,0:02:11.86,OP TL,,0,0,0,karaoke,Chiar și în această lume fără valoare
 Comment: 0,0:02:11.86,0:02:14.61,OP TL,,0,0,0,karaoke,Există clipe care nu sunt atât de rele
@@ -1344,9 +1344,9 @@ Dialogue: 2,0:01:50.95,0:01:58.72,OP TL,,0,0,0,fx,{\fad(200,200)\blur0.5\bord0\c
 Dialogue: 0,0:01:59.18,0:02:02.11,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord3\blur5\3c&H78871B&}Dar asta nu sens științific
 Dialogue: 1,0:01:59.18,0:02:02.11,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord1\blur1.5\3c&H78871B&}Dar asta nu sens științific
 Dialogue: 2,0:01:59.18,0:02:02.11,OP TL,,0,0,0,fx,{\fad(200,200)\blur0.5\bord0\c&HFFFFFF&}Dar asta nu sens științific
-Dialogue: 0,0:02:02.11,0:02:04.82,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord3\blur5\3c&H78871B&}Chiar nu se merită să ai încredere în visuri
-Dialogue: 1,0:02:02.11,0:02:04.82,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord1\blur1.5\3c&H78871B&}Chiar nu se merită să ai încredere în visuri
-Dialogue: 2,0:02:02.11,0:02:04.82,OP TL,,0,0,0,fx,{\fad(200,200)\blur0.5\bord0\c&HFFFFFF&}Chiar nu se merită să ai încredere în visuri
+Dialogue: 0,0:02:02.11,0:02:04.82,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord3\blur5\3c&H78871B&}Chiar nu merită să ai încredere în visuri
+Dialogue: 1,0:02:02.11,0:02:04.82,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord1\blur1.5\3c&H78871B&}Chiar nu merită să ai încredere în visuri
+Dialogue: 2,0:02:02.11,0:02:04.82,OP TL,,0,0,0,fx,{\fad(200,200)\blur0.5\bord0\c&HFFFFFF&}Chiar nu merită să ai încredere în visuri
 Dialogue: 0,0:02:06.78,0:02:09.56,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord3\blur5\3c&H78871B&}Singurul lucru în care putem crede este realitatea
 Dialogue: 1,0:02:06.78,0:02:09.56,OP TL,,0,0,0,fx,{\fad(200,200)\1a&HFF&\bord1\blur1.5\3c&H78871B&}Singurul lucru în care putem crede este realitatea
 Dialogue: 2,0:02:06.78,0:02:09.56,OP TL,,0,0,0,fx,{\fad(200,200)\blur0.5\bord0\c&HFFFFFF&}Singurul lucru în care putem crede este realitatea

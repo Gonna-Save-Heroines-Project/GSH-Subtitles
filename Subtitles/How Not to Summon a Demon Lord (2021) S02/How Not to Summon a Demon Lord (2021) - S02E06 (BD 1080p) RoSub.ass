@@ -20,13 +20,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../Anime/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [Ma10p_1080p]/SPs/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [06(Double Summon Ver.)][Ma10p_1080p][x265_flac].mkv
-Video File: ../../../../Anime/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [Ma10p_1080p]/SPs/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [06(Double Summon Ver.)][Ma10p_1080p][x265_flac].mkv
+Audio File: ../../../../Anime/[VCB] Isekai Maou S2/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [06(Double Summon Ver.)][Ma10p_1080p][x265_flac].mkv
+Video File: ../../../../Anime/[VCB] Isekai Maou S2/[Nekomoe kissaten&VCB-Studio] Isekai Maou to Shoukan Shoujo no Dorei Majutsu Omega [06(Double Summon Ver.)][Ma10p_1080p][x265_flac].mkv
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 359
-Active Line: 372
-Video Position: 34550
+Video Zoom Percent: 0.625000
+Scroll Position: 356
+Active Line: 364
+Video Position: 17822
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -402,9 +402,9 @@ Dialogue: 99,0:23:57.12,0:24:01.00,Dialogue,Galford,0,660,0,,{\q2}Nu pot închid
 Dialogue: 0,0:02:28.38,0:02:31.05,EpTitle,,0,0,0,,Episodul 6: Armata Lordului Demon
 Dialogue: 0,0:23:51.54,0:24:01.00,EpTitle,,0,0,0,,{\pos(1539.2,967.2)}Data viitoare: Micuțul Lord Demon
 Dialogue: 0,0:12:18.76,0:12:23.01,DedzuyaSigns,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(260,506)\p1\c&H000000&\alpha&H50&}m -260 -506 l 290 -506 290 574 -260 574
-Dialogue: 1,0:12:18.76,0:12:23.01,DedzuyaSigns,,0,0,0,,{\move(275,350,275,800)}Sâni\N{\c&H8029BE&}Inele\N{\c&H3446B6&}Haine asortate\N{\c&H298ED7&}Întâlniri\N{\c&H55B7AE&}Îmbrățișări\N{\c&H810F9E&}Shacked Up\N{\c&HBC2A73&}Îndrăgostiți\N{\c&HBB4F1A&}Săruturi\N{\c&H2FC146&}Căsnicie \Nfericită
+Dialogue: 1,0:12:18.76,0:12:23.01,DedzuyaSigns,,0,0,0,,{\move(275,350,275,800)\fnFolk\b1}Sâni\N{\c&H8029BE&}Inele\N{\c&H3446B6&}Haine asortate\N{\c&H298ED7&}Întâlniri\N{\c&H55B7AE&}Îmbrățișări\N{\c&H810F9E&}Shacked Up\N{\c&HBC2A73&}Îndrăgostiți\N{\c&HBB4F1A&}Săruturi\N{\c&H2FC146&}Căsnicie \Nfericită
 Dialogue: 0,0:12:18.76,0:12:23.01,DedzuyaSigns,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(1638,550)\p1\c&H000000&\alpha&H50&}m -268 -550 l 282 -550 282 530 -268 530
-Dialogue: 1,0:12:18.76,0:12:23.01,DedzuyaSigns,,0,0,0,,{\move(1645,800,1645,350)}Cuplu\N {\c&H599E53&}Sâni\N {\c&HA72F62&}Nightly Endeavors\N {\c&H6B159F&}Romantism\N{\c&H4D36D8&}Ținut de mână\N{\c&H291EA3&}Lună de miere\N{\c&HC2BD45&} Harem \N{\c&H885535&}Stat cu capul \Nîn poală\N{\c&H4D37D8&}Sâni
+Dialogue: 1,0:12:18.76,0:12:23.01,DedzuyaSigns,,0,0,0,,{\move(1645,800,1645,350)\fnFolk\b1}Cuplu\N {\c&H599E53&}Sâni\N {\c&HA72F62&}Nightly Endeavors\N {\c&H6B159F&}Romantism\N{\c&H4D36D8&}Ținut de mână\N{\c&H291EA3&}Lună de miere\N{\c&HC2BD45&} Harem \N{\c&H885535&}Stat cu capul \Nîn poală\N{\c&H4D37D8&}Sâni
 Dialogue: 0,0:24:01.00,0:24:05.00,DedzuyaSigns,,0,0,0,,{\an8\pos(480,160)\fscx105\fnJun 501\fs84\b1\bord1\3c&HFFFFFF&\blur4}Nu ratați următorul episod!
 Dialogue: 1,0:24:01.00,0:24:05.00,DedzuyaSigns,,0,0,0,,{\an8\pos(480,160)\fscx105\fnJun 501\fs84\b1\xshad-1.5\yshad-1\c&HFFFFFF&\4c&HFFFFFF&\blur0.5\3c&H340F9C&}Nu ratați următorul episod!
 Dialogue: 2,0:24:01.00,0:24:05.00,DedzuyaSigns,,0,0,0,,{\an8\pos(480,160)\fscx105\fnJun 501\fs84\b1\xshad1.5\yshad1\c&H3511AA&\blur0.5\4c&H3511AA&}Nu ratați următorul episod!
