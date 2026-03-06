@@ -20,93 +20,93 @@ Update Details: GSH
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: E:/Anime/[sgt] Does It Count If You Lose Your Innocence to an Android - S01E02 (WEB 1080p HEVC).mkv
-Video File: E:/Anime/[sgt] Does It Count If You Lose Your Innocence to an Android - S01E02 (WEB 1080p HEVC).mkv
-Video AR Mode: 4
+Video File: ?dummy:24000/1001:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 9
-Video Position: 690
+Scroll Position: 54
+Active Line: 59
+Video Position: 4232
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fontin Sans,70,&H00FFFFFF,&H000000FF,&H0040006A,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,60,1
-Style: Alt,Fontin Sans,70,&H00FFFFFF,&H000000FF,&H006F0064,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,60,1
+Style: Dialogue Overlap,Fontin Sans,70,&H00FFFFFF,&H000000FF,&H006F0064,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Episod}
 Dialogue: 99,0:00:08.65,0:00:10.03,Dialogue,,0,0,0,,Bine ai revenit.
 Dialogue: 99,0:00:12.24,0:00:14.24,Dialogue,,0,0,0,,{\i1}Deci nu a fost un vis până la urmă.
 Dialogue: 99,0:00:14.24,0:00:15.66,Dialogue,,0,0,0,,Stăpână! Stăpână!
-Dialogue: 99,0:00:16.03,0:00:18.36,Dialogue,,0,0,0,,Haide să-ți facem \Nînregistrarea ca stăpân.
+Dialogue: 99,0:00:16.03,0:00:18.36,Dialogue,,0,0,0,,Haide să te înregitrăm ca stăpân.
 Dialogue: 99,0:00:18.36,0:00:19.20,Dialogue,,0,0,0,,Doar bagă-ți degetul în va—
 Dialogue: 99,0:00:19.20,0:00:20.54,Dialogue,,0,0,0,,Nu acum!
 Dialogue: 99,0:00:20.97,0:00:23.20,Dialogue,,0,0,0,,Mai întâi, trebuie să-ți cumpărăm \Nhaine și lenjerie intimă.
 Dialogue: 99,0:00:23.20,0:00:25.39,Dialogue,,0,0,0,,Ei bine, haine am deja, \Ndeci mai trebuie doar lenjerie.
 Dialogue: 99,0:00:25.39,0:00:27.72,Dialogue,,0,0,0,,Arăți de parcă porți un costum!
-Dialogue: 99,0:00:28.74,0:00:30.47,Dialogue,,0,0,0,,{\i1}But with that said...
-Dialogue: 99,0:00:31.11,0:00:33.18,Dialogue,,0,0,0,,There's nothing for you to wear.
-Dialogue: 99,0:00:33.55,0:00:37.11,Dialogue,,0,0,0,,Well, it's still early, so I'm going to the store.
-Dialogue: 99,0:00:37.11,0:00:38.27,Dialogue,,0,0,0,,You're heading out?
-Dialogue: 99,0:00:38.27,0:00:39.59,Dialogue,,0,0,0,,Voi veni cu tine.
+Dialogue: 99,0:00:28.74,0:00:30.47,Dialogue,,0,0,0,,{\i1}Chiar și așa...
+Dialogue: 99,0:00:31.11,0:00:33.18,Dialogue,,0,0,0,,Nu am nimic ce să-ți dau să porți.
+Dialogue: 99,0:00:33.55,0:00:37.11,Dialogue,,0,0,0,,Ei bine, încă e devreme, \Ndeci voi merge la magazin.
+Dialogue: 99,0:00:37.11,0:00:38.27,Dialogue,,0,0,0,,Mergi afară?
+Dialogue: 99,0:00:38.27,0:00:39.59,Dialogue,,0,0,0,,Voi veni și eu.
 Dialogue: 99,0:00:39.59,0:00:40.88,Dialogue,,0,0,0,,Sub nicio formă!
-Dialogue: 99,0:00:40.88,0:00:42.61,Dialogue,,0,0,0,,You can't just go out commando!
-Dialogue: 99,0:00:42.61,0:00:47.09,Dialogue,,0,0,0,,But I've been cooped up in here ever since I arrived.
-Dialogue: 99,0:00:47.73,0:00:49.45,Dialogue,,0,0,0,,I get so lonely.
+Dialogue: 99,0:00:40.88,0:00:42.61,Dialogue,,0,0,0,,Nu poți ieși fără chiloți pe tine!
+Dialogue: 99,0:00:42.61,0:00:47.09,Dialogue,,0,0,0,,Dar am stat închisă în \Ncasă de când am ajuns.
+Dialogue: 99,0:00:47.73,0:00:49.45,Dialogue,,0,0,0,,Mă simt așa de singură.
 Dialogue: 99,0:00:54.45,0:00:56.37,Dialogue,,0,0,0,,Ai obosit, stăpână?
-Dialogue: 99,0:00:56.37,0:00:58.83,Dialogue,,0,0,0,,Don't call me "Master" when we're out.
+Dialogue: 99,0:00:56.37,0:00:58.83,Dialogue,,0,0,0,,Nu-mi spune „stăpână” \Ncând suntem afară.
 Dialogue: 99,0:01:00.29,0:01:01.87,Dialogue,,0,0,0,,Vai, ce bate vântul!
 Dialogue: 99,0:01:02.13,0:01:04.34,Dialogue,,0,0,0,,Vântul bate destul de \Ntare astăzi, nu-i așa?
 Dialogue: 99,0:01:04.34,0:01:06.55,Dialogue,,0,0,0,,Ești bine, stăpână?
-Dialogue: 99,0:01:06.55,0:01:08.26,Dialogue,,0,0,0,,No, I'm {\i1}not{\i0} okay!
+Dialogue: 99,0:01:06.55,0:01:08.26,Dialogue,,0,0,0,,Nu, {\i1}nu{\i0} sunt bine!
 Dialogue: 99,0:01:08.73,0:01:10.97,Dialogue,,0,0,0,,Haide, aproape am ajuns.
-Dialogue: 99,0:01:10.41,0:01:10.97,Alt,,0,0,0,,Bine!
-Dialogue: 99,0:01:18.47,0:01:20.35,Dialogue,,0,0,0,,Thanks for coming.
-Dialogue: 99,0:01:20.59,0:01:22.21,Dialogue,,0,0,0,,Okay, we got some undies.
-Dialogue: 99,0:01:22.64,0:01:25.32,Dialogue,,0,0,0,,{\i1\q2}Now to find somewhere \Nfor her to put them on and head home.
-Dialogue: 99,0:01:26.97,0:01:28.28,Dialogue,,0,0,0,,Blocked!
-Dialogue: 99,0:01:28.28,0:01:32.11,Dialogue,,0,0,0,,{\q2}Like I said, eye contact is not a signal to kiss me!
-Dialogue: 99,0:01:32.11,0:01:33.24,Dialogue,,0,0,0,,Understood.
-Dialogue: 99,0:01:34.50,0:01:37.43,Dialogue,,0,0,0,,Here, go in there and put them on.
-Dialogue: 99,0:01:37.43,0:01:39.77,Dialogue,,0,0,0,,Sure. I'll be right back.
-Dialogue: 99,0:01:39.77,0:01:42.42,Dialogue,,0,0,0,,{\i1\q2}Surely she at least knows \Nher way around a restroom.
-Dialogue: 99,0:01:44.13,0:01:46.34,Dialogue,,0,0,0,,Why is she still in there?!
-Dialogue: 99,0:01:48.16,0:01:49.66,Dialogue,,0,0,0,,Hey! You all right?
-Dialogue: 99,0:01:49.66,0:01:50.72,Dialogue,,0,0,0,,Master...
-Dialogue: 99,0:01:51.09,0:01:53.18,Dialogue,,0,0,0,,Please come in.
-Dialogue: 99,0:01:57.71,0:01:58.76,Dialogue,,0,0,0,,Master...
-Dialogue: 99,0:02:00.69,0:02:02.75,Dialogue,,0,0,0,,Let's do your master registration here.
+Dialogue: 99,0:01:10.41,0:01:10.97,Dialogue Overlap,,0,0,0,,Bine!
+Dialogue: 99,0:01:18.47,0:01:20.35,Dialogue,,0,0,0,,Vă mulțumim pentru cumpărături.
+Dialogue: 99,0:01:20.59,0:01:22.21,Dialogue,,0,0,0,,Bun, am cumpărat chiloți.
+Dialogue: 99,0:01:22.64,0:01:25.32,Dialogue,,0,0,0,,{\i1}Mai trebuie doar să găsim un loc unde să-i îmbrace și să mergem acasă.
+Dialogue: 99,0:01:26.97,0:01:28.28,Dialogue,,0,0,0,,Blocare!
+Dialogue: 99,0:01:28.28,0:01:32.11,Dialogue,,0,0,0,,Ți-am mai spus, dacă mă uit în ochii tăi nu înseamnă că vreau să mă săruți!
+Dialogue: 99,0:01:32.11,0:01:33.24,Dialogue,,0,0,0,,Am înțeles.
+Dialogue: 99,0:01:34.50,0:01:37.43,Dialogue,,0,0,0,,Poftim, mergi și pune-i pe tine.
+Dialogue: 99,0:01:37.43,0:01:39.77,Dialogue,,0,0,0,,Bine. Mă întorc imediat.
+Dialogue: 99,0:01:39.77,0:01:42.42,Dialogue,,0,0,0,,{\i1}Sigur știe ce ar trebui \Nsă facă într-o toaletă.
+Dialogue: 99,0:01:44.13,0:01:46.34,Dialogue,,0,0,0,,De ce nu a ieșit încă?!
+Dialogue: 99,0:01:48.16,0:01:49.66,Dialogue,,0,0,0,,Hei! Ești bine?
+Dialogue: 99,0:01:49.66,0:01:50.72,Dialogue,,0,0,0,,Stăpână...
+Dialogue: 99,0:01:51.09,0:01:53.18,Dialogue,,0,0,0,,Intră, te rog.
+Dialogue: 99,0:01:57.71,0:01:58.76,Dialogue,,0,0,0,,Stăpână...
+Dialogue: 99,0:02:00.69,0:02:02.75,Dialogue,,0,0,0,,Haide să te înregistrăm ca stăpân aici.
 Dialogue: 99,0:02:02.75,0:02:03.25,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:02:03.25,0:02:05.90,Dialogue,,0,0,0,,I won't move unless you do it.
-Dialogue: 99,0:02:05.90,0:02:07.73,Dialogue,,0,0,0,,Huh? What do you—
-Dialogue: 99,0:02:08.03,0:02:09.53,Dialogue,,0,0,0,,Master...
+Dialogue: 99,0:02:03.25,0:02:05.90,Dialogue,,0,0,0,,Altfel nu mă voi mișca.
+Dialogue: 99,0:02:05.90,0:02:07.73,Dialogue,,0,0,0,,Ce? Ce crezi că...
+Dialogue: 99,0:02:08.03,0:02:09.53,Dialogue,,0,0,0,,Stăpână...
 Dialogue: 99,0:02:10.27,0:02:13.36,Dialogue,,0,0,0,,Bine, dar pune-ți chiloții pe tine, mai întâi.
 Dialogue: 99,0:02:15.21,0:02:17.37,Dialogue,,0,0,0,,Te rog să mi-i pui tu, stăpână.
-Dialogue: 99,0:02:17.02,0:02:17.37,Alt,,0,0,0,,Ce?!
-Dialogue: 99,0:02:21.29,0:02:24.50,Dialogue,,0,0,0,,{\t(2710,0,1,\c&H000000&\3c&H000000&)}Bine. Atunci, ridică-ți piciorul drept.
+Dialogue: 99,0:02:17.02,0:02:17.37,Dialogue Overlap,,0,0,0,,Ce?!
+Dialogue: 99,0:02:21.29,0:02:24.50,Dialogue,,0,0,0,,{\t(2710,0,\c&H000000&\3c&H000000&)}Bine. Atunci, ridică-ți piciorul drept.
 Dialogue: 99,0:02:27.11,0:02:28.09,Dialogue,,0,0,0,,Eu...
-Dialogue: 99,0:02:28.40,0:02:31.67,Dialogue,,0,0,0,,{\q2}I want to be able to serve you \Nas soon as possible, Master.
-Dialogue: 99,0:02:32.02,0:02:34.63,Dialogue,,0,0,0,,{\q2}Some of my functions \Nare unavailable until you register.
-Dialogue: 99,0:02:35.30,0:02:37.85,Dialogue,,0,0,0,,I cannot satisfy you in this state, Master!
+Dialogue: 99,0:02:28.40,0:02:31.67,Dialogue,,0,0,0,,Vreau să te pot servi cât \Nmai repede posibil, stăpână.
+Dialogue: 99,0:02:32.02,0:02:34.63,Dialogue,,0,0,0,,Câteva dintre funcțiile mele nu vor fi \Ndisponibile până nu te înregistrezi.
+Dialogue: 99,0:02:35.30,0:02:37.85,Dialogue,,0,0,0,,Deci nu te voi putea satisface, stăpână!
 Dialogue: 99,0:02:39.07,0:02:40.27,Dialogue,,0,0,0,,Vreau să fiu...
 Dialogue: 99,0:02:40.27,0:02:42.81,Dialogue,,0,0,0,,Vreau să fiu a ta și numai a ta.
 Dialogue: 99,0:02:46.23,0:02:48.65,Dialogue,,0,0,0,,Mă scuzați!
-Dialogue: 99,0:02:47.58,0:02:48.65,Alt,,0,0,0,,Da!
+Dialogue: 99,0:02:47.58,0:02:48.65,Dialogue Overlap,,0,0,0,,Da!
 Dialogue: 99,0:02:49.27,0:02:51.82,Dialogue,,0,0,0,,Scuze! Voi ieși imediat!
-Dialogue: 99,0:02:56.49,0:02:59.53,Dialogue,,0,0,0,,{\i1}I nearly got caught up in the heat of the moment.
-Dialogue: 99,0:03:02.32,0:03:07.08,Dialogue,,0,0,0,,{\q2}I'm looking forward to having you take off \Nthe underwear you got for me, Master.
+Dialogue: 99,0:02:56.49,0:02:59.53,Dialogue,,0,0,0,,{\i1}Era cât pe ce să mă las dusă de val.
+Dialogue: 99,0:03:02.32,0:03:07.08,Dialogue,,0,0,0,,Abia aștept să-mi dai jos chiloțeii \Npe care mi i-ai cumpărat, stăpână.
 Dialogue: 99,0:03:09.54,0:03:11.12,Dialogue,,0,0,0,,O voi lua înainte!
 Dialogue: 99,0:03:11.12,0:03:12.13,Dialogue,,0,0,0,,Stăpână!
 Dialogue: 99,0:03:15.68,0:03:16.57,Dialogue,,0,0,0,,{\i1}Totuși...
 Dialogue: 99,0:03:18.46,0:03:22.27,Dialogue,,0,0,0,,Nu e atât de rău să mai ai \Npe cineva prin preajmă.
-Dialogue: 99,0:03:24.48,0:03:26.40,Dialogue,,0,0,0,,Stăpână, ce tocmai ai spus...
+Dialogue: 99,0:03:24.48,0:03:26.40,Dialogue,,0,0,0,,Stăpână, ce spuneai acolo...
 Dialogue: 99,0:03:26.40,0:03:29.15,Dialogue,,0,0,0,,Nimic! Uită! De ce ești așa de rapidă?!
-Dialogue: 0,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=2}{\an7\move(1135,110,1206.64,110,23,6446)\bord2\c&H8D8D8D&\3c&H8D8D8D&\blur1\clip\fsHcy100\p1\fry-0.5}m -158 -75 l 156 -75 156 79 -158 79
-Dialogue: 1,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=1}{\an7\move(1135,110,1206.64,110,23,6446)\c&HF6F6F6&\blur1\clip\p1\fry-0.5}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=2}{\an7\move(1135,110,1206.64,110,23,6446)\bord2\c&H8D8D8D&\3c&H8D8D8D&\blur1\clip\fsHcy100\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=1}{\an7\move(1135,110,1206.64,110,23,6446)\c&HF6F6F6&\blur1\clip\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
 Dialogue: 2,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=0}{\move(1135,110,1206.64,110,23,6446)\fscx80\fscy80\fnSource Sans Pro\b1\c&H2D2D2D&\blur0.8\clip\fry-0.5}Aveți grijă \Nla dubioși!
-Dialogue: 0,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=2}{\an7\move(1135,110,1206.64,110,23,6446)\bord2\c&H8D8D8D&\3c&H8D8D8D&\blur1\clip\fsHcy100\p1\fry-0.5}m -158 -75 l 156 -75 156 79 -158 79
-Dialogue: 1,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=1}{\an7\move(1135,110,1206.64,110,23,6446)\c&HF6F6F6&\blur1\clip\p1\fry-0.5}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=2}{\an7\move(1135,110,1206.64,110,23,6446)\bord2\c&H8D8D8D&\3c&H8D8D8D&\blur1\clip\fsHcy100\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=1}{\an7\move(1135,110,1206.64,110,23,6446)\c&HF6F6F6&\blur1\clip\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
 Dialogue: 2,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=0}{\move(1135,110,1206.64,110,23,6446)\fscx80\fscy80\fnSource Sans Pro\b1\c&H2D2D2D&\blur0.8\clip\fry-0.5}Aveți grijă \Nla dubioși!
 
 [Aegisub Extradata]
