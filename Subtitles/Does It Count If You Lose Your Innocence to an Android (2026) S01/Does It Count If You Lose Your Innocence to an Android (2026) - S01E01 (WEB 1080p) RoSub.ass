@@ -23,7 +23,10 @@ Audio File: E:/Anime/[sgt] Does It Count If You Lose Your Innocence to an Androi
 Video File: E:/Anime/[sgt] Does It Count If You Lose Your Innocence to an Android - S01E01 (WEB 1080p HEVC).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.375000
+Scroll Position: 33
+Active Line: 43
+Video Position: 6147
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,10 +37,10 @@ Style: Alt,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Episod}
 Dialogue: 99,0:00:05.36,0:00:06.11,Dialogue,,0,0,0,,Tsuda!
-Dialogue: 99,0:00:08.15,0:00:13.08,Dialogue,,0,0,0,,Îți mulțumesc pentru ajutorul de zilele trecute. \NDatorită ție, proiectul nostru nu a rămas în urmă.
-Dialogue: 99,0:00:13.41,0:00:17.25,Dialogue,,0,0,0,,Îmi pare foarte rău pentru \Ncă te-am ținut din treaba ta!
+Dialogue: 99,0:00:08.15,0:00:13.08,Dialogue,,0,0,0,,Îți mulțumesc pentru ajutorul de zilele trecute. \NDatorită ție, nu am rămas în urmă cu proiectul.
+Dialogue: 99,0:00:13.41,0:00:17.25,Dialogue,,0,0,0,,Îmi cer scuze pentru \Ncă ți-am răpit din timp!
 Dialogue: 99,0:00:17.25,0:00:18.16,Dialogue,,0,0,0,,Ito,
-Dialogue: 99,0:00:18.71,0:00:21.33,Dialogue,,0,0,0,,suntem în aceeași echipă. \NE normal să te ajut.
+Dialogue: 99,0:00:18.71,0:00:21.33,Dialogue,,0,0,0,,suntem în aceeași echipă. \NTrebuie să ne ajutăm reciproc.
 Dialogue: 99,0:00:21.33,0:00:23.25,Dialogue,,0,0,0,,If anything,
 Dialogue: 99,0:00:24.21,0:00:26.71,Dialogue,,0,0,0,,I'd rather hear a simple "thank you."
 Dialogue: 99,0:00:28.38,0:00:29.01,Dialogue,,0,0,0,,Tsuda!
@@ -47,19 +50,19 @@ Dialogue: 99,0:00:32.39,0:00:35.35,Dialogue,,0,0,0,,Ai câteva minute să discut
 Dialogue: 99,0:00:35.35,0:00:37.18,Dialogue,,0,0,0,,Desigur.
 Dialogue: 99,0:00:39.73,0:00:42.61,Dialogue,,0,0,0,,So, as for features we can add to the language area...
 Dialogue: 99,0:00:42.61,0:00:45.32,Dialogue,,0,0,0,,{\i1}Lucrez pentru un mare \Nproducător de electronice,
-Dialogue: 99,0:00:45.32,0:00:47.90,Dialogue,,0,0,0,,{\i1}in the planning department for AI household robots,
-Dialogue: 99,0:00:47.90,0:00:49.99,Dialogue,,0,0,0,,{\i1}which keeps me busy every day.
+Dialogue: 99,0:00:45.32,0:00:47.90,Dialogue,,0,0,0,,{\i1}în departamentul de planificare \Npentru roboți casnici cu IA,
+Dialogue: 99,0:00:47.90,0:00:49.99,Dialogue,,0,0,0,,{\i1}ceea ce mă ține ocupată în fiecare zi.
 Dialogue: 99,0:00:50.70,0:00:53.83,Dialogue,,0,0,0,,Bun, gata cu munca.
 Dialogue: 99,0:00:55.70,0:00:57.83,Dialogue,,0,0,0,,Oricum, ce naiba e așa \Ngrozav la realitatea virtuală?
-Dialogue: 99,0:00:58.75,0:01:02.88,Dialogue,,0,0,0,,Sure, the section lead said \Nthat AI wasn't going to take my job.
-Dialogue: 99,0:01:02.88,0:01:04.75,Dialogue,,0,0,0,,But he can't know that for sure!
-Dialogue: 99,0:01:05.30,0:01:08.92,Dialogue,,0,0,0,,What if I {\i1}do{\i0} lose my job to a hot new AI \Nand wind up unemployed?
-Dialogue: 99,0:01:09.72,0:01:12.26,Dialogue,,0,0,0,,I might die alone in this filthy pit.
-Dialogue: 99,0:01:14.35,0:01:16.35,Dialogue,,0,0,0,,I'll hire myself a pretty little maid!
-Dialogue: 99,0:01:16.35,0:01:19.06,Dialogue,,0,0,0,,All-purpose maid robot? Nope! Maid cafe? Nope!
-Dialogue: 99,0:01:20.35,0:01:23.06,Dialogue,,0,0,0,,Wow, they left something this big unattended?
-Dialogue: 99,0:01:23.35,0:01:25.82,Dialogue,,0,0,0,,Oof, this is heavy!
-Dialogue: 99,0:01:26.40,0:01:29.65,Dialogue,,0,0,0,,Wait, I should've opened the door first! Darn it!
+Dialogue: 99,0:00:58.75,0:01:02.88,Dialogue,,0,0,0,,Ei bine, liderul departamentului a spus că \Ninteligența artificială nu-mi va lua locul de muncă.
+Dialogue: 99,0:01:02.88,0:01:04.75,Dialogue,,0,0,0,,Dar nu știe acest lucru cu certitudine!
+Dialogue: 99,0:01:05.30,0:01:08.92,Dialogue,,0,0,0,,Dar dacă voi fi înlocuită de un robot \Ncu IA și nu mă mai angajează nimeni?
+Dialogue: 99,0:01:09.72,0:01:12.26,Dialogue,,0,0,0,,Voi muri de una singură în \Nacest apartament dezordonat.
+Dialogue: 99,0:01:14.35,0:01:16.35,Dialogue,,0,0,0,,Știu! Îmi voi angaja o menajeră drăguță!
+Dialogue: 99,0:01:16.35,0:01:19.06,Dialogue,,0,0,0,,Un robot-menajeră multifuncțional? Nu! Un robot-menajeră de cafenea? Nu!
+Dialogue: 99,0:01:20.35,0:01:23.06,Dialogue,,0,0,0,,Uau, chiar au lăsat ceva atât \Nde mare nesupravegheat?
+Dialogue: 99,0:01:23.35,0:01:25.82,Dialogue,,0,0,0,,Vai, e așa de grea!
+Dialogue: 99,0:01:26.40,0:01:29.65,Dialogue,,0,0,0,,Stai, ar fi trebuit să deschid \Nușa mai întâi! La naiba!
 Dialogue: 99,0:01:30.70,0:01:31.61,Dialogue,,0,0,0,,Stăpână?
 Dialogue: 99,0:01:32.20,0:01:33.99,Dialogue,,0,0,0,,Stăpână, e timpul să te trezești.
 Dialogue: 99,0:01:37.45,0:01:39.87,Dialogue,,0,0,0,,Bună dimineața, stăpână.
@@ -69,10 +72,10 @@ Dialogue: 99,0:01:46.34,0:01:48.71,Dialogue,,0,0,0,,Din cutia de la ușă.
 Dialogue: 99,0:01:48.71,0:01:50.21,Dialogue,,0,0,0,,Acea cutie imensă?!
 Dialogue: 99,0:01:50.67,0:01:53.13,Dialogue,,0,0,0,,Am cumpărat cumva o fată reală?!
 Dialogue: 99,0:01:53.13,0:01:54.22,Dialogue,,0,0,0,,Nici vorbă.
-Dialogue: 99,0:01:54.64,0:01:57.31,Dialogue,,0,0,0,,Look, my charging port is on the back of my neck.
-Dialogue: 99,0:01:57.68,0:02:00.64,Dialogue,,0,0,0,,I am a gynoid designed for sexual use.
+Dialogue: 99,0:01:54.64,0:01:57.31,Dialogue,,0,0,0,,Privește, aici este portul meu de încărcare.
+Dialogue: 99,0:01:57.68,0:02:00.64,Dialogue,,0,0,0,,Sunt un android cu trăsături \Nfeminine, conceput pentru sex.
 Dialogue: 99,0:02:01.39,0:02:02.85,Dialogue,,0,0,0,,Numele meu este Nadeshiko.
-Dialogue: 99,0:02:04.60,0:02:07.15,Dialogue,,0,0,0,,That sounds shady! This {\i1}has{\i0} to be illegal!
+Dialogue: 99,0:02:04.60,0:02:07.15,Dialogue,,0,0,0,,Asta sună mult prea ciudat! \NSigur {\i1}este{\i0} ilegal!
 Dialogue: 99,0:02:07.15,0:02:09.73,Dialogue,,0,0,0,,{\i1}Voi fi arestată, băgată la închisoare și îmi voi pierde locul de muncă...
 Dialogue: 99,0:02:09.73,0:02:10.74,Dialogue,,0,0,0,,Gata, gata.
 Dialogue: 99,0:02:10.74,0:02:14.82,Dialogue,,0,0,0,,First, just touch me as I give you the user tutorial.
@@ -115,7 +118,7 @@ Dialogue: 99,0:04:09.40,0:04:13.52,Dialogue,,0,0,0,,By smoothly modulating the s
 Dialogue: 99,0:04:10.86,0:04:13.52,Dialogue,,0,0,0,,{\an8\i1}E prima oară când fac asta cu o altă fată,
 Dialogue: 99,0:04:13.52,0:04:16.82,Dialogue,,0,0,0,,we can maximize your pleasure.
 Dialogue: 99,0:04:13.52,0:04:15.61,Dialogue,,0,0,0,,{\an8\i1}dar se simte așa de bine!
-Dialogue: 99,0:04:15.61,0:04:17.53,Dialogue,,0,0,0,,{\an8\i1}I can't stop! Oh no...
+Dialogue: 99,0:04:15.61,0:04:17.53,Dialogue,,0,0,0,,{\an8\i1}Nu mă pot opri! Oh, nu...
 Dialogue: 99,0:04:25.24,0:04:28.21,Dialogue,,0,0,0,,It's a good thing you had the day off from work.
 Dialogue: 99,0:04:28.21,0:04:29.17,Dialogue,,0,0,0,,Thanks to that,
 Dialogue: 99,0:04:29.92,0:04:33.34,Dialogue,,0,0,0,,I was able to tend to you all day long, Master.
