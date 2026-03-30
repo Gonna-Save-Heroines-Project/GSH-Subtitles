@@ -9,85 +9,99 @@ PlayResY: 1080
 LayoutResY: 1080
 YCbCr Matrix: TV.709
 ScriptType: v4.00+
-
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Video File: ?dummy:24000/1001:40000:1920:1080:47:163:254:
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 27
-Active Line: 44
-Video Position: 3700
+Title: Does It Count If You Lose Your Innocence to an Android (2026) - S01E03
+Original Script: sgt
+Original Translation: KazuyaShuu
+Original Editing: KazuyaShuu
+Original Timing: sgt
+Synch Point: KazuyaShuu
+Script Updated By: KazuyaShuu
+Update Details: GSH
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Dialogue,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,150,150,60,1
+Style: Dialogue,Fontin Sans,70,&H00FFFFFF,&H000000FF,&H0040006A,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 99,0:00:00.69,0:00:03.94,Dialogue,,0,0,0,,Tsuda, la urechile mele a ajuns faptul că \Nți-ai cumpărat un robot sexual. E adevărat?
-Dialogue: 99,0:00:03.94,0:00:05.26,Dialogue,,0,0,0,,Doamnă director, eu...
-Dialogue: 99,0:00:05.26,0:00:08.24,Dialogue,,0,0,0,,Spune-mi că nu ești un \Nastfel de criminal, Tsuda.
+Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Episod}
+Dialogue: 99,0:00:00.69,0:00:03.94,Dialogue,,0,0,0,,Tsuda, mi-a ajuns la urechi faptul că \Nți-ai cumpărat un robot sexual. E adevărat?
+Dialogue: 99,0:00:03.94,0:00:05.28,Dialogue,,0,0,0,,Doamnă director, eu...
+Dialogue: 99,0:00:05.28,0:00:08.24,Dialogue,,0,0,0,,Spune-mi că nu ești un \Nastfel de criminal, Tsuda.
 Dialogue: 99,0:00:08.24,0:00:09.32,Dialogue,,0,0,0,,Stați, nu este așa...
-Dialogue: 99,0:00:10.37,0:00:12.59,Dialogue,,0,0,0,,E în regulă, stăpână.
-Dialogue: 99,0:00:12.59,0:00:15.08,Dialogue,,0,0,0,,Vom putea fi împreună pe vecie acum.
+Dialogue: 99,0:00:10.37,0:00:12.58,Dialogue,,0,0,0,,E în regulă, stăpână.
+Dialogue: 99,0:00:12.58,0:00:15.08,Dialogue,,0,0,0,,Vom putea fi împreună pe vecie acum.
 Dialogue: 99,0:00:18.08,0:00:20.58,Dialogue,,0,0,0,,Nu!
 Dialogue: 99,0:00:22.67,0:00:23.88,Dialogue,,0,0,0,,A fost doar un vis.
-Dialogue: 99,0:00:26.65,0:00:29.08,Dialogue,,0,0,0,,Uite cât de liniștită doarme.
+Dialogue: 99,0:00:26.63,0:00:29.09,Dialogue,,0,0,0,,Uite cât de liniștit doarme.
 Dialogue: 99,0:00:30.80,0:00:33.35,Dialogue,,0,0,0,,{\i1}Stai, dar roboții nu dorm.
-Dialogue: 99,0:00:34.53,0:00:36.35,Dialogue,,0,0,0,,S-a stricat?
-Dialogue: 99,0:00:37.17,0:00:39.36,Dialogue,,0,0,0,,Poate a rămas fără baterie?
-Dialogue: 99,0:00:39.36,0:00:42.11,Dialogue,,0,0,0,,A stat {\i1}pornită{\i0} încă \Nde când a ajuns aici.
+Dialogue: 99,0:00:34.51,0:00:36.35,Dialogue,,0,0,0,,S-a stricat?
+Dialogue: 99,0:00:37.18,0:00:39.35,Dialogue,,0,0,0,,Poate a rămas fără baterie?
+Dialogue: 99,0:00:39.35,0:00:42.11,Dialogue,,0,0,0,,A stat {\i1}pornită{\i0} încă \Nde când a ajuns aici.
 Dialogue: 99,0:00:44.11,0:00:46.48,Dialogue,,0,0,0,,Bun, ar trebui să fie în regulă acum.
-Dialogue: 99,0:00:49.67,0:00:52.24,Dialogue,,0,0,0,,{\i1}Stai, unde e butonul de pornire?
-Dialogue: 99,0:00:52.50,0:00:55.74,Dialogue,,0,0,0,,Hm... Poate e pe spate?
+Dialogue: 99,0:00:49.65,0:00:52.24,Dialogue,,0,0,0,,{\i1}Stai, unde e butonul de pornire?
+Dialogue: 99,0:00:52.49,0:00:55.74,Dialogue,,0,0,0,,Hm... Poate e pe spate?
 Dialogue: 99,0:00:57.12,0:00:58.25,Dialogue,,0,0,0,,Nu.
-Dialogue: 99,0:00:58.67,0:00:59.85,Dialogue,,0,0,0,,În față?
-Dialogue: 99,0:01:01.54,0:01:03.32,Dialogue,,0,0,0,,Doar o aluniță.
-Dialogue: 99,0:01:04.07,0:01:06.25,Dialogue,,0,0,0,,Vai, mă simt ca o \Nadevărată perversă acum!
-Dialogue: 99,0:01:06.78,0:01:08.67,Dialogue,,0,0,0,,Dar nu o pot lăsa așa.
-Dialogue: 99,0:01:13.92,0:01:14.82,Dialogue,,0,0,0,,Ce e asta?
-Dialogue: 99,0:01:15.47,0:01:17.30,Dialogue,,0,0,0,,Un cod QR!
-Dialogue: 99,0:01:18.26,0:01:19.95,Dialogue,,0,0,0,,Poate voi găsi niște informatii.
-Dialogue: 99,0:01:21.07,0:01:23.59,Dialogue,,0,0,0,,{\i1}Vă mulțumim pentru achiziție!
-Dialogue: 99,0:01:23.59,0:01:29.03,Dialogue,,0,0,0,,{\i1}Acest video vă va învăța tot ce trebuie să știți \Ndespre androidul vostru sexual, Nadeshiko.
-Dialogue: 99,0:01:29.58,0:01:31.72,Dialogue,,0,0,0,,{\i1}Să vedem cum o pornim.
-Dialogue: 99,0:01:35.55,0:01:38.69,Dialogue,,0,0,0,,{\i1}Oare chiar vreau s-o pornesc înapoi?
-Dialogue: 99,0:01:38.69,0:01:41.24,Dialogue,,0,0,0,,{\i1}Nu vreau s-o arunc,
-Dialogue: 99,0:01:41.24,0:01:43.33,Dialogue,,0,0,0,,{\i1}dar poate ar fi mai \Nbine s-o las oprită.
-Dialogue: 99,0:01:46.23,0:01:49.81,Dialogue,,0,0,0,,Oh, așa e, uitasem \Ncă am comandat asta.
-Dialogue: 99,0:01:49.81,0:01:51.13,Dialogue,,0,0,0,,Bun.
-Dialogue: 99,0:01:51.81,0:01:55.44,Dialogue,,0,0,0,,{\i1}Pentru a o porni, \Nsărutați-o franțuzesc
-Dialogue: 99,0:01:55.44,0:01:59.08,Dialogue,,0,0,0,,{\i1}și apăsați ușor butonul din gura ei.
+Dialogue: 99,0:00:58.66,0:00:59.83,Dialogue,,0,0,0,,În față?
+Dialogue: 99,0:01:01.54,0:01:03.33,Dialogue,,0,0,0,,Doar o aluniță.
+Dialogue: 99,0:01:04.09,0:01:06.25,Dialogue,,0,0,0,,Vai, mă simt ca o \Nadevărată perversă acum!
+Dialogue: 99,0:01:06.80,0:01:08.67,Dialogue,,0,0,0,,Dar nu o pot lăsa așa.
+Dialogue: 99,0:01:13.93,0:01:14.80,Dialogue,,0,0,0,,Ce e asta?
+Dialogue: 99,0:01:15.47,0:01:17.31,Dialogue,,0,0,0,,Un cod QR!
+Dialogue: 99,0:01:18.27,0:01:19.93,Dialogue,,0,0,0,,Poate voi găsi niște informații.
+Dialogue: 99,0:01:21.06,0:01:23.60,Dialogue,,0,0,0,,{\i1}Vă mulțumim pentru achiziție!
+Dialogue: 99,0:01:23.60,0:01:29.03,Dialogue,,0,0,0,,{\i1}Acest video vă va învăța tot ce trebuie să știți \Ndespre androidul vostru sexual, Nadeshiko.
+Dialogue: 99,0:01:29.57,0:01:31.74,Dialogue,,0,0,0,,{\i1}Să vedem cum o pornim.
+Dialogue: 99,0:01:35.53,0:01:38.70,Dialogue,,0,0,0,,{\i1}Oare chiar vreau s-o repornesc?
+Dialogue: 99,0:01:38.70,0:01:41.25,Dialogue,,0,0,0,,{\i1}Nu vreau s-o arunc,
+Dialogue: 99,0:01:41.25,0:01:43.33,Dialogue,,0,0,0,,{\i1}dar poate ar fi mai \Nbine s-o las oprită.
+Dialogue: 99,0:01:46.21,0:01:49.80,Dialogue,,0,0,0,,Oh, așa e, uitasem \Ncă am comandat asta.
+Dialogue: 99,0:01:49.80,0:01:51.13,Dialogue,,0,0,0,,Bun.
+Dialogue: 99,0:01:51.80,0:01:55.43,Dialogue,,0,0,0,,{\i1}Pentru a o porni, \Nsărutați-o franțuzește
+Dialogue: 99,0:01:55.43,0:01:59.10,Dialogue,,0,0,0,,{\i1}și apăsați ușor butonul din gura ei.
 Dialogue: 99,0:02:03.52,0:02:07.02,Dialogue,,0,0,0,,{\i1}Unde este? Unde este butonul?
-Dialogue: 99,0:02:09.76,0:02:10.90,Dialogue,,0,0,0,,Stăpână?
-Dialogue: 99,0:02:10.90,0:02:12.56,Dialogue,,0,0,0,,Te-ai trezit!
-Dialogue: 99,0:02:12.56,0:02:15.66,Dialogue,,0,0,0,,Nu te mai trezeai, deci îmi făceam \Ngriji că te-ai fi putut strica.
-Dialogue: 99,0:02:16.23,0:02:17.80,Dialogue,,0,0,0,,Ce ușurare.
-Dialogue: 99,0:02:20.18,0:02:23.01,Dialogue,,0,0,0,,Am uitat complet \Nsă-mi reîncarc bateria.
-Dialogue: 99,0:02:23.01,0:02:26.48,Dialogue,,0,0,0,,E în regulă. Și eu ar fi \Ntrebuit să mă gândesc la asta.
-Dialogue: 99,0:02:26.48,0:02:28.21,Dialogue,,0,0,0,,Dar, mai întâi, uite.
+Dialogue: 99,0:02:09.78,0:02:10.90,Dialogue,,0,0,0,,Stăpână?
+Dialogue: 99,0:02:10.90,0:02:12.57,Dialogue,,0,0,0,,Te-ai trezit!
+Dialogue: 99,0:02:12.57,0:02:15.66,Dialogue,,0,0,0,,Nu te mai trezeai, deci îmi făceam \Ngriji că te-ai fi putut strica.
+Dialogue: 99,0:02:16.24,0:02:17.78,Dialogue,,0,0,0,,Ce ușurare.
+Dialogue: 99,0:02:20.16,0:02:23.00,Dialogue,,0,0,0,,Am uitat complet \Nsă-mi reîncarc bateria.
+Dialogue: 99,0:02:23.00,0:02:26.46,Dialogue,,0,0,0,,E în regulă. Și eu ar fi \Ntrebuit să mă gândesc la asta.
+Dialogue: 99,0:02:26.46,0:02:28.21,Dialogue,,0,0,0,,Dar, mai întâi, uite.
 Dialogue: 99,0:02:28.21,0:02:30.71,Dialogue,,0,0,0,,Ei bine... Stăpână? Ce e asta?
-Dialogue: 99,0:02:30.71,0:02:34.32,Dialogue,,0,0,0,,Aveam doar uniforma mea școlară care să ți \Nse potrivească, așa că ți-am cumpărat asta.
-Dialogue: 99,0:02:34.32,0:02:36.72,Dialogue,,0,0,0,,Nu mă așteptam să \Narate precum o costumație.
-Dialogue: 99,0:02:37.69,0:02:39.84,Dialogue,,0,0,0,,Dar îți vine minunat.
-Dialogue: 99,0:02:39.84,0:02:41.60,Dialogue,,0,0,0,,Ești așa adorabilă, Nadeshiko.
-Dialogue: 99,0:02:41.60,0:02:45.17,Dialogue,,0,0,0,,Tocmai mi-ai spus pe nume?!
-Dialogue: 99,0:02:45.17,0:02:48.36,Dialogue,,0,0,0,,Nu ai mai făcut asta până acum!
-Dialogue: 99,0:02:48.69,0:02:51.05,Dialogue,,0,0,0,,Sunt așa de fericită.
-Dialogue: 99,0:02:51.05,0:02:53.99,Dialogue,,0,0,0,,Te rog să-mi spui pe \Nnume în continuare.
-Dialogue: 99,0:02:53.99,0:02:56.10,Dialogue,,0,0,0,,{\i1}Oh. Oh, nu.
-Dialogue: 99,0:02:56.10,0:02:57.99,Dialogue,,0,0,0,,{\i1}E așa de drăguță.
-Dialogue: 99,0:02:58.72,0:03:02.74,Dialogue,,0,0,0,,De acum înainte, voi intra în \Nmodul somn odată cu tine, stăpână.
-Dialogue: 99,0:03:02.74,0:03:03.93,Dialogue,,0,0,0,,B-Bine.
-Dialogue: 99,0:03:03.93,0:03:08.04,Dialogue,,0,0,0,,Mă poți trezi în același \Nmod în care m-ai repornit.
-Dialogue: 99,0:03:08.06,0:03:08.63,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:03:09.04,0:03:10.20,Dialogue,,0,0,0,,În modul în care te-am repornit?!
-Dialogue: 99,0:03:10.20,0:03:12.76,Dialogue,,0,0,0,,E o limitare funcțională deoarece \Nnu ești înregistrată ca stăpân.
-Dialogue: 99,0:03:13.23,0:03:16.76,Dialogue,,0,0,0,,Dacă erai, trebuia \Ndoar să-mi spui numele.
-Dialogue: 99,0:03:17.21,0:03:21.14,Dialogue,,0,0,0,,Deci te poți înregistra ca stăpâna mea sau \Nmă poți trezi manual în fiecare dimineață.
-Dialogue: 99,0:03:21.50,0:03:22.77,Dialogue,,0,0,0,,Pe care variantă o preferi?
-Dialogue: 99,0:03:26.64,0:03:29.93,Dialogue,,0,0,0,,Pe niciuna!
-Dialogue: 0,0:03:12.76,0:03:16.76,DedzuyaSigns,,0,0,0,,Înregistrat
-Dialogue: 0,0:03:14.26,0:03:15.76,DedzuyaSigns,,0,0,0,,Nadeshiko!
+Dialogue: 99,0:02:30.71,0:02:34.30,Dialogue,,0,0,0,,Aveam doar uniforma mea școlară care să ți \Nse potrivească, așa că ți-am cumpărat asta.
+Dialogue: 99,0:02:34.30,0:02:36.72,Dialogue,,0,0,0,,Nu mă așteptam să \Narate precum o costumație.
+Dialogue: 99,0:02:37.68,0:02:39.85,Dialogue,,0,0,0,,Dar îți vine minunat.
+Dialogue: 99,0:02:39.85,0:02:41.60,Dialogue,,0,0,0,,Ești așa adorabilă, Nadeshiko.
+Dialogue: 99,0:02:41.60,0:02:45.19,Dialogue,,0,0,0,,Tocmai mi-ai spus pe nume?!
+Dialogue: 99,0:02:45.19,0:02:48.36,Dialogue,,0,0,0,,Nu ai mai făcut asta până acum!
+Dialogue: 99,0:02:48.69,0:02:51.07,Dialogue,,0,0,0,,Sunt așa de fericită.
+Dialogue: 99,0:02:51.07,0:02:53.99,Dialogue,,0,0,0,,Te rog să-mi spui pe \Nnume în continuare.
+Dialogue: 99,0:02:53.99,0:02:56.11,Dialogue,,0,0,0,,{\i1}Oh... Oh, nu.
+Dialogue: 99,0:02:56.11,0:02:57.99,Dialogue,,0,0,0,,{\i1}E așa de drăguță.
+Dialogue: 99,0:02:58.70,0:03:02.75,Dialogue,,0,0,0,,De acum înainte, voi intra în \Nmodul somn odată cu tine, stăpână.
+Dialogue: 99,0:03:02.75,0:03:03.91,Dialogue,,0,0,0,,B-Bine.
+Dialogue: 99,0:03:03.91,0:03:08.04,Dialogue,,0,0,0,,Mă poți trezi în același \Nmod în care m-ai repornit.
+Dialogue: 99,0:03:08.04,0:03:08.63,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:03:09.04,0:03:10.21,Dialogue,,0,0,0,,În modul în care te-am repornit?!
+Dialogue: 99,0:03:10.21,0:03:12.76,Dialogue,,0,0,0,,E o limitare funcțională deoarece \Nnu ești înregistrată ca stăpân.
+Dialogue: 99,0:03:13.21,0:03:16.76,Dialogue,,0,0,0,,Dacă erai, trebuia \Ndoar să-mi spui numele.
+Dialogue: 99,0:03:17.22,0:03:21.14,Dialogue,,0,0,0,,Deci te poți înregistra ca stăpâna mea sau \Nmă poți trezi manual în fiecare dimineață.
+Dialogue: 99,0:03:21.51,0:03:22.77,Dialogue,,0,0,0,,Pe care variantă o preferi?
+Dialogue: 99,0:03:26.64,0:03:29.98,Dialogue,,0,0,0,,{\t(\fscx108\fscy108)\t(2890,0,1,\c&H000000&\3c&H000000&)}Pe niciuna!
+Dialogue: 0,0:03:12.76,0:03:16.76,DedzuyaSigns,,0,0,0,,{\an7\pos(150,289)\c&HF0EFFF&\blur1\p1}m -100 -240 l 102 -240 102 244 -100 244
+Dialogue: 1,0:03:12.76,0:03:16.76,DedzuyaSigns,,0,0,0,,{\pos(150,289)\fscx140\fscy140\frz-90\fnCandela\fsp2\b1\c&H030404&\blur0.9}Înregistrată \Nca stăpân
+Dialogue: 0,0:03:14.26,0:03:14.34,DedzuyaSigns,,0,0,0,,{=1}{\an4\pos(696.64,502.71)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\bord2.2\c&H07182A&\blur0.6\3c&HH07182A&}NADESHIKO!
+Dialogue: 0,0:03:14.34,0:03:14.42,DedzuyaSigns,,0,0,0,,{=1}{\an4\pos(738.15,401.28)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\bord2.2\c&H07182A&\blur0.6\3c&HH07182A&}NADESHIKO!
+Dialogue: 0,0:03:14.42,0:03:14.51,DedzuyaSigns,,0,0,0,,{=1}{\an4\pos(783.7,299.61)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\bord2.2\c&H07182A&\blur0.6\3c&HH07182A&}NADESHIKO!
+Dialogue: 0,0:03:14.51,0:03:14.59,DedzuyaSigns,,0,0,0,,{=1}{\an4\pos(832.21,159.73)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\bord2.2\c&H07182A&\blur0.6\3c&HH07182A&}NADESHIKO!
+Dialogue: 0,0:03:14.59,0:03:15.76,DedzuyaSigns,,0,0,0,,{=1}{\an4\pos(891.86,23.16)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\bord2.2\c&H07182A&\blur0.6\3c&HH07182A&}NADESHIKO!
+Dialogue: 1,0:03:14.26,0:03:14.34,DedzuyaSigns,,0,0,0,,{=0}{\an4\pos(696.64,502.71)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\c&H6663D5&\4a&HFF&\blur0.6}NADESHIKO!
+Dialogue: 1,0:03:14.34,0:03:14.42,DedzuyaSigns,,0,0,0,,{=0}{\an4\pos(738.15,401.28)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\c&H6663D5&\4a&HFF&\blur0.6}NADESHIKO!
+Dialogue: 1,0:03:14.42,0:03:14.51,DedzuyaSigns,,0,0,0,,{=0}{\an4\pos(783.7,299.61)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\c&H6663D5&\4a&HFF&\blur0.6}NADESHIKO!
+Dialogue: 1,0:03:14.51,0:03:14.59,DedzuyaSigns,,0,0,0,,{=0}{\an4\pos(832.21,159.73)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\c&H6663D5&\4a&HFF&\blur0.6}NADESHIKO!
+Dialogue: 1,0:03:14.59,0:03:15.76,DedzuyaSigns,,0,0,0,,{=0}{\an4\pos(891.86,23.16)\fscx110\fscy110\frz347.5\fnCanted FX\fsp3\b1\c&H6663D5&\4a&HFF&\blur0.6}NADESHIKO!
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"af8994cf-7ca4-4889-bc23-3b31b1221b92"#2C"originalText"#3A"{\\an4\\fscx110\\fscy110\\frz347.5\\fnCanted FX\\fsp3\\b1\\c&H6663D5&\\4a&HFF&\\blur0.6\\pos(891.85#2C23.18)}NADESHIKO!"}
+Data: 1,a-mo,e{"uuid"#3A"47f2bb82-334f-4b8c-98ce-37d655a3dc97"#2C"originalText"#3A"{\\an4\\fscx110\\fscy110\\frz347.5\\fnCanted FX\\fsp3\\b1\\bord2.2\\c&H07182A&\\blur0.6\\3c&HH07182A&\\pos(891.85#2C23.18)}NADESHIKO!"}

@@ -18,15 +18,6 @@ Synch Point: KazuyaShuu
 Script Updated By: KazuyaShuu
 Update Details: GSH
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Video File: ?dummy:24000/1001:40000:1920:1080:47:163:254:
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 54
-Active Line: 59
-Video Position: 4232
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fontin Sans,70,&H00FFFFFF,&H000000FF,&H0040006A,&HB4000000,-1,0,0,0,100,100,0,0,1,3.4,1.6,2,150,150,60,1
@@ -37,21 +28,21 @@ Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Episod}
 Dialogue: 99,0:00:08.65,0:00:10.03,Dialogue,,0,0,0,,Bine ai revenit.
-Dialogue: 99,0:00:12.24,0:00:14.24,Dialogue,,0,0,0,,{\i1}Deci nu a fost un vis până la urmă.
+Dialogue: 99,0:00:12.24,0:00:14.24,Dialogue,,0,0,0,,{\i1}Deci nu a fost doar un vis.
 Dialogue: 99,0:00:14.24,0:00:15.66,Dialogue,,0,0,0,,Stăpână! Stăpână!
-Dialogue: 99,0:00:16.03,0:00:18.36,Dialogue,,0,0,0,,Haide să te înregitrăm ca stăpân.
+Dialogue: 99,0:00:16.03,0:00:18.36,Dialogue,,0,0,0,,Haide să te înregistrăm ca stăpân.
 Dialogue: 99,0:00:18.36,0:00:19.20,Dialogue,,0,0,0,,Doar bagă-ți degetul în va—
 Dialogue: 99,0:00:19.20,0:00:20.54,Dialogue,,0,0,0,,Nu acum!
 Dialogue: 99,0:00:20.97,0:00:23.20,Dialogue,,0,0,0,,Mai întâi, trebuie să-ți cumpărăm \Nhaine și lenjerie intimă.
 Dialogue: 99,0:00:23.20,0:00:25.39,Dialogue,,0,0,0,,Ei bine, haine am deja, \Ndeci mai trebuie doar lenjerie.
 Dialogue: 99,0:00:25.39,0:00:27.72,Dialogue,,0,0,0,,Arăți de parcă porți un costum!
 Dialogue: 99,0:00:28.74,0:00:30.47,Dialogue,,0,0,0,,{\i1}Chiar și așa...
-Dialogue: 99,0:00:31.11,0:00:33.18,Dialogue,,0,0,0,,Nu am nimic ce să-ți dau să porți.
-Dialogue: 99,0:00:33.55,0:00:37.11,Dialogue,,0,0,0,,Ei bine, încă e devreme, \Ndeci voi merge la magazin.
+Dialogue: 99,0:00:31.11,0:00:33.18,Dialogue,,0,0,0,,Nu am nimic să-ți dau să porți.
+Dialogue: 99,0:00:33.55,0:00:37.11,Dialogue,,0,0,0,,Ei bine, încă e devreme, \Ndeci voi merge să fac niște cumpărături.
 Dialogue: 99,0:00:37.11,0:00:38.27,Dialogue,,0,0,0,,Mergi afară?
 Dialogue: 99,0:00:38.27,0:00:39.59,Dialogue,,0,0,0,,Voi veni și eu.
 Dialogue: 99,0:00:39.59,0:00:40.88,Dialogue,,0,0,0,,Sub nicio formă!
-Dialogue: 99,0:00:40.88,0:00:42.61,Dialogue,,0,0,0,,Nu poți ieși fără chiloți pe tine!
+Dialogue: 99,0:00:40.88,0:00:42.61,Dialogue,,0,0,0,,Nu poți ieși afară \Nfără chiloți pe tine!
 Dialogue: 99,0:00:42.61,0:00:47.09,Dialogue,,0,0,0,,Dar am stat închisă în \Ncasă de când am ajuns.
 Dialogue: 99,0:00:47.73,0:00:49.45,Dialogue,,0,0,0,,Mă simt așa de singură.
 Dialogue: 99,0:00:54.45,0:00:56.37,Dialogue,,0,0,0,,Ai obosit, stăpână?
@@ -62,15 +53,15 @@ Dialogue: 99,0:01:04.34,0:01:06.55,Dialogue,,0,0,0,,Ești bine, stăpână?
 Dialogue: 99,0:01:06.55,0:01:08.26,Dialogue,,0,0,0,,Nu, {\i1}nu{\i0} sunt bine!
 Dialogue: 99,0:01:08.73,0:01:10.97,Dialogue,,0,0,0,,Haide, aproape am ajuns.
 Dialogue: 99,0:01:10.41,0:01:10.97,Dialogue Overlap,,0,0,0,,Bine!
-Dialogue: 99,0:01:18.47,0:01:20.35,Dialogue,,0,0,0,,Vă mulțumim pentru cumpărături.
+Dialogue: 99,0:01:18.47,0:01:20.35,Dialogue,,0,0,0,,Vă mulțumim pentru cumpărături!
 Dialogue: 99,0:01:20.59,0:01:22.21,Dialogue,,0,0,0,,Bun, am cumpărat chiloți.
 Dialogue: 99,0:01:22.64,0:01:25.32,Dialogue,,0,0,0,,{\i1}Mai trebuie doar să găsim un loc unde să-i îmbrace și să mergem acasă.
-Dialogue: 99,0:01:26.97,0:01:28.28,Dialogue,,0,0,0,,Blocare!
+Dialogue: 99,0:01:26.97,0:01:28.28,Dialogue,,0,0,0,,Stop!
 Dialogue: 99,0:01:28.28,0:01:32.11,Dialogue,,0,0,0,,Ți-am mai spus, dacă mă uit în ochii tăi nu înseamnă că vreau să mă săruți!
 Dialogue: 99,0:01:32.11,0:01:33.24,Dialogue,,0,0,0,,Am înțeles.
 Dialogue: 99,0:01:34.50,0:01:37.43,Dialogue,,0,0,0,,Poftim, mergi și pune-i pe tine.
 Dialogue: 99,0:01:37.43,0:01:39.77,Dialogue,,0,0,0,,Bine. Mă întorc imediat.
-Dialogue: 99,0:01:39.77,0:01:42.42,Dialogue,,0,0,0,,{\i1}Sigur știe ce ar trebui \Nsă facă într-o toaletă.
+Dialogue: 99,0:01:39.77,0:01:42.42,Dialogue,,0,0,0,,{\i1}Sigur știe cum să se descurce \Nîntr-o toaletă publică.
 Dialogue: 99,0:01:44.13,0:01:46.34,Dialogue,,0,0,0,,De ce nu a ieșit încă?!
 Dialogue: 99,0:01:48.16,0:01:49.66,Dialogue,,0,0,0,,Hei! Ești bine?
 Dialogue: 99,0:01:49.66,0:01:50.72,Dialogue,,0,0,0,,Stăpână...
@@ -100,16 +91,218 @@ Dialogue: 99,0:03:09.54,0:03:11.12,Dialogue,,0,0,0,,O voi lua înainte!
 Dialogue: 99,0:03:11.12,0:03:12.13,Dialogue,,0,0,0,,Stăpână!
 Dialogue: 99,0:03:15.68,0:03:16.57,Dialogue,,0,0,0,,{\i1}Totuși...
 Dialogue: 99,0:03:18.46,0:03:22.27,Dialogue,,0,0,0,,Nu e atât de rău să mai ai \Npe cineva prin preajmă.
-Dialogue: 99,0:03:24.48,0:03:26.40,Dialogue,,0,0,0,,Stăpână, ce spuneai acolo...
-Dialogue: 99,0:03:26.40,0:03:29.15,Dialogue,,0,0,0,,Nimic! Uită! De ce ești așa de rapidă?!
-Dialogue: 0,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=2}{\an7\move(1135,110,1206.64,110,23,6446)\bord2\c&H8D8D8D&\3c&H8D8D8D&\blur1\clip\fsHcy100\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
-Dialogue: 1,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=1}{\an7\move(1135,110,1206.64,110,23,6446)\c&HF6F6F6&\blur1\clip\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
-Dialogue: 2,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=0}{\move(1135,110,1206.64,110,23,6446)\fscx80\fscy80\fnSource Sans Pro\b1\c&H2D2D2D&\blur0.8\clip\fry-0.5}Aveți grijă \Nla dubioși!
-Dialogue: 0,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=2}{\an7\move(1135,110,1206.64,110,23,6446)\bord2\c&H8D8D8D&\3c&H8D8D8D&\blur1\clip\fsHcy100\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
-Dialogue: 1,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=1}{\an7\move(1135,110,1206.64,110,23,6446)\c&HF6F6F6&\blur1\clip\fry-0.5\p1}m -158 -75 l 156 -75 156 79 -158 79
-Dialogue: 2,0:02:24.50,0:02:26.63,DedzuyaSigns,,0,0,0,,{=0}{\move(1135,110,1206.64,110,23,6446)\fscx80\fscy80\fnSource Sans Pro\b1\c&H2D2D2D&\blur0.8\clip\fry-0.5}Aveți grijă \Nla dubioși!
+Dialogue: 99,0:03:24.48,0:03:26.40,Dialogue,,0,0,0,,Stăpână, ce murmureai acolo...
+Dialogue: 99,0:03:26.40,0:03:29.15,Dialogue,,0,0,0,,{\fad(0,500)}Nimic! Uită! De ce ești așa de rapidă?!
+Dialogue: 0,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=2}{\an7\move(1135,110,1206.64,110,23,6446)\fry-0.5\bord2\c&H8D8D8D&\3c&H8D8D8D&\blur1\clip\fsHcy100\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=1}{\an7\move(1135,110,1206.64,110,23,6446)\fry-0.5\c&HF6F6F6&\blur1\clip\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 2,0:01:59.43,0:02:05.89,DedzuyaSigns,,0,0,0,,{=0}{\move(1135,110,1206.64,110,23,6446)\fscx80\fscy80\fry-0.5\fnSource Sans Pro\b1\c&H2D2D2D&\blur0.8\clip}Aveți grijă \Nla dubioși!
+Dialogue: 0,0:02:24.49,0:02:24.54,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.15,608.54)\org(1601.15,711.54)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H060606&\3c&H060606&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.54,0:02:24.58,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.14,598.64)\org(1601.14,701.64)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H0F0F0F&\3c&H0F0F0F&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.58,0:02:24.62,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.12,588.73)\org(1601.12,691.73)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H181818&\3c&H181818&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.62,0:02:24.66,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.11,578.83)\org(1601.11,681.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H212121&\3c&H212121&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.66,0:02:24.70,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.1,568.91)\org(1601.1,671.91)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H2A2A2A&\3c&H2A2A2A&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.70,0:02:24.74,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.09,559.02)\org(1601.09,662.02)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H333333&\3c&H333333&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.74,0:02:24.79,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.08,549.16)\org(1601.09,652.16)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H3C3C3C&\3c&H3C3C3C&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.79,0:02:24.83,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.07,539.33)\org(1601.07,642.33)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H454545&\3c&H454545&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.83,0:02:24.87,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.06,529.51)\org(1601.06,632.51)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H4E4E4E&\3c&H4E4E4E&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.87,0:02:24.91,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.05,519.7)\org(1601.05,622.7)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H575757&\3c&H575757&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.91,0:02:24.95,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.04,509.83)\org(1601.04,612.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H606060&\3c&H606060&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.95,0:02:24.99,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.03,499.95)\org(1601.03,602.95)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H696969&\3c&H696969&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:24.99,0:02:25.04,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.02,490.05)\org(1601.02,593.05)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H727272&\3c&H727272&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.04,0:02:25.08,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.01,480.22)\org(1601.01,583.22)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H7C7C7C&\3c&H7C7C7C&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.08,0:02:25.12,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.01,470.38)\org(1601.01,573.38)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H848484&\3c&H848484&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.12,0:02:25.16,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,460.55)\org(1601,563.55)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.16,0:02:25.20,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,450.7)\org(1601,553.7)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.20,0:02:25.24,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413.01,440.84)\org(1601.01,543.84)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.24,0:02:25.29,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,431)\org(1601,534)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.29,0:02:25.33,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,421.2)\org(1601,524.2)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.33,0:02:25.37,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,411.36)\org(1601,514.36)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.37,0:02:25.41,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,401.52)\org(1601,504.52)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.41,0:02:25.45,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,391.67)\org(1601,494.67)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.45,0:02:25.50,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,381.83)\org(1601,484.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.50,0:02:25.54,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,371.98)\org(1601,474.98)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.54,0:02:25.58,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,362.2)\org(1601,465.2)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.58,0:02:25.62,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,352.34)\org(1601,455.34)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.62,0:02:25.66,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,342.47)\org(1601,445.47)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.66,0:02:25.70,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,332.63)\org(1601,435.63)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.70,0:02:25.75,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,322.83)\org(1601,425.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.75,0:02:25.79,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,313.05)\org(1601,416.05)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.79,0:02:25.83,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,303.2)\org(1601,406.2)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.83,0:02:25.87,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,293.33)\org(1601,396.33)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.87,0:02:25.91,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,283.47)\org(1601,386.47)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.91,0:02:25.95,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,273.65)\org(1601,376.65)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:25.95,0:02:26.00,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,263.89)\org(1601,366.89)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.00,0:02:26.04,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,254.02)\org(1601,357.02)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.04,0:02:26.08,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,244.14)\org(1601,347.14)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.08,0:02:26.12,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,234.3)\org(1601,337.3)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.12,0:02:26.16,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,224.44)\org(1601,327.44)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.16,0:02:26.20,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,214.67)\org(1601,317.67)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.20,0:02:26.25,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,204.84)\org(1601,307.84)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.25,0:02:26.29,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,194.98)\org(1601,297.98)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.29,0:02:26.33,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,185.12)\org(1601,288.12)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.33,0:02:26.37,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,175.28)\org(1601,278.28)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.37,0:02:26.41,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,165.48)\org(1601,268.48)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.41,0:02:26.45,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,155.64)\org(1601,258.64)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.45,0:02:26.50,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,145.79)\org(1601,248.79)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.50,0:02:26.54,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,135.96)\org(1601,238.96)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.54,0:02:26.58,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,126.09)\org(1601,229.09)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 0,0:02:26.58,0:02:26.62,DedzuyaSigns,,0,0,0,,{=2}{\an7\pos(1413,116.31)\org(1601,219.31)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\bord2\1c&H8D8D8D&\3c&H8D8D8D&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.49,0:02:24.54,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.15,608.54)\org(1601.15,711.54)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H0A0A0A&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.54,0:02:24.58,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.14,598.64)\org(1601.14,701.64)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H1A1A1A&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.58,0:02:24.62,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.12,588.73)\org(1601.12,691.73)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H2A2A2A&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.62,0:02:24.66,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.11,578.83)\org(1601.11,681.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H3A3A3A&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.66,0:02:24.70,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.1,568.91)\org(1601.1,671.91)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H4A4A4A&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.70,0:02:24.74,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.09,559.02)\org(1601.09,662.02)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H5A5A5A&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.74,0:02:24.79,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.08,549.16)\org(1601.09,652.16)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H696969&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.79,0:02:24.83,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.07,539.33)\org(1601.07,642.33)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H797979&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.83,0:02:24.87,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.06,529.51)\org(1601.06,632.51)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H898989&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.87,0:02:24.91,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.05,519.7)\org(1601.05,622.7)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&H999999&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.91,0:02:24.95,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.04,509.83)\org(1601.04,612.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HA8A8A8&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.95,0:02:24.99,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.03,499.95)\org(1601.03,602.95)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HB8B8B8&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:24.99,0:02:25.04,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.02,490.05)\org(1601.02,593.05)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HC8C8C8&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.04,0:02:25.08,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.01,480.22)\org(1601.01,583.22)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HD8D8D8&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.08,0:02:25.12,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.01,470.38)\org(1601.01,573.38)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HE7E7E7&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.12,0:02:25.16,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,460.55)\org(1601,563.55)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.16,0:02:25.20,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,450.7)\org(1601,553.7)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.20,0:02:25.24,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413.01,440.84)\org(1601.01,543.84)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.24,0:02:25.29,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,431)\org(1601,534)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.29,0:02:25.33,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,421.2)\org(1601,524.2)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.33,0:02:25.37,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,411.36)\org(1601,514.36)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.37,0:02:25.41,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,401.52)\org(1601,504.52)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.41,0:02:25.45,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,391.67)\org(1601,494.67)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.45,0:02:25.50,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,381.83)\org(1601,484.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.50,0:02:25.54,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,371.98)\org(1601,474.98)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.54,0:02:25.58,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,362.2)\org(1601,465.2)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.58,0:02:25.62,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,352.34)\org(1601,455.34)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.62,0:02:25.66,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,342.47)\org(1601,445.47)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.66,0:02:25.70,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,332.63)\org(1601,435.63)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.70,0:02:25.75,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,322.83)\org(1601,425.83)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.75,0:02:25.79,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,313.05)\org(1601,416.05)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.79,0:02:25.83,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,303.2)\org(1601,406.2)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.83,0:02:25.87,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,293.33)\org(1601,396.33)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.87,0:02:25.91,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,283.47)\org(1601,386.47)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.91,0:02:25.95,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,273.65)\org(1601,376.65)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:25.95,0:02:26.00,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,263.89)\org(1601,366.89)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.00,0:02:26.04,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,254.02)\org(1601,357.02)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.04,0:02:26.08,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,244.14)\org(1601,347.14)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.08,0:02:26.12,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,234.3)\org(1601,337.3)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.12,0:02:26.16,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,224.44)\org(1601,327.44)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.16,0:02:26.20,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,214.67)\org(1601,317.67)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.20,0:02:26.25,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,204.84)\org(1601,307.84)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.25,0:02:26.29,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,194.98)\org(1601,297.98)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.29,0:02:26.33,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,185.12)\org(1601,288.12)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.33,0:02:26.37,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,175.28)\org(1601,278.28)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.37,0:02:26.41,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,165.48)\org(1601,268.48)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.41,0:02:26.45,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,155.64)\org(1601,258.64)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.45,0:02:26.50,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,145.79)\org(1601,248.79)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.50,0:02:26.54,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,135.96)\org(1601,238.96)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.54,0:02:26.58,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,126.09)\org(1601,229.09)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 1,0:02:26.58,0:02:26.62,DedzuyaSigns,,0,0,0,,{=1=3}{\an7\pos(1413,116.31)\org(1601,219.31)\fscx92.56\fscy113.04\frz-19.1\fry-4.867\frx-7.102\fax0.136\1c&HF6F6F6&\blur1\p1}m -158 -75 l 156 -75 156 79 -158 79
+Dialogue: 2,0:02:24.49,0:02:24.54,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.58,517.06)\org(1437.15,545.54)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H020202&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.54,0:02:24.58,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.57,507.16)\org(1437.14,535.64)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H040404&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.58,0:02:24.62,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.55,497.25)\org(1437.12,525.73)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H070707&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.62,0:02:24.66,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.54,487.35)\org(1437.11,515.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H0A0A0A&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.66,0:02:24.70,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.53,477.43)\org(1437.1,505.91)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H0D0D0D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.70,0:02:24.74,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.52,467.54)\org(1437.09,496.02)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H101010&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.74,0:02:24.79,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.52,457.68)\org(1437.09,486.16)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H131313&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.79,0:02:24.83,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.5,447.85)\org(1437.07,476.33)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H161616&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.83,0:02:24.87,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.49,438.03)\org(1437.06,466.51)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H191919&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.87,0:02:24.91,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.48,428.22)\org(1437.05,456.7)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H1C1C1C&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.91,0:02:24.95,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.47,418.35)\org(1437.04,446.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H1E1E1E&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.95,0:02:24.99,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.46,408.47)\org(1437.03,436.95)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H212121&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.99,0:02:25.04,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.45,398.57)\org(1437.02,427.05)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H242424&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.04,0:02:25.08,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.44,388.74)\org(1437.01,417.22)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H272727&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.08,0:02:25.12,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.44,378.9)\org(1437.01,407.38)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2A2A2A&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.12,0:02:25.16,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,369.07)\org(1437,397.55)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.16,0:02:25.20,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,359.22)\org(1437,387.7)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.20,0:02:25.24,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.44,349.35)\org(1437.01,377.84)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.24,0:02:25.29,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,339.52)\org(1437,368)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.29,0:02:25.33,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,329.72)\org(1437,358.2)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.33,0:02:25.37,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,319.88)\org(1437,348.36)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.37,0:02:25.41,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,310.04)\org(1437,338.52)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.41,0:02:25.45,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,300.19)\org(1437,328.67)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.45,0:02:25.50,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,290.35)\org(1437,318.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.50,0:02:25.54,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,280.5)\org(1437,308.98)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.54,0:02:25.58,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,270.72)\org(1437,299.2)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.58,0:02:25.62,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,260.86)\org(1437,289.34)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.62,0:02:25.66,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,250.99)\org(1437,279.47)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.66,0:02:25.70,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,241.15)\org(1437,269.63)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.70,0:02:25.75,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,231.35)\org(1437,259.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.75,0:02:25.79,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,221.57)\org(1437,250.05)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.79,0:02:25.83,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,211.72)\org(1437,240.2)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.83,0:02:25.87,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,201.85)\org(1437,230.33)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.87,0:02:25.91,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,191.99)\org(1437,220.47)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.91,0:02:25.95,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,182.17)\org(1437,210.65)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:25.95,0:02:26.00,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,172.41)\org(1437,200.89)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.00,0:02:26.04,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,162.54)\org(1437,191.02)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.04,0:02:26.08,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,152.66)\org(1437,181.14)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.08,0:02:26.12,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,142.82)\org(1437,171.3)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.12,0:02:26.16,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,132.96)\org(1437,161.44)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.16,0:02:26.20,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,123.19)\org(1437,151.67)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.20,0:02:26.25,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,113.36)\org(1437,141.84)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.25,0:02:26.29,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,103.5)\org(1437,131.98)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.29,0:02:26.33,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,93.64)\org(1437,122.12)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.33,0:02:26.37,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,83.8)\org(1437,112.28)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.37,0:02:26.41,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,74)\org(1437,102.48)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.41,0:02:26.45,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,64.16)\org(1437,92.64)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.45,0:02:26.50,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,54.31)\org(1437,82.79)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.50,0:02:26.54,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,44.48)\org(1437,72.96)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.54,0:02:26.58,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,34.61)\org(1437,63.09)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:26.58,0:02:26.62,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1440.43,24.83)\org(1437,53.31)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}Aveți grijă 
+Dialogue: 2,0:02:24.49,0:02:24.54,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.73,589.02)\org(1462.15,560.54)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H020202&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.54,0:02:24.58,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.72,579.12)\org(1462.14,550.64)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H040404&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.58,0:02:24.62,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.7,569.21)\org(1462.12,540.73)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H070707&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.62,0:02:24.66,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.69,559.31)\org(1462.11,530.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H0A0A0A&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.66,0:02:24.70,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.68,549.39)\org(1462.1,520.91)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H0D0D0D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.70,0:02:24.74,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.67,539.5)\org(1462.09,511.02)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H101010&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.74,0:02:24.79,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.67,529.64)\org(1462.09,501.16)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H131313&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.79,0:02:24.83,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.65,519.81)\org(1462.07,491.33)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H161616&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.83,0:02:24.87,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.64,509.99)\org(1462.06,481.51)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H191919&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.87,0:02:24.91,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.63,500.18)\org(1462.05,471.7)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H1C1C1C&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.91,0:02:24.95,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.62,490.31)\org(1462.04,461.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H1E1E1E&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.95,0:02:24.99,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.61,480.43)\org(1462.03,451.95)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H212121&\blur0.8}la dubioși!
+Dialogue: 2,0:02:24.99,0:02:25.04,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.6,470.53)\org(1462.02,442.05)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H242424&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.04,0:02:25.08,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.59,460.7)\org(1462.01,432.22)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H272727&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.08,0:02:25.12,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.59,450.86)\org(1462.01,422.38)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2A2A2A&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.12,0:02:25.16,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,441.03)\org(1462,412.55)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.16,0:02:25.20,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,431.18)\org(1462,402.7)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.20,0:02:25.24,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.59,421.32)\org(1462.01,392.84)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.24,0:02:25.29,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,411.48)\org(1462,383)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.29,0:02:25.33,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,401.68)\org(1462,373.2)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.33,0:02:25.37,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,391.84)\org(1462,363.36)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.37,0:02:25.41,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,382)\org(1462,353.52)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.41,0:02:25.45,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,372.15)\org(1462,343.67)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.45,0:02:25.50,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,362.31)\org(1462,333.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.50,0:02:25.54,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,352.46)\org(1462,323.98)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.54,0:02:25.58,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,342.68)\org(1462,314.2)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.58,0:02:25.62,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,332.82)\org(1462,304.34)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.62,0:02:25.66,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,322.95)\org(1462,294.47)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.66,0:02:25.70,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,313.11)\org(1462,284.63)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.70,0:02:25.75,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,303.31)\org(1462,274.83)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.75,0:02:25.79,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,293.53)\org(1462,265.05)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.79,0:02:25.83,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,283.68)\org(1462,255.2)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.83,0:02:25.87,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,273.81)\org(1462,245.33)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.87,0:02:25.91,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,263.95)\org(1462,235.47)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.91,0:02:25.95,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,254.13)\org(1462,225.65)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:25.95,0:02:26.00,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,244.37)\org(1462,215.89)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.00,0:02:26.04,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,234.5)\org(1462,206.02)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.04,0:02:26.08,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,224.62)\org(1462,196.14)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.08,0:02:26.12,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,214.78)\org(1462,186.3)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.12,0:02:26.16,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,204.92)\org(1462,176.44)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.16,0:02:26.20,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,195.15)\org(1462,166.67)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.20,0:02:26.25,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,185.32)\org(1462,156.84)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.25,0:02:26.29,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,175.46)\org(1462,146.98)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.29,0:02:26.33,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,165.6)\org(1462,137.12)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.33,0:02:26.37,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,155.76)\org(1462,127.28)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.37,0:02:26.41,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,145.96)\org(1462,117.48)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.41,0:02:26.45,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,136.12)\org(1462,107.64)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.45,0:02:26.50,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,126.27)\org(1462,97.79)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.50,0:02:26.54,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,116.44)\org(1462,87.96)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.54,0:02:26.58,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,106.57)\org(1462,78.09)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
+Dialogue: 2,0:02:26.58,0:02:26.62,DedzuyaSigns,,0,0,0,,{=0=3}{\pos(1446.58,96.79)\org(1462,68.31)\fscx80\fscy80\frz-18.31\fry-4.755\frx-6.94\fax0.178\fnSource Sans Pro\b1\1c&H2D2D2D&\blur0.8}la dubioși!
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"originalText"#00"{\\c&H2D2D2D&\\blur0.8\\fscx80\\fscy80\\fnSource Sans Pro\\b1\\pos(1135#00110)}Ave#00#00i grij#00#00 \\Nla dubio#00#00i!"#00"uuid"#00"d69f8d51-35c0-47a5-bde4-88abe56260f2"}
 Data: 1,a-mo,e{"originalText"#00"{\\an7\\blur1\\bord0\\shad0\\fscx100\\fscy100\\pos(1135#00110)\\p1\\c&HF6F6F6&}m -158 -75 l 156 -75 156 79 -158 79"#00"uuid"#00"72bbff64-4395-4d0d-a203-afbbcb85d431"}
 Data: 2,a-mo,e{"originalText"#00"{\\an7\\blur1\\bord2\\shad0\\fscx100\\fsHcy100\\pos(1135#00110)\\p1\\c&H8D8D8D&\\3c&H8D8D8D&}m -158 -75 l 156 -75 156 79 -158 79"#00"uuid"#00"1c53e4f4-d6b8-4351-a2d6-c947f95191a0"}
+Data: 3,_aegi_perspective_ambient_plane,e1174.89;-99.11#7C1868.67;67.33#7C1596;1098#7C1152;926
