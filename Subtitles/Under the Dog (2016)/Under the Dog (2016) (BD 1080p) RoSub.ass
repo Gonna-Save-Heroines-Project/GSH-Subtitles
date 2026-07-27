@@ -24,16 +24,16 @@ Audio File: ../../../../Anime/Under.the.Dog.2016.1080p.Blu-Ray.Opus.5.1.H.265-BA
 Video File: ../../../../Anime/Under.the.Dog.2016.1080p.Blu-Ray.Opus.5.1.H.265-BANDiNG.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 148
-Active Line: 152
-Video Position: 12075
+Video Zoom Percent: 0.437500
+Scroll Position: 53
+Active Line: 54
+Video Position: 4695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Fontin Sans,74,&H00FFFFFF,&HFF0000FF,&H003D192C,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,150,150,60,1
+Style: Dialogue Overlap,Fira Sans Medium,74,&H00FFFFFF,&HFF0000FF,&H00200135,&HB4000000,0,0,0,0,100,100,1,0,1,4,1.6,2,150,150,60,1
 Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
-Style: Dialogue Overlap,Fira Sans Medium,74,&H00FFFFFF,&HFF0000FF,&H003D192C,&HB4000000,0,0,0,0,100,100,1,0,1,4,1.6,2,150,150,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -42,14 +42,14 @@ Comment: 0,0:02:54.32,0:02:54.36,Dialogue,chptr,0,0,0,,{Episod}
 Comment: 0,0:28:35.24,0:28:35.28,Dialogue,chptr,0,0,0,,{ED}
 Dialogue: 99,0:00:17.04,0:00:19.75,Dialogue,,0,0,0,,{\i1}Familia mea a fost \Nmereu una complicată.
 Dialogue: 99,0:00:19.75,0:00:20.50,Dialogue,,0,0,0,,Yuu!
-Dialogue: 99,0:00:21.42,0:00:23.92,Dialogue,,0,0,0,,Astăzi e o zi importantă \Npentru sora ta!
+Dialogue: 99,0:00:21.42,0:00:23.92,Dialogue,,0,0,0,,Azi e o zi importantă pentru sora ta!
 Dialogue: 99,0:00:23.92,0:00:24.42,Dialogue,,0,0,0,,Yuu—
 Dialogue: 99,0:00:24.42,0:00:25.84,Dialogue,,0,0,0,,Sărut-mâna pentru masă.
 Dialogue: 99,0:00:25.84,0:00:27.22,Dialogue,,0,0,0,,Nu mai mănânci?
 Dialogue: 99,0:00:27.22,0:00:29.01,Dialogue,,0,0,0,,Nu. Trebuie să pornesc.
 Dialogue: 99,0:00:29.55,0:00:32.76,Dialogue,,0,0,0,,Ceaiul făcut de tine \Neste cel mai bun, mamă.
 Dialogue: 99,0:00:35.43,0:00:37.85,Dialogue,,0,0,0,,{\i1}Nu au știut niciodată cum \Nsă se comporte în preajma mea.
-Dialogue: 99,0:00:38.18,0:00:41.90,Dialogue,,0,0,0,,{\i1}Mama nu a putut niciodată să mă privească \Nîn ochi în momentele importante ca acesta.
+Dialogue: 99,0:00:38.18,0:00:41.90,Dialogue,,0,0,0,,{\i1}Mama nu a putut niciodată să mă privească \Nîn ochi în momentele importante cum e acesta.
 Dialogue: 99,0:00:41.90,0:00:42.77,Dialogue,,0,0,0,,Hana...
 Dialogue: 99,0:00:45.28,0:00:47.57,Dialogue,,0,0,0,,Dă tot ce poți pentru {\i1}tine{\i0}, bine?
 Dialogue: 99,0:00:48.28,0:00:52.16,Dialogue,,0,0,0,,{\i1}Tata mereu se freacă la \Nnas atunci când minte.
@@ -62,21 +62,21 @@ Dialogue: 99,0:01:07.09,0:01:09.51,Dialogue,,0,0,0,,{\i1}Suntem o familie ciudat
 Dialogue: 99,0:01:11.55,0:01:13.43,Dialogue,,0,0,0,,{\i1}Dar îmi doresc cu adevărat...
 Dialogue: 99,0:01:13.43,0:01:15.14,Dialogue,,0,0,0,,{\i1}să-i protejez.
 Dialogue: 99,0:01:25.15,0:01:30.32,Dialogue,,0,0,0,,{\i1}Dimineața asta mi-a adus aminte de ziua \Ncând am luat examenul de admitere la liceu.
-Dialogue: 99,0:01:30.99,0:01:35.95,Dialogue,,0,0,0,,{\i1}Mama și tata erau chiar și \Nmai emoționați decât mine.
+Dialogue: 99,0:01:30.99,0:01:35.95,Dialogue,,0,0,0,,{\i1}Mama și tata erau chiar \Nmai emoționați decât mine.
 Dialogue: 99,0:01:39.83,0:01:42.50,Dialogue,,0,0,0,,{\i1}Trăim într-o lume atât de crudă...
 Dialogue: 99,0:01:42.50,0:01:45.88,Dialogue,,0,0,0,,{\i1}O lume în care unii sunt \Ncei aleși, iar alții nu.
 Dialogue: 99,0:01:45.88,0:01:50.17,Dialogue,,0,0,0,,{\i1}O lume în care unii \Nau noroc, iar alții nu.
 Dialogue: 99,0:01:50.72,0:01:52.30,Dialogue,,0,0,0,,Am primit rezultatul. E {\i1}negru{\i0}.
 Dialogue: 99,0:01:52.30,0:01:55.09,Dialogue,,0,0,0,,Mare păcat. Chiar era chipeș.
-Dialogue: 99,0:01:55.09,0:01:58.72,Dialogue,,0,0,0,,{\i1}Și nu e nevoie de prea mult ca să \Najungi de o partea sau de cealaltă.
+Dialogue: 99,0:01:55.09,0:01:58.72,Dialogue,,0,0,0,,{\i1}Și nu e nevoie de prea mult ca să \Najungi de o parte sau de cealaltă.
 Dialogue: 99,0:02:00.10,0:02:01.10,Dialogue,,0,0,0,,Îmi pare rău.
 Dialogue: 99,0:02:03.52,0:02:04.40,Dialogue,,0,0,0,,Țintă eliminată.
 Dialogue: 99,0:02:05.61,0:02:08.15,Dialogue,,0,0,0,,Rezultatul celeilalte persoane \Nva veni tot astăzi, nu?
-Dialogue: 99,0:02:08.15,0:02:10.11,Dialogue,,0,0,0,,Va fi primul ei rezultat, nu?
+Dialogue: 99,0:02:08.15,0:02:10.11,Dialogue,,0,0,0,,Va fi prima ei misiune, nu?
 Dialogue: 99,0:02:10.11,0:02:12.15,Dialogue,,0,0,0,,Sper să fie {\i1}alb{\i0}.
 Dialogue: 99,0:02:13.07,0:02:17.16,Dialogue,,0,0,0,,{\i1}Și chiar dacă sunt de \Npartea celor „aleși”,
 Dialogue: 99,0:02:17.16,0:02:21.04,Dialogue,,0,0,0,,{\i1}nu m-am considerat \Nniciodată norocoasă.
-Dialogue: 99,0:02:23.08,0:02:25.17,Dialogue,,0,0,0,,{\i1}Oare o vom găsi în \Ncele din urmă astăzi?
+Dialogue: 99,0:02:23.08,0:02:25.17,Dialogue,,0,0,0,,{\i1}Oare vom reuși s-o găsim astăzi?
 Dialogue: 99,0:02:26.17,0:02:28.55,Dialogue,,0,0,0,,{\i1}Pe persoana pe care o \Ncăutăm de atâta timp:
 Dialogue: 99,0:02:29.46,0:02:31.30,Dialogue,,0,0,0,,{\i1}ultima noastră speranță.
 Dialogue: 99,0:02:38.30,0:02:40.06,Dialogue,,0,0,0,,Ești bine, domnișoară Tougetsu?
@@ -91,7 +91,7 @@ Dialogue: 99,0:03:03.87,0:03:07.63,Dialogue,,0,0,0,,de asta s-a transferat în a
 Dialogue: 99,0:03:07.63,0:03:09.46,Dialogue,,0,0,0,,Să fiți drăguți cu ea, bine?
 Dialogue: 99,0:03:09.46,0:03:11.38,Dialogue,,0,0,0,,Bine.
 Dialogue: 99,0:03:13.92,0:03:15.80,Dialogue,,0,0,0,,Ce naiba se petrece aici?
-Dialogue: 99,0:03:15.80,0:03:17.14,Dialogue,,0,0,0,,E trafic la ora asta?
+Dialogue: 99,0:03:15.80,0:03:17.14,Dialogue,,0,0,0,,Trafic la ora asta?
 Dialogue: 99,0:03:17.14,0:03:18.14,Dialogue,,0,0,0,,La naiba.
 Dialogue: 99,0:03:25.81,0:03:26.69,Dialogue,,0,0,0,,Hana, Hana!
 Dialogue: 99,0:03:27.02,0:03:27.90,Dialogue,,0,0,0,,Bună,
@@ -121,7 +121,7 @@ Dialogue: 99,0:04:15.19,0:04:17.86,Dialogue,,0,0,0,,{\i1}A durat prea mult ca \N
 Dialogue: 99,0:04:17.86,0:04:18.74,Dialogue,,0,0,0,,{\i1}Nu mai avem timp.
 Dialogue: 99,0:04:19.11,0:04:20.49,Dialogue,,0,0,0,,{\i1}Analiza nu s-a finalizat încă.
 Dialogue: 99,0:04:20.49,0:04:23.16,Dialogue,,0,0,0,,{\i1}Trebuie să iei ținta \Nși să plecați de acolo.
-Dialogue: 99,0:04:23.16,0:04:25.50,Dialogue,,0,0,0,,{\i1}Raportează imediat cum ați \Najuns într-o zona sigură.
+Dialogue: 99,0:04:23.16,0:04:25.50,Dialogue,,0,0,0,,{\i1}Raportează imediat cum ați \Najuns într-o zonă sigură.
 Dialogue: 99,0:04:25.50,0:04:26.79,Dialogue,,0,0,0,,{\i1}0-0, terminat.
 Dialogue: 99,0:04:28.54,0:04:31.63,Dialogue,,0,0,0,,{\an8}Toată lumea spune online că \Nsunt elicoptere peste tot. Uite!
 Dialogue: 99,0:04:30.42,0:04:32.59,Dialogue,,0,0,0,,Hei, Tougetsu...
@@ -133,7 +133,7 @@ Dialogue: 99,0:04:47.39,0:04:48.73,Dialogue,,0,0,0,,H-Hei!
 Dialogue: 99,0:04:48.73,0:04:49.94,Dialogue,,0,0,0,,Unde mergem?
 Dialogue: 99,0:04:52.90,0:04:54.23,Dialogue,,0,0,0,,Dă-mi drumul!
 Dialogue: 99,0:04:55.40,0:04:57.44,Dialogue,,0,0,0,,Ce te-a apucat?
-Dialogue: 99,0:04:57.44,0:04:59.24,Dialogue,,0,0,0,,Trebuie să stai aproape de mine.
+Dialogue: 99,0:04:57.44,0:04:59.24,Dialogue,,0,0,0,,Să nu te îndepărtezi de mine.
 Dialogue: 99,0:04:59.24,0:04:59.95,Dialogue,,0,0,0,,Ce?
 Dialogue: 99,0:05:00.74,0:05:02.45,Dialogue,,0,0,0,,Altfel...
 Dialogue: 99,0:05:02.45,0:05:03.28,Dialogue,,0,0,0,,vei muri.
@@ -154,7 +154,7 @@ Dialogue: 99,0:06:44.59,0:06:46.93,Dialogue,,0,0,0,,{\i1}După ce-l vor găsi pe
 Dialogue: 99,0:06:46.93,0:06:50.68,Dialogue,,0,0,0,,{\i1}Alăturați-vă celorlalți elevi \Nși evacuați-vă împreună cu ei.
 Dialogue: 99,0:06:50.68,0:06:52.23,Dialogue,,0,0,0,,{\i1}Folosiți ruta {\i0}Bravo{\i1}.
 Dialogue: 99,0:06:52.23,0:06:54.69,Dialogue,,0,0,0,,{\i1}Un elicopter vă va prelua de \Nla punctul de extracție {\i0}Echo{\i1}.
-Dialogue: 99,0:06:54.69,0:06:57.61,Dialogue,,0,0,0,,Sigur ar trebui să acționăm astfel? \NÎncă nu-i știm culoarea.
+Dialogue: 99,0:06:54.69,0:06:57.61,Dialogue,,0,0,0,,Chiar e bine să acționăm astfel? \NÎncă nu-i știm culoarea.
 Dialogue: 99,0:06:57.94,0:06:59.86,Dialogue,,0,0,0,,{\i1}Tocmai am primit rezultatul.
 Dialogue: 99,0:06:59.86,0:07:01.40,Dialogue,,0,0,0,,{\i1}Este {\i1}alb{\i0}.
 Dialogue: 99,0:07:01.40,0:07:02.57,Dialogue,,0,0,0,,{\i1}Vino aici împreună cu ținta.
@@ -165,16 +165,16 @@ Dialogue: 99,0:07:08.07,0:07:09.58,Dialogue,,0,0,0,,Ce ușurare...
 Dialogue: 99,0:07:11.49,0:07:14.50,Dialogue,,0,0,0,,S-ar putea ca tu să fii \Nultima noastră speranță.
 Dialogue: 99,0:07:15.00,0:07:15.79,Dialogue,,0,0,0,,Poftim?
 Dialogue: 99,0:07:19.29,0:07:20.25,Dialogue,,0,0,0,,Aici colonelul Amagata...
-Dialogue: 99,0:07:20.63,0:07:23.30,Dialogue,,0,0,0,,Reușim să interceptăm mai mult \Ndin comunicațiile americanilor.
-Dialogue: 99,0:07:23.30,0:07:24.76,Dialogue,,0,0,0,,Se pare că lucrurile au mers prost.
-Dialogue: 99,0:07:24.76,0:07:28.89,Dialogue,,0,0,0,,Comunicațiile lor cu baza au devenit haotice, aproape panicate.
+Dialogue: 99,0:07:20.63,0:07:23.30,Dialogue,,0,0,0,,Interceptăm mai mult din \Ncomunicațiile americanilor.
+Dialogue: 99,0:07:23.30,0:07:24.76,Dialogue,,0,0,0,,Ceva pare să fi mers prost.
+Dialogue: 99,0:07:24.76,0:07:28.89,Dialogue,,0,0,0,,Comunicațiile lor cu baza au devenit haotice, \Nde parcă ar fi într-o stare de panică.
 Dialogue: 99,0:07:40.40,0:07:41.15,Dialogue,,0,0,0,,Ce a fost asta?
 Dialogue: 99,0:07:41.15,0:07:42.82,Dialogue,,0,0,0,,0-0, aici 0-6.
 Dialogue: 99,0:07:42.82,0:07:44.11,Dialogue,,0,0,0,,Ce se întâmplă?
 Dialogue: 99,0:07:44.11,0:07:45.86,Dialogue,,0,0,0,,{\i1}0-6, aici 0-0.
-Dialogue: 99,0:07:45.86,0:07:46.82,Dialogue,,0,0,0,,{\i1}Au apărut probleme.
-Dialogue: 99,0:07:47.57,0:07:50.12,Dialogue,,0,0,0,,{\i1}Cobaiul de laborat, P, \Ns-a pandoralizat.
-Dialogue: 99,0:07:50.12,0:07:52.37,Dialogue,,0,0,0,,{\i1}Forțele americane au \Nînceput să evacueze elevii.
+Dialogue: 99,0:07:45.86,0:07:46.82,Dialogue,,0,0,0,,{\i1}Avem o problemă.
+Dialogue: 99,0:07:47.57,0:07:50.12,Dialogue,,0,0,0,,{\i1}Cobaiul de laborator pe \Nnume P s-a pandoralizat.
+Dialogue: 99,0:07:50.12,0:07:52.37,Dialogue,,0,0,0,,{\i1}Soldații americani au \Nînceput să evacueze elevii.
 Dialogue: 99,0:07:52.37,0:07:54.87,Dialogue,,0,0,0,,Apoi vor... Pandora...
 Dialogue: 99,0:07:54.87,0:07:58.21,Dialogue,,0,0,0,,...acum... Repet...
 Dialogue: 99,0:07:58.21,0:08:00.63,Dialogue,,0,0,0,,0-0, nu am recepționat nimic!
@@ -186,151 +186,150 @@ Dialogue: 99,0:08:09.22,0:08:11.05,Dialogue,,0,0,0,,și mergeți pe terenul de s
 Dialogue: 99,0:08:11.39,0:08:13.47,Dialogue,,0,0,0,,Am pierdut legătura cu 0-6.
 Dialogue: 99,0:08:13.47,0:08:15.02,Dialogue,,0,0,0,,Folosesc ECM-uri pentru a ne bruia!
 Dialogue: 99,0:08:15.02,0:08:18.27,Dialogue,,0,0,0,,Chiar și sateliții de \Nsupraveghere sunt afectați.
-Dialogue: 99,0:08:18.27,0:08:19.65,Dialogue,,0,0,0,,Care este situația lui 0-3?
+Dialogue: 99,0:08:18.27,0:08:19.65,Dialogue,,0,0,0,,Unde este 0-3?
 Dialogue: 99,0:08:20.06,0:08:21.69,Dialogue,,0,0,0,,Tocmai se întoarce \Ndin misiune, domnule.
-Dialogue: 99,0:08:21.69,0:08:23.61,Dialogue,,0,0,0,,Bun. Pregătiți-o \Npentru o nouă misiune.
-Dialogue: 99,0:08:23.61,0:08:25.07,Dialogue,,0,0,0,,Dar nu au trecut \Nnici măcar 12 ore!
-Dialogue: 99,0:08:25.07,0:08:26.95,Dialogue,,0,0,0,,În plus, a fost rănită \Nîn ultima misiune.
-Dialogue: 99,0:08:26.95,0:08:30.03,Dialogue,,0,0,0,,Riscăm o pandoralizare accentuată dacă o supunem unui stres genomic prea mare.
+Dialogue: 99,0:08:21.69,0:08:23.61,Dialogue,,0,0,0,,Bun. Pregătiți-o pentru încă una.
+Dialogue: 99,0:08:23.61,0:08:26.95,Dialogue,,0,0,0,,Dar nu au trecut nici măcar 12 ore de la ultima misiune și este rănită!
+Dialogue: 99,0:08:26.95,0:08:30.03,Dialogue,,0,0,0,,Vom risca să se pandoralizeze și ea dacă \No supunem unui stres genomic excesiv.
 Dialogue: 99,0:08:32.24,0:08:33.45,Dialogue,,0,0,0,,Pandora...
-Dialogue: 99,0:08:34.12,0:08:37.25,Dialogue,,0,0,0,,„Lumina umanității”... sau cel puțin așa credeam.
-Dialogue: 99,0:08:42.04,0:08:44.50,Dialogue,,0,0,0,,Toată lumea să rămână calmă și să aștepte îmbarcarea!
-Dialogue: 99,0:08:44.50,0:08:46.38,Dialogue,,0,0,0,,Vă mulțumim pentru cooperare!
-Dialogue: 99,0:08:49.84,0:08:51.80,Dialogue,,0,0,0,,Nu merge. Nu avem semnal.
-Dialogue: 99,0:08:57.14,0:08:58.56,Dialogue,,0,0,0,,De ce nu!?
-Dialogue: 99,0:08:58.56,0:09:00.90,Dialogue,,0,0,0,,Ar trebui să evacuăm împreună cu ceilalți!
-Dialogue: 99,0:09:00.90,0:09:02.48,Dialogue,,0,0,0,,Nu putem...
+Dialogue: 99,0:08:34.12,0:08:37.25,Dialogue,,0,0,0,,„Lumina umanității”... \Nsau cel puțin asta am crezut.
+Dialogue: 99,0:08:42.04,0:08:44.50,Dialogue,,0,0,0,,Vă rugăm să rămâneți calm \Nși să urcați în camioane!
+Dialogue: 99,0:08:44.50,0:08:46.38,Dialogue,,0,0,0,,Vă mulțumim!
+Dialogue: 99,0:08:49.84,0:08:51.80,Dialogue,,0,0,0,,Fir-ar. Nu avem semnal deloc.
+Dialogue: 99,0:08:57.14,0:08:58.56,Dialogue,,0,0,0,,De ce?!
+Dialogue: 99,0:08:58.56,0:09:00.90,Dialogue,,0,0,0,,Ar trebui să ne evacuăm \Nalături de ceilalți!
+Dialogue: 99,0:09:00.90,0:09:02.48,Dialogue,,0,0,0,,Nu putem face asta...
 Dialogue: 99,0:09:02.48,0:09:03.11,Dialogue,,0,0,0,,De ce?
-Dialogue: 99,0:09:03.11,0:09:06.65,Dialogue,,0,0,0,,Pentru că și pe tine te caută.
-Dialogue: 99,0:09:06.65,0:09:07.32,Dialogue,,0,0,0,,Pe mine?
-Dialogue: 99,0:09:07.32,0:09:08.32,Dialogue,,0,0,0,,Stai!
-Dialogue: 99,0:09:12.24,0:09:15.99,Dialogue,,0,0,0,,Comandament, aici India 2-5. \NAm găsit doi elevi rămași în urmă.
+Dialogue: 99,0:09:03.11,0:09:06.65,Dialogue,,0,0,0,,Deoarece soldații \Nte caută și pe tine.
+Dialogue: 99,0:09:06.65,0:09:07.32,Dialogue,,0,0,0,,Și pe mine?
+Dialogue: 99,0:09:07.32,0:09:08.32,Dialogue,,0,0,0,,Stați pe loc!
+Dialogue: 99,0:09:12.24,0:09:15.99,Dialogue,,0,0,0,,Aici India 2-5, raportez. \NAm găsit doi elevi rămași în urmă.
+Dialogue: 99,0:09:15.99,0:09:19.58,Dialogue,,0,0,0,,{\an8}Le vom verifica legitimațiile și...
 Dialogue: 99,0:09:16.87,0:09:19.00,Dialogue,,0,0,0,,Ne puteți arăta legitimațiile?
-Dialogue: 99,0:09:15.99,0:09:19.58,Dialogue,,0,0,0,,{\an8}
-Dialogue: 99,0:09:20.29,0:09:22.04,Dialogue,,0,0,0,,Da, uitați.
+Dialogue: 99,0:09:20.29,0:09:22.04,Dialogue,,0,0,0,,Da, desigur.
 Dialogue: 99,0:09:23.79,0:09:25.00,Dialogue,,0,0,0,,Mulțumesc.
 Dialogue: 99,0:09:25.00,0:09:26.75,Dialogue,,0,0,0,,Și tu, domnișoară.
 Dialogue: 99,0:09:29.42,0:09:30.22,Dialogue,,0,0,0,,Ce naib—
-Dialogue: 99,0:09:44.06,0:09:46.52,Dialogue,,0,0,0,,Sunt... Flowers...
-Dialogue: 99,0:09:52.91,0:09:53.74,Dialogue,,0,0,0,,În spatele vostru!
+Dialogue: 99,0:09:44.06,0:09:46.52,Dialogue,,0,0,0,,Este... o Floare...
+Dialogue: 99,0:09:52.91,0:09:53.74,Dialogue,,0,0,0,,În spatele tău!
 Dialogue: 99,0:10:08.67,0:10:11.59,Dialogue,,0,0,0,,Te rog, trebuie să vii cu mine.
 Dialogue: 99,0:10:13.26,0:10:14.51,Dialogue,,0,0,0,,Te rog!
-Dialogue: 99,0:10:15.30,0:10:17.01,Dialogue,,0,0,0,,Toți elevii au fost găsiți?
-Dialogue: 99,0:10:17.26,0:10:19.68,Dialogue,,0,0,0,,Nu, domnule. Doi elevi sunt încă dispăruți.
-Dialogue: 99,0:10:20.52,0:10:22.52,Dialogue,,0,0,0,,Poftim? Băiatul acesta este...
-Dialogue: 99,0:10:22.73,0:10:26.19,Dialogue,,0,0,0,,Aici India 6-4. India 2-5 a fost doborâtă!
-Dialogue: 99,0:10:26.19,0:10:27.36,Dialogue,,0,0,0,,Avem Flowers!
-Dialogue: 99,0:10:27.36,0:10:28.32,Dialogue,,0,0,0,,Flowers!?
-Dialogue: 99,0:10:28.32,0:10:29.28,Dialogue,,0,0,0,,Nu știm care.
+Dialogue: 99,0:10:15.30,0:10:17.01,Dialogue,,0,0,0,,Am găsit toți elevii?
+Dialogue: 99,0:10:17.26,0:10:19.68,Dialogue,,0,0,0,,Nu, domnule. Încă lipsesc doi.
+Dialogue: 99,0:10:20.52,0:10:22.52,Dialogue,,0,0,0,,Ce? Acest băiat...
+Dialogue: 99,0:10:22.73,0:10:26.19,Dialogue,,0,0,0,,Aici India 6-4, raportez. \NIndia 2-5 a fost doborât!
+Dialogue: 99,0:10:26.19,0:10:27.36,Dialogue,,0,0,0,,Avem de a face cu o Floare!
+Dialogue: 99,0:10:27.36,0:10:28.32,Dialogue,,0,0,0,,O Floare?!
+Dialogue: 99,0:10:28.32,0:10:29.28,Dialogue,,0,0,0,,Nu știm care e.
 Dialogue: 99,0:10:29.48,0:10:31.03,Dialogue,,0,0,0,,Avem nevoie de întăriri!
-Dialogue: 99,0:10:31.03,0:10:32.57,Dialogue,,0,0,0,,Nenorociții de Underdogs!
+Dialogue: 99,0:10:31.03,0:10:32.57,Dialogue,,0,0,0,,La naiba cu Asupriții!
 Dialogue: 99,0:10:32.57,0:10:34.53,Dialogue,,0,0,0,,Ce naiba caută aici?
-Dialogue: 99,0:10:34.53,0:10:37.74,Dialogue,,0,0,0,,Dacă unul dintre cei doi este cu Flowers, atunci celălalt trebuie să fie...
-Dialogue: 99,0:10:38.70,0:10:40.29,Dialogue,,0,0,0,,Avem nevoie imediată de CAS!
-Dialogue: 99,0:10:40.29,0:10:43.92,Dialogue,,0,0,0,,Eliminați inamicul și securizați-l pe celălalt! Îl vreau pe băiat viu!
+Dialogue: 99,0:10:34.53,0:10:37.74,Dialogue,,0,0,0,,Dacă unul este o Floare, \Natunci celălalt e...
+Dialogue: 99,0:10:38.70,0:10:40.29,Dialogue,,0,0,0,,Avem nevoie de \Nsprijin aerian imediat!
+Dialogue: 99,0:10:40.29,0:10:43.92,Dialogue,,0,0,0,,Eliminați-l pe cel periculos și \Naduceți-l în viață pe celălalt!
 Dialogue: 99,0:11:18.87,0:11:20.24,Dialogue,,0,0,0,,Ce naib—
-Dialogue: 99,0:11:35.26,0:11:38.47,Dialogue,,0,0,0,,C-Ce naiba este monstrul ăla?
+Dialogue: 99,0:11:35.26,0:11:38.47,Dialogue,,0,0,0,,C-Ce naiba e acel monstru?
 Dialogue: 99,0:11:38.47,0:11:39.51,Dialogue,,0,0,0,,Un Pandora.
-Dialogue: 99,0:11:45.69,0:11:47.02,Dialogue,,0,0,0,,Înapoi!
+Dialogue: 99,0:11:45.69,0:11:47.02,Dialogue,,0,0,0,,Stai în spatele meu!
 Dialogue: 99,0:11:59.78,0:12:01.37,Dialogue,,0,0,0,,Delicios!
-Dialogue: 99,0:12:01.74,0:12:04.04,Dialogue,,0,0,0,,Cum poți să mănânci după {\i1}așa ceva{\i}?
-Dialogue: 99,0:12:04.04,0:12:06.58,Dialogue,,0,0,0,,Scuzați-mă, dar mai putem primi niște prăjitură?
-Dialogue: 99,0:12:07.79,0:12:09.92,Dialogue,,0,0,0,,De fapt, tocmai {\i1}de aceea{\i0} am nevoie de prăjitură.
+Dialogue: 99,0:12:01.74,0:12:04.04,Dialogue,,0,0,0,,Cum poți mânca după \N{\i1}tot{\i} ce s-a întâmplat?
+Dialogue: 99,0:12:04.04,0:12:06.58,Dialogue,,0,0,0,,Mă scuzați, aș mai dori o prăjitură.
+Dialogue: 99,0:12:07.79,0:12:09.92,Dialogue,,0,0,0,,Din cauza a {\i1}tot{\i0} ce s-a întâmplat \Nam nevoie de prăjituri.
 Dialogue: 99,0:12:18.26,0:12:19.72,Dialogue,,0,0,0,,0-2, recepționat.
-Dialogue: 99,0:12:19.93,0:12:21.55,Dialogue,,0,0,0,,0-8, copiat.
-Dialogue: 99,0:12:22.93,0:12:24.10,Dialogue,,0,0,0,,Mergem?
-Dialogue: 99,0:12:25.14,0:12:27.69,Dialogue,,0,0,0,,O operațiune activă într-un liceu?
-Dialogue: 99,0:12:27.69,0:12:31.48,Dialogue,,0,0,0,,Au izolat zona\Ncu ajutorul poliției locale.
-Dialogue: 99,0:12:31.48,0:12:35.36,Dialogue,,0,0,0,,Este grupul operativ pe care l-au staționat \Nîn Japonia acum jumătate de an.
-Dialogue: 99,0:12:35.36,0:12:39.91,Dialogue,,0,0,0,,Credem că îl urmăresc pe \Nun subiect de cercetare evadat, P.
+Dialogue: 99,0:12:19.93,0:12:21.55,Dialogue,,0,0,0,,0-8, recepționat.
+Dialogue: 99,0:12:22.93,0:12:24.10,Dialogue,,0,0,0,,Pornim?
+Dialogue: 99,0:12:25.14,0:12:27.69,Dialogue,,0,0,0,,O operațiune în \Ndesfășurare la un liceu?
+Dialogue: 99,0:12:27.69,0:12:31.48,Dialogue,,0,0,0,,Au izolat zona cu \Najutorul poliției locale.
+Dialogue: 99,0:12:31.48,0:12:35.36,Dialogue,,0,0,0,,E vorba de trupele speciale care \Nau venit acum 6 luni în Japonia.
+Dialogue: 99,0:12:35.36,0:12:39.91,Dialogue,,0,0,0,,Bănuim că vor să-l găsească pe cobaiul \Nde laborator evadat pe nume „P”.
 Dialogue: 99,0:12:39.91,0:12:41.12,Dialogue,,0,0,0,,Și...
-Dialogue: 99,0:12:41.49,0:12:44.16,Dialogue,,0,0,0,,Am aflat, de asemenea, că un Flower se află la fața locului.
-Dialogue: 99,0:12:45.50,0:12:49.25,Dialogue,,0,0,0,,Lasă copiii în afara acestei povești, Amagata.
-Dialogue: 99,0:12:51.83,0:12:54.46,Dialogue,,0,0,0,,Pentru un exercițiu militar, \Nchiar merg până la capăt.
+Dialogue: 99,0:12:41.49,0:12:44.16,Dialogue,,0,0,0,,Am aflat, de asemenea, \Ncă o Floare se află în acel loc.
+Dialogue: 99,0:12:45.50,0:12:49.25,Dialogue,,0,0,0,,Nu implica niște copii în asta, Amagata.
+Dialogue: 99,0:12:51.83,0:12:54.46,Dialogue,,0,0,0,,Pentru un exercițiu militar, \Nchiar pare foarte real.
 Dialogue: 99,0:12:54.46,0:12:57.09,Dialogue,,0,0,0,,Sunt vremuri periculoase.
-Dialogue: 99,0:12:57.09,0:12:59.43,Dialogue,,0,0,0,,X-ray 6-4 către comandament. Raportați, recepție.
-Dialogue: 99,0:12:59.43,0:13:02.51,Dialogue,,0,0,0,,Comandamentul către X-ray 6-4. Pandora încă nu s-a mișcat.
-Dialogue: 99,0:13:02.51,0:13:05.35,Dialogue,,0,0,0,,X-ray 3-2 și X-ray 4-2 îl au în contact vizual.
-Dialogue: 99,0:13:05.77,0:13:08.85,Dialogue,,0,0,0,,Recepționat. Mențineți contactul vizual până la noi ordine.
+Dialogue: 99,0:12:57.09,0:12:59.43,Dialogue,,0,0,0,,X-ray 6-4 către bază. \NCare este situația?
+Dialogue: 99,0:12:59.43,0:13:02.51,Dialogue,,0,0,0,,Baza către X-ray 6-4. \NPandora încă nu s-a mișcat.
+Dialogue: 99,0:13:02.51,0:13:05.35,Dialogue,,0,0,0,,X-ray 3-2 și X-ray 4-2 \Nau contact vizual.
+Dialogue: 99,0:13:05.77,0:13:08.85,Dialogue,,0,0,0,,Recepționat. Mențineți contactul \Nvizual până la noi ordine.
 Dialogue: 99,0:13:16.11,0:13:17.57,Dialogue,,0,0,0,,Hei...
-Dialogue: 99,0:13:17.57,0:13:18.70,Dialogue,,0,0,0,,Ești bine?
-Dialogue: 99,0:13:20.57,0:13:23.45,Dialogue,,0,0,0,,S-Sunt... bine.
+Dialogue: 99,0:13:17.57,0:13:18.70,Dialogue,,0,0,0,,Ești în regulă?
+Dialogue: 99,0:13:20.57,0:13:23.45,Dialogue,,0,0,0,,D-Da... sunt.
 Dialogue: 99,0:13:23.45,0:13:24.91,Dialogue,,0,0,0,,E clar că nu ești!
-Dialogue: 99,0:13:37.26,0:13:39.05,Dialogue,,0,0,0,,Poți să te întorci cu spatele?
-Dialogue: 99,0:13:39.05,0:13:40.17,Dialogue,,0,0,0,,Sigur.
-Dialogue: 99,0:13:55.23,0:13:56.69,Dialogue,,0,0,0,,Acum poți să te uiți.
-Dialogue: 99,0:13:58.48,0:14:01.32,Dialogue,,0,0,0,,Am luat niște medicamente. \NAr trebui să mă stabilizeze pentru moment.
+Dialogue: 99,0:13:37.26,0:13:39.05,Dialogue,,0,0,0,,Poți să te uiți în altă parte?
+Dialogue: 99,0:13:39.05,0:13:40.17,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:13:55.23,0:13:56.69,Dialogue,,0,0,0,,Te poți întoarce acum.
+Dialogue: 99,0:13:58.48,0:14:01.32,Dialogue,,0,0,0,,Am luat un ser. Ar trebui să \Nmă stabilizeze pentru moment.
 Dialogue: 99,0:14:02.11,0:14:04.16,Dialogue,,0,0,0,,Cum te cheamă?
 Dialogue: 99,0:14:05.41,0:14:07.83,Dialogue,,0,0,0,,M-am prezentat chiar azi-dimineață.
 Dialogue: 99,0:14:10.16,0:14:11.62,Dialogue,,0,0,0,,Tougetsu.
 Dialogue: 99,0:14:11.62,0:14:13.29,Dialogue,,0,0,0,,Tougetsu Hana.
-Dialogue: 99,0:14:13.29,0:14:15.63,Dialogue,,0,0,0,,Hana, așa-i?
+Dialogue: 99,0:14:13.29,0:14:15.63,Dialogue,,0,0,0,,Hana, nu?
 Dialogue: 99,0:14:15.63,0:14:16.96,Dialogue,,0,0,0,,Eu sunt Nanase...
 Dialogue: 99,0:14:16.96,0:14:18.84,Dialogue,,0,0,0,,Shunichi, nu?
-Dialogue: 99,0:14:19.63,0:14:20.76,Dialogue,,0,0,0,,De unde ai știut?
+Dialogue: 99,0:14:19.63,0:14:20.76,Dialogue,,0,0,0,,De unde știi?
 Dialogue: 99,0:14:21.59,0:14:24.01,Dialogue,,0,0,0,,Știu asta de mult timp.
-Dialogue: 99,0:14:24.01,0:14:26.60,Dialogue,,0,0,0,,Încă dinainte de ziua de azi.
-Dialogue: 99,0:14:35.10,0:14:37.32,Dialogue,,0,0,0,,Zona este liberă. Să plecăm.
-Dialogue: 99,0:14:47.41,0:14:48.95,Dialogue,,0,0,0,,Așadar...
-Dialogue: 99,0:14:48.95,0:14:50.29,Dialogue,,0,0,0,,despre ce ai spus mai devreme...
-Dialogue: 99,0:14:50.29,0:14:53.16,Dialogue,,0,0,0,,că sunt speranța ta sau ceva de genul.
-Dialogue: 99,0:14:53.16,0:14:55.58,Dialogue,,0,0,0,,Ce ai vrut să spui?
-Dialogue: 99,0:14:56.13,0:14:59.05,Dialogue,,0,0,0,,Există o unitate de asasini numită „Flowers”.
+Dialogue: 99,0:14:24.01,0:14:26.60,Dialogue,,0,0,0,,Cu mult timp înainte de ziua asta.
+Dialogue: 99,0:14:35.10,0:14:37.32,Dialogue,,0,0,0,,Zona e liberă. Să mergem.
+Dialogue: 99,0:14:47.41,0:14:48.95,Dialogue,,0,0,0,,Hei...
+Dialogue: 99,0:14:48.95,0:14:50.29,Dialogue,,0,0,0,,legat de ce ai spus mai devreme...
+Dialogue: 99,0:14:50.29,0:14:53.16,Dialogue,,0,0,0,,că sunt speranța ta \Nsau ceva de genul...
+Dialogue: 99,0:14:53.16,0:14:55.58,Dialogue,,0,0,0,,La ce te refereai?
+Dialogue: 99,0:14:56.13,0:14:59.05,Dialogue,,0,0,0,,Există o grupare de \Nasasini numită „Flori”.
 Dialogue: 99,0:14:59.05,0:15:00.92,Dialogue,,0,0,0,,A-Asasini?
-Dialogue: 99,0:15:01.67,0:15:04.72,Dialogue,,0,0,0,,Numele face referire la felul în care \Nflorile se ofilesc și le cad petalele.
-Dialogue: 99,0:15:04.72,0:15:06.43,Dialogue,,0,0,0,,Este un nume îngrozitor, dacă stai să te gândești.
-Dialogue: 99,0:15:07.47,0:15:10.22,Dialogue,,0,0,0,,Eu sunt una dintre ei—un Flower.
+Dialogue: 99,0:15:01.67,0:15:04.72,Dialogue,,0,0,0,,A fost ales acest nume deoarece \Nflorile se ofilesc și-și pierd petalele.
+Dialogue: 99,0:15:04.72,0:15:06.43,Dialogue,,0,0,0,,E un nume oribil dacă \Nstai puțin să te gândești.
+Dialogue: 99,0:15:07.47,0:15:10.22,Dialogue,,0,0,0,,Și eu fac parte din această \Ngrupare. Sunt o Floare.
 Dialogue: 99,0:15:11.02,0:15:12.06,Dialogue,,0,0,0,,Shunichi...
 Dialogue: 99,0:15:12.68,0:15:15.31,Dialogue,,0,0,0,,Unde sunt părinții tăi?
-Dialogue: 99,0:15:16.35,0:15:17.48,Dialogue,,0,0,0,,De ce întrebi?
+Dialogue: 99,0:15:16.35,0:15:17.48,Dialogue,,0,0,0,,De ce mă întrebi?
 Dialogue: 99,0:15:18.31,0:15:21.86,Dialogue,,0,0,0,,Îți iubești părinții?
 Dialogue: 99,0:15:22.78,0:15:24.49,Dialogue,,0,0,0,,Nu prea știu.
-Dialogue: 99,0:15:25.03,0:15:29.99,Dialogue,,0,0,0,,Într-o zi, când eram mic, \Ntata nu s-a mai întors acasă.
-Dialogue: 99,0:15:30.58,0:15:31.66,Dialogue,,0,0,0,,Pur și simplu a dispărut.
+Dialogue: 99,0:15:25.03,0:15:29.99,Dialogue,,0,0,0,,Când eram mic, tata a \Nplecat și nu s-a mai întors.
+Dialogue: 99,0:15:30.58,0:15:31.66,Dialogue,,0,0,0,,De parcă ar fi dispărut.
 Dialogue: 99,0:15:32.87,0:15:34.08,Dialogue,,0,0,0,,Mama mi-a spus:
-Dialogue: 99,0:15:34.08,0:15:37.71,Dialogue,,0,0,0,,„Tatăl tău lucrează la ceva foarte important pentru tine.”
-Dialogue: 99,0:15:37.71,0:15:39.46,Dialogue,,0,0,0,,Îl apăra mereu.
-Dialogue: 99,0:15:39.46,0:15:43.09,Dialogue,,0,0,0,,Cred că aș fi preferat să-mi spună pur și simplu că a fugit cu altă femeie.
-Dialogue: 99,0:15:43.80,0:15:46.72,Dialogue,,0,0,0,,Nu se știe niciodată...
-Dialogue: 99,0:15:46.72,0:15:50.18,Dialogue,,0,0,0,,Poate chiar muncește din greu... pentru tine.
+Dialogue: 99,0:15:34.08,0:15:37.71,Dialogue,,0,0,0,,„Tatăl tău lucrează la ceva \Nfoarte important pentru tine.”
+Dialogue: 99,0:15:37.71,0:15:39.46,Dialogue,,0,0,0,,Îi lua mereu apărarea.
+Dialogue: 99,0:15:39.46,0:15:43.09,Dialogue,,0,0,0,,Cred că aș fi preferat să-mi fi spus că \Npur și simplu a plecat cu o altă femeie.
+Dialogue: 99,0:15:43.80,0:15:46.72,Dialogue,,0,0,0,,Nu ai de unde să știi asta...
+Dialogue: 99,0:15:46.72,0:15:50.18,Dialogue,,0,0,0,,Poate chiar muncește \Ndin greu... pentru tine.
 Dialogue: 99,0:15:50.18,0:15:51.56,Dialogue,,0,0,0,,Mă îndoiesc...
 Dialogue: 99,0:15:51.56,0:15:55.10,Dialogue,,0,0,0,,Nu fac asta pentru că vreau.
-Dialogue: 99,0:15:55.10,0:15:55.89,Dialogue,,0,0,0,,Poftim?
-Dialogue: 99,0:15:55.89,0:15:57.44,Dialogue,,0,0,0,,Ca atunci, pe casa scării...
-Dialogue: 99,0:15:57.44,0:15:59.65,Dialogue,,0,0,0,,Nu am vrut să-l omor.
-Dialogue: 99,0:15:59.65,0:16:01.44,Dialogue,,0,0,0,,Dar dacă nu-mi ascult ordinele,
+Dialogue: 99,0:15:55.10,0:15:55.89,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:15:55.89,0:15:57.44,Dialogue,,0,0,0,,Atunci când eram pe scări...
+Dialogue: 99,0:15:57.44,0:15:59.65,Dialogue,,0,0,0,,nu am vrut să-l omor.
+Dialogue: 99,0:15:59.65,0:16:01.44,Dialogue,,0,0,0,,Dar dacă nu urmez ordinele,
 Dialogue: 99,0:16:01.44,0:16:04.65,Dialogue,,0,0,0,,mama și tata vor...
-Dialogue: 99,0:16:02.32,0:16:03.23,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:16:02.32,0:16:03.23,Dialogue Overlap,,0,0,0,,Hei!
 Dialogue: 99,0:16:07.28,0:16:09.70,Dialogue,,0,0,0,,Soarta noastră se află...
-Dialogue: 99,0:16:09.70,0:16:12.24,Dialogue,,0,0,0,,în mâinile unui băiat de șaisprezece ani.
+Dialogue: 99,0:16:09.70,0:16:12.24,Dialogue,,0,0,0,,în mâinile unui băiat de 16 ani.
 Dialogue: 99,0:16:12.24,0:16:14.33,Dialogue,,0,0,0,,Membrii mai vechi spuneau mereu:
-Dialogue: 99,0:16:14.33,0:16:16.83,Dialogue,,0,0,0,,„El este singura noastră speranță”, înainte să moară cu toții.
-Dialogue: 99,0:16:16.83,0:16:17.92,Dialogue,,0,0,0,,Adică eu?
+Dialogue: 99,0:16:14.33,0:16:16.83,Dialogue,,0,0,0,,„El este singura noastră \Nsperanță”, înainte să moară.
+Dialogue: 99,0:16:16.83,0:16:17.92,Dialogue,,0,0,0,,Te referi la mine?
 Dialogue: 99,0:16:18.75,0:16:20.42,Dialogue,,0,0,0,,Shunichi,
-Dialogue: 99,0:16:20.42,0:16:23.00,Dialogue,,0,0,0,,s-ar putea să fii singurul care ne poate elibera de...
+Dialogue: 99,0:16:20.42,0:16:23.00,Dialogue,,0,0,0,,s-ar putea ca tu să fii singurul \Ncare ne poate elibera de...
 Dialogue: 99,0:16:23.00,0:16:24.63,Dialogue,,0,0,0,,acest blestem.
-Dialogue: 99,0:16:32.85,0:16:34.77,Dialogue,,0,0,0,,Fata asta chiar este...
+Dialogue: 99,0:16:32.85,0:16:34.77,Dialogue,,0,0,0,,Oare fata asta chiar e...
 Dialogue: 99,0:16:34.77,0:16:36.02,Dialogue,,0,0,0,,o asasină?
-Dialogue: 99,0:16:50.45,0:16:51.24,Dialogue,,0,0,0,,Stai!
-Dialogue: 99,0:16:53.54,0:16:55.25,Dialogue,,0,0,0,,Ai securizat deja pachetul?
-Dialogue: 99,0:16:55.25,0:16:58.25,Dialogue,,0,0,0,,{\an8}Prince 6-3, asigură-te că Humvee-urile sunt mutate.
-Dialogue: 99,0:16:55.79,0:16:57.00,Dialogue,,0,0,0,,Dar Flower?
-Dialogue: 99,0:16:57.00,0:16:58.25,Dialogue,,0,0,0,,Nu știm, domnule.
+Dialogue: 99,0:16:50.45,0:16:51.24,Dialogue,,0,0,0,,Nu mișca!
+Dialogue: 99,0:16:53.54,0:16:55.25,Dialogue,,0,0,0,,Ați capturat ținta?
+Dialogue: 99,0:16:55.25,0:16:58.25,Dialogue,,0,0,0,,{\an8}Prince 6-3, tu ești responsabil \Nde mutarea Humvee-urilor.
+Dialogue: 99,0:16:55.79,0:16:57.00,Dialogue,,0,0,0,,Cum rămâne cu Floarea?
+Dialogue: 99,0:16:57.00,0:16:58.25,Dialogue,,0,0,0,,Nu știm unde e, domnule.
 Dialogue: 99,0:16:58.79,0:16:59.75,Dialogue,,0,0,0,,În regulă.
-Dialogue: 99,0:16:59.75,0:17:03.21,Dialogue,,0,0,0,,Duceți pachetul pe acoperiș cât timp Pandora este încă inactiv.
+Dialogue: 99,0:16:59.75,0:17:03.21,Dialogue,,0,0,0,,Mergeți cu ținta pe acoperiș \Ncât timp Pandora e încă inactivă.
 Dialogue: 99,0:17:03.21,0:17:04.25,Dialogue,,0,0,0,,Urcați în elicopter și plecați.
-Dialogue: 99,0:17:04.92,0:17:08.88,Dialogue,,0,0,0,,Imediat ce elicopterul decolează, distrugeți inamicii și clădirea.
-Dialogue: 99,0:17:22.73,0:17:25.40,Dialogue,,0,0,0,,I-am spus să stea aproape...
+Dialogue: 99,0:17:04.92,0:17:08.88,Dialogue,,0,0,0,,Imediat ce elicopterul decolează, \Ndistrugeți inamicul și clădirea.
+Dialogue: 99,0:17:22.73,0:17:25.40,Dialogue,,0,0,0,,Și i-am spus să nu se \Nîndepărteze de mine...
 Dialogue: 99,0:17:29.24,0:17:31.66,Dialogue,,0,0,0,,0-2 și 0-8 sunt în poziție.
 Dialogue: 99,0:17:31.87,0:17:33.28,Dialogue,,0,0,0,,Unde este 0-3?
-Dialogue: 99,0:17:33.28,0:17:37.16,Dialogue,,0,0,0,,A trebuit să ocolească pentru a evita detectarea. \NSe apropie acum de punctul D-2.
+Dialogue: 99,0:17:33.28,0:17:37.16,Dialogue,,0,0,0,,A trebuit să facă un ocol ca să nu \Nfie detectată. Se apropie de punctul D-2.
 Dialogue: 99,0:17:49.84,0:17:51.38,Dialogue,,0,0,0,,Tougetsu!
-Dialogue: 99,0:17:52.89,0:17:55.10,Dialogue,,0,0,0,,Suntem angajați în luptă cu Flower! Avem nevoie de sprijin de foc!
-Dialogue: 99,0:18:10.28,0:18:12.16,Dialogue,,0,0,0,,Acolo este! Deschideți focul!
+Dialogue: 99,0:17:52.89,0:17:55.10,Dialogue,,0,0,0,,Suntem angajați în luptă cu Floarea! \NAvem nevoie de sprijin!
+Dialogue: 99,0:18:10.28,0:18:12.16,Dialogue,,0,0,0,,Am reperat-o! Deschideți focul!
 Dialogue: 99,0:18:12.16,0:18:13.28,Dialogue,,0,0,0,,Este rănită!
-Dialogue: 99,0:18:13.28,0:18:14.91,Dialogue,,0,0,0,,Perfect! Trageți oricum!
+Dialogue: 99,0:18:13.28,0:18:14.91,Dialogue,,0,0,0,,Perfect! Eliminați-o!
 Dialogue: 99,0:18:16.08,0:18:17.16,Dialogue,,0,0,0,,La naiba! Am fost loviți!
-Dialogue: 99,0:18:17.16,0:18:18.29,Dialogue,,0,0,0,,De unde a venit asta?
+Dialogue: 99,0:18:17.16,0:18:18.29,Dialogue,,0,0,0,,De unde?
 Dialogue: 99,0:18:49.78,0:18:50.65,Dialogue,,0,0,0,,Fugi!
 Dialogue: 99,0:18:52.70,0:18:53.78,Dialogue,,0,0,0,,Ieși pe poarta din spate.
 Dialogue: 99,0:18:53.78,0:18:56.49,Dialogue,,0,0,0,,Există un turn la 500 de metri spre vest.
@@ -338,34 +337,34 @@ Dialogue: 99,0:18:56.49,0:18:57.87,Dialogue,,0,0,0,,Așteaptă-mă acolo!
 Dialogue: 99,0:18:59.62,0:19:00.87,Dialogue,,0,0,0,,De ce?
 Dialogue: 99,0:19:00.87,0:19:03.08,Dialogue,,0,0,0,,De ce ești atât de disperată să...
 Dialogue: 99,0:19:03.08,0:19:05.00,Dialogue,,0,0,0,,Ți-am spus deja.
-Dialogue: 99,0:19:05.00,0:19:08.67,Dialogue,,0,0,0,,Ai putea fi singura noastră speranță.
-Dialogue: 99,0:19:12.55,0:19:13.51,Dialogue,,0,0,0,,Pleacă!
+Dialogue: 99,0:19:05.00,0:19:08.67,Dialogue,,0,0,0,,S-ar putea ca tu să fii \Nsingura noastră speranță.
+Dialogue: 99,0:19:12.55,0:19:13.51,Dialogue,,0,0,0,,Du-te!
 Dialogue: 99,0:19:13.51,0:19:14.47,Dialogue,,0,0,0,,Dar...
 Dialogue: 99,0:19:14.47,0:19:15.72,Dialogue,,0,0,0,,Te rog!
 Dialogue: 99,0:19:29.61,0:19:30.65,Dialogue,,0,0,0,,{\i1}Nu pot muri încă.
-Dialogue: 99,0:19:30.65,0:19:32.65,Dialogue,,0,0,0,,{\i1}Nu-mi doresc să mor.
-Dialogue: 99,0:19:35.61,0:19:37.12,Dialogue,,0,0,0,,{\i1}Mă voi întoarce acasă...
+Dialogue: 99,0:19:30.65,0:19:32.65,Dialogue,,0,0,0,,{\i1}Și nici nu-mi doresc să mor.
+Dialogue: 99,0:19:35.61,0:19:37.12,Dialogue,,0,0,0,,{\i1}Mă voi întoarce cu siguranță acasă...
 Dialogue: 99,0:19:39.99,0:19:43.45,Dialogue,,0,0,0,,{\i1}și le voi spune mamei, \Ntatei și lui Yuu că totul va fi bine.
-Dialogue: 99,0:19:46.42,0:19:48.46,Dialogue,,0,0,0,,{\i1}Și mă vor primi acasă cu brațele deschise!
+Dialogue: 99,0:19:46.42,0:19:48.46,Dialogue,,0,0,0,,{\i1}Și mă vor primi cu brațele deschise!
 Dialogue: 99,0:19:59.30,0:20:00.18,Dialogue,,0,0,0,,La naiba!
 Dialogue: 99,0:20:11.52,0:20:12.44,Dialogue,,0,0,0,,Hana...
-Dialogue: 99,0:20:13.74,0:20:15.20,Dialogue,,0,0,0,,Trage cu TOW-ul acum!
-Dialogue: 99,0:20:15.20,0:20:16.95,Dialogue,,0,0,0,,Este prea aproape de țintă!
-Dialogue: 99,0:20:16.95,0:20:18.45,Dialogue,,0,0,0,,Fă-o odată, fir-ar să fie!
+Dialogue: 99,0:20:13.74,0:20:15.20,Dialogue,,0,0,0,,Trageți cu rachetele antitanc!
+Dialogue: 99,0:20:15.20,0:20:16.95,Dialogue,,0,0,0,,Suntem mult prea aproape!
+Dialogue: 99,0:20:16.95,0:20:18.45,Dialogue,,0,0,0,,Doar fă-o, la naiba!
 Dialogue: 99,0:20:51.73,0:20:53.02,Dialogue,,0,0,0,,Tougetsu!
-Dialogue: 99,0:20:53.61,0:20:54.53,Dialogue,,0,0,0,,Dă-mi drumul!
+Dialogue: 99,0:20:53.61,0:20:54.53,Dialogue,,0,0,0,,Dați-mi drumul!
 Dialogue: 99,0:20:54.53,0:20:56.19,Dialogue,,0,0,0,,Tougetsu!
 Dialogue: 99,0:20:56.19,0:20:57.65,Dialogue,,0,0,0,,Tougetsu!
-Dialogue: 99,0:21:39.61,0:21:41.07,Dialogue,,0,0,0,,Doamne, ce-a fost asta!?
-Dialogue: 99,0:21:46.20,0:21:49.04,Dialogue,,0,0,0,,Către toate unitățile, este Flower numărul 0-3!
-Dialogue: 99,0:21:49.04,0:21:50.71,Dialogue,,0,0,0,,Dă-mi drumul!
+Dialogue: 99,0:21:39.61,0:21:41.07,Dialogue,,0,0,0,,Doamne, ce naiba e aia?!
+Dialogue: 99,0:21:46.20,0:21:49.04,Dialogue,,0,0,0,,Către toate unitățile, \Neste Floarea 0-3!
+Dialogue: 99,0:21:49.04,0:21:50.71,Dialogue,,0,0,0,,Dați-mi drumul!
 Dialogue: 99,0:21:50.71,0:21:52.79,Dialogue,,0,0,0,,Evitați contactul și retrageți-vă!
 Dialogue: 99,0:21:52.79,0:21:55.21,Dialogue,,0,0,0,,Solicitați USS Mandible să lanseze racheta de croazieră!
-Dialogue: 99,0:21:55.71,0:21:57.38,Dialogue,,0,0,0,,Evacuăm acum!
+Dialogue: 99,0:21:55.71,0:21:57.38,Dialogue,,0,0,0,,Evacuați-vă imediat!
 Dialogue: 99,0:21:57.38,0:21:58.38,Dialogue,,0,0,0,,Da, domnule!
 Dialogue: 99,0:22:02.59,0:22:04.30,Dialogue,,0,0,0,,Hei, ești bine?
 Dialogue: 99,0:22:04.30,0:22:05.68,Dialogue,,0,0,0,,Va trebui să...
-Dialogue: 99,0:22:20.20,0:22:23.32,Dialogue,,0,0,0,,Încă mai pot... să continui.
+Dialogue: 99,0:22:20.20,0:22:23.32,Dialogue,,0,0,0,,Înca mai pot... continua.
 Dialogue: 99,0:22:23.32,0:22:24.99,Dialogue,,0,0,0,,Eu...
 Dialogue: 99,0:22:31.41,0:22:33.54,Dialogue,,0,0,0,,Anthea...
 Dialogue: 99,0:22:33.54,0:22:36.21,Dialogue,,0,0,0,,Încă... mai pot... continua.
@@ -374,54 +373,56 @@ Dialogue: 99,0:22:44.26,0:22:46.30,Dialogue,,0,0,0,,Anthea!
 Dialogue: 99,0:22:46.30,0:22:49.52,Dialogue,,0,0,0,,Ai grijă de Shunichi.
 Dialogue: 99,0:22:49.52,0:22:52.98,Dialogue,,0,0,0,,T-Te rog, salvează-i pe toți...
 Dialogue: 99,0:22:56.77,0:22:58.36,Dialogue,,0,0,0,,Îmi pare rău...
-Dialogue: 99,0:22:58.36,0:23:00.90,Dialogue,,0,0,0,,Tu primești mereu cele mai murdare misiuni.
-Dialogue: 99,0:23:07.70,0:23:09.20,Dialogue,,0,0,0,,Mulțumesc.
-Dialogue: 99,0:23:14.00,0:23:16.17,Dialogue,,0,0,0,,Până diseară cerul ar trebui să se însenineze.
-Dialogue: 99,0:23:16.17,0:23:18.34,Dialogue,,0,0,0,,Poți vedea soarele ieșind dintre nori.
+Dialogue: 99,0:22:58.36,0:23:00.90,Dialogue,,0,0,0,,Că trebuie să faci mereu \Ntreburile murdare.
+Dialogue: 99,0:23:07.70,0:23:09.20,Dialogue,,0,0,0,,Îți mulțumesc.
+Dialogue: 99,0:23:14.00,0:23:16.17,Dialogue,,0,0,0,,Ploaia ar trebui să se \Noprească până diseară.
+Dialogue: 99,0:23:16.17,0:23:18.34,Dialogue,,0,0,0,,Poți vedea soarele \Nieșind dintre nori.
 Dialogue: 99,0:23:18.34,0:23:19.34,Dialogue,,0,0,0,,Da.
 Dialogue: 99,0:23:23.97,0:23:25.55,Dialogue,,0,0,0,,Ai suferit destul...
 Dialogue: 99,0:23:26.59,0:23:27.85,Dialogue,,0,0,0,,Îmi pare rău.
 Dialogue: 99,0:23:42.32,0:23:43.78,Dialogue,,0,0,0,,Mamă?
 Dialogue: 99,0:23:43.78,0:23:45.61,Dialogue,,0,0,0,,Mamă, ce s-a întâmplat?
 Dialogue: 99,0:23:45.61,0:23:46.78,Dialogue,,0,0,0,,Mamă?
-Dialogue: 99,0:23:51.08,0:23:52.08,Dialogue,,0,0,0,,Uită-te acolo!
-Dialogue: 99,0:24:31.95,0:24:35.00,Dialogue,,0,0,0,,0-3, aici 0-0. Am revenit pe comunicații.
+Dialogue: 99,0:23:51.08,0:23:52.08,Dialogue,,0,0,0,,Priviți!
+Dialogue: 99,0:24:31.95,0:24:35.00,Dialogue,,0,0,0,,0-3, aici 0-0. Comunicațiile \Nau fost restabilite.
 Dialogue: 99,0:24:35.00,0:24:38.21,Dialogue,,0,0,0,,Un Tomahawk a fost lansat din \Ngolf către zona misiunii.
-Dialogue: 99,0:24:38.21,0:24:39.50,Dialogue,,0,0,0,,Evacuați imediat.
+Dialogue: 99,0:24:38.21,0:24:39.50,Dialogue,,0,0,0,,Evacuează-te imediat.
 Dialogue: 99,0:24:39.83,0:24:41.75,Dialogue,,0,0,0,,0-0, aici 0-3.
-Dialogue: 99,0:24:41.75,0:24:43.50,Dialogue,,0,0,0,,Am obținut datele lui 0-6.
-Dialogue: 99,0:24:43.50,0:24:45.59,Dialogue,,0,0,0,,Solicit permisiunea de a continua misiunea lui 0-6.
-Dialogue: 99,0:24:46.88,0:24:48.38,Dialogue,,0,0,0,,Aprobat.
+Dialogue: 99,0:24:41.75,0:24:43.50,Dialogue,,0,0,0,,Am obținut informațiile lui 0-6.
+Dialogue: 99,0:24:43.50,0:24:45.59,Dialogue,,0,0,0,,Doresc să continui misiunea lui 0-6.
+Dialogue: 99,0:24:46.88,0:24:48.38,Dialogue,,0,0,0,,Ai permisiunea s-o faci.
 Dialogue: 99,0:27:27.13,0:27:28.42,Dialogue,,0,0,0,,Tată?
 Dialogue: 99,0:27:38.22,0:27:39.14,Dialogue,,0,0,0,,Hana...
 Dialogue: 99,0:27:40.14,0:27:41.98,Dialogue,,0,0,0,,Ne-am înșelat din nou.
-Dialogue: 99,0:27:45.73,0:27:46.86,Dialogue,,0,0,0,,Corect.
+Dialogue: 99,0:27:45.73,0:27:46.86,Dialogue,,0,0,0,,Da.
 Dialogue: 99,0:27:46.86,0:27:48.82,Dialogue,,0,0,0,,La început am crezut că este {\i1}alb{\i0}.
-Dialogue: 99,0:27:48.82,0:27:50.94,Dialogue,,0,0,0,,Dar apoi am observat semne de pandoralizare.
-Dialogue: 99,0:27:50.94,0:27:52.57,Dialogue,,0,0,0,,Așa că am schimbat diagnosticul în {\i1}negru{\i0}.
-Dialogue: 99,0:27:52.57,0:27:55.11,Dialogue,,0,0,0,,Am pus Flower să-l elimine.
-Dialogue: 99,0:27:55.11,0:27:57.45,Dialogue,,0,0,0,,N-am mai întâlnit niciodată un asemenea caz.
-Dialogue: 99,0:27:57.45,0:27:59.33,Dialogue,,0,0,0,,Va fi nevoie de o analiză mult mai aprofundată.
-Dialogue: 99,0:28:00.33,0:28:01.62,Dialogue,,0,0,0,,Vom raporta tot ce vom descoperi.
-Dialogue: 99,0:28:04.29,0:28:08.67,Dialogue,,0,0,0,,{\i1}Misiunea noastră este să ucidem lumina omenirii.
-Dialogue: 99,0:28:10.67,0:28:14.67,Dialogue,,0,0,0,,{\i1}Familiile și prietenii noștri sunt ținuți ostatici.
-Dialogue: 99,0:28:14.67,0:28:20.72,Dialogue,,0,0,0,,{\i1}Nici eșecul, nici fuga și nici măcar moartea nu ne pot elibera.
-Dialogue: 99,0:28:22.18,0:28:26.94,Dialogue,,0,0,0,,{\i1}Misiunea noastră este să ne distrugem propria speranță.
+Dialogue: 99,0:27:48.82,0:27:50.94,Dialogue,,0,0,0,,Dar apoi am observat \Nsemne de pandoralizare.
+Dialogue: 99,0:27:50.94,0:27:52.57,Dialogue,,0,0,0,,Așa că am schimbat \Ndiagnosticul în {\i1}negru{\i0}.
+Dialogue: 99,0:27:52.57,0:27:55.11,Dialogue,,0,0,0,,Am pus Floarea să-l elimine.
+Dialogue: 99,0:27:55.11,0:27:57.45,Dialogue,,0,0,0,,Nu am mai văzut \Nniciodată un asemenea caz.
+Dialogue: 99,0:27:57.45,0:27:59.33,Dialogue,,0,0,0,,Va trebui să facem o \Nanaliză mult mai detaliată.
+Dialogue: 99,0:28:00.33,0:28:01.62,Dialogue,,0,0,0,,Vă vom comunica rezultatele.
+Dialogue: 99,0:28:04.29,0:28:08.67,Dialogue,,0,0,0,,{\i1}Misiunea noastră este \Nsă ucidem lumina omenirii.
+Dialogue: 99,0:28:10.67,0:28:14.67,Dialogue,,0,0,0,,{\i1}Familiile și prietenii \Nnoștri sunt ținuți ostatici.
+Dialogue: 99,0:28:14.67,0:28:20.72,Dialogue,,0,0,0,,{\i1}Nici eșecul, nici fuga și nici \Nmăcar moartea nu ne pot elibera.
+Dialogue: 99,0:28:22.18,0:28:26.94,Dialogue,,0,0,0,,{\i1}Misiunea noastră este să ne \Ndistrugem propria speranță.
 Dialogue: 99,0:28:28.98,0:28:31.48,Dialogue,,0,0,0,,{\i1}„Dar încă mai există speranță.”
 Dialogue: 99,0:28:31.48,0:28:32.78,Dialogue,,0,0,0,,{\i1}Asta e ceea ce mi-a spus.
 Dialogue: 0,0:00:11.49,0:00:14.24,DedzuyaSigns,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(1760,605)\p1\c&H000000&}m -1760 -605 l 160 -605 160 475 -1760 475
 Dialogue: 1,0:00:11.49,0:00:14.24,DedzuyaSigns,,0,0,0,,{\an6\pos(1760,605)\blur0.6\fnAverage\fscx120\fscy120\fsp1}În viitorul nu foarte îndepărtat...
 Comment: 0,0:03:02.70,0:03:05.25,DedzuyaSigns,,0,0,0,,"So cute"  "My type"\N"4U Shunichi?"
 Comment: 0,0:03:05.25,0:03:06.00,DedzuyaSigns,,0,0,0,,"No interest"
-Dialogue: 0,0:03:02.70,0:03:02.91,DedzuyaSigns,,0,0,0,,{\pos(1158,375)\fscx99.966\frz327\fry-1.334\fax-0.06\fnVAGRounded Lt-Normal\fs36\b1\c&H888B81&\blur1.2}You guys do your Japanese homework?
-Dialogue: 0,0:03:02.91,0:03:02.95,DedzuyaSigns,,0,0,0,,{\pos(1240.5,259.5)\fscx99.966\frz327.4\fry-1.334\fax-0.06\fnVAGRounded Lt-Normal\fs36\b1\c&H888B81&\blur1.2}You guys do your Japanese homework?
-Dialogue: 0,0:03:02.70,0:03:02.83,DedzuyaSigns,,0,0,0,,{\pos(861,490.5)\fscy99.966\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
-Dialogue: 0,0:03:02.83,0:03:02.91,DedzuyaSigns,,0,0,0,,{\pos(861.015,490.5)\fscx100.01\fscy99.976\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
-Dialogue: 0,0:03:02.91,0:03:02.95,DedzuyaSigns,,0,0,0,,{\pos(941.1,378.135)\fscx100.36\fscy100.326\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
-Dialogue: 0,0:03:02.95,0:03:03.00,DedzuyaSigns,,0,0,0,,{\pos(994.065,303.72)\fscx100.6\fscy100.566\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
-Dialogue: 0,0:03:03.00,0:03:03.04,DedzuyaSigns,,0,0,0,,{\pos(1016.94,271.515)\fscx100.65\fscy100.616\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
-Dialogue: 0,0:03:03.04,0:03:03.41,DedzuyaSigns,,0,0,0,,{\pos(1023.03,262.965)\fscx100.73\fscy100.696\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
-Dialogue: 0,0:03:03.41,0:03:03.45,DedzuyaSigns,,0,0,0,,{\pos(1084.743,175.536)\fscx100.73\fscy100.696\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
+Dialogue: 0,0:03:02.70,0:03:02.95,DedzuyaSigns,,0,0,0,,{=21}{\c&H939285&\blur1.2\fnCommissioner Medium\b0\fax-0.061596\fscx59.79\fscy59.24\frz-32.7342\frx0.2091\fry-0.9154\org(1160.25,373.9)\pos(1161.63,373.9)}V-ați făcut tema la Japoneză?
+Dialogue: 0,0:03:02.70,0:03:02.95,DedzuyaSigns,,0,0,0,,{=19}{\fnCommissioner Medium\c&H939285&\blur1.2\fax-0.039014\fscx59.80\fscy59.34\frz-33.1616\frx-0.1145\fry-1.0935\org(869.91,491.65)\pos(870.78,491.65)}Fir-ar... Am dormit prea mult
+Comment: 0,0:03:02.70,0:03:02.91,DedzuyaSigns,,0,0,0,,{\pos(1158,375)\fscx99.966\frz327\fry-1.334\fax-0.06\fnVAGRounded Lt-Normal\fs36\b1\c&H888B81&\blur1.2}You guys do your Japanese homework?
+Comment: 0,0:03:02.91,0:03:02.95,DedzuyaSigns,,0,0,0,,{\pos(1240.5,259.5)\fscx99.966\frz327.4\fry-1.334\fax-0.06\fnVAGRounded Lt-Normal\fs36\b1\c&H888B81&\blur1.2}You guys do your Japanese homework?
+Comment: 0,0:03:02.70,0:03:02.83,DedzuyaSigns,,0,0,0,,{\pos(861,490.5)\fscy99.966\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
+Comment: 0,0:03:02.83,0:03:02.91,DedzuyaSigns,,0,0,0,,{\pos(861.015,490.5)\fscx100.01\fscy99.976\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
+Comment: 0,0:03:02.91,0:03:02.95,DedzuyaSigns,,0,0,0,,{\pos(941.1,378.135)\fscx100.36\fscy100.326\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
+Comment: 0,0:03:02.95,0:03:03.00,DedzuyaSigns,,0,0,0,,{\pos(994.065,303.72)\fscx100.6\fscy100.566\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
+Comment: 0,0:03:03.00,0:03:03.04,DedzuyaSigns,,0,0,0,,{\pos(1016.94,271.515)\fscx100.65\fscy100.616\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
+Comment: 0,0:03:03.04,0:03:03.41,DedzuyaSigns,,0,0,0,,{\pos(1023.03,262.965)\fscx100.73\fscy100.696\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
+Comment: 0,0:03:03.41,0:03:03.45,DedzuyaSigns,,0,0,0,,{\pos(1084.743,175.536)\fscx100.73\fscy100.696\frz327.4\frx1.334\fax-0.02\fnVAGRounded Lt-Normal\fs34.5\b1\c&H8A8866&\blur1.2}Shit... I slept in\N
 Dialogue: 0,0:03:02.70,0:03:02.91,DedzuyaSigns,,0,0,0,,{\pos(736.5,664.5)\fscy99.865\frz326.1\frx2.669\fax-0.01\fnVAGRounded Lt-Normal\fs33.75\b1\c&H8A8866&\blur1.2}Why am I not surprised?
 Dialogue: 0,0:03:02.91,0:03:02.95,DedzuyaSigns,,0,0,0,,{\pos(815.625,553.41)\fscx100.36\fscy100.224\frz326.1\frx2.669\fax-0.01\fnVAGRounded Lt-Normal\fs33.75\b1\c&H8A8866&\blur1.2}Why am I not surprised?
 Dialogue: 0,0:03:02.95,0:03:03.00,DedzuyaSigns,,0,0,0,,{\pos(867.975,479.955)\fscx100.61\fscy100.474\frz326.1\frx2.669\fax-0.01\fnVAGRounded Lt-Normal\fs33.75\b1\c&H8A8866&\blur1.2}Why am I not surprised?
@@ -660,7 +661,7 @@ Dialogue: 0,0:03:05.92,0:03:05.96,DedzuyaSigns,,0,0,0,,{\pos(904.155,895.065)\fs
 Dialogue: 0,0:03:05.96,0:03:06.00,DedzuyaSigns,,0,0,0,,{\pos(909.39,887.895)\fscx103.7\fscy103.84\frz326.4\fry-2.669\fax-0.01\fay-0.01\fnVAGRounded Lt-Normal\fs31.5\b1\c&H8A8866&\2a&HFF&\blur1.2} She's definitely my {\ko1}type.
 Dialogue: 0,0:03:07.96,0:03:09.46,DedzuyaSigns,,0,0,0,,{\pos(1090.5,102)\fscx99.865\fscy99.966\frz346.7\fry-2.669\frx1.334\fax0.2\fay0.01\fnwhatever it takes\fs114\c&HA9A691&\blur1}Tougetsu Hana
 Dialogue: 0,0:02:58.70,0:03:02.70,DedzuyaSigns,,0,0,0,,{\move(1138.5,367.5,1506.435,366.66,29,3992)\fscx99.159\fscy99.966\fry-6.704\frx1.334\fay-0.04\fnwhatever it takes\fs45\c&HCFCEAF&\blur1\t(29,3992,\fscy103.46)\t(29,3992,\frz0)\t(29,3992,\fscx103.46)}Tougetsu Hana
-Dialogue: 1,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\pos(1373.15,141)\fnITC Stone Sans Std Semibold\fs40.5\c&HEFEFEF&\blur0.75\be2}Drumul se redeschide în 4 ore
+Dialogue: 1,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\fnITC Stone Sans Std Semibold\fs40.5\c&HEFEFEF&\blur0.75\be2\pos(1375,109)}Drumul se redeschide în 4 ore
 Dialogue: 1,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\pos(1485.645,229.5)\fnITC Stone Sans Std Semibold\fs30\bord1.5\c&HD8D8DC&\3c&HC89084&\1a&HFF&\blur12}Poliția
 Dialogue: 2,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\pos(1485.645,229.5)\fnITC Stone Sans Std Semibold\fs30\c&HE2E2EB&\3c&HC89084&\1a&H2D&\blur1.27}Poliția
 Dialogue: 3,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\move(442.65,334.5,175,334.5)\fnITC Stone Sans Std Semibold\fs21\c&HEDEFE7&\3c&HC89084&\blur1.2\clip(248,291,684,348)}Vă rugăm să așteptați redeschiderea drumului
@@ -669,7 +670,17 @@ Dialogue: 2,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\move(1146.645,220.5,982
 Dialogue: 1,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\move(1146.645,220.5,982.515,219.255,30,2324)\fnITC Stone Sans Std Semibold\fs30\bord1.5\c&HF1EEEB&\3c&HC89084&\1a&HFF&\blur12\clip(345,180,1392,245)\t(30,2324,\fscy100.03)\t(30,2324,\frz0)\t(30,2324,\fscx100.03)}Vă mulțumim pentru înțelegere!
 Dialogue: 2,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\move(560.145,220.5,395.835,222.255,30,2324)\fnITC Stone Sans Std Semibold\fs30\c&HECE7E4&\blur1.27\clip(345,180,1392,245)\t(30,2324,\fscy100.03)\t(30,2324,\frz0)\t(30,2324,\fscx100.03)}Vă mulțumim pentru înțelegere!
 Dialogue: 1,0:03:15.80,0:03:18.14,DedzuyaSigns,,0,0,0,,{\move(560.145,220.5,395.835,222.255,30,2324)\fnITC Stone Sans Std Semibold\fs30\bord1.5\c&HF6EFE1&\3c&HC89084&\1a&HFF&\blur12\clip(345,180,1392,245)\t(30,2324,\fscy100.03)\t(30,2324,\frz0)\t(30,2324,\fscx100.03)}Vă mulțumim pentru înțelegere!
-Dialogue: 0,0:07:17.00,0:07:20.25,DedzuyaSigns,,0,0,0,TS,{\move(512.5,366,435.75,354.86,19,3230)\frz48.6\fnAnother Name for\c&H171A3A&\blur1.27\t(19,3230,\fscy102.37)\t(19,3230,\fscy102.37)\t(19,3230,\fscx102.37)\t(19,3230,\fscx102.37)\t(200,3500,1.2,\blur9.75)}Accesul interzis
+Dialogue: 0,0:07:17.00,0:07:20.25,DedzuyaSigns,,0,0,0,,{=2}{\alpha&H00&\move(512,366,437.73,356.48,20,3231)\frz48.6\fnAnother Name for\c&H161939&\blur1.27\t(19,3230,\fscy102.37)\t(19,3230,\fscy102.37)\t(19,3230,\fscx102.37)\t(19,3230,\fscx102.37)\t(200,3500,1.2,\blur9.5)}Accesul interzis
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,{\an7\blur5\bord0\shad0\fscx100\fscy100\pos(0,0)\p1\c&HF6F3ED&}m 1011 70 l 1495 216 1301 553 838 380
+Dialogue: 1,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,{=24}{\c&H423F39&\fax-0.210796\fscx34.39\fscy34.19\frz-17.6091\frx1.4825\fry-2.2806\org(1242.72,148.33)\pos(1245.44,148.33)\blur1}Liceul Maritim Enoshima, Prefectura Kanagawa
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,: 00043-354-24012
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,Clasa: 2-3
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,Hiromi Kunieda
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,Data nașterii: 28.12.2021
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,Vârstă: 17 ani
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,Grupa sanguină: OI
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,D767-7002-1141
+Comment: 0,0:08:41.29,0:08:43.34,DedzuyaSigns,,0,0,0,,Înăltime: 155 cm   Greutate: 51,2 kg
 Dialogue: 99,0:00:17.04,0:00:19.75,Dialogue,,0,0,0,,{\i1}My family has always been awkward.
 Dialogue: 99,0:00:19.75,0:00:20.50,Dialogue,,0,0,0,,Yuu!
 Dialogue: 99,0:00:21.42,0:00:23.92,Dialogue,,0,0,0,,Today is an important day for your sister!
@@ -1043,3 +1054,9 @@ Dialogue: 0,0:07:20.25,0:07:20.63,DedzuyaSigns,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"77500801-957c-4428-8d29-e9104c91be35"#2C"originalText"#3A"{\\fscy103.17\\fscx103.17\\fs21\\fax-0.01\\fay-0.01\\blur0.8\\b1\\fnVAGRounded Lt-Normal\\c&H8A8866&\\frx0\\fry356\\2c&H0000FF&\\2a&HFF&\\frz324.2\\be0.3\\pos(381.8#2C643.2)}I'm gonna ask her to have lunch with us~"}
+Data: 2,a-mo,e{"originalText"#3A"{\\pos(512#2C366)\\frz48.6\\fnAnother Name for\\c&H171A3A&\\blur1.27\\t(19#2C3230#2C\\fscy102.37)\\t(19#2C3230#2C\\fscy102.37)\\t(19#2C3230#2C\\fscx102.37)\\t(19#2C3230#2C\\fscx102.37)\\t(200#2C3500#2C1.2#2C\\blur9.75)}Accesul interzis"#2C"uuid"#3A"59be1e25-a5a0-4ed9-b68f-c612dc8bb462"}
+Data: 19,_aegi_perspective_ambient_plane,e713.57;246.00#7C1212.57;567.99#7C1125.71;686.86#7C632.00;363.43
+Data: 21,_aegi_perspective_ambient_plane,e862.23;35.69#7C1666.52;545.75#7C1573.46;669.72#7C775.89;155.56
+Data: 22,_aegi_perspective_ambient_plane,e1024;16#7C1850.93;270.4#7C1619.2;686.4#7C816;382.4
+Data: 23,_aegi_perspective_ambient_plane,e1023.95;15.95#7C1850.85;270.33#7C1619.26;686.45#7C816.05;382.46
+Data: 24,_aegi_perspective_ambient_plane,e1024.10;16.00#7C1851.20;270.45#7C1618.01;685.94#7C814.96;382.01
