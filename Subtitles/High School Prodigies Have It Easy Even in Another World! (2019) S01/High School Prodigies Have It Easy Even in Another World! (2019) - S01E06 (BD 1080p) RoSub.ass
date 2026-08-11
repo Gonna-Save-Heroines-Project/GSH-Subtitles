@@ -34,343 +34,343 @@ Comment: 0,0:02:43.02,0:02:43.06,Dialogue,chptr,0,0,0,,{Partea A}
 Comment: 0,0:12:20.01,0:12:20.05,Dialogue,chptr,0,0,0,,{Partea B}
 Comment: 0,0:21:55.00,0:21:55.04,Dialogue,chptr,0,0,0,,{ED}
 Comment: 0,0:23:25.01,0:23:25.05,Dialogue,chptr,0,0,0,,{Epilog}
-Dialogue: 100,0:00:04.23,0:00:05.73,Dialogue,Tsukasa,0,0,0,,Acesa e planul de reformare al taxelor.
-Dialogue: 100,0:00:06.22,0:00:07.98,Dialogue,Tsukasa,0,0,0,,Te rog să-l implementezi cât mai rapid.
-Dialogue: 100,0:00:11.60,0:00:15.61,Dialogue,Tsukasa,0,0,0,,Vom renunța la sistemul actual de clase și vom implementa un nou set de legi.
-Dialogue: 100,0:00:15.61,0:00:16.95,Dialogue,Tsukasa,0,0,0,,Vreo obiecție?
-Dialogue: 100,0:00:19.95,0:00:21.48,Dialogue,Tsukasa,0,0,0,,Bun.
-Dialogue: 100,0:00:21.48,0:00:23.80,Dialogue,Tsukasa,0,0,0,,Iar acum, pentru \Nurmătoarea noastră reformă,
-Dialogue: 100,0:00:23.80,0:00:25.18,Dialogue,Tsukasa,0,0,0,,ne vom adresa acestor lucruri...
-Dialogue: 100,0:00:29.59,0:00:30.60,Dialogue,Tsukasa,0,0,0,,Îți mulțumesc.
-Dialogue: 100,0:00:30.60,0:00:32.05,Dialogue,Tsukasa,0,0,0,,Te poți odihni acum.
-Dialogue: 100,0:00:32.63,0:00:34.44,Dialogue,Haizerad,0,0,0,,Așa voi face.
-Dialogue: 100,0:00:40.36,0:00:41.50,Dialogue,Tsukasa,0,0,0,,Aveai nevoie de ceva?
-Dialogue: 100,0:00:41.50,0:00:44.67,Dialogue,Haizerad,0,0,0,,Tu când dormi?
-Dialogue: 100,0:00:44.67,0:00:46.60,Dialogue,Tsukasa,0,0,0,,Oh, asta e tot?
-Dialogue: 100,0:00:47.12,0:00:51.87,Dialogue,Haizerad,0,0,0,,Toată lumea spune că îngerul Credinței celor Șapte Lumini nu doarme niciodată.
-Dialogue: 100,0:00:51.87,0:00:56.33,Dialogue,Haizerad,0,0,0,,Privindu-te acum, chiar le dau dreptate.
-Dialogue: 100,0:00:56.33,0:01:00.37,Dialogue,Tsukasa,0,0,0,,Ei bine, vă muncesc din greu pe voi, \Nnobilii deveniți oficiali ai guvernului.
-Dialogue: 100,0:01:01.14,0:01:04.62,Dialogue,Tsukasa,0,0,0,,Nu ar fi corect ca eu să merg și să trag un pui de somn când fac asta cu voi, nu?
-Dialogue: 100,0:01:05.89,0:01:08.54,Dialogue,Tsukasa,0,0,0,,Totuși, nu trebuie să-ți faci griji. \NMă odihnesc îndeajuns.
-Dialogue: 100,0:01:09.17,0:01:12.34,Dialogue,Tsukasa,0,0,0,,Dar o fac după ce-mi termin treaba.
-Dialogue: 100,0:02:52.47,0:02:54.36,Dialogue,Keine,0,0,0,,Recuperarea merge bine.
-Dialogue: 100,0:02:54.36,0:02:57.64,Dialogue,Winnona,0,0,0,,Vai, ești uimitoare.
-Dialogue: 100,0:02:57.64,0:03:00.36,Dialogue,Winnona,0,0,0,,Mațele îi erau pe afară acum ceva timp,
-Dialogue: 100,0:03:00.87,0:03:03.32,Dialogue,Winnona,0,0,0,,dar acum pare să nu \Nmai aibă nicio problemă.
-Dialogue: 100,0:03:03.32,0:03:04.03,Dialogue,Winnona,0,0,0,,Nu-i așa?
-Dialogue: 100,0:03:04.03,0:03:07.07,Dialogue,Ulga,0,0,0,,Au! Ești mereu așa de dură!
-Dialogue: 100,0:03:07.07,0:03:09.35,Dialogue,Winnona,0,0,0,,Sunt fiica ta, la urma urmei!
-Dialogue: 100,0:03:10.40,0:03:11.37,Dialogue,Ulga,0,0,0,,Doamne...
-Dialogue: 100,0:03:12.05,0:03:15.50,Dialogue,Ulga,0,0,0,,Îți sunt cu adevărat dator, doctor Keine.
-Dialogue: 100,0:03:16.40,0:03:19.13,Dialogue,Keine,0,0,0,,Doar mi-am făcut treaba de doctor.
-Dialogue: 100,0:03:19.13,0:03:21.74,Dialogue,Winnona,0,0,0,,Nu te putem lăsa să dormi la nesfârșit.
-Dialogue: 100,0:03:21.74,0:03:24.47,Dialogue,Winnona,0,0,0,,S-au întâmplat lucruri mari cât \Ntimp tu erai în lumea viselor.
-Dialogue: 100,0:03:24.96,0:03:29.20,Dialogue,Ulga,0,0,0,,Da, satul nostru a pornit \Nun război cu imperiul.
-Dialogue: 100,0:03:29.20,0:03:31.80,Dialogue,Winnona,0,0,0,,Ai ratat ceva foarte tare!
-Dialogue: 100,0:03:32.35,0:03:35.81,Dialogue,Ulga,0,0,0,,Trebuie să mă vindec repede și să mă alătur următoarei bătălii!
-Dialogue: 100,0:03:35.81,0:03:37.58,Dialogue,Keine,0,0,0,,Dacă intenționezi să te suprasoliciți,
-Dialogue: 100,0:03:37.58,0:03:40.24,Dialogue,,0,0,0,,te voi pune la somn \Npentru o perioadă mai lungă.
-Dialogue: 100,0:03:42.20,0:03:43.80,Dialogue,Keine,0,0,0,,Doamne.
-Dialogue: 100,0:03:43.80,0:03:46.95,Dialogue,Keine,0,0,0,,Te rog să ai mai multă grijă de corpul tău.
-Dialogue: 100,0:03:46.95,0:03:48.82,Dialogue,Winnona,0,0,0,,Îmi pare rău.
-Dialogue: 100,0:03:51.13,0:03:52.14,Dialogue,Keine,0,0,0,,Roo?
-Dialogue: 100,0:03:52.14,0:03:53.44,Dialogue,Winnona,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:03:53.44,0:03:55.88,Dialogue,Roo,0,0,0,,Unu ori cinci egal... cinci.
-Dialogue: 100,0:04:07.48,0:04:10.52,Dialogue,Roo,0,0,0,,Sunt vioaie din nou!
-Dialogue: 100,0:04:10.52,0:04:13.19,Dialogue,Winnona,0,0,0,,Ce naiba făceai, fără mâncare și apă?
-Dialogue: 100,0:04:13.78,0:04:17.56,Dialogue,Roo,0,0,0,,Dl profesor îmi va da un test cu înmulțiri,
-Dialogue: 100,0:04:18.01,0:04:21.32,Dialogue,Roo,0,0,0,,deci încerc să memorez tabla înmulțirii.
-Dialogue: 100,0:04:21.32,0:04:22.62,Dialogue,Winnona,0,0,0,,„Tabla înmulțirii?”
-Dialogue: 100,0:04:22.62,0:04:24.46,Dialogue,Roo,0,0,0,,Există și un cântec cu asta.
-Dialogue: 100,0:04:24.46,0:04:27.86,Dialogue,Keine,0,0,0,,Memorarea lui face mai \Nușoară învățarea tablei înmulțirii.
-Dialogue: 100,0:04:28.87,0:04:30.33,Dialogue,Winnona,0,0,0,,Înmulțiri, nu?
-Dialogue: 100,0:04:30.33,0:04:32.16,Dialogue,Ulga,0,0,0,,Înmulțiri?
-Dialogue: 100,0:04:32.16,0:04:33.83,Dialogue,Ulga,0,0,0,,Nici eu nu mă pricep la asta.
-Dialogue: 100,0:04:35.12,0:04:37.33,Dialogue,Winnona,0,0,0,,Vei fi bine, Roo!
-Dialogue: 100,0:04:37.86,0:04:41.21,Dialogue,Winnona,0,0,0,,Poți trăi foarte bine și \Nfără să știi să faci înmulțiri!
-Dialogue: 100,0:04:41.21,0:04:44.36,Dialogue,Ulga,0,0,0,,Da, da! Exact ca noi!
-Dialogue: 100,0:04:47.12,0:04:49.64,Dialogue,Roo,0,0,0,,Niște exemple bune de cum să nu ajungi...
-Dialogue: 100,0:04:50.50,0:04:54.81,Dialogue,Roo,0,0,0,,Profesorul meu mi-a spus că tabla înmulțirii reprezintă bazele unui comerciant.
-Dialogue: 100,0:04:54.81,0:04:57.18,Dialogue,Roo,0,0,0,,Dar nu o pot reține pe toată...
-Dialogue: 100,0:04:58.72,0:05:01.26,Dialogue,Keine,0,0,0,,Bazele sunt importante în orice.
-Dialogue: 100,0:05:01.26,0:05:03.78,Dialogue,Keine,0,0,0,,Deci, va trebui doar să continui \Nși să te pregătești mai mult.
-Dialogue: 100,0:05:12.69,0:05:15.64,Dialogue,Tsukasa,0,0,0,,Văd că centrala electrică arată bine.
-Dialogue: 100,0:05:15.64,0:05:18.08,Dialogue,Masato,0,0,0,,Am reușit și să punem mâna pe o cantitate imensă de cărbuni.
-Dialogue: 100,0:05:19.00,0:05:23.12,Dialogue,Ringo,0,0,0,,Stochez puterea pe care o generează în acumulatori de capacitate mare
-Dialogue: 100,0:05:23.12,0:05:26.47,Dialogue,,0,0,0,,luați din reactorul nostru \Nnuclear în miniatură.
-Dialogue: 100,0:05:27.36,0:05:31.97,Dialogue,Bearabbit,0,0,0,,{\i1}O vom „urs-testa” mâine!
-Dialogue: 100,0:05:31.97,0:05:35.60,Dialogue,Tsukasa,0,0,0,,Atunci, asta ne va rezolva \Nproblema cu energia.
-Dialogue: 100,0:05:35.60,0:05:37.23,Dialogue,Tsukasa,0,0,0,,Mersi, Ringo.
-Dialogue: 100,0:05:40.07,0:05:44.91,Dialogue,Ringo,0,0,0,,În acest caz, voi trece la \Nurmătorul proiect, bine?
-Dialogue: 100,0:05:44.91,0:05:46.20,Dialogue,Tsukasa,0,0,0,,Mă bazez pe tine.
-Dialogue: 100,0:05:46.20,0:05:48.30,Dialogue,Bearabbit,0,0,0,,{\i1}La „urs-revedere”!
-Dialogue: 100,0:05:51.36,0:05:52.83,Dialogue,Masato,0,0,0,,Următorul proiect?
-Dialogue: 100,0:05:53.23,0:05:57.34,Dialogue,Tsukasa,0,0,0,,Producerea de mașinării precum: strungul și mașina de frezat.
-Dialogue: 100,0:05:57.34,0:05:59.10,Dialogue,Tsukasa,0,0,0,,Pentru bătălia din primăvară,
-Dialogue: 100,0:05:59.10,0:06:01.96,Dialogue,,0,0,0,,plănuiesc să echipez o parte din armata noastră cu arme de foc.
-Dialogue: 100,0:06:01.96,0:06:04.11,Dialogue,Masato,0,0,0,,Modernizarea armatei, nu?
-Dialogue: 100,0:06:04.11,0:06:06.84,Dialogue,Masato,0,0,0,,Stai, de ce nu construiești \No fabrică automată?
-Dialogue: 100,0:06:07.20,0:06:10.44,Dialogue,Tsukasa,0,0,0,,Ei bine, mi-ar plăcea ca oamenii acestei lumi să poată crea arme și praf de pușcă
-Dialogue: 100,0:06:10.44,0:06:12.97,Dialogue,,0,0,0,,singuri pe cât mai mult posibil.
-Dialogue: 100,0:06:13.50,0:06:16.20,Dialogue,Tsukasa,0,0,0,,La urma urmei, asta e lupta lor.
-Dialogue: 100,0:06:16.20,0:06:17.23,Dialogue,Masato,0,0,0,,Înțeleg.
-Dialogue: 100,0:06:17.72,0:06:20.62,Dialogue,Masato,0,0,0,,Dacă le-am da totul pe tavă,
-Dialogue: 100,0:06:20.62,0:06:21.93,Dialogue,,0,0,0,,munca noastră ar fi degeaba.
-Dialogue: 100,0:06:21.93,0:06:23.23,Dialogue,Tsukasa,0,0,0,,Exact.
-Dialogue: 100,0:06:23.23,0:06:29.98,Dialogue,Tsukasa,0,0,0,,Pe lângă asta, avem nevoie ca Ringo să construiască un sistem de apărare aerian cât mai repede posibil.
-Dialogue: 100,0:06:30.74,0:06:32.22,Dialogue,Masato,0,0,0,,Un sistem de apărare aerian?
-Dialogue: 100,0:06:32.22,0:06:35.24,Dialogue,Masato,0,0,0,,Crezi că vom fi atacați cu rachete? \NÎn această lume?
-Dialogue: 100,0:06:35.24,0:06:39.74,Dialogue,Tsukasa,0,0,0,,Această lume are propria versiune de război aerian, cu magie și dragoni.
-Dialogue: 100,0:06:39.74,0:06:42.12,Dialogue,Tsukasa,0,0,0,,Trebuie să fim precauți la \N ce ar putea veni din ceruri.
-Dialogue: 100,0:06:42.12,0:06:45.25,Dialogue,Tsukasa,0,0,0,,Pe lângă asta, am primit un \Nraport interesant de la Shinobu.
-Dialogue: 100,0:06:46.28,0:06:47.56,Dialogue,Tsukasa,0,0,0,,Flăcările Cerului?
-Dialogue: 100,0:06:47.56,0:06:48.67,Dialogue,Shinobu,0,0,0,,{\i1}Exact!
-Dialogue: 100,0:06:48.67,0:06:53.68,Dialogue,Shinobu,0,0,0,,E o vrajă tactică cu puterea \Nde a șterge un oraș întreg.
-Dialogue: 100,0:06:53.98,0:06:56.68,Dialogue,Shinobu,0,0,0,,Guvernatorul țărilor nordice, \NOlso El Gustave,
-Dialogue: 100,0:06:56.68,0:06:59.47,Dialogue,Shinobu,0,0,0,,a folosit Flăcările Cerului în ultimul război,
-Dialogue: 100,0:06:59.47,0:07:03.56,Dialogue,Shinobu,0,0,0,,creând o mare de flăcări \Nîn orașele națiunii inamice.
-Dialogue: 100,0:07:04.04,0:07:06.19,Dialogue,Masato,0,0,0,,Guvernatorul țărilor nordice, nu?
-Dialogue: 100,0:07:06.56,0:07:08.28,Dialogue,Masato,0,0,0,,O spui de parcă există o posibilitate mare
-Dialogue: 100,0:07:08.28,0:07:11.20,Dialogue,,0,0,0,,să ne atace cu aceste Flăcări \Nale Cerului aici în Dormundt.
-Dialogue: 100,0:07:11.53,0:07:13.27,Dialogue,Tsukasa,0,0,0,,Exact.
-Dialogue: 100,0:07:13.27,0:07:14.79,Dialogue,Lyrule,0,0,0,,Tsukasa!
-Dialogue: 100,0:07:16.08,0:07:17.22,Dialogue,Tsukasa,0,0,0,,Lyrule?
-Dialogue: 100,0:07:17.72,0:07:20.91,Dialogue,Tsukasa,0,0,0,,Nu te-ai întors în satul \NElm cu Winona și ceilalți?
-Dialogue: 100,0:07:21.88,0:07:25.88,Dialogue,Lyrule,0,0,0,,Ei bine, tot acest război \Na început din cauza mea,
-Dialogue: 100,0:07:26.52,0:07:29.53,Dialogue,Lyrule,0,0,0,,deci voiam să vă fiu de ajutor cumva.
-Dialogue: 100,0:07:29.53,0:07:32.13,Dialogue,Lyrule,0,0,0,,De asta ajut cu distribuirea \Nmâncării chiar acum.
-Dialogue: 100,0:07:32.48,0:07:33.76,Dialogue,Tsukasa,0,0,0,,Înțeleg.
-Dialogue: 100,0:07:33.76,0:07:35.47,Dialogue,Tsukasa,0,0,0,,Mersi. Ne ești de mare ajutor.
-Dialogue: 100,0:07:36.96,0:07:38.93,Dialogue,Lyrule,0,0,0,,Hei, Tsukasa?
-Dialogue: 100,0:07:39.52,0:07:40.68,Dialogue,Tsukasa,0,0,0,,Ce este?
-Dialogue: 100,0:07:41.83,0:07:43.31,Dialogue,Lyrule,0,0,0,,Dacă nu te deranjează,
-Dialogue: 100,0:07:43.78,0:07:46.44,Dialogue,Lyrule,0,0,0,,am putea lua prânzul împreună?
-Dialogue: 100,0:07:47.28,0:07:51.45,Dialogue,Lyrule,0,0,0,,Voiam să-ți mulțumesc cum se cuvinte pentru că m-ai salvat.
-Dialogue: 100,0:07:54.05,0:07:57.20,Dialogue,Tsukasa,0,0,0,,Îți apreciez oferta, dar voi accepta doar intenția deocamdată.
-Dialogue: 100,0:07:58.58,0:08:00.94,Dialogue,Tsukasa,0,0,0,,E nevoie de mine la o întâlnire,
-Dialogue: 100,0:08:00.94,0:08:03.34,Dialogue,Tsukasa,0,0,0,,așa că trebuie să plec chiar acum.
-Dialogue: 100,0:08:05.89,0:08:11.24,Dialogue,Lyrule,0,0,0,,Masato, crezi că Tsukasa mă urăște?
-Dialogue: 100,0:08:11.24,0:08:14.28,Dialogue,Masato,0,0,0,,Nici gând. E doar foarte ocupat.
-Dialogue: 100,0:08:14.28,0:08:15.80,Dialogue,Lyrule,0,0,0,,Asta crezi?
-Dialogue: 100,0:08:16.14,0:08:20.43,Dialogue,Lyrule,0,0,0,,Îmi dă impresia că mă ține la distanță.
-Dialogue: 100,0:08:21.09,0:08:22.18,Dialogue,Masato,0,0,0,,Lyrule...
-Dialogue: 100,0:08:22.18,0:08:24.28,Dialogue,Lyrule,0,0,0,,Cred că e supărat.
-Dialogue: 100,0:08:24.28,0:08:26.80,Dialogue,Lyrule,0,0,0,,Deoarece am pornit acest război...
-Dialogue: 100,0:08:26.80,0:08:28.19,Dialogue,Masato,0,0,0,,Asta nu e adevărat.
-Dialogue: 100,0:08:28.19,0:08:31.10,Dialogue,Lyrule,0,0,0,,Atunci, crede că urechile \Nmele sunt dezgustătoare?
-Dialogue: 100,0:08:31.10,0:08:32.38,Dialogue,Masato,0,0,0,,Liniștește-te.
-Dialogue: 100,0:08:32.38,0:08:33.79,Dialogue,Masato,0,0,0,,Totul e în regulă.
-Dialogue: 100,0:08:33.79,0:08:36.18,Dialogue,Lyrule,0,0,0,,Dar, dar...
-Dialogue: 100,0:08:37.03,0:08:40.12,Dialogue,Masato,0,0,0,,Chiar nu este ceva pentru care să plângi!
-Dialogue: 100,0:08:40.12,0:08:43.16,Dialogue,Lyrule,0,0,0,,Dar sunt foarte îngrijorată...
-Dialogue: 100,0:08:48.64,0:08:53.36,Dialogue,Masato,0,0,0,,Ascultă, doar îi e greu să fie în preajma ta doarece se simte vinovat.
-Dialogue: 100,0:08:53.36,0:08:54.33,Dialogue,Lyrule,0,0,0,,Poftim?
-Dialogue: 100,0:08:55.92,0:08:59.50,Dialogue,Masato,0,0,0,,Când toată lumea din \Nsat voia să te salveze,
-Dialogue: 100,0:08:59.50,0:09:02.52,Dialogue,Masato,0,0,0,,el a fost singurul care a \Nsugerat să te abandoneze.
-Dialogue: 100,0:09:03.98,0:09:06.15,Dialogue,Lyrule,0,0,0,,Nu știam asta...
-Dialogue: 100,0:09:06.84,0:09:09.05,Dialogue,Masato,0,0,0,,Totuși, te rog să nu înțelegi greșit.
-Dialogue: 100,0:09:09.05,0:09:12.73,Dialogue,Masato,0,0,0,,Nu a făcut-o deoarece \N{\i1}nu ar fi vrut{\i0} să te salveze.
-Dialogue: 100,0:09:14.00,0:09:16.53,Dialogue,Masato,0,0,0,,A făcut acea sugestie deoarece \Nîși făcea griji pentru sat.
-Dialogue: 100,0:09:17.11,0:09:19.28,Dialogue,Lyrule,0,0,0,,Da, înțeleg asta.
-Dialogue: 100,0:09:23.09,0:09:27.00,Dialogue,Masato,0,0,0,,El pune mereu pe primul \Nloc fericirea majorității,
-Dialogue: 100,0:09:27.46,0:09:31.46,Dialogue,Masato,0,0,0,,chiar dacă asta înseamnă să \Nsacrifice ceea ce îi este drag lui.
-Dialogue: 100,0:09:32.33,0:09:34.35,Dialogue,Masato,0,0,0,,Este un lucru pe care nu-l \Nvoi înțelege niciodată.
-Dialogue: 100,0:09:34.35,0:09:37.15,Dialogue,Masato,0,0,0,,Să fiu sincer, cred că este nebun.
-Dialogue: 100,0:09:38.06,0:09:39.93,Dialogue,Masato,0,0,0,,Dar, ei bine, știi tu!
-Dialogue: 100,0:09:39.93,0:09:44.18,Dialogue,Masato,0,0,0,,Acel idiot s-a închis în el, \Ndeci lasă-l așa o vreme și va fi bine.
-Dialogue: 100,0:09:48.40,0:09:49.81,Dialogue,Official,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:09:49.81,0:09:51.68,Dialogue,Official,0,0,0,,Ne-ai cerut evaluări \Nasupra vechimii clădirilor,
-Dialogue: 100,0:09:51.68,0:09:56.83,Dialogue,Official,0,0,0,,dar meșterii care ne însoțeau au spus că nu pot fi mai preciși de atât.
-Dialogue: 100,0:09:56.83,0:09:57.45,Dialogue,Tsukasa,0,0,0,,Bine.
-Dialogue: 100,0:09:57.84,0:10:00.60,Dialogue,Tsukasa,0,0,0,,Asta e o informație importantă pentru dezvoltarea și îmbunătățirea orașului.
-Dialogue: 100,0:10:01.20,0:10:03.58,Dialogue,Tsukasa,0,0,0,,Ați făcut o treabă bună \Ncu această sarcină dificilă.
-Dialogue: 100,0:10:04.58,0:10:06.27,Dialogue,Tsukasa,0,0,0,,Vă puteți lua liber mâine.
-Dialogue: 100,0:10:06.27,0:10:07.80,Dialogue,Tsukasa,0,0,0,,Odihniți-vă.
-Dialogue: 100,0:10:08.94,0:10:10.54,Dialogue,Official,0,0,0,,Îți mulțumim!
-Dialogue: 100,0:10:15.94,0:10:18.05,Dialogue,Tsukasa,0,0,0,,Cred că m-am suprasolicitat puțin.
-Dialogue: 100,0:10:21.93,0:10:23.29,Dialogue,Tsukasa,0,0,0,,Cine e?
-Dialogue: 100,0:10:23.29,0:10:24.47,Dialogue,Lyrule,0,0,0,,Sunt eu, Lyrule.
-Dialogue: 100,0:10:24.47,0:10:27.23,Dialogue,Lyrule,0,0,0,,Îmi poți acorda puțin din timpul tău?
-Dialogue: 100,0:10:29.96,0:10:32.88,Dialogue,Tsukasa,0,0,0,,Scuze, dar am o zi încărcată mâine,
-Dialogue: 100,0:10:32.88,0:10:35.40,Dialogue,,0,0,0,,așa că plănuiam să mă culc \Ndevreme în seara asta.
-Dialogue: 100,0:10:35.40,0:10:37.44,Dialogue,Tsukasa,0,0,0,,Ai putea veni altă dată?
-Dialogue: 100,0:10:37.44,0:10:38.67,Dialogue,Lyrule,0,0,0,,Înțeleg.
-Dialogue: 100,0:10:38.67,0:10:42.51,Dialogue,Lyrule,0,0,0,,Dacă ești pe cale să mergi la culcare, \Nînseamnă ai terminat cu treaba pe ziua de azi, nu?
-Dialogue: 100,0:10:42.51,0:10:43.45,Dialogue,Tsukasa,0,0,0,,Ce?
-Dialogue: 100,0:10:44.61,0:10:45.79,Dialogue,Lyrule,0,0,0,,Te rog să mă scuzi!
-Dialogue: 100,0:10:45.79,0:10:48.66,Dialogue,Tsukasa,0,0,0,,E-E ceva atât de urgent?
-Dialogue: 100,0:10:48.66,0:10:51.29,Dialogue,Lyrule,0,0,0,,Da. Te rog să mă lași să te răsplătesc.
-Dialogue: 100,0:10:51.29,0:10:53.46,Dialogue,Tsukasa,0,0,0,,Să mă răsplătești?
-Dialogue: 100,0:10:54.72,0:10:56.30,Dialogue,Lyrule,0,0,0,,Cere-mi orice.
-Dialogue: 100,0:10:56.60,0:10:59.80,Dialogue,Lyrule,0,0,0,,Voi face tot ce îmi stă în puteri!
-Dialogue: 100,0:11:06.31,0:11:08.44,Dialogue,Tsukasa,0,0,0,,Nu e nevoie de așa ceva.
-Dialogue: 100,0:11:08.44,0:11:12.77,Dialogue,Tsukasa,0,0,0,,Am încercat să te abandonez.
-Dialogue: 100,0:11:12.77,0:11:14.35,Dialogue,Lyrule,0,0,0,,Știu.
-Dialogue: 100,0:11:14.35,0:11:16.36,Dialogue,Lyrule,0,0,0,,Dar asta nu contează.
-Dialogue: 100,0:11:18.31,0:11:23.36,Dialogue,Lyrule,0,0,0,,Dacă salvarea satului însemna ca eu să îndur totul de una singură,
-Dialogue: 100,0:11:23.36,0:11:25.86,Dialogue,Lyrule,0,0,0,,atunci și eu mi-aș fi dorit asta.
-Dialogue: 100,0:11:25.86,0:11:26.74,Dialogue,Lyrule,0,0,0,,Și totuși...
-Dialogue: 100,0:11:27.20,0:11:30.75,Dialogue,Lyrule,0,0,0,,în ciuda acestui lucru, \Ntot ai venit să mă salvezi.
-Dialogue: 100,0:11:36.00,0:11:38.15,Dialogue,Lyrule,0,0,0,,Deci, te rog să mă lași \Nsă-ți mulțumesc măcar.
-Dialogue: 100,0:11:40.54,0:11:44.30,Dialogue,Tsukasa,0,0,0,,Nu sunt genul de persoană care crezi tu.
-Dialogue: 100,0:11:44.30,0:11:46.22,Dialogue,Lyrule,0,0,0,,Asta nu e adevărat!
-Dialogue: 100,0:11:46.22,0:11:48.52,Dialogue,Lyrule,0,0,0,,Ești o persoană foarte bună!
-Dialogue: 100,0:11:49.12,0:11:53.90,Dialogue,Lyrule,0,0,0,,Ne-ai introdus în lumea \Nmaionezei gândindu-te la copii.
-Dialogue: 100,0:11:53.90,0:11:57.27,Dialogue,Lyrule,0,0,0,,Tot tu ai fost cel care i-a \Nalungat pe acei bărbați violenți!
-Dialogue: 100,0:11:57.27,0:11:59.82,Dialogue,Lyrule,0,0,0,,Chiar și atunci când \NCăpetenia Pădurii ne-a atacat,
-Dialogue: 100,0:12:00.16,0:12:03.28,Dialogue,Lyrule,0,0,0,,tot tu te-ai gândit la toți cei din satul Elm!
-Dialogue: 100,0:12:03.64,0:12:04.78,Dialogue,Lyrule,0,0,0,,Tu...
-Dialogue: 100,0:12:05.16,0:12:07.53,Dialogue,Lyrule,0,0,0,,ești o persoană bună!
-Dialogue: 100,0:12:12.45,0:12:16.21,Dialogue,Tsukasa,0,0,0,,Știi, eu mi-am omorât propriul tată.
-Dialogue: 100,0:12:34.77,0:12:38.89,Dialogue,Tsukasa,0,0,0,,Când eram mic, îmi admiram \Ntatăl care era politician.
-Dialogue: 100,0:12:39.76,0:12:42.90,Dialogue,Tsukasa,0,0,0,,Dar, într-o zi, am descoperit ceva.
-Dialogue: 100,0:12:43.94,0:12:45.52,Dialogue,Tsukasa,0,0,0,,Am aflat că puterea lui
-Dialogue: 100,0:12:45.52,0:12:49.10,Dialogue,,0,0,0,,a fost construită pe temelia unor fapte corupte de care nu aș fi dorit să știu vreodată.
-Dialogue: 100,0:12:49.84,0:12:55.70,Dialogue,Tsukasa,0,0,0,,Nu mi-am putut ierta tatăl pentru că a păcălit oamenii și a abuzat de puterea lui.
-Dialogue: 100,0:12:56.40,0:13:00.36,Dialogue,Tsukasa,0,0,0,,Am lucrat alături de Shinobu și comerciant ca să scoatem la iveală faptele greșite ale tatălui meu.
-Dialogue: 100,0:13:00.36,0:13:01.42,Dialogue,Tsukasa,0,0,0,,A fost dus în instanță
-Dialogue: 100,0:13:03.40,0:13:05.91,Dialogue,,0,0,0,,și condamnat la moarte.
-Dialogue: 100,0:13:09.25,0:13:12.22,Dialogue,Mother,0,0,0,,Ești nebun!
-Dialogue: 100,0:13:14.55,0:13:17.61,Dialogue,Tsukasa,0,0,0,,Punând pe primul plan \Ndreptatea față de oameni,
-Dialogue: 100,0:13:17.61,0:13:21.15,Dialogue,,0,0,0,,mi-am trimis tatăl la moarte.
-Dialogue: 100,0:13:23.92,0:13:27.28,Dialogue,Tsukasa,0,0,0,,Mama mea încă mă urăște \Npentru ceea ce am făcut.
-Dialogue: 100,0:13:27.92,0:13:29.40,Dialogue,Tsukasa,0,0,0,,Și e ceva normal.
-Dialogue: 100,0:13:29.40,0:13:34.79,Dialogue,Tsukasa,0,0,0,,Chiar dacă a comis acele crime, \Nîncă rămâne omul pe care ea l-a iubit.
-Dialogue: 100,0:13:35.07,0:13:35.98,Dialogue,Tsukasa,0,0,0,,Dar...
-Dialogue: 100,0:13:36.79,0:13:40.47,Dialogue,,0,0,0,,nu-mi pot ierta tatăl pentru ce a făcut.
-Dialogue: 100,0:13:45.27,0:13:47.67,Dialogue,Tsukasa,0,0,0,,De ce {\i1}plângi{\i0}?
-Dialogue: 100,0:13:48.37,0:13:50.72,Dialogue,Lyrule,0,0,0,,Îmi pare rău. Când mă gândesc...
-Dialogue: 100,0:13:51.05,0:13:53.40,Dialogue,Lyrule,0,0,0,,la experiențele prin care ai trecut...
-Dialogue: 100,0:13:53.40,0:13:54.71,Dialogue,Lyrule,0,0,0,,mă întristez foarte tare...
-Dialogue: 100,0:13:56.05,0:13:59.73,Dialogue,Lyrule,0,0,0,,De ce ai mers atât de departe? \NNu ți-a fost greu?
-Dialogue: 100,0:14:02.63,0:14:03.73,Dialogue,Tsukasa,0,0,0,,Ba da.
-Dialogue: 100,0:14:04.22,0:14:06.06,Dialogue,Tsukasa,0,0,0,,Dar nu regret nimic.
-Dialogue: 100,0:14:06.53,0:14:09.74,Dialogue,Tsukasa,0,0,0,,Deoarece genul de politician \Ncare mă străduiesc să fiu
-Dialogue: 100,0:14:11.03,0:14:15.05,Dialogue,Tsukasa,0,0,0,,poate exista numai dacă ești un sfânt gata să se sacrifice oricând.
-Dialogue: 100,0:14:16.37,0:14:18.22,Dialogue,Lyrule,0,0,0,,Tsukasa...
-Dialogue: 100,0:14:20.48,0:14:21.55,Dialogue,Tsukasa,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:14:21.55,0:14:23.55,Dialogue,Tsukasa,0,0,0,,Nu a fost o poveste prea plăcută.
-Dialogue: 100,0:14:31.01,0:14:32.55,Dialogue,Tsukasa,0,0,0,,Lyrule?
-Dialogue: 100,0:14:33.97,0:14:35.95,Dialogue,Lyrule,0,0,0,,Tsukasa, ești egoist.
-Dialogue: 100,0:14:35.95,0:14:38.98,Dialogue,Lyrule,0,0,0,,Te simți vinovat pentru sugestia ta de atunci și te distanțezi de mine.
-Dialogue: 100,0:14:40.28,0:14:43.98,Dialogue,Lyrule,0,0,0,,Crezi că e normal să te urăsc,
-Dialogue: 100,0:14:43.98,0:14:47.82,Dialogue,Lyrule,0,0,0,,dar nu voi lăsa să se întâmple asta!
-Dialogue: 100,0:14:48.99,0:14:52.70,Dialogue,Lyrule,0,0,0,,Nu te voi urî niciodată, Tsukasa!
-Dialogue: 100,0:15:02.05,0:15:04.59,Dialogue,Tsukasa,0,0,0,,Mă dau bătut. Ai câștigat.
-Dialogue: 100,0:15:05.44,0:15:06.59,Dialogue,Lyrule,0,0,0,,Vrei să spui că...
-Dialogue: 100,0:15:07.48,0:15:11.09,Dialogue,Tsukasa,0,0,0,,Atunci, îți voi da o \Nsarcină destul de dificilă.
-Dialogue: 100,0:15:11.37,0:15:12.59,Dialogue,Tsukasa,0,0,0,,Ai face bine să te pregătești.
-Dialogue: 100,0:15:12.59,0:15:13.69,Dialogue,Lyrule,0,0,0,,Ce?
-Dialogue: 100,0:15:17.35,0:15:22.10,Dialogue,Lyrule,0,0,0,,Hei, Tsukasa, c-ce este...
-Dialogue: 100,0:15:22.10,0:15:24.98,Dialogue,Tsukasa,0,0,0,,Ai spus că vei face orice pentru mine.
-Dialogue: 100,0:15:25.29,0:15:29.61,Dialogue,Tsukasa,0,0,0,,Ar trebui să mă pot odihni \Nîntr-o oră cât pentru trei astfel.
-Dialogue: 100,0:15:29.61,0:15:34.32,Dialogue,Lyrule,0,0,0,,B-Bine. Atunci, poți dormi așa \Ntoată noaptea, nu doar o oră!
-Dialogue: 100,0:15:34.32,0:15:37.16,Dialogue,Tsukasa,0,0,0,,Îți vor amorți picioarele.
-Dialogue: 100,0:15:37.56,0:15:41.03,Dialogue,Tsukasa,0,0,0,,Mă poți trezi dacă încep să te doară.
-Dialogue: 100,0:15:41.03,0:15:42.08,Dialogue,Lyrule,0,0,0,,Bine.
-Dialogue: 100,0:15:56.23,0:15:58.14,Dialogue,Tsukasa,0,0,0,,Mersi, Lyrule.
-Dialogue: 100,0:15:58.14,0:15:59.24,Dialogue,Lyrule,0,0,0,,Ce?
-Dialogue: 100,0:16:00.13,0:16:02.22,Dialogue,Tsukasa,0,0,0,,Pentru că ai plâns pentru mine.
-Dialogue: 100,0:16:02.68,0:16:04.86,Dialogue,Tsukasa,0,0,0,,M-a făcut să mă simt puțin mai bine.
-Dialogue: 100,0:16:05.60,0:16:06.66,Dialogue,Lyrule,0,0,0,,Bine.
-Dialogue: 100,0:16:25.28,0:16:27.23,Dialogue,Bearabbit,0,0,0,,{\i1}Ce? Ringo?
-Dialogue: 100,0:16:27.23,0:16:31.51,Dialogue,Bearabbit,0,0,0,,{\i1}Ce? Ai terminat deja \Nde vorbit cu Tsukasa?
-Dialogue: 100,0:16:31.51,0:16:34.38,Dialogue,Bearabbit,0,0,0,,{\i1}Hei, Ringo, credeam că îi \Nvei da lista de materiale
-Dialogue: 100,0:16:34.38,0:16:36.94,Dialogue,,0,0,0,,{\i1}și veți discuta despre \Nsistemul de producție?
-Dialogue: 100,0:16:36.94,0:16:39.39,Dialogue,Bearabbit,0,0,0,,{\i1}Nu cred că ai stat îndeajuns \Nde „urs-mult” ca să faci asta!
-Dialogue: 100,0:16:39.39,0:16:41.66,Dialogue,Bearabbit,0,0,0,,{\i1}Cumva nu ai „urs-reușit” să vorbești cu el?
-Dialogue: 100,0:16:41.66,0:16:45.52,Dialogue,Bearabbit,0,0,0,,{\i1}E nevoie ca să vin cu tine, urs, urs, urs?
-Dialogue: 100,0:17:00.24,0:17:05.93,Dialogue,Roo,0,0,0,,Unu ori patru este patru. \NUnu ori cinci este cinci. Unu ori șase este...
-Dialogue: 100,0:17:08.32,0:17:11.38,Dialogue,Roo,0,0,0,,Nu înțeleg tabla înmulțirii deloc!
-Dialogue: 100,0:17:12.21,0:17:14.42,Dialogue,Akatsuki,0,0,0,,Nu te uita încoace, bine?!
-Dialogue: 100,0:17:15.34,0:17:17.72,Dialogue,Aoi,0,0,0,,Am înțeles, deci, te rog să te grăbești.
-Dialogue: 100,0:17:18.45,0:17:21.51,Dialogue,Keine,0,0,0,,Oh, sunteți amândoi aici?
-Dialogue: 100,0:17:21.51,0:17:24.27,Dialogue,Akatsuki,0,0,0,,Hei?! D-De ce este și Keine aici?!
-Dialogue: 100,0:17:24.27,0:17:26.48,Dialogue,Aoi,0,0,0,,Oh, mai taci și grăbește-te!
-Dialogue: 100,0:17:26.48,0:17:28.58,Dialogue,Aoi,0,0,0,,Vrei să intri odată?!
-Dialogue: 100,0:17:32.74,0:17:36.52,Dialogue,Aoi,0,0,0,,Eu sunt un copil al erei Edo, deci cel mai mult urăsc vorbăria inutilă și statul degeaba!
-Dialogue: 100,0:17:39.29,0:17:42.81,Dialogue,Aoi,0,0,0,,Vai, nu mă așteptam să fii și tu aici, Roo.
-Dialogue: 100,0:17:42.81,0:17:44.66,Dialogue,Keine,0,0,0,,Te-ai rănit cumva?
-Dialogue: 100,0:17:44.66,0:17:47.67,Dialogue,Roo,0,0,0,,Nu, am fost doar luată \Npuțin prin surprindere.
-Dialogue: 100,0:17:49.67,0:17:54.17,Dialogue,Aoi,0,0,0,,E numai vina lui Akatsuki \Ndeoarece e așa de încăpățânat.
-Dialogue: 100,0:17:54.56,0:17:55.98,Dialogue,Akatsuki,0,0,0,,Asta e prea ciudat!
-Dialogue: 100,0:17:55.98,0:17:58.68,Dialogue,Akatsuki,0,0,0,,De ce mă urmezi până și în baie?!
-Dialogue: 100,0:17:59.00,0:18:02.25,Dialogue,Aoi,0,0,0,,Tu ești întemeietorul \NCredinței celor Șapte Lumini.
-Dialogue: 100,0:18:02.25,0:18:04.89,Dialogue,Aoi,0,0,0,,Asta te cam face zeul nostru.
-Dialogue: 100,0:18:05.38,0:18:09.19,Dialogue,Aoi,0,0,0,,Deci, e perfect normal să ai \Nmereu o gardă de corp cu tine.
-Dialogue: 100,0:18:09.19,0:18:13.19,Dialogue,Akatsuki,0,0,0,,A-Atunci, Keine nu are de ce să fie aici!
-Dialogue: 100,0:18:13.72,0:18:18.57,Dialogue,Keine,0,0,0,,Ce? Dar nu mă deranjează deloc.
-Dialogue: 100,0:18:20.66,0:18:22.14,Dialogue,Akatsuki,0,0,0,,Renunț.
-Dialogue: 100,0:18:24.26,0:18:26.49,Dialogue,Akatsuki,0,0,0,,Roo, pari puțin tristă.
-Dialogue: 100,0:18:27.78,0:18:30.71,Dialogue,Roo,0,0,0,,Nu pot memora tabla înmulțirii...
-Dialogue: 100,0:18:30.71,0:18:32.96,Dialogue,Akatsuki,0,0,0,,Tabla înmulțirii, nu?
-Dialogue: 100,0:18:33.83,0:18:37.72,Dialogue,Roo,0,0,0,,Trebuie să trec testul dlui profesor.
-Dialogue: 100,0:18:37.72,0:18:39.04,Dialogue,Aoi,0,0,0,,Înțeleg.
-Dialogue: 100,0:18:39.04,0:18:41.72,Dialogue,Aoi,0,0,0,,Te antrenezi ca să devii \Nun comerciant, nu-i așa?
-Dialogue: 100,0:18:41.72,0:18:44.22,Dialogue,Keine,0,0,0,,E ucenica lui Masato.
-Dialogue: 100,0:18:44.90,0:18:50.34,Dialogue,Roo,0,0,0,,Numerele se tot amestecă \Nși nu vor să-mi intre în cap...
-Dialogue: 100,0:18:51.24,0:18:57.15,Dialogue,Aoi,0,0,0,,Privind-o pe Roo muncind din greu îmi amintește de mine când mă antrenam.
-Dialogue: 100,0:18:58.02,0:19:03.16,Dialogue,Aoi,0,0,0,,Eram complet sătulă să repet \Naceeași lovitură iar și iar.
-Dialogue: 100,0:19:03.16,0:19:05.39,Dialogue,Akatsuki,0,0,0,,Da, știu la ce te referi.
-Dialogue: 100,0:19:05.39,0:19:08.41,Dialogue,Akatsuki,0,0,0,,Învățarea trucurilor magice \Nînseamnă repetiție la greu.
-Dialogue: 100,0:19:08.90,0:19:13.34,Dialogue,Akatsuki,0,0,0,,Deoarece știam deja trucul pe de rost, \Nnu mai era distractiv deloc.
-Dialogue: 100,0:19:14.13,0:19:15.88,Dialogue,Keine,0,0,0,,Așa este.
-Dialogue: 100,0:19:16.48,0:19:20.52,Dialogue,Keine,0,0,0,,A trebuit să memorez cărți \Nîntregi de anatomie și remedii.
-Dialogue: 100,0:19:22.89,0:19:26.04,Dialogue,Roo,0,0,0,,Cum ați reușit să faceți față?
-Dialogue: 100,0:19:26.04,0:19:30.79,Dialogue,Aoi,0,0,0,,Am început să învăț Stilul \NIchijou de la o vârstă fragedă...
-Dialogue: 100,0:19:30.79,0:19:33.40,Dialogue,Aoi,0,0,0,,dar, într-o zi, mi-am găsit un țel.
-Dialogue: 100,0:19:34.04,0:19:35.15,Dialogue,Roo,0,0,0,,Un țel?
-Dialogue: 100,0:19:35.48,0:19:38.73,Dialogue,Aoi,0,0,0,,M-am îndrăgostit de o telenovelă cu samurai numită {\i1}Shogunul liber{\i0}.
-Dialogue: 100,0:19:38.73,0:19:42.66,Dialogue,Aoi,0,0,0,,Voiam să devin cineva care poate fi de folos celor neajutorați cu sabia sa.
-Dialogue: 100,0:19:44.13,0:19:45.66,Dialogue,Roo,0,0,0,,Iar voi doi?
-Dialogue: 100,0:19:45.66,0:19:48.52,Dialogue,Akatsuki,0,0,0,,Ei bine, când eram în școala primară,
-Dialogue: 100,0:19:48.52,0:19:50.97,Dialogue,,0,0,0,,am avut senzația că acesta era singurul lucru care mă făcea fericit.
-Dialogue: 100,0:19:52.39,0:19:55.17,Dialogue,Roo,0,0,0,,Mă întreb care este scopul meu...
-Dialogue: 100,0:19:55.17,0:19:57.77,Dialogue,Aoi,0,0,0,,Nu este așa de greu să-ți dai seama.
-Dialogue: 100,0:19:57.77,0:20:01.17,Dialogue,Aoi,0,0,0,,Doar gândește-te la ce-ți dorești.
-Dialogue: 100,0:20:01.17,0:20:05.68,Dialogue,Keine,0,0,0,,Când există un lucru pe care vrei să-l faci, tot ce rămâne e să lucrezi din greu pentru el, nu-i așa?
-Dialogue: 100,0:20:05.68,0:20:07.31,Dialogue,Roo,0,0,0,,Ceea ce vreau să fac?
-Dialogue: 100,0:20:09.00,0:20:12.23,Dialogue,Roo,0,0,0,,Gata, știu!
-Dialogue: 100,0:20:13.73,0:20:15.20,Dialogue,Roo,0,0,0,,Și eu voi munci din greu!
-Dialogue: 100,0:20:15.20,0:20:18.23,Dialogue,Roo,0,0,0,,Voi munci din greu, voi memora tot și voi învinge tabla înmulțirii!
-Dialogue: 100,0:20:18.23,0:20:20.74,Dialogue,Aoi,0,0,0,,Într-adevăr! Acesta este spiritul!
-Dialogue: 100,0:20:20.74,0:20:23.91,Dialogue,Akatsuki,0,0,0,,Știu. Spune-mi ceva ce îți place, Roo.
-Dialogue: 100,0:20:23.91,0:20:25.28,Dialogue,Roo,0,0,0,,Banii!
-Dialogue: 100,0:20:25.28,0:20:28.64,Dialogue,Akatsuki,0,0,0,,O-Oh... Păi, și asta merge.
-Dialogue: 100,0:20:28.64,0:20:31.31,Dialogue,Akatsuki,0,0,0,,Conceptul de număr \Ntinde să fie puțin abstract,
-Dialogue: 100,0:20:31.31,0:20:33.71,Dialogue,,0,0,0,,așa că de ce nu încerci să-ți imaginezi că lucrezi cu bani când faci calcule?
-Dialogue: 100,0:20:34.34,0:20:36.46,Dialogue,Roo,0,0,0,,Bani?
-Dialogue: 100,0:20:36.46,0:20:37.21,Dialogue,Akatsuki,0,0,0,,Da.
-Dialogue: 100,0:20:37.50,0:20:41.98,Dialogue,Akatsuki,0,0,0,,Cinci ori cinci ar însemna că ai cinci teancuri de cinci monede fiecare.
-Dialogue: 100,0:20:42.79,0:20:45.02,Dialogue,Roo,0,0,0,,Știu! Asta înseamnă 25 de monede!
-Dialogue: 100,0:20:45.02,0:20:46.72,Dialogue,Roo,0,0,0,,M-am prins!
-Dialogue: 100,0:20:46.72,0:20:47.95,Dialogue,Keine,0,0,0,,Vai!
-Dialogue: 100,0:20:47.95,0:20:49.42,Dialogue,Akatsuki,0,0,0,,S-Serios?
-Dialogue: 100,0:20:49.42,0:20:51.72,Dialogue,Akatsuki,0,0,0,,Atunci, cât este șapte ori șapte?
-Dialogue: 100,0:20:54.13,0:20:55.53,Dialogue,Roo,0,0,0,,Patruzeci și nouă de monede!
-Dialogue: 100,0:20:55.53,0:20:57.15,Dialogue,Akatsuki,0,0,0,,Așa este.
-Dialogue: 100,0:20:57.15,0:20:59.42,Dialogue,Akatsuki,0,0,0,,Atunci, opt ori nouă?
-Dialogue: 100,0:21:00.92,0:21:02.17,Dialogue,Roo,0,0,0,,Șaptezeci și două de monede!
-Dialogue: 100,0:21:02.17,0:21:03.28,Dialogue,Akatsuki,0,0,0,,Pe bune?!
-Dialogue: 100,0:21:03.28,0:21:04.36,Dialogue,Akatsuki,0,0,0,,A-Atunci...
-Dialogue: 100,0:21:04.36,0:21:06.49,Dialogue,Akatsuki,0,0,0,,Douăzeci și patru ori \Ntrei sute șaizeci și cinci!
-Dialogue: 100,0:21:08.80,0:21:10.67,Dialogue,Akatsuki,0,0,0,,8.760 de monede!
-Dialogue: 100,0:21:10.67,0:21:12.25,Dialogue,Akatsuki,0,0,0,,C-Corect!
-Dialogue: 100,0:21:12.25,0:21:14.50,Dialogue,Roo,0,0,0,,Am reușit!
-Dialogue: 100,0:21:14.50,0:21:16.75,Dialogue,Roo,0,0,0,,Am reușit!
-Dialogue: 100,0:21:16.75,0:21:20.38,Dialogue,Roo,0,0,0,,Am învins înmulțirea!
-Dialogue: 100,0:21:26.63,0:21:31.52,Dialogue,Aoi,0,0,0,,Ei bine, Roo ar fi trebuit \Ntreacă testul, nu-i așa?
-Dialogue: 100,0:21:31.52,0:21:32.60,Dialogue,Keine,0,0,0,,Da.
-Dialogue: 100,0:21:32.60,0:21:36.60,Dialogue,Aoi,0,0,0,,Atunci, de ce arată de parcă \Ni s-au înnecat corăbiile?
-Dialogue: 100,0:21:36.60,0:21:39.66,Dialogue,Keine,0,0,0,,Se pare că următorul \Ntest este împărțirea.
-Dialogue: 100,0:21:39.66,0:21:40.81,Dialogue,Aoi,0,0,0,,Ah...
-Dialogue: 100,0:21:41.23,0:21:44.24,Dialogue,Aoi,0,0,0,,Drumul spre a deveni un comerciant e unul destul de primejdios.
-Dialogue: 100,0:21:45.24,0:21:48.34,Dialogue,Roo,0,0,0,,Monedele lui Roo continuă să dispară...
-Dialogue: 100,0:21:49.83,0:21:51.80,Dialogue,Roo,0,0,0,,Împărțirea este înfricoșătoare...
-Dialogue: 100,0:23:28.80,0:23:30.70,Dialogue,Shinobu,0,0,0,,Ascultă, El.
-Dialogue: 100,0:23:31.25,0:23:31.93,Dialogue,Shinobu,0,0,0,,Acesta este...
-Dialogue: 100,0:23:33.81,0:23:35.68,Dialogue,,0,0,0,,adevărul din spatele acestui sat.
-Dialogue: 100,0:23:37.32,0:23:39.27,Dialogue,Elch,0,0,0,,Ce este asta?
+Dialogue: 99,0:00:04.23,0:00:05.73,Dialogue,Tsukasa,0,0,0,,Acesa e planul de reformare al taxelor.
+Dialogue: 99,0:00:06.22,0:00:07.98,Dialogue,Tsukasa,0,0,0,,Te rog să-l implementezi cât mai rapid.
+Dialogue: 99,0:00:11.60,0:00:15.61,Dialogue,Tsukasa,0,0,0,,Vom renunța la sistemul actual de clase și vom implementa un nou set de legi.
+Dialogue: 99,0:00:15.61,0:00:16.95,Dialogue,Tsukasa,0,0,0,,Vreo obiecție?
+Dialogue: 99,0:00:19.95,0:00:21.48,Dialogue,Tsukasa,0,0,0,,Bun.
+Dialogue: 99,0:00:21.48,0:00:23.80,Dialogue,Tsukasa,0,0,0,,Iar acum, pentru \Nurmătoarea noastră reformă,
+Dialogue: 99,0:00:23.80,0:00:25.18,Dialogue,Tsukasa,0,0,0,,ne vom adresa acestor lucruri...
+Dialogue: 99,0:00:29.59,0:00:30.60,Dialogue,Tsukasa,0,0,0,,Îți mulțumesc.
+Dialogue: 99,0:00:30.60,0:00:32.05,Dialogue,Tsukasa,0,0,0,,Te poți odihni acum.
+Dialogue: 99,0:00:32.63,0:00:34.44,Dialogue,Haizerad,0,0,0,,Așa voi face.
+Dialogue: 99,0:00:40.36,0:00:41.50,Dialogue,Tsukasa,0,0,0,,Aveai nevoie de ceva?
+Dialogue: 99,0:00:41.50,0:00:44.67,Dialogue,Haizerad,0,0,0,,Tu când dormi?
+Dialogue: 99,0:00:44.67,0:00:46.60,Dialogue,Tsukasa,0,0,0,,Oh, asta e tot?
+Dialogue: 99,0:00:47.12,0:00:51.87,Dialogue,Haizerad,0,0,0,,Toată lumea spune că îngerul Credinței celor Șapte Lumini nu doarme niciodată.
+Dialogue: 99,0:00:51.87,0:00:56.33,Dialogue,Haizerad,0,0,0,,Privindu-te acum, chiar le dau dreptate.
+Dialogue: 99,0:00:56.33,0:01:00.37,Dialogue,Tsukasa,0,0,0,,Ei bine, vă muncesc din greu pe voi, \Nnobilii deveniți oficiali ai guvernului.
+Dialogue: 99,0:01:01.14,0:01:04.62,Dialogue,Tsukasa,0,0,0,,Nu ar fi corect ca eu să merg și să trag un pui de somn când fac asta cu voi, nu?
+Dialogue: 99,0:01:05.89,0:01:08.54,Dialogue,Tsukasa,0,0,0,,Totuși, nu trebuie să-ți faci griji. \NMă odihnesc îndeajuns.
+Dialogue: 99,0:01:09.17,0:01:12.34,Dialogue,Tsukasa,0,0,0,,Dar o fac după ce-mi termin treaba.
+Dialogue: 99,0:02:52.47,0:02:54.36,Dialogue,Keine,0,0,0,,Recuperarea merge bine.
+Dialogue: 99,0:02:54.36,0:02:57.64,Dialogue,Winnona,0,0,0,,Vai, ești uimitoare.
+Dialogue: 99,0:02:57.64,0:03:00.36,Dialogue,Winnona,0,0,0,,Mațele îi erau pe afară acum ceva timp,
+Dialogue: 99,0:03:00.87,0:03:03.32,Dialogue,Winnona,0,0,0,,dar acum pare să nu \Nmai aibă nicio problemă.
+Dialogue: 99,0:03:03.32,0:03:04.03,Dialogue,Winnona,0,0,0,,Nu-i așa?
+Dialogue: 99,0:03:04.03,0:03:07.07,Dialogue,Ulga,0,0,0,,Au! Ești mereu așa de dură!
+Dialogue: 99,0:03:07.07,0:03:09.35,Dialogue,Winnona,0,0,0,,Sunt fiica ta, la urma urmei!
+Dialogue: 99,0:03:10.40,0:03:11.37,Dialogue,Ulga,0,0,0,,Doamne...
+Dialogue: 99,0:03:12.05,0:03:15.50,Dialogue,Ulga,0,0,0,,Îți sunt cu adevărat dator, doctor Keine.
+Dialogue: 99,0:03:16.40,0:03:19.13,Dialogue,Keine,0,0,0,,Doar mi-am făcut treaba de doctor.
+Dialogue: 99,0:03:19.13,0:03:21.74,Dialogue,Winnona,0,0,0,,Nu te putem lăsa să dormi la nesfârșit.
+Dialogue: 99,0:03:21.74,0:03:24.47,Dialogue,Winnona,0,0,0,,S-au întâmplat lucruri mari cât \Ntimp tu erai în lumea viselor.
+Dialogue: 99,0:03:24.96,0:03:29.20,Dialogue,Ulga,0,0,0,,Da, satul nostru a pornit \Nun război cu imperiul.
+Dialogue: 99,0:03:29.20,0:03:31.80,Dialogue,Winnona,0,0,0,,Ai ratat ceva foarte tare!
+Dialogue: 99,0:03:32.35,0:03:35.81,Dialogue,Ulga,0,0,0,,Trebuie să mă vindec repede și să mă alătur următoarei bătălii!
+Dialogue: 99,0:03:35.81,0:03:37.58,Dialogue,Keine,0,0,0,,Dacă intenționezi să te suprasoliciți,
+Dialogue: 99,0:03:37.58,0:03:40.24,Dialogue,,0,0,0,,te voi pune la somn \Npentru o perioadă mai lungă.
+Dialogue: 99,0:03:42.20,0:03:43.80,Dialogue,Keine,0,0,0,,Doamne.
+Dialogue: 99,0:03:43.80,0:03:46.95,Dialogue,Keine,0,0,0,,Te rog să ai mai multă grijă de corpul tău.
+Dialogue: 99,0:03:46.95,0:03:48.82,Dialogue,Winnona,0,0,0,,Îmi pare rău.
+Dialogue: 99,0:03:51.13,0:03:52.14,Dialogue,Keine,0,0,0,,Roo?
+Dialogue: 99,0:03:52.14,0:03:53.44,Dialogue,Winnona,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:03:53.44,0:03:55.88,Dialogue,Roo,0,0,0,,Unu ori cinci egal... cinci.
+Dialogue: 99,0:04:07.48,0:04:10.52,Dialogue,Roo,0,0,0,,Sunt vioaie din nou!
+Dialogue: 99,0:04:10.52,0:04:13.19,Dialogue,Winnona,0,0,0,,Ce naiba făceai, fără mâncare și apă?
+Dialogue: 99,0:04:13.78,0:04:17.56,Dialogue,Roo,0,0,0,,Dl profesor îmi va da un test cu înmulțiri,
+Dialogue: 99,0:04:18.01,0:04:21.32,Dialogue,Roo,0,0,0,,deci încerc să memorez tabla înmulțirii.
+Dialogue: 99,0:04:21.32,0:04:22.62,Dialogue,Winnona,0,0,0,,„Tabla înmulțirii?”
+Dialogue: 99,0:04:22.62,0:04:24.46,Dialogue,Roo,0,0,0,,Există și un cântec cu asta.
+Dialogue: 99,0:04:24.46,0:04:27.86,Dialogue,Keine,0,0,0,,Memorarea lui face mai \Nușoară învățarea tablei înmulțirii.
+Dialogue: 99,0:04:28.87,0:04:30.33,Dialogue,Winnona,0,0,0,,Înmulțiri, nu?
+Dialogue: 99,0:04:30.33,0:04:32.16,Dialogue,Ulga,0,0,0,,Înmulțiri?
+Dialogue: 99,0:04:32.16,0:04:33.83,Dialogue,Ulga,0,0,0,,Nici eu nu mă pricep la asta.
+Dialogue: 99,0:04:35.12,0:04:37.33,Dialogue,Winnona,0,0,0,,Vei fi bine, Roo!
+Dialogue: 99,0:04:37.86,0:04:41.21,Dialogue,Winnona,0,0,0,,Poți trăi foarte bine și \Nfără să știi să faci înmulțiri!
+Dialogue: 99,0:04:41.21,0:04:44.36,Dialogue,Ulga,0,0,0,,Da, da! Exact ca noi!
+Dialogue: 99,0:04:47.12,0:04:49.64,Dialogue,Roo,0,0,0,,Niște exemple bune de cum să nu ajungi...
+Dialogue: 99,0:04:50.50,0:04:54.81,Dialogue,Roo,0,0,0,,Profesorul meu mi-a spus că tabla înmulțirii reprezintă bazele unui comerciant.
+Dialogue: 99,0:04:54.81,0:04:57.18,Dialogue,Roo,0,0,0,,Dar nu o pot reține pe toată...
+Dialogue: 99,0:04:58.72,0:05:01.26,Dialogue,Keine,0,0,0,,Bazele sunt importante în orice.
+Dialogue: 99,0:05:01.26,0:05:03.78,Dialogue,Keine,0,0,0,,Deci, va trebui doar să continui \Nși să te pregătești mai mult.
+Dialogue: 99,0:05:12.69,0:05:15.64,Dialogue,Tsukasa,0,0,0,,Văd că centrala electrică arată bine.
+Dialogue: 99,0:05:15.64,0:05:18.08,Dialogue,Masato,0,0,0,,Am reușit și să punem mâna pe o cantitate imensă de cărbuni.
+Dialogue: 99,0:05:19.00,0:05:23.12,Dialogue,Ringo,0,0,0,,Stochez puterea pe care o generează în acumulatori de capacitate mare
+Dialogue: 99,0:05:23.12,0:05:26.47,Dialogue,,0,0,0,,luați din reactorul nostru \Nnuclear în miniatură.
+Dialogue: 99,0:05:27.36,0:05:31.97,Dialogue,Bearabbit,0,0,0,,{\i1}O vom „urs-testa” mâine!
+Dialogue: 99,0:05:31.97,0:05:35.60,Dialogue,Tsukasa,0,0,0,,Atunci, asta ne va rezolva \Nproblema cu energia.
+Dialogue: 99,0:05:35.60,0:05:37.23,Dialogue,Tsukasa,0,0,0,,Mersi, Ringo.
+Dialogue: 99,0:05:40.07,0:05:44.91,Dialogue,Ringo,0,0,0,,În acest caz, voi trece la \Nurmătorul proiect, bine?
+Dialogue: 99,0:05:44.91,0:05:46.20,Dialogue,Tsukasa,0,0,0,,Mă bazez pe tine.
+Dialogue: 99,0:05:46.20,0:05:48.30,Dialogue,Bearabbit,0,0,0,,{\i1}La „urs-revedere”!
+Dialogue: 99,0:05:51.36,0:05:52.83,Dialogue,Masato,0,0,0,,Următorul proiect?
+Dialogue: 99,0:05:53.23,0:05:57.34,Dialogue,Tsukasa,0,0,0,,Producerea de mașinării precum: strungul și mașina de frezat.
+Dialogue: 99,0:05:57.34,0:05:59.10,Dialogue,Tsukasa,0,0,0,,Pentru bătălia din primăvară,
+Dialogue: 99,0:05:59.10,0:06:01.96,Dialogue,,0,0,0,,plănuiesc să echipez o parte din armata noastră cu arme de foc.
+Dialogue: 99,0:06:01.96,0:06:04.11,Dialogue,Masato,0,0,0,,Modernizarea armatei, nu?
+Dialogue: 99,0:06:04.11,0:06:06.84,Dialogue,Masato,0,0,0,,Stai, de ce nu construiești \No fabrică automată?
+Dialogue: 99,0:06:07.20,0:06:10.44,Dialogue,Tsukasa,0,0,0,,Ei bine, mi-ar plăcea ca oamenii acestei lumi să poată crea arme și praf de pușcă
+Dialogue: 99,0:06:10.44,0:06:12.97,Dialogue,,0,0,0,,singuri pe cât mai mult posibil.
+Dialogue: 99,0:06:13.50,0:06:16.20,Dialogue,Tsukasa,0,0,0,,La urma urmei, asta e lupta lor.
+Dialogue: 99,0:06:16.20,0:06:17.23,Dialogue,Masato,0,0,0,,Înțeleg.
+Dialogue: 99,0:06:17.72,0:06:20.62,Dialogue,Masato,0,0,0,,Dacă le-am da totul pe tavă,
+Dialogue: 99,0:06:20.62,0:06:21.93,Dialogue,,0,0,0,,munca noastră ar fi degeaba.
+Dialogue: 99,0:06:21.93,0:06:23.23,Dialogue,Tsukasa,0,0,0,,Exact.
+Dialogue: 99,0:06:23.23,0:06:29.98,Dialogue,Tsukasa,0,0,0,,Pe lângă asta, avem nevoie ca Ringo să construiască un sistem de apărare aerian cât mai repede posibil.
+Dialogue: 99,0:06:30.74,0:06:32.22,Dialogue,Masato,0,0,0,,Un sistem de apărare aerian?
+Dialogue: 99,0:06:32.22,0:06:35.24,Dialogue,Masato,0,0,0,,Crezi că vom fi atacați cu rachete? \NÎn această lume?
+Dialogue: 99,0:06:35.24,0:06:39.74,Dialogue,Tsukasa,0,0,0,,Această lume are propria versiune de război aerian, cu magie și dragoni.
+Dialogue: 99,0:06:39.74,0:06:42.12,Dialogue,Tsukasa,0,0,0,,Trebuie să fim precauți la \N ce ar putea veni din ceruri.
+Dialogue: 99,0:06:42.12,0:06:45.25,Dialogue,Tsukasa,0,0,0,,Pe lângă asta, am primit un \Nraport interesant de la Shinobu.
+Dialogue: 99,0:06:46.28,0:06:47.56,Dialogue,Tsukasa,0,0,0,,Flăcările Cerului?
+Dialogue: 99,0:06:47.56,0:06:48.67,Dialogue,Shinobu,0,0,0,,{\i1}Exact!
+Dialogue: 99,0:06:48.67,0:06:53.68,Dialogue,Shinobu,0,0,0,,E o vrajă tactică cu puterea \Nde a șterge un oraș întreg.
+Dialogue: 99,0:06:53.98,0:06:56.68,Dialogue,Shinobu,0,0,0,,Guvernatorul țărilor nordice, \NOlso El Gustave,
+Dialogue: 99,0:06:56.68,0:06:59.47,Dialogue,Shinobu,0,0,0,,a folosit Flăcările Cerului în ultimul război,
+Dialogue: 99,0:06:59.47,0:07:03.56,Dialogue,Shinobu,0,0,0,,creând o mare de flăcări \Nîn orașele națiunii inamice.
+Dialogue: 99,0:07:04.04,0:07:06.19,Dialogue,Masato,0,0,0,,Guvernatorul țărilor nordice, nu?
+Dialogue: 99,0:07:06.56,0:07:08.28,Dialogue,Masato,0,0,0,,O spui de parcă există o posibilitate mare
+Dialogue: 99,0:07:08.28,0:07:11.20,Dialogue,,0,0,0,,să ne atace cu aceste Flăcări \Nale Cerului aici în Dormundt.
+Dialogue: 99,0:07:11.53,0:07:13.27,Dialogue,Tsukasa,0,0,0,,Exact.
+Dialogue: 99,0:07:13.27,0:07:14.79,Dialogue,Lyrule,0,0,0,,Tsukasa!
+Dialogue: 99,0:07:16.08,0:07:17.22,Dialogue,Tsukasa,0,0,0,,Lyrule?
+Dialogue: 99,0:07:17.72,0:07:20.91,Dialogue,Tsukasa,0,0,0,,Nu te-ai întors în satul \NElm cu Winona și ceilalți?
+Dialogue: 99,0:07:21.88,0:07:25.88,Dialogue,Lyrule,0,0,0,,Ei bine, tot acest război \Na început din cauza mea,
+Dialogue: 99,0:07:26.52,0:07:29.53,Dialogue,Lyrule,0,0,0,,deci voiam să vă fiu de ajutor cumva.
+Dialogue: 99,0:07:29.53,0:07:32.13,Dialogue,Lyrule,0,0,0,,De asta ajut cu distribuirea \Nmâncării chiar acum.
+Dialogue: 99,0:07:32.48,0:07:33.76,Dialogue,Tsukasa,0,0,0,,Înțeleg.
+Dialogue: 99,0:07:33.76,0:07:35.47,Dialogue,Tsukasa,0,0,0,,Mersi. Ne ești de mare ajutor.
+Dialogue: 99,0:07:36.96,0:07:38.93,Dialogue,Lyrule,0,0,0,,Hei, Tsukasa?
+Dialogue: 99,0:07:39.52,0:07:40.68,Dialogue,Tsukasa,0,0,0,,Ce este?
+Dialogue: 99,0:07:41.83,0:07:43.31,Dialogue,Lyrule,0,0,0,,Dacă nu te deranjează,
+Dialogue: 99,0:07:43.78,0:07:46.44,Dialogue,Lyrule,0,0,0,,am putea lua prânzul împreună?
+Dialogue: 99,0:07:47.28,0:07:51.45,Dialogue,Lyrule,0,0,0,,Voiam să-ți mulțumesc cum se cuvinte pentru că m-ai salvat.
+Dialogue: 99,0:07:54.05,0:07:57.20,Dialogue,Tsukasa,0,0,0,,Îți apreciez oferta, dar voi accepta doar intenția deocamdată.
+Dialogue: 99,0:07:58.58,0:08:00.94,Dialogue,Tsukasa,0,0,0,,E nevoie de mine la o întâlnire,
+Dialogue: 99,0:08:00.94,0:08:03.34,Dialogue,Tsukasa,0,0,0,,așa că trebuie să plec chiar acum.
+Dialogue: 99,0:08:05.89,0:08:11.24,Dialogue,Lyrule,0,0,0,,Masato, crezi că Tsukasa mă urăște?
+Dialogue: 99,0:08:11.24,0:08:14.28,Dialogue,Masato,0,0,0,,Nici gând. E doar foarte ocupat.
+Dialogue: 99,0:08:14.28,0:08:15.80,Dialogue,Lyrule,0,0,0,,Asta crezi?
+Dialogue: 99,0:08:16.14,0:08:20.43,Dialogue,Lyrule,0,0,0,,Îmi dă impresia că mă ține la distanță.
+Dialogue: 99,0:08:21.09,0:08:22.18,Dialogue,Masato,0,0,0,,Lyrule...
+Dialogue: 99,0:08:22.18,0:08:24.28,Dialogue,Lyrule,0,0,0,,Cred că e supărat.
+Dialogue: 99,0:08:24.28,0:08:26.80,Dialogue,Lyrule,0,0,0,,Deoarece am pornit acest război...
+Dialogue: 99,0:08:26.80,0:08:28.19,Dialogue,Masato,0,0,0,,Asta nu e adevărat.
+Dialogue: 99,0:08:28.19,0:08:31.10,Dialogue,Lyrule,0,0,0,,Atunci, crede că urechile \Nmele sunt dezgustătoare?
+Dialogue: 99,0:08:31.10,0:08:32.38,Dialogue,Masato,0,0,0,,Liniștește-te.
+Dialogue: 99,0:08:32.38,0:08:33.79,Dialogue,Masato,0,0,0,,Totul e în regulă.
+Dialogue: 99,0:08:33.79,0:08:36.18,Dialogue,Lyrule,0,0,0,,Dar, dar...
+Dialogue: 99,0:08:37.03,0:08:40.12,Dialogue,Masato,0,0,0,,Chiar nu este ceva pentru care să plângi!
+Dialogue: 99,0:08:40.12,0:08:43.16,Dialogue,Lyrule,0,0,0,,Dar sunt foarte îngrijorată...
+Dialogue: 99,0:08:48.64,0:08:53.36,Dialogue,Masato,0,0,0,,Ascultă, doar îi e greu să fie în preajma ta doarece se simte vinovat.
+Dialogue: 99,0:08:53.36,0:08:54.33,Dialogue,Lyrule,0,0,0,,Poftim?
+Dialogue: 99,0:08:55.92,0:08:59.50,Dialogue,Masato,0,0,0,,Când toată lumea din \Nsat voia să te salveze,
+Dialogue: 99,0:08:59.50,0:09:02.52,Dialogue,Masato,0,0,0,,el a fost singurul care a \Nsugerat să te abandoneze.
+Dialogue: 99,0:09:03.98,0:09:06.15,Dialogue,Lyrule,0,0,0,,Nu știam asta...
+Dialogue: 99,0:09:06.84,0:09:09.05,Dialogue,Masato,0,0,0,,Totuși, te rog să nu înțelegi greșit.
+Dialogue: 99,0:09:09.05,0:09:12.73,Dialogue,Masato,0,0,0,,Nu a făcut-o deoarece \N{\i1}nu ar fi vrut{\i0} să te salveze.
+Dialogue: 99,0:09:14.00,0:09:16.53,Dialogue,Masato,0,0,0,,A făcut acea sugestie deoarece \Nîși făcea griji pentru sat.
+Dialogue: 99,0:09:17.11,0:09:19.28,Dialogue,Lyrule,0,0,0,,Da, înțeleg asta.
+Dialogue: 99,0:09:23.09,0:09:27.00,Dialogue,Masato,0,0,0,,El pune mereu pe primul \Nloc fericirea majorității,
+Dialogue: 99,0:09:27.46,0:09:31.46,Dialogue,Masato,0,0,0,,chiar dacă asta înseamnă să \Nsacrifice ceea ce îi este drag lui.
+Dialogue: 99,0:09:32.33,0:09:34.35,Dialogue,Masato,0,0,0,,Este un lucru pe care nu-l \Nvoi înțelege niciodată.
+Dialogue: 99,0:09:34.35,0:09:37.15,Dialogue,Masato,0,0,0,,Să fiu sincer, cred că este nebun.
+Dialogue: 99,0:09:38.06,0:09:39.93,Dialogue,Masato,0,0,0,,Dar, ei bine, știi tu!
+Dialogue: 99,0:09:39.93,0:09:44.18,Dialogue,Masato,0,0,0,,Acel idiot s-a închis în el, \Ndeci lasă-l așa o vreme și va fi bine.
+Dialogue: 99,0:09:48.40,0:09:49.81,Dialogue,Official,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:09:49.81,0:09:51.68,Dialogue,Official,0,0,0,,Ne-ai cerut evaluări \Nasupra vechimii clădirilor,
+Dialogue: 99,0:09:51.68,0:09:56.83,Dialogue,Official,0,0,0,,dar meșterii care ne însoțeau au spus că nu pot fi mai preciși de atât.
+Dialogue: 99,0:09:56.83,0:09:57.45,Dialogue,Tsukasa,0,0,0,,Bine.
+Dialogue: 99,0:09:57.84,0:10:00.60,Dialogue,Tsukasa,0,0,0,,Asta e o informație importantă pentru dezvoltarea și îmbunătățirea orașului.
+Dialogue: 99,0:10:01.20,0:10:03.58,Dialogue,Tsukasa,0,0,0,,Ați făcut o treabă bună \Ncu această sarcină dificilă.
+Dialogue: 99,0:10:04.58,0:10:06.27,Dialogue,Tsukasa,0,0,0,,Vă puteți lua liber mâine.
+Dialogue: 99,0:10:06.27,0:10:07.80,Dialogue,Tsukasa,0,0,0,,Odihniți-vă.
+Dialogue: 99,0:10:08.94,0:10:10.54,Dialogue,Official,0,0,0,,Îți mulțumim!
+Dialogue: 99,0:10:15.94,0:10:18.05,Dialogue,Tsukasa,0,0,0,,Cred că m-am suprasolicitat puțin.
+Dialogue: 99,0:10:21.93,0:10:23.29,Dialogue,Tsukasa,0,0,0,,Cine e?
+Dialogue: 99,0:10:23.29,0:10:24.47,Dialogue,Lyrule,0,0,0,,Sunt eu, Lyrule.
+Dialogue: 99,0:10:24.47,0:10:27.23,Dialogue,Lyrule,0,0,0,,Îmi poți acorda puțin din timpul tău?
+Dialogue: 99,0:10:29.96,0:10:32.88,Dialogue,Tsukasa,0,0,0,,Scuze, dar am o zi încărcată mâine,
+Dialogue: 99,0:10:32.88,0:10:35.40,Dialogue,,0,0,0,,așa că plănuiam să mă culc \Ndevreme în seara asta.
+Dialogue: 99,0:10:35.40,0:10:37.44,Dialogue,Tsukasa,0,0,0,,Ai putea veni altă dată?
+Dialogue: 99,0:10:37.44,0:10:38.67,Dialogue,Lyrule,0,0,0,,Înțeleg.
+Dialogue: 99,0:10:38.67,0:10:42.51,Dialogue,Lyrule,0,0,0,,Dacă ești pe cale să mergi la culcare, \Nînseamnă ai terminat cu treaba pe ziua de azi, nu?
+Dialogue: 99,0:10:42.51,0:10:43.45,Dialogue,Tsukasa,0,0,0,,Ce?
+Dialogue: 99,0:10:44.61,0:10:45.79,Dialogue,Lyrule,0,0,0,,Te rog să mă scuzi!
+Dialogue: 99,0:10:45.79,0:10:48.66,Dialogue,Tsukasa,0,0,0,,E-E ceva atât de urgent?
+Dialogue: 99,0:10:48.66,0:10:51.29,Dialogue,Lyrule,0,0,0,,Da. Te rog să mă lași să te răsplătesc.
+Dialogue: 99,0:10:51.29,0:10:53.46,Dialogue,Tsukasa,0,0,0,,Să mă răsplătești?
+Dialogue: 99,0:10:54.72,0:10:56.30,Dialogue,Lyrule,0,0,0,,Cere-mi orice.
+Dialogue: 99,0:10:56.60,0:10:59.80,Dialogue,Lyrule,0,0,0,,Voi face tot ce îmi stă în puteri!
+Dialogue: 99,0:11:06.31,0:11:08.44,Dialogue,Tsukasa,0,0,0,,Nu e nevoie de așa ceva.
+Dialogue: 99,0:11:08.44,0:11:12.77,Dialogue,Tsukasa,0,0,0,,Am încercat să te abandonez.
+Dialogue: 99,0:11:12.77,0:11:14.35,Dialogue,Lyrule,0,0,0,,Știu.
+Dialogue: 99,0:11:14.35,0:11:16.36,Dialogue,Lyrule,0,0,0,,Dar asta nu contează.
+Dialogue: 99,0:11:18.31,0:11:23.36,Dialogue,Lyrule,0,0,0,,Dacă salvarea satului însemna ca eu să îndur totul de una singură,
+Dialogue: 99,0:11:23.36,0:11:25.86,Dialogue,Lyrule,0,0,0,,atunci și eu mi-aș fi dorit asta.
+Dialogue: 99,0:11:25.86,0:11:26.74,Dialogue,Lyrule,0,0,0,,Și totuși...
+Dialogue: 99,0:11:27.20,0:11:30.75,Dialogue,Lyrule,0,0,0,,în ciuda acestui lucru, \Ntot ai venit să mă salvezi.
+Dialogue: 99,0:11:36.00,0:11:38.15,Dialogue,Lyrule,0,0,0,,Deci, te rog să mă lași \Nsă-ți mulțumesc măcar.
+Dialogue: 99,0:11:40.54,0:11:44.30,Dialogue,Tsukasa,0,0,0,,Nu sunt genul de persoană care crezi tu.
+Dialogue: 99,0:11:44.30,0:11:46.22,Dialogue,Lyrule,0,0,0,,Asta nu e adevărat!
+Dialogue: 99,0:11:46.22,0:11:48.52,Dialogue,Lyrule,0,0,0,,Ești o persoană foarte bună!
+Dialogue: 99,0:11:49.12,0:11:53.90,Dialogue,Lyrule,0,0,0,,Ne-ai introdus în lumea \Nmaionezei gândindu-te la copii.
+Dialogue: 99,0:11:53.90,0:11:57.27,Dialogue,Lyrule,0,0,0,,Tot tu ai fost cel care i-a \Nalungat pe acei bărbați violenți!
+Dialogue: 99,0:11:57.27,0:11:59.82,Dialogue,Lyrule,0,0,0,,Chiar și atunci când \NCăpetenia Pădurii ne-a atacat,
+Dialogue: 99,0:12:00.16,0:12:03.28,Dialogue,Lyrule,0,0,0,,tot tu te-ai gândit la toți cei din satul Elm!
+Dialogue: 99,0:12:03.64,0:12:04.78,Dialogue,Lyrule,0,0,0,,Tu...
+Dialogue: 99,0:12:05.16,0:12:07.53,Dialogue,Lyrule,0,0,0,,ești o persoană bună!
+Dialogue: 99,0:12:12.45,0:12:16.21,Dialogue,Tsukasa,0,0,0,,Știi, eu mi-am omorât propriul tată.
+Dialogue: 99,0:12:34.77,0:12:38.89,Dialogue,Tsukasa,0,0,0,,Când eram mic, îmi admiram \Ntatăl care era politician.
+Dialogue: 99,0:12:39.76,0:12:42.90,Dialogue,Tsukasa,0,0,0,,Dar, într-o zi, am descoperit ceva.
+Dialogue: 99,0:12:43.94,0:12:45.52,Dialogue,Tsukasa,0,0,0,,Am aflat că puterea lui
+Dialogue: 99,0:12:45.52,0:12:49.10,Dialogue,,0,0,0,,a fost construită pe temelia unor fapte corupte de care nu aș fi dorit să știu vreodată.
+Dialogue: 99,0:12:49.84,0:12:55.70,Dialogue,Tsukasa,0,0,0,,Nu mi-am putut ierta tatăl pentru că a păcălit oamenii și a abuzat de puterea lui.
+Dialogue: 99,0:12:56.40,0:13:00.36,Dialogue,Tsukasa,0,0,0,,Am lucrat alături de Shinobu și comerciant ca să scoatem la iveală faptele greșite ale tatălui meu.
+Dialogue: 99,0:13:00.36,0:13:01.42,Dialogue,Tsukasa,0,0,0,,A fost dus în instanță
+Dialogue: 99,0:13:03.40,0:13:05.91,Dialogue,,0,0,0,,și condamnat la moarte.
+Dialogue: 99,0:13:09.25,0:13:12.22,Dialogue,Mother,0,0,0,,Ești nebun!
+Dialogue: 99,0:13:14.55,0:13:17.61,Dialogue,Tsukasa,0,0,0,,Punând pe primul plan \Ndreptatea față de oameni,
+Dialogue: 99,0:13:17.61,0:13:21.15,Dialogue,,0,0,0,,mi-am trimis tatăl la moarte.
+Dialogue: 99,0:13:23.92,0:13:27.28,Dialogue,Tsukasa,0,0,0,,Mama mea încă mă urăște \Npentru ceea ce am făcut.
+Dialogue: 99,0:13:27.92,0:13:29.40,Dialogue,Tsukasa,0,0,0,,Și e ceva normal.
+Dialogue: 99,0:13:29.40,0:13:34.79,Dialogue,Tsukasa,0,0,0,,Chiar dacă a comis acele crime, \Nîncă rămâne omul pe care ea l-a iubit.
+Dialogue: 99,0:13:35.07,0:13:35.98,Dialogue,Tsukasa,0,0,0,,Dar...
+Dialogue: 99,0:13:36.79,0:13:40.47,Dialogue,,0,0,0,,nu-mi pot ierta tatăl pentru ce a făcut.
+Dialogue: 99,0:13:45.27,0:13:47.67,Dialogue,Tsukasa,0,0,0,,De ce {\i1}plângi{\i0}?
+Dialogue: 99,0:13:48.37,0:13:50.72,Dialogue,Lyrule,0,0,0,,Îmi pare rău. Când mă gândesc...
+Dialogue: 99,0:13:51.05,0:13:53.40,Dialogue,Lyrule,0,0,0,,la experiențele prin care ai trecut...
+Dialogue: 99,0:13:53.40,0:13:54.71,Dialogue,Lyrule,0,0,0,,mă întristez foarte tare...
+Dialogue: 99,0:13:56.05,0:13:59.73,Dialogue,Lyrule,0,0,0,,De ce ai mers atât de departe? \NNu ți-a fost greu?
+Dialogue: 99,0:14:02.63,0:14:03.73,Dialogue,Tsukasa,0,0,0,,Ba da.
+Dialogue: 99,0:14:04.22,0:14:06.06,Dialogue,Tsukasa,0,0,0,,Dar nu regret nimic.
+Dialogue: 99,0:14:06.53,0:14:09.74,Dialogue,Tsukasa,0,0,0,,Deoarece genul de politician \Ncare mă străduiesc să fiu
+Dialogue: 99,0:14:11.03,0:14:15.05,Dialogue,Tsukasa,0,0,0,,poate exista numai dacă ești un sfânt gata să se sacrifice oricând.
+Dialogue: 99,0:14:16.37,0:14:18.22,Dialogue,Lyrule,0,0,0,,Tsukasa...
+Dialogue: 99,0:14:20.48,0:14:21.55,Dialogue,Tsukasa,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:14:21.55,0:14:23.55,Dialogue,Tsukasa,0,0,0,,Nu a fost o poveste prea plăcută.
+Dialogue: 99,0:14:31.01,0:14:32.55,Dialogue,Tsukasa,0,0,0,,Lyrule?
+Dialogue: 99,0:14:33.97,0:14:35.95,Dialogue,Lyrule,0,0,0,,Tsukasa, ești egoist.
+Dialogue: 99,0:14:35.95,0:14:38.98,Dialogue,Lyrule,0,0,0,,Te simți vinovat pentru sugestia ta de atunci și te distanțezi de mine.
+Dialogue: 99,0:14:40.28,0:14:43.98,Dialogue,Lyrule,0,0,0,,Crezi că e normal să te urăsc,
+Dialogue: 99,0:14:43.98,0:14:47.82,Dialogue,Lyrule,0,0,0,,dar nu voi lăsa să se întâmple asta!
+Dialogue: 99,0:14:48.99,0:14:52.70,Dialogue,Lyrule,0,0,0,,Nu te voi urî niciodată, Tsukasa!
+Dialogue: 99,0:15:02.05,0:15:04.59,Dialogue,Tsukasa,0,0,0,,Mă dau bătut. Ai câștigat.
+Dialogue: 99,0:15:05.44,0:15:06.59,Dialogue,Lyrule,0,0,0,,Vrei să spui că...
+Dialogue: 99,0:15:07.48,0:15:11.09,Dialogue,Tsukasa,0,0,0,,Atunci, îți voi da o \Nsarcină destul de dificilă.
+Dialogue: 99,0:15:11.37,0:15:12.59,Dialogue,Tsukasa,0,0,0,,Ai face bine să te pregătești.
+Dialogue: 99,0:15:12.59,0:15:13.69,Dialogue,Lyrule,0,0,0,,Ce?
+Dialogue: 99,0:15:17.35,0:15:22.10,Dialogue,Lyrule,0,0,0,,Hei, Tsukasa, c-ce este...
+Dialogue: 99,0:15:22.10,0:15:24.98,Dialogue,Tsukasa,0,0,0,,Ai spus că vei face orice pentru mine.
+Dialogue: 99,0:15:25.29,0:15:29.61,Dialogue,Tsukasa,0,0,0,,Ar trebui să mă pot odihni \Nîntr-o oră cât pentru trei astfel.
+Dialogue: 99,0:15:29.61,0:15:34.32,Dialogue,Lyrule,0,0,0,,B-Bine. Atunci, poți dormi așa \Ntoată noaptea, nu doar o oră!
+Dialogue: 99,0:15:34.32,0:15:37.16,Dialogue,Tsukasa,0,0,0,,Îți vor amorți picioarele.
+Dialogue: 99,0:15:37.56,0:15:41.03,Dialogue,Tsukasa,0,0,0,,Mă poți trezi dacă încep să te doară.
+Dialogue: 99,0:15:41.03,0:15:42.08,Dialogue,Lyrule,0,0,0,,Bine.
+Dialogue: 99,0:15:56.23,0:15:58.14,Dialogue,Tsukasa,0,0,0,,Mersi, Lyrule.
+Dialogue: 99,0:15:58.14,0:15:59.24,Dialogue,Lyrule,0,0,0,,Ce?
+Dialogue: 99,0:16:00.13,0:16:02.22,Dialogue,Tsukasa,0,0,0,,Pentru că ai plâns pentru mine.
+Dialogue: 99,0:16:02.68,0:16:04.86,Dialogue,Tsukasa,0,0,0,,M-a făcut să mă simt puțin mai bine.
+Dialogue: 99,0:16:05.60,0:16:06.66,Dialogue,Lyrule,0,0,0,,Bine.
+Dialogue: 99,0:16:25.28,0:16:27.23,Dialogue,Bearabbit,0,0,0,,{\i1}Ce? Ringo?
+Dialogue: 99,0:16:27.23,0:16:31.51,Dialogue,Bearabbit,0,0,0,,{\i1}Ce? Ai terminat deja \Nde vorbit cu Tsukasa?
+Dialogue: 99,0:16:31.51,0:16:34.38,Dialogue,Bearabbit,0,0,0,,{\i1}Hei, Ringo, credeam că îi \Nvei da lista de materiale
+Dialogue: 99,0:16:34.38,0:16:36.94,Dialogue,,0,0,0,,{\i1}și veți discuta despre \Nsistemul de producție?
+Dialogue: 99,0:16:36.94,0:16:39.39,Dialogue,Bearabbit,0,0,0,,{\i1}Nu cred că ai stat îndeajuns \Nde „urs-mult” ca să faci asta!
+Dialogue: 99,0:16:39.39,0:16:41.66,Dialogue,Bearabbit,0,0,0,,{\i1}Cumva nu ai „urs-reușit” să vorbești cu el?
+Dialogue: 99,0:16:41.66,0:16:45.52,Dialogue,Bearabbit,0,0,0,,{\i1}E nevoie ca să vin cu tine, urs, urs, urs?
+Dialogue: 99,0:17:00.24,0:17:05.93,Dialogue,Roo,0,0,0,,Unu ori patru este patru. \NUnu ori cinci este cinci. Unu ori șase este...
+Dialogue: 99,0:17:08.32,0:17:11.38,Dialogue,Roo,0,0,0,,Nu înțeleg tabla înmulțirii deloc!
+Dialogue: 99,0:17:12.21,0:17:14.42,Dialogue,Akatsuki,0,0,0,,Nu te uita încoace, bine?!
+Dialogue: 99,0:17:15.34,0:17:17.72,Dialogue,Aoi,0,0,0,,Am înțeles, deci, te rog să te grăbești.
+Dialogue: 99,0:17:18.45,0:17:21.51,Dialogue,Keine,0,0,0,,Oh, sunteți amândoi aici?
+Dialogue: 99,0:17:21.51,0:17:24.27,Dialogue,Akatsuki,0,0,0,,Hei?! D-De ce este și Keine aici?!
+Dialogue: 99,0:17:24.27,0:17:26.48,Dialogue,Aoi,0,0,0,,Oh, mai taci și grăbește-te!
+Dialogue: 99,0:17:26.48,0:17:28.58,Dialogue,Aoi,0,0,0,,Vrei să intri odată?!
+Dialogue: 99,0:17:32.74,0:17:36.52,Dialogue,Aoi,0,0,0,,Eu sunt un copil al erei Edo, deci cel mai mult urăsc vorbăria inutilă și statul degeaba!
+Dialogue: 99,0:17:39.29,0:17:42.81,Dialogue,Aoi,0,0,0,,Vai, nu mă așteptam să fii și tu aici, Roo.
+Dialogue: 99,0:17:42.81,0:17:44.66,Dialogue,Keine,0,0,0,,Te-ai rănit cumva?
+Dialogue: 99,0:17:44.66,0:17:47.67,Dialogue,Roo,0,0,0,,Nu, am fost doar luată \Npuțin prin surprindere.
+Dialogue: 99,0:17:49.67,0:17:54.17,Dialogue,Aoi,0,0,0,,E numai vina lui Akatsuki \Ndeoarece e așa de încăpățânat.
+Dialogue: 99,0:17:54.56,0:17:55.98,Dialogue,Akatsuki,0,0,0,,Asta e prea ciudat!
+Dialogue: 99,0:17:55.98,0:17:58.68,Dialogue,Akatsuki,0,0,0,,De ce mă urmezi până și în baie?!
+Dialogue: 99,0:17:59.00,0:18:02.25,Dialogue,Aoi,0,0,0,,Tu ești întemeietorul \NCredinței celor Șapte Lumini.
+Dialogue: 99,0:18:02.25,0:18:04.89,Dialogue,Aoi,0,0,0,,Asta te cam face zeul nostru.
+Dialogue: 99,0:18:05.38,0:18:09.19,Dialogue,Aoi,0,0,0,,Deci, e perfect normal să ai \Nmereu o gardă de corp cu tine.
+Dialogue: 99,0:18:09.19,0:18:13.19,Dialogue,Akatsuki,0,0,0,,A-Atunci, Keine nu are de ce să fie aici!
+Dialogue: 99,0:18:13.72,0:18:18.57,Dialogue,Keine,0,0,0,,Ce? Dar nu mă deranjează deloc.
+Dialogue: 99,0:18:20.66,0:18:22.14,Dialogue,Akatsuki,0,0,0,,Renunț.
+Dialogue: 99,0:18:24.26,0:18:26.49,Dialogue,Akatsuki,0,0,0,,Roo, pari puțin tristă.
+Dialogue: 99,0:18:27.78,0:18:30.71,Dialogue,Roo,0,0,0,,Nu pot memora tabla înmulțirii...
+Dialogue: 99,0:18:30.71,0:18:32.96,Dialogue,Akatsuki,0,0,0,,Tabla înmulțirii, nu?
+Dialogue: 99,0:18:33.83,0:18:37.72,Dialogue,Roo,0,0,0,,Trebuie să trec testul dlui profesor.
+Dialogue: 99,0:18:37.72,0:18:39.04,Dialogue,Aoi,0,0,0,,Înțeleg.
+Dialogue: 99,0:18:39.04,0:18:41.72,Dialogue,Aoi,0,0,0,,Te antrenezi ca să devii \Nun comerciant, nu-i așa?
+Dialogue: 99,0:18:41.72,0:18:44.22,Dialogue,Keine,0,0,0,,E ucenica lui Masato.
+Dialogue: 99,0:18:44.90,0:18:50.34,Dialogue,Roo,0,0,0,,Numerele se tot amestecă \Nși nu vor să-mi intre în cap...
+Dialogue: 99,0:18:51.24,0:18:57.15,Dialogue,Aoi,0,0,0,,Privind-o pe Roo muncind din greu îmi amintește de mine când mă antrenam.
+Dialogue: 99,0:18:58.02,0:19:03.16,Dialogue,Aoi,0,0,0,,Eram complet sătulă să repet \Naceeași lovitură iar și iar.
+Dialogue: 99,0:19:03.16,0:19:05.39,Dialogue,Akatsuki,0,0,0,,Da, știu la ce te referi.
+Dialogue: 99,0:19:05.39,0:19:08.41,Dialogue,Akatsuki,0,0,0,,Învățarea trucurilor magice \Nînseamnă repetiție la greu.
+Dialogue: 99,0:19:08.90,0:19:13.34,Dialogue,Akatsuki,0,0,0,,Deoarece știam deja trucul pe de rost, \Nnu mai era distractiv deloc.
+Dialogue: 99,0:19:14.13,0:19:15.88,Dialogue,Keine,0,0,0,,Așa este.
+Dialogue: 99,0:19:16.48,0:19:20.52,Dialogue,Keine,0,0,0,,A trebuit să memorez cărți \Nîntregi de anatomie și remedii.
+Dialogue: 99,0:19:22.89,0:19:26.04,Dialogue,Roo,0,0,0,,Cum ați reușit să faceți față?
+Dialogue: 99,0:19:26.04,0:19:30.79,Dialogue,Aoi,0,0,0,,Am început să învăț Stilul \NIchijou de la o vârstă fragedă...
+Dialogue: 99,0:19:30.79,0:19:33.40,Dialogue,Aoi,0,0,0,,dar, într-o zi, mi-am găsit un țel.
+Dialogue: 99,0:19:34.04,0:19:35.15,Dialogue,Roo,0,0,0,,Un țel?
+Dialogue: 99,0:19:35.48,0:19:38.73,Dialogue,Aoi,0,0,0,,M-am îndrăgostit de o telenovelă cu samurai numită {\i1}Shogunul liber{\i0}.
+Dialogue: 99,0:19:38.73,0:19:42.66,Dialogue,Aoi,0,0,0,,Voiam să devin cineva care poate fi de folos celor neajutorați cu sabia sa.
+Dialogue: 99,0:19:44.13,0:19:45.66,Dialogue,Roo,0,0,0,,Iar voi doi?
+Dialogue: 99,0:19:45.66,0:19:48.52,Dialogue,Akatsuki,0,0,0,,Ei bine, când eram în școala primară,
+Dialogue: 99,0:19:48.52,0:19:50.97,Dialogue,,0,0,0,,am avut senzația că acesta era singurul lucru care mă făcea fericit.
+Dialogue: 99,0:19:52.39,0:19:55.17,Dialogue,Roo,0,0,0,,Mă întreb care este scopul meu...
+Dialogue: 99,0:19:55.17,0:19:57.77,Dialogue,Aoi,0,0,0,,Nu este așa de greu să-ți dai seama.
+Dialogue: 99,0:19:57.77,0:20:01.17,Dialogue,Aoi,0,0,0,,Doar gândește-te la ce-ți dorești.
+Dialogue: 99,0:20:01.17,0:20:05.68,Dialogue,Keine,0,0,0,,Când există un lucru pe care vrei să-l faci, tot ce rămâne e să lucrezi din greu pentru el, nu-i așa?
+Dialogue: 99,0:20:05.68,0:20:07.31,Dialogue,Roo,0,0,0,,Ceea ce vreau să fac?
+Dialogue: 99,0:20:09.00,0:20:12.23,Dialogue,Roo,0,0,0,,Gata, știu!
+Dialogue: 99,0:20:13.73,0:20:15.20,Dialogue,Roo,0,0,0,,Și eu voi munci din greu!
+Dialogue: 99,0:20:15.20,0:20:18.23,Dialogue,Roo,0,0,0,,Voi munci din greu, voi memora tot și voi învinge tabla înmulțirii!
+Dialogue: 99,0:20:18.23,0:20:20.74,Dialogue,Aoi,0,0,0,,Într-adevăr! Acesta este spiritul!
+Dialogue: 99,0:20:20.74,0:20:23.91,Dialogue,Akatsuki,0,0,0,,Știu. Spune-mi ceva ce îți place, Roo.
+Dialogue: 99,0:20:23.91,0:20:25.28,Dialogue,Roo,0,0,0,,Banii!
+Dialogue: 99,0:20:25.28,0:20:28.64,Dialogue,Akatsuki,0,0,0,,O-Oh... Păi, și asta merge.
+Dialogue: 99,0:20:28.64,0:20:31.31,Dialogue,Akatsuki,0,0,0,,Conceptul de număr \Ntinde să fie puțin abstract,
+Dialogue: 99,0:20:31.31,0:20:33.71,Dialogue,,0,0,0,,așa că de ce nu încerci să-ți imaginezi că lucrezi cu bani când faci calcule?
+Dialogue: 99,0:20:34.34,0:20:36.46,Dialogue,Roo,0,0,0,,Bani?
+Dialogue: 99,0:20:36.46,0:20:37.21,Dialogue,Akatsuki,0,0,0,,Da.
+Dialogue: 99,0:20:37.50,0:20:41.98,Dialogue,Akatsuki,0,0,0,,Cinci ori cinci ar însemna că ai cinci teancuri de cinci monede fiecare.
+Dialogue: 99,0:20:42.79,0:20:45.02,Dialogue,Roo,0,0,0,,Știu! Asta înseamnă 25 de monede!
+Dialogue: 99,0:20:45.02,0:20:46.72,Dialogue,Roo,0,0,0,,M-am prins!
+Dialogue: 99,0:20:46.72,0:20:47.95,Dialogue,Keine,0,0,0,,Vai!
+Dialogue: 99,0:20:47.95,0:20:49.42,Dialogue,Akatsuki,0,0,0,,S-Serios?
+Dialogue: 99,0:20:49.42,0:20:51.72,Dialogue,Akatsuki,0,0,0,,Atunci, cât este șapte ori șapte?
+Dialogue: 99,0:20:54.13,0:20:55.53,Dialogue,Roo,0,0,0,,Patruzeci și nouă de monede!
+Dialogue: 99,0:20:55.53,0:20:57.15,Dialogue,Akatsuki,0,0,0,,Așa este.
+Dialogue: 99,0:20:57.15,0:20:59.42,Dialogue,Akatsuki,0,0,0,,Atunci, opt ori nouă?
+Dialogue: 99,0:21:00.92,0:21:02.17,Dialogue,Roo,0,0,0,,Șaptezeci și două de monede!
+Dialogue: 99,0:21:02.17,0:21:03.28,Dialogue,Akatsuki,0,0,0,,Pe bune?!
+Dialogue: 99,0:21:03.28,0:21:04.36,Dialogue,Akatsuki,0,0,0,,A-Atunci...
+Dialogue: 99,0:21:04.36,0:21:06.49,Dialogue,Akatsuki,0,0,0,,Douăzeci și patru ori \Ntrei sute șaizeci și cinci!
+Dialogue: 99,0:21:08.80,0:21:10.67,Dialogue,Akatsuki,0,0,0,,8.760 de monede!
+Dialogue: 99,0:21:10.67,0:21:12.25,Dialogue,Akatsuki,0,0,0,,C-Corect!
+Dialogue: 99,0:21:12.25,0:21:14.50,Dialogue,Roo,0,0,0,,Am reușit!
+Dialogue: 99,0:21:14.50,0:21:16.75,Dialogue,Roo,0,0,0,,Am reușit!
+Dialogue: 99,0:21:16.75,0:21:20.38,Dialogue,Roo,0,0,0,,Am învins înmulțirea!
+Dialogue: 99,0:21:26.63,0:21:31.52,Dialogue,Aoi,0,0,0,,Ei bine, Roo ar fi trebuit \Ntreacă testul, nu-i așa?
+Dialogue: 99,0:21:31.52,0:21:32.60,Dialogue,Keine,0,0,0,,Da.
+Dialogue: 99,0:21:32.60,0:21:36.60,Dialogue,Aoi,0,0,0,,Atunci, de ce arată de parcă \Ni s-au înnecat corăbiile?
+Dialogue: 99,0:21:36.60,0:21:39.66,Dialogue,Keine,0,0,0,,Se pare că următorul \Ntest este împărțirea.
+Dialogue: 99,0:21:39.66,0:21:40.81,Dialogue,Aoi,0,0,0,,Ah...
+Dialogue: 99,0:21:41.23,0:21:44.24,Dialogue,Aoi,0,0,0,,Drumul spre a deveni un comerciant e unul destul de primejdios.
+Dialogue: 99,0:21:45.24,0:21:48.34,Dialogue,Roo,0,0,0,,Monedele lui Roo continuă să dispară...
+Dialogue: 99,0:21:49.83,0:21:51.80,Dialogue,Roo,0,0,0,,Împărțirea este înfricoșătoare...
+Dialogue: 99,0:23:28.80,0:23:30.70,Dialogue,Shinobu,0,0,0,,Ascultă, El.
+Dialogue: 99,0:23:31.25,0:23:31.93,Dialogue,Shinobu,0,0,0,,Acesta este...
+Dialogue: 99,0:23:33.81,0:23:35.68,Dialogue,,0,0,0,,adevărul din spatele acestui sat.
+Dialogue: 99,0:23:37.32,0:23:39.27,Dialogue,Elch,0,0,0,,Ce este asta?
 Dialogue: 0,0:12:20.01,0:12:20.06,DedzuyaSigns,,0,0,0,,{\an2\pos(1591.89,207.015)\fscx97.91\fscy97.91\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
 Dialogue: 0,0:12:20.06,0:12:20.10,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.01,206.91)\fscx97.96\fscy97.96\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!
 Dialogue: 0,0:12:20.10,0:12:20.14,DedzuyaSigns,,0,0,0,,{\an2\pos(1592.13,206.82)\fscx98\fscy98\fnMADE Kenfolg\fs42\b1\bord3\3c&HFFFFFF&\blur0.7}Geniile de liceu au o viață ușoară \Nchiar și într-o altă lume!

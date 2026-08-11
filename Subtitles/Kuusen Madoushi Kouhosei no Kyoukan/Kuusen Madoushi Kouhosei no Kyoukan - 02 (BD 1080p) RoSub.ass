@@ -38,314 +38,314 @@ Style: ED TL,Nunito,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:02.39,0:00:07.69,Dialogue,,0,0,0,,Acum mult timp, rasa umană a fost forțată să părăsească suprafața.
-Dialogue: 100,0:00:07.69,0:00:12.18,Dialogue,,0,0,0,,Pământurile sunt acum acoperite cu monștri numiți Cărăbuși Demonici.
-Dialogue: 100,0:00:12.18,0:00:17.25,Dialogue,,0,0,0,,Oamenii au migrat în marile orașe \Nplutitoare ca să-și continue traiul.
-Dialogue: 100,0:00:17.25,0:00:22.79,Dialogue,,0,0,0,,Această poveste eroică are loc la \Nmarea academie zburătoare, Mistgun,
-Dialogue: 100,0:00:22.79,0:00:27.91,Dialogue,,0,0,0,,{\q2}și o are în rolul principal pe cea mai puternică și \Nfrumoasă luptătoare împotriva Cărăbușilor Demonici...
-Dialogue: 100,0:00:27.91,0:00:30.56,Dialogue,,0,0,0,,Rico Flamel.
-Dialogue: 100,0:00:30.56,0:00:31.88,Dialogue,,0,0,0,,Încetează cu minciunile!
-Dialogue: 100,0:00:32.16,0:00:32.63,Dialogue,,0,0,0,,Hm.
-Dialogue: 100,0:00:33.16,0:00:35.01,Dialogue,,0,0,0,,Nu-mi spune "hm" mie!
-Dialogue: 100,0:02:20.62,0:02:25.16,Dialogue,,0,0,0,,Deci, perversule, cum se face \Ncă tu ești instructorul nostru?
-Dialogue: 100,0:02:25.16,0:02:27.87,Dialogue,,0,0,0,,Nu-ți face griji pentru micile detalii.
-Dialogue: 100,0:02:27.87,0:02:30.25,Dialogue,,0,0,0,,Let's move this forward.
-Dialogue: 100,0:02:30.25,0:02:32.63,Dialogue,,0,0,0,,What do you mean {\i1}move this forward?!{\i0}
-Dialogue: 100,0:02:33.07,0:02:35.46,Dialogue,,0,0,0,,I bet you didn't even read the data,
-Dialogue: 100,0:02:35.46,0:02:39.22,Dialogue,,0,0,0,,and let your perverted desires drive you here!
-Dialogue: 100,0:02:39.22,0:02:40.46,Dialogue,,0,0,0,,Mai taci.
-Dialogue: 100,0:02:41.64,0:02:45.14,Dialogue,,0,0,0,,Strawberry Jam, your name is Misora Whitale. {should be Jam? Since he's using it as a name?}
-Dialogue: 100,0:02:45.63,0:02:49.23,Dialogue,,0,0,0,,Sky Wizards division, Preparatory Department, second year, age 14.
-Dialogue: 100,0:02:50.32,0:02:54.36,Dialogue,,0,0,0,,Report card says, classroom-learning grades are D.
-Dialogue: 100,0:02:54.36,0:02:56.98,Dialogue,,0,0,0,,Practical training, E.
-Dialogue: 100,0:02:57.31,0:03:01.74,Dialogue,,0,0,0,,The reviewer recommends that you leave the school voluntarily.
-Dialogue: 100,0:03:02.24,0:03:06.74,Dialogue,,0,0,0,,My true abilities can't be measured by exams!
-Dialogue: 100,0:03:07.41,0:03:08.37,Dialogue,,0,0,0,,Oh?
-Dialogue: 100,0:03:08.87,0:03:10.52,Dialogue,,0,0,0,,I-It's true!
-Dialogue: 100,0:03:10.52,0:03:12.42,Dialogue,,0,0,0,,I'm telling you, it's true!
-Dialogue: 100,0:03:12.42,0:03:14.04,Dialogue,,0,0,0,,Really...
-Dialogue: 100,0:03:17.96,0:03:22.43,Dialogue,,0,0,0,,H-Hold on! Stop casting doubtful gazes on me!
-Dialogue: 100,0:03:23.18,0:03:25.43,Dialogue,,0,0,0,,Stop! No! Please...
-Dialogue: 100,0:03:26.81,0:03:31.56,Dialogue,,0,0,0,,Misora is a scrub, so her grades are no surprise.
-Dialogue: 100,0:03:31.56,0:03:34.69,Dialogue,,0,0,0,,Oh, let me reintroduce myself, just in case. I am...
-Dialogue: 100,0:03:34.69,0:03:35.82,Dialogue,,0,0,0,,Rico Flamel.
-Dialogue: 100,0:03:36.19,0:03:38.98,Dialogue,,0,0,0,,Again, Sky Wizards division, Preparatory Department second year.
-Dialogue: 100,0:03:38.98,0:03:40.90,Dialogue,,0,0,0,,Classroom scores are all As...
-Dialogue: 100,0:03:40.90,0:03:45.83,Dialogue,,0,0,0,,Actually, A-, due to missing homework.
-Dialogue: 100,0:03:47.12,0:03:50.33,Dialogue,,0,0,0,,Actually, you had an F- on your practical exam.
-Dialogue: 100,0:03:50.66,0:03:54.46,Dialogue,,0,0,0,,E is supposed to be the lowest, how did you get an F-?
-Dialogue: 100,0:03:55.84,0:03:59.96,Dialogue,,0,0,0,,I couldn't get my hair in shape that day, so I skipped.
-Dialogue: 100,0:04:00.51,0:04:01.52,Dialogue,,0,0,0,,Ah...
-Dialogue: 100,0:04:02.22,0:04:03.84,Dialogue,,0,0,0,,Whatever.
-Dialogue: 100,0:04:04.68,0:04:06.05,Dialogue,,0,0,0,,And, the last one...
-Dialogue: 100,0:04:06.05,0:04:07.30,Dialogue,,0,0,0,,Y-Yes!
-Dialogue: 100,0:04:08.01,0:04:09.89,Dialogue,,0,0,0,,Lecty Eisenach.
-Dialogue: 100,0:04:09.89,0:04:12.77,Dialogue,,0,0,0,,Of course, Sky Wizards division,\NPreparatory Department, second year.
-Dialogue: 100,0:04:12.77,0:04:15.09,Dialogue,,0,0,0,,Your grades are horrible too.
-Dialogue: 100,0:04:15.09,0:04:17.36,Dialogue,,0,0,0,,Your classroom scores rival Misora.
-Dialogue: 100,0:04:17.36,0:04:21.74,Dialogue,,0,0,0,,Unstable practical exams... Winning and losing against the same opponent.
-Dialogue: 100,0:04:21.74,0:04:27.58,Dialogue,,0,0,0,,I, um, I... I'm sorry!
-Dialogue: 100,0:04:27.58,0:04:28.45,Dialogue,,0,0,0,,Ow...
-Dialogue: 100,0:04:30.75,0:04:34.79,Dialogue,,0,0,0,,Okay, so now that we've introduced ourselves, let's...
-Dialogue: 100,0:04:34.79,0:04:36.71,Dialogue,,0,0,0,,Hold it!
-Dialogue: 100,0:04:37.92,0:04:42.82,Dialogue,,0,0,0,,I won't let a traitor like you be our instructor!
-Dialogue: 100,0:04:42.82,0:04:43.93,Dialogue,,0,0,0,,Um...
-Dialogue: 100,0:04:45.18,0:04:49.72,Dialogue,,0,0,0,,I understand that he's a pervert, but a traitor...?
-Dialogue: 100,0:04:50.47,0:04:54.60,Dialogue,,0,0,0,,From what I heard, a little over six months ago,
-Dialogue: 100,0:04:55.10,0:04:59.06,Dialogue,,0,0,0,,he fought some Devil Beetles, and managed to make it home alive,
-Dialogue: 100,0:04:59.33,0:05:02.03,Dialogue,,0,0,0,,but has since then become a coward.
-Dialogue: 100,0:05:02.03,0:05:05.07,Dialogue,,0,0,0,,Now he skips his special missions all the time!
-Dialogue: 100,0:05:08.57,0:05:14.44,Dialogue,,0,0,0,,I heard that he also skipped the important ranked\Nmatch that was supposed to get his team in the S Rank.
-Dialogue: 100,0:05:14.44,0:05:18.33,Dialogue,,0,0,0,,After constantly betraying the expectations of others, the nickname he got was...
-Dialogue: 100,0:05:18.96,0:05:21.09,Dialogue,,0,0,0,,Traitor!
-Dialogue: 100,0:05:21.71,0:05:25.30,Dialogue,,0,0,0,,We can't let this irresponsible man be our instructor!
-Dialogue: 100,0:05:25.30,0:05:27.84,Dialogue,,0,0,0,,You can direct your complaints to the leader of the Sky Wizards division.
-Dialogue: 100,0:05:29.60,0:05:34.13,Dialogue,,0,0,0,,Anyway, you've never won a single ranked match.
-Dialogue: 100,0:05:34.13,0:05:35.45,Dialogue,,0,0,0,,Aren't you ashamed?
-Dialogue: 100,0:05:35.45,0:05:37.74,Dialogue,,0,0,0,,D-Don't underestimate me!
-Dialogue: 100,0:05:37.74,0:05:39.81,Dialogue,,0,0,0,,Of course I'm ashamed!
-Dialogue: 100,0:05:39.81,0:05:43.28,Dialogue,,0,0,0,,I want to be a fully-fledged Sky Wizard so bad,
-Dialogue: 100,0:05:43.28,0:05:44.95,Dialogue,,0,0,0,,I can't stand wasting my time!
-Dialogue: 100,0:05:44.95,0:05:47.49,Dialogue,,0,0,0,,Yes, your comments are ill-advised.
-Dialogue: 100,0:05:47.91,0:05:53.04,Dialogue,,0,0,0,,From quite a young age, I have been lauded as a goddess incarnate.
-Dialogue: 100,0:05:53.04,0:05:54.62,Dialogue,,0,0,0,,My skills are quite adequate.
-Dialogue: 100,0:05:55.57,0:06:00.13,Dialogue,,0,0,0,,I... I don't neglect training either!
-Dialogue: 100,0:06:00.54,0:06:06.49,Dialogue,,0,0,0,,You know they used to call me {\i1}Chronos{\i0}, the Black Swordmaster, right?
-Dialogue: 100,0:06:06.49,0:06:09.13,Dialogue,,0,0,0,,Well, I've heard that, yes...
-Dialogue: 100,0:06:09.42,0:06:13.10,Dialogue,,0,0,0,,Well that master is going to train you.
-Dialogue: 100,0:06:13.10,0:06:15.98,Dialogue,,0,0,0,,If you do well, maybe you can be as strong as me.
-Dialogue: 100,0:06:15.98,0:06:19.35,Dialogue,,0,0,0,,Or rather, stronger than me.
-Dialogue: 100,0:06:20.86,0:06:23.07,Dialogue,,0,0,0,,Imagine yourself...
-Dialogue: 100,0:06:23.07,0:06:26.14,Dialogue,,0,0,0,,Defeating higher-ranked fireteams one after the other,
-Dialogue: 100,0:06:26.14,0:06:29.86,Dialogue,,0,0,0,,contributing dramatically in the fight against the Devil Beetles...
-Dialogue: 100,0:06:43.59,0:06:44.51,Dialogue,,0,0,0,,What do you think?
-Dialogue: 100,0:06:45.21,0:06:51.09,Dialogue,,0,0,0,,Well, if you insist, I guess I could put up with you just once...
-Dialogue: 100,0:06:51.09,0:06:53.26,Dialogue,,0,0,0,,I object.
-Dialogue: 100,0:06:54.01,0:06:56.22,Dialogue,,0,0,0,,Misora the Ordinary, yes.
-Dialogue: 100,0:06:56.22,0:07:01.52,Dialogue,,0,0,0,,But I, the goddess, sweating and toiling? Why?
-Dialogue: 100,0:07:02.06,0:07:07.57,Dialogue,,0,0,0,,Rico! That attitude is what's stopping you from getting results!
-Dialogue: 100,0:07:07.57,0:07:10.45,Dialogue,,0,0,0,,You two are the ones without results.
-Dialogue: 100,0:07:10.45,0:07:12.66,Dialogue,,0,0,0,,Hey, let's take this outside!
-Dialogue: 100,0:07:14.46,0:07:16.04,Dialogue,,0,0,0,,There, I'm outside.
-Dialogue: 100,0:07:17.66,0:07:19.12,Dialogue,,0,0,0,,Hey Rico.
-Dialogue: 100,0:07:19.12,0:07:23.54,Dialogue,,0,0,0,,Your exam score was F-, right?
-Dialogue: 100,0:07:23.54,0:07:25.64,Dialogue,,0,0,0,,So what?
-Dialogue: 100,0:07:25.64,0:07:29.30,Dialogue,,0,0,0,,I have no need for exams, so it is natural.
-Dialogue: 100,0:07:29.85,0:07:33.09,Dialogue,,0,0,0,,But I've never seen your skills.
-Dialogue: 100,0:07:33.09,0:07:37.31,Dialogue,,0,0,0,,Given the data, I have to consider you equal to or lower than Misora.
-Dialogue: 100,0:07:37.31,0:07:38.56,Dialogue,,0,0,0,,Are you sure that's okay?
-Dialogue: 100,0:07:40.01,0:07:43.81,Dialogue,,0,0,0,,You would place the goddess beneath {\i1}this?!{\i0}
-Dialogue: 100,0:07:43.81,0:07:45.50,Dialogue,,0,0,0,,This what?!
-Dialogue: 100,0:07:45.50,0:07:49.32,Dialogue,,0,0,0,,You can show me what you're capable of in training.
-Dialogue: 100,0:07:51.32,0:07:57.58,Dialogue,,0,0,0,,I must reluctantly display my astounding talents, but once.
-Dialogue: 100,0:07:57.88,0:07:59.08,Dialogue,,0,0,0,,But beware,
-Dialogue: 100,0:07:59.08,0:08:04.46,Dialogue,,0,0,0,,don't let the divine performance make you fall in love with me.
-Dialogue: 100,0:08:05.29,0:08:07.84,Dialogue,,0,0,0,,Okay, and Lecty.
-Dialogue: 100,0:08:09.00,0:08:10.33,Dialogue,,0,0,0,,How about you?
-Dialogue: 100,0:08:11.34,0:08:14.84,Dialogue,,0,0,0,,I, um, I...
-Dialogue: 100,0:08:14.84,0:08:18.60,Dialogue,,0,0,0,,Lecty, I told you, if you're going to say something,
-Dialogue: 100,0:08:18.60,0:08:21.95,Dialogue,,0,0,0,,look the person in the eyes and speak loudly.
-Dialogue: 100,0:08:22.55,0:08:23.81,Dialogue,,0,0,0,,I-I'm sorry!
-Dialogue: 100,0:08:24.60,0:08:28.98,Dialogue,,0,0,0,,Sorry? You don't want to train with me?
-Dialogue: 100,0:08:28.98,0:08:35.86,Dialogue,,0,0,0,,N-Not that! I meant to say sorry to Misora-san!
-Dialogue: 100,0:08:35.86,0:08:37.05,Dialogue,,0,0,0,,Come on.
-Dialogue: 100,0:08:41.64,0:08:43.12,Dialogue,,0,0,0,,I-I'll do it!
-Dialogue: 100,0:08:43.12,0:08:46.00,Dialogue,,0,0,0,,Please let me join your training!
-Dialogue: 100,0:08:48.79,0:08:51.38,Dialogue,,0,0,0,,Good, it's settled then.
-Dialogue: 100,0:08:51.76,0:08:53.02,Default-Alt,,0,0,0,,Look, over there!
-Dialogue: 100,0:08:53.02,0:08:56.49,Default-Alt,,0,0,0,,That's Chloe-senpai and Yuri-senpai, from the Special Duty Fireteam!
-Dialogue: 100,0:08:51.76,0:08:56.41,Dialogue,,0,0,0,,So my task is to help with city security?
-Dialogue: 100,0:08:59.33,0:09:01.39,Dialogue,,0,0,0,,She waved at us!
-Dialogue: 100,0:09:02.26,0:09:04.35,Dialogue,,0,0,0,,You could wave too.
-Dialogue: 100,0:09:04.35,0:09:09.41,Dialogue,,0,0,0,,No, I... I'm still not used to being treated like this.
-Dialogue: 100,0:09:11.19,0:09:12.57,Dialogue,,0,0,0,,Tea again?
-Dialogue: 100,0:09:12.57,0:09:14.78,Dialogue,,0,0,0,,Oh, um, yes.
-Dialogue: 100,0:09:15.20,0:09:17.74,Dialogue,,0,0,0,,Is coffee still too bitter for you?
-Dialogue: 100,0:09:17.74,0:09:20.28,Dialogue,,0,0,0,,You haven't changed at all.
-Dialogue: 100,0:09:22.80,0:09:29.66,Dialogue,,0,0,0,,Say, um... Is Kanata-senpai still considered on sick leave?
-Dialogue: 100,0:09:29.66,0:09:31.07,Dialogue,,0,0,0,,Sixth time.
-Dialogue: 100,0:09:31.07,0:09:32.16,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:09:32.16,0:09:34.92,Dialogue,,0,0,0,,That's the sixth time you asked me that this week.
-Dialogue: 100,0:09:37.09,0:09:40.30,Dialogue,,0,0,0,,Well, that's the official treatment.
-Dialogue: 100,0:09:40.30,0:09:43.43,Dialogue,,0,0,0,,He's not ready to go out on a real mission,
-Dialogue: 100,0:09:44.18,0:09:47.14,Dialogue,,0,0,0,,but he's now the instructor of an E-ranked fireteam.
-Dialogue: 100,0:09:47.14,0:09:48.44,Dialogue,,0,0,0,,An instructor?!
-Dialogue: 100,0:09:48.44,0:09:49.48,Dialogue,,0,0,0,,Yep.
-Dialogue: 100,0:09:49.48,0:09:51.69,Dialogue,,0,0,0,,I requested it.
-Dialogue: 100,0:09:51.98,0:09:54.07,Dialogue,,0,0,0,,I-I don't understand!
-Dialogue: 100,0:09:54.07,0:09:58.78,Dialogue,,0,0,0,,He won't assist his fireteam, spends time helping Logistics,
-Dialogue: 100,0:09:58.78,0:10:00.57,Dialogue,,0,0,0,,and now he's an instructor?!
-Dialogue: 100,0:10:00.57,0:10:04.66,Dialogue,,0,0,0,,How does he get away with being so selfish?!
-Dialogue: 100,0:10:04.66,0:10:06.18,Dialogue,,0,0,0,,Yuri, please.
-Dialogue: 100,0:10:06.79,0:10:09.58,Dialogue,,0,0,0,,Don't speak so badly about him.
-Dialogue: 100,0:10:17.90,0:10:18.94,Dialogue,,0,0,0,,Look.
-Dialogue: 100,0:10:20.14,0:10:24.89,Dialogue,,0,0,0,,Defending this peace is our job as Sky Wizards.
-Dialogue: 100,0:10:25.20,0:10:28.02,Dialogue,,0,0,0,,I'm sure Kanata feels the same way.
-Dialogue: 100,0:10:31.90,0:10:35.05,Dialogue,,0,0,0,,So right now, Kanata-senpai is...
-Dialogue: 100,0:10:36.54,0:10:38.28,Dialogue,,0,0,0,,If I were to say...
-Dialogue: 100,0:10:39.04,0:10:41.03,Dialogue,,0,0,0,,Up in the sky, I guess?
-Dialogue: 100,0:10:51.12,0:10:52.89,Dialogue,,0,0,0,,That's high enough, I guess.
-Dialogue: 100,0:10:54.29,0:10:57.34,Dialogue,,0,0,0,,Why are you riding that thing?
-Dialogue: 100,0:10:57.70,0:11:01.09,Dialogue,,0,0,0,,Huh? Oh, I'm used to doing this.
-Dialogue: 100,0:11:01.33,0:11:03.64,Dialogue,,0,0,0,,You choose to not use flight magic,
-Dialogue: 100,0:11:03.64,0:11:06.72,Dialogue,,0,0,0,,and instead use the flight assist tool, with inferior mobility...
-Dialogue: 100,0:11:06.97,0:11:08.00,Dialogue,,0,0,0,,Huh?!
-Dialogue: 100,0:11:08.00,0:11:13.98,Dialogue,,0,0,0,,Are you saying Mister Grand Master doesn't even need to fly properly to face us?!
-Dialogue: 100,0:11:13.98,0:11:19.11,Dialogue,,0,0,0,,Well, given our differences in skill, I guess so.
-Dialogue: 100,0:11:20.31,0:11:23.95,Dialogue,,0,0,0,,S-So, what type of training are we doing?!
-Dialogue: 100,0:11:24.41,0:11:25.61,Dialogue,,0,0,0,,Today's training is...
-Dialogue: 100,0:11:25.61,0:11:26.92,Dialogue,,0,0,0,,The training is...?
-Dialogue: 100,0:11:28.08,0:11:29.20,Dialogue,,0,0,0,,Tag.
-Dialogue: 100,0:11:29.57,0:11:31.61,Dialogue,,0,0,0,,Tag?!
-Dialogue: 100,0:11:39.92,0:11:44.35,Dialogue,,0,0,0,,Tag is for beginners who just learned how to fly!
-Dialogue: 100,0:11:44.35,0:11:49.65,Dialogue,,0,0,0,,You chose such a lowly program to test my godly skills?
-Dialogue: 100,0:11:50.94,0:11:53.27,Dialogue,,0,0,0,,P-Please, train us properly!
-Dialogue: 100,0:11:53.59,0:11:55.68,Dialogue,,0,0,0,,Oh, I forgot to say.
-Dialogue: 100,0:11:56.77,0:12:02.08,Dialogue,,0,0,0,,You can use your arcana-alchemical weapons to attack me, full-force.
-Dialogue: 100,0:12:02.08,0:12:05.28,Dialogue,,0,0,0,,If you can bring me down, the training is over.
-Dialogue: 100,0:12:07.39,0:12:09.39,Dialogue,,0,0,0,,Okay, that's that.
-Dialogue: 100,0:12:09.39,0:12:10.29,Dialogue,,0,0,0,,Begin training!
-Dialogue: 100,0:12:12.11,0:12:13.29,Dialogue,,0,0,0,,Wow, he's fast...
-Dialogue: 100,0:12:13.75,0:12:15.36,Dialogue,,0,0,0,,Ah! Whatever!
-Dialogue: 100,0:12:15.36,0:12:19.18,Dialogue,,0,0,0,,We're going to take him down, okay?!
-Dialogue: 100,0:12:19.18,0:12:23.22,Dialogue,,0,0,0,,Huh? What? Wait, Misora-san!
-Dialogue: 100,0:12:24.08,0:12:29.97,Dialogue,,0,0,0,,How foolish, chasing an escaping target without a plan...
-Dialogue: 100,0:12:33.46,0:12:37.61,Dialogue,,0,0,0,,Get back here, coward! Hey!
-Dialogue: 100,0:12:37.95,0:12:41.90,Dialogue,,0,0,0,,Wow, they really do have zero teamwork.
-Dialogue: 100,0:12:44.55,0:12:47.16,Dialogue,,0,0,0,,Her speed is decent, though.
-Dialogue: 100,0:12:47.74,0:12:51.66,Dialogue,,0,0,0,,Hey, do you really think you can catch me all alone?
-Dialogue: 100,0:12:51.66,0:12:54.67,Dialogue,,0,0,0,,Of course, why else would I be here!
-Dialogue: 100,0:12:54.67,0:12:57.67,Dialogue,,0,0,0,,Don't cry if you get hurt!
-Dialogue: 100,0:12:57.67,0:12:59.51,Dialogue,,0,0,0,,Oh, I'll be fine.
-Dialogue: 100,0:12:59.51,0:13:02.63,Dialogue,,0,0,0,,I don't intend to get hit at all.
-Dialogue: 100,0:13:20.48,0:13:22.19,Dialogue,,0,0,0,,Pretty decent stamina too.
-Dialogue: 100,0:13:22.19,0:13:24.27,Dialogue,,0,0,0,,I hope you're ready!
-Dialogue: 100,0:13:24.27,0:13:27.95,Dialogue,,0,0,0,,I don't go easy on traitors!
-Dialogue: 100,0:13:37.08,0:13:40.88,Dialogue,,0,0,0,,My Magical Cannon Sword, Radgrid!
-Dialogue: 100,0:13:50.01,0:13:50.89,Dialogue,,0,0,0,,You! {first bit part of this?}{Nope, she's just grunting a bit}
-Dialogue: 100,0:13:51.59,0:13:55.55,Dialogue,,0,0,0,,Hey, come on. That's not a club, you know.
-Dialogue: 100,0:13:55.55,0:13:56.85,Dialogue,,0,0,0,,You restless little...!
-Dialogue: 100,0:13:57.18,0:14:01.40,Dialogue,,0,0,0,,Can't you take sharper swings, instead of just flailing about?
-Dialogue: 100,0:14:03.69,0:14:05.07,Dialogue,,0,0,0,,Shut up!
-Dialogue: 100,0:14:05.07,0:14:08.07,Dialogue,,0,0,0,,Go down already, traitor!
-Dialogue: 100,0:14:08.71,0:14:10.45,Dialogue,,0,0,0,,Let's give this a shot...
-Dialogue: 100,0:14:10.90,0:14:12.95,Dialogue,,0,0,0,,Hey! Running away?!
-Dialogue: 100,0:14:15.45,0:14:18.92,Dialogue,,0,0,0,,Are you scared now?
-Dialogue: 100,0:14:20.05,0:14:23.31,Dialogue,,0,0,0,,Yeah, her speed and stamina are pretty impressive.
-Dialogue: 100,0:14:23.31,0:14:24.67,Dialogue,,0,0,0,,How's this then?
-Dialogue: 100,0:14:24.67,0:14:27.17,Dialogue,,0,0,0,,You're finished!
-Dialogue: 100,0:14:33.66,0:14:36.18,Dialogue,,0,0,0,,What did he just do?!
-Dialogue: 100,0:14:37.72,0:14:40.39,Dialogue,,0,0,0,,Where did he go?!
-Dialogue: 100,0:14:42.37,0:14:45.69,Dialogue,,0,0,0,,That simple manoeuvre threw her off.
-Dialogue: 100,0:14:47.52,0:14:48.98,Dialogue,,0,0,0,,She got behind me?
-Dialogue: 100,0:14:48.98,0:14:51.95,Dialogue,,0,0,0,,Um, Kanata-san...
-Dialogue: 100,0:14:53.48,0:14:55.12,Dialogue,,0,0,0,,Nice weapon.
-Dialogue: 100,0:14:55.12,0:14:56.57,Dialogue,,0,0,0,,What's the name? {what's it called?}
-Dialogue: 100,0:14:56.57,0:15:02.96,Dialogue,,0,0,0,,Oh, uh, hm... They are called, Amano-Habakiri.
-Dialogue: 100,0:15:03.57,0:15:07.63,Dialogue,,0,0,0,,She could have scored a hit if she tried at that moment.
-Dialogue: 100,0:15:08.38,0:15:09.63,Dialogue,,0,0,0,,What's wrong?
-Dialogue: 100,0:15:09.63,0:15:11.20,Dialogue,,0,0,0,,Don't hesitate.
-Dialogue: 100,0:15:12.35,0:15:13.39,Dialogue,,0,0,0,,Here I come!
-Dialogue: 100,0:15:31.11,0:15:33.87,Dialogue,,0,0,0,,How can she be so inconsistent?
-Dialogue: 100,0:15:33.87,0:15:36.99,Dialogue,,0,0,0,,Hey, are you slacking off?
-Dialogue: 100,0:15:38.68,0:15:41.29,Dialogue,,0,0,0,,I-I most certainly am not!
-Dialogue: 100,0:15:45.75,0:15:50.75,Dialogue,,0,0,0,,Her moves are refined, her reflexes are good too...
-Dialogue: 100,0:15:50.75,0:15:52.55,Dialogue,,0,0,0,,But she seems constantly lost.
-Dialogue: 100,0:15:53.13,0:15:55.68,Dialogue,,0,0,0,,I guess she doesn't trust her own abilities.
-Dialogue: 100,0:15:57.65,0:16:01.69,Dialogue,,0,0,0,,Hey, Lecty, is Eisenach your...
-Dialogue: 100,0:16:02.36,0:16:03.46,Dialogue,,0,0,0,,That's...
-Dialogue: 100,0:16:03.46,0:16:05.28,Dialogue,,0,0,0,,I-I'm sorry!
-Dialogue: 100,0:16:05.28,0:16:06.02,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:16:06.02,0:16:10.32,Dialogue,,0,0,0,,I'm sorry! I'm sorry!
-Dialogue: 100,0:16:18.50,0:16:24.98,Dialogue,,0,0,0,,The Magic Gun Athena, as beautiful as the goddess that wields it, shall smite you.
-Dialogue: 100,0:16:46.45,0:16:48.48,Dialogue,,0,0,0,,He cut my Magic Bullet down?
-Dialogue: 100,0:16:49.98,0:16:51.39,Dialogue,,0,0,0,,Kanata-san?!
-Dialogue: 100,0:16:51.39,0:16:52.85,Dialogue,,0,0,0,,Are you okay?
-Dialogue: 100,0:16:52.85,0:16:54.74,Dialogue,,0,0,0,,Y-Yes!
-Dialogue: 100,0:16:55.26,0:16:58.80,Dialogue,,0,0,0,,She's not all talk, that was a good shot.
-Dialogue: 100,0:16:58.80,0:17:02.66,Dialogue,,0,0,0,,Of course, when a shot is too accurate, it's also easy to dodge.
-Dialogue: 100,0:17:04.48,0:17:05.46,Dialogue,,0,0,0,,How?
-Dialogue: 100,0:17:05.82,0:17:07.57,Dialogue,,0,0,0,,Your aim wasn't bad.
-Dialogue: 100,0:17:07.57,0:17:11.37,Dialogue,,0,0,0,,But your intent to kill was kind of telegraphed.
-Dialogue: 100,0:17:11.37,0:17:16.33,Dialogue,,0,0,0,,By the way, did you come up with that combination on the fly?
-Dialogue: 100,0:17:18.34,0:17:19.77,Dialogue,,0,0,0,,Y-Yes.
-Dialogue: 100,0:17:19.77,0:17:22.20,Dialogue,,0,0,0,,I was very scared!
-Dialogue: 100,0:17:23.33,0:17:27.15,Dialogue,,0,0,0,,Compared to Misora, who randomly flutters about wherever she pleases,
-Dialogue: 100,0:17:27.15,0:17:29.61,Dialogue,,0,0,0,,Lecty's movements are refined.
-Dialogue: 100,0:17:30.19,0:17:34.61,Dialogue,,0,0,0,,It is only natural that I should sync with her to land a good shot.
-Dialogue: 100,0:17:35.08,0:17:40.74,Dialogue,,0,0,0,,If you can calculate that far, why don't you worry about friendly fire?
-Dialogue: 100,0:17:41.47,0:17:45.68,Dialogue,,0,0,0,,I am a goddess, earthly life does not interest me.
-Dialogue: 100,0:17:47.29,0:17:49.00,Dialogue,,0,0,0,,Wow...
-Dialogue: 100,0:17:49.42,0:17:53.51,Dialogue,,0,0,0,,Anyway, I see what your characteristics are.
-Dialogue: 100,0:17:54.01,0:17:58.45,Dialogue,,0,0,0,,Traitor! Come out!
-Dialogue: 100,0:18:01.94,0:18:04.85,Dialogue,,0,0,0,,Where did he go off to?!
-Dialogue: 100,0:18:19.08,0:18:21.27,Dialogue,,0,0,0,,This sucks!
-Dialogue: 100,0:18:21.27,0:18:24.08,Dialogue,,0,0,0,,How come we couldn't catch him? There were three of us!
-Dialogue: 100,0:18:26.94,0:18:30.21,Dialogue,,0,0,0,,I'm sorry, my skills were inadequate...
-Dialogue: 100,0:18:31.20,0:18:32.51,Dialogue,,0,0,0,,Oh, let me help you with that.
-Dialogue: 100,0:18:32.51,0:18:34.17,Dialogue,,0,0,0,,Oh, hey, thanks.
-Dialogue: 100,0:18:34.77,0:18:40.59,Dialogue,,0,0,0,,And um, Lecty, it's not your fault.
-Dialogue: 100,0:18:40.59,0:18:43.25,Dialogue,,0,0,0,,I wasn't looking out for you,
-Dialogue: 100,0:18:43.25,0:18:45.56,Dialogue,,0,0,0,,and might not have given any instructions...
-Dialogue: 100,0:18:46.03,0:18:47.01,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:18:47.01,0:18:52.49,Dialogue,,0,0,0,,As Misora says, the fireteam leader did not assess the battlefield adequately.
-Dialogue: 100,0:18:54.30,0:18:57.58,Dialogue,,0,0,0,,Unlike the beautiful one, me.
-Dialogue: 100,0:18:57.58,0:18:59.96,Dialogue,,0,0,0,,You little...
-Dialogue: 100,0:18:59.96,0:19:01.74,Dialogue,,0,0,0,,Do not feel sorrow.
-Dialogue: 100,0:19:01.74,0:19:06.49,Dialogue,,0,0,0,,It is only natural that my breasts are larger, and that I am taller.
-Dialogue: 100,0:19:06.49,0:19:09.00,Dialogue,,0,0,0,,That is what differentiates commoners and goddesses.
-Dialogue: 100,0:19:09.58,0:19:12.00,Dialogue,,0,0,0,,I'm not in sorrow!
-Dialogue: 100,0:19:12.00,0:19:16.47,Dialogue,,0,0,0,,Besides, breast size isn't a problem!
-Dialogue: 100,0:19:16.47,0:19:18.88,Dialogue,,0,0,0,,R-Really?
-Dialogue: 100,0:19:22.72,0:19:26.92,Dialogue,,0,0,0,,Um, Misora-san?
-Dialogue: 100,0:19:26.92,0:19:30.24,Dialogue,,0,0,0,,No, this can't be... This can't be true...
-Dialogue: 100,0:19:30.24,0:19:33.36,Dialogue,,0,0,0,,This is a dream, a dream...
-Dialogue: 100,0:19:34.02,0:19:38.49,Dialogue,,0,0,0,,How can Lecty have bigger breasts than me?!
-Dialogue: 100,0:19:38.49,0:19:40.80,Dialogue,,0,0,0,,Do not be concerned.
-Dialogue: 100,0:19:44.09,0:19:48.91,Dialogue,,0,0,0,,The size of one's breasts has nothing to do with one's skill as a Sky Wizard.
-Dialogue: 100,0:19:49.50,0:19:52.92,Dialogue,,0,0,0,,Rico...?
-Dialogue: 100,0:19:53.23,0:19:57.28,Dialogue,,0,0,0,,You may not be {\i1}Boing! Bam!{\i0} like us.
-Dialogue: 100,0:19:57.28,0:20:01.68,Dialogue,,0,0,0,,You may instead be {\i1}splat, plink, swoosh-plop.{\i0}
-Dialogue: 100,0:20:02.43,0:20:03.63,Dialogue,,0,0,0,,Isn't that right, Lecty?
-Dialogue: 100,0:20:03.63,0:20:05.39,Dialogue,,0,0,0,,T-That's right!
-Dialogue: 100,0:20:05.94,0:20:12.52,Dialogue,,0,0,0,,Misora-san's breasts might be {\i1}splat, plink, swoosh-plop,{\i0} but...
-Dialogue: 100,0:20:12.91,0:20:16.58,Dialogue,,0,0,0,,Rico-san?! How can you make me say that!
-Dialogue: 100,0:20:16.58,0:20:22.66,Dialogue,,0,0,0,,M-Misora-san... I don't think that! Not at all!
-Dialogue: 100,0:20:24.28,0:20:26.32,Dialogue,,0,0,0,,Rico...!
-Dialogue: 100,0:20:26.32,0:20:29.37,Dialogue,,0,0,0,,What kind of grudge do you have against me?!
-Dialogue: 100,0:20:29.37,0:20:30.66,Dialogue,,0,0,0,,That is no way to address a goddess.
-Dialogue: 100,0:20:28.96,0:20:31.93,Default-Alt,,0,0,0,,Come on you two, calm down!
-Dialogue: 100,0:20:31.93,0:20:36.42,Dialogue,,0,0,0,,Misora is hot-headed and easily loses sight of her surroundings.
-Dialogue: 100,0:20:37.44,0:20:41.51,Dialogue,,0,0,0,,Lecty's low self-esteem gives her trouble when facing off with an enemy.
-Dialogue: 100,0:20:42.18,0:20:44.39,Dialogue,,0,0,0,,Rico is the exact opposite,
-Dialogue: 100,0:20:44.39,0:20:49.22,Dialogue,,0,0,0,,but distances herself too much from her allies.
-Dialogue: 100,0:20:49.79,0:20:53.37,Dialogue,,0,0,0,,What odd puzzle pieces these are.
-Dialogue: 100,0:20:53.37,0:20:58.22,Dialogue,,0,0,0,,But if I can make them fit together, this could be amusing.
-Dialogue: 100,0:20:59.90,0:21:03.87,Dialogue,,0,0,0,,I will never accepted Misora as the fireteam leader.
-Dialogue: 100,0:21:03.87,0:21:07.41,Dialogue,,0,0,0,,Besides, why should I, the goddess, be beneath Misora?
-Dialogue: 100,0:21:07.41,0:21:10.24,Dialogue,,0,0,0,,I started this fireteam!
-Dialogue: 100,0:21:08.54,0:21:10.24,Default-Alt,,0,0,0,,Um, um...
-Dialogue: 100,0:21:10.24,0:21:14.46,Dialogue,,0,0,0,,The person who started it should be in charge!
-Dialogue: 100,0:21:14.46,0:21:18.61,Dialogue,,0,0,0,,Being first in line does not guarantee respect.
-Dialogue: 100,0:21:13.93,0:21:16.94,Default-Alt,,0,0,0,,Misora-san! Rico-san!
-Dialogue: 100,0:21:17.83,0:21:19.38,Default-Alt,,0,0,0,,Calm down please!
-Dialogue: 100,0:21:19.97,0:21:21.67,Dialogue,,0,0,0,,Don't stop me, Lecty!
-Dialogue: 100,0:21:21.67,0:21:24.11,Dialogue,,0,0,0,,I'm shutting this noisy mouth up!
-Dialogue: 100,0:21:25.65,0:21:27.90,Dialogue,,0,0,0,,So, for tomorrow's training, I...
-Dialogue: 100,0:21:35.29,0:21:37.41,Dialogue,,0,0,0,,{\an1}You pervert!
-Dialogue: 100,0:21:35.29,0:21:37.41,Dialogue,,0,0,0,,Pervert.
-Dialogue: 100,0:21:35.29,0:21:37.41,Dialogue,,0,0,0,,{\an3}It's a pervert!
-Dialogue: 100,0:21:39.34,0:21:40.80,Dialogue,,0,0,0,,Not this again.
-Dialogue: 100,0:23:11.50,0:23:12.91,Dialogue,,0,0,0,,I am Rico Flamel.
-Dialogue: 100,0:23:12.91,0:23:16.62,Dialogue,,0,0,0,,I, the goddess, will hold a special class for you.
-Dialogue: 100,0:23:16.62,0:23:20.28,Dialogue,,0,0,0,,A Sky Wizard's role in battle is determined by his or her weapon.
-Dialogue: 100,0:23:20.28,0:23:24.92,Dialogue,,0,0,0,,Lecty's Magic Twin Swords allow her to perform close combat in the vanguard.
-Dialogue: 100,0:23:24.92,0:23:28.59,Dialogue,,0,0,0,,I, on the other hand, engage enemies at long range with my Magic Gun,
-Dialogue: 100,0:23:28.59,0:23:29.76,Dialogue,,0,0,0,,which naturally makes me a rear guard.
-Dialogue: 100,0:23:29.76,0:23:31.47,Dialogue,,0,0,0,,Hey, what about me?
-Dialogue: 100,0:23:31.47,0:23:35.35,Dialogue Top,,0,0,0,,And so, the next episode is {\i1}The Potentials of the Weakest.{\i0}
-Dialogue: 100,0:23:35.35,0:23:37.77,Dialogue Top,,0,0,0,,I will show my divine presence again.
-Dialogue: 100,0:23:37.77,0:23:39.98,Dialogue Top,,0,0,0,,Wait, so what about me?!
+Dialogue: 99,0:00:02.39,0:00:07.69,Dialogue,,0,0,0,,Acum mult timp, rasa umană a fost forțată să părăsească suprafața.
+Dialogue: 99,0:00:07.69,0:00:12.18,Dialogue,,0,0,0,,Pământurile sunt acum acoperite cu monștri numiți Cărăbuși Demonici.
+Dialogue: 99,0:00:12.18,0:00:17.25,Dialogue,,0,0,0,,Oamenii au migrat în marile orașe \Nplutitoare ca să-și continue traiul.
+Dialogue: 99,0:00:17.25,0:00:22.79,Dialogue,,0,0,0,,Această poveste eroică are loc la \Nmarea academie zburătoare, Mistgun,
+Dialogue: 99,0:00:22.79,0:00:27.91,Dialogue,,0,0,0,,{\q2}și o are în rolul principal pe cea mai puternică și \Nfrumoasă luptătoare împotriva Cărăbușilor Demonici...
+Dialogue: 99,0:00:27.91,0:00:30.56,Dialogue,,0,0,0,,Rico Flamel.
+Dialogue: 99,0:00:30.56,0:00:31.88,Dialogue,,0,0,0,,Încetează cu minciunile!
+Dialogue: 99,0:00:32.16,0:00:32.63,Dialogue,,0,0,0,,Hm.
+Dialogue: 99,0:00:33.16,0:00:35.01,Dialogue,,0,0,0,,Nu-mi spune "hm" mie!
+Dialogue: 99,0:02:20.62,0:02:25.16,Dialogue,,0,0,0,,Deci, perversule, cum se face \Ncă tu ești instructorul nostru?
+Dialogue: 99,0:02:25.16,0:02:27.87,Dialogue,,0,0,0,,Nu-ți face griji pentru micile detalii.
+Dialogue: 99,0:02:27.87,0:02:30.25,Dialogue,,0,0,0,,Let's move this forward.
+Dialogue: 99,0:02:30.25,0:02:32.63,Dialogue,,0,0,0,,What do you mean {\i1}move this forward?!{\i0}
+Dialogue: 99,0:02:33.07,0:02:35.46,Dialogue,,0,0,0,,I bet you didn't even read the data,
+Dialogue: 99,0:02:35.46,0:02:39.22,Dialogue,,0,0,0,,and let your perverted desires drive you here!
+Dialogue: 99,0:02:39.22,0:02:40.46,Dialogue,,0,0,0,,Mai taci.
+Dialogue: 99,0:02:41.64,0:02:45.14,Dialogue,,0,0,0,,Strawberry Jam, your name is Misora Whitale. {should be Jam? Since he's using it as a name?}
+Dialogue: 99,0:02:45.63,0:02:49.23,Dialogue,,0,0,0,,Sky Wizards division, Preparatory Department, second year, age 14.
+Dialogue: 99,0:02:50.32,0:02:54.36,Dialogue,,0,0,0,,Report card says, classroom-learning grades are D.
+Dialogue: 99,0:02:54.36,0:02:56.98,Dialogue,,0,0,0,,Practical training, E.
+Dialogue: 99,0:02:57.31,0:03:01.74,Dialogue,,0,0,0,,The reviewer recommends that you leave the school voluntarily.
+Dialogue: 99,0:03:02.24,0:03:06.74,Dialogue,,0,0,0,,My true abilities can't be measured by exams!
+Dialogue: 99,0:03:07.41,0:03:08.37,Dialogue,,0,0,0,,Oh?
+Dialogue: 99,0:03:08.87,0:03:10.52,Dialogue,,0,0,0,,I-It's true!
+Dialogue: 99,0:03:10.52,0:03:12.42,Dialogue,,0,0,0,,I'm telling you, it's true!
+Dialogue: 99,0:03:12.42,0:03:14.04,Dialogue,,0,0,0,,Really...
+Dialogue: 99,0:03:17.96,0:03:22.43,Dialogue,,0,0,0,,H-Hold on! Stop casting doubtful gazes on me!
+Dialogue: 99,0:03:23.18,0:03:25.43,Dialogue,,0,0,0,,Stop! No! Please...
+Dialogue: 99,0:03:26.81,0:03:31.56,Dialogue,,0,0,0,,Misora is a scrub, so her grades are no surprise.
+Dialogue: 99,0:03:31.56,0:03:34.69,Dialogue,,0,0,0,,Oh, let me reintroduce myself, just in case. I am...
+Dialogue: 99,0:03:34.69,0:03:35.82,Dialogue,,0,0,0,,Rico Flamel.
+Dialogue: 99,0:03:36.19,0:03:38.98,Dialogue,,0,0,0,,Again, Sky Wizards division, Preparatory Department second year.
+Dialogue: 99,0:03:38.98,0:03:40.90,Dialogue,,0,0,0,,Classroom scores are all As...
+Dialogue: 99,0:03:40.90,0:03:45.83,Dialogue,,0,0,0,,Actually, A-, due to missing homework.
+Dialogue: 99,0:03:47.12,0:03:50.33,Dialogue,,0,0,0,,Actually, you had an F- on your practical exam.
+Dialogue: 99,0:03:50.66,0:03:54.46,Dialogue,,0,0,0,,E is supposed to be the lowest, how did you get an F-?
+Dialogue: 99,0:03:55.84,0:03:59.96,Dialogue,,0,0,0,,I couldn't get my hair in shape that day, so I skipped.
+Dialogue: 99,0:04:00.51,0:04:01.52,Dialogue,,0,0,0,,Ah...
+Dialogue: 99,0:04:02.22,0:04:03.84,Dialogue,,0,0,0,,Whatever.
+Dialogue: 99,0:04:04.68,0:04:06.05,Dialogue,,0,0,0,,And, the last one...
+Dialogue: 99,0:04:06.05,0:04:07.30,Dialogue,,0,0,0,,Y-Yes!
+Dialogue: 99,0:04:08.01,0:04:09.89,Dialogue,,0,0,0,,Lecty Eisenach.
+Dialogue: 99,0:04:09.89,0:04:12.77,Dialogue,,0,0,0,,Of course, Sky Wizards division,\NPreparatory Department, second year.
+Dialogue: 99,0:04:12.77,0:04:15.09,Dialogue,,0,0,0,,Your grades are horrible too.
+Dialogue: 99,0:04:15.09,0:04:17.36,Dialogue,,0,0,0,,Your classroom scores rival Misora.
+Dialogue: 99,0:04:17.36,0:04:21.74,Dialogue,,0,0,0,,Unstable practical exams... Winning and losing against the same opponent.
+Dialogue: 99,0:04:21.74,0:04:27.58,Dialogue,,0,0,0,,I, um, I... I'm sorry!
+Dialogue: 99,0:04:27.58,0:04:28.45,Dialogue,,0,0,0,,Ow...
+Dialogue: 99,0:04:30.75,0:04:34.79,Dialogue,,0,0,0,,Okay, so now that we've introduced ourselves, let's...
+Dialogue: 99,0:04:34.79,0:04:36.71,Dialogue,,0,0,0,,Hold it!
+Dialogue: 99,0:04:37.92,0:04:42.82,Dialogue,,0,0,0,,I won't let a traitor like you be our instructor!
+Dialogue: 99,0:04:42.82,0:04:43.93,Dialogue,,0,0,0,,Um...
+Dialogue: 99,0:04:45.18,0:04:49.72,Dialogue,,0,0,0,,I understand that he's a pervert, but a traitor...?
+Dialogue: 99,0:04:50.47,0:04:54.60,Dialogue,,0,0,0,,From what I heard, a little over six months ago,
+Dialogue: 99,0:04:55.10,0:04:59.06,Dialogue,,0,0,0,,he fought some Devil Beetles, and managed to make it home alive,
+Dialogue: 99,0:04:59.33,0:05:02.03,Dialogue,,0,0,0,,but has since then become a coward.
+Dialogue: 99,0:05:02.03,0:05:05.07,Dialogue,,0,0,0,,Now he skips his special missions all the time!
+Dialogue: 99,0:05:08.57,0:05:14.44,Dialogue,,0,0,0,,I heard that he also skipped the important ranked\Nmatch that was supposed to get his team in the S Rank.
+Dialogue: 99,0:05:14.44,0:05:18.33,Dialogue,,0,0,0,,After constantly betraying the expectations of others, the nickname he got was...
+Dialogue: 99,0:05:18.96,0:05:21.09,Dialogue,,0,0,0,,Traitor!
+Dialogue: 99,0:05:21.71,0:05:25.30,Dialogue,,0,0,0,,We can't let this irresponsible man be our instructor!
+Dialogue: 99,0:05:25.30,0:05:27.84,Dialogue,,0,0,0,,You can direct your complaints to the leader of the Sky Wizards division.
+Dialogue: 99,0:05:29.60,0:05:34.13,Dialogue,,0,0,0,,Anyway, you've never won a single ranked match.
+Dialogue: 99,0:05:34.13,0:05:35.45,Dialogue,,0,0,0,,Aren't you ashamed?
+Dialogue: 99,0:05:35.45,0:05:37.74,Dialogue,,0,0,0,,D-Don't underestimate me!
+Dialogue: 99,0:05:37.74,0:05:39.81,Dialogue,,0,0,0,,Of course I'm ashamed!
+Dialogue: 99,0:05:39.81,0:05:43.28,Dialogue,,0,0,0,,I want to be a fully-fledged Sky Wizard so bad,
+Dialogue: 99,0:05:43.28,0:05:44.95,Dialogue,,0,0,0,,I can't stand wasting my time!
+Dialogue: 99,0:05:44.95,0:05:47.49,Dialogue,,0,0,0,,Yes, your comments are ill-advised.
+Dialogue: 99,0:05:47.91,0:05:53.04,Dialogue,,0,0,0,,From quite a young age, I have been lauded as a goddess incarnate.
+Dialogue: 99,0:05:53.04,0:05:54.62,Dialogue,,0,0,0,,My skills are quite adequate.
+Dialogue: 99,0:05:55.57,0:06:00.13,Dialogue,,0,0,0,,I... I don't neglect training either!
+Dialogue: 99,0:06:00.54,0:06:06.49,Dialogue,,0,0,0,,You know they used to call me {\i1}Chronos{\i0}, the Black Swordmaster, right?
+Dialogue: 99,0:06:06.49,0:06:09.13,Dialogue,,0,0,0,,Well, I've heard that, yes...
+Dialogue: 99,0:06:09.42,0:06:13.10,Dialogue,,0,0,0,,Well that master is going to train you.
+Dialogue: 99,0:06:13.10,0:06:15.98,Dialogue,,0,0,0,,If you do well, maybe you can be as strong as me.
+Dialogue: 99,0:06:15.98,0:06:19.35,Dialogue,,0,0,0,,Or rather, stronger than me.
+Dialogue: 99,0:06:20.86,0:06:23.07,Dialogue,,0,0,0,,Imagine yourself...
+Dialogue: 99,0:06:23.07,0:06:26.14,Dialogue,,0,0,0,,Defeating higher-ranked fireteams one after the other,
+Dialogue: 99,0:06:26.14,0:06:29.86,Dialogue,,0,0,0,,contributing dramatically in the fight against the Devil Beetles...
+Dialogue: 99,0:06:43.59,0:06:44.51,Dialogue,,0,0,0,,What do you think?
+Dialogue: 99,0:06:45.21,0:06:51.09,Dialogue,,0,0,0,,Well, if you insist, I guess I could put up with you just once...
+Dialogue: 99,0:06:51.09,0:06:53.26,Dialogue,,0,0,0,,I object.
+Dialogue: 99,0:06:54.01,0:06:56.22,Dialogue,,0,0,0,,Misora the Ordinary, yes.
+Dialogue: 99,0:06:56.22,0:07:01.52,Dialogue,,0,0,0,,But I, the goddess, sweating and toiling? Why?
+Dialogue: 99,0:07:02.06,0:07:07.57,Dialogue,,0,0,0,,Rico! That attitude is what's stopping you from getting results!
+Dialogue: 99,0:07:07.57,0:07:10.45,Dialogue,,0,0,0,,You two are the ones without results.
+Dialogue: 99,0:07:10.45,0:07:12.66,Dialogue,,0,0,0,,Hey, let's take this outside!
+Dialogue: 99,0:07:14.46,0:07:16.04,Dialogue,,0,0,0,,There, I'm outside.
+Dialogue: 99,0:07:17.66,0:07:19.12,Dialogue,,0,0,0,,Hey Rico.
+Dialogue: 99,0:07:19.12,0:07:23.54,Dialogue,,0,0,0,,Your exam score was F-, right?
+Dialogue: 99,0:07:23.54,0:07:25.64,Dialogue,,0,0,0,,So what?
+Dialogue: 99,0:07:25.64,0:07:29.30,Dialogue,,0,0,0,,I have no need for exams, so it is natural.
+Dialogue: 99,0:07:29.85,0:07:33.09,Dialogue,,0,0,0,,But I've never seen your skills.
+Dialogue: 99,0:07:33.09,0:07:37.31,Dialogue,,0,0,0,,Given the data, I have to consider you equal to or lower than Misora.
+Dialogue: 99,0:07:37.31,0:07:38.56,Dialogue,,0,0,0,,Are you sure that's okay?
+Dialogue: 99,0:07:40.01,0:07:43.81,Dialogue,,0,0,0,,You would place the goddess beneath {\i1}this?!{\i0}
+Dialogue: 99,0:07:43.81,0:07:45.50,Dialogue,,0,0,0,,This what?!
+Dialogue: 99,0:07:45.50,0:07:49.32,Dialogue,,0,0,0,,You can show me what you're capable of in training.
+Dialogue: 99,0:07:51.32,0:07:57.58,Dialogue,,0,0,0,,I must reluctantly display my astounding talents, but once.
+Dialogue: 99,0:07:57.88,0:07:59.08,Dialogue,,0,0,0,,But beware,
+Dialogue: 99,0:07:59.08,0:08:04.46,Dialogue,,0,0,0,,don't let the divine performance make you fall in love with me.
+Dialogue: 99,0:08:05.29,0:08:07.84,Dialogue,,0,0,0,,Okay, and Lecty.
+Dialogue: 99,0:08:09.00,0:08:10.33,Dialogue,,0,0,0,,How about you?
+Dialogue: 99,0:08:11.34,0:08:14.84,Dialogue,,0,0,0,,I, um, I...
+Dialogue: 99,0:08:14.84,0:08:18.60,Dialogue,,0,0,0,,Lecty, I told you, if you're going to say something,
+Dialogue: 99,0:08:18.60,0:08:21.95,Dialogue,,0,0,0,,look the person in the eyes and speak loudly.
+Dialogue: 99,0:08:22.55,0:08:23.81,Dialogue,,0,0,0,,I-I'm sorry!
+Dialogue: 99,0:08:24.60,0:08:28.98,Dialogue,,0,0,0,,Sorry? You don't want to train with me?
+Dialogue: 99,0:08:28.98,0:08:35.86,Dialogue,,0,0,0,,N-Not that! I meant to say sorry to Misora-san!
+Dialogue: 99,0:08:35.86,0:08:37.05,Dialogue,,0,0,0,,Come on.
+Dialogue: 99,0:08:41.64,0:08:43.12,Dialogue,,0,0,0,,I-I'll do it!
+Dialogue: 99,0:08:43.12,0:08:46.00,Dialogue,,0,0,0,,Please let me join your training!
+Dialogue: 99,0:08:48.79,0:08:51.38,Dialogue,,0,0,0,,Good, it's settled then.
+Dialogue: 99,0:08:51.76,0:08:53.02,Default-Alt,,0,0,0,,Look, over there!
+Dialogue: 99,0:08:53.02,0:08:56.49,Default-Alt,,0,0,0,,That's Chloe-senpai and Yuri-senpai, from the Special Duty Fireteam!
+Dialogue: 99,0:08:51.76,0:08:56.41,Dialogue,,0,0,0,,So my task is to help with city security?
+Dialogue: 99,0:08:59.33,0:09:01.39,Dialogue,,0,0,0,,She waved at us!
+Dialogue: 99,0:09:02.26,0:09:04.35,Dialogue,,0,0,0,,You could wave too.
+Dialogue: 99,0:09:04.35,0:09:09.41,Dialogue,,0,0,0,,No, I... I'm still not used to being treated like this.
+Dialogue: 99,0:09:11.19,0:09:12.57,Dialogue,,0,0,0,,Tea again?
+Dialogue: 99,0:09:12.57,0:09:14.78,Dialogue,,0,0,0,,Oh, um, yes.
+Dialogue: 99,0:09:15.20,0:09:17.74,Dialogue,,0,0,0,,Is coffee still too bitter for you?
+Dialogue: 99,0:09:17.74,0:09:20.28,Dialogue,,0,0,0,,You haven't changed at all.
+Dialogue: 99,0:09:22.80,0:09:29.66,Dialogue,,0,0,0,,Say, um... Is Kanata-senpai still considered on sick leave?
+Dialogue: 99,0:09:29.66,0:09:31.07,Dialogue,,0,0,0,,Sixth time.
+Dialogue: 99,0:09:31.07,0:09:32.16,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:09:32.16,0:09:34.92,Dialogue,,0,0,0,,That's the sixth time you asked me that this week.
+Dialogue: 99,0:09:37.09,0:09:40.30,Dialogue,,0,0,0,,Well, that's the official treatment.
+Dialogue: 99,0:09:40.30,0:09:43.43,Dialogue,,0,0,0,,He's not ready to go out on a real mission,
+Dialogue: 99,0:09:44.18,0:09:47.14,Dialogue,,0,0,0,,but he's now the instructor of an E-ranked fireteam.
+Dialogue: 99,0:09:47.14,0:09:48.44,Dialogue,,0,0,0,,An instructor?!
+Dialogue: 99,0:09:48.44,0:09:49.48,Dialogue,,0,0,0,,Yep.
+Dialogue: 99,0:09:49.48,0:09:51.69,Dialogue,,0,0,0,,I requested it.
+Dialogue: 99,0:09:51.98,0:09:54.07,Dialogue,,0,0,0,,I-I don't understand!
+Dialogue: 99,0:09:54.07,0:09:58.78,Dialogue,,0,0,0,,He won't assist his fireteam, spends time helping Logistics,
+Dialogue: 99,0:09:58.78,0:10:00.57,Dialogue,,0,0,0,,and now he's an instructor?!
+Dialogue: 99,0:10:00.57,0:10:04.66,Dialogue,,0,0,0,,How does he get away with being so selfish?!
+Dialogue: 99,0:10:04.66,0:10:06.18,Dialogue,,0,0,0,,Yuri, please.
+Dialogue: 99,0:10:06.79,0:10:09.58,Dialogue,,0,0,0,,Don't speak so badly about him.
+Dialogue: 99,0:10:17.90,0:10:18.94,Dialogue,,0,0,0,,Look.
+Dialogue: 99,0:10:20.14,0:10:24.89,Dialogue,,0,0,0,,Defending this peace is our job as Sky Wizards.
+Dialogue: 99,0:10:25.20,0:10:28.02,Dialogue,,0,0,0,,I'm sure Kanata feels the same way.
+Dialogue: 99,0:10:31.90,0:10:35.05,Dialogue,,0,0,0,,So right now, Kanata-senpai is...
+Dialogue: 99,0:10:36.54,0:10:38.28,Dialogue,,0,0,0,,If I were to say...
+Dialogue: 99,0:10:39.04,0:10:41.03,Dialogue,,0,0,0,,Up in the sky, I guess?
+Dialogue: 99,0:10:51.12,0:10:52.89,Dialogue,,0,0,0,,That's high enough, I guess.
+Dialogue: 99,0:10:54.29,0:10:57.34,Dialogue,,0,0,0,,Why are you riding that thing?
+Dialogue: 99,0:10:57.70,0:11:01.09,Dialogue,,0,0,0,,Huh? Oh, I'm used to doing this.
+Dialogue: 99,0:11:01.33,0:11:03.64,Dialogue,,0,0,0,,You choose to not use flight magic,
+Dialogue: 99,0:11:03.64,0:11:06.72,Dialogue,,0,0,0,,and instead use the flight assist tool, with inferior mobility...
+Dialogue: 99,0:11:06.97,0:11:08.00,Dialogue,,0,0,0,,Huh?!
+Dialogue: 99,0:11:08.00,0:11:13.98,Dialogue,,0,0,0,,Are you saying Mister Grand Master doesn't even need to fly properly to face us?!
+Dialogue: 99,0:11:13.98,0:11:19.11,Dialogue,,0,0,0,,Well, given our differences in skill, I guess so.
+Dialogue: 99,0:11:20.31,0:11:23.95,Dialogue,,0,0,0,,S-So, what type of training are we doing?!
+Dialogue: 99,0:11:24.41,0:11:25.61,Dialogue,,0,0,0,,Today's training is...
+Dialogue: 99,0:11:25.61,0:11:26.92,Dialogue,,0,0,0,,The training is...?
+Dialogue: 99,0:11:28.08,0:11:29.20,Dialogue,,0,0,0,,Tag.
+Dialogue: 99,0:11:29.57,0:11:31.61,Dialogue,,0,0,0,,Tag?!
+Dialogue: 99,0:11:39.92,0:11:44.35,Dialogue,,0,0,0,,Tag is for beginners who just learned how to fly!
+Dialogue: 99,0:11:44.35,0:11:49.65,Dialogue,,0,0,0,,You chose such a lowly program to test my godly skills?
+Dialogue: 99,0:11:50.94,0:11:53.27,Dialogue,,0,0,0,,P-Please, train us properly!
+Dialogue: 99,0:11:53.59,0:11:55.68,Dialogue,,0,0,0,,Oh, I forgot to say.
+Dialogue: 99,0:11:56.77,0:12:02.08,Dialogue,,0,0,0,,You can use your arcana-alchemical weapons to attack me, full-force.
+Dialogue: 99,0:12:02.08,0:12:05.28,Dialogue,,0,0,0,,If you can bring me down, the training is over.
+Dialogue: 99,0:12:07.39,0:12:09.39,Dialogue,,0,0,0,,Okay, that's that.
+Dialogue: 99,0:12:09.39,0:12:10.29,Dialogue,,0,0,0,,Begin training!
+Dialogue: 99,0:12:12.11,0:12:13.29,Dialogue,,0,0,0,,Wow, he's fast...
+Dialogue: 99,0:12:13.75,0:12:15.36,Dialogue,,0,0,0,,Ah! Whatever!
+Dialogue: 99,0:12:15.36,0:12:19.18,Dialogue,,0,0,0,,We're going to take him down, okay?!
+Dialogue: 99,0:12:19.18,0:12:23.22,Dialogue,,0,0,0,,Huh? What? Wait, Misora-san!
+Dialogue: 99,0:12:24.08,0:12:29.97,Dialogue,,0,0,0,,How foolish, chasing an escaping target without a plan...
+Dialogue: 99,0:12:33.46,0:12:37.61,Dialogue,,0,0,0,,Get back here, coward! Hey!
+Dialogue: 99,0:12:37.95,0:12:41.90,Dialogue,,0,0,0,,Wow, they really do have zero teamwork.
+Dialogue: 99,0:12:44.55,0:12:47.16,Dialogue,,0,0,0,,Her speed is decent, though.
+Dialogue: 99,0:12:47.74,0:12:51.66,Dialogue,,0,0,0,,Hey, do you really think you can catch me all alone?
+Dialogue: 99,0:12:51.66,0:12:54.67,Dialogue,,0,0,0,,Of course, why else would I be here!
+Dialogue: 99,0:12:54.67,0:12:57.67,Dialogue,,0,0,0,,Don't cry if you get hurt!
+Dialogue: 99,0:12:57.67,0:12:59.51,Dialogue,,0,0,0,,Oh, I'll be fine.
+Dialogue: 99,0:12:59.51,0:13:02.63,Dialogue,,0,0,0,,I don't intend to get hit at all.
+Dialogue: 99,0:13:20.48,0:13:22.19,Dialogue,,0,0,0,,Pretty decent stamina too.
+Dialogue: 99,0:13:22.19,0:13:24.27,Dialogue,,0,0,0,,I hope you're ready!
+Dialogue: 99,0:13:24.27,0:13:27.95,Dialogue,,0,0,0,,I don't go easy on traitors!
+Dialogue: 99,0:13:37.08,0:13:40.88,Dialogue,,0,0,0,,My Magical Cannon Sword, Radgrid!
+Dialogue: 99,0:13:50.01,0:13:50.89,Dialogue,,0,0,0,,You! {first bit part of this?}{Nope, she's just grunting a bit}
+Dialogue: 99,0:13:51.59,0:13:55.55,Dialogue,,0,0,0,,Hey, come on. That's not a club, you know.
+Dialogue: 99,0:13:55.55,0:13:56.85,Dialogue,,0,0,0,,You restless little...!
+Dialogue: 99,0:13:57.18,0:14:01.40,Dialogue,,0,0,0,,Can't you take sharper swings, instead of just flailing about?
+Dialogue: 99,0:14:03.69,0:14:05.07,Dialogue,,0,0,0,,Shut up!
+Dialogue: 99,0:14:05.07,0:14:08.07,Dialogue,,0,0,0,,Go down already, traitor!
+Dialogue: 99,0:14:08.71,0:14:10.45,Dialogue,,0,0,0,,Let's give this a shot...
+Dialogue: 99,0:14:10.90,0:14:12.95,Dialogue,,0,0,0,,Hey! Running away?!
+Dialogue: 99,0:14:15.45,0:14:18.92,Dialogue,,0,0,0,,Are you scared now?
+Dialogue: 99,0:14:20.05,0:14:23.31,Dialogue,,0,0,0,,Yeah, her speed and stamina are pretty impressive.
+Dialogue: 99,0:14:23.31,0:14:24.67,Dialogue,,0,0,0,,How's this then?
+Dialogue: 99,0:14:24.67,0:14:27.17,Dialogue,,0,0,0,,You're finished!
+Dialogue: 99,0:14:33.66,0:14:36.18,Dialogue,,0,0,0,,What did he just do?!
+Dialogue: 99,0:14:37.72,0:14:40.39,Dialogue,,0,0,0,,Where did he go?!
+Dialogue: 99,0:14:42.37,0:14:45.69,Dialogue,,0,0,0,,That simple manoeuvre threw her off.
+Dialogue: 99,0:14:47.52,0:14:48.98,Dialogue,,0,0,0,,She got behind me?
+Dialogue: 99,0:14:48.98,0:14:51.95,Dialogue,,0,0,0,,Um, Kanata-san...
+Dialogue: 99,0:14:53.48,0:14:55.12,Dialogue,,0,0,0,,Nice weapon.
+Dialogue: 99,0:14:55.12,0:14:56.57,Dialogue,,0,0,0,,What's the name? {what's it called?}
+Dialogue: 99,0:14:56.57,0:15:02.96,Dialogue,,0,0,0,,Oh, uh, hm... They are called, Amano-Habakiri.
+Dialogue: 99,0:15:03.57,0:15:07.63,Dialogue,,0,0,0,,She could have scored a hit if she tried at that moment.
+Dialogue: 99,0:15:08.38,0:15:09.63,Dialogue,,0,0,0,,What's wrong?
+Dialogue: 99,0:15:09.63,0:15:11.20,Dialogue,,0,0,0,,Don't hesitate.
+Dialogue: 99,0:15:12.35,0:15:13.39,Dialogue,,0,0,0,,Here I come!
+Dialogue: 99,0:15:31.11,0:15:33.87,Dialogue,,0,0,0,,How can she be so inconsistent?
+Dialogue: 99,0:15:33.87,0:15:36.99,Dialogue,,0,0,0,,Hey, are you slacking off?
+Dialogue: 99,0:15:38.68,0:15:41.29,Dialogue,,0,0,0,,I-I most certainly am not!
+Dialogue: 99,0:15:45.75,0:15:50.75,Dialogue,,0,0,0,,Her moves are refined, her reflexes are good too...
+Dialogue: 99,0:15:50.75,0:15:52.55,Dialogue,,0,0,0,,But she seems constantly lost.
+Dialogue: 99,0:15:53.13,0:15:55.68,Dialogue,,0,0,0,,I guess she doesn't trust her own abilities.
+Dialogue: 99,0:15:57.65,0:16:01.69,Dialogue,,0,0,0,,Hey, Lecty, is Eisenach your...
+Dialogue: 99,0:16:02.36,0:16:03.46,Dialogue,,0,0,0,,That's...
+Dialogue: 99,0:16:03.46,0:16:05.28,Dialogue,,0,0,0,,I-I'm sorry!
+Dialogue: 99,0:16:05.28,0:16:06.02,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:16:06.02,0:16:10.32,Dialogue,,0,0,0,,I'm sorry! I'm sorry!
+Dialogue: 99,0:16:18.50,0:16:24.98,Dialogue,,0,0,0,,The Magic Gun Athena, as beautiful as the goddess that wields it, shall smite you.
+Dialogue: 99,0:16:46.45,0:16:48.48,Dialogue,,0,0,0,,He cut my Magic Bullet down?
+Dialogue: 99,0:16:49.98,0:16:51.39,Dialogue,,0,0,0,,Kanata-san?!
+Dialogue: 99,0:16:51.39,0:16:52.85,Dialogue,,0,0,0,,Are you okay?
+Dialogue: 99,0:16:52.85,0:16:54.74,Dialogue,,0,0,0,,Y-Yes!
+Dialogue: 99,0:16:55.26,0:16:58.80,Dialogue,,0,0,0,,She's not all talk, that was a good shot.
+Dialogue: 99,0:16:58.80,0:17:02.66,Dialogue,,0,0,0,,Of course, when a shot is too accurate, it's also easy to dodge.
+Dialogue: 99,0:17:04.48,0:17:05.46,Dialogue,,0,0,0,,How?
+Dialogue: 99,0:17:05.82,0:17:07.57,Dialogue,,0,0,0,,Your aim wasn't bad.
+Dialogue: 99,0:17:07.57,0:17:11.37,Dialogue,,0,0,0,,But your intent to kill was kind of telegraphed.
+Dialogue: 99,0:17:11.37,0:17:16.33,Dialogue,,0,0,0,,By the way, did you come up with that combination on the fly?
+Dialogue: 99,0:17:18.34,0:17:19.77,Dialogue,,0,0,0,,Y-Yes.
+Dialogue: 99,0:17:19.77,0:17:22.20,Dialogue,,0,0,0,,I was very scared!
+Dialogue: 99,0:17:23.33,0:17:27.15,Dialogue,,0,0,0,,Compared to Misora, who randomly flutters about wherever she pleases,
+Dialogue: 99,0:17:27.15,0:17:29.61,Dialogue,,0,0,0,,Lecty's movements are refined.
+Dialogue: 99,0:17:30.19,0:17:34.61,Dialogue,,0,0,0,,It is only natural that I should sync with her to land a good shot.
+Dialogue: 99,0:17:35.08,0:17:40.74,Dialogue,,0,0,0,,If you can calculate that far, why don't you worry about friendly fire?
+Dialogue: 99,0:17:41.47,0:17:45.68,Dialogue,,0,0,0,,I am a goddess, earthly life does not interest me.
+Dialogue: 99,0:17:47.29,0:17:49.00,Dialogue,,0,0,0,,Wow...
+Dialogue: 99,0:17:49.42,0:17:53.51,Dialogue,,0,0,0,,Anyway, I see what your characteristics are.
+Dialogue: 99,0:17:54.01,0:17:58.45,Dialogue,,0,0,0,,Traitor! Come out!
+Dialogue: 99,0:18:01.94,0:18:04.85,Dialogue,,0,0,0,,Where did he go off to?!
+Dialogue: 99,0:18:19.08,0:18:21.27,Dialogue,,0,0,0,,This sucks!
+Dialogue: 99,0:18:21.27,0:18:24.08,Dialogue,,0,0,0,,How come we couldn't catch him? There were three of us!
+Dialogue: 99,0:18:26.94,0:18:30.21,Dialogue,,0,0,0,,I'm sorry, my skills were inadequate...
+Dialogue: 99,0:18:31.20,0:18:32.51,Dialogue,,0,0,0,,Oh, let me help you with that.
+Dialogue: 99,0:18:32.51,0:18:34.17,Dialogue,,0,0,0,,Oh, hey, thanks.
+Dialogue: 99,0:18:34.77,0:18:40.59,Dialogue,,0,0,0,,And um, Lecty, it's not your fault.
+Dialogue: 99,0:18:40.59,0:18:43.25,Dialogue,,0,0,0,,I wasn't looking out for you,
+Dialogue: 99,0:18:43.25,0:18:45.56,Dialogue,,0,0,0,,and might not have given any instructions...
+Dialogue: 99,0:18:46.03,0:18:47.01,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:18:47.01,0:18:52.49,Dialogue,,0,0,0,,As Misora says, the fireteam leader did not assess the battlefield adequately.
+Dialogue: 99,0:18:54.30,0:18:57.58,Dialogue,,0,0,0,,Unlike the beautiful one, me.
+Dialogue: 99,0:18:57.58,0:18:59.96,Dialogue,,0,0,0,,You little...
+Dialogue: 99,0:18:59.96,0:19:01.74,Dialogue,,0,0,0,,Do not feel sorrow.
+Dialogue: 99,0:19:01.74,0:19:06.49,Dialogue,,0,0,0,,It is only natural that my breasts are larger, and that I am taller.
+Dialogue: 99,0:19:06.49,0:19:09.00,Dialogue,,0,0,0,,That is what differentiates commoners and goddesses.
+Dialogue: 99,0:19:09.58,0:19:12.00,Dialogue,,0,0,0,,I'm not in sorrow!
+Dialogue: 99,0:19:12.00,0:19:16.47,Dialogue,,0,0,0,,Besides, breast size isn't a problem!
+Dialogue: 99,0:19:16.47,0:19:18.88,Dialogue,,0,0,0,,R-Really?
+Dialogue: 99,0:19:22.72,0:19:26.92,Dialogue,,0,0,0,,Um, Misora-san?
+Dialogue: 99,0:19:26.92,0:19:30.24,Dialogue,,0,0,0,,No, this can't be... This can't be true...
+Dialogue: 99,0:19:30.24,0:19:33.36,Dialogue,,0,0,0,,This is a dream, a dream...
+Dialogue: 99,0:19:34.02,0:19:38.49,Dialogue,,0,0,0,,How can Lecty have bigger breasts than me?!
+Dialogue: 99,0:19:38.49,0:19:40.80,Dialogue,,0,0,0,,Do not be concerned.
+Dialogue: 99,0:19:44.09,0:19:48.91,Dialogue,,0,0,0,,The size of one's breasts has nothing to do with one's skill as a Sky Wizard.
+Dialogue: 99,0:19:49.50,0:19:52.92,Dialogue,,0,0,0,,Rico...?
+Dialogue: 99,0:19:53.23,0:19:57.28,Dialogue,,0,0,0,,You may not be {\i1}Boing! Bam!{\i0} like us.
+Dialogue: 99,0:19:57.28,0:20:01.68,Dialogue,,0,0,0,,You may instead be {\i1}splat, plink, swoosh-plop.{\i0}
+Dialogue: 99,0:20:02.43,0:20:03.63,Dialogue,,0,0,0,,Isn't that right, Lecty?
+Dialogue: 99,0:20:03.63,0:20:05.39,Dialogue,,0,0,0,,T-That's right!
+Dialogue: 99,0:20:05.94,0:20:12.52,Dialogue,,0,0,0,,Misora-san's breasts might be {\i1}splat, plink, swoosh-plop,{\i0} but...
+Dialogue: 99,0:20:12.91,0:20:16.58,Dialogue,,0,0,0,,Rico-san?! How can you make me say that!
+Dialogue: 99,0:20:16.58,0:20:22.66,Dialogue,,0,0,0,,M-Misora-san... I don't think that! Not at all!
+Dialogue: 99,0:20:24.28,0:20:26.32,Dialogue,,0,0,0,,Rico...!
+Dialogue: 99,0:20:26.32,0:20:29.37,Dialogue,,0,0,0,,What kind of grudge do you have against me?!
+Dialogue: 99,0:20:29.37,0:20:30.66,Dialogue,,0,0,0,,That is no way to address a goddess.
+Dialogue: 99,0:20:28.96,0:20:31.93,Default-Alt,,0,0,0,,Come on you two, calm down!
+Dialogue: 99,0:20:31.93,0:20:36.42,Dialogue,,0,0,0,,Misora is hot-headed and easily loses sight of her surroundings.
+Dialogue: 99,0:20:37.44,0:20:41.51,Dialogue,,0,0,0,,Lecty's low self-esteem gives her trouble when facing off with an enemy.
+Dialogue: 99,0:20:42.18,0:20:44.39,Dialogue,,0,0,0,,Rico is the exact opposite,
+Dialogue: 99,0:20:44.39,0:20:49.22,Dialogue,,0,0,0,,but distances herself too much from her allies.
+Dialogue: 99,0:20:49.79,0:20:53.37,Dialogue,,0,0,0,,What odd puzzle pieces these are.
+Dialogue: 99,0:20:53.37,0:20:58.22,Dialogue,,0,0,0,,But if I can make them fit together, this could be amusing.
+Dialogue: 99,0:20:59.90,0:21:03.87,Dialogue,,0,0,0,,I will never accepted Misora as the fireteam leader.
+Dialogue: 99,0:21:03.87,0:21:07.41,Dialogue,,0,0,0,,Besides, why should I, the goddess, be beneath Misora?
+Dialogue: 99,0:21:07.41,0:21:10.24,Dialogue,,0,0,0,,I started this fireteam!
+Dialogue: 99,0:21:08.54,0:21:10.24,Default-Alt,,0,0,0,,Um, um...
+Dialogue: 99,0:21:10.24,0:21:14.46,Dialogue,,0,0,0,,The person who started it should be in charge!
+Dialogue: 99,0:21:14.46,0:21:18.61,Dialogue,,0,0,0,,Being first in line does not guarantee respect.
+Dialogue: 99,0:21:13.93,0:21:16.94,Default-Alt,,0,0,0,,Misora-san! Rico-san!
+Dialogue: 99,0:21:17.83,0:21:19.38,Default-Alt,,0,0,0,,Calm down please!
+Dialogue: 99,0:21:19.97,0:21:21.67,Dialogue,,0,0,0,,Don't stop me, Lecty!
+Dialogue: 99,0:21:21.67,0:21:24.11,Dialogue,,0,0,0,,I'm shutting this noisy mouth up!
+Dialogue: 99,0:21:25.65,0:21:27.90,Dialogue,,0,0,0,,So, for tomorrow's training, I...
+Dialogue: 99,0:21:35.29,0:21:37.41,Dialogue,,0,0,0,,{\an1}You pervert!
+Dialogue: 99,0:21:35.29,0:21:37.41,Dialogue,,0,0,0,,Pervert.
+Dialogue: 99,0:21:35.29,0:21:37.41,Dialogue,,0,0,0,,{\an3}It's a pervert!
+Dialogue: 99,0:21:39.34,0:21:40.80,Dialogue,,0,0,0,,Not this again.
+Dialogue: 99,0:23:11.50,0:23:12.91,Dialogue,,0,0,0,,I am Rico Flamel.
+Dialogue: 99,0:23:12.91,0:23:16.62,Dialogue,,0,0,0,,I, the goddess, will hold a special class for you.
+Dialogue: 99,0:23:16.62,0:23:20.28,Dialogue,,0,0,0,,A Sky Wizard's role in battle is determined by his or her weapon.
+Dialogue: 99,0:23:20.28,0:23:24.92,Dialogue,,0,0,0,,Lecty's Magic Twin Swords allow her to perform close combat in the vanguard.
+Dialogue: 99,0:23:24.92,0:23:28.59,Dialogue,,0,0,0,,I, on the other hand, engage enemies at long range with my Magic Gun,
+Dialogue: 99,0:23:28.59,0:23:29.76,Dialogue,,0,0,0,,which naturally makes me a rear guard.
+Dialogue: 99,0:23:29.76,0:23:31.47,Dialogue,,0,0,0,,Hey, what about me?
+Dialogue: 99,0:23:31.47,0:23:35.35,Dialogue Top,,0,0,0,,And so, the next episode is {\i1}The Potentials of the Weakest.{\i0}
+Dialogue: 99,0:23:35.35,0:23:37.77,Dialogue Top,,0,0,0,,I will show my divine presence again.
+Dialogue: 99,0:23:37.77,0:23:39.98,Dialogue Top,,0,0,0,,Wait, so what about me?!
 Dialogue: 0,0:12:13.67,0:12:17.00,KazuyaShuuSign,,0,0,0,,{\fad(950,0)\fnUn Batang\b1\fs40\blur1\bord1.8\shad3\c&HFFFFFF&\3c&HFFFFFF&\an1\4a&HC3&\pos(120,635)}Sky Wizards Academy
 Dialogue: 1,0:12:13.67,0:12:17.00,KazuyaShuuSign,,0,0,0,,{=0}{\fad(950,0)\fnUn Batang\b1\fs40\blur0.7\c&HCD8500&\an1\pos(120,635)}Sky Wizards Academy
 Dialogue: 0,0:12:13.67,0:12:17.00,KazuyaShuuSign,,0,0,0,,{=13}{\fad(950,0)\fnUn Batang\b1\fs40\blur1\bord1.8\shad3\c&HFFFFFF&\3c&HFFFFFF&\an8\4a&HC0&\pos(600,955)}The Instructor of Aerial Combat Wizard Candidates

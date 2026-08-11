@@ -33,254 +33,254 @@ Style: ED TL,Bencoleng,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:01:00.41,0:01:01.83,Dialogue,,0,0,0,,"Chinese Sempai."
-Dialogue: 100,0:01:02.51,0:01:05.16,flashback,sem,0,0,0,,Tomorrow, we'll learn about Chinese magic!
-Dialogue: 100,0:01:05.47,0:01:09.11,Dialogue,ass,0,0,0,,So she said, but what even is Chinese magic?
-Dialogue: 100,0:01:10.45,0:01:12.00,Dialogue,sem,0,0,0,,Nihao!
-Dialogue: 100,0:01:12.51,0:01:14.09,Dialogue,sem,0,0,0,,Xie-xie!
-Dialogue: 100,0:01:15.23,0:01:18.93,Dialogue,sem,0,0,0,,I'm spinning even more than usual today!
-Dialogue: 100,0:01:19.37,0:01:20.93,Dialogue,ass,0,0,0,,Nihao, Sempai!
-Dialogue: 100,0:01:20.93,0:01:22.06,Dialogue,ass,0,0,0,,What's this Chinese magic we'll be—
-Dialogue: 100,0:01:22.06,0:01:23.56,Dialogue,sem,0,0,0,,Hey there, Assistant!
-Dialogue: 100,0:01:26.76,0:01:30.82,Dialogue,sem,0,0,0,,Today's topic will be the\NChinese magic called bian lian!
-Dialogue: 100,0:01:31.15,0:01:35.53,Dialogue,sem,0,0,0,,Bian lian involves swapping out\Nmasks faster than the eye can see!
-Dialogue: 100,0:01:35.53,0:01:38.57,Dialogue,sem,0,0,0,,The mechanism is said to be\Na Chinese national secret!
-Dialogue: 100,0:01:38.89,0:01:40.32,Dialogue,ass,0,0,0,,Is that even true?
-Dialogue: 100,0:01:40.32,0:01:44.21,Dialogue,sem,0,0,0,,So we're going to work together\Nto figure out how they do it!
-Dialogue: 100,0:01:44.21,0:01:45.18,Dialogue,,0,0,0,,Yeah!
-Dialogue: 100,0:01:45.81,0:01:49.30,Dialogue,ma,0,0,0,,I theorize that they wear\Nmultiple thin layers,
-Dialogue: 100,0:01:49.30,0:01:52.37,Dialogue,ma,0,0,0,,swiftly peel them off,\Nand hide them in the sleeves.
-Dialogue: 100,0:01:52.37,0:01:55.53,Dialogue,saki,0,0,0,,Oh, totally! I was gonna\Nsay the very same thing!
-Dialogue: 100,0:01:55.53,0:01:56.59,Dialogue,sem,0,0,0,,Let's try it!
-Dialogue: 100,0:01:57.17,0:02:00.45,Dialogue,sem,0,0,0,,We need something thin,\Nso I prepared some plastic wrap.
-Dialogue: 100,0:02:00.45,0:02:02.95,Dialogue,sem,0,0,0,,We'll cut some face-size\Nsheets and then layer them up,
-Dialogue: 100,0:02:02.95,0:02:05.85,Dialogue,sem,0,0,0,,then fix them to Masashi-kun's face, and...
-Dialogue: 100,0:02:06.17,0:02:10.34,Dialogue,sem,0,0,0,,There! The meat is packed and ready to go!
-Dialogue: 100,0:02:10.34,0:02:11.77,Dialogue,saki,0,0,0,,What's that you just said?
-Dialogue: 100,0:02:11.77,0:02:12.94,Dialogue,sem,0,0,0,,Sorry, couldn't help it!
-Dialogue: 100,0:02:13.16,0:02:15.37,Dialogue,saki,0,0,0,,Ma-kun, tell her off already!
-Dialogue: 100,0:02:15.37,0:02:17.43,Dialogue,ass,0,0,0,,Did you guys forget the air holes?!
-Dialogue: 100,0:02:17.87,0:02:20.36,Dialogue,ass,0,0,0,,Maybe there's another person behind them.
-Dialogue: 100,0:02:20.71,0:02:23.23,Dialogue,ass,0,0,0,,That person swaps the masks really quickly.
-Dialogue: 100,0:02:23.23,0:02:26.66,Dialogue,sem,0,0,0,,There's an idea! Maybe that's\Nwhy their clothes look so big!
-Dialogue: 100,0:02:26.66,0:02:28.75,Dialogue,sem,0,0,0,,Okay, coming in behind!
-Dialogue: 100,0:02:30.11,0:02:32.00,italics,ass,0,0,0,,Her chest is all up on my back.
-Dialogue: 100,0:02:32.61,0:02:34.76,Dialogue,ass,0,0,0,,Hey, maybe you should be in front—
-Dialogue: 100,0:02:35.89,0:02:37.42,Dialogue,sem,0,0,0,,What did you say?
-Dialogue: 100,0:02:38.46,0:02:40.88,Dialogue,ass,0,0,0,,The dumber one should be in front.
-Dialogue: 100,0:02:40.88,0:02:42.37,Dialogue,sem,0,0,0,,You're scarier than the mask!
-Dialogue: 100,0:02:43.88,0:02:46.80,Dialogue,sem,0,0,0,,I think we've almost gotten\Nto the heart of this.
-Dialogue: 100,0:02:46.80,0:02:48.81,Dialogue,ass,0,0,0,,You think this little league\Ngarbage is a national secret?!
-Dialogue: 100,0:02:48.81,0:02:51.34,Dialogue,sem,0,0,0,,Lastly, I bet they rig up the masks somehow.
-Dialogue: 100,0:02:51.34,0:02:54.57,Dialogue,sem,0,0,0,,Like, they're designed to split in the middle.
-Dialogue: 100,0:02:56.30,0:02:58.82,Dialogue,sem,0,0,0,,Now, since the dumber one should be in front...
-Dialogue: 100,0:02:58.82,0:02:59.95,Dialogue,saki,0,0,0,,I'll sock you one.
-Dialogue: 100,0:03:00.31,0:03:02.45,italics,sem,0,0,0,,I can't see anything through her hair!
-Dialogue: 100,0:03:02.45,0:03:04.86,italics,sem,0,0,0,,I can't even tell where the mask is!
-Dialogue: 100,0:03:05.77,0:03:06.89,italics,sem,0,0,0,,I think that's it!
-Dialogue: 100,0:03:06.89,0:03:10.24,italics,sem,0,0,0,,Now grab tight and tear it apart!
-Dialogue: 100,0:03:10.24,0:03:11.21,Dialogue,sem,0,0,0,,Here we go!
-Dialogue: 100,0:03:12.61,0:03:13.58,Dialogue,ass,0,0,0,,Purge!
-Dialogue: 100,0:03:16.30,0:03:18.34,Dialogue,sem,0,0,0,,Well? Did it break cleanly?
-Dialogue: 100,0:03:21.95,0:03:23.84,italics,ass,0,0,0,,Instant 180...
-Dialogue: 100,0:03:24.22,0:03:25.85,Dialogue,,0,0,0,,"Mentalist Sempai."
-Dialogue: 100,0:03:27.15,0:03:28.86,Dialogue,sem,0,0,0,,Long day, so curry me away...
-Dialogue: 100,0:03:28.86,0:03:30.98,Dialogue,ass,0,0,0,,Did you stop for lunch in the cafeteria?
-Dialogue: 100,0:03:31.47,0:03:32.73,Dialogue,sem,0,0,0,,I haven't had a bite.
-Dialogue: 100,0:03:33.12,0:03:37.33,Dialogue,sem,0,0,0,,I got chewed out for\Npracticing magic in class.
-Dialogue: 100,0:03:37.33,0:03:37.98,italics,ass,0,0,0,,You dummy.
-Dialogue: 100,0:03:37.98,0:03:39.26,italics,ass,0,0,0,,Personal space!
-Dialogue: 100,0:03:40.02,0:03:42.30,Dialogue,sem,0,0,0,,I have just now read your mind.
-Dialogue: 100,0:03:42.30,0:03:43.05,Dialogue,ass,0,0,0,,Um?
-Dialogue: 100,0:03:43.05,0:03:46.74,Dialogue,sem,0,0,0,,You were feeling sorry for me\Nbecause I missed lunch, right?
-Dialogue: 100,0:03:47.10,0:03:49.37,Dialogue,ass,0,0,0,,I was hoping you would\Nget out of my face, actually.
-Dialogue: 100,0:03:49.70,0:03:53.35,Dialogue,sem,0,0,0,,A "mentalist" is a performer\Nwho uses psychological techniques
-Dialogue: 100,0:03:53.35,0:03:55.89,Dialogue,sem,0,0,0,,to guess what someone's thinking\Nfrom their facial expressions,
-Dialogue: 100,0:03:55.89,0:03:59.89,Dialogue,sem,0,0,0,,but makes it appear to be\Nsupernatural phenomenon!
-Dialogue: 100,0:03:59.89,0:04:02.13,Dialogue,ass,0,0,0,,Another day, another phony-sounding subject.
-Dialogue: 100,0:04:02.45,0:04:03.91,Dialogue,sem,0,0,0,,For instance, the eyes!
-Dialogue: 100,0:04:03.91,0:04:08.00,Dialogue,sem,0,0,0,,Watching their eyes is the easiest\Nway to read a person's emotions!
-Dialogue: 100,0:04:08.00,0:04:09.98,Dialogue,sem,0,0,0,,If they're looking to the upper-right,
-Dialogue: 100,0:04:09.98,0:04:14.28,Dialogue,sem,0,0,0,,there's a good chance they're\Nimagining something audio-visual.
-Dialogue: 100,0:04:14.28,0:04:17.24,Dialogue,sem,0,0,0,,If they're looking to the lower-left, there's a\N good chance they're touching something,
-Dialogue: 100,0:04:17.24,0:04:20.90,Dialogue,sem,0,0,0,,noticing a change in temperature,\Nor otherwise using their senses.
-Dialogue: 100,0:04:20.90,0:04:25.41,Dialogue,sem,0,0,0,,Now, Assistant! I shall read your body\Nlanguage to determine what you're thinking!
-Dialogue: 100,0:04:26.09,0:04:28.66,italics,ass,0,0,0,,My eyes aren't making it clear\Nthat I don't give a damn?
-Dialogue: 100,0:04:29.10,0:04:30.85,Dialogue,ass,0,0,0,,Fine, all right.
-Dialogue: 100,0:04:30.85,0:04:32.24,Dialogue,ass,0,0,0,,But only for a little while.
-Dialogue: 100,0:04:32.24,0:04:34.84,Dialogue,sem,0,0,0,,You just dropped something onto the desk!
-Dialogue: 100,0:04:34.84,0:04:35.97,Dialogue,ass,0,0,0,,Yes, and?
-Dialogue: 100,0:04:35.97,0:04:40.71,Dialogue,sem,0,0,0,,"Dropping something on a desk. This symbolizes\N open hostility towards another!"
-Dialogue: 100,0:04:40.71,0:04:43.42,Dialogue,ass,0,0,0,,Um, I don't think the desk is\Nneeded in that particular example.
-Dialogue: 100,0:04:43.42,0:04:46.70,Dialogue,ass,0,0,0,,You probably shouldn't\Ntake this stuff too literally.
-Dialogue: 100,0:04:46.70,0:04:48.30,Dialogue,sem,0,0,0,,Your gaze is shifty!
-Dialogue: 100,0:04:48.30,0:04:51.00,Dialogue,sem,0,0,0,,This indicates that someone is lacking\Nin confidence, introverted,
-Dialogue: 100,0:04:51.00,0:04:53.03,Dialogue,sem,0,0,0,,and difficult to break out of their shell!
-Dialogue: 100,0:04:53.03,0:04:55.01,Dialogue,sem,0,0,0,,My, how accurate!
-Dialogue: 100,0:04:55.01,0:04:56.19,italics,sem,0,0,0,,Are those fighting words?
-Dialogue: 100,0:04:56.19,0:04:58.70,Dialogue,sem,0,0,0,,You are henceforth an open book to me!
-Dialogue: 100,0:04:58.70,0:05:00.47,Dialogue,sem,0,0,0,,Mentalists are awesome!
-Dialogue: 100,0:05:00.47,0:05:03.30,Dialogue,ass,0,0,0,,It's not that hard to read someone's\Nthoughts from their behavior.
-Dialogue: 100,0:05:03.30,0:05:07.88,Dialogue,ass,0,0,0,,For instance, you're currently\Ndelighted by your own coolness, right?
-Dialogue: 100,0:05:09.63,0:05:10.69,Dialogue,sem,0,0,0,,That's right!
-Dialogue: 100,0:05:10.69,0:05:11.99,italics,ass,0,0,0,,Because you just said so!
-Dialogue: 100,0:05:12.30,0:05:14.21,Dialogue,ass,0,0,0,,And now you're thinking,\N"How did he know?" Right?
-Dialogue: 100,0:05:14.21,0:05:17.11,Dialogue,sem,0,0,0,,N-No! I wasn't trying to show you up!
-Dialogue: 100,0:05:17.11,0:05:18.89,Dialogue,sem,0,0,0,,I just wanted to show you \Na mentalist's amazing powers—
-Dialogue: 100,0:05:18.89,0:05:21.25,Dialogue,ass,0,0,0,,Now you're lying so you look less bad.
-Dialogue: 100,0:05:21.90,0:05:24.51,Dialogue,sem,0,0,0,,So embarrassing! Stop guessing!
-Dialogue: 100,0:05:24.79,0:05:27.76,Dialogue,ass,0,0,0,,Now my accuracy is making\Nyou want to escape the situation.
-Dialogue: 100,0:05:29.21,0:05:30.26,italics,ass,0,0,0,,She's gone quiet.
-Dialogue: 100,0:05:30.54,0:05:33.39,Dialogue,sem,0,0,0,,F-Fine! Try to read me now!
-Dialogue: 100,0:05:33.80,0:05:37.01,Dialogue,ass,0,0,0,,You're thinking that putting on a poker face\Nwill make it impossible for me to read you.
-Dialogue: 100,0:05:38.78,0:05:41.47,Dialogue,sem,0,0,0,,I guess that's the sign that I'm hungry, huh?
-Dialogue: 100,0:05:42.06,0:05:43.78,italics,ass,0,0,0,,That much was obvious.
-Dialogue: 100,0:05:44.15,0:05:45.61,Dialogue,,0,0,0,,"Mikan Sempai."
-Dialogue: 100,0:05:47.07,0:05:49.77,Dialogue,sem,0,0,0,,Look! Look! It's hand power!
-Dialogue: 100,0:05:49.77,0:05:51.91,Dialogue,ass,0,0,0,,What's with the pile of mikans?
-Dialogue: 100,0:05:52.22,0:05:55.16,Dialogue,sem,0,0,0,,A farmer who lives near\Nme gave me some, so I'm sharing!
-Dialogue: 100,0:05:55.46,0:05:57.89,Dialogue,ass,0,0,0,,But there's no way I'll get through all these.
-Dialogue: 100,0:05:57.89,0:06:00.12,Dialogue,sem,0,0,0,,I thought boys had big appetites!
-Dialogue: 100,0:06:00.12,0:06:00.79,Dialogue,ass,0,0,0,,Within limits!
-Dialogue: 100,0:06:02.20,0:06:04.93,Dialogue,sem,0,0,0,,Today, I'll do a trick named after the mikan!
-Dialogue: 100,0:06:04.93,0:06:06.42,italics,ass,0,0,0,,I knew this was leading to magic somehow.
-Dialogue: 100,0:06:06.70,0:06:10.76,Dialogue,sem,0,0,0,,I have here a paper pot\Nwith a hole right above it!
-Dialogue: 100,0:06:10.76,0:06:14.71,Dialogue,sem,0,0,0,,If we plant our magical mikan\Nseeds here, all of a sudden...
-Dialogue: 100,0:06:14.71,0:06:16.43,Dialogue,sem,0,0,0,,You see a sprout ({\i1}me{\i0})!
-Dialogue: 100,0:06:14.71,0:06:16.43,top,sign,0,0,0,,[{\i1}Me{\i0} = "Sprout" or "Eye"]
-Dialogue: 100,0:06:16.74,0:06:19.31,Dialogue,ass,0,0,0,,I bet kids would love this one.
-Dialogue: 100,0:06:20.21,0:06:21.73,Dialogue,sem,0,0,0,,And after the sprout comes...
-Dialogue: 100,0:06:21.73,0:06:23.31,Dialogue,sem,0,0,0,,Leaves ({\i1}ha{\i0})!
-Dialogue: 100,0:06:24.15,0:06:26.24,italics,ass,0,0,0,,This might be less appropriate for kids.
-Dialogue: 100,0:06:26.50,0:06:28.69,Dialogue,sem,0,0,0,,And then, the flower ({\i1}hana{\i0}) blooms!
-Dialogue: 100,0:06:26.50,0:06:28.69,top,sign,0,0,0,,[{\i1}Hana{\i0} = "Flower" or "Nose"]
-Dialogue: 100,0:06:28.69,0:06:30.36,Dialogue,ass,0,0,0,,Hey, that's a really good act.
-Dialogue: 100,0:06:31.74,0:06:33.14,Dialogue,ass,0,0,0,,I see we got some nectar, too.
-Dialogue: 100,0:06:34.01,0:06:35.92,Dialogue,ass,0,0,0,,I'm not even making a dent in these things.
-Dialogue: 100,0:06:35.92,0:06:37.87,Dialogue,sem,0,0,0,,I guess I got too many.
-Dialogue: 100,0:06:39.24,0:06:41.18,Dialogue,sem,0,0,0,,My eyes! My eyes!
-Dialogue: 100,0:06:41.18,0:06:44.06,italics,ass,0,0,0,,She probably wouldn't\Nsurvive a day on her own.
-Dialogue: 100,0:06:45.00,0:06:46.42,Dialogue,,0,0,0,,"Internet Sempai."
-Dialogue: 100,0:06:46.89,0:06:48.51,Dialogue,sem,0,0,0,,Extracurricular activities?
-Dialogue: 100,0:06:48.51,0:06:49.37,Dialogue,sem,0,0,0,,Yes!
-Dialogue: 100,0:06:49.37,0:06:51.96,Dialogue,sem,0,0,0,,Now that the magic club is official,
-Dialogue: 100,0:06:51.96,0:06:55.29,Dialogue,sem,0,0,0,,we can visit nursery schools\Nand old folks' homes!
-Dialogue: 100,0:06:55.29,0:06:56.39,Dialogue,sem,0,0,0,,So exciting!
-Dialogue: 100,0:06:56.76,0:06:59.15,Dialogue,saki,0,0,0,,Are we even getting requests for that junk?
-Dialogue: 100,0:06:59.15,0:07:01.15,Dialogue,sem,0,0,0,,I was thinking we'd work on that today!
-Dialogue: 100,0:07:01.49,0:07:04.74,Dialogue,sem,0,0,0,,We'll create a magic club site\Nand show them what we do!
-Dialogue: 100,0:07:04.74,0:07:06.84,italics,ass,0,0,0,,Have we done a single thing\Nwe'd want to make public?
-Dialogue: 100,0:07:07.69,0:07:11.81,Dialogue,sem,0,0,0,,I think someone's jealous of Sempai's\Nimpending international fame!
-Dialogue: 100,0:07:11.81,0:07:13.28,Dialogue,ass,0,0,0,,Your words make no sense.
-Dialogue: 100,0:07:13.58,0:07:15.84,Dialogue,sem,0,0,0,,I've actually made one already!
-Dialogue: 100,0:07:15.84,0:07:17.04,Dialogue,ass,0,0,0,,Let's see...
-Dialogue: 100,0:07:18.10,0:07:19.54,Dialogue,ass,0,0,0,,No freaking way!
-Dialogue: 100,0:07:19.81,0:07:22.57,Dialogue,sem,0,0,0,,I wanted to make sure it was memorable!
-Dialogue: 100,0:07:22.57,0:07:23.17,Dialogue,sem,0,0,0,,V!
-Dialogue: 100,0:07:23.46,0:07:26.17,Dialogue,ass,0,0,0,,If by "memorable," you mean\N"mentally scarring," maybe.
-Dialogue: 100,0:07:26.67,0:07:29.17,Dialogue,ass,0,0,0,,What is this creature with\Nlegs growing from its head?
-Dialogue: 100,0:07:29.17,0:07:30.09,Dialogue,sem,0,0,0,,That's you!
-Dialogue: 100,0:07:30.38,0:07:31.80,Dialogue,ass,0,0,0,,I'm suddenly terrified.
-Dialogue: 100,0:07:31.80,0:07:34.05,Dialogue,sem,0,0,0,,What, it's no good?
-Dialogue: 100,0:07:34.31,0:07:38.06,Dialogue,saki,0,0,0,,If you want people to come, \Nyou gotta put those assets on display!
-Dialogue: 100,0:07:38.06,0:07:39.81,Dialogue,saki,0,0,0,,I'll make you up something on my smartphone!
-Dialogue: 100,0:07:40.82,0:07:43.07,Dialogue,saki,0,0,0,,We gotta have photos of what we do, right?
-Dialogue: 100,0:07:43.07,0:07:45.15,Dialogue,sem,0,0,0,,Wow, it looks professional!
-Dialogue: 100,0:07:46.81,0:07:49.32,italics,ass,0,0,0,,Good thing Saki-san is digitally literate.
-Dialogue: 100,0:07:50.03,0:07:51.22,Dialogue,saki,0,0,0,,That should do it!
-Dialogue: 100,0:07:51.22,0:07:52.24,Dialogue,ass,0,0,0,,The hell it will!
-Dialogue: 100,0:07:52.24,0:07:56.11,top,sem,0,0,0,,Wow! Wow! I've got cat ears!
-Dialogue: 100,0:07:52.52,0:07:54.46,Dialogue,ass,0,0,0,,Look at that quasi-idol crap!
-Dialogue: 100,0:07:54.46,0:07:58.47,Dialogue,ass,0,0,0,,What if some creepy old man pays\Nour moron sempai to make sexy videos
-Dialogue: 100,0:07:56.11,0:07:58.47,top,sem,0,0,0,,And my eyes are so big and shiny!
-Dialogue: 100,0:07:58.47,0:08:00.92,top,sem,0,0,0,,Hey, what trick is this?
-Dialogue: 100,0:07:58.47,0:08:00.92,Dialogue,ass,0,0,0,,or demands indecent things from her?!
-Dialogue: 100,0:08:00.92,0:08:02.88,top,sem,0,0,0,,I'm getting all these messages!
-Dialogue: 100,0:08:00.92,0:08:03.69,Dialogue,saki,0,0,0,,You creep me out sometimes, Assistant-kun.
-Dialogue: 100,0:08:02.88,0:08:04.25,top,sem,0,0,0,,What to do? What to do?
-Dialogue: 100,0:08:05.13,0:08:09.25,Dialogue,sem,0,0,0,,Now, allow me to reveal the site\NI stayed up all night making!
-Dialogue: 100,0:08:10.40,0:08:11.63,Dialogue,ass,0,0,0,,You made it worse!
-Dialogue: 100,0:08:12.26,0:08:14.71,Dialogue,saki,0,0,0,,Hey, wanna cosplay for the next one?
-Dialogue: 100,0:08:14.71,0:08:16.94,Dialogue,sem,0,0,0,,It says we'll get more views\Nif we show our faces!
-Dialogue: 100,0:08:16.94,0:08:20.48,Dialogue,saki,0,0,0,,Yeah, and the sexier the better!
-Dialogue: 100,0:08:18.15,0:08:19.77,italics,ass,0,0,0,,I'll make it myself.
-Dialogue: 100,0:08:21.14,0:08:22.77,Dialogue,,0,0,0,,"Delivery Sempai."
-Dialogue: 100,0:08:23.20,0:08:25.73,italics,ass,0,0,0,,Miraculously, the web advertising bore fruit,
-Dialogue: 100,0:08:25.73,0:08:27.85,italics,ass,0,0,0,,and we got invited to perform\Nat a nursery school.
-Dialogue: 100,0:08:27.85,0:08:28.52,Dialogue,saki,0,0,0,,That's that!
-Dialogue: 100,0:08:28.85,0:08:31.65,Dialogue,saki,0,0,0,,That was Saki-chan's balloon art!
-Dialogue: 100,0:08:32.28,0:08:35.32,Dialogue,saki,0,0,0,,Okay, okay! Play rock-paper-scissors\Nfor who gets it!
-Dialogue: 100,0:08:35.32,0:08:37.55,Dialogue,ass,0,0,0,,She's really got them warmed up.
-Dialogue: 100,0:08:37.96,0:08:38.98,Dialogue,ass,0,0,0,,Sempai?
-Dialogue: 100,0:08:38.98,0:08:40.16,Dialogue,sem,0,0,0,,I know, right?!
-Dialogue: 100,0:08:40.46,0:08:43.54,Dialogue,teach,0,0,0,,Okay, magic lady! You're on!
-Dialogue: 100,0:08:44.37,0:08:45.69,Dialogue,sem,0,0,0,,R-Right...
-Dialogue: 100,0:08:47.85,0:08:49.23,italics,ass,0,0,0,,I hope she can handle this.
-Dialogue: 100,0:08:50.05,0:08:51.56,italics,sem,0,0,0,,Calm down.
-Dialogue: 100,0:08:51.56,0:08:53.92,italics,sem,0,0,0,,I prepared some tricks that kids should love.
-Dialogue: 100,0:08:53.92,0:08:56.30,italics,sem,0,0,0,,Now I just have to make it work.
-Dialogue: 100,0:08:56.82,0:08:58.76,Dialogue,sem,0,0,0,,W-Well, I'm gonna do some magic!
-Dialogue: 100,0:08:58.76,0:09:00.60,Dialogue,sem,0,0,0,,First, watch this cane!
-Dialogue: 100,0:09:02.74,0:09:04.06,Dialogue,sem,0,0,0,,Look, a flower!
-Dialogue: 100,0:09:04.47,0:09:05.19,italics,ass,0,0,0,,She broke it.
-Dialogue: 100,0:09:05.19,0:09:08.29,italics,sem,0,0,0,,I pulled it too hard!
-Dialogue: 100,0:09:13.01,0:09:14.73,Dialogue,sem,0,0,0,,Th-They like it.
-Dialogue: 100,0:09:15.31,0:09:17.92,Dialogue,sem,0,0,0,,I might just make this work today!
-Dialogue: 100,0:09:19.99,0:09:21.85,Dialogue,ass,0,0,0,,It's not so much that you're on fire
-Dialogue: 100,0:09:21.85,0:09:24.14,Dialogue,ass,0,0,0,,as your audience has low standards, I think.
-Dialogue: 100,0:09:24.14,0:09:26.46,Dialogue,teach,0,0,0,,Hush! It's funny, so let's watch.
-Dialogue: 100,0:09:26.72,0:09:28.33,Dialogue,sem,0,0,0,,Okay, let's keep it going!
-Dialogue: 100,0:09:29.74,0:09:32.56,Dialogue,sem,0,0,0,,Now, look at this picture!\NWhat does it look like?
-Dialogue: 100,0:09:32.56,0:09:33.64,Dialogue,kids,0,0,0,,A horsey!
-Dialogue: 100,0:09:33.64,0:09:34.46,Dialogue,sem,0,0,0,,That's right!
-Dialogue: 100,0:09:34.80,0:09:38.10,Dialogue,teach,0,0,0,,I see. Her pictures are very relatable.
-Dialogue: 100,0:09:38.10,0:09:39.47,Dialogue,ass,0,0,0,,Was that supposed to be a horse?
-Dialogue: 100,0:09:40.17,0:09:41.97,italics,ass,0,0,0,,I bet she drew it without using a reference.
-Dialogue: 100,0:09:41.97,0:09:43.54,Dialogue,sem,0,0,0,,But what's this?
-Dialogue: 100,0:09:43.54,0:09:46.66,Dialogue,sem,0,0,0,,There's actually another\Nanimal hidden in this picture!
-Dialogue: 100,0:09:46.66,0:09:47.48,Dialogue,sem,0,0,0,,A cow?
-Dialogue: 100,0:09:46.99,0:09:47.92,Dialogue,sem,0,0,0,,A rhino?
-Dialogue: 100,0:09:47.92,0:09:49.98,Dialogue,teach,0,0,0,,Oh, a reversible picture!
-Dialogue: 100,0:09:49.98,0:09:51.30,Dialogue,ass,0,0,0,,Reversible?
-Dialogue: 100,0:09:51.30,0:09:55.49,Dialogue,teach,0,0,0,,It's a kind of optical illusion.\NYou flip it over to make a different picture.
-Dialogue: 100,0:09:55.92,0:09:59.61,Dialogue,teach,0,0,0,,Card tricks might be a little\Nmuch for the kids, after all.
-Dialogue: 100,0:09:59.61,0:10:02.64,italics,ass,0,0,0,,Sempai... I guess she really\Nthought this through.
-Dialogue: 100,0:10:02.64,0:10:04.12,italics,ass,0,0,0,,I'm worried about the picture, though.
-Dialogue: 100,0:10:04.38,0:10:07.16,Dialogue,sem,0,0,0,,What happens when we turn it upside-down?
-Dialogue: 100,0:10:07.16,0:10:08.87,Dialogue,sem,0,0,0,,You know what it is, right?
-Dialogue: 100,0:10:08.87,0:10:11.14,italics,ass,0,0,0,,It just looks like an obscene mascot costume!
-Dialogue: 100,0:10:11.14,0:10:12.24,Dialogue,kid,0,0,0,,What is it?
-Dialogue: 100,0:10:12.24,0:10:13.69,Dialogue,kid,0,0,0,,I don't get it.
-Dialogue: 100,0:10:13.69,0:10:15.74,Dialogue,sem,0,0,0,,Oh, is it too hard?
-Dialogue: 100,0:10:15.74,0:10:18.43,Dialogue,sem,0,0,0,,Then let me give you a hint!\NIt starts with C-O-C...
-Dialogue: 100,0:10:18.43,0:10:19.64,Dialogue,ass,0,0,0,,You're kidding me!
-Dialogue: 100,0:10:19.91,0:10:21.77,Dialogue,sem,0,0,0,,Sorry, time's up!
-Dialogue: 100,0:10:21.77,0:10:22.98,Dialogue,sem,0,0,0,,The answer is...
-Dialogue: 100,0:10:22.98,0:10:24.31,Dialogue,sem,0,0,0,,Cockatiel!
-Dialogue: 100,0:10:24.31,0:10:25.49,Dialogue,ass,0,0,0,,Prove it!
-Dialogue: 100,0:10:26.11,0:10:27.61,Dialogue,sem,0,0,0,,Okay, here's the last one!
-Dialogue: 100,0:10:27.61,0:10:28.52,Dialogue,kids,0,0,0,,Candy!
-Dialogue: 100,0:10:28.98,0:10:33.76,Dialogue,sem,0,0,0,,I'm going to wave my little magic cane\Nover the candy and make it disappear!
-Dialogue: 100,0:10:34.26,0:10:35.03,Dialogue,sem,0,0,0,,Three...
-Dialogue: 100,0:10:35.03,0:10:36.03,Dialogue,sem,0,0,0,,Two...
-Dialogue: 100,0:10:36.46,0:10:37.26,Dialogue,sem,0,0,0,,One!
-Dialogue: 100,0:10:41.21,0:10:43.71,Dialogue,sem,0,0,0,,Wait, it was the cane that disappeared!
-Dialogue: 100,0:10:45.90,0:10:46.88,italics,sem,0,0,0,,Too easy!
-Dialogue: 100,0:10:46.88,0:10:49.99,italics,sem,0,0,0,,The "disappearing candy" was a\Nmisdirection for the disappearing cane!
-Dialogue: 100,0:10:49.99,0:10:53.59,italics,sem,0,0,0,,I hung the cane on my\Near after the last swing!
-Dialogue: 100,0:10:53.59,0:10:55.03,Dialogue,kid,0,0,0,,Where's the cane?
-Dialogue: 100,0:10:55.03,0:10:56.10,Dialogue,kid,0,0,0,,That's so weird.
-Dialogue: 100,0:10:56.10,0:10:59.09,italics,kid,0,0,0,,And while they're focused on the cane...
-Dialogue: 100,0:10:59.09,0:11:01.47,Dialogue,kid,0,0,0,,What? Now the candy disappeared!
-Dialogue: 100,0:11:03.85,0:11:06.00,Dialogue,kid,0,0,0,,Are you amazed, children?
-Dialogue: 100,0:11:06.00,0:11:08.28,Dialogue,kid,0,0,0,,There's nothing a magician can't do!
-Dialogue: 100,0:11:08.28,0:11:10.85,italics,sem,0,0,0,,I did it! My first success!
-Dialogue: 100,0:11:10.85,0:11:12.77,Dialogue,kids,0,0,0,,She hid it in her clothing!
-Dialogue: 100,0:11:12.77,0:11:13.94,Dialogue,kids,0,0,0,,Find it!
-Dialogue: 100,0:11:16.29,0:11:18.64,Dialogue,sem,0,0,0,,Don't do that! Hands off!
-Dialogue: 100,0:11:20.05,0:11:22.39,Dialogue,sem,0,0,0,,That's not how it was supposed to go.
-Dialogue: 100,0:11:22.89,0:11:24.99,italics,ass,0,0,0,,I think that's been her greatest success.
-Dialogue: 100,0:12:25.57,0:12:28.45,Dialogue,ass,0,0,0,,Join us next week for more {\i1}Magical Sempai{\i0}!
+Dialogue: 99,0:01:00.41,0:01:01.83,Dialogue,,0,0,0,,"Chinese Sempai."
+Dialogue: 99,0:01:02.51,0:01:05.16,flashback,sem,0,0,0,,Tomorrow, we'll learn about Chinese magic!
+Dialogue: 99,0:01:05.47,0:01:09.11,Dialogue,ass,0,0,0,,So she said, but what even is Chinese magic?
+Dialogue: 99,0:01:10.45,0:01:12.00,Dialogue,sem,0,0,0,,Nihao!
+Dialogue: 99,0:01:12.51,0:01:14.09,Dialogue,sem,0,0,0,,Xie-xie!
+Dialogue: 99,0:01:15.23,0:01:18.93,Dialogue,sem,0,0,0,,I'm spinning even more than usual today!
+Dialogue: 99,0:01:19.37,0:01:20.93,Dialogue,ass,0,0,0,,Nihao, Sempai!
+Dialogue: 99,0:01:20.93,0:01:22.06,Dialogue,ass,0,0,0,,What's this Chinese magic we'll be—
+Dialogue: 99,0:01:22.06,0:01:23.56,Dialogue,sem,0,0,0,,Hey there, Assistant!
+Dialogue: 99,0:01:26.76,0:01:30.82,Dialogue,sem,0,0,0,,Today's topic will be the\NChinese magic called bian lian!
+Dialogue: 99,0:01:31.15,0:01:35.53,Dialogue,sem,0,0,0,,Bian lian involves swapping out\Nmasks faster than the eye can see!
+Dialogue: 99,0:01:35.53,0:01:38.57,Dialogue,sem,0,0,0,,The mechanism is said to be\Na Chinese national secret!
+Dialogue: 99,0:01:38.89,0:01:40.32,Dialogue,ass,0,0,0,,Is that even true?
+Dialogue: 99,0:01:40.32,0:01:44.21,Dialogue,sem,0,0,0,,So we're going to work together\Nto figure out how they do it!
+Dialogue: 99,0:01:44.21,0:01:45.18,Dialogue,,0,0,0,,Yeah!
+Dialogue: 99,0:01:45.81,0:01:49.30,Dialogue,ma,0,0,0,,I theorize that they wear\Nmultiple thin layers,
+Dialogue: 99,0:01:49.30,0:01:52.37,Dialogue,ma,0,0,0,,swiftly peel them off,\Nand hide them in the sleeves.
+Dialogue: 99,0:01:52.37,0:01:55.53,Dialogue,saki,0,0,0,,Oh, totally! I was gonna\Nsay the very same thing!
+Dialogue: 99,0:01:55.53,0:01:56.59,Dialogue,sem,0,0,0,,Let's try it!
+Dialogue: 99,0:01:57.17,0:02:00.45,Dialogue,sem,0,0,0,,We need something thin,\Nso I prepared some plastic wrap.
+Dialogue: 99,0:02:00.45,0:02:02.95,Dialogue,sem,0,0,0,,We'll cut some face-size\Nsheets and then layer them up,
+Dialogue: 99,0:02:02.95,0:02:05.85,Dialogue,sem,0,0,0,,then fix them to Masashi-kun's face, and...
+Dialogue: 99,0:02:06.17,0:02:10.34,Dialogue,sem,0,0,0,,There! The meat is packed and ready to go!
+Dialogue: 99,0:02:10.34,0:02:11.77,Dialogue,saki,0,0,0,,What's that you just said?
+Dialogue: 99,0:02:11.77,0:02:12.94,Dialogue,sem,0,0,0,,Sorry, couldn't help it!
+Dialogue: 99,0:02:13.16,0:02:15.37,Dialogue,saki,0,0,0,,Ma-kun, tell her off already!
+Dialogue: 99,0:02:15.37,0:02:17.43,Dialogue,ass,0,0,0,,Did you guys forget the air holes?!
+Dialogue: 99,0:02:17.87,0:02:20.36,Dialogue,ass,0,0,0,,Maybe there's another person behind them.
+Dialogue: 99,0:02:20.71,0:02:23.23,Dialogue,ass,0,0,0,,That person swaps the masks really quickly.
+Dialogue: 99,0:02:23.23,0:02:26.66,Dialogue,sem,0,0,0,,There's an idea! Maybe that's\Nwhy their clothes look so big!
+Dialogue: 99,0:02:26.66,0:02:28.75,Dialogue,sem,0,0,0,,Okay, coming in behind!
+Dialogue: 99,0:02:30.11,0:02:32.00,italics,ass,0,0,0,,Her chest is all up on my back.
+Dialogue: 99,0:02:32.61,0:02:34.76,Dialogue,ass,0,0,0,,Hey, maybe you should be in front—
+Dialogue: 99,0:02:35.89,0:02:37.42,Dialogue,sem,0,0,0,,What did you say?
+Dialogue: 99,0:02:38.46,0:02:40.88,Dialogue,ass,0,0,0,,The dumber one should be in front.
+Dialogue: 99,0:02:40.88,0:02:42.37,Dialogue,sem,0,0,0,,You're scarier than the mask!
+Dialogue: 99,0:02:43.88,0:02:46.80,Dialogue,sem,0,0,0,,I think we've almost gotten\Nto the heart of this.
+Dialogue: 99,0:02:46.80,0:02:48.81,Dialogue,ass,0,0,0,,You think this little league\Ngarbage is a national secret?!
+Dialogue: 99,0:02:48.81,0:02:51.34,Dialogue,sem,0,0,0,,Lastly, I bet they rig up the masks somehow.
+Dialogue: 99,0:02:51.34,0:02:54.57,Dialogue,sem,0,0,0,,Like, they're designed to split in the middle.
+Dialogue: 99,0:02:56.30,0:02:58.82,Dialogue,sem,0,0,0,,Now, since the dumber one should be in front...
+Dialogue: 99,0:02:58.82,0:02:59.95,Dialogue,saki,0,0,0,,I'll sock you one.
+Dialogue: 99,0:03:00.31,0:03:02.45,italics,sem,0,0,0,,I can't see anything through her hair!
+Dialogue: 99,0:03:02.45,0:03:04.86,italics,sem,0,0,0,,I can't even tell where the mask is!
+Dialogue: 99,0:03:05.77,0:03:06.89,italics,sem,0,0,0,,I think that's it!
+Dialogue: 99,0:03:06.89,0:03:10.24,italics,sem,0,0,0,,Now grab tight and tear it apart!
+Dialogue: 99,0:03:10.24,0:03:11.21,Dialogue,sem,0,0,0,,Here we go!
+Dialogue: 99,0:03:12.61,0:03:13.58,Dialogue,ass,0,0,0,,Purge!
+Dialogue: 99,0:03:16.30,0:03:18.34,Dialogue,sem,0,0,0,,Well? Did it break cleanly?
+Dialogue: 99,0:03:21.95,0:03:23.84,italics,ass,0,0,0,,Instant 180...
+Dialogue: 99,0:03:24.22,0:03:25.85,Dialogue,,0,0,0,,"Mentalist Sempai."
+Dialogue: 99,0:03:27.15,0:03:28.86,Dialogue,sem,0,0,0,,Long day, so curry me away...
+Dialogue: 99,0:03:28.86,0:03:30.98,Dialogue,ass,0,0,0,,Did you stop for lunch in the cafeteria?
+Dialogue: 99,0:03:31.47,0:03:32.73,Dialogue,sem,0,0,0,,I haven't had a bite.
+Dialogue: 99,0:03:33.12,0:03:37.33,Dialogue,sem,0,0,0,,I got chewed out for\Npracticing magic in class.
+Dialogue: 99,0:03:37.33,0:03:37.98,italics,ass,0,0,0,,You dummy.
+Dialogue: 99,0:03:37.98,0:03:39.26,italics,ass,0,0,0,,Personal space!
+Dialogue: 99,0:03:40.02,0:03:42.30,Dialogue,sem,0,0,0,,I have just now read your mind.
+Dialogue: 99,0:03:42.30,0:03:43.05,Dialogue,ass,0,0,0,,Um?
+Dialogue: 99,0:03:43.05,0:03:46.74,Dialogue,sem,0,0,0,,You were feeling sorry for me\Nbecause I missed lunch, right?
+Dialogue: 99,0:03:47.10,0:03:49.37,Dialogue,ass,0,0,0,,I was hoping you would\Nget out of my face, actually.
+Dialogue: 99,0:03:49.70,0:03:53.35,Dialogue,sem,0,0,0,,A "mentalist" is a performer\Nwho uses psychological techniques
+Dialogue: 99,0:03:53.35,0:03:55.89,Dialogue,sem,0,0,0,,to guess what someone's thinking\Nfrom their facial expressions,
+Dialogue: 99,0:03:55.89,0:03:59.89,Dialogue,sem,0,0,0,,but makes it appear to be\Nsupernatural phenomenon!
+Dialogue: 99,0:03:59.89,0:04:02.13,Dialogue,ass,0,0,0,,Another day, another phony-sounding subject.
+Dialogue: 99,0:04:02.45,0:04:03.91,Dialogue,sem,0,0,0,,For instance, the eyes!
+Dialogue: 99,0:04:03.91,0:04:08.00,Dialogue,sem,0,0,0,,Watching their eyes is the easiest\Nway to read a person's emotions!
+Dialogue: 99,0:04:08.00,0:04:09.98,Dialogue,sem,0,0,0,,If they're looking to the upper-right,
+Dialogue: 99,0:04:09.98,0:04:14.28,Dialogue,sem,0,0,0,,there's a good chance they're\Nimagining something audio-visual.
+Dialogue: 99,0:04:14.28,0:04:17.24,Dialogue,sem,0,0,0,,If they're looking to the lower-left, there's a\N good chance they're touching something,
+Dialogue: 99,0:04:17.24,0:04:20.90,Dialogue,sem,0,0,0,,noticing a change in temperature,\Nor otherwise using their senses.
+Dialogue: 99,0:04:20.90,0:04:25.41,Dialogue,sem,0,0,0,,Now, Assistant! I shall read your body\Nlanguage to determine what you're thinking!
+Dialogue: 99,0:04:26.09,0:04:28.66,italics,ass,0,0,0,,My eyes aren't making it clear\Nthat I don't give a damn?
+Dialogue: 99,0:04:29.10,0:04:30.85,Dialogue,ass,0,0,0,,Fine, all right.
+Dialogue: 99,0:04:30.85,0:04:32.24,Dialogue,ass,0,0,0,,But only for a little while.
+Dialogue: 99,0:04:32.24,0:04:34.84,Dialogue,sem,0,0,0,,You just dropped something onto the desk!
+Dialogue: 99,0:04:34.84,0:04:35.97,Dialogue,ass,0,0,0,,Yes, and?
+Dialogue: 99,0:04:35.97,0:04:40.71,Dialogue,sem,0,0,0,,"Dropping something on a desk. This symbolizes\N open hostility towards another!"
+Dialogue: 99,0:04:40.71,0:04:43.42,Dialogue,ass,0,0,0,,Um, I don't think the desk is\Nneeded in that particular example.
+Dialogue: 99,0:04:43.42,0:04:46.70,Dialogue,ass,0,0,0,,You probably shouldn't\Ntake this stuff too literally.
+Dialogue: 99,0:04:46.70,0:04:48.30,Dialogue,sem,0,0,0,,Your gaze is shifty!
+Dialogue: 99,0:04:48.30,0:04:51.00,Dialogue,sem,0,0,0,,This indicates that someone is lacking\Nin confidence, introverted,
+Dialogue: 99,0:04:51.00,0:04:53.03,Dialogue,sem,0,0,0,,and difficult to break out of their shell!
+Dialogue: 99,0:04:53.03,0:04:55.01,Dialogue,sem,0,0,0,,My, how accurate!
+Dialogue: 99,0:04:55.01,0:04:56.19,italics,sem,0,0,0,,Are those fighting words?
+Dialogue: 99,0:04:56.19,0:04:58.70,Dialogue,sem,0,0,0,,You are henceforth an open book to me!
+Dialogue: 99,0:04:58.70,0:05:00.47,Dialogue,sem,0,0,0,,Mentalists are awesome!
+Dialogue: 99,0:05:00.47,0:05:03.30,Dialogue,ass,0,0,0,,It's not that hard to read someone's\Nthoughts from their behavior.
+Dialogue: 99,0:05:03.30,0:05:07.88,Dialogue,ass,0,0,0,,For instance, you're currently\Ndelighted by your own coolness, right?
+Dialogue: 99,0:05:09.63,0:05:10.69,Dialogue,sem,0,0,0,,That's right!
+Dialogue: 99,0:05:10.69,0:05:11.99,italics,ass,0,0,0,,Because you just said so!
+Dialogue: 99,0:05:12.30,0:05:14.21,Dialogue,ass,0,0,0,,And now you're thinking,\N"How did he know?" Right?
+Dialogue: 99,0:05:14.21,0:05:17.11,Dialogue,sem,0,0,0,,N-No! I wasn't trying to show you up!
+Dialogue: 99,0:05:17.11,0:05:18.89,Dialogue,sem,0,0,0,,I just wanted to show you \Na mentalist's amazing powers—
+Dialogue: 99,0:05:18.89,0:05:21.25,Dialogue,ass,0,0,0,,Now you're lying so you look less bad.
+Dialogue: 99,0:05:21.90,0:05:24.51,Dialogue,sem,0,0,0,,So embarrassing! Stop guessing!
+Dialogue: 99,0:05:24.79,0:05:27.76,Dialogue,ass,0,0,0,,Now my accuracy is making\Nyou want to escape the situation.
+Dialogue: 99,0:05:29.21,0:05:30.26,italics,ass,0,0,0,,She's gone quiet.
+Dialogue: 99,0:05:30.54,0:05:33.39,Dialogue,sem,0,0,0,,F-Fine! Try to read me now!
+Dialogue: 99,0:05:33.80,0:05:37.01,Dialogue,ass,0,0,0,,You're thinking that putting on a poker face\Nwill make it impossible for me to read you.
+Dialogue: 99,0:05:38.78,0:05:41.47,Dialogue,sem,0,0,0,,I guess that's the sign that I'm hungry, huh?
+Dialogue: 99,0:05:42.06,0:05:43.78,italics,ass,0,0,0,,That much was obvious.
+Dialogue: 99,0:05:44.15,0:05:45.61,Dialogue,,0,0,0,,"Mikan Sempai."
+Dialogue: 99,0:05:47.07,0:05:49.77,Dialogue,sem,0,0,0,,Look! Look! It's hand power!
+Dialogue: 99,0:05:49.77,0:05:51.91,Dialogue,ass,0,0,0,,What's with the pile of mikans?
+Dialogue: 99,0:05:52.22,0:05:55.16,Dialogue,sem,0,0,0,,A farmer who lives near\Nme gave me some, so I'm sharing!
+Dialogue: 99,0:05:55.46,0:05:57.89,Dialogue,ass,0,0,0,,But there's no way I'll get through all these.
+Dialogue: 99,0:05:57.89,0:06:00.12,Dialogue,sem,0,0,0,,I thought boys had big appetites!
+Dialogue: 99,0:06:00.12,0:06:00.79,Dialogue,ass,0,0,0,,Within limits!
+Dialogue: 99,0:06:02.20,0:06:04.93,Dialogue,sem,0,0,0,,Today, I'll do a trick named after the mikan!
+Dialogue: 99,0:06:04.93,0:06:06.42,italics,ass,0,0,0,,I knew this was leading to magic somehow.
+Dialogue: 99,0:06:06.70,0:06:10.76,Dialogue,sem,0,0,0,,I have here a paper pot\Nwith a hole right above it!
+Dialogue: 99,0:06:10.76,0:06:14.71,Dialogue,sem,0,0,0,,If we plant our magical mikan\Nseeds here, all of a sudden...
+Dialogue: 99,0:06:14.71,0:06:16.43,Dialogue,sem,0,0,0,,You see a sprout ({\i1}me{\i0})!
+Dialogue: 99,0:06:14.71,0:06:16.43,top,sign,0,0,0,,[{\i1}Me{\i0} = "Sprout" or "Eye"]
+Dialogue: 99,0:06:16.74,0:06:19.31,Dialogue,ass,0,0,0,,I bet kids would love this one.
+Dialogue: 99,0:06:20.21,0:06:21.73,Dialogue,sem,0,0,0,,And after the sprout comes...
+Dialogue: 99,0:06:21.73,0:06:23.31,Dialogue,sem,0,0,0,,Leaves ({\i1}ha{\i0})!
+Dialogue: 99,0:06:24.15,0:06:26.24,italics,ass,0,0,0,,This might be less appropriate for kids.
+Dialogue: 99,0:06:26.50,0:06:28.69,Dialogue,sem,0,0,0,,And then, the flower ({\i1}hana{\i0}) blooms!
+Dialogue: 99,0:06:26.50,0:06:28.69,top,sign,0,0,0,,[{\i1}Hana{\i0} = "Flower" or "Nose"]
+Dialogue: 99,0:06:28.69,0:06:30.36,Dialogue,ass,0,0,0,,Hey, that's a really good act.
+Dialogue: 99,0:06:31.74,0:06:33.14,Dialogue,ass,0,0,0,,I see we got some nectar, too.
+Dialogue: 99,0:06:34.01,0:06:35.92,Dialogue,ass,0,0,0,,I'm not even making a dent in these things.
+Dialogue: 99,0:06:35.92,0:06:37.87,Dialogue,sem,0,0,0,,I guess I got too many.
+Dialogue: 99,0:06:39.24,0:06:41.18,Dialogue,sem,0,0,0,,My eyes! My eyes!
+Dialogue: 99,0:06:41.18,0:06:44.06,italics,ass,0,0,0,,She probably wouldn't\Nsurvive a day on her own.
+Dialogue: 99,0:06:45.00,0:06:46.42,Dialogue,,0,0,0,,"Internet Sempai."
+Dialogue: 99,0:06:46.89,0:06:48.51,Dialogue,sem,0,0,0,,Extracurricular activities?
+Dialogue: 99,0:06:48.51,0:06:49.37,Dialogue,sem,0,0,0,,Yes!
+Dialogue: 99,0:06:49.37,0:06:51.96,Dialogue,sem,0,0,0,,Now that the magic club is official,
+Dialogue: 99,0:06:51.96,0:06:55.29,Dialogue,sem,0,0,0,,we can visit nursery schools\Nand old folks' homes!
+Dialogue: 99,0:06:55.29,0:06:56.39,Dialogue,sem,0,0,0,,So exciting!
+Dialogue: 99,0:06:56.76,0:06:59.15,Dialogue,saki,0,0,0,,Are we even getting requests for that junk?
+Dialogue: 99,0:06:59.15,0:07:01.15,Dialogue,sem,0,0,0,,I was thinking we'd work on that today!
+Dialogue: 99,0:07:01.49,0:07:04.74,Dialogue,sem,0,0,0,,We'll create a magic club site\Nand show them what we do!
+Dialogue: 99,0:07:04.74,0:07:06.84,italics,ass,0,0,0,,Have we done a single thing\Nwe'd want to make public?
+Dialogue: 99,0:07:07.69,0:07:11.81,Dialogue,sem,0,0,0,,I think someone's jealous of Sempai's\Nimpending international fame!
+Dialogue: 99,0:07:11.81,0:07:13.28,Dialogue,ass,0,0,0,,Your words make no sense.
+Dialogue: 99,0:07:13.58,0:07:15.84,Dialogue,sem,0,0,0,,I've actually made one already!
+Dialogue: 99,0:07:15.84,0:07:17.04,Dialogue,ass,0,0,0,,Let's see...
+Dialogue: 99,0:07:18.10,0:07:19.54,Dialogue,ass,0,0,0,,No freaking way!
+Dialogue: 99,0:07:19.81,0:07:22.57,Dialogue,sem,0,0,0,,I wanted to make sure it was memorable!
+Dialogue: 99,0:07:22.57,0:07:23.17,Dialogue,sem,0,0,0,,V!
+Dialogue: 99,0:07:23.46,0:07:26.17,Dialogue,ass,0,0,0,,If by "memorable," you mean\N"mentally scarring," maybe.
+Dialogue: 99,0:07:26.67,0:07:29.17,Dialogue,ass,0,0,0,,What is this creature with\Nlegs growing from its head?
+Dialogue: 99,0:07:29.17,0:07:30.09,Dialogue,sem,0,0,0,,That's you!
+Dialogue: 99,0:07:30.38,0:07:31.80,Dialogue,ass,0,0,0,,I'm suddenly terrified.
+Dialogue: 99,0:07:31.80,0:07:34.05,Dialogue,sem,0,0,0,,What, it's no good?
+Dialogue: 99,0:07:34.31,0:07:38.06,Dialogue,saki,0,0,0,,If you want people to come, \Nyou gotta put those assets on display!
+Dialogue: 99,0:07:38.06,0:07:39.81,Dialogue,saki,0,0,0,,I'll make you up something on my smartphone!
+Dialogue: 99,0:07:40.82,0:07:43.07,Dialogue,saki,0,0,0,,We gotta have photos of what we do, right?
+Dialogue: 99,0:07:43.07,0:07:45.15,Dialogue,sem,0,0,0,,Wow, it looks professional!
+Dialogue: 99,0:07:46.81,0:07:49.32,italics,ass,0,0,0,,Good thing Saki-san is digitally literate.
+Dialogue: 99,0:07:50.03,0:07:51.22,Dialogue,saki,0,0,0,,That should do it!
+Dialogue: 99,0:07:51.22,0:07:52.24,Dialogue,ass,0,0,0,,The hell it will!
+Dialogue: 99,0:07:52.24,0:07:56.11,top,sem,0,0,0,,Wow! Wow! I've got cat ears!
+Dialogue: 99,0:07:52.52,0:07:54.46,Dialogue,ass,0,0,0,,Look at that quasi-idol crap!
+Dialogue: 99,0:07:54.46,0:07:58.47,Dialogue,ass,0,0,0,,What if some creepy old man pays\Nour moron sempai to make sexy videos
+Dialogue: 99,0:07:56.11,0:07:58.47,top,sem,0,0,0,,And my eyes are so big and shiny!
+Dialogue: 99,0:07:58.47,0:08:00.92,top,sem,0,0,0,,Hey, what trick is this?
+Dialogue: 99,0:07:58.47,0:08:00.92,Dialogue,ass,0,0,0,,or demands indecent things from her?!
+Dialogue: 99,0:08:00.92,0:08:02.88,top,sem,0,0,0,,I'm getting all these messages!
+Dialogue: 99,0:08:00.92,0:08:03.69,Dialogue,saki,0,0,0,,You creep me out sometimes, Assistant-kun.
+Dialogue: 99,0:08:02.88,0:08:04.25,top,sem,0,0,0,,What to do? What to do?
+Dialogue: 99,0:08:05.13,0:08:09.25,Dialogue,sem,0,0,0,,Now, allow me to reveal the site\NI stayed up all night making!
+Dialogue: 99,0:08:10.40,0:08:11.63,Dialogue,ass,0,0,0,,You made it worse!
+Dialogue: 99,0:08:12.26,0:08:14.71,Dialogue,saki,0,0,0,,Hey, wanna cosplay for the next one?
+Dialogue: 99,0:08:14.71,0:08:16.94,Dialogue,sem,0,0,0,,It says we'll get more views\Nif we show our faces!
+Dialogue: 99,0:08:16.94,0:08:20.48,Dialogue,saki,0,0,0,,Yeah, and the sexier the better!
+Dialogue: 99,0:08:18.15,0:08:19.77,italics,ass,0,0,0,,I'll make it myself.
+Dialogue: 99,0:08:21.14,0:08:22.77,Dialogue,,0,0,0,,"Delivery Sempai."
+Dialogue: 99,0:08:23.20,0:08:25.73,italics,ass,0,0,0,,Miraculously, the web advertising bore fruit,
+Dialogue: 99,0:08:25.73,0:08:27.85,italics,ass,0,0,0,,and we got invited to perform\Nat a nursery school.
+Dialogue: 99,0:08:27.85,0:08:28.52,Dialogue,saki,0,0,0,,That's that!
+Dialogue: 99,0:08:28.85,0:08:31.65,Dialogue,saki,0,0,0,,That was Saki-chan's balloon art!
+Dialogue: 99,0:08:32.28,0:08:35.32,Dialogue,saki,0,0,0,,Okay, okay! Play rock-paper-scissors\Nfor who gets it!
+Dialogue: 99,0:08:35.32,0:08:37.55,Dialogue,ass,0,0,0,,She's really got them warmed up.
+Dialogue: 99,0:08:37.96,0:08:38.98,Dialogue,ass,0,0,0,,Sempai?
+Dialogue: 99,0:08:38.98,0:08:40.16,Dialogue,sem,0,0,0,,I know, right?!
+Dialogue: 99,0:08:40.46,0:08:43.54,Dialogue,teach,0,0,0,,Okay, magic lady! You're on!
+Dialogue: 99,0:08:44.37,0:08:45.69,Dialogue,sem,0,0,0,,R-Right...
+Dialogue: 99,0:08:47.85,0:08:49.23,italics,ass,0,0,0,,I hope she can handle this.
+Dialogue: 99,0:08:50.05,0:08:51.56,italics,sem,0,0,0,,Calm down.
+Dialogue: 99,0:08:51.56,0:08:53.92,italics,sem,0,0,0,,I prepared some tricks that kids should love.
+Dialogue: 99,0:08:53.92,0:08:56.30,italics,sem,0,0,0,,Now I just have to make it work.
+Dialogue: 99,0:08:56.82,0:08:58.76,Dialogue,sem,0,0,0,,W-Well, I'm gonna do some magic!
+Dialogue: 99,0:08:58.76,0:09:00.60,Dialogue,sem,0,0,0,,First, watch this cane!
+Dialogue: 99,0:09:02.74,0:09:04.06,Dialogue,sem,0,0,0,,Look, a flower!
+Dialogue: 99,0:09:04.47,0:09:05.19,italics,ass,0,0,0,,She broke it.
+Dialogue: 99,0:09:05.19,0:09:08.29,italics,sem,0,0,0,,I pulled it too hard!
+Dialogue: 99,0:09:13.01,0:09:14.73,Dialogue,sem,0,0,0,,Th-They like it.
+Dialogue: 99,0:09:15.31,0:09:17.92,Dialogue,sem,0,0,0,,I might just make this work today!
+Dialogue: 99,0:09:19.99,0:09:21.85,Dialogue,ass,0,0,0,,It's not so much that you're on fire
+Dialogue: 99,0:09:21.85,0:09:24.14,Dialogue,ass,0,0,0,,as your audience has low standards, I think.
+Dialogue: 99,0:09:24.14,0:09:26.46,Dialogue,teach,0,0,0,,Hush! It's funny, so let's watch.
+Dialogue: 99,0:09:26.72,0:09:28.33,Dialogue,sem,0,0,0,,Okay, let's keep it going!
+Dialogue: 99,0:09:29.74,0:09:32.56,Dialogue,sem,0,0,0,,Now, look at this picture!\NWhat does it look like?
+Dialogue: 99,0:09:32.56,0:09:33.64,Dialogue,kids,0,0,0,,A horsey!
+Dialogue: 99,0:09:33.64,0:09:34.46,Dialogue,sem,0,0,0,,That's right!
+Dialogue: 99,0:09:34.80,0:09:38.10,Dialogue,teach,0,0,0,,I see. Her pictures are very relatable.
+Dialogue: 99,0:09:38.10,0:09:39.47,Dialogue,ass,0,0,0,,Was that supposed to be a horse?
+Dialogue: 99,0:09:40.17,0:09:41.97,italics,ass,0,0,0,,I bet she drew it without using a reference.
+Dialogue: 99,0:09:41.97,0:09:43.54,Dialogue,sem,0,0,0,,But what's this?
+Dialogue: 99,0:09:43.54,0:09:46.66,Dialogue,sem,0,0,0,,There's actually another\Nanimal hidden in this picture!
+Dialogue: 99,0:09:46.66,0:09:47.48,Dialogue,sem,0,0,0,,A cow?
+Dialogue: 99,0:09:46.99,0:09:47.92,Dialogue,sem,0,0,0,,A rhino?
+Dialogue: 99,0:09:47.92,0:09:49.98,Dialogue,teach,0,0,0,,Oh, a reversible picture!
+Dialogue: 99,0:09:49.98,0:09:51.30,Dialogue,ass,0,0,0,,Reversible?
+Dialogue: 99,0:09:51.30,0:09:55.49,Dialogue,teach,0,0,0,,It's a kind of optical illusion.\NYou flip it over to make a different picture.
+Dialogue: 99,0:09:55.92,0:09:59.61,Dialogue,teach,0,0,0,,Card tricks might be a little\Nmuch for the kids, after all.
+Dialogue: 99,0:09:59.61,0:10:02.64,italics,ass,0,0,0,,Sempai... I guess she really\Nthought this through.
+Dialogue: 99,0:10:02.64,0:10:04.12,italics,ass,0,0,0,,I'm worried about the picture, though.
+Dialogue: 99,0:10:04.38,0:10:07.16,Dialogue,sem,0,0,0,,What happens when we turn it upside-down?
+Dialogue: 99,0:10:07.16,0:10:08.87,Dialogue,sem,0,0,0,,You know what it is, right?
+Dialogue: 99,0:10:08.87,0:10:11.14,italics,ass,0,0,0,,It just looks like an obscene mascot costume!
+Dialogue: 99,0:10:11.14,0:10:12.24,Dialogue,kid,0,0,0,,What is it?
+Dialogue: 99,0:10:12.24,0:10:13.69,Dialogue,kid,0,0,0,,I don't get it.
+Dialogue: 99,0:10:13.69,0:10:15.74,Dialogue,sem,0,0,0,,Oh, is it too hard?
+Dialogue: 99,0:10:15.74,0:10:18.43,Dialogue,sem,0,0,0,,Then let me give you a hint!\NIt starts with C-O-C...
+Dialogue: 99,0:10:18.43,0:10:19.64,Dialogue,ass,0,0,0,,You're kidding me!
+Dialogue: 99,0:10:19.91,0:10:21.77,Dialogue,sem,0,0,0,,Sorry, time's up!
+Dialogue: 99,0:10:21.77,0:10:22.98,Dialogue,sem,0,0,0,,The answer is...
+Dialogue: 99,0:10:22.98,0:10:24.31,Dialogue,sem,0,0,0,,Cockatiel!
+Dialogue: 99,0:10:24.31,0:10:25.49,Dialogue,ass,0,0,0,,Prove it!
+Dialogue: 99,0:10:26.11,0:10:27.61,Dialogue,sem,0,0,0,,Okay, here's the last one!
+Dialogue: 99,0:10:27.61,0:10:28.52,Dialogue,kids,0,0,0,,Candy!
+Dialogue: 99,0:10:28.98,0:10:33.76,Dialogue,sem,0,0,0,,I'm going to wave my little magic cane\Nover the candy and make it disappear!
+Dialogue: 99,0:10:34.26,0:10:35.03,Dialogue,sem,0,0,0,,Three...
+Dialogue: 99,0:10:35.03,0:10:36.03,Dialogue,sem,0,0,0,,Two...
+Dialogue: 99,0:10:36.46,0:10:37.26,Dialogue,sem,0,0,0,,One!
+Dialogue: 99,0:10:41.21,0:10:43.71,Dialogue,sem,0,0,0,,Wait, it was the cane that disappeared!
+Dialogue: 99,0:10:45.90,0:10:46.88,italics,sem,0,0,0,,Too easy!
+Dialogue: 99,0:10:46.88,0:10:49.99,italics,sem,0,0,0,,The "disappearing candy" was a\Nmisdirection for the disappearing cane!
+Dialogue: 99,0:10:49.99,0:10:53.59,italics,sem,0,0,0,,I hung the cane on my\Near after the last swing!
+Dialogue: 99,0:10:53.59,0:10:55.03,Dialogue,kid,0,0,0,,Where's the cane?
+Dialogue: 99,0:10:55.03,0:10:56.10,Dialogue,kid,0,0,0,,That's so weird.
+Dialogue: 99,0:10:56.10,0:10:59.09,italics,kid,0,0,0,,And while they're focused on the cane...
+Dialogue: 99,0:10:59.09,0:11:01.47,Dialogue,kid,0,0,0,,What? Now the candy disappeared!
+Dialogue: 99,0:11:03.85,0:11:06.00,Dialogue,kid,0,0,0,,Are you amazed, children?
+Dialogue: 99,0:11:06.00,0:11:08.28,Dialogue,kid,0,0,0,,There's nothing a magician can't do!
+Dialogue: 99,0:11:08.28,0:11:10.85,italics,sem,0,0,0,,I did it! My first success!
+Dialogue: 99,0:11:10.85,0:11:12.77,Dialogue,kids,0,0,0,,She hid it in her clothing!
+Dialogue: 99,0:11:12.77,0:11:13.94,Dialogue,kids,0,0,0,,Find it!
+Dialogue: 99,0:11:16.29,0:11:18.64,Dialogue,sem,0,0,0,,Don't do that! Hands off!
+Dialogue: 99,0:11:20.05,0:11:22.39,Dialogue,sem,0,0,0,,That's not how it was supposed to go.
+Dialogue: 99,0:11:22.89,0:11:24.99,italics,ass,0,0,0,,I think that's been her greatest success.
+Dialogue: 99,0:12:25.57,0:12:28.45,Dialogue,ass,0,0,0,,Join us next week for more {\i1}Magical Sempai{\i0}!
 Dialogue: 0,0:01:00.03,0:01:02.04,DedzuyaSigns,,0,0,0,,Chinese {\c&HDDCA21&}Sempai
 Dialogue: 0,0:01:45.58,0:01:52.29,DedzuyaSigns,,0,0,0,,Teoria lui Masashi și Saki
 Dialogue: 0,0:02:17.44,0:02:20.36,DedzuyaSigns,,0,0,0,,Teoria asistentului

@@ -27,387 +27,387 @@ Style: Shirushibi TL,Cardo,74,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:06.48,0:00:09.94,Dialogue,,0,0,0,,{\i1}Stagnate este consumat \Nde dorința de a mă ucide.
-Dialogue: 100,0:00:09.94,0:00:11.45,Dialogue,,0,0,0,,{\i1}Pot lupta cu el de la egal la egal.
-Dialogue: 100,0:00:11.45,0:00:12.98,Dialogue,,0,0,0,,{\i1}Dacă ne vom lupta acum...
-Dialogue: 100,0:00:18.16,0:00:19.83,Dialogue,,0,0,0,,Nu! Templul!
-Dialogue: 100,0:00:19.83,0:00:21.35,Dialogue,,0,0,0,,{\an8}Acceleratio!
-Dialogue: 100,0:00:22.21,0:00:23.68,Dialogue,,0,0,0,,{\i1}Totul a fost o cacealma.
-Dialogue: 100,0:00:23.68,0:00:25.87,Dialogue,,0,0,0,,{\i1}S-a prefăcut că e consumat de furie,
-Dialogue: 100,0:00:25.87,0:00:28.16,Dialogue,,0,0,0,,{\i1}iar apoi s-a folosit de norul de praf...
-Dialogue: 100,0:00:28.16,0:00:31.21,Dialogue,,0,0,0,,{\i1}Adevăratele sale ținte sunt Mary și Blood!
-Dialogue: 100,0:00:31.97,0:00:34.35,Dialogue,,0,0,0,,{\i1}Trebuie să ajung la timp!
-Dialogue: 100,0:00:34.35,0:00:35.39,Dialogue,,0,0,0,,{\i1}Te rog!
-Dialogue: 100,0:00:35.97,0:00:37.22,Dialogue,,0,0,0,,{\an8}Acceleratio!
-Dialogue: 100,0:00:39.18,0:00:41.39,Dialogue,,0,0,0,,{\i1}Dacă pot crede ceea ce a spus Stagnate,
-Dialogue: 100,0:00:41.39,0:00:45.33,Dialogue,,0,0,0,,{\i1}atunci, poate sunt o persoană cu care el consideră că trebuie să fie precaută.
-Dialogue: 100,0:00:45.84,0:00:50.89,Dialogue,,0,0,0,,{\i1}Dar asta nu înseamnă nimic pentru un zeu al morților vii care poate trăi veșnic.
-Dialogue: 100,0:00:51.09,0:00:55.52,Dialogue,,0,0,0,,{\i1}Prioritatea sa în acest moment e să ajungă la Blood și Mary, iar apoi la Gus.
-Dialogue: 100,0:00:55.52,0:01:00.10,Dialogue,,0,0,0,,{\i1}Acum că am protecția divină a zeiței luminii și mă pot ruga pentru a primi binecuvântarea ei,
-Dialogue: 100,0:01:00.10,0:01:02.77,Dialogue,,0,0,0,,{\i1}îi pot trimite pe cei trei în \Nciclul morții și renașterii!
-Dialogue: 100,0:01:02.77,0:01:04.95,Dialogue,,0,0,0,,{\i1}La acest lucru e el precaut!
-Dialogue: 100,0:01:04.95,0:01:08.70,Dialogue,,0,0,0,,{\i1}A pus în balanță sufletele lui Blood și Mary cu riscul pe care-l constitui eu
-Dialogue: 100,0:01:08.70,0:01:10.24,Dialogue,,0,0,0,,{\i1}și a încercat să mă păcălească...
-Dialogue: 100,0:01:11.89,0:01:15.43,Dialogue,,0,0,0,,{\i1}Asta încercam eu să fac la început!
-Dialogue: 100,0:01:21.50,0:01:23.97,Dialogue,,0,0,0,,Mary! Blood!
-Dialogue: 100,0:01:42.62,0:01:45.25,Dialogue,,0,0,0,,{\i1}E inutil. Nu voi ajunge la el la timp.
-Dialogue: 100,0:01:46.45,0:01:48.70,Dialogue,,0,0,0,,{\i1}Am împrumutat puterea zeiței mele
-Dialogue: 100,0:01:48.70,0:01:51.14,Dialogue,,0,0,0,,{\i1}și, în sfârșit, am reușit să \Nlupt cu el de la egal la egal,
-Dialogue: 100,0:01:51.57,0:01:53.83,Dialogue,,0,0,0,,{\i1}dar, apoi, m-am lăsat păcălit astfel...
-Dialogue: 100,0:01:54.08,0:01:56.02,Dialogue,,0,0,0,,{\i1}Iar acum totul s-a terminat?
-Dialogue: 100,0:02:07.49,0:02:11.08,Dialogue,,0,0,0,,{\i1}Nu-mi amintesc s-o fi \Nvăzut până acum... dar...
-Dialogue: 100,0:02:19.86,0:02:22.27,Dialogue,,0,0,0,,{\i1}Acum, totul e clar.
-Dialogue: 100,0:02:23.91,0:02:26.58,Dialogue,,0,0,0,,{\i1}Mary a fost iertată de la bun început.
-Dialogue: 100,0:02:27.64,0:02:30.48,Dialogue,,0,0,0,,{\i1}Nu a urât-o niciun pic pe Mary.
-Dialogue: 100,0:02:31.22,0:02:33.99,Dialogue,,0,0,0,,{\i1}Mary nu a căutat niciodată iertare
-Dialogue: 100,0:02:33.99,0:02:36.71,Dialogue,,0,0,0,,{\i1}și nici nu aștepta să se \Ncomporte indulgent cu ea.
-Dialogue: 100,0:02:37.21,0:02:41.36,Dialogue,,0,0,0,,{\i1}De asta a continuat să vegheze peste ea și s-o prevină după cum a dorit.
-Dialogue: 100,0:02:41.56,0:02:46.29,Dialogue,,0,0,0,,{\i1}Și a făcut asta timp de 200 de ani, fără a-i revoca binecuvântarea,
-Dialogue: 100,0:02:47.03,0:02:49.61,Dialogue,,0,0,0,,{\i1}până când Mary s-ar fi \Nputut ierta pe ea însăși.
-Dialogue: 100,0:02:50.39,0:02:53.23,Dialogue,,0,0,0,,{\i1}Ce mamă nu și-ar proteja\N fiica aflată în pericol,
-Dialogue: 100,0:02:53.23,0:02:56.01,Dialogue,,0,0,0,,{\i1}care și-a dedicat viața venerării ei?
-Dialogue: 100,0:02:56.41,0:03:00.40,Dialogue,,0,0,0,,{\i1}Mater, mama pământului, pe care o venerează Mary, e cu adevărat o zeiță minunată.
-Dialogue: 100,0:03:01.74,0:03:04.44,Dialogue,,0,0,0,,{\i1}În aceste clipe pe care \Nmi le-a oferit Mater...
-Dialogue: 100,0:03:04.65,0:03:06.96,Dialogue,,0,0,0,,Gracefeel, Zeiță a Luminii!
-Dialogue: 100,0:03:06.96,0:03:08.96,Dialogue,,0,0,0,,Oferă-le acestor suflete \Npacea și îndrumarea ta!
-Dialogue: 100,0:03:09.49,0:03:12.86,Dialogue,,0,0,0,,{\i1}Torța Divină conduce sufletele în ciclul morții și renașterii,
-Dialogue: 100,0:03:12.86,0:03:15.87,Dialogue,,0,0,0,,{\i1}dar încă nu-l poate învinge \Ncomplet pe Stagnate.
-Dialogue: 100,0:03:15.87,0:03:17.51,Dialogue,,0,0,0,,{\i1}Deci, ceea ce trebuie să fac e să...
-Dialogue: 100,0:03:17.51,0:03:18.47,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:03:18.67,0:03:19.68,Dialogue,,0,0,0,,{\i1}Așa e.
-Dialogue: 100,0:03:19.68,0:03:23.13,Dialogue,,0,0,0,,{\i1}Din moment ce ei doi nu se opun, Torța Divină îi va conduce înapoi în acel ciclu.
-Dialogue: 100,0:03:23.13,0:03:24.38,Dialogue,,0,0,0,,{\i1}Ceea ce înseamnă că...
-Dialogue: 100,0:03:25.22,0:03:26.59,Dialogue,,0,0,0,,{\i1}Va trebui să-i protejezi!
-Dialogue: 100,0:03:26.78,0:03:28.22,Dialogue,,0,0,0,,Întârzie ciclul!
-Dialogue: 100,0:03:28.22,0:03:29.60,Dialogue,,0,0,0,,Tulbură îndrumarea!
-Dialogue: 100,0:03:33.76,0:03:36.78,Dialogue,,0,0,0,,{\i1}Și, în momentul în care-mi \Nva elimina tehnica...
-Dialogue: 100,0:03:42.40,0:03:43.70,Dialogue,,0,0,0,,{\an8}Acceleratio!
-Dialogue: 100,0:03:46.54,0:03:47.49,Dialogue,,0,0,0,,{\an8}Vasta—
-Dialogue: 100,0:03:47.49,0:03:49.07,Dialogue,,0,0,0,,{\an8}Tacere, Os!
-Dialogue: 100,0:03:50.73,0:03:56.05,Dialogue,,0,0,0,,Vei începe prin a învăța cum să folosești bine și precis magia mai slabă.
-Dialogue: 100,0:03:56.05,0:03:58.80,Dialogue,,0,0,0,,{\i1}Un atac dramatic ca acesta i se potrivește mai mult lui Gus
-Dialogue: 100,0:03:58.80,0:04:01.49,Dialogue,,0,0,0,,{\i1}decât o vrajă măreață \Ncare i-ar șterge existența!
-Dialogue: 100,0:04:11.29,0:04:12.61,Dialogue,,0,0,0,,Blestematule...
-Dialogue: 100,0:04:12.92,0:04:14.78,Dialogue,,0,0,0,,Blestematule!
-Dialogue: 100,0:04:15.04,0:04:19.31,Dialogue,,0,0,0,,Will, copilul lui Blood și Mary, \Ndiscipolul lui Gracefeel!
-Dialogue: 100,0:04:19.31,0:04:21.14,Dialogue,,0,0,0,,Voi ține minte acest nume!
-Dialogue: 100,0:04:21.61,0:04:26.34,Dialogue,,0,0,0,,Până nu-mi vei ceda, fie ca nopțile să nu-ți aducă pace sau odihnă!
-Dialogue: 100,0:04:30.04,0:04:33.24,Dialogue,,0,0,0,,Asta e ceea ce ar spune un răufăcător de mâna a doua,
-Dialogue: 100,0:04:33.24,0:04:34.41,Dialogue,,0,0,0,,zeule.
-Dialogue: 100,0:04:41.12,0:04:43.62,Dialogue,,0,0,0,,Jur pe lumina lui Gracefeel
-Dialogue: 100,0:04:43.62,0:04:45.87,Dialogue,,0,0,0,,că nu voi deveni niciodată unul de-al tău.
-Dialogue: 100,0:04:46.61,0:04:47.88,Dialogue,,0,0,0,,Îmi voi trăi viața așa cum se cuvine...
-Dialogue: 100,0:04:48.40,0:04:49.68,Dialogue,,0,0,0,,iar apoi voi muri.
-Dialogue: 100,0:05:01.47,0:05:02.54,Dialogue,,0,0,0,,{\an8}Quaerere,
-Dialogue: 100,0:05:02.54,0:05:04.17,Dialogue,,0,0,0,,{\an8}Ambulare Alevita.
-Dialogue: 100,0:05:04.54,0:05:05.84,Dialogue,,0,0,0,,{\an8}Noli Fugito,
-Dialogue: 100,0:05:06.32,0:05:07.76,Dialogue,,0,0,0,,{\an8}Etiam Sigillum.
-Dialogue: 100,0:05:13.11,0:05:15.45,Dialogue,,0,0,0,,{\i1}A fost cât pe ce.
-Dialogue: 100,0:05:15.75,0:05:18.58,Dialogue,,0,0,0,,{\i1}Devoratoarea primită de la Blood,
-Dialogue: 100,0:05:18.58,0:05:21.75,Dialogue,,0,0,0,,{\i1}Gus care a învins dublura Ecoului,
-Dialogue: 100,0:05:22.01,0:05:25.63,Dialogue,,0,0,0,,{\i1}{\i1}Mater, zeița lui Mary, \Ncare mi-a câștigat timp...
-Dialogue: 100,0:05:26.12,0:05:28.93,Dialogue,,0,0,0,,{\i1}Toate lucrurile pe care \Nle-am primit de la ei trei...
-Dialogue: 100,0:05:29.45,0:05:32.21,Dialogue,,0,0,0,,{\i1}Sabia, magia, modul de a mă ruga
-Dialogue: 100,0:05:32.21,0:05:37.40,Dialogue,,0,0,0,,{\i1}și, cel mai important lucru, latura care arată cine sunt eu ca persoană...
-Dialogue: 100,0:05:37.40,0:05:41.27,Dialogue,,0,0,0,,{\i1}Nu aș fi avut nicio șansă \Nfără toate aceste lucruri.
-Dialogue: 100,0:05:42.59,0:05:44.86,Dialogue,,0,0,0,,{\i1}Totul se datorează protecției divine primită de la zeița mea...
-Dialogue: 100,0:05:45.29,0:05:47.22,Dialogue,,0,0,0,,{\i1}și celor trei.
-Dialogue: 100,0:05:48.41,0:05:49.38,Dialogue,,0,0,0,,Will...
-Dialogue: 100,0:05:50.60,0:05:53.37,Dialogue,,0,0,0,,Will, mă bucur atât \Nde mult că ești bine.
-Dialogue: 100,0:05:53.37,0:05:54.48,Dialogue,,0,0,0,,Mary...
-Dialogue: 100,0:05:57.24,0:05:58.66,Dialogue,,0,0,0,,Te-ai descurcat bine.
-Dialogue: 100,0:05:59.28,0:06:00.65,Dialogue,,0,0,0,,Blood...
-Dialogue: 100,0:06:01.66,0:06:05.88,Dialogue,,0,0,0,,Poate nu aveți același sânge, \Ndar chiar ești copilul lui Blood și Mary.
-Dialogue: 100,0:06:05.88,0:06:08.54,Dialogue,,0,0,0,,Știam că vei reuși.
-Dialogue: 100,0:06:10.16,0:06:12.45,Dialogue,,0,0,0,,Da... Am reușit.
-Dialogue: 100,0:06:13.32,0:06:14.59,Dialogue,,0,0,0,,Am reușit.
-Dialogue: 100,0:06:19.30,0:06:22.88,Dialogue,,0,0,0,,{\i1}I-am protejat. Sunt aici \Nși acum alături de ei trei.
-Dialogue: 100,0:06:22.88,0:06:23.77,Dialogue,,0,0,0,,Bun!
-Dialogue: 100,0:06:23.77,0:06:27.98,Dialogue,,0,0,0,,Bănuiesc că trebuie să sărbătorim această victorie și faptul că Will a devenit adult.
-Dialogue: 100,0:06:27.98,0:06:31.27,Dialogue,,0,0,0,,Ai dreptate. Cred că putem lăsa curățatul pentru o altă zi.
-Dialogue: 100,0:06:31.27,0:06:36.40,Dialogue,,0,0,0,,Păi, în acest caz, va trebui să deschidem știți voi ce de acum 200 de ani.
-Dialogue: 100,0:06:36.40,0:06:38.52,Dialogue,,0,0,0,,Te referi la chestia aia de la pitici?!
-Dialogue: 100,0:06:38.52,0:06:40.87,Dialogue,,0,0,0,,Ai ascuns așa ceva de noi, bătrâne Gus?
-Dialogue: 100,0:06:40.87,0:06:44.10,Dialogue,,0,0,0,,Ei bine, părea o pierdere \Nsă lăsăm un copil s-o bea.
-Dialogue: 100,0:06:44.29,0:06:46.04,Dialogue,,0,0,0,,Ce este? Are gust bun?
-Dialogue: 100,0:06:46.04,0:06:48.84,Dialogue,,0,0,0,,Atât de bun încât și mie mi-ar fi plăcut să am un corp fizic ca să-i pot simți gustul.
-Dialogue: 100,0:06:48.84,0:06:51.99,Dialogue,,0,0,0,,Ei bine, te poți preface, nu? \NDoar sărbătorim!
-Dialogue: 100,0:06:51.99,0:06:54.17,Dialogue,,0,0,0,,Da! Bea cu noi, Gus!{#memes >> Bea cu mine}
-Dialogue: 100,0:06:54.17,0:06:55.25,Dialogue,,0,0,0,,Will...
-Dialogue: 100,0:06:55.25,0:06:57.98,Dialogue,,0,0,0,,Ai grijă să nu bei prea mult.
-Dialogue: 100,0:06:57.98,0:07:00.01,Dialogue,,0,0,0,,Dacă vei face același \Nlucru ca ultima oară,
-Dialogue: 100,0:07:00.01,0:07:02.23,Dialogue,,0,0,0,,nu-ți voi arăta milă.
-Dialogue: 100,0:07:02.23,0:07:03.23,Dialogue,,0,0,0,,A-Am înțeles, să trăiți.
-Dialogue: 100,0:07:03.23,0:07:04.47,Dialogue,,0,0,0,,E valabil și pentru tine, Blood.
-Dialogue: 100,0:07:04.47,0:07:05.99,Dialogue,,0,0,0,,B-Bine...
-Dialogue: 100,0:07:05.99,0:07:08.12,Dialogue,,0,0,0,,Ce naiba faceți?
-Dialogue: 100,0:07:08.12,0:07:10.47,Dialogue,,0,0,0,,Oricum, bănuiesc că ar \Ntrebui să merg s-o iau.
-Dialogue: 100,0:07:11.38,0:07:12.96,Dialogue,,0,0,0,,Și noi ar trebui să mergem.
-Dialogue: 100,0:07:12.96,0:07:13.80,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:07:18.08,0:07:18.82,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:07:19.77,0:07:20.74,Dialogue,,0,0,0,,Mary?
-Dialogue: 100,0:07:21.20,0:07:22.32,Dialogue,,0,0,0,,Blood?
-Dialogue: 100,0:07:24.52,0:07:26.59,Dialogue,,0,0,0,,Bănuiesc că nu putem, \Npână la urmă, nu?
-Dialogue: 100,0:07:26.59,0:07:28.43,Dialogue,,0,0,0,,Da, se pare că nu putem.
-Dialogue: 100,0:07:28.43,0:07:29.99,Dialogue,,0,0,0,,Dar așa funcționează.
-Dialogue: 100,0:07:29.99,0:07:31.42,Dialogue,,0,0,0,,Ne-am pierdut atașamentul,
-Dialogue: 100,0:07:31.42,0:07:33.86,Dialogue,,0,0,0,,am refuzat să ne dăm \Nsufletele zeului morților vii
-Dialogue: 100,0:07:33.86,0:07:36.05,Dialogue,,0,0,0,,și am insistat să rămânem morți vii.
-Dialogue: 100,0:07:36.05,0:07:37.56,Dialogue,,0,0,0,,Asta nu e ceva de durată.
-Dialogue: 100,0:07:37.56,0:07:39.76,Dialogue,,0,0,0,,Da, așa este.
-Dialogue: 100,0:07:39.76,0:07:43.43,Dialogue,,0,0,0,,Speram să mai putem rămâne pentru o noapte, dar se pare că nu e posibil.
-Dialogue: 100,0:07:43.43,0:07:47.66,Dialogue,,0,0,0,,Gracefeel a fost foarte \Nîngăduitoare cu noi.
-Dialogue: 100,0:07:47.66,0:07:51.20,Dialogue,,0,0,0,,În mod normal, \Nam fi dispărut instant.
-Dialogue: 100,0:07:51.20,0:07:53.35,Dialogue,,0,0,0,,Despre ce vorbiți?
-Dialogue: 100,0:07:53.35,0:07:55.17,Dialogue,,0,0,0,,Ascultă, Will...
-Dialogue: 100,0:07:55.95,0:07:58.33,Dialogue,,0,0,0,,Acesta e sfârșitul pentru mine și Mary.
-Dialogue: 100,0:07:58.33,0:08:00.62,Dialogue,,0,0,0,,G-Glumiți, nu-i așa?
-Dialogue: 100,0:08:00.62,0:08:03.63,Dialogue,,0,0,0,,Trebuia să sărbătorim! \NAsta nu e corect!
-Dialogue: 100,0:08:04.53,0:08:05.50,Dialogue,,0,0,0,,Will...
-Dialogue: 100,0:08:06.02,0:08:09.21,Dialogue,,0,0,0,,Ești un băiat deștept. \NSunt sigură că vei înțelege.
-Dialogue: 100,0:08:12.75,0:08:14.44,Dialogue,,0,0,0,,Ne cerem scuze.
-Dialogue: 100,0:08:14.44,0:08:15.97,Dialogue,,0,0,0,,Chiar ne pare rău.
-Dialogue: 100,0:08:19.07,0:08:20.98,Dialogue,,0,0,0,,Nu putem face nimic?
-Dialogue: 100,0:08:21.24,0:08:22.35,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:08:22.74,0:08:25.49,Dialogue,,0,0,0,,Și chiar dacă am putea, \Nnu trebuie s-o facem.
-Dialogue: 100,0:08:25.49,0:08:30.15,Dialogue,,0,0,0,,Exact cum ai spus și tu. Trebuie să trăiești cum se cuvine și apoi să mori.
-Dialogue: 100,0:08:30.15,0:08:34.03,Dialogue,,0,0,0,,Noi ne-am pierdut pentru câteva secole, \Ndar ai putea numi asta un ocol.
-Dialogue: 100,0:08:34.03,0:08:37.99,Dialogue,,0,0,0,,Pe lângă asta, părinții ar trebui să moară mereu înaintea copiilor lor.
-Dialogue: 100,0:08:37.99,0:08:41.88,Dialogue,,0,0,0,,Asta e prima regulă a naturii.
-Dialogue: 100,0:08:42.79,0:08:43.59,Dialogue,,0,0,0,,Ai dreptate...
-Dialogue: 100,0:08:44.29,0:08:46.99,Dialogue,,0,0,0,,Da. Presupun.
-Dialogue: 100,0:08:49.07,0:08:53.78,Dialogue,,0,0,0,,Dar... voi spune ceva ce nu ar trebui, doar de data asta.
-Dialogue: 100,0:08:54.76,0:08:59.49,Dialogue,,0,0,0,,Tot nu vreau să vă văd murind.
-Dialogue: 100,0:09:00.10,0:09:04.78,Dialogue,,0,0,0,,Vreau să vă văd din nou atunci când mă voi întoarce aici.
-Dialogue: 100,0:09:05.26,0:09:09.73,Dialogue,,0,0,0,,Vreau să mă duelez cu Blood, să-l înving și să fiu învins.
-Dialogue: 100,0:09:09.73,0:09:11.76,Dialogue,,0,0,0,,Vreau să vorbim despre nimicuri.
-Dialogue: 100,0:09:12.12,0:09:14.26,Dialogue,,0,0,0,,Vreau să fac treburile \Ncasnice alături de Mary
-Dialogue: 100,0:09:14.26,0:09:16.88,Dialogue,,0,0,0,,și s-o aud spunând că mă \Ndescurc mult mai bine.
-Dialogue: 100,0:09:17.15,0:09:20.70,Dialogue,,0,0,0,,Vreau să-mi întâlniți copiii \Nși nepoții, într-o bună zi,
-Dialogue: 100,0:09:20.70,0:09:23.41,Dialogue,,0,0,0,,și să-i învătați multe lucruri!
-Dialogue: 100,0:09:23.41,0:09:26.54,Dialogue,,0,0,0,,E mult prea crud să spuneți \Ncă veți dispărea acum!
-Dialogue: 100,0:09:26.96,0:09:28.61,Dialogue,,0,0,0,,Nu vreau să dispăreți!
-Dialogue: 100,0:09:28.61,0:09:31.14,Dialogue,,0,0,0,,Dacă o veți face, eu...
-Dialogue: 100,0:09:31.14,0:09:34.12,Dialogue,,0,0,0,,nu voi ști cum ar trebui \Nsă merg mai departe...
-Dialogue: 100,0:09:34.71,0:09:36.30,Dialogue,,0,0,0,,Nu plecați...
-Dialogue: 100,0:09:36.80,0:09:38.05,Dialogue,,0,0,0,,Nu aș putea îndura asta.
-Dialogue: 100,0:09:38.67,0:09:41.90,Dialogue,,0,0,0,,Rămâneți aici, chiar dacă \Nar trebui să trișați cumva.
-Dialogue: 100,0:09:47.12,0:09:49.41,Dialogue,,0,0,0,,Nu fi egoist acum.
-Dialogue: 100,0:09:49.41,0:09:52.35,Dialogue,,0,0,0,,Blood are dreptate. \NFii rezonabil.
-Dialogue: 100,0:10:01.00,0:10:03.61,Dialogue,,0,0,0,,Nu m-am mai simțit ca \Nun tată de ani de zile.
-Dialogue: 100,0:10:03.61,0:10:06.88,Dialogue,,0,0,0,,Will a fost mereu un băiat cuminte.
-Dialogue: 100,0:10:07.18,0:10:10.51,Dialogue,,0,0,0,,Ascultă, Will. Chiar dacă \Nnoi nu vom mai fi,
-Dialogue: 100,0:10:10.51,0:10:13.38,Dialogue,,0,0,0,,oamenii pot trăi fără probleme cât timp mănâncă și dorm.
-Dialogue: 100,0:10:13.65,0:10:15.93,Dialogue,,0,0,0,,Vei găsi altceva ce vei prețui.
-Dialogue: 100,0:10:16.33,0:10:18.62,Dialogue,,0,0,0,,După ce noi nu vom mai fi, tu vei continua să trăiești.
-Dialogue: 100,0:10:18.62,0:10:22.08,Dialogue,,0,0,0,,Vei pleca de aici, \Nîți vei face mulți prieteni,
-Dialogue: 100,0:10:22.08,0:10:24.98,Dialogue,,0,0,0,,te vei alege cu două \Nsau trei fete frumoase
-Dialogue: 100,0:10:24.98,0:10:26.38,Dialogue,,0,0,0,,și te vei distra.
-Dialogue: 100,0:10:26.38,0:10:29.42,Dialogue,,0,0,0,,Blood! Nu-l încuraja să fie infidel!
-Dialogue: 100,0:10:29.63,0:10:33.73,Dialogue,,0,0,0,,Will, trebuie să fii loial când vine vorba de iubire și căsătorie.
-Dialogue: 100,0:10:34.58,0:10:39.25,Dialogue,,0,0,0,,Acum că ți-ai jurat credință Zeiței Luminii și ai omorât un zeu,
-Dialogue: 100,0:10:39.25,0:10:43.23,Dialogue,,0,0,0,,drumul pe care-l vei urma va fi cu siguranță plin de dificultăți.
-Dialogue: 100,0:10:43.48,0:10:45.70,Dialogue,,0,0,0,,Cel mai probabil, \Nvei avea parte de multe nereușite
-Dialogue: 100,0:10:45.70,0:10:48.25,Dialogue,,0,0,0,,și vei deveni ținta unor \Ncritici nejustificate.
-Dialogue: 100,0:10:48.25,0:10:50.25,Dialogue,,0,0,0,,Vei fi trădat de unii \Noameni pe care-i vei ajuta,
-Dialogue: 100,0:10:50.25,0:10:52.72,Dialogue,,0,0,0,,faptele tale bune ar putea fi uitate,
-Dialogue: 100,0:10:52.72,0:10:54.78,Dialogue,,0,0,0,,ai putea pierde tot ceea ce ai obținut
-Dialogue: 100,0:10:54.78,0:10:57.50,Dialogue,,0,0,0,,și ai putea ajunge să ai doar inamici.
-Dialogue: 100,0:10:58.15,0:10:59.27,Dialogue,,0,0,0,,Chiar și așa...
-Dialogue: 100,0:10:59.51,0:11:01.77,Dialogue,,0,0,0,,iubește-i pe ceilalți.
-Dialogue: 100,0:11:01.77,0:11:03.75,Dialogue,,0,0,0,,Fă lucruri bune.
-Dialogue: 100,0:11:04.05,0:11:07.41,Dialogue,,0,0,0,,Nu-ți fie teamă să pierzi lucruri, construiește în loc să distrugi,
-Dialogue: 100,0:11:07.41,0:11:11.05,Dialogue,,0,0,0,,iartă păcatele, oferă speranță acolo unde găsești disperare
-Dialogue: 100,0:11:11.05,0:11:14.39,Dialogue,,0,0,0,,și fi o sursă de bucurie \Nîn vremurile triste.
-Dialogue: 100,0:11:14.39,0:11:19.11,Dialogue,,0,0,0,,Și protejează-i pe cei slabi \Nde orice fel de violență.
-Dialogue: 100,0:11:19.58,0:11:23.40,Dialogue,,0,0,0,,Exact cum l-ai înfruntat pe zeul morților vii pentru noi.
-Dialogue: 100,0:11:24.47,0:11:25.33,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:11:26.09,0:11:29.08,Dialogue,,0,0,0,,Oh, Will... William...
-Dialogue: 100,0:11:29.08,0:11:31.37,Dialogue,,0,0,0,,Scumpul puișor al meu și al lui Blood...
-Dialogue: 100,0:11:32.97,0:11:38.79,Dialogue,,0,0,0,,Fie ca protecția divină a spiritelor curajului și a zeilor buni să fie mereu cu tine.
-Dialogue: 100,0:11:39.37,0:11:42.74,Dialogue,,0,0,0,,Ascultă. Înaintează cu credință în rezultatele pe care le vei obtine.
-Dialogue: 100,0:11:43.17,0:11:46.72,Dialogue,,0,0,0,,O persoană hotărâtă poate face orice.
-Dialogue: 100,0:11:47.06,0:11:49.79,Dialogue,,0,0,0,,S-ar putea să te pierzi în gânduri uneori,
-Dialogue: 100,0:11:49.79,0:11:52.24,Dialogue,,0,0,0,,dar nu-ți bate capul atât de mult încât să rămâi pe loc.
-Dialogue: 100,0:11:52.79,0:11:57.50,Dialogue,,0,0,0,,{\i1}Am gravat înfățișarea și cuvintele lor adânc în inima mea.
-Dialogue: 100,0:11:58.22,0:11:59.88,Dialogue,,0,0,0,,{\i1}Nu le voi uita niciodată.
-Dialogue: 100,0:11:59.88,0:12:02.30,Dialogue,,0,0,0,,{\i1}Exact ca lumina zeiței mele,
-Dialogue: 100,0:12:02.57,0:12:06.03,Dialogue,,0,0,0,,{\i1}știu că-mi vor lumina mereu drumul.
-Dialogue: 100,0:12:06.03,0:12:08.20,Dialogue,,0,0,0,,Oh... Aha!
-Dialogue: 100,0:12:08.20,0:12:10.63,Dialogue,,0,0,0,,M-am întors puțin cam devreme?
-Dialogue: 100,0:12:16.92,0:12:21.51,Dialogue,,0,0,0,,{\i1}După aceea, am sărbătorit victoria mea și faptul că am devenit adult.
-Dialogue: 100,0:12:21.89,0:12:24.54,Dialogue,,0,0,0,,{\i1}Prima băutură alături de ei trei
-Dialogue: 100,0:12:24.54,0:12:29.01,Dialogue,,0,0,0,,{\i1}mi-a lăsat o impresie de durată cu aroma ei bogată și puternică.
-Dialogue: 100,0:12:50.77,0:12:54.85,Dialogue,,0,0,0,,{\i1}În acea zi, lumina sfântă \Nmi-a condus părinții
-Dialogue: 100,0:12:54.85,0:12:57.28,Dialogue,,0,0,0,,{\i1}înapoi în ciclul morții și renașterii.
-Dialogue: 100,0:13:04.29,0:13:05.18,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:13:05.53,0:13:08.29,Dialogue,,0,0,0,,Acest loc chiar are cea \Nmai frumoasă priveliște.
-Dialogue: 100,0:13:09.03,0:13:10.93,Dialogue,,0,0,0,,Mary, Blood...
-Dialogue: 100,0:13:11.68,0:13:14.34,Dialogue,,0,0,0,,Știu că nu mai sunteți aici,
-Dialogue: 100,0:13:14.34,0:13:16.59,Dialogue,,0,0,0,,dar tot mă voi întoarce ca să vă spun cum îmi merg lucrurile.
-Dialogue: 100,0:13:17.32,0:13:20.61,Dialogue,,0,0,0,,Dacă-mi voi face prieteni sau îmi voi întemeia o familie, îi voi aduce și pe ei.
-Dialogue: 100,0:13:21.18,0:13:24.67,Dialogue,,0,0,0,,Voi deveni un adult care vă va putea spune cu mândrie
-Dialogue: 100,0:13:24.67,0:13:27.05,Dialogue,,0,0,0,,că are parte de o viață bună.
-Dialogue: 100,0:13:28.79,0:13:32.39,Dialogue,,0,0,0,,Deci, acum, voi pleca pentru o vreme.
-Dialogue: 100,0:13:33.71,0:13:35.46,Dialogue,,0,0,0,,Ai terminat?
-Dialogue: 100,0:13:35.46,0:13:35.87,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:13:36.93,0:13:38.26,Dialogue,,0,0,0,,Apropo...
-Dialogue: 100,0:13:38.26,0:13:40.42,Dialogue,,0,0,0,,De ce nu ai murit și tu?
-Dialogue: 100,0:13:40.42,0:13:44.67,Dialogue,,0,0,0,,Cât de urât! Cum poți să dorești moartea unui bătrân?!
-Dialogue: 100,0:13:44.67,0:13:45.58,Dialogue,,0,0,0,,Nepot rău ce ești!
-Dialogue: 100,0:13:45.58,0:13:47.67,Dialogue,,0,0,0,,Vai, mă întristezi așa de tare.
-Dialogue: 100,0:13:47.67,0:13:53.26,Dialogue,,0,0,0,,Doar mă gândeam că toate comorile tale vor fi ale mele dacă ai fi murit.
-Dialogue: 100,0:13:53.26,0:13:55.66,Dialogue,,0,0,0,,{\an8}Chiar {\i1}ești{\i0} un nepot rău!
-Dialogue: 100,0:13:55.66,0:13:58.35,Dialogue,,0,0,0,,{\an8}Nepotul cel rău tocmai și-a dat arama pe față!
-Dialogue: 100,0:13:57.73,0:14:02.71,Dialogue,,0,0,0,,Haide, doar mă refeream că banii pe care tu nu-i folosești vor avea, în sfârșit, o întrebuințare.
-Dialogue: 100,0:14:02.71,0:14:04.58,Dialogue,,0,0,0,,Nu-i așa, bunicule?
-Dialogue: 100,0:14:04.58,0:14:07.33,Dialogue,,0,0,0,,Adevărat. Bine, ia-i.
-Dialogue: 100,0:14:07.65,0:14:08.14,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:14:10.99,0:14:12.18,Dialogue,,0,0,0,,Ce e asta?!
-Dialogue: 100,0:14:12.18,0:14:13.62,Dialogue,,0,0,0,,Comoara mea.
-Dialogue: 100,0:14:13.62,0:14:15.47,Dialogue,,0,0,0,,Ți-o dau, fără doborândă.
-Dialogue: 100,0:14:15.47,0:14:16.96,Dialogue,,0,0,0,,Mărește-o, bine?
-Dialogue: 100,0:14:16.96,0:14:19.26,Dialogue,,0,0,0,,Stai, d-dar... v-vreau să spun că...
-Dialogue: 100,0:14:19.26,0:14:22.60,Dialogue,,0,0,0,,Banii care nu sunt cheltuiți niciodată sunt bani morți.
-Dialogue: 100,0:14:22.60,0:14:24.85,Dialogue,,0,0,0,,Nu-mi plac acest gen de bani.
-Dialogue: 100,0:14:24.85,0:14:26.98,Dialogue,,0,0,0,,Folosește-te bine de ei.
-Dialogue: 100,0:14:26.98,0:14:28.25,Dialogue,,0,0,0,,Gus...
-Dialogue: 100,0:14:29.17,0:14:32.19,Dialogue,,0,0,0,,{\i1}Deci acesta e ultimul \Nmeu cadou de la Gus...
-Dialogue: 100,0:14:32.19,0:14:35.18,Dialogue,,0,0,0,,Desigur, nu e ca și cum voi trece dincolo în următorul deceniu sau ceva.
-Dialogue: 100,0:14:35.18,0:14:36.01,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:14:36.01,0:14:40.72,Dialogue,,0,0,0,,Ei bine, știi, încă mai e problema păzirii sigliului Marelui Rege.
-Dialogue: 100,0:14:40.72,0:14:44.03,Dialogue,,0,0,0,,Am făcut o micuță înțelegere noapte trecută cu zeița ta.
-Dialogue: 100,0:14:44.03,0:14:47.36,Dialogue,,0,0,0,,Mi-a oferit permisiunea să continui să umblu prin acest oraș
-Dialogue: 100,0:14:47.36,0:14:50.70,Dialogue,,0,0,0,,pentru încă zece ani, cel puțin, până când zeul morților vii își va recăpăta puterile.
-Dialogue: 100,0:14:50.70,0:14:51.78,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:14:51.78,0:14:57.05,Dialogue,,0,0,0,,Se pare că am cam devenit comisionarul lui Gracefeel.
-Dialogue: 100,0:14:57.05,0:14:59.71,Dialogue,,0,0,0,,A-Atunci... cum rămâne \Ncu Mary și Blood?
-Dialogue: 100,0:14:59.71,0:15:03.65,Dialogue,,0,0,0,,Se pare că nu au vrut asta.
-Dialogue: 100,0:15:04.02,0:15:08.45,Dialogue,,0,0,0,,Dacă ar mai fi primit încă zece ani, ar fi devenit lacomi și ar fi ezitat când ar fi venit acel moment.
-Dialogue: 100,0:15:08.66,0:15:12.52,Dialogue,,0,0,0,,După ce ar mai trăi zece ani, ar mai fi vrut încă zece, și apoi încă zece,
-Dialogue: 100,0:15:12.52,0:15:15.43,Dialogue,,0,0,0,,și apoi ar fi vrut să rămână până în ultimele tale clipe.
-Dialogue: 100,0:15:15.43,0:15:20.60,Dialogue,,0,0,0,,Știau că-și vor dori asta, deci au ales ca viața lor să se sfârșească acum.
-Dialogue: 100,0:15:20.97,0:15:23.53,Dialogue,,0,0,0,,Exact ca tine, care ai \Nîncercat să pari puternic
-Dialogue: 100,0:15:23.53,0:15:27.76,Dialogue,,0,0,0,,când plângeai și strigai înăuntrul tău.
-Dialogue: 100,0:15:28.87,0:15:33.73,Dialogue,,0,0,0,,E de ajuns să ofere un rol care inspiră o asemenea lăcomie unui bătrân ca mine.
-Dialogue: 100,0:15:34.09,0:15:36.45,Dialogue,,0,0,0,,Chiar ești marfă, Gus.
-Dialogue: 100,0:15:40.56,0:15:43.03,Dialogue,,0,0,0,,Ce vei face cu sigiliul după \Nce vor trece cei zece ani?
-Dialogue: 100,0:15:43.03,0:15:46.12,Dialogue,,0,0,0,,Tu va trebui să găsești \No soluție înainte de asta.
-Dialogue: 100,0:15:46.12,0:15:47.90,Dialogue,,0,0,0,,Ce? Îmi lași mie această sarcină?!
-Dialogue: 100,0:15:47.90,0:15:52.42,Dialogue,,0,0,0,,Se pare că Gracefeel nu prea mai e venerată în lumea din afară.
-Dialogue: 100,0:15:52.42,0:15:56.80,Dialogue,,0,0,0,,A folosit multă putere \Ncând a intervenit pentru noi.
-Dialogue: 100,0:15:57.18,0:16:01.68,Dialogue,,0,0,0,,Deci viitorul zeiței luminii depinde și de eforturile tale.
-Dialogue: 100,0:16:02.03,0:16:06.07,Dialogue,,0,0,0,,Nici măcar nu am plecat, iar bagajul meu continuă să se mărească, și cel fizic, și cel psihic.
-Dialogue: 100,0:16:06.07,0:16:09.28,Dialogue,,0,0,0,,Bănuiesc că asta e una din dificultățile de care voi avea parte.
-Dialogue: 100,0:16:09.28,0:16:11.53,Dialogue,,0,0,0,,În acest caz, \Nvei avea nevoie de bani.
-Dialogue: 100,0:16:11.53,0:16:12.77,Dialogue,,0,0,0,,Ia-i, ia-i!
-Dialogue: 100,0:16:12.77,0:16:16.82,Dialogue,,0,0,0,,Da... Se pare că voi avea multe de făcut,
-Dialogue: 100,0:16:16.82,0:16:18.57,Dialogue,,0,0,0,,deci îi voi accepta cu \Ntoată recunoștința mea.
-Dialogue: 100,0:16:34.95,0:16:37.09,Dialogue,,0,0,0,,Ei bine, voi pleca acum.
-Dialogue: 100,0:16:45.07,0:16:46.96,Dialogue,,0,0,0,,Hei, Will...
-Dialogue: 100,0:16:46.96,0:16:52.01,Dialogue,,0,0,0,,Din moment ce pleci în lume acum, vei avea nevoie de un nume de familie.
-Dialogue: 100,0:16:52.01,0:16:57.00,Dialogue,,0,0,0,,Mary și Blood ți-au pus numele „William”, \Ndeci mă gândeam să-ți pun eu numele de familie.
-Dialogue: 100,0:16:57.00,0:16:57.89,Dialogue,,0,0,0,,Ce părere ai?
-Dialogue: 100,0:16:57.89,0:16:59.37,Dialogue,,0,0,0,,Bine, sunt în regulă cu asta.
-Dialogue: 100,0:16:59.37,0:17:04.89,Dialogue,,0,0,0,,În acest caz, mă gândesc să apelez la o tradiție urmată de anumite clanuri de elfi și rase mixte.
-Dialogue: 100,0:17:04.89,0:17:09.38,Dialogue,,0,0,0,,Acestea alegeau numele de familie prin combinarea numelor părinților.
-Dialogue: 100,0:17:10.52,0:17:12.11,Dialogue,,0,0,0,,Maryblood.
-Dialogue: 100,0:17:12.62,0:17:16.20,Dialogue,,0,0,0,,Numele tău este William Maryblood.
-Dialogue: 100,0:17:16.20,0:17:17.68,Dialogue,,0,0,0,,Maryblood...
-Dialogue: 100,0:17:18.33,0:17:21.48,Dialogue,,0,0,0,,Astfel, vei putea duce \Nnumele lor mai departe.
-Dialogue: 100,0:17:22.48,0:17:24.01,Dialogue,,0,0,0,,Mersi, Gus.
-Dialogue: 100,0:17:24.34,0:17:27.12,Dialogue,,0,0,0,,Îmi place foarte mult!
-Dialogue: 100,0:17:28.19,0:17:30.12,Dialogue,,0,0,0,,Ei bine, ai grijă de tine.
-Dialogue: 100,0:17:30.12,0:17:31.08,Dialogue,,0,0,0,,Așa voi face.
-Dialogue: 100,0:17:32.57,0:17:35.52,Dialogue,,0,0,0,,Oh, și voi adăuga litera \N„G” ca al doilea prenume!
-Dialogue: 100,0:17:35.52,0:17:38.61,Dialogue,,0,0,0,,Prostule! Nu ai nevoie de inițiala mea!
-Dialogue: 100,0:17:38.61,0:17:40.72,Dialogue,,0,0,0,,Ce naiba ai învățat la lecțiile tale?!
-Dialogue: 100,0:17:40.72,0:17:42.54,Dialogue,,0,0,0,,Ei bine, doar ești Gus, la urma urmei!
-Dialogue: 100,0:17:42.54,0:17:45.97,Dialogue,,0,0,0,,„Bătrânul Augustus” ar fi \Nmult prea lung de spus!
-Dialogue: 100,0:17:45.97,0:17:48.72,Dialogue,,0,0,0,,Vai, ce nepot iremediabil ești.
-Dialogue: 100,0:17:49.13,0:17:53.04,Dialogue,,0,0,0,,Păi, drum bun, \NWilliam G. Maryblood!
-Dialogue: 100,0:17:53.04,0:17:56.92,Dialogue,,0,0,0,,Rămâi cu bine, Gus! \NNe vom redevea într-o bună zi!
-Dialogue: 100,0:19:39.35,0:19:43.12,Dialogue,,0,0,0,,Salutare, generalule al \Nfortăreții! Cum îți merge?
-Dialogue: 100,0:19:43.40,0:19:49.70,Dialogue,,0,0,0,,E ceva normal ca doi războinici să se prezinte și să stea puțin de vorbă înainte de a se lupta...
-Dialogue: 100,0:19:56.44,0:19:59.99,Dialogue,,0,0,0,,Dar voi, demonii, \Nsunteți mult prea neciopliți.
-Dialogue: 100,0:19:59.99,0:20:03.97,Dialogue,,0,0,0,,Probabil și demonul a fost suprins să audă asta de la cineva ca tine.
-Dialogue: 100,0:20:03.97,0:20:05.64,Dialogue,,0,0,0,,Cât de răutăcioasă ești.
-Dialogue: 100,0:20:06.26,0:20:07.86,Dialogue,,0,0,0,,Cum a mers la tine?
-Dialogue: 100,0:20:07.86,0:20:10.05,Dialogue,,0,0,0,,Am făcut ritualul de \Nînmormântare fără probleme
-Dialogue: 100,0:20:10.05,0:20:12.02,Dialogue,,0,0,0,,și am oprit transformarea în morți vii.
-Dialogue: 100,0:20:14.39,0:20:17.42,Dialogue,,0,0,0,,Se pare că și grupul \Nbătrânului Gus s-a descurcat.
-Dialogue: 100,0:20:17.42,0:20:18.95,Dialogue,,0,0,0,,Așa se pare.
-Dialogue: 100,0:20:18.95,0:20:21.61,Dialogue,,0,0,0,,În orice caz, am distrus fortăreața.
-Dialogue: 100,0:20:21.61,0:20:23.94,Dialogue,,0,0,0,,N-ar fi un lucru rău dacă grupul bătrânului Gus s-ar retrage.
-Dialogue: 100,0:20:24.25,0:20:27.10,Dialogue,,0,0,0,,Generalul fortăreții a fost \Ndoborât de grupul nostru mic.
-Dialogue: 100,0:20:27.10,0:20:28.38,Dialogue,,0,0,0,,Ar fi bine să nu riscăm mai mult.
-Dialogue: 100,0:20:28.38,0:20:30.34,Dialogue,,0,0,0,,Nu începe să mă lauzi. Voi roși.
-Dialogue: 100,0:20:30.34,0:20:31.70,Dialogue,,0,0,0,,Nu te lăudam.
-Dialogue: 100,0:20:32.40,0:20:36.18,Dialogue,,0,0,0,,Câte zile ne va câștiga distrugerea podului de la Marele Canion?
-Dialogue: 100,0:20:36.18,0:20:38.22,Dialogue,,0,0,0,,Câteva, cel mult.
-Dialogue: 100,0:20:38.22,0:20:41.68,Dialogue,,0,0,0,,Nu vom reuși nimic până nu-l învingem pe Marele Rege.
-Dialogue: 100,0:20:41.68,0:20:43.92,Dialogue,,0,0,0,,Gus pare să aibă un plan.
-Dialogue: 100,0:20:43.92,0:20:46.42,Dialogue,,0,0,0,,Totuși, probabil e un drum doar dus.
-Dialogue: 100,0:20:46.42,0:20:48.31,Dialogue,,0,0,0,,Nu ne vom mai întoarce.
-Dialogue: 100,0:20:49.55,0:20:51.12,Dialogue,,0,0,0,,Iar tu nu o să vii cu noi.
-Dialogue: 100,0:20:51.12,0:20:52.68,Dialogue,,0,0,0,,Asta e destul de neașteptat.
-Dialogue: 100,0:20:52.68,0:20:56.70,Dialogue,,0,0,0,,După părerea mea, \Nsunt un atu valoros în luptă.
-Dialogue: 100,0:20:56.70,0:20:59.19,Dialogue,,0,0,0,,Știu. Dar tot nu vei veni.
-Dialogue: 100,0:20:59.45,0:21:01.77,Dialogue,,0,0,0,,Mi-aș simți îngrozitor \Nsă te văd murind.
-Dialogue: 100,0:21:02.89,0:21:03.78,Dialogue,,0,0,0,,Ce e?
-Dialogue: 100,0:21:04.13,0:21:08.29,Dialogue,,0,0,0,,Nu puteai să adaugi și „deoarece te iubesc” la acea afirmație?
-Dialogue: 100,0:21:08.29,0:21:10.65,Dialogue,,0,0,0,,Ar fi fost foarte plăcut, \Npentru mine în special.
-Dialogue: 100,0:21:10.65,0:21:13.37,Dialogue,,0,0,0,,D-De parcă aș spune \Nceva atât de enervant!
-Dialogue: 100,0:21:13.73,0:21:16.16,Dialogue,,0,0,0,,Chiar ești o ființă iremediabilă, știi?
-Dialogue: 100,0:21:16.16,0:21:18.38,Dialogue,,0,0,0,,Și dacă voi refuza să rămân în urmă?
-Dialogue: 100,0:21:18.38,0:21:20.88,Dialogue,,0,0,0,,Te voi trimite înapoi chiar dacă voi fi nevoit să te las inconștientă.
-Dialogue: 100,0:21:20.88,0:21:23.09,Dialogue,,0,0,0,,Ba chiar am primit și \Npermisiunea bătrânului Gus.
-Dialogue: 100,0:21:23.09,0:21:25.85,Dialogue,,0,0,0,,Înțeleg. Bănuiesc că ar fi \Ninutil să opun rezistență.
-Dialogue: 100,0:21:25.85,0:21:28.72,Dialogue,,0,0,0,,Așa e. Abilitățile tale nu sunt rele,
-Dialogue: 100,0:21:28.72,0:21:31.20,Dialogue,,0,0,0,,dar nu sunt la nivelul mărețului și inegalabilului Blood.
-Dialogue: 100,0:21:31.20,0:21:32.80,Dialogue,,0,0,0,,Atunci, treaba stă astfel:
-Dialogue: 100,0:21:33.09,0:21:35.64,Dialogue,,0,0,0,,dacă mă lăsați în urmă, \Nmă voi sinucide pe loc.
-Dialogue: 100,0:21:35.64,0:21:37.04,Dialogue,,0,0,0,,H-Hei...
-Dialogue: 100,0:21:37.04,0:21:38.34,Dialogue,,0,0,0,,Nu m-ai auzit?
-Dialogue: 100,0:21:38.66,0:21:42.14,Dialogue,,0,0,0,,Am spus că dacă nu pot veni cu voi, \Nmă voi sinucide pe loc.
-Dialogue: 100,0:21:42.14,0:21:43.87,Dialogue,,0,0,0,,Acum, mă veți lua cu voi, nu?
-Dialogue: 100,0:21:43.87,0:21:46.14,Dialogue,,0,0,0,,N-Nu e corect! În multe feluri!
-Dialogue: 100,0:21:46.14,0:21:49.09,Dialogue,,0,0,0,,Poate ești cel mai puternic \Nbărbat din acest ținut,
-Dialogue: 100,0:21:49.09,0:21:51.57,Dialogue,,0,0,0,,dar niciun bărbat nu poate câștiga în fața unei femei.
-Dialogue: 100,0:21:51.57,0:21:53.61,Dialogue,,0,0,0,,Ești așa de încăpățânată...
-Dialogue: 100,0:21:54.08,0:21:57.14,Dialogue,,0,0,0,,Vai, m-am ales cu o femeie tare nebună.
-Dialogue: 100,0:21:57.14,0:22:00.57,Dialogue,,0,0,0,,Nu am făcut nimic încă și deja mă consideri femeia ta?
-Dialogue: 100,0:22:00.90,0:22:02.23,Dialogue,,0,0,0,,Hei, Mary...
-Dialogue: 100,0:22:02.74,0:22:04.36,Dialogue,,0,0,0,,Dacă ne vom întoarce în viață,
-Dialogue: 100,0:22:04.84,0:22:07.50,Dialogue,,0,0,0,,haide să găsim un loc liniștit și retras unde să ne căsătorim.
-Dialogue: 100,0:22:11.07,0:22:11.94,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:22:14.48,0:22:15.66,Dialogue,,0,0,0,,Mi-ar plăcea asta.
-Dialogue: 100,0:22:18.44,0:22:22.86,Dialogue,,0,0,0,,Mi-ar plăcea o casă retrasă, poate undeva pe un deal care are o priveliște frumoasă.
-Dialogue: 100,0:22:22.86,0:22:24.07,Dialogue,,0,0,0,,Asta sună minunat.
-Dialogue: 100,0:22:24.07,0:22:26.10,Dialogue,,0,0,0,,Sunt sigură că briza va fi foarte plăcută.
-Dialogue: 100,0:22:26.10,0:22:28.16,Dialogue,,0,0,0,,Am putea chiar să avem \Nși o grădină cu legume.
-Dialogue: 100,0:22:28.16,0:22:30.25,Dialogue,,0,0,0,,Și dacă vom avea un copil,
-Dialogue: 100,0:22:30.25,0:22:32.84,Dialogue,,0,0,0,,îi vom cere bătrânul \NGus să-i fie profesor.
-Dialogue: 100,0:22:33.40,0:22:37.42,Dialogue,,0,0,0,,În ciuda la tot ce ar putea spune, \Nsunt sigur că ar accepta.
-Dialogue: 100,0:22:37.96,0:22:42.24,Dialogue,,0,0,0,,Și dacă va fi băiat, \Nîl voi învăța cum să lupte.
-Dialogue: 100,0:22:42.24,0:22:44.31,Dialogue,,0,0,0,,Cu asta și magia bătrânului Gus,
-Dialogue: 100,0:22:44.31,0:22:47.25,Dialogue,,0,0,0,,va fi cel mai puternic bărbat din lume, \Nchiar mai puternic decât mine!
-Dialogue: 100,0:22:47.62,0:22:48.46,Dialogue,,0,0,0,,Ce părere ai?
-Dialogue: 100,0:22:48.46,0:22:52.93,Dialogue,,0,0,0,,Mă îngrozește gândul că ar putea deveni un nepriceput puternic și deștept.
-Dialogue: 100,0:22:52.93,0:22:53.97,Dialogue,,0,0,0,,Cât de răutăcioasă ești!
-Dialogue: 100,0:22:53.97,0:22:58.14,Dialogue,,0,0,0,,Deci eu va trebui să-l învăț \Ndespre lucrurile mici.
-Dialogue: 100,0:22:58.45,0:23:00.86,Dialogue,,0,0,0,,Sunt sigură că va fi adorabil, copilul nostru.
-Dialogue: 100,0:23:00.86,0:23:01.80,Dialogue,,0,0,0,,Așa e.
-Dialogue: 100,0:23:02.15,0:23:03.73,Dialogue,,0,0,0,,Ce nume ar trebui să-i punem?
-Dialogue: 100,0:23:03.73,0:23:05.39,Dialogue,,0,0,0,,Am deja unul dacă va fi băiat.
-Dialogue: 100,0:23:05.62,0:23:07.39,Dialogue,,0,0,0,,Sper că nu e un nume ciudat.
-Dialogue: 100,0:23:07.39,0:23:09.04,Dialogue,,0,0,0,,E un nume perfect normal!
-Dialogue: 100,0:23:09.04,0:23:11.97,Dialogue,,0,0,0,,Ascultă, vorbim de copilul {\i1}nostru{\i0}.
-Dialogue: 100,0:23:11.97,0:23:14.68,Dialogue,,0,0,0,,Știi că va avea o voință de neclintit.
-Dialogue: 100,0:23:15.24,0:23:19.03,Dialogue,,0,0,0,,Deci îl vom numi „William”, însemnând „coiful voinței”.
-Dialogue: 100,0:23:20.40,0:23:23.36,Dialogue,,0,0,0,,William... E un nume bun.
-Dialogue: 100,0:23:23.36,0:23:25.04,Dialogue,,0,0,0,,Și mie îmi place.
-Dialogue: 100,0:23:26.21,0:23:29.16,Dialogue,,0,0,0,,Will... Puișorul meu.
+Dialogue: 99,0:00:06.48,0:00:09.94,Dialogue,,0,0,0,,{\i1}Stagnate este consumat \Nde dorința de a mă ucide.
+Dialogue: 99,0:00:09.94,0:00:11.45,Dialogue,,0,0,0,,{\i1}Pot lupta cu el de la egal la egal.
+Dialogue: 99,0:00:11.45,0:00:12.98,Dialogue,,0,0,0,,{\i1}Dacă ne vom lupta acum...
+Dialogue: 99,0:00:18.16,0:00:19.83,Dialogue,,0,0,0,,Nu! Templul!
+Dialogue: 99,0:00:19.83,0:00:21.35,Dialogue,,0,0,0,,{\an8}Acceleratio!
+Dialogue: 99,0:00:22.21,0:00:23.68,Dialogue,,0,0,0,,{\i1}Totul a fost o cacealma.
+Dialogue: 99,0:00:23.68,0:00:25.87,Dialogue,,0,0,0,,{\i1}S-a prefăcut că e consumat de furie,
+Dialogue: 99,0:00:25.87,0:00:28.16,Dialogue,,0,0,0,,{\i1}iar apoi s-a folosit de norul de praf...
+Dialogue: 99,0:00:28.16,0:00:31.21,Dialogue,,0,0,0,,{\i1}Adevăratele sale ținte sunt Mary și Blood!
+Dialogue: 99,0:00:31.97,0:00:34.35,Dialogue,,0,0,0,,{\i1}Trebuie să ajung la timp!
+Dialogue: 99,0:00:34.35,0:00:35.39,Dialogue,,0,0,0,,{\i1}Te rog!
+Dialogue: 99,0:00:35.97,0:00:37.22,Dialogue,,0,0,0,,{\an8}Acceleratio!
+Dialogue: 99,0:00:39.18,0:00:41.39,Dialogue,,0,0,0,,{\i1}Dacă pot crede ceea ce a spus Stagnate,
+Dialogue: 99,0:00:41.39,0:00:45.33,Dialogue,,0,0,0,,{\i1}atunci, poate sunt o persoană cu care el consideră că trebuie să fie precaută.
+Dialogue: 99,0:00:45.84,0:00:50.89,Dialogue,,0,0,0,,{\i1}Dar asta nu înseamnă nimic pentru un zeu al morților vii care poate trăi veșnic.
+Dialogue: 99,0:00:51.09,0:00:55.52,Dialogue,,0,0,0,,{\i1}Prioritatea sa în acest moment e să ajungă la Blood și Mary, iar apoi la Gus.
+Dialogue: 99,0:00:55.52,0:01:00.10,Dialogue,,0,0,0,,{\i1}Acum că am protecția divină a zeiței luminii și mă pot ruga pentru a primi binecuvântarea ei,
+Dialogue: 99,0:01:00.10,0:01:02.77,Dialogue,,0,0,0,,{\i1}îi pot trimite pe cei trei în \Nciclul morții și renașterii!
+Dialogue: 99,0:01:02.77,0:01:04.95,Dialogue,,0,0,0,,{\i1}La acest lucru e el precaut!
+Dialogue: 99,0:01:04.95,0:01:08.70,Dialogue,,0,0,0,,{\i1}A pus în balanță sufletele lui Blood și Mary cu riscul pe care-l constitui eu
+Dialogue: 99,0:01:08.70,0:01:10.24,Dialogue,,0,0,0,,{\i1}și a încercat să mă păcălească...
+Dialogue: 99,0:01:11.89,0:01:15.43,Dialogue,,0,0,0,,{\i1}Asta încercam eu să fac la început!
+Dialogue: 99,0:01:21.50,0:01:23.97,Dialogue,,0,0,0,,Mary! Blood!
+Dialogue: 99,0:01:42.62,0:01:45.25,Dialogue,,0,0,0,,{\i1}E inutil. Nu voi ajunge la el la timp.
+Dialogue: 99,0:01:46.45,0:01:48.70,Dialogue,,0,0,0,,{\i1}Am împrumutat puterea zeiței mele
+Dialogue: 99,0:01:48.70,0:01:51.14,Dialogue,,0,0,0,,{\i1}și, în sfârșit, am reușit să \Nlupt cu el de la egal la egal,
+Dialogue: 99,0:01:51.57,0:01:53.83,Dialogue,,0,0,0,,{\i1}dar, apoi, m-am lăsat păcălit astfel...
+Dialogue: 99,0:01:54.08,0:01:56.02,Dialogue,,0,0,0,,{\i1}Iar acum totul s-a terminat?
+Dialogue: 99,0:02:07.49,0:02:11.08,Dialogue,,0,0,0,,{\i1}Nu-mi amintesc s-o fi \Nvăzut până acum... dar...
+Dialogue: 99,0:02:19.86,0:02:22.27,Dialogue,,0,0,0,,{\i1}Acum, totul e clar.
+Dialogue: 99,0:02:23.91,0:02:26.58,Dialogue,,0,0,0,,{\i1}Mary a fost iertată de la bun început.
+Dialogue: 99,0:02:27.64,0:02:30.48,Dialogue,,0,0,0,,{\i1}Nu a urât-o niciun pic pe Mary.
+Dialogue: 99,0:02:31.22,0:02:33.99,Dialogue,,0,0,0,,{\i1}Mary nu a căutat niciodată iertare
+Dialogue: 99,0:02:33.99,0:02:36.71,Dialogue,,0,0,0,,{\i1}și nici nu aștepta să se \Ncomporte indulgent cu ea.
+Dialogue: 99,0:02:37.21,0:02:41.36,Dialogue,,0,0,0,,{\i1}De asta a continuat să vegheze peste ea și s-o prevină după cum a dorit.
+Dialogue: 99,0:02:41.56,0:02:46.29,Dialogue,,0,0,0,,{\i1}Și a făcut asta timp de 200 de ani, fără a-i revoca binecuvântarea,
+Dialogue: 99,0:02:47.03,0:02:49.61,Dialogue,,0,0,0,,{\i1}până când Mary s-ar fi \Nputut ierta pe ea însăși.
+Dialogue: 99,0:02:50.39,0:02:53.23,Dialogue,,0,0,0,,{\i1}Ce mamă nu și-ar proteja\N fiica aflată în pericol,
+Dialogue: 99,0:02:53.23,0:02:56.01,Dialogue,,0,0,0,,{\i1}care și-a dedicat viața venerării ei?
+Dialogue: 99,0:02:56.41,0:03:00.40,Dialogue,,0,0,0,,{\i1}Mater, mama pământului, pe care o venerează Mary, e cu adevărat o zeiță minunată.
+Dialogue: 99,0:03:01.74,0:03:04.44,Dialogue,,0,0,0,,{\i1}În aceste clipe pe care \Nmi le-a oferit Mater...
+Dialogue: 99,0:03:04.65,0:03:06.96,Dialogue,,0,0,0,,Gracefeel, Zeiță a Luminii!
+Dialogue: 99,0:03:06.96,0:03:08.96,Dialogue,,0,0,0,,Oferă-le acestor suflete \Npacea și îndrumarea ta!
+Dialogue: 99,0:03:09.49,0:03:12.86,Dialogue,,0,0,0,,{\i1}Torța Divină conduce sufletele în ciclul morții și renașterii,
+Dialogue: 99,0:03:12.86,0:03:15.87,Dialogue,,0,0,0,,{\i1}dar încă nu-l poate învinge \Ncomplet pe Stagnate.
+Dialogue: 99,0:03:15.87,0:03:17.51,Dialogue,,0,0,0,,{\i1}Deci, ceea ce trebuie să fac e să...
+Dialogue: 99,0:03:17.51,0:03:18.47,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:03:18.67,0:03:19.68,Dialogue,,0,0,0,,{\i1}Așa e.
+Dialogue: 99,0:03:19.68,0:03:23.13,Dialogue,,0,0,0,,{\i1}Din moment ce ei doi nu se opun, Torța Divină îi va conduce înapoi în acel ciclu.
+Dialogue: 99,0:03:23.13,0:03:24.38,Dialogue,,0,0,0,,{\i1}Ceea ce înseamnă că...
+Dialogue: 99,0:03:25.22,0:03:26.59,Dialogue,,0,0,0,,{\i1}Va trebui să-i protejezi!
+Dialogue: 99,0:03:26.78,0:03:28.22,Dialogue,,0,0,0,,Întârzie ciclul!
+Dialogue: 99,0:03:28.22,0:03:29.60,Dialogue,,0,0,0,,Tulbură îndrumarea!
+Dialogue: 99,0:03:33.76,0:03:36.78,Dialogue,,0,0,0,,{\i1}Și, în momentul în care-mi \Nva elimina tehnica...
+Dialogue: 99,0:03:42.40,0:03:43.70,Dialogue,,0,0,0,,{\an8}Acceleratio!
+Dialogue: 99,0:03:46.54,0:03:47.49,Dialogue,,0,0,0,,{\an8}Vasta—
+Dialogue: 99,0:03:47.49,0:03:49.07,Dialogue,,0,0,0,,{\an8}Tacere, Os!
+Dialogue: 99,0:03:50.73,0:03:56.05,Dialogue,,0,0,0,,Vei începe prin a învăța cum să folosești bine și precis magia mai slabă.
+Dialogue: 99,0:03:56.05,0:03:58.80,Dialogue,,0,0,0,,{\i1}Un atac dramatic ca acesta i se potrivește mai mult lui Gus
+Dialogue: 99,0:03:58.80,0:04:01.49,Dialogue,,0,0,0,,{\i1}decât o vrajă măreață \Ncare i-ar șterge existența!
+Dialogue: 99,0:04:11.29,0:04:12.61,Dialogue,,0,0,0,,Blestematule...
+Dialogue: 99,0:04:12.92,0:04:14.78,Dialogue,,0,0,0,,Blestematule!
+Dialogue: 99,0:04:15.04,0:04:19.31,Dialogue,,0,0,0,,Will, copilul lui Blood și Mary, \Ndiscipolul lui Gracefeel!
+Dialogue: 99,0:04:19.31,0:04:21.14,Dialogue,,0,0,0,,Voi ține minte acest nume!
+Dialogue: 99,0:04:21.61,0:04:26.34,Dialogue,,0,0,0,,Până nu-mi vei ceda, fie ca nopțile să nu-ți aducă pace sau odihnă!
+Dialogue: 99,0:04:30.04,0:04:33.24,Dialogue,,0,0,0,,Asta e ceea ce ar spune un răufăcător de mâna a doua,
+Dialogue: 99,0:04:33.24,0:04:34.41,Dialogue,,0,0,0,,zeule.
+Dialogue: 99,0:04:41.12,0:04:43.62,Dialogue,,0,0,0,,Jur pe lumina lui Gracefeel
+Dialogue: 99,0:04:43.62,0:04:45.87,Dialogue,,0,0,0,,că nu voi deveni niciodată unul de-al tău.
+Dialogue: 99,0:04:46.61,0:04:47.88,Dialogue,,0,0,0,,Îmi voi trăi viața așa cum se cuvine...
+Dialogue: 99,0:04:48.40,0:04:49.68,Dialogue,,0,0,0,,iar apoi voi muri.
+Dialogue: 99,0:05:01.47,0:05:02.54,Dialogue,,0,0,0,,{\an8}Quaerere,
+Dialogue: 99,0:05:02.54,0:05:04.17,Dialogue,,0,0,0,,{\an8}Ambulare Alevita.
+Dialogue: 99,0:05:04.54,0:05:05.84,Dialogue,,0,0,0,,{\an8}Noli Fugito,
+Dialogue: 99,0:05:06.32,0:05:07.76,Dialogue,,0,0,0,,{\an8}Etiam Sigillum.
+Dialogue: 99,0:05:13.11,0:05:15.45,Dialogue,,0,0,0,,{\i1}A fost cât pe ce.
+Dialogue: 99,0:05:15.75,0:05:18.58,Dialogue,,0,0,0,,{\i1}Devoratoarea primită de la Blood,
+Dialogue: 99,0:05:18.58,0:05:21.75,Dialogue,,0,0,0,,{\i1}Gus care a învins dublura Ecoului,
+Dialogue: 99,0:05:22.01,0:05:25.63,Dialogue,,0,0,0,,{\i1}{\i1}Mater, zeița lui Mary, \Ncare mi-a câștigat timp...
+Dialogue: 99,0:05:26.12,0:05:28.93,Dialogue,,0,0,0,,{\i1}Toate lucrurile pe care \Nle-am primit de la ei trei...
+Dialogue: 99,0:05:29.45,0:05:32.21,Dialogue,,0,0,0,,{\i1}Sabia, magia, modul de a mă ruga
+Dialogue: 99,0:05:32.21,0:05:37.40,Dialogue,,0,0,0,,{\i1}și, cel mai important lucru, latura care arată cine sunt eu ca persoană...
+Dialogue: 99,0:05:37.40,0:05:41.27,Dialogue,,0,0,0,,{\i1}Nu aș fi avut nicio șansă \Nfără toate aceste lucruri.
+Dialogue: 99,0:05:42.59,0:05:44.86,Dialogue,,0,0,0,,{\i1}Totul se datorează protecției divine primită de la zeița mea...
+Dialogue: 99,0:05:45.29,0:05:47.22,Dialogue,,0,0,0,,{\i1}și celor trei.
+Dialogue: 99,0:05:48.41,0:05:49.38,Dialogue,,0,0,0,,Will...
+Dialogue: 99,0:05:50.60,0:05:53.37,Dialogue,,0,0,0,,Will, mă bucur atât \Nde mult că ești bine.
+Dialogue: 99,0:05:53.37,0:05:54.48,Dialogue,,0,0,0,,Mary...
+Dialogue: 99,0:05:57.24,0:05:58.66,Dialogue,,0,0,0,,Te-ai descurcat bine.
+Dialogue: 99,0:05:59.28,0:06:00.65,Dialogue,,0,0,0,,Blood...
+Dialogue: 99,0:06:01.66,0:06:05.88,Dialogue,,0,0,0,,Poate nu aveți același sânge, \Ndar chiar ești copilul lui Blood și Mary.
+Dialogue: 99,0:06:05.88,0:06:08.54,Dialogue,,0,0,0,,Știam că vei reuși.
+Dialogue: 99,0:06:10.16,0:06:12.45,Dialogue,,0,0,0,,Da... Am reușit.
+Dialogue: 99,0:06:13.32,0:06:14.59,Dialogue,,0,0,0,,Am reușit.
+Dialogue: 99,0:06:19.30,0:06:22.88,Dialogue,,0,0,0,,{\i1}I-am protejat. Sunt aici \Nși acum alături de ei trei.
+Dialogue: 99,0:06:22.88,0:06:23.77,Dialogue,,0,0,0,,Bun!
+Dialogue: 99,0:06:23.77,0:06:27.98,Dialogue,,0,0,0,,Bănuiesc că trebuie să sărbătorim această victorie și faptul că Will a devenit adult.
+Dialogue: 99,0:06:27.98,0:06:31.27,Dialogue,,0,0,0,,Ai dreptate. Cred că putem lăsa curățatul pentru o altă zi.
+Dialogue: 99,0:06:31.27,0:06:36.40,Dialogue,,0,0,0,,Păi, în acest caz, va trebui să deschidem știți voi ce de acum 200 de ani.
+Dialogue: 99,0:06:36.40,0:06:38.52,Dialogue,,0,0,0,,Te referi la chestia aia de la pitici?!
+Dialogue: 99,0:06:38.52,0:06:40.87,Dialogue,,0,0,0,,Ai ascuns așa ceva de noi, bătrâne Gus?
+Dialogue: 99,0:06:40.87,0:06:44.10,Dialogue,,0,0,0,,Ei bine, părea o pierdere \Nsă lăsăm un copil s-o bea.
+Dialogue: 99,0:06:44.29,0:06:46.04,Dialogue,,0,0,0,,Ce este? Are gust bun?
+Dialogue: 99,0:06:46.04,0:06:48.84,Dialogue,,0,0,0,,Atât de bun încât și mie mi-ar fi plăcut să am un corp fizic ca să-i pot simți gustul.
+Dialogue: 99,0:06:48.84,0:06:51.99,Dialogue,,0,0,0,,Ei bine, te poți preface, nu? \NDoar sărbătorim!
+Dialogue: 99,0:06:51.99,0:06:54.17,Dialogue,,0,0,0,,Da! Bea cu noi, Gus!{#memes >> Bea cu mine}
+Dialogue: 99,0:06:54.17,0:06:55.25,Dialogue,,0,0,0,,Will...
+Dialogue: 99,0:06:55.25,0:06:57.98,Dialogue,,0,0,0,,Ai grijă să nu bei prea mult.
+Dialogue: 99,0:06:57.98,0:07:00.01,Dialogue,,0,0,0,,Dacă vei face același \Nlucru ca ultima oară,
+Dialogue: 99,0:07:00.01,0:07:02.23,Dialogue,,0,0,0,,nu-ți voi arăta milă.
+Dialogue: 99,0:07:02.23,0:07:03.23,Dialogue,,0,0,0,,A-Am înțeles, să trăiți.
+Dialogue: 99,0:07:03.23,0:07:04.47,Dialogue,,0,0,0,,E valabil și pentru tine, Blood.
+Dialogue: 99,0:07:04.47,0:07:05.99,Dialogue,,0,0,0,,B-Bine...
+Dialogue: 99,0:07:05.99,0:07:08.12,Dialogue,,0,0,0,,Ce naiba faceți?
+Dialogue: 99,0:07:08.12,0:07:10.47,Dialogue,,0,0,0,,Oricum, bănuiesc că ar \Ntrebui să merg s-o iau.
+Dialogue: 99,0:07:11.38,0:07:12.96,Dialogue,,0,0,0,,Și noi ar trebui să mergem.
+Dialogue: 99,0:07:12.96,0:07:13.80,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:07:18.08,0:07:18.82,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:07:19.77,0:07:20.74,Dialogue,,0,0,0,,Mary?
+Dialogue: 99,0:07:21.20,0:07:22.32,Dialogue,,0,0,0,,Blood?
+Dialogue: 99,0:07:24.52,0:07:26.59,Dialogue,,0,0,0,,Bănuiesc că nu putem, \Npână la urmă, nu?
+Dialogue: 99,0:07:26.59,0:07:28.43,Dialogue,,0,0,0,,Da, se pare că nu putem.
+Dialogue: 99,0:07:28.43,0:07:29.99,Dialogue,,0,0,0,,Dar așa funcționează.
+Dialogue: 99,0:07:29.99,0:07:31.42,Dialogue,,0,0,0,,Ne-am pierdut atașamentul,
+Dialogue: 99,0:07:31.42,0:07:33.86,Dialogue,,0,0,0,,am refuzat să ne dăm \Nsufletele zeului morților vii
+Dialogue: 99,0:07:33.86,0:07:36.05,Dialogue,,0,0,0,,și am insistat să rămânem morți vii.
+Dialogue: 99,0:07:36.05,0:07:37.56,Dialogue,,0,0,0,,Asta nu e ceva de durată.
+Dialogue: 99,0:07:37.56,0:07:39.76,Dialogue,,0,0,0,,Da, așa este.
+Dialogue: 99,0:07:39.76,0:07:43.43,Dialogue,,0,0,0,,Speram să mai putem rămâne pentru o noapte, dar se pare că nu e posibil.
+Dialogue: 99,0:07:43.43,0:07:47.66,Dialogue,,0,0,0,,Gracefeel a fost foarte \Nîngăduitoare cu noi.
+Dialogue: 99,0:07:47.66,0:07:51.20,Dialogue,,0,0,0,,În mod normal, \Nam fi dispărut instant.
+Dialogue: 99,0:07:51.20,0:07:53.35,Dialogue,,0,0,0,,Despre ce vorbiți?
+Dialogue: 99,0:07:53.35,0:07:55.17,Dialogue,,0,0,0,,Ascultă, Will...
+Dialogue: 99,0:07:55.95,0:07:58.33,Dialogue,,0,0,0,,Acesta e sfârșitul pentru mine și Mary.
+Dialogue: 99,0:07:58.33,0:08:00.62,Dialogue,,0,0,0,,G-Glumiți, nu-i așa?
+Dialogue: 99,0:08:00.62,0:08:03.63,Dialogue,,0,0,0,,Trebuia să sărbătorim! \NAsta nu e corect!
+Dialogue: 99,0:08:04.53,0:08:05.50,Dialogue,,0,0,0,,Will...
+Dialogue: 99,0:08:06.02,0:08:09.21,Dialogue,,0,0,0,,Ești un băiat deștept. \NSunt sigură că vei înțelege.
+Dialogue: 99,0:08:12.75,0:08:14.44,Dialogue,,0,0,0,,Ne cerem scuze.
+Dialogue: 99,0:08:14.44,0:08:15.97,Dialogue,,0,0,0,,Chiar ne pare rău.
+Dialogue: 99,0:08:19.07,0:08:20.98,Dialogue,,0,0,0,,Nu putem face nimic?
+Dialogue: 99,0:08:21.24,0:08:22.35,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:08:22.74,0:08:25.49,Dialogue,,0,0,0,,Și chiar dacă am putea, \Nnu trebuie s-o facem.
+Dialogue: 99,0:08:25.49,0:08:30.15,Dialogue,,0,0,0,,Exact cum ai spus și tu. Trebuie să trăiești cum se cuvine și apoi să mori.
+Dialogue: 99,0:08:30.15,0:08:34.03,Dialogue,,0,0,0,,Noi ne-am pierdut pentru câteva secole, \Ndar ai putea numi asta un ocol.
+Dialogue: 99,0:08:34.03,0:08:37.99,Dialogue,,0,0,0,,Pe lângă asta, părinții ar trebui să moară mereu înaintea copiilor lor.
+Dialogue: 99,0:08:37.99,0:08:41.88,Dialogue,,0,0,0,,Asta e prima regulă a naturii.
+Dialogue: 99,0:08:42.79,0:08:43.59,Dialogue,,0,0,0,,Ai dreptate...
+Dialogue: 99,0:08:44.29,0:08:46.99,Dialogue,,0,0,0,,Da. Presupun.
+Dialogue: 99,0:08:49.07,0:08:53.78,Dialogue,,0,0,0,,Dar... voi spune ceva ce nu ar trebui, doar de data asta.
+Dialogue: 99,0:08:54.76,0:08:59.49,Dialogue,,0,0,0,,Tot nu vreau să vă văd murind.
+Dialogue: 99,0:09:00.10,0:09:04.78,Dialogue,,0,0,0,,Vreau să vă văd din nou atunci când mă voi întoarce aici.
+Dialogue: 99,0:09:05.26,0:09:09.73,Dialogue,,0,0,0,,Vreau să mă duelez cu Blood, să-l înving și să fiu învins.
+Dialogue: 99,0:09:09.73,0:09:11.76,Dialogue,,0,0,0,,Vreau să vorbim despre nimicuri.
+Dialogue: 99,0:09:12.12,0:09:14.26,Dialogue,,0,0,0,,Vreau să fac treburile \Ncasnice alături de Mary
+Dialogue: 99,0:09:14.26,0:09:16.88,Dialogue,,0,0,0,,și s-o aud spunând că mă \Ndescurc mult mai bine.
+Dialogue: 99,0:09:17.15,0:09:20.70,Dialogue,,0,0,0,,Vreau să-mi întâlniți copiii \Nși nepoții, într-o bună zi,
+Dialogue: 99,0:09:20.70,0:09:23.41,Dialogue,,0,0,0,,și să-i învătați multe lucruri!
+Dialogue: 99,0:09:23.41,0:09:26.54,Dialogue,,0,0,0,,E mult prea crud să spuneți \Ncă veți dispărea acum!
+Dialogue: 99,0:09:26.96,0:09:28.61,Dialogue,,0,0,0,,Nu vreau să dispăreți!
+Dialogue: 99,0:09:28.61,0:09:31.14,Dialogue,,0,0,0,,Dacă o veți face, eu...
+Dialogue: 99,0:09:31.14,0:09:34.12,Dialogue,,0,0,0,,nu voi ști cum ar trebui \Nsă merg mai departe...
+Dialogue: 99,0:09:34.71,0:09:36.30,Dialogue,,0,0,0,,Nu plecați...
+Dialogue: 99,0:09:36.80,0:09:38.05,Dialogue,,0,0,0,,Nu aș putea îndura asta.
+Dialogue: 99,0:09:38.67,0:09:41.90,Dialogue,,0,0,0,,Rămâneți aici, chiar dacă \Nar trebui să trișați cumva.
+Dialogue: 99,0:09:47.12,0:09:49.41,Dialogue,,0,0,0,,Nu fi egoist acum.
+Dialogue: 99,0:09:49.41,0:09:52.35,Dialogue,,0,0,0,,Blood are dreptate. \NFii rezonabil.
+Dialogue: 99,0:10:01.00,0:10:03.61,Dialogue,,0,0,0,,Nu m-am mai simțit ca \Nun tată de ani de zile.
+Dialogue: 99,0:10:03.61,0:10:06.88,Dialogue,,0,0,0,,Will a fost mereu un băiat cuminte.
+Dialogue: 99,0:10:07.18,0:10:10.51,Dialogue,,0,0,0,,Ascultă, Will. Chiar dacă \Nnoi nu vom mai fi,
+Dialogue: 99,0:10:10.51,0:10:13.38,Dialogue,,0,0,0,,oamenii pot trăi fără probleme cât timp mănâncă și dorm.
+Dialogue: 99,0:10:13.65,0:10:15.93,Dialogue,,0,0,0,,Vei găsi altceva ce vei prețui.
+Dialogue: 99,0:10:16.33,0:10:18.62,Dialogue,,0,0,0,,După ce noi nu vom mai fi, tu vei continua să trăiești.
+Dialogue: 99,0:10:18.62,0:10:22.08,Dialogue,,0,0,0,,Vei pleca de aici, \Nîți vei face mulți prieteni,
+Dialogue: 99,0:10:22.08,0:10:24.98,Dialogue,,0,0,0,,te vei alege cu două \Nsau trei fete frumoase
+Dialogue: 99,0:10:24.98,0:10:26.38,Dialogue,,0,0,0,,și te vei distra.
+Dialogue: 99,0:10:26.38,0:10:29.42,Dialogue,,0,0,0,,Blood! Nu-l încuraja să fie infidel!
+Dialogue: 99,0:10:29.63,0:10:33.73,Dialogue,,0,0,0,,Will, trebuie să fii loial când vine vorba de iubire și căsătorie.
+Dialogue: 99,0:10:34.58,0:10:39.25,Dialogue,,0,0,0,,Acum că ți-ai jurat credință Zeiței Luminii și ai omorât un zeu,
+Dialogue: 99,0:10:39.25,0:10:43.23,Dialogue,,0,0,0,,drumul pe care-l vei urma va fi cu siguranță plin de dificultăți.
+Dialogue: 99,0:10:43.48,0:10:45.70,Dialogue,,0,0,0,,Cel mai probabil, \Nvei avea parte de multe nereușite
+Dialogue: 99,0:10:45.70,0:10:48.25,Dialogue,,0,0,0,,și vei deveni ținta unor \Ncritici nejustificate.
+Dialogue: 99,0:10:48.25,0:10:50.25,Dialogue,,0,0,0,,Vei fi trădat de unii \Noameni pe care-i vei ajuta,
+Dialogue: 99,0:10:50.25,0:10:52.72,Dialogue,,0,0,0,,faptele tale bune ar putea fi uitate,
+Dialogue: 99,0:10:52.72,0:10:54.78,Dialogue,,0,0,0,,ai putea pierde tot ceea ce ai obținut
+Dialogue: 99,0:10:54.78,0:10:57.50,Dialogue,,0,0,0,,și ai putea ajunge să ai doar inamici.
+Dialogue: 99,0:10:58.15,0:10:59.27,Dialogue,,0,0,0,,Chiar și așa...
+Dialogue: 99,0:10:59.51,0:11:01.77,Dialogue,,0,0,0,,iubește-i pe ceilalți.
+Dialogue: 99,0:11:01.77,0:11:03.75,Dialogue,,0,0,0,,Fă lucruri bune.
+Dialogue: 99,0:11:04.05,0:11:07.41,Dialogue,,0,0,0,,Nu-ți fie teamă să pierzi lucruri, construiește în loc să distrugi,
+Dialogue: 99,0:11:07.41,0:11:11.05,Dialogue,,0,0,0,,iartă păcatele, oferă speranță acolo unde găsești disperare
+Dialogue: 99,0:11:11.05,0:11:14.39,Dialogue,,0,0,0,,și fi o sursă de bucurie \Nîn vremurile triste.
+Dialogue: 99,0:11:14.39,0:11:19.11,Dialogue,,0,0,0,,Și protejează-i pe cei slabi \Nde orice fel de violență.
+Dialogue: 99,0:11:19.58,0:11:23.40,Dialogue,,0,0,0,,Exact cum l-ai înfruntat pe zeul morților vii pentru noi.
+Dialogue: 99,0:11:24.47,0:11:25.33,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:11:26.09,0:11:29.08,Dialogue,,0,0,0,,Oh, Will... William...
+Dialogue: 99,0:11:29.08,0:11:31.37,Dialogue,,0,0,0,,Scumpul puișor al meu și al lui Blood...
+Dialogue: 99,0:11:32.97,0:11:38.79,Dialogue,,0,0,0,,Fie ca protecția divină a spiritelor curajului și a zeilor buni să fie mereu cu tine.
+Dialogue: 99,0:11:39.37,0:11:42.74,Dialogue,,0,0,0,,Ascultă. Înaintează cu credință în rezultatele pe care le vei obtine.
+Dialogue: 99,0:11:43.17,0:11:46.72,Dialogue,,0,0,0,,O persoană hotărâtă poate face orice.
+Dialogue: 99,0:11:47.06,0:11:49.79,Dialogue,,0,0,0,,S-ar putea să te pierzi în gânduri uneori,
+Dialogue: 99,0:11:49.79,0:11:52.24,Dialogue,,0,0,0,,dar nu-ți bate capul atât de mult încât să rămâi pe loc.
+Dialogue: 99,0:11:52.79,0:11:57.50,Dialogue,,0,0,0,,{\i1}Am gravat înfățișarea și cuvintele lor adânc în inima mea.
+Dialogue: 99,0:11:58.22,0:11:59.88,Dialogue,,0,0,0,,{\i1}Nu le voi uita niciodată.
+Dialogue: 99,0:11:59.88,0:12:02.30,Dialogue,,0,0,0,,{\i1}Exact ca lumina zeiței mele,
+Dialogue: 99,0:12:02.57,0:12:06.03,Dialogue,,0,0,0,,{\i1}știu că-mi vor lumina mereu drumul.
+Dialogue: 99,0:12:06.03,0:12:08.20,Dialogue,,0,0,0,,Oh... Aha!
+Dialogue: 99,0:12:08.20,0:12:10.63,Dialogue,,0,0,0,,M-am întors puțin cam devreme?
+Dialogue: 99,0:12:16.92,0:12:21.51,Dialogue,,0,0,0,,{\i1}După aceea, am sărbătorit victoria mea și faptul că am devenit adult.
+Dialogue: 99,0:12:21.89,0:12:24.54,Dialogue,,0,0,0,,{\i1}Prima băutură alături de ei trei
+Dialogue: 99,0:12:24.54,0:12:29.01,Dialogue,,0,0,0,,{\i1}mi-a lăsat o impresie de durată cu aroma ei bogată și puternică.
+Dialogue: 99,0:12:50.77,0:12:54.85,Dialogue,,0,0,0,,{\i1}În acea zi, lumina sfântă \Nmi-a condus părinții
+Dialogue: 99,0:12:54.85,0:12:57.28,Dialogue,,0,0,0,,{\i1}înapoi în ciclul morții și renașterii.
+Dialogue: 99,0:13:04.29,0:13:05.18,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:13:05.53,0:13:08.29,Dialogue,,0,0,0,,Acest loc chiar are cea \Nmai frumoasă priveliște.
+Dialogue: 99,0:13:09.03,0:13:10.93,Dialogue,,0,0,0,,Mary, Blood...
+Dialogue: 99,0:13:11.68,0:13:14.34,Dialogue,,0,0,0,,Știu că nu mai sunteți aici,
+Dialogue: 99,0:13:14.34,0:13:16.59,Dialogue,,0,0,0,,dar tot mă voi întoarce ca să vă spun cum îmi merg lucrurile.
+Dialogue: 99,0:13:17.32,0:13:20.61,Dialogue,,0,0,0,,Dacă-mi voi face prieteni sau îmi voi întemeia o familie, îi voi aduce și pe ei.
+Dialogue: 99,0:13:21.18,0:13:24.67,Dialogue,,0,0,0,,Voi deveni un adult care vă va putea spune cu mândrie
+Dialogue: 99,0:13:24.67,0:13:27.05,Dialogue,,0,0,0,,că are parte de o viață bună.
+Dialogue: 99,0:13:28.79,0:13:32.39,Dialogue,,0,0,0,,Deci, acum, voi pleca pentru o vreme.
+Dialogue: 99,0:13:33.71,0:13:35.46,Dialogue,,0,0,0,,Ai terminat?
+Dialogue: 99,0:13:35.46,0:13:35.87,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:13:36.93,0:13:38.26,Dialogue,,0,0,0,,Apropo...
+Dialogue: 99,0:13:38.26,0:13:40.42,Dialogue,,0,0,0,,De ce nu ai murit și tu?
+Dialogue: 99,0:13:40.42,0:13:44.67,Dialogue,,0,0,0,,Cât de urât! Cum poți să dorești moartea unui bătrân?!
+Dialogue: 99,0:13:44.67,0:13:45.58,Dialogue,,0,0,0,,Nepot rău ce ești!
+Dialogue: 99,0:13:45.58,0:13:47.67,Dialogue,,0,0,0,,Vai, mă întristezi așa de tare.
+Dialogue: 99,0:13:47.67,0:13:53.26,Dialogue,,0,0,0,,Doar mă gândeam că toate comorile tale vor fi ale mele dacă ai fi murit.
+Dialogue: 99,0:13:53.26,0:13:55.66,Dialogue,,0,0,0,,{\an8}Chiar {\i1}ești{\i0} un nepot rău!
+Dialogue: 99,0:13:55.66,0:13:58.35,Dialogue,,0,0,0,,{\an8}Nepotul cel rău tocmai și-a dat arama pe față!
+Dialogue: 99,0:13:57.73,0:14:02.71,Dialogue,,0,0,0,,Haide, doar mă refeream că banii pe care tu nu-i folosești vor avea, în sfârșit, o întrebuințare.
+Dialogue: 99,0:14:02.71,0:14:04.58,Dialogue,,0,0,0,,Nu-i așa, bunicule?
+Dialogue: 99,0:14:04.58,0:14:07.33,Dialogue,,0,0,0,,Adevărat. Bine, ia-i.
+Dialogue: 99,0:14:07.65,0:14:08.14,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:14:10.99,0:14:12.18,Dialogue,,0,0,0,,Ce e asta?!
+Dialogue: 99,0:14:12.18,0:14:13.62,Dialogue,,0,0,0,,Comoara mea.
+Dialogue: 99,0:14:13.62,0:14:15.47,Dialogue,,0,0,0,,Ți-o dau, fără doborândă.
+Dialogue: 99,0:14:15.47,0:14:16.96,Dialogue,,0,0,0,,Mărește-o, bine?
+Dialogue: 99,0:14:16.96,0:14:19.26,Dialogue,,0,0,0,,Stai, d-dar... v-vreau să spun că...
+Dialogue: 99,0:14:19.26,0:14:22.60,Dialogue,,0,0,0,,Banii care nu sunt cheltuiți niciodată sunt bani morți.
+Dialogue: 99,0:14:22.60,0:14:24.85,Dialogue,,0,0,0,,Nu-mi plac acest gen de bani.
+Dialogue: 99,0:14:24.85,0:14:26.98,Dialogue,,0,0,0,,Folosește-te bine de ei.
+Dialogue: 99,0:14:26.98,0:14:28.25,Dialogue,,0,0,0,,Gus...
+Dialogue: 99,0:14:29.17,0:14:32.19,Dialogue,,0,0,0,,{\i1}Deci acesta e ultimul \Nmeu cadou de la Gus...
+Dialogue: 99,0:14:32.19,0:14:35.18,Dialogue,,0,0,0,,Desigur, nu e ca și cum voi trece dincolo în următorul deceniu sau ceva.
+Dialogue: 99,0:14:35.18,0:14:36.01,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:14:36.01,0:14:40.72,Dialogue,,0,0,0,,Ei bine, știi, încă mai e problema păzirii sigliului Marelui Rege.
+Dialogue: 99,0:14:40.72,0:14:44.03,Dialogue,,0,0,0,,Am făcut o micuță înțelegere noapte trecută cu zeița ta.
+Dialogue: 99,0:14:44.03,0:14:47.36,Dialogue,,0,0,0,,Mi-a oferit permisiunea să continui să umblu prin acest oraș
+Dialogue: 99,0:14:47.36,0:14:50.70,Dialogue,,0,0,0,,pentru încă zece ani, cel puțin, până când zeul morților vii își va recăpăta puterile.
+Dialogue: 99,0:14:50.70,0:14:51.78,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:14:51.78,0:14:57.05,Dialogue,,0,0,0,,Se pare că am cam devenit comisionarul lui Gracefeel.
+Dialogue: 99,0:14:57.05,0:14:59.71,Dialogue,,0,0,0,,A-Atunci... cum rămâne \Ncu Mary și Blood?
+Dialogue: 99,0:14:59.71,0:15:03.65,Dialogue,,0,0,0,,Se pare că nu au vrut asta.
+Dialogue: 99,0:15:04.02,0:15:08.45,Dialogue,,0,0,0,,Dacă ar mai fi primit încă zece ani, ar fi devenit lacomi și ar fi ezitat când ar fi venit acel moment.
+Dialogue: 99,0:15:08.66,0:15:12.52,Dialogue,,0,0,0,,După ce ar mai trăi zece ani, ar mai fi vrut încă zece, și apoi încă zece,
+Dialogue: 99,0:15:12.52,0:15:15.43,Dialogue,,0,0,0,,și apoi ar fi vrut să rămână până în ultimele tale clipe.
+Dialogue: 99,0:15:15.43,0:15:20.60,Dialogue,,0,0,0,,Știau că-și vor dori asta, deci au ales ca viața lor să se sfârșească acum.
+Dialogue: 99,0:15:20.97,0:15:23.53,Dialogue,,0,0,0,,Exact ca tine, care ai \Nîncercat să pari puternic
+Dialogue: 99,0:15:23.53,0:15:27.76,Dialogue,,0,0,0,,când plângeai și strigai înăuntrul tău.
+Dialogue: 99,0:15:28.87,0:15:33.73,Dialogue,,0,0,0,,E de ajuns să ofere un rol care inspiră o asemenea lăcomie unui bătrân ca mine.
+Dialogue: 99,0:15:34.09,0:15:36.45,Dialogue,,0,0,0,,Chiar ești marfă, Gus.
+Dialogue: 99,0:15:40.56,0:15:43.03,Dialogue,,0,0,0,,Ce vei face cu sigiliul după \Nce vor trece cei zece ani?
+Dialogue: 99,0:15:43.03,0:15:46.12,Dialogue,,0,0,0,,Tu va trebui să găsești \No soluție înainte de asta.
+Dialogue: 99,0:15:46.12,0:15:47.90,Dialogue,,0,0,0,,Ce? Îmi lași mie această sarcină?!
+Dialogue: 99,0:15:47.90,0:15:52.42,Dialogue,,0,0,0,,Se pare că Gracefeel nu prea mai e venerată în lumea din afară.
+Dialogue: 99,0:15:52.42,0:15:56.80,Dialogue,,0,0,0,,A folosit multă putere \Ncând a intervenit pentru noi.
+Dialogue: 99,0:15:57.18,0:16:01.68,Dialogue,,0,0,0,,Deci viitorul zeiței luminii depinde și de eforturile tale.
+Dialogue: 99,0:16:02.03,0:16:06.07,Dialogue,,0,0,0,,Nici măcar nu am plecat, iar bagajul meu continuă să se mărească, și cel fizic, și cel psihic.
+Dialogue: 99,0:16:06.07,0:16:09.28,Dialogue,,0,0,0,,Bănuiesc că asta e una din dificultățile de care voi avea parte.
+Dialogue: 99,0:16:09.28,0:16:11.53,Dialogue,,0,0,0,,În acest caz, \Nvei avea nevoie de bani.
+Dialogue: 99,0:16:11.53,0:16:12.77,Dialogue,,0,0,0,,Ia-i, ia-i!
+Dialogue: 99,0:16:12.77,0:16:16.82,Dialogue,,0,0,0,,Da... Se pare că voi avea multe de făcut,
+Dialogue: 99,0:16:16.82,0:16:18.57,Dialogue,,0,0,0,,deci îi voi accepta cu \Ntoată recunoștința mea.
+Dialogue: 99,0:16:34.95,0:16:37.09,Dialogue,,0,0,0,,Ei bine, voi pleca acum.
+Dialogue: 99,0:16:45.07,0:16:46.96,Dialogue,,0,0,0,,Hei, Will...
+Dialogue: 99,0:16:46.96,0:16:52.01,Dialogue,,0,0,0,,Din moment ce pleci în lume acum, vei avea nevoie de un nume de familie.
+Dialogue: 99,0:16:52.01,0:16:57.00,Dialogue,,0,0,0,,Mary și Blood ți-au pus numele „William”, \Ndeci mă gândeam să-ți pun eu numele de familie.
+Dialogue: 99,0:16:57.00,0:16:57.89,Dialogue,,0,0,0,,Ce părere ai?
+Dialogue: 99,0:16:57.89,0:16:59.37,Dialogue,,0,0,0,,Bine, sunt în regulă cu asta.
+Dialogue: 99,0:16:59.37,0:17:04.89,Dialogue,,0,0,0,,În acest caz, mă gândesc să apelez la o tradiție urmată de anumite clanuri de elfi și rase mixte.
+Dialogue: 99,0:17:04.89,0:17:09.38,Dialogue,,0,0,0,,Acestea alegeau numele de familie prin combinarea numelor părinților.
+Dialogue: 99,0:17:10.52,0:17:12.11,Dialogue,,0,0,0,,Maryblood.
+Dialogue: 99,0:17:12.62,0:17:16.20,Dialogue,,0,0,0,,Numele tău este William Maryblood.
+Dialogue: 99,0:17:16.20,0:17:17.68,Dialogue,,0,0,0,,Maryblood...
+Dialogue: 99,0:17:18.33,0:17:21.48,Dialogue,,0,0,0,,Astfel, vei putea duce \Nnumele lor mai departe.
+Dialogue: 99,0:17:22.48,0:17:24.01,Dialogue,,0,0,0,,Mersi, Gus.
+Dialogue: 99,0:17:24.34,0:17:27.12,Dialogue,,0,0,0,,Îmi place foarte mult!
+Dialogue: 99,0:17:28.19,0:17:30.12,Dialogue,,0,0,0,,Ei bine, ai grijă de tine.
+Dialogue: 99,0:17:30.12,0:17:31.08,Dialogue,,0,0,0,,Așa voi face.
+Dialogue: 99,0:17:32.57,0:17:35.52,Dialogue,,0,0,0,,Oh, și voi adăuga litera \N„G” ca al doilea prenume!
+Dialogue: 99,0:17:35.52,0:17:38.61,Dialogue,,0,0,0,,Prostule! Nu ai nevoie de inițiala mea!
+Dialogue: 99,0:17:38.61,0:17:40.72,Dialogue,,0,0,0,,Ce naiba ai învățat la lecțiile tale?!
+Dialogue: 99,0:17:40.72,0:17:42.54,Dialogue,,0,0,0,,Ei bine, doar ești Gus, la urma urmei!
+Dialogue: 99,0:17:42.54,0:17:45.97,Dialogue,,0,0,0,,„Bătrânul Augustus” ar fi \Nmult prea lung de spus!
+Dialogue: 99,0:17:45.97,0:17:48.72,Dialogue,,0,0,0,,Vai, ce nepot iremediabil ești.
+Dialogue: 99,0:17:49.13,0:17:53.04,Dialogue,,0,0,0,,Păi, drum bun, \NWilliam G. Maryblood!
+Dialogue: 99,0:17:53.04,0:17:56.92,Dialogue,,0,0,0,,Rămâi cu bine, Gus! \NNe vom redevea într-o bună zi!
+Dialogue: 99,0:19:39.35,0:19:43.12,Dialogue,,0,0,0,,Salutare, generalule al \Nfortăreții! Cum îți merge?
+Dialogue: 99,0:19:43.40,0:19:49.70,Dialogue,,0,0,0,,E ceva normal ca doi războinici să se prezinte și să stea puțin de vorbă înainte de a se lupta...
+Dialogue: 99,0:19:56.44,0:19:59.99,Dialogue,,0,0,0,,Dar voi, demonii, \Nsunteți mult prea neciopliți.
+Dialogue: 99,0:19:59.99,0:20:03.97,Dialogue,,0,0,0,,Probabil și demonul a fost suprins să audă asta de la cineva ca tine.
+Dialogue: 99,0:20:03.97,0:20:05.64,Dialogue,,0,0,0,,Cât de răutăcioasă ești.
+Dialogue: 99,0:20:06.26,0:20:07.86,Dialogue,,0,0,0,,Cum a mers la tine?
+Dialogue: 99,0:20:07.86,0:20:10.05,Dialogue,,0,0,0,,Am făcut ritualul de \Nînmormântare fără probleme
+Dialogue: 99,0:20:10.05,0:20:12.02,Dialogue,,0,0,0,,și am oprit transformarea în morți vii.
+Dialogue: 99,0:20:14.39,0:20:17.42,Dialogue,,0,0,0,,Se pare că și grupul \Nbătrânului Gus s-a descurcat.
+Dialogue: 99,0:20:17.42,0:20:18.95,Dialogue,,0,0,0,,Așa se pare.
+Dialogue: 99,0:20:18.95,0:20:21.61,Dialogue,,0,0,0,,În orice caz, am distrus fortăreața.
+Dialogue: 99,0:20:21.61,0:20:23.94,Dialogue,,0,0,0,,N-ar fi un lucru rău dacă grupul bătrânului Gus s-ar retrage.
+Dialogue: 99,0:20:24.25,0:20:27.10,Dialogue,,0,0,0,,Generalul fortăreții a fost \Ndoborât de grupul nostru mic.
+Dialogue: 99,0:20:27.10,0:20:28.38,Dialogue,,0,0,0,,Ar fi bine să nu riscăm mai mult.
+Dialogue: 99,0:20:28.38,0:20:30.34,Dialogue,,0,0,0,,Nu începe să mă lauzi. Voi roși.
+Dialogue: 99,0:20:30.34,0:20:31.70,Dialogue,,0,0,0,,Nu te lăudam.
+Dialogue: 99,0:20:32.40,0:20:36.18,Dialogue,,0,0,0,,Câte zile ne va câștiga distrugerea podului de la Marele Canion?
+Dialogue: 99,0:20:36.18,0:20:38.22,Dialogue,,0,0,0,,Câteva, cel mult.
+Dialogue: 99,0:20:38.22,0:20:41.68,Dialogue,,0,0,0,,Nu vom reuși nimic până nu-l învingem pe Marele Rege.
+Dialogue: 99,0:20:41.68,0:20:43.92,Dialogue,,0,0,0,,Gus pare să aibă un plan.
+Dialogue: 99,0:20:43.92,0:20:46.42,Dialogue,,0,0,0,,Totuși, probabil e un drum doar dus.
+Dialogue: 99,0:20:46.42,0:20:48.31,Dialogue,,0,0,0,,Nu ne vom mai întoarce.
+Dialogue: 99,0:20:49.55,0:20:51.12,Dialogue,,0,0,0,,Iar tu nu o să vii cu noi.
+Dialogue: 99,0:20:51.12,0:20:52.68,Dialogue,,0,0,0,,Asta e destul de neașteptat.
+Dialogue: 99,0:20:52.68,0:20:56.70,Dialogue,,0,0,0,,După părerea mea, \Nsunt un atu valoros în luptă.
+Dialogue: 99,0:20:56.70,0:20:59.19,Dialogue,,0,0,0,,Știu. Dar tot nu vei veni.
+Dialogue: 99,0:20:59.45,0:21:01.77,Dialogue,,0,0,0,,Mi-aș simți îngrozitor \Nsă te văd murind.
+Dialogue: 99,0:21:02.89,0:21:03.78,Dialogue,,0,0,0,,Ce e?
+Dialogue: 99,0:21:04.13,0:21:08.29,Dialogue,,0,0,0,,Nu puteai să adaugi și „deoarece te iubesc” la acea afirmație?
+Dialogue: 99,0:21:08.29,0:21:10.65,Dialogue,,0,0,0,,Ar fi fost foarte plăcut, \Npentru mine în special.
+Dialogue: 99,0:21:10.65,0:21:13.37,Dialogue,,0,0,0,,D-De parcă aș spune \Nceva atât de enervant!
+Dialogue: 99,0:21:13.73,0:21:16.16,Dialogue,,0,0,0,,Chiar ești o ființă iremediabilă, știi?
+Dialogue: 99,0:21:16.16,0:21:18.38,Dialogue,,0,0,0,,Și dacă voi refuza să rămân în urmă?
+Dialogue: 99,0:21:18.38,0:21:20.88,Dialogue,,0,0,0,,Te voi trimite înapoi chiar dacă voi fi nevoit să te las inconștientă.
+Dialogue: 99,0:21:20.88,0:21:23.09,Dialogue,,0,0,0,,Ba chiar am primit și \Npermisiunea bătrânului Gus.
+Dialogue: 99,0:21:23.09,0:21:25.85,Dialogue,,0,0,0,,Înțeleg. Bănuiesc că ar fi \Ninutil să opun rezistență.
+Dialogue: 99,0:21:25.85,0:21:28.72,Dialogue,,0,0,0,,Așa e. Abilitățile tale nu sunt rele,
+Dialogue: 99,0:21:28.72,0:21:31.20,Dialogue,,0,0,0,,dar nu sunt la nivelul mărețului și inegalabilului Blood.
+Dialogue: 99,0:21:31.20,0:21:32.80,Dialogue,,0,0,0,,Atunci, treaba stă astfel:
+Dialogue: 99,0:21:33.09,0:21:35.64,Dialogue,,0,0,0,,dacă mă lăsați în urmă, \Nmă voi sinucide pe loc.
+Dialogue: 99,0:21:35.64,0:21:37.04,Dialogue,,0,0,0,,H-Hei...
+Dialogue: 99,0:21:37.04,0:21:38.34,Dialogue,,0,0,0,,Nu m-ai auzit?
+Dialogue: 99,0:21:38.66,0:21:42.14,Dialogue,,0,0,0,,Am spus că dacă nu pot veni cu voi, \Nmă voi sinucide pe loc.
+Dialogue: 99,0:21:42.14,0:21:43.87,Dialogue,,0,0,0,,Acum, mă veți lua cu voi, nu?
+Dialogue: 99,0:21:43.87,0:21:46.14,Dialogue,,0,0,0,,N-Nu e corect! În multe feluri!
+Dialogue: 99,0:21:46.14,0:21:49.09,Dialogue,,0,0,0,,Poate ești cel mai puternic \Nbărbat din acest ținut,
+Dialogue: 99,0:21:49.09,0:21:51.57,Dialogue,,0,0,0,,dar niciun bărbat nu poate câștiga în fața unei femei.
+Dialogue: 99,0:21:51.57,0:21:53.61,Dialogue,,0,0,0,,Ești așa de încăpățânată...
+Dialogue: 99,0:21:54.08,0:21:57.14,Dialogue,,0,0,0,,Vai, m-am ales cu o femeie tare nebună.
+Dialogue: 99,0:21:57.14,0:22:00.57,Dialogue,,0,0,0,,Nu am făcut nimic încă și deja mă consideri femeia ta?
+Dialogue: 99,0:22:00.90,0:22:02.23,Dialogue,,0,0,0,,Hei, Mary...
+Dialogue: 99,0:22:02.74,0:22:04.36,Dialogue,,0,0,0,,Dacă ne vom întoarce în viață,
+Dialogue: 99,0:22:04.84,0:22:07.50,Dialogue,,0,0,0,,haide să găsim un loc liniștit și retras unde să ne căsătorim.
+Dialogue: 99,0:22:11.07,0:22:11.94,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:22:14.48,0:22:15.66,Dialogue,,0,0,0,,Mi-ar plăcea asta.
+Dialogue: 99,0:22:18.44,0:22:22.86,Dialogue,,0,0,0,,Mi-ar plăcea o casă retrasă, poate undeva pe un deal care are o priveliște frumoasă.
+Dialogue: 99,0:22:22.86,0:22:24.07,Dialogue,,0,0,0,,Asta sună minunat.
+Dialogue: 99,0:22:24.07,0:22:26.10,Dialogue,,0,0,0,,Sunt sigură că briza va fi foarte plăcută.
+Dialogue: 99,0:22:26.10,0:22:28.16,Dialogue,,0,0,0,,Am putea chiar să avem \Nși o grădină cu legume.
+Dialogue: 99,0:22:28.16,0:22:30.25,Dialogue,,0,0,0,,Și dacă vom avea un copil,
+Dialogue: 99,0:22:30.25,0:22:32.84,Dialogue,,0,0,0,,îi vom cere bătrânul \NGus să-i fie profesor.
+Dialogue: 99,0:22:33.40,0:22:37.42,Dialogue,,0,0,0,,În ciuda la tot ce ar putea spune, \Nsunt sigur că ar accepta.
+Dialogue: 99,0:22:37.96,0:22:42.24,Dialogue,,0,0,0,,Și dacă va fi băiat, \Nîl voi învăța cum să lupte.
+Dialogue: 99,0:22:42.24,0:22:44.31,Dialogue,,0,0,0,,Cu asta și magia bătrânului Gus,
+Dialogue: 99,0:22:44.31,0:22:47.25,Dialogue,,0,0,0,,va fi cel mai puternic bărbat din lume, \Nchiar mai puternic decât mine!
+Dialogue: 99,0:22:47.62,0:22:48.46,Dialogue,,0,0,0,,Ce părere ai?
+Dialogue: 99,0:22:48.46,0:22:52.93,Dialogue,,0,0,0,,Mă îngrozește gândul că ar putea deveni un nepriceput puternic și deștept.
+Dialogue: 99,0:22:52.93,0:22:53.97,Dialogue,,0,0,0,,Cât de răutăcioasă ești!
+Dialogue: 99,0:22:53.97,0:22:58.14,Dialogue,,0,0,0,,Deci eu va trebui să-l învăț \Ndespre lucrurile mici.
+Dialogue: 99,0:22:58.45,0:23:00.86,Dialogue,,0,0,0,,Sunt sigură că va fi adorabil, copilul nostru.
+Dialogue: 99,0:23:00.86,0:23:01.80,Dialogue,,0,0,0,,Așa e.
+Dialogue: 99,0:23:02.15,0:23:03.73,Dialogue,,0,0,0,,Ce nume ar trebui să-i punem?
+Dialogue: 99,0:23:03.73,0:23:05.39,Dialogue,,0,0,0,,Am deja unul dacă va fi băiat.
+Dialogue: 99,0:23:05.62,0:23:07.39,Dialogue,,0,0,0,,Sper că nu e un nume ciudat.
+Dialogue: 99,0:23:07.39,0:23:09.04,Dialogue,,0,0,0,,E un nume perfect normal!
+Dialogue: 99,0:23:09.04,0:23:11.97,Dialogue,,0,0,0,,Ascultă, vorbim de copilul {\i1}nostru{\i0}.
+Dialogue: 99,0:23:11.97,0:23:14.68,Dialogue,,0,0,0,,Știi că va avea o voință de neclintit.
+Dialogue: 99,0:23:15.24,0:23:19.03,Dialogue,,0,0,0,,Deci îl vom numi „William”, însemnând „coiful voinței”.
+Dialogue: 99,0:23:20.40,0:23:23.36,Dialogue,,0,0,0,,William... E un nume bun.
+Dialogue: 99,0:23:23.36,0:23:25.04,Dialogue,,0,0,0,,Și mie îmi place.
+Dialogue: 99,0:23:26.21,0:23:29.16,Dialogue,,0,0,0,,Will... Puișorul meu.
 Dialogue: 0,0:01:15.97,0:01:20.98,DedzuyaSigns,,0,0,0,,{\an8\pos(960,730)\fnLinux Libertine\fs100\bord5\yshad0.001\3c&HFFFFFF&\4c&HFFFFFF&\1a&HFE&\blur5}Paladinul ținutului îndepărtat
 Dialogue: 1,0:01:15.97,0:01:20.98,DedzuyaSigns,,0,0,0,,{\an8\pos(960,730)\fnLinux Libertine\fs100\c&H060416&\blur0.6}P{\c&H08063C&}a{\c&H0A0962&}l{\c&H0C0B89&}a{\c&H0E0EAF&}d{\c&H1011D6&}i{\c&H0E0EAF&}n{\c&H0C0B89&}u{\c&H0A0962&}l {\c&H060416&}ț{\c&H08063C&}i{\c&H0A0962&}n{\c&H0C0B89&}u{\c&H0E0EAF&}t{\c&H1011D6&}u{\c&H0E0EAF&}l{\c&H0C0B89&}u{\c&H0A0962&}i {\c&H060416&}î{\c&H08063C&}n{\c&H0A0962&}d{\c&H0C0B89&}e{\c&H0E0EAF&}p{\c&H1011D6&}ă{\c&H0D0DA6&}r{\c&H0B0A76&}t{\c&H080746&}a{\c&H060416&}t
 Dialogue: 0,0:00:19.83,0:00:20.92,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnNewCinemaB Std D\fs80\bord1\yshad0.001\c&H000000&\alpha&H40&\1a&HFE&\blur4}Accelerare

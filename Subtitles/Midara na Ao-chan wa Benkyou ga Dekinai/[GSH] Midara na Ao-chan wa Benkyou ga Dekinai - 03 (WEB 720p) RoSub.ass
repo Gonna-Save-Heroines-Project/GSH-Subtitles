@@ -35,212 +35,212 @@ Style: ED,Merienda,50,&H00F9FBFD,&H000000FF,&H00F3C56F,&H00AB64F9,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:00.93,0:00:02.19,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:00:02.19,0:00:05.27,Dialogue,,0,0,0,,Vrei să lipsești de la excursia cu clasa ca să mergi la meditații?
-Dialogue: 100,0:00:05.27,0:00:06.56,Dialogue,,0,0,0,,Îți interzic!
-Dialogue: 100,0:00:06.89,0:00:09.45,Dialogue,,0,0,0,,Dar tot ce face toată lumea \Neste să se prostească!
-Dialogue: 100,0:00:09.45,0:00:12.57,Dialogue,,0,0,0,,De asta se numesc cele \Nmai bune zile din viață!
-Dialogue: 100,0:00:12.57,0:00:14.49,Dialogue,,0,0,0,,Nu ți le irosi făcând meditații.
-Dialogue: 100,0:00:14.49,0:00:18.12,Dialogue,,0,0,0,,Știi că toată lumea \N"se distrează" împreună noaptea?
-Dialogue: 100,0:00:18.12,0:00:19.58,Dialogue,,0,0,0,,Așa sunt adolescenții.
-Dialogue: 100,0:00:19.99,0:00:22.54,Dialogue,,0,0,0,,Înainte să-ți dai seama, \Ntotul se transformă într-o mare orgie!
-Dialogue: 100,0:00:22.93,0:00:25.42,Dialogue,,0,0,0,,Sunt cele mai bune zile din viața ta, \Ndeci mergi și trăiește-ți-le!
-Dialogue: 100,0:00:25.42,0:00:27.59,Dialogue,,0,0,0,,Și te mai numești părinte?
-Dialogue: 100,0:01:34.94,0:01:39.20,Dialogue,,0,0,0,,{\i1}Nu pot fugi acasă ca de obicei, deoarece suntem în munți, deci va trebui să fiu super atentă.
-Dialogue: 100,0:01:39.20,0:01:40.83,Dialogue,,0,0,0,,Aia era Horie?
-Dialogue: 100,0:01:40.83,0:01:44.24,Dialogue,,0,0,0,,Se comportă mai \Nantisocial ca de obicei.
-Dialogue: 100,0:01:44.24,0:01:46.41,Dialogue,,0,0,0,,Aș vrea s-o cunosc mai bine.
-Dialogue: 100,0:01:46.41,0:01:49.25,Dialogue,,0,0,0,,{\i1}Depravare, dezmăț, destrăbălare...
-Dialogue: 100,0:01:46.41,0:01:49.70,Dialogue Top,,0,0,0,,E ca și cum nimeni nu știe ce gândește.
-Dialogue: 100,0:01:49.25,0:01:51.25,Dialogue,,0,0,0,,{\i1}Depravare, dezmăț, destrăbălare...
-Dialogue: 100,0:01:51.25,0:01:52.25,Dialogue,,0,0,0,,Ai grijă!
-Dialogue: 100,0:01:53.55,0:01:55.54,Dialogue,,0,0,0,,K-Kijima...
-Dialogue: 100,0:01:56.92,0:01:58.05,Dialogue,,0,0,0,,Îmi pare rău!
-Dialogue: 100,0:01:59.85,0:02:02.46,Dialogue,,0,0,0,,La naiba, ai făcut-o să fugă din nou.
-Dialogue: 100,0:02:02.46,0:02:03.47,Dialogue,,0,0,0,,Mai taci.
-Dialogue: 100,0:02:03.47,0:02:06.14,Dialogue,,0,0,0,,Horie pare destul de dificilă.
-Dialogue: 100,0:02:06.14,0:02:07.81,Dialogue,,0,0,0,,De ce nu te dai la o fată mai ușoară?
-Dialogue: 100,0:02:08.14,0:02:09.27,Dialogue,,0,0,0,,Prostule.
-Dialogue: 100,0:02:10.69,0:02:13.69,Dialogue,,0,0,0,,Exact asta o faci și drăguță.
-Dialogue: 100,0:02:15.49,0:02:17.65,Dialogue,,0,0,0,,O, ce a fost {\i1}asta{\i0}?
-Dialogue: 100,0:02:17.65,0:02:18.45,Dialogue,,0,0,0,,{\i1}Trebuie{\i0} să aflu!
-Dialogue: 100,0:02:19.24,0:02:21.49,Dialogue,,0,0,0,,Hei, Horie! Așteaptă!
-Dialogue: 100,0:02:21.49,0:02:22.16,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:02:22.45,0:02:23.87,Dialogue,,0,0,0,,Putem vorbi puțin?
-Dialogue: 100,0:02:23.87,0:02:26.42,Dialogue,,0,0,0,,Și nu doar să vorbim! \NCi să facem și alte lucruri distractive!
-Dialogue: 100,0:02:26.42,0:02:28.71,Dialogue,,0,0,0,,Da! Putem înlătura toate inhibițiile!
-Dialogue: 100,0:02:28.71,0:02:30.79,Dialogue,,0,0,0,,Haide să ne distrăm astă-seară!
-Dialogue: 100,0:02:31.38,0:02:34.38,Dialogue,,0,0,0,,{\i1}Ș-Știam eu!
-Dialogue: 100,0:02:34.71,0:02:38.59,Dialogue,,0,0,0,,O-O, p-păi, vedeți v-voi...
-Dialogue: 100,0:02:38.59,0:02:40.64,Dialogue,,0,0,0,,Știu! De ce nu-l invităm și pe Kijima?
-Dialogue: 100,0:02:40.64,0:02:41.82,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:02:43.01,0:02:45.38,Dialogue,,0,0,0,,Ne vedem mai târziu!
-Dialogue: 100,0:02:46.35,0:02:48.89,Dialogue,,0,0,0,,Ce? Ce a fost asta?
-Dialogue: 100,0:02:49.39,0:02:54.27,Dialogue,,0,0,0,,{\i1}Nu-mi spune că vor să ne privească \Npe mine și pe Kijima cum "ne distrăm"!
-Dialogue: 100,0:02:54.27,0:02:57.11,Dialogue,,0,0,0,,{\i1}Ce mă fac? Port chiloți de babă astăzi!
-Dialogue: 100,0:02:57.11,0:02:59.24,Dialogue,,0,0,0,,{\i1}Acel fel de chiloți care-ți trec de buric!
-Dialogue: 100,0:02:59.99,0:03:04.87,Dialogue,,0,0,0,,Credeam că toate fetele poartă chiloți sexy.
-Dialogue: 100,0:03:05.33,0:03:08.29,Dialogue,,0,0,0,,{\i1}Asta e ceea ce ar crede Regele Relațiilor.
-Dialogue: 100,0:03:08.29,0:03:10.58,Dialogue,,0,0,0,,{\i1}Să facem prostii iese din discuție!
-Dialogue: 100,0:03:10.58,0:03:14.13,Dialogue,,0,0,0,,Trebuie să-i spun lui \NKijima să le refuze invitația!
-Dialogue: 100,0:03:15.27,0:03:16.38,Dialogue,,0,0,0,,Scuzați-mă!
-Dialogue: 100,0:03:22.70,0:03:24.06,Dialogue,,0,0,0,,Omule, mi-e somn deja.
-Dialogue: 100,0:03:24.06,0:03:25.30,Dialogue,,0,0,0,,Ce vreți să facem în seara asta?
-Dialogue: 100,0:03:25.30,0:03:27.64,Dialogue,,0,0,0,,Nu puteam să ne culcăm \Nla ora zece ca de obicei?
-Dialogue: 100,0:03:27.64,0:03:28.98,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:03:28.98,0:03:31.85,Dialogue,,0,0,0,,{\i1}Auzindu-i vocea mi s-a activat instinctul de a mă ascunde.
-Dialogue: 100,0:03:33.56,0:03:36.07,Dialogue,,0,0,0,,Haideți, băieți. Nu lăsați ușile deschise.
-Dialogue: 100,0:03:36.07,0:03:36.57,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:03:36.94,0:03:38.25,Dialogue,,0,0,0,,Este blocată?
-Dialogue: 100,0:03:39.99,0:03:41.95,Dialogue,,0,0,0,,{\i1}Voi fi prinsă!
-Dialogue: 100,0:03:42.27,0:03:43.39,Dialogue,,0,0,0,,Kijima.
-Dialogue: 100,0:03:43.39,0:03:46.58,Dialogue,,0,0,0,,Merg să iau ceva de băut. Voi vreți ceva?
-Dialogue: 100,0:03:46.58,0:03:47.70,Dialogue,,0,0,0,,Voi veni și eu
-Dialogue: 100,0:03:47.70,0:03:49.79,Dialogue,,0,0,0,,Hmm, să mă gândesc...
-Dialogue: 100,0:03:51.92,0:03:54.17,Dialogue,,0,0,0,,{\i1}Au plecat?
-Dialogue: 100,0:03:54.17,0:03:56.51,Dialogue,,0,0,0,,{\i1}Acum, cum mai exact o să ies de aici?
-Dialogue: 100,0:04:01.61,0:04:02.38,Dialogue,,0,0,0,,Ce naiba...
-Dialogue: 100,0:04:02.97,0:04:06.89,Dialogue,,0,0,0,,{\i1}M-Mâna lui Kijima este pe piciorul meu!
-Dialogue: 100,0:04:07.28,0:04:08.56,Dialogue,,0,0,0,,Ce naiba este asta?
-Dialogue: 100,0:04:08.56,0:04:11.47,Dialogue,,0,0,0,,Este moale și... cald?
-Dialogue: 100,0:04:11.47,0:04:13.73,Dialogue,,0,0,0,,{\i1}Oprește-te!
-Dialogue: 100,0:04:14.56,0:04:15.35,Dialogue,,0,0,0,,Este cumva o pisică?
-Dialogue: 100,0:04:16.11,0:04:17.82,Dialogue,,0,0,0,,Hei, ieși afară.
-Dialogue: 100,0:04:20.99,0:04:23.78,Dialogue,,0,0,0,,M-Miau?
-Dialogue: 100,0:04:24.03,0:04:26.87,Dialogue,,0,0,0,,H-Horie?! Ești aici \Ndeoarece voiai să mă vezi?
-Dialogue: 100,0:04:26.87,0:04:28.02,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:04:28.02,0:04:31.04,Dialogue,,0,0,0,,Păi, ei bine, oarecum da...
-Dialogue: 100,0:04:37.71,0:04:40.30,Dialogue,,0,0,0,,Hei...
-Dialogue: 100,0:04:45.64,0:04:47.93,Dialogue,,0,0,0,,Pleacă înainte să se întoarcă ceilalți.
-Dialogue: 100,0:04:49.43,0:04:52.81,Dialogue,,0,0,0,,{\i1}M-a salvat fără măcar să i-o cer...
-Dialogue: 100,0:04:52.81,0:04:54.06,Dialogue,,0,0,0,,{\i1}Prostul.
-Dialogue: 100,0:04:54.06,0:04:55.40,Dialogue,,0,0,0,,Apropo...
-Dialogue: 100,0:04:56.23,0:04:58.83,Dialogue,,0,0,0,,Ce atingeam mai exact?
-Dialogue: 100,0:04:58.83,0:05:01.36,Dialogue,,0,0,0,,Era foarte moale și cald.
-Dialogue: 100,0:05:01.36,0:05:03.32,Dialogue,,0,0,0,,De ce îți miroși mâna?!
-Dialogue: 100,0:05:03.32,0:05:04.90,Dialogue,,0,0,0,,Mergi și spală-te! Chiar acum!
-Dialogue: 100,0:05:04.90,0:05:07.37,Dialogue,,0,0,0,,Bine! Nu trebuie să—
-Dialogue: 100,0:05:08.70,0:05:10.99,Dialogue,,0,0,0,,Hopa, Horie este peste Kijima!
-Dialogue: 100,0:05:10.99,0:05:13.69,Dialogue,,0,0,0,,Ba nu! Nu este ceea ce pare!
-Dialogue: 100,0:05:13.69,0:05:15.71,Dialogue,,0,0,0,,Presupun că ați vrea să vă distrați fără noi.
-Dialogue: 100,0:05:15.71,0:05:16.99,Dialogue,,0,0,0,,Ar trebui să plecăm?
-Dialogue: 100,0:05:16.99,0:05:17.92,Dialogue,,0,0,0,,Nu plecați!
-Dialogue: 100,0:05:17.92,0:05:18.84,Dialogue,,0,0,0,,Unde să mergem?
-Dialogue: 100,0:05:18.84,0:05:19.79,Dialogue,,0,0,0,,Ascultați-mă!
-Dialogue: 100,0:05:20.38,0:05:24.59,Dialogue,,0,0,0,,H-Haideți să ne distrăm \Nîmpreună! Luați-mă cu voi!
-Dialogue: 100,0:05:24.59,0:05:26.47,Dialogue,,0,0,0,,Păi, dacă insiști.
-Dialogue: 100,0:05:27.97,0:05:31.43,Dialogue,,0,0,0,,Vom merge până la altar \Nși ne vom întoarce?
-Dialogue: 100,0:05:31.81,0:05:33.89,Dialogue,,0,0,0,,Nici vorbă! Nu, nicio șansă, \Nnu se va întâmpla!
-Dialogue: 100,0:05:33.89,0:05:35.56,Dialogue,,0,0,0,,Nu puteți vorbi serios.
-Dialogue: 100,0:05:35.56,0:05:38.02,Dialogue,,0,0,0,,Și de ce trebuie s-o facem \Nîn pereche băiat-fată?
-Dialogue: 100,0:05:38.02,0:05:40.73,Dialogue,,0,0,0,,Vrei să fii singură cu Kijima, nu?
-Dialogue: 100,0:05:40.73,0:05:41.86,Dialogue,,0,0,0,,Ca să vă cunoașteți!
-Dialogue: 100,0:05:42.32,0:05:45.40,Dialogue,,0,0,0,,Man, I bet this'll go on our permanent record if we get caught.
-Dialogue: 100,0:05:45.40,0:05:46.99,Dialogue,,0,0,0,,Pari în regulă cu asta...
-Dialogue: 100,0:05:47.54,0:05:50.41,Dialogue,,0,0,0,,{\i1}Știam că nu trebuia să \Nvin în excursia asta stupidă!
-Dialogue: 100,0:05:50.41,0:05:52.12,Dialogue,,0,0,0,,Ce? Horie?
-Dialogue: 100,0:05:53.32,0:05:54.89,Dialogue,,0,0,0,,Te-ai schimbat?
-Dialogue: 100,0:05:54.89,0:05:56.00,Dialogue,,0,0,0,,Ești foarte drăguță.
-Dialogue: 100,0:05:56.00,0:05:57.12,Dialogue,,0,0,0,,Cred că ți se potrivește.
-Dialogue: 100,0:05:57.12,0:05:59.58,Dialogue,,0,0,0,,I know, right? We lent her some of our clothes.
-Dialogue: 100,0:05:59.58,0:06:01.84,Dialogue,,0,0,0,,She said she didn't pack anything casual.
-Dialogue: 100,0:06:01.84,0:06:04.09,Dialogue,,0,0,0,,Aren't you gonna thank us, Kijima?
-Dialogue: 100,0:06:04.42,0:06:06.55,Dialogue,,0,0,0,,Yeah! Thanks, everyone!
-Dialogue: 100,0:06:06.55,0:06:08.89,Dialogue,,0,0,0,,Okay, go for it, Horie!
-Dialogue: 100,0:06:08.89,0:06:10.72,Dialogue,,0,0,0,,Kijima will be your bodyguard!
-Dialogue: 100,0:06:11.00,0:06:13.60,Dialogue,,0,0,0,,I-I'm fine going on my own.
-Dialogue: 100,0:06:13.60,0:06:17.81,Dialogue,,0,0,0,,{\c&H000000&\3c&HEDFFFE&\blur3}All alone? On this old mountain trail?
-Dialogue: 100,0:06:24.68,0:06:26.49,Dialogue,,0,0,0,,It was closer than it looked.
-Dialogue: 100,0:06:26.49,0:06:29.83,Dialogue,,0,0,0,,{\i1}I never got scared because I was too busy thinking about Kijima.
-Dialogue: 100,0:06:30.41,0:06:32.23,Dialogue,,0,0,0,,Oh, Kijima?
-Dialogue: 100,0:06:35.70,0:06:38.58,Dialogue,,0,0,0,,I guess there was nothing to be worried about after all.
-Dialogue: 100,0:06:48.99,0:06:50.88,Dialogue,,0,0,0,,K-K-Kijima!
-Dialogue: 100,0:06:50.88,0:06:52.14,Dialogue,,0,0,0,,A h-h-hand!
-Dialogue: 100,0:06:52.14,0:06:53.43,Dialogue,,0,0,0,,Huh? What is it?
-Dialogue: 100,0:06:53.43,0:06:56.85,Dialogue,,0,0,0,,A gh-gh-gho—
-Dialogue: 100,0:06:56.85,0:07:00.48,Dialogue,,0,0,0,,Calm down, Horie! I'll go check it out!
-Dialogue: 100,0:07:03.45,0:07:04.52,Dialogue,,0,0,0,,Sorry...
-Dialogue: 100,0:07:04.52,0:07:06.71,Dialogue,,0,0,0,,No worries. That's what I'm here for.
-Dialogue: 100,0:07:07.55,0:07:09.45,Dialogue,,0,0,0,,Don't get the wrong idea!
-Dialogue: 100,0:07:09.45,0:07:10.53,Dialogue,,0,0,0,,I won't.
-Dialogue: 100,0:07:12.16,0:07:14.99,Dialogue,,0,0,0,,You know, you're really jumpy all the—
-Dialogue: 100,0:07:23.38,0:07:25.34,Dialogue,,0,0,0,,H-Horie...
-Dialogue: 100,0:07:25.65,0:07:26.96,Dialogue,,0,0,0,,{\i1}Give it to her straight?
-Dialogue: 100,0:07:26.96,0:07:28.93,Dialogue,,0,0,0,,{\i1}No, that'd embarrass her.
-Dialogue: 100,0:07:28.93,0:07:30.34,Dialogue,,0,0,0,,{\i1}Beat around the bush?
-Dialogue: 100,0:07:30.34,0:07:31.43,Dialogue,,0,0,0,,{\i1}That's the way to go.
-Dialogue: 100,0:07:31.80,0:07:32.64,Dialogue,,0,0,0,,Horie.
-Dialogue: 100,0:07:32.64,0:07:33.64,Dialogue,,0,0,0,,What?
-Dialogue: 100,0:07:34.98,0:07:38.22,Dialogue,,0,0,0,,Are you sure you didn't forget something important in the bathroom?
-Dialogue: 100,0:07:42.06,0:07:43.90,Dialogue,,0,0,0,,Oh, right. My flashlight.
-Dialogue: 100,0:07:44.69,0:07:47.36,Dialogue,,0,0,0,,{\i1}That's important too, but...
-Dialogue: 100,0:07:49.99,0:07:52.91,Dialogue,,0,0,0,,{\i1}If she goes back like this, \Neveryone will see it too.
-Dialogue: 100,0:07:52.91,0:07:55.80,Dialogue,,0,0,0,,{\i1}Should I pull it down myself? \NNo, that's too creepy.
-Dialogue: 100,0:07:55.80,0:07:57.28,Dialogue,,0,0,0,,{\i1}Maybe I should be upfront.
-Dialogue: 100,0:07:57.28,0:07:58.87,Dialogue,,0,0,0,,{\i1}I don't want to make her cry though.
-Dialogue: 100,0:08:00.00,0:08:03.06,Dialogue,,0,0,0,,Hold up. Don't get too far ahead.
-Dialogue: 100,0:08:03.75,0:08:04.47,Dialogue,,0,0,0,,Why not?
-Dialogue: 100,0:08:04.47,0:08:06.62,Dialogue,,0,0,0,,Uh, well...
-Dialogue: 100,0:08:06.62,0:08:08.80,Dialogue,,0,0,0,,I mean, this trail isn't exactly safe.
-Dialogue: 100,0:08:08.80,0:08:10.34,Dialogue,,0,0,0,,Oh, good point.
-Dialogue: 100,0:08:10.72,0:08:14.05,Dialogue,,0,0,0,,{\i1}I keep telling myself not to look, \Nbut I can't help it!
-Dialogue: 100,0:08:15.77,0:08:18.90,Dialogue,,0,0,0,,You're not good with scary stuff, are you?
-Dialogue: 100,0:08:18.90,0:08:20.78,Dialogue,,0,0,0,,Not really.
-Dialogue: 100,0:08:20.78,0:08:22.27,Dialogue,,0,0,0,,You're not feeling chilly are you?
-Dialogue: 100,0:08:22.27,0:08:23.64,Dialogue,,0,0,0,,You know, around your lower half.
-Dialogue: 100,0:08:24.00,0:08:24.98,Dialogue,,0,0,0,,Why do you ask?
-Dialogue: 100,0:08:24.98,0:08:27.07,Dialogue,,0,0,0,,Oh, uh, you know...
-Dialogue: 100,0:08:27.07,0:08:28.68,Dialogue,,0,0,0,,Your legs aren't exactly covered.
-Dialogue: 100,0:08:28.68,0:08:31.99,Dialogue,,0,0,0,,Just wondering if you're being conscious of your lower half?
-Dialogue: 100,0:08:31.99,0:08:32.99,Dialogue,,0,0,0,,{\i1}Excuse me?
-Dialogue: 100,0:08:32.99,0:08:34.75,Dialogue,,0,0,0,,{\i1}What's wrong with him?
-Dialogue: 100,0:08:34.75,0:08:36.74,Dialogue,,0,0,0,,{\i1}Lower half this and lower half that.
-Dialogue: 100,0:08:37.12,0:08:39.80,Dialogue,,0,0,0,,{\i1}Why is he so fixated on that?
-Dialogue: 100,0:08:42.83,0:08:44.08,Dialogue,,0,0,0,,{\i1}That perv!
-Dialogue: 100,0:08:44.08,0:08:46.93,Dialogue,,0,0,0,,{\i1}He can't get the feeling of my thighs out of his head,
-Dialogue: 100,0:08:46.93,0:08:49.92,Dialogue,,0,0,0,,{\i1}so he's trying to weasel his way back to them?!
-Dialogue: 100,0:08:49.92,0:08:51.59,Dialogue,,0,0,0,,{\i1}What the hell is wrong with him?!
-Dialogue: 100,0:08:51.80,0:08:53.48,Dialogue,,0,0,0,,I'm protecting my lower half, thank you!
-Dialogue: 100,0:08:53.48,0:08:55.47,Dialogue,,0,0,0,,Horie! You really shouldn't do that...
-Dialogue: 100,0:08:55.47,0:08:56.39,Dialogue,,0,0,0,,Wh-What?
-Dialogue: 100,0:08:56.39,0:08:59.60,Dialogue,,0,0,0,,It makes me think about your lower half.
-Dialogue: 100,0:08:59.60,0:09:00.89,Dialogue,,0,0,0,,{\i1}What a creep!
-Dialogue: 100,0:09:01.49,0:09:03.71,Dialogue,,0,0,0,,So you're finally showing your true colors!
-Dialogue: 100,0:09:03.71,0:09:05.77,Dialogue,,0,0,0,,You've been after my body the whole time, haven't you?
-Dialogue: 100,0:09:05.77,0:09:07.86,Dialogue,,0,0,0,,I can't stand guys like you!
-Dialogue: 100,0:09:07.86,0:09:09.95,Dialogue,,0,0,0,,I'm going back by myself,\N so don't follow me!
-Dialogue: 100,0:09:09.95,0:09:11.07,Dialogue,,0,0,0,,You can't!
-Dialogue: 100,0:09:11.31,0:09:12.44,Dialogue,,0,0,0,,Why not?
-Dialogue: 100,0:09:12.44,0:09:15.70,Dialogue,,0,0,0,,Because other people will be there...
-Dialogue: 100,0:09:15.70,0:09:19.45,Dialogue,,0,0,0,,Exactly! I wanna go somewhere brightly lit, with lots of people.
-Dialogue: 100,0:09:19.45,0:09:20.12,Dialogue,,0,0,0,,Bye.
-Dialogue: 100,0:09:20.12,0:09:21.24,Dialogue,,0,0,0,,Wait!
-Dialogue: 100,0:09:23.79,0:09:26.12,Dialogue,,0,0,0,,I can't let you go! I need you to stay here!
-Dialogue: 100,0:09:27.55,0:09:28.71,Dialogue,,0,0,0,,{\i1}He's stripping!
-Dialogue: 100,0:09:29.09,0:09:32.34,Dialogue,,0,0,0,,{\i1}Is he gonna use his shirt to tie me up?
-Dialogue: 100,0:09:32.34,0:09:34.42,Dialogue,,0,0,0,,{\i1}He doesn't just want to touch my thighs?
-Dialogue: 100,0:09:34.96,0:09:36.09,Dialogue,,0,0,0,,{\i1}I'm done for!
-Dialogue: 100,0:09:36.09,0:09:39.18,Dialogue,,0,0,0,,{\i1}He's going to tie me up and see everything!
-Dialogue: 100,0:09:41.41,0:09:43.39,Dialogue,,0,0,0,,{\i1}I'm not ready for that!
-Dialogue: 100,0:09:43.39,0:09:44.39,Dialogue,,0,0,0,,No!
-Dialogue: 100,0:09:50.15,0:09:52.39,Dialogue,,0,0,0,,A-Are you okay?
-Dialogue: 100,0:09:52.39,0:09:55.44,Dialogue,,0,0,0,,Look, I'm sorry I've been acting real desperate.
-Dialogue: 100,0:09:58.04,0:10:02.08,Dialogue,,0,0,0,,I should've known better \Nthan to go alone with you.
-Dialogue: 100,0:10:02.90,0:10:05.35,Dialogue,,0,0,0,,I know what you want...
-Dialogue: 100,0:10:05.35,0:10:07.80,Dialogue,,0,0,0,,Just promise you'll be gentle.
-Dialogue: 100,0:10:11.05,0:10:12.81,Dialogue,,0,0,0,,Îmi pare rău, Horie.
-Dialogue: 100,0:10:13.72,0:10:16.60,Dialogue,,0,0,0,,Am încercat să fiu cât \Nmai blând cu putință.
-Dialogue: 100,0:10:17.73,0:10:21.19,Dialogue,,0,0,0,,Însemni mult pentru mine, Horie.
-Dialogue: 100,0:10:21.80,0:10:23.11,Dialogue,,0,0,0,,Te rog să mă crezi.
-Dialogue: 100,0:10:30.53,0:10:31.91,Dialogue,,0,0,0,,{\i1}Așa este.
-Dialogue: 100,0:10:31.91,0:10:34.83,Dialogue,,0,0,0,,{\i1}Mereu ai fost blând cu mine...
-Dialogue: 100,0:10:34.83,0:10:38.07,Dialogue,,0,0,0,,{\i1}Nu trebuie să-mi spui asta.
-Dialogue: 100,0:10:48.46,0:10:50.88,Dialogue,,0,0,0,,Ce... tot... faci?
-Dialogue: 100,0:10:51.13,0:10:53.79,Dialogue,,0,0,0,,Păi...
-Dialogue: 100,0:10:54.22,0:10:55.80,Dialogue,,0,0,0,,Ți se văd chiloții.
-Dialogue: 100,0:11:00.19,0:11:02.14,Dialogue,,0,0,0,,Horie?!
-Dialogue: 100,0:12:09.62,0:12:12.21,Dialogue,,0,0,0,,{\an8}Data viitoare: "Miyabi nu vrea să piardă".
-Dialogue: 100,0:12:12.21,0:12:13.42,Dialogue,,0,0,0,,{\an8}Vrei s-o facem în trei?!
+Dialogue: 99,0:00:00.93,0:00:02.19,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:00:02.19,0:00:05.27,Dialogue,,0,0,0,,Vrei să lipsești de la excursia cu clasa ca să mergi la meditații?
+Dialogue: 99,0:00:05.27,0:00:06.56,Dialogue,,0,0,0,,Îți interzic!
+Dialogue: 99,0:00:06.89,0:00:09.45,Dialogue,,0,0,0,,Dar tot ce face toată lumea \Neste să se prostească!
+Dialogue: 99,0:00:09.45,0:00:12.57,Dialogue,,0,0,0,,De asta se numesc cele \Nmai bune zile din viață!
+Dialogue: 99,0:00:12.57,0:00:14.49,Dialogue,,0,0,0,,Nu ți le irosi făcând meditații.
+Dialogue: 99,0:00:14.49,0:00:18.12,Dialogue,,0,0,0,,Știi că toată lumea \N"se distrează" împreună noaptea?
+Dialogue: 99,0:00:18.12,0:00:19.58,Dialogue,,0,0,0,,Așa sunt adolescenții.
+Dialogue: 99,0:00:19.99,0:00:22.54,Dialogue,,0,0,0,,Înainte să-ți dai seama, \Ntotul se transformă într-o mare orgie!
+Dialogue: 99,0:00:22.93,0:00:25.42,Dialogue,,0,0,0,,Sunt cele mai bune zile din viața ta, \Ndeci mergi și trăiește-ți-le!
+Dialogue: 99,0:00:25.42,0:00:27.59,Dialogue,,0,0,0,,Și te mai numești părinte?
+Dialogue: 99,0:01:34.94,0:01:39.20,Dialogue,,0,0,0,,{\i1}Nu pot fugi acasă ca de obicei, deoarece suntem în munți, deci va trebui să fiu super atentă.
+Dialogue: 99,0:01:39.20,0:01:40.83,Dialogue,,0,0,0,,Aia era Horie?
+Dialogue: 99,0:01:40.83,0:01:44.24,Dialogue,,0,0,0,,Se comportă mai \Nantisocial ca de obicei.
+Dialogue: 99,0:01:44.24,0:01:46.41,Dialogue,,0,0,0,,Aș vrea s-o cunosc mai bine.
+Dialogue: 99,0:01:46.41,0:01:49.25,Dialogue,,0,0,0,,{\i1}Depravare, dezmăț, destrăbălare...
+Dialogue: 99,0:01:46.41,0:01:49.70,Dialogue Top,,0,0,0,,E ca și cum nimeni nu știe ce gândește.
+Dialogue: 99,0:01:49.25,0:01:51.25,Dialogue,,0,0,0,,{\i1}Depravare, dezmăț, destrăbălare...
+Dialogue: 99,0:01:51.25,0:01:52.25,Dialogue,,0,0,0,,Ai grijă!
+Dialogue: 99,0:01:53.55,0:01:55.54,Dialogue,,0,0,0,,K-Kijima...
+Dialogue: 99,0:01:56.92,0:01:58.05,Dialogue,,0,0,0,,Îmi pare rău!
+Dialogue: 99,0:01:59.85,0:02:02.46,Dialogue,,0,0,0,,La naiba, ai făcut-o să fugă din nou.
+Dialogue: 99,0:02:02.46,0:02:03.47,Dialogue,,0,0,0,,Mai taci.
+Dialogue: 99,0:02:03.47,0:02:06.14,Dialogue,,0,0,0,,Horie pare destul de dificilă.
+Dialogue: 99,0:02:06.14,0:02:07.81,Dialogue,,0,0,0,,De ce nu te dai la o fată mai ușoară?
+Dialogue: 99,0:02:08.14,0:02:09.27,Dialogue,,0,0,0,,Prostule.
+Dialogue: 99,0:02:10.69,0:02:13.69,Dialogue,,0,0,0,,Exact asta o faci și drăguță.
+Dialogue: 99,0:02:15.49,0:02:17.65,Dialogue,,0,0,0,,O, ce a fost {\i1}asta{\i0}?
+Dialogue: 99,0:02:17.65,0:02:18.45,Dialogue,,0,0,0,,{\i1}Trebuie{\i0} să aflu!
+Dialogue: 99,0:02:19.24,0:02:21.49,Dialogue,,0,0,0,,Hei, Horie! Așteaptă!
+Dialogue: 99,0:02:21.49,0:02:22.16,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:02:22.45,0:02:23.87,Dialogue,,0,0,0,,Putem vorbi puțin?
+Dialogue: 99,0:02:23.87,0:02:26.42,Dialogue,,0,0,0,,Și nu doar să vorbim! \NCi să facem și alte lucruri distractive!
+Dialogue: 99,0:02:26.42,0:02:28.71,Dialogue,,0,0,0,,Da! Putem înlătura toate inhibițiile!
+Dialogue: 99,0:02:28.71,0:02:30.79,Dialogue,,0,0,0,,Haide să ne distrăm astă-seară!
+Dialogue: 99,0:02:31.38,0:02:34.38,Dialogue,,0,0,0,,{\i1}Ș-Știam eu!
+Dialogue: 99,0:02:34.71,0:02:38.59,Dialogue,,0,0,0,,O-O, p-păi, vedeți v-voi...
+Dialogue: 99,0:02:38.59,0:02:40.64,Dialogue,,0,0,0,,Știu! De ce nu-l invităm și pe Kijima?
+Dialogue: 99,0:02:40.64,0:02:41.82,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:02:43.01,0:02:45.38,Dialogue,,0,0,0,,Ne vedem mai târziu!
+Dialogue: 99,0:02:46.35,0:02:48.89,Dialogue,,0,0,0,,Ce? Ce a fost asta?
+Dialogue: 99,0:02:49.39,0:02:54.27,Dialogue,,0,0,0,,{\i1}Nu-mi spune că vor să ne privească \Npe mine și pe Kijima cum "ne distrăm"!
+Dialogue: 99,0:02:54.27,0:02:57.11,Dialogue,,0,0,0,,{\i1}Ce mă fac? Port chiloți de babă astăzi!
+Dialogue: 99,0:02:57.11,0:02:59.24,Dialogue,,0,0,0,,{\i1}Acel fel de chiloți care-ți trec de buric!
+Dialogue: 99,0:02:59.99,0:03:04.87,Dialogue,,0,0,0,,Credeam că toate fetele poartă chiloți sexy.
+Dialogue: 99,0:03:05.33,0:03:08.29,Dialogue,,0,0,0,,{\i1}Asta e ceea ce ar crede Regele Relațiilor.
+Dialogue: 99,0:03:08.29,0:03:10.58,Dialogue,,0,0,0,,{\i1}Să facem prostii iese din discuție!
+Dialogue: 99,0:03:10.58,0:03:14.13,Dialogue,,0,0,0,,Trebuie să-i spun lui \NKijima să le refuze invitația!
+Dialogue: 99,0:03:15.27,0:03:16.38,Dialogue,,0,0,0,,Scuzați-mă!
+Dialogue: 99,0:03:22.70,0:03:24.06,Dialogue,,0,0,0,,Omule, mi-e somn deja.
+Dialogue: 99,0:03:24.06,0:03:25.30,Dialogue,,0,0,0,,Ce vreți să facem în seara asta?
+Dialogue: 99,0:03:25.30,0:03:27.64,Dialogue,,0,0,0,,Nu puteam să ne culcăm \Nla ora zece ca de obicei?
+Dialogue: 99,0:03:27.64,0:03:28.98,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:03:28.98,0:03:31.85,Dialogue,,0,0,0,,{\i1}Auzindu-i vocea mi s-a activat instinctul de a mă ascunde.
+Dialogue: 99,0:03:33.56,0:03:36.07,Dialogue,,0,0,0,,Haideți, băieți. Nu lăsați ușile deschise.
+Dialogue: 99,0:03:36.07,0:03:36.57,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:03:36.94,0:03:38.25,Dialogue,,0,0,0,,Este blocată?
+Dialogue: 99,0:03:39.99,0:03:41.95,Dialogue,,0,0,0,,{\i1}Voi fi prinsă!
+Dialogue: 99,0:03:42.27,0:03:43.39,Dialogue,,0,0,0,,Kijima.
+Dialogue: 99,0:03:43.39,0:03:46.58,Dialogue,,0,0,0,,Merg să iau ceva de băut. Voi vreți ceva?
+Dialogue: 99,0:03:46.58,0:03:47.70,Dialogue,,0,0,0,,Voi veni și eu
+Dialogue: 99,0:03:47.70,0:03:49.79,Dialogue,,0,0,0,,Hmm, să mă gândesc...
+Dialogue: 99,0:03:51.92,0:03:54.17,Dialogue,,0,0,0,,{\i1}Au plecat?
+Dialogue: 99,0:03:54.17,0:03:56.51,Dialogue,,0,0,0,,{\i1}Acum, cum mai exact o să ies de aici?
+Dialogue: 99,0:04:01.61,0:04:02.38,Dialogue,,0,0,0,,Ce naiba...
+Dialogue: 99,0:04:02.97,0:04:06.89,Dialogue,,0,0,0,,{\i1}M-Mâna lui Kijima este pe piciorul meu!
+Dialogue: 99,0:04:07.28,0:04:08.56,Dialogue,,0,0,0,,Ce naiba este asta?
+Dialogue: 99,0:04:08.56,0:04:11.47,Dialogue,,0,0,0,,Este moale și... cald?
+Dialogue: 99,0:04:11.47,0:04:13.73,Dialogue,,0,0,0,,{\i1}Oprește-te!
+Dialogue: 99,0:04:14.56,0:04:15.35,Dialogue,,0,0,0,,Este cumva o pisică?
+Dialogue: 99,0:04:16.11,0:04:17.82,Dialogue,,0,0,0,,Hei, ieși afară.
+Dialogue: 99,0:04:20.99,0:04:23.78,Dialogue,,0,0,0,,M-Miau?
+Dialogue: 99,0:04:24.03,0:04:26.87,Dialogue,,0,0,0,,H-Horie?! Ești aici \Ndeoarece voiai să mă vezi?
+Dialogue: 99,0:04:26.87,0:04:28.02,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:04:28.02,0:04:31.04,Dialogue,,0,0,0,,Păi, ei bine, oarecum da...
+Dialogue: 99,0:04:37.71,0:04:40.30,Dialogue,,0,0,0,,Hei...
+Dialogue: 99,0:04:45.64,0:04:47.93,Dialogue,,0,0,0,,Pleacă înainte să se întoarcă ceilalți.
+Dialogue: 99,0:04:49.43,0:04:52.81,Dialogue,,0,0,0,,{\i1}M-a salvat fără măcar să i-o cer...
+Dialogue: 99,0:04:52.81,0:04:54.06,Dialogue,,0,0,0,,{\i1}Prostul.
+Dialogue: 99,0:04:54.06,0:04:55.40,Dialogue,,0,0,0,,Apropo...
+Dialogue: 99,0:04:56.23,0:04:58.83,Dialogue,,0,0,0,,Ce atingeam mai exact?
+Dialogue: 99,0:04:58.83,0:05:01.36,Dialogue,,0,0,0,,Era foarte moale și cald.
+Dialogue: 99,0:05:01.36,0:05:03.32,Dialogue,,0,0,0,,De ce îți miroși mâna?!
+Dialogue: 99,0:05:03.32,0:05:04.90,Dialogue,,0,0,0,,Mergi și spală-te! Chiar acum!
+Dialogue: 99,0:05:04.90,0:05:07.37,Dialogue,,0,0,0,,Bine! Nu trebuie să—
+Dialogue: 99,0:05:08.70,0:05:10.99,Dialogue,,0,0,0,,Hopa, Horie este peste Kijima!
+Dialogue: 99,0:05:10.99,0:05:13.69,Dialogue,,0,0,0,,Ba nu! Nu este ceea ce pare!
+Dialogue: 99,0:05:13.69,0:05:15.71,Dialogue,,0,0,0,,Presupun că ați vrea să vă distrați fără noi.
+Dialogue: 99,0:05:15.71,0:05:16.99,Dialogue,,0,0,0,,Ar trebui să plecăm?
+Dialogue: 99,0:05:16.99,0:05:17.92,Dialogue,,0,0,0,,Nu plecați!
+Dialogue: 99,0:05:17.92,0:05:18.84,Dialogue,,0,0,0,,Unde să mergem?
+Dialogue: 99,0:05:18.84,0:05:19.79,Dialogue,,0,0,0,,Ascultați-mă!
+Dialogue: 99,0:05:20.38,0:05:24.59,Dialogue,,0,0,0,,H-Haideți să ne distrăm \Nîmpreună! Luați-mă cu voi!
+Dialogue: 99,0:05:24.59,0:05:26.47,Dialogue,,0,0,0,,Păi, dacă insiști.
+Dialogue: 99,0:05:27.97,0:05:31.43,Dialogue,,0,0,0,,Vom merge până la altar \Nși ne vom întoarce?
+Dialogue: 99,0:05:31.81,0:05:33.89,Dialogue,,0,0,0,,Nici vorbă! Nu, nicio șansă, \Nnu se va întâmpla!
+Dialogue: 99,0:05:33.89,0:05:35.56,Dialogue,,0,0,0,,Nu puteți vorbi serios.
+Dialogue: 99,0:05:35.56,0:05:38.02,Dialogue,,0,0,0,,Și de ce trebuie s-o facem \Nîn pereche băiat-fată?
+Dialogue: 99,0:05:38.02,0:05:40.73,Dialogue,,0,0,0,,Vrei să fii singură cu Kijima, nu?
+Dialogue: 99,0:05:40.73,0:05:41.86,Dialogue,,0,0,0,,Ca să vă cunoașteți!
+Dialogue: 99,0:05:42.32,0:05:45.40,Dialogue,,0,0,0,,Man, I bet this'll go on our permanent record if we get caught.
+Dialogue: 99,0:05:45.40,0:05:46.99,Dialogue,,0,0,0,,Pari în regulă cu asta...
+Dialogue: 99,0:05:47.54,0:05:50.41,Dialogue,,0,0,0,,{\i1}Știam că nu trebuia să \Nvin în excursia asta stupidă!
+Dialogue: 99,0:05:50.41,0:05:52.12,Dialogue,,0,0,0,,Ce? Horie?
+Dialogue: 99,0:05:53.32,0:05:54.89,Dialogue,,0,0,0,,Te-ai schimbat?
+Dialogue: 99,0:05:54.89,0:05:56.00,Dialogue,,0,0,0,,Ești foarte drăguță.
+Dialogue: 99,0:05:56.00,0:05:57.12,Dialogue,,0,0,0,,Cred că ți se potrivește.
+Dialogue: 99,0:05:57.12,0:05:59.58,Dialogue,,0,0,0,,I know, right? We lent her some of our clothes.
+Dialogue: 99,0:05:59.58,0:06:01.84,Dialogue,,0,0,0,,She said she didn't pack anything casual.
+Dialogue: 99,0:06:01.84,0:06:04.09,Dialogue,,0,0,0,,Aren't you gonna thank us, Kijima?
+Dialogue: 99,0:06:04.42,0:06:06.55,Dialogue,,0,0,0,,Yeah! Thanks, everyone!
+Dialogue: 99,0:06:06.55,0:06:08.89,Dialogue,,0,0,0,,Okay, go for it, Horie!
+Dialogue: 99,0:06:08.89,0:06:10.72,Dialogue,,0,0,0,,Kijima will be your bodyguard!
+Dialogue: 99,0:06:11.00,0:06:13.60,Dialogue,,0,0,0,,I-I'm fine going on my own.
+Dialogue: 99,0:06:13.60,0:06:17.81,Dialogue,,0,0,0,,{\c&H000000&\3c&HEDFFFE&\blur3}All alone? On this old mountain trail?
+Dialogue: 99,0:06:24.68,0:06:26.49,Dialogue,,0,0,0,,It was closer than it looked.
+Dialogue: 99,0:06:26.49,0:06:29.83,Dialogue,,0,0,0,,{\i1}I never got scared because I was too busy thinking about Kijima.
+Dialogue: 99,0:06:30.41,0:06:32.23,Dialogue,,0,0,0,,Oh, Kijima?
+Dialogue: 99,0:06:35.70,0:06:38.58,Dialogue,,0,0,0,,I guess there was nothing to be worried about after all.
+Dialogue: 99,0:06:48.99,0:06:50.88,Dialogue,,0,0,0,,K-K-Kijima!
+Dialogue: 99,0:06:50.88,0:06:52.14,Dialogue,,0,0,0,,A h-h-hand!
+Dialogue: 99,0:06:52.14,0:06:53.43,Dialogue,,0,0,0,,Huh? What is it?
+Dialogue: 99,0:06:53.43,0:06:56.85,Dialogue,,0,0,0,,A gh-gh-gho—
+Dialogue: 99,0:06:56.85,0:07:00.48,Dialogue,,0,0,0,,Calm down, Horie! I'll go check it out!
+Dialogue: 99,0:07:03.45,0:07:04.52,Dialogue,,0,0,0,,Sorry...
+Dialogue: 99,0:07:04.52,0:07:06.71,Dialogue,,0,0,0,,No worries. That's what I'm here for.
+Dialogue: 99,0:07:07.55,0:07:09.45,Dialogue,,0,0,0,,Don't get the wrong idea!
+Dialogue: 99,0:07:09.45,0:07:10.53,Dialogue,,0,0,0,,I won't.
+Dialogue: 99,0:07:12.16,0:07:14.99,Dialogue,,0,0,0,,You know, you're really jumpy all the—
+Dialogue: 99,0:07:23.38,0:07:25.34,Dialogue,,0,0,0,,H-Horie...
+Dialogue: 99,0:07:25.65,0:07:26.96,Dialogue,,0,0,0,,{\i1}Give it to her straight?
+Dialogue: 99,0:07:26.96,0:07:28.93,Dialogue,,0,0,0,,{\i1}No, that'd embarrass her.
+Dialogue: 99,0:07:28.93,0:07:30.34,Dialogue,,0,0,0,,{\i1}Beat around the bush?
+Dialogue: 99,0:07:30.34,0:07:31.43,Dialogue,,0,0,0,,{\i1}That's the way to go.
+Dialogue: 99,0:07:31.80,0:07:32.64,Dialogue,,0,0,0,,Horie.
+Dialogue: 99,0:07:32.64,0:07:33.64,Dialogue,,0,0,0,,What?
+Dialogue: 99,0:07:34.98,0:07:38.22,Dialogue,,0,0,0,,Are you sure you didn't forget something important in the bathroom?
+Dialogue: 99,0:07:42.06,0:07:43.90,Dialogue,,0,0,0,,Oh, right. My flashlight.
+Dialogue: 99,0:07:44.69,0:07:47.36,Dialogue,,0,0,0,,{\i1}That's important too, but...
+Dialogue: 99,0:07:49.99,0:07:52.91,Dialogue,,0,0,0,,{\i1}If she goes back like this, \Neveryone will see it too.
+Dialogue: 99,0:07:52.91,0:07:55.80,Dialogue,,0,0,0,,{\i1}Should I pull it down myself? \NNo, that's too creepy.
+Dialogue: 99,0:07:55.80,0:07:57.28,Dialogue,,0,0,0,,{\i1}Maybe I should be upfront.
+Dialogue: 99,0:07:57.28,0:07:58.87,Dialogue,,0,0,0,,{\i1}I don't want to make her cry though.
+Dialogue: 99,0:08:00.00,0:08:03.06,Dialogue,,0,0,0,,Hold up. Don't get too far ahead.
+Dialogue: 99,0:08:03.75,0:08:04.47,Dialogue,,0,0,0,,Why not?
+Dialogue: 99,0:08:04.47,0:08:06.62,Dialogue,,0,0,0,,Uh, well...
+Dialogue: 99,0:08:06.62,0:08:08.80,Dialogue,,0,0,0,,I mean, this trail isn't exactly safe.
+Dialogue: 99,0:08:08.80,0:08:10.34,Dialogue,,0,0,0,,Oh, good point.
+Dialogue: 99,0:08:10.72,0:08:14.05,Dialogue,,0,0,0,,{\i1}I keep telling myself not to look, \Nbut I can't help it!
+Dialogue: 99,0:08:15.77,0:08:18.90,Dialogue,,0,0,0,,You're not good with scary stuff, are you?
+Dialogue: 99,0:08:18.90,0:08:20.78,Dialogue,,0,0,0,,Not really.
+Dialogue: 99,0:08:20.78,0:08:22.27,Dialogue,,0,0,0,,You're not feeling chilly are you?
+Dialogue: 99,0:08:22.27,0:08:23.64,Dialogue,,0,0,0,,You know, around your lower half.
+Dialogue: 99,0:08:24.00,0:08:24.98,Dialogue,,0,0,0,,Why do you ask?
+Dialogue: 99,0:08:24.98,0:08:27.07,Dialogue,,0,0,0,,Oh, uh, you know...
+Dialogue: 99,0:08:27.07,0:08:28.68,Dialogue,,0,0,0,,Your legs aren't exactly covered.
+Dialogue: 99,0:08:28.68,0:08:31.99,Dialogue,,0,0,0,,Just wondering if you're being conscious of your lower half?
+Dialogue: 99,0:08:31.99,0:08:32.99,Dialogue,,0,0,0,,{\i1}Excuse me?
+Dialogue: 99,0:08:32.99,0:08:34.75,Dialogue,,0,0,0,,{\i1}What's wrong with him?
+Dialogue: 99,0:08:34.75,0:08:36.74,Dialogue,,0,0,0,,{\i1}Lower half this and lower half that.
+Dialogue: 99,0:08:37.12,0:08:39.80,Dialogue,,0,0,0,,{\i1}Why is he so fixated on that?
+Dialogue: 99,0:08:42.83,0:08:44.08,Dialogue,,0,0,0,,{\i1}That perv!
+Dialogue: 99,0:08:44.08,0:08:46.93,Dialogue,,0,0,0,,{\i1}He can't get the feeling of my thighs out of his head,
+Dialogue: 99,0:08:46.93,0:08:49.92,Dialogue,,0,0,0,,{\i1}so he's trying to weasel his way back to them?!
+Dialogue: 99,0:08:49.92,0:08:51.59,Dialogue,,0,0,0,,{\i1}What the hell is wrong with him?!
+Dialogue: 99,0:08:51.80,0:08:53.48,Dialogue,,0,0,0,,I'm protecting my lower half, thank you!
+Dialogue: 99,0:08:53.48,0:08:55.47,Dialogue,,0,0,0,,Horie! You really shouldn't do that...
+Dialogue: 99,0:08:55.47,0:08:56.39,Dialogue,,0,0,0,,Wh-What?
+Dialogue: 99,0:08:56.39,0:08:59.60,Dialogue,,0,0,0,,It makes me think about your lower half.
+Dialogue: 99,0:08:59.60,0:09:00.89,Dialogue,,0,0,0,,{\i1}What a creep!
+Dialogue: 99,0:09:01.49,0:09:03.71,Dialogue,,0,0,0,,So you're finally showing your true colors!
+Dialogue: 99,0:09:03.71,0:09:05.77,Dialogue,,0,0,0,,You've been after my body the whole time, haven't you?
+Dialogue: 99,0:09:05.77,0:09:07.86,Dialogue,,0,0,0,,I can't stand guys like you!
+Dialogue: 99,0:09:07.86,0:09:09.95,Dialogue,,0,0,0,,I'm going back by myself,\N so don't follow me!
+Dialogue: 99,0:09:09.95,0:09:11.07,Dialogue,,0,0,0,,You can't!
+Dialogue: 99,0:09:11.31,0:09:12.44,Dialogue,,0,0,0,,Why not?
+Dialogue: 99,0:09:12.44,0:09:15.70,Dialogue,,0,0,0,,Because other people will be there...
+Dialogue: 99,0:09:15.70,0:09:19.45,Dialogue,,0,0,0,,Exactly! I wanna go somewhere brightly lit, with lots of people.
+Dialogue: 99,0:09:19.45,0:09:20.12,Dialogue,,0,0,0,,Bye.
+Dialogue: 99,0:09:20.12,0:09:21.24,Dialogue,,0,0,0,,Wait!
+Dialogue: 99,0:09:23.79,0:09:26.12,Dialogue,,0,0,0,,I can't let you go! I need you to stay here!
+Dialogue: 99,0:09:27.55,0:09:28.71,Dialogue,,0,0,0,,{\i1}He's stripping!
+Dialogue: 99,0:09:29.09,0:09:32.34,Dialogue,,0,0,0,,{\i1}Is he gonna use his shirt to tie me up?
+Dialogue: 99,0:09:32.34,0:09:34.42,Dialogue,,0,0,0,,{\i1}He doesn't just want to touch my thighs?
+Dialogue: 99,0:09:34.96,0:09:36.09,Dialogue,,0,0,0,,{\i1}I'm done for!
+Dialogue: 99,0:09:36.09,0:09:39.18,Dialogue,,0,0,0,,{\i1}He's going to tie me up and see everything!
+Dialogue: 99,0:09:41.41,0:09:43.39,Dialogue,,0,0,0,,{\i1}I'm not ready for that!
+Dialogue: 99,0:09:43.39,0:09:44.39,Dialogue,,0,0,0,,No!
+Dialogue: 99,0:09:50.15,0:09:52.39,Dialogue,,0,0,0,,A-Are you okay?
+Dialogue: 99,0:09:52.39,0:09:55.44,Dialogue,,0,0,0,,Look, I'm sorry I've been acting real desperate.
+Dialogue: 99,0:09:58.04,0:10:02.08,Dialogue,,0,0,0,,I should've known better \Nthan to go alone with you.
+Dialogue: 99,0:10:02.90,0:10:05.35,Dialogue,,0,0,0,,I know what you want...
+Dialogue: 99,0:10:05.35,0:10:07.80,Dialogue,,0,0,0,,Just promise you'll be gentle.
+Dialogue: 99,0:10:11.05,0:10:12.81,Dialogue,,0,0,0,,Îmi pare rău, Horie.
+Dialogue: 99,0:10:13.72,0:10:16.60,Dialogue,,0,0,0,,Am încercat să fiu cât \Nmai blând cu putință.
+Dialogue: 99,0:10:17.73,0:10:21.19,Dialogue,,0,0,0,,Însemni mult pentru mine, Horie.
+Dialogue: 99,0:10:21.80,0:10:23.11,Dialogue,,0,0,0,,Te rog să mă crezi.
+Dialogue: 99,0:10:30.53,0:10:31.91,Dialogue,,0,0,0,,{\i1}Așa este.
+Dialogue: 99,0:10:31.91,0:10:34.83,Dialogue,,0,0,0,,{\i1}Mereu ai fost blând cu mine...
+Dialogue: 99,0:10:34.83,0:10:38.07,Dialogue,,0,0,0,,{\i1}Nu trebuie să-mi spui asta.
+Dialogue: 99,0:10:48.46,0:10:50.88,Dialogue,,0,0,0,,Ce... tot... faci?
+Dialogue: 99,0:10:51.13,0:10:53.79,Dialogue,,0,0,0,,Păi...
+Dialogue: 99,0:10:54.22,0:10:55.80,Dialogue,,0,0,0,,Ți se văd chiloții.
+Dialogue: 99,0:11:00.19,0:11:02.14,Dialogue,,0,0,0,,Horie?!
+Dialogue: 99,0:12:09.62,0:12:12.21,Dialogue,,0,0,0,,{\an8}Data viitoare: "Miyabi nu vrea să piardă".
+Dialogue: 99,0:12:12.21,0:12:13.42,Dialogue,,0,0,0,,{\an8}Vrei s-o facem în trei?!
 Comment: 0,0:00:00.00,0:00:02.19,signs,,0,0,0,,{\an5}HORIE
 Comment: 0,0:00:19.58,0:00:22.54,signs,,0,0,0,,{\fnVAG Rounded}Self-censored
 Comment: 0,0:00:22.54,0:00:25.42,signs,,0,0,0,,{\an5}LEW                                    TH

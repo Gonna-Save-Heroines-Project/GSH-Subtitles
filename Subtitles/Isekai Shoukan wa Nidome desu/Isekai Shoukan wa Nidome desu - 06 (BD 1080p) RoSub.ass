@@ -36,306 +36,306 @@ Style: OP TL,FOT-Comic Reggae Std,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:17.33,0:00:18.97,Dialogue,Setsu,0,0,0,,Hey, Levia...
-Dialogue: 100,0:00:18.97,0:00:22.04,Dialogue,Setsu,0,0,0,,Aren't you a bit too relaxed?!
-Dialogue: 100,0:00:22.48,0:00:24.95,Dialogue,Levia,0,0,0,,Huh? You think so?
-Dialogue: 100,0:00:29.02,0:00:31.42,Dialogue,Setsu,0,0,0,,All right, ready to go?
-Dialogue: 100,0:00:31.42,0:00:33.30,Dialogue,Levia,0,0,0,,Oh, very well.
-Dialogue: 100,0:00:33.30,0:00:36.82,Dialogue,Levia,0,0,0,,I'll tag along with you, no matter how far!
-Dialogue: 100,0:00:36.82,0:00:39.81,Dialogue,Setsu,0,0,0,,You said that with such a \Ncool look just yesterday!
-Dialogue: 100,0:00:39.81,0:00:41.86,Dialogue,Levia,0,0,0,,What's the problem?
-Dialogue: 100,0:00:41.86,0:00:45.21,Dialogue,Levia,0,0,0,,It's not like there's anything to do until \Nwe get to the Beastmen continent.
-Dialogue: 100,0:00:45.21,0:00:47.06,Dialogue,Setsu,0,0,0,,Yeah, true, but still...
-Dialogue: 100,0:00:47.63,0:00:51.19,Dialogue,Levia,0,0,0,,Besides, I'm on boat duty \Nafter we get to the port.
-Dialogue: 100,0:00:51.51,0:00:56.00,Dialogue,Levia,0,0,0,,Seems like a small price to pay to \Nemploy a god of the seas for free.
-Dialogue: 100,0:00:56.00,0:00:58.07,Dialogue,Setsu,0,0,0,,Well, I mean...
-Dialogue: 100,0:00:58.55,0:01:01.58,Dialogue,Setsu,0,0,0,,The war stopped all ships,\Nso there's no other way.
-Dialogue: 100,0:01:02.28,0:01:07.96,Dialogue,Setsu,0,0,0,,Can't you do some magic that lets us \Njump all the way there in one go?
-Dialogue: 100,0:01:08.29,0:01:09.67,Dialogue,Levia,0,0,0,,Transfer magic?
-Dialogue: 100,0:01:10.29,0:01:12.41,Dialogue,Setsu,0,0,0,,Yeah, do that. You're a sea god, right?
-Dialogue: 100,0:01:12.41,0:01:15.76,Dialogue,Levia,0,0,0,,What do you think a god of the seas is?
-Dialogue: 100,0:01:15.76,0:01:19.05,Dialogue,Levia,0,0,0,,Transfer magic is a huge hassle.
-Dialogue: 100,0:01:19.79,0:01:21.33,Dialogue,Levia,0,0,0,,Years of preparation!
-Dialogue: 100,0:01:21.33,0:01:22.76,Dialogue,Levia,0,0,0,,Extreme magic power!
-Dialogue: 100,0:01:22.76,0:01:25.09,Dialogue,Levia,0,0,0,,It's not something you can just throw around.
-Dialogue: 100,0:01:27.60,0:01:32.04,Dialogue,Setsu,0,0,0,,I guess nobody would use horse-drawn\N carriages or ships if it were that easy.
-Dialogue: 100,0:01:32.04,0:01:36.45,Dialogue,Levia,0,0,0,,Travel takes effort. So...
-Dialogue: 100,0:01:37.86,0:01:42.24,Dialogue,Levia,0,0,0,,It only makes sense to receive proper \Ncompensation for that, don't you think?
-Dialogue: 100,0:01:55.36,0:01:56.55,Dialogue,Levia,0,0,0,,We stopped.
-Dialogue: 100,0:01:58.64,0:02:00.14,Dialogue,Alizee,0,0,0,,Thank you!
-Dialogue: 100,0:02:04.39,0:02:05.76,Dialogue,Alizee,0,0,0,,Sorry!
-Dialogue: 100,0:02:05.76,0:02:08.22,Dialogue,Alizee,0,0,0,,We'd like to share this ride with \Nyou until we get to town...
-Dialogue: 100,0:02:17.12,0:02:18.36,Dialogue,Amelle,0,0,0,,Big Sis?
-Dialogue: 100,0:02:18.69,0:02:20.69,Dialogue,Levia,0,0,0,,What, you know her?
-Dialogue: 100,0:02:20.69,0:02:23.37,Dialogue,Setsu,0,0,0,,Long time no see, Crybaby Alizee!
-Dialogue: 100,0:02:23.83,0:02:26.36,Dialogue,Alizee,0,0,0,,Master Setsu...
-Dialogue: 100,0:02:26.36,0:02:29.66,Dialogue,Alizee,0,0,0,,That was a long time ago!
-Dialogue: 100,0:02:29.66,0:02:34.11,Dialogue,Alizee,0,0,0,,I'm not a crybaby anymore!
-Dialogue: 100,0:02:34.11,0:02:36.35,Dialogue,Alizee,0,0,0,,I'm not going to cry!
-Dialogue: 100,0:04:20.33,0:04:22.36,Dialogue,Setsu,0,0,0,,This is Alizee Ifreel.
-Dialogue: 100,0:04:22.64,0:04:27.03,Dialogue,Setsu,0,0,0,,We traveled together for a while \Nthe last time I was summoned.
-Dialogue: 100,0:04:27.03,0:04:29.42,Dialogue,Alizee,0,0,0,,I am Master Setsu's top pupil!
-Dialogue: 100,0:04:29.42,0:04:31.29,Dialogue,Setsu,0,0,0,,I don't remember ever \Ntaking you on as a pupil.
-Dialogue: 100,0:04:31.29,0:04:33.16,Dialogue,Alizee,0,0,0,,What are you talking about?!
-Dialogue: 100,0:04:33.16,0:04:39.00,Dialogue,Alizee,0,0,0,,You taught me the fundamentals of combat \Nevery night, physically and painstakingly!
-Dialogue: 100,0:04:39.35,0:04:41.08,Dialogue,Levia,0,0,0,,Every night, physically, huh?
-Dialogue: 100,0:04:41.08,0:04:45.57,Dialogue,Amelle,0,0,0,,Okay, I get that he's my sister's teacher.
-Dialogue: 100,0:04:45.57,0:04:46.89,Dialogue,Levia,0,0,0,,And who are you?
-Dialogue: 100,0:04:46.89,0:04:49.85,Dialogue,Alizee,0,0,0,,Oh, this is Amelle.
-Dialogue: 100,0:04:49.85,0:04:51.85,Dialogue,Amelle,0,0,0,,I'm Alizee's little sister!
-Dialogue: 100,0:04:52.29,0:04:54.23,Dialogue,Setsu,0,0,0,,You have a sister?
-Dialogue: 100,0:04:54.70,0:04:58.45,Dialogue,Alizee,0,0,0,,Well, more like... things kind \Nof ended up that way.
-Dialogue: 100,0:04:58.45,0:05:01.44,Dialogue,Amelle,0,0,0,,I'm her sister! We lived together!
-Dialogue: 100,0:05:01.44,0:05:03.61,Dialogue,Alizee,0,0,0,,Only for a short while, though.
-Dialogue: 100,0:05:04.28,0:05:06.61,Dialogue,Levia,0,0,0,,Like master, like pupil, huh?
-Dialogue: 100,0:05:07.13,0:05:12.23,Dialogue,Alizee,0,0,0,,Anyway, Master, where have you been for five \Nwhole years? Leaving your top pupil behind?!
-Dialogue: 100,0:05:12.23,0:05:14.37,Dialogue,Setsu,0,0,0,,Well, about that—
-Dialogue: 100,0:05:15.28,0:05:17.88,Dialogue,Setsu,0,0,0,,I-I'll explain.
-Dialogue: 100,0:05:24.38,0:05:25.63,Dialogue,Alizee,0,0,0,,I see.
-Dialogue: 100,0:05:25.93,0:05:30.64,Dialogue,Alizee,0,0,0,,And now you're trying to thwart Toma's plan.
-Dialogue: 100,0:05:31.42,0:05:36.50,Dialogue,Alizee,0,0,0,,Traveling across worlds twice, \Nchanging your appearance...
-Dialogue: 100,0:05:36.50,0:05:38.77,Dialogue,Alizee,0,0,0,,From anyone but you, I'd never believe it.
-Dialogue: 100,0:05:39.25,0:05:41.15,Dialogue,Levia,0,0,0,,Yeah, but it's Setsu.
-Dialogue: 100,0:05:41.51,0:05:43.42,Dialogue,Setsu,0,0,0,,I wasn't expecting any of it, either.
-Dialogue: 100,0:05:44.01,0:05:47.78,Dialogue,Setsu,0,0,0,,Hey, I know! Alizee, come with \Nus to the Beastmen continent.
-Dialogue: 100,0:05:48.15,0:05:51.62,Dialogue,Setsu,0,0,0,,Help me out on my trip, \Nlike you did five years ago.
-Dialogue: 100,0:05:54.58,0:05:56.00,Dialogue,Alizee,0,0,0,,Certainly!
-Dialogue: 100,0:05:56.00,0:05:58.17,Dialogue,Alizee,0,0,0,,...would once have been my response, but...
-Dialogue: 100,0:06:01.07,0:06:06.10,Dialogue,Alizee,0,0,0,,I'm actually caught up in a \Nserious situation, as well.
-Dialogue: 100,0:06:06.10,0:06:09.55,Dialogue,Amelle,0,0,0,,I'm sorry. It's all because of me.
-Dialogue: 100,0:06:14.47,0:06:16.53,Dialogue,Alizee,0,0,0,,Ever since you vanished,
-Dialogue: 100,0:06:16.53,0:06:21.06,Dialogue,Alizee,0,0,0,,I started taking on jobs fighting monsters\N as a continuation of my training.
-Dialogue: 100,0:06:21.38,0:06:26.95,Dialogue,Alizee,0,0,0,,One day, I accepted a village's \Nrequest to slay a dragon.
-Dialogue: 100,0:06:32.38,0:06:34.43,Dialogue,Alizee,0,0,0,,That village was called Zathrow.
-Dialogue: 100,0:06:34.43,0:06:36.62,Dialogue,Alizee,0,0,0,,It was a nice, quiet village.
-Dialogue: 100,0:06:36.62,0:06:40.17,Dialogue,Chief,0,0,0,,Please use this house while you're with us.
-Dialogue: 100,0:06:46.09,0:06:49.72,Dialogue,Chief,0,0,0,,She's an important guest, \Nso please take care of her.
-Dialogue: 100,0:06:49.72,0:06:52.72,Dialogue,Amelle,0,0,0,,Hello, I'm Amelle. Nice to meet you.
-Dialogue: 100,0:06:52.96,0:06:55.72,Dialogue,Alizee,0,0,0,,Nice to meet you, too.
-Dialogue: 100,0:06:59.99,0:07:01.91,Dialogue,Amelle,0,0,0,,Do you like it?
-Dialogue: 100,0:07:01.91,0:07:07.73,Dialogue,Alizee,0,0,0,,Yes. Back at Evilbarrow, it's hard \Nto find food this fresh right now.
-Dialogue: 100,0:07:08.14,0:07:12.24,Dialogue,Amelle,0,0,0,,Right, you're at war with the humans...
-Dialogue: 100,0:07:12.71,0:07:15.30,Dialogue,Amelle,0,0,0,,Oh, I have fruits, too!
-Dialogue: 100,0:07:15.30,0:07:17.70,Dialogue,Alizee,0,0,0,,You don't have to go to so much trouble.
-Dialogue: 100,0:07:18.42,0:07:20.46,Dialogue,Alizee,0,0,0,,Do you live here all alone?
-Dialogue: 100,0:07:20.95,0:07:23.08,Dialogue,Amelle,0,0,0,,No, this...
-Dialogue: 100,0:07:24.21,0:07:25.84,Dialogue,Amelle,0,0,0,,used to be my brother's house.
-Dialogue: 100,0:07:26.20,0:07:27.38,Dialogue,Alizee,0,0,0,,Your brother?
-Dialogue: 100,0:07:27.38,0:07:30.09,Dialogue,Amelle,0,0,0,,I'm not from this village.
-Dialogue: 100,0:07:30.43,0:07:33.56,Dialogue,Amelle,0,0,0,,My brother found me about two years ago.
-Dialogue: 100,0:07:33.56,0:07:37.86,Dialogue,Amelle,0,0,0,,He said, "Starting today, we're a family."
-Dialogue: 100,0:07:39.27,0:07:42.10,Dialogue,Amelle,0,0,0,,So I lived here with him, but...
-Dialogue: 100,0:07:42.77,0:07:47.52,Dialogue,Amelle,0,0,0,,He hasn't come home since the \Nday the dragon first appeared.
-Dialogue: 100,0:07:48.64,0:07:51.25,Dialogue,Amelle,0,0,0,,So I'm alone again.
-Dialogue: 100,0:07:52.11,0:07:58.62,Dialogue,Amelle,0,0,0,,But it's fine! I've been alone all \Nof my life, so I'm used to it.
-Dialogue: 100,0:08:02.72,0:08:06.11,Dialogue,Alizee,0,0,0,,Amelle, this is a nice village.
-Dialogue: 100,0:08:06.11,0:08:09.13,Dialogue,Alizee,0,0,0,,The food is good, and the villagers are kind.
-Dialogue: 100,0:08:10.35,0:08:13.15,Dialogue,Alizee,0,0,0,,I'm growing a bit tired of traveling,
-Dialogue: 100,0:08:13.15,0:08:17.10,Dialogue,Alizee,0,0,0,,so once this issue is settled, \NI'd like to stay here for a while.
-Dialogue: 100,0:08:17.38,0:08:21.85,Dialogue,Amelle,0,0,0,,Oh, please do! This house is \Ntoo big for me to live in alone.
-Dialogue: 100,0:08:22.19,0:08:26.10,Dialogue,Alizee,0,0,0,,So, during that time, \Nyou can treat me as a sister.
-Dialogue: 100,0:08:28.64,0:08:32.11,Dialogue,Amelle,0,0,0,,Would you really be my big sister?
-Dialogue: 100,0:08:32.11,0:08:35.43,Dialogue,Alizee,0,0,0,,Sure. I mean, if it's okay with you.
-Dialogue: 100,0:08:35.43,0:08:37.32,Dialogue,Amelle,0,0,0,,Of course, Big Sis!
-Dialogue: 100,0:08:40.42,0:08:42.12,Dialogue,Setsu,0,0,0,,Can I ask you something?
-Dialogue: 100,0:08:43.15,0:08:48.57,Dialogue,Setsu,0,0,0,,Is Amelle's brother missing because \Nhe was killed by the dragon?
-Dialogue: 100,0:08:48.57,0:08:49.59,Dialogue,Levia,0,0,0,,Hey...
-Dialogue: 100,0:08:51.28,0:08:54.34,Dialogue,Alizee,0,0,0,,Actually, it seems like that's not the case.
-Dialogue: 100,0:08:56.89,0:08:59.61,Dialogue,Alizee,0,0,0,,Every time there's a dragon attack,
-Dialogue: 100,0:08:59.61,0:09:05.10,Dialogue,Alizee,0,0,0,,several villagers go missing. \NIt wasn't just her brother.
-Dialogue: 100,0:09:05.58,0:09:07.10,Dialogue,Levia,0,0,0,,Missing?
-Dialogue: 100,0:09:07.46,0:09:12.44,Dialogue,Alizee,0,0,0,,Yes. Normally, if a dragon attacks, \Nit leaves some evidence of a battle behind.
-Dialogue: 100,0:09:12.44,0:09:14.90,Dialogue,Alizee,0,0,0,,Even if the people are defeated,
-Dialogue: 100,0:09:14.90,0:09:17.00,Dialogue,Alizee,0,0,0,,they should leave something behind.
-Dialogue: 100,0:09:17.75,0:09:24.58,Dialogue,Alizee,0,0,0,,But everyone disappears without\Nthe slightest trace, no exceptions.
-Dialogue: 100,0:09:25.28,0:09:28.32,Dialogue,Setsu,0,0,0,,Doesn't sound like a normal attack.
-Dialogue: 100,0:09:28.32,0:09:30.13,Dialogue,Levia,0,0,0,,Like they're being spirited away.
-Dialogue: 100,0:09:34.37,0:09:37.83,Dialogue,Alizee,0,0,0,,I thought the first order of business \Nwould be to defeat the dragon,
-Dialogue: 100,0:09:37.83,0:09:39.89,Dialogue,Alizee,0,0,0,,so I took a drastic measure.
-Dialogue: 100,0:09:40.79,0:09:42.14,Dialogue,Amelle,0,0,0,,What are you doing?
-Dialogue: 100,0:09:43.24,0:09:45.39,Dialogue,Alizee,0,0,0,,I was disabling the ward against evil.
-Dialogue: 100,0:09:45.67,0:09:49.17,Dialogue,Amelle,0,0,0,,What?! Then the dragon can come right here!
-Dialogue: 100,0:09:49.17,0:09:51.02,Dialogue,Alizee,0,0,0,,That's the plan.
-Dialogue: 100,0:09:51.02,0:09:53.15,Dialogue,Alizee,0,0,0,,I'm going to lure it in and beat it here.
-Dialogue: 100,0:09:53.79,0:09:56.53,Dialogue,Amelle,0,0,0,,But that would put you in danger...
-Dialogue: 100,0:09:56.53,0:09:57.82,Dialogue,Alizee,0,0,0,,I'll be fine.
-Dialogue: 100,0:09:57.82,0:10:01.06,Dialogue,Alizee,0,0,0,,It's going to get dangerous here soon,\Nso head back home, okay?
-Dialogue: 100,0:10:02.28,0:10:03.40,Dialogue,Amelle,0,0,0,,Okay.
-Dialogue: 100,0:10:04.82,0:10:05.95,Dialogue,Alizee,0,0,0,,What's wrong?
-Dialogue: 100,0:10:06.34,0:10:09.96,Dialogue,Amelle,0,0,0,,Well... I wanted to show you this.
-Dialogue: 100,0:10:13.03,0:10:14.21,Dialogue,Alizee,0,0,0,,How pretty...
-Dialogue: 100,0:10:14.21,0:10:17.38,Dialogue,Amelle,0,0,0,,Isn't it? I'm good at catching these!
-Dialogue: 100,0:10:18.58,0:10:22.72,Dialogue,Amelle,0,0,0,,Aw, and I caught that one for you, too...
-Dialogue: 100,0:10:23.28,0:10:26.22,Dialogue,Alizee,0,0,0,,It kinda tickles when you call me that.
-Dialogue: 100,0:10:27.64,0:10:31.24,Dialogue,Amelle,0,0,0,,I have to introduce you to Big Bro, too!
-Dialogue: 100,0:10:31.24,0:10:34.46,Dialogue,Amelle,0,0,0,,Big Sis! Big Sis! Big Sis!
-Dialogue: 100,0:10:56.29,0:11:03.47,Dialogue,Alizee,0,0,0,,I cornered the dragon and went \Nafter it to finish it off, but...
-Dialogue: 100,0:11:07.77,0:11:10.98,Dialogue,Alizee,0,0,0,,I lost track of it, so I returned \Nto the village, only to find...
-Dialogue: 100,0:11:14.47,0:11:19.10,Dialogue,Alizee,0,0,0,,that the rest of the villagers \Nhad gone missing, as well.
-Dialogue: 100,0:11:24.80,0:11:27.58,Dialogue,Alizee,0,0,0,,All except for her.
-Dialogue: 100,0:11:33.12,0:11:39.00,Dialogue,Alizee,0,0,0,,At dawn, I decided to go to the city \Nto have someone take care of her.
-Dialogue: 100,0:11:39.00,0:11:42.99,Dialogue,Setsu,0,0,0,,And then you bumped into \Nus and hitched a ride.
-Dialogue: 100,0:11:42.99,0:11:43.75,Dialogue,Alizee,0,0,0,,Yes.
-Dialogue: 100,0:11:44.38,0:11:46.84,Dialogue,Levia,0,0,0,,If what you said is accurate, \Nthat's a big deal.
-Dialogue: 100,0:11:46.84,0:11:49.09,Dialogue,Levia,0,0,0,,An entire village gone missing?
-Dialogue: 100,0:11:49.81,0:11:56.59,Dialogue,Alizee,0,0,0,,Yes. I want to find her brother and allow \Nher to live peacefully in the village, but...
-Dialogue: 100,0:11:57.00,0:11:58.61,Dialogue,Alizee,0,0,0,,I don't understand what's going on.
-Dialogue: 100,0:11:59.08,0:12:01.70,Dialogue,Alizee,0,0,0,,Do you have any ideas, Master?
-Dialogue: 100,0:12:01.70,0:12:04.64,Dialogue,Alizee,0,0,0,,Does a "kidnapping dragon" ring any bells?
-Dialogue: 100,0:12:04.64,0:12:07.88,Dialogue,Setsu,0,0,0,,I've honestly never heard \Nof anything like that,
-Dialogue: 100,0:12:07.88,0:12:09.80,Dialogue,Setsu,0,0,0,,but I'm willing to help.
-Dialogue: 100,0:12:09.80,0:12:12.21,Dialogue,Levia,0,0,0,,We can't pretend we didn't hear anything.
-Dialogue: 100,0:12:12.45,0:12:13.71,Dialogue,Alizee,0,0,0,,Really?!
-Dialogue: 100,0:12:14.00,0:12:16.96,Dialogue,Setsu,0,0,0,,Yeah. My precious pupil \Nis in trouble, after all.
-Dialogue: 100,0:12:16.96,0:12:18.95,Dialogue,Alizee,0,0,0,,Master...
-Dialogue: 100,0:12:18.95,0:12:21.95,Dialogue,Amelle,0,0,0,,Thank you, Master Setsu, and... um...
-Dialogue: 100,0:12:21.95,0:12:23.22,Dialogue,Amelle,0,0,0,,Mrs. Setsu!
-Dialogue: 100,0:12:30.65,0:12:33.59,Dialogue,Levia,0,0,0,,This incident can be explained by...
-Dialogue: 100,0:12:33.59,0:12:34.56,Dialogue,Levia,0,0,0,,zombies.
-Dialogue: 100,0:12:34.86,0:12:35.99,Dialogue,Amelle,0,0,0,,Zombies?
-Dialogue: 100,0:12:38.32,0:12:42.32,Dialogue,Levia,0,0,0,,The whole village became the walking dead!
-Dialogue: 100,0:12:42.68,0:12:47.32,Dialogue,Levia,0,0,0,,There's actually an evil necromancer \Namong the villagers.
-Dialogue: 100,0:12:47.32,0:12:51.60,Dialogue,Amelle,0,0,0,,I don't think there's anyone \Nlike that in my village...
-Dialogue: 100,0:12:51.60,0:12:56.83,Dialogue,Setsu,0,0,0,,Besides, don't zombies increase \Nin number, not disappear?
-Dialogue: 100,0:12:56.83,0:12:58.63,Dialogue,Levia,0,0,0,,Ah, the rare "Air Zombie."
-Dialogue: 100,0:12:59.26,0:13:01.80,Dialogue,Levia,0,0,0,,Once they become zombies, \Nthey become invisible.
-Dialogue: 100,0:13:04.30,0:13:06.32,Dialogue,Setsu,0,0,0,,Never heard of that before.
-Dialogue: 100,0:13:06.32,0:13:08.30,Dialogue,Setsu,0,0,0,,So what about the dragon, then?
-Dialogue: 100,0:13:08.56,0:13:11.06,Dialogue,Levia,0,0,0,,It was a dragon zombie, of course.
-Dialogue: 100,0:13:11.70,0:13:14.00,Dialogue,Levia,0,0,0,,There was a legend in a \Ncountry somewhere out east,
-Dialogue: 100,0:13:14.00,0:13:15.99,Dialogue,Levia,0,0,0,,about a zombie that became a dragon...
-Dialogue: 100,0:13:18.20,0:13:19.60,Dialogue,Setsu,0,0,0,,Take this seriously.
-Dialogue: 100,0:13:19.60,0:13:22.82,Dialogue,Levia,0,0,0,,Wait, what about a siren, then?
-Dialogue: 100,0:13:23.05,0:13:28.24,Dialogue,Levia,0,0,0,,Among sailors, when people go missing,\Nit's a given that sirens are behind it.
-Dialogue: 100,0:13:28.24,0:13:33.33,Dialogue,Levia,0,0,0,,They say a siren's song \Ndraws men into the ocean.
-Dialogue: 100,0:13:33.79,0:13:36.48,Dialogue,Setsu,0,0,0,,I thought the village was in the mountains.
-Dialogue: 100,0:13:37.20,0:13:39.00,Dialogue,Levia,0,0,0,,Who knows?
-Dialogue: 100,0:13:39.00,0:13:44.09,Dialogue,Levia,0,0,0,,Maybe there's a siren who lives in the \Nmountains because they love the food there.
-Dialogue: 100,0:13:44.09,0:13:47.09,Dialogue,Setsu,0,0,0,,That's just... okay, maybe...
-Dialogue: 100,0:13:47.33,0:13:51.61,Dialogue,Amelle,0,0,0,,Um, sea monsters have a distinct smell
-Dialogue: 100,0:13:51.61,0:13:53.76,Dialogue,Amelle,0,0,0,,that makes them easy to identify,
-Dialogue: 100,0:13:53.76,0:13:55.40,Dialogue,Amelle,0,0,0,,so I don't think that's it.
-Dialogue: 100,0:13:56.10,0:14:00.23,Dialogue,Amelle,0,0,0,,Oh, Levia-san, you don't smell, of course.
-Dialogue: 100,0:14:01.16,0:14:02.23,Dialogue,Levia,0,0,0,,Huh? Do I stink?
-Dialogue: 100,0:14:02.23,0:14:05.41,Dialogue,Setsu,0,0,0,,I've got it! The culprit is...
-Dialogue: 100,0:14:05.41,0:14:06.74,Dialogue,Setsu,0,0,0,,Space aliens!
-Dialogue: 100,0:14:07.83,0:14:09.24,Dialogue,Amelle,0,0,0,,Space aliens?
-Dialogue: 100,0:14:11.49,0:14:14.10,Dialogue,Setsu,0,0,0,,Everyone knows about them in my world.
-Dialogue: 100,0:14:14.10,0:14:17.47,Dialogue,Setsu,0,0,0,,They come from the moon aboard \Nflying saucers and abduct humans.
-Dialogue: 100,0:14:17.47,0:14:19.00,Dialogue,Setsu,0,0,0,,So they're the—
-Dialogue: 100,0:14:20.43,0:14:22.42,Dialogue,Levia,0,0,0,,Setsu, take this seriously.
-Dialogue: 100,0:14:23.09,0:14:24.34,Dialogue,Setsu,0,0,0,,But, I mean...
-Dialogue: 100,0:14:25.35,0:14:29.83,Dialogue,Setsu,0,0,0,,What if the dragon that attacked was \Nan advanced species, like Levia?
-Dialogue: 100,0:14:29.83,0:14:33.10,Dialogue,Setsu,0,0,0,,It could avoid pursuit by taking \Nhuman form and hiding among villagers.
-Dialogue: 100,0:14:33.89,0:14:38.52,Dialogue,Setsu,0,0,0,,Levia, you could make villagers \Nvanish without a trace, right?
-Dialogue: 100,0:14:38.52,0:14:43.11,Dialogue,Levia,0,0,0,,Stop making me sound bad \Njust because you're stumped.
-Dialogue: 100,0:14:43.11,0:14:45.61,Dialogue,Levia,0,0,0,,I can't and won't do that.
-Dialogue: 100,0:14:45.91,0:14:49.61,Dialogue,Alizee,0,0,0,,Huh? Levia-san, are you a dragon?
-Dialogue: 100,0:14:49.95,0:14:51.22,Dialogue,Levia,0,0,0,,No.
-Dialogue: 100,0:14:51.22,0:14:54.10,Dialogue,Setsu,0,0,0,,But you do look kind of like one,\N don't you think?
-Dialogue: 100,0:14:54.10,0:14:55.50,Dialogue,Levia,0,0,0,,Not at all!
-Dialogue: 100,0:14:55.50,0:14:58.75,Dialogue,Levia,0,0,0,,Stop comparing me, a god of the seas,\N to a mere dragon.
-Dialogue: 100,0:14:59.94,0:15:01.50,Dialogue,Alizee,0,0,0,,G-God of the seas?
-Dialogue: 100,0:15:01.50,0:15:04.06,Dialogue,Levia,0,0,0,,Assuming such a dragon exists,
-Dialogue: 100,0:15:04.06,0:15:08.25,Dialogue,Levia,0,0,0,,why didn't it use that magic \Nto make Alizee disappear?
-Dialogue: 100,0:15:09.24,0:15:10.51,Dialogue,Driver,0,0,0,,Excuse me.
-Dialogue: 100,0:15:11.84,0:15:15.53,Dialogue,Driver,0,0,0,,It doesn't look like we'll be able to \Ncross until the water settles down.
-Dialogue: 100,0:15:17.92,0:15:19.32,Dialogue,Setsu,0,0,0,,Yikes.
-Dialogue: 100,0:15:19.72,0:15:22.14,Dialogue,Levia,0,0,0,,What are you going to do \Nonce you reach the city?
-Dialogue: 100,0:15:23.23,0:15:28.33,Dialogue,Alizee,0,0,0,,I'll go back to the village of Zathrow and \Ntry to find evidence of the lost villagers.
-Dialogue: 100,0:15:28.33,0:15:30.53,Dialogue,Levia,0,0,0,,And you were going to do that alone?
-Dialogue: 100,0:15:31.86,0:15:34.08,Dialogue,Alizee,0,0,0,,Now I have Master.
-Dialogue: 100,0:15:34.08,0:15:35.32,Dialogue,Amelle,0,0,0,,Big Sis...
-Dialogue: 100,0:15:36.34,0:15:42.00,Dialogue,Setsu,0,0,0,,Why did the dragon keep attacking\Nthe village over and over, anyway?
-Dialogue: 100,0:15:42.00,0:15:47.44,Dialogue,Levia,0,0,0,,Well, maybe it was just really \Nhungry and saw the humans as prey.
-Dialogue: 100,0:15:48.11,0:15:52.68,Dialogue,Levia,0,0,0,,Or maybe it was drawn there by magic power.
-Dialogue: 100,0:15:53.42,0:15:54.43,Dialogue,Setsu,0,0,0,,Magic power?
-Dialogue: 100,0:15:54.43,0:15:57.44,Dialogue,Levia,0,0,0,,The magic power people \Nuse can attract monsters.
-Dialogue: 100,0:15:57.44,0:16:01.94,Dialogue,Levia,0,0,0,,For example, if you tried to use \Npowerful magic inside the village,
-Dialogue: 100,0:16:02.43,0:16:06.02,Dialogue,Levia,0,0,0,,some monsters could \Npotentially be attracted to it.
-Dialogue: 100,0:16:07.21,0:16:08.55,Dialogue,Setsu,0,0,0,,I see.
-Dialogue: 100,0:16:08.55,0:16:12.32,Dialogue,Setsu,0,0,0,,One more thing. Why did \Nthe villagers disappear?
-Dialogue: 100,0:16:12.32,0:16:16.04,Dialogue,Levia,0,0,0,,Even if magic power was the cause of this, \Nit doesn't explain that part...
-Dialogue: 100,0:16:16.04,0:16:18.77,Dialogue,Setsu,0,0,0,,People don't just evaporate into thin air.
-Dialogue: 100,0:16:18.77,0:16:21.33,Dialogue,Setsu,0,0,0,,They had to have gone somewhere.
-Dialogue: 100,0:16:22.92,0:16:25.98,Dialogue,Setsu,0,0,0,,Magic powerful enough to attract a dragon...
-Dialogue: 100,0:16:26.69,0:16:29.50,Dialogue,Setsu,0,0,0,,Doesn't transfer magic fit the description?
-Dialogue: 100,0:16:31.33,0:16:34.99,Dialogue,Setsu,0,0,0,,You said people vanished after every attack.
-Dialogue: 100,0:16:34.99,0:16:37.01,Dialogue,Setsu,0,0,0,,What if it was the opposite?
-Dialogue: 100,0:16:37.01,0:16:41.25,Dialogue,Setsu,0,0,0,,What if the attacks happened \N{\i1}after{\i0} people vanished?
-Dialogue: 100,0:16:41.59,0:16:42.98,Dialogue,Alizee,0,0,0,,Do you mean...
-Dialogue: 100,0:16:42.98,0:16:44.67,Dialogue,Setsu,0,0,0,,There's only one explanation.
-Dialogue: 100,0:16:44.67,0:16:48.24,Dialogue,Setsu,0,0,0,,They were taken somewhere\Nusing transfer magic.
-Dialogue: 100,0:16:48.24,0:16:51.78,Dialogue,Setsu,0,0,0,,Every time that happened, \Nthe dragon got lured in by the magic power.
-Dialogue: 100,0:16:52.15,0:16:56.71,Dialogue,Alizee,0,0,0,,B-But, Master, all magic needs a user.
-Dialogue: 100,0:16:56.71,0:16:59.35,Dialogue,Alizee,0,0,0,,Are you saying someone was hiding nearby?
-Dialogue: 100,0:16:59.35,0:17:04.50,Dialogue,Setsu,0,0,0,,Why don't you ask the user themselves?
-Dialogue: 100,0:17:05.16,0:17:06.83,Dialogue,Setsu,0,0,0,,Think about it.
-Dialogue: 100,0:17:06.83,0:17:10.00,Dialogue,Setsu,0,0,0,,Transfer magic is no quick task.
-Dialogue: 100,0:17:10.56,0:17:13.02,Dialogue,Setsu,0,0,0,,It takes years of preparation, right?
-Dialogue: 100,0:17:13.61,0:17:18.51,Dialogue,Setsu,0,0,0,,But wasn't there a person \Nwho arrived two years ago?
-Dialogue: 100,0:17:20.97,0:17:25.27,Dialogue,Amelle,0,0,0,,W-Wait... Are you saying you suspect me?
-Dialogue: 100,0:17:25.60,0:17:28.36,Dialogue,Amelle,0,0,0,,Hold on a minute. That's absurd.
-Dialogue: 100,0:17:28.36,0:17:31.41,Dialogue,Amelle,0,0,0,,Space aliens were a more \Nconvincing alternative.
-Dialogue: 100,0:17:31.41,0:17:33.64,Dialogue,Alizee,0,0,0,,Y-Yes, Master!
-Dialogue: 100,0:17:33.64,0:17:37.16,Dialogue,Alizee,0,0,0,,She's the victim here! \NYou can't treat her as the bad guy.
-Dialogue: 100,0:17:37.39,0:17:39.59,Dialogue,Setsu,0,0,0,,At this point, sure.
-Dialogue: 100,0:17:40.41,0:17:42.62,Dialogue,Setsu,0,0,0,,But I have one more question.
-Dialogue: 100,0:17:43.40,0:17:46.45,Dialogue,Setsu,0,0,0,,When Levia was telling us the siren story,
-Dialogue: 100,0:17:46.45,0:17:50.00,Dialogue,Setsu,0,0,0,,do you remember what you said?
-Dialogue: 100,0:17:50.42,0:17:52.50,Dialogue,Amelle,0,0,0,,N-No...
-Dialogue: 100,0:17:53.38,0:17:55.13,Dialogue,Setsu,0,0,0,,Sea monsters...
-Dialogue: 100,0:17:55.73,0:18:00.55,Dialogue,Amelle,0,0,0,,Um, sea monsters have a distinct smell \Nthat makes them easy to identify.
-Dialogue: 100,0:18:02.21,0:18:05.50,Dialogue,Alizee,0,0,0,,But most demons have a \Nsense of smell like that.
-Dialogue: 100,0:18:05.50,0:18:07.68,Dialogue,Setsu,0,0,0,,Levia is out of the ordinary.
-Dialogue: 100,0:18:07.68,0:18:11.77,Dialogue,Setsu,0,0,0,,Even in her human form,\N she doesn't let her magic power leak out.
-Dialogue: 100,0:18:11.77,0:18:14.27,Dialogue,Levia,0,0,0,,Of course. I'm a sea god.
-Dialogue: 100,0:18:14.27,0:18:16.49,Dialogue,Setsu,0,0,0,,Not even Alizee could tell.
-Dialogue: 100,0:18:16.80,0:18:19.99,Dialogue,Setsu,0,0,0,,So how did you know what Levia really was?
-Dialogue: 100,0:18:27.20,0:18:29.94,Dialogue,Amelle,0,0,0,,Well, that's because...
-Dialogue: 100,0:18:31.20,0:18:32.50,Dialogue,Amelle,0,0,0,,I know...
-Dialogue: 100,0:18:34.37,0:18:37.01,Dialogue,Amelle,0,0,0,,a thing or two about monsters.
-Dialogue: 100,0:18:47.13,0:18:48.14,Dialogue,Levia,0,0,0,,What happened?!
-Dialogue: 100,0:18:56.66,0:18:59.61,Dialogue,Setsu,0,0,0,,She really was a dragon \Ndisguised as a human!
-Dialogue: 100,0:19:17.21,0:19:19.44,Dialogue,Alizee,0,0,0,,I am Master Setsu's top pupil!
-Dialogue: 100,0:19:19.44,0:19:21.38,Dialogue,Setsu,0,0,0,,I don't remember ever \Ntaking you on as a pupil.
-Dialogue: 100,0:19:22.74,0:19:24.46,Dialogue,Setsu,0,0,0,,Do something, top pupil!
-Dialogue: 100,0:19:27.68,0:19:29.48,Dialogue,Setsu,0,0,0,,Let's go, Alizee!
-Dialogue: 100,0:19:30.55,0:19:31.46,Dialogue,Alizee,0,0,0,,Right!
-Dialogue: 100,0:19:51.52,0:19:52.29,Dialogue,Setsu,0,0,0,,Levia!
-Dialogue: 100,0:19:52.66,0:19:53.92,Dialogue,Levia,0,0,0,,Got it!
-Dialogue: 100,0:20:09.74,0:20:10.85,Dialogue,Setsu,0,0,0,,Alizee!
-Dialogue: 100,0:20:10.85,0:20:11.64,Dialogue,Alizee,0,0,0,,Right!
-Dialogue: 100,0:20:40.27,0:20:41.64,Dialogue,Levia,0,0,0,,It's like snow...
-Dialogue: 100,0:21:05.42,0:21:07.47,Dialogue,Levia,0,0,0,,Are you sure it was okay \Nto leave her on her own?
-Dialogue: 100,0:21:07.47,0:21:10.50,Dialogue,Setsu,0,0,0,,Hmm? Oh, you mean Alizee?
-Dialogue: 100,0:21:10.50,0:21:11.33,Dialogue,Levia,0,0,0,,Yeah.
-Dialogue: 100,0:21:12.19,0:21:16.63,Dialogue,Setsu,0,0,0,,We defeated the dragon, \Nso she can take it from there alone.
-Dialogue: 100,0:21:17.36,0:21:18.30,Dialogue,Setsu,0,0,0,,Besides...
-Dialogue: 100,0:21:19.05,0:21:20.34,Dialogue,Levia,0,0,0,,Besides?
-Dialogue: 100,0:21:20.34,0:21:22.99,Dialogue,Setsu,0,0,0,,If she's going to call herself my pupil,
-Dialogue: 100,0:21:22.99,0:21:25.99,Dialogue,Setsu,0,0,0,,she should finish the jobs she takes on.
-Dialogue: 100,0:21:27.08,0:21:30.10,Dialogue,Levia,0,0,0,,Well, how master-like of you.
-Dialogue: 100,0:21:56.65,0:21:57.68,Dialogue,Alizee,0,0,0,,Amelle...
-Dialogue: 100,0:21:59.72,0:22:02.84,Dialogue,Amelle,0,0,0,,I should introduce you to them, Big Sis.
-Dialogue: 100,0:22:06.38,0:22:10.14,Dialogue,Amelle,0,0,0,,To my brother, to the other villagers...
-Dialogue: 100,0:22:10.73,0:22:12.05,Dialogue,Amelle,0,0,0,,And...
-Dialogue: 100,0:22:13.44,0:22:15.84,Dialogue,Alizee,0,0,0,,Amelle?! How...
-Dialogue: 100,0:22:17.96,0:22:20.95,Dialogue,Amelle,0,0,0,,Oh, did you think I was dead?
-Dialogue: 100,0:22:20.95,0:22:24.40,Dialogue,Amelle,0,0,0,,You really do have a dull sense of smell.
-Dialogue: 100,0:22:25.37,0:22:30.41,Dialogue,Amelle,0,0,0,,These pets of mine and I have \Ntotally different smells.
-Dialogue: 100,0:22:31.56,0:22:33.41,Dialogue,Alizee,0,0,0,,Where are the villagers?
-Dialogue: 100,0:22:33.85,0:22:36.38,Dialogue,Amelle,0,0,0,,They turned into dolls.
-Dialogue: 100,0:22:36.78,0:22:39.42,Dialogue,Amelle,0,0,0,,They all had strong magic power.
-Dialogue: 100,0:22:40.24,0:22:41.49,Dialogue,Alizee,0,0,0,,Dolls?
-Dialogue: 100,0:22:42.32,0:22:44.42,Dialogue,Amelle,0,0,0,,Don't give me that look.
-Dialogue: 100,0:22:45.00,0:22:49.93,Dialogue,Amelle,0,0,0,,They need magic soldiers for the war.
-Dialogue: 100,0:22:51.49,0:22:53.93,Dialogue,Alizee,0,0,0,,Amelle, you're...
-Dialogue: 100,0:22:54.58,0:22:59.06,Dialogue,Amelle,0,0,0,,There was never anyone named Amelle.
-Dialogue: 100,0:23:01.09,0:23:02.94,Dialogue,Alizee,0,0,0,,Who are you, then?
-Dialogue: 100,0:23:10.71,0:23:13.95,Dialogue,Amelle,0,0,0,,I am Melluar, the monster master.
-Dialogue: 100,0:23:21.25,0:23:24.32,Dialogue,Amelle,0,0,0,,Toma-sama gave me that name.
-Dialogue: 100,0:23:27.49,0:23:30.84,Dialogue,Alizee,0,0,0,,Data viitoare: {\i1}Visiting the Beastmen \NContinent for a Second Time{\i0}.
+Dialogue: 99,0:00:17.33,0:00:18.97,Dialogue,Setsu,0,0,0,,Hey, Levia...
+Dialogue: 99,0:00:18.97,0:00:22.04,Dialogue,Setsu,0,0,0,,Aren't you a bit too relaxed?!
+Dialogue: 99,0:00:22.48,0:00:24.95,Dialogue,Levia,0,0,0,,Huh? You think so?
+Dialogue: 99,0:00:29.02,0:00:31.42,Dialogue,Setsu,0,0,0,,All right, ready to go?
+Dialogue: 99,0:00:31.42,0:00:33.30,Dialogue,Levia,0,0,0,,Oh, very well.
+Dialogue: 99,0:00:33.30,0:00:36.82,Dialogue,Levia,0,0,0,,I'll tag along with you, no matter how far!
+Dialogue: 99,0:00:36.82,0:00:39.81,Dialogue,Setsu,0,0,0,,You said that with such a \Ncool look just yesterday!
+Dialogue: 99,0:00:39.81,0:00:41.86,Dialogue,Levia,0,0,0,,What's the problem?
+Dialogue: 99,0:00:41.86,0:00:45.21,Dialogue,Levia,0,0,0,,It's not like there's anything to do until \Nwe get to the Beastmen continent.
+Dialogue: 99,0:00:45.21,0:00:47.06,Dialogue,Setsu,0,0,0,,Yeah, true, but still...
+Dialogue: 99,0:00:47.63,0:00:51.19,Dialogue,Levia,0,0,0,,Besides, I'm on boat duty \Nafter we get to the port.
+Dialogue: 99,0:00:51.51,0:00:56.00,Dialogue,Levia,0,0,0,,Seems like a small price to pay to \Nemploy a god of the seas for free.
+Dialogue: 99,0:00:56.00,0:00:58.07,Dialogue,Setsu,0,0,0,,Well, I mean...
+Dialogue: 99,0:00:58.55,0:01:01.58,Dialogue,Setsu,0,0,0,,The war stopped all ships,\Nso there's no other way.
+Dialogue: 99,0:01:02.28,0:01:07.96,Dialogue,Setsu,0,0,0,,Can't you do some magic that lets us \Njump all the way there in one go?
+Dialogue: 99,0:01:08.29,0:01:09.67,Dialogue,Levia,0,0,0,,Transfer magic?
+Dialogue: 99,0:01:10.29,0:01:12.41,Dialogue,Setsu,0,0,0,,Yeah, do that. You're a sea god, right?
+Dialogue: 99,0:01:12.41,0:01:15.76,Dialogue,Levia,0,0,0,,What do you think a god of the seas is?
+Dialogue: 99,0:01:15.76,0:01:19.05,Dialogue,Levia,0,0,0,,Transfer magic is a huge hassle.
+Dialogue: 99,0:01:19.79,0:01:21.33,Dialogue,Levia,0,0,0,,Years of preparation!
+Dialogue: 99,0:01:21.33,0:01:22.76,Dialogue,Levia,0,0,0,,Extreme magic power!
+Dialogue: 99,0:01:22.76,0:01:25.09,Dialogue,Levia,0,0,0,,It's not something you can just throw around.
+Dialogue: 99,0:01:27.60,0:01:32.04,Dialogue,Setsu,0,0,0,,I guess nobody would use horse-drawn\N carriages or ships if it were that easy.
+Dialogue: 99,0:01:32.04,0:01:36.45,Dialogue,Levia,0,0,0,,Travel takes effort. So...
+Dialogue: 99,0:01:37.86,0:01:42.24,Dialogue,Levia,0,0,0,,It only makes sense to receive proper \Ncompensation for that, don't you think?
+Dialogue: 99,0:01:55.36,0:01:56.55,Dialogue,Levia,0,0,0,,We stopped.
+Dialogue: 99,0:01:58.64,0:02:00.14,Dialogue,Alizee,0,0,0,,Thank you!
+Dialogue: 99,0:02:04.39,0:02:05.76,Dialogue,Alizee,0,0,0,,Sorry!
+Dialogue: 99,0:02:05.76,0:02:08.22,Dialogue,Alizee,0,0,0,,We'd like to share this ride with \Nyou until we get to town...
+Dialogue: 99,0:02:17.12,0:02:18.36,Dialogue,Amelle,0,0,0,,Big Sis?
+Dialogue: 99,0:02:18.69,0:02:20.69,Dialogue,Levia,0,0,0,,What, you know her?
+Dialogue: 99,0:02:20.69,0:02:23.37,Dialogue,Setsu,0,0,0,,Long time no see, Crybaby Alizee!
+Dialogue: 99,0:02:23.83,0:02:26.36,Dialogue,Alizee,0,0,0,,Master Setsu...
+Dialogue: 99,0:02:26.36,0:02:29.66,Dialogue,Alizee,0,0,0,,That was a long time ago!
+Dialogue: 99,0:02:29.66,0:02:34.11,Dialogue,Alizee,0,0,0,,I'm not a crybaby anymore!
+Dialogue: 99,0:02:34.11,0:02:36.35,Dialogue,Alizee,0,0,0,,I'm not going to cry!
+Dialogue: 99,0:04:20.33,0:04:22.36,Dialogue,Setsu,0,0,0,,This is Alizee Ifreel.
+Dialogue: 99,0:04:22.64,0:04:27.03,Dialogue,Setsu,0,0,0,,We traveled together for a while \Nthe last time I was summoned.
+Dialogue: 99,0:04:27.03,0:04:29.42,Dialogue,Alizee,0,0,0,,I am Master Setsu's top pupil!
+Dialogue: 99,0:04:29.42,0:04:31.29,Dialogue,Setsu,0,0,0,,I don't remember ever \Ntaking you on as a pupil.
+Dialogue: 99,0:04:31.29,0:04:33.16,Dialogue,Alizee,0,0,0,,What are you talking about?!
+Dialogue: 99,0:04:33.16,0:04:39.00,Dialogue,Alizee,0,0,0,,You taught me the fundamentals of combat \Nevery night, physically and painstakingly!
+Dialogue: 99,0:04:39.35,0:04:41.08,Dialogue,Levia,0,0,0,,Every night, physically, huh?
+Dialogue: 99,0:04:41.08,0:04:45.57,Dialogue,Amelle,0,0,0,,Okay, I get that he's my sister's teacher.
+Dialogue: 99,0:04:45.57,0:04:46.89,Dialogue,Levia,0,0,0,,And who are you?
+Dialogue: 99,0:04:46.89,0:04:49.85,Dialogue,Alizee,0,0,0,,Oh, this is Amelle.
+Dialogue: 99,0:04:49.85,0:04:51.85,Dialogue,Amelle,0,0,0,,I'm Alizee's little sister!
+Dialogue: 99,0:04:52.29,0:04:54.23,Dialogue,Setsu,0,0,0,,You have a sister?
+Dialogue: 99,0:04:54.70,0:04:58.45,Dialogue,Alizee,0,0,0,,Well, more like... things kind \Nof ended up that way.
+Dialogue: 99,0:04:58.45,0:05:01.44,Dialogue,Amelle,0,0,0,,I'm her sister! We lived together!
+Dialogue: 99,0:05:01.44,0:05:03.61,Dialogue,Alizee,0,0,0,,Only for a short while, though.
+Dialogue: 99,0:05:04.28,0:05:06.61,Dialogue,Levia,0,0,0,,Like master, like pupil, huh?
+Dialogue: 99,0:05:07.13,0:05:12.23,Dialogue,Alizee,0,0,0,,Anyway, Master, where have you been for five \Nwhole years? Leaving your top pupil behind?!
+Dialogue: 99,0:05:12.23,0:05:14.37,Dialogue,Setsu,0,0,0,,Well, about that—
+Dialogue: 99,0:05:15.28,0:05:17.88,Dialogue,Setsu,0,0,0,,I-I'll explain.
+Dialogue: 99,0:05:24.38,0:05:25.63,Dialogue,Alizee,0,0,0,,I see.
+Dialogue: 99,0:05:25.93,0:05:30.64,Dialogue,Alizee,0,0,0,,And now you're trying to thwart Toma's plan.
+Dialogue: 99,0:05:31.42,0:05:36.50,Dialogue,Alizee,0,0,0,,Traveling across worlds twice, \Nchanging your appearance...
+Dialogue: 99,0:05:36.50,0:05:38.77,Dialogue,Alizee,0,0,0,,From anyone but you, I'd never believe it.
+Dialogue: 99,0:05:39.25,0:05:41.15,Dialogue,Levia,0,0,0,,Yeah, but it's Setsu.
+Dialogue: 99,0:05:41.51,0:05:43.42,Dialogue,Setsu,0,0,0,,I wasn't expecting any of it, either.
+Dialogue: 99,0:05:44.01,0:05:47.78,Dialogue,Setsu,0,0,0,,Hey, I know! Alizee, come with \Nus to the Beastmen continent.
+Dialogue: 99,0:05:48.15,0:05:51.62,Dialogue,Setsu,0,0,0,,Help me out on my trip, \Nlike you did five years ago.
+Dialogue: 99,0:05:54.58,0:05:56.00,Dialogue,Alizee,0,0,0,,Certainly!
+Dialogue: 99,0:05:56.00,0:05:58.17,Dialogue,Alizee,0,0,0,,...would once have been my response, but...
+Dialogue: 99,0:06:01.07,0:06:06.10,Dialogue,Alizee,0,0,0,,I'm actually caught up in a \Nserious situation, as well.
+Dialogue: 99,0:06:06.10,0:06:09.55,Dialogue,Amelle,0,0,0,,I'm sorry. It's all because of me.
+Dialogue: 99,0:06:14.47,0:06:16.53,Dialogue,Alizee,0,0,0,,Ever since you vanished,
+Dialogue: 99,0:06:16.53,0:06:21.06,Dialogue,Alizee,0,0,0,,I started taking on jobs fighting monsters\N as a continuation of my training.
+Dialogue: 99,0:06:21.38,0:06:26.95,Dialogue,Alizee,0,0,0,,One day, I accepted a village's \Nrequest to slay a dragon.
+Dialogue: 99,0:06:32.38,0:06:34.43,Dialogue,Alizee,0,0,0,,That village was called Zathrow.
+Dialogue: 99,0:06:34.43,0:06:36.62,Dialogue,Alizee,0,0,0,,It was a nice, quiet village.
+Dialogue: 99,0:06:36.62,0:06:40.17,Dialogue,Chief,0,0,0,,Please use this house while you're with us.
+Dialogue: 99,0:06:46.09,0:06:49.72,Dialogue,Chief,0,0,0,,She's an important guest, \Nso please take care of her.
+Dialogue: 99,0:06:49.72,0:06:52.72,Dialogue,Amelle,0,0,0,,Hello, I'm Amelle. Nice to meet you.
+Dialogue: 99,0:06:52.96,0:06:55.72,Dialogue,Alizee,0,0,0,,Nice to meet you, too.
+Dialogue: 99,0:06:59.99,0:07:01.91,Dialogue,Amelle,0,0,0,,Do you like it?
+Dialogue: 99,0:07:01.91,0:07:07.73,Dialogue,Alizee,0,0,0,,Yes. Back at Evilbarrow, it's hard \Nto find food this fresh right now.
+Dialogue: 99,0:07:08.14,0:07:12.24,Dialogue,Amelle,0,0,0,,Right, you're at war with the humans...
+Dialogue: 99,0:07:12.71,0:07:15.30,Dialogue,Amelle,0,0,0,,Oh, I have fruits, too!
+Dialogue: 99,0:07:15.30,0:07:17.70,Dialogue,Alizee,0,0,0,,You don't have to go to so much trouble.
+Dialogue: 99,0:07:18.42,0:07:20.46,Dialogue,Alizee,0,0,0,,Do you live here all alone?
+Dialogue: 99,0:07:20.95,0:07:23.08,Dialogue,Amelle,0,0,0,,No, this...
+Dialogue: 99,0:07:24.21,0:07:25.84,Dialogue,Amelle,0,0,0,,used to be my brother's house.
+Dialogue: 99,0:07:26.20,0:07:27.38,Dialogue,Alizee,0,0,0,,Your brother?
+Dialogue: 99,0:07:27.38,0:07:30.09,Dialogue,Amelle,0,0,0,,I'm not from this village.
+Dialogue: 99,0:07:30.43,0:07:33.56,Dialogue,Amelle,0,0,0,,My brother found me about two years ago.
+Dialogue: 99,0:07:33.56,0:07:37.86,Dialogue,Amelle,0,0,0,,He said, "Starting today, we're a family."
+Dialogue: 99,0:07:39.27,0:07:42.10,Dialogue,Amelle,0,0,0,,So I lived here with him, but...
+Dialogue: 99,0:07:42.77,0:07:47.52,Dialogue,Amelle,0,0,0,,He hasn't come home since the \Nday the dragon first appeared.
+Dialogue: 99,0:07:48.64,0:07:51.25,Dialogue,Amelle,0,0,0,,So I'm alone again.
+Dialogue: 99,0:07:52.11,0:07:58.62,Dialogue,Amelle,0,0,0,,But it's fine! I've been alone all \Nof my life, so I'm used to it.
+Dialogue: 99,0:08:02.72,0:08:06.11,Dialogue,Alizee,0,0,0,,Amelle, this is a nice village.
+Dialogue: 99,0:08:06.11,0:08:09.13,Dialogue,Alizee,0,0,0,,The food is good, and the villagers are kind.
+Dialogue: 99,0:08:10.35,0:08:13.15,Dialogue,Alizee,0,0,0,,I'm growing a bit tired of traveling,
+Dialogue: 99,0:08:13.15,0:08:17.10,Dialogue,Alizee,0,0,0,,so once this issue is settled, \NI'd like to stay here for a while.
+Dialogue: 99,0:08:17.38,0:08:21.85,Dialogue,Amelle,0,0,0,,Oh, please do! This house is \Ntoo big for me to live in alone.
+Dialogue: 99,0:08:22.19,0:08:26.10,Dialogue,Alizee,0,0,0,,So, during that time, \Nyou can treat me as a sister.
+Dialogue: 99,0:08:28.64,0:08:32.11,Dialogue,Amelle,0,0,0,,Would you really be my big sister?
+Dialogue: 99,0:08:32.11,0:08:35.43,Dialogue,Alizee,0,0,0,,Sure. I mean, if it's okay with you.
+Dialogue: 99,0:08:35.43,0:08:37.32,Dialogue,Amelle,0,0,0,,Of course, Big Sis!
+Dialogue: 99,0:08:40.42,0:08:42.12,Dialogue,Setsu,0,0,0,,Can I ask you something?
+Dialogue: 99,0:08:43.15,0:08:48.57,Dialogue,Setsu,0,0,0,,Is Amelle's brother missing because \Nhe was killed by the dragon?
+Dialogue: 99,0:08:48.57,0:08:49.59,Dialogue,Levia,0,0,0,,Hey...
+Dialogue: 99,0:08:51.28,0:08:54.34,Dialogue,Alizee,0,0,0,,Actually, it seems like that's not the case.
+Dialogue: 99,0:08:56.89,0:08:59.61,Dialogue,Alizee,0,0,0,,Every time there's a dragon attack,
+Dialogue: 99,0:08:59.61,0:09:05.10,Dialogue,Alizee,0,0,0,,several villagers go missing. \NIt wasn't just her brother.
+Dialogue: 99,0:09:05.58,0:09:07.10,Dialogue,Levia,0,0,0,,Missing?
+Dialogue: 99,0:09:07.46,0:09:12.44,Dialogue,Alizee,0,0,0,,Yes. Normally, if a dragon attacks, \Nit leaves some evidence of a battle behind.
+Dialogue: 99,0:09:12.44,0:09:14.90,Dialogue,Alizee,0,0,0,,Even if the people are defeated,
+Dialogue: 99,0:09:14.90,0:09:17.00,Dialogue,Alizee,0,0,0,,they should leave something behind.
+Dialogue: 99,0:09:17.75,0:09:24.58,Dialogue,Alizee,0,0,0,,But everyone disappears without\Nthe slightest trace, no exceptions.
+Dialogue: 99,0:09:25.28,0:09:28.32,Dialogue,Setsu,0,0,0,,Doesn't sound like a normal attack.
+Dialogue: 99,0:09:28.32,0:09:30.13,Dialogue,Levia,0,0,0,,Like they're being spirited away.
+Dialogue: 99,0:09:34.37,0:09:37.83,Dialogue,Alizee,0,0,0,,I thought the first order of business \Nwould be to defeat the dragon,
+Dialogue: 99,0:09:37.83,0:09:39.89,Dialogue,Alizee,0,0,0,,so I took a drastic measure.
+Dialogue: 99,0:09:40.79,0:09:42.14,Dialogue,Amelle,0,0,0,,What are you doing?
+Dialogue: 99,0:09:43.24,0:09:45.39,Dialogue,Alizee,0,0,0,,I was disabling the ward against evil.
+Dialogue: 99,0:09:45.67,0:09:49.17,Dialogue,Amelle,0,0,0,,What?! Then the dragon can come right here!
+Dialogue: 99,0:09:49.17,0:09:51.02,Dialogue,Alizee,0,0,0,,That's the plan.
+Dialogue: 99,0:09:51.02,0:09:53.15,Dialogue,Alizee,0,0,0,,I'm going to lure it in and beat it here.
+Dialogue: 99,0:09:53.79,0:09:56.53,Dialogue,Amelle,0,0,0,,But that would put you in danger...
+Dialogue: 99,0:09:56.53,0:09:57.82,Dialogue,Alizee,0,0,0,,I'll be fine.
+Dialogue: 99,0:09:57.82,0:10:01.06,Dialogue,Alizee,0,0,0,,It's going to get dangerous here soon,\Nso head back home, okay?
+Dialogue: 99,0:10:02.28,0:10:03.40,Dialogue,Amelle,0,0,0,,Okay.
+Dialogue: 99,0:10:04.82,0:10:05.95,Dialogue,Alizee,0,0,0,,What's wrong?
+Dialogue: 99,0:10:06.34,0:10:09.96,Dialogue,Amelle,0,0,0,,Well... I wanted to show you this.
+Dialogue: 99,0:10:13.03,0:10:14.21,Dialogue,Alizee,0,0,0,,How pretty...
+Dialogue: 99,0:10:14.21,0:10:17.38,Dialogue,Amelle,0,0,0,,Isn't it? I'm good at catching these!
+Dialogue: 99,0:10:18.58,0:10:22.72,Dialogue,Amelle,0,0,0,,Aw, and I caught that one for you, too...
+Dialogue: 99,0:10:23.28,0:10:26.22,Dialogue,Alizee,0,0,0,,It kinda tickles when you call me that.
+Dialogue: 99,0:10:27.64,0:10:31.24,Dialogue,Amelle,0,0,0,,I have to introduce you to Big Bro, too!
+Dialogue: 99,0:10:31.24,0:10:34.46,Dialogue,Amelle,0,0,0,,Big Sis! Big Sis! Big Sis!
+Dialogue: 99,0:10:56.29,0:11:03.47,Dialogue,Alizee,0,0,0,,I cornered the dragon and went \Nafter it to finish it off, but...
+Dialogue: 99,0:11:07.77,0:11:10.98,Dialogue,Alizee,0,0,0,,I lost track of it, so I returned \Nto the village, only to find...
+Dialogue: 99,0:11:14.47,0:11:19.10,Dialogue,Alizee,0,0,0,,that the rest of the villagers \Nhad gone missing, as well.
+Dialogue: 99,0:11:24.80,0:11:27.58,Dialogue,Alizee,0,0,0,,All except for her.
+Dialogue: 99,0:11:33.12,0:11:39.00,Dialogue,Alizee,0,0,0,,At dawn, I decided to go to the city \Nto have someone take care of her.
+Dialogue: 99,0:11:39.00,0:11:42.99,Dialogue,Setsu,0,0,0,,And then you bumped into \Nus and hitched a ride.
+Dialogue: 99,0:11:42.99,0:11:43.75,Dialogue,Alizee,0,0,0,,Yes.
+Dialogue: 99,0:11:44.38,0:11:46.84,Dialogue,Levia,0,0,0,,If what you said is accurate, \Nthat's a big deal.
+Dialogue: 99,0:11:46.84,0:11:49.09,Dialogue,Levia,0,0,0,,An entire village gone missing?
+Dialogue: 99,0:11:49.81,0:11:56.59,Dialogue,Alizee,0,0,0,,Yes. I want to find her brother and allow \Nher to live peacefully in the village, but...
+Dialogue: 99,0:11:57.00,0:11:58.61,Dialogue,Alizee,0,0,0,,I don't understand what's going on.
+Dialogue: 99,0:11:59.08,0:12:01.70,Dialogue,Alizee,0,0,0,,Do you have any ideas, Master?
+Dialogue: 99,0:12:01.70,0:12:04.64,Dialogue,Alizee,0,0,0,,Does a "kidnapping dragon" ring any bells?
+Dialogue: 99,0:12:04.64,0:12:07.88,Dialogue,Setsu,0,0,0,,I've honestly never heard \Nof anything like that,
+Dialogue: 99,0:12:07.88,0:12:09.80,Dialogue,Setsu,0,0,0,,but I'm willing to help.
+Dialogue: 99,0:12:09.80,0:12:12.21,Dialogue,Levia,0,0,0,,We can't pretend we didn't hear anything.
+Dialogue: 99,0:12:12.45,0:12:13.71,Dialogue,Alizee,0,0,0,,Really?!
+Dialogue: 99,0:12:14.00,0:12:16.96,Dialogue,Setsu,0,0,0,,Yeah. My precious pupil \Nis in trouble, after all.
+Dialogue: 99,0:12:16.96,0:12:18.95,Dialogue,Alizee,0,0,0,,Master...
+Dialogue: 99,0:12:18.95,0:12:21.95,Dialogue,Amelle,0,0,0,,Thank you, Master Setsu, and... um...
+Dialogue: 99,0:12:21.95,0:12:23.22,Dialogue,Amelle,0,0,0,,Mrs. Setsu!
+Dialogue: 99,0:12:30.65,0:12:33.59,Dialogue,Levia,0,0,0,,This incident can be explained by...
+Dialogue: 99,0:12:33.59,0:12:34.56,Dialogue,Levia,0,0,0,,zombies.
+Dialogue: 99,0:12:34.86,0:12:35.99,Dialogue,Amelle,0,0,0,,Zombies?
+Dialogue: 99,0:12:38.32,0:12:42.32,Dialogue,Levia,0,0,0,,The whole village became the walking dead!
+Dialogue: 99,0:12:42.68,0:12:47.32,Dialogue,Levia,0,0,0,,There's actually an evil necromancer \Namong the villagers.
+Dialogue: 99,0:12:47.32,0:12:51.60,Dialogue,Amelle,0,0,0,,I don't think there's anyone \Nlike that in my village...
+Dialogue: 99,0:12:51.60,0:12:56.83,Dialogue,Setsu,0,0,0,,Besides, don't zombies increase \Nin number, not disappear?
+Dialogue: 99,0:12:56.83,0:12:58.63,Dialogue,Levia,0,0,0,,Ah, the rare "Air Zombie."
+Dialogue: 99,0:12:59.26,0:13:01.80,Dialogue,Levia,0,0,0,,Once they become zombies, \Nthey become invisible.
+Dialogue: 99,0:13:04.30,0:13:06.32,Dialogue,Setsu,0,0,0,,Never heard of that before.
+Dialogue: 99,0:13:06.32,0:13:08.30,Dialogue,Setsu,0,0,0,,So what about the dragon, then?
+Dialogue: 99,0:13:08.56,0:13:11.06,Dialogue,Levia,0,0,0,,It was a dragon zombie, of course.
+Dialogue: 99,0:13:11.70,0:13:14.00,Dialogue,Levia,0,0,0,,There was a legend in a \Ncountry somewhere out east,
+Dialogue: 99,0:13:14.00,0:13:15.99,Dialogue,Levia,0,0,0,,about a zombie that became a dragon...
+Dialogue: 99,0:13:18.20,0:13:19.60,Dialogue,Setsu,0,0,0,,Take this seriously.
+Dialogue: 99,0:13:19.60,0:13:22.82,Dialogue,Levia,0,0,0,,Wait, what about a siren, then?
+Dialogue: 99,0:13:23.05,0:13:28.24,Dialogue,Levia,0,0,0,,Among sailors, when people go missing,\Nit's a given that sirens are behind it.
+Dialogue: 99,0:13:28.24,0:13:33.33,Dialogue,Levia,0,0,0,,They say a siren's song \Ndraws men into the ocean.
+Dialogue: 99,0:13:33.79,0:13:36.48,Dialogue,Setsu,0,0,0,,I thought the village was in the mountains.
+Dialogue: 99,0:13:37.20,0:13:39.00,Dialogue,Levia,0,0,0,,Who knows?
+Dialogue: 99,0:13:39.00,0:13:44.09,Dialogue,Levia,0,0,0,,Maybe there's a siren who lives in the \Nmountains because they love the food there.
+Dialogue: 99,0:13:44.09,0:13:47.09,Dialogue,Setsu,0,0,0,,That's just... okay, maybe...
+Dialogue: 99,0:13:47.33,0:13:51.61,Dialogue,Amelle,0,0,0,,Um, sea monsters have a distinct smell
+Dialogue: 99,0:13:51.61,0:13:53.76,Dialogue,Amelle,0,0,0,,that makes them easy to identify,
+Dialogue: 99,0:13:53.76,0:13:55.40,Dialogue,Amelle,0,0,0,,so I don't think that's it.
+Dialogue: 99,0:13:56.10,0:14:00.23,Dialogue,Amelle,0,0,0,,Oh, Levia-san, you don't smell, of course.
+Dialogue: 99,0:14:01.16,0:14:02.23,Dialogue,Levia,0,0,0,,Huh? Do I stink?
+Dialogue: 99,0:14:02.23,0:14:05.41,Dialogue,Setsu,0,0,0,,I've got it! The culprit is...
+Dialogue: 99,0:14:05.41,0:14:06.74,Dialogue,Setsu,0,0,0,,Space aliens!
+Dialogue: 99,0:14:07.83,0:14:09.24,Dialogue,Amelle,0,0,0,,Space aliens?
+Dialogue: 99,0:14:11.49,0:14:14.10,Dialogue,Setsu,0,0,0,,Everyone knows about them in my world.
+Dialogue: 99,0:14:14.10,0:14:17.47,Dialogue,Setsu,0,0,0,,They come from the moon aboard \Nflying saucers and abduct humans.
+Dialogue: 99,0:14:17.47,0:14:19.00,Dialogue,Setsu,0,0,0,,So they're the—
+Dialogue: 99,0:14:20.43,0:14:22.42,Dialogue,Levia,0,0,0,,Setsu, take this seriously.
+Dialogue: 99,0:14:23.09,0:14:24.34,Dialogue,Setsu,0,0,0,,But, I mean...
+Dialogue: 99,0:14:25.35,0:14:29.83,Dialogue,Setsu,0,0,0,,What if the dragon that attacked was \Nan advanced species, like Levia?
+Dialogue: 99,0:14:29.83,0:14:33.10,Dialogue,Setsu,0,0,0,,It could avoid pursuit by taking \Nhuman form and hiding among villagers.
+Dialogue: 99,0:14:33.89,0:14:38.52,Dialogue,Setsu,0,0,0,,Levia, you could make villagers \Nvanish without a trace, right?
+Dialogue: 99,0:14:38.52,0:14:43.11,Dialogue,Levia,0,0,0,,Stop making me sound bad \Njust because you're stumped.
+Dialogue: 99,0:14:43.11,0:14:45.61,Dialogue,Levia,0,0,0,,I can't and won't do that.
+Dialogue: 99,0:14:45.91,0:14:49.61,Dialogue,Alizee,0,0,0,,Huh? Levia-san, are you a dragon?
+Dialogue: 99,0:14:49.95,0:14:51.22,Dialogue,Levia,0,0,0,,No.
+Dialogue: 99,0:14:51.22,0:14:54.10,Dialogue,Setsu,0,0,0,,But you do look kind of like one,\N don't you think?
+Dialogue: 99,0:14:54.10,0:14:55.50,Dialogue,Levia,0,0,0,,Not at all!
+Dialogue: 99,0:14:55.50,0:14:58.75,Dialogue,Levia,0,0,0,,Stop comparing me, a god of the seas,\N to a mere dragon.
+Dialogue: 99,0:14:59.94,0:15:01.50,Dialogue,Alizee,0,0,0,,G-God of the seas?
+Dialogue: 99,0:15:01.50,0:15:04.06,Dialogue,Levia,0,0,0,,Assuming such a dragon exists,
+Dialogue: 99,0:15:04.06,0:15:08.25,Dialogue,Levia,0,0,0,,why didn't it use that magic \Nto make Alizee disappear?
+Dialogue: 99,0:15:09.24,0:15:10.51,Dialogue,Driver,0,0,0,,Excuse me.
+Dialogue: 99,0:15:11.84,0:15:15.53,Dialogue,Driver,0,0,0,,It doesn't look like we'll be able to \Ncross until the water settles down.
+Dialogue: 99,0:15:17.92,0:15:19.32,Dialogue,Setsu,0,0,0,,Yikes.
+Dialogue: 99,0:15:19.72,0:15:22.14,Dialogue,Levia,0,0,0,,What are you going to do \Nonce you reach the city?
+Dialogue: 99,0:15:23.23,0:15:28.33,Dialogue,Alizee,0,0,0,,I'll go back to the village of Zathrow and \Ntry to find evidence of the lost villagers.
+Dialogue: 99,0:15:28.33,0:15:30.53,Dialogue,Levia,0,0,0,,And you were going to do that alone?
+Dialogue: 99,0:15:31.86,0:15:34.08,Dialogue,Alizee,0,0,0,,Now I have Master.
+Dialogue: 99,0:15:34.08,0:15:35.32,Dialogue,Amelle,0,0,0,,Big Sis...
+Dialogue: 99,0:15:36.34,0:15:42.00,Dialogue,Setsu,0,0,0,,Why did the dragon keep attacking\Nthe village over and over, anyway?
+Dialogue: 99,0:15:42.00,0:15:47.44,Dialogue,Levia,0,0,0,,Well, maybe it was just really \Nhungry and saw the humans as prey.
+Dialogue: 99,0:15:48.11,0:15:52.68,Dialogue,Levia,0,0,0,,Or maybe it was drawn there by magic power.
+Dialogue: 99,0:15:53.42,0:15:54.43,Dialogue,Setsu,0,0,0,,Magic power?
+Dialogue: 99,0:15:54.43,0:15:57.44,Dialogue,Levia,0,0,0,,The magic power people \Nuse can attract monsters.
+Dialogue: 99,0:15:57.44,0:16:01.94,Dialogue,Levia,0,0,0,,For example, if you tried to use \Npowerful magic inside the village,
+Dialogue: 99,0:16:02.43,0:16:06.02,Dialogue,Levia,0,0,0,,some monsters could \Npotentially be attracted to it.
+Dialogue: 99,0:16:07.21,0:16:08.55,Dialogue,Setsu,0,0,0,,I see.
+Dialogue: 99,0:16:08.55,0:16:12.32,Dialogue,Setsu,0,0,0,,One more thing. Why did \Nthe villagers disappear?
+Dialogue: 99,0:16:12.32,0:16:16.04,Dialogue,Levia,0,0,0,,Even if magic power was the cause of this, \Nit doesn't explain that part...
+Dialogue: 99,0:16:16.04,0:16:18.77,Dialogue,Setsu,0,0,0,,People don't just evaporate into thin air.
+Dialogue: 99,0:16:18.77,0:16:21.33,Dialogue,Setsu,0,0,0,,They had to have gone somewhere.
+Dialogue: 99,0:16:22.92,0:16:25.98,Dialogue,Setsu,0,0,0,,Magic powerful enough to attract a dragon...
+Dialogue: 99,0:16:26.69,0:16:29.50,Dialogue,Setsu,0,0,0,,Doesn't transfer magic fit the description?
+Dialogue: 99,0:16:31.33,0:16:34.99,Dialogue,Setsu,0,0,0,,You said people vanished after every attack.
+Dialogue: 99,0:16:34.99,0:16:37.01,Dialogue,Setsu,0,0,0,,What if it was the opposite?
+Dialogue: 99,0:16:37.01,0:16:41.25,Dialogue,Setsu,0,0,0,,What if the attacks happened \N{\i1}after{\i0} people vanished?
+Dialogue: 99,0:16:41.59,0:16:42.98,Dialogue,Alizee,0,0,0,,Do you mean...
+Dialogue: 99,0:16:42.98,0:16:44.67,Dialogue,Setsu,0,0,0,,There's only one explanation.
+Dialogue: 99,0:16:44.67,0:16:48.24,Dialogue,Setsu,0,0,0,,They were taken somewhere\Nusing transfer magic.
+Dialogue: 99,0:16:48.24,0:16:51.78,Dialogue,Setsu,0,0,0,,Every time that happened, \Nthe dragon got lured in by the magic power.
+Dialogue: 99,0:16:52.15,0:16:56.71,Dialogue,Alizee,0,0,0,,B-But, Master, all magic needs a user.
+Dialogue: 99,0:16:56.71,0:16:59.35,Dialogue,Alizee,0,0,0,,Are you saying someone was hiding nearby?
+Dialogue: 99,0:16:59.35,0:17:04.50,Dialogue,Setsu,0,0,0,,Why don't you ask the user themselves?
+Dialogue: 99,0:17:05.16,0:17:06.83,Dialogue,Setsu,0,0,0,,Think about it.
+Dialogue: 99,0:17:06.83,0:17:10.00,Dialogue,Setsu,0,0,0,,Transfer magic is no quick task.
+Dialogue: 99,0:17:10.56,0:17:13.02,Dialogue,Setsu,0,0,0,,It takes years of preparation, right?
+Dialogue: 99,0:17:13.61,0:17:18.51,Dialogue,Setsu,0,0,0,,But wasn't there a person \Nwho arrived two years ago?
+Dialogue: 99,0:17:20.97,0:17:25.27,Dialogue,Amelle,0,0,0,,W-Wait... Are you saying you suspect me?
+Dialogue: 99,0:17:25.60,0:17:28.36,Dialogue,Amelle,0,0,0,,Hold on a minute. That's absurd.
+Dialogue: 99,0:17:28.36,0:17:31.41,Dialogue,Amelle,0,0,0,,Space aliens were a more \Nconvincing alternative.
+Dialogue: 99,0:17:31.41,0:17:33.64,Dialogue,Alizee,0,0,0,,Y-Yes, Master!
+Dialogue: 99,0:17:33.64,0:17:37.16,Dialogue,Alizee,0,0,0,,She's the victim here! \NYou can't treat her as the bad guy.
+Dialogue: 99,0:17:37.39,0:17:39.59,Dialogue,Setsu,0,0,0,,At this point, sure.
+Dialogue: 99,0:17:40.41,0:17:42.62,Dialogue,Setsu,0,0,0,,But I have one more question.
+Dialogue: 99,0:17:43.40,0:17:46.45,Dialogue,Setsu,0,0,0,,When Levia was telling us the siren story,
+Dialogue: 99,0:17:46.45,0:17:50.00,Dialogue,Setsu,0,0,0,,do you remember what you said?
+Dialogue: 99,0:17:50.42,0:17:52.50,Dialogue,Amelle,0,0,0,,N-No...
+Dialogue: 99,0:17:53.38,0:17:55.13,Dialogue,Setsu,0,0,0,,Sea monsters...
+Dialogue: 99,0:17:55.73,0:18:00.55,Dialogue,Amelle,0,0,0,,Um, sea monsters have a distinct smell \Nthat makes them easy to identify.
+Dialogue: 99,0:18:02.21,0:18:05.50,Dialogue,Alizee,0,0,0,,But most demons have a \Nsense of smell like that.
+Dialogue: 99,0:18:05.50,0:18:07.68,Dialogue,Setsu,0,0,0,,Levia is out of the ordinary.
+Dialogue: 99,0:18:07.68,0:18:11.77,Dialogue,Setsu,0,0,0,,Even in her human form,\N she doesn't let her magic power leak out.
+Dialogue: 99,0:18:11.77,0:18:14.27,Dialogue,Levia,0,0,0,,Of course. I'm a sea god.
+Dialogue: 99,0:18:14.27,0:18:16.49,Dialogue,Setsu,0,0,0,,Not even Alizee could tell.
+Dialogue: 99,0:18:16.80,0:18:19.99,Dialogue,Setsu,0,0,0,,So how did you know what Levia really was?
+Dialogue: 99,0:18:27.20,0:18:29.94,Dialogue,Amelle,0,0,0,,Well, that's because...
+Dialogue: 99,0:18:31.20,0:18:32.50,Dialogue,Amelle,0,0,0,,I know...
+Dialogue: 99,0:18:34.37,0:18:37.01,Dialogue,Amelle,0,0,0,,a thing or two about monsters.
+Dialogue: 99,0:18:47.13,0:18:48.14,Dialogue,Levia,0,0,0,,What happened?!
+Dialogue: 99,0:18:56.66,0:18:59.61,Dialogue,Setsu,0,0,0,,She really was a dragon \Ndisguised as a human!
+Dialogue: 99,0:19:17.21,0:19:19.44,Dialogue,Alizee,0,0,0,,I am Master Setsu's top pupil!
+Dialogue: 99,0:19:19.44,0:19:21.38,Dialogue,Setsu,0,0,0,,I don't remember ever \Ntaking you on as a pupil.
+Dialogue: 99,0:19:22.74,0:19:24.46,Dialogue,Setsu,0,0,0,,Do something, top pupil!
+Dialogue: 99,0:19:27.68,0:19:29.48,Dialogue,Setsu,0,0,0,,Let's go, Alizee!
+Dialogue: 99,0:19:30.55,0:19:31.46,Dialogue,Alizee,0,0,0,,Right!
+Dialogue: 99,0:19:51.52,0:19:52.29,Dialogue,Setsu,0,0,0,,Levia!
+Dialogue: 99,0:19:52.66,0:19:53.92,Dialogue,Levia,0,0,0,,Got it!
+Dialogue: 99,0:20:09.74,0:20:10.85,Dialogue,Setsu,0,0,0,,Alizee!
+Dialogue: 99,0:20:10.85,0:20:11.64,Dialogue,Alizee,0,0,0,,Right!
+Dialogue: 99,0:20:40.27,0:20:41.64,Dialogue,Levia,0,0,0,,It's like snow...
+Dialogue: 99,0:21:05.42,0:21:07.47,Dialogue,Levia,0,0,0,,Are you sure it was okay \Nto leave her on her own?
+Dialogue: 99,0:21:07.47,0:21:10.50,Dialogue,Setsu,0,0,0,,Hmm? Oh, you mean Alizee?
+Dialogue: 99,0:21:10.50,0:21:11.33,Dialogue,Levia,0,0,0,,Yeah.
+Dialogue: 99,0:21:12.19,0:21:16.63,Dialogue,Setsu,0,0,0,,We defeated the dragon, \Nso she can take it from there alone.
+Dialogue: 99,0:21:17.36,0:21:18.30,Dialogue,Setsu,0,0,0,,Besides...
+Dialogue: 99,0:21:19.05,0:21:20.34,Dialogue,Levia,0,0,0,,Besides?
+Dialogue: 99,0:21:20.34,0:21:22.99,Dialogue,Setsu,0,0,0,,If she's going to call herself my pupil,
+Dialogue: 99,0:21:22.99,0:21:25.99,Dialogue,Setsu,0,0,0,,she should finish the jobs she takes on.
+Dialogue: 99,0:21:27.08,0:21:30.10,Dialogue,Levia,0,0,0,,Well, how master-like of you.
+Dialogue: 99,0:21:56.65,0:21:57.68,Dialogue,Alizee,0,0,0,,Amelle...
+Dialogue: 99,0:21:59.72,0:22:02.84,Dialogue,Amelle,0,0,0,,I should introduce you to them, Big Sis.
+Dialogue: 99,0:22:06.38,0:22:10.14,Dialogue,Amelle,0,0,0,,To my brother, to the other villagers...
+Dialogue: 99,0:22:10.73,0:22:12.05,Dialogue,Amelle,0,0,0,,And...
+Dialogue: 99,0:22:13.44,0:22:15.84,Dialogue,Alizee,0,0,0,,Amelle?! How...
+Dialogue: 99,0:22:17.96,0:22:20.95,Dialogue,Amelle,0,0,0,,Oh, did you think I was dead?
+Dialogue: 99,0:22:20.95,0:22:24.40,Dialogue,Amelle,0,0,0,,You really do have a dull sense of smell.
+Dialogue: 99,0:22:25.37,0:22:30.41,Dialogue,Amelle,0,0,0,,These pets of mine and I have \Ntotally different smells.
+Dialogue: 99,0:22:31.56,0:22:33.41,Dialogue,Alizee,0,0,0,,Where are the villagers?
+Dialogue: 99,0:22:33.85,0:22:36.38,Dialogue,Amelle,0,0,0,,They turned into dolls.
+Dialogue: 99,0:22:36.78,0:22:39.42,Dialogue,Amelle,0,0,0,,They all had strong magic power.
+Dialogue: 99,0:22:40.24,0:22:41.49,Dialogue,Alizee,0,0,0,,Dolls?
+Dialogue: 99,0:22:42.32,0:22:44.42,Dialogue,Amelle,0,0,0,,Don't give me that look.
+Dialogue: 99,0:22:45.00,0:22:49.93,Dialogue,Amelle,0,0,0,,They need magic soldiers for the war.
+Dialogue: 99,0:22:51.49,0:22:53.93,Dialogue,Alizee,0,0,0,,Amelle, you're...
+Dialogue: 99,0:22:54.58,0:22:59.06,Dialogue,Amelle,0,0,0,,There was never anyone named Amelle.
+Dialogue: 99,0:23:01.09,0:23:02.94,Dialogue,Alizee,0,0,0,,Who are you, then?
+Dialogue: 99,0:23:10.71,0:23:13.95,Dialogue,Amelle,0,0,0,,I am Melluar, the monster master.
+Dialogue: 99,0:23:21.25,0:23:24.32,Dialogue,Amelle,0,0,0,,Toma-sama gave me that name.
+Dialogue: 99,0:23:27.49,0:23:30.84,Dialogue,Alizee,0,0,0,,Data viitoare: {\i1}Visiting the Beastmen \NContinent for a Second Time{\i0}.
 Dialogue: 0,0:04:14.28,0:04:18.95,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\bord4\3c&HFFFFFF&\alpha&HD0&\blur15\fad(800,0)\t(0,1200,0.6,\blur2)}Episodul 6
 Dialogue: 1,0:04:14.28,0:04:18.95,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\blur15\fad(800,0)\t(0,1200,0.6,\blur0.6)}Episodul 6
 Dialogue: 2,0:04:14.28,0:04:18.95,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\alpha&HA0&\blur15\fad(800,0)\t(0,1200,0.6,\blur5)}Episodul 6

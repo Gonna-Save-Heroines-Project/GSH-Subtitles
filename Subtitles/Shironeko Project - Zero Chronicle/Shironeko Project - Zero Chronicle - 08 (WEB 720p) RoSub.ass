@@ -30,216 +30,216 @@ Style: ED TL,Dehasta Momentos,50,&H00474949,&H000000FF,&H00FFFFFF,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:02:09.81,0:02:11.52,Dialogue,,0,0,0,,Doamne, cât de brusc.
-Dialogue: 100,0:02:11.84,0:02:16.76,Dialogue,,0,0,0,,Regelui nostru chiar îi place să ne muncească ca pe niște sclavi dacă ne ordonă să ne întoarcem fără vreun motiv.
-Dialogue: 100,0:02:30.25,0:02:32.10,Dialogue,,0,0,0,,Cât de generos.
-Dialogue: 100,0:02:32.10,0:02:34.00,Dialogue,,0,0,0,,Ce tot murmuri acolo?
-Dialogue: 100,0:02:37.19,0:02:38.43,Dialogue,,0,0,0,,Vorbești de unul singur?
-Dialogue: 100,0:02:38.76,0:02:41.83,Dialogue,,0,0,0,,O, comandante.
-Dialogue: 100,0:02:41.83,0:02:43.97,Dialogue,,0,0,0,,Îți mulțumesc pentru întâmpinare.
-Dialogue: 100,0:02:48.43,0:02:51.00,Dialogue,,0,0,0,,Îți faci griji pentru mine?
-Dialogue: 100,0:02:51.00,0:02:52.15,Dialogue,,0,0,0,,Îmi fac mai mult griji
-Dialogue: 100,0:02:52.15,0:02:54.83,Dialogue,,0,0,0,,dacă vei face ceea ce \Ntrebuie sau nu acolo jos.
-Dialogue: 100,0:03:02.13,0:03:04.63,Dialogue,,0,0,0,,Mai întâi, un tratat de comerț.
-Dialogue: 100,0:03:04.63,0:03:06.29,Dialogue,,0,0,0,,Și apoi...
-Dialogue: 100,0:03:07.05,0:03:08.23,Dialogue,,0,0,0,,Nu grăbi lucrurile.
-Dialogue: 100,0:03:10.14,0:03:11.92,Dialogue,,0,0,0,,Nu ți-am spus mai-nainte?
-Dialogue: 100,0:03:12.39,0:03:13.78,Dialogue,,0,0,0,,Va funcționa.
-Dialogue: 100,0:03:15.02,0:03:16.33,Dialogue,,0,0,0,,Da, așa este.
-Dialogue: 100,0:03:25.93,0:03:27.01,Dialogue,,0,0,0,,Și acum,
-Dialogue: 100,0:03:28.16,0:03:31.02,Dialogue,,0,0,0,,e timpul să ne luăm ultimul rămas bun de la Regina Luminii.
-Dialogue: 100,0:03:31.38,0:03:32.20,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:03:43.74,0:03:47.91,Dialogue,,0,0,0,,Atât de multe... \NSunt incredibili de generoși.
-Dialogue: 100,0:03:52.40,0:03:54.49,Dialogue,,0,0,0,,Mă voi simți puțin singură,
-Dialogue: 100,0:03:55.21,0:03:58.91,Dialogue,,0,0,0,,dar nu-l pot lăsa pe Prinț să \Npetreacă mai mult timp cu ea,
-Dialogue: 100,0:03:59.67,0:04:01.62,Dialogue,,0,0,0,,deci presupun că acest ordin a venit la fix.
-Dialogue: 100,0:04:08.47,0:04:09.69,Dialogue,,0,0,0,,Scuzați-ne.
-Dialogue: 100,0:04:38.64,0:04:39.43,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:04:49.01,0:04:50.31,Dialogue,,0,0,0,,Este gata.
-Dialogue: 100,0:04:50.31,0:04:51.27,Dialogue,,0,0,0,,Da, Maiestate.
-Dialogue: 100,0:05:06.14,0:05:08.58,Dialogue,,0,0,0,,Ne dorim un tratat de comerț.
-Dialogue: 100,0:05:08.58,0:05:10.99,Dialogue,,0,0,0,,Vă rog să duceți acest mesaj regelui vostru.
-Dialogue: 100,0:05:12.68,0:05:13.96,Dialogue,,0,0,0,,Cum porunciți.
-Dialogue: 100,0:05:13.96,0:05:16.12,Dialogue,,0,0,0,,Acesta va fi un suvenir bun.
-Dialogue: 100,0:05:16.12,0:05:17.99,Dialogue,,0,0,0,,Vă mulțumim, Maiestatea Voastră.
-Dialogue: 100,0:05:17.99,0:05:20.29,Dialogue,,0,0,0,,Nu ai spus-o tu însuți că
-Dialogue: 100,0:05:20.65,0:05:23.38,Dialogue,,0,0,0,,dacă ne dorim echilibru,
-Dialogue: 100,0:05:23.38,0:05:25.40,Dialogue,,0,0,0,,regatele noastre sunt asemănătoare?
-Dialogue: 100,0:05:26.42,0:05:31.13,Dialogue,,0,0,0,,Și dacă putem face un nou tratat, \Nsunt sigură că...
-Dialogue: 100,0:05:40.88,0:05:43.28,Dialogue,,0,0,0,,Trebuie să ne luăm rămas bun acum.
-Dialogue: 100,0:05:43.28,0:05:46.65,Dialogue,,0,0,0,,Da, ți-am încredințat o scrisoare.
-Dialogue: 100,0:05:47.25,0:05:49.98,Dialogue,,0,0,0,,Nu, acesta este sfârșitul.
-Dialogue: 100,0:05:50.74,0:05:54.75,Dialogue,,0,0,0,,Echilibrul este principiul acestei lumi.
-Dialogue: 100,0:05:54.75,0:05:59.62,Dialogue,,0,0,0,,Este adevărat că toate \Nființele ar trebui protejate.
-Dialogue: 100,0:05:59.62,0:06:01.70,Dialogue,,0,0,0,,Dar numai cei puternici o pot face.
-Dialogue: 100,0:06:01.70,0:06:06.72,Dialogue,,0,0,0,,Cei slabi trebuie să se spună celorlalți.
-Dialogue: 100,0:06:07.04,0:06:08.73,Dialogue,,0,0,0,,Domnule reprezentant?
-Dialogue: 100,0:06:08.73,0:06:10.92,Dialogue,,0,0,0,,Sigur le e bine oamenilor din Regatul Alb.
-Dialogue: 100,0:06:11.51,0:06:17.52,Dialogue,,0,0,0,,Ei duc vieți îmbelșugate mulțumită Sufletului Abundent și Runei Creatoare.
-Dialogue: 100,0:06:18.43,0:06:21.69,Dialogue,,0,0,0,,Dar noi cei care ne târâm \Npe pământ suntem diferiți.
-Dialogue: 100,0:06:21.69,0:06:23.94,Dialogue,,0,0,0,,Acest continent plutește deasupra noastră.
-Dialogue: 100,0:06:23.94,0:06:27.65,Dialogue,,0,0,0,,De ce stăm noi în umbra lui?
-Dialogue: 100,0:06:27.97,0:06:32.16,Dialogue,,0,0,0,,Ca să se mențină echilibrul dintre pământ și cer, întuneric și lumină.
-Dialogue: 100,0:06:32.16,0:06:35.08,Dialogue,,0,0,0,,Așa au stat lucrurile de \Nla începutul creației.
-Dialogue: 100,0:06:39.05,0:06:41.79,Dialogue,,0,0,0,,De asta nu suntem la fel.
-Dialogue: 100,0:06:41.79,0:06:45.24,Dialogue,,0,0,0,,"Așa au stat lucrurile" sunt pur și simplu
-Dialogue: 100,0:06:45.71,0:06:48.17,Dialogue,,0,0,0,,niște cuvinte convenabile \Npentru cei puternici!
-Dialogue: 100,0:06:49.13,0:06:50.44,Dialogue,,0,0,0,,Adel?
-Dialogue: 100,0:06:50.44,0:06:51.97,Dialogue,,0,0,0,,Este cumva o glumă?
-Dialogue: 100,0:06:55.43,0:06:58.35,Dialogue,,0,0,0,,Vă mulțumesc pentru simpatie.
-Dialogue: 100,0:07:01.65,0:07:04.40,Dialogue,,0,0,0,,Dar nu am nevoie de ea!
-Dialogue: 100,0:07:04.40,0:07:07.11,Dialogue,,0,0,0,,Încearcă să spui asta după \Nce vei fi una cu pământul!
-Dialogue: 100,0:07:08.49,0:07:10.18,Dialogue,,0,0,0,,Maiestate!
-Dialogue: 100,0:07:12.11,0:07:13.32,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:07:38.21,0:07:39.48,Dialogue,,0,0,0,,Regatul Negru...
-Dialogue: 100,0:07:43.29,0:07:44.44,Dialogue,,0,0,0,,P-Phious!
-Dialogue: 100,0:07:44.44,0:07:46.48,Dialogue,,0,0,0,,Reține-l!
-Dialogue: 100,0:07:51.40,0:07:52.41,Dialogue,,0,0,0,,Barbarule!
-Dialogue: 100,0:07:52.72,0:07:54.70,Dialogue,,0,0,0,,Voi nu sunteți oameni!
-Dialogue: 100,0:07:59.79,0:08:02.51,Dialogue,,0,0,0,,Am văzut cum face regatul vostru lucrurile!
-Dialogue: 100,0:08:12.18,0:08:14.47,Dialogue,,0,0,0,,Am fost un prost că
-Dialogue: 100,0:08:14.47,0:08:16.43,Dialogue,,0,0,0,,am decis să am încredere în voi!
-Dialogue: 100,0:08:17.89,0:08:20.24,Dialogue,,0,0,0,,Dacă așa vreți să fie lucrurile,
-Dialogue: 100,0:08:20.24,0:08:22.86,Dialogue,,0,0,0,,vă voi șterge și pe voi, \Nși pământul pe care vă târâți!
-Dialogue: 100,0:08:24.15,0:08:25.65,Dialogue,,0,0,0,,Aduceți funii!
-Dialogue: 100,0:08:26.84,0:08:27.85,Dialogue,,0,0,0,,Așteptați.
-Dialogue: 100,0:08:33.37,0:08:34.82,Dialogue,,0,0,0,,Mai târziu, mă voi bucura
-Dialogue: 100,0:08:34.82,0:08:38.35,Dialogue,,0,0,0,,făcându-te să-mi spui tot ce \Nștii despre regatul vostru.
-Dialogue: 100,0:08:40.94,0:08:42.54,Dialogue,,0,0,0,,Așteptați.
-Dialogue: 100,0:08:44.18,0:08:45.83,Dialogue,,0,0,0,,El este...
-Dialogue: 100,0:08:46.54,0:08:47.52,Dialogue,,0,0,0,,Maiestate!
-Dialogue: 100,0:08:47.52,0:08:49.50,Dialogue,,0,0,0,,Pe aici, repede!
-Dialogue: 100,0:08:49.82,0:08:51.21,Dialogue,,0,0,0,,Î-În regulă.
-Dialogue: 100,0:09:03.56,0:09:07.35,Dialogue,,0,0,0,,Va trebui să le aduc ceva în schimb la următoarea mea vizită.
-Dialogue: 100,0:09:12.67,0:09:14.08,Dialogue,,0,0,0,,C-Ce?!
-Dialogue: 100,0:09:15.95,0:09:17.99,Dialogue,,0,0,0,,Se pare că reprezentantul a fost arestat!
-Dialogue: 100,0:09:17.99,0:09:19.06,Dialogue,,0,0,0,,Trebuie să plecăm!
-Dialogue: 100,0:09:19.06,0:09:20.48,Dialogue,,0,0,0,,Ce?! Ce vreți să spuneți?!
-Dialogue: 100,0:09:20.48,0:09:22.17,Dialogue,,0,0,0,,Nici noi nu știm detalii!
-Dialogue: 100,0:09:22.17,0:09:24.13,Dialogue,,0,0,0,,Atunci, cum rămâne cu cei doi?!
-Dialogue: 100,0:09:25.04,0:09:28.04,Dialogue,,0,0,0,,Vom pleca deocamdată și \Nvom vedea ce se întâmplă.
-Dialogue: 100,0:09:28.04,0:09:30.50,Dialogue,,0,0,0,,V-Vom vedea ce se întâmplă?
-Dialogue: 100,0:09:30.50,0:09:33.11,Dialogue,,0,0,0,,Ce anume mai exact?
-Dialogue: 100,0:09:43.84,0:09:45.16,Dialogue,,0,0,0,,La naiba!
-Dialogue: 100,0:09:45.16,0:09:47.21,Dialogue,,0,0,0,,Prietenie între regatele noastre?
-Dialogue: 100,0:09:48.54,0:09:50.48,Dialogue,,0,0,0,,Am fost un prost!
-Dialogue: 100,0:09:50.48,0:09:52.60,Dialogue,,0,0,0,,Fir-ar! La naiba cu toate!
-Dialogue: 100,0:10:00.41,0:10:01.72,Dialogue,,0,0,0,,Phious...
-Dialogue: 100,0:10:04.48,0:10:06.41,Dialogue,,0,0,0,,E în regulă, nu-i așa?
-Dialogue: 100,0:10:06.41,0:10:08.37,Dialogue,,0,0,0,,Am reușit să prevenim atacul.
-Dialogue: 100,0:10:09.03,0:10:10.08,Dialogue,,0,0,0,,Cum este asta "bine"?!
-Dialogue: 100,0:10:11.17,0:10:12.80,Dialogue,,0,0,0,,Phious.
-Dialogue: 100,0:10:18.26,0:10:19.88,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:10:19.88,0:10:24.72,Dialogue,,0,0,0,,Dar... Sheama, Theo, nu mai înțeleg.
-Dialogue: 100,0:10:25.38,0:10:26.81,Dialogue,,0,0,0,,Ce nu înțelegi?
-Dialogue: 100,0:10:30.47,0:10:32.58,Dialogue,,0,0,0,,Echilibrul înseamnă opoziție?
-Dialogue: 100,0:10:33.22,0:10:37.28,Dialogue,,0,0,0,,Cavalerii sunt obligați să lupte pe vecie?
-Dialogue: 100,0:10:40.94,0:10:43.70,Dialogue,,0,0,0,,Dacă da, atunci Maiestatea ei...
-Dialogue: 100,0:10:47.44,0:10:48.91,Dialogue,,0,0,0,,Pe vecie?
-Dialogue: 100,0:10:49.41,0:10:51.38,Dialogue,,0,0,0,,Nu ai experimentat niciodată asta,
-Dialogue: 100,0:10:51.38,0:10:53.65,Dialogue,,0,0,0,,deci de ce îți faci griji?
-Dialogue: 100,0:10:54.21,0:10:55.50,Dialogue,,0,0,0,,Theo?!
-Dialogue: 100,0:10:55.50,0:10:58.84,Dialogue,,0,0,0,,Există oare cineva care a trăit atât?
-Dialogue: 100,0:11:00.33,0:11:04.33,Dialogue,,0,0,0,,M-am certat ieri cu copilul de vizavi,
-Dialogue: 100,0:11:04.33,0:11:07.08,Dialogue,,0,0,0,,dar acea ceartă nu va ține pe vecie.
-Dialogue: 100,0:11:07.08,0:11:09.73,Dialogue,,0,0,0,,Dacă voi continua cu ea,
-Dialogue: 100,0:11:09.73,0:11:12.27,Dialogue,,0,0,0,,te vei supăra pe mine, nu-i așa?
-Dialogue: 100,0:11:12.27,0:11:13.42,Dialogue,,0,0,0,,Theo.
-Dialogue: 100,0:11:13.42,0:11:15.52,Dialogue,,0,0,0,,Nu pot face adulții asta?
-Dialogue: 100,0:11:17.09,0:11:19.87,Dialogue,,0,0,0,,Nu sunt adulții mai buni la a se controla?
-Dialogue: 100,0:11:22.41,0:11:23.62,Dialogue,,0,0,0,,Într-o zi vei înțelegi.
-Dialogue: 100,0:11:24.39,0:11:26.89,Dialogue,,0,0,0,,Nu vreau să aud scuze.
-Dialogue: 100,0:11:27.55,0:11:28.47,Dialogue,,0,0,0,,Theo!
-Dialogue: 100,0:11:37.47,0:11:38.76,Dialogue,,0,0,0,,Phious...
-Dialogue: 100,0:11:39.82,0:11:41.07,Dialogue,,0,0,0,,Poate că Theo...
-Dialogue: 100,0:11:41.84,0:11:47.26,Dialogue,,0,0,0,,va reusi să creeze o eră \Nunde nu vor exista lupte.
-Dialogue: 100,0:11:49.32,0:11:50.66,Dialogue,,0,0,0,,Asta e ceea ce cred.
-Dialogue: 100,0:11:52.27,0:11:55.15,Dialogue,,0,0,0,,Da, este un băiat bun.
-Dialogue: 100,0:11:55.69,0:11:56.65,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:11:58.39,0:11:59.40,Dialogue,,0,0,0,,Eu...
-Dialogue: 100,0:12:06.25,0:12:08.44,Dialogue,,0,0,0,,Avem o datorie.
-Dialogue: 100,0:12:08.44,0:12:10.07,Dialogue,,0,0,0,,Nu ne permitem să ezităm.
-Dialogue: 100,0:12:11.27,0:12:12.47,Dialogue,,0,0,0,,Presupun că nu.
-Dialogue: 100,0:12:16.37,0:12:18.91,Dialogue,,0,0,0,,Nu sta treaz până târziu.
-Dialogue: 100,0:12:19.61,0:12:20.77,Dialogue,,0,0,0,,Noapte bună.
-Dialogue: 100,0:12:25.79,0:12:27.91,Dialogue,,0,0,0,,Datorie, nu?
-Dialogue: 100,0:12:31.97,0:12:33.56,Dialogue,,0,0,0,,Îngrijorările mele
-Dialogue: 100,0:12:33.56,0:12:36.41,Dialogue,,0,0,0,,cu siguranță sunt nimic în comparație cu ale Maiestății Sale.
-Dialogue: 100,0:12:38.03,0:12:40.62,Dialogue,,0,0,0,,Eu trebuie doar s-o protejez.
-Dialogue: 100,0:12:41.29,0:12:43.98,Dialogue,,0,0,0,,Să dau tot ce am mai bun ca \Ns-o protejez pe Maiestatea Sa.
-Dialogue: 100,0:12:46.26,0:12:49.41,Dialogue,,0,0,0,,Negru pe pământ, alb în cer...
-Dialogue: 100,0:12:50.08,0:12:54.94,Dialogue,,0,0,0,,De ce trebuie ca cei care își doresc să păstreze echilibrul să lupte între ei?
-Dialogue: 100,0:12:57.93,0:12:59.71,Dialogue,,0,0,0,,O, Rună Creatoare.
-Dialogue: 100,0:13:00.52,0:13:05.68,Dialogue,,0,0,0,,Dacă destinul acestei lumi este ca cerul și pământul să se urască,
-Dialogue: 100,0:13:06.96,0:13:10.15,Dialogue,,0,0,0,,eu s-ar putea să nu pot face față.
-Dialogue: 100,0:13:10.95,0:13:17.67,Dialogue,,0,0,0,,Să stau deasupra întregii \Nuri este mult prea mult...
-Dialogue: 100,0:13:26.65,0:13:30.46,Dialogue,,0,0,0,,Preoteasă Albă, Regină a Luminii,
-Dialogue: 100,0:13:30.46,0:13:32.79,Dialogue,,0,0,0,,trebuie să iei o decizie
-Dialogue: 100,0:13:33.31,0:13:36.41,Dialogue,,0,0,0,,în legătură cu ceea ce trebuie să protejăm.
-Dialogue: 100,0:13:36.97,0:13:38.50,Dialogue,,0,0,0,,Ceea ce...
-Dialogue: 100,0:13:39.21,0:13:41.71,Dialogue,,0,0,0,,trebuie să protejăm?
-Dialogue: 100,0:14:13.30,0:14:14.58,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:14:18.79,0:14:20.67,Dialogue,,0,0,0,,Am fost un prost!
-Dialogue: 100,0:14:24.88,0:14:27.57,Dialogue,,0,0,0,,Apoi am fost adus aici.
-Dialogue: 100,0:14:31.66,0:14:33.51,Dialogue,,0,0,0,,{\i1}În acel moment...
-Dialogue: 100,0:14:36.25,0:14:38.73,Dialogue,,0,0,0,,{\i1}de ce am protejat-o pe Regina Luminii?
-Dialogue: 100,0:14:40.53,0:14:46.86,Dialogue,,0,0,0,,{\i1}Am venit ca să ne întârim relațiile de prietenie cu Regatul Alb, deci poate a fost un lucru natural?
-Dialogue: 100,0:14:47.78,0:14:54.99,Dialogue,,0,0,0,,{\i1}Dar dacă Adel a primit ordine secrete ca s-o omoare pe Regina Luminii fără ca eu să știu...
-Dialogue: 100,0:14:55.92,0:15:01.86,Dialogue,,0,0,0,,{\i1}Poate că ar fi fost mai bine pentru Regatul Negru să-l las să le ducă la bun sfârșit.
-Dialogue: 100,0:15:03.71,0:15:04.88,Dialogue,,0,0,0,,{\i1}Nu știu.
-Dialogue: 100,0:15:05.65,0:15:08.24,Dialogue,,0,0,0,,{\i1}În acel moment...
-Dialogue: 100,0:15:09.90,0:15:11.36,Dialogue,,0,0,0,,{\i1}ce am ales?
-Dialogue: 100,0:15:12.28,0:15:17.23,Dialogue,,0,0,0,,{\i1}În acel moment, ce încercam să spun?
-Dialogue: 100,0:15:26.86,0:15:28.00,Dialogue,,0,0,0,,Regatul Negru...
-Dialogue: 100,0:15:33.73,0:15:38.81,Dialogue,,0,0,0,,Regatul Negru și oamenii săi sunt la fel.
-Dialogue: 100,0:15:38.81,0:15:43.83,Dialogue,,0,0,0,,Nu avem de ales decât să \Nascultăm de regele nostru.
-Dialogue: 100,0:15:44.97,0:15:47.64,Dialogue,,0,0,0,,Te rugăm... să nu-ți faci \No părere rea despre noi.
-Dialogue: 100,0:15:48.92,0:15:50.52,Dialogue,,0,0,0,,{\i1}Greșesc.
-Dialogue: 100,0:15:50.52,0:15:53.25,Dialogue,,0,0,0,,{\i1}Acela nu a fost un mod de a-mi cere iertare.
-Dialogue: 100,0:15:53.79,0:15:58.15,Dialogue,,0,0,0,,{\i1}Nu aia ar fi trebuit să-i spun Reginii Luminii.
-Dialogue: 100,0:16:08.32,0:16:11.09,Dialogue,,0,0,0,,O pisică... albă?
-Dialogue: 100,0:16:15.07,0:16:16.35,Dialogue,,0,0,0,,De unde a venit?
-Dialogue: 100,0:16:21.77,0:16:22.97,Dialogue,,0,0,0,,C-Ce se petrece...
-Dialogue: 100,0:16:27.45,0:16:28.95,Dialogue,,0,0,0,,Mă cheamă?
-Dialogue: 100,0:16:32.05,0:16:33.23,Dialogue,,0,0,0,,Totuși...
-Dialogue: 100,0:16:56.67,0:16:58.79,Dialogue,,0,0,0,,Nu este niciun gardian prin preajmă.
-Dialogue: 100,0:16:59.46,0:17:00.24,Dialogue,,0,0,0,,Nu-mi spune că
-Dialogue: 100,0:17:00.99,0:17:03.30,Dialogue,,0,0,0,,mă lasă cumva să evadez?
-Dialogue: 100,0:18:22.10,0:18:23.66,Dialogue,,0,0,0,,Regina?!
-Dialogue: 100,0:19:22.88,0:19:25.84,Dialogue,,0,0,0,,Când ne ținem de mână astfel...
-Dialogue: 100,0:19:27.31,0:19:30.23,Dialogue,,0,0,0,,ne putem sprijini reciproc, și totuși...
-Dialogue: 100,0:19:33.12,0:19:34.88,Dialogue,,0,0,0,,Nu există numai lumină.
-Dialogue: 100,0:19:35.64,0:19:38.47,Dialogue,,0,0,0,,Există și întuneric în lume.
-Dialogue: 100,0:19:39.34,0:19:43.44,Dialogue,,0,0,0,,Ambele pot oferi liniște sufletească.
-Dialogue: 100,0:19:44.68,0:19:45.79,Dialogue,,0,0,0,,Și totuși...
-Dialogue: 100,0:19:53.66,0:19:54.50,Dialogue,,0,0,0,,Să protejez...
-Dialogue: 100,0:19:59.99,0:20:03.35,Dialogue,,0,0,0,,Și eu îmi doresc același lucru.
-Dialogue: 100,0:20:03.35,0:20:07.66,Dialogue,,0,0,0,,Dacă va face pe toată lumea \Nfericită din regatele noastre,
-Dialogue: 100,0:20:08.58,0:20:13.27,Dialogue,,0,0,0,,te voi susține, \Nchiar și de jos de pe pământ.
-Dialogue: 100,0:20:17.49,0:20:19.86,Dialogue,,0,0,0,,Vreau ca tu să urmezi
-Dialogue: 100,0:20:20.24,0:20:21.84,Dialogue,,0,0,0,,calea în care crezi.
-Dialogue: 100,0:20:29.97,0:20:33.35,Dialogue,,0,0,0,,Eu sunt succesorul Regelui Întunericului.
-Dialogue: 100,0:20:34.10,0:20:36.48,Dialogue,,0,0,0,,Prințul Întunericului.
-Dialogue: 100,0:20:37.17,0:20:40.16,Dialogue,,0,0,0,,Da, am simțit asta.
-Dialogue: 100,0:20:41.17,0:20:44.18,Dialogue,,0,0,0,,Eu voi urca pe tron.
-Dialogue: 100,0:20:45.00,0:20:48.96,Dialogue,,0,0,0,,Vom aduce pacea în această lume împreună.
-Dialogue: 100,0:20:51.41,0:20:52.74,Dialogue,,0,0,0,,Îți promit.
-Dialogue: 100,0:20:53.42,0:20:54.73,Dialogue,,0,0,0,,Îți mulțumesc.
-Dialogue: 100,0:20:56.32,0:21:00.94,Dialogue,,0,0,0,,Regatul Alb reprezintă lumina, iar Regatul Negru întunericul... Cerul și pământul.
-Dialogue: 100,0:21:01.62,0:21:05.42,Dialogue,,0,0,0,,Haide să ne susținem reciproc \Ndin locurile în care ne aflăm.
-Dialogue: 100,0:21:06.19,0:21:07.48,Dialogue,,0,0,0,,Este o promisiune.
-Dialogue: 100,0:21:08.38,0:21:11.12,Dialogue,,0,0,0,,Da. Până atunci...
-Dialogue: 100,0:21:12.95,0:21:14.25,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:21:22.75,0:21:23.99,Dialogue,,0,0,0,,Trebuie să plec.
-Dialogue: 100,0:21:24.96,0:21:27.79,Dialogue,,0,0,0,,Îți mulțumesc pentru tot \Nce ai făcut pentru mine.
-Dialogue: 100,0:21:28.47,0:21:31.35,Dialogue,,0,0,0,,Nu-ți face griji pentru mine.
-Dialogue: 100,0:21:33.21,0:21:36.67,Dialogue,,0,0,0,,Te rog să aștepți până \Ncând va veni momentul.
-Dialogue: 100,0:21:38.77,0:21:39.60,Dialogue,,0,0,0,,Așa voi face.
-Dialogue: 100,0:21:40.86,0:21:44.20,Dialogue,,0,0,0,,{\i1}Nu ești singură.
-Dialogue: 100,0:21:46.40,0:21:49.33,Dialogue,,0,0,0,,{\i1}Lumina și întunericul sunt doi poli opuși.
-Dialogue: 100,0:21:50.17,0:21:54.01,Dialogue,,0,0,0,,{\i1}Nu se ating niciodată și crează echilibrul.
-Dialogue: 100,0:21:55.21,0:21:57.92,Dialogue,,0,0,0,,{\i1}Îmi voi ține...
-Dialogue: 100,0:22:00.71,0:22:04.02,Dialogue,,0,0,0,,{\i1}...promisiunea față de tine.
+Dialogue: 99,0:02:09.81,0:02:11.52,Dialogue,,0,0,0,,Doamne, cât de brusc.
+Dialogue: 99,0:02:11.84,0:02:16.76,Dialogue,,0,0,0,,Regelui nostru chiar îi place să ne muncească ca pe niște sclavi dacă ne ordonă să ne întoarcem fără vreun motiv.
+Dialogue: 99,0:02:30.25,0:02:32.10,Dialogue,,0,0,0,,Cât de generos.
+Dialogue: 99,0:02:32.10,0:02:34.00,Dialogue,,0,0,0,,Ce tot murmuri acolo?
+Dialogue: 99,0:02:37.19,0:02:38.43,Dialogue,,0,0,0,,Vorbești de unul singur?
+Dialogue: 99,0:02:38.76,0:02:41.83,Dialogue,,0,0,0,,O, comandante.
+Dialogue: 99,0:02:41.83,0:02:43.97,Dialogue,,0,0,0,,Îți mulțumesc pentru întâmpinare.
+Dialogue: 99,0:02:48.43,0:02:51.00,Dialogue,,0,0,0,,Îți faci griji pentru mine?
+Dialogue: 99,0:02:51.00,0:02:52.15,Dialogue,,0,0,0,,Îmi fac mai mult griji
+Dialogue: 99,0:02:52.15,0:02:54.83,Dialogue,,0,0,0,,dacă vei face ceea ce \Ntrebuie sau nu acolo jos.
+Dialogue: 99,0:03:02.13,0:03:04.63,Dialogue,,0,0,0,,Mai întâi, un tratat de comerț.
+Dialogue: 99,0:03:04.63,0:03:06.29,Dialogue,,0,0,0,,Și apoi...
+Dialogue: 99,0:03:07.05,0:03:08.23,Dialogue,,0,0,0,,Nu grăbi lucrurile.
+Dialogue: 99,0:03:10.14,0:03:11.92,Dialogue,,0,0,0,,Nu ți-am spus mai-nainte?
+Dialogue: 99,0:03:12.39,0:03:13.78,Dialogue,,0,0,0,,Va funcționa.
+Dialogue: 99,0:03:15.02,0:03:16.33,Dialogue,,0,0,0,,Da, așa este.
+Dialogue: 99,0:03:25.93,0:03:27.01,Dialogue,,0,0,0,,Și acum,
+Dialogue: 99,0:03:28.16,0:03:31.02,Dialogue,,0,0,0,,e timpul să ne luăm ultimul rămas bun de la Regina Luminii.
+Dialogue: 99,0:03:31.38,0:03:32.20,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:03:43.74,0:03:47.91,Dialogue,,0,0,0,,Atât de multe... \NSunt incredibili de generoși.
+Dialogue: 99,0:03:52.40,0:03:54.49,Dialogue,,0,0,0,,Mă voi simți puțin singură,
+Dialogue: 99,0:03:55.21,0:03:58.91,Dialogue,,0,0,0,,dar nu-l pot lăsa pe Prinț să \Npetreacă mai mult timp cu ea,
+Dialogue: 99,0:03:59.67,0:04:01.62,Dialogue,,0,0,0,,deci presupun că acest ordin a venit la fix.
+Dialogue: 99,0:04:08.47,0:04:09.69,Dialogue,,0,0,0,,Scuzați-ne.
+Dialogue: 99,0:04:38.64,0:04:39.43,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:04:49.01,0:04:50.31,Dialogue,,0,0,0,,Este gata.
+Dialogue: 99,0:04:50.31,0:04:51.27,Dialogue,,0,0,0,,Da, Maiestate.
+Dialogue: 99,0:05:06.14,0:05:08.58,Dialogue,,0,0,0,,Ne dorim un tratat de comerț.
+Dialogue: 99,0:05:08.58,0:05:10.99,Dialogue,,0,0,0,,Vă rog să duceți acest mesaj regelui vostru.
+Dialogue: 99,0:05:12.68,0:05:13.96,Dialogue,,0,0,0,,Cum porunciți.
+Dialogue: 99,0:05:13.96,0:05:16.12,Dialogue,,0,0,0,,Acesta va fi un suvenir bun.
+Dialogue: 99,0:05:16.12,0:05:17.99,Dialogue,,0,0,0,,Vă mulțumim, Maiestatea Voastră.
+Dialogue: 99,0:05:17.99,0:05:20.29,Dialogue,,0,0,0,,Nu ai spus-o tu însuți că
+Dialogue: 99,0:05:20.65,0:05:23.38,Dialogue,,0,0,0,,dacă ne dorim echilibru,
+Dialogue: 99,0:05:23.38,0:05:25.40,Dialogue,,0,0,0,,regatele noastre sunt asemănătoare?
+Dialogue: 99,0:05:26.42,0:05:31.13,Dialogue,,0,0,0,,Și dacă putem face un nou tratat, \Nsunt sigură că...
+Dialogue: 99,0:05:40.88,0:05:43.28,Dialogue,,0,0,0,,Trebuie să ne luăm rămas bun acum.
+Dialogue: 99,0:05:43.28,0:05:46.65,Dialogue,,0,0,0,,Da, ți-am încredințat o scrisoare.
+Dialogue: 99,0:05:47.25,0:05:49.98,Dialogue,,0,0,0,,Nu, acesta este sfârșitul.
+Dialogue: 99,0:05:50.74,0:05:54.75,Dialogue,,0,0,0,,Echilibrul este principiul acestei lumi.
+Dialogue: 99,0:05:54.75,0:05:59.62,Dialogue,,0,0,0,,Este adevărat că toate \Nființele ar trebui protejate.
+Dialogue: 99,0:05:59.62,0:06:01.70,Dialogue,,0,0,0,,Dar numai cei puternici o pot face.
+Dialogue: 99,0:06:01.70,0:06:06.72,Dialogue,,0,0,0,,Cei slabi trebuie să se spună celorlalți.
+Dialogue: 99,0:06:07.04,0:06:08.73,Dialogue,,0,0,0,,Domnule reprezentant?
+Dialogue: 99,0:06:08.73,0:06:10.92,Dialogue,,0,0,0,,Sigur le e bine oamenilor din Regatul Alb.
+Dialogue: 99,0:06:11.51,0:06:17.52,Dialogue,,0,0,0,,Ei duc vieți îmbelșugate mulțumită Sufletului Abundent și Runei Creatoare.
+Dialogue: 99,0:06:18.43,0:06:21.69,Dialogue,,0,0,0,,Dar noi cei care ne târâm \Npe pământ suntem diferiți.
+Dialogue: 99,0:06:21.69,0:06:23.94,Dialogue,,0,0,0,,Acest continent plutește deasupra noastră.
+Dialogue: 99,0:06:23.94,0:06:27.65,Dialogue,,0,0,0,,De ce stăm noi în umbra lui?
+Dialogue: 99,0:06:27.97,0:06:32.16,Dialogue,,0,0,0,,Ca să se mențină echilibrul dintre pământ și cer, întuneric și lumină.
+Dialogue: 99,0:06:32.16,0:06:35.08,Dialogue,,0,0,0,,Așa au stat lucrurile de \Nla începutul creației.
+Dialogue: 99,0:06:39.05,0:06:41.79,Dialogue,,0,0,0,,De asta nu suntem la fel.
+Dialogue: 99,0:06:41.79,0:06:45.24,Dialogue,,0,0,0,,"Așa au stat lucrurile" sunt pur și simplu
+Dialogue: 99,0:06:45.71,0:06:48.17,Dialogue,,0,0,0,,niște cuvinte convenabile \Npentru cei puternici!
+Dialogue: 99,0:06:49.13,0:06:50.44,Dialogue,,0,0,0,,Adel?
+Dialogue: 99,0:06:50.44,0:06:51.97,Dialogue,,0,0,0,,Este cumva o glumă?
+Dialogue: 99,0:06:55.43,0:06:58.35,Dialogue,,0,0,0,,Vă mulțumesc pentru simpatie.
+Dialogue: 99,0:07:01.65,0:07:04.40,Dialogue,,0,0,0,,Dar nu am nevoie de ea!
+Dialogue: 99,0:07:04.40,0:07:07.11,Dialogue,,0,0,0,,Încearcă să spui asta după \Nce vei fi una cu pământul!
+Dialogue: 99,0:07:08.49,0:07:10.18,Dialogue,,0,0,0,,Maiestate!
+Dialogue: 99,0:07:12.11,0:07:13.32,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:07:38.21,0:07:39.48,Dialogue,,0,0,0,,Regatul Negru...
+Dialogue: 99,0:07:43.29,0:07:44.44,Dialogue,,0,0,0,,P-Phious!
+Dialogue: 99,0:07:44.44,0:07:46.48,Dialogue,,0,0,0,,Reține-l!
+Dialogue: 99,0:07:51.40,0:07:52.41,Dialogue,,0,0,0,,Barbarule!
+Dialogue: 99,0:07:52.72,0:07:54.70,Dialogue,,0,0,0,,Voi nu sunteți oameni!
+Dialogue: 99,0:07:59.79,0:08:02.51,Dialogue,,0,0,0,,Am văzut cum face regatul vostru lucrurile!
+Dialogue: 99,0:08:12.18,0:08:14.47,Dialogue,,0,0,0,,Am fost un prost că
+Dialogue: 99,0:08:14.47,0:08:16.43,Dialogue,,0,0,0,,am decis să am încredere în voi!
+Dialogue: 99,0:08:17.89,0:08:20.24,Dialogue,,0,0,0,,Dacă așa vreți să fie lucrurile,
+Dialogue: 99,0:08:20.24,0:08:22.86,Dialogue,,0,0,0,,vă voi șterge și pe voi, \Nși pământul pe care vă târâți!
+Dialogue: 99,0:08:24.15,0:08:25.65,Dialogue,,0,0,0,,Aduceți funii!
+Dialogue: 99,0:08:26.84,0:08:27.85,Dialogue,,0,0,0,,Așteptați.
+Dialogue: 99,0:08:33.37,0:08:34.82,Dialogue,,0,0,0,,Mai târziu, mă voi bucura
+Dialogue: 99,0:08:34.82,0:08:38.35,Dialogue,,0,0,0,,făcându-te să-mi spui tot ce \Nștii despre regatul vostru.
+Dialogue: 99,0:08:40.94,0:08:42.54,Dialogue,,0,0,0,,Așteptați.
+Dialogue: 99,0:08:44.18,0:08:45.83,Dialogue,,0,0,0,,El este...
+Dialogue: 99,0:08:46.54,0:08:47.52,Dialogue,,0,0,0,,Maiestate!
+Dialogue: 99,0:08:47.52,0:08:49.50,Dialogue,,0,0,0,,Pe aici, repede!
+Dialogue: 99,0:08:49.82,0:08:51.21,Dialogue,,0,0,0,,Î-În regulă.
+Dialogue: 99,0:09:03.56,0:09:07.35,Dialogue,,0,0,0,,Va trebui să le aduc ceva în schimb la următoarea mea vizită.
+Dialogue: 99,0:09:12.67,0:09:14.08,Dialogue,,0,0,0,,C-Ce?!
+Dialogue: 99,0:09:15.95,0:09:17.99,Dialogue,,0,0,0,,Se pare că reprezentantul a fost arestat!
+Dialogue: 99,0:09:17.99,0:09:19.06,Dialogue,,0,0,0,,Trebuie să plecăm!
+Dialogue: 99,0:09:19.06,0:09:20.48,Dialogue,,0,0,0,,Ce?! Ce vreți să spuneți?!
+Dialogue: 99,0:09:20.48,0:09:22.17,Dialogue,,0,0,0,,Nici noi nu știm detalii!
+Dialogue: 99,0:09:22.17,0:09:24.13,Dialogue,,0,0,0,,Atunci, cum rămâne cu cei doi?!
+Dialogue: 99,0:09:25.04,0:09:28.04,Dialogue,,0,0,0,,Vom pleca deocamdată și \Nvom vedea ce se întâmplă.
+Dialogue: 99,0:09:28.04,0:09:30.50,Dialogue,,0,0,0,,V-Vom vedea ce se întâmplă?
+Dialogue: 99,0:09:30.50,0:09:33.11,Dialogue,,0,0,0,,Ce anume mai exact?
+Dialogue: 99,0:09:43.84,0:09:45.16,Dialogue,,0,0,0,,La naiba!
+Dialogue: 99,0:09:45.16,0:09:47.21,Dialogue,,0,0,0,,Prietenie între regatele noastre?
+Dialogue: 99,0:09:48.54,0:09:50.48,Dialogue,,0,0,0,,Am fost un prost!
+Dialogue: 99,0:09:50.48,0:09:52.60,Dialogue,,0,0,0,,Fir-ar! La naiba cu toate!
+Dialogue: 99,0:10:00.41,0:10:01.72,Dialogue,,0,0,0,,Phious...
+Dialogue: 99,0:10:04.48,0:10:06.41,Dialogue,,0,0,0,,E în regulă, nu-i așa?
+Dialogue: 99,0:10:06.41,0:10:08.37,Dialogue,,0,0,0,,Am reușit să prevenim atacul.
+Dialogue: 99,0:10:09.03,0:10:10.08,Dialogue,,0,0,0,,Cum este asta "bine"?!
+Dialogue: 99,0:10:11.17,0:10:12.80,Dialogue,,0,0,0,,Phious.
+Dialogue: 99,0:10:18.26,0:10:19.88,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:10:19.88,0:10:24.72,Dialogue,,0,0,0,,Dar... Sheama, Theo, nu mai înțeleg.
+Dialogue: 99,0:10:25.38,0:10:26.81,Dialogue,,0,0,0,,Ce nu înțelegi?
+Dialogue: 99,0:10:30.47,0:10:32.58,Dialogue,,0,0,0,,Echilibrul înseamnă opoziție?
+Dialogue: 99,0:10:33.22,0:10:37.28,Dialogue,,0,0,0,,Cavalerii sunt obligați să lupte pe vecie?
+Dialogue: 99,0:10:40.94,0:10:43.70,Dialogue,,0,0,0,,Dacă da, atunci Maiestatea ei...
+Dialogue: 99,0:10:47.44,0:10:48.91,Dialogue,,0,0,0,,Pe vecie?
+Dialogue: 99,0:10:49.41,0:10:51.38,Dialogue,,0,0,0,,Nu ai experimentat niciodată asta,
+Dialogue: 99,0:10:51.38,0:10:53.65,Dialogue,,0,0,0,,deci de ce îți faci griji?
+Dialogue: 99,0:10:54.21,0:10:55.50,Dialogue,,0,0,0,,Theo?!
+Dialogue: 99,0:10:55.50,0:10:58.84,Dialogue,,0,0,0,,Există oare cineva care a trăit atât?
+Dialogue: 99,0:11:00.33,0:11:04.33,Dialogue,,0,0,0,,M-am certat ieri cu copilul de vizavi,
+Dialogue: 99,0:11:04.33,0:11:07.08,Dialogue,,0,0,0,,dar acea ceartă nu va ține pe vecie.
+Dialogue: 99,0:11:07.08,0:11:09.73,Dialogue,,0,0,0,,Dacă voi continua cu ea,
+Dialogue: 99,0:11:09.73,0:11:12.27,Dialogue,,0,0,0,,te vei supăra pe mine, nu-i așa?
+Dialogue: 99,0:11:12.27,0:11:13.42,Dialogue,,0,0,0,,Theo.
+Dialogue: 99,0:11:13.42,0:11:15.52,Dialogue,,0,0,0,,Nu pot face adulții asta?
+Dialogue: 99,0:11:17.09,0:11:19.87,Dialogue,,0,0,0,,Nu sunt adulții mai buni la a se controla?
+Dialogue: 99,0:11:22.41,0:11:23.62,Dialogue,,0,0,0,,Într-o zi vei înțelegi.
+Dialogue: 99,0:11:24.39,0:11:26.89,Dialogue,,0,0,0,,Nu vreau să aud scuze.
+Dialogue: 99,0:11:27.55,0:11:28.47,Dialogue,,0,0,0,,Theo!
+Dialogue: 99,0:11:37.47,0:11:38.76,Dialogue,,0,0,0,,Phious...
+Dialogue: 99,0:11:39.82,0:11:41.07,Dialogue,,0,0,0,,Poate că Theo...
+Dialogue: 99,0:11:41.84,0:11:47.26,Dialogue,,0,0,0,,va reusi să creeze o eră \Nunde nu vor exista lupte.
+Dialogue: 99,0:11:49.32,0:11:50.66,Dialogue,,0,0,0,,Asta e ceea ce cred.
+Dialogue: 99,0:11:52.27,0:11:55.15,Dialogue,,0,0,0,,Da, este un băiat bun.
+Dialogue: 99,0:11:55.69,0:11:56.65,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:11:58.39,0:11:59.40,Dialogue,,0,0,0,,Eu...
+Dialogue: 99,0:12:06.25,0:12:08.44,Dialogue,,0,0,0,,Avem o datorie.
+Dialogue: 99,0:12:08.44,0:12:10.07,Dialogue,,0,0,0,,Nu ne permitem să ezităm.
+Dialogue: 99,0:12:11.27,0:12:12.47,Dialogue,,0,0,0,,Presupun că nu.
+Dialogue: 99,0:12:16.37,0:12:18.91,Dialogue,,0,0,0,,Nu sta treaz până târziu.
+Dialogue: 99,0:12:19.61,0:12:20.77,Dialogue,,0,0,0,,Noapte bună.
+Dialogue: 99,0:12:25.79,0:12:27.91,Dialogue,,0,0,0,,Datorie, nu?
+Dialogue: 99,0:12:31.97,0:12:33.56,Dialogue,,0,0,0,,Îngrijorările mele
+Dialogue: 99,0:12:33.56,0:12:36.41,Dialogue,,0,0,0,,cu siguranță sunt nimic în comparație cu ale Maiestății Sale.
+Dialogue: 99,0:12:38.03,0:12:40.62,Dialogue,,0,0,0,,Eu trebuie doar s-o protejez.
+Dialogue: 99,0:12:41.29,0:12:43.98,Dialogue,,0,0,0,,Să dau tot ce am mai bun ca \Ns-o protejez pe Maiestatea Sa.
+Dialogue: 99,0:12:46.26,0:12:49.41,Dialogue,,0,0,0,,Negru pe pământ, alb în cer...
+Dialogue: 99,0:12:50.08,0:12:54.94,Dialogue,,0,0,0,,De ce trebuie ca cei care își doresc să păstreze echilibrul să lupte între ei?
+Dialogue: 99,0:12:57.93,0:12:59.71,Dialogue,,0,0,0,,O, Rună Creatoare.
+Dialogue: 99,0:13:00.52,0:13:05.68,Dialogue,,0,0,0,,Dacă destinul acestei lumi este ca cerul și pământul să se urască,
+Dialogue: 99,0:13:06.96,0:13:10.15,Dialogue,,0,0,0,,eu s-ar putea să nu pot face față.
+Dialogue: 99,0:13:10.95,0:13:17.67,Dialogue,,0,0,0,,Să stau deasupra întregii \Nuri este mult prea mult...
+Dialogue: 99,0:13:26.65,0:13:30.46,Dialogue,,0,0,0,,Preoteasă Albă, Regină a Luminii,
+Dialogue: 99,0:13:30.46,0:13:32.79,Dialogue,,0,0,0,,trebuie să iei o decizie
+Dialogue: 99,0:13:33.31,0:13:36.41,Dialogue,,0,0,0,,în legătură cu ceea ce trebuie să protejăm.
+Dialogue: 99,0:13:36.97,0:13:38.50,Dialogue,,0,0,0,,Ceea ce...
+Dialogue: 99,0:13:39.21,0:13:41.71,Dialogue,,0,0,0,,trebuie să protejăm?
+Dialogue: 99,0:14:13.30,0:14:14.58,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:14:18.79,0:14:20.67,Dialogue,,0,0,0,,Am fost un prost!
+Dialogue: 99,0:14:24.88,0:14:27.57,Dialogue,,0,0,0,,Apoi am fost adus aici.
+Dialogue: 99,0:14:31.66,0:14:33.51,Dialogue,,0,0,0,,{\i1}În acel moment...
+Dialogue: 99,0:14:36.25,0:14:38.73,Dialogue,,0,0,0,,{\i1}de ce am protejat-o pe Regina Luminii?
+Dialogue: 99,0:14:40.53,0:14:46.86,Dialogue,,0,0,0,,{\i1}Am venit ca să ne întârim relațiile de prietenie cu Regatul Alb, deci poate a fost un lucru natural?
+Dialogue: 99,0:14:47.78,0:14:54.99,Dialogue,,0,0,0,,{\i1}Dar dacă Adel a primit ordine secrete ca s-o omoare pe Regina Luminii fără ca eu să știu...
+Dialogue: 99,0:14:55.92,0:15:01.86,Dialogue,,0,0,0,,{\i1}Poate că ar fi fost mai bine pentru Regatul Negru să-l las să le ducă la bun sfârșit.
+Dialogue: 99,0:15:03.71,0:15:04.88,Dialogue,,0,0,0,,{\i1}Nu știu.
+Dialogue: 99,0:15:05.65,0:15:08.24,Dialogue,,0,0,0,,{\i1}În acel moment...
+Dialogue: 99,0:15:09.90,0:15:11.36,Dialogue,,0,0,0,,{\i1}ce am ales?
+Dialogue: 99,0:15:12.28,0:15:17.23,Dialogue,,0,0,0,,{\i1}În acel moment, ce încercam să spun?
+Dialogue: 99,0:15:26.86,0:15:28.00,Dialogue,,0,0,0,,Regatul Negru...
+Dialogue: 99,0:15:33.73,0:15:38.81,Dialogue,,0,0,0,,Regatul Negru și oamenii săi sunt la fel.
+Dialogue: 99,0:15:38.81,0:15:43.83,Dialogue,,0,0,0,,Nu avem de ales decât să \Nascultăm de regele nostru.
+Dialogue: 99,0:15:44.97,0:15:47.64,Dialogue,,0,0,0,,Te rugăm... să nu-ți faci \No părere rea despre noi.
+Dialogue: 99,0:15:48.92,0:15:50.52,Dialogue,,0,0,0,,{\i1}Greșesc.
+Dialogue: 99,0:15:50.52,0:15:53.25,Dialogue,,0,0,0,,{\i1}Acela nu a fost un mod de a-mi cere iertare.
+Dialogue: 99,0:15:53.79,0:15:58.15,Dialogue,,0,0,0,,{\i1}Nu aia ar fi trebuit să-i spun Reginii Luminii.
+Dialogue: 99,0:16:08.32,0:16:11.09,Dialogue,,0,0,0,,O pisică... albă?
+Dialogue: 99,0:16:15.07,0:16:16.35,Dialogue,,0,0,0,,De unde a venit?
+Dialogue: 99,0:16:21.77,0:16:22.97,Dialogue,,0,0,0,,C-Ce se petrece...
+Dialogue: 99,0:16:27.45,0:16:28.95,Dialogue,,0,0,0,,Mă cheamă?
+Dialogue: 99,0:16:32.05,0:16:33.23,Dialogue,,0,0,0,,Totuși...
+Dialogue: 99,0:16:56.67,0:16:58.79,Dialogue,,0,0,0,,Nu este niciun gardian prin preajmă.
+Dialogue: 99,0:16:59.46,0:17:00.24,Dialogue,,0,0,0,,Nu-mi spune că
+Dialogue: 99,0:17:00.99,0:17:03.30,Dialogue,,0,0,0,,mă lasă cumva să evadez?
+Dialogue: 99,0:18:22.10,0:18:23.66,Dialogue,,0,0,0,,Regina?!
+Dialogue: 99,0:19:22.88,0:19:25.84,Dialogue,,0,0,0,,Când ne ținem de mână astfel...
+Dialogue: 99,0:19:27.31,0:19:30.23,Dialogue,,0,0,0,,ne putem sprijini reciproc, și totuși...
+Dialogue: 99,0:19:33.12,0:19:34.88,Dialogue,,0,0,0,,Nu există numai lumină.
+Dialogue: 99,0:19:35.64,0:19:38.47,Dialogue,,0,0,0,,Există și întuneric în lume.
+Dialogue: 99,0:19:39.34,0:19:43.44,Dialogue,,0,0,0,,Ambele pot oferi liniște sufletească.
+Dialogue: 99,0:19:44.68,0:19:45.79,Dialogue,,0,0,0,,Și totuși...
+Dialogue: 99,0:19:53.66,0:19:54.50,Dialogue,,0,0,0,,Să protejez...
+Dialogue: 99,0:19:59.99,0:20:03.35,Dialogue,,0,0,0,,Și eu îmi doresc același lucru.
+Dialogue: 99,0:20:03.35,0:20:07.66,Dialogue,,0,0,0,,Dacă va face pe toată lumea \Nfericită din regatele noastre,
+Dialogue: 99,0:20:08.58,0:20:13.27,Dialogue,,0,0,0,,te voi susține, \Nchiar și de jos de pe pământ.
+Dialogue: 99,0:20:17.49,0:20:19.86,Dialogue,,0,0,0,,Vreau ca tu să urmezi
+Dialogue: 99,0:20:20.24,0:20:21.84,Dialogue,,0,0,0,,calea în care crezi.
+Dialogue: 99,0:20:29.97,0:20:33.35,Dialogue,,0,0,0,,Eu sunt succesorul Regelui Întunericului.
+Dialogue: 99,0:20:34.10,0:20:36.48,Dialogue,,0,0,0,,Prințul Întunericului.
+Dialogue: 99,0:20:37.17,0:20:40.16,Dialogue,,0,0,0,,Da, am simțit asta.
+Dialogue: 99,0:20:41.17,0:20:44.18,Dialogue,,0,0,0,,Eu voi urca pe tron.
+Dialogue: 99,0:20:45.00,0:20:48.96,Dialogue,,0,0,0,,Vom aduce pacea în această lume împreună.
+Dialogue: 99,0:20:51.41,0:20:52.74,Dialogue,,0,0,0,,Îți promit.
+Dialogue: 99,0:20:53.42,0:20:54.73,Dialogue,,0,0,0,,Îți mulțumesc.
+Dialogue: 99,0:20:56.32,0:21:00.94,Dialogue,,0,0,0,,Regatul Alb reprezintă lumina, iar Regatul Negru întunericul... Cerul și pământul.
+Dialogue: 99,0:21:01.62,0:21:05.42,Dialogue,,0,0,0,,Haide să ne susținem reciproc \Ndin locurile în care ne aflăm.
+Dialogue: 99,0:21:06.19,0:21:07.48,Dialogue,,0,0,0,,Este o promisiune.
+Dialogue: 99,0:21:08.38,0:21:11.12,Dialogue,,0,0,0,,Da. Până atunci...
+Dialogue: 99,0:21:12.95,0:21:14.25,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:21:22.75,0:21:23.99,Dialogue,,0,0,0,,Trebuie să plec.
+Dialogue: 99,0:21:24.96,0:21:27.79,Dialogue,,0,0,0,,Îți mulțumesc pentru tot \Nce ai făcut pentru mine.
+Dialogue: 99,0:21:28.47,0:21:31.35,Dialogue,,0,0,0,,Nu-ți face griji pentru mine.
+Dialogue: 99,0:21:33.21,0:21:36.67,Dialogue,,0,0,0,,Te rog să aștepți până \Ncând va veni momentul.
+Dialogue: 99,0:21:38.77,0:21:39.60,Dialogue,,0,0,0,,Așa voi face.
+Dialogue: 99,0:21:40.86,0:21:44.20,Dialogue,,0,0,0,,{\i1}Nu ești singură.
+Dialogue: 99,0:21:46.40,0:21:49.33,Dialogue,,0,0,0,,{\i1}Lumina și întunericul sunt doi poli opuși.
+Dialogue: 99,0:21:50.17,0:21:54.01,Dialogue,,0,0,0,,{\i1}Nu se ating niciodată și crează echilibrul.
+Dialogue: 99,0:21:55.21,0:21:57.92,Dialogue,,0,0,0,,{\i1}Îmi voi ține...
+Dialogue: 99,0:22:00.71,0:22:04.02,Dialogue,,0,0,0,,{\i1}...promisiunea față de tine.
 Dialogue: 0,0:00:47.61,0:00:50.49,DedzuyaSigns,,0,0,0,,{\an2\pos(680,120)\fnLinux Libertine Semibold\fs100\fsp1\alpha&H30&\blur20\fad(650,0)\t(0,650,0.5,\blur2)}SHIRONEKO PROJECT
 Dialogue: 1,0:00:47.61,0:00:50.49,DedzuyaSigns,,0,0,0,,{\an2\pos(680,120)\fnLinux Libertine Semibold\fs100\fsp1\alpha&H90&\blur20\t(0,650,\c&H422800&)\t(0,650,0.5,\blur0.4)\t(0,650,\alpha&H00&)}S{\c&HFFFFFF&\t(0,650,\c&H4E2600&)}H{\c&HFFFFFF&\t(0,650,\c&H5A2300&)}I{\c&HFFFFFF&\t(0,650,\c&H672101&)}R{\c&HFFFFFF&\t(0,650,\c&H731E01&)}O{\c&HFFFFFF&\t(0,650,\c&H7F1C01&)}N{\c&HFFFFFF&\t(0,650,\c&H8C1A02&)}E{\c&HFFFFFF&\t(0,650,\c&H981702&)}K{\c&HFFFFFF&\t(0,650,\c&HA41502&)}O {\c&HFFFFFF&\t(0,650,\c&H8A1008&)}P{\c&HFFFFFF&\t(0,650,\c&H7E0E0B&)}R{\c&HFFFFFF&\t(0,650,\c&H710B0E&)}O{\c&HFFFFFF&\t(0,650,\c&H640810&)}J{\c&HFFFFFF&\t(0,650,\c&H580613&)}E{\c&HFFFFFF&\t(0,650,\c&H4B0416&)}C{\c&HFFFFFF&\t(0,650,\c&H3E0119&)}T
 Dialogue: 0,0:01:59.05,0:01:59.09,DedzuyaSigns,,0,0,0,,{\an2\pos(650,235)\fnLinux Libertine Semibold\fs52\fsp1\1c&H000102&\blur1}SHI{\1c&H010102&}RONEKO P{\1c&H010101&}ROJEC{\1c&H000101&}T

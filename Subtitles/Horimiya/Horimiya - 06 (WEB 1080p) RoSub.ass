@@ -33,441 +33,441 @@ Style: ED TL,Hiragino Maru Gothic Semibold,64,&H00FFFFFF,&H000000FF,&H00000000,&
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:14.09,0:00:15.91,Dialogue,,0,0,0,,Cât vei mai sta la noi, tată?
-Dialogue: 100,0:00:15.91,0:00:18.12,Dialogue,,0,0,0,,Nu am idee.
-Dialogue: 100,0:00:18.12,0:00:20.66,Dialogue,,0,0,0,,Vei fi trist dacă voi pleca, nu-i așa, Souta?
-Dialogue: 100,0:00:20.66,0:00:21.96,Dialogue,,0,0,0,,Am nevoie la baie!
-Dialogue: 100,0:00:21.96,0:00:24.34,Dialogue,,0,0,0,,Bine, vezi să nu pici pe conductă!
-Dialogue: 100,0:00:24.34,0:00:25.73,Dialogue,,0,0,0,,Dragule...
-Dialogue: 100,0:00:25.73,0:00:29.11,Dialogue,,0,0,0,,Și eu mă întrebam același lucru. \NCât vei mai sta pe aici?
-Dialogue: 100,0:00:29.66,0:00:30.42,Dialogue,,0,0,0,,De ce întrebi asta?
-Dialogue: 100,0:00:31.94,0:00:33.30,Dialogue,,0,0,0,,Yuriko...
-Dialogue: 100,0:00:33.30,0:00:35.85,Dialogue,,0,0,0,,asta nu mai e casa mea?
-Dialogue: 100,0:00:36.48,0:00:41.21,Dialogue,,0,0,0,,Doar mă întrebam dacă este în regulă ca tu să fii aici atâta timp pentru {\i1}serviciul{\i0} tău.
-Dialogue: 100,0:00:41.21,0:00:42.18,Dialogue,,0,0,0,,M-am întors.
-Dialogue: 100,0:00:42.60,0:00:45.44,Dialogue,,0,0,0,,Kyousuke, a venit și Miyamura.
-Dialogue: 100,0:00:45.44,0:00:47.15,Dialogue,,0,0,0,,Ce? Serios?!
-Dialogue: 100,0:00:47.15,0:00:48.19,Dialogue,,0,0,0,,Vă mulțumesc pentru primire.
-Dialogue: 100,0:00:48.48,0:00:51.29,Dialogue,,0,0,0,,Ce? Cine naiba ești tu?
-Dialogue: 100,0:00:51.29,0:00:54.07,Dialogue,,0,0,0,,Este cel mai bun prieten al tău, Miyamura.
-Dialogue: 100,0:00:54.07,0:00:54.99,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:00:55.95,0:00:57.32,Dialogue,,0,0,0,,M-Mă scuzați...
-Dialogue: 100,0:00:57.71,0:01:00.11,Dialogue,,0,0,0,,V-Vă mulțumesc pentru primire...
-Dialogue: 100,0:01:00.11,0:01:02.35,Dialogue,,0,0,0,,Chiar {\i1}ești{\i0} tu, Miyamura!
-Dialogue: 100,0:01:02.35,0:01:04.58,Dialogue,,0,0,0,,Da, aici Miyamura.
-Dialogue: 100,0:01:04.93,0:01:07.54,Dialogue,,0,0,0,,Hei, îi e destul de cald și \Nfără să-l sufoci tu. Mișcă.
-Dialogue: 100,0:01:07.90,0:01:10.31,Dialogue,,0,0,0,,Chiar transpiri destul de mult.
-Dialogue: 100,0:01:10.31,0:01:12.25,Dialogue,,0,0,0,,Are sens la ce căldură e afară.
-Dialogue: 100,0:01:12.25,0:01:14.15,Dialogue,,0,0,0,,Da, așa este...
-Dialogue: 100,0:01:14.15,0:01:15.32,Dialogue,,0,0,0,,{\i1}De fapt, este de la frică.
-Dialogue: 100,0:01:15.32,0:01:16.80,Dialogue,,0,0,0,,Mi-a venit o idee, Miyamura!
-Dialogue: 100,0:01:16.80,0:01:17.80,Dialogue,,0,0,0,,Ce anume?
-Dialogue: 100,0:01:18.10,0:01:20.37,Dialogue,,0,0,0,,Ar trebui să faci o baie cu mine!
-Dialogue: 100,0:01:20.37,0:01:21.81,Dialogue,,0,0,0,,Stai, ce?!
-Dialogue: 100,0:01:21.81,0:01:24.71,Dialogue,,0,0,0,,Cada e deja pregătită. \NDeci poți merge.
-Dialogue: 100,0:01:24.71,0:01:26.82,Dialogue,,0,0,0,,Va mai dura ceva până e gata cina.
-Dialogue: 100,0:01:26.82,0:01:28.42,Dialogue,,0,0,0,,O, nu, sunt în regulă.
-Dialogue: 100,0:01:28.42,0:01:29.79,Dialogue,,0,0,0,,Nu vrei să faci baie cu mine?
-Dialogue: 100,0:01:29.79,0:01:32.03,Dialogue,,0,0,0,,Ce? Nu, nu este asta.
-Dialogue: 100,0:01:32.03,0:01:33.30,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:01:33.30,0:01:34.74,Dialogue,,0,0,0,,Atunci, haide să mergem!
-Dialogue: 100,0:01:35.93,0:01:40.29,Dialogue,,0,0,0,,{\i1\an8}Haide, nu fi așa timidă, deci...
-Dialogue: 100,0:01:36.77,0:01:39.75,Dialogue,,0,0,0,,Haide, nu fi așa timid, ne vom distra!
-Dialogue: 100,0:01:40.29,0:01:42.33,Dialogue,,0,0,0,,Ș-Știți, este puțin cam...
-Dialogue: 100,0:01:44.80,0:01:47.47,Dialogue,,0,0,0,,K-Kyousuke! Vă rog să nu vă temeți!
-Dialogue: 100,0:01:47.47,0:01:50.02,Dialogue,,0,0,0,,Nu sunt tatuaje yakuza, vă jur!
-Dialogue: 100,0:01:50.02,0:01:50.84,Dialogue,,0,0,0,,{\i1}O, așa este.
-Dialogue: 100,0:01:51.72,0:01:54.34,Dialogue,,0,0,0,,Știu că asta este o întrebare stupidă,
-Dialogue: 100,0:01:54.76,0:01:56.76,Dialogue,,0,0,0,,dar astea sunt bețișoare de unică folosință, nu-i așa?
-Dialogue: 100,0:01:56.76,0:01:58.78,Dialogue,,0,0,0,,Ai terminat de mâncat și abia acum observi?
-Dialogue: 100,0:01:58.78,0:02:00.72,Dialogue,,0,0,0,,Dar ale lui Miyamura se \Nasortează cu ale voastre.
-Dialogue: 100,0:02:01.65,0:02:02.97,Dialogue,,0,0,0,,Îmi pare rău.
-Dialogue: 100,0:02:02.97,0:02:04.97,Dialogue,,0,0,0,,Oh, se face târziu!
-Dialogue: 100,0:02:05.33,0:02:06.90,Dialogue,,0,0,0,,Îmi cer scuze că am stat atât de mult.
-Dialogue: 100,0:02:06.90,0:02:09.03,Dialogue,,0,0,0,,Poți la fel de bine să rămâi și peste noapte.
-Dialogue: 100,0:02:09.03,0:02:11.50,Dialogue,,0,0,0,,Ce?! Vă mulțumesc pentru \Nofertă, dar nu ar trebui să...
-Dialogue: 100,0:02:11.50,0:02:16.04,Dialogue,,0,0,0,,Dacă Izumi va dormi la noi, nu vom avea o saltea și pentru tine, dragule!
-Dialogue: 100,0:02:16.04,0:02:19.53,Dialogue,,0,0,0,,De ce este a lui? Și de ce are {\i1}el{\i0} prioritate mai mare decât {\i1}mine{\i0}?!
-Dialogue: 100,0:02:19.53,0:02:21.43,Dialogue,,0,0,0,,Vei dormi la noi?!
-Dialogue: 100,0:02:21.43,0:02:23.03,Dialogue,,0,0,0,,Nu aș vrea să deranjez...
-Dialogue: 100,0:02:23.03,0:02:25.24,Dialogue,,0,0,0,,Hei, hei! Poți dormi în camera mea!
-Dialogue: 100,0:02:25.24,0:02:28.00,Dialogue,,0,0,0,,Nu! Miyamura va dormi cu mine!
-Dialogue: 100,0:02:28.00,0:02:29.46,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:02:31.98,0:02:33.71,Dialogue,,0,0,0,,Bine. Noapte bună.
-Dialogue: 100,0:02:34.50,0:02:37.81,Dialogue,,0,0,0,,Îmi pare rău că trebuie să împarți camera cu un bătrân ca mine.
-Dialogue: 100,0:02:37.81,0:02:38.47,Dialogue,,0,0,0,,Este în regulă.
-Dialogue: 100,0:02:38.84,0:02:41.10,Dialogue,,0,0,0,,Pariez că ți-ai dori să fii în \Ncamera lui Kyouko acum.
-Dialogue: 100,0:02:41.10,0:02:43.19,Dialogue,,0,0,0,,Nu, nu, nu, nu!
-Dialogue: 100,0:02:45.08,0:02:46.49,Dialogue,,0,0,0,,Hei, Miyamura...
-Dialogue: 100,0:02:47.02,0:02:48.73,Dialogue,,0,0,0,,ce îți place la fata mea?
-Dialogue: 100,0:02:52.95,0:02:53.98,Dialogue,,0,0,0,,Îmi place...
-Dialogue: 100,0:02:54.73,0:02:56.98,Dialogue,,0,0,0,,că nu judecă oamenii după aparențe.
-Dialogue: 100,0:03:02.06,0:03:04.13,Dialogue,,0,0,0,,K-Kyousuke?
-Dialogue: 100,0:03:06.46,0:03:08.08,Dialogue,,0,0,0,,{\i1}A adormit!
-Dialogue: 100,0:04:51.28,0:04:52.81,Dialogue,,0,0,0,,Mă simt de parcă n-am \Ndormit aproape deloc.
-Dialogue: 100,0:04:52.81,0:04:54.31,Dialogue,,0,0,0,,'Neața.
-Dialogue: 100,0:04:54.64,0:04:56.10,Dialogue,,0,0,0,,Hei, 'neața.
-Dialogue: 100,0:05:02.75,0:05:05.20,Dialogue,,0,0,0,,{\i1}Își poartă hainele de la educație fizică din generală.
-Dialogue: 100,0:05:06.03,0:05:07.73,Dialogue,,0,0,0,,Am plecat!
-Dialogue: 100,0:05:07.73,0:05:09.94,Dialogue,,0,0,0,,Distracție plăcută!
-Dialogue: 100,0:05:09.94,0:05:11.33,Dialogue,,0,0,0,,Vreți să merg cu voi până acolo?
-Dialogue: 100,0:05:12.16,0:05:13.54,Dialogue,,0,0,0,,Urmărește-ne și ești ca și mort.
-Dialogue: 100,0:05:14.08,0:05:15.30,Dialogue,,0,0,0,,Am plecat!
-Dialogue: 100,0:05:15.30,0:05:16.33,Dialogue,,0,0,0,,Vă mulțumesc din nou.
-Dialogue: 100,0:05:17.03,0:05:18.33,Dialogue,,0,0,0,,Izumi.
-Dialogue: 100,0:05:18.66,0:05:21.67,Dialogue,,0,0,0,,Când pleci de acasă dimineața, trebuie să spui: "Am plecat."
-Dialogue: 100,0:05:23.34,0:05:25.34,Dialogue,,0,0,0,,A-Am plecat!
-Dialogue: 100,0:05:25.68,0:05:26.94,Dialogue,,0,0,0,,Distracție plăcută.
-Dialogue: 100,0:05:32.21,0:05:33.85,Dialogue,,0,0,0,,Stai puțin...
-Dialogue: 100,0:05:33.85,0:05:36.10,Dialogue,,0,0,0,,Tocmai au ieșit din aceeași casă?
-Dialogue: 100,0:05:38.31,0:05:40.79,Dialogue,,0,0,0,,Pe bune?! Hori din clasa 1?!
-Dialogue: 100,0:05:40.79,0:05:42.67,Dialogue,,0,0,0,,Credeam că este singură!
-Dialogue: 100,0:05:42.67,0:05:43.53,Dialogue,,0,0,0,,Hori?
-Dialogue: 100,0:05:43.53,0:05:45.11,Dialogue,,0,0,0,,Ai o materie opțională cu ea, nu-i așa?
-Dialogue: 100,0:05:45.11,0:05:49.04,Dialogue,,0,0,0,,Este foarte deșteaptă și drăguță.
-Dialogue: 100,0:05:49.04,0:05:49.99,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:05:49.99,0:05:53.16,Dialogue,,0,0,0,,De ce naiba este împreună cu Miyamura?
-Dialogue: 100,0:05:53.16,0:05:55.75,Dialogue,,0,0,0,,Habar n-am, dar eu m-aș \Npotrivi mult mai bine cu ea!
-Dialogue: 100,0:05:56.01,0:05:59.02,Dialogue,,0,0,0,,Am auzit că Hori este \Nîmpreună cu Miyamura!
-Dialogue: 100,0:05:59.02,0:06:00.25,Dialogue,,0,0,0,,Pe bune?!
-Dialogue: 100,0:06:00.25,0:06:02.25,Dialogue,,0,0,0,,Tipul ăla emo?!
-Dialogue: 100,0:06:02.25,0:06:04.13,Dialogue,,0,0,0,,Vai, Doamne, ce e în {\i1}neregulă{\i0} cu ea?!
-Dialogue: 100,0:06:04.13,0:06:06.13,Dialogue,,0,0,0,,Că tot vorbeam de gusturi proaste!
-Dialogue: 100,0:06:09.55,0:06:12.08,Dialogue,,0,0,0,,Cu toții îi bârfesc pe la spate!
-Dialogue: 100,0:06:12.08,0:06:14.93,Dialogue,,0,0,0,,Și probabil și ei îi aud.
-Dialogue: 100,0:06:15.22,0:06:17.83,Dialogue,,0,0,0,,Evident, din moment ce o fac fix în același loc în care sunt și ei!
-Dialogue: 100,0:06:17.83,0:06:20.19,Dialogue,,0,0,0,,Chiar și persoane din alte \Nclase se alătură. Ce nemernici!
-Dialogue: 100,0:06:20.19,0:06:21.53,Dialogue,,0,0,0,,La naiba!
-Dialogue: 100,0:06:21.53,0:06:26.57,Dialogue,,0,0,0,,Știu. Exact când Miyamura a reușit să ajungă în acest punct...
-Dialogue: 100,0:06:28.94,0:06:31.32,Dialogue,,0,0,0,,Ce?! De ce ești {\i1}tu{\i0} cea care plânge, Yoshikawa?!
-Dialogue: 100,0:06:31.32,0:06:33.13,Dialogue,,0,0,0,,Hei...
-Dialogue: 100,0:06:33.13,0:06:35.33,Dialogue,,0,0,0,,Gata, gata. Va fi în regulă.
-Dialogue: 100,0:06:35.33,0:06:38.96,Dialogue,,0,0,0,,Hei, Hori, chiar ești \Nîmpreună cu Miyamura?
-Dialogue: 100,0:06:39.66,0:06:40.71,Dialogue,,0,0,0,,Da, de ce?
-Dialogue: 100,0:06:40.71,0:06:42.13,Dialogue,,0,0,0,,Nu se poate!
-Dialogue: 100,0:06:42.13,0:06:45.50,Dialogue,,0,0,0,,Pariez că toți băieții pe care \Ni-ai respins plâng chiar acum!
-Dialogue: 100,0:06:45.50,0:06:47.33,Dialogue,,0,0,0,,Nu am refuzat așa de mulți, știți.
-Dialogue: 100,0:06:47.33,0:06:49.84,Dialogue,,0,0,0,,Haide, nu fi așa modestă acum, Hori.
-Dialogue: 100,0:06:50.32,0:06:52.29,Dialogue,,0,0,0,,Nu le acorda atenție, Miyamura.
-Dialogue: 100,0:06:52.29,0:06:54.47,Dialogue,,0,0,0,,Sunt cu toții niște idioți.
-Dialogue: 100,0:06:54.47,0:06:57.14,Dialogue,,0,0,0,,I-am spus și lui Hori asta, \Ndar ține-ți capul sus!
-Dialogue: 100,0:06:57.14,0:07:00.10,Dialogue,,0,0,0,,Este în regulă, Miyamura. \NNu mă deranjează deloc.
-Dialogue: 100,0:07:07.76,0:07:08.61,Dialogue,,0,0,0,,Hei...
-Dialogue: 100,0:07:08.61,0:07:10.61,Dialogue,,0,0,0,,unde este iubitul tău?
-Dialogue: 100,0:07:10.87,0:07:12.37,Dialogue,,0,0,0,,N-am idee.
-Dialogue: 100,0:07:12.37,0:07:14.87,Dialogue,,0,0,0,,Hei, hei, chiulește cumva?
-Dialogue: 100,0:07:14.87,0:07:16.18,Dialogue,,0,0,0,,Auci!
-Dialogue: 100,0:07:16.18,0:07:17.87,Dialogue,,0,0,0,,Va fi aici după prânz.
-Dialogue: 100,0:07:17.87,0:07:20.37,Dialogue,,0,0,0,,Ce naiba, Ishikawa?
-Dialogue: 100,0:07:39.53,0:07:41.02,Dialogue,,0,0,0,,'Neața.
-Dialogue: 100,0:07:43.27,0:07:45.92,Dialogue,,0,0,0,,{\t(250,2100,1,\fscx110\fscy110)}Ce?!
-Dialogue: 100,0:07:45.92,0:07:47.27,Dialogue,,0,0,0,,Miyamura!
-Dialogue: 100,0:07:47.27,0:07:49.20,Dialogue,,0,0,0,,De ce te-ai tuns?
-Dialogue: 100,0:07:49.20,0:07:52.28,Dialogue,,0,0,0,,O, păi, este vară.
-Dialogue: 100,0:07:52.69,0:07:54.48,Dialogue,,0,0,0,,S-a tuns deoarece a venit vara!
-Dialogue: 100,0:07:54.48,0:07:55.86,Dialogue,,0,0,0,,Ce tare!
-Dialogue: 100,0:07:55.86,0:07:58.36,Dialogue,,0,0,0,,Hei, de ce îți porți în \Ncontinuare uniforma de iarnă?
-Dialogue: 100,0:07:58.36,0:08:00.04,Dialogue,,0,0,0,,P-Pentru că mi se face \Nfrig foarte repede.
-Dialogue: 100,0:08:00.04,0:08:02.23,Dialogue,,0,0,0,,Uau, piercingurile tale sunt așa grozave!
-Dialogue: 100,0:08:02.23,0:08:03.94,Dialogue,,0,0,0,,Când ți le-ai făcut?
-Dialogue: 100,0:08:03.94,0:08:04.79,Dialogue,,0,0,0,,În gimnaziu.
-Dialogue: 100,0:08:04.79,0:08:07.25,Dialogue,,0,0,0,,Familia ta deține o patiserie, nu-i așa?
-Dialogue: 100,0:08:07.99,0:08:09.30,Dialogue,,0,0,0,,{\i1}Vai...
-Dialogue: 100,0:08:09.30,0:08:11.26,Dialogue,,0,0,0,,{\i1}Ce privire rece!
-Dialogue: 100,0:08:12.92,0:08:14.56,Dialogue,,0,0,0,,Nu s-a făcut brusc cam frig?
-Dialogue: 100,0:08:14.56,0:08:16.01,Dialogue,,0,0,0,,D-Da, și eu simt asta...
-Dialogue: 100,0:08:16.30,0:08:18.26,Dialogue,,0,0,0,,Asta nu va dura prea mult, probabil.
-Dialogue: 100,0:08:18.26,0:08:19.90,Dialogue,,0,0,0,,Ce? Ce anume?
-Dialogue: 100,0:08:19.90,0:08:21.07,Dialogue,,0,0,0,,Despre ce vorbești?
-Dialogue: 100,0:08:21.07,0:08:22.52,Dialogue,,0,0,0,,De ce este așa de frig aici?!
-Dialogue: 100,0:08:22.92,0:08:24.52,Dialogue,,0,0,0,,Hei, Miyamura!
-Dialogue: 100,0:08:24.52,0:08:26.02,Dialogue,,0,0,0,,Care-i treaba?
-Dialogue: 100,0:08:32.16,0:08:36.51,Dialogue,,0,0,0,,Shuu, tocmai ai câștigat premiul pentru Cea Mai Bună Reacție.
-Dialogue: 100,0:08:36.51,0:08:38.46,Dialogue,,0,0,0,,Oh, tu erai, Miyamura!
-Dialogue: 100,0:08:38.46,0:08:40.44,Dialogue,,0,0,0,,Te-ai tuns.
-Dialogue: 100,0:08:40.44,0:08:41.91,Dialogue,,0,0,0,,Ai făcut-o deoarece a venit vara?
-Dialogue: 100,0:08:42.26,0:08:43.43,Dialogue,,0,0,0,,Da, mersi.
-Dialogue: 100,0:08:43.43,0:08:45.62,Dialogue,,0,0,0,,Vara este momentul potrivit \Npentru lucruri de acest gen.
-Dialogue: 100,0:08:46.46,0:08:47.11,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:08:47.11,0:08:48.67,Dialogue,,0,0,0,,Tipa aia tocmai i-a făcut o poză.
-Dialogue: 100,0:08:49.02,0:08:50.26,Dialogue,,0,0,0,,Ți-o voi trimite și ție!
-Dialogue: 100,0:08:50.26,0:08:53.02,Dialogue,,0,0,0,,Vai, asta e îngrozitor.
-Dialogue: 100,0:08:53.02,0:08:53.92,Dialogue,,0,0,0,,Hei, Hori...
-Dialogue: 100,0:08:54.83,0:08:56.47,Dialogue,,0,0,0,,Hei, nu încerca să le întreci!
-Dialogue: 100,0:08:58.68,0:09:00.92,Dialogue,,0,0,0,,Tată! Tată, vino să-i vezi părul!
-Dialogue: 100,0:09:00.92,0:09:02.06,Dialogue,,0,0,0,,Mulțumesc pentru pri...
-Dialogue: 100,0:09:02.06,0:09:04.31,Dialogue,,0,0,0,,Ce? Cine naiba ești?
-Dialogue: 100,0:09:04.95,0:09:07.87,Dialogue,,0,0,0,,Nu poți să-ți recunoști cel mai bun prieten după ce s-a tuns?
-Dialogue: 100,0:09:07.87,0:09:09.73,Dialogue,,0,0,0,,Ce?! Miyamura?!
-Dialogue: 100,0:09:09.73,0:09:11.67,Dialogue,,0,0,0,,Ce transformare!
-Dialogue: 100,0:09:11.67,0:09:13.76,Dialogue,,0,0,0,,Ți s-au dat papucii cumva?! Haide, capul sus!
-Dialogue: 100,0:09:13.76,0:09:16.06,Dialogue,,0,0,0,,Dacă i-aș fi dat papucii, nu ar fi aici!
-Dialogue: 100,0:09:16.06,0:09:16.82,Dialogue,,0,0,0,,Hm?
-Dialogue: 100,0:09:18.86,0:09:19.90,Dialogue,,0,0,0,,Cine e?
-Dialogue: 100,0:09:19.90,0:09:21.08,Dialogue,,0,0,0,,O fată poate?
-Dialogue: 100,0:09:21.08,0:09:22.94,Dialogue,,0,0,0,,Nu, doar un prieten...
-Dialogue: 100,0:09:23.74,0:09:24.83,Dialogue,,0,0,0,,Ce vrei?
-Dialogue: 100,0:09:25.42,0:09:27.04,Dialogue,,0,0,0,,Ce? Bomboane?
-Dialogue: 100,0:09:30.25,0:09:32.75,Dialogue,,0,0,0,,Hopa...
-Dialogue: 100,0:09:36.88,0:09:37.64,Dialogue,,0,0,0,,Oh...
-Dialogue: 100,0:09:38.00,0:09:38.90,Dialogue,,0,0,0,,Scuze că am întârziat.
-Dialogue: 100,0:09:40.20,0:09:41.13,Dialogue,,0,0,0,,Ce tot faci?
-Dialogue: 100,0:09:48.63,0:09:49.64,Dialogue,,0,0,0,,Ce naiba e în neregulă cu tine?!
-Dialogue: 100,0:09:49.64,0:09:52.36,Dialogue,,0,0,0,,Miyamura! Miyamura...
-Dialogue: 100,0:09:53.36,0:09:57.23,Dialogue,,0,0,0,,Dragul meu Miyamura a \Ndispărut pentru totdeauna!
-Dialogue: 100,0:09:57.23,0:09:58.84,Dialogue,,0,0,0,,Nu sunt al tău.
-Dialogue: 100,0:09:58.84,0:10:01.49,Dialogue,,0,0,0,,Haide, Shindou, părul lui va crește la loc.
-Dialogue: 100,0:10:02.19,0:10:05.53,Dialogue,,0,0,0,,Vai, dar ce pungă mare. \NEste toată plină cu bomboane?
-Dialogue: 100,0:10:05.53,0:10:07.91,Dialogue,,0,0,0,,Da. Am câștigat un concurs online.
-Dialogue: 100,0:10:07.91,0:10:11.15,Dialogue,,0,0,0,,Le-am dat deja o parte colegilor mei de clasă.
-Dialogue: 100,0:10:11.15,0:10:13.42,Dialogue,,0,0,0,,Hori, ce aromă preferi?
-Dialogue: 100,0:10:13.42,0:10:15.29,Dialogue,,0,0,0,,Nu am preferințe.
-Dialogue: 100,0:10:15.29,0:10:17.55,Dialogue,,0,0,0,,Am aici una cu rodie și una cu smochine.
-Dialogue: 100,0:10:17.81,0:10:19.52,Dialogue,,0,0,0,,Nu ai și cu căpșune?
-Dialogue: 100,0:10:19.52,0:10:23.06,Dialogue,,0,0,0,,Nu, Chika le-a luat pe toate \Ncare aveau arome normale.
-Dialogue: 100,0:10:23.06,0:10:25.65,Dialogue,,0,0,0,,{\i1}Deci acum au mai rămas \Ndoar cele cu arome ciudate.
-Dialogue: 100,0:10:25.65,0:10:28.33,Dialogue,,0,0,0,,Cu ce aromă este aceea, Hori?
-Dialogue: 100,0:10:28.33,0:10:29.69,Dialogue,,0,0,0,,Să vedem...
-Dialogue: 100,0:10:31.75,0:10:32.69,Dialogue,,0,0,0,,Brânză?
-Dialogue: 100,0:10:32.97,0:10:34.30,Dialogue,,0,0,0,,Brânză?
-Dialogue: 100,0:10:34.30,0:10:37.53,Dialogue,,0,0,0,,Nu-ți place brânza, nu-i așa, Shindou?
-Dialogue: 100,0:10:37.53,0:10:40.93,Dialogue,,0,0,0,,Deloc. Aș prefera să-mi arunc portofelul la gunoi decât să mâncă brânză.
-Dialogue: 100,0:10:41.84,0:10:43.19,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:10:45.88,0:10:48.04,Dialogue,,0,0,0,,Gura mare.
-Dialogue: 100,0:10:49.33,0:10:52.06,Dialogue,,0,0,0,,Miyamura vrea să mă hrănească cu o bomboană!
-Dialogue: 100,0:10:52.06,0:10:53.86,Dialogue,,0,0,0,,Această șansă s-ar putea să nu mai vină vreodată!
-Dialogue: 100,0:10:53.86,0:10:57.05,Dialogue,,0,0,0,,Dar este cu gust de brânză... {\i1}Brânză{\i0}!
-Dialogue: 100,0:10:59.93,0:11:02.93,Dialogue,,0,0,0,,Tipii ăștia chiar sunt prieteni?
-Dialogue: 100,0:11:03.28,0:11:04.26,Dialogue,,0,0,0,,Este bună?
-Dialogue: 100,0:11:04.26,0:11:06.64,Dialogue,,0,0,0,,Evident că nu, prostule!
-Dialogue: 100,0:11:06.64,0:11:08.34,Dialogue,,0,0,0,,Răule!
-Dialogue: 100,0:11:08.34,0:11:10.04,Dialogue,,0,0,0,,Cu ce aromă este aia?
-Dialogue: 100,0:11:10.04,0:11:12.26,Dialogue,,0,0,0,,Ce? Păi, pământ?
-Dialogue: 100,0:11:12.26,0:11:13.28,Dialogue,,0,0,0,,Pământ?!
-Dialogue: 100,0:11:13.28,0:11:14.36,Dialogue,,0,0,0,,Este foarte amară.
-Dialogue: 100,0:11:20.57,0:11:21.35,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:11:26.71,0:11:29.63,Dialogue,,0,0,0,,Miyamura, îmi poți aduce un pahar cu apă?
-Dialogue: 100,0:11:29.63,0:11:31.14,Dialogue,,0,0,0,,Ești așa enervant.
-Dialogue: 100,0:11:31.14,0:11:33.92,Dialogue,,0,0,0,,Hei! Tu ești cel care m-a făcut s-o mănânc!
-Dialogue: 100,0:11:36.75,0:11:38.52,Dialogue,,0,0,0,,Ce s-a întâmplat, Hori?
-Dialogue: 100,0:11:38.52,0:11:40.65,Dialogue,,0,0,0,,Mi-a furat bomboana.
-Dialogue: 100,0:11:40.65,0:11:42.59,Dialogue,,0,0,0,,Ce? Cu ce aromă era?
-Dialogue: 100,0:11:42.59,0:11:44.17,Dialogue,,0,0,0,,Mai am o grămadă.
-Dialogue: 100,0:11:44.17,0:11:45.23,Dialogue,,0,0,0,,Uite.
-Dialogue: 100,0:11:45.23,0:11:46.89,Dialogue,,0,0,0,,S-Sunt în regulă, mersi!
-Dialogue: 100,0:11:46.89,0:11:49.89,Dialogue,,0,0,0,,Bine, atunci ar trebui să încerci această aromă!
-Dialogue: 100,0:11:56.16,0:11:59.07,Dialogue,,0,0,0,,Are dreptate. Chiar are gust de pământ.
-Dialogue: 100,0:12:00.02,0:12:03.06,Dialogue,,0,0,0,,Fetele au încetat să mai sară pe tine.
-Dialogue: 100,0:12:03.06,0:12:05.07,Dialogue,,0,0,0,,Guess the novelty wore off.
-Dialogue: 100,0:12:05.55,0:12:07.49,Dialogue,,0,0,0,,Honestly, it's a big relief...
-Dialogue: 100,0:12:08.67,0:12:10.50,Dialogue,,0,0,0,,Ce? O cunoști?
-Dialogue: 100,0:12:10.50,0:12:13.84,Dialogue,,0,0,0,,Nu, nu cred.
-Dialogue: 100,0:12:13.84,0:12:16.25,Dialogue,,0,0,0,,{\i1}De ce se holba la mine?
-Dialogue: 100,0:12:16.54,0:12:18.79,Dialogue,,0,0,0,,De ce se holba la tine?
-Dialogue: 100,0:12:18.79,0:12:19.76,Dialogue,,0,0,0,,N-am idee.
-Dialogue: 100,0:12:22.68,0:12:26.27,Dialogue,,0,0,0,,We were watching TV when it came on\Nout of nowhere!
-Dialogue: 100,0:12:26.27,0:12:28.26,Dialogue,,0,0,0,,We were so freaked...
-Dialogue: 100,0:12:28.53,0:12:30.10,Dialogue,,0,0,0,,Ce s-a întâmplat, Hori?
-Dialogue: 100,0:12:30.10,0:12:32.44,Dialogue,,0,0,0,,O, nimic, doar că...
-Dialogue: 100,0:12:32.44,0:12:33.65,Dialogue,,0,0,0,,Hori!
-Dialogue: 100,0:12:33.65,0:12:34.40,Dialogue,,0,0,0,,Cine ești?!
-Dialogue: 100,0:12:34.40,0:12:37.15,Dialogue,,0,0,0,,Ești iubita lui Miyamura?
-Dialogue: 100,0:12:37.15,0:12:39.02,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:12:40.54,0:12:42.11,Dialogue,,0,0,0,,Dorești cumva ceva?
-Dialogue: 100,0:12:44.06,0:12:45.30,Dialogue,,0,0,0,,Îmi cer scuze că te-am deranjat!
-Dialogue: 100,0:13:02.46,0:13:05.13,Dialogue,,0,0,0,,Vai, chiar mă sperie!
-Dialogue: 100,0:13:07.81,0:13:08.64,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:13:11.98,0:13:13.27,Dialogue,,0,0,0,,Deci...
-Dialogue: 100,0:13:13.27,0:13:15.04,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:13:15.04,0:13:17.17,Dialogue,,0,0,0,,Când te vei despărți de ea?!
-Dialogue: 100,0:13:17.17,0:13:17.77,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:13:17.77,0:13:20.90,Dialogue,,0,0,0,,Când te vei despărți de Hori?!
-Dialogue: 100,0:13:20.90,0:13:22.34,Dialogue,,0,0,0,,Stai, ce?
-Dialogue: 100,0:13:22.34,0:13:23.34,Dialogue,,0,0,0,,O înșală cumva?
-Dialogue: 100,0:13:23.34,0:13:24.75,Dialogue,,0,0,0,,Ce? Nu!
-Dialogue: 100,0:13:24.75,0:13:26.92,Dialogue,,0,0,0,,Când te vei despărți de ea?!
-Dialogue: 100,0:13:27.84,0:13:29.16,Dialogue,,0,0,0,,Niciodată!
-Dialogue: 100,0:13:31.74,0:13:33.97,Dialogue,,0,0,0,,Eu sunt Sawada Honoka din clasa 2-5
-Dialogue: 100,0:13:33.97,0:13:35.15,Dialogue,,0,0,0,,și mă voi întoarce! {Arnold Schwarzenegger here, baby}
-Dialogue: 100,0:13:35.64,0:13:37.87,Dialogue,,0,0,0,,Chiar te rog să nu.
-Dialogue: 100,0:13:37.87,0:13:39.17,Dialogue,,0,0,0,,Mă voi întoarce, am zis!
-Dialogue: 100,0:13:39.90,0:13:41.45,Dialogue,,0,0,0,,Ce naiba?
-Dialogue: 100,0:13:42.17,0:13:45.17,Dialogue,,0,0,0,,Deci este în anul doi, nu?
-Dialogue: 100,0:13:46.72,0:13:49.68,Dialogue,,0,0,0,,Mă urmărește în fiecare pauză.
-Dialogue: 100,0:13:50.87,0:13:52.92,Dialogue,,0,0,0,,Care era numele ei?
-Dialogue: 100,0:13:52.92,0:13:54.70,Dialogue,,0,0,0,,Sawada Honoka!
-Dialogue: 100,0:13:54.70,0:13:55.43,Dialogue,,0,0,0,,Și a apărut!
-Dialogue: 100,0:13:55.43,0:13:58.44,Dialogue,,0,0,0,,În regulă, ce dorești?
-Dialogue: 100,0:13:58.79,0:14:01.05,Dialogue,,0,0,0,,De ce continui să-l urmărești?
-Dialogue: 100,0:14:01.05,0:14:02.94,Dialogue,,0,0,0,,E-Ei bine...
-Dialogue: 100,0:14:03.35,0:14:04.38,Dialogue,,0,0,0,,"{\i1}Ei bine{\i0}" ce?!
-Dialogue: 100,0:14:04.38,0:14:05.82,Dialogue,,0,0,0,,Hori!
-Dialogue: 100,0:14:06.12,0:14:08.82,Dialogue,,0,0,0,,Te iubesc prea mult încât \Nsă mă mai pot stăpâni!
-Dialogue: 100,0:14:08.82,0:14:12.14,Dialogue,,0,0,0,,Nu am avut nicio idee că aveai pe cineva!
-Dialogue: 100,0:14:13.04,0:14:15.04,Dialogue,,0,0,0,,Uită-te la el, zici că e un băț și are piercinguri!
-Dialogue: 100,0:14:15.31,0:14:17.16,Dialogue,,0,0,0,,Ce îți place la el?!
-Dialogue: 100,0:14:18.00,0:14:22.23,Dialogue,,0,0,0,,Eu te-am iubit {\i1}prima{\i0}, Hori!
-Dialogue: 100,0:14:23.80,0:14:25.58,Dialogue,,0,0,0,,Cât de neașteptat!
-Dialogue: 100,0:14:26.10,0:14:27.24,Dialogue,,0,0,0,,Ishikawa!
-Dialogue: 100,0:14:27.24,0:14:30.31,Dialogue,,0,0,0,,Scuze, trăgeam cu urechea deoarece părea că va fi foarte amuzant.
-Dialogue: 100,0:14:30.31,0:14:31.79,Dialogue,,0,0,0,,Hei, încetează!
-Dialogue: 100,0:14:31.79,0:14:33.68,Dialogue,,0,0,0,,Nu poți face ceva în legătură cu ea?!
-Dialogue: 100,0:14:33.68,0:14:35.68,Dialogue,,0,0,0,,Hei, Sawada?
-Dialogue: 100,0:14:35.68,0:14:37.20,Dialogue,,0,0,0,,Ai putea să-i dai drumul lui...
-Dialogue: 100,0:14:37.20,0:14:38.19,Dialogue,,0,0,0,,Gura, delincventule.
-Dialogue: 100,0:14:39.55,0:14:41.56,Dialogue,,0,0,0,,Ce? Cum m-ai făcut?
-Dialogue: 100,0:14:41.86,0:14:42.93,Dialogue,,0,0,0,,Delincvent.
-Dialogue: 100,0:14:49.07,0:14:50.56,Dialogue,,0,0,0,,Dă-i drumul!
-Dialogue: 100,0:14:50.56,0:14:51.82,Dialogue,,0,0,0,,Nici gând!
-Dialogue: 100,0:14:51.82,0:14:54.90,Dialogue,,0,0,0,,Sawada, dacă erai băiat, \Nte-aș fi pocnit până acum!
-Dialogue: 100,0:14:54.90,0:14:57.29,Dialogue,,0,0,0,,Eu o plac mai mult! O iubesc!
-Dialogue: 100,0:14:57.29,0:14:59.92,Dialogue,,0,0,0,,Ce naiba îți place la tipul ăsta, Hori?!
-Dialogue: 100,0:14:59.92,0:15:02.80,Dialogue,,0,0,0,,Ce? Lasă-mă să mă gândesc puțin.
-Dialogue: 100,0:15:02.80,0:15:04.46,Dialogue,,0,0,0,,Trebuie să te gândești ca să răspunzi?!
-Dialogue: 100,0:15:09.13,0:15:10.13,Dialogue,,0,0,0,,Este a {\i1}mea{\i0}!
-Dialogue: 100,0:15:11.38,0:15:13.32,Dialogue,,0,0,0,,Ți-a luat ceva, Yoshikawa.
-Dialogue: 100,0:15:13.32,0:15:15.32,Dialogue,,0,0,0,,Spectacolul s-a cam terminat.
-Dialogue: 100,0:15:15.32,0:15:15.89,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:15:16.49,0:15:18.89,Dialogue,,0,0,0,,Încă este destul de amuzant \Nceea ce se întâmplă.
-Dialogue: 100,0:15:19.46,0:15:20.89,Dialogue,,0,0,0,,Hori!
-Dialogue: 100,0:15:20.89,0:15:24.10,Dialogue,,0,0,0,,Am făcut astea la educație tehnologică!
-Dialogue: 100,0:15:24.10,0:15:26.04,Dialogue,,0,0,0,,Gheruțele jos, Sawada.
-Dialogue: 100,0:15:26.90,0:15:29.07,Dialogue,,0,0,0,,{\i1}Iar încep...
-Dialogue: 100,0:15:29.07,0:15:31.26,Dialogue,,0,0,0,,Gura, Miyamura! Ține-ți pliscul închis!
-Dialogue: 100,0:15:31.26,0:15:32.53,Dialogue,,0,0,0,,Nici gând!
-Dialogue: 100,0:15:32.53,0:15:36.59,Dialogue,,0,0,0,,Hori mi-a spus că pot vorbi cu ea!
-Dialogue: 100,0:15:36.59,0:15:38.48,Dialogue,,0,0,0,,Nu-i așa, Hori?
-Dialogue: 100,0:15:38.48,0:15:41.00,Dialogue,,0,0,0,,D-Da, așa este...
-Dialogue: 100,0:15:44.40,0:15:46.46,Dialogue,,0,0,0,,S-a sunat de intrare! \NHaide să mergem în clasă!
-Dialogue: 100,0:15:46.98,0:15:47.95,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:15:48.70,0:15:49.47,Dialogue,,0,0,0,,Hori!
-Dialogue: 100,0:15:49.86,0:15:51.82,Dialogue,,0,0,0,,Te rog, ascultă-ți {\i1}iubitul{\i0}.
-Dialogue: 100,0:15:51.82,0:15:53.47,Dialogue,,0,0,0,,Haide să mergem în clasă.
-Dialogue: 100,0:15:53.80,0:15:55.72,Dialogue,,0,0,0,,B-Bine.
-Dialogue: 100,0:15:55.72,0:15:58.47,Dialogue,,0,0,0,,Hori!
-Dialogue: 100,0:16:01.27,0:16:02.24,Dialogue,,0,0,0,,Miyamura!
-Dialogue: 100,0:16:03.49,0:16:05.31,Dialogue,,0,0,0,,Sawada, tu...
-Dialogue: 100,0:16:05.31,0:16:07.88,Dialogue,,0,0,0,,Încetează să mai apari de nicăieri!
-Dialogue: 100,0:16:07.88,0:16:09.33,Dialogue,,0,0,0,,Unde este Hori?
-Dialogue: 100,0:16:09.85,0:16:12.25,Dialogue,,0,0,0,,A plecat acasă mai devreme \Ndoarece avea niște treabă.
-Dialogue: 100,0:16:14.33,0:16:16.62,Dialogue,,0,0,0,,Atunci, cred că voi pleca și eu acasă.
-Dialogue: 100,0:16:30.38,0:16:32.61,Dialogue,,0,0,0,,De ce mergi în aceeași direcție?!
-Dialogue: 100,0:16:32.61,0:16:34.38,Dialogue,,0,0,0,,Mi-ai luat vorbele din gură.
-Dialogue: 100,0:16:48.82,0:16:50.26,Dialogue,,0,0,0,,Suntem vecini?!
-Dialogue: 100,0:16:50.26,0:16:51.53,Dialogue,,0,0,0,,P-Pe bune?!
-Dialogue: 100,0:16:51.94,0:16:54.28,Dialogue,,0,0,0,,Ce fel de coincidență stupidă mai e și asta?
-Dialogue: 100,0:16:54.28,0:16:56.66,Dialogue,,0,0,0,,Oh, ce mă fac...
-Dialogue: 100,0:16:56.97,0:16:59.41,Dialogue,,0,0,0,,Mi-am lăsat cheia înăuntru...
-Dialogue: 100,0:17:02.27,0:17:04.23,Dialogue,,0,0,0,,Mersi pentru prăjitură!
-Dialogue: 100,0:17:06.77,0:17:08.96,Dialogue,,0,0,0,,Este așa de bună!
-Dialogue: 100,0:17:08.96,0:17:12.01,Dialogue,,0,0,0,,Lași pe oricine să vină la tine, Miyamura?
-Dialogue: 100,0:17:12.34,0:17:14.96,Dialogue,,0,0,0,,Nu, nu pe oricine.
-Dialogue: 100,0:17:14.96,0:17:17.05,Dialogue,,0,0,0,,Nici măcar Hori nu trece pe aici așa des.
-Dialogue: 100,0:17:17.05,0:17:18.26,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:17:20.64,0:17:24.91,Dialogue,,0,0,0,,Poate că lucrurile nu merg \Nașa de bine pe cât credeam!
-Dialogue: 100,0:17:24.91,0:17:27.60,Dialogue,,0,0,0,,Te înșeli. Eu merg mereu acasă la ea.
-Dialogue: 100,0:17:28.50,0:17:29.77,Dialogue,,0,0,0,,Oh.
-Dialogue: 100,0:17:30.22,0:17:32.78,Dialogue,,0,0,0,,Hei, Miyamura, mai ai frați sau surori?
-Dialogue: 100,0:17:33.19,0:17:35.18,Dialogue,,0,0,0,,Nu, suntem doar eu, mama și tata.
-Dialogue: 100,0:17:35.18,0:17:36.64,Dialogue,,0,0,0,,Hm...
-Dialogue: 100,0:17:37.22,0:17:40.52,Dialogue,,0,0,0,,Chiar credeam că ai o soră \Nsau un frate mai mic.
-Dialogue: 100,0:17:40.52,0:17:41.80,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:17:41.80,0:17:43.16,Dialogue,,0,0,0,,Deoarece știi să ai grijă de alții.
-Dialogue: 100,0:17:47.13,0:17:48.09,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:17:49.07,0:17:51.42,Dialogue,,0,0,0,,De ce râzi?!
-Dialogue: 100,0:17:53.38,0:17:54.44,Dialogue,,0,0,0,,O, vai!
-Dialogue: 100,0:17:54.99,0:17:56.04,Dialogue,,0,0,0,,Honoka.
-Dialogue: 100,0:17:59.93,0:18:01.18,Dialogue,,0,0,0,,Știi, eu...
-Dialogue: 100,0:18:02.36,0:18:04.14,Dialogue,,0,0,0,,Eu am avut un frate mai mare.
-Dialogue: 100,0:18:04.57,0:18:06.02,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:18:07.52,0:18:09.78,Dialogue,,0,0,0,,Era cu un an mai mare decât mine.
-Dialogue: 100,0:18:13.01,0:18:14.57,Dialogue,,0,0,0,,Glumeam doar!
-Dialogue: 100,0:18:14.57,0:18:15.78,Dialogue,,0,0,0,,Am inventat totul!
-Dialogue: 100,0:18:16.24,0:18:17.28,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:18:17.57,0:18:19.75,Dialogue,,0,0,0,,Haide, doar făceam mișto de tine!
-Dialogue: 100,0:18:20.51,0:18:22.49,Dialogue,,0,0,0,,O, s-au întors!
-Dialogue: 100,0:18:22.97,0:18:24.63,Dialogue,,0,0,0,,Mersi din nou pentru prăjitură.
-Dialogue: 100,0:18:24.63,0:18:25.60,Dialogue,,0,0,0,,Ne mai vedem!
-Dialogue: 100,0:18:25.60,0:18:26.37,Dialogue,,0,0,0,,Hei, Sawada?
-Dialogue: 100,0:18:27.06,0:18:28.87,Dialogue,,0,0,0,,Poți trece pe aici pentru prăjituri oricând dorești.
-Dialogue: 100,0:18:30.32,0:18:31.08,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:18:36.79,0:18:39.89,Dialogue,,0,0,0,,Da, asta s-a întâmplat cu \Nfamilia Sawada de alături.
-Dialogue: 100,0:18:40.60,0:18:43.75,Dialogue,,0,0,0,,Este foarte trist că și-au \Npierdut fiul cel mare astfel.
-Dialogue: 100,0:18:43.75,0:18:45.39,Dialogue,,0,0,0,,Probabil nu vă vedeați prea des
-Dialogue: 100,0:18:45.39,0:18:47.07,Dialogue,,0,0,0,,din moment ce mergea la o altă școală.
-Dialogue: 100,0:18:47.56,0:18:49.00,Dialogue,,0,0,0,,Când a murit?
-Dialogue: 100,0:18:49.00,0:18:50.52,Dialogue,,0,0,0,,Anul trecut în...
-Dialogue: 100,0:18:50.79,0:18:52.69,Dialogue,,0,0,0,,Nu mai țin bine minte când.
-Dialogue: 100,0:18:52.69,0:18:54.39,Dialogue,,0,0,0,,Era așa un băiat bun.
-Dialogue: 100,0:18:55.02,0:18:55.90,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:18:57.70,0:18:58.99,Dialogue,,0,0,0,,Fratele ei mai mare...
-Dialogue: 100,0:19:01.08,0:19:04.57,Dialogue,,0,0,0,,Pe cine aștepți, Sawada?
-Dialogue: 100,0:19:04.57,0:19:06.22,Dialogue,,0,0,0,,Un prieten.
-Dialogue: 100,0:19:06.22,0:19:09.30,Dialogue,,0,0,0,,Da, sigur! O pândești \Npe Hori! Pleacă acasă! {Ieși acasă!}
-Dialogue: 100,0:19:09.30,0:19:11.04,Dialogue,,0,0,0,,Cine naiba te crezi?!
-Dialogue: 100,0:19:11.04,0:19:13.24,Dialogue,,0,0,0,,Nu mă comanzi tu!
-Dialogue: 100,0:19:14.39,0:19:15.27,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:19:16.35,0:19:17.42,Dialogue,,0,0,0,,Tocmai ai scăpat de la ore?
-Dialogue: 100,0:19:17.42,0:19:19.51,Dialogue,,0,0,0,,Ce scundă ești. Ești cumva anul întâi?
-Dialogue: 100,0:19:19.51,0:19:21.28,Dialogue,,0,0,0,,Vai, ce tăcută a devenit.
-Dialogue: 100,0:19:21.89,0:19:22.43,Dialogue,,0,0,0,,Te temi de noi?
-Dialogue: 100,0:19:22.43,0:19:24.15,Dialogue,,0,0,0,,Nu suntem băieți răi.
-Dialogue: 100,0:19:24.15,0:19:26.18,Dialogue,,0,0,0,,Haide, spune ceva.
-Dialogue: 100,0:19:26.56,0:19:28.36,Dialogue,,0,0,0,,Măcar cum te cheamă!
-Dialogue: 100,0:19:28.36,0:19:29.50,Dialogue,,0,0,0,,Haide, spune-ne!
-Dialogue: 100,0:19:37.85,0:19:40.45,Dialogue,,0,0,0,,H-Hei... vreți să mergem acasă?
-Dialogue: 100,0:19:40.45,0:19:42.29,Dialogue,,0,0,0,,D-Da.
-Dialogue: 100,0:19:42.29,0:19:43.53,Dialogue,,0,0,0,,Bună idee.
-Dialogue: 100,0:19:46.50,0:19:49.59,Dialogue,,0,0,0,,Doar încercam să mă gândesc la ce să spun...
-Dialogue: 100,0:19:49.59,0:19:52.65,Dialogue,,0,0,0,,Băieții te fac să te simți incomod, Sawada?
-Dialogue: 100,0:19:53.22,0:19:54.04,Dialogue,,0,0,0,,Puțin.
-Dialogue: 100,0:19:54.39,0:19:57.55,Dialogue,,0,0,0,,{\i1}Știi, {\i0}și{\i1} eu sunt băiat...
-Dialogue: 100,0:19:57.55,0:20:00.83,Dialogue,,0,0,0,,Vai, Hori chiar întârzie!
-Dialogue: 100,0:20:00.83,0:20:02.05,Dialogue,,0,0,0,,Știam eu!
-Dialogue: 100,0:20:02.61,0:20:03.95,Dialogue,,0,0,0,,Scuze că a durat atât!
-Dialogue: 100,0:20:05.18,0:20:08.89,Dialogue,,0,0,0,,Am făcut baie acasă la Hori.
-Dialogue: 100,0:20:08.89,0:20:11.51,Dialogue,,0,0,0,,Ce?! Atunci, și eu voi face același lucru!
-Dialogue: 100,0:20:11.51,0:20:12.51,Dialogue,,0,0,0,,Tu nu ai voie!
-Dialogue: 100,0:20:12.51,0:20:13.81,Dialogue,,0,0,0,,Cine zice?!
-Dialogue: 100,0:20:14.94,0:20:17.23,Dialogue,,0,0,0,,{\an8}A-Ajutor, cineva...
-Dialogue: 100,0:20:16.02,0:20:18.69,Dialogue,,0,0,0,,Ne putem uita la seria asta altă dată?
-Dialogue: 100,0:20:19.05,0:20:21.52,Dialogue,,0,0,0,,Nu, trebuie s-o returnez mâine.
-Dialogue: 100,0:20:21.52,0:20:23.98,Dialogue,,0,0,0,,Filmele horror {\i1}chiar{\i0} îmi fac pielea de gâină.
-Dialogue: 100,0:20:23.98,0:20:26.87,Dialogue,,0,0,0,,Nu-mi vine să cred că propria mea fiică m-ar abuza astfel...
-Dialogue: 100,0:20:26.87,0:20:29.49,Dialogue,,0,0,0,,Este în regulă. Și eu mă sperii la ele.
-Dialogue: 100,0:20:29.49,0:20:34.09,Dialogue,,0,0,0,,Seria asta este despre o fată care plănuiește să-și omoare tatăl!
-Dialogue: 100,0:20:34.09,0:20:35.69,Dialogue,,0,0,0,,Cred că exagerați puțin.
-Dialogue: 100,0:20:36.71,0:20:39.51,Dialogue,,0,0,0,,Chiar îți place așa de mult acest film, Hori?
-Dialogue: 100,0:20:39.51,0:20:43.55,Dialogue,,0,0,0,,Vai, chiar mă asemăn {\i1}foarte{\i0} \Nmult cu personajul principal.
-Dialogue: 100,0:20:43.55,0:20:44.97,Dialogue,,0,0,0,,{\i1}Relația lor e o cauză pierdută.
-Dialogue: 100,0:20:45.51,0:20:47.85,Dialogue,,0,0,0,,În tot acest timp, am tăcut și am înghițit.
-Dialogue: 100,0:20:47.85,0:20:49.72,Dialogue,,0,0,0,,Dar mi-a ajuns!
-Dialogue: 100,0:20:51.36,0:20:53.99,Dialogue,,0,0,0,,Merg să-mi cumpăr țigări!
-Dialogue: 100,0:20:53.99,0:20:55.59,Dialogue,,0,0,0,,Nu veniți să mă căutați!
-Dialogue: 100,0:21:00.94,0:21:02.40,Dialogue,,0,0,0,,Hei, Miyamura.
-Dialogue: 100,0:21:02.40,0:21:04.24,Dialogue,,0,0,0,,Nu încerci niciodată nimic cu mine.
-Dialogue: 100,0:21:07.57,0:21:08.33,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:21:09.76,0:21:10.24,Dialogue,,0,0,0,,Stai...
-Dialogue: 100,0:21:16.76,0:21:18.51,Dialogue,,0,0,0,,Vrei s-o fac?
-Dialogue: 100,0:21:25.01,0:21:28.26,Dialogue,,0,0,0,,Ea este cea care a spus-o, \Ndar acum este complet rușinată.
-Dialogue: 100,0:21:30.85,0:21:32.21,Dialogue,,0,0,0,,Ce este așa amuzant?!
-Dialogue: 100,0:21:32.21,0:21:35.63,Dialogue,,0,0,0,,Nimic, doar mă gândeam cât ești de drăguță.
-Dialogue: 100,0:21:35.63,0:21:36.57,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:21:37.38,0:21:40.52,Dialogue,,0,0,0,,Hori, ce mai exact ai vrea să încerc?
-Dialogue: 100,0:21:41.84,0:21:44.03,Dialogue,,0,0,0,,E-Ei bine...
-Dialogue: 100,0:21:48.19,0:21:48.78,Dialogue,,0,0,0,,Miya...
-Dialogue: 100,0:21:48.78,0:21:51.67,Dialogue,,0,0,0,,Kyouko! Ai cumva niște mărunt?
-Dialogue: 100,0:21:52.30,0:21:56.54,Dialogue,,0,0,0,,Vai, cât de jenant! \NMi-am uitat portofelul!
-Dialogue: 100,0:21:58.35,0:22:00.04,Dialogue,,0,0,0,,Oh? Ce este, Kyouko?
-Dialogue: 100,0:22:00.36,0:22:03.53,Dialogue,,0,0,0,,Au, au! Auci!
-Dialogue: 100,0:22:04.60,0:22:07.16,Dialogue,,0,0,0,,Stai, am întrerupt cumva ceva?
-Dialogue: 100,0:22:07.16,0:22:08.36,Dialogue,,0,0,0,,V-am deranjat?
-Dialogue: 100,0:22:08.36,0:22:09.51,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:22:10.66,0:22:14.02,Dialogue,,0,0,0,,Haide să reconstituim acea scenă din film.
-Dialogue: 100,0:22:14.02,0:22:16.52,Dialogue,,0,0,0,,Miyamura, salvează-mă!
-Dialogue: 100,0:22:16.52,0:22:18.99,Dialogue,,0,0,0,,Vom face maraton la \Ntoate cele trei filme!
-Dialogue: 100,0:22:18.99,0:22:20.24,Dialogue,,0,0,0,,Fără pauză de toaletă!
-Dialogue: 100,0:22:20.24,0:22:22.02,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:00:14.09,0:00:15.91,Dialogue,,0,0,0,,Cât vei mai sta la noi, tată?
+Dialogue: 99,0:00:15.91,0:00:18.12,Dialogue,,0,0,0,,Nu am idee.
+Dialogue: 99,0:00:18.12,0:00:20.66,Dialogue,,0,0,0,,Vei fi trist dacă voi pleca, nu-i așa, Souta?
+Dialogue: 99,0:00:20.66,0:00:21.96,Dialogue,,0,0,0,,Am nevoie la baie!
+Dialogue: 99,0:00:21.96,0:00:24.34,Dialogue,,0,0,0,,Bine, vezi să nu pici pe conductă!
+Dialogue: 99,0:00:24.34,0:00:25.73,Dialogue,,0,0,0,,Dragule...
+Dialogue: 99,0:00:25.73,0:00:29.11,Dialogue,,0,0,0,,Și eu mă întrebam același lucru. \NCât vei mai sta pe aici?
+Dialogue: 99,0:00:29.66,0:00:30.42,Dialogue,,0,0,0,,De ce întrebi asta?
+Dialogue: 99,0:00:31.94,0:00:33.30,Dialogue,,0,0,0,,Yuriko...
+Dialogue: 99,0:00:33.30,0:00:35.85,Dialogue,,0,0,0,,asta nu mai e casa mea?
+Dialogue: 99,0:00:36.48,0:00:41.21,Dialogue,,0,0,0,,Doar mă întrebam dacă este în regulă ca tu să fii aici atâta timp pentru {\i1}serviciul{\i0} tău.
+Dialogue: 99,0:00:41.21,0:00:42.18,Dialogue,,0,0,0,,M-am întors.
+Dialogue: 99,0:00:42.60,0:00:45.44,Dialogue,,0,0,0,,Kyousuke, a venit și Miyamura.
+Dialogue: 99,0:00:45.44,0:00:47.15,Dialogue,,0,0,0,,Ce? Serios?!
+Dialogue: 99,0:00:47.15,0:00:48.19,Dialogue,,0,0,0,,Vă mulțumesc pentru primire.
+Dialogue: 99,0:00:48.48,0:00:51.29,Dialogue,,0,0,0,,Ce? Cine naiba ești tu?
+Dialogue: 99,0:00:51.29,0:00:54.07,Dialogue,,0,0,0,,Este cel mai bun prieten al tău, Miyamura.
+Dialogue: 99,0:00:54.07,0:00:54.99,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:00:55.95,0:00:57.32,Dialogue,,0,0,0,,M-Mă scuzați...
+Dialogue: 99,0:00:57.71,0:01:00.11,Dialogue,,0,0,0,,V-Vă mulțumesc pentru primire...
+Dialogue: 99,0:01:00.11,0:01:02.35,Dialogue,,0,0,0,,Chiar {\i1}ești{\i0} tu, Miyamura!
+Dialogue: 99,0:01:02.35,0:01:04.58,Dialogue,,0,0,0,,Da, aici Miyamura.
+Dialogue: 99,0:01:04.93,0:01:07.54,Dialogue,,0,0,0,,Hei, îi e destul de cald și \Nfără să-l sufoci tu. Mișcă.
+Dialogue: 99,0:01:07.90,0:01:10.31,Dialogue,,0,0,0,,Chiar transpiri destul de mult.
+Dialogue: 99,0:01:10.31,0:01:12.25,Dialogue,,0,0,0,,Are sens la ce căldură e afară.
+Dialogue: 99,0:01:12.25,0:01:14.15,Dialogue,,0,0,0,,Da, așa este...
+Dialogue: 99,0:01:14.15,0:01:15.32,Dialogue,,0,0,0,,{\i1}De fapt, este de la frică.
+Dialogue: 99,0:01:15.32,0:01:16.80,Dialogue,,0,0,0,,Mi-a venit o idee, Miyamura!
+Dialogue: 99,0:01:16.80,0:01:17.80,Dialogue,,0,0,0,,Ce anume?
+Dialogue: 99,0:01:18.10,0:01:20.37,Dialogue,,0,0,0,,Ar trebui să faci o baie cu mine!
+Dialogue: 99,0:01:20.37,0:01:21.81,Dialogue,,0,0,0,,Stai, ce?!
+Dialogue: 99,0:01:21.81,0:01:24.71,Dialogue,,0,0,0,,Cada e deja pregătită. \NDeci poți merge.
+Dialogue: 99,0:01:24.71,0:01:26.82,Dialogue,,0,0,0,,Va mai dura ceva până e gata cina.
+Dialogue: 99,0:01:26.82,0:01:28.42,Dialogue,,0,0,0,,O, nu, sunt în regulă.
+Dialogue: 99,0:01:28.42,0:01:29.79,Dialogue,,0,0,0,,Nu vrei să faci baie cu mine?
+Dialogue: 99,0:01:29.79,0:01:32.03,Dialogue,,0,0,0,,Ce? Nu, nu este asta.
+Dialogue: 99,0:01:32.03,0:01:33.30,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:01:33.30,0:01:34.74,Dialogue,,0,0,0,,Atunci, haide să mergem!
+Dialogue: 99,0:01:35.93,0:01:40.29,Dialogue,,0,0,0,,{\i1\an8}Haide, nu fi așa timidă, deci...
+Dialogue: 99,0:01:36.77,0:01:39.75,Dialogue,,0,0,0,,Haide, nu fi așa timid, ne vom distra!
+Dialogue: 99,0:01:40.29,0:01:42.33,Dialogue,,0,0,0,,Ș-Știți, este puțin cam...
+Dialogue: 99,0:01:44.80,0:01:47.47,Dialogue,,0,0,0,,K-Kyousuke! Vă rog să nu vă temeți!
+Dialogue: 99,0:01:47.47,0:01:50.02,Dialogue,,0,0,0,,Nu sunt tatuaje yakuza, vă jur!
+Dialogue: 99,0:01:50.02,0:01:50.84,Dialogue,,0,0,0,,{\i1}O, așa este.
+Dialogue: 99,0:01:51.72,0:01:54.34,Dialogue,,0,0,0,,Știu că asta este o întrebare stupidă,
+Dialogue: 99,0:01:54.76,0:01:56.76,Dialogue,,0,0,0,,dar astea sunt bețișoare de unică folosință, nu-i așa?
+Dialogue: 99,0:01:56.76,0:01:58.78,Dialogue,,0,0,0,,Ai terminat de mâncat și abia acum observi?
+Dialogue: 99,0:01:58.78,0:02:00.72,Dialogue,,0,0,0,,Dar ale lui Miyamura se \Nasortează cu ale voastre.
+Dialogue: 99,0:02:01.65,0:02:02.97,Dialogue,,0,0,0,,Îmi pare rău.
+Dialogue: 99,0:02:02.97,0:02:04.97,Dialogue,,0,0,0,,Oh, se face târziu!
+Dialogue: 99,0:02:05.33,0:02:06.90,Dialogue,,0,0,0,,Îmi cer scuze că am stat atât de mult.
+Dialogue: 99,0:02:06.90,0:02:09.03,Dialogue,,0,0,0,,Poți la fel de bine să rămâi și peste noapte.
+Dialogue: 99,0:02:09.03,0:02:11.50,Dialogue,,0,0,0,,Ce?! Vă mulțumesc pentru \Nofertă, dar nu ar trebui să...
+Dialogue: 99,0:02:11.50,0:02:16.04,Dialogue,,0,0,0,,Dacă Izumi va dormi la noi, nu vom avea o saltea și pentru tine, dragule!
+Dialogue: 99,0:02:16.04,0:02:19.53,Dialogue,,0,0,0,,De ce este a lui? Și de ce are {\i1}el{\i0} prioritate mai mare decât {\i1}mine{\i0}?!
+Dialogue: 99,0:02:19.53,0:02:21.43,Dialogue,,0,0,0,,Vei dormi la noi?!
+Dialogue: 99,0:02:21.43,0:02:23.03,Dialogue,,0,0,0,,Nu aș vrea să deranjez...
+Dialogue: 99,0:02:23.03,0:02:25.24,Dialogue,,0,0,0,,Hei, hei! Poți dormi în camera mea!
+Dialogue: 99,0:02:25.24,0:02:28.00,Dialogue,,0,0,0,,Nu! Miyamura va dormi cu mine!
+Dialogue: 99,0:02:28.00,0:02:29.46,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:02:31.98,0:02:33.71,Dialogue,,0,0,0,,Bine. Noapte bună.
+Dialogue: 99,0:02:34.50,0:02:37.81,Dialogue,,0,0,0,,Îmi pare rău că trebuie să împarți camera cu un bătrân ca mine.
+Dialogue: 99,0:02:37.81,0:02:38.47,Dialogue,,0,0,0,,Este în regulă.
+Dialogue: 99,0:02:38.84,0:02:41.10,Dialogue,,0,0,0,,Pariez că ți-ai dori să fii în \Ncamera lui Kyouko acum.
+Dialogue: 99,0:02:41.10,0:02:43.19,Dialogue,,0,0,0,,Nu, nu, nu, nu!
+Dialogue: 99,0:02:45.08,0:02:46.49,Dialogue,,0,0,0,,Hei, Miyamura...
+Dialogue: 99,0:02:47.02,0:02:48.73,Dialogue,,0,0,0,,ce îți place la fata mea?
+Dialogue: 99,0:02:52.95,0:02:53.98,Dialogue,,0,0,0,,Îmi place...
+Dialogue: 99,0:02:54.73,0:02:56.98,Dialogue,,0,0,0,,că nu judecă oamenii după aparențe.
+Dialogue: 99,0:03:02.06,0:03:04.13,Dialogue,,0,0,0,,K-Kyousuke?
+Dialogue: 99,0:03:06.46,0:03:08.08,Dialogue,,0,0,0,,{\i1}A adormit!
+Dialogue: 99,0:04:51.28,0:04:52.81,Dialogue,,0,0,0,,Mă simt de parcă n-am \Ndormit aproape deloc.
+Dialogue: 99,0:04:52.81,0:04:54.31,Dialogue,,0,0,0,,'Neața.
+Dialogue: 99,0:04:54.64,0:04:56.10,Dialogue,,0,0,0,,Hei, 'neața.
+Dialogue: 99,0:05:02.75,0:05:05.20,Dialogue,,0,0,0,,{\i1}Își poartă hainele de la educație fizică din generală.
+Dialogue: 99,0:05:06.03,0:05:07.73,Dialogue,,0,0,0,,Am plecat!
+Dialogue: 99,0:05:07.73,0:05:09.94,Dialogue,,0,0,0,,Distracție plăcută!
+Dialogue: 99,0:05:09.94,0:05:11.33,Dialogue,,0,0,0,,Vreți să merg cu voi până acolo?
+Dialogue: 99,0:05:12.16,0:05:13.54,Dialogue,,0,0,0,,Urmărește-ne și ești ca și mort.
+Dialogue: 99,0:05:14.08,0:05:15.30,Dialogue,,0,0,0,,Am plecat!
+Dialogue: 99,0:05:15.30,0:05:16.33,Dialogue,,0,0,0,,Vă mulțumesc din nou.
+Dialogue: 99,0:05:17.03,0:05:18.33,Dialogue,,0,0,0,,Izumi.
+Dialogue: 99,0:05:18.66,0:05:21.67,Dialogue,,0,0,0,,Când pleci de acasă dimineața, trebuie să spui: "Am plecat."
+Dialogue: 99,0:05:23.34,0:05:25.34,Dialogue,,0,0,0,,A-Am plecat!
+Dialogue: 99,0:05:25.68,0:05:26.94,Dialogue,,0,0,0,,Distracție plăcută.
+Dialogue: 99,0:05:32.21,0:05:33.85,Dialogue,,0,0,0,,Stai puțin...
+Dialogue: 99,0:05:33.85,0:05:36.10,Dialogue,,0,0,0,,Tocmai au ieșit din aceeași casă?
+Dialogue: 99,0:05:38.31,0:05:40.79,Dialogue,,0,0,0,,Pe bune?! Hori din clasa 1?!
+Dialogue: 99,0:05:40.79,0:05:42.67,Dialogue,,0,0,0,,Credeam că este singură!
+Dialogue: 99,0:05:42.67,0:05:43.53,Dialogue,,0,0,0,,Hori?
+Dialogue: 99,0:05:43.53,0:05:45.11,Dialogue,,0,0,0,,Ai o materie opțională cu ea, nu-i așa?
+Dialogue: 99,0:05:45.11,0:05:49.04,Dialogue,,0,0,0,,Este foarte deșteaptă și drăguță.
+Dialogue: 99,0:05:49.04,0:05:49.99,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:05:49.99,0:05:53.16,Dialogue,,0,0,0,,De ce naiba este împreună cu Miyamura?
+Dialogue: 99,0:05:53.16,0:05:55.75,Dialogue,,0,0,0,,Habar n-am, dar eu m-aș \Npotrivi mult mai bine cu ea!
+Dialogue: 99,0:05:56.01,0:05:59.02,Dialogue,,0,0,0,,Am auzit că Hori este \Nîmpreună cu Miyamura!
+Dialogue: 99,0:05:59.02,0:06:00.25,Dialogue,,0,0,0,,Pe bune?!
+Dialogue: 99,0:06:00.25,0:06:02.25,Dialogue,,0,0,0,,Tipul ăla emo?!
+Dialogue: 99,0:06:02.25,0:06:04.13,Dialogue,,0,0,0,,Vai, Doamne, ce e în {\i1}neregulă{\i0} cu ea?!
+Dialogue: 99,0:06:04.13,0:06:06.13,Dialogue,,0,0,0,,Că tot vorbeam de gusturi proaste!
+Dialogue: 99,0:06:09.55,0:06:12.08,Dialogue,,0,0,0,,Cu toții îi bârfesc pe la spate!
+Dialogue: 99,0:06:12.08,0:06:14.93,Dialogue,,0,0,0,,Și probabil și ei îi aud.
+Dialogue: 99,0:06:15.22,0:06:17.83,Dialogue,,0,0,0,,Evident, din moment ce o fac fix în același loc în care sunt și ei!
+Dialogue: 99,0:06:17.83,0:06:20.19,Dialogue,,0,0,0,,Chiar și persoane din alte \Nclase se alătură. Ce nemernici!
+Dialogue: 99,0:06:20.19,0:06:21.53,Dialogue,,0,0,0,,La naiba!
+Dialogue: 99,0:06:21.53,0:06:26.57,Dialogue,,0,0,0,,Știu. Exact când Miyamura a reușit să ajungă în acest punct...
+Dialogue: 99,0:06:28.94,0:06:31.32,Dialogue,,0,0,0,,Ce?! De ce ești {\i1}tu{\i0} cea care plânge, Yoshikawa?!
+Dialogue: 99,0:06:31.32,0:06:33.13,Dialogue,,0,0,0,,Hei...
+Dialogue: 99,0:06:33.13,0:06:35.33,Dialogue,,0,0,0,,Gata, gata. Va fi în regulă.
+Dialogue: 99,0:06:35.33,0:06:38.96,Dialogue,,0,0,0,,Hei, Hori, chiar ești \Nîmpreună cu Miyamura?
+Dialogue: 99,0:06:39.66,0:06:40.71,Dialogue,,0,0,0,,Da, de ce?
+Dialogue: 99,0:06:40.71,0:06:42.13,Dialogue,,0,0,0,,Nu se poate!
+Dialogue: 99,0:06:42.13,0:06:45.50,Dialogue,,0,0,0,,Pariez că toți băieții pe care \Ni-ai respins plâng chiar acum!
+Dialogue: 99,0:06:45.50,0:06:47.33,Dialogue,,0,0,0,,Nu am refuzat așa de mulți, știți.
+Dialogue: 99,0:06:47.33,0:06:49.84,Dialogue,,0,0,0,,Haide, nu fi așa modestă acum, Hori.
+Dialogue: 99,0:06:50.32,0:06:52.29,Dialogue,,0,0,0,,Nu le acorda atenție, Miyamura.
+Dialogue: 99,0:06:52.29,0:06:54.47,Dialogue,,0,0,0,,Sunt cu toții niște idioți.
+Dialogue: 99,0:06:54.47,0:06:57.14,Dialogue,,0,0,0,,I-am spus și lui Hori asta, \Ndar ține-ți capul sus!
+Dialogue: 99,0:06:57.14,0:07:00.10,Dialogue,,0,0,0,,Este în regulă, Miyamura. \NNu mă deranjează deloc.
+Dialogue: 99,0:07:07.76,0:07:08.61,Dialogue,,0,0,0,,Hei...
+Dialogue: 99,0:07:08.61,0:07:10.61,Dialogue,,0,0,0,,unde este iubitul tău?
+Dialogue: 99,0:07:10.87,0:07:12.37,Dialogue,,0,0,0,,N-am idee.
+Dialogue: 99,0:07:12.37,0:07:14.87,Dialogue,,0,0,0,,Hei, hei, chiulește cumva?
+Dialogue: 99,0:07:14.87,0:07:16.18,Dialogue,,0,0,0,,Auci!
+Dialogue: 99,0:07:16.18,0:07:17.87,Dialogue,,0,0,0,,Va fi aici după prânz.
+Dialogue: 99,0:07:17.87,0:07:20.37,Dialogue,,0,0,0,,Ce naiba, Ishikawa?
+Dialogue: 99,0:07:39.53,0:07:41.02,Dialogue,,0,0,0,,'Neața.
+Dialogue: 99,0:07:43.27,0:07:45.92,Dialogue,,0,0,0,,{\t(250,2100,1,\fscx110\fscy110)}Ce?!
+Dialogue: 99,0:07:45.92,0:07:47.27,Dialogue,,0,0,0,,Miyamura!
+Dialogue: 99,0:07:47.27,0:07:49.20,Dialogue,,0,0,0,,De ce te-ai tuns?
+Dialogue: 99,0:07:49.20,0:07:52.28,Dialogue,,0,0,0,,O, păi, este vară.
+Dialogue: 99,0:07:52.69,0:07:54.48,Dialogue,,0,0,0,,S-a tuns deoarece a venit vara!
+Dialogue: 99,0:07:54.48,0:07:55.86,Dialogue,,0,0,0,,Ce tare!
+Dialogue: 99,0:07:55.86,0:07:58.36,Dialogue,,0,0,0,,Hei, de ce îți porți în \Ncontinuare uniforma de iarnă?
+Dialogue: 99,0:07:58.36,0:08:00.04,Dialogue,,0,0,0,,P-Pentru că mi se face \Nfrig foarte repede.
+Dialogue: 99,0:08:00.04,0:08:02.23,Dialogue,,0,0,0,,Uau, piercingurile tale sunt așa grozave!
+Dialogue: 99,0:08:02.23,0:08:03.94,Dialogue,,0,0,0,,Când ți le-ai făcut?
+Dialogue: 99,0:08:03.94,0:08:04.79,Dialogue,,0,0,0,,În gimnaziu.
+Dialogue: 99,0:08:04.79,0:08:07.25,Dialogue,,0,0,0,,Familia ta deține o patiserie, nu-i așa?
+Dialogue: 99,0:08:07.99,0:08:09.30,Dialogue,,0,0,0,,{\i1}Vai...
+Dialogue: 99,0:08:09.30,0:08:11.26,Dialogue,,0,0,0,,{\i1}Ce privire rece!
+Dialogue: 99,0:08:12.92,0:08:14.56,Dialogue,,0,0,0,,Nu s-a făcut brusc cam frig?
+Dialogue: 99,0:08:14.56,0:08:16.01,Dialogue,,0,0,0,,D-Da, și eu simt asta...
+Dialogue: 99,0:08:16.30,0:08:18.26,Dialogue,,0,0,0,,Asta nu va dura prea mult, probabil.
+Dialogue: 99,0:08:18.26,0:08:19.90,Dialogue,,0,0,0,,Ce? Ce anume?
+Dialogue: 99,0:08:19.90,0:08:21.07,Dialogue,,0,0,0,,Despre ce vorbești?
+Dialogue: 99,0:08:21.07,0:08:22.52,Dialogue,,0,0,0,,De ce este așa de frig aici?!
+Dialogue: 99,0:08:22.92,0:08:24.52,Dialogue,,0,0,0,,Hei, Miyamura!
+Dialogue: 99,0:08:24.52,0:08:26.02,Dialogue,,0,0,0,,Care-i treaba?
+Dialogue: 99,0:08:32.16,0:08:36.51,Dialogue,,0,0,0,,Shuu, tocmai ai câștigat premiul pentru Cea Mai Bună Reacție.
+Dialogue: 99,0:08:36.51,0:08:38.46,Dialogue,,0,0,0,,Oh, tu erai, Miyamura!
+Dialogue: 99,0:08:38.46,0:08:40.44,Dialogue,,0,0,0,,Te-ai tuns.
+Dialogue: 99,0:08:40.44,0:08:41.91,Dialogue,,0,0,0,,Ai făcut-o deoarece a venit vara?
+Dialogue: 99,0:08:42.26,0:08:43.43,Dialogue,,0,0,0,,Da, mersi.
+Dialogue: 99,0:08:43.43,0:08:45.62,Dialogue,,0,0,0,,Vara este momentul potrivit \Npentru lucruri de acest gen.
+Dialogue: 99,0:08:46.46,0:08:47.11,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:08:47.11,0:08:48.67,Dialogue,,0,0,0,,Tipa aia tocmai i-a făcut o poză.
+Dialogue: 99,0:08:49.02,0:08:50.26,Dialogue,,0,0,0,,Ți-o voi trimite și ție!
+Dialogue: 99,0:08:50.26,0:08:53.02,Dialogue,,0,0,0,,Vai, asta e îngrozitor.
+Dialogue: 99,0:08:53.02,0:08:53.92,Dialogue,,0,0,0,,Hei, Hori...
+Dialogue: 99,0:08:54.83,0:08:56.47,Dialogue,,0,0,0,,Hei, nu încerca să le întreci!
+Dialogue: 99,0:08:58.68,0:09:00.92,Dialogue,,0,0,0,,Tată! Tată, vino să-i vezi părul!
+Dialogue: 99,0:09:00.92,0:09:02.06,Dialogue,,0,0,0,,Mulțumesc pentru pri...
+Dialogue: 99,0:09:02.06,0:09:04.31,Dialogue,,0,0,0,,Ce? Cine naiba ești?
+Dialogue: 99,0:09:04.95,0:09:07.87,Dialogue,,0,0,0,,Nu poți să-ți recunoști cel mai bun prieten după ce s-a tuns?
+Dialogue: 99,0:09:07.87,0:09:09.73,Dialogue,,0,0,0,,Ce?! Miyamura?!
+Dialogue: 99,0:09:09.73,0:09:11.67,Dialogue,,0,0,0,,Ce transformare!
+Dialogue: 99,0:09:11.67,0:09:13.76,Dialogue,,0,0,0,,Ți s-au dat papucii cumva?! Haide, capul sus!
+Dialogue: 99,0:09:13.76,0:09:16.06,Dialogue,,0,0,0,,Dacă i-aș fi dat papucii, nu ar fi aici!
+Dialogue: 99,0:09:16.06,0:09:16.82,Dialogue,,0,0,0,,Hm?
+Dialogue: 99,0:09:18.86,0:09:19.90,Dialogue,,0,0,0,,Cine e?
+Dialogue: 99,0:09:19.90,0:09:21.08,Dialogue,,0,0,0,,O fată poate?
+Dialogue: 99,0:09:21.08,0:09:22.94,Dialogue,,0,0,0,,Nu, doar un prieten...
+Dialogue: 99,0:09:23.74,0:09:24.83,Dialogue,,0,0,0,,Ce vrei?
+Dialogue: 99,0:09:25.42,0:09:27.04,Dialogue,,0,0,0,,Ce? Bomboane?
+Dialogue: 99,0:09:30.25,0:09:32.75,Dialogue,,0,0,0,,Hopa...
+Dialogue: 99,0:09:36.88,0:09:37.64,Dialogue,,0,0,0,,Oh...
+Dialogue: 99,0:09:38.00,0:09:38.90,Dialogue,,0,0,0,,Scuze că am întârziat.
+Dialogue: 99,0:09:40.20,0:09:41.13,Dialogue,,0,0,0,,Ce tot faci?
+Dialogue: 99,0:09:48.63,0:09:49.64,Dialogue,,0,0,0,,Ce naiba e în neregulă cu tine?!
+Dialogue: 99,0:09:49.64,0:09:52.36,Dialogue,,0,0,0,,Miyamura! Miyamura...
+Dialogue: 99,0:09:53.36,0:09:57.23,Dialogue,,0,0,0,,Dragul meu Miyamura a \Ndispărut pentru totdeauna!
+Dialogue: 99,0:09:57.23,0:09:58.84,Dialogue,,0,0,0,,Nu sunt al tău.
+Dialogue: 99,0:09:58.84,0:10:01.49,Dialogue,,0,0,0,,Haide, Shindou, părul lui va crește la loc.
+Dialogue: 99,0:10:02.19,0:10:05.53,Dialogue,,0,0,0,,Vai, dar ce pungă mare. \NEste toată plină cu bomboane?
+Dialogue: 99,0:10:05.53,0:10:07.91,Dialogue,,0,0,0,,Da. Am câștigat un concurs online.
+Dialogue: 99,0:10:07.91,0:10:11.15,Dialogue,,0,0,0,,Le-am dat deja o parte colegilor mei de clasă.
+Dialogue: 99,0:10:11.15,0:10:13.42,Dialogue,,0,0,0,,Hori, ce aromă preferi?
+Dialogue: 99,0:10:13.42,0:10:15.29,Dialogue,,0,0,0,,Nu am preferințe.
+Dialogue: 99,0:10:15.29,0:10:17.55,Dialogue,,0,0,0,,Am aici una cu rodie și una cu smochine.
+Dialogue: 99,0:10:17.81,0:10:19.52,Dialogue,,0,0,0,,Nu ai și cu căpșune?
+Dialogue: 99,0:10:19.52,0:10:23.06,Dialogue,,0,0,0,,Nu, Chika le-a luat pe toate \Ncare aveau arome normale.
+Dialogue: 99,0:10:23.06,0:10:25.65,Dialogue,,0,0,0,,{\i1}Deci acum au mai rămas \Ndoar cele cu arome ciudate.
+Dialogue: 99,0:10:25.65,0:10:28.33,Dialogue,,0,0,0,,Cu ce aromă este aceea, Hori?
+Dialogue: 99,0:10:28.33,0:10:29.69,Dialogue,,0,0,0,,Să vedem...
+Dialogue: 99,0:10:31.75,0:10:32.69,Dialogue,,0,0,0,,Brânză?
+Dialogue: 99,0:10:32.97,0:10:34.30,Dialogue,,0,0,0,,Brânză?
+Dialogue: 99,0:10:34.30,0:10:37.53,Dialogue,,0,0,0,,Nu-ți place brânza, nu-i așa, Shindou?
+Dialogue: 99,0:10:37.53,0:10:40.93,Dialogue,,0,0,0,,Deloc. Aș prefera să-mi arunc portofelul la gunoi decât să mâncă brânză.
+Dialogue: 99,0:10:41.84,0:10:43.19,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:10:45.88,0:10:48.04,Dialogue,,0,0,0,,Gura mare.
+Dialogue: 99,0:10:49.33,0:10:52.06,Dialogue,,0,0,0,,Miyamura vrea să mă hrănească cu o bomboană!
+Dialogue: 99,0:10:52.06,0:10:53.86,Dialogue,,0,0,0,,Această șansă s-ar putea să nu mai vină vreodată!
+Dialogue: 99,0:10:53.86,0:10:57.05,Dialogue,,0,0,0,,Dar este cu gust de brânză... {\i1}Brânză{\i0}!
+Dialogue: 99,0:10:59.93,0:11:02.93,Dialogue,,0,0,0,,Tipii ăștia chiar sunt prieteni?
+Dialogue: 99,0:11:03.28,0:11:04.26,Dialogue,,0,0,0,,Este bună?
+Dialogue: 99,0:11:04.26,0:11:06.64,Dialogue,,0,0,0,,Evident că nu, prostule!
+Dialogue: 99,0:11:06.64,0:11:08.34,Dialogue,,0,0,0,,Răule!
+Dialogue: 99,0:11:08.34,0:11:10.04,Dialogue,,0,0,0,,Cu ce aromă este aia?
+Dialogue: 99,0:11:10.04,0:11:12.26,Dialogue,,0,0,0,,Ce? Păi, pământ?
+Dialogue: 99,0:11:12.26,0:11:13.28,Dialogue,,0,0,0,,Pământ?!
+Dialogue: 99,0:11:13.28,0:11:14.36,Dialogue,,0,0,0,,Este foarte amară.
+Dialogue: 99,0:11:20.57,0:11:21.35,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:11:26.71,0:11:29.63,Dialogue,,0,0,0,,Miyamura, îmi poți aduce un pahar cu apă?
+Dialogue: 99,0:11:29.63,0:11:31.14,Dialogue,,0,0,0,,Ești așa enervant.
+Dialogue: 99,0:11:31.14,0:11:33.92,Dialogue,,0,0,0,,Hei! Tu ești cel care m-a făcut s-o mănânc!
+Dialogue: 99,0:11:36.75,0:11:38.52,Dialogue,,0,0,0,,Ce s-a întâmplat, Hori?
+Dialogue: 99,0:11:38.52,0:11:40.65,Dialogue,,0,0,0,,Mi-a furat bomboana.
+Dialogue: 99,0:11:40.65,0:11:42.59,Dialogue,,0,0,0,,Ce? Cu ce aromă era?
+Dialogue: 99,0:11:42.59,0:11:44.17,Dialogue,,0,0,0,,Mai am o grămadă.
+Dialogue: 99,0:11:44.17,0:11:45.23,Dialogue,,0,0,0,,Uite.
+Dialogue: 99,0:11:45.23,0:11:46.89,Dialogue,,0,0,0,,S-Sunt în regulă, mersi!
+Dialogue: 99,0:11:46.89,0:11:49.89,Dialogue,,0,0,0,,Bine, atunci ar trebui să încerci această aromă!
+Dialogue: 99,0:11:56.16,0:11:59.07,Dialogue,,0,0,0,,Are dreptate. Chiar are gust de pământ.
+Dialogue: 99,0:12:00.02,0:12:03.06,Dialogue,,0,0,0,,Fetele au încetat să mai sară pe tine.
+Dialogue: 99,0:12:03.06,0:12:05.07,Dialogue,,0,0,0,,Guess the novelty wore off.
+Dialogue: 99,0:12:05.55,0:12:07.49,Dialogue,,0,0,0,,Honestly, it's a big relief...
+Dialogue: 99,0:12:08.67,0:12:10.50,Dialogue,,0,0,0,,Ce? O cunoști?
+Dialogue: 99,0:12:10.50,0:12:13.84,Dialogue,,0,0,0,,Nu, nu cred.
+Dialogue: 99,0:12:13.84,0:12:16.25,Dialogue,,0,0,0,,{\i1}De ce se holba la mine?
+Dialogue: 99,0:12:16.54,0:12:18.79,Dialogue,,0,0,0,,De ce se holba la tine?
+Dialogue: 99,0:12:18.79,0:12:19.76,Dialogue,,0,0,0,,N-am idee.
+Dialogue: 99,0:12:22.68,0:12:26.27,Dialogue,,0,0,0,,We were watching TV when it came on\Nout of nowhere!
+Dialogue: 99,0:12:26.27,0:12:28.26,Dialogue,,0,0,0,,We were so freaked...
+Dialogue: 99,0:12:28.53,0:12:30.10,Dialogue,,0,0,0,,Ce s-a întâmplat, Hori?
+Dialogue: 99,0:12:30.10,0:12:32.44,Dialogue,,0,0,0,,O, nimic, doar că...
+Dialogue: 99,0:12:32.44,0:12:33.65,Dialogue,,0,0,0,,Hori!
+Dialogue: 99,0:12:33.65,0:12:34.40,Dialogue,,0,0,0,,Cine ești?!
+Dialogue: 99,0:12:34.40,0:12:37.15,Dialogue,,0,0,0,,Ești iubita lui Miyamura?
+Dialogue: 99,0:12:37.15,0:12:39.02,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:12:40.54,0:12:42.11,Dialogue,,0,0,0,,Dorești cumva ceva?
+Dialogue: 99,0:12:44.06,0:12:45.30,Dialogue,,0,0,0,,Îmi cer scuze că te-am deranjat!
+Dialogue: 99,0:13:02.46,0:13:05.13,Dialogue,,0,0,0,,Vai, chiar mă sperie!
+Dialogue: 99,0:13:07.81,0:13:08.64,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:13:11.98,0:13:13.27,Dialogue,,0,0,0,,Deci...
+Dialogue: 99,0:13:13.27,0:13:15.04,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:13:15.04,0:13:17.17,Dialogue,,0,0,0,,Când te vei despărți de ea?!
+Dialogue: 99,0:13:17.17,0:13:17.77,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:13:17.77,0:13:20.90,Dialogue,,0,0,0,,Când te vei despărți de Hori?!
+Dialogue: 99,0:13:20.90,0:13:22.34,Dialogue,,0,0,0,,Stai, ce?
+Dialogue: 99,0:13:22.34,0:13:23.34,Dialogue,,0,0,0,,O înșală cumva?
+Dialogue: 99,0:13:23.34,0:13:24.75,Dialogue,,0,0,0,,Ce? Nu!
+Dialogue: 99,0:13:24.75,0:13:26.92,Dialogue,,0,0,0,,Când te vei despărți de ea?!
+Dialogue: 99,0:13:27.84,0:13:29.16,Dialogue,,0,0,0,,Niciodată!
+Dialogue: 99,0:13:31.74,0:13:33.97,Dialogue,,0,0,0,,Eu sunt Sawada Honoka din clasa 2-5
+Dialogue: 99,0:13:33.97,0:13:35.15,Dialogue,,0,0,0,,și mă voi întoarce! {Arnold Schwarzenegger here, baby}
+Dialogue: 99,0:13:35.64,0:13:37.87,Dialogue,,0,0,0,,Chiar te rog să nu.
+Dialogue: 99,0:13:37.87,0:13:39.17,Dialogue,,0,0,0,,Mă voi întoarce, am zis!
+Dialogue: 99,0:13:39.90,0:13:41.45,Dialogue,,0,0,0,,Ce naiba?
+Dialogue: 99,0:13:42.17,0:13:45.17,Dialogue,,0,0,0,,Deci este în anul doi, nu?
+Dialogue: 99,0:13:46.72,0:13:49.68,Dialogue,,0,0,0,,Mă urmărește în fiecare pauză.
+Dialogue: 99,0:13:50.87,0:13:52.92,Dialogue,,0,0,0,,Care era numele ei?
+Dialogue: 99,0:13:52.92,0:13:54.70,Dialogue,,0,0,0,,Sawada Honoka!
+Dialogue: 99,0:13:54.70,0:13:55.43,Dialogue,,0,0,0,,Și a apărut!
+Dialogue: 99,0:13:55.43,0:13:58.44,Dialogue,,0,0,0,,În regulă, ce dorești?
+Dialogue: 99,0:13:58.79,0:14:01.05,Dialogue,,0,0,0,,De ce continui să-l urmărești?
+Dialogue: 99,0:14:01.05,0:14:02.94,Dialogue,,0,0,0,,E-Ei bine...
+Dialogue: 99,0:14:03.35,0:14:04.38,Dialogue,,0,0,0,,"{\i1}Ei bine{\i0}" ce?!
+Dialogue: 99,0:14:04.38,0:14:05.82,Dialogue,,0,0,0,,Hori!
+Dialogue: 99,0:14:06.12,0:14:08.82,Dialogue,,0,0,0,,Te iubesc prea mult încât \Nsă mă mai pot stăpâni!
+Dialogue: 99,0:14:08.82,0:14:12.14,Dialogue,,0,0,0,,Nu am avut nicio idee că aveai pe cineva!
+Dialogue: 99,0:14:13.04,0:14:15.04,Dialogue,,0,0,0,,Uită-te la el, zici că e un băț și are piercinguri!
+Dialogue: 99,0:14:15.31,0:14:17.16,Dialogue,,0,0,0,,Ce îți place la el?!
+Dialogue: 99,0:14:18.00,0:14:22.23,Dialogue,,0,0,0,,Eu te-am iubit {\i1}prima{\i0}, Hori!
+Dialogue: 99,0:14:23.80,0:14:25.58,Dialogue,,0,0,0,,Cât de neașteptat!
+Dialogue: 99,0:14:26.10,0:14:27.24,Dialogue,,0,0,0,,Ishikawa!
+Dialogue: 99,0:14:27.24,0:14:30.31,Dialogue,,0,0,0,,Scuze, trăgeam cu urechea deoarece părea că va fi foarte amuzant.
+Dialogue: 99,0:14:30.31,0:14:31.79,Dialogue,,0,0,0,,Hei, încetează!
+Dialogue: 99,0:14:31.79,0:14:33.68,Dialogue,,0,0,0,,Nu poți face ceva în legătură cu ea?!
+Dialogue: 99,0:14:33.68,0:14:35.68,Dialogue,,0,0,0,,Hei, Sawada?
+Dialogue: 99,0:14:35.68,0:14:37.20,Dialogue,,0,0,0,,Ai putea să-i dai drumul lui...
+Dialogue: 99,0:14:37.20,0:14:38.19,Dialogue,,0,0,0,,Gura, delincventule.
+Dialogue: 99,0:14:39.55,0:14:41.56,Dialogue,,0,0,0,,Ce? Cum m-ai făcut?
+Dialogue: 99,0:14:41.86,0:14:42.93,Dialogue,,0,0,0,,Delincvent.
+Dialogue: 99,0:14:49.07,0:14:50.56,Dialogue,,0,0,0,,Dă-i drumul!
+Dialogue: 99,0:14:50.56,0:14:51.82,Dialogue,,0,0,0,,Nici gând!
+Dialogue: 99,0:14:51.82,0:14:54.90,Dialogue,,0,0,0,,Sawada, dacă erai băiat, \Nte-aș fi pocnit până acum!
+Dialogue: 99,0:14:54.90,0:14:57.29,Dialogue,,0,0,0,,Eu o plac mai mult! O iubesc!
+Dialogue: 99,0:14:57.29,0:14:59.92,Dialogue,,0,0,0,,Ce naiba îți place la tipul ăsta, Hori?!
+Dialogue: 99,0:14:59.92,0:15:02.80,Dialogue,,0,0,0,,Ce? Lasă-mă să mă gândesc puțin.
+Dialogue: 99,0:15:02.80,0:15:04.46,Dialogue,,0,0,0,,Trebuie să te gândești ca să răspunzi?!
+Dialogue: 99,0:15:09.13,0:15:10.13,Dialogue,,0,0,0,,Este a {\i1}mea{\i0}!
+Dialogue: 99,0:15:11.38,0:15:13.32,Dialogue,,0,0,0,,Ți-a luat ceva, Yoshikawa.
+Dialogue: 99,0:15:13.32,0:15:15.32,Dialogue,,0,0,0,,Spectacolul s-a cam terminat.
+Dialogue: 99,0:15:15.32,0:15:15.89,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:15:16.49,0:15:18.89,Dialogue,,0,0,0,,Încă este destul de amuzant \Nceea ce se întâmplă.
+Dialogue: 99,0:15:19.46,0:15:20.89,Dialogue,,0,0,0,,Hori!
+Dialogue: 99,0:15:20.89,0:15:24.10,Dialogue,,0,0,0,,Am făcut astea la educație tehnologică!
+Dialogue: 99,0:15:24.10,0:15:26.04,Dialogue,,0,0,0,,Gheruțele jos, Sawada.
+Dialogue: 99,0:15:26.90,0:15:29.07,Dialogue,,0,0,0,,{\i1}Iar încep...
+Dialogue: 99,0:15:29.07,0:15:31.26,Dialogue,,0,0,0,,Gura, Miyamura! Ține-ți pliscul închis!
+Dialogue: 99,0:15:31.26,0:15:32.53,Dialogue,,0,0,0,,Nici gând!
+Dialogue: 99,0:15:32.53,0:15:36.59,Dialogue,,0,0,0,,Hori mi-a spus că pot vorbi cu ea!
+Dialogue: 99,0:15:36.59,0:15:38.48,Dialogue,,0,0,0,,Nu-i așa, Hori?
+Dialogue: 99,0:15:38.48,0:15:41.00,Dialogue,,0,0,0,,D-Da, așa este...
+Dialogue: 99,0:15:44.40,0:15:46.46,Dialogue,,0,0,0,,S-a sunat de intrare! \NHaide să mergem în clasă!
+Dialogue: 99,0:15:46.98,0:15:47.95,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:15:48.70,0:15:49.47,Dialogue,,0,0,0,,Hori!
+Dialogue: 99,0:15:49.86,0:15:51.82,Dialogue,,0,0,0,,Te rog, ascultă-ți {\i1}iubitul{\i0}.
+Dialogue: 99,0:15:51.82,0:15:53.47,Dialogue,,0,0,0,,Haide să mergem în clasă.
+Dialogue: 99,0:15:53.80,0:15:55.72,Dialogue,,0,0,0,,B-Bine.
+Dialogue: 99,0:15:55.72,0:15:58.47,Dialogue,,0,0,0,,Hori!
+Dialogue: 99,0:16:01.27,0:16:02.24,Dialogue,,0,0,0,,Miyamura!
+Dialogue: 99,0:16:03.49,0:16:05.31,Dialogue,,0,0,0,,Sawada, tu...
+Dialogue: 99,0:16:05.31,0:16:07.88,Dialogue,,0,0,0,,Încetează să mai apari de nicăieri!
+Dialogue: 99,0:16:07.88,0:16:09.33,Dialogue,,0,0,0,,Unde este Hori?
+Dialogue: 99,0:16:09.85,0:16:12.25,Dialogue,,0,0,0,,A plecat acasă mai devreme \Ndoarece avea niște treabă.
+Dialogue: 99,0:16:14.33,0:16:16.62,Dialogue,,0,0,0,,Atunci, cred că voi pleca și eu acasă.
+Dialogue: 99,0:16:30.38,0:16:32.61,Dialogue,,0,0,0,,De ce mergi în aceeași direcție?!
+Dialogue: 99,0:16:32.61,0:16:34.38,Dialogue,,0,0,0,,Mi-ai luat vorbele din gură.
+Dialogue: 99,0:16:48.82,0:16:50.26,Dialogue,,0,0,0,,Suntem vecini?!
+Dialogue: 99,0:16:50.26,0:16:51.53,Dialogue,,0,0,0,,P-Pe bune?!
+Dialogue: 99,0:16:51.94,0:16:54.28,Dialogue,,0,0,0,,Ce fel de coincidență stupidă mai e și asta?
+Dialogue: 99,0:16:54.28,0:16:56.66,Dialogue,,0,0,0,,Oh, ce mă fac...
+Dialogue: 99,0:16:56.97,0:16:59.41,Dialogue,,0,0,0,,Mi-am lăsat cheia înăuntru...
+Dialogue: 99,0:17:02.27,0:17:04.23,Dialogue,,0,0,0,,Mersi pentru prăjitură!
+Dialogue: 99,0:17:06.77,0:17:08.96,Dialogue,,0,0,0,,Este așa de bună!
+Dialogue: 99,0:17:08.96,0:17:12.01,Dialogue,,0,0,0,,Lași pe oricine să vină la tine, Miyamura?
+Dialogue: 99,0:17:12.34,0:17:14.96,Dialogue,,0,0,0,,Nu, nu pe oricine.
+Dialogue: 99,0:17:14.96,0:17:17.05,Dialogue,,0,0,0,,Nici măcar Hori nu trece pe aici așa des.
+Dialogue: 99,0:17:17.05,0:17:18.26,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:17:20.64,0:17:24.91,Dialogue,,0,0,0,,Poate că lucrurile nu merg \Nașa de bine pe cât credeam!
+Dialogue: 99,0:17:24.91,0:17:27.60,Dialogue,,0,0,0,,Te înșeli. Eu merg mereu acasă la ea.
+Dialogue: 99,0:17:28.50,0:17:29.77,Dialogue,,0,0,0,,Oh.
+Dialogue: 99,0:17:30.22,0:17:32.78,Dialogue,,0,0,0,,Hei, Miyamura, mai ai frați sau surori?
+Dialogue: 99,0:17:33.19,0:17:35.18,Dialogue,,0,0,0,,Nu, suntem doar eu, mama și tata.
+Dialogue: 99,0:17:35.18,0:17:36.64,Dialogue,,0,0,0,,Hm...
+Dialogue: 99,0:17:37.22,0:17:40.52,Dialogue,,0,0,0,,Chiar credeam că ai o soră \Nsau un frate mai mic.
+Dialogue: 99,0:17:40.52,0:17:41.80,Dialogue,,0,0,0,,De ce?
+Dialogue: 99,0:17:41.80,0:17:43.16,Dialogue,,0,0,0,,Deoarece știi să ai grijă de alții.
+Dialogue: 99,0:17:47.13,0:17:48.09,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:17:49.07,0:17:51.42,Dialogue,,0,0,0,,De ce râzi?!
+Dialogue: 99,0:17:53.38,0:17:54.44,Dialogue,,0,0,0,,O, vai!
+Dialogue: 99,0:17:54.99,0:17:56.04,Dialogue,,0,0,0,,Honoka.
+Dialogue: 99,0:17:59.93,0:18:01.18,Dialogue,,0,0,0,,Știi, eu...
+Dialogue: 99,0:18:02.36,0:18:04.14,Dialogue,,0,0,0,,Eu am avut un frate mai mare.
+Dialogue: 99,0:18:04.57,0:18:06.02,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:18:07.52,0:18:09.78,Dialogue,,0,0,0,,Era cu un an mai mare decât mine.
+Dialogue: 99,0:18:13.01,0:18:14.57,Dialogue,,0,0,0,,Glumeam doar!
+Dialogue: 99,0:18:14.57,0:18:15.78,Dialogue,,0,0,0,,Am inventat totul!
+Dialogue: 99,0:18:16.24,0:18:17.28,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:18:17.57,0:18:19.75,Dialogue,,0,0,0,,Haide, doar făceam mișto de tine!
+Dialogue: 99,0:18:20.51,0:18:22.49,Dialogue,,0,0,0,,O, s-au întors!
+Dialogue: 99,0:18:22.97,0:18:24.63,Dialogue,,0,0,0,,Mersi din nou pentru prăjitură.
+Dialogue: 99,0:18:24.63,0:18:25.60,Dialogue,,0,0,0,,Ne mai vedem!
+Dialogue: 99,0:18:25.60,0:18:26.37,Dialogue,,0,0,0,,Hei, Sawada?
+Dialogue: 99,0:18:27.06,0:18:28.87,Dialogue,,0,0,0,,Poți trece pe aici pentru prăjituri oricând dorești.
+Dialogue: 99,0:18:30.32,0:18:31.08,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:18:36.79,0:18:39.89,Dialogue,,0,0,0,,Da, asta s-a întâmplat cu \Nfamilia Sawada de alături.
+Dialogue: 99,0:18:40.60,0:18:43.75,Dialogue,,0,0,0,,Este foarte trist că și-au \Npierdut fiul cel mare astfel.
+Dialogue: 99,0:18:43.75,0:18:45.39,Dialogue,,0,0,0,,Probabil nu vă vedeați prea des
+Dialogue: 99,0:18:45.39,0:18:47.07,Dialogue,,0,0,0,,din moment ce mergea la o altă școală.
+Dialogue: 99,0:18:47.56,0:18:49.00,Dialogue,,0,0,0,,Când a murit?
+Dialogue: 99,0:18:49.00,0:18:50.52,Dialogue,,0,0,0,,Anul trecut în...
+Dialogue: 99,0:18:50.79,0:18:52.69,Dialogue,,0,0,0,,Nu mai țin bine minte când.
+Dialogue: 99,0:18:52.69,0:18:54.39,Dialogue,,0,0,0,,Era așa un băiat bun.
+Dialogue: 99,0:18:55.02,0:18:55.90,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:18:57.70,0:18:58.99,Dialogue,,0,0,0,,Fratele ei mai mare...
+Dialogue: 99,0:19:01.08,0:19:04.57,Dialogue,,0,0,0,,Pe cine aștepți, Sawada?
+Dialogue: 99,0:19:04.57,0:19:06.22,Dialogue,,0,0,0,,Un prieten.
+Dialogue: 99,0:19:06.22,0:19:09.30,Dialogue,,0,0,0,,Da, sigur! O pândești \Npe Hori! Pleacă acasă! {Ieși acasă!}
+Dialogue: 99,0:19:09.30,0:19:11.04,Dialogue,,0,0,0,,Cine naiba te crezi?!
+Dialogue: 99,0:19:11.04,0:19:13.24,Dialogue,,0,0,0,,Nu mă comanzi tu!
+Dialogue: 99,0:19:14.39,0:19:15.27,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:19:16.35,0:19:17.42,Dialogue,,0,0,0,,Tocmai ai scăpat de la ore?
+Dialogue: 99,0:19:17.42,0:19:19.51,Dialogue,,0,0,0,,Ce scundă ești. Ești cumva anul întâi?
+Dialogue: 99,0:19:19.51,0:19:21.28,Dialogue,,0,0,0,,Vai, ce tăcută a devenit.
+Dialogue: 99,0:19:21.89,0:19:22.43,Dialogue,,0,0,0,,Te temi de noi?
+Dialogue: 99,0:19:22.43,0:19:24.15,Dialogue,,0,0,0,,Nu suntem băieți răi.
+Dialogue: 99,0:19:24.15,0:19:26.18,Dialogue,,0,0,0,,Haide, spune ceva.
+Dialogue: 99,0:19:26.56,0:19:28.36,Dialogue,,0,0,0,,Măcar cum te cheamă!
+Dialogue: 99,0:19:28.36,0:19:29.50,Dialogue,,0,0,0,,Haide, spune-ne!
+Dialogue: 99,0:19:37.85,0:19:40.45,Dialogue,,0,0,0,,H-Hei... vreți să mergem acasă?
+Dialogue: 99,0:19:40.45,0:19:42.29,Dialogue,,0,0,0,,D-Da.
+Dialogue: 99,0:19:42.29,0:19:43.53,Dialogue,,0,0,0,,Bună idee.
+Dialogue: 99,0:19:46.50,0:19:49.59,Dialogue,,0,0,0,,Doar încercam să mă gândesc la ce să spun...
+Dialogue: 99,0:19:49.59,0:19:52.65,Dialogue,,0,0,0,,Băieții te fac să te simți incomod, Sawada?
+Dialogue: 99,0:19:53.22,0:19:54.04,Dialogue,,0,0,0,,Puțin.
+Dialogue: 99,0:19:54.39,0:19:57.55,Dialogue,,0,0,0,,{\i1}Știi, {\i0}și{\i1} eu sunt băiat...
+Dialogue: 99,0:19:57.55,0:20:00.83,Dialogue,,0,0,0,,Vai, Hori chiar întârzie!
+Dialogue: 99,0:20:00.83,0:20:02.05,Dialogue,,0,0,0,,Știam eu!
+Dialogue: 99,0:20:02.61,0:20:03.95,Dialogue,,0,0,0,,Scuze că a durat atât!
+Dialogue: 99,0:20:05.18,0:20:08.89,Dialogue,,0,0,0,,Am făcut baie acasă la Hori.
+Dialogue: 99,0:20:08.89,0:20:11.51,Dialogue,,0,0,0,,Ce?! Atunci, și eu voi face același lucru!
+Dialogue: 99,0:20:11.51,0:20:12.51,Dialogue,,0,0,0,,Tu nu ai voie!
+Dialogue: 99,0:20:12.51,0:20:13.81,Dialogue,,0,0,0,,Cine zice?!
+Dialogue: 99,0:20:14.94,0:20:17.23,Dialogue,,0,0,0,,{\an8}A-Ajutor, cineva...
+Dialogue: 99,0:20:16.02,0:20:18.69,Dialogue,,0,0,0,,Ne putem uita la seria asta altă dată?
+Dialogue: 99,0:20:19.05,0:20:21.52,Dialogue,,0,0,0,,Nu, trebuie s-o returnez mâine.
+Dialogue: 99,0:20:21.52,0:20:23.98,Dialogue,,0,0,0,,Filmele horror {\i1}chiar{\i0} îmi fac pielea de gâină.
+Dialogue: 99,0:20:23.98,0:20:26.87,Dialogue,,0,0,0,,Nu-mi vine să cred că propria mea fiică m-ar abuza astfel...
+Dialogue: 99,0:20:26.87,0:20:29.49,Dialogue,,0,0,0,,Este în regulă. Și eu mă sperii la ele.
+Dialogue: 99,0:20:29.49,0:20:34.09,Dialogue,,0,0,0,,Seria asta este despre o fată care plănuiește să-și omoare tatăl!
+Dialogue: 99,0:20:34.09,0:20:35.69,Dialogue,,0,0,0,,Cred că exagerați puțin.
+Dialogue: 99,0:20:36.71,0:20:39.51,Dialogue,,0,0,0,,Chiar îți place așa de mult acest film, Hori?
+Dialogue: 99,0:20:39.51,0:20:43.55,Dialogue,,0,0,0,,Vai, chiar mă asemăn {\i1}foarte{\i0} \Nmult cu personajul principal.
+Dialogue: 99,0:20:43.55,0:20:44.97,Dialogue,,0,0,0,,{\i1}Relația lor e o cauză pierdută.
+Dialogue: 99,0:20:45.51,0:20:47.85,Dialogue,,0,0,0,,În tot acest timp, am tăcut și am înghițit.
+Dialogue: 99,0:20:47.85,0:20:49.72,Dialogue,,0,0,0,,Dar mi-a ajuns!
+Dialogue: 99,0:20:51.36,0:20:53.99,Dialogue,,0,0,0,,Merg să-mi cumpăr țigări!
+Dialogue: 99,0:20:53.99,0:20:55.59,Dialogue,,0,0,0,,Nu veniți să mă căutați!
+Dialogue: 99,0:21:00.94,0:21:02.40,Dialogue,,0,0,0,,Hei, Miyamura.
+Dialogue: 99,0:21:02.40,0:21:04.24,Dialogue,,0,0,0,,Nu încerci niciodată nimic cu mine.
+Dialogue: 99,0:21:07.57,0:21:08.33,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:21:09.76,0:21:10.24,Dialogue,,0,0,0,,Stai...
+Dialogue: 99,0:21:16.76,0:21:18.51,Dialogue,,0,0,0,,Vrei s-o fac?
+Dialogue: 99,0:21:25.01,0:21:28.26,Dialogue,,0,0,0,,Ea este cea care a spus-o, \Ndar acum este complet rușinată.
+Dialogue: 99,0:21:30.85,0:21:32.21,Dialogue,,0,0,0,,Ce este așa amuzant?!
+Dialogue: 99,0:21:32.21,0:21:35.63,Dialogue,,0,0,0,,Nimic, doar mă gândeam cât ești de drăguță.
+Dialogue: 99,0:21:35.63,0:21:36.57,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:21:37.38,0:21:40.52,Dialogue,,0,0,0,,Hori, ce mai exact ai vrea să încerc?
+Dialogue: 99,0:21:41.84,0:21:44.03,Dialogue,,0,0,0,,E-Ei bine...
+Dialogue: 99,0:21:48.19,0:21:48.78,Dialogue,,0,0,0,,Miya...
+Dialogue: 99,0:21:48.78,0:21:51.67,Dialogue,,0,0,0,,Kyouko! Ai cumva niște mărunt?
+Dialogue: 99,0:21:52.30,0:21:56.54,Dialogue,,0,0,0,,Vai, cât de jenant! \NMi-am uitat portofelul!
+Dialogue: 99,0:21:58.35,0:22:00.04,Dialogue,,0,0,0,,Oh? Ce este, Kyouko?
+Dialogue: 99,0:22:00.36,0:22:03.53,Dialogue,,0,0,0,,Au, au! Auci!
+Dialogue: 99,0:22:04.60,0:22:07.16,Dialogue,,0,0,0,,Stai, am întrerupt cumva ceva?
+Dialogue: 99,0:22:07.16,0:22:08.36,Dialogue,,0,0,0,,V-am deranjat?
+Dialogue: 99,0:22:08.36,0:22:09.51,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:22:10.66,0:22:14.02,Dialogue,,0,0,0,,Haide să reconstituim acea scenă din film.
+Dialogue: 99,0:22:14.02,0:22:16.52,Dialogue,,0,0,0,,Miyamura, salvează-mă!
+Dialogue: 99,0:22:16.52,0:22:18.99,Dialogue,,0,0,0,,Vom face maraton la \Ntoate cele trei filme!
+Dialogue: 99,0:22:18.99,0:22:20.24,Dialogue,,0,0,0,,Fără pauză de toaletă!
+Dialogue: 99,0:22:20.24,0:22:22.02,Dialogue,,0,0,0,,Nu!
 Dialogue: 0,0:03:24.89,0:03:24.93,DedzuyaSigns,,0,0,0,,{\an8\pos(1023.34,723.9)\fscx169.81\fscy169.81\frz3.95\fnBrianne's hand\fs100\fsp5\c&H0000FF&\alpha&HF8&\blur2}Horimiya
 Dialogue: 0,0:03:24.93,0:03:24.97,DedzuyaSigns,,0,0,0,,{\an8\pos(1023.32,723.97)\fscx169.89\fscy169.89\frz3.95\fnBrianne's hand\fs100\fsp5\c&H0000FF&\alpha&HF5&\blur2}Horimiya
 Dialogue: 0,0:03:24.97,0:03:25.01,DedzuyaSigns,,0,0,0,,{\an8\pos(1023.31,724.04)\fscx169.96\fscy169.96\frz3.95\fnBrianne's hand\fs100\fsp5\c&H0000FF&\alpha&HF2&\blur2}Horimiya

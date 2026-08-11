@@ -433,18 +433,18 @@ Comment: 100,0:02:11.19,0:02:17.36,OP Romaji,,0,0,0,karaoke,{\k7}{\k21}to{\k17}b
 Comment: 100,0:02:17.36,0:02:22.28,OP Romaji,,0,0,0,karaoke,{\k5}{\k18}ho{\k14}ra {\k34}de{\k18}a{\k38}e{\k32}rut{\k36}te {\k13}ki{\k25}se{\k52}ki {\k54}gyut{\k18}to {\k17}chi{\k16}ka{\k22}dzu{\k17}i{\k56}ta{\k8}
 Comment: 100,0:02:22.28,0:02:29.12,OP Romaji,,0,0,0,karaoke,{\k20}{\k40}tsu{\k14}ma{\k22}sa{\k19}ki {\k77}de {\k43}no{\k41}zo{\k17}i{\k45}ta {\k45}mi{\k118}ra{\k29}i {\k147}ni{\k8}
 Comment: 100,0:02:29.75,0:02:37.72,OP Romaji,,0,0,0,karaoke,{\k12}{\k35}sot{\k28}to {\k26}hi{\k18}ku {\k69}con{\k126}trail {\k54}yu{\k35}me {\k35}no {\k364}rain{\k0}
-Dialogue: 100,0:01:34.28,0:01:38.78,OP Română,,0,0,0,,{\blur3\fad(200,200)}Vântul şi păsările
-Dialogue: 100,0:01:38.78,0:01:41.66,OP Română,,0,0,0,,{\blur3\fad(200,200)}Îmi mângâie părul de parcă mă invită în cer
-Dialogue: 100,0:01:41.66,0:01:44.91,OP Română,,0,0,0,,{\blur3\fad(200,200)}Şi îmi fură atenţia
-Dialogue: 100,0:01:45.66,0:01:50.04,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aşa cum soarele îmi arde obrajii
-Dialogue: 100,0:01:50.04,0:01:52.92,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aş putea să mă uit la cer
-Dialogue: 100,0:01:52.92,0:01:56.47,OP Română,,0,0,0,,{\blur3\fad(200,200)}Doar dacă aş putea să zbor ca ele
-Dialogue: 100,0:01:56.93,0:02:04.77,OP Română,,0,0,0,,{\blur3\fad(200,200)}Ciuleşte-ţi urechile şi ascultă fluierul începutului
-Dialogue: 100,0:02:04.77,0:02:10.61,OP Română,,0,0,0,,{\blur3\fad(200,200)}Mişcă aripile inimii mele, \Nîn timp ce răsună prin cerul albastru
-Dialogue: 100,0:02:11.19,0:02:17.36,OP Română,,0,0,0,,{\blur3\fad(200,200)}Să zburăm pe lângă aceste zile monotone şi plictisitoare
-Dialogue: 100,0:02:17.36,0:02:22.28,OP Română,,0,0,0,,{\blur3\fad(200,200)}Miracolul pe care-l căutam este exact în faţă
-Dialogue: 100,0:02:22.28,0:02:29.12,OP Română,,0,0,0,,{\blur3\fad(200,200)}Cu el putem atinge viitorul la care visam
-Dialogue: 100,0:02:29.75,0:02:37.72,OP Română,,0,0,0,,{\blur3\fad(200,200)}Se află dincolo de vârful degetelor noastre
+Dialogue: 99,0:01:34.28,0:01:38.78,OP Română,,0,0,0,,{\blur3\fad(200,200)}Vântul şi păsările
+Dialogue: 99,0:01:38.78,0:01:41.66,OP Română,,0,0,0,,{\blur3\fad(200,200)}Îmi mângâie părul de parcă mă invită în cer
+Dialogue: 99,0:01:41.66,0:01:44.91,OP Română,,0,0,0,,{\blur3\fad(200,200)}Şi îmi fură atenţia
+Dialogue: 99,0:01:45.66,0:01:50.04,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aşa cum soarele îmi arde obrajii
+Dialogue: 99,0:01:50.04,0:01:52.92,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aş putea să mă uit la cer
+Dialogue: 99,0:01:52.92,0:01:56.47,OP Română,,0,0,0,,{\blur3\fad(200,200)}Doar dacă aş putea să zbor ca ele
+Dialogue: 99,0:01:56.93,0:02:04.77,OP Română,,0,0,0,,{\blur3\fad(200,200)}Ciuleşte-ţi urechile şi ascultă fluierul începutului
+Dialogue: 99,0:02:04.77,0:02:10.61,OP Română,,0,0,0,,{\blur3\fad(200,200)}Mişcă aripile inimii mele, \Nîn timp ce răsună prin cerul albastru
+Dialogue: 99,0:02:11.19,0:02:17.36,OP Română,,0,0,0,,{\blur3\fad(200,200)}Să zburăm pe lângă aceste zile monotone şi plictisitoare
+Dialogue: 99,0:02:17.36,0:02:22.28,OP Română,,0,0,0,,{\blur3\fad(200,200)}Miracolul pe care-l căutam este exact în faţă
+Dialogue: 99,0:02:22.28,0:02:29.12,OP Română,,0,0,0,,{\blur3\fad(200,200)}Cu el putem atinge viitorul la care visam
+Dialogue: 99,0:02:29.75,0:02:37.72,OP Română,,0,0,0,,{\blur3\fad(200,200)}Se află dincolo de vârful degetelor noastre
 Comment: 0,0:00:00.00,0:00:00.00,ED Romaji 1,,0,0,0,,Ending
 Comment: 0,0:00:00.00,0:00:00.00,ED Romaji 1,,0,0,0,template syl,{\pos($x,$y)\org(5000,$y)\blur3\fad(200,200)\3c&H891852&\c&HFFFFFF&\t($start,$mid,\c&HFFA6D3&)\t($start,$mid,\fscy110\fscx105\frz-0.1)\t($mid,$end,\fscx100\fscy100\frz0)}
 Comment: 0,0:00:00.00,0:00:00.00,ED Romaji 2,,0,0,0,template syl,{\pos($x,$y)\org(5000,$y)\blur3\fad(200,200)\3c&H4D34A9&\c&HFFFFFF&\t($start,$mid,\c&HC2B7F8&)\t($start,$mid,\fscx105\fscy110\frz-0.1)\t($mid,$end,\fscx100\fscy100\frz0)}
@@ -470,26 +470,26 @@ Comment: 100,0:23:26.69,0:23:30.15,ED Romaji 2,,0,0,0,karaoke,{\k13}{\k34}{\3c&H
 Comment: 100,0:23:30.15,0:23:33.78,ED Romaji 2,,0,0,0,karaoke,{\k21}{\k46}{\3c&H4D34A9&\c&HC2B7F8&}ki{\k23}mi {\k23}ga {\k22}ho{\k23}ho{\k45}e{\k42}mu {\k27}ka{\k77}ra{\k12}
 Comment: 100,0:23:33.78,0:23:40.96,ED Romaji 4,,0,0,0,karaoke,{\k21}{\k45}{\3c&HAF744D&\c&HFCECBC&}ni{\k24}gi{\k12}ri{\k30}shi{\k25}me{\k43}te{\k68}ta {\k23}te {\k43}wo {\k68}ip{\k46}pai {\k22}ni {\k47}hi{\k21}ro{\k150}ge{\k30}
 Comment: 100,0:23:40.96,0:23:44.54,ED Romaji 4,,0,0,0,karaoke,{\k24}{\k27}{\3c&HAF744D&\c&HFCECBC&}is{\k40}sho {\k21}ni {\k25}to{\k195}bou{\k27}
-Dialogue: 100,0:22:15.50,0:22:19.33,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Un nor singur, singuratic
-Dialogue: 100,0:22:19.33,0:22:22.00,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Pluteşte pe cerul la care mă uit
-Dialogue: 100,0:22:22.71,0:22:26.51,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vocile şi râsetele prietenilor mei devin îndepărtate
-Dialogue: 100,0:22:26.51,0:22:29.59,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Exact cum am fost eu astăzi
-Dialogue: 100,0:22:29.59,0:22:36.18,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Îmi ascund departe
-Dialogue: 100,0:22:36.18,0:22:43.32,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Micile mele oftaturi printre valuri
-Dialogue: 100,0:22:44.36,0:22:48.11,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aş putea s-o fac atât de bine astăzi
-Dialogue: 100,0:22:48.11,0:22:51.37,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Dar acum nici măcar nu-le pot ajunge
-Dialogue: 100,0:22:51.37,0:22:55.29,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Obişnuiai să nu se poată conta pe tine, dar acum ai devenit atât de puternică
-Dialogue: 100,0:22:55.29,0:22:58.25,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Culoarea cerului se schimbă şi ea
-Dialogue: 100,0:22:58.46,0:23:04.92,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vântul ştie foarte bine
-Dialogue: 100,0:23:04.92,0:23:12.18,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Ce înseamnă regretul şi tristeţea
-Dialogue: 100,0:23:12.18,0:23:15.77,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Să zburăm pe cer din nou
-Dialogue: 100,0:23:15.77,0:23:19.39,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aici începe totul
-Dialogue: 100,0:23:19.39,0:23:23.40,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Nu va fi la fel ca ieri
-Dialogue: 100,0:23:23.40,0:23:26.69,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Uite, priveliştea de aici continuă să se mărească
-Dialogue: 100,0:23:26.69,0:23:30.15,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Voi zbura peste obrajii tăi
-Dialogue: 100,0:23:30.15,0:23:33.78,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Pe care îi pot vedea aprobând în depărtare
-Dialogue: 100,0:23:33.78,0:23:40.96,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Întinde aceste mâini pe care le-ai împreunat
-Dialogue: 100,0:23:40.96,0:23:44.54,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Şi să zburăm împreună
+Dialogue: 99,0:22:15.50,0:22:19.33,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Un nor singur, singuratic
+Dialogue: 99,0:22:19.33,0:22:22.00,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Pluteşte pe cerul la care mă uit
+Dialogue: 99,0:22:22.71,0:22:26.51,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vocile şi râsetele prietenilor mei devin îndepărtate
+Dialogue: 99,0:22:26.51,0:22:29.59,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Exact cum am fost eu astăzi
+Dialogue: 99,0:22:29.59,0:22:36.18,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Îmi ascund departe
+Dialogue: 99,0:22:36.18,0:22:43.32,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Micile mele oftaturi printre valuri
+Dialogue: 99,0:22:44.36,0:22:48.11,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aş putea s-o fac atât de bine astăzi
+Dialogue: 99,0:22:48.11,0:22:51.37,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Dar acum nici măcar nu-le pot ajunge
+Dialogue: 99,0:22:51.37,0:22:55.29,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Obişnuiai să nu se poată conta pe tine, dar acum ai devenit atât de puternică
+Dialogue: 99,0:22:55.29,0:22:58.25,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Culoarea cerului se schimbă şi ea
+Dialogue: 99,0:22:58.46,0:23:04.92,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vântul ştie foarte bine
+Dialogue: 99,0:23:04.92,0:23:12.18,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Ce înseamnă regretul şi tristeţea
+Dialogue: 99,0:23:12.18,0:23:15.77,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Să zburăm pe cer din nou
+Dialogue: 99,0:23:15.77,0:23:19.39,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aici începe totul
+Dialogue: 99,0:23:19.39,0:23:23.40,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Nu va fi la fel ca ieri
+Dialogue: 99,0:23:23.40,0:23:26.69,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Uite, priveliştea de aici continuă să se mărească
+Dialogue: 99,0:23:26.69,0:23:30.15,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Voi zbura peste obrajii tăi
+Dialogue: 99,0:23:30.15,0:23:33.78,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Pe care îi pot vedea aprobând în depărtare
+Dialogue: 99,0:23:33.78,0:23:40.96,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Întinde aceste mâini pe care le-ai împreunat
+Dialogue: 99,0:23:40.96,0:23:44.54,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Şi să zburăm împreună
 Comment: 0,0:23:52.05,0:23:55.45,KazuyaShuuSign,,0,0,0,,Typesetting
 Dialogue: 1,0:01:22.56,0:01:22.60,Show Title,,0,0,0,,{\pos(909.11,468.47)\fscx90.33\fscy96.19\fax-0.19\fsp1\bord3.32\c&HFEFFFF&\3c&HFF880A&\alpha&HA0&\blur8.85}Four Rhythm Across the Blue
 Dialogue: 2,0:01:22.56,0:01:22.60,Show Title,,0,0,0,,{\pos(909.11,468.47)\fscx90.33\fscy96.19\fax-0.19\fsp1\bord3.32\c&HFF880A&\3c&HFF880A&\4a&HFF&\blur3.98}Four Rhythm Across the Blue

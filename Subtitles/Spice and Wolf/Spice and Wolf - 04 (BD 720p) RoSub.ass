@@ -25,311 +25,311 @@ Style: ED TL,Shancalluna,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:01:33.73,0:01:37.49,Dialogue,,0,0,0,,Se pare că am devenit dependent de carnea afumată de oaie de aici.
-Dialogue: 100,0:01:38.24,0:01:41.49,Dialogue,,0,0,0,,De asemenea, voiam să ne întâlnim din nou ca să schimbăm informații.
-Dialogue: 100,0:01:41.49,0:01:43.95,Dialogue,,0,0,0,,M-am îmbătat așa de rău \Nultima oară încât am uitat tot.
-Dialogue: 100,0:01:43.95,0:01:46.50,Dialogue,,0,0,0,,Acum că spui asta, ai dreptate.
-Dialogue: 100,0:01:46.50,0:01:50.83,Dialogue,,0,0,0,,Și eu m-am lăsat distras de povestea fermecătoare a soției tale.
-Dialogue: 100,0:01:51.95,0:01:53.96,Dialogue,,0,0,0,,Nu te lăsa fermecat de bârfele ei.
-Dialogue: 100,0:01:53.96,0:01:58.47,Dialogue,,0,0,0,,O, haide. Eu cred că soția \Nta e o persoană uimitoare.
-Dialogue: 100,0:02:04.09,0:02:06.27,Dialogue,,0,0,0,,Mulțumesc pentru o noapte grozavă.
-Dialogue: 100,0:02:06.27,0:02:07.14,Dialogue,,0,0,0,,Ne mai vedem.
-Dialogue: 100,0:02:07.14,0:02:07.81,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:02:08.93,0:02:12.06,Dialogue,,0,0,0,,Am văzut acum cum arată acest Zheren.
-Dialogue: 100,0:02:12.06,0:02:14.48,Dialogue,,0,0,0,,Voi continua investigația.
-Dialogue: 100,0:02:14.48,0:02:15.94,Dialogue,,0,0,0,,Mulțumesc.
-Dialogue: 100,0:02:16.44,0:02:18.57,Dialogue,,0,0,0,,Sincer, sunt surprins.
-Dialogue: 100,0:02:18.57,0:02:21.40,Dialogue,,0,0,0,,Nu mă așteptam ca povestea voastră de ieri să fie adevărată.
-Dialogue: 100,0:02:22.57,0:02:27.82,Dialogue,,0,0,0,,Ați crezut că era o simplă escrocherie la început, dar ați făcut cercetări și ați descoperit ceva mult mai complex.
-Dialogue: 100,0:02:27.83,0:02:31.70,Dialogue,,0,0,0,,Ca să se cumpere cantități imense de acea monedă care-și pierde valoarea,
-Dialogue: 100,0:02:31.70,0:02:34.37,Dialogue,,0,0,0,,acel tip răspândește zvonul \Ncă valoarea ei va crește.
-Dialogue: 100,0:02:34.71,0:02:38.13,Dialogue,,0,0,0,,Asta îi va face pe unii \Nnegustori s-o cumpere.
-Dialogue: 100,0:02:38.59,0:02:43.80,Dialogue,,0,0,0,,Când vor observa că valoarea ei scade de fapt, \Nnegustorii se vor grăbi să scape de ea.
-Dialogue: 100,0:02:44.26,0:02:48.23,Dialogue,,0,0,0,,În acel moment, cineva o \Nsă apară și o s-o cumpere,
-Dialogue: 100,0:02:48.23,0:02:53.77,Dialogue,,0,0,0,,iar negustorii păcăliți nu vor avea curaj să vorbească despre asta ca să-și păstreze reputația.
-Dialogue: 100,0:02:54.77,0:03:00.49,Dialogue,,0,0,0,,Exact cum spui, există o metodă care poate aduce profituri uriașe dintr-o monedă care-și pierde valoarea.
-Dialogue: 100,0:03:01.61,0:03:05.62,Dialogue,,0,0,0,,Dar are și un risc major.
-Dialogue: 100,0:03:06.62,0:03:09.71,Dialogue,,0,0,0,,Situația asta mi-a stârnit curiozitatea.
-Dialogue: 100,0:03:10.41,0:03:11.50,Dialogue,,0,0,0,,Mă bucur să aud asta.
-Dialogue: 100,0:03:11.50,0:03:13.58,Dialogue,,0,0,0,,O voi face ca afacerilor \Nviitoare să fie înfloritoare,
-Dialogue: 100,0:03:14.29,0:03:16.58,Dialogue,,0,0,0,,exact ca cea cu blănurile de jder.
-Dialogue: 100,0:03:19.34,0:03:21.34,Dialogue,,0,0,0,,Crezi că vom reuși?
-Dialogue: 100,0:03:23.05,0:03:25.55,Dialogue,,0,0,0,,Chiar dacă ai dreptate \Nîn legătură cu Zheren,
-Dialogue: 100,0:03:25.55,0:03:31.64,Dialogue,,0,0,0,,planul nostru de a-l învinge pe angajatorul său va fi în zadar dacă Compania Milone nu acționează repede.
-Dialogue: 100,0:03:31.64,0:03:34.77,Dialogue,,0,0,0,,Ei bine, eu cred că va fi bine.
-Dialogue: 100,0:03:36.07,0:03:43.24,Dialogue,,0,0,0,,O companie cu destule resurse încât să deschidă filiale ar trebui să poată urmări o singură persoană.
-Dialogue: 100,0:03:46.60,0:03:47.32,Dialogue,,0,0,0,,Ce este așa amuzant?
-Dialogue: 100,0:03:48.66,0:03:49.86,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:03:51.46,0:03:53.70,Dialogue,,0,0,0,,Îmi aduceam aminte de trecut doar.
-Dialogue: 100,0:03:55.29,0:03:56.42,Dialogue,,0,0,0,,Am făcut cumva ceva?
-Dialogue: 100,0:03:56.98,0:04:03.09,Dialogue,,0,0,0,,Știi, și el făcea același lucru ca și tine și cădea de fiecare dată.
-Dialogue: 100,0:04:04.05,0:04:07.18,Dialogue,,0,0,0,,Indiferent de câte ori îl avertizam.
-Dialogue: 100,0:04:07.18,0:04:09.35,Dialogue,,0,0,0,,Pare o persoană amuzantă.
-Dialogue: 100,0:04:09.35,0:04:12.73,Dialogue,,0,0,0,,Da. Era puțin nătâng, \Ndar o persoană foarte veselă.
-Dialogue: 100,0:04:13.15,0:04:16.77,Dialogue,,0,0,0,,Nu a fost surprins deloc când \Nmi-a văzut forma de lup.
-Dialogue: 100,0:04:16.77,0:04:19.36,Dialogue,,0,0,0,,Bănuiesc că era puțin cam ciudat,
-Dialogue: 100,0:04:19.36,0:04:20.86,Dialogue,,0,0,0,,dar tot era o persoană bună.
-Dialogue: 100,0:04:21.28,0:04:25.24,Dialogue,,0,0,0,,A fost prima persoană care s-a purtat drăguț cu mine, fără să mă judece.
-Dialogue: 100,0:04:25.24,0:04:27.20,Dialogue,,0,0,0,,Era din Pasloei.
-Dialogue: 100,0:04:27.20,0:04:30.16,Dialogue,,0,0,0,,Te referi la cel care ți-a \Nîncredințat câmpurile de grâu?
-Dialogue: 100,0:04:30.16,0:04:30.95,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:04:31.86,0:04:34.12,Dialogue,,0,0,0,,Era așa de prostuț.
-Dialogue: 100,0:04:35.21,0:04:37.08,Dialogue,,0,0,0,,Uneori nu știam ce să mă fac cu el.
-Dialogue: 100,0:04:48.37,0:04:49.26,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:04:49.81,0:04:51.76,Dialogue,,0,0,0,,Voiam să-ți spun ceva,
-Dialogue: 100,0:04:52.64,0:04:55.60,Dialogue,,0,0,0,,dar nu-mi pot aminti ce.
-Dialogue: 100,0:04:55.60,0:04:56.76,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:04:57.06,0:04:59.94,Dialogue,,0,0,0,,Era ceva important, dar nu pot...
-Dialogue: 100,0:05:00.52,0:05:02.64,Dialogue,,0,0,0,,În acest caz, sunt sigur că-ți vei aminti.
-Dialogue: 100,0:05:03.85,0:05:05.11,Dialogue,,0,0,0,,Presupun.
-Dialogue: 100,0:05:12.53,0:05:15.07,Dialogue,,0,0,0,,Un prieten, nu?
-Dialogue: 100,0:05:28.86,0:05:32.52,Dialogue,,0,0,0,,Eu sunt Marlheit, \Nadministratorul acestei filiale.
-Dialogue: 100,0:05:32.92,0:05:36.51,Dialogue,,0,0,0,,Ne-ar plăcea să-ți acceptăm oferta.
-Dialogue: 100,0:05:36.51,0:05:40.11,Dialogue,,0,0,0,,Asta înseamnă că ați aflat \Npentru cine lucrează Zheren?
-Dialogue: 100,0:05:40.11,0:05:43.89,Dialogue,,0,0,0,,Da, o face pentru Compania de Comerț Medio.
-Dialogue: 100,0:05:44.51,0:05:46.14,Dialogue,,0,0,0,,Compania de Comerț Medio?
-Dialogue: 100,0:05:46.68,0:05:49.78,Dialogue,,0,0,0,,Înțeleg. Ei sunt samsarul \Nagricol principal din Pazzio,
-Dialogue: 100,0:05:49.78,0:05:52.13,Dialogue,,0,0,0,,să nu mai spun de multele \Nnave de marfă pe care le dețin.
-Dialogue: 100,0:05:52.91,0:05:58.95,Dialogue,,0,0,0,,Le-ar fi imposibil să ducă planul la bun sfârșit pe cont propriu.
-Dialogue: 100,0:05:58.95,0:06:03.09,Dialogue,,0,0,0,,Presupunem că au un nobil care-i ajută,
-Dialogue: 100,0:06:03.09,0:06:05.71,Dialogue,,0,0,0,,deși nu am reușit să-l identificăm încă.
-Dialogue: 100,0:06:05.71,0:06:07.78,Dialogue,,0,0,0,,Oricum, după cum ai spus și tu,
-Dialogue: 100,0:06:07.78,0:06:11.76,Dialogue,,0,0,0,,compania noastră ar putea \Nfi afectată dacă ia inițiativă.
-Dialogue: 100,0:06:13.18,0:06:16.43,Dialogue,,0,0,0,,Atunci, haide să discutăm \Ndespre cum vom împărți profitul.
-Dialogue: 100,0:06:18.60,0:06:21.10,Dialogue,,0,0,0,,Ești mai bine dispus ca niciodată.
-Dialogue: 100,0:06:22.40,0:06:24.15,Dialogue,,0,0,0,,Am putea strânge 300.000...
-Dialogue: 100,0:06:24.15,0:06:27.40,Dialogue,,0,0,0,,Nu, chiar 400.000 de monede Trenni de argint dacă totul merge bine.
-Dialogue: 100,0:06:27.40,0:06:31.28,Dialogue,,0,0,0,,Dacă Milone beneficiază de zece la sută din fiecare monedă Trenni,
-Dialogue: 100,0:06:31.28,0:06:33.83,Dialogue,,0,0,0,,voi reuși în sfârșit să-mi deschid propriul magazin cu partea mea de 2.000!
-Dialogue: 100,0:06:35.37,0:06:38.20,Dialogue,,0,0,0,,Ei bine, mă bucur că totul merge bine.
-Dialogue: 100,0:06:41.38,0:06:43.96,Dialogue,,0,0,0,,Nu ți-am spus să te odihnești la han dacă încă te simți amețită?
-Dialogue: 100,0:06:43.96,0:06:47.34,Dialogue,,0,0,0,,Îmi făceam griji că vor profita de tine.
-Dialogue: 100,0:06:47.80,0:06:49.13,Dialogue,,0,0,0,,Ce vrea să însemne asta?
-Dialogue: 100,0:06:49.59,0:06:51.05,Dialogue,,0,0,0,,Exact ce se înțelege.
-Dialogue: 100,0:06:52.06,0:06:53.35,Dialogue,,0,0,0,,Doamne.
-Dialogue: 100,0:06:54.24,0:06:57.52,Dialogue,,0,0,0,,Mai rezistă puțin. \NAproape am ajuns la han.
-Dialogue: 100,0:07:18.44,0:07:20.04,Dialogue,,0,0,0,,Schița pentru magazin?
-Dialogue: 100,0:07:20.04,0:07:21.96,Dialogue,,0,0,0,,Nu fi așa surprins.
-Dialogue: 100,0:07:21.96,0:07:24.29,Dialogue,,0,0,0,,Când te-ai trezit?
-Dialogue: 100,0:07:24.79,0:07:27.34,Dialogue,,0,0,0,,Desenul nu e rău deloc!
-Dialogue: 100,0:07:27.34,0:07:28.88,Dialogue,,0,0,0,,Încerci doar să mă lingusești.
-Dialogue: 100,0:07:28.88,0:07:31.88,Dialogue,,0,0,0,,Plănuiești să deschizi un magazin curând?
-Dialogue: 100,0:07:32.24,0:07:34.97,Dialogue,,0,0,0,,Doar dacă proiectul cu \NCompania Milone va merge bine,
-Dialogue: 100,0:07:34.97,0:07:37.00,Dialogue,,0,0,0,,dar nu e ca și cum mă îndoiesc de asta.
-Dialogue: 100,0:07:40.38,0:07:44.19,Dialogue,,0,0,0,,Orice negustor amublant visează să-și deschidă propriul magazin.
-Dialogue: 100,0:07:44.73,0:07:46.14,Dialogue,,0,0,0,,La fel și eu.
-Dialogue: 100,0:07:46.46,0:07:49.15,Dialogue,,0,0,0,,Ajungi să faci parte din comunitate odată ce deții un magazin.
-Dialogue: 100,0:07:49.53,0:07:54.16,Dialogue,,0,0,0,,Când umbli de colo-colo, nu reusești să-ți faci prieteni apropiați sau să-ți găsești o nevastă.
-Dialogue: 100,0:07:55.37,0:07:58.16,Dialogue,,0,0,0,,Apropo, mă întreb cum îi merge lui Chloe.
-Dialogue: 100,0:07:58.66,0:08:01.33,Dialogue,,0,0,0,,Dacă va auzi că am deschis un magazin, \Ncu siguranță va fi șocată.
-Dialogue: 100,0:08:01.33,0:08:03.37,Dialogue,,0,0,0,,Ba chiar supărată.
-Dialogue: 100,0:08:04.92,0:08:07.67,Dialogue,,0,0,0,,Totuși, asta nu ar fi prea bine pentru mine.
-Dialogue: 100,0:08:08.88,0:08:09.67,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:08:10.13,0:08:14.01,Dialogue,,0,0,0,,Odată ce ai deschis un magazin, \Nnu vei mai vrea să pleci la drum, nu-i așa?
-Dialogue: 100,0:08:14.01,0:08:18.68,Dialogue,,0,0,0,,Va trebui să călătoresc singură sau să-mi găsesc un alt partener.
-Dialogue: 100,0:08:19.17,0:08:23.53,Dialogue,,0,0,0,,Ești isteață și încă mai ai banii \Nobținuți de pe blănurile de jder.
-Dialogue: 100,0:08:23.53,0:08:25.23,Dialogue,,0,0,0,,Nu vei avea nicio problemă de una singură.
-Dialogue: 100,0:08:27.90,0:08:29.65,Dialogue,,0,0,0,,M-am săturat să fiu singură.
-Dialogue: 100,0:08:33.53,0:08:37.82,Dialogue,,0,0,0,,Nu am niciun drept să \Nte forțez să vii cu mine.
-Dialogue: 100,0:08:38.41,0:08:39.66,Dialogue,,0,0,0,,Nu-i așa?
-Dialogue: 100,0:08:41.00,0:08:44.32,Dialogue,,0,0,0,,Te voi acompania în continuare \Npe drumul tău spre nord.
-Dialogue: 100,0:08:50.73,0:08:52.09,Dialogue,,0,0,0,,Chiar dacă voi obține acea sumă de bani,
-Dialogue: 100,0:08:52.09,0:08:54.21,Dialogue,,0,0,0,,nu voi reuși să deschid un magazin imediat.
-Dialogue: 100,0:08:55.84,0:08:57.39,Dialogue,,0,0,0,,Vorbești serios?
-Dialogue: 100,0:08:57.39,0:08:59.22,Dialogue,,0,0,0,,De ce aș minți?
-Dialogue: 100,0:09:04.76,0:09:08.31,Dialogue,,0,0,0,,Deci... haide. Nu face fața asta.
-Dialogue: 100,0:09:09.90,0:09:10.65,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:09:57.60,0:09:59.20,Dialogue,,0,0,0,,Nu-ți stă în fire.
-Dialogue: 100,0:10:00.47,0:10:03.16,Dialogue,,0,0,0,,Continui să am același vis.
-Dialogue: 100,0:10:03.16,0:10:04.45,Dialogue,,0,0,0,,Vis?
-Dialogue: 100,0:10:04.45,0:10:08.96,Dialogue,,0,0,0,,Când... Când mă trezesc, \Nsunt complet singură.
-Dialogue: 100,0:10:10.07,0:10:14.46,Dialogue,,0,0,0,,Nici Yue, nici Inty, nici Paro și nici Muri...
-Dialogue: 100,0:10:14.89,0:10:17.88,Dialogue,,0,0,0,,Indiferent unde mă uit, \Nnu este nimeni acolo.
-Dialogue: 100,0:10:19.59,0:10:22.97,Dialogue,,0,0,0,,Durata noastră de viață este de sute de ani.
-Dialogue: 100,0:10:23.47,0:10:26.94,Dialogue,,0,0,0,,Deci... Deci, m-am gândit să călătoresc puțin.
-Dialogue: 100,0:10:27.65,0:10:31.23,Dialogue,,0,0,0,,Eram sigură, foarte sigură că îi voi revedea,
-Dialogue: 100,0:10:31.90,0:10:34.49,Dialogue,,0,0,0,,dar... au dispărut. \NNu mai era nimeni.
-Dialogue: 100,0:10:35.64,0:10:38.59,Dialogue,,0,0,0,,Nu vreau să-mi deschid ochii și să văd că nu mai e nimeni acolo.
-Dialogue: 100,0:10:39.16,0:10:40.56,Dialogue,,0,0,0,,M-am săturat să fiu singură.
-Dialogue: 100,0:10:41.19,0:10:42.53,Dialogue,,0,0,0,,Îmi este frig când sunt singură.
-Dialogue: 100,0:10:43.53,0:10:45.91,Dialogue,,0,0,0,,Mă simt tristă când sunt singură.
-Dialogue: 100,0:10:50.70,0:10:52.17,Dialogue,,0,0,0,,Se pare că mi-am pierdut puțin cumpătul.
-Dialogue: 100,0:10:52.17,0:10:54.66,Dialogue,,0,0,0,,Și negustorii ambulați au vise de genul.
-Dialogue: 100,0:10:56.70,0:10:58.88,Dialogue,,0,0,0,,Ochii-ți sunt plini de lacrimi.
-Dialogue: 100,0:10:58.88,0:10:59.97,Dialogue,,0,0,0,,Așteaptă o secundă.
-Dialogue: 100,0:11:04.64,0:11:05.64,Dialogue,,0,0,0,,Poftim.
-Dialogue: 100,0:11:05.64,0:11:06.68,Dialogue,,0,0,0,,Dar asta este...
-Dialogue: 100,0:11:07.39,0:11:09.64,Dialogue,,0,0,0,,Mereu le arunc după ce le termin.
-Dialogue: 100,0:11:09.64,0:11:12.85,Dialogue,,0,0,0,,Iar afacerea nu a ajuns încă la bun sfârșit.
-Dialogue: 100,0:11:13.44,0:11:15.43,Dialogue,,0,0,0,,"Nu-ți număra puii înainte să iasă din ouă."
-Dialogue: 100,0:11:23.70,0:11:26.11,Dialogue,,0,0,0,,Acum îți sunt datoare.
-Dialogue: 100,0:11:29.54,0:11:32.58,Dialogue,,0,0,0,,Încă mi-e somn. \NNu te vei băga și tu în pat?
-Dialogue: 100,0:11:32.58,0:11:34.59,Dialogue,,0,0,0,,Bănuiesc că a venit momentul.
-Dialogue: 100,0:11:34.59,0:11:35.92,Dialogue,,0,0,0,,Nu vrem să irosim lumânările.
-Dialogue: 100,0:11:38.09,0:11:40.05,Dialogue,,0,0,0,,Ai vorbit ca un adevărat negustor.
-Dialogue: 100,0:12:01.07,0:12:01.99,Dialogue,,0,0,0,,C-Ce este—
-Dialogue: 100,0:12:01.99,0:12:04.37,Dialogue,,0,0,0,,Nu comenta.
-Dialogue: 100,0:12:10.82,0:12:12.25,Dialogue,,0,0,0,,Nu pot... respira...
-Dialogue: 100,0:12:17.67,0:12:19.62,Dialogue,,0,0,0,,Ți s-au obișnuit ochii cu întunericul?
-Dialogue: 100,0:12:21.97,0:12:23.13,Dialogue,,0,0,0,,Ce vrei să—
-Dialogue: 100,0:12:23.63,0:12:27.60,Dialogue,,0,0,0,,Mi-am amintit în sfârșit \Nce era așa de important.
-Dialogue: 100,0:12:28.83,0:12:30.89,Dialogue,,0,0,0,,Sunt trei bărbați la ușă.
-Dialogue: 100,0:12:30.89,0:12:33.31,Dialogue,,0,0,0,,Nu cred că sunt clienți ai hanului.
-Dialogue: 100,0:12:33.68,0:12:35.60,Dialogue,,0,0,0,,Nu-mi spune că sunt de la Compania Medio.
-Dialogue: 100,0:12:37.40,0:12:38.98,Dialogue,,0,0,0,,Suntem la etajul doi.
-Dialogue: 100,0:12:38.98,0:12:41.02,Dialogue,,0,0,0,,Din fericire pentru noi, \Nnu este nimeni afară.
-Dialogue: 100,0:12:41.43,0:12:43.23,Dialogue,,0,0,0,,Ești gata?
-Dialogue: 100,0:12:45.07,0:12:49.83,Dialogue,,0,0,0,,Haide, privește-mi corpul sub lumina lunii!
-Dialogue: 100,0:13:01.41,0:13:02.63,Dialogue,,0,0,0,,Aleargă.
-Dialogue: 100,0:13:03.05,0:13:04.88,Dialogue,,0,0,0,,Va trebui să renunți la căruță.
-Dialogue: 100,0:13:12.93,0:13:15.64,Dialogue,,0,0,0,,Nu au niciun motiv să omoare calul.
-Dialogue: 100,0:13:15.64,0:13:17.18,Dialogue,,0,0,0,,Îl putem lua mai târziu.
-Dialogue: 100,0:13:17.56,0:13:18.31,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:13:26.91,0:13:30.41,Dialogue,,0,0,0,,Ține asta pentru orice eventualitate.
-Dialogue: 100,0:13:33.37,0:13:34.12,Dialogue,,0,0,0,,Este cald.
-Dialogue: 100,0:13:34.12,0:13:36.16,Dialogue,,0,0,0,,Este grâul în care trăiesc.
-Dialogue: 100,0:13:36.62,0:13:38.46,Dialogue,,0,0,0,,Se îndreaptă spre Compania Milone!
-Dialogue: 100,0:13:39.96,0:13:42.12,Dialogue,,0,0,0,,Opriți-i cu orice preț!
-Dialogue: 100,0:13:44.92,0:13:48.47,Dialogue,,0,0,0,,Holo, haide să mergem la cumpărături când se vor termina toate astea.
-Dialogue: 100,0:13:48.47,0:13:50.26,Dialogue,,0,0,0,,Ce tot spui într-un moment ca acesta?
-Dialogue: 100,0:13:50.26,0:13:52.51,Dialogue,,0,0,0,,Îți voi cumpăra un pieptene sau o pălărie.
-Dialogue: 100,0:13:52.51,0:13:54.06,Dialogue,,0,0,0,,Ce plănuiești acum?
-Dialogue: 100,0:13:54.06,0:13:57.02,Dialogue,,0,0,0,,Tocmai am observat cât \Nde frumos este părul tău.
-Dialogue: 100,0:14:00.58,0:14:02.73,Dialogue,,0,0,0,,Aș prefera un pieptene pentru \Ncoadă decât unul pentru păr.
-Dialogue: 100,0:14:03.07,0:14:04.48,Dialogue,,0,0,0,,Atunci, așa să fie.
-Dialogue: 100,0:14:04.99,0:14:06.98,Dialogue,,0,0,0,,Rezistă. Aproape am \Najuns la Compania Milone.
-Dialogue: 100,0:14:10.37,0:14:11.20,Dialogue,,0,0,0,,I-ai văzut?
-Dialogue: 100,0:14:11.20,0:14:12.24,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:14:12.24,0:14:13.74,Dialogue,,0,0,0,,Trebuie să fie prin apropiere.
-Dialogue: 100,0:14:13.74,0:14:16.46,Dialogue,,0,0,0,,E o chestiune de timp până \Nvor veni întăriri. Înconjurați-i!
-Dialogue: 100,0:14:16.46,0:14:17.25,Dialogue,,0,0,0,,Da, domnule!
-Dialogue: 100,0:14:20.46,0:14:22.71,Dialogue,,0,0,0,,Se pare că avem probleme.
-Dialogue: 100,0:14:22.71,0:14:24.42,Dialogue,,0,0,0,,Ar trebui să ne despărțim?
-Dialogue: 100,0:14:24.42,0:14:27.22,Dialogue,,0,0,0,,E o idee bună, dar am eu un plan mai bun.
-Dialogue: 100,0:14:27.22,0:14:27.88,Dialogue,,0,0,0,,Care este?
-Dialogue: 100,0:14:28.38,0:14:31.26,Dialogue,,0,0,0,,Eu voi alerga spre strada principală și îi voi atrage după mine.
-Dialogue: 100,0:14:31.26,0:14:32.26,Dialogue,,0,0,0,,Astfel tu vei reuși să—
-Dialogue: 100,0:14:32.26,0:14:33.93,Dialogue,,0,0,0,,Stai o secundă!  \NNu te pot lăsa—
-Dialogue: 100,0:14:33.93,0:14:34.97,Dialogue,,0,0,0,,Ascultă.
-Dialogue: 100,0:14:34.97,0:14:38.94,Dialogue,,0,0,0,,Dacă ne vom despărți, \Ntu ești cel care va fi prins.
-Dialogue: 100,0:14:38.94,0:14:41.35,Dialogue,,0,0,0,,Eu sunt un lup. \NPot scăpa de ei.
-Dialogue: 100,0:14:41.81,0:14:45.66,Dialogue,,0,0,0,,Dacă voi scăpa doar eu, cum voi reuși să obțin ajutorul Companiei Milone?
-Dialogue: 100,0:14:46.61,0:14:49.28,Dialogue,,0,0,0,,Tu le-ai spus deja totul.
-Dialogue: 100,0:14:49.28,0:14:54.16,Dialogue,,0,0,0,,Singura influență pe care o avem peste ei este amenințarea trădării tale.
-Dialogue: 100,0:14:56.20,0:14:57.79,Dialogue,,0,0,0,,Nu, tot nu o pot face.
-Dialogue: 100,0:14:57.79,0:15:02.79,Dialogue,,0,0,0,,Dacă Medio vor vedea coada și urechile tale, te vor duce în față bisericii cu singuranță.
-Dialogue: 100,0:15:02.79,0:15:04.42,Dialogue,,0,0,0,,Nu mă pot prinde.
-Dialogue: 100,0:15:04.42,0:15:08.59,Dialogue,,0,0,0,,Și chiar dacă o vor face, îmi voi ține coada și urechile ascunse pentru o zi.
-Dialogue: 100,0:15:08.59,0:15:11.59,Dialogue,,0,0,0,,Știu că vei veni să mă salvezi în timpul ăsta.
-Dialogue: 100,0:15:12.05,0:15:12.93,Dialogue,,0,0,0,,Ascultă-mă.
-Dialogue: 100,0:15:12.93,0:15:15.92,Dialogue,,0,0,0,,Visul tău este să-ți deschizi \Nun magazin, nu-i așa?
-Dialogue: 100,0:15:16.52,0:15:20.43,Dialogue,,0,0,0,,Și acum câteva clipe ți-am \Nspus că-ți sunt datoare.
-Dialogue: 100,0:15:20.44,0:15:22.15,Dialogue,,0,0,0,,Nu fi ridicolă!
-Dialogue: 100,0:15:22.15,0:15:23.98,Dialogue,,0,0,0,,Dacă te vor prinde, te vor ucide!
-Dialogue: 100,0:15:23.98,0:15:26.18,Dialogue,,0,0,0,,Asta nu este plătirea datoriei, ci sinucidere!
-Dialogue: 100,0:15:27.28,0:15:29.24,Dialogue,,0,0,0,,Singurătatea este o boală fatală.
-Dialogue: 100,0:15:29.95,0:15:31.40,Dialogue,,0,0,0,,Este un schimb corect.
-Dialogue: 100,0:15:32.78,0:15:33.19,Dialogue,,0,0,0,,Nu—
-Dialogue: 100,0:15:38.86,0:15:40.37,Dialogue,,0,0,0,,Eu cred în tine.
-Dialogue: 100,0:15:44.96,0:15:45.79,Dialogue,,0,0,0,,Pe acolo!
-Dialogue: 100,0:15:45.79,0:15:46.96,Dialogue,,0,0,0,,I-am găsit!
-Dialogue: 100,0:15:46.96,0:15:48.63,Dialogue,,0,0,0,,Strada Roita!
-Dialogue: 100,0:15:48.63,0:15:49.67,Dialogue,,0,0,0,,Unde sunt?
-Dialogue: 100,0:15:50.51,0:15:51.84,Dialogue,,0,0,0,,Văd doar unul!
-Dialogue: 100,0:15:51.84,0:15:53.59,Dialogue,,0,0,0,,Ar trebui să fie doi!
-Dialogue: 100,0:15:54.80,0:15:55.85,Dialogue,,0,0,0,,Acolo este!
-Dialogue: 100,0:16:06.08,0:16:09.32,Dialogue,,0,0,0,,Sunt Lawrence din această după-amiază! \NSunt urmărit! Ajutați-mă!
-Dialogue: 100,0:16:09.32,0:16:10.49,Dialogue,,0,0,0,,Ajutați-mă!
-Dialogue: 100,0:16:10.49,0:16:11.90,Dialogue,,0,0,0,,Acolo este!
-Dialogue: 100,0:16:20.36,0:16:23.79,Dialogue,,0,0,0,,Așteptați! Dați-ni-l pe acel bărbat!
-Dialogue: 100,0:16:25.67,0:16:26.87,Dialogue,,0,0,0,,Nemernicilor!
-Dialogue: 100,0:16:27.54,0:16:32.72,Dialogue,,0,0,0,,Asta este clădirea Companiei Milone, deținută de \NMarchizul Milone, recunoscut de Înălțimea Sa,
-Dialogue: 100,0:16:32.72,0:16:35.63,Dialogue,,0,0,0,,al XXXIII-lea Arhiduce Raondeal!
-Dialogue: 100,0:16:35.63,0:16:38.56,Dialogue,,0,0,0,,Această poartă este proprietatea marchizului.
-Dialogue: 100,0:16:38.56,0:16:41.10,Dialogue,,0,0,0,,Oricine se află între aceste \Nziduri este oaspetele său!
-Dialogue: 100,0:16:41.10,0:16:45.72,Dialogue,,0,0,0,,Mai mult, orice oaspete al marchizului se află sub protecția Arhiducelui Raondeal.
-Dialogue: 100,0:16:45.72,0:16:47.02,Dialogue,,0,0,0,,Ascultați cu atenție!
-Dialogue: 100,0:16:47.02,0:16:49.73,Dialogue,,0,0,0,,Când loviți această poartă \Ncu ciomagurile voastre,
-Dialogue: 100,0:16:49.73,0:16:52.44,Dialogue,,0,0,0,,îl loviți și pe Înălțimea Sa!
-Dialogue: 100,0:16:56.32,0:16:57.78,Dialogue,,0,0,0,,Retragerea!
-Dialogue: 100,0:16:59.87,0:17:02.16,Dialogue,,0,0,0,,Ce zarvă în miez de noapte.
-Dialogue: 100,0:17:02.72,0:17:04.28,Dialogue,,0,0,0,,Ce se petrece aici?
-Dialogue: 100,0:17:06.39,0:17:08.17,Dialogue,,0,0,0,,Îmi cer scuze pentru deranj.
-Dialogue: 100,0:17:08.17,0:17:10.62,Dialogue,,0,0,0,,Vă sunt recunoscător \Npentru că m-ați ajutat.
-Dialogue: 100,0:17:11.17,0:17:14.76,Dialogue,,0,0,0,,Pătrează-ți recunoștința pentru Marchizul Milone, deși nu este aici momentan.
-Dialogue: 100,0:17:14.76,0:17:17.30,Dialogue,,0,0,0,,Ce voiau?
-Dialogue: 100,0:17:17.30,0:17:20.72,Dialogue,,0,0,0,,Sunt fără îndoială lacheii Companiei Medio.
-Dialogue: 100,0:17:21.39,0:17:22.51,Dialogue,,0,0,0,,Așa mă gândeam și eu.
-Dialogue: 100,0:17:22.85,0:17:27.15,Dialogue,,0,0,0,,Au aflat de afacerea noastră, \Ndeci i-au trimis ca s-o prevină din a—
-Dialogue: 100,0:17:27.15,0:17:28.51,Dialogue,,0,0,0,,S-o prevină?
-Dialogue: 100,0:17:28.98,0:17:31.60,Dialogue,,0,0,0,,Cred că partenera mea a fost capturată.
-Dialogue: 100,0:17:31.60,0:17:34.36,Dialogue,,0,0,0,,Mă puteți ajuta s-o salvez?
-Dialogue: 100,0:17:36.36,0:17:40.73,Dialogue,,0,0,0,,După zarva de aici, am trimis \Ncâțiva oameni să-i urmărească.
-Dialogue: 100,0:17:40.73,0:17:46.00,Dialogue,,0,0,0,,Au raportat că au văzut o \Ntânără cum este luată cu forța.
-Dialogue: 100,0:17:47.25,0:17:50.50,Dialogue,,0,0,0,,Ea trebuie să fie partenera mea, Holo.
-Dialogue: 100,0:17:50.50,0:17:53.08,Dialogue,,0,0,0,,A ales să fie momeală ca eu să pot ajunge aici.
-Dialogue: 100,0:17:54.34,0:17:55.84,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:17:56.26,0:17:59.76,Dialogue,,0,0,0,,Dar de ce ar vrea s-o \Nprindă pe domnișoara Holo?
-Dialogue: 100,0:17:59.76,0:18:00.93,Dialogue,,0,0,0,,Deja am—
-Dialogue: 100,0:18:01.85,0:18:06.59,Dialogue,,0,0,0,,Cred că au făcut-o pentru că ne-am alăturat acestei companii ca să le punem bețe în roate.
-Dialogue: 100,0:18:08.23,0:18:10.68,Dialogue,,0,0,0,,Nu crezi că asta e ciudat?
-Dialogue: 100,0:18:11.23,0:18:12.27,Dialogue,,0,0,0,,Ce este ciudat?!
-Dialogue: 100,0:18:13.19,0:18:14.57,Dialogue,,0,0,0,,Te rog să te calmezi.
-Dialogue: 100,0:18:14.57,0:18:18.07,Dialogue,,0,0,0,,Ceva este foarte, foarte ciudat.
-Dialogue: 100,0:18:18.07,0:18:19.62,Dialogue,,0,0,0,,Ce vă face să credeți asta?
-Dialogue: 100,0:18:19.62,0:18:21.78,Dialogue,,0,0,0,,Gândește-te puțin.
-Dialogue: 100,0:18:21.78,0:18:26.66,Dialogue,,0,0,0,,Ar putea opri ceva luându-vă \Npe voi doi ostateci?
-Dialogue: 100,0:18:26.66,0:18:30.54,Dialogue,,0,0,0,,Am început deja să strângem \Nmonedele Trenni de argint.
-Dialogue: 100,0:18:30.54,0:18:36.42,Dialogue,,0,0,0,,Cu alte cuvinte, înțelegem \Nperfect această oportunitate.
-Dialogue: 100,0:18:36.42,0:18:39.68,Dialogue,,0,0,0,,Ar fi avut motive să vă ia ostateci
-Dialogue: 100,0:18:39.68,0:18:44.93,Dialogue,,0,0,0,,dacă ne-ați fi spus să strângem monedele Trenni fără să ne spuneți și de ce.
-Dialogue: 100,0:18:44.93,0:18:49.30,Dialogue,,0,0,0,,Dar nicio companie nu ar fi acționat pe baza unei sugestii atât de vagi.
-Dialogue: 100,0:18:50.15,0:18:52.40,Dialogue,,0,0,0,,Doar nu vreți să spuneți că...
-Dialogue: 100,0:18:52.40,0:18:56.81,Dialogue,,0,0,0,,Ba da. Avem toate informațiile \Nnecesare ca să facem profit.
-Dialogue: 100,0:18:56.81,0:19:00.90,Dialogue,,0,0,0,,Destinul tău și al partenerei \Ntale nu schimbă nimic.
-Dialogue: 100,0:19:02.51,0:19:07.53,Dialogue,,0,0,0,,Este o răstunare de situație groaznică, dar deja am investit o cantitate substanțială de bani.
-Dialogue: 100,0:19:07.91,0:19:14.00,Dialogue,,0,0,0,,Dacă am avea de ales între \Nun profit frumos și situația ta,
-Dialogue: 100,0:19:14.75,0:19:18.84,Dialogue,,0,0,0,,îmi pare rău, dar interesele \Nnoastre sunt pe primul loc.
-Dialogue: 100,0:19:18.84,0:19:19.84,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:19:19.84,0:19:21.29,Dialogue,,0,0,0,,{\i1}Nu se poate.
-Dialogue: 100,0:19:36.56,0:19:37.81,Dialogue,,0,0,0,,Așteaptă!
-Dialogue: 100,0:19:38.94,0:19:41.31,Dialogue,,0,0,0,,Văd că partenera ta îți este dragă.
-Dialogue: 100,0:19:41.78,0:19:44.32,Dialogue,,0,0,0,,Orice efort de a o salva va da greș
-Dialogue: 100,0:19:44.32,0:19:46.19,Dialogue,,0,0,0,,dacă nu avem mintea limpede.
-Dialogue: 100,0:19:49.46,0:19:50.79,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:19:50.79,0:19:51.49,Dialogue,,0,0,0,,Este în regulă.
-Dialogue: 100,0:19:52.17,0:19:57.21,Dialogue,,0,0,0,,Nici eu nu aș reuși să fiu calm dacă soția mea ar fi într-o situație similară.
-Dialogue: 100,0:19:58.55,0:20:00.42,Dialogue,,0,0,0,,Dar după cum am mai spus, \Nchiar este ciudat.
-Dialogue: 100,0:20:00.92,0:20:05.59,Dialogue,,0,0,0,,Compania Medio ar trebui să știe cum ar acționa compania noastră, nu?
-Dialogue: 100,0:20:06.56,0:20:08.59,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:20:08.93,0:20:16.23,Dialogue,,0,0,0,,Și tot au venit după voi deși nu aveți nicio valoare într-o eventuală negociere.
-Dialogue: 100,0:20:16.23,0:20:19.07,Dialogue,,0,0,0,,Ai vreo idee de ce?
-Dialogue: 100,0:20:19.90,0:20:21.24,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:20:22.03,0:20:22.94,Dialogue,,0,0,0,,Nu se poate...
-Dialogue: 100,0:20:22.95,0:20:27.15,Dialogue,,0,0,0,,Profitul care ne așteaptă este unul uriaș.
-Dialogue: 100,0:20:27.49,0:20:29.45,Dialogue,,0,0,0,,Ne dorim foarte mult să ne \Nducem planul la bun sfârșit.
-Dialogue: 100,0:20:29.45,0:20:30.08,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:20:30.08,0:20:33.80,Dialogue,,0,0,0,,Nu ezita să-mi spui ce gândești, indiferent cât de nesemnificativ ar fi.
-Dialogue: 100,0:20:34.67,0:20:36.12,Dialogue,,0,0,0,,Domnule Lawrence!
-Dialogue: 100,0:20:36.46,0:20:37.96,Dialogue,,0,0,0,,Există un motiv, nu-i așa?
-Dialogue: 100,0:20:37.96,0:20:39.38,Dialogue,,0,0,0,,Bănuiesc că știi care ar putea fi acela.
-Dialogue: 100,0:20:45.05,0:20:46.76,Dialogue,,0,0,0,,Scuzați-mă.
-Dialogue: 100,0:20:46.76,0:20:47.42,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:20:47.76,0:20:50.42,Dialogue,,0,0,0,,Tocmai am primit o scrisoare.
-Dialogue: 100,0:20:50.42,0:20:52.43,Dialogue,,0,0,0,,Cred că are legătură cu situația noastră.
-Dialogue: 100,0:20:56.61,0:20:59.73,Dialogue,,0,0,0,,"Pentru lupul și pădurea \Nîn care trăiește acesta"?
-Dialogue: 100,0:21:03.70,0:21:07.11,Dialogue,,0,0,0,,Scuzați-mă, dar pot să \Narunc eu o privire mai întâi?
-Dialogue: 100,0:21:10.24,0:21:11.62,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:21:11.62,0:21:12.57,Dialogue,,0,0,0,,Mulțumesc.
-Dialogue: 100,0:21:20.01,0:21:21.84,Dialogue,,0,0,0,,"Avem lupul."
-Dialogue: 100,0:21:21.84,0:21:24.63,Dialogue,,0,0,0,,"Biserica îi primește pe \Ntoți cu brațele deschise."
-Dialogue: 100,0:21:24.63,0:21:26.59,Dialogue,,0,0,0,,"Ca să țineți lupul departe de casa voastră,
-Dialogue: 100,0:21:26.59,0:21:28.97,Dialogue,,0,0,0,,închideți bine ușile și \Nțineți-vă familia înăuntru."
-Dialogue: 100,0:21:35.98,0:21:38.06,Dialogue,,0,0,0,,Holo, fata cu care călătoream,
-Dialogue: 100,0:21:40.11,0:21:43.10,Dialogue,,0,0,0,,este un lup sub formă umană, \Ncare poate influența recoltele.
-Dialogue: 100,0:22:07.34,0:22:08.39,Dialogue,,0,0,0,,Tu ești...
-Dialogue: 100,0:23:40.80,0:23:43.92,Dialogue,,0,0,20,,{\i1}Data viitoare: "Lupul și cearta dintre îndrăgostiți".
-Dialogue: 100,0:23:45.89,0:23:48.68,Dialogue,,0,0,20,,{\i1}Data viitoare: "Lupul și cearta dintre îndrăgostiți".
+Dialogue: 99,0:01:33.73,0:01:37.49,Dialogue,,0,0,0,,Se pare că am devenit dependent de carnea afumată de oaie de aici.
+Dialogue: 99,0:01:38.24,0:01:41.49,Dialogue,,0,0,0,,De asemenea, voiam să ne întâlnim din nou ca să schimbăm informații.
+Dialogue: 99,0:01:41.49,0:01:43.95,Dialogue,,0,0,0,,M-am îmbătat așa de rău \Nultima oară încât am uitat tot.
+Dialogue: 99,0:01:43.95,0:01:46.50,Dialogue,,0,0,0,,Acum că spui asta, ai dreptate.
+Dialogue: 99,0:01:46.50,0:01:50.83,Dialogue,,0,0,0,,Și eu m-am lăsat distras de povestea fermecătoare a soției tale.
+Dialogue: 99,0:01:51.95,0:01:53.96,Dialogue,,0,0,0,,Nu te lăsa fermecat de bârfele ei.
+Dialogue: 99,0:01:53.96,0:01:58.47,Dialogue,,0,0,0,,O, haide. Eu cred că soția \Nta e o persoană uimitoare.
+Dialogue: 99,0:02:04.09,0:02:06.27,Dialogue,,0,0,0,,Mulțumesc pentru o noapte grozavă.
+Dialogue: 99,0:02:06.27,0:02:07.14,Dialogue,,0,0,0,,Ne mai vedem.
+Dialogue: 99,0:02:07.14,0:02:07.81,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:02:08.93,0:02:12.06,Dialogue,,0,0,0,,Am văzut acum cum arată acest Zheren.
+Dialogue: 99,0:02:12.06,0:02:14.48,Dialogue,,0,0,0,,Voi continua investigația.
+Dialogue: 99,0:02:14.48,0:02:15.94,Dialogue,,0,0,0,,Mulțumesc.
+Dialogue: 99,0:02:16.44,0:02:18.57,Dialogue,,0,0,0,,Sincer, sunt surprins.
+Dialogue: 99,0:02:18.57,0:02:21.40,Dialogue,,0,0,0,,Nu mă așteptam ca povestea voastră de ieri să fie adevărată.
+Dialogue: 99,0:02:22.57,0:02:27.82,Dialogue,,0,0,0,,Ați crezut că era o simplă escrocherie la început, dar ați făcut cercetări și ați descoperit ceva mult mai complex.
+Dialogue: 99,0:02:27.83,0:02:31.70,Dialogue,,0,0,0,,Ca să se cumpere cantități imense de acea monedă care-și pierde valoarea,
+Dialogue: 99,0:02:31.70,0:02:34.37,Dialogue,,0,0,0,,acel tip răspândește zvonul \Ncă valoarea ei va crește.
+Dialogue: 99,0:02:34.71,0:02:38.13,Dialogue,,0,0,0,,Asta îi va face pe unii \Nnegustori s-o cumpere.
+Dialogue: 99,0:02:38.59,0:02:43.80,Dialogue,,0,0,0,,Când vor observa că valoarea ei scade de fapt, \Nnegustorii se vor grăbi să scape de ea.
+Dialogue: 99,0:02:44.26,0:02:48.23,Dialogue,,0,0,0,,În acel moment, cineva o \Nsă apară și o s-o cumpere,
+Dialogue: 99,0:02:48.23,0:02:53.77,Dialogue,,0,0,0,,iar negustorii păcăliți nu vor avea curaj să vorbească despre asta ca să-și păstreze reputația.
+Dialogue: 99,0:02:54.77,0:03:00.49,Dialogue,,0,0,0,,Exact cum spui, există o metodă care poate aduce profituri uriașe dintr-o monedă care-și pierde valoarea.
+Dialogue: 99,0:03:01.61,0:03:05.62,Dialogue,,0,0,0,,Dar are și un risc major.
+Dialogue: 99,0:03:06.62,0:03:09.71,Dialogue,,0,0,0,,Situația asta mi-a stârnit curiozitatea.
+Dialogue: 99,0:03:10.41,0:03:11.50,Dialogue,,0,0,0,,Mă bucur să aud asta.
+Dialogue: 99,0:03:11.50,0:03:13.58,Dialogue,,0,0,0,,O voi face ca afacerilor \Nviitoare să fie înfloritoare,
+Dialogue: 99,0:03:14.29,0:03:16.58,Dialogue,,0,0,0,,exact ca cea cu blănurile de jder.
+Dialogue: 99,0:03:19.34,0:03:21.34,Dialogue,,0,0,0,,Crezi că vom reuși?
+Dialogue: 99,0:03:23.05,0:03:25.55,Dialogue,,0,0,0,,Chiar dacă ai dreptate \Nîn legătură cu Zheren,
+Dialogue: 99,0:03:25.55,0:03:31.64,Dialogue,,0,0,0,,planul nostru de a-l învinge pe angajatorul său va fi în zadar dacă Compania Milone nu acționează repede.
+Dialogue: 99,0:03:31.64,0:03:34.77,Dialogue,,0,0,0,,Ei bine, eu cred că va fi bine.
+Dialogue: 99,0:03:36.07,0:03:43.24,Dialogue,,0,0,0,,O companie cu destule resurse încât să deschidă filiale ar trebui să poată urmări o singură persoană.
+Dialogue: 99,0:03:46.60,0:03:47.32,Dialogue,,0,0,0,,Ce este așa amuzant?
+Dialogue: 99,0:03:48.66,0:03:49.86,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:03:51.46,0:03:53.70,Dialogue,,0,0,0,,Îmi aduceam aminte de trecut doar.
+Dialogue: 99,0:03:55.29,0:03:56.42,Dialogue,,0,0,0,,Am făcut cumva ceva?
+Dialogue: 99,0:03:56.98,0:04:03.09,Dialogue,,0,0,0,,Știi, și el făcea același lucru ca și tine și cădea de fiecare dată.
+Dialogue: 99,0:04:04.05,0:04:07.18,Dialogue,,0,0,0,,Indiferent de câte ori îl avertizam.
+Dialogue: 99,0:04:07.18,0:04:09.35,Dialogue,,0,0,0,,Pare o persoană amuzantă.
+Dialogue: 99,0:04:09.35,0:04:12.73,Dialogue,,0,0,0,,Da. Era puțin nătâng, \Ndar o persoană foarte veselă.
+Dialogue: 99,0:04:13.15,0:04:16.77,Dialogue,,0,0,0,,Nu a fost surprins deloc când \Nmi-a văzut forma de lup.
+Dialogue: 99,0:04:16.77,0:04:19.36,Dialogue,,0,0,0,,Bănuiesc că era puțin cam ciudat,
+Dialogue: 99,0:04:19.36,0:04:20.86,Dialogue,,0,0,0,,dar tot era o persoană bună.
+Dialogue: 99,0:04:21.28,0:04:25.24,Dialogue,,0,0,0,,A fost prima persoană care s-a purtat drăguț cu mine, fără să mă judece.
+Dialogue: 99,0:04:25.24,0:04:27.20,Dialogue,,0,0,0,,Era din Pasloei.
+Dialogue: 99,0:04:27.20,0:04:30.16,Dialogue,,0,0,0,,Te referi la cel care ți-a \Nîncredințat câmpurile de grâu?
+Dialogue: 99,0:04:30.16,0:04:30.95,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:04:31.86,0:04:34.12,Dialogue,,0,0,0,,Era așa de prostuț.
+Dialogue: 99,0:04:35.21,0:04:37.08,Dialogue,,0,0,0,,Uneori nu știam ce să mă fac cu el.
+Dialogue: 99,0:04:48.37,0:04:49.26,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:04:49.81,0:04:51.76,Dialogue,,0,0,0,,Voiam să-ți spun ceva,
+Dialogue: 99,0:04:52.64,0:04:55.60,Dialogue,,0,0,0,,dar nu-mi pot aminti ce.
+Dialogue: 99,0:04:55.60,0:04:56.76,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:04:57.06,0:04:59.94,Dialogue,,0,0,0,,Era ceva important, dar nu pot...
+Dialogue: 99,0:05:00.52,0:05:02.64,Dialogue,,0,0,0,,În acest caz, sunt sigur că-ți vei aminti.
+Dialogue: 99,0:05:03.85,0:05:05.11,Dialogue,,0,0,0,,Presupun.
+Dialogue: 99,0:05:12.53,0:05:15.07,Dialogue,,0,0,0,,Un prieten, nu?
+Dialogue: 99,0:05:28.86,0:05:32.52,Dialogue,,0,0,0,,Eu sunt Marlheit, \Nadministratorul acestei filiale.
+Dialogue: 99,0:05:32.92,0:05:36.51,Dialogue,,0,0,0,,Ne-ar plăcea să-ți acceptăm oferta.
+Dialogue: 99,0:05:36.51,0:05:40.11,Dialogue,,0,0,0,,Asta înseamnă că ați aflat \Npentru cine lucrează Zheren?
+Dialogue: 99,0:05:40.11,0:05:43.89,Dialogue,,0,0,0,,Da, o face pentru Compania de Comerț Medio.
+Dialogue: 99,0:05:44.51,0:05:46.14,Dialogue,,0,0,0,,Compania de Comerț Medio?
+Dialogue: 99,0:05:46.68,0:05:49.78,Dialogue,,0,0,0,,Înțeleg. Ei sunt samsarul \Nagricol principal din Pazzio,
+Dialogue: 99,0:05:49.78,0:05:52.13,Dialogue,,0,0,0,,să nu mai spun de multele \Nnave de marfă pe care le dețin.
+Dialogue: 99,0:05:52.91,0:05:58.95,Dialogue,,0,0,0,,Le-ar fi imposibil să ducă planul la bun sfârșit pe cont propriu.
+Dialogue: 99,0:05:58.95,0:06:03.09,Dialogue,,0,0,0,,Presupunem că au un nobil care-i ajută,
+Dialogue: 99,0:06:03.09,0:06:05.71,Dialogue,,0,0,0,,deși nu am reușit să-l identificăm încă.
+Dialogue: 99,0:06:05.71,0:06:07.78,Dialogue,,0,0,0,,Oricum, după cum ai spus și tu,
+Dialogue: 99,0:06:07.78,0:06:11.76,Dialogue,,0,0,0,,compania noastră ar putea \Nfi afectată dacă ia inițiativă.
+Dialogue: 99,0:06:13.18,0:06:16.43,Dialogue,,0,0,0,,Atunci, haide să discutăm \Ndespre cum vom împărți profitul.
+Dialogue: 99,0:06:18.60,0:06:21.10,Dialogue,,0,0,0,,Ești mai bine dispus ca niciodată.
+Dialogue: 99,0:06:22.40,0:06:24.15,Dialogue,,0,0,0,,Am putea strânge 300.000...
+Dialogue: 99,0:06:24.15,0:06:27.40,Dialogue,,0,0,0,,Nu, chiar 400.000 de monede Trenni de argint dacă totul merge bine.
+Dialogue: 99,0:06:27.40,0:06:31.28,Dialogue,,0,0,0,,Dacă Milone beneficiază de zece la sută din fiecare monedă Trenni,
+Dialogue: 99,0:06:31.28,0:06:33.83,Dialogue,,0,0,0,,voi reuși în sfârșit să-mi deschid propriul magazin cu partea mea de 2.000!
+Dialogue: 99,0:06:35.37,0:06:38.20,Dialogue,,0,0,0,,Ei bine, mă bucur că totul merge bine.
+Dialogue: 99,0:06:41.38,0:06:43.96,Dialogue,,0,0,0,,Nu ți-am spus să te odihnești la han dacă încă te simți amețită?
+Dialogue: 99,0:06:43.96,0:06:47.34,Dialogue,,0,0,0,,Îmi făceam griji că vor profita de tine.
+Dialogue: 99,0:06:47.80,0:06:49.13,Dialogue,,0,0,0,,Ce vrea să însemne asta?
+Dialogue: 99,0:06:49.59,0:06:51.05,Dialogue,,0,0,0,,Exact ce se înțelege.
+Dialogue: 99,0:06:52.06,0:06:53.35,Dialogue,,0,0,0,,Doamne.
+Dialogue: 99,0:06:54.24,0:06:57.52,Dialogue,,0,0,0,,Mai rezistă puțin. \NAproape am ajuns la han.
+Dialogue: 99,0:07:18.44,0:07:20.04,Dialogue,,0,0,0,,Schița pentru magazin?
+Dialogue: 99,0:07:20.04,0:07:21.96,Dialogue,,0,0,0,,Nu fi așa surprins.
+Dialogue: 99,0:07:21.96,0:07:24.29,Dialogue,,0,0,0,,Când te-ai trezit?
+Dialogue: 99,0:07:24.79,0:07:27.34,Dialogue,,0,0,0,,Desenul nu e rău deloc!
+Dialogue: 99,0:07:27.34,0:07:28.88,Dialogue,,0,0,0,,Încerci doar să mă lingusești.
+Dialogue: 99,0:07:28.88,0:07:31.88,Dialogue,,0,0,0,,Plănuiești să deschizi un magazin curând?
+Dialogue: 99,0:07:32.24,0:07:34.97,Dialogue,,0,0,0,,Doar dacă proiectul cu \NCompania Milone va merge bine,
+Dialogue: 99,0:07:34.97,0:07:37.00,Dialogue,,0,0,0,,dar nu e ca și cum mă îndoiesc de asta.
+Dialogue: 99,0:07:40.38,0:07:44.19,Dialogue,,0,0,0,,Orice negustor amublant visează să-și deschidă propriul magazin.
+Dialogue: 99,0:07:44.73,0:07:46.14,Dialogue,,0,0,0,,La fel și eu.
+Dialogue: 99,0:07:46.46,0:07:49.15,Dialogue,,0,0,0,,Ajungi să faci parte din comunitate odată ce deții un magazin.
+Dialogue: 99,0:07:49.53,0:07:54.16,Dialogue,,0,0,0,,Când umbli de colo-colo, nu reusești să-ți faci prieteni apropiați sau să-ți găsești o nevastă.
+Dialogue: 99,0:07:55.37,0:07:58.16,Dialogue,,0,0,0,,Apropo, mă întreb cum îi merge lui Chloe.
+Dialogue: 99,0:07:58.66,0:08:01.33,Dialogue,,0,0,0,,Dacă va auzi că am deschis un magazin, \Ncu siguranță va fi șocată.
+Dialogue: 99,0:08:01.33,0:08:03.37,Dialogue,,0,0,0,,Ba chiar supărată.
+Dialogue: 99,0:08:04.92,0:08:07.67,Dialogue,,0,0,0,,Totuși, asta nu ar fi prea bine pentru mine.
+Dialogue: 99,0:08:08.88,0:08:09.67,Dialogue,,0,0,0,,De ce?
+Dialogue: 99,0:08:10.13,0:08:14.01,Dialogue,,0,0,0,,Odată ce ai deschis un magazin, \Nnu vei mai vrea să pleci la drum, nu-i așa?
+Dialogue: 99,0:08:14.01,0:08:18.68,Dialogue,,0,0,0,,Va trebui să călătoresc singură sau să-mi găsesc un alt partener.
+Dialogue: 99,0:08:19.17,0:08:23.53,Dialogue,,0,0,0,,Ești isteață și încă mai ai banii \Nobținuți de pe blănurile de jder.
+Dialogue: 99,0:08:23.53,0:08:25.23,Dialogue,,0,0,0,,Nu vei avea nicio problemă de una singură.
+Dialogue: 99,0:08:27.90,0:08:29.65,Dialogue,,0,0,0,,M-am săturat să fiu singură.
+Dialogue: 99,0:08:33.53,0:08:37.82,Dialogue,,0,0,0,,Nu am niciun drept să \Nte forțez să vii cu mine.
+Dialogue: 99,0:08:38.41,0:08:39.66,Dialogue,,0,0,0,,Nu-i așa?
+Dialogue: 99,0:08:41.00,0:08:44.32,Dialogue,,0,0,0,,Te voi acompania în continuare \Npe drumul tău spre nord.
+Dialogue: 99,0:08:50.73,0:08:52.09,Dialogue,,0,0,0,,Chiar dacă voi obține acea sumă de bani,
+Dialogue: 99,0:08:52.09,0:08:54.21,Dialogue,,0,0,0,,nu voi reuși să deschid un magazin imediat.
+Dialogue: 99,0:08:55.84,0:08:57.39,Dialogue,,0,0,0,,Vorbești serios?
+Dialogue: 99,0:08:57.39,0:08:59.22,Dialogue,,0,0,0,,De ce aș minți?
+Dialogue: 99,0:09:04.76,0:09:08.31,Dialogue,,0,0,0,,Deci... haide. Nu face fața asta.
+Dialogue: 99,0:09:09.90,0:09:10.65,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:09:57.60,0:09:59.20,Dialogue,,0,0,0,,Nu-ți stă în fire.
+Dialogue: 99,0:10:00.47,0:10:03.16,Dialogue,,0,0,0,,Continui să am același vis.
+Dialogue: 99,0:10:03.16,0:10:04.45,Dialogue,,0,0,0,,Vis?
+Dialogue: 99,0:10:04.45,0:10:08.96,Dialogue,,0,0,0,,Când... Când mă trezesc, \Nsunt complet singură.
+Dialogue: 99,0:10:10.07,0:10:14.46,Dialogue,,0,0,0,,Nici Yue, nici Inty, nici Paro și nici Muri...
+Dialogue: 99,0:10:14.89,0:10:17.88,Dialogue,,0,0,0,,Indiferent unde mă uit, \Nnu este nimeni acolo.
+Dialogue: 99,0:10:19.59,0:10:22.97,Dialogue,,0,0,0,,Durata noastră de viață este de sute de ani.
+Dialogue: 99,0:10:23.47,0:10:26.94,Dialogue,,0,0,0,,Deci... Deci, m-am gândit să călătoresc puțin.
+Dialogue: 99,0:10:27.65,0:10:31.23,Dialogue,,0,0,0,,Eram sigură, foarte sigură că îi voi revedea,
+Dialogue: 99,0:10:31.90,0:10:34.49,Dialogue,,0,0,0,,dar... au dispărut. \NNu mai era nimeni.
+Dialogue: 99,0:10:35.64,0:10:38.59,Dialogue,,0,0,0,,Nu vreau să-mi deschid ochii și să văd că nu mai e nimeni acolo.
+Dialogue: 99,0:10:39.16,0:10:40.56,Dialogue,,0,0,0,,M-am săturat să fiu singură.
+Dialogue: 99,0:10:41.19,0:10:42.53,Dialogue,,0,0,0,,Îmi este frig când sunt singură.
+Dialogue: 99,0:10:43.53,0:10:45.91,Dialogue,,0,0,0,,Mă simt tristă când sunt singură.
+Dialogue: 99,0:10:50.70,0:10:52.17,Dialogue,,0,0,0,,Se pare că mi-am pierdut puțin cumpătul.
+Dialogue: 99,0:10:52.17,0:10:54.66,Dialogue,,0,0,0,,Și negustorii ambulați au vise de genul.
+Dialogue: 99,0:10:56.70,0:10:58.88,Dialogue,,0,0,0,,Ochii-ți sunt plini de lacrimi.
+Dialogue: 99,0:10:58.88,0:10:59.97,Dialogue,,0,0,0,,Așteaptă o secundă.
+Dialogue: 99,0:11:04.64,0:11:05.64,Dialogue,,0,0,0,,Poftim.
+Dialogue: 99,0:11:05.64,0:11:06.68,Dialogue,,0,0,0,,Dar asta este...
+Dialogue: 99,0:11:07.39,0:11:09.64,Dialogue,,0,0,0,,Mereu le arunc după ce le termin.
+Dialogue: 99,0:11:09.64,0:11:12.85,Dialogue,,0,0,0,,Iar afacerea nu a ajuns încă la bun sfârșit.
+Dialogue: 99,0:11:13.44,0:11:15.43,Dialogue,,0,0,0,,"Nu-ți număra puii înainte să iasă din ouă."
+Dialogue: 99,0:11:23.70,0:11:26.11,Dialogue,,0,0,0,,Acum îți sunt datoare.
+Dialogue: 99,0:11:29.54,0:11:32.58,Dialogue,,0,0,0,,Încă mi-e somn. \NNu te vei băga și tu în pat?
+Dialogue: 99,0:11:32.58,0:11:34.59,Dialogue,,0,0,0,,Bănuiesc că a venit momentul.
+Dialogue: 99,0:11:34.59,0:11:35.92,Dialogue,,0,0,0,,Nu vrem să irosim lumânările.
+Dialogue: 99,0:11:38.09,0:11:40.05,Dialogue,,0,0,0,,Ai vorbit ca un adevărat negustor.
+Dialogue: 99,0:12:01.07,0:12:01.99,Dialogue,,0,0,0,,C-Ce este—
+Dialogue: 99,0:12:01.99,0:12:04.37,Dialogue,,0,0,0,,Nu comenta.
+Dialogue: 99,0:12:10.82,0:12:12.25,Dialogue,,0,0,0,,Nu pot... respira...
+Dialogue: 99,0:12:17.67,0:12:19.62,Dialogue,,0,0,0,,Ți s-au obișnuit ochii cu întunericul?
+Dialogue: 99,0:12:21.97,0:12:23.13,Dialogue,,0,0,0,,Ce vrei să—
+Dialogue: 99,0:12:23.63,0:12:27.60,Dialogue,,0,0,0,,Mi-am amintit în sfârșit \Nce era așa de important.
+Dialogue: 99,0:12:28.83,0:12:30.89,Dialogue,,0,0,0,,Sunt trei bărbați la ușă.
+Dialogue: 99,0:12:30.89,0:12:33.31,Dialogue,,0,0,0,,Nu cred că sunt clienți ai hanului.
+Dialogue: 99,0:12:33.68,0:12:35.60,Dialogue,,0,0,0,,Nu-mi spune că sunt de la Compania Medio.
+Dialogue: 99,0:12:37.40,0:12:38.98,Dialogue,,0,0,0,,Suntem la etajul doi.
+Dialogue: 99,0:12:38.98,0:12:41.02,Dialogue,,0,0,0,,Din fericire pentru noi, \Nnu este nimeni afară.
+Dialogue: 99,0:12:41.43,0:12:43.23,Dialogue,,0,0,0,,Ești gata?
+Dialogue: 99,0:12:45.07,0:12:49.83,Dialogue,,0,0,0,,Haide, privește-mi corpul sub lumina lunii!
+Dialogue: 99,0:13:01.41,0:13:02.63,Dialogue,,0,0,0,,Aleargă.
+Dialogue: 99,0:13:03.05,0:13:04.88,Dialogue,,0,0,0,,Va trebui să renunți la căruță.
+Dialogue: 99,0:13:12.93,0:13:15.64,Dialogue,,0,0,0,,Nu au niciun motiv să omoare calul.
+Dialogue: 99,0:13:15.64,0:13:17.18,Dialogue,,0,0,0,,Îl putem lua mai târziu.
+Dialogue: 99,0:13:17.56,0:13:18.31,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:13:26.91,0:13:30.41,Dialogue,,0,0,0,,Ține asta pentru orice eventualitate.
+Dialogue: 99,0:13:33.37,0:13:34.12,Dialogue,,0,0,0,,Este cald.
+Dialogue: 99,0:13:34.12,0:13:36.16,Dialogue,,0,0,0,,Este grâul în care trăiesc.
+Dialogue: 99,0:13:36.62,0:13:38.46,Dialogue,,0,0,0,,Se îndreaptă spre Compania Milone!
+Dialogue: 99,0:13:39.96,0:13:42.12,Dialogue,,0,0,0,,Opriți-i cu orice preț!
+Dialogue: 99,0:13:44.92,0:13:48.47,Dialogue,,0,0,0,,Holo, haide să mergem la cumpărături când se vor termina toate astea.
+Dialogue: 99,0:13:48.47,0:13:50.26,Dialogue,,0,0,0,,Ce tot spui într-un moment ca acesta?
+Dialogue: 99,0:13:50.26,0:13:52.51,Dialogue,,0,0,0,,Îți voi cumpăra un pieptene sau o pălărie.
+Dialogue: 99,0:13:52.51,0:13:54.06,Dialogue,,0,0,0,,Ce plănuiești acum?
+Dialogue: 99,0:13:54.06,0:13:57.02,Dialogue,,0,0,0,,Tocmai am observat cât \Nde frumos este părul tău.
+Dialogue: 99,0:14:00.58,0:14:02.73,Dialogue,,0,0,0,,Aș prefera un pieptene pentru \Ncoadă decât unul pentru păr.
+Dialogue: 99,0:14:03.07,0:14:04.48,Dialogue,,0,0,0,,Atunci, așa să fie.
+Dialogue: 99,0:14:04.99,0:14:06.98,Dialogue,,0,0,0,,Rezistă. Aproape am \Najuns la Compania Milone.
+Dialogue: 99,0:14:10.37,0:14:11.20,Dialogue,,0,0,0,,I-ai văzut?
+Dialogue: 99,0:14:11.20,0:14:12.24,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:14:12.24,0:14:13.74,Dialogue,,0,0,0,,Trebuie să fie prin apropiere.
+Dialogue: 99,0:14:13.74,0:14:16.46,Dialogue,,0,0,0,,E o chestiune de timp până \Nvor veni întăriri. Înconjurați-i!
+Dialogue: 99,0:14:16.46,0:14:17.25,Dialogue,,0,0,0,,Da, domnule!
+Dialogue: 99,0:14:20.46,0:14:22.71,Dialogue,,0,0,0,,Se pare că avem probleme.
+Dialogue: 99,0:14:22.71,0:14:24.42,Dialogue,,0,0,0,,Ar trebui să ne despărțim?
+Dialogue: 99,0:14:24.42,0:14:27.22,Dialogue,,0,0,0,,E o idee bună, dar am eu un plan mai bun.
+Dialogue: 99,0:14:27.22,0:14:27.88,Dialogue,,0,0,0,,Care este?
+Dialogue: 99,0:14:28.38,0:14:31.26,Dialogue,,0,0,0,,Eu voi alerga spre strada principală și îi voi atrage după mine.
+Dialogue: 99,0:14:31.26,0:14:32.26,Dialogue,,0,0,0,,Astfel tu vei reuși să—
+Dialogue: 99,0:14:32.26,0:14:33.93,Dialogue,,0,0,0,,Stai o secundă!  \NNu te pot lăsa—
+Dialogue: 99,0:14:33.93,0:14:34.97,Dialogue,,0,0,0,,Ascultă.
+Dialogue: 99,0:14:34.97,0:14:38.94,Dialogue,,0,0,0,,Dacă ne vom despărți, \Ntu ești cel care va fi prins.
+Dialogue: 99,0:14:38.94,0:14:41.35,Dialogue,,0,0,0,,Eu sunt un lup. \NPot scăpa de ei.
+Dialogue: 99,0:14:41.81,0:14:45.66,Dialogue,,0,0,0,,Dacă voi scăpa doar eu, cum voi reuși să obțin ajutorul Companiei Milone?
+Dialogue: 99,0:14:46.61,0:14:49.28,Dialogue,,0,0,0,,Tu le-ai spus deja totul.
+Dialogue: 99,0:14:49.28,0:14:54.16,Dialogue,,0,0,0,,Singura influență pe care o avem peste ei este amenințarea trădării tale.
+Dialogue: 99,0:14:56.20,0:14:57.79,Dialogue,,0,0,0,,Nu, tot nu o pot face.
+Dialogue: 99,0:14:57.79,0:15:02.79,Dialogue,,0,0,0,,Dacă Medio vor vedea coada și urechile tale, te vor duce în față bisericii cu singuranță.
+Dialogue: 99,0:15:02.79,0:15:04.42,Dialogue,,0,0,0,,Nu mă pot prinde.
+Dialogue: 99,0:15:04.42,0:15:08.59,Dialogue,,0,0,0,,Și chiar dacă o vor face, îmi voi ține coada și urechile ascunse pentru o zi.
+Dialogue: 99,0:15:08.59,0:15:11.59,Dialogue,,0,0,0,,Știu că vei veni să mă salvezi în timpul ăsta.
+Dialogue: 99,0:15:12.05,0:15:12.93,Dialogue,,0,0,0,,Ascultă-mă.
+Dialogue: 99,0:15:12.93,0:15:15.92,Dialogue,,0,0,0,,Visul tău este să-ți deschizi \Nun magazin, nu-i așa?
+Dialogue: 99,0:15:16.52,0:15:20.43,Dialogue,,0,0,0,,Și acum câteva clipe ți-am \Nspus că-ți sunt datoare.
+Dialogue: 99,0:15:20.44,0:15:22.15,Dialogue,,0,0,0,,Nu fi ridicolă!
+Dialogue: 99,0:15:22.15,0:15:23.98,Dialogue,,0,0,0,,Dacă te vor prinde, te vor ucide!
+Dialogue: 99,0:15:23.98,0:15:26.18,Dialogue,,0,0,0,,Asta nu este plătirea datoriei, ci sinucidere!
+Dialogue: 99,0:15:27.28,0:15:29.24,Dialogue,,0,0,0,,Singurătatea este o boală fatală.
+Dialogue: 99,0:15:29.95,0:15:31.40,Dialogue,,0,0,0,,Este un schimb corect.
+Dialogue: 99,0:15:32.78,0:15:33.19,Dialogue,,0,0,0,,Nu—
+Dialogue: 99,0:15:38.86,0:15:40.37,Dialogue,,0,0,0,,Eu cred în tine.
+Dialogue: 99,0:15:44.96,0:15:45.79,Dialogue,,0,0,0,,Pe acolo!
+Dialogue: 99,0:15:45.79,0:15:46.96,Dialogue,,0,0,0,,I-am găsit!
+Dialogue: 99,0:15:46.96,0:15:48.63,Dialogue,,0,0,0,,Strada Roita!
+Dialogue: 99,0:15:48.63,0:15:49.67,Dialogue,,0,0,0,,Unde sunt?
+Dialogue: 99,0:15:50.51,0:15:51.84,Dialogue,,0,0,0,,Văd doar unul!
+Dialogue: 99,0:15:51.84,0:15:53.59,Dialogue,,0,0,0,,Ar trebui să fie doi!
+Dialogue: 99,0:15:54.80,0:15:55.85,Dialogue,,0,0,0,,Acolo este!
+Dialogue: 99,0:16:06.08,0:16:09.32,Dialogue,,0,0,0,,Sunt Lawrence din această după-amiază! \NSunt urmărit! Ajutați-mă!
+Dialogue: 99,0:16:09.32,0:16:10.49,Dialogue,,0,0,0,,Ajutați-mă!
+Dialogue: 99,0:16:10.49,0:16:11.90,Dialogue,,0,0,0,,Acolo este!
+Dialogue: 99,0:16:20.36,0:16:23.79,Dialogue,,0,0,0,,Așteptați! Dați-ni-l pe acel bărbat!
+Dialogue: 99,0:16:25.67,0:16:26.87,Dialogue,,0,0,0,,Nemernicilor!
+Dialogue: 99,0:16:27.54,0:16:32.72,Dialogue,,0,0,0,,Asta este clădirea Companiei Milone, deținută de \NMarchizul Milone, recunoscut de Înălțimea Sa,
+Dialogue: 99,0:16:32.72,0:16:35.63,Dialogue,,0,0,0,,al XXXIII-lea Arhiduce Raondeal!
+Dialogue: 99,0:16:35.63,0:16:38.56,Dialogue,,0,0,0,,Această poartă este proprietatea marchizului.
+Dialogue: 99,0:16:38.56,0:16:41.10,Dialogue,,0,0,0,,Oricine se află între aceste \Nziduri este oaspetele său!
+Dialogue: 99,0:16:41.10,0:16:45.72,Dialogue,,0,0,0,,Mai mult, orice oaspete al marchizului se află sub protecția Arhiducelui Raondeal.
+Dialogue: 99,0:16:45.72,0:16:47.02,Dialogue,,0,0,0,,Ascultați cu atenție!
+Dialogue: 99,0:16:47.02,0:16:49.73,Dialogue,,0,0,0,,Când loviți această poartă \Ncu ciomagurile voastre,
+Dialogue: 99,0:16:49.73,0:16:52.44,Dialogue,,0,0,0,,îl loviți și pe Înălțimea Sa!
+Dialogue: 99,0:16:56.32,0:16:57.78,Dialogue,,0,0,0,,Retragerea!
+Dialogue: 99,0:16:59.87,0:17:02.16,Dialogue,,0,0,0,,Ce zarvă în miez de noapte.
+Dialogue: 99,0:17:02.72,0:17:04.28,Dialogue,,0,0,0,,Ce se petrece aici?
+Dialogue: 99,0:17:06.39,0:17:08.17,Dialogue,,0,0,0,,Îmi cer scuze pentru deranj.
+Dialogue: 99,0:17:08.17,0:17:10.62,Dialogue,,0,0,0,,Vă sunt recunoscător \Npentru că m-ați ajutat.
+Dialogue: 99,0:17:11.17,0:17:14.76,Dialogue,,0,0,0,,Pătrează-ți recunoștința pentru Marchizul Milone, deși nu este aici momentan.
+Dialogue: 99,0:17:14.76,0:17:17.30,Dialogue,,0,0,0,,Ce voiau?
+Dialogue: 99,0:17:17.30,0:17:20.72,Dialogue,,0,0,0,,Sunt fără îndoială lacheii Companiei Medio.
+Dialogue: 99,0:17:21.39,0:17:22.51,Dialogue,,0,0,0,,Așa mă gândeam și eu.
+Dialogue: 99,0:17:22.85,0:17:27.15,Dialogue,,0,0,0,,Au aflat de afacerea noastră, \Ndeci i-au trimis ca s-o prevină din a—
+Dialogue: 99,0:17:27.15,0:17:28.51,Dialogue,,0,0,0,,S-o prevină?
+Dialogue: 99,0:17:28.98,0:17:31.60,Dialogue,,0,0,0,,Cred că partenera mea a fost capturată.
+Dialogue: 99,0:17:31.60,0:17:34.36,Dialogue,,0,0,0,,Mă puteți ajuta s-o salvez?
+Dialogue: 99,0:17:36.36,0:17:40.73,Dialogue,,0,0,0,,După zarva de aici, am trimis \Ncâțiva oameni să-i urmărească.
+Dialogue: 99,0:17:40.73,0:17:46.00,Dialogue,,0,0,0,,Au raportat că au văzut o \Ntânără cum este luată cu forța.
+Dialogue: 99,0:17:47.25,0:17:50.50,Dialogue,,0,0,0,,Ea trebuie să fie partenera mea, Holo.
+Dialogue: 99,0:17:50.50,0:17:53.08,Dialogue,,0,0,0,,A ales să fie momeală ca eu să pot ajunge aici.
+Dialogue: 99,0:17:54.34,0:17:55.84,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:17:56.26,0:17:59.76,Dialogue,,0,0,0,,Dar de ce ar vrea s-o \Nprindă pe domnișoara Holo?
+Dialogue: 99,0:17:59.76,0:18:00.93,Dialogue,,0,0,0,,Deja am—
+Dialogue: 99,0:18:01.85,0:18:06.59,Dialogue,,0,0,0,,Cred că au făcut-o pentru că ne-am alăturat acestei companii ca să le punem bețe în roate.
+Dialogue: 99,0:18:08.23,0:18:10.68,Dialogue,,0,0,0,,Nu crezi că asta e ciudat?
+Dialogue: 99,0:18:11.23,0:18:12.27,Dialogue,,0,0,0,,Ce este ciudat?!
+Dialogue: 99,0:18:13.19,0:18:14.57,Dialogue,,0,0,0,,Te rog să te calmezi.
+Dialogue: 99,0:18:14.57,0:18:18.07,Dialogue,,0,0,0,,Ceva este foarte, foarte ciudat.
+Dialogue: 99,0:18:18.07,0:18:19.62,Dialogue,,0,0,0,,Ce vă face să credeți asta?
+Dialogue: 99,0:18:19.62,0:18:21.78,Dialogue,,0,0,0,,Gândește-te puțin.
+Dialogue: 99,0:18:21.78,0:18:26.66,Dialogue,,0,0,0,,Ar putea opri ceva luându-vă \Npe voi doi ostateci?
+Dialogue: 99,0:18:26.66,0:18:30.54,Dialogue,,0,0,0,,Am început deja să strângem \Nmonedele Trenni de argint.
+Dialogue: 99,0:18:30.54,0:18:36.42,Dialogue,,0,0,0,,Cu alte cuvinte, înțelegem \Nperfect această oportunitate.
+Dialogue: 99,0:18:36.42,0:18:39.68,Dialogue,,0,0,0,,Ar fi avut motive să vă ia ostateci
+Dialogue: 99,0:18:39.68,0:18:44.93,Dialogue,,0,0,0,,dacă ne-ați fi spus să strângem monedele Trenni fără să ne spuneți și de ce.
+Dialogue: 99,0:18:44.93,0:18:49.30,Dialogue,,0,0,0,,Dar nicio companie nu ar fi acționat pe baza unei sugestii atât de vagi.
+Dialogue: 99,0:18:50.15,0:18:52.40,Dialogue,,0,0,0,,Doar nu vreți să spuneți că...
+Dialogue: 99,0:18:52.40,0:18:56.81,Dialogue,,0,0,0,,Ba da. Avem toate informațiile \Nnecesare ca să facem profit.
+Dialogue: 99,0:18:56.81,0:19:00.90,Dialogue,,0,0,0,,Destinul tău și al partenerei \Ntale nu schimbă nimic.
+Dialogue: 99,0:19:02.51,0:19:07.53,Dialogue,,0,0,0,,Este o răstunare de situație groaznică, dar deja am investit o cantitate substanțială de bani.
+Dialogue: 99,0:19:07.91,0:19:14.00,Dialogue,,0,0,0,,Dacă am avea de ales între \Nun profit frumos și situația ta,
+Dialogue: 99,0:19:14.75,0:19:18.84,Dialogue,,0,0,0,,îmi pare rău, dar interesele \Nnoastre sunt pe primul loc.
+Dialogue: 99,0:19:18.84,0:19:19.84,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:19:19.84,0:19:21.29,Dialogue,,0,0,0,,{\i1}Nu se poate.
+Dialogue: 99,0:19:36.56,0:19:37.81,Dialogue,,0,0,0,,Așteaptă!
+Dialogue: 99,0:19:38.94,0:19:41.31,Dialogue,,0,0,0,,Văd că partenera ta îți este dragă.
+Dialogue: 99,0:19:41.78,0:19:44.32,Dialogue,,0,0,0,,Orice efort de a o salva va da greș
+Dialogue: 99,0:19:44.32,0:19:46.19,Dialogue,,0,0,0,,dacă nu avem mintea limpede.
+Dialogue: 99,0:19:49.46,0:19:50.79,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:19:50.79,0:19:51.49,Dialogue,,0,0,0,,Este în regulă.
+Dialogue: 99,0:19:52.17,0:19:57.21,Dialogue,,0,0,0,,Nici eu nu aș reuși să fiu calm dacă soția mea ar fi într-o situație similară.
+Dialogue: 99,0:19:58.55,0:20:00.42,Dialogue,,0,0,0,,Dar după cum am mai spus, \Nchiar este ciudat.
+Dialogue: 99,0:20:00.92,0:20:05.59,Dialogue,,0,0,0,,Compania Medio ar trebui să știe cum ar acționa compania noastră, nu?
+Dialogue: 99,0:20:06.56,0:20:08.59,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:20:08.93,0:20:16.23,Dialogue,,0,0,0,,Și tot au venit după voi deși nu aveți nicio valoare într-o eventuală negociere.
+Dialogue: 99,0:20:16.23,0:20:19.07,Dialogue,,0,0,0,,Ai vreo idee de ce?
+Dialogue: 99,0:20:19.90,0:20:21.24,Dialogue,,0,0,0,,De ce?
+Dialogue: 99,0:20:22.03,0:20:22.94,Dialogue,,0,0,0,,Nu se poate...
+Dialogue: 99,0:20:22.95,0:20:27.15,Dialogue,,0,0,0,,Profitul care ne așteaptă este unul uriaș.
+Dialogue: 99,0:20:27.49,0:20:29.45,Dialogue,,0,0,0,,Ne dorim foarte mult să ne \Nducem planul la bun sfârșit.
+Dialogue: 99,0:20:29.45,0:20:30.08,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:20:30.08,0:20:33.80,Dialogue,,0,0,0,,Nu ezita să-mi spui ce gândești, indiferent cât de nesemnificativ ar fi.
+Dialogue: 99,0:20:34.67,0:20:36.12,Dialogue,,0,0,0,,Domnule Lawrence!
+Dialogue: 99,0:20:36.46,0:20:37.96,Dialogue,,0,0,0,,Există un motiv, nu-i așa?
+Dialogue: 99,0:20:37.96,0:20:39.38,Dialogue,,0,0,0,,Bănuiesc că știi care ar putea fi acela.
+Dialogue: 99,0:20:45.05,0:20:46.76,Dialogue,,0,0,0,,Scuzați-mă.
+Dialogue: 99,0:20:46.76,0:20:47.42,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:20:47.76,0:20:50.42,Dialogue,,0,0,0,,Tocmai am primit o scrisoare.
+Dialogue: 99,0:20:50.42,0:20:52.43,Dialogue,,0,0,0,,Cred că are legătură cu situația noastră.
+Dialogue: 99,0:20:56.61,0:20:59.73,Dialogue,,0,0,0,,"Pentru lupul și pădurea \Nîn care trăiește acesta"?
+Dialogue: 99,0:21:03.70,0:21:07.11,Dialogue,,0,0,0,,Scuzați-mă, dar pot să \Narunc eu o privire mai întâi?
+Dialogue: 99,0:21:10.24,0:21:11.62,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:21:11.62,0:21:12.57,Dialogue,,0,0,0,,Mulțumesc.
+Dialogue: 99,0:21:20.01,0:21:21.84,Dialogue,,0,0,0,,"Avem lupul."
+Dialogue: 99,0:21:21.84,0:21:24.63,Dialogue,,0,0,0,,"Biserica îi primește pe \Ntoți cu brațele deschise."
+Dialogue: 99,0:21:24.63,0:21:26.59,Dialogue,,0,0,0,,"Ca să țineți lupul departe de casa voastră,
+Dialogue: 99,0:21:26.59,0:21:28.97,Dialogue,,0,0,0,,închideți bine ușile și \Nțineți-vă familia înăuntru."
+Dialogue: 99,0:21:35.98,0:21:38.06,Dialogue,,0,0,0,,Holo, fata cu care călătoream,
+Dialogue: 99,0:21:40.11,0:21:43.10,Dialogue,,0,0,0,,este un lup sub formă umană, \Ncare poate influența recoltele.
+Dialogue: 99,0:22:07.34,0:22:08.39,Dialogue,,0,0,0,,Tu ești...
+Dialogue: 99,0:23:40.80,0:23:43.92,Dialogue,,0,0,20,,{\i1}Data viitoare: "Lupul și cearta dintre îndrăgostiți".
+Dialogue: 99,0:23:45.89,0:23:48.68,Dialogue,,0,0,20,,{\i1}Data viitoare: "Lupul și cearta dintre îndrăgostiți".
 Dialogue: 0,0:00:00.06,0:00:00.10,DedzuyaSigns,,0,0,0,,{\alpha&HFA&\an8\pos(622.02,469.96)\fnLinux Libertine Semibold\fs92\fsp1\c&H91460C&\blur0.6\fscx99.98\fscy99.98}Spice and Wolf
 Dialogue: 0,0:00:00.10,0:00:00.14,DedzuyaSigns,,0,0,0,,{\alpha&HF0&\an8\pos(622.04,469.93)\fnLinux Libertine Semibold\fs92\fsp1\c&H91460C&\blur0.6\fscx99.94\fscy99.94}Spice and Wolf
 Dialogue: 0,0:00:00.14,0:00:00.18,DedzuyaSigns,,0,0,0,,{\alpha&HE5&\an8\pos(622.07,469.9)\fnLinux Libertine Semibold\fs92\fsp1\c&H91460C&\blur0.6\fscx99.9\fscy99.9}Spice and Wolf

@@ -30,384 +30,384 @@ Style: OP TL - Copy,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:23.67,0:00:26.64,Dialogue,,0,0,0,,Nu știu cum să mă întorc.
-Dialogue: 100,0:00:26.64,0:00:28.37,Dialogue,,0,0,0,,Ce ar trebui să fac?
-Dialogue: 100,0:00:29.25,0:00:31.44,Dialogue,,0,0,0,,Și nu am deloc semnal la telefon.
-Dialogue: 100,0:00:33.27,0:00:35.84,Dialogue,,0,0,0,,O casă în stil occidental la marginea pădurii.
-Dialogue: 100,0:00:36.41,0:00:39.55,Dialogue,,0,0,0,,O fată care apare când se lasă noaptea.
-Dialogue: 100,0:00:40.93,0:00:45.27,Dialogue,,0,0,0,,Înfățișarea ei rămâne neschimbată, indiferent câți ani trec.
-Dialogue: 100,0:00:45.63,0:00:50.14,Dialogue,,0,0,0,,O teorie spune că este o păpușă cu suflet.
-Dialogue: 100,0:00:50.60,0:00:52.25,Dialogue,,0,0,0,,O fată-păpușă?
-Dialogue: 100,0:00:52.25,0:00:53.90,Dialogue,,0,0,0,,Cuvântul "păpușă" i-a atras atenția!
-Dialogue: 100,0:00:53.90,0:00:58.07,Dialogue,,0,0,0,,Mai este o poveste și despre o \Nfată care se plimbă prin pădure
-Dialogue: 100,0:00:58.07,0:01:01.27,Dialogue,,0,0,0,,și una despre o fată care plutește pe cer.
-Dialogue: 100,0:01:01.27,0:01:03.11,Dialogue,,0,0,0,,Cercetezi aceste lucruri pentru clubul ocult?
-Dialogue: 100,0:01:03.38,0:01:04.18,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:01:04.18,0:01:06.60,Dialogue,,0,0,0,,Uau, o fată-păpușă!
-Dialogue: 100,0:01:06.60,0:01:09.44,Dialogue,,0,0,0,,E-Este doar o legendă urbană!
-Dialogue: 100,0:01:09.44,0:01:11.50,Dialogue,,0,0,0,,Privește.
-Dialogue: 100,0:01:15.48,0:01:19.00,Dialogue,,0,0,0,,{\i1}Am venit aici sperând s-o întâlnesc pe acea fată
-Dialogue: 100,0:01:19.00,0:01:21.00,Dialogue,,0,0,0,,{\i1}dacă aș găsi acest loc, dar...
-Dialogue: 100,0:01:27.38,0:01:29.37,Dialogue,,0,0,0,,{\i1}E-Este cumva un animal?
-Dialogue: 100,0:01:29.37,0:01:30.75,Dialogue,,0,0,0,,{\i1}Sau...
-Dialogue: 100,0:01:47.04,0:01:49.04,Dialogue,,0,0,0,,O fată?
-Dialogue: 100,0:01:52.49,0:01:53.99,Dialogue,,0,0,0,,Este așa de drăguță...
-Dialogue: 100,0:01:54.50,0:01:58.29,Dialogue,,0,0,0,,{\i1}Dar ce face în mijlocul pădurii?
-Dialogue: 100,0:01:59.23,0:02:00.72,Dialogue,,0,0,0,,Nu-ți fie teamă.
-Dialogue: 100,0:02:01.26,0:02:04.35,Dialogue,,0,0,0,,Sunt doar un vampir obșinut în trecere.
-Dialogue: 100,0:02:04.35,0:02:06.18,Dialogue,,0,0,0,,Nu sunt o persoană dubioasă.
-Dialogue: 100,0:02:06.80,0:02:08.40,Dialogue,,0,0,0,,{\i1}Ești complet dubioasă.
-Dialogue: 100,0:02:08.40,0:02:11.76,Dialogue,,0,0,0,,E-Ei bine, m-am pierdut.
-Dialogue: 100,0:02:11.76,0:02:13.48,Dialogue,,0,0,0,,Și ai venit până aici?
-Dialogue: 100,0:02:13.48,0:02:14.85,Dialogue,,0,0,0,,Nu prea vezi asta.
-Dialogue: 100,0:02:14.85,0:02:18.22,Dialogue,,0,0,0,,Nu am știut încotro s-o iau!
-Dialogue: 100,0:02:18.22,0:02:20.05,Dialogue,,0,0,0,,În regulă, atunci, prinde-te de mine.
-Dialogue: 100,0:02:30.84,0:02:33.19,Dialogue,,0,0,0,,Vezi? Dacă mergi pe sus, nu te poți pierde.
-Dialogue: 100,0:02:34.72,0:02:37.84,Dialogue,,0,0,0,,Uau, chiar ești un vampir!
-Dialogue: 100,0:04:18.85,0:04:21.96,Dialogue,,0,0,0,,Deci, ce faci în acest loc pustiu?
-Dialogue: 100,0:04:22.55,0:04:23.86,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:04:24.57,0:04:27.54,Dialogue,,0,0,0,,Există acest loc numit "Casa Păpușii".
-Dialogue: 100,0:04:27.54,0:04:29.45,Dialogue,,0,0,0,,Îl căutam.
-Dialogue: 100,0:04:29.98,0:04:32.24,Dialogue,,0,0,0,,O, aia este casa mea.
-Dialogue: 100,0:04:32.24,0:04:33.33,Dialogue,,0,0,0,,Serios?!
-Dialogue: 100,0:04:33.70,0:04:36.58,Dialogue,,0,0,0,,Totuși, este mai aproape de oraș.
-Dialogue: 100,0:04:37.43,0:04:40.88,Dialogue,,0,0,0,,Dar zvonurile spun că este lângă pădure.
-Dialogue: 100,0:04:40.88,0:04:42.97,Dialogue,,0,0,0,,O, așa este.
-Dialogue: 100,0:04:43.56,0:04:50.16,Dialogue,,0,0,0,,O tânără domnișoară ca tine ar trebui \Nsă umble noaptea de una singură!
-Dialogue: 100,0:04:48.74,0:04:50.91,Dialogue,,0,0,0,,{\an8}Familia Mori locuiește lângă mine.
-Dialogue: 100,0:04:50.91,0:04:52.65,Dialogue,,0,0,0,,Este o familie a {\i1}cărei{\i0} nume înseamnă "pădure"?!
-Dialogue: 100,0:04:52.65,0:04:55.04,Dialogue,,0,0,0,,Dacă ești curioasă, poți arunca o privire.
-Dialogue: 100,0:04:55.04,0:04:56.37,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:04:59.11,0:05:03.29,Dialogue,,0,0,0,,Vampirii nu îmbrătrânesc, deci dacă trăiesc într-un singur loc o perioadă lungă,
-Dialogue: 100,0:05:03.29,0:05:05.49,Dialogue,,0,0,0,,încep să apară zvonuri ciudate.
-Dialogue: 100,0:05:05.49,0:05:08.02,Dialogue,,0,0,0,,Înțeleg. Asta este cam nasol.
-Dialogue: 100,0:05:08.41,0:05:10.65,Dialogue,,0,0,0,,Nu prea mă interesează zvonurile.
-Dialogue: 100,0:05:11.99,0:05:13.91,Dialogue,,0,0,0,,Marea problemă este...
-Dialogue: 100,0:05:13.91,0:05:14.81,Dialogue,,0,0,0,,Care este?
-Dialogue: 100,0:05:14.81,0:05:18.87,Dialogue,,0,0,0,,...că doamna Mori continuă să îmi aducă mâncare.
-Dialogue: 100,0:05:18.87,0:05:22.26,Dialogue,,0,0,0,,Trebuie să mănânci dacă vrei \Nsă crești mare și puternică.
-Dialogue: 100,0:05:22.26,0:05:24.89,Dialogue,,0,0,0,,Nu mănânc altceva în afară de sânge.
-Dialogue: 100,0:05:24.89,0:05:26.43,Dialogue,,0,0,0,,Aceste diete ciudate nu sunt bune.
-Dialogue: 100,0:05:26.43,0:05:28.71,Dialogue,,0,0,0,,Trebuie să mănânci și carne, și legume!
-Dialogue: 100,0:05:28.71,0:05:31.42,Dialogue,,0,0,0,,Nu vreau ca mâncarea să fie irosită,
-Dialogue: 100,0:05:31.42,0:05:33.75,Dialogue,,0,0,0,,dar nu pare să înțeleagă când îi explic.
-Dialogue: 100,0:05:33.75,0:05:35.88,Dialogue,,0,0,0,,Asta chiar pare problematic.
-Dialogue: 100,0:05:37.19,0:05:38.14,Dialogue,,0,0,0,,Am ajuns.
-Dialogue: 100,0:05:40.37,0:05:44.02,Dialogue,,0,0,0,,Arată exact ca în poza pe \Ncare mi-a dat-o Sakuya!
-Dialogue: 100,0:05:44.02,0:05:46.02,Dialogue,,0,0,0,,Poți intra dacă vrei.
-Dialogue: 100,0:05:46.02,0:05:47.07,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:05:49.35,0:05:50.61,Dialogue,,0,0,0,,Îți mulțumesc că m-ai pri—
-Dialogue: 100,0:05:55.11,0:05:56.18,Dialogue,,0,0,0,,Uimitor!
-Dialogue: 100,0:05:56.18,0:05:57.54,Dialogue,,0,0,0,,Este așa de vampiric!
-Dialogue: 100,0:05:57.54,0:05:59.07,Dialogue,,0,0,0,,Mă bucur să aud asta.
-Dialogue: 100,0:06:01.29,0:06:05.75,Dialogue,,0,0,0,,Deci ai auzit zvonurile și ai venit \Naici ca să-ți testezi curajul sau ceva?
-Dialogue: 100,0:06:06.09,0:06:08.92,Dialogue,,0,0,0,,Nu. Am venit aici...
-Dialogue: 100,0:06:10.10,0:06:12.43,Dialogue,,0,0,0,,ca s-o prind pe fata-păpușă!
-Dialogue: 100,0:06:12.43,0:06:15.80,Dialogue,,0,0,0,,Ești mai agresivă decât pari.
-Dialogue: 100,0:06:16.16,0:06:18.59,Dialogue,,0,0,0,,Deci, cum te cheamă?
-Dialogue: 100,0:06:18.59,0:06:20.47,Dialogue,,0,0,0,,Eu sunt Amano Akari.
-Dialogue: 100,0:06:22.87,0:06:25.30,Dialogue,,0,0,0,,Eu sunt Sophie Twilight.
-Dialogue: 100,0:06:25.30,0:06:28.12,Dialogue,,0,0,0,,Înțeleg. Deci, tu ești Sophie.
-Dialogue: 100,0:06:28.12,0:06:31.70,Dialogue,,0,0,0,,Știi, eu iubesc păpușile.
-Dialogue: 100,0:06:31.70,0:06:36.39,Dialogue,,0,0,0,,M-am gândit că ar fi foarte grozav dacă ar exista cu adevărat o păpușă care vie.
-Dialogue: 100,0:06:36.39,0:06:39.03,Dialogue,,0,0,0,,Îmi pare rău, nu sunt o păpușă.
-Dialogue: 100,0:06:39.03,0:06:45.01,Dialogue,,0,0,0,,Totuși, privindu-te, arăți exact ca păpușa mea ideală.
-Dialogue: 100,0:06:45.58,0:06:47.70,Dialogue,,0,0,0,,Piele ca de porțelan...
-Dialogue: 100,0:06:47.70,0:06:49.73,Dialogue,,0,0,0,,Păr ca de mătase...
-Dialogue: 100,0:06:49.73,0:06:51.61,Dialogue,,0,0,0,,Gambe subțiri!
-Dialogue: 100,0:06:51.61,0:06:54.46,Dialogue,,0,0,0,,Chiar arăți ca o păpușă vie!
-Dialogue: 100,0:06:54.46,0:06:57.63,Dialogue,,0,0,0,,Hei, ești în regulă?
-Dialogue: 100,0:06:58.01,0:07:00.00,Dialogue,,0,0,0,,Hei, Sophie, pot să te mângâi pe cap?
-Dialogue: 100,0:07:00.00,0:07:01.03,Dialogue,,0,0,0,,Te pot lua acasă?
-Dialogue: 100,0:07:01.03,0:07:02.91,Dialogue,,0,0,0,,Vreau să-ți pieptăn părul și să-ți schimb hainele!
-Dialogue: 100,0:07:02.91,0:07:05.85,Dialogue,,0,0,0,,Hei... Stai departe. Mă sperii.
-Dialogue: 100,0:07:07.24,0:07:10.87,Dialogue,,0,0,0,,Sunt un om normal, iar un vampir se teme de mine!
-Dialogue: 100,0:07:11.72,0:07:15.85,Dialogue,,0,0,0,,Hei, Sophie... Este foarte târziu.
-Dialogue: 100,0:07:15.85,0:07:17.84,Dialogue,,0,0,0,,Te deranjează dacă stau peste noapte?
-Dialogue: 100,0:07:17.84,0:07:19.57,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:07:19.57,0:07:22.57,Dialogue,,0,0,0,,Nu-ți este teamă să rămâi la un vampir acasă?
-Dialogue: 100,0:07:22.57,0:07:23.78,Dialogue,,0,0,0,,Este în regulă!
-Dialogue: 100,0:07:23.78,0:07:27.42,Dialogue,,0,0,0,,Dacă este vorba de tine, chiar și \Nsugerea sângelui ar fi o plăcere!
-Dialogue: 100,0:07:28.20,0:07:30.70,Dialogue,,0,0,0,,{\i1}Nu va încerca să facă ceva \Nciudat cât timp stă aici, nu-i așa?
-Dialogue: 100,0:07:30.70,0:07:32.62,Dialogue,,0,0,0,,{\i1}Nu prea mai sunt sigură de asta.
-Dialogue: 100,0:07:32.97,0:07:35.48,Dialogue,,0,0,0,,A-Atunci, ar trebui să luăm cina?
-Dialogue: 100,0:07:36.12,0:07:37.34,Dialogue,,0,0,0,,C-Cina?
-Dialogue: 100,0:07:44.27,0:07:46.64,Dialogue,,0,0,0,,C-Cred că n-am de ales.
-Dialogue: 100,0:07:46.64,0:07:47.76,Dialogue,,0,0,0,,Doar puțin, bine?
-Dialogue: 100,0:07:48.56,0:07:51.50,Dialogue,,0,0,0,,Nu beau direct din oameni vii. Este înfricoșător.
-Dialogue: 100,0:07:51.50,0:07:53.29,Dialogue,,0,0,0,,Nu sunt o ciudată.
-Dialogue: 100,0:07:54.25,0:07:56.92,Dialogue,,0,0,0,,Am speriat un vampir din nou!
-Dialogue: 100,0:07:58.87,0:08:01.87,Dialogue,,0,0,0,,Se întâmplă să am niște mâncare \Nprimită de la doamna Mori.
-Dialogue: 100,0:08:01.87,0:08:03.93,Dialogue,,0,0,0,,Miroase bine!
-Dialogue: 100,0:08:04.54,0:08:07.50,Dialogue,,0,0,0,,Bei sânge dintr-o ceașcă de ceai, nu-i așa?
-Dialogue: 100,0:08:07.50,0:08:09.32,Dialogue,,0,0,0,,Cât de elegant!
-Dialogue: 100,0:08:09.32,0:08:10.12,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:08:10.12,0:08:12.01,Dialogue,,0,0,0,,O, încălzești sângele la microunde.
-Dialogue: 100,0:08:13.42,0:08:15.91,Dialogue,,0,0,0,,600 de wați, pentru cincizeci \Nde secunde sau pe acolo.
-Dialogue: 100,0:08:15.91,0:08:17.26,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:08:17.89,0:08:21.86,Dialogue,,0,0,0,,{\i1}Uau... Este un vampir, dar se comportă ca o persoană complet normală.
-Dialogue: 100,0:08:27.22,0:08:30.46,Dialogue,,0,0,0,,Ca o persoană nocturnă, nu pot să nu mă uit la desene până târziu.
-Dialogue: 100,0:08:31.37,0:08:36.68,Dialogue,,0,0,0,,Pariez că toți cei care scriu recenzii \Nla ora asta sunt și ei vampiri.
-Dialogue: 100,0:08:36.68,0:08:38.56,Dialogue,,0,0,0,,Nu prea cred...
-Dialogue: 100,0:08:39.23,0:08:40.88,Dialogue,,0,0,0,,Când spui "nocturnă",
-Dialogue: 100,0:08:40.88,0:08:43.92,Dialogue,,0,0,0,,vrei să spui că vamprii \Nchiar nu ies în timpul zilei?
-Dialogue: 100,0:08:43.92,0:08:44.87,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:08:44.87,0:08:46.69,Dialogue,,0,0,0,,I don't handle the sunlight well,
-Dialogue: 100,0:08:46.69,0:08:49.34,Dialogue,,0,0,0,,so I don't go out during the day \Nunless it's really important.
-Dialogue: 100,0:08:49.34,0:08:50.84,Dialogue,,0,0,0,,Înțeleg!
-Dialogue: 100,0:08:50.84,0:08:53.58,Dialogue,,0,0,0,,Oh, there's an autograph \Nsession with the author.
-Dialogue: 100,0:08:54.04,0:08:56.00,Dialogue,,0,0,0,,De la ora 13:00 la 15:00.
-Dialogue: 100,0:08:56.00,0:08:57.22,Dialogue,,0,0,0,,În regulă!
-Dialogue: 100,0:08:57.22,0:08:59.24,Dialogue,,0,0,0,,Duminica viitoare voi ieși afară!
-Dialogue: 100,0:08:59.24,0:09:01.13,Dialogue,,0,0,0,,Wait, that's something "really important"?
-Dialogue: 100,0:09:03.68,0:09:06.23,Dialogue,,0,0,0,,Hey, don't they also say \Nthat vampires can't enter
-Dialogue: 100,0:09:06.23,0:09:08.55,Dialogue,,0,0,0,,a place unless someone invites them in?
-Dialogue: 100,0:09:08.55,0:09:10.70,Dialogue,,0,0,0,,That's right. We can't.
-Dialogue: 100,0:09:10.70,0:09:15.53,Dialogue,,0,0,0,,So is it like, they're repelled by some \Nkind of barrier that keeps them out,
-Dialogue: 100,0:09:15.53,0:09:19.92,Dialogue,,0,0,0,,or they {\i1}can{\i0} enter, but it does some \Nkind of damage that hurts them?
-Dialogue: 100,0:09:20.32,0:09:24.41,Dialogue,,0,0,0,,Actually, we can still physically enter \Na place, even without an invitation.
-Dialogue: 100,0:09:24.41,0:09:26.45,Dialogue,,0,0,0,,But if we do...
-Dialogue: 100,0:09:26.45,0:09:27.78,Dialogue,,0,0,0,,What happens?
-Dialogue: 100,0:09:28.59,0:09:32.86,Dialogue,,0,0,0,,The people who lived there would \Nthink we were completely rude.
-Dialogue: 100,0:09:33.32,0:09:35.76,Dialogue,,0,0,0,,We'd be consumed by guilt.
-Dialogue: 100,0:09:35.76,0:09:37.79,Dialogue,,0,0,0,,That's such a normal reason!
-Dialogue: 100,0:09:41.02,0:09:43.65,Dialogue,,0,0,0,,So this is your room!
-Dialogue: 100,0:09:44.38,0:09:46.58,Dialogue,,0,0,0,,You really do sleep in a coffin, huh?
-Dialogue: 100,0:09:46.58,0:09:48.49,Dialogue,,0,0,0,,I wonder what it's like inside.
-Dialogue: 100,0:09:50.60,0:09:51.48,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:09:56.33,0:09:58.73,Dialogue,,0,0,0,,{\i1}I probably shouldn't have looked \Nin there without permission.
-Dialogue: 100,0:10:00.79,0:10:02.45,Dialogue,,0,0,0,,Bye-bye, Sophie-chan!
-Dialogue: 100,0:10:02.85,0:10:03.77,Dialogue,,0,0,0,,Bye.
-Dialogue: 100,0:10:04.68,0:10:05.91,Dialogue,,0,0,0,,See you next time!
-Dialogue: 100,0:10:10.01,0:10:11.38,Dialogue,,0,0,0,,Did she say "next time"?
-Dialogue: 100,0:10:13.50,0:10:17.97,Dialogue,,0,0,0,,{\i1}After that, this human started \Nto visit me every day.
-Dialogue: 100,0:10:24.05,0:10:26.47,Dialogue,,0,0,0,,{\i1}Honestly, it's a little annoying.
-Dialogue: 100,0:10:29.37,0:10:31.45,Dialogue,,0,0,0,,Wow, really?
-Dialogue: 100,0:10:31.45,0:10:35.64,Dialogue,,0,0,0,,Hey, vampires are stronger \Nthan humans, right?
-Dialogue: 100,0:10:35.64,0:10:36.56,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:10:37.04,0:10:40.71,Dialogue,,0,0,0,,{\i1}I know! Maybe if I shock her \Nby showing her my power,
-Dialogue: 100,0:10:40.71,0:10:42.28,Dialogue,,0,0,0,,{\i1}I'll get my peace back.
-Dialogue: 100,0:10:44.43,0:10:46.58,Dialogue,,0,0,0,,I can pick up a road roller just like that!
-Dialogue: 100,0:10:56.75,0:10:59.08,Dialogue,,0,0,0,,She ran away in such a panic.
-Dialogue: 100,0:10:59.56,0:11:01.68,Dialogue,,0,0,0,,Maybe I scared her too much.
-Dialogue: 100,0:11:02.02,0:11:04.98,Dialogue,,0,0,0,,But at least now I can go \Nback to my quiet life.
-Dialogue: 100,0:11:28.78,0:11:30.66,Dialogue,,0,0,0,,Hey, hey, Sophie-chan!
-Dialogue: 100,0:11:32.79,0:11:35.21,Dialogue,,0,0,0,,I didn't think I'd miss \Nsomeone that annoying,
-Dialogue: 100,0:11:35.21,0:11:38.43,Dialogue,,0,0,0,,but when I think she's never coming \Nback, I actually feel sad...
-Dialogue: 100,0:11:46.66,0:11:47.89,Dialogue,,0,0,0,,Sophie-chan!
-Dialogue: 100,0:11:47.89,0:11:51.01,Dialogue,,0,0,0,,Human? I thought you fled in terror...
-Dialogue: 100,0:11:52.51,0:11:56.00,Dialogue,,0,0,0,,These are all the jars and things \Nthat I couldn't open myself.
-Dialogue: 100,0:11:56.00,0:11:57.94,Dialogue,,0,0,0,,I thought, with your strength...
-Dialogue: 100,0:11:57.94,0:12:00.13,Dialogue,,0,0,0,,So I hurried and grabbed \Nthem all from my house!
-Dialogue: 100,0:12:00.64,0:12:03.75,Dialogue,,0,0,0,,{\i1}I thought she feared me, but she \Nwas just finding a way to use me.
-Dialogue: 100,0:12:05.33,0:12:07.86,Dialogue,,0,0,0,,I'm not like humans.
-Dialogue: 100,0:12:07.86,0:12:09.95,Dialogue,,0,0,0,,Aren't you even a little scared of me?
-Dialogue: 100,0:12:10.32,0:12:11.72,Dialogue,,0,0,0,,Not a bit!
-Dialogue: 100,0:12:11.72,0:12:14.96,Dialogue,,0,0,0,,You helped me out the first time we met, too.
-Dialogue: 100,0:12:15.70,0:12:19.18,Dialogue,,0,0,0,,You can do so many amazing \Nthings that I can't do.
-Dialogue: 100,0:12:20.70,0:12:24.31,Dialogue,,0,0,0,,So please, can I keep coming here?
-Dialogue: 100,0:12:25.13,0:12:26.96,Dialogue,,0,0,0,,You're a really strange human.
-Dialogue: 100,0:12:26.96,0:12:30.47,Dialogue,,0,0,0,,My name isn't "human." It's Akari.
-Dialogue: 100,0:12:32.25,0:12:34.26,Dialogue,,0,0,0,,Do as you like...
-Dialogue: 100,0:12:36.53,0:12:37.74,Dialogue,,0,0,0,,Akari.
-Dialogue: 100,0:12:38.95,0:12:41.11,Dialogue,,0,0,0,,Did you just say I can do whatever I like?!
-Dialogue: 100,0:12:41.11,0:12:43.43,Dialogue,,0,0,0,,Then I want to brush your hair \Nand put it into pigtails
-Dialogue: 100,0:12:43.43,0:12:45.64,Dialogue,,0,0,0,,and pet it, and then I want \Nto take a bath together!
-Dialogue: 100,0:12:45.64,0:12:47.40,Dialogue,,0,0,0,,Never mind, go home!
-Dialogue: 100,0:12:48.63,0:12:53.97,Dialogue,,0,0,0,,So now I'm going every day to visit \Nmy new friend who I met in the woods.
-Dialogue: 100,0:12:53.97,0:12:54.95,Dialogue,,0,0,0,,Every day?
-Dialogue: 100,0:12:54.95,0:12:55.84,Dialogue,,0,0,0,,Yeah!
-Dialogue: 100,0:12:55.84,0:12:59.97,Dialogue,,0,0,0,,Wouldn't it be easier if you \Njust moved in with her?
-Dialogue: 100,0:12:59.97,0:13:01.38,Dialogue,,0,0,0,,M-Move in with her?!
-Dialogue: 100,0:13:01.38,0:13:03.77,Dialogue,,0,0,0,,You want her to move in \Nwith a complete stranger?
-Dialogue: 100,0:13:03.77,0:13:04.96,Dialogue,,0,0,0,,I was joking.
-Dialogue: 100,0:13:04.96,0:13:07.22,Dialogue,,0,0,0,,I... I knew that!
-Dialogue: 100,0:13:07.94,0:13:10.80,Dialogue,,0,0,0,,So is your friend a boy or a girl?
-Dialogue: 100,0:13:10.80,0:13:12.29,Dialogue,,0,0,0,,A b-boy?!
-Dialogue: 100,0:13:12.29,0:13:14.81,Dialogue,,0,0,0,,I-I'm not so sure that's a g-good thing!
-Dialogue: 100,0:13:16.51,0:13:18.07,Dialogue,,0,0,0,,Good morning!
-Dialogue: 100,0:13:18.07,0:13:19.73,Dialogue,,0,0,0,,I came to see you, Sophie-chan!
-Dialogue: 100,0:13:20.11,0:13:22.83,Dialogue,,0,0,0,,You're here early on your day off.
-Dialogue: 100,0:13:22.83,0:13:25.60,Dialogue,,0,0,0,,I figured if I came early,\Nyou'd still be awake.
-Dialogue: 100,0:13:26.60,0:13:28.51,Dialogue,,0,0,0,,Thank you for having me!
-Dialogue: 100,0:13:28.51,0:13:30.17,Dialogue,,0,0,0,,Uh-huh...
-Dialogue: 100,0:13:30.86,0:13:35.07,Dialogue,,0,0,0,,Sophie-chan, it's a waste that you have \Nyour curtains drawn all the time.
-Dialogue: 100,0:13:35.07,0:13:38.74,Dialogue,,0,0,0,,The weather is nice today, so the \Nmorning sun is really beautiful!
-Dialogue: 100,0:13:38.74,0:13:40.06,Dialogue,,0,0,0,,See?
-Dialogue: 100,0:13:40.06,0:13:41.63,Dialogue,,0,0,0,,Indeed.
-Dialogue: 100,0:13:41.95,0:13:45.11,Dialogue,,0,0,0,,Dying basked in light \Nlike this isn't so bad.
-Dialogue: 100,0:13:45.11,0:13:46.32,Dialogue,,0,0,0,,Oh, sorry!
-Dialogue: 100,0:13:46.32,0:13:47.92,Dialogue,,0,0,0,,You can't handle sunlight!
-Dialogue: 100,0:13:49.69,0:13:52.69,Dialogue,,0,0,0,,So how come you brought \Nall these bags today?
-Dialogue: 100,0:13:53.05,0:13:55.52,Dialogue,,0,0,0,,Well, I just had a thought...
-Dialogue: 100,0:13:56.74,0:14:01.39,Dialogue,,0,0,0,,You live in this big house all alone, right?
-Dialogue: 100,0:14:01.39,0:14:05.86,Dialogue,,0,0,0,,So I was thinking I'd like to move in with you!
-Dialogue: 100,0:14:06.24,0:14:08.56,Dialogue,,0,0,0,,But that's so sudden.
-Dialogue: 100,0:14:08.56,0:14:09.62,Dialogue,,0,0,0,,Is that a no?
-Dialogue: 100,0:14:09.62,0:14:12.24,Dialogue,,0,0,0,,But I brought all my stuff.
-Dialogue: 100,0:14:12.24,0:14:14.07,Dialogue,,0,0,0,,You're getting too far ahead.
-Dialogue: 100,0:14:14.40,0:14:17.70,Dialogue,,0,0,0,,And what is all this stuff, anyway?
-Dialogue: 100,0:14:17.70,0:14:19.35,Dialogue,,0,0,0,,Well...
-Dialogue: 100,0:14:19.35,0:14:21.01,Dialogue,,0,0,0,,I brought some clothes,
-Dialogue: 100,0:14:21.01,0:14:24.03,Dialogue,,0,0,0,,and my pajamas, and my toothbrush and towel.
-Dialogue: 100,0:14:25.54,0:14:26.51,Dialogue,,0,0,0,,Also...
-Dialogue: 100,0:14:27.36,0:14:29.66,Dialogue,,0,0,0,,I brought my dolls,
-Dialogue: 100,0:14:30.18,0:14:33.05,Dialogue,,0,0,0,,and clothes and hats for my dolls.
-Dialogue: 100,0:14:33.05,0:14:35.01,Dialogue,,0,0,0,,So most of it is doll stuff?
-Dialogue: 100,0:14:35.78,0:14:39.81,Dialogue,,0,0,0,,Hmm... It's true that there are \Nsome extra rooms here, but...
-Dialogue: 100,0:14:39.81,0:14:41.66,Dialogue,,0,0,0,,It won't be a problem for me at all!
-Dialogue: 100,0:14:41.66,0:14:44.10,Dialogue,,0,0,0,,This is also a lot closer to my school.
-Dialogue: 100,0:14:44.10,0:14:46.31,Dialogue,,0,0,0,,Your parents are okay with this?
-Dialogue: 100,0:14:47.01,0:14:50.56,Dialogue,,0,0,0,,Wouldn't they be worried if you \Nsaid you were living with a vampire?
-Dialogue: 100,0:14:52.35,0:14:53.69,Dialogue,,0,0,0,,I guess I'll ask them.
-Dialogue: 100,0:14:54.05,0:14:55.05,Dialogue,,0,0,0,,What?
-Dialogue: 100,0:14:55.05,0:14:56.84,Dialogue,,0,0,0,,You're going to live with your friend?
-Dialogue: 100,0:14:57.21,0:14:59.39,Dialogue,,0,0,0,,And their family is all right with that?
-Dialogue: 100,0:15:00.03,0:15:01.52,Dialogue,,0,0,0,,They live all alone?
-Dialogue: 100,0:15:01.52,0:15:02.94,Dialogue,,0,0,0,,Who is this friend?
-Dialogue: 100,0:15:03.72,0:15:05.85,Dialogue,,0,0,0,,They turn into ash in the sunlight?
-Dialogue: 100,0:15:07.79,0:15:10.27,Dialogue,,0,0,0,,Oh, yeah! I love the sun!
-Dialogue: 100,0:15:10.62,0:15:12.42,Dialogue,,0,0,0,,What? A vampire?!
-Dialogue: 100,0:15:12.42,0:15:15.47,Dialogue,,0,0,0,,{\i1}She looks like she's around thirteen,
-Dialogue: 100,0:15:15.47,0:15:17.51,Dialogue,,0,0,0,,{\i1}and she's a beautiful girl with silver hair!
-Dialogue: 100,0:15:17.51,0:15:19.15,Dialogue,,0,0,0,,Well, then, I'm all for it!
-Dialogue: 100,0:15:19.15,0:15:21.78,Dialogue,,0,0,0,,Invite her over to our house sometime.
-Dialogue: 100,0:15:23.61,0:15:24.58,Dialogue,,0,0,0,,So that's that!
-Dialogue: 100,0:15:24.58,0:15:26.88,Dialogue,,0,0,0,,Now it's all up to you.
-Dialogue: 100,0:15:26.88,0:15:31.55,Dialogue,,0,0,0,,Let me guess. Your entire family \Nis just like you, aren't they?
-Dialogue: 100,0:15:31.55,0:15:35.41,Dialogue,,0,0,0,,Why would you want to live \Nwith a vampire, anyway?
-Dialogue: 100,0:15:35.41,0:15:38.48,Dialogue,,0,0,0,,It's dark all day, and it's \Nnot exactly comfortable.
-Dialogue: 100,0:15:38.48,0:15:40.57,Dialogue,,0,0,0,,I want to because you're here!
-Dialogue: 100,0:15:40.57,0:15:43.25,Dialogue,,0,0,0,,You said vampires don't age, right?
-Dialogue: 100,0:15:43.25,0:15:44.00,Dialogue,,0,0,0,,Right.
-Dialogue: 100,0:15:44.00,0:15:48.57,Dialogue,,0,0,0,,A girl who never ages is \Nbasically like a living doll!
-Dialogue: 100,0:15:48.57,0:15:49.59,Dialogue,,0,0,0,,You're too close.
-Dialogue: 100,0:15:49.59,0:15:55.67,Dialogue,,0,0,0,,If I live here, I can admire \Nyou every day, plus...
-Dialogue: 100,0:15:55.67,0:15:58.31,Dialogue,,0,0,0,,you won't be so lonely either, right?
-Dialogue: 100,0:15:58.31,0:16:00.92,Dialogue,,0,0,0,,It's not like I was lonely before.
-Dialogue: 100,0:16:04.51,0:16:08.87,Dialogue,,0,0,0,,Is there anything inconvenient \Nabout living alone as a vampire?
-Dialogue: 100,0:16:09.70,0:16:13.48,Dialogue,,0,0,0,,Since you can't stand the sun, you can't \Ngo shopping during the day, right?
-Dialogue: 100,0:16:13.48,0:16:16.40,Dialogue,,0,0,0,,Sure, there are some inconvenient things.
-Dialogue: 100,0:16:16.40,0:16:20.78,Dialogue,,0,0,0,,I don't like running water, \Nso washing dishes was a problem.
-Dialogue: 100,0:16:21.18,0:16:24.22,Dialogue,,0,0,0,,If I'm living here, you can leave \Nall the shopping and dishes to me!
-Dialogue: 100,0:16:24.22,0:16:27.47,Dialogue,,0,0,0,,No, I mean, it was a problem in the past,
-Dialogue: 100,0:16:27.47,0:16:29.71,Dialogue,,0,0,0,,but now I have convenience \Nstores and Amason.
-Dialogue: 100,0:16:30.62,0:16:33.22,Dialogue,,0,0,0,,I also bought a dishwasher, so I'm fine.
-Dialogue: 100,0:16:33.58,0:16:35.55,Dialogue,,0,0,0,,These are convenient times.
-Dialogue: 100,0:16:36.31,0:16:38.71,Dialogue,,0,0,0,,I hate you, technological advances!
-Dialogue: 100,0:16:39.01,0:16:40.74,Dialogue,,0,0,0,,Okay, then...
-Dialogue: 100,0:16:42.66,0:16:46.46,Dialogue,,0,0,0,,If you let me live with you,
-Dialogue: 100,0:16:47.66,0:16:50.37,Dialogue,,0,0,0,,you can suck my blood whenever you like!
-Dialogue: 100,0:16:50.37,0:16:53.20,Dialogue,,0,0,0,,The blood of a young maiden!
-Dialogue: 100,0:16:53.20,0:16:55.26,Dialogue,,0,0,0,,Come, try it!
-Dialogue: 100,0:16:55.26,0:16:56.66,Dialogue,,0,0,0,,Stay away! I don't want any!
-Dialogue: 100,0:16:58.80,0:17:02.07,Dialogue,,0,0,0,,I've always got plenty \Nof blood in the fridge.
-Dialogue: 100,0:17:02.07,0:17:05.00,Dialogue,,0,0,0,,I would never suck your blood, of all people.
-Dialogue: 100,0:17:05.00,0:17:06.83,Dialogue,,0,0,0,,"Of all people"? What's \Nthat supposed to mean?!
-Dialogue: 100,0:17:07.21,0:17:10.09,Dialogue,,0,0,0,,Ta-da! I can also cook!
-Dialogue: 100,0:17:10.09,0:17:11.44,Dialogue,,0,0,0,,Like meat and potato stew!
-Dialogue: 100,0:17:11.44,0:17:13.40,Dialogue,,0,0,0,,Huh, that's impressive.
-Dialogue: 100,0:17:13.40,0:17:16.05,Dialogue,,0,0,0,,I don't eat human food, though.
-Dialogue: 100,0:17:16.05,0:17:17.85,Dialogue,,0,0,0,,Oh, that's right...
-Dialogue: 100,0:17:19.43,0:17:21.40,Dialogue,,0,0,0,,Ouch!
-Dialogue: 100,0:17:21.40,0:17:23.01,Dialogue,,0,0,0,,Be careful.
-Dialogue: 100,0:17:23.01,0:17:24.28,Dialogue,,0,0,0,,Don't waste it.
-Dialogue: 100,0:17:37.61,0:17:39.47,Dialogue,,0,0,0,,Just one second, Sophie-chan.
-Dialogue: 100,0:17:39.47,0:17:40.53,Dialogue,,0,0,0,,I'll get you more.
-Dialogue: 100,0:17:40.89,0:17:42.33,Dialogue,,0,0,0,,No, stop.
-Dialogue: 100,0:17:44.30,0:17:46.63,Dialogue,,0,0,0,,For someone who only drinks blood,
-Dialogue: 100,0:17:46.63,0:17:48.32,Dialogue,,0,0,0,,you sure have a lot of china and cutlery.
-Dialogue: 100,0:17:48.32,0:17:51.20,Dialogue,,0,0,0,,I use different ones each \Ntime I won't get bored.
-Dialogue: 100,0:17:52.46,0:17:54.57,Dialogue,,0,0,0,,When I have it hot, I'll drink it like soup,
-Dialogue: 100,0:17:54.57,0:17:56.65,Dialogue,,0,0,0,,or like tea, or like coffee.
-Dialogue: 100,0:17:56.65,0:17:58.91,Dialogue,,0,0,0,,Cold, I drink it from a stein or a bottle.
-Dialogue: 100,0:17:58.91,0:18:00.02,Dialogue,,0,0,0,,I see.
-Dialogue: 100,0:18:00.36,0:18:02.55,Dialogue,,0,0,0,,In summer, I freeze it \Nand eat it like a popsicle.
-Dialogue: 100,0:18:03.45,0:18:06.26,Dialogue,,0,0,0,,In winter, I warm it in a sake \Nbottle and enjoy it like hot sake.
-Dialogue: 100,0:18:06.26,0:18:08.36,Dialogue,,0,0,0,,Wow, how elegant!
-Dialogue: 100,0:18:11.01,0:18:14.10,Dialogue,,0,0,0,,Looks like I don't have \Na lot of type O left.
-Dialogue: 100,0:18:15.53,0:18:17.15,Dialogue,,0,0,0,,I'm going to go buy some.
-Dialogue: 100,0:18:17.65,0:18:19.18,Dialogue,,0,0,0,,Go... buy some?
-Dialogue: 100,0:18:19.62,0:18:20.72,Dialogue,,0,0,0,,Like hunting?!
-Dialogue: 100,0:18:22.32,0:18:25.93,Dialogue,,0,0,0,,{\i1}I've been wondering where she \Ngets all that blood from.
-Dialogue: 100,0:18:25.93,0:18:30.80,Dialogue,,0,0,0,,{\i1}Since it's Sophie-can, I can't imagine \Nshe's harming anyone, but...
-Dialogue: 100,0:18:39.43,0:18:40.50,Dialogue,,0,0,0,,There.
-Dialogue: 100,0:18:40.50,0:18:43.04,Dialogue,,0,0,0,,I got express delivery, \Nso it should be here tomorrow.
-Dialogue: 100,0:18:43.65,0:18:45.15,Dialogue,,0,0,0,,You buy it online?!
-Dialogue: 100,0:18:48.07,0:18:50.23,Dialogue,,0,0,0,,Okay, I'm going to clean now!
-Dialogue: 100,0:18:50.23,0:18:51.90,Dialogue,,0,0,0,,Dust dust dust!
-Dialogue: 100,0:18:51.90,0:18:53.26,Dialogue,,0,0,0,,Wipe wipe wipe!
-Dialogue: 100,0:18:53.26,0:18:54.83,Dialogue,,0,0,0,,Sweep sweep sweep!
-Dialogue: 100,0:18:54.31,0:18:56.75,Dialogue Top,,0,0,0,,{\i1}She's really going at it today.
-Dialogue: 100,0:18:54.83,0:18:56.60,Dialogue,,0,0,0,,Dust dust dust!
-Dialogue: 100,0:18:56.60,0:18:58.56,Dialogue,,0,0,0,,Oh, you were watching me?
-Dialogue: 100,0:18:58.56,0:19:03.70,Dialogue,,0,0,0,,{\i1}She's already so loud by default. \NI wish she could just act normal.
-Dialogue: 100,0:19:06.28,0:19:09.12,Dialogue,,0,0,0,,{\i1}Still, with Akari around,
-Dialogue: 100,0:19:09.12,0:19:12.20,Dialogue,,0,0,0,,{\i1}it feels like the house has brightened up.
-Dialogue: 100,0:19:13.08,0:19:15.53,Dialogue,,0,0,0,,You won't be so lonely either, right?
-Dialogue: 100,0:19:17.12,0:19:19.20,Dialogue,,0,0,0,,{\i1}I guess she may be right.
-Dialogue: 100,0:19:19.78,0:19:21.37,Dialogue,,0,0,0,,Hey, Sophie-chan.
-Dialogue: 100,0:19:21.88,0:19:25.27,Dialogue,,0,0,0,,The light bulbs seemed really dim, \Nso I switched them to brighter ones.
-Dialogue: 100,0:19:25.27,0:19:26.84,Dialogue,,0,0,0,,Don't just change those!
-Dialogue: 100,0:19:26.84,0:19:29.78,Dialogue,,0,0,0,,I picked them to make it more \Nhabitable for vampires!
-Dialogue: 100,0:19:31.73,0:19:33.86,Dialogue,,0,0,0,,{\i1}I guess I shouldn't have done that.
-Dialogue: 100,0:19:35.45,0:19:38.81,Dialogue,,0,0,0,,{\i1}I wonder what I can do \Nto get her to accept me.
-Dialogue: 100,0:19:39.63,0:19:40.83,Dialogue,,0,0,0,,Akari,
-Dialogue: 100,0:19:42.24,0:19:44.70,Dialogue,,0,0,0,,I'm going to sleep now, so go home.
-Dialogue: 100,0:19:47.28,0:19:48.53,Dialogue,,0,0,0,,I'm so sorry.
-Dialogue: 100,0:19:49.01,0:19:53.88,Dialogue,,0,0,0,,I know it's right before your \Nbedtime and I'm just in the way.
-Dialogue: 100,0:19:54.78,0:19:56.74,Dialogue,,0,0,0,,{\i1}It didn't work out.
-Dialogue: 100,0:19:56.74,0:19:59.56,Dialogue,,0,0,0,,Go home and properly pack your things.
-Dialogue: 100,0:20:00.62,0:20:03.59,Dialogue,,0,0,0,,I'll carry the heavy stuff once it's dark.
-Dialogue: 100,0:20:03.59,0:20:04.91,Dialogue,,0,0,0,,Really?!
-Dialogue: 100,0:20:04.91,0:20:07.68,Dialogue,,0,0,0,,I never said no.
-Dialogue: 100,0:20:07.68,0:20:12.67,Dialogue,,0,0,0,,Then I'll gather up the fifty-five \Ndolls that didn't fit into my bag!
-Dialogue: 100,0:20:12.67,0:20:14.90,Dialogue,,0,0,0,,You're bringing more dolls over?
-Dialogue: 100,0:20:15.84,0:20:17.38,Dialogue,,0,0,0,,Woohoo!
-Dialogue: 100,0:20:17.38,0:20:19.82,Dialogue,,0,0,0,,We'll be together every day now!
-Dialogue: 100,0:20:22.69,0:20:24.34,Dialogue,,0,0,0,,But how come?
-Dialogue: 100,0:20:25.36,0:20:29.32,Dialogue,,0,0,0,,I couldn't do anything useful for you.
-Dialogue: 100,0:20:29.75,0:20:32.51,Dialogue,,0,0,0,,I never asked you to be useful to me.
-Dialogue: 100,0:20:32.51,0:20:34.56,Dialogue,,0,0,0,,There were empty rooms here, anyway.
-Dialogue: 100,0:20:36.17,0:20:39.56,Dialogue,,0,0,0,,Besides, it might be kind of fun...
-Dialogue: 100,0:20:40.59,0:20:42.75,Dialogue,,0,0,0,,if you move in here.
-Dialogue: 100,0:20:44.39,0:20:46.39,Dialogue,,0,0,0,,Sophie-chan!
-Dialogue: 100,0:20:48.68,0:20:51.21,Dialogue,,0,0,0,,That means our love is mutual!
-Dialogue: 100,0:20:51.73,0:20:55.52,Dialogue,,0,0,0,,So we're going to get married...
-Dialogue: 100,0:20:55.52,0:20:57.64,Dialogue,,0,0,0,,That's way too big a leap!
-Dialogue: 100,0:20:57.64,0:21:00.98,Dialogue,,0,0,0,,I don't have much to offer, \Nbut please be kind to me!
-Dialogue: 100,0:21:00.98,0:21:04.91,Dialogue,,0,0,0,,I just agreed to this, but I'm \Nalready questioning my decision.
-Dialogue: 100,0:22:16.42,0:22:18.25,Dialogue,,0,0,0,,See you later!
-Dialogue: 100,0:22:21.21,0:22:22.83,Dialogue,,0,0,0,,Good morning, Sophie-chan!
-Dialogue: 100,0:22:23.31,0:22:24.41,Dialogue,,0,0,0,,Good morning.
-Dialogue: 100,0:22:24.41,0:22:26.93,Dialogue,,0,0,0,,I'm going to school now!
-Dialogue: 100,0:22:26.93,0:22:27.86,Dialogue,,0,0,0,,Okay.
-Dialogue: 100,0:22:29.40,0:22:34.67,Dialogue,,0,0,0,,Aw, I wish I could be with you at school, too.
-Dialogue: 100,0:22:34.67,0:22:36.35,Dialogue,,0,0,0,,School, huh?
-Dialogue: 100,0:22:36.35,0:22:39.41,Dialogue,,0,0,0,,I did try to go to high \Nschool for a little bit.
-Dialogue: 100,0:22:40.08,0:22:41.22,Dialogue,,0,0,0,,Really?
-Dialogue: 100,0:22:41.70,0:22:44.88,Dialogue,,0,0,0,,I didn't want the people in the \Nneighborhood to think I'm a NEET.
-Dialogue: 100,0:22:45.61,0:22:48.10,Dialogue,,0,0,0,,There was a big window that got a lot of sun.
-Dialogue: 100,0:22:48.10,0:22:51.14,Dialogue,,0,0,0,,Hey, Twilight, you can't \Nwear a cloak in class!
-Dialogue: 100,0:22:51.14,0:22:52.55,Dialogue,,0,0,0,,And put that parasol away!
-Dialogue: 100,0:22:52.86,0:22:54.52,Dialogue,,0,0,0,,So many unreasonable rules.
-Dialogue: 100,0:22:54.52,0:22:56.77,Dialogue,,0,0,0,,No flying in the hallways!
-Dialogue: 100,0:22:57.33,0:22:59.51,Dialogue,,0,0,0,,Violence in the guise of kindness.
-Dialogue: 100,0:22:59.51,0:23:01.88,Dialogue,,0,0,0,,What, you're only drinking juice for lunch?
-Dialogue: 100,0:23:01.88,0:23:03.99,Dialogue,,0,0,0,,That's not enough. You need to eat.
-Dialogue: 100,0:23:03.99,0:23:05.86,Dialogue,,0,0,0,,I'll give you some of my lunch.
-Dialogue: 100,0:23:06.98,0:23:08.28,Dialogue,,0,0,0,,Here, have a potsticker.
-Dialogue: 100,0:23:08.28,0:23:10.07,Dialogue,,0,0,0,,And spaghetti aglio e olio.
-Dialogue: 100,0:23:10.47,0:23:12.64,Dialogue,,0,0,0,,It was truly terrifying.
-Dialogue: 100,0:23:12.64,0:23:14.76,Dialogue,,0,0,0,,I lasted three days.
-Dialogue: 100,0:23:14.76,0:23:16.01,Dialogue,,0,0,0,,I see.
-Dialogue: 100,0:23:16.01,0:23:18.71,Dialogue,,0,0,0,,Cred că nu este ușor să fii vampir.
-Dialogue: 100,0:23:22.05,0:23:23.91,Dialogue,,0,0,0,,Hinata!
-Dialogue: 100,0:23:24.67,0:23:25.95,Dialogue,,0,0,0,,Bună dimineața!
-Dialogue: 100,0:23:25.95,0:23:27.57,Dialogue,,0,0,0,,O, Akari?
-Dialogue: 100,0:23:27.57,0:23:29.09,Dialogue,,0,0,0,,Ce faci aici?
-Dialogue: 100,0:23:30.55,0:23:32.05,Dialogue,,0,0,0,,Păi, vezi tu...
-Dialogue: 100,0:23:34.67,0:23:37.32,Dialogue,,0,0,0,,Cred că voi merge la culcare.
+Dialogue: 99,0:00:23.67,0:00:26.64,Dialogue,,0,0,0,,Nu știu cum să mă întorc.
+Dialogue: 99,0:00:26.64,0:00:28.37,Dialogue,,0,0,0,,Ce ar trebui să fac?
+Dialogue: 99,0:00:29.25,0:00:31.44,Dialogue,,0,0,0,,Și nu am deloc semnal la telefon.
+Dialogue: 99,0:00:33.27,0:00:35.84,Dialogue,,0,0,0,,O casă în stil occidental la marginea pădurii.
+Dialogue: 99,0:00:36.41,0:00:39.55,Dialogue,,0,0,0,,O fată care apare când se lasă noaptea.
+Dialogue: 99,0:00:40.93,0:00:45.27,Dialogue,,0,0,0,,Înfățișarea ei rămâne neschimbată, indiferent câți ani trec.
+Dialogue: 99,0:00:45.63,0:00:50.14,Dialogue,,0,0,0,,O teorie spune că este o păpușă cu suflet.
+Dialogue: 99,0:00:50.60,0:00:52.25,Dialogue,,0,0,0,,O fată-păpușă?
+Dialogue: 99,0:00:52.25,0:00:53.90,Dialogue,,0,0,0,,Cuvântul "păpușă" i-a atras atenția!
+Dialogue: 99,0:00:53.90,0:00:58.07,Dialogue,,0,0,0,,Mai este o poveste și despre o \Nfată care se plimbă prin pădure
+Dialogue: 99,0:00:58.07,0:01:01.27,Dialogue,,0,0,0,,și una despre o fată care plutește pe cer.
+Dialogue: 99,0:01:01.27,0:01:03.11,Dialogue,,0,0,0,,Cercetezi aceste lucruri pentru clubul ocult?
+Dialogue: 99,0:01:03.38,0:01:04.18,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:01:04.18,0:01:06.60,Dialogue,,0,0,0,,Uau, o fată-păpușă!
+Dialogue: 99,0:01:06.60,0:01:09.44,Dialogue,,0,0,0,,E-Este doar o legendă urbană!
+Dialogue: 99,0:01:09.44,0:01:11.50,Dialogue,,0,0,0,,Privește.
+Dialogue: 99,0:01:15.48,0:01:19.00,Dialogue,,0,0,0,,{\i1}Am venit aici sperând s-o întâlnesc pe acea fată
+Dialogue: 99,0:01:19.00,0:01:21.00,Dialogue,,0,0,0,,{\i1}dacă aș găsi acest loc, dar...
+Dialogue: 99,0:01:27.38,0:01:29.37,Dialogue,,0,0,0,,{\i1}E-Este cumva un animal?
+Dialogue: 99,0:01:29.37,0:01:30.75,Dialogue,,0,0,0,,{\i1}Sau...
+Dialogue: 99,0:01:47.04,0:01:49.04,Dialogue,,0,0,0,,O fată?
+Dialogue: 99,0:01:52.49,0:01:53.99,Dialogue,,0,0,0,,Este așa de drăguță...
+Dialogue: 99,0:01:54.50,0:01:58.29,Dialogue,,0,0,0,,{\i1}Dar ce face în mijlocul pădurii?
+Dialogue: 99,0:01:59.23,0:02:00.72,Dialogue,,0,0,0,,Nu-ți fie teamă.
+Dialogue: 99,0:02:01.26,0:02:04.35,Dialogue,,0,0,0,,Sunt doar un vampir obșinut în trecere.
+Dialogue: 99,0:02:04.35,0:02:06.18,Dialogue,,0,0,0,,Nu sunt o persoană dubioasă.
+Dialogue: 99,0:02:06.80,0:02:08.40,Dialogue,,0,0,0,,{\i1}Ești complet dubioasă.
+Dialogue: 99,0:02:08.40,0:02:11.76,Dialogue,,0,0,0,,E-Ei bine, m-am pierdut.
+Dialogue: 99,0:02:11.76,0:02:13.48,Dialogue,,0,0,0,,Și ai venit până aici?
+Dialogue: 99,0:02:13.48,0:02:14.85,Dialogue,,0,0,0,,Nu prea vezi asta.
+Dialogue: 99,0:02:14.85,0:02:18.22,Dialogue,,0,0,0,,Nu am știut încotro s-o iau!
+Dialogue: 99,0:02:18.22,0:02:20.05,Dialogue,,0,0,0,,În regulă, atunci, prinde-te de mine.
+Dialogue: 99,0:02:30.84,0:02:33.19,Dialogue,,0,0,0,,Vezi? Dacă mergi pe sus, nu te poți pierde.
+Dialogue: 99,0:02:34.72,0:02:37.84,Dialogue,,0,0,0,,Uau, chiar ești un vampir!
+Dialogue: 99,0:04:18.85,0:04:21.96,Dialogue,,0,0,0,,Deci, ce faci în acest loc pustiu?
+Dialogue: 99,0:04:22.55,0:04:23.86,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:04:24.57,0:04:27.54,Dialogue,,0,0,0,,Există acest loc numit "Casa Păpușii".
+Dialogue: 99,0:04:27.54,0:04:29.45,Dialogue,,0,0,0,,Îl căutam.
+Dialogue: 99,0:04:29.98,0:04:32.24,Dialogue,,0,0,0,,O, aia este casa mea.
+Dialogue: 99,0:04:32.24,0:04:33.33,Dialogue,,0,0,0,,Serios?!
+Dialogue: 99,0:04:33.70,0:04:36.58,Dialogue,,0,0,0,,Totuși, este mai aproape de oraș.
+Dialogue: 99,0:04:37.43,0:04:40.88,Dialogue,,0,0,0,,Dar zvonurile spun că este lângă pădure.
+Dialogue: 99,0:04:40.88,0:04:42.97,Dialogue,,0,0,0,,O, așa este.
+Dialogue: 99,0:04:43.56,0:04:50.16,Dialogue,,0,0,0,,O tânără domnișoară ca tine ar trebui \Nsă umble noaptea de una singură!
+Dialogue: 99,0:04:48.74,0:04:50.91,Dialogue,,0,0,0,,{\an8}Familia Mori locuiește lângă mine.
+Dialogue: 99,0:04:50.91,0:04:52.65,Dialogue,,0,0,0,,Este o familie a {\i1}cărei{\i0} nume înseamnă "pădure"?!
+Dialogue: 99,0:04:52.65,0:04:55.04,Dialogue,,0,0,0,,Dacă ești curioasă, poți arunca o privire.
+Dialogue: 99,0:04:55.04,0:04:56.37,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:04:59.11,0:05:03.29,Dialogue,,0,0,0,,Vampirii nu îmbrătrânesc, deci dacă trăiesc într-un singur loc o perioadă lungă,
+Dialogue: 99,0:05:03.29,0:05:05.49,Dialogue,,0,0,0,,încep să apară zvonuri ciudate.
+Dialogue: 99,0:05:05.49,0:05:08.02,Dialogue,,0,0,0,,Înțeleg. Asta este cam nasol.
+Dialogue: 99,0:05:08.41,0:05:10.65,Dialogue,,0,0,0,,Nu prea mă interesează zvonurile.
+Dialogue: 99,0:05:11.99,0:05:13.91,Dialogue,,0,0,0,,Marea problemă este...
+Dialogue: 99,0:05:13.91,0:05:14.81,Dialogue,,0,0,0,,Care este?
+Dialogue: 99,0:05:14.81,0:05:18.87,Dialogue,,0,0,0,,...că doamna Mori continuă să îmi aducă mâncare.
+Dialogue: 99,0:05:18.87,0:05:22.26,Dialogue,,0,0,0,,Trebuie să mănânci dacă vrei \Nsă crești mare și puternică.
+Dialogue: 99,0:05:22.26,0:05:24.89,Dialogue,,0,0,0,,Nu mănânc altceva în afară de sânge.
+Dialogue: 99,0:05:24.89,0:05:26.43,Dialogue,,0,0,0,,Aceste diete ciudate nu sunt bune.
+Dialogue: 99,0:05:26.43,0:05:28.71,Dialogue,,0,0,0,,Trebuie să mănânci și carne, și legume!
+Dialogue: 99,0:05:28.71,0:05:31.42,Dialogue,,0,0,0,,Nu vreau ca mâncarea să fie irosită,
+Dialogue: 99,0:05:31.42,0:05:33.75,Dialogue,,0,0,0,,dar nu pare să înțeleagă când îi explic.
+Dialogue: 99,0:05:33.75,0:05:35.88,Dialogue,,0,0,0,,Asta chiar pare problematic.
+Dialogue: 99,0:05:37.19,0:05:38.14,Dialogue,,0,0,0,,Am ajuns.
+Dialogue: 99,0:05:40.37,0:05:44.02,Dialogue,,0,0,0,,Arată exact ca în poza pe \Ncare mi-a dat-o Sakuya!
+Dialogue: 99,0:05:44.02,0:05:46.02,Dialogue,,0,0,0,,Poți intra dacă vrei.
+Dialogue: 99,0:05:46.02,0:05:47.07,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:05:49.35,0:05:50.61,Dialogue,,0,0,0,,Îți mulțumesc că m-ai pri—
+Dialogue: 99,0:05:55.11,0:05:56.18,Dialogue,,0,0,0,,Uimitor!
+Dialogue: 99,0:05:56.18,0:05:57.54,Dialogue,,0,0,0,,Este așa de vampiric!
+Dialogue: 99,0:05:57.54,0:05:59.07,Dialogue,,0,0,0,,Mă bucur să aud asta.
+Dialogue: 99,0:06:01.29,0:06:05.75,Dialogue,,0,0,0,,Deci ai auzit zvonurile și ai venit \Naici ca să-ți testezi curajul sau ceva?
+Dialogue: 99,0:06:06.09,0:06:08.92,Dialogue,,0,0,0,,Nu. Am venit aici...
+Dialogue: 99,0:06:10.10,0:06:12.43,Dialogue,,0,0,0,,ca s-o prind pe fata-păpușă!
+Dialogue: 99,0:06:12.43,0:06:15.80,Dialogue,,0,0,0,,Ești mai agresivă decât pari.
+Dialogue: 99,0:06:16.16,0:06:18.59,Dialogue,,0,0,0,,Deci, cum te cheamă?
+Dialogue: 99,0:06:18.59,0:06:20.47,Dialogue,,0,0,0,,Eu sunt Amano Akari.
+Dialogue: 99,0:06:22.87,0:06:25.30,Dialogue,,0,0,0,,Eu sunt Sophie Twilight.
+Dialogue: 99,0:06:25.30,0:06:28.12,Dialogue,,0,0,0,,Înțeleg. Deci, tu ești Sophie.
+Dialogue: 99,0:06:28.12,0:06:31.70,Dialogue,,0,0,0,,Știi, eu iubesc păpușile.
+Dialogue: 99,0:06:31.70,0:06:36.39,Dialogue,,0,0,0,,M-am gândit că ar fi foarte grozav dacă ar exista cu adevărat o păpușă care vie.
+Dialogue: 99,0:06:36.39,0:06:39.03,Dialogue,,0,0,0,,Îmi pare rău, nu sunt o păpușă.
+Dialogue: 99,0:06:39.03,0:06:45.01,Dialogue,,0,0,0,,Totuși, privindu-te, arăți exact ca păpușa mea ideală.
+Dialogue: 99,0:06:45.58,0:06:47.70,Dialogue,,0,0,0,,Piele ca de porțelan...
+Dialogue: 99,0:06:47.70,0:06:49.73,Dialogue,,0,0,0,,Păr ca de mătase...
+Dialogue: 99,0:06:49.73,0:06:51.61,Dialogue,,0,0,0,,Gambe subțiri!
+Dialogue: 99,0:06:51.61,0:06:54.46,Dialogue,,0,0,0,,Chiar arăți ca o păpușă vie!
+Dialogue: 99,0:06:54.46,0:06:57.63,Dialogue,,0,0,0,,Hei, ești în regulă?
+Dialogue: 99,0:06:58.01,0:07:00.00,Dialogue,,0,0,0,,Hei, Sophie, pot să te mângâi pe cap?
+Dialogue: 99,0:07:00.00,0:07:01.03,Dialogue,,0,0,0,,Te pot lua acasă?
+Dialogue: 99,0:07:01.03,0:07:02.91,Dialogue,,0,0,0,,Vreau să-ți pieptăn părul și să-ți schimb hainele!
+Dialogue: 99,0:07:02.91,0:07:05.85,Dialogue,,0,0,0,,Hei... Stai departe. Mă sperii.
+Dialogue: 99,0:07:07.24,0:07:10.87,Dialogue,,0,0,0,,Sunt un om normal, iar un vampir se teme de mine!
+Dialogue: 99,0:07:11.72,0:07:15.85,Dialogue,,0,0,0,,Hei, Sophie... Este foarte târziu.
+Dialogue: 99,0:07:15.85,0:07:17.84,Dialogue,,0,0,0,,Te deranjează dacă stau peste noapte?
+Dialogue: 99,0:07:17.84,0:07:19.57,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:07:19.57,0:07:22.57,Dialogue,,0,0,0,,Nu-ți este teamă să rămâi la un vampir acasă?
+Dialogue: 99,0:07:22.57,0:07:23.78,Dialogue,,0,0,0,,Este în regulă!
+Dialogue: 99,0:07:23.78,0:07:27.42,Dialogue,,0,0,0,,Dacă este vorba de tine, chiar și \Nsugerea sângelui ar fi o plăcere!
+Dialogue: 99,0:07:28.20,0:07:30.70,Dialogue,,0,0,0,,{\i1}Nu va încerca să facă ceva \Nciudat cât timp stă aici, nu-i așa?
+Dialogue: 99,0:07:30.70,0:07:32.62,Dialogue,,0,0,0,,{\i1}Nu prea mai sunt sigură de asta.
+Dialogue: 99,0:07:32.97,0:07:35.48,Dialogue,,0,0,0,,A-Atunci, ar trebui să luăm cina?
+Dialogue: 99,0:07:36.12,0:07:37.34,Dialogue,,0,0,0,,C-Cina?
+Dialogue: 99,0:07:44.27,0:07:46.64,Dialogue,,0,0,0,,C-Cred că n-am de ales.
+Dialogue: 99,0:07:46.64,0:07:47.76,Dialogue,,0,0,0,,Doar puțin, bine?
+Dialogue: 99,0:07:48.56,0:07:51.50,Dialogue,,0,0,0,,Nu beau direct din oameni vii. Este înfricoșător.
+Dialogue: 99,0:07:51.50,0:07:53.29,Dialogue,,0,0,0,,Nu sunt o ciudată.
+Dialogue: 99,0:07:54.25,0:07:56.92,Dialogue,,0,0,0,,Am speriat un vampir din nou!
+Dialogue: 99,0:07:58.87,0:08:01.87,Dialogue,,0,0,0,,Se întâmplă să am niște mâncare \Nprimită de la doamna Mori.
+Dialogue: 99,0:08:01.87,0:08:03.93,Dialogue,,0,0,0,,Miroase bine!
+Dialogue: 99,0:08:04.54,0:08:07.50,Dialogue,,0,0,0,,Bei sânge dintr-o ceașcă de ceai, nu-i așa?
+Dialogue: 99,0:08:07.50,0:08:09.32,Dialogue,,0,0,0,,Cât de elegant!
+Dialogue: 99,0:08:09.32,0:08:10.12,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:08:10.12,0:08:12.01,Dialogue,,0,0,0,,O, încălzești sângele la microunde.
+Dialogue: 99,0:08:13.42,0:08:15.91,Dialogue,,0,0,0,,600 de wați, pentru cincizeci \Nde secunde sau pe acolo.
+Dialogue: 99,0:08:15.91,0:08:17.26,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:08:17.89,0:08:21.86,Dialogue,,0,0,0,,{\i1}Uau... Este un vampir, dar se comportă ca o persoană complet normală.
+Dialogue: 99,0:08:27.22,0:08:30.46,Dialogue,,0,0,0,,Ca o persoană nocturnă, nu pot să nu mă uit la desene până târziu.
+Dialogue: 99,0:08:31.37,0:08:36.68,Dialogue,,0,0,0,,Pariez că toți cei care scriu recenzii \Nla ora asta sunt și ei vampiri.
+Dialogue: 99,0:08:36.68,0:08:38.56,Dialogue,,0,0,0,,Nu prea cred...
+Dialogue: 99,0:08:39.23,0:08:40.88,Dialogue,,0,0,0,,Când spui "nocturnă",
+Dialogue: 99,0:08:40.88,0:08:43.92,Dialogue,,0,0,0,,vrei să spui că vamprii \Nchiar nu ies în timpul zilei?
+Dialogue: 99,0:08:43.92,0:08:44.87,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:08:44.87,0:08:46.69,Dialogue,,0,0,0,,I don't handle the sunlight well,
+Dialogue: 99,0:08:46.69,0:08:49.34,Dialogue,,0,0,0,,so I don't go out during the day \Nunless it's really important.
+Dialogue: 99,0:08:49.34,0:08:50.84,Dialogue,,0,0,0,,Înțeleg!
+Dialogue: 99,0:08:50.84,0:08:53.58,Dialogue,,0,0,0,,Oh, there's an autograph \Nsession with the author.
+Dialogue: 99,0:08:54.04,0:08:56.00,Dialogue,,0,0,0,,De la ora 13:00 la 15:00.
+Dialogue: 99,0:08:56.00,0:08:57.22,Dialogue,,0,0,0,,În regulă!
+Dialogue: 99,0:08:57.22,0:08:59.24,Dialogue,,0,0,0,,Duminica viitoare voi ieși afară!
+Dialogue: 99,0:08:59.24,0:09:01.13,Dialogue,,0,0,0,,Wait, that's something "really important"?
+Dialogue: 99,0:09:03.68,0:09:06.23,Dialogue,,0,0,0,,Hey, don't they also say \Nthat vampires can't enter
+Dialogue: 99,0:09:06.23,0:09:08.55,Dialogue,,0,0,0,,a place unless someone invites them in?
+Dialogue: 99,0:09:08.55,0:09:10.70,Dialogue,,0,0,0,,That's right. We can't.
+Dialogue: 99,0:09:10.70,0:09:15.53,Dialogue,,0,0,0,,So is it like, they're repelled by some \Nkind of barrier that keeps them out,
+Dialogue: 99,0:09:15.53,0:09:19.92,Dialogue,,0,0,0,,or they {\i1}can{\i0} enter, but it does some \Nkind of damage that hurts them?
+Dialogue: 99,0:09:20.32,0:09:24.41,Dialogue,,0,0,0,,Actually, we can still physically enter \Na place, even without an invitation.
+Dialogue: 99,0:09:24.41,0:09:26.45,Dialogue,,0,0,0,,But if we do...
+Dialogue: 99,0:09:26.45,0:09:27.78,Dialogue,,0,0,0,,What happens?
+Dialogue: 99,0:09:28.59,0:09:32.86,Dialogue,,0,0,0,,The people who lived there would \Nthink we were completely rude.
+Dialogue: 99,0:09:33.32,0:09:35.76,Dialogue,,0,0,0,,We'd be consumed by guilt.
+Dialogue: 99,0:09:35.76,0:09:37.79,Dialogue,,0,0,0,,That's such a normal reason!
+Dialogue: 99,0:09:41.02,0:09:43.65,Dialogue,,0,0,0,,So this is your room!
+Dialogue: 99,0:09:44.38,0:09:46.58,Dialogue,,0,0,0,,You really do sleep in a coffin, huh?
+Dialogue: 99,0:09:46.58,0:09:48.49,Dialogue,,0,0,0,,I wonder what it's like inside.
+Dialogue: 99,0:09:50.60,0:09:51.48,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:09:56.33,0:09:58.73,Dialogue,,0,0,0,,{\i1}I probably shouldn't have looked \Nin there without permission.
+Dialogue: 99,0:10:00.79,0:10:02.45,Dialogue,,0,0,0,,Bye-bye, Sophie-chan!
+Dialogue: 99,0:10:02.85,0:10:03.77,Dialogue,,0,0,0,,Bye.
+Dialogue: 99,0:10:04.68,0:10:05.91,Dialogue,,0,0,0,,See you next time!
+Dialogue: 99,0:10:10.01,0:10:11.38,Dialogue,,0,0,0,,Did she say "next time"?
+Dialogue: 99,0:10:13.50,0:10:17.97,Dialogue,,0,0,0,,{\i1}After that, this human started \Nto visit me every day.
+Dialogue: 99,0:10:24.05,0:10:26.47,Dialogue,,0,0,0,,{\i1}Honestly, it's a little annoying.
+Dialogue: 99,0:10:29.37,0:10:31.45,Dialogue,,0,0,0,,Wow, really?
+Dialogue: 99,0:10:31.45,0:10:35.64,Dialogue,,0,0,0,,Hey, vampires are stronger \Nthan humans, right?
+Dialogue: 99,0:10:35.64,0:10:36.56,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:10:37.04,0:10:40.71,Dialogue,,0,0,0,,{\i1}I know! Maybe if I shock her \Nby showing her my power,
+Dialogue: 99,0:10:40.71,0:10:42.28,Dialogue,,0,0,0,,{\i1}I'll get my peace back.
+Dialogue: 99,0:10:44.43,0:10:46.58,Dialogue,,0,0,0,,I can pick up a road roller just like that!
+Dialogue: 99,0:10:56.75,0:10:59.08,Dialogue,,0,0,0,,She ran away in such a panic.
+Dialogue: 99,0:10:59.56,0:11:01.68,Dialogue,,0,0,0,,Maybe I scared her too much.
+Dialogue: 99,0:11:02.02,0:11:04.98,Dialogue,,0,0,0,,But at least now I can go \Nback to my quiet life.
+Dialogue: 99,0:11:28.78,0:11:30.66,Dialogue,,0,0,0,,Hey, hey, Sophie-chan!
+Dialogue: 99,0:11:32.79,0:11:35.21,Dialogue,,0,0,0,,I didn't think I'd miss \Nsomeone that annoying,
+Dialogue: 99,0:11:35.21,0:11:38.43,Dialogue,,0,0,0,,but when I think she's never coming \Nback, I actually feel sad...
+Dialogue: 99,0:11:46.66,0:11:47.89,Dialogue,,0,0,0,,Sophie-chan!
+Dialogue: 99,0:11:47.89,0:11:51.01,Dialogue,,0,0,0,,Human? I thought you fled in terror...
+Dialogue: 99,0:11:52.51,0:11:56.00,Dialogue,,0,0,0,,These are all the jars and things \Nthat I couldn't open myself.
+Dialogue: 99,0:11:56.00,0:11:57.94,Dialogue,,0,0,0,,I thought, with your strength...
+Dialogue: 99,0:11:57.94,0:12:00.13,Dialogue,,0,0,0,,So I hurried and grabbed \Nthem all from my house!
+Dialogue: 99,0:12:00.64,0:12:03.75,Dialogue,,0,0,0,,{\i1}I thought she feared me, but she \Nwas just finding a way to use me.
+Dialogue: 99,0:12:05.33,0:12:07.86,Dialogue,,0,0,0,,I'm not like humans.
+Dialogue: 99,0:12:07.86,0:12:09.95,Dialogue,,0,0,0,,Aren't you even a little scared of me?
+Dialogue: 99,0:12:10.32,0:12:11.72,Dialogue,,0,0,0,,Not a bit!
+Dialogue: 99,0:12:11.72,0:12:14.96,Dialogue,,0,0,0,,You helped me out the first time we met, too.
+Dialogue: 99,0:12:15.70,0:12:19.18,Dialogue,,0,0,0,,You can do so many amazing \Nthings that I can't do.
+Dialogue: 99,0:12:20.70,0:12:24.31,Dialogue,,0,0,0,,So please, can I keep coming here?
+Dialogue: 99,0:12:25.13,0:12:26.96,Dialogue,,0,0,0,,You're a really strange human.
+Dialogue: 99,0:12:26.96,0:12:30.47,Dialogue,,0,0,0,,My name isn't "human." It's Akari.
+Dialogue: 99,0:12:32.25,0:12:34.26,Dialogue,,0,0,0,,Do as you like...
+Dialogue: 99,0:12:36.53,0:12:37.74,Dialogue,,0,0,0,,Akari.
+Dialogue: 99,0:12:38.95,0:12:41.11,Dialogue,,0,0,0,,Did you just say I can do whatever I like?!
+Dialogue: 99,0:12:41.11,0:12:43.43,Dialogue,,0,0,0,,Then I want to brush your hair \Nand put it into pigtails
+Dialogue: 99,0:12:43.43,0:12:45.64,Dialogue,,0,0,0,,and pet it, and then I want \Nto take a bath together!
+Dialogue: 99,0:12:45.64,0:12:47.40,Dialogue,,0,0,0,,Never mind, go home!
+Dialogue: 99,0:12:48.63,0:12:53.97,Dialogue,,0,0,0,,So now I'm going every day to visit \Nmy new friend who I met in the woods.
+Dialogue: 99,0:12:53.97,0:12:54.95,Dialogue,,0,0,0,,Every day?
+Dialogue: 99,0:12:54.95,0:12:55.84,Dialogue,,0,0,0,,Yeah!
+Dialogue: 99,0:12:55.84,0:12:59.97,Dialogue,,0,0,0,,Wouldn't it be easier if you \Njust moved in with her?
+Dialogue: 99,0:12:59.97,0:13:01.38,Dialogue,,0,0,0,,M-Move in with her?!
+Dialogue: 99,0:13:01.38,0:13:03.77,Dialogue,,0,0,0,,You want her to move in \Nwith a complete stranger?
+Dialogue: 99,0:13:03.77,0:13:04.96,Dialogue,,0,0,0,,I was joking.
+Dialogue: 99,0:13:04.96,0:13:07.22,Dialogue,,0,0,0,,I... I knew that!
+Dialogue: 99,0:13:07.94,0:13:10.80,Dialogue,,0,0,0,,So is your friend a boy or a girl?
+Dialogue: 99,0:13:10.80,0:13:12.29,Dialogue,,0,0,0,,A b-boy?!
+Dialogue: 99,0:13:12.29,0:13:14.81,Dialogue,,0,0,0,,I-I'm not so sure that's a g-good thing!
+Dialogue: 99,0:13:16.51,0:13:18.07,Dialogue,,0,0,0,,Good morning!
+Dialogue: 99,0:13:18.07,0:13:19.73,Dialogue,,0,0,0,,I came to see you, Sophie-chan!
+Dialogue: 99,0:13:20.11,0:13:22.83,Dialogue,,0,0,0,,You're here early on your day off.
+Dialogue: 99,0:13:22.83,0:13:25.60,Dialogue,,0,0,0,,I figured if I came early,\Nyou'd still be awake.
+Dialogue: 99,0:13:26.60,0:13:28.51,Dialogue,,0,0,0,,Thank you for having me!
+Dialogue: 99,0:13:28.51,0:13:30.17,Dialogue,,0,0,0,,Uh-huh...
+Dialogue: 99,0:13:30.86,0:13:35.07,Dialogue,,0,0,0,,Sophie-chan, it's a waste that you have \Nyour curtains drawn all the time.
+Dialogue: 99,0:13:35.07,0:13:38.74,Dialogue,,0,0,0,,The weather is nice today, so the \Nmorning sun is really beautiful!
+Dialogue: 99,0:13:38.74,0:13:40.06,Dialogue,,0,0,0,,See?
+Dialogue: 99,0:13:40.06,0:13:41.63,Dialogue,,0,0,0,,Indeed.
+Dialogue: 99,0:13:41.95,0:13:45.11,Dialogue,,0,0,0,,Dying basked in light \Nlike this isn't so bad.
+Dialogue: 99,0:13:45.11,0:13:46.32,Dialogue,,0,0,0,,Oh, sorry!
+Dialogue: 99,0:13:46.32,0:13:47.92,Dialogue,,0,0,0,,You can't handle sunlight!
+Dialogue: 99,0:13:49.69,0:13:52.69,Dialogue,,0,0,0,,So how come you brought \Nall these bags today?
+Dialogue: 99,0:13:53.05,0:13:55.52,Dialogue,,0,0,0,,Well, I just had a thought...
+Dialogue: 99,0:13:56.74,0:14:01.39,Dialogue,,0,0,0,,You live in this big house all alone, right?
+Dialogue: 99,0:14:01.39,0:14:05.86,Dialogue,,0,0,0,,So I was thinking I'd like to move in with you!
+Dialogue: 99,0:14:06.24,0:14:08.56,Dialogue,,0,0,0,,But that's so sudden.
+Dialogue: 99,0:14:08.56,0:14:09.62,Dialogue,,0,0,0,,Is that a no?
+Dialogue: 99,0:14:09.62,0:14:12.24,Dialogue,,0,0,0,,But I brought all my stuff.
+Dialogue: 99,0:14:12.24,0:14:14.07,Dialogue,,0,0,0,,You're getting too far ahead.
+Dialogue: 99,0:14:14.40,0:14:17.70,Dialogue,,0,0,0,,And what is all this stuff, anyway?
+Dialogue: 99,0:14:17.70,0:14:19.35,Dialogue,,0,0,0,,Well...
+Dialogue: 99,0:14:19.35,0:14:21.01,Dialogue,,0,0,0,,I brought some clothes,
+Dialogue: 99,0:14:21.01,0:14:24.03,Dialogue,,0,0,0,,and my pajamas, and my toothbrush and towel.
+Dialogue: 99,0:14:25.54,0:14:26.51,Dialogue,,0,0,0,,Also...
+Dialogue: 99,0:14:27.36,0:14:29.66,Dialogue,,0,0,0,,I brought my dolls,
+Dialogue: 99,0:14:30.18,0:14:33.05,Dialogue,,0,0,0,,and clothes and hats for my dolls.
+Dialogue: 99,0:14:33.05,0:14:35.01,Dialogue,,0,0,0,,So most of it is doll stuff?
+Dialogue: 99,0:14:35.78,0:14:39.81,Dialogue,,0,0,0,,Hmm... It's true that there are \Nsome extra rooms here, but...
+Dialogue: 99,0:14:39.81,0:14:41.66,Dialogue,,0,0,0,,It won't be a problem for me at all!
+Dialogue: 99,0:14:41.66,0:14:44.10,Dialogue,,0,0,0,,This is also a lot closer to my school.
+Dialogue: 99,0:14:44.10,0:14:46.31,Dialogue,,0,0,0,,Your parents are okay with this?
+Dialogue: 99,0:14:47.01,0:14:50.56,Dialogue,,0,0,0,,Wouldn't they be worried if you \Nsaid you were living with a vampire?
+Dialogue: 99,0:14:52.35,0:14:53.69,Dialogue,,0,0,0,,I guess I'll ask them.
+Dialogue: 99,0:14:54.05,0:14:55.05,Dialogue,,0,0,0,,What?
+Dialogue: 99,0:14:55.05,0:14:56.84,Dialogue,,0,0,0,,You're going to live with your friend?
+Dialogue: 99,0:14:57.21,0:14:59.39,Dialogue,,0,0,0,,And their family is all right with that?
+Dialogue: 99,0:15:00.03,0:15:01.52,Dialogue,,0,0,0,,They live all alone?
+Dialogue: 99,0:15:01.52,0:15:02.94,Dialogue,,0,0,0,,Who is this friend?
+Dialogue: 99,0:15:03.72,0:15:05.85,Dialogue,,0,0,0,,They turn into ash in the sunlight?
+Dialogue: 99,0:15:07.79,0:15:10.27,Dialogue,,0,0,0,,Oh, yeah! I love the sun!
+Dialogue: 99,0:15:10.62,0:15:12.42,Dialogue,,0,0,0,,What? A vampire?!
+Dialogue: 99,0:15:12.42,0:15:15.47,Dialogue,,0,0,0,,{\i1}She looks like she's around thirteen,
+Dialogue: 99,0:15:15.47,0:15:17.51,Dialogue,,0,0,0,,{\i1}and she's a beautiful girl with silver hair!
+Dialogue: 99,0:15:17.51,0:15:19.15,Dialogue,,0,0,0,,Well, then, I'm all for it!
+Dialogue: 99,0:15:19.15,0:15:21.78,Dialogue,,0,0,0,,Invite her over to our house sometime.
+Dialogue: 99,0:15:23.61,0:15:24.58,Dialogue,,0,0,0,,So that's that!
+Dialogue: 99,0:15:24.58,0:15:26.88,Dialogue,,0,0,0,,Now it's all up to you.
+Dialogue: 99,0:15:26.88,0:15:31.55,Dialogue,,0,0,0,,Let me guess. Your entire family \Nis just like you, aren't they?
+Dialogue: 99,0:15:31.55,0:15:35.41,Dialogue,,0,0,0,,Why would you want to live \Nwith a vampire, anyway?
+Dialogue: 99,0:15:35.41,0:15:38.48,Dialogue,,0,0,0,,It's dark all day, and it's \Nnot exactly comfortable.
+Dialogue: 99,0:15:38.48,0:15:40.57,Dialogue,,0,0,0,,I want to because you're here!
+Dialogue: 99,0:15:40.57,0:15:43.25,Dialogue,,0,0,0,,You said vampires don't age, right?
+Dialogue: 99,0:15:43.25,0:15:44.00,Dialogue,,0,0,0,,Right.
+Dialogue: 99,0:15:44.00,0:15:48.57,Dialogue,,0,0,0,,A girl who never ages is \Nbasically like a living doll!
+Dialogue: 99,0:15:48.57,0:15:49.59,Dialogue,,0,0,0,,You're too close.
+Dialogue: 99,0:15:49.59,0:15:55.67,Dialogue,,0,0,0,,If I live here, I can admire \Nyou every day, plus...
+Dialogue: 99,0:15:55.67,0:15:58.31,Dialogue,,0,0,0,,you won't be so lonely either, right?
+Dialogue: 99,0:15:58.31,0:16:00.92,Dialogue,,0,0,0,,It's not like I was lonely before.
+Dialogue: 99,0:16:04.51,0:16:08.87,Dialogue,,0,0,0,,Is there anything inconvenient \Nabout living alone as a vampire?
+Dialogue: 99,0:16:09.70,0:16:13.48,Dialogue,,0,0,0,,Since you can't stand the sun, you can't \Ngo shopping during the day, right?
+Dialogue: 99,0:16:13.48,0:16:16.40,Dialogue,,0,0,0,,Sure, there are some inconvenient things.
+Dialogue: 99,0:16:16.40,0:16:20.78,Dialogue,,0,0,0,,I don't like running water, \Nso washing dishes was a problem.
+Dialogue: 99,0:16:21.18,0:16:24.22,Dialogue,,0,0,0,,If I'm living here, you can leave \Nall the shopping and dishes to me!
+Dialogue: 99,0:16:24.22,0:16:27.47,Dialogue,,0,0,0,,No, I mean, it was a problem in the past,
+Dialogue: 99,0:16:27.47,0:16:29.71,Dialogue,,0,0,0,,but now I have convenience \Nstores and Amason.
+Dialogue: 99,0:16:30.62,0:16:33.22,Dialogue,,0,0,0,,I also bought a dishwasher, so I'm fine.
+Dialogue: 99,0:16:33.58,0:16:35.55,Dialogue,,0,0,0,,These are convenient times.
+Dialogue: 99,0:16:36.31,0:16:38.71,Dialogue,,0,0,0,,I hate you, technological advances!
+Dialogue: 99,0:16:39.01,0:16:40.74,Dialogue,,0,0,0,,Okay, then...
+Dialogue: 99,0:16:42.66,0:16:46.46,Dialogue,,0,0,0,,If you let me live with you,
+Dialogue: 99,0:16:47.66,0:16:50.37,Dialogue,,0,0,0,,you can suck my blood whenever you like!
+Dialogue: 99,0:16:50.37,0:16:53.20,Dialogue,,0,0,0,,The blood of a young maiden!
+Dialogue: 99,0:16:53.20,0:16:55.26,Dialogue,,0,0,0,,Come, try it!
+Dialogue: 99,0:16:55.26,0:16:56.66,Dialogue,,0,0,0,,Stay away! I don't want any!
+Dialogue: 99,0:16:58.80,0:17:02.07,Dialogue,,0,0,0,,I've always got plenty \Nof blood in the fridge.
+Dialogue: 99,0:17:02.07,0:17:05.00,Dialogue,,0,0,0,,I would never suck your blood, of all people.
+Dialogue: 99,0:17:05.00,0:17:06.83,Dialogue,,0,0,0,,"Of all people"? What's \Nthat supposed to mean?!
+Dialogue: 99,0:17:07.21,0:17:10.09,Dialogue,,0,0,0,,Ta-da! I can also cook!
+Dialogue: 99,0:17:10.09,0:17:11.44,Dialogue,,0,0,0,,Like meat and potato stew!
+Dialogue: 99,0:17:11.44,0:17:13.40,Dialogue,,0,0,0,,Huh, that's impressive.
+Dialogue: 99,0:17:13.40,0:17:16.05,Dialogue,,0,0,0,,I don't eat human food, though.
+Dialogue: 99,0:17:16.05,0:17:17.85,Dialogue,,0,0,0,,Oh, that's right...
+Dialogue: 99,0:17:19.43,0:17:21.40,Dialogue,,0,0,0,,Ouch!
+Dialogue: 99,0:17:21.40,0:17:23.01,Dialogue,,0,0,0,,Be careful.
+Dialogue: 99,0:17:23.01,0:17:24.28,Dialogue,,0,0,0,,Don't waste it.
+Dialogue: 99,0:17:37.61,0:17:39.47,Dialogue,,0,0,0,,Just one second, Sophie-chan.
+Dialogue: 99,0:17:39.47,0:17:40.53,Dialogue,,0,0,0,,I'll get you more.
+Dialogue: 99,0:17:40.89,0:17:42.33,Dialogue,,0,0,0,,No, stop.
+Dialogue: 99,0:17:44.30,0:17:46.63,Dialogue,,0,0,0,,For someone who only drinks blood,
+Dialogue: 99,0:17:46.63,0:17:48.32,Dialogue,,0,0,0,,you sure have a lot of china and cutlery.
+Dialogue: 99,0:17:48.32,0:17:51.20,Dialogue,,0,0,0,,I use different ones each \Ntime I won't get bored.
+Dialogue: 99,0:17:52.46,0:17:54.57,Dialogue,,0,0,0,,When I have it hot, I'll drink it like soup,
+Dialogue: 99,0:17:54.57,0:17:56.65,Dialogue,,0,0,0,,or like tea, or like coffee.
+Dialogue: 99,0:17:56.65,0:17:58.91,Dialogue,,0,0,0,,Cold, I drink it from a stein or a bottle.
+Dialogue: 99,0:17:58.91,0:18:00.02,Dialogue,,0,0,0,,I see.
+Dialogue: 99,0:18:00.36,0:18:02.55,Dialogue,,0,0,0,,In summer, I freeze it \Nand eat it like a popsicle.
+Dialogue: 99,0:18:03.45,0:18:06.26,Dialogue,,0,0,0,,In winter, I warm it in a sake \Nbottle and enjoy it like hot sake.
+Dialogue: 99,0:18:06.26,0:18:08.36,Dialogue,,0,0,0,,Wow, how elegant!
+Dialogue: 99,0:18:11.01,0:18:14.10,Dialogue,,0,0,0,,Looks like I don't have \Na lot of type O left.
+Dialogue: 99,0:18:15.53,0:18:17.15,Dialogue,,0,0,0,,I'm going to go buy some.
+Dialogue: 99,0:18:17.65,0:18:19.18,Dialogue,,0,0,0,,Go... buy some?
+Dialogue: 99,0:18:19.62,0:18:20.72,Dialogue,,0,0,0,,Like hunting?!
+Dialogue: 99,0:18:22.32,0:18:25.93,Dialogue,,0,0,0,,{\i1}I've been wondering where she \Ngets all that blood from.
+Dialogue: 99,0:18:25.93,0:18:30.80,Dialogue,,0,0,0,,{\i1}Since it's Sophie-can, I can't imagine \Nshe's harming anyone, but...
+Dialogue: 99,0:18:39.43,0:18:40.50,Dialogue,,0,0,0,,There.
+Dialogue: 99,0:18:40.50,0:18:43.04,Dialogue,,0,0,0,,I got express delivery, \Nso it should be here tomorrow.
+Dialogue: 99,0:18:43.65,0:18:45.15,Dialogue,,0,0,0,,You buy it online?!
+Dialogue: 99,0:18:48.07,0:18:50.23,Dialogue,,0,0,0,,Okay, I'm going to clean now!
+Dialogue: 99,0:18:50.23,0:18:51.90,Dialogue,,0,0,0,,Dust dust dust!
+Dialogue: 99,0:18:51.90,0:18:53.26,Dialogue,,0,0,0,,Wipe wipe wipe!
+Dialogue: 99,0:18:53.26,0:18:54.83,Dialogue,,0,0,0,,Sweep sweep sweep!
+Dialogue: 99,0:18:54.31,0:18:56.75,Dialogue Top,,0,0,0,,{\i1}She's really going at it today.
+Dialogue: 99,0:18:54.83,0:18:56.60,Dialogue,,0,0,0,,Dust dust dust!
+Dialogue: 99,0:18:56.60,0:18:58.56,Dialogue,,0,0,0,,Oh, you were watching me?
+Dialogue: 99,0:18:58.56,0:19:03.70,Dialogue,,0,0,0,,{\i1}She's already so loud by default. \NI wish she could just act normal.
+Dialogue: 99,0:19:06.28,0:19:09.12,Dialogue,,0,0,0,,{\i1}Still, with Akari around,
+Dialogue: 99,0:19:09.12,0:19:12.20,Dialogue,,0,0,0,,{\i1}it feels like the house has brightened up.
+Dialogue: 99,0:19:13.08,0:19:15.53,Dialogue,,0,0,0,,You won't be so lonely either, right?
+Dialogue: 99,0:19:17.12,0:19:19.20,Dialogue,,0,0,0,,{\i1}I guess she may be right.
+Dialogue: 99,0:19:19.78,0:19:21.37,Dialogue,,0,0,0,,Hey, Sophie-chan.
+Dialogue: 99,0:19:21.88,0:19:25.27,Dialogue,,0,0,0,,The light bulbs seemed really dim, \Nso I switched them to brighter ones.
+Dialogue: 99,0:19:25.27,0:19:26.84,Dialogue,,0,0,0,,Don't just change those!
+Dialogue: 99,0:19:26.84,0:19:29.78,Dialogue,,0,0,0,,I picked them to make it more \Nhabitable for vampires!
+Dialogue: 99,0:19:31.73,0:19:33.86,Dialogue,,0,0,0,,{\i1}I guess I shouldn't have done that.
+Dialogue: 99,0:19:35.45,0:19:38.81,Dialogue,,0,0,0,,{\i1}I wonder what I can do \Nto get her to accept me.
+Dialogue: 99,0:19:39.63,0:19:40.83,Dialogue,,0,0,0,,Akari,
+Dialogue: 99,0:19:42.24,0:19:44.70,Dialogue,,0,0,0,,I'm going to sleep now, so go home.
+Dialogue: 99,0:19:47.28,0:19:48.53,Dialogue,,0,0,0,,I'm so sorry.
+Dialogue: 99,0:19:49.01,0:19:53.88,Dialogue,,0,0,0,,I know it's right before your \Nbedtime and I'm just in the way.
+Dialogue: 99,0:19:54.78,0:19:56.74,Dialogue,,0,0,0,,{\i1}It didn't work out.
+Dialogue: 99,0:19:56.74,0:19:59.56,Dialogue,,0,0,0,,Go home and properly pack your things.
+Dialogue: 99,0:20:00.62,0:20:03.59,Dialogue,,0,0,0,,I'll carry the heavy stuff once it's dark.
+Dialogue: 99,0:20:03.59,0:20:04.91,Dialogue,,0,0,0,,Really?!
+Dialogue: 99,0:20:04.91,0:20:07.68,Dialogue,,0,0,0,,I never said no.
+Dialogue: 99,0:20:07.68,0:20:12.67,Dialogue,,0,0,0,,Then I'll gather up the fifty-five \Ndolls that didn't fit into my bag!
+Dialogue: 99,0:20:12.67,0:20:14.90,Dialogue,,0,0,0,,You're bringing more dolls over?
+Dialogue: 99,0:20:15.84,0:20:17.38,Dialogue,,0,0,0,,Woohoo!
+Dialogue: 99,0:20:17.38,0:20:19.82,Dialogue,,0,0,0,,We'll be together every day now!
+Dialogue: 99,0:20:22.69,0:20:24.34,Dialogue,,0,0,0,,But how come?
+Dialogue: 99,0:20:25.36,0:20:29.32,Dialogue,,0,0,0,,I couldn't do anything useful for you.
+Dialogue: 99,0:20:29.75,0:20:32.51,Dialogue,,0,0,0,,I never asked you to be useful to me.
+Dialogue: 99,0:20:32.51,0:20:34.56,Dialogue,,0,0,0,,There were empty rooms here, anyway.
+Dialogue: 99,0:20:36.17,0:20:39.56,Dialogue,,0,0,0,,Besides, it might be kind of fun...
+Dialogue: 99,0:20:40.59,0:20:42.75,Dialogue,,0,0,0,,if you move in here.
+Dialogue: 99,0:20:44.39,0:20:46.39,Dialogue,,0,0,0,,Sophie-chan!
+Dialogue: 99,0:20:48.68,0:20:51.21,Dialogue,,0,0,0,,That means our love is mutual!
+Dialogue: 99,0:20:51.73,0:20:55.52,Dialogue,,0,0,0,,So we're going to get married...
+Dialogue: 99,0:20:55.52,0:20:57.64,Dialogue,,0,0,0,,That's way too big a leap!
+Dialogue: 99,0:20:57.64,0:21:00.98,Dialogue,,0,0,0,,I don't have much to offer, \Nbut please be kind to me!
+Dialogue: 99,0:21:00.98,0:21:04.91,Dialogue,,0,0,0,,I just agreed to this, but I'm \Nalready questioning my decision.
+Dialogue: 99,0:22:16.42,0:22:18.25,Dialogue,,0,0,0,,See you later!
+Dialogue: 99,0:22:21.21,0:22:22.83,Dialogue,,0,0,0,,Good morning, Sophie-chan!
+Dialogue: 99,0:22:23.31,0:22:24.41,Dialogue,,0,0,0,,Good morning.
+Dialogue: 99,0:22:24.41,0:22:26.93,Dialogue,,0,0,0,,I'm going to school now!
+Dialogue: 99,0:22:26.93,0:22:27.86,Dialogue,,0,0,0,,Okay.
+Dialogue: 99,0:22:29.40,0:22:34.67,Dialogue,,0,0,0,,Aw, I wish I could be with you at school, too.
+Dialogue: 99,0:22:34.67,0:22:36.35,Dialogue,,0,0,0,,School, huh?
+Dialogue: 99,0:22:36.35,0:22:39.41,Dialogue,,0,0,0,,I did try to go to high \Nschool for a little bit.
+Dialogue: 99,0:22:40.08,0:22:41.22,Dialogue,,0,0,0,,Really?
+Dialogue: 99,0:22:41.70,0:22:44.88,Dialogue,,0,0,0,,I didn't want the people in the \Nneighborhood to think I'm a NEET.
+Dialogue: 99,0:22:45.61,0:22:48.10,Dialogue,,0,0,0,,There was a big window that got a lot of sun.
+Dialogue: 99,0:22:48.10,0:22:51.14,Dialogue,,0,0,0,,Hey, Twilight, you can't \Nwear a cloak in class!
+Dialogue: 99,0:22:51.14,0:22:52.55,Dialogue,,0,0,0,,And put that parasol away!
+Dialogue: 99,0:22:52.86,0:22:54.52,Dialogue,,0,0,0,,So many unreasonable rules.
+Dialogue: 99,0:22:54.52,0:22:56.77,Dialogue,,0,0,0,,No flying in the hallways!
+Dialogue: 99,0:22:57.33,0:22:59.51,Dialogue,,0,0,0,,Violence in the guise of kindness.
+Dialogue: 99,0:22:59.51,0:23:01.88,Dialogue,,0,0,0,,What, you're only drinking juice for lunch?
+Dialogue: 99,0:23:01.88,0:23:03.99,Dialogue,,0,0,0,,That's not enough. You need to eat.
+Dialogue: 99,0:23:03.99,0:23:05.86,Dialogue,,0,0,0,,I'll give you some of my lunch.
+Dialogue: 99,0:23:06.98,0:23:08.28,Dialogue,,0,0,0,,Here, have a potsticker.
+Dialogue: 99,0:23:08.28,0:23:10.07,Dialogue,,0,0,0,,And spaghetti aglio e olio.
+Dialogue: 99,0:23:10.47,0:23:12.64,Dialogue,,0,0,0,,It was truly terrifying.
+Dialogue: 99,0:23:12.64,0:23:14.76,Dialogue,,0,0,0,,I lasted three days.
+Dialogue: 99,0:23:14.76,0:23:16.01,Dialogue,,0,0,0,,I see.
+Dialogue: 99,0:23:16.01,0:23:18.71,Dialogue,,0,0,0,,Cred că nu este ușor să fii vampir.
+Dialogue: 99,0:23:22.05,0:23:23.91,Dialogue,,0,0,0,,Hinata!
+Dialogue: 99,0:23:24.67,0:23:25.95,Dialogue,,0,0,0,,Bună dimineața!
+Dialogue: 99,0:23:25.95,0:23:27.57,Dialogue,,0,0,0,,O, Akari?
+Dialogue: 99,0:23:27.57,0:23:29.09,Dialogue,,0,0,0,,Ce faci aici?
+Dialogue: 99,0:23:30.55,0:23:32.05,Dialogue,,0,0,0,,Păi, vezi tu...
+Dialogue: 99,0:23:34.67,0:23:37.32,Dialogue,,0,0,0,,Cred că voi merge la culcare.
 Dialogue: 1,0:04:10.02,0:04:14.48,KazuyaShuuSign,,0,0,0,done,{\fad(272,0)\fnCaslon OS\an2\pos(640,245)\c&H932649&\blur3\alpha&HA0&}Episodul 1
 Dialogue: 1,0:04:10.02,0:04:14.48,KazuyaShuuSign,,0,0,0,done,{\fad(272,0)\fnCaslon OS\an2\pos(640,245)\c&H932649&\blur0.5}Episodul 1
 Dialogue: 0,0:04:10.49,0:04:14.48,KazuyaShuuSign,,0,0,0,done,{\fnCaslon OS\an8\pos(640,490)\blur3\fs66\c&H92264B&\alpha&HFF&\t(0,900,1,\alpha&HA0&)}Locui{\c&H9A9A9A&\alpha&HFF&\t(1000,1900,1,\alpha&HA0&)}toarea {\c&H92264B&\alpha&HFF&\t(0,900,1,\alpha&HA0&)}obiș{\c&H9A9A9A&\alpha&HFF&\t(1000,1900,1,\alpha&HA0&)}nuită a {\c&H92264B&\alpha&HFF&\t(0,900,1,\alpha&HA0&)}întunericului

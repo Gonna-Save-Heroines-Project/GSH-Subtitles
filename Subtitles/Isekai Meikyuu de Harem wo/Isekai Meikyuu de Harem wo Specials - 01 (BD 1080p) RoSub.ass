@@ -27,44 +27,44 @@ Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Episod}
 Comment: 0,0:04:21.99,0:04:22.03,Dialogue,chptr,0,0,0,,{Credite}
-Dialogue: 100,0:00:02.36,0:00:05.99,Dialogue,MICHIO,0,0,0,,{\i1}Mă pot bucura de această \Nviață după bunu-mi plac.
-Dialogue: 100,0:00:20.46,0:00:21.79,Dialogue,MICHIO,0,0,0,,Te-am strâns prea tare?
-Dialogue: 100,0:00:21.79,0:00:24.05,Dialogue,ROXANNE,0,0,0,,Nu, e în regulă.
-Dialogue: 100,0:00:24.05,0:00:27.17,Dialogue,MICHIO,0,0,0,,Înțeleg, îmi poți spune \Ndacă nu-ți place.
-Dialogue: 100,0:00:27.17,0:00:29.84,Dialogue,ROXANNE,0,0,0,,Sunt bine, serios.
-Dialogue: 100,0:00:29.84,0:00:31.09,Dialogue,ROXANNE,0,0,0,,De fapt...
-Dialogue: 100,0:00:31.39,0:00:35.97,Dialogue,ROXANNE,0,0,0,,Mă poți... strânge mai tare.
-Dialogue: 100,0:00:36.27,0:00:38.56,Dialogue,MICHIO,0,0,0,,Ești sigură? Îți place?
-Dialogue: 100,0:00:53.66,0:00:57.37,Dialogue,ROXANNE,0,0,0,,Stăpâne, mai tare, te rog!
-Dialogue: 100,0:00:57.37,0:00:58.62,Dialogue,ROXANNE,0,0,0,,Mai tare!
-Dialogue: 100,0:01:03.96,0:01:06.17,Dialogue,MICHIO,0,0,0,,Îți place asta?
-Dialogue: 100,0:01:06.17,0:01:07.88,Dialogue,ROXANNE,0,0,0,,Da! Îmi place mult.
-Dialogue: 100,0:01:11.09,0:01:13.09,Dialogue,MICHIO,0,0,0,,Dar asta?
-Dialogue: 100,0:01:14.26,0:01:15.68,Dialogue,ROXANNE,0,0,0,,Stăpâne!
-Dialogue: 100,0:01:24.31,0:01:27.23,Dialogue,MICHIO,0,0,0,,Ce este? Îmi poți spune dacă te doare.
-Dialogue: 100,0:01:27.48,0:01:29.49,Dialogue,ROXANNE,0,0,0,,N-Nu e asta...
-Dialogue: 100,0:01:30.90,0:01:32.78,Dialogue,MICHIO,0,0,0,,Vrei să mă opresc?
-Dialogue: 100,0:01:35.20,0:01:37.24,Dialogue,MICHIO,0,0,0,,Știam eu. Ar trebui să ne oprim.
-Dialogue: 100,0:01:38.41,0:01:42.21,Dialogue,MICHIO,0,0,0,,Nu voi ști ce îți dorești \Ndacă nu-mi spui.
-Dialogue: 100,0:01:44.58,0:01:45.84,Dialogue,MICHIO,0,0,0,,Roxanne?
-Dialogue: 100,0:01:45.84,0:01:51.92,Dialogue,ROXANNE,0,0,0,,S-Se simte foarte plăcut, \Ndeci, te rog, continuă.
-Dialogue: 100,0:01:51.92,0:01:55.05,Dialogue,MICHIO,0,0,0,,Mă bucur că ești sinceră! \NAsta e recompensa ta.
-Dialogue: 100,0:02:17.33,0:02:19.04,Dialogue,MICHIO,0,0,0,,Ești foarte udă.
-Dialogue: 100,0:02:20.37,0:02:21.79,Dialogue,ROXANNE,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:02:38.89,0:02:41.60,Dialogue,MICHIO,0,0,0,,Roxanne, pot?
-Dialogue: 100,0:02:41.60,0:02:42.56,Dialogue,ROXANNE,0,0,0,,Da, te rog.
-Dialogue: 100,0:03:10.17,0:03:10.75,Dialogue,ROXANNE,0,0,0,,Ei bine...
-Dialogue: 100,0:03:27.48,0:03:29.15,Dialogue,ROXANNE,0,0,0,,Stăpâne.
-Dialogue: 100,0:03:30.94,0:03:32.15,Dialogue,MICHIO,0,0,0,,Ce este?
-Dialogue: 100,0:03:34.49,0:03:36.07,Dialogue,ROXANNE,0,0,0,,E-Ei bine...
-Dialogue: 100,0:03:36.07,0:03:38.20,Dialogue,ROXANNE,0,0,0,,Ești atât de adânc!
-Dialogue: 100,0:03:39.41,0:03:41.83,Dialogue,ROXANNE,0,0,0,,Mai încet sau...
-Dialogue: 100,0:03:44.08,0:03:45.12,Dialogue,ROXANNE,0,0,0,,îmi...
-Dialogue: 100,0:03:45.12,0:03:48.37,Dialogue,ROXANNE,0,0,0,,Nu te abține, Roxanne.
-Dialogue: 100,0:03:49.33,0:03:50.17,Dialogue,ROXANNE,0,0,0,,Am înțeles, stăpâne!
-Dialogue: 100,0:03:51.09,0:03:54.84,Dialogue,ROXANNE,0,0,0,,Stăpâne, îmi... îmi...
-Dialogue: 100,0:03:54.84,0:03:55.67,Dialogue,ROXANNE,0,0,0,,îmi...
-Dialogue: 100,0:03:56.13,0:03:58.09,Dialogue,ROXANNE,0,0,0,,voi da drumul!
-Dialogue: 100,0:04:13.57,0:04:17.32,Dialogue,MICHIO,0,0,0,,{\i1}Știu că îmi e puțin greu să respir,
-Dialogue: 100,0:04:17.82,0:04:19.61,Dialogue,MICHIO,0,0,0,,{\i1}dar sunt în rai chiar acum!
+Dialogue: 99,0:00:02.36,0:00:05.99,Dialogue,MICHIO,0,0,0,,{\i1}Mă pot bucura de această \Nviață după bunu-mi plac.
+Dialogue: 99,0:00:20.46,0:00:21.79,Dialogue,MICHIO,0,0,0,,Te-am strâns prea tare?
+Dialogue: 99,0:00:21.79,0:00:24.05,Dialogue,ROXANNE,0,0,0,,Nu, e în regulă.
+Dialogue: 99,0:00:24.05,0:00:27.17,Dialogue,MICHIO,0,0,0,,Înțeleg, îmi poți spune \Ndacă nu-ți place.
+Dialogue: 99,0:00:27.17,0:00:29.84,Dialogue,ROXANNE,0,0,0,,Sunt bine, serios.
+Dialogue: 99,0:00:29.84,0:00:31.09,Dialogue,ROXANNE,0,0,0,,De fapt...
+Dialogue: 99,0:00:31.39,0:00:35.97,Dialogue,ROXANNE,0,0,0,,Mă poți... strânge mai tare.
+Dialogue: 99,0:00:36.27,0:00:38.56,Dialogue,MICHIO,0,0,0,,Ești sigură? Îți place?
+Dialogue: 99,0:00:53.66,0:00:57.37,Dialogue,ROXANNE,0,0,0,,Stăpâne, mai tare, te rog!
+Dialogue: 99,0:00:57.37,0:00:58.62,Dialogue,ROXANNE,0,0,0,,Mai tare!
+Dialogue: 99,0:01:03.96,0:01:06.17,Dialogue,MICHIO,0,0,0,,Îți place asta?
+Dialogue: 99,0:01:06.17,0:01:07.88,Dialogue,ROXANNE,0,0,0,,Da! Îmi place mult.
+Dialogue: 99,0:01:11.09,0:01:13.09,Dialogue,MICHIO,0,0,0,,Dar asta?
+Dialogue: 99,0:01:14.26,0:01:15.68,Dialogue,ROXANNE,0,0,0,,Stăpâne!
+Dialogue: 99,0:01:24.31,0:01:27.23,Dialogue,MICHIO,0,0,0,,Ce este? Îmi poți spune dacă te doare.
+Dialogue: 99,0:01:27.48,0:01:29.49,Dialogue,ROXANNE,0,0,0,,N-Nu e asta...
+Dialogue: 99,0:01:30.90,0:01:32.78,Dialogue,MICHIO,0,0,0,,Vrei să mă opresc?
+Dialogue: 99,0:01:35.20,0:01:37.24,Dialogue,MICHIO,0,0,0,,Știam eu. Ar trebui să ne oprim.
+Dialogue: 99,0:01:38.41,0:01:42.21,Dialogue,MICHIO,0,0,0,,Nu voi ști ce îți dorești \Ndacă nu-mi spui.
+Dialogue: 99,0:01:44.58,0:01:45.84,Dialogue,MICHIO,0,0,0,,Roxanne?
+Dialogue: 99,0:01:45.84,0:01:51.92,Dialogue,ROXANNE,0,0,0,,S-Se simte foarte plăcut, \Ndeci, te rog, continuă.
+Dialogue: 99,0:01:51.92,0:01:55.05,Dialogue,MICHIO,0,0,0,,Mă bucur că ești sinceră! \NAsta e recompensa ta.
+Dialogue: 99,0:02:17.33,0:02:19.04,Dialogue,MICHIO,0,0,0,,Ești foarte udă.
+Dialogue: 99,0:02:20.37,0:02:21.79,Dialogue,ROXANNE,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:02:38.89,0:02:41.60,Dialogue,MICHIO,0,0,0,,Roxanne, pot?
+Dialogue: 99,0:02:41.60,0:02:42.56,Dialogue,ROXANNE,0,0,0,,Da, te rog.
+Dialogue: 99,0:03:10.17,0:03:10.75,Dialogue,ROXANNE,0,0,0,,Ei bine...
+Dialogue: 99,0:03:27.48,0:03:29.15,Dialogue,ROXANNE,0,0,0,,Stăpâne.
+Dialogue: 99,0:03:30.94,0:03:32.15,Dialogue,MICHIO,0,0,0,,Ce este?
+Dialogue: 99,0:03:34.49,0:03:36.07,Dialogue,ROXANNE,0,0,0,,E-Ei bine...
+Dialogue: 99,0:03:36.07,0:03:38.20,Dialogue,ROXANNE,0,0,0,,Ești atât de adânc!
+Dialogue: 99,0:03:39.41,0:03:41.83,Dialogue,ROXANNE,0,0,0,,Mai încet sau...
+Dialogue: 99,0:03:44.08,0:03:45.12,Dialogue,ROXANNE,0,0,0,,îmi...
+Dialogue: 99,0:03:45.12,0:03:48.37,Dialogue,ROXANNE,0,0,0,,Nu te abține, Roxanne.
+Dialogue: 99,0:03:49.33,0:03:50.17,Dialogue,ROXANNE,0,0,0,,Am înțeles, stăpâne!
+Dialogue: 99,0:03:51.09,0:03:54.84,Dialogue,ROXANNE,0,0,0,,Stăpâne, îmi... îmi...
+Dialogue: 99,0:03:54.84,0:03:55.67,Dialogue,ROXANNE,0,0,0,,îmi...
+Dialogue: 99,0:03:56.13,0:03:58.09,Dialogue,ROXANNE,0,0,0,,voi da drumul!
+Dialogue: 99,0:04:13.57,0:04:17.32,Dialogue,MICHIO,0,0,0,,{\i1}Știu că îmi e puțin greu să respir,
+Dialogue: 99,0:04:17.82,0:04:19.61,Dialogue,MICHIO,0,0,0,,{\i1}dar sunt în rai chiar acum!
 Dialogue: 0,0:04:17.32,0:04:20.82,DedzuyaSigns,,0,0,0,,{\fnPlane Crash\fax-0.2\fscx110\fscy130\blur0.6\c&HFFFFFF&\pos(309.14,494.87)\t(2750,0,1,\c&H0E0E0E&)}Restaurantul \NVale, Vale

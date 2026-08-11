@@ -44,358 +44,358 @@ Style: Status Text,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:02.30,0:00:06.16,Main,MICHIO,0,0,0,,By the way, Sherry, you said \Nyou wanted to use a maul,
-Dialogue: 100,0:00:06.16,0:00:09.04,Main,MICHIO,0,0,0,,but do dwarves often use mauls?
-Dialogue: 100,0:00:09.04,0:00:09.61,Main,SHERRY,0,0,0,,Yes.
-Dialogue: 100,0:00:09.84,0:00:13.44,Main,SHERRY,0,0,0,,We may not be tall, but we're strong,
-Dialogue: 100,0:00:13.44,0:00:15.76,Main,SHERRY,0,0,0,,so we're capable of wielding heavy weapons.
-Dialogue: 100,0:00:15.76,0:00:17.12,Main,MICHIO,0,0,0,,I see.
-Dialogue: 100,0:00:17.39,0:00:19.49,Main,MICHIO,0,0,0,,Then let's start by heading \Nto the weapon shop.
-Dialogue: 100,0:00:21.48,0:00:24.87,Main,MICHIO,0,0,0,,We've been talking about mauls, \Nbut there are all kinds available.
-Dialogue: 100,0:00:25.37,0:00:27.75,Main,SHERRY,0,0,0,,This is the cheapest one.
-Dialogue: 100,0:00:30.17,0:00:34.38,Italics,MICHIO,0,0,0,,That's not so much a club as it is a log.
-Dialogue: 100,0:00:34.38,0:00:36.43,Italics,MICHIO,0,0,0,,It looks pretty heavy.
-Dialogue: 100,0:00:38.26,0:00:40.84,Italics,MICHIO,0,0,0,,I guess she really is strong.
-Dialogue: 100,0:00:41.68,0:00:42.39,Main,MICHIO,0,0,0,,How is it?
-Dialogue: 100,0:00:42.70,0:00:44.01,Main,SHERRY,0,0,0,,It seems good.
-Dialogue: 100,0:00:44.01,0:00:46.34,Main,MICHIO,0,0,0,,Then that maul is yours.
-Dialogue: 100,0:00:46.98,0:00:48.48,Main,SHERRY,0,0,0,,Are you sure?
-Dialogue: 100,0:00:48.48,0:00:49.82,Main,MICHIO,0,0,0,,Of course.
-Dialogue: 100,0:00:50.55,0:00:52.49,Main,SHERRY,0,0,0,,Thank you.
-Dialogue: 100,0:00:53.86,0:00:56.71,Main,MICHIO,0,0,0,,These new leather shoes are for you, Roxanne.
-Dialogue: 100,0:00:56.71,0:00:59.11,Main,ROXANNE,0,0,0,,Thank you, Master.
-Dialogue: 100,0:00:59.11,0:01:01.99,Main,MICHIO,0,0,0,,Give Sherry my hand-me-downs.
-Dialogue: 100,0:01:01.99,0:01:04.52,Main,SHERRY,0,0,0,,You're even giving me shoes?
-Dialogue: 100,0:01:04.52,0:01:07.76,Main,MICHIO,0,0,0,,You'll need them since you'll \Nbe going into labyrinths.
-Dialogue: 100,0:01:07.76,0:01:09.50,Main,MICHIO,0,0,0,,Are you okay with just a leather jacket?
-Dialogue: 100,0:01:09.91,0:01:12.76,Main,MICHIO,0,0,0,,It's not like we can get you \Na suit of armor to wear.
-Dialogue: 100,0:01:12.76,0:01:13.92,Main,SHERRY,0,0,0,,You're not wrong.
-Dialogue: 100,0:01:14.21,0:01:17.79,Main,SHERRY,0,0,0,,But there are suits of \Narmor that would fit me.
-Dialogue: 100,0:01:17.79,0:01:18.96,Main,MICHIO,0,0,0,,Sorry.
-Dialogue: 100,0:01:18.96,0:01:21.56,Main,MICHIO,0,0,0,,That's not what I meant.
-Dialogue: 100,0:01:21.56,0:01:23.64,Main,ROXANNE,0,0,0,,It's all right, Sherry.
-Dialogue: 100,0:01:27.92,0:01:30.62,Main,ROXANNE,0,0,0,,These have nothing to do with \Nfighting in the labyrinths.
-Dialogue: 100,0:01:31.68,0:01:34.49,Italics,MICHIO,0,0,0,,Roxanne, that's counterproductive.
-Dialogue: 100,0:03:05.62,0:03:08.64,Main,MICHIO,0,0,0,,Roxanne, could you help \Nme do our usual thing?
-Dialogue: 100,0:03:08.64,0:03:10.54,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:03:12.16,0:03:14.04,Main,MICHIO,0,0,0,,We're heading to the labyrinth now.
-Dialogue: 100,0:03:14.31,0:03:15.82,Main,MICHIO,0,0,0,,Would you like to come with us?
-Dialogue: 100,0:03:15.82,0:03:18.63,Main,SHERRY,0,0,0,,The labyrinth? You're going now?
-Dialogue: 100,0:03:18.63,0:03:20.64,Main,MICHIO,0,0,0,,If you can't step away from \Nwhatever you're cooking,
-Dialogue: 100,0:03:20.64,0:03:21.76,Main,MICHIO,0,0,0,,then you don't have to come.
-Dialogue: 100,0:03:22.78,0:03:26.01,Main,SHERRY,0,0,0,,Oh, no. I haven't even started \Ncooking with fire yet, so it's fine.
-Dialogue: 100,0:03:29.47,0:03:30.89,Main,MICHIO,0,0,0,,By the way, Sherry,
-Dialogue: 100,0:03:30.89,0:03:33.41,Main,MICHIO,0,0,0,,you don't know what empty slots are, do you?
-Dialogue: 100,0:03:33.41,0:03:37.48,Main,SHERRY,0,0,0,,Empty? Are you talking about skill slots?
-Dialogue: 100,0:03:37.96,0:03:39.32,Main,MICHIO,0,0,0,,You know about those?
-Dialogue: 100,0:03:39.32,0:03:42.84,Main,SHERRY,0,0,0,,There was once someone \Nwho proposed that theory.
-Dialogue: 100,0:03:42.84,0:03:45.84,Main,SHERRY,0,0,0,,According to their theory, \Nequipment has something called skill slots,
-Dialogue: 100,0:03:45.84,0:03:50.00,Main,SHERRY,0,0,0,,and skill crystals cannot be combined \Nwith items unless they are empty.
-Dialogue: 100,0:03:50.00,0:03:54.59,Main,MICHIO,0,0,0,,Theory? Does that mean it \Nwasn't confirmed as fact?
-Dialogue: 100,0:03:54.59,0:03:59.25,Main,SHERRY,0,0,0,,Even if skill slots do exist, \Nnobody can see them.
-Dialogue: 100,0:03:59.25,0:04:02.34,Italics,MICHIO,0,0,0,,Actually, there's someone right here who can.
-Dialogue: 100,0:04:03.00,0:04:06.94,Main,MICHIO,0,0,0,,Sherry, what do you think \Nof the skill slot theory?
-Dialogue: 100,0:04:06.94,0:04:09.47,Main,SHERRY,0,0,0,,I think it's an interesting hypothesis,
-Dialogue: 100,0:04:09.47,0:04:13.32,Main,SHERRY,0,0,0,,but I don't think sufficient evidence \Nhas been presented to believe it.
-Dialogue: 100,0:04:13.32,0:04:15.10,Italics,MICHIO,0,0,0,,So Sherry doesn't believe in it.
-Dialogue: 100,0:04:15.59,0:04:16.57,Italics,MICHIO,0,0,0,,Well, no matter.
-Dialogue: 100,0:04:17.19,0:04:19.35,Main,MICHIO,0,0,0,,Anyway, I'm surprised you knew about that.
-Dialogue: 100,0:04:20.09,0:04:21.89,Main,SHERRY,0,0,0,,I was interested in the subject.
-Dialogue: 100,0:04:22.88,0:04:26.55,Main,SHERRY,0,0,0,,I once asked an expert about it.
-Dialogue: 100,0:04:27.17,0:04:28.66,Main,SHERRY,0,0,0,,Sorry.
-Dialogue: 100,0:04:28.66,0:04:31.25,Main,MICHIO,0,0,0,,You don't need to apologize.
-Dialogue: 100,0:04:32.13,0:04:32.96,Main,MICHIO,0,0,0,,Oh, right.
-Dialogue: 100,0:04:32.96,0:04:37.28,Main,MICHIO,0,0,0,,By the way, do you know anything \Nabout the Adventurer job?
-Dialogue: 100,0:04:37.28,0:04:37.88,Main,SHERRY,0,0,0,,Yes.
-Dialogue: 100,0:04:38.28,0:04:41.59,Main,SHERRY,0,0,0,,It's a legendary job said to have \Nbeen held by the first emperor.
-Dialogue: 100,0:04:41.83,0:04:43.22,Main,MICHIO,0,0,0,,Legendary?
-Dialogue: 100,0:04:43.22,0:04:44.97,Main,SHERRY,0,0,0,,Nobody's seen that job either,
-Dialogue: 100,0:04:44.97,0:04:47.97,Main,SHERRY,0,0,0,,so it's possible it doesn't exist.
-Dialogue: 100,0:04:48.83,0:04:51.63,Italics,MICHIO,0,0,0,,So it is a rare job.
-Dialogue: 100,0:04:59.36,0:05:01.81,Italics,MICHIO,0,0,0,,I've been steadily leveling up
-Dialogue: 100,0:05:01.81,0:05:04.34,Italics,MICHIO,0,0,0,,and can kill fifth floor monsters \Nwith a single blow now.
-Dialogue: 100,0:05:05.23,0:05:08.66,Italics,MICHIO,0,0,0,,I need to show off for our new party member.
-Dialogue: 100,0:05:09.27,0:05:10.19,Main,ROXANNE,0,0,0,,There they are.
-Dialogue: 100,0:05:13.96,0:05:15.19,Main,MICHIO,0,0,0,,Roxanne, let's go.
-Dialogue: 100,0:05:15.19,0:05:16.25,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:05:16.84,0:05:18.00,Italics,MICHIO,0,0,0,,Watch this, Sherry.
-Dialogue: 100,0:05:18.00,0:05:20.71,Italics,MICHIO,0,0,0,,Check out my sick sword skills.
-Dialogue: 100,0:05:26.34,0:05:27.85,Italics,MICHIO,0,0,0,,Now, watch this.
-Dialogue: 100,0:05:27.85,0:05:31.80,Italics,MICHIO,0,0,0,,See how skillful and marvelous \NI am with a blade.
-Dialogue: 100,0:05:34.90,0:05:36.18,Italics,MICHIO,0,0,0,,Nailed it.
-Dialogue: 100,0:05:36.66,0:05:39.06,Main,SHERRY,0,0,0,,That was incredible.
-Dialogue: 100,0:05:39.06,0:05:41.11,Italics,MICHIO,0,0,0,,Yeah, that's right.
-Dialogue: 100,0:05:41.48,0:05:44.60,Main,SHERRY,0,0,0,,How do you evade their \Nattacks so magnificently?
-Dialogue: 100,0:05:44.60,0:05:46.24,Italics,MICHIO,0,0,0,,She should be watching me.
-Dialogue: 100,0:05:46.24,0:05:47.99,Main,ROXANNE,0,0,0,,Watch the monsters closely
-Dialogue: 100,0:05:47.99,0:05:51.41,Main,ROXANNE,0,0,0,,and whoosh back when they zip in.
-Dialogue: 100,0:05:53.08,0:05:53.91,Main,ROXANNE,0,0,0,,Like I said,
-Dialogue: 100,0:05:54.26,0:05:55.96,Main,ROXANNE,0,0,0,,it's a zip and a whoosh.
-Dialogue: 100,0:06:00.16,0:06:01.92,Italics,MICHIO,0,0,0,,Don't look at me.
-Dialogue: 100,0:06:03.32,0:06:05.80,Italics,MICHIO,0,0,0,,Okay, I've got enough MP.
-Dialogue: 100,0:06:06.28,0:06:07.88,Main,MICHIO,0,0,0,,Let's head home.
-Dialogue: 100,0:06:07.88,0:06:08.68,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:06:10.87,0:06:11.77,Italics,MICHIO,0,0,0,,Teleport.
-Dialogue: 100,0:06:17.01,0:06:19.20,Main,MICHIO,0,0,0,,What's the matter, Sherry?
-Dialogue: 100,0:06:19.20,0:06:22.15,Main,SHERRY,0,0,0,,I've been wondering...
-Dialogue: 100,0:06:23.15,0:06:27.35,Main,SHERRY,0,0,0,,Does the Teleport spell allow you to \Ntravel to places outside labyrinths, too?
-Dialogue: 100,0:06:27.35,0:06:29.86,Main,SHERRY,0,0,0,,And I didn't hear you chant an incantation.
-Dialogue: 100,0:06:30.14,0:06:34.35,Main,ROXANNE,0,0,0,,Our Master can use spells and skills \Nwithout speaking incantations.
-Dialogue: 100,0:06:34.35,0:06:35.83,Main,SHERRY,0,0,0,,Really?
-Dialogue: 100,0:06:35.83,0:06:37.75,Main,MICHIO,0,0,0,,That's right.
-Dialogue: 100,0:06:38.61,0:06:42.38,Main,SHERRY,0,0,0,,How is that possible? \NNo, actually...
-Dialogue: 100,0:06:42.88,0:06:46.70,Main,SHERRY,0,0,0,,Come to think of it, you defeated \Nall the monsters with a single blow.
-Dialogue: 100,0:06:46.70,0:06:49.36,Main,SHERRY,0,0,0,,May I asked what your level is?
-Dialogue: 100,0:06:49.36,0:06:52.15,Main,MICHIO,0,0,0,,I'm level 33.
-Dialogue: 100,0:06:52.15,0:06:52.80,Main,ROXANNE,0,0,0,,What?
-Dialogue: 100,0:06:52.80,0:06:55.52,Main,ROXANNE,0,0,0,,Master, I thought you were level 20.
-Dialogue: 100,0:06:55.52,0:06:56.93,Main,MICHIO,0,0,0,,I was back then.
-Dialogue: 100,0:06:56.93,0:06:58.80,Main,ROXANNE,0,0,0,,Back then?
-Dialogue: 100,0:06:58.80,0:07:02.36,Main - Top,SHERRY,0,0,0,,Even for a level 33, \Na single blow shouldn't be possible.
-Dialogue: 100,0:06:59.65,0:07:03.14,Italics,MICHIO,0,0,0,,Plus I gain experience points \Na hundred times faster than others.
-Dialogue: 100,0:07:02.36,0:07:04.88,Main - Top,SHERRY,0,0,0,,Is it perhaps your sword instead?
-Dialogue: 100,0:07:04.88,0:07:07.82,Main,SHERRY,0,0,0,,I've heard there are incredible \Nweapons out there.
-Dialogue: 100,0:07:08.34,0:07:09.07,Main,MICHIO,0,0,0,,Well, you know.
-Dialogue: 100,0:07:09.44,0:07:11.50,Main,MICHIO,0,0,0,,Don't tell anyone.
-Dialogue: 100,0:07:11.50,0:07:13.16,Main,SHERRY,0,0,0,,Y-Yes, Master.
-Dialogue: 100,0:07:14.58,0:07:17.08,Main,MICHIO,0,0,0,,So this is dwarven cooking, huh?
-Dialogue: 100,0:07:18.35,0:07:20.28,Main,MICHIO,0,0,0,,It smells good.
-Dialogue: 100,0:07:20.28,0:07:22.67,Main,SHERRY,0,0,0,,I hope you like it.
-Dialogue: 100,0:07:23.35,0:07:25.78,Main,MICHIO,0,0,0,,What are you doing? \NSherry, sit with us.
-Dialogue: 100,0:07:27.00,0:07:30.37,Main,SHERRY,0,0,0,,Are you sure it's all right for me to sit?
-Dialogue: 100,0:07:30.37,0:07:31.93,Main,MICHIO,0,0,0,,Are you going to eat standing?
-Dialogue: 100,0:07:32.19,0:07:34.91,Main,SHERRY,0,0,0,,Can I really eat?
-Dialogue: 100,0:07:34.91,0:07:36.31,Main,ROXANNE,0,0,0,,Sherry.
-Dialogue: 100,0:07:36.31,0:07:40.67,Main,ROXANNE,0,0,0,,Our Master enjoys eating with us.
-Dialogue: 100,0:07:41.28,0:07:43.74,Main,ROXANNE,0,0,0,,Come sit next to me.
-Dialogue: 100,0:07:44.21,0:07:45.20,Main,SHERRY,0,0,0,,Okay.
-Dialogue: 100,0:07:51.16,0:07:54.78,Italics,MICHIO,0,0,0,,If I recall correctly, \Nserving the soup is the master's job.
-Dialogue: 100,0:07:55.85,0:07:57.67,Italics,MICHIO,0,0,0,,First, I'll serve myself.
-Dialogue: 100,0:07:58.75,0:08:02.75,Italics,MICHIO,0,0,0,,Next I'll serve Sherry \Nsince she made the food.
-Dialogue: 100,0:08:05.37,0:08:08.64,Italics,MICHIO,0,0,0,,What's going on? \NI feel her eyes boring into my skin.
-Dialogue: 100,0:08:10.68,0:08:13.34,Main,MICHIO,0,0,0,,Here you go, Roxanne.
-Dialogue: 100,0:08:14.90,0:08:17.43,Main,ROXANNE,0,0,0,,Thank you, Master.
-Dialogue: 100,0:08:17.43,0:08:19.52,Italics,MICHIO,0,0,0,,That was close.
-Dialogue: 100,0:08:19.52,0:08:21.59,Main - Top,MICHIO,0,0,0,,Here's yours, Sherry.
-Dialogue: 100,0:08:20.98,0:08:25.02,Italics,MICHIO,0,0,0,,I guess this means I need to \Nserve the number one slave first.
-Dialogue: 100,0:08:21.59,0:08:23.32,Main - Top,SHERRY,0,0,0,,Thank you.
-Dialogue: 100,0:08:27.45,0:08:28.54,Main,MICHIO,0,0,0,,It's good.
-Dialogue: 100,0:08:28.54,0:08:30.01,Main,ROXANNE,0,0,0,,It's delicious.
-Dialogue: 100,0:08:30.01,0:08:31.61,Main,SHERRY,0,0,0,,Thank you.
-Dialogue: 100,0:08:32.28,0:08:33.42,Main,SHERRY,0,0,0,,Come to think of it,
-Dialogue: 100,0:08:33.42,0:08:38.70,Main,SHERRY,0,0,0,,why did you go to the labyrinth earlier, \Nwhile we were preparing the bath and cooking?
-Dialogue: 100,0:08:39.58,0:08:42.24,Main,ROXANNE,0,0,0,,Preparing a bath is a lot of work.
-Dialogue: 100,0:08:42.24,0:08:44.32,Main,ROXANNE,0,0,0,,Weren't you doing it to blow off steam?
-Dialogue: 100,0:08:44.32,0:08:46.66,Main,MICHIO,0,0,0,,That's what you thought I was doing?
-Dialogue: 100,0:08:46.66,0:08:48.14,Main,ROXANNE,0,0,0,,You weren't?
-Dialogue: 100,0:08:48.14,0:08:49.75,Main,MICHIO,0,0,0,,No.
-Dialogue: 100,0:08:49.75,0:08:52.16,Main,MICHIO,0,0,0,,I do it to recover MP.
-Dialogue: 100,0:08:52.16,0:08:55.72,Main,MICHIO,0,0,0,,Durandal has the MP Absorption skill.
-Dialogue: 100,0:08:56.31,0:08:59.55,Main,MICHIO,0,0,0,,Come to think of it, \Nthere's something I want to ask you.
-Dialogue: 100,0:08:59.55,0:09:00.97,Main,SHERRY,0,0,0,,Was is it?
-Dialogue: 100,0:09:01.69,0:09:03.77,Main,MICHIO,0,0,0,,Wolfkin have the "Beast Warrior" job
-Dialogue: 100,0:09:04.54,0:09:06.78,Main,MICHIO,0,0,0,,and dwarves have the "Blacksmith" job.
-Dialogue: 100,0:09:06.78,0:09:09.56,Main,MICHIO,0,0,0,,Do humans have a unique job?
-Dialogue: 100,0:09:10.11,0:09:11.88,Main,ROXANNE,0,0,0,,Uh...
-Dialogue: 100,0:09:11.88,0:09:13.36,Main,SHERRY,0,0,0,,Um...
-Dialogue: 100,0:09:14.01,0:09:15.65,Main,ROXANNE,0,0,0,,I, um...
-Dialogue: 100,0:09:16.11,0:09:20.60,Main,ROXANNE,0,0,0,,As long as you'll take good \Ncare of me, I'll be fine.
-Dialogue: 100,0:09:20.60,0:09:23.46,Main,SHERRY,0,0,0,,I'm ready for whatever you \Nhave in store for me, too.
-Dialogue: 100,0:09:23.46,0:09:24.12,Main,MICHIO,0,0,0,,What?
-Dialogue: 100,0:09:24.60,0:09:30.88,Main,SHERRY,0,0,0,,Humans are a species whose desires \Nsometimes grow to a tremendous size.
-Dialogue: 100,0:09:31.24,0:09:35.90,Main,SHERRY,0,0,0,,So the uniquely human job is...
-Dialogue: 100,0:09:38.10,0:09:41.01,Main,SHERRY,0,0,0,,Sex Maniac.
-Dialogue: 100,0:09:41.28,0:09:43.02,Main,MICHIO,0,0,0,,Sex Maniac?
-Dialogue: 100,0:09:43.96,0:09:45.77,Italics,MICHIO,0,0,0,,What's wrong with humans?
-Dialogue: 100,0:09:48.16,0:09:50.40,Italics,MICHIO,0,0,0,,Sex Maniac, huh?
-Dialogue: 100,0:09:50.92,0:09:55.54,Italics,MICHIO,0,0,0,,In that case, I can't help \Nbut keep multiple slaves.
-Dialogue: 100,0:09:56.60,0:09:58.56,Main,MICHIO,0,0,0,,Come join me once you've undressed.
-Dialogue: 100,0:09:58.56,0:10:00.03,Italics,MICHIO,0,0,0,,After all, I'm human.
-Dialogue: 100,0:10:06.44,0:10:09.96,Italics,MICHIO,0,0,0,,The three of us are finally bathing together.
-Dialogue: 100,0:10:10.41,0:10:15.46,Italics,MICHIO,0,0,0,,I can't even imagine what it's like to bathe \Nwith two women who are there just for me.
-Dialogue: 100,0:10:15.46,0:10:20.08,Italics,MICHIO,0,0,0,,I wish I could watch the girls \Nundress, but Roxanne aside,
-Dialogue: 100,0:10:20.08,0:10:23.76,Italics,MICHIO,0,0,0,,if I don't want to be called out by \NSherry, I'll just have to deal with it.
-Dialogue: 100,0:10:24.74,0:10:27.96,Main,SHERRY,0,0,0,,Ms. Roxanne, yours are so big.
-Dialogue: 100,0:10:27.96,0:10:29.91,Main,ROXANNE,0,0,0,,Hardly.
-Dialogue: 100,0:10:29.91,0:10:32.95,Main,SHERRY,0,0,0,,But mine are so...
-Dialogue: 100,0:10:32.95,0:10:37.19,Main,ROXANNE,0,0,0,,They're very beautiful, even if they're small.
-Dialogue: 100,0:10:37.19,0:10:40.08,Italics,MICHIO,0,0,0,,What are those two doing together?
-Dialogue: 100,0:10:40.08,0:10:41.40,Italics,MICHIO,0,0,0,,I'm so jealous.
-Dialogue: 100,0:10:43.01,0:10:46.32,Italics,MICHIO,0,0,0,,Whoops, I should get the soap ready.
-Dialogue: 100,0:10:46.32,0:10:47.45,Main,ROXANNE,0,0,0,,Master.
-Dialogue: 100,0:10:47.87,0:10:49.00,Main,ROXANNE,0,0,0,,Excuse us.
-Dialogue: 100,0:10:49.10,0:10:50.71,Main,SHERRY,0,0,0,,Excuse us.
-Dialogue: 100,0:10:50.71,0:10:54.25,Main,MICHIO,0,0,0,,I'm also ready to...
-Dialogue: 100,0:11:04.22,0:11:06.43,Italics,MICHIO,0,0,0,,This is paradise!
-Dialogue: 100,0:11:06.43,0:11:10.99,Italics,MICHIO,0,0,0,,This must be a perk—\Nno, the privilege of being a master.
-Dialogue: 100,0:11:12.04,0:11:14.30,Main,MICHIO,0,0,0,,Sherry, what about your hair bands?
-Dialogue: 100,0:11:14.30,0:11:16.02,Main,SHERRY,0,0,0,,I'll remove them.
-Dialogue: 100,0:11:18.38,0:11:21.14,Main,MICHIO,0,0,0,,You've got a ton of hair.
-Dialogue: 100,0:11:24.74,0:11:25.83,Italics,MICHIO,0,0,0,,But...
-Dialogue: 100,0:11:27.17,0:11:29.62,Italics,MICHIO,0,0,0,,Once it's wet, there's no problem.
-Dialogue: 100,0:11:30.21,0:11:34.74,Italics,MICHIO,0,0,0,,When she's like this, you can tell she's \Nsmall and slender, but has a nice body.
-Dialogue: 100,0:11:35.24,0:11:39.19,Italics,MICHIO,0,0,0,,Plus her chest isn't so small \Nthat she needs to worry about it.
-Dialogue: 100,0:11:40.27,0:11:41.78,Main,MICHIO,0,0,0,,Shall we start washing?
-Dialogue: 100,0:11:41.78,0:11:42.93,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:11:42.93,0:11:46.20,Italics,MICHIO,0,0,0,,And now Roxanne is standing \Nright in front of me.
-Dialogue: 100,0:11:46.20,0:11:50.32,Italics,MICHIO,0,0,0,,There's a part of her I can't \Ntear my eyes away from.
-Dialogue: 100,0:11:53.24,0:11:55.16,Main,SHERRY,0,0,0,,I knew it.
-Dialogue: 100,0:11:55.16,0:11:57.69,Italics,MICHIO,0,0,0,,And now Sherry is lamenting her situation.
-Dialogue: 100,0:11:59.00,0:12:00.69,Italics,MICHIO,0,0,0,,But I can't help myself.
-Dialogue: 100,0:12:00.69,0:12:03.34,Italics,MICHIO,0,0,0,,I feel compelled to reach for them.
-Dialogue: 100,0:12:09.20,0:12:10.86,Italics,MICHIO,0,0,0,,This is fantastic.
-Dialogue: 100,0:12:10.86,0:12:12.62,Main,ROXANNE,0,0,0,,Thank you.
-Dialogue: 100,0:12:22.57,0:12:25.36,Main,MICHIO,0,0,0,,Okay. You're next, Sherry.
-Dialogue: 100,0:12:25.36,0:12:27.01,Main,SHERRY,0,0,0,,Yes, Master.
-Dialogue: 100,0:12:31.96,0:12:34.38,Main,SHERRY,0,0,0,,Please be gentle.
-Dialogue: 100,0:12:35.58,0:12:38.65,Italics,MICHIO,0,0,0,,She saw how I washed Roxanne.
-Dialogue: 100,0:12:38.92,0:12:41.03,Italics,MICHIO,0,0,0,,There's no need to be shy.
-Dialogue: 100,0:12:44.48,0:12:48.67,Italics,MICHIO,0,0,0,,Sherry's entire breasts fit in my hands.
-Dialogue: 100,0:12:50.26,0:12:51.50,Main,MICHIO,0,0,0,,Marvelous.
-Dialogue: 100,0:12:53.52,0:12:57.80,Main,SHERRY,0,0,0,,Um, I'm sorry they're so small.
-Dialogue: 100,0:12:57.80,0:13:01.18,Main,MICHIO,0,0,0,,They're not exceptionally small.
-Dialogue: 100,0:13:01.18,0:13:04.01,Main,SHERRY,0,0,0,,That's what I thought when \NI lived in my village.
-Dialogue: 100,0:13:04.33,0:13:08.14,Main,SHERRY,0,0,0,,But there were women at the \Ntrading house with large breasts.
-Dialogue: 100,0:13:08.45,0:13:10.90,Main,SHERRY,0,0,0,,And then there's Ms. Roxanne...
-Dialogue: 100,0:13:10.90,0:13:13.64,Main,MICHIO,0,0,0,,Hers are special. And besides,
-Dialogue: 100,0:13:13.64,0:13:15.81,Main,MICHIO,0,0,0,,it's the proportions that matter.
-Dialogue: 100,0:13:15.81,0:13:19.32,Main,MICHIO,0,0,0,,Yours are plenty big considering your height.
-Dialogue: 100,0:13:19.32,0:13:21.20,Main,MICHIO,0,0,0,,You should be confident in yourself.
-Dialogue: 100,0:13:21.20,0:13:23.54,Main,SHERRY,0,0,0,,Thank you.
-Dialogue: 100,0:13:25.30,0:13:29.08,Main,ROXANNE,0,0,0,,Sherry, let's wash our master now.
-Dialogue: 100,0:13:29.66,0:13:32.66,Main,SHERRY,0,0,0,,Okay. Um, how?
-Dialogue: 100,0:13:32.66,0:13:34.04,Main,ROXANNE,0,0,0,,Like this.
-Dialogue: 100,0:13:34.73,0:13:40.49,Main,ROXANNE,0,0,0,,We'll use our bodies to clean \Nevery last inch of his.
-Dialogue: 100,0:13:41.87,0:13:46.58,Main,ROXANNE,0,0,0,,Rather than using brute force, \Ngently envelop him with the bubbles.
-Dialogue: 100,0:13:47.36,0:13:52.07,Main,ROXANNE,0,0,0,,Use your entire body so you \Nslide into every crevice.
-Dialogue: 100,0:14:02.64,0:14:05.22,Main,ROXANNE,0,0,0,,Sherry, could you start on the right side?
-Dialogue: 100,0:14:05.22,0:14:06.90,Main,SHERRY,0,0,0,,U-Um...
-Dialogue: 100,0:14:09.20,0:14:11.71,Main,SHERRY,0,0,0,,I'll do my best.
-Dialogue: 100,0:14:11.71,0:14:14.12,Main,MICHIO,0,0,0,,Sure, thanks.
-Dialogue: 100,0:14:37.43,0:14:39.33,Main,SHERRY,0,0,0,,How's that?
-Dialogue: 100,0:14:39.90,0:14:40.82,Main,MICHIO,0,0,0,,Good.
-Dialogue: 100,0:14:41.48,0:14:43.05,Main,ROXANNE,0,0,0,,Thank you.
-Dialogue: 100,0:14:44.14,0:14:48.78,Main,MICHIO,0,0,0,,Okay, let's wash off these \Nbubbles and get in the bath.
-Dialogue: 100,0:14:49.40,0:14:50.30,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:14:51.24,0:14:52.25,Main,SHERRY,0,0,0,,Yes, Master.
-Dialogue: 100,0:14:56.44,0:14:58.54,Main,ROXANNE,0,0,0,,This feels nice.
-Dialogue: 100,0:14:58.54,0:15:00.30,Main,MICHIO,0,0,0,,Totally.
-Dialogue: 100,0:15:01.92,0:15:03.71,Italics,MICHIO,0,0,0,,Roxanne on my right.
-Dialogue: 100,0:15:04.39,0:15:06.46,Italics,MICHIO,0,0,0,,Sherry on my left.
-Dialogue: 100,0:15:06.93,0:15:10.47,Italics,MICHIO,0,0,0,,Two beautiful women on either \Nside of me. This is it.
-Dialogue: 100,0:15:10.96,0:15:13.60,Italics,MICHIO,0,0,0,,This is every man's dream.
-Dialogue: 100,0:15:13.60,0:15:15.78,Italics,MICHIO,0,0,0,,I'm living in luxury now.
-Dialogue: 100,0:15:16.90,0:15:18.98,Main,MICHIO,0,0,0,,This is incredible.
-Dialogue: 100,0:15:30.43,0:15:31.74,Main,MICHIO,0,0,0,,Okay, you two.
-Dialogue: 100,0:15:32.16,0:15:33.37,Main,MICHIO,0,0,0,,Come here.
-Dialogue: 100,0:15:34.12,0:15:36.06,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:15:36.84,0:15:38.59,Main,SHERRY,0,0,0,,Yes, Master.
-Dialogue: 100,0:15:40.38,0:15:41.25,Main,MICHIO,0,0,0,,Huh?
-Dialogue: 100,0:15:42.14,0:15:44.70,Main,MICHIO,0,0,0,,Your hair is looking really tidy.
-Dialogue: 100,0:15:44.70,0:15:49.80,Main,SHERRY,0,0,0,,Oh, yes. Soap is incredible.
-Dialogue: 100,0:15:50.48,0:15:52.74,Main,ROXANNE,0,0,0,,It's our master's soap, after all.
-Dialogue: 100,0:15:54.00,0:15:56.11,Main,MICHIO,0,0,0,,Sherry, come here.
-Dialogue: 100,0:15:56.57,0:15:57.42,Main,SHERRY,0,0,0,,Yes, Master.
-Dialogue: 100,0:16:03.00,0:16:07.39,Main,MICHIO,0,0,0,,I want you to kiss me before I \Ngo to sleep and after I wake up.
-Dialogue: 100,0:16:07.98,0:16:10.42,Main,SHERRY,0,0,0,,U-Understood.
-Dialogue: 100,0:16:10.82,0:16:13.38,Italics,MICHIO,0,0,0,,I've explained our household's rules to her.
-Dialogue: 100,0:16:13.82,0:16:16.45,Italics,MICHIO,0,0,0,,Okay, I'm running out of patience.
-Dialogue: 100,0:16:16.45,0:16:18.11,Italics,MICHIO,0,0,0,,I can't take it anymore.
-Dialogue: 100,0:16:18.11,0:16:21.41,Italics,MICHIO,0,0,0,,It's time to dig in.
-Dialogue: 100,0:16:25.13,0:16:26.33,Italics,MICHIO,0,0,0,,Shit.
-Dialogue: 100,0:16:27.12,0:16:28.42,Italics,MICHIO,0,0,0,,I forgot about the order.
-Dialogue: 100,0:16:28.42,0:16:31.59,Italics,MICHIO,0,0,0,,Roxanne always needs to be first.
-Dialogue: 100,0:16:32.01,0:16:35.11,Main,MICHIO,0,0,0,,S-Since this is what we do \Nbefore going to sleep,
-Dialogue: 100,0:16:35.11,0:16:38.72,Main,MICHIO,0,0,0,,as number one, you'll be \Nthe very last one, Roxanne.
-Dialogue: 100,0:16:41.88,0:16:44.49,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
-Dialogue: 100,0:16:45.23,0:16:48.48,Italics,MICHIO,0,0,0,,Whew, that was close.
-Dialogue: 100,0:16:48.88,0:16:53.18,Italics,MICHIO,0,0,0,,I broke into a different kind of sweat \Nbefore we're about to get sweaty.
-Dialogue: 100,0:16:56.01,0:16:57.43,Main,ROXANNE,0,0,0,,Master...
-Dialogue: 100,0:17:38.00,0:17:40.62,Main,ROXANNE,0,0,0,,Thank you.
-Dialogue: 100,0:17:42.99,0:17:44.00,Main,MICHIO,0,0,0,,Sherry.
-Dialogue: 100,0:17:45.47,0:17:47.30,Main,MICHIO,0,0,0,,It's your turn now.
-Dialogue: 100,0:17:50.23,0:17:51.67,Main,SHERRY,0,0,0,,Yes, Master.
-Dialogue: 100,0:17:55.89,0:17:59.41,Main,SHERRY,0,0,0,,Please take good care of me.
-Dialogue: 100,0:18:16.80,0:18:18.20,Main,MICHIO,0,0,0,,Were you watching the whole time?
-Dialogue: 100,0:18:18.87,0:18:20.07,Main,SHERRY,0,0,0,,Yes.
-Dialogue: 100,0:18:20.76,0:18:25.12,Main,SHERRY,0,0,0,,I was curious to see how \Nyou'd take care of her.
-Dialogue: 100,0:18:25.61,0:18:27.17,Main,SHERRY,0,0,0,,I'm sorry.
-Dialogue: 100,0:18:27.17,0:18:27.96,Main,MICHIO,0,0,0,,It's fine.
-Dialogue: 100,0:18:28.40,0:18:29.94,Main,MICHIO,0,0,0,,You can do what you want.
-Dialogue: 100,0:18:31.14,0:18:32.59,Main,MICHIO,0,0,0,,And...
-Dialogue: 100,0:18:35.00,0:18:36.30,Main,SHERRY,0,0,0,,Yes?
-Dialogue: 100,0:18:37.11,0:18:38.80,Main,MICHIO,0,0,0,,Let me know if it's too much for you.
-Dialogue: 100,0:18:38.80,0:18:40.18,Main,SHERRY,0,0,0,,It's all right.
-Dialogue: 100,0:18:42.65,0:18:43.70,Main,SHERRY,0,0,0,,Go ahead.
-Dialogue: 100,0:18:51.24,0:18:52.40,Main,MICHIO,0,0,0,,Are you okay?
-Dialogue: 100,0:18:53.23,0:18:55.15,Main,SHERRY,0,0,0,,I'm fine.
-Dialogue: 100,0:18:56.22,0:18:58.95,Main,SHERRY,0,0,0,,I'm okay.
-Dialogue: 100,0:18:59.65,0:19:03.16,Main,SHERRY,0,0,0,,Please do as you'd like.
-Dialogue: 100,0:19:04.12,0:19:05.19,Main,MICHIO,0,0,0,,Sherry...
-Dialogue: 100,0:19:20.52,0:19:22.39,Main,MICHIO,0,0,0,,Sherry, Roxanne...
-Dialogue: 100,0:19:22.39,0:19:25.51,Main,MICHIO,0,0,0,,I can't take it anymore.
-Dialogue: 100,0:19:25.51,0:19:26.90,Main,SHERRY,0,0,0,,Understood.
-Dialogue: 100,0:19:27.93,0:19:32.98,Main,SHERRY,0,0,0,,Go ahead. \NWhenever you're ready, Master.
-Dialogue: 100,0:19:47.32,0:19:51.72,Italics,MICHIO,0,0,0,,They're both... amazing.
-Dialogue: 100,0:19:55.29,0:19:56.63,Main,ROXANNE,0,0,0,,You worked really hard.
-Dialogue: 100,0:19:57.03,0:19:58.89,Main,ROXANNE,0,0,0,,Good girl, Sherry.
-Dialogue: 100,0:19:59.96,0:20:04.28,Main,SHERRY,0,0,0,,Um, is it always this crazy?
-Dialogue: 100,0:20:05.14,0:20:10.93,Main,ROXANNE,0,0,0,,I think he was a little excited \Ntoday because you were here.
-Dialogue: 100,0:20:12.02,0:20:13.31,Main,SHERRY,0,0,0,,Um...
-Dialogue: 100,0:20:14.16,0:20:15.05,Main,ROXANNE,0,0,0,,Yes?
-Dialogue: 100,0:20:15.92,0:20:21.87,Main,SHERRY,0,0,0,,Ms. Roxanne, I look forward \Nto working with you.
-Dialogue: 100,0:20:23.12,0:20:27.58,Main,ROXANNE,0,0,0,,And I look forward to \Nworking with you, Sherry.
-Dialogue: 100,0:20:31.23,0:20:32.21,Main,MICHIO,0,0,0,,Whoa.
-Dialogue: 100,0:20:32.96,0:20:35.09,Main,MICHIO,0,0,0,,Your bedhead is crazy.
-Dialogue: 100,0:20:35.53,0:20:38.59,Main,SHERRY,0,0,0,,Perhaps it's because my hair is lighter now.
-Dialogue: 100,0:20:45.18,0:20:48.47,Main,ROXANNE,0,0,0,,The weather's nice again today, Master.
-Dialogue: 100,0:20:48.72,0:20:50.64,Main,MICHIO,0,0,0,,Yeah, it sure is.
-Dialogue: 100,0:20:53.86,0:20:56.62,Italics,MICHIO,0,0,0,,After all we did, I'm not surprised.
-Dialogue: 100,0:20:58.63,0:21:03.99,Italics,MICHIO,0,0,0,,The bonuses to Spirit, Intelligence, \Nand MP will be nice since I use magic.
-Dialogue: 100,0:21:04.29,0:21:06.74,Italics,MICHIO,0,0,0,,I can guess what Enhanced Vigor means,
-Dialogue: 100,0:21:07.24,0:21:09.62,Italics,MICHIO,0,0,0,,but what's Abstinence Attack?
-Dialogue: 100,0:21:10.54,0:21:13.55,Main,ROXANNE,0,0,0,,Is something the matter, Master?
-Dialogue: 100,0:21:13.55,0:21:15.34,Main,MICHIO,0,0,0,,It's nothing.
-Dialogue: 100,0:21:16.51,0:21:21.10,Italics,MICHIO,0,0,0,,In any case, now I'm a Sex Maniac, too.
-Dialogue: 100,0:21:22.53,0:21:26.88,Italics,MICHIO,0,0,0,,Didn't she say human desires \Ngrow to massive proportions?
-Dialogue: 100,0:21:26.88,0:21:28.14,Italics,MICHIO,0,0,0,,Fine, then.
-Dialogue: 100,0:21:28.14,0:21:31.80,Italics,MICHIO,0,0,0,,If that's the case, then I'll \Nlet them grow out of control.
-Dialogue: 100,0:21:32.74,0:21:33.80,Main,MICHIO,0,0,0,,Slaves.
-Dialogue: 100,0:21:33.80,0:21:34.60,Main,BOTH,0,0,0,,What?
-Dialogue: 100,0:21:34.60,0:21:36.48,Main,MICHIO,0,0,0,,I'm gonna buy more slaves.
-Dialogue: 100,0:21:36.48,0:21:40.31,Main,MICHIO,0,0,0,,I'm gonna make myself a harem!
-Dialogue: 100,0:21:55.62,0:21:57.71,Main,SHERRY,0,0,0,,I hope she drops dead.
-Dialogue: 100,0:22:05.72,0:22:07.51,Main,AUCTIONEER,0,0,0,,640 thousand nars!
-Dialogue: 100,0:22:07.96,0:22:09.39,Main,AUCTIONEER,0,0,0,,Sold!
-Dialogue: 100,0:22:20.06,0:22:22.44,Main,SHERRY,0,0,0,,I hope she drops dead.
-Dialogue: 100,0:22:25.77,0:22:29.53,Main,VESTA,0,0,0,,Well? Are you enjoying this?
-Dialogue: 100,0:22:30.92,0:22:34.98,Main,HARTZ,0,0,0,,Mr. Michio, would you be willing to take her?
-Dialogue: 100,0:22:43.78,0:22:46.71,Main,RUTINA,0,0,0,,I decided to join you, as well.
-Dialogue: 100,0:22:47.10,0:22:49.59,Italics,SHERRY,0,0,0,,I hope she drops dead.
-Dialogue: 100,0:22:50.24,0:22:54.32,Main,RUTINA,0,0,0,,But... I could never...
-Dialogue: 100,0:22:59.62,0:23:01.15,Main,ROXANNE,0,0,0,,Master.
-Dialogue: 100,0:23:01.42,0:23:03.52,Main,ROXANNE,0,0,0,,Please take care of me next.
-Dialogue: 100,0:23:03.52,0:23:05.14,Main,SHERRY,0,0,0,,That's not fair, Ms. Roxanne.
-Dialogue: 100,0:23:05.14,0:23:07.11,Main,VESTA,0,0,0,,Don't try to steal a march on us.
-Dialogue: 100,0:23:07.11,0:23:08.74,Main,MIRIA,0,0,0,,Let me lick you.
-Dialogue: 100,0:23:08.74,0:23:09.46,Main,SHERRY,0,0,0,,Miria!
-Dialogue: 100,0:23:09.46,0:23:11.98,Main,RUTINA,0,0,0,,Mr. Michio, I could go again.
-Dialogue: 100,0:23:11.98,0:23:13.16,Main,ROXANNE,0,0,0,,Rutina?
-Dialogue: 100,0:23:13.16,0:23:15.61,Main,ROXANNE,0,0,0,,You just finished.
-Dialogue: 100,0:23:15.61,0:23:19.32,Italics,MICHIO,0,0,0,,So good. This isekai is the best.
-Dialogue: 100,0:23:20.42,0:23:21.59,Main,MICHIO,0,0,0,,Roxanne.
-Dialogue: 100,0:23:21.59,0:23:22.13,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:23:22.13,0:23:22.91,Main,MICHIO,0,0,0,,Sherry.
-Dialogue: 100,0:23:22.91,0:23:23.58,Main,SHERRY,0,0,0,,Yes?
-Dialogue: 100,0:23:23.88,0:23:24.44,Main,MICHIO,0,0,0,,Miria.
-Dialogue: 100,0:23:24.44,0:23:25.50,Main,MIRIA,0,0,0,,Yes, sir.
-Dialogue: 100,0:23:25.50,0:23:26.42,Main,MICHIO,0,0,0,,Vesta.
-Dialogue: 100,0:23:26.42,0:23:27.09,Main,VESTA,0,0,0,,Yes, Master.
-Dialogue: 100,0:23:27.09,0:23:27.90,Main,MICHIO,0,0,0,,Rutina.
-Dialogue: 100,0:23:27.90,0:23:28.67,Main,RUTINA,0,0,0,,Yes, Master.
-Dialogue: 100,0:23:28.67,0:23:29.88,Main,MICHIO,0,0,0,,Come on.
-Dialogue: 100,0:23:29.88,0:23:32.52,Main,MICHIO,0,0,0,,I'll do all of you at once.
-Dialogue: 100,0:23:32.52,0:23:34.79,Main,ALL,0,0,0,,Yes, Master.
+Dialogue: 99,0:00:02.30,0:00:06.16,Main,MICHIO,0,0,0,,By the way, Sherry, you said \Nyou wanted to use a maul,
+Dialogue: 99,0:00:06.16,0:00:09.04,Main,MICHIO,0,0,0,,but do dwarves often use mauls?
+Dialogue: 99,0:00:09.04,0:00:09.61,Main,SHERRY,0,0,0,,Yes.
+Dialogue: 99,0:00:09.84,0:00:13.44,Main,SHERRY,0,0,0,,We may not be tall, but we're strong,
+Dialogue: 99,0:00:13.44,0:00:15.76,Main,SHERRY,0,0,0,,so we're capable of wielding heavy weapons.
+Dialogue: 99,0:00:15.76,0:00:17.12,Main,MICHIO,0,0,0,,I see.
+Dialogue: 99,0:00:17.39,0:00:19.49,Main,MICHIO,0,0,0,,Then let's start by heading \Nto the weapon shop.
+Dialogue: 99,0:00:21.48,0:00:24.87,Main,MICHIO,0,0,0,,We've been talking about mauls, \Nbut there are all kinds available.
+Dialogue: 99,0:00:25.37,0:00:27.75,Main,SHERRY,0,0,0,,This is the cheapest one.
+Dialogue: 99,0:00:30.17,0:00:34.38,Italics,MICHIO,0,0,0,,That's not so much a club as it is a log.
+Dialogue: 99,0:00:34.38,0:00:36.43,Italics,MICHIO,0,0,0,,It looks pretty heavy.
+Dialogue: 99,0:00:38.26,0:00:40.84,Italics,MICHIO,0,0,0,,I guess she really is strong.
+Dialogue: 99,0:00:41.68,0:00:42.39,Main,MICHIO,0,0,0,,How is it?
+Dialogue: 99,0:00:42.70,0:00:44.01,Main,SHERRY,0,0,0,,It seems good.
+Dialogue: 99,0:00:44.01,0:00:46.34,Main,MICHIO,0,0,0,,Then that maul is yours.
+Dialogue: 99,0:00:46.98,0:00:48.48,Main,SHERRY,0,0,0,,Are you sure?
+Dialogue: 99,0:00:48.48,0:00:49.82,Main,MICHIO,0,0,0,,Of course.
+Dialogue: 99,0:00:50.55,0:00:52.49,Main,SHERRY,0,0,0,,Thank you.
+Dialogue: 99,0:00:53.86,0:00:56.71,Main,MICHIO,0,0,0,,These new leather shoes are for you, Roxanne.
+Dialogue: 99,0:00:56.71,0:00:59.11,Main,ROXANNE,0,0,0,,Thank you, Master.
+Dialogue: 99,0:00:59.11,0:01:01.99,Main,MICHIO,0,0,0,,Give Sherry my hand-me-downs.
+Dialogue: 99,0:01:01.99,0:01:04.52,Main,SHERRY,0,0,0,,You're even giving me shoes?
+Dialogue: 99,0:01:04.52,0:01:07.76,Main,MICHIO,0,0,0,,You'll need them since you'll \Nbe going into labyrinths.
+Dialogue: 99,0:01:07.76,0:01:09.50,Main,MICHIO,0,0,0,,Are you okay with just a leather jacket?
+Dialogue: 99,0:01:09.91,0:01:12.76,Main,MICHIO,0,0,0,,It's not like we can get you \Na suit of armor to wear.
+Dialogue: 99,0:01:12.76,0:01:13.92,Main,SHERRY,0,0,0,,You're not wrong.
+Dialogue: 99,0:01:14.21,0:01:17.79,Main,SHERRY,0,0,0,,But there are suits of \Narmor that would fit me.
+Dialogue: 99,0:01:17.79,0:01:18.96,Main,MICHIO,0,0,0,,Sorry.
+Dialogue: 99,0:01:18.96,0:01:21.56,Main,MICHIO,0,0,0,,That's not what I meant.
+Dialogue: 99,0:01:21.56,0:01:23.64,Main,ROXANNE,0,0,0,,It's all right, Sherry.
+Dialogue: 99,0:01:27.92,0:01:30.62,Main,ROXANNE,0,0,0,,These have nothing to do with \Nfighting in the labyrinths.
+Dialogue: 99,0:01:31.68,0:01:34.49,Italics,MICHIO,0,0,0,,Roxanne, that's counterproductive.
+Dialogue: 99,0:03:05.62,0:03:08.64,Main,MICHIO,0,0,0,,Roxanne, could you help \Nme do our usual thing?
+Dialogue: 99,0:03:08.64,0:03:10.54,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:03:12.16,0:03:14.04,Main,MICHIO,0,0,0,,We're heading to the labyrinth now.
+Dialogue: 99,0:03:14.31,0:03:15.82,Main,MICHIO,0,0,0,,Would you like to come with us?
+Dialogue: 99,0:03:15.82,0:03:18.63,Main,SHERRY,0,0,0,,The labyrinth? You're going now?
+Dialogue: 99,0:03:18.63,0:03:20.64,Main,MICHIO,0,0,0,,If you can't step away from \Nwhatever you're cooking,
+Dialogue: 99,0:03:20.64,0:03:21.76,Main,MICHIO,0,0,0,,then you don't have to come.
+Dialogue: 99,0:03:22.78,0:03:26.01,Main,SHERRY,0,0,0,,Oh, no. I haven't even started \Ncooking with fire yet, so it's fine.
+Dialogue: 99,0:03:29.47,0:03:30.89,Main,MICHIO,0,0,0,,By the way, Sherry,
+Dialogue: 99,0:03:30.89,0:03:33.41,Main,MICHIO,0,0,0,,you don't know what empty slots are, do you?
+Dialogue: 99,0:03:33.41,0:03:37.48,Main,SHERRY,0,0,0,,Empty? Are you talking about skill slots?
+Dialogue: 99,0:03:37.96,0:03:39.32,Main,MICHIO,0,0,0,,You know about those?
+Dialogue: 99,0:03:39.32,0:03:42.84,Main,SHERRY,0,0,0,,There was once someone \Nwho proposed that theory.
+Dialogue: 99,0:03:42.84,0:03:45.84,Main,SHERRY,0,0,0,,According to their theory, \Nequipment has something called skill slots,
+Dialogue: 99,0:03:45.84,0:03:50.00,Main,SHERRY,0,0,0,,and skill crystals cannot be combined \Nwith items unless they are empty.
+Dialogue: 99,0:03:50.00,0:03:54.59,Main,MICHIO,0,0,0,,Theory? Does that mean it \Nwasn't confirmed as fact?
+Dialogue: 99,0:03:54.59,0:03:59.25,Main,SHERRY,0,0,0,,Even if skill slots do exist, \Nnobody can see them.
+Dialogue: 99,0:03:59.25,0:04:02.34,Italics,MICHIO,0,0,0,,Actually, there's someone right here who can.
+Dialogue: 99,0:04:03.00,0:04:06.94,Main,MICHIO,0,0,0,,Sherry, what do you think \Nof the skill slot theory?
+Dialogue: 99,0:04:06.94,0:04:09.47,Main,SHERRY,0,0,0,,I think it's an interesting hypothesis,
+Dialogue: 99,0:04:09.47,0:04:13.32,Main,SHERRY,0,0,0,,but I don't think sufficient evidence \Nhas been presented to believe it.
+Dialogue: 99,0:04:13.32,0:04:15.10,Italics,MICHIO,0,0,0,,So Sherry doesn't believe in it.
+Dialogue: 99,0:04:15.59,0:04:16.57,Italics,MICHIO,0,0,0,,Well, no matter.
+Dialogue: 99,0:04:17.19,0:04:19.35,Main,MICHIO,0,0,0,,Anyway, I'm surprised you knew about that.
+Dialogue: 99,0:04:20.09,0:04:21.89,Main,SHERRY,0,0,0,,I was interested in the subject.
+Dialogue: 99,0:04:22.88,0:04:26.55,Main,SHERRY,0,0,0,,I once asked an expert about it.
+Dialogue: 99,0:04:27.17,0:04:28.66,Main,SHERRY,0,0,0,,Sorry.
+Dialogue: 99,0:04:28.66,0:04:31.25,Main,MICHIO,0,0,0,,You don't need to apologize.
+Dialogue: 99,0:04:32.13,0:04:32.96,Main,MICHIO,0,0,0,,Oh, right.
+Dialogue: 99,0:04:32.96,0:04:37.28,Main,MICHIO,0,0,0,,By the way, do you know anything \Nabout the Adventurer job?
+Dialogue: 99,0:04:37.28,0:04:37.88,Main,SHERRY,0,0,0,,Yes.
+Dialogue: 99,0:04:38.28,0:04:41.59,Main,SHERRY,0,0,0,,It's a legendary job said to have \Nbeen held by the first emperor.
+Dialogue: 99,0:04:41.83,0:04:43.22,Main,MICHIO,0,0,0,,Legendary?
+Dialogue: 99,0:04:43.22,0:04:44.97,Main,SHERRY,0,0,0,,Nobody's seen that job either,
+Dialogue: 99,0:04:44.97,0:04:47.97,Main,SHERRY,0,0,0,,so it's possible it doesn't exist.
+Dialogue: 99,0:04:48.83,0:04:51.63,Italics,MICHIO,0,0,0,,So it is a rare job.
+Dialogue: 99,0:04:59.36,0:05:01.81,Italics,MICHIO,0,0,0,,I've been steadily leveling up
+Dialogue: 99,0:05:01.81,0:05:04.34,Italics,MICHIO,0,0,0,,and can kill fifth floor monsters \Nwith a single blow now.
+Dialogue: 99,0:05:05.23,0:05:08.66,Italics,MICHIO,0,0,0,,I need to show off for our new party member.
+Dialogue: 99,0:05:09.27,0:05:10.19,Main,ROXANNE,0,0,0,,There they are.
+Dialogue: 99,0:05:13.96,0:05:15.19,Main,MICHIO,0,0,0,,Roxanne, let's go.
+Dialogue: 99,0:05:15.19,0:05:16.25,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:05:16.84,0:05:18.00,Italics,MICHIO,0,0,0,,Watch this, Sherry.
+Dialogue: 99,0:05:18.00,0:05:20.71,Italics,MICHIO,0,0,0,,Check out my sick sword skills.
+Dialogue: 99,0:05:26.34,0:05:27.85,Italics,MICHIO,0,0,0,,Now, watch this.
+Dialogue: 99,0:05:27.85,0:05:31.80,Italics,MICHIO,0,0,0,,See how skillful and marvelous \NI am with a blade.
+Dialogue: 99,0:05:34.90,0:05:36.18,Italics,MICHIO,0,0,0,,Nailed it.
+Dialogue: 99,0:05:36.66,0:05:39.06,Main,SHERRY,0,0,0,,That was incredible.
+Dialogue: 99,0:05:39.06,0:05:41.11,Italics,MICHIO,0,0,0,,Yeah, that's right.
+Dialogue: 99,0:05:41.48,0:05:44.60,Main,SHERRY,0,0,0,,How do you evade their \Nattacks so magnificently?
+Dialogue: 99,0:05:44.60,0:05:46.24,Italics,MICHIO,0,0,0,,She should be watching me.
+Dialogue: 99,0:05:46.24,0:05:47.99,Main,ROXANNE,0,0,0,,Watch the monsters closely
+Dialogue: 99,0:05:47.99,0:05:51.41,Main,ROXANNE,0,0,0,,and whoosh back when they zip in.
+Dialogue: 99,0:05:53.08,0:05:53.91,Main,ROXANNE,0,0,0,,Like I said,
+Dialogue: 99,0:05:54.26,0:05:55.96,Main,ROXANNE,0,0,0,,it's a zip and a whoosh.
+Dialogue: 99,0:06:00.16,0:06:01.92,Italics,MICHIO,0,0,0,,Don't look at me.
+Dialogue: 99,0:06:03.32,0:06:05.80,Italics,MICHIO,0,0,0,,Okay, I've got enough MP.
+Dialogue: 99,0:06:06.28,0:06:07.88,Main,MICHIO,0,0,0,,Let's head home.
+Dialogue: 99,0:06:07.88,0:06:08.68,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:06:10.87,0:06:11.77,Italics,MICHIO,0,0,0,,Teleport.
+Dialogue: 99,0:06:17.01,0:06:19.20,Main,MICHIO,0,0,0,,What's the matter, Sherry?
+Dialogue: 99,0:06:19.20,0:06:22.15,Main,SHERRY,0,0,0,,I've been wondering...
+Dialogue: 99,0:06:23.15,0:06:27.35,Main,SHERRY,0,0,0,,Does the Teleport spell allow you to \Ntravel to places outside labyrinths, too?
+Dialogue: 99,0:06:27.35,0:06:29.86,Main,SHERRY,0,0,0,,And I didn't hear you chant an incantation.
+Dialogue: 99,0:06:30.14,0:06:34.35,Main,ROXANNE,0,0,0,,Our Master can use spells and skills \Nwithout speaking incantations.
+Dialogue: 99,0:06:34.35,0:06:35.83,Main,SHERRY,0,0,0,,Really?
+Dialogue: 99,0:06:35.83,0:06:37.75,Main,MICHIO,0,0,0,,That's right.
+Dialogue: 99,0:06:38.61,0:06:42.38,Main,SHERRY,0,0,0,,How is that possible? \NNo, actually...
+Dialogue: 99,0:06:42.88,0:06:46.70,Main,SHERRY,0,0,0,,Come to think of it, you defeated \Nall the monsters with a single blow.
+Dialogue: 99,0:06:46.70,0:06:49.36,Main,SHERRY,0,0,0,,May I asked what your level is?
+Dialogue: 99,0:06:49.36,0:06:52.15,Main,MICHIO,0,0,0,,I'm level 33.
+Dialogue: 99,0:06:52.15,0:06:52.80,Main,ROXANNE,0,0,0,,What?
+Dialogue: 99,0:06:52.80,0:06:55.52,Main,ROXANNE,0,0,0,,Master, I thought you were level 20.
+Dialogue: 99,0:06:55.52,0:06:56.93,Main,MICHIO,0,0,0,,I was back then.
+Dialogue: 99,0:06:56.93,0:06:58.80,Main,ROXANNE,0,0,0,,Back then?
+Dialogue: 99,0:06:58.80,0:07:02.36,Main - Top,SHERRY,0,0,0,,Even for a level 33, \Na single blow shouldn't be possible.
+Dialogue: 99,0:06:59.65,0:07:03.14,Italics,MICHIO,0,0,0,,Plus I gain experience points \Na hundred times faster than others.
+Dialogue: 99,0:07:02.36,0:07:04.88,Main - Top,SHERRY,0,0,0,,Is it perhaps your sword instead?
+Dialogue: 99,0:07:04.88,0:07:07.82,Main,SHERRY,0,0,0,,I've heard there are incredible \Nweapons out there.
+Dialogue: 99,0:07:08.34,0:07:09.07,Main,MICHIO,0,0,0,,Well, you know.
+Dialogue: 99,0:07:09.44,0:07:11.50,Main,MICHIO,0,0,0,,Don't tell anyone.
+Dialogue: 99,0:07:11.50,0:07:13.16,Main,SHERRY,0,0,0,,Y-Yes, Master.
+Dialogue: 99,0:07:14.58,0:07:17.08,Main,MICHIO,0,0,0,,So this is dwarven cooking, huh?
+Dialogue: 99,0:07:18.35,0:07:20.28,Main,MICHIO,0,0,0,,It smells good.
+Dialogue: 99,0:07:20.28,0:07:22.67,Main,SHERRY,0,0,0,,I hope you like it.
+Dialogue: 99,0:07:23.35,0:07:25.78,Main,MICHIO,0,0,0,,What are you doing? \NSherry, sit with us.
+Dialogue: 99,0:07:27.00,0:07:30.37,Main,SHERRY,0,0,0,,Are you sure it's all right for me to sit?
+Dialogue: 99,0:07:30.37,0:07:31.93,Main,MICHIO,0,0,0,,Are you going to eat standing?
+Dialogue: 99,0:07:32.19,0:07:34.91,Main,SHERRY,0,0,0,,Can I really eat?
+Dialogue: 99,0:07:34.91,0:07:36.31,Main,ROXANNE,0,0,0,,Sherry.
+Dialogue: 99,0:07:36.31,0:07:40.67,Main,ROXANNE,0,0,0,,Our Master enjoys eating with us.
+Dialogue: 99,0:07:41.28,0:07:43.74,Main,ROXANNE,0,0,0,,Come sit next to me.
+Dialogue: 99,0:07:44.21,0:07:45.20,Main,SHERRY,0,0,0,,Okay.
+Dialogue: 99,0:07:51.16,0:07:54.78,Italics,MICHIO,0,0,0,,If I recall correctly, \Nserving the soup is the master's job.
+Dialogue: 99,0:07:55.85,0:07:57.67,Italics,MICHIO,0,0,0,,First, I'll serve myself.
+Dialogue: 99,0:07:58.75,0:08:02.75,Italics,MICHIO,0,0,0,,Next I'll serve Sherry \Nsince she made the food.
+Dialogue: 99,0:08:05.37,0:08:08.64,Italics,MICHIO,0,0,0,,What's going on? \NI feel her eyes boring into my skin.
+Dialogue: 99,0:08:10.68,0:08:13.34,Main,MICHIO,0,0,0,,Here you go, Roxanne.
+Dialogue: 99,0:08:14.90,0:08:17.43,Main,ROXANNE,0,0,0,,Thank you, Master.
+Dialogue: 99,0:08:17.43,0:08:19.52,Italics,MICHIO,0,0,0,,That was close.
+Dialogue: 99,0:08:19.52,0:08:21.59,Main - Top,MICHIO,0,0,0,,Here's yours, Sherry.
+Dialogue: 99,0:08:20.98,0:08:25.02,Italics,MICHIO,0,0,0,,I guess this means I need to \Nserve the number one slave first.
+Dialogue: 99,0:08:21.59,0:08:23.32,Main - Top,SHERRY,0,0,0,,Thank you.
+Dialogue: 99,0:08:27.45,0:08:28.54,Main,MICHIO,0,0,0,,It's good.
+Dialogue: 99,0:08:28.54,0:08:30.01,Main,ROXANNE,0,0,0,,It's delicious.
+Dialogue: 99,0:08:30.01,0:08:31.61,Main,SHERRY,0,0,0,,Thank you.
+Dialogue: 99,0:08:32.28,0:08:33.42,Main,SHERRY,0,0,0,,Come to think of it,
+Dialogue: 99,0:08:33.42,0:08:38.70,Main,SHERRY,0,0,0,,why did you go to the labyrinth earlier, \Nwhile we were preparing the bath and cooking?
+Dialogue: 99,0:08:39.58,0:08:42.24,Main,ROXANNE,0,0,0,,Preparing a bath is a lot of work.
+Dialogue: 99,0:08:42.24,0:08:44.32,Main,ROXANNE,0,0,0,,Weren't you doing it to blow off steam?
+Dialogue: 99,0:08:44.32,0:08:46.66,Main,MICHIO,0,0,0,,That's what you thought I was doing?
+Dialogue: 99,0:08:46.66,0:08:48.14,Main,ROXANNE,0,0,0,,You weren't?
+Dialogue: 99,0:08:48.14,0:08:49.75,Main,MICHIO,0,0,0,,No.
+Dialogue: 99,0:08:49.75,0:08:52.16,Main,MICHIO,0,0,0,,I do it to recover MP.
+Dialogue: 99,0:08:52.16,0:08:55.72,Main,MICHIO,0,0,0,,Durandal has the MP Absorption skill.
+Dialogue: 99,0:08:56.31,0:08:59.55,Main,MICHIO,0,0,0,,Come to think of it, \Nthere's something I want to ask you.
+Dialogue: 99,0:08:59.55,0:09:00.97,Main,SHERRY,0,0,0,,Was is it?
+Dialogue: 99,0:09:01.69,0:09:03.77,Main,MICHIO,0,0,0,,Wolfkin have the "Beast Warrior" job
+Dialogue: 99,0:09:04.54,0:09:06.78,Main,MICHIO,0,0,0,,and dwarves have the "Blacksmith" job.
+Dialogue: 99,0:09:06.78,0:09:09.56,Main,MICHIO,0,0,0,,Do humans have a unique job?
+Dialogue: 99,0:09:10.11,0:09:11.88,Main,ROXANNE,0,0,0,,Uh...
+Dialogue: 99,0:09:11.88,0:09:13.36,Main,SHERRY,0,0,0,,Um...
+Dialogue: 99,0:09:14.01,0:09:15.65,Main,ROXANNE,0,0,0,,I, um...
+Dialogue: 99,0:09:16.11,0:09:20.60,Main,ROXANNE,0,0,0,,As long as you'll take good \Ncare of me, I'll be fine.
+Dialogue: 99,0:09:20.60,0:09:23.46,Main,SHERRY,0,0,0,,I'm ready for whatever you \Nhave in store for me, too.
+Dialogue: 99,0:09:23.46,0:09:24.12,Main,MICHIO,0,0,0,,What?
+Dialogue: 99,0:09:24.60,0:09:30.88,Main,SHERRY,0,0,0,,Humans are a species whose desires \Nsometimes grow to a tremendous size.
+Dialogue: 99,0:09:31.24,0:09:35.90,Main,SHERRY,0,0,0,,So the uniquely human job is...
+Dialogue: 99,0:09:38.10,0:09:41.01,Main,SHERRY,0,0,0,,Sex Maniac.
+Dialogue: 99,0:09:41.28,0:09:43.02,Main,MICHIO,0,0,0,,Sex Maniac?
+Dialogue: 99,0:09:43.96,0:09:45.77,Italics,MICHIO,0,0,0,,What's wrong with humans?
+Dialogue: 99,0:09:48.16,0:09:50.40,Italics,MICHIO,0,0,0,,Sex Maniac, huh?
+Dialogue: 99,0:09:50.92,0:09:55.54,Italics,MICHIO,0,0,0,,In that case, I can't help \Nbut keep multiple slaves.
+Dialogue: 99,0:09:56.60,0:09:58.56,Main,MICHIO,0,0,0,,Come join me once you've undressed.
+Dialogue: 99,0:09:58.56,0:10:00.03,Italics,MICHIO,0,0,0,,After all, I'm human.
+Dialogue: 99,0:10:06.44,0:10:09.96,Italics,MICHIO,0,0,0,,The three of us are finally bathing together.
+Dialogue: 99,0:10:10.41,0:10:15.46,Italics,MICHIO,0,0,0,,I can't even imagine what it's like to bathe \Nwith two women who are there just for me.
+Dialogue: 99,0:10:15.46,0:10:20.08,Italics,MICHIO,0,0,0,,I wish I could watch the girls \Nundress, but Roxanne aside,
+Dialogue: 99,0:10:20.08,0:10:23.76,Italics,MICHIO,0,0,0,,if I don't want to be called out by \NSherry, I'll just have to deal with it.
+Dialogue: 99,0:10:24.74,0:10:27.96,Main,SHERRY,0,0,0,,Ms. Roxanne, yours are so big.
+Dialogue: 99,0:10:27.96,0:10:29.91,Main,ROXANNE,0,0,0,,Hardly.
+Dialogue: 99,0:10:29.91,0:10:32.95,Main,SHERRY,0,0,0,,But mine are so...
+Dialogue: 99,0:10:32.95,0:10:37.19,Main,ROXANNE,0,0,0,,They're very beautiful, even if they're small.
+Dialogue: 99,0:10:37.19,0:10:40.08,Italics,MICHIO,0,0,0,,What are those two doing together?
+Dialogue: 99,0:10:40.08,0:10:41.40,Italics,MICHIO,0,0,0,,I'm so jealous.
+Dialogue: 99,0:10:43.01,0:10:46.32,Italics,MICHIO,0,0,0,,Whoops, I should get the soap ready.
+Dialogue: 99,0:10:46.32,0:10:47.45,Main,ROXANNE,0,0,0,,Master.
+Dialogue: 99,0:10:47.87,0:10:49.00,Main,ROXANNE,0,0,0,,Excuse us.
+Dialogue: 99,0:10:49.10,0:10:50.71,Main,SHERRY,0,0,0,,Excuse us.
+Dialogue: 99,0:10:50.71,0:10:54.25,Main,MICHIO,0,0,0,,I'm also ready to...
+Dialogue: 99,0:11:04.22,0:11:06.43,Italics,MICHIO,0,0,0,,This is paradise!
+Dialogue: 99,0:11:06.43,0:11:10.99,Italics,MICHIO,0,0,0,,This must be a perk—\Nno, the privilege of being a master.
+Dialogue: 99,0:11:12.04,0:11:14.30,Main,MICHIO,0,0,0,,Sherry, what about your hair bands?
+Dialogue: 99,0:11:14.30,0:11:16.02,Main,SHERRY,0,0,0,,I'll remove them.
+Dialogue: 99,0:11:18.38,0:11:21.14,Main,MICHIO,0,0,0,,You've got a ton of hair.
+Dialogue: 99,0:11:24.74,0:11:25.83,Italics,MICHIO,0,0,0,,But...
+Dialogue: 99,0:11:27.17,0:11:29.62,Italics,MICHIO,0,0,0,,Once it's wet, there's no problem.
+Dialogue: 99,0:11:30.21,0:11:34.74,Italics,MICHIO,0,0,0,,When she's like this, you can tell she's \Nsmall and slender, but has a nice body.
+Dialogue: 99,0:11:35.24,0:11:39.19,Italics,MICHIO,0,0,0,,Plus her chest isn't so small \Nthat she needs to worry about it.
+Dialogue: 99,0:11:40.27,0:11:41.78,Main,MICHIO,0,0,0,,Shall we start washing?
+Dialogue: 99,0:11:41.78,0:11:42.93,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:11:42.93,0:11:46.20,Italics,MICHIO,0,0,0,,And now Roxanne is standing \Nright in front of me.
+Dialogue: 99,0:11:46.20,0:11:50.32,Italics,MICHIO,0,0,0,,There's a part of her I can't \Ntear my eyes away from.
+Dialogue: 99,0:11:53.24,0:11:55.16,Main,SHERRY,0,0,0,,I knew it.
+Dialogue: 99,0:11:55.16,0:11:57.69,Italics,MICHIO,0,0,0,,And now Sherry is lamenting her situation.
+Dialogue: 99,0:11:59.00,0:12:00.69,Italics,MICHIO,0,0,0,,But I can't help myself.
+Dialogue: 99,0:12:00.69,0:12:03.34,Italics,MICHIO,0,0,0,,I feel compelled to reach for them.
+Dialogue: 99,0:12:09.20,0:12:10.86,Italics,MICHIO,0,0,0,,This is fantastic.
+Dialogue: 99,0:12:10.86,0:12:12.62,Main,ROXANNE,0,0,0,,Thank you.
+Dialogue: 99,0:12:22.57,0:12:25.36,Main,MICHIO,0,0,0,,Okay. You're next, Sherry.
+Dialogue: 99,0:12:25.36,0:12:27.01,Main,SHERRY,0,0,0,,Yes, Master.
+Dialogue: 99,0:12:31.96,0:12:34.38,Main,SHERRY,0,0,0,,Please be gentle.
+Dialogue: 99,0:12:35.58,0:12:38.65,Italics,MICHIO,0,0,0,,She saw how I washed Roxanne.
+Dialogue: 99,0:12:38.92,0:12:41.03,Italics,MICHIO,0,0,0,,There's no need to be shy.
+Dialogue: 99,0:12:44.48,0:12:48.67,Italics,MICHIO,0,0,0,,Sherry's entire breasts fit in my hands.
+Dialogue: 99,0:12:50.26,0:12:51.50,Main,MICHIO,0,0,0,,Marvelous.
+Dialogue: 99,0:12:53.52,0:12:57.80,Main,SHERRY,0,0,0,,Um, I'm sorry they're so small.
+Dialogue: 99,0:12:57.80,0:13:01.18,Main,MICHIO,0,0,0,,They're not exceptionally small.
+Dialogue: 99,0:13:01.18,0:13:04.01,Main,SHERRY,0,0,0,,That's what I thought when \NI lived in my village.
+Dialogue: 99,0:13:04.33,0:13:08.14,Main,SHERRY,0,0,0,,But there were women at the \Ntrading house with large breasts.
+Dialogue: 99,0:13:08.45,0:13:10.90,Main,SHERRY,0,0,0,,And then there's Ms. Roxanne...
+Dialogue: 99,0:13:10.90,0:13:13.64,Main,MICHIO,0,0,0,,Hers are special. And besides,
+Dialogue: 99,0:13:13.64,0:13:15.81,Main,MICHIO,0,0,0,,it's the proportions that matter.
+Dialogue: 99,0:13:15.81,0:13:19.32,Main,MICHIO,0,0,0,,Yours are plenty big considering your height.
+Dialogue: 99,0:13:19.32,0:13:21.20,Main,MICHIO,0,0,0,,You should be confident in yourself.
+Dialogue: 99,0:13:21.20,0:13:23.54,Main,SHERRY,0,0,0,,Thank you.
+Dialogue: 99,0:13:25.30,0:13:29.08,Main,ROXANNE,0,0,0,,Sherry, let's wash our master now.
+Dialogue: 99,0:13:29.66,0:13:32.66,Main,SHERRY,0,0,0,,Okay. Um, how?
+Dialogue: 99,0:13:32.66,0:13:34.04,Main,ROXANNE,0,0,0,,Like this.
+Dialogue: 99,0:13:34.73,0:13:40.49,Main,ROXANNE,0,0,0,,We'll use our bodies to clean \Nevery last inch of his.
+Dialogue: 99,0:13:41.87,0:13:46.58,Main,ROXANNE,0,0,0,,Rather than using brute force, \Ngently envelop him with the bubbles.
+Dialogue: 99,0:13:47.36,0:13:52.07,Main,ROXANNE,0,0,0,,Use your entire body so you \Nslide into every crevice.
+Dialogue: 99,0:14:02.64,0:14:05.22,Main,ROXANNE,0,0,0,,Sherry, could you start on the right side?
+Dialogue: 99,0:14:05.22,0:14:06.90,Main,SHERRY,0,0,0,,U-Um...
+Dialogue: 99,0:14:09.20,0:14:11.71,Main,SHERRY,0,0,0,,I'll do my best.
+Dialogue: 99,0:14:11.71,0:14:14.12,Main,MICHIO,0,0,0,,Sure, thanks.
+Dialogue: 99,0:14:37.43,0:14:39.33,Main,SHERRY,0,0,0,,How's that?
+Dialogue: 99,0:14:39.90,0:14:40.82,Main,MICHIO,0,0,0,,Good.
+Dialogue: 99,0:14:41.48,0:14:43.05,Main,ROXANNE,0,0,0,,Thank you.
+Dialogue: 99,0:14:44.14,0:14:48.78,Main,MICHIO,0,0,0,,Okay, let's wash off these \Nbubbles and get in the bath.
+Dialogue: 99,0:14:49.40,0:14:50.30,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:14:51.24,0:14:52.25,Main,SHERRY,0,0,0,,Yes, Master.
+Dialogue: 99,0:14:56.44,0:14:58.54,Main,ROXANNE,0,0,0,,This feels nice.
+Dialogue: 99,0:14:58.54,0:15:00.30,Main,MICHIO,0,0,0,,Totally.
+Dialogue: 99,0:15:01.92,0:15:03.71,Italics,MICHIO,0,0,0,,Roxanne on my right.
+Dialogue: 99,0:15:04.39,0:15:06.46,Italics,MICHIO,0,0,0,,Sherry on my left.
+Dialogue: 99,0:15:06.93,0:15:10.47,Italics,MICHIO,0,0,0,,Two beautiful women on either \Nside of me. This is it.
+Dialogue: 99,0:15:10.96,0:15:13.60,Italics,MICHIO,0,0,0,,This is every man's dream.
+Dialogue: 99,0:15:13.60,0:15:15.78,Italics,MICHIO,0,0,0,,I'm living in luxury now.
+Dialogue: 99,0:15:16.90,0:15:18.98,Main,MICHIO,0,0,0,,This is incredible.
+Dialogue: 99,0:15:30.43,0:15:31.74,Main,MICHIO,0,0,0,,Okay, you two.
+Dialogue: 99,0:15:32.16,0:15:33.37,Main,MICHIO,0,0,0,,Come here.
+Dialogue: 99,0:15:34.12,0:15:36.06,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:15:36.84,0:15:38.59,Main,SHERRY,0,0,0,,Yes, Master.
+Dialogue: 99,0:15:40.38,0:15:41.25,Main,MICHIO,0,0,0,,Huh?
+Dialogue: 99,0:15:42.14,0:15:44.70,Main,MICHIO,0,0,0,,Your hair is looking really tidy.
+Dialogue: 99,0:15:44.70,0:15:49.80,Main,SHERRY,0,0,0,,Oh, yes. Soap is incredible.
+Dialogue: 99,0:15:50.48,0:15:52.74,Main,ROXANNE,0,0,0,,It's our master's soap, after all.
+Dialogue: 99,0:15:54.00,0:15:56.11,Main,MICHIO,0,0,0,,Sherry, come here.
+Dialogue: 99,0:15:56.57,0:15:57.42,Main,SHERRY,0,0,0,,Yes, Master.
+Dialogue: 99,0:16:03.00,0:16:07.39,Main,MICHIO,0,0,0,,I want you to kiss me before I \Ngo to sleep and after I wake up.
+Dialogue: 99,0:16:07.98,0:16:10.42,Main,SHERRY,0,0,0,,U-Understood.
+Dialogue: 99,0:16:10.82,0:16:13.38,Italics,MICHIO,0,0,0,,I've explained our household's rules to her.
+Dialogue: 99,0:16:13.82,0:16:16.45,Italics,MICHIO,0,0,0,,Okay, I'm running out of patience.
+Dialogue: 99,0:16:16.45,0:16:18.11,Italics,MICHIO,0,0,0,,I can't take it anymore.
+Dialogue: 99,0:16:18.11,0:16:21.41,Italics,MICHIO,0,0,0,,It's time to dig in.
+Dialogue: 99,0:16:25.13,0:16:26.33,Italics,MICHIO,0,0,0,,Shit.
+Dialogue: 99,0:16:27.12,0:16:28.42,Italics,MICHIO,0,0,0,,I forgot about the order.
+Dialogue: 99,0:16:28.42,0:16:31.59,Italics,MICHIO,0,0,0,,Roxanne always needs to be first.
+Dialogue: 99,0:16:32.01,0:16:35.11,Main,MICHIO,0,0,0,,S-Since this is what we do \Nbefore going to sleep,
+Dialogue: 99,0:16:35.11,0:16:38.72,Main,MICHIO,0,0,0,,as number one, you'll be \Nthe very last one, Roxanne.
+Dialogue: 99,0:16:41.88,0:16:44.49,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
+Dialogue: 99,0:16:45.23,0:16:48.48,Italics,MICHIO,0,0,0,,Whew, that was close.
+Dialogue: 99,0:16:48.88,0:16:53.18,Italics,MICHIO,0,0,0,,I broke into a different kind of sweat \Nbefore we're about to get sweaty.
+Dialogue: 99,0:16:56.01,0:16:57.43,Main,ROXANNE,0,0,0,,Master...
+Dialogue: 99,0:17:38.00,0:17:40.62,Main,ROXANNE,0,0,0,,Thank you.
+Dialogue: 99,0:17:42.99,0:17:44.00,Main,MICHIO,0,0,0,,Sherry.
+Dialogue: 99,0:17:45.47,0:17:47.30,Main,MICHIO,0,0,0,,It's your turn now.
+Dialogue: 99,0:17:50.23,0:17:51.67,Main,SHERRY,0,0,0,,Yes, Master.
+Dialogue: 99,0:17:55.89,0:17:59.41,Main,SHERRY,0,0,0,,Please take good care of me.
+Dialogue: 99,0:18:16.80,0:18:18.20,Main,MICHIO,0,0,0,,Were you watching the whole time?
+Dialogue: 99,0:18:18.87,0:18:20.07,Main,SHERRY,0,0,0,,Yes.
+Dialogue: 99,0:18:20.76,0:18:25.12,Main,SHERRY,0,0,0,,I was curious to see how \Nyou'd take care of her.
+Dialogue: 99,0:18:25.61,0:18:27.17,Main,SHERRY,0,0,0,,I'm sorry.
+Dialogue: 99,0:18:27.17,0:18:27.96,Main,MICHIO,0,0,0,,It's fine.
+Dialogue: 99,0:18:28.40,0:18:29.94,Main,MICHIO,0,0,0,,You can do what you want.
+Dialogue: 99,0:18:31.14,0:18:32.59,Main,MICHIO,0,0,0,,And...
+Dialogue: 99,0:18:35.00,0:18:36.30,Main,SHERRY,0,0,0,,Yes?
+Dialogue: 99,0:18:37.11,0:18:38.80,Main,MICHIO,0,0,0,,Let me know if it's too much for you.
+Dialogue: 99,0:18:38.80,0:18:40.18,Main,SHERRY,0,0,0,,It's all right.
+Dialogue: 99,0:18:42.65,0:18:43.70,Main,SHERRY,0,0,0,,Go ahead.
+Dialogue: 99,0:18:51.24,0:18:52.40,Main,MICHIO,0,0,0,,Are you okay?
+Dialogue: 99,0:18:53.23,0:18:55.15,Main,SHERRY,0,0,0,,I'm fine.
+Dialogue: 99,0:18:56.22,0:18:58.95,Main,SHERRY,0,0,0,,I'm okay.
+Dialogue: 99,0:18:59.65,0:19:03.16,Main,SHERRY,0,0,0,,Please do as you'd like.
+Dialogue: 99,0:19:04.12,0:19:05.19,Main,MICHIO,0,0,0,,Sherry...
+Dialogue: 99,0:19:20.52,0:19:22.39,Main,MICHIO,0,0,0,,Sherry, Roxanne...
+Dialogue: 99,0:19:22.39,0:19:25.51,Main,MICHIO,0,0,0,,I can't take it anymore.
+Dialogue: 99,0:19:25.51,0:19:26.90,Main,SHERRY,0,0,0,,Understood.
+Dialogue: 99,0:19:27.93,0:19:32.98,Main,SHERRY,0,0,0,,Go ahead. \NWhenever you're ready, Master.
+Dialogue: 99,0:19:47.32,0:19:51.72,Italics,MICHIO,0,0,0,,They're both... amazing.
+Dialogue: 99,0:19:55.29,0:19:56.63,Main,ROXANNE,0,0,0,,You worked really hard.
+Dialogue: 99,0:19:57.03,0:19:58.89,Main,ROXANNE,0,0,0,,Good girl, Sherry.
+Dialogue: 99,0:19:59.96,0:20:04.28,Main,SHERRY,0,0,0,,Um, is it always this crazy?
+Dialogue: 99,0:20:05.14,0:20:10.93,Main,ROXANNE,0,0,0,,I think he was a little excited \Ntoday because you were here.
+Dialogue: 99,0:20:12.02,0:20:13.31,Main,SHERRY,0,0,0,,Um...
+Dialogue: 99,0:20:14.16,0:20:15.05,Main,ROXANNE,0,0,0,,Yes?
+Dialogue: 99,0:20:15.92,0:20:21.87,Main,SHERRY,0,0,0,,Ms. Roxanne, I look forward \Nto working with you.
+Dialogue: 99,0:20:23.12,0:20:27.58,Main,ROXANNE,0,0,0,,And I look forward to \Nworking with you, Sherry.
+Dialogue: 99,0:20:31.23,0:20:32.21,Main,MICHIO,0,0,0,,Whoa.
+Dialogue: 99,0:20:32.96,0:20:35.09,Main,MICHIO,0,0,0,,Your bedhead is crazy.
+Dialogue: 99,0:20:35.53,0:20:38.59,Main,SHERRY,0,0,0,,Perhaps it's because my hair is lighter now.
+Dialogue: 99,0:20:45.18,0:20:48.47,Main,ROXANNE,0,0,0,,The weather's nice again today, Master.
+Dialogue: 99,0:20:48.72,0:20:50.64,Main,MICHIO,0,0,0,,Yeah, it sure is.
+Dialogue: 99,0:20:53.86,0:20:56.62,Italics,MICHIO,0,0,0,,After all we did, I'm not surprised.
+Dialogue: 99,0:20:58.63,0:21:03.99,Italics,MICHIO,0,0,0,,The bonuses to Spirit, Intelligence, \Nand MP will be nice since I use magic.
+Dialogue: 99,0:21:04.29,0:21:06.74,Italics,MICHIO,0,0,0,,I can guess what Enhanced Vigor means,
+Dialogue: 99,0:21:07.24,0:21:09.62,Italics,MICHIO,0,0,0,,but what's Abstinence Attack?
+Dialogue: 99,0:21:10.54,0:21:13.55,Main,ROXANNE,0,0,0,,Is something the matter, Master?
+Dialogue: 99,0:21:13.55,0:21:15.34,Main,MICHIO,0,0,0,,It's nothing.
+Dialogue: 99,0:21:16.51,0:21:21.10,Italics,MICHIO,0,0,0,,In any case, now I'm a Sex Maniac, too.
+Dialogue: 99,0:21:22.53,0:21:26.88,Italics,MICHIO,0,0,0,,Didn't she say human desires \Ngrow to massive proportions?
+Dialogue: 99,0:21:26.88,0:21:28.14,Italics,MICHIO,0,0,0,,Fine, then.
+Dialogue: 99,0:21:28.14,0:21:31.80,Italics,MICHIO,0,0,0,,If that's the case, then I'll \Nlet them grow out of control.
+Dialogue: 99,0:21:32.74,0:21:33.80,Main,MICHIO,0,0,0,,Slaves.
+Dialogue: 99,0:21:33.80,0:21:34.60,Main,BOTH,0,0,0,,What?
+Dialogue: 99,0:21:34.60,0:21:36.48,Main,MICHIO,0,0,0,,I'm gonna buy more slaves.
+Dialogue: 99,0:21:36.48,0:21:40.31,Main,MICHIO,0,0,0,,I'm gonna make myself a harem!
+Dialogue: 99,0:21:55.62,0:21:57.71,Main,SHERRY,0,0,0,,I hope she drops dead.
+Dialogue: 99,0:22:05.72,0:22:07.51,Main,AUCTIONEER,0,0,0,,640 thousand nars!
+Dialogue: 99,0:22:07.96,0:22:09.39,Main,AUCTIONEER,0,0,0,,Sold!
+Dialogue: 99,0:22:20.06,0:22:22.44,Main,SHERRY,0,0,0,,I hope she drops dead.
+Dialogue: 99,0:22:25.77,0:22:29.53,Main,VESTA,0,0,0,,Well? Are you enjoying this?
+Dialogue: 99,0:22:30.92,0:22:34.98,Main,HARTZ,0,0,0,,Mr. Michio, would you be willing to take her?
+Dialogue: 99,0:22:43.78,0:22:46.71,Main,RUTINA,0,0,0,,I decided to join you, as well.
+Dialogue: 99,0:22:47.10,0:22:49.59,Italics,SHERRY,0,0,0,,I hope she drops dead.
+Dialogue: 99,0:22:50.24,0:22:54.32,Main,RUTINA,0,0,0,,But... I could never...
+Dialogue: 99,0:22:59.62,0:23:01.15,Main,ROXANNE,0,0,0,,Master.
+Dialogue: 99,0:23:01.42,0:23:03.52,Main,ROXANNE,0,0,0,,Please take care of me next.
+Dialogue: 99,0:23:03.52,0:23:05.14,Main,SHERRY,0,0,0,,That's not fair, Ms. Roxanne.
+Dialogue: 99,0:23:05.14,0:23:07.11,Main,VESTA,0,0,0,,Don't try to steal a march on us.
+Dialogue: 99,0:23:07.11,0:23:08.74,Main,MIRIA,0,0,0,,Let me lick you.
+Dialogue: 99,0:23:08.74,0:23:09.46,Main,SHERRY,0,0,0,,Miria!
+Dialogue: 99,0:23:09.46,0:23:11.98,Main,RUTINA,0,0,0,,Mr. Michio, I could go again.
+Dialogue: 99,0:23:11.98,0:23:13.16,Main,ROXANNE,0,0,0,,Rutina?
+Dialogue: 99,0:23:13.16,0:23:15.61,Main,ROXANNE,0,0,0,,You just finished.
+Dialogue: 99,0:23:15.61,0:23:19.32,Italics,MICHIO,0,0,0,,So good. This isekai is the best.
+Dialogue: 99,0:23:20.42,0:23:21.59,Main,MICHIO,0,0,0,,Roxanne.
+Dialogue: 99,0:23:21.59,0:23:22.13,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:23:22.13,0:23:22.91,Main,MICHIO,0,0,0,,Sherry.
+Dialogue: 99,0:23:22.91,0:23:23.58,Main,SHERRY,0,0,0,,Yes?
+Dialogue: 99,0:23:23.88,0:23:24.44,Main,MICHIO,0,0,0,,Miria.
+Dialogue: 99,0:23:24.44,0:23:25.50,Main,MIRIA,0,0,0,,Yes, sir.
+Dialogue: 99,0:23:25.50,0:23:26.42,Main,MICHIO,0,0,0,,Vesta.
+Dialogue: 99,0:23:26.42,0:23:27.09,Main,VESTA,0,0,0,,Yes, Master.
+Dialogue: 99,0:23:27.09,0:23:27.90,Main,MICHIO,0,0,0,,Rutina.
+Dialogue: 99,0:23:27.90,0:23:28.67,Main,RUTINA,0,0,0,,Yes, Master.
+Dialogue: 99,0:23:28.67,0:23:29.88,Main,MICHIO,0,0,0,,Come on.
+Dialogue: 99,0:23:29.88,0:23:32.52,Main,MICHIO,0,0,0,,I'll do all of you at once.
+Dialogue: 99,0:23:32.52,0:23:34.79,Main,ALL,0,0,0,,Yes, Master.
 Dialogue: 0,0:01:40.28,0:01:45.07,Sign_Basic,ShowTitle,0,0,0,,{\fad(1500,0)\fnTimes New Roman\b1\c&H8A0001&\bord9\3c&HFFFFFF&\blur9\shad0\fs90\fscy150}in the Labyrinth of Another World
 Dialogue: 0,0:01:41.82,0:01:45.07,Sign_Basic,ShowTitle,0,0,0,,{\fad(1075,0)\pos(960,30)\bord9\an8\fnTimes New Roman\b1\fs132\fsp30\shad0\c&HFFFFFF&\3c&H2281EA&\blur9}H{\3c&H3463E2&}a{\3c&H4546D9&}r{\3c&H5728D1&}e{\3c&H680AC8&}m
 Dialogue: 0,0:00:00.77,0:00:05.98,Onscreen_Text,SIGN,0,0,0,,{\fad(700,750)\pos(960,948)\an2\fs120\c&HFFFFFF&\shad0\1a&H20&}Quratar

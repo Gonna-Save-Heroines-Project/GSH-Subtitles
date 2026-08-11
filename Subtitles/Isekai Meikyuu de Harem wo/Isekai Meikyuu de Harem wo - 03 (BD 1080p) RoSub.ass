@@ -44,310 +44,310 @@ Style: Status Text,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:00.56,0:00:04.47,Italics,MICHIO,0,0,0,,If I want to acquire a large sum of \Nmoney, I'll have to hunt bandits.
-Dialogue: 100,0:00:09.24,0:00:11.16,Italics,MICHIO,0,0,0,,The question is how I'll do it.
-Dialogue: 100,0:00:11.75,0:00:16.37,Italics,MICHIO,0,0,0,,Depending on the circumstances, I could \Nend up facing multiple bandits at once.
-Dialogue: 100,0:00:17.52,0:00:20.08,Italics,MICHIO,0,0,0,,But this time, I won't be \Nattacking a distracted opponent.
-Dialogue: 100,0:00:21.38,0:00:24.00,Italics,MICHIO,0,0,0,,Am I strong enough to do it?
-Dialogue: 100,0:00:24.00,0:00:26.08,Italics,MICHIO,0,0,0,,No, I {\i0}have{\i1} to.
-Dialogue: 100,0:00:26.43,0:00:27.51,Italics,MICHIO,0,0,0,,Job Settings.
-Dialogue: 100,0:00:28.41,0:00:29.66,Italics,MICHIO,0,0,0,,Hey, I've got more new jobs.
-Dialogue: 100,0:00:31.09,0:00:33.00,Italics,MICHIO,0,0,0,,How's Warrior?
-Dialogue: 100,0:00:33.00,0:00:35.97,Italics,MICHIO,0,0,0,,It has stronger effects than \NVillager, and it's got a skill.
-Dialogue: 100,0:00:36.28,0:00:38.43,Italics,MICHIO,0,0,0,,I'll keep Hero, and...
-Dialogue: 100,0:00:39.63,0:00:43.43,Italics,MICHIO,0,0,0,,Given what I'm about to do, \Nthis is the best setup.
-Dialogue: 100,0:00:46.82,0:00:49.73,Italics,MICHIO,0,0,0,,Starting tomorrow, I'll be walking.
-Dialogue: 100,0:02:30.53,0:02:31.52,Italics,MICHIO,0,0,0,,Identify.
-Dialogue: 100,0:02:36.67,0:02:38.63,Italics,MICHIO,0,0,0,,None here.
-Dialogue: 100,0:02:39.13,0:02:41.98,Italics,MICHIO,0,0,0,,But having access to Identify \Nis a huge advantage.
-Dialogue: 100,0:02:41.98,0:02:44.44,Italics,MICHIO,0,0,0,,I can tell at a glance who's a bandit.
-Dialogue: 100,0:02:44.44,0:02:45.64,Main,VILLAGER A,0,0,0,,The bandits?
-Dialogue: 100,0:02:45.64,0:02:48.82,Main,VILLAGER B,0,0,0,,Yeah. Word is, they're being \Ntaken out one after another.
-Dialogue: 100,0:02:48.82,0:02:51.15,Main,VILLAGER A,0,0,0,,Maybe they're getting revenge.
-Dialogue: 100,0:02:51.15,0:02:54.59,Main,VILLAGER A,0,0,0,,It's probably those guys who were \Nchased out of the slums to the north.
-Dialogue: 100,0:02:54.59,0:02:55.65,Italics,MICHIO,0,0,0,,The slums?
-Dialogue: 100,0:02:56.20,0:02:59.53,Flashback,SOMARA,0,0,0,,Mr. Michio, try not to look around too much.
-Dialogue: 100,0:02:59.99,0:03:03.21,Flashback,SOMARA,0,0,0,,There are some unsafe areas around here.
-Dialogue: 100,0:03:03.21,0:03:07.79,Flashback,SOMARA,0,0,0,,There are brothels, as well, \Nbut I wouldn't recommend going inside them.
-Dialogue: 100,0:03:12.36,0:03:13.25,Main,MICHIO,0,0,0,,Teleport.
-Dialogue: 100,0:03:18.11,0:03:19.80,Italics,MICHIO,0,0,0,,The air here is different.
-Dialogue: 100,0:03:19.80,0:03:21.32,Italics,MICHIO,0,0,0,,It smells like sewage.
-Dialogue: 100,0:03:22.48,0:03:25.22,Italics,MICHIO,0,0,0,,In addition to being the \Nendpoint of the sewer,
-Dialogue: 100,0:03:25.22,0:03:27.66,Italics,MICHIO,0,0,0,,it's also where outcasts and wretches end up.
-Dialogue: 100,0:03:28.53,0:03:29.60,Italics,MICHIO,0,0,0,,Identify.
-Dialogue: 100,0:03:30.59,0:03:32.71,Italics,MICHIO,0,0,0,,I don't see any bandits.
-Dialogue: 100,0:03:32.71,0:03:34.66,Italics,MICHIO,0,0,0,,Are they being cautious?
-Dialogue: 100,0:03:34.66,0:03:39.14,Italics,MICHIO,0,0,0,,I suppose bandits wouldn't boldly \Nwalk around in broad daylight.
-Dialogue: 100,0:03:39.14,0:03:41.33,Italics,MICHIO,0,0,0,,This stench alone is going to make me sick.
-Dialogue: 100,0:03:41.33,0:03:42.59,Italics,MICHIO,0,0,0,,Teleport.
-Dialogue: 100,0:03:43.39,0:03:45.37,Italics,MICHIO,0,0,0,,I'll check it out again at night.
-Dialogue: 100,0:03:53.49,0:03:57.50,Italics,MICHIO,0,0,0,,I stopped becoming depressed even \Nafter repeated uses of Teleport.
-Dialogue: 100,0:03:57.85,0:04:01.26,Italics,MICHIO,0,0,0,,Must be because of the levels \NI gained fighting that battle.
-Dialogue: 100,0:04:01.51,0:04:04.00,Italics,MICHIO,0,0,0,,I turned that potential \Ndisaster into good fortune.
-Dialogue: 100,0:04:04.00,0:04:08.26,Italics,MICHIO,0,0,0,,I should be able to handle some \Nbandits even if the worst happens.
-Dialogue: 100,0:04:08.71,0:04:11.41,Main,MICHIO,0,0,0,,Time to resume exploring.
-Dialogue: 100,0:04:14.32,0:04:15.96,Main,INNKEEPER,0,0,0,,Going back into the labyrinth?
-Dialogue: 100,0:04:15.96,0:04:18.21,Main,MICHIO,0,0,0,,Yeah. Hold onto my key for me.
-Dialogue: 100,0:04:18.21,0:04:19.44,Main,INNKEEPER,0,0,0,,Sure thing.
-Dialogue: 100,0:04:19.44,0:04:21.18,Main,INNKEEPER,0,0,0,,You're working hard, aren't you?
-Dialogue: 100,0:04:22.08,0:04:24.07,Main,INNKEEPER,0,0,0,,You don't need a lantern?
-Dialogue: 100,0:04:31.72,0:04:33.72,Italics,MICHIO,0,0,0,,I'm glad I borrowed this.
-Dialogue: 100,0:04:33.72,0:04:37.17,Italics,MICHIO,0,0,0,,It only illuminates the area right around \Nmy feet, but it's better than not having it.
-Dialogue: 100,0:04:38.04,0:04:40.09,Italics,MICHIO,0,0,0,,This is my first time out \Non the town at night.
-Dialogue: 100,0:04:40.38,0:04:42.42,Italics,MICHIO,0,0,0,,Is there anything different at night?
-Dialogue: 100,0:04:42.42,0:04:43.53,Italics,MICHIO,0,0,0,,Identify.
-Dialogue: 100,0:04:47.44,0:04:49.92,Italics,MICHIO,0,0,0,,Still no bandits.
-Dialogue: 100,0:04:49.92,0:04:53.35,Italics,MICHIO,0,0,0,,I thought they'd be around \Nat night. Oh, well.
-Dialogue: 100,0:04:58.47,0:04:59.50,Italics,MICHIO,0,0,0,,What is that?
-Dialogue: 100,0:05:05.80,0:05:08.82,Italics,MICHIO,0,0,0,,This is totally different from the \Nred light district during the day.
-Dialogue: 100,0:05:10.58,0:05:14.17,Italics,MICHIO,0,0,0,,The lights at night make it \Nseem so much more dazzling.
-Dialogue: 100,0:05:19.91,0:05:21.96,Italics,MICHIO,0,0,0,,Calm down, calm down.
-Dialogue: 100,0:05:24.69,0:05:26.34,Italics,MICHIO,0,0,0,,Think about it.
-Dialogue: 100,0:05:26.77,0:05:28.70,Italics,MICHIO,0,0,0,,I could get ripped off.
-Dialogue: 100,0:05:31.22,0:05:34.22,Italics,MICHIO,0,0,0,,And I can't imagine there's anyone \Nhere as beautiful as Roxanne.
-Dialogue: 100,0:05:37.04,0:05:39.01,Italics,MICHIO,0,0,0,,Not entering a shop is the right choice.
-Dialogue: 100,0:05:49.96,0:05:50.81,Italics,MICHIO,0,0,0,,Identify.
-Dialogue: 100,0:05:53.76,0:05:55.10,Italics,MICHIO,0,0,0,,Found one.
-Dialogue: 100,0:06:03.86,0:06:07.30,Italics,MICHIO,0,0,0,,He's definitely heading towards the slums.
-Dialogue: 100,0:06:18.54,0:06:20.67,Italics,MICHIO,0,0,0,,Are there no other bandits?
-Dialogue: 100,0:06:23.72,0:06:24.65,Italics,MICHIO,0,0,0,,Identify.
-Dialogue: 100,0:06:29.24,0:06:31.45,Italics,MICHIO,0,0,0,,If there are lookouts posted outside,
-Dialogue: 100,0:06:31.45,0:06:34.16,Italics,MICHIO,0,0,0,,then that single-story house must \Nbe the bandits' headquarters.
-Dialogue: 100,0:06:34.16,0:06:34.98,Italics,MICHIO,0,0,0,,Teleport.
-Dialogue: 100,0:06:39.52,0:06:42.00,Main,LV9 BANDIT,0,0,0,,Yeah, we've got Hugo to thank for that.
-Dialogue: 100,0:06:42.47,0:06:44.44,Italics,MICHIO,0,0,0,,Did he just say Hugo?
-Dialogue: 100,0:06:45.97,0:06:52.20,Italics,MICHIO,0,0,0,,I think the bandit boss I beheaded \Nin the starting town was Hugo.
-Dialogue: 100,0:06:52.82,0:06:57.47,Italics,MICHIO,0,0,0,,Which means he's one of the remaining \Nbandits who were chased out of town
-Dialogue: 100,0:06:57.47,0:06:59.48,Italics,MICHIO,0,0,0,,or an associate of Hugo.
-Dialogue: 100,0:06:59.77,0:07:02.48,Italics,MICHIO,0,0,0,,I need to do more research.
-Dialogue: 100,0:07:04.73,0:07:08.98,Italics,MICHIO,0,0,0,,I see. I'm starting to get a sense \Nof what this town's like at night.
-Dialogue: 100,0:07:09.80,0:07:11.36,Italics,MICHIO,0,0,0,,Perhaps because people \Ntypically stay overnight,
-Dialogue: 100,0:07:11.36,0:07:13.82,Italics,MICHIO,0,0,0,,the businesses in the red \Nlight district close early,
-Dialogue: 100,0:07:13.82,0:07:16.37,Italics,MICHIO,0,0,0,,starting with shops that attract customers.
-Dialogue: 100,0:07:16.81,0:07:19.57,Italics,MICHIO,0,0,0,,Then the bandits come out to play.
-Dialogue: 100,0:07:19.57,0:07:25.19,Italics,MICHIO,0,0,0,,Like guards, they either patrol the town \Nand stand at crossroads or carouse at bars.
-Dialogue: 100,0:07:26.17,0:07:29.95,Italics,MICHIO,0,0,0,,Even the bandits must have \Ngroups and territories.
-Dialogue: 100,0:07:31.03,0:07:34.51,Italics,MICHIO,0,0,0,,And they avoid interacting with \Neach other to an unnatural degree.
-Dialogue: 100,0:07:34.51,0:07:38.71,Italics,MICHIO,0,0,0,,That guy who was standing in basically \Nthe same place yesterday is one of them.
-Dialogue: 100,0:07:38.71,0:07:43.27,Italics,MICHIO,0,0,0,,It's not much, but this area must be his.
-Dialogue: 100,0:07:43.60,0:07:46.21,Italics,MICHIO,0,0,0,,Even if I hunted his group,
-Dialogue: 100,0:07:46.21,0:07:50.53,Italics,MICHIO,0,0,0,,the other groups would see it as someone \Nelse's problem and wouldn't make a fuss.
-Dialogue: 100,0:07:53.12,0:07:57.87,Italics,MICHIO,0,0,0,,If individual groups avoid interacting \Nwith each other, then I can make it work.
-Dialogue: 100,0:08:03.20,0:08:05.14,Main,INNKEEPER,0,0,0,,Welcome back.
-Dialogue: 100,0:08:05.14,0:08:07.13,Main,INNKEEPER,0,0,0,,You were out late in the labyrinth.
-Dialogue: 100,0:08:07.37,0:08:10.46,Main,INNKEEPER,0,0,0,,Have something to eat. \NIt's on the house.
-Dialogue: 100,0:08:11.70,0:08:13.26,Main,INNKEEPER,0,0,0,,The murders?
-Dialogue: 100,0:08:13.65,0:08:15.54,Main,INNKEEPER,0,0,0,,Those murders, huh?
-Dialogue: 100,0:08:15.54,0:08:19.67,Main,INNKEEPER,0,0,0,,There's a power struggle between the bandits \Nwho live in the slums of this town.
-Dialogue: 100,0:08:19.67,0:08:21.77,Main,MICHIO,0,0,0,,I heard it was revenge.
-Dialogue: 100,0:08:22.97,0:08:24.77,Main,INNKEEPER,0,0,0,,You know about that?
-Dialogue: 100,0:08:25.40,0:08:28.23,Main,INNKEEPER,0,0,0,,Between you and me, that's made up.
-Dialogue: 100,0:08:28.23,0:08:29.28,Main,MICHIO,0,0,0,,Oh?
-Dialogue: 100,0:08:29.28,0:08:32.77,Main,INNKEEPER,0,0,0,,A little while ago, there was a change \Nin leadership within a certain group.
-Dialogue: 100,0:08:32.77,0:08:36.49,Main,INNKEEPER,0,0,0,,There was a succession dispute and the \Nlosing faction was run out of town.
-Dialogue: 100,0:08:37.77,0:08:39.84,Main,MICHIO,0,0,0,,There are bandit factions?
-Dialogue: 100,0:08:39.84,0:08:41.37,Main,INNKEEPER,0,0,0,,The men who were killed the other day
-Dialogue: 100,0:08:41.37,0:08:45.22,Main,INNKEEPER,0,0,0,,were bandits who won the succession \Ndispute and remained in town,
-Dialogue: 100,0:08:45.22,0:08:47.63,Main,INNKEEPER,0,0,0,,but they're being targeted \Nby other groups, too.
-Dialogue: 100,0:08:47.63,0:08:50.72,Main,MICHIO,0,0,0,,So they're making it look like \Nthe work of the banished bandits
-Dialogue: 100,0:08:50.72,0:08:53.49,Main,MICHIO,0,0,0,,and using this opportunity to take them down?
-Dialogue: 100,0:08:53.49,0:08:54.88,Main,INNKEEPER,0,0,0,,Maybe, maybe not.
-Dialogue: 100,0:08:55.41,0:08:58.55,Main,INNKEEPER,0,0,0,,There might be some trouble \Nover in the slums,
-Dialogue: 100,0:08:58.55,0:09:02.17,Main,INNKEEPER,0,0,0,,but this area is safe, under the \Nwatchful gaze of the knights.
-Dialogue: 100,0:09:06.42,0:09:10.52,Italics,MICHIO,0,0,0,,I avoided entering the bandits' hideout \Nwithout knowing what was going on.
-Dialogue: 100,0:09:10.80,0:09:15.44,Italics,MICHIO,0,0,0,,If I end up talking to the bandits, \Nthen it'll be easier to work something out.
-Dialogue: 100,0:09:19.20,0:09:20.85,Italics,MICHIO,0,0,0,,Roxanne...
-Dialogue: 100,0:09:21.45,0:09:25.87,Italics,MICHIO,0,0,0,,Her branches so heavy with enormous fruit...
-Dialogue: 100,0:09:28.46,0:09:32.17,Italics,MICHIO,0,0,0,,I'll peel them ever so gently...
-Dialogue: 100,0:09:32.56,0:09:34.09,Italics,MICHIO,0,0,0,,And taste them...
-Dialogue: 100,0:09:40.41,0:09:41.51,Italics,MICHIO,0,0,0,,They're hard?
-Dialogue: 100,0:09:45.46,0:09:46.78,Main,MICHIO,0,0,0,,Sho harf...
-Dialogue: 100,0:09:50.29,0:09:53.44,Italics,MICHIO,0,0,0,,I was so nervous, I didn't get much sleep.
-Dialogue: 100,0:09:53.73,0:09:56.36,Italics,MICHIO,0,0,0,,But now's a good time.
-Dialogue: 100,0:09:56.36,0:09:58.40,Italics,MICHIO,0,0,0,,I've got my Thief's Bandanna.
-Dialogue: 100,0:09:58.40,0:10:01.50,Italics,MICHIO,0,0,0,,I can equip Durandal anytime, too.
-Dialogue: 100,0:10:12.84,0:10:13.81,Main,MICHIO,0,0,0,,You got a minute?
-Dialogue: 100,0:10:18.51,0:10:19.24,Main,LV9 BANDIT,0,0,0,,Who are you?
-Dialogue: 100,0:10:19.24,0:10:20.88,Main,MICHIO,0,0,0,,No one suspicious.
-Dialogue: 100,0:10:20.88,0:10:22.47,Italics,MICHIO,0,0,0,,I'm definitely extremely suspicious.
-Dialogue: 100,0:10:22.47,0:10:24.27,Main,MICHIO,0,0,0,,I want to ask you something.
-Dialogue: 100,0:10:25.67,0:10:26.68,Main,LV9 BANDIT,0,0,0,,That's...
-Dialogue: 100,0:10:26.68,0:10:30.58,Main,MICHIO,0,0,0,,Give me the information I want, \Nand it's yours for one gold coin.
-Dialogue: 100,0:10:30.58,0:10:33.65,Main,LV9 BANDIT,0,0,0,,One, huh? \NWhat do you want to know about?
-Dialogue: 100,0:10:33.65,0:10:34.36,Italics,MICHIO,0,0,0,,He's interested.
-Dialogue: 100,0:10:34.90,0:10:39.39,Italics,MICHIO,0,0,0,,So it's true that bandits will \Nshell out 10 to 20 thousand nars.
-Dialogue: 100,0:10:39.39,0:10:40.78,Main,MICHIO,0,0,0,,Tell me about Hugo.
-Dialogue: 100,0:10:42.80,0:10:45.62,Main,LV9 BANDIT,0,0,0,,Apparently, our brother Hugo was killed.
-Dialogue: 100,0:10:46.24,0:10:49.12,Main,MICHIO,0,0,0,,I see. The man's dead, huh?
-Dialogue: 100,0:10:49.72,0:10:51.88,Main,MICHIO,0,0,0,,Could you tell me more about that?
-Dialogue: 100,0:10:53.27,0:10:55.04,Main,LV9 BANDIT,0,0,0,,Wait here.
-Dialogue: 100,0:10:55.04,0:10:56.62,Main,MICHIO,0,0,0,,Sure, got it.
-Dialogue: 100,0:11:03.11,0:11:05.47,Italics,MICHIO,0,0,0,,His allies must be in that room.
-Dialogue: 100,0:11:06.00,0:11:07.47,Italics,MICHIO,0,0,0,,I'll remember that.
-Dialogue: 100,0:11:08.88,0:11:12.12,Main,LV9 BANDIT,0,0,0,,Our boss knew Hugo, too.
-Dialogue: 100,0:11:12.64,0:11:15.53,Main,LV9 BANDIT,0,0,0,,He's sleeping right now, but you \Nshould introduce yourself later.
-Dialogue: 100,0:11:15.53,0:11:16.61,Main,MICHIO,0,0,0,,Good idea.
-Dialogue: 100,0:11:17.01,0:11:18.64,Main,LV9 BANDIT,0,0,0,,The money's in my room.
-Dialogue: 100,0:11:18.64,0:11:20.43,Main,LV9 BANDIT,0,0,0,,Can we talk in there?
-Dialogue: 100,0:11:20.43,0:11:21.24,Main,MICHIO,0,0,0,,Sure.
-Dialogue: 100,0:11:21.24,0:11:21.91,Main,LV9 BANDIT,0,0,0,,Come in.
-Dialogue: 100,0:11:25.44,0:11:27.79,Main,LV9 BANDIT,0,0,0,,This is it. \NI'll give you the money here.
-Dialogue: 100,0:11:34.88,0:11:39.46,Main,LV9 BANDIT,0,0,0,,First, could I confirm that's \Nreally a Thief's Bandanna?
-Dialogue: 100,0:11:39.46,0:11:41.56,Main,LV9 BANDIT,0,0,0,,I didn't get a good look at it earlier.
-Dialogue: 100,0:11:41.56,0:11:42.34,Main,MICHIO,0,0,0,,Sure.
-Dialogue: 100,0:11:49.16,0:11:52.24,Main,LV9 BANDIT,0,0,0,,There was a succession \Ndispute a short while ago.
-Dialogue: 100,0:11:52.87,0:11:55.68,Main,LV9 BANDIT,0,0,0,,He was supposed to take over,
-Dialogue: 100,0:11:55.68,0:12:00.32,Main,LV9 BANDIT,0,0,0,,but some other factions joined \Nforces and drove him out of town.
-Dialogue: 100,0:12:00.74,0:12:06.17,Main,LV9 BANDIT,0,0,0,,They say Hugo attacked some \Nvillage after that and failed.
-Dialogue: 100,0:12:06.17,0:12:08.33,Main,LV9 BANDIT,0,0,0,,What an idiot.
-Dialogue: 100,0:12:08.97,0:12:11.04,Main,LV9 BANDIT,0,0,0,,There's no point in trying to run.
-Dialogue: 100,0:12:11.32,0:12:14.37,Main,LV9 BANDIT,0,0,0,,Nobody saw me bring you here.
-Dialogue: 100,0:12:14.37,0:12:16.44,Main,LV9 BANDIT,0,0,0,,I don't know where you got that,
-Dialogue: 100,0:12:16.44,0:12:20.01,Main,LV9 BANDIT,0,0,0,,but with a Thief's Bandanna, \NI could get even more done.
-Dialogue: 100,0:12:20.01,0:12:21.53,Main,LV9 BANDIT,0,0,0,,Hand it over.
-Dialogue: 100,0:12:21.53,0:12:24.68,Main,MICHIO,0,0,0,,So this was your intention from the start.
-Dialogue: 100,0:12:24.68,0:12:26.80,Main,MICHIO,0,0,0,,Not that I didn't know.
-Dialogue: 100,0:12:26.80,0:12:27.47,Main,LV9 BANDIT,0,0,0,,Bah!
-Dialogue: 100,0:12:27.84,0:12:30.03,Main,LV9 BANDIT,0,0,0,,You don't have a weapon. \NWhat do you think you can do?
-Dialogue: 100,0:12:30.03,0:12:33.69,Main,MICHIO,0,0,0,,Well, I'll give you this bandanna.
-Dialogue: 100,0:12:36.56,0:12:38.30,Main,LV9 BANDIT,0,0,0,,What are you doing?!
-Dialogue: 100,0:13:09.83,0:13:10.70,Italics,MICHIO,0,0,0,,Identify.
-Dialogue: 100,0:13:11.85,0:13:14.42,Italics,MICHIO,0,0,0,,Two in the back, two in front.
-Dialogue: 100,0:13:14.42,0:13:18.40,Italics,MICHIO,0,0,0,,None of them are exceptionally \Nhigh level. Perfect.
-Dialogue: 100,0:13:19.80,0:13:22.36,Italics,MICHIO,0,0,0,,His legs are down here.
-Dialogue: 100,0:13:23.85,0:13:25.82,Italics,MICHIO,0,0,0,,Which means his head's up here.
-Dialogue: 100,0:13:26.36,0:13:30.63,Italics,MICHIO,0,0,0,,Slowly, so he doesn't wake up.
-Dialogue: 100,0:13:31.20,0:13:32.98,Italics,MICHIO,0,0,0,,Is his neck around here?
-Dialogue: 100,0:13:37.98,0:13:41.71,Italics,MICHIO,0,0,0,,Judging by all the blood, \NI must've cut an artery.
-Dialogue: 100,0:13:42.08,0:13:44.44,Italics,MICHIO,0,0,0,,He's a level 38 bandit.
-Dialogue: 100,0:13:44.44,0:13:46.78,Italics,MICHIO,0,0,0,,I'm sure there's a decent bounty on him.
-Dialogue: 100,0:13:50.21,0:13:51.60,Italics,MICHIO,0,0,0,,Who's next?
-Dialogue: 100,0:13:52.20,0:13:56.81,Italics,MICHIO,0,0,0,,Even if something unexpected occurs, \Nworst case, I can teleport out of here.
-Dialogue: 100,0:13:59.73,0:14:01.63,Italics,MICHIO,0,0,0,,Crap! She made a sound.
-Dialogue: 100,0:14:01.63,0:14:02.62,Main,NORA,0,0,0,,Who's there?
-Dialogue: 100,0:14:13.12,0:14:16.11,Italics,MICHIO,0,0,0,,The last one noticed that.
-Dialogue: 100,0:14:16.11,0:14:16.96,Italics,MICHIO,0,0,0,,Identify.
-Dialogue: 100,0:14:21.17,0:14:23.74,Italics,MICHIO,0,0,0,,This puts me at a disadvantage. Teleport.
-Dialogue: 100,0:14:27.80,0:14:31.93,Italics,MICHIO,0,0,0,,He'll assume I'm still inside \Nthe room and call for help.
-Dialogue: 100,0:14:32.75,0:14:35.00,Italics,MICHIO,0,0,0,,I need to time my movements with the door's.
-Dialogue: 100,0:14:35.00,0:14:36.39,Italics,MICHIO,0,0,0,,I can't afford to screw this up.
-Dialogue: 100,0:14:37.56,0:14:39.37,Italics,MICHIO,0,0,0,,One, two...
-Dialogue: 100,0:14:42.26,0:14:43.06,Italics,MICHIO,0,0,0,,All right.
-Dialogue: 100,0:14:48.17,0:14:51.38,Italics,MICHIO,0,0,0,,His left hand is the one I'm holding.
-Dialogue: 100,0:14:56.74,0:14:58.95,Italics,MICHIO,0,0,0,,Did the other bandits notice?
-Dialogue: 100,0:14:58.95,0:15:01.31,Italics,MICHIO,0,0,0,,I don't detect any more \Nbandits inside the room.
-Dialogue: 100,0:15:01.31,0:15:05.34,Italics,MICHIO,0,0,0,,But it'll be difficult to retrieve \Nthe female bandit's hand now.
-Dialogue: 100,0:15:05.34,0:15:07.29,Italics,MICHIO,0,0,0,,Three is the most I can handle.
-Dialogue: 100,0:15:08.20,0:15:10.37,Italics,MICHIO,0,0,0,,I can't take on any more risks.
-Dialogue: 100,0:15:10.90,0:15:12.72,Italics,MICHIO,0,0,0,,Teleport. To the labyrinth.
-Dialogue: 100,0:15:14.77,0:15:21.91,Main,MICHIO,0,0,0,,All right. I did it.
-Dialogue: 100,0:15:21.91,0:15:24.60,Main,MICHIO,0,0,0,,I finally did the unthinkable.
-Dialogue: 100,0:15:27.56,0:15:33.67,Italics,MICHIO,0,0,0,,No, it's probably because I'm low on \NMP from teleporting a bunch of times.
-Dialogue: 100,0:15:33.67,0:15:35.27,Italics,MICHIO,0,0,0,,If I can just defeat some monsters...
-Dialogue: 100,0:15:40.47,0:15:43.50,Italics,MICHIO,0,0,0,,I should be at max MP by now.
-Dialogue: 100,0:15:48.13,0:15:48.92,Italics,MICHIO,0,0,0,,No.
-Dialogue: 100,0:15:50.84,0:15:55.72,Italics,MICHIO,0,0,0,,In this world, killing bandits \Nshouldn't be a big deal.
-Dialogue: 100,0:15:56.35,0:15:59.28,Italics,MICHIO,0,0,0,,This world is different \Nfrom the one I came from.
-Dialogue: 100,0:15:59.28,0:16:03.27,Italics,MICHIO,0,0,0,,There are no police, laws, \Nor human rights to protect us.
-Dialogue: 100,0:16:05.00,0:16:08.88,Italics,MICHIO,0,0,0,,This was my only option.
-Dialogue: 100,0:16:12.20,0:16:15.05,Italics,MICHIO,0,0,0,,The bandits won't make a fuss over this.
-Dialogue: 100,0:16:15.05,0:16:17.60,Italics,MICHIO,0,0,0,,If word gets out that their \Nleaders were killed,
-Dialogue: 100,0:16:17.60,0:16:20.59,Italics,MICHIO,0,0,0,,the other bandits might come after them next.
-Dialogue: 100,0:16:21.64,0:16:25.37,Italics,MICHIO,0,0,0,,More importantly, how am \NI going to cash these in?
-Dialogue: 100,0:16:25.37,0:16:27.80,Italics,MICHIO,0,0,0,,I just recently claimed a bounty.
-Dialogue: 100,0:16:27.80,0:16:31.67,Italics,MICHIO,0,0,0,,If I bring more of these in back to back, \NI might attract the attention of the knights.
-Dialogue: 100,0:16:32.02,0:16:34.24,Italics,MICHIO,0,0,0,,Should I take their cards to another town?
-Dialogue: 100,0:16:34.85,0:16:38.18,Italics,MICHIO,0,0,0,,No, wait. What if they question me?
-Dialogue: 100,0:16:38.18,0:16:41.46,Italics,MICHIO,0,0,0,,They might ask me about the circumstances \Nunder which I killed the bandits.
-Dialogue: 100,0:16:41.46,0:16:46.19,Italics,MICHIO,0,0,0,,Wouldn't they find it suspicious that I \Ndidn't bring them to my own town's knights?
-Dialogue: 100,0:16:46.83,0:16:48.06,Italics,MICHIO,0,0,0,,It's no use.
-Dialogue: 100,0:16:48.31,0:16:51.07,Italics,MICHIO,0,0,0,,My head's all screwed up.
-Dialogue: 100,0:16:51.74,0:16:54.01,Italics,MICHIO,0,0,0,,I don't know what will happen, \Nbut one thing's for certain.
-Dialogue: 100,0:16:54.01,0:16:58.40,Italics,MICHIO,0,0,0,,It's looking more likely \Nthat I'll acquire Roxanne.
-Dialogue: 100,0:16:58.40,0:17:00.95,Italics,MICHIO,0,0,0,,I did everything I could.
-Dialogue: 100,0:17:01.35,0:17:04.75,Italics,MICHIO,0,0,0,,I did everything.
-Dialogue: 100,0:17:13.29,0:17:15.66,Main,MICHIO,0,0,0,,I slept better than I expected.
-Dialogue: 100,0:17:16.84,0:17:17.55,Main,MICHIO,0,0,0,,Now, then...
-Dialogue: 100,0:17:21.51,0:17:26.94,Italics,MICHIO,0,0,0,,I should minimize the number of people \Nwho recognize me, just in case.
-Dialogue: 100,0:17:26.94,0:17:30.69,Italics,MICHIO,0,0,0,,It'd be easier if I knew a knight \Nwho was familiar with the situation.
-Dialogue: 100,0:17:32.35,0:17:33.52,Italics,MICHIO,0,0,0,,It's him.
-Dialogue: 100,0:17:34.46,0:17:37.20,Italics,MICHIO,0,0,0,,He was there when I claimed my first bounty.
-Dialogue: 100,0:17:39.08,0:17:39.87,Main,MICHIO,0,0,0,,Hey.
-Dialogue: 100,0:17:40.74,0:17:42.11,Main,MALE KNIGHT,0,0,0,,Hello.
-Dialogue: 100,0:17:42.11,0:17:45.08,Main,MICHIO,0,0,0,,Some guys picked a fight with me last night.
-Dialogue: 100,0:17:45.55,0:17:47.30,Main,MICHIO,0,0,0,,Apparently, they were bandits.
-Dialogue: 100,0:17:47.30,0:17:49.34,Main,MALE KNIGHT,0,0,0,,Bandits?
-Dialogue: 100,0:17:49.34,0:17:51.71,Main,MICHIO,0,0,0,,I fought back and killed them, of course.
-Dialogue: 100,0:17:51.71,0:17:54.43,Main,MALE KNIGHT,0,0,0,,How unfortunate.
-Dialogue: 100,0:17:54.43,0:17:57.81,Main,MALE KNIGHT,0,0,0,,May I take a look at your Intelligence Card?
-Dialogue: 100,0:17:57.81,0:17:58.56,Main,MICHIO,0,0,0,,Sure.
-Dialogue: 100,0:17:59.14,0:18:01.54,Main,MALE KNIGHT,0,0,0,,Will of the swiftly flowing spirits,
-Dialogue: 100,0:18:01.54,0:18:03.67,Main,MALE KNIGHT,0,0,0,,steady breath of wisdom.
-Dialogue: 100,0:18:03.67,0:18:05.56,Main,MALE KNIGHT,0,0,0,,Open Intelligence Card.
-Dialogue: 100,0:18:08.42,0:18:10.23,Main,MALE KNIGHT,0,0,0,,All good.
-Dialogue: 100,0:18:12.37,0:18:13.90,Main,MALE KNIGHT,0,0,0,,I'll go examine these.
-Dialogue: 100,0:18:17.18,0:18:20.44,Italics,MICHIO,0,0,0,,He didn't ask any questions. Success.
-Dialogue: 100,0:18:20.95,0:18:22.94,Italics,MICHIO,0,0,0,,I had the same thought last time,
-Dialogue: 100,0:18:22.94,0:18:26.70,Italics,MICHIO,0,0,0,,but I guess that's how bandits \Nare regarded in this world.
-Dialogue: 100,0:18:27.44,0:18:31.72,Main,MALE KNIGHT,0,0,0,,I was able to confirm they \Nbelonged to three bandits.
-Dialogue: 100,0:18:31.72,0:18:34.18,Main,MALE KNIGHT,0,0,0,,Two of them had bounties on them.
-Dialogue: 100,0:18:35.68,0:18:36.55,Main,MICHIO,0,0,0,,Thank you.
-Dialogue: 100,0:18:36.83,0:18:39.51,Italics,MICHIO,0,0,0,,That was easier than I expected.
-Dialogue: 100,0:18:42.47,0:18:45.35,Main,MICHIO,0,0,0,,How many gold coins did I get?
-Dialogue: 100,0:18:45.59,0:18:47.27,Main,MICHIO,0,0,0,,One, two...
-Dialogue: 100,0:18:52.60,0:18:54.09,Italics,MICHIO,0,0,0,,There's more than seven in here.
-Dialogue: 100,0:18:54.09,0:18:58.03,Italics,MICHIO,0,0,0,,With the 33 gold coins and 228 \Nsilver coins I've already got,
-Dialogue: 100,0:18:58.52,0:19:00.78,Italics,MICHIO,0,0,0,,I can buy Roxanne.
-Dialogue: 100,0:19:04.32,0:19:07.79,Main,ALAN,0,0,0,,I knew you could do it.
-Dialogue: 100,0:19:07.79,0:19:09.89,Main,MICHIO,0,0,0,,Sorry about all the silver coins.
-Dialogue: 100,0:19:09.89,0:19:11.50,Main,ALAN,0,0,0,,That's not a problem.
-Dialogue: 100,0:19:11.50,0:19:13.41,Main,ALAN,0,0,0,,I'll be taking these.
-Dialogue: 100,0:19:14.12,0:19:17.55,Main,ALAN,0,0,0,,I'll bring her to you right away. \NOne moment, please.
-Dialogue: 100,0:19:24.99,0:19:26.42,Italics,MICHIO,0,0,0,,He's taking a while.
-Dialogue: 100,0:19:28.00,0:19:29.93,Main,ALAN,0,0,0,,Thank you for waiting.
-Dialogue: 100,0:19:29.93,0:19:33.65,Main,ALAN,0,0,0,,This is Roxanne, the girl you requested.
-Dialogue: 100,0:19:39.64,0:19:42.63,Main,ROXANNE,0,0,0,,Thank you.
-Dialogue: 100,0:19:43.40,0:19:44.58,Main,MICHIO,0,0,0,,Nice to meet you.
-Dialogue: 100,0:19:45.15,0:19:49.97,Main,ROXANNE,0,0,0,,Yes, Master. However, \NI must apologize to you for one thing.
-Dialogue: 100,0:19:51.12,0:19:52.05,Italics,MICHIO,0,0,0,,What?
-Dialogue: 100,0:19:52.54,0:19:56.12,Italics,MICHIO,0,0,0,,Is she going to spring on me now that \Nshe was working with the slave trader?
-Dialogue: 100,0:19:56.12,0:19:59.55,Italics,MICHIO,0,0,0,,Or that she didn't want me to buy her?
-Dialogue: 100,0:20:01.28,0:20:06.56,Main,ROXANNE,0,0,0,,I believed you'd come for \Nme and waited for you.
-Dialogue: 100,0:20:06.56,0:20:10.78,Main,ROXANNE,0,0,0,,But I doubted you once.
-Dialogue: 100,0:20:10.78,0:20:13.48,Main,ROXANNE,0,0,0,,I thought you might not come for me.
-Dialogue: 100,0:20:16.31,0:20:17.79,Main,ROXANNE,0,0,0,,Please forgive me.
-Dialogue: 100,0:20:17.79,0:20:21.95,Main,ROXANNE,0,0,0,,Otherwise I don't deserve \Nto be purchased by you.
-Dialogue: 100,0:20:24.19,0:20:27.95,Italics,MICHIO,0,0,0,,As of today, you shall \Nbe known as Melos-anne.
-Dialogue: 100,0:20:28.67,0:20:30.00,Main,MICHIO,0,0,0,,Raise your head.
-Dialogue: 100,0:20:33.21,0:20:35.33,Main,MICHIO,0,0,0,,It's not a problem. \NDon't worry about it.
-Dialogue: 100,0:20:36.83,0:20:37.59,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:20:37.93,0:20:40.49,Main,ALAN,0,0,0,,Roxanne, go to the customer.
-Dialogue: 100,0:20:46.91,0:20:49.68,Main,ALAN,0,0,0,,Let us establish a contract.
-Dialogue: 100,0:20:50.32,0:20:53.85,Main,ALAN,0,0,0,,May I see your Intelligence Cards?
-Dialogue: 100,0:20:53.85,0:20:54.94,Main,MICHIO,0,0,0,,Yeah.
-Dialogue: 100,0:20:53.85,0:20:54.94,Main,ROXANNE,0,0,0,,Yes, sir.
-Dialogue: 100,0:20:54.94,0:20:57.20,Main - Top,ALAN,0,0,0,,Will of the swiftly flowing spirits,
-Dialogue: 100,0:20:57.20,0:20:58.69,Main - Top,ALAN,0,0,0,,steady breath of wisdom.
-Dialogue: 100,0:20:58.69,0:21:00.79,Main - Top,ALAN,0,0,0,,Open Intelligence Card.
-Dialogue: 100,0:20:58.69,0:21:03.05,Italics,MICHIO,0,0,0,,I should've given up on \NRoxanne at least once, too.
-Dialogue: 100,0:21:03.05,0:21:05.20,Italics,MICHIO,0,0,0,,Then we'd be even.
-Dialogue: 100,0:21:05.20,0:21:09.20,Italics,MICHIO,0,0,0,,Not that I could've given \Nup on someone so beautiful.
-Dialogue: 100,0:21:10.54,0:21:13.20,Main,ALAN,0,0,0,,The contract is sealed.
-Dialogue: 100,0:21:14.36,0:21:17.79,Main,ALAN,0,0,0,,Please take a look each \Nother's Intelligence Cards.
-Dialogue: 100,0:21:17.79,0:21:19.42,Main,ROXANNE,0,0,0,,Yes, sir. Here.
-Dialogue: 100,0:21:22.08,0:21:25.26,Main,MICHIO,0,0,0,,I see. I can tell we've signed a contract.
-Dialogue: 100,0:21:25.82,0:21:29.26,Italics,MICHIO,0,0,0,,Which means the slave trader \Nwasn't a con artist.
-Dialogue: 100,0:21:30.37,0:21:33.04,Main,ROXANNE,0,0,0,,May I?
-Dialogue: 100,0:21:33.64,0:21:37.19,Main,MICHIO,0,0,0,,There's nothing on here I \Nwouldn't want you seeing.
-Dialogue: 100,0:21:39.27,0:21:40.27,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:21:40.64,0:21:42.72,Italics,MICHIO,0,0,0,,My job is set to Explorer.
-Dialogue: 100,0:21:42.72,0:21:45.28,Italics,MICHIO,0,0,0,,So your card displays your first job.
-Dialogue: 100,0:21:45.99,0:21:49.28,Italics,MICHIO,0,0,0,,And this shows that I own her.
-Dialogue: 100,0:21:49.28,0:21:53.70,Main - Top,ALAN,0,0,0,,Thank you for purchasing one of our slaves.
-Dialogue: 100,0:21:52.84,0:21:53.70,Italics,MICHIO,0,0,0,,Finally...
-Dialogue: 100,0:21:53.70,0:21:58.36,Main,ALAN,0,0,0,,As of today, you are Roxanne's owner.
-Dialogue: 100,0:21:58.36,0:21:59.65,Italics,MICHIO,0,0,0,,Finally...
-Dialogue: 100,0:22:00.72,0:22:05.15,Italics,MICHIO,0,0,0,,Finally, I've acquired Roxanne.
+Dialogue: 99,0:00:00.56,0:00:04.47,Italics,MICHIO,0,0,0,,If I want to acquire a large sum of \Nmoney, I'll have to hunt bandits.
+Dialogue: 99,0:00:09.24,0:00:11.16,Italics,MICHIO,0,0,0,,The question is how I'll do it.
+Dialogue: 99,0:00:11.75,0:00:16.37,Italics,MICHIO,0,0,0,,Depending on the circumstances, I could \Nend up facing multiple bandits at once.
+Dialogue: 99,0:00:17.52,0:00:20.08,Italics,MICHIO,0,0,0,,But this time, I won't be \Nattacking a distracted opponent.
+Dialogue: 99,0:00:21.38,0:00:24.00,Italics,MICHIO,0,0,0,,Am I strong enough to do it?
+Dialogue: 99,0:00:24.00,0:00:26.08,Italics,MICHIO,0,0,0,,No, I {\i0}have{\i1} to.
+Dialogue: 99,0:00:26.43,0:00:27.51,Italics,MICHIO,0,0,0,,Job Settings.
+Dialogue: 99,0:00:28.41,0:00:29.66,Italics,MICHIO,0,0,0,,Hey, I've got more new jobs.
+Dialogue: 99,0:00:31.09,0:00:33.00,Italics,MICHIO,0,0,0,,How's Warrior?
+Dialogue: 99,0:00:33.00,0:00:35.97,Italics,MICHIO,0,0,0,,It has stronger effects than \NVillager, and it's got a skill.
+Dialogue: 99,0:00:36.28,0:00:38.43,Italics,MICHIO,0,0,0,,I'll keep Hero, and...
+Dialogue: 99,0:00:39.63,0:00:43.43,Italics,MICHIO,0,0,0,,Given what I'm about to do, \Nthis is the best setup.
+Dialogue: 99,0:00:46.82,0:00:49.73,Italics,MICHIO,0,0,0,,Starting tomorrow, I'll be walking.
+Dialogue: 99,0:02:30.53,0:02:31.52,Italics,MICHIO,0,0,0,,Identify.
+Dialogue: 99,0:02:36.67,0:02:38.63,Italics,MICHIO,0,0,0,,None here.
+Dialogue: 99,0:02:39.13,0:02:41.98,Italics,MICHIO,0,0,0,,But having access to Identify \Nis a huge advantage.
+Dialogue: 99,0:02:41.98,0:02:44.44,Italics,MICHIO,0,0,0,,I can tell at a glance who's a bandit.
+Dialogue: 99,0:02:44.44,0:02:45.64,Main,VILLAGER A,0,0,0,,The bandits?
+Dialogue: 99,0:02:45.64,0:02:48.82,Main,VILLAGER B,0,0,0,,Yeah. Word is, they're being \Ntaken out one after another.
+Dialogue: 99,0:02:48.82,0:02:51.15,Main,VILLAGER A,0,0,0,,Maybe they're getting revenge.
+Dialogue: 99,0:02:51.15,0:02:54.59,Main,VILLAGER A,0,0,0,,It's probably those guys who were \Nchased out of the slums to the north.
+Dialogue: 99,0:02:54.59,0:02:55.65,Italics,MICHIO,0,0,0,,The slums?
+Dialogue: 99,0:02:56.20,0:02:59.53,Flashback,SOMARA,0,0,0,,Mr. Michio, try not to look around too much.
+Dialogue: 99,0:02:59.99,0:03:03.21,Flashback,SOMARA,0,0,0,,There are some unsafe areas around here.
+Dialogue: 99,0:03:03.21,0:03:07.79,Flashback,SOMARA,0,0,0,,There are brothels, as well, \Nbut I wouldn't recommend going inside them.
+Dialogue: 99,0:03:12.36,0:03:13.25,Main,MICHIO,0,0,0,,Teleport.
+Dialogue: 99,0:03:18.11,0:03:19.80,Italics,MICHIO,0,0,0,,The air here is different.
+Dialogue: 99,0:03:19.80,0:03:21.32,Italics,MICHIO,0,0,0,,It smells like sewage.
+Dialogue: 99,0:03:22.48,0:03:25.22,Italics,MICHIO,0,0,0,,In addition to being the \Nendpoint of the sewer,
+Dialogue: 99,0:03:25.22,0:03:27.66,Italics,MICHIO,0,0,0,,it's also where outcasts and wretches end up.
+Dialogue: 99,0:03:28.53,0:03:29.60,Italics,MICHIO,0,0,0,,Identify.
+Dialogue: 99,0:03:30.59,0:03:32.71,Italics,MICHIO,0,0,0,,I don't see any bandits.
+Dialogue: 99,0:03:32.71,0:03:34.66,Italics,MICHIO,0,0,0,,Are they being cautious?
+Dialogue: 99,0:03:34.66,0:03:39.14,Italics,MICHIO,0,0,0,,I suppose bandits wouldn't boldly \Nwalk around in broad daylight.
+Dialogue: 99,0:03:39.14,0:03:41.33,Italics,MICHIO,0,0,0,,This stench alone is going to make me sick.
+Dialogue: 99,0:03:41.33,0:03:42.59,Italics,MICHIO,0,0,0,,Teleport.
+Dialogue: 99,0:03:43.39,0:03:45.37,Italics,MICHIO,0,0,0,,I'll check it out again at night.
+Dialogue: 99,0:03:53.49,0:03:57.50,Italics,MICHIO,0,0,0,,I stopped becoming depressed even \Nafter repeated uses of Teleport.
+Dialogue: 99,0:03:57.85,0:04:01.26,Italics,MICHIO,0,0,0,,Must be because of the levels \NI gained fighting that battle.
+Dialogue: 99,0:04:01.51,0:04:04.00,Italics,MICHIO,0,0,0,,I turned that potential \Ndisaster into good fortune.
+Dialogue: 99,0:04:04.00,0:04:08.26,Italics,MICHIO,0,0,0,,I should be able to handle some \Nbandits even if the worst happens.
+Dialogue: 99,0:04:08.71,0:04:11.41,Main,MICHIO,0,0,0,,Time to resume exploring.
+Dialogue: 99,0:04:14.32,0:04:15.96,Main,INNKEEPER,0,0,0,,Going back into the labyrinth?
+Dialogue: 99,0:04:15.96,0:04:18.21,Main,MICHIO,0,0,0,,Yeah. Hold onto my key for me.
+Dialogue: 99,0:04:18.21,0:04:19.44,Main,INNKEEPER,0,0,0,,Sure thing.
+Dialogue: 99,0:04:19.44,0:04:21.18,Main,INNKEEPER,0,0,0,,You're working hard, aren't you?
+Dialogue: 99,0:04:22.08,0:04:24.07,Main,INNKEEPER,0,0,0,,You don't need a lantern?
+Dialogue: 99,0:04:31.72,0:04:33.72,Italics,MICHIO,0,0,0,,I'm glad I borrowed this.
+Dialogue: 99,0:04:33.72,0:04:37.17,Italics,MICHIO,0,0,0,,It only illuminates the area right around \Nmy feet, but it's better than not having it.
+Dialogue: 99,0:04:38.04,0:04:40.09,Italics,MICHIO,0,0,0,,This is my first time out \Non the town at night.
+Dialogue: 99,0:04:40.38,0:04:42.42,Italics,MICHIO,0,0,0,,Is there anything different at night?
+Dialogue: 99,0:04:42.42,0:04:43.53,Italics,MICHIO,0,0,0,,Identify.
+Dialogue: 99,0:04:47.44,0:04:49.92,Italics,MICHIO,0,0,0,,Still no bandits.
+Dialogue: 99,0:04:49.92,0:04:53.35,Italics,MICHIO,0,0,0,,I thought they'd be around \Nat night. Oh, well.
+Dialogue: 99,0:04:58.47,0:04:59.50,Italics,MICHIO,0,0,0,,What is that?
+Dialogue: 99,0:05:05.80,0:05:08.82,Italics,MICHIO,0,0,0,,This is totally different from the \Nred light district during the day.
+Dialogue: 99,0:05:10.58,0:05:14.17,Italics,MICHIO,0,0,0,,The lights at night make it \Nseem so much more dazzling.
+Dialogue: 99,0:05:19.91,0:05:21.96,Italics,MICHIO,0,0,0,,Calm down, calm down.
+Dialogue: 99,0:05:24.69,0:05:26.34,Italics,MICHIO,0,0,0,,Think about it.
+Dialogue: 99,0:05:26.77,0:05:28.70,Italics,MICHIO,0,0,0,,I could get ripped off.
+Dialogue: 99,0:05:31.22,0:05:34.22,Italics,MICHIO,0,0,0,,And I can't imagine there's anyone \Nhere as beautiful as Roxanne.
+Dialogue: 99,0:05:37.04,0:05:39.01,Italics,MICHIO,0,0,0,,Not entering a shop is the right choice.
+Dialogue: 99,0:05:49.96,0:05:50.81,Italics,MICHIO,0,0,0,,Identify.
+Dialogue: 99,0:05:53.76,0:05:55.10,Italics,MICHIO,0,0,0,,Found one.
+Dialogue: 99,0:06:03.86,0:06:07.30,Italics,MICHIO,0,0,0,,He's definitely heading towards the slums.
+Dialogue: 99,0:06:18.54,0:06:20.67,Italics,MICHIO,0,0,0,,Are there no other bandits?
+Dialogue: 99,0:06:23.72,0:06:24.65,Italics,MICHIO,0,0,0,,Identify.
+Dialogue: 99,0:06:29.24,0:06:31.45,Italics,MICHIO,0,0,0,,If there are lookouts posted outside,
+Dialogue: 99,0:06:31.45,0:06:34.16,Italics,MICHIO,0,0,0,,then that single-story house must \Nbe the bandits' headquarters.
+Dialogue: 99,0:06:34.16,0:06:34.98,Italics,MICHIO,0,0,0,,Teleport.
+Dialogue: 99,0:06:39.52,0:06:42.00,Main,LV9 BANDIT,0,0,0,,Yeah, we've got Hugo to thank for that.
+Dialogue: 99,0:06:42.47,0:06:44.44,Italics,MICHIO,0,0,0,,Did he just say Hugo?
+Dialogue: 99,0:06:45.97,0:06:52.20,Italics,MICHIO,0,0,0,,I think the bandit boss I beheaded \Nin the starting town was Hugo.
+Dialogue: 99,0:06:52.82,0:06:57.47,Italics,MICHIO,0,0,0,,Which means he's one of the remaining \Nbandits who were chased out of town
+Dialogue: 99,0:06:57.47,0:06:59.48,Italics,MICHIO,0,0,0,,or an associate of Hugo.
+Dialogue: 99,0:06:59.77,0:07:02.48,Italics,MICHIO,0,0,0,,I need to do more research.
+Dialogue: 99,0:07:04.73,0:07:08.98,Italics,MICHIO,0,0,0,,I see. I'm starting to get a sense \Nof what this town's like at night.
+Dialogue: 99,0:07:09.80,0:07:11.36,Italics,MICHIO,0,0,0,,Perhaps because people \Ntypically stay overnight,
+Dialogue: 99,0:07:11.36,0:07:13.82,Italics,MICHIO,0,0,0,,the businesses in the red \Nlight district close early,
+Dialogue: 99,0:07:13.82,0:07:16.37,Italics,MICHIO,0,0,0,,starting with shops that attract customers.
+Dialogue: 99,0:07:16.81,0:07:19.57,Italics,MICHIO,0,0,0,,Then the bandits come out to play.
+Dialogue: 99,0:07:19.57,0:07:25.19,Italics,MICHIO,0,0,0,,Like guards, they either patrol the town \Nand stand at crossroads or carouse at bars.
+Dialogue: 99,0:07:26.17,0:07:29.95,Italics,MICHIO,0,0,0,,Even the bandits must have \Ngroups and territories.
+Dialogue: 99,0:07:31.03,0:07:34.51,Italics,MICHIO,0,0,0,,And they avoid interacting with \Neach other to an unnatural degree.
+Dialogue: 99,0:07:34.51,0:07:38.71,Italics,MICHIO,0,0,0,,That guy who was standing in basically \Nthe same place yesterday is one of them.
+Dialogue: 99,0:07:38.71,0:07:43.27,Italics,MICHIO,0,0,0,,It's not much, but this area must be his.
+Dialogue: 99,0:07:43.60,0:07:46.21,Italics,MICHIO,0,0,0,,Even if I hunted his group,
+Dialogue: 99,0:07:46.21,0:07:50.53,Italics,MICHIO,0,0,0,,the other groups would see it as someone \Nelse's problem and wouldn't make a fuss.
+Dialogue: 99,0:07:53.12,0:07:57.87,Italics,MICHIO,0,0,0,,If individual groups avoid interacting \Nwith each other, then I can make it work.
+Dialogue: 99,0:08:03.20,0:08:05.14,Main,INNKEEPER,0,0,0,,Welcome back.
+Dialogue: 99,0:08:05.14,0:08:07.13,Main,INNKEEPER,0,0,0,,You were out late in the labyrinth.
+Dialogue: 99,0:08:07.37,0:08:10.46,Main,INNKEEPER,0,0,0,,Have something to eat. \NIt's on the house.
+Dialogue: 99,0:08:11.70,0:08:13.26,Main,INNKEEPER,0,0,0,,The murders?
+Dialogue: 99,0:08:13.65,0:08:15.54,Main,INNKEEPER,0,0,0,,Those murders, huh?
+Dialogue: 99,0:08:15.54,0:08:19.67,Main,INNKEEPER,0,0,0,,There's a power struggle between the bandits \Nwho live in the slums of this town.
+Dialogue: 99,0:08:19.67,0:08:21.77,Main,MICHIO,0,0,0,,I heard it was revenge.
+Dialogue: 99,0:08:22.97,0:08:24.77,Main,INNKEEPER,0,0,0,,You know about that?
+Dialogue: 99,0:08:25.40,0:08:28.23,Main,INNKEEPER,0,0,0,,Between you and me, that's made up.
+Dialogue: 99,0:08:28.23,0:08:29.28,Main,MICHIO,0,0,0,,Oh?
+Dialogue: 99,0:08:29.28,0:08:32.77,Main,INNKEEPER,0,0,0,,A little while ago, there was a change \Nin leadership within a certain group.
+Dialogue: 99,0:08:32.77,0:08:36.49,Main,INNKEEPER,0,0,0,,There was a succession dispute and the \Nlosing faction was run out of town.
+Dialogue: 99,0:08:37.77,0:08:39.84,Main,MICHIO,0,0,0,,There are bandit factions?
+Dialogue: 99,0:08:39.84,0:08:41.37,Main,INNKEEPER,0,0,0,,The men who were killed the other day
+Dialogue: 99,0:08:41.37,0:08:45.22,Main,INNKEEPER,0,0,0,,were bandits who won the succession \Ndispute and remained in town,
+Dialogue: 99,0:08:45.22,0:08:47.63,Main,INNKEEPER,0,0,0,,but they're being targeted \Nby other groups, too.
+Dialogue: 99,0:08:47.63,0:08:50.72,Main,MICHIO,0,0,0,,So they're making it look like \Nthe work of the banished bandits
+Dialogue: 99,0:08:50.72,0:08:53.49,Main,MICHIO,0,0,0,,and using this opportunity to take them down?
+Dialogue: 99,0:08:53.49,0:08:54.88,Main,INNKEEPER,0,0,0,,Maybe, maybe not.
+Dialogue: 99,0:08:55.41,0:08:58.55,Main,INNKEEPER,0,0,0,,There might be some trouble \Nover in the slums,
+Dialogue: 99,0:08:58.55,0:09:02.17,Main,INNKEEPER,0,0,0,,but this area is safe, under the \Nwatchful gaze of the knights.
+Dialogue: 99,0:09:06.42,0:09:10.52,Italics,MICHIO,0,0,0,,I avoided entering the bandits' hideout \Nwithout knowing what was going on.
+Dialogue: 99,0:09:10.80,0:09:15.44,Italics,MICHIO,0,0,0,,If I end up talking to the bandits, \Nthen it'll be easier to work something out.
+Dialogue: 99,0:09:19.20,0:09:20.85,Italics,MICHIO,0,0,0,,Roxanne...
+Dialogue: 99,0:09:21.45,0:09:25.87,Italics,MICHIO,0,0,0,,Her branches so heavy with enormous fruit...
+Dialogue: 99,0:09:28.46,0:09:32.17,Italics,MICHIO,0,0,0,,I'll peel them ever so gently...
+Dialogue: 99,0:09:32.56,0:09:34.09,Italics,MICHIO,0,0,0,,And taste them...
+Dialogue: 99,0:09:40.41,0:09:41.51,Italics,MICHIO,0,0,0,,They're hard?
+Dialogue: 99,0:09:45.46,0:09:46.78,Main,MICHIO,0,0,0,,Sho harf...
+Dialogue: 99,0:09:50.29,0:09:53.44,Italics,MICHIO,0,0,0,,I was so nervous, I didn't get much sleep.
+Dialogue: 99,0:09:53.73,0:09:56.36,Italics,MICHIO,0,0,0,,But now's a good time.
+Dialogue: 99,0:09:56.36,0:09:58.40,Italics,MICHIO,0,0,0,,I've got my Thief's Bandanna.
+Dialogue: 99,0:09:58.40,0:10:01.50,Italics,MICHIO,0,0,0,,I can equip Durandal anytime, too.
+Dialogue: 99,0:10:12.84,0:10:13.81,Main,MICHIO,0,0,0,,You got a minute?
+Dialogue: 99,0:10:18.51,0:10:19.24,Main,LV9 BANDIT,0,0,0,,Who are you?
+Dialogue: 99,0:10:19.24,0:10:20.88,Main,MICHIO,0,0,0,,No one suspicious.
+Dialogue: 99,0:10:20.88,0:10:22.47,Italics,MICHIO,0,0,0,,I'm definitely extremely suspicious.
+Dialogue: 99,0:10:22.47,0:10:24.27,Main,MICHIO,0,0,0,,I want to ask you something.
+Dialogue: 99,0:10:25.67,0:10:26.68,Main,LV9 BANDIT,0,0,0,,That's...
+Dialogue: 99,0:10:26.68,0:10:30.58,Main,MICHIO,0,0,0,,Give me the information I want, \Nand it's yours for one gold coin.
+Dialogue: 99,0:10:30.58,0:10:33.65,Main,LV9 BANDIT,0,0,0,,One, huh? \NWhat do you want to know about?
+Dialogue: 99,0:10:33.65,0:10:34.36,Italics,MICHIO,0,0,0,,He's interested.
+Dialogue: 99,0:10:34.90,0:10:39.39,Italics,MICHIO,0,0,0,,So it's true that bandits will \Nshell out 10 to 20 thousand nars.
+Dialogue: 99,0:10:39.39,0:10:40.78,Main,MICHIO,0,0,0,,Tell me about Hugo.
+Dialogue: 99,0:10:42.80,0:10:45.62,Main,LV9 BANDIT,0,0,0,,Apparently, our brother Hugo was killed.
+Dialogue: 99,0:10:46.24,0:10:49.12,Main,MICHIO,0,0,0,,I see. The man's dead, huh?
+Dialogue: 99,0:10:49.72,0:10:51.88,Main,MICHIO,0,0,0,,Could you tell me more about that?
+Dialogue: 99,0:10:53.27,0:10:55.04,Main,LV9 BANDIT,0,0,0,,Wait here.
+Dialogue: 99,0:10:55.04,0:10:56.62,Main,MICHIO,0,0,0,,Sure, got it.
+Dialogue: 99,0:11:03.11,0:11:05.47,Italics,MICHIO,0,0,0,,His allies must be in that room.
+Dialogue: 99,0:11:06.00,0:11:07.47,Italics,MICHIO,0,0,0,,I'll remember that.
+Dialogue: 99,0:11:08.88,0:11:12.12,Main,LV9 BANDIT,0,0,0,,Our boss knew Hugo, too.
+Dialogue: 99,0:11:12.64,0:11:15.53,Main,LV9 BANDIT,0,0,0,,He's sleeping right now, but you \Nshould introduce yourself later.
+Dialogue: 99,0:11:15.53,0:11:16.61,Main,MICHIO,0,0,0,,Good idea.
+Dialogue: 99,0:11:17.01,0:11:18.64,Main,LV9 BANDIT,0,0,0,,The money's in my room.
+Dialogue: 99,0:11:18.64,0:11:20.43,Main,LV9 BANDIT,0,0,0,,Can we talk in there?
+Dialogue: 99,0:11:20.43,0:11:21.24,Main,MICHIO,0,0,0,,Sure.
+Dialogue: 99,0:11:21.24,0:11:21.91,Main,LV9 BANDIT,0,0,0,,Come in.
+Dialogue: 99,0:11:25.44,0:11:27.79,Main,LV9 BANDIT,0,0,0,,This is it. \NI'll give you the money here.
+Dialogue: 99,0:11:34.88,0:11:39.46,Main,LV9 BANDIT,0,0,0,,First, could I confirm that's \Nreally a Thief's Bandanna?
+Dialogue: 99,0:11:39.46,0:11:41.56,Main,LV9 BANDIT,0,0,0,,I didn't get a good look at it earlier.
+Dialogue: 99,0:11:41.56,0:11:42.34,Main,MICHIO,0,0,0,,Sure.
+Dialogue: 99,0:11:49.16,0:11:52.24,Main,LV9 BANDIT,0,0,0,,There was a succession \Ndispute a short while ago.
+Dialogue: 99,0:11:52.87,0:11:55.68,Main,LV9 BANDIT,0,0,0,,He was supposed to take over,
+Dialogue: 99,0:11:55.68,0:12:00.32,Main,LV9 BANDIT,0,0,0,,but some other factions joined \Nforces and drove him out of town.
+Dialogue: 99,0:12:00.74,0:12:06.17,Main,LV9 BANDIT,0,0,0,,They say Hugo attacked some \Nvillage after that and failed.
+Dialogue: 99,0:12:06.17,0:12:08.33,Main,LV9 BANDIT,0,0,0,,What an idiot.
+Dialogue: 99,0:12:08.97,0:12:11.04,Main,LV9 BANDIT,0,0,0,,There's no point in trying to run.
+Dialogue: 99,0:12:11.32,0:12:14.37,Main,LV9 BANDIT,0,0,0,,Nobody saw me bring you here.
+Dialogue: 99,0:12:14.37,0:12:16.44,Main,LV9 BANDIT,0,0,0,,I don't know where you got that,
+Dialogue: 99,0:12:16.44,0:12:20.01,Main,LV9 BANDIT,0,0,0,,but with a Thief's Bandanna, \NI could get even more done.
+Dialogue: 99,0:12:20.01,0:12:21.53,Main,LV9 BANDIT,0,0,0,,Hand it over.
+Dialogue: 99,0:12:21.53,0:12:24.68,Main,MICHIO,0,0,0,,So this was your intention from the start.
+Dialogue: 99,0:12:24.68,0:12:26.80,Main,MICHIO,0,0,0,,Not that I didn't know.
+Dialogue: 99,0:12:26.80,0:12:27.47,Main,LV9 BANDIT,0,0,0,,Bah!
+Dialogue: 99,0:12:27.84,0:12:30.03,Main,LV9 BANDIT,0,0,0,,You don't have a weapon. \NWhat do you think you can do?
+Dialogue: 99,0:12:30.03,0:12:33.69,Main,MICHIO,0,0,0,,Well, I'll give you this bandanna.
+Dialogue: 99,0:12:36.56,0:12:38.30,Main,LV9 BANDIT,0,0,0,,What are you doing?!
+Dialogue: 99,0:13:09.83,0:13:10.70,Italics,MICHIO,0,0,0,,Identify.
+Dialogue: 99,0:13:11.85,0:13:14.42,Italics,MICHIO,0,0,0,,Two in the back, two in front.
+Dialogue: 99,0:13:14.42,0:13:18.40,Italics,MICHIO,0,0,0,,None of them are exceptionally \Nhigh level. Perfect.
+Dialogue: 99,0:13:19.80,0:13:22.36,Italics,MICHIO,0,0,0,,His legs are down here.
+Dialogue: 99,0:13:23.85,0:13:25.82,Italics,MICHIO,0,0,0,,Which means his head's up here.
+Dialogue: 99,0:13:26.36,0:13:30.63,Italics,MICHIO,0,0,0,,Slowly, so he doesn't wake up.
+Dialogue: 99,0:13:31.20,0:13:32.98,Italics,MICHIO,0,0,0,,Is his neck around here?
+Dialogue: 99,0:13:37.98,0:13:41.71,Italics,MICHIO,0,0,0,,Judging by all the blood, \NI must've cut an artery.
+Dialogue: 99,0:13:42.08,0:13:44.44,Italics,MICHIO,0,0,0,,He's a level 38 bandit.
+Dialogue: 99,0:13:44.44,0:13:46.78,Italics,MICHIO,0,0,0,,I'm sure there's a decent bounty on him.
+Dialogue: 99,0:13:50.21,0:13:51.60,Italics,MICHIO,0,0,0,,Who's next?
+Dialogue: 99,0:13:52.20,0:13:56.81,Italics,MICHIO,0,0,0,,Even if something unexpected occurs, \Nworst case, I can teleport out of here.
+Dialogue: 99,0:13:59.73,0:14:01.63,Italics,MICHIO,0,0,0,,Crap! She made a sound.
+Dialogue: 99,0:14:01.63,0:14:02.62,Main,NORA,0,0,0,,Who's there?
+Dialogue: 99,0:14:13.12,0:14:16.11,Italics,MICHIO,0,0,0,,The last one noticed that.
+Dialogue: 99,0:14:16.11,0:14:16.96,Italics,MICHIO,0,0,0,,Identify.
+Dialogue: 99,0:14:21.17,0:14:23.74,Italics,MICHIO,0,0,0,,This puts me at a disadvantage. Teleport.
+Dialogue: 99,0:14:27.80,0:14:31.93,Italics,MICHIO,0,0,0,,He'll assume I'm still inside \Nthe room and call for help.
+Dialogue: 99,0:14:32.75,0:14:35.00,Italics,MICHIO,0,0,0,,I need to time my movements with the door's.
+Dialogue: 99,0:14:35.00,0:14:36.39,Italics,MICHIO,0,0,0,,I can't afford to screw this up.
+Dialogue: 99,0:14:37.56,0:14:39.37,Italics,MICHIO,0,0,0,,One, two...
+Dialogue: 99,0:14:42.26,0:14:43.06,Italics,MICHIO,0,0,0,,All right.
+Dialogue: 99,0:14:48.17,0:14:51.38,Italics,MICHIO,0,0,0,,His left hand is the one I'm holding.
+Dialogue: 99,0:14:56.74,0:14:58.95,Italics,MICHIO,0,0,0,,Did the other bandits notice?
+Dialogue: 99,0:14:58.95,0:15:01.31,Italics,MICHIO,0,0,0,,I don't detect any more \Nbandits inside the room.
+Dialogue: 99,0:15:01.31,0:15:05.34,Italics,MICHIO,0,0,0,,But it'll be difficult to retrieve \Nthe female bandit's hand now.
+Dialogue: 99,0:15:05.34,0:15:07.29,Italics,MICHIO,0,0,0,,Three is the most I can handle.
+Dialogue: 99,0:15:08.20,0:15:10.37,Italics,MICHIO,0,0,0,,I can't take on any more risks.
+Dialogue: 99,0:15:10.90,0:15:12.72,Italics,MICHIO,0,0,0,,Teleport. To the labyrinth.
+Dialogue: 99,0:15:14.77,0:15:21.91,Main,MICHIO,0,0,0,,All right. I did it.
+Dialogue: 99,0:15:21.91,0:15:24.60,Main,MICHIO,0,0,0,,I finally did the unthinkable.
+Dialogue: 99,0:15:27.56,0:15:33.67,Italics,MICHIO,0,0,0,,No, it's probably because I'm low on \NMP from teleporting a bunch of times.
+Dialogue: 99,0:15:33.67,0:15:35.27,Italics,MICHIO,0,0,0,,If I can just defeat some monsters...
+Dialogue: 99,0:15:40.47,0:15:43.50,Italics,MICHIO,0,0,0,,I should be at max MP by now.
+Dialogue: 99,0:15:48.13,0:15:48.92,Italics,MICHIO,0,0,0,,No.
+Dialogue: 99,0:15:50.84,0:15:55.72,Italics,MICHIO,0,0,0,,In this world, killing bandits \Nshouldn't be a big deal.
+Dialogue: 99,0:15:56.35,0:15:59.28,Italics,MICHIO,0,0,0,,This world is different \Nfrom the one I came from.
+Dialogue: 99,0:15:59.28,0:16:03.27,Italics,MICHIO,0,0,0,,There are no police, laws, \Nor human rights to protect us.
+Dialogue: 99,0:16:05.00,0:16:08.88,Italics,MICHIO,0,0,0,,This was my only option.
+Dialogue: 99,0:16:12.20,0:16:15.05,Italics,MICHIO,0,0,0,,The bandits won't make a fuss over this.
+Dialogue: 99,0:16:15.05,0:16:17.60,Italics,MICHIO,0,0,0,,If word gets out that their \Nleaders were killed,
+Dialogue: 99,0:16:17.60,0:16:20.59,Italics,MICHIO,0,0,0,,the other bandits might come after them next.
+Dialogue: 99,0:16:21.64,0:16:25.37,Italics,MICHIO,0,0,0,,More importantly, how am \NI going to cash these in?
+Dialogue: 99,0:16:25.37,0:16:27.80,Italics,MICHIO,0,0,0,,I just recently claimed a bounty.
+Dialogue: 99,0:16:27.80,0:16:31.67,Italics,MICHIO,0,0,0,,If I bring more of these in back to back, \NI might attract the attention of the knights.
+Dialogue: 99,0:16:32.02,0:16:34.24,Italics,MICHIO,0,0,0,,Should I take their cards to another town?
+Dialogue: 99,0:16:34.85,0:16:38.18,Italics,MICHIO,0,0,0,,No, wait. What if they question me?
+Dialogue: 99,0:16:38.18,0:16:41.46,Italics,MICHIO,0,0,0,,They might ask me about the circumstances \Nunder which I killed the bandits.
+Dialogue: 99,0:16:41.46,0:16:46.19,Italics,MICHIO,0,0,0,,Wouldn't they find it suspicious that I \Ndidn't bring them to my own town's knights?
+Dialogue: 99,0:16:46.83,0:16:48.06,Italics,MICHIO,0,0,0,,It's no use.
+Dialogue: 99,0:16:48.31,0:16:51.07,Italics,MICHIO,0,0,0,,My head's all screwed up.
+Dialogue: 99,0:16:51.74,0:16:54.01,Italics,MICHIO,0,0,0,,I don't know what will happen, \Nbut one thing's for certain.
+Dialogue: 99,0:16:54.01,0:16:58.40,Italics,MICHIO,0,0,0,,It's looking more likely \Nthat I'll acquire Roxanne.
+Dialogue: 99,0:16:58.40,0:17:00.95,Italics,MICHIO,0,0,0,,I did everything I could.
+Dialogue: 99,0:17:01.35,0:17:04.75,Italics,MICHIO,0,0,0,,I did everything.
+Dialogue: 99,0:17:13.29,0:17:15.66,Main,MICHIO,0,0,0,,I slept better than I expected.
+Dialogue: 99,0:17:16.84,0:17:17.55,Main,MICHIO,0,0,0,,Now, then...
+Dialogue: 99,0:17:21.51,0:17:26.94,Italics,MICHIO,0,0,0,,I should minimize the number of people \Nwho recognize me, just in case.
+Dialogue: 99,0:17:26.94,0:17:30.69,Italics,MICHIO,0,0,0,,It'd be easier if I knew a knight \Nwho was familiar with the situation.
+Dialogue: 99,0:17:32.35,0:17:33.52,Italics,MICHIO,0,0,0,,It's him.
+Dialogue: 99,0:17:34.46,0:17:37.20,Italics,MICHIO,0,0,0,,He was there when I claimed my first bounty.
+Dialogue: 99,0:17:39.08,0:17:39.87,Main,MICHIO,0,0,0,,Hey.
+Dialogue: 99,0:17:40.74,0:17:42.11,Main,MALE KNIGHT,0,0,0,,Hello.
+Dialogue: 99,0:17:42.11,0:17:45.08,Main,MICHIO,0,0,0,,Some guys picked a fight with me last night.
+Dialogue: 99,0:17:45.55,0:17:47.30,Main,MICHIO,0,0,0,,Apparently, they were bandits.
+Dialogue: 99,0:17:47.30,0:17:49.34,Main,MALE KNIGHT,0,0,0,,Bandits?
+Dialogue: 99,0:17:49.34,0:17:51.71,Main,MICHIO,0,0,0,,I fought back and killed them, of course.
+Dialogue: 99,0:17:51.71,0:17:54.43,Main,MALE KNIGHT,0,0,0,,How unfortunate.
+Dialogue: 99,0:17:54.43,0:17:57.81,Main,MALE KNIGHT,0,0,0,,May I take a look at your Intelligence Card?
+Dialogue: 99,0:17:57.81,0:17:58.56,Main,MICHIO,0,0,0,,Sure.
+Dialogue: 99,0:17:59.14,0:18:01.54,Main,MALE KNIGHT,0,0,0,,Will of the swiftly flowing spirits,
+Dialogue: 99,0:18:01.54,0:18:03.67,Main,MALE KNIGHT,0,0,0,,steady breath of wisdom.
+Dialogue: 99,0:18:03.67,0:18:05.56,Main,MALE KNIGHT,0,0,0,,Open Intelligence Card.
+Dialogue: 99,0:18:08.42,0:18:10.23,Main,MALE KNIGHT,0,0,0,,All good.
+Dialogue: 99,0:18:12.37,0:18:13.90,Main,MALE KNIGHT,0,0,0,,I'll go examine these.
+Dialogue: 99,0:18:17.18,0:18:20.44,Italics,MICHIO,0,0,0,,He didn't ask any questions. Success.
+Dialogue: 99,0:18:20.95,0:18:22.94,Italics,MICHIO,0,0,0,,I had the same thought last time,
+Dialogue: 99,0:18:22.94,0:18:26.70,Italics,MICHIO,0,0,0,,but I guess that's how bandits \Nare regarded in this world.
+Dialogue: 99,0:18:27.44,0:18:31.72,Main,MALE KNIGHT,0,0,0,,I was able to confirm they \Nbelonged to three bandits.
+Dialogue: 99,0:18:31.72,0:18:34.18,Main,MALE KNIGHT,0,0,0,,Two of them had bounties on them.
+Dialogue: 99,0:18:35.68,0:18:36.55,Main,MICHIO,0,0,0,,Thank you.
+Dialogue: 99,0:18:36.83,0:18:39.51,Italics,MICHIO,0,0,0,,That was easier than I expected.
+Dialogue: 99,0:18:42.47,0:18:45.35,Main,MICHIO,0,0,0,,How many gold coins did I get?
+Dialogue: 99,0:18:45.59,0:18:47.27,Main,MICHIO,0,0,0,,One, two...
+Dialogue: 99,0:18:52.60,0:18:54.09,Italics,MICHIO,0,0,0,,There's more than seven in here.
+Dialogue: 99,0:18:54.09,0:18:58.03,Italics,MICHIO,0,0,0,,With the 33 gold coins and 228 \Nsilver coins I've already got,
+Dialogue: 99,0:18:58.52,0:19:00.78,Italics,MICHIO,0,0,0,,I can buy Roxanne.
+Dialogue: 99,0:19:04.32,0:19:07.79,Main,ALAN,0,0,0,,I knew you could do it.
+Dialogue: 99,0:19:07.79,0:19:09.89,Main,MICHIO,0,0,0,,Sorry about all the silver coins.
+Dialogue: 99,0:19:09.89,0:19:11.50,Main,ALAN,0,0,0,,That's not a problem.
+Dialogue: 99,0:19:11.50,0:19:13.41,Main,ALAN,0,0,0,,I'll be taking these.
+Dialogue: 99,0:19:14.12,0:19:17.55,Main,ALAN,0,0,0,,I'll bring her to you right away. \NOne moment, please.
+Dialogue: 99,0:19:24.99,0:19:26.42,Italics,MICHIO,0,0,0,,He's taking a while.
+Dialogue: 99,0:19:28.00,0:19:29.93,Main,ALAN,0,0,0,,Thank you for waiting.
+Dialogue: 99,0:19:29.93,0:19:33.65,Main,ALAN,0,0,0,,This is Roxanne, the girl you requested.
+Dialogue: 99,0:19:39.64,0:19:42.63,Main,ROXANNE,0,0,0,,Thank you.
+Dialogue: 99,0:19:43.40,0:19:44.58,Main,MICHIO,0,0,0,,Nice to meet you.
+Dialogue: 99,0:19:45.15,0:19:49.97,Main,ROXANNE,0,0,0,,Yes, Master. However, \NI must apologize to you for one thing.
+Dialogue: 99,0:19:51.12,0:19:52.05,Italics,MICHIO,0,0,0,,What?
+Dialogue: 99,0:19:52.54,0:19:56.12,Italics,MICHIO,0,0,0,,Is she going to spring on me now that \Nshe was working with the slave trader?
+Dialogue: 99,0:19:56.12,0:19:59.55,Italics,MICHIO,0,0,0,,Or that she didn't want me to buy her?
+Dialogue: 99,0:20:01.28,0:20:06.56,Main,ROXANNE,0,0,0,,I believed you'd come for \Nme and waited for you.
+Dialogue: 99,0:20:06.56,0:20:10.78,Main,ROXANNE,0,0,0,,But I doubted you once.
+Dialogue: 99,0:20:10.78,0:20:13.48,Main,ROXANNE,0,0,0,,I thought you might not come for me.
+Dialogue: 99,0:20:16.31,0:20:17.79,Main,ROXANNE,0,0,0,,Please forgive me.
+Dialogue: 99,0:20:17.79,0:20:21.95,Main,ROXANNE,0,0,0,,Otherwise I don't deserve \Nto be purchased by you.
+Dialogue: 99,0:20:24.19,0:20:27.95,Italics,MICHIO,0,0,0,,As of today, you shall \Nbe known as Melos-anne.
+Dialogue: 99,0:20:28.67,0:20:30.00,Main,MICHIO,0,0,0,,Raise your head.
+Dialogue: 99,0:20:33.21,0:20:35.33,Main,MICHIO,0,0,0,,It's not a problem. \NDon't worry about it.
+Dialogue: 99,0:20:36.83,0:20:37.59,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:20:37.93,0:20:40.49,Main,ALAN,0,0,0,,Roxanne, go to the customer.
+Dialogue: 99,0:20:46.91,0:20:49.68,Main,ALAN,0,0,0,,Let us establish a contract.
+Dialogue: 99,0:20:50.32,0:20:53.85,Main,ALAN,0,0,0,,May I see your Intelligence Cards?
+Dialogue: 99,0:20:53.85,0:20:54.94,Main,MICHIO,0,0,0,,Yeah.
+Dialogue: 99,0:20:53.85,0:20:54.94,Main,ROXANNE,0,0,0,,Yes, sir.
+Dialogue: 99,0:20:54.94,0:20:57.20,Main - Top,ALAN,0,0,0,,Will of the swiftly flowing spirits,
+Dialogue: 99,0:20:57.20,0:20:58.69,Main - Top,ALAN,0,0,0,,steady breath of wisdom.
+Dialogue: 99,0:20:58.69,0:21:00.79,Main - Top,ALAN,0,0,0,,Open Intelligence Card.
+Dialogue: 99,0:20:58.69,0:21:03.05,Italics,MICHIO,0,0,0,,I should've given up on \NRoxanne at least once, too.
+Dialogue: 99,0:21:03.05,0:21:05.20,Italics,MICHIO,0,0,0,,Then we'd be even.
+Dialogue: 99,0:21:05.20,0:21:09.20,Italics,MICHIO,0,0,0,,Not that I could've given \Nup on someone so beautiful.
+Dialogue: 99,0:21:10.54,0:21:13.20,Main,ALAN,0,0,0,,The contract is sealed.
+Dialogue: 99,0:21:14.36,0:21:17.79,Main,ALAN,0,0,0,,Please take a look each \Nother's Intelligence Cards.
+Dialogue: 99,0:21:17.79,0:21:19.42,Main,ROXANNE,0,0,0,,Yes, sir. Here.
+Dialogue: 99,0:21:22.08,0:21:25.26,Main,MICHIO,0,0,0,,I see. I can tell we've signed a contract.
+Dialogue: 99,0:21:25.82,0:21:29.26,Italics,MICHIO,0,0,0,,Which means the slave trader \Nwasn't a con artist.
+Dialogue: 99,0:21:30.37,0:21:33.04,Main,ROXANNE,0,0,0,,May I?
+Dialogue: 99,0:21:33.64,0:21:37.19,Main,MICHIO,0,0,0,,There's nothing on here I \Nwouldn't want you seeing.
+Dialogue: 99,0:21:39.27,0:21:40.27,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:21:40.64,0:21:42.72,Italics,MICHIO,0,0,0,,My job is set to Explorer.
+Dialogue: 99,0:21:42.72,0:21:45.28,Italics,MICHIO,0,0,0,,So your card displays your first job.
+Dialogue: 99,0:21:45.99,0:21:49.28,Italics,MICHIO,0,0,0,,And this shows that I own her.
+Dialogue: 99,0:21:49.28,0:21:53.70,Main - Top,ALAN,0,0,0,,Thank you for purchasing one of our slaves.
+Dialogue: 99,0:21:52.84,0:21:53.70,Italics,MICHIO,0,0,0,,Finally...
+Dialogue: 99,0:21:53.70,0:21:58.36,Main,ALAN,0,0,0,,As of today, you are Roxanne's owner.
+Dialogue: 99,0:21:58.36,0:21:59.65,Italics,MICHIO,0,0,0,,Finally...
+Dialogue: 99,0:22:00.72,0:22:05.15,Italics,MICHIO,0,0,0,,Finally, I've acquired Roxanne.
 Dialogue: 0,0:00:26.96,0:00:31.09,Status Text,SIGN MIDDLE,0,0,0,,{\b1\an8\pos(888,195)}Equipped Jobs
 Dialogue: 0,0:00:26.96,0:00:31.09,Status Text,SIGN RIGHT,0,0,0,,{\b1\an8\pos(1254,195)}Jobs
 Dialogue: 0,0:00:26.96,0:00:31.09,Status Text,SIGN RIGHT,0,0,0,,{\an8\b1\pos(1620,303.999)}Villager: Lv 5\NHero: Lv 2\NExplorer: Lv 3\NThief: Lv 3\NWarrior: Lv 1\NSwordsman: Lv 1\NMerchant: Lv 1

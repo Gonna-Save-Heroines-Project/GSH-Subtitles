@@ -29,470 +29,470 @@ Style: KazuyaShuuSign,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:07.16,0:00:08.64,Dialogue,,0,0,0,,{\i1}Visam...
-Dialogue: 100,0:00:11.46,0:00:13.78,Dialogue,,0,0,0,,Te rog să te trezești, domnule mire.
-Dialogue: 100,0:00:13.78,0:00:16.32,Dialogue,,0,0,0,,Mireasa este gata.
-Dialogue: 100,0:00:18.33,0:00:22.46,Dialogue,,0,0,0,,{\i1}Aveam acel vis cu incredibila zi care ne-a adus împreună.
-Dialogue: 100,0:00:26.60,0:00:27.92,Dialogue,,0,0,0,,Un platou cu friptură de vită.
-Dialogue: 100,0:00:28.32,0:00:29.62,Dialogue,,0,0,0,,Fără friptura de vită.
-Dialogue: 100,0:00:29.62,0:00:30.84,Dialogue,,0,0,0,,Vine imediat.
-Dialogue: 100,0:00:31.08,0:00:35.01,Dialogue,,0,0,0,,{\i1}Ai crede că cel mai ieftin fel de mâncare \Ndin meniul cantinei este orezul, dar te înșeli.
-Dialogue: 100,0:00:35.64,0:00:39.00,Dialogue,,0,0,0,,{\i1}Scade 200 de yeni prin \Neliminarea fripturii de vită
-Dialogue: 100,0:00:39.00,0:00:42.56,Dialogue,,0,0,0,,{\i1}și îți vei cumpăra orez, supă miso și murături la prețul orezului.
-Dialogue: 100,0:00:45.25,0:00:46.77,Dialogue,,0,0,0,,{\i1}Și poți lua câtă apă vrei pe gratis.
-Dialogue: 100,0:00:46.77,0:00:48.27,Dialogue,,0,0,0,,{\i1}Cantina școlii este cea mai tare.
-Dialogue: 100,0:00:48.52,0:00:50.66,Dialogue,,0,0,0,,Uesugi-kun este singur din nou.
-Dialogue: 100,0:00:50.66,0:00:51.86,Dialogue,,0,0,0,,Nu-mi vine să cred.
-Dialogue: 100,0:02:38.66,0:02:40.30,Dialogue,,0,0,0,,Hei, cine este aia?
-Dialogue: 100,0:02:40.30,0:02:42.01,Dialogue,,0,0,0,,Cineva stă lângă Uesugi?
-Dialogue: 100,0:02:42.01,0:02:43.01,Dialogue,,0,0,0,,Este prima oară!
-Dialogue: 100,0:02:43.01,0:02:44.76,Dialogue,,0,0,0,,{\i1}Nu poartă uniforma noastră...
-Dialogue: 100,0:02:45.76,0:02:47.54,Dialogue,,0,0,0,,{\i1}Stai, cum de s-a întâmplat una ca asta?
-Dialogue: 100,0:02:49.43,0:02:51.73,Dialogue,,0,0,0,,Eu am fost aici prima.
-Dialogue: 100,0:02:51.73,0:02:53.56,Dialogue,,0,0,0,,Masa de lângă este liberă.
-Dialogue: 100,0:02:53.89,0:02:55.19,Dialogue,,0,0,0,,Mută-te, te rog.
-Dialogue: 100,0:02:55.56,0:02:58.11,Dialogue,,0,0,0,,Eu am stat aici în fiecare zi.
-Dialogue: 100,0:02:58.11,0:02:59.37,Dialogue,,0,0,0,,Mută-te tu.
-Dialogue: 100,0:03:01.83,0:03:04.80,Dialogue,,0,0,0,,Privește, Uesugi-kun ia prânzul cu o fată.
-Dialogue: 100,0:03:04.80,0:03:06.27,Dialogue,,0,0,0,,Ce? Serios?
-Dialogue: 100,0:03:07.08,0:03:09.04,Dialogue,,0,0,0,,Fir-ar. Acei idioți...
-Dialogue: 100,0:03:11.48,0:03:12.98,Dialogue,,0,0,0,,{\i1}Este roșie toată.
-Dialogue: 100,0:03:13.71,0:03:15.62,Dialogue,,0,0,0,,{\i1}Nu te-a forțat nimeni, știi.
-Dialogue: 100,0:03:18.25,0:03:19.88,Dialogue,,0,0,0,,{\i1}Udon la 250 de yeni.
-Dialogue: 100,0:03:19.88,0:03:21.76,Dialogue,,0,0,0,,{\i1}Doi creveți prăjiți la 150 de yeni.
-Dialogue: 100,0:03:21.76,0:03:23.02,Dialogue,,0,0,0,,{\i1}Calamar prăjit la 100.
-Dialogue: 100,0:03:23.02,0:03:23.85,Dialogue,,0,0,0,,{\i1}Pui prăjit.
-Dialogue: 100,0:03:23.85,0:03:24.94,Dialogue,,0,0,0,,{\i1}Cartof dulce prăjit.
-Dialogue: 100,0:03:24.94,0:03:26.31,Dialogue,,0,0,0,,{\i1}Și, în plus, o budincă ca desert!
-Dialogue: 100,0:03:27.52,0:03:30.10,Dialogue,,0,0,0,,{\i1}Peste 1.000 de yeni pentru un prânz? \NEști cumva putred de bogată?!
-Dialogue: 100,0:03:32.00,0:03:33.35,Dialogue,,0,0,0,,Ei bine, fă cum dorești.
-Dialogue: 100,0:03:35.14,0:03:36.27,Dialogue,,0,0,0,,Să mâncăm.
-Dialogue: 100,0:03:43.36,0:03:45.24,Dialogue,,0,0,0,,Nu prea ai maniere.
-Dialogue: 100,0:03:46.76,0:03:49.01,Dialogue,,0,0,0,,Înveți în timp ce mănânci?
-Dialogue: 100,0:03:49.01,0:03:50.96,Dialogue,,0,0,0,,Recapitulez pentru un test.
-Dialogue: 100,0:03:50.96,0:03:52.46,Dialogue,,0,0,0,,Lasă-mă în pace.
-Dialogue: 100,0:03:53.75,0:03:55.96,Dialogue,,0,0,0,,Cred că stai destul de prost cu notele.
-Dialogue: 100,0:03:56.54,0:03:57.88,Dialogue,,0,0,0,,Cât ai luat?
-Dialogue: 100,0:03:58.02,0:03:59.26,Dialogue,,0,0,0,,H-Hei!
-Dialogue: 100,0:03:59.26,0:04:01.99,Dialogue,,0,0,0,,Să vedem, Uesugi Futaro-kun.
-Dialogue: 100,0:04:01.99,0:04:03.68,Dialogue,,0,0,0,,Ai luat...
-Dialogue: 100,0:04:04.74,0:04:06.28,Dialogue,,0,0,0,,O-O sută de puncte?!
-Dialogue: 100,0:04:08.08,0:04:09.00,Dialogue,,0,0,0,,Pe bune?
-Dialogue: 100,0:04:09.00,0:04:11.06,Dialogue,,0,0,0,,O, vai, cât de jenant.
-Dialogue: 100,0:04:12.07,0:04:13.86,Dialogue,,0,0,0,,Mi-ai arătat asta intenționat!
-Dialogue: 100,0:04:16.74,0:04:20.24,Dialogue,,0,0,0,,Nu-mi place să recunosc, \Ndar nu sunt prea bună la învățat.
-Dialogue: 100,0:04:20.24,0:04:21.11,Dialogue,,0,0,0,,Te invidiez.
-Dialogue: 100,0:04:22.12,0:04:23.16,Dialogue,,0,0,0,,Știu!
-Dialogue: 100,0:04:23.16,0:04:26.57,Dialogue,,0,0,0,,Zână norocului te-a adus la masa mea! Ar trebui să mă ajuți cu învățatul!
-Dialogue: 100,0:04:26.57,0:04:28.12,Dialogue,,0,0,0,,Sărut mâna pentru masă.
-Dialogue: 100,0:04:28.73,0:04:30.29,Dialogue,,0,0,0,,Ai terminat de mâncat deja?!
-Dialogue: 100,0:04:31.64,0:04:34.87,Dialogue,,0,0,0,,Chiar te-ai săturat?
-Dialogue: 100,0:04:35.04,0:04:37.63,Dialogue,,0,0,0,,Ai vrea să-ți dau puțin de la mine?
-Dialogue: 100,0:04:38.17,0:04:40.63,Dialogue,,0,0,0,,Mai degrabă, tu ai comandat prea mult.
-Dialogue: 100,0:04:41.60,0:04:42.55,Dialogue,,0,0,0,,Te vei îngrășa.
-Dialogue: 100,0:04:42.77,0:04:43.81,Dialogue,,0,0,0,,Îngrășa...
-Dialogue: 100,0:04:45.84,0:04:48.72,Dialogue,,0,0,0,,Nu am mai întâlnit o persoană \Natât de insensibilă ca tine!
-Dialogue: 100,0:04:48.72,0:04:50.26,Dialogue,,0,0,0,,Nu-ți mai dau nimic!
-Dialogue: 100,0:04:53.52,0:04:55.44,Dialogue,,0,0,0,,Putem scăpa de datoria noastră?
-Dialogue: 100,0:04:55.99,0:04:58.66,Dialogue,,0,0,0,,{\i1}Tata a găsit un serviciu cu \Njumătate de normă bun.
-Dialogue: 100,0:04:58.66,0:05:00.77,Dialogue,,0,0,0,,{\i1}O familie bogată tocmai s-a mutat aici
-Dialogue: 100,0:05:01.00,0:05:04.28,Dialogue,,0,0,0,,și caută un meditator pentru fata lor.
-Dialogue: 100,0:05:04.48,0:05:05.79,Dialogue,,0,0,0,,{\i1}Un meditator?
-Dialogue: 100,0:05:06.29,0:05:08.54,Dialogue,,0,0,0,,Un loc de muncă distractiv și ușor.
-Dialogue: 100,0:05:08.54,0:05:10.83,Dialogue,,0,0,0,,Și plătesc de cinci ori mai \Nmult decât este normal.
-Dialogue: 100,0:05:11.18,0:05:14.02,Dialogue,,0,0,0,,{\i1}Asta sună destul de dubios.
-Dialogue: 100,0:05:14.44,0:05:17.54,Dialogue,,0,0,0,,Am auzit că oamenii pot \Ntrăi cu un singur rinichi.
-Dialogue: 100,0:05:17.77,0:05:19.70,Dialogue,,0,0,0,,B-Bați cumva un apropo \Nca să-mi vând unul?!
-Dialogue: 100,0:05:20.88,0:05:21.91,Dialogue,,0,0,0,,{\i1}Glumeam doar.
-Dialogue: 100,0:05:22.53,0:05:26.18,Dialogue,,0,0,0,,Dar acum putem mânca pe săturate,
-Dialogue: 100,0:05:26.18,0:05:27.43,Dialogue,,0,0,0,,{\i1}frățioare.
-Dialogue: 100,0:05:31.20,0:05:34.22,Dialogue,,0,0,0,,{\i1}Deci, cum este această fată?
-Dialogue: 100,0:05:35.01,0:05:36.48,Dialogue,,0,0,0,,{\i1}Este la liceu.
-Dialogue: 100,0:05:36.48,0:05:40.02,Dialogue,,0,0,0,,{\i1}Au spus că se transferă la școala ta.
-Dialogue: 100,0:05:40.72,0:05:43.33,Dialogue,,0,0,0,,{\i1}Numele ei este, ei bine, Nakano...
-Dialogue: 100,0:05:43.33,0:05:44.72,Dialogue,,0,0,0,,Nakano Itsuki.
-Dialogue: 100,0:05:44.72,0:05:46.46,Dialogue,,0,0,0,,Mă bucur să vă cunosc.
-Dialogue: 100,0:05:49.72,0:05:51.66,Dialogue,,0,0,0,,{\i1}O știu pe fata asta!
-Dialogue: 100,0:05:51.66,0:05:53.26,Dialogue,,0,0,0,,Elevul transferat este o fată?
-Dialogue: 100,0:05:53.26,0:05:54.21,Dialogue,,0,0,0,,Este chiar drăguță.
-Dialogue: 100,0:05:54.21,0:05:56.17,Dialogue,,0,0,0,,Aceea este uniforma Școlii \Nde Fete Kurobara, nu-i așa?
-Dialogue: 100,0:05:56.17,0:05:58.16,Dialogue,,0,0,0,,Pe bune? Trebuie să fie putred de bogată!
-Dialogue: 100,0:05:58.16,0:06:00.46,Dialogue,,0,0,0,,{\i1}O elevă transferată, bogată?
-Dialogue: 100,0:06:01.74,0:06:03.40,Dialogue,,0,0,0,,{\i1}Deci, ea este?
-Dialogue: 100,0:06:04.24,0:06:05.59,Dialogue,,0,0,0,,B-Bună.
-Dialogue: 100,0:06:10.79,0:06:12.36,Dialogue,,0,0,0,,Mă bucur să te cunosc.
-Dialogue: 100,0:06:12.36,0:06:14.35,Dialogue,,0,0,0,,{\i1}E-E de rău.
-Dialogue: 100,0:06:14.35,0:06:17.50,Dialogue,,0,0,0,,Poftim. Platoul cu friptură \Nde vită fără friptură.
-Dialogue: 100,0:06:18.83,0:06:20.56,Dialogue,,0,0,0,,{\i1}Am dat-o în bară ieri,
-Dialogue: 100,0:06:20.99,0:06:22.99,Dialogue,,0,0,0,,{\i1}dar dacă eleva transferată mă respinge,
-Dialogue: 100,0:06:23.52,0:06:26.28,Dialogue,,0,0,0,,{\i1}îmi voi pierde șansa \Nde a lucra ca meditator.
-Dialogue: 100,0:06:26.69,0:06:29.15,Dialogue,,0,0,0,,{\i1}Trebuie să mă pun bine cu ea.
-Dialogue: 100,0:06:30.52,0:06:34.66,Dialogue,,0,0,0,,M-am întors. Voiam să \Nstau lângă tine din nou.
-Dialogue: 100,0:06:35.04,0:06:38.03,Dialogue,,0,0,0,,Desgiur, nu doar pentru prânz, \Nci și pentru învățat.
-Dialogue: 100,0:06:38.03,0:06:39.16,Dialogue,,0,0,0,,O, vai!
-Dialogue: 100,0:06:39.91,0:06:41.26,Dialogue,,0,0,0,,{\i1}Perfect.
-Dialogue: 100,0:06:43.16,0:06:44.80,Dialogue,,0,0,0,,Mersi că m-ați așteptat.
-Dialogue: 100,0:06:44.80,0:06:46.38,Dialogue,,0,0,0,,{\i1}Mănâncă cu prietenele ei.
-Dialogue: 100,0:06:48.42,0:06:51.05,Dialogue,,0,0,0,,Îmi pare rău, dar nu mai \Nsunt locuri la această masă.
-Dialogue: 100,0:06:59.70,0:07:02.18,Dialogue,,0,0,0,,Hei, tu. Pleci așa pur și simplu?
-Dialogue: 100,0:07:04.16,0:07:06.46,Dialogue,,0,0,0,,Umbli după Itsuki-chan, nu-i așa?
-Dialogue: 100,0:07:07.90,0:07:09.42,Dialogue,,0,0,0,,Nu {\i1}umblu{\i0} după ea.
-Dialogue: 100,0:07:09.42,0:07:11.91,Dialogue,,0,0,0,,Ce? Deci, chiar după ea {\i1}umbli{\i0}?
-Dialogue: 100,0:07:13.21,0:07:15.34,Dialogue,,0,0,0,,Ce îți place la ea?
-Dialogue: 100,0:07:15.34,0:07:17.74,Dialogue,,0,0,0,,Că este cumsecade? Pare să-ți placă genul acesta de fete.
-Dialogue: 100,0:07:18.54,0:07:20.75,Dialogue,,0,0,0,,Știu, voi merge s-o chem.
-Dialogue: 100,0:07:21.08,0:07:21.87,Dialogue,,0,0,0,,Așteaptă.
-Dialogue: 100,0:07:24.13,0:07:25.59,Dialogue,,0,0,0,,Nu am nevoie de ajutorul tău.
-Dialogue: 100,0:07:26.14,0:07:28.52,Dialogue,,0,0,0,,Eu singur trebuie \Nsă-mi rezolv problemele.
-Dialogue: 100,0:07:30.48,0:07:33.93,Dialogue,,0,0,0,,Asta este destul de îndrăzneț venind de la o persoană căreia îi place învățatul, nu?
-Dialogue: 100,0:07:34.20,0:07:37.64,Dialogue,,0,0,0,,Poți veni la sora ta mai mare Ichika dacă vei avea nevoie de ajutor.
-Dialogue: 100,0:07:38.08,0:07:39.82,Dialogue,,0,0,0,,Pariez că asta o să fie distractiv.
-Dialogue: 100,0:07:40.59,0:07:41.96,Dialogue,,0,0,0,,Ce? "Soră mai mare?"
-Dialogue: 100,0:07:43.05,0:07:44.22,Dialogue,,0,0,0,,Suntem în același an.
-Dialogue: 100,0:07:44.80,0:07:45.49,Dialogue,,0,0,0,,Cred.
-Dialogue: 100,0:07:46.72,0:07:48.00,Dialogue,,0,0,0,,{\i1}Totuși, asta e de rău.
-Dialogue: 100,0:07:48.41,0:07:53.11,Dialogue,,0,0,0,,{\i1}Mă voi întâlni cu ea ca \Nmeditatorul ei astăzi, după ore.
-Dialogue: 100,0:07:51.80,0:07:53.11,Dialogue Top,,0,0,0,,Uesugi-san.
-Dialogue: 100,0:07:53.11,0:07:54.40,Dialogue,,0,0,0,,{\i1}Trebuie să repar asta până atunci.
-Dialogue: 100,0:07:53.41,0:07:54.92,Dialogue Top,,0,0,0,,Uesugi-san!
-Dialogue: 100,0:07:54.92,0:07:56.28,Dialogue,,0,0,0,,Uesugi-san!
-Dialogue: 100,0:07:57.97,0:07:59.70,Dialogue,,0,0,0,,În sfârșit ți-ai ridicat privirea.
-Dialogue: 100,0:08:02.43,0:08:04.40,Dialogue,,0,0,0,,C-C-Cine ești?
-Dialogue: 100,0:08:04.40,0:08:06.46,Dialogue,,0,0,0,,C-Cum de îmi știi numele?
-Dialogue: 100,0:08:08.23,0:08:10.67,Dialogue,,0,0,0,,Asta este o întrebare excelentă.
-Dialogue: 100,0:08:11.67,0:08:14.64,Dialogue,,0,0,0,,Ai pierdut cumva un test \Ncu un punctaj perfect?
-Dialogue: 100,0:08:14.64,0:08:16.97,Dialogue,,0,0,0,,Sau pe acesta cu zero puncte?
-Dialogue: 100,0:08:17.35,0:08:19.56,Dialogue,,0,0,0,,Testul meu? De unde îl ai?
-Dialogue: 100,0:08:19.56,0:08:21.48,Dialogue,,0,0,0,,Păi, vezi tu...
-Dialogue: 100,0:08:22.09,0:08:22.98,Dialogue,,0,0,0,,Atunci,
-Dialogue: 100,0:08:23.96,0:08:24.97,Dialogue,,0,0,0,,{\i1}asta{\i0} s-a întâmplat,
-Dialogue: 100,0:08:25.56,0:08:27.32,Dialogue,,0,0,0,,Eu am observat...
-Dialogue: 100,0:08:28.88,0:08:30.25,Dialogue,,0,0,0,,Și acum, să vedem.
-Dialogue: 100,0:08:30.84,0:08:32.46,Dialogue,,0,0,0,,Deci, care este?
-Dialogue: 100,0:08:33.28,0:08:34.11,Dialogue,,0,0,0,,Dreapta.
-Dialogue: 100,0:08:34.11,0:08:36.62,Dialogue,,0,0,0,,Uau, ești așa de sincer.
-Dialogue: 100,0:08:37.06,0:08:38.98,Dialogue,,0,0,0,,Ți le voi da pe amândouă.
-Dialogue: 100,0:08:38.98,0:08:40.62,Dialogue,,0,0,0,,Nu-mi trebuie.
-Dialogue: 100,0:08:40.99,0:08:42.92,Dialogue,,0,0,0,,Și al cui este cel cu zero puncte?
-Dialogue: 100,0:08:42.92,0:08:44.36,Dialogue,,0,0,0,,Al meu.
-Dialogue: 100,0:08:44.36,0:08:46.63,Dialogue,,0,0,0,,Și te-ai gândit să mi-l dai?
-Dialogue: 100,0:08:48.28,0:08:53.81,Dialogue,,0,0,0,,Prima impresie pe care am avut-o despre tine era că ești un singuratic posomorât,
-Dialogue: 100,0:08:53.81,0:08:57.06,Dialogue,,0,0,0,,dar voi adăuga și "geniu" lângă.
-Dialogue: 100,0:08:57.06,0:08:57.89,Dialogue,,0,0,0,,Ce rapid.
-Dialogue: 100,0:09:05.18,0:09:06.96,Dialogue,,0,0,0,,Vrei să nu mă mai urmărești?!
-Dialogue: 100,0:09:06.96,0:09:09.11,Dialogue,,0,0,0,,Încă nu mi-ai mulțumit.
-Dialogue: 100,0:09:10.36,0:09:12.86,Dialogue,,0,0,0,,Când cineva ridică ceva ce îți aparține, tu trebuie să-i spui "mulțumesc".
-Dialogue: 100,0:09:13.44,0:09:16.14,Dialogue,,0,0,0,,Cum de nu știi așa ceva? \NNu erai un geniu?
-Dialogue: 100,0:09:16.97,0:09:18.50,Dialogue,,0,0,0,,S-a întâmplat să găsesc asta.
-Dialogue: 100,0:09:19.92,0:09:21.50,Dialogue,,0,0,0,,Acum suntem chit.
-Dialogue: 100,0:09:23.12,0:09:24.32,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:09:24.32,0:09:25.74,Dialogue,,0,0,0,,Mulțumesc.
-Dialogue: 100,0:09:25.74,0:09:27.37,Dialogue,,0,0,0,,{\i1}Ea chiar mi-a mulțumit.
-Dialogue: 100,0:09:31.16,0:09:34.07,Dialogue,,0,0,0,,{\i1}Credeam că va fi singură în drumul spre casă.
-Dialogue: 100,0:09:34.79,0:09:36.66,Dialogue,,0,0,0,,Cred că mănânci prea mult, Itsuki.
-Dialogue: 100,0:09:36.66,0:09:37.76,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:09:38.16,0:09:39.78,Dialogue,,0,0,0,,Este abia a doua.
-Dialogue: 100,0:09:41.35,0:09:43.72,Dialogue,,0,0,0,,Devoratoare de chifle cu carne!
-Dialogue: 100,0:09:44.48,0:09:46.59,Dialogue,,0,0,0,,Î-Încetează!
-Dialogue: 100,0:09:46.59,0:09:48.06,Dialogue,,0,0,0,,Nu vei fi populară cu băieții!
-Dialogue: 100,0:09:48.06,0:09:50.18,Dialogue,,0,0,0,,Nu este asta treaba ta!
-Dialogue: 100,0:09:50.18,0:09:51.99,Dialogue,,0,0,0,,Nu găsesc nicio șansă ca să-mi cer scuze.
-Dialogue: 100,0:09:52.43,0:09:54.12,Dialogue,,0,0,0,,Te distrezi de unul singur?
-Dialogue: 100,0:09:56.04,0:09:57.80,Dialogue,,0,0,0,,N-Nu e prea rău.
-Dialogue: 100,0:09:58.26,0:09:59.95,Dialogue,,0,0,0,,Acesta este hobby-ul meu.
-Dialogue: 100,0:10:00.68,0:10:01.80,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:10:01.80,0:10:04.20,Dialogue,,0,0,0,,Holbatul la fetele de liceu este hobby-ul tău?
-Dialogue: 100,0:10:04.84,0:10:05.72,Dialogue,,0,0,0,,Voi suna la poliție.
-Dialogue: 100,0:10:06.65,0:10:08.30,Dialogue,,0,0,0,,Te rog să nu mă denunți.
-Dialogue: 100,0:10:08.91,0:10:11.14,Dialogue,,0,0,0,,Și nu-i spune prietenei tale Itsuki-chan.
-Dialogue: 100,0:10:11.61,0:10:12.88,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:10:12.88,0:10:13.88,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:10:14.24,0:10:16.28,Dialogue,,0,0,0,,Ea nu este prietena mea.
-Dialogue: 100,0:10:22.76,0:10:24.11,Dialogue,,0,0,0,,A-Acesta este locul?
-Dialogue: 100,0:10:24.74,0:10:26.82,Dialogue,,0,0,0,,Chiar este foarte bogată.
-Dialogue: 100,0:10:29.24,0:10:31.50,Dialogue,,0,0,0,,Asta este adresa corectă, cred.
-Dialogue: 100,0:10:37.32,0:10:39.29,Dialogue,,0,0,0,,Ce ești tu, un urmăritor?
-Dialogue: 100,0:10:39.29,0:10:41.78,Dialogue,,0,0,0,,Poți vorbi cu mine dacă ai nevoie de ceva.
-Dialogue: 100,0:10:43.44,0:10:45.46,Dialogue,,0,0,0,,Nu voi ajunge nicăieri vorbind cu voi.
-Dialogue: 100,0:10:45.46,0:10:46.54,Dialogue,,0,0,0,,Ce persistent ești.
-Dialogue: 100,0:10:47.60,0:10:49.55,Dialogue,,0,0,0,,Oamenii chiar nu te plac, nu-i așa?
-Dialogue: 100,0:10:50.16,0:10:52.04,Dialogue,,0,0,0,,Pleacă acasă odată.
-Dialogue: 100,0:10:54.16,0:10:55.24,Dialogue,,0,0,0,,Să plec acasă?
-Dialogue: 100,0:10:55.24,0:10:56.86,Dialogue,,0,0,0,,Dar aici locuiesc.
-Dialogue: 100,0:10:56.86,0:10:58.04,Dialogue,,0,0,0,,S-Serios?
-Dialogue: 100,0:10:58.04,0:10:59.01,Dialogue,,0,0,0,,Îmi cer scuze!
-Dialogue: 100,0:10:59.89,0:11:02.64,Dialogue,,0,0,0,,Friptură de vită fără friptură.
-Dialogue: 100,0:11:03.87,0:11:05.35,Dialogue,,0,0,0,,Ești cumva la dietă?
-Dialogue: 100,0:11:09.12,0:11:10.35,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:11:10.35,0:11:12.35,Dialogue,,0,0,0,,Știam eu!
-Dialogue: 100,0:11:12.61,0:11:13.30,Dialogue,,0,0,0,,{\i1}Uite-o.
-Dialogue: 100,0:11:14.96,0:11:17.53,Dialogue,,0,0,0,,{\i1}Asta este ultima mea \Nșansă ca să vorbesc cu ea.
-Dialogue: 100,0:11:19.40,0:11:20.61,Dialogue,,0,0,0,,{\i1}Trebuie să ajung la timp!
-Dialogue: 100,0:11:31.29,0:11:32.79,Dialogue,,0,0,0,,{\i1}Asta este numai vina ei!
-Dialogue: 100,0:11:33.27,0:11:36.31,Dialogue,,0,0,0,,{\i1}Că trebuie să îndur discomfortul \Nde a mă purta umil...
-Dialogue: 100,0:11:36.31,0:11:40.37,Dialogue,,0,0,0,,{\i1}Că trebuie să fiu fleașcă de transpirație în drumul meu de la școală spre casă...
-Dialogue: 100,0:11:40.37,0:11:42.38,Dialogue,,0,0,0,,{\i1}Că acele ciudate continue să \Nse bage în seamă cu mine...
-Dialogue: 100,0:11:43.67,0:11:44.62,Dialogue,,0,0,0,,{\i1}Este numai...
-Dialogue: 100,0:11:49.47,0:11:51.03,Dialogue,,0,0,0,,{\i1}Este numai vina...
-Dialogue: 100,0:11:52.34,0:11:53.15,Dialogue,,0,0,0,,{\i1}...ei.
-Dialogue: 100,0:11:54.17,0:11:55.87,Dialogue,,0,0,0,,T-Tu ești.
-Dialogue: 100,0:11:56.32,0:11:57.44,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:11:57.44,0:11:59.36,Dialogue,,0,0,0,,Ai nevoie de ceva de la mine?
-Dialogue: 100,0:11:59.84,0:12:01.82,Dialogue,,0,0,0,,Î-În legătură cu ziua de ieri...
-Dialogue: 100,0:12:02.08,0:12:03.79,Dialogue,,0,0,0,,Ce? Ce vrei să spui?
-Dialogue: 100,0:12:03.79,0:12:05.74,Dialogue,,0,0,0,,Oricum, ce faci aici?
-Dialogue: 100,0:12:06.84,0:12:08.24,Dialogue,,0,0,0,,În legătură cu ziua de ieri, păi...
-Dialogue: 100,0:12:08.24,0:12:09.30,Dialogue,,0,0,0,,E-Eu...
-Dialogue: 100,0:12:09.30,0:12:11.12,Dialogue,,0,0,0,,Am terminat aici?
-Dialogue: 100,0:12:11.34,0:12:12.79,Dialogue,,0,0,0,,Nu, așteaptă.
-Dialogue: 100,0:12:13.25,0:12:15.67,Dialogue,,0,0,0,,Ce încerci mai exact să faci?
-Dialogue: 100,0:12:15.67,0:12:18.84,Dialogue,,0,0,0,,Meditatorul meu trebuie să ajungă curând.
-Dialogue: 100,0:12:18.84,0:12:19.94,Dialogue,,0,0,0,,Eu sunt acela.
-Dialogue: 100,0:12:22.01,0:12:22.84,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:12:23.66,0:12:25.86,Dialogue,,0,0,0,,Eu sunt meditatorul.
-Dialogue: 100,0:12:26.18,0:12:28.10,Dialogue,,0,0,0,,{\i1}Nu cred!
-Dialogue: 100,0:12:30.88,0:12:32.62,Dialogue,,0,0,0,,R-Refuz complet!
-Dialogue: 100,0:12:32.62,0:12:33.99,Dialogue,,0,0,0,,Și mie îmi displace asta.
-Dialogue: 100,0:12:33.99,0:12:35.71,Dialogue,,0,0,0,,Chiar mai mult ca ție.
-Dialogue: 100,0:12:36.24,0:12:37.18,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:12:37.32,0:12:39.43,Dialogue,,0,0,0,,Nici eu nu pot renunța.
-Dialogue: 100,0:12:40.07,0:12:43.15,Dialogue,,0,0,0,,Ieri a fost numai vina mea.
-Dialogue: 100,0:12:44.28,0:12:45.36,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:12:45.81,0:12:49.62,Dialogue,,0,0,0,,De azi înainte, eu sunt partenerul tău.
-Dialogue: 100,0:12:50.89,0:12:52.90,Dialogue,,0,0,0,,Nu... Nu pot.
-Dialogue: 100,0:12:53.36,0:12:57.98,Dialogue,,0,0,0,,{\i1}Acest{\i0} tip este meditatorul nostru?
-Dialogue: 100,0:12:58.89,0:13:00.18,Dialogue,,0,0,0,,"Nostru?"
-Dialogue: 100,0:13:02.42,0:13:06.67,Dialogue,,0,0,0,,Tipul din fața complexului era foarte ciudat.
-Dialogue: 100,0:13:06.67,0:13:07.95,Dialogue,,0,0,0,,Asta nu sună prea bine.
-Dialogue: 100,0:13:11.04,0:13:13.05,Dialogue,,0,0,0,,Hei, este elevul model.
-Dialogue: 100,0:13:13.05,0:13:14.98,Dialogue,,0,0,0,,Este el! Urmăritorul!
-Dialogue: 100,0:13:14.98,0:13:16.95,Dialogue,,0,0,0,,Uesugi-san este un urmăritor?!
-Dialogue: 100,0:13:17.34,0:13:18.88,Dialogue,,0,0,0,,Cred că exagerați un pic.
-Dialogue: 100,0:13:18.88,0:13:20.57,Dialogue,,0,0,0,,D-De ce sunt ele...
-Dialogue: 100,0:13:24.20,0:13:27.11,Dialogue,,0,0,0,,Deoarece locuim aici, evident.
-Dialogue: 100,0:13:29.71,0:13:33.14,Dialogue,,0,0,0,,Deci, voi cinci împărțiți același apartament ca prietene, nu?
-Dialogue: 100,0:13:33.65,0:13:36.97,Dialogue,,0,0,0,,{\i1}Creierul meu, de la prea multe informații noi
-Dialogue: 100,0:13:36.97,0:13:41.92,Dialogue,,0,0,0,,{\i1}care l-au supraîncărcat, \Na ajuns la o concluzie.
-Dialogue: 100,0:13:42.41,0:13:43.34,Dialogue,,0,0,0,,{\i1}Cred că visez.
-Dialogue: 100,0:13:43.74,0:13:45.83,Dialogue,,0,0,0,,{\i0}Trebuie{\i1} să fie un vis.
-Dialogue: 100,0:13:45.83,0:13:47.25,Dialogue,,0,0,0,,Nu, de fapt...
-Dialogue: 100,0:13:47.25,0:13:48.47,Dialogue,,0,0,0,,Suntem...
-Dialogue: 100,0:13:51.25,0:13:53.02,Dialogue,,0,0,0,,toate surori.
-Dialogue: 100,0:13:54.63,0:13:58.31,Dialogue,,0,0,0,,Eu sunt Uesugi Futaro și, începând \Nde astăzi, voi fi meditatorul vostru.
-Dialogue: 100,0:13:58.68,0:14:01.13,Dialogue,,0,0,0,,Sper că ne vom distra cu toții învățând...
-Dialogue: 100,0:14:02.44,0:14:03.57,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:14:03.94,0:14:06.97,Dialogue,,0,0,0,,De ce nu este nimeni aici?!
-Dialogue: 100,0:14:07.45,0:14:08.65,Dialogue,,0,0,0,,Gata! Gata!
-Dialogue: 100,0:14:08.65,0:14:10.30,Dialogue,,0,0,0,,Sunt aici!
-Dialogue: 100,0:14:10.70,0:14:11.87,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:14:11.87,0:14:14.52,Dialogue,,0,0,0,,Yotsuba te chema, nu? \NCea care a luat zero puncte?
-Dialogue: 100,0:14:16.10,0:14:18.29,Dialogue,,0,0,0,,Poți să-ți încrunți privirea puțin?
-Dialogue: 100,0:14:19.96,0:14:22.18,Dialogue,,0,0,0,,A-Așa?
-Dialogue: 100,0:14:23.84,0:14:25.59,Dialogue,,0,0,0,,Chiar sunteți surori, nu?
-Dialogue: 100,0:14:26.81,0:14:28.59,Dialogue,,0,0,0,,Și de ce ești aici?
-Dialogue: 100,0:14:28.59,0:14:32.98,Dialogue,,0,0,0,,Pentru lecțiile tale, evident.
-Dialogue: 100,0:14:33.60,0:14:34.58,Dialogue,,0,0,0,,Yotsuba...
-Dialogue: 100,0:14:35.52,0:14:37.12,Dialogue,,0,0,0,,Pot să te îmbrățișez?
-Dialogue: 100,0:14:37.12,0:14:40.23,Dialogue,,0,0,0,,Bun, să mergem să le luăm și pe celelalte!
-Dialogue: 100,0:14:41.35,0:14:43.61,Dialogue,,0,0,0,,Camerele noastre, \Nîncepând de aici, sunt...
-Dialogue: 100,0:14:43.85,0:14:48.70,Dialogue,,0,0,0,,a lui Itsuki, a mea, a lui Miku, \Na lui Nino și a lui Ichika.
-Dialogue: 100,0:14:49.12,0:14:51.21,Dialogue,,0,0,0,,Trebuie să încep prin a vă aduna pe toate?
-Dialogue: 100,0:14:51.90,0:14:53.24,Dialogue,,0,0,0,,Va fi bine.
-Dialogue: 100,0:14:53.63,0:14:56.02,Dialogue,,0,0,0,,Itsuki este destul de silitoare.
-Dialogue: 100,0:14:56.02,0:14:59.41,Dialogue,,0,0,0,,Ea ne va ajuta, doar dacă \Nnu ai enervat-o {\i1}foarte tare{\i0}.
-Dialogue: 100,0:14:59.41,0:15:00.92,Dialogue,,0,0,0,,Nici gând.
-Dialogue: 100,0:15:01.18,0:15:03.84,Dialogue,,0,0,0,,De ce tu? Ești în clasă cu mine.
-Dialogue: 100,0:15:04.43,0:15:08.05,Dialogue,,0,0,0,,Nu există {\i1}niciun{\i0} meditator \Nbun în acest oraș?
-Dialogue: 100,0:15:08.33,0:15:11.43,Dialogue,,0,0,0,,Haide, ai spus că voiai să \Nte ajut cu învățatul ieri.
-Dialogue: 100,0:15:11.43,0:15:12.94,Dialogue,,0,0,0,,A fost o decizie greșită.
-Dialogue: 100,0:15:13.56,0:15:14.85,Dialogue,,0,0,0,,Uită ca s-a întâmplat.
-Dialogue: 100,0:15:16.49,0:15:19.43,Dialogue,,0,0,0,,Din moment ce suntem cinci, este inevitabil ca una dintre noi să nu fie astfel.
-Dialogue: 100,0:15:19.88,0:15:23.34,Dialogue,,0,0,0,,Miku este cea mai deșteaptă dintre noi.
-Dialogue: 100,0:15:24.20,0:15:26.61,Dialogue,,0,0,0,,S-ar putea să te înțelegi bine cu ea.
-Dialogue: 100,0:15:27.37,0:15:28.32,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:15:29.70,0:15:31.82,Dialogue,,0,0,0,,De ce tu? Ești în același an ca și noi.
-Dialogue: 100,0:15:32.37,0:15:34.16,Dialogue,,0,0,0,,Nu există niciun...
-Dialogue: 100,0:15:34.16,0:15:35.84,Dialogue,,0,0,0,,Nu mai spune nimic. \NAm auzit deja asta.
-Dialogue: 100,0:15:37.12,0:15:39.08,Dialogue,,0,0,0,,A-Ai vrea să continuăm?
-Dialogue: 100,0:15:40.51,0:15:43.46,Dialogue,,0,0,0,,Nino este foarte sociabilă.
-Dialogue: 100,0:15:43.69,0:15:45.58,Dialogue,,0,0,0,,Pariez că o să accepte.
-Dialogue: 100,0:15:47.25,0:15:49.10,Dialogue,,0,0,0,,P-Poate nu este înăuntru.
-Dialogue: 100,0:15:50.40,0:15:51.97,Dialogue,,0,0,0,,N-Nu-ți face griji!
-Dialogue: 100,0:15:52.40,0:15:54.45,Dialogue,,0,0,0,,Încă o avem pe Ichika!
-Dialogue: 100,0:15:54.45,0:15:55.57,Dialogue,,0,0,0,,Ichika este...
-Dialogue: 100,0:15:58.34,0:16:00.24,Dialogue,,0,0,0,,De ce te-ai oprit?
-Dialogue: 100,0:16:00.24,0:16:01.85,Dialogue,,0,0,0,,Te rog să rămâi calm, bine?
-Dialogue: 100,0:16:05.60,0:16:07.82,Dialogue,,0,0,0,,C-Ce este cu camera asta?
-Dialogue: 100,0:16:08.31,0:16:10.29,Dialogue,,0,0,0,,Chiar trăiește cineva în \Ngroapa asta de gunoi?
-Dialogue: 100,0:16:11.88,0:16:18.59,Dialogue,,0,0,0,,Mi-aș dori să nu vorbești despre \Ncamera mea de parcă ar fi loc sălbatic.
-Dialogue: 100,0:16:20.20,0:16:22.80,Dialogue,,0,0,0,,Doamne, iar ai făcut o dezordine uriașă.
-Dialogue: 100,0:16:22.80,0:16:26.21,Dialogue,,0,0,0,,Nu am crezut niciodată că \Ntu ai fi meditatorul nostru.
-Dialogue: 100,0:16:26.21,0:16:27.84,Dialogue,,0,0,0,,Deci, de asta umblai după Itsuki-chan.
-Dialogue: 100,0:16:28.29,0:16:29.17,Dialogue,,0,0,0,,Nu contează asta.
-Dialogue: 100,0:16:29.17,0:16:30.92,Dialogue,,0,0,0,,Haide să mergem în camera de zi.
-Dialogue: 100,0:16:31.13,0:16:32.67,Dialogue,,0,0,0,,Stai, așteaptă! Nu face asta!
-Dialogue: 100,0:16:35.46,0:16:37.72,Dialogue,,0,0,0,,Sunt puțin timidă. \NNu am nicio haină pe mine.
-Dialogue: 100,0:16:37.72,0:16:39.43,Dialogue,,0,0,0,,D-De ce nu?!
-Dialogue: 100,0:16:39.67,0:16:40.93,Dialogue,,0,0,0,,Yotsuba,
-Dialogue: 100,0:16:40.93,0:16:43.45,Dialogue,,0,0,0,,ai putea să-mi dai niște haine de pe aici?
-Dialogue: 100,0:16:43.45,0:16:45.69,Dialogue,,0,0,0,,Ce? Să vedem...
-Dialogue: 100,0:16:46.34,0:16:49.82,Dialogue,,0,0,0,,Când a fost ultima oară \Ncând a învățat la acest birou?
-Dialogue: 100,0:16:49.82,0:16:53.06,Dialogue,,0,0,0,,O, haide, învățat și iar învățat...
-Dialogue: 100,0:16:53.06,0:16:57.32,Dialogue,,0,0,0,,Ești în camera unei fete. Chiar ești sigur că la asta vrei să te gândești?
-Dialogue: 100,0:16:58.07,0:16:59.23,Dialogue,,0,0,0,,Am găsit ceva.
-Dialogue: 100,0:16:59.23,0:17:02.20,Dialogue,,0,0,0,,Doar schimbă-te și vino \Nîn camera de zi, te rog.
-Dialogue: 100,0:17:03.33,0:17:04.22,Dialogue,,0,0,0,,Doamne.
-Dialogue: 100,0:17:07.07,0:17:09.47,Dialogue,,0,0,0,,Futaro te chema?
-Dialogue: 100,0:17:09.47,0:17:11.07,Dialogue,,0,0,0,,Vreau să te întreb ceva.
-Dialogue: 100,0:17:12.98,0:17:15.64,Dialogue,,0,0,0,,O parte din hainele mele de sport îmi lipsesc.
-Dialogue: 100,0:17:15.64,0:17:17.10,Dialogue,,0,0,0,,Un hanorac roșu mai exact.
-Dialogue: 100,0:17:17.96,0:17:18.70,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:17:19.19,0:17:20.47,Dialogue,,0,0,0,,Nu l-am văzut.
-Dialogue: 100,0:17:21.18,0:17:22.84,Dialogue,,0,0,0,,Era aici acum o clipă.
-Dialogue: 100,0:17:23.42,0:17:25.54,Dialogue,,0,0,0,,Până să vii tu.
-Dialogue: 100,0:17:28.31,0:17:28.93,Dialogue,,0,0,0,,Cumva...
-Dialogue: 100,0:17:28.93,0:17:29.73,Dialogue,,0,0,0,,Nu l-am luat eu!
-Dialogue: 100,0:17:30.14,0:17:31.32,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:17:31.60,0:17:33.32,Dialogue,,0,0,0,,Am făcut prea multe fursecuri.
-Dialogue: 100,0:17:33.32,0:17:34.37,Dialogue,,0,0,0,,Vreți câteva?
-Dialogue: 100,0:17:36.21,0:17:38.78,Dialogue,,0,0,0,,Bun, am reușit să chem patru dintre voi.
-Dialogue: 100,0:17:39.62,0:17:41.82,Dialogue,,0,0,0,,În regulă, să începem învățațul.
-Dialogue: 100,0:17:41.82,0:17:43.04,Dialogue,,0,0,0,,Așa de bune!
-Dialogue: 100,0:17:43.04,0:17:44.40,Dialogue,,0,0,0,,Ce aromă este asta?
-Dialogue: 100,0:17:44.40,0:17:46.49,Dialogue,,0,0,0,,De ce îmi porți hanoracul?
-Dialogue: 100,0:17:46.49,0:17:49.38,Dialogue,,0,0,0,,Nu am vrut să mă murdăresc \Nîn timp ce găteam.
-Dialogue: 100,0:17:49.69,0:17:50.94,Dialogue,,0,0,0,,Dă-l jos chiar acum.
-Dialogue: 100,0:17:50.94,0:17:52.50,Dialogue,,0,0,0,,Hei, încetează!
-Dialogue: 100,0:17:52.50,0:17:53.47,Dialogue,,0,0,0,,Dă-mi-l înapoi.
-Dialogue: 100,0:17:53.47,0:17:56.45,Dialogue,,0,0,0,,Mai târziu! Ți-l voi da mai târziu!
-Dialogue: 100,0:17:56.92,0:17:59.73,Dialogue,,0,0,0,,Nu-ți face griji, Uesugi-san.
-Dialogue: 100,0:17:59.73,0:18:01.60,Dialogue,,0,0,0,,Eu învăț.
-Dialogue: 100,0:18:03.40,0:18:05.76,Dialogue,,0,0,0,,Hei, haideți să ieșim undeva. Este sâmbătă.
-Dialogue: 100,0:18:05.76,0:18:07.12,Dialogue,,0,0,0,,O, mi-a venit cumva vreun pachet?
-Dialogue: 100,0:18:07.12,0:18:10.11,Dialogue,,0,0,0,,{\i1}Fetele astea sunt fără speranță.
-Dialogue: 100,0:18:12.02,0:18:13.51,Dialogue,,0,0,0,,Nu-ți plac fursecurile?
-Dialogue: 100,0:18:14.13,0:18:16.02,Dialogue,,0,0,0,,Nu, doar nu prea am poftă.
-Dialogue: 100,0:18:16.95,0:18:20.66,Dialogue,,0,0,0,,Nu trebuie să fii așa de precaut. Nu am pus otravă în ele.
-Dialogue: 100,0:18:21.33,0:18:23.70,Dialogue,,0,0,0,,Nu m-ar deranja să \Nînvăț dacă ai lua câteva.
-Dialogue: 100,0:18:30.59,0:18:32.12,Dialogue,,0,0,0,,Chiar ia, nu se joacă.
-Dialogue: 100,0:18:32.12,0:18:33.13,Dialogue,,0,0,0,,Sunt bune?
-Dialogue: 100,0:18:34.27,0:18:35.97,Dialogue,,0,0,0,,Da, sunt foarte bune.
-Dialogue: 100,0:18:35.97,0:18:37.88,Dialogue,,0,0,0,,Mă bucur mult.
-Dialogue: 100,0:18:39.32,0:18:41.64,Dialogue,,0,0,0,,O, așa este. Adevărul este că...
-Dialogue: 100,0:18:42.37,0:18:45.52,Dialogue,,0,0,0,,Nu prea avem nevoie de un meditator.
-Dialogue: 100,0:18:51.86,0:18:53.36,Dialogue,,0,0,0,,Glumesc doar.
-Dialogue: 100,0:18:53.36,0:18:54.80,Dialogue,,0,0,0,,Poftim niște apă.
-Dialogue: 100,0:18:54.80,0:18:56.40,Dialogue,,0,0,0,,M-Mersi.
-Dialogue: 100,0:18:56.94,0:18:57.86,Dialogue,,0,0,0,,{\i1}Fir-ar...
-Dialogue: 100,0:18:57.86,0:19:00.16,Dialogue,,0,0,0,,{\i1}Nu sunt surprins de felul cum reacționează,
-Dialogue: 100,0:19:00.94,0:19:03.16,Dialogue,,0,0,0,,{\i1}dar trebuie să le fac să absolve.
-Dialogue: 100,0:19:03.38,0:19:05.81,Dialogue,,0,0,0,,{\i1}Nu am de ales.
-Dialogue: 100,0:19:08.66,0:19:10.46,Dialogue,,0,0,0,,Pa pa.
-Dialogue: 100,0:19:14.24,0:19:15.20,Dialogue,,0,0,0,,Domnule.
-Dialogue: 100,0:19:15.61,0:19:17.44,Dialogue,,0,0,0,,Domnule, am ajuns.
-Dialogue: 100,0:19:22.20,0:19:22.98,Dialogue,,0,0,0,,Unde sunt?
-Dialogue: 100,0:19:23.72,0:19:24.60,Dialogue,,0,0,0,,Unde?
-Dialogue: 100,0:19:24.60,0:19:26.82,Dialogue,,0,0,0,,Aici locuiești, nu-i așa?
-Dialogue: 100,0:19:26.82,0:19:28.85,Dialogue,,0,0,0,,C-Cum?!
-Dialogue: 100,0:19:30.92,0:19:31.81,Dialogue,,0,0,0,,{\i1}Ea a făcut asta!
-Dialogue: 100,0:19:32.04,0:19:34.07,Dialogue,,0,0,0,,Te costă 4.800 de yeni.
-Dialogue: 100,0:19:35.08,0:19:35.93,Dialogue,,0,0,0,,Bani?!
-Dialogue: 100,0:19:35.93,0:19:37.10,Dialogue,,0,0,0,,Atât de mult!
-Dialogue: 100,0:19:37.60,0:19:38.53,Dialogue,,0,0,0,,Cu cardul.
-Dialogue: 100,0:19:38.92,0:19:40.62,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:19:42.02,0:19:43.11,Dialogue,,0,0,0,,Itsuki.
-Dialogue: 100,0:19:45.56,0:19:48.43,Dialogue,,0,0,0,,M-am uitat în carnetul de \Nelev ca să-ți aflu adresa.
-Dialogue: 100,0:19:49.91,0:19:52.04,Dialogue,,0,0,0,,T-Te-ai uitat cumva la poza din el?
-Dialogue: 100,0:19:52.04,0:19:53.63,Dialogue,,0,0,0,,Despre ce vorbești?
-Dialogue: 100,0:19:53.85,0:19:56.54,Dialogue,,0,0,0,,Oricum, chiar ți-au făcut-o, nu-i așa?
-Dialogue: 100,0:19:56.54,0:20:00.35,Dialogue,,0,0,0,,Dacă ți-ai învățat lecția, \Nar trebui să renunți în a ne medita.
-Dialogue: 100,0:20:01.35,0:20:02.63,Dialogue,,0,0,0,,Nu pot face asta.
-Dialogue: 100,0:20:04.28,0:20:05.64,Dialogue,,0,0,0,,De ce ești așa insistent?
-Dialogue: 100,0:20:06.68,0:20:08.69,Dialogue,,0,0,0,,Știam că erai tu, frățioare.
-Dialogue: 100,0:20:08.69,0:20:09.59,Dialogue,,0,0,0,,Raiha.
-Dialogue: 100,0:20:10.19,0:20:11.54,Dialogue,,0,0,0,,Bine ai revenit.
-Dialogue: 100,0:20:11.54,0:20:12.84,Dialogue,,0,0,0,,Cina este...
-Dialogue: 100,0:20:15.58,0:20:17.94,Dialogue,,0,0,0,,Ea este eleva ta?!
-Dialogue: 100,0:20:18.16,0:20:19.90,Dialogue,,0,0,0,,N-Nu este nimeni.
-Dialogue: 100,0:20:19.90,0:20:21.20,Dialogue,,0,0,0,,Haide să mergem.
-Dialogue: 100,0:20:21.20,0:20:22.70,Dialogue,,0,0,0,,Minți.
-Dialogue: 100,0:20:23.00,0:20:26.20,Dialogue,,0,0,0,,Ți-ar plăcea să iei cina cu noi?
-Dialogue: 100,0:20:27.14,0:20:28.62,Dialogue,,0,0,0,,R-Raiha...
-Dialogue: 100,0:20:29.00,0:20:30.20,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:20:31.45,0:20:33.71,Dialogue,,0,0,0,,Nu vrei?
-Dialogue: 100,0:20:36.86,0:20:37.59,Dialogue,,0,0,0,,Poftim.
-Dialogue: 100,0:20:38.17,0:20:41.50,Dialogue,,0,0,0,,Curry-ul și omleta împăturită speciale ale familiei Uesugi.
-Dialogue: 100,0:20:42.40,0:20:44.56,Dialogue,,0,0,0,,Sper să-ți placă.
-Dialogue: 100,0:20:44.56,0:20:46.23,Dialogue,,0,0,0,,Arată foarte bine.
-Dialogue: 100,0:20:48.01,0:20:50.83,Dialogue,,0,0,0,,Mă îndoiesc că o fată bogată poate \Naprecia mâncarea oamenilor obișnuiți.
-Dialogue: 100,0:20:52.34,0:20:53.06,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:20:53.06,0:20:54.24,Dialogue,,0,0,0,,Auci!
-Dialogue: 100,0:20:54.24,0:20:55.01,Dialogue,,0,0,0,,Încetează.
-Dialogue: 100,0:20:56.37,0:20:59.07,Dialogue,,0,0,0,,De asta nu ești la fel de popular ca mine.
-Dialogue: 100,0:20:59.32,0:21:00.64,Dialogue,,0,0,0,,Tată...
-Dialogue: 100,0:21:00.64,0:21:04.01,Dialogue,,0,0,0,,Totuși, nu am crezut vreodată \Ncă o să aduci o fată acasă.
-Dialogue: 100,0:21:02.06,0:21:02.98,Dialogue Top,,0,0,0,,Poftă bună.
-Dialogue: 100,0:21:04.01,0:21:05.37,Dialogue,,0,0,0,,O, da, frățioare.
-Dialogue: 100,0:21:06.24,0:21:08.16,Dialogue,,0,0,0,,Ai făcut treabă bună cu meditatul?
-Dialogue: 100,0:21:10.98,0:21:12.32,Dialogue,,0,0,0,,În legătură cu asta...
-Dialogue: 100,0:21:12.32,0:21:14.37,Dialogue,,0,0,0,,D-Desigur. Totul a mers bine.
-Dialogue: 100,0:21:14.64,0:21:15.78,Dialogue,,0,0,0,,C-Ce?!
-Dialogue: 100,0:21:15.78,0:21:17.79,Dialogue,,0,0,0,,Prefă-te că așa este. \NAltfel o vei întrista pe Raiha.
-Dialogue: 100,0:21:18.23,0:21:19.01,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:21:19.01,0:21:20.59,Dialogue,,0,0,0,,O, nimic.
-Dialogue: 100,0:21:20.59,0:21:21.82,Dialogue,,0,0,0,,A-Așa este.
-Dialogue: 100,0:21:23.40,0:21:25.20,Dialogue,,0,0,0,,Totuși, chiar mă bucur.
-Dialogue: 100,0:21:25.20,0:21:27.30,Dialogue,,0,0,0,,Putem în sfârșit să scăpăm \Nde datoriile noastre.
-Dialogue: 100,0:21:27.64,0:21:29.88,Dialogue,,0,0,0,,Avem un musafir, Raiha.
-Dialogue: 100,0:21:29.88,0:21:31.23,Dialogue,,0,0,0,,O, îmi cer scuze.
-Dialogue: 100,0:21:32.80,0:21:34.09,Dialogue,,0,0,0,,Mulțumesc pentru primire.
-Dialogue: 100,0:21:34.09,0:21:34.99,Dialogue,,0,0,0,,Nicio problemă.
-Dialogue: 100,0:21:34.99,0:21:36.94,Dialogue,,0,0,0,,Mersi pentru cină, Raiha-chan.
-Dialogue: 100,0:21:39.08,0:21:40.23,Dialogue,,0,0,0,,Itsuki-san...
-Dialogue: 100,0:21:40.23,0:21:41.27,Dialogue,,0,0,0,,C-Ce este?
-Dialogue: 100,0:21:41.80,0:21:45.39,Dialogue,,0,0,0,,Fratele meu este un \Ngermen egoist și nasol, dar...
-Dialogue: 100,0:21:45.39,0:21:47.11,Dialogue,,0,0,0,,R-Raiha?
-Dialogue: 100,0:21:47.11,0:21:49.24,Dialogue,,0,0,0,,Dar are și multe calități bune.
-Dialogue: 100,0:21:50.24,0:21:51.49,Dialogue,,0,0,0,,Deci, ei bine...
-Dialogue: 100,0:21:52.41,0:21:54.58,Dialogue,,0,0,0,,Ți-ar mai plăcea să mănânci cu noi?
-Dialogue: 100,0:21:57.64,0:21:59.08,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:21:59.08,0:22:01.84,Dialogue,,0,0,0,,Învățatul îmi face foame.
-Dialogue: 100,0:22:01.84,0:22:03.67,Dialogue,,0,0,0,,Sper să mă inviți din nou.
-Dialogue: 100,0:22:05.20,0:22:07.01,Dialogue,,0,0,0,,Nu înțelege greșit.
-Dialogue: 100,0:22:07.74,0:22:10.27,Dialogue,,0,0,0,,Am cam prins acum \Nideea legat de situația ta,
-Dialogue: 100,0:22:10.27,0:22:11.89,Dialogue,,0,0,0,,dar nu te pot ajuta.
-Dialogue: 100,0:22:12.15,0:22:13.22,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:22:14.57,0:22:17.16,Dialogue,,0,0,0,,Voi învăța, dar nu voi \Napela la ajutorul tău.
-Dialogue: 100,0:22:17.66,0:22:20.92,Dialogue,,0,0,0,,Mă voi descurca fără tine.
-Dialogue: 100,0:22:22.23,0:22:26.99,Dialogue,,0,0,0,,Deci, dacă vrei să ne \Nmeditezi, fă cum dorești.
-Dialogue: 100,0:22:28.34,0:22:29.42,Dialogue,,0,0,0,,Ce ai spus?
-Dialogue: 100,0:22:30.31,0:22:32.83,Dialogue,,0,0,0,,Am spus să faci cum dorești.
-Dialogue: 100,0:22:32.83,0:22:34.39,Dialogue,,0,0,0,,S-Serios?
-Dialogue: 100,0:22:34.84,0:22:36.16,Dialogue,,0,0,0,,Este în regulă?
-Dialogue: 100,0:22:36.16,0:22:37.83,Dialogue,,0,0,0,,Ești cea mai tare, Itsuki!
-Dialogue: 100,0:22:38.30,0:22:39.67,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:22:40.04,0:22:42.28,Dialogue,,0,0,0,,Voi veni mâine fix la amiază.
-Dialogue: 100,0:22:42.28,0:22:43.96,Dialogue,,0,0,0,,Adună-le pe celelalte patru pentru mine.
-Dialogue: 100,0:22:44.44,0:22:45.67,Dialogue,,0,0,0,,Bine...
-Dialogue: 100,0:22:46.44,0:22:47.20,Dialogue,,0,0,0,,{\i1}Așa este.
-Dialogue: 100,0:22:47.20,0:22:50.82,Dialogue,,0,0,0,,{\i1}Treaba mea este să le ajut \Npe toate cinci să absolve.
-Dialogue: 100,0:22:50.82,0:22:56.21,Dialogue,,0,0,0,,{\i1}Dar asta nu înseamnă că trebuie să mă ocup de toate cinci.
-Dialogue: 100,0:22:56.21,0:22:59.94,Dialogue,,0,0,0,,{\i1}Trebuie să le meditez doar pe cele care sunt în pericol să rămână repetente.
-Dialogue: 100,0:23:01.28,0:23:03.65,Dialogue,,0,0,0,,Mă întreb dacă Futaro știe.
-Dialogue: 100,0:23:04.33,0:23:05.90,Dialogue,,0,0,0,,Mă îndoresc că știe...
-Dialogue: 100,0:23:06.65,0:23:12.46,Dialogue,,0,0,0,,că ne-am transferat aici deoarece toate cinci aproape rămăsesem repetente.
-Dialogue: 100,0:23:25.21,0:23:26.67,Dialogue,,0,0,0,,Da, ai dreptate.
-Dialogue: 100,0:23:28.07,0:23:32.13,Dialogue,,0,0,0,,Chiar și după acești ani, \Nîncă retrăiesc acea zi în visele mele...
-Dialogue: 100,0:23:44.80,0:23:46.44,Dialogue Top,,0,0,0,,Era de necrezut.
-Dialogue: 100,0:23:46.44,0:23:48.21,Dialogue Top,,0,0,0,,Un adevărat coșmar.
-Dialogue: 100,0:23:50.49,0:23:51.93,Dialogue,,0,550,0,,Jocul cu întrebări despre surori!
-Dialogue: 100,0:23:51.93,0:23:55.08,Dialogue,,0,550,0,,Greutatea noastră este de 250 de kilograme în total!
-Dialogue: 100,0:23:55.08,0:23:57.34,Dialogue,,0,550,0,,Uau, se împarte exact la cinci!
-Dialogue: 100,0:23:57.34,0:24:00.24,Dialogue,,0,550,0,,{\q2}50 de kilograme fiecare! Greutatea \Nmedie și perfectă pentru o fată!
-Dialogue: 100,0:24:00.24,0:24:01.31,Dialogue,,0,550,0,,Este în regulă asta, nu?
-Dialogue: 100,0:24:01.31,0:24:02.18,Dialogue,,0,550,0,,Ce? Dar...
-Dialogue: 100,0:24:02.18,0:24:03.52,Dialogue,,0,550,0,,Este în regulă asta, {\i1}nu{\i0}?
-Dialogue: 100,0:24:03.52,0:24:04.17,Dialogue,,0,550,0,,Bine...
+Dialogue: 99,0:00:07.16,0:00:08.64,Dialogue,,0,0,0,,{\i1}Visam...
+Dialogue: 99,0:00:11.46,0:00:13.78,Dialogue,,0,0,0,,Te rog să te trezești, domnule mire.
+Dialogue: 99,0:00:13.78,0:00:16.32,Dialogue,,0,0,0,,Mireasa este gata.
+Dialogue: 99,0:00:18.33,0:00:22.46,Dialogue,,0,0,0,,{\i1}Aveam acel vis cu incredibila zi care ne-a adus împreună.
+Dialogue: 99,0:00:26.60,0:00:27.92,Dialogue,,0,0,0,,Un platou cu friptură de vită.
+Dialogue: 99,0:00:28.32,0:00:29.62,Dialogue,,0,0,0,,Fără friptura de vită.
+Dialogue: 99,0:00:29.62,0:00:30.84,Dialogue,,0,0,0,,Vine imediat.
+Dialogue: 99,0:00:31.08,0:00:35.01,Dialogue,,0,0,0,,{\i1}Ai crede că cel mai ieftin fel de mâncare \Ndin meniul cantinei este orezul, dar te înșeli.
+Dialogue: 99,0:00:35.64,0:00:39.00,Dialogue,,0,0,0,,{\i1}Scade 200 de yeni prin \Neliminarea fripturii de vită
+Dialogue: 99,0:00:39.00,0:00:42.56,Dialogue,,0,0,0,,{\i1}și îți vei cumpăra orez, supă miso și murături la prețul orezului.
+Dialogue: 99,0:00:45.25,0:00:46.77,Dialogue,,0,0,0,,{\i1}Și poți lua câtă apă vrei pe gratis.
+Dialogue: 99,0:00:46.77,0:00:48.27,Dialogue,,0,0,0,,{\i1}Cantina școlii este cea mai tare.
+Dialogue: 99,0:00:48.52,0:00:50.66,Dialogue,,0,0,0,,Uesugi-kun este singur din nou.
+Dialogue: 99,0:00:50.66,0:00:51.86,Dialogue,,0,0,0,,Nu-mi vine să cred.
+Dialogue: 99,0:02:38.66,0:02:40.30,Dialogue,,0,0,0,,Hei, cine este aia?
+Dialogue: 99,0:02:40.30,0:02:42.01,Dialogue,,0,0,0,,Cineva stă lângă Uesugi?
+Dialogue: 99,0:02:42.01,0:02:43.01,Dialogue,,0,0,0,,Este prima oară!
+Dialogue: 99,0:02:43.01,0:02:44.76,Dialogue,,0,0,0,,{\i1}Nu poartă uniforma noastră...
+Dialogue: 99,0:02:45.76,0:02:47.54,Dialogue,,0,0,0,,{\i1}Stai, cum de s-a întâmplat una ca asta?
+Dialogue: 99,0:02:49.43,0:02:51.73,Dialogue,,0,0,0,,Eu am fost aici prima.
+Dialogue: 99,0:02:51.73,0:02:53.56,Dialogue,,0,0,0,,Masa de lângă este liberă.
+Dialogue: 99,0:02:53.89,0:02:55.19,Dialogue,,0,0,0,,Mută-te, te rog.
+Dialogue: 99,0:02:55.56,0:02:58.11,Dialogue,,0,0,0,,Eu am stat aici în fiecare zi.
+Dialogue: 99,0:02:58.11,0:02:59.37,Dialogue,,0,0,0,,Mută-te tu.
+Dialogue: 99,0:03:01.83,0:03:04.80,Dialogue,,0,0,0,,Privește, Uesugi-kun ia prânzul cu o fată.
+Dialogue: 99,0:03:04.80,0:03:06.27,Dialogue,,0,0,0,,Ce? Serios?
+Dialogue: 99,0:03:07.08,0:03:09.04,Dialogue,,0,0,0,,Fir-ar. Acei idioți...
+Dialogue: 99,0:03:11.48,0:03:12.98,Dialogue,,0,0,0,,{\i1}Este roșie toată.
+Dialogue: 99,0:03:13.71,0:03:15.62,Dialogue,,0,0,0,,{\i1}Nu te-a forțat nimeni, știi.
+Dialogue: 99,0:03:18.25,0:03:19.88,Dialogue,,0,0,0,,{\i1}Udon la 250 de yeni.
+Dialogue: 99,0:03:19.88,0:03:21.76,Dialogue,,0,0,0,,{\i1}Doi creveți prăjiți la 150 de yeni.
+Dialogue: 99,0:03:21.76,0:03:23.02,Dialogue,,0,0,0,,{\i1}Calamar prăjit la 100.
+Dialogue: 99,0:03:23.02,0:03:23.85,Dialogue,,0,0,0,,{\i1}Pui prăjit.
+Dialogue: 99,0:03:23.85,0:03:24.94,Dialogue,,0,0,0,,{\i1}Cartof dulce prăjit.
+Dialogue: 99,0:03:24.94,0:03:26.31,Dialogue,,0,0,0,,{\i1}Și, în plus, o budincă ca desert!
+Dialogue: 99,0:03:27.52,0:03:30.10,Dialogue,,0,0,0,,{\i1}Peste 1.000 de yeni pentru un prânz? \NEști cumva putred de bogată?!
+Dialogue: 99,0:03:32.00,0:03:33.35,Dialogue,,0,0,0,,Ei bine, fă cum dorești.
+Dialogue: 99,0:03:35.14,0:03:36.27,Dialogue,,0,0,0,,Să mâncăm.
+Dialogue: 99,0:03:43.36,0:03:45.24,Dialogue,,0,0,0,,Nu prea ai maniere.
+Dialogue: 99,0:03:46.76,0:03:49.01,Dialogue,,0,0,0,,Înveți în timp ce mănânci?
+Dialogue: 99,0:03:49.01,0:03:50.96,Dialogue,,0,0,0,,Recapitulez pentru un test.
+Dialogue: 99,0:03:50.96,0:03:52.46,Dialogue,,0,0,0,,Lasă-mă în pace.
+Dialogue: 99,0:03:53.75,0:03:55.96,Dialogue,,0,0,0,,Cred că stai destul de prost cu notele.
+Dialogue: 99,0:03:56.54,0:03:57.88,Dialogue,,0,0,0,,Cât ai luat?
+Dialogue: 99,0:03:58.02,0:03:59.26,Dialogue,,0,0,0,,H-Hei!
+Dialogue: 99,0:03:59.26,0:04:01.99,Dialogue,,0,0,0,,Să vedem, Uesugi Futaro-kun.
+Dialogue: 99,0:04:01.99,0:04:03.68,Dialogue,,0,0,0,,Ai luat...
+Dialogue: 99,0:04:04.74,0:04:06.28,Dialogue,,0,0,0,,O-O sută de puncte?!
+Dialogue: 99,0:04:08.08,0:04:09.00,Dialogue,,0,0,0,,Pe bune?
+Dialogue: 99,0:04:09.00,0:04:11.06,Dialogue,,0,0,0,,O, vai, cât de jenant.
+Dialogue: 99,0:04:12.07,0:04:13.86,Dialogue,,0,0,0,,Mi-ai arătat asta intenționat!
+Dialogue: 99,0:04:16.74,0:04:20.24,Dialogue,,0,0,0,,Nu-mi place să recunosc, \Ndar nu sunt prea bună la învățat.
+Dialogue: 99,0:04:20.24,0:04:21.11,Dialogue,,0,0,0,,Te invidiez.
+Dialogue: 99,0:04:22.12,0:04:23.16,Dialogue,,0,0,0,,Știu!
+Dialogue: 99,0:04:23.16,0:04:26.57,Dialogue,,0,0,0,,Zână norocului te-a adus la masa mea! Ar trebui să mă ajuți cu învățatul!
+Dialogue: 99,0:04:26.57,0:04:28.12,Dialogue,,0,0,0,,Sărut mâna pentru masă.
+Dialogue: 99,0:04:28.73,0:04:30.29,Dialogue,,0,0,0,,Ai terminat de mâncat deja?!
+Dialogue: 99,0:04:31.64,0:04:34.87,Dialogue,,0,0,0,,Chiar te-ai săturat?
+Dialogue: 99,0:04:35.04,0:04:37.63,Dialogue,,0,0,0,,Ai vrea să-ți dau puțin de la mine?
+Dialogue: 99,0:04:38.17,0:04:40.63,Dialogue,,0,0,0,,Mai degrabă, tu ai comandat prea mult.
+Dialogue: 99,0:04:41.60,0:04:42.55,Dialogue,,0,0,0,,Te vei îngrășa.
+Dialogue: 99,0:04:42.77,0:04:43.81,Dialogue,,0,0,0,,Îngrășa...
+Dialogue: 99,0:04:45.84,0:04:48.72,Dialogue,,0,0,0,,Nu am mai întâlnit o persoană \Natât de insensibilă ca tine!
+Dialogue: 99,0:04:48.72,0:04:50.26,Dialogue,,0,0,0,,Nu-ți mai dau nimic!
+Dialogue: 99,0:04:53.52,0:04:55.44,Dialogue,,0,0,0,,Putem scăpa de datoria noastră?
+Dialogue: 99,0:04:55.99,0:04:58.66,Dialogue,,0,0,0,,{\i1}Tata a găsit un serviciu cu \Njumătate de normă bun.
+Dialogue: 99,0:04:58.66,0:05:00.77,Dialogue,,0,0,0,,{\i1}O familie bogată tocmai s-a mutat aici
+Dialogue: 99,0:05:01.00,0:05:04.28,Dialogue,,0,0,0,,și caută un meditator pentru fata lor.
+Dialogue: 99,0:05:04.48,0:05:05.79,Dialogue,,0,0,0,,{\i1}Un meditator?
+Dialogue: 99,0:05:06.29,0:05:08.54,Dialogue,,0,0,0,,Un loc de muncă distractiv și ușor.
+Dialogue: 99,0:05:08.54,0:05:10.83,Dialogue,,0,0,0,,Și plătesc de cinci ori mai \Nmult decât este normal.
+Dialogue: 99,0:05:11.18,0:05:14.02,Dialogue,,0,0,0,,{\i1}Asta sună destul de dubios.
+Dialogue: 99,0:05:14.44,0:05:17.54,Dialogue,,0,0,0,,Am auzit că oamenii pot \Ntrăi cu un singur rinichi.
+Dialogue: 99,0:05:17.77,0:05:19.70,Dialogue,,0,0,0,,B-Bați cumva un apropo \Nca să-mi vând unul?!
+Dialogue: 99,0:05:20.88,0:05:21.91,Dialogue,,0,0,0,,{\i1}Glumeam doar.
+Dialogue: 99,0:05:22.53,0:05:26.18,Dialogue,,0,0,0,,Dar acum putem mânca pe săturate,
+Dialogue: 99,0:05:26.18,0:05:27.43,Dialogue,,0,0,0,,{\i1}frățioare.
+Dialogue: 99,0:05:31.20,0:05:34.22,Dialogue,,0,0,0,,{\i1}Deci, cum este această fată?
+Dialogue: 99,0:05:35.01,0:05:36.48,Dialogue,,0,0,0,,{\i1}Este la liceu.
+Dialogue: 99,0:05:36.48,0:05:40.02,Dialogue,,0,0,0,,{\i1}Au spus că se transferă la școala ta.
+Dialogue: 99,0:05:40.72,0:05:43.33,Dialogue,,0,0,0,,{\i1}Numele ei este, ei bine, Nakano...
+Dialogue: 99,0:05:43.33,0:05:44.72,Dialogue,,0,0,0,,Nakano Itsuki.
+Dialogue: 99,0:05:44.72,0:05:46.46,Dialogue,,0,0,0,,Mă bucur să vă cunosc.
+Dialogue: 99,0:05:49.72,0:05:51.66,Dialogue,,0,0,0,,{\i1}O știu pe fata asta!
+Dialogue: 99,0:05:51.66,0:05:53.26,Dialogue,,0,0,0,,Elevul transferat este o fată?
+Dialogue: 99,0:05:53.26,0:05:54.21,Dialogue,,0,0,0,,Este chiar drăguță.
+Dialogue: 99,0:05:54.21,0:05:56.17,Dialogue,,0,0,0,,Aceea este uniforma Școlii \Nde Fete Kurobara, nu-i așa?
+Dialogue: 99,0:05:56.17,0:05:58.16,Dialogue,,0,0,0,,Pe bune? Trebuie să fie putred de bogată!
+Dialogue: 99,0:05:58.16,0:06:00.46,Dialogue,,0,0,0,,{\i1}O elevă transferată, bogată?
+Dialogue: 99,0:06:01.74,0:06:03.40,Dialogue,,0,0,0,,{\i1}Deci, ea este?
+Dialogue: 99,0:06:04.24,0:06:05.59,Dialogue,,0,0,0,,B-Bună.
+Dialogue: 99,0:06:10.79,0:06:12.36,Dialogue,,0,0,0,,Mă bucur să te cunosc.
+Dialogue: 99,0:06:12.36,0:06:14.35,Dialogue,,0,0,0,,{\i1}E-E de rău.
+Dialogue: 99,0:06:14.35,0:06:17.50,Dialogue,,0,0,0,,Poftim. Platoul cu friptură \Nde vită fără friptură.
+Dialogue: 99,0:06:18.83,0:06:20.56,Dialogue,,0,0,0,,{\i1}Am dat-o în bară ieri,
+Dialogue: 99,0:06:20.99,0:06:22.99,Dialogue,,0,0,0,,{\i1}dar dacă eleva transferată mă respinge,
+Dialogue: 99,0:06:23.52,0:06:26.28,Dialogue,,0,0,0,,{\i1}îmi voi pierde șansa \Nde a lucra ca meditator.
+Dialogue: 99,0:06:26.69,0:06:29.15,Dialogue,,0,0,0,,{\i1}Trebuie să mă pun bine cu ea.
+Dialogue: 99,0:06:30.52,0:06:34.66,Dialogue,,0,0,0,,M-am întors. Voiam să \Nstau lângă tine din nou.
+Dialogue: 99,0:06:35.04,0:06:38.03,Dialogue,,0,0,0,,Desgiur, nu doar pentru prânz, \Nci și pentru învățat.
+Dialogue: 99,0:06:38.03,0:06:39.16,Dialogue,,0,0,0,,O, vai!
+Dialogue: 99,0:06:39.91,0:06:41.26,Dialogue,,0,0,0,,{\i1}Perfect.
+Dialogue: 99,0:06:43.16,0:06:44.80,Dialogue,,0,0,0,,Mersi că m-ați așteptat.
+Dialogue: 99,0:06:44.80,0:06:46.38,Dialogue,,0,0,0,,{\i1}Mănâncă cu prietenele ei.
+Dialogue: 99,0:06:48.42,0:06:51.05,Dialogue,,0,0,0,,Îmi pare rău, dar nu mai \Nsunt locuri la această masă.
+Dialogue: 99,0:06:59.70,0:07:02.18,Dialogue,,0,0,0,,Hei, tu. Pleci așa pur și simplu?
+Dialogue: 99,0:07:04.16,0:07:06.46,Dialogue,,0,0,0,,Umbli după Itsuki-chan, nu-i așa?
+Dialogue: 99,0:07:07.90,0:07:09.42,Dialogue,,0,0,0,,Nu {\i1}umblu{\i0} după ea.
+Dialogue: 99,0:07:09.42,0:07:11.91,Dialogue,,0,0,0,,Ce? Deci, chiar după ea {\i1}umbli{\i0}?
+Dialogue: 99,0:07:13.21,0:07:15.34,Dialogue,,0,0,0,,Ce îți place la ea?
+Dialogue: 99,0:07:15.34,0:07:17.74,Dialogue,,0,0,0,,Că este cumsecade? Pare să-ți placă genul acesta de fete.
+Dialogue: 99,0:07:18.54,0:07:20.75,Dialogue,,0,0,0,,Știu, voi merge s-o chem.
+Dialogue: 99,0:07:21.08,0:07:21.87,Dialogue,,0,0,0,,Așteaptă.
+Dialogue: 99,0:07:24.13,0:07:25.59,Dialogue,,0,0,0,,Nu am nevoie de ajutorul tău.
+Dialogue: 99,0:07:26.14,0:07:28.52,Dialogue,,0,0,0,,Eu singur trebuie \Nsă-mi rezolv problemele.
+Dialogue: 99,0:07:30.48,0:07:33.93,Dialogue,,0,0,0,,Asta este destul de îndrăzneț venind de la o persoană căreia îi place învățatul, nu?
+Dialogue: 99,0:07:34.20,0:07:37.64,Dialogue,,0,0,0,,Poți veni la sora ta mai mare Ichika dacă vei avea nevoie de ajutor.
+Dialogue: 99,0:07:38.08,0:07:39.82,Dialogue,,0,0,0,,Pariez că asta o să fie distractiv.
+Dialogue: 99,0:07:40.59,0:07:41.96,Dialogue,,0,0,0,,Ce? "Soră mai mare?"
+Dialogue: 99,0:07:43.05,0:07:44.22,Dialogue,,0,0,0,,Suntem în același an.
+Dialogue: 99,0:07:44.80,0:07:45.49,Dialogue,,0,0,0,,Cred.
+Dialogue: 99,0:07:46.72,0:07:48.00,Dialogue,,0,0,0,,{\i1}Totuși, asta e de rău.
+Dialogue: 99,0:07:48.41,0:07:53.11,Dialogue,,0,0,0,,{\i1}Mă voi întâlni cu ea ca \Nmeditatorul ei astăzi, după ore.
+Dialogue: 99,0:07:51.80,0:07:53.11,Dialogue Top,,0,0,0,,Uesugi-san.
+Dialogue: 99,0:07:53.11,0:07:54.40,Dialogue,,0,0,0,,{\i1}Trebuie să repar asta până atunci.
+Dialogue: 99,0:07:53.41,0:07:54.92,Dialogue Top,,0,0,0,,Uesugi-san!
+Dialogue: 99,0:07:54.92,0:07:56.28,Dialogue,,0,0,0,,Uesugi-san!
+Dialogue: 99,0:07:57.97,0:07:59.70,Dialogue,,0,0,0,,În sfârșit ți-ai ridicat privirea.
+Dialogue: 99,0:08:02.43,0:08:04.40,Dialogue,,0,0,0,,C-C-Cine ești?
+Dialogue: 99,0:08:04.40,0:08:06.46,Dialogue,,0,0,0,,C-Cum de îmi știi numele?
+Dialogue: 99,0:08:08.23,0:08:10.67,Dialogue,,0,0,0,,Asta este o întrebare excelentă.
+Dialogue: 99,0:08:11.67,0:08:14.64,Dialogue,,0,0,0,,Ai pierdut cumva un test \Ncu un punctaj perfect?
+Dialogue: 99,0:08:14.64,0:08:16.97,Dialogue,,0,0,0,,Sau pe acesta cu zero puncte?
+Dialogue: 99,0:08:17.35,0:08:19.56,Dialogue,,0,0,0,,Testul meu? De unde îl ai?
+Dialogue: 99,0:08:19.56,0:08:21.48,Dialogue,,0,0,0,,Păi, vezi tu...
+Dialogue: 99,0:08:22.09,0:08:22.98,Dialogue,,0,0,0,,Atunci,
+Dialogue: 99,0:08:23.96,0:08:24.97,Dialogue,,0,0,0,,{\i1}asta{\i0} s-a întâmplat,
+Dialogue: 99,0:08:25.56,0:08:27.32,Dialogue,,0,0,0,,Eu am observat...
+Dialogue: 99,0:08:28.88,0:08:30.25,Dialogue,,0,0,0,,Și acum, să vedem.
+Dialogue: 99,0:08:30.84,0:08:32.46,Dialogue,,0,0,0,,Deci, care este?
+Dialogue: 99,0:08:33.28,0:08:34.11,Dialogue,,0,0,0,,Dreapta.
+Dialogue: 99,0:08:34.11,0:08:36.62,Dialogue,,0,0,0,,Uau, ești așa de sincer.
+Dialogue: 99,0:08:37.06,0:08:38.98,Dialogue,,0,0,0,,Ți le voi da pe amândouă.
+Dialogue: 99,0:08:38.98,0:08:40.62,Dialogue,,0,0,0,,Nu-mi trebuie.
+Dialogue: 99,0:08:40.99,0:08:42.92,Dialogue,,0,0,0,,Și al cui este cel cu zero puncte?
+Dialogue: 99,0:08:42.92,0:08:44.36,Dialogue,,0,0,0,,Al meu.
+Dialogue: 99,0:08:44.36,0:08:46.63,Dialogue,,0,0,0,,Și te-ai gândit să mi-l dai?
+Dialogue: 99,0:08:48.28,0:08:53.81,Dialogue,,0,0,0,,Prima impresie pe care am avut-o despre tine era că ești un singuratic posomorât,
+Dialogue: 99,0:08:53.81,0:08:57.06,Dialogue,,0,0,0,,dar voi adăuga și "geniu" lângă.
+Dialogue: 99,0:08:57.06,0:08:57.89,Dialogue,,0,0,0,,Ce rapid.
+Dialogue: 99,0:09:05.18,0:09:06.96,Dialogue,,0,0,0,,Vrei să nu mă mai urmărești?!
+Dialogue: 99,0:09:06.96,0:09:09.11,Dialogue,,0,0,0,,Încă nu mi-ai mulțumit.
+Dialogue: 99,0:09:10.36,0:09:12.86,Dialogue,,0,0,0,,Când cineva ridică ceva ce îți aparține, tu trebuie să-i spui "mulțumesc".
+Dialogue: 99,0:09:13.44,0:09:16.14,Dialogue,,0,0,0,,Cum de nu știi așa ceva? \NNu erai un geniu?
+Dialogue: 99,0:09:16.97,0:09:18.50,Dialogue,,0,0,0,,S-a întâmplat să găsesc asta.
+Dialogue: 99,0:09:19.92,0:09:21.50,Dialogue,,0,0,0,,Acum suntem chit.
+Dialogue: 99,0:09:23.12,0:09:24.32,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:09:24.32,0:09:25.74,Dialogue,,0,0,0,,Mulțumesc.
+Dialogue: 99,0:09:25.74,0:09:27.37,Dialogue,,0,0,0,,{\i1}Ea chiar mi-a mulțumit.
+Dialogue: 99,0:09:31.16,0:09:34.07,Dialogue,,0,0,0,,{\i1}Credeam că va fi singură în drumul spre casă.
+Dialogue: 99,0:09:34.79,0:09:36.66,Dialogue,,0,0,0,,Cred că mănânci prea mult, Itsuki.
+Dialogue: 99,0:09:36.66,0:09:37.76,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:09:38.16,0:09:39.78,Dialogue,,0,0,0,,Este abia a doua.
+Dialogue: 99,0:09:41.35,0:09:43.72,Dialogue,,0,0,0,,Devoratoare de chifle cu carne!
+Dialogue: 99,0:09:44.48,0:09:46.59,Dialogue,,0,0,0,,Î-Încetează!
+Dialogue: 99,0:09:46.59,0:09:48.06,Dialogue,,0,0,0,,Nu vei fi populară cu băieții!
+Dialogue: 99,0:09:48.06,0:09:50.18,Dialogue,,0,0,0,,Nu este asta treaba ta!
+Dialogue: 99,0:09:50.18,0:09:51.99,Dialogue,,0,0,0,,Nu găsesc nicio șansă ca să-mi cer scuze.
+Dialogue: 99,0:09:52.43,0:09:54.12,Dialogue,,0,0,0,,Te distrezi de unul singur?
+Dialogue: 99,0:09:56.04,0:09:57.80,Dialogue,,0,0,0,,N-Nu e prea rău.
+Dialogue: 99,0:09:58.26,0:09:59.95,Dialogue,,0,0,0,,Acesta este hobby-ul meu.
+Dialogue: 99,0:10:00.68,0:10:01.80,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:10:01.80,0:10:04.20,Dialogue,,0,0,0,,Holbatul la fetele de liceu este hobby-ul tău?
+Dialogue: 99,0:10:04.84,0:10:05.72,Dialogue,,0,0,0,,Voi suna la poliție.
+Dialogue: 99,0:10:06.65,0:10:08.30,Dialogue,,0,0,0,,Te rog să nu mă denunți.
+Dialogue: 99,0:10:08.91,0:10:11.14,Dialogue,,0,0,0,,Și nu-i spune prietenei tale Itsuki-chan.
+Dialogue: 99,0:10:11.61,0:10:12.88,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:10:12.88,0:10:13.88,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:10:14.24,0:10:16.28,Dialogue,,0,0,0,,Ea nu este prietena mea.
+Dialogue: 99,0:10:22.76,0:10:24.11,Dialogue,,0,0,0,,A-Acesta este locul?
+Dialogue: 99,0:10:24.74,0:10:26.82,Dialogue,,0,0,0,,Chiar este foarte bogată.
+Dialogue: 99,0:10:29.24,0:10:31.50,Dialogue,,0,0,0,,Asta este adresa corectă, cred.
+Dialogue: 99,0:10:37.32,0:10:39.29,Dialogue,,0,0,0,,Ce ești tu, un urmăritor?
+Dialogue: 99,0:10:39.29,0:10:41.78,Dialogue,,0,0,0,,Poți vorbi cu mine dacă ai nevoie de ceva.
+Dialogue: 99,0:10:43.44,0:10:45.46,Dialogue,,0,0,0,,Nu voi ajunge nicăieri vorbind cu voi.
+Dialogue: 99,0:10:45.46,0:10:46.54,Dialogue,,0,0,0,,Ce persistent ești.
+Dialogue: 99,0:10:47.60,0:10:49.55,Dialogue,,0,0,0,,Oamenii chiar nu te plac, nu-i așa?
+Dialogue: 99,0:10:50.16,0:10:52.04,Dialogue,,0,0,0,,Pleacă acasă odată.
+Dialogue: 99,0:10:54.16,0:10:55.24,Dialogue,,0,0,0,,Să plec acasă?
+Dialogue: 99,0:10:55.24,0:10:56.86,Dialogue,,0,0,0,,Dar aici locuiesc.
+Dialogue: 99,0:10:56.86,0:10:58.04,Dialogue,,0,0,0,,S-Serios?
+Dialogue: 99,0:10:58.04,0:10:59.01,Dialogue,,0,0,0,,Îmi cer scuze!
+Dialogue: 99,0:10:59.89,0:11:02.64,Dialogue,,0,0,0,,Friptură de vită fără friptură.
+Dialogue: 99,0:11:03.87,0:11:05.35,Dialogue,,0,0,0,,Ești cumva la dietă?
+Dialogue: 99,0:11:09.12,0:11:10.35,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:11:10.35,0:11:12.35,Dialogue,,0,0,0,,Știam eu!
+Dialogue: 99,0:11:12.61,0:11:13.30,Dialogue,,0,0,0,,{\i1}Uite-o.
+Dialogue: 99,0:11:14.96,0:11:17.53,Dialogue,,0,0,0,,{\i1}Asta este ultima mea \Nșansă ca să vorbesc cu ea.
+Dialogue: 99,0:11:19.40,0:11:20.61,Dialogue,,0,0,0,,{\i1}Trebuie să ajung la timp!
+Dialogue: 99,0:11:31.29,0:11:32.79,Dialogue,,0,0,0,,{\i1}Asta este numai vina ei!
+Dialogue: 99,0:11:33.27,0:11:36.31,Dialogue,,0,0,0,,{\i1}Că trebuie să îndur discomfortul \Nde a mă purta umil...
+Dialogue: 99,0:11:36.31,0:11:40.37,Dialogue,,0,0,0,,{\i1}Că trebuie să fiu fleașcă de transpirație în drumul meu de la școală spre casă...
+Dialogue: 99,0:11:40.37,0:11:42.38,Dialogue,,0,0,0,,{\i1}Că acele ciudate continue să \Nse bage în seamă cu mine...
+Dialogue: 99,0:11:43.67,0:11:44.62,Dialogue,,0,0,0,,{\i1}Este numai...
+Dialogue: 99,0:11:49.47,0:11:51.03,Dialogue,,0,0,0,,{\i1}Este numai vina...
+Dialogue: 99,0:11:52.34,0:11:53.15,Dialogue,,0,0,0,,{\i1}...ei.
+Dialogue: 99,0:11:54.17,0:11:55.87,Dialogue,,0,0,0,,T-Tu ești.
+Dialogue: 99,0:11:56.32,0:11:57.44,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:11:57.44,0:11:59.36,Dialogue,,0,0,0,,Ai nevoie de ceva de la mine?
+Dialogue: 99,0:11:59.84,0:12:01.82,Dialogue,,0,0,0,,Î-În legătură cu ziua de ieri...
+Dialogue: 99,0:12:02.08,0:12:03.79,Dialogue,,0,0,0,,Ce? Ce vrei să spui?
+Dialogue: 99,0:12:03.79,0:12:05.74,Dialogue,,0,0,0,,Oricum, ce faci aici?
+Dialogue: 99,0:12:06.84,0:12:08.24,Dialogue,,0,0,0,,În legătură cu ziua de ieri, păi...
+Dialogue: 99,0:12:08.24,0:12:09.30,Dialogue,,0,0,0,,E-Eu...
+Dialogue: 99,0:12:09.30,0:12:11.12,Dialogue,,0,0,0,,Am terminat aici?
+Dialogue: 99,0:12:11.34,0:12:12.79,Dialogue,,0,0,0,,Nu, așteaptă.
+Dialogue: 99,0:12:13.25,0:12:15.67,Dialogue,,0,0,0,,Ce încerci mai exact să faci?
+Dialogue: 99,0:12:15.67,0:12:18.84,Dialogue,,0,0,0,,Meditatorul meu trebuie să ajungă curând.
+Dialogue: 99,0:12:18.84,0:12:19.94,Dialogue,,0,0,0,,Eu sunt acela.
+Dialogue: 99,0:12:22.01,0:12:22.84,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:12:23.66,0:12:25.86,Dialogue,,0,0,0,,Eu sunt meditatorul.
+Dialogue: 99,0:12:26.18,0:12:28.10,Dialogue,,0,0,0,,{\i1}Nu cred!
+Dialogue: 99,0:12:30.88,0:12:32.62,Dialogue,,0,0,0,,R-Refuz complet!
+Dialogue: 99,0:12:32.62,0:12:33.99,Dialogue,,0,0,0,,Și mie îmi displace asta.
+Dialogue: 99,0:12:33.99,0:12:35.71,Dialogue,,0,0,0,,Chiar mai mult ca ție.
+Dialogue: 99,0:12:36.24,0:12:37.18,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:12:37.32,0:12:39.43,Dialogue,,0,0,0,,Nici eu nu pot renunța.
+Dialogue: 99,0:12:40.07,0:12:43.15,Dialogue,,0,0,0,,Ieri a fost numai vina mea.
+Dialogue: 99,0:12:44.28,0:12:45.36,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:12:45.81,0:12:49.62,Dialogue,,0,0,0,,De azi înainte, eu sunt partenerul tău.
+Dialogue: 99,0:12:50.89,0:12:52.90,Dialogue,,0,0,0,,Nu... Nu pot.
+Dialogue: 99,0:12:53.36,0:12:57.98,Dialogue,,0,0,0,,{\i1}Acest{\i0} tip este meditatorul nostru?
+Dialogue: 99,0:12:58.89,0:13:00.18,Dialogue,,0,0,0,,"Nostru?"
+Dialogue: 99,0:13:02.42,0:13:06.67,Dialogue,,0,0,0,,Tipul din fața complexului era foarte ciudat.
+Dialogue: 99,0:13:06.67,0:13:07.95,Dialogue,,0,0,0,,Asta nu sună prea bine.
+Dialogue: 99,0:13:11.04,0:13:13.05,Dialogue,,0,0,0,,Hei, este elevul model.
+Dialogue: 99,0:13:13.05,0:13:14.98,Dialogue,,0,0,0,,Este el! Urmăritorul!
+Dialogue: 99,0:13:14.98,0:13:16.95,Dialogue,,0,0,0,,Uesugi-san este un urmăritor?!
+Dialogue: 99,0:13:17.34,0:13:18.88,Dialogue,,0,0,0,,Cred că exagerați un pic.
+Dialogue: 99,0:13:18.88,0:13:20.57,Dialogue,,0,0,0,,D-De ce sunt ele...
+Dialogue: 99,0:13:24.20,0:13:27.11,Dialogue,,0,0,0,,Deoarece locuim aici, evident.
+Dialogue: 99,0:13:29.71,0:13:33.14,Dialogue,,0,0,0,,Deci, voi cinci împărțiți același apartament ca prietene, nu?
+Dialogue: 99,0:13:33.65,0:13:36.97,Dialogue,,0,0,0,,{\i1}Creierul meu, de la prea multe informații noi
+Dialogue: 99,0:13:36.97,0:13:41.92,Dialogue,,0,0,0,,{\i1}care l-au supraîncărcat, \Na ajuns la o concluzie.
+Dialogue: 99,0:13:42.41,0:13:43.34,Dialogue,,0,0,0,,{\i1}Cred că visez.
+Dialogue: 99,0:13:43.74,0:13:45.83,Dialogue,,0,0,0,,{\i0}Trebuie{\i1} să fie un vis.
+Dialogue: 99,0:13:45.83,0:13:47.25,Dialogue,,0,0,0,,Nu, de fapt...
+Dialogue: 99,0:13:47.25,0:13:48.47,Dialogue,,0,0,0,,Suntem...
+Dialogue: 99,0:13:51.25,0:13:53.02,Dialogue,,0,0,0,,toate surori.
+Dialogue: 99,0:13:54.63,0:13:58.31,Dialogue,,0,0,0,,Eu sunt Uesugi Futaro și, începând \Nde astăzi, voi fi meditatorul vostru.
+Dialogue: 99,0:13:58.68,0:14:01.13,Dialogue,,0,0,0,,Sper că ne vom distra cu toții învățând...
+Dialogue: 99,0:14:02.44,0:14:03.57,Dialogue,,0,0,0,,De ce?
+Dialogue: 99,0:14:03.94,0:14:06.97,Dialogue,,0,0,0,,De ce nu este nimeni aici?!
+Dialogue: 99,0:14:07.45,0:14:08.65,Dialogue,,0,0,0,,Gata! Gata!
+Dialogue: 99,0:14:08.65,0:14:10.30,Dialogue,,0,0,0,,Sunt aici!
+Dialogue: 99,0:14:10.70,0:14:11.87,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:14:11.87,0:14:14.52,Dialogue,,0,0,0,,Yotsuba te chema, nu? \NCea care a luat zero puncte?
+Dialogue: 99,0:14:16.10,0:14:18.29,Dialogue,,0,0,0,,Poți să-ți încrunți privirea puțin?
+Dialogue: 99,0:14:19.96,0:14:22.18,Dialogue,,0,0,0,,A-Așa?
+Dialogue: 99,0:14:23.84,0:14:25.59,Dialogue,,0,0,0,,Chiar sunteți surori, nu?
+Dialogue: 99,0:14:26.81,0:14:28.59,Dialogue,,0,0,0,,Și de ce ești aici?
+Dialogue: 99,0:14:28.59,0:14:32.98,Dialogue,,0,0,0,,Pentru lecțiile tale, evident.
+Dialogue: 99,0:14:33.60,0:14:34.58,Dialogue,,0,0,0,,Yotsuba...
+Dialogue: 99,0:14:35.52,0:14:37.12,Dialogue,,0,0,0,,Pot să te îmbrățișez?
+Dialogue: 99,0:14:37.12,0:14:40.23,Dialogue,,0,0,0,,Bun, să mergem să le luăm și pe celelalte!
+Dialogue: 99,0:14:41.35,0:14:43.61,Dialogue,,0,0,0,,Camerele noastre, \Nîncepând de aici, sunt...
+Dialogue: 99,0:14:43.85,0:14:48.70,Dialogue,,0,0,0,,a lui Itsuki, a mea, a lui Miku, \Na lui Nino și a lui Ichika.
+Dialogue: 99,0:14:49.12,0:14:51.21,Dialogue,,0,0,0,,Trebuie să încep prin a vă aduna pe toate?
+Dialogue: 99,0:14:51.90,0:14:53.24,Dialogue,,0,0,0,,Va fi bine.
+Dialogue: 99,0:14:53.63,0:14:56.02,Dialogue,,0,0,0,,Itsuki este destul de silitoare.
+Dialogue: 99,0:14:56.02,0:14:59.41,Dialogue,,0,0,0,,Ea ne va ajuta, doar dacă \Nnu ai enervat-o {\i1}foarte tare{\i0}.
+Dialogue: 99,0:14:59.41,0:15:00.92,Dialogue,,0,0,0,,Nici gând.
+Dialogue: 99,0:15:01.18,0:15:03.84,Dialogue,,0,0,0,,De ce tu? Ești în clasă cu mine.
+Dialogue: 99,0:15:04.43,0:15:08.05,Dialogue,,0,0,0,,Nu există {\i1}niciun{\i0} meditator \Nbun în acest oraș?
+Dialogue: 99,0:15:08.33,0:15:11.43,Dialogue,,0,0,0,,Haide, ai spus că voiai să \Nte ajut cu învățatul ieri.
+Dialogue: 99,0:15:11.43,0:15:12.94,Dialogue,,0,0,0,,A fost o decizie greșită.
+Dialogue: 99,0:15:13.56,0:15:14.85,Dialogue,,0,0,0,,Uită ca s-a întâmplat.
+Dialogue: 99,0:15:16.49,0:15:19.43,Dialogue,,0,0,0,,Din moment ce suntem cinci, este inevitabil ca una dintre noi să nu fie astfel.
+Dialogue: 99,0:15:19.88,0:15:23.34,Dialogue,,0,0,0,,Miku este cea mai deșteaptă dintre noi.
+Dialogue: 99,0:15:24.20,0:15:26.61,Dialogue,,0,0,0,,S-ar putea să te înțelegi bine cu ea.
+Dialogue: 99,0:15:27.37,0:15:28.32,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:15:29.70,0:15:31.82,Dialogue,,0,0,0,,De ce tu? Ești în același an ca și noi.
+Dialogue: 99,0:15:32.37,0:15:34.16,Dialogue,,0,0,0,,Nu există niciun...
+Dialogue: 99,0:15:34.16,0:15:35.84,Dialogue,,0,0,0,,Nu mai spune nimic. \NAm auzit deja asta.
+Dialogue: 99,0:15:37.12,0:15:39.08,Dialogue,,0,0,0,,A-Ai vrea să continuăm?
+Dialogue: 99,0:15:40.51,0:15:43.46,Dialogue,,0,0,0,,Nino este foarte sociabilă.
+Dialogue: 99,0:15:43.69,0:15:45.58,Dialogue,,0,0,0,,Pariez că o să accepte.
+Dialogue: 99,0:15:47.25,0:15:49.10,Dialogue,,0,0,0,,P-Poate nu este înăuntru.
+Dialogue: 99,0:15:50.40,0:15:51.97,Dialogue,,0,0,0,,N-Nu-ți face griji!
+Dialogue: 99,0:15:52.40,0:15:54.45,Dialogue,,0,0,0,,Încă o avem pe Ichika!
+Dialogue: 99,0:15:54.45,0:15:55.57,Dialogue,,0,0,0,,Ichika este...
+Dialogue: 99,0:15:58.34,0:16:00.24,Dialogue,,0,0,0,,De ce te-ai oprit?
+Dialogue: 99,0:16:00.24,0:16:01.85,Dialogue,,0,0,0,,Te rog să rămâi calm, bine?
+Dialogue: 99,0:16:05.60,0:16:07.82,Dialogue,,0,0,0,,C-Ce este cu camera asta?
+Dialogue: 99,0:16:08.31,0:16:10.29,Dialogue,,0,0,0,,Chiar trăiește cineva în \Ngroapa asta de gunoi?
+Dialogue: 99,0:16:11.88,0:16:18.59,Dialogue,,0,0,0,,Mi-aș dori să nu vorbești despre \Ncamera mea de parcă ar fi loc sălbatic.
+Dialogue: 99,0:16:20.20,0:16:22.80,Dialogue,,0,0,0,,Doamne, iar ai făcut o dezordine uriașă.
+Dialogue: 99,0:16:22.80,0:16:26.21,Dialogue,,0,0,0,,Nu am crezut niciodată că \Ntu ai fi meditatorul nostru.
+Dialogue: 99,0:16:26.21,0:16:27.84,Dialogue,,0,0,0,,Deci, de asta umblai după Itsuki-chan.
+Dialogue: 99,0:16:28.29,0:16:29.17,Dialogue,,0,0,0,,Nu contează asta.
+Dialogue: 99,0:16:29.17,0:16:30.92,Dialogue,,0,0,0,,Haide să mergem în camera de zi.
+Dialogue: 99,0:16:31.13,0:16:32.67,Dialogue,,0,0,0,,Stai, așteaptă! Nu face asta!
+Dialogue: 99,0:16:35.46,0:16:37.72,Dialogue,,0,0,0,,Sunt puțin timidă. \NNu am nicio haină pe mine.
+Dialogue: 99,0:16:37.72,0:16:39.43,Dialogue,,0,0,0,,D-De ce nu?!
+Dialogue: 99,0:16:39.67,0:16:40.93,Dialogue,,0,0,0,,Yotsuba,
+Dialogue: 99,0:16:40.93,0:16:43.45,Dialogue,,0,0,0,,ai putea să-mi dai niște haine de pe aici?
+Dialogue: 99,0:16:43.45,0:16:45.69,Dialogue,,0,0,0,,Ce? Să vedem...
+Dialogue: 99,0:16:46.34,0:16:49.82,Dialogue,,0,0,0,,Când a fost ultima oară \Ncând a învățat la acest birou?
+Dialogue: 99,0:16:49.82,0:16:53.06,Dialogue,,0,0,0,,O, haide, învățat și iar învățat...
+Dialogue: 99,0:16:53.06,0:16:57.32,Dialogue,,0,0,0,,Ești în camera unei fete. Chiar ești sigur că la asta vrei să te gândești?
+Dialogue: 99,0:16:58.07,0:16:59.23,Dialogue,,0,0,0,,Am găsit ceva.
+Dialogue: 99,0:16:59.23,0:17:02.20,Dialogue,,0,0,0,,Doar schimbă-te și vino \Nîn camera de zi, te rog.
+Dialogue: 99,0:17:03.33,0:17:04.22,Dialogue,,0,0,0,,Doamne.
+Dialogue: 99,0:17:07.07,0:17:09.47,Dialogue,,0,0,0,,Futaro te chema?
+Dialogue: 99,0:17:09.47,0:17:11.07,Dialogue,,0,0,0,,Vreau să te întreb ceva.
+Dialogue: 99,0:17:12.98,0:17:15.64,Dialogue,,0,0,0,,O parte din hainele mele de sport îmi lipsesc.
+Dialogue: 99,0:17:15.64,0:17:17.10,Dialogue,,0,0,0,,Un hanorac roșu mai exact.
+Dialogue: 99,0:17:17.96,0:17:18.70,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:17:19.19,0:17:20.47,Dialogue,,0,0,0,,Nu l-am văzut.
+Dialogue: 99,0:17:21.18,0:17:22.84,Dialogue,,0,0,0,,Era aici acum o clipă.
+Dialogue: 99,0:17:23.42,0:17:25.54,Dialogue,,0,0,0,,Până să vii tu.
+Dialogue: 99,0:17:28.31,0:17:28.93,Dialogue,,0,0,0,,Cumva...
+Dialogue: 99,0:17:28.93,0:17:29.73,Dialogue,,0,0,0,,Nu l-am luat eu!
+Dialogue: 99,0:17:30.14,0:17:31.32,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:17:31.60,0:17:33.32,Dialogue,,0,0,0,,Am făcut prea multe fursecuri.
+Dialogue: 99,0:17:33.32,0:17:34.37,Dialogue,,0,0,0,,Vreți câteva?
+Dialogue: 99,0:17:36.21,0:17:38.78,Dialogue,,0,0,0,,Bun, am reușit să chem patru dintre voi.
+Dialogue: 99,0:17:39.62,0:17:41.82,Dialogue,,0,0,0,,În regulă, să începem învățațul.
+Dialogue: 99,0:17:41.82,0:17:43.04,Dialogue,,0,0,0,,Așa de bune!
+Dialogue: 99,0:17:43.04,0:17:44.40,Dialogue,,0,0,0,,Ce aromă este asta?
+Dialogue: 99,0:17:44.40,0:17:46.49,Dialogue,,0,0,0,,De ce îmi porți hanoracul?
+Dialogue: 99,0:17:46.49,0:17:49.38,Dialogue,,0,0,0,,Nu am vrut să mă murdăresc \Nîn timp ce găteam.
+Dialogue: 99,0:17:49.69,0:17:50.94,Dialogue,,0,0,0,,Dă-l jos chiar acum.
+Dialogue: 99,0:17:50.94,0:17:52.50,Dialogue,,0,0,0,,Hei, încetează!
+Dialogue: 99,0:17:52.50,0:17:53.47,Dialogue,,0,0,0,,Dă-mi-l înapoi.
+Dialogue: 99,0:17:53.47,0:17:56.45,Dialogue,,0,0,0,,Mai târziu! Ți-l voi da mai târziu!
+Dialogue: 99,0:17:56.92,0:17:59.73,Dialogue,,0,0,0,,Nu-ți face griji, Uesugi-san.
+Dialogue: 99,0:17:59.73,0:18:01.60,Dialogue,,0,0,0,,Eu învăț.
+Dialogue: 99,0:18:03.40,0:18:05.76,Dialogue,,0,0,0,,Hei, haideți să ieșim undeva. Este sâmbătă.
+Dialogue: 99,0:18:05.76,0:18:07.12,Dialogue,,0,0,0,,O, mi-a venit cumva vreun pachet?
+Dialogue: 99,0:18:07.12,0:18:10.11,Dialogue,,0,0,0,,{\i1}Fetele astea sunt fără speranță.
+Dialogue: 99,0:18:12.02,0:18:13.51,Dialogue,,0,0,0,,Nu-ți plac fursecurile?
+Dialogue: 99,0:18:14.13,0:18:16.02,Dialogue,,0,0,0,,Nu, doar nu prea am poftă.
+Dialogue: 99,0:18:16.95,0:18:20.66,Dialogue,,0,0,0,,Nu trebuie să fii așa de precaut. Nu am pus otravă în ele.
+Dialogue: 99,0:18:21.33,0:18:23.70,Dialogue,,0,0,0,,Nu m-ar deranja să \Nînvăț dacă ai lua câteva.
+Dialogue: 99,0:18:30.59,0:18:32.12,Dialogue,,0,0,0,,Chiar ia, nu se joacă.
+Dialogue: 99,0:18:32.12,0:18:33.13,Dialogue,,0,0,0,,Sunt bune?
+Dialogue: 99,0:18:34.27,0:18:35.97,Dialogue,,0,0,0,,Da, sunt foarte bune.
+Dialogue: 99,0:18:35.97,0:18:37.88,Dialogue,,0,0,0,,Mă bucur mult.
+Dialogue: 99,0:18:39.32,0:18:41.64,Dialogue,,0,0,0,,O, așa este. Adevărul este că...
+Dialogue: 99,0:18:42.37,0:18:45.52,Dialogue,,0,0,0,,Nu prea avem nevoie de un meditator.
+Dialogue: 99,0:18:51.86,0:18:53.36,Dialogue,,0,0,0,,Glumesc doar.
+Dialogue: 99,0:18:53.36,0:18:54.80,Dialogue,,0,0,0,,Poftim niște apă.
+Dialogue: 99,0:18:54.80,0:18:56.40,Dialogue,,0,0,0,,M-Mersi.
+Dialogue: 99,0:18:56.94,0:18:57.86,Dialogue,,0,0,0,,{\i1}Fir-ar...
+Dialogue: 99,0:18:57.86,0:19:00.16,Dialogue,,0,0,0,,{\i1}Nu sunt surprins de felul cum reacționează,
+Dialogue: 99,0:19:00.94,0:19:03.16,Dialogue,,0,0,0,,{\i1}dar trebuie să le fac să absolve.
+Dialogue: 99,0:19:03.38,0:19:05.81,Dialogue,,0,0,0,,{\i1}Nu am de ales.
+Dialogue: 99,0:19:08.66,0:19:10.46,Dialogue,,0,0,0,,Pa pa.
+Dialogue: 99,0:19:14.24,0:19:15.20,Dialogue,,0,0,0,,Domnule.
+Dialogue: 99,0:19:15.61,0:19:17.44,Dialogue,,0,0,0,,Domnule, am ajuns.
+Dialogue: 99,0:19:22.20,0:19:22.98,Dialogue,,0,0,0,,Unde sunt?
+Dialogue: 99,0:19:23.72,0:19:24.60,Dialogue,,0,0,0,,Unde?
+Dialogue: 99,0:19:24.60,0:19:26.82,Dialogue,,0,0,0,,Aici locuiești, nu-i așa?
+Dialogue: 99,0:19:26.82,0:19:28.85,Dialogue,,0,0,0,,C-Cum?!
+Dialogue: 99,0:19:30.92,0:19:31.81,Dialogue,,0,0,0,,{\i1}Ea a făcut asta!
+Dialogue: 99,0:19:32.04,0:19:34.07,Dialogue,,0,0,0,,Te costă 4.800 de yeni.
+Dialogue: 99,0:19:35.08,0:19:35.93,Dialogue,,0,0,0,,Bani?!
+Dialogue: 99,0:19:35.93,0:19:37.10,Dialogue,,0,0,0,,Atât de mult!
+Dialogue: 99,0:19:37.60,0:19:38.53,Dialogue,,0,0,0,,Cu cardul.
+Dialogue: 99,0:19:38.92,0:19:40.62,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:19:42.02,0:19:43.11,Dialogue,,0,0,0,,Itsuki.
+Dialogue: 99,0:19:45.56,0:19:48.43,Dialogue,,0,0,0,,M-am uitat în carnetul de \Nelev ca să-ți aflu adresa.
+Dialogue: 99,0:19:49.91,0:19:52.04,Dialogue,,0,0,0,,T-Te-ai uitat cumva la poza din el?
+Dialogue: 99,0:19:52.04,0:19:53.63,Dialogue,,0,0,0,,Despre ce vorbești?
+Dialogue: 99,0:19:53.85,0:19:56.54,Dialogue,,0,0,0,,Oricum, chiar ți-au făcut-o, nu-i așa?
+Dialogue: 99,0:19:56.54,0:20:00.35,Dialogue,,0,0,0,,Dacă ți-ai învățat lecția, \Nar trebui să renunți în a ne medita.
+Dialogue: 99,0:20:01.35,0:20:02.63,Dialogue,,0,0,0,,Nu pot face asta.
+Dialogue: 99,0:20:04.28,0:20:05.64,Dialogue,,0,0,0,,De ce ești așa insistent?
+Dialogue: 99,0:20:06.68,0:20:08.69,Dialogue,,0,0,0,,Știam că erai tu, frățioare.
+Dialogue: 99,0:20:08.69,0:20:09.59,Dialogue,,0,0,0,,Raiha.
+Dialogue: 99,0:20:10.19,0:20:11.54,Dialogue,,0,0,0,,Bine ai revenit.
+Dialogue: 99,0:20:11.54,0:20:12.84,Dialogue,,0,0,0,,Cina este...
+Dialogue: 99,0:20:15.58,0:20:17.94,Dialogue,,0,0,0,,Ea este eleva ta?!
+Dialogue: 99,0:20:18.16,0:20:19.90,Dialogue,,0,0,0,,N-Nu este nimeni.
+Dialogue: 99,0:20:19.90,0:20:21.20,Dialogue,,0,0,0,,Haide să mergem.
+Dialogue: 99,0:20:21.20,0:20:22.70,Dialogue,,0,0,0,,Minți.
+Dialogue: 99,0:20:23.00,0:20:26.20,Dialogue,,0,0,0,,Ți-ar plăcea să iei cina cu noi?
+Dialogue: 99,0:20:27.14,0:20:28.62,Dialogue,,0,0,0,,R-Raiha...
+Dialogue: 99,0:20:29.00,0:20:30.20,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:20:31.45,0:20:33.71,Dialogue,,0,0,0,,Nu vrei?
+Dialogue: 99,0:20:36.86,0:20:37.59,Dialogue,,0,0,0,,Poftim.
+Dialogue: 99,0:20:38.17,0:20:41.50,Dialogue,,0,0,0,,Curry-ul și omleta împăturită speciale ale familiei Uesugi.
+Dialogue: 99,0:20:42.40,0:20:44.56,Dialogue,,0,0,0,,Sper să-ți placă.
+Dialogue: 99,0:20:44.56,0:20:46.23,Dialogue,,0,0,0,,Arată foarte bine.
+Dialogue: 99,0:20:48.01,0:20:50.83,Dialogue,,0,0,0,,Mă îndoiesc că o fată bogată poate \Naprecia mâncarea oamenilor obișnuiți.
+Dialogue: 99,0:20:52.34,0:20:53.06,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:20:53.06,0:20:54.24,Dialogue,,0,0,0,,Auci!
+Dialogue: 99,0:20:54.24,0:20:55.01,Dialogue,,0,0,0,,Încetează.
+Dialogue: 99,0:20:56.37,0:20:59.07,Dialogue,,0,0,0,,De asta nu ești la fel de popular ca mine.
+Dialogue: 99,0:20:59.32,0:21:00.64,Dialogue,,0,0,0,,Tată...
+Dialogue: 99,0:21:00.64,0:21:04.01,Dialogue,,0,0,0,,Totuși, nu am crezut vreodată \Ncă o să aduci o fată acasă.
+Dialogue: 99,0:21:02.06,0:21:02.98,Dialogue Top,,0,0,0,,Poftă bună.
+Dialogue: 99,0:21:04.01,0:21:05.37,Dialogue,,0,0,0,,O, da, frățioare.
+Dialogue: 99,0:21:06.24,0:21:08.16,Dialogue,,0,0,0,,Ai făcut treabă bună cu meditatul?
+Dialogue: 99,0:21:10.98,0:21:12.32,Dialogue,,0,0,0,,În legătură cu asta...
+Dialogue: 99,0:21:12.32,0:21:14.37,Dialogue,,0,0,0,,D-Desigur. Totul a mers bine.
+Dialogue: 99,0:21:14.64,0:21:15.78,Dialogue,,0,0,0,,C-Ce?!
+Dialogue: 99,0:21:15.78,0:21:17.79,Dialogue,,0,0,0,,Prefă-te că așa este. \NAltfel o vei întrista pe Raiha.
+Dialogue: 99,0:21:18.23,0:21:19.01,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:21:19.01,0:21:20.59,Dialogue,,0,0,0,,O, nimic.
+Dialogue: 99,0:21:20.59,0:21:21.82,Dialogue,,0,0,0,,A-Așa este.
+Dialogue: 99,0:21:23.40,0:21:25.20,Dialogue,,0,0,0,,Totuși, chiar mă bucur.
+Dialogue: 99,0:21:25.20,0:21:27.30,Dialogue,,0,0,0,,Putem în sfârșit să scăpăm \Nde datoriile noastre.
+Dialogue: 99,0:21:27.64,0:21:29.88,Dialogue,,0,0,0,,Avem un musafir, Raiha.
+Dialogue: 99,0:21:29.88,0:21:31.23,Dialogue,,0,0,0,,O, îmi cer scuze.
+Dialogue: 99,0:21:32.80,0:21:34.09,Dialogue,,0,0,0,,Mulțumesc pentru primire.
+Dialogue: 99,0:21:34.09,0:21:34.99,Dialogue,,0,0,0,,Nicio problemă.
+Dialogue: 99,0:21:34.99,0:21:36.94,Dialogue,,0,0,0,,Mersi pentru cină, Raiha-chan.
+Dialogue: 99,0:21:39.08,0:21:40.23,Dialogue,,0,0,0,,Itsuki-san...
+Dialogue: 99,0:21:40.23,0:21:41.27,Dialogue,,0,0,0,,C-Ce este?
+Dialogue: 99,0:21:41.80,0:21:45.39,Dialogue,,0,0,0,,Fratele meu este un \Ngermen egoist și nasol, dar...
+Dialogue: 99,0:21:45.39,0:21:47.11,Dialogue,,0,0,0,,R-Raiha?
+Dialogue: 99,0:21:47.11,0:21:49.24,Dialogue,,0,0,0,,Dar are și multe calități bune.
+Dialogue: 99,0:21:50.24,0:21:51.49,Dialogue,,0,0,0,,Deci, ei bine...
+Dialogue: 99,0:21:52.41,0:21:54.58,Dialogue,,0,0,0,,Ți-ar mai plăcea să mănânci cu noi?
+Dialogue: 99,0:21:57.64,0:21:59.08,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:21:59.08,0:22:01.84,Dialogue,,0,0,0,,Învățatul îmi face foame.
+Dialogue: 99,0:22:01.84,0:22:03.67,Dialogue,,0,0,0,,Sper să mă inviți din nou.
+Dialogue: 99,0:22:05.20,0:22:07.01,Dialogue,,0,0,0,,Nu înțelege greșit.
+Dialogue: 99,0:22:07.74,0:22:10.27,Dialogue,,0,0,0,,Am cam prins acum \Nideea legat de situația ta,
+Dialogue: 99,0:22:10.27,0:22:11.89,Dialogue,,0,0,0,,dar nu te pot ajuta.
+Dialogue: 99,0:22:12.15,0:22:13.22,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:22:14.57,0:22:17.16,Dialogue,,0,0,0,,Voi învăța, dar nu voi \Napela la ajutorul tău.
+Dialogue: 99,0:22:17.66,0:22:20.92,Dialogue,,0,0,0,,Mă voi descurca fără tine.
+Dialogue: 99,0:22:22.23,0:22:26.99,Dialogue,,0,0,0,,Deci, dacă vrei să ne \Nmeditezi, fă cum dorești.
+Dialogue: 99,0:22:28.34,0:22:29.42,Dialogue,,0,0,0,,Ce ai spus?
+Dialogue: 99,0:22:30.31,0:22:32.83,Dialogue,,0,0,0,,Am spus să faci cum dorești.
+Dialogue: 99,0:22:32.83,0:22:34.39,Dialogue,,0,0,0,,S-Serios?
+Dialogue: 99,0:22:34.84,0:22:36.16,Dialogue,,0,0,0,,Este în regulă?
+Dialogue: 99,0:22:36.16,0:22:37.83,Dialogue,,0,0,0,,Ești cea mai tare, Itsuki!
+Dialogue: 99,0:22:38.30,0:22:39.67,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:22:40.04,0:22:42.28,Dialogue,,0,0,0,,Voi veni mâine fix la amiază.
+Dialogue: 99,0:22:42.28,0:22:43.96,Dialogue,,0,0,0,,Adună-le pe celelalte patru pentru mine.
+Dialogue: 99,0:22:44.44,0:22:45.67,Dialogue,,0,0,0,,Bine...
+Dialogue: 99,0:22:46.44,0:22:47.20,Dialogue,,0,0,0,,{\i1}Așa este.
+Dialogue: 99,0:22:47.20,0:22:50.82,Dialogue,,0,0,0,,{\i1}Treaba mea este să le ajut \Npe toate cinci să absolve.
+Dialogue: 99,0:22:50.82,0:22:56.21,Dialogue,,0,0,0,,{\i1}Dar asta nu înseamnă că trebuie să mă ocup de toate cinci.
+Dialogue: 99,0:22:56.21,0:22:59.94,Dialogue,,0,0,0,,{\i1}Trebuie să le meditez doar pe cele care sunt în pericol să rămână repetente.
+Dialogue: 99,0:23:01.28,0:23:03.65,Dialogue,,0,0,0,,Mă întreb dacă Futaro știe.
+Dialogue: 99,0:23:04.33,0:23:05.90,Dialogue,,0,0,0,,Mă îndoresc că știe...
+Dialogue: 99,0:23:06.65,0:23:12.46,Dialogue,,0,0,0,,că ne-am transferat aici deoarece toate cinci aproape rămăsesem repetente.
+Dialogue: 99,0:23:25.21,0:23:26.67,Dialogue,,0,0,0,,Da, ai dreptate.
+Dialogue: 99,0:23:28.07,0:23:32.13,Dialogue,,0,0,0,,Chiar și după acești ani, \Nîncă retrăiesc acea zi în visele mele...
+Dialogue: 99,0:23:44.80,0:23:46.44,Dialogue Top,,0,0,0,,Era de necrezut.
+Dialogue: 99,0:23:46.44,0:23:48.21,Dialogue Top,,0,0,0,,Un adevărat coșmar.
+Dialogue: 99,0:23:50.49,0:23:51.93,Dialogue,,0,550,0,,Jocul cu întrebări despre surori!
+Dialogue: 99,0:23:51.93,0:23:55.08,Dialogue,,0,550,0,,Greutatea noastră este de 250 de kilograme în total!
+Dialogue: 99,0:23:55.08,0:23:57.34,Dialogue,,0,550,0,,Uau, se împarte exact la cinci!
+Dialogue: 99,0:23:57.34,0:24:00.24,Dialogue,,0,550,0,,{\q2}50 de kilograme fiecare! Greutatea \Nmedie și perfectă pentru o fată!
+Dialogue: 99,0:24:00.24,0:24:01.31,Dialogue,,0,550,0,,Este în regulă asta, nu?
+Dialogue: 99,0:24:01.31,0:24:02.18,Dialogue,,0,550,0,,Ce? Dar...
+Dialogue: 99,0:24:02.18,0:24:03.52,Dialogue,,0,550,0,,Este în regulă asta, {\i1}nu{\i0}?
+Dialogue: 99,0:24:03.52,0:24:04.17,Dialogue,,0,550,0,,Bine...
 Dialogue: 0,0:00:35.01,0:00:35.89,KazuyaShuuSign,,0,0,0,,{\fn\fs36\frz-12.85\fax0.23\blur0.533\c&H505253&\pos(666.667,251.333)}P{*\fs35.893}l{*\fs35.787}a{*\fs35.68}t{*\fs35.573}o{*\fs35.467}u {*\fs35.253}c{*\fs35.147}u {*\fs34.933}f{*\fs34.827}r{*\fs34.72}i{*\fs34.613}p{*\fs34.507}t{*\fs34.4}u{*\fs34.293}r{*\fs34.187}ă {*\fs33.973}d{*\fs33.867}e {*\fs33.653}v{*\fs33.547}i{*\fs33.44}t{\fs33.333}ă
 Comment: 0,0:00:35.01,0:00:35.89,KazuyaShuuSign,,0,0,0,,Orez \NSupă Miso \NMurături
 Dialogue: 0,0:01:30.73,0:01:32.65,KazuyaShuuSign,,0,0,0,,{\fad(500,1)}The Quintessential Quintuplets

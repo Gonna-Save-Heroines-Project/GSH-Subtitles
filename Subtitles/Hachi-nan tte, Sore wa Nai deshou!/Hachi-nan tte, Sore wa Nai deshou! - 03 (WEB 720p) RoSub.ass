@@ -26,321 +26,321 @@ Style: DedzuyaSigns,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:13.65,0:00:15.67,Dialogue,,0,0,0,,Eu sunt a treia fiică a familiei Overweg,
-Dialogue: 100,0:00:15.67,0:00:18.45,Dialogue,,0,0,0,,instuctorii de arte marțiale \Ndin Ducatul de Bleichröder,
-Dialogue: 100,0:00:19.10,0:00:22.38,Dialogue,,0,0,0,,Louise Jolande Aurelia Overweg.
-Dialogue: 100,0:00:23.11,0:00:26.77,Dialogue,,0,0,0,,{\an8}Am studiat Stilul Pumnului Magic de mică...
-Dialogue: 100,0:00:26.77,0:00:29.64,Dialogue,,0,0,0,,{\i1}Mi-am petrecut ultimii șapte \Nani acasă în singurătate.
-Dialogue: 100,0:00:30.60,0:00:32.42,Dialogue,,0,0,0,,{\i1}Am stat la distanță de ceilalți
-Dialogue: 100,0:00:32.42,0:00:35.84,Dialogue,,0,0,0,,{\i1}și am trăit de unul singur ca să evit o eventuală dispută la succesiune.
-Dialogue: 100,0:00:36.90,0:00:39.02,Dialogue,,0,0,0,,Eu sunt a treia fiică a familiei Hillenbrand,
-Dialogue: 100,0:00:39.02,0:00:42.60,Dialogue,,0,0,0,,instructorii în mânuirea lancei din Ducatul de Bleichröder,
-Dialogue: 100,0:00:42.60,0:00:44.81,Dialogue,,0,0,0,,Iina Susanne Hillenbrand.
-Dialogue: 100,0:00:45.04,0:00:47.30,Dialogue,,0,0,0,,Talentul cu lancea mi-a \Nfost recunoscut de mică
-Dialogue: 100,0:00:47.30,0:00:50.58,Dialogue,,0,0,0,,și de asta sunt în această clasă cu bursă de studiu la Academia Aventurierilor.
-Dialogue: 100,0:00:50.58,0:00:54.37,Dialogue,,0,0,0,,{\i1}Dar mulțumită acestui lucru, \Nabilitățile mele de comunicare sunt zero.
-Dialogue: 100,0:00:55.06,0:00:56.16,Dialogue,,0,0,0,,{\i1}Trebuie să mă calmez.
-Dialogue: 100,0:00:56.16,0:00:57.69,Dialogue,,0,0,0,,{\i1}Aici va începe povestea mea.
-Dialogue: 100,0:00:58.64,0:01:02.70,Dialogue,,0,0,0,,{\i1}Povestea mea despre a-mi face prieteni!
-Dialogue: 100,0:01:03.14,0:01:05.30,Dialogue,,0,0,0,,În regulă, următoarea persoană este ultima.
-Dialogue: 100,0:01:06.06,0:01:07.26,Dialogue,,0,0,0,,Baumeister.
-Dialogue: 100,0:01:07.71,0:01:08.63,Dialogue,,0,0,0,,Da, domnule!
-Dialogue: 100,0:01:09.94,0:01:12.66,Dialogue,,0,0,0,,Eu sunt al optulea fiu \Nal Domeniul Baumeister,
-Dialogue: 100,0:01:12.66,0:01:15.30,Dialogue,,0,0,0,,Wendelin von Benno Baumeister.
-Dialogue: 100,0:01:15.94,0:01:18.64,Dialogue,,0,0,0,,M-aș bucura dacă mi-ați spune "Well".
-Dialogue: 100,0:01:19.13,0:01:21.03,Dialogue,,0,0,0,,Sper să ne înțelegem bine.
-Dialogue: 100,0:01:29.44,0:01:34.28,Dialogue,,0,0,0,,În regulă, și acum vă voi explica activitățile acestei clase cu bursă de studiu.
-Dialogue: 100,0:01:35.52,0:01:37.82,Dialogue,,0,0,0,,{\i1}Am mers cumva prea departe cerându-le să-mi spună "Well"?
-Dialogue: 100,0:01:38.46,0:01:41.61,Dialogue,,0,0,0,,Vom începe mai întâi \Nprin a vorbi despre asta.
-Dialogue: 100,0:01:46.28,0:01:48.36,Dialogue,,0,0,0,,Un formular pentru crearea unui grup?
-Dialogue: 100,0:01:49.84,0:01:53.27,Dialogue,,0,0,0,,Luna viitoare vă veți antrena în grupuri.
-Dialogue: 100,0:01:53.71,0:01:57.63,Dialogue,,0,0,0,,Asigurați-vă că v-ați format unul până atunci.
-Dialogue: 100,0:01:58.02,0:02:00.31,Dialogue,,0,0,0,,{\i1}Deci trebuie să ne alegem \Nnoi persoanele pentru grup?
-Dialogue: 100,0:02:01.40,0:02:02.97,Dialogue,,0,0,0,,{\i1}Asta e nasol.
-Dialogue: 100,0:03:45.94,0:03:48.79,Dialogue,,0,0,0,,Mă simt deja dat la o parte.
-Dialogue: 100,0:03:49.49,0:03:53.75,Dialogue,,0,0,0,,Acela este Baumeister, singurul elev pentru magie de anul acesta.
-Dialogue: 100,0:03:55.06,0:03:57.71,Dialogue,,0,0,0,,Utilizatorii de magie sunt foarte rari,
-Dialogue: 100,0:03:57.71,0:04:02.26,Dialogue,,0,0,0,,dar am auzit că puterile sale magice sunt deja la același nivel cu cele ale aventurierilor de top.
-Dialogue: 100,0:04:02.58,0:04:07.82,Dialogue,,0,0,0,,Am auzit că instructorul de magie a spus că nu are ce să-l învețe
-Dialogue: 100,0:04:07.82,0:04:10.22,Dialogue,,0,0,0,,și a renunțat să-l mai instruiască.
-Dialogue: 100,0:04:10.73,0:04:14.19,Dialogue,,0,0,0,,Dacă vei forma un grup cu el, \Nviața ta va fi lipsită de griji.
-Dialogue: 100,0:04:14.69,0:04:15.94,Dialogue,,0,0,0,,Știți cum funcționează, nu?
-Dialogue: 100,0:04:15.94,0:04:19.77,Dialogue,,0,0,0,,Majoritatea grupurilor din \NAcademia rămân împreună
-Dialogue: 100,0:04:19.77,0:04:22.48,Dialogue,,0,0,0,,chiar și după ce termină \Nși devin aventurieri.
-Dialogue: 100,0:04:23.70,0:04:26.58,Dialogue,,0,0,0,,Se pare că toată lumea se \Ngândește la același lucru.
-Dialogue: 100,0:04:27.57,0:04:30.12,Dialogue,,0,0,0,,Deci vreau să vă fac o propunere.
-Dialogue: 100,0:04:30.42,0:04:33.41,Dialogue,,0,0,0,,Hei! Mi-ai trecut numele fără să mă întrebi!
-Dialogue: 100,0:04:33.41,0:04:37.27,Dialogue,,0,0,0,,Ascultați, acel tip ne evaluează acum.
-Dialogue: 100,0:04:38.25,0:04:42.59,Dialogue,,0,0,0,,Încearcă să se hotărască dacă suntem sau nu vrednici de un mare magician ca el.
-Dialogue: 100,0:04:42.98,0:04:46.88,Dialogue,,0,0,0,,Oh! Deci de asta stă mereu singur!
-Dialogue: 100,0:04:46.88,0:04:49.56,Dialogue,,0,0,0,,Ce? Chiar crezi asta?
-Dialogue: 100,0:04:49.89,0:04:50.98,Dialogue,,0,0,0,,De asta uite ce vom face.
-Dialogue: 100,0:04:51.66,0:04:57.02,Dialogue,,0,0,0,,Dacă voi două, lănciera și luptătoarea în arte marțiale de top, formați un grup cu mine, spadasinul de top,
-Dialogue: 100,0:04:57.44,0:04:59.68,Dialogue,,0,0,0,,nu credeți că ne-ar recunoaște abilitățile?
-Dialogue: 100,0:05:03.01,0:05:03.65,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:05:06.72,0:05:08.45,Dialogue,,0,0,0,,Nu e o idee rea.
-Dialogue: 100,0:05:08.45,0:05:11.16,Dialogue,,0,0,0,,Ce? Glumești. \NVrei să formăm un grup cu el?
-Dialogue: 100,0:05:11.62,0:05:16.22,Dialogue,,0,0,0,,Eu sunt al cincilea fiu al \NDomeniului Arnim, Erwin von Arnim.
-Dialogue: 100,0:05:16.89,0:05:18.39,Dialogue,,0,0,0,,Îmi puteți spune "Er".
-Dialogue: 100,0:05:19.04,0:05:23.88,Dialogue,,0,0,0,,Eu sunt Louise. Ea este Iina, prietena mea din copilăria. Ne bucurăm să te cunoaștem!
-Dialogue: 100,0:05:24.21,0:05:25.57,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:05:26.58,0:05:28.11,Dialogue,,0,0,0,,Fă-ți curaj...
-Dialogue: 100,0:05:28.11,0:05:29.98,Dialogue,,0,0,0,,Integrează-te mai bine în clasă!
-Dialogue: 100,0:05:31.49,0:05:32.86,Dialogue,,0,0,0,,H-Hei...
-Dialogue: 100,0:05:32.86,0:05:36.26,Dialogue,,0,0,0,,Chestia asta se numește \Npiper japonez. Dacă vreți...
-Dialogue: 100,0:05:38.45,0:05:41.81,Dialogue,,0,0,0,,Înțeleg. Deci și voi urmăriți același lucru.
-Dialogue: 100,0:05:41.81,0:05:48.20,Dialogue,,0,0,0,,Dar mare păcat deoarece el o să ne recunoască pe noi, trioul cu topoare!
-Dialogue: 100,0:05:54.84,0:05:57.26,Dialogue,,0,0,0,,Ei râd și se distrează atât de mult...
-Dialogue: 100,0:05:57.95,0:05:59.93,Dialogue,,0,0,0,,Poate că nu ar trebui să-i deranjez acum.
-Dialogue: 100,0:06:00.76,0:06:05.04,Dialogue,,0,0,0,,Acum, sunt sigur că unii dintre voi nu primesc bani de la familiile lor
-Dialogue: 100,0:06:05.04,0:06:08.47,Dialogue,,0,0,0,,și trebuie să muncească \Nca să-și câștige existența.
-Dialogue: 100,0:06:09.33,0:06:10.43,Dialogue,,0,0,0,,Acela sunt eu.
-Dialogue: 100,0:06:10.68,0:06:14.69,Dialogue,,0,0,0,,Academia noastră recomandă vânătoarea pentru aceste situații,
-Dialogue: 100,0:06:14.69,0:06:19.90,Dialogue,,0,0,0,,dar este periculos s-o faceți pe cont propriu așa că e mai bine să mergeți în grupuri.
-Dialogue: 100,0:06:20.24,0:06:21.71,Dialogue,,0,0,0,,În grupuri?
-Dialogue: 100,0:06:26.05,0:06:28.67,Dialogue,,0,0,0,,Se pare că nu mai e loc și pentru mine.
-Dialogue: 100,0:06:28.67,0:06:30.17,Dialogue,,0,0,0,,Hei, ce credeți?
-Dialogue: 100,0:06:30.17,0:06:31.95,Dialogue,,0,0,0,,Ar trebui să mergem și \Nsă vorbim cu Baumeister?
-Dialogue: 100,0:06:32.38,0:06:34.29,Dialogue,,0,0,0,,Nu, mai bine am fi precauți.
-Dialogue: 100,0:06:34.87,0:06:40.62,Dialogue,,0,0,0,,Dacă ne grăbim și facem vreo greșeală care-l va dezamăgi, totul va fi în zadar.
-Dialogue: 100,0:06:41.62,0:06:46.05,Dialogue,,0,0,0,,Totuși... Am observat că \Nnu vorbește cu nimeni.
-Dialogue: 100,0:06:46.97,0:06:51.51,Dialogue,,0,0,0,,Am înțeles! Asta este o \Nprovocare de la Baumeister!
-Dialogue: 100,0:06:51.98,0:06:53.47,Dialogue,,0,0,0,,Ce?! Ce vrei să spui?!
-Dialogue: 100,0:06:53.74,0:06:55.58,Dialogue,,0,0,0,,El încearcă să ne transmită asta:
-Dialogue: 100,0:06:55.58,0:07:01.52,Dialogue,,0,0,0,,"Nu ar trebui să aveți probleme în a aduce ca grup mai multe animale decât mine singur."
-Dialogue: 100,0:07:03.10,0:07:06.44,Dialogue,,0,0,0,,Deci, dacă un grup aduce \Nmai puține animale ca el...
-Dialogue: 100,0:07:06.85,0:07:10.52,Dialogue,,0,0,0,,Atunci acel grup va fi eliminat \Nde pe lista candidaților.
-Dialogue: 100,0:07:18.87,0:07:19.84,Dialogue,,0,0,0,,Poftim.
-Dialogue: 100,0:07:26.87,0:07:28.84,Dialogue,,0,0,0,,Ar trebui să fim în regulă cu ce avem aici.
-Dialogue: 100,0:07:29.33,0:07:33.51,Dialogue,,0,0,0,,Totuși, voi două chiar sunteți \Nfiicele unor mari maeștri.
-Dialogue: 100,0:07:33.51,0:07:36.95,Dialogue,,0,0,0,,V-ați antrenat cu familiile voastre de mici?
-Dialogue: 100,0:07:37.99,0:07:38.85,Dialogue,,0,0,0,,Cam așa ceva.
-Dialogue: 100,0:07:40.18,0:07:43.56,Dialogue,,0,0,0,,D-Dar și tu ai fost uimitor cu sabia!
-Dialogue: 100,0:07:43.81,0:07:47.32,Dialogue,,0,0,0,,Ei bine, eu vin dintr-un domeniu sărac,
-Dialogue: 100,0:07:47.74,0:07:52.03,Dialogue,,0,0,0,,deci m-am antrenat cu sabia ca un nebun încă de mic copil.
-Dialogue: 100,0:07:52.50,0:07:55.30,Dialogue,,0,0,0,,O, scuzați-mă. Vreau să trec.
-Dialogue: 100,0:07:55.98,0:07:58.95,Dialogue,,0,0,0,,Ce? Unde sunt animalele prinse de el?
-Dialogue: 100,0:07:59.29,0:08:01.66,Dialogue,,0,0,0,,Oh, un săculeț magic, nu?
-Dialogue: 100,0:08:02.38,0:08:03.90,Dialogue,,0,0,0,,De unde ai făcut rost de unul?
-Dialogue: 100,0:08:03.90,0:08:06.96,Dialogue,,0,0,0,,Oh, mi l-a lăsat maestrul meu.
-Dialogue: 100,0:08:06.96,0:08:07.75,Dialogue,,0,0,0,,Bun!
-Dialogue: 100,0:08:13.85,0:08:15.31,Dialogue,,0,0,0,,S-Stai... Ce...
-Dialogue: 100,0:08:18.87,0:08:20.75,Dialogue,,0,0,0,,Hmpf. Asta este stupid.
-Dialogue: 100,0:08:20.75,0:08:22.12,Dialogue,,0,0,0,,Eu renunț.
-Dialogue: 100,0:08:22.12,0:08:22.76,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:08:22.76,0:08:24.89,Dialogue,,0,0,0,,El este la cu totul alt nivel.
-Dialogue: 100,0:08:24.89,0:08:26.88,Dialogue,,0,0,0,,Cu o diferență atât de mare \Nîntre abilitățile noastre,
-Dialogue: 100,0:08:26.88,0:08:29.10,Dialogue,,0,0,0,,va fi imposibil să-l facem să ne recunoască.
-Dialogue: 100,0:08:29.48,0:08:31.24,Dialogue,,0,0,0,,Nu merită efortul.
-Dialogue: 100,0:08:32.15,0:08:34.28,Dialogue,,0,0,0,,Și voi înțelegeți, nu-i așa?
-Dialogue: 100,0:08:34.28,0:08:36.24,Dialogue,,0,0,0,,Dacă nu ești copilul cel mare,
-Dialogue: 100,0:08:36.24,0:08:39.20,Dialogue,,0,0,0,,ai face bine să nu \Nîncerci să visezi la mai mult.
-Dialogue: 100,0:08:46.42,0:08:49.30,Dialogue,,0,0,0,,Asta chiar e de mare ajutor! \NSunt toate numai trofee.
-Dialogue: 100,0:08:49.30,0:08:50.51,Dialogue,,0,0,0,,Sper că vei mai veni pe aici.
-Dialogue: 100,0:08:50.51,0:08:51.27,Dialogue,,0,0,0,,Desigur!
-Dialogue: 100,0:08:57.22,0:09:00.66,Dialogue,,0,0,0,,Dacă vreți, haide să ne luăm \Nceva de mâncare cu acești—
-Dialogue: 100,0:09:00.66,0:09:01.41,Dialogue,,0,0,0,,...bani?
-Dialogue: 100,0:09:03.30,0:09:06.69,Dialogue,,0,0,0,,Fratele meu a spus odată ceva asemănător.
-Dialogue: 100,0:09:08.14,0:09:10.62,Dialogue,,0,0,0,,Că indiferent cât de mult mă antrenez cu sabia,
-Dialogue: 100,0:09:10.62,0:09:12.58,Dialogue,,0,0,0,,ca al cincilea fiul, \Nnu voi moșteni niciodată nimic.
-Dialogue: 100,0:09:13.47,0:09:15.27,Dialogue,,0,0,0,,Spunea că depun efort degeaba.
-Dialogue: 100,0:09:16.49,0:09:18.45,Dialogue,,0,0,0,,A fost la fel și pentru mine și Louise.
-Dialogue: 100,0:09:19.25,0:09:20.86,Dialogue,,0,0,0,,Indiferent cât eram de puternice,
-Dialogue: 100,0:09:20.86,0:09:23.58,Dialogue,,0,0,0,,nu puteam moșteni școala deoarece nu eram cele mai mari.
-Dialogue: 100,0:09:24.47,0:09:26.09,Dialogue,,0,0,0,,Este la fel peste tot, nu?
-Dialogue: 100,0:09:26.79,0:09:29.49,Dialogue,,0,0,0,,Ar fi fost bine dacă asta era tot.
-Dialogue: 100,0:09:30.32,0:09:34.96,Dialogue,,0,0,0,,Adevărul este că amândouă ne-am născut cu puțin mai multă putere magică ca restul oamenilor.
-Dialogue: 100,0:09:35.52,0:09:39.34,Dialogue,,0,0,0,,Vreau să spun, nu era de ajuns că {\i1}aveam{\i0} mai multă magie,
-Dialogue: 100,0:09:39.84,0:09:43.66,Dialogue,,0,0,0,,dar dacă o folosim ca să \Nne mărim abilitățile fizice...
-Dialogue: 100,0:09:45.35,0:09:48.52,Dialogue,,0,0,0,,Atunci, o persoană normală \Nnu ar avea nicio șansă, nu?
-Dialogue: 100,0:09:48.82,0:09:52.74,Dialogue,,0,0,0,,Înainte să-mi dau seama, eram mai puternică ca tatăl și fratele meu
-Dialogue: 100,0:09:52.74,0:09:55.45,Dialogue,,0,0,0,,și de la un moment dat au început să mă evite.
-Dialogue: 100,0:09:56.80,0:10:00.44,Dialogue,,0,0,0,,Deci am sfârșit prin a mă antrena în secret.
-Dialogue: 100,0:10:02.01,0:10:03.40,Dialogue,,0,0,0,,Nu pot accepta asta!
-Dialogue: 100,0:10:03.92,0:10:08.80,Dialogue,,0,0,0,,De ce naiba faptul că ești născut mai târziu înseamnă că nu ai dreptul sa visezi?!
-Dialogue: 100,0:10:08.80,0:10:09.96,Dialogue,,0,0,0,,Asta e complet greșit, nu credeți?!
-Dialogue: 100,0:10:11.54,0:10:13.18,Dialogue,,0,0,0,,Eu nu voi renunța.
-Dialogue: 100,0:10:14.09,0:10:19.48,Dialogue,,0,0,0,,Acum, haideți să vânăm niște chestii cu adevărat mari ca să-l facem pe Baumeister să ne recunoască!
-Dialogue: 100,0:10:23.56,0:10:26.77,Dialogue,,0,0,0,,Dacă vrei chestii cu adevărat mari, atunci acesta este locul! Adânc în pădure!
-Dialogue: 100,0:10:27.21,0:10:31.25,Dialogue,,0,0,0,,Profesorul ne-a spus că nu avem voie să venim aici, dar nu avem de ales!
-Dialogue: 100,0:10:31.25,0:10:33.22,Dialogue,,0,0,0,,Ba da, avem.
-Dialogue: 100,0:10:33.22,0:10:34.98,Dialogue,,0,0,0,,Haideți să ne întoarcem.
-Dialogue: 100,0:10:37.89,0:10:38.66,Dialogue,,0,0,0,,Au venit.
-Dialogue: 100,0:10:39.08,0:10:39.84,Dialogue,,0,0,0,,Lupii.
-Dialogue: 100,0:10:40.37,0:10:42.16,Dialogue,,0,0,0,,Și unii chiar foarte mari.
-Dialogue: 100,0:11:02.06,0:11:06.95,Dialogue,,0,0,0,,Lupi și... aceia sunt... oameni?
-Dialogue: 100,0:11:08.59,0:11:13.38,Dialogue,,0,0,0,,Dacă aceia sunt colegii mei de clasă, \Npoate că putem deveni prieteni dacă-i salvez!
-Dialogue: 100,0:11:27.35,0:11:29.75,Dialogue,,0,0,0,,Fir-ar! Câți naiba sunt?!
-Dialogue: 100,0:11:30.08,0:11:33.59,Dialogue,,0,0,0,,Îmi cer scuze. \NAr fi trebuit s-o ascultăm pe Iina.
-Dialogue: 100,0:11:34.20,0:11:35.13,Dialogue,,0,0,0,,Louise, deasupra ta!
-Dialogue: 100,0:11:40.69,0:11:41.55,Dialogue,,0,0,0,,Er!
-Dialogue: 100,0:11:54.15,0:11:55.62,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:11:56.06,0:11:57.20,Dialogue,,0,0,0,,Sunteți bine?
-Dialogue: 100,0:12:06.31,0:12:07.91,Dialogue,,0,0,0,,Ne cerem scuze.
-Dialogue: 100,0:12:08.26,0:12:11.93,Dialogue,,0,0,0,,Este în regulă. Vreau să spun, suntem colegi, la urma urmei.
-Dialogue: 100,0:12:12.65,0:12:14.95,Dialogue,,0,0,0,,Încercam să te facem \Nsă ne recunoști abilitățile,
-Dialogue: 100,0:12:14.95,0:12:16.55,Dialogue,,0,0,0,,dar doar ți-am creat probleme.
-Dialogue: 100,0:12:17.33,0:12:17.90,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:12:18.36,0:12:19.05,Dialogue,,0,0,0,,Pe mine?
-Dialogue: 100,0:12:19.31,0:12:22.40,Dialogue,,0,0,0,,Totuși, după ce am văzut \Nmagia pe care ai folosit-o,
-Dialogue: 100,0:12:22.40,0:12:26.89,Dialogue,,0,0,0,,ne-am dat seama că trăim în lumi diferite.
-Dialogue: 100,0:12:27.77,0:12:28.82,Dialogue,,0,0,0,,Deci...
-Dialogue: 100,0:12:28.82,0:12:29.98,Dialogue,,0,0,0,,H-Hei...
-Dialogue: 100,0:12:30.72,0:12:33.98,Dialogue,,0,0,0,,Voi renunța la ideea de a \Nmai forma un grup cu tine.
-Dialogue: 100,0:12:34.66,0:12:35.46,Dialogue,,0,0,0,,Cu mine?!
-Dialogue: 100,0:12:35.46,0:12:38.53,Dialogue,,0,0,0,,Totuși, nu am renunțat la tot.
-Dialogue: 100,0:12:38.99,0:12:42.95,Dialogue,,0,0,0,,Vom găsi o altă modalitate \Nde a pava un viitor strălucit.
-Dialogue: 100,0:12:42.95,0:12:45.41,Dialogue,,0,0,0,,Hei, s-s-stați o secundă...
-Dialogue: 100,0:12:45.81,0:12:47.18,Dialogue,,0,0,0,,Deci aici erați—
-Dialogue: 100,0:12:48.26,0:12:49.68,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:12:49.68,0:12:52.06,Dialogue,,0,0,0,,Oh, e doar o zgârietură.
-Dialogue: 100,0:12:52.71,0:12:54.50,Dialogue,,0,0,0,,Oricum, aveați nevoie de \Nnoi pentru ceva anume?
-Dialogue: 100,0:12:54.79,0:12:55.81,Dialogue,,0,0,0,,Oh...
-Dialogue: 100,0:12:55.81,0:12:59.09,Dialogue,,0,0,0,,Bucurați-vă! Toți elevii din clasa noastră cu bursă de studiu
-Dialogue: 100,0:12:59.09,0:13:03.80,Dialogue,,0,0,0,,au fost invitați la o petrecere în grădină ținută de Ducele de Bleichröder!
-Dialogue: 100,0:13:04.05,0:13:08.26,Dialogue,,0,0,0,,O șansă de a-l întâlni pe Ducele de Bleichröder în persoană!
-Dialogue: 100,0:13:08.46,0:13:13.09,Dialogue,,0,0,0,,El este unul dintre nobilii care se întrec pentru primele locuri în Regatul Helmut.
-Dialogue: 100,0:13:13.09,0:13:16.80,Dialogue,,0,0,0,,Dacă o să-i placă de noi, vom avea ocazia de a deveni oameni în serviciul său!
-Dialogue: 100,0:13:17.47,0:13:19.44,Dialogue,,0,0,0,,De ce sunteți așa încântați?
-Dialogue: 100,0:13:19.86,0:13:23.52,Dialogue,,0,0,0,,Este evident că suntem invitați doar pentru că Ducele de Bleichröder
-Dialogue: 100,0:13:23.52,0:13:29.74,Dialogue,,0,0,0,,vrea să-l revendice pe marele nostru magician, Baumeister.
-Dialogue: 100,0:13:30.20,0:13:33.20,Dialogue,,0,0,0,,Noi suntem doar în plus.
-Dialogue: 100,0:13:33.20,0:13:35.98,Dialogue,,0,0,0,,Atunci, nu va fi interesat de noi deloc.
-Dialogue: 100,0:13:36.69,0:13:40.67,Dialogue,,0,0,0,,Ce? Atunci, nu are rost să fim încântați.
-Dialogue: 100,0:13:40.67,0:13:41.13,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:13:41.13,0:13:42.31,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:13:42.31,0:13:42.84,Dialogue,,0,0,0,,Asta e tot?
-Dialogue: 100,0:13:42.84,0:13:44.07,Dialogue,,0,0,0,,Ce dezamăgire.
-Dialogue: 100,0:13:46.67,0:13:50.72,Dialogue,,0,0,0,,În regulă! Haide să mergem să ne cumpărăm împreună costumație pentru petrecerea din grădină!
-Dialogue: 100,0:13:50.72,0:13:52.14,Dialogue,,0,0,0,,Costume formale, nu?
-Dialogue: 100,0:13:52.59,0:13:55.89,Dialogue,,0,0,0,,Asta ne va costa ceva, \Ndar este pentru viitorul nostru.
-Dialogue: 100,0:13:56.50,0:14:00.61,Dialogue,,0,0,0,,Oh, haide. Voi încă mai sperați?
-Dialogue: 100,0:14:01.56,0:14:02.82,Dialogue,,0,0,0,,Ce e în neregulă cu asta?
-Dialogue: 100,0:14:04.98,0:14:07.03,Dialogue,,0,0,0,,Încă există o șansă, nu?
-Dialogue: 100,0:14:07.30,0:14:10.99,Dialogue,,0,0,0,,Hei, poate va vorbi cu noi dacă vom veni într-o costumație care atrage privirea!
-Dialogue: 100,0:14:11.57,0:14:13.75,Dialogue,,0,0,0,,Tu poți face asta, Louise.
-Dialogue: 100,0:14:13.75,0:14:15.44,Dialogue,,0,0,0,,Eu voi veni în ceva normal.
-Dialogue: 100,0:14:15.44,0:14:16.59,Dialogue,,0,0,0,,De ce?!
-Dialogue: 100,0:14:16.59,0:14:18.91,Dialogue,,0,0,0,,Haideți să mergem toți în \Nceva care atrage privirea!
-Dialogue: 100,0:14:18.91,0:14:20.98,Dialogue,,0,0,0,,Scuze, nu pot face asta.
-Dialogue: 100,0:14:20.98,0:14:22.11,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:14:36.64,0:14:37.92,Dialogue,,0,0,0,,O, acolo este!
-Dialogue: 100,0:14:37.92,0:14:38.94,Dialogue,,0,0,0,,Priviți acolo!
-Dialogue: 100,0:14:39.57,0:14:42.06,Dialogue,,0,0,0,,Ducele de Bleichröder...
-Dialogue: 100,0:14:42.45,0:14:46.03,Dialogue,,0,0,0,,Acela este Ducele de Bleichröder?
-Dialogue: 100,0:14:58.38,0:15:00.08,Dialogue,,0,0,0,,Vine! Vine! Vine!
-Dialogue: 100,0:15:00.08,0:15:01.58,Dialogue,,0,0,0,,Vine spre noi, Iina!
-Dialogue: 100,0:15:01.58,0:15:02.33,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:15:03.76,0:15:05.55,Dialogue,,0,0,0,,M-Mă scuzați, eu...
-Dialogue: 100,0:15:11.20,0:15:12.64,Dialogue,,0,0,0,,E o plăcere să te întâlnesc.
-Dialogue: 100,0:15:12.86,0:15:18.00,Dialogue,,0,0,0,,Eu sunt Amadeus \NFreytag von Bleichröder.
-Dialogue: 100,0:15:19.10,0:15:21.63,Dialogue,,0,0,0,,Eu sunt Wendelin von Benno Baumeister.
-Dialogue: 100,0:15:23.00,0:15:26.62,Dialogue,,0,0,0,,Vai, mă bucur să văd pe \Ncineva din familia Baumeister,
-Dialogue: 100,0:15:26.62,0:15:30.14,Dialogue,,0,0,0,,vasalii noștri, vizitându-ne în Breichburg.
-Dialogue: 100,0:15:30.95,0:15:36.60,Dialogue,,0,0,0,,Familia Baumeister participă foarte rar la adunări de acest gen.
-Dialogue: 100,0:15:37.06,0:15:41.54,Dialogue,,0,0,0,,Ei bine, după cum știți, probleme financiare ale familiei noastre sunt măricele.
-Dialogue: 100,0:15:42.13,0:15:45.34,Dialogue,,0,0,0,,Există niște cheltuieli implicate \Nîn trecerea acelor munți.
-Dialogue: 100,0:15:45.77,0:15:48.07,Dialogue,,0,0,0,,Dar câțiva dintre vasalii \Nmei se plâng spunând că
-Dialogue: 100,0:15:48.07,0:15:52.15,Dialogue,,0,0,0,,este nepoliticos să refuzi \Ninvitația lordului lor.
-Dialogue: 100,0:15:53.05,0:15:54.97,Dialogue,,0,0,0,,Îmi pare foarte rău.
-Dialogue: 100,0:15:55.22,0:15:57.92,Dialogue,,0,0,0,,Ei bine, destul cu asta.
-Dialogue: 100,0:15:57.92,0:16:00.43,Dialogue,,0,0,0,,Adevărul este că voiam să vorbesc cu tine.
-Dialogue: 100,0:16:01.09,0:16:03.90,Dialogue,,0,0,0,,Ai putea să-mi oferi puțin din timpul tău?
-Dialogue: 100,0:16:05.80,0:16:06.86,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:16:07.05,0:16:08.30,Dialogue,,0,0,0,,Atunci, haide să mergem.
-Dialogue: 100,0:16:09.84,0:16:11.02,Dialogue,,0,0,0,,Scuzați-mă!
-Dialogue: 100,0:16:11.61,0:16:14.62,Dialogue,,0,0,0,,Ei bine, sunt câteva persoane pe care aș vrea să le iau cu mine.
-Dialogue: 100,0:16:15.67,0:16:16.90,Dialogue,,0,0,0,,Aceștia trei.
-Dialogue: 100,0:16:17.49,0:16:19.66,Dialogue,,0,0,0,,Ei sunt membrii grupului meu.
-Dialogue: 100,0:16:37.52,0:16:40.22,Dialogue,,0,0,0,,Acesta este magicianul meu regal.
-Dialogue: 100,0:16:43.18,0:16:45.63,Dialogue,,0,0,0,,Brantag Ringstat.
-Dialogue: 100,0:16:46.28,0:16:47.67,Dialogue,,0,0,0,,Încântat de cunoștință.
-Dialogue: 100,0:16:47.67,0:16:54.11,Dialogue,,0,0,0,,A fost, de asemenea, învățătorul fostului meu magician regal, Alfred Rainford.
-Dialogue: 100,0:16:56.30,0:16:58.24,Dialogue,,0,0,0,,Ei bine, adevărul este că
-Dialogue: 100,0:16:58.24,0:17:04.58,Dialogue,,0,0,0,,Alfred a murit în Pădurea Fermecată aproape de pământurile familiei tale acum mult, mult timp.
-Dialogue: 100,0:17:05.04,0:17:08.04,Dialogue,,0,0,0,,Se pare că mai târziu a \Ndevenit un Mort Vorbitor.
-Dialogue: 100,0:17:08.53,0:17:10.77,Dialogue,,0,0,0,,Dar tot am fost maestrul său.
-Dialogue: 100,0:17:10.77,0:17:13.92,Dialogue,,0,0,0,,Mereu am fost cu un ochi \Npe prezența discipolului meu.
-Dialogue: 100,0:17:14.21,0:17:17.34,Dialogue,,0,0,0,,Brantag este foarte talentat \Nîn magia de urmărire.
-Dialogue: 100,0:17:17.69,0:17:22.68,Dialogue,,0,0,0,,Poate urmări pe cineva pe care l-a întâlnit de la o distanță foarte mare.
-Dialogue: 100,0:17:23.30,0:17:24.81,Dialogue,,0,0,0,,A fost acum șapte ani.
-Dialogue: 100,0:17:24.81,0:17:28.15,Dialogue,,0,0,0,,Cam pe atunci a dispărut \Nbrusc prezența lui Alfred.
-Dialogue: 100,0:17:28.66,0:17:30.29,Dialogue,,0,0,0,,Era un Mort Vorbitor,
-Dialogue: 100,0:17:30.29,0:17:34.11,Dialogue,,0,0,0,,deci m-am gândit că poate și-a împlinit dorința și a trecut dincolo,
-Dialogue: 100,0:17:34.11,0:17:37.08,Dialogue,,0,0,0,,dar apoi mi-am amintit că \Natunci când era viu mi-a spus:
-Dialogue: 100,0:17:37.08,0:17:41.22,Dialogue,,0,0,0,,"Vreau să întâlnesc pe cineva pe care să-l învăț tot ce știu despre magie."
-Dialogue: 100,0:17:41.84,0:17:44.77,Dialogue,,0,0,0,,Deci, am stat și m-am gândit și mi-am dat seama că dacă aia era
-Dialogue: 100,0:17:44.77,0:17:48.12,Dialogue,,0,0,0,,dorința sa, atunci nu ar fi \Ndevenit niciodată realitate.
-Dialogue: 100,0:17:48.85,0:17:52.20,Dialogue,,0,0,0,,Avea o cantitate de magie mai mare și ca mine, maestrul său,
-Dialogue: 100,0:17:52.20,0:17:56.59,Dialogue,,0,0,0,,și era în primi cinci magicieni \Nde pe acest continent.
-Dialogue: 100,0:17:56.59,0:18:01.95,Dialogue,,0,0,0,,E imposibil ca el să fi găsit un magician pe care să-l accepte ca discipolul său.
-Dialogue: 100,0:18:04.66,0:18:08.03,Dialogue,,0,0,0,,Și totuși, avem aici un tânăr cu o putere magică incredibilă
-Dialogue: 100,0:18:08.03,0:18:11.31,Dialogue,,0,0,0,,din aceeași regiune unde \Ndispăruse prezența lui.
-Dialogue: 100,0:18:11.31,0:18:14.46,Dialogue,,0,0,0,,Un tânăr care are și săculețul lui magic.
-Dialogue: 100,0:18:17.17,0:18:20.79,Dialogue,,0,0,0,,Scuză-mă, dar care sunt șansele să-l fi furat?
-Dialogue: 100,0:18:20.79,0:18:22.43,Dialogue,,0,0,0,,Zero.
-Dialogue: 100,0:18:22.43,0:18:29.29,Dialogue,,0,0,0,,Nimeni nu poate folosi acel săculeț magic decât dacă Alfred îi transferă posesia.
-Dialogue: 100,0:18:30.53,0:18:31.82,Dialogue,,0,0,0,,Tu ești, nu-i așa?
-Dialogue: 100,0:18:32.14,0:18:34.67,Dialogue,,0,0,0,,Tu ești discipolul lui Alfred.
-Dialogue: 100,0:18:35.89,0:18:36.66,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:18:37.64,0:18:40.01,Dialogue,,0,0,0,,Atunci, vreau să te întreb un singur lucru.
-Dialogue: 100,0:18:41.78,0:18:44.60,Dialogue,,0,0,0,,Cum au fost ultimele sale clipe?
-Dialogue: 100,0:18:55.71,0:18:59.74,Dialogue,,0,0,0,,Mi-am purificat maestrul \Nînainte să devină un zombi.
-Dialogue: 100,0:19:00.83,0:19:03.98,Dialogue,,0,0,0,,Doamne. Să forțezi un copil să facă așa ceva...
-Dialogue: 100,0:19:08.14,0:19:09.70,Dialogue,,0,0,0,,Îți mulțumesc.
-Dialogue: 100,0:19:09.70,0:19:11.29,Dialogue,,0,0,0,,Datorită ție,
-Dialogue: 100,0:19:11.86,0:19:15.12,Dialogue,,0,0,0,,a reușit să meargă pe lumea cealaltă.
-Dialogue: 100,0:19:19.20,0:19:19.93,Dialogue,,0,0,0,,Nu, eu...
-Dialogue: 100,0:19:24.11,0:19:25.25,Dialogue,,0,0,0,,O, așa este.
-Dialogue: 100,0:19:25.99,0:19:28.85,Dialogue,,0,0,0,,Acest săculeț pe care-l avea maestrul meu conține proviziile
-Dialogue: 100,0:19:28.85,0:19:32.47,Dialogue,,0,0,0,,pentru expediția cu 2.000 de oameni în Pădurea Fermecată.
-Dialogue: 100,0:19:34.42,0:19:37.21,Dialogue,,0,0,0,,Voiam să le returnez de ceva timp.
-Dialogue: 100,0:19:39.10,0:19:42.16,Dialogue,,0,0,0,,Nu știam nimic despre el.
-Dialogue: 100,0:19:43.33,0:19:47.64,Dialogue,,0,0,0,,A spus că a trăit de unul singur ca să evite o dispută pentru succesiune.
-Dialogue: 100,0:19:48.61,0:19:51.40,Dialogue,,0,0,0,,La fel ca și noi...
-Dialogue: 100,0:19:52.50,0:19:55.73,Dialogue,,0,0,0,,Și totuși, noi am spus \Ncă trăim în lumi diferite.
-Dialogue: 100,0:19:56.91,0:19:58.63,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:20:01.49,0:20:03.19,Dialogue,,0,0,0,,Scuze că v-am făcut să așteptați.
-Dialogue: 100,0:20:03.19,0:20:06.15,Dialogue,,0,0,0,,A durat mai mult decât \Ncredeam să dau acele provizii.
-Dialogue: 100,0:20:06.88,0:20:10.63,Dialogue,,0,0,0,,Hei, când ai spus că suntem un grup...
-Dialogue: 100,0:20:11.54,0:20:15.32,Dialogue,,0,0,0,,Da, scuze că v-am implicat \Nîn asta. Voiam doar—
-Dialogue: 100,0:20:15.32,0:20:18.48,Dialogue,,0,0,0,,Nu merităm să fim în grupul tău!
-Dialogue: 100,0:20:19.96,0:20:23.53,Dialogue,,0,0,0,,Noi plănuiam să te folosim.
-Dialogue: 100,0:20:23.53,0:20:27.66,Dialogue,,0,0,0,,Să te transformăm într-o unealtă pentru a ne îmbunătăți viețile.
-Dialogue: 100,0:20:28.00,0:20:31.62,Dialogue,,0,0,0,,Oh, dar asta este reciproc.
-Dialogue: 100,0:20:31.78,0:20:32.46,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:20:33.10,0:20:37.52,Dialogue,,0,0,0,,V-am implicat și pe voi fără să știți nimic deoarece nu voiam să merg singur
-Dialogue: 100,0:20:37.52,0:20:39.54,Dialogue,,0,0,0,,într-un loc cu un tip mai \Nîn vârstă și de acel statut.
-Dialogue: 100,0:20:39.54,0:20:42.05,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:20:42.37,0:20:44.51,Dialogue,,0,0,0,,Atunci, când ai spus că suntem un grup...
-Dialogue: 100,0:20:44.73,0:20:46.62,Dialogue,,0,0,0,,O, nu, nu!
-Dialogue: 100,0:20:46.62,0:20:49.97,Dialogue,,0,0,0,,Chiar vreau să fiu într-un grup cu voi trei!
-Dialogue: 100,0:20:51.44,0:20:53.92,Dialogue,,0,0,0,,Dar de ce noi?
-Dialogue: 100,0:20:53.92,0:20:59.43,Dialogue,,0,0,0,,Ei bine, pentru că am senzația că mă voi distra alături de voi,
-Dialogue: 100,0:20:59.43,0:21:01.15,Dialogue,,0,0,0,,chiar și în momentele grele.
-Dialogue: 100,0:21:01.45,0:21:02.18,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:21:03.41,0:21:06.93,Dialogue,,0,0,0,,Ei bine, acum mult timp, \Nmaestrul meu mi-a spus că
-Dialogue: 100,0:21:06.93,0:21:09.87,Dialogue,,0,0,0,,am ce-mi trebuie ca să mă pot bucura de ceea ce are de oferit lumea asta vastă.
-Dialogue: 100,0:21:10.40,0:21:14.63,Dialogue,,0,0,0,,Deci, m-am gândit că ar fi bine să am prieteni care s-ar putea bucura alături de mine.
-Dialogue: 100,0:21:15.08,0:21:18.04,Dialogue,,0,0,0,,Ce? Ăsta este motivul tău?
-Dialogue: 100,0:21:18.59,0:21:21.50,Dialogue,,0,0,0,,Scuze. Ăsta este motivul meu.
-Dialogue: 100,0:21:28.35,0:21:30.96,Dialogue,,0,0,0,,Nu-mi vine să cred că \Npentru asta ne-ai recunoscut.
-Dialogue: 100,0:21:30.96,0:21:34.18,Dialogue,,0,0,0,,Aproape am fost mâncați de lupi!
-Dialogue: 100,0:21:34.65,0:21:37.52,Dialogue,,0,0,0,,Doamne! Asta este numai vina ta, Well!
-Dialogue: 100,0:21:38.96,0:21:41.14,Dialogue,,0,0,0,,Hei, tocmai mi-ai spus "Well"...
-Dialogue: 100,0:21:41.76,0:21:45.58,Dialogue,,0,0,0,,Îmi cer scuze, \Nam uitat ceva foarte important.
-Dialogue: 100,0:21:45.58,0:21:46.15,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:21:46.69,0:21:51.97,Dialogue,,0,0,0,,Recompensa pentru returnarea acelor provizii este 20% din valoarea lor,
-Dialogue: 100,0:21:51.97,0:21:55.14,Dialogue,,0,0,0,,deci îți voi trimite 1.000 de \Nmonede de aur mai târziu.
-Dialogue: 100,0:21:55.14,0:21:57.06,Dialogue,,0,0,0,,1.000 de monede de aur?!
-Dialogue: 100,0:21:57.06,0:22:01.23,Dialogue,,0,0,0,,Ei bine, o monedă de aur înseamnă aproximativ un milion de yeni,
-Dialogue: 100,0:22:01.23,0:22:04.65,Dialogue,,0,0,0,,deci o mie înseamnă... \Nîn jur de un miliard de yeni...
-Dialogue: 100,0:22:05.42,0:22:07.11,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:22:07.11,0:22:10.52,Dialogue,,0,0,0,,Și Alfred avea propriul său conac.
-Dialogue: 100,0:22:10.52,0:22:13.56,Dialogue,,0,0,0,,Am făcut aranjamentele \Nnecesare ca să-l moștenești tu.
-Dialogue: 100,0:22:13.79,0:22:16.74,Dialogue,,0,0,0,,Conacul... maestrului?
-Dialogue: 100,0:22:24.64,0:22:29.40,Dialogue,,0,0,0,,Casa asta este mult prea mare pentru un elev care trăiește singur.
-Dialogue: 100,0:22:32.46,0:22:35.22,Dialogue,,0,0,0,,Mă întreb dacă va vrea \Ncineva să stea aici cu mine...
+Dialogue: 99,0:00:13.65,0:00:15.67,Dialogue,,0,0,0,,Eu sunt a treia fiică a familiei Overweg,
+Dialogue: 99,0:00:15.67,0:00:18.45,Dialogue,,0,0,0,,instuctorii de arte marțiale \Ndin Ducatul de Bleichröder,
+Dialogue: 99,0:00:19.10,0:00:22.38,Dialogue,,0,0,0,,Louise Jolande Aurelia Overweg.
+Dialogue: 99,0:00:23.11,0:00:26.77,Dialogue,,0,0,0,,{\an8}Am studiat Stilul Pumnului Magic de mică...
+Dialogue: 99,0:00:26.77,0:00:29.64,Dialogue,,0,0,0,,{\i1}Mi-am petrecut ultimii șapte \Nani acasă în singurătate.
+Dialogue: 99,0:00:30.60,0:00:32.42,Dialogue,,0,0,0,,{\i1}Am stat la distanță de ceilalți
+Dialogue: 99,0:00:32.42,0:00:35.84,Dialogue,,0,0,0,,{\i1}și am trăit de unul singur ca să evit o eventuală dispută la succesiune.
+Dialogue: 99,0:00:36.90,0:00:39.02,Dialogue,,0,0,0,,Eu sunt a treia fiică a familiei Hillenbrand,
+Dialogue: 99,0:00:39.02,0:00:42.60,Dialogue,,0,0,0,,instructorii în mânuirea lancei din Ducatul de Bleichröder,
+Dialogue: 99,0:00:42.60,0:00:44.81,Dialogue,,0,0,0,,Iina Susanne Hillenbrand.
+Dialogue: 99,0:00:45.04,0:00:47.30,Dialogue,,0,0,0,,Talentul cu lancea mi-a \Nfost recunoscut de mică
+Dialogue: 99,0:00:47.30,0:00:50.58,Dialogue,,0,0,0,,și de asta sunt în această clasă cu bursă de studiu la Academia Aventurierilor.
+Dialogue: 99,0:00:50.58,0:00:54.37,Dialogue,,0,0,0,,{\i1}Dar mulțumită acestui lucru, \Nabilitățile mele de comunicare sunt zero.
+Dialogue: 99,0:00:55.06,0:00:56.16,Dialogue,,0,0,0,,{\i1}Trebuie să mă calmez.
+Dialogue: 99,0:00:56.16,0:00:57.69,Dialogue,,0,0,0,,{\i1}Aici va începe povestea mea.
+Dialogue: 99,0:00:58.64,0:01:02.70,Dialogue,,0,0,0,,{\i1}Povestea mea despre a-mi face prieteni!
+Dialogue: 99,0:01:03.14,0:01:05.30,Dialogue,,0,0,0,,În regulă, următoarea persoană este ultima.
+Dialogue: 99,0:01:06.06,0:01:07.26,Dialogue,,0,0,0,,Baumeister.
+Dialogue: 99,0:01:07.71,0:01:08.63,Dialogue,,0,0,0,,Da, domnule!
+Dialogue: 99,0:01:09.94,0:01:12.66,Dialogue,,0,0,0,,Eu sunt al optulea fiu \Nal Domeniul Baumeister,
+Dialogue: 99,0:01:12.66,0:01:15.30,Dialogue,,0,0,0,,Wendelin von Benno Baumeister.
+Dialogue: 99,0:01:15.94,0:01:18.64,Dialogue,,0,0,0,,M-aș bucura dacă mi-ați spune "Well".
+Dialogue: 99,0:01:19.13,0:01:21.03,Dialogue,,0,0,0,,Sper să ne înțelegem bine.
+Dialogue: 99,0:01:29.44,0:01:34.28,Dialogue,,0,0,0,,În regulă, și acum vă voi explica activitățile acestei clase cu bursă de studiu.
+Dialogue: 99,0:01:35.52,0:01:37.82,Dialogue,,0,0,0,,{\i1}Am mers cumva prea departe cerându-le să-mi spună "Well"?
+Dialogue: 99,0:01:38.46,0:01:41.61,Dialogue,,0,0,0,,Vom începe mai întâi \Nprin a vorbi despre asta.
+Dialogue: 99,0:01:46.28,0:01:48.36,Dialogue,,0,0,0,,Un formular pentru crearea unui grup?
+Dialogue: 99,0:01:49.84,0:01:53.27,Dialogue,,0,0,0,,Luna viitoare vă veți antrena în grupuri.
+Dialogue: 99,0:01:53.71,0:01:57.63,Dialogue,,0,0,0,,Asigurați-vă că v-ați format unul până atunci.
+Dialogue: 99,0:01:58.02,0:02:00.31,Dialogue,,0,0,0,,{\i1}Deci trebuie să ne alegem \Nnoi persoanele pentru grup?
+Dialogue: 99,0:02:01.40,0:02:02.97,Dialogue,,0,0,0,,{\i1}Asta e nasol.
+Dialogue: 99,0:03:45.94,0:03:48.79,Dialogue,,0,0,0,,Mă simt deja dat la o parte.
+Dialogue: 99,0:03:49.49,0:03:53.75,Dialogue,,0,0,0,,Acela este Baumeister, singurul elev pentru magie de anul acesta.
+Dialogue: 99,0:03:55.06,0:03:57.71,Dialogue,,0,0,0,,Utilizatorii de magie sunt foarte rari,
+Dialogue: 99,0:03:57.71,0:04:02.26,Dialogue,,0,0,0,,dar am auzit că puterile sale magice sunt deja la același nivel cu cele ale aventurierilor de top.
+Dialogue: 99,0:04:02.58,0:04:07.82,Dialogue,,0,0,0,,Am auzit că instructorul de magie a spus că nu are ce să-l învețe
+Dialogue: 99,0:04:07.82,0:04:10.22,Dialogue,,0,0,0,,și a renunțat să-l mai instruiască.
+Dialogue: 99,0:04:10.73,0:04:14.19,Dialogue,,0,0,0,,Dacă vei forma un grup cu el, \Nviața ta va fi lipsită de griji.
+Dialogue: 99,0:04:14.69,0:04:15.94,Dialogue,,0,0,0,,Știți cum funcționează, nu?
+Dialogue: 99,0:04:15.94,0:04:19.77,Dialogue,,0,0,0,,Majoritatea grupurilor din \NAcademia rămân împreună
+Dialogue: 99,0:04:19.77,0:04:22.48,Dialogue,,0,0,0,,chiar și după ce termină \Nși devin aventurieri.
+Dialogue: 99,0:04:23.70,0:04:26.58,Dialogue,,0,0,0,,Se pare că toată lumea se \Ngândește la același lucru.
+Dialogue: 99,0:04:27.57,0:04:30.12,Dialogue,,0,0,0,,Deci vreau să vă fac o propunere.
+Dialogue: 99,0:04:30.42,0:04:33.41,Dialogue,,0,0,0,,Hei! Mi-ai trecut numele fără să mă întrebi!
+Dialogue: 99,0:04:33.41,0:04:37.27,Dialogue,,0,0,0,,Ascultați, acel tip ne evaluează acum.
+Dialogue: 99,0:04:38.25,0:04:42.59,Dialogue,,0,0,0,,Încearcă să se hotărască dacă suntem sau nu vrednici de un mare magician ca el.
+Dialogue: 99,0:04:42.98,0:04:46.88,Dialogue,,0,0,0,,Oh! Deci de asta stă mereu singur!
+Dialogue: 99,0:04:46.88,0:04:49.56,Dialogue,,0,0,0,,Ce? Chiar crezi asta?
+Dialogue: 99,0:04:49.89,0:04:50.98,Dialogue,,0,0,0,,De asta uite ce vom face.
+Dialogue: 99,0:04:51.66,0:04:57.02,Dialogue,,0,0,0,,Dacă voi două, lănciera și luptătoarea în arte marțiale de top, formați un grup cu mine, spadasinul de top,
+Dialogue: 99,0:04:57.44,0:04:59.68,Dialogue,,0,0,0,,nu credeți că ne-ar recunoaște abilitățile?
+Dialogue: 99,0:05:03.01,0:05:03.65,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:05:06.72,0:05:08.45,Dialogue,,0,0,0,,Nu e o idee rea.
+Dialogue: 99,0:05:08.45,0:05:11.16,Dialogue,,0,0,0,,Ce? Glumești. \NVrei să formăm un grup cu el?
+Dialogue: 99,0:05:11.62,0:05:16.22,Dialogue,,0,0,0,,Eu sunt al cincilea fiu al \NDomeniului Arnim, Erwin von Arnim.
+Dialogue: 99,0:05:16.89,0:05:18.39,Dialogue,,0,0,0,,Îmi puteți spune "Er".
+Dialogue: 99,0:05:19.04,0:05:23.88,Dialogue,,0,0,0,,Eu sunt Louise. Ea este Iina, prietena mea din copilăria. Ne bucurăm să te cunoaștem!
+Dialogue: 99,0:05:24.21,0:05:25.57,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:05:26.58,0:05:28.11,Dialogue,,0,0,0,,Fă-ți curaj...
+Dialogue: 99,0:05:28.11,0:05:29.98,Dialogue,,0,0,0,,Integrează-te mai bine în clasă!
+Dialogue: 99,0:05:31.49,0:05:32.86,Dialogue,,0,0,0,,H-Hei...
+Dialogue: 99,0:05:32.86,0:05:36.26,Dialogue,,0,0,0,,Chestia asta se numește \Npiper japonez. Dacă vreți...
+Dialogue: 99,0:05:38.45,0:05:41.81,Dialogue,,0,0,0,,Înțeleg. Deci și voi urmăriți același lucru.
+Dialogue: 99,0:05:41.81,0:05:48.20,Dialogue,,0,0,0,,Dar mare păcat deoarece el o să ne recunoască pe noi, trioul cu topoare!
+Dialogue: 99,0:05:54.84,0:05:57.26,Dialogue,,0,0,0,,Ei râd și se distrează atât de mult...
+Dialogue: 99,0:05:57.95,0:05:59.93,Dialogue,,0,0,0,,Poate că nu ar trebui să-i deranjez acum.
+Dialogue: 99,0:06:00.76,0:06:05.04,Dialogue,,0,0,0,,Acum, sunt sigur că unii dintre voi nu primesc bani de la familiile lor
+Dialogue: 99,0:06:05.04,0:06:08.47,Dialogue,,0,0,0,,și trebuie să muncească \Nca să-și câștige existența.
+Dialogue: 99,0:06:09.33,0:06:10.43,Dialogue,,0,0,0,,Acela sunt eu.
+Dialogue: 99,0:06:10.68,0:06:14.69,Dialogue,,0,0,0,,Academia noastră recomandă vânătoarea pentru aceste situații,
+Dialogue: 99,0:06:14.69,0:06:19.90,Dialogue,,0,0,0,,dar este periculos s-o faceți pe cont propriu așa că e mai bine să mergeți în grupuri.
+Dialogue: 99,0:06:20.24,0:06:21.71,Dialogue,,0,0,0,,În grupuri?
+Dialogue: 99,0:06:26.05,0:06:28.67,Dialogue,,0,0,0,,Se pare că nu mai e loc și pentru mine.
+Dialogue: 99,0:06:28.67,0:06:30.17,Dialogue,,0,0,0,,Hei, ce credeți?
+Dialogue: 99,0:06:30.17,0:06:31.95,Dialogue,,0,0,0,,Ar trebui să mergem și \Nsă vorbim cu Baumeister?
+Dialogue: 99,0:06:32.38,0:06:34.29,Dialogue,,0,0,0,,Nu, mai bine am fi precauți.
+Dialogue: 99,0:06:34.87,0:06:40.62,Dialogue,,0,0,0,,Dacă ne grăbim și facem vreo greșeală care-l va dezamăgi, totul va fi în zadar.
+Dialogue: 99,0:06:41.62,0:06:46.05,Dialogue,,0,0,0,,Totuși... Am observat că \Nnu vorbește cu nimeni.
+Dialogue: 99,0:06:46.97,0:06:51.51,Dialogue,,0,0,0,,Am înțeles! Asta este o \Nprovocare de la Baumeister!
+Dialogue: 99,0:06:51.98,0:06:53.47,Dialogue,,0,0,0,,Ce?! Ce vrei să spui?!
+Dialogue: 99,0:06:53.74,0:06:55.58,Dialogue,,0,0,0,,El încearcă să ne transmită asta:
+Dialogue: 99,0:06:55.58,0:07:01.52,Dialogue,,0,0,0,,"Nu ar trebui să aveți probleme în a aduce ca grup mai multe animale decât mine singur."
+Dialogue: 99,0:07:03.10,0:07:06.44,Dialogue,,0,0,0,,Deci, dacă un grup aduce \Nmai puține animale ca el...
+Dialogue: 99,0:07:06.85,0:07:10.52,Dialogue,,0,0,0,,Atunci acel grup va fi eliminat \Nde pe lista candidaților.
+Dialogue: 99,0:07:18.87,0:07:19.84,Dialogue,,0,0,0,,Poftim.
+Dialogue: 99,0:07:26.87,0:07:28.84,Dialogue,,0,0,0,,Ar trebui să fim în regulă cu ce avem aici.
+Dialogue: 99,0:07:29.33,0:07:33.51,Dialogue,,0,0,0,,Totuși, voi două chiar sunteți \Nfiicele unor mari maeștri.
+Dialogue: 99,0:07:33.51,0:07:36.95,Dialogue,,0,0,0,,V-ați antrenat cu familiile voastre de mici?
+Dialogue: 99,0:07:37.99,0:07:38.85,Dialogue,,0,0,0,,Cam așa ceva.
+Dialogue: 99,0:07:40.18,0:07:43.56,Dialogue,,0,0,0,,D-Dar și tu ai fost uimitor cu sabia!
+Dialogue: 99,0:07:43.81,0:07:47.32,Dialogue,,0,0,0,,Ei bine, eu vin dintr-un domeniu sărac,
+Dialogue: 99,0:07:47.74,0:07:52.03,Dialogue,,0,0,0,,deci m-am antrenat cu sabia ca un nebun încă de mic copil.
+Dialogue: 99,0:07:52.50,0:07:55.30,Dialogue,,0,0,0,,O, scuzați-mă. Vreau să trec.
+Dialogue: 99,0:07:55.98,0:07:58.95,Dialogue,,0,0,0,,Ce? Unde sunt animalele prinse de el?
+Dialogue: 99,0:07:59.29,0:08:01.66,Dialogue,,0,0,0,,Oh, un săculeț magic, nu?
+Dialogue: 99,0:08:02.38,0:08:03.90,Dialogue,,0,0,0,,De unde ai făcut rost de unul?
+Dialogue: 99,0:08:03.90,0:08:06.96,Dialogue,,0,0,0,,Oh, mi l-a lăsat maestrul meu.
+Dialogue: 99,0:08:06.96,0:08:07.75,Dialogue,,0,0,0,,Bun!
+Dialogue: 99,0:08:13.85,0:08:15.31,Dialogue,,0,0,0,,S-Stai... Ce...
+Dialogue: 99,0:08:18.87,0:08:20.75,Dialogue,,0,0,0,,Hmpf. Asta este stupid.
+Dialogue: 99,0:08:20.75,0:08:22.12,Dialogue,,0,0,0,,Eu renunț.
+Dialogue: 99,0:08:22.12,0:08:22.76,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:08:22.76,0:08:24.89,Dialogue,,0,0,0,,El este la cu totul alt nivel.
+Dialogue: 99,0:08:24.89,0:08:26.88,Dialogue,,0,0,0,,Cu o diferență atât de mare \Nîntre abilitățile noastre,
+Dialogue: 99,0:08:26.88,0:08:29.10,Dialogue,,0,0,0,,va fi imposibil să-l facem să ne recunoască.
+Dialogue: 99,0:08:29.48,0:08:31.24,Dialogue,,0,0,0,,Nu merită efortul.
+Dialogue: 99,0:08:32.15,0:08:34.28,Dialogue,,0,0,0,,Și voi înțelegeți, nu-i așa?
+Dialogue: 99,0:08:34.28,0:08:36.24,Dialogue,,0,0,0,,Dacă nu ești copilul cel mare,
+Dialogue: 99,0:08:36.24,0:08:39.20,Dialogue,,0,0,0,,ai face bine să nu \Nîncerci să visezi la mai mult.
+Dialogue: 99,0:08:46.42,0:08:49.30,Dialogue,,0,0,0,,Asta chiar e de mare ajutor! \NSunt toate numai trofee.
+Dialogue: 99,0:08:49.30,0:08:50.51,Dialogue,,0,0,0,,Sper că vei mai veni pe aici.
+Dialogue: 99,0:08:50.51,0:08:51.27,Dialogue,,0,0,0,,Desigur!
+Dialogue: 99,0:08:57.22,0:09:00.66,Dialogue,,0,0,0,,Dacă vreți, haide să ne luăm \Nceva de mâncare cu acești—
+Dialogue: 99,0:09:00.66,0:09:01.41,Dialogue,,0,0,0,,...bani?
+Dialogue: 99,0:09:03.30,0:09:06.69,Dialogue,,0,0,0,,Fratele meu a spus odată ceva asemănător.
+Dialogue: 99,0:09:08.14,0:09:10.62,Dialogue,,0,0,0,,Că indiferent cât de mult mă antrenez cu sabia,
+Dialogue: 99,0:09:10.62,0:09:12.58,Dialogue,,0,0,0,,ca al cincilea fiul, \Nnu voi moșteni niciodată nimic.
+Dialogue: 99,0:09:13.47,0:09:15.27,Dialogue,,0,0,0,,Spunea că depun efort degeaba.
+Dialogue: 99,0:09:16.49,0:09:18.45,Dialogue,,0,0,0,,A fost la fel și pentru mine și Louise.
+Dialogue: 99,0:09:19.25,0:09:20.86,Dialogue,,0,0,0,,Indiferent cât eram de puternice,
+Dialogue: 99,0:09:20.86,0:09:23.58,Dialogue,,0,0,0,,nu puteam moșteni școala deoarece nu eram cele mai mari.
+Dialogue: 99,0:09:24.47,0:09:26.09,Dialogue,,0,0,0,,Este la fel peste tot, nu?
+Dialogue: 99,0:09:26.79,0:09:29.49,Dialogue,,0,0,0,,Ar fi fost bine dacă asta era tot.
+Dialogue: 99,0:09:30.32,0:09:34.96,Dialogue,,0,0,0,,Adevărul este că amândouă ne-am născut cu puțin mai multă putere magică ca restul oamenilor.
+Dialogue: 99,0:09:35.52,0:09:39.34,Dialogue,,0,0,0,,Vreau să spun, nu era de ajuns că {\i1}aveam{\i0} mai multă magie,
+Dialogue: 99,0:09:39.84,0:09:43.66,Dialogue,,0,0,0,,dar dacă o folosim ca să \Nne mărim abilitățile fizice...
+Dialogue: 99,0:09:45.35,0:09:48.52,Dialogue,,0,0,0,,Atunci, o persoană normală \Nnu ar avea nicio șansă, nu?
+Dialogue: 99,0:09:48.82,0:09:52.74,Dialogue,,0,0,0,,Înainte să-mi dau seama, eram mai puternică ca tatăl și fratele meu
+Dialogue: 99,0:09:52.74,0:09:55.45,Dialogue,,0,0,0,,și de la un moment dat au început să mă evite.
+Dialogue: 99,0:09:56.80,0:10:00.44,Dialogue,,0,0,0,,Deci am sfârșit prin a mă antrena în secret.
+Dialogue: 99,0:10:02.01,0:10:03.40,Dialogue,,0,0,0,,Nu pot accepta asta!
+Dialogue: 99,0:10:03.92,0:10:08.80,Dialogue,,0,0,0,,De ce naiba faptul că ești născut mai târziu înseamnă că nu ai dreptul sa visezi?!
+Dialogue: 99,0:10:08.80,0:10:09.96,Dialogue,,0,0,0,,Asta e complet greșit, nu credeți?!
+Dialogue: 99,0:10:11.54,0:10:13.18,Dialogue,,0,0,0,,Eu nu voi renunța.
+Dialogue: 99,0:10:14.09,0:10:19.48,Dialogue,,0,0,0,,Acum, haideți să vânăm niște chestii cu adevărat mari ca să-l facem pe Baumeister să ne recunoască!
+Dialogue: 99,0:10:23.56,0:10:26.77,Dialogue,,0,0,0,,Dacă vrei chestii cu adevărat mari, atunci acesta este locul! Adânc în pădure!
+Dialogue: 99,0:10:27.21,0:10:31.25,Dialogue,,0,0,0,,Profesorul ne-a spus că nu avem voie să venim aici, dar nu avem de ales!
+Dialogue: 99,0:10:31.25,0:10:33.22,Dialogue,,0,0,0,,Ba da, avem.
+Dialogue: 99,0:10:33.22,0:10:34.98,Dialogue,,0,0,0,,Haideți să ne întoarcem.
+Dialogue: 99,0:10:37.89,0:10:38.66,Dialogue,,0,0,0,,Au venit.
+Dialogue: 99,0:10:39.08,0:10:39.84,Dialogue,,0,0,0,,Lupii.
+Dialogue: 99,0:10:40.37,0:10:42.16,Dialogue,,0,0,0,,Și unii chiar foarte mari.
+Dialogue: 99,0:11:02.06,0:11:06.95,Dialogue,,0,0,0,,Lupi și... aceia sunt... oameni?
+Dialogue: 99,0:11:08.59,0:11:13.38,Dialogue,,0,0,0,,Dacă aceia sunt colegii mei de clasă, \Npoate că putem deveni prieteni dacă-i salvez!
+Dialogue: 99,0:11:27.35,0:11:29.75,Dialogue,,0,0,0,,Fir-ar! Câți naiba sunt?!
+Dialogue: 99,0:11:30.08,0:11:33.59,Dialogue,,0,0,0,,Îmi cer scuze. \NAr fi trebuit s-o ascultăm pe Iina.
+Dialogue: 99,0:11:34.20,0:11:35.13,Dialogue,,0,0,0,,Louise, deasupra ta!
+Dialogue: 99,0:11:40.69,0:11:41.55,Dialogue,,0,0,0,,Er!
+Dialogue: 99,0:11:54.15,0:11:55.62,Dialogue,,0,0,0,,Ce este asta?
+Dialogue: 99,0:11:56.06,0:11:57.20,Dialogue,,0,0,0,,Sunteți bine?
+Dialogue: 99,0:12:06.31,0:12:07.91,Dialogue,,0,0,0,,Ne cerem scuze.
+Dialogue: 99,0:12:08.26,0:12:11.93,Dialogue,,0,0,0,,Este în regulă. Vreau să spun, suntem colegi, la urma urmei.
+Dialogue: 99,0:12:12.65,0:12:14.95,Dialogue,,0,0,0,,Încercam să te facem \Nsă ne recunoști abilitățile,
+Dialogue: 99,0:12:14.95,0:12:16.55,Dialogue,,0,0,0,,dar doar ți-am creat probleme.
+Dialogue: 99,0:12:17.33,0:12:17.90,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:12:18.36,0:12:19.05,Dialogue,,0,0,0,,Pe mine?
+Dialogue: 99,0:12:19.31,0:12:22.40,Dialogue,,0,0,0,,Totuși, după ce am văzut \Nmagia pe care ai folosit-o,
+Dialogue: 99,0:12:22.40,0:12:26.89,Dialogue,,0,0,0,,ne-am dat seama că trăim în lumi diferite.
+Dialogue: 99,0:12:27.77,0:12:28.82,Dialogue,,0,0,0,,Deci...
+Dialogue: 99,0:12:28.82,0:12:29.98,Dialogue,,0,0,0,,H-Hei...
+Dialogue: 99,0:12:30.72,0:12:33.98,Dialogue,,0,0,0,,Voi renunța la ideea de a \Nmai forma un grup cu tine.
+Dialogue: 99,0:12:34.66,0:12:35.46,Dialogue,,0,0,0,,Cu mine?!
+Dialogue: 99,0:12:35.46,0:12:38.53,Dialogue,,0,0,0,,Totuși, nu am renunțat la tot.
+Dialogue: 99,0:12:38.99,0:12:42.95,Dialogue,,0,0,0,,Vom găsi o altă modalitate \Nde a pava un viitor strălucit.
+Dialogue: 99,0:12:42.95,0:12:45.41,Dialogue,,0,0,0,,Hei, s-s-stați o secundă...
+Dialogue: 99,0:12:45.81,0:12:47.18,Dialogue,,0,0,0,,Deci aici erați—
+Dialogue: 99,0:12:48.26,0:12:49.68,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:12:49.68,0:12:52.06,Dialogue,,0,0,0,,Oh, e doar o zgârietură.
+Dialogue: 99,0:12:52.71,0:12:54.50,Dialogue,,0,0,0,,Oricum, aveați nevoie de \Nnoi pentru ceva anume?
+Dialogue: 99,0:12:54.79,0:12:55.81,Dialogue,,0,0,0,,Oh...
+Dialogue: 99,0:12:55.81,0:12:59.09,Dialogue,,0,0,0,,Bucurați-vă! Toți elevii din clasa noastră cu bursă de studiu
+Dialogue: 99,0:12:59.09,0:13:03.80,Dialogue,,0,0,0,,au fost invitați la o petrecere în grădină ținută de Ducele de Bleichröder!
+Dialogue: 99,0:13:04.05,0:13:08.26,Dialogue,,0,0,0,,O șansă de a-l întâlni pe Ducele de Bleichröder în persoană!
+Dialogue: 99,0:13:08.46,0:13:13.09,Dialogue,,0,0,0,,El este unul dintre nobilii care se întrec pentru primele locuri în Regatul Helmut.
+Dialogue: 99,0:13:13.09,0:13:16.80,Dialogue,,0,0,0,,Dacă o să-i placă de noi, vom avea ocazia de a deveni oameni în serviciul său!
+Dialogue: 99,0:13:17.47,0:13:19.44,Dialogue,,0,0,0,,De ce sunteți așa încântați?
+Dialogue: 99,0:13:19.86,0:13:23.52,Dialogue,,0,0,0,,Este evident că suntem invitați doar pentru că Ducele de Bleichröder
+Dialogue: 99,0:13:23.52,0:13:29.74,Dialogue,,0,0,0,,vrea să-l revendice pe marele nostru magician, Baumeister.
+Dialogue: 99,0:13:30.20,0:13:33.20,Dialogue,,0,0,0,,Noi suntem doar în plus.
+Dialogue: 99,0:13:33.20,0:13:35.98,Dialogue,,0,0,0,,Atunci, nu va fi interesat de noi deloc.
+Dialogue: 99,0:13:36.69,0:13:40.67,Dialogue,,0,0,0,,Ce? Atunci, nu are rost să fim încântați.
+Dialogue: 99,0:13:40.67,0:13:41.13,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:13:41.13,0:13:42.31,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:13:42.31,0:13:42.84,Dialogue,,0,0,0,,Asta e tot?
+Dialogue: 99,0:13:42.84,0:13:44.07,Dialogue,,0,0,0,,Ce dezamăgire.
+Dialogue: 99,0:13:46.67,0:13:50.72,Dialogue,,0,0,0,,În regulă! Haide să mergem să ne cumpărăm împreună costumație pentru petrecerea din grădină!
+Dialogue: 99,0:13:50.72,0:13:52.14,Dialogue,,0,0,0,,Costume formale, nu?
+Dialogue: 99,0:13:52.59,0:13:55.89,Dialogue,,0,0,0,,Asta ne va costa ceva, \Ndar este pentru viitorul nostru.
+Dialogue: 99,0:13:56.50,0:14:00.61,Dialogue,,0,0,0,,Oh, haide. Voi încă mai sperați?
+Dialogue: 99,0:14:01.56,0:14:02.82,Dialogue,,0,0,0,,Ce e în neregulă cu asta?
+Dialogue: 99,0:14:04.98,0:14:07.03,Dialogue,,0,0,0,,Încă există o șansă, nu?
+Dialogue: 99,0:14:07.30,0:14:10.99,Dialogue,,0,0,0,,Hei, poate va vorbi cu noi dacă vom veni într-o costumație care atrage privirea!
+Dialogue: 99,0:14:11.57,0:14:13.75,Dialogue,,0,0,0,,Tu poți face asta, Louise.
+Dialogue: 99,0:14:13.75,0:14:15.44,Dialogue,,0,0,0,,Eu voi veni în ceva normal.
+Dialogue: 99,0:14:15.44,0:14:16.59,Dialogue,,0,0,0,,De ce?!
+Dialogue: 99,0:14:16.59,0:14:18.91,Dialogue,,0,0,0,,Haideți să mergem toți în \Nceva care atrage privirea!
+Dialogue: 99,0:14:18.91,0:14:20.98,Dialogue,,0,0,0,,Scuze, nu pot face asta.
+Dialogue: 99,0:14:20.98,0:14:22.11,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:14:36.64,0:14:37.92,Dialogue,,0,0,0,,O, acolo este!
+Dialogue: 99,0:14:37.92,0:14:38.94,Dialogue,,0,0,0,,Priviți acolo!
+Dialogue: 99,0:14:39.57,0:14:42.06,Dialogue,,0,0,0,,Ducele de Bleichröder...
+Dialogue: 99,0:14:42.45,0:14:46.03,Dialogue,,0,0,0,,Acela este Ducele de Bleichröder?
+Dialogue: 99,0:14:58.38,0:15:00.08,Dialogue,,0,0,0,,Vine! Vine! Vine!
+Dialogue: 99,0:15:00.08,0:15:01.58,Dialogue,,0,0,0,,Vine spre noi, Iina!
+Dialogue: 99,0:15:01.58,0:15:02.33,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:15:03.76,0:15:05.55,Dialogue,,0,0,0,,M-Mă scuzați, eu...
+Dialogue: 99,0:15:11.20,0:15:12.64,Dialogue,,0,0,0,,E o plăcere să te întâlnesc.
+Dialogue: 99,0:15:12.86,0:15:18.00,Dialogue,,0,0,0,,Eu sunt Amadeus \NFreytag von Bleichröder.
+Dialogue: 99,0:15:19.10,0:15:21.63,Dialogue,,0,0,0,,Eu sunt Wendelin von Benno Baumeister.
+Dialogue: 99,0:15:23.00,0:15:26.62,Dialogue,,0,0,0,,Vai, mă bucur să văd pe \Ncineva din familia Baumeister,
+Dialogue: 99,0:15:26.62,0:15:30.14,Dialogue,,0,0,0,,vasalii noștri, vizitându-ne în Breichburg.
+Dialogue: 99,0:15:30.95,0:15:36.60,Dialogue,,0,0,0,,Familia Baumeister participă foarte rar la adunări de acest gen.
+Dialogue: 99,0:15:37.06,0:15:41.54,Dialogue,,0,0,0,,Ei bine, după cum știți, probleme financiare ale familiei noastre sunt măricele.
+Dialogue: 99,0:15:42.13,0:15:45.34,Dialogue,,0,0,0,,Există niște cheltuieli implicate \Nîn trecerea acelor munți.
+Dialogue: 99,0:15:45.77,0:15:48.07,Dialogue,,0,0,0,,Dar câțiva dintre vasalii \Nmei se plâng spunând că
+Dialogue: 99,0:15:48.07,0:15:52.15,Dialogue,,0,0,0,,este nepoliticos să refuzi \Ninvitația lordului lor.
+Dialogue: 99,0:15:53.05,0:15:54.97,Dialogue,,0,0,0,,Îmi pare foarte rău.
+Dialogue: 99,0:15:55.22,0:15:57.92,Dialogue,,0,0,0,,Ei bine, destul cu asta.
+Dialogue: 99,0:15:57.92,0:16:00.43,Dialogue,,0,0,0,,Adevărul este că voiam să vorbesc cu tine.
+Dialogue: 99,0:16:01.09,0:16:03.90,Dialogue,,0,0,0,,Ai putea să-mi oferi puțin din timpul tău?
+Dialogue: 99,0:16:05.80,0:16:06.86,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:16:07.05,0:16:08.30,Dialogue,,0,0,0,,Atunci, haide să mergem.
+Dialogue: 99,0:16:09.84,0:16:11.02,Dialogue,,0,0,0,,Scuzați-mă!
+Dialogue: 99,0:16:11.61,0:16:14.62,Dialogue,,0,0,0,,Ei bine, sunt câteva persoane pe care aș vrea să le iau cu mine.
+Dialogue: 99,0:16:15.67,0:16:16.90,Dialogue,,0,0,0,,Aceștia trei.
+Dialogue: 99,0:16:17.49,0:16:19.66,Dialogue,,0,0,0,,Ei sunt membrii grupului meu.
+Dialogue: 99,0:16:37.52,0:16:40.22,Dialogue,,0,0,0,,Acesta este magicianul meu regal.
+Dialogue: 99,0:16:43.18,0:16:45.63,Dialogue,,0,0,0,,Brantag Ringstat.
+Dialogue: 99,0:16:46.28,0:16:47.67,Dialogue,,0,0,0,,Încântat de cunoștință.
+Dialogue: 99,0:16:47.67,0:16:54.11,Dialogue,,0,0,0,,A fost, de asemenea, învățătorul fostului meu magician regal, Alfred Rainford.
+Dialogue: 99,0:16:56.30,0:16:58.24,Dialogue,,0,0,0,,Ei bine, adevărul este că
+Dialogue: 99,0:16:58.24,0:17:04.58,Dialogue,,0,0,0,,Alfred a murit în Pădurea Fermecată aproape de pământurile familiei tale acum mult, mult timp.
+Dialogue: 99,0:17:05.04,0:17:08.04,Dialogue,,0,0,0,,Se pare că mai târziu a \Ndevenit un Mort Vorbitor.
+Dialogue: 99,0:17:08.53,0:17:10.77,Dialogue,,0,0,0,,Dar tot am fost maestrul său.
+Dialogue: 99,0:17:10.77,0:17:13.92,Dialogue,,0,0,0,,Mereu am fost cu un ochi \Npe prezența discipolului meu.
+Dialogue: 99,0:17:14.21,0:17:17.34,Dialogue,,0,0,0,,Brantag este foarte talentat \Nîn magia de urmărire.
+Dialogue: 99,0:17:17.69,0:17:22.68,Dialogue,,0,0,0,,Poate urmări pe cineva pe care l-a întâlnit de la o distanță foarte mare.
+Dialogue: 99,0:17:23.30,0:17:24.81,Dialogue,,0,0,0,,A fost acum șapte ani.
+Dialogue: 99,0:17:24.81,0:17:28.15,Dialogue,,0,0,0,,Cam pe atunci a dispărut \Nbrusc prezența lui Alfred.
+Dialogue: 99,0:17:28.66,0:17:30.29,Dialogue,,0,0,0,,Era un Mort Vorbitor,
+Dialogue: 99,0:17:30.29,0:17:34.11,Dialogue,,0,0,0,,deci m-am gândit că poate și-a împlinit dorința și a trecut dincolo,
+Dialogue: 99,0:17:34.11,0:17:37.08,Dialogue,,0,0,0,,dar apoi mi-am amintit că \Natunci când era viu mi-a spus:
+Dialogue: 99,0:17:37.08,0:17:41.22,Dialogue,,0,0,0,,"Vreau să întâlnesc pe cineva pe care să-l învăț tot ce știu despre magie."
+Dialogue: 99,0:17:41.84,0:17:44.77,Dialogue,,0,0,0,,Deci, am stat și m-am gândit și mi-am dat seama că dacă aia era
+Dialogue: 99,0:17:44.77,0:17:48.12,Dialogue,,0,0,0,,dorința sa, atunci nu ar fi \Ndevenit niciodată realitate.
+Dialogue: 99,0:17:48.85,0:17:52.20,Dialogue,,0,0,0,,Avea o cantitate de magie mai mare și ca mine, maestrul său,
+Dialogue: 99,0:17:52.20,0:17:56.59,Dialogue,,0,0,0,,și era în primi cinci magicieni \Nde pe acest continent.
+Dialogue: 99,0:17:56.59,0:18:01.95,Dialogue,,0,0,0,,E imposibil ca el să fi găsit un magician pe care să-l accepte ca discipolul său.
+Dialogue: 99,0:18:04.66,0:18:08.03,Dialogue,,0,0,0,,Și totuși, avem aici un tânăr cu o putere magică incredibilă
+Dialogue: 99,0:18:08.03,0:18:11.31,Dialogue,,0,0,0,,din aceeași regiune unde \Ndispăruse prezența lui.
+Dialogue: 99,0:18:11.31,0:18:14.46,Dialogue,,0,0,0,,Un tânăr care are și săculețul lui magic.
+Dialogue: 99,0:18:17.17,0:18:20.79,Dialogue,,0,0,0,,Scuză-mă, dar care sunt șansele să-l fi furat?
+Dialogue: 99,0:18:20.79,0:18:22.43,Dialogue,,0,0,0,,Zero.
+Dialogue: 99,0:18:22.43,0:18:29.29,Dialogue,,0,0,0,,Nimeni nu poate folosi acel săculeț magic decât dacă Alfred îi transferă posesia.
+Dialogue: 99,0:18:30.53,0:18:31.82,Dialogue,,0,0,0,,Tu ești, nu-i așa?
+Dialogue: 99,0:18:32.14,0:18:34.67,Dialogue,,0,0,0,,Tu ești discipolul lui Alfred.
+Dialogue: 99,0:18:35.89,0:18:36.66,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:18:37.64,0:18:40.01,Dialogue,,0,0,0,,Atunci, vreau să te întreb un singur lucru.
+Dialogue: 99,0:18:41.78,0:18:44.60,Dialogue,,0,0,0,,Cum au fost ultimele sale clipe?
+Dialogue: 99,0:18:55.71,0:18:59.74,Dialogue,,0,0,0,,Mi-am purificat maestrul \Nînainte să devină un zombi.
+Dialogue: 99,0:19:00.83,0:19:03.98,Dialogue,,0,0,0,,Doamne. Să forțezi un copil să facă așa ceva...
+Dialogue: 99,0:19:08.14,0:19:09.70,Dialogue,,0,0,0,,Îți mulțumesc.
+Dialogue: 99,0:19:09.70,0:19:11.29,Dialogue,,0,0,0,,Datorită ție,
+Dialogue: 99,0:19:11.86,0:19:15.12,Dialogue,,0,0,0,,a reușit să meargă pe lumea cealaltă.
+Dialogue: 99,0:19:19.20,0:19:19.93,Dialogue,,0,0,0,,Nu, eu...
+Dialogue: 99,0:19:24.11,0:19:25.25,Dialogue,,0,0,0,,O, așa este.
+Dialogue: 99,0:19:25.99,0:19:28.85,Dialogue,,0,0,0,,Acest săculeț pe care-l avea maestrul meu conține proviziile
+Dialogue: 99,0:19:28.85,0:19:32.47,Dialogue,,0,0,0,,pentru expediția cu 2.000 de oameni în Pădurea Fermecată.
+Dialogue: 99,0:19:34.42,0:19:37.21,Dialogue,,0,0,0,,Voiam să le returnez de ceva timp.
+Dialogue: 99,0:19:39.10,0:19:42.16,Dialogue,,0,0,0,,Nu știam nimic despre el.
+Dialogue: 99,0:19:43.33,0:19:47.64,Dialogue,,0,0,0,,A spus că a trăit de unul singur ca să evite o dispută pentru succesiune.
+Dialogue: 99,0:19:48.61,0:19:51.40,Dialogue,,0,0,0,,La fel ca și noi...
+Dialogue: 99,0:19:52.50,0:19:55.73,Dialogue,,0,0,0,,Și totuși, noi am spus \Ncă trăim în lumi diferite.
+Dialogue: 99,0:19:56.91,0:19:58.63,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:20:01.49,0:20:03.19,Dialogue,,0,0,0,,Scuze că v-am făcut să așteptați.
+Dialogue: 99,0:20:03.19,0:20:06.15,Dialogue,,0,0,0,,A durat mai mult decât \Ncredeam să dau acele provizii.
+Dialogue: 99,0:20:06.88,0:20:10.63,Dialogue,,0,0,0,,Hei, când ai spus că suntem un grup...
+Dialogue: 99,0:20:11.54,0:20:15.32,Dialogue,,0,0,0,,Da, scuze că v-am implicat \Nîn asta. Voiam doar—
+Dialogue: 99,0:20:15.32,0:20:18.48,Dialogue,,0,0,0,,Nu merităm să fim în grupul tău!
+Dialogue: 99,0:20:19.96,0:20:23.53,Dialogue,,0,0,0,,Noi plănuiam să te folosim.
+Dialogue: 99,0:20:23.53,0:20:27.66,Dialogue,,0,0,0,,Să te transformăm într-o unealtă pentru a ne îmbunătăți viețile.
+Dialogue: 99,0:20:28.00,0:20:31.62,Dialogue,,0,0,0,,Oh, dar asta este reciproc.
+Dialogue: 99,0:20:31.78,0:20:32.46,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:20:33.10,0:20:37.52,Dialogue,,0,0,0,,V-am implicat și pe voi fără să știți nimic deoarece nu voiam să merg singur
+Dialogue: 99,0:20:37.52,0:20:39.54,Dialogue,,0,0,0,,într-un loc cu un tip mai \Nîn vârstă și de acel statut.
+Dialogue: 99,0:20:39.54,0:20:42.05,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:20:42.37,0:20:44.51,Dialogue,,0,0,0,,Atunci, când ai spus că suntem un grup...
+Dialogue: 99,0:20:44.73,0:20:46.62,Dialogue,,0,0,0,,O, nu, nu!
+Dialogue: 99,0:20:46.62,0:20:49.97,Dialogue,,0,0,0,,Chiar vreau să fiu într-un grup cu voi trei!
+Dialogue: 99,0:20:51.44,0:20:53.92,Dialogue,,0,0,0,,Dar de ce noi?
+Dialogue: 99,0:20:53.92,0:20:59.43,Dialogue,,0,0,0,,Ei bine, pentru că am senzația că mă voi distra alături de voi,
+Dialogue: 99,0:20:59.43,0:21:01.15,Dialogue,,0,0,0,,chiar și în momentele grele.
+Dialogue: 99,0:21:01.45,0:21:02.18,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:21:03.41,0:21:06.93,Dialogue,,0,0,0,,Ei bine, acum mult timp, \Nmaestrul meu mi-a spus că
+Dialogue: 99,0:21:06.93,0:21:09.87,Dialogue,,0,0,0,,am ce-mi trebuie ca să mă pot bucura de ceea ce are de oferit lumea asta vastă.
+Dialogue: 99,0:21:10.40,0:21:14.63,Dialogue,,0,0,0,,Deci, m-am gândit că ar fi bine să am prieteni care s-ar putea bucura alături de mine.
+Dialogue: 99,0:21:15.08,0:21:18.04,Dialogue,,0,0,0,,Ce? Ăsta este motivul tău?
+Dialogue: 99,0:21:18.59,0:21:21.50,Dialogue,,0,0,0,,Scuze. Ăsta este motivul meu.
+Dialogue: 99,0:21:28.35,0:21:30.96,Dialogue,,0,0,0,,Nu-mi vine să cred că \Npentru asta ne-ai recunoscut.
+Dialogue: 99,0:21:30.96,0:21:34.18,Dialogue,,0,0,0,,Aproape am fost mâncați de lupi!
+Dialogue: 99,0:21:34.65,0:21:37.52,Dialogue,,0,0,0,,Doamne! Asta este numai vina ta, Well!
+Dialogue: 99,0:21:38.96,0:21:41.14,Dialogue,,0,0,0,,Hei, tocmai mi-ai spus "Well"...
+Dialogue: 99,0:21:41.76,0:21:45.58,Dialogue,,0,0,0,,Îmi cer scuze, \Nam uitat ceva foarte important.
+Dialogue: 99,0:21:45.58,0:21:46.15,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:21:46.69,0:21:51.97,Dialogue,,0,0,0,,Recompensa pentru returnarea acelor provizii este 20% din valoarea lor,
+Dialogue: 99,0:21:51.97,0:21:55.14,Dialogue,,0,0,0,,deci îți voi trimite 1.000 de \Nmonede de aur mai târziu.
+Dialogue: 99,0:21:55.14,0:21:57.06,Dialogue,,0,0,0,,1.000 de monede de aur?!
+Dialogue: 99,0:21:57.06,0:22:01.23,Dialogue,,0,0,0,,Ei bine, o monedă de aur înseamnă aproximativ un milion de yeni,
+Dialogue: 99,0:22:01.23,0:22:04.65,Dialogue,,0,0,0,,deci o mie înseamnă... \Nîn jur de un miliard de yeni...
+Dialogue: 99,0:22:05.42,0:22:07.11,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:22:07.11,0:22:10.52,Dialogue,,0,0,0,,Și Alfred avea propriul său conac.
+Dialogue: 99,0:22:10.52,0:22:13.56,Dialogue,,0,0,0,,Am făcut aranjamentele \Nnecesare ca să-l moștenești tu.
+Dialogue: 99,0:22:13.79,0:22:16.74,Dialogue,,0,0,0,,Conacul... maestrului?
+Dialogue: 99,0:22:24.64,0:22:29.40,Dialogue,,0,0,0,,Casa asta este mult prea mare pentru un elev care trăiește singur.
+Dialogue: 99,0:22:32.46,0:22:35.22,Dialogue,,0,0,0,,Mă întreb dacă va vrea \Ncineva să stea aici cu mine...
 Comment: 0,0:01:49.42,0:01:53.25,DedzuyaSigns,,0,0,0,,Formular pentru crearea unui grup
 Comment: 0,0:01:49.42,0:01:53.25,DedzuyaSigns,,0,0,0,,Nume
 Comment: 0,0:01:49.42,0:01:53.25,DedzuyaSigns,,0,0,0,,Specialitate

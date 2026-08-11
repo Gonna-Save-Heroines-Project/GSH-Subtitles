@@ -36,265 +36,265 @@ Style: OP TL,FOT-Comic Reggae Std,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:05.99,0:00:08.45,Dialogue,Previous Setsu,0,0,0,,Wh-What is this?
-Dialogue: 100,0:00:08.45,0:00:10.20,Dialogue,Young Toma,0,0,0,,Where am I?
-Dialogue: 100,0:00:10.20,0:00:12.24,Dialogue,Minister A,0,0,0,,Yes! A success!
-Dialogue: 100,0:00:13.66,0:00:15.66,Dialogue,Minister A,0,0,0,,The summoning is a success!
-Dialogue: 100,0:00:15.66,0:00:16.58,Dialogue,Minister B,0,0,0,,Heroes!
-Dialogue: 100,0:00:16.96,0:00:21.38,Dialogue,Minister B,0,0,0,,God has sent us heroes to save Distinia!
-Dialogue: 100,0:00:21.38,0:00:22.21,Dialogue,Young Toma,0,0,0,,What?!
-Dialogue: 100,0:00:22.63,0:00:26.38,Dialogue,King,0,0,0,,You are visitors to our \Nrealm from another world.
-Dialogue: 100,0:00:27.13,0:00:30.30,Dialogue,King,0,0,0,,The god-sent saviors of our nation!
-Dialogue: 100,0:00:32.22,0:00:41.81,Isenido - Top,Crowd,0,0,0,,Heroes! Heroes! Heroes!
-Dialogue: 100,0:00:34.18,0:00:35.77,Dialogue,Young Toma,0,0,0,,Wh-What?
-Dialogue: 100,0:00:35.77,0:00:38.35,Dialogue,Previous Setsu,0,0,0,,What are you idiots raving about?!
-Dialogue: 100,0:00:38.85,0:00:40.73,Dialogue,Previous Setsu,0,0,0,,I never agreed to that!
-Dialogue: 100,0:00:41.06,0:00:41.81,Dialogue,Young Toma,0,0,0,,Huh?
-Dialogue: 100,0:00:43.19,0:00:48.61,Dialogue,Previous Setsu,0,0,0,,Heroes or not, we just got dropped \Nhere with no idea what's going on!
-Dialogue: 100,0:00:48.61,0:00:51.95,Dialogue,Previous Setsu,0,0,0,,Don't try to dump your own problems on us!
-Dialogue: 100,0:00:55.95,0:00:58.50,Dialogue,King,0,0,0,,Hero, what is your name?
-Dialogue: 100,0:00:59.29,0:01:02.25,Dialogue,Previous Setsu,0,0,0,,Setsu. My name is Setsu.
-Dialogue: 100,0:01:03.25,0:01:04.46,Dialogue,Young Toma,0,0,0,,Setsu-san...
-Dialogue: 100,0:02:50.53,0:02:53.95,Dialogue,Young Toma,0,0,0,,Setsu-san, how can you stay so calm?
-Dialogue: 100,0:02:54.40,0:02:57.82,Dialogue,Young Toma,0,0,0,,After being dropped into this \Nmessed-up world out of the blue...
-Dialogue: 100,0:02:58.45,0:03:02.79,Dialogue,Previous Setsu,0,0,0,,This world has monsters and \Ndemon lords and stuff, right?
-Dialogue: 100,0:03:02.79,0:03:06.79,Dialogue,Previous Setsu,0,0,0,,If that's the case, we have to be strong,
-Dialogue: 100,0:03:06.79,0:03:11.84,Dialogue,Previous Setsu,0,0,0,,regardless of what we end up doing.
-Dialogue: 100,0:03:12.59,0:03:15.13,Dialogue,Young Toma,0,0,0,,I can't think like that.
-Dialogue: 100,0:03:15.63,0:03:18.64,Dialogue,Young Toma,0,0,0,,Going to war in this foreign world...
-Dialogue: 100,0:03:18.64,0:03:21.14,Dialogue,Young Toma,0,0,0,,I don't want to do that. I'm scared.
-Dialogue: 100,0:03:21.39,0:03:25.98,Dialogue,Previous Setsu,0,0,0,,Yeah, but complaining changes nothing,\N since we're already here.
-Dialogue: 100,0:03:25.98,0:03:27.73,Dialogue,Young Toma,0,0,0,,But it's a war!
-Dialogue: 100,0:03:28.23,0:03:33.15,Dialogue,Young Toma,0,0,0,,Having to risk our lives fighting enemies\Nwe don't even know in this unknown land...
-Dialogue: 100,0:03:33.15,0:03:35.07,Dialogue,Young Toma,0,0,0,,That's just wrong.
-Dialogue: 100,0:03:35.57,0:03:41.83,Dialogue,Previous Setsu,0,0,0,,I know, but that doesn't justify \Nus doing nothing right now.
-Dialogue: 100,0:03:42.70,0:03:44.20,Dialogue,Young Toma,0,0,0,,Yeah, but...
-Dialogue: 100,0:03:49.38,0:03:53.96,Dialogue,Previous Setsu,0,0,0,,Since we're in the same boat here, \Nlet's do our best to survive.
-Dialogue: 100,0:03:54.59,0:03:57.51,Dialogue,Previous Setsu,0,0,0,,As long as we stay alive,\NI'm sure things will work out.
-Dialogue: 100,0:03:58.51,0:03:59.68,Dialogue,Young Toma,0,0,0,,Setsu-san...
-Dialogue: 100,0:04:06.48,0:04:07.77,Dialogue,Previous Setsu,0,0,0,,Hey, Toma.
-Dialogue: 100,0:04:07.77,0:04:08.39,Dialogue,Young Toma,0,0,0,,Huh?
-Dialogue: 100,0:04:09.23,0:04:12.86,Dialogue,Previous Setsu,0,0,0,,Let's stop this war. The two of us.
-Dialogue: 100,0:04:13.65,0:04:14.90,Dialogue,Young Toma,0,0,0,,Stop the war?
-Dialogue: 100,0:04:14.90,0:04:16.69,Dialogue,Previous Setsu,0,0,0,,You're right.
-Dialogue: 100,0:04:17.74,0:04:22.45,Dialogue,Previous Setsu,0,0,0,,Killing and getting killed by strangers \Nin this unknown land is wrong.
-Dialogue: 100,0:04:23.91,0:04:24.91,Dialogue,Young Toma,0,0,0,,That's impossible.
-Dialogue: 100,0:04:25.45,0:04:28.87,Dialogue,Young Toma,0,0,0,,There's nothing we can do \Nto stop an ongoing war.
-Dialogue: 100,0:04:28.87,0:04:31.96,Dialogue,Young Toma,0,0,0,,Besides, I'm not strong like you, Setsu-san.
-Dialogue: 100,0:04:38.67,0:04:41.84,Dialogue,Previous Setsu,0,0,0,,We're the chosen heroes, right?
-Dialogue: 100,0:04:41.84,0:04:44.68,Dialogue,Previous Setsu,0,0,0,,How do you know what's \Npossible before we try?
-Dialogue: 100,0:04:45.77,0:04:49.89,Dialogue,Previous Setsu,0,0,0,,We're the only allies we've got,\Nsince we come from the same place.
-Dialogue: 100,0:04:49.89,0:04:52.31,Dialogue,Previous Setsu,0,0,0,,In a way, we're brothers \Nfrom the same hometown.
-Dialogue: 100,0:04:52.31,0:04:55.11,Dialogue,Previous Setsu,0,0,0,,So I'll protect you.
-Dialogue: 100,0:04:59.82,0:05:01.11,Dialogue,Young Toma,0,0,0,,Setsu-san...
-Dialogue: 100,0:05:02.49,0:05:05.45,Dialogue,Previous Setsu,0,0,0,,You can stop calling me "-san."
-Dialogue: 100,0:05:06.37,0:05:08.45,Dialogue,Young Toma,0,0,0,,That's a promise, Setsu.
-Dialogue: 100,0:05:08.96,0:05:11.21,Dialogue,Previous Setsu,0,0,0,,Yeah, it's a promise.
-Dialogue: 100,0:05:19.97,0:05:22.55,Dialogue,Young Toma,0,0,0,,Are you really leaving, Setsu?
-Dialogue: 100,0:05:22.55,0:05:25.51,Dialogue,Previous Setsu,0,0,0,,Yeah, I've gotten pretty strong.
-Dialogue: 100,0:05:25.51,0:05:27.47,Dialogue,Previous Setsu,0,0,0,,If I want to stop the war,
-Dialogue: 100,0:05:27.47,0:05:30.23,Dialogue,Previous Setsu,0,0,0,,I need to see this world with my own eyes.
-Dialogue: 100,0:05:31.52,0:05:34.44,Dialogue,Young Toma,0,0,0,,Sorry... I'm still scared.
-Dialogue: 100,0:05:40.15,0:05:40.74,Dialogue,Young Toma,0,0,0,,But...
-Dialogue: 100,0:05:42.86,0:05:45.78,Dialogue,Young Toma,0,0,0,,But I'll get stronger.
-Dialogue: 100,0:05:46.53,0:05:49.16,Dialogue,Young Toma,0,0,0,,Strong enough to fight and stop the war.
-Dialogue: 100,0:05:49.87,0:05:52.04,Dialogue,Young Toma,0,0,0,,So, when the time comes...
-Dialogue: 100,0:05:57.21,0:06:01.51,Dialogue,Previous Setsu,0,0,0,,Yeah, let's meet again once we've \Nboth become heroes for real.
-Dialogue: 100,0:06:02.17,0:06:03.34,Dialogue,Previous Setsu,0,0,0,,That's a promise.
-Dialogue: 100,0:06:24.57,0:06:26.95,Dialogue,Toma,0,0,0,,That's a promise, Setsu.
-Dialogue: 100,0:06:37.08,0:06:38.96,Dialogue,King,0,0,0,,Toma the Hero!
-Dialogue: 100,0:06:38.96,0:06:41.63,Dialogue,King,0,0,0,,Your valor and accomplishments in battle,
-Dialogue: 100,0:06:41.63,0:06:45.43,Dialogue,King,0,0,0,,your unflinching loyalty to the \Nnation, and your endless effort
-Dialogue: 100,0:06:45.43,0:06:51.72,Dialogue,King,0,0,0,,have earned you the title of knight\Nand the honorific "Silver Hero"!
-Dialogue: 100,0:06:51.72,0:06:56.10,Dialogue,Toma,0,0,0,,I accept this overwhelming \Nhonor with gratitude.
-Dialogue: 100,0:07:00.02,0:07:01.94,Dialogue,Soldier A,0,0,0,,You finally did it, Toma-sama!
-Dialogue: 100,0:07:01.94,0:07:03.65,Dialogue,Soldier A,0,0,0,,A knight! You're finally a knight!
-Dialogue: 100,0:07:03.65,0:07:06.41,Dialogue,Soldier B,0,0,0,,Soon, you will be an officer... no, a general,
-Dialogue: 100,0:07:06.41,0:07:08.99,Dialogue,Soldier B,0,0,0,,and be able to lead this whole nation!
-Dialogue: 100,0:07:09.45,0:07:12.29,Dialogue,Toma,0,0,0,,It's way too early for that, guys.
-Dialogue: 100,0:07:13.20,0:07:17.96,Dialogue,Toma,0,0,0,,Setsu, I've gotten one step \Ncloser to our promise.
-Dialogue: 100,0:07:19.04,0:07:21.38,Dialogue,Toma,0,0,0,,I'll get stronger, \Nboth personally and politically.
-Dialogue: 100,0:07:21.38,0:07:25.42,Dialogue,Toma,0,0,0,,Then I can end this war.
-Dialogue: 100,0:07:27.30,0:07:29.72,Dialogue,Officer,0,0,0,,Of course, Toma-sama.
-Dialogue: 100,0:07:32.18,0:07:34.23,Dialogue,Toma,0,0,0,,I'll forge on to fulfill my dream.
-Dialogue: 100,0:07:34.89,0:07:37.27,Dialogue,Toma,0,0,0,,Are you all willing to die for me?
-Dialogue: 100,0:07:37.27,0:07:38.44,Dialogue,Soldier A,0,0,0,,Of course!
-Dialogue: 100,0:07:38.44,0:07:40.86,Dialogue,Soldier B,0,0,0,,Our lives for Toma-sama!
-Dialogue: 100,0:07:41.73,0:07:43.23,Dialogue,Toma,0,0,0,,Let's go, everyone!
-Dialogue: 100,0:07:43.23,0:07:45.07,Dialogue,Toma,0,0,0,,To my ideal world!
-Dialogue: 100,0:07:45.07,0:07:47.74,Dialogue,Soldiers,0,0,0,,Yes, sir!
-Dialogue: 100,0:07:56.79,0:07:57.96,Dialogue,Soldiers,0,0,0,,Heave, ho!
-Dialogue: 100,0:07:58.67,0:08:00.21,Dialogue,Soldiers,0,0,0,,Heave, ho!
-Dialogue: 100,0:08:02.50,0:08:04.26,Dialogue,Soldiers,0,0,0,,Heave, ho!
-Dialogue: 100,0:08:05.72,0:08:07.34,Dialogue,Soldiers,0,0,0,,Charge!
-Dialogue: 100,0:08:09.34,0:08:11.30,Dialogue,Toma,0,0,0,,Don't let anyone escape!
-Dialogue: 100,0:08:11.30,0:08:14.43,Dialogue,Toma,0,0,0,,If you let one escape, \Nwe'll be the next ones to die!
-Dialogue: 100,0:08:20.69,0:08:21.56,Dialogue,Demon Soldier A,0,0,0,,No!
-Dialogue: 100,0:08:21.56,0:08:23.32,Dialogue,Demon Soldier B,0,0,0,,It's the Silver Devil!
-Dialogue: 100,0:08:35.45,0:08:36.70,Dialogue,Toma,0,0,0,,What's this place?
-Dialogue: 100,0:08:46.46,0:08:48.80,Dialogue,Demon Priest A,0,0,0,,W-We surrender!
-Dialogue: 100,0:08:48.80,0:08:50.26,Dialogue,Demon Priest B,0,0,0,,Please, spare our lives—
-Dialogue: 100,0:08:50.26,0:08:52.97,Dialogue,Toma,0,0,0,,No. This war needs to end.
-Dialogue: 100,0:08:58.14,0:09:01.19,Dialogue,Officer,0,0,0,,Toma-sama, the temple has been cleared out.
-Dialogue: 100,0:09:03.23,0:09:04.69,Dialogue,Toma,0,0,0,,Good work.
-Dialogue: 100,0:09:05.27,0:09:08.94,Dialogue,Toma,0,0,0,,Reorganize the survivors. \NWe'll head out immediately.
-Dialogue: 100,0:09:08.94,0:09:09.74,Dialogue,Officer,0,0,0,,Yes, sir.
-Dialogue: 100,0:09:22.67,0:09:30.09,Dialogue,Creator,0,0,0,,The weak, the pitiful,\Nthe ones who should not exist.
-Dialogue: 100,0:09:31.30,0:09:32.13,Dialogue,Toma,0,0,0,,Who's there?
-Dialogue: 100,0:09:36.10,0:09:39.14,Dialogue,Creator,0,0,0,,I can see inside your heart.
-Dialogue: 100,0:09:40.06,0:09:45.56,Dialogue,Creator,0,0,0,,Your envy, your despair, your hatred.
-Dialogue: 100,0:09:45.56,0:09:48.07,Dialogue,Toma,0,0,0,,Yeah, whatever.
-Dialogue: 100,0:09:48.07,0:09:51.90,Dialogue,Creator,0,0,0,,I see your deepest secret, your true desire.
-Dialogue: 100,0:09:52.99,0:09:54.74,Dialogue,Toma,0,0,0,,My true desire?
-Dialogue: 100,0:09:58.87,0:10:00.83,Dialogue,Toma,0,0,0,,Who are you to tell me what my desires are?
-Dialogue: 100,0:10:00.83,0:10:03.42,Dialogue,Creator,0,0,0,,I will grant them to you.
-Dialogue: 100,0:10:03.42,0:10:06.50,Dialogue,Creator,0,0,0,,I will give you the power and the destiny.
-Dialogue: 100,0:10:13.43,0:10:16.10,Dialogue,Toma,0,0,0,,My desire is...
-Dialogue: 100,0:10:26.11,0:10:31.90,Dialogue,Creator,0,0,0,,Now, grasp me in your hand... \NTo fulfill your desire.
-Dialogue: 100,0:10:32.36,0:10:33.28,Dialogue,Creator,0,0,0,,Come...
-Dialogue: 100,0:11:02.73,0:11:05.02,Isenido - Flashback,Officer,0,0,0,,Of course, Toma-sama.
-Dialogue: 100,0:11:06.10,0:11:08.40,Isenido - Flashback,Toma,0,0,0,,I'll forge on to fulfill my dream.
-Dialogue: 100,0:11:08.40,0:11:10.86,Isenido - Flashback,Toma,0,0,0,,Are you all willing to die for me?
-Dialogue: 100,0:11:10.86,0:11:11.98,Isenido - Flashback,Soldier A,0,0,0,,Of course!
-Dialogue: 100,0:11:11.98,0:11:14.28,Isenido - Flashback,Soldier B,0,0,0,,Our lives for Toma-sama!
-Dialogue: 100,0:11:18.57,0:11:20.20,Dialogue,Toma,0,0,0,,More enemies...
-Dialogue: 100,0:11:20.74,0:11:22.49,Dialogue,Toma,0,0,0,,I have to keep fighting...
-Dialogue: 100,0:11:22.95,0:11:24.50,Dialogue,Toma,0,0,0,,My promise...
-Dialogue: 100,0:11:24.50,0:11:25.50,Dialogue,Toma,0,0,0,,My dream...
-Dialogue: 100,0:11:30.54,0:11:32.25,Dialogue,Messenger,0,0,0,,Toma-sama!
-Dialogue: 100,0:11:37.38,0:11:39.76,Dialogue,Messenger,0,0,0,,An urgent message from the royal capital!
-Dialogue: 100,0:11:39.76,0:11:41.43,Dialogue,Messenger,0,0,0,,A truce has been called in the name of peace.
-Dialogue: 100,0:11:41.43,0:11:44.35,Dialogue,Messenger,0,0,0,,All forces are to immediately\Ncease hostilities!
-Dialogue: 100,0:11:45.43,0:11:46.56,Dialogue,Toma,0,0,0,,Peace?
-Dialogue: 100,0:11:47.48,0:11:49.77,Dialogue,Messenger,0,0,0,,The delegation of leaders \Nwho will sign the treaty
-Dialogue: 100,0:11:49.77,0:11:51.73,Dialogue,Messenger,0,0,0,,will be passing through this area soon.
-Dialogue: 100,0:11:51.73,0:11:54.61,Dialogue,Messenger,0,0,0,,We are ordered to protect their safety.
-Dialogue: 100,0:12:01.37,0:12:03.45,Dialogue,Toma,0,0,0,,This magic power...
-Dialogue: 100,0:12:03.91,0:12:05.12,Dialogue,Dezastol,0,0,0,,Can you really?
-Dialogue: 100,0:12:05.12,0:12:06.33,Dialogue,Previous Setsu,0,0,0,,It's really good!
-Dialogue: 100,0:12:06.33,0:12:08.83,Dialogue,Dezastol,0,0,0,,You can say that, but...
-Dialogue: 100,0:12:08.83,0:12:10.38,Dialogue,Dezastol,0,0,0,,You don't trust me?
-Dialogue: 100,0:12:10.38,0:12:12.42,Dialogue,Regulus,0,0,0,,Not until we taste it.
-Dialogue: 100,0:12:12.42,0:12:13.59,Dialogue,Dezastol,0,0,0,,Who eats squid?
-Dialogue: 100,0:12:22.81,0:12:25.39,Isenido - Italics,Toma,0,0,0,,Why is Setsu there?
-Dialogue: 100,0:12:46.00,0:12:49.37,Dialogue,Glein,0,0,0,,Next is the unveiling ceremony for the \Nmonument to memorialize this peace.
-Dialogue: 100,0:12:50.54,0:12:52.92,Dialogue,Glein,0,0,0,,Representing the end of this long war
-Dialogue: 100,0:12:52.92,0:12:56.51,Dialogue,Glein,0,0,0,,and our hope for everlasting \Npeace... here it is!
-Dialogue: 100,0:13:01.43,0:13:04.64,Dialogue,Crowd,0,0,0,,Setsu the Hero! Setsu the Hero!
-Dialogue: 100,0:13:05.01,0:13:08.56,Dialogue,Crowd,0,0,0,,Setsu the Hero! Setsu the Hero!
-Dialogue: 100,0:13:09.14,0:13:10.73,Dialogue,Men,0,0,0,,Cheers!
-Dialogue: 100,0:13:10.73,0:13:12.44,Dialogue,Citizens,0,0,0,,It's a festival!
-Dialogue: 100,0:13:12.44,0:13:13.94,Dialogue,Citizens,0,0,0,,Cheers to peace!
-Dialogue: 100,0:13:13.94,0:13:16.40,Dialogue,Citizens,0,0,0,,The war is over!
-Dialogue: 100,0:13:21.99,0:13:24.32,Dialogue,Previous Setsu,0,0,0,,What's wrong? You look sulky.
-Dialogue: 100,0:13:25.24,0:13:26.24,Dialogue,Toma,0,0,0,,Setsu...
-Dialogue: 100,0:13:28.58,0:13:32.88,Dialogue,Toma,0,0,0,,You're amazing, Setsu. \NYou really ended the war.
-Dialogue: 100,0:13:33.54,0:13:36.71,Dialogue,Previous Setsu,0,0,0,,I just went places and did as I pleased.
-Dialogue: 100,0:13:37.21,0:13:39.34,Dialogue,Previous Setsu,0,0,0,,I didn't do anything special.
-Dialogue: 100,0:13:39.34,0:13:43.72,Dialogue,Toma,0,0,0,,Really? I could never do the same.
-Dialogue: 100,0:13:44.05,0:13:48.56,Dialogue,Previous Setsu,0,0,0,,Come on. You're much more important now, too.
-Dialogue: 100,0:13:48.89,0:13:50.02,Dialogue,Previous Setsu,0,0,0,,That's awesome.
-Dialogue: 100,0:13:52.48,0:13:54.10,Dialogue,Toma,0,0,0,,Our promise...
-Dialogue: 100,0:13:54.86,0:13:57.32,Dialogue,Toma,0,0,0,,My promise with you... This was the only way...
-Dialogue: 100,0:13:57.32,0:13:59.11,Dialogue,Elka,0,0,0,,Setsu-sama!
-Dialogue: 100,0:13:59.44,0:14:01.36,Dialogue,Elka,0,0,0,,Please hurry up!
-Dialogue: 100,0:14:01.36,0:14:04.82,Dialogue,Elka,0,0,0,,We can't start this party \Nwithout the main guest!
-Dialogue: 100,0:14:05.49,0:14:07.87,Dialogue,Previous Setsu,0,0,0,,Oh, sorry! Be right there!
-Dialogue: 100,0:14:08.66,0:14:10.33,Dialogue,Previous Setsu,0,0,0,,So yeah, gotta go.
-Dialogue: 100,0:14:10.33,0:14:13.04,Dialogue,Previous Setsu,0,0,0,,I'm glad you're well, Toma.
-Dialogue: 100,0:14:14.71,0:14:16.09,Dialogue,Toma,0,0,0,,S-Setsu!
-Dialogue: 100,0:14:17.96,0:14:20.26,Dialogue,Toma,0,0,0,,Um, uh...
-Dialogue: 100,0:14:20.88,0:14:22.51,Dialogue,Toma,0,0,0,,You know...
-Dialogue: 100,0:14:22.80,0:14:27.55,Dialogue,Toma,0,0,0,,I worked hard in this world, too,\Nand went places myself.
-Dialogue: 100,0:14:27.55,0:14:31.35,Dialogue,Toma,0,0,0,,And I was told at a temple that \Nmy wish could be granted.
-Dialogue: 100,0:14:31.93,0:14:33.85,Dialogue,Toma,0,0,0,,So I...
-Dialogue: 100,0:14:33.85,0:14:35.77,Dialogue,Toma,0,0,0,,My wish is...
-Dialogue: 100,0:14:37.31,0:14:38.27,Dialogue,Toma,0,0,0,,Setsu...
-Dialogue: 100,0:14:38.90,0:14:43.86,Dialogue,Toma,0,0,0,,Now that the war is over, why don't we \Ngo back to our original world together?
-Dialogue: 100,0:14:44.40,0:14:49.91,Dialogue,Toma,0,0,0,,I actually found a way to go back.
-Dialogue: 100,0:14:52.08,0:14:55.33,Dialogue,Previous Setsu,0,0,0,,Go back? Why?
-Dialogue: 100,0:14:55.58,0:14:56.17,Dialogue,Toma,0,0,0,,Huh?
-Dialogue: 100,0:14:57.38,0:15:00.42,Dialogue,Previous Setsu,0,0,0,,This stupid war is finally over.
-Dialogue: 100,0:15:00.96,0:15:04.88,Dialogue,Previous Setsu,0,0,0,,There's still so much more \Nto see in this place.
-Dialogue: 100,0:15:04.88,0:15:08.05,Dialogue,Previous Setsu,0,0,0,,This is finally the start of our \Nhappy-go-lucky life in another world.
-Dialogue: 100,0:15:14.23,0:15:15.52,Isenido - Italics,Toma,0,0,0,,Why?
-Dialogue: 100,0:15:16.02,0:15:18.48,Isenido - Italics,Toma,0,0,0,,Why would Setsu say that to me?
-Dialogue: 100,0:15:18.48,0:15:22.57,Isenido - Italics,Creator,0,0,0,,Do you feel despair because \Nyour vow was not kept?
-Dialogue: 100,0:15:22.57,0:15:27.36,Isenido - Italics,Creator,0,0,0,,Do you feel envy because he \Ndoes not see things as you do?
-Dialogue: 100,0:15:27.36,0:15:31.12,Dialogue,Previous Setsu,0,0,0,,Well, best of luck with your life back home.
-Dialogue: 100,0:15:31.74,0:15:33.20,Dialogue,Previous Setsu,0,0,0,,See ya, Toma.
-Dialogue: 100,0:15:34.04,0:15:36.04,Isenido - Italics,Toma,0,0,0,,No, Setsu!
-Dialogue: 100,0:15:36.04,0:15:39.92,Isenido - Italics,Toma,0,0,0,,No... You can't leave me again...
-Dialogue: 100,0:15:40.25,0:15:43.17,Isenido - Italics,Toma,0,0,0,,You promised me...
-Dialogue: 100,0:15:43.84,0:15:48.18,Isenido - Italics,Toma,0,0,0,,It has to be me by your side!
-Dialogue: 100,0:15:49.97,0:15:53.60,Isenido - Italics,Creator,0,0,0,,Do you feel despair toward this world?
-Dialogue: 100,0:15:55.10,0:15:57.39,Dialogue,Toma,0,0,0,,Setsu, I get it now.
-Dialogue: 100,0:15:59.10,0:16:01.57,Dialogue,Toma,0,0,0,,I'll destroy everything that gets in the way.
-Dialogue: 100,0:16:02.19,0:16:04.44,Dialogue,Toma,0,0,0,,Humans, demons, Beastmen...
-Dialogue: 100,0:16:05.07,0:16:07.15,Dialogue,Toma,0,0,0,,I'll kill them all!
-Dialogue: 100,0:16:07.53,0:16:10.91,Dialogue,Toma,0,0,0,,Then you'll go back to the way you were, right?
-Dialogue: 100,0:16:10.91,0:16:12.41,Dialogue,Previous Setsu,0,0,0,,Hey... Toma?
-Dialogue: 100,0:16:13.04,0:16:16.91,Dialogue,Toma,0,0,0,,Yes! Setsu, you have to pay \Nattention to me and only me!
-Dialogue: 100,0:16:17.41,0:16:20.96,Dialogue,Toma,0,0,0,,If someone else is going to take \Nyou from me, I might as well...
-Dialogue: 100,0:16:22.67,0:16:23.50,Dialogue,Previous Setsu,0,0,0,,Glutton!
-Dialogue: 100,0:16:26.97,0:16:27.63,Dialogue,Previous Setsu,0,0,0,,Toma?!
-Dialogue: 100,0:16:31.51,0:16:33.06,Dialogue,Toma,0,0,0,,Yes, excellent!
-Dialogue: 100,0:16:33.06,0:16:34.81,Dialogue,Toma,0,0,0,,That's my Setsu!
-Dialogue: 100,0:16:36.93,0:16:38.98,Dialogue,Previous Setsu,0,0,0,,Toma! Snap out of it!
-Dialogue: 100,0:16:39.39,0:16:42.11,Dialogue,Toma,0,0,0,,You're the one who should\N snap out of it, Setsu!
-Dialogue: 100,0:16:42.65,0:16:43.73,Dialogue,Elka,0,0,0,,Setsu-sama?
-Dialogue: 100,0:16:46.86,0:16:48.57,Dialogue,Toma,0,0,0,,Who are they?
-Dialogue: 100,0:16:48.57,0:16:52.32,Dialogue,Toma,0,0,0,,Oh, they must be the ones who tricked you.
-Dialogue: 100,0:16:52.32,0:16:55.62,Dialogue,Previous Setsu,0,0,0,,I don't understand a word you're saying!
-Dialogue: 100,0:16:55.62,0:17:00.71,Dialogue,Toma,0,0,0,,People who get in my way, people who \Nseduce Setsu... are all unnecessary.
-Dialogue: 100,0:17:00.71,0:17:05.59,Dialogue,Toma,0,0,0,,This world doesn't need anyone \Nother than Setsu and me!
-Dialogue: 100,0:17:12.55,0:17:14.18,Dialogue,Previous Setsu,0,0,0,,Toma!
-Dialogue: 100,0:17:14.18,0:17:15.89,Dialogue,Toma,0,0,0,,Setsu!
-Dialogue: 100,0:17:27.90,0:17:28.65,Dialogue,Elka,0,0,0,,Setsu-sama!
-Dialogue: 100,0:17:28.65,0:17:29.61,Dialogue,Thea,0,0,0,,Setsu!
-Dialogue: 100,0:17:51.59,0:17:53.09,Dialogue,Toma,0,0,0,,Ouch...
-Dialogue: 100,0:17:56.93,0:18:03.98,Dialogue,Toma,0,0,0,,Hey, none of my wishes came true.
-Dialogue: 100,0:18:10.69,0:18:13.86,Dialogue,Toma,0,0,0,,I'm so tired now.
-Dialogue: 100,0:18:15.62,0:18:20.91,Dialogue,Toma,0,0,0,,I guess I was alone to the very end.
-Dialogue: 100,0:18:34.84,0:18:36.64,Dialogue,Toma,0,0,0,,What is this?
-Dialogue: 100,0:18:40.77,0:18:42.60,Dialogue,Researcher A,0,0,0,,Hey, get walking!
-Dialogue: 100,0:18:50.28,0:18:52.90,Dialogue,Researcher A,0,0,0,,Starting today's experiments now.
-Dialogue: 100,0:19:09.13,0:19:12.92,Dialogue,Researcher B,0,0,0,,Magic power levels are rising. \NThis is dangerous for us.
-Dialogue: 100,0:19:12.92,0:19:14.55,Dialogue,Researcher C,0,0,0,,Data collection is our first priority.
-Dialogue: 100,0:19:14.55,0:19:15.55,Dialogue,Researcher B,0,0,0,,Understood.
-Dialogue: 100,0:19:19.18,0:19:23.18,Dialogue,Researcher D,0,0,0,,As expected, magic organ transplants between \Nsisters do not trigger a rejection reaction.
-Dialogue: 100,0:19:24.23,0:19:26.69,Dialogue,Researcher D,0,0,0,,Let's transplant the other one immediately.
-Dialogue: 100,0:19:26.69,0:19:29.73,Dialogue,Melluar,0,0,0,,No! No more experiments!
-Dialogue: 100,0:19:29.73,0:19:30.86,Dialogue,Melluar,0,0,0,,Someone help me!
-Dialogue: 100,0:19:31.27,0:19:34.44,Dialogue,Melluar,0,0,0,,Let me out! Let me out of here!
-Dialogue: 100,0:19:34.90,0:19:37.95,Dialogue,Kuroinu,0,0,0,,I will escape this place, I swear!
-Dialogue: 100,0:19:37.95,0:19:41.08,Dialogue,Kuroinu,0,0,0,,I will, I will, I will...
-Dialogue: 100,0:19:41.45,0:19:45.46,Dialogue,Virdos,0,0,0,,There is no place for us \Nto live in this world.
-Dialogue: 100,0:19:45.46,0:19:47.58,Dialogue,Melluar,0,0,0,,No... No!
-Dialogue: 100,0:19:47.58,0:19:51.92,Dialogue,Melluar,0,0,0,,No more! No, no, no!
-Dialogue: 100,0:19:51.92,0:19:56.59,Dialogue,Kagerou,0,0,0,,If we're not allowed to live or die \Nin this world, we might as well...
-Dialogue: 100,0:19:58.55,0:20:02.01,Dialogue,Toma,0,0,0,,Oh, so there were others like me after all.
-Dialogue: 100,0:20:03.06,0:20:07.31,Dialogue,Toma,0,0,0,,Sure, I'll save you.
-Dialogue: 100,0:20:11.86,0:20:13.69,Dialogue,Researcher A,0,0,0,,What?! What's going on?!
-Dialogue: 100,0:20:13.69,0:20:16.49,Dialogue,Researcher B,0,0,0,,We're being attacked from above!
-Dialogue: 100,0:20:16.49,0:20:17.78,Dialogue,Researcher B,0,0,0,,The building won't hold!
-Dialogue: 100,0:20:21.03,0:20:22.37,Dialogue,Virdos,0,0,0,,It's collapsing?!
-Dialogue: 100,0:20:22.37,0:20:26.04,Dialogue,Kuroinu,0,0,0,,Let us out! Open these doors, you shitbags!
-Dialogue: 100,0:20:26.33,0:20:31.29,Dialogue,Melluar,0,0,0,,No! I can't take this!
-Dialogue: 100,0:20:45.31,0:20:49.27,Dialogue,Toma,0,0,0,,There. Now you're all free.
-Dialogue: 100,0:20:51.44,0:20:52.94,Dialogue,Toma,0,0,0,,Won't you join me?
-Dialogue: 100,0:20:53.52,0:20:56.40,Dialogue,Toma,0,0,0,,I want to destroy this world full of despair.
-Dialogue: 100,0:20:56.78,0:20:58.53,Dialogue,Melluar,0,0,0,,Destroy...
-Dialogue: 100,0:20:58.99,0:21:00.86,Dialogue,Kuroinu,0,0,0,,...this world?
-Dialogue: 100,0:21:03.74,0:21:05.37,Dialogue,Toma,0,0,0,,You should come, too.
-Dialogue: 100,0:21:05.37,0:21:09.33,Dialogue,Toma,0,0,0,,We are the same, rejected by this world.
-Dialogue: 100,0:21:21.80,0:21:24.80,Dialogue,Toma,0,0,0,,I'm glad you're well, Setsu.
-Dialogue: 100,0:21:25.35,0:21:29.06,Dialogue,Toma,0,0,0,,I'll finally win you over this time.
-Dialogue: 100,0:21:39.07,0:21:40.57,Dialogue,Toma,0,0,0,,Thanks for waiting, guys.
-Dialogue: 100,0:21:41.11,0:21:43.57,Dialogue,Toma,0,0,0,,My wounds have completely healed.
-Dialogue: 100,0:21:44.28,0:21:46.08,Dialogue,Toma,0,0,0,,So, are you ready?
-Dialogue: 100,0:21:46.70,0:21:51.33,Dialogue,Toma,0,0,0,,Let's become gods together, \Nas this world reaches its end.
-Dialogue: 100,0:23:27.97,0:23:31.01,Dialogue,Toma,0,0,0,,Next time: \N"Arriving at a Battlefield for a Second Time."
+Dialogue: 99,0:00:05.99,0:00:08.45,Dialogue,Previous Setsu,0,0,0,,Wh-What is this?
+Dialogue: 99,0:00:08.45,0:00:10.20,Dialogue,Young Toma,0,0,0,,Where am I?
+Dialogue: 99,0:00:10.20,0:00:12.24,Dialogue,Minister A,0,0,0,,Yes! A success!
+Dialogue: 99,0:00:13.66,0:00:15.66,Dialogue,Minister A,0,0,0,,The summoning is a success!
+Dialogue: 99,0:00:15.66,0:00:16.58,Dialogue,Minister B,0,0,0,,Heroes!
+Dialogue: 99,0:00:16.96,0:00:21.38,Dialogue,Minister B,0,0,0,,God has sent us heroes to save Distinia!
+Dialogue: 99,0:00:21.38,0:00:22.21,Dialogue,Young Toma,0,0,0,,What?!
+Dialogue: 99,0:00:22.63,0:00:26.38,Dialogue,King,0,0,0,,You are visitors to our \Nrealm from another world.
+Dialogue: 99,0:00:27.13,0:00:30.30,Dialogue,King,0,0,0,,The god-sent saviors of our nation!
+Dialogue: 99,0:00:32.22,0:00:41.81,Isenido - Top,Crowd,0,0,0,,Heroes! Heroes! Heroes!
+Dialogue: 99,0:00:34.18,0:00:35.77,Dialogue,Young Toma,0,0,0,,Wh-What?
+Dialogue: 99,0:00:35.77,0:00:38.35,Dialogue,Previous Setsu,0,0,0,,What are you idiots raving about?!
+Dialogue: 99,0:00:38.85,0:00:40.73,Dialogue,Previous Setsu,0,0,0,,I never agreed to that!
+Dialogue: 99,0:00:41.06,0:00:41.81,Dialogue,Young Toma,0,0,0,,Huh?
+Dialogue: 99,0:00:43.19,0:00:48.61,Dialogue,Previous Setsu,0,0,0,,Heroes or not, we just got dropped \Nhere with no idea what's going on!
+Dialogue: 99,0:00:48.61,0:00:51.95,Dialogue,Previous Setsu,0,0,0,,Don't try to dump your own problems on us!
+Dialogue: 99,0:00:55.95,0:00:58.50,Dialogue,King,0,0,0,,Hero, what is your name?
+Dialogue: 99,0:00:59.29,0:01:02.25,Dialogue,Previous Setsu,0,0,0,,Setsu. My name is Setsu.
+Dialogue: 99,0:01:03.25,0:01:04.46,Dialogue,Young Toma,0,0,0,,Setsu-san...
+Dialogue: 99,0:02:50.53,0:02:53.95,Dialogue,Young Toma,0,0,0,,Setsu-san, how can you stay so calm?
+Dialogue: 99,0:02:54.40,0:02:57.82,Dialogue,Young Toma,0,0,0,,After being dropped into this \Nmessed-up world out of the blue...
+Dialogue: 99,0:02:58.45,0:03:02.79,Dialogue,Previous Setsu,0,0,0,,This world has monsters and \Ndemon lords and stuff, right?
+Dialogue: 99,0:03:02.79,0:03:06.79,Dialogue,Previous Setsu,0,0,0,,If that's the case, we have to be strong,
+Dialogue: 99,0:03:06.79,0:03:11.84,Dialogue,Previous Setsu,0,0,0,,regardless of what we end up doing.
+Dialogue: 99,0:03:12.59,0:03:15.13,Dialogue,Young Toma,0,0,0,,I can't think like that.
+Dialogue: 99,0:03:15.63,0:03:18.64,Dialogue,Young Toma,0,0,0,,Going to war in this foreign world...
+Dialogue: 99,0:03:18.64,0:03:21.14,Dialogue,Young Toma,0,0,0,,I don't want to do that. I'm scared.
+Dialogue: 99,0:03:21.39,0:03:25.98,Dialogue,Previous Setsu,0,0,0,,Yeah, but complaining changes nothing,\N since we're already here.
+Dialogue: 99,0:03:25.98,0:03:27.73,Dialogue,Young Toma,0,0,0,,But it's a war!
+Dialogue: 99,0:03:28.23,0:03:33.15,Dialogue,Young Toma,0,0,0,,Having to risk our lives fighting enemies\Nwe don't even know in this unknown land...
+Dialogue: 99,0:03:33.15,0:03:35.07,Dialogue,Young Toma,0,0,0,,That's just wrong.
+Dialogue: 99,0:03:35.57,0:03:41.83,Dialogue,Previous Setsu,0,0,0,,I know, but that doesn't justify \Nus doing nothing right now.
+Dialogue: 99,0:03:42.70,0:03:44.20,Dialogue,Young Toma,0,0,0,,Yeah, but...
+Dialogue: 99,0:03:49.38,0:03:53.96,Dialogue,Previous Setsu,0,0,0,,Since we're in the same boat here, \Nlet's do our best to survive.
+Dialogue: 99,0:03:54.59,0:03:57.51,Dialogue,Previous Setsu,0,0,0,,As long as we stay alive,\NI'm sure things will work out.
+Dialogue: 99,0:03:58.51,0:03:59.68,Dialogue,Young Toma,0,0,0,,Setsu-san...
+Dialogue: 99,0:04:06.48,0:04:07.77,Dialogue,Previous Setsu,0,0,0,,Hey, Toma.
+Dialogue: 99,0:04:07.77,0:04:08.39,Dialogue,Young Toma,0,0,0,,Huh?
+Dialogue: 99,0:04:09.23,0:04:12.86,Dialogue,Previous Setsu,0,0,0,,Let's stop this war. The two of us.
+Dialogue: 99,0:04:13.65,0:04:14.90,Dialogue,Young Toma,0,0,0,,Stop the war?
+Dialogue: 99,0:04:14.90,0:04:16.69,Dialogue,Previous Setsu,0,0,0,,You're right.
+Dialogue: 99,0:04:17.74,0:04:22.45,Dialogue,Previous Setsu,0,0,0,,Killing and getting killed by strangers \Nin this unknown land is wrong.
+Dialogue: 99,0:04:23.91,0:04:24.91,Dialogue,Young Toma,0,0,0,,That's impossible.
+Dialogue: 99,0:04:25.45,0:04:28.87,Dialogue,Young Toma,0,0,0,,There's nothing we can do \Nto stop an ongoing war.
+Dialogue: 99,0:04:28.87,0:04:31.96,Dialogue,Young Toma,0,0,0,,Besides, I'm not strong like you, Setsu-san.
+Dialogue: 99,0:04:38.67,0:04:41.84,Dialogue,Previous Setsu,0,0,0,,We're the chosen heroes, right?
+Dialogue: 99,0:04:41.84,0:04:44.68,Dialogue,Previous Setsu,0,0,0,,How do you know what's \Npossible before we try?
+Dialogue: 99,0:04:45.77,0:04:49.89,Dialogue,Previous Setsu,0,0,0,,We're the only allies we've got,\Nsince we come from the same place.
+Dialogue: 99,0:04:49.89,0:04:52.31,Dialogue,Previous Setsu,0,0,0,,In a way, we're brothers \Nfrom the same hometown.
+Dialogue: 99,0:04:52.31,0:04:55.11,Dialogue,Previous Setsu,0,0,0,,So I'll protect you.
+Dialogue: 99,0:04:59.82,0:05:01.11,Dialogue,Young Toma,0,0,0,,Setsu-san...
+Dialogue: 99,0:05:02.49,0:05:05.45,Dialogue,Previous Setsu,0,0,0,,You can stop calling me "-san."
+Dialogue: 99,0:05:06.37,0:05:08.45,Dialogue,Young Toma,0,0,0,,That's a promise, Setsu.
+Dialogue: 99,0:05:08.96,0:05:11.21,Dialogue,Previous Setsu,0,0,0,,Yeah, it's a promise.
+Dialogue: 99,0:05:19.97,0:05:22.55,Dialogue,Young Toma,0,0,0,,Are you really leaving, Setsu?
+Dialogue: 99,0:05:22.55,0:05:25.51,Dialogue,Previous Setsu,0,0,0,,Yeah, I've gotten pretty strong.
+Dialogue: 99,0:05:25.51,0:05:27.47,Dialogue,Previous Setsu,0,0,0,,If I want to stop the war,
+Dialogue: 99,0:05:27.47,0:05:30.23,Dialogue,Previous Setsu,0,0,0,,I need to see this world with my own eyes.
+Dialogue: 99,0:05:31.52,0:05:34.44,Dialogue,Young Toma,0,0,0,,Sorry... I'm still scared.
+Dialogue: 99,0:05:40.15,0:05:40.74,Dialogue,Young Toma,0,0,0,,But...
+Dialogue: 99,0:05:42.86,0:05:45.78,Dialogue,Young Toma,0,0,0,,But I'll get stronger.
+Dialogue: 99,0:05:46.53,0:05:49.16,Dialogue,Young Toma,0,0,0,,Strong enough to fight and stop the war.
+Dialogue: 99,0:05:49.87,0:05:52.04,Dialogue,Young Toma,0,0,0,,So, when the time comes...
+Dialogue: 99,0:05:57.21,0:06:01.51,Dialogue,Previous Setsu,0,0,0,,Yeah, let's meet again once we've \Nboth become heroes for real.
+Dialogue: 99,0:06:02.17,0:06:03.34,Dialogue,Previous Setsu,0,0,0,,That's a promise.
+Dialogue: 99,0:06:24.57,0:06:26.95,Dialogue,Toma,0,0,0,,That's a promise, Setsu.
+Dialogue: 99,0:06:37.08,0:06:38.96,Dialogue,King,0,0,0,,Toma the Hero!
+Dialogue: 99,0:06:38.96,0:06:41.63,Dialogue,King,0,0,0,,Your valor and accomplishments in battle,
+Dialogue: 99,0:06:41.63,0:06:45.43,Dialogue,King,0,0,0,,your unflinching loyalty to the \Nnation, and your endless effort
+Dialogue: 99,0:06:45.43,0:06:51.72,Dialogue,King,0,0,0,,have earned you the title of knight\Nand the honorific "Silver Hero"!
+Dialogue: 99,0:06:51.72,0:06:56.10,Dialogue,Toma,0,0,0,,I accept this overwhelming \Nhonor with gratitude.
+Dialogue: 99,0:07:00.02,0:07:01.94,Dialogue,Soldier A,0,0,0,,You finally did it, Toma-sama!
+Dialogue: 99,0:07:01.94,0:07:03.65,Dialogue,Soldier A,0,0,0,,A knight! You're finally a knight!
+Dialogue: 99,0:07:03.65,0:07:06.41,Dialogue,Soldier B,0,0,0,,Soon, you will be an officer... no, a general,
+Dialogue: 99,0:07:06.41,0:07:08.99,Dialogue,Soldier B,0,0,0,,and be able to lead this whole nation!
+Dialogue: 99,0:07:09.45,0:07:12.29,Dialogue,Toma,0,0,0,,It's way too early for that, guys.
+Dialogue: 99,0:07:13.20,0:07:17.96,Dialogue,Toma,0,0,0,,Setsu, I've gotten one step \Ncloser to our promise.
+Dialogue: 99,0:07:19.04,0:07:21.38,Dialogue,Toma,0,0,0,,I'll get stronger, \Nboth personally and politically.
+Dialogue: 99,0:07:21.38,0:07:25.42,Dialogue,Toma,0,0,0,,Then I can end this war.
+Dialogue: 99,0:07:27.30,0:07:29.72,Dialogue,Officer,0,0,0,,Of course, Toma-sama.
+Dialogue: 99,0:07:32.18,0:07:34.23,Dialogue,Toma,0,0,0,,I'll forge on to fulfill my dream.
+Dialogue: 99,0:07:34.89,0:07:37.27,Dialogue,Toma,0,0,0,,Are you all willing to die for me?
+Dialogue: 99,0:07:37.27,0:07:38.44,Dialogue,Soldier A,0,0,0,,Of course!
+Dialogue: 99,0:07:38.44,0:07:40.86,Dialogue,Soldier B,0,0,0,,Our lives for Toma-sama!
+Dialogue: 99,0:07:41.73,0:07:43.23,Dialogue,Toma,0,0,0,,Let's go, everyone!
+Dialogue: 99,0:07:43.23,0:07:45.07,Dialogue,Toma,0,0,0,,To my ideal world!
+Dialogue: 99,0:07:45.07,0:07:47.74,Dialogue,Soldiers,0,0,0,,Yes, sir!
+Dialogue: 99,0:07:56.79,0:07:57.96,Dialogue,Soldiers,0,0,0,,Heave, ho!
+Dialogue: 99,0:07:58.67,0:08:00.21,Dialogue,Soldiers,0,0,0,,Heave, ho!
+Dialogue: 99,0:08:02.50,0:08:04.26,Dialogue,Soldiers,0,0,0,,Heave, ho!
+Dialogue: 99,0:08:05.72,0:08:07.34,Dialogue,Soldiers,0,0,0,,Charge!
+Dialogue: 99,0:08:09.34,0:08:11.30,Dialogue,Toma,0,0,0,,Don't let anyone escape!
+Dialogue: 99,0:08:11.30,0:08:14.43,Dialogue,Toma,0,0,0,,If you let one escape, \Nwe'll be the next ones to die!
+Dialogue: 99,0:08:20.69,0:08:21.56,Dialogue,Demon Soldier A,0,0,0,,No!
+Dialogue: 99,0:08:21.56,0:08:23.32,Dialogue,Demon Soldier B,0,0,0,,It's the Silver Devil!
+Dialogue: 99,0:08:35.45,0:08:36.70,Dialogue,Toma,0,0,0,,What's this place?
+Dialogue: 99,0:08:46.46,0:08:48.80,Dialogue,Demon Priest A,0,0,0,,W-We surrender!
+Dialogue: 99,0:08:48.80,0:08:50.26,Dialogue,Demon Priest B,0,0,0,,Please, spare our lives—
+Dialogue: 99,0:08:50.26,0:08:52.97,Dialogue,Toma,0,0,0,,No. This war needs to end.
+Dialogue: 99,0:08:58.14,0:09:01.19,Dialogue,Officer,0,0,0,,Toma-sama, the temple has been cleared out.
+Dialogue: 99,0:09:03.23,0:09:04.69,Dialogue,Toma,0,0,0,,Good work.
+Dialogue: 99,0:09:05.27,0:09:08.94,Dialogue,Toma,0,0,0,,Reorganize the survivors. \NWe'll head out immediately.
+Dialogue: 99,0:09:08.94,0:09:09.74,Dialogue,Officer,0,0,0,,Yes, sir.
+Dialogue: 99,0:09:22.67,0:09:30.09,Dialogue,Creator,0,0,0,,The weak, the pitiful,\Nthe ones who should not exist.
+Dialogue: 99,0:09:31.30,0:09:32.13,Dialogue,Toma,0,0,0,,Who's there?
+Dialogue: 99,0:09:36.10,0:09:39.14,Dialogue,Creator,0,0,0,,I can see inside your heart.
+Dialogue: 99,0:09:40.06,0:09:45.56,Dialogue,Creator,0,0,0,,Your envy, your despair, your hatred.
+Dialogue: 99,0:09:45.56,0:09:48.07,Dialogue,Toma,0,0,0,,Yeah, whatever.
+Dialogue: 99,0:09:48.07,0:09:51.90,Dialogue,Creator,0,0,0,,I see your deepest secret, your true desire.
+Dialogue: 99,0:09:52.99,0:09:54.74,Dialogue,Toma,0,0,0,,My true desire?
+Dialogue: 99,0:09:58.87,0:10:00.83,Dialogue,Toma,0,0,0,,Who are you to tell me what my desires are?
+Dialogue: 99,0:10:00.83,0:10:03.42,Dialogue,Creator,0,0,0,,I will grant them to you.
+Dialogue: 99,0:10:03.42,0:10:06.50,Dialogue,Creator,0,0,0,,I will give you the power and the destiny.
+Dialogue: 99,0:10:13.43,0:10:16.10,Dialogue,Toma,0,0,0,,My desire is...
+Dialogue: 99,0:10:26.11,0:10:31.90,Dialogue,Creator,0,0,0,,Now, grasp me in your hand... \NTo fulfill your desire.
+Dialogue: 99,0:10:32.36,0:10:33.28,Dialogue,Creator,0,0,0,,Come...
+Dialogue: 99,0:11:02.73,0:11:05.02,Isenido - Flashback,Officer,0,0,0,,Of course, Toma-sama.
+Dialogue: 99,0:11:06.10,0:11:08.40,Isenido - Flashback,Toma,0,0,0,,I'll forge on to fulfill my dream.
+Dialogue: 99,0:11:08.40,0:11:10.86,Isenido - Flashback,Toma,0,0,0,,Are you all willing to die for me?
+Dialogue: 99,0:11:10.86,0:11:11.98,Isenido - Flashback,Soldier A,0,0,0,,Of course!
+Dialogue: 99,0:11:11.98,0:11:14.28,Isenido - Flashback,Soldier B,0,0,0,,Our lives for Toma-sama!
+Dialogue: 99,0:11:18.57,0:11:20.20,Dialogue,Toma,0,0,0,,More enemies...
+Dialogue: 99,0:11:20.74,0:11:22.49,Dialogue,Toma,0,0,0,,I have to keep fighting...
+Dialogue: 99,0:11:22.95,0:11:24.50,Dialogue,Toma,0,0,0,,My promise...
+Dialogue: 99,0:11:24.50,0:11:25.50,Dialogue,Toma,0,0,0,,My dream...
+Dialogue: 99,0:11:30.54,0:11:32.25,Dialogue,Messenger,0,0,0,,Toma-sama!
+Dialogue: 99,0:11:37.38,0:11:39.76,Dialogue,Messenger,0,0,0,,An urgent message from the royal capital!
+Dialogue: 99,0:11:39.76,0:11:41.43,Dialogue,Messenger,0,0,0,,A truce has been called in the name of peace.
+Dialogue: 99,0:11:41.43,0:11:44.35,Dialogue,Messenger,0,0,0,,All forces are to immediately\Ncease hostilities!
+Dialogue: 99,0:11:45.43,0:11:46.56,Dialogue,Toma,0,0,0,,Peace?
+Dialogue: 99,0:11:47.48,0:11:49.77,Dialogue,Messenger,0,0,0,,The delegation of leaders \Nwho will sign the treaty
+Dialogue: 99,0:11:49.77,0:11:51.73,Dialogue,Messenger,0,0,0,,will be passing through this area soon.
+Dialogue: 99,0:11:51.73,0:11:54.61,Dialogue,Messenger,0,0,0,,We are ordered to protect their safety.
+Dialogue: 99,0:12:01.37,0:12:03.45,Dialogue,Toma,0,0,0,,This magic power...
+Dialogue: 99,0:12:03.91,0:12:05.12,Dialogue,Dezastol,0,0,0,,Can you really?
+Dialogue: 99,0:12:05.12,0:12:06.33,Dialogue,Previous Setsu,0,0,0,,It's really good!
+Dialogue: 99,0:12:06.33,0:12:08.83,Dialogue,Dezastol,0,0,0,,You can say that, but...
+Dialogue: 99,0:12:08.83,0:12:10.38,Dialogue,Dezastol,0,0,0,,You don't trust me?
+Dialogue: 99,0:12:10.38,0:12:12.42,Dialogue,Regulus,0,0,0,,Not until we taste it.
+Dialogue: 99,0:12:12.42,0:12:13.59,Dialogue,Dezastol,0,0,0,,Who eats squid?
+Dialogue: 99,0:12:22.81,0:12:25.39,Isenido - Italics,Toma,0,0,0,,Why is Setsu there?
+Dialogue: 99,0:12:46.00,0:12:49.37,Dialogue,Glein,0,0,0,,Next is the unveiling ceremony for the \Nmonument to memorialize this peace.
+Dialogue: 99,0:12:50.54,0:12:52.92,Dialogue,Glein,0,0,0,,Representing the end of this long war
+Dialogue: 99,0:12:52.92,0:12:56.51,Dialogue,Glein,0,0,0,,and our hope for everlasting \Npeace... here it is!
+Dialogue: 99,0:13:01.43,0:13:04.64,Dialogue,Crowd,0,0,0,,Setsu the Hero! Setsu the Hero!
+Dialogue: 99,0:13:05.01,0:13:08.56,Dialogue,Crowd,0,0,0,,Setsu the Hero! Setsu the Hero!
+Dialogue: 99,0:13:09.14,0:13:10.73,Dialogue,Men,0,0,0,,Cheers!
+Dialogue: 99,0:13:10.73,0:13:12.44,Dialogue,Citizens,0,0,0,,It's a festival!
+Dialogue: 99,0:13:12.44,0:13:13.94,Dialogue,Citizens,0,0,0,,Cheers to peace!
+Dialogue: 99,0:13:13.94,0:13:16.40,Dialogue,Citizens,0,0,0,,The war is over!
+Dialogue: 99,0:13:21.99,0:13:24.32,Dialogue,Previous Setsu,0,0,0,,What's wrong? You look sulky.
+Dialogue: 99,0:13:25.24,0:13:26.24,Dialogue,Toma,0,0,0,,Setsu...
+Dialogue: 99,0:13:28.58,0:13:32.88,Dialogue,Toma,0,0,0,,You're amazing, Setsu. \NYou really ended the war.
+Dialogue: 99,0:13:33.54,0:13:36.71,Dialogue,Previous Setsu,0,0,0,,I just went places and did as I pleased.
+Dialogue: 99,0:13:37.21,0:13:39.34,Dialogue,Previous Setsu,0,0,0,,I didn't do anything special.
+Dialogue: 99,0:13:39.34,0:13:43.72,Dialogue,Toma,0,0,0,,Really? I could never do the same.
+Dialogue: 99,0:13:44.05,0:13:48.56,Dialogue,Previous Setsu,0,0,0,,Come on. You're much more important now, too.
+Dialogue: 99,0:13:48.89,0:13:50.02,Dialogue,Previous Setsu,0,0,0,,That's awesome.
+Dialogue: 99,0:13:52.48,0:13:54.10,Dialogue,Toma,0,0,0,,Our promise...
+Dialogue: 99,0:13:54.86,0:13:57.32,Dialogue,Toma,0,0,0,,My promise with you... This was the only way...
+Dialogue: 99,0:13:57.32,0:13:59.11,Dialogue,Elka,0,0,0,,Setsu-sama!
+Dialogue: 99,0:13:59.44,0:14:01.36,Dialogue,Elka,0,0,0,,Please hurry up!
+Dialogue: 99,0:14:01.36,0:14:04.82,Dialogue,Elka,0,0,0,,We can't start this party \Nwithout the main guest!
+Dialogue: 99,0:14:05.49,0:14:07.87,Dialogue,Previous Setsu,0,0,0,,Oh, sorry! Be right there!
+Dialogue: 99,0:14:08.66,0:14:10.33,Dialogue,Previous Setsu,0,0,0,,So yeah, gotta go.
+Dialogue: 99,0:14:10.33,0:14:13.04,Dialogue,Previous Setsu,0,0,0,,I'm glad you're well, Toma.
+Dialogue: 99,0:14:14.71,0:14:16.09,Dialogue,Toma,0,0,0,,S-Setsu!
+Dialogue: 99,0:14:17.96,0:14:20.26,Dialogue,Toma,0,0,0,,Um, uh...
+Dialogue: 99,0:14:20.88,0:14:22.51,Dialogue,Toma,0,0,0,,You know...
+Dialogue: 99,0:14:22.80,0:14:27.55,Dialogue,Toma,0,0,0,,I worked hard in this world, too,\Nand went places myself.
+Dialogue: 99,0:14:27.55,0:14:31.35,Dialogue,Toma,0,0,0,,And I was told at a temple that \Nmy wish could be granted.
+Dialogue: 99,0:14:31.93,0:14:33.85,Dialogue,Toma,0,0,0,,So I...
+Dialogue: 99,0:14:33.85,0:14:35.77,Dialogue,Toma,0,0,0,,My wish is...
+Dialogue: 99,0:14:37.31,0:14:38.27,Dialogue,Toma,0,0,0,,Setsu...
+Dialogue: 99,0:14:38.90,0:14:43.86,Dialogue,Toma,0,0,0,,Now that the war is over, why don't we \Ngo back to our original world together?
+Dialogue: 99,0:14:44.40,0:14:49.91,Dialogue,Toma,0,0,0,,I actually found a way to go back.
+Dialogue: 99,0:14:52.08,0:14:55.33,Dialogue,Previous Setsu,0,0,0,,Go back? Why?
+Dialogue: 99,0:14:55.58,0:14:56.17,Dialogue,Toma,0,0,0,,Huh?
+Dialogue: 99,0:14:57.38,0:15:00.42,Dialogue,Previous Setsu,0,0,0,,This stupid war is finally over.
+Dialogue: 99,0:15:00.96,0:15:04.88,Dialogue,Previous Setsu,0,0,0,,There's still so much more \Nto see in this place.
+Dialogue: 99,0:15:04.88,0:15:08.05,Dialogue,Previous Setsu,0,0,0,,This is finally the start of our \Nhappy-go-lucky life in another world.
+Dialogue: 99,0:15:14.23,0:15:15.52,Isenido - Italics,Toma,0,0,0,,Why?
+Dialogue: 99,0:15:16.02,0:15:18.48,Isenido - Italics,Toma,0,0,0,,Why would Setsu say that to me?
+Dialogue: 99,0:15:18.48,0:15:22.57,Isenido - Italics,Creator,0,0,0,,Do you feel despair because \Nyour vow was not kept?
+Dialogue: 99,0:15:22.57,0:15:27.36,Isenido - Italics,Creator,0,0,0,,Do you feel envy because he \Ndoes not see things as you do?
+Dialogue: 99,0:15:27.36,0:15:31.12,Dialogue,Previous Setsu,0,0,0,,Well, best of luck with your life back home.
+Dialogue: 99,0:15:31.74,0:15:33.20,Dialogue,Previous Setsu,0,0,0,,See ya, Toma.
+Dialogue: 99,0:15:34.04,0:15:36.04,Isenido - Italics,Toma,0,0,0,,No, Setsu!
+Dialogue: 99,0:15:36.04,0:15:39.92,Isenido - Italics,Toma,0,0,0,,No... You can't leave me again...
+Dialogue: 99,0:15:40.25,0:15:43.17,Isenido - Italics,Toma,0,0,0,,You promised me...
+Dialogue: 99,0:15:43.84,0:15:48.18,Isenido - Italics,Toma,0,0,0,,It has to be me by your side!
+Dialogue: 99,0:15:49.97,0:15:53.60,Isenido - Italics,Creator,0,0,0,,Do you feel despair toward this world?
+Dialogue: 99,0:15:55.10,0:15:57.39,Dialogue,Toma,0,0,0,,Setsu, I get it now.
+Dialogue: 99,0:15:59.10,0:16:01.57,Dialogue,Toma,0,0,0,,I'll destroy everything that gets in the way.
+Dialogue: 99,0:16:02.19,0:16:04.44,Dialogue,Toma,0,0,0,,Humans, demons, Beastmen...
+Dialogue: 99,0:16:05.07,0:16:07.15,Dialogue,Toma,0,0,0,,I'll kill them all!
+Dialogue: 99,0:16:07.53,0:16:10.91,Dialogue,Toma,0,0,0,,Then you'll go back to the way you were, right?
+Dialogue: 99,0:16:10.91,0:16:12.41,Dialogue,Previous Setsu,0,0,0,,Hey... Toma?
+Dialogue: 99,0:16:13.04,0:16:16.91,Dialogue,Toma,0,0,0,,Yes! Setsu, you have to pay \Nattention to me and only me!
+Dialogue: 99,0:16:17.41,0:16:20.96,Dialogue,Toma,0,0,0,,If someone else is going to take \Nyou from me, I might as well...
+Dialogue: 99,0:16:22.67,0:16:23.50,Dialogue,Previous Setsu,0,0,0,,Glutton!
+Dialogue: 99,0:16:26.97,0:16:27.63,Dialogue,Previous Setsu,0,0,0,,Toma?!
+Dialogue: 99,0:16:31.51,0:16:33.06,Dialogue,Toma,0,0,0,,Yes, excellent!
+Dialogue: 99,0:16:33.06,0:16:34.81,Dialogue,Toma,0,0,0,,That's my Setsu!
+Dialogue: 99,0:16:36.93,0:16:38.98,Dialogue,Previous Setsu,0,0,0,,Toma! Snap out of it!
+Dialogue: 99,0:16:39.39,0:16:42.11,Dialogue,Toma,0,0,0,,You're the one who should\N snap out of it, Setsu!
+Dialogue: 99,0:16:42.65,0:16:43.73,Dialogue,Elka,0,0,0,,Setsu-sama?
+Dialogue: 99,0:16:46.86,0:16:48.57,Dialogue,Toma,0,0,0,,Who are they?
+Dialogue: 99,0:16:48.57,0:16:52.32,Dialogue,Toma,0,0,0,,Oh, they must be the ones who tricked you.
+Dialogue: 99,0:16:52.32,0:16:55.62,Dialogue,Previous Setsu,0,0,0,,I don't understand a word you're saying!
+Dialogue: 99,0:16:55.62,0:17:00.71,Dialogue,Toma,0,0,0,,People who get in my way, people who \Nseduce Setsu... are all unnecessary.
+Dialogue: 99,0:17:00.71,0:17:05.59,Dialogue,Toma,0,0,0,,This world doesn't need anyone \Nother than Setsu and me!
+Dialogue: 99,0:17:12.55,0:17:14.18,Dialogue,Previous Setsu,0,0,0,,Toma!
+Dialogue: 99,0:17:14.18,0:17:15.89,Dialogue,Toma,0,0,0,,Setsu!
+Dialogue: 99,0:17:27.90,0:17:28.65,Dialogue,Elka,0,0,0,,Setsu-sama!
+Dialogue: 99,0:17:28.65,0:17:29.61,Dialogue,Thea,0,0,0,,Setsu!
+Dialogue: 99,0:17:51.59,0:17:53.09,Dialogue,Toma,0,0,0,,Ouch...
+Dialogue: 99,0:17:56.93,0:18:03.98,Dialogue,Toma,0,0,0,,Hey, none of my wishes came true.
+Dialogue: 99,0:18:10.69,0:18:13.86,Dialogue,Toma,0,0,0,,I'm so tired now.
+Dialogue: 99,0:18:15.62,0:18:20.91,Dialogue,Toma,0,0,0,,I guess I was alone to the very end.
+Dialogue: 99,0:18:34.84,0:18:36.64,Dialogue,Toma,0,0,0,,What is this?
+Dialogue: 99,0:18:40.77,0:18:42.60,Dialogue,Researcher A,0,0,0,,Hey, get walking!
+Dialogue: 99,0:18:50.28,0:18:52.90,Dialogue,Researcher A,0,0,0,,Starting today's experiments now.
+Dialogue: 99,0:19:09.13,0:19:12.92,Dialogue,Researcher B,0,0,0,,Magic power levels are rising. \NThis is dangerous for us.
+Dialogue: 99,0:19:12.92,0:19:14.55,Dialogue,Researcher C,0,0,0,,Data collection is our first priority.
+Dialogue: 99,0:19:14.55,0:19:15.55,Dialogue,Researcher B,0,0,0,,Understood.
+Dialogue: 99,0:19:19.18,0:19:23.18,Dialogue,Researcher D,0,0,0,,As expected, magic organ transplants between \Nsisters do not trigger a rejection reaction.
+Dialogue: 99,0:19:24.23,0:19:26.69,Dialogue,Researcher D,0,0,0,,Let's transplant the other one immediately.
+Dialogue: 99,0:19:26.69,0:19:29.73,Dialogue,Melluar,0,0,0,,No! No more experiments!
+Dialogue: 99,0:19:29.73,0:19:30.86,Dialogue,Melluar,0,0,0,,Someone help me!
+Dialogue: 99,0:19:31.27,0:19:34.44,Dialogue,Melluar,0,0,0,,Let me out! Let me out of here!
+Dialogue: 99,0:19:34.90,0:19:37.95,Dialogue,Kuroinu,0,0,0,,I will escape this place, I swear!
+Dialogue: 99,0:19:37.95,0:19:41.08,Dialogue,Kuroinu,0,0,0,,I will, I will, I will...
+Dialogue: 99,0:19:41.45,0:19:45.46,Dialogue,Virdos,0,0,0,,There is no place for us \Nto live in this world.
+Dialogue: 99,0:19:45.46,0:19:47.58,Dialogue,Melluar,0,0,0,,No... No!
+Dialogue: 99,0:19:47.58,0:19:51.92,Dialogue,Melluar,0,0,0,,No more! No, no, no!
+Dialogue: 99,0:19:51.92,0:19:56.59,Dialogue,Kagerou,0,0,0,,If we're not allowed to live or die \Nin this world, we might as well...
+Dialogue: 99,0:19:58.55,0:20:02.01,Dialogue,Toma,0,0,0,,Oh, so there were others like me after all.
+Dialogue: 99,0:20:03.06,0:20:07.31,Dialogue,Toma,0,0,0,,Sure, I'll save you.
+Dialogue: 99,0:20:11.86,0:20:13.69,Dialogue,Researcher A,0,0,0,,What?! What's going on?!
+Dialogue: 99,0:20:13.69,0:20:16.49,Dialogue,Researcher B,0,0,0,,We're being attacked from above!
+Dialogue: 99,0:20:16.49,0:20:17.78,Dialogue,Researcher B,0,0,0,,The building won't hold!
+Dialogue: 99,0:20:21.03,0:20:22.37,Dialogue,Virdos,0,0,0,,It's collapsing?!
+Dialogue: 99,0:20:22.37,0:20:26.04,Dialogue,Kuroinu,0,0,0,,Let us out! Open these doors, you shitbags!
+Dialogue: 99,0:20:26.33,0:20:31.29,Dialogue,Melluar,0,0,0,,No! I can't take this!
+Dialogue: 99,0:20:45.31,0:20:49.27,Dialogue,Toma,0,0,0,,There. Now you're all free.
+Dialogue: 99,0:20:51.44,0:20:52.94,Dialogue,Toma,0,0,0,,Won't you join me?
+Dialogue: 99,0:20:53.52,0:20:56.40,Dialogue,Toma,0,0,0,,I want to destroy this world full of despair.
+Dialogue: 99,0:20:56.78,0:20:58.53,Dialogue,Melluar,0,0,0,,Destroy...
+Dialogue: 99,0:20:58.99,0:21:00.86,Dialogue,Kuroinu,0,0,0,,...this world?
+Dialogue: 99,0:21:03.74,0:21:05.37,Dialogue,Toma,0,0,0,,You should come, too.
+Dialogue: 99,0:21:05.37,0:21:09.33,Dialogue,Toma,0,0,0,,We are the same, rejected by this world.
+Dialogue: 99,0:21:21.80,0:21:24.80,Dialogue,Toma,0,0,0,,I'm glad you're well, Setsu.
+Dialogue: 99,0:21:25.35,0:21:29.06,Dialogue,Toma,0,0,0,,I'll finally win you over this time.
+Dialogue: 99,0:21:39.07,0:21:40.57,Dialogue,Toma,0,0,0,,Thanks for waiting, guys.
+Dialogue: 99,0:21:41.11,0:21:43.57,Dialogue,Toma,0,0,0,,My wounds have completely healed.
+Dialogue: 99,0:21:44.28,0:21:46.08,Dialogue,Toma,0,0,0,,So, are you ready?
+Dialogue: 99,0:21:46.70,0:21:51.33,Dialogue,Toma,0,0,0,,Let's become gods together, \Nas this world reaches its end.
+Dialogue: 99,0:23:27.97,0:23:31.01,Dialogue,Toma,0,0,0,,Next time: \N"Arriving at a Battlefield for a Second Time."
 Dialogue: 0,0:00:00.48,0:00:05.49,DedzuyaSigns,,0,0,0,,{\fad(480,480)\an2\pos(964,929)\fnLinux Libertine\b1\shad1\c&H000000&\alpha&H40&\blur3}Cu 10 ani în urmă
 Dialogue: 1,0:00:00.48,0:00:05.49,DedzuyaSigns,,0,0,0,,{\fad(480,480)\an2\pos(960,925)\fnLinux Libertine\b1\blur0.5}Cu 10 ani în urmă
 Dialogue: 0,0:02:38.30,0:02:43.02,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\bord4\3c&HFFFFFF&\alpha&HD0&\blur15\fad(800,0)\t(0,1200,0.6,\blur2)}Episodul 9

@@ -34,251 +34,251 @@ Style: ED TL,Bencoleng,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:01:00.41,0:01:02.04,Dialogue,,0,0,0,,„Colega mai mare e creativă.”
-Dialogue: 100,0:01:02.40,0:01:05.11,Dialogue,,0,0,0,,Cooking time is over,
-Dialogue: 100,0:01:05.11,0:01:07.54,Dialogue,,0,0,0,,so please take your remaining\Ntreats home and eat them there.
-Dialogue: 100,0:01:07.54,0:01:09.10,Dialogue,,0,0,0,,Let's split ours!
-Dialogue: 100,0:01:09.51,0:01:10.54,Dialogue,,0,0,0,,They look so good!
-Dialogue: 100,0:01:10.54,0:01:11.84,Dialogue,,0,0,0,,Let's trade!
-Dialogue: 100,0:01:13.35,0:01:15.05,italics,,0,0,0,,What am I gonna do?
-Dialogue: 100,0:01:15.05,0:01:19.01,flashback,,0,0,0,,I'll make you the best\Ncookies ever! Just you wait!
-Dialogue: 100,0:01:19.27,0:01:23.07,italics,,0,0,0,,No way can I serve this\Ncharcoal junk to Ma-kun.
-Dialogue: 100,0:01:23.97,0:01:26.02,italics,,0,0,0,,Wait, isn't that the magic girl over there?
-Dialogue: 100,0:01:26.36,0:01:29.21,italics,,0,0,0,,That's right! We have joint classes today.
-Dialogue: 100,0:01:29.21,0:01:31.17,italics,,0,0,0,,All right! I'll get her to\N teach me some things,
-Dialogue: 100,0:01:31.17,0:01:33.76,italics,,0,0,0,,and remake the cookies during lunch break!
-Dialogue: 100,0:01:34.59,0:01:35.28,italics,,0,0,0,,No way...
-Dialogue: 100,0:01:35.55,0:01:37.78,italics,,0,0,0,,She's eating them by herself?
-Dialogue: 100,0:01:37.78,0:01:40.54,italics,,0,0,0,,How do you even walk up to someone like that?
-Dialogue: 100,0:01:40.54,0:01:42.54,italics,,0,0,0,,But there's nobody else I can ask for help.
-Dialogue: 100,0:01:42.94,0:01:43.61,Dialogue,,0,0,0,,Hey...
-Dialogue: 100,0:01:43.61,0:01:44.49,Dialogue,,0,0,0,,What?
-Dialogue: 100,0:01:45.40,0:01:47.81,Dialogue,,0,0,0,,How may I assist you, Miss Balloon Person?
-Dialogue: 100,0:01:47.81,0:01:50.91,italics,,0,0,0,,It's a little late to try acting all dignified.
-Dialogue: 100,0:01:51.95,0:01:53.67,Dialogue,,0,0,0,,Give it all you got, guys! Win this thing!
-Dialogue: 100,0:01:53.93,0:01:56.42,Dialogue,,0,0,0,,You don't have to watch them so closely.
-Dialogue: 100,0:01:56.77,0:02:00.08,italics,,0,0,0,,Honestly, I don't know what\Nto talk about with her.
-Dialogue: 100,0:02:00.08,0:02:01.59,Dialogue,,0,0,0,,Oh, hey, by the way...
-Dialogue: 100,0:02:01.59,0:02:03.73,Dialogue,,0,0,0,,Why are you so obsessed\Nwith the magic club, anyway?
-Dialogue: 100,0:02:03.73,0:02:05.39,Dialogue,,0,0,0,,Well...
-Dialogue: 100,0:02:06.00,0:02:10.00,Dialogue,,0,0,0,,It was a real club when I was a first-year,
-Dialogue: 100,0:02:10.00,0:02:13.08,Dialogue,,0,0,0,,but the next year, \Nevery single sempai graduated.
-Dialogue: 100,0:02:13.08,0:02:16.05,Dialogue,,0,0,0,,I went all-in on recruiting,\Nbut no one would join up.
-Dialogue: 100,0:02:16.05,0:02:18.18,Dialogue,,0,0,0,,Then it got scrapped this year.
-Dialogue: 100,0:02:18.18,0:02:21.17,Dialogue,,0,0,0,,That's why I'm working hard\Nto revive the magic club—
-Dialogue: 100,0:02:22.25,0:02:25.11,Dialogue,,0,0,0,,You look like a total flake,\Nbut that's some hard work, huh?
-Dialogue: 100,0:02:25.11,0:02:27.54,italics,,0,0,0,,You're one to talk! You look\Nlike the biggest flake of all!
-Dialogue: 100,0:02:27.81,0:02:31.82,Dialogue,,0,0,0,,I know! Can we eat these cookies here\Nwhile we wait for mine to bake up?
-Dialogue: 100,0:02:31.82,0:02:33.21,Dialogue,,0,0,0,,Not those!
-Dialogue: 100,0:02:33.21,0:02:34.80,Dialogue,,0,0,0,,How come?
-Dialogue: 100,0:02:34.80,0:02:37.73,Dialogue,,0,0,0,,I prepared those especially for my assistant!
-Dialogue: 100,0:02:37.73,0:02:39.09,Dialogue,,0,0,0,,They're not safe to eat!
-Dialogue: 100,0:02:39.09,0:02:42.30,italics,,0,0,0,,I think I'm getting why nobody\Nwants to join your club.
-Dialogue: 100,0:02:45.06,0:02:48.68,Dialogue,,0,0,0,,And here are the cookies I made in class!
-Dialogue: 100,0:02:48.68,0:02:50.44,Dialogue,,0,0,0,,Eat up!
-Dialogue: 100,0:02:50.73,0:02:52.31,Dialogue,,0,0,0,,They look really good.
-Dialogue: 100,0:02:52.31,0:02:54.44,Dialogue,,0,0,0,,And, Assistant, these are for you, from me!
-Dialogue: 100,0:02:55.02,0:02:56.57,Dialogue,,0,0,0,,Don't be so suspicious!
-Dialogue: 100,0:02:59.01,0:03:01.20,Dialogue,,0,0,0,,Hey, they're just normal. Good stuff.
-Dialogue: 100,0:03:01.45,0:03:03.32,Dialogue,,0,0,0,,What? They shouldn't be.
-Dialogue: 100,0:03:03.32,0:03:05.08,Dialogue,,0,0,0,,So you {\i1}did{\i0} put something in them!
-Dialogue: 100,0:03:05.41,0:03:08.20,Dialogue,,0,0,0,,You don't think those are the cookies that...
-Dialogue: 100,0:03:08.20,0:03:11.64,italics,,0,0,0,,These cookies contain\Nsomething like a string.
-Dialogue: 100,0:03:11.64,0:03:13.41,Dialogue,,0,0,0,,How could this happen?
-Dialogue: 100,0:03:13.41,0:03:14.30,Dialogue,,0,0,0,,Oh no!
-Dialogue: 100,0:03:14.30,0:03:16.59,Dialogue,,0,0,0,,Ma-kun, spit it out! Spit it out!
-Dialogue: 100,0:03:18.02,0:03:20.00,Dialogue,,0,0,0,,I spilled the cookies!
-Dialogue: 100,0:03:21.10,0:03:23.17,Dialogue,,0,0,0,,Th-They're not really that big!
-Dialogue: 100,0:03:23.17,0:03:25.29,Dialogue,,0,0,0,,Why are you suddenly mad?
-Dialogue: 100,0:03:25.29,0:03:27.13,italics,,0,0,0,,They're not that big, huh?
-Dialogue: 100,0:03:27.97,0:03:29.31,Dialogue,,0,0,0,,„Colega mai mare vrea să strângă fonduri.”
-Dialogue: 100,0:03:30.14,0:03:31.98,Dialogue,,0,0,0,,We got our club funds!
-Dialogue: 100,0:03:31.98,0:03:34.49,Dialogue,,0,0,0,,Sweet! Almost like we're a real club!
-Dialogue: 100,0:03:34.49,0:03:35.69,Dialogue,,0,0,0,,We {\i1}are{\i0} a real club!
-Dialogue: 100,0:03:35.69,0:03:37.70,Dialogue,,0,0,0,,Now, let's see what's inside!
-Dialogue: 100,0:03:39.14,0:03:41.20,Dialogue,,0,0,0,,It's like a thimbleful of earwax...
-Dialogue: 100,0:03:41.20,0:03:42.85,Dialogue,,0,0,0,,You could have picked a less gross comparison.
-Dialogue: 100,0:03:43.26,0:03:46.92,Dialogue,,0,0,0,,Anyway, let's use our day off for fundraising!
-Dialogue: 100,0:03:47.60,0:03:48.76,Dialogue,,0,0,0,,Money, please!
-Dialogue: 100,0:03:48.76,0:03:49.62,italics,,0,0,0,,Feeling bad vibes already!
-Dialogue: 100,0:03:49.62,0:03:51.70,Dialogue,,0,0,0,,First, let's double-check our supplies.
-Dialogue: 100,0:03:51.70,0:03:56.34,Dialogue,,0,0,0,,Cape! Hat! Magic paraphernalia!\NDonation box!
-Dialogue: 100,0:03:56.34,0:03:57.25,Dialogue,,0,0,0,,And barf bags!
-Dialogue: 100,0:03:57.25,0:03:58.35,Dialogue,,0,0,0,,Barf...?
-Dialogue: 100,0:03:58.35,0:04:00.12,Dialogue,,0,0,0,,Excuse me, you there!
-Dialogue: 100,0:04:00.12,0:04:02.47,Dialogue,,0,0,0,,I'm going to do some magic for you!
-Dialogue: 100,0:04:02.47,0:04:03.81,Dialogue,,0,0,0,,There she goes...
-Dialogue: 100,0:04:03.81,0:04:05.45,Dialogue,,0,0,0,,Sempai gets stage fright.
-Dialogue: 100,0:04:05.45,0:04:07.99,Dialogue,,0,0,0,,When she does magic in front\Nof people, she barfs her brains out.
-Dialogue: 100,0:04:09.91,0:04:10.77,Dialogue,,0,0,0,,Stay away from me!
-Dialogue: 100,0:04:10.77,0:04:14.06,Dialogue,,0,0,0,,If magic won't work, why don't\Nwe try street performance?
-Dialogue: 100,0:04:14.06,0:04:15.40,Dialogue,,0,0,0,,Well...
-Dialogue: 100,0:04:15.40,0:04:18.52,Dialogue,,0,0,0,,Is that really still guy there\Nalso a street performer?
-Dialogue: 100,0:04:18.87,0:04:22.79,Dialogue,,0,0,0,,Yes, that's a kind of performer\Nknown as a "human statue."
-Dialogue: 100,0:04:22.79,0:04:24.28,Dialogue,,0,0,0,,I'm gonna try that!
-Dialogue: 100,0:04:25.42,0:04:27.64,Dialogue,,0,0,0,,Is this how it's done?
-Dialogue: 100,0:04:29.60,0:04:31.28,italics,,0,0,0,,This is harder than I thought.
-Dialogue: 100,0:04:31.28,0:04:33.13,italics,,0,0,0,,And it's lonely having no one else around.
-Dialogue: 100,0:04:33.13,0:04:34.58,Dialogue,,0,0,0,,That girl's awesome!
-Dialogue: 100,0:04:35.55,0:04:38.02,Dialogue,,0,0,0,,She's holding totally still! Like a mannequin!
-Dialogue: 100,0:04:38.02,0:04:40.17,italics,,0,0,0,,Getting a reaction feels nice!
-Dialogue: 100,0:04:40.17,0:04:42.72,italics,,0,0,0,,Would you be so kind as to contribute, then?
-Dialogue: 100,0:04:42.72,0:04:44.49,Dialogue,,0,0,0,,I'm gonna get an eyeful.
-Dialogue: 100,0:04:44.90,0:04:47.33,Dialogue,,0,0,0,,I wonder if Sempai's made anything yet.
-Dialogue: 100,0:04:47.33,0:04:49.43,Dialogue,,0,0,0,,Get back here, you brats!
-Dialogue: 100,0:04:49.43,0:04:50.40,Dialogue,,0,0,0,,This chick's fast!
-Dialogue: 100,0:04:50.40,0:04:51.76,Dialogue,,0,0,0,,Just try that again, mister!
-Dialogue: 100,0:04:51.76,0:04:53.28,Dialogue,,0,0,0,,This is no time to be playing around!
-Dialogue: 100,0:04:53.76,0:04:56.80,Dialogue,,0,0,0,,Let's see... What should I make next?
-Dialogue: 100,0:04:56.80,0:04:57.44,Dialogue,,0,0,0,,A lion!
-Dialogue: 100,0:04:57.44,0:04:58.21,Dialogue,,0,0,0,,A crab!
-Dialogue: 100,0:04:58.21,0:05:00.53,Dialogue,,0,0,0,,Things are going well for\NSaki-chan and her brother.
-Dialogue: 100,0:05:02.61,0:05:03.44,Dialogue,,0,0,0,,V!
-Dialogue: 100,0:05:03.86,0:05:06.51,Dialogue,,0,0,0,,Hey, nice work!
-Dialogue: 100,0:05:06.90,0:05:10.62,Dialogue,,0,0,0,,Looks like you got a lot of things\Nbesides money, too.
-Dialogue: 100,0:05:11.43,0:05:12.50,Dialogue,,0,0,0,,Acorns?
-Dialogue: 100,0:05:12.50,0:05:18.37,Dialogue,,0,0,0,,Really little kids like to put their\Nown treasures into the box.
-Dialogue: 100,0:05:18.37,0:05:20.46,Dialogue,,0,0,0,,Isn't it {\i1}super{\i0} charming?
-Dialogue: 100,0:05:20.46,0:05:21.75,Dialogue,,0,0,0,,Lady!
-Dialogue: 100,0:05:22.25,0:05:25.51,Dialogue,,0,0,0,,Balloon lady... thanks for the balloon!
-Dialogue: 100,0:05:25.90,0:05:28.49,Dialogue,,0,0,0,,I found these. They're for you.
-Dialogue: 100,0:05:28.88,0:05:30.01,Dialogue,,0,0,0,,Like, thanks so much!
-Dialogue: 100,0:05:30.01,0:05:31.21,Dialogue,,0,0,0,,See you!
-Dialogue: 100,0:05:31.21,0:05:32.14,Dialogue,,0,0,0,,Thanks!
-Dialogue: 100,0:05:32.49,0:05:34.02,Dialogue,,0,0,0,,See you later!
-Dialogue: 100,0:05:34.30,0:05:36.76,italics,,0,0,0,,Saki-san's really nice.
-Dialogue: 100,0:05:36.76,0:05:39.40,italics,,0,0,0,,Street performance is a wonderful thing.
-Dialogue: 100,0:05:39.40,0:05:41.92,Dialogue,,0,0,0,,Anyway, let's blow this joint!
-Dialogue: 100,0:05:42.27,0:05:43.22,italicstop,,0,0,0,,She threw them away!
-Dialogue: 100,0:05:44.21,0:05:47.26,Dialogue,,0,0,0,,We made some real bank today!
-Dialogue: 100,0:05:47.26,0:05:51.14,Dialogue,,0,0,0,,I know! Let's do some splurging to celebrate!
-Dialogue: 100,0:05:51.14,0:05:51.87,Dialogue,,0,0,0,,Nice!
-Dialogue: 100,0:05:51.87,0:05:53.41,Dialogue,,0,0,0,,Did you forget why we're doing this?
-Dialogue: 100,0:05:53.83,0:05:56.66,Dialogue,,0,0,0,,Hey, that's right. Where's Sempai?
-Dialogue: 100,0:05:56.66,0:05:59.79,Dialogue,,0,0,0,,You made such an amazing statue!
-Dialogue: 100,0:06:00.06,0:06:01.50,Dialogue,,0,0,0,,H-How does 50,000 sound?
-Dialogue: 100,0:06:01.50,0:06:03.10,Dialogue,,0,0,0,,You'll give me all that?!
-Dialogue: 100,0:06:03.10,0:06:04.55,Dialogue,,0,0,0,,Don't take that guy's money!
-Dialogue: 100,0:06:04.92,0:06:06.26,Dialogue,,0,0,0,,"Pool Sempai."
-Dialogue: 100,0:06:09.55,0:06:11.68,Dialogue,,0,0,0,,See? The pool opened today!
-Dialogue: 100,0:06:12.01,0:06:15.47,Dialogue,,0,0,0,,So it did. But what did you\Ncall me out to it for?
-Dialogue: 100,0:06:18.08,0:06:20.28,Dialogue,,0,0,0,,Fear not! 'Tis but a swimsuit!
-Dialogue: 100,0:06:20.28,0:06:23.61,Dialogue,,0,0,0,,And today's theme is the water escape!
-Dialogue: 100,0:06:23.61,0:06:26.14,Dialogue,,0,0,0,,Have you been wearing that all day?
-Dialogue: 100,0:06:26.14,0:06:28.17,Dialogue,,0,0,0,,And third-years don't have swimming class.
-Dialogue: 100,0:06:28.17,0:06:29.41,Dialogue,,0,0,0,,Since you've forced our hand...
-Dialogue: 100,0:06:29.41,0:06:30.92,Dialogue,,0,0,0,,We'll just have to join you!
-Dialogue: 100,0:06:30.92,0:06:32.99,Dialogue,,0,0,0,,You guys just want to play in the pool!
-Dialogue: 100,0:06:32.99,0:06:35.26,Dialogue,,0,0,0,,I will now describe underwater magic!
-Dialogue: 100,0:06:35.26,0:06:38.11,Dialogue,,0,0,0,,You enter the water with hands and feet tied,
-Dialogue: 100,0:06:38.11,0:06:40.41,Dialogue,,0,0,0,,free yourself from your bonds, and then escape!
-Dialogue: 100,0:06:40.41,0:06:42.25,Dialogue,,0,0,0,,It never fails to get hearts racing!
-Dialogue: 100,0:06:42.25,0:06:45.44,Dialogue,,0,0,0,,Obviously, care is taken in how\Nthe ropes are tied and such
-Dialogue: 100,0:06:45.44,0:06:47.63,Dialogue,,0,0,0,,to ensure the safety of the performer.
-Dialogue: 100,0:06:47.63,0:06:49.53,Dialogue,,0,0,0,,It's just a performance, after all!
-Dialogue: 100,0:06:50.51,0:06:54.76,Dialogue,,0,0,0,,I guess you do get people who mess up\Nand nearly kill themselves now and then.
-Dialogue: 100,0:06:55.05,0:06:57.74,Dialogue,,0,0,0,,In fact, there was a recent\Nmagic show in America that—
-Dialogue: 100,0:06:57.74,0:06:59.02,Dialogue,,0,0,0,,Maybe we should call it off?
-Dialogue: 100,0:06:59.41,0:07:01.80,Dialogue,,0,0,0,,Okay, my warm-up is complete!
-Dialogue: 100,0:07:01.80,0:07:02.77,Dialogue,,0,0,0,,Time for the bondage!
-Dialogue: 100,0:07:02.77,0:07:03.52,Dialogue,,0,0,0,,Wait just a minute!
-Dialogue: 100,0:07:03.92,0:07:06.15,Dialogue,,0,0,0,,Don't be a wet blanket\N just because we're at the pool!
-Dialogue: 100,0:07:06.15,0:07:07.60,Dialogue,,0,0,0,,I'm not being a wet blanket!
-Dialogue: 100,0:07:07.60,0:07:09.37,Dialogue,,0,0,0,,If you mess up this time, you'll drown!
-Dialogue: 100,0:07:09.37,0:07:10.98,Dialogue,,0,0,0,,That wouldn't even be funny!
-Dialogue: 100,0:07:10.98,0:07:13.66,Dialogue,,0,0,0,,But I pulled it off every time\N in the bath at home!
-Dialogue: 100,0:07:13.66,0:07:16.16,Dialogue,,0,0,0,,If only she'd ever learn...
-Dialogue: 100,0:07:16.16,0:07:18.34,Dialogue,,0,0,0,,Don't you worry! I can do this!
-Dialogue: 100,0:07:18.34,0:07:19.17,Dialogue,,0,0,0,,I can do it!
-Dialogue: 100,0:07:19.17,0:07:20.54,Dialogue,,0,0,0,,Please, come back!
-Dialogue: 100,0:07:21.52,0:07:23.84,Dialogue,,0,0,0,,I can do it. I can...
-Dialogue: 100,0:07:23.84,0:07:26.72,Dialogue,,0,0,0,,Look, I'm just really worried\Nyou could die this time.
-Dialogue: 100,0:07:28.02,0:07:30.09,Dialogue,,0,0,0,,Someone save me!
-Dialogue: 100,0:07:30.35,0:07:32.43,Dialogue,,0,0,0,,Pretty sure you just jumped in on your own!
-Dialogue: 100,0:07:33.45,0:07:35.30,Dialogue,,0,0,0,,Are you okay, Saki-san?
-Dialogue: 100,0:07:35.30,0:07:37.59,Dialogue,,0,0,0,,I think I'm... dying.
-Dialogue: 100,0:07:37.59,0:07:38.31,Dialogue,,0,0,0,,Dying?!
-Dialogue: 100,0:07:38.62,0:07:42.59,Dialogue,,0,0,0,,I'll die without mouth-to-mouth from Ma-kun!
-Dialogue: 100,0:07:43.22,0:07:44.60,italics,,0,0,0,,It's just an act.
-Dialogue: 100,0:07:46.19,0:07:47.53,Dialogue,,0,0,0,,So excited...
-Dialogue: 100,0:07:47.90,0:07:49.81,Dialogue,,0,0,0,,We can just leave her like that for a while.
-Dialogue: 100,0:07:49.81,0:07:51.21,italics,,0,0,0,,You're used to this, huh?
-Dialogue: 100,0:07:51.78,0:07:55.23,Dialogue,,0,0,0,,Come on, Sempai. You'll get\Nsunburned if you just sit there.
-Dialogue: 100,0:07:55.23,0:07:57.53,Dialogue,,0,0,0,,I can do it. I {\i1}can{\i0}.
-Dialogue: 100,0:07:57.53,0:07:59.05,italics,,0,0,0,,She's in full-on pout mode!
-Dialogue: 100,0:08:00.77,0:08:02.75,Dialogue,,0,0,0,,I'll just bind your wrists, then.
-Dialogue: 100,0:08:02.75,0:08:04.50,Dialogue,,0,0,0,,You can go into the water like that.
-Dialogue: 100,0:08:04.50,0:08:07.36,Dialogue,,0,0,0,,Aw, but I can get out of this in seconds!
-Dialogue: 100,0:08:07.36,0:08:08.38,Dialogue,,0,0,0,,Prove it first!
-Dialogue: 100,0:08:09.27,0:08:12.11,Dialogue,,0,0,0,,Once I do this, I'm gonna do the real thing.
-Dialogue: 100,0:08:15.98,0:08:18.39,Dialogue,,0,0,0,,She's been down there for a while, huh?
-Dialogue: 100,0:08:18.39,0:08:19.97,Dialogue,,0,0,0,,You don't think... she still failed?!
-Dialogue: 100,0:08:20.85,0:08:21.99,Dialogue,,0,0,0,,Assistant-kun!
-Dialogue: 100,0:08:23.69,0:08:24.85,Dialogue,,0,0,0,,Sempai!
-Dialogue: 100,0:08:24.85,0:08:26.40,Dialogue,,0,0,0,,Are you okay?
-Dialogue: 100,0:08:26.40,0:08:29.77,Dialogue,,0,0,0,,I almost had them off!
-Dialogue: 100,0:08:31.11,0:08:32.74,Dialogue,,0,0,0,,"Overcoming Sempai."
-Dialogue: 100,0:08:33.03,0:08:34.66,Dialogue,,0,0,0,,Hey, there.
-Dialogue: 100,0:08:34.66,0:08:35.74,Dialogue,,0,0,0,,Assistant!
-Dialogue: 100,0:08:36.03,0:08:38.87,Dialogue,,0,0,0,,I just bought some at the school\Nstore! Wanna share?
-Dialogue: 100,0:08:38.87,0:08:40.62,Dialogue,,0,0,0,,If there're no surprises inside, sure.
-Dialogue: 100,0:08:40.62,0:08:43.60,Dialogue,,0,0,0,,Okay, I'll make some tea. Just hang on!
-Dialogue: 100,0:08:43.60,0:08:45.28,Dialogue,,0,0,0,,Thank you very much.
-Dialogue: 100,0:08:45.28,0:08:46.23,italics,,0,0,0,,Busy, busy!
-Dialogue: 100,0:08:46.23,0:08:47.30,italics,,0,0,0,,Busy, busy!
-Dialogue: 100,0:08:47.30,0:08:48.34,italics,,0,0,0,,Busy, busy!
-Dialogue: 100,0:08:48.34,0:08:50.15,Dialogue,,0,0,0,,Hey, I've been thinking...
-Dialogue: 100,0:08:51.31,0:08:55.34,Dialogue,,0,0,0,,There are times when you get it in front\Nof people and times you don't, right?
-Dialogue: 100,0:08:55.70,0:08:57.73,Dialogue,,0,0,0,,Get what? You mean hype?
-Dialogue: 100,0:08:57.73,0:08:58.72,Dialogue,,0,0,0,,I'm full of it!
-Dialogue: 100,0:08:58.72,0:09:00.32,Dialogue,,0,0,0,,I mean stage fright!
-Dialogue: 100,0:09:00.72,0:09:03.42,Dialogue,,0,0,0,,Should we put your stage fright to the test?
-Dialogue: 100,0:09:03.42,0:09:07.50,Dialogue,,0,0,0,,You're not necessarily afraid of doing \N{\i1}anything{\i0} in front of people, right?
-Dialogue: 100,0:09:07.50,0:09:10.51,Dialogue,,0,0,0,,That's right! I did that street performance\Nat the park, remember?
-Dialogue: 100,0:09:10.51,0:09:13.63,Dialogue,,0,0,0,,And you don't always get nervous\Nwhen you're doing magic?
-Dialogue: 100,0:09:13.63,0:09:16.29,Dialogue,,0,0,0,,It always works right when\NI practice on my own!
-Dialogue: 100,0:09:17.16,0:09:18.34,Dialogue,,0,0,0,,It's true!
-Dialogue: 100,0:09:18.34,0:09:22.10,Dialogue,,0,0,0,,So you only get nervous when you're\Nboth doing magic in front of others.
-Dialogue: 100,0:09:22.10,0:09:26.00,Dialogue,,0,0,0,,Yeah... the thought that I need\Nto make it work gets me sweating.
-Dialogue: 100,0:09:27.02,0:09:30.79,Dialogue,,0,0,0,,Then I'll take a video of you doing a trick.
-Dialogue: 100,0:09:30.79,0:09:35.26,Dialogue,,0,0,0,,I'm looking at the camera and not you,\Nso you might not get stage fright.
-Dialogue: 100,0:09:35.26,0:09:37.91,Dialogue,,0,0,0,,I see! That might just work!
-Dialogue: 100,0:09:39.15,0:09:40.51,Dialogue,,0,0,0,,Okay, I'm recording.
-Dialogue: 100,0:09:41.60,0:09:42.94,Dialogue,,0,0,0,,Turn off the camera.
-Dialogue: 100,0:09:43.75,0:09:47.09,Dialogue,,0,0,0,,I might never be able\Nto do it in front of a crowd!
-Dialogue: 100,0:09:47.09,0:09:48.50,Dialogue,,0,0,0,,What are you, some rare animal?!
-Dialogue: 100,0:09:49.01,0:09:52.52,Dialogue,,0,0,0,,Maybe performing in front of people\Nis too high a bar to start with.
-Dialogue: 100,0:09:52.52,0:09:55.43,Dialogue,,0,0,0,,Let's start with a more easygoing audience.
-Dialogue: 100,0:09:55.43,0:09:57.15,Dialogue,,0,0,0,,This feels vaguely like mockery.
-Dialogue: 100,0:10:12.00,0:10:13.88,italics,,0,0,0,,So the blindfold fails.
-Dialogue: 100,0:10:14.24,0:10:17.67,Dialogue,,0,0,0,,Am I doomed to never\Nperform in front of people?
-Dialogue: 100,0:10:17.67,0:10:20.11,Dialogue,,0,0,0,,A tragic fate for such a brilliant magician!
-Dialogue: 100,0:10:20.11,0:10:22.69,Dialogue,,0,0,0,,Either cry or brag. Don't do both.
-Dialogue: 100,0:10:23.31,0:10:24.68,Dialogue,,0,0,0,,Well, I'm going home.
-Dialogue: 100,0:10:24.68,0:10:26.18,Dialogue,,0,0,0,,You're abandoning me?!
-Dialogue: 100,0:10:27.59,0:10:30.06,Dialogue,,0,0,0,,Keep practicing in front of this.
-Dialogue: 100,0:10:30.35,0:10:32.42,Dialogue,,0,0,0,,The chin seems a little long.
-Dialogue: 100,0:10:33.01,0:10:35.96,Dialogue,,0,0,0,,Now, I'll perform the bill-cutting trick!
-Dialogue: 100,0:10:37.37,0:10:39.70,italics,,0,0,0,,I'm more nervous than I thought I'd be.
-Dialogue: 100,0:10:39.70,0:10:42.44,italics,,0,0,0,,But don't worry. It's just a plank of wood.
-Dialogue: 100,0:10:42.44,0:10:45.03,italics,,0,0,0,,Focus, focus...
-Dialogue: 100,0:10:45.03,0:10:47.60,Dialogue,,0,0,0,,Now, in goes the precious cash!
-Dialogue: 100,0:10:47.60,0:10:49.85,Dialogue,,0,0,0,,What a travesty it would\Nbe if I cut it in half!
-Dialogue: 100,0:10:49.85,0:10:51.21,italics,,0,0,0,,Go! Go!
-Dialogue: 100,0:10:52.25,0:10:54.86,Dialogue,,0,0,0,,Look! A clean cut right through the middle!
-Dialogue: 100,0:10:54.86,0:10:56.21,Dialogue,,0,0,0,,But don't you worry!
-Dialogue: 100,0:10:56.21,0:10:57.84,Dialogue,,0,0,0,,If I open the envelope,
-Dialogue: 100,0:10:57.84,0:10:59.59,Dialogue,,0,0,0,,the 1,000 yen has...
-Dialogue: 100,0:11:00.65,0:11:02.34,Dialogue,,0,0,0,,It's... It's...
-Dialogue: 100,0:11:02.70,0:11:03.97,Dialogue,,0,0,0,,It's intact!
-Dialogue: 100,0:11:03.97,0:11:05.49,Dialogue,,0,0,0,,I did it!
-Dialogue: 100,0:11:05.49,0:11:07.35,Dialogue,,0,0,0,,That's amazing, Sempai!
-Dialogue: 100,0:11:07.35,0:11:09.94,Dialogue,,0,0,0,,I did it! I did it, Assistant!
-Dialogue: 100,0:11:09.94,0:11:12.44,Dialogue,,0,0,0,,Wait... what are you doing here?
-Dialogue: 100,0:11:12.44,0:11:13.61,Dialogue,,0,0,0,,Oh, hell.
-Dialogue: 100,0:11:16.93,0:11:19.36,Dialogue,,0,0,0,,Oh no! It's just like when we first met.
-Dialogue: 100,0:11:23.19,0:11:24.99,Dialogue,,0,0,0,,It's on my clothes!
-Dialogue: 100,0:12:25.55,0:12:28.45,Dialogue,,0,0,0,,Join us next week for more {\i1}Magical Sempai{\i0}!
+Dialogue: 99,0:01:00.41,0:01:02.04,Dialogue,,0,0,0,,„Colega mai mare e creativă.”
+Dialogue: 99,0:01:02.40,0:01:05.11,Dialogue,,0,0,0,,Cooking time is over,
+Dialogue: 99,0:01:05.11,0:01:07.54,Dialogue,,0,0,0,,so please take your remaining\Ntreats home and eat them there.
+Dialogue: 99,0:01:07.54,0:01:09.10,Dialogue,,0,0,0,,Let's split ours!
+Dialogue: 99,0:01:09.51,0:01:10.54,Dialogue,,0,0,0,,They look so good!
+Dialogue: 99,0:01:10.54,0:01:11.84,Dialogue,,0,0,0,,Let's trade!
+Dialogue: 99,0:01:13.35,0:01:15.05,italics,,0,0,0,,What am I gonna do?
+Dialogue: 99,0:01:15.05,0:01:19.01,flashback,,0,0,0,,I'll make you the best\Ncookies ever! Just you wait!
+Dialogue: 99,0:01:19.27,0:01:23.07,italics,,0,0,0,,No way can I serve this\Ncharcoal junk to Ma-kun.
+Dialogue: 99,0:01:23.97,0:01:26.02,italics,,0,0,0,,Wait, isn't that the magic girl over there?
+Dialogue: 99,0:01:26.36,0:01:29.21,italics,,0,0,0,,That's right! We have joint classes today.
+Dialogue: 99,0:01:29.21,0:01:31.17,italics,,0,0,0,,All right! I'll get her to\N teach me some things,
+Dialogue: 99,0:01:31.17,0:01:33.76,italics,,0,0,0,,and remake the cookies during lunch break!
+Dialogue: 99,0:01:34.59,0:01:35.28,italics,,0,0,0,,No way...
+Dialogue: 99,0:01:35.55,0:01:37.78,italics,,0,0,0,,She's eating them by herself?
+Dialogue: 99,0:01:37.78,0:01:40.54,italics,,0,0,0,,How do you even walk up to someone like that?
+Dialogue: 99,0:01:40.54,0:01:42.54,italics,,0,0,0,,But there's nobody else I can ask for help.
+Dialogue: 99,0:01:42.94,0:01:43.61,Dialogue,,0,0,0,,Hey...
+Dialogue: 99,0:01:43.61,0:01:44.49,Dialogue,,0,0,0,,What?
+Dialogue: 99,0:01:45.40,0:01:47.81,Dialogue,,0,0,0,,How may I assist you, Miss Balloon Person?
+Dialogue: 99,0:01:47.81,0:01:50.91,italics,,0,0,0,,It's a little late to try acting all dignified.
+Dialogue: 99,0:01:51.95,0:01:53.67,Dialogue,,0,0,0,,Give it all you got, guys! Win this thing!
+Dialogue: 99,0:01:53.93,0:01:56.42,Dialogue,,0,0,0,,You don't have to watch them so closely.
+Dialogue: 99,0:01:56.77,0:02:00.08,italics,,0,0,0,,Honestly, I don't know what\Nto talk about with her.
+Dialogue: 99,0:02:00.08,0:02:01.59,Dialogue,,0,0,0,,Oh, hey, by the way...
+Dialogue: 99,0:02:01.59,0:02:03.73,Dialogue,,0,0,0,,Why are you so obsessed\Nwith the magic club, anyway?
+Dialogue: 99,0:02:03.73,0:02:05.39,Dialogue,,0,0,0,,Well...
+Dialogue: 99,0:02:06.00,0:02:10.00,Dialogue,,0,0,0,,It was a real club when I was a first-year,
+Dialogue: 99,0:02:10.00,0:02:13.08,Dialogue,,0,0,0,,but the next year, \Nevery single sempai graduated.
+Dialogue: 99,0:02:13.08,0:02:16.05,Dialogue,,0,0,0,,I went all-in on recruiting,\Nbut no one would join up.
+Dialogue: 99,0:02:16.05,0:02:18.18,Dialogue,,0,0,0,,Then it got scrapped this year.
+Dialogue: 99,0:02:18.18,0:02:21.17,Dialogue,,0,0,0,,That's why I'm working hard\Nto revive the magic club—
+Dialogue: 99,0:02:22.25,0:02:25.11,Dialogue,,0,0,0,,You look like a total flake,\Nbut that's some hard work, huh?
+Dialogue: 99,0:02:25.11,0:02:27.54,italics,,0,0,0,,You're one to talk! You look\Nlike the biggest flake of all!
+Dialogue: 99,0:02:27.81,0:02:31.82,Dialogue,,0,0,0,,I know! Can we eat these cookies here\Nwhile we wait for mine to bake up?
+Dialogue: 99,0:02:31.82,0:02:33.21,Dialogue,,0,0,0,,Not those!
+Dialogue: 99,0:02:33.21,0:02:34.80,Dialogue,,0,0,0,,How come?
+Dialogue: 99,0:02:34.80,0:02:37.73,Dialogue,,0,0,0,,I prepared those especially for my assistant!
+Dialogue: 99,0:02:37.73,0:02:39.09,Dialogue,,0,0,0,,They're not safe to eat!
+Dialogue: 99,0:02:39.09,0:02:42.30,italics,,0,0,0,,I think I'm getting why nobody\Nwants to join your club.
+Dialogue: 99,0:02:45.06,0:02:48.68,Dialogue,,0,0,0,,And here are the cookies I made in class!
+Dialogue: 99,0:02:48.68,0:02:50.44,Dialogue,,0,0,0,,Eat up!
+Dialogue: 99,0:02:50.73,0:02:52.31,Dialogue,,0,0,0,,They look really good.
+Dialogue: 99,0:02:52.31,0:02:54.44,Dialogue,,0,0,0,,And, Assistant, these are for you, from me!
+Dialogue: 99,0:02:55.02,0:02:56.57,Dialogue,,0,0,0,,Don't be so suspicious!
+Dialogue: 99,0:02:59.01,0:03:01.20,Dialogue,,0,0,0,,Hey, they're just normal. Good stuff.
+Dialogue: 99,0:03:01.45,0:03:03.32,Dialogue,,0,0,0,,What? They shouldn't be.
+Dialogue: 99,0:03:03.32,0:03:05.08,Dialogue,,0,0,0,,So you {\i1}did{\i0} put something in them!
+Dialogue: 99,0:03:05.41,0:03:08.20,Dialogue,,0,0,0,,You don't think those are the cookies that...
+Dialogue: 99,0:03:08.20,0:03:11.64,italics,,0,0,0,,These cookies contain\Nsomething like a string.
+Dialogue: 99,0:03:11.64,0:03:13.41,Dialogue,,0,0,0,,How could this happen?
+Dialogue: 99,0:03:13.41,0:03:14.30,Dialogue,,0,0,0,,Oh no!
+Dialogue: 99,0:03:14.30,0:03:16.59,Dialogue,,0,0,0,,Ma-kun, spit it out! Spit it out!
+Dialogue: 99,0:03:18.02,0:03:20.00,Dialogue,,0,0,0,,I spilled the cookies!
+Dialogue: 99,0:03:21.10,0:03:23.17,Dialogue,,0,0,0,,Th-They're not really that big!
+Dialogue: 99,0:03:23.17,0:03:25.29,Dialogue,,0,0,0,,Why are you suddenly mad?
+Dialogue: 99,0:03:25.29,0:03:27.13,italics,,0,0,0,,They're not that big, huh?
+Dialogue: 99,0:03:27.97,0:03:29.31,Dialogue,,0,0,0,,„Colega mai mare vrea să strângă fonduri.”
+Dialogue: 99,0:03:30.14,0:03:31.98,Dialogue,,0,0,0,,We got our club funds!
+Dialogue: 99,0:03:31.98,0:03:34.49,Dialogue,,0,0,0,,Sweet! Almost like we're a real club!
+Dialogue: 99,0:03:34.49,0:03:35.69,Dialogue,,0,0,0,,We {\i1}are{\i0} a real club!
+Dialogue: 99,0:03:35.69,0:03:37.70,Dialogue,,0,0,0,,Now, let's see what's inside!
+Dialogue: 99,0:03:39.14,0:03:41.20,Dialogue,,0,0,0,,It's like a thimbleful of earwax...
+Dialogue: 99,0:03:41.20,0:03:42.85,Dialogue,,0,0,0,,You could have picked a less gross comparison.
+Dialogue: 99,0:03:43.26,0:03:46.92,Dialogue,,0,0,0,,Anyway, let's use our day off for fundraising!
+Dialogue: 99,0:03:47.60,0:03:48.76,Dialogue,,0,0,0,,Money, please!
+Dialogue: 99,0:03:48.76,0:03:49.62,italics,,0,0,0,,Feeling bad vibes already!
+Dialogue: 99,0:03:49.62,0:03:51.70,Dialogue,,0,0,0,,First, let's double-check our supplies.
+Dialogue: 99,0:03:51.70,0:03:56.34,Dialogue,,0,0,0,,Cape! Hat! Magic paraphernalia!\NDonation box!
+Dialogue: 99,0:03:56.34,0:03:57.25,Dialogue,,0,0,0,,And barf bags!
+Dialogue: 99,0:03:57.25,0:03:58.35,Dialogue,,0,0,0,,Barf...?
+Dialogue: 99,0:03:58.35,0:04:00.12,Dialogue,,0,0,0,,Excuse me, you there!
+Dialogue: 99,0:04:00.12,0:04:02.47,Dialogue,,0,0,0,,I'm going to do some magic for you!
+Dialogue: 99,0:04:02.47,0:04:03.81,Dialogue,,0,0,0,,There she goes...
+Dialogue: 99,0:04:03.81,0:04:05.45,Dialogue,,0,0,0,,Sempai gets stage fright.
+Dialogue: 99,0:04:05.45,0:04:07.99,Dialogue,,0,0,0,,When she does magic in front\Nof people, she barfs her brains out.
+Dialogue: 99,0:04:09.91,0:04:10.77,Dialogue,,0,0,0,,Stay away from me!
+Dialogue: 99,0:04:10.77,0:04:14.06,Dialogue,,0,0,0,,If magic won't work, why don't\Nwe try street performance?
+Dialogue: 99,0:04:14.06,0:04:15.40,Dialogue,,0,0,0,,Well...
+Dialogue: 99,0:04:15.40,0:04:18.52,Dialogue,,0,0,0,,Is that really still guy there\Nalso a street performer?
+Dialogue: 99,0:04:18.87,0:04:22.79,Dialogue,,0,0,0,,Yes, that's a kind of performer\Nknown as a "human statue."
+Dialogue: 99,0:04:22.79,0:04:24.28,Dialogue,,0,0,0,,I'm gonna try that!
+Dialogue: 99,0:04:25.42,0:04:27.64,Dialogue,,0,0,0,,Is this how it's done?
+Dialogue: 99,0:04:29.60,0:04:31.28,italics,,0,0,0,,This is harder than I thought.
+Dialogue: 99,0:04:31.28,0:04:33.13,italics,,0,0,0,,And it's lonely having no one else around.
+Dialogue: 99,0:04:33.13,0:04:34.58,Dialogue,,0,0,0,,That girl's awesome!
+Dialogue: 99,0:04:35.55,0:04:38.02,Dialogue,,0,0,0,,She's holding totally still! Like a mannequin!
+Dialogue: 99,0:04:38.02,0:04:40.17,italics,,0,0,0,,Getting a reaction feels nice!
+Dialogue: 99,0:04:40.17,0:04:42.72,italics,,0,0,0,,Would you be so kind as to contribute, then?
+Dialogue: 99,0:04:42.72,0:04:44.49,Dialogue,,0,0,0,,I'm gonna get an eyeful.
+Dialogue: 99,0:04:44.90,0:04:47.33,Dialogue,,0,0,0,,I wonder if Sempai's made anything yet.
+Dialogue: 99,0:04:47.33,0:04:49.43,Dialogue,,0,0,0,,Get back here, you brats!
+Dialogue: 99,0:04:49.43,0:04:50.40,Dialogue,,0,0,0,,This chick's fast!
+Dialogue: 99,0:04:50.40,0:04:51.76,Dialogue,,0,0,0,,Just try that again, mister!
+Dialogue: 99,0:04:51.76,0:04:53.28,Dialogue,,0,0,0,,This is no time to be playing around!
+Dialogue: 99,0:04:53.76,0:04:56.80,Dialogue,,0,0,0,,Let's see... What should I make next?
+Dialogue: 99,0:04:56.80,0:04:57.44,Dialogue,,0,0,0,,A lion!
+Dialogue: 99,0:04:57.44,0:04:58.21,Dialogue,,0,0,0,,A crab!
+Dialogue: 99,0:04:58.21,0:05:00.53,Dialogue,,0,0,0,,Things are going well for\NSaki-chan and her brother.
+Dialogue: 99,0:05:02.61,0:05:03.44,Dialogue,,0,0,0,,V!
+Dialogue: 99,0:05:03.86,0:05:06.51,Dialogue,,0,0,0,,Hey, nice work!
+Dialogue: 99,0:05:06.90,0:05:10.62,Dialogue,,0,0,0,,Looks like you got a lot of things\Nbesides money, too.
+Dialogue: 99,0:05:11.43,0:05:12.50,Dialogue,,0,0,0,,Acorns?
+Dialogue: 99,0:05:12.50,0:05:18.37,Dialogue,,0,0,0,,Really little kids like to put their\Nown treasures into the box.
+Dialogue: 99,0:05:18.37,0:05:20.46,Dialogue,,0,0,0,,Isn't it {\i1}super{\i0} charming?
+Dialogue: 99,0:05:20.46,0:05:21.75,Dialogue,,0,0,0,,Lady!
+Dialogue: 99,0:05:22.25,0:05:25.51,Dialogue,,0,0,0,,Balloon lady... thanks for the balloon!
+Dialogue: 99,0:05:25.90,0:05:28.49,Dialogue,,0,0,0,,I found these. They're for you.
+Dialogue: 99,0:05:28.88,0:05:30.01,Dialogue,,0,0,0,,Like, thanks so much!
+Dialogue: 99,0:05:30.01,0:05:31.21,Dialogue,,0,0,0,,See you!
+Dialogue: 99,0:05:31.21,0:05:32.14,Dialogue,,0,0,0,,Thanks!
+Dialogue: 99,0:05:32.49,0:05:34.02,Dialogue,,0,0,0,,See you later!
+Dialogue: 99,0:05:34.30,0:05:36.76,italics,,0,0,0,,Saki-san's really nice.
+Dialogue: 99,0:05:36.76,0:05:39.40,italics,,0,0,0,,Street performance is a wonderful thing.
+Dialogue: 99,0:05:39.40,0:05:41.92,Dialogue,,0,0,0,,Anyway, let's blow this joint!
+Dialogue: 99,0:05:42.27,0:05:43.22,italicstop,,0,0,0,,She threw them away!
+Dialogue: 99,0:05:44.21,0:05:47.26,Dialogue,,0,0,0,,We made some real bank today!
+Dialogue: 99,0:05:47.26,0:05:51.14,Dialogue,,0,0,0,,I know! Let's do some splurging to celebrate!
+Dialogue: 99,0:05:51.14,0:05:51.87,Dialogue,,0,0,0,,Nice!
+Dialogue: 99,0:05:51.87,0:05:53.41,Dialogue,,0,0,0,,Did you forget why we're doing this?
+Dialogue: 99,0:05:53.83,0:05:56.66,Dialogue,,0,0,0,,Hey, that's right. Where's Sempai?
+Dialogue: 99,0:05:56.66,0:05:59.79,Dialogue,,0,0,0,,You made such an amazing statue!
+Dialogue: 99,0:06:00.06,0:06:01.50,Dialogue,,0,0,0,,H-How does 50,000 sound?
+Dialogue: 99,0:06:01.50,0:06:03.10,Dialogue,,0,0,0,,You'll give me all that?!
+Dialogue: 99,0:06:03.10,0:06:04.55,Dialogue,,0,0,0,,Don't take that guy's money!
+Dialogue: 99,0:06:04.92,0:06:06.26,Dialogue,,0,0,0,,"Pool Sempai."
+Dialogue: 99,0:06:09.55,0:06:11.68,Dialogue,,0,0,0,,See? The pool opened today!
+Dialogue: 99,0:06:12.01,0:06:15.47,Dialogue,,0,0,0,,So it did. But what did you\Ncall me out to it for?
+Dialogue: 99,0:06:18.08,0:06:20.28,Dialogue,,0,0,0,,Fear not! 'Tis but a swimsuit!
+Dialogue: 99,0:06:20.28,0:06:23.61,Dialogue,,0,0,0,,And today's theme is the water escape!
+Dialogue: 99,0:06:23.61,0:06:26.14,Dialogue,,0,0,0,,Have you been wearing that all day?
+Dialogue: 99,0:06:26.14,0:06:28.17,Dialogue,,0,0,0,,And third-years don't have swimming class.
+Dialogue: 99,0:06:28.17,0:06:29.41,Dialogue,,0,0,0,,Since you've forced our hand...
+Dialogue: 99,0:06:29.41,0:06:30.92,Dialogue,,0,0,0,,We'll just have to join you!
+Dialogue: 99,0:06:30.92,0:06:32.99,Dialogue,,0,0,0,,You guys just want to play in the pool!
+Dialogue: 99,0:06:32.99,0:06:35.26,Dialogue,,0,0,0,,I will now describe underwater magic!
+Dialogue: 99,0:06:35.26,0:06:38.11,Dialogue,,0,0,0,,You enter the water with hands and feet tied,
+Dialogue: 99,0:06:38.11,0:06:40.41,Dialogue,,0,0,0,,free yourself from your bonds, and then escape!
+Dialogue: 99,0:06:40.41,0:06:42.25,Dialogue,,0,0,0,,It never fails to get hearts racing!
+Dialogue: 99,0:06:42.25,0:06:45.44,Dialogue,,0,0,0,,Obviously, care is taken in how\Nthe ropes are tied and such
+Dialogue: 99,0:06:45.44,0:06:47.63,Dialogue,,0,0,0,,to ensure the safety of the performer.
+Dialogue: 99,0:06:47.63,0:06:49.53,Dialogue,,0,0,0,,It's just a performance, after all!
+Dialogue: 99,0:06:50.51,0:06:54.76,Dialogue,,0,0,0,,I guess you do get people who mess up\Nand nearly kill themselves now and then.
+Dialogue: 99,0:06:55.05,0:06:57.74,Dialogue,,0,0,0,,In fact, there was a recent\Nmagic show in America that—
+Dialogue: 99,0:06:57.74,0:06:59.02,Dialogue,,0,0,0,,Maybe we should call it off?
+Dialogue: 99,0:06:59.41,0:07:01.80,Dialogue,,0,0,0,,Okay, my warm-up is complete!
+Dialogue: 99,0:07:01.80,0:07:02.77,Dialogue,,0,0,0,,Time for the bondage!
+Dialogue: 99,0:07:02.77,0:07:03.52,Dialogue,,0,0,0,,Wait just a minute!
+Dialogue: 99,0:07:03.92,0:07:06.15,Dialogue,,0,0,0,,Don't be a wet blanket\N just because we're at the pool!
+Dialogue: 99,0:07:06.15,0:07:07.60,Dialogue,,0,0,0,,I'm not being a wet blanket!
+Dialogue: 99,0:07:07.60,0:07:09.37,Dialogue,,0,0,0,,If you mess up this time, you'll drown!
+Dialogue: 99,0:07:09.37,0:07:10.98,Dialogue,,0,0,0,,That wouldn't even be funny!
+Dialogue: 99,0:07:10.98,0:07:13.66,Dialogue,,0,0,0,,But I pulled it off every time\N in the bath at home!
+Dialogue: 99,0:07:13.66,0:07:16.16,Dialogue,,0,0,0,,If only she'd ever learn...
+Dialogue: 99,0:07:16.16,0:07:18.34,Dialogue,,0,0,0,,Don't you worry! I can do this!
+Dialogue: 99,0:07:18.34,0:07:19.17,Dialogue,,0,0,0,,I can do it!
+Dialogue: 99,0:07:19.17,0:07:20.54,Dialogue,,0,0,0,,Please, come back!
+Dialogue: 99,0:07:21.52,0:07:23.84,Dialogue,,0,0,0,,I can do it. I can...
+Dialogue: 99,0:07:23.84,0:07:26.72,Dialogue,,0,0,0,,Look, I'm just really worried\Nyou could die this time.
+Dialogue: 99,0:07:28.02,0:07:30.09,Dialogue,,0,0,0,,Someone save me!
+Dialogue: 99,0:07:30.35,0:07:32.43,Dialogue,,0,0,0,,Pretty sure you just jumped in on your own!
+Dialogue: 99,0:07:33.45,0:07:35.30,Dialogue,,0,0,0,,Are you okay, Saki-san?
+Dialogue: 99,0:07:35.30,0:07:37.59,Dialogue,,0,0,0,,I think I'm... dying.
+Dialogue: 99,0:07:37.59,0:07:38.31,Dialogue,,0,0,0,,Dying?!
+Dialogue: 99,0:07:38.62,0:07:42.59,Dialogue,,0,0,0,,I'll die without mouth-to-mouth from Ma-kun!
+Dialogue: 99,0:07:43.22,0:07:44.60,italics,,0,0,0,,It's just an act.
+Dialogue: 99,0:07:46.19,0:07:47.53,Dialogue,,0,0,0,,So excited...
+Dialogue: 99,0:07:47.90,0:07:49.81,Dialogue,,0,0,0,,We can just leave her like that for a while.
+Dialogue: 99,0:07:49.81,0:07:51.21,italics,,0,0,0,,You're used to this, huh?
+Dialogue: 99,0:07:51.78,0:07:55.23,Dialogue,,0,0,0,,Come on, Sempai. You'll get\Nsunburned if you just sit there.
+Dialogue: 99,0:07:55.23,0:07:57.53,Dialogue,,0,0,0,,I can do it. I {\i1}can{\i0}.
+Dialogue: 99,0:07:57.53,0:07:59.05,italics,,0,0,0,,She's in full-on pout mode!
+Dialogue: 99,0:08:00.77,0:08:02.75,Dialogue,,0,0,0,,I'll just bind your wrists, then.
+Dialogue: 99,0:08:02.75,0:08:04.50,Dialogue,,0,0,0,,You can go into the water like that.
+Dialogue: 99,0:08:04.50,0:08:07.36,Dialogue,,0,0,0,,Aw, but I can get out of this in seconds!
+Dialogue: 99,0:08:07.36,0:08:08.38,Dialogue,,0,0,0,,Prove it first!
+Dialogue: 99,0:08:09.27,0:08:12.11,Dialogue,,0,0,0,,Once I do this, I'm gonna do the real thing.
+Dialogue: 99,0:08:15.98,0:08:18.39,Dialogue,,0,0,0,,She's been down there for a while, huh?
+Dialogue: 99,0:08:18.39,0:08:19.97,Dialogue,,0,0,0,,You don't think... she still failed?!
+Dialogue: 99,0:08:20.85,0:08:21.99,Dialogue,,0,0,0,,Assistant-kun!
+Dialogue: 99,0:08:23.69,0:08:24.85,Dialogue,,0,0,0,,Sempai!
+Dialogue: 99,0:08:24.85,0:08:26.40,Dialogue,,0,0,0,,Are you okay?
+Dialogue: 99,0:08:26.40,0:08:29.77,Dialogue,,0,0,0,,I almost had them off!
+Dialogue: 99,0:08:31.11,0:08:32.74,Dialogue,,0,0,0,,"Overcoming Sempai."
+Dialogue: 99,0:08:33.03,0:08:34.66,Dialogue,,0,0,0,,Hey, there.
+Dialogue: 99,0:08:34.66,0:08:35.74,Dialogue,,0,0,0,,Assistant!
+Dialogue: 99,0:08:36.03,0:08:38.87,Dialogue,,0,0,0,,I just bought some at the school\Nstore! Wanna share?
+Dialogue: 99,0:08:38.87,0:08:40.62,Dialogue,,0,0,0,,If there're no surprises inside, sure.
+Dialogue: 99,0:08:40.62,0:08:43.60,Dialogue,,0,0,0,,Okay, I'll make some tea. Just hang on!
+Dialogue: 99,0:08:43.60,0:08:45.28,Dialogue,,0,0,0,,Thank you very much.
+Dialogue: 99,0:08:45.28,0:08:46.23,italics,,0,0,0,,Busy, busy!
+Dialogue: 99,0:08:46.23,0:08:47.30,italics,,0,0,0,,Busy, busy!
+Dialogue: 99,0:08:47.30,0:08:48.34,italics,,0,0,0,,Busy, busy!
+Dialogue: 99,0:08:48.34,0:08:50.15,Dialogue,,0,0,0,,Hey, I've been thinking...
+Dialogue: 99,0:08:51.31,0:08:55.34,Dialogue,,0,0,0,,There are times when you get it in front\Nof people and times you don't, right?
+Dialogue: 99,0:08:55.70,0:08:57.73,Dialogue,,0,0,0,,Get what? You mean hype?
+Dialogue: 99,0:08:57.73,0:08:58.72,Dialogue,,0,0,0,,I'm full of it!
+Dialogue: 99,0:08:58.72,0:09:00.32,Dialogue,,0,0,0,,I mean stage fright!
+Dialogue: 99,0:09:00.72,0:09:03.42,Dialogue,,0,0,0,,Should we put your stage fright to the test?
+Dialogue: 99,0:09:03.42,0:09:07.50,Dialogue,,0,0,0,,You're not necessarily afraid of doing \N{\i1}anything{\i0} in front of people, right?
+Dialogue: 99,0:09:07.50,0:09:10.51,Dialogue,,0,0,0,,That's right! I did that street performance\Nat the park, remember?
+Dialogue: 99,0:09:10.51,0:09:13.63,Dialogue,,0,0,0,,And you don't always get nervous\Nwhen you're doing magic?
+Dialogue: 99,0:09:13.63,0:09:16.29,Dialogue,,0,0,0,,It always works right when\NI practice on my own!
+Dialogue: 99,0:09:17.16,0:09:18.34,Dialogue,,0,0,0,,It's true!
+Dialogue: 99,0:09:18.34,0:09:22.10,Dialogue,,0,0,0,,So you only get nervous when you're\Nboth doing magic in front of others.
+Dialogue: 99,0:09:22.10,0:09:26.00,Dialogue,,0,0,0,,Yeah... the thought that I need\Nto make it work gets me sweating.
+Dialogue: 99,0:09:27.02,0:09:30.79,Dialogue,,0,0,0,,Then I'll take a video of you doing a trick.
+Dialogue: 99,0:09:30.79,0:09:35.26,Dialogue,,0,0,0,,I'm looking at the camera and not you,\Nso you might not get stage fright.
+Dialogue: 99,0:09:35.26,0:09:37.91,Dialogue,,0,0,0,,I see! That might just work!
+Dialogue: 99,0:09:39.15,0:09:40.51,Dialogue,,0,0,0,,Okay, I'm recording.
+Dialogue: 99,0:09:41.60,0:09:42.94,Dialogue,,0,0,0,,Turn off the camera.
+Dialogue: 99,0:09:43.75,0:09:47.09,Dialogue,,0,0,0,,I might never be able\Nto do it in front of a crowd!
+Dialogue: 99,0:09:47.09,0:09:48.50,Dialogue,,0,0,0,,What are you, some rare animal?!
+Dialogue: 99,0:09:49.01,0:09:52.52,Dialogue,,0,0,0,,Maybe performing in front of people\Nis too high a bar to start with.
+Dialogue: 99,0:09:52.52,0:09:55.43,Dialogue,,0,0,0,,Let's start with a more easygoing audience.
+Dialogue: 99,0:09:55.43,0:09:57.15,Dialogue,,0,0,0,,This feels vaguely like mockery.
+Dialogue: 99,0:10:12.00,0:10:13.88,italics,,0,0,0,,So the blindfold fails.
+Dialogue: 99,0:10:14.24,0:10:17.67,Dialogue,,0,0,0,,Am I doomed to never\Nperform in front of people?
+Dialogue: 99,0:10:17.67,0:10:20.11,Dialogue,,0,0,0,,A tragic fate for such a brilliant magician!
+Dialogue: 99,0:10:20.11,0:10:22.69,Dialogue,,0,0,0,,Either cry or brag. Don't do both.
+Dialogue: 99,0:10:23.31,0:10:24.68,Dialogue,,0,0,0,,Well, I'm going home.
+Dialogue: 99,0:10:24.68,0:10:26.18,Dialogue,,0,0,0,,You're abandoning me?!
+Dialogue: 99,0:10:27.59,0:10:30.06,Dialogue,,0,0,0,,Keep practicing in front of this.
+Dialogue: 99,0:10:30.35,0:10:32.42,Dialogue,,0,0,0,,The chin seems a little long.
+Dialogue: 99,0:10:33.01,0:10:35.96,Dialogue,,0,0,0,,Now, I'll perform the bill-cutting trick!
+Dialogue: 99,0:10:37.37,0:10:39.70,italics,,0,0,0,,I'm more nervous than I thought I'd be.
+Dialogue: 99,0:10:39.70,0:10:42.44,italics,,0,0,0,,But don't worry. It's just a plank of wood.
+Dialogue: 99,0:10:42.44,0:10:45.03,italics,,0,0,0,,Focus, focus...
+Dialogue: 99,0:10:45.03,0:10:47.60,Dialogue,,0,0,0,,Now, in goes the precious cash!
+Dialogue: 99,0:10:47.60,0:10:49.85,Dialogue,,0,0,0,,What a travesty it would\Nbe if I cut it in half!
+Dialogue: 99,0:10:49.85,0:10:51.21,italics,,0,0,0,,Go! Go!
+Dialogue: 99,0:10:52.25,0:10:54.86,Dialogue,,0,0,0,,Look! A clean cut right through the middle!
+Dialogue: 99,0:10:54.86,0:10:56.21,Dialogue,,0,0,0,,But don't you worry!
+Dialogue: 99,0:10:56.21,0:10:57.84,Dialogue,,0,0,0,,If I open the envelope,
+Dialogue: 99,0:10:57.84,0:10:59.59,Dialogue,,0,0,0,,the 1,000 yen has...
+Dialogue: 99,0:11:00.65,0:11:02.34,Dialogue,,0,0,0,,It's... It's...
+Dialogue: 99,0:11:02.70,0:11:03.97,Dialogue,,0,0,0,,It's intact!
+Dialogue: 99,0:11:03.97,0:11:05.49,Dialogue,,0,0,0,,I did it!
+Dialogue: 99,0:11:05.49,0:11:07.35,Dialogue,,0,0,0,,That's amazing, Sempai!
+Dialogue: 99,0:11:07.35,0:11:09.94,Dialogue,,0,0,0,,I did it! I did it, Assistant!
+Dialogue: 99,0:11:09.94,0:11:12.44,Dialogue,,0,0,0,,Wait... what are you doing here?
+Dialogue: 99,0:11:12.44,0:11:13.61,Dialogue,,0,0,0,,Oh, hell.
+Dialogue: 99,0:11:16.93,0:11:19.36,Dialogue,,0,0,0,,Oh no! It's just like when we first met.
+Dialogue: 99,0:11:23.19,0:11:24.99,Dialogue,,0,0,0,,It's on my clothes!
+Dialogue: 99,0:12:25.55,0:12:28.45,Dialogue,,0,0,0,,Join us next week for more {\i1}Magical Sempai{\i0}!
 Dialogue: 0,0:01:00.03,0:01:02.04,DedzuyaSigns,,0,0,0,,Colega mai mare e creativă
 Dialogue: 0,0:01:02.04,0:01:04.54,DedzuyaSigns,,0,0,0,,{\frz355.6}Home Economics Room
 Dialogue: 0,0:03:27.60,0:03:29.60,DedzuyaSigns,,0,0,0,,Fund-Raising {\c&HDDCA21&}Sempai

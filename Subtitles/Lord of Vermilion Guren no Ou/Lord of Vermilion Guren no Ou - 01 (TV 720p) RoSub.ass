@@ -37,282 +37,282 @@ Style: ED,Gandhi Serif,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:13.12,0:00:16.71,Dialogue,,0,0,0,,Nu mă subestima. \NÎncă sunt un instructor.
-Dialogue: 100,0:00:16.71,0:00:18.46,Dialogue,,0,0,0,,Unde ești, Tsubaki-chan?!
-Dialogue: 100,0:00:18.46,0:00:21.12,Dialogue,,0,0,0,,Aici, Kotecchan!
-Dialogue: 100,0:00:25.71,0:00:28.54,Dialogue,,0,0,0,,Tsubaki câștigă!
-Dialogue: 100,0:00:32.27,0:00:35.15,Dialogue,,0,0,0,,Nu am putut crea altceva.
-Dialogue: 100,0:00:36.64,0:00:38.17,Dialogue,,0,0,0,,Nu-i rău.
-Dialogue: 100,0:00:41.43,0:00:43.68,Dialogue,,0,0,0,,Destul, Haru!
-Dialogue: 100,0:00:44.93,0:00:46.81,Dialogue,,0,0,0,,Nu-i rău, Akira.
-Dialogue: 100,0:00:47.15,0:00:49.02,Dialogue,,0,0,0,,Poate și eu voi da tot ce pot!
-Dialogue: 100,0:00:52.55,0:00:55.91,Dialogue,,0,0,0,,Mi-ar fi plăcut să alerg \Nmai mult cu tine, Akira.
-Dialogue: 100,0:01:10.29,0:01:12.96,Dialogue,,0,0,0,,{\i1}Îmi cer scuze, Haru...
-Dialogue: 100,0:01:14.46,0:01:16.97,Dialogue,,0,0,0,,Nu o poți învinge pe Chiyu.
-Dialogue: 100,0:01:16.97,0:01:19.10,Dialogue,,0,0,0,,Încetează cu prostiile!
-Dialogue: 100,0:01:24.87,0:01:27.87,Dialogue,,0,0,0,,În cele din urmă, \Na mers conform planului.
-Dialogue: 100,0:01:30.48,0:01:34.57,Dialogue,,0,0,0,,Am fost mereu fără speranță.
-Dialogue: 100,0:01:38.07,0:01:39.74,Dialogue,,0,0,0,,Cățea naționalistă!
-Dialogue: 100,0:01:40.49,0:01:42.83,Dialogue,,0,0,0,,Și tu ești doar o potaie care \Ntot ce face să este să adulmece.
-Dialogue: 100,0:01:58.90,0:02:01.37,Dialogue,,0,0,0,,Nu-i rău. Sunt impresionat.
-Dialogue: 100,0:02:01.37,0:02:03.18,Dialogue,,0,0,0,,Ești la fel de puternic ca întotdeauna.
-Dialogue: 100,0:02:04.27,0:02:05.89,Dialogue,,0,0,0,,Asta cam doare.
-Dialogue: 100,0:02:05.89,0:02:10.52,Dialogue,,0,0,0,,Îmi cer scuze. Se pare că amândoi avem nevoie să fim vindecați.
-Dialogue: 100,0:02:17.15,0:02:20.90,Dialogue,,0,0,0,,Ascultați-vă prohodul.
-Dialogue: 100,0:02:20.90,0:02:22.49,Dialogue,,0,0,0,,Nu te voi lua ușor!
-Dialogue: 100,0:02:24.37,0:02:26.41,Dialogue,,0,0,0,,Ți-ai nedreptățit țara!
-Dialogue: 100,0:02:30.75,0:02:31.71,Dialogue,,0,0,0,,Suruga!
-Dialogue: 100,0:02:31.71,0:02:34.67,Dialogue,,0,0,0,,Îmi cer scuze. Te-a durut?
-Dialogue: 100,0:02:46.19,0:02:49.77,Dialogue,,0,0,0,,Coasa zeului morții ajunge oriunde.
-Dialogue: 100,0:02:57.95,0:03:00.05,Dialogue,,0,0,0,,O săgeată ascunsă.
-Dialogue: 100,0:03:00.05,0:03:01.90,Dialogue,,0,0,0,,Înțeleg...
-Dialogue: 100,0:03:06.85,0:03:08.59,Dialogue,,0,0,0,,Asta era singura cale?
-Dialogue: 100,0:03:09.14,0:03:12.64,Dialogue,,0,0,0,,Destinul este precum o umbră.
-Dialogue: 100,0:03:13.16,0:03:16.13,Dialogue,,0,0,0,,Urmărește-l și va fugi de tine. \NFugi de el și te va urma.
-Dialogue: 100,0:03:17.85,0:03:19.76,Dialogue,,0,0,0,,Suntem niște ființe malefice?
-Dialogue: 100,0:03:20.33,0:03:23.51,Dialogue,,0,0,0,,Cine știe? Eu unul nu.
-Dialogue: 100,0:03:24.46,0:03:26.58,Dialogue,,0,0,0,,Putem îndrepta acest destin greșit?
-Dialogue: 100,0:03:28.27,0:03:30.18,Dialogue,,0,0,0,,Nu știu.
-Dialogue: 100,0:03:43.22,0:03:44.21,Dialogue,,0,0,0,,Yuri.
-Dialogue: 100,0:03:45.56,0:03:46.85,Dialogue,,0,0,0,,Chihiro-kun.
-Dialogue: 100,0:05:46.63,0:05:47.86,Dialogue,,0,0,0,,De ajuns!
-Dialogue: 100,0:05:49.23,0:05:50.74,Dialogue,,0,0,0,,O, haide.
-Dialogue: 100,0:05:51.02,0:05:53.05,Dialogue,,0,0,0,,Mereu ataci în zona antebrațului.
-Dialogue: 100,0:05:53.05,0:05:56.32,Dialogue,,0,0,0,,Încearcă să ataci în \Nzona capului, Chihiro-san.
-Dialogue: 100,0:05:56.99,0:05:59.54,Dialogue,,0,0,0,,O victorie e o victorie, Kotetsu.
-Dialogue: 100,0:06:00.27,0:06:04.21,Dialogue,,0,0,0,,Faptul că te plângi pentru o \Nînfrângere arată că ești încă necopt.
-Dialogue: 100,0:06:04.21,0:06:05.37,Dialogue,,0,0,0,,Tată.
-Dialogue: 100,0:06:05.92,0:06:07.81,Dialogue,,0,0,0,,Este misterul non-uciderii.
-Dialogue: 100,0:06:08.30,0:06:10.93,Dialogue,,0,0,0,,Cea mai mare esență a mânuirii sabiei
-Dialogue: 100,0:06:10.93,0:06:13.04,Dialogue,,0,0,0,,este să-ți lași adversarul \Nfără putere ca să-l învingi.
-Dialogue: 100,0:06:13.63,0:06:18.73,Dialogue,,0,0,0,,Într-o luptă adevărată, nu vei putea să-ți învingi adversarul dacă îl ataci în zona antebrațului.
-Dialogue: 100,0:06:20.21,0:06:21.69,Dialogue,,0,0,0,,Știu asta.
-Dialogue: 100,0:06:25.10,0:06:27.87,Dialogue,,0,0,0,,Încă o dată, Chihiro-san.
-Dialogue: 100,0:06:27.87,0:06:30.57,Dialogue,,0,0,0,,Scuze. Trebuie să mă pregătesc.
-Dialogue: 100,0:06:30.57,0:06:33.23,Dialogue,,0,0,0,,Nu e corect! Fugi după ce ai câștigat?
-Dialogue: 100,0:06:33.23,0:06:35.16,Dialogue,,0,0,0,,Nu vrei să iei prânzul?
-Dialogue: 100,0:06:38.29,0:06:40.04,Dialogue,,0,0,0,,Nu știu ce să mă fac cu el.
-Dialogue: 100,0:06:41.19,0:06:45.88,Dialogue,,0,0,0,,Dacă s-ar răzgândi, m-aș putea \Nretrage cu inima împăcată.
-Dialogue: 100,0:06:56.55,0:06:59.66,Dialogue,,0,0,0,,Omletele tale răsucite sunt \Ncele mai bune, Chihiro-san.
-Dialogue: 100,0:07:00.78,0:07:03.21,Dialogue,,0,0,0,,Nu poți trăi fără ele, nu-i așa, Kotetsu?
-Dialogue: 100,0:07:03.21,0:07:05.18,Dialogue,,0,0,0,,Sunt așa de moi...
-Dialogue: 100,0:07:05.90,0:07:08.97,Dialogue,,0,0,0,,Știu. Le-ai bătut de o sută de ori, nu-i așa?
-Dialogue: 100,0:07:08.97,0:07:12.45,Dialogue,,0,0,0,,Secretul este să fii atent la \Ntemperatură și să nu le bați prea mult.
-Dialogue: 100,0:07:13.63,0:07:16.47,Dialogue,,0,0,0,,Nu trebuie să-mi spui asta. \NEu doar le mănânc.
-Dialogue: 100,0:07:16.47,0:07:18.69,Dialogue,,0,0,0,,Ar trebui să înveți să gătești măcar.
-Dialogue: 100,0:07:19.25,0:07:20.59,Dialogue,,0,0,0,,De ce? Te am pe tine.
-Dialogue: 100,0:07:20.59,0:07:22.59,Dialogue,,0,0,0,,Am devenit cumva soția ta?
-Dialogue: 100,0:07:22.59,0:07:24.98,Dialogue,,0,0,0,,Da, de ce nu?
-Dialogue: 100,0:07:24.98,0:07:26.76,Dialogue,,0,0,0,,Vom conduce dojoul împreună.
-Dialogue: 100,0:07:27.34,0:07:29.97,Dialogue,,0,0,0,,Tu vei fi instructorul, \Niar eu asistentul tău.
-Dialogue: 100,0:07:30.44,0:07:31.86,Dialogue,,0,0,0,,Cum ți se pare, tată?
-Dialogue: 100,0:07:35.26,0:07:37.67,Dialogue,,0,0,0,,Eu prefer ouălele fierte.
-Dialogue: 100,0:07:39.23,0:07:41.33,Dialogue,,0,0,0,,Nu te-am întrebat asta.
-Dialogue: 100,0:07:41.33,0:07:44.26,Dialogue,,0,0,0,,Atunci, vom mânca ouă fierte mâine.
-Dialogue: 100,0:07:46.89,0:07:48.42,Dialogue,,0,0,0,,Dacă vom deveni instructori,
-Dialogue: 100,0:07:49.06,0:07:51.06,Dialogue,,0,0,0,,va trebui să fim niște \Nexemple pentru discipolii noștri.
-Dialogue: 100,0:07:51.06,0:07:53.20,Dialogue,,0,0,0,,Va trebui să le arăți cât de puternic ești.
-Dialogue: 100,0:07:53.71,0:07:56.22,Dialogue,,0,0,0,,Să dai o lovitură la cap bună.
-Dialogue: 100,0:07:56.82,0:07:59.57,Dialogue,,0,0,0,,Ești mai puternic decât mine în luptă.
-Dialogue: 100,0:07:59.57,0:08:01.75,Dialogue,,0,0,0,,Ce? Sunt puternic?
-Dialogue: 100,0:08:01.75,0:08:02.58,Dialogue,,0,0,0,,Pe bune?
-Dialogue: 100,0:08:06.06,0:08:08.81,Dialogue,,0,0,0,,Nu te-am învins niciodată, totuși.
-Dialogue: 100,0:08:11.59,0:08:14.50,Dialogue,,0,0,0,,Chihiro-san, chiar pleci?
-Dialogue: 100,0:08:14.50,0:08:16.30,Dialogue,,0,0,0,,Da, așa cred.
-Dialogue: 100,0:08:16.66,0:08:19.68,Dialogue,,0,0,0,,De ce? Este ceva ce nu-ți convine?
-Dialogue: 100,0:08:19.68,0:08:22.43,Dialogue,,0,0,0,,Nu există nimic ce nu mi-ar putea conveni.
-Dialogue: 100,0:08:22.43,0:08:26.62,Dialogue,,0,0,0,,Am numai recunoștință pentru tine și tatăl tău de când m-ați primit în casa voastră.
-Dialogue: 100,0:08:27.11,0:08:30.85,Dialogue,,0,0,0,,M-a crescut până acum și \Nchiar m-a trimis la colegiu.
-Dialogue: 100,0:08:31.23,0:08:32.15,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:08:32.15,0:08:33.45,Dialogue,,0,0,0,,Dar ce?
-Dialogue: 100,0:08:34.23,0:08:36.45,Dialogue,,0,0,0,,"A fi sau a nu fi."
-Dialogue: 100,0:08:36.45,0:08:38.23,Dialogue,,0,0,0,,Shakespeare din nou?
-Dialogue: 100,0:08:38.23,0:08:40.46,Dialogue,,0,0,0,,Răspunde-mi la întrebare, Chihiro-san.
-Dialogue: 100,0:08:41.05,0:08:43.81,Dialogue,,0,0,0,,Nu ar fi trebuit să-ți spun.
-Dialogue: 100,0:08:45.30,0:08:47.41,Dialogue,,0,0,0,,Doar mă gândesc momentan.
-Dialogue: 100,0:08:47.41,0:08:49.21,Dialogue,,0,0,0,,Ce se va întâmpla cu dojoul?
-Dialogue: 100,0:08:50.86,0:08:52.17,Dialogue,,0,0,0,,Asta era?
-Dialogue: 100,0:08:52.61,0:08:56.00,Dialogue,,0,0,0,,Știam că există un motiv pentru care ești așa persistent astăzi.
-Dialogue: 100,0:08:56.00,0:08:57.32,Dialogue,,0,0,0,,Da, dar...
-Dialogue: 100,0:08:58.14,0:08:59.72,Dialogue,,0,0,0,,Nu m-am decis încă.
-Dialogue: 100,0:09:00.25,0:09:02.48,Dialogue,,0,0,0,,Nu-i spune tatălui tău.
-Dialogue: 100,0:09:03.27,0:09:04.59,Dialogue,,0,0,0,,Chihiro-san!
-Dialogue: 100,0:09:09.70,0:09:10.92,Dialogue,,0,0,0,,Ikuro.
-Dialogue: 100,0:09:10.92,0:09:12.18,Dialogue,,0,0,0,,'Neața, Iku-san.
-Dialogue: 100,0:09:13.16,0:09:15.20,Dialogue,,0,0,0,,Avem prima oră liberă.
-Dialogue: 100,0:09:17.41,0:09:18.76,Dialogue,,0,0,0,,Să mergem la sala de mese.
-Dialogue: 100,0:09:18.76,0:09:19.89,Dialogue,,0,0,0,,Noi am mâncat deja.
-Dialogue: 100,0:09:19.89,0:09:21.70,Dialogue,,0,0,0,,Păi, eu nu!
-Dialogue: 100,0:09:21.70,0:09:24.44,Dialogue,,0,0,0,,Joi dimineață se servește \Nporc prăjit cu ghimbir, nu-i așa?
-Dialogue: 100,0:09:24.44,0:09:26.08,Dialogue,,0,0,0,,Eu mereu mănânc aici.
-Dialogue: 100,0:09:26.37,0:09:28.27,Dialogue,,0,0,0,,Pare un prânz greu pentru stomac.
-Dialogue: 100,0:09:28.27,0:09:30.26,Dialogue,,0,0,0,,Bine, mă bag!
-Dialogue: 100,0:09:30.26,0:09:32.05,Dialogue,,0,0,0,,Ai mâncat deja.
-Dialogue: 100,0:09:32.31,0:09:34.42,Dialogue,,0,0,0,,Noi suntem singurii care \Navem prima oră liberă.
-Dialogue: 100,0:09:34.42,0:09:36.87,Dialogue,,0,0,0,,Du-te la ore, bobocule.
-Dialogue: 100,0:09:38.07,0:09:41.84,Dialogue,,0,0,0,,Nu fi rău, Senpai.
-Dialogue: 100,0:09:47.21,0:09:48.76,Dialogue,,0,0,0,,Ce este acest sunet?
-Dialogue: 100,0:09:48.76,0:09:50.94,Dialogue,,0,0,0,,Îmi acopăr urechile, dar tot îl aud.
-Dialogue: 100,0:09:55.30,0:09:56.36,Dialogue,,0,0,0,,Ikuro!
-Dialogue: 100,0:09:56.95,0:10:00.37,Dialogue,,0,0,0,,C-Chihiro-san...
-Dialogue: 100,0:10:00.86,0:10:01.88,Dialogue,,0,0,0,,Kotetsu?!
-Dialogue: 100,0:10:04.83,0:10:06.33,Dialogue,,0,0,0,,Rezistă!
-Dialogue: 100,0:10:23.59,0:10:24.83,Dialogue,,0,0,0,,Acel sunet...
-Dialogue: 100,0:11:08.68,0:11:11.83,Dialogue,,0,0,0,,"Viața noastră e din plămada viselor făcută."
-Dialogue: 100,0:11:14.97,0:11:17.07,Dialogue,,0,0,0,,"Cu tot ce-i viu pe el, se vor topi,
-Dialogue: 100,0:11:17.07,0:11:19.54,Dialogue,,0,0,0,,Făr-a lăsa vreo urmă, ca și-n această
-Dialogue: 100,0:11:19.54,0:11:22.61,Dialogue,,0,0,0,,Părelnică serbare."
-Dialogue: 100,0:11:23.55,0:11:24.90,Dialogue,,0,0,0,,{\i1}Furtuna{\i0}, nu?
-Dialogue: 100,0:11:25.66,0:11:29.75,Dialogue,,0,0,0,,Ceea ce înseamnă că toate \Nastea sunt doar un vis.
-Dialogue: 100,0:11:30.53,0:11:35.75,Dialogue,,0,0,0,,Destinul, țesut continuu dintr-un \Nfir cu lucruri bune și rele.
-Dialogue: 100,0:11:36.57,0:11:38.43,Dialogue,,0,0,0,,Ce încerci să spui?
-Dialogue: 100,0:11:38.43,0:11:39.65,Dialogue,,0,0,0,,Nu-ți place?
-Dialogue: 100,0:11:40.59,0:11:43.20,Dialogue,,0,0,0,,Acestea sunt cuvinte dinăuntrul tău.
-Dialogue: 100,0:11:44.97,0:11:48.04,Dialogue,,0,0,0,,Chiar și teatrul poate deveni \Nnașpa dacă se întrece limita.
-Dialogue: 100,0:11:48.04,0:11:52.13,Dialogue,,0,0,0,,Îmi place Shakespeare, dar nu-mi place să-l văd întortocheat astfel.
-Dialogue: 100,0:11:54.22,0:11:56.14,Dialogue,,0,0,0,,Omule stacojiu.
-Dialogue: 100,0:11:56.71,0:11:59.27,Dialogue,,0,0,0,,Puteri mari zac în sângele tău.
-Dialogue: 100,0:11:59.79,0:12:03.91,Dialogue,,0,0,0,,Regele închis pe o insulă pustie dintr-o \Nmare îndepărtată își pune în mișcare trupele,
-Dialogue: 100,0:12:04.21,0:12:06.20,Dialogue,,0,0,0,,căutând fără încetare răspunsuri.
-Dialogue: 100,0:12:07.10,0:12:08.91,Dialogue,,0,0,0,,Despre ce vorbești?
-Dialogue: 100,0:12:08.91,0:12:10.40,Dialogue,,0,0,0,,Cine ești?
-Dialogue: 100,0:12:11.15,0:12:12.63,Dialogue,,0,0,0,,Eu sunt Dux.
-Dialogue: 100,0:12:15.25,0:12:17.22,Dialogue,,0,0,0,,Până la sfârșitul timpului,
-Dialogue: 100,0:12:17.22,0:12:22.18,Dialogue,,0,0,0,,vom repeta această \Nscenă eroică iar și iar
-Dialogue: 100,0:12:22.62,0:12:25.81,Dialogue,,0,0,0,,în cuvintele națiunilor \Nîncă necunoscute.
-Dialogue: 100,0:12:38.55,0:12:41.19,Dialogue,,0,0,0,,Inuki, s-a trezit!
-Dialogue: 100,0:12:42.19,0:12:44.64,Dialogue,,0,0,0,,Prințul adormit s-a trezit în sfârșit.
-Dialogue: 100,0:12:44.64,0:12:46.49,Dialogue,,0,0,0,,I-ai dat cumva un sărut magic?
-Dialogue: 100,0:12:46.49,0:12:47.62,Dialogue,,0,0,0,,Da, cum să nu!
-Dialogue: 100,0:12:47.93,0:12:49.36,Dialogue,,0,0,0,,Glumeam doar.
-Dialogue: 100,0:12:49.86,0:12:51.53,Dialogue,,0,0,0,,Verifică cât de conștient este.
-Dialogue: 100,0:12:53.17,0:12:54.79,Dialogue,,0,0,0,,Hei, frumușelule.
-Dialogue: 100,0:12:55.12,0:12:57.25,Dialogue,,0,0,0,,Tu ești ultimul.
-Dialogue: 100,0:12:57.68,0:12:59.55,Dialogue,,0,0,0,,Știi cine ești?
-Dialogue: 100,0:13:00.27,0:13:02.58,Dialogue,,0,0,0,,Eu... Eu...
-Dialogue: 100,0:13:03.24,0:13:06.66,Dialogue,,0,0,0,,Nu-mi spune că ai amnezie.
-Dialogue: 100,0:13:07.07,0:13:08.05,Dialogue,,0,0,0,,Kamina.
-Dialogue: 100,0:13:08.05,0:13:10.09,Dialogue,,0,0,0,,Numele meu este Kamina Chihiro.
-Dialogue: 100,0:13:10.09,0:13:12.18,Dialogue,,0,0,0,,În regulă, e bine.
-Dialogue: 100,0:13:12.73,0:13:15.56,Dialogue,,0,0,0,,Asta spune și cardul tău de student.
-Dialogue: 100,0:13:15.56,0:13:19.14,Dialogue,,0,0,0,,Student în anul doi la Universitatea Jokei, departamentul de engleză...
-Dialogue: 100,0:13:18.24,0:13:20.39,Dialogue Top,,0,0,0,,Ce mi s-a întâmplat—
-Dialogue: 100,0:13:20.39,0:13:22.71,Dialogue,,0,0,0,,Nu mă întrerupe!
-Dialogue: 100,0:13:22.71,0:13:25.59,Dialogue,,0,0,0,,Asta este nepoliticos.
-Dialogue: 100,0:13:25.59,0:13:28.53,Dialogue,,0,0,0,,Și lovitul unui pacient este nepoliticos.
-Dialogue: 100,0:13:29.06,0:13:30.53,Dialogue,,0,0,0,,Mai taci.
-Dialogue: 100,0:13:31.10,0:13:32.95,Dialogue,,0,0,0,,Unde suntem?
-Dialogue: 100,0:13:33.45,0:13:35.64,Dialogue,,0,0,0,,Spitalul Universității Jokei.
-Dialogue: 100,0:13:35.64,0:13:37.96,Dialogue,,0,0,0,,Eu sunt medicul care se \Nocupă de tine, Akaya Inuki.
-Dialogue: 100,0:13:38.51,0:13:40.24,Dialogue,,0,0,0,,Aia este Sakiyama Koume.
-Dialogue: 100,0:13:40.24,0:13:42.84,Dialogue,,0,0,0,,Nu vorbi așa cu mine.
-Dialogue: 100,0:13:42.84,0:13:47.87,Dialogue,,0,0,0,,Deci, Prințule adormit, \Nte-ai trezit după cinci luni.
-Dialogue: 100,0:13:48.30,0:13:49.35,Dialogue,,0,0,0,,Știai asta?
-Dialogue: 100,0:13:49.35,0:13:51.65,Dialogue,,0,0,0,,Cinci luni?! Nu vorbești serios, nu?
-Dialogue: 100,0:13:52.21,0:13:55.67,Dialogue,,0,0,0,,Majoritatea oamenilor s-au trezit în decursului unei săptămâni.
-Dialogue: 100,0:13:56.14,0:13:58.17,Dialogue,,0,0,0,,Acum, ce ai visat?
-Dialogue: 100,0:13:58.17,0:13:59.31,Dialogue,,0,0,0,,Visat?
-Dialogue: 100,0:13:59.31,0:14:00.86,Dialogue,,0,0,0,,Vise din altă lume.
-Dialogue: 100,0:14:01.62,0:14:04.80,Dialogue,,0,0,0,,Vise în care devii altceva.
-Dialogue: 100,0:14:04.80,0:14:06.90,Dialogue,,0,0,0,,Altceva?
-Dialogue: 100,0:14:07.23,0:14:09.11,Dialogue,,0,0,0,,Păi, despre ce vorbești?
-Dialogue: 100,0:14:09.41,0:14:14.16,Dialogue,,0,0,0,,Mulți oameni au vorbit despre vise după ce și-au recăpătat conștiința piedută în Marea Prăbușire.
-Dialogue: 100,0:14:14.61,0:14:16.12,Dialogue,,0,0,0,,"Marea Prăbușire?"
-Dialogue: 100,0:14:16.12,0:14:18.87,Dialogue,,0,0,0,,Ar fi mai rapid dacă \Nai vedea cu ochii tăi.
-Dialogue: 100,0:14:34.79,0:14:37.31,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:14:37.66,0:14:40.00,Dialogue,,0,0,0,,Tokyo-ul după Marea Prăbușire.
-Dialogue: 100,0:14:41.03,0:14:42.88,Dialogue,,0,0,0,,Ce reprezintă această Mare Prăbușire?
-Dialogue: 100,0:14:42.88,0:14:47.12,Dialogue,,0,0,0,,Ai auzit cu siguranță acel \Nsunet ciudat înainte să leșini.
-Dialogue: 100,0:14:47.12,0:14:51.15,Dialogue,,0,0,0,,Încă nu știm ce a fost.
-Dialogue: 100,0:14:51.87,0:14:55.97,Dialogue,,0,0,0,,Când ne-am trezit, acea \Nplantă uriașă crescuse
-Dialogue: 100,0:14:55.97,0:14:58.88,Dialogue,,0,0,0,,și eram învăluiți în acea ceață roșie.
-Dialogue: 100,0:14:59.78,0:15:04.46,Dialogue,,0,0,0,,Nu putem afla ce s-a \Nîntâmplat în acea săptămână.
-Dialogue: 100,0:15:05.01,0:15:06.84,Dialogue,,0,0,0,,Asta este Marea Prăbușire.
-Dialogue: 100,0:15:07.21,0:15:09.40,Dialogue,,0,0,0,,Ce este acea plantă?
-Dialogue: 100,0:15:09.40,0:15:11.39,Dialogue,,0,0,0,,Ce s-a întâmplat cu Tokyo-ul?!
-Dialogue: 100,0:15:11.39,0:15:13.76,Dialogue,,0,0,0,,Vai, mai taci odată!
-Dialogue: 100,0:15:14.02,0:15:18.22,Dialogue,,0,0,0,,Este prea greu de explicat. \NÎntreabă-ți prietenul.
-Dialogue: 100,0:15:19.52,0:15:20.95,Dialogue,,0,0,0,,Poți intra acum.
-Dialogue: 100,0:15:23.02,0:15:26.02,Dialogue,,0,0,0,,Slavă Domnului! \NCât mă bucur că ești bine!
-Dialogue: 100,0:15:26.46,0:15:28.89,Dialogue,,0,0,0,,Nu voiau să mă lase să te văd.
-Dialogue: 100,0:15:29.32,0:15:32.18,Dialogue,,0,0,0,,Iar asistenta ta este \Nincredibil de nepoliticoasă.
-Dialogue: 100,0:15:32.18,0:15:33.66,Dialogue,,0,0,0,,Ce-ai spus?
-Dialogue: 100,0:15:34.05,0:15:35.99,Dialogue,,0,0,0,,Dacă te-ar fi disecat,
-Dialogue: 100,0:15:35.99,0:15:38.85,Dialogue,,0,0,0,,jur că te-aș fi răzbunat \Nși apoi m-aș fi sinucis.
-Dialogue: 100,0:15:38.85,0:15:41.83,Dialogue,,0,0,0,,Din ce eră provii mai exact?
-Dialogue: 100,0:15:41.83,0:15:44.02,Dialogue,,0,0,0,,Mereu a fost așa.
-Dialogue: 100,0:15:44.02,0:15:47.09,Dialogue,,0,0,0,,Mi-a stat în picioare în fiecare zi.
-Dialogue: 100,0:15:47.09,0:15:49.42,Dialogue,,0,0,0,,Scuze. Ți-ai făcut griji pentru mine.
-Dialogue: 100,0:15:54.62,0:15:56.65,Dialogue,,0,0,0,,Sunt surprins că poți merge.
-Dialogue: 100,0:15:57.16,0:16:01.27,Dialogue,,0,0,0,,Toți cei care au leșinat în timpul Marii \NPrăbușiri sunt suprinzător de sănătoși.
-Dialogue: 100,0:16:02.09,0:16:04.85,Dialogue,,0,0,0,,Nu mi-a venit să cred că \Nam dormit o săptămână.
-Dialogue: 100,0:16:07.05,0:16:10.74,Dialogue,,0,0,0,,Felicitări pentru recuperare, \NKamina Chihiro-kun.
-Dialogue: 100,0:16:10.74,0:16:12.94,Dialogue,,0,0,0,,Kakihara-san.
-Dialogue: 100,0:16:12.94,0:16:14.99,Dialogue,,0,0,0,,Ce faci aici?
-Dialogue: 100,0:16:15.34,0:16:18.45,Dialogue,,0,0,0,,Jurnaliștii au un nas ascuțit.
-Dialogue: 100,0:16:18.76,0:16:23.50,Dialogue,,0,0,0,,"Perioada de după Marea Prăbușire, ultima persoană în comă își revine."
-Dialogue: 100,0:16:23.78,0:16:25.96,Dialogue,,0,0,0,,Acesta este titlul.
-Dialogue: 100,0:16:27.12,0:16:29.17,Dialogue,,0,0,0,,De ce ai dormit pentru cinci luni?
-Dialogue: 100,0:16:29.17,0:16:30.01,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:16:30.01,0:16:31.98,Dialogue,,0,0,0,,Nu ai doborât destui oameni cu tine?
-Dialogue: 100,0:16:31.98,0:16:35.51,Dialogue,,0,0,0,,Sau nu este distractiv \Npână nu-i omori tu însuți?
-Dialogue: 100,0:16:36.02,0:16:38.47,Dialogue,,0,0,0,,Cum ai făcut-o acum 13 ani.
-Dialogue: 100,0:16:41.03,0:16:42.60,Dialogue,,0,0,0,,De ajuns!
-Dialogue: 100,0:16:42.91,0:16:45.72,Dialogue,,0,0,0,,De ce îl urmărești \Nmereu pe Chihiro-san?
-Dialogue: 100,0:16:46.05,0:16:49.23,Dialogue,,0,0,0,,Faci asta să pară un lucru rău, \Ndar este treaba mea.
-Dialogue: 100,0:16:49.55,0:16:52.13,Dialogue,,0,0,0,,Voi lăsa asta așa deocamdată,
-Dialogue: 100,0:16:52.13,0:16:55.04,Dialogue,,0,0,0,,incluzând adevărul care \Na avut loc acum 13 ani.
-Dialogue: 100,0:17:00.72,0:17:03.00,Dialogue,,0,0,0,,Vai, mă sperii.
-Dialogue: 100,0:17:04.17,0:17:05.61,Dialogue,,0,0,0,,Să mergem, Tsubasa.
-Dialogue: 100,0:17:07.67,0:17:11.54,Dialogue,,0,0,0,,{\i1}La cinci luni după Marea Prăbușire, \Ndemonstrații pentru salvarea orașului Tokyo
-Dialogue: 100,0:17:11.54,0:17:15.41,Dialogue,,0,0,0,,{\i1}sunt ținute în orașul Osaka.
-Dialogue: 100,0:17:16.01,0:17:19.28,Dialogue Top,,0,0,0,,{\i1}Guvernul trimite trilioane \Nde yeni pentru mâncare
-Dialogue: 100,0:17:19.28,0:17:23.43,Dialogue Top,,0,0,0,,{\i1}și asistență medicală în districtul \Nspecial și autonom din Tokyo,
-Dialogue: 100,0:17:20.52,0:17:22.52,Dialogue,,0,0,0,,Districtul special și autonom?
-Dialogue: 100,0:17:22.92,0:17:24.94,Dialogue,,0,0,0,,Așa numesc Tokyo-ul acum.
-Dialogue: 100,0:17:23.43,0:17:25.86,Dialogue Top,,0,0,0,,{\i1}oricum, încă rămân multe probleme...
-Dialogue: 100,0:17:24.94,0:17:28.04,Dialogue,,0,0,0,,Nimeni nu poate ieși din \Ncauza ceții roșiatice.
-Dialogue: 100,0:17:28.04,0:17:29.30,Dialogue,,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:17:29.64,0:17:31.27,Dialogue,,0,0,0,,Acea este ceața roșie.
-Dialogue: 100,0:17:32.22,0:17:33.03,Dialogue,,0,0,0,,O poți vedea?
-Dialogue: 100,0:17:35.23,0:17:40.44,Dialogue,,0,0,0,,Sunt colonii peste tot, \Ndar acoperă întregul Tokyo.
-Dialogue: 100,0:17:40.78,0:17:42.50,Dialogue,,0,0,0,,Ceața roșie...
-Dialogue: 100,0:17:44.87,0:17:48.42,Dialogue,,0,0,0,,Am auzit că puteai intra \Nși ieși la început, dar...
-Dialogue: 100,0:17:48.42,0:17:50.88,Dialogue,,0,0,0,,Acum, toată lumea stă departe.
-Dialogue: 100,0:17:50.88,0:17:54.55,Dialogue,,0,0,0,,Se spune că nimeni nu a reușit \Nsă treacă prin ceața roșie.
-Dialogue: 100,0:17:54.55,0:17:57.55,Dialogue,,0,0,0,,Era deja astfel când m-am trezit.
-Dialogue: 100,0:17:57.83,0:17:59.80,Dialogue,,0,0,0,,A fost multă confuzie.
-Dialogue: 100,0:18:00.31,0:18:02.48,Dialogue,,0,0,0,,Nu poți pleca,
-Dialogue: 100,0:18:02.48,0:18:04.44,Dialogue,,0,0,0,,dar energia electrică și \Napa încă funcționează.
-Dialogue: 100,0:18:04.44,0:18:06.16,Dialogue,,0,0,0,,Acasă este locul unde poți trăi.
-Dialogue: 100,0:18:06.91,0:18:08.28,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:18:10.55,0:18:12.37,Dialogue,,0,0,0,,Abia ce ai ieșit din spital.
-Dialogue: 100,0:18:12.86,0:18:15.61,Dialogue,,0,0,0,,Ar trebui să dormi \Npână ajungem acasă.
-Dialogue: 100,0:18:15.61,0:18:16.82,Dialogue,,0,0,0,,Ai dreptate.
-Dialogue: 100,0:18:18.19,0:18:19.66,Dialogue,,0,0,0,,Asta voi face.
-Dialogue: 100,0:18:28.22,0:18:29.70,Dialogue,,0,0,0,,Dojoul?
-Dialogue: 100,0:18:29.70,0:18:31.55,Dialogue,,0,0,0,,Ce înseamnă asta?
-Dialogue: 100,0:18:34.94,0:18:36.09,Dialogue,,0,0,0,,Domnule!
-Dialogue: 100,0:18:41.55,0:18:42.71,Dialogue,,0,0,0,,Ce a fost asta?
-Dialogue: 100,0:18:43.75,0:18:44.58,Dialogue,,0,0,0,,Ești bine?
-Dialogue: 100,0:18:46.45,0:18:47.35,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:18:49.01,0:18:50.35,Dialogue,,0,0,0,,Cum este tatăl tău?
-Dialogue: 100,0:18:50.77,0:18:53.35,Dialogue,,0,0,0,,Tatăl meu? Este foarte bine.
-Dialogue: 100,0:19:04.94,0:19:07.14,Dialogue,,0,0,0,,Ai ajuns în sfârșit acasă.
-Dialogue: 100,0:19:07.45,0:19:09.42,Dialogue,,0,0,0,,Mă simt ciudat.
-Dialogue: 100,0:19:09.42,0:19:12.08,Dialogue,,0,0,0,,De parcă plecasem azi-dimineață.
-Dialogue: 100,0:19:16.34,0:19:17.46,Dialogue,,0,0,0,,Acest sunet...
-Dialogue: 100,0:19:20.77,0:19:21.66,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:19:23.85,0:19:26.47,Dialogue,,0,0,0,,Mă simt de parcă îmi arde corpul...
-Dialogue: 100,0:19:44.97,0:19:47.21,Dialogue,,0,0,0,,El creează acest sunet?
-Dialogue: 100,0:20:09.43,0:20:10.52,Dialogue,,0,0,0,,Tată?
-Dialogue: 100,0:20:15.32,0:20:16.44,Dialogue,,0,0,0,,Fugiți!
-Dialogue: 100,0:20:16.91,0:20:18.64,Dialogue,,0,0,0,,Instructorul...
-Dialogue: 100,0:20:20.48,0:20:22.76,Dialogue,,0,0,0,,Acela este... tatăl tău?
-Dialogue: 100,0:20:22.76,0:20:24.95,Dialogue,,0,0,0,,La naiba, ce se petrece?!
-Dialogue: 100,0:20:36.60,0:20:37.52,Dialogue,,0,0,0,,Chihiro-san!
-Dialogue: 100,0:20:59.51,0:21:02.37,Dialogue,,0,0,0,,{\i1}Nu-ți poți învinge adversarii \Ncu lovituri în zona antebrațului.
-Dialogue: 100,0:21:06.28,0:21:08.03,Dialogue,,0,0,0,,Chihiro-san!
+Dialogue: 99,0:00:13.12,0:00:16.71,Dialogue,,0,0,0,,Nu mă subestima. \NÎncă sunt un instructor.
+Dialogue: 99,0:00:16.71,0:00:18.46,Dialogue,,0,0,0,,Unde ești, Tsubaki-chan?!
+Dialogue: 99,0:00:18.46,0:00:21.12,Dialogue,,0,0,0,,Aici, Kotecchan!
+Dialogue: 99,0:00:25.71,0:00:28.54,Dialogue,,0,0,0,,Tsubaki câștigă!
+Dialogue: 99,0:00:32.27,0:00:35.15,Dialogue,,0,0,0,,Nu am putut crea altceva.
+Dialogue: 99,0:00:36.64,0:00:38.17,Dialogue,,0,0,0,,Nu-i rău.
+Dialogue: 99,0:00:41.43,0:00:43.68,Dialogue,,0,0,0,,Destul, Haru!
+Dialogue: 99,0:00:44.93,0:00:46.81,Dialogue,,0,0,0,,Nu-i rău, Akira.
+Dialogue: 99,0:00:47.15,0:00:49.02,Dialogue,,0,0,0,,Poate și eu voi da tot ce pot!
+Dialogue: 99,0:00:52.55,0:00:55.91,Dialogue,,0,0,0,,Mi-ar fi plăcut să alerg \Nmai mult cu tine, Akira.
+Dialogue: 99,0:01:10.29,0:01:12.96,Dialogue,,0,0,0,,{\i1}Îmi cer scuze, Haru...
+Dialogue: 99,0:01:14.46,0:01:16.97,Dialogue,,0,0,0,,Nu o poți învinge pe Chiyu.
+Dialogue: 99,0:01:16.97,0:01:19.10,Dialogue,,0,0,0,,Încetează cu prostiile!
+Dialogue: 99,0:01:24.87,0:01:27.87,Dialogue,,0,0,0,,În cele din urmă, \Na mers conform planului.
+Dialogue: 99,0:01:30.48,0:01:34.57,Dialogue,,0,0,0,,Am fost mereu fără speranță.
+Dialogue: 99,0:01:38.07,0:01:39.74,Dialogue,,0,0,0,,Cățea naționalistă!
+Dialogue: 99,0:01:40.49,0:01:42.83,Dialogue,,0,0,0,,Și tu ești doar o potaie care \Ntot ce face să este să adulmece.
+Dialogue: 99,0:01:58.90,0:02:01.37,Dialogue,,0,0,0,,Nu-i rău. Sunt impresionat.
+Dialogue: 99,0:02:01.37,0:02:03.18,Dialogue,,0,0,0,,Ești la fel de puternic ca întotdeauna.
+Dialogue: 99,0:02:04.27,0:02:05.89,Dialogue,,0,0,0,,Asta cam doare.
+Dialogue: 99,0:02:05.89,0:02:10.52,Dialogue,,0,0,0,,Îmi cer scuze. Se pare că amândoi avem nevoie să fim vindecați.
+Dialogue: 99,0:02:17.15,0:02:20.90,Dialogue,,0,0,0,,Ascultați-vă prohodul.
+Dialogue: 99,0:02:20.90,0:02:22.49,Dialogue,,0,0,0,,Nu te voi lua ușor!
+Dialogue: 99,0:02:24.37,0:02:26.41,Dialogue,,0,0,0,,Ți-ai nedreptățit țara!
+Dialogue: 99,0:02:30.75,0:02:31.71,Dialogue,,0,0,0,,Suruga!
+Dialogue: 99,0:02:31.71,0:02:34.67,Dialogue,,0,0,0,,Îmi cer scuze. Te-a durut?
+Dialogue: 99,0:02:46.19,0:02:49.77,Dialogue,,0,0,0,,Coasa zeului morții ajunge oriunde.
+Dialogue: 99,0:02:57.95,0:03:00.05,Dialogue,,0,0,0,,O săgeată ascunsă.
+Dialogue: 99,0:03:00.05,0:03:01.90,Dialogue,,0,0,0,,Înțeleg...
+Dialogue: 99,0:03:06.85,0:03:08.59,Dialogue,,0,0,0,,Asta era singura cale?
+Dialogue: 99,0:03:09.14,0:03:12.64,Dialogue,,0,0,0,,Destinul este precum o umbră.
+Dialogue: 99,0:03:13.16,0:03:16.13,Dialogue,,0,0,0,,Urmărește-l și va fugi de tine. \NFugi de el și te va urma.
+Dialogue: 99,0:03:17.85,0:03:19.76,Dialogue,,0,0,0,,Suntem niște ființe malefice?
+Dialogue: 99,0:03:20.33,0:03:23.51,Dialogue,,0,0,0,,Cine știe? Eu unul nu.
+Dialogue: 99,0:03:24.46,0:03:26.58,Dialogue,,0,0,0,,Putem îndrepta acest destin greșit?
+Dialogue: 99,0:03:28.27,0:03:30.18,Dialogue,,0,0,0,,Nu știu.
+Dialogue: 99,0:03:43.22,0:03:44.21,Dialogue,,0,0,0,,Yuri.
+Dialogue: 99,0:03:45.56,0:03:46.85,Dialogue,,0,0,0,,Chihiro-kun.
+Dialogue: 99,0:05:46.63,0:05:47.86,Dialogue,,0,0,0,,De ajuns!
+Dialogue: 99,0:05:49.23,0:05:50.74,Dialogue,,0,0,0,,O, haide.
+Dialogue: 99,0:05:51.02,0:05:53.05,Dialogue,,0,0,0,,Mereu ataci în zona antebrațului.
+Dialogue: 99,0:05:53.05,0:05:56.32,Dialogue,,0,0,0,,Încearcă să ataci în \Nzona capului, Chihiro-san.
+Dialogue: 99,0:05:56.99,0:05:59.54,Dialogue,,0,0,0,,O victorie e o victorie, Kotetsu.
+Dialogue: 99,0:06:00.27,0:06:04.21,Dialogue,,0,0,0,,Faptul că te plângi pentru o \Nînfrângere arată că ești încă necopt.
+Dialogue: 99,0:06:04.21,0:06:05.37,Dialogue,,0,0,0,,Tată.
+Dialogue: 99,0:06:05.92,0:06:07.81,Dialogue,,0,0,0,,Este misterul non-uciderii.
+Dialogue: 99,0:06:08.30,0:06:10.93,Dialogue,,0,0,0,,Cea mai mare esență a mânuirii sabiei
+Dialogue: 99,0:06:10.93,0:06:13.04,Dialogue,,0,0,0,,este să-ți lași adversarul \Nfără putere ca să-l învingi.
+Dialogue: 99,0:06:13.63,0:06:18.73,Dialogue,,0,0,0,,Într-o luptă adevărată, nu vei putea să-ți învingi adversarul dacă îl ataci în zona antebrațului.
+Dialogue: 99,0:06:20.21,0:06:21.69,Dialogue,,0,0,0,,Știu asta.
+Dialogue: 99,0:06:25.10,0:06:27.87,Dialogue,,0,0,0,,Încă o dată, Chihiro-san.
+Dialogue: 99,0:06:27.87,0:06:30.57,Dialogue,,0,0,0,,Scuze. Trebuie să mă pregătesc.
+Dialogue: 99,0:06:30.57,0:06:33.23,Dialogue,,0,0,0,,Nu e corect! Fugi după ce ai câștigat?
+Dialogue: 99,0:06:33.23,0:06:35.16,Dialogue,,0,0,0,,Nu vrei să iei prânzul?
+Dialogue: 99,0:06:38.29,0:06:40.04,Dialogue,,0,0,0,,Nu știu ce să mă fac cu el.
+Dialogue: 99,0:06:41.19,0:06:45.88,Dialogue,,0,0,0,,Dacă s-ar răzgândi, m-aș putea \Nretrage cu inima împăcată.
+Dialogue: 99,0:06:56.55,0:06:59.66,Dialogue,,0,0,0,,Omletele tale răsucite sunt \Ncele mai bune, Chihiro-san.
+Dialogue: 99,0:07:00.78,0:07:03.21,Dialogue,,0,0,0,,Nu poți trăi fără ele, nu-i așa, Kotetsu?
+Dialogue: 99,0:07:03.21,0:07:05.18,Dialogue,,0,0,0,,Sunt așa de moi...
+Dialogue: 99,0:07:05.90,0:07:08.97,Dialogue,,0,0,0,,Știu. Le-ai bătut de o sută de ori, nu-i așa?
+Dialogue: 99,0:07:08.97,0:07:12.45,Dialogue,,0,0,0,,Secretul este să fii atent la \Ntemperatură și să nu le bați prea mult.
+Dialogue: 99,0:07:13.63,0:07:16.47,Dialogue,,0,0,0,,Nu trebuie să-mi spui asta. \NEu doar le mănânc.
+Dialogue: 99,0:07:16.47,0:07:18.69,Dialogue,,0,0,0,,Ar trebui să înveți să gătești măcar.
+Dialogue: 99,0:07:19.25,0:07:20.59,Dialogue,,0,0,0,,De ce? Te am pe tine.
+Dialogue: 99,0:07:20.59,0:07:22.59,Dialogue,,0,0,0,,Am devenit cumva soția ta?
+Dialogue: 99,0:07:22.59,0:07:24.98,Dialogue,,0,0,0,,Da, de ce nu?
+Dialogue: 99,0:07:24.98,0:07:26.76,Dialogue,,0,0,0,,Vom conduce dojoul împreună.
+Dialogue: 99,0:07:27.34,0:07:29.97,Dialogue,,0,0,0,,Tu vei fi instructorul, \Niar eu asistentul tău.
+Dialogue: 99,0:07:30.44,0:07:31.86,Dialogue,,0,0,0,,Cum ți se pare, tată?
+Dialogue: 99,0:07:35.26,0:07:37.67,Dialogue,,0,0,0,,Eu prefer ouălele fierte.
+Dialogue: 99,0:07:39.23,0:07:41.33,Dialogue,,0,0,0,,Nu te-am întrebat asta.
+Dialogue: 99,0:07:41.33,0:07:44.26,Dialogue,,0,0,0,,Atunci, vom mânca ouă fierte mâine.
+Dialogue: 99,0:07:46.89,0:07:48.42,Dialogue,,0,0,0,,Dacă vom deveni instructori,
+Dialogue: 99,0:07:49.06,0:07:51.06,Dialogue,,0,0,0,,va trebui să fim niște \Nexemple pentru discipolii noștri.
+Dialogue: 99,0:07:51.06,0:07:53.20,Dialogue,,0,0,0,,Va trebui să le arăți cât de puternic ești.
+Dialogue: 99,0:07:53.71,0:07:56.22,Dialogue,,0,0,0,,Să dai o lovitură la cap bună.
+Dialogue: 99,0:07:56.82,0:07:59.57,Dialogue,,0,0,0,,Ești mai puternic decât mine în luptă.
+Dialogue: 99,0:07:59.57,0:08:01.75,Dialogue,,0,0,0,,Ce? Sunt puternic?
+Dialogue: 99,0:08:01.75,0:08:02.58,Dialogue,,0,0,0,,Pe bune?
+Dialogue: 99,0:08:06.06,0:08:08.81,Dialogue,,0,0,0,,Nu te-am învins niciodată, totuși.
+Dialogue: 99,0:08:11.59,0:08:14.50,Dialogue,,0,0,0,,Chihiro-san, chiar pleci?
+Dialogue: 99,0:08:14.50,0:08:16.30,Dialogue,,0,0,0,,Da, așa cred.
+Dialogue: 99,0:08:16.66,0:08:19.68,Dialogue,,0,0,0,,De ce? Este ceva ce nu-ți convine?
+Dialogue: 99,0:08:19.68,0:08:22.43,Dialogue,,0,0,0,,Nu există nimic ce nu mi-ar putea conveni.
+Dialogue: 99,0:08:22.43,0:08:26.62,Dialogue,,0,0,0,,Am numai recunoștință pentru tine și tatăl tău de când m-ați primit în casa voastră.
+Dialogue: 99,0:08:27.11,0:08:30.85,Dialogue,,0,0,0,,M-a crescut până acum și \Nchiar m-a trimis la colegiu.
+Dialogue: 99,0:08:31.23,0:08:32.15,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:08:32.15,0:08:33.45,Dialogue,,0,0,0,,Dar ce?
+Dialogue: 99,0:08:34.23,0:08:36.45,Dialogue,,0,0,0,,"A fi sau a nu fi."
+Dialogue: 99,0:08:36.45,0:08:38.23,Dialogue,,0,0,0,,Shakespeare din nou?
+Dialogue: 99,0:08:38.23,0:08:40.46,Dialogue,,0,0,0,,Răspunde-mi la întrebare, Chihiro-san.
+Dialogue: 99,0:08:41.05,0:08:43.81,Dialogue,,0,0,0,,Nu ar fi trebuit să-ți spun.
+Dialogue: 99,0:08:45.30,0:08:47.41,Dialogue,,0,0,0,,Doar mă gândesc momentan.
+Dialogue: 99,0:08:47.41,0:08:49.21,Dialogue,,0,0,0,,Ce se va întâmpla cu dojoul?
+Dialogue: 99,0:08:50.86,0:08:52.17,Dialogue,,0,0,0,,Asta era?
+Dialogue: 99,0:08:52.61,0:08:56.00,Dialogue,,0,0,0,,Știam că există un motiv pentru care ești așa persistent astăzi.
+Dialogue: 99,0:08:56.00,0:08:57.32,Dialogue,,0,0,0,,Da, dar...
+Dialogue: 99,0:08:58.14,0:08:59.72,Dialogue,,0,0,0,,Nu m-am decis încă.
+Dialogue: 99,0:09:00.25,0:09:02.48,Dialogue,,0,0,0,,Nu-i spune tatălui tău.
+Dialogue: 99,0:09:03.27,0:09:04.59,Dialogue,,0,0,0,,Chihiro-san!
+Dialogue: 99,0:09:09.70,0:09:10.92,Dialogue,,0,0,0,,Ikuro.
+Dialogue: 99,0:09:10.92,0:09:12.18,Dialogue,,0,0,0,,'Neața, Iku-san.
+Dialogue: 99,0:09:13.16,0:09:15.20,Dialogue,,0,0,0,,Avem prima oră liberă.
+Dialogue: 99,0:09:17.41,0:09:18.76,Dialogue,,0,0,0,,Să mergem la sala de mese.
+Dialogue: 99,0:09:18.76,0:09:19.89,Dialogue,,0,0,0,,Noi am mâncat deja.
+Dialogue: 99,0:09:19.89,0:09:21.70,Dialogue,,0,0,0,,Păi, eu nu!
+Dialogue: 99,0:09:21.70,0:09:24.44,Dialogue,,0,0,0,,Joi dimineață se servește \Nporc prăjit cu ghimbir, nu-i așa?
+Dialogue: 99,0:09:24.44,0:09:26.08,Dialogue,,0,0,0,,Eu mereu mănânc aici.
+Dialogue: 99,0:09:26.37,0:09:28.27,Dialogue,,0,0,0,,Pare un prânz greu pentru stomac.
+Dialogue: 99,0:09:28.27,0:09:30.26,Dialogue,,0,0,0,,Bine, mă bag!
+Dialogue: 99,0:09:30.26,0:09:32.05,Dialogue,,0,0,0,,Ai mâncat deja.
+Dialogue: 99,0:09:32.31,0:09:34.42,Dialogue,,0,0,0,,Noi suntem singurii care \Navem prima oră liberă.
+Dialogue: 99,0:09:34.42,0:09:36.87,Dialogue,,0,0,0,,Du-te la ore, bobocule.
+Dialogue: 99,0:09:38.07,0:09:41.84,Dialogue,,0,0,0,,Nu fi rău, Senpai.
+Dialogue: 99,0:09:47.21,0:09:48.76,Dialogue,,0,0,0,,Ce este acest sunet?
+Dialogue: 99,0:09:48.76,0:09:50.94,Dialogue,,0,0,0,,Îmi acopăr urechile, dar tot îl aud.
+Dialogue: 99,0:09:55.30,0:09:56.36,Dialogue,,0,0,0,,Ikuro!
+Dialogue: 99,0:09:56.95,0:10:00.37,Dialogue,,0,0,0,,C-Chihiro-san...
+Dialogue: 99,0:10:00.86,0:10:01.88,Dialogue,,0,0,0,,Kotetsu?!
+Dialogue: 99,0:10:04.83,0:10:06.33,Dialogue,,0,0,0,,Rezistă!
+Dialogue: 99,0:10:23.59,0:10:24.83,Dialogue,,0,0,0,,Acel sunet...
+Dialogue: 99,0:11:08.68,0:11:11.83,Dialogue,,0,0,0,,"Viața noastră e din plămada viselor făcută."
+Dialogue: 99,0:11:14.97,0:11:17.07,Dialogue,,0,0,0,,"Cu tot ce-i viu pe el, se vor topi,
+Dialogue: 99,0:11:17.07,0:11:19.54,Dialogue,,0,0,0,,Făr-a lăsa vreo urmă, ca și-n această
+Dialogue: 99,0:11:19.54,0:11:22.61,Dialogue,,0,0,0,,Părelnică serbare."
+Dialogue: 99,0:11:23.55,0:11:24.90,Dialogue,,0,0,0,,{\i1}Furtuna{\i0}, nu?
+Dialogue: 99,0:11:25.66,0:11:29.75,Dialogue,,0,0,0,,Ceea ce înseamnă că toate \Nastea sunt doar un vis.
+Dialogue: 99,0:11:30.53,0:11:35.75,Dialogue,,0,0,0,,Destinul, țesut continuu dintr-un \Nfir cu lucruri bune și rele.
+Dialogue: 99,0:11:36.57,0:11:38.43,Dialogue,,0,0,0,,Ce încerci să spui?
+Dialogue: 99,0:11:38.43,0:11:39.65,Dialogue,,0,0,0,,Nu-ți place?
+Dialogue: 99,0:11:40.59,0:11:43.20,Dialogue,,0,0,0,,Acestea sunt cuvinte dinăuntrul tău.
+Dialogue: 99,0:11:44.97,0:11:48.04,Dialogue,,0,0,0,,Chiar și teatrul poate deveni \Nnașpa dacă se întrece limita.
+Dialogue: 99,0:11:48.04,0:11:52.13,Dialogue,,0,0,0,,Îmi place Shakespeare, dar nu-mi place să-l văd întortocheat astfel.
+Dialogue: 99,0:11:54.22,0:11:56.14,Dialogue,,0,0,0,,Omule stacojiu.
+Dialogue: 99,0:11:56.71,0:11:59.27,Dialogue,,0,0,0,,Puteri mari zac în sângele tău.
+Dialogue: 99,0:11:59.79,0:12:03.91,Dialogue,,0,0,0,,Regele închis pe o insulă pustie dintr-o \Nmare îndepărtată își pune în mișcare trupele,
+Dialogue: 99,0:12:04.21,0:12:06.20,Dialogue,,0,0,0,,căutând fără încetare răspunsuri.
+Dialogue: 99,0:12:07.10,0:12:08.91,Dialogue,,0,0,0,,Despre ce vorbești?
+Dialogue: 99,0:12:08.91,0:12:10.40,Dialogue,,0,0,0,,Cine ești?
+Dialogue: 99,0:12:11.15,0:12:12.63,Dialogue,,0,0,0,,Eu sunt Dux.
+Dialogue: 99,0:12:15.25,0:12:17.22,Dialogue,,0,0,0,,Până la sfârșitul timpului,
+Dialogue: 99,0:12:17.22,0:12:22.18,Dialogue,,0,0,0,,vom repeta această \Nscenă eroică iar și iar
+Dialogue: 99,0:12:22.62,0:12:25.81,Dialogue,,0,0,0,,în cuvintele națiunilor \Nîncă necunoscute.
+Dialogue: 99,0:12:38.55,0:12:41.19,Dialogue,,0,0,0,,Inuki, s-a trezit!
+Dialogue: 99,0:12:42.19,0:12:44.64,Dialogue,,0,0,0,,Prințul adormit s-a trezit în sfârșit.
+Dialogue: 99,0:12:44.64,0:12:46.49,Dialogue,,0,0,0,,I-ai dat cumva un sărut magic?
+Dialogue: 99,0:12:46.49,0:12:47.62,Dialogue,,0,0,0,,Da, cum să nu!
+Dialogue: 99,0:12:47.93,0:12:49.36,Dialogue,,0,0,0,,Glumeam doar.
+Dialogue: 99,0:12:49.86,0:12:51.53,Dialogue,,0,0,0,,Verifică cât de conștient este.
+Dialogue: 99,0:12:53.17,0:12:54.79,Dialogue,,0,0,0,,Hei, frumușelule.
+Dialogue: 99,0:12:55.12,0:12:57.25,Dialogue,,0,0,0,,Tu ești ultimul.
+Dialogue: 99,0:12:57.68,0:12:59.55,Dialogue,,0,0,0,,Știi cine ești?
+Dialogue: 99,0:13:00.27,0:13:02.58,Dialogue,,0,0,0,,Eu... Eu...
+Dialogue: 99,0:13:03.24,0:13:06.66,Dialogue,,0,0,0,,Nu-mi spune că ai amnezie.
+Dialogue: 99,0:13:07.07,0:13:08.05,Dialogue,,0,0,0,,Kamina.
+Dialogue: 99,0:13:08.05,0:13:10.09,Dialogue,,0,0,0,,Numele meu este Kamina Chihiro.
+Dialogue: 99,0:13:10.09,0:13:12.18,Dialogue,,0,0,0,,În regulă, e bine.
+Dialogue: 99,0:13:12.73,0:13:15.56,Dialogue,,0,0,0,,Asta spune și cardul tău de student.
+Dialogue: 99,0:13:15.56,0:13:19.14,Dialogue,,0,0,0,,Student în anul doi la Universitatea Jokei, departamentul de engleză...
+Dialogue: 99,0:13:18.24,0:13:20.39,Dialogue Top,,0,0,0,,Ce mi s-a întâmplat—
+Dialogue: 99,0:13:20.39,0:13:22.71,Dialogue,,0,0,0,,Nu mă întrerupe!
+Dialogue: 99,0:13:22.71,0:13:25.59,Dialogue,,0,0,0,,Asta este nepoliticos.
+Dialogue: 99,0:13:25.59,0:13:28.53,Dialogue,,0,0,0,,Și lovitul unui pacient este nepoliticos.
+Dialogue: 99,0:13:29.06,0:13:30.53,Dialogue,,0,0,0,,Mai taci.
+Dialogue: 99,0:13:31.10,0:13:32.95,Dialogue,,0,0,0,,Unde suntem?
+Dialogue: 99,0:13:33.45,0:13:35.64,Dialogue,,0,0,0,,Spitalul Universității Jokei.
+Dialogue: 99,0:13:35.64,0:13:37.96,Dialogue,,0,0,0,,Eu sunt medicul care se \Nocupă de tine, Akaya Inuki.
+Dialogue: 99,0:13:38.51,0:13:40.24,Dialogue,,0,0,0,,Aia este Sakiyama Koume.
+Dialogue: 99,0:13:40.24,0:13:42.84,Dialogue,,0,0,0,,Nu vorbi așa cu mine.
+Dialogue: 99,0:13:42.84,0:13:47.87,Dialogue,,0,0,0,,Deci, Prințule adormit, \Nte-ai trezit după cinci luni.
+Dialogue: 99,0:13:48.30,0:13:49.35,Dialogue,,0,0,0,,Știai asta?
+Dialogue: 99,0:13:49.35,0:13:51.65,Dialogue,,0,0,0,,Cinci luni?! Nu vorbești serios, nu?
+Dialogue: 99,0:13:52.21,0:13:55.67,Dialogue,,0,0,0,,Majoritatea oamenilor s-au trezit în decursului unei săptămâni.
+Dialogue: 99,0:13:56.14,0:13:58.17,Dialogue,,0,0,0,,Acum, ce ai visat?
+Dialogue: 99,0:13:58.17,0:13:59.31,Dialogue,,0,0,0,,Visat?
+Dialogue: 99,0:13:59.31,0:14:00.86,Dialogue,,0,0,0,,Vise din altă lume.
+Dialogue: 99,0:14:01.62,0:14:04.80,Dialogue,,0,0,0,,Vise în care devii altceva.
+Dialogue: 99,0:14:04.80,0:14:06.90,Dialogue,,0,0,0,,Altceva?
+Dialogue: 99,0:14:07.23,0:14:09.11,Dialogue,,0,0,0,,Păi, despre ce vorbești?
+Dialogue: 99,0:14:09.41,0:14:14.16,Dialogue,,0,0,0,,Mulți oameni au vorbit despre vise după ce și-au recăpătat conștiința piedută în Marea Prăbușire.
+Dialogue: 99,0:14:14.61,0:14:16.12,Dialogue,,0,0,0,,"Marea Prăbușire?"
+Dialogue: 99,0:14:16.12,0:14:18.87,Dialogue,,0,0,0,,Ar fi mai rapid dacă \Nai vedea cu ochii tăi.
+Dialogue: 99,0:14:34.79,0:14:37.31,Dialogue,,0,0,0,,Ce este asta?
+Dialogue: 99,0:14:37.66,0:14:40.00,Dialogue,,0,0,0,,Tokyo-ul după Marea Prăbușire.
+Dialogue: 99,0:14:41.03,0:14:42.88,Dialogue,,0,0,0,,Ce reprezintă această Mare Prăbușire?
+Dialogue: 99,0:14:42.88,0:14:47.12,Dialogue,,0,0,0,,Ai auzit cu siguranță acel \Nsunet ciudat înainte să leșini.
+Dialogue: 99,0:14:47.12,0:14:51.15,Dialogue,,0,0,0,,Încă nu știm ce a fost.
+Dialogue: 99,0:14:51.87,0:14:55.97,Dialogue,,0,0,0,,Când ne-am trezit, acea \Nplantă uriașă crescuse
+Dialogue: 99,0:14:55.97,0:14:58.88,Dialogue,,0,0,0,,și eram învăluiți în acea ceață roșie.
+Dialogue: 99,0:14:59.78,0:15:04.46,Dialogue,,0,0,0,,Nu putem afla ce s-a \Nîntâmplat în acea săptămână.
+Dialogue: 99,0:15:05.01,0:15:06.84,Dialogue,,0,0,0,,Asta este Marea Prăbușire.
+Dialogue: 99,0:15:07.21,0:15:09.40,Dialogue,,0,0,0,,Ce este acea plantă?
+Dialogue: 99,0:15:09.40,0:15:11.39,Dialogue,,0,0,0,,Ce s-a întâmplat cu Tokyo-ul?!
+Dialogue: 99,0:15:11.39,0:15:13.76,Dialogue,,0,0,0,,Vai, mai taci odată!
+Dialogue: 99,0:15:14.02,0:15:18.22,Dialogue,,0,0,0,,Este prea greu de explicat. \NÎntreabă-ți prietenul.
+Dialogue: 99,0:15:19.52,0:15:20.95,Dialogue,,0,0,0,,Poți intra acum.
+Dialogue: 99,0:15:23.02,0:15:26.02,Dialogue,,0,0,0,,Slavă Domnului! \NCât mă bucur că ești bine!
+Dialogue: 99,0:15:26.46,0:15:28.89,Dialogue,,0,0,0,,Nu voiau să mă lase să te văd.
+Dialogue: 99,0:15:29.32,0:15:32.18,Dialogue,,0,0,0,,Iar asistenta ta este \Nincredibil de nepoliticoasă.
+Dialogue: 99,0:15:32.18,0:15:33.66,Dialogue,,0,0,0,,Ce-ai spus?
+Dialogue: 99,0:15:34.05,0:15:35.99,Dialogue,,0,0,0,,Dacă te-ar fi disecat,
+Dialogue: 99,0:15:35.99,0:15:38.85,Dialogue,,0,0,0,,jur că te-aș fi răzbunat \Nși apoi m-aș fi sinucis.
+Dialogue: 99,0:15:38.85,0:15:41.83,Dialogue,,0,0,0,,Din ce eră provii mai exact?
+Dialogue: 99,0:15:41.83,0:15:44.02,Dialogue,,0,0,0,,Mereu a fost așa.
+Dialogue: 99,0:15:44.02,0:15:47.09,Dialogue,,0,0,0,,Mi-a stat în picioare în fiecare zi.
+Dialogue: 99,0:15:47.09,0:15:49.42,Dialogue,,0,0,0,,Scuze. Ți-ai făcut griji pentru mine.
+Dialogue: 99,0:15:54.62,0:15:56.65,Dialogue,,0,0,0,,Sunt surprins că poți merge.
+Dialogue: 99,0:15:57.16,0:16:01.27,Dialogue,,0,0,0,,Toți cei care au leșinat în timpul Marii \NPrăbușiri sunt suprinzător de sănătoși.
+Dialogue: 99,0:16:02.09,0:16:04.85,Dialogue,,0,0,0,,Nu mi-a venit să cred că \Nam dormit o săptămână.
+Dialogue: 99,0:16:07.05,0:16:10.74,Dialogue,,0,0,0,,Felicitări pentru recuperare, \NKamina Chihiro-kun.
+Dialogue: 99,0:16:10.74,0:16:12.94,Dialogue,,0,0,0,,Kakihara-san.
+Dialogue: 99,0:16:12.94,0:16:14.99,Dialogue,,0,0,0,,Ce faci aici?
+Dialogue: 99,0:16:15.34,0:16:18.45,Dialogue,,0,0,0,,Jurnaliștii au un nas ascuțit.
+Dialogue: 99,0:16:18.76,0:16:23.50,Dialogue,,0,0,0,,"Perioada de după Marea Prăbușire, ultima persoană în comă își revine."
+Dialogue: 99,0:16:23.78,0:16:25.96,Dialogue,,0,0,0,,Acesta este titlul.
+Dialogue: 99,0:16:27.12,0:16:29.17,Dialogue,,0,0,0,,De ce ai dormit pentru cinci luni?
+Dialogue: 99,0:16:29.17,0:16:30.01,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:16:30.01,0:16:31.98,Dialogue,,0,0,0,,Nu ai doborât destui oameni cu tine?
+Dialogue: 99,0:16:31.98,0:16:35.51,Dialogue,,0,0,0,,Sau nu este distractiv \Npână nu-i omori tu însuți?
+Dialogue: 99,0:16:36.02,0:16:38.47,Dialogue,,0,0,0,,Cum ai făcut-o acum 13 ani.
+Dialogue: 99,0:16:41.03,0:16:42.60,Dialogue,,0,0,0,,De ajuns!
+Dialogue: 99,0:16:42.91,0:16:45.72,Dialogue,,0,0,0,,De ce îl urmărești \Nmereu pe Chihiro-san?
+Dialogue: 99,0:16:46.05,0:16:49.23,Dialogue,,0,0,0,,Faci asta să pară un lucru rău, \Ndar este treaba mea.
+Dialogue: 99,0:16:49.55,0:16:52.13,Dialogue,,0,0,0,,Voi lăsa asta așa deocamdată,
+Dialogue: 99,0:16:52.13,0:16:55.04,Dialogue,,0,0,0,,incluzând adevărul care \Na avut loc acum 13 ani.
+Dialogue: 99,0:17:00.72,0:17:03.00,Dialogue,,0,0,0,,Vai, mă sperii.
+Dialogue: 99,0:17:04.17,0:17:05.61,Dialogue,,0,0,0,,Să mergem, Tsubasa.
+Dialogue: 99,0:17:07.67,0:17:11.54,Dialogue,,0,0,0,,{\i1}La cinci luni după Marea Prăbușire, \Ndemonstrații pentru salvarea orașului Tokyo
+Dialogue: 99,0:17:11.54,0:17:15.41,Dialogue,,0,0,0,,{\i1}sunt ținute în orașul Osaka.
+Dialogue: 99,0:17:16.01,0:17:19.28,Dialogue Top,,0,0,0,,{\i1}Guvernul trimite trilioane \Nde yeni pentru mâncare
+Dialogue: 99,0:17:19.28,0:17:23.43,Dialogue Top,,0,0,0,,{\i1}și asistență medicală în districtul \Nspecial și autonom din Tokyo,
+Dialogue: 99,0:17:20.52,0:17:22.52,Dialogue,,0,0,0,,Districtul special și autonom?
+Dialogue: 99,0:17:22.92,0:17:24.94,Dialogue,,0,0,0,,Așa numesc Tokyo-ul acum.
+Dialogue: 99,0:17:23.43,0:17:25.86,Dialogue Top,,0,0,0,,{\i1}oricum, încă rămân multe probleme...
+Dialogue: 99,0:17:24.94,0:17:28.04,Dialogue,,0,0,0,,Nimeni nu poate ieși din \Ncauza ceții roșiatice.
+Dialogue: 99,0:17:28.04,0:17:29.30,Dialogue,,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:17:29.64,0:17:31.27,Dialogue,,0,0,0,,Acea este ceața roșie.
+Dialogue: 99,0:17:32.22,0:17:33.03,Dialogue,,0,0,0,,O poți vedea?
+Dialogue: 99,0:17:35.23,0:17:40.44,Dialogue,,0,0,0,,Sunt colonii peste tot, \Ndar acoperă întregul Tokyo.
+Dialogue: 99,0:17:40.78,0:17:42.50,Dialogue,,0,0,0,,Ceața roșie...
+Dialogue: 99,0:17:44.87,0:17:48.42,Dialogue,,0,0,0,,Am auzit că puteai intra \Nși ieși la început, dar...
+Dialogue: 99,0:17:48.42,0:17:50.88,Dialogue,,0,0,0,,Acum, toată lumea stă departe.
+Dialogue: 99,0:17:50.88,0:17:54.55,Dialogue,,0,0,0,,Se spune că nimeni nu a reușit \Nsă treacă prin ceața roșie.
+Dialogue: 99,0:17:54.55,0:17:57.55,Dialogue,,0,0,0,,Era deja astfel când m-am trezit.
+Dialogue: 99,0:17:57.83,0:17:59.80,Dialogue,,0,0,0,,A fost multă confuzie.
+Dialogue: 99,0:18:00.31,0:18:02.48,Dialogue,,0,0,0,,Nu poți pleca,
+Dialogue: 99,0:18:02.48,0:18:04.44,Dialogue,,0,0,0,,dar energia electrică și \Napa încă funcționează.
+Dialogue: 99,0:18:04.44,0:18:06.16,Dialogue,,0,0,0,,Acasă este locul unde poți trăi.
+Dialogue: 99,0:18:06.91,0:18:08.28,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:18:10.55,0:18:12.37,Dialogue,,0,0,0,,Abia ce ai ieșit din spital.
+Dialogue: 99,0:18:12.86,0:18:15.61,Dialogue,,0,0,0,,Ar trebui să dormi \Npână ajungem acasă.
+Dialogue: 99,0:18:15.61,0:18:16.82,Dialogue,,0,0,0,,Ai dreptate.
+Dialogue: 99,0:18:18.19,0:18:19.66,Dialogue,,0,0,0,,Asta voi face.
+Dialogue: 99,0:18:28.22,0:18:29.70,Dialogue,,0,0,0,,Dojoul?
+Dialogue: 99,0:18:29.70,0:18:31.55,Dialogue,,0,0,0,,Ce înseamnă asta?
+Dialogue: 99,0:18:34.94,0:18:36.09,Dialogue,,0,0,0,,Domnule!
+Dialogue: 99,0:18:41.55,0:18:42.71,Dialogue,,0,0,0,,Ce a fost asta?
+Dialogue: 99,0:18:43.75,0:18:44.58,Dialogue,,0,0,0,,Ești bine?
+Dialogue: 99,0:18:46.45,0:18:47.35,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:18:49.01,0:18:50.35,Dialogue,,0,0,0,,Cum este tatăl tău?
+Dialogue: 99,0:18:50.77,0:18:53.35,Dialogue,,0,0,0,,Tatăl meu? Este foarte bine.
+Dialogue: 99,0:19:04.94,0:19:07.14,Dialogue,,0,0,0,,Ai ajuns în sfârșit acasă.
+Dialogue: 99,0:19:07.45,0:19:09.42,Dialogue,,0,0,0,,Mă simt ciudat.
+Dialogue: 99,0:19:09.42,0:19:12.08,Dialogue,,0,0,0,,De parcă plecasem azi-dimineață.
+Dialogue: 99,0:19:16.34,0:19:17.46,Dialogue,,0,0,0,,Acest sunet...
+Dialogue: 99,0:19:20.77,0:19:21.66,Dialogue,,0,0,0,,Ce este asta?
+Dialogue: 99,0:19:23.85,0:19:26.47,Dialogue,,0,0,0,,Mă simt de parcă îmi arde corpul...
+Dialogue: 99,0:19:44.97,0:19:47.21,Dialogue,,0,0,0,,El creează acest sunet?
+Dialogue: 99,0:20:09.43,0:20:10.52,Dialogue,,0,0,0,,Tată?
+Dialogue: 99,0:20:15.32,0:20:16.44,Dialogue,,0,0,0,,Fugiți!
+Dialogue: 99,0:20:16.91,0:20:18.64,Dialogue,,0,0,0,,Instructorul...
+Dialogue: 99,0:20:20.48,0:20:22.76,Dialogue,,0,0,0,,Acela este... tatăl tău?
+Dialogue: 99,0:20:22.76,0:20:24.95,Dialogue,,0,0,0,,La naiba, ce se petrece?!
+Dialogue: 99,0:20:36.60,0:20:37.52,Dialogue,,0,0,0,,Chihiro-san!
+Dialogue: 99,0:20:59.51,0:21:02.37,Dialogue,,0,0,0,,{\i1}Nu-ți poți învinge adversarii \Ncu lovituri în zona antebrațului.
+Dialogue: 99,0:21:06.28,0:21:08.03,Dialogue,,0,0,0,,Chihiro-san!
 Dialogue: 0,0:04:08.72,0:04:08.77,KazuyaShuuSign,,0,0,0,,{\fnUn Batang\b1\an8\fsp1\pos(633,555.3)\bord0\blur10\fs60\3c&H0503D4&\c&H0503D4&\fscx100.3\fscy100.3}The Crimson King
 Dialogue: 1,0:04:08.72,0:04:08.77,KazuyaShuuSign,,0,0,0,,{\fnUn Batang\b1\an8\fsp1\pos(633,555.3)\blur7\fs60\fscx100.3\fscy100.3\c&HF1FAF9&}The Crimson King
 Dialogue: 0,0:04:08.77,0:04:08.81,KazuyaShuuSign,,0,0,0,,{\fnUn Batang\b1\an8\fsp1\pos(633,555.3)\bord1\blur5\fs60\3c&H0503D4&\c&H0503D4&\fscx100.3\fscy100.3}The Crimson King

@@ -37,309 +37,309 @@ Style: ED - ROMAJI,Kozuka Mincho Pr6N M-EN,75,&H00FFFFFF,&HFF0000FF,&H00000000,&
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.77,0:00:05.79,Default,,0,0,0,,Mișcă sau te calc în picioare!
-Dialogue: 100,0:00:07.02,0:00:09.36,Default,,0,0,0,,Nu! Nu te apropia!
-Dialogue: 100,0:00:12.29,0:00:14.42,Default-Italics,,0,0,0,,Oameni care mănâncă alți oameni?
-Dialogue: 100,0:00:14.42,0:00:15.99,Default-Italics,,0,0,0,,Nu e nimic amuzant în asta.
-Dialogue: 100,0:00:16.65,0:00:19.39,Default,,0,0,0,,Asta nu e adevărat. \NE imposibil să fie adevărat.
-Dialogue: 100,0:00:20.43,0:00:23.21,Default,,0,0,0,,Nu-i așa, mami? \NAm dreptate, nu?
-Dialogue: 100,0:00:27.23,0:00:29.71,Default,,0,0,0,,Unde te duci, Takagi?
-Dialogue: 100,0:00:30.00,0:00:32.05,Default,,0,0,0,,Ce? Aveai altceva de făcut?
-Dialogue: 100,0:00:32.43,0:00:35.18,Default,,0,0,0,,Păi, mă gândeam să merg în cancelarie...
-Dialogue: 100,0:00:35.18,0:00:36.79,Default,,0,0,0,,Asta e stupid.
-Dialogue: 100,0:00:36.79,0:00:40.34,Default,,0,0,0,,Ce crezi că ar putea face profesorii noștri?
-Dialogue: 100,0:00:40.34,0:00:42.28,Default,,0,0,0,,Dar, Takagi...
-Dialogue: 100,0:00:42.28,0:00:43.97,Default,,0,0,0,,În această...
-Dialogue: 100,0:00:45.41,0:00:46.48,Default,,0,0,0,,În această situație...
-Dialogue: 100,0:00:48.78,0:00:50.53,Default,,0,0,0,,Am o întrebare.
-Dialogue: 100,0:00:51.29,0:00:52.24,Default,,0,0,0,,C-Ce anume?
-Dialogue: 100,0:00:53.10,0:00:56.32,Default,,0,0,0,,Vrei să mori? Sau vrei să trăiești?
-Dialogue: 100,0:00:57.32,0:00:58.36,Default,,0,0,0,,Păi, ei bine...
-Dialogue: 100,0:01:00.57,0:01:04.51,Default,,0,0,0,,Privește. Sunt câteva persoane la ușa cancelariei care au avut aceeași idee ca si tine.
-Dialogue: 100,0:01:03.66,0:01:05.54,Default-Alt,,0,0,0,,Domnilor profesori!
-Dialogue: 100,0:01:09.59,0:01:11.44,Default,,0,0,0,,Eu vreau să trăiesc!
-Dialogue: 100,0:01:11.44,0:01:12.34,Default,,0,0,0,,Ai înțeles?
-Dialogue: 100,0:01:15.06,0:01:16.41,Default,,0,0,0,,Așa că mișcă-ți fundul!
-Dialogue: 100,0:01:17.24,0:01:18.14,Default,,0,0,0,,Am înțeles!
-Dialogue: 100,0:03:08.17,0:03:08.95,Default-Italics,,0,0,0,,Haide...
-Dialogue: 100,0:03:09.68,0:03:10.85,Default-Italics,,0,0,0,,Takashi, te implor...
-Dialogue: 100,0:03:12.08,0:03:15.52,Default-Italics,,0,0,0,,Vreau să mor fiind eu însumi.
-Dialogue: 100,0:03:16.39,0:03:17.39,Default-Italics,,0,0,0,,Nu se va...
-Dialogue: 100,0:03:17.73,0:03:19.76,Default-Italics,,0,0,0,,Nu se va transforma în unul din ei!
-Dialogue: 100,0:03:20.09,0:03:21.26,Default-Italics,,0,0,0,,Oprește-te!
-Dialogue: 100,0:03:31.39,0:03:32.40,Default,,0,0,0,,Ce este?
-Dialogue: 100,0:03:33.02,0:03:36.62,Default,,0,0,0,,Ei bine, vreau să știu ce naiba se petrece.
-Dialogue: 100,0:03:36.62,0:03:38.17,Default,,0,0,0,,Asta a fost destul de direct.
-Dialogue: 100,0:03:38.17,0:03:39.69,Default,,0,0,0,,De ce aș minți?
-Dialogue: 100,0:03:50.12,0:03:54.63,Default,,0,0,0,,Îmi poți împrumuta puțin telefonul? Vreau să încerc să-l sun pe tata.
-Dialogue: 100,0:03:55.31,0:03:59.67,Default,,0,0,0,,Știu că este polițist, dar cum îl vei contacta \Ncând linia de urgența a poliției e ocupată?
-Dialogue: 100,0:04:00.32,0:04:04.42,Default,,0,0,0,,Mi-a lăsat un număr privat pe care nu ar trebui să-l folosesc în mod normal.
-Dialogue: 100,0:04:08.11,0:04:09.10,Default,,0,0,0,,Sună!
-Dialogue: 100,0:04:09.10,0:04:09.78,Default,,0,0,0,,Tată?
-Dialogue: 100,0:04:09.78,0:04:11.14,Default-Italics,,0,0,0,,Alo?
-Dialogue: 100,0:04:11.14,0:04:13.37,Default-Italics,,0,0,0,,Acest număr de telefonul... \Neste al lui Takashi?
-Dialogue: 100,0:04:13.37,0:04:14.40,Default,,0,0,0,,Tată?
-Dialogue: 100,0:04:14.40,0:04:16.29,Default,,0,0,0,,Tată, ascultă. Suntem la \Nșcoală în acest moment...
-Dialogue: 100,0:04:15.10,0:04:16.71,Default-Alt,,0,0,0,,Alo? Takashi?
-Dialogue: 100,0:04:16.71,0:04:18.43,Default-Italics,,0,0,0,,Probabil ai acest număr de la Rei.
-Dialogue: 100,0:04:18.43,0:04:20.13,Default-Italics,,0,0,0,,Ea este bine?
-Dialogue: 100,0:04:20.13,0:04:21.19,Default-Italics,,0,0,0,,Semnalul meu...
-Dialogue: 100,0:04:21.19,0:04:23.95,Default,,0,0,0,,Tată?! Nu mă poți auzi?!
-Dialogue: 100,0:04:23.95,0:04:27.66,Default-Italics,,0,0,0,,Ascultă, întregul oraș este \Nîntr-o stare de panică.
-Dialogue: 100,0:04:26.22,0:04:27.66,Default-Alt,,0,0,0,,Tată? Tată!
-Dialogue: 100,0:04:30.09,0:04:30.95,Default-Italics,,0,0,0,,Bine?
-Dialogue: 100,0:04:30.95,0:04:32.79,Default-Italics,,0,0,0,,Întregul oraș este \Nîntr-o stare de panică!
-Dialogue: 100,0:04:32.79,0:04:33.81,Default-Italics,,0,0,0,,Trebuie să vă evacuați...
-Dialogue: 100,0:04:38.19,0:04:39.59,Default,,0,0,0,,Fără semnal?
-Dialogue: 100,0:04:39.59,0:04:41.95,Default,,0,0,0,,Dar tocmai ce sunase!
-Dialogue: 100,0:04:41.95,0:04:43.84,Default,,0,0,0,,De ce? De ce?!
-Dialogue: 100,0:04:43.84,0:04:44.84,Default,,0,0,0,,Rei!
-Dialogue: 100,0:04:48.40,0:04:49.56,Default,,0,0,0,,Takashi...
-Dialogue: 100,0:04:50.43,0:04:51.34,Default,,0,0,0,,Tata...
-Dialogue: 100,0:04:52.73,0:04:57.78,Default,,0,0,0,,Nici măcar nu m-a recunoscut...
-Dialogue: 100,0:05:01.18,0:05:05.33,Default,,0,0,0,,T-Takagi, ai cumva telefonul la tine? Știu că e împotriva regulilor, dar...
-Dialogue: 100,0:05:05.33,0:05:07.53,Default,,0,0,0,,Sunt o elevă de onoare!
-Dialogue: 100,0:05:07.86,0:05:10.80,Default,,0,0,0,,Chiar dacă l-aș avea, pe cine aș suna?
-Dialogue: 100,0:05:11.51,0:05:13.47,Default,,0,0,0,,Păi, ei bine, la poliție...
-Dialogue: 100,0:05:13.47,0:05:15.55,Default,,0,0,0,,Tu chiar ești prost.
-Dialogue: 100,0:05:15.55,0:05:17.05,Default,,0,0,0,,Privește cât de gravă e situația.
-Dialogue: 100,0:05:17.05,0:05:19.47,Default,,0,0,0,,Nu crezi că a încercat \Ncineva deja să sune la poliție?
-Dialogue: 100,0:05:19.47,0:05:22.13,Default,,0,0,0,,Nu am auzit nicio sirenă până acum, nu?
-Dialogue: 100,0:05:23.22,0:05:25.14,Default,,0,0,0,,Înțelegi acum?
-Dialogue: 100,0:05:25.14,0:05:27.97,Default,,0,0,0,,Întregul oraș e cuprins de haos?
-Dialogue: 100,0:05:27.97,0:05:29.24,Default,,0,0,0,,Probabil.
-Dialogue: 100,0:05:29.24,0:05:31.56,Default,,0,0,0,,Poliția a fost trimisă deja, probabil.
-Dialogue: 100,0:05:31.56,0:05:32.97,Default,,0,0,0,,Dar uită-te la acest loc...
-Dialogue: 100,0:05:33.41,0:05:35.58,Default,,0,0,0,,Ar trebui să sunăm la... \NForțele Armate?
-Dialogue: 100,0:05:35.58,0:05:37.41,Default,,0,0,0,,Nu m-aș baza nici pe ei.
-Dialogue: 100,0:05:37.41,0:05:42.71,Default,,0,0,0,,Știu că nu pot fi trimiși pentru apărare sau securitate publică, fără ordine de la guvern, dar...
-Dialogue: 100,0:05:42.71,0:05:44.03,Default,,0,0,0,,Nu mă refer la asta!
-Dialogue: 100,0:05:44.49,0:05:46.33,Default,,0,0,0,,Atunci, ce încerci să...
-Dialogue: 100,0:05:46.92,0:05:48.49,Default,,0,0,0,,Sunt în aceeași situație precum poliția.
-Dialogue: 100,0:05:49.18,0:05:53.54,Default,,0,0,0,,Haide să presupunem că oameni din toată Japonia se mănâncă reciproc. Ce crezi că se întâmplă?
-Dialogue: 100,0:05:53.62,0:05:57.63,Default,,0,0,0,,{\1c&H000000&\t(0,525,\1c&HFFFFFF&)}Ascultă, sunt 130 de milioane \Nde oameni în Japonia.
-Dialogue: 100,0:05:57.63,0:06:00.63,Default,,0,0,0,,Din cei 130 de milioane, câți crezi \Ncă fac parte din Forțele Armate?
-Dialogue: 100,0:06:00.63,0:06:04.68,Default,,0,0,0,,Furthermore, who's to say\Nthat this hasn't affected the SDF?
-Dialogue: 100,0:06:07.38,0:06:09.39,Default,,0,0,0,,Haide să ieșim de aici.
-Dialogue: 100,0:06:10.41,0:06:11.66,Default,,0,0,0,,B-Bine!
-Dialogue: 100,0:06:12.65,0:06:16.54,Default-Italics,,0,0,0,,Sigh. I'm stuck with fatass here since Komuro ran off.
-Dialogue: 100,0:06:16.54,0:06:18.64,Default-Italics,,0,0,0,,What a drag.
-Dialogue: 100,0:06:19.44,0:06:20.52,Default,,0,0,0,,O-Okada...
-Dialogue: 100,0:06:24.66,0:06:25.31,Default,,0,0,0,,Okada?
-Dialogue: 100,0:06:29.87,0:06:31.03,Default,,0,0,0,,Crap!
-Dialogue: 100,0:06:31.74,0:06:33.53,Default,,0,0,0,,Sorry! Sorry!
-Dialogue: 100,0:06:35.30,0:06:37.61,Default,,0,0,0,,Sorry! Sorry!
-Dialogue: 100,0:06:37.61,0:06:39.21,Default,,0,0,0,,Whatever shall I do?
-Dialogue: 100,0:06:37.61,0:06:39.71,Default-Alt,,0,0,0,,Sorry! Sorry! Sorry!
-Dialogue: 100,0:06:39.71,0:06:40.92,Default,,0,0,0,,Sorry! Sorry!
-Dialogue: 100,0:06:40.92,0:06:41.39,Default,,0,0,0,,Sorry!
-Dialogue: 100,0:06:41.39,0:06:42.45,Default,,0,0,0,,I'm sorry!
-Dialogue: 100,0:06:42.45,0:06:46.54,Default,,0,0,0,,I can't get a hold of the police or the fire department.
-Dialogue: 100,0:06:46.54,0:06:49.90,Default,,0,0,0,,I could treat people, but they're screwed once they get bitten,
-Dialogue: 100,0:06:49.90,0:06:52.20,Default,,0,0,0,,and they come back to life after they die.
-Dialogue: 100,0:06:52.20,0:06:55.51,Default,,0,0,0,,I feel like I'm in one of those movies that weirdos like.
-Dialogue: 100,0:06:56.00,0:06:58.18,Default,,0,0,0,,Is it really that amazing?
-Dialogue: 100,0:06:58.18,0:07:00.26,Default,,0,0,0,,Let's go, Shizuka-sensei!
-Dialogue: 100,0:07:00.26,0:07:01.66,Default,,0,0,0,,Hold on a sec.
-Dialogue: 100,0:07:01.66,0:07:03.93,Default,,0,0,0,,I should take whatever I can carry.
-Dialogue: 100,0:07:04.50,0:07:05.52,Default,,0,0,0,,Please hurry!
-Dialogue: 100,0:07:09.05,0:07:09.78,Default,,0,0,0,,Shizuka-sensei!
-Dialogue: 100,0:07:12.62,0:07:13.41,Default,,0,0,0,,Shizuka-sensei!
-Dialogue: 100,0:07:13.41,0:07:15.12,Default,,0,0,0,,Run away! Quickly!
-Dialogue: 100,0:07:17.11,0:07:20.04,Default,,0,0,0,,Uh... What'd you say your name was again?
-Dialogue: 100,0:07:20.97,0:07:21.92,Default,,0,0,0,,Huh?
-Dialogue: 100,0:07:26.50,0:07:28.26,Default,,0,0,0,,H-Hey now...
-Dialogue: 100,0:07:46.94,0:07:50.08,Default,,0,0,0,,I am Busujima Saeko, captain of the Kendo Club.
-Dialogue: 100,0:07:50.77,0:07:52.84,Default,,0,0,0,,Tell me, 2nd year, what is your name?
-Dialogue: 100,0:07:54.57,0:07:56.91,Default,,0,0,0,,Ishii... Kazu...
-Dialogue: 100,0:07:58.97,0:08:02.16,Default,,0,0,0,,Ishii-kun, you fought bravely to protect Dr. Marikawa.
-Dialogue: 100,0:08:02.16,0:08:04.67,Default,,0,0,0,,Your courage is nothing short of praiseworthy.
-Dialogue: 100,0:08:05.85,0:08:08.49,Default,,0,0,0,,Do you know what happens to\Nyou once you have been bitten?
-Dialogue: 100,0:08:09.21,0:08:11.82,Default,,0,0,0,,Do you want your parents or friends to see you like that?
-Dialogue: 100,0:08:12.35,0:08:13.65,Default,,0,0,0,,If you do not,
-Dialogue: 100,0:08:13.65,0:08:16.19,Default,,0,0,0,,then I shall end your life for you here and now.
-Dialogue: 100,0:08:16.82,0:08:18.51,Default,,0,0,0,,Though, I've never killed anyone before.
-Dialogue: 100,0:08:21.62,0:08:22.87,Default,,0,0,0,,P-Please...
-Dialogue: 100,0:08:24.70,0:08:25.90,Default,,0,0,0,,W-Wait a sec, what—
-Dialogue: 100,0:08:25.90,0:08:28.19,Default,,0,0,0,,You're the school nurse, I got it, but stay out of it.
-Dialogue: 100,0:08:28.90,0:08:33.82,Default,,0,0,0,,One of our duties as women is to protect a man's pride.
-Dialogue: 100,0:08:57.57,0:09:01.27,Default,,0,0,0,,What do we do now that we're here, Takagi-san?
-Dialogue: 100,0:09:01.27,0:09:03.32,Default,,0,0,0,,Some of it does look useful, but—
-Dialogue: 100,0:09:03.32,0:09:04.81,Default,,0,0,0,,Shut up, you fat nerd.
-Dialogue: 100,0:09:04.81,0:09:07.28,Default,,0,0,0,,Lock the door so they don't come in here!
-Dialogue: 100,0:09:08.74,0:09:10.44,Default,,0,0,0,,I-It's locked!
-Dialogue: 100,0:09:11.89,0:09:13.74,Default,,0,0,0,,Are we going to use these as weapons?
-Dialogue: 100,0:09:13.74,0:09:18.43,Default,,0,0,0,,You're one of those so-called military nerds or gun freaks, aren't you?
-Dialogue: 100,0:09:18.43,0:09:22.70,Default,,0,0,0,,Haven't you seen an action movie with one of these?
-Dialogue: 100,0:09:23.43,0:09:24.75,Default,,0,0,0,,A nail gun?
-Dialogue: 100,0:09:25.60,0:09:26.62,Default,,0,0,0,,It's gas powered?
-Dialogue: 100,0:09:26.62,0:09:28.23,Default,,0,0,0,,Well duh!
-Dialogue: 100,0:09:28.23,0:09:31.84,Default,,0,0,0,,You wouldn't be able to carry it around if it\Nhad a compressor like in the movies, would you?
-Dialogue: 100,0:09:32.14,0:09:34.23,Default,,0,0,0,,Jeez, so stupid.
-Dialogue: 100,0:09:34.23,0:09:35.90,Default,,0,0,0,,Do you like movies?
-Dialogue: 100,0:09:35.90,0:09:37.56,Default,,0,0,0,,Don't be so stupid!
-Dialogue: 100,0:09:37.56,0:09:40.35,Default,,0,0,0,,I'm an all-knowing genius!
-Dialogue: 100,0:09:42.72,0:09:47.06,Default,,0,0,0,,We have an extra gas canister and extra nails here. Nothing to worry about.
-Dialogue: 100,0:09:47.06,0:09:49.50,Default,,0,0,0,,How could you not be worried?
-Dialogue: 100,0:09:49.50,0:09:50.11,Default,,0,0,0,,They're coming!
-Dialogue: 100,0:09:50.54,0:09:52.02,Default,,0,0,0,,They're coming from the hallway!
-Dialogue: 100,0:09:53.35,0:09:55.33,Default,,0,0,0,,I'd say it weighs 9 pounds.
-Dialogue: 100,0:09:55.33,0:09:57.82,Default,,0,0,0,,On par with an older assault rifle.
-Dialogue: 100,0:09:57.82,0:10:01.46,Default,,0,0,0,,But my stance will be messed up. It needs a sight.
-Dialogue: 100,0:10:01.46,0:10:03.51,Default,,0,0,0,,Hey, are you ignoring me?!
-Dialogue: 100,0:10:08.87,0:10:10.13,Default,,0,0,0,,Hirano?
-Dialogue: 100,0:10:16.81,0:10:18.91,Default,,0,0,0,,No!
-Dialogue: 100,0:10:23.71,0:10:24.77,Default,,0,0,0,,Gotcha!
-Dialogue: 100,0:10:25.45,0:10:26.34,Default,,0,0,0,,Hirano?
-Dialogue: 100,0:10:28.89,0:10:29.85,Default,,0,0,0,,Ready?
-Dialogue: 100,0:10:30.43,0:10:31.15,Default,,0,0,0,,Ready!
-Dialogue: 100,0:10:32.29,0:10:33.02,Default,,0,0,0,,Turn it on!
-Dialogue: 100,0:10:39.27,0:10:39.99,Default,,0,0,0,,Crap.
-Dialogue: 100,0:10:44.24,0:10:48.12,Default,,0,0,0,,Could you put the drill and nails over there in a bag?
-Dialogue: 100,0:10:48.12,0:10:49.63,Default,,0,0,0,,Excuse me?!
-Dialogue: 100,0:10:49.63,0:10:51.92,Default,,0,0,0,,Who gave you the right to order me around?!
-Dialogue: 100,0:10:54.97,0:10:56.26,Default,,0,0,0,,Pretty please?
-Dialogue: 100,0:10:59.01,0:11:01.05,Default,,0,0,0,,Okay.
-Dialogue: 100,0:11:01.05,0:11:02.06,Default,,0,0,0,,Takashi!
-Dialogue: 100,0:11:02.64,0:11:04.05,Default,,0,0,0,,It's okay.
-Dialogue: 100,0:11:05.15,0:11:07.09,Default,,0,0,0,,They sound happy to see us.
-Dialogue: 100,0:11:07.72,0:11:10.44,Default,,0,0,0,,You' all feel great, don't you?
-Dialogue: 100,0:11:10.83,0:11:12.15,Default,,0,0,0,,Take this!
-Dialogue: 100,0:11:19.21,0:11:22.33,Default,,0,0,0,,What do you think you're doing? You should carry something too.
-Dialogue: 100,0:11:24.81,0:11:28.91,Default,,0,0,0,,H-Hey, Takagi-san...\NMind if I ask you something?
-Dialogue: 100,0:11:28.91,0:11:29.89,Default,,0,0,0,,What?
-Dialogue: 100,0:11:30.58,0:11:33.37,Default,,0,0,0,,Uhh, why me?
-Dialogue: 100,0:11:33.37,0:11:36.06,Default,,0,0,0,,No reason in particular.
-Dialogue: 100,0:11:38.61,0:11:40.33,Default,,0,0,0,,Oh, okay...
-Dialogue: 100,0:11:43.26,0:11:45.55,Default,,0,0,0,,What's with the sudden mood swing?
-Dialogue: 100,0:11:46.11,0:11:47.93,Default,,0,0,0,,Did you come to a realization?
-Dialogue: 100,0:11:48.66,0:11:50.60,Default,,0,0,0,,I don't know, I guess I did!
-Dialogue: 100,0:11:51.95,0:11:52.67,Default,,0,0,0,,Hirano!
-Dialogue: 100,0:11:52.67,0:11:53.81,Default,,0,0,0,,Yes!
-Dialogue: 100,0:12:01.65,0:12:05.58,Default,,0,0,0,,Gotta hand it to you. It was a good idea to use the fire hose.
-Dialogue: 100,0:12:05.58,0:12:08.16,Default,,0,0,0,,Well, the water pressure is so strong.
-Dialogue: 100,0:12:08.71,0:12:12.78,Default,,0,0,0,,Don't you remember when we were in middle\Nschool and we had that fire drill and you and Hisashi...
-Dialogue: 100,0:12:16.48,0:12:18.46,Default,,0,0,0,,I'll be sure to remember it this time.
-Dialogue: 100,0:12:21.48,0:12:23.38,Default,,0,0,0,,I think I'm ready to go now.
-Dialogue: 100,0:12:23.95,0:12:27.51,Default,,0,0,0,,It'll be rough in there. You sure?
-Dialogue: 100,0:12:36.56,0:12:38.07,Default,,0,0,0,,Let's go.
-Dialogue: 100,0:12:55.75,0:12:57.29,Default,,0,0,0,,Where are we going?
-Dialogue: 100,0:12:59.70,0:13:01.01,Default,,0,0,0,,Home.
-Dialogue: 100,0:13:01.01,0:13:05.51,Default,,0,0,0,,We'll head to our houses and help survivors along the way.
-Dialogue: 100,0:13:05.51,0:13:08.80,Default,,0,0,0,,This is our hometown. We should be able to feel our way around.
-Dialogue: 100,0:13:08.80,0:13:11.38,Default,,0,0,0,,Yeah... Yeah!
-Dialogue: 100,0:13:11.38,0:13:13.18,Default,,0,0,0,,I know my dad is safe, so...
-Dialogue: 100,0:13:13.18,0:13:16.81,Default,,0,0,0,,Hey, you should call your house soon.
-Dialogue: 100,0:13:16.81,0:13:18.93,Default,,0,0,0,,I will sooner or later.
-Dialogue: 100,0:13:18.93,0:13:21.36,Default,,0,0,0,,My dad lives away from home because of his job,
-Dialogue: 100,0:13:21.36,0:13:24.50,Default,,0,0,0,,and my mom is an elementary school teacher, so she wouldn't be at home either.
-Dialogue: 100,0:13:24.50,0:13:26.86,Default,,0,0,0,,They probably wouldn't shut up if I got a hold of them anyway.
-Dialogue: 100,0:13:28.01,0:13:30.80,Default,,0,0,0,,Jeez, we shouldn't be laughing right now.
-Dialogue: 100,0:13:33.88,0:13:38.42,Default-Italics,,0,0,0,,{\1c&HFFFFFF&\t(3979,4521,\1c&H000000&}I wasn't being serious about that, of course.
-Dialogue: 100,0:13:39.49,0:13:41.65,Default-Italics,,0,0,0,,When I looked at how things were at my own school,
-Dialogue: 100,0:13:42.27,0:13:46.94,Default-Italics,,0,0,0,,it frightened me to think of what it was like at my mom's school.
-Dialogue: 100,0:14:00.40,0:14:02.44,Default,,0,0,0,,Wh-What are you doing?
-Dialogue: 100,0:14:02.44,0:14:04.49,Default,,0,0,0,,Shut up and watch.
-Dialogue: 100,0:14:11.03,0:14:12.46,Default,,0,0,0,,Do you understand now?
-Dialogue: 100,0:14:12.46,0:14:15.20,Default,,0,0,0,,See how he didn't react when that rag hit him?
-Dialogue: 100,0:14:15.75,0:14:19.35,Default,,0,0,0,,They don't feel pain, so they only react to sound.
-Dialogue: 100,0:14:19.35,0:14:23.96,Default,,0,0,0,,I don't think they can see or he\Nwouldn't have bumped into that locker.
-Dialogue: 100,0:14:24.34,0:14:25.77,Default,,0,0,0,,What about, say, heat?
-Dialogue: 100,0:14:25.77,0:14:28.43,Default,,0,0,0,,We'll try it if we have to.
-Dialogue: 100,0:14:28.43,0:14:29.70,Default,,0,0,0,,Let's move.
-Dialogue: 100,0:14:29.70,0:14:31.85,Default,,0,0,0,,Are we really gonna go outside?
-Dialogue: 100,0:14:31.85,0:14:33.42,Default,,0,0,0,,What's wrong with that?
-Dialogue: 100,0:14:33.42,0:14:36.73,Default,,0,0,0,,Uhm, I don't like walking...
-Dialogue: 100,0:14:36.73,0:14:38.70,Default,,0,0,0,,This is why I hate fat nerds!
-Dialogue: 100,0:14:38.70,0:14:41.71,Default,,0,0,0,,I don't wanna hear you complain about\Nwalking until you're old enough to drive!
-Dialogue: 100,0:14:52.97,0:14:56.77,Default,,0,0,0,,The staff room? What a difficult request you have made.
-Dialogue: 100,0:14:56.77,0:15:00.50,Default,,0,0,0,,But everyone keeps their car keys in there...
-Dialogue: 100,0:15:04.29,0:15:08.94,Default,,0,0,0,,Hey, why don't you just kill them?\NIt should be easy for you...
-Dialogue: 100,0:15:08.94,0:15:11.39,Default,,0,0,0,,Stopping to crush the head of everything we come across
-Dialogue: 100,0:15:11.39,0:15:13.87,Default,,0,0,0,,would accomplish nothing other than to slow us down.
-Dialogue: 100,0:15:13.87,0:15:15.31,Default,,0,0,0,,We would become surrounded.
-Dialogue: 100,0:15:15.70,0:15:20.62,Default,,0,0,0,,It would be hard for us to get\Naway should one of them take hold.
-Dialogue: 100,0:15:20.62,0:15:23.31,Default,,0,0,0,,Wow, you really thought about this.
-Dialogue: 100,0:15:25.90,0:15:29.15,Default,,0,0,0,,Oh jeez! What was that?
-Dialogue: 100,0:15:29.15,0:15:31.63,Default,,0,0,0,,Such fashion is unsuitable for running.
-Dialogue: 100,0:15:37.61,0:15:39.62,Default,,0,0,0,,This is a brand name skirt!
-Dialogue: 100,0:15:41.45,0:15:43.88,Default,,0,0,0,,Are your clothes or your life more important?
-Dialogue: 100,0:15:45.16,0:15:46.13,Default,,0,0,0,,...both!
-Dialogue: 100,0:15:48.42,0:15:49.50,Default,,0,0,0,,What's that sound?
-Dialogue: 100,0:15:49.50,0:15:51.13,Default,,0,0,0,,Was that from the staff room?
-Dialogue: 100,0:15:56.45,0:15:59.29,Default,,0,0,0,,I won't be able to figure out more of their traits if you keep killing them!
-Dialogue: 100,0:15:59.29,0:16:00.98,Default,,0,0,0,,Help me fight them, Takagi-san!
-Dialogue: 100,0:16:01.37,0:16:03.90,Default,,0,0,0,,Why the hell do I have to fight?!
-Dialogue: 100,0:16:03.90,0:16:06.11,Default,,0,0,0,,I'm almost out of ammo!
-Dialogue: 100,0:16:06.11,0:16:09.82,Default,,0,0,0,,So?! Why don't you just reload it?
-Dialogue: 100,0:16:10.39,0:16:13.24,Default,,0,0,0,,But... behind you...
-Dialogue: 100,0:16:24.19,0:16:25.38,Default,,0,0,0,,Hirano!
-Dialogue: 100,0:16:26.84,0:16:27.71,Default,,0,0,0,,I'm out!
-Dialogue: 100,0:16:32.15,0:16:34.93,Default,,0,0,0,,Don't you dare come near me!
-Dialogue: 100,0:16:35.22,0:16:36.18,Default,,0,0,0,,Takagi-san!
-Dialogue: 100,0:16:36.97,0:16:37.92,Default,,0,0,0,,Go away...
-Dialogue: 100,0:16:38.71,0:16:39.93,Default,,0,0,0,,Go away!
-Dialogue: 100,0:16:52.21,0:16:55.14,Default,,0,0,0,,Go away!
-Dialogue: 100,0:17:08.62,0:17:12.30,Default,,0,0,0,,I'm sick of these things! I want my mom!
-Dialogue: 100,0:17:14.78,0:17:15.97,Default,,0,0,0,,I will take the right!
-Dialogue: 100,0:17:15.97,0:17:16.43,Default,,0,0,0,,Rei!
-Dialogue: 100,0:17:16.89,0:17:17.93,Default,,0,0,0,,And I got the left!
-Dialogue: 100,0:17:53.18,0:17:54.59,Default,,0,0,0,,Takagi-san...
-Dialogue: 100,0:17:55.92,0:17:58.22,Default,,0,0,0,,Takagi-san, are you okay?
-Dialogue: 100,0:17:58.22,0:17:59.68,Default,,0,0,0,,Miyamoto...
-Dialogue: 100,0:18:02.22,0:18:04.41,Default,,0,0,0,,We are all acquainted with the school nurse, yes?
-Dialogue: 100,0:18:04.41,0:18:07.97,Default,,0,0,0,,I am Busujima Saeko from 3-A.
-Dialogue: 100,0:18:07.97,0:18:10.52,Default,,0,0,0,,I'm Komuro Takashi from 2-B.
-Dialogue: 100,0:18:10.52,0:18:15.00,Default,,0,0,0,,You're the same Busujima-senpai who\Nwon at the national championship last year?
-Dialogue: 100,0:18:15.00,0:18:17.65,Default,,0,0,0,,I'm in the Sojutsu Club. My name is Miyamoto Rei.
-Dialogue: 100,0:18:17.65,0:18:21.66,Default,,0,0,0,,I'm, uhm, Hirano Kouta from B.
-Dialogue: 100,0:18:22.56,0:18:23.37,Default,,0,0,0,,Nice to meet all of you.
-Dialogue: 100,0:18:27.53,0:18:30.01,Default,,0,0,0,,What the... You're all so soft.
-Dialogue: 100,0:18:31.12,0:18:32.84,Default,,0,0,0,,"{\i1}Senpai{\i0}"? Seriously?
-Dialogue: 100,0:18:32.84,0:18:35.67,Default,,0,0,0,,You two got held back a year,\Nso you guys are the same age.
-Dialogue: 100,0:18:36.09,0:18:37.88,Default,,0,0,0,,Hey now, Takagi...
-Dialogue: 100,0:18:37.88,0:18:39.61,Default,,0,0,0,,Don't treat me like I'm stupid!
-Dialogue: 100,0:18:39.61,0:18:41.22,Default,,0,0,0,,I'm a genius!
-Dialogue: 100,0:18:41.22,0:18:44.01,Default,,0,0,0,,I can do anything once I put my mind to it!
-Dialogue: 100,0:18:44.53,0:18:47.57,Default,,0,0,0,,I'm... I'm...
-Dialogue: 100,0:18:49.86,0:18:51.37,Default,,0,0,0,,Enough.
-Dialogue: 100,0:18:51.37,0:18:52.48,Default,,0,0,0,,That is quite enough.
-Dialogue: 100,0:19:00.82,0:19:03.40,Default,,0,0,0,,Look at how dirty I am...
-Dialogue: 100,0:19:03.40,0:19:06.47,Default,,0,0,0,,I need to tell Mama to get it cleaned...
-Dialogue: 100,0:21:23.43,0:21:24.75,Default,,0,0,0,,Think it'll hold?
-Dialogue: 100,0:21:25.70,0:21:27.77,Default,,0,0,0,,I believe we are all exhausted.
-Dialogue: 100,0:21:27.77,0:21:29.21,Default,,0,0,0,,Let us rest here for a short while.
-Dialogue: 100,0:21:35.23,0:21:37.65,Default,,0,0,0,,Takagi-san, are you okay?
-Dialogue: 100,0:21:41.75,0:21:42.51,Default,,0,0,0,,G-Glasses?
-Dialogue: 100,0:21:43.29,0:21:44.15,Default,,0,0,0,,What about them?
-Dialogue: 100,0:21:44.58,0:21:46.66,Default,,0,0,0,,My contacts kept falling out!
-Dialogue: 100,0:21:50.81,0:21:52.62,Default,,0,0,0,,Glasses...
-Dialogue: 100,0:21:53.70,0:21:54.80,Default,,0,0,0,,Here, Takashi.
-Dialogue: 100,0:21:54.80,0:21:56.31,Default,,0,0,0,,Oh, thank you.
-Dialogue: 100,0:21:57.46,0:22:00.13,Default,,0,0,0,,Where are your car keys, Marikawa-sensei?
-Dialogue: 100,0:22:00.13,0:22:02.96,Default,,0,0,0,,Oh, they're in my bag.
-Dialogue: 100,0:22:02.96,0:22:05.47,Default,,0,0,0,,Say, is your vehicle spacious enough to seat all of us?
-Dialogue: 100,0:22:06.41,0:22:07.72,Default,,0,0,0,,Now that you mention it...
-Dialogue: 100,0:22:08.11,0:22:13.10,Default,,0,0,0,,What of the miniature buses used for club\Nactivities? The keys hang from the wall in here.
-Dialogue: 100,0:22:13.10,0:22:14.35,Default,,0,0,0,,They're here!
-Dialogue: 100,0:22:14.89,0:22:17.55,Default,,0,0,0,,That should work, but where are we going?
-Dialogue: 100,0:22:17.55,0:22:19.19,Default,,0,0,0,,To check on our families.
-Dialogue: 100,0:22:19.95,0:22:22.62,Default,,0,0,0,,We'll stop by everyone's home going from closest to furthest.
-Dialogue: 100,0:22:22.62,0:22:24.69,Default,,0,0,0,,And if we have to, we'll help our families too.
-Dialogue: 100,0:22:25.17,0:22:27.53,Default,,0,0,0,,Once we're done, we'll find a safe place to stay.
-Dialogue: 100,0:22:28.38,0:22:29.45,Default,,0,0,0,,What is it?
-Dialogue: 100,0:22:32.53,0:22:35.37,Default-Italics,,0,0,0,,What the...
-Dialogue: 100,0:22:37.83,0:22:39.29,Default,,0,0,0,,What's up, Rei?
-Dialogue: 100,0:22:39.29,0:22:44.70,Default-Italics,,0,0,0,,{\q2}...government has begun to consider emergency measures\Nagainst the outbreaks that have been occuring all over the place.
-Dialogue: 100,0:22:44.70,0:22:50.02,Default-Italics,,0,0,0,,However, all the political parties have been expressing their uncertainty about the SDF's security operations.
-Dialogue: 100,0:22:45.90,0:22:48.52,Default-Alt,,0,0,0,,Revolt? They're calling this a revolt?
-Dialogue: 100,0:22:50.02,0:22:53.99,Default-Italics,,0,0,0,,The number of deaths in the Saitama prefecture already exceeds 10,000.
-Dialogue: 100,0:22:53.99,0:22:55.52,Default-Italics,,0,0,0,,The prefecture governor has—
-Dialogue: 100,0:22:56.45,0:22:57.70,Default-Italics,,0,0,0,,That was gunfire!
-Dialogue: 100,0:22:57.70,0:23:00.12,Default-Italics,,0,0,0,,Just now, the police opened fire!
-Dialogue: 100,0:23:00.12,0:23:01.73,Default-Italics,,0,0,0,,But what are they shooting at?!
-Dialogue: 100,0:23:03.66,0:23:05.28,Default-Italics,,0,0,0,,No! What?! Stay away!
-Dialogue: 100,0:23:07.08,0:23:08.06,Default-Italics,,0,0,0,,Help me!
+Dialogue: 99,0:00:03.77,0:00:05.79,Default,,0,0,0,,Mișcă sau te calc în picioare!
+Dialogue: 99,0:00:07.02,0:00:09.36,Default,,0,0,0,,Nu! Nu te apropia!
+Dialogue: 99,0:00:12.29,0:00:14.42,Default-Italics,,0,0,0,,Oameni care mănâncă alți oameni?
+Dialogue: 99,0:00:14.42,0:00:15.99,Default-Italics,,0,0,0,,Nu e nimic amuzant în asta.
+Dialogue: 99,0:00:16.65,0:00:19.39,Default,,0,0,0,,Asta nu e adevărat. \NE imposibil să fie adevărat.
+Dialogue: 99,0:00:20.43,0:00:23.21,Default,,0,0,0,,Nu-i așa, mami? \NAm dreptate, nu?
+Dialogue: 99,0:00:27.23,0:00:29.71,Default,,0,0,0,,Unde te duci, Takagi?
+Dialogue: 99,0:00:30.00,0:00:32.05,Default,,0,0,0,,Ce? Aveai altceva de făcut?
+Dialogue: 99,0:00:32.43,0:00:35.18,Default,,0,0,0,,Păi, mă gândeam să merg în cancelarie...
+Dialogue: 99,0:00:35.18,0:00:36.79,Default,,0,0,0,,Asta e stupid.
+Dialogue: 99,0:00:36.79,0:00:40.34,Default,,0,0,0,,Ce crezi că ar putea face profesorii noștri?
+Dialogue: 99,0:00:40.34,0:00:42.28,Default,,0,0,0,,Dar, Takagi...
+Dialogue: 99,0:00:42.28,0:00:43.97,Default,,0,0,0,,În această...
+Dialogue: 99,0:00:45.41,0:00:46.48,Default,,0,0,0,,În această situație...
+Dialogue: 99,0:00:48.78,0:00:50.53,Default,,0,0,0,,Am o întrebare.
+Dialogue: 99,0:00:51.29,0:00:52.24,Default,,0,0,0,,C-Ce anume?
+Dialogue: 99,0:00:53.10,0:00:56.32,Default,,0,0,0,,Vrei să mori? Sau vrei să trăiești?
+Dialogue: 99,0:00:57.32,0:00:58.36,Default,,0,0,0,,Păi, ei bine...
+Dialogue: 99,0:01:00.57,0:01:04.51,Default,,0,0,0,,Privește. Sunt câteva persoane la ușa cancelariei care au avut aceeași idee ca si tine.
+Dialogue: 99,0:01:03.66,0:01:05.54,Default-Alt,,0,0,0,,Domnilor profesori!
+Dialogue: 99,0:01:09.59,0:01:11.44,Default,,0,0,0,,Eu vreau să trăiesc!
+Dialogue: 99,0:01:11.44,0:01:12.34,Default,,0,0,0,,Ai înțeles?
+Dialogue: 99,0:01:15.06,0:01:16.41,Default,,0,0,0,,Așa că mișcă-ți fundul!
+Dialogue: 99,0:01:17.24,0:01:18.14,Default,,0,0,0,,Am înțeles!
+Dialogue: 99,0:03:08.17,0:03:08.95,Default-Italics,,0,0,0,,Haide...
+Dialogue: 99,0:03:09.68,0:03:10.85,Default-Italics,,0,0,0,,Takashi, te implor...
+Dialogue: 99,0:03:12.08,0:03:15.52,Default-Italics,,0,0,0,,Vreau să mor fiind eu însumi.
+Dialogue: 99,0:03:16.39,0:03:17.39,Default-Italics,,0,0,0,,Nu se va...
+Dialogue: 99,0:03:17.73,0:03:19.76,Default-Italics,,0,0,0,,Nu se va transforma în unul din ei!
+Dialogue: 99,0:03:20.09,0:03:21.26,Default-Italics,,0,0,0,,Oprește-te!
+Dialogue: 99,0:03:31.39,0:03:32.40,Default,,0,0,0,,Ce este?
+Dialogue: 99,0:03:33.02,0:03:36.62,Default,,0,0,0,,Ei bine, vreau să știu ce naiba se petrece.
+Dialogue: 99,0:03:36.62,0:03:38.17,Default,,0,0,0,,Asta a fost destul de direct.
+Dialogue: 99,0:03:38.17,0:03:39.69,Default,,0,0,0,,De ce aș minți?
+Dialogue: 99,0:03:50.12,0:03:54.63,Default,,0,0,0,,Îmi poți împrumuta puțin telefonul? Vreau să încerc să-l sun pe tata.
+Dialogue: 99,0:03:55.31,0:03:59.67,Default,,0,0,0,,Știu că este polițist, dar cum îl vei contacta \Ncând linia de urgența a poliției e ocupată?
+Dialogue: 99,0:04:00.32,0:04:04.42,Default,,0,0,0,,Mi-a lăsat un număr privat pe care nu ar trebui să-l folosesc în mod normal.
+Dialogue: 99,0:04:08.11,0:04:09.10,Default,,0,0,0,,Sună!
+Dialogue: 99,0:04:09.10,0:04:09.78,Default,,0,0,0,,Tată?
+Dialogue: 99,0:04:09.78,0:04:11.14,Default-Italics,,0,0,0,,Alo?
+Dialogue: 99,0:04:11.14,0:04:13.37,Default-Italics,,0,0,0,,Acest număr de telefonul... \Neste al lui Takashi?
+Dialogue: 99,0:04:13.37,0:04:14.40,Default,,0,0,0,,Tată?
+Dialogue: 99,0:04:14.40,0:04:16.29,Default,,0,0,0,,Tată, ascultă. Suntem la \Nșcoală în acest moment...
+Dialogue: 99,0:04:15.10,0:04:16.71,Default-Alt,,0,0,0,,Alo? Takashi?
+Dialogue: 99,0:04:16.71,0:04:18.43,Default-Italics,,0,0,0,,Probabil ai acest număr de la Rei.
+Dialogue: 99,0:04:18.43,0:04:20.13,Default-Italics,,0,0,0,,Ea este bine?
+Dialogue: 99,0:04:20.13,0:04:21.19,Default-Italics,,0,0,0,,Semnalul meu...
+Dialogue: 99,0:04:21.19,0:04:23.95,Default,,0,0,0,,Tată?! Nu mă poți auzi?!
+Dialogue: 99,0:04:23.95,0:04:27.66,Default-Italics,,0,0,0,,Ascultă, întregul oraș este \Nîntr-o stare de panică.
+Dialogue: 99,0:04:26.22,0:04:27.66,Default-Alt,,0,0,0,,Tată? Tată!
+Dialogue: 99,0:04:30.09,0:04:30.95,Default-Italics,,0,0,0,,Bine?
+Dialogue: 99,0:04:30.95,0:04:32.79,Default-Italics,,0,0,0,,Întregul oraș este \Nîntr-o stare de panică!
+Dialogue: 99,0:04:32.79,0:04:33.81,Default-Italics,,0,0,0,,Trebuie să vă evacuați...
+Dialogue: 99,0:04:38.19,0:04:39.59,Default,,0,0,0,,Fără semnal?
+Dialogue: 99,0:04:39.59,0:04:41.95,Default,,0,0,0,,Dar tocmai ce sunase!
+Dialogue: 99,0:04:41.95,0:04:43.84,Default,,0,0,0,,De ce? De ce?!
+Dialogue: 99,0:04:43.84,0:04:44.84,Default,,0,0,0,,Rei!
+Dialogue: 99,0:04:48.40,0:04:49.56,Default,,0,0,0,,Takashi...
+Dialogue: 99,0:04:50.43,0:04:51.34,Default,,0,0,0,,Tata...
+Dialogue: 99,0:04:52.73,0:04:57.78,Default,,0,0,0,,Nici măcar nu m-a recunoscut...
+Dialogue: 99,0:05:01.18,0:05:05.33,Default,,0,0,0,,T-Takagi, ai cumva telefonul la tine? Știu că e împotriva regulilor, dar...
+Dialogue: 99,0:05:05.33,0:05:07.53,Default,,0,0,0,,Sunt o elevă de onoare!
+Dialogue: 99,0:05:07.86,0:05:10.80,Default,,0,0,0,,Chiar dacă l-aș avea, pe cine aș suna?
+Dialogue: 99,0:05:11.51,0:05:13.47,Default,,0,0,0,,Păi, ei bine, la poliție...
+Dialogue: 99,0:05:13.47,0:05:15.55,Default,,0,0,0,,Tu chiar ești prost.
+Dialogue: 99,0:05:15.55,0:05:17.05,Default,,0,0,0,,Privește cât de gravă e situația.
+Dialogue: 99,0:05:17.05,0:05:19.47,Default,,0,0,0,,Nu crezi că a încercat \Ncineva deja să sune la poliție?
+Dialogue: 99,0:05:19.47,0:05:22.13,Default,,0,0,0,,Nu am auzit nicio sirenă până acum, nu?
+Dialogue: 99,0:05:23.22,0:05:25.14,Default,,0,0,0,,Înțelegi acum?
+Dialogue: 99,0:05:25.14,0:05:27.97,Default,,0,0,0,,Întregul oraș e cuprins de haos?
+Dialogue: 99,0:05:27.97,0:05:29.24,Default,,0,0,0,,Probabil.
+Dialogue: 99,0:05:29.24,0:05:31.56,Default,,0,0,0,,Poliția a fost trimisă deja, probabil.
+Dialogue: 99,0:05:31.56,0:05:32.97,Default,,0,0,0,,Dar uită-te la acest loc...
+Dialogue: 99,0:05:33.41,0:05:35.58,Default,,0,0,0,,Ar trebui să sunăm la... \NForțele Armate?
+Dialogue: 99,0:05:35.58,0:05:37.41,Default,,0,0,0,,Nu m-aș baza nici pe ei.
+Dialogue: 99,0:05:37.41,0:05:42.71,Default,,0,0,0,,Știu că nu pot fi trimiși pentru apărare sau securitate publică, fără ordine de la guvern, dar...
+Dialogue: 99,0:05:42.71,0:05:44.03,Default,,0,0,0,,Nu mă refer la asta!
+Dialogue: 99,0:05:44.49,0:05:46.33,Default,,0,0,0,,Atunci, ce încerci să...
+Dialogue: 99,0:05:46.92,0:05:48.49,Default,,0,0,0,,Sunt în aceeași situație precum poliția.
+Dialogue: 99,0:05:49.18,0:05:53.54,Default,,0,0,0,,Haide să presupunem că oameni din toată Japonia se mănâncă reciproc. Ce crezi că se întâmplă?
+Dialogue: 99,0:05:53.62,0:05:57.63,Default,,0,0,0,,{\1c&H000000&\t(0,525,\1c&HFFFFFF&)}Ascultă, sunt 130 de milioane \Nde oameni în Japonia.
+Dialogue: 99,0:05:57.63,0:06:00.63,Default,,0,0,0,,Din cei 130 de milioane, câți crezi \Ncă fac parte din Forțele Armate?
+Dialogue: 99,0:06:00.63,0:06:04.68,Default,,0,0,0,,Furthermore, who's to say\Nthat this hasn't affected the SDF?
+Dialogue: 99,0:06:07.38,0:06:09.39,Default,,0,0,0,,Haide să ieșim de aici.
+Dialogue: 99,0:06:10.41,0:06:11.66,Default,,0,0,0,,B-Bine!
+Dialogue: 99,0:06:12.65,0:06:16.54,Default-Italics,,0,0,0,,Sigh. I'm stuck with fatass here since Komuro ran off.
+Dialogue: 99,0:06:16.54,0:06:18.64,Default-Italics,,0,0,0,,What a drag.
+Dialogue: 99,0:06:19.44,0:06:20.52,Default,,0,0,0,,O-Okada...
+Dialogue: 99,0:06:24.66,0:06:25.31,Default,,0,0,0,,Okada?
+Dialogue: 99,0:06:29.87,0:06:31.03,Default,,0,0,0,,Crap!
+Dialogue: 99,0:06:31.74,0:06:33.53,Default,,0,0,0,,Sorry! Sorry!
+Dialogue: 99,0:06:35.30,0:06:37.61,Default,,0,0,0,,Sorry! Sorry!
+Dialogue: 99,0:06:37.61,0:06:39.21,Default,,0,0,0,,Whatever shall I do?
+Dialogue: 99,0:06:37.61,0:06:39.71,Default-Alt,,0,0,0,,Sorry! Sorry! Sorry!
+Dialogue: 99,0:06:39.71,0:06:40.92,Default,,0,0,0,,Sorry! Sorry!
+Dialogue: 99,0:06:40.92,0:06:41.39,Default,,0,0,0,,Sorry!
+Dialogue: 99,0:06:41.39,0:06:42.45,Default,,0,0,0,,I'm sorry!
+Dialogue: 99,0:06:42.45,0:06:46.54,Default,,0,0,0,,I can't get a hold of the police or the fire department.
+Dialogue: 99,0:06:46.54,0:06:49.90,Default,,0,0,0,,I could treat people, but they're screwed once they get bitten,
+Dialogue: 99,0:06:49.90,0:06:52.20,Default,,0,0,0,,and they come back to life after they die.
+Dialogue: 99,0:06:52.20,0:06:55.51,Default,,0,0,0,,I feel like I'm in one of those movies that weirdos like.
+Dialogue: 99,0:06:56.00,0:06:58.18,Default,,0,0,0,,Is it really that amazing?
+Dialogue: 99,0:06:58.18,0:07:00.26,Default,,0,0,0,,Let's go, Shizuka-sensei!
+Dialogue: 99,0:07:00.26,0:07:01.66,Default,,0,0,0,,Hold on a sec.
+Dialogue: 99,0:07:01.66,0:07:03.93,Default,,0,0,0,,I should take whatever I can carry.
+Dialogue: 99,0:07:04.50,0:07:05.52,Default,,0,0,0,,Please hurry!
+Dialogue: 99,0:07:09.05,0:07:09.78,Default,,0,0,0,,Shizuka-sensei!
+Dialogue: 99,0:07:12.62,0:07:13.41,Default,,0,0,0,,Shizuka-sensei!
+Dialogue: 99,0:07:13.41,0:07:15.12,Default,,0,0,0,,Run away! Quickly!
+Dialogue: 99,0:07:17.11,0:07:20.04,Default,,0,0,0,,Uh... What'd you say your name was again?
+Dialogue: 99,0:07:20.97,0:07:21.92,Default,,0,0,0,,Huh?
+Dialogue: 99,0:07:26.50,0:07:28.26,Default,,0,0,0,,H-Hey now...
+Dialogue: 99,0:07:46.94,0:07:50.08,Default,,0,0,0,,I am Busujima Saeko, captain of the Kendo Club.
+Dialogue: 99,0:07:50.77,0:07:52.84,Default,,0,0,0,,Tell me, 2nd year, what is your name?
+Dialogue: 99,0:07:54.57,0:07:56.91,Default,,0,0,0,,Ishii... Kazu...
+Dialogue: 99,0:07:58.97,0:08:02.16,Default,,0,0,0,,Ishii-kun, you fought bravely to protect Dr. Marikawa.
+Dialogue: 99,0:08:02.16,0:08:04.67,Default,,0,0,0,,Your courage is nothing short of praiseworthy.
+Dialogue: 99,0:08:05.85,0:08:08.49,Default,,0,0,0,,Do you know what happens to\Nyou once you have been bitten?
+Dialogue: 99,0:08:09.21,0:08:11.82,Default,,0,0,0,,Do you want your parents or friends to see you like that?
+Dialogue: 99,0:08:12.35,0:08:13.65,Default,,0,0,0,,If you do not,
+Dialogue: 99,0:08:13.65,0:08:16.19,Default,,0,0,0,,then I shall end your life for you here and now.
+Dialogue: 99,0:08:16.82,0:08:18.51,Default,,0,0,0,,Though, I've never killed anyone before.
+Dialogue: 99,0:08:21.62,0:08:22.87,Default,,0,0,0,,P-Please...
+Dialogue: 99,0:08:24.70,0:08:25.90,Default,,0,0,0,,W-Wait a sec, what—
+Dialogue: 99,0:08:25.90,0:08:28.19,Default,,0,0,0,,You're the school nurse, I got it, but stay out of it.
+Dialogue: 99,0:08:28.90,0:08:33.82,Default,,0,0,0,,One of our duties as women is to protect a man's pride.
+Dialogue: 99,0:08:57.57,0:09:01.27,Default,,0,0,0,,What do we do now that we're here, Takagi-san?
+Dialogue: 99,0:09:01.27,0:09:03.32,Default,,0,0,0,,Some of it does look useful, but—
+Dialogue: 99,0:09:03.32,0:09:04.81,Default,,0,0,0,,Shut up, you fat nerd.
+Dialogue: 99,0:09:04.81,0:09:07.28,Default,,0,0,0,,Lock the door so they don't come in here!
+Dialogue: 99,0:09:08.74,0:09:10.44,Default,,0,0,0,,I-It's locked!
+Dialogue: 99,0:09:11.89,0:09:13.74,Default,,0,0,0,,Are we going to use these as weapons?
+Dialogue: 99,0:09:13.74,0:09:18.43,Default,,0,0,0,,You're one of those so-called military nerds or gun freaks, aren't you?
+Dialogue: 99,0:09:18.43,0:09:22.70,Default,,0,0,0,,Haven't you seen an action movie with one of these?
+Dialogue: 99,0:09:23.43,0:09:24.75,Default,,0,0,0,,A nail gun?
+Dialogue: 99,0:09:25.60,0:09:26.62,Default,,0,0,0,,It's gas powered?
+Dialogue: 99,0:09:26.62,0:09:28.23,Default,,0,0,0,,Well duh!
+Dialogue: 99,0:09:28.23,0:09:31.84,Default,,0,0,0,,You wouldn't be able to carry it around if it\Nhad a compressor like in the movies, would you?
+Dialogue: 99,0:09:32.14,0:09:34.23,Default,,0,0,0,,Jeez, so stupid.
+Dialogue: 99,0:09:34.23,0:09:35.90,Default,,0,0,0,,Do you like movies?
+Dialogue: 99,0:09:35.90,0:09:37.56,Default,,0,0,0,,Don't be so stupid!
+Dialogue: 99,0:09:37.56,0:09:40.35,Default,,0,0,0,,I'm an all-knowing genius!
+Dialogue: 99,0:09:42.72,0:09:47.06,Default,,0,0,0,,We have an extra gas canister and extra nails here. Nothing to worry about.
+Dialogue: 99,0:09:47.06,0:09:49.50,Default,,0,0,0,,How could you not be worried?
+Dialogue: 99,0:09:49.50,0:09:50.11,Default,,0,0,0,,They're coming!
+Dialogue: 99,0:09:50.54,0:09:52.02,Default,,0,0,0,,They're coming from the hallway!
+Dialogue: 99,0:09:53.35,0:09:55.33,Default,,0,0,0,,I'd say it weighs 9 pounds.
+Dialogue: 99,0:09:55.33,0:09:57.82,Default,,0,0,0,,On par with an older assault rifle.
+Dialogue: 99,0:09:57.82,0:10:01.46,Default,,0,0,0,,But my stance will be messed up. It needs a sight.
+Dialogue: 99,0:10:01.46,0:10:03.51,Default,,0,0,0,,Hey, are you ignoring me?!
+Dialogue: 99,0:10:08.87,0:10:10.13,Default,,0,0,0,,Hirano?
+Dialogue: 99,0:10:16.81,0:10:18.91,Default,,0,0,0,,No!
+Dialogue: 99,0:10:23.71,0:10:24.77,Default,,0,0,0,,Gotcha!
+Dialogue: 99,0:10:25.45,0:10:26.34,Default,,0,0,0,,Hirano?
+Dialogue: 99,0:10:28.89,0:10:29.85,Default,,0,0,0,,Ready?
+Dialogue: 99,0:10:30.43,0:10:31.15,Default,,0,0,0,,Ready!
+Dialogue: 99,0:10:32.29,0:10:33.02,Default,,0,0,0,,Turn it on!
+Dialogue: 99,0:10:39.27,0:10:39.99,Default,,0,0,0,,Crap.
+Dialogue: 99,0:10:44.24,0:10:48.12,Default,,0,0,0,,Could you put the drill and nails over there in a bag?
+Dialogue: 99,0:10:48.12,0:10:49.63,Default,,0,0,0,,Excuse me?!
+Dialogue: 99,0:10:49.63,0:10:51.92,Default,,0,0,0,,Who gave you the right to order me around?!
+Dialogue: 99,0:10:54.97,0:10:56.26,Default,,0,0,0,,Pretty please?
+Dialogue: 99,0:10:59.01,0:11:01.05,Default,,0,0,0,,Okay.
+Dialogue: 99,0:11:01.05,0:11:02.06,Default,,0,0,0,,Takashi!
+Dialogue: 99,0:11:02.64,0:11:04.05,Default,,0,0,0,,It's okay.
+Dialogue: 99,0:11:05.15,0:11:07.09,Default,,0,0,0,,They sound happy to see us.
+Dialogue: 99,0:11:07.72,0:11:10.44,Default,,0,0,0,,You' all feel great, don't you?
+Dialogue: 99,0:11:10.83,0:11:12.15,Default,,0,0,0,,Take this!
+Dialogue: 99,0:11:19.21,0:11:22.33,Default,,0,0,0,,What do you think you're doing? You should carry something too.
+Dialogue: 99,0:11:24.81,0:11:28.91,Default,,0,0,0,,H-Hey, Takagi-san...\NMind if I ask you something?
+Dialogue: 99,0:11:28.91,0:11:29.89,Default,,0,0,0,,What?
+Dialogue: 99,0:11:30.58,0:11:33.37,Default,,0,0,0,,Uhh, why me?
+Dialogue: 99,0:11:33.37,0:11:36.06,Default,,0,0,0,,No reason in particular.
+Dialogue: 99,0:11:38.61,0:11:40.33,Default,,0,0,0,,Oh, okay...
+Dialogue: 99,0:11:43.26,0:11:45.55,Default,,0,0,0,,What's with the sudden mood swing?
+Dialogue: 99,0:11:46.11,0:11:47.93,Default,,0,0,0,,Did you come to a realization?
+Dialogue: 99,0:11:48.66,0:11:50.60,Default,,0,0,0,,I don't know, I guess I did!
+Dialogue: 99,0:11:51.95,0:11:52.67,Default,,0,0,0,,Hirano!
+Dialogue: 99,0:11:52.67,0:11:53.81,Default,,0,0,0,,Yes!
+Dialogue: 99,0:12:01.65,0:12:05.58,Default,,0,0,0,,Gotta hand it to you. It was a good idea to use the fire hose.
+Dialogue: 99,0:12:05.58,0:12:08.16,Default,,0,0,0,,Well, the water pressure is so strong.
+Dialogue: 99,0:12:08.71,0:12:12.78,Default,,0,0,0,,Don't you remember when we were in middle\Nschool and we had that fire drill and you and Hisashi...
+Dialogue: 99,0:12:16.48,0:12:18.46,Default,,0,0,0,,I'll be sure to remember it this time.
+Dialogue: 99,0:12:21.48,0:12:23.38,Default,,0,0,0,,I think I'm ready to go now.
+Dialogue: 99,0:12:23.95,0:12:27.51,Default,,0,0,0,,It'll be rough in there. You sure?
+Dialogue: 99,0:12:36.56,0:12:38.07,Default,,0,0,0,,Let's go.
+Dialogue: 99,0:12:55.75,0:12:57.29,Default,,0,0,0,,Where are we going?
+Dialogue: 99,0:12:59.70,0:13:01.01,Default,,0,0,0,,Home.
+Dialogue: 99,0:13:01.01,0:13:05.51,Default,,0,0,0,,We'll head to our houses and help survivors along the way.
+Dialogue: 99,0:13:05.51,0:13:08.80,Default,,0,0,0,,This is our hometown. We should be able to feel our way around.
+Dialogue: 99,0:13:08.80,0:13:11.38,Default,,0,0,0,,Yeah... Yeah!
+Dialogue: 99,0:13:11.38,0:13:13.18,Default,,0,0,0,,I know my dad is safe, so...
+Dialogue: 99,0:13:13.18,0:13:16.81,Default,,0,0,0,,Hey, you should call your house soon.
+Dialogue: 99,0:13:16.81,0:13:18.93,Default,,0,0,0,,I will sooner or later.
+Dialogue: 99,0:13:18.93,0:13:21.36,Default,,0,0,0,,My dad lives away from home because of his job,
+Dialogue: 99,0:13:21.36,0:13:24.50,Default,,0,0,0,,and my mom is an elementary school teacher, so she wouldn't be at home either.
+Dialogue: 99,0:13:24.50,0:13:26.86,Default,,0,0,0,,They probably wouldn't shut up if I got a hold of them anyway.
+Dialogue: 99,0:13:28.01,0:13:30.80,Default,,0,0,0,,Jeez, we shouldn't be laughing right now.
+Dialogue: 99,0:13:33.88,0:13:38.42,Default-Italics,,0,0,0,,{\1c&HFFFFFF&\t(3979,4521,\1c&H000000&}I wasn't being serious about that, of course.
+Dialogue: 99,0:13:39.49,0:13:41.65,Default-Italics,,0,0,0,,When I looked at how things were at my own school,
+Dialogue: 99,0:13:42.27,0:13:46.94,Default-Italics,,0,0,0,,it frightened me to think of what it was like at my mom's school.
+Dialogue: 99,0:14:00.40,0:14:02.44,Default,,0,0,0,,Wh-What are you doing?
+Dialogue: 99,0:14:02.44,0:14:04.49,Default,,0,0,0,,Shut up and watch.
+Dialogue: 99,0:14:11.03,0:14:12.46,Default,,0,0,0,,Do you understand now?
+Dialogue: 99,0:14:12.46,0:14:15.20,Default,,0,0,0,,See how he didn't react when that rag hit him?
+Dialogue: 99,0:14:15.75,0:14:19.35,Default,,0,0,0,,They don't feel pain, so they only react to sound.
+Dialogue: 99,0:14:19.35,0:14:23.96,Default,,0,0,0,,I don't think they can see or he\Nwouldn't have bumped into that locker.
+Dialogue: 99,0:14:24.34,0:14:25.77,Default,,0,0,0,,What about, say, heat?
+Dialogue: 99,0:14:25.77,0:14:28.43,Default,,0,0,0,,We'll try it if we have to.
+Dialogue: 99,0:14:28.43,0:14:29.70,Default,,0,0,0,,Let's move.
+Dialogue: 99,0:14:29.70,0:14:31.85,Default,,0,0,0,,Are we really gonna go outside?
+Dialogue: 99,0:14:31.85,0:14:33.42,Default,,0,0,0,,What's wrong with that?
+Dialogue: 99,0:14:33.42,0:14:36.73,Default,,0,0,0,,Uhm, I don't like walking...
+Dialogue: 99,0:14:36.73,0:14:38.70,Default,,0,0,0,,This is why I hate fat nerds!
+Dialogue: 99,0:14:38.70,0:14:41.71,Default,,0,0,0,,I don't wanna hear you complain about\Nwalking until you're old enough to drive!
+Dialogue: 99,0:14:52.97,0:14:56.77,Default,,0,0,0,,The staff room? What a difficult request you have made.
+Dialogue: 99,0:14:56.77,0:15:00.50,Default,,0,0,0,,But everyone keeps their car keys in there...
+Dialogue: 99,0:15:04.29,0:15:08.94,Default,,0,0,0,,Hey, why don't you just kill them?\NIt should be easy for you...
+Dialogue: 99,0:15:08.94,0:15:11.39,Default,,0,0,0,,Stopping to crush the head of everything we come across
+Dialogue: 99,0:15:11.39,0:15:13.87,Default,,0,0,0,,would accomplish nothing other than to slow us down.
+Dialogue: 99,0:15:13.87,0:15:15.31,Default,,0,0,0,,We would become surrounded.
+Dialogue: 99,0:15:15.70,0:15:20.62,Default,,0,0,0,,It would be hard for us to get\Naway should one of them take hold.
+Dialogue: 99,0:15:20.62,0:15:23.31,Default,,0,0,0,,Wow, you really thought about this.
+Dialogue: 99,0:15:25.90,0:15:29.15,Default,,0,0,0,,Oh jeez! What was that?
+Dialogue: 99,0:15:29.15,0:15:31.63,Default,,0,0,0,,Such fashion is unsuitable for running.
+Dialogue: 99,0:15:37.61,0:15:39.62,Default,,0,0,0,,This is a brand name skirt!
+Dialogue: 99,0:15:41.45,0:15:43.88,Default,,0,0,0,,Are your clothes or your life more important?
+Dialogue: 99,0:15:45.16,0:15:46.13,Default,,0,0,0,,...both!
+Dialogue: 99,0:15:48.42,0:15:49.50,Default,,0,0,0,,What's that sound?
+Dialogue: 99,0:15:49.50,0:15:51.13,Default,,0,0,0,,Was that from the staff room?
+Dialogue: 99,0:15:56.45,0:15:59.29,Default,,0,0,0,,I won't be able to figure out more of their traits if you keep killing them!
+Dialogue: 99,0:15:59.29,0:16:00.98,Default,,0,0,0,,Help me fight them, Takagi-san!
+Dialogue: 99,0:16:01.37,0:16:03.90,Default,,0,0,0,,Why the hell do I have to fight?!
+Dialogue: 99,0:16:03.90,0:16:06.11,Default,,0,0,0,,I'm almost out of ammo!
+Dialogue: 99,0:16:06.11,0:16:09.82,Default,,0,0,0,,So?! Why don't you just reload it?
+Dialogue: 99,0:16:10.39,0:16:13.24,Default,,0,0,0,,But... behind you...
+Dialogue: 99,0:16:24.19,0:16:25.38,Default,,0,0,0,,Hirano!
+Dialogue: 99,0:16:26.84,0:16:27.71,Default,,0,0,0,,I'm out!
+Dialogue: 99,0:16:32.15,0:16:34.93,Default,,0,0,0,,Don't you dare come near me!
+Dialogue: 99,0:16:35.22,0:16:36.18,Default,,0,0,0,,Takagi-san!
+Dialogue: 99,0:16:36.97,0:16:37.92,Default,,0,0,0,,Go away...
+Dialogue: 99,0:16:38.71,0:16:39.93,Default,,0,0,0,,Go away!
+Dialogue: 99,0:16:52.21,0:16:55.14,Default,,0,0,0,,Go away!
+Dialogue: 99,0:17:08.62,0:17:12.30,Default,,0,0,0,,I'm sick of these things! I want my mom!
+Dialogue: 99,0:17:14.78,0:17:15.97,Default,,0,0,0,,I will take the right!
+Dialogue: 99,0:17:15.97,0:17:16.43,Default,,0,0,0,,Rei!
+Dialogue: 99,0:17:16.89,0:17:17.93,Default,,0,0,0,,And I got the left!
+Dialogue: 99,0:17:53.18,0:17:54.59,Default,,0,0,0,,Takagi-san...
+Dialogue: 99,0:17:55.92,0:17:58.22,Default,,0,0,0,,Takagi-san, are you okay?
+Dialogue: 99,0:17:58.22,0:17:59.68,Default,,0,0,0,,Miyamoto...
+Dialogue: 99,0:18:02.22,0:18:04.41,Default,,0,0,0,,We are all acquainted with the school nurse, yes?
+Dialogue: 99,0:18:04.41,0:18:07.97,Default,,0,0,0,,I am Busujima Saeko from 3-A.
+Dialogue: 99,0:18:07.97,0:18:10.52,Default,,0,0,0,,I'm Komuro Takashi from 2-B.
+Dialogue: 99,0:18:10.52,0:18:15.00,Default,,0,0,0,,You're the same Busujima-senpai who\Nwon at the national championship last year?
+Dialogue: 99,0:18:15.00,0:18:17.65,Default,,0,0,0,,I'm in the Sojutsu Club. My name is Miyamoto Rei.
+Dialogue: 99,0:18:17.65,0:18:21.66,Default,,0,0,0,,I'm, uhm, Hirano Kouta from B.
+Dialogue: 99,0:18:22.56,0:18:23.37,Default,,0,0,0,,Nice to meet all of you.
+Dialogue: 99,0:18:27.53,0:18:30.01,Default,,0,0,0,,What the... You're all so soft.
+Dialogue: 99,0:18:31.12,0:18:32.84,Default,,0,0,0,,"{\i1}Senpai{\i0}"? Seriously?
+Dialogue: 99,0:18:32.84,0:18:35.67,Default,,0,0,0,,You two got held back a year,\Nso you guys are the same age.
+Dialogue: 99,0:18:36.09,0:18:37.88,Default,,0,0,0,,Hey now, Takagi...
+Dialogue: 99,0:18:37.88,0:18:39.61,Default,,0,0,0,,Don't treat me like I'm stupid!
+Dialogue: 99,0:18:39.61,0:18:41.22,Default,,0,0,0,,I'm a genius!
+Dialogue: 99,0:18:41.22,0:18:44.01,Default,,0,0,0,,I can do anything once I put my mind to it!
+Dialogue: 99,0:18:44.53,0:18:47.57,Default,,0,0,0,,I'm... I'm...
+Dialogue: 99,0:18:49.86,0:18:51.37,Default,,0,0,0,,Enough.
+Dialogue: 99,0:18:51.37,0:18:52.48,Default,,0,0,0,,That is quite enough.
+Dialogue: 99,0:19:00.82,0:19:03.40,Default,,0,0,0,,Look at how dirty I am...
+Dialogue: 99,0:19:03.40,0:19:06.47,Default,,0,0,0,,I need to tell Mama to get it cleaned...
+Dialogue: 99,0:21:23.43,0:21:24.75,Default,,0,0,0,,Think it'll hold?
+Dialogue: 99,0:21:25.70,0:21:27.77,Default,,0,0,0,,I believe we are all exhausted.
+Dialogue: 99,0:21:27.77,0:21:29.21,Default,,0,0,0,,Let us rest here for a short while.
+Dialogue: 99,0:21:35.23,0:21:37.65,Default,,0,0,0,,Takagi-san, are you okay?
+Dialogue: 99,0:21:41.75,0:21:42.51,Default,,0,0,0,,G-Glasses?
+Dialogue: 99,0:21:43.29,0:21:44.15,Default,,0,0,0,,What about them?
+Dialogue: 99,0:21:44.58,0:21:46.66,Default,,0,0,0,,My contacts kept falling out!
+Dialogue: 99,0:21:50.81,0:21:52.62,Default,,0,0,0,,Glasses...
+Dialogue: 99,0:21:53.70,0:21:54.80,Default,,0,0,0,,Here, Takashi.
+Dialogue: 99,0:21:54.80,0:21:56.31,Default,,0,0,0,,Oh, thank you.
+Dialogue: 99,0:21:57.46,0:22:00.13,Default,,0,0,0,,Where are your car keys, Marikawa-sensei?
+Dialogue: 99,0:22:00.13,0:22:02.96,Default,,0,0,0,,Oh, they're in my bag.
+Dialogue: 99,0:22:02.96,0:22:05.47,Default,,0,0,0,,Say, is your vehicle spacious enough to seat all of us?
+Dialogue: 99,0:22:06.41,0:22:07.72,Default,,0,0,0,,Now that you mention it...
+Dialogue: 99,0:22:08.11,0:22:13.10,Default,,0,0,0,,What of the miniature buses used for club\Nactivities? The keys hang from the wall in here.
+Dialogue: 99,0:22:13.10,0:22:14.35,Default,,0,0,0,,They're here!
+Dialogue: 99,0:22:14.89,0:22:17.55,Default,,0,0,0,,That should work, but where are we going?
+Dialogue: 99,0:22:17.55,0:22:19.19,Default,,0,0,0,,To check on our families.
+Dialogue: 99,0:22:19.95,0:22:22.62,Default,,0,0,0,,We'll stop by everyone's home going from closest to furthest.
+Dialogue: 99,0:22:22.62,0:22:24.69,Default,,0,0,0,,And if we have to, we'll help our families too.
+Dialogue: 99,0:22:25.17,0:22:27.53,Default,,0,0,0,,Once we're done, we'll find a safe place to stay.
+Dialogue: 99,0:22:28.38,0:22:29.45,Default,,0,0,0,,What is it?
+Dialogue: 99,0:22:32.53,0:22:35.37,Default-Italics,,0,0,0,,What the...
+Dialogue: 99,0:22:37.83,0:22:39.29,Default,,0,0,0,,What's up, Rei?
+Dialogue: 99,0:22:39.29,0:22:44.70,Default-Italics,,0,0,0,,{\q2}...government has begun to consider emergency measures\Nagainst the outbreaks that have been occuring all over the place.
+Dialogue: 99,0:22:44.70,0:22:50.02,Default-Italics,,0,0,0,,However, all the political parties have been expressing their uncertainty about the SDF's security operations.
+Dialogue: 99,0:22:45.90,0:22:48.52,Default-Alt,,0,0,0,,Revolt? They're calling this a revolt?
+Dialogue: 99,0:22:50.02,0:22:53.99,Default-Italics,,0,0,0,,The number of deaths in the Saitama prefecture already exceeds 10,000.
+Dialogue: 99,0:22:53.99,0:22:55.52,Default-Italics,,0,0,0,,The prefecture governor has—
+Dialogue: 99,0:22:56.45,0:22:57.70,Default-Italics,,0,0,0,,That was gunfire!
+Dialogue: 99,0:22:57.70,0:23:00.12,Default-Italics,,0,0,0,,Just now, the police opened fire!
+Dialogue: 99,0:23:00.12,0:23:01.73,Default-Italics,,0,0,0,,But what are they shooting at?!
+Dialogue: 99,0:23:03.66,0:23:05.28,Default-Italics,,0,0,0,,No! What?! Stay away!
+Dialogue: 99,0:23:07.08,0:23:08.06,Default-Italics,,0,0,0,,Help me!
 Dialogue: 2,0:04:15.10,0:04:21.19,Signs,,0,0,0,,{\fsHelvetica LT Std\blur20\fry6.13\fs120\frx-4.18\frz-28\org(1331.8,512.6)\pos(1691.2,455.2)\c&HFFFDD3&}Call Duration
 Dialogue: 1,0:04:15.10,0:04:21.19,Signs,,0,0,0,,{\fsHelvetica LT Std\bord0\blur1\fry6.13\fs120\frx-4.18\frz-28\org(1331.8,512.6)\pos(1691.2,455.2)\c&HFBFAE4&\3c&HEEDDA1&\1a&H00&}Call Duration
 Dialogue: 0,0:04:15.10,0:04:21.19,Signs,,0,0,0,,{\fsHelvetica LT Std\bord0\blur3\fry6.13\fs120\frx-4.18\frz-28\org(1331.8,512.6)\pos(1691.2,455.2)\c&H8B863C&\3c&H8B863C&}Call Duration

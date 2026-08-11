@@ -39,384 +39,384 @@ Style: Song Koi Halation the War,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:17.99,0:00:26.13,Dialogue,,0,0,0,,{\i1}Au trecut cincizeci de ani de când umanitatea s-a aventurat în spațiu ca să evite exterminarea.
-Dialogue: 100,0:00:26.13,0:00:28.71,Dialogue,,0,0,0,,{\i1}De-a lungul anilor, \Nau întâlnit numeroase alte specii
-Dialogue: 100,0:00:28.71,0:00:31.97,Dialogue,,0,0,0,,{\i1}și au început întemeierea unei civilizații interstelare vaste.
-Dialogue: 100,0:00:33.01,0:00:37.85,Dialogue,,50,640,0,,{\i1}Dar mai există multe alte amenințări necunoscute ce îi așteaptă în spațiu.
-Dialogue: 100,0:00:45.60,0:00:47.77,Dialogue,,0,0,0,,{\i1}Sindromul Vár.
-Dialogue: 100,0:00:47.77,0:00:52.78,Dialogue,,0,0,0,,{\i1}Acesta îi înnebunește pe cei afectați, transformându-i în niște creaturi violente.
-Dialogue: 100,0:00:53.53,0:00:59.33,Dialogue,,0,0,0,,{\i1}Lumea a ajuns să se teamă cumplit de aceste evenimente tragice, care pot avea loc oriunde și oricând.
-Dialogue: 100,0:01:00.37,0:01:05.87,Dialogue,,0,0,0,,{\i1}Dar, chiar și atunci când teama pune stăpânire pe lume, există persoane curajoase care să lupte.
-Dialogue: 100,0:01:06.83,0:01:10.88,Dialogue,,0,0,0,,{\i1}Walküre, o unitate muzicală, tactică.
-Dialogue: 100,0:01:10.88,0:01:14.30,Dialogue,,0,0,0,,{\i1}Ele cântă cu ajutorul vocilor \Nlor ce transcend spațiul
-Dialogue: 100,0:01:14.30,0:01:17.97,Dialogue,,0,0,0,,{\i1}și sunt protejate de Plutonul Delta.
-Dialogue: 100,0:01:17.97,0:01:22.89,Dialogue,,0,0,0,,{\i1}Astăzi, cortina se ridică \Npentru următoarea lor scenă.
-Dialogue: 100,0:01:36.11,0:01:36.82,Dialogue,,0,0,0,,Ai găsit-o?
-Dialogue: 100,0:01:36.82,0:01:37.70,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:01:37.91,0:01:38.99,Dialogue,,0,0,0,,La naiba cu acel instrus.
-Dialogue: 100,0:01:38.99,0:01:40.58,Dialogue,,0,0,0,,Unde s-o fi putut duce?
-Dialogue: 100,0:01:41.16,0:01:43.04,Dialogue,,0,0,0,,Cât de enervant.
-Dialogue: 100,0:01:51.28,0:01:52.53,Dialogue,,0,0,0,,Am reușit.
-Dialogue: 100,0:02:07.14,0:02:09.90,Dialogue,,0,0,0,,{\an8}Lulu, am ajuns!
-Dialogue: 100,0:02:21.57,0:02:25.16,Dialogue,,0,0,0,,Haide! Haide!
-Dialogue: 100,0:02:37.09,0:02:38.13,Dialogue,,0,0,0,,Hayate!
-Dialogue: 100,0:02:38.13,0:02:39.84,Dialogue,,0,0,0,,Hayate Immelmann.
-Dialogue: 100,0:02:39.84,0:02:41.51,Dialogue,,0,0,0,,Vino la biroul meu imediat.
-Dialogue: 100,0:02:43.22,0:02:45.14,Dialogue,,0,0,0,,Bine, bine.
-Dialogue: 100,0:02:45.52,0:02:46.60,Dialogue,,0,0,0,,Poftim.
-Dialogue: 100,0:02:46.60,0:02:48.89,Dialogue,,0,0,0,,Acesta este ultimul tău salariu.
-Dialogue: 100,0:02:48.89,0:02:50.02,Dialogue,,0,0,0,,Sunt concediat?
-Dialogue: 100,0:02:50.02,0:02:51.31,Dialogue,,0,0,0,,Evident.
-Dialogue: 100,0:02:51.31,0:02:53.86,Dialogue,,0,0,0,,Freci menta atunci când \Neste soare ca să faci plajă
-Dialogue: 100,0:02:53.86,0:02:55.27,Dialogue,,0,0,0,,{\an8}Ce zgârciți.
-Dialogue: 100,0:02:53.86,0:02:57.07,Dialogue,,0,0,0,,și atunci când plouă deoarece \Nnu ai chef să muncești.
-Dialogue: 100,0:03:00.78,0:03:02.70,Dialogue,,0,0,0,,Mai avem și beleaua cu instrusul.
-Dialogue: 100,0:03:02.70,0:03:06.08,Dialogue,,0,0,0,,Cu toate incidentele astea Vár, \Nvremurile pașnice sunt de mult apuse.
-Dialogue: 100,0:03:06.08,0:03:08.87,Dialogue,,0,0,0,,Oricum, este ultima ta zi aici, deci încearcă să nu o închei prost.
-Dialogue: 100,0:03:09.12,0:03:10.16,Dialogue,,0,0,0,,Mare păcat.
-Dialogue: 100,0:03:10.16,0:03:12.25,Dialogue,,0,0,0,,Îți faci treaba bine atunci când nu lenevești.
-Dialogue: 100,0:03:13.08,0:03:15.71,Dialogue,,0,0,0,,Să nu-mi închei ziua prost, nu?
-Dialogue: 100,0:03:26.14,0:03:27.89,Dialogue,,0,0,0,,Atunci, haide să trecem la treabă.
-Dialogue: 100,0:03:37.69,0:03:39.15,Dialogue,,0,0,0,,Ai grijă, tipule!
-Dialogue: 100,0:03:47.54,0:03:49.04,Dialogue,,0,0,0,,Dansează.
-Dialogue: 100,0:03:49.04,0:03:50.79,Dialogue,,0,0,0,,Nu distruge containerul!
-Dialogue: 100,0:03:56.79,0:03:58.84,Dialogue,,0,0,0,,Sunetul dansează.
-Dialogue: 100,0:03:59.55,0:04:01.59,Dialogue,,0,0,0,,Este albastru? Sau alb?
-Dialogue: 100,0:04:01.59,0:04:03.84,Dialogue,,0,0,0,,Nu, acest sunet...
-Dialogue: 100,0:04:03.84,0:04:05.43,Dialogue,,0,0,0,,este culoarea vântului!
-Dialogue: 100,0:04:23.57,0:04:24.86,Dialogue,,0,0,0,,Î-Îmi cer scuze!
-Dialogue: 100,0:04:24.86,0:04:26.91,Dialogue,,0,0,0,,M-ai putea lăsa să plec?
-Dialogue: 100,0:04:26.91,0:04:27.70,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:04:27.70,0:04:31.12,Dialogue,,0,0,0,,Deci ea este intrusul?
-Dialogue: 100,0:04:37.13,0:04:38.50,Dialogue,,0,0,0,,Haide, coboară.
-Dialogue: 100,0:04:38.50,0:04:41.13,Dialogue,,0,0,0,,Mă vei lăsa să plec?
-Dialogue: 100,0:04:41.13,0:04:42.80,Dialogue,,0,0,0,,Bănuiesc că ai circumstanțele tale.
-Dialogue: 100,0:04:43.93,0:04:46.51,Dialogue,,0,0,0,,Îți mulțumesc!
-Dialogue: 100,0:04:47.47,0:04:49.93,Dialogue,,0,0,0,,Dar da, așa este.
-Dialogue: 100,0:04:49.93,0:04:52.56,Dialogue,,0,0,0,,Primarul mi-a spus: "Ai paisprezece ani. Nu-ți mai irosi viața.
-Dialogue: 100,0:04:52.56,0:04:56.27,Dialogue,,0,0,0,,Mergi și căsătorește-te cu moștenitorul fermei de mere."
-Dialogue: 100,0:04:56.27,0:04:59.07,Dialogue,,0,0,0,,I-am spus nu și el a spus tot nu.
-Dialogue: 100,0:04:59.07,0:05:01.44,Dialogue,,0,0,0,,Deci am profitat de ocazie și m-am strecurat pe o navă,
-Dialogue: 100,0:05:01.44,0:05:04.65,Dialogue,,0,0,0,,dar mă durea fundul și îmi era greu să folosesc toaleta.
-Dialogue: 100,0:05:04.65,0:05:07.03,Dialogue,,0,0,0,,Oh, am uitat să mă prezint.
-Dialogue: 100,0:05:07.03,0:05:09.87,Dialogue,,0,0,0,,Eu sunt Freyja Wion.
-Dialogue: 100,0:05:09.87,0:05:15.42,Dialogue,,0,0,0,,Îți sunt cu adevărat... cu adevărat...
-Dialogue: 100,0:05:15.42,0:05:17.92,Dialogue,,0,0,0,,flămândă...
-Dialogue: 100,0:05:18.29,0:05:19.88,Dialogue,,0,0,0,,B-Bine...
-Dialogue: 100,0:05:24.80,0:05:28.97,Dialogue,,0,0,0,,Astea sunt geniale după ce am supraviețui pe o dietă cu mere!
-Dialogue: 100,0:05:29.35,0:05:32.64,Dialogue,,0,0,0,,Deci te-ai strecurat pe o navă deoarece nu voiai să te căsătorești?
-Dialogue: 100,0:05:33.60,0:05:35.89,Dialogue,,0,0,0,,Asta nu e tot!
-Dialogue: 100,0:05:35.89,0:05:37.98,Dialogue,,0,0,0,,Privește!
-Dialogue: 100,0:05:41.82,0:05:45.53,Dialogue,,0,0,0,,Nu este acesta cântecul care ajută la neutralizarea Sindromului Vár?
-Dialogue: 100,0:05:45.53,0:05:46.24,Dialogue,,0,0,0,,Ba da!
-Dialogue: 100,0:05:46.24,0:05:47.78,Dialogue,,0,0,0,,Este ultimul cântec al Walküre!
-Dialogue: 100,0:05:47.78,0:05:49.87,Dialogue,,0,0,0,,"Iubirea oprește războiul."
-Dialogue: 100,0:05:51.41,0:05:51.99,Dialogue,,0,0,0,,Și?
-Dialogue: 100,0:05:53.62,0:05:58.58,Dialogue,,0,0,0,,Au nevoie de un membru nou și vor ține o audiție pe Planeta Ragna săptămâna viitoare!
-Dialogue: 100,0:05:58.58,0:06:00.25,Dialogue,,0,0,0,,Și vrei să aplici?
-Dialogue: 100,0:06:00.25,0:06:01.29,Dialogue,,0,0,0,,Da!
-Dialogue: 100,0:06:01.29,0:06:04.05,Dialogue,,0,0,0,,Apropo, asta nu e Planeta Ragna.
-Dialogue: 100,0:06:05.09,0:06:06.47,Dialogue,,0,0,0,,Este Planeta Al Shahal.
-Dialogue: 100,0:06:06.47,0:06:08.80,Dialogue,,0,0,0,,Ragna este la 30 de ani lumină distanță.
-Dialogue: 100,0:06:14.47,0:06:16.35,Dialogue,,0,0,0,,Am făcut o greșeală teribilă!
-Dialogue: 100,0:06:16.35,0:06:18.19,Dialogue,,0,0,0,,Ghinion.
-Dialogue: 100,0:06:18.19,0:06:20.06,Dialogue,,0,0,0,,Cred că e momentul să renunți.
-Dialogue: 100,0:06:20.06,0:06:21.48,Dialogue,,0,0,0,,Poftim, mai mănâncăm una.
-Dialogue: 100,0:06:21.98,0:06:24.90,Dialogue,,0,0,0,,Nu, nu voi renunța!
-Dialogue: 100,0:06:24.90,0:06:26.82,Dialogue,,0,0,0,,Voi ajunge pe Ragna
-Dialogue: 100,0:06:26.82,0:06:30.20,Dialogue,,0,0,0,,și mă voi intra în Walküre!
-Dialogue: 100,0:06:31.62,0:06:33.16,Dialogue,,0,0,0,,De ce ești așa hotărâtă?
-Dialogue: 100,0:06:33.49,0:06:34.91,Dialogue,,0,0,0,,Chiar e nevoie să întrebi?
-Dialogue: 100,0:06:37.21,0:06:39.12,Dialogue,,0,0,0,,Deoarece iubesc Walküre!
-Dialogue: 100,0:06:39.71,0:06:42.34,Dialogue,,0,0,0,,Iubesc să cânt!
-Dialogue: 100,0:06:47.88,0:06:51.84,Dialogue,,0,0,0,,Cântatul mă face să mă simt vie.
-Dialogue: 100,0:06:51.84,0:06:55.31,Dialogue,,0,0,0,,Îmi face runa să strălucească puternic!
-Dialogue: 100,0:06:56.68,0:06:57.85,Dialogue,,0,0,0,,Ce prostesc.
-Dialogue: 100,0:06:57.85,0:07:00.02,Dialogue,,0,0,0,,Nu vei trece de audiție.
-Dialogue: 100,0:07:00.31,0:07:01.73,Dialogue,,0,0,0,,Ba da!
-Dialogue: 100,0:07:01.73,0:07:03.27,Dialogue,,0,0,0,,Pot zbura dacă mă las dusă de vânt.
-Dialogue: 100,0:07:03.27,0:07:06.65,Dialogue,,0,0,0,,Nu ai și tu ceva ce îți place?
-Dialogue: 100,0:07:06.65,0:07:07.78,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:07:07.78,0:07:10.45,Dialogue,,0,0,0,,Un hobby? Sau o iubită?
-Dialogue: 100,0:07:10.45,0:07:11.32,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:07:11.32,0:07:12.35,Dialogue,,0,0,0,,Un serviciu?
-Dialogue: 100,0:07:12.35,0:07:15.41,Dialogue,,0,0,0,,Cum ar putea să-ți {\i1}placă{\i0} un să ai un serviciu?
-Dialogue: 100,0:07:16.66,0:07:18.54,Dialogue,,0,0,0,,Vai, dar ce viață distracitvă ai.
-Dialogue: 100,0:07:19.33,0:07:21.08,Dialogue,,0,0,0,,Nu ți-a cerut nimeni părerea—
-Dialogue: 100,0:07:23.96,0:07:25.29,Dialogue,,0,0,0,,Am găsit-o!
-Dialogue: 100,0:07:26.96,0:07:27.63,Dialogue,,0,0,0,,Oh!
-Dialogue: 100,0:07:27.63,0:07:29.92,Dialogue,,0,0,0,,Mersi pentru bilele de orez!
-Dialogue: 100,0:07:29.92,0:07:30.80,Dialogue,,0,0,0,,Oprește-te!
-Dialogue: 100,0:07:30.80,0:07:31.88,Dialogue,,0,0,0,,Nici gând!
-Dialogue: 100,0:07:35.43,0:07:37.72,Dialogue,,0,0,0,,Ce ciudată.
-Dialogue: 100,0:07:38.81,0:07:41.19,Dialogue,,0,0,0,,{\an8\i1}Bun-venit pe Al Shahal.
-Dialogue: 100,0:07:41.56,0:07:45.15,Dialogue,,0,0,0,,{\an8\i1}Autobuzele directe către orașul Shahal pleacă de la terminalele trei până la opt inclusiv.
-Dialogue: 100,0:07:45.15,0:07:46.52,Dialogue,,0,0,0,,Mă scuzați!
-Dialogue: 100,0:07:46.52,0:07:49.36,Dialogue,,0,0,0,,Îți puteți face loc, vă rog!
-Dialogue: 100,0:07:51.81,0:07:53.78,Dialogue,,0,0,0,,Deci așa arată un oraș.
-Dialogue: 100,0:07:56.45,0:07:58.12,Dialogue,,0,0,0,,Nu te lăsa descurajată.
-Dialogue: 100,0:08:00.12,0:08:01.33,Dialogue,,0,0,0,,Acea voce...
-Dialogue: 100,0:08:07.46,0:08:09.13,Dialogue,,0,0,0,,Este culoarea curcubeului.
-Dialogue: 100,0:08:09.84,0:08:11.26,Dialogue,,0,0,0,,Acolo este!
-Dialogue: 100,0:08:11.26,0:08:12.38,Dialogue,,0,0,0,,M-ai bine fug!
-Dialogue: 100,0:08:13.05,0:08:13.82,Dialogue,,0,0,0,,Care-i treaba?
-Dialogue: 100,0:08:13.82,0:08:14.91,Dialogue,,0,0,0,,Ce se întâmplă?
-Dialogue: 100,0:08:14.91,0:08:16.60,Dialogue,,0,0,0,,S-a întâmplat ceva, Mikumo?
-Dialogue: 100,0:08:18.98,0:08:20.70,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:08:20.70,0:08:21.93,Dialogue,,0,0,0,,Nu e nicio problemă aici.
-Dialogue: 100,0:08:22.89,0:08:24.65,Dialogue,,0,0,0,,Makina și Reina, cum merge la voi?
-Dialogue: 100,0:08:24.65,0:08:25.84,Dialogue,,0,0,0,,Hei, hei.
-Dialogue: 100,0:08:25.86,0:08:27.61,Dialogue,,0,0,0,,Aici Maki-Maki.
-Dialogue: 100,0:08:27.86,0:08:30.82,Dialogue,,0,0,0,,Nimic special în orașul Shahal.
-Dialogue: 100,0:08:33.24,0:08:35.78,Dialogue,,0,0,0,,Aceia sunt Regult 104s.
-Dialogue: 100,0:08:36.66,0:08:37.74,Dialogue,,0,0,0,,Drăguț!
-Dialogue: 100,0:08:38.41,0:08:39.66,Dialogue,,0,0,0,,Aici Reina.
-Dialogue: 100,0:08:39.66,0:08:42.00,Dialogue,,0,0,0,,Senzorii compuși nu detectează nimic.
-Dialogue: 100,0:08:43.16,0:08:46.42,Dialogue,,0,0,0,,Voi începe să fac găluște cu supă miso picantă și meduze la restaurantul meu.
-Dialogue: 100,0:08:46.42,0:08:47.42,Dialogue,,0,0,0,,Dacă ți-ar plăcea—
-Dialogue: 100,0:08:47.42,0:08:48.29,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:08:48.29,0:08:50.46,Dialogue,,0,0,0,,Prefer meduzele crude.
-Dialogue: 100,0:08:50.46,0:08:52.01,Dialogue,,0,0,0,,Ca să le înghit cu totul.
-Dialogue: 100,0:08:53.09,0:08:55.23,Dialogue,,0,0,0,,Sashimi din meduze și niște sake din banane.
-Dialogue: 100,0:08:55.23,0:08:56.55,Dialogue,,0,0,0,,Comandante Arad.
-Dialogue: 100,0:08:56.55,0:08:58.76,Dialogue,,0,0,0,,Nu te prostii când ești în misiune, Chuck.
-Dialogue: 100,0:08:58.76,0:08:59.85,Dialogue,,0,0,0,,Am înțeles, domnule!
-Dialogue: 100,0:08:59.85,0:09:02.93,Dialogue,,0,0,0,,Dar ești sigur că vor \Napărea incidente Vár aici?
-Dialogue: 100,0:09:03.18,0:09:08.11,Dialogue,,0,0,0,,Au fost zece cazuri de \NSindrom Vár în ultima lună.
-Dialogue: 100,0:09:08.11,0:09:11.65,Dialogue,,0,0,0,,Dintre care trei aveau \Nanomalii în undele lor încrucișate, biologice.
-Dialogue: 100,0:09:12.07,0:09:16.36,Dialogue,,0,0,0,,Am detectat o anomalie în apropierea orașului Shahal acum cincisprezece ore.
-Dialogue: 100,0:09:16.36,0:09:21.29,Dialogue,,0,0,0,,Și ordinul primit de la doamna M este să află cine este responsabil de asta.
-Dialogue: 100,0:09:21.95,0:09:23.41,Dialogue,,0,0,0,,Deci, Mikumo.
-Dialogue: 100,0:09:23.41,0:09:25.75,Dialogue,,0,0,0,,Cum se descurcă fetița noastră naivă?
-Dialogue: 100,0:09:26.25,0:09:27.54,Dialogue,,0,0,0,,Nu prea știu.
-Dialogue: 100,0:09:27.54,0:09:31.13,Dialogue,,0,0,0,,Nu pot fi sub acoperire cu ea prin preajmă.
-Dialogue: 100,0:09:31.92,0:09:33.84,Dialogue,,0,0,0,,Mikumo, răspunde, te rog!
-Dialogue: 100,0:09:33.84,0:09:34.88,Dialogue,,0,0,0,,Mikumo!
-Dialogue: 100,0:09:37.01,0:09:38.22,Dialogue,,0,0,0,,Doamne.
-Dialogue: 100,0:09:38.22,0:09:39.60,Dialogue,,0,0,0,,Mereu face asta.
-Dialogue: 100,0:09:39.60,0:09:41.43,Dialogue,,0,0,0,,La naiba cu ea.
-Dialogue: 100,0:09:41.43,0:09:43.22,Dialogue,,0,0,0,,"Vai, dar ce viață distractivă ai."
-Dialogue: 100,0:09:45.31,0:09:46.23,Dialogue,,0,0,0,,Ce e cu toată agitația asta?
-Dialogue: 100,0:09:46.23,0:09:48.40,Dialogue,,0,0,0,,Au prins intrusul.
-Dialogue: 100,0:09:48.40,0:09:50.77,Dialogue,,0,0,0,,Ce prost.
-Dialogue: 100,0:09:55.65,0:09:58.00,Dialogue,,0,0,0,,Ne-ai cam dat ceva bătăi de cap.
-Dialogue: 100,0:09:58.00,0:10:00.66,Dialogue,,0,0,0,,Acum, predă-te și întoarce-te de unde ai venit.
-Dialogue: 100,0:10:01.37,0:10:02.70,Dialogue,,0,0,0,,Refuz!
-Dialogue: 100,0:10:02.70,0:10:04.91,Dialogue,,0,0,0,,Dacă voi încerca, voi putea zbura.
-Dialogue: 100,0:10:13.59,0:10:14.55,Dialogue,,0,0,0,,Urcă!
-Dialogue: 100,0:10:14.55,0:10:15.67,Dialogue,,0,0,0,,Tu din nou.
-Dialogue: 100,0:10:16.63,0:10:17.51,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:10:17.51,0:10:18.47,Dialogue,,0,0,0,,La naiba!
-Dialogue: 100,0:10:18.47,0:10:19.97,Dialogue,,0,0,0,,Nu-i lăsați să scape!
-Dialogue: 100,0:10:21.05,0:10:23.26,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:10:24.18,0:10:25.02,Dialogue,,0,0,0,,Ce a fost asta?
-Dialogue: 100,0:10:36.57,0:10:40.32,Dialogue,,0,0,0,,Hei, de ce m-ai salvat?
-Dialogue: 100,0:10:40.32,0:10:41.95,Dialogue,,0,0,0,,Nu știu.
-Dialogue: 100,0:10:43.03,0:10:44.79,Dialogue,,0,0,0,,De pe ce planetă ai venit?
-Dialogue: 100,0:10:45.20,0:10:46.29,Dialogue,,0,0,0,,Sau ești cumva...
-Dialogue: 100,0:10:49.83,0:10:51.08,Dialogue,,0,0,0,,de pe o flotă imigrantă?
-Dialogue: 100,0:10:51.54,0:10:53.54,Dialogue,,0,0,0,,Cunosc pe cineva de pe o navă de transport, deci de ce nu—
-Dialogue: 100,0:10:53.54,0:10:54.80,Dialogue,,0,0,0,,Nu voi merge acasă!
-Dialogue: 100,0:10:54.80,0:10:56.38,Dialogue,,0,0,0,,Vei zbura spre Ragna?
-Dialogue: 100,0:10:56.38,0:10:57.34,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:10:57.34,0:10:58.84,Dialogue,,0,0,0,,Pot zbura dacă pot merge o dată cu vântul.
-Dialogue: 100,0:10:58.84,0:11:01.18,Dialogue,,0,0,0,,Și dacă îmi risc viața, atunci pot zbura.
-Dialogue: 100,0:11:01.18,0:11:03.05,Dialogue,,0,0,0,,Să-ți riști viața?
-Dialogue: 100,0:11:03.05,0:11:05.60,Dialogue,,0,0,0,,Nu cred că merită să-ți riști viața pentru acea audiție.
-Dialogue: 100,0:11:05.60,0:11:06.35,Dialogue,,0,0,0,,Ba da!
-Dialogue: 100,0:11:06.35,0:11:08.85,Dialogue,,0,0,0,,De ce continui să presupui că audiția este o prostie?
-Dialogue: 100,0:11:10.14,0:11:13.06,Dialogue,,0,0,0,,Deoarece eu nu am nimic special.
-Dialogue: 100,0:11:13.48,0:11:17.36,Dialogue,,0,0,0,,Am fost prin multe locuri și am încercat multe lucruri,
-Dialogue: 100,0:11:17.36,0:11:18.94,Dialogue,,0,0,0,,dar nimic nu părea ceea ce trebuie.
-Dialogue: 100,0:11:20.03,0:11:23.78,Dialogue,,0,0,0,,Și eu am crezut că aș putea găsi ceva undeva.
-Dialogue: 100,0:11:23.78,0:11:24.49,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:11:24.49,0:11:25.95,Dialogue,,0,0,0,,Ei bine, nu sunt surprinsă deloc!
-Dialogue: 100,0:11:27.54,0:11:29.29,Dialogue,,0,0,0,,Nu poți pur și simplu să mergi {\i1}undeva{\i0}.
-Dialogue: 100,0:11:29.29,0:11:31.50,Dialogue,,0,0,0,,Trebuie să mergi acolo unde vrei {\i1}tu{\i0} să mergi!
-Dialogue: 100,0:11:39.26,0:11:42.30,Dialogue,,0,0,0,,Vreau să cânt ceea ce-mi place!
-Dialogue: 100,0:11:42.30,0:11:45.22,Dialogue,,0,0,0,,Cât mai mult posibil!
-Dialogue: 100,0:11:45.22,0:11:48.56,Dialogue,,0,0,0,,Deci nu voi merge acasă!
-Dialogue: 100,0:12:02.91,0:12:04.28,Dialogue,,0,0,0,,Auci...
-Dialogue: 100,0:12:10.37,0:12:11.33,Dialogue,,0,0,0,,Nu mișca!
-Dialogue: 100,0:12:14.79,0:12:16.54,Dialogue,,0,0,0,,Perversule!
-Dialogue: 100,0:12:17.25,0:12:18.63,Dialogue,,0,0,0,,Am prins intrusul!
-Dialogue: 100,0:12:18.63,0:12:20.13,Dialogue,,0,0,0,,Stai! Ai greșit persoana!
-Dialogue: 100,0:12:20.13,0:12:22.93,Dialogue,,0,0,0,,Te pot aresta pentru hărțuire sexuală!
-Dialogue: 100,0:12:22.93,0:12:23.43,Dialogue,,0,0,0,,Bună!
-Dialogue: 100,0:12:23.43,0:12:25.59,Dialogue,,0,0,0,,Eu sunt intrusul!
-Dialogue: 100,0:12:27.01,0:12:27.72,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:12:30.14,0:12:31.73,Dialogue,,0,0,0,,Îmi pare foarte rău.
-Dialogue: 100,0:12:31.73,0:12:34.98,Dialogue,,0,0,0,,Tu nu lucrezi la aeroport, nu-i așa?
-Dialogue: 100,0:12:34.98,0:12:36.15,Dialogue,,0,0,0,,Cine ești?
-Dialogue: 100,0:12:37.44,0:12:42.24,Dialogue,,0,0,0,,A treia flotă a Xaos Ragna, locotenentul secund al Plutonului Delta,
-Dialogue: 100,0:12:42.24,0:12:44.53,Dialogue,,0,0,0,,Mirage Farina Jenius.
-Dialogue: 100,0:12:45.20,0:12:46.53,Dialogue,,0,0,0,,Plutonul Delta?!
-Dialogue: 100,0:12:46.74,0:12:48.66,Dialogue,,0,0,0,,Cum te numești?
-Dialogue: 100,0:12:48.66,0:12:49.70,Dialogue,,0,0,0,,Hayate.
-Dialogue: 100,0:12:49.70,0:12:51.25,Dialogue,,0,0,0,,Hayate Immelmann.
-Dialogue: 100,0:12:51.25,0:12:53.16,Dialogue,,0,0,0,,Te rog să trimiți orice \Nplângere către superiorii—
-Dialogue: 100,0:12:53.16,0:12:57.38,Dialogue,,0,0,0,,Prin Plutonul Delta te referi la cel care zboară cu Walküre?
-Dialogue: 100,0:12:57.38,0:12:59.21,Dialogue,,0,0,0,,D-Da.
-Dialogue: 100,0:12:59.21,0:13:02.05,Dialogue,,0,0,0,,Asta este minunat!
-Dialogue: 100,0:13:02.05,0:13:04.26,Dialogue,,0,0,0,,Ce se întâmplă?
-Dialogue: 100,0:13:04.26,0:13:06.76,Dialogue,,0,0,0,,Se pare că este fanul vostru.
-Dialogue: 100,0:13:07.80,0:13:08.64,Dialogue,,0,0,0,,Fanul?
-Dialogue: 100,0:13:09.01,0:13:10.26,Dialogue,,0,0,0,,Așa este!
-Dialogue: 100,0:13:11.77,0:13:14.77,Dialogue,,0,0,0,,{\an8}Al Zecelea Batalion Marin de Asalt, \Nporniți spre Al Shahal.
-Dialogue: 100,0:13:15.31,0:13:15.94,Dialogue,,0,0,0,,{\an8}Recepționat.
-Dialogue: 100,0:13:16.56,0:13:18.81,Dialogue,,0,0,0,,{\an8}Randamentul meu nu este consistent. \NPoți arunca o privire?
-Dialogue: 100,0:13:19.57,0:13:21.15,Dialogue,,0,0,0,,{\an8}Bine, în acest caz...
-Dialogue: 100,0:13:31.99,0:13:32.83,Dialogue,,0,0,0,,Un cântec?
-Dialogue: 100,0:13:47.13,0:13:49.76,Dialogue,,0,0,0,,Detectăm anomalii în undele încrucișate, biologice!
-Dialogue: 100,0:13:49.76,0:13:51.56,Dialogue,,0,0,0,,De ce sunt atât de multe?
-Dialogue: 100,0:13:51.56,0:13:54.68,Dialogue,,0,0,0,,Asta mai este și o bază Zentraedi.
-Dialogue: 100,0:13:55.52,0:13:57.73,Dialogue,,0,0,0,,Nu se putea mai rău de atât.
-Dialogue: 100,0:13:59.02,0:14:02.44,Dialogue,,0,0,0,,{\an8\i1}Alerta Vár a fost activată. Nivelul...
-Dialogue: 100,0:14:02.44,0:14:03.65,Dialogue,,0,0,0,,Alerta Vár!
-Dialogue: 100,0:14:04.19,0:14:05.28,Dialogue,,0,0,0,,Recepționat!
-Dialogue: 100,0:14:05.28,0:14:06.40,Dialogue,,0,0,0,,Sunt pe drum.
-Dialogue: 100,0:14:07.07,0:14:09.32,Dialogue,,0,0,0,,Mergeți și adăpostiți-vă.
-Dialogue: 100,0:14:09.32,0:14:10.28,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:14:10.28,0:14:11.28,Dialogue,,0,0,0,,Ce se petrece?
-Dialogue: 100,0:14:12.12,0:14:14.04,Dialogue,,0,0,0,,Are loc un incident Vár.
-Dialogue: 100,0:14:14.04,0:14:16.96,Dialogue,,0,0,0,,Acest loc va deveni un câmp de luptă.
-Dialogue: 100,0:14:18.25,0:14:19.88,Dialogue,,0,0,0,,Un câmp de luptă?
-Dialogue: 100,0:14:31.39,0:14:32.30,Dialogue,,0,0,0,,Acesta este un avertisment!
-Dialogue: 100,0:14:32.30,0:14:33.81,Dialogue,,0,0,0,,Întoarceți-vă la baza voastră!
-Dialogue: 100,0:14:33.81,0:14:35.31,Dialogue,,0,0,0,,Dacă veți refuza—
-Dialogue: 100,0:14:37.27,0:14:38.23,Dialogue,,0,0,0,,Este inutil!
-Dialogue: 100,0:14:38.23,0:14:40.27,Dialogue,,0,0,0,,Au pierdut complet controlul!
-Dialogue: 100,0:14:58.87,0:15:00.27,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:15:00.27,0:15:02.84,Dialogue,,0,0,0,,Aud o voce în culoarea curcubeului.
-Dialogue: 100,0:15:11.68,0:15:14.22,Dialogue,,0,0,0,,Avem în sfârșit parte de acțiune.
-Dialogue: 100,0:15:17.22,0:15:18.35,Dialogue,,0,0,0,,Să mergem!
-Dialogue: 100,0:15:19.31,0:15:21.48,Dialogue,,0,0,0,,Este timpul pentru spectacol!
-Dialogue: 100,0:15:24.57,0:15:26.94,Dialogue,,0,0,0,,Muzica este magie!
-Dialogue: 100,0:15:28.82,0:15:29.74,Dialogue,,0,0,0,,Știam eu!
-Dialogue: 100,0:15:29.74,0:15:30.90,Dialogue,,0,0,0,,Este Mikumo!
-Dialogue: 100,0:15:46.34,0:15:48.55,Dialogue,,0,0,0,,Muzica este iubire!
-Dialogue: 100,0:15:51.09,0:15:53.51,Dialogue,,0,0,0,,Muzica este speranță!
-Dialogue: 100,0:15:55.60,0:15:58.18,Dialogue,,0,0,0,,Muzica este viață!
-Dialogue: 100,0:15:59.06,0:16:02.77,Dialogue,,0,0,0,,Ascultați cântecul unor zeițe!
-Dialogue: 100,0:16:02.77,0:16:06.61,Dialogue,,0,0,0,,Super Dimensiunea Venus, Walküre!
-Dialogue: 100,0:16:11.11,0:16:12.70,Dialogue,,0,0,0,,Sunt Walküre!
-Dialogue: 100,0:16:30.30,0:16:31.34,Dialogue,,0,0,0,,Uimitor!
-Dialogue: 100,0:16:31.63,0:16:33.09,Dialogue,,0,0,0,,Cât de grozav!
-Dialogue: 100,0:17:09.63,0:17:10.50,Dialogue,,0,0,0,,Uimitor!
-Dialogue: 100,0:17:10.50,0:17:12.26,Dialogue,,0,0,0,,Incredibil!
-Dialogue: 100,0:17:12.51,0:17:14.68,Dialogue,,0,0,0,,Liderul Delta către toate unitățile.
-Dialogue: 100,0:17:14.68,0:17:17.76,Dialogue,,0,0,0,,Țineți Sindromul Vár în interiorul barierei.
-Dialogue: 100,0:17:17.76,0:17:19.72,Dialogue,,0,0,0,,Formația Aripa Walküre!
-Dialogue: 100,0:17:19.72,0:17:20.97,Dialogue,,0,0,0,,{\fs20\fry-10\frz-5.18\fax0.09\pos(1264.857,604)\bord1.6}Recepționat!
-Dialogue: 100,0:17:19.72,0:17:20.97,Dialogue,,0,0,0,,{\fs20\fry-10\frz-2.96\fax0.03\pos(1655.81,352.333)\bord1.6}Recepționat!
-Dialogue: 100,0:17:19.72,0:17:20.97,Dialogue,,0,0,0,,Recepționat!
-Dialogue: 100,0:17:27.69,0:17:28.36,Dialogue,,0,0,0,,Fir-ar!
-Dialogue: 100,0:17:28.36,0:17:29.19,Dialogue,,0,0,0,,Rei-Rei!
-Dialogue: 100,0:17:35.70,0:17:36.82,Dialogue,,0,0,0,,Aici Makina.
-Dialogue: 100,0:17:36.82,0:17:38.45,Dialogue,,0,0,0,,Trimiteți putere către Multidrone.
-Dialogue: 100,0:17:38.45,0:17:40.45,Dialogue,,0,0,0,,Delta 4, recepționat.
-Dialogue: 100,0:18:03.56,0:18:04.73,Dialogue,,0,0,0,,Unul dintre ei nu se sincronizează.
-Dialogue: 100,0:18:19.74,0:18:20.57,Dialogue,,0,0,0,,Mikumo!
-Dialogue: 100,0:18:20.57,0:18:21.45,Dialogue,,0,0,0,,Cred că glumești.
-Dialogue: 100,0:18:31.96,0:18:33.84,Dialogue,,0,0,0,,Deculture.
-Dialogue: 100,0:18:46.31,0:18:48.02,Dialogue,,0,0,0,,Walküre!
-Dialogue: 100,0:18:48.02,0:18:49.81,Dialogue,,0,0,0,,Au neutralizat Sindromul Vár cu muzică.
-Dialogue: 100,0:18:50.81,0:18:52.81,Dialogue,,0,0,0,,Receptorii încrucișati sunt activi.
-Dialogue: 100,0:18:56.82,0:18:57.86,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:18:57.86,0:18:59.28,Dialogue,,0,0,0,,Cântecul funcționează.
-Dialogue: 100,0:19:12.83,0:19:15.46,Dialogue,,0,0,0,,Nave străine detectate în Zona 108. Decolați!
-Dialogue: 100,0:19:15.46,0:19:17.55,Dialogue,,0,0,0,,Toate unitățile, pregățiți-vă de interceptare!
-Dialogue: 100,0:19:17.55,0:19:19.84,Dialogue,,0,0,0,,Repet! Toate unițătile, pregătiți-vă de interceptare!
-Dialogue: 100,0:19:19.84,0:19:21.80,Dialogue,,0,0,0,,Se pregătesc de interceptare.
-Dialogue: 100,0:19:21.80,0:19:23.14,Dialogue,,0,0,0,,Interceptați-i în T minus 300 de secunde.
-Dialogue: 100,0:19:23.14,0:19:25.76,Dialogue,,0,0,0,,Cavaleri Zburători, pregătiți-vă de interceptare.
-Dialogue: 100,0:19:27.85,0:19:31.48,Dialogue,,0,0,0,,Mergeți cu vântul, cavalerii mei zburători!
-Dialogue: 100,0:19:32.19,0:19:33.98,Dialogue,,0,0,0,,Pentru marele vânt.
-Dialogue: 100,0:19:33.98,0:19:35.86,Dialogue,,0,0,0,,Pentru marele vânt!
-Dialogue: 100,0:19:35.86,0:19:38.53,Dialogue,,0,0,0,,Bun, am să vă arăt cum se face!
-Dialogue: 100,0:19:47.74,0:19:49.33,Dialogue,,0,0,0,,Trei ținte doborâte.
-Dialogue: 100,0:19:49.33,0:19:50.75,Dialogue,,0,0,0,,Inamic dedesubt la ora nouă.
-Dialogue: 100,0:19:53.50,0:19:55.21,Dialogue,,0,0,0,,Nu-ți lăsa garda jos, Bogue.
-Dialogue: 100,0:19:55.21,0:19:57.21,Dialogue,,0,0,0,,Maestre Hermann!
-Dialogue: 100,0:19:57.21,0:19:59.13,Dialogue,,0,0,0,,Nu-mi spune maestru.
-Dialogue: 100,0:19:59.13,0:20:00.42,Dialogue,,0,0,0,,Am înțeles, domnule!
-Dialogue: 100,0:20:10.31,0:20:11.73,Dialogue,,0,0,0,,Navele necunoscute se apropie repede!
-Dialogue: 100,0:20:11.73,0:20:13.90,Dialogue,,0,0,0,,Închideți poarta de lansare imediat!
-Dialogue: 100,0:20:20.15,0:20:23.61,Dialogue,,0,0,0,,Comandante Arad, am vești pentru tine.
-Dialogue: 100,0:20:23.61,0:20:27.07,Dialogue,,0,0,0,,Navele necunoscute au distrus flota garnizoană a Planetei Al Shahal.
-Dialogue: 100,0:20:27.08,0:20:28.58,Dialogue,,0,0,0,,Acum se îndreaptă spre voi.
-Dialogue: 100,0:20:28.58,0:20:29.74,Dialogue,,0,0,0,,Nave necunoscute?
-Dialogue: 100,0:20:35.29,0:20:36.46,Dialogue,,0,0,0,,Inamici noi?
-Dialogue: 100,0:20:37.09,0:20:38.71,Dialogue,,0,0,0,,Considerați-le ostile.
-Dialogue: 100,0:20:38.71,0:20:39.92,Dialogue,,0,0,0,,Puteți folosi orice armă.
-Dialogue: 100,0:20:40.26,0:20:41.97,Dialogue,,0,0,0,,Formația Hermes!
-Dialogue: 100,0:20:41.97,0:20:42.72,Dialogue,,0,0,0,,Recepționat!
-Dialogue: 100,0:20:42.72,0:20:43.68,Dialogue,,0,0,0,,Am înțeles, domnule!
-Dialogue: 100,0:20:46.22,0:20:48.43,Dialogue,,0,0,0,,Al meu ești!
-Dialogue: 100,0:20:50.60,0:20:51.81,Dialogue,,0,0,0,,Ce sunt aceste interferențe?
-Dialogue: 100,0:20:52.81,0:20:53.64,Dialogue,,0,0,0,,S-a separat?!
-Dialogue: 100,0:20:53.64,0:20:55.10,Dialogue,,0,0,0,,Ține asta!
-Dialogue: 100,0:20:56.06,0:20:56.77,Dialogue,,0,0,0,,Mirage!
-Dialogue: 100,0:20:56.77,0:20:57.48,Dialogue,,0,0,0,,Chuck!
-Dialogue: 100,0:20:59.40,0:21:01.53,Dialogue,,0,0,0,,Contează pe marele Chuck!
-Dialogue: 100,0:21:01.53,0:21:04.45,Dialogue,,0,0,0,,Atacul Submarinului!
-Dialogue: 100,0:21:07.28,0:21:09.28,Dialogue,,0,0,0,,Vino și prinde-mă...
-Dialogue: 100,0:21:09.28,0:21:10.83,Dialogue,,0,0,0,,Al meu ești!
-Dialogue: 100,0:21:10.83,0:21:11.50,Dialogue,,0,0,0,,Prea ușor.
-Dialogue: 100,0:21:14.16,0:21:15.37,Dialogue,,0,0,0,,Acum, Messer!
-Dialogue: 100,0:21:15.37,0:21:16.21,Dialogue,,0,0,0,,Recepționat!
-Dialogue: 100,0:21:17.63,0:21:18.84,Dialogue,,0,0,0,,Acest vânt...
-Dialogue: 100,0:21:18.84,0:21:20.17,Dialogue,,0,0,0,,Sunt buni.
-Dialogue: 100,0:21:20.17,0:21:22.51,Dialogue,,0,0,0,,Ține asta!
-Dialogue: 100,0:21:22.51,0:21:24.84,Dialogue,,0,0,0,,Trei! Doi! Unu!
-Dialogue: 100,0:21:32.97,0:21:34.06,Dialogue,,0,0,0,,S-a ferit de ele?!
-Dialogue: 100,0:21:36.27,0:21:37.23,Dialogue,,0,0,0,,Liniștește-te.
-Dialogue: 100,0:21:37.23,0:21:38.19,Dialogue,,0,0,0,,Lord Keith!
-Dialogue: 100,0:21:38.19,0:21:39.15,Dialogue,,0,0,0,,Este rapid.
-Dialogue: 100,0:21:47.20,0:21:48.49,Dialogue,,0,0,0,,Un Înger al Morții?
-Dialogue: 100,0:21:54.00,0:21:55.33,Dialogue,,0,0,0,,Direcția de zbor...
-Dialogue: 100,0:21:56.04,0:21:57.08,Dialogue,,0,0,0,,Lidere, se îndreaptă spre voi.
-Dialogue: 100,0:21:57.71,0:21:59.04,Dialogue,,0,0,0,,Toată lumea, aveți grijă.
-Dialogue: 100,0:22:05.42,0:22:08.22,Dialogue,,0,0,0,,Ardeți în iad, Walküre!
-Dialogue: 100,0:22:18.10,0:22:19.35,Dialogue,,0,0,0,,Mikumo!
-Dialogue: 100,0:22:19.35,0:22:20.40,Dialogue,,0,0,0,,Mikumo?
-Dialogue: 100,0:22:21.77,0:22:23.11,Dialogue,,0,0,0,,Vár se apropie.
-Dialogue: 100,0:22:23.78,0:22:25.11,Dialogue,,0,0,0,,Rei-Rei!
-Dialogue: 100,0:22:31.12,0:22:32.08,Dialogue,,0,0,0,,Walküre...
-Dialogue: 100,0:22:39.71,0:22:41.46,Dialogue,,0,0,0,,Ați făcut-o acum.
-Dialogue: 100,0:22:56.18,0:22:57.52,Dialogue,,0,0,0,,Makina...
-Dialogue: 100,0:22:57.52,0:22:58.44,Dialogue,,0,0,0,,Rei-Rei!
-Dialogue: 100,0:22:58.44,0:23:00.06,Dialogue,,0,0,0,,Haideți să cântăm.
-Dialogue: 100,0:23:00.06,0:23:01.02,Dialogue,,0,0,0,,Da!
-Dialogue: 100,0:23:08.53,0:23:09.95,Dialogue,,0,0,0,,Sunt nebune?
-Dialogue: 100,0:23:14.91,0:23:16.04,Dialogue,,0,0,0,,Nu...
-Dialogue: 100,0:23:16.04,0:23:17.16,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:23:17.75,0:23:18.91,Dialogue,,0,0,0,,Mă simt incredibil...
-Dialogue: 100,0:23:19.66,0:23:21.50,Dialogue,,0,0,0,,Nu mai rezist.
-Dialogue: 100,0:23:21.50,0:23:22.29,Dialogue,,0,0,0,,Lulu...
-Dialogue: 100,0:23:22.92,0:23:24.29,Dialogue,,0,0,0,,Lulu...
-Dialogue: 100,0:23:24.29,0:23:27.30,Dialogue,,0,0,0,,Rune pika!
-Dialogue: 100,0:23:28.05,0:23:31.38,Dialogue,,0,0,0,,E timpul să le arătăm puterea Windermerienilor!
-Dialogue: 100,0:23:31.38,0:23:33.09,Dialogue,,0,0,0,,Ea este un Windermerian?
-Dialogue: 100,0:23:37.97,0:23:38.98,Dialogue,,0,0,0,,Își riscă viața?
-Dialogue: 100,0:23:40.98,0:23:41.90,Dialogue,,0,0,0,,Ce este această voce?
-Dialogue: 100,0:23:41.90,0:23:43.10,Dialogue,,0,0,0,,Îmi ajunge la inimă.
-Dialogue: 100,0:23:43.90,0:23:44.94,Dialogue,,0,0,0,,O reacție activă?
-Dialogue: 100,0:23:44.94,0:23:46.61,Dialogue,,0,0,0,,Provine de la altcineva!
-Dialogue: 100,0:23:52.20,0:23:53.57,Dialogue,,0,0,0,,E mult prea periculos!
-Dialogue: 100,0:23:53.57,0:23:54.57,Dialogue,,0,0,0,,Scoateți-l de aici repede!
-Dialogue: 100,0:23:54.57,0:23:57.16,Dialogue,,0,0,0,,Eliberează siguranța ca să-l \Nputem mișca mai ușor!
-Dialogue: 100,0:24:01.75,0:24:03.42,Dialogue,,0,0,0,,Ar trebui să fie la fel.
-Dialogue: 100,0:24:26.48,0:24:28.15,Dialogue,,0,0,0,,Ești bine? Vom pleca de aici!
-Dialogue: 100,0:24:35.45,0:24:38.08,Dialogue,,0,0,0,,Căpitane! Detectăm o reacție activă la ora trei!
-Dialogue: 100,0:24:38.08,0:24:38.62,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:24:40.20,0:24:41.96,Dialogue,,0,0,0,,Dansează?
-Dialogue: 100,0:24:58.39,0:24:59.89,Dialogue,,0,0,0,,Simt ritmul!
-Dialogue: 100,0:25:00.89,0:25:03.98,Dialogue,,0,0,0,,Este culoarea vântului din nou!
-Dialogue: 100,0:25:27.13,0:25:28.33,Dialogue,,0,0,0,,Zburăm!
-Dialogue: 100,0:25:42.56,0:25:45.52,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:25:46.44,0:25:48.02,Dialogue,,0,0,0,,Acest cântec...
-Dialogue: 100,0:25:53.82,0:25:54.90,Dialogue,,0,0,0,,este vântul?!
+Dialogue: 99,0:00:17.99,0:00:26.13,Dialogue,,0,0,0,,{\i1}Au trecut cincizeci de ani de când umanitatea s-a aventurat în spațiu ca să evite exterminarea.
+Dialogue: 99,0:00:26.13,0:00:28.71,Dialogue,,0,0,0,,{\i1}De-a lungul anilor, \Nau întâlnit numeroase alte specii
+Dialogue: 99,0:00:28.71,0:00:31.97,Dialogue,,0,0,0,,{\i1}și au început întemeierea unei civilizații interstelare vaste.
+Dialogue: 99,0:00:33.01,0:00:37.85,Dialogue,,50,640,0,,{\i1}Dar mai există multe alte amenințări necunoscute ce îi așteaptă în spațiu.
+Dialogue: 99,0:00:45.60,0:00:47.77,Dialogue,,0,0,0,,{\i1}Sindromul Vár.
+Dialogue: 99,0:00:47.77,0:00:52.78,Dialogue,,0,0,0,,{\i1}Acesta îi înnebunește pe cei afectați, transformându-i în niște creaturi violente.
+Dialogue: 99,0:00:53.53,0:00:59.33,Dialogue,,0,0,0,,{\i1}Lumea a ajuns să se teamă cumplit de aceste evenimente tragice, care pot avea loc oriunde și oricând.
+Dialogue: 99,0:01:00.37,0:01:05.87,Dialogue,,0,0,0,,{\i1}Dar, chiar și atunci când teama pune stăpânire pe lume, există persoane curajoase care să lupte.
+Dialogue: 99,0:01:06.83,0:01:10.88,Dialogue,,0,0,0,,{\i1}Walküre, o unitate muzicală, tactică.
+Dialogue: 99,0:01:10.88,0:01:14.30,Dialogue,,0,0,0,,{\i1}Ele cântă cu ajutorul vocilor \Nlor ce transcend spațiul
+Dialogue: 99,0:01:14.30,0:01:17.97,Dialogue,,0,0,0,,{\i1}și sunt protejate de Plutonul Delta.
+Dialogue: 99,0:01:17.97,0:01:22.89,Dialogue,,0,0,0,,{\i1}Astăzi, cortina se ridică \Npentru următoarea lor scenă.
+Dialogue: 99,0:01:36.11,0:01:36.82,Dialogue,,0,0,0,,Ai găsit-o?
+Dialogue: 99,0:01:36.82,0:01:37.70,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:01:37.91,0:01:38.99,Dialogue,,0,0,0,,La naiba cu acel instrus.
+Dialogue: 99,0:01:38.99,0:01:40.58,Dialogue,,0,0,0,,Unde s-o fi putut duce?
+Dialogue: 99,0:01:41.16,0:01:43.04,Dialogue,,0,0,0,,Cât de enervant.
+Dialogue: 99,0:01:51.28,0:01:52.53,Dialogue,,0,0,0,,Am reușit.
+Dialogue: 99,0:02:07.14,0:02:09.90,Dialogue,,0,0,0,,{\an8}Lulu, am ajuns!
+Dialogue: 99,0:02:21.57,0:02:25.16,Dialogue,,0,0,0,,Haide! Haide!
+Dialogue: 99,0:02:37.09,0:02:38.13,Dialogue,,0,0,0,,Hayate!
+Dialogue: 99,0:02:38.13,0:02:39.84,Dialogue,,0,0,0,,Hayate Immelmann.
+Dialogue: 99,0:02:39.84,0:02:41.51,Dialogue,,0,0,0,,Vino la biroul meu imediat.
+Dialogue: 99,0:02:43.22,0:02:45.14,Dialogue,,0,0,0,,Bine, bine.
+Dialogue: 99,0:02:45.52,0:02:46.60,Dialogue,,0,0,0,,Poftim.
+Dialogue: 99,0:02:46.60,0:02:48.89,Dialogue,,0,0,0,,Acesta este ultimul tău salariu.
+Dialogue: 99,0:02:48.89,0:02:50.02,Dialogue,,0,0,0,,Sunt concediat?
+Dialogue: 99,0:02:50.02,0:02:51.31,Dialogue,,0,0,0,,Evident.
+Dialogue: 99,0:02:51.31,0:02:53.86,Dialogue,,0,0,0,,Freci menta atunci când \Neste soare ca să faci plajă
+Dialogue: 99,0:02:53.86,0:02:55.27,Dialogue,,0,0,0,,{\an8}Ce zgârciți.
+Dialogue: 99,0:02:53.86,0:02:57.07,Dialogue,,0,0,0,,și atunci când plouă deoarece \Nnu ai chef să muncești.
+Dialogue: 99,0:03:00.78,0:03:02.70,Dialogue,,0,0,0,,Mai avem și beleaua cu instrusul.
+Dialogue: 99,0:03:02.70,0:03:06.08,Dialogue,,0,0,0,,Cu toate incidentele astea Vár, \Nvremurile pașnice sunt de mult apuse.
+Dialogue: 99,0:03:06.08,0:03:08.87,Dialogue,,0,0,0,,Oricum, este ultima ta zi aici, deci încearcă să nu o închei prost.
+Dialogue: 99,0:03:09.12,0:03:10.16,Dialogue,,0,0,0,,Mare păcat.
+Dialogue: 99,0:03:10.16,0:03:12.25,Dialogue,,0,0,0,,Îți faci treaba bine atunci când nu lenevești.
+Dialogue: 99,0:03:13.08,0:03:15.71,Dialogue,,0,0,0,,Să nu-mi închei ziua prost, nu?
+Dialogue: 99,0:03:26.14,0:03:27.89,Dialogue,,0,0,0,,Atunci, haide să trecem la treabă.
+Dialogue: 99,0:03:37.69,0:03:39.15,Dialogue,,0,0,0,,Ai grijă, tipule!
+Dialogue: 99,0:03:47.54,0:03:49.04,Dialogue,,0,0,0,,Dansează.
+Dialogue: 99,0:03:49.04,0:03:50.79,Dialogue,,0,0,0,,Nu distruge containerul!
+Dialogue: 99,0:03:56.79,0:03:58.84,Dialogue,,0,0,0,,Sunetul dansează.
+Dialogue: 99,0:03:59.55,0:04:01.59,Dialogue,,0,0,0,,Este albastru? Sau alb?
+Dialogue: 99,0:04:01.59,0:04:03.84,Dialogue,,0,0,0,,Nu, acest sunet...
+Dialogue: 99,0:04:03.84,0:04:05.43,Dialogue,,0,0,0,,este culoarea vântului!
+Dialogue: 99,0:04:23.57,0:04:24.86,Dialogue,,0,0,0,,Î-Îmi cer scuze!
+Dialogue: 99,0:04:24.86,0:04:26.91,Dialogue,,0,0,0,,M-ai putea lăsa să plec?
+Dialogue: 99,0:04:26.91,0:04:27.70,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:04:27.70,0:04:31.12,Dialogue,,0,0,0,,Deci ea este intrusul?
+Dialogue: 99,0:04:37.13,0:04:38.50,Dialogue,,0,0,0,,Haide, coboară.
+Dialogue: 99,0:04:38.50,0:04:41.13,Dialogue,,0,0,0,,Mă vei lăsa să plec?
+Dialogue: 99,0:04:41.13,0:04:42.80,Dialogue,,0,0,0,,Bănuiesc că ai circumstanțele tale.
+Dialogue: 99,0:04:43.93,0:04:46.51,Dialogue,,0,0,0,,Îți mulțumesc!
+Dialogue: 99,0:04:47.47,0:04:49.93,Dialogue,,0,0,0,,Dar da, așa este.
+Dialogue: 99,0:04:49.93,0:04:52.56,Dialogue,,0,0,0,,Primarul mi-a spus: "Ai paisprezece ani. Nu-ți mai irosi viața.
+Dialogue: 99,0:04:52.56,0:04:56.27,Dialogue,,0,0,0,,Mergi și căsătorește-te cu moștenitorul fermei de mere."
+Dialogue: 99,0:04:56.27,0:04:59.07,Dialogue,,0,0,0,,I-am spus nu și el a spus tot nu.
+Dialogue: 99,0:04:59.07,0:05:01.44,Dialogue,,0,0,0,,Deci am profitat de ocazie și m-am strecurat pe o navă,
+Dialogue: 99,0:05:01.44,0:05:04.65,Dialogue,,0,0,0,,dar mă durea fundul și îmi era greu să folosesc toaleta.
+Dialogue: 99,0:05:04.65,0:05:07.03,Dialogue,,0,0,0,,Oh, am uitat să mă prezint.
+Dialogue: 99,0:05:07.03,0:05:09.87,Dialogue,,0,0,0,,Eu sunt Freyja Wion.
+Dialogue: 99,0:05:09.87,0:05:15.42,Dialogue,,0,0,0,,Îți sunt cu adevărat... cu adevărat...
+Dialogue: 99,0:05:15.42,0:05:17.92,Dialogue,,0,0,0,,flămândă...
+Dialogue: 99,0:05:18.29,0:05:19.88,Dialogue,,0,0,0,,B-Bine...
+Dialogue: 99,0:05:24.80,0:05:28.97,Dialogue,,0,0,0,,Astea sunt geniale după ce am supraviețui pe o dietă cu mere!
+Dialogue: 99,0:05:29.35,0:05:32.64,Dialogue,,0,0,0,,Deci te-ai strecurat pe o navă deoarece nu voiai să te căsătorești?
+Dialogue: 99,0:05:33.60,0:05:35.89,Dialogue,,0,0,0,,Asta nu e tot!
+Dialogue: 99,0:05:35.89,0:05:37.98,Dialogue,,0,0,0,,Privește!
+Dialogue: 99,0:05:41.82,0:05:45.53,Dialogue,,0,0,0,,Nu este acesta cântecul care ajută la neutralizarea Sindromului Vár?
+Dialogue: 99,0:05:45.53,0:05:46.24,Dialogue,,0,0,0,,Ba da!
+Dialogue: 99,0:05:46.24,0:05:47.78,Dialogue,,0,0,0,,Este ultimul cântec al Walküre!
+Dialogue: 99,0:05:47.78,0:05:49.87,Dialogue,,0,0,0,,"Iubirea oprește războiul."
+Dialogue: 99,0:05:51.41,0:05:51.99,Dialogue,,0,0,0,,Și?
+Dialogue: 99,0:05:53.62,0:05:58.58,Dialogue,,0,0,0,,Au nevoie de un membru nou și vor ține o audiție pe Planeta Ragna săptămâna viitoare!
+Dialogue: 99,0:05:58.58,0:06:00.25,Dialogue,,0,0,0,,Și vrei să aplici?
+Dialogue: 99,0:06:00.25,0:06:01.29,Dialogue,,0,0,0,,Da!
+Dialogue: 99,0:06:01.29,0:06:04.05,Dialogue,,0,0,0,,Apropo, asta nu e Planeta Ragna.
+Dialogue: 99,0:06:05.09,0:06:06.47,Dialogue,,0,0,0,,Este Planeta Al Shahal.
+Dialogue: 99,0:06:06.47,0:06:08.80,Dialogue,,0,0,0,,Ragna este la 30 de ani lumină distanță.
+Dialogue: 99,0:06:14.47,0:06:16.35,Dialogue,,0,0,0,,Am făcut o greșeală teribilă!
+Dialogue: 99,0:06:16.35,0:06:18.19,Dialogue,,0,0,0,,Ghinion.
+Dialogue: 99,0:06:18.19,0:06:20.06,Dialogue,,0,0,0,,Cred că e momentul să renunți.
+Dialogue: 99,0:06:20.06,0:06:21.48,Dialogue,,0,0,0,,Poftim, mai mănâncăm una.
+Dialogue: 99,0:06:21.98,0:06:24.90,Dialogue,,0,0,0,,Nu, nu voi renunța!
+Dialogue: 99,0:06:24.90,0:06:26.82,Dialogue,,0,0,0,,Voi ajunge pe Ragna
+Dialogue: 99,0:06:26.82,0:06:30.20,Dialogue,,0,0,0,,și mă voi intra în Walküre!
+Dialogue: 99,0:06:31.62,0:06:33.16,Dialogue,,0,0,0,,De ce ești așa hotărâtă?
+Dialogue: 99,0:06:33.49,0:06:34.91,Dialogue,,0,0,0,,Chiar e nevoie să întrebi?
+Dialogue: 99,0:06:37.21,0:06:39.12,Dialogue,,0,0,0,,Deoarece iubesc Walküre!
+Dialogue: 99,0:06:39.71,0:06:42.34,Dialogue,,0,0,0,,Iubesc să cânt!
+Dialogue: 99,0:06:47.88,0:06:51.84,Dialogue,,0,0,0,,Cântatul mă face să mă simt vie.
+Dialogue: 99,0:06:51.84,0:06:55.31,Dialogue,,0,0,0,,Îmi face runa să strălucească puternic!
+Dialogue: 99,0:06:56.68,0:06:57.85,Dialogue,,0,0,0,,Ce prostesc.
+Dialogue: 99,0:06:57.85,0:07:00.02,Dialogue,,0,0,0,,Nu vei trece de audiție.
+Dialogue: 99,0:07:00.31,0:07:01.73,Dialogue,,0,0,0,,Ba da!
+Dialogue: 99,0:07:01.73,0:07:03.27,Dialogue,,0,0,0,,Pot zbura dacă mă las dusă de vânt.
+Dialogue: 99,0:07:03.27,0:07:06.65,Dialogue,,0,0,0,,Nu ai și tu ceva ce îți place?
+Dialogue: 99,0:07:06.65,0:07:07.78,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:07:07.78,0:07:10.45,Dialogue,,0,0,0,,Un hobby? Sau o iubită?
+Dialogue: 99,0:07:10.45,0:07:11.32,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:07:11.32,0:07:12.35,Dialogue,,0,0,0,,Un serviciu?
+Dialogue: 99,0:07:12.35,0:07:15.41,Dialogue,,0,0,0,,Cum ar putea să-ți {\i1}placă{\i0} un să ai un serviciu?
+Dialogue: 99,0:07:16.66,0:07:18.54,Dialogue,,0,0,0,,Vai, dar ce viață distracitvă ai.
+Dialogue: 99,0:07:19.33,0:07:21.08,Dialogue,,0,0,0,,Nu ți-a cerut nimeni părerea—
+Dialogue: 99,0:07:23.96,0:07:25.29,Dialogue,,0,0,0,,Am găsit-o!
+Dialogue: 99,0:07:26.96,0:07:27.63,Dialogue,,0,0,0,,Oh!
+Dialogue: 99,0:07:27.63,0:07:29.92,Dialogue,,0,0,0,,Mersi pentru bilele de orez!
+Dialogue: 99,0:07:29.92,0:07:30.80,Dialogue,,0,0,0,,Oprește-te!
+Dialogue: 99,0:07:30.80,0:07:31.88,Dialogue,,0,0,0,,Nici gând!
+Dialogue: 99,0:07:35.43,0:07:37.72,Dialogue,,0,0,0,,Ce ciudată.
+Dialogue: 99,0:07:38.81,0:07:41.19,Dialogue,,0,0,0,,{\an8\i1}Bun-venit pe Al Shahal.
+Dialogue: 99,0:07:41.56,0:07:45.15,Dialogue,,0,0,0,,{\an8\i1}Autobuzele directe către orașul Shahal pleacă de la terminalele trei până la opt inclusiv.
+Dialogue: 99,0:07:45.15,0:07:46.52,Dialogue,,0,0,0,,Mă scuzați!
+Dialogue: 99,0:07:46.52,0:07:49.36,Dialogue,,0,0,0,,Îți puteți face loc, vă rog!
+Dialogue: 99,0:07:51.81,0:07:53.78,Dialogue,,0,0,0,,Deci așa arată un oraș.
+Dialogue: 99,0:07:56.45,0:07:58.12,Dialogue,,0,0,0,,Nu te lăsa descurajată.
+Dialogue: 99,0:08:00.12,0:08:01.33,Dialogue,,0,0,0,,Acea voce...
+Dialogue: 99,0:08:07.46,0:08:09.13,Dialogue,,0,0,0,,Este culoarea curcubeului.
+Dialogue: 99,0:08:09.84,0:08:11.26,Dialogue,,0,0,0,,Acolo este!
+Dialogue: 99,0:08:11.26,0:08:12.38,Dialogue,,0,0,0,,M-ai bine fug!
+Dialogue: 99,0:08:13.05,0:08:13.82,Dialogue,,0,0,0,,Care-i treaba?
+Dialogue: 99,0:08:13.82,0:08:14.91,Dialogue,,0,0,0,,Ce se întâmplă?
+Dialogue: 99,0:08:14.91,0:08:16.60,Dialogue,,0,0,0,,S-a întâmplat ceva, Mikumo?
+Dialogue: 99,0:08:18.98,0:08:20.70,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:08:20.70,0:08:21.93,Dialogue,,0,0,0,,Nu e nicio problemă aici.
+Dialogue: 99,0:08:22.89,0:08:24.65,Dialogue,,0,0,0,,Makina și Reina, cum merge la voi?
+Dialogue: 99,0:08:24.65,0:08:25.84,Dialogue,,0,0,0,,Hei, hei.
+Dialogue: 99,0:08:25.86,0:08:27.61,Dialogue,,0,0,0,,Aici Maki-Maki.
+Dialogue: 99,0:08:27.86,0:08:30.82,Dialogue,,0,0,0,,Nimic special în orașul Shahal.
+Dialogue: 99,0:08:33.24,0:08:35.78,Dialogue,,0,0,0,,Aceia sunt Regult 104s.
+Dialogue: 99,0:08:36.66,0:08:37.74,Dialogue,,0,0,0,,Drăguț!
+Dialogue: 99,0:08:38.41,0:08:39.66,Dialogue,,0,0,0,,Aici Reina.
+Dialogue: 99,0:08:39.66,0:08:42.00,Dialogue,,0,0,0,,Senzorii compuși nu detectează nimic.
+Dialogue: 99,0:08:43.16,0:08:46.42,Dialogue,,0,0,0,,Voi începe să fac găluște cu supă miso picantă și meduze la restaurantul meu.
+Dialogue: 99,0:08:46.42,0:08:47.42,Dialogue,,0,0,0,,Dacă ți-ar plăcea—
+Dialogue: 99,0:08:47.42,0:08:48.29,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:08:48.29,0:08:50.46,Dialogue,,0,0,0,,Prefer meduzele crude.
+Dialogue: 99,0:08:50.46,0:08:52.01,Dialogue,,0,0,0,,Ca să le înghit cu totul.
+Dialogue: 99,0:08:53.09,0:08:55.23,Dialogue,,0,0,0,,Sashimi din meduze și niște sake din banane.
+Dialogue: 99,0:08:55.23,0:08:56.55,Dialogue,,0,0,0,,Comandante Arad.
+Dialogue: 99,0:08:56.55,0:08:58.76,Dialogue,,0,0,0,,Nu te prostii când ești în misiune, Chuck.
+Dialogue: 99,0:08:58.76,0:08:59.85,Dialogue,,0,0,0,,Am înțeles, domnule!
+Dialogue: 99,0:08:59.85,0:09:02.93,Dialogue,,0,0,0,,Dar ești sigur că vor \Napărea incidente Vár aici?
+Dialogue: 99,0:09:03.18,0:09:08.11,Dialogue,,0,0,0,,Au fost zece cazuri de \NSindrom Vár în ultima lună.
+Dialogue: 99,0:09:08.11,0:09:11.65,Dialogue,,0,0,0,,Dintre care trei aveau \Nanomalii în undele lor încrucișate, biologice.
+Dialogue: 99,0:09:12.07,0:09:16.36,Dialogue,,0,0,0,,Am detectat o anomalie în apropierea orașului Shahal acum cincisprezece ore.
+Dialogue: 99,0:09:16.36,0:09:21.29,Dialogue,,0,0,0,,Și ordinul primit de la doamna M este să află cine este responsabil de asta.
+Dialogue: 99,0:09:21.95,0:09:23.41,Dialogue,,0,0,0,,Deci, Mikumo.
+Dialogue: 99,0:09:23.41,0:09:25.75,Dialogue,,0,0,0,,Cum se descurcă fetița noastră naivă?
+Dialogue: 99,0:09:26.25,0:09:27.54,Dialogue,,0,0,0,,Nu prea știu.
+Dialogue: 99,0:09:27.54,0:09:31.13,Dialogue,,0,0,0,,Nu pot fi sub acoperire cu ea prin preajmă.
+Dialogue: 99,0:09:31.92,0:09:33.84,Dialogue,,0,0,0,,Mikumo, răspunde, te rog!
+Dialogue: 99,0:09:33.84,0:09:34.88,Dialogue,,0,0,0,,Mikumo!
+Dialogue: 99,0:09:37.01,0:09:38.22,Dialogue,,0,0,0,,Doamne.
+Dialogue: 99,0:09:38.22,0:09:39.60,Dialogue,,0,0,0,,Mereu face asta.
+Dialogue: 99,0:09:39.60,0:09:41.43,Dialogue,,0,0,0,,La naiba cu ea.
+Dialogue: 99,0:09:41.43,0:09:43.22,Dialogue,,0,0,0,,"Vai, dar ce viață distractivă ai."
+Dialogue: 99,0:09:45.31,0:09:46.23,Dialogue,,0,0,0,,Ce e cu toată agitația asta?
+Dialogue: 99,0:09:46.23,0:09:48.40,Dialogue,,0,0,0,,Au prins intrusul.
+Dialogue: 99,0:09:48.40,0:09:50.77,Dialogue,,0,0,0,,Ce prost.
+Dialogue: 99,0:09:55.65,0:09:58.00,Dialogue,,0,0,0,,Ne-ai cam dat ceva bătăi de cap.
+Dialogue: 99,0:09:58.00,0:10:00.66,Dialogue,,0,0,0,,Acum, predă-te și întoarce-te de unde ai venit.
+Dialogue: 99,0:10:01.37,0:10:02.70,Dialogue,,0,0,0,,Refuz!
+Dialogue: 99,0:10:02.70,0:10:04.91,Dialogue,,0,0,0,,Dacă voi încerca, voi putea zbura.
+Dialogue: 99,0:10:13.59,0:10:14.55,Dialogue,,0,0,0,,Urcă!
+Dialogue: 99,0:10:14.55,0:10:15.67,Dialogue,,0,0,0,,Tu din nou.
+Dialogue: 99,0:10:16.63,0:10:17.51,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:10:17.51,0:10:18.47,Dialogue,,0,0,0,,La naiba!
+Dialogue: 99,0:10:18.47,0:10:19.97,Dialogue,,0,0,0,,Nu-i lăsați să scape!
+Dialogue: 99,0:10:21.05,0:10:23.26,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:10:24.18,0:10:25.02,Dialogue,,0,0,0,,Ce a fost asta?
+Dialogue: 99,0:10:36.57,0:10:40.32,Dialogue,,0,0,0,,Hei, de ce m-ai salvat?
+Dialogue: 99,0:10:40.32,0:10:41.95,Dialogue,,0,0,0,,Nu știu.
+Dialogue: 99,0:10:43.03,0:10:44.79,Dialogue,,0,0,0,,De pe ce planetă ai venit?
+Dialogue: 99,0:10:45.20,0:10:46.29,Dialogue,,0,0,0,,Sau ești cumva...
+Dialogue: 99,0:10:49.83,0:10:51.08,Dialogue,,0,0,0,,de pe o flotă imigrantă?
+Dialogue: 99,0:10:51.54,0:10:53.54,Dialogue,,0,0,0,,Cunosc pe cineva de pe o navă de transport, deci de ce nu—
+Dialogue: 99,0:10:53.54,0:10:54.80,Dialogue,,0,0,0,,Nu voi merge acasă!
+Dialogue: 99,0:10:54.80,0:10:56.38,Dialogue,,0,0,0,,Vei zbura spre Ragna?
+Dialogue: 99,0:10:56.38,0:10:57.34,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:10:57.34,0:10:58.84,Dialogue,,0,0,0,,Pot zbura dacă pot merge o dată cu vântul.
+Dialogue: 99,0:10:58.84,0:11:01.18,Dialogue,,0,0,0,,Și dacă îmi risc viața, atunci pot zbura.
+Dialogue: 99,0:11:01.18,0:11:03.05,Dialogue,,0,0,0,,Să-ți riști viața?
+Dialogue: 99,0:11:03.05,0:11:05.60,Dialogue,,0,0,0,,Nu cred că merită să-ți riști viața pentru acea audiție.
+Dialogue: 99,0:11:05.60,0:11:06.35,Dialogue,,0,0,0,,Ba da!
+Dialogue: 99,0:11:06.35,0:11:08.85,Dialogue,,0,0,0,,De ce continui să presupui că audiția este o prostie?
+Dialogue: 99,0:11:10.14,0:11:13.06,Dialogue,,0,0,0,,Deoarece eu nu am nimic special.
+Dialogue: 99,0:11:13.48,0:11:17.36,Dialogue,,0,0,0,,Am fost prin multe locuri și am încercat multe lucruri,
+Dialogue: 99,0:11:17.36,0:11:18.94,Dialogue,,0,0,0,,dar nimic nu părea ceea ce trebuie.
+Dialogue: 99,0:11:20.03,0:11:23.78,Dialogue,,0,0,0,,Și eu am crezut că aș putea găsi ceva undeva.
+Dialogue: 99,0:11:23.78,0:11:24.49,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:11:24.49,0:11:25.95,Dialogue,,0,0,0,,Ei bine, nu sunt surprinsă deloc!
+Dialogue: 99,0:11:27.54,0:11:29.29,Dialogue,,0,0,0,,Nu poți pur și simplu să mergi {\i1}undeva{\i0}.
+Dialogue: 99,0:11:29.29,0:11:31.50,Dialogue,,0,0,0,,Trebuie să mergi acolo unde vrei {\i1}tu{\i0} să mergi!
+Dialogue: 99,0:11:39.26,0:11:42.30,Dialogue,,0,0,0,,Vreau să cânt ceea ce-mi place!
+Dialogue: 99,0:11:42.30,0:11:45.22,Dialogue,,0,0,0,,Cât mai mult posibil!
+Dialogue: 99,0:11:45.22,0:11:48.56,Dialogue,,0,0,0,,Deci nu voi merge acasă!
+Dialogue: 99,0:12:02.91,0:12:04.28,Dialogue,,0,0,0,,Auci...
+Dialogue: 99,0:12:10.37,0:12:11.33,Dialogue,,0,0,0,,Nu mișca!
+Dialogue: 99,0:12:14.79,0:12:16.54,Dialogue,,0,0,0,,Perversule!
+Dialogue: 99,0:12:17.25,0:12:18.63,Dialogue,,0,0,0,,Am prins intrusul!
+Dialogue: 99,0:12:18.63,0:12:20.13,Dialogue,,0,0,0,,Stai! Ai greșit persoana!
+Dialogue: 99,0:12:20.13,0:12:22.93,Dialogue,,0,0,0,,Te pot aresta pentru hărțuire sexuală!
+Dialogue: 99,0:12:22.93,0:12:23.43,Dialogue,,0,0,0,,Bună!
+Dialogue: 99,0:12:23.43,0:12:25.59,Dialogue,,0,0,0,,Eu sunt intrusul!
+Dialogue: 99,0:12:27.01,0:12:27.72,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:12:30.14,0:12:31.73,Dialogue,,0,0,0,,Îmi pare foarte rău.
+Dialogue: 99,0:12:31.73,0:12:34.98,Dialogue,,0,0,0,,Tu nu lucrezi la aeroport, nu-i așa?
+Dialogue: 99,0:12:34.98,0:12:36.15,Dialogue,,0,0,0,,Cine ești?
+Dialogue: 99,0:12:37.44,0:12:42.24,Dialogue,,0,0,0,,A treia flotă a Xaos Ragna, locotenentul secund al Plutonului Delta,
+Dialogue: 99,0:12:42.24,0:12:44.53,Dialogue,,0,0,0,,Mirage Farina Jenius.
+Dialogue: 99,0:12:45.20,0:12:46.53,Dialogue,,0,0,0,,Plutonul Delta?!
+Dialogue: 99,0:12:46.74,0:12:48.66,Dialogue,,0,0,0,,Cum te numești?
+Dialogue: 99,0:12:48.66,0:12:49.70,Dialogue,,0,0,0,,Hayate.
+Dialogue: 99,0:12:49.70,0:12:51.25,Dialogue,,0,0,0,,Hayate Immelmann.
+Dialogue: 99,0:12:51.25,0:12:53.16,Dialogue,,0,0,0,,Te rog să trimiți orice \Nplângere către superiorii—
+Dialogue: 99,0:12:53.16,0:12:57.38,Dialogue,,0,0,0,,Prin Plutonul Delta te referi la cel care zboară cu Walküre?
+Dialogue: 99,0:12:57.38,0:12:59.21,Dialogue,,0,0,0,,D-Da.
+Dialogue: 99,0:12:59.21,0:13:02.05,Dialogue,,0,0,0,,Asta este minunat!
+Dialogue: 99,0:13:02.05,0:13:04.26,Dialogue,,0,0,0,,Ce se întâmplă?
+Dialogue: 99,0:13:04.26,0:13:06.76,Dialogue,,0,0,0,,Se pare că este fanul vostru.
+Dialogue: 99,0:13:07.80,0:13:08.64,Dialogue,,0,0,0,,Fanul?
+Dialogue: 99,0:13:09.01,0:13:10.26,Dialogue,,0,0,0,,Așa este!
+Dialogue: 99,0:13:11.77,0:13:14.77,Dialogue,,0,0,0,,{\an8}Al Zecelea Batalion Marin de Asalt, \Nporniți spre Al Shahal.
+Dialogue: 99,0:13:15.31,0:13:15.94,Dialogue,,0,0,0,,{\an8}Recepționat.
+Dialogue: 99,0:13:16.56,0:13:18.81,Dialogue,,0,0,0,,{\an8}Randamentul meu nu este consistent. \NPoți arunca o privire?
+Dialogue: 99,0:13:19.57,0:13:21.15,Dialogue,,0,0,0,,{\an8}Bine, în acest caz...
+Dialogue: 99,0:13:31.99,0:13:32.83,Dialogue,,0,0,0,,Un cântec?
+Dialogue: 99,0:13:47.13,0:13:49.76,Dialogue,,0,0,0,,Detectăm anomalii în undele încrucișate, biologice!
+Dialogue: 99,0:13:49.76,0:13:51.56,Dialogue,,0,0,0,,De ce sunt atât de multe?
+Dialogue: 99,0:13:51.56,0:13:54.68,Dialogue,,0,0,0,,Asta mai este și o bază Zentraedi.
+Dialogue: 99,0:13:55.52,0:13:57.73,Dialogue,,0,0,0,,Nu se putea mai rău de atât.
+Dialogue: 99,0:13:59.02,0:14:02.44,Dialogue,,0,0,0,,{\an8\i1}Alerta Vár a fost activată. Nivelul...
+Dialogue: 99,0:14:02.44,0:14:03.65,Dialogue,,0,0,0,,Alerta Vár!
+Dialogue: 99,0:14:04.19,0:14:05.28,Dialogue,,0,0,0,,Recepționat!
+Dialogue: 99,0:14:05.28,0:14:06.40,Dialogue,,0,0,0,,Sunt pe drum.
+Dialogue: 99,0:14:07.07,0:14:09.32,Dialogue,,0,0,0,,Mergeți și adăpostiți-vă.
+Dialogue: 99,0:14:09.32,0:14:10.28,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:14:10.28,0:14:11.28,Dialogue,,0,0,0,,Ce se petrece?
+Dialogue: 99,0:14:12.12,0:14:14.04,Dialogue,,0,0,0,,Are loc un incident Vár.
+Dialogue: 99,0:14:14.04,0:14:16.96,Dialogue,,0,0,0,,Acest loc va deveni un câmp de luptă.
+Dialogue: 99,0:14:18.25,0:14:19.88,Dialogue,,0,0,0,,Un câmp de luptă?
+Dialogue: 99,0:14:31.39,0:14:32.30,Dialogue,,0,0,0,,Acesta este un avertisment!
+Dialogue: 99,0:14:32.30,0:14:33.81,Dialogue,,0,0,0,,Întoarceți-vă la baza voastră!
+Dialogue: 99,0:14:33.81,0:14:35.31,Dialogue,,0,0,0,,Dacă veți refuza—
+Dialogue: 99,0:14:37.27,0:14:38.23,Dialogue,,0,0,0,,Este inutil!
+Dialogue: 99,0:14:38.23,0:14:40.27,Dialogue,,0,0,0,,Au pierdut complet controlul!
+Dialogue: 99,0:14:58.87,0:15:00.27,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:15:00.27,0:15:02.84,Dialogue,,0,0,0,,Aud o voce în culoarea curcubeului.
+Dialogue: 99,0:15:11.68,0:15:14.22,Dialogue,,0,0,0,,Avem în sfârșit parte de acțiune.
+Dialogue: 99,0:15:17.22,0:15:18.35,Dialogue,,0,0,0,,Să mergem!
+Dialogue: 99,0:15:19.31,0:15:21.48,Dialogue,,0,0,0,,Este timpul pentru spectacol!
+Dialogue: 99,0:15:24.57,0:15:26.94,Dialogue,,0,0,0,,Muzica este magie!
+Dialogue: 99,0:15:28.82,0:15:29.74,Dialogue,,0,0,0,,Știam eu!
+Dialogue: 99,0:15:29.74,0:15:30.90,Dialogue,,0,0,0,,Este Mikumo!
+Dialogue: 99,0:15:46.34,0:15:48.55,Dialogue,,0,0,0,,Muzica este iubire!
+Dialogue: 99,0:15:51.09,0:15:53.51,Dialogue,,0,0,0,,Muzica este speranță!
+Dialogue: 99,0:15:55.60,0:15:58.18,Dialogue,,0,0,0,,Muzica este viață!
+Dialogue: 99,0:15:59.06,0:16:02.77,Dialogue,,0,0,0,,Ascultați cântecul unor zeițe!
+Dialogue: 99,0:16:02.77,0:16:06.61,Dialogue,,0,0,0,,Super Dimensiunea Venus, Walküre!
+Dialogue: 99,0:16:11.11,0:16:12.70,Dialogue,,0,0,0,,Sunt Walküre!
+Dialogue: 99,0:16:30.30,0:16:31.34,Dialogue,,0,0,0,,Uimitor!
+Dialogue: 99,0:16:31.63,0:16:33.09,Dialogue,,0,0,0,,Cât de grozav!
+Dialogue: 99,0:17:09.63,0:17:10.50,Dialogue,,0,0,0,,Uimitor!
+Dialogue: 99,0:17:10.50,0:17:12.26,Dialogue,,0,0,0,,Incredibil!
+Dialogue: 99,0:17:12.51,0:17:14.68,Dialogue,,0,0,0,,Liderul Delta către toate unitățile.
+Dialogue: 99,0:17:14.68,0:17:17.76,Dialogue,,0,0,0,,Țineți Sindromul Vár în interiorul barierei.
+Dialogue: 99,0:17:17.76,0:17:19.72,Dialogue,,0,0,0,,Formația Aripa Walküre!
+Dialogue: 99,0:17:19.72,0:17:20.97,Dialogue,,0,0,0,,{\fs20\fry-10\frz-5.18\fax0.09\pos(1264.857,604)\bord1.6}Recepționat!
+Dialogue: 99,0:17:19.72,0:17:20.97,Dialogue,,0,0,0,,{\fs20\fry-10\frz-2.96\fax0.03\pos(1655.81,352.333)\bord1.6}Recepționat!
+Dialogue: 99,0:17:19.72,0:17:20.97,Dialogue,,0,0,0,,Recepționat!
+Dialogue: 99,0:17:27.69,0:17:28.36,Dialogue,,0,0,0,,Fir-ar!
+Dialogue: 99,0:17:28.36,0:17:29.19,Dialogue,,0,0,0,,Rei-Rei!
+Dialogue: 99,0:17:35.70,0:17:36.82,Dialogue,,0,0,0,,Aici Makina.
+Dialogue: 99,0:17:36.82,0:17:38.45,Dialogue,,0,0,0,,Trimiteți putere către Multidrone.
+Dialogue: 99,0:17:38.45,0:17:40.45,Dialogue,,0,0,0,,Delta 4, recepționat.
+Dialogue: 99,0:18:03.56,0:18:04.73,Dialogue,,0,0,0,,Unul dintre ei nu se sincronizează.
+Dialogue: 99,0:18:19.74,0:18:20.57,Dialogue,,0,0,0,,Mikumo!
+Dialogue: 99,0:18:20.57,0:18:21.45,Dialogue,,0,0,0,,Cred că glumești.
+Dialogue: 99,0:18:31.96,0:18:33.84,Dialogue,,0,0,0,,Deculture.
+Dialogue: 99,0:18:46.31,0:18:48.02,Dialogue,,0,0,0,,Walküre!
+Dialogue: 99,0:18:48.02,0:18:49.81,Dialogue,,0,0,0,,Au neutralizat Sindromul Vár cu muzică.
+Dialogue: 99,0:18:50.81,0:18:52.81,Dialogue,,0,0,0,,Receptorii încrucișati sunt activi.
+Dialogue: 99,0:18:56.82,0:18:57.86,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:18:57.86,0:18:59.28,Dialogue,,0,0,0,,Cântecul funcționează.
+Dialogue: 99,0:19:12.83,0:19:15.46,Dialogue,,0,0,0,,Nave străine detectate în Zona 108. Decolați!
+Dialogue: 99,0:19:15.46,0:19:17.55,Dialogue,,0,0,0,,Toate unitățile, pregățiți-vă de interceptare!
+Dialogue: 99,0:19:17.55,0:19:19.84,Dialogue,,0,0,0,,Repet! Toate unițătile, pregătiți-vă de interceptare!
+Dialogue: 99,0:19:19.84,0:19:21.80,Dialogue,,0,0,0,,Se pregătesc de interceptare.
+Dialogue: 99,0:19:21.80,0:19:23.14,Dialogue,,0,0,0,,Interceptați-i în T minus 300 de secunde.
+Dialogue: 99,0:19:23.14,0:19:25.76,Dialogue,,0,0,0,,Cavaleri Zburători, pregătiți-vă de interceptare.
+Dialogue: 99,0:19:27.85,0:19:31.48,Dialogue,,0,0,0,,Mergeți cu vântul, cavalerii mei zburători!
+Dialogue: 99,0:19:32.19,0:19:33.98,Dialogue,,0,0,0,,Pentru marele vânt.
+Dialogue: 99,0:19:33.98,0:19:35.86,Dialogue,,0,0,0,,Pentru marele vânt!
+Dialogue: 99,0:19:35.86,0:19:38.53,Dialogue,,0,0,0,,Bun, am să vă arăt cum se face!
+Dialogue: 99,0:19:47.74,0:19:49.33,Dialogue,,0,0,0,,Trei ținte doborâte.
+Dialogue: 99,0:19:49.33,0:19:50.75,Dialogue,,0,0,0,,Inamic dedesubt la ora nouă.
+Dialogue: 99,0:19:53.50,0:19:55.21,Dialogue,,0,0,0,,Nu-ți lăsa garda jos, Bogue.
+Dialogue: 99,0:19:55.21,0:19:57.21,Dialogue,,0,0,0,,Maestre Hermann!
+Dialogue: 99,0:19:57.21,0:19:59.13,Dialogue,,0,0,0,,Nu-mi spune maestru.
+Dialogue: 99,0:19:59.13,0:20:00.42,Dialogue,,0,0,0,,Am înțeles, domnule!
+Dialogue: 99,0:20:10.31,0:20:11.73,Dialogue,,0,0,0,,Navele necunoscute se apropie repede!
+Dialogue: 99,0:20:11.73,0:20:13.90,Dialogue,,0,0,0,,Închideți poarta de lansare imediat!
+Dialogue: 99,0:20:20.15,0:20:23.61,Dialogue,,0,0,0,,Comandante Arad, am vești pentru tine.
+Dialogue: 99,0:20:23.61,0:20:27.07,Dialogue,,0,0,0,,Navele necunoscute au distrus flota garnizoană a Planetei Al Shahal.
+Dialogue: 99,0:20:27.08,0:20:28.58,Dialogue,,0,0,0,,Acum se îndreaptă spre voi.
+Dialogue: 99,0:20:28.58,0:20:29.74,Dialogue,,0,0,0,,Nave necunoscute?
+Dialogue: 99,0:20:35.29,0:20:36.46,Dialogue,,0,0,0,,Inamici noi?
+Dialogue: 99,0:20:37.09,0:20:38.71,Dialogue,,0,0,0,,Considerați-le ostile.
+Dialogue: 99,0:20:38.71,0:20:39.92,Dialogue,,0,0,0,,Puteți folosi orice armă.
+Dialogue: 99,0:20:40.26,0:20:41.97,Dialogue,,0,0,0,,Formația Hermes!
+Dialogue: 99,0:20:41.97,0:20:42.72,Dialogue,,0,0,0,,Recepționat!
+Dialogue: 99,0:20:42.72,0:20:43.68,Dialogue,,0,0,0,,Am înțeles, domnule!
+Dialogue: 99,0:20:46.22,0:20:48.43,Dialogue,,0,0,0,,Al meu ești!
+Dialogue: 99,0:20:50.60,0:20:51.81,Dialogue,,0,0,0,,Ce sunt aceste interferențe?
+Dialogue: 99,0:20:52.81,0:20:53.64,Dialogue,,0,0,0,,S-a separat?!
+Dialogue: 99,0:20:53.64,0:20:55.10,Dialogue,,0,0,0,,Ține asta!
+Dialogue: 99,0:20:56.06,0:20:56.77,Dialogue,,0,0,0,,Mirage!
+Dialogue: 99,0:20:56.77,0:20:57.48,Dialogue,,0,0,0,,Chuck!
+Dialogue: 99,0:20:59.40,0:21:01.53,Dialogue,,0,0,0,,Contează pe marele Chuck!
+Dialogue: 99,0:21:01.53,0:21:04.45,Dialogue,,0,0,0,,Atacul Submarinului!
+Dialogue: 99,0:21:07.28,0:21:09.28,Dialogue,,0,0,0,,Vino și prinde-mă...
+Dialogue: 99,0:21:09.28,0:21:10.83,Dialogue,,0,0,0,,Al meu ești!
+Dialogue: 99,0:21:10.83,0:21:11.50,Dialogue,,0,0,0,,Prea ușor.
+Dialogue: 99,0:21:14.16,0:21:15.37,Dialogue,,0,0,0,,Acum, Messer!
+Dialogue: 99,0:21:15.37,0:21:16.21,Dialogue,,0,0,0,,Recepționat!
+Dialogue: 99,0:21:17.63,0:21:18.84,Dialogue,,0,0,0,,Acest vânt...
+Dialogue: 99,0:21:18.84,0:21:20.17,Dialogue,,0,0,0,,Sunt buni.
+Dialogue: 99,0:21:20.17,0:21:22.51,Dialogue,,0,0,0,,Ține asta!
+Dialogue: 99,0:21:22.51,0:21:24.84,Dialogue,,0,0,0,,Trei! Doi! Unu!
+Dialogue: 99,0:21:32.97,0:21:34.06,Dialogue,,0,0,0,,S-a ferit de ele?!
+Dialogue: 99,0:21:36.27,0:21:37.23,Dialogue,,0,0,0,,Liniștește-te.
+Dialogue: 99,0:21:37.23,0:21:38.19,Dialogue,,0,0,0,,Lord Keith!
+Dialogue: 99,0:21:38.19,0:21:39.15,Dialogue,,0,0,0,,Este rapid.
+Dialogue: 99,0:21:47.20,0:21:48.49,Dialogue,,0,0,0,,Un Înger al Morții?
+Dialogue: 99,0:21:54.00,0:21:55.33,Dialogue,,0,0,0,,Direcția de zbor...
+Dialogue: 99,0:21:56.04,0:21:57.08,Dialogue,,0,0,0,,Lidere, se îndreaptă spre voi.
+Dialogue: 99,0:21:57.71,0:21:59.04,Dialogue,,0,0,0,,Toată lumea, aveți grijă.
+Dialogue: 99,0:22:05.42,0:22:08.22,Dialogue,,0,0,0,,Ardeți în iad, Walküre!
+Dialogue: 99,0:22:18.10,0:22:19.35,Dialogue,,0,0,0,,Mikumo!
+Dialogue: 99,0:22:19.35,0:22:20.40,Dialogue,,0,0,0,,Mikumo?
+Dialogue: 99,0:22:21.77,0:22:23.11,Dialogue,,0,0,0,,Vár se apropie.
+Dialogue: 99,0:22:23.78,0:22:25.11,Dialogue,,0,0,0,,Rei-Rei!
+Dialogue: 99,0:22:31.12,0:22:32.08,Dialogue,,0,0,0,,Walküre...
+Dialogue: 99,0:22:39.71,0:22:41.46,Dialogue,,0,0,0,,Ați făcut-o acum.
+Dialogue: 99,0:22:56.18,0:22:57.52,Dialogue,,0,0,0,,Makina...
+Dialogue: 99,0:22:57.52,0:22:58.44,Dialogue,,0,0,0,,Rei-Rei!
+Dialogue: 99,0:22:58.44,0:23:00.06,Dialogue,,0,0,0,,Haideți să cântăm.
+Dialogue: 99,0:23:00.06,0:23:01.02,Dialogue,,0,0,0,,Da!
+Dialogue: 99,0:23:08.53,0:23:09.95,Dialogue,,0,0,0,,Sunt nebune?
+Dialogue: 99,0:23:14.91,0:23:16.04,Dialogue,,0,0,0,,Nu...
+Dialogue: 99,0:23:16.04,0:23:17.16,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:23:17.75,0:23:18.91,Dialogue,,0,0,0,,Mă simt incredibil...
+Dialogue: 99,0:23:19.66,0:23:21.50,Dialogue,,0,0,0,,Nu mai rezist.
+Dialogue: 99,0:23:21.50,0:23:22.29,Dialogue,,0,0,0,,Lulu...
+Dialogue: 99,0:23:22.92,0:23:24.29,Dialogue,,0,0,0,,Lulu...
+Dialogue: 99,0:23:24.29,0:23:27.30,Dialogue,,0,0,0,,Rune pika!
+Dialogue: 99,0:23:28.05,0:23:31.38,Dialogue,,0,0,0,,E timpul să le arătăm puterea Windermerienilor!
+Dialogue: 99,0:23:31.38,0:23:33.09,Dialogue,,0,0,0,,Ea este un Windermerian?
+Dialogue: 99,0:23:37.97,0:23:38.98,Dialogue,,0,0,0,,Își riscă viața?
+Dialogue: 99,0:23:40.98,0:23:41.90,Dialogue,,0,0,0,,Ce este această voce?
+Dialogue: 99,0:23:41.90,0:23:43.10,Dialogue,,0,0,0,,Îmi ajunge la inimă.
+Dialogue: 99,0:23:43.90,0:23:44.94,Dialogue,,0,0,0,,O reacție activă?
+Dialogue: 99,0:23:44.94,0:23:46.61,Dialogue,,0,0,0,,Provine de la altcineva!
+Dialogue: 99,0:23:52.20,0:23:53.57,Dialogue,,0,0,0,,E mult prea periculos!
+Dialogue: 99,0:23:53.57,0:23:54.57,Dialogue,,0,0,0,,Scoateți-l de aici repede!
+Dialogue: 99,0:23:54.57,0:23:57.16,Dialogue,,0,0,0,,Eliberează siguranța ca să-l \Nputem mișca mai ușor!
+Dialogue: 99,0:24:01.75,0:24:03.42,Dialogue,,0,0,0,,Ar trebui să fie la fel.
+Dialogue: 99,0:24:26.48,0:24:28.15,Dialogue,,0,0,0,,Ești bine? Vom pleca de aici!
+Dialogue: 99,0:24:35.45,0:24:38.08,Dialogue,,0,0,0,,Căpitane! Detectăm o reacție activă la ora trei!
+Dialogue: 99,0:24:38.08,0:24:38.62,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:24:40.20,0:24:41.96,Dialogue,,0,0,0,,Dansează?
+Dialogue: 99,0:24:58.39,0:24:59.89,Dialogue,,0,0,0,,Simt ritmul!
+Dialogue: 99,0:25:00.89,0:25:03.98,Dialogue,,0,0,0,,Este culoarea vântului din nou!
+Dialogue: 99,0:25:27.13,0:25:28.33,Dialogue,,0,0,0,,Zburăm!
+Dialogue: 99,0:25:42.56,0:25:45.52,Dialogue,,0,0,0,,Ce este asta?
+Dialogue: 99,0:25:46.44,0:25:48.02,Dialogue,,0,0,0,,Acest cântec...
+Dialogue: 99,0:25:53.82,0:25:54.90,Dialogue,,0,0,0,,este vântul?!
 Dialogue: 0,0:00:34.88,0:00:34.93,DedzuyaSigns,,0,0,0,,{=2}{\pos(1545.45,819.24)\fscx83.02\fscy83.02\fs80\fsp15\c&HEFFBFF&\alpha&HF9&\blur1.25}2{\c&HEBF8FD&}0{\c&HE7F6FB&}6{\c&HE4F3F9&}7 {\c&HDCEEF5&}d{\c&HD8ECF3&}.{\c&HD5E9F1&}H{\c&HD1E7EF&}r{\c&HCDE4ED&}.
 Dialogue: 0,0:00:34.93,0:00:34.97,DedzuyaSigns,,0,0,0,,{=2}{\pos(1544.88,818.715)\fscx83.1\fscy83.1\fs80\fsp15\c&HEFFBFF&\alpha&HF0&\blur1.25}2{\c&HEBF8FD&}0{\c&HE7F6FB&}6{\c&HE4F3F9&}7 {\c&HDCEEF5&}d{\c&HD8ECF3&}.{\c&HD5E9F1&}H{\c&HD1E7EF&}r{\c&HCDE4ED&}.
 Dialogue: 0,0:00:34.97,0:00:35.01,DedzuyaSigns,,0,0,0,,{=2}{\pos(1544.535,817.965)\fscx83.51\fscy83.51\fs80\fsp15\c&HEFFBFF&\alpha&HE6&\blur1.26}2{\c&HEBF8FD&}0{\c&HE7F6FB&}6{\c&HE4F3F9&}7 {\c&HDCEEF5&}d{\c&HD8ECF3&}.{\c&HD5E9F1&}H{\c&HD1E7EF&}r{\c&HCDE4ED&}.

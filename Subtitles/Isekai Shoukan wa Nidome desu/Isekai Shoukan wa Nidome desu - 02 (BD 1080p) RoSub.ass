@@ -36,268 +36,268 @@ Style: OP TL,FOT-Comic Reggae Std,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.40,0:00:04.44,Dialogue,Young Ruri,0,0,0,,Bunicule?
-Dialogue: 100,0:00:04.44,0:00:06.36,Dialogue,Ruri's Grandfather,0,0,0,,Destul!
-Dialogue: 100,0:00:06.36,0:00:09.24,Dialogue,Ruri's Grandfather,0,0,0,,Ți-am spus deja că nu e de vânzare!
-Dialogue: 100,0:00:09.86,0:00:14.70,Dialogue,Ruri's Grandfather,0,0,0,,Mi-am pus sufletul și inima \Nîn toate creațiile mele.
-Dialogue: 100,0:00:14.70,0:00:17.33,Dialogue,Ruri's Grandfather,0,0,0,,Nu vei mai găsi nicăieri \Nceva asemănător.
-Dialogue: 100,0:00:17.33,0:00:20.50,Dialogue,Ruri's Grandfather,0,0,0,,Așa că nu le voi vinde niciodată unui puști care nu le înțelege valoarea!
-Dialogue: 100,0:00:20.92,0:00:23.54,Dialogue,Ruri's Grandfather,0,0,0,,Ai înțeles? Deci cară-te!
-Dialogue: 100,0:00:23.54,0:00:26.26,Dialogue,Previous Setsu,0,0,0,,Ce moșneag enervant ești.
-Dialogue: 100,0:00:26.67,0:00:29.88,Dialogue,Previous Setsu,0,0,0,,Atunci, spune-mi cât \Nde mult vrei pentru asta.
-Dialogue: 100,0:00:30.84,0:00:32.76,Dialogue,Ruri's Grandfather,0,0,0,,Nu e vorba de bani...
-Dialogue: 100,0:00:33.81,0:00:36.52,Dialogue,Young Ruri,0,0,0,,Bunicule, e un client nemulțumit?
-Dialogue: 100,0:00:36.52,0:00:37.56,Dialogue,Ruri's Grandfather,0,0,0,,Așa este!
-Dialogue: 100,0:00:37.56,0:00:38.64,Dialogue,Previous Setsu,0,0,0,,Ba nu!
-Dialogue: 100,0:00:38.64,0:00:41.65,Dialogue,Ruri's Grandfather,0,0,0,,He's interfering with my \Nbusiness, that's what!
-Dialogue: 100,0:00:42.61,0:00:45.02,Dialogue,Previous Setsu,0,0,0,,Atunci, asta ar trebui să fie destul, nu?
-Dialogue: 100,0:00:45.90,0:00:48.07,Dialogue,Ruri's Grandfather,0,0,0,,După cum am spus, \Nnu-ți voi accepta mărunțișul...
-Dialogue: 100,0:00:49.95,0:00:51.03,Dialogue,Ruri's Grandfather,0,0,0,,Vândut!
-Dialogue: 100,0:00:57.75,0:00:58.91,Dialogue,Young Ruri,0,0,0,,Bunicule.
-Dialogue: 100,0:00:59.62,0:01:03.54,Dialogue,Young Ruri,0,0,0,,I thought you said pride is the most \Nimportant thing for a craftsman.
-Dialogue: 100,0:01:04.96,0:01:06.30,Dialogue,Ruri's Grandfather,0,0,0,,That's right.
-Dialogue: 100,0:01:06.84,0:01:11.18,Dialogue,Ruri's Grandfather,0,0,0,,Pride and attention to detail are \Nvery important for a craftsman.
-Dialogue: 100,0:01:11.88,0:01:15.05,Dialogue,Ruri's Grandfather,0,0,0,,If you lose sight of them, you'll get nowhere.
-Dialogue: 100,0:01:16.68,0:01:18.35,Dialogue,Ruri's Grandfather,0,0,0,,That said, Ruri...
-Dialogue: 100,0:01:25.77,0:01:28.07,Dialogue,Ruri's Grandfather,0,0,0,,Sometimes, there are exceptions.
-Dialogue: 100,0:01:31.70,0:01:33.61,Dialogue,Ruri's Grandfather,0,0,0,,This is one of those exceptions.
-Dialogue: 100,0:02:02.73,0:02:05.56,Dialogue,Ruri,0,0,0,,{\i1}I loved my grandpa deeply, \Nand this was his last job.
-Dialogue: 100,0:02:06.48,0:02:09.07,Dialogue,Ruri,0,0,0,,{\i1}I'll see it through to the end, \Nno matter what!
-Dialogue: 100,0:02:29.67,0:02:31.17,Dialogue,Ruri,0,0,0,,H-Hei!
-Dialogue: 100,0:02:36.01,0:02:39.14,Dialogue,Ruri,0,0,0,,Ce s-a întâmplat? \NTe rog să nu te oprești!
-Dialogue: 100,0:02:44.64,0:02:45.60,Dialogue,Ruri,0,0,0,,Nu se poate...
-Dialogue: 100,0:03:01.70,0:03:02.70,Dialogue,Ruri,0,0,0,,Broșa!
-Dialogue: 100,0:03:13.17,0:03:14.72,Dialogue,Ruri,0,0,0,,Ce ușurare!
-Dialogue: 100,0:03:18.01,0:03:24.89,Dialogue,Ruri,0,0,0,,If I'd lost this, Grandpa \Nwould have haunted me.
-Dialogue: 100,0:03:24.89,0:03:26.94,Dialogue,Ruri,0,0,0,,Anyway, time to go...
-Dialogue: 100,0:03:29.65,0:03:31.86,Dialogue,Ruri,0,0,0,,U-Um, you know...
-Dialogue: 100,0:03:31.86,0:03:35.61,Dialogue,Ruri,0,0,0,,I'm all bony, and I'd taste terrible.
-Dialogue: 100,0:03:35.61,0:03:38.82,Dialogue,Ruri,0,0,0,,You can have all the food you want, so, um,
-Dialogue: 100,0:03:38.82,0:03:41.99,Dialogue,Ruri,0,0,0,,please, could you find it \Nin your heart to let me...
-Dialogue: 100,0:03:42.37,0:03:45.41,Dialogue,Ruri,0,0,0,,Oh, I know! I have money! \NLet's settle this with money—
-Dialogue: 100,0:05:38.61,0:05:41.15,Dialogue,Setsu,0,0,0,,Yikes, this is bad.
-Dialogue: 100,0:05:42.03,0:05:43.16,Dialogue,Setsu,0,0,0,,Ești bine?
-Dialogue: 100,0:05:44.99,0:05:47.29,Dialogue,Ruri,0,0,0,,I-Is it money you want?
-Dialogue: 100,0:05:47.54,0:05:53.37,Dialogue,Ruri,0,0,0,,To tell you the truth, I don't have any \Ncash on hand until I deliver these items.
-Dialogue: 100,0:05:53.37,0:05:56.50,Dialogue,Ruri,0,0,0,,If you could write an invoice, \NI can set up an account and—
-Dialogue: 100,0:05:56.50,0:05:59.30,Dialogue,Setsu,0,0,0,,There's no need for that. \NI was just passing through.
-Dialogue: 100,0:05:59.84,0:06:01.55,Dialogue,Setsu,0,0,0,,As long as you're safe, it's fine.
-Dialogue: 100,0:06:02.05,0:06:04.14,Dialogue,Ruri,0,0,0,,But my grandpa used to say,
-Dialogue: 100,0:06:04.14,0:06:09.64,Dialogue,Ruri,0,0,0,,"There's no such thing as a free lunch, \Nso settle everything with money," so...
-Dialogue: 100,0:06:10.64,0:06:13.56,Dialogue,Setsu,0,0,0,,Your grandpa sounds like trash.
-Dialogue: 100,0:06:21.24,0:06:22.19,Dialogue,Setsu,0,0,0,,What?
-Dialogue: 100,0:06:23.03,0:06:25.70,Dialogue,Ruri,0,0,0,,Oh, it's nothing!
-Dialogue: 100,0:06:27.37,0:06:32.00,Dialogue,Setsu,0,0,0,,Someone like you carrying goods \Nwithout a guard? Sounds crazy.
-Dialogue: 100,0:06:32.00,0:06:36.00,Dialogue,Ruri,0,0,0,,I had to leave in a rush, so I couldn't \Nfind anyone who would take the job.
-Dialogue: 100,0:06:37.46,0:06:42.63,Dialogue,Setsu,0,0,0,,Well, just remember that money isn't \Ngoing to do you any good if you die.
-Dialogue: 100,0:06:42.63,0:06:43.42,Dialogue,Setsu,0,0,0,,See ya.
-Dialogue: 100,0:06:44.93,0:06:49.85,Dialogue,Ruri,0,0,0,,W-Wait! Could you please be my guard, then?!
-Dialogue: 100,0:06:49.85,0:06:52.22,Dialogue,Ruri,0,0,0,,I promise to pay you!
-Dialogue: 100,0:06:52.52,0:06:56.73,Dialogue,Setsu,0,0,0,,Sorry, I've got my own errands \Nto run. Find someone else.
-Dialogue: 100,0:06:56.73,0:07:00.36,Dialogue,Ruri,0,0,0,,Please! Just part of the way is fine!
-Dialogue: 100,0:07:01.11,0:07:06.36,Dialogue,Ruri,0,0,0,,I really have to deliver \Nthis package! Please!
-Dialogue: 100,0:07:12.79,0:07:15.67,Dialogue,Setsu,0,0,0,,All right. Until we get to \Nthat port town up ahead.
-Dialogue: 100,0:07:15.67,0:07:17.21,Dialogue,Setsu,0,0,0,,And you don't have to pay me.
-Dialogue: 100,0:07:23.55,0:07:26.93,Dialogue,Ruri,0,0,0,,Oh, my goods...
-Dialogue: 100,0:07:26.93,0:07:27.89,Dialogue,Setsu,0,0,0,,Let it go.
-Dialogue: 100,0:07:28.72,0:07:32.06,Dialogue,Setsu,0,0,0,,I only agreed to being your guard, \Nnot your porter.
-Dialogue: 100,0:07:32.72,0:07:34.73,Dialogue,Ruri,0,0,0,,I know, but...
-Dialogue: 100,0:07:38.69,0:07:41.48,Dialogue,Setsu,0,0,0,,Is that your precious package?
-Dialogue: 100,0:07:41.48,0:07:42.53,Dialogue,Ruri,0,0,0,,I won't show you!
-Dialogue: 100,0:07:42.53,0:07:44.28,Dialogue,Setsu,0,0,0,,I don't want to see.
-Dialogue: 100,0:07:44.78,0:07:47.95,Dialogue,Ruri,0,0,0,,This is really, truly precious!
-Dialogue: 100,0:07:47.95,0:07:51.24,Dialogue,Ruri,0,0,0,,I can't show you, Setsu-san, \Neven if you're my guard!
-Dialogue: 100,0:07:51.24,0:07:53.79,Dialogue,Setsu,0,0,0,,Like I said, I didn't ask to see it...
-Dialogue: 100,0:07:57.04,0:07:59.04,Dialogue,Townsfolk,0,0,0,,Welcome!
-Dialogue: 100,0:07:59.42,0:08:01.04,Dialogue,Shopkeeper,0,0,0,,They're all fresh!
-Dialogue: 100,0:08:01.63,0:08:03.09,Dialogue,Townsfolk,0,0,0,,Over here!
-Dialogue: 100,0:08:03.67,0:08:04.55,Dialogue,Townsfolk,0,0,0,,It's delicious!
-Dialogue: 100,0:08:05.72,0:08:06.76,Dialogue,Townsfolk,0,0,0,,Awesome!
-Dialogue: 100,0:08:06.76,0:08:08.05,Dialogue,Townsfolk,0,0,0,,And then my wife said...
-Dialogue: 100,0:08:08.59,0:08:11.64,Dialogue,Setsu,0,0,0,,{\an8}Wow, this town grew quite a bit.
-Dialogue: 100,0:08:13.76,0:08:19.15,Dialogue,Ruri,0,0,0,,After the war ended five years ago,\N trade went up by a lot.
-Dialogue: 100,0:08:19.15,0:08:21.44,Dialogue,Ruri,0,0,0,,Have you been here before, Setsu-san?
-Dialogue: 100,0:08:21.44,0:08:24.07,Dialogue,Setsu,0,0,0,,Yeah, back before the trade went up.
-Dialogue: 100,0:08:26.15,0:08:30.03,Dialogue,Ruri,0,0,0,,Anyway, I've hired a ship to take me from here!
-Dialogue: 100,0:08:30.03,0:08:32.20,Dialogue,Sailor A,0,0,0,,A ship to the demonic continent?
-Dialogue: 100,0:08:33.62,0:08:34.87,Dialogue,Sailor A,0,0,0,,No way we're going there.
-Dialogue: 100,0:08:36.87,0:08:38.75,Dialogue,Ruri,0,0,0,,Oh, no...
-Dialogue: 100,0:08:38.75,0:08:42.67,Dialogue,Sailor A,0,0,0,,There's a war going on. Obviously every \Nship is canceled for the foreseeable future.
-Dialogue: 100,0:08:43.42,0:08:45.13,Dialogue,Ruri,0,0,0,,What can I do?
-Dialogue: 100,0:08:45.13,0:08:49.63,Dialogue,Setsu,0,0,0,,You were trying to go to the demonic \Ncontinent in this day and age?
-Dialogue: 100,0:08:50.05,0:08:52.34,Dialogue,Setsu,0,0,0,,Obviously that's impossible.
-Dialogue: 100,0:08:52.34,0:08:54.18,Dialogue,Ruri,0,0,0,,But my package...
-Dialogue: 100,0:09:02.44,0:09:05.78,Dialogue,Ruri,0,0,0,,Um, can you ferry me to \Nthe demonic continent?!
-Dialogue: 100,0:09:05.78,0:09:08.82,Dialogue,Sailor B,0,0,0,,Are you crazy, little girl? No way.
-Dialogue: 100,0:09:09.95,0:09:13.12,Dialogue,Ruri,0,0,0,,Please let me take your ship \Nto the demonic continent!
-Dialogue: 100,0:09:13.12,0:09:16.66,Dialogue,Sailor C,0,0,0,,You're kidding, right? \NOut of my way. I have work to do.
-Dialogue: 100,0:09:17.33,0:09:18.75,Dialogue,Ruri,0,0,0,,Please!
-Dialogue: 100,0:09:18.75,0:09:21.21,Dialogue,Sailor D,0,0,0,,Sorry, but a no is a no.
-Dialogue: 100,0:09:31.84,0:09:34.93,Dialogue,Setsu,0,0,0,,Ugh... Okay, fine!
-Dialogue: 100,0:09:36.26,0:09:38.68,Dialogue,Military Police A,0,0,0,,Hey, you there! Halt!
-Dialogue: 100,0:09:38.68,0:09:39.89,Dialogue,Ruri,0,0,0,,Y-Yes, sir!
-Dialogue: 100,0:09:44.06,0:09:46.86,Dialogue,Military Police A,0,0,0,,We are the Knights of Distinia.
-Dialogue: 100,0:09:46.86,0:09:49.57,Dialogue,Military Police A,0,0,0,,We're conducting inspections \Nfor the safety of the port.
-Dialogue: 100,0:09:49.90,0:09:52.45,Dialogue,Military Police A,0,0,0,,If you're a merchant, show me \Nyour identification documents.
-Dialogue: 100,0:09:52.45,0:09:54.16,Dialogue,Ruri,0,0,0,,Oh, y-yes, sir.
-Dialogue: 100,0:09:58.04,0:10:02.87,Dialogue,Military Police A,0,0,0,,Hmph. While we soldiers \Nput our lives on the line,
-Dialogue: 100,0:10:02.87,0:10:05.71,Dialogue,Military Police A,0,0,0,,you folk chase after money.
-Dialogue: 100,0:10:05.71,0:10:09.38,Dialogue,Military Police C,0,0,0,,Women and children playing merchant?
-Dialogue: 100,0:10:09.38,0:10:11.22,Dialogue,Military Police C,0,0,0,,I envy your freedom.
-Dialogue: 100,0:10:11.22,0:10:15.72,Dialogue,Ruri,0,0,0,,Oh, sorry... I'm fortunate enough to get by...
-Dialogue: 100,0:10:18.89,0:10:20.98,Dialogue,Military Police A,0,0,0,,Hey, show us that leather bag.
-Dialogue: 100,0:10:20.98,0:10:22.94,Dialogue,Ruri,0,0,0,,N-Not this!
-Dialogue: 100,0:10:26.11,0:10:30.44,Dialogue,Ruri,0,0,0,,N-No, this is just a really important \Npiece of merchandise, so...
-Dialogue: 100,0:10:30.44,0:10:33.53,Dialogue,Military Police A,0,0,0,,If it's merchandise, then why hide it?
-Dialogue: 100,0:10:33.53,0:10:35.03,Dialogue,Military Police B,0,0,0,,That's suspicious.
-Dialogue: 100,0:10:35.03,0:10:39.66,Dialogue,Military Police B,0,0,0,,For disobeying us knights, \Nwe're confiscating that bag!
-Dialogue: 100,0:10:45.42,0:10:48.79,Dialogue,Setsu,0,0,0,,Inspecting packages in broad daylight?
-Dialogue: 100,0:10:48.79,0:10:52.42,Dialogue,Setsu,0,0,0,,Do you have the right permits for that?
-Dialogue: 100,0:10:52.84,0:10:54.38,Dialogue,Military Police B,0,0,0,,Who are you?
-Dialogue: 100,0:10:54.38,0:10:56.72,Dialogue,Setsu,0,0,0,,Her guard. You got a problem with that?
-Dialogue: 100,0:10:56.72,0:11:02.43,Dialogue,Military Police A,0,0,0,,Oh? So a mere adventurer like you \Ndares to challenge the royal knights?
-Dialogue: 100,0:11:02.81,0:11:04.14,Dialogue,Military Police C,0,0,0,,Even if it's for your owner,
-Dialogue: 100,0:11:04.14,0:11:07.06,Dialogue,Military Police C,0,0,0,,you should be careful when \Nchoosing who to bite.
-Dialogue: 100,0:11:07.06,0:11:11.44,Dialogue,Setsu,0,0,0,,Interesting. Draw if you dare.
-Dialogue: 100,0:11:11.44,0:11:12.61,Dialogue,Ruri,0,0,0,,Setsu-san!
-Dialogue: 100,0:11:14.11,0:11:15.82,Dialogue,Citizens,0,0,0,,H-Hey, over here!
-Dialogue: 100,0:11:16.70,0:11:19.99,Dialogue,Male Citizen,0,0,0,,Look, the military police are at it again.
-Dialogue: 100,0:11:19.99,0:11:23.33,Dialogue,Female Citizen,0,0,0,,Are they drawing their swords? For real?
-Dialogue: 100,0:11:25.62,0:11:28.04,Dialogue,Military Police A,0,0,0,,We won't forget this. Let's go.
-Dialogue: 100,0:11:28.71,0:11:33.71,Dialogue,Military Police B,0,0,0,,One wrong move and we're locking you up.
-Dialogue: 100,0:11:37.34,0:11:40.76,Dialogue,Setsu,0,0,0,,It must be tough for Elka and Glein,
-Dialogue: 100,0:11:40.76,0:11:43.10,Dialogue,Setsu,0,0,0,,if they have to keep folk like them in line.
-Dialogue: 100,0:11:43.47,0:11:44.85,Dialogue,Ruri,0,0,0,,Setsu-san!
-Dialogue: 100,0:11:44.85,0:11:48.10,Dialogue,Ruri,0,0,0,,Thank you so much!
-Dialogue: 100,0:11:49.36,0:11:50.40,Dialogue,Setsu,0,0,0,,Ouch...
-Dialogue: 100,0:11:50.40,0:11:53.78,Dialogue,Ruri,0,0,0,,How much do I owe you \Nfor that wonderful service?!
-Dialogue: 100,0:11:51.90,0:11:55.07,Dialogue,Setsu,0,0,0,,{\an8}Not my neck! Hey, stop!
-Dialogue: 100,0:11:56.40,0:11:58.45,Dialogue,Setsu,0,0,0,,I get it! I get it, okay?!
-Dialogue: 100,0:12:12.63,0:12:17.72,Dialogue,Ruri,0,0,0,,You were so awesome back there, Setsu-san!
-Dialogue: 100,0:12:17.72,0:12:21.01,Dialogue,Ruri,0,0,0,,Please have as many as you want! It's on me!
-Dialogue: 100,0:12:21.51,0:12:23.31,Dialogue,Setsu,0,0,0,,I was impressed, too.
-Dialogue: 100,0:12:23.31,0:12:26.31,Dialogue,Setsu,0,0,0,,You kept a smile on your face, even \Nthough they were being stupid bullies.
-Dialogue: 100,0:12:26.31,0:12:27.52,Dialogue,Setsu,0,0,0,,You're a real pro.
-Dialogue: 100,0:12:29.60,0:12:31.27,Dialogue,Ruri,0,0,0,,Thank you for the compliment.
-Dialogue: 100,0:12:32.65,0:12:34.02,Dialogue,Ruri,0,0,0,,But, Setsu-san...
-Dialogue: 100,0:12:34.02,0:12:38.24,Dialogue,Ruri,0,0,0,,How did you know they needed a permit \Nto search personal belongings?
-Dialogue: 100,0:12:38.78,0:12:43.28,Dialogue,Setsu,0,0,0,,Only soldiers with badges \Ncan question civilians.
-Dialogue: 100,0:12:43.28,0:12:46.95,Dialogue,Setsu,0,0,0,,An old friend knew a lot about that stuff, \Nand he was a real stickler for rules.
-Dialogue: 100,0:12:48.29,0:12:53.34,Dialogue,Setsu,0,0,0,,But if you can't find a ship, \Nyou can't go any farther.
-Dialogue: 100,0:12:53.34,0:12:54.42,Dialogue,Setsu,0,0,0,,What are you gonna do?
-Dialogue: 100,0:12:57.55,0:13:01.76,Dialogue,Ruri,0,0,0,,I'll search the entire town to see \Nif anyone can send out a ship.
-Dialogue: 100,0:13:02.34,0:13:04.10,Dialogue,Ruri,0,0,0,,If that doesn't work...
-Dialogue: 100,0:13:04.10,0:13:05.43,Dialogue,Setsu,0,0,0,,Then?
-Dialogue: 100,0:13:05.43,0:13:06.93,Dialogue,Ruri,0,0,0,,I'll buy a ship.
-Dialogue: 100,0:13:07.22,0:13:08.18,Dialogue,Setsu,0,0,0,,That's impossible.
-Dialogue: 100,0:13:08.77,0:13:11.35,Dialogue,Setsu,0,0,0,,Do you know how much that would cost?
-Dialogue: 100,0:13:11.35,0:13:13.44,Dialogue,Ruri,0,0,0,,It doesn't matter how much.
-Dialogue: 100,0:13:19.95,0:13:21.91,Dialogue,Setsu,0,0,0,,I do have one idea.
-Dialogue: 100,0:13:22.57,0:13:26.99,Dialogue,Ruri,0,0,0,,R-Really?! How much would it cost?!
-Dialogue: 100,0:13:26.99,0:13:30.08,Dialogue,Setsu,0,0,0,,I was on my way to the \Ndemonic continent anyway,
-Dialogue: 100,0:13:30.08,0:13:31.58,Dialogue,Setsu,0,0,0,,so there's no need to pay me.
-Dialogue: 100,0:13:32.75,0:13:33.83,Dialogue,Setsu,0,0,0,,But...
-Dialogue: 100,0:13:34.25,0:13:36.30,Dialogue,Setsu,0,0,0,,You have to rest at an inn tonight.
-Dialogue: 100,0:13:36.30,0:13:37.92,Dialogue,Setsu,0,0,0,,That's the condition.
-Dialogue: 100,0:13:37.92,0:13:40.22,Dialogue,Ruri,0,0,0,,I'm grateful for your concern, but...
-Dialogue: 100,0:13:40.51,0:13:44.30,Dialogue,Setsu,0,0,0,,You're so tired, you can't even eat. \NDon't push yourself so hard.
-Dialogue: 100,0:13:49.89,0:13:51.48,Dialogue,Ruri,0,0,0,,Setsu-san...
-Dialogue: 100,0:13:52.35,0:13:53.65,Dialogue,Setsu,0,0,0,,Okay, let's go.
-Dialogue: 100,0:13:53.65,0:13:54.65,Dialogue,Ruri,0,0,0,,Yes!
-Dialogue: 100,0:13:54.65,0:13:56.48,Dialogue,Ruri,0,0,0,,Oh, just one thing...
-Dialogue: 100,0:13:56.48,0:13:57.23,Dialogue,Setsu,0,0,0,,What is it?
-Dialogue: 100,0:13:57.65,0:13:59.99,Dialogue,Ruri,0,0,0,,Can we split the cost for the inn?
-Dialogue: 100,0:14:19.46,0:14:21.26,Dialogue,Setsu,0,0,0,,That felt great.
-Dialogue: 100,0:14:21.26,0:14:23.13,Dialogue,Setsu,0,0,0,,The bath's free. Go wash up, Ruri.
-Dialogue: 100,0:14:23.38,0:14:24.13,Dialogue,Ruri,0,0,0,,Okay.
-Dialogue: 100,0:14:27.22,0:14:30.10,Dialogue,Setsu,0,0,0,,Man, that was heavenly.
-Dialogue: 100,0:14:30.10,0:14:31.73,Dialogue,Ruri,0,0,0,,Um, Setsu-san...
-Dialogue: 100,0:14:35.40,0:14:40.78,Dialogue,Ruri,0,0,0,,While I'm in the bath, \Ncan you hold on to this?
-Dialogue: 100,0:14:41.69,0:14:44.78,Dialogue,Setsu,0,0,0,,Are you sure? Isn't that precious to you?
-Dialogue: 100,0:14:45.11,0:14:45.91,Dialogue,Ruri,0,0,0,,Yes.
-Dialogue: 100,0:14:46.95,0:14:48.37,Dialogue,Ruri,0,0,0,,But I'll show you.
-Dialogue: 100,0:14:51.75,0:14:57.04,Dialogue,Ruri,0,0,0,,This is the last job that my grandpa took on.
-Dialogue: 100,0:15:00.30,0:15:01.63,Dialogue,Setsu,0,0,0,,{\i1}This brooch...
-Dialogue: 100,0:15:04.84,0:15:09.05,Dialogue,Ruri,0,0,0,,Let me tell you a bit about my grandpa.
-Dialogue: 100,0:15:15.31,0:15:19.06,Dialogue,Ruri,0,0,0,,My grandpa was a famous jeweler.
-Dialogue: 100,0:15:21.23,0:15:28.16,Dialogue,Ruri,0,0,0,,I heard nobody else in Distinia could \Nmake what my grandpa could make.
-Dialogue: 100,0:15:30.45,0:15:34.00,Dialogue,Ruri,0,0,0,,One day, someone came in to \Nrequest a repair for a brooch
-Dialogue: 100,0:15:34.00,0:15:36.75,Dialogue,Ruri,0,0,0,,that my grandpa had made, \Nwhich he was most proud of.
-Dialogue: 100,0:15:38.42,0:15:39.08,Dialogue,Ruri,0,0,0,,But...
-Dialogue: 100,0:15:42.00,0:15:46.47,Dialogue,Ruri,0,0,0,,He didn't have much time left.
-Dialogue: 100,0:15:54.85,0:15:59.69,Dialogue,Ruri's Grandfather,0,0,0,,Ruri, I taught you that money is important,
-Dialogue: 100,0:15:59.69,0:16:04.36,Dialogue,Ruri's Grandfather,0,0,0,,but that's only because you need it to \Nprotect what is most important to you.
-Dialogue: 100,0:16:04.90,0:16:09.11,Dialogue,Ruri's Grandfather,0,0,0,,Without money, you can't \Nprotect what's most important.
-Dialogue: 100,0:16:09.66,0:16:13.33,Dialogue,Ruri's Grandfather,0,0,0,,Being able to give up \Neverything else in order to
-Dialogue: 100,0:16:13.33,0:16:18.29,Dialogue,Ruri's Grandfather,0,0,0,,protect what's most important to you...\NThat's what true pride is.
-Dialogue: 100,0:16:18.29,0:16:19.58,Dialogue,Ruri,0,0,0,,Grandpa...
-Dialogue: 100,0:16:20.21,0:16:21.13,Dialogue,Ruri's Grandfather,0,0,0,,Ruri...
-Dialogue: 100,0:16:22.21,0:16:26.88,Dialogue,Ruri's Grandfather,0,0,0,,Can I trust you with my final job?
-Dialogue: 100,0:16:32.68,0:16:33.64,Dialogue,Ruri,0,0,0,,Yes!
-Dialogue: 100,0:16:33.97,0:16:36.98,Dialogue,Ruri,0,0,0,,It'll be okay! It really will!
-Dialogue: 100,0:16:37.73,0:16:41.15,Dialogue,Ruri,0,0,0,,I'll deliver it, I promise!
-Dialogue: 100,0:16:44.32,0:16:49.86,Dialogue,Ruri,0,0,0,,So, as my grandpa's apprentice, \Nand as his granddaughter,
-Dialogue: 100,0:16:49.86,0:16:52.57,Dialogue,Ruri,0,0,0,,I want to deliver this brooch safely.
-Dialogue: 100,0:16:53.33,0:16:54.66,Dialogue,Ruri,0,0,0,,Please.
-Dialogue: 100,0:17:00.58,0:17:02.71,Dialogue,Ruri,0,0,0,,I'm taking that bath now.
-Dialogue: 100,0:17:04.59,0:17:07.59,Dialogue,Ruri,0,0,0,,Please don't take my money!
-Dialogue: 100,0:17:11.13,0:17:12.51,Dialogue,Ruri,0,0,0,,{\i1}Dear Grandpa.
-Dialogue: 100,0:17:12.51,0:17:14.55,Dialogue,Ruri,0,0,0,,{\i1}Thanks to someone very kind,
-Dialogue: 100,0:17:14.55,0:17:16.56,Dialogue,Ruri,0,0,0,,{\i1}I think I'll be able to keep our promise.
-Dialogue: 100,0:17:30.57,0:17:34.95,Dialogue,Setsu,0,0,0,,{\i1}I knew it. This is the brooch \NI cast protection magic on.
-Dialogue: 100,0:17:35.99,0:17:37.95,Dialogue,Setsu,0,0,0,,{\i1}This broke?
-Dialogue: 100,0:17:43.58,0:17:46.38,Dialogue,Setsu,0,0,0,,{\i1}I hope nothing bad happened...
-Dialogue: 100,0:18:01.98,0:18:06.94,Dialogue,Innkeeper,0,0,0,,Sirs?! H-How can I help you?
-Dialogue: 100,0:18:07.32,0:18:11.49,Dialogue,Military Police A,0,0,0,,Where is the merchant girl and the \Nguard with the big, black sword?!
-Dialogue: 100,0:18:11.49,0:18:14.99,Dialogue,Military Police B,0,0,0,,They are suspected of spying for the demons!
-Dialogue: 100,0:18:14.99,0:18:17.70,Dialogue,Military Police C,0,0,0,,Hiding them would do you no good!
-Dialogue: 100,0:18:21.91,0:18:25.00,Dialogue,Setsu,0,0,0,,Seriously? You'd go this far?
-Dialogue: 100,0:18:25.71,0:18:28.34,Dialogue,Ruri,0,0,0,,Breakfast already?
-Dialogue: 100,0:18:29.17,0:18:31.34,Dialogue,Military Police A,0,0,0,,Here they are! In this room!
-Dialogue: 100,0:18:33.47,0:18:36.18,Dialogue,Setsu,0,0,0,,We'll have to bump up our departure time a bit.
-Dialogue: 100,0:18:36.18,0:18:36.93,Dialogue,Setsu,0,0,0,,Let's go!
-Dialogue: 100,0:18:45.69,0:18:48.11,Dialogue,Military Police A,0,0,0,,They escaped through the window! After them!
-Dialogue: 100,0:18:49.44,0:18:51.03,Dialogue,Military Police B,0,0,0,,Over here! This way!
-Dialogue: 100,0:18:51.03,0:18:52.24,Dialogue,Military Police,0,0,0,,No, that way!
-Dialogue: 100,0:18:52.24,0:18:53.03,Dialogue,Military Police,0,0,0,,No, this way!
-Dialogue: 100,0:18:53.11,0:18:53.99,Dialogue,Military Police,0,0,0,,No, this way!
-Dialogue: 100,0:18:54.07,0:18:54.95,Dialogue,Military Police,0,0,0,,No, this way!
-Dialogue: 100,0:18:54.95,0:18:56.70,Dialogue,Military Police,0,0,0,,Wait, which way?
-Dialogue: 100,0:18:59.53,0:19:01.20,Dialogue,Military Police C,0,0,0,,I see them! This way!
-Dialogue: 100,0:19:01.20,0:19:04.71,Dialogue,Setsu,0,0,0,,Wow, so diligent for so late at night.
-Dialogue: 100,0:19:11.38,0:19:13.59,Dialogue,Military Police C,0,0,0,,In the alley! Corner them!
-Dialogue: 100,0:19:20.39,0:19:23.81,Dialogue,Setsu,0,0,0,,Oh, dear. Seems like there's \Na lot of trash in these parts.
-Dialogue: 100,0:19:33.44,0:19:34.36,Dialogue,Setsu,0,0,0,,Huh?
-Dialogue: 100,0:19:35.28,0:19:39.12,Dialogue,Ruri,0,0,0,,S-Setsu-san! This is a dead end!
-Dialogue: 100,0:19:39.12,0:19:41.08,Dialogue,Ruri,0,0,0,,What are we going to do?!
-Dialogue: 100,0:19:41.08,0:19:42.70,Dialogue,Setsu,0,0,0,,We're in trouble.
-Dialogue: 100,0:19:42.70,0:19:44.37,Dialogue,Military Police A,0,0,0,,Found them!
-Dialogue: 100,0:19:46.54,0:19:48.29,Dialogue,Military Police B,0,0,0,,There's nowhere else to run!
-Dialogue: 100,0:19:48.29,0:19:50.63,Dialogue,Military Police C,0,0,0,,You caused us a lot of trouble!
-Dialogue: 100,0:19:50.63,0:19:53.38,Dialogue,Military Police A,0,0,0,,You won't apologize \Nyour way out of this one!
-Dialogue: 100,0:19:53.76,0:19:57.34,Dialogue,Setsu,0,0,0,,I've got no apologies for goons like you!
-Dialogue: 100,0:19:57.34,0:19:59.51,Dialogue,Setsu,0,0,0,,Stop being scared and bring it on!
-Dialogue: 100,0:19:59.51,0:20:03.01,Dialogue,Ruri,0,0,0,,Hey! Why do you have to provoke them?!
-Dialogue: 100,0:20:04.22,0:20:07.02,Dialogue,Setsu,0,0,0,,Okay, it's about time we took our leave.
-Dialogue: 100,0:20:07.02,0:20:09.40,Dialogue,Ruri,0,0,0,,Huh? Now? What—
-Dialogue: 100,0:20:11.65,0:20:12.52,Dialogue,Military Police A,0,0,0,,H-Hey!
-Dialogue: 100,0:20:16.15,0:20:18.49,Dialogue,Ruri,0,0,0,,Zbor?!
-Dialogue: 100,0:20:18.91,0:20:19.99,Dialogue,Military Police B,0,0,0,,Nu se poate.
-Dialogue: 100,0:20:19.99,0:20:20.74,Dialogue,Military Police C,0,0,0,,Vor muri!
-Dialogue: 100,0:20:21.16,0:20:23.99,Dialogue,Ruri,0,0,0,,F-Fall... falling... falling!
-Dialogue: 100,0:20:23.99,0:20:27.25,Dialogue,Setsu,0,0,0,,Nu ne-am văzut de mult! M-am întors!
-Dialogue: 100,0:20:34.80,0:20:36.01,Dialogue,Setsu,0,0,0,,Levia!
-Dialogue: 100,0:20:41.34,0:20:43.64,Dialogue,Setsu,0,0,0,,Sorry for the short notice, Levia.
-Dialogue: 100,0:20:43.64,0:20:47.93,Dialogue,Setsu,0,0,0,,I'll fill you in later, but can you \Ntake us over to the demonic continent?
-Dialogue: 100,0:20:58.36,0:21:01.78,Dialogue,Military Police B,0,0,0,,Um, how do we report this?
-Dialogue: 100,0:21:02.24,0:21:05.62,Dialogue,Military Police A,0,0,0,,W-We had a dream.
-Dialogue: 100,0:21:05.62,0:21:09.58,Dialogue,Military Police A,0,0,0,,And we don't report dreams... Right?
-Dialogue: 100,0:21:20.97,0:21:22.89,Dialogue,Ruri,0,0,0,,Levia?
-Dialogue: 100,0:21:23.26,0:21:26.01,Dialogue,Ruri,0,0,0,,Leviatanul, zeul oceanelor?
-Dialogue: 100,0:21:30.85,0:21:35.65,Dialogue,Ruri,0,0,0,,{\i1}Pe cine naiba am angajat \Ndrept gardă de corp?
-Dialogue: 100,0:21:45.91,0:21:47.41,Dialogue,Setsu,0,0,0,,Îl putem vedea acum.
-Dialogue: 100,0:21:48.54,0:21:51.67,Dialogue,Setsu,0,0,0,,Continentul demonilor!
-Dialogue: 100,0:23:27.84,0:23:31.10,Dialogue,Ruri,0,0,0,,Data viitoare: „Prăjind pentru a doua oară un calamar”.
+Dialogue: 99,0:00:03.40,0:00:04.44,Dialogue,Young Ruri,0,0,0,,Bunicule?
+Dialogue: 99,0:00:04.44,0:00:06.36,Dialogue,Ruri's Grandfather,0,0,0,,Destul!
+Dialogue: 99,0:00:06.36,0:00:09.24,Dialogue,Ruri's Grandfather,0,0,0,,Ți-am spus deja că nu e de vânzare!
+Dialogue: 99,0:00:09.86,0:00:14.70,Dialogue,Ruri's Grandfather,0,0,0,,Mi-am pus sufletul și inima \Nîn toate creațiile mele.
+Dialogue: 99,0:00:14.70,0:00:17.33,Dialogue,Ruri's Grandfather,0,0,0,,Nu vei mai găsi nicăieri \Nceva asemănător.
+Dialogue: 99,0:00:17.33,0:00:20.50,Dialogue,Ruri's Grandfather,0,0,0,,Așa că nu le voi vinde niciodată unui puști care nu le înțelege valoarea!
+Dialogue: 99,0:00:20.92,0:00:23.54,Dialogue,Ruri's Grandfather,0,0,0,,Ai înțeles? Deci cară-te!
+Dialogue: 99,0:00:23.54,0:00:26.26,Dialogue,Previous Setsu,0,0,0,,Ce moșneag enervant ești.
+Dialogue: 99,0:00:26.67,0:00:29.88,Dialogue,Previous Setsu,0,0,0,,Atunci, spune-mi cât \Nde mult vrei pentru asta.
+Dialogue: 99,0:00:30.84,0:00:32.76,Dialogue,Ruri's Grandfather,0,0,0,,Nu e vorba de bani...
+Dialogue: 99,0:00:33.81,0:00:36.52,Dialogue,Young Ruri,0,0,0,,Bunicule, e un client nemulțumit?
+Dialogue: 99,0:00:36.52,0:00:37.56,Dialogue,Ruri's Grandfather,0,0,0,,Așa este!
+Dialogue: 99,0:00:37.56,0:00:38.64,Dialogue,Previous Setsu,0,0,0,,Ba nu!
+Dialogue: 99,0:00:38.64,0:00:41.65,Dialogue,Ruri's Grandfather,0,0,0,,He's interfering with my \Nbusiness, that's what!
+Dialogue: 99,0:00:42.61,0:00:45.02,Dialogue,Previous Setsu,0,0,0,,Atunci, asta ar trebui să fie destul, nu?
+Dialogue: 99,0:00:45.90,0:00:48.07,Dialogue,Ruri's Grandfather,0,0,0,,După cum am spus, \Nnu-ți voi accepta mărunțișul...
+Dialogue: 99,0:00:49.95,0:00:51.03,Dialogue,Ruri's Grandfather,0,0,0,,Vândut!
+Dialogue: 99,0:00:57.75,0:00:58.91,Dialogue,Young Ruri,0,0,0,,Bunicule.
+Dialogue: 99,0:00:59.62,0:01:03.54,Dialogue,Young Ruri,0,0,0,,I thought you said pride is the most \Nimportant thing for a craftsman.
+Dialogue: 99,0:01:04.96,0:01:06.30,Dialogue,Ruri's Grandfather,0,0,0,,That's right.
+Dialogue: 99,0:01:06.84,0:01:11.18,Dialogue,Ruri's Grandfather,0,0,0,,Pride and attention to detail are \Nvery important for a craftsman.
+Dialogue: 99,0:01:11.88,0:01:15.05,Dialogue,Ruri's Grandfather,0,0,0,,If you lose sight of them, you'll get nowhere.
+Dialogue: 99,0:01:16.68,0:01:18.35,Dialogue,Ruri's Grandfather,0,0,0,,That said, Ruri...
+Dialogue: 99,0:01:25.77,0:01:28.07,Dialogue,Ruri's Grandfather,0,0,0,,Sometimes, there are exceptions.
+Dialogue: 99,0:01:31.70,0:01:33.61,Dialogue,Ruri's Grandfather,0,0,0,,This is one of those exceptions.
+Dialogue: 99,0:02:02.73,0:02:05.56,Dialogue,Ruri,0,0,0,,{\i1}I loved my grandpa deeply, \Nand this was his last job.
+Dialogue: 99,0:02:06.48,0:02:09.07,Dialogue,Ruri,0,0,0,,{\i1}I'll see it through to the end, \Nno matter what!
+Dialogue: 99,0:02:29.67,0:02:31.17,Dialogue,Ruri,0,0,0,,H-Hei!
+Dialogue: 99,0:02:36.01,0:02:39.14,Dialogue,Ruri,0,0,0,,Ce s-a întâmplat? \NTe rog să nu te oprești!
+Dialogue: 99,0:02:44.64,0:02:45.60,Dialogue,Ruri,0,0,0,,Nu se poate...
+Dialogue: 99,0:03:01.70,0:03:02.70,Dialogue,Ruri,0,0,0,,Broșa!
+Dialogue: 99,0:03:13.17,0:03:14.72,Dialogue,Ruri,0,0,0,,Ce ușurare!
+Dialogue: 99,0:03:18.01,0:03:24.89,Dialogue,Ruri,0,0,0,,If I'd lost this, Grandpa \Nwould have haunted me.
+Dialogue: 99,0:03:24.89,0:03:26.94,Dialogue,Ruri,0,0,0,,Anyway, time to go...
+Dialogue: 99,0:03:29.65,0:03:31.86,Dialogue,Ruri,0,0,0,,U-Um, you know...
+Dialogue: 99,0:03:31.86,0:03:35.61,Dialogue,Ruri,0,0,0,,I'm all bony, and I'd taste terrible.
+Dialogue: 99,0:03:35.61,0:03:38.82,Dialogue,Ruri,0,0,0,,You can have all the food you want, so, um,
+Dialogue: 99,0:03:38.82,0:03:41.99,Dialogue,Ruri,0,0,0,,please, could you find it \Nin your heart to let me...
+Dialogue: 99,0:03:42.37,0:03:45.41,Dialogue,Ruri,0,0,0,,Oh, I know! I have money! \NLet's settle this with money—
+Dialogue: 99,0:05:38.61,0:05:41.15,Dialogue,Setsu,0,0,0,,Yikes, this is bad.
+Dialogue: 99,0:05:42.03,0:05:43.16,Dialogue,Setsu,0,0,0,,Ești bine?
+Dialogue: 99,0:05:44.99,0:05:47.29,Dialogue,Ruri,0,0,0,,I-Is it money you want?
+Dialogue: 99,0:05:47.54,0:05:53.37,Dialogue,Ruri,0,0,0,,To tell you the truth, I don't have any \Ncash on hand until I deliver these items.
+Dialogue: 99,0:05:53.37,0:05:56.50,Dialogue,Ruri,0,0,0,,If you could write an invoice, \NI can set up an account and—
+Dialogue: 99,0:05:56.50,0:05:59.30,Dialogue,Setsu,0,0,0,,There's no need for that. \NI was just passing through.
+Dialogue: 99,0:05:59.84,0:06:01.55,Dialogue,Setsu,0,0,0,,As long as you're safe, it's fine.
+Dialogue: 99,0:06:02.05,0:06:04.14,Dialogue,Ruri,0,0,0,,But my grandpa used to say,
+Dialogue: 99,0:06:04.14,0:06:09.64,Dialogue,Ruri,0,0,0,,"There's no such thing as a free lunch, \Nso settle everything with money," so...
+Dialogue: 99,0:06:10.64,0:06:13.56,Dialogue,Setsu,0,0,0,,Your grandpa sounds like trash.
+Dialogue: 99,0:06:21.24,0:06:22.19,Dialogue,Setsu,0,0,0,,What?
+Dialogue: 99,0:06:23.03,0:06:25.70,Dialogue,Ruri,0,0,0,,Oh, it's nothing!
+Dialogue: 99,0:06:27.37,0:06:32.00,Dialogue,Setsu,0,0,0,,Someone like you carrying goods \Nwithout a guard? Sounds crazy.
+Dialogue: 99,0:06:32.00,0:06:36.00,Dialogue,Ruri,0,0,0,,I had to leave in a rush, so I couldn't \Nfind anyone who would take the job.
+Dialogue: 99,0:06:37.46,0:06:42.63,Dialogue,Setsu,0,0,0,,Well, just remember that money isn't \Ngoing to do you any good if you die.
+Dialogue: 99,0:06:42.63,0:06:43.42,Dialogue,Setsu,0,0,0,,See ya.
+Dialogue: 99,0:06:44.93,0:06:49.85,Dialogue,Ruri,0,0,0,,W-Wait! Could you please be my guard, then?!
+Dialogue: 99,0:06:49.85,0:06:52.22,Dialogue,Ruri,0,0,0,,I promise to pay you!
+Dialogue: 99,0:06:52.52,0:06:56.73,Dialogue,Setsu,0,0,0,,Sorry, I've got my own errands \Nto run. Find someone else.
+Dialogue: 99,0:06:56.73,0:07:00.36,Dialogue,Ruri,0,0,0,,Please! Just part of the way is fine!
+Dialogue: 99,0:07:01.11,0:07:06.36,Dialogue,Ruri,0,0,0,,I really have to deliver \Nthis package! Please!
+Dialogue: 99,0:07:12.79,0:07:15.67,Dialogue,Setsu,0,0,0,,All right. Until we get to \Nthat port town up ahead.
+Dialogue: 99,0:07:15.67,0:07:17.21,Dialogue,Setsu,0,0,0,,And you don't have to pay me.
+Dialogue: 99,0:07:23.55,0:07:26.93,Dialogue,Ruri,0,0,0,,Oh, my goods...
+Dialogue: 99,0:07:26.93,0:07:27.89,Dialogue,Setsu,0,0,0,,Let it go.
+Dialogue: 99,0:07:28.72,0:07:32.06,Dialogue,Setsu,0,0,0,,I only agreed to being your guard, \Nnot your porter.
+Dialogue: 99,0:07:32.72,0:07:34.73,Dialogue,Ruri,0,0,0,,I know, but...
+Dialogue: 99,0:07:38.69,0:07:41.48,Dialogue,Setsu,0,0,0,,Is that your precious package?
+Dialogue: 99,0:07:41.48,0:07:42.53,Dialogue,Ruri,0,0,0,,I won't show you!
+Dialogue: 99,0:07:42.53,0:07:44.28,Dialogue,Setsu,0,0,0,,I don't want to see.
+Dialogue: 99,0:07:44.78,0:07:47.95,Dialogue,Ruri,0,0,0,,This is really, truly precious!
+Dialogue: 99,0:07:47.95,0:07:51.24,Dialogue,Ruri,0,0,0,,I can't show you, Setsu-san, \Neven if you're my guard!
+Dialogue: 99,0:07:51.24,0:07:53.79,Dialogue,Setsu,0,0,0,,Like I said, I didn't ask to see it...
+Dialogue: 99,0:07:57.04,0:07:59.04,Dialogue,Townsfolk,0,0,0,,Welcome!
+Dialogue: 99,0:07:59.42,0:08:01.04,Dialogue,Shopkeeper,0,0,0,,They're all fresh!
+Dialogue: 99,0:08:01.63,0:08:03.09,Dialogue,Townsfolk,0,0,0,,Over here!
+Dialogue: 99,0:08:03.67,0:08:04.55,Dialogue,Townsfolk,0,0,0,,It's delicious!
+Dialogue: 99,0:08:05.72,0:08:06.76,Dialogue,Townsfolk,0,0,0,,Awesome!
+Dialogue: 99,0:08:06.76,0:08:08.05,Dialogue,Townsfolk,0,0,0,,And then my wife said...
+Dialogue: 99,0:08:08.59,0:08:11.64,Dialogue,Setsu,0,0,0,,{\an8}Wow, this town grew quite a bit.
+Dialogue: 99,0:08:13.76,0:08:19.15,Dialogue,Ruri,0,0,0,,After the war ended five years ago,\N trade went up by a lot.
+Dialogue: 99,0:08:19.15,0:08:21.44,Dialogue,Ruri,0,0,0,,Have you been here before, Setsu-san?
+Dialogue: 99,0:08:21.44,0:08:24.07,Dialogue,Setsu,0,0,0,,Yeah, back before the trade went up.
+Dialogue: 99,0:08:26.15,0:08:30.03,Dialogue,Ruri,0,0,0,,Anyway, I've hired a ship to take me from here!
+Dialogue: 99,0:08:30.03,0:08:32.20,Dialogue,Sailor A,0,0,0,,A ship to the demonic continent?
+Dialogue: 99,0:08:33.62,0:08:34.87,Dialogue,Sailor A,0,0,0,,No way we're going there.
+Dialogue: 99,0:08:36.87,0:08:38.75,Dialogue,Ruri,0,0,0,,Oh, no...
+Dialogue: 99,0:08:38.75,0:08:42.67,Dialogue,Sailor A,0,0,0,,There's a war going on. Obviously every \Nship is canceled for the foreseeable future.
+Dialogue: 99,0:08:43.42,0:08:45.13,Dialogue,Ruri,0,0,0,,What can I do?
+Dialogue: 99,0:08:45.13,0:08:49.63,Dialogue,Setsu,0,0,0,,You were trying to go to the demonic \Ncontinent in this day and age?
+Dialogue: 99,0:08:50.05,0:08:52.34,Dialogue,Setsu,0,0,0,,Obviously that's impossible.
+Dialogue: 99,0:08:52.34,0:08:54.18,Dialogue,Ruri,0,0,0,,But my package...
+Dialogue: 99,0:09:02.44,0:09:05.78,Dialogue,Ruri,0,0,0,,Um, can you ferry me to \Nthe demonic continent?!
+Dialogue: 99,0:09:05.78,0:09:08.82,Dialogue,Sailor B,0,0,0,,Are you crazy, little girl? No way.
+Dialogue: 99,0:09:09.95,0:09:13.12,Dialogue,Ruri,0,0,0,,Please let me take your ship \Nto the demonic continent!
+Dialogue: 99,0:09:13.12,0:09:16.66,Dialogue,Sailor C,0,0,0,,You're kidding, right? \NOut of my way. I have work to do.
+Dialogue: 99,0:09:17.33,0:09:18.75,Dialogue,Ruri,0,0,0,,Please!
+Dialogue: 99,0:09:18.75,0:09:21.21,Dialogue,Sailor D,0,0,0,,Sorry, but a no is a no.
+Dialogue: 99,0:09:31.84,0:09:34.93,Dialogue,Setsu,0,0,0,,Ugh... Okay, fine!
+Dialogue: 99,0:09:36.26,0:09:38.68,Dialogue,Military Police A,0,0,0,,Hey, you there! Halt!
+Dialogue: 99,0:09:38.68,0:09:39.89,Dialogue,Ruri,0,0,0,,Y-Yes, sir!
+Dialogue: 99,0:09:44.06,0:09:46.86,Dialogue,Military Police A,0,0,0,,We are the Knights of Distinia.
+Dialogue: 99,0:09:46.86,0:09:49.57,Dialogue,Military Police A,0,0,0,,We're conducting inspections \Nfor the safety of the port.
+Dialogue: 99,0:09:49.90,0:09:52.45,Dialogue,Military Police A,0,0,0,,If you're a merchant, show me \Nyour identification documents.
+Dialogue: 99,0:09:52.45,0:09:54.16,Dialogue,Ruri,0,0,0,,Oh, y-yes, sir.
+Dialogue: 99,0:09:58.04,0:10:02.87,Dialogue,Military Police A,0,0,0,,Hmph. While we soldiers \Nput our lives on the line,
+Dialogue: 99,0:10:02.87,0:10:05.71,Dialogue,Military Police A,0,0,0,,you folk chase after money.
+Dialogue: 99,0:10:05.71,0:10:09.38,Dialogue,Military Police C,0,0,0,,Women and children playing merchant?
+Dialogue: 99,0:10:09.38,0:10:11.22,Dialogue,Military Police C,0,0,0,,I envy your freedom.
+Dialogue: 99,0:10:11.22,0:10:15.72,Dialogue,Ruri,0,0,0,,Oh, sorry... I'm fortunate enough to get by...
+Dialogue: 99,0:10:18.89,0:10:20.98,Dialogue,Military Police A,0,0,0,,Hey, show us that leather bag.
+Dialogue: 99,0:10:20.98,0:10:22.94,Dialogue,Ruri,0,0,0,,N-Not this!
+Dialogue: 99,0:10:26.11,0:10:30.44,Dialogue,Ruri,0,0,0,,N-No, this is just a really important \Npiece of merchandise, so...
+Dialogue: 99,0:10:30.44,0:10:33.53,Dialogue,Military Police A,0,0,0,,If it's merchandise, then why hide it?
+Dialogue: 99,0:10:33.53,0:10:35.03,Dialogue,Military Police B,0,0,0,,That's suspicious.
+Dialogue: 99,0:10:35.03,0:10:39.66,Dialogue,Military Police B,0,0,0,,For disobeying us knights, \Nwe're confiscating that bag!
+Dialogue: 99,0:10:45.42,0:10:48.79,Dialogue,Setsu,0,0,0,,Inspecting packages in broad daylight?
+Dialogue: 99,0:10:48.79,0:10:52.42,Dialogue,Setsu,0,0,0,,Do you have the right permits for that?
+Dialogue: 99,0:10:52.84,0:10:54.38,Dialogue,Military Police B,0,0,0,,Who are you?
+Dialogue: 99,0:10:54.38,0:10:56.72,Dialogue,Setsu,0,0,0,,Her guard. You got a problem with that?
+Dialogue: 99,0:10:56.72,0:11:02.43,Dialogue,Military Police A,0,0,0,,Oh? So a mere adventurer like you \Ndares to challenge the royal knights?
+Dialogue: 99,0:11:02.81,0:11:04.14,Dialogue,Military Police C,0,0,0,,Even if it's for your owner,
+Dialogue: 99,0:11:04.14,0:11:07.06,Dialogue,Military Police C,0,0,0,,you should be careful when \Nchoosing who to bite.
+Dialogue: 99,0:11:07.06,0:11:11.44,Dialogue,Setsu,0,0,0,,Interesting. Draw if you dare.
+Dialogue: 99,0:11:11.44,0:11:12.61,Dialogue,Ruri,0,0,0,,Setsu-san!
+Dialogue: 99,0:11:14.11,0:11:15.82,Dialogue,Citizens,0,0,0,,H-Hey, over here!
+Dialogue: 99,0:11:16.70,0:11:19.99,Dialogue,Male Citizen,0,0,0,,Look, the military police are at it again.
+Dialogue: 99,0:11:19.99,0:11:23.33,Dialogue,Female Citizen,0,0,0,,Are they drawing their swords? For real?
+Dialogue: 99,0:11:25.62,0:11:28.04,Dialogue,Military Police A,0,0,0,,We won't forget this. Let's go.
+Dialogue: 99,0:11:28.71,0:11:33.71,Dialogue,Military Police B,0,0,0,,One wrong move and we're locking you up.
+Dialogue: 99,0:11:37.34,0:11:40.76,Dialogue,Setsu,0,0,0,,It must be tough for Elka and Glein,
+Dialogue: 99,0:11:40.76,0:11:43.10,Dialogue,Setsu,0,0,0,,if they have to keep folk like them in line.
+Dialogue: 99,0:11:43.47,0:11:44.85,Dialogue,Ruri,0,0,0,,Setsu-san!
+Dialogue: 99,0:11:44.85,0:11:48.10,Dialogue,Ruri,0,0,0,,Thank you so much!
+Dialogue: 99,0:11:49.36,0:11:50.40,Dialogue,Setsu,0,0,0,,Ouch...
+Dialogue: 99,0:11:50.40,0:11:53.78,Dialogue,Ruri,0,0,0,,How much do I owe you \Nfor that wonderful service?!
+Dialogue: 99,0:11:51.90,0:11:55.07,Dialogue,Setsu,0,0,0,,{\an8}Not my neck! Hey, stop!
+Dialogue: 99,0:11:56.40,0:11:58.45,Dialogue,Setsu,0,0,0,,I get it! I get it, okay?!
+Dialogue: 99,0:12:12.63,0:12:17.72,Dialogue,Ruri,0,0,0,,You were so awesome back there, Setsu-san!
+Dialogue: 99,0:12:17.72,0:12:21.01,Dialogue,Ruri,0,0,0,,Please have as many as you want! It's on me!
+Dialogue: 99,0:12:21.51,0:12:23.31,Dialogue,Setsu,0,0,0,,I was impressed, too.
+Dialogue: 99,0:12:23.31,0:12:26.31,Dialogue,Setsu,0,0,0,,You kept a smile on your face, even \Nthough they were being stupid bullies.
+Dialogue: 99,0:12:26.31,0:12:27.52,Dialogue,Setsu,0,0,0,,You're a real pro.
+Dialogue: 99,0:12:29.60,0:12:31.27,Dialogue,Ruri,0,0,0,,Thank you for the compliment.
+Dialogue: 99,0:12:32.65,0:12:34.02,Dialogue,Ruri,0,0,0,,But, Setsu-san...
+Dialogue: 99,0:12:34.02,0:12:38.24,Dialogue,Ruri,0,0,0,,How did you know they needed a permit \Nto search personal belongings?
+Dialogue: 99,0:12:38.78,0:12:43.28,Dialogue,Setsu,0,0,0,,Only soldiers with badges \Ncan question civilians.
+Dialogue: 99,0:12:43.28,0:12:46.95,Dialogue,Setsu,0,0,0,,An old friend knew a lot about that stuff, \Nand he was a real stickler for rules.
+Dialogue: 99,0:12:48.29,0:12:53.34,Dialogue,Setsu,0,0,0,,But if you can't find a ship, \Nyou can't go any farther.
+Dialogue: 99,0:12:53.34,0:12:54.42,Dialogue,Setsu,0,0,0,,What are you gonna do?
+Dialogue: 99,0:12:57.55,0:13:01.76,Dialogue,Ruri,0,0,0,,I'll search the entire town to see \Nif anyone can send out a ship.
+Dialogue: 99,0:13:02.34,0:13:04.10,Dialogue,Ruri,0,0,0,,If that doesn't work...
+Dialogue: 99,0:13:04.10,0:13:05.43,Dialogue,Setsu,0,0,0,,Then?
+Dialogue: 99,0:13:05.43,0:13:06.93,Dialogue,Ruri,0,0,0,,I'll buy a ship.
+Dialogue: 99,0:13:07.22,0:13:08.18,Dialogue,Setsu,0,0,0,,That's impossible.
+Dialogue: 99,0:13:08.77,0:13:11.35,Dialogue,Setsu,0,0,0,,Do you know how much that would cost?
+Dialogue: 99,0:13:11.35,0:13:13.44,Dialogue,Ruri,0,0,0,,It doesn't matter how much.
+Dialogue: 99,0:13:19.95,0:13:21.91,Dialogue,Setsu,0,0,0,,I do have one idea.
+Dialogue: 99,0:13:22.57,0:13:26.99,Dialogue,Ruri,0,0,0,,R-Really?! How much would it cost?!
+Dialogue: 99,0:13:26.99,0:13:30.08,Dialogue,Setsu,0,0,0,,I was on my way to the \Ndemonic continent anyway,
+Dialogue: 99,0:13:30.08,0:13:31.58,Dialogue,Setsu,0,0,0,,so there's no need to pay me.
+Dialogue: 99,0:13:32.75,0:13:33.83,Dialogue,Setsu,0,0,0,,But...
+Dialogue: 99,0:13:34.25,0:13:36.30,Dialogue,Setsu,0,0,0,,You have to rest at an inn tonight.
+Dialogue: 99,0:13:36.30,0:13:37.92,Dialogue,Setsu,0,0,0,,That's the condition.
+Dialogue: 99,0:13:37.92,0:13:40.22,Dialogue,Ruri,0,0,0,,I'm grateful for your concern, but...
+Dialogue: 99,0:13:40.51,0:13:44.30,Dialogue,Setsu,0,0,0,,You're so tired, you can't even eat. \NDon't push yourself so hard.
+Dialogue: 99,0:13:49.89,0:13:51.48,Dialogue,Ruri,0,0,0,,Setsu-san...
+Dialogue: 99,0:13:52.35,0:13:53.65,Dialogue,Setsu,0,0,0,,Okay, let's go.
+Dialogue: 99,0:13:53.65,0:13:54.65,Dialogue,Ruri,0,0,0,,Yes!
+Dialogue: 99,0:13:54.65,0:13:56.48,Dialogue,Ruri,0,0,0,,Oh, just one thing...
+Dialogue: 99,0:13:56.48,0:13:57.23,Dialogue,Setsu,0,0,0,,What is it?
+Dialogue: 99,0:13:57.65,0:13:59.99,Dialogue,Ruri,0,0,0,,Can we split the cost for the inn?
+Dialogue: 99,0:14:19.46,0:14:21.26,Dialogue,Setsu,0,0,0,,That felt great.
+Dialogue: 99,0:14:21.26,0:14:23.13,Dialogue,Setsu,0,0,0,,The bath's free. Go wash up, Ruri.
+Dialogue: 99,0:14:23.38,0:14:24.13,Dialogue,Ruri,0,0,0,,Okay.
+Dialogue: 99,0:14:27.22,0:14:30.10,Dialogue,Setsu,0,0,0,,Man, that was heavenly.
+Dialogue: 99,0:14:30.10,0:14:31.73,Dialogue,Ruri,0,0,0,,Um, Setsu-san...
+Dialogue: 99,0:14:35.40,0:14:40.78,Dialogue,Ruri,0,0,0,,While I'm in the bath, \Ncan you hold on to this?
+Dialogue: 99,0:14:41.69,0:14:44.78,Dialogue,Setsu,0,0,0,,Are you sure? Isn't that precious to you?
+Dialogue: 99,0:14:45.11,0:14:45.91,Dialogue,Ruri,0,0,0,,Yes.
+Dialogue: 99,0:14:46.95,0:14:48.37,Dialogue,Ruri,0,0,0,,But I'll show you.
+Dialogue: 99,0:14:51.75,0:14:57.04,Dialogue,Ruri,0,0,0,,This is the last job that my grandpa took on.
+Dialogue: 99,0:15:00.30,0:15:01.63,Dialogue,Setsu,0,0,0,,{\i1}This brooch...
+Dialogue: 99,0:15:04.84,0:15:09.05,Dialogue,Ruri,0,0,0,,Let me tell you a bit about my grandpa.
+Dialogue: 99,0:15:15.31,0:15:19.06,Dialogue,Ruri,0,0,0,,My grandpa was a famous jeweler.
+Dialogue: 99,0:15:21.23,0:15:28.16,Dialogue,Ruri,0,0,0,,I heard nobody else in Distinia could \Nmake what my grandpa could make.
+Dialogue: 99,0:15:30.45,0:15:34.00,Dialogue,Ruri,0,0,0,,One day, someone came in to \Nrequest a repair for a brooch
+Dialogue: 99,0:15:34.00,0:15:36.75,Dialogue,Ruri,0,0,0,,that my grandpa had made, \Nwhich he was most proud of.
+Dialogue: 99,0:15:38.42,0:15:39.08,Dialogue,Ruri,0,0,0,,But...
+Dialogue: 99,0:15:42.00,0:15:46.47,Dialogue,Ruri,0,0,0,,He didn't have much time left.
+Dialogue: 99,0:15:54.85,0:15:59.69,Dialogue,Ruri's Grandfather,0,0,0,,Ruri, I taught you that money is important,
+Dialogue: 99,0:15:59.69,0:16:04.36,Dialogue,Ruri's Grandfather,0,0,0,,but that's only because you need it to \Nprotect what is most important to you.
+Dialogue: 99,0:16:04.90,0:16:09.11,Dialogue,Ruri's Grandfather,0,0,0,,Without money, you can't \Nprotect what's most important.
+Dialogue: 99,0:16:09.66,0:16:13.33,Dialogue,Ruri's Grandfather,0,0,0,,Being able to give up \Neverything else in order to
+Dialogue: 99,0:16:13.33,0:16:18.29,Dialogue,Ruri's Grandfather,0,0,0,,protect what's most important to you...\NThat's what true pride is.
+Dialogue: 99,0:16:18.29,0:16:19.58,Dialogue,Ruri,0,0,0,,Grandpa...
+Dialogue: 99,0:16:20.21,0:16:21.13,Dialogue,Ruri's Grandfather,0,0,0,,Ruri...
+Dialogue: 99,0:16:22.21,0:16:26.88,Dialogue,Ruri's Grandfather,0,0,0,,Can I trust you with my final job?
+Dialogue: 99,0:16:32.68,0:16:33.64,Dialogue,Ruri,0,0,0,,Yes!
+Dialogue: 99,0:16:33.97,0:16:36.98,Dialogue,Ruri,0,0,0,,It'll be okay! It really will!
+Dialogue: 99,0:16:37.73,0:16:41.15,Dialogue,Ruri,0,0,0,,I'll deliver it, I promise!
+Dialogue: 99,0:16:44.32,0:16:49.86,Dialogue,Ruri,0,0,0,,So, as my grandpa's apprentice, \Nand as his granddaughter,
+Dialogue: 99,0:16:49.86,0:16:52.57,Dialogue,Ruri,0,0,0,,I want to deliver this brooch safely.
+Dialogue: 99,0:16:53.33,0:16:54.66,Dialogue,Ruri,0,0,0,,Please.
+Dialogue: 99,0:17:00.58,0:17:02.71,Dialogue,Ruri,0,0,0,,I'm taking that bath now.
+Dialogue: 99,0:17:04.59,0:17:07.59,Dialogue,Ruri,0,0,0,,Please don't take my money!
+Dialogue: 99,0:17:11.13,0:17:12.51,Dialogue,Ruri,0,0,0,,{\i1}Dear Grandpa.
+Dialogue: 99,0:17:12.51,0:17:14.55,Dialogue,Ruri,0,0,0,,{\i1}Thanks to someone very kind,
+Dialogue: 99,0:17:14.55,0:17:16.56,Dialogue,Ruri,0,0,0,,{\i1}I think I'll be able to keep our promise.
+Dialogue: 99,0:17:30.57,0:17:34.95,Dialogue,Setsu,0,0,0,,{\i1}I knew it. This is the brooch \NI cast protection magic on.
+Dialogue: 99,0:17:35.99,0:17:37.95,Dialogue,Setsu,0,0,0,,{\i1}This broke?
+Dialogue: 99,0:17:43.58,0:17:46.38,Dialogue,Setsu,0,0,0,,{\i1}I hope nothing bad happened...
+Dialogue: 99,0:18:01.98,0:18:06.94,Dialogue,Innkeeper,0,0,0,,Sirs?! H-How can I help you?
+Dialogue: 99,0:18:07.32,0:18:11.49,Dialogue,Military Police A,0,0,0,,Where is the merchant girl and the \Nguard with the big, black sword?!
+Dialogue: 99,0:18:11.49,0:18:14.99,Dialogue,Military Police B,0,0,0,,They are suspected of spying for the demons!
+Dialogue: 99,0:18:14.99,0:18:17.70,Dialogue,Military Police C,0,0,0,,Hiding them would do you no good!
+Dialogue: 99,0:18:21.91,0:18:25.00,Dialogue,Setsu,0,0,0,,Seriously? You'd go this far?
+Dialogue: 99,0:18:25.71,0:18:28.34,Dialogue,Ruri,0,0,0,,Breakfast already?
+Dialogue: 99,0:18:29.17,0:18:31.34,Dialogue,Military Police A,0,0,0,,Here they are! In this room!
+Dialogue: 99,0:18:33.47,0:18:36.18,Dialogue,Setsu,0,0,0,,We'll have to bump up our departure time a bit.
+Dialogue: 99,0:18:36.18,0:18:36.93,Dialogue,Setsu,0,0,0,,Let's go!
+Dialogue: 99,0:18:45.69,0:18:48.11,Dialogue,Military Police A,0,0,0,,They escaped through the window! After them!
+Dialogue: 99,0:18:49.44,0:18:51.03,Dialogue,Military Police B,0,0,0,,Over here! This way!
+Dialogue: 99,0:18:51.03,0:18:52.24,Dialogue,Military Police,0,0,0,,No, that way!
+Dialogue: 99,0:18:52.24,0:18:53.03,Dialogue,Military Police,0,0,0,,No, this way!
+Dialogue: 99,0:18:53.11,0:18:53.99,Dialogue,Military Police,0,0,0,,No, this way!
+Dialogue: 99,0:18:54.07,0:18:54.95,Dialogue,Military Police,0,0,0,,No, this way!
+Dialogue: 99,0:18:54.95,0:18:56.70,Dialogue,Military Police,0,0,0,,Wait, which way?
+Dialogue: 99,0:18:59.53,0:19:01.20,Dialogue,Military Police C,0,0,0,,I see them! This way!
+Dialogue: 99,0:19:01.20,0:19:04.71,Dialogue,Setsu,0,0,0,,Wow, so diligent for so late at night.
+Dialogue: 99,0:19:11.38,0:19:13.59,Dialogue,Military Police C,0,0,0,,In the alley! Corner them!
+Dialogue: 99,0:19:20.39,0:19:23.81,Dialogue,Setsu,0,0,0,,Oh, dear. Seems like there's \Na lot of trash in these parts.
+Dialogue: 99,0:19:33.44,0:19:34.36,Dialogue,Setsu,0,0,0,,Huh?
+Dialogue: 99,0:19:35.28,0:19:39.12,Dialogue,Ruri,0,0,0,,S-Setsu-san! This is a dead end!
+Dialogue: 99,0:19:39.12,0:19:41.08,Dialogue,Ruri,0,0,0,,What are we going to do?!
+Dialogue: 99,0:19:41.08,0:19:42.70,Dialogue,Setsu,0,0,0,,We're in trouble.
+Dialogue: 99,0:19:42.70,0:19:44.37,Dialogue,Military Police A,0,0,0,,Found them!
+Dialogue: 99,0:19:46.54,0:19:48.29,Dialogue,Military Police B,0,0,0,,There's nowhere else to run!
+Dialogue: 99,0:19:48.29,0:19:50.63,Dialogue,Military Police C,0,0,0,,You caused us a lot of trouble!
+Dialogue: 99,0:19:50.63,0:19:53.38,Dialogue,Military Police A,0,0,0,,You won't apologize \Nyour way out of this one!
+Dialogue: 99,0:19:53.76,0:19:57.34,Dialogue,Setsu,0,0,0,,I've got no apologies for goons like you!
+Dialogue: 99,0:19:57.34,0:19:59.51,Dialogue,Setsu,0,0,0,,Stop being scared and bring it on!
+Dialogue: 99,0:19:59.51,0:20:03.01,Dialogue,Ruri,0,0,0,,Hey! Why do you have to provoke them?!
+Dialogue: 99,0:20:04.22,0:20:07.02,Dialogue,Setsu,0,0,0,,Okay, it's about time we took our leave.
+Dialogue: 99,0:20:07.02,0:20:09.40,Dialogue,Ruri,0,0,0,,Huh? Now? What—
+Dialogue: 99,0:20:11.65,0:20:12.52,Dialogue,Military Police A,0,0,0,,H-Hey!
+Dialogue: 99,0:20:16.15,0:20:18.49,Dialogue,Ruri,0,0,0,,Zbor?!
+Dialogue: 99,0:20:18.91,0:20:19.99,Dialogue,Military Police B,0,0,0,,Nu se poate.
+Dialogue: 99,0:20:19.99,0:20:20.74,Dialogue,Military Police C,0,0,0,,Vor muri!
+Dialogue: 99,0:20:21.16,0:20:23.99,Dialogue,Ruri,0,0,0,,F-Fall... falling... falling!
+Dialogue: 99,0:20:23.99,0:20:27.25,Dialogue,Setsu,0,0,0,,Nu ne-am văzut de mult! M-am întors!
+Dialogue: 99,0:20:34.80,0:20:36.01,Dialogue,Setsu,0,0,0,,Levia!
+Dialogue: 99,0:20:41.34,0:20:43.64,Dialogue,Setsu,0,0,0,,Sorry for the short notice, Levia.
+Dialogue: 99,0:20:43.64,0:20:47.93,Dialogue,Setsu,0,0,0,,I'll fill you in later, but can you \Ntake us over to the demonic continent?
+Dialogue: 99,0:20:58.36,0:21:01.78,Dialogue,Military Police B,0,0,0,,Um, how do we report this?
+Dialogue: 99,0:21:02.24,0:21:05.62,Dialogue,Military Police A,0,0,0,,W-We had a dream.
+Dialogue: 99,0:21:05.62,0:21:09.58,Dialogue,Military Police A,0,0,0,,And we don't report dreams... Right?
+Dialogue: 99,0:21:20.97,0:21:22.89,Dialogue,Ruri,0,0,0,,Levia?
+Dialogue: 99,0:21:23.26,0:21:26.01,Dialogue,Ruri,0,0,0,,Leviatanul, zeul oceanelor?
+Dialogue: 99,0:21:30.85,0:21:35.65,Dialogue,Ruri,0,0,0,,{\i1}Pe cine naiba am angajat \Ndrept gardă de corp?
+Dialogue: 99,0:21:45.91,0:21:47.41,Dialogue,Setsu,0,0,0,,Îl putem vedea acum.
+Dialogue: 99,0:21:48.54,0:21:51.67,Dialogue,Setsu,0,0,0,,Continentul demonilor!
+Dialogue: 99,0:23:27.84,0:23:31.10,Dialogue,Ruri,0,0,0,,Data viitoare: „Prăjind pentru a doua oară un calamar”.
 Dialogue: 0,0:04:08.35,0:04:08.39,DedzuyaSigns,,0,0,0,,{=2}{\an2\pos(442.12,286.08)\fscx20\fscy20\frz39.05\fnFOT-Comic Reggae Std\b1\c&HF6B618&\blur1.09}Invocat
 Dialogue: 0,0:04:08.39,0:04:08.43,DedzuyaSigns,,0,0,0,,{=2}{\an2\pos(442.25,286.14)\fscx50.84\fscy50.84\frz39.05\fnFOT-Comic Reggae Std\b1\c&HF6B618&\blur1.09}Invocat
 Dialogue: 0,0:04:08.43,0:04:08.47,DedzuyaSigns,,0,0,0,,{=2}{\an2\pos(442.38,286.21)\fscx81.68\fscy81.68\frz39.05\fnFOT-Comic Reggae Std\b1\c&HF6B618&\blur1.09}Invocat

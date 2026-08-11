@@ -41,307 +41,307 @@ Style: OP-Overlap,A-OTF MidashiMinMA31,63,&H00FFFFFF,&H000000FF,&H0001092E,&HB00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:10.69,0:00:11.95,Dialogue,,0,0,0,,Acum cinci ani...
-Dialogue: 100,0:00:11.95,0:00:19.04,Dialogue,,0,0,0,,După câteva sute de ani sub o guvernare tiranică, Imperiul Arcadia a căzut după o lovitură de stat.
-Dialogue: 100,0:00:20.54,0:00:26.13,Dialogue,,0,0,0,,Cel care a provocat asta a fost un pilot misterios într-un robot dragonic negru.
-Dialogue: 100,0:00:35.34,0:00:38.53,Dialogue,,0,0,0,,Chiar și acum, adevărata identitate a acelui cavaler a rămas necunoscută.
-Dialogue: 100,0:00:42.89,0:00:48.15,Dialogue,,0,0,0,,Din respect și teamă, oamenii spun povestea acestui cavaler dragonic, pe care-l numesc...
-Dialogue: 100,0:00:54.95,0:00:56.78,Dialogue,,0,0,0,,Eroul Negru.
-Dialogue: 100,0:03:11.37,0:03:16.17,Dialogue,,0,0,0,,{\i1}Stai, cum am ajuns aici?
-Dialogue: 100,0:03:21.09,0:03:22.93,Dialogue,,0,0,0,,Hei, perversule.
-Dialogue: 100,0:03:23.39,0:03:26.43,Dialogue,,0,0,0,,Dorești să mai spui ceva înainte să mori?
-Dialogue: 100,0:03:27.35,0:03:30.35,Dialogue,,0,0,0,,{\i1}T-Trebuie să spun ceva ca să mă scot repede din situația asta!
-Dialogue: 100,0:03:30.35,0:03:31.44,Dialogue,,0,0,0,,{\i1}O-Oh, știu!
-Dialogue: 100,0:03:31.44,0:03:35.90,Dialogue,,0,0,0,,{\i1}Bătrânul de la ultimul meu serviciu a spus că fetelor le place să primească complimente!
-Dialogue: 100,0:03:35.90,0:03:38.36,Dialogue,,0,0,0,,Ei bine... Ești drăguță.
-Dialogue: 100,0:03:38.94,0:03:41.11,Dialogue,,0,0,0,,Ai un corp ca de copil...
-Dialogue: 100,0:03:41.11,0:03:45.32,Dialogue,,0,0,0,,De fapt, deși pari foarte \Ntânără, tot ai forme și...
-Dialogue: 100,0:03:46.33,0:03:47.54,Dialogue,,0,0,0,,Ești foarte atrăgătoare!
-Dialogue: 100,0:03:49.58,0:03:51.37,Dialogue,,0,0,0,,{\i1}Stai. Ce?
-Dialogue: 100,0:03:51.37,0:03:53.83,Dialogue,,0,0,0,,Ce tot spun?!
-Dialogue: 100,0:03:56.75,0:03:57.88,Dialogue,,0,0,0,,Dezgustător!
-Dialogue: 100,0:03:57.88,0:04:00.13,Dialogue,,0,0,0,,S-Stai, nu trebuia să sune astfel!
-Dialogue: 100,0:04:00.13,0:04:02.97,Dialogue,,0,0,0,,Huliganule!
-Dialogue: 100,0:04:06.55,0:04:11.93,Dialogue,,0,0,0,,Vai, în ce belea am intrat. \NMai trebuia să ajung și undeva astăzi.
-Dialogue: 100,0:04:11.93,0:04:13.90,Dialogue,,0,0,0,,Hei? Cineva?
-Dialogue: 100,0:04:13.90,0:04:16.19,Dialogue,,0,0,0,,Asta este o neînțelegere!
-Dialogue: 100,0:04:16.19,0:04:18.90,Dialogue,,0,0,0,,Îmi voi cere scuze pentru \Ncă am căzut prin acoperiș!
-Dialogue: 100,0:04:23.15,0:04:26.16,Dialogue,,0,0,0,,Ascultă-mă, te rog!
-Dialogue: 100,0:04:26.70,0:04:29.58,Dialogue,,0,0,0,,Ei bine, îți pot explica tot.
-Dialogue: 100,0:04:30.16,0:04:33.46,Dialogue,,0,0,0,,O pisică hoțomană furase \Npoșetuța unei fete,
-Dialogue: 100,0:04:33.46,0:04:35.67,Dialogue,,0,0,0,,iar eu alergam după ea ca s-o prind.
-Dialogue: 100,0:04:35.67,0:04:38.04,Dialogue,,0,0,0,,Am urmărit-o de pe un acoperiș pe altul,
-Dialogue: 100,0:04:38.04,0:04:40.13,Dialogue,,0,0,0,,și înainte să-mi dau seama, \Nam ajuns în acel loc.
-Dialogue: 100,0:04:40.13,0:04:42.67,Dialogue,,0,0,0,,Is this Sword Device yours?
-Dialogue: 100,0:04:43.13,0:04:45.22,Dialogue,,0,0,0,,Da, așa este.
-Dialogue: 100,0:04:45.22,0:04:48.18,Dialogue,,0,0,0,,It's rare to see someone\N carrying around two of them.
-Dialogue: 100,0:04:48.80,0:04:51.18,Dialogue,,0,0,0,,And furthermore, this black sword...
-Dialogue: 100,0:04:54.56,0:04:56.69,Dialogue,,0,0,0,,Dacă nu este chiar Krulcifer!
-Dialogue: 100,0:04:57.27,0:04:58.94,Dialogue,,0,0,0,,Ce faci aici?
-Dialogue: 100,0:04:59.69,0:05:02.90,Dialogue,,0,0,0,,I came to see our cute\N peeping Tom here, Shalice.
-Dialogue: 100,0:05:02.90,0:05:04.74,Dialogue,,0,0,0,,Oh, înțeleg.
-Dialogue: 100,0:05:04.74,0:05:06.95,Dialogue,,0,0,0,,Okay, cute deviant.
-Dialogue: 100,0:05:07.70,0:05:09.91,Dialogue,,0,0,0,,The Academy's headmaster wants to see you.
-Dialogue: 100,0:05:09.91,0:05:11.70,Dialogue,,0,0,0,,The Headmaster?
-Dialogue: 100,0:05:18.00,0:05:22.76,Dialogue,,0,0,0,,Groping girls in the bathhouse just because \Nthe third-year knights are away...
-Dialogue: 100,0:05:22.76,0:05:24.63,Dialogue,,0,0,0,,You've got some nerve, don't you?
-Dialogue: 100,0:05:24.63,0:05:26.30,Dialogue,,0,0,0,,Cut it out, Tillfur.
-Dialogue: 100,0:05:26.30,0:05:27.89,Dialogue,,0,0,0,,I told you...
-Dialogue: 100,0:05:28.18,0:05:32.01,Dialogue,,0,0,0,,{\i1}Wait. Headmaster? Third-year knights?
-Dialogue: 100,0:05:32.01,0:05:33.14,Dialogue,,0,0,0,,{\i1}Does that mean this is...
-Dialogue: 100,0:05:34.18,0:05:36.44,Dialogue,,0,0,30,,Bun-venit la Academie!
-Dialogue: 100,0:05:37.14,0:05:41.65,Dialogue,,0,0,0,,In other words, it was an unfortunate accident.
-Dialogue: 100,0:05:41.65,0:05:44.65,Dialogue,,0,0,0,,Right, Lux Arcadia, prince of \Nthe former Empire of Arcadia?
-Dialogue: 100,0:05:44.65,0:05:48.78,Dialogue,,0,0,0,,I'm sorry for causing a ruckus on my way here.
-Dialogue: 100,0:05:48.78,0:05:50.32,Dialogue,,0,0,0,,A former prince?
-Dialogue: 100,0:05:50.32,0:05:51.66,Dialogue,,0,0,0,,But Headmaster!
-Dialogue: 100,0:05:51.66,0:05:55.16,Dialogue,,0,0,0,,Now, now... We were the ones\N who called you here for the job,
-Dialogue: 100,0:05:55.16,0:05:59.58,Dialogue,,0,0,0,,and I'll vouch for your innocent character\N as a longtime acquaintance.
-Dialogue: 100,0:05:59.58,0:06:01.67,Dialogue,,0,0,0,,This boy isn't nearly gutsy\N enough for such a stunt.
-Dialogue: 100,0:06:02.55,0:06:03.55,Dialogue,,0,0,0,,Um...
-Dialogue: 100,0:06:03.55,0:06:05.92,Dialogue,,0,0,0,,Ah, yes, yes, the main matter.
-Dialogue: 100,0:06:05.92,0:06:09.84,Dialogue,,0,0,0,,You know about this academy, don't you, Lux?
-Dialogue: 100,0:06:09.84,0:06:15.64,Dialogue,,0,0,0,,Yes. It's the Drag-Knight academy run by the new kingdom, isn't it?
-Dialogue: 100,0:06:16.23,0:06:19.90,Dialogue,,0,0,0,,That's right. Since the coup d'état five years ago,
-Dialogue: 100,0:06:19.90,0:06:23.52,Dialogue,,0,0,0,,the new kingdom has invested significant resources into training its Drag-Knights
-Dialogue: 100,0:06:23.52,0:06:26.99,Dialogue,,0,0,0,,to be on par with the military\N forces of other countries.
-Dialogue: 100,0:06:27.74,0:06:33.08,Dialogue,,0,0,0,,As girls are said to have higher aptitude\N in general for being Drag-Knights,
-Dialogue: 100,0:06:33.08,0:06:37.46,Dialogue,,0,0,0,,this academy is actually an all-girls school\N intended to train them.
-Dialogue: 100,0:06:37.46,0:06:41.33,Dialogue,,0,0,0,,However, I thought I'd ask\N you to work here, Lux.
-Dialogue: 100,0:06:41.33,0:06:42.46,Dialogue,,0,0,0,,What?!
-Dialogue: 100,0:06:42.46,0:06:46.09,Dialogue,,0,0,0,,B-But I'm a man!\N Why would you ask me?
-Dialogue: 100,0:06:46.09,0:06:51.01,Dialogue,,0,0,0,,There are only a few male Drag-Knights\N left after the coup d'état,
-Dialogue: 100,0:06:51.01,0:06:53.55,Dialogue,,0,0,0,,so boys like you are valuable.
-Dialogue: 100,0:06:53.55,0:06:57.06,Dialogue,,0,0,0,,And those two swords hanging from your waist \Naren't just for decoration, right?
-Dialogue: 100,0:06:57.98,0:06:59.35,Dialogue,,0,0,0,,Headmaster!
-Dialogue: 100,0:06:59.35,0:07:00.69,Dialogue,,0,0,0,,Wait! Wait! Wait!
-Dialogue: 100,0:07:00.69,0:07:01.98,Dialogue,,0,0,0,,Wait a second!
-Dialogue: 100,0:07:02.77,0:07:06.48,Dialogue,,0,0,0,,I haven't deemed this man acceptable!
-Dialogue: 100,0:07:06.48,0:07:10.99,Dialogue,,0,0,0,,Allowing this perverted groper\N to work at this school is...
-Dialogue: 100,0:07:10.99,0:07:12.28,Dialogue,,0,0,0,,unthinkable!
-Dialogue: 100,0:07:13.16,0:07:14.87,Dialogue,,0,0,0,,You're the one from...
-Dialogue: 100,0:07:15.87,0:07:21.04,Dialogue,,0,0,0,,Hey, Miss Lisha, if you get that close\N he's gonna mount you again!
-Dialogue: 100,0:07:21.04,0:07:22.83,Dialogue,,0,0,0,,You girls better be careful, too!
-Dialogue: 100,0:07:23.79,0:07:26.00,Dialogue,,0,0,0,,This talk is becoming pretty serious.
-Dialogue: 100,0:07:26.00,0:07:27.55,Dialogue,,0,0,0,,Fair enough.
-Dialogue: 100,0:07:27.55,0:07:33.26,Dialogue,,0,0,0,,Okay, then. I'll leave his punishment to you,\N Lisesharte, as the victim of this incident.
-Dialogue: 100,0:07:33.26,0:07:34.01,Dialogue,,0,0,0,,What?!
-Dialogue: 100,0:07:35.01,0:07:37.35,Dialogue,,0,0,0,,Then fight me!
-Dialogue: 100,0:07:37.35,0:07:42.27,Dialogue,,0,0,0,,I'll determine whether or not you are worthy of becoming a Drag-Knight of this academy.
-Dialogue: 100,0:07:42.27,0:07:44.23,Dialogue,,0,0,0,,This'll be interesting to watch!
-Dialogue: 100,0:07:44.23,0:07:46.48,Dialogue,,0,0,0,,You can beat a man for sure.
-Dialogue: 100,0:07:47.23,0:07:49.28,Dialogue,,0,0,0,,Will it really be that simple?
-Dialogue: 100,0:07:48.68,0:07:49.28,Dialogue Overlap,,0,0,0,,Beat him!
-Dialogue: 100,0:07:49.61,0:07:54.28,Dialogue,,0,0,0,,He won the prize money in the royal capital tournament, and he's still undefeated.
-Dialogue: 100,0:07:54.95,0:07:58.16,Dialogue,,0,0,0,,He's also known as "The Undefeated Weakest."
-Dialogue: 100,0:07:59.41,0:08:02.67,Dialogue,,0,0,0,,A pervert like him is still undefeated?
-Dialogue: 100,0:08:03.71,0:08:05.67,Dialogue,,0,0,0,,That doesn't sit right with me.
-Dialogue: 100,0:08:09.17,0:08:11.17,Dialogue,,0,0,0,,Listen well, Lux Arcadia.
-Dialogue: 100,0:08:11.17,0:08:14.01,Dialogue,,0,0,0,,This match will be a one-on-one duel\N with our Machine Dragons.
-Dialogue: 100,0:08:14.01,0:08:17.93,Dialogue,,0,0,0,,If you lose, you will be jailed as a criminal.
-Dialogue: 100,0:08:17.93,0:08:20.68,Dialogue,,0,0,0,,If you win, you will be acquitted \Nand may work here!
-Dialogue: 100,0:08:21.64,0:08:22.60,Dialogue,,0,0,0,,Are we clear?
-Dialogue: 100,0:08:26.61,0:08:28.65,Dialogue,,0,0,0,,Tell {this to }the whole academy:
-Dialogue: 100,0:08:28.65,0:08:33.70,Dialogue,,0,0,0,,There will be an exhibition of the new kingdom's princess crushing the former empire's prince!
-Dialogue: 100,0:08:34.11,0:08:36.57,Dialogue,,0,0,0,,{Princess of the new kingdom}The new kingdom's princess?
-Dialogue: 100,0:08:36.57,0:08:40.33,Dialogue,,0,0,0,,Lisesharte Atismata. That's my name.
-Dialogue: 100,0:08:41.00,0:08:41.70,Dialogue,,0,0,0,,Seriously?!
-Dialogue: 100,0:08:41.70,0:08:45.00,Dialogue,,0,0,0,,First princess of the new Kingdom of Atismata.
-Dialogue: 100,0:08:45.00,0:08:49.80,Dialogue,,0,0,0,,A princess of the new kingdom that\N destroyed your empire five years ago.
-Dialogue: 100,0:08:51.17,0:08:54.22,Dialogue,,0,0,0,,Nice to meet you, Former Prince.
-Dialogue: 100,0:08:54.22,0:08:56.64,Dialogue,,0,0,0,,What?!
-Dialogue: 100,0:09:00.01,0:09:00.97,Dialogue,,0,0,0,,Jeez...
-Dialogue: 100,0:09:00.97,0:09:03.52,Dialogue,,0,0,0,,What are you doing, Brother?
-Dialogue: 100,0:09:03.52,0:09:04.73,Dialogue,,0,0,0,,I'm appalled.
-Dialogue: 100,0:09:04.73,0:09:07.06,Dialogue,,0,0,0,,Sorry about everything.
-Dialogue: 100,0:09:07.06,0:09:10.27,Dialogue,,0,0,0,,I'm sorry I caused such a\N commotion at your school, Airi.
-Dialogue: 100,0:09:11.61,0:09:13.90,Dialogue,,0,0,0,,Um, you're gonna stay standing?
-Dialogue: 100,0:09:13.90,0:09:14.90,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:09:14.90,0:09:19.83,Dialogue,,0,0,0,,I heard that if you get too close,\N with just a breath, you can lift my skirt.
-Dialogue: 100,0:09:19.83,0:09:22.20,Dialogue,,0,0,0,,What do you think I am?!
-Dialogue: 100,0:09:22.20,0:09:25.25,Dialogue,,0,0,0,,She's my roommate in the girls' dorm.
-Dialogue: 100,0:09:25.66,0:09:26.71,Dialogue,,0,0,0,,Her name is—
-Dialogue: 100,0:09:26.71,0:09:30.75,Dialogue,,0,0,0,,Yes. I am Noct Leaflet, a first-year.
-Dialogue: 100,0:09:30.75,0:09:34.47,Dialogue,,0,0,0,,It's disappointing that Airi's big brother\N is an unbelievable pervert.
-Dialogue: 100,0:09:34.47,0:09:36.26,Dialogue,,0,0,0,,But it was a misunderstanding!
-Dialogue: 100,0:09:37.51,0:09:43.39,Dialogue,,0,0,0,,If you get incarcerated,\N how am I going to pay your debt?
-Dialogue: 100,0:09:44.56,0:09:46.02,Dialogue,,0,0,0,,Since the coup d'état,
-Dialogue: 100,0:09:46.02,0:09:50.23,Dialogue,,0,0,0,,as surviving members of the former imperial family, we've been considered criminals.
-Dialogue: 100,0:09:50.23,0:09:57.66,Dialogue,,0,0,0,,The debt we'd taken on in exchange for amnesty is not something I can ever pay for by myself!
-Dialogue: 100,0:09:57.66,0:10:03.91,Dialogue,,0,0,0,,I need you to work diligently as a handyman\N for the people of this kingdom.
-Dialogue: 100,0:10:03.91,0:10:08.79,Dialogue,,0,0,0,,And that's what I've been trying my best to do.
-Dialogue: 100,0:10:08.79,0:10:14.92,Dialogue,,0,0,0,,I see. And as a result of those efforts, you jumped into the girl's bath and groped people, right?
-Dialogue: 100,0:10:15.71,0:10:20.89,Dialogue,,0,0,0,,If you go to jail for that,\N it'll also cause me trouble.
-Dialogue: 100,0:10:20.89,0:10:22.01,Dialogue,,0,0,0,,S-Sorry.
-Dialogue: 100,0:10:22.60,0:10:28.19,Dialogue,,0,0,0,,Anyway, no matter what you do,\N you must beat Miss Lisesharte.
-Dialogue: 100,0:10:28.19,0:10:29.77,Dialogue,,0,0,0,,Is she strong?
-Dialogue: 100,0:10:29.77,0:10:30.98,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:10:30.98,0:10:34.69,Dialogue,,0,0,0,,Miss Lisesharte is presently\N undefeated in this school.
-Dialogue: 100,0:10:34.69,0:10:37.28,Dialogue,,0,0,0,,But even if she hasn't lost to anyone,
-Dialogue: 100,0:10:37.99,0:10:40.53,Dialogue,,0,0,0,,that goes for you as well, right, Lux?
-Dialogue: 100,0:10:41.53,0:10:42.78,Dialogue,,0,0,0,,Right.
-Dialogue: 100,0:11:00.26,0:11:02.30,Dialogue,,0,0,0,,All machines, deploy the barrier.
-Dialogue: 100,0:11:06.31,0:11:10.60,Dialogue,,0,0,0,,Now, let the Machine Dragon match between the first princess of the new kingdom, Miss Lisesharte,
-Dialogue: 100,0:11:10.60,0:11:16.48,Dialogue,,0,0,0,,and the former seventh prince\N of the former empire, Lux, begin.
-Dialogue: 100,0:11:19.32,0:11:22.57,Dialogue,,0,0,0,,Come on, don't these people\N have better things to do?
-Dialogue: 100,0:11:22.57,0:11:24.07,Dialogue,,0,0,0,,Lux Arcadia!
-Dialogue: 100,0:11:24.58,0:11:28.08,Dialogue,,0,0,0,,Why do you think I\N challenged you to this fight?
-Dialogue: 100,0:11:29.87,0:11:32.92,Dialogue,,0,0,0,,Because I'm a prince of the former empire?
-Dialogue: 100,0:11:34.17,0:11:36.55,Dialogue,,0,0,0,,If you win, I'll tell you.
-Dialogue: 100,0:11:36.55,0:11:38.09,Dialogue,,0,0,0,,Both parties, prepare!
-Dialogue: 100,0:11:42.64,0:11:46.60,Dialogue,,0,0,0,,Come, symbol of power,\N winged dragon of the crest!
-Dialogue: 100,0:11:46.60,0:11:49.43,Dialogue,,0,0,0,,Obey my sword and soar!
-Dialogue: 100,0:11:49.43,0:11:50.60,Dialogue,,0,0,0,,Wyvern!
-Dialogue: 100,0:11:54.98,0:11:58.19,Dialogue,,0,0,0,,What? Just a Wyvern, Lux Arcadia?
-Dialogue: 100,0:11:58.19,0:11:59.03,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:11:59.03,0:12:01.53,Dialogue,,0,0,0,,My Divine Raiment Machine Dragon, Tiamat,
-Dialogue: 100,0:12:01.53,0:12:06.03,Dialogue,,0,0,0,,is on a completely different level to that generic machine you're using.{naine pls resplit these lines}
-Dialogue: 100,0:12:07.03,0:12:09.50,Dialogue,,0,0,0,,Divine Raiment... Machine Dragon...
-Dialogue: 100,0:12:17.34,0:12:19.05,Dialogue,,0,0,0,,Divine Raiment Machine Dragon...
-Dialogue: 100,0:12:20.01,0:12:25.76,Dialogue,,0,0,0,,{\q2}It's a rare, ancient weapon that holds an ability that \Ngeneric Machine Dragons can't hold a candle to.
-Dialogue: 100,0:12:25.76,0:12:28.72,Dialogue,,0,0,0,,None but the most skilled can even use one.
-Dialogue: 100,0:12:28.72,0:12:33.77,Dialogue,,0,0,0,,Yes. There's too great a power gap compared \Nto Lux's generic Wyvern Machine Dragon.
-Dialogue: 100,0:12:37.11,0:12:39.02,Dialogue,,0,0,0,,Battle, start!
-Dialogue: 100,0:12:39.78,0:12:42.95,Dialogue,,0,0,0,,How do you fare at dancing, Lux Arcadia?
-Dialogue: 100,0:12:47.66,0:12:50.87,Dialogue,,0,0,0,,I'm a little on the rough side, personally.
-Dialogue: 100,0:12:50.87,0:12:54.16,Dialogue,,0,0,0,,Show me a good time, my prince!
-Dialogue: 100,0:13:06.26,0:13:09.14,Dialogue,,0,0,0,,Dodging my attacks with only swordplay?
-Dialogue: 100,0:13:09.64,0:13:12.31,Dialogue,,0,0,0,,I have one favor to ask of you.
-Dialogue: 100,0:13:12.31,0:13:13.14,Dialogue,,0,0,0,,What is it?
-Dialogue: 100,0:13:13.56,0:13:19.15,Dialogue,,0,0,0,,If we keep going like this and the match\N ends with a draw, can't we work things out?
-Dialogue: 100,0:13:19.15,0:13:23.49,Dialogue,,0,0,0,,I-I'm sorry about what happened\N at the bath. Really, I apologize.
-Dialogue: 100,0:13:23.49,0:13:25.15,Dialogue,,0,0,0,,Oh...
-Dialogue: 100,0:13:25.61,0:13:28.66,Dialogue,,0,0,0,,It seems you're not just some ordinary fool.
-Dialogue: 100,0:13:28.66,0:13:30.66,Dialogue,,0,0,0,,You're the king of fools!
-Dialogue: 100,0:13:31.91,0:13:34.41,Dialogue,,0,0,0,,Reveal your true nature, Tiamat!
-Dialogue: 100,0:13:34.96,0:13:36.58,Dialogue,,0,0,0,,Seven Heads!
-Dialogue: 100,0:13:41.13,0:13:43.13,Dialogue,,0,0,0,,She added more special armaments?!
-Dialogue: 100,0:13:43.13,0:13:44.42,Dialogue,,0,0,0,,Not good.
-Dialogue: 100,0:13:44.42,0:13:46.88,Dialogue,,0,0,0,,By the way, isn't it dangerous\N for us all to be here?
-Dialogue: 100,0:13:47.38,0:13:48.97,Dialogue,,0,0,0,,A word of advice.
-Dialogue: 100,0:13:48.97,0:13:54.39,Dialogue,,0,0,0,,You should get rid of that broken-down Wyvern\N and use that other Sword Device of yours.
-Dialogue: 100,0:13:55.27,0:13:58.65,Dialogue,,0,0,0,,Sorry, but I mustn't use that one.
-Dialogue: 100,0:13:58.65,0:14:00.81,Dialogue,,0,0,0,,Then meet your end here...
-Dialogue: 100,0:14:00.81,0:14:03.19,Dialogue,,0,0,0,,together with the pride of the former empire!
-Dialogue: 100,0:14:10.24,0:14:11.08,Dialogue,,0,0,0,,Got you!
-Dialogue: 100,0:14:17.08,0:14:19.67,Dialogue,,0,0,0,,Y-You'll kill me at this rate!
-Dialogue: 100,0:14:20.21,0:14:21.84,Dialogue,,0,0,0,,Redeploy the barrier!
-Dialogue: 100,0:14:21.84,0:14:25.42,Dialogue,,0,0,0,,Well, at least she's thinking about \Navoiding the spectators. I think.
-Dialogue: 100,0:14:25.42,0:14:29.38,Dialogue,,0,0,0,,Yes. As things are,\N Airi's big brother is sure to lose.
-Dialogue: 100,0:14:30.39,0:14:32.43,Dialogue,,0,0,0,,He asked for it.
-Dialogue: 100,0:14:32.81,0:14:38.89,Dialogue,,0,0,0,,But even though he is that way,\N there is one good point to him.
-Dialogue: 100,0:14:38.89,0:14:39.94,Dialogue,,0,0,0,,What's that?
-Dialogue: 100,0:14:39.94,0:14:43.94,Dialogue,,0,0,0,,Once he's decided on something,\N he'll absolutely follow through with it.
-Dialogue: 100,0:14:47.44,0:14:49.03,Dialogue,,0,0,0,,Why can't I defeat him?
-Dialogue: 100,0:14:49.03,0:14:51.82,Dialogue,,0,0,0,,At this rate, time will run out and it'll be a draw.
-Dialogue: 100,0:14:51.82,0:14:54.83,Dialogue,,0,0,0,,Is this the reason he's called \Nthe Undefeated Weakest?
-Dialogue: 100,0:14:55.99,0:15:02.84,Dialogue,,0,0,0,,Very well. Out of respect for your skill,\N I'll let you witness my Tiamat's Divine Raiment!
-Dialogue: 100,0:15:04.63,0:15:06.59,Dialogue,,0,0,0,,Grovel before the name of God.
-Dialogue: 100,0:15:07.34,0:15:08.34,Dialogue,,0,0,0,,Thresher!
-Dialogue: 100,0:15:16.68,0:15:17.98,Dialogue,,0,0,0,,Divine Raiment...
-Dialogue: 100,0:15:17.98,0:15:21.44,Dialogue,,0,0,0,,Secret, special abilities exclusive to\N Divine Raiment Machine Dragons.
-Dialogue: 100,0:15:21.44,0:15:24.06,Dialogue,,0,0,0,,Tiamat's Divine Raiment controls gravity.
-Dialogue: 100,0:15:25.07,0:15:29.61,Dialogue,,0,0,0,,But to use a Divine Raiment on top of \Nall the other weapons she's deployed...
-Dialogue: 100,0:15:30.20,0:15:32.61,Dialogue,,0,0,0,,It's over, Fallen Prince!
-Dialogue: 100,0:15:40.08,0:15:41.83,Dialogue,,0,0,0,,What happened?
-Dialogue: 100,0:15:41.83,0:15:43.63,Dialogue,,0,0,0,,She's losing control!
-Dialogue: 100,0:15:44.54,0:15:45.67,Dialogue,,0,0,0,,This looks bad.
-Dialogue: 100,0:15:45.67,0:15:47.46,Dialogue,,0,0,0,,Hurry and get out of your Machine Dragon!
-Dialogue: 100,0:15:48.42,0:15:52.38,Dialogue,,0,0,0,,I'm not going to lose like this!
-Dialogue: 100,0:16:00.60,0:16:02.02,Dialogue,,0,0,0,,The barrier disappeared?
-Dialogue: 100,0:16:04.35,0:16:05.86,Dialogue,,0,0,0,,Why is there an Abyss?!
-Dialogue: 100,0:16:05.86,0:16:07.44,Dialogue,,0,0,0,,Looks like a Gargoyle!
-Dialogue: 100,0:16:12.53,0:16:13.70,Dialogue,,0,0,0,,An Abyss...
-Dialogue: 100,0:16:14.36,0:16:17.20,Dialogue,,0,0,0,,Those monsters should\N only come from the ruins.
-Dialogue: 100,0:16:17.99,0:16:19.70,Dialogue,,0,0,0,,Why is it here?
-Dialogue: 100,0:16:21.79,0:16:26.29,Dialogue,,0,0,0,,Threat detected! Triad, evacuate\N all students to the school buildings!
-Dialogue: 100,0:16:27.34,0:16:29.50,Dialogue,,0,0,0,,Everyone, remain calm! Don't panic!
-Dialogue: 100,0:16:29.50,0:16:31.92,Dialogue,,0,0,0,,Everyone, take shelter in the school buildings!
-Dialogue: 100,0:16:31.92,0:16:35.80,Dialogue,,0,0,0,,All Wyverns, deploy a barrier\N around the Gargoyle.
-Dialogue: 100,0:16:35.80,0:16:37.68,Dialogue,,0,0,0,,Protect the students at any cost!
-Dialogue: 100,0:16:38.06,0:16:39.43,Dialogue,,0,0,0,,What's going on?!
-Dialogue: 100,0:16:46.86,0:16:48.02,Dialogue,,0,0,0,,Howling Roar!
-Dialogue: 100,0:16:50.40,0:16:52.03,Dialogue,,0,0,0,,Lux Arcadia?!
-Dialogue: 100,0:16:52.40,0:16:56.53,Dialogue,,0,0,0,,Miss Lisesharte, may I ask one favor of you?
-Dialogue: 100,0:16:57.37,0:16:58.28,Dialogue,,0,0,0,,You two!
-Dialogue: 100,0:16:58.74,0:17:00.29,Dialogue,,0,0,0,,Why haven't you evacuated yet?
-Dialogue: 100,0:17:00.29,0:17:03.41,Dialogue,,0,0,0,,And what are you doing, Noct?\N You're part of the Triad!
-Dialogue: 100,0:17:03.41,0:17:05.17,Dialogue,,0,0,0,,Airi's big brother...
-Dialogue: 100,0:17:09.63,0:17:13.42,Dialogue,,0,0,0,,He's crazy to face an Abyss\N with a generic Machine Dragon!
-Dialogue: 100,0:17:13.42,0:17:16.93,Dialogue,,0,0,0,,You shouldn't interfere until\N the instructors come to help.
-Dialogue: 100,0:17:16.93,0:17:17.76,Dialogue,,0,0,0,,No.
-Dialogue: 100,0:17:19.10,0:17:24.06,Dialogue,,0,0,0,,There is only one enemy here.\N That means he won't lose.
-Dialogue: 100,0:17:28.23,0:17:32.19,Dialogue,,0,0,0,,I managed to regain control\N over Tiamat, but at this rate...
-Dialogue: 100,0:17:37.20,0:17:38.91,Dialogue,,0,0,0,,You...
-Dialogue: 100,0:17:38.91,0:17:42.20,Dialogue,,0,0,0,,Miss Lisesharte, may I ask one favor of you?
-Dialogue: 100,0:17:42.70,0:17:46.16,Dialogue,,0,0,0,,I can't destroy that Abyss with my Wyvern.
-Dialogue: 100,0:17:46.16,0:17:49.84,Dialogue,,0,0,0,,So please land and take aim at the enemy.
-Dialogue: 100,0:17:49.84,0:17:51.46,Dialogue,,0,0,0,,You think you can order me around?!
-Dialogue: 100,0:17:52.55,0:17:56.84,Dialogue,,0,0,0,,I'll give the signal to fire the cannon.\N That signal will be...
-Dialogue: 100,0:17:56.84,0:17:58.97,Dialogue,,0,0,0,,right after I raise my sword over my head.
-Dialogue: 100,0:17:59.68,0:18:02.93,Dialogue,,0,0,0,,I don't know what you're planning to do with that broken sword,
-Dialogue: 100,0:18:02.93,0:18:06.48,Dialogue,,0,0,0,,but with the remaining power, Seven Heads\N can manage another more shot.
-Dialogue: 100,0:18:07.14,0:18:10.23,Dialogue,,0,0,0,,Make sure I can hit, Fallen Prince.
-Dialogue: 100,0:18:17.03,0:18:20.74,Dialogue,,0,0,0,,Lux Arcadia! Reinforcements are coming! Hold out!
-Dialogue: 100,0:18:33.59,0:18:34.63,Dialogue,,0,0,0,,You're finished!
-Dialogue: 100,0:18:47.18,0:18:50.27,Dialogue,,0,0,0,,If a strong defender acts\N as a diversion for an attack,
-Dialogue: 100,0:18:50.27,0:18:53.23,Dialogue,,0,0,0,,their ally can put all their power\N into one powerful finishing shot.
-Dialogue: 100,0:18:53.23,0:18:55.11,Dialogue,,0,0,0,,You know your tactics, you monster.
-Dialogue: 100,0:18:56.11,0:18:57.94,Dialogue,,0,0,0,,I'm the same as you.
-Dialogue: 100,0:19:24.51,0:19:28.52,Dialogue,,0,0,0,,Intentionally taking the enemy's attack\N to create an opening...
-Dialogue: 100,0:19:29.60,0:19:35.98,Dialogue,,0,0,0,,This is the first time a man\N has tried to help or protect me.
-Dialogue: 100,0:19:38.78,0:19:41.53,Dialogue,,0,0,0,,Lux Arcadia, huh?
-Dialogue: 100,0:20:02.63,0:20:06.43,Dialogue,,0,0,0,,So what do you intend to do now?
-Dialogue: 100,0:20:06.97,0:20:11.94,Dialogue,,0,0,0,,Are you going to support my \NBahamut with your Wyvern?
-Dialogue: 100,0:20:12.56,0:20:13.69,Dialogue,,0,0,0,,Or perhaps...
-Dialogue: 100,0:20:29.33,0:20:31.71,Dialogue,,0,0,0,,D-Do your injuries hurt?
-Dialogue: 100,0:20:33.62,0:20:37.17,Dialogue,,0,0,0,,Um, did you come here to take care of me?
-Dialogue: 100,0:20:39.75,0:20:43.18,Dialogue,,0,0,0,,O-Only because you saved me.
-Dialogue: 100,0:20:43.84,0:20:45.30,Dialogue,,0,0,0,,No, that's not...
-Dialogue: 100,0:20:47.05,0:20:51.68,Dialogue,,0,0,0,,{\an8}Honestly, I can't figure out whether\N you're being modest or arrogant.
-Dialogue: 100,0:20:51.68,0:20:54.39,Dialogue,,0,0,0,,{\an8}Are all men of the former empire like that?
-Dialogue: 100,0:20:54.39,0:20:59.27,Dialogue,,0,0,0,,{\an8}I don't know. When I was young,\N I was forced out of the imperial court.
-Dialogue: 100,0:20:59.90,0:21:02.24,Dialogue,,0,0,0,,And why did you do that anyway?
-Dialogue: 100,0:21:02.24,0:21:06.53,Dialogue,,0,0,0,,A normal person wouldn't face an Abyss\N in a generic Machine Dragon, you know?
-Dialogue: 100,0:21:06.53,0:21:11.41,Dialogue,,0,0,0,,I don't really remember.\N I just felt that's what I had to do.
-Dialogue: 100,0:21:11.41,0:21:12.83,Dialogue,,0,0,0,,I see.
-Dialogue: 100,0:21:12.83,0:21:15.58,Dialogue,,0,600,0,,Well, that's fine.\N You protected me—
-Dialogue: 100,0:21:16.58,0:21:21.51,Dialogue,,0,600,0,,You protected {\i1}us{\i0}.\N That's plenty enough.
-Dialogue: 100,0:21:21.51,0:21:24.67,Dialogue,,0,600,0,,You're an openhearted person,\N aren't you, Princess?
-Dialogue: 100,0:21:24.67,0:21:26.34,Dialogue,,0,600,0,,Yes, that's right.
-Dialogue: 100,0:21:26.34,0:21:30.60,Dialogue,,150,720,0,,To people of ability, I'm quite\N the lenient and generous princess.
-Dialogue: 100,0:21:35.10,0:21:39.27,Dialogue,,0,0,0,,Okay, I believe you completely, Lux.
-Dialogue: 100,0:21:39.27,0:21:40.86,Dialogue,,0,0,0,,I'm glad.
-Dialogue: 100,0:21:42.44,0:21:46.28,Dialogue,,0,0,0,,I have to tell you the real reason\N I challenged you to a duel.
-Dialogue: 100,0:21:46.28,0:21:46.86,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:21:48.11,0:21:55.08,Dialogue,,0,0,0,,I-I couldn't let you get away\N with... seeing {\i1}that{\i0}, s-so...
-Dialogue: 100,0:21:55.08,0:21:59.29,Dialogue,,0,0,0,,Oh! S-Sorry about that. I saw everything.
-Dialogue: 100,0:21:59.29,0:22:01.96,Dialogue,,0,0,0,,But... it was pretty.
-Dialogue: 100,0:22:03.38,0:22:06.51,Dialogue,,0,0,0,,You idiot! Filthy pervert! Drop dead!
-Dialogue: 100,0:22:08.76,0:22:12.89,Dialogue,,0,0,0,,What I was talking about... i-is this.
-Dialogue: 100,0:22:15.35,0:22:19.02,Dialogue,,0,0,0,,Because you saw this at the bath back then.
-Dialogue: 100,0:22:20.90,0:22:24.82,Dialogue,,0,0,0,,Isn't that... the crest of the former empire?
-Dialogue: 100,0:22:24.82,0:22:26.44,Dialogue,,0,0,0,,Why in the world do you have it?
-Dialogue: 100,0:22:26.44,0:22:30.16,Dialogue,,0,0,0,,I still can't tell you that. But...
-Dialogue: 100,0:22:30.87,0:22:36.08,Dialogue,,0,0,0,,Don't tell anyone about this crest. Please.
-Dialogue: 100,0:22:36.08,0:22:39.00,Dialogue,,0,0,0,,It's okay. I won't tell anyone.
-Dialogue: 100,0:22:40.29,0:22:41.59,Dialogue,,0,0,0,,Do you swear?
-Dialogue: 100,0:22:41.59,0:22:44.96,Dialogue,,0,0,0,,Yes. I swear on my Sword Devices.
-Dialogue: 100,0:22:46.72,0:22:49.68,Dialogue,,0,0,0,,Okay. That settles that, then.
-Dialogue: 100,0:22:50.22,0:22:55.68,Dialogue,,0,0,0,,But why did you stubbornly refuse to use that black Sword Device?
-Dialogue: 100,0:22:55.68,0:22:58.44,Dialogue,,0,0,0,,Um... That's because...
-Dialogue: 100,0:22:58.44,0:23:00.69,Dialogue,,0,0,0,,Well, it looks like we both have secrets.
-Dialogue: 100,0:23:01.15,0:23:04.98,Dialogue,,0,0,0,,Starting tomorrow, you will formally be a member of this academy.
-Dialogue: 100,0:23:04.98,0:23:06.19,Dialogue,,0,0,0,,Okay.
-Dialogue: 100,0:23:06.94,0:23:11.16,Dialogue,,0,0,0,,By the way, I had your job\N from the headmaster canceled.
-Dialogue: 100,0:23:11.16,0:23:14.70,Dialogue,,0,0,0,,You'll attend this school as a Royal Knight Cadet.
-Dialogue: 100,0:23:14.70,0:23:16.24,Dialogue,,0,0,0,,Am înțeles
-Dialogue: 100,0:23:16.24,0:23:17.95,Dialogue,,0,0,0,,Stai, ce?!
-Dialogue: 100,0:23:17.95,0:23:20.37,Dialogue,,0,0,0,,Domnișoară Lisesharte?
-Dialogue: 100,0:23:20.37,0:23:21.21,Dialogue,,0,0,0,,Also...
-Dialogue: 100,0:23:21.88,0:23:25.46,Dialogue,,0,0,0,,Please call me Lisha,\N as you would a classmate.
-Dialogue: 100,0:23:25.46,0:23:27.59,Dialogue,,0,0,0,,C-Ce?
-Dialogue: 100,0:23:33.60,0:23:35.47,Dialogue,,0,0,0,,Lux Arcadia, nu?
+Dialogue: 99,0:00:10.69,0:00:11.95,Dialogue,,0,0,0,,Acum cinci ani...
+Dialogue: 99,0:00:11.95,0:00:19.04,Dialogue,,0,0,0,,După câteva sute de ani sub o guvernare tiranică, Imperiul Arcadia a căzut după o lovitură de stat.
+Dialogue: 99,0:00:20.54,0:00:26.13,Dialogue,,0,0,0,,Cel care a provocat asta a fost un pilot misterios într-un robot dragonic negru.
+Dialogue: 99,0:00:35.34,0:00:38.53,Dialogue,,0,0,0,,Chiar și acum, adevărata identitate a acelui cavaler a rămas necunoscută.
+Dialogue: 99,0:00:42.89,0:00:48.15,Dialogue,,0,0,0,,Din respect și teamă, oamenii spun povestea acestui cavaler dragonic, pe care-l numesc...
+Dialogue: 99,0:00:54.95,0:00:56.78,Dialogue,,0,0,0,,Eroul Negru.
+Dialogue: 99,0:03:11.37,0:03:16.17,Dialogue,,0,0,0,,{\i1}Stai, cum am ajuns aici?
+Dialogue: 99,0:03:21.09,0:03:22.93,Dialogue,,0,0,0,,Hei, perversule.
+Dialogue: 99,0:03:23.39,0:03:26.43,Dialogue,,0,0,0,,Dorești să mai spui ceva înainte să mori?
+Dialogue: 99,0:03:27.35,0:03:30.35,Dialogue,,0,0,0,,{\i1}T-Trebuie să spun ceva ca să mă scot repede din situația asta!
+Dialogue: 99,0:03:30.35,0:03:31.44,Dialogue,,0,0,0,,{\i1}O-Oh, știu!
+Dialogue: 99,0:03:31.44,0:03:35.90,Dialogue,,0,0,0,,{\i1}Bătrânul de la ultimul meu serviciu a spus că fetelor le place să primească complimente!
+Dialogue: 99,0:03:35.90,0:03:38.36,Dialogue,,0,0,0,,Ei bine... Ești drăguță.
+Dialogue: 99,0:03:38.94,0:03:41.11,Dialogue,,0,0,0,,Ai un corp ca de copil...
+Dialogue: 99,0:03:41.11,0:03:45.32,Dialogue,,0,0,0,,De fapt, deși pari foarte \Ntânără, tot ai forme și...
+Dialogue: 99,0:03:46.33,0:03:47.54,Dialogue,,0,0,0,,Ești foarte atrăgătoare!
+Dialogue: 99,0:03:49.58,0:03:51.37,Dialogue,,0,0,0,,{\i1}Stai. Ce?
+Dialogue: 99,0:03:51.37,0:03:53.83,Dialogue,,0,0,0,,Ce tot spun?!
+Dialogue: 99,0:03:56.75,0:03:57.88,Dialogue,,0,0,0,,Dezgustător!
+Dialogue: 99,0:03:57.88,0:04:00.13,Dialogue,,0,0,0,,S-Stai, nu trebuia să sune astfel!
+Dialogue: 99,0:04:00.13,0:04:02.97,Dialogue,,0,0,0,,Huliganule!
+Dialogue: 99,0:04:06.55,0:04:11.93,Dialogue,,0,0,0,,Vai, în ce belea am intrat. \NMai trebuia să ajung și undeva astăzi.
+Dialogue: 99,0:04:11.93,0:04:13.90,Dialogue,,0,0,0,,Hei? Cineva?
+Dialogue: 99,0:04:13.90,0:04:16.19,Dialogue,,0,0,0,,Asta este o neînțelegere!
+Dialogue: 99,0:04:16.19,0:04:18.90,Dialogue,,0,0,0,,Îmi voi cere scuze pentru \Ncă am căzut prin acoperiș!
+Dialogue: 99,0:04:23.15,0:04:26.16,Dialogue,,0,0,0,,Ascultă-mă, te rog!
+Dialogue: 99,0:04:26.70,0:04:29.58,Dialogue,,0,0,0,,Ei bine, îți pot explica tot.
+Dialogue: 99,0:04:30.16,0:04:33.46,Dialogue,,0,0,0,,O pisică hoțomană furase \Npoșetuța unei fete,
+Dialogue: 99,0:04:33.46,0:04:35.67,Dialogue,,0,0,0,,iar eu alergam după ea ca s-o prind.
+Dialogue: 99,0:04:35.67,0:04:38.04,Dialogue,,0,0,0,,Am urmărit-o de pe un acoperiș pe altul,
+Dialogue: 99,0:04:38.04,0:04:40.13,Dialogue,,0,0,0,,și înainte să-mi dau seama, \Nam ajuns în acel loc.
+Dialogue: 99,0:04:40.13,0:04:42.67,Dialogue,,0,0,0,,Is this Sword Device yours?
+Dialogue: 99,0:04:43.13,0:04:45.22,Dialogue,,0,0,0,,Da, așa este.
+Dialogue: 99,0:04:45.22,0:04:48.18,Dialogue,,0,0,0,,It's rare to see someone\N carrying around two of them.
+Dialogue: 99,0:04:48.80,0:04:51.18,Dialogue,,0,0,0,,And furthermore, this black sword...
+Dialogue: 99,0:04:54.56,0:04:56.69,Dialogue,,0,0,0,,Dacă nu este chiar Krulcifer!
+Dialogue: 99,0:04:57.27,0:04:58.94,Dialogue,,0,0,0,,Ce faci aici?
+Dialogue: 99,0:04:59.69,0:05:02.90,Dialogue,,0,0,0,,I came to see our cute\N peeping Tom here, Shalice.
+Dialogue: 99,0:05:02.90,0:05:04.74,Dialogue,,0,0,0,,Oh, înțeleg.
+Dialogue: 99,0:05:04.74,0:05:06.95,Dialogue,,0,0,0,,Okay, cute deviant.
+Dialogue: 99,0:05:07.70,0:05:09.91,Dialogue,,0,0,0,,The Academy's headmaster wants to see you.
+Dialogue: 99,0:05:09.91,0:05:11.70,Dialogue,,0,0,0,,The Headmaster?
+Dialogue: 99,0:05:18.00,0:05:22.76,Dialogue,,0,0,0,,Groping girls in the bathhouse just because \Nthe third-year knights are away...
+Dialogue: 99,0:05:22.76,0:05:24.63,Dialogue,,0,0,0,,You've got some nerve, don't you?
+Dialogue: 99,0:05:24.63,0:05:26.30,Dialogue,,0,0,0,,Cut it out, Tillfur.
+Dialogue: 99,0:05:26.30,0:05:27.89,Dialogue,,0,0,0,,I told you...
+Dialogue: 99,0:05:28.18,0:05:32.01,Dialogue,,0,0,0,,{\i1}Wait. Headmaster? Third-year knights?
+Dialogue: 99,0:05:32.01,0:05:33.14,Dialogue,,0,0,0,,{\i1}Does that mean this is...
+Dialogue: 99,0:05:34.18,0:05:36.44,Dialogue,,0,0,30,,Bun-venit la Academie!
+Dialogue: 99,0:05:37.14,0:05:41.65,Dialogue,,0,0,0,,In other words, it was an unfortunate accident.
+Dialogue: 99,0:05:41.65,0:05:44.65,Dialogue,,0,0,0,,Right, Lux Arcadia, prince of \Nthe former Empire of Arcadia?
+Dialogue: 99,0:05:44.65,0:05:48.78,Dialogue,,0,0,0,,I'm sorry for causing a ruckus on my way here.
+Dialogue: 99,0:05:48.78,0:05:50.32,Dialogue,,0,0,0,,A former prince?
+Dialogue: 99,0:05:50.32,0:05:51.66,Dialogue,,0,0,0,,But Headmaster!
+Dialogue: 99,0:05:51.66,0:05:55.16,Dialogue,,0,0,0,,Now, now... We were the ones\N who called you here for the job,
+Dialogue: 99,0:05:55.16,0:05:59.58,Dialogue,,0,0,0,,and I'll vouch for your innocent character\N as a longtime acquaintance.
+Dialogue: 99,0:05:59.58,0:06:01.67,Dialogue,,0,0,0,,This boy isn't nearly gutsy\N enough for such a stunt.
+Dialogue: 99,0:06:02.55,0:06:03.55,Dialogue,,0,0,0,,Um...
+Dialogue: 99,0:06:03.55,0:06:05.92,Dialogue,,0,0,0,,Ah, yes, yes, the main matter.
+Dialogue: 99,0:06:05.92,0:06:09.84,Dialogue,,0,0,0,,You know about this academy, don't you, Lux?
+Dialogue: 99,0:06:09.84,0:06:15.64,Dialogue,,0,0,0,,Yes. It's the Drag-Knight academy run by the new kingdom, isn't it?
+Dialogue: 99,0:06:16.23,0:06:19.90,Dialogue,,0,0,0,,That's right. Since the coup d'état five years ago,
+Dialogue: 99,0:06:19.90,0:06:23.52,Dialogue,,0,0,0,,the new kingdom has invested significant resources into training its Drag-Knights
+Dialogue: 99,0:06:23.52,0:06:26.99,Dialogue,,0,0,0,,to be on par with the military\N forces of other countries.
+Dialogue: 99,0:06:27.74,0:06:33.08,Dialogue,,0,0,0,,As girls are said to have higher aptitude\N in general for being Drag-Knights,
+Dialogue: 99,0:06:33.08,0:06:37.46,Dialogue,,0,0,0,,this academy is actually an all-girls school\N intended to train them.
+Dialogue: 99,0:06:37.46,0:06:41.33,Dialogue,,0,0,0,,However, I thought I'd ask\N you to work here, Lux.
+Dialogue: 99,0:06:41.33,0:06:42.46,Dialogue,,0,0,0,,What?!
+Dialogue: 99,0:06:42.46,0:06:46.09,Dialogue,,0,0,0,,B-But I'm a man!\N Why would you ask me?
+Dialogue: 99,0:06:46.09,0:06:51.01,Dialogue,,0,0,0,,There are only a few male Drag-Knights\N left after the coup d'état,
+Dialogue: 99,0:06:51.01,0:06:53.55,Dialogue,,0,0,0,,so boys like you are valuable.
+Dialogue: 99,0:06:53.55,0:06:57.06,Dialogue,,0,0,0,,And those two swords hanging from your waist \Naren't just for decoration, right?
+Dialogue: 99,0:06:57.98,0:06:59.35,Dialogue,,0,0,0,,Headmaster!
+Dialogue: 99,0:06:59.35,0:07:00.69,Dialogue,,0,0,0,,Wait! Wait! Wait!
+Dialogue: 99,0:07:00.69,0:07:01.98,Dialogue,,0,0,0,,Wait a second!
+Dialogue: 99,0:07:02.77,0:07:06.48,Dialogue,,0,0,0,,I haven't deemed this man acceptable!
+Dialogue: 99,0:07:06.48,0:07:10.99,Dialogue,,0,0,0,,Allowing this perverted groper\N to work at this school is...
+Dialogue: 99,0:07:10.99,0:07:12.28,Dialogue,,0,0,0,,unthinkable!
+Dialogue: 99,0:07:13.16,0:07:14.87,Dialogue,,0,0,0,,You're the one from...
+Dialogue: 99,0:07:15.87,0:07:21.04,Dialogue,,0,0,0,,Hey, Miss Lisha, if you get that close\N he's gonna mount you again!
+Dialogue: 99,0:07:21.04,0:07:22.83,Dialogue,,0,0,0,,You girls better be careful, too!
+Dialogue: 99,0:07:23.79,0:07:26.00,Dialogue,,0,0,0,,This talk is becoming pretty serious.
+Dialogue: 99,0:07:26.00,0:07:27.55,Dialogue,,0,0,0,,Fair enough.
+Dialogue: 99,0:07:27.55,0:07:33.26,Dialogue,,0,0,0,,Okay, then. I'll leave his punishment to you,\N Lisesharte, as the victim of this incident.
+Dialogue: 99,0:07:33.26,0:07:34.01,Dialogue,,0,0,0,,What?!
+Dialogue: 99,0:07:35.01,0:07:37.35,Dialogue,,0,0,0,,Then fight me!
+Dialogue: 99,0:07:37.35,0:07:42.27,Dialogue,,0,0,0,,I'll determine whether or not you are worthy of becoming a Drag-Knight of this academy.
+Dialogue: 99,0:07:42.27,0:07:44.23,Dialogue,,0,0,0,,This'll be interesting to watch!
+Dialogue: 99,0:07:44.23,0:07:46.48,Dialogue,,0,0,0,,You can beat a man for sure.
+Dialogue: 99,0:07:47.23,0:07:49.28,Dialogue,,0,0,0,,Will it really be that simple?
+Dialogue: 99,0:07:48.68,0:07:49.28,Dialogue Overlap,,0,0,0,,Beat him!
+Dialogue: 99,0:07:49.61,0:07:54.28,Dialogue,,0,0,0,,He won the prize money in the royal capital tournament, and he's still undefeated.
+Dialogue: 99,0:07:54.95,0:07:58.16,Dialogue,,0,0,0,,He's also known as "The Undefeated Weakest."
+Dialogue: 99,0:07:59.41,0:08:02.67,Dialogue,,0,0,0,,A pervert like him is still undefeated?
+Dialogue: 99,0:08:03.71,0:08:05.67,Dialogue,,0,0,0,,That doesn't sit right with me.
+Dialogue: 99,0:08:09.17,0:08:11.17,Dialogue,,0,0,0,,Listen well, Lux Arcadia.
+Dialogue: 99,0:08:11.17,0:08:14.01,Dialogue,,0,0,0,,This match will be a one-on-one duel\N with our Machine Dragons.
+Dialogue: 99,0:08:14.01,0:08:17.93,Dialogue,,0,0,0,,If you lose, you will be jailed as a criminal.
+Dialogue: 99,0:08:17.93,0:08:20.68,Dialogue,,0,0,0,,If you win, you will be acquitted \Nand may work here!
+Dialogue: 99,0:08:21.64,0:08:22.60,Dialogue,,0,0,0,,Are we clear?
+Dialogue: 99,0:08:26.61,0:08:28.65,Dialogue,,0,0,0,,Tell {this to }the whole academy:
+Dialogue: 99,0:08:28.65,0:08:33.70,Dialogue,,0,0,0,,There will be an exhibition of the new kingdom's princess crushing the former empire's prince!
+Dialogue: 99,0:08:34.11,0:08:36.57,Dialogue,,0,0,0,,{Princess of the new kingdom}The new kingdom's princess?
+Dialogue: 99,0:08:36.57,0:08:40.33,Dialogue,,0,0,0,,Lisesharte Atismata. That's my name.
+Dialogue: 99,0:08:41.00,0:08:41.70,Dialogue,,0,0,0,,Seriously?!
+Dialogue: 99,0:08:41.70,0:08:45.00,Dialogue,,0,0,0,,First princess of the new Kingdom of Atismata.
+Dialogue: 99,0:08:45.00,0:08:49.80,Dialogue,,0,0,0,,A princess of the new kingdom that\N destroyed your empire five years ago.
+Dialogue: 99,0:08:51.17,0:08:54.22,Dialogue,,0,0,0,,Nice to meet you, Former Prince.
+Dialogue: 99,0:08:54.22,0:08:56.64,Dialogue,,0,0,0,,What?!
+Dialogue: 99,0:09:00.01,0:09:00.97,Dialogue,,0,0,0,,Jeez...
+Dialogue: 99,0:09:00.97,0:09:03.52,Dialogue,,0,0,0,,What are you doing, Brother?
+Dialogue: 99,0:09:03.52,0:09:04.73,Dialogue,,0,0,0,,I'm appalled.
+Dialogue: 99,0:09:04.73,0:09:07.06,Dialogue,,0,0,0,,Sorry about everything.
+Dialogue: 99,0:09:07.06,0:09:10.27,Dialogue,,0,0,0,,I'm sorry I caused such a\N commotion at your school, Airi.
+Dialogue: 99,0:09:11.61,0:09:13.90,Dialogue,,0,0,0,,Um, you're gonna stay standing?
+Dialogue: 99,0:09:13.90,0:09:14.90,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:09:14.90,0:09:19.83,Dialogue,,0,0,0,,I heard that if you get too close,\N with just a breath, you can lift my skirt.
+Dialogue: 99,0:09:19.83,0:09:22.20,Dialogue,,0,0,0,,What do you think I am?!
+Dialogue: 99,0:09:22.20,0:09:25.25,Dialogue,,0,0,0,,She's my roommate in the girls' dorm.
+Dialogue: 99,0:09:25.66,0:09:26.71,Dialogue,,0,0,0,,Her name is—
+Dialogue: 99,0:09:26.71,0:09:30.75,Dialogue,,0,0,0,,Yes. I am Noct Leaflet, a first-year.
+Dialogue: 99,0:09:30.75,0:09:34.47,Dialogue,,0,0,0,,It's disappointing that Airi's big brother\N is an unbelievable pervert.
+Dialogue: 99,0:09:34.47,0:09:36.26,Dialogue,,0,0,0,,But it was a misunderstanding!
+Dialogue: 99,0:09:37.51,0:09:43.39,Dialogue,,0,0,0,,If you get incarcerated,\N how am I going to pay your debt?
+Dialogue: 99,0:09:44.56,0:09:46.02,Dialogue,,0,0,0,,Since the coup d'état,
+Dialogue: 99,0:09:46.02,0:09:50.23,Dialogue,,0,0,0,,as surviving members of the former imperial family, we've been considered criminals.
+Dialogue: 99,0:09:50.23,0:09:57.66,Dialogue,,0,0,0,,The debt we'd taken on in exchange for amnesty is not something I can ever pay for by myself!
+Dialogue: 99,0:09:57.66,0:10:03.91,Dialogue,,0,0,0,,I need you to work diligently as a handyman\N for the people of this kingdom.
+Dialogue: 99,0:10:03.91,0:10:08.79,Dialogue,,0,0,0,,And that's what I've been trying my best to do.
+Dialogue: 99,0:10:08.79,0:10:14.92,Dialogue,,0,0,0,,I see. And as a result of those efforts, you jumped into the girl's bath and groped people, right?
+Dialogue: 99,0:10:15.71,0:10:20.89,Dialogue,,0,0,0,,If you go to jail for that,\N it'll also cause me trouble.
+Dialogue: 99,0:10:20.89,0:10:22.01,Dialogue,,0,0,0,,S-Sorry.
+Dialogue: 99,0:10:22.60,0:10:28.19,Dialogue,,0,0,0,,Anyway, no matter what you do,\N you must beat Miss Lisesharte.
+Dialogue: 99,0:10:28.19,0:10:29.77,Dialogue,,0,0,0,,Is she strong?
+Dialogue: 99,0:10:29.77,0:10:30.98,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:10:30.98,0:10:34.69,Dialogue,,0,0,0,,Miss Lisesharte is presently\N undefeated in this school.
+Dialogue: 99,0:10:34.69,0:10:37.28,Dialogue,,0,0,0,,But even if she hasn't lost to anyone,
+Dialogue: 99,0:10:37.99,0:10:40.53,Dialogue,,0,0,0,,that goes for you as well, right, Lux?
+Dialogue: 99,0:10:41.53,0:10:42.78,Dialogue,,0,0,0,,Right.
+Dialogue: 99,0:11:00.26,0:11:02.30,Dialogue,,0,0,0,,All machines, deploy the barrier.
+Dialogue: 99,0:11:06.31,0:11:10.60,Dialogue,,0,0,0,,Now, let the Machine Dragon match between the first princess of the new kingdom, Miss Lisesharte,
+Dialogue: 99,0:11:10.60,0:11:16.48,Dialogue,,0,0,0,,and the former seventh prince\N of the former empire, Lux, begin.
+Dialogue: 99,0:11:19.32,0:11:22.57,Dialogue,,0,0,0,,Come on, don't these people\N have better things to do?
+Dialogue: 99,0:11:22.57,0:11:24.07,Dialogue,,0,0,0,,Lux Arcadia!
+Dialogue: 99,0:11:24.58,0:11:28.08,Dialogue,,0,0,0,,Why do you think I\N challenged you to this fight?
+Dialogue: 99,0:11:29.87,0:11:32.92,Dialogue,,0,0,0,,Because I'm a prince of the former empire?
+Dialogue: 99,0:11:34.17,0:11:36.55,Dialogue,,0,0,0,,If you win, I'll tell you.
+Dialogue: 99,0:11:36.55,0:11:38.09,Dialogue,,0,0,0,,Both parties, prepare!
+Dialogue: 99,0:11:42.64,0:11:46.60,Dialogue,,0,0,0,,Come, symbol of power,\N winged dragon of the crest!
+Dialogue: 99,0:11:46.60,0:11:49.43,Dialogue,,0,0,0,,Obey my sword and soar!
+Dialogue: 99,0:11:49.43,0:11:50.60,Dialogue,,0,0,0,,Wyvern!
+Dialogue: 99,0:11:54.98,0:11:58.19,Dialogue,,0,0,0,,What? Just a Wyvern, Lux Arcadia?
+Dialogue: 99,0:11:58.19,0:11:59.03,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:11:59.03,0:12:01.53,Dialogue,,0,0,0,,My Divine Raiment Machine Dragon, Tiamat,
+Dialogue: 99,0:12:01.53,0:12:06.03,Dialogue,,0,0,0,,is on a completely different level to that generic machine you're using.{naine pls resplit these lines}
+Dialogue: 99,0:12:07.03,0:12:09.50,Dialogue,,0,0,0,,Divine Raiment... Machine Dragon...
+Dialogue: 99,0:12:17.34,0:12:19.05,Dialogue,,0,0,0,,Divine Raiment Machine Dragon...
+Dialogue: 99,0:12:20.01,0:12:25.76,Dialogue,,0,0,0,,{\q2}It's a rare, ancient weapon that holds an ability that \Ngeneric Machine Dragons can't hold a candle to.
+Dialogue: 99,0:12:25.76,0:12:28.72,Dialogue,,0,0,0,,None but the most skilled can even use one.
+Dialogue: 99,0:12:28.72,0:12:33.77,Dialogue,,0,0,0,,Yes. There's too great a power gap compared \Nto Lux's generic Wyvern Machine Dragon.
+Dialogue: 99,0:12:37.11,0:12:39.02,Dialogue,,0,0,0,,Battle, start!
+Dialogue: 99,0:12:39.78,0:12:42.95,Dialogue,,0,0,0,,How do you fare at dancing, Lux Arcadia?
+Dialogue: 99,0:12:47.66,0:12:50.87,Dialogue,,0,0,0,,I'm a little on the rough side, personally.
+Dialogue: 99,0:12:50.87,0:12:54.16,Dialogue,,0,0,0,,Show me a good time, my prince!
+Dialogue: 99,0:13:06.26,0:13:09.14,Dialogue,,0,0,0,,Dodging my attacks with only swordplay?
+Dialogue: 99,0:13:09.64,0:13:12.31,Dialogue,,0,0,0,,I have one favor to ask of you.
+Dialogue: 99,0:13:12.31,0:13:13.14,Dialogue,,0,0,0,,What is it?
+Dialogue: 99,0:13:13.56,0:13:19.15,Dialogue,,0,0,0,,If we keep going like this and the match\N ends with a draw, can't we work things out?
+Dialogue: 99,0:13:19.15,0:13:23.49,Dialogue,,0,0,0,,I-I'm sorry about what happened\N at the bath. Really, I apologize.
+Dialogue: 99,0:13:23.49,0:13:25.15,Dialogue,,0,0,0,,Oh...
+Dialogue: 99,0:13:25.61,0:13:28.66,Dialogue,,0,0,0,,It seems you're not just some ordinary fool.
+Dialogue: 99,0:13:28.66,0:13:30.66,Dialogue,,0,0,0,,You're the king of fools!
+Dialogue: 99,0:13:31.91,0:13:34.41,Dialogue,,0,0,0,,Reveal your true nature, Tiamat!
+Dialogue: 99,0:13:34.96,0:13:36.58,Dialogue,,0,0,0,,Seven Heads!
+Dialogue: 99,0:13:41.13,0:13:43.13,Dialogue,,0,0,0,,She added more special armaments?!
+Dialogue: 99,0:13:43.13,0:13:44.42,Dialogue,,0,0,0,,Not good.
+Dialogue: 99,0:13:44.42,0:13:46.88,Dialogue,,0,0,0,,By the way, isn't it dangerous\N for us all to be here?
+Dialogue: 99,0:13:47.38,0:13:48.97,Dialogue,,0,0,0,,A word of advice.
+Dialogue: 99,0:13:48.97,0:13:54.39,Dialogue,,0,0,0,,You should get rid of that broken-down Wyvern\N and use that other Sword Device of yours.
+Dialogue: 99,0:13:55.27,0:13:58.65,Dialogue,,0,0,0,,Sorry, but I mustn't use that one.
+Dialogue: 99,0:13:58.65,0:14:00.81,Dialogue,,0,0,0,,Then meet your end here...
+Dialogue: 99,0:14:00.81,0:14:03.19,Dialogue,,0,0,0,,together with the pride of the former empire!
+Dialogue: 99,0:14:10.24,0:14:11.08,Dialogue,,0,0,0,,Got you!
+Dialogue: 99,0:14:17.08,0:14:19.67,Dialogue,,0,0,0,,Y-You'll kill me at this rate!
+Dialogue: 99,0:14:20.21,0:14:21.84,Dialogue,,0,0,0,,Redeploy the barrier!
+Dialogue: 99,0:14:21.84,0:14:25.42,Dialogue,,0,0,0,,Well, at least she's thinking about \Navoiding the spectators. I think.
+Dialogue: 99,0:14:25.42,0:14:29.38,Dialogue,,0,0,0,,Yes. As things are,\N Airi's big brother is sure to lose.
+Dialogue: 99,0:14:30.39,0:14:32.43,Dialogue,,0,0,0,,He asked for it.
+Dialogue: 99,0:14:32.81,0:14:38.89,Dialogue,,0,0,0,,But even though he is that way,\N there is one good point to him.
+Dialogue: 99,0:14:38.89,0:14:39.94,Dialogue,,0,0,0,,What's that?
+Dialogue: 99,0:14:39.94,0:14:43.94,Dialogue,,0,0,0,,Once he's decided on something,\N he'll absolutely follow through with it.
+Dialogue: 99,0:14:47.44,0:14:49.03,Dialogue,,0,0,0,,Why can't I defeat him?
+Dialogue: 99,0:14:49.03,0:14:51.82,Dialogue,,0,0,0,,At this rate, time will run out and it'll be a draw.
+Dialogue: 99,0:14:51.82,0:14:54.83,Dialogue,,0,0,0,,Is this the reason he's called \Nthe Undefeated Weakest?
+Dialogue: 99,0:14:55.99,0:15:02.84,Dialogue,,0,0,0,,Very well. Out of respect for your skill,\N I'll let you witness my Tiamat's Divine Raiment!
+Dialogue: 99,0:15:04.63,0:15:06.59,Dialogue,,0,0,0,,Grovel before the name of God.
+Dialogue: 99,0:15:07.34,0:15:08.34,Dialogue,,0,0,0,,Thresher!
+Dialogue: 99,0:15:16.68,0:15:17.98,Dialogue,,0,0,0,,Divine Raiment...
+Dialogue: 99,0:15:17.98,0:15:21.44,Dialogue,,0,0,0,,Secret, special abilities exclusive to\N Divine Raiment Machine Dragons.
+Dialogue: 99,0:15:21.44,0:15:24.06,Dialogue,,0,0,0,,Tiamat's Divine Raiment controls gravity.
+Dialogue: 99,0:15:25.07,0:15:29.61,Dialogue,,0,0,0,,But to use a Divine Raiment on top of \Nall the other weapons she's deployed...
+Dialogue: 99,0:15:30.20,0:15:32.61,Dialogue,,0,0,0,,It's over, Fallen Prince!
+Dialogue: 99,0:15:40.08,0:15:41.83,Dialogue,,0,0,0,,What happened?
+Dialogue: 99,0:15:41.83,0:15:43.63,Dialogue,,0,0,0,,She's losing control!
+Dialogue: 99,0:15:44.54,0:15:45.67,Dialogue,,0,0,0,,This looks bad.
+Dialogue: 99,0:15:45.67,0:15:47.46,Dialogue,,0,0,0,,Hurry and get out of your Machine Dragon!
+Dialogue: 99,0:15:48.42,0:15:52.38,Dialogue,,0,0,0,,I'm not going to lose like this!
+Dialogue: 99,0:16:00.60,0:16:02.02,Dialogue,,0,0,0,,The barrier disappeared?
+Dialogue: 99,0:16:04.35,0:16:05.86,Dialogue,,0,0,0,,Why is there an Abyss?!
+Dialogue: 99,0:16:05.86,0:16:07.44,Dialogue,,0,0,0,,Looks like a Gargoyle!
+Dialogue: 99,0:16:12.53,0:16:13.70,Dialogue,,0,0,0,,An Abyss...
+Dialogue: 99,0:16:14.36,0:16:17.20,Dialogue,,0,0,0,,Those monsters should\N only come from the ruins.
+Dialogue: 99,0:16:17.99,0:16:19.70,Dialogue,,0,0,0,,Why is it here?
+Dialogue: 99,0:16:21.79,0:16:26.29,Dialogue,,0,0,0,,Threat detected! Triad, evacuate\N all students to the school buildings!
+Dialogue: 99,0:16:27.34,0:16:29.50,Dialogue,,0,0,0,,Everyone, remain calm! Don't panic!
+Dialogue: 99,0:16:29.50,0:16:31.92,Dialogue,,0,0,0,,Everyone, take shelter in the school buildings!
+Dialogue: 99,0:16:31.92,0:16:35.80,Dialogue,,0,0,0,,All Wyverns, deploy a barrier\N around the Gargoyle.
+Dialogue: 99,0:16:35.80,0:16:37.68,Dialogue,,0,0,0,,Protect the students at any cost!
+Dialogue: 99,0:16:38.06,0:16:39.43,Dialogue,,0,0,0,,What's going on?!
+Dialogue: 99,0:16:46.86,0:16:48.02,Dialogue,,0,0,0,,Howling Roar!
+Dialogue: 99,0:16:50.40,0:16:52.03,Dialogue,,0,0,0,,Lux Arcadia?!
+Dialogue: 99,0:16:52.40,0:16:56.53,Dialogue,,0,0,0,,Miss Lisesharte, may I ask one favor of you?
+Dialogue: 99,0:16:57.37,0:16:58.28,Dialogue,,0,0,0,,You two!
+Dialogue: 99,0:16:58.74,0:17:00.29,Dialogue,,0,0,0,,Why haven't you evacuated yet?
+Dialogue: 99,0:17:00.29,0:17:03.41,Dialogue,,0,0,0,,And what are you doing, Noct?\N You're part of the Triad!
+Dialogue: 99,0:17:03.41,0:17:05.17,Dialogue,,0,0,0,,Airi's big brother...
+Dialogue: 99,0:17:09.63,0:17:13.42,Dialogue,,0,0,0,,He's crazy to face an Abyss\N with a generic Machine Dragon!
+Dialogue: 99,0:17:13.42,0:17:16.93,Dialogue,,0,0,0,,You shouldn't interfere until\N the instructors come to help.
+Dialogue: 99,0:17:16.93,0:17:17.76,Dialogue,,0,0,0,,No.
+Dialogue: 99,0:17:19.10,0:17:24.06,Dialogue,,0,0,0,,There is only one enemy here.\N That means he won't lose.
+Dialogue: 99,0:17:28.23,0:17:32.19,Dialogue,,0,0,0,,I managed to regain control\N over Tiamat, but at this rate...
+Dialogue: 99,0:17:37.20,0:17:38.91,Dialogue,,0,0,0,,You...
+Dialogue: 99,0:17:38.91,0:17:42.20,Dialogue,,0,0,0,,Miss Lisesharte, may I ask one favor of you?
+Dialogue: 99,0:17:42.70,0:17:46.16,Dialogue,,0,0,0,,I can't destroy that Abyss with my Wyvern.
+Dialogue: 99,0:17:46.16,0:17:49.84,Dialogue,,0,0,0,,So please land and take aim at the enemy.
+Dialogue: 99,0:17:49.84,0:17:51.46,Dialogue,,0,0,0,,You think you can order me around?!
+Dialogue: 99,0:17:52.55,0:17:56.84,Dialogue,,0,0,0,,I'll give the signal to fire the cannon.\N That signal will be...
+Dialogue: 99,0:17:56.84,0:17:58.97,Dialogue,,0,0,0,,right after I raise my sword over my head.
+Dialogue: 99,0:17:59.68,0:18:02.93,Dialogue,,0,0,0,,I don't know what you're planning to do with that broken sword,
+Dialogue: 99,0:18:02.93,0:18:06.48,Dialogue,,0,0,0,,but with the remaining power, Seven Heads\N can manage another more shot.
+Dialogue: 99,0:18:07.14,0:18:10.23,Dialogue,,0,0,0,,Make sure I can hit, Fallen Prince.
+Dialogue: 99,0:18:17.03,0:18:20.74,Dialogue,,0,0,0,,Lux Arcadia! Reinforcements are coming! Hold out!
+Dialogue: 99,0:18:33.59,0:18:34.63,Dialogue,,0,0,0,,You're finished!
+Dialogue: 99,0:18:47.18,0:18:50.27,Dialogue,,0,0,0,,If a strong defender acts\N as a diversion for an attack,
+Dialogue: 99,0:18:50.27,0:18:53.23,Dialogue,,0,0,0,,their ally can put all their power\N into one powerful finishing shot.
+Dialogue: 99,0:18:53.23,0:18:55.11,Dialogue,,0,0,0,,You know your tactics, you monster.
+Dialogue: 99,0:18:56.11,0:18:57.94,Dialogue,,0,0,0,,I'm the same as you.
+Dialogue: 99,0:19:24.51,0:19:28.52,Dialogue,,0,0,0,,Intentionally taking the enemy's attack\N to create an opening...
+Dialogue: 99,0:19:29.60,0:19:35.98,Dialogue,,0,0,0,,This is the first time a man\N has tried to help or protect me.
+Dialogue: 99,0:19:38.78,0:19:41.53,Dialogue,,0,0,0,,Lux Arcadia, huh?
+Dialogue: 99,0:20:02.63,0:20:06.43,Dialogue,,0,0,0,,So what do you intend to do now?
+Dialogue: 99,0:20:06.97,0:20:11.94,Dialogue,,0,0,0,,Are you going to support my \NBahamut with your Wyvern?
+Dialogue: 99,0:20:12.56,0:20:13.69,Dialogue,,0,0,0,,Or perhaps...
+Dialogue: 99,0:20:29.33,0:20:31.71,Dialogue,,0,0,0,,D-Do your injuries hurt?
+Dialogue: 99,0:20:33.62,0:20:37.17,Dialogue,,0,0,0,,Um, did you come here to take care of me?
+Dialogue: 99,0:20:39.75,0:20:43.18,Dialogue,,0,0,0,,O-Only because you saved me.
+Dialogue: 99,0:20:43.84,0:20:45.30,Dialogue,,0,0,0,,No, that's not...
+Dialogue: 99,0:20:47.05,0:20:51.68,Dialogue,,0,0,0,,{\an8}Honestly, I can't figure out whether\N you're being modest or arrogant.
+Dialogue: 99,0:20:51.68,0:20:54.39,Dialogue,,0,0,0,,{\an8}Are all men of the former empire like that?
+Dialogue: 99,0:20:54.39,0:20:59.27,Dialogue,,0,0,0,,{\an8}I don't know. When I was young,\N I was forced out of the imperial court.
+Dialogue: 99,0:20:59.90,0:21:02.24,Dialogue,,0,0,0,,And why did you do that anyway?
+Dialogue: 99,0:21:02.24,0:21:06.53,Dialogue,,0,0,0,,A normal person wouldn't face an Abyss\N in a generic Machine Dragon, you know?
+Dialogue: 99,0:21:06.53,0:21:11.41,Dialogue,,0,0,0,,I don't really remember.\N I just felt that's what I had to do.
+Dialogue: 99,0:21:11.41,0:21:12.83,Dialogue,,0,0,0,,I see.
+Dialogue: 99,0:21:12.83,0:21:15.58,Dialogue,,0,600,0,,Well, that's fine.\N You protected me—
+Dialogue: 99,0:21:16.58,0:21:21.51,Dialogue,,0,600,0,,You protected {\i1}us{\i0}.\N That's plenty enough.
+Dialogue: 99,0:21:21.51,0:21:24.67,Dialogue,,0,600,0,,You're an openhearted person,\N aren't you, Princess?
+Dialogue: 99,0:21:24.67,0:21:26.34,Dialogue,,0,600,0,,Yes, that's right.
+Dialogue: 99,0:21:26.34,0:21:30.60,Dialogue,,150,720,0,,To people of ability, I'm quite\N the lenient and generous princess.
+Dialogue: 99,0:21:35.10,0:21:39.27,Dialogue,,0,0,0,,Okay, I believe you completely, Lux.
+Dialogue: 99,0:21:39.27,0:21:40.86,Dialogue,,0,0,0,,I'm glad.
+Dialogue: 99,0:21:42.44,0:21:46.28,Dialogue,,0,0,0,,I have to tell you the real reason\N I challenged you to a duel.
+Dialogue: 99,0:21:46.28,0:21:46.86,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:21:48.11,0:21:55.08,Dialogue,,0,0,0,,I-I couldn't let you get away\N with... seeing {\i1}that{\i0}, s-so...
+Dialogue: 99,0:21:55.08,0:21:59.29,Dialogue,,0,0,0,,Oh! S-Sorry about that. I saw everything.
+Dialogue: 99,0:21:59.29,0:22:01.96,Dialogue,,0,0,0,,But... it was pretty.
+Dialogue: 99,0:22:03.38,0:22:06.51,Dialogue,,0,0,0,,You idiot! Filthy pervert! Drop dead!
+Dialogue: 99,0:22:08.76,0:22:12.89,Dialogue,,0,0,0,,What I was talking about... i-is this.
+Dialogue: 99,0:22:15.35,0:22:19.02,Dialogue,,0,0,0,,Because you saw this at the bath back then.
+Dialogue: 99,0:22:20.90,0:22:24.82,Dialogue,,0,0,0,,Isn't that... the crest of the former empire?
+Dialogue: 99,0:22:24.82,0:22:26.44,Dialogue,,0,0,0,,Why in the world do you have it?
+Dialogue: 99,0:22:26.44,0:22:30.16,Dialogue,,0,0,0,,I still can't tell you that. But...
+Dialogue: 99,0:22:30.87,0:22:36.08,Dialogue,,0,0,0,,Don't tell anyone about this crest. Please.
+Dialogue: 99,0:22:36.08,0:22:39.00,Dialogue,,0,0,0,,It's okay. I won't tell anyone.
+Dialogue: 99,0:22:40.29,0:22:41.59,Dialogue,,0,0,0,,Do you swear?
+Dialogue: 99,0:22:41.59,0:22:44.96,Dialogue,,0,0,0,,Yes. I swear on my Sword Devices.
+Dialogue: 99,0:22:46.72,0:22:49.68,Dialogue,,0,0,0,,Okay. That settles that, then.
+Dialogue: 99,0:22:50.22,0:22:55.68,Dialogue,,0,0,0,,But why did you stubbornly refuse to use that black Sword Device?
+Dialogue: 99,0:22:55.68,0:22:58.44,Dialogue,,0,0,0,,Um... That's because...
+Dialogue: 99,0:22:58.44,0:23:00.69,Dialogue,,0,0,0,,Well, it looks like we both have secrets.
+Dialogue: 99,0:23:01.15,0:23:04.98,Dialogue,,0,0,0,,Starting tomorrow, you will formally be a member of this academy.
+Dialogue: 99,0:23:04.98,0:23:06.19,Dialogue,,0,0,0,,Okay.
+Dialogue: 99,0:23:06.94,0:23:11.16,Dialogue,,0,0,0,,By the way, I had your job\N from the headmaster canceled.
+Dialogue: 99,0:23:11.16,0:23:14.70,Dialogue,,0,0,0,,You'll attend this school as a Royal Knight Cadet.
+Dialogue: 99,0:23:14.70,0:23:16.24,Dialogue,,0,0,0,,Am înțeles
+Dialogue: 99,0:23:16.24,0:23:17.95,Dialogue,,0,0,0,,Stai, ce?!
+Dialogue: 99,0:23:17.95,0:23:20.37,Dialogue,,0,0,0,,Domnișoară Lisesharte?
+Dialogue: 99,0:23:20.37,0:23:21.21,Dialogue,,0,0,0,,Also...
+Dialogue: 99,0:23:21.88,0:23:25.46,Dialogue,,0,0,0,,Please call me Lisha,\N as you would a classmate.
+Dialogue: 99,0:23:25.46,0:23:27.59,Dialogue,,0,0,0,,C-Ce?
+Dialogue: 99,0:23:33.60,0:23:35.47,Dialogue,,0,0,0,,Lux Arcadia, nu?
 Dialogue: 0,0:01:05.92,0:01:10.96,DedzuyaSigns,,0,0,0,,{\an8\pos(980,810)\fax-0.25\fnShuei Mincho\blur0.8\fs90\t(0,150,\c&H000000&)\t(4740,4860,\alpha&HFF&)\t(4640,5040,\c&H817B79&)}P{\alpha&H00&\t(4746,4866,\alpha&HFF&)}O{\alpha&H00&\t(4753,4873,\alpha&HFF&)}V{\alpha&H00&\t(4760,4880,\alpha&HFF&)}E{\alpha&H00&\t(4767,4887,\alpha&HFF&)}S{\alpha&H00&\t(4774,4894,\alpha&HFF&)}T{\alpha&H00&\t(4781,4901,\alpha&HFF&)}E{\alpha&H00&\t(4788,4908,\alpha&HFF&)}A {\alpha&H00&\t(4795,4915,\alpha&HFF&)}N{\alpha&H00&\t(4802,4922,\alpha&HFF&)}E{\alpha&H00&\t(4809,4929,\alpha&HFF&)}Î{\alpha&H00&\t(4816,4936,\alpha&HFF&)}N{\alpha&H00&\t(4823,4943,\alpha&HFF&)}V{\alpha&H00&\t(4830,4950,\alpha&HFF&)}I{\alpha&H00&\t(4836,4956,\alpha&HFF&)}N{\alpha&H00&\t(4843,4963,\alpha&HFF&)}S{\alpha&H00&\t(4850,4970,\alpha&HFF&)}U{\alpha&H00&\t(4857,4977,\alpha&HFF&)}L{\alpha&H00&\t(4864,4984,\alpha&HFF&)}U{\alpha&H00&\t(4871,4991,\alpha&HFF&)}I {\alpha&H00&\t(4878,4998,\alpha&HFF&)}B{\alpha&H00&\t(4885,5005,\alpha&HFF&)}A{\alpha&H00&\t(4892,5012,\alpha&HFF&)}H{\alpha&H00&\t(4899,5019,\alpha&HFF&)}A{\alpha&H00&\t(4906,5026,\alpha&HFF&)}M{\alpha&H00&\t(4913,5033,\alpha&HFF&)}U{\alpha&H00&\t(4920,5040,\alpha&HFF&)}T
 Dialogue: 0,0:02:31.75,0:02:35.00,DedzuyaSigns,,0,0,0,,{\an2\pos(960,380)\fnAR Weibei GB18030\fs86\fsp1\b1\bord2.25\c&H000000&\alpha&H30&\blur1.5\fad(670,0)}episodul 01
 Dialogue: 1,0:02:31.75,0:02:35.00,DedzuyaSigns,,0,0,0,,{\an2\pos(958,378)\fnAR Weibei GB18030\fs86\fsp1\b1\blur0.75\fad(670,0)}episodul 01

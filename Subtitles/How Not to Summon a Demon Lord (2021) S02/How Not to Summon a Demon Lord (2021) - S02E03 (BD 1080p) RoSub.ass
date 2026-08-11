@@ -37,413 +37,413 @@ Style: EpTitle,Un Batang,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.41,0:00:03.48,Dialogue,Batutta,0,0,0,,Brigada Paladinilor
-Dialogue: 100,0:00:03.48,0:00:06.67,Dialogue,Batutta,0,0,0,,este un grup de aventurieri \Npe care l-am organizat
-Dialogue: 100,0:00:06.67,0:00:09.14,Dialogue,Batutta,0,0,0,,ca să protejez preoții \Nîn acest oraș periculos.
-Dialogue: 100,0:00:09.48,0:00:11.24,Dialogue,Batutta,0,0,0,,Dar din cauza greșelilor mele,
-Dialogue: 100,0:00:11.24,0:00:14.61,Dialogue,Batutta,0,0,0,,comportamentul lor violent a rămas.
-Dialogue: 100,0:00:14.94,0:00:19.12,Dialogue,Lumachina,0,0,0,,Atunci, îmi vei promite că le \Nvei îndrepta comportamentul?
-Dialogue: 100,0:00:19.12,0:00:20.65,Dialogue,Batutta,0,0,0,,Desigur.
-Dialogue: 100,0:00:21.72,0:00:22.71,Dialogue,Lumachina,0,0,0,,Apropo,
-Dialogue: 100,0:00:22.71,0:00:26.42,Dialogue,Lumachina,0,0,0,,acest oraș e afectat de o epidemie cunoscută drept Boala Semnelor Morții, nu-i așa?
-Dialogue: 100,0:00:26.42,0:00:28.94,Dialogue,Batutta,0,0,0,,Da, este o boală înfiorătoare.
-Dialogue: 100,0:00:28.94,0:00:29.91,Dialogue,Lumachina,0,0,0,,Boală?
-Dialogue: 100,0:00:30.55,0:00:33.08,Dialogue,Lumachina,0,0,0,,Și tu crezi asta?
-Dialogue: 100,0:00:33.08,0:00:34.80,Dialogue,Batutta,0,0,0,,Poftim?
-Dialogue: 100,0:00:34.80,0:00:37.55,Dialogue,Lumachina,0,0,0,,Ei bine, nu este o boală,
-Dialogue: 100,0:00:37.98,0:00:40.06,Dialogue,Lumachina,0,0,0,,ci un blestem, nu-i așa?
-Dialogue: 100,0:00:41.10,0:00:42.55,Dialogue,Batutta,0,0,0,,Ce te face să crezi asta?
-Dialogue: 100,0:00:43.22,0:00:44.51,Dialogue,Lumachina,0,0,0,,Știam eu.
-Dialogue: 100,0:00:44.51,0:00:47.52,Dialogue,Lumachina,0,0,0,,Când mă rugam pentru acel copilaș,
-Dialogue: 100,0:00:47.52,0:00:49.94,Dialogue,Lumachina,0,0,0,,i-am auzit vocea lui Dumnezeu.
-Dialogue: 100,0:00:49.94,0:00:53.90,Dialogue,Lumachina,0,0,0,,Mi-a spus că un blestem la scară \Nmare a fost aruncat de cineva
-Dialogue: 100,0:00:53.90,0:00:56.20,Dialogue,Lumachina,0,0,0,,ca să pună în pericol viețile \Noamenilor din acest oraș.
-Dialogue: 100,0:00:57.70,0:00:59.95,Dialogue,Lumachina,0,0,0,,Îți sună cunoscut cumva?
-Dialogue: 100,0:01:02.36,0:01:05.00,Dialogue,Batutta,0,0,0,,Vai, vai, speram să nu fi observat.
-Dialogue: 100,0:01:05.00,0:01:06.78,Dialogue,Lumachina,0,0,0,,Paladinule-șef Batutta?!
-Dialogue: 100,0:01:10.39,0:01:11.61,Dialogue,Lumachina,0,0,0,,Ce este...
-Dialogue: 100,0:01:17.24,0:01:18.40,Dialogue,Rem,0,0,0,,Lumachina?!
-Dialogue: 100,0:01:18.81,0:01:20.05,Dialogue,Rem,0,0,0,,Lumachina?!
-Dialogue: 100,0:01:20.72,0:01:22.28,Dialogue,Rem,0,0,0,,Deci tu erai...
-Dialogue: 100,0:01:24.92,0:01:26.11,Dialogue,Rem,0,0,0,,D-{\alpha&HFF&}Diablo...
-Dialogue: 100,0:01:26.11,0:01:28.53,Dialogue,Rem,0,0,0,,D-Dia{\alpha&HFF&}blo...
-Dialogue: 100,0:01:28.53,0:01:29.75,Dialogue,Rem,0,0,0,,D-Diablo...
-Dialogue: 100,0:01:32.15,0:01:35.15,Dialogue,Batutta,0,0,0,,Se pare că somniferul și-a \Nfăcut efectul în sfârșit.
-Dialogue: 100,0:01:35.55,0:01:37.60,Dialogue,Batutta,0,0,0,,Chiar mi-ați irosit timpul.
-Dialogue: 100,0:01:37.60,0:01:38.58,Dialogue,Batutta,0,0,0,,Shiliu!
-Dialogue: 100,0:01:39.06,0:01:39.94,Dialogue,Shiliu,0,0,0,,Da.
-Dialogue: 100,0:03:11.54,0:03:12.83,Dialogue,Shera,0,0,0,,Așa...
-Dialogue: 100,0:03:14.08,0:03:15.68,Dialogue,Shera,0,0,0,,și așa...
-Dialogue: 100,0:03:15.68,0:03:17.13,Dialogue,Shera,0,0,0,,și așa...
-Dialogue: 100,0:03:18.37,0:03:19.63,Dialogue,Shera,0,0,0,,Și gata!
-Dialogue: 100,0:03:19.63,0:03:21.23,Dialogue,Shera,0,0,0,,Cum a fost?
-Dialogue: 100,0:03:21.23,0:03:23.23,Dialogue,Diablo,0,0,0,,Foarte plăcut.
-Dialogue: 100,0:03:25.88,0:03:27.14,Dialogue,Diablo,0,0,0,,Cine-i acolo?!
-Dialogue: 100,0:03:27.14,0:03:28.86,Dialogue,Horn,0,0,0,,S-Stai, stai!
-Dialogue: 100,0:03:28.86,0:03:31.14,Dialogue,Horn,0,0,0,,Sunt eu, domnule!
-Dialogue: 100,0:03:31.68,0:03:32.77,Dialogue,Diablo,0,0,0,,Tu ești...
-Dialogue: 100,0:03:34.15,0:03:38.19,Dialogue,Diablo,0,0,0,,Aventurierii acestui oraș \Nexplorează și casele altor oameni?
-Dialogue: 100,0:03:38.19,0:03:40.40,Dialogue,Horn,0,0,0,,A-Am venit pentru tine!
-Dialogue: 100,0:03:40.94,0:03:43.28,Dialogue,Shera,0,0,0,,Ai niște curry la guriță.
-Dialogue: 100,0:03:44.04,0:03:46.61,Dialogue,Horn,0,0,0,,Rămăseseră niște resturi...
-Dialogue: 100,0:03:46.61,0:03:48.91,Dialogue,Horn,0,0,0,,Oricum, să lăsăm asta! Domnule!
-Dialogue: 100,0:03:53.87,0:03:55.72,Dialogue,Shera,0,0,0,,Diablo, asta este...
-Dialogue: 100,0:03:55.72,0:03:58.13,Dialogue,Horn,0,0,0,,Vezi? Exact cum spuneam!
-Dialogue: 100,0:03:58.13,0:04:01.76,Dialogue,Horn,0,0,0,,Batutta ți-a răpit prietenii!
-Dialogue: 100,0:04:01.76,0:04:05.14,Dialogue,Shera,0,0,0,,Ce ne facem? Chiar nu ar fi \Ntrebuit să avem încredere în el!
-Dialogue: 100,0:04:05.42,0:04:08.01,Dialogue,Diablo,0,0,0,,Nu credeam că ar acționa atât de repede.
-Dialogue: 100,0:04:08.01,0:04:11.85,Dialogue,Diablo,0,0,0,,Iar noi trebuia să ne \Nrefacem puterile, mai întâi.
-Dialogue: 100,0:04:11.85,0:04:13.14,Dialogue,Shera,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:04:13.44,0:04:14.83,Dialogue,Diablo,0,0,0,,Boala Semnelor Morții.
-Dialogue: 100,0:04:14.83,0:04:15.60,Dialogue,Shera,0,0,0,,Poftim?
-Dialogue: 100,0:04:15.60,0:04:18.09,Dialogue,Diablo,0,0,0,,Este un blestem.
-Dialogue: 100,0:04:18.09,0:04:19.40,Dialogue,Both,0,0,0,,Ce?!
-Dialogue: 100,0:04:19.79,0:04:23.94,Dialogue,Diablo,0,0,0,,{\i1}Nu le pot spune că l-am văzut la un eveniment limitat în Cross Reverie.
-Dialogue: 100,0:04:25.40,0:04:26.74,Dialogue,Diablo,0,0,0,,În orice caz, acum,
-Dialogue: 100,0:04:27.28,0:04:29.74,Dialogue,Diablo,0,0,0,,trebuie să le salvăm pe Rem și Lumachina.
-Dialogue: 100,0:04:31.44,0:04:32.59,Dialogue,Diablo,0,0,0,,Să mergem!
-Dialogue: 100,0:04:32.59,0:04:33.46,Dialogue,Shera,0,0,0,,Da!
-Dialogue: 100,0:04:32.59,0:04:33.46,Dialogue,Horn,0,0,0,,{\an8}Am înțeles!
-Dialogue: 100,0:04:43.67,0:04:45.21,Dialogue,Rem,0,0,0,,Ce naiba este asta?
-Dialogue: 100,0:04:45.21,0:04:46.90,Dialogue,Lumachina,0,0,0,,Te-ai trezit?
-Dialogue: 100,0:04:47.40,0:04:48.64,Dialogue,Rem,0,0,0,,Lumachina?!
-Dialogue: 100,0:04:48.64,0:04:51.89,Dialogue,Lumachina,0,0,0,,Eram deja aici când mă trezisem și eu.
-Dialogue: 100,0:04:57.04,0:04:59.74,Dialogue,Rem,0,0,0,,Se pare că suntem undeva sub pământ.
-Dialogue: 100,0:04:59.74,0:05:01.65,Dialogue,Rem,0,0,0,,Și destul de adânc.
-Dialogue: 100,0:05:01.65,0:05:02.90,Dialogue,Lumachina,0,0,0,,Rem...
-Dialogue: 100,0:05:03.38,0:05:07.86,Dialogue,Lumachina,0,0,0,,Apropo, ce fac acei oameni?
-Dialogue: 100,0:05:16.04,0:05:17.29,Dialogue,Rem,0,0,0,,C-C-Ce...
-Dialogue: 100,0:05:17.80,0:05:18.81,Dialogue,Lumachina,0,0,0,,Rem?
-Dialogue: 100,0:05:18.81,0:05:21.21,Dialogue,Rem,0,0,0,,C-C-Cred că fac...
-Dialogue: 100,0:05:21.21,0:05:23.26,Dialogue,Rem,0,0,0,,știi tu ce.
-Dialogue: 100,0:05:23.26,0:05:25.66,Dialogue,Lumachina,0,0,0,,Ce? Ce vrei să spui?
-Dialogue: 100,0:05:25.66,0:05:27.20,Dialogue,Rem,0,0,0,,Ei bine...
-Dialogue: 100,0:05:27.20,0:05:28.80,Dialogue,Batutta,0,0,0,,Voi două!
-Dialogue: 100,0:05:28.80,0:05:32.68,Dialogue,Batutta,0,0,0,,Cum vă simțiți să stați pe \Naltarul ritualului nostru?
-Dialogue: 100,0:05:32.68,0:05:33.80,Dialogue,Rem,0,0,0,,Batutta!
-Dialogue: 100,0:05:33.80,0:05:35.88,Dialogue,Lumachina,0,0,0,,Ce tot spui acolo?!
-Dialogue: 100,0:05:35.88,0:05:38.44,Dialogue,Lumachina,0,0,0,,Acest loc este plin de energie rea.
-Dialogue: 100,0:05:38.44,0:05:40.84,Dialogue,Lumachina,0,0,0,,Un altar atât de respingător \Nnu va fi niciodată...
-Dialogue: 100,0:05:40.84,0:05:42.14,Dialogue,Batutta,0,0,0,,Exact.
-Dialogue: 100,0:05:42.98,0:05:45.59,Dialogue,Batutta,0,0,0,,Ceea ce avem noi aici \Nse numește corupere.
-Dialogue: 100,0:05:46.24,0:05:48.38,Dialogue,Rem,0,0,0,,Ce plănuiești să faci cu noi?
-Dialogue: 100,0:05:48.93,0:05:50.01,Dialogue,Batutta,0,0,0,,Shiliu.
-Dialogue: 100,0:05:50.49,0:05:51.42,Dialogue,Shiliu,0,0,0,,Da.
-Dialogue: 100,0:05:52.15,0:05:53.48,Dialogue,Batutta,0,0,0,,Priviți.
-Dialogue: 100,0:05:53.48,0:05:56.62,Dialogue,Batutta,0,0,0,,Asta este substanța care \Nprovoacă Boala Semnelor Morții.
-Dialogue: 100,0:05:57.71,0:06:01.36,Dialogue,Batutta,0,0,0,,Această substanță poate fi \Nprodusă din esența răului.
-Dialogue: 100,0:06:01.36,0:06:03.59,Dialogue,Batutta,0,0,0,,Este literalmente sursa răului însuși.
-Dialogue: 100,0:06:03.59,0:06:06.84,Dialogue,Batutta,0,0,0,,Acum, cum reușește cineva să \Nobțină această esență a răului?
-Dialogue: 100,0:06:07.92,0:06:10.40,Dialogue,Batutta,0,0,0,,Parcă ar fi niște animale, nu-i așa?
-Dialogue: 100,0:06:10.40,0:06:13.72,Dialogue,Batutta,0,0,0,,Dar cândva erau cu toții \Nniște credincioși devotați.
-Dialogue: 100,0:06:14.10,0:06:15.72,Dialogue,Batutta,0,0,0,,Credința lor era puternică,
-Dialogue: 100,0:06:15.72,0:06:20.60,Dialogue,Batutta,0,0,0,,iar ei erau niște bărbați virtuoși și niște femei pure cu simțul dreptății.
-Dialogue: 100,0:06:20.96,0:06:26.69,Dialogue,Batutta,0,0,0,,Dar este nevoie doar de un mic vânt ca să-i faci pe oameni să cadă în păcat!
-Dialogue: 100,0:06:27.19,0:06:29.88,Dialogue,Batutta,0,0,0,,Curvie, vărsare de sânge, lăcomie...
-Dialogue: 100,0:06:29.88,0:06:33.08,Dialogue,Batutta,0,0,0,,Esența răului este creată atunci \Ncând un om pică în păcat!
-Dialogue: 100,0:06:33.08,0:06:36.83,Dialogue,Rem,0,0,0,,D-Deci îi faci pe oameni să \Npăcătuiască în acest loc?
-Dialogue: 100,0:06:36.83,0:06:38.11,Dialogue,Lumachina,0,0,0,,Asta...
-Dialogue: 100,0:06:38.11,0:06:39.40,Dialogue,Lumachina,0,0,0,,Asta este...
-Dialogue: 100,0:06:40.74,0:06:42.94,Dialogue,Lumachina,0,0,0,,Vai, Doamne...
-Dialogue: 100,0:06:42.94,0:06:46.91,Dialogue,Batutta,0,0,0,,Cercetările mele au arătat că persoanele care pot face miracole mai puternice
-Dialogue: 100,0:06:46.91,0:06:49.47,Dialogue,Batutta,0,0,0,,produc și o esență a răului mai bogată atunci când pică în păcat.
-Dialogue: 100,0:06:49.92,0:06:53.43,Dialogue,Batutta,0,0,0,,Ceea ce înseamnă că ar trebui să producă și o substanță mai concentrată.
-Dialogue: 100,0:06:54.96,0:06:58.06,Dialogue,Lumachina,0,0,0,,Vrei ca mai mulți oameni să fie afectați de Boala Semnelor Morții?!
-Dialogue: 100,0:06:58.06,0:07:00.70,Dialogue,Batutta,0,0,0,,Mai mulți oameni? Greșești.
-Dialogue: 100,0:07:00.70,0:07:02.44,Dialogue,Batutta,0,0,0,,În acest moment, \Ne vorba de o singură persoană.
-Dialogue: 100,0:07:03.06,0:07:06.81,Dialogue,Batutta,0,0,0,,Și anume, lordul acestui oraș, Laminitus.
-Dialogue: 100,0:07:07.65,0:07:09.36,Dialogue,Rem,0,0,0,,Doar pentru asta?
-Dialogue: 100,0:07:09.36,0:07:12.16,Dialogue,Lumachina,0,0,0,,De ce comiți un asemenea păcat?
-Dialogue: 100,0:07:12.57,0:07:15.00,Dialogue,Lumachina,0,0,0,,Am auzit că erai un om nobil.
-Dialogue: 100,0:07:15.96,0:07:18.04,Dialogue,Lumachina,0,0,0,,Ce s-a întâmplat cu tine?
-Dialogue: 100,0:07:18.58,0:07:20.49,Dialogue,Batutta,0,0,0,,Familia mi-a fost ucisă.
-Dialogue: 100,0:07:20.49,0:07:22.75,Dialogue,Batutta,0,0,0,,Am fost trădat de cel mai bun prieten.
-Dialogue: 100,0:07:22.75,0:07:24.54,Dialogue,Batutta,0,0,0,,Am fost amenințat de creaturile demonice.
-Dialogue: 100,0:07:27.10,0:07:33.44,Dialogue,Batutta,0,0,0,,Te-ar satisface o asemenea \Npoveste emoționantă?
-Dialogue: 100,0:07:34.26,0:07:36.08,Dialogue,Batutta,0,0,0,,Nu am un motiv anume.
-Dialogue: 100,0:07:36.08,0:07:38.94,Dialogue,Batutta,0,0,0,,Oamenii sunt doar niște \Nființe lacome și păcătoase.
-Dialogue: 100,0:07:38.94,0:07:39.98,Dialogue,Lumachina,0,0,0,,Dar tu...
-Dialogue: 100,0:07:40.69,0:07:42.33,Dialogue,Batutta,0,0,0,,Abia aștept...
-Dialogue: 100,0:07:42.33,0:07:47.80,Dialogue,Batutta,0,0,0,,s-o privesc pe Preaînalta Preoteasă, cea mai respectată persoană a Bisericii, cum se lasă pradă poftei trupești.
-Dialogue: 100,0:07:49.00,0:07:51.53,Dialogue,Batutta,0,0,0,,Shiliu, las restul în seama ta.
-Dialogue: 100,0:07:51.53,0:07:54.57,Dialogue,Shiliu,0,0,0,,După cum doriți, stăpâne.
-Dialogue: 100,0:07:54.57,0:07:59.16,Dialogue,Shiliu,0,0,0,,Mă ud foarte tare de la gândul că voi corupe o frumusețe așa ca tine.
-Dialogue: 100,0:08:00.08,0:08:05.04,Dialogue,Shiliu,0,0,0,,Curând, mă vei implora \Nsă-ți ofer mai mult.
-Dialogue: 100,0:08:07.24,0:08:08.96,Dialogue,Shiliu,0,0,0,,Acum, îți voi linge...
-Dialogue: 100,0:08:12.93,0:08:14.93,Dialogue,Shiliu,0,0,0,,cele mai ascunse locuri.
-Dialogue: 100,0:08:16.39,0:08:19.59,Dialogue,Lumachina,0,0,0,,Nu!
-Dialogue: 100,0:08:21.43,0:08:24.95,Dialogue,Lumachina,0,0,0,,N-Nu!
-Dialogue: 100,0:08:38.99,0:08:41.29,Dialogue,Shera,0,0,0,,Rem și Lumachina...
-Dialogue: 100,0:08:41.29,0:08:42.38,Dialogue,Shera,0,0,0,,Diablo!
-Dialogue: 100,0:08:42.38,0:08:43.71,Dialogue,Diablo,0,0,0,,Știu.
-Dialogue: 100,0:08:43.71,0:08:49.40,Dialogue,Diablo,0,0,0,,{\i1}În joc, acesta era locul unde te luptai cu monstrul final de la eveniment...
-Dialogue: 100,0:08:49.40,0:08:50.09,Dialogue,Diablo,0,0,0,,{\i1}Hm?
-Dialogue: 100,0:08:50.54,0:08:52.09,Dialogue,Diablo,0,0,0,,{\i1}Lucrurile care se întâmplă acolo jos...
-Dialogue: 100,0:08:53.50,0:08:55.80,Dialogue,Diablo,0,0,0,,{\i1}C-Ce naiba este asta?!
-Dialogue: 100,0:08:55.80,0:09:00.54,Dialogue,Diablo,0,0,0,,{\i1}Cross Reverie nu a avut niciodată \Nscene scoase dintr-un film porno!
-Dialogue: 100,0:09:00.54,0:09:02.18,Dialogue,Batutta,0,0,0,,Știam că vei veni.
-Dialogue: 100,0:09:02.60,0:09:04.03,Dialogue,Batutta,0,0,0,,Diablo te chema, nu-i așa?
-Dialogue: 100,0:09:04.03,0:09:06.36,Dialogue,Batutta,0,0,0,,Sunt impresionat că ai găsit acest loc.
-Dialogue: 100,0:09:07.67,0:09:09.31,Dialogue,Diablo,0,0,0,,A fost floare la ureche.
-Dialogue: 100,0:09:09.64,0:09:14.32,Dialogue,Diablo,0,0,0,,Subordonații tăi din Brigada Paladinilor mi-au fost de mare ajutor.
-Dialogue: 100,0:09:15.04,0:09:17.28,Dialogue,Diablo,0,0,0,,Mi-au spus imediat cum i-am întrebat.
-Dialogue: 100,0:09:20.40,0:09:21.58,Dialogue,Diablo,0,0,0,,Batutta,
-Dialogue: 100,0:09:21.58,0:09:23.60,Dialogue,Diablo,0,0,0,,ce naiba este acest loc?
-Dialogue: 100,0:09:23.60,0:09:27.71,Dialogue,Batutta,0,0,0,,Nu-ți poți da seama și singur, din moment ce ești un vrăjitor de primă clasă?
-Dialogue: 100,0:09:29.04,0:09:32.96,Dialogue,Diablo,0,0,0,,{\i1}Nu am fost de primă clasă niciodată la nimic. \NEram doar un antisocial obsedat de jocuri video.
-Dialogue: 100,0:09:33.65,0:09:37.10,Dialogue,Diablo,0,0,0,,Tu ești cel care a aruncat blestemul Bolii Semnelor Morții, nu-i așa?
-Dialogue: 100,0:09:37.10,0:09:40.47,Dialogue,Batutta,0,0,0,,Oh? Ai auzit asta de la Lumachina?
-Dialogue: 100,0:09:40.88,0:09:43.22,Dialogue,Diablo,0,0,0,,Vrei să spui că și ea \Nși-a dat seama de asta?
-Dialogue: 100,0:09:43.22,0:09:45.27,Dialogue,Batutta,0,0,0,,Hm? Deci nu ai auzit de la ea?
-Dialogue: 100,0:09:45.72,0:09:47.87,Dialogue,Diablo,0,0,0,,Cine mă crezi?
-Dialogue: 100,0:09:47.87,0:09:50.15,Dialogue,Diablo,0,0,0,,Eu sunt Diablo, Lordul Demon \Nvenit dintr-o altă lume!
-Dialogue: 100,0:09:50.72,0:09:52.96,Dialogue,Batutta,0,0,0,,Cât de absurd.
-Dialogue: 100,0:09:52.96,0:09:55.78,Dialogue,Diablo,0,0,0,,{\i1}Se pare că nimeni nu vrea să mă creadă...
-Dialogue: 100,0:09:55.95,0:09:55.99,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&HB7ADA4&\4c&HA4A4A4&\1a&HBF&\3a&HBF&\4a&HEC&}Ura!
-Dialogue: 100,0:09:55.99,0:09:56.03,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&H8C7D6F&\4c&H6E6E6E&\1a&H8C&\3a&H8C&\4a&HDD&}Ura!
-Dialogue: 100,0:09:56.03,0:09:56.07,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&H634E3B&\4c&H3A3A3A&\1a&H59&\3a&H59&\4a&HCE&}Ura!
-Dialogue: 100,0:09:56.07,0:09:56.11,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&H391E06&\4c&H050505&\1a&H26&\3a&H26&\4a&HBF&}Ura!
-Dialogue: 100,0:09:56.11,0:09:56.15,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)}Ura!
-Dialogue: 100,0:09:56.15,0:09:56.40,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(669.03,288.88)}Ura!
-Dialogue: 100,0:09:56.40,0:09:56.65,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1066.97,288.85)}Ura!
-Dialogue: 100,0:09:56.65,0:09:56.91,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1465.03,288.9)}Ura!
-Dialogue: 100,0:09:56.91,0:09:57.16,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1863.01,288.93)}Ura!
-Dialogue: 100,0:09:57.66,0:09:57.91,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1782.29,174.77)}Ura!
-Dialogue: 100,0:09:57.91,0:09:58.16,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1428.15,174.79)}Ura!
-Dialogue: 100,0:09:58.16,0:09:58.41,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1074.21,174.67)\iclip(m 1001.85 151.02 l 1022.78 150.36 1012.32 159.52)}Ura!
-Dialogue: 100,0:09:58.41,0:09:58.66,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(719.21,174.67)}Ura!
-Dialogue: 100,0:09:58.66,0:09:58.91,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(365.17,174.62)}Ura!
-Dialogue: 100,0:09:58.91,0:09:59.16,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(10.9,174.72)}Ura!
-Dialogue: 100,0:09:59.41,0:09:59.65,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)}Ura!
-Dialogue: 100,0:09:59.65,0:09:59.90,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(669.03,288.88)}Ura!
-Dialogue: 100,0:09:59.90,0:10:00.15,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1066.97,288.85)}Ura!
-Dialogue: 100,0:10:00.15,0:10:00.41,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1465.03,288.9)}Ura!
-Dialogue: 100,0:10:00.41,0:10:00.66,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1863.01,288.93)}Ura!
-Dialogue: 100,0:09:55.95,0:09:55.99,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&HB7ADA4&\4c&HA4A4A4&\1a&HBF&\3a&HBF&\4a&HEC&}Ura!
-Dialogue: 100,0:09:55.99,0:09:56.03,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&H8C7D6F&\4c&H6E6E6E&\1a&H8C&\3a&H8C&\4a&HDD&}Ura!
-Dialogue: 100,0:09:56.03,0:09:56.07,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&H634E3B&\4c&H3A3A3A&\1a&H59&\3a&H59&\4a&HCE&}Ura!
-Dialogue: 100,0:09:56.07,0:09:56.11,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&H391E06&\4c&H050505&\1a&H26&\3a&H26&\4a&HBF&}Ura!
-Dialogue: 100,0:09:56.11,0:09:56.15,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)}Ura!
-Dialogue: 100,0:09:56.15,0:09:56.40,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1470.26,246.88)}Ura!
-Dialogue: 100,0:09:56.40,0:09:56.65,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1117.27,246.85)\iclip(m 1100 173.33 b 1086.16 186.83 1083.83 203.17 1090.62 221.18 l 1082 223.33 b 1078.5 214 1074.17 205.33 1062.67 196.67 l 1072 186.67 b 1048.5 186.83 1043.5 169.17 1034 163.33 l 1028.67 232 1124.67 271.33 b 1139.34 223.5 1095.34 207.82 1100.67 173.33)}Ura!
-Dialogue: 100,0:09:56.65,0:09:56.91,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(762.27,246.85)\iclip(m 810.27 242.53 b 814.95 227.44 820.44 219.44 828.27 210.13 l 852.27 216.53)}Ura!
-Dialogue: 100,0:09:56.91,0:09:57.16,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(406.77,246.84)}Ura!
-Dialogue: 100,0:09:57.16,0:09:57.41,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(43.36,246.88)}Ura!
-Dialogue: 100,0:09:57.66,0:09:57.91,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(219.43,362.28)}Ura!
-Dialogue: 100,0:09:57.91,0:09:58.16,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(623.43,362.27)}Ura!
-Dialogue: 100,0:09:58.16,0:09:58.41,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1017.11,362.25)}Ura!
-Dialogue: 100,0:09:58.41,0:09:58.66,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1423.7,362.27)}Ura!
-Dialogue: 100,0:09:58.66,0:09:58.91,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1807.17,362.31)}Ura!
-Dialogue: 100,0:09:59.41,0:09:59.65,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)}Ura!
-Dialogue: 100,0:09:59.65,0:09:59.90,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1470.26,246.88)}Ura!
-Dialogue: 100,0:09:59.90,0:10:00.15,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1117.27,246.85)\iclip(m 1100 173.33 b 1086.16 186.83 1083.83 203.17 1090.62 221.18 l 1082 223.33 b 1078.5 214 1074.17 205.33 1062.67 196.67 l 1072 186.67 b 1048.5 186.83 1043.5 169.17 1034 163.33 l 1028.67 232 1124.67 271.33 b 1139.34 223.5 1095.34 207.82 1100.67 173.33)}Ura!
-Dialogue: 100,0:10:00.15,0:10:00.41,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(762.27,246.85)\iclip(m 810.27 242.53 b 814.95 227.44 820.44 219.44 828.27 210.13 l 852.27 216.53)}Ura!
-Dialogue: 100,0:10:00.41,0:10:00.66,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(406.77,246.84)}Ura!
-Dialogue: 100,0:10:00.66,0:10:00.75,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(43.36,246.88)}Ura!
-Dialogue: 100,0:09:56.22,0:10:00.74,Dialogue,Diablo,0,0,0,,{\i1}Deși, Rem și Shera m-au crezut atât de ușor.
-Dialogue: 100,0:10:02.00,0:10:06.20,Dialogue,Diablo,0,0,0,,Ai aflat de blestemul Bolii Semnelor Morții de la creaturile demonice, nu-i așa?
-Dialogue: 100,0:10:06.20,0:10:08.21,Dialogue,Batutta,0,0,0,,Cum ți-ai dat seama...
-Dialogue: 100,0:10:08.71,0:10:10.08,Dialogue,Diablo,0,0,0,,Evrica!
-Dialogue: 100,0:10:10.08,0:10:14.55,Dialogue,Diablo,0,0,0,,Știu asta deoarece blestemul fusese aruncat aici de creaturile demonice.
-Dialogue: 100,0:10:14.55,0:10:17.00,Dialogue,Diablo,0,0,0,,Ți-am spus că sunt Lordul Demon, nu-i așa?
-Dialogue: 100,0:10:17.00,0:10:19.58,Dialogue,Diablo,0,0,0,,Acum, eliberează-le pe fete.
-Dialogue: 100,0:10:20.26,0:10:21.96,Dialogue,Batutta,0,0,0,,Ești deștept
-Dialogue: 100,0:10:21.96,0:10:24.68,Dialogue,Batutta,0,0,0,,și incredibil de puternic,
-Dialogue: 100,0:10:24.68,0:10:27.80,Dialogue,Batutta,0,0,0,,dar ce fel de vrăji ai putea folosi aici?
-Dialogue: 100,0:10:28.81,0:10:32.16,Dialogue,Batutta,0,0,0,,Oare ești destul de priceput \Nîncât să lupți pe scări?
-Dialogue: 100,0:10:32.16,0:10:35.48,Dialogue,Batutta,0,0,0,,De câte ori te vei putea feri de \Nloviturile mele pe aceste scări?
-Dialogue: 100,0:10:36.14,0:10:39.21,Dialogue,Diablo,0,0,0,,Tu ești cel care se va chinui să \Nse ferească de atacurile mele!
-Dialogue: 100,0:10:39.82,0:10:41.69,Dialogue,Diablo,0,0,0,,Explozie!
-Dialogue: 100,0:10:47.41,0:10:49.24,Dialogue,Both,0,0,0,,L-ai prins!
-Dialogue: 100,0:10:52.96,0:10:53.99,Dialogue,Diablo,0,0,0,,Ce este asta?!
-Dialogue: 100,0:11:00.07,0:11:03.10,Dialogue,Batutta,0,0,0,,Ei bine, este un loc periculos, nu-i așa?
-Dialogue: 100,0:11:03.10,0:11:06.64,Dialogue,Batutta,0,0,0,,Dacă explozia atacului tău \Ndărâmă pereții sau tavanul,
-Dialogue: 100,0:11:06.64,0:11:11.45,Dialogue,Batutta,0,0,0,,oare ce se va întâmpla cu prietenii tăi?
-Dialogue: 100,0:11:11.45,0:11:12.73,Dialogue,Diablo,0,0,0,,Nemernicule...
-Dialogue: 100,0:11:13.75,0:11:15.18,Dialogue,Diablo,0,0,0,,{\i1}Are dreptate, tot acest loc este șubred.
-Dialogue: 100,0:11:15.18,0:11:16.92,Dialogue,Diablo,0,0,0,,{\i1}Nu-mi permit să fiu neatent.
-Dialogue: 100,0:11:16.92,0:11:19.61,Dialogue,Diablo,0,0,0,,{\i1}Iar mișcările sale sunt rapide.
-Dialogue: 100,0:11:19.61,0:11:21.61,Dialogue,Diablo,0,0,0,,{\i1}S-a ferit instant de atacul meu?
-Dialogue: 100,0:11:22.18,0:11:24.01,Dialogue,Diablo,0,0,0,,{\i1}Ca să-l lovesc la viteza cu care se mișcă,
-Dialogue: 100,0:11:24.01,0:11:26.54,Dialogue,Diablo,0,0,0,,{\i1}am nevoie de o vrajă cu o \Nzonă mai mare de acțiune.
-Dialogue: 100,0:11:26.54,0:11:28.09,Dialogue,Batutta,0,0,0,,Nu ai de gând să mă ataci?
-Dialogue: 100,0:11:28.09,0:11:31.77,Dialogue,Batutta,0,0,0,,Atunci, o voi face eu!
-Dialogue: 100,0:11:31.77,0:11:33.67,Dialogue,Diablo,0,0,0,,{\i1}Ce nivel de magie ar trebui să folosesc?!
-Dialogue: 100,0:11:34.54,0:11:37.84,Dialogue,Batutta,0,0,0,,Ai ezitat, începătorule!
-Dialogue: 100,0:11:38.17,0:11:39.13,Dialogue,Diablo,0,0,0,,{\i1}Este rapid!
-Dialogue: 100,0:11:49.27,0:11:51.27,Dialogue,Shera,0,0,0,,D-Diablo!
-Dialogue: 100,0:11:52.56,0:11:54.90,Dialogue,Diablo,0,0,0,,Ești destul de bun, Batutta.
-Dialogue: 100,0:11:54.90,0:11:56.10,Dialogue,Batutta,0,0,0,,Oh...
-Dialogue: 100,0:11:57.57,0:12:00.27,Dialogue,Batutta,0,0,0,,Ai venit aici mult prea \Nîncrezător în abilitățile tale,
-Dialogue: 100,0:12:00.27,0:12:03.82,Dialogue,Batutta,0,0,0,,fără să te gândești că nu ți-ai \Nputea folosi magia pe deplin.
-Dialogue: 100,0:12:04.32,0:12:08.33,Dialogue,Batutta,0,0,0,,Poate crezi că ai reușit \Nsă descoperi acest loc,
-Dialogue: 100,0:12:08.33,0:12:11.04,Dialogue,Batutta,0,0,0,,dar era, de fapt, o capcană \Npentru a te ademeni aici!
-Dialogue: 100,0:12:11.04,0:12:12.70,Dialogue,Diablo,0,0,0,,{\i1}Doare foarte tare...
-Dialogue: 100,0:12:12.70,0:12:14.06,Dialogue,Diablo,0,0,0,,{\i1}La naiba!
-Dialogue: 100,0:12:14.74,0:12:16.44,Dialogue,Diablo,0,0,0,,Nu subestima un Lord Demon.
-Dialogue: 100,0:12:16.44,0:12:18.55,Dialogue,Diablo,0,0,0,,Atunci, ce spui de asta?
-Dialogue: 100,0:12:18.55,0:12:20.55,Dialogue,Diablo,0,0,0,,Sfera Fulgerelor!
-Dialogue: 100,0:12:22.21,0:12:24.83,Dialogue,Diablo,0,0,0,,{\i1}Această vrajă afectează doar ținta ei,
-Dialogue: 100,0:12:24.83,0:12:27.30,Dialogue,Diablo,0,0,0,,{\i1}fără să distrugă împrejurimile.
-Dialogue: 100,0:12:27.30,0:12:29.15,Dialogue,Diablo,0,0,0,,{\i1}Acum, Batutta,
-Dialogue: 100,0:12:29.15,0:12:30.98,Dialogue,Diablo,0,0,0,,{\i1}încearcă să scapi de asta!
-Dialogue: 100,0:12:31.52,0:12:36.02,Dialogue,Diablo,0,0,0,,{\i1}Am pus pe perete niște Mine de \NPământ care îl vor arunca în spate!
-Dialogue: 100,0:12:37.61,0:12:40.02,Dialogue,Diablo,0,0,0,,{\i1}Ce s-a întâmplat? Nu mă va ataca?
-Dialogue: 100,0:12:40.57,0:12:43.67,Dialogue,Batutta,0,0,0,,E o joacă de copil să-mi \Ndai seama ce plănuiești.
-Dialogue: 100,0:12:55.56,0:12:56.73,Dialogue,Diablo,0,0,0,,{\i1}Nu se poate...
-Dialogue: 100,0:12:57.54,0:13:00.59,Dialogue,Batutta,0,0,0,,Ai pierdut!
-Dialogue: 100,0:13:01.17,0:13:03.42,Dialogue,Diablo,0,0,0,,{\i1}Arta marțială numită Ridicarea Lancei?
-Dialogue: 100,0:13:06.52,0:13:08.47,Dialogue,Diablo,0,0,0,,{\i1}Nu e bine! Nu mă voi putea feri!
-Dialogue: 100,0:13:08.89,0:13:09.97,Dialogue,Diablo,0,0,0,,{\i1}Atunci...
-Dialogue: 100,0:13:16.56,0:13:20.15,Dialogue,Diablo,0,0,0,,{\i1}Mi-a străpuns inima?!
-Dialogue: 100,0:13:20.90,0:13:22.07,Dialogue,Diablo,0,0,0,,{\i1}Voi...
-Dialogue: 100,0:13:22.07,0:13:27.22,Dialogue,Shera,0,0,0,,Diablo... N-Nu!
-Dialogue: 100,0:13:28.87,0:13:30.15,Dialogue,Diablo,0,0,0,,{\i1}...muri.
-Dialogue: 100,0:13:35.16,0:13:38.08,Dialogue,Batutta,0,0,0,,Am câștigat.
-Dialogue: 100,0:13:42.55,0:13:47.30,Dialogue,Batutta,0,0,0,,Mereu fac pregătiri temeinice și-mi ademenesc inamicii puternici în strategiile mele
-Dialogue: 100,0:13:47.30,0:13:50.71,Dialogue,Batutta,0,0,0,,ca să fiu sigur că-i pot învinge \Ndintr-o poziție avantajoasă!
-Dialogue: 100,0:13:51.76,0:13:54.25,Dialogue,Shera,0,0,0,,Diablo! Diablo!
-Dialogue: 100,0:13:54.72,0:13:56.94,Dialogue,Rem,0,0,0,,D-Diablo?
-Dialogue: 100,0:14:03.35,0:14:04.73,Dialogue,Diablo,0,0,0,,Te-am prins.
-Dialogue: 100,0:14:06.70,0:14:08.86,Dialogue,Batutta,0,0,0,,C-Cum de încă ești în viață?!
-Dialogue: 100,0:14:10.70,0:14:16.33,Dialogue,Diablo,0,0,0,,Această vrajă nu poate fi \Nfolosită fără să-ți atingi ținta.
-Dialogue: 100,0:14:18.05,0:14:20.25,Dialogue,Diablo,0,0,0,,Zero Absolut!
-Dialogue: 100,0:14:21.46,0:14:24.06,Dialogue,Diablo,0,0,0,,Devino o statuie de gheață!
-Dialogue: 100,0:14:36.05,0:14:37.54,Dialogue,Batutta,0,0,0,,Nemernicule...
-Dialogue: 100,0:14:38.18,0:14:39.35,Dialogue,Diablo,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:14:39.66,0:14:42.61,Dialogue,Diablo,0,0,0,,Pierderea armei și a mâinii stângi nu făceau parte din strategia ta?
-Dialogue: 100,0:14:44.05,0:14:45.82,Dialogue,Diablo,0,0,0,,{\i1}Doare ca naiba!
-Dialogue: 100,0:14:45.82,0:14:47.42,Dialogue,Diablo,0,0,0,,{\i1}Chiar credeam că voi muri!
-Dialogue: 100,0:14:47.42,0:14:49.74,Dialogue,Diablo,0,0,0,,{\i1}Dacă eram singur, \Naș fi început să plâng și să urlu!
-Dialogue: 100,0:14:50.25,0:14:53.23,Dialogue,Diablo,0,0,0,,{\i1}Pelerina de pe mine, \NCortina Norilor Întunecați,
-Dialogue: 100,0:14:53.23,0:14:56.50,Dialogue,Diablo,0,0,0,,{\i1}îmi permite să supraviețuiesc oricărui atac cu un singur punct de viață rămas.
-Dialogue: 100,0:14:57.14,0:14:59.15,Dialogue,Diablo,0,0,0,,{\i1}Nu credeam că va veni \Nmomentul când îmi fi de folos.
-Dialogue: 100,0:14:59.15,0:15:03.00,Dialogue,Diablo,0,0,0,,{\i1}Și mi s-a activat și regenerarea \Nautomată a Coroanei Deformate.
-Dialogue: 100,0:15:03.00,0:15:05.96,Dialogue,Batutta,0,0,0,,V-Vrei să spui că ești nemuritor?
-Dialogue: 100,0:15:06.88,0:15:08.32,Dialogue,Batutta,0,0,0,,Asta e imposibil!
-Dialogue: 100,0:15:08.32,0:15:09.47,Dialogue,Batutta,0,0,0,,Shiliu!
-Dialogue: 100,0:15:09.47,0:15:11.72,Dialogue,Shiliu,0,0,0,,Da, stăpâne.
-Dialogue: 100,0:15:15.56,0:15:20.06,Dialogue,Shiliu,0,0,0,,Se pare că strategia dumneavoastră a triumfat, în cele din urmă, stăpâne.
-Dialogue: 100,0:15:20.06,0:15:21.31,Dialogue,Shera,0,0,0,,Rem!
-Dialogue: 100,0:15:21.31,0:15:22.48,Dialogue,Rem,0,0,0,,Diablo!
-Dialogue: 100,0:15:22.48,0:15:25.27,Dialogue,Rem,0,0,0,,Nu-ți face griji pentru mine! Luptă!
-Dialogue: 100,0:15:26.56,0:15:27.90,Dialogue,Diablo,0,0,0,,Nemernicule...
-Dialogue: 100,0:15:28.32,0:15:29.53,Dialogue,Diablo,0,0,0,,Te voi ucide!
-Dialogue: 100,0:15:30.55,0:15:31.83,Dialogue,Diablo,0,0,0,,{\i1}Ce ar trebui să fac?
-Dialogue: 100,0:15:40.74,0:15:43.33,Dialogue,Shera,0,0,0,,Cum ți s-a părut Lovitura Îngerului?
-Dialogue: 100,0:15:43.33,0:15:45.62,Dialogue,Diablo,0,0,0,,Bună treabă, Shera!
-Dialogue: 100,0:15:55.09,0:15:56.44,Dialogue,Shera,0,0,0,,Ce? Ce?
-Dialogue: 100,0:15:56.44,0:15:58.36,Dialogue,Shera,0,0,0,,S-a transformat în piatră?
-Dialogue: 100,0:15:58.36,0:15:59.47,Dialogue,Diablo,0,0,0,,Ce?
-Dialogue: 100,0:15:59.47,0:16:01.73,Dialogue,Diablo,0,0,0,,Este cumva un efect al magiei lui Klem?
-Dialogue: 100,0:16:01.73,0:16:05.69,Dialogue,Shera,0,0,0,,K-Klem, asta este mult prea înfricoșător!
-Dialogue: 100,0:16:05.69,0:16:07.52,Dialogue,Batutta,0,0,0,,Sh-Shiliu...
-Dialogue: 100,0:16:07.52,0:16:08.52,Dialogue,Rem,0,0,0,,Shera!
-Dialogue: 100,0:16:08.52,0:16:10.15,Dialogue,Horn,0,0,0,,Ești bine?
-Dialogue: 100,0:16:10.52,0:16:11.69,Dialogue,Rem,0,0,0,,Tu ești...
-Dialogue: 100,0:16:12.71,0:16:15.18,Dialogue,Horn,0,0,0,,Voiam să-i demonstrez
-Dialogue: 100,0:16:15.94,0:16:17.95,Dialogue,Horn,0,0,0,,că și eu pot fi utilă.
-Dialogue: 100,0:16:17.95,0:16:19.21,Dialogue,Diablo,0,0,0,,{\i1}Horn...
-Dialogue: 100,0:16:21.12,0:16:23.98,Dialogue,Diablo,0,0,0,,Ce vei face acum, Batutta?
-Dialogue: 100,0:16:26.29,0:16:27.44,Dialogue,Diablo,0,0,0,,{\i1}Bun.
-Dialogue: 100,0:16:27.44,0:16:28.92,Dialogue,Diablo,0,0,0,,{\i1}Se pare că am reușit să câștigăm cumva.
-Dialogue: 100,0:16:31.26,0:16:35.45,Dialogue,Batutta,0,0,0,,Vă veți scufunda cu toții \Nîn marea disperării.
-Dialogue: 100,0:16:35.45,0:16:36.39,Dialogue,Diablo,0,0,0,,Ce?
-Dialogue: 100,0:16:36.39,0:16:41.85,Dialogue,Batutta,0,0,0,,Totuși, mare păcat că nu voi reuși \Nsă vă văd fețele pline de suferință!
-Dialogue: 100,0:16:42.60,0:16:44.44,Dialogue,Diablo,0,0,0,,{\i1}Încă mai vrea să lupte?
-Dialogue: 100,0:16:46.81,0:16:50.69,Dialogue,Batutta,0,0,0,,Lovitura Strălucitoare!
-Dialogue: 100,0:16:50.69,0:16:53.58,Dialogue,Diablo,0,0,0,,Tunul Întunericului!
-Dialogue: 100,0:17:06.42,0:17:08.42,Dialogue,Shera,0,0,0,,Diablo!
-Dialogue: 100,0:17:13.42,0:17:14.84,Dialogue,Diablo,0,0,0,,Este inutil!
-Dialogue: 100,0:17:14.84,0:17:18.89,Dialogue,Diablo,0,0,0,,Eu sunt Diablo, Lordul Demon \Nvenit dintr-o altă lume!
-Dialogue: 100,0:17:32.44,0:17:34.46,Dialogue,Shera,0,0,0,,Diablo!
-Dialogue: 100,0:17:35.72,0:17:36.70,Dialogue,Diablo,0,0,0,,Shera?!
-Dialogue: 100,0:17:36.70,0:17:38.33,Dialogue,Diablo,0,0,0,,De ce ai venit aici jos?!
-Dialogue: 100,0:17:38.33,0:17:40.01,Dialogue,Diablo,0,0,0,,Acest loc este pe cale să se prăbușească!
-Dialogue: 100,0:17:40.01,0:17:42.70,Dialogue,Shera,0,0,0,,Da, de asta trebuie să \Nieșim de aici și repede!
-Dialogue: 100,0:17:42.70,0:17:44.39,Dialogue,Shera,0,0,0,,Împreună cu ceilalți!
-Dialogue: 100,0:17:48.53,0:17:50.86,Dialogue,Diablo,0,0,0,,{\i1}Ar fi putut scăpa de una singură.
-Dialogue: 100,0:17:52.97,0:17:54.02,Dialogue,Diablo,0,0,0,,{\i1}Doamne...
-Dialogue: 100,0:18:01.60,0:18:03.46,Dialogue,Diablo,0,0,0,,Ține-te bine.
-Dialogue: 100,0:18:03.46,0:18:04.31,Dialogue,Shera,0,0,0,,Ce?
-Dialogue: 100,0:18:14.88,0:18:16.69,Dialogue,Laminitus,0,0,0,,Cine ești?!
-Dialogue: 100,0:18:17.38,0:18:19.79,Dialogue,Varakness,0,0,0,,Scuză-mă că-ți întrerup baia.
-Dialogue: 100,0:18:19.79,0:18:25.54,Dialogue,Varakness,0,0,0,,Eu sunt Varakness, cel ales drept marele general al armatei Lordului Demon.
-Dialogue: 100,0:18:25.54,0:18:27.18,Dialogue,Varakness,0,0,0,,Lordul Demon...
-Dialogue: 100,0:18:27.18,0:18:29.63,Dialogue,Varakness,0,0,0,,Maiestatea Sa s-a trezit,
-Dialogue: 100,0:18:29.63,0:18:32.50,Dialogue,Varakness,0,0,0,,deci am venit să te sfătuiesc să te predai.
-Dialogue: 100,0:18:32.50,0:18:34.04,Dialogue,Laminitus,0,0,0,,Să mă predau?
-Dialogue: 100,0:18:34.04,0:18:36.97,Dialogue,Laminitus,0,0,0,,Lordul Demon plănuiește să domnească peste oamenii acestui oraș?
-Dialogue: 100,0:18:36.97,0:18:40.80,Dialogue,Varakness,0,0,0,,Domnia Lordului Demon este \Nuna dreaptă și milostivă.
-Dialogue: 100,0:18:42.14,0:18:45.52,Dialogue,Varakness,0,0,0,,Va pune toate rasele \Nmuritoare să se sinucidă.
-Dialogue: 100,0:18:46.03,0:18:51.42,Dialogue,Varakness,0,0,0,,Asta este mult mai îngăduitor decât să le lase să fie devorate de monștri.
-Dialogue: 100,0:18:51.42,0:18:53.05,Dialogue,Varakness,0,0,0,,Ce părere ai?
-Dialogue: 100,0:18:53.73,0:18:55.11,Dialogue,Laminitus,0,0,0,,Răspunsul meu este...
-Dialogue: 100,0:18:56.28,0:18:57.74,Dialogue,Laminitus,0,0,0,,Ești un idiot!
-Dialogue: 100,0:19:01.09,0:19:02.97,Dialogue,Varakness,0,0,0,,Asta e minunat!
-Dialogue: 100,0:19:02.97,0:19:06.70,Dialogue,Varakness,0,0,0,,Iubesc femeile puternice.
-Dialogue: 100,0:19:06.70,0:19:08.54,Dialogue,Laminitus,0,0,0,,Nu mă subestima!
-Dialogue: 100,0:19:13.04,0:19:14.96,Dialogue,Varakness,0,0,0,,Fanis Laminitus,
-Dialogue: 100,0:19:14.96,0:19:16.80,Dialogue,Varakness,0,0,0,,nu te voi ucide.
-Dialogue: 100,0:19:16.80,0:19:20.01,Dialogue,Varakness,0,0,0,,Vei fi o piesă foarte drăguță \Npentru haremul meu.
-Dialogue: 100,0:19:20.01,0:19:21.71,Dialogue,Laminitus,0,0,0,,Haremul tău?
-Dialogue: 100,0:19:21.71,0:19:25.14,Dialogue,Varakness,0,0,0,,Voi veni să te iau în următoarea \Nnoapte cu lună plină.
-Dialogue: 100,0:19:25.14,0:19:29.10,Dialogue,Varakness,0,0,0,,Asigură-te că-ți porți \Nrochia de mireasă, Fanis.
-Dialogue: 100,0:19:30.92,0:19:34.06,Dialogue,Laminitus,0,0,0,,Nu-mi folosi prenumele așa de ușor!
-Dialogue: 100,0:19:34.06,0:19:35.48,Dialogue,Laminitus,0,0,0,,Acel nemernic!
-Dialogue: 100,0:19:38.11,0:19:40.26,Dialogue,Laminitus,0,0,0,,Următoarea noapte cu lună plină...
-Dialogue: 100,0:19:45.49,0:19:47.23,Dialogue,Horn,0,0,0,,Plutim.
-Dialogue: 100,0:19:47.23,0:19:49.70,Dialogue,Horn,0,0,0,,Chiar plutim.
-Dialogue: 100,0:19:49.70,0:19:55.35,Dialogue,Rem,0,0,0,,Diablo, mereu ne întreci \Nașteptările cu atâta ușurință.
-Dialogue: 100,0:19:56.29,0:19:59.42,Dialogue,Shera,0,0,0,,Dar chiar a fost periculos de data asta!
-Dialogue: 100,0:20:00.21,0:20:01.05,Dialogue,Diablo,0,0,0,,{\i1}Așa este.
-Dialogue: 100,0:20:01.69,0:20:03.24,Dialogue,Rem,0,0,0,,Diablo!
-Dialogue: 100,0:20:03.24,0:20:04.35,Dialogue,Lumachina,0,0,0,,Diablo!
-Dialogue: 100,0:20:05.41,0:20:06.97,Dialogue,Diablo,0,0,0,,Stați aproape de mine!
-Dialogue: 100,0:20:11.39,0:20:14.52,Dialogue,Diablo,0,0,0,,Schimbă-ți poziția așa cum îți comand!
-Dialogue: 100,0:20:15.99,0:20:17.26,Dialogue,Diablo,0,0,0,,Adzet!
-Dialogue: 100,0:20:18.94,0:20:21.47,Dialogue,Diablo,0,0,0,,Ridică-te!
-Dialogue: 100,0:20:28.19,0:20:29.92,Dialogue,Diablo,0,0,0,,{\i1}A fost cât pe ce.
-Dialogue: 100,0:20:29.92,0:20:31.16,Dialogue,Rem,0,0,0,,Lumachina?
-Dialogue: 100,0:20:31.16,0:20:32.75,Dialogue,Shera,0,0,0,,L-Lumachina?!
-Dialogue: 100,0:20:32.75,0:20:34.92,Dialogue,Shera,0,0,0,,Rezistă, Lumachina!
-Dialogue: 100,0:20:34.92,0:20:38.12,Dialogue,Rem,0,0,0,,Ce s-a întâmplat? Ești bine?!
-Dialogue: 100,0:20:40.48,0:20:42.01,Dialogue,Diablo,0,0,0,,Asta este Boala Semnelor Morții!
-Dialogue: 100,0:20:42.01,0:20:43.68,Dialogue,Rem,0,0,0,,C-Cum?!
-Dialogue: 100,0:20:43.68,0:20:45.59,Dialogue,Shera,0,0,0,,De ce?!
-Dialogue: 100,0:20:48.82,0:20:52.56,Dialogue,Batutta,0,0,0,,Vă veți scufunda cu toții \Nîn marea disperării.
-Dialogue: 100,0:20:54.10,0:20:57.37,Dialogue,Diablo,0,0,0,,{\i1}Pusese deja blestemul pe Lumachina?!
-Dialogue: 100,0:20:57.77,0:20:59.74,Dialogue,Shera,0,0,0,,Știu, Lumachina!
-Dialogue: 100,0:20:59.74,0:21:02.22,Dialogue,Shera,0,0,0,,Doar roagă-te ca să te vindeci exact cum ai făcut pentru acel bebeluș!
-Dialogue: 100,0:21:02.22,0:21:03.00,Dialogue,Diablo,0,0,0,,Asta e imposibil.
-Dialogue: 100,0:21:03.40,0:21:06.87,Dialogue,Diablo,0,0,0,,Miracolele lui Lumachina nu \Nfuncționează pe ea însăși.
-Dialogue: 100,0:21:07.92,0:21:11.54,Dialogue,Lumachina,0,0,0,,Nu pot folosi puterea \Nmiracolelor pe corpul meu.
-Dialogue: 100,0:21:12.29,0:21:13.74,Dialogue,Shera,0,0,0,,Nu se poate...
-Dialogue: 100,0:21:14.58,0:21:16.97,Dialogue,Shera,0,0,0,,Nu! Lumachina!
-Dialogue: 100,0:21:17.70,0:21:19.42,Dialogue,Lumachina,0,0,0,,Nu plânge, te rog.
-Dialogue: 100,0:21:20.23,0:21:24.81,Dialogue,Lumachina,0,0,0,,Sunt sigură că și asta face \Nparte din planul Domnului.
-Dialogue: 100,0:21:24.81,0:21:25.88,Dialogue,Diablo,0,0,0,,Așa este.
-Dialogue: 100,0:21:26.55,0:21:27.84,Dialogue,Rem,0,0,0,,Diablo!
-Dialogue: 100,0:21:27.84,0:21:29.55,Dialogue,Horn,0,0,0,,Domnule, asta este mult prea...
-Dialogue: 100,0:21:29.55,0:21:32.15,Dialogue,Diablo,0,0,0,,De asta nu vei muri încă!
-Dialogue: 100,0:21:33.68,0:21:35.14,Dialogue,Lumachina,0,0,0,,Diablo...
-Dialogue: 100,0:21:36.23,0:21:40.86,Dialogue,Diablo,0,0,0,,Ai venit până aici ca să elimini \Ncorupția Bisericii, nu-i așa?!
-Dialogue: 100,0:21:40.86,0:21:43.16,Dialogue,Diablo,0,0,0,,În acest caz, fii curajoasă!
-Dialogue: 100,0:21:43.16,0:21:45.19,Dialogue,Diablo,0,0,0,,Nu lăsa un blestem să te doboare!
-Dialogue: 100,0:21:45.60,0:21:49.32,Dialogue,Diablo,0,0,0,,Dacă vei avea nevoie, \Nîți voi împrumuta și puterea mea!
-Dialogue: 100,0:21:53.28,0:21:54.50,Dialogue,Lumachina,0,0,0,,Am înțeles.
-Dialogue: 100,0:21:54.50,0:21:57.58,Dialogue,Lumachina,0,0,0,,Nu voi lăsa un blestem să mă doboare!
-Dialogue: 100,0:21:57.58,0:21:59.29,Dialogue,Diablo,0,0,0,,Crede în mine!
-Dialogue: 100,0:21:59.91,0:22:03.09,Dialogue,Diablo,0,0,0,,Copile, condu-ne către noua temniță.
-Dialogue: 100,0:22:03.09,0:22:04.96,Dialogue,Horn,0,0,0,,B-Bine!
-Dialogue: 100,0:22:05.81,0:22:09.08,Dialogue,Diablo,0,0,0,,{\i1}Acolo ar trebui să am amuleta \Nprotectoare câștigată la eveniment,
-Dialogue: 100,0:22:09.08,0:22:11.56,Dialogue,Diablo,0,0,0,,{\i1}cea care vindecă Boala Semnelor Morții.
-Dialogue: 100,0:22:12.02,0:22:13.81,Dialogue,Diablo,0,0,0,,Acolo se află obiectul
-Dialogue: 100,0:22:13.81,0:22:17.99,Dialogue,Diablo,0,0,0,,de care avem nevoie ca să \Nînvingem Boala Semnelor Morții!
-Dialogue: 100,0:23:51.28,0:23:54.40,Dialogue,Diablo,0,700,0,,{\i1}Nu credeam niciodată că va trebui să-mi înfrunt propria temniță.
-Dialogue: 100,0:23:54.40,0:23:56.28,Dialogue,Horn,0,700,0,,Vrei să spui că trebuie să dansăm pe această scenă?
-Dialogue: 100,0:23:56.28,0:23:57.20,Dialogue,Diablo,0,700,0,,Mori!
-Dialogue: 100,0:23:57.20,0:24:00.42,Dialogue,Diablo,0,700,0,,Așa că de dragul cosmeticelor mele scumpe...
+Dialogue: 99,0:00:01.41,0:00:03.48,Dialogue,Batutta,0,0,0,,Brigada Paladinilor
+Dialogue: 99,0:00:03.48,0:00:06.67,Dialogue,Batutta,0,0,0,,este un grup de aventurieri \Npe care l-am organizat
+Dialogue: 99,0:00:06.67,0:00:09.14,Dialogue,Batutta,0,0,0,,ca să protejez preoții \Nîn acest oraș periculos.
+Dialogue: 99,0:00:09.48,0:00:11.24,Dialogue,Batutta,0,0,0,,Dar din cauza greșelilor mele,
+Dialogue: 99,0:00:11.24,0:00:14.61,Dialogue,Batutta,0,0,0,,comportamentul lor violent a rămas.
+Dialogue: 99,0:00:14.94,0:00:19.12,Dialogue,Lumachina,0,0,0,,Atunci, îmi vei promite că le \Nvei îndrepta comportamentul?
+Dialogue: 99,0:00:19.12,0:00:20.65,Dialogue,Batutta,0,0,0,,Desigur.
+Dialogue: 99,0:00:21.72,0:00:22.71,Dialogue,Lumachina,0,0,0,,Apropo,
+Dialogue: 99,0:00:22.71,0:00:26.42,Dialogue,Lumachina,0,0,0,,acest oraș e afectat de o epidemie cunoscută drept Boala Semnelor Morții, nu-i așa?
+Dialogue: 99,0:00:26.42,0:00:28.94,Dialogue,Batutta,0,0,0,,Da, este o boală înfiorătoare.
+Dialogue: 99,0:00:28.94,0:00:29.91,Dialogue,Lumachina,0,0,0,,Boală?
+Dialogue: 99,0:00:30.55,0:00:33.08,Dialogue,Lumachina,0,0,0,,Și tu crezi asta?
+Dialogue: 99,0:00:33.08,0:00:34.80,Dialogue,Batutta,0,0,0,,Poftim?
+Dialogue: 99,0:00:34.80,0:00:37.55,Dialogue,Lumachina,0,0,0,,Ei bine, nu este o boală,
+Dialogue: 99,0:00:37.98,0:00:40.06,Dialogue,Lumachina,0,0,0,,ci un blestem, nu-i așa?
+Dialogue: 99,0:00:41.10,0:00:42.55,Dialogue,Batutta,0,0,0,,Ce te face să crezi asta?
+Dialogue: 99,0:00:43.22,0:00:44.51,Dialogue,Lumachina,0,0,0,,Știam eu.
+Dialogue: 99,0:00:44.51,0:00:47.52,Dialogue,Lumachina,0,0,0,,Când mă rugam pentru acel copilaș,
+Dialogue: 99,0:00:47.52,0:00:49.94,Dialogue,Lumachina,0,0,0,,i-am auzit vocea lui Dumnezeu.
+Dialogue: 99,0:00:49.94,0:00:53.90,Dialogue,Lumachina,0,0,0,,Mi-a spus că un blestem la scară \Nmare a fost aruncat de cineva
+Dialogue: 99,0:00:53.90,0:00:56.20,Dialogue,Lumachina,0,0,0,,ca să pună în pericol viețile \Noamenilor din acest oraș.
+Dialogue: 99,0:00:57.70,0:00:59.95,Dialogue,Lumachina,0,0,0,,Îți sună cunoscut cumva?
+Dialogue: 99,0:01:02.36,0:01:05.00,Dialogue,Batutta,0,0,0,,Vai, vai, speram să nu fi observat.
+Dialogue: 99,0:01:05.00,0:01:06.78,Dialogue,Lumachina,0,0,0,,Paladinule-șef Batutta?!
+Dialogue: 99,0:01:10.39,0:01:11.61,Dialogue,Lumachina,0,0,0,,Ce este...
+Dialogue: 99,0:01:17.24,0:01:18.40,Dialogue,Rem,0,0,0,,Lumachina?!
+Dialogue: 99,0:01:18.81,0:01:20.05,Dialogue,Rem,0,0,0,,Lumachina?!
+Dialogue: 99,0:01:20.72,0:01:22.28,Dialogue,Rem,0,0,0,,Deci tu erai...
+Dialogue: 99,0:01:24.92,0:01:26.11,Dialogue,Rem,0,0,0,,D-{\alpha&HFF&}Diablo...
+Dialogue: 99,0:01:26.11,0:01:28.53,Dialogue,Rem,0,0,0,,D-Dia{\alpha&HFF&}blo...
+Dialogue: 99,0:01:28.53,0:01:29.75,Dialogue,Rem,0,0,0,,D-Diablo...
+Dialogue: 99,0:01:32.15,0:01:35.15,Dialogue,Batutta,0,0,0,,Se pare că somniferul și-a \Nfăcut efectul în sfârșit.
+Dialogue: 99,0:01:35.55,0:01:37.60,Dialogue,Batutta,0,0,0,,Chiar mi-ați irosit timpul.
+Dialogue: 99,0:01:37.60,0:01:38.58,Dialogue,Batutta,0,0,0,,Shiliu!
+Dialogue: 99,0:01:39.06,0:01:39.94,Dialogue,Shiliu,0,0,0,,Da.
+Dialogue: 99,0:03:11.54,0:03:12.83,Dialogue,Shera,0,0,0,,Așa...
+Dialogue: 99,0:03:14.08,0:03:15.68,Dialogue,Shera,0,0,0,,și așa...
+Dialogue: 99,0:03:15.68,0:03:17.13,Dialogue,Shera,0,0,0,,și așa...
+Dialogue: 99,0:03:18.37,0:03:19.63,Dialogue,Shera,0,0,0,,Și gata!
+Dialogue: 99,0:03:19.63,0:03:21.23,Dialogue,Shera,0,0,0,,Cum a fost?
+Dialogue: 99,0:03:21.23,0:03:23.23,Dialogue,Diablo,0,0,0,,Foarte plăcut.
+Dialogue: 99,0:03:25.88,0:03:27.14,Dialogue,Diablo,0,0,0,,Cine-i acolo?!
+Dialogue: 99,0:03:27.14,0:03:28.86,Dialogue,Horn,0,0,0,,S-Stai, stai!
+Dialogue: 99,0:03:28.86,0:03:31.14,Dialogue,Horn,0,0,0,,Sunt eu, domnule!
+Dialogue: 99,0:03:31.68,0:03:32.77,Dialogue,Diablo,0,0,0,,Tu ești...
+Dialogue: 99,0:03:34.15,0:03:38.19,Dialogue,Diablo,0,0,0,,Aventurierii acestui oraș \Nexplorează și casele altor oameni?
+Dialogue: 99,0:03:38.19,0:03:40.40,Dialogue,Horn,0,0,0,,A-Am venit pentru tine!
+Dialogue: 99,0:03:40.94,0:03:43.28,Dialogue,Shera,0,0,0,,Ai niște curry la guriță.
+Dialogue: 99,0:03:44.04,0:03:46.61,Dialogue,Horn,0,0,0,,Rămăseseră niște resturi...
+Dialogue: 99,0:03:46.61,0:03:48.91,Dialogue,Horn,0,0,0,,Oricum, să lăsăm asta! Domnule!
+Dialogue: 99,0:03:53.87,0:03:55.72,Dialogue,Shera,0,0,0,,Diablo, asta este...
+Dialogue: 99,0:03:55.72,0:03:58.13,Dialogue,Horn,0,0,0,,Vezi? Exact cum spuneam!
+Dialogue: 99,0:03:58.13,0:04:01.76,Dialogue,Horn,0,0,0,,Batutta ți-a răpit prietenii!
+Dialogue: 99,0:04:01.76,0:04:05.14,Dialogue,Shera,0,0,0,,Ce ne facem? Chiar nu ar fi \Ntrebuit să avem încredere în el!
+Dialogue: 99,0:04:05.42,0:04:08.01,Dialogue,Diablo,0,0,0,,Nu credeam că ar acționa atât de repede.
+Dialogue: 99,0:04:08.01,0:04:11.85,Dialogue,Diablo,0,0,0,,Iar noi trebuia să ne \Nrefacem puterile, mai întâi.
+Dialogue: 99,0:04:11.85,0:04:13.14,Dialogue,Shera,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:04:13.44,0:04:14.83,Dialogue,Diablo,0,0,0,,Boala Semnelor Morții.
+Dialogue: 99,0:04:14.83,0:04:15.60,Dialogue,Shera,0,0,0,,Poftim?
+Dialogue: 99,0:04:15.60,0:04:18.09,Dialogue,Diablo,0,0,0,,Este un blestem.
+Dialogue: 99,0:04:18.09,0:04:19.40,Dialogue,Both,0,0,0,,Ce?!
+Dialogue: 99,0:04:19.79,0:04:23.94,Dialogue,Diablo,0,0,0,,{\i1}Nu le pot spune că l-am văzut la un eveniment limitat în Cross Reverie.
+Dialogue: 99,0:04:25.40,0:04:26.74,Dialogue,Diablo,0,0,0,,În orice caz, acum,
+Dialogue: 99,0:04:27.28,0:04:29.74,Dialogue,Diablo,0,0,0,,trebuie să le salvăm pe Rem și Lumachina.
+Dialogue: 99,0:04:31.44,0:04:32.59,Dialogue,Diablo,0,0,0,,Să mergem!
+Dialogue: 99,0:04:32.59,0:04:33.46,Dialogue,Shera,0,0,0,,Da!
+Dialogue: 99,0:04:32.59,0:04:33.46,Dialogue,Horn,0,0,0,,{\an8}Am înțeles!
+Dialogue: 99,0:04:43.67,0:04:45.21,Dialogue,Rem,0,0,0,,Ce naiba este asta?
+Dialogue: 99,0:04:45.21,0:04:46.90,Dialogue,Lumachina,0,0,0,,Te-ai trezit?
+Dialogue: 99,0:04:47.40,0:04:48.64,Dialogue,Rem,0,0,0,,Lumachina?!
+Dialogue: 99,0:04:48.64,0:04:51.89,Dialogue,Lumachina,0,0,0,,Eram deja aici când mă trezisem și eu.
+Dialogue: 99,0:04:57.04,0:04:59.74,Dialogue,Rem,0,0,0,,Se pare că suntem undeva sub pământ.
+Dialogue: 99,0:04:59.74,0:05:01.65,Dialogue,Rem,0,0,0,,Și destul de adânc.
+Dialogue: 99,0:05:01.65,0:05:02.90,Dialogue,Lumachina,0,0,0,,Rem...
+Dialogue: 99,0:05:03.38,0:05:07.86,Dialogue,Lumachina,0,0,0,,Apropo, ce fac acei oameni?
+Dialogue: 99,0:05:16.04,0:05:17.29,Dialogue,Rem,0,0,0,,C-C-Ce...
+Dialogue: 99,0:05:17.80,0:05:18.81,Dialogue,Lumachina,0,0,0,,Rem?
+Dialogue: 99,0:05:18.81,0:05:21.21,Dialogue,Rem,0,0,0,,C-C-Cred că fac...
+Dialogue: 99,0:05:21.21,0:05:23.26,Dialogue,Rem,0,0,0,,știi tu ce.
+Dialogue: 99,0:05:23.26,0:05:25.66,Dialogue,Lumachina,0,0,0,,Ce? Ce vrei să spui?
+Dialogue: 99,0:05:25.66,0:05:27.20,Dialogue,Rem,0,0,0,,Ei bine...
+Dialogue: 99,0:05:27.20,0:05:28.80,Dialogue,Batutta,0,0,0,,Voi două!
+Dialogue: 99,0:05:28.80,0:05:32.68,Dialogue,Batutta,0,0,0,,Cum vă simțiți să stați pe \Naltarul ritualului nostru?
+Dialogue: 99,0:05:32.68,0:05:33.80,Dialogue,Rem,0,0,0,,Batutta!
+Dialogue: 99,0:05:33.80,0:05:35.88,Dialogue,Lumachina,0,0,0,,Ce tot spui acolo?!
+Dialogue: 99,0:05:35.88,0:05:38.44,Dialogue,Lumachina,0,0,0,,Acest loc este plin de energie rea.
+Dialogue: 99,0:05:38.44,0:05:40.84,Dialogue,Lumachina,0,0,0,,Un altar atât de respingător \Nnu va fi niciodată...
+Dialogue: 99,0:05:40.84,0:05:42.14,Dialogue,Batutta,0,0,0,,Exact.
+Dialogue: 99,0:05:42.98,0:05:45.59,Dialogue,Batutta,0,0,0,,Ceea ce avem noi aici \Nse numește corupere.
+Dialogue: 99,0:05:46.24,0:05:48.38,Dialogue,Rem,0,0,0,,Ce plănuiești să faci cu noi?
+Dialogue: 99,0:05:48.93,0:05:50.01,Dialogue,Batutta,0,0,0,,Shiliu.
+Dialogue: 99,0:05:50.49,0:05:51.42,Dialogue,Shiliu,0,0,0,,Da.
+Dialogue: 99,0:05:52.15,0:05:53.48,Dialogue,Batutta,0,0,0,,Priviți.
+Dialogue: 99,0:05:53.48,0:05:56.62,Dialogue,Batutta,0,0,0,,Asta este substanța care \Nprovoacă Boala Semnelor Morții.
+Dialogue: 99,0:05:57.71,0:06:01.36,Dialogue,Batutta,0,0,0,,Această substanță poate fi \Nprodusă din esența răului.
+Dialogue: 99,0:06:01.36,0:06:03.59,Dialogue,Batutta,0,0,0,,Este literalmente sursa răului însuși.
+Dialogue: 99,0:06:03.59,0:06:06.84,Dialogue,Batutta,0,0,0,,Acum, cum reușește cineva să \Nobțină această esență a răului?
+Dialogue: 99,0:06:07.92,0:06:10.40,Dialogue,Batutta,0,0,0,,Parcă ar fi niște animale, nu-i așa?
+Dialogue: 99,0:06:10.40,0:06:13.72,Dialogue,Batutta,0,0,0,,Dar cândva erau cu toții \Nniște credincioși devotați.
+Dialogue: 99,0:06:14.10,0:06:15.72,Dialogue,Batutta,0,0,0,,Credința lor era puternică,
+Dialogue: 99,0:06:15.72,0:06:20.60,Dialogue,Batutta,0,0,0,,iar ei erau niște bărbați virtuoși și niște femei pure cu simțul dreptății.
+Dialogue: 99,0:06:20.96,0:06:26.69,Dialogue,Batutta,0,0,0,,Dar este nevoie doar de un mic vânt ca să-i faci pe oameni să cadă în păcat!
+Dialogue: 99,0:06:27.19,0:06:29.88,Dialogue,Batutta,0,0,0,,Curvie, vărsare de sânge, lăcomie...
+Dialogue: 99,0:06:29.88,0:06:33.08,Dialogue,Batutta,0,0,0,,Esența răului este creată atunci \Ncând un om pică în păcat!
+Dialogue: 99,0:06:33.08,0:06:36.83,Dialogue,Rem,0,0,0,,D-Deci îi faci pe oameni să \Npăcătuiască în acest loc?
+Dialogue: 99,0:06:36.83,0:06:38.11,Dialogue,Lumachina,0,0,0,,Asta...
+Dialogue: 99,0:06:38.11,0:06:39.40,Dialogue,Lumachina,0,0,0,,Asta este...
+Dialogue: 99,0:06:40.74,0:06:42.94,Dialogue,Lumachina,0,0,0,,Vai, Doamne...
+Dialogue: 99,0:06:42.94,0:06:46.91,Dialogue,Batutta,0,0,0,,Cercetările mele au arătat că persoanele care pot face miracole mai puternice
+Dialogue: 99,0:06:46.91,0:06:49.47,Dialogue,Batutta,0,0,0,,produc și o esență a răului mai bogată atunci când pică în păcat.
+Dialogue: 99,0:06:49.92,0:06:53.43,Dialogue,Batutta,0,0,0,,Ceea ce înseamnă că ar trebui să producă și o substanță mai concentrată.
+Dialogue: 99,0:06:54.96,0:06:58.06,Dialogue,Lumachina,0,0,0,,Vrei ca mai mulți oameni să fie afectați de Boala Semnelor Morții?!
+Dialogue: 99,0:06:58.06,0:07:00.70,Dialogue,Batutta,0,0,0,,Mai mulți oameni? Greșești.
+Dialogue: 99,0:07:00.70,0:07:02.44,Dialogue,Batutta,0,0,0,,În acest moment, \Ne vorba de o singură persoană.
+Dialogue: 99,0:07:03.06,0:07:06.81,Dialogue,Batutta,0,0,0,,Și anume, lordul acestui oraș, Laminitus.
+Dialogue: 99,0:07:07.65,0:07:09.36,Dialogue,Rem,0,0,0,,Doar pentru asta?
+Dialogue: 99,0:07:09.36,0:07:12.16,Dialogue,Lumachina,0,0,0,,De ce comiți un asemenea păcat?
+Dialogue: 99,0:07:12.57,0:07:15.00,Dialogue,Lumachina,0,0,0,,Am auzit că erai un om nobil.
+Dialogue: 99,0:07:15.96,0:07:18.04,Dialogue,Lumachina,0,0,0,,Ce s-a întâmplat cu tine?
+Dialogue: 99,0:07:18.58,0:07:20.49,Dialogue,Batutta,0,0,0,,Familia mi-a fost ucisă.
+Dialogue: 99,0:07:20.49,0:07:22.75,Dialogue,Batutta,0,0,0,,Am fost trădat de cel mai bun prieten.
+Dialogue: 99,0:07:22.75,0:07:24.54,Dialogue,Batutta,0,0,0,,Am fost amenințat de creaturile demonice.
+Dialogue: 99,0:07:27.10,0:07:33.44,Dialogue,Batutta,0,0,0,,Te-ar satisface o asemenea \Npoveste emoționantă?
+Dialogue: 99,0:07:34.26,0:07:36.08,Dialogue,Batutta,0,0,0,,Nu am un motiv anume.
+Dialogue: 99,0:07:36.08,0:07:38.94,Dialogue,Batutta,0,0,0,,Oamenii sunt doar niște \Nființe lacome și păcătoase.
+Dialogue: 99,0:07:38.94,0:07:39.98,Dialogue,Lumachina,0,0,0,,Dar tu...
+Dialogue: 99,0:07:40.69,0:07:42.33,Dialogue,Batutta,0,0,0,,Abia aștept...
+Dialogue: 99,0:07:42.33,0:07:47.80,Dialogue,Batutta,0,0,0,,s-o privesc pe Preaînalta Preoteasă, cea mai respectată persoană a Bisericii, cum se lasă pradă poftei trupești.
+Dialogue: 99,0:07:49.00,0:07:51.53,Dialogue,Batutta,0,0,0,,Shiliu, las restul în seama ta.
+Dialogue: 99,0:07:51.53,0:07:54.57,Dialogue,Shiliu,0,0,0,,După cum doriți, stăpâne.
+Dialogue: 99,0:07:54.57,0:07:59.16,Dialogue,Shiliu,0,0,0,,Mă ud foarte tare de la gândul că voi corupe o frumusețe așa ca tine.
+Dialogue: 99,0:08:00.08,0:08:05.04,Dialogue,Shiliu,0,0,0,,Curând, mă vei implora \Nsă-ți ofer mai mult.
+Dialogue: 99,0:08:07.24,0:08:08.96,Dialogue,Shiliu,0,0,0,,Acum, îți voi linge...
+Dialogue: 99,0:08:12.93,0:08:14.93,Dialogue,Shiliu,0,0,0,,cele mai ascunse locuri.
+Dialogue: 99,0:08:16.39,0:08:19.59,Dialogue,Lumachina,0,0,0,,Nu!
+Dialogue: 99,0:08:21.43,0:08:24.95,Dialogue,Lumachina,0,0,0,,N-Nu!
+Dialogue: 99,0:08:38.99,0:08:41.29,Dialogue,Shera,0,0,0,,Rem și Lumachina...
+Dialogue: 99,0:08:41.29,0:08:42.38,Dialogue,Shera,0,0,0,,Diablo!
+Dialogue: 99,0:08:42.38,0:08:43.71,Dialogue,Diablo,0,0,0,,Știu.
+Dialogue: 99,0:08:43.71,0:08:49.40,Dialogue,Diablo,0,0,0,,{\i1}În joc, acesta era locul unde te luptai cu monstrul final de la eveniment...
+Dialogue: 99,0:08:49.40,0:08:50.09,Dialogue,Diablo,0,0,0,,{\i1}Hm?
+Dialogue: 99,0:08:50.54,0:08:52.09,Dialogue,Diablo,0,0,0,,{\i1}Lucrurile care se întâmplă acolo jos...
+Dialogue: 99,0:08:53.50,0:08:55.80,Dialogue,Diablo,0,0,0,,{\i1}C-Ce naiba este asta?!
+Dialogue: 99,0:08:55.80,0:09:00.54,Dialogue,Diablo,0,0,0,,{\i1}Cross Reverie nu a avut niciodată \Nscene scoase dintr-un film porno!
+Dialogue: 99,0:09:00.54,0:09:02.18,Dialogue,Batutta,0,0,0,,Știam că vei veni.
+Dialogue: 99,0:09:02.60,0:09:04.03,Dialogue,Batutta,0,0,0,,Diablo te chema, nu-i așa?
+Dialogue: 99,0:09:04.03,0:09:06.36,Dialogue,Batutta,0,0,0,,Sunt impresionat că ai găsit acest loc.
+Dialogue: 99,0:09:07.67,0:09:09.31,Dialogue,Diablo,0,0,0,,A fost floare la ureche.
+Dialogue: 99,0:09:09.64,0:09:14.32,Dialogue,Diablo,0,0,0,,Subordonații tăi din Brigada Paladinilor mi-au fost de mare ajutor.
+Dialogue: 99,0:09:15.04,0:09:17.28,Dialogue,Diablo,0,0,0,,Mi-au spus imediat cum i-am întrebat.
+Dialogue: 99,0:09:20.40,0:09:21.58,Dialogue,Diablo,0,0,0,,Batutta,
+Dialogue: 99,0:09:21.58,0:09:23.60,Dialogue,Diablo,0,0,0,,ce naiba este acest loc?
+Dialogue: 99,0:09:23.60,0:09:27.71,Dialogue,Batutta,0,0,0,,Nu-ți poți da seama și singur, din moment ce ești un vrăjitor de primă clasă?
+Dialogue: 99,0:09:29.04,0:09:32.96,Dialogue,Diablo,0,0,0,,{\i1}Nu am fost de primă clasă niciodată la nimic. \NEram doar un antisocial obsedat de jocuri video.
+Dialogue: 99,0:09:33.65,0:09:37.10,Dialogue,Diablo,0,0,0,,Tu ești cel care a aruncat blestemul Bolii Semnelor Morții, nu-i așa?
+Dialogue: 99,0:09:37.10,0:09:40.47,Dialogue,Batutta,0,0,0,,Oh? Ai auzit asta de la Lumachina?
+Dialogue: 99,0:09:40.88,0:09:43.22,Dialogue,Diablo,0,0,0,,Vrei să spui că și ea \Nși-a dat seama de asta?
+Dialogue: 99,0:09:43.22,0:09:45.27,Dialogue,Batutta,0,0,0,,Hm? Deci nu ai auzit de la ea?
+Dialogue: 99,0:09:45.72,0:09:47.87,Dialogue,Diablo,0,0,0,,Cine mă crezi?
+Dialogue: 99,0:09:47.87,0:09:50.15,Dialogue,Diablo,0,0,0,,Eu sunt Diablo, Lordul Demon \Nvenit dintr-o altă lume!
+Dialogue: 99,0:09:50.72,0:09:52.96,Dialogue,Batutta,0,0,0,,Cât de absurd.
+Dialogue: 99,0:09:52.96,0:09:55.78,Dialogue,Diablo,0,0,0,,{\i1}Se pare că nimeni nu vrea să mă creadă...
+Dialogue: 99,0:09:55.95,0:09:55.99,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&HB7ADA4&\4c&HA4A4A4&\1a&HBF&\3a&HBF&\4a&HEC&}Ura!
+Dialogue: 99,0:09:55.99,0:09:56.03,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&H8C7D6F&\4c&H6E6E6E&\1a&H8C&\3a&H8C&\4a&HDD&}Ura!
+Dialogue: 99,0:09:56.03,0:09:56.07,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&H634E3B&\4c&H3A3A3A&\1a&H59&\3a&H59&\4a&HCE&}Ura!
+Dialogue: 99,0:09:56.07,0:09:56.11,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)\3c&H391E06&\4c&H050505&\1a&H26&\3a&H26&\4a&HBF&}Ura!
+Dialogue: 99,0:09:56.11,0:09:56.15,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)}Ura!
+Dialogue: 99,0:09:56.15,0:09:56.40,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(669.03,288.88)}Ura!
+Dialogue: 99,0:09:56.40,0:09:56.65,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1066.97,288.85)}Ura!
+Dialogue: 99,0:09:56.65,0:09:56.91,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1465.03,288.9)}Ura!
+Dialogue: 99,0:09:56.91,0:09:57.16,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1863.01,288.93)}Ura!
+Dialogue: 99,0:09:57.66,0:09:57.91,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1782.29,174.77)}Ura!
+Dialogue: 99,0:09:57.91,0:09:58.16,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1428.15,174.79)}Ura!
+Dialogue: 99,0:09:58.16,0:09:58.41,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1074.21,174.67)\iclip(m 1001.85 151.02 l 1022.78 150.36 1012.32 159.52)}Ura!
+Dialogue: 99,0:09:58.41,0:09:58.66,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(719.21,174.67)}Ura!
+Dialogue: 99,0:09:58.66,0:09:58.91,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(365.17,174.62)}Ura!
+Dialogue: 99,0:09:58.91,0:09:59.16,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(10.9,174.72)}Ura!
+Dialogue: 99,0:09:59.41,0:09:59.65,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(270.96,288.89)}Ura!
+Dialogue: 99,0:09:59.65,0:09:59.90,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(669.03,288.88)}Ura!
+Dialogue: 99,0:09:59.90,0:10:00.15,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1066.97,288.85)}Ura!
+Dialogue: 99,0:10:00.15,0:10:00.41,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1465.03,288.9)}Ura!
+Dialogue: 99,0:10:00.41,0:10:00.66,Dialogue,Rem & Shera,0,0,0,,{=1}{\pos(1863.01,288.93)}Ura!
+Dialogue: 99,0:09:55.95,0:09:55.99,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&HB7ADA4&\4c&HA4A4A4&\1a&HBF&\3a&HBF&\4a&HEC&}Ura!
+Dialogue: 99,0:09:55.99,0:09:56.03,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&H8C7D6F&\4c&H6E6E6E&\1a&H8C&\3a&H8C&\4a&HDD&}Ura!
+Dialogue: 99,0:09:56.03,0:09:56.07,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&H634E3B&\4c&H3A3A3A&\1a&H59&\3a&H59&\4a&HCE&}Ura!
+Dialogue: 99,0:09:56.07,0:09:56.11,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)\3c&H391E06&\4c&H050505&\1a&H26&\3a&H26&\4a&HBF&}Ura!
+Dialogue: 99,0:09:56.11,0:09:56.15,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)}Ura!
+Dialogue: 99,0:09:56.15,0:09:56.40,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1470.26,246.88)}Ura!
+Dialogue: 99,0:09:56.40,0:09:56.65,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1117.27,246.85)\iclip(m 1100 173.33 b 1086.16 186.83 1083.83 203.17 1090.62 221.18 l 1082 223.33 b 1078.5 214 1074.17 205.33 1062.67 196.67 l 1072 186.67 b 1048.5 186.83 1043.5 169.17 1034 163.33 l 1028.67 232 1124.67 271.33 b 1139.34 223.5 1095.34 207.82 1100.67 173.33)}Ura!
+Dialogue: 99,0:09:56.65,0:09:56.91,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(762.27,246.85)\iclip(m 810.27 242.53 b 814.95 227.44 820.44 219.44 828.27 210.13 l 852.27 216.53)}Ura!
+Dialogue: 99,0:09:56.91,0:09:57.16,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(406.77,246.84)}Ura!
+Dialogue: 99,0:09:57.16,0:09:57.41,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(43.36,246.88)}Ura!
+Dialogue: 99,0:09:57.66,0:09:57.91,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(219.43,362.28)}Ura!
+Dialogue: 99,0:09:57.91,0:09:58.16,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(623.43,362.27)}Ura!
+Dialogue: 99,0:09:58.16,0:09:58.41,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1017.11,362.25)}Ura!
+Dialogue: 99,0:09:58.41,0:09:58.66,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1423.7,362.27)}Ura!
+Dialogue: 99,0:09:58.66,0:09:58.91,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1807.17,362.31)}Ura!
+Dialogue: 99,0:09:59.41,0:09:59.65,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1831.12,246.81)}Ura!
+Dialogue: 99,0:09:59.65,0:09:59.90,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1470.26,246.88)}Ura!
+Dialogue: 99,0:09:59.90,0:10:00.15,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(1117.27,246.85)\iclip(m 1100 173.33 b 1086.16 186.83 1083.83 203.17 1090.62 221.18 l 1082 223.33 b 1078.5 214 1074.17 205.33 1062.67 196.67 l 1072 186.67 b 1048.5 186.83 1043.5 169.17 1034 163.33 l 1028.67 232 1124.67 271.33 b 1139.34 223.5 1095.34 207.82 1100.67 173.33)}Ura!
+Dialogue: 99,0:10:00.15,0:10:00.41,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(762.27,246.85)\iclip(m 810.27 242.53 b 814.95 227.44 820.44 219.44 828.27 210.13 l 852.27 216.53)}Ura!
+Dialogue: 99,0:10:00.41,0:10:00.66,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(406.77,246.84)}Ura!
+Dialogue: 99,0:10:00.66,0:10:00.75,Dialogue,Rem & Shera,0,0,0,,{=2}{\pos(43.36,246.88)}Ura!
+Dialogue: 99,0:09:56.22,0:10:00.74,Dialogue,Diablo,0,0,0,,{\i1}Deși, Rem și Shera m-au crezut atât de ușor.
+Dialogue: 99,0:10:02.00,0:10:06.20,Dialogue,Diablo,0,0,0,,Ai aflat de blestemul Bolii Semnelor Morții de la creaturile demonice, nu-i așa?
+Dialogue: 99,0:10:06.20,0:10:08.21,Dialogue,Batutta,0,0,0,,Cum ți-ai dat seama...
+Dialogue: 99,0:10:08.71,0:10:10.08,Dialogue,Diablo,0,0,0,,Evrica!
+Dialogue: 99,0:10:10.08,0:10:14.55,Dialogue,Diablo,0,0,0,,Știu asta deoarece blestemul fusese aruncat aici de creaturile demonice.
+Dialogue: 99,0:10:14.55,0:10:17.00,Dialogue,Diablo,0,0,0,,Ți-am spus că sunt Lordul Demon, nu-i așa?
+Dialogue: 99,0:10:17.00,0:10:19.58,Dialogue,Diablo,0,0,0,,Acum, eliberează-le pe fete.
+Dialogue: 99,0:10:20.26,0:10:21.96,Dialogue,Batutta,0,0,0,,Ești deștept
+Dialogue: 99,0:10:21.96,0:10:24.68,Dialogue,Batutta,0,0,0,,și incredibil de puternic,
+Dialogue: 99,0:10:24.68,0:10:27.80,Dialogue,Batutta,0,0,0,,dar ce fel de vrăji ai putea folosi aici?
+Dialogue: 99,0:10:28.81,0:10:32.16,Dialogue,Batutta,0,0,0,,Oare ești destul de priceput \Nîncât să lupți pe scări?
+Dialogue: 99,0:10:32.16,0:10:35.48,Dialogue,Batutta,0,0,0,,De câte ori te vei putea feri de \Nloviturile mele pe aceste scări?
+Dialogue: 99,0:10:36.14,0:10:39.21,Dialogue,Diablo,0,0,0,,Tu ești cel care se va chinui să \Nse ferească de atacurile mele!
+Dialogue: 99,0:10:39.82,0:10:41.69,Dialogue,Diablo,0,0,0,,Explozie!
+Dialogue: 99,0:10:47.41,0:10:49.24,Dialogue,Both,0,0,0,,L-ai prins!
+Dialogue: 99,0:10:52.96,0:10:53.99,Dialogue,Diablo,0,0,0,,Ce este asta?!
+Dialogue: 99,0:11:00.07,0:11:03.10,Dialogue,Batutta,0,0,0,,Ei bine, este un loc periculos, nu-i așa?
+Dialogue: 99,0:11:03.10,0:11:06.64,Dialogue,Batutta,0,0,0,,Dacă explozia atacului tău \Ndărâmă pereții sau tavanul,
+Dialogue: 99,0:11:06.64,0:11:11.45,Dialogue,Batutta,0,0,0,,oare ce se va întâmpla cu prietenii tăi?
+Dialogue: 99,0:11:11.45,0:11:12.73,Dialogue,Diablo,0,0,0,,Nemernicule...
+Dialogue: 99,0:11:13.75,0:11:15.18,Dialogue,Diablo,0,0,0,,{\i1}Are dreptate, tot acest loc este șubred.
+Dialogue: 99,0:11:15.18,0:11:16.92,Dialogue,Diablo,0,0,0,,{\i1}Nu-mi permit să fiu neatent.
+Dialogue: 99,0:11:16.92,0:11:19.61,Dialogue,Diablo,0,0,0,,{\i1}Iar mișcările sale sunt rapide.
+Dialogue: 99,0:11:19.61,0:11:21.61,Dialogue,Diablo,0,0,0,,{\i1}S-a ferit instant de atacul meu?
+Dialogue: 99,0:11:22.18,0:11:24.01,Dialogue,Diablo,0,0,0,,{\i1}Ca să-l lovesc la viteza cu care se mișcă,
+Dialogue: 99,0:11:24.01,0:11:26.54,Dialogue,Diablo,0,0,0,,{\i1}am nevoie de o vrajă cu o \Nzonă mai mare de acțiune.
+Dialogue: 99,0:11:26.54,0:11:28.09,Dialogue,Batutta,0,0,0,,Nu ai de gând să mă ataci?
+Dialogue: 99,0:11:28.09,0:11:31.77,Dialogue,Batutta,0,0,0,,Atunci, o voi face eu!
+Dialogue: 99,0:11:31.77,0:11:33.67,Dialogue,Diablo,0,0,0,,{\i1}Ce nivel de magie ar trebui să folosesc?!
+Dialogue: 99,0:11:34.54,0:11:37.84,Dialogue,Batutta,0,0,0,,Ai ezitat, începătorule!
+Dialogue: 99,0:11:38.17,0:11:39.13,Dialogue,Diablo,0,0,0,,{\i1}Este rapid!
+Dialogue: 99,0:11:49.27,0:11:51.27,Dialogue,Shera,0,0,0,,D-Diablo!
+Dialogue: 99,0:11:52.56,0:11:54.90,Dialogue,Diablo,0,0,0,,Ești destul de bun, Batutta.
+Dialogue: 99,0:11:54.90,0:11:56.10,Dialogue,Batutta,0,0,0,,Oh...
+Dialogue: 99,0:11:57.57,0:12:00.27,Dialogue,Batutta,0,0,0,,Ai venit aici mult prea \Nîncrezător în abilitățile tale,
+Dialogue: 99,0:12:00.27,0:12:03.82,Dialogue,Batutta,0,0,0,,fără să te gândești că nu ți-ai \Nputea folosi magia pe deplin.
+Dialogue: 99,0:12:04.32,0:12:08.33,Dialogue,Batutta,0,0,0,,Poate crezi că ai reușit \Nsă descoperi acest loc,
+Dialogue: 99,0:12:08.33,0:12:11.04,Dialogue,Batutta,0,0,0,,dar era, de fapt, o capcană \Npentru a te ademeni aici!
+Dialogue: 99,0:12:11.04,0:12:12.70,Dialogue,Diablo,0,0,0,,{\i1}Doare foarte tare...
+Dialogue: 99,0:12:12.70,0:12:14.06,Dialogue,Diablo,0,0,0,,{\i1}La naiba!
+Dialogue: 99,0:12:14.74,0:12:16.44,Dialogue,Diablo,0,0,0,,Nu subestima un Lord Demon.
+Dialogue: 99,0:12:16.44,0:12:18.55,Dialogue,Diablo,0,0,0,,Atunci, ce spui de asta?
+Dialogue: 99,0:12:18.55,0:12:20.55,Dialogue,Diablo,0,0,0,,Sfera Fulgerelor!
+Dialogue: 99,0:12:22.21,0:12:24.83,Dialogue,Diablo,0,0,0,,{\i1}Această vrajă afectează doar ținta ei,
+Dialogue: 99,0:12:24.83,0:12:27.30,Dialogue,Diablo,0,0,0,,{\i1}fără să distrugă împrejurimile.
+Dialogue: 99,0:12:27.30,0:12:29.15,Dialogue,Diablo,0,0,0,,{\i1}Acum, Batutta,
+Dialogue: 99,0:12:29.15,0:12:30.98,Dialogue,Diablo,0,0,0,,{\i1}încearcă să scapi de asta!
+Dialogue: 99,0:12:31.52,0:12:36.02,Dialogue,Diablo,0,0,0,,{\i1}Am pus pe perete niște Mine de \NPământ care îl vor arunca în spate!
+Dialogue: 99,0:12:37.61,0:12:40.02,Dialogue,Diablo,0,0,0,,{\i1}Ce s-a întâmplat? Nu mă va ataca?
+Dialogue: 99,0:12:40.57,0:12:43.67,Dialogue,Batutta,0,0,0,,E o joacă de copil să-mi \Ndai seama ce plănuiești.
+Dialogue: 99,0:12:55.56,0:12:56.73,Dialogue,Diablo,0,0,0,,{\i1}Nu se poate...
+Dialogue: 99,0:12:57.54,0:13:00.59,Dialogue,Batutta,0,0,0,,Ai pierdut!
+Dialogue: 99,0:13:01.17,0:13:03.42,Dialogue,Diablo,0,0,0,,{\i1}Arta marțială numită Ridicarea Lancei?
+Dialogue: 99,0:13:06.52,0:13:08.47,Dialogue,Diablo,0,0,0,,{\i1}Nu e bine! Nu mă voi putea feri!
+Dialogue: 99,0:13:08.89,0:13:09.97,Dialogue,Diablo,0,0,0,,{\i1}Atunci...
+Dialogue: 99,0:13:16.56,0:13:20.15,Dialogue,Diablo,0,0,0,,{\i1}Mi-a străpuns inima?!
+Dialogue: 99,0:13:20.90,0:13:22.07,Dialogue,Diablo,0,0,0,,{\i1}Voi...
+Dialogue: 99,0:13:22.07,0:13:27.22,Dialogue,Shera,0,0,0,,Diablo... N-Nu!
+Dialogue: 99,0:13:28.87,0:13:30.15,Dialogue,Diablo,0,0,0,,{\i1}...muri.
+Dialogue: 99,0:13:35.16,0:13:38.08,Dialogue,Batutta,0,0,0,,Am câștigat.
+Dialogue: 99,0:13:42.55,0:13:47.30,Dialogue,Batutta,0,0,0,,Mereu fac pregătiri temeinice și-mi ademenesc inamicii puternici în strategiile mele
+Dialogue: 99,0:13:47.30,0:13:50.71,Dialogue,Batutta,0,0,0,,ca să fiu sigur că-i pot învinge \Ndintr-o poziție avantajoasă!
+Dialogue: 99,0:13:51.76,0:13:54.25,Dialogue,Shera,0,0,0,,Diablo! Diablo!
+Dialogue: 99,0:13:54.72,0:13:56.94,Dialogue,Rem,0,0,0,,D-Diablo?
+Dialogue: 99,0:14:03.35,0:14:04.73,Dialogue,Diablo,0,0,0,,Te-am prins.
+Dialogue: 99,0:14:06.70,0:14:08.86,Dialogue,Batutta,0,0,0,,C-Cum de încă ești în viață?!
+Dialogue: 99,0:14:10.70,0:14:16.33,Dialogue,Diablo,0,0,0,,Această vrajă nu poate fi \Nfolosită fără să-ți atingi ținta.
+Dialogue: 99,0:14:18.05,0:14:20.25,Dialogue,Diablo,0,0,0,,Zero Absolut!
+Dialogue: 99,0:14:21.46,0:14:24.06,Dialogue,Diablo,0,0,0,,Devino o statuie de gheață!
+Dialogue: 99,0:14:36.05,0:14:37.54,Dialogue,Batutta,0,0,0,,Nemernicule...
+Dialogue: 99,0:14:38.18,0:14:39.35,Dialogue,Diablo,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:14:39.66,0:14:42.61,Dialogue,Diablo,0,0,0,,Pierderea armei și a mâinii stângi nu făceau parte din strategia ta?
+Dialogue: 99,0:14:44.05,0:14:45.82,Dialogue,Diablo,0,0,0,,{\i1}Doare ca naiba!
+Dialogue: 99,0:14:45.82,0:14:47.42,Dialogue,Diablo,0,0,0,,{\i1}Chiar credeam că voi muri!
+Dialogue: 99,0:14:47.42,0:14:49.74,Dialogue,Diablo,0,0,0,,{\i1}Dacă eram singur, \Naș fi început să plâng și să urlu!
+Dialogue: 99,0:14:50.25,0:14:53.23,Dialogue,Diablo,0,0,0,,{\i1}Pelerina de pe mine, \NCortina Norilor Întunecați,
+Dialogue: 99,0:14:53.23,0:14:56.50,Dialogue,Diablo,0,0,0,,{\i1}îmi permite să supraviețuiesc oricărui atac cu un singur punct de viață rămas.
+Dialogue: 99,0:14:57.14,0:14:59.15,Dialogue,Diablo,0,0,0,,{\i1}Nu credeam că va veni \Nmomentul când îmi fi de folos.
+Dialogue: 99,0:14:59.15,0:15:03.00,Dialogue,Diablo,0,0,0,,{\i1}Și mi s-a activat și regenerarea \Nautomată a Coroanei Deformate.
+Dialogue: 99,0:15:03.00,0:15:05.96,Dialogue,Batutta,0,0,0,,V-Vrei să spui că ești nemuritor?
+Dialogue: 99,0:15:06.88,0:15:08.32,Dialogue,Batutta,0,0,0,,Asta e imposibil!
+Dialogue: 99,0:15:08.32,0:15:09.47,Dialogue,Batutta,0,0,0,,Shiliu!
+Dialogue: 99,0:15:09.47,0:15:11.72,Dialogue,Shiliu,0,0,0,,Da, stăpâne.
+Dialogue: 99,0:15:15.56,0:15:20.06,Dialogue,Shiliu,0,0,0,,Se pare că strategia dumneavoastră a triumfat, în cele din urmă, stăpâne.
+Dialogue: 99,0:15:20.06,0:15:21.31,Dialogue,Shera,0,0,0,,Rem!
+Dialogue: 99,0:15:21.31,0:15:22.48,Dialogue,Rem,0,0,0,,Diablo!
+Dialogue: 99,0:15:22.48,0:15:25.27,Dialogue,Rem,0,0,0,,Nu-ți face griji pentru mine! Luptă!
+Dialogue: 99,0:15:26.56,0:15:27.90,Dialogue,Diablo,0,0,0,,Nemernicule...
+Dialogue: 99,0:15:28.32,0:15:29.53,Dialogue,Diablo,0,0,0,,Te voi ucide!
+Dialogue: 99,0:15:30.55,0:15:31.83,Dialogue,Diablo,0,0,0,,{\i1}Ce ar trebui să fac?
+Dialogue: 99,0:15:40.74,0:15:43.33,Dialogue,Shera,0,0,0,,Cum ți s-a părut Lovitura Îngerului?
+Dialogue: 99,0:15:43.33,0:15:45.62,Dialogue,Diablo,0,0,0,,Bună treabă, Shera!
+Dialogue: 99,0:15:55.09,0:15:56.44,Dialogue,Shera,0,0,0,,Ce? Ce?
+Dialogue: 99,0:15:56.44,0:15:58.36,Dialogue,Shera,0,0,0,,S-a transformat în piatră?
+Dialogue: 99,0:15:58.36,0:15:59.47,Dialogue,Diablo,0,0,0,,Ce?
+Dialogue: 99,0:15:59.47,0:16:01.73,Dialogue,Diablo,0,0,0,,Este cumva un efect al magiei lui Klem?
+Dialogue: 99,0:16:01.73,0:16:05.69,Dialogue,Shera,0,0,0,,K-Klem, asta este mult prea înfricoșător!
+Dialogue: 99,0:16:05.69,0:16:07.52,Dialogue,Batutta,0,0,0,,Sh-Shiliu...
+Dialogue: 99,0:16:07.52,0:16:08.52,Dialogue,Rem,0,0,0,,Shera!
+Dialogue: 99,0:16:08.52,0:16:10.15,Dialogue,Horn,0,0,0,,Ești bine?
+Dialogue: 99,0:16:10.52,0:16:11.69,Dialogue,Rem,0,0,0,,Tu ești...
+Dialogue: 99,0:16:12.71,0:16:15.18,Dialogue,Horn,0,0,0,,Voiam să-i demonstrez
+Dialogue: 99,0:16:15.94,0:16:17.95,Dialogue,Horn,0,0,0,,că și eu pot fi utilă.
+Dialogue: 99,0:16:17.95,0:16:19.21,Dialogue,Diablo,0,0,0,,{\i1}Horn...
+Dialogue: 99,0:16:21.12,0:16:23.98,Dialogue,Diablo,0,0,0,,Ce vei face acum, Batutta?
+Dialogue: 99,0:16:26.29,0:16:27.44,Dialogue,Diablo,0,0,0,,{\i1}Bun.
+Dialogue: 99,0:16:27.44,0:16:28.92,Dialogue,Diablo,0,0,0,,{\i1}Se pare că am reușit să câștigăm cumva.
+Dialogue: 99,0:16:31.26,0:16:35.45,Dialogue,Batutta,0,0,0,,Vă veți scufunda cu toții \Nîn marea disperării.
+Dialogue: 99,0:16:35.45,0:16:36.39,Dialogue,Diablo,0,0,0,,Ce?
+Dialogue: 99,0:16:36.39,0:16:41.85,Dialogue,Batutta,0,0,0,,Totuși, mare păcat că nu voi reuși \Nsă vă văd fețele pline de suferință!
+Dialogue: 99,0:16:42.60,0:16:44.44,Dialogue,Diablo,0,0,0,,{\i1}Încă mai vrea să lupte?
+Dialogue: 99,0:16:46.81,0:16:50.69,Dialogue,Batutta,0,0,0,,Lovitura Strălucitoare!
+Dialogue: 99,0:16:50.69,0:16:53.58,Dialogue,Diablo,0,0,0,,Tunul Întunericului!
+Dialogue: 99,0:17:06.42,0:17:08.42,Dialogue,Shera,0,0,0,,Diablo!
+Dialogue: 99,0:17:13.42,0:17:14.84,Dialogue,Diablo,0,0,0,,Este inutil!
+Dialogue: 99,0:17:14.84,0:17:18.89,Dialogue,Diablo,0,0,0,,Eu sunt Diablo, Lordul Demon \Nvenit dintr-o altă lume!
+Dialogue: 99,0:17:32.44,0:17:34.46,Dialogue,Shera,0,0,0,,Diablo!
+Dialogue: 99,0:17:35.72,0:17:36.70,Dialogue,Diablo,0,0,0,,Shera?!
+Dialogue: 99,0:17:36.70,0:17:38.33,Dialogue,Diablo,0,0,0,,De ce ai venit aici jos?!
+Dialogue: 99,0:17:38.33,0:17:40.01,Dialogue,Diablo,0,0,0,,Acest loc este pe cale să se prăbușească!
+Dialogue: 99,0:17:40.01,0:17:42.70,Dialogue,Shera,0,0,0,,Da, de asta trebuie să \Nieșim de aici și repede!
+Dialogue: 99,0:17:42.70,0:17:44.39,Dialogue,Shera,0,0,0,,Împreună cu ceilalți!
+Dialogue: 99,0:17:48.53,0:17:50.86,Dialogue,Diablo,0,0,0,,{\i1}Ar fi putut scăpa de una singură.
+Dialogue: 99,0:17:52.97,0:17:54.02,Dialogue,Diablo,0,0,0,,{\i1}Doamne...
+Dialogue: 99,0:18:01.60,0:18:03.46,Dialogue,Diablo,0,0,0,,Ține-te bine.
+Dialogue: 99,0:18:03.46,0:18:04.31,Dialogue,Shera,0,0,0,,Ce?
+Dialogue: 99,0:18:14.88,0:18:16.69,Dialogue,Laminitus,0,0,0,,Cine ești?!
+Dialogue: 99,0:18:17.38,0:18:19.79,Dialogue,Varakness,0,0,0,,Scuză-mă că-ți întrerup baia.
+Dialogue: 99,0:18:19.79,0:18:25.54,Dialogue,Varakness,0,0,0,,Eu sunt Varakness, cel ales drept marele general al armatei Lordului Demon.
+Dialogue: 99,0:18:25.54,0:18:27.18,Dialogue,Varakness,0,0,0,,Lordul Demon...
+Dialogue: 99,0:18:27.18,0:18:29.63,Dialogue,Varakness,0,0,0,,Maiestatea Sa s-a trezit,
+Dialogue: 99,0:18:29.63,0:18:32.50,Dialogue,Varakness,0,0,0,,deci am venit să te sfătuiesc să te predai.
+Dialogue: 99,0:18:32.50,0:18:34.04,Dialogue,Laminitus,0,0,0,,Să mă predau?
+Dialogue: 99,0:18:34.04,0:18:36.97,Dialogue,Laminitus,0,0,0,,Lordul Demon plănuiește să domnească peste oamenii acestui oraș?
+Dialogue: 99,0:18:36.97,0:18:40.80,Dialogue,Varakness,0,0,0,,Domnia Lordului Demon este \Nuna dreaptă și milostivă.
+Dialogue: 99,0:18:42.14,0:18:45.52,Dialogue,Varakness,0,0,0,,Va pune toate rasele \Nmuritoare să se sinucidă.
+Dialogue: 99,0:18:46.03,0:18:51.42,Dialogue,Varakness,0,0,0,,Asta este mult mai îngăduitor decât să le lase să fie devorate de monștri.
+Dialogue: 99,0:18:51.42,0:18:53.05,Dialogue,Varakness,0,0,0,,Ce părere ai?
+Dialogue: 99,0:18:53.73,0:18:55.11,Dialogue,Laminitus,0,0,0,,Răspunsul meu este...
+Dialogue: 99,0:18:56.28,0:18:57.74,Dialogue,Laminitus,0,0,0,,Ești un idiot!
+Dialogue: 99,0:19:01.09,0:19:02.97,Dialogue,Varakness,0,0,0,,Asta e minunat!
+Dialogue: 99,0:19:02.97,0:19:06.70,Dialogue,Varakness,0,0,0,,Iubesc femeile puternice.
+Dialogue: 99,0:19:06.70,0:19:08.54,Dialogue,Laminitus,0,0,0,,Nu mă subestima!
+Dialogue: 99,0:19:13.04,0:19:14.96,Dialogue,Varakness,0,0,0,,Fanis Laminitus,
+Dialogue: 99,0:19:14.96,0:19:16.80,Dialogue,Varakness,0,0,0,,nu te voi ucide.
+Dialogue: 99,0:19:16.80,0:19:20.01,Dialogue,Varakness,0,0,0,,Vei fi o piesă foarte drăguță \Npentru haremul meu.
+Dialogue: 99,0:19:20.01,0:19:21.71,Dialogue,Laminitus,0,0,0,,Haremul tău?
+Dialogue: 99,0:19:21.71,0:19:25.14,Dialogue,Varakness,0,0,0,,Voi veni să te iau în următoarea \Nnoapte cu lună plină.
+Dialogue: 99,0:19:25.14,0:19:29.10,Dialogue,Varakness,0,0,0,,Asigură-te că-ți porți \Nrochia de mireasă, Fanis.
+Dialogue: 99,0:19:30.92,0:19:34.06,Dialogue,Laminitus,0,0,0,,Nu-mi folosi prenumele așa de ușor!
+Dialogue: 99,0:19:34.06,0:19:35.48,Dialogue,Laminitus,0,0,0,,Acel nemernic!
+Dialogue: 99,0:19:38.11,0:19:40.26,Dialogue,Laminitus,0,0,0,,Următoarea noapte cu lună plină...
+Dialogue: 99,0:19:45.49,0:19:47.23,Dialogue,Horn,0,0,0,,Plutim.
+Dialogue: 99,0:19:47.23,0:19:49.70,Dialogue,Horn,0,0,0,,Chiar plutim.
+Dialogue: 99,0:19:49.70,0:19:55.35,Dialogue,Rem,0,0,0,,Diablo, mereu ne întreci \Nașteptările cu atâta ușurință.
+Dialogue: 99,0:19:56.29,0:19:59.42,Dialogue,Shera,0,0,0,,Dar chiar a fost periculos de data asta!
+Dialogue: 99,0:20:00.21,0:20:01.05,Dialogue,Diablo,0,0,0,,{\i1}Așa este.
+Dialogue: 99,0:20:01.69,0:20:03.24,Dialogue,Rem,0,0,0,,Diablo!
+Dialogue: 99,0:20:03.24,0:20:04.35,Dialogue,Lumachina,0,0,0,,Diablo!
+Dialogue: 99,0:20:05.41,0:20:06.97,Dialogue,Diablo,0,0,0,,Stați aproape de mine!
+Dialogue: 99,0:20:11.39,0:20:14.52,Dialogue,Diablo,0,0,0,,Schimbă-ți poziția așa cum îți comand!
+Dialogue: 99,0:20:15.99,0:20:17.26,Dialogue,Diablo,0,0,0,,Adzet!
+Dialogue: 99,0:20:18.94,0:20:21.47,Dialogue,Diablo,0,0,0,,Ridică-te!
+Dialogue: 99,0:20:28.19,0:20:29.92,Dialogue,Diablo,0,0,0,,{\i1}A fost cât pe ce.
+Dialogue: 99,0:20:29.92,0:20:31.16,Dialogue,Rem,0,0,0,,Lumachina?
+Dialogue: 99,0:20:31.16,0:20:32.75,Dialogue,Shera,0,0,0,,L-Lumachina?!
+Dialogue: 99,0:20:32.75,0:20:34.92,Dialogue,Shera,0,0,0,,Rezistă, Lumachina!
+Dialogue: 99,0:20:34.92,0:20:38.12,Dialogue,Rem,0,0,0,,Ce s-a întâmplat? Ești bine?!
+Dialogue: 99,0:20:40.48,0:20:42.01,Dialogue,Diablo,0,0,0,,Asta este Boala Semnelor Morții!
+Dialogue: 99,0:20:42.01,0:20:43.68,Dialogue,Rem,0,0,0,,C-Cum?!
+Dialogue: 99,0:20:43.68,0:20:45.59,Dialogue,Shera,0,0,0,,De ce?!
+Dialogue: 99,0:20:48.82,0:20:52.56,Dialogue,Batutta,0,0,0,,Vă veți scufunda cu toții \Nîn marea disperării.
+Dialogue: 99,0:20:54.10,0:20:57.37,Dialogue,Diablo,0,0,0,,{\i1}Pusese deja blestemul pe Lumachina?!
+Dialogue: 99,0:20:57.77,0:20:59.74,Dialogue,Shera,0,0,0,,Știu, Lumachina!
+Dialogue: 99,0:20:59.74,0:21:02.22,Dialogue,Shera,0,0,0,,Doar roagă-te ca să te vindeci exact cum ai făcut pentru acel bebeluș!
+Dialogue: 99,0:21:02.22,0:21:03.00,Dialogue,Diablo,0,0,0,,Asta e imposibil.
+Dialogue: 99,0:21:03.40,0:21:06.87,Dialogue,Diablo,0,0,0,,Miracolele lui Lumachina nu \Nfuncționează pe ea însăși.
+Dialogue: 99,0:21:07.92,0:21:11.54,Dialogue,Lumachina,0,0,0,,Nu pot folosi puterea \Nmiracolelor pe corpul meu.
+Dialogue: 99,0:21:12.29,0:21:13.74,Dialogue,Shera,0,0,0,,Nu se poate...
+Dialogue: 99,0:21:14.58,0:21:16.97,Dialogue,Shera,0,0,0,,Nu! Lumachina!
+Dialogue: 99,0:21:17.70,0:21:19.42,Dialogue,Lumachina,0,0,0,,Nu plânge, te rog.
+Dialogue: 99,0:21:20.23,0:21:24.81,Dialogue,Lumachina,0,0,0,,Sunt sigură că și asta face \Nparte din planul Domnului.
+Dialogue: 99,0:21:24.81,0:21:25.88,Dialogue,Diablo,0,0,0,,Așa este.
+Dialogue: 99,0:21:26.55,0:21:27.84,Dialogue,Rem,0,0,0,,Diablo!
+Dialogue: 99,0:21:27.84,0:21:29.55,Dialogue,Horn,0,0,0,,Domnule, asta este mult prea...
+Dialogue: 99,0:21:29.55,0:21:32.15,Dialogue,Diablo,0,0,0,,De asta nu vei muri încă!
+Dialogue: 99,0:21:33.68,0:21:35.14,Dialogue,Lumachina,0,0,0,,Diablo...
+Dialogue: 99,0:21:36.23,0:21:40.86,Dialogue,Diablo,0,0,0,,Ai venit până aici ca să elimini \Ncorupția Bisericii, nu-i așa?!
+Dialogue: 99,0:21:40.86,0:21:43.16,Dialogue,Diablo,0,0,0,,În acest caz, fii curajoasă!
+Dialogue: 99,0:21:43.16,0:21:45.19,Dialogue,Diablo,0,0,0,,Nu lăsa un blestem să te doboare!
+Dialogue: 99,0:21:45.60,0:21:49.32,Dialogue,Diablo,0,0,0,,Dacă vei avea nevoie, \Nîți voi împrumuta și puterea mea!
+Dialogue: 99,0:21:53.28,0:21:54.50,Dialogue,Lumachina,0,0,0,,Am înțeles.
+Dialogue: 99,0:21:54.50,0:21:57.58,Dialogue,Lumachina,0,0,0,,Nu voi lăsa un blestem să mă doboare!
+Dialogue: 99,0:21:57.58,0:21:59.29,Dialogue,Diablo,0,0,0,,Crede în mine!
+Dialogue: 99,0:21:59.91,0:22:03.09,Dialogue,Diablo,0,0,0,,Copile, condu-ne către noua temniță.
+Dialogue: 99,0:22:03.09,0:22:04.96,Dialogue,Horn,0,0,0,,B-Bine!
+Dialogue: 99,0:22:05.81,0:22:09.08,Dialogue,Diablo,0,0,0,,{\i1}Acolo ar trebui să am amuleta \Nprotectoare câștigată la eveniment,
+Dialogue: 99,0:22:09.08,0:22:11.56,Dialogue,Diablo,0,0,0,,{\i1}cea care vindecă Boala Semnelor Morții.
+Dialogue: 99,0:22:12.02,0:22:13.81,Dialogue,Diablo,0,0,0,,Acolo se află obiectul
+Dialogue: 99,0:22:13.81,0:22:17.99,Dialogue,Diablo,0,0,0,,de care avem nevoie ca să \Nînvingem Boala Semnelor Morții!
+Dialogue: 99,0:23:51.28,0:23:54.40,Dialogue,Diablo,0,700,0,,{\i1}Nu credeam niciodată că va trebui să-mi înfrunt propria temniță.
+Dialogue: 99,0:23:54.40,0:23:56.28,Dialogue,Horn,0,700,0,,Vrei să spui că trebuie să dansăm pe această scenă?
+Dialogue: 99,0:23:56.28,0:23:57.20,Dialogue,Diablo,0,700,0,,Mori!
+Dialogue: 99,0:23:57.20,0:24:00.42,Dialogue,Diablo,0,700,0,,Așa că de dragul cosmeticelor mele scumpe...
 Dialogue: 0,0:09:55.91,0:10:00.75,DedzuyaSigns,,0,0,0,,{\pos(960,80)\fnZombified\fs84\bord8\3c&HFFFFFF&\blur6\fad(228,0)\t(0,228,\c&H682169&\3c&H682169&)}DIABLO, LORDUL DEMON DIN ALTĂ LUME
 Dialogue: 1,0:09:55.91,0:10:00.75,DedzuyaSigns,,0,0,0,,{\pos(960,80)\fnZombified\fs84\bord1\3c&HFFFFFF&\blur5\fad(228,0)\t(0,186,\blur1)}DIABLO, LORDUL DEMON DIN ALTĂ LUME
 Dialogue: 2,0:09:55.91,0:10:00.75,DedzuyaSigns,,0,0,0,,{\pos(960,80)\fnZombified\fs84\yshad4\4c&HFFFFFF&\blur5\clip(313,24,1608,25)\t(0,228,\c&HEC9B74&)\t(0,228,\4c&HE3D7B1&)\t(0,186,\blur1)}DIABLO, LORDUL DEMON DIN ALTĂ LUME

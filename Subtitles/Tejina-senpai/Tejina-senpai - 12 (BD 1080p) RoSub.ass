@@ -33,225 +33,225 @@ Style: ED TL,Bencoleng,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:01:00.37,0:01:02.04,Dialogue,sem,0,0,0,,"Growing Sempai."
-Dialogue: 100,0:01:03.54,0:01:06.04,Dialogue,ass,0,0,0,,{\i1}Cleaning duty held me up, so I'm late.
-Dialogue: 100,0:01:06.04,0:01:08.19,Dialogue,ma,0,0,0,,Big Sis, let it go for a minute!
-Dialogue: 100,0:01:08.19,0:01:10.29,Dialogue,saki,0,0,0,,Don't worry. I've got it.
-Dialogue: 100,0:01:10.29,0:01:12.93,Dialogue,saki,0,0,0,,It's so big and full already.
-Dialogue: 100,0:01:12.93,0:01:14.99,Dialogue,saki,0,0,0,,Should I use my mouth now?
-Dialogue: 100,0:01:14.99,0:01:17.41,Dialogue,ma,0,0,0,,No, don't grab it so hard!
-Dialogue: 100,0:01:17.41,0:01:18.25,Dialogue,saki,0,0,0,,I know.
-Dialogue: 100,0:01:18.25,0:01:20.58,Dialogue,saki,0,0,0,,I'll watch my nails and be gentle.
-Dialogue: 100,0:01:20.58,0:01:22.56,Dialogue,ass,0,0,0,,{\i1}What are those siblings doing in the club room?
-Dialogue: 100,0:01:23.47,0:01:24.81,Dialogue,ass,0,0,0,,What are you people doing?!
-Dialogue: 100,0:01:26.68,0:01:28.27,Dialogue,sem,0,0,0,,Hey, Assistant!
-Dialogue: 100,0:01:28.27,0:01:31.67,Dialogue,sem,0,0,0,,Saki-chan and Ma-kun were showing\Nme how to make balloon art!
-Dialogue: 100,0:01:31.67,0:01:33.03,Dialogue,ass,0,0,0,,Just what I thought!
-Dialogue: 100,0:01:33.58,0:01:36.95,Dialogue,saki,0,0,0,,Okay, let's start with\Nhow to blow up your balloons!
-Dialogue: 100,0:01:36.95,0:01:39.48,Dialogue,ass,0,0,0,,Really? Seems pretty basic...
-Dialogue: 100,0:01:39.48,0:01:42.70,Dialogue,saki,0,0,0,,Before you blow into it, make sure\Nyou stretch it nice and good.
-Dialogue: 100,0:01:43.73,0:01:45.33,Dialogue,sem,0,0,0,,I'm gonna get right to it!
-Dialogue: 100,0:01:49.02,0:01:50.34,Dialogue,saki,0,0,0,,Mysterious, huh?
-Dialogue: 100,0:01:50.34,0:01:53.59,Dialogue,saki,0,0,0,,There's a trick to blowing\Nit up with your mouth.
-Dialogue: 100,0:01:53.59,0:01:56.56,Dialogue,saki,0,0,0,,Of course, I can do it with just my nose!
-Dialogue: 100,0:01:56.56,0:01:59.80,Dialogue,ass,0,0,0,,{\i1}I think you lose girl points\Nfor acting smug about that.
-Dialogue: 100,0:02:00.72,0:02:02.60,Dialogue,saki,0,0,0,,Everyone, got your balloons?
-Dialogue: 100,0:02:02.97,0:02:05.60,Dialogue,saki,0,0,0,,Okay, let's start with a doggy!
-Dialogue: 100,0:02:05.60,0:02:07.40,Dialogue,ass,0,0,0,,Isn't that a bit advanced?
-Dialogue: 100,0:02:07.40,0:02:10.92,Dialogue,saki,0,0,0,,You can make it purely with cod roe twists,\N so it's good for practice.
-Dialogue: 100,0:02:10.92,0:02:12.57,Dialogue,ass,0,0,0,,Cod roe twists?
-Dialogue: 100,0:02:12.57,0:02:15.78,Dialogue,saki,0,0,0,,Twist the balloon three times to make bubbles.
-Dialogue: 100,0:02:15.78,0:02:18.24,Dialogue,saki,0,0,0,,Fold the bubbles back\Non each other and twist again.
-Dialogue: 100,0:02:18.24,0:02:19.38,Dialogue,saki,0,0,0,,This is a cod roe twist.
-Dialogue: 100,0:02:19.38,0:02:21.53,Dialogue,saki,0,0,0,,Then repeat that two more times, and...
-Dialogue: 100,0:02:22.77,0:02:25.62,Dialogue,saki,0,0,0,,Ta-dah! You've got your doggy!
-Dialogue: 100,0:02:25.62,0:02:28.41,Dialogue,saki,0,0,0,,The trick is to twist with determination.
-Dialogue: 100,0:02:29.22,0:02:31.50,Dialogue,ass,0,0,0,,It's a little scary once\Nyou're actually doing it.
-Dialogue: 100,0:02:31.98,0:02:33.63,Dialogue,ass,0,0,0,,How are you doing, Sempai?
-Dialogue: 100,0:02:33.89,0:02:36.09,Dialogue,sem,0,0,0,,Don't make me do more than this!
-Dialogue: 100,0:02:36.09,0:02:37.32,Dialogue,ass,0,0,0,,{\i1}You've got quite the haul.
-Dialogue: 100,0:02:38.57,0:02:41.51,Dialogue,sem,0,0,0,,What kind of person twists a balloon?!
-Dialogue: 100,0:02:43.58,0:02:45.89,Dialogue,sem,0,0,0,,My hands are exhausted...
-Dialogue: 100,0:02:46.16,0:02:47.77,Dialogue,sem,0,0,0,,I've done enough for today.
-Dialogue: 100,0:02:47.77,0:02:49.89,Dialogue,ass,0,0,0,,I personally recommend not stopping there.
-Dialogue: 100,0:02:49.89,0:02:52.44,Dialogue,saki,0,0,0,,When you get tired,\Njust stick it between your legs,
-Dialogue: 100,0:02:52.44,0:02:53.77,Dialogue,saki,0,0,0,,and rest!
-Dialogue: 100,0:02:53.77,0:02:55.64,Dialogue,sem,0,0,0,,I get it! Smart thinking!
-Dialogue: 100,0:02:55.64,0:02:57.18,Dialogue,ass,0,0,0,,There's nothing smart about that!
-Dialogue: 100,0:02:58.90,0:03:01.76,Dialogue,saki,0,0,0,,I guess you don't get nervous\Nif you're not doing magic?
-Dialogue: 100,0:03:01.76,0:03:04.55,Dialogue,sem,0,0,0,,Instead of being nervous, I'm terrified!
-Dialogue: 100,0:03:04.91,0:03:06.69,Dialogue,saki,0,0,0,,But you totally finished it!
-Dialogue: 100,0:03:06.69,0:03:08.70,Dialogue,sem,0,0,0,,Hey, I did!
-Dialogue: 100,0:03:08.70,0:03:09.91,Dialogue,sem,0,0,0,,I did it, Assistant!
-Dialogue: 100,0:03:11.81,0:03:12.67,Dialogue,ass,0,0,0,,Bummer!
-Dialogue: 100,0:03:14.35,0:03:17.45,Dialogue,sem,0,0,0,,My dog turned into cod roe...
-Dialogue: 100,0:03:17.45,0:03:19.34,Dialogue,saki,0,0,0,,How did this happen?
-Dialogue: 100,0:03:19.67,0:03:21.34,Dialogue,sem,0,0,0,,"Unfailing Sempai."
-Dialogue: 100,0:03:23.19,0:03:25.66,Dialogue,sem,0,0,0,,Assistant, hold onto your butt for this one!
-Dialogue: 100,0:03:25.66,0:03:26.85,Dialogue,ass,0,0,0,,What now?
-Dialogue: 100,0:03:28.32,0:03:32.85,Dialogue,sem,0,0,0,,Sempai just discovered\Na way not to fail at magic!
-Dialogue: 100,0:03:34.00,0:03:34.98,Dialogue,ass,0,0,0,,Sempai...
-Dialogue: 100,0:03:34.98,0:03:37.06,Dialogue,sem,0,0,0,,What? Curious?
-Dialogue: 100,0:03:37.06,0:03:39.57,Dialogue,ass,0,0,0,,At times like these, it's best to remain calm.
-Dialogue: 100,0:03:39.57,0:03:41.55,Dialogue,ass,0,0,0,,Our first job is to contact\Nthe consumer center...
-Dialogue: 100,0:03:41.55,0:03:42.65,Dialogue,sem,0,0,0,,It's not a scam!
-Dialogue: 100,0:03:42.65,0:03:44.58,Dialogue,sem,0,0,0,,Watch and you'll see!
-Dialogue: 100,0:03:46.78,0:03:48.62,Dialogue,sem,0,0,0,,Now, wait just a single minute.
-Dialogue: 100,0:03:48.94,0:03:50.87,Dialogue,sem,0,0,0,,Close the curtain!
-Dialogue: 100,0:03:55.88,0:03:57.57,Dialogue,ass,0,0,0,,{\i1}Strangely quiet in there.
-Dialogue: 100,0:03:57.57,0:03:59.63,Dialogue,ass,0,0,0,,{\i1}I wonder if she's pouting\Nbecause she can't get out.
-Dialogue: 100,0:04:01.09,0:04:03.23,Dialogue,ass,0,0,0,,I'm opening the curtain, Sempai.
-Dialogue: 100,0:04:04.40,0:04:06.38,Dialogue,ass,0,0,0,,She's gone! How?
-Dialogue: 100,0:04:07.16,0:04:08.58,Dialogue,ass,0,0,0,,Sempai?
-Dialogue: 100,0:04:08.58,0:04:11.41,Dialogue,ass,0,0,0,,{\i1}Strange... I thought the magic\Nwas taking off the shackles,
-Dialogue: 100,0:04:11.41,0:04:13.46,Dialogue,ass,0,0,0,,{\i1}but was it about disappearing instead?
-Dialogue: 100,0:04:14.66,0:04:16.52,Dialogue,ass,0,0,0,,{\i1}Then she actually succeeded?
-Dialogue: 100,0:04:18.09,0:04:20.03,Dialogue,sem,0,0,0,,{\i1}Trick successful!
-Dialogue: 100,0:04:20.03,0:04:23.78,Dialogue,sem,0,0,0,,{\i1}That's right... I couldn't remove\N the shackles at all!
-Dialogue: 100,0:04:23.78,0:04:29.08,Dialogue,sem,0,0,0,,{\i1}However, I never claimed I was\Ngoing to escape from the shackles!
-Dialogue: 100,0:04:29.08,0:04:33.05,Dialogue,sem,0,0,0,,{\i1}It's the perfect way keep\Nfrom ever failing at magic!
-Dialogue: 100,0:04:33.05,0:04:36.97,Dialogue,sem,0,0,0,,{\i1}But it's getting hot in here, so maybe\NI'll jump out and surprise him now.
-Dialogue: 100,0:04:36.97,0:04:38.67,Dialogue,ass,0,0,0,,Oh, well. Better go...
-Dialogue: 100,0:04:41.64,0:04:42.47,Dialogue,sem,0,0,0,,Huh?
-Dialogue: 100,0:04:42.47,0:04:45.09,Dialogue,sem,0,0,0,,No way! I'm stuck and can't move!
-Dialogue: 100,0:04:55.19,0:04:56.81,Dialogue,sem,0,0,0,,"Competitive Sempai."
-Dialogue: 100,0:04:59.95,0:05:01.44,Dialogue,mad,0,0,0,,Yes? Who's there?
-Dialogue: 100,0:05:03.07,0:05:08.04,Dialogue,ass,0,0,0,,The club room is locked, so I'm going\Nto get in through the chem room.
-Dialogue: 100,0:05:08.04,0:05:09.17,Dialogue,mad,0,0,0,,Okay, but...
-Dialogue: 100,0:05:09.17,0:05:11.20,Dialogue,mad,0,0,0,,Oh, wait a minute.
-Dialogue: 100,0:05:12.53,0:05:13.89,Dialogue,mad,0,0,0,,Take this with you.
-Dialogue: 100,0:05:13.89,0:05:16.08,Dialogue,ass,0,0,0,,A cola? Thanks so much!
-Dialogue: 100,0:05:17.13,0:05:19.08,Dialogue,mad,0,0,0,,It's no ordinary cola.
-Dialogue: 100,0:05:20.00,0:05:22.13,Dialogue,ass,0,0,0,,It's freezing inside?
-Dialogue: 100,0:05:22.13,0:05:25.04,Dialogue,mad,0,0,0,,It uses the supercooling phenomenon.
-Dialogue: 100,0:05:25.04,0:05:26.09,Dialogue,ass,0,0,0,,Supercooling?
-Dialogue: 100,0:05:26.47,0:05:29.26,Dialogue,mad,0,0,0,,If a liquid is slowly and evenly\Nlowered to its freezing point,
-Dialogue: 100,0:05:29.26,0:05:32.63,Dialogue,mad,0,0,0,,and then opened, moved,\Nor otherwise stimulated,
-Dialogue: 100,0:05:33.37,0:05:35.40,Dialogue,mad,0,0,0,,it will immediately freeze over.
-Dialogue: 100,0:05:35.96,0:05:37.69,Dialogue,ass,0,0,0,,That's amazing!
-Dialogue: 100,0:05:39.80,0:05:41.77,Dialogue,sem,0,0,0,,Sorry I'm late!
-Dialogue: 100,0:05:42.55,0:05:44.36,Dialogue,sem,0,0,0,,Is that my assistant's voice?
-Dialogue: 100,0:05:45.74,0:05:48.99,Dialogue,sem,0,0,0,,He's really having fun talking to her.
-Dialogue: 100,0:05:49.27,0:05:51.29,Dialogue,sem,0,0,0,,I wouldn't want to interrupt.
-Dialogue: 100,0:05:51.29,0:05:53.24,Dialogue,sem,0,0,0,,I guess I'll wait a while.
-Dialogue: 100,0:05:53.73,0:05:57.25,Dialogue,mad,0,0,0,,While you wait for your club president\Nto arrive, I'll show you one more thing!
-Dialogue: 100,0:05:57.60,0:05:59.19,Dialogue,mad,0,0,0,,The tablecloth pull!
-Dialogue: 100,0:05:59.55,0:06:02.00,Dialogue,ass,0,0,0,,Does that have to do with science, too?
-Dialogue: 100,0:06:02.27,0:06:07.38,Dialogue,ass,0,0,0,,The reason things don't fall when you pull\Nthe cloth is due to the law of inertia.
-Dialogue: 100,0:06:07.38,0:06:10.46,Dialogue,sign,0,0,0,,An object at rest tends to stay at rest,
-Dialogue: 100,0:06:10.46,0:06:12.32,Dialogue,sign,0,0,0,,so if a stationary object's stationary force
-Dialogue: 100,0:06:12.32,0:06:14.74,Dialogue,sign,0,0,0,,exceeds the friction created\Nwhen the cloth is pulled,
-Dialogue: 100,0:06:14.74,0:06:16.58,Dialogue,sign,0,0,0,,you can pull out just the cloth.
-Dialogue: 100,0:06:17.39,0:06:19.27,Dialogue,sign,0,0,0,,Let's begin the experiment!
-Dialogue: 100,0:06:20.56,0:06:21.65,Dialogue,sign,0,0,0,,It's heavier than I thought...
-Dialogue: 100,0:06:22.74,0:06:23.86,Dialogue,ass,0,0,0,,Look out!
-Dialogue: 100,0:06:25.54,0:06:28.53,Dialogue,sem,0,0,0,,{\i1}Is my assistant more interested\Nin science than magic?
-Dialogue: 100,0:06:28.83,0:06:31.25,Dialogue,sem,0,0,0,,{\i1}But he's in my club, so...
-Dialogue: 100,0:06:31.25,0:06:35.96,Dialogue,sem,0,0,0,,{\i1}But what if he's been having secret chemistry\Nclub meetings that I just never saw?
-Dialogue: 100,0:06:35.96,0:06:38.41,Dialogue,sem,0,0,0,,{\i1}But maybe I should just watch a little longer?
-Dialogue: 100,0:06:40.79,0:06:41.97,Dialogue,ass,0,0,0,,Are you all right?
-Dialogue: 100,0:06:41.97,0:06:43.96,Dialogue,mad,0,0,0,,Um... Ah...
-Dialogue: 100,0:06:44.34,0:06:45.53,Dialogue,sem,0,0,0,,Is that what it's about?!
-Dialogue: 100,0:06:45.53,0:06:46.96,Dialogue,ass,0,0,0,,What's going on here, Sempai?
-Dialogue: 100,0:06:46.96,0:06:49.32,Dialogue,sem,0,0,0,,Which means more to you? Me or chemistry?
-Dialogue: 100,0:06:49.32,0:06:51.24,Dialogue,ass,0,0,0,,Don't make this more\Ncomplicated than it has to be!
-Dialogue: 100,0:06:51.64,0:06:53.30,Dialogue,sem,0,0,0,,I see everything now!
-Dialogue: 100,0:06:53.30,0:06:56.21,Dialogue,sem,0,0,0,,It's time for us to fight with our\N honor as club leaders on the line.
-Dialogue: 100,0:06:56.21,0:06:57.49,Dialogue,ass,0,0,0,,You don't see anything!
-Dialogue: 100,0:06:57.49,0:06:59.70,Dialogue,sem,0,0,0,,I'll pull the cloth next!
-Dialogue: 100,0:06:59.70,0:07:01.26,Dialogue,mad,0,0,0,,Wh-Where did that come from?
-Dialogue: 100,0:07:01.26,0:07:02.99,Dialogue,ass,0,0,0,,I'm sorry, Madara-san.
-Dialogue: 100,0:07:02.99,0:07:05.36,Dialogue,ass,0,0,0,,I think she just really wants to pull the cloth.
-Dialogue: 100,0:07:06.86,0:07:09.94,Dialogue,mad,0,0,0,,She's so confident...\NYou think she'll pull it off?
-Dialogue: 100,0:07:09.94,0:07:11.74,Dialogue,ass,0,0,0,,I wouldn't get my hopes up.
-Dialogue: 100,0:07:12.04,0:07:13.24,Dialogue,sem,0,0,0,,Now, let's begin!
-Dialogue: 100,0:07:15.07,0:07:16.62,Dialogue,mad,0,0,0,,{\i1}This is remarkable.
-Dialogue: 100,0:07:17.62,0:07:19.07,Dialogue,sem,0,0,0,,I admit defeat.
-Dialogue: 100,0:07:19.07,0:07:20.67,Dialogue,sem,0,0,0,,I'm sorry about the mess.
-Dialogue: 100,0:07:20.67,0:07:22.42,Dialogue,mad,0,0,0,,{\i1}This is also remarkable.
-Dialogue: 100,0:07:24.32,0:07:25.64,Dialogue,ass,0,0,0,,Nice and cool...
-Dialogue: 100,0:07:25.64,0:07:27.80,Dialogue,mad,0,0,0,,It uses the heat of vaporization.
-Dialogue: 100,0:07:27.80,0:07:29.52,Dialogue,sem,0,0,0,,Science is so cool!
-Dialogue: 100,0:07:29.52,0:07:31.93,Dialogue,mad,0,0,0,,That's right! Science is {\i1}very{\i0} cool!
-Dialogue: 100,0:07:31.93,0:07:34.75,Dialogue,mad,0,0,0,,{\i1}I found her threatening because\Nshe promotes that "magic" fraud,
-Dialogue: 100,0:07:34.75,0:07:38.02,Dialogue,mad,0,0,0,,{\i1}but she's proving herself rather harmless.
-Dialogue: 100,0:07:38.02,0:07:41.19,Dialogue,mad,0,0,0,,{\i1}I never should have\Njudged a book by its cover.
-Dialogue: 100,0:07:41.19,0:07:43.03,Dialogue,mad,0,0,0,,{\i1}It seems I still have much to learn.
-Dialogue: 100,0:07:44.02,0:07:46.27,Dialogue,mad,0,0,0,,{\i1}How long are these people going to stay here?
-Dialogue: 100,0:07:46.27,0:07:48.59,Dialogue,saki,0,0,0,,Feels so good!
-Dialogue: 100,0:07:48.59,0:07:49.85,Dialogue,mad,0,0,0,,{\i1}And they're multiplying!
-Dialogue: 100,0:07:49.85,0:07:52.88,Dialogue,sem,0,0,0,,You know? It feels even colder on wet clothing!
-Dialogue: 100,0:07:52.88,0:07:55.13,Dialogue,ass,0,0,0,,Don't blame me if you catch a cold.
-Dialogue: 100,0:07:55.13,0:07:57.28,Dialogue,mad,0,0,0,,Um... Are you guys leaving, ever?
-Dialogue: 100,0:07:57.66,0:07:59.29,Dialogue,sem,0,0,0,,"Silent Sempai."
-Dialogue: 100,0:08:00.79,0:08:03.29,Dialogue,sem,0,0,0,,Would you look at that!
-Dialogue: 100,0:08:03.78,0:08:06.26,Dialogue,sem,0,0,0,,Saki-chan and Ma-kun don't\Nseem to be coming today,
-Dialogue: 100,0:08:06.26,0:08:08.17,Dialogue,sem,0,0,0,,so maybe I'll let him sleep.
-Dialogue: 100,0:08:08.17,0:08:11.43,Dialogue,sem,0,0,0,,I'll try to do magic in total silence.
-Dialogue: 100,0:08:12.78,0:08:14.71,Dialogue,sem,0,0,0,,I'll start with this coin.
-Dialogue: 100,0:08:14.71,0:08:17.55,Dialogue,sem,0,0,0,,I'll make it fly, opposing all laws of gravity!
-Dialogue: 100,0:08:17.98,0:08:21.36,Dialogue,sem,0,0,0,,If I place the coin in my palm\Nand pinch it tightly,
-Dialogue: 100,0:08:21.36,0:08:25.31,Dialogue,sem,0,0,0,,the pressure on both sides\Nwill make the coin fly!
-Dialogue: 100,0:08:26.93,0:08:29.71,Dialogue,sem,0,0,0,,{\i1}Just be careful. Don't drop the coin!
-Dialogue: 100,0:08:30.82,0:08:31.69,Dialogue,sem,0,0,0,,Oops!
-Dialogue: 100,0:08:32.30,0:08:33.95,Dialogue,sem,0,0,0,,{\i1}Oh, no! Did I wake him up?
-Dialogue: 100,0:08:34.84,0:08:36.97,Dialogue,ass,0,0,0,,Sempai... please....
-Dialogue: 100,0:08:36.97,0:08:38.72,Dialogue,sem,0,0,0,,{\i1}He's talking in his sleep?
-Dialogue: 100,0:08:38.72,0:08:40.82,Dialogue,sem,0,0,0,,{\i1}I wonder what he's dreaming about...
-Dialogue: 100,0:08:43.21,0:08:46.21,Dialogue,sem,0,0,0,,Now it's time to bring out\N our two good friends!
-Dialogue: 100,0:08:46.51,0:08:48.84,Dialogue,sem,0,0,0,,All I need is a single handkerchief.
-Dialogue: 100,0:08:48.84,0:08:52.43,Dialogue,sem,0,0,0,,When I put this over my hand,\Na pigeon will appear—
-Dialogue: 100,0:08:52.90,0:08:54.80,Dialogue,sem,0,0,0,,{\i1}—over there?!
-Dialogue: 100,0:08:58.38,0:09:00.71,Dialogue,sem,0,0,0,,{\i1}But where's the other one?
-Dialogue: 100,0:09:01.22,0:09:04.23,Dialogue,sem,0,0,0,,{\i1}Don't come out of there!
-Dialogue: 100,0:09:06.05,0:09:10.41,Dialogue,sem,0,0,0,,{\i1}I'm glad he didn't see that,\Nbut without his snark, it feels a little...
-Dialogue: 100,0:09:10.41,0:09:12.06,Dialogue,sem,0,0,0,,{\i1}I can't believe I acclimated to that.
-Dialogue: 100,0:09:13.60,0:09:17.24,Dialogue,sem,0,0,0,,It got a little dicey for a minute there, but\NI got a pretty good club practice out of it!
-Dialogue: 100,0:09:17.66,0:09:20.24,Dialogue,sem,0,0,0,,Hey, Assistant. It's time to go home!
-Dialogue: 100,0:09:20.24,0:09:21.99,Dialogue,sem,0,0,0,,Assistant?
-Dialogue: 100,0:09:26.60,0:09:29.19,Dialogue,sem,0,0,0,,{\i1}Maybe I'll leave him a while longer.
-Dialogue: 100,0:09:31.63,0:09:34.13,Dialogue,sem,0,0,0,,{\i1}Okay, okay! Almost there!
-Dialogue: 100,0:09:34.50,0:09:38.26,Dialogue,ass,0,0,0,,{\i1}Why did I feign sleep expecting\Nsomething to happen?!
-Dialogue: 100,0:09:38.64,0:09:40.01,Dialogue,sem,0,0,0,,"Bunny Sempai."
-Dialogue: 100,0:09:45.36,0:09:47.54,Dialogue,sem,0,0,0,,Sh-Shank you for coming today!
-Dialogue: 100,0:09:47.54,0:09:50.27,Dialogue,ass,0,0,0,,Sempai... why are you dressed like that?
-Dialogue: 100,0:09:50.27,0:09:51.93,Dialogue,sem,0,0,0,,You know how when you get a mosquito bite,
-Dialogue: 100,0:09:51.93,0:09:55.31,Dialogue,sem,0,0,0,,and you pinch the nearby skin,\Nwhich hurts, but makes it itch less?
-Dialogue: 100,0:09:55.31,0:09:57.03,Dialogue,ass,0,0,0,,I... g-guess so?
-Dialogue: 100,0:09:57.03,0:09:59.56,Dialogue,sem,0,0,0,,So it occurred to me...
-Dialogue: 100,0:09:59.56,0:10:02.65,Dialogue,sem,0,0,0,,To get over my stage fright—\Nin other words, my embarrassment—
-Dialogue: 100,0:10:02.65,0:10:05.44,Dialogue,sem,0,0,0,,I just need to wear an even\Nmore embarrassing outfit!
-Dialogue: 100,0:10:05.44,0:10:08.19,Dialogue,ass,0,0,0,,I worry for your future, Sempai.
-Dialogue: 100,0:10:08.56,0:10:11.04,Dialogue,sem,0,0,0,,Today's performance begins\Nwith the cups and balls!
-Dialogue: 100,0:10:11.90,0:10:13.06,Dialogue,ass,0,0,0,,{\i1}I can't look away!
-Dialogue: 100,0:10:13.06,0:10:16.02,Dialogue,sem,0,0,0,,What, you love the trick that much?
-Dialogue: 100,0:10:16.02,0:10:17.32,Dialogue,ass,0,0,0,,Like hell I do!
-Dialogue: 100,0:10:17.32,0:10:20.30,Dialogue,ass,0,0,0,,{\i1}Stay calm. Don't get drawn\Ninto this deviant's rhythm!
-Dialogue: 100,0:10:20.65,0:10:22.60,Dialogue,ass,0,0,0,,{\i1}See? She's as red as a beet!
-Dialogue: 100,0:10:22.60,0:10:26.06,Dialogue,ass,0,0,0,,{\i1}You can't get over your stage\Nfright just by changing your outfit!
-Dialogue: 100,0:10:26.06,0:10:30.05,Dialogue,ass,0,0,0,,{\i1}As usual, she'll fail the minute\Nshe's in front of an audience.
-Dialogue: 100,0:10:30.05,0:10:32.44,Dialogue,sem,0,0,0,,So I hold the ball tight, and...
-Dialogue: 100,0:10:32.86,0:10:34.19,Dialogue,sem,0,0,0,,There!
-Dialogue: 100,0:10:34.19,0:10:36.37,Dialogue,sem,0,0,0,,Ta-dah! What a mystery!
-Dialogue: 100,0:10:36.37,0:10:39.00,Dialogue,sem,0,0,0,,When I open my hand, the ball is gone!
-Dialogue: 100,0:10:39.24,0:10:41.45,Dialogue,ass,0,0,0,,Sorry, I didn't see it.
-Dialogue: 100,0:10:41.45,0:10:43.28,Dialogue,sem,0,0,0,,Of course you didn't!
-Dialogue: 100,0:10:43.28,0:10:45.29,Dialogue,sem,0,0,0,,It's a testament to my skill!
-Dialogue: 100,0:10:45.29,0:10:47.46,Dialogue,ass,0,0,0,,What's with that, "Hah, I tricked you!" look?
-Dialogue: 100,0:10:47.46,0:10:48.62,Dialogue,ass,0,0,0,,Move on already!
-Dialogue: 100,0:10:49.33,0:10:53.71,Dialogue,sem,0,0,0,,Next, watch! I've sandwiched\Nthe ball between the cups.
-Dialogue: 100,0:10:53.71,0:10:56.92,Dialogue,ass,0,0,0,,Sandwiched... Must be pretty\N soft in there, yeah...
-Dialogue: 100,0:10:56.92,0:10:59.97,Dialogue,sem,0,0,0,,Huh? The ball is quite hard, actually.
-Dialogue: 100,0:11:00.35,0:11:02.22,Dialogue,sem,0,0,0,,Now I'll use my magic wand!
-Dialogue: 100,0:11:02.60,0:11:05.12,Dialogue,sem,0,0,0,,If I stroke the side of\Nthe cups with the wand...
-Dialogue: 100,0:11:05.12,0:11:07.29,Dialogue,sem,0,0,0,,W-Would you look at that?
-Dialogue: 100,0:11:07.29,0:11:09.73,Dialogue,sem,0,0,0,,The balls have all moved to the bottom cup!
-Dialogue: 100,0:11:10.24,0:11:12.38,Dialogue,sem,0,0,0,,{\i1}I managed it, even though he's watching!
-Dialogue: 100,0:11:12.38,0:11:14.75,Dialogue,ass,0,0,0,,Incredible. Truly incredible.
-Dialogue: 100,0:11:15.22,0:11:19.21,Dialogue,sem,0,0,0,,W-Well? How did you enjoy the cups and balls?
-Dialogue: 100,0:11:19.21,0:11:20.99,Dialogue,sem,0,0,0,,I had a pretty good showing today, right?
-Dialogue: 100,0:11:20.99,0:11:23.08,Dialogue,ass,0,0,0,,Yes, the cups were truly amazing!
-Dialogue: 100,0:11:23.08,0:11:24.49,Dialogue,sem,0,0,0,,Ura!
+Dialogue: 99,0:01:00.37,0:01:02.04,Dialogue,sem,0,0,0,,"Growing Sempai."
+Dialogue: 99,0:01:03.54,0:01:06.04,Dialogue,ass,0,0,0,,{\i1}Cleaning duty held me up, so I'm late.
+Dialogue: 99,0:01:06.04,0:01:08.19,Dialogue,ma,0,0,0,,Big Sis, let it go for a minute!
+Dialogue: 99,0:01:08.19,0:01:10.29,Dialogue,saki,0,0,0,,Don't worry. I've got it.
+Dialogue: 99,0:01:10.29,0:01:12.93,Dialogue,saki,0,0,0,,It's so big and full already.
+Dialogue: 99,0:01:12.93,0:01:14.99,Dialogue,saki,0,0,0,,Should I use my mouth now?
+Dialogue: 99,0:01:14.99,0:01:17.41,Dialogue,ma,0,0,0,,No, don't grab it so hard!
+Dialogue: 99,0:01:17.41,0:01:18.25,Dialogue,saki,0,0,0,,I know.
+Dialogue: 99,0:01:18.25,0:01:20.58,Dialogue,saki,0,0,0,,I'll watch my nails and be gentle.
+Dialogue: 99,0:01:20.58,0:01:22.56,Dialogue,ass,0,0,0,,{\i1}What are those siblings doing in the club room?
+Dialogue: 99,0:01:23.47,0:01:24.81,Dialogue,ass,0,0,0,,What are you people doing?!
+Dialogue: 99,0:01:26.68,0:01:28.27,Dialogue,sem,0,0,0,,Hey, Assistant!
+Dialogue: 99,0:01:28.27,0:01:31.67,Dialogue,sem,0,0,0,,Saki-chan and Ma-kun were showing\Nme how to make balloon art!
+Dialogue: 99,0:01:31.67,0:01:33.03,Dialogue,ass,0,0,0,,Just what I thought!
+Dialogue: 99,0:01:33.58,0:01:36.95,Dialogue,saki,0,0,0,,Okay, let's start with\Nhow to blow up your balloons!
+Dialogue: 99,0:01:36.95,0:01:39.48,Dialogue,ass,0,0,0,,Really? Seems pretty basic...
+Dialogue: 99,0:01:39.48,0:01:42.70,Dialogue,saki,0,0,0,,Before you blow into it, make sure\Nyou stretch it nice and good.
+Dialogue: 99,0:01:43.73,0:01:45.33,Dialogue,sem,0,0,0,,I'm gonna get right to it!
+Dialogue: 99,0:01:49.02,0:01:50.34,Dialogue,saki,0,0,0,,Mysterious, huh?
+Dialogue: 99,0:01:50.34,0:01:53.59,Dialogue,saki,0,0,0,,There's a trick to blowing\Nit up with your mouth.
+Dialogue: 99,0:01:53.59,0:01:56.56,Dialogue,saki,0,0,0,,Of course, I can do it with just my nose!
+Dialogue: 99,0:01:56.56,0:01:59.80,Dialogue,ass,0,0,0,,{\i1}I think you lose girl points\Nfor acting smug about that.
+Dialogue: 99,0:02:00.72,0:02:02.60,Dialogue,saki,0,0,0,,Everyone, got your balloons?
+Dialogue: 99,0:02:02.97,0:02:05.60,Dialogue,saki,0,0,0,,Okay, let's start with a doggy!
+Dialogue: 99,0:02:05.60,0:02:07.40,Dialogue,ass,0,0,0,,Isn't that a bit advanced?
+Dialogue: 99,0:02:07.40,0:02:10.92,Dialogue,saki,0,0,0,,You can make it purely with cod roe twists,\N so it's good for practice.
+Dialogue: 99,0:02:10.92,0:02:12.57,Dialogue,ass,0,0,0,,Cod roe twists?
+Dialogue: 99,0:02:12.57,0:02:15.78,Dialogue,saki,0,0,0,,Twist the balloon three times to make bubbles.
+Dialogue: 99,0:02:15.78,0:02:18.24,Dialogue,saki,0,0,0,,Fold the bubbles back\Non each other and twist again.
+Dialogue: 99,0:02:18.24,0:02:19.38,Dialogue,saki,0,0,0,,This is a cod roe twist.
+Dialogue: 99,0:02:19.38,0:02:21.53,Dialogue,saki,0,0,0,,Then repeat that two more times, and...
+Dialogue: 99,0:02:22.77,0:02:25.62,Dialogue,saki,0,0,0,,Ta-dah! You've got your doggy!
+Dialogue: 99,0:02:25.62,0:02:28.41,Dialogue,saki,0,0,0,,The trick is to twist with determination.
+Dialogue: 99,0:02:29.22,0:02:31.50,Dialogue,ass,0,0,0,,It's a little scary once\Nyou're actually doing it.
+Dialogue: 99,0:02:31.98,0:02:33.63,Dialogue,ass,0,0,0,,How are you doing, Sempai?
+Dialogue: 99,0:02:33.89,0:02:36.09,Dialogue,sem,0,0,0,,Don't make me do more than this!
+Dialogue: 99,0:02:36.09,0:02:37.32,Dialogue,ass,0,0,0,,{\i1}You've got quite the haul.
+Dialogue: 99,0:02:38.57,0:02:41.51,Dialogue,sem,0,0,0,,What kind of person twists a balloon?!
+Dialogue: 99,0:02:43.58,0:02:45.89,Dialogue,sem,0,0,0,,My hands are exhausted...
+Dialogue: 99,0:02:46.16,0:02:47.77,Dialogue,sem,0,0,0,,I've done enough for today.
+Dialogue: 99,0:02:47.77,0:02:49.89,Dialogue,ass,0,0,0,,I personally recommend not stopping there.
+Dialogue: 99,0:02:49.89,0:02:52.44,Dialogue,saki,0,0,0,,When you get tired,\Njust stick it between your legs,
+Dialogue: 99,0:02:52.44,0:02:53.77,Dialogue,saki,0,0,0,,and rest!
+Dialogue: 99,0:02:53.77,0:02:55.64,Dialogue,sem,0,0,0,,I get it! Smart thinking!
+Dialogue: 99,0:02:55.64,0:02:57.18,Dialogue,ass,0,0,0,,There's nothing smart about that!
+Dialogue: 99,0:02:58.90,0:03:01.76,Dialogue,saki,0,0,0,,I guess you don't get nervous\Nif you're not doing magic?
+Dialogue: 99,0:03:01.76,0:03:04.55,Dialogue,sem,0,0,0,,Instead of being nervous, I'm terrified!
+Dialogue: 99,0:03:04.91,0:03:06.69,Dialogue,saki,0,0,0,,But you totally finished it!
+Dialogue: 99,0:03:06.69,0:03:08.70,Dialogue,sem,0,0,0,,Hey, I did!
+Dialogue: 99,0:03:08.70,0:03:09.91,Dialogue,sem,0,0,0,,I did it, Assistant!
+Dialogue: 99,0:03:11.81,0:03:12.67,Dialogue,ass,0,0,0,,Bummer!
+Dialogue: 99,0:03:14.35,0:03:17.45,Dialogue,sem,0,0,0,,My dog turned into cod roe...
+Dialogue: 99,0:03:17.45,0:03:19.34,Dialogue,saki,0,0,0,,How did this happen?
+Dialogue: 99,0:03:19.67,0:03:21.34,Dialogue,sem,0,0,0,,"Unfailing Sempai."
+Dialogue: 99,0:03:23.19,0:03:25.66,Dialogue,sem,0,0,0,,Assistant, hold onto your butt for this one!
+Dialogue: 99,0:03:25.66,0:03:26.85,Dialogue,ass,0,0,0,,What now?
+Dialogue: 99,0:03:28.32,0:03:32.85,Dialogue,sem,0,0,0,,Sempai just discovered\Na way not to fail at magic!
+Dialogue: 99,0:03:34.00,0:03:34.98,Dialogue,ass,0,0,0,,Sempai...
+Dialogue: 99,0:03:34.98,0:03:37.06,Dialogue,sem,0,0,0,,What? Curious?
+Dialogue: 99,0:03:37.06,0:03:39.57,Dialogue,ass,0,0,0,,At times like these, it's best to remain calm.
+Dialogue: 99,0:03:39.57,0:03:41.55,Dialogue,ass,0,0,0,,Our first job is to contact\Nthe consumer center...
+Dialogue: 99,0:03:41.55,0:03:42.65,Dialogue,sem,0,0,0,,It's not a scam!
+Dialogue: 99,0:03:42.65,0:03:44.58,Dialogue,sem,0,0,0,,Watch and you'll see!
+Dialogue: 99,0:03:46.78,0:03:48.62,Dialogue,sem,0,0,0,,Now, wait just a single minute.
+Dialogue: 99,0:03:48.94,0:03:50.87,Dialogue,sem,0,0,0,,Close the curtain!
+Dialogue: 99,0:03:55.88,0:03:57.57,Dialogue,ass,0,0,0,,{\i1}Strangely quiet in there.
+Dialogue: 99,0:03:57.57,0:03:59.63,Dialogue,ass,0,0,0,,{\i1}I wonder if she's pouting\Nbecause she can't get out.
+Dialogue: 99,0:04:01.09,0:04:03.23,Dialogue,ass,0,0,0,,I'm opening the curtain, Sempai.
+Dialogue: 99,0:04:04.40,0:04:06.38,Dialogue,ass,0,0,0,,She's gone! How?
+Dialogue: 99,0:04:07.16,0:04:08.58,Dialogue,ass,0,0,0,,Sempai?
+Dialogue: 99,0:04:08.58,0:04:11.41,Dialogue,ass,0,0,0,,{\i1}Strange... I thought the magic\Nwas taking off the shackles,
+Dialogue: 99,0:04:11.41,0:04:13.46,Dialogue,ass,0,0,0,,{\i1}but was it about disappearing instead?
+Dialogue: 99,0:04:14.66,0:04:16.52,Dialogue,ass,0,0,0,,{\i1}Then she actually succeeded?
+Dialogue: 99,0:04:18.09,0:04:20.03,Dialogue,sem,0,0,0,,{\i1}Trick successful!
+Dialogue: 99,0:04:20.03,0:04:23.78,Dialogue,sem,0,0,0,,{\i1}That's right... I couldn't remove\N the shackles at all!
+Dialogue: 99,0:04:23.78,0:04:29.08,Dialogue,sem,0,0,0,,{\i1}However, I never claimed I was\Ngoing to escape from the shackles!
+Dialogue: 99,0:04:29.08,0:04:33.05,Dialogue,sem,0,0,0,,{\i1}It's the perfect way keep\Nfrom ever failing at magic!
+Dialogue: 99,0:04:33.05,0:04:36.97,Dialogue,sem,0,0,0,,{\i1}But it's getting hot in here, so maybe\NI'll jump out and surprise him now.
+Dialogue: 99,0:04:36.97,0:04:38.67,Dialogue,ass,0,0,0,,Oh, well. Better go...
+Dialogue: 99,0:04:41.64,0:04:42.47,Dialogue,sem,0,0,0,,Huh?
+Dialogue: 99,0:04:42.47,0:04:45.09,Dialogue,sem,0,0,0,,No way! I'm stuck and can't move!
+Dialogue: 99,0:04:55.19,0:04:56.81,Dialogue,sem,0,0,0,,"Competitive Sempai."
+Dialogue: 99,0:04:59.95,0:05:01.44,Dialogue,mad,0,0,0,,Yes? Who's there?
+Dialogue: 99,0:05:03.07,0:05:08.04,Dialogue,ass,0,0,0,,The club room is locked, so I'm going\Nto get in through the chem room.
+Dialogue: 99,0:05:08.04,0:05:09.17,Dialogue,mad,0,0,0,,Okay, but...
+Dialogue: 99,0:05:09.17,0:05:11.20,Dialogue,mad,0,0,0,,Oh, wait a minute.
+Dialogue: 99,0:05:12.53,0:05:13.89,Dialogue,mad,0,0,0,,Take this with you.
+Dialogue: 99,0:05:13.89,0:05:16.08,Dialogue,ass,0,0,0,,A cola? Thanks so much!
+Dialogue: 99,0:05:17.13,0:05:19.08,Dialogue,mad,0,0,0,,It's no ordinary cola.
+Dialogue: 99,0:05:20.00,0:05:22.13,Dialogue,ass,0,0,0,,It's freezing inside?
+Dialogue: 99,0:05:22.13,0:05:25.04,Dialogue,mad,0,0,0,,It uses the supercooling phenomenon.
+Dialogue: 99,0:05:25.04,0:05:26.09,Dialogue,ass,0,0,0,,Supercooling?
+Dialogue: 99,0:05:26.47,0:05:29.26,Dialogue,mad,0,0,0,,If a liquid is slowly and evenly\Nlowered to its freezing point,
+Dialogue: 99,0:05:29.26,0:05:32.63,Dialogue,mad,0,0,0,,and then opened, moved,\Nor otherwise stimulated,
+Dialogue: 99,0:05:33.37,0:05:35.40,Dialogue,mad,0,0,0,,it will immediately freeze over.
+Dialogue: 99,0:05:35.96,0:05:37.69,Dialogue,ass,0,0,0,,That's amazing!
+Dialogue: 99,0:05:39.80,0:05:41.77,Dialogue,sem,0,0,0,,Sorry I'm late!
+Dialogue: 99,0:05:42.55,0:05:44.36,Dialogue,sem,0,0,0,,Is that my assistant's voice?
+Dialogue: 99,0:05:45.74,0:05:48.99,Dialogue,sem,0,0,0,,He's really having fun talking to her.
+Dialogue: 99,0:05:49.27,0:05:51.29,Dialogue,sem,0,0,0,,I wouldn't want to interrupt.
+Dialogue: 99,0:05:51.29,0:05:53.24,Dialogue,sem,0,0,0,,I guess I'll wait a while.
+Dialogue: 99,0:05:53.73,0:05:57.25,Dialogue,mad,0,0,0,,While you wait for your club president\Nto arrive, I'll show you one more thing!
+Dialogue: 99,0:05:57.60,0:05:59.19,Dialogue,mad,0,0,0,,The tablecloth pull!
+Dialogue: 99,0:05:59.55,0:06:02.00,Dialogue,ass,0,0,0,,Does that have to do with science, too?
+Dialogue: 99,0:06:02.27,0:06:07.38,Dialogue,ass,0,0,0,,The reason things don't fall when you pull\Nthe cloth is due to the law of inertia.
+Dialogue: 99,0:06:07.38,0:06:10.46,Dialogue,sign,0,0,0,,An object at rest tends to stay at rest,
+Dialogue: 99,0:06:10.46,0:06:12.32,Dialogue,sign,0,0,0,,so if a stationary object's stationary force
+Dialogue: 99,0:06:12.32,0:06:14.74,Dialogue,sign,0,0,0,,exceeds the friction created\Nwhen the cloth is pulled,
+Dialogue: 99,0:06:14.74,0:06:16.58,Dialogue,sign,0,0,0,,you can pull out just the cloth.
+Dialogue: 99,0:06:17.39,0:06:19.27,Dialogue,sign,0,0,0,,Let's begin the experiment!
+Dialogue: 99,0:06:20.56,0:06:21.65,Dialogue,sign,0,0,0,,It's heavier than I thought...
+Dialogue: 99,0:06:22.74,0:06:23.86,Dialogue,ass,0,0,0,,Look out!
+Dialogue: 99,0:06:25.54,0:06:28.53,Dialogue,sem,0,0,0,,{\i1}Is my assistant more interested\Nin science than magic?
+Dialogue: 99,0:06:28.83,0:06:31.25,Dialogue,sem,0,0,0,,{\i1}But he's in my club, so...
+Dialogue: 99,0:06:31.25,0:06:35.96,Dialogue,sem,0,0,0,,{\i1}But what if he's been having secret chemistry\Nclub meetings that I just never saw?
+Dialogue: 99,0:06:35.96,0:06:38.41,Dialogue,sem,0,0,0,,{\i1}But maybe I should just watch a little longer?
+Dialogue: 99,0:06:40.79,0:06:41.97,Dialogue,ass,0,0,0,,Are you all right?
+Dialogue: 99,0:06:41.97,0:06:43.96,Dialogue,mad,0,0,0,,Um... Ah...
+Dialogue: 99,0:06:44.34,0:06:45.53,Dialogue,sem,0,0,0,,Is that what it's about?!
+Dialogue: 99,0:06:45.53,0:06:46.96,Dialogue,ass,0,0,0,,What's going on here, Sempai?
+Dialogue: 99,0:06:46.96,0:06:49.32,Dialogue,sem,0,0,0,,Which means more to you? Me or chemistry?
+Dialogue: 99,0:06:49.32,0:06:51.24,Dialogue,ass,0,0,0,,Don't make this more\Ncomplicated than it has to be!
+Dialogue: 99,0:06:51.64,0:06:53.30,Dialogue,sem,0,0,0,,I see everything now!
+Dialogue: 99,0:06:53.30,0:06:56.21,Dialogue,sem,0,0,0,,It's time for us to fight with our\N honor as club leaders on the line.
+Dialogue: 99,0:06:56.21,0:06:57.49,Dialogue,ass,0,0,0,,You don't see anything!
+Dialogue: 99,0:06:57.49,0:06:59.70,Dialogue,sem,0,0,0,,I'll pull the cloth next!
+Dialogue: 99,0:06:59.70,0:07:01.26,Dialogue,mad,0,0,0,,Wh-Where did that come from?
+Dialogue: 99,0:07:01.26,0:07:02.99,Dialogue,ass,0,0,0,,I'm sorry, Madara-san.
+Dialogue: 99,0:07:02.99,0:07:05.36,Dialogue,ass,0,0,0,,I think she just really wants to pull the cloth.
+Dialogue: 99,0:07:06.86,0:07:09.94,Dialogue,mad,0,0,0,,She's so confident...\NYou think she'll pull it off?
+Dialogue: 99,0:07:09.94,0:07:11.74,Dialogue,ass,0,0,0,,I wouldn't get my hopes up.
+Dialogue: 99,0:07:12.04,0:07:13.24,Dialogue,sem,0,0,0,,Now, let's begin!
+Dialogue: 99,0:07:15.07,0:07:16.62,Dialogue,mad,0,0,0,,{\i1}This is remarkable.
+Dialogue: 99,0:07:17.62,0:07:19.07,Dialogue,sem,0,0,0,,I admit defeat.
+Dialogue: 99,0:07:19.07,0:07:20.67,Dialogue,sem,0,0,0,,I'm sorry about the mess.
+Dialogue: 99,0:07:20.67,0:07:22.42,Dialogue,mad,0,0,0,,{\i1}This is also remarkable.
+Dialogue: 99,0:07:24.32,0:07:25.64,Dialogue,ass,0,0,0,,Nice and cool...
+Dialogue: 99,0:07:25.64,0:07:27.80,Dialogue,mad,0,0,0,,It uses the heat of vaporization.
+Dialogue: 99,0:07:27.80,0:07:29.52,Dialogue,sem,0,0,0,,Science is so cool!
+Dialogue: 99,0:07:29.52,0:07:31.93,Dialogue,mad,0,0,0,,That's right! Science is {\i1}very{\i0} cool!
+Dialogue: 99,0:07:31.93,0:07:34.75,Dialogue,mad,0,0,0,,{\i1}I found her threatening because\Nshe promotes that "magic" fraud,
+Dialogue: 99,0:07:34.75,0:07:38.02,Dialogue,mad,0,0,0,,{\i1}but she's proving herself rather harmless.
+Dialogue: 99,0:07:38.02,0:07:41.19,Dialogue,mad,0,0,0,,{\i1}I never should have\Njudged a book by its cover.
+Dialogue: 99,0:07:41.19,0:07:43.03,Dialogue,mad,0,0,0,,{\i1}It seems I still have much to learn.
+Dialogue: 99,0:07:44.02,0:07:46.27,Dialogue,mad,0,0,0,,{\i1}How long are these people going to stay here?
+Dialogue: 99,0:07:46.27,0:07:48.59,Dialogue,saki,0,0,0,,Feels so good!
+Dialogue: 99,0:07:48.59,0:07:49.85,Dialogue,mad,0,0,0,,{\i1}And they're multiplying!
+Dialogue: 99,0:07:49.85,0:07:52.88,Dialogue,sem,0,0,0,,You know? It feels even colder on wet clothing!
+Dialogue: 99,0:07:52.88,0:07:55.13,Dialogue,ass,0,0,0,,Don't blame me if you catch a cold.
+Dialogue: 99,0:07:55.13,0:07:57.28,Dialogue,mad,0,0,0,,Um... Are you guys leaving, ever?
+Dialogue: 99,0:07:57.66,0:07:59.29,Dialogue,sem,0,0,0,,"Silent Sempai."
+Dialogue: 99,0:08:00.79,0:08:03.29,Dialogue,sem,0,0,0,,Would you look at that!
+Dialogue: 99,0:08:03.78,0:08:06.26,Dialogue,sem,0,0,0,,Saki-chan and Ma-kun don't\Nseem to be coming today,
+Dialogue: 99,0:08:06.26,0:08:08.17,Dialogue,sem,0,0,0,,so maybe I'll let him sleep.
+Dialogue: 99,0:08:08.17,0:08:11.43,Dialogue,sem,0,0,0,,I'll try to do magic in total silence.
+Dialogue: 99,0:08:12.78,0:08:14.71,Dialogue,sem,0,0,0,,I'll start with this coin.
+Dialogue: 99,0:08:14.71,0:08:17.55,Dialogue,sem,0,0,0,,I'll make it fly, opposing all laws of gravity!
+Dialogue: 99,0:08:17.98,0:08:21.36,Dialogue,sem,0,0,0,,If I place the coin in my palm\Nand pinch it tightly,
+Dialogue: 99,0:08:21.36,0:08:25.31,Dialogue,sem,0,0,0,,the pressure on both sides\Nwill make the coin fly!
+Dialogue: 99,0:08:26.93,0:08:29.71,Dialogue,sem,0,0,0,,{\i1}Just be careful. Don't drop the coin!
+Dialogue: 99,0:08:30.82,0:08:31.69,Dialogue,sem,0,0,0,,Oops!
+Dialogue: 99,0:08:32.30,0:08:33.95,Dialogue,sem,0,0,0,,{\i1}Oh, no! Did I wake him up?
+Dialogue: 99,0:08:34.84,0:08:36.97,Dialogue,ass,0,0,0,,Sempai... please....
+Dialogue: 99,0:08:36.97,0:08:38.72,Dialogue,sem,0,0,0,,{\i1}He's talking in his sleep?
+Dialogue: 99,0:08:38.72,0:08:40.82,Dialogue,sem,0,0,0,,{\i1}I wonder what he's dreaming about...
+Dialogue: 99,0:08:43.21,0:08:46.21,Dialogue,sem,0,0,0,,Now it's time to bring out\N our two good friends!
+Dialogue: 99,0:08:46.51,0:08:48.84,Dialogue,sem,0,0,0,,All I need is a single handkerchief.
+Dialogue: 99,0:08:48.84,0:08:52.43,Dialogue,sem,0,0,0,,When I put this over my hand,\Na pigeon will appear—
+Dialogue: 99,0:08:52.90,0:08:54.80,Dialogue,sem,0,0,0,,{\i1}—over there?!
+Dialogue: 99,0:08:58.38,0:09:00.71,Dialogue,sem,0,0,0,,{\i1}But where's the other one?
+Dialogue: 99,0:09:01.22,0:09:04.23,Dialogue,sem,0,0,0,,{\i1}Don't come out of there!
+Dialogue: 99,0:09:06.05,0:09:10.41,Dialogue,sem,0,0,0,,{\i1}I'm glad he didn't see that,\Nbut without his snark, it feels a little...
+Dialogue: 99,0:09:10.41,0:09:12.06,Dialogue,sem,0,0,0,,{\i1}I can't believe I acclimated to that.
+Dialogue: 99,0:09:13.60,0:09:17.24,Dialogue,sem,0,0,0,,It got a little dicey for a minute there, but\NI got a pretty good club practice out of it!
+Dialogue: 99,0:09:17.66,0:09:20.24,Dialogue,sem,0,0,0,,Hey, Assistant. It's time to go home!
+Dialogue: 99,0:09:20.24,0:09:21.99,Dialogue,sem,0,0,0,,Assistant?
+Dialogue: 99,0:09:26.60,0:09:29.19,Dialogue,sem,0,0,0,,{\i1}Maybe I'll leave him a while longer.
+Dialogue: 99,0:09:31.63,0:09:34.13,Dialogue,sem,0,0,0,,{\i1}Okay, okay! Almost there!
+Dialogue: 99,0:09:34.50,0:09:38.26,Dialogue,ass,0,0,0,,{\i1}Why did I feign sleep expecting\Nsomething to happen?!
+Dialogue: 99,0:09:38.64,0:09:40.01,Dialogue,sem,0,0,0,,"Bunny Sempai."
+Dialogue: 99,0:09:45.36,0:09:47.54,Dialogue,sem,0,0,0,,Sh-Shank you for coming today!
+Dialogue: 99,0:09:47.54,0:09:50.27,Dialogue,ass,0,0,0,,Sempai... why are you dressed like that?
+Dialogue: 99,0:09:50.27,0:09:51.93,Dialogue,sem,0,0,0,,You know how when you get a mosquito bite,
+Dialogue: 99,0:09:51.93,0:09:55.31,Dialogue,sem,0,0,0,,and you pinch the nearby skin,\Nwhich hurts, but makes it itch less?
+Dialogue: 99,0:09:55.31,0:09:57.03,Dialogue,ass,0,0,0,,I... g-guess so?
+Dialogue: 99,0:09:57.03,0:09:59.56,Dialogue,sem,0,0,0,,So it occurred to me...
+Dialogue: 99,0:09:59.56,0:10:02.65,Dialogue,sem,0,0,0,,To get over my stage fright—\Nin other words, my embarrassment—
+Dialogue: 99,0:10:02.65,0:10:05.44,Dialogue,sem,0,0,0,,I just need to wear an even\Nmore embarrassing outfit!
+Dialogue: 99,0:10:05.44,0:10:08.19,Dialogue,ass,0,0,0,,I worry for your future, Sempai.
+Dialogue: 99,0:10:08.56,0:10:11.04,Dialogue,sem,0,0,0,,Today's performance begins\Nwith the cups and balls!
+Dialogue: 99,0:10:11.90,0:10:13.06,Dialogue,ass,0,0,0,,{\i1}I can't look away!
+Dialogue: 99,0:10:13.06,0:10:16.02,Dialogue,sem,0,0,0,,What, you love the trick that much?
+Dialogue: 99,0:10:16.02,0:10:17.32,Dialogue,ass,0,0,0,,Like hell I do!
+Dialogue: 99,0:10:17.32,0:10:20.30,Dialogue,ass,0,0,0,,{\i1}Stay calm. Don't get drawn\Ninto this deviant's rhythm!
+Dialogue: 99,0:10:20.65,0:10:22.60,Dialogue,ass,0,0,0,,{\i1}See? She's as red as a beet!
+Dialogue: 99,0:10:22.60,0:10:26.06,Dialogue,ass,0,0,0,,{\i1}You can't get over your stage\Nfright just by changing your outfit!
+Dialogue: 99,0:10:26.06,0:10:30.05,Dialogue,ass,0,0,0,,{\i1}As usual, she'll fail the minute\Nshe's in front of an audience.
+Dialogue: 99,0:10:30.05,0:10:32.44,Dialogue,sem,0,0,0,,So I hold the ball tight, and...
+Dialogue: 99,0:10:32.86,0:10:34.19,Dialogue,sem,0,0,0,,There!
+Dialogue: 99,0:10:34.19,0:10:36.37,Dialogue,sem,0,0,0,,Ta-dah! What a mystery!
+Dialogue: 99,0:10:36.37,0:10:39.00,Dialogue,sem,0,0,0,,When I open my hand, the ball is gone!
+Dialogue: 99,0:10:39.24,0:10:41.45,Dialogue,ass,0,0,0,,Sorry, I didn't see it.
+Dialogue: 99,0:10:41.45,0:10:43.28,Dialogue,sem,0,0,0,,Of course you didn't!
+Dialogue: 99,0:10:43.28,0:10:45.29,Dialogue,sem,0,0,0,,It's a testament to my skill!
+Dialogue: 99,0:10:45.29,0:10:47.46,Dialogue,ass,0,0,0,,What's with that, "Hah, I tricked you!" look?
+Dialogue: 99,0:10:47.46,0:10:48.62,Dialogue,ass,0,0,0,,Move on already!
+Dialogue: 99,0:10:49.33,0:10:53.71,Dialogue,sem,0,0,0,,Next, watch! I've sandwiched\Nthe ball between the cups.
+Dialogue: 99,0:10:53.71,0:10:56.92,Dialogue,ass,0,0,0,,Sandwiched... Must be pretty\N soft in there, yeah...
+Dialogue: 99,0:10:56.92,0:10:59.97,Dialogue,sem,0,0,0,,Huh? The ball is quite hard, actually.
+Dialogue: 99,0:11:00.35,0:11:02.22,Dialogue,sem,0,0,0,,Now I'll use my magic wand!
+Dialogue: 99,0:11:02.60,0:11:05.12,Dialogue,sem,0,0,0,,If I stroke the side of\Nthe cups with the wand...
+Dialogue: 99,0:11:05.12,0:11:07.29,Dialogue,sem,0,0,0,,W-Would you look at that?
+Dialogue: 99,0:11:07.29,0:11:09.73,Dialogue,sem,0,0,0,,The balls have all moved to the bottom cup!
+Dialogue: 99,0:11:10.24,0:11:12.38,Dialogue,sem,0,0,0,,{\i1}I managed it, even though he's watching!
+Dialogue: 99,0:11:12.38,0:11:14.75,Dialogue,ass,0,0,0,,Incredible. Truly incredible.
+Dialogue: 99,0:11:15.22,0:11:19.21,Dialogue,sem,0,0,0,,W-Well? How did you enjoy the cups and balls?
+Dialogue: 99,0:11:19.21,0:11:20.99,Dialogue,sem,0,0,0,,I had a pretty good showing today, right?
+Dialogue: 99,0:11:20.99,0:11:23.08,Dialogue,ass,0,0,0,,Yes, the cups were truly amazing!
+Dialogue: 99,0:11:23.08,0:11:24.49,Dialogue,sem,0,0,0,,Ura!
 Dialogue: 0,0:00:02.69,0:00:02.73,DedzuyaSigns,,0,0,0,,{\an2\pos(819.66,-26.9)\fscx189.5\fscy189.5\frz10\fax0.07\fnSplatch\fs180\fsp22.5\1c&H978CBE&\blur1.05\q2}C{\frz368.929\fax0.062\1c&HA9A998&}o{\frz367.857\fax0.054\1c&H978CBE&}l{\frz366.786\fax0.046\1c&HA9A998&}e{\frz365.714\fax0.039\1c&H978CBE&}g{\frz364.643\fax0.031\1c&HA9A998&}a {\frz362.5\fax0.015\1c&H978CBE&}m{\frz361.429\fax0.007\1c&HA9A998&}a{\frz360.357\fax-0.001\1c&H978CBE&}i {\frz358.214\fax-0.016\1c&HA9A998&}m{\frz357.143\fax-0.024\1c&H978CBE&}a{\frz356.071\fax-0.032\1c&HA9A998&}r{\frz-5\fax-0.04\1c&H978CBE&}e
 Dialogue: 0,0:00:02.73,0:00:02.77,DedzuyaSigns,,0,0,0,,{\an2\pos(824.5,-19.84)\fscx187.36\fscy187.36\frz10\fax0.07\fnSplatch\fs180\fsp22.5\1c&H968ABF&\blur1.05\q2}C{\frz368.929\fax0.062\1c&HAAA996&}o{\frz367.857\fax0.054\1c&H968ABF&}l{\frz366.786\fax0.046\1c&HAAA996&}e{\frz365.714\fax0.039\1c&H968ABF&}g{\frz364.643\fax0.031\1c&HAAA996&}a {\frz362.5\fax0.015\1c&H968ABF&}m{\frz361.429\fax0.007\1c&HAAA996&}a{\frz360.357\fax-0.001\1c&H968ABF&}i {\frz358.214\fax-0.016\1c&HAAA996&}m{\frz357.143\fax-0.024\1c&H968ABF&}a{\frz356.071\fax-0.032\1c&HAAA996&}r{\frz-5\fax-0.04\1c&H968ABF&}e
 Dialogue: 0,0:00:02.77,0:00:02.81,DedzuyaSigns,,0,0,0,,{\an2\pos(828.52,-12.92)\fscx185.17\fscy185.17\frz10\fax0.07\fnSplatch\fs180\fsp22.5\1c&H9588C0&\blur1.05\q2}C{\frz368.929\fax0.062\1c&HABAA93&}o{\frz367.857\fax0.054\1c&H9588C0&}l{\frz366.786\fax0.046\1c&HABAA93&}e{\frz365.714\fax0.039\1c&H9588C0&}g{\frz364.643\fax0.031\1c&HABAA93&}a {\frz362.5\fax0.015\1c&H9588C0&}m{\frz361.429\fax0.007\1c&HABAA93&}a{\frz360.357\fax-0.001\1c&H9588C0&}i {\frz358.214\fax-0.016\1c&HABAA93&}m{\frz357.143\fax-0.024\1c&H9588C0&}a{\frz356.071\fax-0.032\1c&HABAA93&}r{\frz-5\fax-0.04\1c&H9588C0&}e

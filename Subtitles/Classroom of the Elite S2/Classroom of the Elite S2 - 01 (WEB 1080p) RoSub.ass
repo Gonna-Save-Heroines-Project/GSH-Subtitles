@@ -36,362 +36,362 @@ Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:17.87,0:00:19.05,Dialogue,Akane,0,0,0,,{\an8}Am adus cu raportul.
-Dialogue: 100,0:00:19.37,0:00:21.00,Dialogue,Akane,0,0,0,,{\an8}Aici sunt rezultatele elevilor din anul întâi
-Dialogue: 100,0:00:21.33,0:00:24.19,Dialogue,Akane,0,0,0,,la testul special de pe insula izolată.
-Dialogue: 100,0:00:24.70,0:00:25.66,Dialogue,Akane,0,0,0,,Clasa câștigătoare a fost...
-Dialogue: 100,0:00:25.66,0:00:26.55,Dialogue,Manabu,0,0,0,,Clasa D.
-Dialogue: 100,0:00:26.55,0:00:29.05,Dialogue,Akane,0,0,0,,D-Da...
-Dialogue: 100,0:00:30.69,0:00:32.80,Dialogue,Manabu,0,0,0,,{\i1}Cum vei trece de următoarea provocare,
-Dialogue: 100,0:00:33.58,0:00:34.86,Dialogue,Manabu,0,0,0,,{\i1}Ayanokouji?
-Dialogue: 100,0:00:48.44,0:00:52.36,Dialogue,Chabashira,0,0,0,,Acel bărbat, adică tatăl tău, a spus:
-Dialogue: 100,0:00:52.79,0:00:56.99,Dialogue,Chabashira,0,0,0,,„Într-o bună zi, Kiyotaka va alege \Nde bunăvoie să fie exmatriculat.”
-Dialogue: 100,0:01:00.67,0:01:06.05,Dialogue,Ayanokoji,0,0,0,,{\i1}„Toți oamenii acționează astfel \Nîncât să-și atingă obiectivele”, nu?
-Dialogue: 100,0:02:51.95,0:02:54.45,Dialogue,Ike,0,0,0,,Acum, {\i1}asta{\i0} chiar pare o vacanță de vară!
-Dialogue: 100,0:02:54.45,0:02:55.63,Dialogue,Yamauchi,0,0,0,,Mai poți spune asta o dată!
-Dialogue: 100,0:03:06.79,0:03:08.58,Dialogue,Sudo,0,0,0,,Încetează, Koenji!
-Dialogue: 100,0:03:09.11,0:03:11.58,Dialogue,Sudo,0,0,0,,La naiba! Nu e amuzant!
-Dialogue: 100,0:03:12.43,0:03:13.85,Dialogue,Kushida,0,0,0,,Horikita!
-Dialogue: 100,0:03:14.34,0:03:15.98,Dialogue,Kushida,0,0,0,,Ce faci acolo?
-Dialogue: 100,0:03:15.98,0:03:17.55,Dialogue,Horikita,0,0,0,,Nu e evident?
-Dialogue: 100,0:03:18.09,0:03:19.48,Dialogue,Kushida,0,0,0,,Citești, nu?
-Dialogue: 100,0:03:19.48,0:03:21.96,Dialogue,Kushida,0,0,0,,E cumva un roman de dragoste?!
-Dialogue: 100,0:03:21.96,0:03:23.22,Dialogue,Horikita,0,0,0,,Nu.
-Dialogue: 100,0:03:24.29,0:03:25.61,Dialogue,Ayanokoji,0,0,0,,Ce zi plină de viață.
-Dialogue: 100,0:03:26.10,0:03:27.27,Dialogue,Hirata,0,0,0,,Ayanokouji.
-Dialogue: 100,0:03:28.35,0:03:30.93,Dialogue,Hirata,0,0,0,,Ai vrea să luăm prânzul împreună?
-Dialogue: 100,0:03:30.93,0:03:34.19,Dialogue,Hirata,0,0,0,,Vor mai veni Karuizawa \Nși alte câteva persoane...
-Dialogue: 100,0:03:34.73,0:03:35.96,Dialogue,Ayanokoji,0,0,0,,Te voi refuza.
-Dialogue: 100,0:03:37.79,0:03:40.61,Dialogue,Hirata,0,0,0,,Atunci, ce spui dacă am fi doar noi doi?
-Dialogue: 100,0:03:41.35,0:03:45.06,Dialogue,Ayanokoji,0,0,0,,Nici așa. Nu vreau să ajung pe lista neagră a lui Karuizawa.
-Dialogue: 100,0:03:45.06,0:03:46.62,Dialogue,Karuizawa,0,0,0,,Hirata!
-Dialogue: 100,0:03:46.62,0:03:47.87,Dialogue,Karuizawa,0,0,0,,Am venit!
-Dialogue: 100,0:03:47.87,0:03:49.12,Dialogue,Karuizawa,0,0,0,,Ești gata să mergem?
-Dialogue: 100,0:03:50.87,0:03:52.08,Dialogue,Hirata,0,0,0,,Karuizawa.
-Dialogue: 100,0:03:52.08,0:03:53.31,Dialogue,Hirata,0,0,0,,De fapt...
-Dialogue: 100,0:03:53.31,0:03:55.38,Dialogue,Hirata,0,0,0,,Te deranjează dacă vine și Ayanokouji?
-Dialogue: 100,0:03:55.38,0:03:56.81,Dialogue,Karuizawa,0,0,0,,Ce?
-Dialogue: 100,0:03:56.81,0:03:57.98,Dialogue,Karuizawa,0,0,0,,Lăsând asta de o parte,
-Dialogue: 100,0:03:57.98,0:04:00.88,Dialogue,Karuizawa,0,0,0,,am găsit cel mai bun loc \Nunde să mănânci teppanyaki!
-Dialogue: 100,0:04:01.31,0:04:04.41,Dialogue,Announcer,0,0,0,,{\an8\i1}Rog toți elevii să fie atenți.
-Dialogue: 100,0:04:05.64,0:04:08.64,Dialogue,Announcer,0,0,0,,{\an8\i1}Testul special va începe în curând.
-Dialogue: 100,0:04:09.25,0:04:13.55,Dialogue,Announcer,0,0,0,,{\an8\i1}Toți elevii vor primi un e-mail de la școală.
-Dialogue: 100,0:04:14.14,0:04:17.88,Dialogue,Announcer,0,0,0,,{\an8\i1}Vă rog să verificați telefoanele și să \Nurmați instrucțiunile trecute acolo.
-Dialogue: 100,0:04:19.15,0:04:21.01,Dialogue,Horikita,0,0,0,,„Cu privire la testul special.
-Dialogue: 100,0:04:21.85,0:04:25.93,Dialogue,Horikita,0,0,0,,Vă rog să veniți în camera \Nindicată, la ora menționată.”
-Dialogue: 100,0:04:25.93,0:04:30.87,Dialogue,Ayanokoji,0,0,0,,„Cei care vor întârzia mai mult de 10 minute ar putea fi penalizați.
-Dialogue: 100,0:04:30.87,0:04:35.67,Dialogue,Ayanokoji,0,0,0,,Vino în camera 504 \Npână azi la ora 18:00.”
-Dialogue: 100,0:04:41.42,0:04:42.46,Dialogue,Mashima,0,0,0,,Intră.
-Dialogue: 100,0:04:49.05,0:04:51.18,Dialogue,Ayanokoji,0,0,0,,{\i1}Yukimura și un profesor?
-Dialogue: 100,0:04:51.18,0:04:53.69,Dialogue,Sotomura,0,0,0,,Deci tocmai a fost dezvăluit!
-Dialogue: 100,0:04:53.69,0:04:56.19,Dialogue,Sotomura,0,0,0,,Unul dintre ultimele două \Nscaune e pentru Ayanokouji!
-Dialogue: 100,0:04:56.19,0:04:58.31,Dialogue,Yukimura,0,0,0,,Asta e destul de ciudat, nu?
-Dialogue: 100,0:04:58.57,0:04:59.26,Dialogue,Ayanokoji,0,0,0,,Da.
-Dialogue: 100,0:05:00.32,0:05:02.63,Dialogue,Mashima,0,0,0,,Mai trebuie să vină încă o persoană.
-Dialogue: 100,0:05:02.63,0:05:04.31,Dialogue,Mashima,0,0,0,,Vă rog să așteptați în liniște până apare.
-Dialogue: 100,0:05:13.25,0:05:15.50,Dialogue,Karuizawa,0,0,0,,Mă scuzați.
-Dialogue: 100,0:05:16.02,0:05:17.66,Dialogue,Karuizawa,0,0,0,,Ce naiba?
-Dialogue: 100,0:05:17.66,0:05:20.12,Dialogue,Karuizawa,0,0,0,,Ce naiba faceți voi aici, băieți?
-Dialogue: 100,0:05:20.12,0:05:23.22,Dialogue,Mashima,0,0,0,,Ai întârziat. Așează-te odată.
-Dialogue: 100,0:05:23.22,0:05:24.67,Dialogue,Karuizawa,0,0,0,,Bine...
-Dialogue: 100,0:05:30.28,0:05:32.07,Dialogue,Ayanokoji,0,0,0,,{\i1}Pare neobișnuit de indispusă.
-Dialogue: 100,0:05:32.51,0:05:36.19,Dialogue,Mashima,0,0,0,,Vă voi explica acum în \Nce constă testul special.
-Dialogue: 100,0:05:37.34,0:05:42.83,Dialogue,Mashima,0,0,0,,La test vor lua parte \Nopt grupuri separate,
-Dialogue: 100,0:05:42.83,0:05:45.45,Dialogue,Mashima,0,0,0,,fiecare denumit după o \Nplanetă din sistemul solar.
-Dialogue: 100,0:05:46.11,0:05:50.43,Dialogue,Mashima,0,0,0,,Fiecare grup va conține \Nelevi din fiecare clasă.
-Dialogue: 100,0:05:50.81,0:05:53.12,Dialogue,Ayanokoji,0,0,0,,Vor fi paisprezece elevi în fiecare grup.
-Dialogue: 100,0:05:53.12,0:05:55.11,Dialogue,Karuizawa,0,0,0,,Aici apare și clasa C!
-Dialogue: 100,0:05:55.11,0:05:58.31,Dialogue,Yukimura,0,0,0,,Apar și clasele A și B!
-Dialogue: 100,0:05:58.31,0:06:00.63,Dialogue,Sotomura,0,0,0,,N-Nu se presupune că sunt inamicii noștri?!
-Dialogue: 100,0:06:00.63,0:06:07.53,Dialogue,Ayanokoji,0,0,0,,{\i1}Nu vom participa ca membrii clasei D, \Nci ca membrii grupului „Marte”.
-Dialogue: 100,0:06:07.53,0:06:10.62,Dialogue,Ayanokoji,0,0,0,,{\i1}Iar rezultatul grupului nostru va depinde de rezultatul nostru individual.
-Dialogue: 100,0:06:11.66,0:06:13.29,Dialogue,Ayanokoji,0,0,0,,{\i1}Perioada de testare este de trei zile.
-Dialogue: 100,0:06:13.69,0:06:16.39,Dialogue,Ayanokoji,0,0,0,,{\i1}Și va exista și o zi liberă între ele.
-Dialogue: 100,0:06:16.39,0:06:20.17,Dialogue,Ayanokoji,0,0,0,,{\i1}La ora 8:00, școala va trimite un e-mail
-Dialogue: 100,0:06:20.17,0:06:22.84,Dialogue,Ayanokoji,0,0,0,,{\i1}declarând unul din membrii \Ngrupului ca fiind „VIP-ul”.
-Dialogue: 100,0:06:23.27,0:06:27.14,Dialogue,Ayanokoji,0,0,0,,{\i1}De două ori pe zi, grupul va discuta
-Dialogue: 100,0:06:27.14,0:06:29.82,Dialogue,Ayanokoji,0,0,0,,{\i1}și va încerca să afle cine este VIP-ul.
-Dialogue: 100,0:06:29.82,0:06:32.83,Dialogue,Ayanokoji,0,0,0,,{\i1}La treizeci de minute după ce se va încheia și a șasea discuție,
-Dialogue: 100,0:06:33.14,0:06:35.49,Dialogue,Ayanokoji,0,0,0,,{\i1}vom trimite răspunsurile noastre școlii.
-Dialogue: 100,0:06:35.87,0:06:38.30,Dialogue,Ayanokoji,0,0,0,,{\i1}Fiecare poate trimite un singur răspuns.
-Dialogue: 100,0:06:38.30,0:06:42.05,Dialogue,Ayanokoji,0,0,0,,{\i1}Și VIP-ul nu are voie să răspundă.
-Dialogue: 100,0:06:42.84,0:06:45.46,Dialogue,Karuizawa,0,0,0,,Ei bine, „cazul 1”...
-Dialogue: 100,0:06:45.46,0:06:50.41,Dialogue,Karuizawa,0,0,0,,Dacă toată lumea, cu excepția VIP-ului și a colegilor de clasă ai VIP-ului,
-Dialogue: 100,0:06:50.41,0:06:53.16,Dialogue,Karuizawa,0,0,0,,răspund corect,
-Dialogue: 100,0:06:53.16,0:06:57.00,Dialogue,Karuizawa,0,0,0,,toți membrii grupului vor primi 500.000 de puncte private.
-Dialogue: 100,0:06:57.00,0:06:59.91,Dialogue,Karuizawa,0,0,0,,Iar VIP-ul va mai primi încă 500.000 de puncte private, drept bonus.
-Dialogue: 100,0:07:00.52,0:07:02.40,Dialogue,Karuizawa,0,0,0,,C-Cinci sute de mii?!
-Dialogue: 100,0:07:02.40,0:07:05.52,Dialogue,Yukimura,0,0,0,,Atunci, VIP-ul primește dublu? \NAdică, un milion?!
-Dialogue: 100,0:07:05.97,0:07:07.28,Dialogue,Karuizawa,0,0,0,,„Cazul 2.”
-Dialogue: 100,0:07:07.28,0:07:11.64,Dialogue,Karuizawa,0,0,0,,Dacă cel puțin o persoană, cu excepția VIP-ului și a colegilor de clasă ai VIP-ului,
-Dialogue: 100,0:07:11.64,0:07:14.74,Dialogue,Karuizawa,0,0,0,,nu răspund sau dau un răspuns greșit,
-Dialogue: 100,0:07:14.74,0:07:18.75,Dialogue,Karuizawa,0,0,0,,VIP-ul va primi 500.000 de puncte private.
-Dialogue: 100,0:07:18.75,0:07:23.85,Dialogue,Ayanokoji,0,0,0,,{\i1}Cazul 2 reprezintă scenariul în care VIP-ul își ține identitatea secretă.
-Dialogue: 100,0:07:24.50,0:07:28.62,Dialogue,Ayanokoji,0,0,0,,{\i1}În acest caz, doar VIP-ul \Nprimește 500.000 de puncte.
-Dialogue: 100,0:07:29.13,0:07:34.66,Dialogue,Majima,0,0,0,,Dar încercarea de demascare a VIP-ului înainte ca testul să se sfârșească
-Dialogue: 100,0:07:35.10,0:07:38.56,Dialogue,Majima,0,0,0,,va duce la cazul 3 sau 4 ca rezultat.
-Dialogue: 100,0:07:38.87,0:07:41.49,Dialogue,Karuizawa,0,0,0,,În aceste două situații, \Nrăspunsurile vor fi acceptate
-Dialogue: 100,0:07:41.49,0:07:45.11,Dialogue,Karuizawa,0,0,0,,la orice oră din zi, \Ndin timpul perioadei de testare.
-Dialogue: 100,0:07:45.11,0:07:48.79,Dialogue,Karuizawa,0,0,0,,Răspunsurile vor fi acceptate și în perioada de trezeci de minute după ce testul a luat sfârșit,
-Dialogue: 100,0:07:48.79,0:07:51.81,Dialogue,Karuizawa,0,0,0,,dar, în ambele cazuri, răspunsurile greșite vor atrage după ele o penalizare.
-Dialogue: 100,0:07:52.76,0:07:54.24,Dialogue,Karuizawa,0,0,0,,„Cazul 3.”
-Dialogue: 100,0:07:54.24,0:07:58.85,Dialogue,Karuizawa,0,0,0,,Dacă o persoană, cu excepția VIP-ului, trimite un e-mail școlii, înainte de finalul perioadei de testare,
-Dialogue: 100,0:07:58.85,0:08:00.76,Dialogue,Karuizawa,0,0,0,,și dă răspunsul corect,
-Dialogue: 100,0:08:00.76,0:08:05.16,Dialogue,Karuizawa,0,0,0,,clasa acelui elev va primi \N50 de puncte de clasă,
-Dialogue: 100,0:08:05.16,0:08:08.77,Dialogue,Karuizawa,0,0,0,,iar cel care a dat răspunsul corect va primi 500.000 de puncte private.
-Dialogue: 100,0:08:08.77,0:08:11.59,Dialogue,Karuizawa,0,0,0,,În acel moment, \Ntestarea acelui grup va lua sfârșit.
-Dialogue: 100,0:08:12.67,0:08:15.71,Dialogue,Karuizawa,0,0,0,,Dacă răspunsul va veni de la un coleg de clasă al VIP-ului,
-Dialogue: 100,0:08:15.71,0:08:17.29,Dialogue,Karuizawa,0,0,0,,acel răspuns va fi declarat invalid
-Dialogue: 100,0:08:17.29,0:08:18.78,Dialogue,Karuizawa,0,0,0,,și testul va continua.
-Dialogue: 100,0:08:19.77,0:08:20.89,Dialogue,Karuizawa,0,0,0,,„Cazul 4.”
-Dialogue: 100,0:08:20.89,0:08:25.51,Dialogue,Karuizawa,0,0,0,,Dacă o persoană, cu excepția VIP-ului, trimite un e-mail școlii, înainte de finalul perioadei de testare,
-Dialogue: 100,0:08:25.51,0:08:27.31,Dialogue,Karuizawa,0,0,0,,și dă răspunsul greșit,
-Dialogue: 100,0:08:28.11,0:08:33.05,Dialogue,Karuizawa,0,0,0,,clasa acelui elev va pierde \N50 de puncte de clasă,
-Dialogue: 100,0:08:33.05,0:08:37.25,Dialogue,Karuizawa,0,0,0,,iar VIP-ul va primi \N500.000 de puncte private
-Dialogue: 100,0:08:37.25,0:08:40.91,Dialogue,Karuizawa,0,0,0,,și clasa lui va primi \N50 de puncte de clasă.
-Dialogue: 100,0:08:41.61,0:08:46.50,Dialogue,Ayanokoji,0,0,0,,{\i1}Iar în clipa în care s-a dat răspunsul greșit, \Ntestarea acelui grup va lua sfârșit.
-Dialogue: 100,0:08:47.92,0:08:52.29,Dialogue,Karuizawa,0,0,0,,În plus, dacă răspunsul greșit va vine de la cineva din clasa VIP-ului,
-Dialogue: 100,0:08:52.29,0:08:54.93,Dialogue,Karuizawa,0,0,0,,acel răspuns va fi declarat \Ninvalid și nu va fi acceptat.
-Dialogue: 100,0:08:58.06,0:08:59.18,Dialogue,Yukimura,0,0,0,,Înțeleg.
-Dialogue: 100,0:08:59.18,0:09:00.81,Dialogue,Yukimura,0,0,0,,Îți poți trimite răspunsul prin e-mail...
-Dialogue: 100,0:09:00.81,0:09:04.49,Dialogue,Karuizawa,0,0,0,,Nu sunt sigură că pot ține \Npasul cu această discuție...
-Dialogue: 100,0:09:04.49,0:09:08.19,Dialogue,Sotomura,0,0,0,,Și eu mă simt destul de confuz...
-Dialogue: 100,0:09:08.19,0:09:10.13,Dialogue,Yukimura,0,0,0,,Vă voi explica mai târziu.
-Dialogue: 100,0:09:10.13,0:09:12.19,Dialogue,Yukimura,0,0,0,,Nu-l deranjați pe domnul \Nprofesor cu asta acum.
-Dialogue: 100,0:09:12.19,0:09:16.05,Dialogue,Majima,0,0,0,,La acest test, școala vă \Nva păstra anonimitatea.
-Dialogue: 100,0:09:16.37,0:09:19.80,Dialogue,Majima,0,0,0,,După ce testul se încheie, \Ndoar rezultatul grupului vostru
-Dialogue: 100,0:09:19.80,0:09:23.58,Dialogue,Majima,0,0,0,,și modificarea punctelor \Nfiecărei clase vor fi anunțate.
-Dialogue: 100,0:09:23.58,0:09:26.08,Dialogue,Karuizawa,0,0,0,,Cum rămâne cu identitate VIP-ului?
-Dialogue: 100,0:09:26.08,0:09:27.59,Dialogue,Majima,0,0,0,,Nu va fi anunțată.
-Dialogue: 100,0:09:27.59,0:09:29.29,Dialogue,Majima,0,0,0,,Și nici starea răspunsurilor.
-Dialogue: 100,0:09:31.59,0:09:32.59,Dialogue,Girl,0,0,0,,{\an8}Pare destul de complicat!
-Dialogue: 100,0:09:32.59,0:09:33.84,Dialogue,Girl2,0,0,0,,{\an8}Da!
-Dialogue: 100,0:09:32.59,0:09:36.38,Dialogue,Ayanokoji,0,0,0,,{\i1}Există patru rezultate \Nclare la acest test.
-Dialogue: 100,0:09:36.84,0:09:41.11,Dialogue,Ichinose,0,0,0,,{\an8}Întregul grup împărtășește \Ncine e VIP-ul și câștigă.
-Dialogue: 100,0:09:42.22,0:09:45.73,Dialogue,Katsuragi,0,0,0,,{\an8}La răspunsul final, dacă cel puțin o singură persoană greșește răspunsul,
-Dialogue: 100,0:09:45.73,0:09:48.23,Dialogue,Katsuragi,0,0,0,,VIP-ul câștigă.
-Dialogue: 100,0:09:48.23,0:09:52.04,Dialogue,Ryuen,0,0,0,,Un trădător descoperă \Nidentitatea VIP-ului.
-Dialogue: 100,0:09:52.48,0:09:54.50,Dialogue,Ayanokoji,0,0,0,,{\i1}Și ultima posibilitate...
-Dialogue: 100,0:09:54.50,0:09:58.24,Dialogue,Ayanokoji,0,0,0,,{\i1}Există un trădător care va greșit intenționat numele VIP-ului.
-Dialogue: 100,0:09:58.24,0:09:59.36,Dialogue,Ayanokoji,0,0,0,,{\i1}„Reflectarea.”
-Dialogue: 100,0:09:59.60,0:10:02.82,Dialogue,Ayanokoji,0,0,0,,{\i1}Analizarea situației în cauză, clarificarea tuturor variabilelor,
-Dialogue: 100,0:10:03.29,0:10:06.29,Dialogue,Ayanokoji,0,0,0,,{\i1}și apoi, trecerea printr-un proces de rezolvare al problemelor,
-Dialogue: 100,0:10:06.29,0:10:09.37,Dialogue,Ayanokoji,0,0,0,,{\i1}speculând și atribuind noi valori.
-Dialogue: 100,0:10:09.75,0:10:11.55,Dialogue,Ayanokoji,0,0,0,,{\i1}Sub aceste condiții de testare,
-Dialogue: 100,0:10:11.55,0:10:14.09,Dialogue,Ayanokoji,0,0,0,,{\i1}specularea, procesarea și influențarea
-Dialogue: 100,0:10:14.09,0:10:15.71,Dialogue,Ayanokoji,0,0,0,,{\i1}acțiunilor celorlalți...
-Dialogue: 100,0:10:17.11,0:10:18.59,Dialogue,Ayanokoji,0,0,0,,Pare să fie o mare bătaie de cap.
-Dialogue: 100,0:10:25.75,0:10:27.14,Dialogue,Horikita,0,0,0,,E timpul.
-Dialogue: 100,0:10:27.14,0:10:28.14,Dialogue,Ayanokoji,0,0,0,,Da.
-Dialogue: 100,0:10:33.21,0:10:35.03,Dialogue,Horikita,0,0,0,,Am același mesaj.
-Dialogue: 100,0:10:35.03,0:10:38.38,Dialogue,Horikita,0,0,0,,Se pare că niciunul dintre \Nnoi nu a fost selectat ca VIP.
-Dialogue: 100,0:10:38.78,0:10:41.78,Dialogue,Ayanokoji,0,0,0,,Asta ne reduce variantele.
-Dialogue: 100,0:10:41.78,0:10:45.41,Dialogue,Horikita,0,0,0,,Ce părere ai despre \Nacest test special?
-Dialogue: 100,0:10:45.41,0:10:47.98,Dialogue,Ayanokoji,0,0,0,,Depinde foarte mult de cum \Ndecide VIP-ul să acționeze.
-Dialogue: 100,0:10:48.34,0:10:51.92,Dialogue,Ayanokoji,0,0,0,,Totuși, m-am gândit deja la niște rute preliminare spre victorie.
-Dialogue: 100,0:10:52.76,0:10:54.14,Dialogue,Horikita,0,0,0,,Impresionant.
-Dialogue: 100,0:10:54.14,0:10:56.55,Dialogue,Horikita,0,0,0,,Abia aștept să văd ce \Nrezultate vei obține.
-Dialogue: 100,0:10:56.55,0:11:00.57,Dialogue,Ayanokoji,0,0,0,,Și eu abia aștept să văd \Nunde-ți vei conduce grupul.
-Dialogue: 100,0:11:01.01,0:11:02.30,Dialogue,Ayanokoji,0,0,0,,Ai nevoie de ajutorul meu?
-Dialogue: 100,0:11:02.30,0:11:04.47,Dialogue,Horikita,0,0,0,,Nu, mersi.
-Dialogue: 100,0:11:04.47,0:11:06.68,Dialogue,Horikita,0,0,0,,Și doar ca să știu,
-Dialogue: 100,0:11:06.68,0:11:08.33,Dialogue,Horikita,0,0,0,,persoana față de care ești \Ncel mai precaut este...
-Dialogue: 100,0:11:08.33,0:11:09.94,Dialogue,Ryuen,0,0,0,,E o vreme așa de frumoasă, nu?
-Dialogue: 100,0:11:09.94,0:11:11.94,Dialogue,Ryuen,0,0,0,,De ce nu mă lăsați și \Npe mine să mă alătur?
-Dialogue: 100,0:11:13.53,0:11:16.19,Dialogue,Ryuen,0,0,0,,Suzune, ești cumva VIP-ul?
-Dialogue: 100,0:11:16.73,0:11:18.69,Dialogue,Horikita,0,0,0,,Știi foarte bine că nu ți-aș spune asta.
-Dialogue: 100,0:11:18.69,0:11:22.29,Dialogue,Horikita,0,0,0,,Sau... tu mi-ai spune dacă te-aș întreba?
-Dialogue: 100,0:11:22.29,0:11:24.32,Dialogue,Ryuen,0,0,0,,Dacă ai dori asta, desigur.
-Dialogue: 100,0:11:24.70,0:11:26.60,Dialogue,Ryuen,0,0,0,,Dar vreau să te întreb ceva, mai întâi...
-Dialogue: 100,0:11:26.91,0:11:30.71,Dialogue,Ryuen,0,0,0,,Cum ați obținut acel rezultat la testul de pe insula pustie?
-Dialogue: 100,0:11:30.71,0:11:35.83,Dialogue,Ryuen,0,0,0,,Rapoartele ei au arătat că \Ntu nu ai făcut nicio mișcare.
-Dialogue: 100,0:11:35.83,0:11:38.38,Dialogue,Horikita,0,0,0,,Chiar crezi că sunt atât de proastă încât s-o las să-mi descopere planul?
-Dialogue: 100,0:11:38.38,0:11:42.33,Dialogue,Horikita,0,0,0,,Ba chiar s-a chinuit cu mine, \Ndeși eu eram bolnavă.
-Dialogue: 100,0:11:42.33,0:11:44.66,Dialogue,Ibuki,0,0,0,,Atunci, ce spui de încă o rundă?!
-Dialogue: 100,0:11:45.72,0:11:47.26,Dialogue,Ryuen,0,0,0,,Rezultatul testului anterior...
-Dialogue: 100,0:11:47.26,0:11:51.48,Dialogue,Ryuen,0,0,0,,Nu e greu de obținut \Ncând știi ce trebuie făcut.
-Dialogue: 100,0:11:51.48,0:11:56.33,Dialogue,Ryuen,0,0,0,,Dar foarte puțini ar fi putut concepe un asemenea plan și să-l pună în aplicare în acele condiții.
-Dialogue: 100,0:11:56.87,0:12:00.59,Dialogue,Ryuen,0,0,0,,Nu e genul de lucru cu care ar veni o fată serioasă ca tine,
-Dialogue: 100,0:12:00.99,0:12:02.14,Dialogue,Ryuen,0,0,0,,Suzune.
-Dialogue: 100,0:12:02.14,0:12:04.75,Dialogue,Horikita,0,0,0,,Scuze că trebuie să te dezamăgesc, dar eu nu am prieteni.
-Dialogue: 100,0:12:05.27,0:12:09.12,Dialogue,Horikita,0,0,0,,Singurul pe care l-aș putea numi astfel ar fi Ayanokouji, din stânga ta.
-Dialogue: 100,0:12:09.12,0:12:12.61,Dialogue,Horikita,0,0,0,,Dar e destul de leneș, deci nu prea pot spune că-mi e complice...
-Dialogue: 100,0:12:12.61,0:12:15.59,Dialogue,Ryuen,0,0,0,,Cred că te-ai săturat de astfel de profitori.
-Dialogue: 100,0:12:17.00,0:12:18.38,Dialogue,Horikita,0,0,0,,Nu-mi face poze!
-Dialogue: 100,0:12:18.38,0:12:20.15,Dialogue,Ryuen,0,0,0,,E un joc micuț.
-Dialogue: 100,0:12:20.15,0:12:22.74,Dialogue,Ryuen,0,0,0,,Voi afla cine trage sforile pentru tine.
-Dialogue: 100,0:12:23.22,0:12:26.37,Dialogue,Ryuen,0,0,0,,Toți, inclusiv și micuțul profitor de colo, sunteți în vizorul meu.
-Dialogue: 100,0:12:26.37,0:12:29.39,Dialogue,Horikita,0,0,0,,Pari destul de obsedat de clasa D.
-Dialogue: 100,0:12:29.39,0:12:33.55,Dialogue,Ryuen,0,0,0,,Știu deja care sunt limitele \Nlui Katsuragi si Ichinose.
-Dialogue: 100,0:12:33.55,0:12:35.40,Dialogue,Ryuen,0,0,0,,Ei nu reprezintă o \Namenințare pentru mine.
-Dialogue: 100,0:12:37.45,0:12:40.51,Dialogue,Ayanokoji,0,0,0,,Acum, ești dintr-odată în \Ncentrul atenției, Horikita.
-Dialogue: 100,0:12:40.51,0:12:43.62,Dialogue,Horikita,0,0,0,,Și a cui crezi că este vina, mă rog?
-Dialogue: 100,0:12:43.62,0:12:47.83,Dialogue,Ayanokoji,0,0,0,,{\i1}Cu cât o încolțesc mai mult, cu atât e mai dornică să lupte.
-Dialogue: 100,0:12:48.42,0:12:50.85,Dialogue,Ayanokoji,0,0,0,,{\i1}Văd că nu am de ce \Nsă-mi fac griji pentru ea.
-Dialogue: 100,0:12:51.29,0:12:52.41,Dialogue,Horikita,0,0,0,,Ce mai e acum?
-Dialogue: 100,0:12:52.94,0:12:53.99,Dialogue,Ayanokoji,0,0,0,,Nimic.
-Dialogue: 100,0:13:04.61,0:13:07.80,Dialogue,Karuizawa,0,0,0,,Asta sigur e cea mai \Ngroaznică echipă dintre toate.
-Dialogue: 100,0:13:19.82,0:13:21.69,Dialogue,Ichinose,0,0,0,,Atențiune, toată lumea!
-Dialogue: 100,0:13:21.69,0:13:23.81,Dialogue,Ichinose,0,0,0,,De ce nu începem prin \Na ne prezenta, mai întâi?
-Dialogue: 100,0:13:23.81,0:13:26.70,Dialogue,Ichinose,0,0,0,,La urma urmei, școala a menționat să facem acest lucru!
-Dialogue: 100,0:13:26.70,0:13:29.94,Dialogue,Machida,0,0,0,,Chiar trebuie să ne \Nbatem capul cu așa ceva?
-Dialogue: 100,0:13:29.94,0:13:32.33,Dialogue,Machida,0,0,0,,E mai bine s-o facă doar cine dorește.
-Dialogue: 100,0:13:32.33,0:13:35.37,Dialogue,Ichinose,0,0,0,,Bănuiesc că nu pot obliga pe nimeni, nu?
-Dialogue: 100,0:13:35.37,0:13:39.71,Dialogue,Ichinose,0,0,0,,Dar e foarte posibil ca această \Nîncăpere să fie ascultată!
-Dialogue: 100,0:13:39.71,0:13:41.09,Dialogue,Machida,0,0,0,,Ei bine...
-Dialogue: 100,0:13:41.09,0:13:45.84,Dialogue,Ichinose,0,0,0,,Dacă așa stau lucrurile, persoanele care nu se prezintă ar putea fi penalizate.
-Dialogue: 100,0:13:46.85,0:13:47.84,Dialogue,Machida,0,0,0,,Atunci, o voi face.
-Dialogue: 100,0:13:48.06,0:13:49.22,Dialogue,Ichinose,0,0,0,,Mersi!
-Dialogue: 100,0:13:49.22,0:13:52.85,Dialogue,Ayanokoji,0,0,0,,{\i1}Ichinose a preluat inițiativa imediat.
-Dialogue: 100,0:13:54.23,0:13:56.98,Dialogue,Ichinose,0,0,0,,Deci, cum ar trebui să procedăm?
-Dialogue: 100,0:13:56.98,0:14:00.98,Dialogue,Ichinose,0,0,0,,Dacă nu vă place ideea ca eu să fiu moderatorul, doar spuneți, bine?
-Dialogue: 100,0:14:00.98,0:14:02.81,Dialogue,Ayanokoji,0,0,0,,{\i1}Și modul în care aduce asta în discuție...
-Dialogue: 100,0:14:02.81,0:14:06.49,Dialogue,Ayanokoji,0,0,0,,{\i1}Oricine se va opune, se va oferi voluntar ca să fie moderator.
-Dialogue: 100,0:14:06.49,0:14:10.77,Dialogue,Ayanokoji,0,0,0,,{\i1}Iar în procesul de dirijare al conversației, există posibilitatea de a spune prea multe.
-Dialogue: 100,0:14:11.49,0:14:13.08,Dialogue,Ayanokoji,0,0,0,,{\i1}Cei mai mulți vor evita acest lucru.
-Dialogue: 100,0:14:13.90,0:14:17.61,Dialogue,Ichinose,0,0,0,,Din moment ce nu obiectează nimeni, \Natunci voi fi eu moderatorul!
-Dialogue: 100,0:14:17.61,0:14:22.13,Dialogue,Ichinose,0,0,0,,Pentru început, cred că ar trebui să clarificăm aspectele testului care par neclare.
-Dialogue: 100,0:14:22.13,0:14:24.58,Dialogue,Ichinose,0,0,0,,Are careva vreo întrebare?
-Dialogue: 100,0:14:26.63,0:14:30.01,Dialogue,Ichinose,0,0,0,,Atunci, voi începe eu!
-Dialogue: 100,0:14:30.37,0:14:34.01,Dialogue,Ichinose,0,0,0,,Cred că ar trebui să ducem acest test la bun sfârșit împreună.
-Dialogue: 100,0:14:34.01,0:14:39.39,Dialogue,Ichinose,0,0,0,,Adică, cea mai bună variantă a noastră ar fi să mergem pe primul caz.
-Dialogue: 100,0:14:39.66,0:14:41.52,Dialogue,Ichinose,0,0,0,,Ce părere aveți?
-Dialogue: 100,0:14:41.52,0:14:43.77,Dialogue,Karuizawa,0,0,0,,Asta cred că e evident, nu?
-Dialogue: 100,0:14:43.77,0:14:45.90,Dialogue,Hamaguchi,0,0,0,,Și eu pentru primul caz.
-Dialogue: 100,0:14:45.90,0:14:47.26,Dialogue,Sotomura,0,0,0,,{\an8}Așa este!
-Dialogue: 100,0:14:45.90,0:14:47.26,Dialogue,Ayanokoji,0,0,0,,De acord.
-Dialogue: 100,0:14:47.26,0:14:49.53,Dialogue,Ayanokoji,0,0,0,,Mi-ar plăcea să am mai \Nmulte puncte private
-Dialogue: 100,0:14:49.53,0:14:51.78,Dialogue,Ayanokoji,0,0,0,,și prefer să cooperez \Natunci când este posibil.
-Dialogue: 100,0:14:51.78,0:14:54.66,Dialogue,Sotomura,0,0,0,,Contați pe {\i1}mine{\i0}!
-Dialogue: 100,0:14:54.66,0:14:56.56,Dialogue,Karuizawa,0,0,0,,Pe cine încerci să imiți acum?
-Dialogue: 100,0:14:56.56,0:14:57.67,Dialogue,Machida,0,0,0,,Noi,
-Dialogue: 100,0:14:57.67,0:15:01.92,Dialogue,Machida,0,0,0,,cei din clasa A, am decis \Nsă nu luăm parte la discuții.
-Dialogue: 100,0:15:06.42,0:15:08.57,Dialogue,Sotomura,0,0,0,,S-Să nu luați parte?
-Dialogue: 100,0:15:08.57,0:15:09.93,Dialogue,Sotomura,0,0,0,,De ce?
-Dialogue: 100,0:15:10.28,0:15:12.93,Dialogue,Ichinose,0,0,0,,Presupun că am fost \Npuțin prea directă, nu?
-Dialogue: 100,0:15:12.93,0:15:18.68,Dialogue,Machida,0,0,0,,Cel mai simplu și sigur mod de a beneficia din acest test
-Dialogue: 100,0:15:18.68,0:15:22.06,Dialogue,Machida,0,0,0,,e să nu iei parte de la bun început.
-Dialogue: 100,0:15:22.34,0:15:24.13,Dialogue,Ayanokoji,0,0,0,,{\i1}Instrucțiuni de la Katsuragi?
-Dialogue: 100,0:15:24.56,0:15:29.82,Dialogue,Hamaguchi,0,0,0,,Să refuzi discuția și să-l lași \Npe VIP să fugă cu punctele?
-Dialogue: 100,0:15:29.82,0:15:32.63,Dialogue,Machida,0,0,0,,Care e rezultatul cel \Nmai puțin dorit la test?
-Dialogue: 100,0:15:32.63,0:15:34.86,Dialogue,Karuizawa,0,0,0,,Ce? Ei bine...
-Dialogue: 100,0:15:34.86,0:15:39.60,Dialogue,Karuizawa,0,0,0,,Cineva să afle cine-i VIP-ul și să-i trădeze pe toți ceilalți?
-Dialogue: 100,0:15:39.60,0:15:41.10,Dialogue,Machida,0,0,0,,Exact.
-Dialogue: 100,0:15:41.10,0:15:45.46,Dialogue,Machida,0,0,0,,Scenariul cel mai rău rezultă \Ndin participarea la discuții,
-Dialogue: 100,0:15:45.46,0:15:47.29,Dialogue,Machida,0,0,0,,o persoană suspectează \No alta că este VIP-ul
-Dialogue: 100,0:15:47.29,0:15:48.71,Dialogue,Machida,0,0,0,,și dă răspunsul greșit.
-Dialogue: 100,0:15:48.71,0:15:53.58,Dialogue,Hamaguchi,0,0,0,,Înțeleg logica din spatele dorinței de a nu participa la discuții.
-Dialogue: 100,0:15:53.58,0:15:56.72,Dialogue,Hamaguchi,0,0,0,,Dar neglijarea identificării VIP-ului
-Dialogue: 100,0:15:56.72,0:16:00.60,Dialogue,Hamaguchi,0,0,0,,ar putea mari diferența de \Npuncte dintre clase, nu?
-Dialogue: 100,0:16:00.61,0:16:04.00,Dialogue,Hamaguchi,0,0,0,,Ce se va întâmpla dacă distribuția VIP-urilor nu e deloc uniformă,
-Dialogue: 100,0:16:04.00,0:16:07.73,Dialogue,Hamaguchi,0,0,0,,majoritatea regăsindu-se \Nîntr-o singură clasă?
-Dialogue: 100,0:16:08.18,0:16:09.95,Dialogue,Ayanokoji,0,0,0,,{\i1}Îngrijorarea lui Hamaguchi e justificată.
-Dialogue: 100,0:16:10.67,0:16:14.03,Dialogue,Ayanokoji,0,0,0,,{\i1}E destul de greu să susții \Nstrategia de a nu participa,
-Dialogue: 100,0:16:14.03,0:16:16.33,Dialogue,Ayanokoji,0,0,0,,{\i1}fără să știi distribuția \NVIP-urilor per clasă,
-Dialogue: 100,0:16:16.74,0:16:19.91,Dialogue,Ayanokoji,0,0,0,,{\i1}Dar Katsuragi a observat deja mecanismul din spate, și anume:
-Dialogue: 100,0:16:20.78,0:16:22.09,Dialogue,Ayanokoji,0,0,0,,{\i1}„Corectitudine.”
-Dialogue: 100,0:16:22.63,0:16:24.75,Dialogue,Machida,0,0,0,,„Corectitudine pentru toate clasele.”
-Dialogue: 100,0:16:24.75,0:16:27.17,Dialogue,Machida,0,0,0,,Asta e o regulă pe care \Nșcoala o va respecta mereu,
-Dialogue: 100,0:16:27.17,0:16:29.26,Dialogue,Machida,0,0,0,,și a fost prezentă și în testul anterior.
-Dialogue: 100,0:16:29.66,0:16:32.86,Dialogue,Machida,0,0,0,,Mă aștept ca distribuția VIP-urilor să fie uniformă pentru toate clasele.
-Dialogue: 100,0:16:32.86,0:16:35.01,Dialogue,Machida,0,0,0,,Nu vor fi toți într-o singură clasă.
-Dialogue: 100,0:16:35.01,0:16:37.20,Dialogue,Hamaguchi,0,0,0,,Posibil... să ai dreptate.
-Dialogue: 100,0:16:37.20,0:16:40.35,Dialogue,Ichinose,0,0,0,,Cred că punctul vostru \Nde vedere e unul solid.
-Dialogue: 100,0:16:40.35,0:16:43.28,Dialogue,Ichinose,0,0,0,,Dar nu va fi atât de ușor \Nde dus la bun sfârșit.
-Dialogue: 100,0:16:43.28,0:16:45.91,Dialogue,Ichinose,0,0,0,,Mizezi pe faptul că \Nniciun elev din anul întâi
-Dialogue: 100,0:16:45.91,0:16:47.77,Dialogue,Ichinose,0,0,0,,nu va suspecta sau trăda pe nimeni.
-Dialogue: 100,0:16:47.77,0:16:51.03,Dialogue,Machida,0,0,0,,Între membrii clasei A \Nexistă încredere deplină!
-Dialogue: 100,0:16:51.27,0:16:53.78,Dialogue,Manabe,0,0,0,,Pare mai ușor decât să \Nîncerci să afli cine e VIP-ul...
-Dialogue: 100,0:16:53.78,0:16:56.03,Dialogue,Sotomura,0,0,0,,Poate ar trebui să le acceptăm oferta?
-Dialogue: 100,0:16:56.03,0:16:58.90,Dialogue,Sotomura,0,0,0,,Nu văd nicio problemă cu strategia lor.
-Dialogue: 100,0:17:01.55,0:17:03.48,Dialogue,Ichinose,0,0,0,,Eu sunt de părere că strategia lui Machida
-Dialogue: 100,0:17:03.48,0:17:09.04,Dialogue,Ichinose,0,0,0,,e una din care clasa A, \Nîn mod special, are de câștigat.
-Dialogue: 100,0:17:09.04,0:17:11.42,Dialogue,Machida,0,0,0,,Mi-a scăpat vreun dezavantaj ca să las răspunsul ascuns?
-Dialogue: 100,0:17:11.42,0:17:13.40,Dialogue,Ichinose,0,0,0,,Voi forțați oamenii din clasele mai joase
-Dialogue: 100,0:17:13.40,0:17:16.55,Dialogue,Ichinose,0,0,0,,să-și rateze una din puținele lor șanse de a schimba lucrurile.
-Dialogue: 100,0:17:16.55,0:17:18.05,Dialogue,Machida,0,0,0,,Ei bine...
-Dialogue: 100,0:17:18.05,0:17:23.42,Dialogue,Ichinose,0,0,0,,Un plan bazat pe un front unit garantează că nu va exista nicio modificare în clasamentul final al claselor.
-Dialogue: 100,0:17:23.42,0:17:27.06,Dialogue,Machida,0,0,0,,Și planul tău se bazează \Ntot pe un front unit!
-Dialogue: 100,0:17:27.06,0:17:28.95,Dialogue,Ichinose,0,0,0,,Nu chiar!
-Dialogue: 100,0:17:29.44,0:17:33.38,Dialogue,Ichinose,0,0,0,,Grupul nostru conține patru \Nmembri din clasele D și C,
-Dialogue: 100,0:17:33.38,0:17:35.70,Dialogue,Ichinose,0,0,0,,și doar trei membri din clasa B și A.
-Dialogue: 100,0:17:35.70,0:17:38.13,Dialogue,Ichinose,0,0,0,,Cu alte cuvinte, dacă vom \Nobține rezultatul cazului 1,
-Dialogue: 100,0:17:38.13,0:17:43.45,Dialogue,Ichinose,0,0,0,,clasele D și C vor primi fiecare 500.000 de puncte private.
-Dialogue: 100,0:17:43.45,0:17:45.01,Dialogue,Machida,0,0,0,,Asta așa este.
-Dialogue: 100,0:17:45.01,0:17:49.33,Dialogue,Machida,0,0,0,,Dar nu ai pune clasa B, \Ndin care faci parte, în dezavantaj?
-Dialogue: 100,0:17:49.33,0:17:54.22,Dialogue,Ichinose,0,0,0,,Alternativa e să lăsam \Nclasa A să fugă cu victoria.
-Dialogue: 100,0:17:54.22,0:17:57.97,Dialogue,Ichinose,0,0,0,,La urma urmei, VIP-ul ar \Nputea fi în clasa {\i1}voastră{\i0}!
-Dialogue: 100,0:17:57.97,0:17:59.61,Dialogue,Hamaguchi,0,0,0,,Sunt de acord cu ea.
-Dialogue: 100,0:17:59.61,0:18:01.13,Dialogue,Ayanokoji,0,0,0,,{\i1}Un bun contraargument.
-Dialogue: 100,0:18:01.63,0:18:04.63,Dialogue,Ayanokoji,0,0,0,,{\i1}Clasa B trebuie să fii \Ndiscutat despre asta în avans.
-Dialogue: 100,0:18:10.98,0:18:14.50,Dialogue,Machida,0,0,0,,Oricum ar sta lucrurile, \Nfilozofia clasei A nu se va schimba.
-Dialogue: 100,0:18:14.50,0:18:16.61,Dialogue,Machida,0,0,0,,Noi nu vom participa la discuții.
-Dialogue: 100,0:18:18.38,0:18:19.99,Dialogue,Ichinose,0,0,0,,Vai...
-Dialogue: 100,0:18:19.99,0:18:22.20,Dialogue,Ichinose,0,0,0,,Oare ce ne vom face cu ei?
-Dialogue: 100,0:18:23.64,0:18:27.89,Dialogue,Ayanokoji,0,0,0,,{\i1}Nimeni nu se poate contrazice \Ncu Machida sau Ichinose.
-Dialogue: 100,0:18:28.52,0:18:31.25,Dialogue,Ayanokoji,0,0,0,,{\i1}Fiecare clasă are propriile ei planuri.
-Dialogue: 100,0:18:32.25,0:18:34.55,Dialogue,Manabe,0,0,0,,Putem vorbi o secundă, Karuizawa?
-Dialogue: 100,0:18:36.01,0:18:38.76,Dialogue,Manabe,0,0,0,,Hei. Vrem să te întrebăm ceva!
-Dialogue: 100,0:18:39.13,0:18:40.14,Dialogue,Karuizawa,0,0,0,,Ce este?
-Dialogue: 100,0:18:40.14,0:18:43.76,Dialogue,Manabe,0,0,0,,Te-ai certat cumva cu Rika \Nînainte de vacanța de vară?
-Dialogue: 100,0:18:43.76,0:18:45.86,Dialogue,Karuizawa,0,0,0,,Ce? De unde asta?
-Dialogue: 100,0:18:45.86,0:18:47.51,Dialogue,Karuizawa,0,0,0,,Și cine e Rika?
-Dialogue: 100,0:18:47.51,0:18:51.16,Dialogue,Manabe,0,0,0,,O fată cu ochelari din clasa C!
-Dialogue: 100,0:18:51.16,0:18:52.61,Dialogue,Manabe,0,0,0,,Are mereu părul prins în cocuri.
-Dialogue: 100,0:18:52.61,0:18:53.65,Dialogue,Manabe,0,0,0,,Nu-ți spune nimic?
-Dialogue: 100,0:18:53.65,0:18:56.39,Dialogue,Karuizawa,0,0,0,,Nu. Ați greșit persoana.
-Dialogue: 100,0:18:57.40,0:19:00.03,Dialogue,Manabe,0,0,0,,Ea ne-a spus că tu ai fost!
-Dialogue: 100,0:19:00.03,0:19:03.28,Dialogue,Manabe,0,0,0,,„O fată din clasa D, cu părul prins în coadă de cal” s-a luat de ea.
-Dialogue: 100,0:19:03.28,0:19:05.25,Dialogue,Yabu,0,0,0,,Aștepta în rând la cafenea,
-Dialogue: 100,0:19:05.25,0:19:08.16,Dialogue,Yabu,0,0,0,,când cineva a venit și a dat-o la o parte!
-Dialogue: 100,0:19:08.16,0:19:10.29,Dialogue,Karuizawa,0,0,0,,Nu am făcut așa ceva.
-Dialogue: 100,0:19:12.05,0:19:13.61,Dialogue,Yamashita,0,0,0,,Deci nu știi nimic?
-Dialogue: 100,0:19:13.61,0:19:16.88,Dialogue,Yamashita,0,0,0,,Dacă ai fost {\i1}tu{\i0}, \Nam {\i1}vrea{\i0} să-ți ceri scuze!
-Dialogue: 100,0:19:16.88,0:19:18.92,Dialogue,Manabe,0,0,0,,Putem să-ți facem o poză \Nca Rika să arunce o privire?
-Dialogue: 100,0:19:18.92,0:19:20.63,Dialogue,Karuizawa,0,0,0,,Să nu îndrăznești să-mi faci poze!
-Dialogue: 100,0:19:22.65,0:19:23.97,Dialogue,Manabe,0,0,0,,Care e problema ta?!
-Dialogue: 100,0:19:23.97,0:19:26.25,Dialogue,Yamashita,0,0,0,,Ce ai fi făcut dacă \Ni-ai stricat telefonul?
-Dialogue: 100,0:19:26.25,0:19:28.79,Dialogue,Karuizawa,0,0,0,,Doar spuneți-i școlii \Nși vă va da unul nou.
-Dialogue: 100,0:19:28.79,0:19:31.10,Dialogue,Manabe,0,0,0,,Am poze și alte lucruri acolo!
-Dialogue: 100,0:19:31.10,0:19:33.86,Dialogue,Karuizawa,0,0,0,,Ce este? Ce doriți?
-Dialogue: 100,0:19:33.86,0:19:36.82,Dialogue,Manabe,0,0,0,,Dacă nu ai fost tu, atunci de ce nu cooperezi de bunăvoie cu noi?
-Dialogue: 100,0:19:37.21,0:19:38.36,Dialogue,Manabe,0,0,0,,Doar lasă-mă să-ți fac o poză!
-Dialogue: 100,0:19:38.36,0:19:39.86,Dialogue,Karuizawa,0,0,0,,Am spus nu!
-Dialogue: 100,0:19:39.86,0:19:40.94,Dialogue,Manabe,0,0,0,,Ce e problema ta?
-Dialogue: 100,0:19:40.94,0:19:43.03,Dialogue,Yamashita,0,0,0,,Uită-te la ea cum face pe timida!
-Dialogue: 100,0:19:43.03,0:19:44.05,Dialogue,Manabe,0,0,0,,Îți bați joc de mine?
-Dialogue: 100,0:19:44.05,0:19:45.87,Dialogue,Yabu,0,0,0,,O țin eu, deci fă-i poza!
-Dialogue: 100,0:19:45.87,0:19:46.99,Dialogue,Karuizawa,0,0,0,,Încetează!
-Dialogue: 100,0:19:47.83,0:19:50.27,Dialogue,Machida,0,0,0,,Hei. Ce e cu zarva asta?
-Dialogue: 100,0:19:50.27,0:19:51.75,Dialogue,Karuizawa,0,0,0,,Machida...
-Dialogue: 100,0:19:56.36,0:19:58.76,Dialogue,Machida,0,0,0,,Nu vedeți că o deranjați? \NNu vă mai luați de ea.
-Dialogue: 100,0:19:58.76,0:20:01.33,Dialogue,Manabe,0,0,0,,N-Nu te băga, Machida!
-Dialogue: 100,0:20:01.33,0:20:02.96,Dialogue,Machida,0,0,0,,Vrei cumva să chem un profesor?
-Dialogue: 100,0:20:02.96,0:20:04.26,Dialogue,Manabe,0,0,0,,E-Ei bine...
-Dialogue: 100,0:20:04.26,0:20:05.86,Dialogue,Manabe,0,0,0,,Să mergem, fetelor.
-Dialogue: 100,0:20:05.86,0:20:07.14,Dialogue,Yamashita,0,0,0,,B-Bine.
-Dialogue: 100,0:20:10.03,0:20:11.94,Dialogue,Yabu,0,0,0,,Ar trebui s-o întrebăm din nou pe Rika?
-Dialogue: 100,0:20:11.94,0:20:14.02,Dialogue,Yamashita,0,0,0,,Dar ar fi mers mai repede cu o poză...
-Dialogue: 100,0:20:15.10,0:20:17.07,Dialogue,Karuizawa,0,0,0,,Mersi, Machida.
-Dialogue: 100,0:20:33.25,0:20:35.97,Dialogue,Yukimura,0,0,0,,Sunt de acord că e necesar să discutăm.
-Dialogue: 100,0:20:35.97,0:20:38.17,Dialogue,Yukimura,0,0,0,,Vrem să aflăm cine e VIP-ul.
-Dialogue: 100,0:20:38.17,0:20:41.42,Dialogue,Karuizawa,0,0,0,,Dar chiar crezi că o discuție \Nne va ajuta să aflăm cine e?
-Dialogue: 100,0:20:41.42,0:20:43.76,Dialogue,Karuizawa,0,0,0,,Testul ăsta e mult prea greu.
-Dialogue: 100,0:20:43.76,0:20:46.03,Dialogue,Ichinose,0,0,0,,Aș spune că depinde foarte \Nmult de abordarea noastră.
-Dialogue: 100,0:20:46.03,0:20:47.78,Dialogue,Ichinose,0,0,0,,Ne putem gândi la acest test
-Dialogue: 100,0:20:47.78,0:20:51.39,Dialogue,Ichinose,0,0,0,,și la cel de pe insulă că sunt, \Nîn esență, o surprinză pentru elevi.
-Dialogue: 100,0:20:51.39,0:20:52.89,Dialogue,Sotomura,0,0,0,,Răsăritul e specialitatea...
-Dialogue: 100,0:20:52.89,0:20:55.90,Dialogue,Ichinose,0,0,0,,Nu-i așa că viața la bordul unei nave de croazieră e distractivă?
-Dialogue: 100,0:20:56.13,0:20:58.76,Dialogue,Ichinose,0,0,0,,Chiar dacă trebuie să \Nparticipăm la aceste ședințe,
-Dialogue: 100,0:20:58.76,0:21:00.90,Dialogue,Ichinose,0,0,0,,putem vorbi și sta pe \Ntelefoane cât dorim.
-Dialogue: 100,0:21:00.90,0:21:02.53,Dialogue,Karuizawa,0,0,0,,Presupun.
-Dialogue: 100,0:21:02.53,0:21:04.87,Dialogue,Ichinose,0,0,0,,Deci, de ce nu discutăm?
-Dialogue: 100,0:21:04.87,0:21:07.96,Dialogue,Ichinose,0,0,0,,Devine destul de neplăcut să stai mereu în bula ta de siguranță, nu?
-Dialogue: 100,0:21:08.75,0:21:11.64,Dialogue,Machida,0,0,0,,Sunteți liberi să vă distrați cât doriți,
-Dialogue: 100,0:21:11.64,0:21:13.76,Dialogue,Machida,0,0,0,,dar eu refuz să am încredere în voi.
-Dialogue: 100,0:21:13.76,0:21:16.67,Dialogue,Machida,0,0,0,,VIP-ul ar putea fi și în clasa B.
-Dialogue: 100,0:21:16.67,0:21:19.42,Dialogue,Ichinose,0,0,0,,Poți avea puțină încredere în colegii tăi de grup, Machida?
-Dialogue: 100,0:21:21.32,0:21:22.55,Dialogue,Machida,0,0,0,,Desigur că pot.
+Dialogue: 99,0:00:17.87,0:00:19.05,Dialogue,Akane,0,0,0,,{\an8}Am adus cu raportul.
+Dialogue: 99,0:00:19.37,0:00:21.00,Dialogue,Akane,0,0,0,,{\an8}Aici sunt rezultatele elevilor din anul întâi
+Dialogue: 99,0:00:21.33,0:00:24.19,Dialogue,Akane,0,0,0,,la testul special de pe insula izolată.
+Dialogue: 99,0:00:24.70,0:00:25.66,Dialogue,Akane,0,0,0,,Clasa câștigătoare a fost...
+Dialogue: 99,0:00:25.66,0:00:26.55,Dialogue,Manabu,0,0,0,,Clasa D.
+Dialogue: 99,0:00:26.55,0:00:29.05,Dialogue,Akane,0,0,0,,D-Da...
+Dialogue: 99,0:00:30.69,0:00:32.80,Dialogue,Manabu,0,0,0,,{\i1}Cum vei trece de următoarea provocare,
+Dialogue: 99,0:00:33.58,0:00:34.86,Dialogue,Manabu,0,0,0,,{\i1}Ayanokouji?
+Dialogue: 99,0:00:48.44,0:00:52.36,Dialogue,Chabashira,0,0,0,,Acel bărbat, adică tatăl tău, a spus:
+Dialogue: 99,0:00:52.79,0:00:56.99,Dialogue,Chabashira,0,0,0,,„Într-o bună zi, Kiyotaka va alege \Nde bunăvoie să fie exmatriculat.”
+Dialogue: 99,0:01:00.67,0:01:06.05,Dialogue,Ayanokoji,0,0,0,,{\i1}„Toți oamenii acționează astfel \Nîncât să-și atingă obiectivele”, nu?
+Dialogue: 99,0:02:51.95,0:02:54.45,Dialogue,Ike,0,0,0,,Acum, {\i1}asta{\i0} chiar pare o vacanță de vară!
+Dialogue: 99,0:02:54.45,0:02:55.63,Dialogue,Yamauchi,0,0,0,,Mai poți spune asta o dată!
+Dialogue: 99,0:03:06.79,0:03:08.58,Dialogue,Sudo,0,0,0,,Încetează, Koenji!
+Dialogue: 99,0:03:09.11,0:03:11.58,Dialogue,Sudo,0,0,0,,La naiba! Nu e amuzant!
+Dialogue: 99,0:03:12.43,0:03:13.85,Dialogue,Kushida,0,0,0,,Horikita!
+Dialogue: 99,0:03:14.34,0:03:15.98,Dialogue,Kushida,0,0,0,,Ce faci acolo?
+Dialogue: 99,0:03:15.98,0:03:17.55,Dialogue,Horikita,0,0,0,,Nu e evident?
+Dialogue: 99,0:03:18.09,0:03:19.48,Dialogue,Kushida,0,0,0,,Citești, nu?
+Dialogue: 99,0:03:19.48,0:03:21.96,Dialogue,Kushida,0,0,0,,E cumva un roman de dragoste?!
+Dialogue: 99,0:03:21.96,0:03:23.22,Dialogue,Horikita,0,0,0,,Nu.
+Dialogue: 99,0:03:24.29,0:03:25.61,Dialogue,Ayanokoji,0,0,0,,Ce zi plină de viață.
+Dialogue: 99,0:03:26.10,0:03:27.27,Dialogue,Hirata,0,0,0,,Ayanokouji.
+Dialogue: 99,0:03:28.35,0:03:30.93,Dialogue,Hirata,0,0,0,,Ai vrea să luăm prânzul împreună?
+Dialogue: 99,0:03:30.93,0:03:34.19,Dialogue,Hirata,0,0,0,,Vor mai veni Karuizawa \Nși alte câteva persoane...
+Dialogue: 99,0:03:34.73,0:03:35.96,Dialogue,Ayanokoji,0,0,0,,Te voi refuza.
+Dialogue: 99,0:03:37.79,0:03:40.61,Dialogue,Hirata,0,0,0,,Atunci, ce spui dacă am fi doar noi doi?
+Dialogue: 99,0:03:41.35,0:03:45.06,Dialogue,Ayanokoji,0,0,0,,Nici așa. Nu vreau să ajung pe lista neagră a lui Karuizawa.
+Dialogue: 99,0:03:45.06,0:03:46.62,Dialogue,Karuizawa,0,0,0,,Hirata!
+Dialogue: 99,0:03:46.62,0:03:47.87,Dialogue,Karuizawa,0,0,0,,Am venit!
+Dialogue: 99,0:03:47.87,0:03:49.12,Dialogue,Karuizawa,0,0,0,,Ești gata să mergem?
+Dialogue: 99,0:03:50.87,0:03:52.08,Dialogue,Hirata,0,0,0,,Karuizawa.
+Dialogue: 99,0:03:52.08,0:03:53.31,Dialogue,Hirata,0,0,0,,De fapt...
+Dialogue: 99,0:03:53.31,0:03:55.38,Dialogue,Hirata,0,0,0,,Te deranjează dacă vine și Ayanokouji?
+Dialogue: 99,0:03:55.38,0:03:56.81,Dialogue,Karuizawa,0,0,0,,Ce?
+Dialogue: 99,0:03:56.81,0:03:57.98,Dialogue,Karuizawa,0,0,0,,Lăsând asta de o parte,
+Dialogue: 99,0:03:57.98,0:04:00.88,Dialogue,Karuizawa,0,0,0,,am găsit cel mai bun loc \Nunde să mănânci teppanyaki!
+Dialogue: 99,0:04:01.31,0:04:04.41,Dialogue,Announcer,0,0,0,,{\an8\i1}Rog toți elevii să fie atenți.
+Dialogue: 99,0:04:05.64,0:04:08.64,Dialogue,Announcer,0,0,0,,{\an8\i1}Testul special va începe în curând.
+Dialogue: 99,0:04:09.25,0:04:13.55,Dialogue,Announcer,0,0,0,,{\an8\i1}Toți elevii vor primi un e-mail de la școală.
+Dialogue: 99,0:04:14.14,0:04:17.88,Dialogue,Announcer,0,0,0,,{\an8\i1}Vă rog să verificați telefoanele și să \Nurmați instrucțiunile trecute acolo.
+Dialogue: 99,0:04:19.15,0:04:21.01,Dialogue,Horikita,0,0,0,,„Cu privire la testul special.
+Dialogue: 99,0:04:21.85,0:04:25.93,Dialogue,Horikita,0,0,0,,Vă rog să veniți în camera \Nindicată, la ora menționată.”
+Dialogue: 99,0:04:25.93,0:04:30.87,Dialogue,Ayanokoji,0,0,0,,„Cei care vor întârzia mai mult de 10 minute ar putea fi penalizați.
+Dialogue: 99,0:04:30.87,0:04:35.67,Dialogue,Ayanokoji,0,0,0,,Vino în camera 504 \Npână azi la ora 18:00.”
+Dialogue: 99,0:04:41.42,0:04:42.46,Dialogue,Mashima,0,0,0,,Intră.
+Dialogue: 99,0:04:49.05,0:04:51.18,Dialogue,Ayanokoji,0,0,0,,{\i1}Yukimura și un profesor?
+Dialogue: 99,0:04:51.18,0:04:53.69,Dialogue,Sotomura,0,0,0,,Deci tocmai a fost dezvăluit!
+Dialogue: 99,0:04:53.69,0:04:56.19,Dialogue,Sotomura,0,0,0,,Unul dintre ultimele două \Nscaune e pentru Ayanokouji!
+Dialogue: 99,0:04:56.19,0:04:58.31,Dialogue,Yukimura,0,0,0,,Asta e destul de ciudat, nu?
+Dialogue: 99,0:04:58.57,0:04:59.26,Dialogue,Ayanokoji,0,0,0,,Da.
+Dialogue: 99,0:05:00.32,0:05:02.63,Dialogue,Mashima,0,0,0,,Mai trebuie să vină încă o persoană.
+Dialogue: 99,0:05:02.63,0:05:04.31,Dialogue,Mashima,0,0,0,,Vă rog să așteptați în liniște până apare.
+Dialogue: 99,0:05:13.25,0:05:15.50,Dialogue,Karuizawa,0,0,0,,Mă scuzați.
+Dialogue: 99,0:05:16.02,0:05:17.66,Dialogue,Karuizawa,0,0,0,,Ce naiba?
+Dialogue: 99,0:05:17.66,0:05:20.12,Dialogue,Karuizawa,0,0,0,,Ce naiba faceți voi aici, băieți?
+Dialogue: 99,0:05:20.12,0:05:23.22,Dialogue,Mashima,0,0,0,,Ai întârziat. Așează-te odată.
+Dialogue: 99,0:05:23.22,0:05:24.67,Dialogue,Karuizawa,0,0,0,,Bine...
+Dialogue: 99,0:05:30.28,0:05:32.07,Dialogue,Ayanokoji,0,0,0,,{\i1}Pare neobișnuit de indispusă.
+Dialogue: 99,0:05:32.51,0:05:36.19,Dialogue,Mashima,0,0,0,,Vă voi explica acum în \Nce constă testul special.
+Dialogue: 99,0:05:37.34,0:05:42.83,Dialogue,Mashima,0,0,0,,La test vor lua parte \Nopt grupuri separate,
+Dialogue: 99,0:05:42.83,0:05:45.45,Dialogue,Mashima,0,0,0,,fiecare denumit după o \Nplanetă din sistemul solar.
+Dialogue: 99,0:05:46.11,0:05:50.43,Dialogue,Mashima,0,0,0,,Fiecare grup va conține \Nelevi din fiecare clasă.
+Dialogue: 99,0:05:50.81,0:05:53.12,Dialogue,Ayanokoji,0,0,0,,Vor fi paisprezece elevi în fiecare grup.
+Dialogue: 99,0:05:53.12,0:05:55.11,Dialogue,Karuizawa,0,0,0,,Aici apare și clasa C!
+Dialogue: 99,0:05:55.11,0:05:58.31,Dialogue,Yukimura,0,0,0,,Apar și clasele A și B!
+Dialogue: 99,0:05:58.31,0:06:00.63,Dialogue,Sotomura,0,0,0,,N-Nu se presupune că sunt inamicii noștri?!
+Dialogue: 99,0:06:00.63,0:06:07.53,Dialogue,Ayanokoji,0,0,0,,{\i1}Nu vom participa ca membrii clasei D, \Nci ca membrii grupului „Marte”.
+Dialogue: 99,0:06:07.53,0:06:10.62,Dialogue,Ayanokoji,0,0,0,,{\i1}Iar rezultatul grupului nostru va depinde de rezultatul nostru individual.
+Dialogue: 99,0:06:11.66,0:06:13.29,Dialogue,Ayanokoji,0,0,0,,{\i1}Perioada de testare este de trei zile.
+Dialogue: 99,0:06:13.69,0:06:16.39,Dialogue,Ayanokoji,0,0,0,,{\i1}Și va exista și o zi liberă între ele.
+Dialogue: 99,0:06:16.39,0:06:20.17,Dialogue,Ayanokoji,0,0,0,,{\i1}La ora 8:00, școala va trimite un e-mail
+Dialogue: 99,0:06:20.17,0:06:22.84,Dialogue,Ayanokoji,0,0,0,,{\i1}declarând unul din membrii \Ngrupului ca fiind „VIP-ul”.
+Dialogue: 99,0:06:23.27,0:06:27.14,Dialogue,Ayanokoji,0,0,0,,{\i1}De două ori pe zi, grupul va discuta
+Dialogue: 99,0:06:27.14,0:06:29.82,Dialogue,Ayanokoji,0,0,0,,{\i1}și va încerca să afle cine este VIP-ul.
+Dialogue: 99,0:06:29.82,0:06:32.83,Dialogue,Ayanokoji,0,0,0,,{\i1}La treizeci de minute după ce se va încheia și a șasea discuție,
+Dialogue: 99,0:06:33.14,0:06:35.49,Dialogue,Ayanokoji,0,0,0,,{\i1}vom trimite răspunsurile noastre școlii.
+Dialogue: 99,0:06:35.87,0:06:38.30,Dialogue,Ayanokoji,0,0,0,,{\i1}Fiecare poate trimite un singur răspuns.
+Dialogue: 99,0:06:38.30,0:06:42.05,Dialogue,Ayanokoji,0,0,0,,{\i1}Și VIP-ul nu are voie să răspundă.
+Dialogue: 99,0:06:42.84,0:06:45.46,Dialogue,Karuizawa,0,0,0,,Ei bine, „cazul 1”...
+Dialogue: 99,0:06:45.46,0:06:50.41,Dialogue,Karuizawa,0,0,0,,Dacă toată lumea, cu excepția VIP-ului și a colegilor de clasă ai VIP-ului,
+Dialogue: 99,0:06:50.41,0:06:53.16,Dialogue,Karuizawa,0,0,0,,răspund corect,
+Dialogue: 99,0:06:53.16,0:06:57.00,Dialogue,Karuizawa,0,0,0,,toți membrii grupului vor primi 500.000 de puncte private.
+Dialogue: 99,0:06:57.00,0:06:59.91,Dialogue,Karuizawa,0,0,0,,Iar VIP-ul va mai primi încă 500.000 de puncte private, drept bonus.
+Dialogue: 99,0:07:00.52,0:07:02.40,Dialogue,Karuizawa,0,0,0,,C-Cinci sute de mii?!
+Dialogue: 99,0:07:02.40,0:07:05.52,Dialogue,Yukimura,0,0,0,,Atunci, VIP-ul primește dublu? \NAdică, un milion?!
+Dialogue: 99,0:07:05.97,0:07:07.28,Dialogue,Karuizawa,0,0,0,,„Cazul 2.”
+Dialogue: 99,0:07:07.28,0:07:11.64,Dialogue,Karuizawa,0,0,0,,Dacă cel puțin o persoană, cu excepția VIP-ului și a colegilor de clasă ai VIP-ului,
+Dialogue: 99,0:07:11.64,0:07:14.74,Dialogue,Karuizawa,0,0,0,,nu răspund sau dau un răspuns greșit,
+Dialogue: 99,0:07:14.74,0:07:18.75,Dialogue,Karuizawa,0,0,0,,VIP-ul va primi 500.000 de puncte private.
+Dialogue: 99,0:07:18.75,0:07:23.85,Dialogue,Ayanokoji,0,0,0,,{\i1}Cazul 2 reprezintă scenariul în care VIP-ul își ține identitatea secretă.
+Dialogue: 99,0:07:24.50,0:07:28.62,Dialogue,Ayanokoji,0,0,0,,{\i1}În acest caz, doar VIP-ul \Nprimește 500.000 de puncte.
+Dialogue: 99,0:07:29.13,0:07:34.66,Dialogue,Majima,0,0,0,,Dar încercarea de demascare a VIP-ului înainte ca testul să se sfârșească
+Dialogue: 99,0:07:35.10,0:07:38.56,Dialogue,Majima,0,0,0,,va duce la cazul 3 sau 4 ca rezultat.
+Dialogue: 99,0:07:38.87,0:07:41.49,Dialogue,Karuizawa,0,0,0,,În aceste două situații, \Nrăspunsurile vor fi acceptate
+Dialogue: 99,0:07:41.49,0:07:45.11,Dialogue,Karuizawa,0,0,0,,la orice oră din zi, \Ndin timpul perioadei de testare.
+Dialogue: 99,0:07:45.11,0:07:48.79,Dialogue,Karuizawa,0,0,0,,Răspunsurile vor fi acceptate și în perioada de trezeci de minute după ce testul a luat sfârșit,
+Dialogue: 99,0:07:48.79,0:07:51.81,Dialogue,Karuizawa,0,0,0,,dar, în ambele cazuri, răspunsurile greșite vor atrage după ele o penalizare.
+Dialogue: 99,0:07:52.76,0:07:54.24,Dialogue,Karuizawa,0,0,0,,„Cazul 3.”
+Dialogue: 99,0:07:54.24,0:07:58.85,Dialogue,Karuizawa,0,0,0,,Dacă o persoană, cu excepția VIP-ului, trimite un e-mail școlii, înainte de finalul perioadei de testare,
+Dialogue: 99,0:07:58.85,0:08:00.76,Dialogue,Karuizawa,0,0,0,,și dă răspunsul corect,
+Dialogue: 99,0:08:00.76,0:08:05.16,Dialogue,Karuizawa,0,0,0,,clasa acelui elev va primi \N50 de puncte de clasă,
+Dialogue: 99,0:08:05.16,0:08:08.77,Dialogue,Karuizawa,0,0,0,,iar cel care a dat răspunsul corect va primi 500.000 de puncte private.
+Dialogue: 99,0:08:08.77,0:08:11.59,Dialogue,Karuizawa,0,0,0,,În acel moment, \Ntestarea acelui grup va lua sfârșit.
+Dialogue: 99,0:08:12.67,0:08:15.71,Dialogue,Karuizawa,0,0,0,,Dacă răspunsul va veni de la un coleg de clasă al VIP-ului,
+Dialogue: 99,0:08:15.71,0:08:17.29,Dialogue,Karuizawa,0,0,0,,acel răspuns va fi declarat invalid
+Dialogue: 99,0:08:17.29,0:08:18.78,Dialogue,Karuizawa,0,0,0,,și testul va continua.
+Dialogue: 99,0:08:19.77,0:08:20.89,Dialogue,Karuizawa,0,0,0,,„Cazul 4.”
+Dialogue: 99,0:08:20.89,0:08:25.51,Dialogue,Karuizawa,0,0,0,,Dacă o persoană, cu excepția VIP-ului, trimite un e-mail școlii, înainte de finalul perioadei de testare,
+Dialogue: 99,0:08:25.51,0:08:27.31,Dialogue,Karuizawa,0,0,0,,și dă răspunsul greșit,
+Dialogue: 99,0:08:28.11,0:08:33.05,Dialogue,Karuizawa,0,0,0,,clasa acelui elev va pierde \N50 de puncte de clasă,
+Dialogue: 99,0:08:33.05,0:08:37.25,Dialogue,Karuizawa,0,0,0,,iar VIP-ul va primi \N500.000 de puncte private
+Dialogue: 99,0:08:37.25,0:08:40.91,Dialogue,Karuizawa,0,0,0,,și clasa lui va primi \N50 de puncte de clasă.
+Dialogue: 99,0:08:41.61,0:08:46.50,Dialogue,Ayanokoji,0,0,0,,{\i1}Iar în clipa în care s-a dat răspunsul greșit, \Ntestarea acelui grup va lua sfârșit.
+Dialogue: 99,0:08:47.92,0:08:52.29,Dialogue,Karuizawa,0,0,0,,În plus, dacă răspunsul greșit va vine de la cineva din clasa VIP-ului,
+Dialogue: 99,0:08:52.29,0:08:54.93,Dialogue,Karuizawa,0,0,0,,acel răspuns va fi declarat \Ninvalid și nu va fi acceptat.
+Dialogue: 99,0:08:58.06,0:08:59.18,Dialogue,Yukimura,0,0,0,,Înțeleg.
+Dialogue: 99,0:08:59.18,0:09:00.81,Dialogue,Yukimura,0,0,0,,Îți poți trimite răspunsul prin e-mail...
+Dialogue: 99,0:09:00.81,0:09:04.49,Dialogue,Karuizawa,0,0,0,,Nu sunt sigură că pot ține \Npasul cu această discuție...
+Dialogue: 99,0:09:04.49,0:09:08.19,Dialogue,Sotomura,0,0,0,,Și eu mă simt destul de confuz...
+Dialogue: 99,0:09:08.19,0:09:10.13,Dialogue,Yukimura,0,0,0,,Vă voi explica mai târziu.
+Dialogue: 99,0:09:10.13,0:09:12.19,Dialogue,Yukimura,0,0,0,,Nu-l deranjați pe domnul \Nprofesor cu asta acum.
+Dialogue: 99,0:09:12.19,0:09:16.05,Dialogue,Majima,0,0,0,,La acest test, școala vă \Nva păstra anonimitatea.
+Dialogue: 99,0:09:16.37,0:09:19.80,Dialogue,Majima,0,0,0,,După ce testul se încheie, \Ndoar rezultatul grupului vostru
+Dialogue: 99,0:09:19.80,0:09:23.58,Dialogue,Majima,0,0,0,,și modificarea punctelor \Nfiecărei clase vor fi anunțate.
+Dialogue: 99,0:09:23.58,0:09:26.08,Dialogue,Karuizawa,0,0,0,,Cum rămâne cu identitate VIP-ului?
+Dialogue: 99,0:09:26.08,0:09:27.59,Dialogue,Majima,0,0,0,,Nu va fi anunțată.
+Dialogue: 99,0:09:27.59,0:09:29.29,Dialogue,Majima,0,0,0,,Și nici starea răspunsurilor.
+Dialogue: 99,0:09:31.59,0:09:32.59,Dialogue,Girl,0,0,0,,{\an8}Pare destul de complicat!
+Dialogue: 99,0:09:32.59,0:09:33.84,Dialogue,Girl2,0,0,0,,{\an8}Da!
+Dialogue: 99,0:09:32.59,0:09:36.38,Dialogue,Ayanokoji,0,0,0,,{\i1}Există patru rezultate \Nclare la acest test.
+Dialogue: 99,0:09:36.84,0:09:41.11,Dialogue,Ichinose,0,0,0,,{\an8}Întregul grup împărtășește \Ncine e VIP-ul și câștigă.
+Dialogue: 99,0:09:42.22,0:09:45.73,Dialogue,Katsuragi,0,0,0,,{\an8}La răspunsul final, dacă cel puțin o singură persoană greșește răspunsul,
+Dialogue: 99,0:09:45.73,0:09:48.23,Dialogue,Katsuragi,0,0,0,,VIP-ul câștigă.
+Dialogue: 99,0:09:48.23,0:09:52.04,Dialogue,Ryuen,0,0,0,,Un trădător descoperă \Nidentitatea VIP-ului.
+Dialogue: 99,0:09:52.48,0:09:54.50,Dialogue,Ayanokoji,0,0,0,,{\i1}Și ultima posibilitate...
+Dialogue: 99,0:09:54.50,0:09:58.24,Dialogue,Ayanokoji,0,0,0,,{\i1}Există un trădător care va greșit intenționat numele VIP-ului.
+Dialogue: 99,0:09:58.24,0:09:59.36,Dialogue,Ayanokoji,0,0,0,,{\i1}„Reflectarea.”
+Dialogue: 99,0:09:59.60,0:10:02.82,Dialogue,Ayanokoji,0,0,0,,{\i1}Analizarea situației în cauză, clarificarea tuturor variabilelor,
+Dialogue: 99,0:10:03.29,0:10:06.29,Dialogue,Ayanokoji,0,0,0,,{\i1}și apoi, trecerea printr-un proces de rezolvare al problemelor,
+Dialogue: 99,0:10:06.29,0:10:09.37,Dialogue,Ayanokoji,0,0,0,,{\i1}speculând și atribuind noi valori.
+Dialogue: 99,0:10:09.75,0:10:11.55,Dialogue,Ayanokoji,0,0,0,,{\i1}Sub aceste condiții de testare,
+Dialogue: 99,0:10:11.55,0:10:14.09,Dialogue,Ayanokoji,0,0,0,,{\i1}specularea, procesarea și influențarea
+Dialogue: 99,0:10:14.09,0:10:15.71,Dialogue,Ayanokoji,0,0,0,,{\i1}acțiunilor celorlalți...
+Dialogue: 99,0:10:17.11,0:10:18.59,Dialogue,Ayanokoji,0,0,0,,Pare să fie o mare bătaie de cap.
+Dialogue: 99,0:10:25.75,0:10:27.14,Dialogue,Horikita,0,0,0,,E timpul.
+Dialogue: 99,0:10:27.14,0:10:28.14,Dialogue,Ayanokoji,0,0,0,,Da.
+Dialogue: 99,0:10:33.21,0:10:35.03,Dialogue,Horikita,0,0,0,,Am același mesaj.
+Dialogue: 99,0:10:35.03,0:10:38.38,Dialogue,Horikita,0,0,0,,Se pare că niciunul dintre \Nnoi nu a fost selectat ca VIP.
+Dialogue: 99,0:10:38.78,0:10:41.78,Dialogue,Ayanokoji,0,0,0,,Asta ne reduce variantele.
+Dialogue: 99,0:10:41.78,0:10:45.41,Dialogue,Horikita,0,0,0,,Ce părere ai despre \Nacest test special?
+Dialogue: 99,0:10:45.41,0:10:47.98,Dialogue,Ayanokoji,0,0,0,,Depinde foarte mult de cum \Ndecide VIP-ul să acționeze.
+Dialogue: 99,0:10:48.34,0:10:51.92,Dialogue,Ayanokoji,0,0,0,,Totuși, m-am gândit deja la niște rute preliminare spre victorie.
+Dialogue: 99,0:10:52.76,0:10:54.14,Dialogue,Horikita,0,0,0,,Impresionant.
+Dialogue: 99,0:10:54.14,0:10:56.55,Dialogue,Horikita,0,0,0,,Abia aștept să văd ce \Nrezultate vei obține.
+Dialogue: 99,0:10:56.55,0:11:00.57,Dialogue,Ayanokoji,0,0,0,,Și eu abia aștept să văd \Nunde-ți vei conduce grupul.
+Dialogue: 99,0:11:01.01,0:11:02.30,Dialogue,Ayanokoji,0,0,0,,Ai nevoie de ajutorul meu?
+Dialogue: 99,0:11:02.30,0:11:04.47,Dialogue,Horikita,0,0,0,,Nu, mersi.
+Dialogue: 99,0:11:04.47,0:11:06.68,Dialogue,Horikita,0,0,0,,Și doar ca să știu,
+Dialogue: 99,0:11:06.68,0:11:08.33,Dialogue,Horikita,0,0,0,,persoana față de care ești \Ncel mai precaut este...
+Dialogue: 99,0:11:08.33,0:11:09.94,Dialogue,Ryuen,0,0,0,,E o vreme așa de frumoasă, nu?
+Dialogue: 99,0:11:09.94,0:11:11.94,Dialogue,Ryuen,0,0,0,,De ce nu mă lăsați și \Npe mine să mă alătur?
+Dialogue: 99,0:11:13.53,0:11:16.19,Dialogue,Ryuen,0,0,0,,Suzune, ești cumva VIP-ul?
+Dialogue: 99,0:11:16.73,0:11:18.69,Dialogue,Horikita,0,0,0,,Știi foarte bine că nu ți-aș spune asta.
+Dialogue: 99,0:11:18.69,0:11:22.29,Dialogue,Horikita,0,0,0,,Sau... tu mi-ai spune dacă te-aș întreba?
+Dialogue: 99,0:11:22.29,0:11:24.32,Dialogue,Ryuen,0,0,0,,Dacă ai dori asta, desigur.
+Dialogue: 99,0:11:24.70,0:11:26.60,Dialogue,Ryuen,0,0,0,,Dar vreau să te întreb ceva, mai întâi...
+Dialogue: 99,0:11:26.91,0:11:30.71,Dialogue,Ryuen,0,0,0,,Cum ați obținut acel rezultat la testul de pe insula pustie?
+Dialogue: 99,0:11:30.71,0:11:35.83,Dialogue,Ryuen,0,0,0,,Rapoartele ei au arătat că \Ntu nu ai făcut nicio mișcare.
+Dialogue: 99,0:11:35.83,0:11:38.38,Dialogue,Horikita,0,0,0,,Chiar crezi că sunt atât de proastă încât s-o las să-mi descopere planul?
+Dialogue: 99,0:11:38.38,0:11:42.33,Dialogue,Horikita,0,0,0,,Ba chiar s-a chinuit cu mine, \Ndeși eu eram bolnavă.
+Dialogue: 99,0:11:42.33,0:11:44.66,Dialogue,Ibuki,0,0,0,,Atunci, ce spui de încă o rundă?!
+Dialogue: 99,0:11:45.72,0:11:47.26,Dialogue,Ryuen,0,0,0,,Rezultatul testului anterior...
+Dialogue: 99,0:11:47.26,0:11:51.48,Dialogue,Ryuen,0,0,0,,Nu e greu de obținut \Ncând știi ce trebuie făcut.
+Dialogue: 99,0:11:51.48,0:11:56.33,Dialogue,Ryuen,0,0,0,,Dar foarte puțini ar fi putut concepe un asemenea plan și să-l pună în aplicare în acele condiții.
+Dialogue: 99,0:11:56.87,0:12:00.59,Dialogue,Ryuen,0,0,0,,Nu e genul de lucru cu care ar veni o fată serioasă ca tine,
+Dialogue: 99,0:12:00.99,0:12:02.14,Dialogue,Ryuen,0,0,0,,Suzune.
+Dialogue: 99,0:12:02.14,0:12:04.75,Dialogue,Horikita,0,0,0,,Scuze că trebuie să te dezamăgesc, dar eu nu am prieteni.
+Dialogue: 99,0:12:05.27,0:12:09.12,Dialogue,Horikita,0,0,0,,Singurul pe care l-aș putea numi astfel ar fi Ayanokouji, din stânga ta.
+Dialogue: 99,0:12:09.12,0:12:12.61,Dialogue,Horikita,0,0,0,,Dar e destul de leneș, deci nu prea pot spune că-mi e complice...
+Dialogue: 99,0:12:12.61,0:12:15.59,Dialogue,Ryuen,0,0,0,,Cred că te-ai săturat de astfel de profitori.
+Dialogue: 99,0:12:17.00,0:12:18.38,Dialogue,Horikita,0,0,0,,Nu-mi face poze!
+Dialogue: 99,0:12:18.38,0:12:20.15,Dialogue,Ryuen,0,0,0,,E un joc micuț.
+Dialogue: 99,0:12:20.15,0:12:22.74,Dialogue,Ryuen,0,0,0,,Voi afla cine trage sforile pentru tine.
+Dialogue: 99,0:12:23.22,0:12:26.37,Dialogue,Ryuen,0,0,0,,Toți, inclusiv și micuțul profitor de colo, sunteți în vizorul meu.
+Dialogue: 99,0:12:26.37,0:12:29.39,Dialogue,Horikita,0,0,0,,Pari destul de obsedat de clasa D.
+Dialogue: 99,0:12:29.39,0:12:33.55,Dialogue,Ryuen,0,0,0,,Știu deja care sunt limitele \Nlui Katsuragi si Ichinose.
+Dialogue: 99,0:12:33.55,0:12:35.40,Dialogue,Ryuen,0,0,0,,Ei nu reprezintă o \Namenințare pentru mine.
+Dialogue: 99,0:12:37.45,0:12:40.51,Dialogue,Ayanokoji,0,0,0,,Acum, ești dintr-odată în \Ncentrul atenției, Horikita.
+Dialogue: 99,0:12:40.51,0:12:43.62,Dialogue,Horikita,0,0,0,,Și a cui crezi că este vina, mă rog?
+Dialogue: 99,0:12:43.62,0:12:47.83,Dialogue,Ayanokoji,0,0,0,,{\i1}Cu cât o încolțesc mai mult, cu atât e mai dornică să lupte.
+Dialogue: 99,0:12:48.42,0:12:50.85,Dialogue,Ayanokoji,0,0,0,,{\i1}Văd că nu am de ce \Nsă-mi fac griji pentru ea.
+Dialogue: 99,0:12:51.29,0:12:52.41,Dialogue,Horikita,0,0,0,,Ce mai e acum?
+Dialogue: 99,0:12:52.94,0:12:53.99,Dialogue,Ayanokoji,0,0,0,,Nimic.
+Dialogue: 99,0:13:04.61,0:13:07.80,Dialogue,Karuizawa,0,0,0,,Asta sigur e cea mai \Ngroaznică echipă dintre toate.
+Dialogue: 99,0:13:19.82,0:13:21.69,Dialogue,Ichinose,0,0,0,,Atențiune, toată lumea!
+Dialogue: 99,0:13:21.69,0:13:23.81,Dialogue,Ichinose,0,0,0,,De ce nu începem prin \Na ne prezenta, mai întâi?
+Dialogue: 99,0:13:23.81,0:13:26.70,Dialogue,Ichinose,0,0,0,,La urma urmei, școala a menționat să facem acest lucru!
+Dialogue: 99,0:13:26.70,0:13:29.94,Dialogue,Machida,0,0,0,,Chiar trebuie să ne \Nbatem capul cu așa ceva?
+Dialogue: 99,0:13:29.94,0:13:32.33,Dialogue,Machida,0,0,0,,E mai bine s-o facă doar cine dorește.
+Dialogue: 99,0:13:32.33,0:13:35.37,Dialogue,Ichinose,0,0,0,,Bănuiesc că nu pot obliga pe nimeni, nu?
+Dialogue: 99,0:13:35.37,0:13:39.71,Dialogue,Ichinose,0,0,0,,Dar e foarte posibil ca această \Nîncăpere să fie ascultată!
+Dialogue: 99,0:13:39.71,0:13:41.09,Dialogue,Machida,0,0,0,,Ei bine...
+Dialogue: 99,0:13:41.09,0:13:45.84,Dialogue,Ichinose,0,0,0,,Dacă așa stau lucrurile, persoanele care nu se prezintă ar putea fi penalizate.
+Dialogue: 99,0:13:46.85,0:13:47.84,Dialogue,Machida,0,0,0,,Atunci, o voi face.
+Dialogue: 99,0:13:48.06,0:13:49.22,Dialogue,Ichinose,0,0,0,,Mersi!
+Dialogue: 99,0:13:49.22,0:13:52.85,Dialogue,Ayanokoji,0,0,0,,{\i1}Ichinose a preluat inițiativa imediat.
+Dialogue: 99,0:13:54.23,0:13:56.98,Dialogue,Ichinose,0,0,0,,Deci, cum ar trebui să procedăm?
+Dialogue: 99,0:13:56.98,0:14:00.98,Dialogue,Ichinose,0,0,0,,Dacă nu vă place ideea ca eu să fiu moderatorul, doar spuneți, bine?
+Dialogue: 99,0:14:00.98,0:14:02.81,Dialogue,Ayanokoji,0,0,0,,{\i1}Și modul în care aduce asta în discuție...
+Dialogue: 99,0:14:02.81,0:14:06.49,Dialogue,Ayanokoji,0,0,0,,{\i1}Oricine se va opune, se va oferi voluntar ca să fie moderator.
+Dialogue: 99,0:14:06.49,0:14:10.77,Dialogue,Ayanokoji,0,0,0,,{\i1}Iar în procesul de dirijare al conversației, există posibilitatea de a spune prea multe.
+Dialogue: 99,0:14:11.49,0:14:13.08,Dialogue,Ayanokoji,0,0,0,,{\i1}Cei mai mulți vor evita acest lucru.
+Dialogue: 99,0:14:13.90,0:14:17.61,Dialogue,Ichinose,0,0,0,,Din moment ce nu obiectează nimeni, \Natunci voi fi eu moderatorul!
+Dialogue: 99,0:14:17.61,0:14:22.13,Dialogue,Ichinose,0,0,0,,Pentru început, cred că ar trebui să clarificăm aspectele testului care par neclare.
+Dialogue: 99,0:14:22.13,0:14:24.58,Dialogue,Ichinose,0,0,0,,Are careva vreo întrebare?
+Dialogue: 99,0:14:26.63,0:14:30.01,Dialogue,Ichinose,0,0,0,,Atunci, voi începe eu!
+Dialogue: 99,0:14:30.37,0:14:34.01,Dialogue,Ichinose,0,0,0,,Cred că ar trebui să ducem acest test la bun sfârșit împreună.
+Dialogue: 99,0:14:34.01,0:14:39.39,Dialogue,Ichinose,0,0,0,,Adică, cea mai bună variantă a noastră ar fi să mergem pe primul caz.
+Dialogue: 99,0:14:39.66,0:14:41.52,Dialogue,Ichinose,0,0,0,,Ce părere aveți?
+Dialogue: 99,0:14:41.52,0:14:43.77,Dialogue,Karuizawa,0,0,0,,Asta cred că e evident, nu?
+Dialogue: 99,0:14:43.77,0:14:45.90,Dialogue,Hamaguchi,0,0,0,,Și eu pentru primul caz.
+Dialogue: 99,0:14:45.90,0:14:47.26,Dialogue,Sotomura,0,0,0,,{\an8}Așa este!
+Dialogue: 99,0:14:45.90,0:14:47.26,Dialogue,Ayanokoji,0,0,0,,De acord.
+Dialogue: 99,0:14:47.26,0:14:49.53,Dialogue,Ayanokoji,0,0,0,,Mi-ar plăcea să am mai \Nmulte puncte private
+Dialogue: 99,0:14:49.53,0:14:51.78,Dialogue,Ayanokoji,0,0,0,,și prefer să cooperez \Natunci când este posibil.
+Dialogue: 99,0:14:51.78,0:14:54.66,Dialogue,Sotomura,0,0,0,,Contați pe {\i1}mine{\i0}!
+Dialogue: 99,0:14:54.66,0:14:56.56,Dialogue,Karuizawa,0,0,0,,Pe cine încerci să imiți acum?
+Dialogue: 99,0:14:56.56,0:14:57.67,Dialogue,Machida,0,0,0,,Noi,
+Dialogue: 99,0:14:57.67,0:15:01.92,Dialogue,Machida,0,0,0,,cei din clasa A, am decis \Nsă nu luăm parte la discuții.
+Dialogue: 99,0:15:06.42,0:15:08.57,Dialogue,Sotomura,0,0,0,,S-Să nu luați parte?
+Dialogue: 99,0:15:08.57,0:15:09.93,Dialogue,Sotomura,0,0,0,,De ce?
+Dialogue: 99,0:15:10.28,0:15:12.93,Dialogue,Ichinose,0,0,0,,Presupun că am fost \Npuțin prea directă, nu?
+Dialogue: 99,0:15:12.93,0:15:18.68,Dialogue,Machida,0,0,0,,Cel mai simplu și sigur mod de a beneficia din acest test
+Dialogue: 99,0:15:18.68,0:15:22.06,Dialogue,Machida,0,0,0,,e să nu iei parte de la bun început.
+Dialogue: 99,0:15:22.34,0:15:24.13,Dialogue,Ayanokoji,0,0,0,,{\i1}Instrucțiuni de la Katsuragi?
+Dialogue: 99,0:15:24.56,0:15:29.82,Dialogue,Hamaguchi,0,0,0,,Să refuzi discuția și să-l lași \Npe VIP să fugă cu punctele?
+Dialogue: 99,0:15:29.82,0:15:32.63,Dialogue,Machida,0,0,0,,Care e rezultatul cel \Nmai puțin dorit la test?
+Dialogue: 99,0:15:32.63,0:15:34.86,Dialogue,Karuizawa,0,0,0,,Ce? Ei bine...
+Dialogue: 99,0:15:34.86,0:15:39.60,Dialogue,Karuizawa,0,0,0,,Cineva să afle cine-i VIP-ul și să-i trădeze pe toți ceilalți?
+Dialogue: 99,0:15:39.60,0:15:41.10,Dialogue,Machida,0,0,0,,Exact.
+Dialogue: 99,0:15:41.10,0:15:45.46,Dialogue,Machida,0,0,0,,Scenariul cel mai rău rezultă \Ndin participarea la discuții,
+Dialogue: 99,0:15:45.46,0:15:47.29,Dialogue,Machida,0,0,0,,o persoană suspectează \No alta că este VIP-ul
+Dialogue: 99,0:15:47.29,0:15:48.71,Dialogue,Machida,0,0,0,,și dă răspunsul greșit.
+Dialogue: 99,0:15:48.71,0:15:53.58,Dialogue,Hamaguchi,0,0,0,,Înțeleg logica din spatele dorinței de a nu participa la discuții.
+Dialogue: 99,0:15:53.58,0:15:56.72,Dialogue,Hamaguchi,0,0,0,,Dar neglijarea identificării VIP-ului
+Dialogue: 99,0:15:56.72,0:16:00.60,Dialogue,Hamaguchi,0,0,0,,ar putea mari diferența de \Npuncte dintre clase, nu?
+Dialogue: 99,0:16:00.61,0:16:04.00,Dialogue,Hamaguchi,0,0,0,,Ce se va întâmpla dacă distribuția VIP-urilor nu e deloc uniformă,
+Dialogue: 99,0:16:04.00,0:16:07.73,Dialogue,Hamaguchi,0,0,0,,majoritatea regăsindu-se \Nîntr-o singură clasă?
+Dialogue: 99,0:16:08.18,0:16:09.95,Dialogue,Ayanokoji,0,0,0,,{\i1}Îngrijorarea lui Hamaguchi e justificată.
+Dialogue: 99,0:16:10.67,0:16:14.03,Dialogue,Ayanokoji,0,0,0,,{\i1}E destul de greu să susții \Nstrategia de a nu participa,
+Dialogue: 99,0:16:14.03,0:16:16.33,Dialogue,Ayanokoji,0,0,0,,{\i1}fără să știi distribuția \NVIP-urilor per clasă,
+Dialogue: 99,0:16:16.74,0:16:19.91,Dialogue,Ayanokoji,0,0,0,,{\i1}Dar Katsuragi a observat deja mecanismul din spate, și anume:
+Dialogue: 99,0:16:20.78,0:16:22.09,Dialogue,Ayanokoji,0,0,0,,{\i1}„Corectitudine.”
+Dialogue: 99,0:16:22.63,0:16:24.75,Dialogue,Machida,0,0,0,,„Corectitudine pentru toate clasele.”
+Dialogue: 99,0:16:24.75,0:16:27.17,Dialogue,Machida,0,0,0,,Asta e o regulă pe care \Nșcoala o va respecta mereu,
+Dialogue: 99,0:16:27.17,0:16:29.26,Dialogue,Machida,0,0,0,,și a fost prezentă și în testul anterior.
+Dialogue: 99,0:16:29.66,0:16:32.86,Dialogue,Machida,0,0,0,,Mă aștept ca distribuția VIP-urilor să fie uniformă pentru toate clasele.
+Dialogue: 99,0:16:32.86,0:16:35.01,Dialogue,Machida,0,0,0,,Nu vor fi toți într-o singură clasă.
+Dialogue: 99,0:16:35.01,0:16:37.20,Dialogue,Hamaguchi,0,0,0,,Posibil... să ai dreptate.
+Dialogue: 99,0:16:37.20,0:16:40.35,Dialogue,Ichinose,0,0,0,,Cred că punctul vostru \Nde vedere e unul solid.
+Dialogue: 99,0:16:40.35,0:16:43.28,Dialogue,Ichinose,0,0,0,,Dar nu va fi atât de ușor \Nde dus la bun sfârșit.
+Dialogue: 99,0:16:43.28,0:16:45.91,Dialogue,Ichinose,0,0,0,,Mizezi pe faptul că \Nniciun elev din anul întâi
+Dialogue: 99,0:16:45.91,0:16:47.77,Dialogue,Ichinose,0,0,0,,nu va suspecta sau trăda pe nimeni.
+Dialogue: 99,0:16:47.77,0:16:51.03,Dialogue,Machida,0,0,0,,Între membrii clasei A \Nexistă încredere deplină!
+Dialogue: 99,0:16:51.27,0:16:53.78,Dialogue,Manabe,0,0,0,,Pare mai ușor decât să \Nîncerci să afli cine e VIP-ul...
+Dialogue: 99,0:16:53.78,0:16:56.03,Dialogue,Sotomura,0,0,0,,Poate ar trebui să le acceptăm oferta?
+Dialogue: 99,0:16:56.03,0:16:58.90,Dialogue,Sotomura,0,0,0,,Nu văd nicio problemă cu strategia lor.
+Dialogue: 99,0:17:01.55,0:17:03.48,Dialogue,Ichinose,0,0,0,,Eu sunt de părere că strategia lui Machida
+Dialogue: 99,0:17:03.48,0:17:09.04,Dialogue,Ichinose,0,0,0,,e una din care clasa A, \Nîn mod special, are de câștigat.
+Dialogue: 99,0:17:09.04,0:17:11.42,Dialogue,Machida,0,0,0,,Mi-a scăpat vreun dezavantaj ca să las răspunsul ascuns?
+Dialogue: 99,0:17:11.42,0:17:13.40,Dialogue,Ichinose,0,0,0,,Voi forțați oamenii din clasele mai joase
+Dialogue: 99,0:17:13.40,0:17:16.55,Dialogue,Ichinose,0,0,0,,să-și rateze una din puținele lor șanse de a schimba lucrurile.
+Dialogue: 99,0:17:16.55,0:17:18.05,Dialogue,Machida,0,0,0,,Ei bine...
+Dialogue: 99,0:17:18.05,0:17:23.42,Dialogue,Ichinose,0,0,0,,Un plan bazat pe un front unit garantează că nu va exista nicio modificare în clasamentul final al claselor.
+Dialogue: 99,0:17:23.42,0:17:27.06,Dialogue,Machida,0,0,0,,Și planul tău se bazează \Ntot pe un front unit!
+Dialogue: 99,0:17:27.06,0:17:28.95,Dialogue,Ichinose,0,0,0,,Nu chiar!
+Dialogue: 99,0:17:29.44,0:17:33.38,Dialogue,Ichinose,0,0,0,,Grupul nostru conține patru \Nmembri din clasele D și C,
+Dialogue: 99,0:17:33.38,0:17:35.70,Dialogue,Ichinose,0,0,0,,și doar trei membri din clasa B și A.
+Dialogue: 99,0:17:35.70,0:17:38.13,Dialogue,Ichinose,0,0,0,,Cu alte cuvinte, dacă vom \Nobține rezultatul cazului 1,
+Dialogue: 99,0:17:38.13,0:17:43.45,Dialogue,Ichinose,0,0,0,,clasele D și C vor primi fiecare 500.000 de puncte private.
+Dialogue: 99,0:17:43.45,0:17:45.01,Dialogue,Machida,0,0,0,,Asta așa este.
+Dialogue: 99,0:17:45.01,0:17:49.33,Dialogue,Machida,0,0,0,,Dar nu ai pune clasa B, \Ndin care faci parte, în dezavantaj?
+Dialogue: 99,0:17:49.33,0:17:54.22,Dialogue,Ichinose,0,0,0,,Alternativa e să lăsam \Nclasa A să fugă cu victoria.
+Dialogue: 99,0:17:54.22,0:17:57.97,Dialogue,Ichinose,0,0,0,,La urma urmei, VIP-ul ar \Nputea fi în clasa {\i1}voastră{\i0}!
+Dialogue: 99,0:17:57.97,0:17:59.61,Dialogue,Hamaguchi,0,0,0,,Sunt de acord cu ea.
+Dialogue: 99,0:17:59.61,0:18:01.13,Dialogue,Ayanokoji,0,0,0,,{\i1}Un bun contraargument.
+Dialogue: 99,0:18:01.63,0:18:04.63,Dialogue,Ayanokoji,0,0,0,,{\i1}Clasa B trebuie să fii \Ndiscutat despre asta în avans.
+Dialogue: 99,0:18:10.98,0:18:14.50,Dialogue,Machida,0,0,0,,Oricum ar sta lucrurile, \Nfilozofia clasei A nu se va schimba.
+Dialogue: 99,0:18:14.50,0:18:16.61,Dialogue,Machida,0,0,0,,Noi nu vom participa la discuții.
+Dialogue: 99,0:18:18.38,0:18:19.99,Dialogue,Ichinose,0,0,0,,Vai...
+Dialogue: 99,0:18:19.99,0:18:22.20,Dialogue,Ichinose,0,0,0,,Oare ce ne vom face cu ei?
+Dialogue: 99,0:18:23.64,0:18:27.89,Dialogue,Ayanokoji,0,0,0,,{\i1}Nimeni nu se poate contrazice \Ncu Machida sau Ichinose.
+Dialogue: 99,0:18:28.52,0:18:31.25,Dialogue,Ayanokoji,0,0,0,,{\i1}Fiecare clasă are propriile ei planuri.
+Dialogue: 99,0:18:32.25,0:18:34.55,Dialogue,Manabe,0,0,0,,Putem vorbi o secundă, Karuizawa?
+Dialogue: 99,0:18:36.01,0:18:38.76,Dialogue,Manabe,0,0,0,,Hei. Vrem să te întrebăm ceva!
+Dialogue: 99,0:18:39.13,0:18:40.14,Dialogue,Karuizawa,0,0,0,,Ce este?
+Dialogue: 99,0:18:40.14,0:18:43.76,Dialogue,Manabe,0,0,0,,Te-ai certat cumva cu Rika \Nînainte de vacanța de vară?
+Dialogue: 99,0:18:43.76,0:18:45.86,Dialogue,Karuizawa,0,0,0,,Ce? De unde asta?
+Dialogue: 99,0:18:45.86,0:18:47.51,Dialogue,Karuizawa,0,0,0,,Și cine e Rika?
+Dialogue: 99,0:18:47.51,0:18:51.16,Dialogue,Manabe,0,0,0,,O fată cu ochelari din clasa C!
+Dialogue: 99,0:18:51.16,0:18:52.61,Dialogue,Manabe,0,0,0,,Are mereu părul prins în cocuri.
+Dialogue: 99,0:18:52.61,0:18:53.65,Dialogue,Manabe,0,0,0,,Nu-ți spune nimic?
+Dialogue: 99,0:18:53.65,0:18:56.39,Dialogue,Karuizawa,0,0,0,,Nu. Ați greșit persoana.
+Dialogue: 99,0:18:57.40,0:19:00.03,Dialogue,Manabe,0,0,0,,Ea ne-a spus că tu ai fost!
+Dialogue: 99,0:19:00.03,0:19:03.28,Dialogue,Manabe,0,0,0,,„O fată din clasa D, cu părul prins în coadă de cal” s-a luat de ea.
+Dialogue: 99,0:19:03.28,0:19:05.25,Dialogue,Yabu,0,0,0,,Aștepta în rând la cafenea,
+Dialogue: 99,0:19:05.25,0:19:08.16,Dialogue,Yabu,0,0,0,,când cineva a venit și a dat-o la o parte!
+Dialogue: 99,0:19:08.16,0:19:10.29,Dialogue,Karuizawa,0,0,0,,Nu am făcut așa ceva.
+Dialogue: 99,0:19:12.05,0:19:13.61,Dialogue,Yamashita,0,0,0,,Deci nu știi nimic?
+Dialogue: 99,0:19:13.61,0:19:16.88,Dialogue,Yamashita,0,0,0,,Dacă ai fost {\i1}tu{\i0}, \Nam {\i1}vrea{\i0} să-ți ceri scuze!
+Dialogue: 99,0:19:16.88,0:19:18.92,Dialogue,Manabe,0,0,0,,Putem să-ți facem o poză \Nca Rika să arunce o privire?
+Dialogue: 99,0:19:18.92,0:19:20.63,Dialogue,Karuizawa,0,0,0,,Să nu îndrăznești să-mi faci poze!
+Dialogue: 99,0:19:22.65,0:19:23.97,Dialogue,Manabe,0,0,0,,Care e problema ta?!
+Dialogue: 99,0:19:23.97,0:19:26.25,Dialogue,Yamashita,0,0,0,,Ce ai fi făcut dacă \Ni-ai stricat telefonul?
+Dialogue: 99,0:19:26.25,0:19:28.79,Dialogue,Karuizawa,0,0,0,,Doar spuneți-i școlii \Nși vă va da unul nou.
+Dialogue: 99,0:19:28.79,0:19:31.10,Dialogue,Manabe,0,0,0,,Am poze și alte lucruri acolo!
+Dialogue: 99,0:19:31.10,0:19:33.86,Dialogue,Karuizawa,0,0,0,,Ce este? Ce doriți?
+Dialogue: 99,0:19:33.86,0:19:36.82,Dialogue,Manabe,0,0,0,,Dacă nu ai fost tu, atunci de ce nu cooperezi de bunăvoie cu noi?
+Dialogue: 99,0:19:37.21,0:19:38.36,Dialogue,Manabe,0,0,0,,Doar lasă-mă să-ți fac o poză!
+Dialogue: 99,0:19:38.36,0:19:39.86,Dialogue,Karuizawa,0,0,0,,Am spus nu!
+Dialogue: 99,0:19:39.86,0:19:40.94,Dialogue,Manabe,0,0,0,,Ce e problema ta?
+Dialogue: 99,0:19:40.94,0:19:43.03,Dialogue,Yamashita,0,0,0,,Uită-te la ea cum face pe timida!
+Dialogue: 99,0:19:43.03,0:19:44.05,Dialogue,Manabe,0,0,0,,Îți bați joc de mine?
+Dialogue: 99,0:19:44.05,0:19:45.87,Dialogue,Yabu,0,0,0,,O țin eu, deci fă-i poza!
+Dialogue: 99,0:19:45.87,0:19:46.99,Dialogue,Karuizawa,0,0,0,,Încetează!
+Dialogue: 99,0:19:47.83,0:19:50.27,Dialogue,Machida,0,0,0,,Hei. Ce e cu zarva asta?
+Dialogue: 99,0:19:50.27,0:19:51.75,Dialogue,Karuizawa,0,0,0,,Machida...
+Dialogue: 99,0:19:56.36,0:19:58.76,Dialogue,Machida,0,0,0,,Nu vedeți că o deranjați? \NNu vă mai luați de ea.
+Dialogue: 99,0:19:58.76,0:20:01.33,Dialogue,Manabe,0,0,0,,N-Nu te băga, Machida!
+Dialogue: 99,0:20:01.33,0:20:02.96,Dialogue,Machida,0,0,0,,Vrei cumva să chem un profesor?
+Dialogue: 99,0:20:02.96,0:20:04.26,Dialogue,Manabe,0,0,0,,E-Ei bine...
+Dialogue: 99,0:20:04.26,0:20:05.86,Dialogue,Manabe,0,0,0,,Să mergem, fetelor.
+Dialogue: 99,0:20:05.86,0:20:07.14,Dialogue,Yamashita,0,0,0,,B-Bine.
+Dialogue: 99,0:20:10.03,0:20:11.94,Dialogue,Yabu,0,0,0,,Ar trebui s-o întrebăm din nou pe Rika?
+Dialogue: 99,0:20:11.94,0:20:14.02,Dialogue,Yamashita,0,0,0,,Dar ar fi mers mai repede cu o poză...
+Dialogue: 99,0:20:15.10,0:20:17.07,Dialogue,Karuizawa,0,0,0,,Mersi, Machida.
+Dialogue: 99,0:20:33.25,0:20:35.97,Dialogue,Yukimura,0,0,0,,Sunt de acord că e necesar să discutăm.
+Dialogue: 99,0:20:35.97,0:20:38.17,Dialogue,Yukimura,0,0,0,,Vrem să aflăm cine e VIP-ul.
+Dialogue: 99,0:20:38.17,0:20:41.42,Dialogue,Karuizawa,0,0,0,,Dar chiar crezi că o discuție \Nne va ajuta să aflăm cine e?
+Dialogue: 99,0:20:41.42,0:20:43.76,Dialogue,Karuizawa,0,0,0,,Testul ăsta e mult prea greu.
+Dialogue: 99,0:20:43.76,0:20:46.03,Dialogue,Ichinose,0,0,0,,Aș spune că depinde foarte \Nmult de abordarea noastră.
+Dialogue: 99,0:20:46.03,0:20:47.78,Dialogue,Ichinose,0,0,0,,Ne putem gândi la acest test
+Dialogue: 99,0:20:47.78,0:20:51.39,Dialogue,Ichinose,0,0,0,,și la cel de pe insulă că sunt, \Nîn esență, o surprinză pentru elevi.
+Dialogue: 99,0:20:51.39,0:20:52.89,Dialogue,Sotomura,0,0,0,,Răsăritul e specialitatea...
+Dialogue: 99,0:20:52.89,0:20:55.90,Dialogue,Ichinose,0,0,0,,Nu-i așa că viața la bordul unei nave de croazieră e distractivă?
+Dialogue: 99,0:20:56.13,0:20:58.76,Dialogue,Ichinose,0,0,0,,Chiar dacă trebuie să \Nparticipăm la aceste ședințe,
+Dialogue: 99,0:20:58.76,0:21:00.90,Dialogue,Ichinose,0,0,0,,putem vorbi și sta pe \Ntelefoane cât dorim.
+Dialogue: 99,0:21:00.90,0:21:02.53,Dialogue,Karuizawa,0,0,0,,Presupun.
+Dialogue: 99,0:21:02.53,0:21:04.87,Dialogue,Ichinose,0,0,0,,Deci, de ce nu discutăm?
+Dialogue: 99,0:21:04.87,0:21:07.96,Dialogue,Ichinose,0,0,0,,Devine destul de neplăcut să stai mereu în bula ta de siguranță, nu?
+Dialogue: 99,0:21:08.75,0:21:11.64,Dialogue,Machida,0,0,0,,Sunteți liberi să vă distrați cât doriți,
+Dialogue: 99,0:21:11.64,0:21:13.76,Dialogue,Machida,0,0,0,,dar eu refuz să am încredere în voi.
+Dialogue: 99,0:21:13.76,0:21:16.67,Dialogue,Machida,0,0,0,,VIP-ul ar putea fi și în clasa B.
+Dialogue: 99,0:21:16.67,0:21:19.42,Dialogue,Ichinose,0,0,0,,Poți avea puțină încredere în colegii tăi de grup, Machida?
+Dialogue: 99,0:21:21.32,0:21:22.55,Dialogue,Machida,0,0,0,,Desigur că pot.
 Dialogue: 0,0:10:20.43,0:10:24.02,DedzuyaSigns,,0,0,0,,{\pos(161.66,277.42)\fscx60\fscy80\fnRexlia\fs40\c&H000000&\alpha&HFF&\blur0.9\t(0,400,\alpha&H00&\fscx43\fscy63)}C
 Dialogue: 0,0:10:20.43,0:10:24.02,DedzuyaSigns,,0,0,0,,{\pos(169.17,277.42)\fscx60\fscy80\fnRexlia\fs40\c&H000000&\alpha&HFF&\blur0.9\t(55,455,\alpha&H00&\fscx43\fscy63)}l
 Dialogue: 0,0:10:20.43,0:10:24.02,DedzuyaSigns,,0,0,0,,{\pos(176.04,277.42)\fscx60\fscy80\fnRexlia\fs40\c&H000000&\alpha&HFF&\blur0.9\t(110,510,\alpha&H00&\fscx43\fscy63)}a

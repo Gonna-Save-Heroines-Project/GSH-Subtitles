@@ -32,47 +32,47 @@ Style: Credits,Amperzand,34,&H00B37342,&H000000FF,&H00FAF5F2,&HFFAD2400,-1,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.04,0:00:04.27,Dialogue,,0,0,0,,Te rog, Toa!
-Dialogue: 100,0:00:05.53,0:00:07.71,Dialogue,,0,0,0,,Pur şi simplu nu am putut s-o las singură.
-Dialogue: 100,0:00:10.91,0:00:12.78,Dialogue,,0,0,0,,Când treceam pe lângă şcoală...
-Dialogue: 100,0:00:14.59,0:00:16.78,Dialogue,,0,0,0,,A venit şi s-a frecat de mine.
-Dialogue: 100,0:00:17.46,0:00:19.78,Dialogue,,0,0,0,,Se pare că ţi-ai făcut alt prieten.
-Dialogue: 100,0:00:22.14,0:00:24.92,Dialogue,,0,0,0,,Are o zgardă, deci cred că este pierdută.
-Dialogue: 100,0:00:25.48,0:00:29.77,Dialogue,,0,0,0,,Vreau să-i caut stăpânul, \Ndar nu sunt bună cu computerele...
-Dialogue: 100,0:00:29.77,0:00:33.31,Dialogue,,0,0,0,,Of, bine. Voi face un post \NSNS în legătură cu asta.
-Dialogue: 100,0:00:33.31,0:00:35.75,Dialogue,,0,0,0,,Mereu pot conta pe tine, Toa!
-Dialogue: 100,0:00:36.14,0:00:38.90,Dialogue,,0,0,0,,Şi mai am încă un favor \Npe care vreau să ţi-l cer...
-Dialogue: 100,0:00:38.90,0:00:39.64,Dialogue,,0,0,0,,Care este?
-Dialogue: 100,0:00:40.03,0:00:42.70,Dialogue,,0,0,0,,Din moment ce stau într-un loc unde se serveşte mâncare,
-Dialogue: 100,0:00:42.70,0:00:44.60,Dialogue,,0,0,0,,nu-mi este permis să ţin animale.
-Dialogue: 100,0:00:45.84,0:00:46.94,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:00:46.94,0:00:48.71,Dialogue,,0,0,0,,Mersi, Toa!
-Dialogue: 100,0:00:50.08,0:00:52.53,Dialogue,,0,0,0,,Te rog să iei unul.
-Dialogue: 100,0:01:02.19,0:01:04.29,Dialogue,,0,0,0,,Hei, acelea sunt ale mele!
-Dialogue: 100,0:01:05.17,0:01:06.03,Dialogue,,0,0,0,,Aşteaptă!
-Dialogue: 100,0:01:11.93,0:01:14.01,Dialogue,,0,0,0,,O-Opreşte-te!
-Dialogue: 100,0:01:17.77,0:01:19.76,Dialogue,,0,0,0,,Mai dă-mi o pauză...
-Dialogue: 100,0:01:22.11,0:01:23.31,Dialogue,,0,0,0,,Doamne...
-Dialogue: 100,0:01:23.64,0:01:26.32,Dialogue,,0,0,0,,Ai făcut o adevărată \Ndezordine din camera mea.
-Dialogue: 100,0:01:28.85,0:01:31.47,Dialogue,,0,0,0,,Dar presupun că nu contează.
-Dialogue: 100,0:01:37.82,0:01:39.99,Dialogue,,0,0,0,,Mulţumesc foarte mult.
-Dialogue: 100,0:01:44.53,0:01:47.00,Dialogue,,0,0,0,,Ea spune, "Mulţumesc!"
-Dialogue: 100,0:01:52.63,0:01:54.09,Dialogue,,0,0,0,,Ai grijă, bine?
-Dialogue: 100,0:01:55.25,0:01:56.87,Dialogue,,0,0,0,,La revedere!
-Dialogue: 100,0:03:00.03,0:03:02.14,Dialogue,,0,0,0,,Cum să încerci să înţelegi KakoTama!
-Dialogue: 100,0:03:02.24,0:03:03.49,Dialogue #2,,0,0,0,,În această parte,
-Dialogue: 100,0:03:03.49,0:03:06.70,Dialogue #2,,0,0,0,,vom încerca să explicăm despre KakoTama.
-Dialogue: 100,0:03:06.70,0:03:09.54,Dialogue #2,,0,0,0,,Iei fata cu urechi de pisică aşa
-Dialogue: 100,0:03:09.54,0:03:10.54,Dialogue #2,,0,0,0,,şi încercueşti astea...
-Dialogue: 100,0:03:10.54,0:03:12.29,Dialogue #2,,0,0,0,,Înţeleg!
-Dialogue: 100,0:03:12.29,0:03:14.68,Dialogue #2,,0,0,0,,Încercuieşti aceste pietre ca să ataci înamicul.
-Dialogue: 100,0:03:14.68,0:03:17.05,Dialogue #2,,0,0,0,,Aşa este! Ai înţeles!
-Dialogue: 100,0:03:17.05,0:03:19.09,Dialogue #2,,0,0,0,,Aceste chestii numite "Akui" sunt inamicii, nu?
-Dialogue: 100,0:03:19.09,0:03:21.55,Dialogue #2,,0,0,0,,Şi Chimimaru-chan este un spirit, nu?
-Dialogue: 100,0:03:21.55,0:03:24.60,Dialogue #2,,0,0,0,,Un spirit? Acesta este un joc de fantezie?
-Dialogue: 100,0:03:24.60,0:03:27.18,Dialogue #2,,0,0,0,,Ne vom uita mai de aproape la asta data viitoare!
-Dialogue: 100,0:03:27.18,0:03:28.68,Dialogue #2,,0,0,0,,Aşteptaţi episodul următor!
-Dialogue: 100,0:03:28.68,0:03:29.78,Dialogue,,0,0,0,,KakoTama!
+Dialogue: 99,0:00:03.04,0:00:04.27,Dialogue,,0,0,0,,Te rog, Toa!
+Dialogue: 99,0:00:05.53,0:00:07.71,Dialogue,,0,0,0,,Pur şi simplu nu am putut s-o las singură.
+Dialogue: 99,0:00:10.91,0:00:12.78,Dialogue,,0,0,0,,Când treceam pe lângă şcoală...
+Dialogue: 99,0:00:14.59,0:00:16.78,Dialogue,,0,0,0,,A venit şi s-a frecat de mine.
+Dialogue: 99,0:00:17.46,0:00:19.78,Dialogue,,0,0,0,,Se pare că ţi-ai făcut alt prieten.
+Dialogue: 99,0:00:22.14,0:00:24.92,Dialogue,,0,0,0,,Are o zgardă, deci cred că este pierdută.
+Dialogue: 99,0:00:25.48,0:00:29.77,Dialogue,,0,0,0,,Vreau să-i caut stăpânul, \Ndar nu sunt bună cu computerele...
+Dialogue: 99,0:00:29.77,0:00:33.31,Dialogue,,0,0,0,,Of, bine. Voi face un post \NSNS în legătură cu asta.
+Dialogue: 99,0:00:33.31,0:00:35.75,Dialogue,,0,0,0,,Mereu pot conta pe tine, Toa!
+Dialogue: 99,0:00:36.14,0:00:38.90,Dialogue,,0,0,0,,Şi mai am încă un favor \Npe care vreau să ţi-l cer...
+Dialogue: 99,0:00:38.90,0:00:39.64,Dialogue,,0,0,0,,Care este?
+Dialogue: 99,0:00:40.03,0:00:42.70,Dialogue,,0,0,0,,Din moment ce stau într-un loc unde se serveşte mâncare,
+Dialogue: 99,0:00:42.70,0:00:44.60,Dialogue,,0,0,0,,nu-mi este permis să ţin animale.
+Dialogue: 99,0:00:45.84,0:00:46.94,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:00:46.94,0:00:48.71,Dialogue,,0,0,0,,Mersi, Toa!
+Dialogue: 99,0:00:50.08,0:00:52.53,Dialogue,,0,0,0,,Te rog să iei unul.
+Dialogue: 99,0:01:02.19,0:01:04.29,Dialogue,,0,0,0,,Hei, acelea sunt ale mele!
+Dialogue: 99,0:01:05.17,0:01:06.03,Dialogue,,0,0,0,,Aşteaptă!
+Dialogue: 99,0:01:11.93,0:01:14.01,Dialogue,,0,0,0,,O-Opreşte-te!
+Dialogue: 99,0:01:17.77,0:01:19.76,Dialogue,,0,0,0,,Mai dă-mi o pauză...
+Dialogue: 99,0:01:22.11,0:01:23.31,Dialogue,,0,0,0,,Doamne...
+Dialogue: 99,0:01:23.64,0:01:26.32,Dialogue,,0,0,0,,Ai făcut o adevărată \Ndezordine din camera mea.
+Dialogue: 99,0:01:28.85,0:01:31.47,Dialogue,,0,0,0,,Dar presupun că nu contează.
+Dialogue: 99,0:01:37.82,0:01:39.99,Dialogue,,0,0,0,,Mulţumesc foarte mult.
+Dialogue: 99,0:01:44.53,0:01:47.00,Dialogue,,0,0,0,,Ea spune, "Mulţumesc!"
+Dialogue: 99,0:01:52.63,0:01:54.09,Dialogue,,0,0,0,,Ai grijă, bine?
+Dialogue: 99,0:01:55.25,0:01:56.87,Dialogue,,0,0,0,,La revedere!
+Dialogue: 99,0:03:00.03,0:03:02.14,Dialogue,,0,0,0,,Cum să încerci să înţelegi KakoTama!
+Dialogue: 99,0:03:02.24,0:03:03.49,Dialogue #2,,0,0,0,,În această parte,
+Dialogue: 99,0:03:03.49,0:03:06.70,Dialogue #2,,0,0,0,,vom încerca să explicăm despre KakoTama.
+Dialogue: 99,0:03:06.70,0:03:09.54,Dialogue #2,,0,0,0,,Iei fata cu urechi de pisică aşa
+Dialogue: 99,0:03:09.54,0:03:10.54,Dialogue #2,,0,0,0,,şi încercueşti astea...
+Dialogue: 99,0:03:10.54,0:03:12.29,Dialogue #2,,0,0,0,,Înţeleg!
+Dialogue: 99,0:03:12.29,0:03:14.68,Dialogue #2,,0,0,0,,Încercuieşti aceste pietre ca să ataci înamicul.
+Dialogue: 99,0:03:14.68,0:03:17.05,Dialogue #2,,0,0,0,,Aşa este! Ai înţeles!
+Dialogue: 99,0:03:17.05,0:03:19.09,Dialogue #2,,0,0,0,,Aceste chestii numite "Akui" sunt inamicii, nu?
+Dialogue: 99,0:03:19.09,0:03:21.55,Dialogue #2,,0,0,0,,Şi Chimimaru-chan este un spirit, nu?
+Dialogue: 99,0:03:21.55,0:03:24.60,Dialogue #2,,0,0,0,,Un spirit? Acesta este un joc de fantezie?
+Dialogue: 99,0:03:24.60,0:03:27.18,Dialogue #2,,0,0,0,,Ne vom uita mai de aproape la asta data viitoare!
+Dialogue: 99,0:03:27.18,0:03:28.68,Dialogue #2,,0,0,0,,Aşteptaţi episodul următor!
+Dialogue: 99,0:03:28.68,0:03:29.78,Dialogue,,0,0,0,,KakoTama!
 Dialogue: 0,0:00:00.00,0:00:00.02,KazuyaShuuSign,,0,0,0,,{\fnCabin\b1\fs36\c&H525657&\frz10.7\fax-0.1\blur0.7\pos(365,173)\frx4\fry4}Nume
 Dialogue: 0,0:00:00.02,0:00:00.06,KazuyaShuuSign,,0,0,0,,{\fnCabin\b1\fs36\c&H525657&\frz10.7\fax-0.1\blur0.7\pos(364.99,171.61)\frx4\fry4}Nume
 Dialogue: 0,0:00:00.06,0:00:00.10,KazuyaShuuSign,,0,0,0,,{\fnCabin\b1\fs36\c&H525657&\frz10.7\fax-0.1\blur0.7\pos(365,170.26)\frx4\fry4}Nume

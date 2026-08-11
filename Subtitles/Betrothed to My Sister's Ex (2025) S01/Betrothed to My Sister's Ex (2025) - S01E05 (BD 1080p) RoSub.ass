@@ -32,361 +32,361 @@ Comment: 0,0:00:19.00,0:00:19.04,Dialogue,chptr,0,0,0,,{OP}
 Comment: 0,0:01:49.01,0:01:49.05,Dialogue,chptr,0,0,0,,{Episod}
 Comment: 0,0:22:26.99,0:22:27.04,Dialogue,chptr,0,0,0,,{ED}
 Comment: 0,0:23:57.00,0:23:57.04,Dialogue,chptr,0,0,0,,{Data viitoare}
-Dialogue: 100,0:00:00.73,0:00:03.65,Dialogue,Luiphon,0,0,0,ep4 22:06,Eu sunt Luiphon Sandhalkia Diltz,
-Dialogue: 100,0:00:03.65,0:00:06.57,Dialogue,Luiphon,0,0,0,ep4 22:09,al treilea prinț al acestei țări \Nși căpitanul cavalerilor.
-Dialogue: 100,0:00:06.57,0:00:08.74,Dialogue,Luiphon,0,0,0,ep4 22:12,Dar poate mai presus de toate...
-Dialogue: 100,0:00:09.66,0:00:11.87,Dialogue,Luiphon,0,0,0,ep4 22:15,Sunt un prieten drag al lui Kyros!
-Dialogue: 100,0:00:12.12,0:00:14.99,Dialogue,Luiphon,0,0,0,ep4 22:18,Încântat de cunoștință, draga mea Maria!
-Dialogue: 100,0:00:14.99,0:00:18.12,Dialogue,Marie; internal,0,0,0,ep4 22:21,{\i1}D-Deci acesta este prințul.
-Dialogue: 100,0:01:52.30,0:01:55.14,Dialogue,Mio,0,0,0,,{\an8}V-a luat destul de mult să \Najungeți, prințule Luiphon,
-Dialogue: 100,0:01:55.14,0:01:57.51,Dialogue,Mio,0,0,0,,așa că eu și cu domnița \NMaria eram pe cale să plecăm.
-Dialogue: 100,0:01:57.51,0:02:01.94,Dialogue,Luiphon,0,0,0,,Am spus că-mi pare rău, nu-i așa? \NEști așa de rea, dragă Mio.
-Dialogue: 100,0:02:01.94,0:02:03.85,Dialogue,Mio,0,0,0,,Vă rog să nu-mi spuneți „dragă”.
-Dialogue: 100,0:02:03.85,0:02:04.60,Dialogue,Marie,0,0,0,,Mio.
-Dialogue: 100,0:02:04.60,0:02:05.48,Dialogue,Luiphon,0,0,0,,Apropo...
-Dialogue: 100,0:02:05.73,0:02:07.23,Dialogue,Luiphon,0,0,0,,îți este foame?
-Dialogue: 100,0:02:07.23,0:02:10.11,Dialogue,Luiphon,0,0,0,,Ce spui de un bufet extravagant \Nîntr-un salon pentru nobili?
-Dialogue: 100,0:02:10.11,0:02:11.32,Dialogue,Marie,0,0,0,,Pentru nobili...
-Dialogue: 100,0:02:12.74,0:02:15.57,Dialogue,Marie,0,0,0,,N-Nu prea mi-e foame.
-Dialogue: 100,0:02:15.87,0:02:19.74,Dialogue,Luiphon,0,0,0,,Oh, Ilza și Hannah nu mai \Nsunt aici, deci nu-ți face griji.
-Dialogue: 100,0:02:19.74,0:02:23.16,Dialogue,Luiphon,0,0,0,,Îmi cer scuze că le-am recomandat \Nfără să le cunosc personalitățile.
-Dialogue: 100,0:02:23.16,0:02:25.29,Dialogue,Marie,0,0,0,,Nu, nu e asta.
-Dialogue: 100,0:02:25.29,0:02:28.21,Dialogue,Marie,0,0,0,,Când mă gândesc la un loc rafinat precum un salon încep să devin neliniștită.
-Dialogue: 100,0:02:30.17,0:02:33.05,Dialogue,Luiphon,0,0,0,,Atunci, ce spui de competiția de scrimă?
-Dialogue: 100,0:02:33.05,0:02:35.13,Dialogue,Luiphon,0,0,0,,Am locuri rezervate. \NHai să mergem și să privim!
-Dialogue: 100,0:02:35.13,0:02:37.47,Dialogue,Marie,0,0,0,,S-Scrimă?
-Dialogue: 100,0:02:37.47,0:02:38.30,Dialogue,Luiphon,0,0,0,,Exact!
-Dialogue: 100,0:02:38.30,0:02:41.64,Dialogue,Marie,0,0,0,,Păi, ei bine, eu...
-Dialogue: 100,0:02:43.39,0:02:45.90,Dialogue,Mio,0,0,0,,Domniță Maria, nu e nevoie \Nsă vă forțați să acceptați.
-Dialogue: 100,0:02:45.90,0:02:47.94,Dialogue,Mio,0,0,0,,Urâți competițiile, nu-i așa?
-Dialogue: 100,0:02:47.94,0:02:50.02,Dialogue,Luiphon,0,0,0,,Ce?! Dar de ce?
-Dialogue: 100,0:02:50.02,0:02:52.15,Dialogue,Luiphon,0,0,0,,E una dintre cele mai grozave \Ndistracții ale nobililor!
-Dialogue: 100,0:02:52.15,0:02:54.70,Dialogue,Marie,0,0,0,,Da, vă rog, mi-ar plăcea să merg!
-Dialogue: 100,0:02:54.70,0:02:56.78,Dialogue,Luiphon,0,0,0,,Asta e reacția pe care o așteptam!
-Dialogue: 100,0:02:56.78,0:02:59.49,Dialogue,Luiphon,0,0,0,,Eu pot învinge cu o sabie orice cavaler, știi?
-Dialogue: 100,0:02:59.49,0:03:03.87,Dialogue,Luiphon,0,0,0,,Kyros m-a complimentat spunându-mi: „lupta cu sabia e singurul lucru la care ești un geniu”.
-Dialogue: 100,0:03:04.08,0:03:07.67,Dialogue,Marie,0,0,0,,Atunci, și lordul Kyros este puternic?
-Dialogue: 100,0:03:07.67,0:03:09.09,Dialogue,Luiphon,0,0,0,,Așa este!
-Dialogue: 100,0:03:09.79,0:03:13.05,Dialogue,Marie; internal,0,0,0,,{\i1}Ați fost foarte fericit să fiți complimentat de lordul Kyros, nu-i așa?
-Dialogue: 100,0:03:16.34,0:03:21.26,Dialogue,referee,0,0,0,,Vom începe acum semifinalele competiției de scrimă din Regatul Diltz!
-Dialogue: 100,0:03:23.47,0:03:26.02,Dialogue,Luiphon,0,0,0,,Entuziasmul oamenilor e minunat, nu-i așa?
-Dialogue: 100,0:03:26.02,0:03:28.23,Dialogue,Luiphon,0,0,0,,Anul trecut, adormisem \Nîn timpul competiției.
-Dialogue: 100,0:03:28.23,0:03:30.82,Dialogue,Luiphon,0,0,0,,Iar dragul meu Kyros a fost \Nnevoit să mă tot tragă de obraz.
-Dialogue: 100,0:03:31.32,0:03:34.69,Dialogue,Marie,0,0,0,,Prințul Luiphon chiar îl place \Npe Lord Kyros, nu-i așa?
-Dialogue: 100,0:03:34.69,0:03:36.57,Dialogue,Marie,0,0,0,,Mă distrez ascultându-l.
-Dialogue: 100,0:03:36.57,0:03:39.66,Dialogue,Mio,0,0,0,,Ei bine, e plăcut să discuți despre pasiunile tale cu alți oameni.
-Dialogue: 100,0:03:40.70,0:03:41.74,Dialogue,Mio,0,0,0,,Iar acum.
-Dialogue: 100,0:03:42.20,0:03:44.70,Dialogue,Mio,0,0,0,,Eu voi merge să iau ceva de mâncare.
-Dialogue: 100,0:03:44.70,0:03:46.54,Dialogue,Marie,0,0,0,,Ce? Dar abia am mâncat.
-Dialogue: 100,0:03:46.54,0:03:48.58,Dialogue,Mio,0,0,0,,Voiam să vizitez toate tarabele.
-Dialogue: 100,0:03:48.58,0:03:50.92,Dialogue,Luiphon,0,0,0,,Stomacul tău a rămas o gaură \Nneagră pentru mâncare.
-Dialogue: 100,0:03:50.92,0:03:52.34,Dialogue,Luiphon,0,0,0,,Mergi și mănâncă cât dorești.
-Dialogue: 100,0:04:00.18,0:04:03.06,Dialogue,Luiphon,0,0,0,,Luptătorul în armură neagră \Ne un războinic impresionant.
-Dialogue: 100,0:04:03.06,0:04:04.47,Dialogue,Marie,0,0,0,,Înțeleg.
-Dialogue: 100,0:04:05.02,0:04:09.48,Dialogue,Luiphon,0,0,0,,Hei, ești așa și cu Kyros?
-Dialogue: 100,0:04:09.48,0:04:10.52,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:04:11.48,0:04:12.73,Dialogue,Marie,0,0,0,,Păi...
-Dialogue: 100,0:04:12.73,0:04:16.03,Dialogue,Luiphon,0,0,0,,Ei bine, ești destul de diferită \Nfață de celelalte persoane.
-Dialogue: 100,0:04:16.03,0:04:18.15,Dialogue,Luiphon,0,0,0,,Iar eu îl cunosc pe Kyros de mult timp.
-Dialogue: 100,0:04:18.53,0:04:22.03,Dialogue,Marie,0,0,0,,Am auzit că erați în același an la școală.
-Dialogue: 100,0:04:22.03,0:04:25.04,Dialogue,Luiphon,0,0,0,,Da, și prima oară când \Nne-am întâlnit, ne-am bătut!
-Dialogue: 100,0:04:25.04,0:04:26.12,Dialogue,Marie,0,0,0,,Ce?!
-Dialogue: 100,0:04:26.45,0:04:31.79,Dialogue,Luiphon,0,0,0,,Fiind fiul ducelui, era cu \Nun rang sub mine la școală.
-Dialogue: 100,0:04:31.79,0:04:36.38,Dialogue,Luiphon,0,0,0,,Dar mi-a zis: „Nu mai judeca oamenii după rang, prințule prostovan.”
-Dialogue: 100,0:04:36.38,0:04:37.80,Dialogue,Marie,0,0,0,,P-Prostovan?
-Dialogue: 100,0:04:37.80,0:04:42.35,Dialogue,Luiphon,0,0,0,,Iar în capul meu era: „Care e problema lui?”, așa că l-am lovit. Și m-a lovit și el înapoi.
-Dialogue: 100,0:04:42.35,0:04:44.43,Dialogue,Luiphon,0,0,0,,A ieșit o adevărată zarvă.
-Dialogue: 100,0:04:47.31,0:04:49.60,Dialogue,Marie,0,0,0,,Oare chiar e de râs?
-Dialogue: 100,0:04:54.73,0:04:57.07,Dialogue,referee,0,0,0,,Câștigătorul este războinicul negru!
-Dialogue: 100,0:04:57.78,0:05:00.03,Dialogue,Marie,0,0,0,,Oh, s-a terminat deja?
-Dialogue: 100,0:05:00.03,0:05:03.28,Dialogue,Luiphon,0,0,0,,Da. Parând vârful sabiei \Ncavalerului albastru,
-Dialogue: 100,0:05:03.28,0:05:05.70,Dialogue,Luiphon,0,0,0,,războinicul negru a reușit să \Ncâștige cu o singură lovitură.
-Dialogue: 100,0:05:05.70,0:05:07.91,Dialogue,Luiphon,0,0,0,,Dar nu a luptat cu toată puterea.
-Dialogue: 100,0:05:07.91,0:05:10.54,Dialogue,Luiphon,0,0,0,,Și pare să fie îndeajuns de drăguț încât să-i pese de adversarii săi.
-Dialogue: 100,0:05:13.17,0:05:14.63,Dialogue,Luiphon,0,0,0,,Draga mea Maria...
-Dialogue: 100,0:05:15.21,0:05:18.30,Dialogue,Luiphon,0,0,0,,nu găsești fermecător acest lucru?
-Dialogue: 100,0:05:18.30,0:05:21.38,Dialogue,Luiphon,0,0,0,,Majoritatea fetelor strigă de \Nbucurie când văd asta, știi?
-Dialogue: 100,0:05:21.38,0:05:23.01,Dialogue,Marie,0,0,0,,E-Eu...
-Dialogue: 100,0:05:23.43,0:05:26.85,Dialogue,Marie,0,0,0,,Nu consider că a fi puternic \Nîn luptă e ceva minunat.
-Dialogue: 100,0:05:27.14,0:05:30.64,Dialogue,Luiphon,0,0,0,,Nu sunt puterea și încrederea cele mai atractive lucruri la un bărbat?
-Dialogue: 100,0:05:31.19,0:05:33.10,Dialogue,Marie,0,0,0,,Să fiu sinceră, mă înspăimântă.
-Dialogue: 100,0:05:33.10,0:05:36.61,Dialogue,Marie,0,0,0,,Mă simt de parcă, într-o bună zi, \Nacea sabie va fi îndreptată spre mine.
-Dialogue: 100,0:05:36.61,0:05:40.15,Dialogue,Luiphon,0,0,0,,Ce vrea să însemne asta? \NEști așa de negativistă!
-Dialogue: 100,0:05:40.15,0:05:42.45,Dialogue,Marie,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:05:42.74,0:05:48.37,Dialogue,Luiphon,0,0,0,,Hei, domniță Maria Shaderan, \Nde ce ai devenit logodnica lui Kyros?
-Dialogue: 100,0:05:48.75,0:05:50.46,Dialogue,Marie,0,0,0,,P-Pentru că...
-Dialogue: 100,0:05:50.83,0:05:52.62,Dialogue,Marie; internal,0,0,0,,{\i1}Sunt înlocuitoarea surorii mele mai mari.
-Dialogue: 100,0:05:52.62,0:05:54.54,Dialogue,Marie; internal,0,0,0,,{\i1}Da, sunt doar înlocuitoarea ei.
-Dialogue: 100,0:05:54.54,0:05:56.67,Dialogue,referee,0,0,0,,Iar acum, urmează finala!
-Dialogue: 100,0:05:58.13,0:06:00.34,Dialogue,referee,0,0,0,,Războinicul negru împotriva cavalerului verde!
-Dialogue: 100,0:06:01.13,0:06:01.84,Dialogue,referee,0,0,0,,Începeți!
-Dialogue: 100,0:06:12.35,0:06:14.44,Dialogue,referee,0,0,0,,C-Câștigătorul este... războinicul negru!
-Dialogue: 100,0:06:16.61,0:06:18.69,Dialogue,Luiphon,0,0,0,,Ei bine, a fost o înfrângere instantanee.
-Dialogue: 100,0:06:18.98,0:06:22.11,Dialogue,referee,0,0,0,,Felicitări! Acesta este trofeul câștigăto...
-Dialogue: 100,0:06:23.91,0:06:26.62,Dialogue,Marie; internal,0,0,0,,{\i1}E mai îngrijorat pentru adversarul său?
-Dialogue: 100,0:06:26.95,0:06:31.75,Dialogue,Marie,0,0,0,,Dacă el e cel care luptă, atunci cred că m-aș putea bucura de lupte.
-Dialogue: 100,0:06:32.21,0:06:34.21,Dialogue,Mio,0,0,0,,Asta e o veste bună, atunci.
-Dialogue: 100,0:06:35.04,0:06:37.21,Dialogue,Marie,0,0,0,,B-Bine ai revenit.
-Dialogue: 100,0:06:37.84,0:06:39.55,Dialogue,Mio,0,0,0,,Doar ce m-am întors.
-Dialogue: 100,0:06:43.05,0:06:44.55,Dialogue,Marie,0,0,0,,Ai spus că e o veste bună?
-Dialogue: 100,0:06:44.55,0:06:47.26,Dialogue,Mio,0,0,0,,Războinicul negru e stăpânul.
-Dialogue: 100,0:06:47.26,0:06:48.01,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:06:49.31,0:06:50.72,Dialogue,Luiphon,0,0,0,,Pari foarte sigură de asta.
-Dialogue: 100,0:06:51.18,0:06:55.40,Dialogue,Mio,0,0,0,,Stilul de luptă cu sabia și jocul de picioare sunt identice cu ale stăpânului.
-Dialogue: 100,0:06:56.44,0:06:59.69,Dialogue,Marie,0,0,0,,Lordul Kyros... e războinicul negru?
-Dialogue: 100,0:07:01.36,0:07:03.11,Dialogue,Mio,0,0,0,,Oare ar trebui să verificăm?
-Dialogue: 100,0:07:06.24,0:07:09.70,Dialogue,Mio,0,0,0,,Conte Kyros Granado, sunteți uimitor!
-Dialogue: 100,0:07:09.70,0:07:11.79,Dialogue,Mio,0,0,0,,Uitați-vă la mine!
-Dialogue: 100,0:07:13.29,0:07:14.58,Dialogue,crowd,0,0,0,,Kyros?
-Dialogue: 100,0:07:14.58,0:07:15.62,Dialogue,crowd,0,0,0,,Acel conte?
-Dialogue: 100,0:07:15.92,0:07:17.83,Dialogue,crowd,0,0,0,,De la Compania Granado?
-Dialogue: 100,0:07:17.83,0:07:18.84,Dialogue,crowd,0,0,0,,Serios?
-Dialogue: 100,0:07:18.84,0:07:21.00,Dialogue,crowd,0,0,0,,Lord Kyros! Uitați-vă încoace!
-Dialogue: 100,0:07:21.00,0:07:23.09,Dialogue,crowd,0,0,0,,Dați-vă jos coiful!
-Dialogue: 100,0:07:34.10,0:07:38.40,Dialogue,Mio,0,0,0,,Fiecare nobil de sex masculin din Regatul Diltz \Ntrebuie să țină sabia în mână măcar o dată.
-Dialogue: 100,0:07:38.40,0:07:42.86,Dialogue,Mio,0,0,0,,Stăpânul s-a antrenat intens încă\Ndin copilărie pentru autoapărare.
-Dialogue: 100,0:07:42.86,0:07:44.24,Dialogue,Marie,0,0,0,,S-Serios?
-Dialogue: 100,0:07:45.03,0:07:47.95,Dialogue,Luiphon,0,0,0,,Asta a fost cea mai frumoasă expresie facială pe care am văzut-o astăzi. Mersi.
-Dialogue: 100,0:07:47.95,0:07:51.37,Dialogue,Marie; internal,0,0,0,,{\i1}Prințul Luiphon a știut asta \Nde la bun început, nu-i așa?
-Dialogue: 100,0:08:01.96,0:08:04.26,Dialogue,Marie,0,0,0,,S-Scuzați-mă. Pentru ce e această coadă?
-Dialogue: 100,0:08:04.26,0:08:07.72,Dialogue,lady A,0,0,0,,Ce? Asta e coada pentru \Na-l întâlni pe conte, evident.
-Dialogue: 100,0:08:07.72,0:08:08.43,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:08:08.43,0:08:12.26,Dialogue,lady A,0,0,0,,Se pare că logodnica lui a murit într-un accident. Asta e șansa noastră ca să ne apropiem de el!
-Dialogue: 100,0:08:12.56,0:08:19.27,Dialogue,Marie; internal,0,0,0,,{\i1}Desigur. Nimeni n-ar crede că sora mai mică și incompetentă ar putea s-o înlocuiască.
-Dialogue: 100,0:08:19.48,0:08:22.73,Dialogue,lady A,0,0,0,,Chiar dacă are sânge de barbar, \Nel va fi următorul duce.
-Dialogue: 100,0:08:22.73,0:08:27.28,Dialogue,lady B,0,0,0,,Așa este! Oricine va deveni soția lui, va fi văzută drept o adevărată doamnă în societate.
-Dialogue: 100,0:08:27.49,0:08:30.74,Dialogue,lady A,0,0,0,,Am auzit că are o personalitate dificilă, dar e așa de atrăgător.
-Dialogue: 100,0:08:31.82,0:08:32.83,Dialogue,lady B; background,0,0,0,,{\an8}Nu-i așa?
-Dialogue: 100,0:08:31.82,0:08:33.33,Dialogue,Marie; internal,0,0,0,,{\i1}Sânge de barbar?
-Dialogue: 100,0:08:34.04,0:08:35.58,Dialogue,Marie; internal,0,0,0,,{\i1}Personalitate dificilă?
-Dialogue: 100,0:08:36.08,0:08:38.08,Dialogue,Marie; internal,0,0,0,,{\i1}La cine se referă?
-Dialogue: 100,0:08:39.96,0:08:41.08,Dialogue,Mio,0,0,0,,Domniță Maria?
-Dialogue: 100,0:08:43.55,0:08:44.63,Dialogue,Marie,0,0,0,,Vă rog să mă scuzați.
-Dialogue: 100,0:08:44.63,0:08:45.80,Dialogue,lady A,0,0,0,,C-Ce?
-Dialogue: 100,0:08:47.09,0:08:48.26,Dialogue,lady B,0,0,0,,Oprește-te!
-Dialogue: 100,0:08:48.26,0:08:49.97,Dialogue,lady B,0,0,0,,Cine naiba te crezi?
-Dialogue: 100,0:08:49.97,0:08:51.68,Dialogue,lady A,0,0,0,,Așa este! Cine naiba te crezi?
-Dialogue: 100,0:08:51.93,0:08:56.10,Dialogue,Marie,0,0,0,,Eu sunt logodni... \NSunt o apropiată a contelui!
-Dialogue: 100,0:08:56.10,0:08:57.39,Dialogue,Lady A; B,0,0,0,,Ce?
-Dialogue: 100,0:08:57.77,0:09:00.77,Dialogue,Mio,0,0,0,,Domniță Maria, le voi ține eu aici!
-Dialogue: 100,0:09:00.77,0:09:02.15,Dialogue,Marie,0,0,0,,Îți mulțumesc, Mio!
-Dialogue: 100,0:09:02.15,0:09:04.40,Dialogue,ladies,0,0,0,,Dă-te la o parte! Cine naiba te crezi și tu?
-Dialogue: 100,0:09:06.57,0:09:09.24,Dialogue,Marie; internal,0,0,0,,{\i1}Ce a fost aia? Fiecare \Nspunea ce îi trecea prin cap.
-Dialogue: 100,0:09:09.65,0:09:11.99,Dialogue,Marie; internal,0,0,0,,{\i1}Tot ce am făcut eu a fost \Nsă descopăr ceva ce-mi place...
-Dialogue: 100,0:09:11.99,0:09:15.45,Dialogue,Marie; internal,0,0,0,,{\i1}iar el a fost atât de drăguț încât să-mi zâmbească cu atât de multă căldură.
-Dialogue: 100,0:09:15.45,0:09:17.45,Dialogue,Marie; internal,0,0,0,,{\i1}Nu au niciun motiv să-l ridiculizeze astfel!
-Dialogue: 100,0:09:18.71,0:09:20.29,Dialogue,Marie; internal,0,0,0,,{\i1}Și chiar dacă ar avea...
-Dialogue: 100,0:09:21.50,0:09:24.13,Dialogue,Marie; internal,0,0,0,,{\i1}singurul motiv ar fi pentru că \Na ales o cauză pierdută ca mine.
-Dialogue: 100,0:09:25.75,0:09:27.84,Dialogue,Kyros,0,0,0,,Care e obiectivul tău?
-Dialogue: 100,0:09:28.13,0:09:30.72,Dialogue,Kyros,0,0,0,,De ce mi-ai spus să intru \Nîn competiția de scrimă?
-Dialogue: 100,0:09:32.01,0:09:36.31,Dialogue,Luiphon,0,0,0,,Te-ai descurcat grozav! Mulțumită ție, \Na fost un adevărat succes!
-Dialogue: 100,0:09:36.31,0:09:38.52,Dialogue,Kyros,0,0,0,,Zâmbetul tău mă înfurie.
-Dialogue: 100,0:09:38.52,0:09:40.85,Dialogue,Kyros,0,0,0,,Tu ești cel care m-a dat de gol în fața tuturor?
-Dialogue: 100,0:09:42.02,0:09:44.73,Dialogue,Marie,0,0,0,,F-Felicitări pentru victorie!
-Dialogue: 100,0:09:48.11,0:09:50.32,Dialogue,Kyros,0,0,0,,Am început în sfârșit să am halucinații.
-Dialogue: 100,0:09:50.32,0:09:51.70,Dialogue,Marie,0,0,0,,E-Ei bine...
-Dialogue: 100,0:09:51.70,0:09:54.12,Dialogue,Kyros,0,0,0,,Ești adevărata Maria?! În carne și oase?
-Dialogue: 100,0:09:54.12,0:09:57.29,Dialogue,Kyros,0,0,0,,{\an8}Cea care e un adevărat miracol?!
-Dialogue: 100,0:09:55.87,0:09:57.29,Dialogue,Marie,0,0,0,,Lordule Kyros?
-Dialogue: 100,0:09:57.62,0:09:59.70,Dialogue,Luiphon,0,0,0,,Eu am invitat-o.
-Dialogue: 100,0:09:59.70,0:10:00.66,Dialogue,Kyros,0,0,0,,Ce?!
-Dialogue: 100,0:10:00.91,0:10:04.42,Dialogue,Luiphon,0,0,0,,Am vrut să-i arăt cât de \Nextraordinar ești, Kyros.
-Dialogue: 100,0:10:04.42,0:10:08.50,Dialogue,Luiphon,0,0,0,,Dar se pare că nu a \Nfost prea impresionată.
-Dialogue: 100,0:10:09.59,0:10:12.26,Dialogue,Kyros,0,0,0,,Mariei nu-i place brutalitatea.
-Dialogue: 100,0:10:12.26,0:10:14.09,Dialogue,Luiphon,0,0,0,,Și nici chestiile aristocratice.
-Dialogue: 100,0:10:14.09,0:10:17.51,Dialogue,Kyros,0,0,0,,Așa e. Și nu vreau să-i impun valorile altora.
-Dialogue: 100,0:10:17.51,0:10:19.56,Dialogue,Kyros,0,0,0,,Dorințele Mariei sunt singura mea prioritate.
-Dialogue: 100,0:10:19.85,0:10:23.14,Dialogue,Luiphon,0,0,0,,Ei bine, pari extrem de îndrăgostit...
-Dialogue: 100,0:10:23.14,0:10:25.52,Dialogue,Luiphon,0,0,0,,dar asta nu pare s-o bucure.
-Dialogue: 100,0:10:26.98,0:10:31.57,Dialogue,Luiphon,0,0,0,,E doar o înlocuitoare pentru sora ei mai mare într-o căsătorie politică, nu-i așa?
-Dialogue: 100,0:10:32.74,0:10:37.33,Dialogue,Luiphon,0,0,0,,Te-ai fi logodit indiferent cine \Nera partenerul tău, nu-i așa?
-Dialogue: 100,0:10:38.87,0:10:40.08,Dialogue,Marie,0,0,0,,Eu...
-Dialogue: 100,0:10:40.50,0:10:44.08,Dialogue,Marie; internal,0,0,0,,{\i1}E adevărat că atunci când am fost \Ndusă prima oară la Castelul Granado...
-Dialogue: 100,0:10:44.42,0:10:46.83,Dialogue,Marie; internal,0,0,0,,{\i1}nici măcar nu știam cum arăta lordul Kyros.
-Dialogue: 100,0:10:47.34,0:10:48.42,Dialogue,Marie; internal,0,0,0,,{\i1}Dar...
-Dialogue: 100,0:10:49.34,0:10:53.55,Dialogue,Luiphon,0,0,0,,Exact cum credeam, nu simți nimic pentru Kyros, cu atât mai puțin dragoste.
-Dialogue: 100,0:10:53.55,0:10:55.76,Dialogue,Kyros,0,0,0,,Nu te mai lua de ea. \NCe te-a supărat atât de tare?
-Dialogue: 100,0:10:55.76,0:10:59.97,Dialogue,Luiphon,0,0,0,,Când am auzit că urmează să te logodești, am fost foarte fericit.
-Dialogue: 100,0:10:59.97,0:11:05.90,Dialogue,Luiphon,0,0,0,,Dragul meu prieten încăpățânat, care refuzase orice domniță nobilă îi ieșise în cale, și-a găsit, în sfârșit, primăvara.
-Dialogue: 100,0:11:06.77,0:11:08.69,Dialogue,Luiphon,0,0,0,,Dar în cele din urmă...
-Dialogue: 100,0:11:09.61,0:11:11.44,Dialogue,Luiphon,0,0,0,,E doar o căsătorie politică, nu?
-Dialogue: 100,0:11:11.44,0:11:14.95,Dialogue,Luiphon,0,0,0,,Și cu o femeie căreia nu îi \Nplac obiceiurile nobililor
-Dialogue: 100,0:11:14.95,0:11:17.41,Dialogue,Luiphon,0,0,0,,și care nu vede niciun merit \Nîn eforturile tale, Kyros?
-Dialogue: 100,0:11:17.41,0:11:18.58,Dialogue,Luiphon,0,0,0,,E doar pionul părinților ei și...
-Dialogue: 100,0:11:18.91,0:11:22.83,Dialogue,Kyros,0,0,0,,Ce vrea să însemne asta?! Ai chemat-o aici pe Maria doar ca s-o umilești?
-Dialogue: 100,0:11:22.83,0:11:25.54,Dialogue,Luiphon,0,0,0,,Chiar deloc. Doar mă \Namuz de situația ei jalnică.
-Dialogue: 100,0:11:25.79,0:11:29.21,Dialogue,Luiphon,0,0,0,,Lașule. Vechiul tu m-ar fi lovit deja.
-Dialogue: 100,0:11:29.21,0:11:30.80,Dialogue,Kyros,0,0,0,,Maria e aici!
-Dialogue: 100,0:11:30.80,0:11:33.38,Dialogue,Kyros,0,0,0,,Chiar și așa, vechiul eu nu a \Ndat niciodată primul pumn!
-Dialogue: 100,0:11:33.80,0:11:38.26,Dialogue,Luiphon,0,0,0,,Îți este frică de mine. Nu m-ai \Nînvins niciodată într-un duel,
-Dialogue: 100,0:11:38.26,0:11:39.47,Dialogue,Luiphon,0,0,0,,lașule!
-Dialogue: 100,0:11:41.14,0:11:44.27,Dialogue,Kyros,0,0,0,,N-ai observat până acum \Ncă te-am lăsat să câștigi,
-Dialogue: 100,0:11:44.27,0:11:45.56,Dialogue,Kyros,0,0,0,,Alteță?
-Dialogue: 100,0:11:59.45,0:12:04.83,Dialogue,Luiphon,0,0,0,,Mai devreme, arena era plină de aplauze. Acum, haide s-o umplem cu țipete.
-Dialogue: 100,0:12:06.54,0:12:09.83,Dialogue,Kyros,0,0,0,,Ține minte. Te voi face să-ți ceri scuze pentru insultele aduse Mariei.
-Dialogue: 100,0:12:14.51,0:12:15.84,Dialogue,Marie,0,0,0,,Așteptați, vă rog!
-Dialogue: 100,0:12:15.84,0:12:19.72,Dialogue,Marie,0,0,0,,Vă rog să vă împăcați cu prințul Luiphon! Ce a spus acesta e adevărat!
-Dialogue: 100,0:12:19.72,0:12:21.85,Dialogue,Marie,0,0,0,,Nu-i pot învinui pe cei care \Nau spus că m-am vândut.
-Dialogue: 100,0:12:22.43,0:12:26.73,Dialogue,Marie,0,0,0,,Sunt timidă și nătângă, și mereu am făcut ceea ce mi-au spus părinții mei.
-Dialogue: 100,0:12:27.14,0:12:29.10,Dialogue,Marie,0,0,0,,Dar mai presus de toate...
-Dialogue: 100,0:12:29.52,0:12:33.07,Dialogue,Marie,0,0,0,,nu pot suporta ca oamenii să râdă de dumneavoastră din cauza mea!
-Dialogue: 100,0:12:34.61,0:12:38.99,Dialogue,Marie,0,0,0,,Îmi cer scuze, eu... \Ndoar vă cauzez probleme.
-Dialogue: 100,0:12:41.28,0:12:46.83,Dialogue,Kyros,0,0,0,,Mă ridiculiza pentru că iubesc o persoană care nu simte același lucru.
-Dialogue: 100,0:12:48.71,0:12:52.96,Dialogue,Kyros,0,0,0,,Sunt sigur că nu suportă să-și vadă rivalul într-un punct atât de jalnic.
-Dialogue: 100,0:12:53.55,0:12:56.46,Dialogue,Kyros,0,0,0,,În ciuda aparențelor, \Nel e un om pasional.
-Dialogue: 100,0:12:57.42,0:13:02.05,Dialogue,Kyros,0,0,0,,Dar... oricare i-ar fi motivele, asta nu înseamnă că are dreptul să te umilească, Maria.
-Dialogue: 100,0:13:02.05,0:13:05.52,Dialogue,Kyros,0,0,0,,Îl voi înfrunta, îl voi învinge și îl voi face să-și retragă cuvintele!
-Dialogue: 100,0:13:07.14,0:13:10.27,Dialogue,Marie,0,0,0,,Vă mulțumesc că v-ați \Nînfuriat pentru mine.
-Dialogue: 100,0:13:10.27,0:13:14.36,Dialogue,Marie,0,0,0,,Dar este în regulă. Îmi voi \Nrecăpăta onoarea singură!
-Dialogue: 100,0:13:14.77,0:13:16.78,Dialogue,Marie,0,0,0,,Iar în ceea ce-l privește pe prințul Luiphon...
-Dialogue: 100,0:13:18.32,0:13:22.16,Dialogue,Marie,0,0,0,,Aș dori să retragă faptul că \Nv-a numit laș, lordule Kyros.
-Dialogue: 100,0:13:22.16,0:13:23.66,Dialogue,Marie,0,0,0,,Acest lucru m-a înfuriat și pe mine.
-Dialogue: 100,0:13:24.87,0:13:29.04,Dialogue,Kyros,0,0,0,,Foarte bine. Atunci, ca războinic care merge la luptă, doresc să primesc un sărut care să-mi poarte noroc.
-Dialogue: 100,0:13:29.04,0:13:29.79,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:13:30.29,0:13:31.50,Dialogue,Kyros,0,0,0,,A fost doar o glumă.
-Dialogue: 100,0:13:35.42,0:13:37.76,Dialogue,Kyros,0,0,0,,Iar acum, voi merge să-mi \Nînving cel mai bun prieten.
-Dialogue: 100,0:13:38.46,0:13:40.05,Dialogue,Marie,0,0,0,,B-Bine.
-Dialogue: 100,0:13:43.97,0:13:45.05,Dialogue,referee,0,0,0,,Acum...
-Dialogue: 100,0:13:45.05,0:13:48.31,Dialogue,referee,0,0,0,,îi avem pe câștigătorul competiției de scrimă, contele Kyros Granado,
-Dialogue: 100,0:13:48.31,0:13:51.23,Dialogue,referee,0,0,0,,și pe cel de-al treilea prinț al Regatului Diltz, căpitanul cavalerilor,
-Dialogue: 100,0:13:51.23,0:13:55.19,Dialogue,referee,0,0,0,,Altețea Sa, Luiphon Sandhalkia Diltz, \Nîntr-un meci special, demonstrativ!
-Dialogue: 100,0:13:55.19,0:13:56.65,Dialogue,Marie; internal,0,0,0,,{\i1}O puteți face, lordule Kyros.
-Dialogue: 100,0:13:59.49,0:14:02.61,Dialogue,Kyros,0,0,0,,Luiphon, pune-ți coiful. \NAi putea să fii rănit grav.
-Dialogue: 100,0:14:02.61,0:14:03.91,Dialogue,Luiphon,0,0,0,,Și tu, dragul meu Kyros.
-Dialogue: 100,0:14:03.91,0:14:07.91,Dialogue,Luiphon,0,0,0,,Dacă-ți voi turti cumva nasul tău nobil, \Ns-ar putea ca draga de Maria să înceapă să te urască.
-Dialogue: 100,0:14:07.91,0:14:09.04,Dialogue,Luiphon,0,0,0,,Pune-ți coiful.
-Dialogue: 100,0:14:13.50,0:14:14.75,Dialogue,referee,0,0,0,,Î-În acest caz...
-Dialogue: 100,0:14:16.25,0:14:17.30,Dialogue,referee,0,0,0,,Începeți!
-Dialogue: 100,0:14:28.06,0:14:30.73,Dialogue,Luiphon,0,0,0,,Se pare că nu ți-ai pierdut \Ndeloc îndemânarea!
-Dialogue: 100,0:14:32.69,0:14:34.02,Dialogue,Kyros,0,0,0,,Nici tu!
-Dialogue: 100,0:14:39.78,0:14:41.95,Dialogue,Mio,0,0,0,,Par la fel de puternici, dar...
-Dialogue: 100,0:14:43.11,0:14:44.57,Dialogue,Luiphon,0,0,0,,Al meu ești!
-Dialogue: 100,0:14:50.50,0:14:52.16,Dialogue,Marie,0,0,0,,Lordule Kyros, nu-l lăsați să vă învingă!
-Dialogue: 100,0:15:00.67,0:15:03.30,Dialogue,Luiphon,0,0,0,,Ce mișcare interesantă!
-Dialogue: 100,0:15:04.72,0:15:06.59,Dialogue,Marie,0,0,0,,Ce? E permis așa ceva?!
-Dialogue: 100,0:15:06.59,0:15:07.47,Dialogue,Mio,0,0,0,,Evident că nu.
-Dialogue: 100,0:15:25.24,0:15:28.03,Dialogue,referee,0,0,0,,Câștigător este contele Kyros Granado!
-Dialogue: 100,0:15:28.58,0:15:31.95,Dialogue,Marie,0,0,0,,A-Ați reușit! Lordule Kyros!
-Dialogue: 100,0:15:39.00,0:15:41.67,Dialogue,child 1,0,0,0,,Lupta a fost incredibilă! Bănuiesc că merge să te lupți și cu pumnii.
-Dialogue: 100,0:15:41.67,0:15:43.34,Dialogue,child 2,0,0,0,,A fost uimitor!
-Dialogue: 100,0:15:44.55,0:15:45.76,Dialogue,Kyros,0,0,0,,Maria!
-Dialogue: 100,0:15:48.43,0:15:49.76,Dialogue,Kyros,0,0,0,,Vino aici!
-Dialogue: 100,0:15:58.19,0:16:00.73,Dialogue,Marie,0,0,0,,A-Aveți nevoie de ceva de la mine?
-Dialogue: 100,0:16:04.78,0:16:06.82,Dialogue,Marie,0,0,0,,S-Sunt atât de sus!
-Dialogue: 100,0:16:06.82,0:16:08.70,Dialogue,Kyros,0,0,0,,Nu-ți face griji, Maria.
-Dialogue: 100,0:16:08.70,0:16:09.74,Dialogue,Marie,0,0,0,,Lordule Kyros.
-Dialogue: 100,0:16:12.20,0:16:14.66,Dialogue,Kyros,0,0,0,,Vreau să profit de acest moment \Npentru a face un anunț!
-Dialogue: 100,0:16:15.21,0:16:21.29,Dialogue,Kyros,0,0,0,,Eu, Kyros Granado, și cu domnița Maria Shaderan, \Nfiica unui baron, suntem logodiți!
-Dialogue: 100,0:16:21.29,0:16:22.21,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:16:23.92,0:16:28.09,Dialogue,Kyros,0,0,0,,Împreună, domnița Maria și cu mine vom servi acest regat cât putem noi de bine.
-Dialogue: 100,0:16:28.09,0:16:30.09,Dialogue,Kyros,0,0,0,,Jur asta pe numele familiei mele!
-Dialogue: 100,0:16:30.35,0:16:32.68,Dialogue,woman,0,0,0,,Logodiți? Lordul Kyros?
-Dialogue: 100,0:16:32.68,0:16:34.93,Dialogue,man,0,0,0,,Cine e baronul Shaderan?
-Dialogue: 100,0:16:37.56,0:16:38.52,Dialogue,Kyros,0,0,0,,Maria.
-Dialogue: 100,0:16:38.52,0:16:40.98,Dialogue,Kyros,0,0,0,,Cu toții vor să-ți vadă chipul.
-Dialogue: 100,0:16:41.56,0:16:42.94,Dialogue,Marie,0,0,0,,D-Dar...
-Dialogue: 100,0:16:43.48,0:16:47.15,Dialogue,Marie; internal,0,0,0,,{\fad(300,0)\i1}Toată lumea se așteaptă să vadă o persoană la fel de frumoasă precum lordul Kyros.
-Dialogue: 100,0:16:47.15,0:16:50.66,Dialogue,Marie; internal,0,0,0,,{\i1}Cineva ca mine doar \Nl-ar face de rușine.
-Dialogue: 100,0:16:51.45,0:16:52.66,Dialogue,Marie; internal,0,0,0,,{\i1}Sunt așa de speriată.
-Dialogue: 100,0:16:58.29,0:17:02.67,Dialogue,Kyros,0,0,0,,E în regulă. Ești o femeie mult \Nmai minunată decât crezi.
-Dialogue: 100,0:17:03.00,0:17:06.01,Dialogue,Kyros,0,0,0,,Și orice s-ar întâmpla, \Nîți voi fi mereu alături.
-Dialogue: 100,0:17:06.42,0:17:07.67,Dialogue,Kyros,0,0,0,,Ești frumoasă!
-Dialogue: 100,0:17:08.17,0:17:11.47,Dialogue,Marie; internal,0,0,0,,{\i1}Sunt atâtea lucruri \Ncare mă sperie...
-Dialogue: 100,0:17:13.26,0:17:17.68,Dialogue,Marie; internal,0,0,0,,{\i1}dar dacă îmi vei fi alături, \Nsimt că le voi putea înfrunta pe toate.
-Dialogue: 100,0:17:17.68,0:17:19.98,Dialogue,crowd,0,0,0,,V-ați descurcat grozav! Felicitări!
-Dialogue: 100,0:17:19.98,0:17:21.56,Dialogue,crowd,0,0,0,,Cât de frumos!
-Dialogue: 100,0:17:21.56,0:17:25.57,Dialogue,crowd,0,0,0,,Granado! Granado!
-Dialogue: 100,0:17:36.16,0:17:37.04,Dialogue,Marie,0,0,0,,Mă scuzați.
-Dialogue: 100,0:17:38.25,0:17:40.29,Dialogue,stall owner,0,0,0,,Oh, tu ești fata de la prânz!
-Dialogue: 100,0:17:40.29,0:17:43.71,Dialogue,stall owner,0,0,0,,Îmi cer scuze că nu am putut opri farsele groaznice ale prințului.
-Dialogue: 100,0:17:43.71,0:17:46.34,Dialogue,Marie,0,0,0,,E în regulă. Vă rog să nu \Nvă faceți griji. În plus...
-Dialogue: 100,0:17:46.84,0:17:49.38,Dialogue,Marie,0,0,0,,{\an8}Mi-ar plăcea să particip la \Nconcursul de decojit de data asta!
-Dialogue: 100,0:17:49.38,0:17:51.30,Dialogue,stall owner,0,0,0,,{\an8}Chiar ești o persoană ciudată!
-Dialogue: 100,0:17:51.55,0:17:53.05,Dialogue,stall owner,0,0,0,,Poftim.
-Dialogue: 100,0:17:53.05,0:17:55.39,Dialogue,Marie,0,0,0,,Mulțumesc. Abia aștept \Nsă-mi testez îndemânarea.
-Dialogue: 100,0:17:56.51,0:17:57.39,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:17:57.85,0:17:59.06,Dialogue,Kyros,0,0,0,,Sună distractiv.
-Dialogue: 100,0:17:59.06,0:18:00.14,Dialogue,Marie,0,0,0,,Lordule Kyros?
-Dialogue: 100,0:18:00.14,0:18:01.77,Dialogue,Kyros,0,0,0,,Pot să mă alătur și eu?
-Dialogue: 100,0:18:01.77,0:18:03.27,Dialogue,Marie,0,0,0,,D-Da.
-Dialogue: 100,0:18:10.24,0:18:11.74,Dialogue,Marie,0,0,0,,Ești foarte priceput.
-Dialogue: 100,0:18:11.74,0:18:14.16,Dialogue,Kyros,0,0,0,,Uneori, sunt nevoit să campez când lucrez.
-Dialogue: 100,0:18:14.91,0:18:16.78,Dialogue,Marie,0,0,0,,Apropo, cum se simte prințul Luiphon?
-Dialogue: 100,0:18:16.78,0:18:18.41,Dialogue,Luiphon,0,0,0,,Nici că se putea mai bine.
-Dialogue: 100,0:18:22.42,0:18:24.88,Dialogue,Kyros,0,0,0,,E numai vina ta, Luiphon. \NPune mâna și decojește și tu unul.
-Dialogue: 100,0:18:24.88,0:18:26.38,Dialogue,Luiphon,0,0,0,,Ce?! De ce trebuie eu s-o fac și eu?
-Dialogue: 100,0:18:26.67,0:18:27.50,Dialogue,Kyros,0,0,0,,Poftim.
-Dialogue: 100,0:18:28.21,0:18:30.55,Dialogue,Kyros,0,0,0,,Maria, știi vreun truc ca \Nsă decojești mai repede?
-Dialogue: 100,0:18:30.55,0:18:31.47,Dialogue,Marie,0,0,0,,D-Da!
-Dialogue: 100,0:18:31.84,0:18:36.10,Dialogue,Marie,0,0,0,,Mai întâi, îndrepți codița în \Njos și apoi rotești în lateral.
-Dialogue: 100,0:18:37.22,0:18:39.56,Dialogue,Kyros,0,0,0,,Ești foarte pricepută la asta!
-Dialogue: 100,0:18:40.18,0:18:42.98,Dialogue,Marie,0,0,0,,Da, mă pricep destul de bine la decojit.
-Dialogue: 100,0:18:42.98,0:18:46.02,Dialogue,Marie,0,0,0,,La urma urmei, viața mea depindea de cât de multă parte comestibilă reușeam să păstrez.
-Dialogue: 100,0:18:46.02,0:18:50.11,Dialogue,Kyros,0,0,0,,Ești mai puternică decât pari. \NAdor asta la tine!
-Dialogue: 100,0:18:50.11,0:18:51.49,Dialogue,Marie,0,0,0,,Nu chiar.
-Dialogue: 100,0:18:52.45,0:18:54.61,Dialogue,Luiphon,0,0,0,,Femeia nici măcar nu te place.
-Dialogue: 100,0:18:54.61,0:18:57.28,Dialogue,Luiphon,0,0,0,,Chiar e distractiv să fii un \Nbufon care aleargă în cerc?
-Dialogue: 100,0:18:57.28,0:18:59.08,Dialogue,Kyros,0,0,0,,Da, e distractiv.
-Dialogue: 100,0:18:59.91,0:19:03.04,Dialogue,Kyros,0,0,0,,S-o am pe Maria lângă mine face ca fiecare zi să strălucească.
-Dialogue: 100,0:19:03.46,0:19:09.42,Dialogue,Kyros,0,0,0,,Chiar dacă nu mă iubește, când mă gândesc că fiecare zi ne poate apropia,
-Dialogue: 100,0:19:10.17,0:19:12.17,Dialogue,Kyros,0,0,0,,ajung să mă distrez incredibil de mult.
-Dialogue: 100,0:19:13.22,0:19:20.10,Dialogue,Kyros,0,0,0,,Ziua când vom deveni un cuplu căsătorit pe bune ar putea fi la ani sau decenii distanță,
-Dialogue: 100,0:19:20.39,0:19:24.89,Dialogue,Kyros,0,0,0,,dar sunt sigur că mă voi distra iubind-o pe Maria până în ultima mea zi.
-Dialogue: 100,0:19:25.90,0:19:27.40,Dialogue,Marie,0,0,0,,Lordule Kyros.
-Dialogue: 100,0:19:27.65,0:19:30.86,Dialogue,Luiphon,0,0,0,,Să fiu sincer, asta nu te face deloc atractiv, dragul meu Kyros.
-Dialogue: 100,0:19:30.86,0:19:31.99,Dialogue,Kyros,0,0,0,,Știu.
-Dialogue: 100,0:19:32.78,0:19:35.11,Dialogue,Luiphon,0,0,0,,Ei bine, cât timp ești fericit...
-Dialogue: 100,0:19:35.11,0:19:37.24,Dialogue,Luiphon,0,0,0,,ești liber să faci ce dorești.
-Dialogue: 100,0:19:37.49,0:19:38.87,Dialogue,Marie,0,0,0,,S-Scuzați-mă!
-Dialogue: 100,0:19:40.33,0:19:44.00,Dialogue,Marie,0,0,0,,Vreau să aflu mai multe \Ndespre calitățile lordului Kyros!
-Dialogue: 100,0:19:44.00,0:19:44.91,Dialogue,Luiphon,0,0,0,,Ce?
-Dialogue: 100,0:19:44.91,0:19:46.21,Dialogue,Marie,0,0,0,,Deci...
-Dialogue: 100,0:19:46.83,0:19:49.71,Dialogue,Marie,0,0,0,,Sper că-mi veți mai spune povești data viitoare când ne vom revedea!
-Dialogue: 100,0:19:51.21,0:19:53.97,Dialogue,Marie; internal,0,0,0,,{\i1}Acum am înțeles, Alteță.
-Dialogue: 100,0:19:54.42,0:19:58.43,Dialogue,Marie; internal,0,0,0,,{\i1}Doar voiați să vorbiți despre \Ncalitățile celui mai bun prieten.
-Dialogue: 100,0:19:58.43,0:20:00.51,Dialogue,Marie; internal,0,0,0,,{\i1}De asta m-ați invitat aici.
-Dialogue: 100,0:20:03.81,0:20:05.81,Dialogue,Luiphon,0,0,0,,Îmi cer scuze pentru mai devreme.
-Dialogue: 100,0:20:08.19,0:20:10.77,Dialogue,Luiphon,0,0,0,,Ce naiba e asta?! \NE un măr de decor, nu-i așa?
-Dialogue: 100,0:20:11.19,0:20:13.36,Dialogue,Kyros,0,0,0,,Trebuia să-ți dai seama de \Nasta atunci când l-ai atins!
-Dialogue: 100,0:20:13.36,0:20:18.20,Dialogue,Luiphon,0,0,0,,Blestematule! Sunt al treilea prinț și \Ncăpitanul renumiților noștri cavaleri!
-Dialogue: 100,0:20:18.20,0:20:22.20,Dialogue,Luiphon,0,0,0,,Într-o bună zi, vă voi aresta pe amândoi, \Nsoț și soție, pentru insulte aduse familiei regale!
-Dialogue: 100,0:20:23.95,0:20:28.42,Dialogue,Luiphon; background,0,0,0,,{\an8}Sunt așa de furios acum! Voi chiar nu știți ce înseamnă lezmaiestate?
-Dialogue: 100,0:20:25.50,0:20:28.21,Dialogue,Marie,0,0,0,,Prințul Luiphon e o persoană \Namuzantă, nu-i așa?
-Dialogue: 100,0:20:28.21,0:20:30.63,Dialogue,Kyros,0,0,0,,Da. N-ai cum să te plictisești cu el.
-Dialogue: 100,0:20:34.46,0:20:39.68,Dialogue,Mio,0,0,0,,Domnița Maria, eu am un mesaj de transmis stăpânului, deci voi rămâne aici.
-Dialogue: 100,0:20:39.93,0:20:43.39,Dialogue,Mio,0,0,0,,Valetul său, Wolfgang, \Nvă va însoți în locul meu.
-Dialogue: 100,0:20:43.39,0:20:46.31,Dialogue,Wolfgang,0,0,0,,E o plăcere să vă asist, domniță.
-Dialogue: 100,0:20:46.31,0:20:47.31,Dialogue,Marie,0,0,0,,Înțeleg.
-Dialogue: 100,0:20:47.94,0:20:50.27,Dialogue,Kyros,0,0,0,,Îți mulțumesc pentru ziua asta, Maria.
-Dialogue: 100,0:20:50.27,0:20:55.94,Dialogue,Marie,0,0,0,,Nu, eu vă mulțumesc, lord Kyros, că mi-ați permis să vă văd această latură eroică.
-Dialogue: 100,0:20:56.15,0:21:01.07,Dialogue,Kyros,0,0,0,,Adevărul este că nu l-am învins niciodată pe Luiphon într-un duel cu sabia.
-Dialogue: 100,0:21:02.45,0:21:05.25,Dialogue,Marie,0,0,0,,Lordule Kyros, sunteți cu \Nadevărat o persoană puternică.
-Dialogue: 100,0:21:05.58,0:21:08.83,Dialogue,Kyros,0,0,0,,Asta pentru că-mi ești alături, Maria.
-Dialogue: 100,0:21:09.87,0:21:15.09,Dialogue,Kyros,0,0,0,,Orice dorință ai avea, voi face tot posibilul ca să devină realitate.
-Dialogue: 100,0:21:15.63,0:21:18.05,Dialogue,Kyros,0,0,0,,Pentru că persoana care sunt \Nacum ți se datorează ție.
-Dialogue: 100,0:21:19.13,0:21:21.14,Dialogue,Kyros,0,0,0,,Ne vedem la castel, Maria.
-Dialogue: 100,0:21:21.59,0:21:22.64,Dialogue,Marie,0,0,0,,Da.
-Dialogue: 100,0:21:36.32,0:21:37.94,Dialogue,Marie,0,0,0,,Noapte bună!
-Dialogue: 100,0:21:39.40,0:21:41.61,Dialogue,Marie,0,0,0,,Vizitiu, vă rog să porniți!
-Dialogue: 100,0:21:43.41,0:21:46.66,Dialogue,Kyros,0,0,0,,Maria! Așteaptă, tu tocmai m-ai...
-Dialogue: 100,0:21:47.16,0:21:48.37,Dialogue,Kyros,0,0,0,,Așteaptă, te rog!
-Dialogue: 100,0:21:50.54,0:21:52.71,Dialogue,Marie; internal,0,0,0,,{\i1}Peste două luni...
-Dialogue: 100,0:21:52.71,0:21:55.88,Dialogue,Marie; internal,0,0,0,,{\i1}mă voi căsători cu persoana \Npromisă surorii mele.
-Dialogue: 100,0:21:56.50,0:22:01.76,Dialogue,Marie; internal,0,0,0,,{\i1}E o căsătorie politică, dar, într-o bună zi, \Nprecum un cuplu conectat prin iubire,
-Dialogue: 100,0:22:02.18,0:22:04.43,Dialogue,Marie; internal,0,0,0,,{\i1}sper să ne putem găsi fericirea.
-Dialogue: 100,0:22:04.85,0:22:06.39,Dialogue,Marie; internal,0,0,0,,{\i1}Amândoi, împreună.
-Dialogue: 100,0:22:10.85,0:22:13.94,Dialogue,Kyros,0,0,0,,Asta chiar pare să fie o scrisoare trimisă de familia Shaderan.
-Dialogue: 100,0:22:14.27,0:22:16.94,Dialogue,Mio,0,0,0,,Da. Scrisul de mână corespunde.
-Dialogue: 100,0:22:17.32,0:22:18.36,Dialogue,Kyros,0,0,0,,Mio...
-Dialogue: 100,0:22:19.44,0:22:26.28,Dialogue,Kyros,0,0,0,,Oare baronul Shaderan și soția lui sunt cu adevărat părinții biologici ai Mariei?
-Dialogue: 100,0:23:58.42,0:24:01.63,Dialogue,Toppo,0,0,0,,Mâncarea lui Toppo e \Ncea mai bună din lume!
-Dialogue: 100,0:24:01.63,0:24:03.88,Dialogue,Toppo,0,0,0,,E timpul să-mi arăt măiestria și astăzi!
-Dialogue: 100,0:24:04.72,0:24:09.05,Dialogue,Toppo,0,0,0,,Domnița mea se pregătește din greu pentru ceremonia de nuntă.
-Dialogue: 100,0:24:09.47,0:24:13.56,Dialogue,Toppo,0,0,0,,Lăsați dulciurile sublime ale lui Toppo \Nsă vă mângâie trupul și sufletul!
-Dialogue: 100,0:24:14.73,0:24:15.64,Dialogue,Toppo,0,0,0,,Data viitoare:
-Dialogue: 100,0:24:16.02,0:24:18.61,Dialogue,Toppo,0,0,0,,{\an8\i1}Sunt destul de bună așa cum sunt?
-Dialogue: 100,0:24:19.36,0:24:20.77,Dialogue,Toppo,0,0,0,,{\an8}Mai doriți o porție?
-Dialogue: 100,0:24:20.77,0:24:22.40,Dialogue,Toppo,0,0,0,,{\an8}Va fi plăcerea mea!
+Dialogue: 99,0:00:00.73,0:00:03.65,Dialogue,Luiphon,0,0,0,ep4 22:06,Eu sunt Luiphon Sandhalkia Diltz,
+Dialogue: 99,0:00:03.65,0:00:06.57,Dialogue,Luiphon,0,0,0,ep4 22:09,al treilea prinț al acestei țări \Nși căpitanul cavalerilor.
+Dialogue: 99,0:00:06.57,0:00:08.74,Dialogue,Luiphon,0,0,0,ep4 22:12,Dar poate mai presus de toate...
+Dialogue: 99,0:00:09.66,0:00:11.87,Dialogue,Luiphon,0,0,0,ep4 22:15,Sunt un prieten drag al lui Kyros!
+Dialogue: 99,0:00:12.12,0:00:14.99,Dialogue,Luiphon,0,0,0,ep4 22:18,Încântat de cunoștință, draga mea Maria!
+Dialogue: 99,0:00:14.99,0:00:18.12,Dialogue,Marie; internal,0,0,0,ep4 22:21,{\i1}D-Deci acesta este prințul.
+Dialogue: 99,0:01:52.30,0:01:55.14,Dialogue,Mio,0,0,0,,{\an8}V-a luat destul de mult să \Najungeți, prințule Luiphon,
+Dialogue: 99,0:01:55.14,0:01:57.51,Dialogue,Mio,0,0,0,,așa că eu și cu domnița \NMaria eram pe cale să plecăm.
+Dialogue: 99,0:01:57.51,0:02:01.94,Dialogue,Luiphon,0,0,0,,Am spus că-mi pare rău, nu-i așa? \NEști așa de rea, dragă Mio.
+Dialogue: 99,0:02:01.94,0:02:03.85,Dialogue,Mio,0,0,0,,Vă rog să nu-mi spuneți „dragă”.
+Dialogue: 99,0:02:03.85,0:02:04.60,Dialogue,Marie,0,0,0,,Mio.
+Dialogue: 99,0:02:04.60,0:02:05.48,Dialogue,Luiphon,0,0,0,,Apropo...
+Dialogue: 99,0:02:05.73,0:02:07.23,Dialogue,Luiphon,0,0,0,,îți este foame?
+Dialogue: 99,0:02:07.23,0:02:10.11,Dialogue,Luiphon,0,0,0,,Ce spui de un bufet extravagant \Nîntr-un salon pentru nobili?
+Dialogue: 99,0:02:10.11,0:02:11.32,Dialogue,Marie,0,0,0,,Pentru nobili...
+Dialogue: 99,0:02:12.74,0:02:15.57,Dialogue,Marie,0,0,0,,N-Nu prea mi-e foame.
+Dialogue: 99,0:02:15.87,0:02:19.74,Dialogue,Luiphon,0,0,0,,Oh, Ilza și Hannah nu mai \Nsunt aici, deci nu-ți face griji.
+Dialogue: 99,0:02:19.74,0:02:23.16,Dialogue,Luiphon,0,0,0,,Îmi cer scuze că le-am recomandat \Nfără să le cunosc personalitățile.
+Dialogue: 99,0:02:23.16,0:02:25.29,Dialogue,Marie,0,0,0,,Nu, nu e asta.
+Dialogue: 99,0:02:25.29,0:02:28.21,Dialogue,Marie,0,0,0,,Când mă gândesc la un loc rafinat precum un salon încep să devin neliniștită.
+Dialogue: 99,0:02:30.17,0:02:33.05,Dialogue,Luiphon,0,0,0,,Atunci, ce spui de competiția de scrimă?
+Dialogue: 99,0:02:33.05,0:02:35.13,Dialogue,Luiphon,0,0,0,,Am locuri rezervate. \NHai să mergem și să privim!
+Dialogue: 99,0:02:35.13,0:02:37.47,Dialogue,Marie,0,0,0,,S-Scrimă?
+Dialogue: 99,0:02:37.47,0:02:38.30,Dialogue,Luiphon,0,0,0,,Exact!
+Dialogue: 99,0:02:38.30,0:02:41.64,Dialogue,Marie,0,0,0,,Păi, ei bine, eu...
+Dialogue: 99,0:02:43.39,0:02:45.90,Dialogue,Mio,0,0,0,,Domniță Maria, nu e nevoie \Nsă vă forțați să acceptați.
+Dialogue: 99,0:02:45.90,0:02:47.94,Dialogue,Mio,0,0,0,,Urâți competițiile, nu-i așa?
+Dialogue: 99,0:02:47.94,0:02:50.02,Dialogue,Luiphon,0,0,0,,Ce?! Dar de ce?
+Dialogue: 99,0:02:50.02,0:02:52.15,Dialogue,Luiphon,0,0,0,,E una dintre cele mai grozave \Ndistracții ale nobililor!
+Dialogue: 99,0:02:52.15,0:02:54.70,Dialogue,Marie,0,0,0,,Da, vă rog, mi-ar plăcea să merg!
+Dialogue: 99,0:02:54.70,0:02:56.78,Dialogue,Luiphon,0,0,0,,Asta e reacția pe care o așteptam!
+Dialogue: 99,0:02:56.78,0:02:59.49,Dialogue,Luiphon,0,0,0,,Eu pot învinge cu o sabie orice cavaler, știi?
+Dialogue: 99,0:02:59.49,0:03:03.87,Dialogue,Luiphon,0,0,0,,Kyros m-a complimentat spunându-mi: „lupta cu sabia e singurul lucru la care ești un geniu”.
+Dialogue: 99,0:03:04.08,0:03:07.67,Dialogue,Marie,0,0,0,,Atunci, și lordul Kyros este puternic?
+Dialogue: 99,0:03:07.67,0:03:09.09,Dialogue,Luiphon,0,0,0,,Așa este!
+Dialogue: 99,0:03:09.79,0:03:13.05,Dialogue,Marie; internal,0,0,0,,{\i1}Ați fost foarte fericit să fiți complimentat de lordul Kyros, nu-i așa?
+Dialogue: 99,0:03:16.34,0:03:21.26,Dialogue,referee,0,0,0,,Vom începe acum semifinalele competiției de scrimă din Regatul Diltz!
+Dialogue: 99,0:03:23.47,0:03:26.02,Dialogue,Luiphon,0,0,0,,Entuziasmul oamenilor e minunat, nu-i așa?
+Dialogue: 99,0:03:26.02,0:03:28.23,Dialogue,Luiphon,0,0,0,,Anul trecut, adormisem \Nîn timpul competiției.
+Dialogue: 99,0:03:28.23,0:03:30.82,Dialogue,Luiphon,0,0,0,,Iar dragul meu Kyros a fost \Nnevoit să mă tot tragă de obraz.
+Dialogue: 99,0:03:31.32,0:03:34.69,Dialogue,Marie,0,0,0,,Prințul Luiphon chiar îl place \Npe Lord Kyros, nu-i așa?
+Dialogue: 99,0:03:34.69,0:03:36.57,Dialogue,Marie,0,0,0,,Mă distrez ascultându-l.
+Dialogue: 99,0:03:36.57,0:03:39.66,Dialogue,Mio,0,0,0,,Ei bine, e plăcut să discuți despre pasiunile tale cu alți oameni.
+Dialogue: 99,0:03:40.70,0:03:41.74,Dialogue,Mio,0,0,0,,Iar acum.
+Dialogue: 99,0:03:42.20,0:03:44.70,Dialogue,Mio,0,0,0,,Eu voi merge să iau ceva de mâncare.
+Dialogue: 99,0:03:44.70,0:03:46.54,Dialogue,Marie,0,0,0,,Ce? Dar abia am mâncat.
+Dialogue: 99,0:03:46.54,0:03:48.58,Dialogue,Mio,0,0,0,,Voiam să vizitez toate tarabele.
+Dialogue: 99,0:03:48.58,0:03:50.92,Dialogue,Luiphon,0,0,0,,Stomacul tău a rămas o gaură \Nneagră pentru mâncare.
+Dialogue: 99,0:03:50.92,0:03:52.34,Dialogue,Luiphon,0,0,0,,Mergi și mănâncă cât dorești.
+Dialogue: 99,0:04:00.18,0:04:03.06,Dialogue,Luiphon,0,0,0,,Luptătorul în armură neagră \Ne un războinic impresionant.
+Dialogue: 99,0:04:03.06,0:04:04.47,Dialogue,Marie,0,0,0,,Înțeleg.
+Dialogue: 99,0:04:05.02,0:04:09.48,Dialogue,Luiphon,0,0,0,,Hei, ești așa și cu Kyros?
+Dialogue: 99,0:04:09.48,0:04:10.52,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:04:11.48,0:04:12.73,Dialogue,Marie,0,0,0,,Păi...
+Dialogue: 99,0:04:12.73,0:04:16.03,Dialogue,Luiphon,0,0,0,,Ei bine, ești destul de diferită \Nfață de celelalte persoane.
+Dialogue: 99,0:04:16.03,0:04:18.15,Dialogue,Luiphon,0,0,0,,Iar eu îl cunosc pe Kyros de mult timp.
+Dialogue: 99,0:04:18.53,0:04:22.03,Dialogue,Marie,0,0,0,,Am auzit că erați în același an la școală.
+Dialogue: 99,0:04:22.03,0:04:25.04,Dialogue,Luiphon,0,0,0,,Da, și prima oară când \Nne-am întâlnit, ne-am bătut!
+Dialogue: 99,0:04:25.04,0:04:26.12,Dialogue,Marie,0,0,0,,Ce?!
+Dialogue: 99,0:04:26.45,0:04:31.79,Dialogue,Luiphon,0,0,0,,Fiind fiul ducelui, era cu \Nun rang sub mine la școală.
+Dialogue: 99,0:04:31.79,0:04:36.38,Dialogue,Luiphon,0,0,0,,Dar mi-a zis: „Nu mai judeca oamenii după rang, prințule prostovan.”
+Dialogue: 99,0:04:36.38,0:04:37.80,Dialogue,Marie,0,0,0,,P-Prostovan?
+Dialogue: 99,0:04:37.80,0:04:42.35,Dialogue,Luiphon,0,0,0,,Iar în capul meu era: „Care e problema lui?”, așa că l-am lovit. Și m-a lovit și el înapoi.
+Dialogue: 99,0:04:42.35,0:04:44.43,Dialogue,Luiphon,0,0,0,,A ieșit o adevărată zarvă.
+Dialogue: 99,0:04:47.31,0:04:49.60,Dialogue,Marie,0,0,0,,Oare chiar e de râs?
+Dialogue: 99,0:04:54.73,0:04:57.07,Dialogue,referee,0,0,0,,Câștigătorul este războinicul negru!
+Dialogue: 99,0:04:57.78,0:05:00.03,Dialogue,Marie,0,0,0,,Oh, s-a terminat deja?
+Dialogue: 99,0:05:00.03,0:05:03.28,Dialogue,Luiphon,0,0,0,,Da. Parând vârful sabiei \Ncavalerului albastru,
+Dialogue: 99,0:05:03.28,0:05:05.70,Dialogue,Luiphon,0,0,0,,războinicul negru a reușit să \Ncâștige cu o singură lovitură.
+Dialogue: 99,0:05:05.70,0:05:07.91,Dialogue,Luiphon,0,0,0,,Dar nu a luptat cu toată puterea.
+Dialogue: 99,0:05:07.91,0:05:10.54,Dialogue,Luiphon,0,0,0,,Și pare să fie îndeajuns de drăguț încât să-i pese de adversarii săi.
+Dialogue: 99,0:05:13.17,0:05:14.63,Dialogue,Luiphon,0,0,0,,Draga mea Maria...
+Dialogue: 99,0:05:15.21,0:05:18.30,Dialogue,Luiphon,0,0,0,,nu găsești fermecător acest lucru?
+Dialogue: 99,0:05:18.30,0:05:21.38,Dialogue,Luiphon,0,0,0,,Majoritatea fetelor strigă de \Nbucurie când văd asta, știi?
+Dialogue: 99,0:05:21.38,0:05:23.01,Dialogue,Marie,0,0,0,,E-Eu...
+Dialogue: 99,0:05:23.43,0:05:26.85,Dialogue,Marie,0,0,0,,Nu consider că a fi puternic \Nîn luptă e ceva minunat.
+Dialogue: 99,0:05:27.14,0:05:30.64,Dialogue,Luiphon,0,0,0,,Nu sunt puterea și încrederea cele mai atractive lucruri la un bărbat?
+Dialogue: 99,0:05:31.19,0:05:33.10,Dialogue,Marie,0,0,0,,Să fiu sinceră, mă înspăimântă.
+Dialogue: 99,0:05:33.10,0:05:36.61,Dialogue,Marie,0,0,0,,Mă simt de parcă, într-o bună zi, \Nacea sabie va fi îndreptată spre mine.
+Dialogue: 99,0:05:36.61,0:05:40.15,Dialogue,Luiphon,0,0,0,,Ce vrea să însemne asta? \NEști așa de negativistă!
+Dialogue: 99,0:05:40.15,0:05:42.45,Dialogue,Marie,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:05:42.74,0:05:48.37,Dialogue,Luiphon,0,0,0,,Hei, domniță Maria Shaderan, \Nde ce ai devenit logodnica lui Kyros?
+Dialogue: 99,0:05:48.75,0:05:50.46,Dialogue,Marie,0,0,0,,P-Pentru că...
+Dialogue: 99,0:05:50.83,0:05:52.62,Dialogue,Marie; internal,0,0,0,,{\i1}Sunt înlocuitoarea surorii mele mai mari.
+Dialogue: 99,0:05:52.62,0:05:54.54,Dialogue,Marie; internal,0,0,0,,{\i1}Da, sunt doar înlocuitoarea ei.
+Dialogue: 99,0:05:54.54,0:05:56.67,Dialogue,referee,0,0,0,,Iar acum, urmează finala!
+Dialogue: 99,0:05:58.13,0:06:00.34,Dialogue,referee,0,0,0,,Războinicul negru împotriva cavalerului verde!
+Dialogue: 99,0:06:01.13,0:06:01.84,Dialogue,referee,0,0,0,,Începeți!
+Dialogue: 99,0:06:12.35,0:06:14.44,Dialogue,referee,0,0,0,,C-Câștigătorul este... războinicul negru!
+Dialogue: 99,0:06:16.61,0:06:18.69,Dialogue,Luiphon,0,0,0,,Ei bine, a fost o înfrângere instantanee.
+Dialogue: 99,0:06:18.98,0:06:22.11,Dialogue,referee,0,0,0,,Felicitări! Acesta este trofeul câștigăto...
+Dialogue: 99,0:06:23.91,0:06:26.62,Dialogue,Marie; internal,0,0,0,,{\i1}E mai îngrijorat pentru adversarul său?
+Dialogue: 99,0:06:26.95,0:06:31.75,Dialogue,Marie,0,0,0,,Dacă el e cel care luptă, atunci cred că m-aș putea bucura de lupte.
+Dialogue: 99,0:06:32.21,0:06:34.21,Dialogue,Mio,0,0,0,,Asta e o veste bună, atunci.
+Dialogue: 99,0:06:35.04,0:06:37.21,Dialogue,Marie,0,0,0,,B-Bine ai revenit.
+Dialogue: 99,0:06:37.84,0:06:39.55,Dialogue,Mio,0,0,0,,Doar ce m-am întors.
+Dialogue: 99,0:06:43.05,0:06:44.55,Dialogue,Marie,0,0,0,,Ai spus că e o veste bună?
+Dialogue: 99,0:06:44.55,0:06:47.26,Dialogue,Mio,0,0,0,,Războinicul negru e stăpânul.
+Dialogue: 99,0:06:47.26,0:06:48.01,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:06:49.31,0:06:50.72,Dialogue,Luiphon,0,0,0,,Pari foarte sigură de asta.
+Dialogue: 99,0:06:51.18,0:06:55.40,Dialogue,Mio,0,0,0,,Stilul de luptă cu sabia și jocul de picioare sunt identice cu ale stăpânului.
+Dialogue: 99,0:06:56.44,0:06:59.69,Dialogue,Marie,0,0,0,,Lordul Kyros... e războinicul negru?
+Dialogue: 99,0:07:01.36,0:07:03.11,Dialogue,Mio,0,0,0,,Oare ar trebui să verificăm?
+Dialogue: 99,0:07:06.24,0:07:09.70,Dialogue,Mio,0,0,0,,Conte Kyros Granado, sunteți uimitor!
+Dialogue: 99,0:07:09.70,0:07:11.79,Dialogue,Mio,0,0,0,,Uitați-vă la mine!
+Dialogue: 99,0:07:13.29,0:07:14.58,Dialogue,crowd,0,0,0,,Kyros?
+Dialogue: 99,0:07:14.58,0:07:15.62,Dialogue,crowd,0,0,0,,Acel conte?
+Dialogue: 99,0:07:15.92,0:07:17.83,Dialogue,crowd,0,0,0,,De la Compania Granado?
+Dialogue: 99,0:07:17.83,0:07:18.84,Dialogue,crowd,0,0,0,,Serios?
+Dialogue: 99,0:07:18.84,0:07:21.00,Dialogue,crowd,0,0,0,,Lord Kyros! Uitați-vă încoace!
+Dialogue: 99,0:07:21.00,0:07:23.09,Dialogue,crowd,0,0,0,,Dați-vă jos coiful!
+Dialogue: 99,0:07:34.10,0:07:38.40,Dialogue,Mio,0,0,0,,Fiecare nobil de sex masculin din Regatul Diltz \Ntrebuie să țină sabia în mână măcar o dată.
+Dialogue: 99,0:07:38.40,0:07:42.86,Dialogue,Mio,0,0,0,,Stăpânul s-a antrenat intens încă\Ndin copilărie pentru autoapărare.
+Dialogue: 99,0:07:42.86,0:07:44.24,Dialogue,Marie,0,0,0,,S-Serios?
+Dialogue: 99,0:07:45.03,0:07:47.95,Dialogue,Luiphon,0,0,0,,Asta a fost cea mai frumoasă expresie facială pe care am văzut-o astăzi. Mersi.
+Dialogue: 99,0:07:47.95,0:07:51.37,Dialogue,Marie; internal,0,0,0,,{\i1}Prințul Luiphon a știut asta \Nde la bun început, nu-i așa?
+Dialogue: 99,0:08:01.96,0:08:04.26,Dialogue,Marie,0,0,0,,S-Scuzați-mă. Pentru ce e această coadă?
+Dialogue: 99,0:08:04.26,0:08:07.72,Dialogue,lady A,0,0,0,,Ce? Asta e coada pentru \Na-l întâlni pe conte, evident.
+Dialogue: 99,0:08:07.72,0:08:08.43,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:08:08.43,0:08:12.26,Dialogue,lady A,0,0,0,,Se pare că logodnica lui a murit într-un accident. Asta e șansa noastră ca să ne apropiem de el!
+Dialogue: 99,0:08:12.56,0:08:19.27,Dialogue,Marie; internal,0,0,0,,{\i1}Desigur. Nimeni n-ar crede că sora mai mică și incompetentă ar putea s-o înlocuiască.
+Dialogue: 99,0:08:19.48,0:08:22.73,Dialogue,lady A,0,0,0,,Chiar dacă are sânge de barbar, \Nel va fi următorul duce.
+Dialogue: 99,0:08:22.73,0:08:27.28,Dialogue,lady B,0,0,0,,Așa este! Oricine va deveni soția lui, va fi văzută drept o adevărată doamnă în societate.
+Dialogue: 99,0:08:27.49,0:08:30.74,Dialogue,lady A,0,0,0,,Am auzit că are o personalitate dificilă, dar e așa de atrăgător.
+Dialogue: 99,0:08:31.82,0:08:32.83,Dialogue,lady B; background,0,0,0,,{\an8}Nu-i așa?
+Dialogue: 99,0:08:31.82,0:08:33.33,Dialogue,Marie; internal,0,0,0,,{\i1}Sânge de barbar?
+Dialogue: 99,0:08:34.04,0:08:35.58,Dialogue,Marie; internal,0,0,0,,{\i1}Personalitate dificilă?
+Dialogue: 99,0:08:36.08,0:08:38.08,Dialogue,Marie; internal,0,0,0,,{\i1}La cine se referă?
+Dialogue: 99,0:08:39.96,0:08:41.08,Dialogue,Mio,0,0,0,,Domniță Maria?
+Dialogue: 99,0:08:43.55,0:08:44.63,Dialogue,Marie,0,0,0,,Vă rog să mă scuzați.
+Dialogue: 99,0:08:44.63,0:08:45.80,Dialogue,lady A,0,0,0,,C-Ce?
+Dialogue: 99,0:08:47.09,0:08:48.26,Dialogue,lady B,0,0,0,,Oprește-te!
+Dialogue: 99,0:08:48.26,0:08:49.97,Dialogue,lady B,0,0,0,,Cine naiba te crezi?
+Dialogue: 99,0:08:49.97,0:08:51.68,Dialogue,lady A,0,0,0,,Așa este! Cine naiba te crezi?
+Dialogue: 99,0:08:51.93,0:08:56.10,Dialogue,Marie,0,0,0,,Eu sunt logodni... \NSunt o apropiată a contelui!
+Dialogue: 99,0:08:56.10,0:08:57.39,Dialogue,Lady A; B,0,0,0,,Ce?
+Dialogue: 99,0:08:57.77,0:09:00.77,Dialogue,Mio,0,0,0,,Domniță Maria, le voi ține eu aici!
+Dialogue: 99,0:09:00.77,0:09:02.15,Dialogue,Marie,0,0,0,,Îți mulțumesc, Mio!
+Dialogue: 99,0:09:02.15,0:09:04.40,Dialogue,ladies,0,0,0,,Dă-te la o parte! Cine naiba te crezi și tu?
+Dialogue: 99,0:09:06.57,0:09:09.24,Dialogue,Marie; internal,0,0,0,,{\i1}Ce a fost aia? Fiecare \Nspunea ce îi trecea prin cap.
+Dialogue: 99,0:09:09.65,0:09:11.99,Dialogue,Marie; internal,0,0,0,,{\i1}Tot ce am făcut eu a fost \Nsă descopăr ceva ce-mi place...
+Dialogue: 99,0:09:11.99,0:09:15.45,Dialogue,Marie; internal,0,0,0,,{\i1}iar el a fost atât de drăguț încât să-mi zâmbească cu atât de multă căldură.
+Dialogue: 99,0:09:15.45,0:09:17.45,Dialogue,Marie; internal,0,0,0,,{\i1}Nu au niciun motiv să-l ridiculizeze astfel!
+Dialogue: 99,0:09:18.71,0:09:20.29,Dialogue,Marie; internal,0,0,0,,{\i1}Și chiar dacă ar avea...
+Dialogue: 99,0:09:21.50,0:09:24.13,Dialogue,Marie; internal,0,0,0,,{\i1}singurul motiv ar fi pentru că \Na ales o cauză pierdută ca mine.
+Dialogue: 99,0:09:25.75,0:09:27.84,Dialogue,Kyros,0,0,0,,Care e obiectivul tău?
+Dialogue: 99,0:09:28.13,0:09:30.72,Dialogue,Kyros,0,0,0,,De ce mi-ai spus să intru \Nîn competiția de scrimă?
+Dialogue: 99,0:09:32.01,0:09:36.31,Dialogue,Luiphon,0,0,0,,Te-ai descurcat grozav! Mulțumită ție, \Na fost un adevărat succes!
+Dialogue: 99,0:09:36.31,0:09:38.52,Dialogue,Kyros,0,0,0,,Zâmbetul tău mă înfurie.
+Dialogue: 99,0:09:38.52,0:09:40.85,Dialogue,Kyros,0,0,0,,Tu ești cel care m-a dat de gol în fața tuturor?
+Dialogue: 99,0:09:42.02,0:09:44.73,Dialogue,Marie,0,0,0,,F-Felicitări pentru victorie!
+Dialogue: 99,0:09:48.11,0:09:50.32,Dialogue,Kyros,0,0,0,,Am început în sfârșit să am halucinații.
+Dialogue: 99,0:09:50.32,0:09:51.70,Dialogue,Marie,0,0,0,,E-Ei bine...
+Dialogue: 99,0:09:51.70,0:09:54.12,Dialogue,Kyros,0,0,0,,Ești adevărata Maria?! În carne și oase?
+Dialogue: 99,0:09:54.12,0:09:57.29,Dialogue,Kyros,0,0,0,,{\an8}Cea care e un adevărat miracol?!
+Dialogue: 99,0:09:55.87,0:09:57.29,Dialogue,Marie,0,0,0,,Lordule Kyros?
+Dialogue: 99,0:09:57.62,0:09:59.70,Dialogue,Luiphon,0,0,0,,Eu am invitat-o.
+Dialogue: 99,0:09:59.70,0:10:00.66,Dialogue,Kyros,0,0,0,,Ce?!
+Dialogue: 99,0:10:00.91,0:10:04.42,Dialogue,Luiphon,0,0,0,,Am vrut să-i arăt cât de \Nextraordinar ești, Kyros.
+Dialogue: 99,0:10:04.42,0:10:08.50,Dialogue,Luiphon,0,0,0,,Dar se pare că nu a \Nfost prea impresionată.
+Dialogue: 99,0:10:09.59,0:10:12.26,Dialogue,Kyros,0,0,0,,Mariei nu-i place brutalitatea.
+Dialogue: 99,0:10:12.26,0:10:14.09,Dialogue,Luiphon,0,0,0,,Și nici chestiile aristocratice.
+Dialogue: 99,0:10:14.09,0:10:17.51,Dialogue,Kyros,0,0,0,,Așa e. Și nu vreau să-i impun valorile altora.
+Dialogue: 99,0:10:17.51,0:10:19.56,Dialogue,Kyros,0,0,0,,Dorințele Mariei sunt singura mea prioritate.
+Dialogue: 99,0:10:19.85,0:10:23.14,Dialogue,Luiphon,0,0,0,,Ei bine, pari extrem de îndrăgostit...
+Dialogue: 99,0:10:23.14,0:10:25.52,Dialogue,Luiphon,0,0,0,,dar asta nu pare s-o bucure.
+Dialogue: 99,0:10:26.98,0:10:31.57,Dialogue,Luiphon,0,0,0,,E doar o înlocuitoare pentru sora ei mai mare într-o căsătorie politică, nu-i așa?
+Dialogue: 99,0:10:32.74,0:10:37.33,Dialogue,Luiphon,0,0,0,,Te-ai fi logodit indiferent cine \Nera partenerul tău, nu-i așa?
+Dialogue: 99,0:10:38.87,0:10:40.08,Dialogue,Marie,0,0,0,,Eu...
+Dialogue: 99,0:10:40.50,0:10:44.08,Dialogue,Marie; internal,0,0,0,,{\i1}E adevărat că atunci când am fost \Ndusă prima oară la Castelul Granado...
+Dialogue: 99,0:10:44.42,0:10:46.83,Dialogue,Marie; internal,0,0,0,,{\i1}nici măcar nu știam cum arăta lordul Kyros.
+Dialogue: 99,0:10:47.34,0:10:48.42,Dialogue,Marie; internal,0,0,0,,{\i1}Dar...
+Dialogue: 99,0:10:49.34,0:10:53.55,Dialogue,Luiphon,0,0,0,,Exact cum credeam, nu simți nimic pentru Kyros, cu atât mai puțin dragoste.
+Dialogue: 99,0:10:53.55,0:10:55.76,Dialogue,Kyros,0,0,0,,Nu te mai lua de ea. \NCe te-a supărat atât de tare?
+Dialogue: 99,0:10:55.76,0:10:59.97,Dialogue,Luiphon,0,0,0,,Când am auzit că urmează să te logodești, am fost foarte fericit.
+Dialogue: 99,0:10:59.97,0:11:05.90,Dialogue,Luiphon,0,0,0,,Dragul meu prieten încăpățânat, care refuzase orice domniță nobilă îi ieșise în cale, și-a găsit, în sfârșit, primăvara.
+Dialogue: 99,0:11:06.77,0:11:08.69,Dialogue,Luiphon,0,0,0,,Dar în cele din urmă...
+Dialogue: 99,0:11:09.61,0:11:11.44,Dialogue,Luiphon,0,0,0,,E doar o căsătorie politică, nu?
+Dialogue: 99,0:11:11.44,0:11:14.95,Dialogue,Luiphon,0,0,0,,Și cu o femeie căreia nu îi \Nplac obiceiurile nobililor
+Dialogue: 99,0:11:14.95,0:11:17.41,Dialogue,Luiphon,0,0,0,,și care nu vede niciun merit \Nîn eforturile tale, Kyros?
+Dialogue: 99,0:11:17.41,0:11:18.58,Dialogue,Luiphon,0,0,0,,E doar pionul părinților ei și...
+Dialogue: 99,0:11:18.91,0:11:22.83,Dialogue,Kyros,0,0,0,,Ce vrea să însemne asta?! Ai chemat-o aici pe Maria doar ca s-o umilești?
+Dialogue: 99,0:11:22.83,0:11:25.54,Dialogue,Luiphon,0,0,0,,Chiar deloc. Doar mă \Namuz de situația ei jalnică.
+Dialogue: 99,0:11:25.79,0:11:29.21,Dialogue,Luiphon,0,0,0,,Lașule. Vechiul tu m-ar fi lovit deja.
+Dialogue: 99,0:11:29.21,0:11:30.80,Dialogue,Kyros,0,0,0,,Maria e aici!
+Dialogue: 99,0:11:30.80,0:11:33.38,Dialogue,Kyros,0,0,0,,Chiar și așa, vechiul eu nu a \Ndat niciodată primul pumn!
+Dialogue: 99,0:11:33.80,0:11:38.26,Dialogue,Luiphon,0,0,0,,Îți este frică de mine. Nu m-ai \Nînvins niciodată într-un duel,
+Dialogue: 99,0:11:38.26,0:11:39.47,Dialogue,Luiphon,0,0,0,,lașule!
+Dialogue: 99,0:11:41.14,0:11:44.27,Dialogue,Kyros,0,0,0,,N-ai observat până acum \Ncă te-am lăsat să câștigi,
+Dialogue: 99,0:11:44.27,0:11:45.56,Dialogue,Kyros,0,0,0,,Alteță?
+Dialogue: 99,0:11:59.45,0:12:04.83,Dialogue,Luiphon,0,0,0,,Mai devreme, arena era plină de aplauze. Acum, haide s-o umplem cu țipete.
+Dialogue: 99,0:12:06.54,0:12:09.83,Dialogue,Kyros,0,0,0,,Ține minte. Te voi face să-ți ceri scuze pentru insultele aduse Mariei.
+Dialogue: 99,0:12:14.51,0:12:15.84,Dialogue,Marie,0,0,0,,Așteptați, vă rog!
+Dialogue: 99,0:12:15.84,0:12:19.72,Dialogue,Marie,0,0,0,,Vă rog să vă împăcați cu prințul Luiphon! Ce a spus acesta e adevărat!
+Dialogue: 99,0:12:19.72,0:12:21.85,Dialogue,Marie,0,0,0,,Nu-i pot învinui pe cei care \Nau spus că m-am vândut.
+Dialogue: 99,0:12:22.43,0:12:26.73,Dialogue,Marie,0,0,0,,Sunt timidă și nătângă, și mereu am făcut ceea ce mi-au spus părinții mei.
+Dialogue: 99,0:12:27.14,0:12:29.10,Dialogue,Marie,0,0,0,,Dar mai presus de toate...
+Dialogue: 99,0:12:29.52,0:12:33.07,Dialogue,Marie,0,0,0,,nu pot suporta ca oamenii să râdă de dumneavoastră din cauza mea!
+Dialogue: 99,0:12:34.61,0:12:38.99,Dialogue,Marie,0,0,0,,Îmi cer scuze, eu... \Ndoar vă cauzez probleme.
+Dialogue: 99,0:12:41.28,0:12:46.83,Dialogue,Kyros,0,0,0,,Mă ridiculiza pentru că iubesc o persoană care nu simte același lucru.
+Dialogue: 99,0:12:48.71,0:12:52.96,Dialogue,Kyros,0,0,0,,Sunt sigur că nu suportă să-și vadă rivalul într-un punct atât de jalnic.
+Dialogue: 99,0:12:53.55,0:12:56.46,Dialogue,Kyros,0,0,0,,În ciuda aparențelor, \Nel e un om pasional.
+Dialogue: 99,0:12:57.42,0:13:02.05,Dialogue,Kyros,0,0,0,,Dar... oricare i-ar fi motivele, asta nu înseamnă că are dreptul să te umilească, Maria.
+Dialogue: 99,0:13:02.05,0:13:05.52,Dialogue,Kyros,0,0,0,,Îl voi înfrunta, îl voi învinge și îl voi face să-și retragă cuvintele!
+Dialogue: 99,0:13:07.14,0:13:10.27,Dialogue,Marie,0,0,0,,Vă mulțumesc că v-ați \Nînfuriat pentru mine.
+Dialogue: 99,0:13:10.27,0:13:14.36,Dialogue,Marie,0,0,0,,Dar este în regulă. Îmi voi \Nrecăpăta onoarea singură!
+Dialogue: 99,0:13:14.77,0:13:16.78,Dialogue,Marie,0,0,0,,Iar în ceea ce-l privește pe prințul Luiphon...
+Dialogue: 99,0:13:18.32,0:13:22.16,Dialogue,Marie,0,0,0,,Aș dori să retragă faptul că \Nv-a numit laș, lordule Kyros.
+Dialogue: 99,0:13:22.16,0:13:23.66,Dialogue,Marie,0,0,0,,Acest lucru m-a înfuriat și pe mine.
+Dialogue: 99,0:13:24.87,0:13:29.04,Dialogue,Kyros,0,0,0,,Foarte bine. Atunci, ca războinic care merge la luptă, doresc să primesc un sărut care să-mi poarte noroc.
+Dialogue: 99,0:13:29.04,0:13:29.79,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:13:30.29,0:13:31.50,Dialogue,Kyros,0,0,0,,A fost doar o glumă.
+Dialogue: 99,0:13:35.42,0:13:37.76,Dialogue,Kyros,0,0,0,,Iar acum, voi merge să-mi \Nînving cel mai bun prieten.
+Dialogue: 99,0:13:38.46,0:13:40.05,Dialogue,Marie,0,0,0,,B-Bine.
+Dialogue: 99,0:13:43.97,0:13:45.05,Dialogue,referee,0,0,0,,Acum...
+Dialogue: 99,0:13:45.05,0:13:48.31,Dialogue,referee,0,0,0,,îi avem pe câștigătorul competiției de scrimă, contele Kyros Granado,
+Dialogue: 99,0:13:48.31,0:13:51.23,Dialogue,referee,0,0,0,,și pe cel de-al treilea prinț al Regatului Diltz, căpitanul cavalerilor,
+Dialogue: 99,0:13:51.23,0:13:55.19,Dialogue,referee,0,0,0,,Altețea Sa, Luiphon Sandhalkia Diltz, \Nîntr-un meci special, demonstrativ!
+Dialogue: 99,0:13:55.19,0:13:56.65,Dialogue,Marie; internal,0,0,0,,{\i1}O puteți face, lordule Kyros.
+Dialogue: 99,0:13:59.49,0:14:02.61,Dialogue,Kyros,0,0,0,,Luiphon, pune-ți coiful. \NAi putea să fii rănit grav.
+Dialogue: 99,0:14:02.61,0:14:03.91,Dialogue,Luiphon,0,0,0,,Și tu, dragul meu Kyros.
+Dialogue: 99,0:14:03.91,0:14:07.91,Dialogue,Luiphon,0,0,0,,Dacă-ți voi turti cumva nasul tău nobil, \Ns-ar putea ca draga de Maria să înceapă să te urască.
+Dialogue: 99,0:14:07.91,0:14:09.04,Dialogue,Luiphon,0,0,0,,Pune-ți coiful.
+Dialogue: 99,0:14:13.50,0:14:14.75,Dialogue,referee,0,0,0,,Î-În acest caz...
+Dialogue: 99,0:14:16.25,0:14:17.30,Dialogue,referee,0,0,0,,Începeți!
+Dialogue: 99,0:14:28.06,0:14:30.73,Dialogue,Luiphon,0,0,0,,Se pare că nu ți-ai pierdut \Ndeloc îndemânarea!
+Dialogue: 99,0:14:32.69,0:14:34.02,Dialogue,Kyros,0,0,0,,Nici tu!
+Dialogue: 99,0:14:39.78,0:14:41.95,Dialogue,Mio,0,0,0,,Par la fel de puternici, dar...
+Dialogue: 99,0:14:43.11,0:14:44.57,Dialogue,Luiphon,0,0,0,,Al meu ești!
+Dialogue: 99,0:14:50.50,0:14:52.16,Dialogue,Marie,0,0,0,,Lordule Kyros, nu-l lăsați să vă învingă!
+Dialogue: 99,0:15:00.67,0:15:03.30,Dialogue,Luiphon,0,0,0,,Ce mișcare interesantă!
+Dialogue: 99,0:15:04.72,0:15:06.59,Dialogue,Marie,0,0,0,,Ce? E permis așa ceva?!
+Dialogue: 99,0:15:06.59,0:15:07.47,Dialogue,Mio,0,0,0,,Evident că nu.
+Dialogue: 99,0:15:25.24,0:15:28.03,Dialogue,referee,0,0,0,,Câștigător este contele Kyros Granado!
+Dialogue: 99,0:15:28.58,0:15:31.95,Dialogue,Marie,0,0,0,,A-Ați reușit! Lordule Kyros!
+Dialogue: 99,0:15:39.00,0:15:41.67,Dialogue,child 1,0,0,0,,Lupta a fost incredibilă! Bănuiesc că merge să te lupți și cu pumnii.
+Dialogue: 99,0:15:41.67,0:15:43.34,Dialogue,child 2,0,0,0,,A fost uimitor!
+Dialogue: 99,0:15:44.55,0:15:45.76,Dialogue,Kyros,0,0,0,,Maria!
+Dialogue: 99,0:15:48.43,0:15:49.76,Dialogue,Kyros,0,0,0,,Vino aici!
+Dialogue: 99,0:15:58.19,0:16:00.73,Dialogue,Marie,0,0,0,,A-Aveți nevoie de ceva de la mine?
+Dialogue: 99,0:16:04.78,0:16:06.82,Dialogue,Marie,0,0,0,,S-Sunt atât de sus!
+Dialogue: 99,0:16:06.82,0:16:08.70,Dialogue,Kyros,0,0,0,,Nu-ți face griji, Maria.
+Dialogue: 99,0:16:08.70,0:16:09.74,Dialogue,Marie,0,0,0,,Lordule Kyros.
+Dialogue: 99,0:16:12.20,0:16:14.66,Dialogue,Kyros,0,0,0,,Vreau să profit de acest moment \Npentru a face un anunț!
+Dialogue: 99,0:16:15.21,0:16:21.29,Dialogue,Kyros,0,0,0,,Eu, Kyros Granado, și cu domnița Maria Shaderan, \Nfiica unui baron, suntem logodiți!
+Dialogue: 99,0:16:21.29,0:16:22.21,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:16:23.92,0:16:28.09,Dialogue,Kyros,0,0,0,,Împreună, domnița Maria și cu mine vom servi acest regat cât putem noi de bine.
+Dialogue: 99,0:16:28.09,0:16:30.09,Dialogue,Kyros,0,0,0,,Jur asta pe numele familiei mele!
+Dialogue: 99,0:16:30.35,0:16:32.68,Dialogue,woman,0,0,0,,Logodiți? Lordul Kyros?
+Dialogue: 99,0:16:32.68,0:16:34.93,Dialogue,man,0,0,0,,Cine e baronul Shaderan?
+Dialogue: 99,0:16:37.56,0:16:38.52,Dialogue,Kyros,0,0,0,,Maria.
+Dialogue: 99,0:16:38.52,0:16:40.98,Dialogue,Kyros,0,0,0,,Cu toții vor să-ți vadă chipul.
+Dialogue: 99,0:16:41.56,0:16:42.94,Dialogue,Marie,0,0,0,,D-Dar...
+Dialogue: 99,0:16:43.48,0:16:47.15,Dialogue,Marie; internal,0,0,0,,{\fad(300,0)\i1}Toată lumea se așteaptă să vadă o persoană la fel de frumoasă precum lordul Kyros.
+Dialogue: 99,0:16:47.15,0:16:50.66,Dialogue,Marie; internal,0,0,0,,{\i1}Cineva ca mine doar \Nl-ar face de rușine.
+Dialogue: 99,0:16:51.45,0:16:52.66,Dialogue,Marie; internal,0,0,0,,{\i1}Sunt așa de speriată.
+Dialogue: 99,0:16:58.29,0:17:02.67,Dialogue,Kyros,0,0,0,,E în regulă. Ești o femeie mult \Nmai minunată decât crezi.
+Dialogue: 99,0:17:03.00,0:17:06.01,Dialogue,Kyros,0,0,0,,Și orice s-ar întâmpla, \Nîți voi fi mereu alături.
+Dialogue: 99,0:17:06.42,0:17:07.67,Dialogue,Kyros,0,0,0,,Ești frumoasă!
+Dialogue: 99,0:17:08.17,0:17:11.47,Dialogue,Marie; internal,0,0,0,,{\i1}Sunt atâtea lucruri \Ncare mă sperie...
+Dialogue: 99,0:17:13.26,0:17:17.68,Dialogue,Marie; internal,0,0,0,,{\i1}dar dacă îmi vei fi alături, \Nsimt că le voi putea înfrunta pe toate.
+Dialogue: 99,0:17:17.68,0:17:19.98,Dialogue,crowd,0,0,0,,V-ați descurcat grozav! Felicitări!
+Dialogue: 99,0:17:19.98,0:17:21.56,Dialogue,crowd,0,0,0,,Cât de frumos!
+Dialogue: 99,0:17:21.56,0:17:25.57,Dialogue,crowd,0,0,0,,Granado! Granado!
+Dialogue: 99,0:17:36.16,0:17:37.04,Dialogue,Marie,0,0,0,,Mă scuzați.
+Dialogue: 99,0:17:38.25,0:17:40.29,Dialogue,stall owner,0,0,0,,Oh, tu ești fata de la prânz!
+Dialogue: 99,0:17:40.29,0:17:43.71,Dialogue,stall owner,0,0,0,,Îmi cer scuze că nu am putut opri farsele groaznice ale prințului.
+Dialogue: 99,0:17:43.71,0:17:46.34,Dialogue,Marie,0,0,0,,E în regulă. Vă rog să nu \Nvă faceți griji. În plus...
+Dialogue: 99,0:17:46.84,0:17:49.38,Dialogue,Marie,0,0,0,,{\an8}Mi-ar plăcea să particip la \Nconcursul de decojit de data asta!
+Dialogue: 99,0:17:49.38,0:17:51.30,Dialogue,stall owner,0,0,0,,{\an8}Chiar ești o persoană ciudată!
+Dialogue: 99,0:17:51.55,0:17:53.05,Dialogue,stall owner,0,0,0,,Poftim.
+Dialogue: 99,0:17:53.05,0:17:55.39,Dialogue,Marie,0,0,0,,Mulțumesc. Abia aștept \Nsă-mi testez îndemânarea.
+Dialogue: 99,0:17:56.51,0:17:57.39,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:17:57.85,0:17:59.06,Dialogue,Kyros,0,0,0,,Sună distractiv.
+Dialogue: 99,0:17:59.06,0:18:00.14,Dialogue,Marie,0,0,0,,Lordule Kyros?
+Dialogue: 99,0:18:00.14,0:18:01.77,Dialogue,Kyros,0,0,0,,Pot să mă alătur și eu?
+Dialogue: 99,0:18:01.77,0:18:03.27,Dialogue,Marie,0,0,0,,D-Da.
+Dialogue: 99,0:18:10.24,0:18:11.74,Dialogue,Marie,0,0,0,,Ești foarte priceput.
+Dialogue: 99,0:18:11.74,0:18:14.16,Dialogue,Kyros,0,0,0,,Uneori, sunt nevoit să campez când lucrez.
+Dialogue: 99,0:18:14.91,0:18:16.78,Dialogue,Marie,0,0,0,,Apropo, cum se simte prințul Luiphon?
+Dialogue: 99,0:18:16.78,0:18:18.41,Dialogue,Luiphon,0,0,0,,Nici că se putea mai bine.
+Dialogue: 99,0:18:22.42,0:18:24.88,Dialogue,Kyros,0,0,0,,E numai vina ta, Luiphon. \NPune mâna și decojește și tu unul.
+Dialogue: 99,0:18:24.88,0:18:26.38,Dialogue,Luiphon,0,0,0,,Ce?! De ce trebuie eu s-o fac și eu?
+Dialogue: 99,0:18:26.67,0:18:27.50,Dialogue,Kyros,0,0,0,,Poftim.
+Dialogue: 99,0:18:28.21,0:18:30.55,Dialogue,Kyros,0,0,0,,Maria, știi vreun truc ca \Nsă decojești mai repede?
+Dialogue: 99,0:18:30.55,0:18:31.47,Dialogue,Marie,0,0,0,,D-Da!
+Dialogue: 99,0:18:31.84,0:18:36.10,Dialogue,Marie,0,0,0,,Mai întâi, îndrepți codița în \Njos și apoi rotești în lateral.
+Dialogue: 99,0:18:37.22,0:18:39.56,Dialogue,Kyros,0,0,0,,Ești foarte pricepută la asta!
+Dialogue: 99,0:18:40.18,0:18:42.98,Dialogue,Marie,0,0,0,,Da, mă pricep destul de bine la decojit.
+Dialogue: 99,0:18:42.98,0:18:46.02,Dialogue,Marie,0,0,0,,La urma urmei, viața mea depindea de cât de multă parte comestibilă reușeam să păstrez.
+Dialogue: 99,0:18:46.02,0:18:50.11,Dialogue,Kyros,0,0,0,,Ești mai puternică decât pari. \NAdor asta la tine!
+Dialogue: 99,0:18:50.11,0:18:51.49,Dialogue,Marie,0,0,0,,Nu chiar.
+Dialogue: 99,0:18:52.45,0:18:54.61,Dialogue,Luiphon,0,0,0,,Femeia nici măcar nu te place.
+Dialogue: 99,0:18:54.61,0:18:57.28,Dialogue,Luiphon,0,0,0,,Chiar e distractiv să fii un \Nbufon care aleargă în cerc?
+Dialogue: 99,0:18:57.28,0:18:59.08,Dialogue,Kyros,0,0,0,,Da, e distractiv.
+Dialogue: 99,0:18:59.91,0:19:03.04,Dialogue,Kyros,0,0,0,,S-o am pe Maria lângă mine face ca fiecare zi să strălucească.
+Dialogue: 99,0:19:03.46,0:19:09.42,Dialogue,Kyros,0,0,0,,Chiar dacă nu mă iubește, când mă gândesc că fiecare zi ne poate apropia,
+Dialogue: 99,0:19:10.17,0:19:12.17,Dialogue,Kyros,0,0,0,,ajung să mă distrez incredibil de mult.
+Dialogue: 99,0:19:13.22,0:19:20.10,Dialogue,Kyros,0,0,0,,Ziua când vom deveni un cuplu căsătorit pe bune ar putea fi la ani sau decenii distanță,
+Dialogue: 99,0:19:20.39,0:19:24.89,Dialogue,Kyros,0,0,0,,dar sunt sigur că mă voi distra iubind-o pe Maria până în ultima mea zi.
+Dialogue: 99,0:19:25.90,0:19:27.40,Dialogue,Marie,0,0,0,,Lordule Kyros.
+Dialogue: 99,0:19:27.65,0:19:30.86,Dialogue,Luiphon,0,0,0,,Să fiu sincer, asta nu te face deloc atractiv, dragul meu Kyros.
+Dialogue: 99,0:19:30.86,0:19:31.99,Dialogue,Kyros,0,0,0,,Știu.
+Dialogue: 99,0:19:32.78,0:19:35.11,Dialogue,Luiphon,0,0,0,,Ei bine, cât timp ești fericit...
+Dialogue: 99,0:19:35.11,0:19:37.24,Dialogue,Luiphon,0,0,0,,ești liber să faci ce dorești.
+Dialogue: 99,0:19:37.49,0:19:38.87,Dialogue,Marie,0,0,0,,S-Scuzați-mă!
+Dialogue: 99,0:19:40.33,0:19:44.00,Dialogue,Marie,0,0,0,,Vreau să aflu mai multe \Ndespre calitățile lordului Kyros!
+Dialogue: 99,0:19:44.00,0:19:44.91,Dialogue,Luiphon,0,0,0,,Ce?
+Dialogue: 99,0:19:44.91,0:19:46.21,Dialogue,Marie,0,0,0,,Deci...
+Dialogue: 99,0:19:46.83,0:19:49.71,Dialogue,Marie,0,0,0,,Sper că-mi veți mai spune povești data viitoare când ne vom revedea!
+Dialogue: 99,0:19:51.21,0:19:53.97,Dialogue,Marie; internal,0,0,0,,{\i1}Acum am înțeles, Alteță.
+Dialogue: 99,0:19:54.42,0:19:58.43,Dialogue,Marie; internal,0,0,0,,{\i1}Doar voiați să vorbiți despre \Ncalitățile celui mai bun prieten.
+Dialogue: 99,0:19:58.43,0:20:00.51,Dialogue,Marie; internal,0,0,0,,{\i1}De asta m-ați invitat aici.
+Dialogue: 99,0:20:03.81,0:20:05.81,Dialogue,Luiphon,0,0,0,,Îmi cer scuze pentru mai devreme.
+Dialogue: 99,0:20:08.19,0:20:10.77,Dialogue,Luiphon,0,0,0,,Ce naiba e asta?! \NE un măr de decor, nu-i așa?
+Dialogue: 99,0:20:11.19,0:20:13.36,Dialogue,Kyros,0,0,0,,Trebuia să-ți dai seama de \Nasta atunci când l-ai atins!
+Dialogue: 99,0:20:13.36,0:20:18.20,Dialogue,Luiphon,0,0,0,,Blestematule! Sunt al treilea prinț și \Ncăpitanul renumiților noștri cavaleri!
+Dialogue: 99,0:20:18.20,0:20:22.20,Dialogue,Luiphon,0,0,0,,Într-o bună zi, vă voi aresta pe amândoi, \Nsoț și soție, pentru insulte aduse familiei regale!
+Dialogue: 99,0:20:23.95,0:20:28.42,Dialogue,Luiphon; background,0,0,0,,{\an8}Sunt așa de furios acum! Voi chiar nu știți ce înseamnă lezmaiestate?
+Dialogue: 99,0:20:25.50,0:20:28.21,Dialogue,Marie,0,0,0,,Prințul Luiphon e o persoană \Namuzantă, nu-i așa?
+Dialogue: 99,0:20:28.21,0:20:30.63,Dialogue,Kyros,0,0,0,,Da. N-ai cum să te plictisești cu el.
+Dialogue: 99,0:20:34.46,0:20:39.68,Dialogue,Mio,0,0,0,,Domnița Maria, eu am un mesaj de transmis stăpânului, deci voi rămâne aici.
+Dialogue: 99,0:20:39.93,0:20:43.39,Dialogue,Mio,0,0,0,,Valetul său, Wolfgang, \Nvă va însoți în locul meu.
+Dialogue: 99,0:20:43.39,0:20:46.31,Dialogue,Wolfgang,0,0,0,,E o plăcere să vă asist, domniță.
+Dialogue: 99,0:20:46.31,0:20:47.31,Dialogue,Marie,0,0,0,,Înțeleg.
+Dialogue: 99,0:20:47.94,0:20:50.27,Dialogue,Kyros,0,0,0,,Îți mulțumesc pentru ziua asta, Maria.
+Dialogue: 99,0:20:50.27,0:20:55.94,Dialogue,Marie,0,0,0,,Nu, eu vă mulțumesc, lord Kyros, că mi-ați permis să vă văd această latură eroică.
+Dialogue: 99,0:20:56.15,0:21:01.07,Dialogue,Kyros,0,0,0,,Adevărul este că nu l-am învins niciodată pe Luiphon într-un duel cu sabia.
+Dialogue: 99,0:21:02.45,0:21:05.25,Dialogue,Marie,0,0,0,,Lordule Kyros, sunteți cu \Nadevărat o persoană puternică.
+Dialogue: 99,0:21:05.58,0:21:08.83,Dialogue,Kyros,0,0,0,,Asta pentru că-mi ești alături, Maria.
+Dialogue: 99,0:21:09.87,0:21:15.09,Dialogue,Kyros,0,0,0,,Orice dorință ai avea, voi face tot posibilul ca să devină realitate.
+Dialogue: 99,0:21:15.63,0:21:18.05,Dialogue,Kyros,0,0,0,,Pentru că persoana care sunt \Nacum ți se datorează ție.
+Dialogue: 99,0:21:19.13,0:21:21.14,Dialogue,Kyros,0,0,0,,Ne vedem la castel, Maria.
+Dialogue: 99,0:21:21.59,0:21:22.64,Dialogue,Marie,0,0,0,,Da.
+Dialogue: 99,0:21:36.32,0:21:37.94,Dialogue,Marie,0,0,0,,Noapte bună!
+Dialogue: 99,0:21:39.40,0:21:41.61,Dialogue,Marie,0,0,0,,Vizitiu, vă rog să porniți!
+Dialogue: 99,0:21:43.41,0:21:46.66,Dialogue,Kyros,0,0,0,,Maria! Așteaptă, tu tocmai m-ai...
+Dialogue: 99,0:21:47.16,0:21:48.37,Dialogue,Kyros,0,0,0,,Așteaptă, te rog!
+Dialogue: 99,0:21:50.54,0:21:52.71,Dialogue,Marie; internal,0,0,0,,{\i1}Peste două luni...
+Dialogue: 99,0:21:52.71,0:21:55.88,Dialogue,Marie; internal,0,0,0,,{\i1}mă voi căsători cu persoana \Npromisă surorii mele.
+Dialogue: 99,0:21:56.50,0:22:01.76,Dialogue,Marie; internal,0,0,0,,{\i1}E o căsătorie politică, dar, într-o bună zi, \Nprecum un cuplu conectat prin iubire,
+Dialogue: 99,0:22:02.18,0:22:04.43,Dialogue,Marie; internal,0,0,0,,{\i1}sper să ne putem găsi fericirea.
+Dialogue: 99,0:22:04.85,0:22:06.39,Dialogue,Marie; internal,0,0,0,,{\i1}Amândoi, împreună.
+Dialogue: 99,0:22:10.85,0:22:13.94,Dialogue,Kyros,0,0,0,,Asta chiar pare să fie o scrisoare trimisă de familia Shaderan.
+Dialogue: 99,0:22:14.27,0:22:16.94,Dialogue,Mio,0,0,0,,Da. Scrisul de mână corespunde.
+Dialogue: 99,0:22:17.32,0:22:18.36,Dialogue,Kyros,0,0,0,,Mio...
+Dialogue: 99,0:22:19.44,0:22:26.28,Dialogue,Kyros,0,0,0,,Oare baronul Shaderan și soția lui sunt cu adevărat părinții biologici ai Mariei?
+Dialogue: 99,0:23:58.42,0:24:01.63,Dialogue,Toppo,0,0,0,,Mâncarea lui Toppo e \Ncea mai bună din lume!
+Dialogue: 99,0:24:01.63,0:24:03.88,Dialogue,Toppo,0,0,0,,E timpul să-mi arăt măiestria și astăzi!
+Dialogue: 99,0:24:04.72,0:24:09.05,Dialogue,Toppo,0,0,0,,Domnița mea se pregătește din greu pentru ceremonia de nuntă.
+Dialogue: 99,0:24:09.47,0:24:13.56,Dialogue,Toppo,0,0,0,,Lăsați dulciurile sublime ale lui Toppo \Nsă vă mângâie trupul și sufletul!
+Dialogue: 99,0:24:14.73,0:24:15.64,Dialogue,Toppo,0,0,0,,Data viitoare:
+Dialogue: 99,0:24:16.02,0:24:18.61,Dialogue,Toppo,0,0,0,,{\an8\i1}Sunt destul de bună așa cum sunt?
+Dialogue: 99,0:24:19.36,0:24:20.77,Dialogue,Toppo,0,0,0,,{\an8}Mai doriți o porție?
+Dialogue: 99,0:24:20.77,0:24:22.40,Dialogue,Toppo,0,0,0,,{\an8}Va fi plăcerea mea!
 Dialogue: 0,0:00:34.85,0:00:34.89,DedzuyaSigns,,0,0,0,,{\pos(960,154.04)\fscx166.86\fscy166.86\fnMargarine\fsp5\c&HDBBFC5&\blur0.92\iclip(m -11 24 l 67 63 67 141 -11 180 -89 141 -89 63 m 149 24 l 227 63 227 141 149 180 71 141 71 63 m 309 24 l 387 63 387 141 309 180 231 141 231 63 m 469 24 l 547 63 547 141 469 180 391 141 391 63 m 629 24 l 707 63 707 141 629 180 551 141 551 63 m 789 24 l 867 63 867 141 789 180 711 141 711 63 m 949 24 l 1027 63 1027 141 949 180 871 141 871 63 m 1109 24 l 1187 63 1187 141 1109 180 1031 141 1031 63 m 1269 24 l 1347 63 1347 141 1269 180 1191 141 1191 63 m 1429 24 l 1507 63 1507 141 1429 180 1351 141 1351 63 m 1589 24 l 1667 63 1667 141 1589 180 1511 141 1511 63 m 1749 24 l 1827 63 1827 141 1749 180 1671 141 1671 63 m 1909 24 l 1987 63 1987 141 1909 180 1831 141 1831 63 m 2069 24 l 2147 63 2147 141 2069 180 1991 141 1991 63 m 69 104 l 147 143 147 221 69 260 -9 221 -9 143 m 229 104 l 307 143 307 221 229 260 151 221 151 143 m 389 104 l 467 143 467 221 389 260 311 221 311 143 m 549 104 l 627 143 627 221 549 260 471 221 471 143 m 709 104 l 787 143 787 221 709 260 631 221 631 143 m 869 104 l 947 143 947 221 869 260 791 221 791 143 m 1029 104 l 1107 143 1107 221 1029 260 951 221 951 143 m 1189 104 l 1267 143 1267 221 1189 260 1111 221 1111 143 m 1349 104 l 1427 143 1427 221 1349 260 1271 221 1271 143 m 1509 104 l 1587 143 1587 221 1509 260 1431 221 1431 143 m 1669 104 l 1747 143 1747 221 1669 260 1591 221 1591 143 m 1829 104 l 1907 143 1907 221 1829 260 1751 221 1751 143 m 1989 104 l 2067 143 2067 221 1989 260 1911 221 1911 143 m 2149 104 l 2227 143 2227 221 2149 260 2071 221 2071 143)}Lo{\c&HDABFC7&}go{\c&HDBBFC5&}di{\c&HDABFC7&}tă {\fscx143.02\fscy143.02\fnLinux Libertine\fsp0\b1\c&HD9BFC6&}cu {\c&HDABEC7&}fostul partener {\c&HD9BFC6&}al {\c&HDABEC7&}surorii mele
 Dialogue: 0,0:00:34.89,0:00:34.93,DedzuyaSigns,,0,0,0,,{\pos(960,154.21)\fscx166.58\fscy166.58\fnMargarine\fsp5\c&HDBBFC3&\blur0.92\iclip(m -11 24 l 67 63 67 141 -11 180 -89 141 -89 63 m 149 24 l 227 63 227 141 149 180 71 141 71 63 m 309 24 l 387 63 387 141 309 180 231 141 231 63 m 469 24 l 547 63 547 141 469 180 391 141 391 63 m 629 24 l 707 63 707 141 629 180 551 141 551 63 m 789 24 l 867 63 867 141 789 180 711 141 711 63 m 949 24 l 1027 63 1027 141 949 180 871 141 871 63 m 1109 24 l 1187 63 1187 141 1109 180 1031 141 1031 63 m 1269 24 l 1347 63 1347 141 1269 180 1191 141 1191 63 m 1429 24 l 1507 63 1507 141 1429 180 1351 141 1351 63 m 1589 24 l 1667 63 1667 141 1589 180 1511 141 1511 63 m 1749 24 l 1827 63 1827 141 1749 180 1671 141 1671 63 m 1909 24 l 1987 63 1987 141 1909 180 1831 141 1831 63 m 2069 24 l 2147 63 2147 141 2069 180 1991 141 1991 63 m 69 104 l 147 143 147 221 69 260 -9 221 -9 143 m 229 104 l 307 143 307 221 229 260 151 221 151 143 m 389 104 l 467 143 467 221 389 260 311 221 311 143 m 549 104 l 627 143 627 221 549 260 471 221 471 143 m 709 104 l 787 143 787 221 709 260 631 221 631 143 m 869 104 l 947 143 947 221 869 260 791 221 791 143 m 1029 104 l 1107 143 1107 221 1029 260 951 221 951 143 m 1189 104 l 1267 143 1267 221 1189 260 1111 221 1111 143 m 1349 104 l 1427 143 1427 221 1349 260 1271 221 1271 143 m 1509 104 l 1587 143 1587 221 1509 260 1431 221 1431 143 m 1669 104 l 1747 143 1747 221 1669 260 1591 221 1591 143 m 1829 104 l 1907 143 1907 221 1829 260 1751 221 1751 143 m 1989 104 l 2067 143 2067 221 1989 260 1911 221 1911 143 m 2149 104 l 2227 143 2227 221 2149 260 2071 221 2071 143)}Lo{\c&HD9BEC8&}go{\c&HDBBFC3&}di{\c&HD9BEC8&}tă {\fscx142.78\fscy142.78\fnLinux Libertine\fsp0\b1\c&HD7BEC6&}cu {\c&HD8BCC8&}fostul partener {\c&HD7BEC6&}al {\c&HD8BCC8&}surorii mele
 Dialogue: 0,0:00:34.93,0:00:34.97,DedzuyaSigns,,0,0,0,,{\pos(960,154.38)\fscx166.31\fscy166.31\fnMargarine\fsp5\c&HDBBFC0&\blur0.91\iclip(m -11 26 l 65 64 65 140 -11 178 -87 140 -87 64 m 149 26 l 225 64 225 140 149 178 73 140 73 64 m 309 26 l 385 64 385 140 309 178 233 140 233 64 m 469 26 l 545 64 545 140 469 178 393 140 393 64 m 629 26 l 705 64 705 140 629 178 553 140 553 64 m 789 26 l 865 64 865 140 789 178 713 140 713 64 m 949 26 l 1025 64 1025 140 949 178 873 140 873 64 m 1109 26 l 1185 64 1185 140 1109 178 1033 140 1033 64 m 1269 26 l 1345 64 1345 140 1269 178 1193 140 1193 64 m 1429 26 l 1505 64 1505 140 1429 178 1353 140 1353 64 m 1589 26 l 1665 64 1665 140 1589 178 1513 140 1513 64 m 1749 26 l 1825 64 1825 140 1749 178 1673 140 1673 64 m 1909 26 l 1985 64 1985 140 1909 178 1833 140 1833 64 m 2069 26 l 2145 64 2145 140 2069 178 1993 140 1993 64 m 69 106 l 145 144 145 220 69 258 -7 220 -7 144 m 229 106 l 305 144 305 220 229 258 153 220 153 144 m 389 106 l 465 144 465 220 389 258 313 220 313 144 m 549 106 l 625 144 625 220 549 258 473 220 473 144 m 709 106 l 785 144 785 220 709 258 633 220 633 144 m 869 106 l 945 144 945 220 869 258 793 220 793 144 m 1029 106 l 1105 144 1105 220 1029 258 953 220 953 144 m 1189 106 l 1265 144 1265 220 1189 258 1113 220 1113 144 m 1349 106 l 1425 144 1425 220 1349 258 1273 220 1273 144 m 1509 106 l 1585 144 1585 220 1509 258 1433 220 1433 144 m 1669 106 l 1745 144 1745 220 1669 258 1593 220 1593 144 m 1829 106 l 1905 144 1905 220 1829 258 1753 220 1753 144 m 1989 106 l 2065 144 2065 220 1989 258 1913 220 1913 144 m 2149 106 l 2225 144 2225 220 2149 258 2073 220 2073 144)}Lo{\c&HD9BDC8&}go{\c&HDBBFC0&}di{\c&HD9BDC8&}tă {\fscx142.55\fscy142.55\fnLinux Libertine\fsp0\b1\c&HD5BEC6&}cu {\c&HD7B9C8&}fostul partener {\c&HD5BEC6&}al {\c&HD7B9C8&}surorii mele

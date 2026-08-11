@@ -39,360 +39,360 @@ Style: Show Title,Belleza,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:22.83,0:00:27.00,Dialogue,,0,0,0,,Cum se face că tu îi duci fişele lui Asuka-senpai?
-Dialogue: 100,0:00:27.42,0:00:29.29,Dialogue,,0,0,0,,Ce mai contează?
-Dialogue: 100,0:00:29.29,0:00:31.71,Dialogue,,0,0,0,,Nu ai antrenament deoarece plouă, nu-i aşa?
-Dialogue: 100,0:00:31.71,0:00:33.13,Dialogue,,0,0,0,,Vino cu mine, fato.
-Dialogue: 100,0:00:34.66,0:00:37.16,Dialogue,,0,0,0,,Îmi ceri să fiu fata ta?
-Dialogue: 100,0:00:37.16,0:00:38.64,Dialogue,,0,0,0,,Să mergem.
-Dialogue: 100,0:00:38.64,0:00:42.27,Dialogue,,0,0,0,,Misaki-senpai, răspunsul meu este evident "da"!
-Dialogue: 100,0:00:43.42,0:00:49.52,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Răspunsul tău este cu singuranţă în cer!
-Dialogue: 100,0:00:48.33,0:00:49.52,Dialogue,,0,0,0,,Această voce...
-Dialogue: 100,0:00:49.52,0:00:55.65,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Străpunge întunericul şi lumea fără de sfârşit...
-Dialogue: 100,0:00:50.77,0:00:51.81,Dialogue,,0,0,0,,Asuka?
-Dialogue: 100,0:00:52.60,0:00:54.53,Dialogue,,0,0,0,,Cântă.
-Dialogue: 100,0:00:55.65,0:00:59.95,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Fie ca dorinţele tale să strălucească veşnic,
-Dialogue: 100,0:00:59.95,0:01:04.01,Asuka Song,,0,0,0,,{\blur2\fad(150,400)}Stăpân al Cerurilor, Zephyrion!
-Dialogue: 100,0:02:38.10,0:02:39.51,Dialogue,,0,0,0,,Mă simt de parcă n-am făcut nimic.
-Dialogue: 100,0:02:39.51,0:02:42.61,Dialogue,,0,0,0,,Acela a fost cântecul tematic de la "Zephyrion".
-Dialogue: 100,0:02:42.61,0:02:43.68,Dialogue,,0,0,0,,Ce este "Zephyrion"?
-Dialogue: 100,0:02:43.98,0:02:46.27,Dialogue,,0,0,0,,Un anime cu roboţi care era difuzat când am fost copii.
-Dialogue: 100,0:02:46.27,0:02:49.28,Dialogue,,0,0,0,,Protagonistul slab şi bun de nimic—aşteaptă—
-Dialogue: 100,0:02:49.06,0:02:49.54,Alternative,,0,0,0,,Ce?
-Dialogue: 100,0:02:49.31,0:02:52.39,Dialogue,,0,0,0,,devine invincibil când pilotează Zephyrion!
-Dialogue: 100,0:02:53.23,0:02:54.36,Dialogue,,0,0,0,,Este de la Asuka.
-Dialogue: 100,0:02:54.72,0:02:57.77,Dialogue,,0,0,0,,"Mersi că mi-ai adus fişele.
-Dialogue: 100,0:02:57.77,0:02:59.36,Dialogue,,0,0,0,,Mi le-a dat mama.
-Dialogue: 100,0:02:59.36,0:03:01.27,Dialogue,,0,0,0,,Scuze că nu am observat că aţi venit."
-Dialogue: 100,0:03:01.27,0:03:03.10,Dialogue,,0,0,0,,Pot să-ţi împrumut telefonul o secundă?
-Dialogue: 100,0:03:03.10,0:03:03.78,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:03:04.67,0:03:08.05,Dialogue,,0,0,0,,"Tocmai fredonai cântecul tematic de la "Zephyrion, nu-i aşa?"
-Dialogue: 100,0:03:08.05,0:03:09.51,Dialogue,,0,0,0,,Hai să Zephyr cândva.
-Dialogue: 100,0:03:13.48,0:03:14.67,Dialogue,,0,0,0,,A răspuns.
-Dialogue: 100,0:03:14.86,0:03:16.92,Dialogue,,0,0,0,,"Sigur! Zeph, zeph!"
-Dialogue: 100,0:03:16.92,0:03:19.25,Dialogue,,0,0,0,,"Zeph, zeph"? Pe bune, ce?
-Dialogue: 100,0:03:19.25,0:03:20.65,Dialogue,,0,0,0,,Cred că spune, "Da, da."
-Dialogue: 100,0:03:20.65,0:03:23.38,Dialogue,,0,0,0,,Nu asta voiam să spun. Presupun \Ncă nu aveam de ce să fiu îngrijorată.
-Dialogue: 100,0:03:27.36,0:03:29.20,Dialogue,,0,0,0,,Bună dimineaţa!
-Dialogue: 100,0:03:29.20,0:03:30.68,Dialogue,,0,0,0,,Oh, 'neaţa.
-Dialogue: 100,0:03:30.99,0:03:33.60,Dialogue,,0,0,0,,Pari în regulă. Ce bine.
-Dialogue: 100,0:03:33.60,0:03:36.21,Dialogue,,0,0,0,,Sunt. Scuze că v-am făcut să vă îngrijoraţi.
-Dialogue: 100,0:03:36.21,0:03:38.73,Dialogue,,0,0,0,,Misaki-chan, mersi pentru ieri.
-Dialogue: 100,0:03:39.09,0:03:41.28,Dialogue,,0,0,0,,Nici o problemă. 'Neaţa.
-Dialogue: 100,0:03:44.20,0:03:48.08,Dialogue,,0,0,0,,Îmi pare rău că nu am putut ajunge la antrenament ieri, noule căpitan.
-Dialogue: 100,0:03:48.08,0:03:50.05,Dialogue,,0,0,0,,Nu-ţi fie. Oricum a plouat.
-Dialogue: 100,0:03:50.05,0:03:53.16,Dialogue,,0,0,0,,Şi ai putea să nu mai spui "nou"?
-Dialogue: 100,0:03:53.50,0:03:54.45,Dialogue,,0,0,0,,'Neaţa.
-Dialogue: 100,0:03:54.45,0:03:56.59,Dialogue,,0,0,0,,Bună dimineaţa, antrenorule.
-Dialogue: 100,0:03:56.59,0:03:58.33,Dialogue,,0,0,0,,Eşti în regulă, Asuka?
-Dialogue: 100,0:03:58.33,0:04:01.21,Dialogue,,0,0,0,,Da. Scuze că te-am făcut să te îngrijorezi.
-Dialogue: 100,0:04:01.21,0:04:02.54,Dialogue,,0,0,0,,Crezi că te poţi antrena astăzi?
-Dialogue: 100,0:04:02.54,0:04:04.75,Dialogue,,0,0,0,,Da, sunt complet în regulă.
-Dialogue: 100,0:04:04.75,0:04:05.93,Dialogue,,0,0,0,,S-o facem!
-Dialogue: 100,0:04:05.93,0:04:07.91,Alternative,,0,0,0,,Nu trebuie să devii atât de agitată.
-Dialogue: 100,0:04:05.93,0:04:07.91,Dialogue,,0,0,0,,Asuka chiar este diferită.
-Dialogue: 100,0:04:07.91,0:04:10.31,Alternative,,0,0,0,,Nu! S-o facem, am spus!
-Dialogue: 100,0:04:08.93,0:04:10.46,Dialogue,,0,0,0,,În comparaţie cu mine.
-Dialogue: 100,0:04:10.31,0:04:12.11,Alternative,,0,0,0,,Tocmai ţi-ai revenit, deci ia-o uşor.
-Dialogue: 100,0:04:11.33,0:04:12.39,Dialogue,,0,0,0,,Crezi?
-Dialogue: 100,0:04:12.11,0:04:13.12,Alternative,,0,0,0,,Nu, nu!
-Dialogue: 100,0:04:13.12,0:04:16.42,Dialogue,,0,0,0,,Nu cred că voi rezista cinci ore fără să adorm dacă nu mă agit!
-Dialogue: 100,0:04:16.42,0:04:17.94,Dialogue,,0,0,0,,Asta este ceva ce tu ai spune.
-Dialogue: 100,0:04:23.35,0:04:25.57,Dialogue,,0,0,0,,A-Asuka-senpai?
-Dialogue: 100,0:04:28.35,0:04:32.07,Dialogue,,0,0,0,,S-Scuze. Nu pot zbura prea bine.
-Dialogue: 100,0:04:32.45,0:04:35.03,Italics,,0,0,0,,Fixează-ţi poziţia şi încearcă să zbori drept.
-Dialogue: 100,0:04:35.03,0:04:36.41,Dialogue,,0,0,0,,B-Bine!
-Dialogue: 100,0:04:39.18,0:04:41.68,Dialogue,,0,0,0,,Uh, apoi încearcă un yo-yo mare.
-Dialogue: 100,0:04:41.68,0:04:42.91,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:04:47.40,0:04:49.17,Dialogue,,0,0,0,,Apoi un yo-yo mic.
-Dialogue: 100,0:04:49.17,0:04:50.71,Dialogue,,0,0,0,,B-Bine!
-Dialogue: 100,0:04:55.26,0:04:56.09,Dialogue,,0,0,0,,Asuka?!
-Dialogue: 100,0:05:00.25,0:05:02.68,Dialogue,,0,0,0,,Mă întreb ce e în neregulă cu ea.
-Dialogue: 100,0:05:02.68,0:05:04.06,Dialogue,,0,0,0,,Vino aici, Asuka.
-Dialogue: 100,0:05:04.06,0:05:05.49,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:05:08.57,0:05:09.49,Dialogue,,0,0,0,,Asuka-chan.
-Dialogue: 100,0:05:13.63,0:05:16.62,Dialogue,,0,0,0,,Scuze. Nu sunt bună deloc.
-Dialogue: 100,0:05:16.96,0:05:20.75,Dialogue,,0,0,0,,Pe bune. Parcă ţi-ai pierdut toate datele salvate.
-Dialogue: 100,0:05:21.39,0:05:22.90,Dialogue,,0,0,0,,Da...
-Dialogue: 100,0:05:24.03,0:05:25.38,Dialogue,,0,0,0,,Mă întreb de ce.
-Dialogue: 100,0:05:27.02,0:05:29.17,Dialogue,,0,0,0,,Fă doar nişte întinderi şi opreşte-te aici pentru astăzi.
-Dialogue: 100,0:05:29.77,0:05:30.61,Dialogue,,0,0,0,,Antrenorule...
-Dialogue: 100,0:05:31.00,0:05:33.83,Dialogue,,0,0,0,,Încearcă să faci nişte antrenament \Nde închipuire odată ce ai ajuns acasă.
-Dialogue: 100,0:05:34.76,0:05:37.14,Dialogue,,0,0,0,,Imaginează-te zburând corect.
-Dialogue: 100,0:05:37.95,0:05:39.86,Dialogue,,0,0,0,,Şi încearcă din nou mâine.
-Dialogue: 100,0:05:41.27,0:05:42.63,Dialogue,,0,0,0,,Am înţeles.
-Dialogue: 100,0:05:43.65,0:05:45.58,Dialogue,,0,0,0,,La revedere!
-Dialogue: 100,0:05:48.61,0:05:49.82,Dialogue,,0,0,0,,Îmi pare rău.
-Dialogue: 100,0:05:50.04,0:05:55.23,Dialogue,,0,0,0,,Păi, se spune că şi cei mai buni \Nsportivi trec prin momente de criză.
-Dialogue: 100,0:06:01.08,0:06:10.24,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Chiar şi când încerc să aprind un foc şi să mă ridic din nou,
-Dialogue: 100,0:06:11.59,0:06:20.95,Asuka Song,,0,0,0,,{\fad(150,2739)\blur2}Îmi este reamintit de slăbiciunile mele.
-Dialogue: 100,0:06:30.51,0:06:31.50,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:06:34.40,0:06:35.66,Dialogue,,0,0,0,,Ce faci?
-Dialogue: 100,0:06:36.61,0:06:37.41,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:06:38.46,0:06:39.92,Dialogue,,0,0,0,,Zephyrion?
-Dialogue: 100,0:06:40.30,0:06:42.80,Dialogue,,0,0,0,,De unde eşti? Te-ai pierdut?
-Dialogue: 100,0:06:43.07,0:06:44.18,Dialogue,,0,0,0,,Eu...
-Dialogue: 100,0:06:44.83,0:06:46.66,Dialogue,,0,0,0,,Nu m-am pierdut.
-Dialogue: 100,0:06:47.54,0:06:48.26,Dialogue,,0,0,0,,Atunci ce este?
-Dialogue: 100,0:06:48.63,0:06:52.28,Dialogue,,0,0,0,,Sunt o fată plângăcioasă, \Nîmbufnată, slabă şi bună de nimic.
-Dialogue: 100,0:06:52.56,0:06:54.01,Dialogue,,0,0,0,,Asta nu este o replică din "Zephyrion"?
-Dialogue: 100,0:06:56.51,0:06:58.52,Dialogue,,0,0,0,,Hai să ne jucăm împreună, atunci.
-Dialogue: 100,0:07:00.58,0:07:01.53,Dialogue,,0,0,0,,Haide, să mergem.
-Dialogue: 100,0:07:02.31,0:07:03.40,Dialogue,,0,0,0,,Bine...
-Dialogue: 100,0:07:28.01,0:07:29.47,Dialogue,,0,0,0,,Pleci deja?
-Dialogue: 100,0:07:29.47,0:07:30.17,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:07:30.70,0:07:34.00,Dialogue,,0,0,0,,Dar tocmai ce am devenit prieteni...
-Dialogue: 100,0:07:37.53,0:07:38.69,Dialogue,,0,0,0,,Poţi avea asta.
-Dialogue: 100,0:07:40.68,0:07:41.93,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:07:41.93,0:07:43.15,Dialogue,,0,0,0,,Doar ia-o!
-Dialogue: 100,0:07:45.01,0:07:46.41,Dialogue,,0,0,0,,Mersi!
-Dialogue: 100,0:07:52.48,0:07:54.16,Dialogue,,0,0,0,,Linişteşte-te. Acea parte era deja stricată.
-Dialogue: 100,0:08:03.20,0:08:04.94,Dialogue,,0,0,0,,Ce tot faci?
-Dialogue: 100,0:08:09.77,0:08:13.13,Dialogue,,0,0,0,,Am auzit că nu puteai zbura, dar ai ajuns până aici.
-Dialogue: 100,0:08:13.53,0:08:14.76,Dialogue,,0,0,0,,Misaki-chan...
-Dialogue: 100,0:08:15.18,0:08:16.47,Dialogue,,0,0,0,,Hop.
-Dialogue: 100,0:08:16.75,0:08:19.49,Dialogue,,0,0,0,,Poftim, prânzul tău. L-ai lăsat în clasă.
-Dialogue: 100,0:08:19.77,0:08:22.07,Dialogue,,0,0,0,,Me-Mersi.
-Dialogue: 100,0:08:22.07,0:08:23.81,Dialogue,,0,0,0,,Cu plăcere.
-Dialogue: 100,0:08:29.72,0:08:31.02,Dialogue,,0,0,0,,Nu îl porţi, huh?
-Dialogue: 100,0:08:32.50,0:08:33.70,Dialogue,,0,0,0,,Acel ac de păr.
-Dialogue: 100,0:08:34.92,0:08:36.45,Dialogue,,0,0,0,,Dintr-un motiv,
-Dialogue: 100,0:08:36.92,0:08:38.98,Dialogue,,0,0,0,,am simţit că nu ar trebui s-o fac.
-Dialogue: 100,0:08:39.45,0:08:43.21,Dialogue,,0,0,0,,Aripile mele s-ar putea să nu fi fost ale mele.
-Dialogue: 100,0:08:43.88,0:08:46.96,Dialogue,,0,0,0,,Am vrut să zbor de când eram mică.
-Dialogue: 100,0:08:47.53,0:08:49.96,Dialogue,,0,0,0,,Am vrut să schimb fata slabă şi bună de nimic care eram.
-Dialogue: 100,0:08:49.96,0:08:53.57,Dialogue,,0,0,0,,Deci când am venit pe insula asta şi am zburat pentru prima oară,
-Dialogue: 100,0:08:53.57,0:08:55.30,Dialogue,,0,0,0,,am fost foarte fericită.
-Dialogue: 100,0:08:56.18,0:08:59.96,Dialogue,,0,0,0,,Am ales AZ, m-am antrenat din greu
-Dialogue: 100,0:08:59.96,0:09:02.64,Dialogue,,0,0,0,,şi am întâlnit o mulţime de oameni.
-Dialogue: 100,0:09:02.64,0:09:05.60,Dialogue,,0,0,0,,M-am distrat atât de mult.
-Dialogue: 100,0:09:06.98,0:09:11.07,Dialogue,,0,0,0,,Am găsit şi AZ-ul lui Inui incredibil.
-Dialogue: 100,0:09:11.60,0:09:14.27,Dialogue,,0,0,0,,Faptul că cineva era capabil să facă aia,
-Dialogue: 100,0:09:14.77,0:09:19.74,Dialogue,,0,0,0,,m-a făcut să simt că aş putea să zbor chiar mai sus.
-Dialogue: 100,0:09:21.58,0:09:25.76,Dialogue,,0,0,0,,Dar m-am lăsat pur şi simplu dusă de val, nu-i aşa?
-Dialogue: 100,0:09:26.90,0:09:31.09,Dialogue,,0,0,0,,Nu am putut face nimic în meciul cu Inui-san.
-Dialogue: 100,0:09:31.74,0:09:35.34,Dialogue,,0,0,0,,Nu m-am schimbat deloc. Încă eram fata \Nslabă şi bună de nimic care am fost mereu.
-Dialogue: 100,0:09:36.18,0:09:41.81,Dialogue,,0,0,0,,Aripile care m-au ajutat să zbor până acum, \Nle-am împrumutat doar, de la tine şi de la antrenor.
-Dialogue: 100,0:09:42.55,0:09:46.20,Dialogue,,0,0,0,,Deci am devenit speriată de slăbiciunile mele...
-Dialogue: 100,0:09:46.20,0:09:48.10,Dialogue,,0,0,0,,...şi nu ai mai putut zbura, huh?
-Dialogue: 100,0:09:49.96,0:09:50.98,Dialogue,,0,0,0,,Înţeleg.
-Dialogue: 100,0:09:57.79,0:10:01.35,Dialogue,,0,0,0,,Antrenarea de una singură pare aşa inutilă.
-Dialogue: 100,0:10:01.35,0:10:05.62,Dialogue,,0,0,0,,Nu puteai face nimic. Asuka-san a spus că \Nvoia să continue antrenamentul de închipuire.
-Dialogue: 100,0:10:25.61,0:10:26.91,Dialogue,,0,0,0,,Asuka...
-Dialogue: 100,0:11:02.28,0:11:03.39,Dialogue,,0,0,0,,Eu...
-Dialogue: 100,0:11:04.08,0:11:06.04,Dialogue,,0,0,0,,Ce fac aici?
-Dialogue: 100,0:11:06.04,0:11:07.68,Dialogue,,0,0,0,,Despre ce vorbeşti?
-Dialogue: 100,0:11:07.95,0:11:11.80,Dialogue,,0,0,0,,Stăteai în faţa casei mele \Navând o privire goală pe faţă.
-Dialogue: 100,0:11:11.80,0:11:13.57,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:11:13.57,0:11:17.73,Dialogue,,0,0,0,,Voiam să-ţi răspund la mesaj, dar am rămas fără baterie.
-Dialogue: 100,0:11:17.73,0:11:19.45,Dialogue,,0,0,0,,{\fad(1,1440)}Nu am ştiut ce să fac şi înainte să-mi dau seama...
-Dialogue: 100,0:11:19.82,0:11:24.36,Dialogue,,0,0,0,,Îţi este caracteristic să apari în persoană ca să răspunzi.
-Dialogue: 100,0:11:25.26,0:11:26.70,Dialogue,,0,0,0,,Ştii...
-Dialogue: 100,0:11:26.70,0:11:28.90,Dialogue,,0,0,0,,De ce eşti aici, Mashiro?
-Dialogue: 100,0:11:28.90,0:11:33.70,Dialogue,,0,0,0,,Deoarece mi-ai spus că \NAsuka-senpai era la tine acasă.
-Dialogue: 100,0:11:33.70,0:11:35.88,Dialogue,,0,0,0,,Deci am venit aici cât de repede am putut.
-Dialogue: 100,0:11:35.88,0:11:39.48,Dialogue,,0,0,0,,Cu siguranţă nu sunt aici ca să profit de situaţie
-Dialogue: 100,0:11:39.48,0:11:42.58,Dialogue,,0,0,0,,şi să gust din mâncărurile tale!
-Dialogue: 100,0:11:42.58,0:11:44.85,Dialogue,,0,0,0,,Scuze că te-am făcut să te îngrijorezi.
-Dialogue: 100,0:11:44.85,0:11:46.13,Dialogue,,0,0,0,,Atunci să mâncăm.
-Dialogue: 100,0:11:46.13,0:11:48.27,Dialogue,,0,0,0,,Da, să mâncăm!
-Dialogue: 100,0:11:48.27,0:11:50.10,Dialogue,,0,0,0,,Să mâncăm.
-Dialogue: 100,0:11:50.57,0:11:52.98,Dialogue,,0,0,0,,Am încercat să fac gyoza astăzi.
-Dialogue: 100,0:11:52.98,0:11:56.41,Dialogue,,0,0,0,,Cu găluşte de peşte zburător \Nşi o grămadă de stoc zburător.
-Dialogue: 100,0:11:56.41,0:11:58.05,Dialogue,,0,0,0,,Este grozav!
-Dialogue: 100,0:11:58.05,0:12:00.21,Dialogue,,0,0,0,,Gyoza-ul tău cu peşte zburător făcut cu iubire este pur şi simplu divin!
-Dialogue: 100,0:12:00.21,0:12:01.70,Dialogue,,0,0,0,,Nu a fost pic de iubire.
-Dialogue: 100,0:12:01.70,0:12:02.82,Dialogue,,0,0,0,,As-Asta este...
-Dialogue: 100,0:12:03.22,0:12:05.31,Dialogue,,0,0,0,,...delicios, nu-i aşa?
-Dialogue: 100,0:12:07.26,0:12:09.26,Dialogue,,0,0,0,,Este foarte bun.
-Dialogue: 100,0:12:11.91,0:12:12.88,Dialogue,,0,0,0,,Asuka.
-Dialogue: 100,0:12:12.88,0:12:14.13,Dialogue,,0,0,0,,D-Da?
-Dialogue: 100,0:12:14.13,0:12:16.55,Dialogue,,0,0,0,,Rămâi peste noapte.
-Dialogue: 100,0:12:17.52,0:12:19.71,Dialogue,,0,0,0,,"R-Rămâi"...
-Dialogue: 100,0:12:20.58,0:12:23.52,Dialogue,,0,0,0,,Misaki-senpai...
-Dialogue: 100,0:12:23.52,0:12:28.73,Dialogue,,0,0,0,,Voi fi bucuroasă să-ţi fiu Mashiro perna personală de îmbrăţişat.
-Dialogue: 100,0:12:29.77,0:12:32.00,Dialogue,,0,0,0,,Ai putea să te grăbeşti şi să mănânci?
-Dialogue: 100,0:12:32.00,0:12:33.39,Dialogue,,0,0,0,,Trebuie să fac curat.
-Dialogue: 100,0:12:32.62,0:12:33.77,Alternative,,0,0,0,,Am înţeles!
-Dialogue: 100,0:12:36.61,0:12:38.26,Dialogue,,0,0,0,,Aşteaptă, Senpai!
-Dialogue: 100,0:12:38.26,0:12:40.34,Dialogue,,0,0,0,,Nu, nu poţi!
-Dialogue: 100,0:12:40.34,0:12:41.11,Dialogue,,0,0,0,,Te rog...
-Dialogue: 100,0:12:44.63,0:12:46.13,Dialogue,,0,0,0,,Doamne.
-Dialogue: 100,0:12:46.13,0:12:47.87,Dialogue,,0,0,0,,Ascultă, îmi pare rău.
-Dialogue: 100,0:12:48.54,0:12:51.14,Dialogue,,0,0,0,,Am sfârşit prin a-ţi cauza probleme.
-Dialogue: 100,0:12:51.59,0:12:53.04,Dialogue,,0,0,0,,Aşa este.
-Dialogue: 100,0:12:58.31,0:12:59.17,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:13:00.41,0:13:02.17,Dialogue,,0,0,0,,De ce îţi iei liber?
-Dialogue: 100,0:13:02.88,0:13:04.21,Dialogue,,0,0,0,,Păi...
-Dialogue: 100,0:13:05.35,0:13:07.78,Dialogue,,0,0,0,,Dar tu?
-Dialogue: 100,0:13:07.78,0:13:08.83,Dialogue,,0,0,0,,Eu?
-Dialogue: 100,0:13:09.93,0:13:11.29,Dialogue,,0,0,0,,Eu...
-Dialogue: 100,0:13:12.59,0:13:15.13,Dialogue,,0,0,0,,Foarte atrăgătoare, indiferent de câte ori mă uit!
-Dialogue: 100,0:13:17.41,0:13:19.57,Dialogue,,0,0,0,,Pleacă din dulap, Mashiro.
-Dialogue: 100,0:13:19.57,0:13:22.76,Dialogue,,0,0,0,,Ce? Nu sunt bine primită aici?
-Dialogue: 100,0:13:22.76,0:13:26.13,Dialogue,,0,0,0,,Mă simt ca o pisică abandonată chiar acum.
-Dialogue: 100,0:13:26.13,0:13:27.42,Dialogue,,0,0,0,,Da, te abandonez.
-Dialogue: 100,0:13:27.42,0:13:28.77,Dialogue,,0,0,0,,Ack!
-Dialogue: 100,0:13:29.11,0:13:32.41,Dialogue,,0,0,0,,Bine. Din moment ce sunt o pacoste, voi pleca.
-Dialogue: 100,0:13:29.35,0:13:31.58,Alternative,,0,0,0,,Ieşi, ieşi.
-Dialogue: 100,0:13:32.41,0:13:34.98,Dialogue,,0,0,0,,Sunteţi libere să flirtaţi cât doriţi.
-Dialogue: 100,0:13:37.54,0:13:40.74,Dialogue,,0,0,0,,De unde a scos aceste fotografii?
-Dialogue: 100,0:13:40.74,0:13:42.06,Dialogue,,0,0,0,,Şi eu vreau să văd!
-Dialogue: 100,0:13:42.06,0:13:43.05,Dialogue,,0,0,0,,Hei, aşteaptă.
-Dialogue: 100,0:13:46.65,0:13:48.86,Dialogue,,0,0,0,,Cine e acest băiat?
-Dialogue: 100,0:13:48.86,0:13:49.80,Dialogue,,0,0,0,,Eu.
-Dialogue: 100,0:13:50.53,0:13:51.75,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:13:52.84,0:13:55.31,Dialogue,,0,0,0,,Eram confundată drept \Nbăiat des, deci m-am obişnuit.
-Dialogue: 100,0:13:56.38,0:13:57.58,Dialogue,,0,0,0,,Pantofi Grav?
-Dialogue: 100,0:13:57.58,0:13:59.43,Dialogue,,0,0,0,,I-am primit cadou de ziua mea.
-Dialogue: 100,0:13:59.43,0:14:01.56,Dialogue,,0,0,0,,Eram aşa fericită încât continuam să zbor peste tot de una singură.
-Dialogue: 100,0:14:01.82,0:14:03.93,Dialogue,,0,0,0,,După un timp, asta nu mai era de ajuns,
-Dialogue: 100,0:14:03.93,0:14:06.07,Dialogue,,0,0,0,,deci provocam oameni la întâmplare.
-Dialogue: 100,0:14:06.43,0:14:08.32,Dialogue,,0,0,0,,Se pare că te distrai.
-Dialogue: 100,0:14:08.83,0:14:11.54,Dialogue,,0,0,0,,Dar m-am plicitisit uşor, ştii.
-Dialogue: 100,0:14:11.54,0:14:15.33,Dialogue,,0,0,0,,Înainte să-mi dau seama, am încetat \Nsă-mi mai pese de Arena Zburătoare.
-Dialogue: 100,0:14:16.16,0:14:19.69,Dialogue,,0,0,0,,După ce ai apărut tu, am început să joc din nou dintr-un moft.
-Dialogue: 100,0:14:24.78,0:14:26.05,Dialogue,,0,0,0,,Dar de data asta,
-Dialogue: 100,0:14:26.56,0:14:27.55,Dialogue,,0,0,0,,am fugit.
-Dialogue: 100,0:14:29.46,0:14:32.89,Dialogue,,0,0,0,,Am crezut că am luptat bine împotriva lui Shindou-san,
-Dialogue: 100,0:14:32.89,0:14:34.47,Dialogue,,0,0,0,,dar nu a fost aşa deloc.
-Dialogue: 100,0:14:34.99,0:14:37.60,Dialogue,,0,0,0,,Dar el a devenit serios împotriva ta.
-Dialogue: 100,0:14:38.02,0:14:39.34,Dialogue,,0,0,0,,Am fost aşa supărată.
-Dialogue: 100,0:14:39.78,0:14:41.61,Dialogue,,0,0,0,,Nu am putut înţelege de ce.
-Dialogue: 100,0:14:42.22,0:14:44.53,Dialogue,,0,0,0,,Şi apoi el a pierdut meciul împotriva lui Inui-san.
-Dialogue: 100,0:14:45.11,0:14:48.14,Dialogue,,0,0,0,,Nu am vrut să cred.
-Dialogue: 100,0:14:48.14,0:14:51.32,Dialogue,,0,0,0,,M-am întrebat, "Asta ce mă \Nface pe mine"? Şi m-am speriat.
-Dialogue: 100,0:14:53.76,0:14:55.20,Dialogue,,0,0,0,,Dar tu...
-Dialogue: 100,0:14:56.41,0:14:58.31,Dialogue,,0,0,0,,Ai spus că a fost incredibil.
-Dialogue: 100,0:15:00.14,0:15:01.33,Dialogue,,0,0,0,,Nu te-am putut înţelege.
-Dialogue: 100,0:15:02.05,0:15:04.16,Dialogue,,0,0,0,,M-am simţit de parcă tu erai la un alt nivel.
-Dialogue: 100,0:15:06.21,0:15:10.34,Dialogue,,0,0,0,,Chiar şi după ce a pierdut aşa urât, \NShindou-san nu s-a lăsat deranjat de asta.
-Dialogue: 100,0:15:11.03,0:15:12.80,Dialogue,,0,0,0,,De fapt, doar la făcut să fie mai motivat.
-Dialogue: 100,0:15:13.30,0:15:16.06,Dialogue,,0,0,0,,Deoarece frica de a pierde ceva arată că te bucuri de acel lucru.
-Dialogue: 100,0:15:17.38,0:15:19.71,Dialogue,,0,0,0,,Eu nu găsesc asta distractiv.
-Dialogue: 100,0:15:20.14,0:15:21.26,Dialogue,,0,0,0,,De asta...
-Dialogue: 100,0:15:22.11,0:15:23.81,Dialogue,,0,0,0,,am decis să renunţ.
-Dialogue: 100,0:15:24.31,0:15:25.81,Dialogue,,0,0,0,,Misaki-chan...
-Dialogue: 100,0:15:29.20,0:15:30.50,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:15:32.77,0:15:34.81,Dialogue,,0,0,0,,Sunt aşa jalnică.
-Dialogue: 100,0:15:34.81,0:15:36.04,Dialogue,,0,0,0,,Asta nu este adevărat!
-Dialogue: 100,0:15:36.38,0:15:38.20,Dialogue,,0,0,0,,Eşti uimitoare!
-Dialogue: 100,0:15:40.14,0:15:41.50,Dialogue,,0,0,0,,Scuze.
-Dialogue: 100,0:15:42.29,0:15:43.50,Dialogue,,0,0,0,,Asuka?
-Dialogue: 100,0:15:43.80,0:15:45.50,Dialogue,,0,0,0,,Vreau să spun,
-Dialogue: 100,0:15:45.96,0:15:50.19,Dialogue,,0,0,0,,tu eşti cea care m-a dus în lumea cerului.
-Dialogue: 100,0:15:50.76,0:15:56.51,Dialogue,,0,0,0,,Prinvindu-ţi frumoasa formă de zbor, \Nm-a făcut să-mi doresc să zbor ca tine.
-Dialogue: 100,0:15:57.36,0:15:59.01,Dialogue,,0,0,0,,Me-Mersi.
-Dialogue: 100,0:15:59.01,0:16:00.19,Dialogue,,0,0,0,,Oh, e în regulă.
-Dialogue: 100,0:16:04.09,0:16:05.87,Dialogue,,0,0,0,,Vei fi bine.
-Dialogue: 100,0:16:05.87,0:16:07.98,Dialogue,,0,0,0,,Eu ştiu că tu zbori cu propriile tale aripi.
-Dialogue: 100,0:16:08.50,0:16:09.74,Dialogue,,0,0,0,,Deşi nu am o dovadă.
-Dialogue: 100,0:16:09.74,0:16:11.49,Dialogue,,0,0,0,,Nu ai?
-Dialogue: 100,0:16:15.00,0:16:16.95,Dialogue,,0,0,0,,Uou, este foarte târziu.
-Dialogue: 100,0:16:16.95,0:16:18.30,Dialogue,,0,0,0,,Ar trebui să dormim?
-Dialogue: 100,0:16:18.30,0:16:19.37,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:16:20.11,0:16:21.66,Dialogue,,0,0,0,,Eu sunt Mashiro, prisica abandonată.
-Dialogue: 100,0:16:22.00,0:16:25.13,Dialogue,,0,0,0,,Presupun că nu vor veni să mă ia.
-Dialogue: 100,0:16:25.89,0:16:27.12,Dialogue,,0,0,0,,Doamne.
-Dialogue: 100,0:16:27.68,0:16:30.28,Dialogue,,0,0,0,,Nu că le învinuiesc.
-Dialogue: 100,0:16:33.80,0:16:40.68,Asuka Song,,0,0,0,,{\fad(300,150)\blur2}Zboară de-a lungul cerului înstelat cu aripile tale unice.
-Dialogue: 100,0:16:40.68,0:16:47.50,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Răspunsul tău este cu siguranţă în cer.
-Dialogue: 100,0:16:47.50,0:16:54.36,Asuka Song,,0,0,0,,{\fad(150,150)}Stăpunge întunericul şi lumea fără de sfârşit.
-Dialogue: 100,0:16:54.36,0:17:03.74,Asuka Song,,0,0,0,,{\fad(150,400)\blur2}Fie ca dorinţele tale să strălucească veşnic, Stăpân al Cerurilor, Zephyrion!
-Dialogue: 100,0:17:08.13,0:17:11.23,Dialogue,,0,0,0,,Voi aţi uitat de existenţa mea, nu-i aşa?
-Dialogue: 100,0:17:11.23,0:17:12.75,Dialogue,,0,0,0,,Oh, aşa este?
-Dialogue: 100,0:17:12.75,0:17:14.43,Dialogue,,0,0,0,,Eraţi în micuţa voastră lume, huh?
-Dialogue: 100,0:17:14.43,0:17:17.64,Dialogue,,0,0,0,,Of, scuze pentru că am fost a cincea roată—Mă ascultaţi?
-Dialogue: 100,0:17:17.64,0:17:20.18,Dialogue,,0,0,0,,Scuze, Mashiro-chan.
-Dialogue: 100,0:17:20.18,0:17:22.54,Dialogue,,0,0,0,,Ei bine, este în regulă.
-Dialogue: 100,0:17:39.72,0:17:42.09,Dialogue,,0,0,0,,Grăbiţi-vă sau vom întârzia!
-Dialogue: 100,0:17:42.09,0:17:43.45,Dialogue,,0,0,0,,Ştiu!
-Dialogue: 100,0:17:43.45,0:17:44.53,Dialogue,,0,0,0,,H-Hei!
-Dialogue: 100,0:17:44.53,0:17:46.62,Dialogue,,0,0,0,,Ce este? Mai puţină vorbă, mai mult spirit!
-Dialogue: 100,0:17:46.62,0:17:48.00,Dialogue,,0,0,0,,Misaki-chan!
-Dialogue: 100,0:17:48.00,0:17:49.59,Dialogue,,0,0,0,,C-Ce?
-Dialogue: 100,0:17:50.97,0:17:52.55,Dialogue,,0,0,0,,Înfruntă-mă...
-Dialogue: 100,0:17:53.68,0:17:55.09,Dialogue,,0,0,0,,într-un meci!
-Dialogue: 100,0:17:56.47,0:17:57.97,Dialogue,,0,0,0,,Asuka-senpai?
-Dialogue: 100,0:17:59.54,0:18:02.81,Dialogue,,0,0,0,,Răspunsul este în cer!
-Dialogue: 100,0:18:07.82,0:18:10.40,Dialogue,,0,0,0,,Stai, aia a fost doar o scrisoare de învoire?
-Dialogue: 100,0:18:10.77,0:18:14.99,Dialogue,,0,0,0,,Da. Am vrut să-mi iau o zi liberă.
-Dialogue: 100,0:18:17.11,0:18:18.75,Dialogue,,0,0,0,,Şi tu, Misaki?
-Dialogue: 100,0:18:18.75,0:18:21.12,Dialogue,,0,0,0,,Voi juca cu Asuka într-un meci acum.
-Dialogue: 100,0:18:21.12,0:18:23.91,Dialogue,,0,0,0,,Dacă pierd, mă voi întoarce.
-Dialogue: 100,0:18:25.01,0:18:27.83,Dialogue,,0,0,0,,"Răspunsul este în cer"? \NEşti prea naivă, Asuka.
-Dialogue: 100,0:18:28.44,0:18:31.14,Dialogue,,0,0,0,,Singurele lucruri care sunt acolo, sunt victoria şi înfrângerea.
-Dialogue: 100,0:18:31.14,0:18:33.53,Dialogue,,0,0,0,,Şi voi câştiga cu orice preţ.
-Dialogue: 100,0:18:33.91,0:18:35.42,Dialogue,,0,0,0,,Voi da tot ce pot.
-Dialogue: 100,0:18:40.15,0:18:43.57,Italics,,0,0,0,,Să fiu sinceră, sunt puţin \Nsperiată s-o înfrunt pe Asuka.
-Dialogue: 100,0:18:44.42,0:18:47.47,Italics,,0,0,0,,Dacă câştig, Misaki-chan se va întoarce în echipă.
-Dialogue: 100,0:18:47.47,0:18:49.19,Italics,,0,0,0,,Nu pot pierde.
-Dialogue: 100,0:18:49.19,0:18:50.60,Dialogue,,0,0,0,,Pe locuri...
-Dialogue: 100,0:18:50.60,0:18:51.49,Dialogue,,0,0,0,,Porniţi!
-Dialogue: 100,0:18:56.70,0:18:58.83,Dialogue,,0,0,0,,Poate zbura din nou!
-Dialogue: 100,0:18:58.83,0:19:01.03,Dialogue,,0,0,0,,Trebuie să-şi fi amintit modul ei de zbor.
-Dialogue: 100,0:19:02.45,0:19:04.35,Dialogue,,0,0,0,,Punct pentru Asuka-senpai!
-Dialogue: 100,0:19:07.22,0:19:08.39,Dialogue,,0,0,0,,Uite că vin!
-Dialogue: 100,0:19:11.23,0:19:12.17,Dialogue,,0,0,0,,Nu vei trece de mine!
-Dialogue: 100,0:19:13.68,0:19:14.52,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:19:15.33,0:19:17.46,Dialogue,,0,0,0,,Să ne luptăm, Misaki-chan!
-Dialogue: 100,0:19:17.46,0:19:23.24,Dialogue,,0,0,0,,Asuka, asta e replica mea!
-Dialogue: 100,0:19:23.85,0:19:26.48,Dialogue,,0,0,0,,Punct pentru Misaki-senpai 1—
-Dialogue: 100,0:19:26.48,0:19:27.82,Dialogue,,0,0,0,,1-2!
-Dialogue: 100,0:19:35.44,0:19:36.40,Dialogue,,0,0,0,,Prea încet!
-Dialogue: 100,0:19:37.01,0:19:40.05,Dialogue,,0,0,0,,Punct pentru Misaki-senpai. 1-3.
-Dialogue: 100,0:19:41.16,0:19:43.62,Dialogue,,0,0,0,,Misaki-chan chiar este uimitoare.
-Dialogue: 100,0:19:43.62,0:19:45.80,Dialogue,,0,0,0,,Dar nu mă voi lăsa...
-Dialogue: 100,0:19:46.62,0:19:48.05,Dialogue,,0,0,0,,mai prejos!
-Dialogue: 100,0:19:48.87,0:19:50.87,Dialogue,,0,0,0,,Punct pentru Asuka-senpai!
-Dialogue: 100,0:19:51.22,0:19:52.71,Dialogue,,0,0,0,,Haide, Asuka!
-Dialogue: 100,0:19:54.42,0:19:55.25,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:20:03.45,0:20:04.47,Dialogue,,0,0,0,,Sunt atât de sus.
-Dialogue: 100,0:20:13.39,0:20:15.64,Dialogue,,0,0,0,,Aia este Delta Force?!
-Dialogue: 100,0:20:16.10,0:20:17.86,Dialogue,,0,0,0,,Asuka a folosit-o spontan?!
-Dialogue: 100,0:20:34.60,0:20:36.78,Dialogue,,0,0,0,,Ştii, mi-am dat seama de ceva.
-Dialogue: 100,0:20:37.79,0:20:41.26,Dialogue,,0,0,0,,Eram speriată deoarece am \Ngăsit ceva care să iau în serios—
-Dialogue: 100,0:20:41.26,0:20:43.93,Dialogue,,0,0,0,,ceva pentru care să mă dedic—pentru prima oară.
-Dialogue: 100,0:20:45.37,0:20:49.00,Dialogue,,0,0,0,,Şi eu cred că sunt puţin speriată.
-Dialogue: 100,0:20:49.00,0:20:49.89,Dialogue,,0,0,0,,Tu?
-Dialogue: 100,0:20:49.89,0:20:52.55,Dialogue,,0,0,0,,Singurul lucru din mintea mea...
-Dialogue: 100,0:20:53.57,0:20:55.40,Dialogue,,0,0,0,,este să privesc în sus şi să zbor.
-Dialogue: 100,0:20:56.10,0:20:59.40,Dialogue,,0,0,0,,Chiar cred că răspunsul este în cer.
-Dialogue: 100,0:21:00.98,0:21:02.33,Dialogue,,0,0,0,,Poate aşa este.
-Dialogue: 100,0:21:03.36,0:21:04.66,Dialogue,,0,0,0,,Misaki-senpai...
-Dialogue: 100,0:21:05.18,0:21:07.62,Dialogue,,0,0,0,,Ai câştigat. Ce vom face cu asta?
-Dialogue: 100,0:21:09.04,0:21:09.91,Dialogue,,0,0,0,,Ai un creion?
-Dialogue: 100,0:21:10.40,0:21:11.27,Dialogue,,0,0,0,,Poftim.
-Dialogue: 100,0:21:11.27,0:21:12.49,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:21:14.85,0:21:16.90,Dialogue,,0,0,0,,Asta ar trebui să meargă.
-Dialogue: 100,0:21:18.99,0:21:21.51,Dialogue,,0,0,0,,Nu mă "reîntoc". Mă alătur din nou.
-Dialogue: 100,0:21:21.90,0:21:23.10,Dialogue,,0,0,0,,Ah.
-Dialogue: 100,0:21:23.10,0:21:25.17,Dialogue,,0,0,0,,Deci tu eşti cel mai nou membru!
-Dialogue: 100,0:21:25.17,0:21:26.25,Dialogue,,0,0,0,,Oh, presupun.
-Dialogue: 100,0:21:26.25,0:21:28.69,Dialogue,,0,0,0,,Spune-mi "Mashiro-senpai" de azi înainte.
-Dialogue: 100,0:21:28.69,0:21:29.65,Dialogue,,0,0,0,,În visele tale.
-Dialogue: 100,0:21:31.52,0:21:38.36,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Zboară de-a lungul cerului înstelat cu aripile tale unice
-Dialogue: 100,0:21:36.05,0:21:38.47,Dialogue,,0,0,0,,Oh, deci asta este "Jephyrion"?
-Dialogue: 100,0:21:38.36,0:21:44.12,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Răspunsul tău este cu siguranţă în cer
-Dialogue: 100,0:21:38.47,0:21:42.27,Dialogue,,0,0,0,,Nu pronunţi corect, Senpai. \NÎn felul acesta nu poţi să Zephyr.
-Dialogue: 100,0:21:43.29,0:21:46.34,Dialogue,,0,0,0,,Deci acea aripă a ta era a lui Jephyrion, Asuka?
-Dialogue: 100,0:21:44.12,0:21:50.78,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Străpunge întunericul şi lumea fără de sfârşit
-Dialogue: 100,0:21:46.34,0:21:47.95,Dialogue,,0,0,0,,Încă nu pronunţi corect.
-Dialogue: 100,0:21:48.32,0:21:51.20,Dialogue,,0,0,0,,Un băiat de pe insula asta \Nmi-a dat-o când eram mică.
-Dialogue: 100,0:21:50.78,0:21:58.80,Asuka Song,,0,0,0,,{\fad(150,150)\blur2} Fie ca dorinţele tale să strălucească veşnic, Stăpân al Cerurilor, Zephyrion!
-Dialogue: 100,0:21:51.20,0:21:52.80,Dialogue,,0,0,0,,Un băiat de pe insula asta?
-Dialogue: 100,0:21:52.80,0:21:54.14,Dialogue,,0,0,0,,Cine ar putea fi?
-Dialogue: 100,0:21:54.14,0:21:57.21,Dialogue,,0,0,0,,Hmm, o versiune feminină a antrenorului.
-Dialogue: 100,0:21:57.72,0:21:58.75,Dialogue,,0,0,0,,Îngrozitor!
-Dialogue: 100,0:21:58.75,0:22:01.26,Dialogue,,0,0,0,,Păi, a fost acum mult timp.
-Dialogue: 100,0:22:01.26,0:22:06.23,Dialogue,,0,0,0,,Stai, cred că am jucat odată împotriva unui copil similar într-un meci de AZ.
-Dialogue: 100,0:22:06.23,0:22:08.44,Dialogue,,0,0,0,,Poate a fost aceeaşi persoană?
-Dialogue: 100,0:22:10.06,0:22:11.85,Dialogue,,0,0,0,,Cine ştie?
-Dialogue: 100,0:22:12.33,0:22:13.80,Dialogue,,0,0,0,,Şi cui îi pasă?
-Dialogue: 100,0:23:46.32,0:23:48.67,Dialogue,,0,0,0,,AZ-ul nostru este frumos.
-Dialogue: 100,0:23:48.67,0:23:50.38,Dialogue,,0,0,0,,6 AM? Pe bune?
-Dialogue: 100,0:23:50.38,0:23:51.78,Dialogue,,0,0,0,,Antrenorule?!
-Dialogue: 100,0:23:51.78,0:23:54.14,Dialogue,,0,0,0,,Şi asta este pentru AZ?
+Dialogue: 99,0:00:22.83,0:00:27.00,Dialogue,,0,0,0,,Cum se face că tu îi duci fişele lui Asuka-senpai?
+Dialogue: 99,0:00:27.42,0:00:29.29,Dialogue,,0,0,0,,Ce mai contează?
+Dialogue: 99,0:00:29.29,0:00:31.71,Dialogue,,0,0,0,,Nu ai antrenament deoarece plouă, nu-i aşa?
+Dialogue: 99,0:00:31.71,0:00:33.13,Dialogue,,0,0,0,,Vino cu mine, fato.
+Dialogue: 99,0:00:34.66,0:00:37.16,Dialogue,,0,0,0,,Îmi ceri să fiu fata ta?
+Dialogue: 99,0:00:37.16,0:00:38.64,Dialogue,,0,0,0,,Să mergem.
+Dialogue: 99,0:00:38.64,0:00:42.27,Dialogue,,0,0,0,,Misaki-senpai, răspunsul meu este evident "da"!
+Dialogue: 99,0:00:43.42,0:00:49.52,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Răspunsul tău este cu singuranţă în cer!
+Dialogue: 99,0:00:48.33,0:00:49.52,Dialogue,,0,0,0,,Această voce...
+Dialogue: 99,0:00:49.52,0:00:55.65,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Străpunge întunericul şi lumea fără de sfârşit...
+Dialogue: 99,0:00:50.77,0:00:51.81,Dialogue,,0,0,0,,Asuka?
+Dialogue: 99,0:00:52.60,0:00:54.53,Dialogue,,0,0,0,,Cântă.
+Dialogue: 99,0:00:55.65,0:00:59.95,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Fie ca dorinţele tale să strălucească veşnic,
+Dialogue: 99,0:00:59.95,0:01:04.01,Asuka Song,,0,0,0,,{\blur2\fad(150,400)}Stăpân al Cerurilor, Zephyrion!
+Dialogue: 99,0:02:38.10,0:02:39.51,Dialogue,,0,0,0,,Mă simt de parcă n-am făcut nimic.
+Dialogue: 99,0:02:39.51,0:02:42.61,Dialogue,,0,0,0,,Acela a fost cântecul tematic de la "Zephyrion".
+Dialogue: 99,0:02:42.61,0:02:43.68,Dialogue,,0,0,0,,Ce este "Zephyrion"?
+Dialogue: 99,0:02:43.98,0:02:46.27,Dialogue,,0,0,0,,Un anime cu roboţi care era difuzat când am fost copii.
+Dialogue: 99,0:02:46.27,0:02:49.28,Dialogue,,0,0,0,,Protagonistul slab şi bun de nimic—aşteaptă—
+Dialogue: 99,0:02:49.06,0:02:49.54,Alternative,,0,0,0,,Ce?
+Dialogue: 99,0:02:49.31,0:02:52.39,Dialogue,,0,0,0,,devine invincibil când pilotează Zephyrion!
+Dialogue: 99,0:02:53.23,0:02:54.36,Dialogue,,0,0,0,,Este de la Asuka.
+Dialogue: 99,0:02:54.72,0:02:57.77,Dialogue,,0,0,0,,"Mersi că mi-ai adus fişele.
+Dialogue: 99,0:02:57.77,0:02:59.36,Dialogue,,0,0,0,,Mi le-a dat mama.
+Dialogue: 99,0:02:59.36,0:03:01.27,Dialogue,,0,0,0,,Scuze că nu am observat că aţi venit."
+Dialogue: 99,0:03:01.27,0:03:03.10,Dialogue,,0,0,0,,Pot să-ţi împrumut telefonul o secundă?
+Dialogue: 99,0:03:03.10,0:03:03.78,Dialogue,,0,0,0,,De ce?
+Dialogue: 99,0:03:04.67,0:03:08.05,Dialogue,,0,0,0,,"Tocmai fredonai cântecul tematic de la "Zephyrion, nu-i aşa?"
+Dialogue: 99,0:03:08.05,0:03:09.51,Dialogue,,0,0,0,,Hai să Zephyr cândva.
+Dialogue: 99,0:03:13.48,0:03:14.67,Dialogue,,0,0,0,,A răspuns.
+Dialogue: 99,0:03:14.86,0:03:16.92,Dialogue,,0,0,0,,"Sigur! Zeph, zeph!"
+Dialogue: 99,0:03:16.92,0:03:19.25,Dialogue,,0,0,0,,"Zeph, zeph"? Pe bune, ce?
+Dialogue: 99,0:03:19.25,0:03:20.65,Dialogue,,0,0,0,,Cred că spune, "Da, da."
+Dialogue: 99,0:03:20.65,0:03:23.38,Dialogue,,0,0,0,,Nu asta voiam să spun. Presupun \Ncă nu aveam de ce să fiu îngrijorată.
+Dialogue: 99,0:03:27.36,0:03:29.20,Dialogue,,0,0,0,,Bună dimineaţa!
+Dialogue: 99,0:03:29.20,0:03:30.68,Dialogue,,0,0,0,,Oh, 'neaţa.
+Dialogue: 99,0:03:30.99,0:03:33.60,Dialogue,,0,0,0,,Pari în regulă. Ce bine.
+Dialogue: 99,0:03:33.60,0:03:36.21,Dialogue,,0,0,0,,Sunt. Scuze că v-am făcut să vă îngrijoraţi.
+Dialogue: 99,0:03:36.21,0:03:38.73,Dialogue,,0,0,0,,Misaki-chan, mersi pentru ieri.
+Dialogue: 99,0:03:39.09,0:03:41.28,Dialogue,,0,0,0,,Nici o problemă. 'Neaţa.
+Dialogue: 99,0:03:44.20,0:03:48.08,Dialogue,,0,0,0,,Îmi pare rău că nu am putut ajunge la antrenament ieri, noule căpitan.
+Dialogue: 99,0:03:48.08,0:03:50.05,Dialogue,,0,0,0,,Nu-ţi fie. Oricum a plouat.
+Dialogue: 99,0:03:50.05,0:03:53.16,Dialogue,,0,0,0,,Şi ai putea să nu mai spui "nou"?
+Dialogue: 99,0:03:53.50,0:03:54.45,Dialogue,,0,0,0,,'Neaţa.
+Dialogue: 99,0:03:54.45,0:03:56.59,Dialogue,,0,0,0,,Bună dimineaţa, antrenorule.
+Dialogue: 99,0:03:56.59,0:03:58.33,Dialogue,,0,0,0,,Eşti în regulă, Asuka?
+Dialogue: 99,0:03:58.33,0:04:01.21,Dialogue,,0,0,0,,Da. Scuze că te-am făcut să te îngrijorezi.
+Dialogue: 99,0:04:01.21,0:04:02.54,Dialogue,,0,0,0,,Crezi că te poţi antrena astăzi?
+Dialogue: 99,0:04:02.54,0:04:04.75,Dialogue,,0,0,0,,Da, sunt complet în regulă.
+Dialogue: 99,0:04:04.75,0:04:05.93,Dialogue,,0,0,0,,S-o facem!
+Dialogue: 99,0:04:05.93,0:04:07.91,Alternative,,0,0,0,,Nu trebuie să devii atât de agitată.
+Dialogue: 99,0:04:05.93,0:04:07.91,Dialogue,,0,0,0,,Asuka chiar este diferită.
+Dialogue: 99,0:04:07.91,0:04:10.31,Alternative,,0,0,0,,Nu! S-o facem, am spus!
+Dialogue: 99,0:04:08.93,0:04:10.46,Dialogue,,0,0,0,,În comparaţie cu mine.
+Dialogue: 99,0:04:10.31,0:04:12.11,Alternative,,0,0,0,,Tocmai ţi-ai revenit, deci ia-o uşor.
+Dialogue: 99,0:04:11.33,0:04:12.39,Dialogue,,0,0,0,,Crezi?
+Dialogue: 99,0:04:12.11,0:04:13.12,Alternative,,0,0,0,,Nu, nu!
+Dialogue: 99,0:04:13.12,0:04:16.42,Dialogue,,0,0,0,,Nu cred că voi rezista cinci ore fără să adorm dacă nu mă agit!
+Dialogue: 99,0:04:16.42,0:04:17.94,Dialogue,,0,0,0,,Asta este ceva ce tu ai spune.
+Dialogue: 99,0:04:23.35,0:04:25.57,Dialogue,,0,0,0,,A-Asuka-senpai?
+Dialogue: 99,0:04:28.35,0:04:32.07,Dialogue,,0,0,0,,S-Scuze. Nu pot zbura prea bine.
+Dialogue: 99,0:04:32.45,0:04:35.03,Italics,,0,0,0,,Fixează-ţi poziţia şi încearcă să zbori drept.
+Dialogue: 99,0:04:35.03,0:04:36.41,Dialogue,,0,0,0,,B-Bine!
+Dialogue: 99,0:04:39.18,0:04:41.68,Dialogue,,0,0,0,,Uh, apoi încearcă un yo-yo mare.
+Dialogue: 99,0:04:41.68,0:04:42.91,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:04:47.40,0:04:49.17,Dialogue,,0,0,0,,Apoi un yo-yo mic.
+Dialogue: 99,0:04:49.17,0:04:50.71,Dialogue,,0,0,0,,B-Bine!
+Dialogue: 99,0:04:55.26,0:04:56.09,Dialogue,,0,0,0,,Asuka?!
+Dialogue: 99,0:05:00.25,0:05:02.68,Dialogue,,0,0,0,,Mă întreb ce e în neregulă cu ea.
+Dialogue: 99,0:05:02.68,0:05:04.06,Dialogue,,0,0,0,,Vino aici, Asuka.
+Dialogue: 99,0:05:04.06,0:05:05.49,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:05:08.57,0:05:09.49,Dialogue,,0,0,0,,Asuka-chan.
+Dialogue: 99,0:05:13.63,0:05:16.62,Dialogue,,0,0,0,,Scuze. Nu sunt bună deloc.
+Dialogue: 99,0:05:16.96,0:05:20.75,Dialogue,,0,0,0,,Pe bune. Parcă ţi-ai pierdut toate datele salvate.
+Dialogue: 99,0:05:21.39,0:05:22.90,Dialogue,,0,0,0,,Da...
+Dialogue: 99,0:05:24.03,0:05:25.38,Dialogue,,0,0,0,,Mă întreb de ce.
+Dialogue: 99,0:05:27.02,0:05:29.17,Dialogue,,0,0,0,,Fă doar nişte întinderi şi opreşte-te aici pentru astăzi.
+Dialogue: 99,0:05:29.77,0:05:30.61,Dialogue,,0,0,0,,Antrenorule...
+Dialogue: 99,0:05:31.00,0:05:33.83,Dialogue,,0,0,0,,Încearcă să faci nişte antrenament \Nde închipuire odată ce ai ajuns acasă.
+Dialogue: 99,0:05:34.76,0:05:37.14,Dialogue,,0,0,0,,Imaginează-te zburând corect.
+Dialogue: 99,0:05:37.95,0:05:39.86,Dialogue,,0,0,0,,Şi încearcă din nou mâine.
+Dialogue: 99,0:05:41.27,0:05:42.63,Dialogue,,0,0,0,,Am înţeles.
+Dialogue: 99,0:05:43.65,0:05:45.58,Dialogue,,0,0,0,,La revedere!
+Dialogue: 99,0:05:48.61,0:05:49.82,Dialogue,,0,0,0,,Îmi pare rău.
+Dialogue: 99,0:05:50.04,0:05:55.23,Dialogue,,0,0,0,,Păi, se spune că şi cei mai buni \Nsportivi trec prin momente de criză.
+Dialogue: 99,0:06:01.08,0:06:10.24,Asuka Song,,0,0,0,,{\blur2\fad(150,150)}Chiar şi când încerc să aprind un foc şi să mă ridic din nou,
+Dialogue: 99,0:06:11.59,0:06:20.95,Asuka Song,,0,0,0,,{\fad(150,2739)\blur2}Îmi este reamintit de slăbiciunile mele.
+Dialogue: 99,0:06:30.51,0:06:31.50,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:06:34.40,0:06:35.66,Dialogue,,0,0,0,,Ce faci?
+Dialogue: 99,0:06:36.61,0:06:37.41,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:06:38.46,0:06:39.92,Dialogue,,0,0,0,,Zephyrion?
+Dialogue: 99,0:06:40.30,0:06:42.80,Dialogue,,0,0,0,,De unde eşti? Te-ai pierdut?
+Dialogue: 99,0:06:43.07,0:06:44.18,Dialogue,,0,0,0,,Eu...
+Dialogue: 99,0:06:44.83,0:06:46.66,Dialogue,,0,0,0,,Nu m-am pierdut.
+Dialogue: 99,0:06:47.54,0:06:48.26,Dialogue,,0,0,0,,Atunci ce este?
+Dialogue: 99,0:06:48.63,0:06:52.28,Dialogue,,0,0,0,,Sunt o fată plângăcioasă, \Nîmbufnată, slabă şi bună de nimic.
+Dialogue: 99,0:06:52.56,0:06:54.01,Dialogue,,0,0,0,,Asta nu este o replică din "Zephyrion"?
+Dialogue: 99,0:06:56.51,0:06:58.52,Dialogue,,0,0,0,,Hai să ne jucăm împreună, atunci.
+Dialogue: 99,0:07:00.58,0:07:01.53,Dialogue,,0,0,0,,Haide, să mergem.
+Dialogue: 99,0:07:02.31,0:07:03.40,Dialogue,,0,0,0,,Bine...
+Dialogue: 99,0:07:28.01,0:07:29.47,Dialogue,,0,0,0,,Pleci deja?
+Dialogue: 99,0:07:29.47,0:07:30.17,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:07:30.70,0:07:34.00,Dialogue,,0,0,0,,Dar tocmai ce am devenit prieteni...
+Dialogue: 99,0:07:37.53,0:07:38.69,Dialogue,,0,0,0,,Poţi avea asta.
+Dialogue: 99,0:07:40.68,0:07:41.93,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:07:41.93,0:07:43.15,Dialogue,,0,0,0,,Doar ia-o!
+Dialogue: 99,0:07:45.01,0:07:46.41,Dialogue,,0,0,0,,Mersi!
+Dialogue: 99,0:07:52.48,0:07:54.16,Dialogue,,0,0,0,,Linişteşte-te. Acea parte era deja stricată.
+Dialogue: 99,0:08:03.20,0:08:04.94,Dialogue,,0,0,0,,Ce tot faci?
+Dialogue: 99,0:08:09.77,0:08:13.13,Dialogue,,0,0,0,,Am auzit că nu puteai zbura, dar ai ajuns până aici.
+Dialogue: 99,0:08:13.53,0:08:14.76,Dialogue,,0,0,0,,Misaki-chan...
+Dialogue: 99,0:08:15.18,0:08:16.47,Dialogue,,0,0,0,,Hop.
+Dialogue: 99,0:08:16.75,0:08:19.49,Dialogue,,0,0,0,,Poftim, prânzul tău. L-ai lăsat în clasă.
+Dialogue: 99,0:08:19.77,0:08:22.07,Dialogue,,0,0,0,,Me-Mersi.
+Dialogue: 99,0:08:22.07,0:08:23.81,Dialogue,,0,0,0,,Cu plăcere.
+Dialogue: 99,0:08:29.72,0:08:31.02,Dialogue,,0,0,0,,Nu îl porţi, huh?
+Dialogue: 99,0:08:32.50,0:08:33.70,Dialogue,,0,0,0,,Acel ac de păr.
+Dialogue: 99,0:08:34.92,0:08:36.45,Dialogue,,0,0,0,,Dintr-un motiv,
+Dialogue: 99,0:08:36.92,0:08:38.98,Dialogue,,0,0,0,,am simţit că nu ar trebui s-o fac.
+Dialogue: 99,0:08:39.45,0:08:43.21,Dialogue,,0,0,0,,Aripile mele s-ar putea să nu fi fost ale mele.
+Dialogue: 99,0:08:43.88,0:08:46.96,Dialogue,,0,0,0,,Am vrut să zbor de când eram mică.
+Dialogue: 99,0:08:47.53,0:08:49.96,Dialogue,,0,0,0,,Am vrut să schimb fata slabă şi bună de nimic care eram.
+Dialogue: 99,0:08:49.96,0:08:53.57,Dialogue,,0,0,0,,Deci când am venit pe insula asta şi am zburat pentru prima oară,
+Dialogue: 99,0:08:53.57,0:08:55.30,Dialogue,,0,0,0,,am fost foarte fericită.
+Dialogue: 99,0:08:56.18,0:08:59.96,Dialogue,,0,0,0,,Am ales AZ, m-am antrenat din greu
+Dialogue: 99,0:08:59.96,0:09:02.64,Dialogue,,0,0,0,,şi am întâlnit o mulţime de oameni.
+Dialogue: 99,0:09:02.64,0:09:05.60,Dialogue,,0,0,0,,M-am distrat atât de mult.
+Dialogue: 99,0:09:06.98,0:09:11.07,Dialogue,,0,0,0,,Am găsit şi AZ-ul lui Inui incredibil.
+Dialogue: 99,0:09:11.60,0:09:14.27,Dialogue,,0,0,0,,Faptul că cineva era capabil să facă aia,
+Dialogue: 99,0:09:14.77,0:09:19.74,Dialogue,,0,0,0,,m-a făcut să simt că aş putea să zbor chiar mai sus.
+Dialogue: 99,0:09:21.58,0:09:25.76,Dialogue,,0,0,0,,Dar m-am lăsat pur şi simplu dusă de val, nu-i aşa?
+Dialogue: 99,0:09:26.90,0:09:31.09,Dialogue,,0,0,0,,Nu am putut face nimic în meciul cu Inui-san.
+Dialogue: 99,0:09:31.74,0:09:35.34,Dialogue,,0,0,0,,Nu m-am schimbat deloc. Încă eram fata \Nslabă şi bună de nimic care am fost mereu.
+Dialogue: 99,0:09:36.18,0:09:41.81,Dialogue,,0,0,0,,Aripile care m-au ajutat să zbor până acum, \Nle-am împrumutat doar, de la tine şi de la antrenor.
+Dialogue: 99,0:09:42.55,0:09:46.20,Dialogue,,0,0,0,,Deci am devenit speriată de slăbiciunile mele...
+Dialogue: 99,0:09:46.20,0:09:48.10,Dialogue,,0,0,0,,...şi nu ai mai putut zbura, huh?
+Dialogue: 99,0:09:49.96,0:09:50.98,Dialogue,,0,0,0,,Înţeleg.
+Dialogue: 99,0:09:57.79,0:10:01.35,Dialogue,,0,0,0,,Antrenarea de una singură pare aşa inutilă.
+Dialogue: 99,0:10:01.35,0:10:05.62,Dialogue,,0,0,0,,Nu puteai face nimic. Asuka-san a spus că \Nvoia să continue antrenamentul de închipuire.
+Dialogue: 99,0:10:25.61,0:10:26.91,Dialogue,,0,0,0,,Asuka...
+Dialogue: 99,0:11:02.28,0:11:03.39,Dialogue,,0,0,0,,Eu...
+Dialogue: 99,0:11:04.08,0:11:06.04,Dialogue,,0,0,0,,Ce fac aici?
+Dialogue: 99,0:11:06.04,0:11:07.68,Dialogue,,0,0,0,,Despre ce vorbeşti?
+Dialogue: 99,0:11:07.95,0:11:11.80,Dialogue,,0,0,0,,Stăteai în faţa casei mele \Navând o privire goală pe faţă.
+Dialogue: 99,0:11:11.80,0:11:13.57,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:11:13.57,0:11:17.73,Dialogue,,0,0,0,,Voiam să-ţi răspund la mesaj, dar am rămas fără baterie.
+Dialogue: 99,0:11:17.73,0:11:19.45,Dialogue,,0,0,0,,{\fad(1,1440)}Nu am ştiut ce să fac şi înainte să-mi dau seama...
+Dialogue: 99,0:11:19.82,0:11:24.36,Dialogue,,0,0,0,,Îţi este caracteristic să apari în persoană ca să răspunzi.
+Dialogue: 99,0:11:25.26,0:11:26.70,Dialogue,,0,0,0,,Ştii...
+Dialogue: 99,0:11:26.70,0:11:28.90,Dialogue,,0,0,0,,De ce eşti aici, Mashiro?
+Dialogue: 99,0:11:28.90,0:11:33.70,Dialogue,,0,0,0,,Deoarece mi-ai spus că \NAsuka-senpai era la tine acasă.
+Dialogue: 99,0:11:33.70,0:11:35.88,Dialogue,,0,0,0,,Deci am venit aici cât de repede am putut.
+Dialogue: 99,0:11:35.88,0:11:39.48,Dialogue,,0,0,0,,Cu siguranţă nu sunt aici ca să profit de situaţie
+Dialogue: 99,0:11:39.48,0:11:42.58,Dialogue,,0,0,0,,şi să gust din mâncărurile tale!
+Dialogue: 99,0:11:42.58,0:11:44.85,Dialogue,,0,0,0,,Scuze că te-am făcut să te îngrijorezi.
+Dialogue: 99,0:11:44.85,0:11:46.13,Dialogue,,0,0,0,,Atunci să mâncăm.
+Dialogue: 99,0:11:46.13,0:11:48.27,Dialogue,,0,0,0,,Da, să mâncăm!
+Dialogue: 99,0:11:48.27,0:11:50.10,Dialogue,,0,0,0,,Să mâncăm.
+Dialogue: 99,0:11:50.57,0:11:52.98,Dialogue,,0,0,0,,Am încercat să fac gyoza astăzi.
+Dialogue: 99,0:11:52.98,0:11:56.41,Dialogue,,0,0,0,,Cu găluşte de peşte zburător \Nşi o grămadă de stoc zburător.
+Dialogue: 99,0:11:56.41,0:11:58.05,Dialogue,,0,0,0,,Este grozav!
+Dialogue: 99,0:11:58.05,0:12:00.21,Dialogue,,0,0,0,,Gyoza-ul tău cu peşte zburător făcut cu iubire este pur şi simplu divin!
+Dialogue: 99,0:12:00.21,0:12:01.70,Dialogue,,0,0,0,,Nu a fost pic de iubire.
+Dialogue: 99,0:12:01.70,0:12:02.82,Dialogue,,0,0,0,,As-Asta este...
+Dialogue: 99,0:12:03.22,0:12:05.31,Dialogue,,0,0,0,,...delicios, nu-i aşa?
+Dialogue: 99,0:12:07.26,0:12:09.26,Dialogue,,0,0,0,,Este foarte bun.
+Dialogue: 99,0:12:11.91,0:12:12.88,Dialogue,,0,0,0,,Asuka.
+Dialogue: 99,0:12:12.88,0:12:14.13,Dialogue,,0,0,0,,D-Da?
+Dialogue: 99,0:12:14.13,0:12:16.55,Dialogue,,0,0,0,,Rămâi peste noapte.
+Dialogue: 99,0:12:17.52,0:12:19.71,Dialogue,,0,0,0,,"R-Rămâi"...
+Dialogue: 99,0:12:20.58,0:12:23.52,Dialogue,,0,0,0,,Misaki-senpai...
+Dialogue: 99,0:12:23.52,0:12:28.73,Dialogue,,0,0,0,,Voi fi bucuroasă să-ţi fiu Mashiro perna personală de îmbrăţişat.
+Dialogue: 99,0:12:29.77,0:12:32.00,Dialogue,,0,0,0,,Ai putea să te grăbeşti şi să mănânci?
+Dialogue: 99,0:12:32.00,0:12:33.39,Dialogue,,0,0,0,,Trebuie să fac curat.
+Dialogue: 99,0:12:32.62,0:12:33.77,Alternative,,0,0,0,,Am înţeles!
+Dialogue: 99,0:12:36.61,0:12:38.26,Dialogue,,0,0,0,,Aşteaptă, Senpai!
+Dialogue: 99,0:12:38.26,0:12:40.34,Dialogue,,0,0,0,,Nu, nu poţi!
+Dialogue: 99,0:12:40.34,0:12:41.11,Dialogue,,0,0,0,,Te rog...
+Dialogue: 99,0:12:44.63,0:12:46.13,Dialogue,,0,0,0,,Doamne.
+Dialogue: 99,0:12:46.13,0:12:47.87,Dialogue,,0,0,0,,Ascultă, îmi pare rău.
+Dialogue: 99,0:12:48.54,0:12:51.14,Dialogue,,0,0,0,,Am sfârşit prin a-ţi cauza probleme.
+Dialogue: 99,0:12:51.59,0:12:53.04,Dialogue,,0,0,0,,Aşa este.
+Dialogue: 99,0:12:58.31,0:12:59.17,Dialogue,,0,0,0,,De ce?
+Dialogue: 99,0:13:00.41,0:13:02.17,Dialogue,,0,0,0,,De ce îţi iei liber?
+Dialogue: 99,0:13:02.88,0:13:04.21,Dialogue,,0,0,0,,Păi...
+Dialogue: 99,0:13:05.35,0:13:07.78,Dialogue,,0,0,0,,Dar tu?
+Dialogue: 99,0:13:07.78,0:13:08.83,Dialogue,,0,0,0,,Eu?
+Dialogue: 99,0:13:09.93,0:13:11.29,Dialogue,,0,0,0,,Eu...
+Dialogue: 99,0:13:12.59,0:13:15.13,Dialogue,,0,0,0,,Foarte atrăgătoare, indiferent de câte ori mă uit!
+Dialogue: 99,0:13:17.41,0:13:19.57,Dialogue,,0,0,0,,Pleacă din dulap, Mashiro.
+Dialogue: 99,0:13:19.57,0:13:22.76,Dialogue,,0,0,0,,Ce? Nu sunt bine primită aici?
+Dialogue: 99,0:13:22.76,0:13:26.13,Dialogue,,0,0,0,,Mă simt ca o pisică abandonată chiar acum.
+Dialogue: 99,0:13:26.13,0:13:27.42,Dialogue,,0,0,0,,Da, te abandonez.
+Dialogue: 99,0:13:27.42,0:13:28.77,Dialogue,,0,0,0,,Ack!
+Dialogue: 99,0:13:29.11,0:13:32.41,Dialogue,,0,0,0,,Bine. Din moment ce sunt o pacoste, voi pleca.
+Dialogue: 99,0:13:29.35,0:13:31.58,Alternative,,0,0,0,,Ieşi, ieşi.
+Dialogue: 99,0:13:32.41,0:13:34.98,Dialogue,,0,0,0,,Sunteţi libere să flirtaţi cât doriţi.
+Dialogue: 99,0:13:37.54,0:13:40.74,Dialogue,,0,0,0,,De unde a scos aceste fotografii?
+Dialogue: 99,0:13:40.74,0:13:42.06,Dialogue,,0,0,0,,Şi eu vreau să văd!
+Dialogue: 99,0:13:42.06,0:13:43.05,Dialogue,,0,0,0,,Hei, aşteaptă.
+Dialogue: 99,0:13:46.65,0:13:48.86,Dialogue,,0,0,0,,Cine e acest băiat?
+Dialogue: 99,0:13:48.86,0:13:49.80,Dialogue,,0,0,0,,Eu.
+Dialogue: 99,0:13:50.53,0:13:51.75,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:13:52.84,0:13:55.31,Dialogue,,0,0,0,,Eram confundată drept \Nbăiat des, deci m-am obişnuit.
+Dialogue: 99,0:13:56.38,0:13:57.58,Dialogue,,0,0,0,,Pantofi Grav?
+Dialogue: 99,0:13:57.58,0:13:59.43,Dialogue,,0,0,0,,I-am primit cadou de ziua mea.
+Dialogue: 99,0:13:59.43,0:14:01.56,Dialogue,,0,0,0,,Eram aşa fericită încât continuam să zbor peste tot de una singură.
+Dialogue: 99,0:14:01.82,0:14:03.93,Dialogue,,0,0,0,,După un timp, asta nu mai era de ajuns,
+Dialogue: 99,0:14:03.93,0:14:06.07,Dialogue,,0,0,0,,deci provocam oameni la întâmplare.
+Dialogue: 99,0:14:06.43,0:14:08.32,Dialogue,,0,0,0,,Se pare că te distrai.
+Dialogue: 99,0:14:08.83,0:14:11.54,Dialogue,,0,0,0,,Dar m-am plicitisit uşor, ştii.
+Dialogue: 99,0:14:11.54,0:14:15.33,Dialogue,,0,0,0,,Înainte să-mi dau seama, am încetat \Nsă-mi mai pese de Arena Zburătoare.
+Dialogue: 99,0:14:16.16,0:14:19.69,Dialogue,,0,0,0,,După ce ai apărut tu, am început să joc din nou dintr-un moft.
+Dialogue: 99,0:14:24.78,0:14:26.05,Dialogue,,0,0,0,,Dar de data asta,
+Dialogue: 99,0:14:26.56,0:14:27.55,Dialogue,,0,0,0,,am fugit.
+Dialogue: 99,0:14:29.46,0:14:32.89,Dialogue,,0,0,0,,Am crezut că am luptat bine împotriva lui Shindou-san,
+Dialogue: 99,0:14:32.89,0:14:34.47,Dialogue,,0,0,0,,dar nu a fost aşa deloc.
+Dialogue: 99,0:14:34.99,0:14:37.60,Dialogue,,0,0,0,,Dar el a devenit serios împotriva ta.
+Dialogue: 99,0:14:38.02,0:14:39.34,Dialogue,,0,0,0,,Am fost aşa supărată.
+Dialogue: 99,0:14:39.78,0:14:41.61,Dialogue,,0,0,0,,Nu am putut înţelege de ce.
+Dialogue: 99,0:14:42.22,0:14:44.53,Dialogue,,0,0,0,,Şi apoi el a pierdut meciul împotriva lui Inui-san.
+Dialogue: 99,0:14:45.11,0:14:48.14,Dialogue,,0,0,0,,Nu am vrut să cred.
+Dialogue: 99,0:14:48.14,0:14:51.32,Dialogue,,0,0,0,,M-am întrebat, "Asta ce mă \Nface pe mine"? Şi m-am speriat.
+Dialogue: 99,0:14:53.76,0:14:55.20,Dialogue,,0,0,0,,Dar tu...
+Dialogue: 99,0:14:56.41,0:14:58.31,Dialogue,,0,0,0,,Ai spus că a fost incredibil.
+Dialogue: 99,0:15:00.14,0:15:01.33,Dialogue,,0,0,0,,Nu te-am putut înţelege.
+Dialogue: 99,0:15:02.05,0:15:04.16,Dialogue,,0,0,0,,M-am simţit de parcă tu erai la un alt nivel.
+Dialogue: 99,0:15:06.21,0:15:10.34,Dialogue,,0,0,0,,Chiar şi după ce a pierdut aşa urât, \NShindou-san nu s-a lăsat deranjat de asta.
+Dialogue: 99,0:15:11.03,0:15:12.80,Dialogue,,0,0,0,,De fapt, doar la făcut să fie mai motivat.
+Dialogue: 99,0:15:13.30,0:15:16.06,Dialogue,,0,0,0,,Deoarece frica de a pierde ceva arată că te bucuri de acel lucru.
+Dialogue: 99,0:15:17.38,0:15:19.71,Dialogue,,0,0,0,,Eu nu găsesc asta distractiv.
+Dialogue: 99,0:15:20.14,0:15:21.26,Dialogue,,0,0,0,,De asta...
+Dialogue: 99,0:15:22.11,0:15:23.81,Dialogue,,0,0,0,,am decis să renunţ.
+Dialogue: 99,0:15:24.31,0:15:25.81,Dialogue,,0,0,0,,Misaki-chan...
+Dialogue: 99,0:15:29.20,0:15:30.50,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:15:32.77,0:15:34.81,Dialogue,,0,0,0,,Sunt aşa jalnică.
+Dialogue: 99,0:15:34.81,0:15:36.04,Dialogue,,0,0,0,,Asta nu este adevărat!
+Dialogue: 99,0:15:36.38,0:15:38.20,Dialogue,,0,0,0,,Eşti uimitoare!
+Dialogue: 99,0:15:40.14,0:15:41.50,Dialogue,,0,0,0,,Scuze.
+Dialogue: 99,0:15:42.29,0:15:43.50,Dialogue,,0,0,0,,Asuka?
+Dialogue: 99,0:15:43.80,0:15:45.50,Dialogue,,0,0,0,,Vreau să spun,
+Dialogue: 99,0:15:45.96,0:15:50.19,Dialogue,,0,0,0,,tu eşti cea care m-a dus în lumea cerului.
+Dialogue: 99,0:15:50.76,0:15:56.51,Dialogue,,0,0,0,,Prinvindu-ţi frumoasa formă de zbor, \Nm-a făcut să-mi doresc să zbor ca tine.
+Dialogue: 99,0:15:57.36,0:15:59.01,Dialogue,,0,0,0,,Me-Mersi.
+Dialogue: 99,0:15:59.01,0:16:00.19,Dialogue,,0,0,0,,Oh, e în regulă.
+Dialogue: 99,0:16:04.09,0:16:05.87,Dialogue,,0,0,0,,Vei fi bine.
+Dialogue: 99,0:16:05.87,0:16:07.98,Dialogue,,0,0,0,,Eu ştiu că tu zbori cu propriile tale aripi.
+Dialogue: 99,0:16:08.50,0:16:09.74,Dialogue,,0,0,0,,Deşi nu am o dovadă.
+Dialogue: 99,0:16:09.74,0:16:11.49,Dialogue,,0,0,0,,Nu ai?
+Dialogue: 99,0:16:15.00,0:16:16.95,Dialogue,,0,0,0,,Uou, este foarte târziu.
+Dialogue: 99,0:16:16.95,0:16:18.30,Dialogue,,0,0,0,,Ar trebui să dormim?
+Dialogue: 99,0:16:18.30,0:16:19.37,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:16:20.11,0:16:21.66,Dialogue,,0,0,0,,Eu sunt Mashiro, prisica abandonată.
+Dialogue: 99,0:16:22.00,0:16:25.13,Dialogue,,0,0,0,,Presupun că nu vor veni să mă ia.
+Dialogue: 99,0:16:25.89,0:16:27.12,Dialogue,,0,0,0,,Doamne.
+Dialogue: 99,0:16:27.68,0:16:30.28,Dialogue,,0,0,0,,Nu că le învinuiesc.
+Dialogue: 99,0:16:33.80,0:16:40.68,Asuka Song,,0,0,0,,{\fad(300,150)\blur2}Zboară de-a lungul cerului înstelat cu aripile tale unice.
+Dialogue: 99,0:16:40.68,0:16:47.50,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Răspunsul tău este cu siguranţă în cer.
+Dialogue: 99,0:16:47.50,0:16:54.36,Asuka Song,,0,0,0,,{\fad(150,150)}Stăpunge întunericul şi lumea fără de sfârşit.
+Dialogue: 99,0:16:54.36,0:17:03.74,Asuka Song,,0,0,0,,{\fad(150,400)\blur2}Fie ca dorinţele tale să strălucească veşnic, Stăpân al Cerurilor, Zephyrion!
+Dialogue: 99,0:17:08.13,0:17:11.23,Dialogue,,0,0,0,,Voi aţi uitat de existenţa mea, nu-i aşa?
+Dialogue: 99,0:17:11.23,0:17:12.75,Dialogue,,0,0,0,,Oh, aşa este?
+Dialogue: 99,0:17:12.75,0:17:14.43,Dialogue,,0,0,0,,Eraţi în micuţa voastră lume, huh?
+Dialogue: 99,0:17:14.43,0:17:17.64,Dialogue,,0,0,0,,Of, scuze pentru că am fost a cincea roată—Mă ascultaţi?
+Dialogue: 99,0:17:17.64,0:17:20.18,Dialogue,,0,0,0,,Scuze, Mashiro-chan.
+Dialogue: 99,0:17:20.18,0:17:22.54,Dialogue,,0,0,0,,Ei bine, este în regulă.
+Dialogue: 99,0:17:39.72,0:17:42.09,Dialogue,,0,0,0,,Grăbiţi-vă sau vom întârzia!
+Dialogue: 99,0:17:42.09,0:17:43.45,Dialogue,,0,0,0,,Ştiu!
+Dialogue: 99,0:17:43.45,0:17:44.53,Dialogue,,0,0,0,,H-Hei!
+Dialogue: 99,0:17:44.53,0:17:46.62,Dialogue,,0,0,0,,Ce este? Mai puţină vorbă, mai mult spirit!
+Dialogue: 99,0:17:46.62,0:17:48.00,Dialogue,,0,0,0,,Misaki-chan!
+Dialogue: 99,0:17:48.00,0:17:49.59,Dialogue,,0,0,0,,C-Ce?
+Dialogue: 99,0:17:50.97,0:17:52.55,Dialogue,,0,0,0,,Înfruntă-mă...
+Dialogue: 99,0:17:53.68,0:17:55.09,Dialogue,,0,0,0,,într-un meci!
+Dialogue: 99,0:17:56.47,0:17:57.97,Dialogue,,0,0,0,,Asuka-senpai?
+Dialogue: 99,0:17:59.54,0:18:02.81,Dialogue,,0,0,0,,Răspunsul este în cer!
+Dialogue: 99,0:18:07.82,0:18:10.40,Dialogue,,0,0,0,,Stai, aia a fost doar o scrisoare de învoire?
+Dialogue: 99,0:18:10.77,0:18:14.99,Dialogue,,0,0,0,,Da. Am vrut să-mi iau o zi liberă.
+Dialogue: 99,0:18:17.11,0:18:18.75,Dialogue,,0,0,0,,Şi tu, Misaki?
+Dialogue: 99,0:18:18.75,0:18:21.12,Dialogue,,0,0,0,,Voi juca cu Asuka într-un meci acum.
+Dialogue: 99,0:18:21.12,0:18:23.91,Dialogue,,0,0,0,,Dacă pierd, mă voi întoarce.
+Dialogue: 99,0:18:25.01,0:18:27.83,Dialogue,,0,0,0,,"Răspunsul este în cer"? \NEşti prea naivă, Asuka.
+Dialogue: 99,0:18:28.44,0:18:31.14,Dialogue,,0,0,0,,Singurele lucruri care sunt acolo, sunt victoria şi înfrângerea.
+Dialogue: 99,0:18:31.14,0:18:33.53,Dialogue,,0,0,0,,Şi voi câştiga cu orice preţ.
+Dialogue: 99,0:18:33.91,0:18:35.42,Dialogue,,0,0,0,,Voi da tot ce pot.
+Dialogue: 99,0:18:40.15,0:18:43.57,Italics,,0,0,0,,Să fiu sinceră, sunt puţin \Nsperiată s-o înfrunt pe Asuka.
+Dialogue: 99,0:18:44.42,0:18:47.47,Italics,,0,0,0,,Dacă câştig, Misaki-chan se va întoarce în echipă.
+Dialogue: 99,0:18:47.47,0:18:49.19,Italics,,0,0,0,,Nu pot pierde.
+Dialogue: 99,0:18:49.19,0:18:50.60,Dialogue,,0,0,0,,Pe locuri...
+Dialogue: 99,0:18:50.60,0:18:51.49,Dialogue,,0,0,0,,Porniţi!
+Dialogue: 99,0:18:56.70,0:18:58.83,Dialogue,,0,0,0,,Poate zbura din nou!
+Dialogue: 99,0:18:58.83,0:19:01.03,Dialogue,,0,0,0,,Trebuie să-şi fi amintit modul ei de zbor.
+Dialogue: 99,0:19:02.45,0:19:04.35,Dialogue,,0,0,0,,Punct pentru Asuka-senpai!
+Dialogue: 99,0:19:07.22,0:19:08.39,Dialogue,,0,0,0,,Uite că vin!
+Dialogue: 99,0:19:11.23,0:19:12.17,Dialogue,,0,0,0,,Nu vei trece de mine!
+Dialogue: 99,0:19:13.68,0:19:14.52,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:19:15.33,0:19:17.46,Dialogue,,0,0,0,,Să ne luptăm, Misaki-chan!
+Dialogue: 99,0:19:17.46,0:19:23.24,Dialogue,,0,0,0,,Asuka, asta e replica mea!
+Dialogue: 99,0:19:23.85,0:19:26.48,Dialogue,,0,0,0,,Punct pentru Misaki-senpai 1—
+Dialogue: 99,0:19:26.48,0:19:27.82,Dialogue,,0,0,0,,1-2!
+Dialogue: 99,0:19:35.44,0:19:36.40,Dialogue,,0,0,0,,Prea încet!
+Dialogue: 99,0:19:37.01,0:19:40.05,Dialogue,,0,0,0,,Punct pentru Misaki-senpai. 1-3.
+Dialogue: 99,0:19:41.16,0:19:43.62,Dialogue,,0,0,0,,Misaki-chan chiar este uimitoare.
+Dialogue: 99,0:19:43.62,0:19:45.80,Dialogue,,0,0,0,,Dar nu mă voi lăsa...
+Dialogue: 99,0:19:46.62,0:19:48.05,Dialogue,,0,0,0,,mai prejos!
+Dialogue: 99,0:19:48.87,0:19:50.87,Dialogue,,0,0,0,,Punct pentru Asuka-senpai!
+Dialogue: 99,0:19:51.22,0:19:52.71,Dialogue,,0,0,0,,Haide, Asuka!
+Dialogue: 99,0:19:54.42,0:19:55.25,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:20:03.45,0:20:04.47,Dialogue,,0,0,0,,Sunt atât de sus.
+Dialogue: 99,0:20:13.39,0:20:15.64,Dialogue,,0,0,0,,Aia este Delta Force?!
+Dialogue: 99,0:20:16.10,0:20:17.86,Dialogue,,0,0,0,,Asuka a folosit-o spontan?!
+Dialogue: 99,0:20:34.60,0:20:36.78,Dialogue,,0,0,0,,Ştii, mi-am dat seama de ceva.
+Dialogue: 99,0:20:37.79,0:20:41.26,Dialogue,,0,0,0,,Eram speriată deoarece am \Ngăsit ceva care să iau în serios—
+Dialogue: 99,0:20:41.26,0:20:43.93,Dialogue,,0,0,0,,ceva pentru care să mă dedic—pentru prima oară.
+Dialogue: 99,0:20:45.37,0:20:49.00,Dialogue,,0,0,0,,Şi eu cred că sunt puţin speriată.
+Dialogue: 99,0:20:49.00,0:20:49.89,Dialogue,,0,0,0,,Tu?
+Dialogue: 99,0:20:49.89,0:20:52.55,Dialogue,,0,0,0,,Singurul lucru din mintea mea...
+Dialogue: 99,0:20:53.57,0:20:55.40,Dialogue,,0,0,0,,este să privesc în sus şi să zbor.
+Dialogue: 99,0:20:56.10,0:20:59.40,Dialogue,,0,0,0,,Chiar cred că răspunsul este în cer.
+Dialogue: 99,0:21:00.98,0:21:02.33,Dialogue,,0,0,0,,Poate aşa este.
+Dialogue: 99,0:21:03.36,0:21:04.66,Dialogue,,0,0,0,,Misaki-senpai...
+Dialogue: 99,0:21:05.18,0:21:07.62,Dialogue,,0,0,0,,Ai câştigat. Ce vom face cu asta?
+Dialogue: 99,0:21:09.04,0:21:09.91,Dialogue,,0,0,0,,Ai un creion?
+Dialogue: 99,0:21:10.40,0:21:11.27,Dialogue,,0,0,0,,Poftim.
+Dialogue: 99,0:21:11.27,0:21:12.49,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:21:14.85,0:21:16.90,Dialogue,,0,0,0,,Asta ar trebui să meargă.
+Dialogue: 99,0:21:18.99,0:21:21.51,Dialogue,,0,0,0,,Nu mă "reîntoc". Mă alătur din nou.
+Dialogue: 99,0:21:21.90,0:21:23.10,Dialogue,,0,0,0,,Ah.
+Dialogue: 99,0:21:23.10,0:21:25.17,Dialogue,,0,0,0,,Deci tu eşti cel mai nou membru!
+Dialogue: 99,0:21:25.17,0:21:26.25,Dialogue,,0,0,0,,Oh, presupun.
+Dialogue: 99,0:21:26.25,0:21:28.69,Dialogue,,0,0,0,,Spune-mi "Mashiro-senpai" de azi înainte.
+Dialogue: 99,0:21:28.69,0:21:29.65,Dialogue,,0,0,0,,În visele tale.
+Dialogue: 99,0:21:31.52,0:21:38.36,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Zboară de-a lungul cerului înstelat cu aripile tale unice
+Dialogue: 99,0:21:36.05,0:21:38.47,Dialogue,,0,0,0,,Oh, deci asta este "Jephyrion"?
+Dialogue: 99,0:21:38.36,0:21:44.12,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Răspunsul tău este cu siguranţă în cer
+Dialogue: 99,0:21:38.47,0:21:42.27,Dialogue,,0,0,0,,Nu pronunţi corect, Senpai. \NÎn felul acesta nu poţi să Zephyr.
+Dialogue: 99,0:21:43.29,0:21:46.34,Dialogue,,0,0,0,,Deci acea aripă a ta era a lui Jephyrion, Asuka?
+Dialogue: 99,0:21:44.12,0:21:50.78,Asuka Song,,0,0,0,,{\fad(150,150)\blur2}Străpunge întunericul şi lumea fără de sfârşit
+Dialogue: 99,0:21:46.34,0:21:47.95,Dialogue,,0,0,0,,Încă nu pronunţi corect.
+Dialogue: 99,0:21:48.32,0:21:51.20,Dialogue,,0,0,0,,Un băiat de pe insula asta \Nmi-a dat-o când eram mică.
+Dialogue: 99,0:21:50.78,0:21:58.80,Asuka Song,,0,0,0,,{\fad(150,150)\blur2} Fie ca dorinţele tale să strălucească veşnic, Stăpân al Cerurilor, Zephyrion!
+Dialogue: 99,0:21:51.20,0:21:52.80,Dialogue,,0,0,0,,Un băiat de pe insula asta?
+Dialogue: 99,0:21:52.80,0:21:54.14,Dialogue,,0,0,0,,Cine ar putea fi?
+Dialogue: 99,0:21:54.14,0:21:57.21,Dialogue,,0,0,0,,Hmm, o versiune feminină a antrenorului.
+Dialogue: 99,0:21:57.72,0:21:58.75,Dialogue,,0,0,0,,Îngrozitor!
+Dialogue: 99,0:21:58.75,0:22:01.26,Dialogue,,0,0,0,,Păi, a fost acum mult timp.
+Dialogue: 99,0:22:01.26,0:22:06.23,Dialogue,,0,0,0,,Stai, cred că am jucat odată împotriva unui copil similar într-un meci de AZ.
+Dialogue: 99,0:22:06.23,0:22:08.44,Dialogue,,0,0,0,,Poate a fost aceeaşi persoană?
+Dialogue: 99,0:22:10.06,0:22:11.85,Dialogue,,0,0,0,,Cine ştie?
+Dialogue: 99,0:22:12.33,0:22:13.80,Dialogue,,0,0,0,,Şi cui îi pasă?
+Dialogue: 99,0:23:46.32,0:23:48.67,Dialogue,,0,0,0,,AZ-ul nostru este frumos.
+Dialogue: 99,0:23:48.67,0:23:50.38,Dialogue,,0,0,0,,6 AM? Pe bune?
+Dialogue: 99,0:23:50.38,0:23:51.78,Dialogue,,0,0,0,,Antrenorule?!
+Dialogue: 99,0:23:51.78,0:23:54.14,Dialogue,,0,0,0,,Şi asta este pentru AZ?
 Comment: 0,0:00:00.00,0:00:00.00,OP Romaji,,0,0,0,,Opening
 Comment: 0,0:00:00.00,0:00:00.00,OP Romaji,,0,0,0,template line,{\fad(200,200)\blur2}
 Comment: 0,0:00:00.00,0:00:00.00,OP Romaji,,0,0,0,template syl,{\fad(200,200)\pos($x,$y)\org($center,$middle)\bord0\blur2}{\r\t($start,$end,\fscx130\fscy110\c&HBA9C08&)\t($mid,$end,\alpha&HFF)}
@@ -408,18 +408,18 @@ Comment: 100,0:02:07.19,0:02:13.36,OP Romaji,,0,0,0,karaoke,{\k7}{\k21}to{\k17}b
 Comment: 100,0:02:13.36,0:02:18.28,OP Romaji,,0,0,0,karaoke,{\k5}{\k18}ho{\k14}ra {\k34}de{\k18}a{\k38}e{\k32}rut{\k36}te {\k13}ki{\k25}se{\k52}ki {\k54}gyut{\k18}to {\k17}chi{\k16}ka{\k22}dzu{\k17}i{\k56}ta{\k8}
 Comment: 100,0:02:18.28,0:02:25.12,OP Romaji,,0,0,0,karaoke,{\k20}{\k40}tsu{\k14}ma{\k22}sa{\k19}ki {\k77}de {\k43}no{\k41}zo{\k17}i{\k45}ta {\k45}mi{\k118}ra{\k29}i {\k147}ni{\k8}
 Comment: 100,0:02:25.75,0:02:33.71,OP Romaji,,0,0,0,karaoke,{\k12}{\k35}sot{\k28}to {\k26}hi{\k18}ku {\k69}con{\k126}trail {\k54}yu{\k35}me {\k35}no {\k364}rain{\k0}
-Dialogue: 100,0:01:30.27,0:01:34.78,OP Română,,0,0,0,,{\blur3\fad(200,200)}Vântul şi păsările
-Dialogue: 100,0:01:34.78,0:01:37.61,OP Română,,0,0,0,,{\blur3\fad(200,200)}Îmi mângâie părul de parcă mă invită în cer
-Dialogue: 100,0:01:37.61,0:01:40.91,OP Română,,0,0,0,,{\blur3\fad(200,200)}Şi îmi fură atenţia
-Dialogue: 100,0:01:41.66,0:01:46.04,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aşa cum soarele îmi arde obrajii
-Dialogue: 100,0:01:46.04,0:01:48.92,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aş putea să mă uit la cer
-Dialogue: 100,0:01:48.92,0:01:52.46,OP Română,,0,0,0,,{\blur3\fad(200,200)}Doar dacă aş putea să zbor ca ele
-Dialogue: 100,0:01:52.92,0:02:00.76,OP Română,,0,0,0,,{\blur3\fad(200,200)}Ciuleşte-ţi urechile şi ascultă fluierul începutului
-Dialogue: 100,0:02:00.76,0:02:06.60,OP Română,,0,0,0,,{\blur3\fad(200,200)}Mişcă aripile inimii mele, \Nîn timp ce răsună prin cerul albastru
-Dialogue: 100,0:02:07.19,0:02:13.36,OP Română,,0,0,0,,{\blur3\fad(200,200)}Să zburăm pe lângă aceste zile monotone şi plictisitoare
-Dialogue: 100,0:02:13.36,0:02:18.28,OP Română,,0,0,0,,{\blur3\fad(200,200)}Miracolul pe care-l căutam este exact în faţă
-Dialogue: 100,0:02:18.28,0:02:25.12,OP Română,,0,0,0,,{\blur3\fad(200,200)}Cu el putem atinge viitorul la care visam
-Dialogue: 100,0:02:25.75,0:02:33.71,OP Română,,0,0,0,,{\blur3\fad(200,200)}Se află dincolo de vârful degetelor noastre
+Dialogue: 99,0:01:30.27,0:01:34.78,OP Română,,0,0,0,,{\blur3\fad(200,200)}Vântul şi păsările
+Dialogue: 99,0:01:34.78,0:01:37.61,OP Română,,0,0,0,,{\blur3\fad(200,200)}Îmi mângâie părul de parcă mă invită în cer
+Dialogue: 99,0:01:37.61,0:01:40.91,OP Română,,0,0,0,,{\blur3\fad(200,200)}Şi îmi fură atenţia
+Dialogue: 99,0:01:41.66,0:01:46.04,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aşa cum soarele îmi arde obrajii
+Dialogue: 99,0:01:46.04,0:01:48.92,OP Română,,0,0,0,,{\blur3\fad(200,200)}Aş putea să mă uit la cer
+Dialogue: 99,0:01:48.92,0:01:52.46,OP Română,,0,0,0,,{\blur3\fad(200,200)}Doar dacă aş putea să zbor ca ele
+Dialogue: 99,0:01:52.92,0:02:00.76,OP Română,,0,0,0,,{\blur3\fad(200,200)}Ciuleşte-ţi urechile şi ascultă fluierul începutului
+Dialogue: 99,0:02:00.76,0:02:06.60,OP Română,,0,0,0,,{\blur3\fad(200,200)}Mişcă aripile inimii mele, \Nîn timp ce răsună prin cerul albastru
+Dialogue: 99,0:02:07.19,0:02:13.36,OP Română,,0,0,0,,{\blur3\fad(200,200)}Să zburăm pe lângă aceste zile monotone şi plictisitoare
+Dialogue: 99,0:02:13.36,0:02:18.28,OP Română,,0,0,0,,{\blur3\fad(200,200)}Miracolul pe care-l căutam este exact în faţă
+Dialogue: 99,0:02:18.28,0:02:25.12,OP Română,,0,0,0,,{\blur3\fad(200,200)}Cu el putem atinge viitorul la care visam
+Dialogue: 99,0:02:25.75,0:02:33.71,OP Română,,0,0,0,,{\blur3\fad(200,200)}Se află dincolo de vârful degetelor noastre
 Comment: 0,0:00:00.00,0:00:00.00,ED Romaji 1,,0,0,0,,Ending
 Comment: 0,0:00:00.00,0:00:00.00,ED Romaji 1,,0,0,0,template syl,{\pos($x,$y)\org(5000,$y)\blur3\fad(200,200)\3c&H891852&\c&HFFFFFF&\t($start,$mid,\c&HFFA6D3&)\t($start,$mid,\fscy110\fscx105\frz-0.1)\t($mid,$end,\fscx100\fscy100\frz0)}
 Comment: 0,0:00:00.00,0:00:00.00,ED Romaji 2,,0,0,0,template syl,{\pos($x,$y)\org(5000,$y)\blur3\fad(200,200)\3c&H4D34A9&\c&HFFFFFF&\t($start,$mid,\c&HC2B7F8&)\t($start,$mid,\fscx105\fscy110\frz-0.1)\t($mid,$end,\fscx100\fscy100\frz0)}
@@ -445,26 +445,26 @@ Comment: 100,0:23:26.45,0:23:29.92,ED Romaji 2,,0,0,0,karaoke,{\k13}{\k34}{\3c&H
 Comment: 100,0:23:29.92,0:23:33.55,ED Romaji 2,,0,0,0,karaoke,{\k21}{\k46}{\3c&H4D34A9&\c&HC2B7F8&}ki{\k23}mi {\k23}ga {\k22}ho{\k23}ho{\k45}e{\k42}mu {\k27}ka{\k77}ra{\k12}
 Comment: 100,0:23:33.55,0:23:40.72,ED Romaji 4,,0,0,0,karaoke,{\k21}{\k45}{\3c&HAF744D&\c&HFCECBC&}ni{\k24}gi{\k12}ri{\k30}shi{\k25}me{\k43}te{\k68}ta {\k23}te {\k43}wo {\k68}ip{\k46}pai {\k22}ni {\k47}hi{\k21}ro{\k150}ge{\k30}
 Comment: 100,0:23:40.72,0:23:44.31,ED Romaji 4,,0,0,0,karaoke,{\k24}{\k27}{\3c&HAF744D&\c&HFCECBC&}is{\k40}sho {\k21}ni {\k25}to{\k195}bou{\k27}
-Dialogue: 100,0:22:15.26,0:22:19.10,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Un nor singur, singuratic
-Dialogue: 100,0:22:19.10,0:22:21.76,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Pluteşte pe cerul la care mă uit
-Dialogue: 100,0:22:22.47,0:22:26.27,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vocile şi râsetele prietenilor mei devin îndepărtate
-Dialogue: 100,0:22:26.27,0:22:29.36,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Exact cum am fost eu astăzi
-Dialogue: 100,0:22:29.36,0:22:35.95,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Îmi ascund departe
-Dialogue: 100,0:22:35.95,0:22:43.08,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Micile mele oftaturi printre valuri
-Dialogue: 100,0:22:44.12,0:22:47.87,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aş putea s-o fac atât de bine astăzi
-Dialogue: 100,0:22:47.87,0:22:51.13,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Dar acum nici măcar nu-le pot ajunge
-Dialogue: 100,0:22:51.13,0:22:55.05,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Obişnuiai să nu se poată conta pe tine, dar acum ai devenit atât de puternică
-Dialogue: 100,0:22:55.05,0:22:58.01,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Culoarea cerului se schimbă şi ea
-Dialogue: 100,0:22:58.22,0:23:04.68,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vântul ştie foarte bine
-Dialogue: 100,0:23:04.68,0:23:11.94,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Ce înseamnă regretul şi tristeţea
-Dialogue: 100,0:23:11.94,0:23:15.53,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Să zburăm pe cer din nou
-Dialogue: 100,0:23:15.53,0:23:19.16,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aici începe totul
-Dialogue: 100,0:23:19.16,0:23:23.16,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Nu va fi la fel ca ieri
-Dialogue: 100,0:23:23.16,0:23:26.45,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Uite, priveliştea de aici continuă să se mărească
-Dialogue: 100,0:23:26.45,0:23:29.92,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Voi zbura peste obrajii tăi
-Dialogue: 100,0:23:29.92,0:23:33.55,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Pe care îi pot vedea aprobând în depărtare
-Dialogue: 100,0:23:33.55,0:23:40.72,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Întinde aceste mâini pe care le-ai împreunat
-Dialogue: 100,0:23:40.72,0:23:44.31,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Şi să zburăm împreună
+Dialogue: 99,0:22:15.26,0:22:19.10,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Un nor singur, singuratic
+Dialogue: 99,0:22:19.10,0:22:21.76,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H891852&\c&HFFA6D3&}Pluteşte pe cerul la care mă uit
+Dialogue: 99,0:22:22.47,0:22:26.27,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vocile şi râsetele prietenilor mei devin îndepărtate
+Dialogue: 99,0:22:26.27,0:22:29.36,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Exact cum am fost eu astăzi
+Dialogue: 99,0:22:29.36,0:22:35.95,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Îmi ascund departe
+Dialogue: 99,0:22:35.95,0:22:43.08,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H0046C5&\c&HBDD3FB&}Micile mele oftaturi printre valuri
+Dialogue: 99,0:22:44.12,0:22:47.87,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aş putea s-o fac atât de bine astăzi
+Dialogue: 99,0:22:47.87,0:22:51.13,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Dar acum nici măcar nu-le pot ajunge
+Dialogue: 99,0:22:51.13,0:22:55.05,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Obişnuiai să nu se poată conta pe tine, dar acum ai devenit atât de puternică
+Dialogue: 99,0:22:55.05,0:22:58.01,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Culoarea cerului se schimbă şi ea
+Dialogue: 99,0:22:58.22,0:23:04.68,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Vântul ştie foarte bine
+Dialogue: 99,0:23:04.68,0:23:11.94,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Ce înseamnă regretul şi tristeţea
+Dialogue: 99,0:23:11.94,0:23:15.53,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Să zburăm pe cer din nou
+Dialogue: 99,0:23:15.53,0:23:19.16,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Aici începe totul
+Dialogue: 99,0:23:19.16,0:23:23.16,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Nu va fi la fel ca ieri
+Dialogue: 99,0:23:23.16,0:23:26.45,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Uite, priveliştea de aici continuă să se mărească
+Dialogue: 99,0:23:26.45,0:23:29.92,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Voi zbura peste obrajii tăi
+Dialogue: 99,0:23:29.92,0:23:33.55,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&H4D34A9&\c&HC2B7F8&}Pe care îi pot vedea aprobând în depărtare
+Dialogue: 99,0:23:33.55,0:23:40.72,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Întinde aceste mâini pe care le-ai împreunat
+Dialogue: 99,0:23:40.72,0:23:44.31,ED Română,,0,0,0,,{\blur3\fad(200,200)\3c&HAF744D&\c&HFCECBC&}Şi să zburăm împreună
 Comment: 0,0:00:00.00,0:00:00.00,KazuyaShuuSign,,0,0,0,,
 Dialogue: 1,0:01:18.47,0:01:18.51,Show Title,,0,0,0,,{\pos(909.11,468.47)\fscx90.33\fscy96.19\fax-0.19\fsp1\bord3.32\c&HFEFFFF&\3c&HFF880A&\alpha&HA0&\blur8.85}Four Rhythm Across the Blue
 Dialogue: 2,0:01:18.47,0:01:18.51,Show Title,,0,0,0,,{\pos(909.11,468.47)\fscx90.33\fscy96.19\fax-0.19\fsp1\bord3.32\c&HFF880A&\3c&HFF880A&\4a&HFF&\blur3.98}Four Rhythm Across the Blue

@@ -38,339 +38,339 @@ Style: OP TL,Comme,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:11.22,0:00:14.99,Dialogue,,0,0,0,,{\i1}Puterea astrală, energia stranie care doarme adânc în străfundurile acestei planete.
-Dialogue: 100,0:00:16.60,0:00:19.39,Dialogue,,0,0,0,,{\i1}Forța ei era prea mare pentru oameni.
-Dialogue: 100,0:00:21.93,0:00:26.19,Dialogue,,0,0,0,,{\i1}Cei care o dețin erau temuți \Nca vrăjitoare sau magicieni,
-Dialogue: 100,0:00:26.19,0:00:30.60,Dialogue,,0,0,0,,{\i1}fiind asupriți... \Nde cei din Imperiu.
-Dialogue: 100,0:00:35.84,0:00:41.60,Dialogue,,0,0,0,,{\i1}Locul unde mulți oameni au fost răniți din cauza puterii astrale, Imperiul.
-Dialogue: 100,0:00:41.60,0:00:46.74,Dialogue,,0,0,0,,{\i1}Și paradisul care le-a rămas vrăjitoarelor inocente, Suveranitatea Nebulis.
-Dialogue: 100,0:00:47.48,0:00:50.19,Dialogue,,0,0,0,,{\i1}Destinul care a adus \Naceste două națiuni aici...
-Dialogue: 100,0:00:50.19,0:00:52.61,Dialogue,,0,0,0,,{\i1}este un drum fără de sfârșit al războiului.
-Dialogue: 100,0:00:52.61,0:00:55.49,Dialogue,,0,0,0,,{\i1}Voi pune capăt acestui război.
-Dialogue: 100,0:00:58.73,0:01:01.49,Dialogue,,0,0,0,,{\i1}Voi crea o lume fără asuprire.
-Dialogue: 100,0:01:02.37,0:01:04.12,Dialogue,,0,0,0,,{\i1}Și astfel...
-Dialogue: 100,0:01:04.12,0:01:07.90,Dialogue,,0,0,0,,{\i1}a început cruciada care ne va schimba lumea.
-Dialogue: 100,0:01:41.80,0:01:44.70,Dialogue,,0,0,0,,Banderola ta... \NEști un Discipol Sfânt?
-Dialogue: 100,0:01:49.56,0:01:51.87,Dialogue,,0,0,0,,De ce ar face un Discipol Sfânt una ca...
-Dialogue: 100,0:01:52.80,0:01:54.63,Dialogue,,0,0,0,,Haide. Trebuie să ne grăbim.
-Dialogue: 100,0:02:02.70,0:02:04.72,Dialogue,,0,0,0,,Poftim. Știu că nu este mult, dar...
-Dialogue: 100,0:02:06.88,0:02:08.00,Dialogue,,0,0,0,,Haide, du-te.
-Dialogue: 100,0:02:26.06,0:02:27.93,Dialogue,,0,0,0,,Ridică-ți capul.
-Dialogue: 100,0:02:29.12,0:02:32.08,Dialogue,,0,0,0,,Prizonier Iska. Vârstă: 16 ani.
-Dialogue: 100,0:02:32.08,0:02:35.77,Dialogue,,0,0,0,,Ești cel mai tânăr om din istorie care a primit titlul de Discipol Sfânt.
-Dialogue: 100,0:02:35.77,0:02:41.51,Dialogue,,0,0,0,,Dar, acum un an, ai fost judecat pentru că ai ajutat o vrăjitoare să evadeze.
-Dialogue: 100,0:02:42.09,0:02:45.80,Dialogue,,0,0,0,,Asta a atras drept consecință pierderea titlului de Discipol Sfânt.
-Dialogue: 100,0:02:45.80,0:02:47.81,Dialogue,,0,0,0,,Greșesc cumva?
-Dialogue: 100,0:02:47.81,0:02:48.63,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:02:48.63,0:02:52.27,Dialogue,,0,0,0,,Începând de astăzi, ești liber.
-Dialogue: 100,0:02:52.27,0:02:55.74,Dialogue,,0,0,0,,Luând în considerare faptul că națiunea noastră duce un război de 100 de ani cu vrăjitoarele,
-Dialogue: 100,0:02:55.74,0:02:59.00,Dialogue,,0,0,0,,acțiunile tale reprezintă o crimă gravă.
-Dialogue: 100,0:02:59.00,0:03:03.63,Dialogue,,0,0,0,,Dar ne-am decis să-ți oferim \Nșansa de a-ți îndrepta greșelile.
-Dialogue: 100,0:03:03.63,0:03:06.36,Dialogue,,0,0,0,,Îmi vom da o misiune.
-Dialogue: 100,0:03:06.36,0:03:09.50,Dialogue,,0,0,0,,Inamicii noștri străvechi se autointutilează acum magicieni astrali.
-Dialogue: 100,0:03:09.50,0:03:11.75,Dialogue,,0,0,0,,Treaba ta va fi să dobori o vrăjitoare.
-Dialogue: 100,0:03:11.75,0:03:14.11,Dialogue,,0,0,0,,Și nu orice vrăjitoare.
-Dialogue: 100,0:03:14.11,0:03:17.71,Dialogue,,0,0,0,,Ea este de "sânge pur", o descendentă directă a Măreței Vrăjitoare Nebulis.
-Dialogue: 100,0:03:17.71,0:03:22.42,Dialogue,,0,0,0,,În trecut, Măreața Vrăjitoare Nebulis ne-a transformat Imperiul într-o mare de flăcări.
-Dialogue: 100,0:03:22.42,0:03:25.34,Dialogue,,0,0,0,,Descendenții direcți sunt \Nnumiți de "sânge pur" și,
-Dialogue: 100,0:03:25.34,0:03:28.88,Dialogue,,0,0,0,,după cum știi, \Ndețin o putere astrală imensă.
-Dialogue: 100,0:03:28.88,0:03:31.94,Dialogue,,0,0,0,,Da, am purtat multe bătălii împotriva lor.
-Dialogue: 100,0:03:31.94,0:03:37.65,Dialogue,,0,0,0,,Ținta ta este cea mai puternică vrăjitoare, \Nși anume, Vrăjitoarea Calamității de Gheață.
-Dialogue: 100,0:03:38.09,0:03:39.75,Dialogue,,0,0,0,,Vrăjitoarea Calamității de Gheață...
-Dialogue: 100,0:03:43.82,0:03:46.32,Dialogue,,0,0,0,,Urmaș al Oțelului Negru, Iska.
-Dialogue: 100,0:03:46.32,0:03:49.50,Dialogue,,0,0,0,,Din acest moment, ești liber.
-Dialogue: 100,0:03:49.50,0:03:53.42,Dialogue,,0,0,0,,Îți vom oferi un mijloc de transport care te va duce pe frontul de luptă în 17 ore.
-Dialogue: 100,0:03:53.42,0:03:55.96,Dialogue,,0,0,0,,Îți vom da tot ce ai nevoie.
-Dialogue: 100,0:03:57.93,0:04:00.45,Dialogue,,0,0,0,,Există trei persoane pe \Ncare le vreau în divizia mea.
-Dialogue: 100,0:04:05.58,0:04:08.61,Dialogue,,0,0,0,,Nene, unde ar trebui să stăm?
-Dialogue: 100,0:04:08.61,0:04:12.26,Dialogue,,0,0,0,,Nene, încă nu ne-am primit mâncarea comandată.
-Dialogue: 100,0:04:12.26,0:04:13.76,Dialogue,,0,0,0,,Nene!
-Dialogue: 100,0:04:13.76,0:04:15.47,Dialogue,,0,0,0,,Da, da!
-Dialogue: 100,0:04:16.94,0:04:18.40,Dialogue,,0,0,0,,Vin acum!
-Dialogue: 100,0:04:22.97,0:04:24.96,Dialogue,,0,0,0,,Bun-venit!
-Dialogue: 100,0:04:28.89,0:04:30.74,Dialogue,,0,0,0,,Jhin?!
-Dialogue: 100,0:04:31.49,0:04:34.62,Dialogue,,0,0,0,,Mă bucur că ai venit! \NEști aici ca să mă vezi?
-Dialogue: 100,0:04:34.62,0:04:37.67,Dialogue,,0,0,0,,Nu a trecut așa mult timp de \Ncând ne-am văzut ultima oară.
-Dialogue: 100,0:04:37.67,0:04:42.21,Dialogue,,0,0,0,,A fost eliberat. S-a întors la cămin ca să termine cu pregătirile repede.
-Dialogue: 100,0:04:42.97,0:04:45.20,Dialogue,,0,0,0,,Stai, nu vrei să spui că...
-Dialogue: 100,0:04:45.20,0:04:47.58,Dialogue,,0,0,0,,Plecâm mâine dimineață la ora zero.
-Dialogue: 100,0:04:47.58,0:04:49.43,Dialogue,,0,0,0,,Ne vom îndrepta spre frontul \Nde luptă într-un vehicul.
-Dialogue: 100,0:04:49.43,0:04:52.35,Dialogue,,0,0,0,,Un vehicul? Frontul de luptă?
-Dialogue: 100,0:04:59.36,0:05:01.43,Dialogue,,0,0,0,,A fost la fel și cu răsăritul,
-Dialogue: 100,0:05:01.43,0:05:04.21,Dialogue,,0,0,0,,dar a trecut un an de când \Nnu am mai văzut stele astfel.
-Dialogue: 100,0:05:06.46,0:05:09.91,Dialogue,,0,0,0,,Avem patru minute și treizeci \Nde secunde ca să ne strângem.
-Dialogue: 100,0:05:09.91,0:05:14.82,Dialogue,,0,0,0,,Jhin! Mersi că ai luat legătura \Ncu toți în această după-amiază.
-Dialogue: 100,0:05:14.82,0:05:17.67,Dialogue,,0,0,0,,Sunt obișnuit cu cererile tale rapide.
-Dialogue: 100,0:05:24.84,0:05:28.07,Dialogue,,0,0,0,,Iska, felicitări pentru eliberare!
-Dialogue: 100,0:05:29.74,0:05:33.73,Dialogue,,0,0,0,,Felicitări! Felicitări! Felicitări!
-Dialogue: 100,0:05:31.68,0:05:34.69,Dialogue,,0,0,0,,{\an8}Nene, nu trebuie să sari de bucurie.
-Dialogue: 100,0:05:35.31,0:05:37.42,Dialogue,,0,0,0,,O, se pare că a ajuns și căpitanul!
-Dialogue: 100,0:05:37.42,0:05:39.96,Dialogue,,0,0,0,,Hei, căpitane!
-Dialogue: 100,0:05:40.66,0:05:44.01,Dialogue,,0,0,0,,L-L-Lume!
-Dialogue: 100,0:05:44.66,0:05:47.12,Dialogue,,0,0,0,,Îmi cer scuze de întârziere!
-Dialogue: 100,0:05:49.92,0:05:51.74,Dialogue,,0,0,0,,O, a picat.
-Dialogue: 100,0:05:51.74,0:05:53.66,Dialogue,,0,0,0,,Văd că nu s-a schimbat deloc.
-Dialogue: 100,0:05:56.47,0:05:58.50,Dialogue,,0,0,0,,O, Iska!
-Dialogue: 100,0:05:59.04,0:06:01.09,Dialogue,,0,0,0,,Nu ne-am văzut de o grămadă de timp!
-Dialogue: 100,0:06:01.09,0:06:03.39,Dialogue,,0,0,0,,Te-ai mai înălțat, nu-i așa?
-Dialogue: 100,0:06:03.39,0:06:05.57,Dialogue,,0,0,0,,{\an8}Tocmai a ignorat faptul că a picat...
-Dialogue: 100,0:06:04.54,0:06:06.12,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:06:06.12,0:06:10.20,Dialogue,,0,0,0,,Presupun că o fată ca mine nu \Nprea crește așa de repede.
-Dialogue: 100,0:06:10.20,0:06:13.61,Dialogue,,0,0,0,,Ce vrei să spui prin "fată"? \NAi trecut de mult de vârsta aia.
-Dialogue: 100,0:06:13.61,0:06:17.60,Dialogue,,0,0,0,,C-Ce tot spui acolo, Jhin?! \NÎncă am 22 de ani!
-Dialogue: 100,0:06:19.95,0:06:21.76,Dialogue,,0,0,0,,Dar mă bucur.
-Dialogue: 100,0:06:21.76,0:06:24.40,Dialogue,,0,0,0,,Iska a rămas același băiat drăguț și amabil,
-Dialogue: 100,0:06:24.40,0:06:26.84,Dialogue,,0,0,0,,iar Nene a devenit și mai frumoasă și simpatică.
-Dialogue: 100,0:06:26.84,0:06:30.35,Dialogue,,0,0,0,,Și, cel puțin astăzi, limbajul răutăcios al lui Jhin îmi trezește amintiri.
-Dialogue: 100,0:06:30.35,0:06:31.53,Dialogue,,0,0,0,,Hei, stai o secundă...
-Dialogue: 100,0:06:31.53,0:06:36.66,Dialogue,,0,0,0,,Oricum, a Treia Divizie a Apărării Speciale a Umanității, unitatea N07,
-Dialogue: 100,0:06:36.66,0:06:38.92,Dialogue,,0,0,0,,se reunește după un an!
-Dialogue: 100,0:06:43.85,0:06:47.14,Dialogue,,0,0,0,,În regulă, să-i dăm bice!
-Dialogue: 100,0:06:49.82,0:06:53.17,Dialogue,,0,0,0,,Bun, și ce fel de misiune avem acum?
-Dialogue: 100,0:06:53.17,0:06:57.29,Dialogue,,0,0,0,,Capturarea vrăjitoarelor. Nu asta a făcut mereu unitatea noastră?
-Dialogue: 100,0:06:57.29,0:06:59.22,Dialogue,,0,0,0,,În plus, ținta noastră de data aceasta
-Dialogue: 100,0:06:59.22,0:07:02.86,Dialogue,,0,0,0,,este o descendentă directă a Măreței \NVrăjitori Nebulis, o vrăjitoare de sânge pur.
-Dialogue: 100,0:07:02.86,0:07:04.37,Dialogue,,0,0,0,,O vrăjitoare de sânge pur?!
-Dialogue: 100,0:07:04.37,0:07:07.37,Dialogue,,0,0,0,,Șefo, ai auzit de Vrăjitoarea \NCalamității de Gheață, nu-i așa?
-Dialogue: 100,0:07:07.37,0:07:09.75,Dialogue,,0,0,0,,Vrăjitoarea Calamității de Gheață?!
-Dialogue: 100,0:07:09.75,0:07:12.02,Dialogue,,0,0,0,,I-Iska, e adevărat?
-Dialogue: 100,0:07:12.02,0:07:15.41,Dialogue,,0,0,0,,Da. Se pare că motivul \Npentru care am fost eliberat
-Dialogue: 100,0:07:15.41,0:07:18.33,Dialogue,,0,0,0,,este ca s-o capturăm.
-Dialogue: 100,0:07:18.33,0:07:23.04,Dialogue,,0,0,0,,O, vai. Iska, ai fost păcălit \Nde cei Opt Mari Apostoli.
-Dialogue: 100,0:07:23.04,0:07:25.08,Dialogue,,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:07:25.08,0:07:29.59,Dialogue,,0,0,0,,Cred că a apărut pentru prima \Noară pe frontul nordic în Yubel.
-Dialogue: 100,0:07:29.59,0:07:33.60,Dialogue,,0,0,0,,Am auzit că a eliminat întregul batalion de una singură și s-a întors nevătămată.
-Dialogue: 100,0:07:33.60,0:07:35.36,Dialogue,,0,0,0,,Analizând rapoartele militare \Nde atunci despre ea,
-Dialogue: 100,0:07:35.36,0:07:38.56,Dialogue,,0,0,0,,unele persoane spun că ea este cel mai puternic magician astral din istorie.
-Dialogue: 100,0:07:38.56,0:07:42.52,Dialogue,,0,0,0,,Da, dar nici ea nu știe \Ndespre soldatul nostru, Iska.
-Dialogue: 100,0:07:42.52,0:07:47.37,Dialogue,,0,0,0,,De bine, de rău, Suveranitatea Nebulis nu are nicio informație despre tine.
-Dialogue: 100,0:07:47.37,0:07:50.49,Dialogue,,0,0,0,,Pentru ei, tu ești un element \Ncomplet neprevăzut.
-Dialogue: 100,0:07:50.49,0:07:54.83,Dialogue,,0,0,0,,Așa este! Iska a fost închis imediat cum a devenit un Discipol Sfânt.
-Dialogue: 100,0:07:54.83,0:07:56.91,Dialogue,,0,0,0,,Da. Ceea ce înseamnă...
-Dialogue: 100,0:07:56.91,0:07:58.41,Dialogue,,0,0,0,,că își vor lăsa garda jos?
-Dialogue: 100,0:07:58.41,0:08:01.10,Dialogue,,0,0,0,,Asta e probabil ceea ce \Ncred cei care ne conduc.
-Dialogue: 100,0:08:01.10,0:08:05.13,Dialogue,,0,0,0,,De asta au apelat din nou la tine după ce te-au aruncat în închisoare,
-Dialogue: 100,0:08:05.13,0:08:08.62,Dialogue,,0,0,0,,deci probabil nu mai au nicio idee ce să facă.
-Dialogue: 100,0:08:08.62,0:08:10.80,Dialogue,,0,0,0,,Vrăjitoarea Calamității de Gheață, nu?
-Dialogue: 100,0:08:10.80,0:08:14.43,Dialogue,,0,0,0,,Iska, chiar vei duce la bun \Nsfârșit această misiune?
-Dialogue: 100,0:08:14.43,0:08:17.96,Dialogue,,0,0,0,,Da. Asta este marea \Nmea șansă, la urma urmei.
-Dialogue: 100,0:08:17.96,0:08:20.67,Dialogue,,0,0,0,,Dacă vei da greș, vei fi...
-Dialogue: 100,0:08:20.67,0:08:23.19,Dialogue,,0,0,0,,Încerc să nu mă gândesc la asta.
-Dialogue: 100,0:08:23.56,0:08:27.22,Dialogue,,0,0,0,,Mi-ar plăcea să pun \Ncapăt acestui război inutil.
-Dialogue: 100,0:08:27.22,0:08:30.98,Dialogue,,0,0,0,,Numai la asta m-am gândit, și acum...
-Dialogue: 100,0:08:30.98,0:08:32.61,Dialogue,,0,0,0,,și atunci.
-Dialogue: 100,0:08:39.91,0:08:43.04,Dialogue,,0,0,0,,Acest reactor de arme \Neste construit recent, nu?
-Dialogue: 100,0:08:43.04,0:08:44.63,Dialogue,,0,0,0,,Așa cred.
-Dialogue: 100,0:08:44.63,0:08:45.88,Dialogue,,0,0,0,,Mă întreb de ce.
-Dialogue: 100,0:08:45.88,0:08:49.91,Dialogue,,0,0,0,,Au un reactor atât de mare, \Ndar sunt atât de puține trupe aici.
-Dialogue: 100,0:08:49.91,0:08:51.31,Dialogue,,0,0,0,,Ah, este ca și cum—
-Dialogue: 100,0:08:51.31,0:08:52.85,Dialogue,,0,0,0,,M-am întors!
-Dialogue: 100,0:08:52.85,0:08:56.56,Dialogue,,0,0,0,,Uua, m-ai speriat. \NNene, nu mă lua prin surprindere astfel.
-Dialogue: 100,0:08:57.50,0:08:59.98,Dialogue,,0,0,0,,Am terminat de verificat vehiculul.
-Dialogue: 100,0:08:59.98,0:09:03.02,Dialogue,,0,0,0,,De asemenea, l-am văzut \Npe comandant în acel cort.
-Dialogue: 100,0:09:03.02,0:09:05.99,Dialogue,,0,0,0,,Se spune că acest reactor nu este încă gata.
-Dialogue: 100,0:09:05.99,0:09:09.06,Dialogue,,0,0,0,,Din moment ce au fost multe atacuri ale magicienilor astrali recent,
-Dialogue: 100,0:09:09.06,0:09:13.01,Dialogue,,0,0,0,,majoritatea sunt ocupați cu apărarea frontului în loc să termine aici.
-Dialogue: 100,0:09:13.01,0:09:16.45,Dialogue,,0,0,0,,Mă gândeam eu. \NDe asta sunt atât de puțini oameni aici.
-Dialogue: 100,0:09:16.45,0:09:18.84,Dialogue,,0,0,0,,Mi se părea mie ciudat.
-Dialogue: 100,0:09:18.84,0:09:22.22,Dialogue,,0,0,0,,Vibrează prea mult în timp ce e pus în funcțiune
-Dialogue: 100,0:09:22.22,0:09:24.96,Dialogue,,0,0,0,,și huruie prea tare în procesul de operare.
-Dialogue: 100,0:09:24.96,0:09:28.52,Dialogue,,0,0,0,,Uau, exact cum era de așteptat de la Nene! \NUn inginer de primă clasă!
-Dialogue: 100,0:09:28.52,0:09:32.20,Dialogue,,0,0,0,,Și mai sunt culoarea și \Nmirosul fumului emanate.
-Dialogue: 100,0:09:32.20,0:09:34.17,Dialogue,,0,0,0,,Sistemul de presiune funcționează,
-Dialogue: 100,0:09:34.17,0:09:36.58,Dialogue,,0,0,0,,dar inelul de control este la limita de...
-Dialogue: 100,0:09:35.45,0:09:37.37,Dialogue Overlap,,0,0,0,,E un cerc vicios.
-Dialogue: 100,0:09:37.37,0:09:39.80,Dialogue,,0,0,0,,Imperiul construiește un reactor.
-Dialogue: 100,0:09:39.80,0:09:42.77,Dialogue,,0,0,0,,Apoi Suveranitatea îl atacă ca să-l distrugă.
-Dialogue: 100,0:09:42.77,0:09:44.50,Dialogue,,0,0,0,,Deci noi construim și mai multe arme.
-Dialogue: 100,0:09:44.50,0:09:48.30,Dialogue,,0,0,0,,După ce acest lucru se repetă continuu timp de o sută de ani, asta este lumea rezultată.
-Dialogue: 100,0:09:48.30,0:09:50.79,Dialogue,,0,0,0,,Asta e ceea ce regurcita mereu maestrul meu.
-Dialogue: 100,0:09:51.42,0:09:53.36,Dialogue,,0,0,0,,Orice a pornit acest război,
-Dialogue: 100,0:09:53.36,0:09:57.77,Dialogue,,0,0,0,,motivele care-l fac să continue acum sunt alimentate de sentimente negative.
-Dialogue: 100,0:09:57.77,0:10:00.40,Dialogue,,0,0,0,,După ce s-a ajuns atât de departe, raționamentul nu-l mai poate opri.
-Dialogue: 100,0:10:00.40,0:10:04.83,Dialogue,,0,0,0,,Nu până când cineva nu îi va pune capăt forțat, \Nchiar dacă asta înseamnă că acea persoană va fi urâtă de toți.
-Dialogue: 100,0:10:05.38,0:10:07.36,Dialogue,,0,0,0,,Să-i pună capăt, nu?
-Dialogue: 100,0:10:07.75,0:10:11.51,Dialogue,,0,0,0,,Pacea la care se gândește \Ncineva anume este o opțiune.
-Dialogue: 100,0:10:11.51,0:10:13.72,Dialogue,,0,0,0,,Dar daca vă funcționa sau \Nnu e o chestiune diferită.
-Dialogue: 100,0:10:19.18,0:10:21.46,Dialogue,,0,0,0,,Da, recepționat.
-Dialogue: 100,0:10:22.10,0:10:23.24,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:10:23.24,0:10:24.81,Dialogue,,0,0,0,,Era o unitate de pe front.
-Dialogue: 100,0:10:24.81,0:10:27.92,Dialogue,,0,0,0,,Spun că nu există niciun atac al magicienilor astrali în acest moment.
-Dialogue: 100,0:10:27.92,0:10:29.89,Dialogue,,0,0,0,,Așteaptă întâlnirea cu noi.
-Dialogue: 100,0:10:33.82,0:10:37.14,Dialogue,,0,0,0,,Nene, c-condu mai cu atenție!
-Dialogue: 100,0:10:37.14,0:10:39.14,Dialogue,,0,0,0,,Nu-ți face griji, nu-ți face griji.
-Dialogue: 100,0:10:39.14,0:10:41.91,Dialogue,,0,0,0,,Aș putea să conduc pe drumurile astea cu un singur ochi fără nicio problemă.
-Dialogue: 100,0:10:41.91,0:10:44.20,Dialogue,,0,0,0,,Te rog să îi ții pe amândoi deschiși!
-Dialogue: 100,0:10:44.78,0:10:45.37,Dialogue,,0,0,0,,Săriți!
-Dialogue: 100,0:10:44.78,0:10:45.37,Dialogue,,0,0,0,,{\an8}Săriți!
-Dialogue: 100,0:10:45.37,0:10:46.28,Dialogue,,0,0,0,,C-Ce?
-Dialogue: 100,0:10:46.28,0:10:47.97,Dialogue,,0,0,0,,Căpitane, ține-te de mine!
-Dialogue: 100,0:10:56.16,0:10:58.03,Dialogue,,0,0,0,,Ăsta a fost atacul unor \Nmagicieni din Nebulis?
-Dialogue: 100,0:10:58.03,0:11:00.80,Dialogue,,0,0,0,,Nu se poate! Încă suntem pe teritoriul Imperiului!
-Dialogue: 100,0:11:00.80,0:11:03.26,Dialogue,,0,0,0,,Au trecut de linia de apărare de pe front.
-Dialogue: 100,0:11:03.26,0:11:05.53,Dialogue,,0,0,0,,Sunt probabil niște magicieni \Nastrali puternici prin preajmă.
-Dialogue: 100,0:11:05.53,0:11:06.64,Dialogue,,0,0,0,,Primim un mesaj.
-Dialogue: 100,0:11:06.64,0:11:11.01,Dialogue,,0,0,0,,Echipa de comunicații \Ndin diviza Nelka cer întăriri.
-Dialogue: 100,0:11:11.01,0:11:12.72,Dialogue,,0,0,0,,Nu avem timp de pierdut, nu?
-Dialogue: 100,0:11:12.72,0:11:14.11,Dialogue,,0,0,0,,Încă putem ataca nedetectați,
-Dialogue: 100,0:11:14.11,0:11:16.94,Dialogue,,0,0,0,,dar avem un batalion de magicieni \Nastrali care se apropie rapid.
-Dialogue: 100,0:11:16.94,0:11:18.62,Dialogue,,0,0,0,,Jhin, în spatele tău!
-Dialogue: 100,0:11:33.00,0:11:35.63,Dialogue,,0,0,0,,A înlăturat cu sabia flăcările astrale?
-Dialogue: 100,0:11:35.63,0:11:38.75,Dialogue,,0,0,0,,D-Doi magicieni astrali! \NToată lumea, aveti grijă!
-Dialogue: 100,0:11:38.75,0:11:41.47,Dialogue,,0,0,0,,Știm. Nu trebuie să strigi ordine astfel.
-Dialogue: 100,0:11:41.47,0:11:43.23,Dialogue,,0,0,0,,Își vor da seama imediat cine este liderul.
-Dialogue: 100,0:11:43.23,0:11:45.04,Dialogue,,0,0,0,,Mai bine ți-ai face griji pentru tine însăți.
-Dialogue: 100,0:11:45.04,0:11:47.10,Dialogue,,0,0,0,,Nici eu nu am nevoie ca să faci tu pe deșteptul!
-Dialogue: 100,0:11:47.10,0:11:48.35,Dialogue,,0,0,0,,Atunci, stai în spate.
-Dialogue: 100,0:11:51.92,0:11:53.87,Dialogue,,0,0,0,,Magicieni astrali ai vântului.
-Dialogue: 100,0:12:00.36,0:12:02.16,Dialogue,,0,0,0,,Când au...
-Dialogue: 100,0:12:02.16,0:12:06.10,Dialogue,,0,0,0,,Presupun că nu-i poți detecta \Ncând sunt sub pământ.
-Dialogue: 100,0:12:06.10,0:12:08.00,Dialogue,,0,0,0,,Asta este o vrajă la scală mare.
-Dialogue: 100,0:12:08.00,0:12:10.14,Dialogue,,0,0,0,,Deci au un magician astral \Ndestul de puternic cu ei.
-Dialogue: 100,0:12:10.14,0:12:12.46,Dialogue,,0,0,0,,Cum puteți fi atât de calmi?!
-Dialogue: 100,0:12:12.46,0:12:14.78,Dialogue,,0,0,0,,Ei bine, am anticipat că așa \Nceva s-ar putea întâmpla.
-Dialogue: 100,0:12:14.78,0:12:16.60,Dialogue,,0,0,0,,Iska, te poți ocupa de ei toți?
-Dialogue: 100,0:12:16.60,0:12:18.22,Dialogue,,0,0,0,,Odată ce-mi reintru în mână.
-Dialogue: 100,0:12:18.22,0:12:20.39,Dialogue,,0,0,0,,Dar în acest moment ar fi puțin dificil.
-Dialogue: 100,0:12:20.39,0:12:21.29,Dialogue,,0,0,0,,Ceea ce înseamnă,
-Dialogue: 100,0:12:21.29,0:12:24.13,Dialogue,,0,0,0,,că voi avea nevoie de ajutorul tău, Nene.
-Dialogue: 100,0:12:24.13,0:12:25.35,Dialogue,,0,0,0,,Am înțeles!
-Dialogue: 100,0:12:26.37,0:12:29.26,Dialogue,,0,0,0,,Rachete anti-astrale... foc!
-Dialogue: 100,0:12:40.94,0:12:42.17,Dialogue,,0,0,0,,Ocupă-te de cei din dreapta.
-Dialogue: 100,0:12:46.70,0:12:48.84,Dialogue,,0,0,0,,Putere astrală a infernului nestăvilit...
-Dialogue: 100,0:12:52.76,0:12:53.96,Dialogue,,0,0,0,,prinde viață!
-Dialogue: 100,0:13:03.01,0:13:05.65,Dialogue,,0,0,0,,Ai sărit din zona de efect?
-Dialogue: 100,0:13:05.65,0:13:07.72,Dialogue,,0,0,0,,Așa ceva este imposibil!
-Dialogue: 100,0:13:09.43,0:13:12.14,Dialogue,,0,0,0,,Pentru asta am fost antrenat.
-Dialogue: 100,0:13:15.96,0:13:17.23,Dialogue,,0,0,0,,Jhin, la tine cum merge?
-Dialogue: 100,0:13:17.23,0:13:18.73,Dialogue,,0,0,0,,Am terminat deja.
-Dialogue: 100,0:13:19.69,0:13:21.25,Dialogue,,0,0,0,,Uimitor.
-Dialogue: 100,0:13:21.25,0:13:24.75,Dialogue,,0,0,0,,Jhin și Iska, nu încetăți \Nniciodată să mă impresionați.
-Dialogue: 100,0:13:24.75,0:13:29.47,Dialogue,,0,0,0,,Acum un an, am fi lăsat totul în seama lui Iska și am fi mers înainte fără el.
-Dialogue: 100,0:13:29.47,0:13:32.20,Dialogue,,0,0,0,,Ești un berserker anti-război, nu-i așa?
-Dialogue: 100,0:13:36.21,0:13:37.92,Dialogue,,0,0,0,,Puterea astrală a pământului?
-Dialogue: 100,0:13:37.92,0:13:41.56,Dialogue,,0,0,0,,Un golem. Și chiar unul care \Npoate fi creat foarte rapid.
-Dialogue: 100,0:13:43.13,0:13:44.64,Dialogue,,0,0,0,,Cât de neobișnuit.
-Dialogue: 100,0:13:44.64,0:13:48.31,Dialogue,,0,0,0,,V-ați ocupat de acea \Ndivizie înainte să ajung aici?
-Dialogue: 100,0:13:48.31,0:13:50.60,Dialogue,,0,0,0,,Voi păreți a fi doar o divizie obișnuită.
-Dialogue: 100,0:13:50.97,0:13:51.88,Dialogue,,0,0,0,,Prinde viață.
-Dialogue: 100,0:14:02.23,0:14:04.60,Dialogue,,0,0,0,,Căpitane, mă voi ocupa eu de asta.
-Dialogue: 100,0:14:04.60,0:14:07.20,Dialogue,,0,0,0,,I-ai pe Jhin și pe Nene și \Nmergeți să oferiți sprijin pe front.
-Dialogue: 100,0:14:07.20,0:14:08.77,Dialogue,,0,0,0,,Ce? Dar...
-Dialogue: 100,0:14:09.31,0:14:12.82,Dialogue,,0,0,0,,Ne va lua la fel de mult chiar \Ndacă vom rămâne toți patru aici.
-Dialogue: 100,0:14:12.82,0:14:15.33,Dialogue,,0,0,0,,Bine. Ai grijă!
-Dialogue: 100,0:14:19.88,0:14:21.35,Dialogue,,0,0,0,,S-a regenerat?
-Dialogue: 100,0:14:28.13,0:14:31.16,Dialogue,,0,0,0,,Ai tăiat cu sabia prin artele mele astrale? \NEști cumva un Discipol Sfânt?!
-Dialogue: 100,0:14:31.16,0:14:32.70,Dialogue,,0,0,0,,Nu am nicio intenție ca să răspund.
-Dialogue: 100,0:14:32.70,0:14:36.97,Dialogue,,0,0,0,,Dar o voi face dacă-mi vei spune unde este magicianul astral cunoscut sub numele de Vrăjitoarea Calamității de Gheață.
-Dialogue: 100,0:14:36.97,0:14:39.00,Dialogue,,0,0,0,,Tăcere, gândacule!
-Dialogue: 100,0:14:39.00,0:14:41.50,Dialogue,,0,0,0,,Nu-ți voi permite nici măcar s-o privești!
-Dialogue: 100,0:14:42.13,0:14:46.19,Dialogue,,0,0,0,,Presupun că nu o vei face. \NDar am treburile mele cu ea!
-Dialogue: 100,0:14:46.19,0:14:47.72,Dialogue,,0,0,0,,Poți să uiți de ele!
-Dialogue: 100,0:14:56.08,0:14:56.95,Dialogue,,0,0,0,,Prea încet.
-Dialogue: 100,0:14:57.64,0:14:59.79,Dialogue,,0,0,0,,Cine naiba ești?
-Dialogue: 100,0:14:59.79,0:15:01.65,Dialogue,,0,0,0,,Unde este Vrăjitoarea Calamității de Gheață?
-Dialogue: 100,0:15:01.65,0:15:06.09,Dialogue,,0,0,0,,Ucide-mă. Noi, magicienii astrali, nu vom avea nimic de a face cu câinii Imperiului.
-Dialogue: 100,0:15:06.65,0:15:09.66,Dialogue,,0,0,0,,Suntem gata să alegem moartea în loc să devenim prizonierii voștri.
-Dialogue: 100,0:15:13.18,0:15:16.06,Dialogue,,0,0,0,,Crezi că dacă mă ameninți cu sabia voi vorbi?
-Dialogue: 100,0:15:16.06,0:15:17.93,Dialogue,,0,0,0,,Și eu sunt gata să lupt corp la corp.
-Dialogue: 100,0:15:17.93,0:15:19.35,Dialogue,,0,0,0,,Dispari!
-Dialogue: 100,0:15:21.19,0:15:23.15,Dialogue,,0,0,0,,I-Imposibil...
-Dialogue: 100,0:15:30.81,0:15:32.13,Dialogue,,0,0,0,,Domnișoară Alice...
-Dialogue: 100,0:15:32.13,0:15:35.14,Dialogue,,0,0,0,,Alice? Nu spune că tu ești Vrăjitoarea Calamității...
-Dialogue: 100,0:15:35.14,0:15:36.03,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:15:42.20,0:15:44.00,Dialogue,,0,0,0,,Acela-mi este numele.
-Dialogue: 100,0:15:45.70,0:15:47.13,Dialogue,,0,0,0,,Permite-mi să-ți dovedesc.
-Dialogue: 100,0:15:47.13,0:15:48.92,Dialogue,,0,0,0,,O vei simți pe pielea ta.
-Dialogue: 100,0:15:50.42,0:15:51.83,Dialogue,,0,0,0,,Măreața Calamitate de Gheață.
-Dialogue: 100,0:16:04.18,0:16:05.94,Dialogue,,0,0,0,,Rin, ești bine?
-Dialogue: 100,0:16:05.94,0:16:07.40,Dialogue,,0,0,0,,Domnișoară Alice.
-Dialogue: 100,0:16:10.97,0:16:12.82,Dialogue,,0,0,0,,Cred că glumești...
-Dialogue: 100,0:16:12.82,0:16:14.61,Dialogue,,0,0,0,,Vă rog să aveți grijă.
-Dialogue: 100,0:16:14.61,0:16:18.59,Dialogue,,0,0,0,,Sabia acelui individ poate tăia și bloca artele astrale.
-Dialogue: 100,0:16:18.59,0:16:20.04,Dialogue,,0,0,0,,Mulțumesc, Rin.
-Dialogue: 100,0:16:20.04,0:16:22.43,Dialogue,,0,0,0,,Te-ai descurcat bine ținându-l aici.
-Dialogue: 100,0:16:22.43,0:16:23.47,Dialogue,,0,0,0,,Aici?
-Dialogue: 100,0:16:27.21,0:16:28.92,Dialogue,,0,0,0,,Reactorul!
-Dialogue: 100,0:16:29.47,0:16:30.86,Dialogue,,0,0,0,,Spulberă.
-Dialogue: 100,0:16:33.34,0:16:35.84,Dialogue,,0,0,0,,Deci acesta era planul \Nvostru de la bun început?
-Dialogue: 100,0:16:35.84,0:16:37.21,Dialogue,,0,0,0,,Cine ești?
-Dialogue: 100,0:16:37.21,0:16:40.34,Dialogue,,0,0,0,,Cum ar putea cineva care nu este un Discipol Sfânt să fie mai puternic decât Rin?
-Dialogue: 100,0:16:40.34,0:16:42.58,Dialogue,,0,0,0,,Sunt aici ca să te capturez.
-Dialogue: 100,0:16:42.58,0:16:44.77,Dialogue,,0,0,0,,Cu cine crezi că vorbești?
-Dialogue: 100,0:16:44.77,0:16:48.36,Dialogue,,0,0,0,,Dacă nu vrei să simți o durere de gheață mai îngrozitoare decât moartea, atunci...
-Dialogue: 100,0:16:48.94,0:16:50.78,Dialogue,,0,0,0,,Predă-te.
-Dialogue: 100,0:16:51.50,0:16:54.89,Dialogue,,0,0,0,,Spadasin al Imperiului, \Ncare este numele tău?
-Dialogue: 100,0:16:54.89,0:16:57.20,Dialogue,,0,0,0,,Iska. Al tău?
-Dialogue: 100,0:16:57.20,0:16:59.83,Dialogue,,0,0,0,,Aliceliese Lou Nebulis a IX-a.
-Dialogue: 100,0:16:59.83,0:17:01.85,Dialogue,,0,0,0,,Și știi deja că
-Dialogue: 100,0:17:01.85,0:17:06.00,Dialogue,,0,0,0,,sunt magicianul astral pe care voi, cei din Imperiu, o numiți "Vrăjitoarea Calamițății de Gheață".
-Dialogue: 100,0:17:11.88,0:17:13.38,Dialogue,,0,0,0,,Ziduri, ridicați-vă!
-Dialogue: 100,0:17:17.55,0:17:20.21,Dialogue,,0,0,0,,Calamitatea de Gheață: \NFurtuna celor o Mie de Spini!
-Dialogue: 100,0:17:23.37,0:17:24.68,Dialogue,,0,0,0,,Străpungeți-l!
-Dialogue: 100,0:17:35.36,0:17:37.57,Dialogue,,0,0,0,,Asta este tot ce poți?
-Dialogue: 100,0:17:37.57,0:17:38.82,Dialogue,,0,0,0,,Nu...
-Dialogue: 100,0:17:38.82,0:17:40.03,Dialogue,,0,0,0,,Trezește-te.
-Dialogue: 100,0:17:46.12,0:17:48.66,Dialogue,,0,0,0,,Poate folosi aceleași arte \Nastrale ca domnișoara Alice?!
-Dialogue: 100,0:17:48.66,0:17:49.92,Dialogue,,0,0,0,,Cine naiba ești tu?!
-Dialogue: 100,0:17:49.92,0:17:53.76,Dialogue,,0,0,0,,Asta este puterea astrală a sabiei, nu a mea.
-Dialogue: 100,0:17:56.01,0:17:57.07,Dialogue,,0,0,0,,Înflorirea Gheții.
-Dialogue: 100,0:18:01.01,0:18:02.63,Dialogue,,0,0,0,,Este un scut impenetrabil.
-Dialogue: 100,0:18:02.63,0:18:04.35,Dialogue,,0,0,0,,Ar trebui să renunți.
-Dialogue: 100,0:18:04.35,0:18:06.18,Dialogue,,0,0,0,,Să renunț?
-Dialogue: 100,0:18:06.18,0:18:10.30,Dialogue,,0,0,0,,Dacă eu voi renunța aici, \Natunci cine va pune capăt acestui război?!
-Dialogue: 100,0:18:16.53,0:18:17.65,Dialogue,,0,0,0,,Liane!
-Dialogue: 100,0:18:26.87,0:18:29.83,Dialogue,,0,0,0,,Domnișoara Alice s-a dat înapoi?
-Dialogue: 100,0:18:29.83,0:18:32.81,Dialogue,,0,0,0,,Atât de insistent. \NPredă-te sau vei fi distrus!
-Dialogue: 100,0:18:32.81,0:18:34.38,Dialogue,,0,0,0,,De ce nu te retragi tu în schimb?!
-Dialogue: 100,0:18:34.38,0:18:38.80,Dialogue,,0,0,0,,Nu mă voi retrage până nu voi învinge Imperiul și voi unifica lumea.
-Dialogue: 100,0:18:38.80,0:18:40.55,Dialogue,,0,0,0,,Unifica lumea?
-Dialogue: 100,0:18:40.55,0:18:43.71,Dialogue,,0,0,0,,O armonie veșnică. \NFără invazii, fără asupriri...
-Dialogue: 100,0:18:43.71,0:18:49.23,Dialogue,,0,0,0,,Asta e ceea ce eu, moștenitoarea Suveranității Nebulis, Aliceliese...
-Dialogue: 100,0:18:58.75,0:19:01.17,Dialogue,,0,0,0,,E-Ești bine?
-Dialogue: 100,0:19:01.17,0:19:03.28,Dialogue,,0,0,0,,D-Da, mulțumesc.
-Dialogue: 100,0:19:09.87,0:19:12.90,Dialogue,,0,0,0,,Stai, c-c-c-c-c-c-c-ce crezi că faci?!
-Dialogue: 100,0:19:12.90,0:19:14.10,Dialogue,,0,0,0,,Din reflex...
-Dialogue: 100,0:19:14.10,0:19:15.89,Dialogue,,0,0,0,,Iska!
-Dialogue: 100,0:19:20.26,0:19:22.02,Dialogue,,0,0,0,,Rin, ar trebui să ne retragem.
-Dialogue: 100,0:19:22.02,0:19:24.24,Dialogue,,0,0,0,,D-Dar, domnisoară Alice?!
-Dialogue: 100,0:19:29.47,0:19:31.00,Dialogue,,0,0,0,,Iska, spuneai că te cheamă?
-Dialogue: 100,0:19:31.00,0:19:32.81,Dialogue,,0,0,0,,Să nu crezi că vei fi la fel \Nde norocos data viitoare.
-Dialogue: 100,0:19:42.45,0:19:44.27,Dialogue,,0,0,0,,Iska!
-Dialogue: 100,0:19:44.99,0:19:47.75,Dialogue,,0,0,0,,Mă bucur atât de mult că ești bine!
-Dialogue: 100,0:19:47.75,0:19:49.83,Dialogue,,0,0,0,,Îmi făceam griji!
-Dialogue: 100,0:19:50.80,0:19:53.14,Dialogue,,0,0,0,,Ești în regulă, nu? \NNu ai fost rănit, nu?
-Dialogue: 100,0:19:53.14,0:19:56.60,Dialogue,,0,0,0,,Să îmbrățișezi o persoană care ar putea fi rănită nu e o idee prea bună...
-Dialogue: 100,0:19:56.60,0:19:58.44,Dialogue,,0,0,0,,O, scuze!
-Dialogue: 100,0:19:58.44,0:20:01.97,Dialogue,,0,0,0,,Hei, Jhin. Toate astea chiar au \Nfost cauzate de o artă astrală?
-Dialogue: 100,0:20:01.97,0:20:05.88,Dialogue,,0,0,0,,Zvonurile erau adevărate. Se pare că este un magician astral extraordinar.
-Dialogue: 100,0:20:05.88,0:20:09.43,Dialogue,,0,0,0,,Gheața a ajuns până aproape de punctul nostru de întâlnire de pe frontul de luptă.
-Dialogue: 100,0:20:26.11,0:20:29.96,Dialogue,,0,0,0,,Domnișoară Alice, ați fost \Nîn baie în tot acest timp?
-Dialogue: 100,0:20:29.96,0:20:32.16,Dialogue,,0,0,0,,Cred că ar fi bine să ieșiți.
-Dialogue: 100,0:20:44.05,0:20:47.85,Dialogue,,0,0,0,,Dacă eu voi renunța aici, \Natunci cine va pune capăt acestui război?!
-Dialogue: 100,0:20:54.03,0:20:56.36,Dialogue,,0,0,0,,Fir-ar, asta nu-mi face niciun bine!
-Dialogue: 100,0:20:56.36,0:20:58.23,Dialogue,,0,0,0,,Am nevoie de o schimbare de peisaj!
-Dialogue: 100,0:20:58.95,0:21:00.27,Dialogue,,0,0,0,,Domnișoară Alice?
-Dialogue: 100,0:21:04.29,0:21:06.40,Dialogue,,0,0,0,,Hei, Rin, privește.
-Dialogue: 100,0:21:06.40,0:21:09.51,Dialogue,,0,0,0,,{\i1}Dragostea tragică a femeii-cavaler Beatrix{\i0}.
-Dialogue: 100,0:21:10.30,0:21:14.12,Dialogue,,0,0,0,,Vrei să mergi la opera din Orașul Neutru din nou?
-Dialogue: 100,0:21:17.08,0:21:21.75,Dialogue,,0,0,0,,{\an8}Adio, Beatrix. Nu pot fi cu tine.
-Dialogue: 100,0:21:17.66,0:21:22.08,Dialogue,,0,0,0,,O, Beatrix! Să te îndrăgostești de cavalerul inamic...
-Dialogue: 100,0:21:22.54,0:21:25.95,Dialogue,,0,0,0,,O dragoste interzisă care n-ar fi dat niciodată roade, indiferent cât de puternică era iubirea voastră.
-Dialogue: 100,0:21:22.08,0:21:25.95,Dialogue,,0,0,0,,{\an8}Adio, Azel.
-Dialogue: 100,0:21:25.95,0:21:29.26,Dialogue,,0,0,0,,Cum poate exista o iubire atât de dureroasă?
-Dialogue: 100,0:21:25.96,0:21:29.26,Dialogue,,0,0,0,,{\an8}Data viitoare când ne vom întâlni, nu va fi într-o biserică ca acum, ci pe câmpul de luptă.
-Dialogue: 100,0:21:29.26,0:21:33.74,Dialogue,,0,0,0,,Azel, ești așa un prost... Cum poți să...
-Dialogue: 100,0:21:33.74,0:21:35.87,Dialogue,,0,0,0,,Șșș, mai încet.
-Dialogue: 100,0:21:35.87,0:21:37.78,Dialogue,,0,0,0,,Unde-ți este batista?
-Dialogue: 100,0:21:37.78,0:21:40.27,Dialogue,,0,0,0,,Este fleașcă deja.
-Dialogue: 100,0:21:40.96,0:21:43.09,Dialogue,,0,0,0,,Ei bine, de ce nu o folosești pe aceasta?
-Dialogue: 100,0:21:43.09,0:21:46.55,Dialogue,,0,0,0,,Ce? Mulțumesc foarte mult.
-Dialogue: 100,0:21:58.25,0:22:01.71,Dialogue,,0,0,0,,Ei bine, îmi cer scuze că ți-am udat batista.
-Dialogue: 100,0:22:01.71,0:22:03.82,Dialogue,,0,0,0,,Voi plăti pentru ea.
-Dialogue: 100,0:22:03.82,0:22:05.93,Dialogue,,0,0,0,,O, nu, nu trebuie să-ți faci griji.
-Dialogue: 100,0:22:05.93,0:22:07.90,Dialogue,,0,0,0,,Este doar o batistă iefti...
-Dialogue: 100,0:22:13.47,0:22:14.45,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:00:11.22,0:00:14.99,Dialogue,,0,0,0,,{\i1}Puterea astrală, energia stranie care doarme adânc în străfundurile acestei planete.
+Dialogue: 99,0:00:16.60,0:00:19.39,Dialogue,,0,0,0,,{\i1}Forța ei era prea mare pentru oameni.
+Dialogue: 99,0:00:21.93,0:00:26.19,Dialogue,,0,0,0,,{\i1}Cei care o dețin erau temuți \Nca vrăjitoare sau magicieni,
+Dialogue: 99,0:00:26.19,0:00:30.60,Dialogue,,0,0,0,,{\i1}fiind asupriți... \Nde cei din Imperiu.
+Dialogue: 99,0:00:35.84,0:00:41.60,Dialogue,,0,0,0,,{\i1}Locul unde mulți oameni au fost răniți din cauza puterii astrale, Imperiul.
+Dialogue: 99,0:00:41.60,0:00:46.74,Dialogue,,0,0,0,,{\i1}Și paradisul care le-a rămas vrăjitoarelor inocente, Suveranitatea Nebulis.
+Dialogue: 99,0:00:47.48,0:00:50.19,Dialogue,,0,0,0,,{\i1}Destinul care a adus \Naceste două națiuni aici...
+Dialogue: 99,0:00:50.19,0:00:52.61,Dialogue,,0,0,0,,{\i1}este un drum fără de sfârșit al războiului.
+Dialogue: 99,0:00:52.61,0:00:55.49,Dialogue,,0,0,0,,{\i1}Voi pune capăt acestui război.
+Dialogue: 99,0:00:58.73,0:01:01.49,Dialogue,,0,0,0,,{\i1}Voi crea o lume fără asuprire.
+Dialogue: 99,0:01:02.37,0:01:04.12,Dialogue,,0,0,0,,{\i1}Și astfel...
+Dialogue: 99,0:01:04.12,0:01:07.90,Dialogue,,0,0,0,,{\i1}a început cruciada care ne va schimba lumea.
+Dialogue: 99,0:01:41.80,0:01:44.70,Dialogue,,0,0,0,,Banderola ta... \NEști un Discipol Sfânt?
+Dialogue: 99,0:01:49.56,0:01:51.87,Dialogue,,0,0,0,,De ce ar face un Discipol Sfânt una ca...
+Dialogue: 99,0:01:52.80,0:01:54.63,Dialogue,,0,0,0,,Haide. Trebuie să ne grăbim.
+Dialogue: 99,0:02:02.70,0:02:04.72,Dialogue,,0,0,0,,Poftim. Știu că nu este mult, dar...
+Dialogue: 99,0:02:06.88,0:02:08.00,Dialogue,,0,0,0,,Haide, du-te.
+Dialogue: 99,0:02:26.06,0:02:27.93,Dialogue,,0,0,0,,Ridică-ți capul.
+Dialogue: 99,0:02:29.12,0:02:32.08,Dialogue,,0,0,0,,Prizonier Iska. Vârstă: 16 ani.
+Dialogue: 99,0:02:32.08,0:02:35.77,Dialogue,,0,0,0,,Ești cel mai tânăr om din istorie care a primit titlul de Discipol Sfânt.
+Dialogue: 99,0:02:35.77,0:02:41.51,Dialogue,,0,0,0,,Dar, acum un an, ai fost judecat pentru că ai ajutat o vrăjitoare să evadeze.
+Dialogue: 99,0:02:42.09,0:02:45.80,Dialogue,,0,0,0,,Asta a atras drept consecință pierderea titlului de Discipol Sfânt.
+Dialogue: 99,0:02:45.80,0:02:47.81,Dialogue,,0,0,0,,Greșesc cumva?
+Dialogue: 99,0:02:47.81,0:02:48.63,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:02:48.63,0:02:52.27,Dialogue,,0,0,0,,Începând de astăzi, ești liber.
+Dialogue: 99,0:02:52.27,0:02:55.74,Dialogue,,0,0,0,,Luând în considerare faptul că națiunea noastră duce un război de 100 de ani cu vrăjitoarele,
+Dialogue: 99,0:02:55.74,0:02:59.00,Dialogue,,0,0,0,,acțiunile tale reprezintă o crimă gravă.
+Dialogue: 99,0:02:59.00,0:03:03.63,Dialogue,,0,0,0,,Dar ne-am decis să-ți oferim \Nșansa de a-ți îndrepta greșelile.
+Dialogue: 99,0:03:03.63,0:03:06.36,Dialogue,,0,0,0,,Îmi vom da o misiune.
+Dialogue: 99,0:03:06.36,0:03:09.50,Dialogue,,0,0,0,,Inamicii noștri străvechi se autointutilează acum magicieni astrali.
+Dialogue: 99,0:03:09.50,0:03:11.75,Dialogue,,0,0,0,,Treaba ta va fi să dobori o vrăjitoare.
+Dialogue: 99,0:03:11.75,0:03:14.11,Dialogue,,0,0,0,,Și nu orice vrăjitoare.
+Dialogue: 99,0:03:14.11,0:03:17.71,Dialogue,,0,0,0,,Ea este de "sânge pur", o descendentă directă a Măreței Vrăjitoare Nebulis.
+Dialogue: 99,0:03:17.71,0:03:22.42,Dialogue,,0,0,0,,În trecut, Măreața Vrăjitoare Nebulis ne-a transformat Imperiul într-o mare de flăcări.
+Dialogue: 99,0:03:22.42,0:03:25.34,Dialogue,,0,0,0,,Descendenții direcți sunt \Nnumiți de "sânge pur" și,
+Dialogue: 99,0:03:25.34,0:03:28.88,Dialogue,,0,0,0,,după cum știi, \Ndețin o putere astrală imensă.
+Dialogue: 99,0:03:28.88,0:03:31.94,Dialogue,,0,0,0,,Da, am purtat multe bătălii împotriva lor.
+Dialogue: 99,0:03:31.94,0:03:37.65,Dialogue,,0,0,0,,Ținta ta este cea mai puternică vrăjitoare, \Nși anume, Vrăjitoarea Calamității de Gheață.
+Dialogue: 99,0:03:38.09,0:03:39.75,Dialogue,,0,0,0,,Vrăjitoarea Calamității de Gheață...
+Dialogue: 99,0:03:43.82,0:03:46.32,Dialogue,,0,0,0,,Urmaș al Oțelului Negru, Iska.
+Dialogue: 99,0:03:46.32,0:03:49.50,Dialogue,,0,0,0,,Din acest moment, ești liber.
+Dialogue: 99,0:03:49.50,0:03:53.42,Dialogue,,0,0,0,,Îți vom oferi un mijloc de transport care te va duce pe frontul de luptă în 17 ore.
+Dialogue: 99,0:03:53.42,0:03:55.96,Dialogue,,0,0,0,,Îți vom da tot ce ai nevoie.
+Dialogue: 99,0:03:57.93,0:04:00.45,Dialogue,,0,0,0,,Există trei persoane pe \Ncare le vreau în divizia mea.
+Dialogue: 99,0:04:05.58,0:04:08.61,Dialogue,,0,0,0,,Nene, unde ar trebui să stăm?
+Dialogue: 99,0:04:08.61,0:04:12.26,Dialogue,,0,0,0,,Nene, încă nu ne-am primit mâncarea comandată.
+Dialogue: 99,0:04:12.26,0:04:13.76,Dialogue,,0,0,0,,Nene!
+Dialogue: 99,0:04:13.76,0:04:15.47,Dialogue,,0,0,0,,Da, da!
+Dialogue: 99,0:04:16.94,0:04:18.40,Dialogue,,0,0,0,,Vin acum!
+Dialogue: 99,0:04:22.97,0:04:24.96,Dialogue,,0,0,0,,Bun-venit!
+Dialogue: 99,0:04:28.89,0:04:30.74,Dialogue,,0,0,0,,Jhin?!
+Dialogue: 99,0:04:31.49,0:04:34.62,Dialogue,,0,0,0,,Mă bucur că ai venit! \NEști aici ca să mă vezi?
+Dialogue: 99,0:04:34.62,0:04:37.67,Dialogue,,0,0,0,,Nu a trecut așa mult timp de \Ncând ne-am văzut ultima oară.
+Dialogue: 99,0:04:37.67,0:04:42.21,Dialogue,,0,0,0,,A fost eliberat. S-a întors la cămin ca să termine cu pregătirile repede.
+Dialogue: 99,0:04:42.97,0:04:45.20,Dialogue,,0,0,0,,Stai, nu vrei să spui că...
+Dialogue: 99,0:04:45.20,0:04:47.58,Dialogue,,0,0,0,,Plecâm mâine dimineață la ora zero.
+Dialogue: 99,0:04:47.58,0:04:49.43,Dialogue,,0,0,0,,Ne vom îndrepta spre frontul \Nde luptă într-un vehicul.
+Dialogue: 99,0:04:49.43,0:04:52.35,Dialogue,,0,0,0,,Un vehicul? Frontul de luptă?
+Dialogue: 99,0:04:59.36,0:05:01.43,Dialogue,,0,0,0,,A fost la fel și cu răsăritul,
+Dialogue: 99,0:05:01.43,0:05:04.21,Dialogue,,0,0,0,,dar a trecut un an de când \Nnu am mai văzut stele astfel.
+Dialogue: 99,0:05:06.46,0:05:09.91,Dialogue,,0,0,0,,Avem patru minute și treizeci \Nde secunde ca să ne strângem.
+Dialogue: 99,0:05:09.91,0:05:14.82,Dialogue,,0,0,0,,Jhin! Mersi că ai luat legătura \Ncu toți în această după-amiază.
+Dialogue: 99,0:05:14.82,0:05:17.67,Dialogue,,0,0,0,,Sunt obișnuit cu cererile tale rapide.
+Dialogue: 99,0:05:24.84,0:05:28.07,Dialogue,,0,0,0,,Iska, felicitări pentru eliberare!
+Dialogue: 99,0:05:29.74,0:05:33.73,Dialogue,,0,0,0,,Felicitări! Felicitări! Felicitări!
+Dialogue: 99,0:05:31.68,0:05:34.69,Dialogue,,0,0,0,,{\an8}Nene, nu trebuie să sari de bucurie.
+Dialogue: 99,0:05:35.31,0:05:37.42,Dialogue,,0,0,0,,O, se pare că a ajuns și căpitanul!
+Dialogue: 99,0:05:37.42,0:05:39.96,Dialogue,,0,0,0,,Hei, căpitane!
+Dialogue: 99,0:05:40.66,0:05:44.01,Dialogue,,0,0,0,,L-L-Lume!
+Dialogue: 99,0:05:44.66,0:05:47.12,Dialogue,,0,0,0,,Îmi cer scuze de întârziere!
+Dialogue: 99,0:05:49.92,0:05:51.74,Dialogue,,0,0,0,,O, a picat.
+Dialogue: 99,0:05:51.74,0:05:53.66,Dialogue,,0,0,0,,Văd că nu s-a schimbat deloc.
+Dialogue: 99,0:05:56.47,0:05:58.50,Dialogue,,0,0,0,,O, Iska!
+Dialogue: 99,0:05:59.04,0:06:01.09,Dialogue,,0,0,0,,Nu ne-am văzut de o grămadă de timp!
+Dialogue: 99,0:06:01.09,0:06:03.39,Dialogue,,0,0,0,,Te-ai mai înălțat, nu-i așa?
+Dialogue: 99,0:06:03.39,0:06:05.57,Dialogue,,0,0,0,,{\an8}Tocmai a ignorat faptul că a picat...
+Dialogue: 99,0:06:04.54,0:06:06.12,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:06:06.12,0:06:10.20,Dialogue,,0,0,0,,Presupun că o fată ca mine nu \Nprea crește așa de repede.
+Dialogue: 99,0:06:10.20,0:06:13.61,Dialogue,,0,0,0,,Ce vrei să spui prin "fată"? \NAi trecut de mult de vârsta aia.
+Dialogue: 99,0:06:13.61,0:06:17.60,Dialogue,,0,0,0,,C-Ce tot spui acolo, Jhin?! \NÎncă am 22 de ani!
+Dialogue: 99,0:06:19.95,0:06:21.76,Dialogue,,0,0,0,,Dar mă bucur.
+Dialogue: 99,0:06:21.76,0:06:24.40,Dialogue,,0,0,0,,Iska a rămas același băiat drăguț și amabil,
+Dialogue: 99,0:06:24.40,0:06:26.84,Dialogue,,0,0,0,,iar Nene a devenit și mai frumoasă și simpatică.
+Dialogue: 99,0:06:26.84,0:06:30.35,Dialogue,,0,0,0,,Și, cel puțin astăzi, limbajul răutăcios al lui Jhin îmi trezește amintiri.
+Dialogue: 99,0:06:30.35,0:06:31.53,Dialogue,,0,0,0,,Hei, stai o secundă...
+Dialogue: 99,0:06:31.53,0:06:36.66,Dialogue,,0,0,0,,Oricum, a Treia Divizie a Apărării Speciale a Umanității, unitatea N07,
+Dialogue: 99,0:06:36.66,0:06:38.92,Dialogue,,0,0,0,,se reunește după un an!
+Dialogue: 99,0:06:43.85,0:06:47.14,Dialogue,,0,0,0,,În regulă, să-i dăm bice!
+Dialogue: 99,0:06:49.82,0:06:53.17,Dialogue,,0,0,0,,Bun, și ce fel de misiune avem acum?
+Dialogue: 99,0:06:53.17,0:06:57.29,Dialogue,,0,0,0,,Capturarea vrăjitoarelor. Nu asta a făcut mereu unitatea noastră?
+Dialogue: 99,0:06:57.29,0:06:59.22,Dialogue,,0,0,0,,În plus, ținta noastră de data aceasta
+Dialogue: 99,0:06:59.22,0:07:02.86,Dialogue,,0,0,0,,este o descendentă directă a Măreței \NVrăjitori Nebulis, o vrăjitoare de sânge pur.
+Dialogue: 99,0:07:02.86,0:07:04.37,Dialogue,,0,0,0,,O vrăjitoare de sânge pur?!
+Dialogue: 99,0:07:04.37,0:07:07.37,Dialogue,,0,0,0,,Șefo, ai auzit de Vrăjitoarea \NCalamității de Gheață, nu-i așa?
+Dialogue: 99,0:07:07.37,0:07:09.75,Dialogue,,0,0,0,,Vrăjitoarea Calamității de Gheață?!
+Dialogue: 99,0:07:09.75,0:07:12.02,Dialogue,,0,0,0,,I-Iska, e adevărat?
+Dialogue: 99,0:07:12.02,0:07:15.41,Dialogue,,0,0,0,,Da. Se pare că motivul \Npentru care am fost eliberat
+Dialogue: 99,0:07:15.41,0:07:18.33,Dialogue,,0,0,0,,este ca s-o capturăm.
+Dialogue: 99,0:07:18.33,0:07:23.04,Dialogue,,0,0,0,,O, vai. Iska, ai fost păcălit \Nde cei Opt Mari Apostoli.
+Dialogue: 99,0:07:23.04,0:07:25.08,Dialogue,,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:07:25.08,0:07:29.59,Dialogue,,0,0,0,,Cred că a apărut pentru prima \Noară pe frontul nordic în Yubel.
+Dialogue: 99,0:07:29.59,0:07:33.60,Dialogue,,0,0,0,,Am auzit că a eliminat întregul batalion de una singură și s-a întors nevătămată.
+Dialogue: 99,0:07:33.60,0:07:35.36,Dialogue,,0,0,0,,Analizând rapoartele militare \Nde atunci despre ea,
+Dialogue: 99,0:07:35.36,0:07:38.56,Dialogue,,0,0,0,,unele persoane spun că ea este cel mai puternic magician astral din istorie.
+Dialogue: 99,0:07:38.56,0:07:42.52,Dialogue,,0,0,0,,Da, dar nici ea nu știe \Ndespre soldatul nostru, Iska.
+Dialogue: 99,0:07:42.52,0:07:47.37,Dialogue,,0,0,0,,De bine, de rău, Suveranitatea Nebulis nu are nicio informație despre tine.
+Dialogue: 99,0:07:47.37,0:07:50.49,Dialogue,,0,0,0,,Pentru ei, tu ești un element \Ncomplet neprevăzut.
+Dialogue: 99,0:07:50.49,0:07:54.83,Dialogue,,0,0,0,,Așa este! Iska a fost închis imediat cum a devenit un Discipol Sfânt.
+Dialogue: 99,0:07:54.83,0:07:56.91,Dialogue,,0,0,0,,Da. Ceea ce înseamnă...
+Dialogue: 99,0:07:56.91,0:07:58.41,Dialogue,,0,0,0,,că își vor lăsa garda jos?
+Dialogue: 99,0:07:58.41,0:08:01.10,Dialogue,,0,0,0,,Asta e probabil ceea ce \Ncred cei care ne conduc.
+Dialogue: 99,0:08:01.10,0:08:05.13,Dialogue,,0,0,0,,De asta au apelat din nou la tine după ce te-au aruncat în închisoare,
+Dialogue: 99,0:08:05.13,0:08:08.62,Dialogue,,0,0,0,,deci probabil nu mai au nicio idee ce să facă.
+Dialogue: 99,0:08:08.62,0:08:10.80,Dialogue,,0,0,0,,Vrăjitoarea Calamității de Gheață, nu?
+Dialogue: 99,0:08:10.80,0:08:14.43,Dialogue,,0,0,0,,Iska, chiar vei duce la bun \Nsfârșit această misiune?
+Dialogue: 99,0:08:14.43,0:08:17.96,Dialogue,,0,0,0,,Da. Asta este marea \Nmea șansă, la urma urmei.
+Dialogue: 99,0:08:17.96,0:08:20.67,Dialogue,,0,0,0,,Dacă vei da greș, vei fi...
+Dialogue: 99,0:08:20.67,0:08:23.19,Dialogue,,0,0,0,,Încerc să nu mă gândesc la asta.
+Dialogue: 99,0:08:23.56,0:08:27.22,Dialogue,,0,0,0,,Mi-ar plăcea să pun \Ncapăt acestui război inutil.
+Dialogue: 99,0:08:27.22,0:08:30.98,Dialogue,,0,0,0,,Numai la asta m-am gândit, și acum...
+Dialogue: 99,0:08:30.98,0:08:32.61,Dialogue,,0,0,0,,și atunci.
+Dialogue: 99,0:08:39.91,0:08:43.04,Dialogue,,0,0,0,,Acest reactor de arme \Neste construit recent, nu?
+Dialogue: 99,0:08:43.04,0:08:44.63,Dialogue,,0,0,0,,Așa cred.
+Dialogue: 99,0:08:44.63,0:08:45.88,Dialogue,,0,0,0,,Mă întreb de ce.
+Dialogue: 99,0:08:45.88,0:08:49.91,Dialogue,,0,0,0,,Au un reactor atât de mare, \Ndar sunt atât de puține trupe aici.
+Dialogue: 99,0:08:49.91,0:08:51.31,Dialogue,,0,0,0,,Ah, este ca și cum—
+Dialogue: 99,0:08:51.31,0:08:52.85,Dialogue,,0,0,0,,M-am întors!
+Dialogue: 99,0:08:52.85,0:08:56.56,Dialogue,,0,0,0,,Uua, m-ai speriat. \NNene, nu mă lua prin surprindere astfel.
+Dialogue: 99,0:08:57.50,0:08:59.98,Dialogue,,0,0,0,,Am terminat de verificat vehiculul.
+Dialogue: 99,0:08:59.98,0:09:03.02,Dialogue,,0,0,0,,De asemenea, l-am văzut \Npe comandant în acel cort.
+Dialogue: 99,0:09:03.02,0:09:05.99,Dialogue,,0,0,0,,Se spune că acest reactor nu este încă gata.
+Dialogue: 99,0:09:05.99,0:09:09.06,Dialogue,,0,0,0,,Din moment ce au fost multe atacuri ale magicienilor astrali recent,
+Dialogue: 99,0:09:09.06,0:09:13.01,Dialogue,,0,0,0,,majoritatea sunt ocupați cu apărarea frontului în loc să termine aici.
+Dialogue: 99,0:09:13.01,0:09:16.45,Dialogue,,0,0,0,,Mă gândeam eu. \NDe asta sunt atât de puțini oameni aici.
+Dialogue: 99,0:09:16.45,0:09:18.84,Dialogue,,0,0,0,,Mi se părea mie ciudat.
+Dialogue: 99,0:09:18.84,0:09:22.22,Dialogue,,0,0,0,,Vibrează prea mult în timp ce e pus în funcțiune
+Dialogue: 99,0:09:22.22,0:09:24.96,Dialogue,,0,0,0,,și huruie prea tare în procesul de operare.
+Dialogue: 99,0:09:24.96,0:09:28.52,Dialogue,,0,0,0,,Uau, exact cum era de așteptat de la Nene! \NUn inginer de primă clasă!
+Dialogue: 99,0:09:28.52,0:09:32.20,Dialogue,,0,0,0,,Și mai sunt culoarea și \Nmirosul fumului emanate.
+Dialogue: 99,0:09:32.20,0:09:34.17,Dialogue,,0,0,0,,Sistemul de presiune funcționează,
+Dialogue: 99,0:09:34.17,0:09:36.58,Dialogue,,0,0,0,,dar inelul de control este la limita de...
+Dialogue: 99,0:09:35.45,0:09:37.37,Dialogue Overlap,,0,0,0,,E un cerc vicios.
+Dialogue: 99,0:09:37.37,0:09:39.80,Dialogue,,0,0,0,,Imperiul construiește un reactor.
+Dialogue: 99,0:09:39.80,0:09:42.77,Dialogue,,0,0,0,,Apoi Suveranitatea îl atacă ca să-l distrugă.
+Dialogue: 99,0:09:42.77,0:09:44.50,Dialogue,,0,0,0,,Deci noi construim și mai multe arme.
+Dialogue: 99,0:09:44.50,0:09:48.30,Dialogue,,0,0,0,,După ce acest lucru se repetă continuu timp de o sută de ani, asta este lumea rezultată.
+Dialogue: 99,0:09:48.30,0:09:50.79,Dialogue,,0,0,0,,Asta e ceea ce regurcita mereu maestrul meu.
+Dialogue: 99,0:09:51.42,0:09:53.36,Dialogue,,0,0,0,,Orice a pornit acest război,
+Dialogue: 99,0:09:53.36,0:09:57.77,Dialogue,,0,0,0,,motivele care-l fac să continue acum sunt alimentate de sentimente negative.
+Dialogue: 99,0:09:57.77,0:10:00.40,Dialogue,,0,0,0,,După ce s-a ajuns atât de departe, raționamentul nu-l mai poate opri.
+Dialogue: 99,0:10:00.40,0:10:04.83,Dialogue,,0,0,0,,Nu până când cineva nu îi va pune capăt forțat, \Nchiar dacă asta înseamnă că acea persoană va fi urâtă de toți.
+Dialogue: 99,0:10:05.38,0:10:07.36,Dialogue,,0,0,0,,Să-i pună capăt, nu?
+Dialogue: 99,0:10:07.75,0:10:11.51,Dialogue,,0,0,0,,Pacea la care se gândește \Ncineva anume este o opțiune.
+Dialogue: 99,0:10:11.51,0:10:13.72,Dialogue,,0,0,0,,Dar daca vă funcționa sau \Nnu e o chestiune diferită.
+Dialogue: 99,0:10:19.18,0:10:21.46,Dialogue,,0,0,0,,Da, recepționat.
+Dialogue: 99,0:10:22.10,0:10:23.24,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:10:23.24,0:10:24.81,Dialogue,,0,0,0,,Era o unitate de pe front.
+Dialogue: 99,0:10:24.81,0:10:27.92,Dialogue,,0,0,0,,Spun că nu există niciun atac al magicienilor astrali în acest moment.
+Dialogue: 99,0:10:27.92,0:10:29.89,Dialogue,,0,0,0,,Așteaptă întâlnirea cu noi.
+Dialogue: 99,0:10:33.82,0:10:37.14,Dialogue,,0,0,0,,Nene, c-condu mai cu atenție!
+Dialogue: 99,0:10:37.14,0:10:39.14,Dialogue,,0,0,0,,Nu-ți face griji, nu-ți face griji.
+Dialogue: 99,0:10:39.14,0:10:41.91,Dialogue,,0,0,0,,Aș putea să conduc pe drumurile astea cu un singur ochi fără nicio problemă.
+Dialogue: 99,0:10:41.91,0:10:44.20,Dialogue,,0,0,0,,Te rog să îi ții pe amândoi deschiși!
+Dialogue: 99,0:10:44.78,0:10:45.37,Dialogue,,0,0,0,,Săriți!
+Dialogue: 99,0:10:44.78,0:10:45.37,Dialogue,,0,0,0,,{\an8}Săriți!
+Dialogue: 99,0:10:45.37,0:10:46.28,Dialogue,,0,0,0,,C-Ce?
+Dialogue: 99,0:10:46.28,0:10:47.97,Dialogue,,0,0,0,,Căpitane, ține-te de mine!
+Dialogue: 99,0:10:56.16,0:10:58.03,Dialogue,,0,0,0,,Ăsta a fost atacul unor \Nmagicieni din Nebulis?
+Dialogue: 99,0:10:58.03,0:11:00.80,Dialogue,,0,0,0,,Nu se poate! Încă suntem pe teritoriul Imperiului!
+Dialogue: 99,0:11:00.80,0:11:03.26,Dialogue,,0,0,0,,Au trecut de linia de apărare de pe front.
+Dialogue: 99,0:11:03.26,0:11:05.53,Dialogue,,0,0,0,,Sunt probabil niște magicieni \Nastrali puternici prin preajmă.
+Dialogue: 99,0:11:05.53,0:11:06.64,Dialogue,,0,0,0,,Primim un mesaj.
+Dialogue: 99,0:11:06.64,0:11:11.01,Dialogue,,0,0,0,,Echipa de comunicații \Ndin diviza Nelka cer întăriri.
+Dialogue: 99,0:11:11.01,0:11:12.72,Dialogue,,0,0,0,,Nu avem timp de pierdut, nu?
+Dialogue: 99,0:11:12.72,0:11:14.11,Dialogue,,0,0,0,,Încă putem ataca nedetectați,
+Dialogue: 99,0:11:14.11,0:11:16.94,Dialogue,,0,0,0,,dar avem un batalion de magicieni \Nastrali care se apropie rapid.
+Dialogue: 99,0:11:16.94,0:11:18.62,Dialogue,,0,0,0,,Jhin, în spatele tău!
+Dialogue: 99,0:11:33.00,0:11:35.63,Dialogue,,0,0,0,,A înlăturat cu sabia flăcările astrale?
+Dialogue: 99,0:11:35.63,0:11:38.75,Dialogue,,0,0,0,,D-Doi magicieni astrali! \NToată lumea, aveti grijă!
+Dialogue: 99,0:11:38.75,0:11:41.47,Dialogue,,0,0,0,,Știm. Nu trebuie să strigi ordine astfel.
+Dialogue: 99,0:11:41.47,0:11:43.23,Dialogue,,0,0,0,,Își vor da seama imediat cine este liderul.
+Dialogue: 99,0:11:43.23,0:11:45.04,Dialogue,,0,0,0,,Mai bine ți-ai face griji pentru tine însăți.
+Dialogue: 99,0:11:45.04,0:11:47.10,Dialogue,,0,0,0,,Nici eu nu am nevoie ca să faci tu pe deșteptul!
+Dialogue: 99,0:11:47.10,0:11:48.35,Dialogue,,0,0,0,,Atunci, stai în spate.
+Dialogue: 99,0:11:51.92,0:11:53.87,Dialogue,,0,0,0,,Magicieni astrali ai vântului.
+Dialogue: 99,0:12:00.36,0:12:02.16,Dialogue,,0,0,0,,Când au...
+Dialogue: 99,0:12:02.16,0:12:06.10,Dialogue,,0,0,0,,Presupun că nu-i poți detecta \Ncând sunt sub pământ.
+Dialogue: 99,0:12:06.10,0:12:08.00,Dialogue,,0,0,0,,Asta este o vrajă la scală mare.
+Dialogue: 99,0:12:08.00,0:12:10.14,Dialogue,,0,0,0,,Deci au un magician astral \Ndestul de puternic cu ei.
+Dialogue: 99,0:12:10.14,0:12:12.46,Dialogue,,0,0,0,,Cum puteți fi atât de calmi?!
+Dialogue: 99,0:12:12.46,0:12:14.78,Dialogue,,0,0,0,,Ei bine, am anticipat că așa \Nceva s-ar putea întâmpla.
+Dialogue: 99,0:12:14.78,0:12:16.60,Dialogue,,0,0,0,,Iska, te poți ocupa de ei toți?
+Dialogue: 99,0:12:16.60,0:12:18.22,Dialogue,,0,0,0,,Odată ce-mi reintru în mână.
+Dialogue: 99,0:12:18.22,0:12:20.39,Dialogue,,0,0,0,,Dar în acest moment ar fi puțin dificil.
+Dialogue: 99,0:12:20.39,0:12:21.29,Dialogue,,0,0,0,,Ceea ce înseamnă,
+Dialogue: 99,0:12:21.29,0:12:24.13,Dialogue,,0,0,0,,că voi avea nevoie de ajutorul tău, Nene.
+Dialogue: 99,0:12:24.13,0:12:25.35,Dialogue,,0,0,0,,Am înțeles!
+Dialogue: 99,0:12:26.37,0:12:29.26,Dialogue,,0,0,0,,Rachete anti-astrale... foc!
+Dialogue: 99,0:12:40.94,0:12:42.17,Dialogue,,0,0,0,,Ocupă-te de cei din dreapta.
+Dialogue: 99,0:12:46.70,0:12:48.84,Dialogue,,0,0,0,,Putere astrală a infernului nestăvilit...
+Dialogue: 99,0:12:52.76,0:12:53.96,Dialogue,,0,0,0,,prinde viață!
+Dialogue: 99,0:13:03.01,0:13:05.65,Dialogue,,0,0,0,,Ai sărit din zona de efect?
+Dialogue: 99,0:13:05.65,0:13:07.72,Dialogue,,0,0,0,,Așa ceva este imposibil!
+Dialogue: 99,0:13:09.43,0:13:12.14,Dialogue,,0,0,0,,Pentru asta am fost antrenat.
+Dialogue: 99,0:13:15.96,0:13:17.23,Dialogue,,0,0,0,,Jhin, la tine cum merge?
+Dialogue: 99,0:13:17.23,0:13:18.73,Dialogue,,0,0,0,,Am terminat deja.
+Dialogue: 99,0:13:19.69,0:13:21.25,Dialogue,,0,0,0,,Uimitor.
+Dialogue: 99,0:13:21.25,0:13:24.75,Dialogue,,0,0,0,,Jhin și Iska, nu încetăți \Nniciodată să mă impresionați.
+Dialogue: 99,0:13:24.75,0:13:29.47,Dialogue,,0,0,0,,Acum un an, am fi lăsat totul în seama lui Iska și am fi mers înainte fără el.
+Dialogue: 99,0:13:29.47,0:13:32.20,Dialogue,,0,0,0,,Ești un berserker anti-război, nu-i așa?
+Dialogue: 99,0:13:36.21,0:13:37.92,Dialogue,,0,0,0,,Puterea astrală a pământului?
+Dialogue: 99,0:13:37.92,0:13:41.56,Dialogue,,0,0,0,,Un golem. Și chiar unul care \Npoate fi creat foarte rapid.
+Dialogue: 99,0:13:43.13,0:13:44.64,Dialogue,,0,0,0,,Cât de neobișnuit.
+Dialogue: 99,0:13:44.64,0:13:48.31,Dialogue,,0,0,0,,V-ați ocupat de acea \Ndivizie înainte să ajung aici?
+Dialogue: 99,0:13:48.31,0:13:50.60,Dialogue,,0,0,0,,Voi păreți a fi doar o divizie obișnuită.
+Dialogue: 99,0:13:50.97,0:13:51.88,Dialogue,,0,0,0,,Prinde viață.
+Dialogue: 99,0:14:02.23,0:14:04.60,Dialogue,,0,0,0,,Căpitane, mă voi ocupa eu de asta.
+Dialogue: 99,0:14:04.60,0:14:07.20,Dialogue,,0,0,0,,I-ai pe Jhin și pe Nene și \Nmergeți să oferiți sprijin pe front.
+Dialogue: 99,0:14:07.20,0:14:08.77,Dialogue,,0,0,0,,Ce? Dar...
+Dialogue: 99,0:14:09.31,0:14:12.82,Dialogue,,0,0,0,,Ne va lua la fel de mult chiar \Ndacă vom rămâne toți patru aici.
+Dialogue: 99,0:14:12.82,0:14:15.33,Dialogue,,0,0,0,,Bine. Ai grijă!
+Dialogue: 99,0:14:19.88,0:14:21.35,Dialogue,,0,0,0,,S-a regenerat?
+Dialogue: 99,0:14:28.13,0:14:31.16,Dialogue,,0,0,0,,Ai tăiat cu sabia prin artele mele astrale? \NEști cumva un Discipol Sfânt?!
+Dialogue: 99,0:14:31.16,0:14:32.70,Dialogue,,0,0,0,,Nu am nicio intenție ca să răspund.
+Dialogue: 99,0:14:32.70,0:14:36.97,Dialogue,,0,0,0,,Dar o voi face dacă-mi vei spune unde este magicianul astral cunoscut sub numele de Vrăjitoarea Calamității de Gheață.
+Dialogue: 99,0:14:36.97,0:14:39.00,Dialogue,,0,0,0,,Tăcere, gândacule!
+Dialogue: 99,0:14:39.00,0:14:41.50,Dialogue,,0,0,0,,Nu-ți voi permite nici măcar s-o privești!
+Dialogue: 99,0:14:42.13,0:14:46.19,Dialogue,,0,0,0,,Presupun că nu o vei face. \NDar am treburile mele cu ea!
+Dialogue: 99,0:14:46.19,0:14:47.72,Dialogue,,0,0,0,,Poți să uiți de ele!
+Dialogue: 99,0:14:56.08,0:14:56.95,Dialogue,,0,0,0,,Prea încet.
+Dialogue: 99,0:14:57.64,0:14:59.79,Dialogue,,0,0,0,,Cine naiba ești?
+Dialogue: 99,0:14:59.79,0:15:01.65,Dialogue,,0,0,0,,Unde este Vrăjitoarea Calamității de Gheață?
+Dialogue: 99,0:15:01.65,0:15:06.09,Dialogue,,0,0,0,,Ucide-mă. Noi, magicienii astrali, nu vom avea nimic de a face cu câinii Imperiului.
+Dialogue: 99,0:15:06.65,0:15:09.66,Dialogue,,0,0,0,,Suntem gata să alegem moartea în loc să devenim prizonierii voștri.
+Dialogue: 99,0:15:13.18,0:15:16.06,Dialogue,,0,0,0,,Crezi că dacă mă ameninți cu sabia voi vorbi?
+Dialogue: 99,0:15:16.06,0:15:17.93,Dialogue,,0,0,0,,Și eu sunt gata să lupt corp la corp.
+Dialogue: 99,0:15:17.93,0:15:19.35,Dialogue,,0,0,0,,Dispari!
+Dialogue: 99,0:15:21.19,0:15:23.15,Dialogue,,0,0,0,,I-Imposibil...
+Dialogue: 99,0:15:30.81,0:15:32.13,Dialogue,,0,0,0,,Domnișoară Alice...
+Dialogue: 99,0:15:32.13,0:15:35.14,Dialogue,,0,0,0,,Alice? Nu spune că tu ești Vrăjitoarea Calamității...
+Dialogue: 99,0:15:35.14,0:15:36.03,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:15:42.20,0:15:44.00,Dialogue,,0,0,0,,Acela-mi este numele.
+Dialogue: 99,0:15:45.70,0:15:47.13,Dialogue,,0,0,0,,Permite-mi să-ți dovedesc.
+Dialogue: 99,0:15:47.13,0:15:48.92,Dialogue,,0,0,0,,O vei simți pe pielea ta.
+Dialogue: 99,0:15:50.42,0:15:51.83,Dialogue,,0,0,0,,Măreața Calamitate de Gheață.
+Dialogue: 99,0:16:04.18,0:16:05.94,Dialogue,,0,0,0,,Rin, ești bine?
+Dialogue: 99,0:16:05.94,0:16:07.40,Dialogue,,0,0,0,,Domnișoară Alice.
+Dialogue: 99,0:16:10.97,0:16:12.82,Dialogue,,0,0,0,,Cred că glumești...
+Dialogue: 99,0:16:12.82,0:16:14.61,Dialogue,,0,0,0,,Vă rog să aveți grijă.
+Dialogue: 99,0:16:14.61,0:16:18.59,Dialogue,,0,0,0,,Sabia acelui individ poate tăia și bloca artele astrale.
+Dialogue: 99,0:16:18.59,0:16:20.04,Dialogue,,0,0,0,,Mulțumesc, Rin.
+Dialogue: 99,0:16:20.04,0:16:22.43,Dialogue,,0,0,0,,Te-ai descurcat bine ținându-l aici.
+Dialogue: 99,0:16:22.43,0:16:23.47,Dialogue,,0,0,0,,Aici?
+Dialogue: 99,0:16:27.21,0:16:28.92,Dialogue,,0,0,0,,Reactorul!
+Dialogue: 99,0:16:29.47,0:16:30.86,Dialogue,,0,0,0,,Spulberă.
+Dialogue: 99,0:16:33.34,0:16:35.84,Dialogue,,0,0,0,,Deci acesta era planul \Nvostru de la bun început?
+Dialogue: 99,0:16:35.84,0:16:37.21,Dialogue,,0,0,0,,Cine ești?
+Dialogue: 99,0:16:37.21,0:16:40.34,Dialogue,,0,0,0,,Cum ar putea cineva care nu este un Discipol Sfânt să fie mai puternic decât Rin?
+Dialogue: 99,0:16:40.34,0:16:42.58,Dialogue,,0,0,0,,Sunt aici ca să te capturez.
+Dialogue: 99,0:16:42.58,0:16:44.77,Dialogue,,0,0,0,,Cu cine crezi că vorbești?
+Dialogue: 99,0:16:44.77,0:16:48.36,Dialogue,,0,0,0,,Dacă nu vrei să simți o durere de gheață mai îngrozitoare decât moartea, atunci...
+Dialogue: 99,0:16:48.94,0:16:50.78,Dialogue,,0,0,0,,Predă-te.
+Dialogue: 99,0:16:51.50,0:16:54.89,Dialogue,,0,0,0,,Spadasin al Imperiului, \Ncare este numele tău?
+Dialogue: 99,0:16:54.89,0:16:57.20,Dialogue,,0,0,0,,Iska. Al tău?
+Dialogue: 99,0:16:57.20,0:16:59.83,Dialogue,,0,0,0,,Aliceliese Lou Nebulis a IX-a.
+Dialogue: 99,0:16:59.83,0:17:01.85,Dialogue,,0,0,0,,Și știi deja că
+Dialogue: 99,0:17:01.85,0:17:06.00,Dialogue,,0,0,0,,sunt magicianul astral pe care voi, cei din Imperiu, o numiți "Vrăjitoarea Calamițății de Gheață".
+Dialogue: 99,0:17:11.88,0:17:13.38,Dialogue,,0,0,0,,Ziduri, ridicați-vă!
+Dialogue: 99,0:17:17.55,0:17:20.21,Dialogue,,0,0,0,,Calamitatea de Gheață: \NFurtuna celor o Mie de Spini!
+Dialogue: 99,0:17:23.37,0:17:24.68,Dialogue,,0,0,0,,Străpungeți-l!
+Dialogue: 99,0:17:35.36,0:17:37.57,Dialogue,,0,0,0,,Asta este tot ce poți?
+Dialogue: 99,0:17:37.57,0:17:38.82,Dialogue,,0,0,0,,Nu...
+Dialogue: 99,0:17:38.82,0:17:40.03,Dialogue,,0,0,0,,Trezește-te.
+Dialogue: 99,0:17:46.12,0:17:48.66,Dialogue,,0,0,0,,Poate folosi aceleași arte \Nastrale ca domnișoara Alice?!
+Dialogue: 99,0:17:48.66,0:17:49.92,Dialogue,,0,0,0,,Cine naiba ești tu?!
+Dialogue: 99,0:17:49.92,0:17:53.76,Dialogue,,0,0,0,,Asta este puterea astrală a sabiei, nu a mea.
+Dialogue: 99,0:17:56.01,0:17:57.07,Dialogue,,0,0,0,,Înflorirea Gheții.
+Dialogue: 99,0:18:01.01,0:18:02.63,Dialogue,,0,0,0,,Este un scut impenetrabil.
+Dialogue: 99,0:18:02.63,0:18:04.35,Dialogue,,0,0,0,,Ar trebui să renunți.
+Dialogue: 99,0:18:04.35,0:18:06.18,Dialogue,,0,0,0,,Să renunț?
+Dialogue: 99,0:18:06.18,0:18:10.30,Dialogue,,0,0,0,,Dacă eu voi renunța aici, \Natunci cine va pune capăt acestui război?!
+Dialogue: 99,0:18:16.53,0:18:17.65,Dialogue,,0,0,0,,Liane!
+Dialogue: 99,0:18:26.87,0:18:29.83,Dialogue,,0,0,0,,Domnișoara Alice s-a dat înapoi?
+Dialogue: 99,0:18:29.83,0:18:32.81,Dialogue,,0,0,0,,Atât de insistent. \NPredă-te sau vei fi distrus!
+Dialogue: 99,0:18:32.81,0:18:34.38,Dialogue,,0,0,0,,De ce nu te retragi tu în schimb?!
+Dialogue: 99,0:18:34.38,0:18:38.80,Dialogue,,0,0,0,,Nu mă voi retrage până nu voi învinge Imperiul și voi unifica lumea.
+Dialogue: 99,0:18:38.80,0:18:40.55,Dialogue,,0,0,0,,Unifica lumea?
+Dialogue: 99,0:18:40.55,0:18:43.71,Dialogue,,0,0,0,,O armonie veșnică. \NFără invazii, fără asupriri...
+Dialogue: 99,0:18:43.71,0:18:49.23,Dialogue,,0,0,0,,Asta e ceea ce eu, moștenitoarea Suveranității Nebulis, Aliceliese...
+Dialogue: 99,0:18:58.75,0:19:01.17,Dialogue,,0,0,0,,E-Ești bine?
+Dialogue: 99,0:19:01.17,0:19:03.28,Dialogue,,0,0,0,,D-Da, mulțumesc.
+Dialogue: 99,0:19:09.87,0:19:12.90,Dialogue,,0,0,0,,Stai, c-c-c-c-c-c-c-ce crezi că faci?!
+Dialogue: 99,0:19:12.90,0:19:14.10,Dialogue,,0,0,0,,Din reflex...
+Dialogue: 99,0:19:14.10,0:19:15.89,Dialogue,,0,0,0,,Iska!
+Dialogue: 99,0:19:20.26,0:19:22.02,Dialogue,,0,0,0,,Rin, ar trebui să ne retragem.
+Dialogue: 99,0:19:22.02,0:19:24.24,Dialogue,,0,0,0,,D-Dar, domnisoară Alice?!
+Dialogue: 99,0:19:29.47,0:19:31.00,Dialogue,,0,0,0,,Iska, spuneai că te cheamă?
+Dialogue: 99,0:19:31.00,0:19:32.81,Dialogue,,0,0,0,,Să nu crezi că vei fi la fel \Nde norocos data viitoare.
+Dialogue: 99,0:19:42.45,0:19:44.27,Dialogue,,0,0,0,,Iska!
+Dialogue: 99,0:19:44.99,0:19:47.75,Dialogue,,0,0,0,,Mă bucur atât de mult că ești bine!
+Dialogue: 99,0:19:47.75,0:19:49.83,Dialogue,,0,0,0,,Îmi făceam griji!
+Dialogue: 99,0:19:50.80,0:19:53.14,Dialogue,,0,0,0,,Ești în regulă, nu? \NNu ai fost rănit, nu?
+Dialogue: 99,0:19:53.14,0:19:56.60,Dialogue,,0,0,0,,Să îmbrățișezi o persoană care ar putea fi rănită nu e o idee prea bună...
+Dialogue: 99,0:19:56.60,0:19:58.44,Dialogue,,0,0,0,,O, scuze!
+Dialogue: 99,0:19:58.44,0:20:01.97,Dialogue,,0,0,0,,Hei, Jhin. Toate astea chiar au \Nfost cauzate de o artă astrală?
+Dialogue: 99,0:20:01.97,0:20:05.88,Dialogue,,0,0,0,,Zvonurile erau adevărate. Se pare că este un magician astral extraordinar.
+Dialogue: 99,0:20:05.88,0:20:09.43,Dialogue,,0,0,0,,Gheața a ajuns până aproape de punctul nostru de întâlnire de pe frontul de luptă.
+Dialogue: 99,0:20:26.11,0:20:29.96,Dialogue,,0,0,0,,Domnișoară Alice, ați fost \Nîn baie în tot acest timp?
+Dialogue: 99,0:20:29.96,0:20:32.16,Dialogue,,0,0,0,,Cred că ar fi bine să ieșiți.
+Dialogue: 99,0:20:44.05,0:20:47.85,Dialogue,,0,0,0,,Dacă eu voi renunța aici, \Natunci cine va pune capăt acestui război?!
+Dialogue: 99,0:20:54.03,0:20:56.36,Dialogue,,0,0,0,,Fir-ar, asta nu-mi face niciun bine!
+Dialogue: 99,0:20:56.36,0:20:58.23,Dialogue,,0,0,0,,Am nevoie de o schimbare de peisaj!
+Dialogue: 99,0:20:58.95,0:21:00.27,Dialogue,,0,0,0,,Domnișoară Alice?
+Dialogue: 99,0:21:04.29,0:21:06.40,Dialogue,,0,0,0,,Hei, Rin, privește.
+Dialogue: 99,0:21:06.40,0:21:09.51,Dialogue,,0,0,0,,{\i1}Dragostea tragică a femeii-cavaler Beatrix{\i0}.
+Dialogue: 99,0:21:10.30,0:21:14.12,Dialogue,,0,0,0,,Vrei să mergi la opera din Orașul Neutru din nou?
+Dialogue: 99,0:21:17.08,0:21:21.75,Dialogue,,0,0,0,,{\an8}Adio, Beatrix. Nu pot fi cu tine.
+Dialogue: 99,0:21:17.66,0:21:22.08,Dialogue,,0,0,0,,O, Beatrix! Să te îndrăgostești de cavalerul inamic...
+Dialogue: 99,0:21:22.54,0:21:25.95,Dialogue,,0,0,0,,O dragoste interzisă care n-ar fi dat niciodată roade, indiferent cât de puternică era iubirea voastră.
+Dialogue: 99,0:21:22.08,0:21:25.95,Dialogue,,0,0,0,,{\an8}Adio, Azel.
+Dialogue: 99,0:21:25.95,0:21:29.26,Dialogue,,0,0,0,,Cum poate exista o iubire atât de dureroasă?
+Dialogue: 99,0:21:25.96,0:21:29.26,Dialogue,,0,0,0,,{\an8}Data viitoare când ne vom întâlni, nu va fi într-o biserică ca acum, ci pe câmpul de luptă.
+Dialogue: 99,0:21:29.26,0:21:33.74,Dialogue,,0,0,0,,Azel, ești așa un prost... Cum poți să...
+Dialogue: 99,0:21:33.74,0:21:35.87,Dialogue,,0,0,0,,Șșș, mai încet.
+Dialogue: 99,0:21:35.87,0:21:37.78,Dialogue,,0,0,0,,Unde-ți este batista?
+Dialogue: 99,0:21:37.78,0:21:40.27,Dialogue,,0,0,0,,Este fleașcă deja.
+Dialogue: 99,0:21:40.96,0:21:43.09,Dialogue,,0,0,0,,Ei bine, de ce nu o folosești pe aceasta?
+Dialogue: 99,0:21:43.09,0:21:46.55,Dialogue,,0,0,0,,Ce? Mulțumesc foarte mult.
+Dialogue: 99,0:21:58.25,0:22:01.71,Dialogue,,0,0,0,,Ei bine, îmi cer scuze că ți-am udat batista.
+Dialogue: 99,0:22:01.71,0:22:03.82,Dialogue,,0,0,0,,Voi plăti pentru ea.
+Dialogue: 99,0:22:03.82,0:22:05.93,Dialogue,,0,0,0,,O, nu, nu trebuie să-ți faci griji.
+Dialogue: 99,0:22:05.93,0:22:07.90,Dialogue,,0,0,0,,Este doar o batistă iefti...
+Dialogue: 99,0:22:13.47,0:22:14.45,Dialogue,,0,0,0,,Ce?
 Dialogue: 0,0:01:04.12,0:01:10.04,DedzuyaSigns,,0,0,0,,{\an1\pos(170,275)\fnHeuristica\fs120\c&H000000&\blur0.6}Ultima noastră cruciadă
 Dialogue: 1,0:01:04.12,0:01:10.04,DedzuyaSigns,,0,0,0,,{\an1\pos(170,275)\fnHeuristica\fs120\c&H7F01E3&\blur0.6\clip(m 112 184 l 339 236 340 88 113 102)}Ultima noastră cruciadă
 Dialogue: 1,0:01:04.12,0:01:10.04,DedzuyaSigns,,0,0,0,,{\an1\pos(170,275)\fnHeuristica\fs120\c&HE8A001&\blur0.6\clip(m 654 249 l 860 207 860 305)}Ultima noastră cruciadă

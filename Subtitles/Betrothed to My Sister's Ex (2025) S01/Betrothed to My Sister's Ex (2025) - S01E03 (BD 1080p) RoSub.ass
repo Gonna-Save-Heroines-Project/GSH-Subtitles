@@ -33,425 +33,425 @@ Comment: 0,0:01:16.97,0:01:17.01,Dialogue,chptr,0,0,0,,{OP}
 Comment: 0,0:02:47.02,0:02:47.06,Dialogue,chptr,0,0,0,,{Episod}
 Comment: 0,0:22:26.99,0:22:27.04,Dialogue,chptr,0,0,0,,{ED}
 Comment: 0,0:23:57.00,0:23:57.04,Dialogue,chptr,0,0,0,,{Data viitoare}
-Dialogue: 100,0:00:08.20,0:00:10.07,Dialogue,Ilza,0,0,0,,{\pos(1310,1020)}Eu sunt Ilza.
-Dialogue: 100,0:00:10.07,0:00:11.78,Dialogue,Hannah,0,0,0,,{\pos(660,1020)}Eu sunt Hannah.
-Dialogue: 100,0:00:12.49,0:00:17.37,Dialogue,Mio,0,0,0,,Când voi fi ocupată cu alte treburi, ele două se vor ocupa de nevoile tale.
-Dialogue: 100,0:00:18.04,0:00:21.50,Dialogue,Marie; internal,0,0,0,,{\i1}O persoană ca mine primește \Nservitoare? Și nu una, ci două?
-Dialogue: 100,0:00:21.50,0:00:23.96,Dialogue,Marie; internal,0,0,0,,{\i1}Sinceră să fiu, sigur voi fi \Nprea precaută în preajma lor,
-Dialogue: 100,0:00:23.96,0:00:26.13,Dialogue,Marie; internal,0,0,0,,{\i1}dar asta e ceva normal \Nîn rândul nobililor.
-Dialogue: 100,0:00:29.26,0:00:32.14,Dialogue,Marie,0,0,0,,Eu sunt Maria Shaderan.
-Dialogue: 100,0:00:32.14,0:00:34.76,Dialogue,Marie,0,0,0,,Mă bucur să primesc asistența voastră.
-Dialogue: 100,0:00:37.77,0:00:39.27,Dialogue,Marie,0,0,0,,E-Ei bine...
-Dialogue: 100,0:00:40.23,0:00:43.02,Dialogue,Marie,0,0,0,,Sunteți cumva venite din capitală?
-Dialogue: 100,0:00:43.02,0:00:45.48,Dialogue,Ilza,0,0,0,,Da. Amândouă provenim din familii de cavaleri.
-Dialogue: 100,0:00:45.48,0:00:48.90,Dialogue,Ilza,0,0,0,,Am venit aici la recomandarea \Ncelui de-al treilea prinț.
-Dialogue: 100,0:00:48.90,0:00:51.32,Dialogue,Hannah,0,0,0,,Amândouă am servit în palatul regal.
-Dialogue: 100,0:00:51.32,0:00:54.03,Dialogue,Marie,0,0,0,,Palatul regal? Uimitor!
-Dialogue: 100,0:00:54.33,0:00:59.37,Dialogue,Ilza,0,0,0,,Totuși, domniță Maria, pentru o persoană de noblețea dumneavoastră, nu cred că poveștile din capitală...
-Dialogue: 100,0:00:59.37,0:01:02.54,Dialogue,Hannah,0,0,0,,...vi se vor părea interesante, nu?
-Dialogue: 100,0:01:03.88,0:01:05.34,Dialogue,Marie; internal,0,0,0,,{\i1}Ce?
-Dialogue: 100,0:01:06.25,0:01:07.46,Dialogue,Marie; internal,0,0,0,,{\i1}Dintr-un oarecare motiv...
-Dialogue: 100,0:01:08.76,0:01:09.72,Dialogue,Mio,0,0,0,,Domniță Maria.
-Dialogue: 100,0:01:11.09,0:01:12.97,Dialogue,Mio,0,0,0,,Bănuiesc că ați dori să \Nserviți acum micul dejun.
-Dialogue: 100,0:01:13.97,0:01:15.18,Dialogue,Marie,0,0,0,,Da.
-Dialogue: 100,0:02:50.78,0:02:53.07,Dialogue,Marie,0,0,0,,{\an8}A-Asta este...
-Dialogue: 100,0:02:53.78,0:02:56.82,Dialogue,Mio,0,0,0,,Aperitivul e compus dintr-un platou cu șapte tipuri de mezeluri.
-Dialogue: 100,0:02:56.82,0:02:58.45,Dialogue,Mio,0,0,0,,Avem șuncă de porc și cârnați.
-Dialogue: 100,0:02:58.45,0:02:59.78,Dialogue,Mio,0,0,0,,Rulada e de fazan.
-Dialogue: 100,0:02:59.78,0:03:03.50,Dialogue,Mio,0,0,0,,Pateul de țară e din rață și carne de vânat.
-Dialogue: 100,0:03:04.29,0:03:06.71,Dialogue,Marie,0,0,0,,S-Sunt destul de multe animale aici.
-Dialogue: 100,0:03:07.17,0:03:09.88,Dialogue,Mio,0,0,0,,Am pregătit mai multe mâncăruri \Npentru dumneavoastră,
-Dialogue: 100,0:03:09.88,0:03:12.05,Dialogue,Mio,0,0,0,,așa că vă rog să-mi spuneți care vă plac.
-Dialogue: 100,0:03:12.42,0:03:15.43,Dialogue,Marie,0,0,0,,Nu cred că gustul și stomacul \Nmeu sunt suficient de rafinate
-Dialogue: 100,0:03:15.43,0:03:17.47,Dialogue,Marie,0,0,0,,încât să pot termina tot.
-Dialogue: 100,0:03:17.80,0:03:22.14,Dialogue,Mio,0,0,0,,Mâncați doar ce vă place. Vă rog să lăsați în farfurii tot ce nu puteți termina.
-Dialogue: 100,0:03:22.14,0:03:24.35,Dialogue,Marie,0,0,0,,Oh, nu aș putea face așa ceva! \NAr fi o risipă totală!
-Dialogue: 100,0:03:24.35,0:03:26.90,Dialogue,Mio,0,0,0,,Acestea sunt ordinele stăpânului.
-Dialogue: 100,0:03:26.90,0:03:29.23,Dialogue,Marie,0,0,0,,Unde e lordul Kyros în acest moment?
-Dialogue: 100,0:03:29.23,0:03:30.73,Dialogue,Mio,0,0,0,,Este plecat cu treburi.
-Dialogue: 100,0:03:31.02,0:03:33.03,Dialogue,Marie,0,0,0,,Atunci, ai dori jumătate...
-Dialogue: 100,0:03:33.03,0:03:36.74,Dialogue,Mio,0,0,0,,Un servitor nu poate mânca \Nalături de stăpânul său.
-Dialogue: 100,0:03:37.49,0:03:39.87,Dialogue,Marie; internal,0,0,0,,{\i1}Nu mai știu ce să încerc.
-Dialogue: 100,0:03:42.74,0:03:44.50,Dialogue,Marie,0,0,0,,E delicios!
-Dialogue: 100,0:03:45.71,0:03:47.17,Dialogue,Marie,0,0,0,,{\i1}Și asta e delicios!
-Dialogue: 100,0:03:47.58,0:03:48.63,Dialogue,Marie,0,0,0,,{\i1}Vai!
-Dialogue: 100,0:03:55.22,0:03:58.26,Dialogue,Mio,0,0,0,,Domniță Maria, vă rog să nu vă forțați.
-Dialogue: 100,0:03:58.26,0:04:01.26,Dialogue,Marie,0,0,0,,Nu o fac. Totul este delicios \Nși mai am destul loc.
-Dialogue: 100,0:04:01.26,0:04:02.18,Dialogue,Marie,0,0,0,,Probabil.
-Dialogue: 100,0:04:04.52,0:04:07.27,Dialogue,Mio,0,0,0,,Vă rog să nu încercați \Nsă vă depășiți limitele.
-Dialogue: 100,0:04:09.90,0:04:14.82,Dialogue,Marie,0,0,0,,{\i1}Îmi pare așa de rău... Și de ingrediente, \Nși de munca bucătarului.
-Dialogue: 100,0:04:15.24,0:04:19.49,Dialogue,Mio,0,0,0,,După ce vă veți odihni puțin,\Nvă voi arăta palatul.
-Dialogue: 100,0:04:20.99,0:04:22.66,Dialogue,Mio,0,0,0,,Aveți aici haine de schimb.
-Dialogue: 100,0:04:26.41,0:04:28.25,Dialogue,Marie,0,0,0,,E-E incredibil.
-Dialogue: 100,0:04:28.25,0:04:30.08,Dialogue,Marie,0,0,0,,A-Arată extraordinar.
-Dialogue: 100,0:04:30.08,0:04:32.38,Dialogue,Marie,0,0,0,,Dar am un singur corp.
-Dialogue: 100,0:04:32.38,0:04:33.67,Dialogue,Mio,0,0,0,,Știu.
-Dialogue: 100,0:04:33.92,0:04:38.42,Dialogue,Mio,0,0,0,,Pe lângă acestea, mai avem și haine de sezon. Sunt peste o sută în total.
-Dialogue: 100,0:04:38.42,0:04:39.76,Dialogue,Marie,0,0,0,,Peste o sută?!
-Dialogue: 100,0:04:40.47,0:04:42.68,Dialogue,Mio,0,0,0,,Vă rog să alegeți ceva ce vă place.
-Dialogue: 100,0:04:42.68,0:04:43.14,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:04:43.76,0:04:47.06,Dialogue,Marie,0,0,0,,Ceva... ce îmi place.
-Dialogue: 100,0:04:47.60,0:04:49.06,Dialogue,Mio,0,0,0,,Nu vă place niciuna?
-Dialogue: 100,0:04:49.06,0:04:50.06,Dialogue,Marie,0,0,0,,Nu este asta.
-Dialogue: 100,0:04:50.65,0:04:54.07,Dialogue,Marie,0,0,0,,Toate sunt atât de frumoase \Nîncât nu știu ce să aleg.
-Dialogue: 100,0:04:55.02,0:04:56.82,Dialogue,Mio,0,0,0,,Atunci, haideți s-o alegem pe aceasta.
-Dialogue: 100,0:04:57.53,0:04:58.44,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:05:02.49,0:05:03.99,Dialogue,Mio,0,0,0,,Vi se potrivește perfect.
-Dialogue: 100,0:05:04.66,0:05:06.04,Dialogue,Marie,0,0,0,,Mulțumesc.
-Dialogue: 100,0:05:06.04,0:05:07.41,Dialogue,Mio,0,0,0,,Sunteți gata să mergem?
-Dialogue: 100,0:05:08.20,0:05:10.04,Dialogue,Mio,0,0,0,,{\fad(0,200)}Castelul Granado a fost construit
-Dialogue: 100,0:05:10.04,0:05:13.17,Dialogue,Mio,0,0,0,,{\fad(200,0)}pentru a proteja granițele \Nregatului pe timp de război.
-Dialogue: 100,0:05:13.17,0:05:17.88,Dialogue,Mio,0,0,0,,Membrii familiei Granado, având titlul de margrafi pe atunci, l-au construit ca o fortăreață.
-Dialogue: 100,0:05:19.05,0:05:22.68,Dialogue,Marie,0,0,0,,Dacă-mi amintesc bine, familia Granado are legături de rudenie cu familia regală, nu?
-Dialogue: 100,0:05:22.68,0:05:27.77,Dialogue,Mio,0,0,0,,Da, dar după război, au obținut titlul de duce, iar acum își guvernează singuri propriile ținuturi.
-Dialogue: 100,0:05:27.77,0:05:29.89,Dialogue,Mio,0,0,0,,Nu iau parte la succesiunea la tron.
-Dialogue: 100,0:05:30.19,0:05:31.02,Dialogue,Mio,0,0,0,,Și acum.
-Dialogue: 100,0:05:31.44,0:05:34.48,Dialogue,Mio,0,0,0,,Acest castel e folosit doar \Npentru ocazii speciale.
-Dialogue: 100,0:05:34.48,0:05:38.40,Dialogue,Mio,0,0,0,,Domniță Maria, permiteți-mi să vă conduc la conacul unde veți locui.
-Dialogue: 100,0:05:38.40,0:05:39.82,Dialogue,Marie,0,0,0,,Conac?
-Dialogue: 100,0:05:40.45,0:05:42.82,Dialogue,Mio,0,0,0,,Se află dincolo de această ușă.
-Dialogue: 100,0:05:55.00,0:05:56.67,Dialogue,Marie,0,0,0,,E minunat!
-Dialogue: 100,0:05:56.67,0:06:00.80,Dialogue,Mio,0,0,0,,{\fad(0,500)}Acest conac a fost construit \Nde către ducesa Liu Liu.
-Dialogue: 100,0:06:00.80,0:06:02.22,Dialogue,Mio,0,0,0,,La parter se află bucătăria
-Dialogue: 100,0:06:02.22,0:06:05.76,Dialogue,Mio,0,0,0,,și camerele servitorilor.
-Dialogue: 100,0:06:06.18,0:06:08.68,Dialogue,Mio,0,0,0,,Există și camere private \Npentru familia ducesei,
-Dialogue: 100,0:06:08.68,0:06:11.56,Dialogue,Mio,0,0,0,,precum și spații pentru a \Nprimi oaspeți importanți.
-Dialogue: 100,0:06:18.40,0:06:20.94,Dialogue,Marie,0,0,0,,Scuză-mă, tu ești Tomas, nu-i așa?
-Dialogue: 100,0:06:20.94,0:06:23.95,Dialogue,Marie,0,0,0,,Îmi cer scuze pentru comportamentul nepoliticos al tatălui meu.
-Dialogue: 100,0:06:23.95,0:06:26.16,Dialogue,Tomas,0,0,0,,Domniță, cum de îmi știți numele?
-Dialogue: 100,0:06:26.16,0:06:28.45,Dialogue,Marie,0,0,0,,Cred că l-am auzit \Nspus de o altă persoană.
-Dialogue: 100,0:06:28.45,0:06:30.12,Dialogue,Tomas,0,0,0,,Așa este! Acela e numele meu!
-Dialogue: 100,0:06:30.87,0:06:32.79,Dialogue,Tomas,0,0,0,,Mă bucură faptul că-mi știți numele.
-Dialogue: 100,0:06:33.92,0:06:37.00,Dialogue,Marie,0,0,0,,Permite-mi să mă prezint. \NEu sunt Maria Shaderan.
-Dialogue: 100,0:06:37.38,0:06:40.17,Dialogue,Tomas,0,0,0,,Eu sunt Dibomov Tomas Tender.
-Dialogue: 100,0:06:40.17,0:06:42.34,Dialogue,Tomas,0,0,0,,Vă rog să-mi spuneți doar Tomas.
-Dialogue: 100,0:06:42.34,0:06:43.59,Dialogue,Marie,0,0,0,,Dibomov?
-Dialogue: 100,0:06:43.59,0:06:47.01,Dialogue,Marie,0,0,0,,Ai același nume precum eroul Dibomov care a descoperit Insula Louhav?
-Dialogue: 100,0:06:47.01,0:06:47.51,Dialogue,Tomas,0,0,0,,Ce?
-Dialogue: 100,0:06:47.72,0:06:50.85,Dialogue,Tomas,0,0,0,,Sunt uimit că ați auzit de el! \NDa, sunt de pe Insula Louhav!
-Dialogue: 100,0:06:51.22,0:06:53.81,Dialogue,Tomas,0,0,0,,Domnișoară, sunteți incredibil de citită!
-Dialogue: 100,0:06:57.98,0:07:00.78,Dialogue,Mio,0,0,0,,Domnița Maria e logodnica stăpânului.
-Dialogue: 100,0:07:00.78,0:07:02.40,Dialogue,Mio,0,0,0,,Nu o atinge fără permisiune.
-Dialogue: 100,0:07:02.40,0:07:04.36,Dialogue,Tomas,0,0,0,,Îmi cer scuze...
-Dialogue: 100,0:07:05.28,0:07:10.33,Dialogue,Marie,0,0,0,,Castelul a fost extraordinar, \Ndar și această cameră e minunată.
-Dialogue: 100,0:07:10.33,0:07:12.41,Dialogue,Mio,0,0,0,,Mă bucur că vă place.
-Dialogue: 100,0:07:12.75,0:07:16.88,Dialogue,Marie,0,0,0,,Apropo, lordul Kyros face \Nafaceri cu țări din întreaga lume?
-Dialogue: 100,0:07:16.88,0:07:20.84,Dialogue,Mio,0,0,0,,Nu. Ci doar cu Republica Ipsandros.
-Dialogue: 100,0:07:20.84,0:07:25.13,Dialogue,Marie,0,0,0,,Întrebam deoarece am tot văzut prin întreg conacul obiecte specifice altor țări.
-Dialogue: 100,0:07:25.13,0:07:27.51,Dialogue,Mio,0,0,0,,Acelea sunt obiectele \Npersonale ale servitorilor.
-Dialogue: 100,0:07:27.51,0:07:31.35,Dialogue,Mio,0,0,0,,Bucătarul-șef e din Flaria. \NGrădinarul e din Țările Bandelee.
-Dialogue: 100,0:07:31.35,0:07:32.97,Dialogue,Mio,0,0,0,,Avem multe naționalități aici.
-Dialogue: 100,0:07:32.97,0:07:36.60,Dialogue,Marie,0,0,0,,Cum e și Tomas, nu? \NE un grup destul de divers, nu-i așa?
-Dialogue: 100,0:07:36.90,0:07:39.02,Dialogue,Mio,0,0,0,,Stăpânul e destul de excentric.
-Dialogue: 100,0:07:39.02,0:07:39.52,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:07:39.77,0:07:41.98,Dialogue,Mio,0,0,0,,Există prejudecăți și în acest regat,
-Dialogue: 100,0:07:41.98,0:07:45.78,Dialogue,Mio,0,0,0,,dar stăpânul angajează oameni promițători indiferent de origine.
-Dialogue: 100,0:07:45.78,0:07:48.45,Dialogue,Mio,0,0,0,,De aceea toți cei de aici \Nîi sunt foarte devotați.
-Dialogue: 100,0:07:48.78,0:07:51.83,Dialogue,Marie,0,0,0,,Înțeleg. Mio, ești cumva \Ndin capitala regală?
-Dialogue: 100,0:07:52.12,0:07:53.70,Dialogue,Mio,0,0,0,,Am fost un copil abandonat.
-Dialogue: 100,0:07:53.70,0:07:56.04,Dialogue,Mio,0,0,0,,Mi s-a spus că am fost lăsată la un han.
-Dialogue: 100,0:07:56.21,0:07:57.75,Dialogue,Marie,0,0,0,,Î-Îmi pare foarte rău.
-Dialogue: 100,0:07:57.75,0:07:59.75,Dialogue,Mio,0,0,0,,Nu e nevoie să vă cereți scuze.
-Dialogue: 100,0:07:59.75,0:08:02.30,Dialogue,Mio,0,0,0,,Am dus o viață destul de plăcută.
-Dialogue: 100,0:08:02.30,0:08:05.34,Dialogue,Mio,0,0,0,,Când stăpânul era mic, \Nobișnuiam să-l consolez.
-Dialogue: 100,0:08:05.34,0:08:07.72,Dialogue,Marie; internal,0,0,0,,{\i1}Stai. Câți ani avea Mio?
-Dialogue: 100,0:08:07.72,0:08:11.51,Dialogue,Mio,0,0,0,,După cum puteți vedea, \Nmulți dintre noi avem trecuturi dificile,
-Dialogue: 100,0:08:11.51,0:08:15.18,Dialogue,Mio,0,0,0,,dar Ilza și Hannah sunt \Ndemne să vă fie servitoare.
-Dialogue: 100,0:08:16.06,0:08:19.94,Dialogue,Mio,0,0,0,,Amândouă au demnitatea \Nnobililor născuți în acest regat.
-Dialogue: 100,0:08:21.02,0:08:24.90,Dialogue,Marie; internal,0,0,0,,{\i1}De fapt, mi-ar plăcea mai mult \Nsă aud povești din alte țări.
-Dialogue: 100,0:08:24.90,0:08:27.32,Dialogue,Marie; internal,0,0,0,,{\i1}Cum ar fi, cântece folclorice \Ndespre eroi istorici...
-Dialogue: 100,0:08:27.32,0:08:30.24,Dialogue,Marie; internal,0,0,0,,{\i1}Sau chemarea unei păsări uriașe cu penajul în culorile curcubeului...
-Dialogue: 100,0:08:31.03,0:08:31.87,Dialogue,Marie; internal,0,0,0,,{\i1}Dar...
-Dialogue: 100,0:08:32.45,0:08:34.95,Dialogue,Marie,0,0,0,,Vă mulțumesc pentru tot \Nce ați făcut pentru mine.
-Dialogue: 100,0:08:34.95,0:08:38.79,Dialogue,Marie,0,0,0,,Voi învăța cât pot de multe \Nca să nu vă fac de rușine.
-Dialogue: 100,0:08:46.63,0:08:48.47,Dialogue,Ilza,0,0,0,,Ceaiul de după cină.
-Dialogue: 100,0:08:50.76,0:08:54.06,Dialogue,Marie,0,0,0,,P-Pot să primesc niște lapte?
-Dialogue: 100,0:08:54.06,0:08:55.68,Dialogue,Ilza,0,0,0,,Lapte?
-Dialogue: 100,0:08:55.68,0:08:58.85,Dialogue,Marie,0,0,0,,Îmi place să pun lapte în ceaiul negru.
-Dialogue: 100,0:08:58.85,0:09:01.69,Dialogue,Marie,0,0,0,,Vouă ce vă place să puneți în ceai?
-Dialogue: 100,0:09:01.69,0:09:03.31,Dialogue,Ilza,0,0,0,,Lapte în ceaiul negru?
-Dialogue: 100,0:09:03.31,0:09:05.28,Dialogue,Hannah,0,0,0,,Asta nu ar distruge aroma?
-Dialogue: 100,0:09:05.28,0:09:06.07,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:09:06.32,0:09:10.15,Dialogue,Ilza,0,0,0,,Să pui lapte de vacă în ceai? \NCe metodă {\i1}inovatoare{\i0} de a-l bea.
-Dialogue: 100,0:09:10.15,0:09:12.37,Dialogue,Ilza,0,0,0,,E prima oară când aud așa ceva.
-Dialogue: 100,0:09:13.24,0:09:17.75,Dialogue,Hannah,0,0,0,,Vă ridiați mereu la nivelul așteptărilor, domniță Maria! Sunteți atât de libertină în gusturi.
-Dialogue: 100,0:09:18.33,0:09:21.96,Dialogue,Marie; internal,0,0,0,,{\i1}Nu ar trebui să fie o problemă în ceea ce privește etica aristocraților.
-Dialogue: 100,0:09:24.04,0:09:27.34,Dialogue,Marie; internal,0,0,0,,{\i1}Oh! Poate că nu le place laptele!
-Dialogue: 100,0:09:27.34,0:09:30.13,Dialogue,Marie,0,0,0,,Îmi cer scuze. Nu cred că voi avea nevoie de lapte până la urmă.
-Dialogue: 100,0:09:30.68,0:09:33.34,Dialogue,Marie,0,0,0,,Îl voi bea așa. Vă mulțumesc.
-Dialogue: 100,0:09:42.77,0:09:44.52,Dialogue,Marie; internal,0,0,0,,{\i1}A fost o zi așa de lungă.
-Dialogue: 100,0:09:45.19,0:09:48.65,Dialogue,Marie; internal,0,0,0,,{\i1}Mă întreb dacă lordul Kyros încă lucrează la o oră atât de târzie.
-Dialogue: 100,0:09:55.41,0:09:58.83,Dialogue,Kyros,0,0,0,,Mă întreb dacă Maria se simte bine.
-Dialogue: 100,0:09:58.83,0:10:00.25,Dialogue,Wolfgang,0,0,0,,Stăpâne,
-Dialogue: 100,0:10:00.25,0:10:03.79,Dialogue,Wolfgang,0,0,0,,mâine dimineață veți avea o întâlnire cu comercianții, o întâlnire de afaceri la prânz,
-Dialogue: 100,0:10:03.79,0:10:05.71,Dialogue,Wolfgang,0,0,0,,iar apoi, o inspecție a pieței.
-Dialogue: 100,0:10:06.92,0:10:09.76,Dialogue,Kyros,0,0,0,,Oare când voi putea merge acasă?
-Dialogue: 100,0:10:19.22,0:10:21.81,Dialogue,Marie; internal,0,0,0,,{\i1}Micul dejun este îmbelșugat și astăzi,
-Dialogue: 100,0:10:21.81,0:10:24.19,Dialogue,Marie; internal,0,0,0,,{\i1}dar prospețimea acestor legume \Nfragede e foarte revigorantă.
-Dialogue: 100,0:10:25.36,0:10:29.23,Dialogue,Marie,0,0,0,,Mio, de unde faceți rost de \Naceste legume așa de bune?
-Dialogue: 100,0:10:29.23,0:10:31.99,Dialogue,Mio,0,0,0,,Sunt procurate din grădina din curte.
-Dialogue: 100,0:10:31.99,0:10:34.11,Dialogue,Marie,0,0,0,,Ce?! Avem o grădină cu legume?
-Dialogue: 100,0:10:34.11,0:10:36.87,Dialogue,Mio,0,0,0,,Da. Johan muncește din greu la ea.
-Dialogue: 100,0:10:38.33,0:10:40.70,Dialogue,Marie,0,0,0,,Aș vrea să văd grădina.
-Dialogue: 100,0:10:42.12,0:10:47.67,Dialogue,Mio,0,0,0,,Îmi cer scuze, dar eu trebuie să mă ocup de pregătirile pentru întoarcerea stăpânului.
-Dialogue: 100,0:10:47.67,0:10:49.46,Dialogue,Mio,0,0,0,,Vă rog să mergeți cu Ilza și Hannah.
-Dialogue: 100,0:10:49.71,0:10:51.97,Dialogue,Marie,0,0,0,,B-Bine.
-Dialogue: 100,0:10:51.97,0:10:53.38,Dialogue,Marie,0,0,0,,Am înțeles.
-Dialogue: 100,0:10:55.13,0:11:00.06,Dialogue,Marie; internal,0,0,0,,{\i1}Sper ca această ocazie să mă ajute să mă apropii mai mult de cele două.
-Dialogue: 100,0:11:12.61,0:11:16.03,Dialogue,Marie,0,0,0,,Habar n-aveam că există o grădină așa de frumoasă atât de aproape!
-Dialogue: 100,0:11:19.66,0:11:20.99,Dialogue,Marie,0,0,0,,Bună ziua.
-Dialogue: 100,0:11:24.46,0:11:26.83,Dialogue,Marie,0,0,0,,Dumneavoastră sunteți \Ndomnul Johan, nu-i așa?
-Dialogue: 100,0:11:26.83,0:11:30.09,Dialogue,Johan,0,0,0,,Bună ziua. Sper că sunteți bine, domniță.
-Dialogue: 100,0:11:30.55,0:11:32.05,Dialogue,Marie,0,0,0,,V-Vă rog să mă scuzați, dar...
-Dialogue: 100,0:11:32.38,0:11:34.76,Dialogue,Marie,0,0,0,,acelea sunt răsaduri de roșii, nu-i așa?
-Dialogue: 100,0:11:34.76,0:11:36.72,Dialogue,Marie,0,0,0,,Vă pregătiți să le plantați?
-Dialogue: 100,0:11:37.18,0:11:40.72,Dialogue,Johan,0,0,0,,D-Da. Răsadurile din acest \Nan au crescut destul de bine.
-Dialogue: 100,0:11:40.72,0:11:42.81,Dialogue,Marie,0,0,0,,Da, e acea perioadă a anului, nu?
-Dialogue: 100,0:11:43.52,0:11:45.56,Dialogue,Johan,0,0,0,,Domniță, e posibil...
-Dialogue: 100,0:11:45.56,0:11:48.27,Dialogue,Johan,0,0,0,,ca și dumneavoastră să fi cultivat legume?!
-Dialogue: 100,0:11:48.27,0:11:49.19,Dialogue,Marie,0,0,0,,D-Da!
-Dialogue: 100,0:11:49.56,0:11:50.73,Dialogue,Marie,0,0,0,,E mai ieftin decât să le cumperi
-Dialogue: 100,0:11:50.73,0:11:52.23,Dialogue,Marie,0,0,0,,și dacă rămân în plus, pot fi vândute.
-Dialogue: 100,0:11:52.48,0:11:56.24,Dialogue,Marie,0,0,0,,Pentru o familie săracă ca a mea, grădina noastră era o adevărată salvare.
-Dialogue: 100,0:11:56.24,0:11:57.11,Dialogue,Johan,0,0,0,,Înțeleg.
-Dialogue: 100,0:11:57.11,0:12:00.95,Dialogue,Marie,0,0,0,,Dar roșiile sunt sensibile la boli și insecte, deci erau greu de crescut.
-Dialogue: 100,0:12:01.28,0:12:04.95,Dialogue,Marie,0,0,0,,Ah, da. La ce distanța ar \Ntrebui puse răsadurile?
-Dialogue: 100,0:12:05.91,0:12:09.63,Dialogue,Johan,0,0,0,,Puteți lăsa acele răsaduri acolo. \NVă rog să mă urmați.
-Dialogue: 100,0:12:10.84,0:12:13.55,Dialogue,Marie,0,0,0,,Îmi veți arăta? Asta mă bucură mult!
-Dialogue: 100,0:12:17.51,0:12:20.93,Dialogue,Ilza,0,0,0,,Nu-mi vine să cred. \NUrma să cale direct pe pământ.
-Dialogue: 100,0:12:20.93,0:12:25.18,Dialogue,Hannah,0,0,0,,Poate nu știe că grădinile sunt doar pentru privit, nu și pentru plimbat prin ele.
-Dialogue: 100,0:12:25.18,0:12:28.31,Dialogue,Ilza,0,0,0,,De necrezut. Acolo sunt \Ngândaci și acel grădinar.
-Dialogue: 100,0:12:28.31,0:12:30.98,Dialogue,Hannah,0,0,0,,Stai, poate domniței îi place asta.
-Dialogue: 100,0:12:30.98,0:12:33.36,Dialogue,Ilza,0,0,0,,Ce anume? Gândacii? Sau grădinarul?
-Dialogue: 100,0:12:33.36,0:12:35.74,Dialogue,Hannah,0,0,0,,Oh, vai! Mă refeream la gândaci, evident.
-Dialogue: 100,0:12:35.74,0:12:38.36,Dialogue,Ilza,0,0,0,,Așa mă gândeam și eu. E imposibil să-i placă cuiva de acel om.
-Dialogue: 100,0:12:38.36,0:12:39.91,Dialogue,Marie; internal,0,0,0,,{\i1}Cum pot fi atât de nepoliticoase?
-Dialogue: 100,0:12:39.91,0:12:44.49,Dialogue,Marie; internal,0,0,0,,{\i1}Poate că eu merit să fiu ridiculizată, \Ndar nu și domnul Johan.
-Dialogue: 100,0:12:45.66,0:12:47.12,Dialogue,Marie,0,0,0,,Nu e așa deloc!
-Dialogue: 100,0:12:48.29,0:12:49.50,Dialogue,Marie,0,0,0,,Așteptați!
-Dialogue: 100,0:12:53.88,0:12:56.67,Dialogue,Marie; internal,0,0,0,,{\i1}Acești pantofi frumoși mi-au \Nfost oferiți de către conte.
-Dialogue: 100,0:12:57.84,0:13:00.43,Dialogue,Marie; internal,0,0,0,,{\i1}Nu trebuie să-i murdăresc.
-Dialogue: 100,0:13:01.01,0:13:02.72,Dialogue,Marie; internal,0,0,0,,{\i1}Știu acest lucru.
-Dialogue: 100,0:13:06.02,0:13:07.77,Dialogue,Ilza,0,0,0,,În acest caz, noapte bună.
-Dialogue: 100,0:13:07.98,0:13:10.40,Dialogue,Marie,0,0,0,,Da, noapte bună.
-Dialogue: 100,0:13:22.16,0:13:24.37,Dialogue,Marie; internal,0,0,0,,{\i1}Dintr-un oarecare motiv, nu pot dormi.
-Dialogue: 100,0:13:24.70,0:13:26.04,Dialogue,Marie; internal,0,0,0,,{\i1}Poate ar trebui să cer niște apă.
-Dialogue: 100,0:13:29.12,0:13:30.67,Dialogue,Marie; internal,0,0,0,,{\i1}Se pare că e cineva treaz.
-Dialogue: 100,0:13:34.54,0:13:35.30,Dialogue,Kyros,0,0,0,,Maria?
-Dialogue: 100,0:13:37.01,0:13:39.26,Dialogue,Kyros,0,0,0,,Ce s-a întâmplat? Nu poți dormi?
-Dialogue: 100,0:13:39.26,0:13:40.97,Dialogue,Marie,0,0,0,,E-Ei bine...
-Dialogue: 100,0:13:41.38,0:13:44.76,Dialogue,Kyros,0,0,0,,M-am întors târziu, așa că am ratat cina.
-Dialogue: 100,0:13:44.76,0:13:46.14,Dialogue,Kyros,0,0,0,,Te rog să iei loc, Maria.
-Dialogue: 100,0:13:48.14,0:13:49.98,Dialogue,Marie,0,0,0,,Î-Îmi cer scuze pentru deranj.
-Dialogue: 100,0:13:50.81,0:13:54.65,Dialogue,Kyros,0,0,0,,Au trecut patru zile, nu-i așa? \NAi devenit și mai frumoasă.
-Dialogue: 100,0:13:54.65,0:13:58.86,Dialogue,Marie,0,0,0,,Chiar deloc. Doar m-am bucurat de bunătatea tuturor celor de aici.
-Dialogue: 100,0:13:59.74,0:14:01.61,Dialogue,Kyros,0,0,0,,Mereu spui lucruri de genul, Maria.
-Dialogue: 100,0:14:05.37,0:14:06.95,Dialogue,Marie; internal,0,0,0,,{\i1}Inima mea!
-Dialogue: 100,0:14:06.95,0:14:08.12,Dialogue,Mio,0,0,0,,Îmi cer scuze pentru așteptare.
-Dialogue: 100,0:14:08.45,0:14:10.83,Dialogue,Kyros,0,0,0,,Oh! Toppo, încă ești treaz?
-Dialogue: 100,0:14:11.33,0:14:13.96,Dialogue,Toppo,0,0,0,,Bine ați revenit, tinere stăpân.
-Dialogue: 100,0:14:13.96,0:14:15.04,Dialogue,Toppo,0,0,0,,{\i1}Holbare.
-Dialogue: 100,0:14:15.42,0:14:17.92,Dialogue,Marie; internal,0,0,0,,{\i1}Să vedem. Toppo trebuie \Nsă fie bucătarul-șef, nu?
-Dialogue: 100,0:14:18.63,0:14:20.97,Dialogue,Toppo,0,0,0,,Ați cerut ceva ușor,
-Dialogue: 100,0:14:20.97,0:14:23.26,Dialogue,Toppo,0,0,0,,așa că am pregătit o \Nciorbă de pui și manioc.
-Dialogue: 100,0:14:23.64,0:14:25.85,Dialogue,Marie,0,0,0,,Vai, miroase așa de bine!
-Dialogue: 100,0:14:25.85,0:14:27.85,Dialogue,Kyros,0,0,0,,Toppo, adu-i și Mariei, te rog.
-Dialogue: 100,0:14:28.56,0:14:29.85,Dialogue,Toppo,0,0,0,,Poftim.
-Dialogue: 100,0:14:29.85,0:14:33.35,Dialogue,Toppo,0,0,0,,Deși nu cred că va fi pe gustul dumneavoastră, domniță Maria.
-Dialogue: 100,0:14:33.35,0:14:35.61,Dialogue,Marie; internal,0,0,0,,{\i1}Pare destul de supărat.
-Dialogue: 100,0:14:37.44,0:14:38.82,Dialogue,Marie; internal,0,0,0,,{\i1}E așa de bună!
-Dialogue: 100,0:14:38.82,0:14:41.11,Dialogue,Marie; internal,0,0,0,,{\i1}E o mâncare simplistă, \Ndar are un gust foarte bogat!
-Dialogue: 100,0:14:41.78,0:14:43.74,Dialogue,Kyros,0,0,0,,Mâncărurile lui Toppo \Nsunt delicioase, nu-i așa?
-Dialogue: 100,0:14:43.74,0:14:47.74,Dialogue,Marie,0,0,0,,Da, așa este! Mâncarea de aici e mereu așa de gustoasă încât...
-Dialogue: 100,0:14:50.54,0:14:53.62,Dialogue,Toppo,0,0,0,,Nu e nevoie de complimente din politețe!
-Dialogue: 100,0:14:53.92,0:14:55.67,Dialogue,Marie,0,0,0,,Dar spun adevărul!
-Dialogue: 100,0:14:55.67,0:15:00.84,Dialogue,Toppo,0,0,0,,Oricât mă strădui, niciodată nu ați terminat mâncarea pe care v-am pregătit-o! Înțeleg asta!
-Dialogue: 100,0:15:00.84,0:15:04.34,Dialogue,Toppo,0,0,0,,E din cauză că eu, Toppo, sunt un nepriceput! Dar ingredientele!
-Dialogue: 100,0:15:04.34,0:15:07.93,Dialogue,Toppo,0,0,0,,Carnea, peștele și restul... \NÎmi pare așa de {\i1}rău{\i0} de ele!
-Dialogue: 100,0:15:07.93,0:15:11.64,Dialogue,Marie,0,0,0,,E-E o neînțelegere! Nu-mi rămâne mâncare deoarece nu-mi place!
-Dialogue: 100,0:15:11.89,0:15:13.02,Dialogue,Toppo,0,0,0,,Ce?
-Dialogue: 100,0:15:13.02,0:15:15.73,Dialogue,Marie,0,0,0,,Și mie mi-a părut rău de acele ingrediente deoarece nu am reușit să le mănânc!
-Dialogue: 100,0:15:16.77,0:15:17.56,Dialogue,Marie,0,0,0,,Dar...
-Dialogue: 100,0:15:19.48,0:15:22.49,Dialogue,Kyros,0,0,0,,Mio, nu ai întrebat-o \Npe Maria ce-i place?
-Dialogue: 100,0:15:22.65,0:15:27.91,Dialogue,Mio,0,0,0,,Fie că e vorba de mâncăruri sau haine, domnița Maria nu poate spune ce îi place.
-Dialogue: 100,0:15:27.91,0:15:30.29,Dialogue,Marie,0,0,0,,N-Nu, toate chiar au fost delicioase!
-Dialogue: 100,0:15:30.29,0:15:32.08,Dialogue,Marie,0,0,0,,Nu a fost nimic care să-mi displacă!
-Dialogue: 100,0:15:32.08,0:15:33.96,Dialogue,Toppo,0,0,0,,Chiar e adevărat, domniță?
-Dialogue: 100,0:15:33.96,0:15:37.88,Dialogue,Marie,0,0,0,,Da! Pur și simplu, nu mai \Naveau loc în stomacul meu!
-Dialogue: 100,0:15:38.38,0:15:41.92,Dialogue,Toppo,0,0,0,,Atunci, ți-a plăcut mâncarea \Nmea? Sunt {\i1}așa de{\i0} fericit!
-Dialogue: 100,0:15:41.92,0:15:44.22,Dialogue,Marie,0,0,0,,M-Mio, ce ar trebui să fac?
-Dialogue: 100,0:15:44.67,0:15:46.72,Dialogue,Mio,0,0,0,,Eu voi merge să pregătesc \Nceaiul de după masă.
-Dialogue: 100,0:15:46.72,0:15:47.84,Dialogue,Marie,0,0,0,,Ce?!
-Dialogue: 100,0:15:47.84,0:15:49.60,Dialogue,Kyros,0,0,0,,Maria, nu-ți face griji.
-Dialogue: 100,0:15:49.60,0:15:51.89,Dialogue,Kyros,0,0,0,,Toppo plânge mereu foarte ușor.
-Dialogue: 100,0:15:51.89,0:15:53.39,Dialogue,Marie,0,0,0,,Serios?
-Dialogue: 100,0:15:53.39,0:15:59.15,Dialogue,Toppo,0,0,0,,Eu, Toppo, nu știam ce credea domnița cu adevărat, și totuși {\i1}eu{\i0}...
-Dialogue: 100,0:15:59.40,0:16:03.07,Dialogue,Toppo,0,0,0,,E timpul să ne revenim \Nși să aducem desertul!
-Dialogue: 100,0:16:06.15,0:16:07.78,Dialogue,Toppo,0,0,0,,Poftiți, poftiți!
-Dialogue: 100,0:16:07.78,0:16:09.62,Dialogue,Kyros,0,0,0,,E incredibil!
-Dialogue: 100,0:16:09.62,0:16:11.62,Dialogue,Marie,0,0,0,,Oare câte mere au fost folosite?
-Dialogue: 100,0:16:11.62,0:16:14.00,Dialogue,Kyros; internal,0,0,0,,{\i1}Toppo a înțeles greșit
-Dialogue: 100,0:16:12.70,0:16:14.79,Dialogue,Toppo; background,0,0,0,,{\an8}Îl voi tăia felii!
-Dialogue: 100,0:16:14.00,0:16:17.83,Dialogue,Kyros; internal,0,0,0,,{\i1}deoarece nu înțelege că alte persoane nu pot mânca la fel de mult ca el.
-Dialogue: 100,0:16:18.29,0:16:19.88,Dialogue,Kyros,0,0,0,,Haide să mâncăm împreună, Toppo.
-Dialogue: 100,0:16:19.88,0:16:21.71,Dialogue,Toppo,0,0,0,,Ce?! Sunteți sigur?
-Dialogue: 100,0:16:21.71,0:16:22.92,Dialogue,Kyros,0,0,0,,Da.
-Dialogue: 100,0:16:25.63,0:16:27.76,Dialogue,Toppo,0,0,0,,Mă voi retrage acum!
-Dialogue: 100,0:16:27.76,0:16:30.22,Dialogue,Toppo,0,0,0,,Vă doresc o noapte bună amândurora!
-Dialogue: 100,0:16:30.72,0:16:32.68,Dialogue,Kyros,0,0,0,,Bine. Mulțumim, Toppo.
-Dialogue: 100,0:16:32.68,0:16:33.81,Dialogue,Kyros,0,0,0,,Asigură-te că te odihnești.
-Dialogue: 100,0:16:35.64,0:16:37.44,Dialogue,Kyros,0,0,0,,Îmi pare rău, Maria.
-Dialogue: 100,0:16:37.44,0:16:38.06,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:16:38.44,0:16:41.06,Dialogue,Kyros,0,0,0,,Am creat o situație care te-a forțat să-i pui pe alții pe primul loc.
-Dialogue: 100,0:16:41.06,0:16:44.40,Dialogue,Kyros,0,0,0,,E altceva în afară de mâncare \Ncare te-a pus în dificultate?
-Dialogue: 100,0:16:44.40,0:16:48.15,Dialogue,Marie,0,0,0,,Oh, nu. Totul este atât de minunat \Nîncât e păcat să fie irosit pe mine.
-Dialogue: 100,0:16:48.15,0:16:49.57,Dialogue,Kyros,0,0,0,,Dar Ilza și Hannah?
-Dialogue: 100,0:16:52.20,0:16:53.74,Dialogue,Marie,0,0,0,,Se poartă frumos cu mine.
-Dialogue: 100,0:16:54.04,0:16:57.50,Dialogue,Kyros,0,0,0,,Un prieten de-al meu \Nmi le-a recomandat.
-Dialogue: 100,0:16:57.50,0:16:59.75,Dialogue,Kyros,0,0,0,,Ești o viitoare ducesă.
-Dialogue: 100,0:16:59.75,0:17:02.71,Dialogue,Kyros,0,0,0,,Vreau să fii primită așa cum se cuvine.
-Dialogue: 100,0:17:02.71,0:17:04.30,Dialogue,Marie,0,0,0,,Mulțumesc.
-Dialogue: 100,0:17:04.71,0:17:06.63,Dialogue,Marie,0,0,0,,Chiar se poartă frumos cu mine.
-Dialogue: 100,0:17:08.05,0:17:10.76,Dialogue,Kyros,0,0,0,,Maria, ai un obicei groaznic de \Na îndura lucrurile neplăcute.
-Dialogue: 100,0:17:10.76,0:17:11.43,Dialogue,Marie,0,0,0,,Ce?
-Dialogue: 100,0:17:13.30,0:17:15.18,Dialogue,Kyros,0,0,0,,Doar pentru că se \Npoartă frumos cu tine
-Dialogue: 100,0:17:15.18,0:17:17.48,Dialogue,Kyros,0,0,0,,nu înseamnă automat \Ncă trebuie să fii fericită.
-Dialogue: 100,0:17:17.89,0:17:22.23,Dialogue,Kyros,0,0,0,,Și dacă nu ești fericită, \Nte rog să-mi spui.
-Dialogue: 100,0:17:23.27,0:17:25.32,Dialogue,Marie; internal,0,0,0,,{\i1}Nu am preferințe.
-Dialogue: 100,0:17:25.32,0:17:29.32,Dialogue,Marie; internal,0,0,0,,{\i1}Nu. Nu știu cum ar trebui \Nsă aleg ce-mi place.
-Dialogue: 100,0:17:30.41,0:17:33.99,Dialogue,Marie; internal,0,0,0,,{\i1}Făceam treaba pe care o primeam și mă mulțumeam cu ce mi se oferea.
-Dialogue: 100,0:17:33.99,0:17:34.95,Dialogue,Marie; internal,0,0,0,,{\i1}Asta era suficient.
-Dialogue: 100,0:17:35.66,0:17:38.96,Dialogue,Marie; internal,0,0,0,,{\i1}Nu poate fi în regulă ca o persoană ca mine să aleagă în funcție de sentimente.
-Dialogue: 100,0:17:40.21,0:17:45.38,Dialogue,Marie,0,0,0,,Îmi pare rău, lordule Kyros. Nu vreau să irosesc vreun pic din bunătatea oferită.
-Dialogue: 100,0:17:46.25,0:17:49.47,Dialogue,Kyros,0,0,0,,Maria, dacă îți lipsește \Nceva, spune-mi, te rog.
-Dialogue: 100,0:17:50.93,0:17:52.93,Dialogue,Kyros,0,0,0,,Îți voi oferi tot ce-ți dorești.
-Dialogue: 100,0:17:57.14,0:17:58.77,Dialogue,Marie,0,0,0,,Ceva ce-mi lipsește?
-Dialogue: 100,0:17:59.52,0:18:01.35,Dialogue,Marie; internal,0,0,0,,{\i1}N-ar trebui să-mi lipsească nimic, și totuși...
-Dialogue: 100,0:18:02.06,0:18:03.98,Dialogue,Mio,0,0,0,,Îmi cer scuze că vă întrerup conversația.
-Dialogue: 100,0:18:05.23,0:18:07.94,Dialogue,Kyros,0,0,0,,Oh! Văd că ai adus ceva foarte drăguț!
-Dialogue: 100,0:18:09.07,0:18:10.53,Dialogue,Marie; internal,0,0,0,,{\i1}Ceva drăguț?
-Dialogue: 100,0:18:14.12,0:18:16.91,Dialogue,Mio,0,0,0,,Vă rog să vă bucurați de el.
-Dialogue: 100,0:18:17.33,0:18:20.46,Dialogue,Marie; internal,0,0,0,,{\i1}E așa de mare! E cumva \Ngustarea de noapte a lui Mio?
-Dialogue: 100,0:18:20.46,0:18:21.33,Dialogue,Kyros,0,0,0,,Maria.
-Dialogue: 100,0:18:22.29,0:18:23.67,Dialogue,Kyros,0,0,0,,Știi ce e asta?
-Dialogue: 100,0:18:23.67,0:18:26.38,Dialogue,Marie,0,0,0,,N-Nu. E prima oară când văd așa ceva.
-Dialogue: 100,0:18:27.34,0:18:30.97,Dialogue,Kyros,0,0,0,,E un çaydanlik folosit pentru prepararea ceaiului în Republica Ipsandros.
-Dialogue: 100,0:18:31.59,0:18:34.39,Dialogue,Kyros,0,0,0,,Mai întâi, aprinzi partea \Nde jos pentru a fierbe apa.
-Dialogue: 100,0:18:34.97,0:18:36.76,Dialogue,Kyros,0,0,0,,Căldura apei urcă,
-Dialogue: 100,0:18:36.76,0:18:40.73,Dialogue,Kyros,0,0,0,,și aburește încet frunzele de ceai, \Nscoțând la iveală aroma lor.
-Dialogue: 100,0:18:40.73,0:18:44.65,Dialogue,Kyros,0,0,0,,După ce ai așteptat destul timp, pui apa fierbinte din ceainicul inferior în cel superior,
-Dialogue: 100,0:18:44.65,0:18:47.11,Dialogue,Kyros,0,0,0,,iar apoi le plasezi în \Naceeași ordine și aștepți.
-Dialogue: 100,0:18:48.15,0:18:49.86,Dialogue,Kyros,0,0,0,,Când ceaiul e gata,
-Dialogue: 100,0:18:49.86,0:18:52.15,Dialogue,Kyros,0,0,0,,poți folosi apa fierbinte rămasă \Npentru a-l face mai slab.
-Dialogue: 100,0:18:52.15,0:18:55.74,Dialogue,Marie,0,0,0,,Astfel fiecare poate ajusta \Nintensitatea aromei!
-Dialogue: 100,0:18:55.74,0:18:59.33,Dialogue,Kyros,0,0,0,,Toată lumea se adună în jurul \Nceainicului când are loc infuzarea.
-Dialogue: 100,0:18:59.33,0:19:03.08,Dialogue,Kyros,0,0,0,,Acolo discută despre preferințele fiecăruia și ajung să devină mai apropiați.
-Dialogue: 100,0:19:03.92,0:19:05.46,Dialogue,Kyros,0,0,0,,Deci, Maria...
-Dialogue: 100,0:19:06.29,0:19:08.34,Dialogue,Kyros,0,0,0,,vorbește-mi despre tine.
-Dialogue: 100,0:19:08.59,0:19:10.59,Dialogue,Marie,0,0,0,,B-Bine.
-Dialogue: 100,0:19:10.59,0:19:12.17,Dialogue,Marie; internal,0,0,0,,{\i1}Să-i vorbesc despre mine.
-Dialogue: 100,0:19:12.17,0:19:14.18,Dialogue,Marie; internal,0,0,0,,{\i1}Dar ce ar trebui să-i spun?
-Dialogue: 100,0:19:14.34,0:19:17.55,Dialogue,Marie; internal,0,0,0,,{\i1}Nu am avut niciodată parte \Nde experiențe distractive.
-Dialogue: 100,0:19:18.05,0:19:20.18,Dialogue,young Anastasia,0,0,0,,Maria! Maria!
-Dialogue: 100,0:19:20.60,0:19:22.06,Dialogue,young Anastasia,0,0,0,,Ce vrei să ne jucăm?
-Dialogue: 100,0:19:22.43,0:19:24.23,Dialogue,young Marie,0,0,0,,Vreau să ne jucăm...
-Dialogue: 100,0:19:25.02,0:19:25.94,Dialogue,Marie,0,0,0,,Fazan!
-Dialogue: 100,0:19:26.23,0:19:28.52,Dialogue,Marie,0,0,0,,Lordule Kyros, haide să jucăm fazan!
-Dialogue: 100,0:19:28.86,0:19:30.19,Dialogue,Kyros,0,0,0,,Fazan?
-Dialogue: 100,0:19:30.86,0:19:33.70,Dialogue,Marie; internal,0,0,0,,{\i1}De ce ar juca cineva \Nde rangul său fazanul?!
-Dialogue: 100,0:19:33.95,0:19:36.66,Dialogue,Marie; internal,0,0,0,,{\i1}Cât de copilăresc din \Npartea mea. Mi-e așa rușine!
-Dialogue: 100,0:19:37.24,0:19:39.95,Dialogue,Kyros,0,0,0,,Ca să ne distrăm cu jucând \Nfazanul la vârsta noastră,
-Dialogue: 100,0:19:39.95,0:19:41.95,Dialogue,Kyros,0,0,0,,va trebui să adăugăm \Nniște reguli în plus.
-Dialogue: 100,0:19:41.95,0:19:44.75,Dialogue,Kyros,0,0,0,,Haide să ne concentrăm pe zonele unde cunoștințele noastre se suprapun.
-Dialogue: 100,0:19:45.08,0:19:48.46,Dialogue,Marie,0,0,0,,Ce? Î-În acest caz, ce spuneți dacă am folosi doar cuvinte despre lucruri care ne plac, lordule Kyros?
-Dialogue: 100,0:19:48.46,0:19:51.00,Dialogue,Kyros,0,0,0,,Bine. Doar lucruri care ne plac să fie!
-Dialogue: 100,0:19:51.00,0:19:52.34,Dialogue,Kyros,0,0,0,,E în regulă dacă încep eu?
-Dialogue: 100,0:19:52.34,0:19:53.55,Dialogue,Marie,0,0,0,,D-Desigur!
-Dialogue: 100,0:19:53.55,0:19:54.97,Dialogue,Kyros,0,0,0,,Bun!
-Dialogue: 100,0:19:55.55,0:19:56.43,Dialogue,Kyros,0,0,0,,Maria!
-Dialogue: 100,0:19:55.55,0:19:56.43,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}ma{\c&H00FFF7&}ri
-Dialogue: 100,0:19:56.43,0:19:57.09,Dialogue,Marie,0,0,0,,Ce...
-Dialogue: 100,0:19:57.09,0:19:59.76,Dialogue,Marie,0,0,0,,Nu se începe de \Nregulă de la litera „A”?
-Dialogue: 100,0:20:00.68,0:20:01.97,Dialogue,Kyros,0,0,0,,Atunci, plăcintă cu mere!
-Dialogue: 100,0:20:00.68,0:20:01.97,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}a{\c&HFFFFFF&}ppurupi{\c&H00FFF7&}e
-Dialogue: 100,0:20:02.43,0:20:06.19,Dialogue,Marie,0,0,0,,Ceva ce îmi place... cu „P”...
-Dialogue: 100,0:20:08.15,0:20:10.40,Dialogue,Marie,0,0,0,,Povești ipsandriene captivante!
-Dialogue: 100,0:20:08.15,0:20:10.40,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}e{\c&HFFFFFF&}pusuandorosu monogata{\c&H00FFF7&}ri
-Dialogue: 100,0:20:10.90,0:20:13.74,Dialogue,Kyros,0,0,0,,Ai spus același lucru și \Nîn acea noapte, nu-i așa?
-Dialogue: 100,0:20:15.45,0:20:16.40,Dialogue,Marie,0,0,0,,Așa este!
-Dialogue: 100,0:20:17.16,0:20:19.82,Dialogue,Kyros,0,0,0,,Ar trebui să vizitezi biblioteca \Ncastelului când ai timp.
-Dialogue: 100,0:20:19.82,0:20:22.04,Dialogue,Kyros,0,0,0,,Sunt sigur că e plină de lucruri \Ncare-ți vor plăcea, Maria.
-Dialogue: 100,0:20:22.04,0:20:24.00,Dialogue,Marie,0,0,0,,Da, o voi face. Mulțumesc.
-Dialogue: 100,0:20:24.45,0:20:27.87,Dialogue,Kyros,0,0,0,,Acum un cuvânt cu „Br”. „Br”...
-Dialogue: 100,0:20:28.25,0:20:29.50,Dialogue,Kyros,0,0,0,,Brânză ricotta!
-Dialogue: 100,0:20:28.25,0:20:29.50,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}ri{\c&HFFFFFF&}kotta chii{\c&H00FFF7&}zu
-Dialogue: 100,0:20:29.50,0:20:31.42,Dialogue,Marie,0,0,0,,„Zu”... Zucchini!
-Dialogue: 100,0:20:29.50,0:20:31.42,Word-Chains,Marie,0,0,0,,{\c&H11FF00&\pos(1050,942)}zu{\c&HFFFFFF&}kkii{\c&H00FFF7&}ni
-Dialogue: 100,0:20:31.42,0:20:32.46,Dialogue,Kyros,0,0,0,,Gnocchi!
-Dialogue: 100,0:20:31.42,0:20:32.46,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}nyo{\c&HFFFFFF&}k{\c&H00FFF7&}ki
-Dialogue: 100,0:20:32.46,0:20:33.34,Dialogue,Marie,0,0,0,,Morcovi!
-Dialogue: 100,0:20:32.46,0:20:33.34,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}kya{\c&HFFFFFF&}rott{\c&H00FFF7&}o
-Dialogue: 100,0:20:33.76,0:20:34.92,Dialogue,Kyros,0,0,0,,Tompouce!
-Dialogue: 100,0:20:33.76,0:20:34.92,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}to{\c&HFFFFFF&}npu{\c&H00FFF7&}su
-Dialogue: 100,0:20:34.92,0:20:36.17,Dialogue,Marie,0,0,0,,Cartof dulce!
-Dialogue: 100,0:20:34.92,0:20:36.17,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}iito pote{\c&H00FFF7&}to
-Dialogue: 100,0:20:36.42,0:20:37.76,Dialogue,Kyros,0,0,0,,Ciocolată cu trufe!
-Dialogue: 100,0:20:36.42,0:20:37.76,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}to{\c&HFFFFFF&}ryufu shoko{\c&H00FFF7&}ra
-Dialogue: 100,0:20:37.76,0:20:38.80,Dialogue,Marie,0,0,0,,Orez.
-Dialogue: 100,0:20:37.76,0:20:38.80,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ra{\c&HFFFFFF&}i{\c&H00FFF7&}su
-Dialogue: 100,0:20:38.80,0:20:39.72,Dialogue,Kyros,0,0,0,,Sufleu.
-Dialogue: 100,0:20:38.80,0:20:39.72,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}fu{\c&H00FFF7&}re
-Dialogue: 100,0:20:39.72,0:20:40.68,Dialogue,Marie,0,0,0,,Salată verde.
-Dialogue: 100,0:20:39.72,0:20:40.68,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}re{\c&HFFFFFF&}ta{\c&H00FFF7&}su
-Dialogue: 100,0:20:40.97,0:20:43.06,Dialogue,Kyros,0,0,0,,„Na”... „Na”...
-Dialogue: 100,0:20:43.06,0:20:45.27,Dialogue,Kyros,0,0,0,,Napolitane.
-Dialogue: 100,0:20:43.06,0:20:45.27,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}toroopuwaffu{\c&H00FFF7&}ru
-Dialogue: 100,0:20:45.52,0:20:46.56,Dialogue,Marie,0,0,0,,Rooibos.
-Dialogue: 100,0:20:45.52,0:20:46.56,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ru{\c&HFFFFFF&}ibo{\c&H00FFF7&}su
-Dialogue: 100,0:20:46.56,0:20:47.94,Dialogue,Kyros,0,0,0,,Aceeași terminație?!
-Dialogue: 100,0:20:48.27,0:20:51.31,Dialogue,Kyros,0,0,0,,„P”... „P”... Nu-mi vine nimic în minte.
-Dialogue: 100,0:20:51.31,0:20:53.53,Dialogue,Kyros,0,0,0,,P-Pandișpan.
-Dialogue: 100,0:20:51.31,0:20:53.53,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}ponji kee{\c&H00FFF7&}ki
-Dialogue: 100,0:20:55.32,0:20:57.90,Dialogue,Marie,0,0,0,,Lordule Kyros, văd că \Nenumerați doar dulciuri!
-Dialogue: 100,0:20:57.90,0:21:00.70,Dialogue,Kyros,0,0,0,,Tu vorbești, Maria? \NAi menționat doar legume și plante!
-Dialogue: 100,0:21:00.70,0:21:02.41,Dialogue,Marie,0,0,0,,Ce? E-Ei bine...
-Dialogue: 100,0:21:02.41,0:21:05.37,Dialogue,Marie,0,0,0,,Legumele cresc foarte repede, \Ndeci economisești bani ușor
-Dialogue: 100,0:21:05.37,0:21:07.66,Dialogue,Marie,0,0,0,,și sunt delicioase în multe rețete.
-Dialogue: 100,0:21:08.16,0:21:09.46,Dialogue,Kyros,0,0,0,,Mă așteptam să spui ceva de genul.
-Dialogue: 100,0:21:09.75,0:21:10.38,Dialogue,Marie,0,0,0,,Vai...
-Dialogue: 100,0:21:10.38,0:21:11.96,Dialogue,Kyros,0,0,0,,Scuze, scuze. Iartă-mă.
-Dialogue: 100,0:21:11.96,0:21:13.34,Dialogue,Kyros,0,0,0,,Să continuăm. Un cuvânt \Ncare începe cu „Ki”.
-Dialogue: 100,0:21:13.75,0:21:17.30,Dialogue,Marie; internal,0,0,0,,{\i1}Ceva ce îmi place și începe cu „Ki”...
-Dialogue: 100,0:21:17.97,0:21:19.01,Dialogue,Marie,0,0,0,,Kyros.
-Dialogue: 100,0:21:17.97,0:21:19.01,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ki{\c&HFFFFFF&}iro{\c&H00FFF7&}su
-Dialogue: 100,0:21:22.30,0:21:24.89,Dialogue,Kyros,0,0,0,,Parcă am auzit ceva \Ncare se termină în „Su”.
-Dialogue: 100,0:21:25.10,0:21:29.23,Dialogue,Marie,0,0,0,,A-Am spus „sărut”.
-Dialogue: 100,0:21:25.10,0:21:29.23,Word-Chains,Marie,0,0,0,,{\c&H11FF00&\pos(1100,942)}ki{\c&H00FFF7&}su
-Dialogue: 100,0:21:29.85,0:21:33.40,Dialogue,Kyros,0,0,0,,Înțeleg, înțeleg. \NDeci îți plac săruturile, Maria.
-Dialogue: 100,0:21:33.40,0:21:35.19,Dialogue,Marie; internal,0,0,0,,{\i1}Oh, nu asta am vrut să spun!
-Dialogue: 100,0:21:35.19,0:21:38.28,Dialogue,Kyros,0,0,0,,Dar are aceeași terminație, nu?
-Dialogue: 100,0:21:38.78,0:21:40.15,Dialogue,Kyros,0,0,0,,Suveniruri!
-Dialogue: 100,0:21:38.78,0:21:40.15,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}ubeni{\c&H00FFF7&}a
-Dialogue: 100,0:21:40.53,0:21:41.74,Dialogue,Marie,0,0,0,,Aromaterapie!
-Dialogue: 100,0:21:40.53,0:21:41.74,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ar{\c&HFFFFFF&}o{\c&H00FFF7&}ma
-Dialogue: 100,0:21:42.12,0:21:42.91,Dialogue,Kyros,0,0,0,,Maria!
-Dialogue: 100,0:21:42.12,0:21:42.91,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}ma{\c&H00FFF7&}ri
-Dialogue: 100,0:21:42.91,0:21:46.29,Dialogue,Marie,0,0,0,,Oh, vai, băiatul ăsta e \Nprea mult pentru mine!
-Dialogue: 100,0:21:46.29,0:21:47.58,Dialogue,Mio,0,0,0,,Încă vă mai jucați?
-Dialogue: 100,0:21:48.08,0:21:48.91,Dialogue,Kyros,0,0,0,,Mio.
-Dialogue: 100,0:21:51.92,0:21:52.88,Dialogue,Mio,0,0,0,,Ceaiul...
-Dialogue: 100,0:21:53.46,0:21:54.88,Dialogue,Mio,0,0,0,,s-a răcit, nu-i așa?
-Dialogue: 100,0:22:06.14,0:22:08.85,Dialogue,Kyros,0,0,0,,Nu putem bea asta. \NA devenit amar de la cât a stat.
-Dialogue: 100,0:22:08.85,0:22:11.27,Dialogue,Kyros,0,0,0,,Adu-ne lapte și zahăr ca să-l îndulcim.
-Dialogue: 100,0:22:14.69,0:22:18.03,Dialogue,Mio,0,0,0,,Cred că voi doi sunteți \Ndeja îndeajuns de dulci.
-Dialogue: 100,0:22:20.70,0:22:22.07,Dialogue,Kyros,0,0,0,,Mio!
-Dialogue: 100,0:22:22.74,0:22:24.16,Dialogue,Marie,0,0,0,,A plecat pur și simplu!
-Dialogue: 100,0:23:58.96,0:24:02.01,Dialogue,Mio,0,0,0,,Domnița Maria nu crede că sentimentele stăpânului sunt reale.
-Dialogue: 100,0:24:02.76,0:24:06.34,Dialogue,Mio,0,0,0,,Nu pare că s-ar obișnui \Ncomplet cu viața de la castel.
-Dialogue: 100,0:24:07.22,0:24:10.31,Dialogue,Mio,0,0,0,,Dar cred că înțeleg \Npuțin ceea ce simte.
-Dialogue: 100,0:24:11.31,0:24:15.02,Dialogue,Mio,0,0,0,,Doar am fost și eu \Nîntr-o situație similară.
-Dialogue: 100,0:24:17.15,0:24:21.73,Dialogue,Mio,0,0,0,,{\an8}Data viitoare: {\i1}Am descoperit ceea ce îmi place{\i0}.
-Dialogue: 100,0:24:24.19,0:24:26.78,Dialogue,Mio,0,0,0,,{\an8}Știți ce veți păți dacă veți \Nrata episodul următor, nu?
+Dialogue: 99,0:00:08.20,0:00:10.07,Dialogue,Ilza,0,0,0,,{\pos(1310,1020)}Eu sunt Ilza.
+Dialogue: 99,0:00:10.07,0:00:11.78,Dialogue,Hannah,0,0,0,,{\pos(660,1020)}Eu sunt Hannah.
+Dialogue: 99,0:00:12.49,0:00:17.37,Dialogue,Mio,0,0,0,,Când voi fi ocupată cu alte treburi, ele două se vor ocupa de nevoile tale.
+Dialogue: 99,0:00:18.04,0:00:21.50,Dialogue,Marie; internal,0,0,0,,{\i1}O persoană ca mine primește \Nservitoare? Și nu una, ci două?
+Dialogue: 99,0:00:21.50,0:00:23.96,Dialogue,Marie; internal,0,0,0,,{\i1}Sinceră să fiu, sigur voi fi \Nprea precaută în preajma lor,
+Dialogue: 99,0:00:23.96,0:00:26.13,Dialogue,Marie; internal,0,0,0,,{\i1}dar asta e ceva normal \Nîn rândul nobililor.
+Dialogue: 99,0:00:29.26,0:00:32.14,Dialogue,Marie,0,0,0,,Eu sunt Maria Shaderan.
+Dialogue: 99,0:00:32.14,0:00:34.76,Dialogue,Marie,0,0,0,,Mă bucur să primesc asistența voastră.
+Dialogue: 99,0:00:37.77,0:00:39.27,Dialogue,Marie,0,0,0,,E-Ei bine...
+Dialogue: 99,0:00:40.23,0:00:43.02,Dialogue,Marie,0,0,0,,Sunteți cumva venite din capitală?
+Dialogue: 99,0:00:43.02,0:00:45.48,Dialogue,Ilza,0,0,0,,Da. Amândouă provenim din familii de cavaleri.
+Dialogue: 99,0:00:45.48,0:00:48.90,Dialogue,Ilza,0,0,0,,Am venit aici la recomandarea \Ncelui de-al treilea prinț.
+Dialogue: 99,0:00:48.90,0:00:51.32,Dialogue,Hannah,0,0,0,,Amândouă am servit în palatul regal.
+Dialogue: 99,0:00:51.32,0:00:54.03,Dialogue,Marie,0,0,0,,Palatul regal? Uimitor!
+Dialogue: 99,0:00:54.33,0:00:59.37,Dialogue,Ilza,0,0,0,,Totuși, domniță Maria, pentru o persoană de noblețea dumneavoastră, nu cred că poveștile din capitală...
+Dialogue: 99,0:00:59.37,0:01:02.54,Dialogue,Hannah,0,0,0,,...vi se vor părea interesante, nu?
+Dialogue: 99,0:01:03.88,0:01:05.34,Dialogue,Marie; internal,0,0,0,,{\i1}Ce?
+Dialogue: 99,0:01:06.25,0:01:07.46,Dialogue,Marie; internal,0,0,0,,{\i1}Dintr-un oarecare motiv...
+Dialogue: 99,0:01:08.76,0:01:09.72,Dialogue,Mio,0,0,0,,Domniță Maria.
+Dialogue: 99,0:01:11.09,0:01:12.97,Dialogue,Mio,0,0,0,,Bănuiesc că ați dori să \Nserviți acum micul dejun.
+Dialogue: 99,0:01:13.97,0:01:15.18,Dialogue,Marie,0,0,0,,Da.
+Dialogue: 99,0:02:50.78,0:02:53.07,Dialogue,Marie,0,0,0,,{\an8}A-Asta este...
+Dialogue: 99,0:02:53.78,0:02:56.82,Dialogue,Mio,0,0,0,,Aperitivul e compus dintr-un platou cu șapte tipuri de mezeluri.
+Dialogue: 99,0:02:56.82,0:02:58.45,Dialogue,Mio,0,0,0,,Avem șuncă de porc și cârnați.
+Dialogue: 99,0:02:58.45,0:02:59.78,Dialogue,Mio,0,0,0,,Rulada e de fazan.
+Dialogue: 99,0:02:59.78,0:03:03.50,Dialogue,Mio,0,0,0,,Pateul de țară e din rață și carne de vânat.
+Dialogue: 99,0:03:04.29,0:03:06.71,Dialogue,Marie,0,0,0,,S-Sunt destul de multe animale aici.
+Dialogue: 99,0:03:07.17,0:03:09.88,Dialogue,Mio,0,0,0,,Am pregătit mai multe mâncăruri \Npentru dumneavoastră,
+Dialogue: 99,0:03:09.88,0:03:12.05,Dialogue,Mio,0,0,0,,așa că vă rog să-mi spuneți care vă plac.
+Dialogue: 99,0:03:12.42,0:03:15.43,Dialogue,Marie,0,0,0,,Nu cred că gustul și stomacul \Nmeu sunt suficient de rafinate
+Dialogue: 99,0:03:15.43,0:03:17.47,Dialogue,Marie,0,0,0,,încât să pot termina tot.
+Dialogue: 99,0:03:17.80,0:03:22.14,Dialogue,Mio,0,0,0,,Mâncați doar ce vă place. Vă rog să lăsați în farfurii tot ce nu puteți termina.
+Dialogue: 99,0:03:22.14,0:03:24.35,Dialogue,Marie,0,0,0,,Oh, nu aș putea face așa ceva! \NAr fi o risipă totală!
+Dialogue: 99,0:03:24.35,0:03:26.90,Dialogue,Mio,0,0,0,,Acestea sunt ordinele stăpânului.
+Dialogue: 99,0:03:26.90,0:03:29.23,Dialogue,Marie,0,0,0,,Unde e lordul Kyros în acest moment?
+Dialogue: 99,0:03:29.23,0:03:30.73,Dialogue,Mio,0,0,0,,Este plecat cu treburi.
+Dialogue: 99,0:03:31.02,0:03:33.03,Dialogue,Marie,0,0,0,,Atunci, ai dori jumătate...
+Dialogue: 99,0:03:33.03,0:03:36.74,Dialogue,Mio,0,0,0,,Un servitor nu poate mânca \Nalături de stăpânul său.
+Dialogue: 99,0:03:37.49,0:03:39.87,Dialogue,Marie; internal,0,0,0,,{\i1}Nu mai știu ce să încerc.
+Dialogue: 99,0:03:42.74,0:03:44.50,Dialogue,Marie,0,0,0,,E delicios!
+Dialogue: 99,0:03:45.71,0:03:47.17,Dialogue,Marie,0,0,0,,{\i1}Și asta e delicios!
+Dialogue: 99,0:03:47.58,0:03:48.63,Dialogue,Marie,0,0,0,,{\i1}Vai!
+Dialogue: 99,0:03:55.22,0:03:58.26,Dialogue,Mio,0,0,0,,Domniță Maria, vă rog să nu vă forțați.
+Dialogue: 99,0:03:58.26,0:04:01.26,Dialogue,Marie,0,0,0,,Nu o fac. Totul este delicios \Nși mai am destul loc.
+Dialogue: 99,0:04:01.26,0:04:02.18,Dialogue,Marie,0,0,0,,Probabil.
+Dialogue: 99,0:04:04.52,0:04:07.27,Dialogue,Mio,0,0,0,,Vă rog să nu încercați \Nsă vă depășiți limitele.
+Dialogue: 99,0:04:09.90,0:04:14.82,Dialogue,Marie,0,0,0,,{\i1}Îmi pare așa de rău... Și de ingrediente, \Nși de munca bucătarului.
+Dialogue: 99,0:04:15.24,0:04:19.49,Dialogue,Mio,0,0,0,,După ce vă veți odihni puțin,\Nvă voi arăta palatul.
+Dialogue: 99,0:04:20.99,0:04:22.66,Dialogue,Mio,0,0,0,,Aveți aici haine de schimb.
+Dialogue: 99,0:04:26.41,0:04:28.25,Dialogue,Marie,0,0,0,,E-E incredibil.
+Dialogue: 99,0:04:28.25,0:04:30.08,Dialogue,Marie,0,0,0,,A-Arată extraordinar.
+Dialogue: 99,0:04:30.08,0:04:32.38,Dialogue,Marie,0,0,0,,Dar am un singur corp.
+Dialogue: 99,0:04:32.38,0:04:33.67,Dialogue,Mio,0,0,0,,Știu.
+Dialogue: 99,0:04:33.92,0:04:38.42,Dialogue,Mio,0,0,0,,Pe lângă acestea, mai avem și haine de sezon. Sunt peste o sută în total.
+Dialogue: 99,0:04:38.42,0:04:39.76,Dialogue,Marie,0,0,0,,Peste o sută?!
+Dialogue: 99,0:04:40.47,0:04:42.68,Dialogue,Mio,0,0,0,,Vă rog să alegeți ceva ce vă place.
+Dialogue: 99,0:04:42.68,0:04:43.14,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:04:43.76,0:04:47.06,Dialogue,Marie,0,0,0,,Ceva... ce îmi place.
+Dialogue: 99,0:04:47.60,0:04:49.06,Dialogue,Mio,0,0,0,,Nu vă place niciuna?
+Dialogue: 99,0:04:49.06,0:04:50.06,Dialogue,Marie,0,0,0,,Nu este asta.
+Dialogue: 99,0:04:50.65,0:04:54.07,Dialogue,Marie,0,0,0,,Toate sunt atât de frumoase \Nîncât nu știu ce să aleg.
+Dialogue: 99,0:04:55.02,0:04:56.82,Dialogue,Mio,0,0,0,,Atunci, haideți s-o alegem pe aceasta.
+Dialogue: 99,0:04:57.53,0:04:58.44,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:05:02.49,0:05:03.99,Dialogue,Mio,0,0,0,,Vi se potrivește perfect.
+Dialogue: 99,0:05:04.66,0:05:06.04,Dialogue,Marie,0,0,0,,Mulțumesc.
+Dialogue: 99,0:05:06.04,0:05:07.41,Dialogue,Mio,0,0,0,,Sunteți gata să mergem?
+Dialogue: 99,0:05:08.20,0:05:10.04,Dialogue,Mio,0,0,0,,{\fad(0,200)}Castelul Granado a fost construit
+Dialogue: 99,0:05:10.04,0:05:13.17,Dialogue,Mio,0,0,0,,{\fad(200,0)}pentru a proteja granițele \Nregatului pe timp de război.
+Dialogue: 99,0:05:13.17,0:05:17.88,Dialogue,Mio,0,0,0,,Membrii familiei Granado, având titlul de margrafi pe atunci, l-au construit ca o fortăreață.
+Dialogue: 99,0:05:19.05,0:05:22.68,Dialogue,Marie,0,0,0,,Dacă-mi amintesc bine, familia Granado are legături de rudenie cu familia regală, nu?
+Dialogue: 99,0:05:22.68,0:05:27.77,Dialogue,Mio,0,0,0,,Da, dar după război, au obținut titlul de duce, iar acum își guvernează singuri propriile ținuturi.
+Dialogue: 99,0:05:27.77,0:05:29.89,Dialogue,Mio,0,0,0,,Nu iau parte la succesiunea la tron.
+Dialogue: 99,0:05:30.19,0:05:31.02,Dialogue,Mio,0,0,0,,Și acum.
+Dialogue: 99,0:05:31.44,0:05:34.48,Dialogue,Mio,0,0,0,,Acest castel e folosit doar \Npentru ocazii speciale.
+Dialogue: 99,0:05:34.48,0:05:38.40,Dialogue,Mio,0,0,0,,Domniță Maria, permiteți-mi să vă conduc la conacul unde veți locui.
+Dialogue: 99,0:05:38.40,0:05:39.82,Dialogue,Marie,0,0,0,,Conac?
+Dialogue: 99,0:05:40.45,0:05:42.82,Dialogue,Mio,0,0,0,,Se află dincolo de această ușă.
+Dialogue: 99,0:05:55.00,0:05:56.67,Dialogue,Marie,0,0,0,,E minunat!
+Dialogue: 99,0:05:56.67,0:06:00.80,Dialogue,Mio,0,0,0,,{\fad(0,500)}Acest conac a fost construit \Nde către ducesa Liu Liu.
+Dialogue: 99,0:06:00.80,0:06:02.22,Dialogue,Mio,0,0,0,,La parter se află bucătăria
+Dialogue: 99,0:06:02.22,0:06:05.76,Dialogue,Mio,0,0,0,,și camerele servitorilor.
+Dialogue: 99,0:06:06.18,0:06:08.68,Dialogue,Mio,0,0,0,,Există și camere private \Npentru familia ducesei,
+Dialogue: 99,0:06:08.68,0:06:11.56,Dialogue,Mio,0,0,0,,precum și spații pentru a \Nprimi oaspeți importanți.
+Dialogue: 99,0:06:18.40,0:06:20.94,Dialogue,Marie,0,0,0,,Scuză-mă, tu ești Tomas, nu-i așa?
+Dialogue: 99,0:06:20.94,0:06:23.95,Dialogue,Marie,0,0,0,,Îmi cer scuze pentru comportamentul nepoliticos al tatălui meu.
+Dialogue: 99,0:06:23.95,0:06:26.16,Dialogue,Tomas,0,0,0,,Domniță, cum de îmi știți numele?
+Dialogue: 99,0:06:26.16,0:06:28.45,Dialogue,Marie,0,0,0,,Cred că l-am auzit \Nspus de o altă persoană.
+Dialogue: 99,0:06:28.45,0:06:30.12,Dialogue,Tomas,0,0,0,,Așa este! Acela e numele meu!
+Dialogue: 99,0:06:30.87,0:06:32.79,Dialogue,Tomas,0,0,0,,Mă bucură faptul că-mi știți numele.
+Dialogue: 99,0:06:33.92,0:06:37.00,Dialogue,Marie,0,0,0,,Permite-mi să mă prezint. \NEu sunt Maria Shaderan.
+Dialogue: 99,0:06:37.38,0:06:40.17,Dialogue,Tomas,0,0,0,,Eu sunt Dibomov Tomas Tender.
+Dialogue: 99,0:06:40.17,0:06:42.34,Dialogue,Tomas,0,0,0,,Vă rog să-mi spuneți doar Tomas.
+Dialogue: 99,0:06:42.34,0:06:43.59,Dialogue,Marie,0,0,0,,Dibomov?
+Dialogue: 99,0:06:43.59,0:06:47.01,Dialogue,Marie,0,0,0,,Ai același nume precum eroul Dibomov care a descoperit Insula Louhav?
+Dialogue: 99,0:06:47.01,0:06:47.51,Dialogue,Tomas,0,0,0,,Ce?
+Dialogue: 99,0:06:47.72,0:06:50.85,Dialogue,Tomas,0,0,0,,Sunt uimit că ați auzit de el! \NDa, sunt de pe Insula Louhav!
+Dialogue: 99,0:06:51.22,0:06:53.81,Dialogue,Tomas,0,0,0,,Domnișoară, sunteți incredibil de citită!
+Dialogue: 99,0:06:57.98,0:07:00.78,Dialogue,Mio,0,0,0,,Domnița Maria e logodnica stăpânului.
+Dialogue: 99,0:07:00.78,0:07:02.40,Dialogue,Mio,0,0,0,,Nu o atinge fără permisiune.
+Dialogue: 99,0:07:02.40,0:07:04.36,Dialogue,Tomas,0,0,0,,Îmi cer scuze...
+Dialogue: 99,0:07:05.28,0:07:10.33,Dialogue,Marie,0,0,0,,Castelul a fost extraordinar, \Ndar și această cameră e minunată.
+Dialogue: 99,0:07:10.33,0:07:12.41,Dialogue,Mio,0,0,0,,Mă bucur că vă place.
+Dialogue: 99,0:07:12.75,0:07:16.88,Dialogue,Marie,0,0,0,,Apropo, lordul Kyros face \Nafaceri cu țări din întreaga lume?
+Dialogue: 99,0:07:16.88,0:07:20.84,Dialogue,Mio,0,0,0,,Nu. Ci doar cu Republica Ipsandros.
+Dialogue: 99,0:07:20.84,0:07:25.13,Dialogue,Marie,0,0,0,,Întrebam deoarece am tot văzut prin întreg conacul obiecte specifice altor țări.
+Dialogue: 99,0:07:25.13,0:07:27.51,Dialogue,Mio,0,0,0,,Acelea sunt obiectele \Npersonale ale servitorilor.
+Dialogue: 99,0:07:27.51,0:07:31.35,Dialogue,Mio,0,0,0,,Bucătarul-șef e din Flaria. \NGrădinarul e din Țările Bandelee.
+Dialogue: 99,0:07:31.35,0:07:32.97,Dialogue,Mio,0,0,0,,Avem multe naționalități aici.
+Dialogue: 99,0:07:32.97,0:07:36.60,Dialogue,Marie,0,0,0,,Cum e și Tomas, nu? \NE un grup destul de divers, nu-i așa?
+Dialogue: 99,0:07:36.90,0:07:39.02,Dialogue,Mio,0,0,0,,Stăpânul e destul de excentric.
+Dialogue: 99,0:07:39.02,0:07:39.52,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:07:39.77,0:07:41.98,Dialogue,Mio,0,0,0,,Există prejudecăți și în acest regat,
+Dialogue: 99,0:07:41.98,0:07:45.78,Dialogue,Mio,0,0,0,,dar stăpânul angajează oameni promițători indiferent de origine.
+Dialogue: 99,0:07:45.78,0:07:48.45,Dialogue,Mio,0,0,0,,De aceea toți cei de aici \Nîi sunt foarte devotați.
+Dialogue: 99,0:07:48.78,0:07:51.83,Dialogue,Marie,0,0,0,,Înțeleg. Mio, ești cumva \Ndin capitala regală?
+Dialogue: 99,0:07:52.12,0:07:53.70,Dialogue,Mio,0,0,0,,Am fost un copil abandonat.
+Dialogue: 99,0:07:53.70,0:07:56.04,Dialogue,Mio,0,0,0,,Mi s-a spus că am fost lăsată la un han.
+Dialogue: 99,0:07:56.21,0:07:57.75,Dialogue,Marie,0,0,0,,Î-Îmi pare foarte rău.
+Dialogue: 99,0:07:57.75,0:07:59.75,Dialogue,Mio,0,0,0,,Nu e nevoie să vă cereți scuze.
+Dialogue: 99,0:07:59.75,0:08:02.30,Dialogue,Mio,0,0,0,,Am dus o viață destul de plăcută.
+Dialogue: 99,0:08:02.30,0:08:05.34,Dialogue,Mio,0,0,0,,Când stăpânul era mic, \Nobișnuiam să-l consolez.
+Dialogue: 99,0:08:05.34,0:08:07.72,Dialogue,Marie; internal,0,0,0,,{\i1}Stai. Câți ani avea Mio?
+Dialogue: 99,0:08:07.72,0:08:11.51,Dialogue,Mio,0,0,0,,După cum puteți vedea, \Nmulți dintre noi avem trecuturi dificile,
+Dialogue: 99,0:08:11.51,0:08:15.18,Dialogue,Mio,0,0,0,,dar Ilza și Hannah sunt \Ndemne să vă fie servitoare.
+Dialogue: 99,0:08:16.06,0:08:19.94,Dialogue,Mio,0,0,0,,Amândouă au demnitatea \Nnobililor născuți în acest regat.
+Dialogue: 99,0:08:21.02,0:08:24.90,Dialogue,Marie; internal,0,0,0,,{\i1}De fapt, mi-ar plăcea mai mult \Nsă aud povești din alte țări.
+Dialogue: 99,0:08:24.90,0:08:27.32,Dialogue,Marie; internal,0,0,0,,{\i1}Cum ar fi, cântece folclorice \Ndespre eroi istorici...
+Dialogue: 99,0:08:27.32,0:08:30.24,Dialogue,Marie; internal,0,0,0,,{\i1}Sau chemarea unei păsări uriașe cu penajul în culorile curcubeului...
+Dialogue: 99,0:08:31.03,0:08:31.87,Dialogue,Marie; internal,0,0,0,,{\i1}Dar...
+Dialogue: 99,0:08:32.45,0:08:34.95,Dialogue,Marie,0,0,0,,Vă mulțumesc pentru tot \Nce ați făcut pentru mine.
+Dialogue: 99,0:08:34.95,0:08:38.79,Dialogue,Marie,0,0,0,,Voi învăța cât pot de multe \Nca să nu vă fac de rușine.
+Dialogue: 99,0:08:46.63,0:08:48.47,Dialogue,Ilza,0,0,0,,Ceaiul de după cină.
+Dialogue: 99,0:08:50.76,0:08:54.06,Dialogue,Marie,0,0,0,,P-Pot să primesc niște lapte?
+Dialogue: 99,0:08:54.06,0:08:55.68,Dialogue,Ilza,0,0,0,,Lapte?
+Dialogue: 99,0:08:55.68,0:08:58.85,Dialogue,Marie,0,0,0,,Îmi place să pun lapte în ceaiul negru.
+Dialogue: 99,0:08:58.85,0:09:01.69,Dialogue,Marie,0,0,0,,Vouă ce vă place să puneți în ceai?
+Dialogue: 99,0:09:01.69,0:09:03.31,Dialogue,Ilza,0,0,0,,Lapte în ceaiul negru?
+Dialogue: 99,0:09:03.31,0:09:05.28,Dialogue,Hannah,0,0,0,,Asta nu ar distruge aroma?
+Dialogue: 99,0:09:05.28,0:09:06.07,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:09:06.32,0:09:10.15,Dialogue,Ilza,0,0,0,,Să pui lapte de vacă în ceai? \NCe metodă {\i1}inovatoare{\i0} de a-l bea.
+Dialogue: 99,0:09:10.15,0:09:12.37,Dialogue,Ilza,0,0,0,,E prima oară când aud așa ceva.
+Dialogue: 99,0:09:13.24,0:09:17.75,Dialogue,Hannah,0,0,0,,Vă ridiați mereu la nivelul așteptărilor, domniță Maria! Sunteți atât de libertină în gusturi.
+Dialogue: 99,0:09:18.33,0:09:21.96,Dialogue,Marie; internal,0,0,0,,{\i1}Nu ar trebui să fie o problemă în ceea ce privește etica aristocraților.
+Dialogue: 99,0:09:24.04,0:09:27.34,Dialogue,Marie; internal,0,0,0,,{\i1}Oh! Poate că nu le place laptele!
+Dialogue: 99,0:09:27.34,0:09:30.13,Dialogue,Marie,0,0,0,,Îmi cer scuze. Nu cred că voi avea nevoie de lapte până la urmă.
+Dialogue: 99,0:09:30.68,0:09:33.34,Dialogue,Marie,0,0,0,,Îl voi bea așa. Vă mulțumesc.
+Dialogue: 99,0:09:42.77,0:09:44.52,Dialogue,Marie; internal,0,0,0,,{\i1}A fost o zi așa de lungă.
+Dialogue: 99,0:09:45.19,0:09:48.65,Dialogue,Marie; internal,0,0,0,,{\i1}Mă întreb dacă lordul Kyros încă lucrează la o oră atât de târzie.
+Dialogue: 99,0:09:55.41,0:09:58.83,Dialogue,Kyros,0,0,0,,Mă întreb dacă Maria se simte bine.
+Dialogue: 99,0:09:58.83,0:10:00.25,Dialogue,Wolfgang,0,0,0,,Stăpâne,
+Dialogue: 99,0:10:00.25,0:10:03.79,Dialogue,Wolfgang,0,0,0,,mâine dimineață veți avea o întâlnire cu comercianții, o întâlnire de afaceri la prânz,
+Dialogue: 99,0:10:03.79,0:10:05.71,Dialogue,Wolfgang,0,0,0,,iar apoi, o inspecție a pieței.
+Dialogue: 99,0:10:06.92,0:10:09.76,Dialogue,Kyros,0,0,0,,Oare când voi putea merge acasă?
+Dialogue: 99,0:10:19.22,0:10:21.81,Dialogue,Marie; internal,0,0,0,,{\i1}Micul dejun este îmbelșugat și astăzi,
+Dialogue: 99,0:10:21.81,0:10:24.19,Dialogue,Marie; internal,0,0,0,,{\i1}dar prospețimea acestor legume \Nfragede e foarte revigorantă.
+Dialogue: 99,0:10:25.36,0:10:29.23,Dialogue,Marie,0,0,0,,Mio, de unde faceți rost de \Naceste legume așa de bune?
+Dialogue: 99,0:10:29.23,0:10:31.99,Dialogue,Mio,0,0,0,,Sunt procurate din grădina din curte.
+Dialogue: 99,0:10:31.99,0:10:34.11,Dialogue,Marie,0,0,0,,Ce?! Avem o grădină cu legume?
+Dialogue: 99,0:10:34.11,0:10:36.87,Dialogue,Mio,0,0,0,,Da. Johan muncește din greu la ea.
+Dialogue: 99,0:10:38.33,0:10:40.70,Dialogue,Marie,0,0,0,,Aș vrea să văd grădina.
+Dialogue: 99,0:10:42.12,0:10:47.67,Dialogue,Mio,0,0,0,,Îmi cer scuze, dar eu trebuie să mă ocup de pregătirile pentru întoarcerea stăpânului.
+Dialogue: 99,0:10:47.67,0:10:49.46,Dialogue,Mio,0,0,0,,Vă rog să mergeți cu Ilza și Hannah.
+Dialogue: 99,0:10:49.71,0:10:51.97,Dialogue,Marie,0,0,0,,B-Bine.
+Dialogue: 99,0:10:51.97,0:10:53.38,Dialogue,Marie,0,0,0,,Am înțeles.
+Dialogue: 99,0:10:55.13,0:11:00.06,Dialogue,Marie; internal,0,0,0,,{\i1}Sper ca această ocazie să mă ajute să mă apropii mai mult de cele două.
+Dialogue: 99,0:11:12.61,0:11:16.03,Dialogue,Marie,0,0,0,,Habar n-aveam că există o grădină așa de frumoasă atât de aproape!
+Dialogue: 99,0:11:19.66,0:11:20.99,Dialogue,Marie,0,0,0,,Bună ziua.
+Dialogue: 99,0:11:24.46,0:11:26.83,Dialogue,Marie,0,0,0,,Dumneavoastră sunteți \Ndomnul Johan, nu-i așa?
+Dialogue: 99,0:11:26.83,0:11:30.09,Dialogue,Johan,0,0,0,,Bună ziua. Sper că sunteți bine, domniță.
+Dialogue: 99,0:11:30.55,0:11:32.05,Dialogue,Marie,0,0,0,,V-Vă rog să mă scuzați, dar...
+Dialogue: 99,0:11:32.38,0:11:34.76,Dialogue,Marie,0,0,0,,acelea sunt răsaduri de roșii, nu-i așa?
+Dialogue: 99,0:11:34.76,0:11:36.72,Dialogue,Marie,0,0,0,,Vă pregătiți să le plantați?
+Dialogue: 99,0:11:37.18,0:11:40.72,Dialogue,Johan,0,0,0,,D-Da. Răsadurile din acest \Nan au crescut destul de bine.
+Dialogue: 99,0:11:40.72,0:11:42.81,Dialogue,Marie,0,0,0,,Da, e acea perioadă a anului, nu?
+Dialogue: 99,0:11:43.52,0:11:45.56,Dialogue,Johan,0,0,0,,Domniță, e posibil...
+Dialogue: 99,0:11:45.56,0:11:48.27,Dialogue,Johan,0,0,0,,ca și dumneavoastră să fi cultivat legume?!
+Dialogue: 99,0:11:48.27,0:11:49.19,Dialogue,Marie,0,0,0,,D-Da!
+Dialogue: 99,0:11:49.56,0:11:50.73,Dialogue,Marie,0,0,0,,E mai ieftin decât să le cumperi
+Dialogue: 99,0:11:50.73,0:11:52.23,Dialogue,Marie,0,0,0,,și dacă rămân în plus, pot fi vândute.
+Dialogue: 99,0:11:52.48,0:11:56.24,Dialogue,Marie,0,0,0,,Pentru o familie săracă ca a mea, grădina noastră era o adevărată salvare.
+Dialogue: 99,0:11:56.24,0:11:57.11,Dialogue,Johan,0,0,0,,Înțeleg.
+Dialogue: 99,0:11:57.11,0:12:00.95,Dialogue,Marie,0,0,0,,Dar roșiile sunt sensibile la boli și insecte, deci erau greu de crescut.
+Dialogue: 99,0:12:01.28,0:12:04.95,Dialogue,Marie,0,0,0,,Ah, da. La ce distanța ar \Ntrebui puse răsadurile?
+Dialogue: 99,0:12:05.91,0:12:09.63,Dialogue,Johan,0,0,0,,Puteți lăsa acele răsaduri acolo. \NVă rog să mă urmați.
+Dialogue: 99,0:12:10.84,0:12:13.55,Dialogue,Marie,0,0,0,,Îmi veți arăta? Asta mă bucură mult!
+Dialogue: 99,0:12:17.51,0:12:20.93,Dialogue,Ilza,0,0,0,,Nu-mi vine să cred. \NUrma să cale direct pe pământ.
+Dialogue: 99,0:12:20.93,0:12:25.18,Dialogue,Hannah,0,0,0,,Poate nu știe că grădinile sunt doar pentru privit, nu și pentru plimbat prin ele.
+Dialogue: 99,0:12:25.18,0:12:28.31,Dialogue,Ilza,0,0,0,,De necrezut. Acolo sunt \Ngândaci și acel grădinar.
+Dialogue: 99,0:12:28.31,0:12:30.98,Dialogue,Hannah,0,0,0,,Stai, poate domniței îi place asta.
+Dialogue: 99,0:12:30.98,0:12:33.36,Dialogue,Ilza,0,0,0,,Ce anume? Gândacii? Sau grădinarul?
+Dialogue: 99,0:12:33.36,0:12:35.74,Dialogue,Hannah,0,0,0,,Oh, vai! Mă refeream la gândaci, evident.
+Dialogue: 99,0:12:35.74,0:12:38.36,Dialogue,Ilza,0,0,0,,Așa mă gândeam și eu. E imposibil să-i placă cuiva de acel om.
+Dialogue: 99,0:12:38.36,0:12:39.91,Dialogue,Marie; internal,0,0,0,,{\i1}Cum pot fi atât de nepoliticoase?
+Dialogue: 99,0:12:39.91,0:12:44.49,Dialogue,Marie; internal,0,0,0,,{\i1}Poate că eu merit să fiu ridiculizată, \Ndar nu și domnul Johan.
+Dialogue: 99,0:12:45.66,0:12:47.12,Dialogue,Marie,0,0,0,,Nu e așa deloc!
+Dialogue: 99,0:12:48.29,0:12:49.50,Dialogue,Marie,0,0,0,,Așteptați!
+Dialogue: 99,0:12:53.88,0:12:56.67,Dialogue,Marie; internal,0,0,0,,{\i1}Acești pantofi frumoși mi-au \Nfost oferiți de către conte.
+Dialogue: 99,0:12:57.84,0:13:00.43,Dialogue,Marie; internal,0,0,0,,{\i1}Nu trebuie să-i murdăresc.
+Dialogue: 99,0:13:01.01,0:13:02.72,Dialogue,Marie; internal,0,0,0,,{\i1}Știu acest lucru.
+Dialogue: 99,0:13:06.02,0:13:07.77,Dialogue,Ilza,0,0,0,,În acest caz, noapte bună.
+Dialogue: 99,0:13:07.98,0:13:10.40,Dialogue,Marie,0,0,0,,Da, noapte bună.
+Dialogue: 99,0:13:22.16,0:13:24.37,Dialogue,Marie; internal,0,0,0,,{\i1}Dintr-un oarecare motiv, nu pot dormi.
+Dialogue: 99,0:13:24.70,0:13:26.04,Dialogue,Marie; internal,0,0,0,,{\i1}Poate ar trebui să cer niște apă.
+Dialogue: 99,0:13:29.12,0:13:30.67,Dialogue,Marie; internal,0,0,0,,{\i1}Se pare că e cineva treaz.
+Dialogue: 99,0:13:34.54,0:13:35.30,Dialogue,Kyros,0,0,0,,Maria?
+Dialogue: 99,0:13:37.01,0:13:39.26,Dialogue,Kyros,0,0,0,,Ce s-a întâmplat? Nu poți dormi?
+Dialogue: 99,0:13:39.26,0:13:40.97,Dialogue,Marie,0,0,0,,E-Ei bine...
+Dialogue: 99,0:13:41.38,0:13:44.76,Dialogue,Kyros,0,0,0,,M-am întors târziu, așa că am ratat cina.
+Dialogue: 99,0:13:44.76,0:13:46.14,Dialogue,Kyros,0,0,0,,Te rog să iei loc, Maria.
+Dialogue: 99,0:13:48.14,0:13:49.98,Dialogue,Marie,0,0,0,,Î-Îmi cer scuze pentru deranj.
+Dialogue: 99,0:13:50.81,0:13:54.65,Dialogue,Kyros,0,0,0,,Au trecut patru zile, nu-i așa? \NAi devenit și mai frumoasă.
+Dialogue: 99,0:13:54.65,0:13:58.86,Dialogue,Marie,0,0,0,,Chiar deloc. Doar m-am bucurat de bunătatea tuturor celor de aici.
+Dialogue: 99,0:13:59.74,0:14:01.61,Dialogue,Kyros,0,0,0,,Mereu spui lucruri de genul, Maria.
+Dialogue: 99,0:14:05.37,0:14:06.95,Dialogue,Marie; internal,0,0,0,,{\i1}Inima mea!
+Dialogue: 99,0:14:06.95,0:14:08.12,Dialogue,Mio,0,0,0,,Îmi cer scuze pentru așteptare.
+Dialogue: 99,0:14:08.45,0:14:10.83,Dialogue,Kyros,0,0,0,,Oh! Toppo, încă ești treaz?
+Dialogue: 99,0:14:11.33,0:14:13.96,Dialogue,Toppo,0,0,0,,Bine ați revenit, tinere stăpân.
+Dialogue: 99,0:14:13.96,0:14:15.04,Dialogue,Toppo,0,0,0,,{\i1}Holbare.
+Dialogue: 99,0:14:15.42,0:14:17.92,Dialogue,Marie; internal,0,0,0,,{\i1}Să vedem. Toppo trebuie \Nsă fie bucătarul-șef, nu?
+Dialogue: 99,0:14:18.63,0:14:20.97,Dialogue,Toppo,0,0,0,,Ați cerut ceva ușor,
+Dialogue: 99,0:14:20.97,0:14:23.26,Dialogue,Toppo,0,0,0,,așa că am pregătit o \Nciorbă de pui și manioc.
+Dialogue: 99,0:14:23.64,0:14:25.85,Dialogue,Marie,0,0,0,,Vai, miroase așa de bine!
+Dialogue: 99,0:14:25.85,0:14:27.85,Dialogue,Kyros,0,0,0,,Toppo, adu-i și Mariei, te rog.
+Dialogue: 99,0:14:28.56,0:14:29.85,Dialogue,Toppo,0,0,0,,Poftim.
+Dialogue: 99,0:14:29.85,0:14:33.35,Dialogue,Toppo,0,0,0,,Deși nu cred că va fi pe gustul dumneavoastră, domniță Maria.
+Dialogue: 99,0:14:33.35,0:14:35.61,Dialogue,Marie; internal,0,0,0,,{\i1}Pare destul de supărat.
+Dialogue: 99,0:14:37.44,0:14:38.82,Dialogue,Marie; internal,0,0,0,,{\i1}E așa de bună!
+Dialogue: 99,0:14:38.82,0:14:41.11,Dialogue,Marie; internal,0,0,0,,{\i1}E o mâncare simplistă, \Ndar are un gust foarte bogat!
+Dialogue: 99,0:14:41.78,0:14:43.74,Dialogue,Kyros,0,0,0,,Mâncărurile lui Toppo \Nsunt delicioase, nu-i așa?
+Dialogue: 99,0:14:43.74,0:14:47.74,Dialogue,Marie,0,0,0,,Da, așa este! Mâncarea de aici e mereu așa de gustoasă încât...
+Dialogue: 99,0:14:50.54,0:14:53.62,Dialogue,Toppo,0,0,0,,Nu e nevoie de complimente din politețe!
+Dialogue: 99,0:14:53.92,0:14:55.67,Dialogue,Marie,0,0,0,,Dar spun adevărul!
+Dialogue: 99,0:14:55.67,0:15:00.84,Dialogue,Toppo,0,0,0,,Oricât mă strădui, niciodată nu ați terminat mâncarea pe care v-am pregătit-o! Înțeleg asta!
+Dialogue: 99,0:15:00.84,0:15:04.34,Dialogue,Toppo,0,0,0,,E din cauză că eu, Toppo, sunt un nepriceput! Dar ingredientele!
+Dialogue: 99,0:15:04.34,0:15:07.93,Dialogue,Toppo,0,0,0,,Carnea, peștele și restul... \NÎmi pare așa de {\i1}rău{\i0} de ele!
+Dialogue: 99,0:15:07.93,0:15:11.64,Dialogue,Marie,0,0,0,,E-E o neînțelegere! Nu-mi rămâne mâncare deoarece nu-mi place!
+Dialogue: 99,0:15:11.89,0:15:13.02,Dialogue,Toppo,0,0,0,,Ce?
+Dialogue: 99,0:15:13.02,0:15:15.73,Dialogue,Marie,0,0,0,,Și mie mi-a părut rău de acele ingrediente deoarece nu am reușit să le mănânc!
+Dialogue: 99,0:15:16.77,0:15:17.56,Dialogue,Marie,0,0,0,,Dar...
+Dialogue: 99,0:15:19.48,0:15:22.49,Dialogue,Kyros,0,0,0,,Mio, nu ai întrebat-o \Npe Maria ce-i place?
+Dialogue: 99,0:15:22.65,0:15:27.91,Dialogue,Mio,0,0,0,,Fie că e vorba de mâncăruri sau haine, domnița Maria nu poate spune ce îi place.
+Dialogue: 99,0:15:27.91,0:15:30.29,Dialogue,Marie,0,0,0,,N-Nu, toate chiar au fost delicioase!
+Dialogue: 99,0:15:30.29,0:15:32.08,Dialogue,Marie,0,0,0,,Nu a fost nimic care să-mi displacă!
+Dialogue: 99,0:15:32.08,0:15:33.96,Dialogue,Toppo,0,0,0,,Chiar e adevărat, domniță?
+Dialogue: 99,0:15:33.96,0:15:37.88,Dialogue,Marie,0,0,0,,Da! Pur și simplu, nu mai \Naveau loc în stomacul meu!
+Dialogue: 99,0:15:38.38,0:15:41.92,Dialogue,Toppo,0,0,0,,Atunci, ți-a plăcut mâncarea \Nmea? Sunt {\i1}așa de{\i0} fericit!
+Dialogue: 99,0:15:41.92,0:15:44.22,Dialogue,Marie,0,0,0,,M-Mio, ce ar trebui să fac?
+Dialogue: 99,0:15:44.67,0:15:46.72,Dialogue,Mio,0,0,0,,Eu voi merge să pregătesc \Nceaiul de după masă.
+Dialogue: 99,0:15:46.72,0:15:47.84,Dialogue,Marie,0,0,0,,Ce?!
+Dialogue: 99,0:15:47.84,0:15:49.60,Dialogue,Kyros,0,0,0,,Maria, nu-ți face griji.
+Dialogue: 99,0:15:49.60,0:15:51.89,Dialogue,Kyros,0,0,0,,Toppo plânge mereu foarte ușor.
+Dialogue: 99,0:15:51.89,0:15:53.39,Dialogue,Marie,0,0,0,,Serios?
+Dialogue: 99,0:15:53.39,0:15:59.15,Dialogue,Toppo,0,0,0,,Eu, Toppo, nu știam ce credea domnița cu adevărat, și totuși {\i1}eu{\i0}...
+Dialogue: 99,0:15:59.40,0:16:03.07,Dialogue,Toppo,0,0,0,,E timpul să ne revenim \Nși să aducem desertul!
+Dialogue: 99,0:16:06.15,0:16:07.78,Dialogue,Toppo,0,0,0,,Poftiți, poftiți!
+Dialogue: 99,0:16:07.78,0:16:09.62,Dialogue,Kyros,0,0,0,,E incredibil!
+Dialogue: 99,0:16:09.62,0:16:11.62,Dialogue,Marie,0,0,0,,Oare câte mere au fost folosite?
+Dialogue: 99,0:16:11.62,0:16:14.00,Dialogue,Kyros; internal,0,0,0,,{\i1}Toppo a înțeles greșit
+Dialogue: 99,0:16:12.70,0:16:14.79,Dialogue,Toppo; background,0,0,0,,{\an8}Îl voi tăia felii!
+Dialogue: 99,0:16:14.00,0:16:17.83,Dialogue,Kyros; internal,0,0,0,,{\i1}deoarece nu înțelege că alte persoane nu pot mânca la fel de mult ca el.
+Dialogue: 99,0:16:18.29,0:16:19.88,Dialogue,Kyros,0,0,0,,Haide să mâncăm împreună, Toppo.
+Dialogue: 99,0:16:19.88,0:16:21.71,Dialogue,Toppo,0,0,0,,Ce?! Sunteți sigur?
+Dialogue: 99,0:16:21.71,0:16:22.92,Dialogue,Kyros,0,0,0,,Da.
+Dialogue: 99,0:16:25.63,0:16:27.76,Dialogue,Toppo,0,0,0,,Mă voi retrage acum!
+Dialogue: 99,0:16:27.76,0:16:30.22,Dialogue,Toppo,0,0,0,,Vă doresc o noapte bună amândurora!
+Dialogue: 99,0:16:30.72,0:16:32.68,Dialogue,Kyros,0,0,0,,Bine. Mulțumim, Toppo.
+Dialogue: 99,0:16:32.68,0:16:33.81,Dialogue,Kyros,0,0,0,,Asigură-te că te odihnești.
+Dialogue: 99,0:16:35.64,0:16:37.44,Dialogue,Kyros,0,0,0,,Îmi pare rău, Maria.
+Dialogue: 99,0:16:37.44,0:16:38.06,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:16:38.44,0:16:41.06,Dialogue,Kyros,0,0,0,,Am creat o situație care te-a forțat să-i pui pe alții pe primul loc.
+Dialogue: 99,0:16:41.06,0:16:44.40,Dialogue,Kyros,0,0,0,,E altceva în afară de mâncare \Ncare te-a pus în dificultate?
+Dialogue: 99,0:16:44.40,0:16:48.15,Dialogue,Marie,0,0,0,,Oh, nu. Totul este atât de minunat \Nîncât e păcat să fie irosit pe mine.
+Dialogue: 99,0:16:48.15,0:16:49.57,Dialogue,Kyros,0,0,0,,Dar Ilza și Hannah?
+Dialogue: 99,0:16:52.20,0:16:53.74,Dialogue,Marie,0,0,0,,Se poartă frumos cu mine.
+Dialogue: 99,0:16:54.04,0:16:57.50,Dialogue,Kyros,0,0,0,,Un prieten de-al meu \Nmi le-a recomandat.
+Dialogue: 99,0:16:57.50,0:16:59.75,Dialogue,Kyros,0,0,0,,Ești o viitoare ducesă.
+Dialogue: 99,0:16:59.75,0:17:02.71,Dialogue,Kyros,0,0,0,,Vreau să fii primită așa cum se cuvine.
+Dialogue: 99,0:17:02.71,0:17:04.30,Dialogue,Marie,0,0,0,,Mulțumesc.
+Dialogue: 99,0:17:04.71,0:17:06.63,Dialogue,Marie,0,0,0,,Chiar se poartă frumos cu mine.
+Dialogue: 99,0:17:08.05,0:17:10.76,Dialogue,Kyros,0,0,0,,Maria, ai un obicei groaznic de \Na îndura lucrurile neplăcute.
+Dialogue: 99,0:17:10.76,0:17:11.43,Dialogue,Marie,0,0,0,,Ce?
+Dialogue: 99,0:17:13.30,0:17:15.18,Dialogue,Kyros,0,0,0,,Doar pentru că se \Npoartă frumos cu tine
+Dialogue: 99,0:17:15.18,0:17:17.48,Dialogue,Kyros,0,0,0,,nu înseamnă automat \Ncă trebuie să fii fericită.
+Dialogue: 99,0:17:17.89,0:17:22.23,Dialogue,Kyros,0,0,0,,Și dacă nu ești fericită, \Nte rog să-mi spui.
+Dialogue: 99,0:17:23.27,0:17:25.32,Dialogue,Marie; internal,0,0,0,,{\i1}Nu am preferințe.
+Dialogue: 99,0:17:25.32,0:17:29.32,Dialogue,Marie; internal,0,0,0,,{\i1}Nu. Nu știu cum ar trebui \Nsă aleg ce-mi place.
+Dialogue: 99,0:17:30.41,0:17:33.99,Dialogue,Marie; internal,0,0,0,,{\i1}Făceam treaba pe care o primeam și mă mulțumeam cu ce mi se oferea.
+Dialogue: 99,0:17:33.99,0:17:34.95,Dialogue,Marie; internal,0,0,0,,{\i1}Asta era suficient.
+Dialogue: 99,0:17:35.66,0:17:38.96,Dialogue,Marie; internal,0,0,0,,{\i1}Nu poate fi în regulă ca o persoană ca mine să aleagă în funcție de sentimente.
+Dialogue: 99,0:17:40.21,0:17:45.38,Dialogue,Marie,0,0,0,,Îmi pare rău, lordule Kyros. Nu vreau să irosesc vreun pic din bunătatea oferită.
+Dialogue: 99,0:17:46.25,0:17:49.47,Dialogue,Kyros,0,0,0,,Maria, dacă îți lipsește \Nceva, spune-mi, te rog.
+Dialogue: 99,0:17:50.93,0:17:52.93,Dialogue,Kyros,0,0,0,,Îți voi oferi tot ce-ți dorești.
+Dialogue: 99,0:17:57.14,0:17:58.77,Dialogue,Marie,0,0,0,,Ceva ce-mi lipsește?
+Dialogue: 99,0:17:59.52,0:18:01.35,Dialogue,Marie; internal,0,0,0,,{\i1}N-ar trebui să-mi lipsească nimic, și totuși...
+Dialogue: 99,0:18:02.06,0:18:03.98,Dialogue,Mio,0,0,0,,Îmi cer scuze că vă întrerup conversația.
+Dialogue: 99,0:18:05.23,0:18:07.94,Dialogue,Kyros,0,0,0,,Oh! Văd că ai adus ceva foarte drăguț!
+Dialogue: 99,0:18:09.07,0:18:10.53,Dialogue,Marie; internal,0,0,0,,{\i1}Ceva drăguț?
+Dialogue: 99,0:18:14.12,0:18:16.91,Dialogue,Mio,0,0,0,,Vă rog să vă bucurați de el.
+Dialogue: 99,0:18:17.33,0:18:20.46,Dialogue,Marie; internal,0,0,0,,{\i1}E așa de mare! E cumva \Ngustarea de noapte a lui Mio?
+Dialogue: 99,0:18:20.46,0:18:21.33,Dialogue,Kyros,0,0,0,,Maria.
+Dialogue: 99,0:18:22.29,0:18:23.67,Dialogue,Kyros,0,0,0,,Știi ce e asta?
+Dialogue: 99,0:18:23.67,0:18:26.38,Dialogue,Marie,0,0,0,,N-Nu. E prima oară când văd așa ceva.
+Dialogue: 99,0:18:27.34,0:18:30.97,Dialogue,Kyros,0,0,0,,E un çaydanlik folosit pentru prepararea ceaiului în Republica Ipsandros.
+Dialogue: 99,0:18:31.59,0:18:34.39,Dialogue,Kyros,0,0,0,,Mai întâi, aprinzi partea \Nde jos pentru a fierbe apa.
+Dialogue: 99,0:18:34.97,0:18:36.76,Dialogue,Kyros,0,0,0,,Căldura apei urcă,
+Dialogue: 99,0:18:36.76,0:18:40.73,Dialogue,Kyros,0,0,0,,și aburește încet frunzele de ceai, \Nscoțând la iveală aroma lor.
+Dialogue: 99,0:18:40.73,0:18:44.65,Dialogue,Kyros,0,0,0,,După ce ai așteptat destul timp, pui apa fierbinte din ceainicul inferior în cel superior,
+Dialogue: 99,0:18:44.65,0:18:47.11,Dialogue,Kyros,0,0,0,,iar apoi le plasezi în \Naceeași ordine și aștepți.
+Dialogue: 99,0:18:48.15,0:18:49.86,Dialogue,Kyros,0,0,0,,Când ceaiul e gata,
+Dialogue: 99,0:18:49.86,0:18:52.15,Dialogue,Kyros,0,0,0,,poți folosi apa fierbinte rămasă \Npentru a-l face mai slab.
+Dialogue: 99,0:18:52.15,0:18:55.74,Dialogue,Marie,0,0,0,,Astfel fiecare poate ajusta \Nintensitatea aromei!
+Dialogue: 99,0:18:55.74,0:18:59.33,Dialogue,Kyros,0,0,0,,Toată lumea se adună în jurul \Nceainicului când are loc infuzarea.
+Dialogue: 99,0:18:59.33,0:19:03.08,Dialogue,Kyros,0,0,0,,Acolo discută despre preferințele fiecăruia și ajung să devină mai apropiați.
+Dialogue: 99,0:19:03.92,0:19:05.46,Dialogue,Kyros,0,0,0,,Deci, Maria...
+Dialogue: 99,0:19:06.29,0:19:08.34,Dialogue,Kyros,0,0,0,,vorbește-mi despre tine.
+Dialogue: 99,0:19:08.59,0:19:10.59,Dialogue,Marie,0,0,0,,B-Bine.
+Dialogue: 99,0:19:10.59,0:19:12.17,Dialogue,Marie; internal,0,0,0,,{\i1}Să-i vorbesc despre mine.
+Dialogue: 99,0:19:12.17,0:19:14.18,Dialogue,Marie; internal,0,0,0,,{\i1}Dar ce ar trebui să-i spun?
+Dialogue: 99,0:19:14.34,0:19:17.55,Dialogue,Marie; internal,0,0,0,,{\i1}Nu am avut niciodată parte \Nde experiențe distractive.
+Dialogue: 99,0:19:18.05,0:19:20.18,Dialogue,young Anastasia,0,0,0,,Maria! Maria!
+Dialogue: 99,0:19:20.60,0:19:22.06,Dialogue,young Anastasia,0,0,0,,Ce vrei să ne jucăm?
+Dialogue: 99,0:19:22.43,0:19:24.23,Dialogue,young Marie,0,0,0,,Vreau să ne jucăm...
+Dialogue: 99,0:19:25.02,0:19:25.94,Dialogue,Marie,0,0,0,,Fazan!
+Dialogue: 99,0:19:26.23,0:19:28.52,Dialogue,Marie,0,0,0,,Lordule Kyros, haide să jucăm fazan!
+Dialogue: 99,0:19:28.86,0:19:30.19,Dialogue,Kyros,0,0,0,,Fazan?
+Dialogue: 99,0:19:30.86,0:19:33.70,Dialogue,Marie; internal,0,0,0,,{\i1}De ce ar juca cineva \Nde rangul său fazanul?!
+Dialogue: 99,0:19:33.95,0:19:36.66,Dialogue,Marie; internal,0,0,0,,{\i1}Cât de copilăresc din \Npartea mea. Mi-e așa rușine!
+Dialogue: 99,0:19:37.24,0:19:39.95,Dialogue,Kyros,0,0,0,,Ca să ne distrăm cu jucând \Nfazanul la vârsta noastră,
+Dialogue: 99,0:19:39.95,0:19:41.95,Dialogue,Kyros,0,0,0,,va trebui să adăugăm \Nniște reguli în plus.
+Dialogue: 99,0:19:41.95,0:19:44.75,Dialogue,Kyros,0,0,0,,Haide să ne concentrăm pe zonele unde cunoștințele noastre se suprapun.
+Dialogue: 99,0:19:45.08,0:19:48.46,Dialogue,Marie,0,0,0,,Ce? Î-În acest caz, ce spuneți dacă am folosi doar cuvinte despre lucruri care ne plac, lordule Kyros?
+Dialogue: 99,0:19:48.46,0:19:51.00,Dialogue,Kyros,0,0,0,,Bine. Doar lucruri care ne plac să fie!
+Dialogue: 99,0:19:51.00,0:19:52.34,Dialogue,Kyros,0,0,0,,E în regulă dacă încep eu?
+Dialogue: 99,0:19:52.34,0:19:53.55,Dialogue,Marie,0,0,0,,D-Desigur!
+Dialogue: 99,0:19:53.55,0:19:54.97,Dialogue,Kyros,0,0,0,,Bun!
+Dialogue: 99,0:19:55.55,0:19:56.43,Dialogue,Kyros,0,0,0,,Maria!
+Dialogue: 99,0:19:55.55,0:19:56.43,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}ma{\c&H00FFF7&}ri
+Dialogue: 99,0:19:56.43,0:19:57.09,Dialogue,Marie,0,0,0,,Ce...
+Dialogue: 99,0:19:57.09,0:19:59.76,Dialogue,Marie,0,0,0,,Nu se începe de \Nregulă de la litera „A”?
+Dialogue: 99,0:20:00.68,0:20:01.97,Dialogue,Kyros,0,0,0,,Atunci, plăcintă cu mere!
+Dialogue: 99,0:20:00.68,0:20:01.97,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}a{\c&HFFFFFF&}ppurupi{\c&H00FFF7&}e
+Dialogue: 99,0:20:02.43,0:20:06.19,Dialogue,Marie,0,0,0,,Ceva ce îmi place... cu „P”...
+Dialogue: 99,0:20:08.15,0:20:10.40,Dialogue,Marie,0,0,0,,Povești ipsandriene captivante!
+Dialogue: 99,0:20:08.15,0:20:10.40,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}e{\c&HFFFFFF&}pusuandorosu monogata{\c&H00FFF7&}ri
+Dialogue: 99,0:20:10.90,0:20:13.74,Dialogue,Kyros,0,0,0,,Ai spus același lucru și \Nîn acea noapte, nu-i așa?
+Dialogue: 99,0:20:15.45,0:20:16.40,Dialogue,Marie,0,0,0,,Așa este!
+Dialogue: 99,0:20:17.16,0:20:19.82,Dialogue,Kyros,0,0,0,,Ar trebui să vizitezi biblioteca \Ncastelului când ai timp.
+Dialogue: 99,0:20:19.82,0:20:22.04,Dialogue,Kyros,0,0,0,,Sunt sigur că e plină de lucruri \Ncare-ți vor plăcea, Maria.
+Dialogue: 99,0:20:22.04,0:20:24.00,Dialogue,Marie,0,0,0,,Da, o voi face. Mulțumesc.
+Dialogue: 99,0:20:24.45,0:20:27.87,Dialogue,Kyros,0,0,0,,Acum un cuvânt cu „Br”. „Br”...
+Dialogue: 99,0:20:28.25,0:20:29.50,Dialogue,Kyros,0,0,0,,Brânză ricotta!
+Dialogue: 99,0:20:28.25,0:20:29.50,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}ri{\c&HFFFFFF&}kotta chii{\c&H00FFF7&}zu
+Dialogue: 99,0:20:29.50,0:20:31.42,Dialogue,Marie,0,0,0,,„Zu”... Zucchini!
+Dialogue: 99,0:20:29.50,0:20:31.42,Word-Chains,Marie,0,0,0,,{\c&H11FF00&\pos(1050,942)}zu{\c&HFFFFFF&}kkii{\c&H00FFF7&}ni
+Dialogue: 99,0:20:31.42,0:20:32.46,Dialogue,Kyros,0,0,0,,Gnocchi!
+Dialogue: 99,0:20:31.42,0:20:32.46,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}nyo{\c&HFFFFFF&}k{\c&H00FFF7&}ki
+Dialogue: 99,0:20:32.46,0:20:33.34,Dialogue,Marie,0,0,0,,Morcovi!
+Dialogue: 99,0:20:32.46,0:20:33.34,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}kya{\c&HFFFFFF&}rott{\c&H00FFF7&}o
+Dialogue: 99,0:20:33.76,0:20:34.92,Dialogue,Kyros,0,0,0,,Tompouce!
+Dialogue: 99,0:20:33.76,0:20:34.92,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}to{\c&HFFFFFF&}npu{\c&H00FFF7&}su
+Dialogue: 99,0:20:34.92,0:20:36.17,Dialogue,Marie,0,0,0,,Cartof dulce!
+Dialogue: 99,0:20:34.92,0:20:36.17,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}iito pote{\c&H00FFF7&}to
+Dialogue: 99,0:20:36.42,0:20:37.76,Dialogue,Kyros,0,0,0,,Ciocolată cu trufe!
+Dialogue: 99,0:20:36.42,0:20:37.76,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}to{\c&HFFFFFF&}ryufu shoko{\c&H00FFF7&}ra
+Dialogue: 99,0:20:37.76,0:20:38.80,Dialogue,Marie,0,0,0,,Orez.
+Dialogue: 99,0:20:37.76,0:20:38.80,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ra{\c&HFFFFFF&}i{\c&H00FFF7&}su
+Dialogue: 99,0:20:38.80,0:20:39.72,Dialogue,Kyros,0,0,0,,Sufleu.
+Dialogue: 99,0:20:38.80,0:20:39.72,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}fu{\c&H00FFF7&}re
+Dialogue: 99,0:20:39.72,0:20:40.68,Dialogue,Marie,0,0,0,,Salată verde.
+Dialogue: 99,0:20:39.72,0:20:40.68,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}re{\c&HFFFFFF&}ta{\c&H00FFF7&}su
+Dialogue: 99,0:20:40.97,0:20:43.06,Dialogue,Kyros,0,0,0,,„Na”... „Na”...
+Dialogue: 99,0:20:43.06,0:20:45.27,Dialogue,Kyros,0,0,0,,Napolitane.
+Dialogue: 99,0:20:43.06,0:20:45.27,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}toroopuwaffu{\c&H00FFF7&}ru
+Dialogue: 99,0:20:45.52,0:20:46.56,Dialogue,Marie,0,0,0,,Rooibos.
+Dialogue: 99,0:20:45.52,0:20:46.56,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ru{\c&HFFFFFF&}ibo{\c&H00FFF7&}su
+Dialogue: 99,0:20:46.56,0:20:47.94,Dialogue,Kyros,0,0,0,,Aceeași terminație?!
+Dialogue: 99,0:20:48.27,0:20:51.31,Dialogue,Kyros,0,0,0,,„P”... „P”... Nu-mi vine nimic în minte.
+Dialogue: 99,0:20:51.31,0:20:53.53,Dialogue,Kyros,0,0,0,,P-Pandișpan.
+Dialogue: 99,0:20:51.31,0:20:53.53,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}ponji kee{\c&H00FFF7&}ki
+Dialogue: 99,0:20:55.32,0:20:57.90,Dialogue,Marie,0,0,0,,Lordule Kyros, văd că \Nenumerați doar dulciuri!
+Dialogue: 99,0:20:57.90,0:21:00.70,Dialogue,Kyros,0,0,0,,Tu vorbești, Maria? \NAi menționat doar legume și plante!
+Dialogue: 99,0:21:00.70,0:21:02.41,Dialogue,Marie,0,0,0,,Ce? E-Ei bine...
+Dialogue: 99,0:21:02.41,0:21:05.37,Dialogue,Marie,0,0,0,,Legumele cresc foarte repede, \Ndeci economisești bani ușor
+Dialogue: 99,0:21:05.37,0:21:07.66,Dialogue,Marie,0,0,0,,și sunt delicioase în multe rețete.
+Dialogue: 99,0:21:08.16,0:21:09.46,Dialogue,Kyros,0,0,0,,Mă așteptam să spui ceva de genul.
+Dialogue: 99,0:21:09.75,0:21:10.38,Dialogue,Marie,0,0,0,,Vai...
+Dialogue: 99,0:21:10.38,0:21:11.96,Dialogue,Kyros,0,0,0,,Scuze, scuze. Iartă-mă.
+Dialogue: 99,0:21:11.96,0:21:13.34,Dialogue,Kyros,0,0,0,,Să continuăm. Un cuvânt \Ncare începe cu „Ki”.
+Dialogue: 99,0:21:13.75,0:21:17.30,Dialogue,Marie; internal,0,0,0,,{\i1}Ceva ce îmi place și începe cu „Ki”...
+Dialogue: 99,0:21:17.97,0:21:19.01,Dialogue,Marie,0,0,0,,Kyros.
+Dialogue: 99,0:21:17.97,0:21:19.01,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ki{\c&HFFFFFF&}iro{\c&H00FFF7&}su
+Dialogue: 99,0:21:22.30,0:21:24.89,Dialogue,Kyros,0,0,0,,Parcă am auzit ceva \Ncare se termină în „Su”.
+Dialogue: 99,0:21:25.10,0:21:29.23,Dialogue,Marie,0,0,0,,A-Am spus „sărut”.
+Dialogue: 99,0:21:25.10,0:21:29.23,Word-Chains,Marie,0,0,0,,{\c&H11FF00&\pos(1100,942)}ki{\c&H00FFF7&}su
+Dialogue: 99,0:21:29.85,0:21:33.40,Dialogue,Kyros,0,0,0,,Înțeleg, înțeleg. \NDeci îți plac săruturile, Maria.
+Dialogue: 99,0:21:33.40,0:21:35.19,Dialogue,Marie; internal,0,0,0,,{\i1}Oh, nu asta am vrut să spun!
+Dialogue: 99,0:21:35.19,0:21:38.28,Dialogue,Kyros,0,0,0,,Dar are aceeași terminație, nu?
+Dialogue: 99,0:21:38.78,0:21:40.15,Dialogue,Kyros,0,0,0,,Suveniruri!
+Dialogue: 99,0:21:38.78,0:21:40.15,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}su{\c&HFFFFFF&}ubeni{\c&H00FFF7&}a
+Dialogue: 99,0:21:40.53,0:21:41.74,Dialogue,Marie,0,0,0,,Aromaterapie!
+Dialogue: 99,0:21:40.53,0:21:41.74,Word-Chains,Marie,0,0,0,,{\c&H11FF00&}ar{\c&HFFFFFF&}o{\c&H00FFF7&}ma
+Dialogue: 99,0:21:42.12,0:21:42.91,Dialogue,Kyros,0,0,0,,Maria!
+Dialogue: 99,0:21:42.12,0:21:42.91,Word-Chains,Kyros,0,0,0,,{\c&H11FF00&}ma{\c&H00FFF7&}ri
+Dialogue: 99,0:21:42.91,0:21:46.29,Dialogue,Marie,0,0,0,,Oh, vai, băiatul ăsta e \Nprea mult pentru mine!
+Dialogue: 99,0:21:46.29,0:21:47.58,Dialogue,Mio,0,0,0,,Încă vă mai jucați?
+Dialogue: 99,0:21:48.08,0:21:48.91,Dialogue,Kyros,0,0,0,,Mio.
+Dialogue: 99,0:21:51.92,0:21:52.88,Dialogue,Mio,0,0,0,,Ceaiul...
+Dialogue: 99,0:21:53.46,0:21:54.88,Dialogue,Mio,0,0,0,,s-a răcit, nu-i așa?
+Dialogue: 99,0:22:06.14,0:22:08.85,Dialogue,Kyros,0,0,0,,Nu putem bea asta. \NA devenit amar de la cât a stat.
+Dialogue: 99,0:22:08.85,0:22:11.27,Dialogue,Kyros,0,0,0,,Adu-ne lapte și zahăr ca să-l îndulcim.
+Dialogue: 99,0:22:14.69,0:22:18.03,Dialogue,Mio,0,0,0,,Cred că voi doi sunteți \Ndeja îndeajuns de dulci.
+Dialogue: 99,0:22:20.70,0:22:22.07,Dialogue,Kyros,0,0,0,,Mio!
+Dialogue: 99,0:22:22.74,0:22:24.16,Dialogue,Marie,0,0,0,,A plecat pur și simplu!
+Dialogue: 99,0:23:58.96,0:24:02.01,Dialogue,Mio,0,0,0,,Domnița Maria nu crede că sentimentele stăpânului sunt reale.
+Dialogue: 99,0:24:02.76,0:24:06.34,Dialogue,Mio,0,0,0,,Nu pare că s-ar obișnui \Ncomplet cu viața de la castel.
+Dialogue: 99,0:24:07.22,0:24:10.31,Dialogue,Mio,0,0,0,,Dar cred că înțeleg \Npuțin ceea ce simte.
+Dialogue: 99,0:24:11.31,0:24:15.02,Dialogue,Mio,0,0,0,,Doar am fost și eu \Nîntr-o situație similară.
+Dialogue: 99,0:24:17.15,0:24:21.73,Dialogue,Mio,0,0,0,,{\an8}Data viitoare: {\i1}Am descoperit ceea ce îmi place{\i0}.
+Dialogue: 99,0:24:24.19,0:24:26.78,Dialogue,Mio,0,0,0,,{\an8}Știți ce veți păți dacă veți \Nrata episodul următor, nu?
 Dialogue: 0,0:01:32.82,0:01:32.86,DedzuyaSigns,,0,0,0,,{\pos(960,154.04)\fscx166.86\fscy166.86\fnMargarine\fsp5\c&HDBBFC5&\blur0.92\iclip(m -11 24 l 67 63 67 141 -11 180 -89 141 -89 63 m 149 24 l 227 63 227 141 149 180 71 141 71 63 m 309 24 l 387 63 387 141 309 180 231 141 231 63 m 469 24 l 547 63 547 141 469 180 391 141 391 63 m 629 24 l 707 63 707 141 629 180 551 141 551 63 m 789 24 l 867 63 867 141 789 180 711 141 711 63 m 949 24 l 1027 63 1027 141 949 180 871 141 871 63 m 1109 24 l 1187 63 1187 141 1109 180 1031 141 1031 63 m 1269 24 l 1347 63 1347 141 1269 180 1191 141 1191 63 m 1429 24 l 1507 63 1507 141 1429 180 1351 141 1351 63 m 1589 24 l 1667 63 1667 141 1589 180 1511 141 1511 63 m 1749 24 l 1827 63 1827 141 1749 180 1671 141 1671 63 m 1909 24 l 1987 63 1987 141 1909 180 1831 141 1831 63 m 2069 24 l 2147 63 2147 141 2069 180 1991 141 1991 63 m 69 104 l 147 143 147 221 69 260 -9 221 -9 143 m 229 104 l 307 143 307 221 229 260 151 221 151 143 m 389 104 l 467 143 467 221 389 260 311 221 311 143 m 549 104 l 627 143 627 221 549 260 471 221 471 143 m 709 104 l 787 143 787 221 709 260 631 221 631 143 m 869 104 l 947 143 947 221 869 260 791 221 791 143 m 1029 104 l 1107 143 1107 221 1029 260 951 221 951 143 m 1189 104 l 1267 143 1267 221 1189 260 1111 221 1111 143 m 1349 104 l 1427 143 1427 221 1349 260 1271 221 1271 143 m 1509 104 l 1587 143 1587 221 1509 260 1431 221 1431 143 m 1669 104 l 1747 143 1747 221 1669 260 1591 221 1591 143 m 1829 104 l 1907 143 1907 221 1829 260 1751 221 1751 143 m 1989 104 l 2067 143 2067 221 1989 260 1911 221 1911 143 m 2149 104 l 2227 143 2227 221 2149 260 2071 221 2071 143)}Lo{\c&HDABFC7&}go{\c&HDBBFC5&}di{\c&HDABFC7&}tă {\fscx143.02\fscy143.02\fnLinux Libertine\fsp0\b1\c&HD9BFC6&}cu {\c&HDABEC7&}fostul partener {\c&HD9BFC6&}al {\c&HDABEC7&}surorii mele
 Dialogue: 0,0:01:32.86,0:01:32.90,DedzuyaSigns,,0,0,0,,{\pos(960,154.21)\fscx166.58\fscy166.58\fnMargarine\fsp5\c&HDBBFC3&\blur0.92\iclip(m -11 24 l 67 63 67 141 -11 180 -89 141 -89 63 m 149 24 l 227 63 227 141 149 180 71 141 71 63 m 309 24 l 387 63 387 141 309 180 231 141 231 63 m 469 24 l 547 63 547 141 469 180 391 141 391 63 m 629 24 l 707 63 707 141 629 180 551 141 551 63 m 789 24 l 867 63 867 141 789 180 711 141 711 63 m 949 24 l 1027 63 1027 141 949 180 871 141 871 63 m 1109 24 l 1187 63 1187 141 1109 180 1031 141 1031 63 m 1269 24 l 1347 63 1347 141 1269 180 1191 141 1191 63 m 1429 24 l 1507 63 1507 141 1429 180 1351 141 1351 63 m 1589 24 l 1667 63 1667 141 1589 180 1511 141 1511 63 m 1749 24 l 1827 63 1827 141 1749 180 1671 141 1671 63 m 1909 24 l 1987 63 1987 141 1909 180 1831 141 1831 63 m 2069 24 l 2147 63 2147 141 2069 180 1991 141 1991 63 m 69 104 l 147 143 147 221 69 260 -9 221 -9 143 m 229 104 l 307 143 307 221 229 260 151 221 151 143 m 389 104 l 467 143 467 221 389 260 311 221 311 143 m 549 104 l 627 143 627 221 549 260 471 221 471 143 m 709 104 l 787 143 787 221 709 260 631 221 631 143 m 869 104 l 947 143 947 221 869 260 791 221 791 143 m 1029 104 l 1107 143 1107 221 1029 260 951 221 951 143 m 1189 104 l 1267 143 1267 221 1189 260 1111 221 1111 143 m 1349 104 l 1427 143 1427 221 1349 260 1271 221 1271 143 m 1509 104 l 1587 143 1587 221 1509 260 1431 221 1431 143 m 1669 104 l 1747 143 1747 221 1669 260 1591 221 1591 143 m 1829 104 l 1907 143 1907 221 1829 260 1751 221 1751 143 m 1989 104 l 2067 143 2067 221 1989 260 1911 221 1911 143 m 2149 104 l 2227 143 2227 221 2149 260 2071 221 2071 143)}Lo{\c&HD9BEC8&}go{\c&HDBBFC3&}di{\c&HD9BEC8&}tă {\fscx142.78\fscy142.78\fnLinux Libertine\fsp0\b1\c&HD7BEC6&}cu {\c&HD8BCC8&}fostul partener {\c&HD7BEC6&}al {\c&HD8BCC8&}surorii mele
 Dialogue: 0,0:01:32.90,0:01:32.94,DedzuyaSigns,,0,0,0,,{\pos(960,154.38)\fscx166.31\fscy166.31\fnMargarine\fsp5\c&HDBBFC0&\blur0.91\iclip(m -11 26 l 65 64 65 140 -11 178 -87 140 -87 64 m 149 26 l 225 64 225 140 149 178 73 140 73 64 m 309 26 l 385 64 385 140 309 178 233 140 233 64 m 469 26 l 545 64 545 140 469 178 393 140 393 64 m 629 26 l 705 64 705 140 629 178 553 140 553 64 m 789 26 l 865 64 865 140 789 178 713 140 713 64 m 949 26 l 1025 64 1025 140 949 178 873 140 873 64 m 1109 26 l 1185 64 1185 140 1109 178 1033 140 1033 64 m 1269 26 l 1345 64 1345 140 1269 178 1193 140 1193 64 m 1429 26 l 1505 64 1505 140 1429 178 1353 140 1353 64 m 1589 26 l 1665 64 1665 140 1589 178 1513 140 1513 64 m 1749 26 l 1825 64 1825 140 1749 178 1673 140 1673 64 m 1909 26 l 1985 64 1985 140 1909 178 1833 140 1833 64 m 2069 26 l 2145 64 2145 140 2069 178 1993 140 1993 64 m 69 106 l 145 144 145 220 69 258 -7 220 -7 144 m 229 106 l 305 144 305 220 229 258 153 220 153 144 m 389 106 l 465 144 465 220 389 258 313 220 313 144 m 549 106 l 625 144 625 220 549 258 473 220 473 144 m 709 106 l 785 144 785 220 709 258 633 220 633 144 m 869 106 l 945 144 945 220 869 258 793 220 793 144 m 1029 106 l 1105 144 1105 220 1029 258 953 220 953 144 m 1189 106 l 1265 144 1265 220 1189 258 1113 220 1113 144 m 1349 106 l 1425 144 1425 220 1349 258 1273 220 1273 144 m 1509 106 l 1585 144 1585 220 1509 258 1433 220 1433 144 m 1669 106 l 1745 144 1745 220 1669 258 1593 220 1593 144 m 1829 106 l 1905 144 1905 220 1829 258 1753 220 1753 144 m 1989 106 l 2065 144 2065 220 1989 258 1913 220 1913 144 m 2149 106 l 2225 144 2225 220 2149 258 2073 220 2073 144)}Lo{\c&HD9BDC8&}go{\c&HDBBFC0&}di{\c&HD9BDC8&}tă {\fscx142.55\fscy142.55\fnLinux Libertine\fsp0\b1\c&HD5BEC6&}cu {\c&HD7B9C8&}fostul partener {\c&HD5BEC6&}al {\c&HD7B9C8&}surorii mele

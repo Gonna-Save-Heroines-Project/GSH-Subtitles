@@ -33,234 +33,234 @@ Style: ED TL,Bencoleng,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:01:00.41,0:01:02.04,Dialogue,,0,0,0,,"Beach Sempai."
-Dialogue: 100,0:01:04.46,0:01:06.67,Dialogue,saki,0,0,0,,The beach!
-Dialogue: 100,0:01:08.25,0:01:09.17,Dialogue,sem,0,0,0,,And now...
-Dialogue: 100,0:01:09.17,0:01:12.27,Dialogue,sem,0,0,0,,Sempai's new swimsuit!
-Dialogue: 100,0:01:12.27,0:01:13.17,Dialogue,sem,0,0,0,,What do you think?
-Dialogue: 100,0:01:13.17,0:01:16.45,Dialogue,sem,0,0,0,,And it's got my magic\Ntools safely tucked away,
-Dialogue: 100,0:01:16.45,0:01:17.65,Dialogue,sem,0,0,0,,so no problems here!
-Dialogue: 100,0:01:17.65,0:01:19.30,Dialogue,ass,0,0,0,,There's nothing but problems here!
-Dialogue: 100,0:01:19.71,0:01:22.86,Dialogue,sem,0,0,0,,Now, let's go frolic our brains out!
-Dialogue: 100,0:01:23.62,0:01:25.33,Dialogue,ass,0,0,0,,Wait for me!
-Dialogue: 100,0:01:36.32,0:01:37.61,Dialogue,ass,0,0,0,,I'm exhausted.
-Dialogue: 100,0:01:38.23,0:01:40.37,Dialogue,ass,0,0,0,,How long are those two going to frolic?
-Dialogue: 100,0:01:40.94,0:01:41.86,Dialogue,,0,0,0,,Take that!
-Dialogue: 100,0:01:46.86,0:01:48.87,Dialogue,saki,0,0,0,,That totally spooked me!
-Dialogue: 100,0:01:49.23,0:01:51.75,Dialogue,saki,0,0,0,,I-It swept my swimsuit away!
-Dialogue: 100,0:01:51.75,0:01:53.21,Dialogue,saki,0,0,0,,M-Magic Girl!
-Dialogue: 100,0:01:53.21,0:01:55.79,Dialogue,saki,0,0,0,,Could you maybe, like... help me?
-Dialogue: 100,0:01:56.26,0:02:00.36,Dialogue,sem,0,0,0,,To make a swimsuit disappear in an instant...
-Dialogue: 100,0:02:00.36,0:02:03.06,Dialogue,sem,0,0,0,,Truly, this is the magic that nature wields.
-Dialogue: 100,0:02:03.06,0:02:04.27,Dialogue,saki,0,0,0,,It got you, too?!
-Dialogue: 100,0:02:06.19,0:02:07.85,Dialogue,ass,0,0,0,,Saki-san is calling us.
-Dialogue: 100,0:02:08.24,0:02:10.19,Dialogue,ma,0,0,0,,She probably wants us to join them.
-Dialogue: 100,0:02:10.19,0:02:11.57,Dialogue,ma,0,0,0,,Not that I'm going.
-Dialogue: 100,0:02:12.93,0:02:16.30,Dialogue,saki,0,0,0,,We're gonna be stuck\Nin the water! What do we do?
-Dialogue: 100,0:02:16.30,0:02:17.96,Dialogue,sem,0,0,0,,Remain calm, Saki-chan.
-Dialogue: 100,0:02:17.96,0:02:19.99,Dialogue,sem,0,0,0,,We'll solve this problem with magic!
-Dialogue: 100,0:02:20.46,0:02:22.12,Dialogue,sem,0,0,0,,Here's what we'll use!
-Dialogue: 100,0:02:23.03,0:02:24.05,Dialogue,saki,0,0,0,,Sand?
-Dialogue: 100,0:02:25.28,0:02:27.13,Dialogue,sem,0,0,0,,But no ordinary sand!
-Dialogue: 100,0:02:27.13,0:02:28.75,Dialogue,sem,0,0,0,,This is magical sand!
-Dialogue: 100,0:02:29.33,0:02:32.77,Dialogue,sem,0,0,0,,By evenly applying a water-repellent spray,
-Dialogue: 100,0:02:32.77,0:02:35.82,Dialogue,sem,0,0,0,,it hardens into a clay-like\Nconsistency when it hits water!
-Dialogue: 100,0:02:35.82,0:02:39.76,Dialogue,saki,0,0,0,,I get it! We'll smear it on our breasts\Nand let it harden in the water!
-Dialogue: 100,0:02:39.76,0:02:43.11,Dialogue,saki,0,0,0,,That's awesome! You know a\Ncouple things after all, Magic Girl!
-Dialogue: 100,0:02:43.11,0:02:44.69,Dialogue,saki,0,0,0,,I underestimated you.
-Dialogue: 100,0:02:44.69,0:02:47.27,italics,sem,0,0,0,,I can't accept that\Ncompliment. I wonder why...
-Dialogue: 100,0:02:47.64,0:02:49.58,Dialogue,sem,0,0,0,,A-Anyway...
-Dialogue: 100,0:02:49.58,0:02:51.08,Dialogue,,0,0,0,,Let's make it to land!
-Dialogue: 100,0:02:54.14,0:02:57.71,Dialogue,sem,0,0,0,,I forgot! It turns back to normal sand\Nwhen you take it out of the water!
-Dialogue: 100,0:02:57.71,0:02:59.15,Dialogue,saki,0,0,0,,I take back my compliment.
-Dialogue: 100,0:02:59.60,0:03:01.66,Dialogue,saki,0,0,0,,Time for street performance to do its stuff!
-Dialogue: 100,0:03:02.00,0:03:03.93,Dialogue,saki,0,0,0,,Let's hide behind human balloons!
-Dialogue: 100,0:03:03.93,0:03:05.72,Dialogue,saki,0,0,0,,B-Balloons?!
-Dialogue: 100,0:03:05.72,0:03:07.99,Dialogue,saki,0,0,0,,Less bitching, more blowing!
-Dialogue: 100,0:03:09.16,0:03:11.39,Dialogue,saki,0,0,0,,Blow! Blow!
-Dialogue: 100,0:03:16.39,0:03:19.21,Dialogue,saki,0,0,0,,We were kinda lacking in air,\Nbut we made it work!
-Dialogue: 100,0:03:19.21,0:03:21.93,Dialogue,saki,0,0,0,,To think I'd be saved by my nemesis, balloons.
-Dialogue: 100,0:03:22.27,0:03:24.93,Dialogue,saki,0,0,0,,Hey! Everyone!
-Dialogue: 100,0:03:25.35,0:03:27.18,Dialogue,ma,0,0,0,,They came back in strange outfits.
-Dialogue: 100,0:03:27.18,0:03:31.72,Dialogue,saki,0,0,0,,Our swimsuits got swept away, see!
-Dialogue: 100,0:03:31.72,0:03:34.06,Dialogue,saki,0,0,0,,It totally sucked, you guys!
-Dialogue: 100,0:03:36.94,0:03:38.23,Dialogue,,0,0,0,,"Crab Sempai."
-Dialogue: 100,0:03:42.77,0:03:43.57,italics,ass,0,0,0,,What?
-Dialogue: 100,0:03:44.23,0:03:45.82,italics,ass,0,0,0,,Isn't that...
-Dialogue: 100,0:03:47.56,0:03:49.08,Dialogue,mad,0,0,0,,You came, Grandma?
-Dialogue: 100,0:03:49.08,0:03:51.43,Dialogue,mad,0,0,0,,I found something. Come and see!
-Dialogue: 100,0:03:51.43,0:03:54.21,Dialogue,mad,0,0,0,,There's a crab underneath this rock!
-Dialogue: 100,0:03:54.47,0:03:56.84,Dialogue,mad,0,0,0,,Hang on. I'm going to catch it!
-Dialogue: 100,0:03:58.88,0:04:00.80,Dialogue,ass,0,0,0,,It is you, Madara-san.
-Dialogue: 100,0:04:01.91,0:04:02.60,Dialogue,mad,0,0,0,,No!
-Dialogue: 100,0:04:02.60,0:04:03.44,Dialogue,mad,0,0,0,,I mean...
-Dialogue: 100,0:04:03.44,0:04:04.70,Dialogue,mad,0,0,0,,Um, this crab!
-Dialogue: 100,0:04:04.70,0:04:06.51,Dialogue,mad,0,0,0,,It's called a river swimming crab,
-Dialogue: 100,0:04:06.51,0:04:09.22,Dialogue,mad,0,0,0,,and it can be found across a wide\Nrange from Hokkaido to Okinawa!
-Dialogue: 100,0:04:09.22,0:04:10.80,Dialogue,mad,0,0,0,,They're edible, too!
-Dialogue: 100,0:04:10.80,0:04:11.64,Dialogue,ass,0,0,0,,You eat them?
-Dialogue: 100,0:04:11.91,0:04:14.03,Dialogue,mad,0,0,0,,Wh-What are you doing here?
-Dialogue: 100,0:04:14.03,0:04:16.19,Dialogue,ass,0,0,0,,The magic club came to hang out.
-Dialogue: 100,0:04:16.19,0:04:17.40,Dialogue,ass,0,0,0,,This is quite a coincidence.
-Dialogue: 100,0:04:17.69,0:04:20.51,Dialogue,ass,0,0,0,,This sure is a remote place though, huh?
-Dialogue: 100,0:04:20.51,0:04:23.15,Dialogue,ass,0,0,0,,Crap reception, no wi-fi...\NAnd I'm almost out of gigabits...
-Dialogue: 100,0:04:23.68,0:04:25.90,Dialogue,mad,0,0,0,,My grandmother lives here.
-Dialogue: 100,0:04:26.84,0:04:29.21,Dialogue,ass,0,0,0,,B-But the country has its positives, too!
-Dialogue: 100,0:04:29.21,0:04:30.80,Dialogue,ass,0,0,0,,There's a beach!
-Dialogue: 100,0:04:30.80,0:04:33.34,Dialogue,ass,0,0,0,,And lots of green,\Nwhich makes the air very clean!
-Dialogue: 100,0:04:33.34,0:04:35.04,Dialogue,mad,0,0,0,,You don't have to make it right.
-Dialogue: 100,0:04:35.42,0:04:38.06,Dialogue,mad,0,0,0,,But there are also things\Nyou can only do in the country.
-Dialogue: 100,0:04:38.83,0:04:40.52,Dialogue,mad,0,0,0,,Lie down over there.
-Dialogue: 100,0:04:43.00,0:04:44.24,Dialogue,ass,0,0,0,,Like this?
-Dialogue: 100,0:04:44.24,0:04:45.71,Dialogue,mad,0,0,0,,I'll do it, too.
-Dialogue: 100,0:04:46.75,0:04:49.18,italics,ass,0,0,0,,I-Is that what she was talking about doing?!
-Dialogue: 100,0:04:49.18,0:04:51.18,italics,ass,0,0,0,,Because nobody else is around?!
-Dialogue: 100,0:04:51.64,0:04:53.23,Dialogue,mad,0,0,0,,What are you looking at?
-Dialogue: 100,0:04:53.64,0:04:55.69,Dialogue,mad,0,0,0,,Don't look at me. Look at that.
-Dialogue: 100,0:04:56.38,0:04:58.69,Dialogue,mad,0,0,0,,You see the sun going down?
-Dialogue: 100,0:04:58.69,0:05:00.98,Dialogue,ass,0,0,0,,Y-Yes, I do.
-Dialogue: 100,0:05:00.98,0:05:02.08,Dialogue,ass,0,0,0,,It's very beautiful.
-Dialogue: 100,0:05:02.97,0:05:03.94,Dialogue,ass,0,0,0,,It's over...
-Dialogue: 100,0:05:04.32,0:05:05.58,Dialogue,mad,0,0,0,,Stand up right now!
-Dialogue: 100,0:05:05.58,0:05:06.86,Dialogue,ass,0,0,0,,Why?!
-Dialogue: 100,0:05:06.86,0:05:07.71,Dialogue,mad,0,0,0,,Just do it!
-Dialogue: 100,0:05:07.71,0:05:09.43,Dialogue,mad,0,0,0,,Look at the ocean again!
-Dialogue: 100,0:05:10.49,0:05:11.70,Dialogue,ass,0,0,0,,It's still up!
-Dialogue: 100,0:05:12.29,0:05:15.77,Dialogue,ass,0,0,0,,That's so weird... It's like\N I've gone back in time.
-Dialogue: 100,0:05:15.77,0:05:16.82,Dialogue,mad,0,0,0,,Right?
-Dialogue: 100,0:05:16.82,0:05:18.50,Dialogue,mad,0,0,0,,Because the Earth is a sphere,
-Dialogue: 100,0:05:18.50,0:05:21.71,Dialogue,mad,0,0,0,,the higher up you go, the further\Nyou can see around the curve.
-Dialogue: 100,0:05:22.15,0:05:28.59,Dialogue,mad,0,0,0,,Just by standing up, you can see\Na set sun just before it sets again.
-Dialogue: 100,0:05:29.06,0:05:32.29,Dialogue,ass,0,0,0,,If Sempai saw it, I bet she'd\Nhave a fit, saying it was magic.
-Dialogue: 100,0:05:32.29,0:05:34.48,Dialogue,mad,0,0,0,,Though science is more than some parlor trick.
-Dialogue: 100,0:05:35.05,0:05:37.65,Dialogue,ass,0,0,0,,It'll get cold soon.\NWe should probably get going.
-Dialogue: 100,0:05:38.79,0:05:41.61,Dialogue,ass,0,0,0,,I bet you're getting cold, too.
-Dialogue: 100,0:05:42.86,0:05:46.08,Dialogue,mad,0,0,0,,Forget everything that happened today!
-Dialogue: 100,0:05:46.75,0:05:48.36,Dialogue,ass,0,0,0,,Madara-san!
-Dialogue: 100,0:05:48.78,0:05:50.37,Dialogue,,0,0,0,,"Watermelon Sempai."
-Dialogue: 100,0:05:51.10,0:05:54.60,italics,ass,0,0,0,,The club is going to split a watermelon,\Nso I invited Madara-san along.
-Dialogue: 100,0:05:55.27,0:05:57.72,Dialogue,saki,0,0,0,,Assistant-kun, you're late.
-Dialogue: 100,0:05:57.72,0:05:59.02,Dialogue,saki,0,0,0,,Where have you been?
-Dialogue: 100,0:05:59.02,0:06:00.63,Dialogue,ass,0,0,0,,Things got complicated.
-Dialogue: 100,0:06:01.50,0:06:02.42,Dialogue,ass,0,0,0,,Madara-san?
-Dialogue: 100,0:06:02.42,0:06:05.13,Dialogue,mad,0,0,0,,I... I find girls like her... intimidating.
-Dialogue: 100,0:06:05.56,0:06:07.63,Dialogue,saki,0,0,0,,Your girlfriend?
-Dialogue: 100,0:06:08.01,0:06:11.51,Dialogue,mad,0,0,0,,I c-can't stand frivolous women\Nwho promote baseless hypotheses!
-Dialogue: 100,0:06:11.51,0:06:13.57,Dialogue,saki,0,0,0,,Sorry, just a joke.
-Dialogue: 100,0:06:14.07,0:06:17.27,Dialogue,saki,0,0,0,,Lookin' good, Ma-kun!
-Dialogue: 100,0:06:18.45,0:06:19.81,Dialogue,saki,0,0,0,,That's right!
-Dialogue: 100,0:06:19.81,0:06:21.49,Dialogue,saki,0,0,0,,More to the right!
-Dialogue: 100,0:06:22.06,0:06:24.59,Dialogue,saki,0,0,0,,Yes, that's the way! Keep walking!
-Dialogue: 100,0:06:25.73,0:06:28.84,Dialogue,saki,0,0,0,,Well done, my sweet.
-Dialogue: 100,0:06:29.60,0:06:32.30,Dialogue,saki,0,0,0,,Say, the sand's a lot harder than I thought.
-Dialogue: 100,0:06:32.30,0:06:33.91,Dialogue,saki,0,0,0,,Not sure I can get outta here...
-Dialogue: 100,0:06:33.91,0:06:35.13,Dialogue,saki,0,0,0,,Hey, Ma-kun?
-Dialogue: 100,0:06:35.55,0:06:37.08,Dialogue,ma,0,0,0,,Who shall be next?
-Dialogue: 100,0:06:37.79,0:06:40.29,Dialogue,ass,0,0,0,,Sorry about the sudden invitation.
-Dialogue: 100,0:06:40.29,0:06:42.33,Dialogue,mad,0,0,0,,It's fine. I didn't have anything else to do.
-Dialogue: 100,0:06:42.84,0:06:44.46,Dialogue,mad,0,0,0,,And I have a secret weapon.
-Dialogue: 100,0:06:44.46,0:06:45.46,Dialogue,ass,0,0,0,,A secret weapon?
-Dialogue: 100,0:06:45.78,0:06:47.17,Dialogue,mad,0,0,0,,Behold.
-Dialogue: 100,0:06:47.17,0:06:49.47,Dialogue,ass,0,0,0,,She spun around so much,\Nbut she doesn't seem dizzy!
-Dialogue: 100,0:06:51.13,0:06:53.39,Dialogue,mad,0,0,0,,Madara-style\Nwatermelon-splitting secrets.
-Dialogue: 100,0:06:53.80,0:06:56.68,Dialogue,mad,0,0,0,,One, understand the tilt of your body.
-Dialogue: 100,0:06:56.68,0:06:59.27,Dialogue,mad,0,0,0,,Two, train your three semicircular canals.
-Dialogue: 100,0:06:59.58,0:07:01.73,Dialogue,mad,0,0,0,,Three, memorize the terrain.
-Dialogue: 100,0:07:02.09,0:07:04.80,Dialogue,mad,0,0,0,,Just because it's a game is no\Nreason not to take it seriously.
-Dialogue: 100,0:07:05.73,0:07:07.23,italics,ass,0,0,0,,She's surprisingly into this!
-Dialogue: 100,0:07:07.53,0:07:10.32,Dialogue,mad,0,0,0,,I have a natural advantage, of course.
-Dialogue: 100,0:07:10.32,0:07:12.24,Dialogue,mad,0,0,0,,I don't get carsick, either.
-Dialogue: 100,0:07:13.02,0:07:14.99,Dialogue,ass,0,0,0,,Hey, wait! Stop! Stop!
-Dialogue: 100,0:07:15.57,0:07:17.17,Dialogue,saki,0,0,0,,Hey, chill out!
-Dialogue: 100,0:07:17.17,0:07:19.03,Dialogue,saki,0,0,0,,You had a good thing going there!
-Dialogue: 100,0:07:19.03,0:07:20.12,Dialogue,mad,0,0,0,,I'll bury your face, too.
-Dialogue: 100,0:07:20.54,0:07:22.18,Dialogue,ass,0,0,0,,Did I tie it right?
-Dialogue: 100,0:07:22.18,0:07:23.13,Dialogue,sem,0,0,0,,Okay!
-Dialogue: 100,0:07:23.64,0:07:27.03,Dialogue,sem,0,0,0,,Behold the power of Sempai!
-Dialogue: 100,0:07:27.63,0:07:31.10,Dialogue,sem,0,0,0,,See? I'm walking with such confidence!
-Dialogue: 100,0:07:31.10,0:07:32.76,Dialogue,ass,0,0,0,,Shakier than a newborn fawn...
-Dialogue: 100,0:07:33.54,0:07:35.72,Dialogue,ass,0,0,0,,Look out, Sempai! A broken shell!
-Dialogue: 100,0:07:35.72,0:07:37.10,Dialogue,sem,0,0,0,,Where? Where?
-Dialogue: 100,0:07:37.10,0:07:39.20,Dialogue,ass,0,0,0,,I told you, don't step left—
-Dialogue: 100,0:07:39.60,0:07:41.52,Dialogue,saki,0,0,0,,Assistant-kun!
-Dialogue: 100,0:07:41.52,0:07:43.11,Dialogue,sem,0,0,0,,What? What?
-Dialogue: 100,0:07:45.92,0:07:47.68,Dialogue,sem,0,0,0,,What's going on?!
-Dialogue: 100,0:07:52.35,0:07:54.72,Dialogue,sem,0,0,0,,I found it! Here's the watermelon!
-Dialogue: 100,0:07:54.72,0:07:56.66,Dialogue,saki,0,0,0,,W-Wait, I'm not—
-Dialogue: 100,0:07:58.67,0:08:01.92,Dialogue,sem,0,0,0,,Well? Impressed by Sempai's\Nspace-reading skills?
-Dialogue: 100,0:08:04.29,0:08:05.67,Dialogue,,0,0,0,,"Fireworks Sempai."
-Dialogue: 100,0:08:06.43,0:08:08.69,Dialogue,saki,0,0,0,,Well, now that the sun's down,
-Dialogue: 100,0:08:08.69,0:08:10.92,Dialogue,saki,0,0,0,,let's finish up with some fireworks!
-Dialogue: 100,0:08:11.30,0:08:12.28,Dialogue,both,0,0,0,,Nice!
-Dialogue: 100,0:08:13.34,0:08:14.33,Dialogue,sem,0,0,0,,Of course!
-Dialogue: 100,0:08:14.33,0:08:17.46,Dialogue,sem,0,0,0,,Speaking of fireworks,\NI have some tricks that use fire...
-Dialogue: 100,0:08:17.46,0:08:21.68,top,sem,0,0,0,,I've got this and this and this...
-Dialogue: 100,0:08:17.46,0:08:21.68,Dialogue,ass,0,0,0,,Sempai, playing with fire is dangerous,\Nso let's leave the tricks out of it.
-Dialogue: 100,0:08:22.69,0:08:23.37,Dialogue,sem,0,0,0,,Okay.
-Dialogue: 100,0:08:23.37,0:08:25.19,Dialogue,ass,0,0,0,,I don't trust you one bit!
-Dialogue: 100,0:08:25.80,0:08:27.84,Dialogue,sem,0,0,0,,Is this a rope escape trick?
-Dialogue: 100,0:08:27.84,0:08:29.07,Dialogue,sem,0,0,0,,Hey, Assistant?
-Dialogue: 100,0:08:29.46,0:08:31.73,Dialogue,ass,0,0,0,,Sempai and fire are a dangerous combination,
-Dialogue: 100,0:08:31.73,0:08:33.41,Dialogue,ass,0,0,0,,so let's get things ready without her.
-Dialogue: 100,0:08:33.41,0:08:35.73,Dialogue,ass,0,0,0,,She's burned the club room down before.
-Dialogue: 100,0:08:35.73,0:08:38.33,Dialogue,saki,0,0,0,,Why are you even still in this club?
-Dialogue: 100,0:08:38.33,0:08:41.98,Dialogue,sem,0,0,0,,Speaking of burning, I have\Nan exciting money trick I can do!
-Dialogue: 100,0:08:41.98,0:08:45.39,Dialogue,sem,0,0,0,,We'll start with the lighter\NSaki-chan brought for the fireworks.
-Dialogue: 100,0:08:45.39,0:08:46.85,Dialogue,saki,0,0,0,,No way! When'd you get that?
-Dialogue: 100,0:08:46.85,0:08:49.21,Dialogue,ass,0,0,0,,Why can't you be that sneaky\Nwhen you're doing magic?!
-Dialogue: 100,0:08:49.77,0:08:52.38,Dialogue,sem,0,0,0,,Now, it's time for a disappearing money trick!
-Dialogue: 100,0:08:52.84,0:08:55.32,Dialogue,sem,0,0,0,,Someone lend me a 1,000 yen bill!
-Dialogue: 100,0:08:56.46,0:08:58.01,Dialogue,sem,0,0,0,,Fine! I'll pay up myself!
-Dialogue: 100,0:08:59.05,0:09:03.52,Dialogue,sem,0,0,0,,I got the lighter from Saki-chan,\Nso you know it's just an ordinary lighter!
-Dialogue: 100,0:09:03.91,0:09:06.61,italics,sem,0,0,0,,This trick lives or dies by misdirection!
-Dialogue: 100,0:09:06.61,0:09:08.81,italics,sem,0,0,0,,While everyone's distracted by the fire,
-Dialogue: 100,0:09:08.81,0:09:12.18,italics,sem,0,0,0,,I'll swiftly swap the bill\Nin my hand with a fake!
-Dialogue: 100,0:09:12.18,0:09:13.78,italics,sem,0,0,0,,The darkness makes this easier!
-Dialogue: 100,0:09:14.36,0:09:15.80,Dialogue,sem,0,0,0,,Now, behold!
-Dialogue: 100,0:09:15.80,0:09:17.66,Dialogue,sem,0,0,0,,It's all burned away!
-Dialogue: 100,0:09:18.15,0:09:20.91,Dialogue,sem,0,0,0,,But because my money is so powerful,
-Dialogue: 100,0:09:21.30,0:09:23.88,Dialogue,sem,0,0,0,,it moved just in the nick of time!
-Dialogue: 100,0:09:24.55,0:09:25.16,Dialogue,sign,0,0,0,,Wh-What?
-Dialogue: 100,0:09:28.19,0:09:30.93,Dialogue,sign,0,0,0,,Well? We're having fun now, right?
-Dialogue: 100,0:09:30.93,0:09:33.08,italics,ass,0,0,0,,You don't look like you're having fun.
-Dialogue: 100,0:09:34.00,0:09:37.18,Dialogue,sem,0,0,0,,Okay, let's recover with\None more burning paper trick!
-Dialogue: 100,0:09:37.18,0:09:39.18,Dialogue,sem,0,0,0,,It's called flash paper!
-Dialogue: 100,0:09:39.77,0:09:44.23,italics,sem,0,0,0,,Flash paper is a magic item\Nthat burns in an instant when lit!
-Dialogue: 100,0:09:44.23,0:09:47.06,Dialogue,sem,0,0,0,,It burns so quickly, your hand\Nnever even gets hot!
-Dialogue: 100,0:09:47.50,0:09:51.32,italics,sem,0,0,0,,Like the lighter, \Nit's invaluable for misdirection!
-Dialogue: 100,0:09:51.76,0:09:53.28,italics,sem,0,0,0,,But therein lies the secret!
-Dialogue: 100,0:09:53.28,0:09:56.32,italics,sem,0,0,0,,This time I'll stun them with\Na sudden flower conjuring!
-Dialogue: 100,0:09:56.70,0:09:58.30,Dialogue,sem,0,0,0,,Remain calm, Sempai.
-Dialogue: 100,0:09:58.30,0:10:01.86,Dialogue,sem,0,0,0,,Your hand feels overheated from your nerves,\N but it's just your imagination.
-Dialogue: 100,0:10:01.86,0:10:02.75,Dialogue,ass,0,0,0,,It's not your imagination!
-Dialogue: 100,0:10:02.75,0:10:04.81,Dialogue,ass,0,0,0,,The flower in your hand is on fire!
-Dialogue: 100,0:10:05.29,0:10:06.30,Dialogue,sem,0,0,0,,That's hot!
-Dialogue: 100,0:10:06.30,0:10:08.51,Dialogue,saki,0,0,0,,Magic Girl, don't throw it that—
-Dialogue: 100,0:10:11.78,0:10:13.48,Dialogue,sem,0,0,0,,Amazing...
-Dialogue: 100,0:10:13.48,0:10:14.82,Dialogue,sem,0,0,0,,It's like a festival.
-Dialogue: 100,0:10:14.82,0:10:15.92,Dialogue,ass,0,0,0,,Water!
-Dialogue: 100,0:10:18.93,0:10:20.07,Dialogue,ass,0,0,0,,It's finally out.
-Dialogue: 100,0:10:20.07,0:10:22.55,Dialogue,saki,0,0,0,,All our fireworks, up in smoke...
-Dialogue: 100,0:10:24.15,0:10:25.60,Dialogue,sem,0,0,0,,I failed...
-Dialogue: 100,0:10:25.60,0:10:28.85,Dialogue,sem,0,0,0,,I just wanted to deepen\Nmy friendships with everyone.
-Dialogue: 100,0:10:28.85,0:10:30.44,italics,ass,0,0,0,,She's still smoldering, though.
-Dialogue: 100,0:10:30.69,0:10:34.67,Dialogue,ass,0,0,0,,Sempai, we can set off fireworks another time.
-Dialogue: 100,0:10:34.67,0:10:38.06,Dialogue,saki,0,0,0,,Nothing left to do, so I guess\Nwe ought to head home.
-Dialogue: 100,0:10:38.06,0:10:39.31,Dialogue,ass,0,0,0,,Fair enough.
-Dialogue: 100,0:10:39.31,0:10:41.95,Dialogue,mad,0,0,0,,I h-have some fireworks, though.
-Dialogue: 100,0:10:42.55,0:10:44.52,Dialogue,mad,0,0,0,,Grandma told me to bring them.
-Dialogue: 100,0:10:44.52,0:10:46.95,Dialogue,mad,0,0,0,,They're last year's, so they might\Nhave gotten a little moist, though.
-Dialogue: 100,0:10:47.76,0:10:49.15,Dialogue,ass,0,0,0,,Madara-san...
-Dialogue: 100,0:10:52.17,0:10:53.96,Dialogue,ass,0,0,0,,They're working like normal!
-Dialogue: 100,0:10:54.29,0:10:56.46,Dialogue,ass,0,0,0,,Normal is nice.
-Dialogue: 100,0:10:56.46,0:11:00.96,Dialogue,ass,0,0,0,,And I just like having everyone here together.
-Dialogue: 100,0:11:00.96,0:11:01.90,Dialogue,sem,0,0,0,,Hey...
-Dialogue: 100,0:11:02.70,0:11:06.27,Dialogue,sem,0,0,0,,I feel like the two of us \Ngot closer, don't you?
-Dialogue: 100,0:11:08.43,0:11:09.85,Dialogue,ass,0,0,0,,Well... sure.
-Dialogue: 100,0:11:19.71,0:11:21.58,Dialogue,sem,0,0,0,,It's hot! It hit my foot!
-Dialogue: 100,0:11:21.58,0:11:24.99,Dialogue,sem,0,0,0,,It's hot! It's so hot!
-Dialogue: 100,0:11:22.69,0:11:24.59,italics,ass,0,0,0,,No, not a bit, in fact.
-Dialogue: 100,0:12:25.57,0:12:28.47,Dialogue,ass,0,0,0,,Join us next week for more {\i1}Magical Sempai{\i0}!
+Dialogue: 99,0:01:00.41,0:01:02.04,Dialogue,,0,0,0,,"Beach Sempai."
+Dialogue: 99,0:01:04.46,0:01:06.67,Dialogue,saki,0,0,0,,The beach!
+Dialogue: 99,0:01:08.25,0:01:09.17,Dialogue,sem,0,0,0,,And now...
+Dialogue: 99,0:01:09.17,0:01:12.27,Dialogue,sem,0,0,0,,Sempai's new swimsuit!
+Dialogue: 99,0:01:12.27,0:01:13.17,Dialogue,sem,0,0,0,,What do you think?
+Dialogue: 99,0:01:13.17,0:01:16.45,Dialogue,sem,0,0,0,,And it's got my magic\Ntools safely tucked away,
+Dialogue: 99,0:01:16.45,0:01:17.65,Dialogue,sem,0,0,0,,so no problems here!
+Dialogue: 99,0:01:17.65,0:01:19.30,Dialogue,ass,0,0,0,,There's nothing but problems here!
+Dialogue: 99,0:01:19.71,0:01:22.86,Dialogue,sem,0,0,0,,Now, let's go frolic our brains out!
+Dialogue: 99,0:01:23.62,0:01:25.33,Dialogue,ass,0,0,0,,Wait for me!
+Dialogue: 99,0:01:36.32,0:01:37.61,Dialogue,ass,0,0,0,,I'm exhausted.
+Dialogue: 99,0:01:38.23,0:01:40.37,Dialogue,ass,0,0,0,,How long are those two going to frolic?
+Dialogue: 99,0:01:40.94,0:01:41.86,Dialogue,,0,0,0,,Take that!
+Dialogue: 99,0:01:46.86,0:01:48.87,Dialogue,saki,0,0,0,,That totally spooked me!
+Dialogue: 99,0:01:49.23,0:01:51.75,Dialogue,saki,0,0,0,,I-It swept my swimsuit away!
+Dialogue: 99,0:01:51.75,0:01:53.21,Dialogue,saki,0,0,0,,M-Magic Girl!
+Dialogue: 99,0:01:53.21,0:01:55.79,Dialogue,saki,0,0,0,,Could you maybe, like... help me?
+Dialogue: 99,0:01:56.26,0:02:00.36,Dialogue,sem,0,0,0,,To make a swimsuit disappear in an instant...
+Dialogue: 99,0:02:00.36,0:02:03.06,Dialogue,sem,0,0,0,,Truly, this is the magic that nature wields.
+Dialogue: 99,0:02:03.06,0:02:04.27,Dialogue,saki,0,0,0,,It got you, too?!
+Dialogue: 99,0:02:06.19,0:02:07.85,Dialogue,ass,0,0,0,,Saki-san is calling us.
+Dialogue: 99,0:02:08.24,0:02:10.19,Dialogue,ma,0,0,0,,She probably wants us to join them.
+Dialogue: 99,0:02:10.19,0:02:11.57,Dialogue,ma,0,0,0,,Not that I'm going.
+Dialogue: 99,0:02:12.93,0:02:16.30,Dialogue,saki,0,0,0,,We're gonna be stuck\Nin the water! What do we do?
+Dialogue: 99,0:02:16.30,0:02:17.96,Dialogue,sem,0,0,0,,Remain calm, Saki-chan.
+Dialogue: 99,0:02:17.96,0:02:19.99,Dialogue,sem,0,0,0,,We'll solve this problem with magic!
+Dialogue: 99,0:02:20.46,0:02:22.12,Dialogue,sem,0,0,0,,Here's what we'll use!
+Dialogue: 99,0:02:23.03,0:02:24.05,Dialogue,saki,0,0,0,,Sand?
+Dialogue: 99,0:02:25.28,0:02:27.13,Dialogue,sem,0,0,0,,But no ordinary sand!
+Dialogue: 99,0:02:27.13,0:02:28.75,Dialogue,sem,0,0,0,,This is magical sand!
+Dialogue: 99,0:02:29.33,0:02:32.77,Dialogue,sem,0,0,0,,By evenly applying a water-repellent spray,
+Dialogue: 99,0:02:32.77,0:02:35.82,Dialogue,sem,0,0,0,,it hardens into a clay-like\Nconsistency when it hits water!
+Dialogue: 99,0:02:35.82,0:02:39.76,Dialogue,saki,0,0,0,,I get it! We'll smear it on our breasts\Nand let it harden in the water!
+Dialogue: 99,0:02:39.76,0:02:43.11,Dialogue,saki,0,0,0,,That's awesome! You know a\Ncouple things after all, Magic Girl!
+Dialogue: 99,0:02:43.11,0:02:44.69,Dialogue,saki,0,0,0,,I underestimated you.
+Dialogue: 99,0:02:44.69,0:02:47.27,italics,sem,0,0,0,,I can't accept that\Ncompliment. I wonder why...
+Dialogue: 99,0:02:47.64,0:02:49.58,Dialogue,sem,0,0,0,,A-Anyway...
+Dialogue: 99,0:02:49.58,0:02:51.08,Dialogue,,0,0,0,,Let's make it to land!
+Dialogue: 99,0:02:54.14,0:02:57.71,Dialogue,sem,0,0,0,,I forgot! It turns back to normal sand\Nwhen you take it out of the water!
+Dialogue: 99,0:02:57.71,0:02:59.15,Dialogue,saki,0,0,0,,I take back my compliment.
+Dialogue: 99,0:02:59.60,0:03:01.66,Dialogue,saki,0,0,0,,Time for street performance to do its stuff!
+Dialogue: 99,0:03:02.00,0:03:03.93,Dialogue,saki,0,0,0,,Let's hide behind human balloons!
+Dialogue: 99,0:03:03.93,0:03:05.72,Dialogue,saki,0,0,0,,B-Balloons?!
+Dialogue: 99,0:03:05.72,0:03:07.99,Dialogue,saki,0,0,0,,Less bitching, more blowing!
+Dialogue: 99,0:03:09.16,0:03:11.39,Dialogue,saki,0,0,0,,Blow! Blow!
+Dialogue: 99,0:03:16.39,0:03:19.21,Dialogue,saki,0,0,0,,We were kinda lacking in air,\Nbut we made it work!
+Dialogue: 99,0:03:19.21,0:03:21.93,Dialogue,saki,0,0,0,,To think I'd be saved by my nemesis, balloons.
+Dialogue: 99,0:03:22.27,0:03:24.93,Dialogue,saki,0,0,0,,Hey! Everyone!
+Dialogue: 99,0:03:25.35,0:03:27.18,Dialogue,ma,0,0,0,,They came back in strange outfits.
+Dialogue: 99,0:03:27.18,0:03:31.72,Dialogue,saki,0,0,0,,Our swimsuits got swept away, see!
+Dialogue: 99,0:03:31.72,0:03:34.06,Dialogue,saki,0,0,0,,It totally sucked, you guys!
+Dialogue: 99,0:03:36.94,0:03:38.23,Dialogue,,0,0,0,,"Crab Sempai."
+Dialogue: 99,0:03:42.77,0:03:43.57,italics,ass,0,0,0,,What?
+Dialogue: 99,0:03:44.23,0:03:45.82,italics,ass,0,0,0,,Isn't that...
+Dialogue: 99,0:03:47.56,0:03:49.08,Dialogue,mad,0,0,0,,You came, Grandma?
+Dialogue: 99,0:03:49.08,0:03:51.43,Dialogue,mad,0,0,0,,I found something. Come and see!
+Dialogue: 99,0:03:51.43,0:03:54.21,Dialogue,mad,0,0,0,,There's a crab underneath this rock!
+Dialogue: 99,0:03:54.47,0:03:56.84,Dialogue,mad,0,0,0,,Hang on. I'm going to catch it!
+Dialogue: 99,0:03:58.88,0:04:00.80,Dialogue,ass,0,0,0,,It is you, Madara-san.
+Dialogue: 99,0:04:01.91,0:04:02.60,Dialogue,mad,0,0,0,,No!
+Dialogue: 99,0:04:02.60,0:04:03.44,Dialogue,mad,0,0,0,,I mean...
+Dialogue: 99,0:04:03.44,0:04:04.70,Dialogue,mad,0,0,0,,Um, this crab!
+Dialogue: 99,0:04:04.70,0:04:06.51,Dialogue,mad,0,0,0,,It's called a river swimming crab,
+Dialogue: 99,0:04:06.51,0:04:09.22,Dialogue,mad,0,0,0,,and it can be found across a wide\Nrange from Hokkaido to Okinawa!
+Dialogue: 99,0:04:09.22,0:04:10.80,Dialogue,mad,0,0,0,,They're edible, too!
+Dialogue: 99,0:04:10.80,0:04:11.64,Dialogue,ass,0,0,0,,You eat them?
+Dialogue: 99,0:04:11.91,0:04:14.03,Dialogue,mad,0,0,0,,Wh-What are you doing here?
+Dialogue: 99,0:04:14.03,0:04:16.19,Dialogue,ass,0,0,0,,The magic club came to hang out.
+Dialogue: 99,0:04:16.19,0:04:17.40,Dialogue,ass,0,0,0,,This is quite a coincidence.
+Dialogue: 99,0:04:17.69,0:04:20.51,Dialogue,ass,0,0,0,,This sure is a remote place though, huh?
+Dialogue: 99,0:04:20.51,0:04:23.15,Dialogue,ass,0,0,0,,Crap reception, no wi-fi...\NAnd I'm almost out of gigabits...
+Dialogue: 99,0:04:23.68,0:04:25.90,Dialogue,mad,0,0,0,,My grandmother lives here.
+Dialogue: 99,0:04:26.84,0:04:29.21,Dialogue,ass,0,0,0,,B-But the country has its positives, too!
+Dialogue: 99,0:04:29.21,0:04:30.80,Dialogue,ass,0,0,0,,There's a beach!
+Dialogue: 99,0:04:30.80,0:04:33.34,Dialogue,ass,0,0,0,,And lots of green,\Nwhich makes the air very clean!
+Dialogue: 99,0:04:33.34,0:04:35.04,Dialogue,mad,0,0,0,,You don't have to make it right.
+Dialogue: 99,0:04:35.42,0:04:38.06,Dialogue,mad,0,0,0,,But there are also things\Nyou can only do in the country.
+Dialogue: 99,0:04:38.83,0:04:40.52,Dialogue,mad,0,0,0,,Lie down over there.
+Dialogue: 99,0:04:43.00,0:04:44.24,Dialogue,ass,0,0,0,,Like this?
+Dialogue: 99,0:04:44.24,0:04:45.71,Dialogue,mad,0,0,0,,I'll do it, too.
+Dialogue: 99,0:04:46.75,0:04:49.18,italics,ass,0,0,0,,I-Is that what she was talking about doing?!
+Dialogue: 99,0:04:49.18,0:04:51.18,italics,ass,0,0,0,,Because nobody else is around?!
+Dialogue: 99,0:04:51.64,0:04:53.23,Dialogue,mad,0,0,0,,What are you looking at?
+Dialogue: 99,0:04:53.64,0:04:55.69,Dialogue,mad,0,0,0,,Don't look at me. Look at that.
+Dialogue: 99,0:04:56.38,0:04:58.69,Dialogue,mad,0,0,0,,You see the sun going down?
+Dialogue: 99,0:04:58.69,0:05:00.98,Dialogue,ass,0,0,0,,Y-Yes, I do.
+Dialogue: 99,0:05:00.98,0:05:02.08,Dialogue,ass,0,0,0,,It's very beautiful.
+Dialogue: 99,0:05:02.97,0:05:03.94,Dialogue,ass,0,0,0,,It's over...
+Dialogue: 99,0:05:04.32,0:05:05.58,Dialogue,mad,0,0,0,,Stand up right now!
+Dialogue: 99,0:05:05.58,0:05:06.86,Dialogue,ass,0,0,0,,Why?!
+Dialogue: 99,0:05:06.86,0:05:07.71,Dialogue,mad,0,0,0,,Just do it!
+Dialogue: 99,0:05:07.71,0:05:09.43,Dialogue,mad,0,0,0,,Look at the ocean again!
+Dialogue: 99,0:05:10.49,0:05:11.70,Dialogue,ass,0,0,0,,It's still up!
+Dialogue: 99,0:05:12.29,0:05:15.77,Dialogue,ass,0,0,0,,That's so weird... It's like\N I've gone back in time.
+Dialogue: 99,0:05:15.77,0:05:16.82,Dialogue,mad,0,0,0,,Right?
+Dialogue: 99,0:05:16.82,0:05:18.50,Dialogue,mad,0,0,0,,Because the Earth is a sphere,
+Dialogue: 99,0:05:18.50,0:05:21.71,Dialogue,mad,0,0,0,,the higher up you go, the further\Nyou can see around the curve.
+Dialogue: 99,0:05:22.15,0:05:28.59,Dialogue,mad,0,0,0,,Just by standing up, you can see\Na set sun just before it sets again.
+Dialogue: 99,0:05:29.06,0:05:32.29,Dialogue,ass,0,0,0,,If Sempai saw it, I bet she'd\Nhave a fit, saying it was magic.
+Dialogue: 99,0:05:32.29,0:05:34.48,Dialogue,mad,0,0,0,,Though science is more than some parlor trick.
+Dialogue: 99,0:05:35.05,0:05:37.65,Dialogue,ass,0,0,0,,It'll get cold soon.\NWe should probably get going.
+Dialogue: 99,0:05:38.79,0:05:41.61,Dialogue,ass,0,0,0,,I bet you're getting cold, too.
+Dialogue: 99,0:05:42.86,0:05:46.08,Dialogue,mad,0,0,0,,Forget everything that happened today!
+Dialogue: 99,0:05:46.75,0:05:48.36,Dialogue,ass,0,0,0,,Madara-san!
+Dialogue: 99,0:05:48.78,0:05:50.37,Dialogue,,0,0,0,,"Watermelon Sempai."
+Dialogue: 99,0:05:51.10,0:05:54.60,italics,ass,0,0,0,,The club is going to split a watermelon,\Nso I invited Madara-san along.
+Dialogue: 99,0:05:55.27,0:05:57.72,Dialogue,saki,0,0,0,,Assistant-kun, you're late.
+Dialogue: 99,0:05:57.72,0:05:59.02,Dialogue,saki,0,0,0,,Where have you been?
+Dialogue: 99,0:05:59.02,0:06:00.63,Dialogue,ass,0,0,0,,Things got complicated.
+Dialogue: 99,0:06:01.50,0:06:02.42,Dialogue,ass,0,0,0,,Madara-san?
+Dialogue: 99,0:06:02.42,0:06:05.13,Dialogue,mad,0,0,0,,I... I find girls like her... intimidating.
+Dialogue: 99,0:06:05.56,0:06:07.63,Dialogue,saki,0,0,0,,Your girlfriend?
+Dialogue: 99,0:06:08.01,0:06:11.51,Dialogue,mad,0,0,0,,I c-can't stand frivolous women\Nwho promote baseless hypotheses!
+Dialogue: 99,0:06:11.51,0:06:13.57,Dialogue,saki,0,0,0,,Sorry, just a joke.
+Dialogue: 99,0:06:14.07,0:06:17.27,Dialogue,saki,0,0,0,,Lookin' good, Ma-kun!
+Dialogue: 99,0:06:18.45,0:06:19.81,Dialogue,saki,0,0,0,,That's right!
+Dialogue: 99,0:06:19.81,0:06:21.49,Dialogue,saki,0,0,0,,More to the right!
+Dialogue: 99,0:06:22.06,0:06:24.59,Dialogue,saki,0,0,0,,Yes, that's the way! Keep walking!
+Dialogue: 99,0:06:25.73,0:06:28.84,Dialogue,saki,0,0,0,,Well done, my sweet.
+Dialogue: 99,0:06:29.60,0:06:32.30,Dialogue,saki,0,0,0,,Say, the sand's a lot harder than I thought.
+Dialogue: 99,0:06:32.30,0:06:33.91,Dialogue,saki,0,0,0,,Not sure I can get outta here...
+Dialogue: 99,0:06:33.91,0:06:35.13,Dialogue,saki,0,0,0,,Hey, Ma-kun?
+Dialogue: 99,0:06:35.55,0:06:37.08,Dialogue,ma,0,0,0,,Who shall be next?
+Dialogue: 99,0:06:37.79,0:06:40.29,Dialogue,ass,0,0,0,,Sorry about the sudden invitation.
+Dialogue: 99,0:06:40.29,0:06:42.33,Dialogue,mad,0,0,0,,It's fine. I didn't have anything else to do.
+Dialogue: 99,0:06:42.84,0:06:44.46,Dialogue,mad,0,0,0,,And I have a secret weapon.
+Dialogue: 99,0:06:44.46,0:06:45.46,Dialogue,ass,0,0,0,,A secret weapon?
+Dialogue: 99,0:06:45.78,0:06:47.17,Dialogue,mad,0,0,0,,Behold.
+Dialogue: 99,0:06:47.17,0:06:49.47,Dialogue,ass,0,0,0,,She spun around so much,\Nbut she doesn't seem dizzy!
+Dialogue: 99,0:06:51.13,0:06:53.39,Dialogue,mad,0,0,0,,Madara-style\Nwatermelon-splitting secrets.
+Dialogue: 99,0:06:53.80,0:06:56.68,Dialogue,mad,0,0,0,,One, understand the tilt of your body.
+Dialogue: 99,0:06:56.68,0:06:59.27,Dialogue,mad,0,0,0,,Two, train your three semicircular canals.
+Dialogue: 99,0:06:59.58,0:07:01.73,Dialogue,mad,0,0,0,,Three, memorize the terrain.
+Dialogue: 99,0:07:02.09,0:07:04.80,Dialogue,mad,0,0,0,,Just because it's a game is no\Nreason not to take it seriously.
+Dialogue: 99,0:07:05.73,0:07:07.23,italics,ass,0,0,0,,She's surprisingly into this!
+Dialogue: 99,0:07:07.53,0:07:10.32,Dialogue,mad,0,0,0,,I have a natural advantage, of course.
+Dialogue: 99,0:07:10.32,0:07:12.24,Dialogue,mad,0,0,0,,I don't get carsick, either.
+Dialogue: 99,0:07:13.02,0:07:14.99,Dialogue,ass,0,0,0,,Hey, wait! Stop! Stop!
+Dialogue: 99,0:07:15.57,0:07:17.17,Dialogue,saki,0,0,0,,Hey, chill out!
+Dialogue: 99,0:07:17.17,0:07:19.03,Dialogue,saki,0,0,0,,You had a good thing going there!
+Dialogue: 99,0:07:19.03,0:07:20.12,Dialogue,mad,0,0,0,,I'll bury your face, too.
+Dialogue: 99,0:07:20.54,0:07:22.18,Dialogue,ass,0,0,0,,Did I tie it right?
+Dialogue: 99,0:07:22.18,0:07:23.13,Dialogue,sem,0,0,0,,Okay!
+Dialogue: 99,0:07:23.64,0:07:27.03,Dialogue,sem,0,0,0,,Behold the power of Sempai!
+Dialogue: 99,0:07:27.63,0:07:31.10,Dialogue,sem,0,0,0,,See? I'm walking with such confidence!
+Dialogue: 99,0:07:31.10,0:07:32.76,Dialogue,ass,0,0,0,,Shakier than a newborn fawn...
+Dialogue: 99,0:07:33.54,0:07:35.72,Dialogue,ass,0,0,0,,Look out, Sempai! A broken shell!
+Dialogue: 99,0:07:35.72,0:07:37.10,Dialogue,sem,0,0,0,,Where? Where?
+Dialogue: 99,0:07:37.10,0:07:39.20,Dialogue,ass,0,0,0,,I told you, don't step left—
+Dialogue: 99,0:07:39.60,0:07:41.52,Dialogue,saki,0,0,0,,Assistant-kun!
+Dialogue: 99,0:07:41.52,0:07:43.11,Dialogue,sem,0,0,0,,What? What?
+Dialogue: 99,0:07:45.92,0:07:47.68,Dialogue,sem,0,0,0,,What's going on?!
+Dialogue: 99,0:07:52.35,0:07:54.72,Dialogue,sem,0,0,0,,I found it! Here's the watermelon!
+Dialogue: 99,0:07:54.72,0:07:56.66,Dialogue,saki,0,0,0,,W-Wait, I'm not—
+Dialogue: 99,0:07:58.67,0:08:01.92,Dialogue,sem,0,0,0,,Well? Impressed by Sempai's\Nspace-reading skills?
+Dialogue: 99,0:08:04.29,0:08:05.67,Dialogue,,0,0,0,,"Fireworks Sempai."
+Dialogue: 99,0:08:06.43,0:08:08.69,Dialogue,saki,0,0,0,,Well, now that the sun's down,
+Dialogue: 99,0:08:08.69,0:08:10.92,Dialogue,saki,0,0,0,,let's finish up with some fireworks!
+Dialogue: 99,0:08:11.30,0:08:12.28,Dialogue,both,0,0,0,,Nice!
+Dialogue: 99,0:08:13.34,0:08:14.33,Dialogue,sem,0,0,0,,Of course!
+Dialogue: 99,0:08:14.33,0:08:17.46,Dialogue,sem,0,0,0,,Speaking of fireworks,\NI have some tricks that use fire...
+Dialogue: 99,0:08:17.46,0:08:21.68,top,sem,0,0,0,,I've got this and this and this...
+Dialogue: 99,0:08:17.46,0:08:21.68,Dialogue,ass,0,0,0,,Sempai, playing with fire is dangerous,\Nso let's leave the tricks out of it.
+Dialogue: 99,0:08:22.69,0:08:23.37,Dialogue,sem,0,0,0,,Okay.
+Dialogue: 99,0:08:23.37,0:08:25.19,Dialogue,ass,0,0,0,,I don't trust you one bit!
+Dialogue: 99,0:08:25.80,0:08:27.84,Dialogue,sem,0,0,0,,Is this a rope escape trick?
+Dialogue: 99,0:08:27.84,0:08:29.07,Dialogue,sem,0,0,0,,Hey, Assistant?
+Dialogue: 99,0:08:29.46,0:08:31.73,Dialogue,ass,0,0,0,,Sempai and fire are a dangerous combination,
+Dialogue: 99,0:08:31.73,0:08:33.41,Dialogue,ass,0,0,0,,so let's get things ready without her.
+Dialogue: 99,0:08:33.41,0:08:35.73,Dialogue,ass,0,0,0,,She's burned the club room down before.
+Dialogue: 99,0:08:35.73,0:08:38.33,Dialogue,saki,0,0,0,,Why are you even still in this club?
+Dialogue: 99,0:08:38.33,0:08:41.98,Dialogue,sem,0,0,0,,Speaking of burning, I have\Nan exciting money trick I can do!
+Dialogue: 99,0:08:41.98,0:08:45.39,Dialogue,sem,0,0,0,,We'll start with the lighter\NSaki-chan brought for the fireworks.
+Dialogue: 99,0:08:45.39,0:08:46.85,Dialogue,saki,0,0,0,,No way! When'd you get that?
+Dialogue: 99,0:08:46.85,0:08:49.21,Dialogue,ass,0,0,0,,Why can't you be that sneaky\Nwhen you're doing magic?!
+Dialogue: 99,0:08:49.77,0:08:52.38,Dialogue,sem,0,0,0,,Now, it's time for a disappearing money trick!
+Dialogue: 99,0:08:52.84,0:08:55.32,Dialogue,sem,0,0,0,,Someone lend me a 1,000 yen bill!
+Dialogue: 99,0:08:56.46,0:08:58.01,Dialogue,sem,0,0,0,,Fine! I'll pay up myself!
+Dialogue: 99,0:08:59.05,0:09:03.52,Dialogue,sem,0,0,0,,I got the lighter from Saki-chan,\Nso you know it's just an ordinary lighter!
+Dialogue: 99,0:09:03.91,0:09:06.61,italics,sem,0,0,0,,This trick lives or dies by misdirection!
+Dialogue: 99,0:09:06.61,0:09:08.81,italics,sem,0,0,0,,While everyone's distracted by the fire,
+Dialogue: 99,0:09:08.81,0:09:12.18,italics,sem,0,0,0,,I'll swiftly swap the bill\Nin my hand with a fake!
+Dialogue: 99,0:09:12.18,0:09:13.78,italics,sem,0,0,0,,The darkness makes this easier!
+Dialogue: 99,0:09:14.36,0:09:15.80,Dialogue,sem,0,0,0,,Now, behold!
+Dialogue: 99,0:09:15.80,0:09:17.66,Dialogue,sem,0,0,0,,It's all burned away!
+Dialogue: 99,0:09:18.15,0:09:20.91,Dialogue,sem,0,0,0,,But because my money is so powerful,
+Dialogue: 99,0:09:21.30,0:09:23.88,Dialogue,sem,0,0,0,,it moved just in the nick of time!
+Dialogue: 99,0:09:24.55,0:09:25.16,Dialogue,sign,0,0,0,,Wh-What?
+Dialogue: 99,0:09:28.19,0:09:30.93,Dialogue,sign,0,0,0,,Well? We're having fun now, right?
+Dialogue: 99,0:09:30.93,0:09:33.08,italics,ass,0,0,0,,You don't look like you're having fun.
+Dialogue: 99,0:09:34.00,0:09:37.18,Dialogue,sem,0,0,0,,Okay, let's recover with\None more burning paper trick!
+Dialogue: 99,0:09:37.18,0:09:39.18,Dialogue,sem,0,0,0,,It's called flash paper!
+Dialogue: 99,0:09:39.77,0:09:44.23,italics,sem,0,0,0,,Flash paper is a magic item\Nthat burns in an instant when lit!
+Dialogue: 99,0:09:44.23,0:09:47.06,Dialogue,sem,0,0,0,,It burns so quickly, your hand\Nnever even gets hot!
+Dialogue: 99,0:09:47.50,0:09:51.32,italics,sem,0,0,0,,Like the lighter, \Nit's invaluable for misdirection!
+Dialogue: 99,0:09:51.76,0:09:53.28,italics,sem,0,0,0,,But therein lies the secret!
+Dialogue: 99,0:09:53.28,0:09:56.32,italics,sem,0,0,0,,This time I'll stun them with\Na sudden flower conjuring!
+Dialogue: 99,0:09:56.70,0:09:58.30,Dialogue,sem,0,0,0,,Remain calm, Sempai.
+Dialogue: 99,0:09:58.30,0:10:01.86,Dialogue,sem,0,0,0,,Your hand feels overheated from your nerves,\N but it's just your imagination.
+Dialogue: 99,0:10:01.86,0:10:02.75,Dialogue,ass,0,0,0,,It's not your imagination!
+Dialogue: 99,0:10:02.75,0:10:04.81,Dialogue,ass,0,0,0,,The flower in your hand is on fire!
+Dialogue: 99,0:10:05.29,0:10:06.30,Dialogue,sem,0,0,0,,That's hot!
+Dialogue: 99,0:10:06.30,0:10:08.51,Dialogue,saki,0,0,0,,Magic Girl, don't throw it that—
+Dialogue: 99,0:10:11.78,0:10:13.48,Dialogue,sem,0,0,0,,Amazing...
+Dialogue: 99,0:10:13.48,0:10:14.82,Dialogue,sem,0,0,0,,It's like a festival.
+Dialogue: 99,0:10:14.82,0:10:15.92,Dialogue,ass,0,0,0,,Water!
+Dialogue: 99,0:10:18.93,0:10:20.07,Dialogue,ass,0,0,0,,It's finally out.
+Dialogue: 99,0:10:20.07,0:10:22.55,Dialogue,saki,0,0,0,,All our fireworks, up in smoke...
+Dialogue: 99,0:10:24.15,0:10:25.60,Dialogue,sem,0,0,0,,I failed...
+Dialogue: 99,0:10:25.60,0:10:28.85,Dialogue,sem,0,0,0,,I just wanted to deepen\Nmy friendships with everyone.
+Dialogue: 99,0:10:28.85,0:10:30.44,italics,ass,0,0,0,,She's still smoldering, though.
+Dialogue: 99,0:10:30.69,0:10:34.67,Dialogue,ass,0,0,0,,Sempai, we can set off fireworks another time.
+Dialogue: 99,0:10:34.67,0:10:38.06,Dialogue,saki,0,0,0,,Nothing left to do, so I guess\Nwe ought to head home.
+Dialogue: 99,0:10:38.06,0:10:39.31,Dialogue,ass,0,0,0,,Fair enough.
+Dialogue: 99,0:10:39.31,0:10:41.95,Dialogue,mad,0,0,0,,I h-have some fireworks, though.
+Dialogue: 99,0:10:42.55,0:10:44.52,Dialogue,mad,0,0,0,,Grandma told me to bring them.
+Dialogue: 99,0:10:44.52,0:10:46.95,Dialogue,mad,0,0,0,,They're last year's, so they might\Nhave gotten a little moist, though.
+Dialogue: 99,0:10:47.76,0:10:49.15,Dialogue,ass,0,0,0,,Madara-san...
+Dialogue: 99,0:10:52.17,0:10:53.96,Dialogue,ass,0,0,0,,They're working like normal!
+Dialogue: 99,0:10:54.29,0:10:56.46,Dialogue,ass,0,0,0,,Normal is nice.
+Dialogue: 99,0:10:56.46,0:11:00.96,Dialogue,ass,0,0,0,,And I just like having everyone here together.
+Dialogue: 99,0:11:00.96,0:11:01.90,Dialogue,sem,0,0,0,,Hey...
+Dialogue: 99,0:11:02.70,0:11:06.27,Dialogue,sem,0,0,0,,I feel like the two of us \Ngot closer, don't you?
+Dialogue: 99,0:11:08.43,0:11:09.85,Dialogue,ass,0,0,0,,Well... sure.
+Dialogue: 99,0:11:19.71,0:11:21.58,Dialogue,sem,0,0,0,,It's hot! It hit my foot!
+Dialogue: 99,0:11:21.58,0:11:24.99,Dialogue,sem,0,0,0,,It's hot! It's so hot!
+Dialogue: 99,0:11:22.69,0:11:24.59,italics,ass,0,0,0,,No, not a bit, in fact.
+Dialogue: 99,0:12:25.57,0:12:28.47,Dialogue,ass,0,0,0,,Join us next week for more {\i1}Magical Sempai{\i0}!
 Dialogue: 0,0:01:00.03,0:01:02.04,DedzuyaSigns,,0,0,0,,{\an8\pos(964.5,649.5)\fscy105\fnAG Book Rounded Medium\fs99\fsp1.5\c&H000000&\blur2.25}Colega mai mare la plajă
 Dialogue: 1,0:01:00.03,0:01:02.04,DedzuyaSigns,,0,0,0,,{\an8\pos(960,645)\fscy105\fnAG Book Rounded Medium\fs99\fsp1.5\c&H6500FB&\blur0.68}Colega {\c&HDABE00&}mai mare la {\c&H6400FB&}plajă
 Dialogue: 0,0:03:36.57,0:03:38.57,DedzuyaSigns,,0,0,0,,{\an8\pos(964.5,649.5)\fscy105\fnAG Book Rounded Medium\fs99\fsp1.5\c&H000000&\blur2.25}Colega mai mare și crabul

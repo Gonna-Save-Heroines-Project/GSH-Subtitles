@@ -37,269 +37,269 @@ Style: ED TL,Handage AOE,89,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:06.08,0:00:07.13,Dialogue,,0,0,0,,{\an8\i1}Nu vrea să mai miște!
-Dialogue: 100,0:00:07.13,0:00:08.77,Dialogue,,0,0,0,,{\an8\i1}Nici al meu! Voi ieși din cabină!
-Dialogue: 100,0:00:08.77,0:00:11.18,Dialogue,,0,0,0,,{\i1}Ascundeți-vă în spatele \NDistrugătoarelor. Încă se trage spre noi.
-Dialogue: 100,0:00:11.18,0:00:13.26,Dialogue,,0,0,0,,{\i1}Kurena, ești bine?
-Dialogue: 100,0:00:13.26,0:00:15.15,Dialogue,,0,0,0,,{\i1}Dacă te poți mișca, \Nascunde-te în spatele mașinăriei!
-Dialogue: 100,0:00:15.95,0:00:17.32,Dialogue,,0,0,0,,{\i1}La naiba! Am fost lovit!
-Dialogue: 100,0:00:17.32,0:00:18.65,Dialogue,,0,0,0,,{\i1}Oare până aici ne-a fost?
-Dialogue: 100,0:00:30.30,0:00:31.46,Dialogue,,0,0,0,,Shin!
-Dialogue: 100,0:02:30.23,0:02:32.07,Dialogue,,0,0,0,,Ești sigur în legătură cu asta?
-Dialogue: 100,0:02:32.07,0:02:35.74,Dialogue,,0,0,0,,Da, nu-l putem lua cu noi în starea în care e.
-Dialogue: 100,0:02:36.55,0:02:38.55,Dialogue,,0,0,0,,Măcar atât putem face pentru el.
-Dialogue: 100,0:02:40.90,0:02:41.80,Dialogue,,0,0,0,,În plus...
-Dialogue: 100,0:02:43.14,0:02:45.51,Dialogue,,0,0,0,,nici noi nu vom mai putea înainta prea mult.
-Dialogue: 100,0:02:50.95,0:02:53.82,Dialogue,,0,0,0,,Doar al lui Shin a supraviețuit, nu?
-Dialogue: 100,0:02:53.82,0:02:56.12,Dialogue,,0,0,0,,Încă avem puștile și pistoalele, dar...
-Dialogue: 100,0:02:56.12,0:02:58.28,Dialogue,,0,0,0,,Nu prea mai avem muniție, nu?
-Dialogue: 100,0:02:58.61,0:03:01.27,Dialogue,,0,0,0,,E groaznic că ne-am pierdut acele containere.
-Dialogue: 100,0:03:01.27,0:03:04.13,Dialogue,,0,0,0,,Majoritatea muniției și combustibilului au fost distruse de flăcări.
-Dialogue: 100,0:03:04.13,0:03:05.21,Dialogue,,0,0,0,,Să nu uităm de mâncare!
-Dialogue: 100,0:03:05.21,0:03:07.29,Dialogue,,0,0,0,,Da, și mâncarea!
-Dialogue: 100,0:03:08.33,0:03:09.95,Dialogue,,0,0,0,,Eu am terminat aici.
-Dialogue: 100,0:03:09.95,0:03:10.79,Dialogue,,0,0,0,,Vom mai aveți?
-Dialogue: 100,0:03:10.79,0:03:12.17,Dialogue,,0,0,0,,Totul este gata.
-Dialogue: 100,0:03:12.62,0:03:14.17,Dialogue,,0,0,0,,Atunci, haide să pornim.
-Dialogue: 100,0:03:14.17,0:03:17.03,Dialogue,,0,0,0,,Dacă nu plecăm repede de aici, \NLegiunea ne va găsi din nou.
-Dialogue: 100,0:03:17.03,0:03:17.51,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:03:17.82,0:03:19.12,Dialogue,,0,0,0,,Cine va pilota?
-Dialogue: 100,0:03:19.12,0:03:21.51,Dialogue,,0,0,0,,Nu-l putem lăsa doar pe Shin să piloteze, știți?
-Dialogue: 100,0:03:21.87,0:03:24.46,Dialogue,,0,0,0,,În acest caz, haideți să facem cu rândul.
-Dialogue: 100,0:03:24.46,0:03:25.51,Dialogue,,0,0,0,,Sunt de acord.
-Dialogue: 100,0:03:25.51,0:03:28.81,Dialogue,,0,0,0,,Dar de ce a trebuit să supraviețuiască cel al Groparului?
-Dialogue: 100,0:03:29.82,0:03:30.77,Dialogue,,0,0,0,,E vreo problemă cu asta?
-Dialogue: 100,0:03:31.07,0:03:37.23,Dialogue,,0,0,0,,Da, Shin și-a modificat parametrii, deci controlul e așa de sensibil încât e  înfricoșător.
-Dialogue: 100,0:03:37.23,0:03:39.24,Dialogue,,0,0,0,,În plus, a dezactivat și majoritatea limitatoarelor.
-Dialogue: 100,0:03:39.63,0:03:41.34,Dialogue,,0,0,0,,Atunci, voi fi eu prima.
-Dialogue: 100,0:03:41.34,0:03:43.10,Dialogue,,0,0,0,,Nu, o voi face eu.
-Dialogue: 100,0:03:43.10,0:03:45.08,Dialogue,,0,0,0,,Nu erai tu cel care se \Nplângea acum câteva clipe?
-Dialogue: 100,0:03:45.08,0:03:48.62,Dialogue,,0,0,0,,Oricum, eu am fost doborâtă prima, \Ndeci nu sunt obosită deloc.
-Dialogue: 100,0:03:50.69,0:03:55.38,Dialogue,,0,0,0,,În regulă. Putem fi de acord că dacă dăm peste Legiune, cel care pilotează va și lupta?
-Dialogue: 100,0:03:55.81,0:03:56.80,Dialogue,,0,0,0,,De acord.
-Dialogue: 100,0:03:56.80,0:03:57.55,Dialogue,,0,0,0,,Și eu sunt!
-Dialogue: 100,0:04:15.22,0:04:16.34,Dialogue,,0,0,0,,Kurena, oprește.
-Dialogue: 100,0:04:26.52,0:04:29.04,Dialogue,,0,0,0,,E o peșteră în acele stânci la ora 10.
-Dialogue: 100,0:04:29.04,0:04:30.14,Dialogue,,0,0,0,,Du-ne acolo.
-Dialogue: 100,0:04:30.14,0:04:31.02,Dialogue,,0,0,0,,Recepționat.
-Dialogue: 100,0:04:31.02,0:04:32.16,Dialogue,,0,0,0,,Cât mai repede.
-Dialogue: 100,0:04:56.46,0:04:58.78,Dialogue,,0,0,0,,I-am evitat mulțumită lui Shin.
-Dialogue: 100,0:04:58.78,0:05:01.59,Dialogue,,0,0,0,,Totuși, erau o grămadă.
-Dialogue: 100,0:05:01.59,0:05:03.78,Dialogue,,0,0,0,,Mi se pare mie sau vedem \Ntot mai multe în ultimul timp?
-Dialogue: 100,0:05:03.78,0:05:06.87,Dialogue,,0,0,0,,Bănuiesc că ne apropiem de baza lor.
-Dialogue: 100,0:05:07.91,0:05:08.99,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:05:10.51,0:05:11.90,Dialogue,,0,0,0,,Toată lumea, priviți.
-Dialogue: 100,0:05:40.00,0:05:41.40,Dialogue,,0,0,0,,Oare e cumva o școală?
-Dialogue: 100,0:05:41.40,0:05:43.39,Dialogue,,0,0,0,,Ce? Serios?
-Dialogue: 100,0:05:43.39,0:05:44.19,Dialogue,,0,0,0,,Probabil.
-Dialogue: 100,0:05:44.19,0:05:48.18,Dialogue,,0,0,0,,Oh, that's right, You haven't been to school before have you Kurena?
-Dialogue: 100,0:05:48.18,0:05:52.39,Dialogue,,0,0,0,,I guess you can still recognize a school,\Neven across borders and cultures.
-Dialogue: 100,0:05:53.24,0:05:55.87,Dialogue,,0,0,0,,So this is a school...
-Dialogue: 100,0:05:57.59,0:05:59.88,Dialogue,,0,0,0,,Hey, let's camp here tonight!
-Dialogue: 100,0:06:02.25,0:06:03.27,Dialogue,,0,0,0,,Let's do it.
-Dialogue: 100,0:06:27.44,0:06:29.26,Dialogue,,0,0,0,,Can you read that, Kurena?
-Dialogue: 100,0:06:29.26,0:06:30.89,Dialogue,,0,0,0,,Not at all.
-Dialogue: 100,0:06:30.89,0:06:32.20,Dialogue,,0,0,0,,But it looks like they were having fun.
-Dialogue: 100,0:06:32.54,0:06:34.35,Dialogue,,0,0,0,,This brings back so many memories.
-Dialogue: 100,0:06:34.35,0:06:36.46,Dialogue,,0,0,0,,Did you like studying?
-Dialogue: 100,0:06:36.46,0:06:37.52,Dialogue,,0,0,0,,Not at all.
-Dialogue: 100,0:06:41.49,0:06:42.54,Dialogue,,0,0,0,,Raiden Shuga!
-Dialogue: 100,0:06:43.85,0:06:48.23,Dialogue,,0,0,0,,Huh? Is Raiden absent today?
-Dialogue: 100,0:06:49.38,0:06:51.22,Dialogue,,0,0,0,,Raiden Shuga!
-Dialogue: 100,0:06:51.22,0:06:51.91,Dialogue,,0,0,0,,Present!
-Dialogue: 100,0:06:51.91,0:06:52.51,Dialogue,,0,0,0,,Okay.
-Dialogue: 100,0:06:52.77,0:06:54.41,Dialogue,,0,0,0,,Theoto Rikka.
-Dialogue: 100,0:06:54.41,0:06:55.64,Dialogue,,0,0,0,,Here!
-Dialogue: 100,0:06:55.93,0:06:57.64,Dialogue,,0,0,0,,Kurena Kukumila.
-Dialogue: 100,0:07:04.19,0:07:04.98,Dialogue,,0,0,0,,Present!
-Dialogue: 100,0:07:05.79,0:07:07.27,Dialogue,,0,0,0,,Anju Emma!
-Dialogue: 100,0:07:07.27,0:07:07.82,Dialogue,,0,0,0,,Present.
-Dialogue: 100,0:07:08.67,0:07:10.28,Dialogue,,0,0,0,,Shinei Nouzen!
-Dialogue: 100,0:07:12.62,0:07:13.27,Dialogue,,0,0,0,,Present.
-Dialogue: 100,0:07:15.59,0:07:18.22,Dialogue,,0,0,0,,If we're not going to study, \Nthese are just firewood.
-Dialogue: 100,0:07:19.54,0:07:21.00,Dialogue,,0,0,0,,I see.
-Dialogue: 100,0:07:23.59,0:07:25.34,Dialogue,,0,0,0,,Is this something special, too?
-Dialogue: 100,0:07:26.03,0:07:27.64,Dialogue,,0,0,0,,Tearing down the school, maybe?
-Dialogue: 100,0:07:32.07,0:07:34.70,Dialogue,,0,0,0,,Alright, what should we use for kindling?
-Dialogue: 100,0:07:37.93,0:07:39.61,Dialogue,,0,0,0,,Wait, aren't those textbooks?
-Dialogue: 100,0:07:39.61,0:07:42.11,Dialogue,,0,0,0,,I feel kind of guilty.
-Dialogue: 100,0:07:42.11,0:07:44.72,Dialogue,,0,0,0,,Books we can't read are useless.
-Dialogue: 100,0:07:44.72,0:07:45.96,Dialogue,,0,0,0,,That's right.
-Dialogue: 100,0:08:04.15,0:08:05.62,Dialogue,,0,0,0,,You still have some left?
-Dialogue: 100,0:08:06.26,0:08:07.58,Dialogue,,0,0,0,,Yeah.
-Dialogue: 100,0:08:07.58,0:08:09.06,Dialogue,,0,0,0,,This is the last one.
-Dialogue: 100,0:08:17.40,0:08:19.97,Dialogue,,0,0,0,,No more after dinner desserts!
-Dialogue: 100,0:08:27.63,0:08:29.03,Top,,0,0,0,,That's the last of it.
-Dialogue: 100,0:08:30.95,0:08:33.36,Dialogue,,0,0,0,,We'll be lucky if it lasts the day.
-Dialogue: 100,0:08:33.66,0:08:34.36,Dialogue,,0,0,0,,Yeah.
-Dialogue: 100,0:08:35.03,0:08:38.25,Dialogue,,0,0,0,,I guess our fun little hike is finally coming to an end.
-Dialogue: 100,0:08:42.59,0:08:43.83,Dialogue,,0,0,0,,We're heading out!
-Dialogue: 100,0:08:43.83,0:08:45.50,Dialogue,,0,0,0,,Okay!
-Dialogue: 100,0:08:45.97,0:08:48.32,Dialogue,,0,0,0,,It's my turn this morning, right?
-Dialogue: 100,0:08:48.32,0:08:49.69,Dialogue,,0,0,0,,Yeah. Thanks.
-Dialogue: 100,0:08:49.69,0:08:52.15,Dialogue,,0,0,0,,We graduated from school in a single day, huh?
-Dialogue: 100,0:08:52.15,0:08:54.44,Dialogue,,0,0,0,,Wow, we must be really smart!
-Dialogue: 100,0:08:54.44,0:08:56.10,Dialogue,,0,0,0,,We've got bright futures ahead of us.
-Dialogue: 100,0:08:56.10,0:08:58.35,Dialogue,,0,0,0,,Hey!
-Dialogue: 100,0:09:07.61,0:09:08.88,Dialogue,,0,0,0,,We have to scale this?
-Dialogue: 100,0:09:08.88,0:09:09.73,Dialogue,,0,0,0,,Don't ask me.
-Dialogue: 100,0:09:10.30,0:09:11.66,Dialogue,,0,0,0,,Is this right?
-Dialogue: 100,0:09:11.66,0:09:13.32,Dialogue,,0,0,0,,We keep going forward, right?
-Dialogue: 100,0:09:14.17,0:09:15.30,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:09:15.30,0:09:16.07,Dialogue,,0,0,0,,Roger.
-Dialogue: 100,0:09:29.25,0:09:31.34,Dialogue,,0,0,0,,Anju, let's switch soon.
-Dialogue: 100,0:09:33.05,0:09:34.41,Dialogue,,0,0,0,,It's still early, isn't it?
-Dialogue: 100,0:09:34.41,0:09:36.51,Dialogue,,0,0,0,,It was supposed to be my shift until lunch.
-Dialogue: 100,0:09:36.51,0:09:37.48,Dialogue,,0,0,0,,I'm bored.
-Dialogue: 100,0:09:38.38,0:09:41.26,Top,,0,0,0,,You scared me!
-Dialogue: 100,0:09:39.48,0:09:41.26,Dialogue,,0,0,0,,How silly!
-Dialogue: 100,0:09:41.26,0:09:46.53,Dialogue,,0,0,0,,Yeah, I didn't think we'd have so much free time.
-Dialogue: 100,0:09:46.53,0:09:49.27,Dialogue,,0,0,0,,There's nothing to do but look at the scenery.
-Dialogue: 100,0:09:49.27,0:09:54.78,Dialogue,,0,0,0,,Shin should've grabbed a book\Nwhile we were at the school.
-Dialogue: 100,0:09:55.64,0:09:56.65,Dialogue,,0,0,0,,Yeah.
-Dialogue: 100,0:09:57.56,0:09:58.84,Dialogue,,0,0,0,,Good work.
-Dialogue: 100,0:09:58.84,0:10:00.87,Dialogue,,0,0,0,,I didn't really do too much work though.
-Dialogue: 100,0:10:01.16,0:10:03.42,Dialogue,,0,0,0,,We're all set here, Shin.
-Dialogue: 100,0:10:05.00,0:10:06.98,Dialogue,,0,0,0,,Then let's have Kurena be on watch.
-Dialogue: 100,0:10:06.98,0:10:09.42,Dialogue,,0,0,0,,No way! Take my place—
-Dialogue: 100,0:10:17.46,0:10:19.26,Dialogue,,0,0,0,,The one piloting fights.
-Dialogue: 100,0:10:19.26,0:10:21.09,Dialogue,,0,0,0,,That's what we agreed upon, right?
-Dialogue: 100,0:10:21.81,0:10:24.56,Dialogue,,0,0,0,,You knew from the start!
-Dialogue: 100,0:10:25.65,0:10:27.98,Dialogue,,0,0,0,,There's a unit that we can't avoid no matter what we do.
-Dialogue: 100,0:10:28.52,0:10:30.98,Dialogue,,0,0,0,,And if we can't avoid them, we'll have to fight.
-Dialogue: 100,0:10:31.27,0:10:33.59,Dialogue,,0,0,0,,So that's why you switched places...
-Dialogue: 100,0:10:33.59,0:10:34.90,Dialogue,,0,0,0,,That's not fair, Shin!
-Dialogue: 100,0:10:36.44,0:10:37.61,Dialogue,,0,0,0,,You can't do this!
-Dialogue: 100,0:10:37.61,0:10:39.56,Dialogue,,0,0,0,,You guys keep going.
-Dialogue: 100,0:10:39.99,0:10:42.53,Dialogue,,0,0,0,,They won't find you if you hide in the forest.
-Dialogue: 100,0:10:42.85,0:10:46.20,Dialogue,,0,0,0,,Keep moving forward and the Legion's voices disappear.
-Dialogue: 100,0:10:47.47,0:10:51.63,Dialogue,,0,0,0,,If anyone's alive out there, ask them for help.
-Dialogue: 100,0:10:51.63,0:10:52.88,Dialogue,,0,0,0,,Stop screwing with us!
-Dialogue: 100,0:10:52.88,0:10:56.34,Dialogue,,0,0,0,,That means you're going to be a decoy, right?
-Dialogue: 100,0:10:56.34,0:10:58.83,Dialogue,,0,0,0,,We were going to do this together, right?
-Dialogue: 100,0:10:58.83,0:11:00.54,Dialogue,,0,0,0,,And in the end, you're...
-Dialogue: 100,0:11:03.31,0:11:05.06,Dialogue,,0,0,0,,going off by yourself.
-Dialogue: 100,0:11:06.32,0:11:07.60,Dialogue,,0,0,0,,That's not fair!
-Dialogue: 100,0:11:10.55,0:11:12.23,Dialogue,,0,0,0,,Damn it! He cut us off!
-Dialogue: 100,0:11:14.84,0:11:16.32,Dialogue,,0,0,0,,That idiot!
-Dialogue: 100,0:11:48.41,0:11:49.31,Dialogue,,0,0,0,,Wait!
-Dialogue: 100,0:11:50.32,0:11:51.69,Dialogue,,0,0,0,,I'm going, too.
-Dialogue: 100,0:11:53.97,0:11:54.77,Dialogue,,0,0,0,,You're sure, right?
-Dialogue: 100,0:11:55.22,0:11:57.80,Dialogue,,0,0,0,,We can't let Shin go by himself, right?
-Dialogue: 100,0:12:01.12,0:12:01.91,Dialogue,,0,0,0,,You're right.
-Dialogue: 100,0:12:08.86,0:12:11.41,Dialogue,,0,0,0,,That ultra-long range cannon from before...
-Dialogue: 100,0:12:11.41,0:12:12.75,Dialogue,,0,0,0,,I'll kill you.
-Dialogue: 100,0:12:13.47,0:12:21.82,Dialogue,,0,0,0,,The men, the women, the children, \Nthe old, the nobles, the peasants...
-Dialogue: 100,0:12:21.82,0:12:27.61,Dialogue,,0,0,0,,No matter who you are,\NI'll kill anyone who threatens the princess!
-Dialogue: 100,0:12:35.17,0:12:36.57,Dialogue,,0,0,0,,Of all times...
-Dialogue: 100,0:12:41.93,0:12:45.32,Dialogue,,0,0,0,,They're after my head, huh?
-Dialogue: 100,0:12:52.83,0:12:53.67,Dialogue,,0,0,0,,Shin!
-Dialogue: 100,0:12:58.04,0:13:00.46,Dialogue,,0,0,0,,Shit! Look at me, damn it!
-Dialogue: 100,0:13:04.41,0:13:05.63,Dialogue,,0,0,0,,I'm coming!
-Dialogue: 100,0:13:05.63,0:13:06.69,Dialogue,,0,0,0,,Don't give up!
-Dialogue: 100,0:13:06.69,0:13:07.90,Dialogue,,0,0,0,,Get moving!
-Dialogue: 100,0:13:07.90,0:13:09.60,Dialogue,,0,0,0,,Shin! Shin!
-Dialogue: 100,0:13:09.60,0:13:11.10,Dialogue,,0,0,0,,Can you hear me?
-Dialogue: 100,0:13:11.10,0:13:13.26,Dialogue,,0,0,0,,Shin, answer me!
-Dialogue: 100,0:13:13.26,0:13:14.49,Dialogue,,0,0,0,,You're all fools.
-Dialogue: 100,0:13:15.11,0:13:18.82,Dialogue,,0,0,0,,You can't beat the Legion with those weapons.
-Dialogue: 100,0:13:30.97,0:13:31.74,Dialogue,,0,0,0,,I'm out!
-Dialogue: 100,0:13:36.50,0:13:37.46,Dialogue,,0,0,0,,Theo!
-Dialogue: 100,0:13:42.21,0:13:44.51,Dialogue,,0,0,0,,Damn it!
-Dialogue: 100,0:13:55.15,0:13:56.20,Dialogue,,0,0,0,,Fools...
-Dialogue: 100,0:13:57.43,0:14:00.43,Dialogue,,0,0,0,,You really are... fools.
-Dialogue: 100,0:14:07.22,0:14:09.19,Dialogue,,0,0,0,,When I'm part of the Legion...
-Dialogue: 100,0:14:10.49,0:14:12.62,Dialogue,,0,0,0,,whose name will I call out?
-Dialogue: 100,0:14:49.45,0:14:51.01,Dialogue,,0,0,0,,Fido's not here.
-Dialogue: 100,0:14:52.07,0:14:54.27,Dialogue,,0,0,0,QC,They took him with them.
-Dialogue: 100,0:14:56.89,0:14:59.00,Dialogue,,0,0,0,,So he wasn't a dog after all.
-Dialogue: 100,0:14:59.26,0:15:01.89,Dialogue,,0,0,0,,Major Milizé, was it?
-Dialogue: 100,0:15:01.89,0:15:02.98,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:15:02.98,0:15:05.00,Dialogue,,0,0,0,,What brings you to a place like this?
-Dialogue: 100,0:15:05.00,0:15:06.52,Dialogue,,0,0,0,,You're under house arrest, aren't you?
-Dialogue: 100,0:15:06.52,0:15:07.01,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:15:07.63,0:15:10.38,Dialogue,,0,0,0,,Which gives me time to visit the frontlines.
-Dialogue: 100,0:15:12.10,0:15:15.01,Dialogue,,0,0,0,,Along with the next group to be executed?
-Dialogue: 100,0:15:15.01,0:15:18.48,Dialogue,,0,0,0,,I heard the rumors, but you're really a weirdo.
-Dialogue: 100,0:15:20.18,0:15:21.25,Dialogue,,0,0,0,,Go see it.
-Dialogue: 100,0:15:22.75,0:15:27.14,Dialogue,,0,0,0,,Not that they left much behind.
-Dialogue: 100,0:15:29.32,0:15:30.22,Dialogue,,0,0,0,,Okay.
-Dialogue: 100,0:15:34.94,0:15:39.00,Dialogue,,0,0,0,,I've been seeing the kids off\Non their final march for a while.
-Dialogue: 100,0:15:39.49,0:15:42.03,Dialogue,,0,0,0,,But this is the first time I've seen a Handler visit.
-Dialogue: 100,0:15:42.69,0:15:45.00,Dialogue,,0,0,0,,Lieutenant Aldrecht, are you...
-Dialogue: 100,0:15:45.29,0:15:48.13,Dialogue,,0,0,0,,An Alba. Just like you.
-Dialogue: 100,0:15:49.28,0:15:51.52,Dialogue,,0,0,0,,My wife was an Eighty-Six.
-Dialogue: 100,0:15:51.52,0:15:54.22,Dialogue,,0,0,0,,After they took my wife and daughter,
-Dialogue: 100,0:15:54.22,0:15:56.26,Dialogue,,0,0,0,,I dyed my hair and went after them.
-Dialogue: 100,0:15:56.90,0:16:00.10,Dialogue,,0,0,0,,I volunteered, to earn their rights back.
-Dialogue: 100,0:16:00.66,0:16:04.21,Dialogue,,0,0,0,,But they got sent off\Nto the battlefield and never returned.
-Dialogue: 100,0:16:05.69,0:16:08.97,Dialogue,,0,0,0,,After Shin arrived here, I ended up asking him
-Dialogue: 100,0:16:08.97,0:16:13.90,Dialogue,,0,0,0,,if he heard any Legion out there looking for \Na shithead who couldn't protect his wife and daughter.
-Dialogue: 100,0:16:14.62,0:16:16.28,Dialogue,,0,0,0,,And what would you have done if there were?
-Dialogue: 100,0:16:16.28,0:16:19.70,Dialogue,,0,0,0,,I'd go out there and let 'em kill me.
-Dialogue: 100,0:16:21.14,0:16:23.56,Dialogue,,0,0,0,,But he said that he didn't.
-Dialogue: 100,0:16:23.56,0:16:26.71,Dialogue,,0,0,0,,There weren't any Legion calling my name.
-Dialogue: 100,0:16:27.58,0:16:29.84,Dialogue,,0,0,0,,I could live with myself after that.
-Dialogue: 100,0:16:31.48,0:16:36.00,Dialogue,,0,0,0,,My wife and daughter weren't stuck \Non the battlefield even after death.
-Dialogue: 100,0:16:36.00,0:16:37.97,Dialogue,,0,0,0,,I'll see them once I go to the other side...
-Dialogue: 100,0:16:38.87,0:16:40.52,Dialogue,,0,0,0,,I'm sure they're waiting for me.
-Dialogue: 100,0:16:43.62,0:16:48.79,Dialogue,,0,0,0,,I make sure to tell them I'm an Alba before they leave on their Special Reconnaissance mission.
-Dialogue: 100,0:16:48.79,0:16:51.12,Dialogue,,0,0,0,,I tell them that they have the right to hate us.
-Dialogue: 100,0:16:51.12,0:16:53.86,Dialogue,,0,0,0,,They can even kill me if it'll make 'em feel better.
-Dialogue: 100,0:16:55.32,0:16:58.52,Dialogue,,0,0,0,,But they never do.
-Dialogue: 100,0:16:58.52,0:17:00.06,Dialogue,,0,0,0,,Not this time, either.
-Dialogue: 100,0:17:00.59,0:17:03.15,Dialogue,,0,0,0,,So I'm still here after all this time.
-Dialogue: 100,0:17:04.61,0:17:06.21,Dialogue,,0,0,0,,I've kept you too long.
-Dialogue: 100,0:17:06.72,0:17:07.88,Dialogue,,0,0,0,,Get going.
-Dialogue: 100,0:17:10.54,0:17:12.03,Dialogue,,0,0,0,,Thank you.
-Dialogue: 100,0:18:17.42,0:18:19.53,Dialogue,,0,0,0,,Yeah, we keep it at the barracks.
-Dialogue: 100,0:18:19.53,0:18:22.50,Dialogue,,0,0,0,,It's a black cat with white paws.
-Dialogue: 100,0:18:22.50,0:18:26.33,Dialogue,,0,0,0,,And for whatever reason, it's taken a liking to Undertaker more than anyone else.
-Dialogue: 100,0:18:26.33,0:18:28.53,Dialogue,,0,0,0,,He doesn't play with it at all.
-Dialogue: 100,0:18:28.53,0:18:32.42,Dialogue,,0,0,0,,It rubs up against him all the time, \Nand he just pats it once in a while.
-Dialogue: 100,0:18:32.81,0:18:36.69,Dialogue,,0,0,0,,It probably thinks he's just a good bed.
-Dialogue: 100,0:18:36.69,0:18:38.43,Dialogue,,0,0,0,,Just look at it now.
-Dialogue: 100,0:18:38.43,0:18:41.38,Dialogue,,0,0,0,,Yeah, it doesn't move when he's reading.
-Dialogue: 100,0:18:41.38,0:18:44.52,Dialogue,,0,0,0,,It'll never get along with\N Black Dog, though. He's too annoying.
-Dialogue: 100,0:18:44.52,0:18:46.41,Dialogue,,0,0,0,,That's mean! And not fair!
-Dialogue: 100,0:18:46.41,0:18:47.65,Dialogue,,0,0,0,,I demand you take that back!
-Dialogue: 100,0:18:47.65,0:18:49.44,Dialogue,,0,0,0,,Boo! Boo!
-Dialogue: 100,0:18:55.92,0:18:57.53,Dialogue,,0,0,0,,What's its name?
-Dialogue: 100,0:18:57.87,0:18:58.46,Dialogue,,0,0,0,,Blackie.
-Dialogue: 100,0:18:58.46,0:18:59.01,Dialogue,,0,0,0,,Whitey.
-Dialogue: 100,0:18:59.01,0:18:59.51,Dialogue,,0,0,0,,Two-Tone.
-Dialogue: 100,0:18:59.51,0:19:00.24,Dialogue,,0,0,0,,Kitty.
-Dialogue: 100,0:19:00.24,0:19:00.76,Dialogue,,0,0,0,,Shrimp.
-Dialogue: 100,0:19:00.76,0:19:01.99,Dialogue,,0,0,0,,Remarque.
-Dialogue: 100,0:19:03.74,0:19:09.31,Dialogue,,0,0,0,,Don't name it after the author of\N whatever book you're reading now.
-Dialogue: 100,0:19:09.31,0:19:12.63,Dialogue,,0,0,0,,And what are you even reading?
-Dialogue: 100,0:19:25.57,0:19:28.60,Dialogue,,0,0,0,,If you actually went through the trouble of finding this,
-Dialogue: 100,0:19:28.60,0:19:30.73,Dialogue,,0,0,0,,you're one crazy dumb ass.
-Dialogue: 100,0:19:31.41,0:19:32.62,Dialogue,,0,0,0,,Raiden Shuga.
-Dialogue: 100,0:19:33.97,0:19:35.19,Dialogue,,0,0,0,,I wrote down everyone's names for you.
-Dialogue: 100,0:19:35.61,0:19:40.66,Dialogue,,0,0,0,,I bet you're crying your eyes out right about now\Nbecause you can't tell which of us is which.
-Dialogue: 100,0:19:40.66,0:19:41.95,Dialogue,,0,0,0,,Theoto Rikka.
-Dialogue: 100,0:19:53.23,0:19:55.04,Dialogue,,0,0,0,,Ai grijă de pisicuță.
-Dialogue: 100,0:19:55.04,0:19:58.43,Dialogue,,0,0,0,,You might as well, since you insist on being a saint.
-Dialogue: 100,0:19:58.43,0:20:00.10,Dialogue,,0,0,0,,Kurena Kukumila.
-Dialogue: 100,0:20:00.10,0:20:02.10,Dialogue,,0,0,0,,We still haven't decided on a name yet.
-Dialogue: 100,0:20:02.10,0:20:04.76,Dialogue,,0,0,0,,Give it a cute one, okay, Major?
-Dialogue: 100,0:20:05.43,0:20:06.72,Dialogue,,0,0,0,,Anju Emma.
-Dialogue: 100,0:20:28.74,0:20:32.38,Dialogue,,0,0,0,,One day, if you make it to our final destination...
-Dialogue: 100,0:20:33.04,0:20:35.33,Dialogue,,0,0,0,,would you please leave flowers?
-Dialogue: 100,0:20:36.19,0:20:37.68,Dialogue,,0,0,0,,Shinei Nouzen.
-Dialogue: 100,0:20:41.18,0:20:43.98,Dialogue,,0,0,0,,{\i1}Și eu trebuie să merg înainte.
-Dialogue: 100,0:20:44.68,0:20:47.89,Dialogue,,0,0,0,,{\i1}Ei au crezut în mine până la final.
-Dialogue: 100,0:20:58.98,0:20:59.94,Dialogue,,0,0,0,,Să mergem.
-Dialogue: 100,0:21:00.97,0:21:02.40,Dialogue,,0,0,0,,Ce nume ar trebui să-ți pun?
-Dialogue: 100,0:21:04.85,0:21:05.85,Dialogue,,0,0,0,,{\i1}Voi lupta...
-Dialogue: 100,0:21:06.79,0:21:08.90,Dialogue,,0,0,0,,{\i1}până când însuși destinul va veni să mă ia.
-Dialogue: 100,0:21:09.57,0:21:11.77,Dialogue,,0,0,0,,{\i1}Voi lupta până la final.
-Dialogue: 100,0:22:45.18,0:22:46.11,Dialogue,,0,0,0,,Shin...
-Dialogue: 100,0:22:53.11,0:22:54.20,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:22:55.43,0:22:59.70,Dialogue,,0,0,0,,Te-am tot strigat și \Nte-am făcut să vii până aici.
-Dialogue: 100,0:23:16.06,0:23:16.99,Dialogue,,0,0,0,,Haide să mergem.
-Dialogue: 100,0:23:36.54,0:23:39.60,Dialogue,,0,0,0,,"Roșul macilor cuprinde câmpul de luptă."
+Dialogue: 99,0:00:06.08,0:00:07.13,Dialogue,,0,0,0,,{\an8\i1}Nu vrea să mai miște!
+Dialogue: 99,0:00:07.13,0:00:08.77,Dialogue,,0,0,0,,{\an8\i1}Nici al meu! Voi ieși din cabină!
+Dialogue: 99,0:00:08.77,0:00:11.18,Dialogue,,0,0,0,,{\i1}Ascundeți-vă în spatele \NDistrugătoarelor. Încă se trage spre noi.
+Dialogue: 99,0:00:11.18,0:00:13.26,Dialogue,,0,0,0,,{\i1}Kurena, ești bine?
+Dialogue: 99,0:00:13.26,0:00:15.15,Dialogue,,0,0,0,,{\i1}Dacă te poți mișca, \Nascunde-te în spatele mașinăriei!
+Dialogue: 99,0:00:15.95,0:00:17.32,Dialogue,,0,0,0,,{\i1}La naiba! Am fost lovit!
+Dialogue: 99,0:00:17.32,0:00:18.65,Dialogue,,0,0,0,,{\i1}Oare până aici ne-a fost?
+Dialogue: 99,0:00:30.30,0:00:31.46,Dialogue,,0,0,0,,Shin!
+Dialogue: 99,0:02:30.23,0:02:32.07,Dialogue,,0,0,0,,Ești sigur în legătură cu asta?
+Dialogue: 99,0:02:32.07,0:02:35.74,Dialogue,,0,0,0,,Da, nu-l putem lua cu noi în starea în care e.
+Dialogue: 99,0:02:36.55,0:02:38.55,Dialogue,,0,0,0,,Măcar atât putem face pentru el.
+Dialogue: 99,0:02:40.90,0:02:41.80,Dialogue,,0,0,0,,În plus...
+Dialogue: 99,0:02:43.14,0:02:45.51,Dialogue,,0,0,0,,nici noi nu vom mai putea înainta prea mult.
+Dialogue: 99,0:02:50.95,0:02:53.82,Dialogue,,0,0,0,,Doar al lui Shin a supraviețuit, nu?
+Dialogue: 99,0:02:53.82,0:02:56.12,Dialogue,,0,0,0,,Încă avem puștile și pistoalele, dar...
+Dialogue: 99,0:02:56.12,0:02:58.28,Dialogue,,0,0,0,,Nu prea mai avem muniție, nu?
+Dialogue: 99,0:02:58.61,0:03:01.27,Dialogue,,0,0,0,,E groaznic că ne-am pierdut acele containere.
+Dialogue: 99,0:03:01.27,0:03:04.13,Dialogue,,0,0,0,,Majoritatea muniției și combustibilului au fost distruse de flăcări.
+Dialogue: 99,0:03:04.13,0:03:05.21,Dialogue,,0,0,0,,Să nu uităm de mâncare!
+Dialogue: 99,0:03:05.21,0:03:07.29,Dialogue,,0,0,0,,Da, și mâncarea!
+Dialogue: 99,0:03:08.33,0:03:09.95,Dialogue,,0,0,0,,Eu am terminat aici.
+Dialogue: 99,0:03:09.95,0:03:10.79,Dialogue,,0,0,0,,Vom mai aveți?
+Dialogue: 99,0:03:10.79,0:03:12.17,Dialogue,,0,0,0,,Totul este gata.
+Dialogue: 99,0:03:12.62,0:03:14.17,Dialogue,,0,0,0,,Atunci, haide să pornim.
+Dialogue: 99,0:03:14.17,0:03:17.03,Dialogue,,0,0,0,,Dacă nu plecăm repede de aici, \NLegiunea ne va găsi din nou.
+Dialogue: 99,0:03:17.03,0:03:17.51,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:03:17.82,0:03:19.12,Dialogue,,0,0,0,,Cine va pilota?
+Dialogue: 99,0:03:19.12,0:03:21.51,Dialogue,,0,0,0,,Nu-l putem lăsa doar pe Shin să piloteze, știți?
+Dialogue: 99,0:03:21.87,0:03:24.46,Dialogue,,0,0,0,,În acest caz, haideți să facem cu rândul.
+Dialogue: 99,0:03:24.46,0:03:25.51,Dialogue,,0,0,0,,Sunt de acord.
+Dialogue: 99,0:03:25.51,0:03:28.81,Dialogue,,0,0,0,,Dar de ce a trebuit să supraviețuiască cel al Groparului?
+Dialogue: 99,0:03:29.82,0:03:30.77,Dialogue,,0,0,0,,E vreo problemă cu asta?
+Dialogue: 99,0:03:31.07,0:03:37.23,Dialogue,,0,0,0,,Da, Shin și-a modificat parametrii, deci controlul e așa de sensibil încât e  înfricoșător.
+Dialogue: 99,0:03:37.23,0:03:39.24,Dialogue,,0,0,0,,În plus, a dezactivat și majoritatea limitatoarelor.
+Dialogue: 99,0:03:39.63,0:03:41.34,Dialogue,,0,0,0,,Atunci, voi fi eu prima.
+Dialogue: 99,0:03:41.34,0:03:43.10,Dialogue,,0,0,0,,Nu, o voi face eu.
+Dialogue: 99,0:03:43.10,0:03:45.08,Dialogue,,0,0,0,,Nu erai tu cel care se \Nplângea acum câteva clipe?
+Dialogue: 99,0:03:45.08,0:03:48.62,Dialogue,,0,0,0,,Oricum, eu am fost doborâtă prima, \Ndeci nu sunt obosită deloc.
+Dialogue: 99,0:03:50.69,0:03:55.38,Dialogue,,0,0,0,,În regulă. Putem fi de acord că dacă dăm peste Legiune, cel care pilotează va și lupta?
+Dialogue: 99,0:03:55.81,0:03:56.80,Dialogue,,0,0,0,,De acord.
+Dialogue: 99,0:03:56.80,0:03:57.55,Dialogue,,0,0,0,,Și eu sunt!
+Dialogue: 99,0:04:15.22,0:04:16.34,Dialogue,,0,0,0,,Kurena, oprește.
+Dialogue: 99,0:04:26.52,0:04:29.04,Dialogue,,0,0,0,,E o peșteră în acele stânci la ora 10.
+Dialogue: 99,0:04:29.04,0:04:30.14,Dialogue,,0,0,0,,Du-ne acolo.
+Dialogue: 99,0:04:30.14,0:04:31.02,Dialogue,,0,0,0,,Recepționat.
+Dialogue: 99,0:04:31.02,0:04:32.16,Dialogue,,0,0,0,,Cât mai repede.
+Dialogue: 99,0:04:56.46,0:04:58.78,Dialogue,,0,0,0,,I-am evitat mulțumită lui Shin.
+Dialogue: 99,0:04:58.78,0:05:01.59,Dialogue,,0,0,0,,Totuși, erau o grămadă.
+Dialogue: 99,0:05:01.59,0:05:03.78,Dialogue,,0,0,0,,Mi se pare mie sau vedem \Ntot mai multe în ultimul timp?
+Dialogue: 99,0:05:03.78,0:05:06.87,Dialogue,,0,0,0,,Bănuiesc că ne apropiem de baza lor.
+Dialogue: 99,0:05:07.91,0:05:08.99,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:05:10.51,0:05:11.90,Dialogue,,0,0,0,,Toată lumea, priviți.
+Dialogue: 99,0:05:40.00,0:05:41.40,Dialogue,,0,0,0,,Oare e cumva o școală?
+Dialogue: 99,0:05:41.40,0:05:43.39,Dialogue,,0,0,0,,Ce? Serios?
+Dialogue: 99,0:05:43.39,0:05:44.19,Dialogue,,0,0,0,,Probabil.
+Dialogue: 99,0:05:44.19,0:05:48.18,Dialogue,,0,0,0,,Oh, that's right, You haven't been to school before have you Kurena?
+Dialogue: 99,0:05:48.18,0:05:52.39,Dialogue,,0,0,0,,I guess you can still recognize a school,\Neven across borders and cultures.
+Dialogue: 99,0:05:53.24,0:05:55.87,Dialogue,,0,0,0,,So this is a school...
+Dialogue: 99,0:05:57.59,0:05:59.88,Dialogue,,0,0,0,,Hey, let's camp here tonight!
+Dialogue: 99,0:06:02.25,0:06:03.27,Dialogue,,0,0,0,,Let's do it.
+Dialogue: 99,0:06:27.44,0:06:29.26,Dialogue,,0,0,0,,Can you read that, Kurena?
+Dialogue: 99,0:06:29.26,0:06:30.89,Dialogue,,0,0,0,,Not at all.
+Dialogue: 99,0:06:30.89,0:06:32.20,Dialogue,,0,0,0,,But it looks like they were having fun.
+Dialogue: 99,0:06:32.54,0:06:34.35,Dialogue,,0,0,0,,This brings back so many memories.
+Dialogue: 99,0:06:34.35,0:06:36.46,Dialogue,,0,0,0,,Did you like studying?
+Dialogue: 99,0:06:36.46,0:06:37.52,Dialogue,,0,0,0,,Not at all.
+Dialogue: 99,0:06:41.49,0:06:42.54,Dialogue,,0,0,0,,Raiden Shuga!
+Dialogue: 99,0:06:43.85,0:06:48.23,Dialogue,,0,0,0,,Huh? Is Raiden absent today?
+Dialogue: 99,0:06:49.38,0:06:51.22,Dialogue,,0,0,0,,Raiden Shuga!
+Dialogue: 99,0:06:51.22,0:06:51.91,Dialogue,,0,0,0,,Present!
+Dialogue: 99,0:06:51.91,0:06:52.51,Dialogue,,0,0,0,,Okay.
+Dialogue: 99,0:06:52.77,0:06:54.41,Dialogue,,0,0,0,,Theoto Rikka.
+Dialogue: 99,0:06:54.41,0:06:55.64,Dialogue,,0,0,0,,Here!
+Dialogue: 99,0:06:55.93,0:06:57.64,Dialogue,,0,0,0,,Kurena Kukumila.
+Dialogue: 99,0:07:04.19,0:07:04.98,Dialogue,,0,0,0,,Present!
+Dialogue: 99,0:07:05.79,0:07:07.27,Dialogue,,0,0,0,,Anju Emma!
+Dialogue: 99,0:07:07.27,0:07:07.82,Dialogue,,0,0,0,,Present.
+Dialogue: 99,0:07:08.67,0:07:10.28,Dialogue,,0,0,0,,Shinei Nouzen!
+Dialogue: 99,0:07:12.62,0:07:13.27,Dialogue,,0,0,0,,Present.
+Dialogue: 99,0:07:15.59,0:07:18.22,Dialogue,,0,0,0,,If we're not going to study, \Nthese are just firewood.
+Dialogue: 99,0:07:19.54,0:07:21.00,Dialogue,,0,0,0,,I see.
+Dialogue: 99,0:07:23.59,0:07:25.34,Dialogue,,0,0,0,,Is this something special, too?
+Dialogue: 99,0:07:26.03,0:07:27.64,Dialogue,,0,0,0,,Tearing down the school, maybe?
+Dialogue: 99,0:07:32.07,0:07:34.70,Dialogue,,0,0,0,,Alright, what should we use for kindling?
+Dialogue: 99,0:07:37.93,0:07:39.61,Dialogue,,0,0,0,,Wait, aren't those textbooks?
+Dialogue: 99,0:07:39.61,0:07:42.11,Dialogue,,0,0,0,,I feel kind of guilty.
+Dialogue: 99,0:07:42.11,0:07:44.72,Dialogue,,0,0,0,,Books we can't read are useless.
+Dialogue: 99,0:07:44.72,0:07:45.96,Dialogue,,0,0,0,,That's right.
+Dialogue: 99,0:08:04.15,0:08:05.62,Dialogue,,0,0,0,,You still have some left?
+Dialogue: 99,0:08:06.26,0:08:07.58,Dialogue,,0,0,0,,Yeah.
+Dialogue: 99,0:08:07.58,0:08:09.06,Dialogue,,0,0,0,,This is the last one.
+Dialogue: 99,0:08:17.40,0:08:19.97,Dialogue,,0,0,0,,No more after dinner desserts!
+Dialogue: 99,0:08:27.63,0:08:29.03,Top,,0,0,0,,That's the last of it.
+Dialogue: 99,0:08:30.95,0:08:33.36,Dialogue,,0,0,0,,We'll be lucky if it lasts the day.
+Dialogue: 99,0:08:33.66,0:08:34.36,Dialogue,,0,0,0,,Yeah.
+Dialogue: 99,0:08:35.03,0:08:38.25,Dialogue,,0,0,0,,I guess our fun little hike is finally coming to an end.
+Dialogue: 99,0:08:42.59,0:08:43.83,Dialogue,,0,0,0,,We're heading out!
+Dialogue: 99,0:08:43.83,0:08:45.50,Dialogue,,0,0,0,,Okay!
+Dialogue: 99,0:08:45.97,0:08:48.32,Dialogue,,0,0,0,,It's my turn this morning, right?
+Dialogue: 99,0:08:48.32,0:08:49.69,Dialogue,,0,0,0,,Yeah. Thanks.
+Dialogue: 99,0:08:49.69,0:08:52.15,Dialogue,,0,0,0,,We graduated from school in a single day, huh?
+Dialogue: 99,0:08:52.15,0:08:54.44,Dialogue,,0,0,0,,Wow, we must be really smart!
+Dialogue: 99,0:08:54.44,0:08:56.10,Dialogue,,0,0,0,,We've got bright futures ahead of us.
+Dialogue: 99,0:08:56.10,0:08:58.35,Dialogue,,0,0,0,,Hey!
+Dialogue: 99,0:09:07.61,0:09:08.88,Dialogue,,0,0,0,,We have to scale this?
+Dialogue: 99,0:09:08.88,0:09:09.73,Dialogue,,0,0,0,,Don't ask me.
+Dialogue: 99,0:09:10.30,0:09:11.66,Dialogue,,0,0,0,,Is this right?
+Dialogue: 99,0:09:11.66,0:09:13.32,Dialogue,,0,0,0,,We keep going forward, right?
+Dialogue: 99,0:09:14.17,0:09:15.30,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:09:15.30,0:09:16.07,Dialogue,,0,0,0,,Roger.
+Dialogue: 99,0:09:29.25,0:09:31.34,Dialogue,,0,0,0,,Anju, let's switch soon.
+Dialogue: 99,0:09:33.05,0:09:34.41,Dialogue,,0,0,0,,It's still early, isn't it?
+Dialogue: 99,0:09:34.41,0:09:36.51,Dialogue,,0,0,0,,It was supposed to be my shift until lunch.
+Dialogue: 99,0:09:36.51,0:09:37.48,Dialogue,,0,0,0,,I'm bored.
+Dialogue: 99,0:09:38.38,0:09:41.26,Top,,0,0,0,,You scared me!
+Dialogue: 99,0:09:39.48,0:09:41.26,Dialogue,,0,0,0,,How silly!
+Dialogue: 99,0:09:41.26,0:09:46.53,Dialogue,,0,0,0,,Yeah, I didn't think we'd have so much free time.
+Dialogue: 99,0:09:46.53,0:09:49.27,Dialogue,,0,0,0,,There's nothing to do but look at the scenery.
+Dialogue: 99,0:09:49.27,0:09:54.78,Dialogue,,0,0,0,,Shin should've grabbed a book\Nwhile we were at the school.
+Dialogue: 99,0:09:55.64,0:09:56.65,Dialogue,,0,0,0,,Yeah.
+Dialogue: 99,0:09:57.56,0:09:58.84,Dialogue,,0,0,0,,Good work.
+Dialogue: 99,0:09:58.84,0:10:00.87,Dialogue,,0,0,0,,I didn't really do too much work though.
+Dialogue: 99,0:10:01.16,0:10:03.42,Dialogue,,0,0,0,,We're all set here, Shin.
+Dialogue: 99,0:10:05.00,0:10:06.98,Dialogue,,0,0,0,,Then let's have Kurena be on watch.
+Dialogue: 99,0:10:06.98,0:10:09.42,Dialogue,,0,0,0,,No way! Take my place—
+Dialogue: 99,0:10:17.46,0:10:19.26,Dialogue,,0,0,0,,The one piloting fights.
+Dialogue: 99,0:10:19.26,0:10:21.09,Dialogue,,0,0,0,,That's what we agreed upon, right?
+Dialogue: 99,0:10:21.81,0:10:24.56,Dialogue,,0,0,0,,You knew from the start!
+Dialogue: 99,0:10:25.65,0:10:27.98,Dialogue,,0,0,0,,There's a unit that we can't avoid no matter what we do.
+Dialogue: 99,0:10:28.52,0:10:30.98,Dialogue,,0,0,0,,And if we can't avoid them, we'll have to fight.
+Dialogue: 99,0:10:31.27,0:10:33.59,Dialogue,,0,0,0,,So that's why you switched places...
+Dialogue: 99,0:10:33.59,0:10:34.90,Dialogue,,0,0,0,,That's not fair, Shin!
+Dialogue: 99,0:10:36.44,0:10:37.61,Dialogue,,0,0,0,,You can't do this!
+Dialogue: 99,0:10:37.61,0:10:39.56,Dialogue,,0,0,0,,You guys keep going.
+Dialogue: 99,0:10:39.99,0:10:42.53,Dialogue,,0,0,0,,They won't find you if you hide in the forest.
+Dialogue: 99,0:10:42.85,0:10:46.20,Dialogue,,0,0,0,,Keep moving forward and the Legion's voices disappear.
+Dialogue: 99,0:10:47.47,0:10:51.63,Dialogue,,0,0,0,,If anyone's alive out there, ask them for help.
+Dialogue: 99,0:10:51.63,0:10:52.88,Dialogue,,0,0,0,,Stop screwing with us!
+Dialogue: 99,0:10:52.88,0:10:56.34,Dialogue,,0,0,0,,That means you're going to be a decoy, right?
+Dialogue: 99,0:10:56.34,0:10:58.83,Dialogue,,0,0,0,,We were going to do this together, right?
+Dialogue: 99,0:10:58.83,0:11:00.54,Dialogue,,0,0,0,,And in the end, you're...
+Dialogue: 99,0:11:03.31,0:11:05.06,Dialogue,,0,0,0,,going off by yourself.
+Dialogue: 99,0:11:06.32,0:11:07.60,Dialogue,,0,0,0,,That's not fair!
+Dialogue: 99,0:11:10.55,0:11:12.23,Dialogue,,0,0,0,,Damn it! He cut us off!
+Dialogue: 99,0:11:14.84,0:11:16.32,Dialogue,,0,0,0,,That idiot!
+Dialogue: 99,0:11:48.41,0:11:49.31,Dialogue,,0,0,0,,Wait!
+Dialogue: 99,0:11:50.32,0:11:51.69,Dialogue,,0,0,0,,I'm going, too.
+Dialogue: 99,0:11:53.97,0:11:54.77,Dialogue,,0,0,0,,You're sure, right?
+Dialogue: 99,0:11:55.22,0:11:57.80,Dialogue,,0,0,0,,We can't let Shin go by himself, right?
+Dialogue: 99,0:12:01.12,0:12:01.91,Dialogue,,0,0,0,,You're right.
+Dialogue: 99,0:12:08.86,0:12:11.41,Dialogue,,0,0,0,,That ultra-long range cannon from before...
+Dialogue: 99,0:12:11.41,0:12:12.75,Dialogue,,0,0,0,,I'll kill you.
+Dialogue: 99,0:12:13.47,0:12:21.82,Dialogue,,0,0,0,,The men, the women, the children, \Nthe old, the nobles, the peasants...
+Dialogue: 99,0:12:21.82,0:12:27.61,Dialogue,,0,0,0,,No matter who you are,\NI'll kill anyone who threatens the princess!
+Dialogue: 99,0:12:35.17,0:12:36.57,Dialogue,,0,0,0,,Of all times...
+Dialogue: 99,0:12:41.93,0:12:45.32,Dialogue,,0,0,0,,They're after my head, huh?
+Dialogue: 99,0:12:52.83,0:12:53.67,Dialogue,,0,0,0,,Shin!
+Dialogue: 99,0:12:58.04,0:13:00.46,Dialogue,,0,0,0,,Shit! Look at me, damn it!
+Dialogue: 99,0:13:04.41,0:13:05.63,Dialogue,,0,0,0,,I'm coming!
+Dialogue: 99,0:13:05.63,0:13:06.69,Dialogue,,0,0,0,,Don't give up!
+Dialogue: 99,0:13:06.69,0:13:07.90,Dialogue,,0,0,0,,Get moving!
+Dialogue: 99,0:13:07.90,0:13:09.60,Dialogue,,0,0,0,,Shin! Shin!
+Dialogue: 99,0:13:09.60,0:13:11.10,Dialogue,,0,0,0,,Can you hear me?
+Dialogue: 99,0:13:11.10,0:13:13.26,Dialogue,,0,0,0,,Shin, answer me!
+Dialogue: 99,0:13:13.26,0:13:14.49,Dialogue,,0,0,0,,You're all fools.
+Dialogue: 99,0:13:15.11,0:13:18.82,Dialogue,,0,0,0,,You can't beat the Legion with those weapons.
+Dialogue: 99,0:13:30.97,0:13:31.74,Dialogue,,0,0,0,,I'm out!
+Dialogue: 99,0:13:36.50,0:13:37.46,Dialogue,,0,0,0,,Theo!
+Dialogue: 99,0:13:42.21,0:13:44.51,Dialogue,,0,0,0,,Damn it!
+Dialogue: 99,0:13:55.15,0:13:56.20,Dialogue,,0,0,0,,Fools...
+Dialogue: 99,0:13:57.43,0:14:00.43,Dialogue,,0,0,0,,You really are... fools.
+Dialogue: 99,0:14:07.22,0:14:09.19,Dialogue,,0,0,0,,When I'm part of the Legion...
+Dialogue: 99,0:14:10.49,0:14:12.62,Dialogue,,0,0,0,,whose name will I call out?
+Dialogue: 99,0:14:49.45,0:14:51.01,Dialogue,,0,0,0,,Fido's not here.
+Dialogue: 99,0:14:52.07,0:14:54.27,Dialogue,,0,0,0,QC,They took him with them.
+Dialogue: 99,0:14:56.89,0:14:59.00,Dialogue,,0,0,0,,So he wasn't a dog after all.
+Dialogue: 99,0:14:59.26,0:15:01.89,Dialogue,,0,0,0,,Major Milizé, was it?
+Dialogue: 99,0:15:01.89,0:15:02.98,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:15:02.98,0:15:05.00,Dialogue,,0,0,0,,What brings you to a place like this?
+Dialogue: 99,0:15:05.00,0:15:06.52,Dialogue,,0,0,0,,You're under house arrest, aren't you?
+Dialogue: 99,0:15:06.52,0:15:07.01,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:15:07.63,0:15:10.38,Dialogue,,0,0,0,,Which gives me time to visit the frontlines.
+Dialogue: 99,0:15:12.10,0:15:15.01,Dialogue,,0,0,0,,Along with the next group to be executed?
+Dialogue: 99,0:15:15.01,0:15:18.48,Dialogue,,0,0,0,,I heard the rumors, but you're really a weirdo.
+Dialogue: 99,0:15:20.18,0:15:21.25,Dialogue,,0,0,0,,Go see it.
+Dialogue: 99,0:15:22.75,0:15:27.14,Dialogue,,0,0,0,,Not that they left much behind.
+Dialogue: 99,0:15:29.32,0:15:30.22,Dialogue,,0,0,0,,Okay.
+Dialogue: 99,0:15:34.94,0:15:39.00,Dialogue,,0,0,0,,I've been seeing the kids off\Non their final march for a while.
+Dialogue: 99,0:15:39.49,0:15:42.03,Dialogue,,0,0,0,,But this is the first time I've seen a Handler visit.
+Dialogue: 99,0:15:42.69,0:15:45.00,Dialogue,,0,0,0,,Lieutenant Aldrecht, are you...
+Dialogue: 99,0:15:45.29,0:15:48.13,Dialogue,,0,0,0,,An Alba. Just like you.
+Dialogue: 99,0:15:49.28,0:15:51.52,Dialogue,,0,0,0,,My wife was an Eighty-Six.
+Dialogue: 99,0:15:51.52,0:15:54.22,Dialogue,,0,0,0,,After they took my wife and daughter,
+Dialogue: 99,0:15:54.22,0:15:56.26,Dialogue,,0,0,0,,I dyed my hair and went after them.
+Dialogue: 99,0:15:56.90,0:16:00.10,Dialogue,,0,0,0,,I volunteered, to earn their rights back.
+Dialogue: 99,0:16:00.66,0:16:04.21,Dialogue,,0,0,0,,But they got sent off\Nto the battlefield and never returned.
+Dialogue: 99,0:16:05.69,0:16:08.97,Dialogue,,0,0,0,,After Shin arrived here, I ended up asking him
+Dialogue: 99,0:16:08.97,0:16:13.90,Dialogue,,0,0,0,,if he heard any Legion out there looking for \Na shithead who couldn't protect his wife and daughter.
+Dialogue: 99,0:16:14.62,0:16:16.28,Dialogue,,0,0,0,,And what would you have done if there were?
+Dialogue: 99,0:16:16.28,0:16:19.70,Dialogue,,0,0,0,,I'd go out there and let 'em kill me.
+Dialogue: 99,0:16:21.14,0:16:23.56,Dialogue,,0,0,0,,But he said that he didn't.
+Dialogue: 99,0:16:23.56,0:16:26.71,Dialogue,,0,0,0,,There weren't any Legion calling my name.
+Dialogue: 99,0:16:27.58,0:16:29.84,Dialogue,,0,0,0,,I could live with myself after that.
+Dialogue: 99,0:16:31.48,0:16:36.00,Dialogue,,0,0,0,,My wife and daughter weren't stuck \Non the battlefield even after death.
+Dialogue: 99,0:16:36.00,0:16:37.97,Dialogue,,0,0,0,,I'll see them once I go to the other side...
+Dialogue: 99,0:16:38.87,0:16:40.52,Dialogue,,0,0,0,,I'm sure they're waiting for me.
+Dialogue: 99,0:16:43.62,0:16:48.79,Dialogue,,0,0,0,,I make sure to tell them I'm an Alba before they leave on their Special Reconnaissance mission.
+Dialogue: 99,0:16:48.79,0:16:51.12,Dialogue,,0,0,0,,I tell them that they have the right to hate us.
+Dialogue: 99,0:16:51.12,0:16:53.86,Dialogue,,0,0,0,,They can even kill me if it'll make 'em feel better.
+Dialogue: 99,0:16:55.32,0:16:58.52,Dialogue,,0,0,0,,But they never do.
+Dialogue: 99,0:16:58.52,0:17:00.06,Dialogue,,0,0,0,,Not this time, either.
+Dialogue: 99,0:17:00.59,0:17:03.15,Dialogue,,0,0,0,,So I'm still here after all this time.
+Dialogue: 99,0:17:04.61,0:17:06.21,Dialogue,,0,0,0,,I've kept you too long.
+Dialogue: 99,0:17:06.72,0:17:07.88,Dialogue,,0,0,0,,Get going.
+Dialogue: 99,0:17:10.54,0:17:12.03,Dialogue,,0,0,0,,Thank you.
+Dialogue: 99,0:18:17.42,0:18:19.53,Dialogue,,0,0,0,,Yeah, we keep it at the barracks.
+Dialogue: 99,0:18:19.53,0:18:22.50,Dialogue,,0,0,0,,It's a black cat with white paws.
+Dialogue: 99,0:18:22.50,0:18:26.33,Dialogue,,0,0,0,,And for whatever reason, it's taken a liking to Undertaker more than anyone else.
+Dialogue: 99,0:18:26.33,0:18:28.53,Dialogue,,0,0,0,,He doesn't play with it at all.
+Dialogue: 99,0:18:28.53,0:18:32.42,Dialogue,,0,0,0,,It rubs up against him all the time, \Nand he just pats it once in a while.
+Dialogue: 99,0:18:32.81,0:18:36.69,Dialogue,,0,0,0,,It probably thinks he's just a good bed.
+Dialogue: 99,0:18:36.69,0:18:38.43,Dialogue,,0,0,0,,Just look at it now.
+Dialogue: 99,0:18:38.43,0:18:41.38,Dialogue,,0,0,0,,Yeah, it doesn't move when he's reading.
+Dialogue: 99,0:18:41.38,0:18:44.52,Dialogue,,0,0,0,,It'll never get along with\N Black Dog, though. He's too annoying.
+Dialogue: 99,0:18:44.52,0:18:46.41,Dialogue,,0,0,0,,That's mean! And not fair!
+Dialogue: 99,0:18:46.41,0:18:47.65,Dialogue,,0,0,0,,I demand you take that back!
+Dialogue: 99,0:18:47.65,0:18:49.44,Dialogue,,0,0,0,,Boo! Boo!
+Dialogue: 99,0:18:55.92,0:18:57.53,Dialogue,,0,0,0,,What's its name?
+Dialogue: 99,0:18:57.87,0:18:58.46,Dialogue,,0,0,0,,Blackie.
+Dialogue: 99,0:18:58.46,0:18:59.01,Dialogue,,0,0,0,,Whitey.
+Dialogue: 99,0:18:59.01,0:18:59.51,Dialogue,,0,0,0,,Two-Tone.
+Dialogue: 99,0:18:59.51,0:19:00.24,Dialogue,,0,0,0,,Kitty.
+Dialogue: 99,0:19:00.24,0:19:00.76,Dialogue,,0,0,0,,Shrimp.
+Dialogue: 99,0:19:00.76,0:19:01.99,Dialogue,,0,0,0,,Remarque.
+Dialogue: 99,0:19:03.74,0:19:09.31,Dialogue,,0,0,0,,Don't name it after the author of\N whatever book you're reading now.
+Dialogue: 99,0:19:09.31,0:19:12.63,Dialogue,,0,0,0,,And what are you even reading?
+Dialogue: 99,0:19:25.57,0:19:28.60,Dialogue,,0,0,0,,If you actually went through the trouble of finding this,
+Dialogue: 99,0:19:28.60,0:19:30.73,Dialogue,,0,0,0,,you're one crazy dumb ass.
+Dialogue: 99,0:19:31.41,0:19:32.62,Dialogue,,0,0,0,,Raiden Shuga.
+Dialogue: 99,0:19:33.97,0:19:35.19,Dialogue,,0,0,0,,I wrote down everyone's names for you.
+Dialogue: 99,0:19:35.61,0:19:40.66,Dialogue,,0,0,0,,I bet you're crying your eyes out right about now\Nbecause you can't tell which of us is which.
+Dialogue: 99,0:19:40.66,0:19:41.95,Dialogue,,0,0,0,,Theoto Rikka.
+Dialogue: 99,0:19:53.23,0:19:55.04,Dialogue,,0,0,0,,Ai grijă de pisicuță.
+Dialogue: 99,0:19:55.04,0:19:58.43,Dialogue,,0,0,0,,You might as well, since you insist on being a saint.
+Dialogue: 99,0:19:58.43,0:20:00.10,Dialogue,,0,0,0,,Kurena Kukumila.
+Dialogue: 99,0:20:00.10,0:20:02.10,Dialogue,,0,0,0,,We still haven't decided on a name yet.
+Dialogue: 99,0:20:02.10,0:20:04.76,Dialogue,,0,0,0,,Give it a cute one, okay, Major?
+Dialogue: 99,0:20:05.43,0:20:06.72,Dialogue,,0,0,0,,Anju Emma.
+Dialogue: 99,0:20:28.74,0:20:32.38,Dialogue,,0,0,0,,One day, if you make it to our final destination...
+Dialogue: 99,0:20:33.04,0:20:35.33,Dialogue,,0,0,0,,would you please leave flowers?
+Dialogue: 99,0:20:36.19,0:20:37.68,Dialogue,,0,0,0,,Shinei Nouzen.
+Dialogue: 99,0:20:41.18,0:20:43.98,Dialogue,,0,0,0,,{\i1}Și eu trebuie să merg înainte.
+Dialogue: 99,0:20:44.68,0:20:47.89,Dialogue,,0,0,0,,{\i1}Ei au crezut în mine până la final.
+Dialogue: 99,0:20:58.98,0:20:59.94,Dialogue,,0,0,0,,Să mergem.
+Dialogue: 99,0:21:00.97,0:21:02.40,Dialogue,,0,0,0,,Ce nume ar trebui să-ți pun?
+Dialogue: 99,0:21:04.85,0:21:05.85,Dialogue,,0,0,0,,{\i1}Voi lupta...
+Dialogue: 99,0:21:06.79,0:21:08.90,Dialogue,,0,0,0,,{\i1}până când însuși destinul va veni să mă ia.
+Dialogue: 99,0:21:09.57,0:21:11.77,Dialogue,,0,0,0,,{\i1}Voi lupta până la final.
+Dialogue: 99,0:22:45.18,0:22:46.11,Dialogue,,0,0,0,,Shin...
+Dialogue: 99,0:22:53.11,0:22:54.20,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:22:55.43,0:22:59.70,Dialogue,,0,0,0,,Te-am tot strigat și \Nte-am făcut să vii până aici.
+Dialogue: 99,0:23:16.06,0:23:16.99,Dialogue,,0,0,0,,Haide să mergem.
+Dialogue: 99,0:23:36.54,0:23:39.60,Dialogue,,0,0,0,,"Roșul macilor cuprinde câmpul de luptă."
 Dialogue: 0,0:00:04.82,0:00:08.82,DedzuyaSigns,,0,0,0,,{\an2\pos(960,930)\fscx90\fnNewCinemaB Std D\fs80\fsp2\bord2\1a&HFF&\3a&H30&\blur5\fad(500,500)}30 octombrie, anul stelar 2148
 Dialogue: 1,0:00:04.82,0:00:08.82,DedzuyaSigns,,0,0,0,,{\an2\pos(960,930)\fscx90\fnNewCinemaB Std D\fs80\fsp2\bord1\c&H000000&\1a&HFF&\blur0.5\fad(500,500)\t(0,500,\1a&H00&)\t(3500,4000,\1a&HFF&)}30 octombrie, anul stelar 2148
 Dialogue: 2,0:00:04.82,0:00:08.82,DedzuyaSigns,,0,0,0,,{\an2\pos(960,930)\fscx90\fnNewCinemaB Std D\fs80\fsp2\blur0.5\fad(500,500)}30 octombrie, anul stelar 2148

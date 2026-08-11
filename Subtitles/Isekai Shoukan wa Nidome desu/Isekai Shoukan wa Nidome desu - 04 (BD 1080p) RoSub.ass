@@ -36,218 +36,218 @@ Style: OP TL,FOT-Comic Reggae Std,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.87,0:00:04.16,Dialogue,Dezastol,0,0,0,,{\i1}I have had a long life.
-Dialogue: 100,0:00:06.54,0:00:11.17,Dialogue,Dezastol,0,0,0,,{\i1}Because I've lived so long, I've learned \Nthat the world is beyond my control.
-Dialogue: 100,0:00:13.83,0:00:15.42,Dialogue,Dezastol,0,0,0,,{\i1}So I fought.
-Dialogue: 100,0:00:17.76,0:00:22.41,Dialogue,Dezastol,0,0,0,,{\i1}As ruler, as protector, as heir...
-Dialogue: 100,0:00:24.23,0:00:28.78,Dialogue,Dezastol,0,0,0,,{\i1}I fought, and fought, and kept fighting...
-Dialogue: 100,0:00:37.04,0:00:39.31,Dialogue,Previous Setsu,0,0,0,,Let's stop this stupid war.
-Dialogue: 100,0:00:42.72,0:00:46.04,Dialogue,Previous Setsu,0,0,0,,I'd rather sit down and have a talk with you.
-Dialogue: 100,0:00:47.52,0:00:48.86,Dialogue,Dezastol,0,0,0,,Setsu...
-Dialogue: 100,0:00:51.76,0:00:53.18,Dialogue,Previous Setsu,0,0,0,,Here.
-Dialogue: 100,0:00:57.10,0:00:58.01,Dialogue,Dezastol,0,0,0,,What is this?
-Dialogue: 100,0:01:01.32,0:01:03.06,Dialogue,Previous Setsu,0,0,0,,A token of reconciliation.
-Dialogue: 100,0:01:03.60,0:01:06.17,Dialogue,Previous Setsu,0,0,0,,I think black would look great on you, Dezas.
-Dialogue: 100,0:01:06.83,0:01:07.99,Dialogue,Dezastol,0,0,0,,Setsu...
-Dialogue: 100,0:01:09.73,0:01:12.33,Dialogue,Dezastol,0,0,0,,{\i1}I thought what I needed \Nto do to live my life
-Dialogue: 100,0:01:12.33,0:01:16.64,Dialogue,Dezastol,0,0,0,,{\i0}was give up what makes me {\i1}me{\i0}.
-Dialogue: 100,0:01:25.54,0:01:27.35,Dialogue,Dezastol,0,0,0,,Missing?
-Dialogue: 100,0:01:27.35,0:01:28.02,Dialogue,Vlad,0,0,0,,Yes.
-Dialogue: 100,0:01:28.53,0:01:30.54,Dialogue,Vlad,0,0,0,,We did all we could, but couldn't find him.
-Dialogue: 100,0:01:30.97,0:01:35.03,Dialogue,Vlad,0,0,0,,It seems like Distinia has \Nno idea where he is, either.
-Dialogue: 100,0:01:35.03,0:01:36.31,Dialogue,Dezastol,0,0,0,,Enough.
-Dialogue: 100,0:01:44.44,0:01:50.86,Dialogue,Dezastol,0,0,0,,{\i1}Even if we never meet again, I will keep\N the promise of peace I made to you...
-Dialogue: 100,0:01:51.36,0:01:52.39,Dialogue,Dezastol,0,0,0,,Setsu.
-Dialogue: 100,0:01:54.27,0:01:56.42,Dialogue,Dezastol,0,0,0,,We did strike a peace deal,
-Dialogue: 100,0:01:56.42,0:01:59.39,Dialogue,Dezastol,0,0,0,,but there's still much to do before \Nwe achieve true, lasting peace.
-Dialogue: 100,0:02:00.02,0:02:01.66,Dialogue,Dezastol,0,0,0,,We must redouble our efforts, Vlad.
-Dialogue: 100,0:02:01.66,0:02:05.16,Dialogue,Vlad,0,0,0,,Yes! I, Vlad, will lay down my life for this!
-Dialogue: 100,0:02:09.46,0:02:10.69,Dialogue,Demon Civilian,0,0,0,,Lord Dezastol!
-Dialogue: 100,0:02:11.12,0:02:14.36,Dialogue,Demon Civilian,0,0,0,,We have fresh fruit from Distinia today!
-Dialogue: 100,0:02:14.36,0:02:18.99,Dialogue,Beastman Civilian,0,0,0,,My lord! The meat from my homeland \Nis fresh and tasty, too!
-Dialogue: 100,0:02:21.34,0:02:23.61,Dialogue,Vlad,0,0,0,,It has been five years \Nsince the end of the war.
-Dialogue: 100,0:02:23.61,0:02:25.65,Dialogue,Vlad,0,0,0,,It's great to see our \Nnation prosper like this.
-Dialogue: 100,0:02:25.65,0:02:30.77,Dialogue,Dezastol,0,0,0,,Yes. Everyone worked so hard. War is—
-Dialogue: 100,0:02:40.19,0:02:41.43,Dialogue,Vlad,0,0,0,,My lord?
-Dialogue: 100,0:02:43.87,0:02:47.47,Dialogue,Dezastol,0,0,0,,Perhaps I've spent too much time wearing it.
-Dialogue: 100,0:02:49.31,0:02:52.86,Dialogue,Vlad,0,0,0,,I heard there is a skilled \Njeweler in Distinia.
-Dialogue: 100,0:02:53.48,0:02:55.61,Dialogue,Vlad,0,0,0,,I'll send it out for repairs.
-Dialogue: 100,0:02:55.61,0:02:58.88,Dialogue,Dezastol,0,0,0,,Thank you. Sorry to send \Nyou on a personal errand.
-Dialogue: 100,0:04:48.85,0:04:54.37,Dialogue,Messenger Soldier,0,0,0,,Reporting! A Distinian army has \Nappeared and invaded us!
-Dialogue: 100,0:04:54.81,0:04:58.22,Dialogue,Messenger Soldier,0,0,0,,Battle rages as we speak, \Njust outside of Evilbarrow!
-Dialogue: 100,0:04:59.89,0:05:02.65,Dialogue,Vlad,0,0,0,,Only five years after the peace charter?
-Dialogue: 100,0:05:02.65,0:05:04.30,Dialogue,Vlad,0,0,0,,How frail this peace was.
-Dialogue: 100,0:05:05.24,0:05:07.22,Dialogue,Dezastol,0,0,0,,Let's not jump to conclusions.
-Dialogue: 100,0:05:09.38,0:05:11.33,Dialogue,Dezastol,0,0,0,,Gather all the top officers immediately!
-Dialogue: 100,0:05:11.84,0:05:13.84,Dialogue,Dezastol,0,0,0,,We will prepare our army!
-Dialogue: 100,0:05:13.84,0:05:14.89,Dialogue,Vlad; Ides; Lily,0,0,0,,Yes, my lord!
-Dialogue: 100,0:05:14.89,0:05:18.68,Dialogue,Dezastol,0,0,0,,Zeon and Lamina, \Nhead to Distinia immediately.
-Dialogue: 100,0:05:18.68,0:05:20.06,Dialogue,Dezastol,0,0,0,,Something is suspicious.
-Dialogue: 100,0:05:20.52,0:05:22.52,Dialogue,Dezastol,0,0,0,,We must first find out what's going on.
-Dialogue: 100,0:05:22.52,0:05:23.17,Dialogue,Zeon; Lamina,0,0,0,,Yes, my lord!
-Dialogue: 100,0:05:30.08,0:05:34.45,Dialogue,Dezastol,0,0,0,,Setsu, I will keep our promise. \NNo matter what.
-Dialogue: 100,0:05:46.11,0:05:51.62,Dialogue,Demon Soldier A,0,0,0,,Weapons go in the first warehouse, food and \Nmedicine to the second warehouse! Hurry!
-Dialogue: 100,0:05:51.62,0:05:53.69,Dialogue,Demon Soldier B,0,0,0,,We have to return to the \Nfront lines right away.
-Dialogue: 100,0:05:53.69,0:05:56.25,Dialogue,Demon Soldier B,0,0,0,,Who knows if we'll come \Nback alive this time...
-Dialogue: 100,0:05:56.25,0:06:00.08,Dialogue,Demon Soldier C,0,0,0,,So there are huge, armored enemies \Nthat weren't there five years ago?
-Dialogue: 100,0:06:00.59,0:06:02.96,Dialogue,Demon Soldier D,0,0,0,,What did we sign that peace charter for?
-Dialogue: 100,0:06:03.56,0:06:06.84,Dialogue,Demon Soldier D,0,0,0,,We should never have trusted the humans.
-Dialogue: 100,0:06:07.10,0:06:11.77,Dialogue,Demon Soldier E,0,0,0,,If a full-on war breaks out and \Ndestroys our supply chain, we'll...
-Dialogue: 100,0:06:11.77,0:06:17.35,Dialogue,Demon Soldier F,0,0,0,,It's fine! As long as we buy her some time, \Nthe Demon Lord will take care of this.
-Dialogue: 100,0:06:19.70,0:06:25.06,Dialogue,Dezastol,0,0,0,,{\i1}Even after a month, \Nthere's been no contact from Distinia...
-Dialogue: 100,0:06:26.57,0:06:32.62,Dialogue,Dezastol,0,0,0,,{\i1}We're holding the line for now, \Nbut our nation won't last long at this rate.
-Dialogue: 100,0:06:33.17,0:06:36.83,Dialogue,Dezastol,0,0,0,,{\i1}Am I incapable of keeping \Nmy promise to Setsu?
-Dialogue: 100,0:06:38.20,0:06:39.36,Dialogue,Vlad,0,0,0,,Excuse me.
-Dialogue: 100,0:06:40.88,0:06:42.88,Dialogue,Dezastol,0,0,0,,Vlad. What is it?
-Dialogue: 100,0:06:42.88,0:06:48.36,Dialogue,Vlad,0,0,0,,Terran Sneeter from the Terran Trading \NCompany requests an audience with you.
-Dialogue: 100,0:06:48.80,0:06:50.04,Dialogue,Dezastol,0,0,0,,Terran himself?
-Dialogue: 100,0:06:50.86,0:06:52.97,Dialogue,Dezastol,0,0,0,,Well, I can't turn him away.
-Dialogue: 100,0:06:53.32,0:06:54.28,Dialogue,Dezastol,0,0,0,,Let him in.
-Dialogue: 100,0:06:54.28,0:06:55.12,Dialogue,Vlad,0,0,0,,Yes, my lord.
-Dialogue: 100,0:07:01.01,0:07:02.15,Dialogue,Ides,0,0,0,,Are you crazy?!
-Dialogue: 100,0:07:02.15,0:07:05.47,Dialogue,Lily,0,0,0,,Watch what you say, lowly human!
-Dialogue: 100,0:07:05.47,0:07:08.57,Dialogue,Terran,0,0,0,,Oh, no. I am completely serious.
-Dialogue: 100,0:07:08.57,0:07:11.32,Dialogue,Terran,0,0,0,,This is a sincere offer.
-Dialogue: 100,0:07:12.07,0:07:18.78,Dialogue,Terran,0,0,0,,I would like to use the power of Terran \NTrading to help end the war with Distinia.
-Dialogue: 100,0:07:19.20,0:07:23.33,Dialogue,Terran,0,0,0,,What more could a ruler ask for?
-Dialogue: 100,0:07:23.33,0:07:27.30,Dialogue,Dezastol,0,0,0,,Using your wealth, purported \Nto be the greatest in the world?
-Dialogue: 100,0:07:27.30,0:07:32.67,Dialogue,Terran,0,0,0,,Yes. To be honest, I feel we can end \Nthe war outright, not just offer help.
-Dialogue: 100,0:07:33.17,0:07:36.54,Dialogue,Terran,0,0,0,,That's how powerful the \NTerran Trading Company is.
-Dialogue: 100,0:07:46.84,0:07:48.94,Dialogue,Dezastol,0,0,0,,And in return, you would ask...
-Dialogue: 100,0:07:48.94,0:07:56.20,Dialogue,Terran,0,0,0,,To have you become my wife, \NDezastol Serreno. Precisely.
-Dialogue: 100,0:07:56.82,0:07:59.91,Dialogue,Dezastol,0,0,0,,You must mean your {\i1}slave{\i0}.
-Dialogue: 100,0:08:01.03,0:08:05.31,Dialogue,Terran,0,0,0,,If it means having your beauty in my grasp,\N then you may call it whatever you wish.
-Dialogue: 100,0:08:06.38,0:08:10.18,Dialogue,Terran,0,0,0,,Here is the necklace on which \Nwe will swear our vows.
-Dialogue: 100,0:08:13.09,0:08:16.14,Dialogue,Vlad,0,0,0,,A curse of servitude?! And so powerful...
-Dialogue: 100,0:08:16.36,0:08:18.73,Dialogue,Dezastol,0,0,0,,It seems you came well prepared.
-Dialogue: 100,0:08:19.26,0:08:21.35,Dialogue,Dezastol,0,0,0,,Where did you get such a thing?
-Dialogue: 100,0:08:21.66,0:08:24.36,Dialogue,Terran,0,0,0,,It did require some effort on my part,
-Dialogue: 100,0:08:24.36,0:08:28.82,Dialogue,Terran,0,0,0,,but it was all in the name of my love for you.
-Dialogue: 100,0:08:30.44,0:08:34.78,Dialogue,Vlad,0,0,0,,My lord, do not even entertain such nonsense!
-Dialogue: 100,0:08:34.78,0:08:36.57,Dialogue,Vlad,0,0,0,,We must immediately take this fool and—
-Dialogue: 100,0:08:37.98,0:08:40.70,Dialogue,Dezastol,0,0,0,,Give me some time to think.
-Dialogue: 100,0:08:40.70,0:08:42.07,Dialogue,Vlad,0,0,0,,My lord!
-Dialogue: 100,0:08:44.28,0:08:47.30,Dialogue,Terran,0,0,0,,I have all the time in the world.
-Dialogue: 100,0:08:49.19,0:08:51.18,Dialogue,Terran,0,0,0,,But I wonder...
-Dialogue: 100,0:08:51.18,0:08:53.60,Dialogue,Terran,0,0,0,,Do {\i1}you{\i0} have that kind of time?
-Dialogue: 100,0:09:11.70,0:09:16.38,Dialogue,Dezastol,0,0,0,,Is this the only way I can \Nkeep my promise to you?
-Dialogue: 100,0:09:19.72,0:09:20.74,Dialogue,Vlad,0,0,0,,My lord...
-Dialogue: 100,0:09:21.80,0:09:23.75,Dialogue,Dezastol,0,0,0,,I thought I asked everyone to leave.
-Dialogue: 100,0:09:27.24,0:09:30.26,Dialogue,Vlad,0,0,0,,There's no need for you to \Naccept that ridiculous offer.
-Dialogue: 100,0:09:30.92,0:09:36.61,Dialogue,Vlad,0,0,0,,Your army is ready to fight to the \Nlast man for you, myself included.
-Dialogue: 100,0:09:38.00,0:09:41.22,Dialogue,Dezastol,0,0,0,,I know. That's why I can't refuse.
-Dialogue: 100,0:09:55.59,0:09:59.95,Dialogue,Dezastol,0,0,0,,Do you think me a foolish woman, \Nunworthy of being the Demon Lord?
-Dialogue: 100,0:10:00.94,0:10:04.14,Dialogue,Vlad,0,0,0,,I won't give up. Please excuse me.
-Dialogue: 100,0:10:08.93,0:10:12.00,Dialogue,Dezastol,0,0,0,,You told me black would look good on me.
-Dialogue: 100,0:10:12.47,0:10:17.62,Dialogue,Dezastol,0,0,0,,Will you laugh when you see me wear \Nwhite against my wishes, Setsu?
-Dialogue: 100,0:10:20.73,0:10:24.46,Dialogue,Terran,0,0,0,,Dezastol was easier to \Nconvince than I expected.
-Dialogue: 100,0:10:25.19,0:10:31.90,Dialogue,Terran,0,0,0,,It seems lending aid to your schemes through \Nthe Terran Trading Company will pay off.
-Dialogue: 100,0:10:32.22,0:10:35.28,Dialogue,Terran,0,0,0,,Now the demonic kingdom is ours.
-Dialogue: 100,0:10:36.40,0:10:40.32,Dialogue,Terran,0,0,0,,If we push any further,\N we might start a tiresome war.
-Dialogue: 100,0:10:40.32,0:10:43.21,Dialogue,Terran,0,0,0,,Should we pull back those \Nexpensive magic soldiers?
-Dialogue: 100,0:10:44.07,0:10:46.16,Dialogue,Kagerou,0,0,0,,No need.
-Dialogue: 100,0:10:46.49,0:10:53.93,Dialogue,Terran,0,0,0,,Why not? You want the demonic kingdom, \NI want the beautiful Demon Lord.
-Dialogue: 100,0:10:53.93,0:10:56.05,Dialogue,Terran,0,0,0,,This deal is settled, is it not?
-Dialogue: 100,0:10:56.47,0:10:59.34,Dialogue,Kagerou,0,0,0,,Because it is the will of my master.
-Dialogue: 100,0:11:43.09,0:11:44.63,Dialogue,Audience,0,0,0,,So beautiful!
-Dialogue: 100,0:12:19.21,0:12:25.34,Dialogue,Priest,0,0,0,,Groom, Terran Sneeter, and bride,\N Dezastol Serreno.
-Dialogue: 100,0:12:26.25,0:12:28.93,Dialogue,Priest,0,0,0,,You may now exchange your vows of love.
-Dialogue: 100,0:12:32.81,0:12:38.11,Dialogue,Terran,0,0,0,,I, Terran Sneeter, and \NDemon Lord Dezastol Serreno,
-Dialogue: 100,0:12:38.11,0:12:41.97,Dialogue,Terran,0,0,0,,swear today to enter into a \Nvow of master and servant!
-Dialogue: 100,0:12:43.02,0:12:45.97,Dialogue,Terran,0,0,0,,And the Terran Trading Company, \Nthrough the annexation
-Dialogue: 100,0:12:45.97,0:12:48.66,Dialogue,Terran,0,0,0,,of the power of the demonic \Nkingdom of Eviltheon,
-Dialogue: 100,0:12:48.97,0:12:56.08,Dialogue,Terran,0,0,0,,vows to bring eternal prosperity \Nand everlasting peace to the world!
-Dialogue: 100,0:12:58.14,0:13:00.68,Dialogue,Terran,0,0,0,,Now, my compatriots!
-Dialogue: 100,0:13:00.68,0:13:04.40,Dialogue,Terran,0,0,0,,Pledge your allegiance to me,\N your new Demon Lord,
-Dialogue: 100,0:13:04.40,0:13:09.19,Dialogue,Terran,0,0,0,,and together we will protect the world \Nand leave our names in the history books!
-Dialogue: 100,0:13:17.84,0:13:21.02,Dialogue,Terran,0,0,0,,Now, enough theatrics.
-Dialogue: 100,0:13:24.80,0:13:30.28,Dialogue,Terran,0,0,0,,Dezastol Serreno, you will vow \Neternal love to me, Terran.
-Dialogue: 100,0:13:48.78,0:13:54.05,Dialogue,Dezastol,0,0,0,,{\i1}If only I could see you \None last time... Setsu...
-Dialogue: 100,0:14:02.52,0:14:03.71,Dialogue,Audience A,0,0,0,,C-Ce?!
-Dialogue: 100,0:14:03.71,0:14:05.40,Dialogue,Audience B,0,0,0,,O explozie?! Suntem atacați?!
-Dialogue: 100,0:14:20.11,0:14:23.62,Dialogue,Setsu,0,0,0,,Sunt aici ca să te salvez, prințesă.
-Dialogue: 100,0:14:25.50,0:14:26.52,Dialogue,Dezastol,0,0,0,,Setsu!
-Dialogue: 100,0:14:32.82,0:14:35.40,Dialogue,Ruri,0,0,0,,Vlad, privește!
-Dialogue: 100,0:14:35.40,0:14:36.93,Dialogue,Ruri,0,0,0,,Acela e Setsu, nu-i așa?
-Dialogue: 100,0:14:37.90,0:14:39.77,Dialogue,Vlad,0,0,0,,He's as over-the-top as ever.
-Dialogue: 100,0:14:40.07,0:14:40.96,Dialogue,Vlad,0,0,0,,Să ne grăbim.
-Dialogue: 100,0:14:42.73,0:14:45.21,Dialogue,Terran,0,0,0,,C-Ce naiba ești?!
-Dialogue: 100,0:14:45.21,0:14:47.13,Dialogue,Terran,0,0,0,,What {\i1}are{\i0} you?!
-Dialogue: 100,0:14:50.16,0:14:53.83,Dialogue,Terran,0,0,0,,Fools! Do your job! Protect me!
-Dialogue: 100,0:15:03.81,0:15:04.79,Dialogue,Dezastol,0,0,0,,Levia!
-Dialogue: 100,0:15:04.79,0:15:08.04,Dialogue,Levia,0,0,0,,Dezas, chiar nu-ți \Nstă deloc bine în alb.
-Dialogue: 100,0:15:08.50,0:15:11.56,Dialogue,Levia,0,0,0,,You should give up on \Nwearing a wedding dress.
-Dialogue: 100,0:15:15.52,0:15:17.56,Dialogue,Kagerou,0,0,0,,Shadow Magic: Shadow Stab.
-Dialogue: 100,0:15:23.22,0:15:24.27,Dialogue,Levia,0,0,0,,Nu mă pot mișca?!
-Dialogue: 100,0:15:24.87,0:15:28.15,Dialogue,Kagerou,0,0,0,,The god of the seas isn't \Ntoo impressive on land, I see.
-Dialogue: 100,0:15:34.78,0:15:35.62,Dialogue,Dezastol,0,0,0,,Oprește-te!
-Dialogue: 100,0:15:52.96,0:15:59.31,Dialogue,Setsu,0,0,0,,So, ready to pay for making Dezas cry?
-Dialogue: 100,0:16:01.31,0:16:04.19,Dialogue,Kagerou,0,0,0,,I wasn't expecting Setsu the Hero to show up.
-Dialogue: 100,0:16:04.70,0:16:07.27,Dialogue,Kagerou,0,0,0,,I'll have quite the report to give my master!
-Dialogue: 100,0:16:07.86,0:16:09.15,Dialogue,Setsu,0,0,0,,Your master?
-Dialogue: 100,0:16:14.11,0:16:15.17,Dialogue,Kagerou,0,0,0,,What?!
-Dialogue: 100,0:16:29.12,0:16:33.47,Dialogue,Setsu,0,0,0,,Is that it? You're not even trying.
-Dialogue: 100,0:16:34.36,0:16:36.37,Dialogue,Kagerou,0,0,0,,You are indeed strong,
-Dialogue: 100,0:16:36.37,0:16:39.33,Dialogue,Kagerou,0,0,0,,but today I must prioritize \Nnotifying my master.
-Dialogue: 100,0:16:40.95,0:16:43.98,Dialogue,Kagerou,0,0,0,,We'll settle this later, Setsu the Hero.
-Dialogue: 100,0:17:00.99,0:17:03.23,Dialogue,Setsu,0,0,0,,Damn it, he got away.
-Dialogue: 100,0:17:03.23,0:17:04.28,Dialogue,Dezastol,0,0,0,,Setsu!
-Dialogue: 100,0:17:05.21,0:17:08.41,Dialogue,Dezastol,0,0,0,,I missed you! I missed you, Setsu!
-Dialogue: 100,0:17:08.41,0:17:12.13,Dialogue,Dezastol,0,0,0,,Where did you go without me?!
-Dialogue: 100,0:17:12.13,0:17:16.10,Dialogue,Setsu,0,0,0,,Y-Yeah, that's a long story...
-Dialogue: 100,0:17:16.56,0:17:19.64,Dialogue,Setsu,0,0,0,,Anyway, I'm glad you're safe, Dezas.
-Dialogue: 100,0:17:20.29,0:17:21.09,Dialogue,Dezas,0,0,0,,Yes!
-Dialogue: 100,0:17:23.23,0:17:27.15,Dialogue,Levia,0,0,0,,Uh, sorry to interrupt this \Ntouching reunion, but...
-Dialogue: 100,0:17:36.92,0:17:39.67,Dialogue,Dezastol,0,0,0,,Magic soldiers made from curses...
-Dialogue: 100,0:17:44.69,0:17:50.04,Dialogue,Setsu,0,0,0,,These curses... I guess it really\Nmust be Toma behind the scenes.
-Dialogue: 100,0:17:52.80,0:17:57.24,Dialogue,Dezastol,0,0,0,,I suspected it might be possible. \NSo it really is Toma, then.
-Dialogue: 100,0:17:57.24,0:18:00.80,Dialogue,Dezastol,0,0,0,,Then, as Demon Lord,\N I must lend you aid, Setsu!
-Dialogue: 100,0:18:01.26,0:18:03.76,Dialogue,Dezastol,0,0,0,,He needs to pay for making me wear this.
-Dialogue: 100,0:18:04.74,0:18:08.50,Dialogue,Setsu,0,0,0,,I'll let you handle things here, then.\N I'll go visit Regulus.
-Dialogue: 100,0:18:09.10,0:18:11.82,Dialogue,Setsu,0,0,0,,There's no telling what Toma might try.
-Dialogue: 100,0:18:12.07,0:18:13.86,Dialogue,Dezastol,0,0,0,,The Beastmen...
-Dialogue: 100,0:18:13.86,0:18:18.71,Dialogue,Dezastol,0,0,0,,Yes, securing the aid of Regulus, King of \Nthe Beastmen, would be most reassuring.
-Dialogue: 100,0:18:19.16,0:18:20.99,Dialogue,Dezastol,0,0,0,,But this all seems very rushed.
-Dialogue: 100,0:18:22.04,0:18:24.97,Dialogue,Setsu,0,0,0,,We do have a promise of peace to keep.
-Dialogue: 100,0:18:24.97,0:18:26.32,Dialogue,Dezastol,0,0,0,,Yes.
-Dialogue: 100,0:18:27.16,0:18:29.86,Dialogue,Dezastol,0,0,0,,We must do this, for our promise.
-Dialogue: 100,0:18:30.96,0:18:33.87,Dialogue,Levia,0,0,0,,Wait, are we leaving right away?
-Dialogue: 100,0:18:33.87,0:18:37.60,Dialogue,Levia,0,0,0,,Am I on ferry duty again?
-Dialogue: 100,0:18:37.60,0:18:41.76,Dialogue,Levia,0,0,0,,I've been running around fighting all night!
-Dialogue: 100,0:18:41.76,0:18:42.97,Dialogue,Ruri,0,0,0,,Setsu-san!
-Dialogue: 100,0:18:44.36,0:18:49.48,Dialogue,Vlad,0,0,0,,Oh, no! The castle is a mess!
-Dialogue: 100,0:18:49.84,0:18:51.49,Dialogue,Ruri,0,0,0,,Did everything work out?
-Dialogue: 100,0:18:51.49,0:18:54.11,Dialogue,Setsu,0,0,0,,Yeah. It was pretty close, though.
-Dialogue: 100,0:18:59.24,0:19:02.03,Dialogue,Ruri,0,0,0,,You should be the one to give this to her.
-Dialogue: 100,0:19:02.62,0:19:04.49,Dialogue,Ruri,0,0,0,,It's important, right?
-Dialogue: 100,0:19:06.56,0:19:08.14,Dialogue,Setsu,0,0,0,,Yeah, thanks.
-Dialogue: 100,0:19:12.30,0:19:13.50,Dialogue,Dezastol,0,0,0,,Setsu?
-Dialogue: 100,0:19:25.68,0:19:27.47,Dialogue,Setsu,0,0,0,,This makes another second time.
-Dialogue: 100,0:19:32.94,0:19:35.38,Dialogue,Dezastol,0,0,0,,Yes, the second time.
-Dialogue: 100,0:19:49.57,0:19:51.18,Dialogue,Dezastol,0,0,0,,{\i1}That's right.
-Dialogue: 100,0:19:53.03,0:19:59.56,Dialogue,Dezastol,0,0,0,,{\i1}Once again, you've taught me \Nwhat it means to live.
-Dialogue: 100,0:21:47.40,0:21:51.80,Dialogue,Dezastol,0,0,0,,I would have loved to accompany you,
-Dialogue: 100,0:21:51.80,0:21:55.62,Dialogue,Dezastol,0,0,0,,but this is no time for the \Nruler to leave her throne.
-Dialogue: 100,0:21:55.62,0:21:59.99,Dialogue,Setsu,0,0,0,,Yeah. Once we get back to peace, \NI'll take you wherever you want.
-Dialogue: 100,0:22:02.61,0:22:05.01,Dialogue,Dezastol,0,0,0,,Yes. That's a promise.
-Dialogue: 100,0:22:05.33,0:22:11.39,Dialogue,Vlad,0,0,0,,Well, um... Just because it's peacetime \Ndoesn't mean the ruler can leave the country...
-Dialogue: 100,0:22:11.74,0:22:14.63,Dialogue,Levia,0,0,0,,That's where you come in.
-Dialogue: 100,0:22:15.15,0:22:17.41,Dialogue,Levia,0,0,0,,Don't make Dezas do all the work.
-Dialogue: 100,0:22:17.41,0:22:18.07,Dialogue,Dezastol,0,0,0,,Yes.
-Dialogue: 100,0:22:18.85,0:22:24.26,Dialogue,Ruri,0,0,0,,The Demon Lord kindly allowed \Nme to open a shop here!
-Dialogue: 100,0:22:24.26,0:22:26.65,Dialogue,Ruri,0,0,0,,My very own shop! It's my dream come true!
-Dialogue: 100,0:22:26.87,0:22:28.06,Dialogue,Setsu,0,0,0,,Are you sure?
-Dialogue: 100,0:22:28.06,0:22:32.09,Dialogue,Dezastol,0,0,0,,She delivered my precious brooch.\NIt's the least I could do.
-Dialogue: 100,0:22:34.65,0:22:36.71,Dialogue,Vlad,0,0,0,,Thanks for the help, Setsu.
-Dialogue: 100,0:22:37.40,0:22:41.02,Dialogue,Vlad,0,0,0,,If you need anything,\N we will race to your side.
-Dialogue: 100,0:22:41.02,0:22:43.81,Dialogue,Setsu,0,0,0,,Yeah. I'll be counting on you.
-Dialogue: 100,0:22:48.61,0:22:50.98,Dialogue,Setsu,0,0,0,,All right, ready to go?
-Dialogue: 100,0:22:50.98,0:22:52.93,Dialogue,Levia,0,0,0,,Oh, very well.
-Dialogue: 100,0:22:52.93,0:22:56.43,Dialogue,Levia,0,0,0,,I'll tag along with you, no matter how far!
-Dialogue: 100,0:22:56.79,0:22:57.67,Dialogue,Setsu,0,0,0,,Yeah!
-Dialogue: 100,0:23:05.02,0:23:11.95,Dialogue,Dezastol,0,0,0,,Be sure to come straight \Nback to me once it's all over!
-Dialogue: 100,0:23:17.19,0:23:19.02,Dialogue,Setsu,0,0,0,,Yeah, see you soon!
-Dialogue: 100,0:23:27.79,0:23:31.04,Dialogue,Dezastol,0,0,0,,Data viitoare: {\i1}Călcându-i \Npentru a doua oară pe urme{\i0}.
+Dialogue: 99,0:00:01.87,0:00:04.16,Dialogue,Dezastol,0,0,0,,{\i1}I have had a long life.
+Dialogue: 99,0:00:06.54,0:00:11.17,Dialogue,Dezastol,0,0,0,,{\i1}Because I've lived so long, I've learned \Nthat the world is beyond my control.
+Dialogue: 99,0:00:13.83,0:00:15.42,Dialogue,Dezastol,0,0,0,,{\i1}So I fought.
+Dialogue: 99,0:00:17.76,0:00:22.41,Dialogue,Dezastol,0,0,0,,{\i1}As ruler, as protector, as heir...
+Dialogue: 99,0:00:24.23,0:00:28.78,Dialogue,Dezastol,0,0,0,,{\i1}I fought, and fought, and kept fighting...
+Dialogue: 99,0:00:37.04,0:00:39.31,Dialogue,Previous Setsu,0,0,0,,Let's stop this stupid war.
+Dialogue: 99,0:00:42.72,0:00:46.04,Dialogue,Previous Setsu,0,0,0,,I'd rather sit down and have a talk with you.
+Dialogue: 99,0:00:47.52,0:00:48.86,Dialogue,Dezastol,0,0,0,,Setsu...
+Dialogue: 99,0:00:51.76,0:00:53.18,Dialogue,Previous Setsu,0,0,0,,Here.
+Dialogue: 99,0:00:57.10,0:00:58.01,Dialogue,Dezastol,0,0,0,,What is this?
+Dialogue: 99,0:01:01.32,0:01:03.06,Dialogue,Previous Setsu,0,0,0,,A token of reconciliation.
+Dialogue: 99,0:01:03.60,0:01:06.17,Dialogue,Previous Setsu,0,0,0,,I think black would look great on you, Dezas.
+Dialogue: 99,0:01:06.83,0:01:07.99,Dialogue,Dezastol,0,0,0,,Setsu...
+Dialogue: 99,0:01:09.73,0:01:12.33,Dialogue,Dezastol,0,0,0,,{\i1}I thought what I needed \Nto do to live my life
+Dialogue: 99,0:01:12.33,0:01:16.64,Dialogue,Dezastol,0,0,0,,{\i0}was give up what makes me {\i1}me{\i0}.
+Dialogue: 99,0:01:25.54,0:01:27.35,Dialogue,Dezastol,0,0,0,,Missing?
+Dialogue: 99,0:01:27.35,0:01:28.02,Dialogue,Vlad,0,0,0,,Yes.
+Dialogue: 99,0:01:28.53,0:01:30.54,Dialogue,Vlad,0,0,0,,We did all we could, but couldn't find him.
+Dialogue: 99,0:01:30.97,0:01:35.03,Dialogue,Vlad,0,0,0,,It seems like Distinia has \Nno idea where he is, either.
+Dialogue: 99,0:01:35.03,0:01:36.31,Dialogue,Dezastol,0,0,0,,Enough.
+Dialogue: 99,0:01:44.44,0:01:50.86,Dialogue,Dezastol,0,0,0,,{\i1}Even if we never meet again, I will keep\N the promise of peace I made to you...
+Dialogue: 99,0:01:51.36,0:01:52.39,Dialogue,Dezastol,0,0,0,,Setsu.
+Dialogue: 99,0:01:54.27,0:01:56.42,Dialogue,Dezastol,0,0,0,,We did strike a peace deal,
+Dialogue: 99,0:01:56.42,0:01:59.39,Dialogue,Dezastol,0,0,0,,but there's still much to do before \Nwe achieve true, lasting peace.
+Dialogue: 99,0:02:00.02,0:02:01.66,Dialogue,Dezastol,0,0,0,,We must redouble our efforts, Vlad.
+Dialogue: 99,0:02:01.66,0:02:05.16,Dialogue,Vlad,0,0,0,,Yes! I, Vlad, will lay down my life for this!
+Dialogue: 99,0:02:09.46,0:02:10.69,Dialogue,Demon Civilian,0,0,0,,Lord Dezastol!
+Dialogue: 99,0:02:11.12,0:02:14.36,Dialogue,Demon Civilian,0,0,0,,We have fresh fruit from Distinia today!
+Dialogue: 99,0:02:14.36,0:02:18.99,Dialogue,Beastman Civilian,0,0,0,,My lord! The meat from my homeland \Nis fresh and tasty, too!
+Dialogue: 99,0:02:21.34,0:02:23.61,Dialogue,Vlad,0,0,0,,It has been five years \Nsince the end of the war.
+Dialogue: 99,0:02:23.61,0:02:25.65,Dialogue,Vlad,0,0,0,,It's great to see our \Nnation prosper like this.
+Dialogue: 99,0:02:25.65,0:02:30.77,Dialogue,Dezastol,0,0,0,,Yes. Everyone worked so hard. War is—
+Dialogue: 99,0:02:40.19,0:02:41.43,Dialogue,Vlad,0,0,0,,My lord?
+Dialogue: 99,0:02:43.87,0:02:47.47,Dialogue,Dezastol,0,0,0,,Perhaps I've spent too much time wearing it.
+Dialogue: 99,0:02:49.31,0:02:52.86,Dialogue,Vlad,0,0,0,,I heard there is a skilled \Njeweler in Distinia.
+Dialogue: 99,0:02:53.48,0:02:55.61,Dialogue,Vlad,0,0,0,,I'll send it out for repairs.
+Dialogue: 99,0:02:55.61,0:02:58.88,Dialogue,Dezastol,0,0,0,,Thank you. Sorry to send \Nyou on a personal errand.
+Dialogue: 99,0:04:48.85,0:04:54.37,Dialogue,Messenger Soldier,0,0,0,,Reporting! A Distinian army has \Nappeared and invaded us!
+Dialogue: 99,0:04:54.81,0:04:58.22,Dialogue,Messenger Soldier,0,0,0,,Battle rages as we speak, \Njust outside of Evilbarrow!
+Dialogue: 99,0:04:59.89,0:05:02.65,Dialogue,Vlad,0,0,0,,Only five years after the peace charter?
+Dialogue: 99,0:05:02.65,0:05:04.30,Dialogue,Vlad,0,0,0,,How frail this peace was.
+Dialogue: 99,0:05:05.24,0:05:07.22,Dialogue,Dezastol,0,0,0,,Let's not jump to conclusions.
+Dialogue: 99,0:05:09.38,0:05:11.33,Dialogue,Dezastol,0,0,0,,Gather all the top officers immediately!
+Dialogue: 99,0:05:11.84,0:05:13.84,Dialogue,Dezastol,0,0,0,,We will prepare our army!
+Dialogue: 99,0:05:13.84,0:05:14.89,Dialogue,Vlad; Ides; Lily,0,0,0,,Yes, my lord!
+Dialogue: 99,0:05:14.89,0:05:18.68,Dialogue,Dezastol,0,0,0,,Zeon and Lamina, \Nhead to Distinia immediately.
+Dialogue: 99,0:05:18.68,0:05:20.06,Dialogue,Dezastol,0,0,0,,Something is suspicious.
+Dialogue: 99,0:05:20.52,0:05:22.52,Dialogue,Dezastol,0,0,0,,We must first find out what's going on.
+Dialogue: 99,0:05:22.52,0:05:23.17,Dialogue,Zeon; Lamina,0,0,0,,Yes, my lord!
+Dialogue: 99,0:05:30.08,0:05:34.45,Dialogue,Dezastol,0,0,0,,Setsu, I will keep our promise. \NNo matter what.
+Dialogue: 99,0:05:46.11,0:05:51.62,Dialogue,Demon Soldier A,0,0,0,,Weapons go in the first warehouse, food and \Nmedicine to the second warehouse! Hurry!
+Dialogue: 99,0:05:51.62,0:05:53.69,Dialogue,Demon Soldier B,0,0,0,,We have to return to the \Nfront lines right away.
+Dialogue: 99,0:05:53.69,0:05:56.25,Dialogue,Demon Soldier B,0,0,0,,Who knows if we'll come \Nback alive this time...
+Dialogue: 99,0:05:56.25,0:06:00.08,Dialogue,Demon Soldier C,0,0,0,,So there are huge, armored enemies \Nthat weren't there five years ago?
+Dialogue: 99,0:06:00.59,0:06:02.96,Dialogue,Demon Soldier D,0,0,0,,What did we sign that peace charter for?
+Dialogue: 99,0:06:03.56,0:06:06.84,Dialogue,Demon Soldier D,0,0,0,,We should never have trusted the humans.
+Dialogue: 99,0:06:07.10,0:06:11.77,Dialogue,Demon Soldier E,0,0,0,,If a full-on war breaks out and \Ndestroys our supply chain, we'll...
+Dialogue: 99,0:06:11.77,0:06:17.35,Dialogue,Demon Soldier F,0,0,0,,It's fine! As long as we buy her some time, \Nthe Demon Lord will take care of this.
+Dialogue: 99,0:06:19.70,0:06:25.06,Dialogue,Dezastol,0,0,0,,{\i1}Even after a month, \Nthere's been no contact from Distinia...
+Dialogue: 99,0:06:26.57,0:06:32.62,Dialogue,Dezastol,0,0,0,,{\i1}We're holding the line for now, \Nbut our nation won't last long at this rate.
+Dialogue: 99,0:06:33.17,0:06:36.83,Dialogue,Dezastol,0,0,0,,{\i1}Am I incapable of keeping \Nmy promise to Setsu?
+Dialogue: 99,0:06:38.20,0:06:39.36,Dialogue,Vlad,0,0,0,,Excuse me.
+Dialogue: 99,0:06:40.88,0:06:42.88,Dialogue,Dezastol,0,0,0,,Vlad. What is it?
+Dialogue: 99,0:06:42.88,0:06:48.36,Dialogue,Vlad,0,0,0,,Terran Sneeter from the Terran Trading \NCompany requests an audience with you.
+Dialogue: 99,0:06:48.80,0:06:50.04,Dialogue,Dezastol,0,0,0,,Terran himself?
+Dialogue: 99,0:06:50.86,0:06:52.97,Dialogue,Dezastol,0,0,0,,Well, I can't turn him away.
+Dialogue: 99,0:06:53.32,0:06:54.28,Dialogue,Dezastol,0,0,0,,Let him in.
+Dialogue: 99,0:06:54.28,0:06:55.12,Dialogue,Vlad,0,0,0,,Yes, my lord.
+Dialogue: 99,0:07:01.01,0:07:02.15,Dialogue,Ides,0,0,0,,Are you crazy?!
+Dialogue: 99,0:07:02.15,0:07:05.47,Dialogue,Lily,0,0,0,,Watch what you say, lowly human!
+Dialogue: 99,0:07:05.47,0:07:08.57,Dialogue,Terran,0,0,0,,Oh, no. I am completely serious.
+Dialogue: 99,0:07:08.57,0:07:11.32,Dialogue,Terran,0,0,0,,This is a sincere offer.
+Dialogue: 99,0:07:12.07,0:07:18.78,Dialogue,Terran,0,0,0,,I would like to use the power of Terran \NTrading to help end the war with Distinia.
+Dialogue: 99,0:07:19.20,0:07:23.33,Dialogue,Terran,0,0,0,,What more could a ruler ask for?
+Dialogue: 99,0:07:23.33,0:07:27.30,Dialogue,Dezastol,0,0,0,,Using your wealth, purported \Nto be the greatest in the world?
+Dialogue: 99,0:07:27.30,0:07:32.67,Dialogue,Terran,0,0,0,,Yes. To be honest, I feel we can end \Nthe war outright, not just offer help.
+Dialogue: 99,0:07:33.17,0:07:36.54,Dialogue,Terran,0,0,0,,That's how powerful the \NTerran Trading Company is.
+Dialogue: 99,0:07:46.84,0:07:48.94,Dialogue,Dezastol,0,0,0,,And in return, you would ask...
+Dialogue: 99,0:07:48.94,0:07:56.20,Dialogue,Terran,0,0,0,,To have you become my wife, \NDezastol Serreno. Precisely.
+Dialogue: 99,0:07:56.82,0:07:59.91,Dialogue,Dezastol,0,0,0,,You must mean your {\i1}slave{\i0}.
+Dialogue: 99,0:08:01.03,0:08:05.31,Dialogue,Terran,0,0,0,,If it means having your beauty in my grasp,\N then you may call it whatever you wish.
+Dialogue: 99,0:08:06.38,0:08:10.18,Dialogue,Terran,0,0,0,,Here is the necklace on which \Nwe will swear our vows.
+Dialogue: 99,0:08:13.09,0:08:16.14,Dialogue,Vlad,0,0,0,,A curse of servitude?! And so powerful...
+Dialogue: 99,0:08:16.36,0:08:18.73,Dialogue,Dezastol,0,0,0,,It seems you came well prepared.
+Dialogue: 99,0:08:19.26,0:08:21.35,Dialogue,Dezastol,0,0,0,,Where did you get such a thing?
+Dialogue: 99,0:08:21.66,0:08:24.36,Dialogue,Terran,0,0,0,,It did require some effort on my part,
+Dialogue: 99,0:08:24.36,0:08:28.82,Dialogue,Terran,0,0,0,,but it was all in the name of my love for you.
+Dialogue: 99,0:08:30.44,0:08:34.78,Dialogue,Vlad,0,0,0,,My lord, do not even entertain such nonsense!
+Dialogue: 99,0:08:34.78,0:08:36.57,Dialogue,Vlad,0,0,0,,We must immediately take this fool and—
+Dialogue: 99,0:08:37.98,0:08:40.70,Dialogue,Dezastol,0,0,0,,Give me some time to think.
+Dialogue: 99,0:08:40.70,0:08:42.07,Dialogue,Vlad,0,0,0,,My lord!
+Dialogue: 99,0:08:44.28,0:08:47.30,Dialogue,Terran,0,0,0,,I have all the time in the world.
+Dialogue: 99,0:08:49.19,0:08:51.18,Dialogue,Terran,0,0,0,,But I wonder...
+Dialogue: 99,0:08:51.18,0:08:53.60,Dialogue,Terran,0,0,0,,Do {\i1}you{\i0} have that kind of time?
+Dialogue: 99,0:09:11.70,0:09:16.38,Dialogue,Dezastol,0,0,0,,Is this the only way I can \Nkeep my promise to you?
+Dialogue: 99,0:09:19.72,0:09:20.74,Dialogue,Vlad,0,0,0,,My lord...
+Dialogue: 99,0:09:21.80,0:09:23.75,Dialogue,Dezastol,0,0,0,,I thought I asked everyone to leave.
+Dialogue: 99,0:09:27.24,0:09:30.26,Dialogue,Vlad,0,0,0,,There's no need for you to \Naccept that ridiculous offer.
+Dialogue: 99,0:09:30.92,0:09:36.61,Dialogue,Vlad,0,0,0,,Your army is ready to fight to the \Nlast man for you, myself included.
+Dialogue: 99,0:09:38.00,0:09:41.22,Dialogue,Dezastol,0,0,0,,I know. That's why I can't refuse.
+Dialogue: 99,0:09:55.59,0:09:59.95,Dialogue,Dezastol,0,0,0,,Do you think me a foolish woman, \Nunworthy of being the Demon Lord?
+Dialogue: 99,0:10:00.94,0:10:04.14,Dialogue,Vlad,0,0,0,,I won't give up. Please excuse me.
+Dialogue: 99,0:10:08.93,0:10:12.00,Dialogue,Dezastol,0,0,0,,You told me black would look good on me.
+Dialogue: 99,0:10:12.47,0:10:17.62,Dialogue,Dezastol,0,0,0,,Will you laugh when you see me wear \Nwhite against my wishes, Setsu?
+Dialogue: 99,0:10:20.73,0:10:24.46,Dialogue,Terran,0,0,0,,Dezastol was easier to \Nconvince than I expected.
+Dialogue: 99,0:10:25.19,0:10:31.90,Dialogue,Terran,0,0,0,,It seems lending aid to your schemes through \Nthe Terran Trading Company will pay off.
+Dialogue: 99,0:10:32.22,0:10:35.28,Dialogue,Terran,0,0,0,,Now the demonic kingdom is ours.
+Dialogue: 99,0:10:36.40,0:10:40.32,Dialogue,Terran,0,0,0,,If we push any further,\N we might start a tiresome war.
+Dialogue: 99,0:10:40.32,0:10:43.21,Dialogue,Terran,0,0,0,,Should we pull back those \Nexpensive magic soldiers?
+Dialogue: 99,0:10:44.07,0:10:46.16,Dialogue,Kagerou,0,0,0,,No need.
+Dialogue: 99,0:10:46.49,0:10:53.93,Dialogue,Terran,0,0,0,,Why not? You want the demonic kingdom, \NI want the beautiful Demon Lord.
+Dialogue: 99,0:10:53.93,0:10:56.05,Dialogue,Terran,0,0,0,,This deal is settled, is it not?
+Dialogue: 99,0:10:56.47,0:10:59.34,Dialogue,Kagerou,0,0,0,,Because it is the will of my master.
+Dialogue: 99,0:11:43.09,0:11:44.63,Dialogue,Audience,0,0,0,,So beautiful!
+Dialogue: 99,0:12:19.21,0:12:25.34,Dialogue,Priest,0,0,0,,Groom, Terran Sneeter, and bride,\N Dezastol Serreno.
+Dialogue: 99,0:12:26.25,0:12:28.93,Dialogue,Priest,0,0,0,,You may now exchange your vows of love.
+Dialogue: 99,0:12:32.81,0:12:38.11,Dialogue,Terran,0,0,0,,I, Terran Sneeter, and \NDemon Lord Dezastol Serreno,
+Dialogue: 99,0:12:38.11,0:12:41.97,Dialogue,Terran,0,0,0,,swear today to enter into a \Nvow of master and servant!
+Dialogue: 99,0:12:43.02,0:12:45.97,Dialogue,Terran,0,0,0,,And the Terran Trading Company, \Nthrough the annexation
+Dialogue: 99,0:12:45.97,0:12:48.66,Dialogue,Terran,0,0,0,,of the power of the demonic \Nkingdom of Eviltheon,
+Dialogue: 99,0:12:48.97,0:12:56.08,Dialogue,Terran,0,0,0,,vows to bring eternal prosperity \Nand everlasting peace to the world!
+Dialogue: 99,0:12:58.14,0:13:00.68,Dialogue,Terran,0,0,0,,Now, my compatriots!
+Dialogue: 99,0:13:00.68,0:13:04.40,Dialogue,Terran,0,0,0,,Pledge your allegiance to me,\N your new Demon Lord,
+Dialogue: 99,0:13:04.40,0:13:09.19,Dialogue,Terran,0,0,0,,and together we will protect the world \Nand leave our names in the history books!
+Dialogue: 99,0:13:17.84,0:13:21.02,Dialogue,Terran,0,0,0,,Now, enough theatrics.
+Dialogue: 99,0:13:24.80,0:13:30.28,Dialogue,Terran,0,0,0,,Dezastol Serreno, you will vow \Neternal love to me, Terran.
+Dialogue: 99,0:13:48.78,0:13:54.05,Dialogue,Dezastol,0,0,0,,{\i1}If only I could see you \None last time... Setsu...
+Dialogue: 99,0:14:02.52,0:14:03.71,Dialogue,Audience A,0,0,0,,C-Ce?!
+Dialogue: 99,0:14:03.71,0:14:05.40,Dialogue,Audience B,0,0,0,,O explozie?! Suntem atacați?!
+Dialogue: 99,0:14:20.11,0:14:23.62,Dialogue,Setsu,0,0,0,,Sunt aici ca să te salvez, prințesă.
+Dialogue: 99,0:14:25.50,0:14:26.52,Dialogue,Dezastol,0,0,0,,Setsu!
+Dialogue: 99,0:14:32.82,0:14:35.40,Dialogue,Ruri,0,0,0,,Vlad, privește!
+Dialogue: 99,0:14:35.40,0:14:36.93,Dialogue,Ruri,0,0,0,,Acela e Setsu, nu-i așa?
+Dialogue: 99,0:14:37.90,0:14:39.77,Dialogue,Vlad,0,0,0,,He's as over-the-top as ever.
+Dialogue: 99,0:14:40.07,0:14:40.96,Dialogue,Vlad,0,0,0,,Să ne grăbim.
+Dialogue: 99,0:14:42.73,0:14:45.21,Dialogue,Terran,0,0,0,,C-Ce naiba ești?!
+Dialogue: 99,0:14:45.21,0:14:47.13,Dialogue,Terran,0,0,0,,What {\i1}are{\i0} you?!
+Dialogue: 99,0:14:50.16,0:14:53.83,Dialogue,Terran,0,0,0,,Fools! Do your job! Protect me!
+Dialogue: 99,0:15:03.81,0:15:04.79,Dialogue,Dezastol,0,0,0,,Levia!
+Dialogue: 99,0:15:04.79,0:15:08.04,Dialogue,Levia,0,0,0,,Dezas, chiar nu-ți \Nstă deloc bine în alb.
+Dialogue: 99,0:15:08.50,0:15:11.56,Dialogue,Levia,0,0,0,,You should give up on \Nwearing a wedding dress.
+Dialogue: 99,0:15:15.52,0:15:17.56,Dialogue,Kagerou,0,0,0,,Shadow Magic: Shadow Stab.
+Dialogue: 99,0:15:23.22,0:15:24.27,Dialogue,Levia,0,0,0,,Nu mă pot mișca?!
+Dialogue: 99,0:15:24.87,0:15:28.15,Dialogue,Kagerou,0,0,0,,The god of the seas isn't \Ntoo impressive on land, I see.
+Dialogue: 99,0:15:34.78,0:15:35.62,Dialogue,Dezastol,0,0,0,,Oprește-te!
+Dialogue: 99,0:15:52.96,0:15:59.31,Dialogue,Setsu,0,0,0,,So, ready to pay for making Dezas cry?
+Dialogue: 99,0:16:01.31,0:16:04.19,Dialogue,Kagerou,0,0,0,,I wasn't expecting Setsu the Hero to show up.
+Dialogue: 99,0:16:04.70,0:16:07.27,Dialogue,Kagerou,0,0,0,,I'll have quite the report to give my master!
+Dialogue: 99,0:16:07.86,0:16:09.15,Dialogue,Setsu,0,0,0,,Your master?
+Dialogue: 99,0:16:14.11,0:16:15.17,Dialogue,Kagerou,0,0,0,,What?!
+Dialogue: 99,0:16:29.12,0:16:33.47,Dialogue,Setsu,0,0,0,,Is that it? You're not even trying.
+Dialogue: 99,0:16:34.36,0:16:36.37,Dialogue,Kagerou,0,0,0,,You are indeed strong,
+Dialogue: 99,0:16:36.37,0:16:39.33,Dialogue,Kagerou,0,0,0,,but today I must prioritize \Nnotifying my master.
+Dialogue: 99,0:16:40.95,0:16:43.98,Dialogue,Kagerou,0,0,0,,We'll settle this later, Setsu the Hero.
+Dialogue: 99,0:17:00.99,0:17:03.23,Dialogue,Setsu,0,0,0,,Damn it, he got away.
+Dialogue: 99,0:17:03.23,0:17:04.28,Dialogue,Dezastol,0,0,0,,Setsu!
+Dialogue: 99,0:17:05.21,0:17:08.41,Dialogue,Dezastol,0,0,0,,I missed you! I missed you, Setsu!
+Dialogue: 99,0:17:08.41,0:17:12.13,Dialogue,Dezastol,0,0,0,,Where did you go without me?!
+Dialogue: 99,0:17:12.13,0:17:16.10,Dialogue,Setsu,0,0,0,,Y-Yeah, that's a long story...
+Dialogue: 99,0:17:16.56,0:17:19.64,Dialogue,Setsu,0,0,0,,Anyway, I'm glad you're safe, Dezas.
+Dialogue: 99,0:17:20.29,0:17:21.09,Dialogue,Dezas,0,0,0,,Yes!
+Dialogue: 99,0:17:23.23,0:17:27.15,Dialogue,Levia,0,0,0,,Uh, sorry to interrupt this \Ntouching reunion, but...
+Dialogue: 99,0:17:36.92,0:17:39.67,Dialogue,Dezastol,0,0,0,,Magic soldiers made from curses...
+Dialogue: 99,0:17:44.69,0:17:50.04,Dialogue,Setsu,0,0,0,,These curses... I guess it really\Nmust be Toma behind the scenes.
+Dialogue: 99,0:17:52.80,0:17:57.24,Dialogue,Dezastol,0,0,0,,I suspected it might be possible. \NSo it really is Toma, then.
+Dialogue: 99,0:17:57.24,0:18:00.80,Dialogue,Dezastol,0,0,0,,Then, as Demon Lord,\N I must lend you aid, Setsu!
+Dialogue: 99,0:18:01.26,0:18:03.76,Dialogue,Dezastol,0,0,0,,He needs to pay for making me wear this.
+Dialogue: 99,0:18:04.74,0:18:08.50,Dialogue,Setsu,0,0,0,,I'll let you handle things here, then.\N I'll go visit Regulus.
+Dialogue: 99,0:18:09.10,0:18:11.82,Dialogue,Setsu,0,0,0,,There's no telling what Toma might try.
+Dialogue: 99,0:18:12.07,0:18:13.86,Dialogue,Dezastol,0,0,0,,The Beastmen...
+Dialogue: 99,0:18:13.86,0:18:18.71,Dialogue,Dezastol,0,0,0,,Yes, securing the aid of Regulus, King of \Nthe Beastmen, would be most reassuring.
+Dialogue: 99,0:18:19.16,0:18:20.99,Dialogue,Dezastol,0,0,0,,But this all seems very rushed.
+Dialogue: 99,0:18:22.04,0:18:24.97,Dialogue,Setsu,0,0,0,,We do have a promise of peace to keep.
+Dialogue: 99,0:18:24.97,0:18:26.32,Dialogue,Dezastol,0,0,0,,Yes.
+Dialogue: 99,0:18:27.16,0:18:29.86,Dialogue,Dezastol,0,0,0,,We must do this, for our promise.
+Dialogue: 99,0:18:30.96,0:18:33.87,Dialogue,Levia,0,0,0,,Wait, are we leaving right away?
+Dialogue: 99,0:18:33.87,0:18:37.60,Dialogue,Levia,0,0,0,,Am I on ferry duty again?
+Dialogue: 99,0:18:37.60,0:18:41.76,Dialogue,Levia,0,0,0,,I've been running around fighting all night!
+Dialogue: 99,0:18:41.76,0:18:42.97,Dialogue,Ruri,0,0,0,,Setsu-san!
+Dialogue: 99,0:18:44.36,0:18:49.48,Dialogue,Vlad,0,0,0,,Oh, no! The castle is a mess!
+Dialogue: 99,0:18:49.84,0:18:51.49,Dialogue,Ruri,0,0,0,,Did everything work out?
+Dialogue: 99,0:18:51.49,0:18:54.11,Dialogue,Setsu,0,0,0,,Yeah. It was pretty close, though.
+Dialogue: 99,0:18:59.24,0:19:02.03,Dialogue,Ruri,0,0,0,,You should be the one to give this to her.
+Dialogue: 99,0:19:02.62,0:19:04.49,Dialogue,Ruri,0,0,0,,It's important, right?
+Dialogue: 99,0:19:06.56,0:19:08.14,Dialogue,Setsu,0,0,0,,Yeah, thanks.
+Dialogue: 99,0:19:12.30,0:19:13.50,Dialogue,Dezastol,0,0,0,,Setsu?
+Dialogue: 99,0:19:25.68,0:19:27.47,Dialogue,Setsu,0,0,0,,This makes another second time.
+Dialogue: 99,0:19:32.94,0:19:35.38,Dialogue,Dezastol,0,0,0,,Yes, the second time.
+Dialogue: 99,0:19:49.57,0:19:51.18,Dialogue,Dezastol,0,0,0,,{\i1}That's right.
+Dialogue: 99,0:19:53.03,0:19:59.56,Dialogue,Dezastol,0,0,0,,{\i1}Once again, you've taught me \Nwhat it means to live.
+Dialogue: 99,0:21:47.40,0:21:51.80,Dialogue,Dezastol,0,0,0,,I would have loved to accompany you,
+Dialogue: 99,0:21:51.80,0:21:55.62,Dialogue,Dezastol,0,0,0,,but this is no time for the \Nruler to leave her throne.
+Dialogue: 99,0:21:55.62,0:21:59.99,Dialogue,Setsu,0,0,0,,Yeah. Once we get back to peace, \NI'll take you wherever you want.
+Dialogue: 99,0:22:02.61,0:22:05.01,Dialogue,Dezastol,0,0,0,,Yes. That's a promise.
+Dialogue: 99,0:22:05.33,0:22:11.39,Dialogue,Vlad,0,0,0,,Well, um... Just because it's peacetime \Ndoesn't mean the ruler can leave the country...
+Dialogue: 99,0:22:11.74,0:22:14.63,Dialogue,Levia,0,0,0,,That's where you come in.
+Dialogue: 99,0:22:15.15,0:22:17.41,Dialogue,Levia,0,0,0,,Don't make Dezas do all the work.
+Dialogue: 99,0:22:17.41,0:22:18.07,Dialogue,Dezastol,0,0,0,,Yes.
+Dialogue: 99,0:22:18.85,0:22:24.26,Dialogue,Ruri,0,0,0,,The Demon Lord kindly allowed \Nme to open a shop here!
+Dialogue: 99,0:22:24.26,0:22:26.65,Dialogue,Ruri,0,0,0,,My very own shop! It's my dream come true!
+Dialogue: 99,0:22:26.87,0:22:28.06,Dialogue,Setsu,0,0,0,,Are you sure?
+Dialogue: 99,0:22:28.06,0:22:32.09,Dialogue,Dezastol,0,0,0,,She delivered my precious brooch.\NIt's the least I could do.
+Dialogue: 99,0:22:34.65,0:22:36.71,Dialogue,Vlad,0,0,0,,Thanks for the help, Setsu.
+Dialogue: 99,0:22:37.40,0:22:41.02,Dialogue,Vlad,0,0,0,,If you need anything,\N we will race to your side.
+Dialogue: 99,0:22:41.02,0:22:43.81,Dialogue,Setsu,0,0,0,,Yeah. I'll be counting on you.
+Dialogue: 99,0:22:48.61,0:22:50.98,Dialogue,Setsu,0,0,0,,All right, ready to go?
+Dialogue: 99,0:22:50.98,0:22:52.93,Dialogue,Levia,0,0,0,,Oh, very well.
+Dialogue: 99,0:22:52.93,0:22:56.43,Dialogue,Levia,0,0,0,,I'll tag along with you, no matter how far!
+Dialogue: 99,0:22:56.79,0:22:57.67,Dialogue,Setsu,0,0,0,,Yeah!
+Dialogue: 99,0:23:05.02,0:23:11.95,Dialogue,Dezastol,0,0,0,,Be sure to come straight \Nback to me once it's all over!
+Dialogue: 99,0:23:17.19,0:23:19.02,Dialogue,Setsu,0,0,0,,Yeah, see you soon!
+Dialogue: 99,0:23:27.79,0:23:31.04,Dialogue,Dezastol,0,0,0,,Data viitoare: {\i1}Călcându-i \Npentru a doua oară pe urme{\i0}.
 Dialogue: 0,0:01:22.15,0:01:25.52,DedzuyaSigns,,0,0,0,,{\an2\pos(964,929)\fnLinux Libertine\b1\shad1\c&H000000&\alpha&H40&\blur3}Evilbarrow, Castelul Lordului Întunericului
 Dialogue: 1,0:01:22.15,0:01:25.52,DedzuyaSigns,,0,0,0,,{\an2\pos(960,925)\fnLinux Libertine\b1\blur0.5}Evilbarrow, Castelul Lordului Întunericului
 Dialogue: 0,0:04:36.26,0:04:40.97,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\bord4\3c&HFFFFFF&\alpha&HD0&\blur15\fad(800,0)\t(0,1200,0.6,\blur2)}Episodul 4

@@ -30,301 +30,301 @@ Style: ED TL,Dehasta Momentos,50,&H00474949,&H000000FF,&H00FFFFFF,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:10.64,0:00:12.45,Dialogue,,0,0,0,,A fost foarte bună!
-Dialogue: 100,0:00:12.45,0:00:15.06,Dialogue,,0,0,0,,Sunt uimit că merg atât de bine împreună.
-Dialogue: 100,0:00:15.06,0:00:19.56,Dialogue,,0,0,0,,Totuși, nu vom mai putea simți acest gust cât suntem aici, nu?
-Dialogue: 100,0:00:19.56,0:00:21.33,Dialogue,,0,0,0,,Aia a fost tot ce am avut.
-Dialogue: 100,0:00:22.03,0:00:26.67,Dialogue,,0,0,0,,Da, dar există ceva și mai \Nbun ca supa cu anșoa.
-Dialogue: 100,0:00:27.01,0:00:28.67,Dialogue,,0,0,0,,Ce? Serios?
-Dialogue: 100,0:00:29.62,0:00:32.49,Dialogue,,0,0,0,,Plantele sălbatice adunate de Maiestate Sa.
-Dialogue: 100,0:00:32.49,0:00:33.47,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:00:33.86,0:00:36.30,Dialogue,,0,0,0,,Ei bine, așa este. \NSunt destul de bune...
-Dialogue: 100,0:00:36.97,0:00:38.76,Dialogue,,0,0,0,,Plante sălbatice?
-Dialogue: 100,0:00:45.06,0:00:47.24,Dialogue,,0,0,0,,Am mai mâncat înainte...
-Dialogue: 100,0:00:49.08,0:00:53.51,Dialogue,,0,0,0,,dar sunt sigur că cele din regatul vostru, care au parte de mai multă lumină,
-Dialogue: 100,0:00:53.51,0:00:56.49,Dialogue,,0,0,0,,sunt mult mai bune \Ndecât ce am mâncat eu.
-Dialogue: 100,0:00:57.21,0:00:58.45,Dialogue,,0,0,0,,Haideți.
-Dialogue: 100,0:00:58.45,0:00:59.91,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:01:00.36,0:01:03.37,Dialogue,,0,0,0,,Haideți să mergem la \Nadunat de plante sălbatice!
-Dialogue: 100,0:01:21.32,0:01:22.58,Dialogue,,0,0,0,,Maiestate,
-Dialogue: 100,0:01:22.58,0:01:24.73,Dialogue,,0,0,0,,nu trebuie să te grăbești așa de tare.
-Dialogue: 100,0:01:24.73,0:01:28.15,Dialogue,,0,0,0,,Nu, cu cât mai devreme, \Ncu atât mai bine.
-Dialogue: 100,0:01:28.15,0:01:30.19,Dialogue,,0,0,0,,Arăți foarte fericită, Maiestate!
-Dialogue: 100,0:01:30.19,0:01:32.65,Dialogue,,0,0,0,,Da, desigur că—
-Dialogue: 100,0:01:32.65,0:01:33.93,Dialogue,,0,0,0,,Maiestate!
-Dialogue: 100,0:01:35.92,0:01:39.82,Dialogue,,0,0,0,,Sunt bine. Doar m-am împiedicat puțin.
-Dialogue: 100,0:01:40.39,0:01:42.38,Dialogue,,0,0,0,,Te rog să ai grijă.
-Dialogue: 100,0:01:42.38,0:01:45.38,Dialogue,,0,0,0,,Încă nu ți-ai recăpăt puterile complet.
-Dialogue: 100,0:01:46.65,0:01:47.57,Dialogue,,0,0,0,,Știu.
-Dialogue: 100,0:01:55.25,0:01:57.97,Dialogue,,0,0,0,,Haideți! Să mergem!
-Dialogue: 100,0:02:02.01,0:02:07.29,Dialogue,,0,0,0,,Hei, de ce vrei să porți după \Ntine un lucru așa de periculos?
-Dialogue: 100,0:02:09.28,0:02:11.98,Dialogue,,0,0,0,,Nu știi niciodată unde pândește întunericul.
-Dialogue: 100,0:02:13.36,0:02:15.43,Dialogue,,0,0,0,,Exact cum era de așteptat de la un comandant.
-Dialogue: 100,0:02:15.43,0:02:17.44,Dialogue,,0,0,0,,Ești mereu vigilent.
-Dialogue: 100,0:03:55.54,0:03:57.09,Dialogue,,0,0,0,,Pe aici, toată lumea.
-Dialogue: 100,0:04:08.11,0:04:09.61,Dialogue,,0,0,0,,Este uriaș.
-Dialogue: 100,0:04:09.61,0:04:11.69,Dialogue,,0,0,0,,Asta chiar e ceva.
-Dialogue: 100,0:04:12.56,0:04:14.69,Dialogue,,0,0,0,,Mereu aduni plante sălbatice pe aici?
-Dialogue: 100,0:04:14.69,0:04:18.56,Dialogue,,0,0,0,,Da, cresc foarte multe prin zona asta.
-Dialogue: 100,0:04:18.56,0:04:19.61,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:04:21.89,0:04:24.59,Dialogue,,0,0,0,,În regulă, haideți să începem.
-Dialogue: 100,0:04:24.59,0:04:27.93,Dialogue,,0,0,0,,Hei, din moment ce suntem cu toții aici, ce spuneți de un concurs?
-Dialogue: 100,0:04:27.93,0:04:29.13,Dialogue,,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:04:29.13,0:04:32.00,Dialogue,,0,0,0,,Să adunăm pur și simplu nu \Nva fi chiar așa de distractiv.
-Dialogue: 100,0:04:32.00,0:04:34.99,Dialogue,,0,0,0,,Haideți să ne grupăm câte doi și să vedem cine poate aduna cele mai multe.
-Dialogue: 100,0:04:34.99,0:04:36.25,Dialogue,,0,0,0,,Asta sună distractiv!
-Dialogue: 100,0:04:38.44,0:04:42.01,Dialogue,,0,0,0,,Numele acestei plante este iris. \NÎnseamnă "cea care aduce fericire".
-Dialogue: 100,0:04:43.06,0:04:45.47,Dialogue,,0,0,0,,Privește, Prințule!
-Dialogue: 100,0:04:48.09,0:04:48.92,Dialogue,,0,0,0,,Foarte bine!
-Dialogue: 100,0:04:48.92,0:04:50.51,Dialogue,,0,0,0,,Ce idee minunată!
-Dialogue: 100,0:04:50.51,0:04:51.76,Dialogue,,0,0,0,,Tu ce părere ai?
-Dialogue: 100,0:04:51.76,0:04:53.43,Dialogue,,0,0,0,,Nu mă deranjează.
-Dialogue: 100,0:04:53.43,0:04:55.81,Dialogue,,0,0,0,,Cum vom decide grupurile?
-Dialogue: 100,0:04:55.81,0:04:58.01,Dialogue,,0,0,0,,Hm, bună întrebare.
-Dialogue: 100,0:04:59.38,0:05:01.14,Dialogue,,0,0,0,,O, știu.
-Dialogue: 100,0:05:01.14,0:05:05.66,Dialogue,,0,0,0,,Ar trebui să ne împărțim astfel încât să putem promova comunicarea dintre regatele noastre, nu credeți?
-Dialogue: 100,0:05:05.66,0:05:09.17,Dialogue,,0,0,0,,Ce?! O, da! Sunt de acord!
-Dialogue: 100,0:05:09.17,0:05:12.98,Dialogue,,0,0,0,,Asta pare cea mai bună opțiune, nu?
-Dialogue: 100,0:05:14.00,0:05:15.71,Dialogue,,0,0,0,,De ce te-ai întristat așa de brusc?
-Dialogue: 100,0:05:16.92,0:05:20.45,Dialogue,,0,0,0,,Comunicarea este bună, dar pentru siguranță, \Neu ar trebui să fiu cu Maiestatea—
-Dialogue: 100,0:05:20.45,0:05:22.79,Dialogue,,0,0,0,,O, înainte de asta.
-Dialogue: 100,0:05:25.45,0:05:29.85,Dialogue,,0,0,0,,Există câteva lucruri la care trebuie să fiți atenți când adunați plante sălbatice.
-Dialogue: 100,0:05:29.85,0:05:34.85,Dialogue,,0,0,0,,Unele sunt otrăvitoare dacă nu sunt preparate cum trebuie.
-Dialogue: 100,0:05:34.85,0:05:36.82,Dialogue,,0,0,0,,Dar și adunate cum trebuie.
-Dialogue: 100,0:05:38.91,0:05:40.90,Dialogue,,0,0,0,,Spre exemplu, acești muguri de angelică.
-Dialogue: 100,0:05:42.11,0:05:43.82,Dialogue,,0,0,0,,"Muguri de angelică"?
-Dialogue: 100,0:05:43.82,0:05:46.61,Dialogue,,0,0,0,,Arată ca niște arbuști subțiri \Nși spinoși pentru mine.
-Dialogue: 100,0:05:46.61,0:05:48.37,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:05:48.37,0:05:51.49,Dialogue,,0,0,0,,Acești arbuști au muguri la vârfuri.
-Dialogue: 100,0:05:52.28,0:05:53.70,Dialogue,,0,0,0,,Îi tragi astfel și...
-Dialogue: 100,0:05:56.18,0:05:57.31,Dialogue,,0,0,0,,L-ai luat!
-Dialogue: 100,0:05:57.31,0:06:00.28,Dialogue,,0,0,0,,Oh! Ne-ai mai adus așa ceva înainte!
-Dialogue: 100,0:06:00.28,0:06:04.93,Dialogue,,0,0,0,,Da. O, dar mugurii devin \Namari dacă cresc prea mari,
-Dialogue: 100,0:06:04.93,0:06:08.48,Dialogue,,0,0,0,,deci aveți grijă să-i alegeți \Ncam pe la mărimea asta.
-Dialogue: 100,0:06:09.31,0:06:12.18,Dialogue,,0,0,0,,Chiar mai amari ca ultimii?
-Dialogue: 100,0:06:12.18,0:06:16.09,Dialogue,,0,0,0,,Și dacă luați toți mugurii de pe o tulpină,
-Dialogue: 100,0:06:16.09,0:06:19.54,Dialogue,,0,0,0,,arbustul se va usca, deci aveți grijă.
-Dialogue: 100,0:06:19.54,0:06:21.53,Dialogue,,0,0,0,,O, muguri de brusture!
-Dialogue: 100,0:06:24.61,0:06:26.56,Dialogue,,0,0,0,,Îi vedeți?
-Dialogue: 100,0:06:26.56,0:06:29.86,Dialogue,,0,0,0,,Îi răsuciți astfel și îi scoateți din rădăcini.
-Dialogue: 100,0:06:29.86,0:06:31.16,Dialogue,,0,0,0,,L-am luat!
-Dialogue: 100,0:06:31.16,0:06:32.97,Dialogue,,0,0,0,,Uau!
-Dialogue: 100,0:06:32.97,0:06:37.51,Dialogue,,0,0,0,,Mai sunt și ferigi, Pteridium, arpagic
-Dialogue: 100,0:06:37.51,0:06:39.58,Dialogue,,0,0,0,,și o grămadă de alte plante sălbatice.
-Dialogue: 100,0:06:39.58,0:06:45.00,Dialogue,,0,0,0,,Dacă vedeți ceva și nu știți cum să o adunați sau dacă este comestibilă, întrebați-mă.
-Dialogue: 100,0:06:45.00,0:06:48.70,Dialogue,,0,0,0,,Cred că mai bine nu o \Nbăgăm pe regină în concurs.
-Dialogue: 100,0:06:48.70,0:06:49.77,Dialogue,,0,0,0,,Ai dreptate.
-Dialogue: 100,0:06:49.77,0:06:50.81,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:06:50.81,0:06:51.80,Dialogue,,0,0,0,,Da!
-Dialogue: 100,0:06:53.25,0:06:55.26,Dialogue,,0,0,0,,Bun, am format grupurile.
-Dialogue: 100,0:06:55.26,0:06:57.46,Dialogue,,0,0,0,,Să mergem!
-Dialogue: 100,0:06:57.46,0:06:58.51,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:07:04.20,0:07:05.93,Dialogue,,0,0,0,,S-Să dăm tot ce putem.
-Dialogue: 100,0:07:05.93,0:07:07.40,Dialogue,,0,0,0,,D-Da.
-Dialogue: 100,0:07:12.68,0:07:14.36,Dialogue,,0,0,0,,Hai s-o facem, Sheama.
-Dialogue: 100,0:07:14.93,0:07:17.55,Dialogue,,0,0,0,,De ce vorbești dintr-o dată de \Nparcă am fi foarte apropiați?
-Dialogue: 100,0:07:17.55,0:07:21.13,Dialogue,,0,0,0,,De ce nu? Ne va ajuta \Nsă ne întărim prietenia.
-Dialogue: 100,0:07:21.13,0:07:22.12,Dialogue,,0,0,0,,Nu-i așa?
-Dialogue: 100,0:07:23.08,0:07:29.38,Dialogue,,0,0,0,,Abia aștept să lucrez cu tine, \Ndomnule reprezentant.
-Dialogue: 100,0:07:31.08,0:07:32.59,Dialogue,,0,0,0,,Ei bine, cred că este în regulă.
-Dialogue: 100,0:07:35.06,0:07:37.80,Dialogue,,0,0,0,,Bun, haideți să începem!
-Dialogue: 100,0:07:45.45,0:07:46.73,Dialogue,,0,0,0,,Aici.
-Dialogue: 100,0:07:47.20,0:07:49.57,Dialogue,,0,0,0,,Uua! Ce erau astea?
-Dialogue: 100,0:07:49.57,0:07:53.70,Dialogue,,0,0,0,,Maiestatea Sa le-a numit muguri de brusture,
-Dialogue: 100,0:07:53.70,0:07:58.63,Dialogue,,0,0,0,,dar se pare că au crescut \Nmai mari ca cei aleși de ea.
-Dialogue: 100,0:07:58.63,0:08:00.96,Dialogue,,0,0,0,,Și ce contează asta?
-Dialogue: 100,0:08:00.96,0:08:03.44,Dialogue,,0,0,0,,Haide să-i adunăm și să mergem!
-Dialogue: 100,0:08:03.44,0:08:04.79,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:08:05.34,0:08:06.83,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:08:06.83,0:08:09.26,Dialogue,,0,0,0,,Trebuie să verificăm mai \Nîntâi cu Maiestatea Sa.
-Dialogue: 100,0:08:11.20,0:08:12.99,Dialogue,,0,0,0,,Ești o persoană așa serioasă.
-Dialogue: 100,0:08:12.99,0:08:16.26,Dialogue,,0,0,0,,Crezi că asta e o altă diferență între oamenii regatelor noastre?
-Dialogue: 100,0:08:19.58,0:08:22.18,Dialogue,,0,0,0,,Nu prea cred asta.
-Dialogue: 100,0:08:22.18,0:08:24.63,Dialogue,,0,0,0,,Ci că ține de personalitatea fiecăruia.
-Dialogue: 100,0:08:25.47,0:08:26.69,Dialogue,,0,0,0,,Ai dreptate.
-Dialogue: 100,0:08:29.89,0:08:31.94,Dialogue,,0,0,0,,Scuză-mă pentru mai devreme.
-Dialogue: 100,0:08:32.51,0:08:33.96,Dialogue,,0,0,0,,Acum, poftim.
-Dialogue: 100,0:08:33.96,0:08:35.07,Dialogue,,0,0,0,,B-Bine.
-Dialogue: 100,0:08:36.75,0:08:39.17,Dialogue,,0,0,0,,Nu voiai să verificăm mai \Nîntâi cu Maiestatea Sa?
-Dialogue: 100,0:08:39.17,0:08:42.83,Dialogue,,0,0,0,,O diferență ca asta de mărime nu ar trebui să fie o problemă.
-Dialogue: 100,0:08:46.71,0:08:47.99,Dialogue,,0,0,0,,Privește!
-Dialogue: 100,0:08:49.05,0:08:51.26,Dialogue,,0,0,0,,Plantele astea arată ca piciorul păsărilor!
-Dialogue: 100,0:08:52.35,0:08:54.49,Dialogue,,0,0,0,,Crezi că le putem mânca?
-Dialogue: 100,0:08:54.49,0:08:56.14,Dialogue,,0,0,0,,Nu sunt sigur.
-Dialogue: 100,0:08:56.14,0:08:57.57,Dialogue,,0,0,0,,Va trebui să întrebăm.
-Dialogue: 100,0:08:57.57,0:08:58.80,Dialogue,,0,0,0,,Oh!
-Dialogue: 100,0:08:58.80,0:09:00.03,Dialogue,,0,0,0,,Maiestate!
-Dialogue: 100,0:09:04.06,0:09:05.34,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:09:05.34,0:09:07.17,Dialogue,,0,0,0,,Maiestate, privește!
-Dialogue: 100,0:09:07.17,0:09:07.81,Dialogue,,0,0,0,,O, vai,
-Dialogue: 100,0:09:08.83,0:09:11.32,Dialogue,,0,0,0,,astea sunt astilbe piciorul păsărilor.
-Dialogue: 100,0:09:11.32,0:09:13.78,Dialogue,,0,0,0,,Știam eu că arată ca piciorul păsărilor!
-Dialogue: 100,0:09:13.78,0:09:15.36,Dialogue,,0,0,0,,Este comestibilă?
-Dialogue: 100,0:09:15.36,0:09:18.85,Dialogue,,0,0,0,,Da, se fierbe ușor.
-Dialogue: 100,0:09:19.69,0:09:21.24,Dialogue,,0,0,0,,Uau!
-Dialogue: 100,0:09:21.55,0:09:27.05,Dialogue,,0,0,0,,Poți, de asemenea, să usuci rădăcinile la umbră ca să faci un remediu natural.
-Dialogue: 100,0:09:27.05,0:09:30.14,Dialogue,,0,0,0,,Se folosește la tratarea răcelilor.
-Dialogue: 100,0:09:30.14,0:09:32.42,Dialogue,,0,0,0,,Știi multe despre plante.
-Dialogue: 100,0:09:33.81,0:09:35.83,Dialogue,,0,0,0,,O-Oh, nu chiar.
-Dialogue: 100,0:09:37.79,0:09:40.57,Dialogue,,0,0,0,,Nu sunt foarte dificil de cules.
-Dialogue: 100,0:09:40.57,0:09:43.85,Dialogue,,0,0,0,,Trebuie doar să le prindeți \Nde tulpină și să le luați astfel.
-Dialogue: 100,0:09:43.85,0:09:44.84,Dialogue,,0,0,0,,Oh!
-Dialogue: 100,0:09:46.66,0:09:47.88,Dialogue,,0,0,0,,Și aici mai sunt!
-Dialogue: 100,0:09:51.03,0:09:53.55,Dialogue,,0,0,0,,Vă deranjează dacă stau cu voi?
-Dialogue: 100,0:09:55.65,0:09:56.57,Dialogue,,0,0,0,,Deloc.
-Dialogue: 100,0:09:57.21,0:09:59.07,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:10:06.45,0:10:08.56,Dialogue,,0,0,0,,S-Scuză-mă.
-Dialogue: 100,0:10:08.56,0:10:09.50,Dialogue,,0,0,0,,Este în regulă.
-Dialogue: 100,0:10:16.17,0:10:19.48,Dialogue,,0,0,0,,H-Hei, de ce ești cu mâna pe sabie?!
-Dialogue: 100,0:10:19.48,0:10:24.08,Dialogue,,0,0,0,,D-Doar mă asigur că nimeni din Regatul Negru nu îi face nimic Maiestății Sale!
-Dialogue: 100,0:10:24.08,0:10:27.66,Dialogue,,0,0,0,,Chiar crezi că am face ceva?
-Dialogue: 100,0:10:28.10,0:10:30.63,Dialogue,,0,0,0,,N-Nu! Scuză-mă.
-Dialogue: 100,0:10:30.63,0:10:32.82,Dialogue,,0,0,0,,Nu mă îndoiesc de voi sau ceva...
-Dialogue: 100,0:10:33.45,0:10:35.95,Dialogue,,0,0,0,,Sper că nu.
-Dialogue: 100,0:10:42.03,0:10:43.78,Dialogue,,0,0,0,,C-Ce este?
-Dialogue: 100,0:10:46.20,0:10:53.04,Dialogue,,0,0,0,,Voi, oamenii din Regatul Negru, păreți să aveți încredere unii în ceilalți la fel ca noi.
-Dialogue: 100,0:10:54.41,0:10:56.88,Dialogue,,0,0,0,,Asta deoarece mi-am dat seama că...
-Dialogue: 100,0:10:57.86,0:11:02.11,Dialogue,,0,0,0,,el are potențialul de a fi \Nurmătorul nostru rege.
-Dialogue: 100,0:11:04.12,0:11:07.73,Dialogue,,0,0,0,,Dacă abandonatul și omorâtul altor oameni este singura cale de a deveni rege,
-Dialogue: 100,0:11:08.65,0:11:11.73,Dialogue,,0,0,0,,atunci voi găsi alta.
-Dialogue: 100,0:11:12.25,0:11:13.73,Dialogue,,0,0,0,,M-am decis asupra unui ideal,
-Dialogue: 100,0:11:14.85,0:11:18.99,Dialogue,,0,0,0,,deci trebuie să-mi dedic viața \Npentru a-l face realitate!
-Dialogue: 100,0:11:18.99,0:11:20.34,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:11:20.96,0:11:23.01,Dialogue,,0,0,0,,Voi schimba această lume
-Dialogue: 100,0:11:23.70,0:11:26.41,Dialogue,,0,0,0,,astfel încât oamenii să poată fi fericiți!
-Dialogue: 100,0:11:28.67,0:11:31.83,Dialogue,,0,0,0,,Și eu împărtășesc aceleași sentimente.
-Dialogue: 100,0:11:33.81,0:11:36.25,Dialogue,,0,0,0,,Nu mi-am imaginat niciodată că era așa uimitor.
-Dialogue: 100,0:11:39.01,0:11:39.84,Dialogue,,0,0,0,,Adel.
-Dialogue: 100,0:11:39.84,0:11:41.51,Dialogue,,0,0,0,,O, nu!
-Dialogue: 100,0:11:41.51,0:11:43.65,Dialogue,,0,0,0,,Nu mă refeream la Adel!
-Dialogue: 100,0:11:43.65,0:11:45.00,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:11:51.48,0:11:54.19,Dialogue,,0,0,0,,Ați reușit să adunați ceva?
-Dialogue: 100,0:11:54.19,0:11:56.14,Dialogue,,0,0,0,,Da!
-Dialogue: 100,0:11:56.14,0:11:57.15,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:11:57.67,0:12:03.93,Dialogue,,0,0,0,,O, vai! Atât de multe ferigi, crini de toamnă și chiar astilbe piciorul păsărilor!
-Dialogue: 100,0:12:03.93,0:12:06.37,Dialogue,,0,0,0,,Și le-ați adunat atât de frumos!
-Dialogue: 100,0:12:15.41,0:12:16.25,Dialogue,,0,0,0,,Iar aici avem...
-Dialogue: 100,0:12:16.91,0:12:20.55,Dialogue,,0,0,0,,Vai, atât de mulți muguri de brusture!
-Dialogue: 100,0:12:20.55,0:12:23.98,Dialogue,,0,0,0,,Unii dintre ei au început să înflorească puțin,
-Dialogue: 100,0:12:25.19,0:12:27.81,Dialogue,,0,0,0,,dar nu destul încât să fie o problemă.
-Dialogue: 100,0:12:29.15,0:12:30.35,Dialogue,,0,0,0,,Asta e bine.
-Dialogue: 100,0:12:30.35,0:12:31.21,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:12:31.89,0:12:33.26,Dialogue,,0,0,0,,Și...
-Dialogue: 100,0:12:34.73,0:12:37.90,Dialogue,,0,0,0,,O, plante koshiabura.
-Dialogue: 100,0:12:37.90,0:12:41.69,Dialogue,,0,0,0,,Dar... restul nu sunt comestibile.
-Dialogue: 100,0:12:42.43,0:12:46.28,Dialogue,,0,0,0,,Ar fi trebuit să mă întrebați dacă nu erați siguri.
-Dialogue: 100,0:12:46.28,0:12:48.22,Dialogue,,0,0,0,,N-Ne cerem scuze.
-Dialogue: 100,0:12:51.45,0:12:55.73,Dialogue,,0,0,0,,Ei bine, se pare că noi am adunat mai mult.
-Dialogue: 100,0:12:55.73,0:12:58.23,Dialogue,,0,0,0,,Oare? Haide să le numărăm.
-Dialogue: 100,0:12:59.01,0:13:02.04,Dialogue,,0,0,0,,Este evident că noi avem mai mult.
-Dialogue: 100,0:13:06.03,0:13:08.28,Dialogue,,0,0,0,,Iei! Am reușit!
-Dialogue: 100,0:13:08.28,0:13:10.17,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:13:10.17,0:13:11.33,Dialogue,,0,0,0,,Am pierdut.
-Dialogue: 100,0:13:11.33,0:13:13.64,Dialogue,,0,0,0,,Cu siguranță ne-au învins la număr,
-Dialogue: 100,0:13:14.41,0:13:16.84,Dialogue,,0,0,0,,dar noi suntem în fața lor când vine vorba de greutate.
-Dialogue: 100,0:13:17.65,0:13:20.76,Dialogue,,0,0,0,,Ei bine, am dat tot ce am putut. \NNu este asta destul?
-Dialogue: 100,0:13:20.76,0:13:23.31,Dialogue,,0,0,0,,P-Presupun.
-Dialogue: 100,0:13:23.89,0:13:26.61,Dialogue,,0,0,0,,Acum vom folosi plantele \Nsălbatice adunate de voi
-Dialogue: 100,0:13:26.61,0:13:28.32,Dialogue,,0,0,0,,și cele adunate de mine
-Dialogue: 100,0:13:28.32,0:13:30.21,Dialogue,,0,0,0,,ca să gătim.
-Dialogue: 100,0:13:30.21,0:13:31.33,Dialogue,,0,0,0,,Ura!
-Dialogue: 100,0:13:44.85,0:13:46.62,Dialogue,,0,0,0,,De ce zâmbești?
-Dialogue: 100,0:13:46.62,0:13:48.70,Dialogue,,0,0,0,,Maiestatea Sa va găti pentru noi!
-Dialogue: 100,0:13:48.70,0:13:50.25,Dialogue,,0,0,0,,Desigur că trebuie să fii fericit!
-Dialogue: 100,0:13:51.41,0:13:52.26,Dialogue,,0,0,0,,Oh,
-Dialogue: 100,0:13:52.72,0:13:55.81,Dialogue,,0,0,0,,pariez că dacă vom mânca împreună va avea gust și mai bun!
-Dialogue: 100,0:13:57.45,0:13:58.35,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:14:04.31,0:14:07.32,Dialogue,,0,0,0,,Atunci, haideți să aranjăm lucrurile.
-Dialogue: 100,0:14:08.04,0:14:10.78,Dialogue,,0,0,0,,Adel, ați vrea voi băieți să mergeți și să aduceți niște crengi uscate?
-Dialogue: 100,0:14:10.78,0:14:12.22,Dialogue,,0,0,0,,Ce? Sigur!
-Dialogue: 100,0:14:12.22,0:14:13.70,Dialogue,,0,0,0,,Las-o în seama noastră!
-Dialogue: 100,0:14:15.39,0:14:17.53,Dialogue,,0,0,0,,Noi vom merge să luăm apă.
-Dialogue: 100,0:14:17.53,0:14:18.42,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:14:19.34,0:14:22.46,Dialogue,,0,0,0,,Dacă mergeți după apă, \Nștiu eu un loc bun.
-Dialogue: 100,0:14:22.79,0:14:24.36,Dialogue,,0,0,0,,Haideți să mergem împreună.
-Dialogue: 100,0:14:33.49,0:14:35.11,Dialogue,,0,0,0,,Sunt calde.
-Dialogue: 100,0:14:35.11,0:14:38.52,Dialogue,,0,0,0,,Se simt de parcă aceste crengi \Nmoarte încă sunt în viață.
-Dialogue: 100,0:14:39.28,0:14:40.46,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:14:40.46,0:14:44.27,Dialogue,,0,0,0,,Presupun că lumina soarelui \Neste o raritate pentru voi.
-Dialogue: 100,0:14:45.52,0:14:49.06,Dialogue,,0,0,0,,Da. Ocazional, razele strălucesc printre nori...
-Dialogue: 100,0:14:51.44,0:14:55.70,Dialogue,,0,0,0,,...dar nu mi-am imaginat niciodată ca ar putea fi atât de plăcut.
-Dialogue: 100,0:14:57.72,0:15:00.67,Dialogue,,0,0,0,,Simte-te liber să te scalzi cât de mult dorești cât timp ești aici.
-Dialogue: 100,0:15:12.19,0:15:15.15,Dialogue,,0,0,0,,Se spală pentru înlăturarea gustului amar.
-Dialogue: 100,0:15:16.31,0:15:19.87,Dialogue,,0,0,0,,Așa le pregătim noi în regatul nostru.
-Dialogue: 100,0:15:21.60,0:15:24.65,Dialogue,,0,0,0,,Uau, nu este complicat deloc.
-Dialogue: 100,0:15:24.98,0:15:30.71,Dialogue,,0,0,0,,În regatul nostru, noi trebuie să le lăsăm peste noapte sau sunt prea amare ca să poată fi mâncate.
-Dialogue: 100,0:15:31.80,0:15:35.11,Dialogue,,0,0,0,,Acesta este un alt beneficiu al Sufletului Pur.
-Dialogue: 100,0:15:35.11,0:15:37.13,Dialogue,,0,0,0,,Chiar este avantajos.
-Dialogue: 100,0:15:38.81,0:15:41.54,Dialogue,,0,0,0,,O, vă rog să o luați înainte.
-Dialogue: 100,0:15:42.37,0:15:44.55,Dialogue,,0,0,0,,Voi veni și eu curând.
-Dialogue: 100,0:15:44.55,0:15:46.76,Dialogue,,0,0,0,,Bine. Vom pregăti lucrurile.
-Dialogue: 100,0:15:56.01,0:15:59.11,Dialogue,,0,0,0,,Hei, astea ar trebui să fie destule, nu?
-Dialogue: 100,0:15:59.11,0:16:01.03,Dialogue,,0,0,0,,Nu, nici pe departe.
-Dialogue: 100,0:16:02.14,0:16:05.18,Dialogue,,0,0,0,,Avem nevoie de măcar câte am adunat eu, \Nsau focul se va stinge imediat.
-Dialogue: 100,0:16:12.24,0:16:13.80,Dialogue,,0,0,0,,Theo?
-Dialogue: 100,0:16:13.80,0:16:15.17,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:16:16.07,0:16:17.86,Dialogue,,0,0,0,,Theo... lipsește?!
-Dialogue: 100,0:16:19.64,0:16:21.87,Dialogue,,0,0,0,,Acum că spui asta, \Nnu l-am văzut recent.
-Dialogue: 100,0:16:21.87,0:16:25.06,Dialogue,,0,0,0,,La naiba, unde s-a dus de unul singur?!
-Dialogue: 100,0:16:26.76,0:16:27.75,Dialogue,,0,0,0,,Eu voi merge în direcția aia!
-Dialogue: 100,0:16:27.75,0:16:28.92,Dialogue,,0,0,0,,Tu verifică acolo.
-Dialogue: 100,0:16:32.64,0:16:34.06,Dialogue,,0,0,0,,Theo!
-Dialogue: 100,0:16:34.06,0:16:36.64,Dialogue,,0,0,0,,Hei, Theo!
-Dialogue: 100,0:17:12.38,0:17:13.65,Dialogue,,0,0,0,,Regină a Luminii!
-Dialogue: 100,0:17:13.65,0:17:14.59,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:17:16.36,0:17:16.84,Dialogue,,0,0,0,,Theo—
-Dialogue: 100,0:17:41.06,0:17:42.33,Dialogue,,0,0,0,,L-ai văzut pe Theo?!
-Dialogue: 100,0:17:44.09,0:17:47.47,Dialogue,,0,0,0,,Dacă-l cauți pe Theo, \Nel s-a întors deja.
-Dialogue: 100,0:17:50.07,0:17:52.67,Dialogue,,0,0,0,,Ducea multe crengi uscate.
-Dialogue: 100,0:17:57.49,0:17:59.60,Dialogue,,0,0,0,,A plecat cu Sheama și Groza.
-Dialogue: 100,0:18:00.77,0:18:02.28,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:18:02.28,0:18:03.44,Dialogue,,0,0,0,,Ce ușurare.
-Dialogue: 100,0:18:06.37,0:18:08.19,Dialogue,,0,0,0,,Îmi pare foarte rău!
-Dialogue: 100,0:18:20.13,0:18:21.77,Dialogue,,0,0,0,,Îți mulțumesc.
-Dialogue: 100,0:18:23.73,0:18:28.12,Dialogue,,0,0,0,,Ți-ai făcut griji pentru Theo.
-Dialogue: 100,0:18:32.69,0:18:33.71,Dialogue,,0,0,0,,Nu este mare lucru.
-Dialogue: 100,0:18:38.92,0:18:40.91,Dialogue,,0,0,0,,Haide să ne uscăm hainele.
-Dialogue: 100,0:18:48.14,0:18:49.23,Dialogue,,0,0,0,,Phious!
-Dialogue: 100,0:18:50.08,0:18:51.74,Dialogue,,0,0,0,,Theo. Deci te întorsesei?
-Dialogue: 100,0:18:51.74,0:18:57.67,Dialogue,,0,0,0,,Da! Tu mi-ai spus să mă întorc de unde am plecat dacă mă separ vreodată de tine.
-Dialogue: 100,0:18:57.67,0:18:59.28,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:18:59.28,0:19:01.92,Dialogue,,0,0,0,,Serios? Și eu care îmi făceam griji.
-Dialogue: 100,0:19:08.89,0:19:11.41,Dialogue,,0,0,0,,Îmi cer scuze pentru așteptare.
-Dialogue: 100,0:19:11.95,0:19:13.34,Dialogue,,0,0,0,,Bine ai revenit.
-Dialogue: 100,0:19:18.57,0:19:20.89,Dialogue,,0,0,0,,Văd că v-ați împrietenit destul de bine.
-Dialogue: 100,0:19:22.30,0:19:24.48,Dialogue,,0,0,0,,Nu este așa.
-Dialogue: 100,0:19:25.16,0:19:26.26,Dialogue,,0,0,0,,Oh.
-Dialogue: 100,0:19:26.26,0:19:29.89,Dialogue,,0,0,0,,D-După toată munca depusă, \Ntrebuie să gătim ceva delicios!
-Dialogue: 100,0:19:31.21,0:19:32.78,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:19:32.78,0:19:35.18,Dialogue,,0,0,0,,Te rog să mă lași să te ajut.
-Dialogue: 100,0:19:35.18,0:19:38.19,Dialogue,,0,0,0,,Ce?! D-Desigur.
-Dialogue: 100,0:19:38.19,0:19:42.07,Dialogue,,0,0,0,,Mâncare gătită de \NRegina Luminii? Abia aștept!
-Dialogue: 100,0:19:56.85,0:19:59.84,Dialogue,,0,0,0,,Ei bine? Cum vi se par plantele \Nsălbatice din regatul nostru?
-Dialogue: 100,0:19:59.84,0:20:02.72,Dialogue,,0,0,0,,Nu sunt la fel de bune ca mâncarea de ieri?
-Dialogue: 100,0:20:04.06,0:20:06.47,Dialogue,,0,0,0,,Cu siguranță! Sunt foarte bune!
-Dialogue: 100,0:20:07.68,0:20:09.41,Dialogue,,0,0,0,,Mai avem o grămadă.
-Dialogue: 100,0:20:11.39,0:20:13.19,Dialogue,,0,0,0,,Nu trebuie să vă grăbiți.
-Dialogue: 100,0:20:15.79,0:20:18.87,Dialogue,,0,0,0,,Cum ți se par? Sunt puțin amare?
-Dialogue: 100,0:20:18.87,0:20:20.90,Dialogue,,0,0,0,,Nu, sunt delicioase.
-Dialogue: 100,0:20:21.59,0:20:25.70,Dialogue,,0,0,0,,Sunt mult mai puțin amare decât ceea ce mâncăm noi acolo jos.
-Dialogue: 100,0:20:25.70,0:20:28.47,Dialogue,,0,0,0,,Și miros foarte bine.
-Dialogue: 100,0:20:30.92,0:20:32.04,Dialogue,,0,0,0,,Mă bucur să aud asta.
-Dialogue: 100,0:20:37.13,0:20:38.36,Dialogue,,0,0,0,,Ai încercat astea?
-Dialogue: 100,0:20:46.87,0:20:48.60,Dialogue,,0,0,0,,Sunt așa de bune.
-Dialogue: 100,0:20:48.60,0:20:52.35,Dialogue,,0,0,0,,Dar dacă ar fi avut puțin mai multă sare...
-Dialogue: 100,0:20:52.35,0:20:55.76,Dialogue,,0,0,0,,Eu cred că sunt destul \Nde delicioase și așa.
-Dialogue: 100,0:20:57.07,0:20:59.82,Dialogue,,0,0,0,,Totuși, putem încerca.
-Dialogue: 100,0:21:00.41,0:21:01.62,Dialogue,,0,0,0,,Deci {\i1}aveți{\i0} sare!
-Dialogue: 100,0:21:01.62,0:21:03.89,Dialogue,,0,0,0,,Totuși, nu putem face rost de prea multă.
-Dialogue: 100,0:21:15.50,0:21:16.95,Dialogue,,0,0,0,,Sunt foarte bune!
-Dialogue: 100,0:21:16.95,0:21:18.46,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:21:18.46,0:21:21.44,Dialogue,,0,0,0,,Știam eu că asta le lipsea.
-Dialogue: 100,0:21:22.04,0:21:26.88,Dialogue,,0,0,0,,Presupun că va trebui să semnăm un tratat de comerț cât mai curând posibil.
-Dialogue: 100,0:21:26.88,0:21:31.47,Dialogue,,0,0,0,,Îmi ceri cumva să duc acea cerere acasă, drept reprezentant?
-Dialogue: 100,0:21:32.93,0:21:36.35,Dialogue,,0,0,0,,Dar nu putem lua această decizie doar noi.
-Dialogue: 100,0:21:39.81,0:21:42.94,Dialogue,,0,0,0,,Și nu doar mâncare și bunuri.
-Dialogue: 100,0:21:42.94,0:21:45.13,Dialogue,,0,0,0,,Sper că
-Dialogue: 100,0:21:45.13,0:21:50.35,Dialogue,,0,0,0,,vom putea să petrecem timp cu toții astfel de acum înainte.
+Dialogue: 99,0:00:10.64,0:00:12.45,Dialogue,,0,0,0,,A fost foarte bună!
+Dialogue: 99,0:00:12.45,0:00:15.06,Dialogue,,0,0,0,,Sunt uimit că merg atât de bine împreună.
+Dialogue: 99,0:00:15.06,0:00:19.56,Dialogue,,0,0,0,,Totuși, nu vom mai putea simți acest gust cât suntem aici, nu?
+Dialogue: 99,0:00:19.56,0:00:21.33,Dialogue,,0,0,0,,Aia a fost tot ce am avut.
+Dialogue: 99,0:00:22.03,0:00:26.67,Dialogue,,0,0,0,,Da, dar există ceva și mai \Nbun ca supa cu anșoa.
+Dialogue: 99,0:00:27.01,0:00:28.67,Dialogue,,0,0,0,,Ce? Serios?
+Dialogue: 99,0:00:29.62,0:00:32.49,Dialogue,,0,0,0,,Plantele sălbatice adunate de Maiestate Sa.
+Dialogue: 99,0:00:32.49,0:00:33.47,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:00:33.86,0:00:36.30,Dialogue,,0,0,0,,Ei bine, așa este. \NSunt destul de bune...
+Dialogue: 99,0:00:36.97,0:00:38.76,Dialogue,,0,0,0,,Plante sălbatice?
+Dialogue: 99,0:00:45.06,0:00:47.24,Dialogue,,0,0,0,,Am mai mâncat înainte...
+Dialogue: 99,0:00:49.08,0:00:53.51,Dialogue,,0,0,0,,dar sunt sigur că cele din regatul vostru, care au parte de mai multă lumină,
+Dialogue: 99,0:00:53.51,0:00:56.49,Dialogue,,0,0,0,,sunt mult mai bune \Ndecât ce am mâncat eu.
+Dialogue: 99,0:00:57.21,0:00:58.45,Dialogue,,0,0,0,,Haideți.
+Dialogue: 99,0:00:58.45,0:00:59.91,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:01:00.36,0:01:03.37,Dialogue,,0,0,0,,Haideți să mergem la \Nadunat de plante sălbatice!
+Dialogue: 99,0:01:21.32,0:01:22.58,Dialogue,,0,0,0,,Maiestate,
+Dialogue: 99,0:01:22.58,0:01:24.73,Dialogue,,0,0,0,,nu trebuie să te grăbești așa de tare.
+Dialogue: 99,0:01:24.73,0:01:28.15,Dialogue,,0,0,0,,Nu, cu cât mai devreme, \Ncu atât mai bine.
+Dialogue: 99,0:01:28.15,0:01:30.19,Dialogue,,0,0,0,,Arăți foarte fericită, Maiestate!
+Dialogue: 99,0:01:30.19,0:01:32.65,Dialogue,,0,0,0,,Da, desigur că—
+Dialogue: 99,0:01:32.65,0:01:33.93,Dialogue,,0,0,0,,Maiestate!
+Dialogue: 99,0:01:35.92,0:01:39.82,Dialogue,,0,0,0,,Sunt bine. Doar m-am împiedicat puțin.
+Dialogue: 99,0:01:40.39,0:01:42.38,Dialogue,,0,0,0,,Te rog să ai grijă.
+Dialogue: 99,0:01:42.38,0:01:45.38,Dialogue,,0,0,0,,Încă nu ți-ai recăpăt puterile complet.
+Dialogue: 99,0:01:46.65,0:01:47.57,Dialogue,,0,0,0,,Știu.
+Dialogue: 99,0:01:55.25,0:01:57.97,Dialogue,,0,0,0,,Haideți! Să mergem!
+Dialogue: 99,0:02:02.01,0:02:07.29,Dialogue,,0,0,0,,Hei, de ce vrei să porți după \Ntine un lucru așa de periculos?
+Dialogue: 99,0:02:09.28,0:02:11.98,Dialogue,,0,0,0,,Nu știi niciodată unde pândește întunericul.
+Dialogue: 99,0:02:13.36,0:02:15.43,Dialogue,,0,0,0,,Exact cum era de așteptat de la un comandant.
+Dialogue: 99,0:02:15.43,0:02:17.44,Dialogue,,0,0,0,,Ești mereu vigilent.
+Dialogue: 99,0:03:55.54,0:03:57.09,Dialogue,,0,0,0,,Pe aici, toată lumea.
+Dialogue: 99,0:04:08.11,0:04:09.61,Dialogue,,0,0,0,,Este uriaș.
+Dialogue: 99,0:04:09.61,0:04:11.69,Dialogue,,0,0,0,,Asta chiar e ceva.
+Dialogue: 99,0:04:12.56,0:04:14.69,Dialogue,,0,0,0,,Mereu aduni plante sălbatice pe aici?
+Dialogue: 99,0:04:14.69,0:04:18.56,Dialogue,,0,0,0,,Da, cresc foarte multe prin zona asta.
+Dialogue: 99,0:04:18.56,0:04:19.61,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:04:21.89,0:04:24.59,Dialogue,,0,0,0,,În regulă, haideți să începem.
+Dialogue: 99,0:04:24.59,0:04:27.93,Dialogue,,0,0,0,,Hei, din moment ce suntem cu toții aici, ce spuneți de un concurs?
+Dialogue: 99,0:04:27.93,0:04:29.13,Dialogue,,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:04:29.13,0:04:32.00,Dialogue,,0,0,0,,Să adunăm pur și simplu nu \Nva fi chiar așa de distractiv.
+Dialogue: 99,0:04:32.00,0:04:34.99,Dialogue,,0,0,0,,Haideți să ne grupăm câte doi și să vedem cine poate aduna cele mai multe.
+Dialogue: 99,0:04:34.99,0:04:36.25,Dialogue,,0,0,0,,Asta sună distractiv!
+Dialogue: 99,0:04:38.44,0:04:42.01,Dialogue,,0,0,0,,Numele acestei plante este iris. \NÎnseamnă "cea care aduce fericire".
+Dialogue: 99,0:04:43.06,0:04:45.47,Dialogue,,0,0,0,,Privește, Prințule!
+Dialogue: 99,0:04:48.09,0:04:48.92,Dialogue,,0,0,0,,Foarte bine!
+Dialogue: 99,0:04:48.92,0:04:50.51,Dialogue,,0,0,0,,Ce idee minunată!
+Dialogue: 99,0:04:50.51,0:04:51.76,Dialogue,,0,0,0,,Tu ce părere ai?
+Dialogue: 99,0:04:51.76,0:04:53.43,Dialogue,,0,0,0,,Nu mă deranjează.
+Dialogue: 99,0:04:53.43,0:04:55.81,Dialogue,,0,0,0,,Cum vom decide grupurile?
+Dialogue: 99,0:04:55.81,0:04:58.01,Dialogue,,0,0,0,,Hm, bună întrebare.
+Dialogue: 99,0:04:59.38,0:05:01.14,Dialogue,,0,0,0,,O, știu.
+Dialogue: 99,0:05:01.14,0:05:05.66,Dialogue,,0,0,0,,Ar trebui să ne împărțim astfel încât să putem promova comunicarea dintre regatele noastre, nu credeți?
+Dialogue: 99,0:05:05.66,0:05:09.17,Dialogue,,0,0,0,,Ce?! O, da! Sunt de acord!
+Dialogue: 99,0:05:09.17,0:05:12.98,Dialogue,,0,0,0,,Asta pare cea mai bună opțiune, nu?
+Dialogue: 99,0:05:14.00,0:05:15.71,Dialogue,,0,0,0,,De ce te-ai întristat așa de brusc?
+Dialogue: 99,0:05:16.92,0:05:20.45,Dialogue,,0,0,0,,Comunicarea este bună, dar pentru siguranță, \Neu ar trebui să fiu cu Maiestatea—
+Dialogue: 99,0:05:20.45,0:05:22.79,Dialogue,,0,0,0,,O, înainte de asta.
+Dialogue: 99,0:05:25.45,0:05:29.85,Dialogue,,0,0,0,,Există câteva lucruri la care trebuie să fiți atenți când adunați plante sălbatice.
+Dialogue: 99,0:05:29.85,0:05:34.85,Dialogue,,0,0,0,,Unele sunt otrăvitoare dacă nu sunt preparate cum trebuie.
+Dialogue: 99,0:05:34.85,0:05:36.82,Dialogue,,0,0,0,,Dar și adunate cum trebuie.
+Dialogue: 99,0:05:38.91,0:05:40.90,Dialogue,,0,0,0,,Spre exemplu, acești muguri de angelică.
+Dialogue: 99,0:05:42.11,0:05:43.82,Dialogue,,0,0,0,,"Muguri de angelică"?
+Dialogue: 99,0:05:43.82,0:05:46.61,Dialogue,,0,0,0,,Arată ca niște arbuști subțiri \Nși spinoși pentru mine.
+Dialogue: 99,0:05:46.61,0:05:48.37,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:05:48.37,0:05:51.49,Dialogue,,0,0,0,,Acești arbuști au muguri la vârfuri.
+Dialogue: 99,0:05:52.28,0:05:53.70,Dialogue,,0,0,0,,Îi tragi astfel și...
+Dialogue: 99,0:05:56.18,0:05:57.31,Dialogue,,0,0,0,,L-ai luat!
+Dialogue: 99,0:05:57.31,0:06:00.28,Dialogue,,0,0,0,,Oh! Ne-ai mai adus așa ceva înainte!
+Dialogue: 99,0:06:00.28,0:06:04.93,Dialogue,,0,0,0,,Da. O, dar mugurii devin \Namari dacă cresc prea mari,
+Dialogue: 99,0:06:04.93,0:06:08.48,Dialogue,,0,0,0,,deci aveți grijă să-i alegeți \Ncam pe la mărimea asta.
+Dialogue: 99,0:06:09.31,0:06:12.18,Dialogue,,0,0,0,,Chiar mai amari ca ultimii?
+Dialogue: 99,0:06:12.18,0:06:16.09,Dialogue,,0,0,0,,Și dacă luați toți mugurii de pe o tulpină,
+Dialogue: 99,0:06:16.09,0:06:19.54,Dialogue,,0,0,0,,arbustul se va usca, deci aveți grijă.
+Dialogue: 99,0:06:19.54,0:06:21.53,Dialogue,,0,0,0,,O, muguri de brusture!
+Dialogue: 99,0:06:24.61,0:06:26.56,Dialogue,,0,0,0,,Îi vedeți?
+Dialogue: 99,0:06:26.56,0:06:29.86,Dialogue,,0,0,0,,Îi răsuciți astfel și îi scoateți din rădăcini.
+Dialogue: 99,0:06:29.86,0:06:31.16,Dialogue,,0,0,0,,L-am luat!
+Dialogue: 99,0:06:31.16,0:06:32.97,Dialogue,,0,0,0,,Uau!
+Dialogue: 99,0:06:32.97,0:06:37.51,Dialogue,,0,0,0,,Mai sunt și ferigi, Pteridium, arpagic
+Dialogue: 99,0:06:37.51,0:06:39.58,Dialogue,,0,0,0,,și o grămadă de alte plante sălbatice.
+Dialogue: 99,0:06:39.58,0:06:45.00,Dialogue,,0,0,0,,Dacă vedeți ceva și nu știți cum să o adunați sau dacă este comestibilă, întrebați-mă.
+Dialogue: 99,0:06:45.00,0:06:48.70,Dialogue,,0,0,0,,Cred că mai bine nu o \Nbăgăm pe regină în concurs.
+Dialogue: 99,0:06:48.70,0:06:49.77,Dialogue,,0,0,0,,Ai dreptate.
+Dialogue: 99,0:06:49.77,0:06:50.81,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:06:50.81,0:06:51.80,Dialogue,,0,0,0,,Da!
+Dialogue: 99,0:06:53.25,0:06:55.26,Dialogue,,0,0,0,,Bun, am format grupurile.
+Dialogue: 99,0:06:55.26,0:06:57.46,Dialogue,,0,0,0,,Să mergem!
+Dialogue: 99,0:06:57.46,0:06:58.51,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:07:04.20,0:07:05.93,Dialogue,,0,0,0,,S-Să dăm tot ce putem.
+Dialogue: 99,0:07:05.93,0:07:07.40,Dialogue,,0,0,0,,D-Da.
+Dialogue: 99,0:07:12.68,0:07:14.36,Dialogue,,0,0,0,,Hai s-o facem, Sheama.
+Dialogue: 99,0:07:14.93,0:07:17.55,Dialogue,,0,0,0,,De ce vorbești dintr-o dată de \Nparcă am fi foarte apropiați?
+Dialogue: 99,0:07:17.55,0:07:21.13,Dialogue,,0,0,0,,De ce nu? Ne va ajuta \Nsă ne întărim prietenia.
+Dialogue: 99,0:07:21.13,0:07:22.12,Dialogue,,0,0,0,,Nu-i așa?
+Dialogue: 99,0:07:23.08,0:07:29.38,Dialogue,,0,0,0,,Abia aștept să lucrez cu tine, \Ndomnule reprezentant.
+Dialogue: 99,0:07:31.08,0:07:32.59,Dialogue,,0,0,0,,Ei bine, cred că este în regulă.
+Dialogue: 99,0:07:35.06,0:07:37.80,Dialogue,,0,0,0,,Bun, haideți să începem!
+Dialogue: 99,0:07:45.45,0:07:46.73,Dialogue,,0,0,0,,Aici.
+Dialogue: 99,0:07:47.20,0:07:49.57,Dialogue,,0,0,0,,Uua! Ce erau astea?
+Dialogue: 99,0:07:49.57,0:07:53.70,Dialogue,,0,0,0,,Maiestatea Sa le-a numit muguri de brusture,
+Dialogue: 99,0:07:53.70,0:07:58.63,Dialogue,,0,0,0,,dar se pare că au crescut \Nmai mari ca cei aleși de ea.
+Dialogue: 99,0:07:58.63,0:08:00.96,Dialogue,,0,0,0,,Și ce contează asta?
+Dialogue: 99,0:08:00.96,0:08:03.44,Dialogue,,0,0,0,,Haide să-i adunăm și să mergem!
+Dialogue: 99,0:08:03.44,0:08:04.79,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:08:05.34,0:08:06.83,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:08:06.83,0:08:09.26,Dialogue,,0,0,0,,Trebuie să verificăm mai \Nîntâi cu Maiestatea Sa.
+Dialogue: 99,0:08:11.20,0:08:12.99,Dialogue,,0,0,0,,Ești o persoană așa serioasă.
+Dialogue: 99,0:08:12.99,0:08:16.26,Dialogue,,0,0,0,,Crezi că asta e o altă diferență între oamenii regatelor noastre?
+Dialogue: 99,0:08:19.58,0:08:22.18,Dialogue,,0,0,0,,Nu prea cred asta.
+Dialogue: 99,0:08:22.18,0:08:24.63,Dialogue,,0,0,0,,Ci că ține de personalitatea fiecăruia.
+Dialogue: 99,0:08:25.47,0:08:26.69,Dialogue,,0,0,0,,Ai dreptate.
+Dialogue: 99,0:08:29.89,0:08:31.94,Dialogue,,0,0,0,,Scuză-mă pentru mai devreme.
+Dialogue: 99,0:08:32.51,0:08:33.96,Dialogue,,0,0,0,,Acum, poftim.
+Dialogue: 99,0:08:33.96,0:08:35.07,Dialogue,,0,0,0,,B-Bine.
+Dialogue: 99,0:08:36.75,0:08:39.17,Dialogue,,0,0,0,,Nu voiai să verificăm mai \Nîntâi cu Maiestatea Sa?
+Dialogue: 99,0:08:39.17,0:08:42.83,Dialogue,,0,0,0,,O diferență ca asta de mărime nu ar trebui să fie o problemă.
+Dialogue: 99,0:08:46.71,0:08:47.99,Dialogue,,0,0,0,,Privește!
+Dialogue: 99,0:08:49.05,0:08:51.26,Dialogue,,0,0,0,,Plantele astea arată ca piciorul păsărilor!
+Dialogue: 99,0:08:52.35,0:08:54.49,Dialogue,,0,0,0,,Crezi că le putem mânca?
+Dialogue: 99,0:08:54.49,0:08:56.14,Dialogue,,0,0,0,,Nu sunt sigur.
+Dialogue: 99,0:08:56.14,0:08:57.57,Dialogue,,0,0,0,,Va trebui să întrebăm.
+Dialogue: 99,0:08:57.57,0:08:58.80,Dialogue,,0,0,0,,Oh!
+Dialogue: 99,0:08:58.80,0:09:00.03,Dialogue,,0,0,0,,Maiestate!
+Dialogue: 99,0:09:04.06,0:09:05.34,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:09:05.34,0:09:07.17,Dialogue,,0,0,0,,Maiestate, privește!
+Dialogue: 99,0:09:07.17,0:09:07.81,Dialogue,,0,0,0,,O, vai,
+Dialogue: 99,0:09:08.83,0:09:11.32,Dialogue,,0,0,0,,astea sunt astilbe piciorul păsărilor.
+Dialogue: 99,0:09:11.32,0:09:13.78,Dialogue,,0,0,0,,Știam eu că arată ca piciorul păsărilor!
+Dialogue: 99,0:09:13.78,0:09:15.36,Dialogue,,0,0,0,,Este comestibilă?
+Dialogue: 99,0:09:15.36,0:09:18.85,Dialogue,,0,0,0,,Da, se fierbe ușor.
+Dialogue: 99,0:09:19.69,0:09:21.24,Dialogue,,0,0,0,,Uau!
+Dialogue: 99,0:09:21.55,0:09:27.05,Dialogue,,0,0,0,,Poți, de asemenea, să usuci rădăcinile la umbră ca să faci un remediu natural.
+Dialogue: 99,0:09:27.05,0:09:30.14,Dialogue,,0,0,0,,Se folosește la tratarea răcelilor.
+Dialogue: 99,0:09:30.14,0:09:32.42,Dialogue,,0,0,0,,Știi multe despre plante.
+Dialogue: 99,0:09:33.81,0:09:35.83,Dialogue,,0,0,0,,O-Oh, nu chiar.
+Dialogue: 99,0:09:37.79,0:09:40.57,Dialogue,,0,0,0,,Nu sunt foarte dificil de cules.
+Dialogue: 99,0:09:40.57,0:09:43.85,Dialogue,,0,0,0,,Trebuie doar să le prindeți \Nde tulpină și să le luați astfel.
+Dialogue: 99,0:09:43.85,0:09:44.84,Dialogue,,0,0,0,,Oh!
+Dialogue: 99,0:09:46.66,0:09:47.88,Dialogue,,0,0,0,,Și aici mai sunt!
+Dialogue: 99,0:09:51.03,0:09:53.55,Dialogue,,0,0,0,,Vă deranjează dacă stau cu voi?
+Dialogue: 99,0:09:55.65,0:09:56.57,Dialogue,,0,0,0,,Deloc.
+Dialogue: 99,0:09:57.21,0:09:59.07,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:10:06.45,0:10:08.56,Dialogue,,0,0,0,,S-Scuză-mă.
+Dialogue: 99,0:10:08.56,0:10:09.50,Dialogue,,0,0,0,,Este în regulă.
+Dialogue: 99,0:10:16.17,0:10:19.48,Dialogue,,0,0,0,,H-Hei, de ce ești cu mâna pe sabie?!
+Dialogue: 99,0:10:19.48,0:10:24.08,Dialogue,,0,0,0,,D-Doar mă asigur că nimeni din Regatul Negru nu îi face nimic Maiestății Sale!
+Dialogue: 99,0:10:24.08,0:10:27.66,Dialogue,,0,0,0,,Chiar crezi că am face ceva?
+Dialogue: 99,0:10:28.10,0:10:30.63,Dialogue,,0,0,0,,N-Nu! Scuză-mă.
+Dialogue: 99,0:10:30.63,0:10:32.82,Dialogue,,0,0,0,,Nu mă îndoiesc de voi sau ceva...
+Dialogue: 99,0:10:33.45,0:10:35.95,Dialogue,,0,0,0,,Sper că nu.
+Dialogue: 99,0:10:42.03,0:10:43.78,Dialogue,,0,0,0,,C-Ce este?
+Dialogue: 99,0:10:46.20,0:10:53.04,Dialogue,,0,0,0,,Voi, oamenii din Regatul Negru, păreți să aveți încredere unii în ceilalți la fel ca noi.
+Dialogue: 99,0:10:54.41,0:10:56.88,Dialogue,,0,0,0,,Asta deoarece mi-am dat seama că...
+Dialogue: 99,0:10:57.86,0:11:02.11,Dialogue,,0,0,0,,el are potențialul de a fi \Nurmătorul nostru rege.
+Dialogue: 99,0:11:04.12,0:11:07.73,Dialogue,,0,0,0,,Dacă abandonatul și omorâtul altor oameni este singura cale de a deveni rege,
+Dialogue: 99,0:11:08.65,0:11:11.73,Dialogue,,0,0,0,,atunci voi găsi alta.
+Dialogue: 99,0:11:12.25,0:11:13.73,Dialogue,,0,0,0,,M-am decis asupra unui ideal,
+Dialogue: 99,0:11:14.85,0:11:18.99,Dialogue,,0,0,0,,deci trebuie să-mi dedic viața \Npentru a-l face realitate!
+Dialogue: 99,0:11:18.99,0:11:20.34,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:11:20.96,0:11:23.01,Dialogue,,0,0,0,,Voi schimba această lume
+Dialogue: 99,0:11:23.70,0:11:26.41,Dialogue,,0,0,0,,astfel încât oamenii să poată fi fericiți!
+Dialogue: 99,0:11:28.67,0:11:31.83,Dialogue,,0,0,0,,Și eu împărtășesc aceleași sentimente.
+Dialogue: 99,0:11:33.81,0:11:36.25,Dialogue,,0,0,0,,Nu mi-am imaginat niciodată că era așa uimitor.
+Dialogue: 99,0:11:39.01,0:11:39.84,Dialogue,,0,0,0,,Adel.
+Dialogue: 99,0:11:39.84,0:11:41.51,Dialogue,,0,0,0,,O, nu!
+Dialogue: 99,0:11:41.51,0:11:43.65,Dialogue,,0,0,0,,Nu mă refeream la Adel!
+Dialogue: 99,0:11:43.65,0:11:45.00,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:11:51.48,0:11:54.19,Dialogue,,0,0,0,,Ați reușit să adunați ceva?
+Dialogue: 99,0:11:54.19,0:11:56.14,Dialogue,,0,0,0,,Da!
+Dialogue: 99,0:11:56.14,0:11:57.15,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:11:57.67,0:12:03.93,Dialogue,,0,0,0,,O, vai! Atât de multe ferigi, crini de toamnă și chiar astilbe piciorul păsărilor!
+Dialogue: 99,0:12:03.93,0:12:06.37,Dialogue,,0,0,0,,Și le-ați adunat atât de frumos!
+Dialogue: 99,0:12:15.41,0:12:16.25,Dialogue,,0,0,0,,Iar aici avem...
+Dialogue: 99,0:12:16.91,0:12:20.55,Dialogue,,0,0,0,,Vai, atât de mulți muguri de brusture!
+Dialogue: 99,0:12:20.55,0:12:23.98,Dialogue,,0,0,0,,Unii dintre ei au început să înflorească puțin,
+Dialogue: 99,0:12:25.19,0:12:27.81,Dialogue,,0,0,0,,dar nu destul încât să fie o problemă.
+Dialogue: 99,0:12:29.15,0:12:30.35,Dialogue,,0,0,0,,Asta e bine.
+Dialogue: 99,0:12:30.35,0:12:31.21,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:12:31.89,0:12:33.26,Dialogue,,0,0,0,,Și...
+Dialogue: 99,0:12:34.73,0:12:37.90,Dialogue,,0,0,0,,O, plante koshiabura.
+Dialogue: 99,0:12:37.90,0:12:41.69,Dialogue,,0,0,0,,Dar... restul nu sunt comestibile.
+Dialogue: 99,0:12:42.43,0:12:46.28,Dialogue,,0,0,0,,Ar fi trebuit să mă întrebați dacă nu erați siguri.
+Dialogue: 99,0:12:46.28,0:12:48.22,Dialogue,,0,0,0,,N-Ne cerem scuze.
+Dialogue: 99,0:12:51.45,0:12:55.73,Dialogue,,0,0,0,,Ei bine, se pare că noi am adunat mai mult.
+Dialogue: 99,0:12:55.73,0:12:58.23,Dialogue,,0,0,0,,Oare? Haide să le numărăm.
+Dialogue: 99,0:12:59.01,0:13:02.04,Dialogue,,0,0,0,,Este evident că noi avem mai mult.
+Dialogue: 99,0:13:06.03,0:13:08.28,Dialogue,,0,0,0,,Iei! Am reușit!
+Dialogue: 99,0:13:08.28,0:13:10.17,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:13:10.17,0:13:11.33,Dialogue,,0,0,0,,Am pierdut.
+Dialogue: 99,0:13:11.33,0:13:13.64,Dialogue,,0,0,0,,Cu siguranță ne-au învins la număr,
+Dialogue: 99,0:13:14.41,0:13:16.84,Dialogue,,0,0,0,,dar noi suntem în fața lor când vine vorba de greutate.
+Dialogue: 99,0:13:17.65,0:13:20.76,Dialogue,,0,0,0,,Ei bine, am dat tot ce am putut. \NNu este asta destul?
+Dialogue: 99,0:13:20.76,0:13:23.31,Dialogue,,0,0,0,,P-Presupun.
+Dialogue: 99,0:13:23.89,0:13:26.61,Dialogue,,0,0,0,,Acum vom folosi plantele \Nsălbatice adunate de voi
+Dialogue: 99,0:13:26.61,0:13:28.32,Dialogue,,0,0,0,,și cele adunate de mine
+Dialogue: 99,0:13:28.32,0:13:30.21,Dialogue,,0,0,0,,ca să gătim.
+Dialogue: 99,0:13:30.21,0:13:31.33,Dialogue,,0,0,0,,Ura!
+Dialogue: 99,0:13:44.85,0:13:46.62,Dialogue,,0,0,0,,De ce zâmbești?
+Dialogue: 99,0:13:46.62,0:13:48.70,Dialogue,,0,0,0,,Maiestatea Sa va găti pentru noi!
+Dialogue: 99,0:13:48.70,0:13:50.25,Dialogue,,0,0,0,,Desigur că trebuie să fii fericit!
+Dialogue: 99,0:13:51.41,0:13:52.26,Dialogue,,0,0,0,,Oh,
+Dialogue: 99,0:13:52.72,0:13:55.81,Dialogue,,0,0,0,,pariez că dacă vom mânca împreună va avea gust și mai bun!
+Dialogue: 99,0:13:57.45,0:13:58.35,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:14:04.31,0:14:07.32,Dialogue,,0,0,0,,Atunci, haideți să aranjăm lucrurile.
+Dialogue: 99,0:14:08.04,0:14:10.78,Dialogue,,0,0,0,,Adel, ați vrea voi băieți să mergeți și să aduceți niște crengi uscate?
+Dialogue: 99,0:14:10.78,0:14:12.22,Dialogue,,0,0,0,,Ce? Sigur!
+Dialogue: 99,0:14:12.22,0:14:13.70,Dialogue,,0,0,0,,Las-o în seama noastră!
+Dialogue: 99,0:14:15.39,0:14:17.53,Dialogue,,0,0,0,,Noi vom merge să luăm apă.
+Dialogue: 99,0:14:17.53,0:14:18.42,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:14:19.34,0:14:22.46,Dialogue,,0,0,0,,Dacă mergeți după apă, \Nștiu eu un loc bun.
+Dialogue: 99,0:14:22.79,0:14:24.36,Dialogue,,0,0,0,,Haideți să mergem împreună.
+Dialogue: 99,0:14:33.49,0:14:35.11,Dialogue,,0,0,0,,Sunt calde.
+Dialogue: 99,0:14:35.11,0:14:38.52,Dialogue,,0,0,0,,Se simt de parcă aceste crengi \Nmoarte încă sunt în viață.
+Dialogue: 99,0:14:39.28,0:14:40.46,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:14:40.46,0:14:44.27,Dialogue,,0,0,0,,Presupun că lumina soarelui \Neste o raritate pentru voi.
+Dialogue: 99,0:14:45.52,0:14:49.06,Dialogue,,0,0,0,,Da. Ocazional, razele strălucesc printre nori...
+Dialogue: 99,0:14:51.44,0:14:55.70,Dialogue,,0,0,0,,...dar nu mi-am imaginat niciodată ca ar putea fi atât de plăcut.
+Dialogue: 99,0:14:57.72,0:15:00.67,Dialogue,,0,0,0,,Simte-te liber să te scalzi cât de mult dorești cât timp ești aici.
+Dialogue: 99,0:15:12.19,0:15:15.15,Dialogue,,0,0,0,,Se spală pentru înlăturarea gustului amar.
+Dialogue: 99,0:15:16.31,0:15:19.87,Dialogue,,0,0,0,,Așa le pregătim noi în regatul nostru.
+Dialogue: 99,0:15:21.60,0:15:24.65,Dialogue,,0,0,0,,Uau, nu este complicat deloc.
+Dialogue: 99,0:15:24.98,0:15:30.71,Dialogue,,0,0,0,,În regatul nostru, noi trebuie să le lăsăm peste noapte sau sunt prea amare ca să poată fi mâncate.
+Dialogue: 99,0:15:31.80,0:15:35.11,Dialogue,,0,0,0,,Acesta este un alt beneficiu al Sufletului Pur.
+Dialogue: 99,0:15:35.11,0:15:37.13,Dialogue,,0,0,0,,Chiar este avantajos.
+Dialogue: 99,0:15:38.81,0:15:41.54,Dialogue,,0,0,0,,O, vă rog să o luați înainte.
+Dialogue: 99,0:15:42.37,0:15:44.55,Dialogue,,0,0,0,,Voi veni și eu curând.
+Dialogue: 99,0:15:44.55,0:15:46.76,Dialogue,,0,0,0,,Bine. Vom pregăti lucrurile.
+Dialogue: 99,0:15:56.01,0:15:59.11,Dialogue,,0,0,0,,Hei, astea ar trebui să fie destule, nu?
+Dialogue: 99,0:15:59.11,0:16:01.03,Dialogue,,0,0,0,,Nu, nici pe departe.
+Dialogue: 99,0:16:02.14,0:16:05.18,Dialogue,,0,0,0,,Avem nevoie de măcar câte am adunat eu, \Nsau focul se va stinge imediat.
+Dialogue: 99,0:16:12.24,0:16:13.80,Dialogue,,0,0,0,,Theo?
+Dialogue: 99,0:16:13.80,0:16:15.17,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:16:16.07,0:16:17.86,Dialogue,,0,0,0,,Theo... lipsește?!
+Dialogue: 99,0:16:19.64,0:16:21.87,Dialogue,,0,0,0,,Acum că spui asta, \Nnu l-am văzut recent.
+Dialogue: 99,0:16:21.87,0:16:25.06,Dialogue,,0,0,0,,La naiba, unde s-a dus de unul singur?!
+Dialogue: 99,0:16:26.76,0:16:27.75,Dialogue,,0,0,0,,Eu voi merge în direcția aia!
+Dialogue: 99,0:16:27.75,0:16:28.92,Dialogue,,0,0,0,,Tu verifică acolo.
+Dialogue: 99,0:16:32.64,0:16:34.06,Dialogue,,0,0,0,,Theo!
+Dialogue: 99,0:16:34.06,0:16:36.64,Dialogue,,0,0,0,,Hei, Theo!
+Dialogue: 99,0:17:12.38,0:17:13.65,Dialogue,,0,0,0,,Regină a Luminii!
+Dialogue: 99,0:17:13.65,0:17:14.59,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:17:16.36,0:17:16.84,Dialogue,,0,0,0,,Theo—
+Dialogue: 99,0:17:41.06,0:17:42.33,Dialogue,,0,0,0,,L-ai văzut pe Theo?!
+Dialogue: 99,0:17:44.09,0:17:47.47,Dialogue,,0,0,0,,Dacă-l cauți pe Theo, \Nel s-a întors deja.
+Dialogue: 99,0:17:50.07,0:17:52.67,Dialogue,,0,0,0,,Ducea multe crengi uscate.
+Dialogue: 99,0:17:57.49,0:17:59.60,Dialogue,,0,0,0,,A plecat cu Sheama și Groza.
+Dialogue: 99,0:18:00.77,0:18:02.28,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:18:02.28,0:18:03.44,Dialogue,,0,0,0,,Ce ușurare.
+Dialogue: 99,0:18:06.37,0:18:08.19,Dialogue,,0,0,0,,Îmi pare foarte rău!
+Dialogue: 99,0:18:20.13,0:18:21.77,Dialogue,,0,0,0,,Îți mulțumesc.
+Dialogue: 99,0:18:23.73,0:18:28.12,Dialogue,,0,0,0,,Ți-ai făcut griji pentru Theo.
+Dialogue: 99,0:18:32.69,0:18:33.71,Dialogue,,0,0,0,,Nu este mare lucru.
+Dialogue: 99,0:18:38.92,0:18:40.91,Dialogue,,0,0,0,,Haide să ne uscăm hainele.
+Dialogue: 99,0:18:48.14,0:18:49.23,Dialogue,,0,0,0,,Phious!
+Dialogue: 99,0:18:50.08,0:18:51.74,Dialogue,,0,0,0,,Theo. Deci te întorsesei?
+Dialogue: 99,0:18:51.74,0:18:57.67,Dialogue,,0,0,0,,Da! Tu mi-ai spus să mă întorc de unde am plecat dacă mă separ vreodată de tine.
+Dialogue: 99,0:18:57.67,0:18:59.28,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:18:59.28,0:19:01.92,Dialogue,,0,0,0,,Serios? Și eu care îmi făceam griji.
+Dialogue: 99,0:19:08.89,0:19:11.41,Dialogue,,0,0,0,,Îmi cer scuze pentru așteptare.
+Dialogue: 99,0:19:11.95,0:19:13.34,Dialogue,,0,0,0,,Bine ai revenit.
+Dialogue: 99,0:19:18.57,0:19:20.89,Dialogue,,0,0,0,,Văd că v-ați împrietenit destul de bine.
+Dialogue: 99,0:19:22.30,0:19:24.48,Dialogue,,0,0,0,,Nu este așa.
+Dialogue: 99,0:19:25.16,0:19:26.26,Dialogue,,0,0,0,,Oh.
+Dialogue: 99,0:19:26.26,0:19:29.89,Dialogue,,0,0,0,,D-După toată munca depusă, \Ntrebuie să gătim ceva delicios!
+Dialogue: 99,0:19:31.21,0:19:32.78,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:19:32.78,0:19:35.18,Dialogue,,0,0,0,,Te rog să mă lași să te ajut.
+Dialogue: 99,0:19:35.18,0:19:38.19,Dialogue,,0,0,0,,Ce?! D-Desigur.
+Dialogue: 99,0:19:38.19,0:19:42.07,Dialogue,,0,0,0,,Mâncare gătită de \NRegina Luminii? Abia aștept!
+Dialogue: 99,0:19:56.85,0:19:59.84,Dialogue,,0,0,0,,Ei bine? Cum vi se par plantele \Nsălbatice din regatul nostru?
+Dialogue: 99,0:19:59.84,0:20:02.72,Dialogue,,0,0,0,,Nu sunt la fel de bune ca mâncarea de ieri?
+Dialogue: 99,0:20:04.06,0:20:06.47,Dialogue,,0,0,0,,Cu siguranță! Sunt foarte bune!
+Dialogue: 99,0:20:07.68,0:20:09.41,Dialogue,,0,0,0,,Mai avem o grămadă.
+Dialogue: 99,0:20:11.39,0:20:13.19,Dialogue,,0,0,0,,Nu trebuie să vă grăbiți.
+Dialogue: 99,0:20:15.79,0:20:18.87,Dialogue,,0,0,0,,Cum ți se par? Sunt puțin amare?
+Dialogue: 99,0:20:18.87,0:20:20.90,Dialogue,,0,0,0,,Nu, sunt delicioase.
+Dialogue: 99,0:20:21.59,0:20:25.70,Dialogue,,0,0,0,,Sunt mult mai puțin amare decât ceea ce mâncăm noi acolo jos.
+Dialogue: 99,0:20:25.70,0:20:28.47,Dialogue,,0,0,0,,Și miros foarte bine.
+Dialogue: 99,0:20:30.92,0:20:32.04,Dialogue,,0,0,0,,Mă bucur să aud asta.
+Dialogue: 99,0:20:37.13,0:20:38.36,Dialogue,,0,0,0,,Ai încercat astea?
+Dialogue: 99,0:20:46.87,0:20:48.60,Dialogue,,0,0,0,,Sunt așa de bune.
+Dialogue: 99,0:20:48.60,0:20:52.35,Dialogue,,0,0,0,,Dar dacă ar fi avut puțin mai multă sare...
+Dialogue: 99,0:20:52.35,0:20:55.76,Dialogue,,0,0,0,,Eu cred că sunt destul \Nde delicioase și așa.
+Dialogue: 99,0:20:57.07,0:20:59.82,Dialogue,,0,0,0,,Totuși, putem încerca.
+Dialogue: 99,0:21:00.41,0:21:01.62,Dialogue,,0,0,0,,Deci {\i1}aveți{\i0} sare!
+Dialogue: 99,0:21:01.62,0:21:03.89,Dialogue,,0,0,0,,Totuși, nu putem face rost de prea multă.
+Dialogue: 99,0:21:15.50,0:21:16.95,Dialogue,,0,0,0,,Sunt foarte bune!
+Dialogue: 99,0:21:16.95,0:21:18.46,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:21:18.46,0:21:21.44,Dialogue,,0,0,0,,Știam eu că asta le lipsea.
+Dialogue: 99,0:21:22.04,0:21:26.88,Dialogue,,0,0,0,,Presupun că va trebui să semnăm un tratat de comerț cât mai curând posibil.
+Dialogue: 99,0:21:26.88,0:21:31.47,Dialogue,,0,0,0,,Îmi ceri cumva să duc acea cerere acasă, drept reprezentant?
+Dialogue: 99,0:21:32.93,0:21:36.35,Dialogue,,0,0,0,,Dar nu putem lua această decizie doar noi.
+Dialogue: 99,0:21:39.81,0:21:42.94,Dialogue,,0,0,0,,Și nu doar mâncare și bunuri.
+Dialogue: 99,0:21:42.94,0:21:45.13,Dialogue,,0,0,0,,Sper că
+Dialogue: 99,0:21:45.13,0:21:50.35,Dialogue,,0,0,0,,vom putea să petrecem timp cu toții astfel de acum înainte.
 Dialogue: 0,0:02:36.59,0:02:39.47,DedzuyaSigns,,0,0,0,,{\an2\pos(680,120)\fnLinux Libertine Semibold\fs100\fsp1\alpha&H30&\blur20\fad(650,0)\t(0,650,0.5,\blur2)}SHIRONEKO PROJECT
 Dialogue: 1,0:02:36.59,0:02:39.47,DedzuyaSigns,,0,0,0,,{\an2\pos(680,120)\fnLinux Libertine Semibold\fs100\fsp1\alpha&H90&\blur20\t(0,650,\c&H422800&)\t(0,650,0.5,\blur0.4)\t(0,650,\alpha&H00&)}S{\c&HFFFFFF&\t(0,650,\c&H4E2600&)}H{\c&HFFFFFF&\t(0,650,\c&H5A2300&)}I{\c&HFFFFFF&\t(0,650,\c&H672101&)}R{\c&HFFFFFF&\t(0,650,\c&H731E01&)}O{\c&HFFFFFF&\t(0,650,\c&H7F1C01&)}N{\c&HFFFFFF&\t(0,650,\c&H8C1A02&)}E{\c&HFFFFFF&\t(0,650,\c&H981702&)}K{\c&HFFFFFF&\t(0,650,\c&HA41502&)}O {\c&HFFFFFF&\t(0,650,\c&H8A1008&)}P{\c&HFFFFFF&\t(0,650,\c&H7E0E0B&)}R{\c&HFFFFFF&\t(0,650,\c&H710B0E&)}O{\c&HFFFFFF&\t(0,650,\c&H640810&)}J{\c&HFFFFFF&\t(0,650,\c&H580613&)}E{\c&HFFFFFF&\t(0,650,\c&H4B0416&)}C{\c&HFFFFFF&\t(0,650,\c&H3E0119&)}T
 Dialogue: 0,0:03:48.04,0:03:48.08,DedzuyaSigns,,0,0,0,,{\an2\pos(650,235)\fnLinux Libertine Semibold\fs52\fsp1\1c&H000102&\blur1}SHI{\1c&H010102&}RONEKO P{\1c&H010101&}ROJEC{\1c&H000101&}T

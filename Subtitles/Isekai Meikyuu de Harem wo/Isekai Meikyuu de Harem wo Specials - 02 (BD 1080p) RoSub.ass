@@ -26,54 +26,54 @@ Style: Dialogue,Fontin Sans,74,&H00FFFFFF,&H000000FF,&H003E0066,&HB4000000,-1,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Episod}
 Comment: 0,0:04:32.84,0:04:32.88,Dialogue,chptr,0,0,0,,{Credite}
-Dialogue: 100,0:00:20.35,0:00:21.83,Dialogue,MICHIO,0,0,0,,A-Așteaptă puțin!
-Dialogue: 100,0:00:22.12,0:00:23.65,Dialogue,ROXANNE,0,0,0,,Te-am frecat prea tare?
-Dialogue: 100,0:00:23.65,0:00:25.38,Dialogue,MICHIO,0,0,0,,Nu, nu e asta.
-Dialogue: 100,0:00:25.38,0:00:29.81,Dialogue,MICHIO,0,0,0,,{\i1}Era atât de plăcut încât mai aveam puțin și îmi dădeam drumul.
-Dialogue: 100,0:00:29.81,0:00:31.55,Dialogue,MICHIO,0,0,0,,Întoarce-te.
-Dialogue: 100,0:00:32.64,0:00:37.14,Dialogue,MICHIO,0,0,0,,În poziția asta te \Npot spăla și pe spate.
-Dialogue: 100,0:00:38.09,0:00:40.84,Dialogue,ROXANNE,0,0,0,,D-Da, stăpâne, ai dreptate.
-Dialogue: 100,0:00:45.80,0:00:49.07,Dialogue,ROXANNE,0,0,0,,Stăpâne, cum se simte?
-Dialogue: 100,0:00:50.50,0:00:54.44,Dialogue,MICHIO,0,0,0,,Roxanne, ești fierbinte și alunecoasă.
-Dialogue: 100,0:00:55.09,0:00:56.46,Dialogue,ROXANNE,0,0,0,,Stăpâne!
-Dialogue: 100,0:00:58.12,0:00:59.73,Dialogue,MICHIO,0,0,0,,Voi începe să mă mișc.
-Dialogue: 100,0:00:59.73,0:01:02.54,Dialogue,ROXANNE,0,0,0,,Bine, curăță-mi fiecare \Npărticică a corpului!
-Dialogue: 100,0:01:07.72,0:01:10.43,Dialogue,MICHIO,0,0,0,,Bănuiesc că asta nu e cea mai bună poziție până la urmă.
-Dialogue: 100,0:01:10.43,0:01:12.18,Dialogue,ROXANNE,0,0,0,,Atunci...
-Dialogue: 100,0:01:12.18,0:01:14.00,Dialogue,ROXANNE,0,0,0,,dacă fac asta?
-Dialogue: 100,0:01:17.20,0:01:21.61,Dialogue,ROXANNE,0,0,0,,Ar trebui să fie mai bine, \Nchiar dacă e alunecos.
-Dialogue: 100,0:01:25.32,0:01:26.34,Dialogue,MICHIO,0,0,0,,Haide să încercăm.
-Dialogue: 100,0:01:26.34,0:01:26.94,Dialogue,ROXANNE,0,0,0,,Da, stăpâne.
-Dialogue: 100,0:01:32.04,0:01:33.94,Dialogue,ROXANNE,0,0,0,,Da, așa e mult mai bine.
-Dialogue: 100,0:01:36.27,0:01:40.58,Dialogue,ROXANNE,0,0,0,,Stăpâne, te voi spăla și eu pe tine apoi.
-Dialogue: 100,0:01:46.96,0:01:49.87,Dialogue,ROXANNE,0,0,0,,O parte din spumă a cazut în cadă.
-Dialogue: 100,0:01:52.64,0:01:55.66,Dialogue,MICHIO,0,0,0,,Nu-ți face griji, te voi da cu oricât de mult săpun va fi nevoie.
-Dialogue: 100,0:01:55.66,0:01:58.43,Dialogue,MICHIO,0,0,0,,Iar apoi, vei putea face și \Ntu la fel cu mine, Roxanne.
-Dialogue: 100,0:01:59.74,0:02:01.08,Dialogue,ROXANNE,0,0,0,,Stăpâne!
-Dialogue: 100,0:02:03.55,0:02:06.39,Dialogue,ROXANNE,0,0,0,,Stăpâne, e rândul meu acum.
-Dialogue: 100,0:02:09.61,0:02:11.24,Dialogue,MICHIO,0,0,0,,Roxanne?
-Dialogue: 100,0:02:11.24,0:02:14.00,Dialogue,ROXANNE,0,0,0,,Apreciez că ai mereu grijă de mine.
-Dialogue: 100,0:02:14.54,0:02:17.61,Dialogue,ROXANNE,0,0,0,,E rândul meu să-ți întorc favorul.
-Dialogue: 100,0:02:19.41,0:02:20.68,Dialogue,ROXANNE,0,0,0,,E plăcut?
-Dialogue: 100,0:02:20.68,0:02:21.75,Dialogue,MICHIO,0,0,0,,D-Da.
-Dialogue: 100,0:02:21.75,0:02:25.70,Dialogue,ROXANNE,0,0,0,,Nu e nevoie să te abții.
-Dialogue: 100,0:02:30.74,0:02:33.26,Dialogue,MICHIO,0,0,0,,Roxanne, sunt...
-Dialogue: 100,0:02:34.42,0:02:35.82,Dialogue,ROXANNE,0,0,0,,Am înteles, stăpâne.
-Dialogue: 100,0:02:39.94,0:02:42.18,Dialogue,ROXANNE,0,0,0,,Sunt cumva prea grea?
-Dialogue: 100,0:02:42.18,0:02:43.44,Dialogue,MICHIO,0,0,0,,Nu, ești perfectă.
-Dialogue: 100,0:02:44.00,0:02:46.88,Dialogue,ROXANNE,0,0,0,,În acest caz, voi începe să mă mișc.
-Dialogue: 100,0:02:57.57,0:03:00.35,Dialogue,ROXANNE,0,0,0,,Cum este, stăpâne?
-Dialogue: 100,0:03:00.35,0:03:03.41,Dialogue,ROXANNE,0,0,0,,Te fac să simți plăcere?
-Dialogue: 100,0:03:03.41,0:03:04.52,Dialogue,MICHIO,0,0,0,,Da.
-Dialogue: 100,0:03:04.52,0:03:05.87,Dialogue,MICHIO,0,0,0,,Ești minunată.
-Dialogue: 100,0:03:07.78,0:03:09.78,Dialogue,MICHIO,0,0,0,,Te voi spăla și eu, Roxanne.
-Dialogue: 100,0:03:11.79,0:03:13.59,Dialogue,MICHIO,0,0,0,,Exact ca mai devreme.
-Dialogue: 100,0:03:20.36,0:03:23.77,Dialogue,ROXANNE,0,0,0,,Stăpâne, aproape...
-Dialogue: 100,0:03:28.02,0:03:31.45,Dialogue,ROXANNE,0,0,0,,aproape te-am spălat complet!
-Dialogue: 100,0:04:07.72,0:04:10.29,Dialogue,ROXANNE,0,0,0,,E atât de plăcut și \Nproduce atâta spumă.
-Dialogue: 100,0:04:10.29,0:04:13.69,Dialogue,ROXANNE,0,0,0,,Săpunul chiar e uimitor!
-Dialogue: 100,0:04:13.69,0:04:16.26,Dialogue,ROXANNE,0,0,0,,Mă bucur că-ți place.
-Dialogue: 100,0:04:16.26,0:04:21.15,Dialogue,ROXANNE,0,0,0,,Mă simt atât de revigorată de fiecare dacă când facem baie împreună.
-Dialogue: 100,0:04:21.15,0:04:23.08,Dialogue,MICHIO,0,0,0,,Chiar și dacă rămânem fără săpun?
-Dialogue: 100,0:04:23.98,0:04:26.24,Dialogue,MICHIO,0,0,0,,Ești așa de frumoasă, Roxanne.
-Dialogue: 100,0:04:27.09,0:04:29.26,Dialogue,ROXANNE,0,0,0,,Mulțumesc, stăpâne.
+Dialogue: 99,0:00:20.35,0:00:21.83,Dialogue,MICHIO,0,0,0,,A-Așteaptă puțin!
+Dialogue: 99,0:00:22.12,0:00:23.65,Dialogue,ROXANNE,0,0,0,,Te-am frecat prea tare?
+Dialogue: 99,0:00:23.65,0:00:25.38,Dialogue,MICHIO,0,0,0,,Nu, nu e asta.
+Dialogue: 99,0:00:25.38,0:00:29.81,Dialogue,MICHIO,0,0,0,,{\i1}Era atât de plăcut încât mai aveam puțin și îmi dădeam drumul.
+Dialogue: 99,0:00:29.81,0:00:31.55,Dialogue,MICHIO,0,0,0,,Întoarce-te.
+Dialogue: 99,0:00:32.64,0:00:37.14,Dialogue,MICHIO,0,0,0,,În poziția asta te \Npot spăla și pe spate.
+Dialogue: 99,0:00:38.09,0:00:40.84,Dialogue,ROXANNE,0,0,0,,D-Da, stăpâne, ai dreptate.
+Dialogue: 99,0:00:45.80,0:00:49.07,Dialogue,ROXANNE,0,0,0,,Stăpâne, cum se simte?
+Dialogue: 99,0:00:50.50,0:00:54.44,Dialogue,MICHIO,0,0,0,,Roxanne, ești fierbinte și alunecoasă.
+Dialogue: 99,0:00:55.09,0:00:56.46,Dialogue,ROXANNE,0,0,0,,Stăpâne!
+Dialogue: 99,0:00:58.12,0:00:59.73,Dialogue,MICHIO,0,0,0,,Voi începe să mă mișc.
+Dialogue: 99,0:00:59.73,0:01:02.54,Dialogue,ROXANNE,0,0,0,,Bine, curăță-mi fiecare \Npărticică a corpului!
+Dialogue: 99,0:01:07.72,0:01:10.43,Dialogue,MICHIO,0,0,0,,Bănuiesc că asta nu e cea mai bună poziție până la urmă.
+Dialogue: 99,0:01:10.43,0:01:12.18,Dialogue,ROXANNE,0,0,0,,Atunci...
+Dialogue: 99,0:01:12.18,0:01:14.00,Dialogue,ROXANNE,0,0,0,,dacă fac asta?
+Dialogue: 99,0:01:17.20,0:01:21.61,Dialogue,ROXANNE,0,0,0,,Ar trebui să fie mai bine, \Nchiar dacă e alunecos.
+Dialogue: 99,0:01:25.32,0:01:26.34,Dialogue,MICHIO,0,0,0,,Haide să încercăm.
+Dialogue: 99,0:01:26.34,0:01:26.94,Dialogue,ROXANNE,0,0,0,,Da, stăpâne.
+Dialogue: 99,0:01:32.04,0:01:33.94,Dialogue,ROXANNE,0,0,0,,Da, așa e mult mai bine.
+Dialogue: 99,0:01:36.27,0:01:40.58,Dialogue,ROXANNE,0,0,0,,Stăpâne, te voi spăla și eu pe tine apoi.
+Dialogue: 99,0:01:46.96,0:01:49.87,Dialogue,ROXANNE,0,0,0,,O parte din spumă a cazut în cadă.
+Dialogue: 99,0:01:52.64,0:01:55.66,Dialogue,MICHIO,0,0,0,,Nu-ți face griji, te voi da cu oricât de mult săpun va fi nevoie.
+Dialogue: 99,0:01:55.66,0:01:58.43,Dialogue,MICHIO,0,0,0,,Iar apoi, vei putea face și \Ntu la fel cu mine, Roxanne.
+Dialogue: 99,0:01:59.74,0:02:01.08,Dialogue,ROXANNE,0,0,0,,Stăpâne!
+Dialogue: 99,0:02:03.55,0:02:06.39,Dialogue,ROXANNE,0,0,0,,Stăpâne, e rândul meu acum.
+Dialogue: 99,0:02:09.61,0:02:11.24,Dialogue,MICHIO,0,0,0,,Roxanne?
+Dialogue: 99,0:02:11.24,0:02:14.00,Dialogue,ROXANNE,0,0,0,,Apreciez că ai mereu grijă de mine.
+Dialogue: 99,0:02:14.54,0:02:17.61,Dialogue,ROXANNE,0,0,0,,E rândul meu să-ți întorc favorul.
+Dialogue: 99,0:02:19.41,0:02:20.68,Dialogue,ROXANNE,0,0,0,,E plăcut?
+Dialogue: 99,0:02:20.68,0:02:21.75,Dialogue,MICHIO,0,0,0,,D-Da.
+Dialogue: 99,0:02:21.75,0:02:25.70,Dialogue,ROXANNE,0,0,0,,Nu e nevoie să te abții.
+Dialogue: 99,0:02:30.74,0:02:33.26,Dialogue,MICHIO,0,0,0,,Roxanne, sunt...
+Dialogue: 99,0:02:34.42,0:02:35.82,Dialogue,ROXANNE,0,0,0,,Am înteles, stăpâne.
+Dialogue: 99,0:02:39.94,0:02:42.18,Dialogue,ROXANNE,0,0,0,,Sunt cumva prea grea?
+Dialogue: 99,0:02:42.18,0:02:43.44,Dialogue,MICHIO,0,0,0,,Nu, ești perfectă.
+Dialogue: 99,0:02:44.00,0:02:46.88,Dialogue,ROXANNE,0,0,0,,În acest caz, voi începe să mă mișc.
+Dialogue: 99,0:02:57.57,0:03:00.35,Dialogue,ROXANNE,0,0,0,,Cum este, stăpâne?
+Dialogue: 99,0:03:00.35,0:03:03.41,Dialogue,ROXANNE,0,0,0,,Te fac să simți plăcere?
+Dialogue: 99,0:03:03.41,0:03:04.52,Dialogue,MICHIO,0,0,0,,Da.
+Dialogue: 99,0:03:04.52,0:03:05.87,Dialogue,MICHIO,0,0,0,,Ești minunată.
+Dialogue: 99,0:03:07.78,0:03:09.78,Dialogue,MICHIO,0,0,0,,Te voi spăla și eu, Roxanne.
+Dialogue: 99,0:03:11.79,0:03:13.59,Dialogue,MICHIO,0,0,0,,Exact ca mai devreme.
+Dialogue: 99,0:03:20.36,0:03:23.77,Dialogue,ROXANNE,0,0,0,,Stăpâne, aproape...
+Dialogue: 99,0:03:28.02,0:03:31.45,Dialogue,ROXANNE,0,0,0,,aproape te-am spălat complet!
+Dialogue: 99,0:04:07.72,0:04:10.29,Dialogue,ROXANNE,0,0,0,,E atât de plăcut și \Nproduce atâta spumă.
+Dialogue: 99,0:04:10.29,0:04:13.69,Dialogue,ROXANNE,0,0,0,,Săpunul chiar e uimitor!
+Dialogue: 99,0:04:13.69,0:04:16.26,Dialogue,ROXANNE,0,0,0,,Mă bucur că-ți place.
+Dialogue: 99,0:04:16.26,0:04:21.15,Dialogue,ROXANNE,0,0,0,,Mă simt atât de revigorată de fiecare dacă când facem baie împreună.
+Dialogue: 99,0:04:21.15,0:04:23.08,Dialogue,MICHIO,0,0,0,,Chiar și dacă rămânem fără săpun?
+Dialogue: 99,0:04:23.98,0:04:26.24,Dialogue,MICHIO,0,0,0,,Ești așa de frumoasă, Roxanne.
+Dialogue: 99,0:04:27.09,0:04:29.26,Dialogue,ROXANNE,0,0,0,,Mulțumesc, stăpâne.

@@ -42,247 +42,247 @@ Style: ED TL,Bencoleng,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:01:00.41,0:01:01.87,Default,,0,0,0,,"Colega mai mare îndoaie."
-Dialogue: 100,0:01:02.04,0:01:04.41,Default,,0,0,0,,{\i1}Am venit la sala de mese \Npentru prima oară, dar...
-Dialogue: 100,0:01:04.41,0:01:07.01,Default,,0,0,0,,{\i1}Simți o atmosferă izolantă \Ncând vii aici singur.
-Dialogue: 100,0:01:08.70,0:01:10.20,Default,,0,0,0,,Să mâncăm.
-Dialogue: 100,0:01:10.20,0:01:13.52,Default,,0,0,0,,{\i1}Simt că am văzut \Nceva ce nu ar fi trebuit.
-Dialogue: 100,0:01:13.52,0:01:14.74,Default,,0,0,0,,Hei...
-Dialogue: 100,0:01:14.74,0:01:17.06,Default,,0,0,0,,Oh? Cât de drăguț să te \Nîntâlnesc aici, asistentule!
-Dialogue: 100,0:01:17.06,0:01:17.93,Default,,0,0,0,,Presupun...
-Dialogue: 100,0:01:18.42,0:01:20.15,Default,,0,0,0,,Noi asociem curryul cu lingurile.
-Dialogue: 100,0:01:20.15,0:01:21.68,Default,,0,0,0,,Și lingurile cu magia!
-Dialogue: 100,0:01:21.68,0:01:24.43,Default,,0,0,0,,Deci, haide să îndoim niște linguri!
-Dialogue: 100,0:01:24.67,0:01:26.06,Default,,0,0,0,,Am putea să mâncăm mai întâi?
-Dialogue: 100,0:01:26.44,0:01:29.94,Default,,0,0,0,,Și nu aveai nevoie de linguri speciale ca să faci acel lucru?
-Dialogue: 100,0:01:30.24,0:01:34.05,Default,,0,0,0,,Nu, nu! Nu există niciun \Ntruc în îndoirea lingurilor!
-Dialogue: 100,0:01:34.05,0:01:38.27,Default,,0,0,0,,Orice lingură poate fi îndoită cu ușurință folosind principiile fizicii!
-Dialogue: 100,0:01:39.35,0:01:40.95,Default,,0,0,0,,Acum, haide s-o facem împreună.
-Dialogue: 100,0:01:40.95,0:01:42.45,Default,,0,0,0,,Unu, doi...
-Dialogue: 100,0:01:42.45,0:01:44.52,Default,,0,0,0,,Uau, chiar s-a îndoit!
-Dialogue: 100,0:01:44.52,0:01:45.41,Default,,0,0,0,,Am reușit, colegă—
-Dialogue: 100,0:01:46.68,0:01:48.54,Default,,0,0,0,,{\i1}Chiar și fizica a abandonat-o!
-Dialogue: 100,0:01:50.54,0:01:52.06,Default,,0,0,0,,{\i1}Știam că se va întâmpla asta.
-Dialogue: 100,0:01:52.67,0:01:55.67,Default,,0,0,0,,Ei bine, voi merge să iau o lingură nouă.
-Dialogue: 100,0:01:59.10,0:02:01.97,Default,,0,0,0,,{\i1}Am vărsat sosul super picant!
-Dialogue: 100,0:02:02.74,0:02:04.19,Default,,0,0,0,,{\i1}Va fi foarte nervos!
-Dialogue: 100,0:02:04.19,0:02:05.75,Default,,0,0,0,,{\i1}Trebuie să-l păcălesc cumva cu gustul!
-Dialogue: 100,0:02:05.75,0:02:06.89,Default,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:02:06.89,0:02:08.06,Default,,0,0,0,,N-Nimic!
-Dialogue: 100,0:02:08.40,0:02:10.44,Default,,0,0,0,,Acum, haide să încercăm hipnotismul!
-Dialogue: 100,0:02:10.44,0:02:12.06,Default,,0,0,0,,Acum, imaginează-ți...
-Dialogue: 100,0:02:12.77,0:02:17.37,Default,,0,0,0,,Curryul tău va deveni așa de picant încât nu-l vei mai putea mânca!
-Dialogue: 100,0:02:17.37,0:02:19.95,Default,,0,0,0,,Încerci să ascunzi ceva din nou?
-Dialogue: 100,0:02:19.95,0:02:22.38,Default,,0,0,0,,Este foarte picant! Ce ai pus în el?!
-Dialogue: 100,0:02:22.38,0:02:24.27,Default,,0,0,0,,Nimic! Este doar hipnotismul meu...
-Dialogue: 100,0:02:24.27,0:02:28.09,Default,,0,0,0,,Atunci, deoarece tu nu ești hipnotizată, nu ți se va părea picant, nu-i așa?
-Dialogue: 100,0:02:28.09,0:02:29.71,Default,,0,0,0,,Haide. Gustă.
-Dialogue: 100,0:02:34.36,0:02:37.12,Default,,0,0,0,,Vezi? Nu este picant deloc!
-Dialogue: 100,0:02:37.12,0:02:38.50,Default,,0,0,0,,Ai nevoie de apă?
-Dialogue: 100,0:02:38.50,0:02:40.12,Default,,0,0,0,,Nu este picant!
-Dialogue: 100,0:02:40.12,0:02:42.14,Default,,0,0,0,,Atunci, termină-l tu pe acela, iar eu îl voi mânca pe al tău.
-Dialogue: 100,0:02:44.89,0:02:46.52,Default,,0,0,0,,"Colega mai mare cea impenetrabilă."
-Dialogue: 100,0:02:46.69,0:02:48.21,Default,,0,0,0,,Ta-da!
-Dialogue: 100,0:02:48.21,0:02:51.86,Default,,0,0,0,,Astăzi vom face trucul \Ncu penetrarea monedei!
-Dialogue: 100,0:02:51.86,0:02:55.19,Default,,0,0,0,,În acest truc, te vei preface că faci moneda să treacă prin fundul unui pahar,
-Dialogue: 100,0:02:55.19,0:02:58.19,Default,,0,0,0,,în timp ce vei arunca \Nsubtil pe deasupra!
-Dialogue: 100,0:02:58.43,0:03:00.27,Default,,0,0,0,,Hei, asta este destul de tare.
-Dialogue: 100,0:03:00.27,0:03:01.45,Default,,0,0,0,,Eu sunt sigur că nu aș reuși.
-Dialogue: 100,0:03:01.45,0:03:04.03,Default,,0,0,0,,Oricum, unu, doi...
-Dialogue: 100,0:03:04.03,0:03:04.95,Default,,0,0,0,,Start!
-Dialogue: 100,0:03:06.08,0:03:07.20,Default,,0,0,0,,{\i1}Știam că asta se va întâmpla.
-Dialogue: 100,0:03:08.16,0:03:10.19,Default,,0,0,0,,Banii mei dragi!
-Dialogue: 100,0:03:10.72,0:03:13.56,Default,,0,0,0,,Hei. De ce nu facem asta mâine—
-Dialogue: 100,0:03:13.56,0:03:15.10,Default,,0,0,0,,Stai o secundă!
-Dialogue: 100,0:03:15.10,0:03:16.12,Default,,0,0,0,,Hopa!
-Dialogue: 100,0:03:16.12,0:03:18.84,Default,,0,0,0,,E destul de periculos. \NStai să te țin eu...
-Dialogue: 100,0:03:19.79,0:03:21.47,Default,,0,0,0,,Aproape am ajuns!
-Dialogue: 100,0:03:21.82,0:03:23.97,Default,,0,0,0,,Uau, s-a dus destul de în spate...
-Dialogue: 100,0:03:23.97,0:03:25.46,Default,,0,0,0,,Aproape am luat-o!
-Dialogue: 100,0:03:25.90,0:03:28.28,Default,,0,0,0,,P-Pfiu...
-Dialogue: 100,0:03:28.50,0:03:29.60,Default,,0,0,0,,Am luat-o!
-Dialogue: 100,0:03:30.73,0:03:34.39,Default,,0,0,0,,Hei, chiar ar trebui să fii mai \Natentă cu modul cum faci lucrurile...
-Dialogue: 100,0:03:34.39,0:03:37.30,Default,,0,0,0,,Nu-ți face griji. \NData viitoare n-o voi da în bară!
-Dialogue: 100,0:03:37.30,0:03:38.61,Default,,0,0,0,,Nu mă refer la asta.
-Dialogue: 100,0:03:40.14,0:03:41.99,Default,,0,0,0,,Hei, asistentule!
-Dialogue: 100,0:03:41.99,0:03:44.73,Default,,0,0,0,,Ai cumva ceva tare și lung?
-Dialogue: 100,0:03:44.73,0:03:45.74,Default,,0,0,0,,Chiar am.
-Dialogue: 100,0:03:46.09,0:03:48.79,Default,,0,0,0,,Ura! Recuperare completă!
-Dialogue: 100,0:03:48.79,0:03:52.09,Default,,0,0,0,,Colegă mai mare, \Nfaci cumva asta intenționat?
-Dialogue: 100,0:03:53.14,0:03:55.99,Default,,0,0,0,,Nu cred că este un lucru înțelept.
-Dialogue: 100,0:03:55.99,0:03:57.42,Default,,0,0,0,,Adică, sunt băiat...
-Dialogue: 100,0:03:58.34,0:04:02.58,Default,,0,0,0,,{\i1}Stai, asistentul crede că am dat-o în bară cu trucul intenționat?!
-Dialogue: 100,0:04:02.58,0:04:03.77,Default,,0,0,0,,{\i1}Asta este șansa mea!
-Dialogue: 100,0:04:04.30,0:04:06.88,Default,,0,0,0,,Așa este! Fac un spectacol \Nnumai pentru tine!
-Dialogue: 100,0:04:06.88,0:04:07.81,Default,,0,0,0,,{\i1}Pe bune?!
-Dialogue: 100,0:04:08.08,0:04:10.78,Default,,0,0,0,,{\i1}Știu că este incredibil de naivă, dar...
-Dialogue: 100,0:04:11.70,0:04:15.77,Default,,0,0,0,,{\i1}Stai, face pe proasta când ea este de fapt o ***** totală?
-Dialogue: 100,0:04:16.11,0:04:20.50,Default,,0,0,0,,{\i1}Adică, este drăguță și nu aș refuza sub nicio formă dacă mi-ar cere.
-Dialogue: 100,0:04:20.50,0:04:23.80,Default,,0,0,0,,{\i1}Sunt puțin dezamăgit. \NStai, la ce naiba mă gândesc?
-Dialogue: 100,0:04:23.80,0:04:25.93,Default,,0,0,0,,Ce s-a întâmplat? Ești complet roșu.
-Dialogue: 100,0:04:26.41,0:04:27.92,Default,,0,0,0,,Nimic!
-Dialogue: 100,0:04:27.92,0:04:28.93,Default,,0,0,0,,Adică...
-Dialogue: 100,0:04:28.93,0:04:32.55,Default,,0,0,0,,Cred că există niște etape pe care oamenii ar trebui să le urmeze când vine vorba de astfel de lucruri!
-Dialogue: 100,0:04:32.55,0:04:33.36,Default,,0,0,0,,Serios?
-Dialogue: 100,0:04:33.36,0:04:34.37,Default,,0,0,0,,Da!
-Dialogue: 100,0:04:34.73,0:04:39.42,Default,,0,0,0,,Atunci, voi aduce un DVD data viitoare ca să putem vedea cum o fac profesioniștii.
-Dialogue: 100,0:04:39.42,0:04:40.38,Default,,0,0,0,,{\i1}Nu se poate!
-Dialogue: 100,0:04:41.04,0:04:43.82,Default,,0,0,0,,Dar deocamdată, va trebui \Nsă ne descurcăm doar noi doi.
-Dialogue: 100,0:04:43.82,0:04:45.51,Default,,0,0,0,,F-Foarte bine...
-Dialogue: 100,0:04:45.80,0:04:48.36,Default,,0,0,0,,Dar fără resentimente mai târziu, bine?
-Dialogue: 100,0:04:48.36,0:04:49.76,Default,,0,0,0,,Să dăm tot ce avem mai bun!
-Dialogue: 100,0:04:49.76,0:04:52.02,Default,,0,0,0,,Atunci... eu...
-Dialogue: 100,0:04:53.58,0:04:55.23,Default,,0,0,0,,Unu, doi...
-Dialogue: 100,0:04:55.23,0:04:56.27,Default,,0,0,0,,Trei!
-Dialogue: 100,0:04:57.06,0:04:58.11,Default,,0,0,0,,Auci!
-Dialogue: 100,0:04:58.11,0:04:59.48,Default,,0,0,0,,Scuze, scuze!
-Dialogue: 100,0:04:59.89,0:05:01.40,Default,,0,0,0,,De ce?!
-Dialogue: 100,0:05:02.11,0:05:03.74,Default,,0,0,0,,"Colega mai mare dă vina pe altcineva."
-Dialogue: 100,0:05:04.05,0:05:06.74,Default,,0,0,0,,Atunci, permite-mi să ți-l prezint pe partenerul meu nr. 2!
-Dialogue: 100,0:05:06.98,0:05:09.23,Default,,0,0,0,,Ai adus alt porumbel?
-Dialogue: 100,0:05:09.23,0:05:12.49,Default,,0,0,0,,Permite-mi să ți-l \Nprezint pe... Behemoth!
-Dialogue: 100,0:05:12.73,0:05:14.50,Default,,0,0,0,,Privește! Privește! Se mișcă!
-Dialogue: 100,0:05:14.50,0:05:16.00,Default,,0,0,0,,Mănâncă!
-Dialogue: 100,0:05:16.00,0:05:20.88,Default,,0,0,0,,Colegă mai mare... ai adoptat un animal împăiat deoarece nu ai niciun prieten?
-Dialogue: 100,0:05:20.88,0:05:22.63,Default,,0,0,0,,Sigur că nu!
-Dialogue: 100,0:05:22.63,0:05:24.66,Default,,0,0,0,,Nu este un animal împăiat! Este viu!
-Dialogue: 100,0:05:24.66,0:05:26.28,Default,,0,0,0,,Nu ai deloc imaginație.
-Dialogue: 100,0:05:26.28,0:05:28.64,Default,,0,0,0,,{\i1}Deci, nu neagă partea cu "niciun prieten"?
-Dialogue: 100,0:05:28.64,0:05:33.34,Default,,0,0,0,,I-Incredibil! Behemoth \Nse urcă pe mâna mea!
-Dialogue: 100,0:05:33.34,0:05:36.31,Default,,0,0,0,,Arată de parcă îți freci un \Nanimal împăiat pe mână.
-Dialogue: 100,0:05:36.31,0:05:38.80,Default,,0,0,0,,Acum se urcă pe corpul meu!
-Dialogue: 100,0:05:41.35,0:05:42.68,Default,,0,0,0,,Ce?
-Dialogue: 100,0:05:42.68,0:05:45.33,Default,,0,0,0,,Dă tot ce poți, Behemoth! \NNu renunța!
-Dialogue: 100,0:05:45.33,0:05:47.64,Default,,0,0,0,,Ăștia chiar sunt niște \Nmunți greu de urcat!
-Dialogue: 100,0:05:49.51,0:05:52.08,Default,,0,0,0,,Behemoth îți poate găsi chiar și cartea!
-Dialogue: 100,0:05:52.32,0:05:54.86,Default,,0,0,0,,Oh? Cred că ți-a găsit-o deja!
-Dialogue: 100,0:05:54.86,0:05:57.79,Default,,0,0,0,,Asistentule... asta este cartea ta?
-Dialogue: 100,0:05:57.79,0:05:58.91,Default,,0,0,0,,Nu.
-Dialogue: 100,0:05:59.65,0:06:01.63,Default,,0,0,0,,C-Ce este în neregulă, Behemoth?
-Dialogue: 100,0:06:01.63,0:06:03.18,Default,,0,0,0,,Fă-o exact cum am exersat!
-Dialogue: 100,0:06:03.18,0:06:03.88,Default,,0,0,0,,Haide!
-Dialogue: 100,0:06:03.88,0:06:05.25,Default,,0,0,0,,Nu, este vina {\i1}ta{\i0}!
-Dialogue: 100,0:06:05.80,0:06:09.38,Default,,0,0,0,,După pauza noastră scurtă, haide să încercă să-ți ghicim cartea din nou!
-Dialogue: 100,0:06:09.38,0:06:12.57,Default,,0,0,0,,Alege o carte din acest pachet!
-Dialogue: 100,0:06:13.46,0:06:14.60,Default,,0,0,0,,{\i1}L-a dărâmat.
-Dialogue: 100,0:06:15.90,0:06:19.44,Default,,0,0,0,,Behemoth aici de față îți va \Nghici cartea pe care... Ce?
-Dialogue: 100,0:06:19.91,0:06:21.88,Default,,0,0,0,,Behemoth, unde ești?!
-Dialogue: 100,0:06:22.30,0:06:23.57,Default,,0,0,0,,{\i1}L-a omorât!
-Dialogue: 100,0:06:24.65,0:06:26.86,Default,,0,0,0,,Behemoth!
-Dialogue: 100,0:06:30.09,0:06:32.74,Default,,0,0,0,,Ei bine... Condolențele mele...
-Dialogue: 100,0:06:34.06,0:06:37.80,Default,,0,0,0,,Behemoth! Nu te voi uita niciodată!
-Dialogue: 100,0:06:37.80,0:06:39.51,Default,,0,0,0,,{\i1}Nici măcar nu îți curg lacrimile!
-Dialogue: 100,0:06:39.51,0:06:40.62,Default,,0,0,0,,{\i1}Ești varză la asta!
-Dialogue: 100,0:06:41.63,0:06:44.44,Default,,0,0,0,,Apropo, unde este "partenerul" tău?
-Dialogue: 100,0:06:44.44,0:06:45.74,Default,,0,0,0,,O, el?
-Dialogue: 100,0:06:45.74,0:06:47.77,Default,,0,0,0,,Îmi era greu să-l car și pe el, \Nașa că l-am lăsat acolo.
-Dialogue: 100,0:06:51.93,0:06:53.51,Default,,0,0,0,,"Domnișoara care nu se descurcă la magie."
-Dialogue: 100,0:06:54.84,0:06:56.89,Default,,0,0,0,,Este super cald astăzi.
-Dialogue: 100,0:06:57.55,0:06:58.77,Default,,0,0,0,,Pfiu...
-Dialogue: 100,0:06:58.77,0:07:00.64,Default,,0,0,0,,Hei, asistentule...
-Dialogue: 100,0:07:00.64,0:07:03.79,Default,,0,0,0,,Cred că astăzi este ziua mea norocoasă.
-Dialogue: 100,0:07:06.42,0:07:08.13,Default,,0,0,0,,Ce faci aici, colegă mai mare?
-Dialogue: 100,0:07:08.13,0:07:09.78,Default,,0,0,0,,Și ce ți s-a întâmplat?!
-Dialogue: 100,0:07:09.78,0:07:13.47,Default,,0,0,0,,Încercam să le arăt acestor \Ncopii bucuriile magiei.
-Dialogue: 100,0:07:13.47,0:07:14.57,Default,,0,0,0,,E varză.
-Dialogue: 100,0:07:14.57,0:07:16.17,Default,,0,0,0,,Nu îi iese nimic.
-Dialogue: 100,0:07:16.17,0:07:17.23,Default,,0,0,0,,Ne trage pe sfoară.
-Dialogue: 100,0:07:17.59,0:07:18.77,Default,,0,0,0,,E plictisitoare.
-Dialogue: 100,0:07:19.71,0:07:21.71,Default,,0,0,0,,M-am întors, copii!
-Dialogue: 100,0:07:22.37,0:07:24.21,Default,,0,0,0,,Ce? Păreți triști.
-Dialogue: 100,0:07:24.21,0:07:26.20,Default,,0,0,0,,Magia este plictisitoare.
-Dialogue: 100,0:07:26.20,0:07:27.69,Default,,0,0,0,,Jocurile video sunt mai distractive.
-Dialogue: 100,0:07:27.69,0:07:28.46,Default,,0,0,0,,Așa este!
-Dialogue: 100,0:07:28.46,0:07:29.51,Default,,0,0,0,,Asistentule?!
-Dialogue: 100,0:07:30.07,0:07:33.85,Default,,0,0,0,,Nu vă faceți griji! Vă voi arăta un truc mult mai grozav de data asta!
-Dialogue: 100,0:07:33.85,0:07:36.33,Default,,0,0,0,,Vom privi, dar dacă o \Nvei da în bară din nou,
-Dialogue: 100,0:07:36.33,0:07:39.24,Default,,0,0,0,,vom răspândi zvonuri despre domnișoara din parca care nu se descurcă la magie!
-Dialogue: 100,0:07:39.24,0:07:40.06,Default,,0,0,0,,{\i1}Asta e chiar dur!
-Dialogue: 100,0:07:40.32,0:07:41.81,Default,,0,0,0,,Nu vă faceți grji!
-Dialogue: 100,0:07:41.81,0:07:44.08,Default,,0,0,0,,Asistentul meu va fi \Ncel care va face trucul!
-Dialogue: 100,0:07:45.27,0:07:47.49,Default,,0,0,0,,Ne vei arăta un truc, domnule?
-Dialogue: 100,0:07:49.39,0:07:51.31,Default,,0,0,0,,Foarte bine. Dacă trebuie!
-Dialogue: 100,0:07:52.43,0:07:54.88,Default,,0,0,0,,Bun, acesta este Behemoth.
-Dialogue: 100,0:07:54.88,0:07:55.91,Default,,0,0,0,,Spune salut!
-Dialogue: 100,0:07:56.49,0:07:57.66,Default,,0,0,0,,Mănâncă!
-Dialogue: 100,0:07:58.11,0:07:59.54,Default,,0,0,0,,Se cațără!
-Dialogue: 100,0:08:00.85,0:08:02.42,Default,,0,0,0,,Învârte, învârte, învârte!
-Dialogue: 100,0:08:02.42,0:08:03.98,Default,,0,0,0,,A adormit!
-Dialogue: 100,0:08:03.98,0:08:07.46,Default,,0,0,0,,Behemoth a adormit, \Niar spectacolul s-a terminat!
-Dialogue: 100,0:08:07.46,0:08:08.17,Default,,0,0,0,,Este atât de bun!
-Dialogue: 100,0:08:08.17,0:08:10.84,Default,,0,0,0,,Știu ce este! Este un \Nanimal împăiat, nu-i așa?
-Dialogue: 100,0:08:11.25,0:08:15.19,Default,,0,0,0,,{\i1}Asistentule, este momentul să scapi de acuzații dând un răspuns îndrăzneț!
-Dialogue: 100,0:08:15.19,0:08:16.80,Default,,0,0,0,,Desigur că este un animal împăiat.
-Dialogue: 100,0:08:16.80,0:08:18.06,Default,,0,0,0,,Asistentule!
-Dialogue: 100,0:08:18.17,0:08:19.87,Default,,0,0,0,,Bine, îl voi face eu!
-Dialogue: 100,0:08:19.87,0:08:22.97,Default,,0,0,0,,Deci, a ales calea "domnișoarei care nu se descurcă la magie".
-Dialogue: 100,0:08:22.97,0:08:24.23,Default,,0,0,0,,Ești rău!
-Dialogue: 100,0:08:24.55,0:08:28.36,Default,,0,0,0,,Acum, cu schimbarea magicianului, \Nvoi face trucul cu schimbarea foarte rapidă!
-Dialogue: 100,0:08:29.29,0:08:31.63,Default,,0,0,0,,{\i1}Îmi voi arăta spatele \Ndoar asistentului meu!
-Dialogue: 100,0:08:31.63,0:08:34.62,Default,,0,0,0,,Le-am făcut cu închidere \NVelcro ca să le pot da jos!
-Dialogue: 100,0:08:34.62,0:08:36.32,Default,,0,0,0,,"Domnișoara care face magie indecentă"!
-Dialogue: 100,0:08:44.88,0:08:46.21,Default,,0,0,0,,Hei, domnule...
-Dialogue: 100,0:08:46.63,0:08:48.57,Default,,0,0,0,,Știi unde găsesc acest monstru?
-Dialogue: 100,0:08:49.21,0:08:50.96,Default,,0,0,0,,O, acela?
-Dialogue: 100,0:08:51.23,0:08:53.69,Default,,0,0,0,,Este o fântână în orașul de peste munți.
-Dialogue: 100,0:08:53.69,0:08:55.34,Default,,0,0,0,,Arată-mi și mie!
-Dialogue: 100,0:08:55.60,0:08:56.85,Default,,0,0,0,,Uimitor!
-Dialogue: 100,0:08:56.04,0:09:00.10,Default,,0,0,0,,{\an8}Nu uitați de mine! Nu uitați \Nde colega mai mare!
-Dialogue: 100,0:08:56.85,0:08:58.32,Default,,0,0,0,,Știe totul!
-Dialogue: 100,0:08:58.86,0:09:00.10,Default,,0,0,0,,Arată-mi și mie!
-Dialogue: 100,0:09:01.69,0:09:03.85,Default,,0,0,0,,Ei bine? Ai reușit să te schimbi?
-Dialogue: 100,0:09:05.42,0:09:07.85,Default,,0,0,0,,Am uitat să-mi aduc haine de schimb.
-Dialogue: 100,0:09:09.35,0:09:12.12,Default,,0,0,0,,Stai, adică, sub pelerină ești...
-Dialogue: 100,0:09:14.22,0:09:17.99,Default,,0,0,0,,{\i1}Și astfel, colega mai mare \Ns-a retras încetișor în pădure.
-Dialogue: 100,0:09:18.51,0:09:24.69,Default,,0,0,0,,{\i1}Și așa a luat naștere zvonul exhibiționistei cu pelerină din parc.
-Dialogue: 100,0:09:25.41,0:09:26.75,Default,,0,0,0,,"Colega mai mare devine serioasă."
-Dialogue: 100,0:09:27.32,0:09:29.88,Default,,0,0,0,,{\i1}Astăzi este ultima zi când putem depune formularul pentru a intra într-un club.
-Dialogue: 100,0:09:30.18,0:09:31.35,Default,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:09:31.35,0:09:33.74,Default,,0,0,0,,Spune-ți problemele \Ncolegei tale mai mari!
-Dialogue: 100,0:09:33.74,0:09:36.65,Default,,0,0,0,,Mă gândeam că ar fi bine \Nsă mă decid cărui club mă alătur.
-Dialogue: 100,0:09:38.07,0:09:39.89,Default,,0,0,0,,Nu l-ai ales încă?
-Dialogue: 100,0:09:40.59,0:09:43.45,Default,,0,0,0,,Atunci, haide să avem \Nîncă o zi de club activă!
-Dialogue: 100,0:09:43.45,0:09:45.64,Default,,0,0,0,,De fapt, speram să plec \Nmai devreme astăzi...
-Dialogue: 100,0:09:46.45,0:09:47.44,Default,,0,0,0,,Bun!
-Dialogue: 100,0:09:47.44,0:09:50.94,Default,,0,0,0,,Deci, pentru ce truc \Neste această funie?
-Dialogue: 100,0:09:50.94,0:09:55.64,Default,,0,0,0,,Acum că nu mai poți fugi, \Nmi-ar plăcea să încep!
-Dialogue: 100,0:09:55.64,0:09:56.62,Default,,0,0,0,,Ce naiba!
-Dialogue: 100,0:09:57.22,0:10:00.70,Default,,0,0,0,,Trucul de astăzi îi va implica pe acești iepurași din burete.
-Dialogue: 100,0:10:01.14,0:10:03.08,Default,,0,0,0,,Ține unul, asistentule.
-Dialogue: 100,0:10:03.08,0:10:05.09,Default,,0,0,0,,{\i1}Este evident că mi i-ai dat pe amândoi.
-Dialogue: 100,0:10:05.09,0:10:08.78,Default,,0,0,0,,Vai, vai, se pare că celălalt \Na dispărut din mâna mea!
-Dialogue: 100,0:10:08.78,0:10:11.59,Default,,0,0,0,,Dar dacă{\i1}-ți{\i0} vei desface pumnul...
-Dialogue: 100,0:10:12.01,0:10:12.97,Default,,0,0,0,,Ta-da!
-Dialogue: 100,0:10:12.97,0:10:14.59,Default,,0,0,0,,A apărut în mâna ta!
-Dialogue: 100,0:10:14.59,0:10:18.54,Default,,0,0,0,,Sunt foarte buni prieteni, \Ndeci nu pot fi despărțiți!
-Dialogue: 100,0:10:19.32,0:10:21.15,Default,,0,0,0,,Exact ca noi doi.
-Dialogue: 100,0:10:21.15,0:10:22.97,Default,,0,0,0,,{\i1}Nu spune ceva înspăimântător dintr-odată!
-Dialogue: 100,0:10:23.48,0:10:27.62,Default,,0,0,0,,Și acum, strânge amândoi iepurii în mână!
-Dialogue: 100,0:10:27.62,0:10:31.07,Default,,0,0,0,,Vei vedea curând că vei \Navea mâna plină de iepurași—
-Dialogue: 100,0:10:31.07,0:10:32.31,Default,,0,0,0,,Scârbos!
-Dialogue: 100,0:10:33.09,0:10:36.26,Default,,0,0,0,,Scuze, se pare că \Ntranspirația mea i-a lipit!
-Dialogue: 100,0:10:36.26,0:10:37.65,Default,,0,0,0,,Lasă-mă să-i curăț!
-Dialogue: 100,0:10:37.65,0:10:38.59,Default,,0,0,0,,Ăsta e un spectacol horror.
-Dialogue: 100,0:10:39.02,0:10:42.64,Default,,0,0,0,,Permite-mi să-ți explic. Iepurii părinți suntem noi doi.
-Dialogue: 100,0:10:42.64,0:10:46.33,Default,,0,0,0,,Iar iepurașii sunt colegii de club cărora le vom da naștere!
-Dialogue: 100,0:10:46.33,0:10:48.46,Default,,0,0,0,,Le vom da naștere?
-Dialogue: 100,0:10:48.46,0:10:49.33,Default,,0,0,0,,Asistentule...
-Dialogue: 100,0:10:49.33,0:10:50.08,Default,,0,0,0,,Ce?
-Dialogue: 100,0:10:52.26,0:10:53.65,Default,,0,0,0,,O prindere grozavă!
-Dialogue: 100,0:10:53.65,0:10:55.21,Default,,0,0,0,,Acela... sunt eu?
-Dialogue: 100,0:10:56.42,0:11:00.78,Default,,0,0,0,,Ultimul lucru pe care vreau să-l transmit prin trucul meu cu iepurași
-Dialogue: 100,0:11:00.78,0:11:03.94,Default,,0,0,0,,este importanța unei echipe în care poți avea încredere.
-Dialogue: 100,0:11:03.94,0:11:05.43,Default,,0,0,0,,{\i1}Cum se aplică asta?!
-Dialogue: 100,0:11:05.43,0:11:09.07,Default,,0,0,0,,Deci, haide să facem un club împreună!
-Dialogue: 100,0:11:09.07,0:11:09.64,Default,,0,0,0,,Iei!
-Dialogue: 100,0:11:10.44,0:11:11.14,Default,,0,0,0,,Să facem?
-Dialogue: 100,0:11:11.14,0:11:14.77,Default,,0,0,0,,Ei bine, nu putem forma un club fără membrii și un consilier!
-Dialogue: 100,0:11:15.02,0:11:16.87,Default,,0,0,0,,Stai, ăsta nu era un club oficial?!
-Dialogue: 100,0:11:16.87,0:11:19.90,Default,,0,0,0,,Acum, voi merge să-ți depun formularul!
-Dialogue: 100,0:11:19.90,0:11:21.78,Default,,0,0,0,,M-ai păcălit! Asta este fraudă!
-Dialogue: 100,0:11:21.78,0:11:23.41,Default,,0,0,0,,Nu este fraudă...
-Dialogue: 100,0:11:23.70,0:11:24.99,Default,,0,0,0,,Ci magie!
-Dialogue: 100,0:12:25.59,0:12:28.47,Default,,0,0,0,,Urmăriți-ne și săptămâna viitoare pentru mai mult din {\i1}Magical Sempai{\i0}!
+Dialogue: 99,0:01:00.41,0:01:01.87,Default,,0,0,0,,"Colega mai mare îndoaie."
+Dialogue: 99,0:01:02.04,0:01:04.41,Default,,0,0,0,,{\i1}Am venit la sala de mese \Npentru prima oară, dar...
+Dialogue: 99,0:01:04.41,0:01:07.01,Default,,0,0,0,,{\i1}Simți o atmosferă izolantă \Ncând vii aici singur.
+Dialogue: 99,0:01:08.70,0:01:10.20,Default,,0,0,0,,Să mâncăm.
+Dialogue: 99,0:01:10.20,0:01:13.52,Default,,0,0,0,,{\i1}Simt că am văzut \Nceva ce nu ar fi trebuit.
+Dialogue: 99,0:01:13.52,0:01:14.74,Default,,0,0,0,,Hei...
+Dialogue: 99,0:01:14.74,0:01:17.06,Default,,0,0,0,,Oh? Cât de drăguț să te \Nîntâlnesc aici, asistentule!
+Dialogue: 99,0:01:17.06,0:01:17.93,Default,,0,0,0,,Presupun...
+Dialogue: 99,0:01:18.42,0:01:20.15,Default,,0,0,0,,Noi asociem curryul cu lingurile.
+Dialogue: 99,0:01:20.15,0:01:21.68,Default,,0,0,0,,Și lingurile cu magia!
+Dialogue: 99,0:01:21.68,0:01:24.43,Default,,0,0,0,,Deci, haide să îndoim niște linguri!
+Dialogue: 99,0:01:24.67,0:01:26.06,Default,,0,0,0,,Am putea să mâncăm mai întâi?
+Dialogue: 99,0:01:26.44,0:01:29.94,Default,,0,0,0,,Și nu aveai nevoie de linguri speciale ca să faci acel lucru?
+Dialogue: 99,0:01:30.24,0:01:34.05,Default,,0,0,0,,Nu, nu! Nu există niciun \Ntruc în îndoirea lingurilor!
+Dialogue: 99,0:01:34.05,0:01:38.27,Default,,0,0,0,,Orice lingură poate fi îndoită cu ușurință folosind principiile fizicii!
+Dialogue: 99,0:01:39.35,0:01:40.95,Default,,0,0,0,,Acum, haide s-o facem împreună.
+Dialogue: 99,0:01:40.95,0:01:42.45,Default,,0,0,0,,Unu, doi...
+Dialogue: 99,0:01:42.45,0:01:44.52,Default,,0,0,0,,Uau, chiar s-a îndoit!
+Dialogue: 99,0:01:44.52,0:01:45.41,Default,,0,0,0,,Am reușit, colegă—
+Dialogue: 99,0:01:46.68,0:01:48.54,Default,,0,0,0,,{\i1}Chiar și fizica a abandonat-o!
+Dialogue: 99,0:01:50.54,0:01:52.06,Default,,0,0,0,,{\i1}Știam că se va întâmpla asta.
+Dialogue: 99,0:01:52.67,0:01:55.67,Default,,0,0,0,,Ei bine, voi merge să iau o lingură nouă.
+Dialogue: 99,0:01:59.10,0:02:01.97,Default,,0,0,0,,{\i1}Am vărsat sosul super picant!
+Dialogue: 99,0:02:02.74,0:02:04.19,Default,,0,0,0,,{\i1}Va fi foarte nervos!
+Dialogue: 99,0:02:04.19,0:02:05.75,Default,,0,0,0,,{\i1}Trebuie să-l păcălesc cumva cu gustul!
+Dialogue: 99,0:02:05.75,0:02:06.89,Default,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:02:06.89,0:02:08.06,Default,,0,0,0,,N-Nimic!
+Dialogue: 99,0:02:08.40,0:02:10.44,Default,,0,0,0,,Acum, haide să încercăm hipnotismul!
+Dialogue: 99,0:02:10.44,0:02:12.06,Default,,0,0,0,,Acum, imaginează-ți...
+Dialogue: 99,0:02:12.77,0:02:17.37,Default,,0,0,0,,Curryul tău va deveni așa de picant încât nu-l vei mai putea mânca!
+Dialogue: 99,0:02:17.37,0:02:19.95,Default,,0,0,0,,Încerci să ascunzi ceva din nou?
+Dialogue: 99,0:02:19.95,0:02:22.38,Default,,0,0,0,,Este foarte picant! Ce ai pus în el?!
+Dialogue: 99,0:02:22.38,0:02:24.27,Default,,0,0,0,,Nimic! Este doar hipnotismul meu...
+Dialogue: 99,0:02:24.27,0:02:28.09,Default,,0,0,0,,Atunci, deoarece tu nu ești hipnotizată, nu ți se va părea picant, nu-i așa?
+Dialogue: 99,0:02:28.09,0:02:29.71,Default,,0,0,0,,Haide. Gustă.
+Dialogue: 99,0:02:34.36,0:02:37.12,Default,,0,0,0,,Vezi? Nu este picant deloc!
+Dialogue: 99,0:02:37.12,0:02:38.50,Default,,0,0,0,,Ai nevoie de apă?
+Dialogue: 99,0:02:38.50,0:02:40.12,Default,,0,0,0,,Nu este picant!
+Dialogue: 99,0:02:40.12,0:02:42.14,Default,,0,0,0,,Atunci, termină-l tu pe acela, iar eu îl voi mânca pe al tău.
+Dialogue: 99,0:02:44.89,0:02:46.52,Default,,0,0,0,,"Colega mai mare cea impenetrabilă."
+Dialogue: 99,0:02:46.69,0:02:48.21,Default,,0,0,0,,Ta-da!
+Dialogue: 99,0:02:48.21,0:02:51.86,Default,,0,0,0,,Astăzi vom face trucul \Ncu penetrarea monedei!
+Dialogue: 99,0:02:51.86,0:02:55.19,Default,,0,0,0,,În acest truc, te vei preface că faci moneda să treacă prin fundul unui pahar,
+Dialogue: 99,0:02:55.19,0:02:58.19,Default,,0,0,0,,în timp ce vei arunca \Nsubtil pe deasupra!
+Dialogue: 99,0:02:58.43,0:03:00.27,Default,,0,0,0,,Hei, asta este destul de tare.
+Dialogue: 99,0:03:00.27,0:03:01.45,Default,,0,0,0,,Eu sunt sigur că nu aș reuși.
+Dialogue: 99,0:03:01.45,0:03:04.03,Default,,0,0,0,,Oricum, unu, doi...
+Dialogue: 99,0:03:04.03,0:03:04.95,Default,,0,0,0,,Start!
+Dialogue: 99,0:03:06.08,0:03:07.20,Default,,0,0,0,,{\i1}Știam că asta se va întâmpla.
+Dialogue: 99,0:03:08.16,0:03:10.19,Default,,0,0,0,,Banii mei dragi!
+Dialogue: 99,0:03:10.72,0:03:13.56,Default,,0,0,0,,Hei. De ce nu facem asta mâine—
+Dialogue: 99,0:03:13.56,0:03:15.10,Default,,0,0,0,,Stai o secundă!
+Dialogue: 99,0:03:15.10,0:03:16.12,Default,,0,0,0,,Hopa!
+Dialogue: 99,0:03:16.12,0:03:18.84,Default,,0,0,0,,E destul de periculos. \NStai să te țin eu...
+Dialogue: 99,0:03:19.79,0:03:21.47,Default,,0,0,0,,Aproape am ajuns!
+Dialogue: 99,0:03:21.82,0:03:23.97,Default,,0,0,0,,Uau, s-a dus destul de în spate...
+Dialogue: 99,0:03:23.97,0:03:25.46,Default,,0,0,0,,Aproape am luat-o!
+Dialogue: 99,0:03:25.90,0:03:28.28,Default,,0,0,0,,P-Pfiu...
+Dialogue: 99,0:03:28.50,0:03:29.60,Default,,0,0,0,,Am luat-o!
+Dialogue: 99,0:03:30.73,0:03:34.39,Default,,0,0,0,,Hei, chiar ar trebui să fii mai \Natentă cu modul cum faci lucrurile...
+Dialogue: 99,0:03:34.39,0:03:37.30,Default,,0,0,0,,Nu-ți face griji. \NData viitoare n-o voi da în bară!
+Dialogue: 99,0:03:37.30,0:03:38.61,Default,,0,0,0,,Nu mă refer la asta.
+Dialogue: 99,0:03:40.14,0:03:41.99,Default,,0,0,0,,Hei, asistentule!
+Dialogue: 99,0:03:41.99,0:03:44.73,Default,,0,0,0,,Ai cumva ceva tare și lung?
+Dialogue: 99,0:03:44.73,0:03:45.74,Default,,0,0,0,,Chiar am.
+Dialogue: 99,0:03:46.09,0:03:48.79,Default,,0,0,0,,Ura! Recuperare completă!
+Dialogue: 99,0:03:48.79,0:03:52.09,Default,,0,0,0,,Colegă mai mare, \Nfaci cumva asta intenționat?
+Dialogue: 99,0:03:53.14,0:03:55.99,Default,,0,0,0,,Nu cred că este un lucru înțelept.
+Dialogue: 99,0:03:55.99,0:03:57.42,Default,,0,0,0,,Adică, sunt băiat...
+Dialogue: 99,0:03:58.34,0:04:02.58,Default,,0,0,0,,{\i1}Stai, asistentul crede că am dat-o în bară cu trucul intenționat?!
+Dialogue: 99,0:04:02.58,0:04:03.77,Default,,0,0,0,,{\i1}Asta este șansa mea!
+Dialogue: 99,0:04:04.30,0:04:06.88,Default,,0,0,0,,Așa este! Fac un spectacol \Nnumai pentru tine!
+Dialogue: 99,0:04:06.88,0:04:07.81,Default,,0,0,0,,{\i1}Pe bune?!
+Dialogue: 99,0:04:08.08,0:04:10.78,Default,,0,0,0,,{\i1}Știu că este incredibil de naivă, dar...
+Dialogue: 99,0:04:11.70,0:04:15.77,Default,,0,0,0,,{\i1}Stai, face pe proasta când ea este de fapt o ***** totală?
+Dialogue: 99,0:04:16.11,0:04:20.50,Default,,0,0,0,,{\i1}Adică, este drăguță și nu aș refuza sub nicio formă dacă mi-ar cere.
+Dialogue: 99,0:04:20.50,0:04:23.80,Default,,0,0,0,,{\i1}Sunt puțin dezamăgit. \NStai, la ce naiba mă gândesc?
+Dialogue: 99,0:04:23.80,0:04:25.93,Default,,0,0,0,,Ce s-a întâmplat? Ești complet roșu.
+Dialogue: 99,0:04:26.41,0:04:27.92,Default,,0,0,0,,Nimic!
+Dialogue: 99,0:04:27.92,0:04:28.93,Default,,0,0,0,,Adică...
+Dialogue: 99,0:04:28.93,0:04:32.55,Default,,0,0,0,,Cred că există niște etape pe care oamenii ar trebui să le urmeze când vine vorba de astfel de lucruri!
+Dialogue: 99,0:04:32.55,0:04:33.36,Default,,0,0,0,,Serios?
+Dialogue: 99,0:04:33.36,0:04:34.37,Default,,0,0,0,,Da!
+Dialogue: 99,0:04:34.73,0:04:39.42,Default,,0,0,0,,Atunci, voi aduce un DVD data viitoare ca să putem vedea cum o fac profesioniștii.
+Dialogue: 99,0:04:39.42,0:04:40.38,Default,,0,0,0,,{\i1}Nu se poate!
+Dialogue: 99,0:04:41.04,0:04:43.82,Default,,0,0,0,,Dar deocamdată, va trebui \Nsă ne descurcăm doar noi doi.
+Dialogue: 99,0:04:43.82,0:04:45.51,Default,,0,0,0,,F-Foarte bine...
+Dialogue: 99,0:04:45.80,0:04:48.36,Default,,0,0,0,,Dar fără resentimente mai târziu, bine?
+Dialogue: 99,0:04:48.36,0:04:49.76,Default,,0,0,0,,Să dăm tot ce avem mai bun!
+Dialogue: 99,0:04:49.76,0:04:52.02,Default,,0,0,0,,Atunci... eu...
+Dialogue: 99,0:04:53.58,0:04:55.23,Default,,0,0,0,,Unu, doi...
+Dialogue: 99,0:04:55.23,0:04:56.27,Default,,0,0,0,,Trei!
+Dialogue: 99,0:04:57.06,0:04:58.11,Default,,0,0,0,,Auci!
+Dialogue: 99,0:04:58.11,0:04:59.48,Default,,0,0,0,,Scuze, scuze!
+Dialogue: 99,0:04:59.89,0:05:01.40,Default,,0,0,0,,De ce?!
+Dialogue: 99,0:05:02.11,0:05:03.74,Default,,0,0,0,,"Colega mai mare dă vina pe altcineva."
+Dialogue: 99,0:05:04.05,0:05:06.74,Default,,0,0,0,,Atunci, permite-mi să ți-l prezint pe partenerul meu nr. 2!
+Dialogue: 99,0:05:06.98,0:05:09.23,Default,,0,0,0,,Ai adus alt porumbel?
+Dialogue: 99,0:05:09.23,0:05:12.49,Default,,0,0,0,,Permite-mi să ți-l \Nprezint pe... Behemoth!
+Dialogue: 99,0:05:12.73,0:05:14.50,Default,,0,0,0,,Privește! Privește! Se mișcă!
+Dialogue: 99,0:05:14.50,0:05:16.00,Default,,0,0,0,,Mănâncă!
+Dialogue: 99,0:05:16.00,0:05:20.88,Default,,0,0,0,,Colegă mai mare... ai adoptat un animal împăiat deoarece nu ai niciun prieten?
+Dialogue: 99,0:05:20.88,0:05:22.63,Default,,0,0,0,,Sigur că nu!
+Dialogue: 99,0:05:22.63,0:05:24.66,Default,,0,0,0,,Nu este un animal împăiat! Este viu!
+Dialogue: 99,0:05:24.66,0:05:26.28,Default,,0,0,0,,Nu ai deloc imaginație.
+Dialogue: 99,0:05:26.28,0:05:28.64,Default,,0,0,0,,{\i1}Deci, nu neagă partea cu "niciun prieten"?
+Dialogue: 99,0:05:28.64,0:05:33.34,Default,,0,0,0,,I-Incredibil! Behemoth \Nse urcă pe mâna mea!
+Dialogue: 99,0:05:33.34,0:05:36.31,Default,,0,0,0,,Arată de parcă îți freci un \Nanimal împăiat pe mână.
+Dialogue: 99,0:05:36.31,0:05:38.80,Default,,0,0,0,,Acum se urcă pe corpul meu!
+Dialogue: 99,0:05:41.35,0:05:42.68,Default,,0,0,0,,Ce?
+Dialogue: 99,0:05:42.68,0:05:45.33,Default,,0,0,0,,Dă tot ce poți, Behemoth! \NNu renunța!
+Dialogue: 99,0:05:45.33,0:05:47.64,Default,,0,0,0,,Ăștia chiar sunt niște \Nmunți greu de urcat!
+Dialogue: 99,0:05:49.51,0:05:52.08,Default,,0,0,0,,Behemoth îți poate găsi chiar și cartea!
+Dialogue: 99,0:05:52.32,0:05:54.86,Default,,0,0,0,,Oh? Cred că ți-a găsit-o deja!
+Dialogue: 99,0:05:54.86,0:05:57.79,Default,,0,0,0,,Asistentule... asta este cartea ta?
+Dialogue: 99,0:05:57.79,0:05:58.91,Default,,0,0,0,,Nu.
+Dialogue: 99,0:05:59.65,0:06:01.63,Default,,0,0,0,,C-Ce este în neregulă, Behemoth?
+Dialogue: 99,0:06:01.63,0:06:03.18,Default,,0,0,0,,Fă-o exact cum am exersat!
+Dialogue: 99,0:06:03.18,0:06:03.88,Default,,0,0,0,,Haide!
+Dialogue: 99,0:06:03.88,0:06:05.25,Default,,0,0,0,,Nu, este vina {\i1}ta{\i0}!
+Dialogue: 99,0:06:05.80,0:06:09.38,Default,,0,0,0,,După pauza noastră scurtă, haide să încercă să-ți ghicim cartea din nou!
+Dialogue: 99,0:06:09.38,0:06:12.57,Default,,0,0,0,,Alege o carte din acest pachet!
+Dialogue: 99,0:06:13.46,0:06:14.60,Default,,0,0,0,,{\i1}L-a dărâmat.
+Dialogue: 99,0:06:15.90,0:06:19.44,Default,,0,0,0,,Behemoth aici de față îți va \Nghici cartea pe care... Ce?
+Dialogue: 99,0:06:19.91,0:06:21.88,Default,,0,0,0,,Behemoth, unde ești?!
+Dialogue: 99,0:06:22.30,0:06:23.57,Default,,0,0,0,,{\i1}L-a omorât!
+Dialogue: 99,0:06:24.65,0:06:26.86,Default,,0,0,0,,Behemoth!
+Dialogue: 99,0:06:30.09,0:06:32.74,Default,,0,0,0,,Ei bine... Condolențele mele...
+Dialogue: 99,0:06:34.06,0:06:37.80,Default,,0,0,0,,Behemoth! Nu te voi uita niciodată!
+Dialogue: 99,0:06:37.80,0:06:39.51,Default,,0,0,0,,{\i1}Nici măcar nu îți curg lacrimile!
+Dialogue: 99,0:06:39.51,0:06:40.62,Default,,0,0,0,,{\i1}Ești varză la asta!
+Dialogue: 99,0:06:41.63,0:06:44.44,Default,,0,0,0,,Apropo, unde este "partenerul" tău?
+Dialogue: 99,0:06:44.44,0:06:45.74,Default,,0,0,0,,O, el?
+Dialogue: 99,0:06:45.74,0:06:47.77,Default,,0,0,0,,Îmi era greu să-l car și pe el, \Nașa că l-am lăsat acolo.
+Dialogue: 99,0:06:51.93,0:06:53.51,Default,,0,0,0,,"Domnișoara care nu se descurcă la magie."
+Dialogue: 99,0:06:54.84,0:06:56.89,Default,,0,0,0,,Este super cald astăzi.
+Dialogue: 99,0:06:57.55,0:06:58.77,Default,,0,0,0,,Pfiu...
+Dialogue: 99,0:06:58.77,0:07:00.64,Default,,0,0,0,,Hei, asistentule...
+Dialogue: 99,0:07:00.64,0:07:03.79,Default,,0,0,0,,Cred că astăzi este ziua mea norocoasă.
+Dialogue: 99,0:07:06.42,0:07:08.13,Default,,0,0,0,,Ce faci aici, colegă mai mare?
+Dialogue: 99,0:07:08.13,0:07:09.78,Default,,0,0,0,,Și ce ți s-a întâmplat?!
+Dialogue: 99,0:07:09.78,0:07:13.47,Default,,0,0,0,,Încercam să le arăt acestor \Ncopii bucuriile magiei.
+Dialogue: 99,0:07:13.47,0:07:14.57,Default,,0,0,0,,E varză.
+Dialogue: 99,0:07:14.57,0:07:16.17,Default,,0,0,0,,Nu îi iese nimic.
+Dialogue: 99,0:07:16.17,0:07:17.23,Default,,0,0,0,,Ne trage pe sfoară.
+Dialogue: 99,0:07:17.59,0:07:18.77,Default,,0,0,0,,E plictisitoare.
+Dialogue: 99,0:07:19.71,0:07:21.71,Default,,0,0,0,,M-am întors, copii!
+Dialogue: 99,0:07:22.37,0:07:24.21,Default,,0,0,0,,Ce? Păreți triști.
+Dialogue: 99,0:07:24.21,0:07:26.20,Default,,0,0,0,,Magia este plictisitoare.
+Dialogue: 99,0:07:26.20,0:07:27.69,Default,,0,0,0,,Jocurile video sunt mai distractive.
+Dialogue: 99,0:07:27.69,0:07:28.46,Default,,0,0,0,,Așa este!
+Dialogue: 99,0:07:28.46,0:07:29.51,Default,,0,0,0,,Asistentule?!
+Dialogue: 99,0:07:30.07,0:07:33.85,Default,,0,0,0,,Nu vă faceți griji! Vă voi arăta un truc mult mai grozav de data asta!
+Dialogue: 99,0:07:33.85,0:07:36.33,Default,,0,0,0,,Vom privi, dar dacă o \Nvei da în bară din nou,
+Dialogue: 99,0:07:36.33,0:07:39.24,Default,,0,0,0,,vom răspândi zvonuri despre domnișoara din parca care nu se descurcă la magie!
+Dialogue: 99,0:07:39.24,0:07:40.06,Default,,0,0,0,,{\i1}Asta e chiar dur!
+Dialogue: 99,0:07:40.32,0:07:41.81,Default,,0,0,0,,Nu vă faceți grji!
+Dialogue: 99,0:07:41.81,0:07:44.08,Default,,0,0,0,,Asistentul meu va fi \Ncel care va face trucul!
+Dialogue: 99,0:07:45.27,0:07:47.49,Default,,0,0,0,,Ne vei arăta un truc, domnule?
+Dialogue: 99,0:07:49.39,0:07:51.31,Default,,0,0,0,,Foarte bine. Dacă trebuie!
+Dialogue: 99,0:07:52.43,0:07:54.88,Default,,0,0,0,,Bun, acesta este Behemoth.
+Dialogue: 99,0:07:54.88,0:07:55.91,Default,,0,0,0,,Spune salut!
+Dialogue: 99,0:07:56.49,0:07:57.66,Default,,0,0,0,,Mănâncă!
+Dialogue: 99,0:07:58.11,0:07:59.54,Default,,0,0,0,,Se cațără!
+Dialogue: 99,0:08:00.85,0:08:02.42,Default,,0,0,0,,Învârte, învârte, învârte!
+Dialogue: 99,0:08:02.42,0:08:03.98,Default,,0,0,0,,A adormit!
+Dialogue: 99,0:08:03.98,0:08:07.46,Default,,0,0,0,,Behemoth a adormit, \Niar spectacolul s-a terminat!
+Dialogue: 99,0:08:07.46,0:08:08.17,Default,,0,0,0,,Este atât de bun!
+Dialogue: 99,0:08:08.17,0:08:10.84,Default,,0,0,0,,Știu ce este! Este un \Nanimal împăiat, nu-i așa?
+Dialogue: 99,0:08:11.25,0:08:15.19,Default,,0,0,0,,{\i1}Asistentule, este momentul să scapi de acuzații dând un răspuns îndrăzneț!
+Dialogue: 99,0:08:15.19,0:08:16.80,Default,,0,0,0,,Desigur că este un animal împăiat.
+Dialogue: 99,0:08:16.80,0:08:18.06,Default,,0,0,0,,Asistentule!
+Dialogue: 99,0:08:18.17,0:08:19.87,Default,,0,0,0,,Bine, îl voi face eu!
+Dialogue: 99,0:08:19.87,0:08:22.97,Default,,0,0,0,,Deci, a ales calea "domnișoarei care nu se descurcă la magie".
+Dialogue: 99,0:08:22.97,0:08:24.23,Default,,0,0,0,,Ești rău!
+Dialogue: 99,0:08:24.55,0:08:28.36,Default,,0,0,0,,Acum, cu schimbarea magicianului, \Nvoi face trucul cu schimbarea foarte rapidă!
+Dialogue: 99,0:08:29.29,0:08:31.63,Default,,0,0,0,,{\i1}Îmi voi arăta spatele \Ndoar asistentului meu!
+Dialogue: 99,0:08:31.63,0:08:34.62,Default,,0,0,0,,Le-am făcut cu închidere \NVelcro ca să le pot da jos!
+Dialogue: 99,0:08:34.62,0:08:36.32,Default,,0,0,0,,"Domnișoara care face magie indecentă"!
+Dialogue: 99,0:08:44.88,0:08:46.21,Default,,0,0,0,,Hei, domnule...
+Dialogue: 99,0:08:46.63,0:08:48.57,Default,,0,0,0,,Știi unde găsesc acest monstru?
+Dialogue: 99,0:08:49.21,0:08:50.96,Default,,0,0,0,,O, acela?
+Dialogue: 99,0:08:51.23,0:08:53.69,Default,,0,0,0,,Este o fântână în orașul de peste munți.
+Dialogue: 99,0:08:53.69,0:08:55.34,Default,,0,0,0,,Arată-mi și mie!
+Dialogue: 99,0:08:55.60,0:08:56.85,Default,,0,0,0,,Uimitor!
+Dialogue: 99,0:08:56.04,0:09:00.10,Default,,0,0,0,,{\an8}Nu uitați de mine! Nu uitați \Nde colega mai mare!
+Dialogue: 99,0:08:56.85,0:08:58.32,Default,,0,0,0,,Știe totul!
+Dialogue: 99,0:08:58.86,0:09:00.10,Default,,0,0,0,,Arată-mi și mie!
+Dialogue: 99,0:09:01.69,0:09:03.85,Default,,0,0,0,,Ei bine? Ai reușit să te schimbi?
+Dialogue: 99,0:09:05.42,0:09:07.85,Default,,0,0,0,,Am uitat să-mi aduc haine de schimb.
+Dialogue: 99,0:09:09.35,0:09:12.12,Default,,0,0,0,,Stai, adică, sub pelerină ești...
+Dialogue: 99,0:09:14.22,0:09:17.99,Default,,0,0,0,,{\i1}Și astfel, colega mai mare \Ns-a retras încetișor în pădure.
+Dialogue: 99,0:09:18.51,0:09:24.69,Default,,0,0,0,,{\i1}Și așa a luat naștere zvonul exhibiționistei cu pelerină din parc.
+Dialogue: 99,0:09:25.41,0:09:26.75,Default,,0,0,0,,"Colega mai mare devine serioasă."
+Dialogue: 99,0:09:27.32,0:09:29.88,Default,,0,0,0,,{\i1}Astăzi este ultima zi când putem depune formularul pentru a intra într-un club.
+Dialogue: 99,0:09:30.18,0:09:31.35,Default,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:09:31.35,0:09:33.74,Default,,0,0,0,,Spune-ți problemele \Ncolegei tale mai mari!
+Dialogue: 99,0:09:33.74,0:09:36.65,Default,,0,0,0,,Mă gândeam că ar fi bine \Nsă mă decid cărui club mă alătur.
+Dialogue: 99,0:09:38.07,0:09:39.89,Default,,0,0,0,,Nu l-ai ales încă?
+Dialogue: 99,0:09:40.59,0:09:43.45,Default,,0,0,0,,Atunci, haide să avem \Nîncă o zi de club activă!
+Dialogue: 99,0:09:43.45,0:09:45.64,Default,,0,0,0,,De fapt, speram să plec \Nmai devreme astăzi...
+Dialogue: 99,0:09:46.45,0:09:47.44,Default,,0,0,0,,Bun!
+Dialogue: 99,0:09:47.44,0:09:50.94,Default,,0,0,0,,Deci, pentru ce truc \Neste această funie?
+Dialogue: 99,0:09:50.94,0:09:55.64,Default,,0,0,0,,Acum că nu mai poți fugi, \Nmi-ar plăcea să încep!
+Dialogue: 99,0:09:55.64,0:09:56.62,Default,,0,0,0,,Ce naiba!
+Dialogue: 99,0:09:57.22,0:10:00.70,Default,,0,0,0,,Trucul de astăzi îi va implica pe acești iepurași din burete.
+Dialogue: 99,0:10:01.14,0:10:03.08,Default,,0,0,0,,Ține unul, asistentule.
+Dialogue: 99,0:10:03.08,0:10:05.09,Default,,0,0,0,,{\i1}Este evident că mi i-ai dat pe amândoi.
+Dialogue: 99,0:10:05.09,0:10:08.78,Default,,0,0,0,,Vai, vai, se pare că celălalt \Na dispărut din mâna mea!
+Dialogue: 99,0:10:08.78,0:10:11.59,Default,,0,0,0,,Dar dacă{\i1}-ți{\i0} vei desface pumnul...
+Dialogue: 99,0:10:12.01,0:10:12.97,Default,,0,0,0,,Ta-da!
+Dialogue: 99,0:10:12.97,0:10:14.59,Default,,0,0,0,,A apărut în mâna ta!
+Dialogue: 99,0:10:14.59,0:10:18.54,Default,,0,0,0,,Sunt foarte buni prieteni, \Ndeci nu pot fi despărțiți!
+Dialogue: 99,0:10:19.32,0:10:21.15,Default,,0,0,0,,Exact ca noi doi.
+Dialogue: 99,0:10:21.15,0:10:22.97,Default,,0,0,0,,{\i1}Nu spune ceva înspăimântător dintr-odată!
+Dialogue: 99,0:10:23.48,0:10:27.62,Default,,0,0,0,,Și acum, strânge amândoi iepurii în mână!
+Dialogue: 99,0:10:27.62,0:10:31.07,Default,,0,0,0,,Vei vedea curând că vei \Navea mâna plină de iepurași—
+Dialogue: 99,0:10:31.07,0:10:32.31,Default,,0,0,0,,Scârbos!
+Dialogue: 99,0:10:33.09,0:10:36.26,Default,,0,0,0,,Scuze, se pare că \Ntranspirația mea i-a lipit!
+Dialogue: 99,0:10:36.26,0:10:37.65,Default,,0,0,0,,Lasă-mă să-i curăț!
+Dialogue: 99,0:10:37.65,0:10:38.59,Default,,0,0,0,,Ăsta e un spectacol horror.
+Dialogue: 99,0:10:39.02,0:10:42.64,Default,,0,0,0,,Permite-mi să-ți explic. Iepurii părinți suntem noi doi.
+Dialogue: 99,0:10:42.64,0:10:46.33,Default,,0,0,0,,Iar iepurașii sunt colegii de club cărora le vom da naștere!
+Dialogue: 99,0:10:46.33,0:10:48.46,Default,,0,0,0,,Le vom da naștere?
+Dialogue: 99,0:10:48.46,0:10:49.33,Default,,0,0,0,,Asistentule...
+Dialogue: 99,0:10:49.33,0:10:50.08,Default,,0,0,0,,Ce?
+Dialogue: 99,0:10:52.26,0:10:53.65,Default,,0,0,0,,O prindere grozavă!
+Dialogue: 99,0:10:53.65,0:10:55.21,Default,,0,0,0,,Acela... sunt eu?
+Dialogue: 99,0:10:56.42,0:11:00.78,Default,,0,0,0,,Ultimul lucru pe care vreau să-l transmit prin trucul meu cu iepurași
+Dialogue: 99,0:11:00.78,0:11:03.94,Default,,0,0,0,,este importanța unei echipe în care poți avea încredere.
+Dialogue: 99,0:11:03.94,0:11:05.43,Default,,0,0,0,,{\i1}Cum se aplică asta?!
+Dialogue: 99,0:11:05.43,0:11:09.07,Default,,0,0,0,,Deci, haide să facem un club împreună!
+Dialogue: 99,0:11:09.07,0:11:09.64,Default,,0,0,0,,Iei!
+Dialogue: 99,0:11:10.44,0:11:11.14,Default,,0,0,0,,Să facem?
+Dialogue: 99,0:11:11.14,0:11:14.77,Default,,0,0,0,,Ei bine, nu putem forma un club fără membrii și un consilier!
+Dialogue: 99,0:11:15.02,0:11:16.87,Default,,0,0,0,,Stai, ăsta nu era un club oficial?!
+Dialogue: 99,0:11:16.87,0:11:19.90,Default,,0,0,0,,Acum, voi merge să-ți depun formularul!
+Dialogue: 99,0:11:19.90,0:11:21.78,Default,,0,0,0,,M-ai păcălit! Asta este fraudă!
+Dialogue: 99,0:11:21.78,0:11:23.41,Default,,0,0,0,,Nu este fraudă...
+Dialogue: 99,0:11:23.70,0:11:24.99,Default,,0,0,0,,Ci magie!
+Dialogue: 99,0:12:25.59,0:12:28.47,Default,,0,0,0,,Urmăriți-ne și săptămâna viitoare pentru mai mult din {\i1}Magical Sempai{\i0}!
 Dialogue: 0,0:00:02.73,0:00:02.77,KazuyaShuuSigns,,0,0,0,,{\an2\pos(825,-22.68)\fscx188.59\fscy188.59\frz5\fax0.07\fnSplatch\fs180\fsp22.5\1c&H302A45&\blur1.05\q2}M{\frz364.231\fax0.062\1c&H6D6B74&}a{\frz363.462\fax0.053\1c&H302A45&}g{\frz362.692\fax0.045\1c&H6D6B74&}i{\frz361.923\fax0.036\1c&H302A45&}c{\frz361.154\fax0.028\1c&H6D6B74&}a{\frz360.385\fax0.019\1c&H302A45&}l {\frz358.846\fax0.002\1c&H6D6B74&}S{\frz358.077\fax-0.006\1c&H302A45&}e{\frz357.308\fax-0.015\1c&H6D6B74&}m{\frz356.538\fax-0.023\1c&H302A45&}p{\frz355.769\fax-0.032\1c&H6D6B74&}a{\frz-5\fax-0.04\1c&H302A45&}i
 Dialogue: 0,0:00:02.77,0:00:02.81,KazuyaShuuSigns,,0,0,0,,{\an2\pos(828.855,-14.745)\fscx186.05\fscy186.05\frz5\fax0.07\fnSplatch\fs180\fsp22.5\1c&H312949&\blur1.05\q2}M{\frz364.231\fax0.062\1c&H706D72&}a{\frz363.462\fax0.053\1c&H312949&}g{\frz362.692\fax0.045\1c&H706D72&}i{\frz361.923\fax0.036\1c&H312949&}c{\frz361.154\fax0.028\1c&H706D72&}a{\frz360.385\fax0.019\1c&H312949&}l {\frz358.846\fax0.002\1c&H706D72&}S{\frz358.077\fax-0.006\1c&H312949&}e{\frz357.308\fax-0.015\1c&H706D72&}m{\frz356.538\fax-0.023\1c&H312949&}p{\frz355.769\fax-0.032\1c&H706D72&}a{\frz-5\fax-0.04\1c&H312949&}i
 Dialogue: 0,0:00:02.81,0:00:02.85,KazuyaShuuSigns,,0,0,0,,{\an2\pos(832.62,-7.005)\fscx183.58\fscy183.58\frz5\fax0.07\fnSplatch\fs180\fsp22.5\1c&H32284D&\blur1.05\q2}M{\frz364.231\fax0.062\1c&H726E6F&}a{\frz363.462\fax0.053\1c&H32284D&}g{\frz362.692\fax0.045\1c&H726E6F&}i{\frz361.923\fax0.036\1c&H32284D&}c{\frz361.154\fax0.028\1c&H726E6F&}a{\frz360.385\fax0.019\1c&H32284D&}l {\frz358.846\fax0.002\1c&H726E6F&}S{\frz358.077\fax-0.006\1c&H32284D&}e{\frz357.308\fax-0.015\1c&H726E6F&}m{\frz356.538\fax-0.023\1c&H32284D&}p{\frz355.769\fax-0.032\1c&H726E6F&}a{\frz-5\fax-0.04\1c&H32284D&}i

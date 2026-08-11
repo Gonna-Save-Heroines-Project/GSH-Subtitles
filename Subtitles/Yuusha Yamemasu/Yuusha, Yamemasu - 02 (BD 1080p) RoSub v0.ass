@@ -31,332 +31,332 @@ Style: ED TL,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.97,0:00:05.62,Dialogue,,0,0,0,,{\i1}Dimineața începe devreme \Nla Castelul Reginei Demon.
-Dialogue: 100,0:00:12.02,0:00:13.32,Dialogue,,0,0,0,,{\i1}Ce zi frumoasă.
-Dialogue: 100,0:00:14.21,0:00:15.95,Dialogue,,0,0,0,,{\i1}Perfectă pentru o zi plină de muncă.
-Dialogue: 100,0:00:18.48,0:00:20.71,Dialogue,,0,0,0,,{\i1}Ca angajat temporar trebuie \Nsă arăt de ce sunt în stare,
-Dialogue: 100,0:00:21.23,0:00:22.57,Dialogue,,0,0,0,,{\i1}să mă apuc de treabă înaintea celorlalți...
-Dialogue: 100,0:00:28.20,0:00:33.64,Dialogue,,0,0,0,,{\i1}și să arăt cât sunt de motivat!
-Dialogue: 100,0:00:41.15,0:00:42.26,Dialogue,,0,0,0,,Hei, trezirea.
-Dialogue: 100,0:00:46.41,0:00:47.78,Dialogue,,0,0,0,,Încă cinci minute...
-Dialogue: 100,0:00:48.45,0:00:50.98,Dialogue,,0,0,0,,Soarele a răsărit deja. E rândul tău acum!
-Dialogue: 100,0:00:51.31,0:00:53.88,Dialogue,,0,0,0,,Știu că ești obosită, dar ai treabă de făcut!
-Dialogue: 100,0:00:54.15,0:00:55.39,Dialogue,,0,0,0,,Am venit ca să te ajut, deci sus cu tine!
-Dialogue: 100,0:00:55.83,0:00:59.00,Dialogue,,0,0,0,,Nu vreau să mă ridic... \NVreau doar să lenevesc în pat.
-Dialogue: 100,0:01:01.00,0:01:02.33,Dialogue,,0,0,0,,Asta nu e prea bine.
-Dialogue: 100,0:01:04.10,0:01:06.40,Dialogue,,0,0,0,,Schimbarea Vocii: Regina Echidna.
-Dialogue: 100,0:01:09.22,0:01:09.55,Dialogue,,0,0,0,,Perfect.
-Dialogue: 100,0:01:11.02,0:01:14.41,Dialogue,,0,0,0,,Generalule-vrăjitor! \NRaportează starea noilor aplicanți!
-Dialogue: 100,0:01:16.28,0:01:18.79,Dialogue,,0,0,0,,Sper că nu intenționezi \Nsă-ți faci regina să aștepte!
-Dialogue: 100,0:01:18.79,0:01:21.16,Dialogue,,0,0,0,,Îmi parte foarte rău, Înălțimea Voastră!
-Dialogue: 100,0:01:21.79,0:01:26.09,Dialogue,,0,0,0,,Avem mai mulți aplicanți decât anticipasem și nu am reușit să-i intervievăm pe toți!
-Dialogue: 100,0:01:26.35,0:01:28.17,Dialogue,,0,0,0,,Dar nu va mai dura mult, vă promit!
-Dialogue: 100,0:01:28.79,0:01:31.46,Dialogue,,0,0,0,,Deci sesiunea a fost \Nprelungită, nu? Asta nu e bine.
-Dialogue: 100,0:01:31.54,0:01:35.63,Dialogue,,0,0,0,,Oh, no! I'll step in to ensure\Nthey won't be delayed any further!
-Dialogue: 100,0:01:36.46,0:01:41.67,Dialogue,,0,0,0,,I'll have the list of interview candidates\Nby tomorrow--no, by the end of today!
-Dialogue: 100,0:01:42.17,0:01:43.48,Dialogue,,0,0,0,,You realize this is why you're not sleeping enough, right?
-Dialogue: 100,0:01:43.96,0:01:46.75,Dialogue,,0,0,0,,No, it's all because I've been lacking in my duties!
-Dialogue: 100,0:01:47.01,0:01:47.55,Dialogue,,0,0,0,,Știi...
-Dialogue: 100,0:01:48.41,0:01:51.53,Dialogue,,0,0,0,,nu poți face totul pe cont propriu.
-Dialogue: 100,0:01:51.57,0:01:51.99,Dialogue,,0,0,0,,Da, doamnă!
-Dialogue: 100,0:01:52.23,0:01:55.09,Dialogue,,0,0,0,,You should be delegating tasks to people\Nwho work for you, people you trust.
-Dialogue: 100,0:01:55.21,0:01:55.65,Dialogue,,0,0,0,,Da, doamnă!
-Dialogue: 100,0:01:55.91,0:01:57.41,Dialogue,,0,0,0,,That's part of being a good boss.
-Dialogue: 100,0:01:57.86,0:01:58.28,Dialogue,,0,0,0,,Da, doamnă!
-Dialogue: 100,0:01:58.51,0:02:00.69,Dialogue,,0,0,0,,Aveți dreptate cu tot ce...
-Dialogue: 100,0:02:05.58,0:02:06.34,Dialogue,,0,0,0,,'Neața, Shutina.
-Dialogue: 100,0:02:07.03,0:02:08.15,Dialogue,,0,0,0,,Știu că e cam devreme, \Ndar ai treabă pentru mine?
-Dialogue: 100,0:02:13.64,0:02:14.26,Dialogue,,0,0,0,,Suntem atacați cumva?!
-Dialogue: 100,0:02:18.61,0:02:21.35,Dialogue,,0,0,0,,Sărăcuța Shutina... \NProbabil are un coșmar.
-Dialogue: 100,0:02:22.53,0:02:24.06,Dialogue,,0,0,0,,A fost destul de stresată \Nîn ultima perioadă...
-Dialogue: 100,0:03:57.85,0:03:59.83,Dialogue,,0,0,130,,{\an8}Nu-mi vine să cred. Ești incredibil...
-Dialogue: 100,0:04:00.78,0:04:04.92,Dialogue,,0,0,0,,{\an8}I can NOT believe you! Totally unbelievable!
-Dialogue: 100,0:04:02.78,0:04:06.73,Dialogue,,0,0,0,,Hei, ce tot mormăi acolo?
-Dialogue: 100,0:04:06.83,0:04:08.14,Dialogue,,0,0,0,,De ce te-ai activat așa?
-Dialogue: 100,0:04:09.50,0:04:11.58,Dialogue,,0,0,0,,Din cauza ta, evident!
-Dialogue: 100,0:04:11.88,0:04:15.00,Dialogue,,0,0,0,,Every! Infinitesimal! Speck!
-Dialogue: 100,0:04:15.33,0:04:19.00,Dialogue,,0,0,0,,Of your existence!
-Dialogue: 100,0:04:19.42,0:04:24.08,Dialogue,,0,0,0,,The Demon Army was suffering\Nfrom a dire lack of personnel.
-Dialogue: 100,0:04:24.71,0:04:28.67,Dialogue,,0,0,0,,After my highly-destructive assault on their army,
-Dialogue: 100,0:04:29.17,0:04:34.29,Dialogue,,0,0,0,,most of the top brass had returned to\Nthe Demon World to recover from their injuries.
-Dialogue: 100,0:04:34.88,0:04:40.63,Dialogue,,0,0,0,,The work they'd left behind had to be handled\Nby those who remained: the Four Generals.
-Dialogue: 100,0:04:41.29,0:04:46.71,Dialogue,,0,0,0,,And nobody knew how to do that work--\Nno one, save for Shutina.
-Dialogue: 100,0:04:47.00,0:04:52.08,Dialogue,,0,0,0,,It's the sort of thing that plagues big companies:\Nwork veterans can handle easily,
-Dialogue: 100,0:04:52.50,0:04:57.38,Dialogue,,0,0,0,,but those veterans don't have time to write\Na manual or train other people to do those tasks.
-Dialogue: 100,0:04:57.79,0:05:02.88,Dialogue,,0,0,0,,Then you have Queen Echidna, who wants\Nto refortify her army as soon as possible.
-Dialogue: 100,0:05:03.46,0:05:05.54,Dialogue,,0,0,0,,And someone just can't help\Nbut overwork themselves to do it.
-Dialogue: 100,0:05:05.83,0:05:08.79,Dialogue,,0,0,0,,Even if it means overworking herself to death.
-Dialogue: 100,0:05:10.25,0:05:14.25,Dialogue,,0,0,0,,That explains why her Icicle Lance barely packs a punch.
-Dialogue: 100,0:05:17.04,0:05:19.92,Dialogue,,0,0,0,,I came here to help with your workload, y'know.
-Dialogue: 100,0:05:20.25,0:05:22.71,Dialogue,,0,0,0,,You could be a little nicer to me.
-Dialogue: 100,0:05:22.71,0:05:24.00,Dialogue,,0,0,0,,Are you insane?!
-Dialogue: 100,0:05:24.21,0:05:28.46,Dialogue,,0,0,0,,Why in the world would I be nice to a man\Nwho barges into my room while I'm sleeping?!
-Dialogue: 100,0:05:28.46,0:05:30.46,Dialogue,,0,0,0,,I mean, you're a succubus, aren't you?
-Dialogue: 100,0:05:31.54,0:05:33.50,Dialogue,,0,0,0,,Don't say that!
-Dialogue: 100,0:05:42.38,0:05:44.79,Dialogue,,0,0,0,,This is your current task list?
-Dialogue: 100,0:05:44.79,0:05:48.04,Dialogue,,0,0,0,,Yes, with the highest-priority tasks at the top.
-Dialogue: 100,0:05:48.42,0:05:53.17,Dialogue,,0,0,0,,Evaluate applications, reorganize sorcerer corps,
-Dialogue: 100,0:05:53.17,0:05:59.75,Dialogue,,0,0,0,,regular maintenance on Queen Echidna's\Nretainer homunculi, operating cost reduction...
-Dialogue: 100,0:06:00.71,0:06:03.83,Dialogue,,0,0,0,,There's like, fifty tasks on here.\NWhy don't you delegate some of them?
-Dialogue: 100,0:06:03.83,0:06:07.00,Dialogue,,0,0,0,,To whom?! I don't have any colleagues or subordinates!
-Dialogue: 100,0:06:07.00,0:06:08.38,Dialogue,,0,0,0,,All right, all right.
-Dialogue: 100,0:06:08.96,0:06:10.83,Dialogue,,0,0,0,,The last task on this list is...
-Dialogue: 100,0:06:11.79,0:06:14.04,Dialogue,,0,0,0,,Replenishing the mana reactors.
-Dialogue: 100,0:06:14.04,0:06:15.79,Dialogue,,0,0,0,,What're you looking at?
-Dialogue: 100,0:06:15.79,0:06:17.38,Dialogue,,0,0,0,,Let me think here.
-Dialogue: 100,0:06:18.29,0:06:23.54,Dialogue,,0,0,0,,A number of castle facilities and instruments\Ntapped into mana from the reactors.
-Dialogue: 100,0:06:24.21,0:06:29.79,Dialogue,,0,0,0,,Only the person who created them\Ncan replenish them with mana.
-Dialogue: 100,0:06:30.46,0:06:35.75,Dialogue,,0,0,0,,So any reactors that Shutina created could\Nonly be replenished by Shutina herself.
-Dialogue: 100,0:06:35.75,0:06:39.96,Dialogue,,0,0,0,,If anyone with a different mana wavelength tried\Nto help, the reactor would be destroyed.
-Dialogue: 100,0:06:40.96,0:06:42.46,Dialogue,,0,0,0,,But that's where I come in.
-Dialogue: 100,0:06:42.46,0:06:44.21,Dialogue,,0,0,0,,What's that smirk for?
-Dialogue: 100,0:06:44.50,0:06:48.17,Dialogue,,0,0,0,,From today on, I'm gonna handle\Nreplenishing your mana reactors.
-Dialogue: 100,0:06:48.42,0:06:52.04,Dialogue,,0,0,0,,Thank you, that's wonderful.\NThat task is quite the headache to handle.
-Dialogue: 100,0:06:52.83,0:06:54.38,Dialogue,,0,0,0,,You're not going to ask how I'll do it?
-Dialogue: 100,0:06:54.38,0:06:59.13,Dialogue,,0,0,0,,You're going to mimic my wavelength\Nwith Harmonize, right? It's common sense.
-Dialogue: 100,0:06:59.75,0:07:03.04,Dialogue,,0,0,0,,It's only common sense to sorcerers\Nas powerful as we are.
-Dialogue: 100,0:07:04.46,0:07:07.08,Dialogue,,0,0,0,,So, how many reactors are yours?
-Dialogue: 100,0:07:07.08,0:07:08.38,Dialogue,,0,0,0,,Just four.
-Dialogue: 100,0:07:08.63,0:07:13.54,Dialogue,,0,0,0,,Not many, considering there are over\Na hundred throughout the castle.
-Dialogue: 100,0:07:14.13,0:07:16.75,Dialogue,,0,0,0,,They only have to be replenished once every few days.
-Dialogue: 100,0:07:17.63,0:07:18.67,Dialogue,,0,0,0,,Got it.
-Dialogue: 100,0:07:19.00,0:07:20.71,Dialogue,,0,0,0,,Give me thirty minutes and two hours.
-Dialogue: 100,0:07:21.42,0:07:23.63,Dialogue,,0,0,0,,Thirty minutes and two hours and I'll have it done.
-Dialogue: 100,0:07:24.58,0:07:27.92,Dialogue,,0,0,0,,I could get it done in less than an hour.
-Dialogue: 100,0:07:27.92,0:07:29.17,Dialogue,,0,0,0,,Don't be like that.
-Dialogue: 100,0:07:29.42,0:07:32.08,Dialogue,,0,0,0,,I'll promise you this, and stake my honor as a Hero on it.
-Dialogue: 100,0:07:32.08,0:07:32.96,Dialogue,,0,0,0,,Promise me what?
-Dialogue: 100,0:07:33.33,0:07:36.33,Dialogue,,0,0,0,,I promise to never, ever disappoint you.
-Dialogue: 100,0:07:36.42,0:07:38.21,Dialogue,,0,0,0,,In two and a half hours, you'll be all like,
-Dialogue: 100,0:07:38.21,0:07:42.17,Dialogue,,0,0,0,,"Oh yay, my workload is gonna be sooo light!\NYou're amazing, Leo! I love you so much!"
-Dialogue: 100,0:07:42.17,0:07:45.29,Dialogue,,0,0,0,,Then you'll jump up and give me a huge kiss!
-Dialogue: 100,0:07:46.92,0:07:48.21,Dialogue,,0,0,0,,Fine, go get it done.
-Dialogue: 100,0:07:48.54,0:07:50.46,Dialogue,,0,0,0,,That's all you have to say?
-Dialogue: 100,0:07:50.67,0:07:52.50,Dialogue,,0,0,0,,It's been fourteen seconds.
-Dialogue: 100,0:07:52.50,0:07:54.21,Dialogue,,0,0,0,,All right, I'm going...
-Dialogue: 100,0:07:55.50,0:07:56.83,Dialogue,,0,0,0,,Metamorphose!
-Dialogue: 100,0:08:03.33,0:08:06.96,Dialogue,,0,0,0,,Wait, I gotta think up a name. Something super cool.
-Dialogue: 100,0:08:06.96,0:08:08.63,Dialogue,,0,0,0,,Thirty seconds now.
-Dialogue: 100,0:08:08.63,0:08:10.17,Dialogue,,0,0,0,,Oh, one favor, actually!
-Dialogue: 100,0:08:10.58,0:08:15.92,Dialogue,,0,0,0,,Could you give me the title "Assistant to the Generals"?\NThat'll get people to trust me.
-Dialogue: 100,0:08:16.75,0:08:18.04,Dialogue,,0,0,0,,Very well.
-Dialogue: 100,0:08:18.04,0:08:19.00,Dialogue,,0,0,0,,Thanks.
-Dialogue: 100,0:08:20.71,0:08:23.58,Dialogue,,0,0,0,,How's the name Godhart sound to you?
-Dialogue: 100,0:08:23.58,0:08:24.92,Dialogue,,0,0,0,,Get a move on already!
-Dialogue: 100,0:08:45.50,0:08:47.00,Dialogue,,0,0,0,,...and that's why I've come to you all.
-Dialogue: 100,0:08:47.38,0:08:50.79,Dialogue,,0,0,0,,If you notice Shutina acting off at all,\Nlet me know immediately.
-Dialogue: 100,0:08:50.79,0:08:51.92,Dialogue,,0,0,0,,Understood.
-Dialogue: 100,0:08:53.25,0:08:55.63,Dialogue,,0,0,0,,I wish I could be of help to her...
-Dialogue: 100,0:08:56.00,0:08:58.88,Dialogue,,0,0,0,,You shouldn't. Shutina would stress out more if you did.
-Dialogue: 100,0:08:59.17,0:09:02.83,Dialogue,,0,0,0,,You're right. Thank you, everyone.
-Dialogue: 100,0:09:02.83,0:09:03.54,Dialogue,,0,0,0,,Of course.
-Dialogue: 100,0:09:08.04,0:09:09.42,Dialogue,,0,0,0,,I'll help!
-Dialogue: 100,0:09:09.63,0:09:13.21,Dialogue,,0,0,0,,Yeah! I got this!
-Dialogue: 100,0:09:13.42,0:09:14.79,Dialogue,,0,0,0,,I can do this!
-Dialogue: 100,0:09:18.54,0:09:19.75,Dialogue,,0,0,0,,I've returned, milady.
-Dialogue: 100,0:09:20.21,0:09:22.25,Dialogue,,0,0,0,,Why are you talking like that?
-Dialogue: 100,0:09:22.25,0:09:23.17,Dialogue,,0,0,0,,Milady.
-Dialogue: 100,0:09:25.79,0:09:29.67,Dialogue,,0,0,0,,I figured I'd change up my speaking\Nstyle to blend in better.
-Dialogue: 100,0:09:31.83,0:09:33.88,Dialogue,,0,0,0,,It's only been thirty minutes.
-Dialogue: 100,0:09:33.88,0:09:36.83,Dialogue,,0,0,0,,Have a little faith. I took care of it.
-Dialogue: 100,0:09:37.17,0:09:40.04,Dialogue,,0,0,0,,I suppose I should give you another task, then...
-Dialogue: 100,0:09:40.04,0:09:42.04,Dialogue,,0,0,0,,No, not yet. I'm kinda tired.
-Dialogue: 100,0:09:42.04,0:09:42.54,Dialogue,,0,0,0,,What?
-Dialogue: 100,0:09:42.92,0:09:46.21,Dialogue,,0,0,0,,It's been a while since I've adjusted\Nmy mana wavelength.
-Dialogue: 100,0:09:51.29,0:09:52.42,Dialogue,,0,0,0,,Mirage Eye?
-Dialogue: 100,0:09:52.71,0:09:55.88,Dialogue,,0,0,0,,I want to watch you work while I take a little break.
-Dialogue: 100,0:09:58.08,0:10:00.96,Dialogue,,0,0,0,,I won't get in your way. I'll sit here quietly.
-Dialogue: 100,0:10:02.50,0:10:05.79,Dialogue,,0,0,0,,I've got another task for you when\Nyou're done resting, all right?
-Dialogue: 100,0:10:17.92,0:10:20.92,Dialogue,,0,0,0,,Leo, you must be rested by now. I need you to--
-Dialogue: 100,0:10:20.92,0:10:23.38,Dialogue,,0,0,0,,Not yet. I need to rest just a little longer.
-Dialogue: 100,0:10:23.63,0:10:26.83,Dialogue,,0,0,0,,It's been a while since I've used Metamorphose.
-Dialogue: 100,0:10:30.17,0:10:31.67,Dialogue,,0,0,0,,This stuff's pretty bland.
-Dialogue: 100,0:10:32.13,0:10:34.63,Dialogue,,0,0,0,,I should see about improving the food around here, too...
-Dialogue: 100,0:10:45.71,0:10:49.42,Dialogue,,0,0,0,,It's been an hour! Surely you're more than rested!
-Dialogue: 100,0:10:49.42,0:10:52.71,Dialogue,,0,0,0,,No, I need a little more. My mana's still recovering.
-Dialogue: 100,0:10:52.71,0:10:53.92,Dialogue,,0,0,0,,You lazy bastard!
-Dialogue: 100,0:10:53.92,0:10:56.04,Dialogue,,0,0,0,,Get up this instant!
-Dialogue: 100,0:10:57.33,0:10:59.21,Dialogue,,0,0,0,,How are you this heavy?!
-Dialogue: 100,0:11:00.58,0:11:03.04,Dialogue,,0,0,0,,Most sorcerers don't realize you can\Nuse Gravity Root to do this!
-Dialogue: 100,0:11:03.46,0:11:06.75,Dialogue,,0,0,0,,You've got enough mana to waste on silly spells,\Nbut you still need to 'recover'?!
-Dialogue: 100,0:11:10.13,0:11:14.63,Dialogue,,0,0,0,,Decisions, decisions... Do I go with\NLord Godhart or Lord Bloodsword?
-Dialogue: 100,0:11:15.04,0:11:18.75,Dialogue,,0,0,0,,Wait, I could go with something totally different:\NBlack Knight Onyx.
-Dialogue: 100,0:11:18.75,0:11:20.54,Dialogue,,0,0,0,,What do you think of that, Shutina?
-Dialogue: 100,0:11:21.21,0:11:22.13,Dialogue,,0,0,0,,What's up?
-Dialogue: 100,0:11:22.13,0:11:23.96,Dialogue,,0,0,0,,I understand full well now, Hero Leo.
-Dialogue: 100,0:11:24.67,0:11:30.75,Dialogue,,0,0,0,,You're a worthless, lazy leech of time and resources!
-Dialogue: 100,0:11:30.75,0:11:33.17,Dialogue,,0,0,0,,Whoa, whoa, calm down!
-Dialogue: 100,0:11:33.17,0:11:34.38,Dialogue,,0,0,0,,I'm calm.
-Dialogue: 100,0:11:34.71,0:11:38.08,Dialogue,,0,0,0,,And after calmly and coolly thinking this over,
-Dialogue: 100,0:11:38.08,0:11:43.63,Dialogue,,0,0,0,,I've come to the calm conclusion that\Nyou will not be of use to our army in the slightest!
-Dialogue: 100,0:11:44.17,0:11:46.25,Dialogue,,0,0,0,,Dio Neel Zod, spiral of radiant light...
-Dialogue: 100,0:11:46.25,0:11:47.71,Dialogue,,0,0,0,,Whoa, whoa, whoa!
-Dialogue: 100,0:11:47.71,0:11:50.92,Dialogue,,0,0,0,,Fill my hands with your piercing rays of the gods!
-Dialogue: 100,0:11:50.92,0:11:53.42,Dialogue,,0,0,0,,Stop! You're going to destroy all your paperwork!
-Dialogue: 100,0:11:53.42,0:11:54.92,Dialogue,,0,0,0,,Gae Assail!
-Dialogue: 100,0:11:59.00,0:12:00.04,Dialogue,,0,0,0,,Yes!
-Dialogue: 100,0:12:02.38,0:12:04.50,Dialogue,,0,0,0,,I'm going to join the Demon Queen's legion.
-Dialogue: 100,0:12:05.58,0:12:07.79,Dialogue,,0,0,0,,I have to, for good reason.
-Dialogue: 100,0:12:08.25,0:12:13.46,Dialogue,,0,0,0,,And if I want to join, I'll need to show results\Nand get the Generals on my side.
-Dialogue: 100,0:12:14.63,0:12:16.88,Dialogue,,0,0,0,,This, right here, is step one!
-Dialogue: 100,0:12:21.25,0:12:25.38,Dialogue,,0,0,0,,Dianette, yes? Good work.
-Dialogue: 100,0:12:25.38,0:12:28.25,Dialogue,,0,0,0,,By the look of you, all must have gone well.
-Dialogue: 100,0:12:28.25,0:12:30.38,Dialogue,,0,0,0,,Yes, Lord Godhart.
-Dialogue: 100,0:12:30.38,0:12:33.17,Dialogue,,0,0,0,,Please, call me Black Knight Onyx.
-Dialogue: 100,0:12:33.17,0:12:36.38,Dialogue,,0,0,0,,From now on-- no, FORSOOTH? Henceforth?
-Dialogue: 100,0:12:36.38,0:12:38.33,Dialogue,,0,0,0,,Anyway, Black Knight Onyx, understood?
-Dialogue: 100,0:12:38.33,0:12:40.21,Dialogue,,0,0,0,,Y-yes, Lord Onyx...
-Dialogue: 100,0:12:40.46,0:12:44.38,Dialogue,,0,0,0,,Right then, proceed with your report\Non the reactor maintenance.
-Dialogue: 100,0:12:44.96,0:12:46.17,Dialogue,,0,0,0,,Yes, milord.
-Dialogue: 100,0:12:48.08,0:12:53.21,Dialogue,,0,0,0,,The talisman you granted me\Nworked without incident, Lord Onyx.
-Dialogue: 100,0:12:53.42,0:12:54.88,Dialogue,,0,0,0,,It appears to be durable enough to--
-Dialogue: 100,0:12:54.88,0:12:56.42,Dialogue,,0,0,0,,Wait, wait, hold on!
-Dialogue: 100,0:12:56.42,0:12:58.67,Dialogue,,0,0,0,,What talisman? What are you talking about?
-Dialogue: 100,0:12:58.92,0:13:02.71,Dialogue,,0,0,0,,Le-- Lord Onyx, was it not you\Nwho replenished the reactors?
-Dialogue: 100,0:13:02.71,0:13:04.54,Dialogue,,0,0,0,,Oh, uh...
-Dialogue: 100,0:13:04.54,0:13:08.17,Dialogue,,0,0,0,,Please, let her finish her report, Sorcerer General.
-Dialogue: 100,0:13:10.00,0:13:11.17,Dialogue,,0,0,0,,Go on, then.
-Dialogue: 100,0:13:11.17,0:13:12.88,Dialogue,,0,0,0,,Y-yes, milady.
-Dialogue: 100,0:13:13.21,0:13:17.29,Dialogue,,0,0,0,,The talisman appears to be\Ndurable enough for continued use,
-Dialogue: 100,0:13:17.29,0:13:23.88,Dialogue,,0,0,0,,so with your permission, I would like us to continue\Nreplenishing the reactors in your stead.
-Dialogue: 100,0:13:25.04,0:13:27.13,Dialogue,,0,0,0,,Would that be allowed, General Shutina?
-Dialogue: 100,0:13:27.42,0:13:32.50,Dialogue,,0,0,0,,But those are reactors that I created.\NYou'll be able to replenish them?
-Dialogue: 100,0:13:32.71,0:13:34.79,Dialogue,,0,0,0,,I'll take it from here.
-Dialogue: 100,0:13:35.46,0:13:42.38,Dialogue,,0,0,0,,First, let me explain what exactly I was doing\Nin those thirty minutes I was gone.
-Dialogue: 100,0:13:42.83,0:13:49.21,Dialogue,,0,0,0,,I went to the castle workshop and procured\Nan amethyst from the goblin goldsmith.
-Dialogue: 100,0:13:50.00,0:13:53.79,Dialogue,,0,0,0,,I filled the amethyst with mana tuned to your wavelength.
-Dialogue: 100,0:13:54.67,0:14:00.08,Dialogue,,0,0,0,,Amethysts are sturdy stones.\NThey'll stay attuned to a wavelength indefinitely.
-Dialogue: 100,0:14:00.46,0:14:04.71,Dialogue,,0,0,0,,Anyone who holds it on their person\Nwill be attuned to your wavelength as well.
-Dialogue: 100,0:14:05.38,0:14:07.21,Dialogue,,0,0,0,,So I created a talisman with the stone,
-Dialogue: 100,0:14:07.71,0:14:09.58,Dialogue,,0,0,0,,which only took fifteen minutes.
-Dialogue: 100,0:14:14.75,0:14:18.50,Dialogue,,0,0,0,,I left the workshop, then lost five minutes\Nto an unexpected distraction.
-Dialogue: 100,0:14:18.79,0:14:20.00,Dialogue,,0,0,0,,Hey, it's Leo!
-Dialogue: 100,0:14:22.08,0:14:24.54,Dialogue,,0,0,0,,Then I took five minutes to find Dianette here.
-Dialogue: 100,0:14:25.46,0:14:29.17,Dialogue,,0,0,0,,With my last five minutes, I showed her how\Nto use the talisman to replenish the reactors.
-Dialogue: 100,0:14:30.38,0:14:36.88,Dialogue,,0,0,0,,He told me as long as I'm wearing this talisman,\NI can replenish all of your reactors.
-Dialogue: 100,0:14:36.88,0:14:38.92,Dialogue,,0,0,0,,After that, I said:
-Dialogue: 100,0:14:39.71,0:14:46.00,Dialogue,,0,0,0,,Find a few other people with the\Nappropriate ability and split the job up.
-Dialogue: 100,0:14:46.00,0:14:46.92,Dialogue,,0,0,0,,Yes, milord.
-Dialogue: 100,0:14:47.46,0:14:49.08,Dialogue,,0,0,0,,I found three other sorcerers of similar capacity.
-Dialogue: 100,0:14:49.08,0:14:53.88,Dialogue,,0,0,0,,We passed the talisman around to refill the reactors.
-Dialogue: 100,0:14:53.88,0:14:55.04,Dialogue,,0,0,0,,Excellent.
-Dialogue: 100,0:14:55.50,0:14:58.92,Dialogue,,0,0,0,,I trust, then, that all four of you\Nunderstand the procedure?
-Dialogue: 100,0:15:00.54,0:15:02.88,Dialogue,,0,0,0,,The Sorcerer General is a busy woman.
-Dialogue: 100,0:15:02.88,0:15:08.25,Dialogue,,0,0,0,,Form a team of four and assume responsibility\Nfor replenishing her reactors henceforth.
-Dialogue: 100,0:15:08.58,0:15:11.83,Dialogue,,0,0,0,,I'll have enough talismans for all of\Nyou within the next three days.
-Dialogue: 100,0:15:11.83,0:15:12.63,Dialogue,,0,0,0,,Yes, milord!
-Dialogue: 100,0:15:13.21,0:15:17.63,Dialogue,,0,0,0,,You took a bit longer than I'd like for this task,\Nbut it IS your first time.
-Dialogue: 100,0:15:18.17,0:15:21.75,Dialogue,,0,0,0,,I expect you to perform it more quickly come tomorrow.
-Dialogue: 100,0:15:22.04,0:15:23.13,Dialogue,,0,0,0,,Of course, milord!
-Dialogue: 100,0:15:23.21,0:15:25.00,Dialogue,,0,0,0,,That will be all.
-Dialogue: 100,0:15:25.00,0:15:28.38,Dialogue,,0,0,0,,Wait, uh, I...
-Dialogue: 100,0:15:29.54,0:15:32.46,Dialogue,,0,0,0,,As you can see, the mana reactors\Nhave been replenished.
-Dialogue: 100,0:15:33.17,0:15:36.75,Dialogue,,0,0,0,,It is our duty to lessen the burden on your shoulders.
-Dialogue: 100,0:15:37.46,0:15:41.75,Dialogue,,0,0,0,,Dianette, here, was worried for your health as well.
-Dialogue: 100,0:15:42.54,0:15:43.67,Dialogue,,0,0,0,,She was?
-Dialogue: 100,0:15:44.29,0:15:45.63,Dialogue,,0,0,0,,Oh, m-my apologies, but yes.
-Dialogue: 100,0:15:45.63,0:15:51.25,Dialogue,,0,0,0,,I know you've been grappling with a mountain\Nof tasks in recent days, General Shutina.
-Dialogue: 100,0:16:00.88,0:16:03.54,Dialogue,,0,0,0,,M-might I be of some assistance, General Shutina?
-Dialogue: 100,0:16:07.71,0:16:11.04,Dialogue,,0,0,0,,I'm fine. You focus on your own tasks.
-Dialogue: 100,0:16:12.92,0:16:17.50,Dialogue,,0,0,0,,I had neither the courage nor ability to press the matter...
-Dialogue: 100,0:16:19.13,0:16:24.46,Dialogue,,0,0,0,,But thanks to Lord Onyx, we'll be able\Nto assist with the mana reactors!
-Dialogue: 100,0:16:24.71,0:16:29.33,Dialogue,,0,0,0,,If there's anything else we can help with,\Nplease don't hesitate to ask!
-Dialogue: 100,0:16:31.13,0:16:33.58,Dialogue,,0,0,0,,I-I see. Very well.
-Dialogue: 100,0:16:34.04,0:16:37.83,Dialogue,,0,0,0,,I will be sure to reach out to you if there\Nare tasks you can help with, Dianette.
-Dialogue: 100,0:16:37.83,0:16:38.67,Dialogue,,0,0,0,,Yes, milady!
-Dialogue: 100,0:16:39.21,0:16:41.46,Dialogue,,0,0,0,,Good work. You are dismissed.
-Dialogue: 100,0:16:41.46,0:16:42.38,Dialogue,,0,0,0,,Yes, milady!
-Dialogue: 100,0:16:44.50,0:16:45.54,Dialogue,,0,0,0,,Thank you, milady!
-Dialogue: 100,0:16:51.63,0:16:56.04,Dialogue,,0,0,0,,T'would seem you finally understand\Nmy true labors, Sorcerer General.
-Dialogue: 100,0:16:59.83,0:17:03.04,Dialogue,,0,0,0,,All you need to do now is let them handle it\Nand hear their reports.
-Dialogue: 100,0:17:03.38,0:17:06.21,Dialogue,,0,0,0,,You'll only have to help out if something goes wrong.
-Dialogue: 100,0:17:09.38,0:17:12.25,Dialogue,,0,0,0,,I told you, I only needed two and a half hours,
-Dialogue: 100,0:17:12.25,0:17:15.58,Dialogue,,0,0,0,,and now your workload is permanently decreased.
-Dialogue: 100,0:17:17.42,0:17:20.71,Dialogue,,0,0,0,,Work isn't something that should be done alone.
-Dialogue: 100,0:17:21.04,0:17:24.58,Dialogue,,0,0,0,,Especially not in a large organization where\Nthere are plenty of people who can help.
-Dialogue: 100,0:17:25.13,0:17:28.13,Dialogue,,0,0,0,,Instead of having one extremely-skilled\Nperson work extremely hard,
-Dialogue: 100,0:17:28.13,0:17:31.75,Dialogue,,0,0,0,,it's best to delegate many\Nsmall tasks out to less skilled people.
-Dialogue: 100,0:17:32.64,0:17:35.14,Dialogue,,0,0,0,,That's how you should get most of the work done.
-Dialogue: 100,0:17:36.12,0:17:39.04,Dialogue,,0,0,0,,In an ideal world, of course.
-Dialogue: 100,0:17:40.45,0:17:42.54,Dialogue,,0,0,0,,Why didn't you explain that earlier?
-Dialogue: 100,0:17:43.03,0:17:44.90,Dialogue,,0,0,0,,You could have told me you asked Dianette to help.
-Dialogue: 100,0:17:45.39,0:17:46.66,Dialogue,,0,0,0,,Because you worry too much.
-Dialogue: 100,0:17:47.55,0:17:50.78,Dialogue,,0,0,0,,If I'd told you, you would've rushed off\Nto "go check on her".
-Dialogue: 100,0:17:52.08,0:17:58.86,Dialogue,,0,0,0,,Most of the people in the army are people you\Ninterviewed, people you trust to perform well.
-Dialogue: 100,0:17:59.77,0:18:03.11,Dialogue,,0,0,0,,So trust in your judgment,\Nand in the people working beneath you!
-Dialogue: 100,0:18:04.41,0:18:09.04,Dialogue,,0,0,0,,Run the organization so it could still function\Nif you dropped dead tomorrow.
-Dialogue: 100,0:18:10.92,0:18:13.46,Dialogue,,0,0,0,,That's a lot of talk for someone\Nwho insisted on working alone.
-Dialogue: 100,0:18:14.78,0:18:16.59,Dialogue,,0,0,0,,I've got a lot of life experience under my belt.
-Dialogue: 100,0:18:16.82,0:18:18.20,Dialogue,,0,0,0,,Wait! Wait just a second!
-Dialogue: 100,0:18:19.17,0:18:21.70,Dialogue,,0,0,0,,You make a big show of 'teaching'\Nand 'delegating' to a subordinate,
-Dialogue: 100,0:18:21.98,0:18:26.10,Dialogue,,0,0,0,,and while they were hard at work,\Nyou did nothing but loaf about in my office!
-Dialogue: 100,0:18:26.85,0:18:28.74,Dialogue,,0,0,0,,You slacker! What's your excuse for that?
-Dialogue: 100,0:18:29.32,0:18:29.96,Dialogue,,0,0,0,,You wound me.
-Dialogue: 100,0:18:30.87,0:18:33.14,Dialogue,,0,0,0,,I was loafing, yes,\Nbut I was also working.
-Dialogue: 100,0:18:33.54,0:18:33.83,Dialogue,,0,0,0,,What?
-Dialogue: 100,0:18:34.39,0:18:34.77,Dialogue,,0,0,0,,Here.
-Dialogue: 100,0:18:35.99,0:18:38.87,Dialogue,,0,0,0,,I learned a lot about from watching you\Nand your cleavage work.
-Dialogue: 100,0:18:39.96,0:18:42.14,Dialogue,,0,0,0,,I spotted some inefficiencies here and there.
-Dialogue: 100,0:18:42.91,0:18:45.80,Dialogue,,0,0,0,,I took the liberty of rearranging\Nyour priorities. Take a look.
-Dialogue: 100,0:18:47.25,0:18:48.28,Dialogue,,0,0,0,,Let me see.
-Dialogue: 100,0:18:54.16,0:18:55.75,Dialogue,,0,0,0,,Wait, did you say CLEAVAGE?
-Dialogue: 100,0:18:56.66,0:18:58.76,Dialogue,,0,0,0,,See those seven tasks I circled in red?
-Dialogue: 100,0:18:59.48,0:19:01.45,Dialogue,,0,0,0,,You can delegate those.
-Dialogue: 100,0:19:04.06,0:19:05.22,Dialogue,,0,0,0,,But can they handle it?
-Dialogue: 100,0:19:06.17,0:19:07.93,Dialogue,,0,0,0,,Teach them HOW to handle it.
-Dialogue: 100,0:19:08.50,0:19:09.77,Dialogue,,0,0,0,,That's your job as their boss.
-Dialogue: 100,0:19:15.18,0:19:16.42,Dialogue,,0,0,0,,Is this a map of the Largo Sea?
-Dialogue: 100,0:19:17.02,0:19:19.21,Dialogue,,0,0,0,,The fish from that area are fantastic.
-Dialogue: 100,0:19:20.22,0:19:23.00,Dialogue,,0,0,0,,We could make some scrumptious meals\Nif we got some delivered,
-Dialogue: 100,0:19:23.33,0:19:26.28,Dialogue,,0,0,0,,but considering how dangerous\Nthe shipping route would be...
-Dialogue: 100,0:19:26.55,0:19:27.08,Dialogue,,0,0,0,,Leo.
-Dialogue: 100,0:19:29.60,0:19:31.64,Dialogue,,0,0,0,,Yes, Sorcerer General Shutina?
-Dialogue: 100,0:19:32.78,0:19:33.80,Dialogue,,0,0,0,,I apologize.
-Dialogue: 100,0:19:34.20,0:19:35.69,Dialogue,,0,0,0,,I've gravely misjudged you.
-Dialogue: 100,0:19:35.93,0:19:36.50,Dialogue,,0,0,0,,C'mon, now.
-Dialogue: 100,0:19:37.37,0:19:39.17,Dialogue,,0,0,0,,I just did my job is all.
-Dialogue: 100,0:19:39.69,0:19:40.73,Dialogue,,0,0,0,,That only makes it worse.
-Dialogue: 100,0:19:41.94,0:19:44.90,Dialogue,,0,0,0,,Despite how harshly I acted\Ntowards you during the interview,
-Dialogue: 100,0:19:45.92,0:19:48.59,Dialogue,,0,0,0,,you still pressed on and did an excellent job.
-Dialogue: 100,0:19:49.75,0:19:53.02,Dialogue,,0,0,0,,I couldn't well call myself one of the Four Generals\Nif I didn't thank you for that.
-Dialogue: 100,0:19:55.68,0:19:56.70,Dialogue,,0,0,0,,Don't mention it.
-Dialogue: 100,0:19:57.38,0:20:00.75,Dialogue,,0,0,0,,If you go down, the whole army goes down with you.
-Dialogue: 100,0:20:01.93,0:20:04.22,Dialogue,,0,0,0,,And then I REALLY won't have a place to go anymore.
-Dialogue: 100,0:20:04.79,0:20:05.99,Dialogue,,0,0,0,,I was just looking out for myself.
-Dialogue: 100,0:20:06.82,0:20:08.06,Dialogue,,0,0,0,,No need to thank me for that.
-Dialogue: 100,0:20:08.79,0:20:10.57,Dialogue,,0,0,0,,And here I was giving you a heartfelt apology!
-Dialogue: 100,0:20:10.79,0:20:12.98,Dialogue,,0,0,0,,How is anyone supposed to like you?!
-Dialogue: 100,0:20:13.79,0:20:15.61,Dialogue,,0,0,0,,Why do you think I was traveling alone for so long?
-Dialogue: 100,0:20:17.03,0:20:17.51,Dialogue,,0,0,0,,All right,
-Dialogue: 100,0:20:18.13,0:20:21.07,Dialogue,,0,0,0,,better start on my next task.\NCall me if you need me.
-Dialogue: 100,0:20:21.79,0:20:22.51,Dialogue,,0,0,0,,Before you go...
-Dialogue: 100,0:20:23.27,0:20:25.59,Dialogue,,0,0,0,,I'm looking forward to working with you, Leo.
-Dialogue: 100,0:20:32.12,0:20:32.83,Dialogue,,0,0,0,,Oh, I forgot!
-Dialogue: 100,0:20:33.64,0:20:34.35,Dialogue,,0,0,0,,What is it?
-Dialogue: 100,0:20:34.79,0:20:37.47,Dialogue,,0,0,0,,Remember what I said after you gave me this task?
-Dialogue: 100,0:20:38.15,0:20:40.46,Dialogue,,0,0,0,,I promised I wouldn't disappoint you,
-Dialogue: 100,0:20:41.10,0:20:43.04,Dialogue,,0,0,0,,then I said something after that.
-Dialogue: 100,0:20:43.23,0:20:43.58,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:20:44.73,0:20:46.16,Dialogue,,0,0,0,,In two and a half hours, you'll be all like,
-Dialogue: 100,0:20:46.37,0:20:50.35,Dialogue,,0,0,0,,"Oh yay, my workload is gonna be sooo light!\NYou're amazing, Leo! I love you so much!"
-Dialogue: 100,0:20:50.35,0:20:53.10,Dialogue,,0,0,0,,Then you'll jump up and give me a huge kiss!
-Dialogue: 100,0:20:54.93,0:20:55.80,Dialogue,,0,0,0,,Fine, go get it done.
-Dialogue: 100,0:20:57.45,0:20:59.60,Dialogue,,0,0,0,,I'll take one on the lips, or on the cheek.
-Dialogue: 100,0:21:00.61,0:21:02.52,Dialogue,,0,0,0,,We could even climb into the bed and-
-Dialogue: 100,0:21:02.70,0:21:05.38,Dialogue,,0,0,0,,Get the hell out of here!
-Dialogue: 100,0:21:05.48,0:21:07.75,Dialogue,,0,0,0,,That hurt WAY more than this morning!
-Dialogue: 100,0:21:24.74,0:21:25.40,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:21:26.36,0:21:28.63,Dialogue,,0,0,0,,Tu mi-ai spus să te chem \Ndacă am nevoie de tine, nu?
-Dialogue: 100,0:21:31.14,0:21:32.15,Dialogue,,0,0,0,,Nu credeam că o vei face așa de curând.
-Dialogue: 100,0:21:33.56,0:21:34.13,Dialogue,,0,0,0,,Vezi tu...
-Dialogue: 100,0:21:34.52,0:21:36.77,Dialogue,,0,0,0,,Lily va merge mâine în Largo \Nca să se ocupe de logistică.
-Dialogue: 100,0:21:37.53,0:21:40.09,Dialogue,,0,0,0,,Mâncarea și echipamentul \Ndin castel sunt pe terminate,
-Dialogue: 100,0:21:40.57,0:21:43.39,Dialogue,,0,0,0,,deci trebuie să fim siguri că \Nvom primi următorul transport.
-Dialogue: 100,0:21:44.57,0:21:46.52,Dialogue,,0,0,0,,Da, e o problemă serioasă.
-Dialogue: 100,0:21:48.07,0:21:49.87,Dialogue,,0,0,0,,Iar asta nu e singura problemă.
-Dialogue: 100,0:21:52.55,0:21:55.87,Dialogue,,0,0,0,,Ăsta e planul misiunii pe \Ncare l-am primit de la Lily...
-Dialogue: 100,0:21:56.99,0:21:59.90,Dialogue,,0,0,0,,Toată lumea se va distra și va zâmbi!
-Dialogue: 100,0:22:03.41,0:22:03.99,Dialogue,,0,0,0,,Pe bune?
+Dialogue: 99,0:00:03.97,0:00:05.62,Dialogue,,0,0,0,,{\i1}Dimineața începe devreme \Nla Castelul Reginei Demon.
+Dialogue: 99,0:00:12.02,0:00:13.32,Dialogue,,0,0,0,,{\i1}Ce zi frumoasă.
+Dialogue: 99,0:00:14.21,0:00:15.95,Dialogue,,0,0,0,,{\i1}Perfectă pentru o zi plină de muncă.
+Dialogue: 99,0:00:18.48,0:00:20.71,Dialogue,,0,0,0,,{\i1}Ca angajat temporar trebuie \Nsă arăt de ce sunt în stare,
+Dialogue: 99,0:00:21.23,0:00:22.57,Dialogue,,0,0,0,,{\i1}să mă apuc de treabă înaintea celorlalți...
+Dialogue: 99,0:00:28.20,0:00:33.64,Dialogue,,0,0,0,,{\i1}și să arăt cât sunt de motivat!
+Dialogue: 99,0:00:41.15,0:00:42.26,Dialogue,,0,0,0,,Hei, trezirea.
+Dialogue: 99,0:00:46.41,0:00:47.78,Dialogue,,0,0,0,,Încă cinci minute...
+Dialogue: 99,0:00:48.45,0:00:50.98,Dialogue,,0,0,0,,Soarele a răsărit deja. E rândul tău acum!
+Dialogue: 99,0:00:51.31,0:00:53.88,Dialogue,,0,0,0,,Știu că ești obosită, dar ai treabă de făcut!
+Dialogue: 99,0:00:54.15,0:00:55.39,Dialogue,,0,0,0,,Am venit ca să te ajut, deci sus cu tine!
+Dialogue: 99,0:00:55.83,0:00:59.00,Dialogue,,0,0,0,,Nu vreau să mă ridic... \NVreau doar să lenevesc în pat.
+Dialogue: 99,0:01:01.00,0:01:02.33,Dialogue,,0,0,0,,Asta nu e prea bine.
+Dialogue: 99,0:01:04.10,0:01:06.40,Dialogue,,0,0,0,,Schimbarea Vocii: Regina Echidna.
+Dialogue: 99,0:01:09.22,0:01:09.55,Dialogue,,0,0,0,,Perfect.
+Dialogue: 99,0:01:11.02,0:01:14.41,Dialogue,,0,0,0,,Generalule-vrăjitor! \NRaportează starea noilor aplicanți!
+Dialogue: 99,0:01:16.28,0:01:18.79,Dialogue,,0,0,0,,Sper că nu intenționezi \Nsă-ți faci regina să aștepte!
+Dialogue: 99,0:01:18.79,0:01:21.16,Dialogue,,0,0,0,,Îmi parte foarte rău, Înălțimea Voastră!
+Dialogue: 99,0:01:21.79,0:01:26.09,Dialogue,,0,0,0,,Avem mai mulți aplicanți decât anticipasem și nu am reușit să-i intervievăm pe toți!
+Dialogue: 99,0:01:26.35,0:01:28.17,Dialogue,,0,0,0,,Dar nu va mai dura mult, vă promit!
+Dialogue: 99,0:01:28.79,0:01:31.46,Dialogue,,0,0,0,,Deci sesiunea a fost \Nprelungită, nu? Asta nu e bine.
+Dialogue: 99,0:01:31.54,0:01:35.63,Dialogue,,0,0,0,,Oh, no! I'll step in to ensure\Nthey won't be delayed any further!
+Dialogue: 99,0:01:36.46,0:01:41.67,Dialogue,,0,0,0,,I'll have the list of interview candidates\Nby tomorrow--no, by the end of today!
+Dialogue: 99,0:01:42.17,0:01:43.48,Dialogue,,0,0,0,,You realize this is why you're not sleeping enough, right?
+Dialogue: 99,0:01:43.96,0:01:46.75,Dialogue,,0,0,0,,No, it's all because I've been lacking in my duties!
+Dialogue: 99,0:01:47.01,0:01:47.55,Dialogue,,0,0,0,,Știi...
+Dialogue: 99,0:01:48.41,0:01:51.53,Dialogue,,0,0,0,,nu poți face totul pe cont propriu.
+Dialogue: 99,0:01:51.57,0:01:51.99,Dialogue,,0,0,0,,Da, doamnă!
+Dialogue: 99,0:01:52.23,0:01:55.09,Dialogue,,0,0,0,,You should be delegating tasks to people\Nwho work for you, people you trust.
+Dialogue: 99,0:01:55.21,0:01:55.65,Dialogue,,0,0,0,,Da, doamnă!
+Dialogue: 99,0:01:55.91,0:01:57.41,Dialogue,,0,0,0,,That's part of being a good boss.
+Dialogue: 99,0:01:57.86,0:01:58.28,Dialogue,,0,0,0,,Da, doamnă!
+Dialogue: 99,0:01:58.51,0:02:00.69,Dialogue,,0,0,0,,Aveți dreptate cu tot ce...
+Dialogue: 99,0:02:05.58,0:02:06.34,Dialogue,,0,0,0,,'Neața, Shutina.
+Dialogue: 99,0:02:07.03,0:02:08.15,Dialogue,,0,0,0,,Știu că e cam devreme, \Ndar ai treabă pentru mine?
+Dialogue: 99,0:02:13.64,0:02:14.26,Dialogue,,0,0,0,,Suntem atacați cumva?!
+Dialogue: 99,0:02:18.61,0:02:21.35,Dialogue,,0,0,0,,Sărăcuța Shutina... \NProbabil are un coșmar.
+Dialogue: 99,0:02:22.53,0:02:24.06,Dialogue,,0,0,0,,A fost destul de stresată \Nîn ultima perioadă...
+Dialogue: 99,0:03:57.85,0:03:59.83,Dialogue,,0,0,130,,{\an8}Nu-mi vine să cred. Ești incredibil...
+Dialogue: 99,0:04:00.78,0:04:04.92,Dialogue,,0,0,0,,{\an8}I can NOT believe you! Totally unbelievable!
+Dialogue: 99,0:04:02.78,0:04:06.73,Dialogue,,0,0,0,,Hei, ce tot mormăi acolo?
+Dialogue: 99,0:04:06.83,0:04:08.14,Dialogue,,0,0,0,,De ce te-ai activat așa?
+Dialogue: 99,0:04:09.50,0:04:11.58,Dialogue,,0,0,0,,Din cauza ta, evident!
+Dialogue: 99,0:04:11.88,0:04:15.00,Dialogue,,0,0,0,,Every! Infinitesimal! Speck!
+Dialogue: 99,0:04:15.33,0:04:19.00,Dialogue,,0,0,0,,Of your existence!
+Dialogue: 99,0:04:19.42,0:04:24.08,Dialogue,,0,0,0,,The Demon Army was suffering\Nfrom a dire lack of personnel.
+Dialogue: 99,0:04:24.71,0:04:28.67,Dialogue,,0,0,0,,After my highly-destructive assault on their army,
+Dialogue: 99,0:04:29.17,0:04:34.29,Dialogue,,0,0,0,,most of the top brass had returned to\Nthe Demon World to recover from their injuries.
+Dialogue: 99,0:04:34.88,0:04:40.63,Dialogue,,0,0,0,,The work they'd left behind had to be handled\Nby those who remained: the Four Generals.
+Dialogue: 99,0:04:41.29,0:04:46.71,Dialogue,,0,0,0,,And nobody knew how to do that work--\Nno one, save for Shutina.
+Dialogue: 99,0:04:47.00,0:04:52.08,Dialogue,,0,0,0,,It's the sort of thing that plagues big companies:\Nwork veterans can handle easily,
+Dialogue: 99,0:04:52.50,0:04:57.38,Dialogue,,0,0,0,,but those veterans don't have time to write\Na manual or train other people to do those tasks.
+Dialogue: 99,0:04:57.79,0:05:02.88,Dialogue,,0,0,0,,Then you have Queen Echidna, who wants\Nto refortify her army as soon as possible.
+Dialogue: 99,0:05:03.46,0:05:05.54,Dialogue,,0,0,0,,And someone just can't help\Nbut overwork themselves to do it.
+Dialogue: 99,0:05:05.83,0:05:08.79,Dialogue,,0,0,0,,Even if it means overworking herself to death.
+Dialogue: 99,0:05:10.25,0:05:14.25,Dialogue,,0,0,0,,That explains why her Icicle Lance barely packs a punch.
+Dialogue: 99,0:05:17.04,0:05:19.92,Dialogue,,0,0,0,,I came here to help with your workload, y'know.
+Dialogue: 99,0:05:20.25,0:05:22.71,Dialogue,,0,0,0,,You could be a little nicer to me.
+Dialogue: 99,0:05:22.71,0:05:24.00,Dialogue,,0,0,0,,Are you insane?!
+Dialogue: 99,0:05:24.21,0:05:28.46,Dialogue,,0,0,0,,Why in the world would I be nice to a man\Nwho barges into my room while I'm sleeping?!
+Dialogue: 99,0:05:28.46,0:05:30.46,Dialogue,,0,0,0,,I mean, you're a succubus, aren't you?
+Dialogue: 99,0:05:31.54,0:05:33.50,Dialogue,,0,0,0,,Don't say that!
+Dialogue: 99,0:05:42.38,0:05:44.79,Dialogue,,0,0,0,,This is your current task list?
+Dialogue: 99,0:05:44.79,0:05:48.04,Dialogue,,0,0,0,,Yes, with the highest-priority tasks at the top.
+Dialogue: 99,0:05:48.42,0:05:53.17,Dialogue,,0,0,0,,Evaluate applications, reorganize sorcerer corps,
+Dialogue: 99,0:05:53.17,0:05:59.75,Dialogue,,0,0,0,,regular maintenance on Queen Echidna's\Nretainer homunculi, operating cost reduction...
+Dialogue: 99,0:06:00.71,0:06:03.83,Dialogue,,0,0,0,,There's like, fifty tasks on here.\NWhy don't you delegate some of them?
+Dialogue: 99,0:06:03.83,0:06:07.00,Dialogue,,0,0,0,,To whom?! I don't have any colleagues or subordinates!
+Dialogue: 99,0:06:07.00,0:06:08.38,Dialogue,,0,0,0,,All right, all right.
+Dialogue: 99,0:06:08.96,0:06:10.83,Dialogue,,0,0,0,,The last task on this list is...
+Dialogue: 99,0:06:11.79,0:06:14.04,Dialogue,,0,0,0,,Replenishing the mana reactors.
+Dialogue: 99,0:06:14.04,0:06:15.79,Dialogue,,0,0,0,,What're you looking at?
+Dialogue: 99,0:06:15.79,0:06:17.38,Dialogue,,0,0,0,,Let me think here.
+Dialogue: 99,0:06:18.29,0:06:23.54,Dialogue,,0,0,0,,A number of castle facilities and instruments\Ntapped into mana from the reactors.
+Dialogue: 99,0:06:24.21,0:06:29.79,Dialogue,,0,0,0,,Only the person who created them\Ncan replenish them with mana.
+Dialogue: 99,0:06:30.46,0:06:35.75,Dialogue,,0,0,0,,So any reactors that Shutina created could\Nonly be replenished by Shutina herself.
+Dialogue: 99,0:06:35.75,0:06:39.96,Dialogue,,0,0,0,,If anyone with a different mana wavelength tried\Nto help, the reactor would be destroyed.
+Dialogue: 99,0:06:40.96,0:06:42.46,Dialogue,,0,0,0,,But that's where I come in.
+Dialogue: 99,0:06:42.46,0:06:44.21,Dialogue,,0,0,0,,What's that smirk for?
+Dialogue: 99,0:06:44.50,0:06:48.17,Dialogue,,0,0,0,,From today on, I'm gonna handle\Nreplenishing your mana reactors.
+Dialogue: 99,0:06:48.42,0:06:52.04,Dialogue,,0,0,0,,Thank you, that's wonderful.\NThat task is quite the headache to handle.
+Dialogue: 99,0:06:52.83,0:06:54.38,Dialogue,,0,0,0,,You're not going to ask how I'll do it?
+Dialogue: 99,0:06:54.38,0:06:59.13,Dialogue,,0,0,0,,You're going to mimic my wavelength\Nwith Harmonize, right? It's common sense.
+Dialogue: 99,0:06:59.75,0:07:03.04,Dialogue,,0,0,0,,It's only common sense to sorcerers\Nas powerful as we are.
+Dialogue: 99,0:07:04.46,0:07:07.08,Dialogue,,0,0,0,,So, how many reactors are yours?
+Dialogue: 99,0:07:07.08,0:07:08.38,Dialogue,,0,0,0,,Just four.
+Dialogue: 99,0:07:08.63,0:07:13.54,Dialogue,,0,0,0,,Not many, considering there are over\Na hundred throughout the castle.
+Dialogue: 99,0:07:14.13,0:07:16.75,Dialogue,,0,0,0,,They only have to be replenished once every few days.
+Dialogue: 99,0:07:17.63,0:07:18.67,Dialogue,,0,0,0,,Got it.
+Dialogue: 99,0:07:19.00,0:07:20.71,Dialogue,,0,0,0,,Give me thirty minutes and two hours.
+Dialogue: 99,0:07:21.42,0:07:23.63,Dialogue,,0,0,0,,Thirty minutes and two hours and I'll have it done.
+Dialogue: 99,0:07:24.58,0:07:27.92,Dialogue,,0,0,0,,I could get it done in less than an hour.
+Dialogue: 99,0:07:27.92,0:07:29.17,Dialogue,,0,0,0,,Don't be like that.
+Dialogue: 99,0:07:29.42,0:07:32.08,Dialogue,,0,0,0,,I'll promise you this, and stake my honor as a Hero on it.
+Dialogue: 99,0:07:32.08,0:07:32.96,Dialogue,,0,0,0,,Promise me what?
+Dialogue: 99,0:07:33.33,0:07:36.33,Dialogue,,0,0,0,,I promise to never, ever disappoint you.
+Dialogue: 99,0:07:36.42,0:07:38.21,Dialogue,,0,0,0,,In two and a half hours, you'll be all like,
+Dialogue: 99,0:07:38.21,0:07:42.17,Dialogue,,0,0,0,,"Oh yay, my workload is gonna be sooo light!\NYou're amazing, Leo! I love you so much!"
+Dialogue: 99,0:07:42.17,0:07:45.29,Dialogue,,0,0,0,,Then you'll jump up and give me a huge kiss!
+Dialogue: 99,0:07:46.92,0:07:48.21,Dialogue,,0,0,0,,Fine, go get it done.
+Dialogue: 99,0:07:48.54,0:07:50.46,Dialogue,,0,0,0,,That's all you have to say?
+Dialogue: 99,0:07:50.67,0:07:52.50,Dialogue,,0,0,0,,It's been fourteen seconds.
+Dialogue: 99,0:07:52.50,0:07:54.21,Dialogue,,0,0,0,,All right, I'm going...
+Dialogue: 99,0:07:55.50,0:07:56.83,Dialogue,,0,0,0,,Metamorphose!
+Dialogue: 99,0:08:03.33,0:08:06.96,Dialogue,,0,0,0,,Wait, I gotta think up a name. Something super cool.
+Dialogue: 99,0:08:06.96,0:08:08.63,Dialogue,,0,0,0,,Thirty seconds now.
+Dialogue: 99,0:08:08.63,0:08:10.17,Dialogue,,0,0,0,,Oh, one favor, actually!
+Dialogue: 99,0:08:10.58,0:08:15.92,Dialogue,,0,0,0,,Could you give me the title "Assistant to the Generals"?\NThat'll get people to trust me.
+Dialogue: 99,0:08:16.75,0:08:18.04,Dialogue,,0,0,0,,Very well.
+Dialogue: 99,0:08:18.04,0:08:19.00,Dialogue,,0,0,0,,Thanks.
+Dialogue: 99,0:08:20.71,0:08:23.58,Dialogue,,0,0,0,,How's the name Godhart sound to you?
+Dialogue: 99,0:08:23.58,0:08:24.92,Dialogue,,0,0,0,,Get a move on already!
+Dialogue: 99,0:08:45.50,0:08:47.00,Dialogue,,0,0,0,,...and that's why I've come to you all.
+Dialogue: 99,0:08:47.38,0:08:50.79,Dialogue,,0,0,0,,If you notice Shutina acting off at all,\Nlet me know immediately.
+Dialogue: 99,0:08:50.79,0:08:51.92,Dialogue,,0,0,0,,Understood.
+Dialogue: 99,0:08:53.25,0:08:55.63,Dialogue,,0,0,0,,I wish I could be of help to her...
+Dialogue: 99,0:08:56.00,0:08:58.88,Dialogue,,0,0,0,,You shouldn't. Shutina would stress out more if you did.
+Dialogue: 99,0:08:59.17,0:09:02.83,Dialogue,,0,0,0,,You're right. Thank you, everyone.
+Dialogue: 99,0:09:02.83,0:09:03.54,Dialogue,,0,0,0,,Of course.
+Dialogue: 99,0:09:08.04,0:09:09.42,Dialogue,,0,0,0,,I'll help!
+Dialogue: 99,0:09:09.63,0:09:13.21,Dialogue,,0,0,0,,Yeah! I got this!
+Dialogue: 99,0:09:13.42,0:09:14.79,Dialogue,,0,0,0,,I can do this!
+Dialogue: 99,0:09:18.54,0:09:19.75,Dialogue,,0,0,0,,I've returned, milady.
+Dialogue: 99,0:09:20.21,0:09:22.25,Dialogue,,0,0,0,,Why are you talking like that?
+Dialogue: 99,0:09:22.25,0:09:23.17,Dialogue,,0,0,0,,Milady.
+Dialogue: 99,0:09:25.79,0:09:29.67,Dialogue,,0,0,0,,I figured I'd change up my speaking\Nstyle to blend in better.
+Dialogue: 99,0:09:31.83,0:09:33.88,Dialogue,,0,0,0,,It's only been thirty minutes.
+Dialogue: 99,0:09:33.88,0:09:36.83,Dialogue,,0,0,0,,Have a little faith. I took care of it.
+Dialogue: 99,0:09:37.17,0:09:40.04,Dialogue,,0,0,0,,I suppose I should give you another task, then...
+Dialogue: 99,0:09:40.04,0:09:42.04,Dialogue,,0,0,0,,No, not yet. I'm kinda tired.
+Dialogue: 99,0:09:42.04,0:09:42.54,Dialogue,,0,0,0,,What?
+Dialogue: 99,0:09:42.92,0:09:46.21,Dialogue,,0,0,0,,It's been a while since I've adjusted\Nmy mana wavelength.
+Dialogue: 99,0:09:51.29,0:09:52.42,Dialogue,,0,0,0,,Mirage Eye?
+Dialogue: 99,0:09:52.71,0:09:55.88,Dialogue,,0,0,0,,I want to watch you work while I take a little break.
+Dialogue: 99,0:09:58.08,0:10:00.96,Dialogue,,0,0,0,,I won't get in your way. I'll sit here quietly.
+Dialogue: 99,0:10:02.50,0:10:05.79,Dialogue,,0,0,0,,I've got another task for you when\Nyou're done resting, all right?
+Dialogue: 99,0:10:17.92,0:10:20.92,Dialogue,,0,0,0,,Leo, you must be rested by now. I need you to--
+Dialogue: 99,0:10:20.92,0:10:23.38,Dialogue,,0,0,0,,Not yet. I need to rest just a little longer.
+Dialogue: 99,0:10:23.63,0:10:26.83,Dialogue,,0,0,0,,It's been a while since I've used Metamorphose.
+Dialogue: 99,0:10:30.17,0:10:31.67,Dialogue,,0,0,0,,This stuff's pretty bland.
+Dialogue: 99,0:10:32.13,0:10:34.63,Dialogue,,0,0,0,,I should see about improving the food around here, too...
+Dialogue: 99,0:10:45.71,0:10:49.42,Dialogue,,0,0,0,,It's been an hour! Surely you're more than rested!
+Dialogue: 99,0:10:49.42,0:10:52.71,Dialogue,,0,0,0,,No, I need a little more. My mana's still recovering.
+Dialogue: 99,0:10:52.71,0:10:53.92,Dialogue,,0,0,0,,You lazy bastard!
+Dialogue: 99,0:10:53.92,0:10:56.04,Dialogue,,0,0,0,,Get up this instant!
+Dialogue: 99,0:10:57.33,0:10:59.21,Dialogue,,0,0,0,,How are you this heavy?!
+Dialogue: 99,0:11:00.58,0:11:03.04,Dialogue,,0,0,0,,Most sorcerers don't realize you can\Nuse Gravity Root to do this!
+Dialogue: 99,0:11:03.46,0:11:06.75,Dialogue,,0,0,0,,You've got enough mana to waste on silly spells,\Nbut you still need to 'recover'?!
+Dialogue: 99,0:11:10.13,0:11:14.63,Dialogue,,0,0,0,,Decisions, decisions... Do I go with\NLord Godhart or Lord Bloodsword?
+Dialogue: 99,0:11:15.04,0:11:18.75,Dialogue,,0,0,0,,Wait, I could go with something totally different:\NBlack Knight Onyx.
+Dialogue: 99,0:11:18.75,0:11:20.54,Dialogue,,0,0,0,,What do you think of that, Shutina?
+Dialogue: 99,0:11:21.21,0:11:22.13,Dialogue,,0,0,0,,What's up?
+Dialogue: 99,0:11:22.13,0:11:23.96,Dialogue,,0,0,0,,I understand full well now, Hero Leo.
+Dialogue: 99,0:11:24.67,0:11:30.75,Dialogue,,0,0,0,,You're a worthless, lazy leech of time and resources!
+Dialogue: 99,0:11:30.75,0:11:33.17,Dialogue,,0,0,0,,Whoa, whoa, calm down!
+Dialogue: 99,0:11:33.17,0:11:34.38,Dialogue,,0,0,0,,I'm calm.
+Dialogue: 99,0:11:34.71,0:11:38.08,Dialogue,,0,0,0,,And after calmly and coolly thinking this over,
+Dialogue: 99,0:11:38.08,0:11:43.63,Dialogue,,0,0,0,,I've come to the calm conclusion that\Nyou will not be of use to our army in the slightest!
+Dialogue: 99,0:11:44.17,0:11:46.25,Dialogue,,0,0,0,,Dio Neel Zod, spiral of radiant light...
+Dialogue: 99,0:11:46.25,0:11:47.71,Dialogue,,0,0,0,,Whoa, whoa, whoa!
+Dialogue: 99,0:11:47.71,0:11:50.92,Dialogue,,0,0,0,,Fill my hands with your piercing rays of the gods!
+Dialogue: 99,0:11:50.92,0:11:53.42,Dialogue,,0,0,0,,Stop! You're going to destroy all your paperwork!
+Dialogue: 99,0:11:53.42,0:11:54.92,Dialogue,,0,0,0,,Gae Assail!
+Dialogue: 99,0:11:59.00,0:12:00.04,Dialogue,,0,0,0,,Yes!
+Dialogue: 99,0:12:02.38,0:12:04.50,Dialogue,,0,0,0,,I'm going to join the Demon Queen's legion.
+Dialogue: 99,0:12:05.58,0:12:07.79,Dialogue,,0,0,0,,I have to, for good reason.
+Dialogue: 99,0:12:08.25,0:12:13.46,Dialogue,,0,0,0,,And if I want to join, I'll need to show results\Nand get the Generals on my side.
+Dialogue: 99,0:12:14.63,0:12:16.88,Dialogue,,0,0,0,,This, right here, is step one!
+Dialogue: 99,0:12:21.25,0:12:25.38,Dialogue,,0,0,0,,Dianette, yes? Good work.
+Dialogue: 99,0:12:25.38,0:12:28.25,Dialogue,,0,0,0,,By the look of you, all must have gone well.
+Dialogue: 99,0:12:28.25,0:12:30.38,Dialogue,,0,0,0,,Yes, Lord Godhart.
+Dialogue: 99,0:12:30.38,0:12:33.17,Dialogue,,0,0,0,,Please, call me Black Knight Onyx.
+Dialogue: 99,0:12:33.17,0:12:36.38,Dialogue,,0,0,0,,From now on-- no, FORSOOTH? Henceforth?
+Dialogue: 99,0:12:36.38,0:12:38.33,Dialogue,,0,0,0,,Anyway, Black Knight Onyx, understood?
+Dialogue: 99,0:12:38.33,0:12:40.21,Dialogue,,0,0,0,,Y-yes, Lord Onyx...
+Dialogue: 99,0:12:40.46,0:12:44.38,Dialogue,,0,0,0,,Right then, proceed with your report\Non the reactor maintenance.
+Dialogue: 99,0:12:44.96,0:12:46.17,Dialogue,,0,0,0,,Yes, milord.
+Dialogue: 99,0:12:48.08,0:12:53.21,Dialogue,,0,0,0,,The talisman you granted me\Nworked without incident, Lord Onyx.
+Dialogue: 99,0:12:53.42,0:12:54.88,Dialogue,,0,0,0,,It appears to be durable enough to--
+Dialogue: 99,0:12:54.88,0:12:56.42,Dialogue,,0,0,0,,Wait, wait, hold on!
+Dialogue: 99,0:12:56.42,0:12:58.67,Dialogue,,0,0,0,,What talisman? What are you talking about?
+Dialogue: 99,0:12:58.92,0:13:02.71,Dialogue,,0,0,0,,Le-- Lord Onyx, was it not you\Nwho replenished the reactors?
+Dialogue: 99,0:13:02.71,0:13:04.54,Dialogue,,0,0,0,,Oh, uh...
+Dialogue: 99,0:13:04.54,0:13:08.17,Dialogue,,0,0,0,,Please, let her finish her report, Sorcerer General.
+Dialogue: 99,0:13:10.00,0:13:11.17,Dialogue,,0,0,0,,Go on, then.
+Dialogue: 99,0:13:11.17,0:13:12.88,Dialogue,,0,0,0,,Y-yes, milady.
+Dialogue: 99,0:13:13.21,0:13:17.29,Dialogue,,0,0,0,,The talisman appears to be\Ndurable enough for continued use,
+Dialogue: 99,0:13:17.29,0:13:23.88,Dialogue,,0,0,0,,so with your permission, I would like us to continue\Nreplenishing the reactors in your stead.
+Dialogue: 99,0:13:25.04,0:13:27.13,Dialogue,,0,0,0,,Would that be allowed, General Shutina?
+Dialogue: 99,0:13:27.42,0:13:32.50,Dialogue,,0,0,0,,But those are reactors that I created.\NYou'll be able to replenish them?
+Dialogue: 99,0:13:32.71,0:13:34.79,Dialogue,,0,0,0,,I'll take it from here.
+Dialogue: 99,0:13:35.46,0:13:42.38,Dialogue,,0,0,0,,First, let me explain what exactly I was doing\Nin those thirty minutes I was gone.
+Dialogue: 99,0:13:42.83,0:13:49.21,Dialogue,,0,0,0,,I went to the castle workshop and procured\Nan amethyst from the goblin goldsmith.
+Dialogue: 99,0:13:50.00,0:13:53.79,Dialogue,,0,0,0,,I filled the amethyst with mana tuned to your wavelength.
+Dialogue: 99,0:13:54.67,0:14:00.08,Dialogue,,0,0,0,,Amethysts are sturdy stones.\NThey'll stay attuned to a wavelength indefinitely.
+Dialogue: 99,0:14:00.46,0:14:04.71,Dialogue,,0,0,0,,Anyone who holds it on their person\Nwill be attuned to your wavelength as well.
+Dialogue: 99,0:14:05.38,0:14:07.21,Dialogue,,0,0,0,,So I created a talisman with the stone,
+Dialogue: 99,0:14:07.71,0:14:09.58,Dialogue,,0,0,0,,which only took fifteen minutes.
+Dialogue: 99,0:14:14.75,0:14:18.50,Dialogue,,0,0,0,,I left the workshop, then lost five minutes\Nto an unexpected distraction.
+Dialogue: 99,0:14:18.79,0:14:20.00,Dialogue,,0,0,0,,Hey, it's Leo!
+Dialogue: 99,0:14:22.08,0:14:24.54,Dialogue,,0,0,0,,Then I took five minutes to find Dianette here.
+Dialogue: 99,0:14:25.46,0:14:29.17,Dialogue,,0,0,0,,With my last five minutes, I showed her how\Nto use the talisman to replenish the reactors.
+Dialogue: 99,0:14:30.38,0:14:36.88,Dialogue,,0,0,0,,He told me as long as I'm wearing this talisman,\NI can replenish all of your reactors.
+Dialogue: 99,0:14:36.88,0:14:38.92,Dialogue,,0,0,0,,After that, I said:
+Dialogue: 99,0:14:39.71,0:14:46.00,Dialogue,,0,0,0,,Find a few other people with the\Nappropriate ability and split the job up.
+Dialogue: 99,0:14:46.00,0:14:46.92,Dialogue,,0,0,0,,Yes, milord.
+Dialogue: 99,0:14:47.46,0:14:49.08,Dialogue,,0,0,0,,I found three other sorcerers of similar capacity.
+Dialogue: 99,0:14:49.08,0:14:53.88,Dialogue,,0,0,0,,We passed the talisman around to refill the reactors.
+Dialogue: 99,0:14:53.88,0:14:55.04,Dialogue,,0,0,0,,Excellent.
+Dialogue: 99,0:14:55.50,0:14:58.92,Dialogue,,0,0,0,,I trust, then, that all four of you\Nunderstand the procedure?
+Dialogue: 99,0:15:00.54,0:15:02.88,Dialogue,,0,0,0,,The Sorcerer General is a busy woman.
+Dialogue: 99,0:15:02.88,0:15:08.25,Dialogue,,0,0,0,,Form a team of four and assume responsibility\Nfor replenishing her reactors henceforth.
+Dialogue: 99,0:15:08.58,0:15:11.83,Dialogue,,0,0,0,,I'll have enough talismans for all of\Nyou within the next three days.
+Dialogue: 99,0:15:11.83,0:15:12.63,Dialogue,,0,0,0,,Yes, milord!
+Dialogue: 99,0:15:13.21,0:15:17.63,Dialogue,,0,0,0,,You took a bit longer than I'd like for this task,\Nbut it IS your first time.
+Dialogue: 99,0:15:18.17,0:15:21.75,Dialogue,,0,0,0,,I expect you to perform it more quickly come tomorrow.
+Dialogue: 99,0:15:22.04,0:15:23.13,Dialogue,,0,0,0,,Of course, milord!
+Dialogue: 99,0:15:23.21,0:15:25.00,Dialogue,,0,0,0,,That will be all.
+Dialogue: 99,0:15:25.00,0:15:28.38,Dialogue,,0,0,0,,Wait, uh, I...
+Dialogue: 99,0:15:29.54,0:15:32.46,Dialogue,,0,0,0,,As you can see, the mana reactors\Nhave been replenished.
+Dialogue: 99,0:15:33.17,0:15:36.75,Dialogue,,0,0,0,,It is our duty to lessen the burden on your shoulders.
+Dialogue: 99,0:15:37.46,0:15:41.75,Dialogue,,0,0,0,,Dianette, here, was worried for your health as well.
+Dialogue: 99,0:15:42.54,0:15:43.67,Dialogue,,0,0,0,,She was?
+Dialogue: 99,0:15:44.29,0:15:45.63,Dialogue,,0,0,0,,Oh, m-my apologies, but yes.
+Dialogue: 99,0:15:45.63,0:15:51.25,Dialogue,,0,0,0,,I know you've been grappling with a mountain\Nof tasks in recent days, General Shutina.
+Dialogue: 99,0:16:00.88,0:16:03.54,Dialogue,,0,0,0,,M-might I be of some assistance, General Shutina?
+Dialogue: 99,0:16:07.71,0:16:11.04,Dialogue,,0,0,0,,I'm fine. You focus on your own tasks.
+Dialogue: 99,0:16:12.92,0:16:17.50,Dialogue,,0,0,0,,I had neither the courage nor ability to press the matter...
+Dialogue: 99,0:16:19.13,0:16:24.46,Dialogue,,0,0,0,,But thanks to Lord Onyx, we'll be able\Nto assist with the mana reactors!
+Dialogue: 99,0:16:24.71,0:16:29.33,Dialogue,,0,0,0,,If there's anything else we can help with,\Nplease don't hesitate to ask!
+Dialogue: 99,0:16:31.13,0:16:33.58,Dialogue,,0,0,0,,I-I see. Very well.
+Dialogue: 99,0:16:34.04,0:16:37.83,Dialogue,,0,0,0,,I will be sure to reach out to you if there\Nare tasks you can help with, Dianette.
+Dialogue: 99,0:16:37.83,0:16:38.67,Dialogue,,0,0,0,,Yes, milady!
+Dialogue: 99,0:16:39.21,0:16:41.46,Dialogue,,0,0,0,,Good work. You are dismissed.
+Dialogue: 99,0:16:41.46,0:16:42.38,Dialogue,,0,0,0,,Yes, milady!
+Dialogue: 99,0:16:44.50,0:16:45.54,Dialogue,,0,0,0,,Thank you, milady!
+Dialogue: 99,0:16:51.63,0:16:56.04,Dialogue,,0,0,0,,T'would seem you finally understand\Nmy true labors, Sorcerer General.
+Dialogue: 99,0:16:59.83,0:17:03.04,Dialogue,,0,0,0,,All you need to do now is let them handle it\Nand hear their reports.
+Dialogue: 99,0:17:03.38,0:17:06.21,Dialogue,,0,0,0,,You'll only have to help out if something goes wrong.
+Dialogue: 99,0:17:09.38,0:17:12.25,Dialogue,,0,0,0,,I told you, I only needed two and a half hours,
+Dialogue: 99,0:17:12.25,0:17:15.58,Dialogue,,0,0,0,,and now your workload is permanently decreased.
+Dialogue: 99,0:17:17.42,0:17:20.71,Dialogue,,0,0,0,,Work isn't something that should be done alone.
+Dialogue: 99,0:17:21.04,0:17:24.58,Dialogue,,0,0,0,,Especially not in a large organization where\Nthere are plenty of people who can help.
+Dialogue: 99,0:17:25.13,0:17:28.13,Dialogue,,0,0,0,,Instead of having one extremely-skilled\Nperson work extremely hard,
+Dialogue: 99,0:17:28.13,0:17:31.75,Dialogue,,0,0,0,,it's best to delegate many\Nsmall tasks out to less skilled people.
+Dialogue: 99,0:17:32.64,0:17:35.14,Dialogue,,0,0,0,,That's how you should get most of the work done.
+Dialogue: 99,0:17:36.12,0:17:39.04,Dialogue,,0,0,0,,In an ideal world, of course.
+Dialogue: 99,0:17:40.45,0:17:42.54,Dialogue,,0,0,0,,Why didn't you explain that earlier?
+Dialogue: 99,0:17:43.03,0:17:44.90,Dialogue,,0,0,0,,You could have told me you asked Dianette to help.
+Dialogue: 99,0:17:45.39,0:17:46.66,Dialogue,,0,0,0,,Because you worry too much.
+Dialogue: 99,0:17:47.55,0:17:50.78,Dialogue,,0,0,0,,If I'd told you, you would've rushed off\Nto "go check on her".
+Dialogue: 99,0:17:52.08,0:17:58.86,Dialogue,,0,0,0,,Most of the people in the army are people you\Ninterviewed, people you trust to perform well.
+Dialogue: 99,0:17:59.77,0:18:03.11,Dialogue,,0,0,0,,So trust in your judgment,\Nand in the people working beneath you!
+Dialogue: 99,0:18:04.41,0:18:09.04,Dialogue,,0,0,0,,Run the organization so it could still function\Nif you dropped dead tomorrow.
+Dialogue: 99,0:18:10.92,0:18:13.46,Dialogue,,0,0,0,,That's a lot of talk for someone\Nwho insisted on working alone.
+Dialogue: 99,0:18:14.78,0:18:16.59,Dialogue,,0,0,0,,I've got a lot of life experience under my belt.
+Dialogue: 99,0:18:16.82,0:18:18.20,Dialogue,,0,0,0,,Wait! Wait just a second!
+Dialogue: 99,0:18:19.17,0:18:21.70,Dialogue,,0,0,0,,You make a big show of 'teaching'\Nand 'delegating' to a subordinate,
+Dialogue: 99,0:18:21.98,0:18:26.10,Dialogue,,0,0,0,,and while they were hard at work,\Nyou did nothing but loaf about in my office!
+Dialogue: 99,0:18:26.85,0:18:28.74,Dialogue,,0,0,0,,You slacker! What's your excuse for that?
+Dialogue: 99,0:18:29.32,0:18:29.96,Dialogue,,0,0,0,,You wound me.
+Dialogue: 99,0:18:30.87,0:18:33.14,Dialogue,,0,0,0,,I was loafing, yes,\Nbut I was also working.
+Dialogue: 99,0:18:33.54,0:18:33.83,Dialogue,,0,0,0,,What?
+Dialogue: 99,0:18:34.39,0:18:34.77,Dialogue,,0,0,0,,Here.
+Dialogue: 99,0:18:35.99,0:18:38.87,Dialogue,,0,0,0,,I learned a lot about from watching you\Nand your cleavage work.
+Dialogue: 99,0:18:39.96,0:18:42.14,Dialogue,,0,0,0,,I spotted some inefficiencies here and there.
+Dialogue: 99,0:18:42.91,0:18:45.80,Dialogue,,0,0,0,,I took the liberty of rearranging\Nyour priorities. Take a look.
+Dialogue: 99,0:18:47.25,0:18:48.28,Dialogue,,0,0,0,,Let me see.
+Dialogue: 99,0:18:54.16,0:18:55.75,Dialogue,,0,0,0,,Wait, did you say CLEAVAGE?
+Dialogue: 99,0:18:56.66,0:18:58.76,Dialogue,,0,0,0,,See those seven tasks I circled in red?
+Dialogue: 99,0:18:59.48,0:19:01.45,Dialogue,,0,0,0,,You can delegate those.
+Dialogue: 99,0:19:04.06,0:19:05.22,Dialogue,,0,0,0,,But can they handle it?
+Dialogue: 99,0:19:06.17,0:19:07.93,Dialogue,,0,0,0,,Teach them HOW to handle it.
+Dialogue: 99,0:19:08.50,0:19:09.77,Dialogue,,0,0,0,,That's your job as their boss.
+Dialogue: 99,0:19:15.18,0:19:16.42,Dialogue,,0,0,0,,Is this a map of the Largo Sea?
+Dialogue: 99,0:19:17.02,0:19:19.21,Dialogue,,0,0,0,,The fish from that area are fantastic.
+Dialogue: 99,0:19:20.22,0:19:23.00,Dialogue,,0,0,0,,We could make some scrumptious meals\Nif we got some delivered,
+Dialogue: 99,0:19:23.33,0:19:26.28,Dialogue,,0,0,0,,but considering how dangerous\Nthe shipping route would be...
+Dialogue: 99,0:19:26.55,0:19:27.08,Dialogue,,0,0,0,,Leo.
+Dialogue: 99,0:19:29.60,0:19:31.64,Dialogue,,0,0,0,,Yes, Sorcerer General Shutina?
+Dialogue: 99,0:19:32.78,0:19:33.80,Dialogue,,0,0,0,,I apologize.
+Dialogue: 99,0:19:34.20,0:19:35.69,Dialogue,,0,0,0,,I've gravely misjudged you.
+Dialogue: 99,0:19:35.93,0:19:36.50,Dialogue,,0,0,0,,C'mon, now.
+Dialogue: 99,0:19:37.37,0:19:39.17,Dialogue,,0,0,0,,I just did my job is all.
+Dialogue: 99,0:19:39.69,0:19:40.73,Dialogue,,0,0,0,,That only makes it worse.
+Dialogue: 99,0:19:41.94,0:19:44.90,Dialogue,,0,0,0,,Despite how harshly I acted\Ntowards you during the interview,
+Dialogue: 99,0:19:45.92,0:19:48.59,Dialogue,,0,0,0,,you still pressed on and did an excellent job.
+Dialogue: 99,0:19:49.75,0:19:53.02,Dialogue,,0,0,0,,I couldn't well call myself one of the Four Generals\Nif I didn't thank you for that.
+Dialogue: 99,0:19:55.68,0:19:56.70,Dialogue,,0,0,0,,Don't mention it.
+Dialogue: 99,0:19:57.38,0:20:00.75,Dialogue,,0,0,0,,If you go down, the whole army goes down with you.
+Dialogue: 99,0:20:01.93,0:20:04.22,Dialogue,,0,0,0,,And then I REALLY won't have a place to go anymore.
+Dialogue: 99,0:20:04.79,0:20:05.99,Dialogue,,0,0,0,,I was just looking out for myself.
+Dialogue: 99,0:20:06.82,0:20:08.06,Dialogue,,0,0,0,,No need to thank me for that.
+Dialogue: 99,0:20:08.79,0:20:10.57,Dialogue,,0,0,0,,And here I was giving you a heartfelt apology!
+Dialogue: 99,0:20:10.79,0:20:12.98,Dialogue,,0,0,0,,How is anyone supposed to like you?!
+Dialogue: 99,0:20:13.79,0:20:15.61,Dialogue,,0,0,0,,Why do you think I was traveling alone for so long?
+Dialogue: 99,0:20:17.03,0:20:17.51,Dialogue,,0,0,0,,All right,
+Dialogue: 99,0:20:18.13,0:20:21.07,Dialogue,,0,0,0,,better start on my next task.\NCall me if you need me.
+Dialogue: 99,0:20:21.79,0:20:22.51,Dialogue,,0,0,0,,Before you go...
+Dialogue: 99,0:20:23.27,0:20:25.59,Dialogue,,0,0,0,,I'm looking forward to working with you, Leo.
+Dialogue: 99,0:20:32.12,0:20:32.83,Dialogue,,0,0,0,,Oh, I forgot!
+Dialogue: 99,0:20:33.64,0:20:34.35,Dialogue,,0,0,0,,What is it?
+Dialogue: 99,0:20:34.79,0:20:37.47,Dialogue,,0,0,0,,Remember what I said after you gave me this task?
+Dialogue: 99,0:20:38.15,0:20:40.46,Dialogue,,0,0,0,,I promised I wouldn't disappoint you,
+Dialogue: 99,0:20:41.10,0:20:43.04,Dialogue,,0,0,0,,then I said something after that.
+Dialogue: 99,0:20:43.23,0:20:43.58,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:20:44.73,0:20:46.16,Dialogue,,0,0,0,,In two and a half hours, you'll be all like,
+Dialogue: 99,0:20:46.37,0:20:50.35,Dialogue,,0,0,0,,"Oh yay, my workload is gonna be sooo light!\NYou're amazing, Leo! I love you so much!"
+Dialogue: 99,0:20:50.35,0:20:53.10,Dialogue,,0,0,0,,Then you'll jump up and give me a huge kiss!
+Dialogue: 99,0:20:54.93,0:20:55.80,Dialogue,,0,0,0,,Fine, go get it done.
+Dialogue: 99,0:20:57.45,0:20:59.60,Dialogue,,0,0,0,,I'll take one on the lips, or on the cheek.
+Dialogue: 99,0:21:00.61,0:21:02.52,Dialogue,,0,0,0,,We could even climb into the bed and-
+Dialogue: 99,0:21:02.70,0:21:05.38,Dialogue,,0,0,0,,Get the hell out of here!
+Dialogue: 99,0:21:05.48,0:21:07.75,Dialogue,,0,0,0,,That hurt WAY more than this morning!
+Dialogue: 99,0:21:24.74,0:21:25.40,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:21:26.36,0:21:28.63,Dialogue,,0,0,0,,Tu mi-ai spus să te chem \Ndacă am nevoie de tine, nu?
+Dialogue: 99,0:21:31.14,0:21:32.15,Dialogue,,0,0,0,,Nu credeam că o vei face așa de curând.
+Dialogue: 99,0:21:33.56,0:21:34.13,Dialogue,,0,0,0,,Vezi tu...
+Dialogue: 99,0:21:34.52,0:21:36.77,Dialogue,,0,0,0,,Lily va merge mâine în Largo \Nca să se ocupe de logistică.
+Dialogue: 99,0:21:37.53,0:21:40.09,Dialogue,,0,0,0,,Mâncarea și echipamentul \Ndin castel sunt pe terminate,
+Dialogue: 99,0:21:40.57,0:21:43.39,Dialogue,,0,0,0,,deci trebuie să fim siguri că \Nvom primi următorul transport.
+Dialogue: 99,0:21:44.57,0:21:46.52,Dialogue,,0,0,0,,Da, e o problemă serioasă.
+Dialogue: 99,0:21:48.07,0:21:49.87,Dialogue,,0,0,0,,Iar asta nu e singura problemă.
+Dialogue: 99,0:21:52.55,0:21:55.87,Dialogue,,0,0,0,,Ăsta e planul misiunii pe \Ncare l-am primit de la Lily...
+Dialogue: 99,0:21:56.99,0:21:59.90,Dialogue,,0,0,0,,Toată lumea se va distra și va zâmbi!
+Dialogue: 99,0:22:03.41,0:22:03.99,Dialogue,,0,0,0,,Pe bune?
 Dialogue: 1,0:02:35.39,0:02:37.10,DedzuyaSigns,,0,0,0,,{\an7\pos(210,610)\fscx140\fscy140\fnShuei Mincho\fs82\blur0.8\clip(150,600,190,800)\t(0.7,\clip(960,600,1000,800))}Renunț să mai fiu erou!
 Dialogue: 1,0:02:35.39,0:02:37.10,DedzuyaSigns,,0,0,0,,{\an7\pos(210,610)\fscx140\fscy140\fnShuei Mincho\fs82\blur0.8\clip(150,600,190,800)\t(\clip(960,600,1000,800))}Renunț să mai fiu erou!
 Dialogue: 1,0:02:35.39,0:02:37.10,DedzuyaSigns,,0,0,0,,{\an7\pos(210,610)\fscx140\fscy140\fnShuei Mincho\fs82\blur0.8\clip(150,600,190,800)\t(1.3,\clip(960,600,1000,800))}Renunț să mai fiu erou!

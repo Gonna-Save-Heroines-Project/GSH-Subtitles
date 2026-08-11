@@ -38,342 +38,342 @@ Style: OP,Comme,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:22.79,0:00:25.33,Dialogue,,0,0,0,,Nu pot dormi deloc.
-Dialogue: 100,0:01:57.41,0:01:59.79,Dialogue,,0,0,0,,Iska, cum te simți?
-Dialogue: 100,0:01:59.79,0:02:01.50,Dialogue,,0,0,0,,Sunt bine.
-Dialogue: 100,0:02:01.50,0:02:04.29,Dialogue,,0,0,0,,Doar că... nu prea reușesc să dorm.
-Dialogue: 100,0:02:04.29,0:02:08.41,Dialogue,,0,0,0,,Știi, nu prea reușesc să fac lucruri pentru voi, deși sunt căpitanul vostru...
-Dialogue: 100,0:02:08.41,0:02:12.00,Dialogue,,0,0,0,,Deci încerc să fiu mereu acolo dacă aveți nevoie să vorbiți cu cineva.
-Dialogue: 100,0:02:13.00,0:02:14.50,Dialogue,,0,0,0,,Vezi, știam eu!
-Dialogue: 100,0:02:14.50,0:02:18.16,Dialogue,,0,0,0,,Știam că ai fața aia de \Nparcă ceva este în neregulă!
-Dialogue: 100,0:02:18.16,0:02:20.62,Dialogue,,0,0,0,,Ce? Serios?
-Dialogue: 100,0:02:20.62,0:02:22.04,Dialogue,,0,0,0,,Da, așa este!
-Dialogue: 100,0:02:22.04,0:02:25.79,Dialogue,,0,0,0,,Haide, spune-mi ce este!
-Dialogue: 100,0:02:25.79,0:02:28.87,Dialogue,,0,0,0,,Mă gândesc continuu la acea luptă.
-Dialogue: 100,0:02:28.87,0:02:32.08,Dialogue,,0,0,0,,Cea care s-a terminat la egalitate?
-Dialogue: 100,0:02:32.08,0:02:35.66,Dialogue,,0,0,0,,Poate te-a lăsat cu o cicatrice emoțională.
-Dialogue: 100,0:02:35.66,0:02:37.20,Dialogue,,0,0,0,,Ca o traumă?
-Dialogue: 100,0:02:37.20,0:02:40.54,Dialogue,,0,0,0,,Da... După ce ai dus o luptă grea,
-Dialogue: 100,0:02:40.54,0:02:44.87,Dialogue,,0,0,0,,poți rămâne cu răni psihologice de la teamă sau răni fizice.
-Dialogue: 100,0:02:44.87,0:02:50.45,Dialogue,,0,0,0,,Asta nu e de mirare după ce te-ai luptat cu Vrăjitoarea Calamității de Gheață.
-Dialogue: 100,0:02:50.45,0:02:51.95,Dialogue,,0,0,0,,O, și...
-Dialogue: 100,0:02:51.95,0:02:53.00,Dialogue,,0,0,0,,Și?
-Dialogue: 100,0:02:53.00,0:02:54.95,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:02:54.95,0:02:57.04,Dialogue,,0,0,0,,Nu, nu mai contează.
-Dialogue: 100,0:02:57.04,0:03:01.54,Dialogue,,0,0,0,,Hm... Oare ce ai putea face că să repari asta?
-Dialogue: 100,0:03:01.54,0:03:07.87,Dialogue,,0,0,0,,Când ceva mă deranjează, un grătar și un somn bun mă ajută să-mi revin.
-Dialogue: 100,0:03:07.87,0:03:10.12,Dialogue,,0,0,0,,Nu prea cred că am chef de așa ceva...
-Dialogue: 100,0:03:10.12,0:03:13.95,Dialogue,,0,0,0,,O schimbare de peisaj \Ns-ar putea să-ți facă bine.
-Dialogue: 100,0:03:14.95,0:03:16.41,Dialogue,,0,0,0,,Știu!
-Dialogue: 100,0:03:20.20,0:03:23.16,Dialogue,,0,0,0,,Este puțin dezordine, \Ndar intră fără griji!
-Dialogue: 100,0:03:23.16,0:03:25.87,Dialogue,,0,0,0,,Colecția ta de animale de pluș a crescut.
-Dialogue: 100,0:03:27.00,0:03:28.87,Dialogue,,0,0,0,,Nu-i așa? \NSunt așa drăguțe.
-Dialogue: 100,0:03:28.87,0:03:30.37,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:03:30.37,0:03:32.04,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:03:32.04,0:03:35.62,Dialogue,,0,0,0,,Dar, păi, asta este ceva...
-Dialogue: 100,0:03:35.62,0:03:36.83,Dialogue,,0,0,0,,ce nu ar trebui să văd...
-Dialogue: 100,0:03:36.83,0:03:38.75,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:03:39.75,0:03:41.20,Dialogue,,0,0,0,,A-Aha.
-Dialogue: 100,0:03:41.20,0:03:45.45,Dialogue,,0,0,0,,Oricum, nimic bun nu o să ți se întâmple dacă stai în casă.
-Dialogue: 100,0:03:45.45,0:03:48.08,Dialogue,,0,0,0,,Ceea ce-ți trebuie ție acum este să ieși!
-Dialogue: 100,0:03:48.08,0:03:50.08,Dialogue,,0,0,0,,Un bilet la operă?
-Dialogue: 100,0:03:50.08,0:03:53.08,Dialogue,,0,0,0,,Este la o piesă numită {\i1}Dragostea \Ntragică a femeii-cavaler Beatrix{\i0}.
-Dialogue: 100,0:03:53.08,0:03:55.70,Dialogue,,0,0,0,,Se ține în fiecare an în orașul neutru.
-Dialogue: 100,0:03:55.70,0:04:00.95,Dialogue,,0,0,0,,Îmi place mult această piesă, deci am cumpărat bilete pentru întreaga perioadă și am folosit 9 din 10,
-Dialogue: 100,0:04:00.95,0:04:02.50,Dialogue,,0,0,0,,dar îl poți lua tu pe ultimul, Iska!
-Dialogue: 100,0:04:02.50,0:04:05.16,Dialogue,,0,0,0,,Ce? Dar când voi merge?
-Dialogue: 100,0:04:05.16,0:04:07.29,Dialogue,,0,0,0,,Înainte de următoarea misiune!
-Dialogue: 100,0:04:07.29,0:04:09.12,Dialogue,,0,0,0,,De ce nu chiar mâine?
-Dialogue: 100,0:04:09.12,0:04:10.45,Dialogue,,0,0,0,,Mâine...
-Dialogue: 100,0:04:10.45,0:04:13.83,Dialogue,,0,0,0,,Ăsta e un ordin, ne-am înțeles?!
-Dialogue: 100,0:04:21.50,0:04:27.95,Dialogue,,0,0,0,,Ține-le mereu aproape. Acele săbii sunt singura noastră speranță de a restabili această lume.
-Dialogue: 100,0:04:31.95,0:04:35.25,Dialogue,,0,0,0,,Iska, aproape am ajuns în Ein.
-Dialogue: 100,0:04:35.25,0:04:36.70,Dialogue,,0,0,0,,Ce? Deja?
-Dialogue: 100,0:04:36.70,0:04:41.08,Dialogue,,0,0,0,,Ei bine, ai adormit imediat indiferent cât de mult am încercat să te țin de vorbă.
-Dialogue: 100,0:04:41.08,0:04:42.04,Dialogue,,0,0,0,,Scuze.
-Dialogue: 100,0:04:42.04,0:04:45.04,Dialogue,,0,0,0,,A trecut ceva timp de ultima oară când l-am visat pe maestrul meu.
-Dialogue: 100,0:04:45.04,0:04:48.20,Dialogue,,0,0,0,,În vis, eu și cu Jhin eram supuși la un antrenament intens...
-Dialogue: 100,0:04:48.20,0:04:50.04,Dialogue,,0,0,0,,Părea mai mult un coșmar.
-Dialogue: 100,0:04:50.04,0:04:51.66,Dialogue,,0,0,0,,Asta-mi aduce aminte.
-Dialogue: 100,0:04:51.66,0:04:55.20,Dialogue,,0,0,0,,Nu l-ai mai visat de mult pe maestrul Cro, nu-i așa?
-Dialogue: 100,0:04:55.20,0:04:58.87,Dialogue,,0,0,0,,Probabil pentru că nu am mai folosit săbiile astrale de ceva timp.
-Dialogue: 100,0:05:04.00,0:05:09.08,Dialogue,,0,0,0,,Adio, Beatrix. Nu pot fi cu tine.
-Dialogue: 100,0:05:09.08,0:05:11.87,Dialogue,,0,0,0,,Adio, Azel.
-Dialogue: 100,0:05:11.87,0:05:16.83,Dialogue,,0,0,0,,Data viitoare când ne vom întâlni, nu va fi într-o biserică ca acum, ci pe câmpul de luptă.
-Dialogue: 100,0:05:16.83,0:05:21.41,Dialogue,,0,0,0,,Azel, ești așa un prost... Cum poți să...
-Dialogue: 100,0:05:21.41,0:05:23.87,Dialogue,,0,0,0,,Șșș, mai încet.
-Dialogue: 100,0:05:23.87,0:05:25.33,Dialogue,,0,0,0,,Unde-ți este batista?
-Dialogue: 100,0:05:25.33,0:05:27.79,Dialogue,,0,0,0,,Este fleașcă deja.
-Dialogue: 100,0:05:27.79,0:05:29.00,Dialogue,,0,0,0,,Plângi prea mult.
-Dialogue: 100,0:05:29.00,0:05:32.25,Dialogue,,0,0,0,,Se pare că fata din fața mea este ușor mișcată până la lacrimi.
-Dialogue: 100,0:05:32.25,0:05:35.20,Dialogue,,0,0,0,,Nu mă pot concentra asupra piesei.
-Dialogue: 100,0:05:35.20,0:05:37.20,Dialogue,,0,0,0,,Ei bine, de ce nu o folosești pe aceasta?
-Dialogue: 100,0:05:38.62,0:05:40.83,Dialogue,,0,0,0,,Mulțumesc foarte mult.
-Dialogue: 100,0:05:48.50,0:05:52.50,Dialogue,,0,0,0,,Ei bine, îmi cer scuze că ți-am udat batista.
-Dialogue: 100,0:05:52.50,0:05:54.45,Dialogue,,0,0,0,,Voi plăti pentru ea.
-Dialogue: 100,0:05:54.45,0:05:56.95,Dialogue,,0,0,0,,O, nu, nu trebuie să-ți faci griji.
-Dialogue: 100,0:05:56.95,0:05:58.87,Dialogue,,0,0,0,,Este doar o batistă iefti...
-Dialogue: 100,0:06:02.00,0:06:03.50,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:06:03.50,0:06:07.58,Dialogue,,0,0,0,,C-C-C-Ce cauți tu aici?!
-Dialogue: 100,0:06:07.58,0:06:09.79,Dialogue,,0,0,0,,M-ai urmărit?!
-Dialogue: 100,0:06:09.79,0:06:12.00,Dialogue,,0,0,0,,Bine, vom termina asta odată pentru...
-Dialogue: 100,0:06:12.00,0:06:14.08,Dialogue,,0,0,0,,Domnișoară Alice! Nu faceți asta!
-Dialogue: 100,0:06:14.08,0:06:15.87,Dialogue,,0,0,0,,Ne aflăm într-un oraș neutru!
-Dialogue: 100,0:06:15.87,0:06:16.33,Dialogue,,0,0,0,,Ce se petrece?
-Dialogue: 100,0:06:16.33,0:06:19.95,Dialogue,,0,0,0,,Orice fel de conflict este interzis în acest oraș.
-Dialogue: 100,0:06:19.95,0:06:22.00,Dialogue,,0,0,0,,Știu asta.
-Dialogue: 100,0:06:22.00,0:06:26.58,Dialogue,,0,0,0,,Dacă-l atac acum, toate orașele neutre se vor întoarce împotriva noastră.
-Dialogue: 100,0:06:26.58,0:06:28.54,Dialogue,,0,0,0,,Asta ar fi o catastrofă.
-Dialogue: 100,0:06:28.54,0:06:31.62,Dialogue,,0,0,0,,Dar nu-mi vine să cred că stăteam în fața ta.
-Dialogue: 100,0:06:31.62,0:06:33.66,Dialogue,,0,0,0,,Nu e de mirare că mă simțeam neliniștită.
-Dialogue: 100,0:06:33.66,0:06:37.16,Dialogue,,0,0,0,,Dar erai foarte atentă la piesă și plângeai în hohote...
-Dialogue: 100,0:06:37.16,0:06:40.70,Dialogue,,0,0,0,,Ce?! A-Asta e doar transpirație!
-Dialogue: 100,0:06:40.70,0:06:43.50,Dialogue,,0,0,0,,Vei uita ceea ce ai văzut astăzi aici! Bine?!
-Dialogue: 100,0:06:43.50,0:06:48.41,Dialogue,,0,0,0,,Domnișoară Alice, veți atrage atenția dacă vorbiți prea tare.
-Dialogue: 100,0:06:48.41,0:06:51.83,Dialogue,,0,0,0,,O, bine. Ne vom retrage pentru astăzi.
-Dialogue: 100,0:06:51.83,0:06:53.41,Dialogue,,0,0,0,,O zi bună, Iska.
-Dialogue: 100,0:06:53.41,0:06:57.20,Dialogue,,0,0,0,,O, bine, mersi.
-Dialogue: 100,0:06:58.62,0:07:00.50,Dialogue,,0,0,0,,Domnișoară Alice.
-Dialogue: 100,0:07:00.50,0:07:04.41,Dialogue,,0,0,0,,N-Nu e ceea ce crezi, Rin! Am făcut-o din reflex!
-Dialogue: 100,0:07:04.41,0:07:06.95,Dialogue,,0,0,0,,Credeam că voi face infarct.
-Dialogue: 100,0:07:06.95,0:07:09.16,Dialogue,,0,0,0,,Mi-ai luat cuvintele din gură.
-Dialogue: 100,0:07:09.16,0:07:12.62,Dialogue,,0,0,0,,Credeam că vei porni un război.
-Dialogue: 100,0:07:12.62,0:07:14.62,Dialogue,,0,0,0,,Nu ne urmărește, nu?
-Dialogue: 100,0:07:14.62,0:07:20.04,Dialogue,,0,0,0,,Nu. Acel spadasin nu a făcut niciun pas până nu am părăsit sala.
-Dialogue: 100,0:07:21.00,0:07:25.04,Dialogue,,0,0,0,,Tot nu-mi vine să cred că stătea în spatele nostru.
-Dialogue: 100,0:07:25.04,0:07:27.87,Dialogue,,0,0,0,,Ar fi trebuit să luăm în considerare această posibilitate.
-Dialogue: 100,0:07:27.87,0:07:30.00,Dialogue,,0,0,0,,D-Da...
-Dialogue: 100,0:07:30.00,0:07:32.37,Dialogue,,0,0,0,,Haide să uităm despre asta și să mergem să mâncăm.
-Dialogue: 100,0:07:32.37,0:07:35.37,Dialogue,,0,0,0,,Pe aici ar trebui să fie un reustaurant faimos pentru pastele servite.
-Dialogue: 100,0:07:36.37,0:07:39.75,Dialogue,,0,0,0,,Îmi cer scuze, dar toate mesele sunt ocupate.
-Dialogue: 100,0:07:39.75,0:07:41.95,Dialogue,,0,0,0,,Dacă nu vă deranjează să împărțiți o masă cu cineva,
-Dialogue: 100,0:07:41.95,0:07:44.37,Dialogue,,0,0,0,,vă pot conduce chiar acum acolo.
-Dialogue: 100,0:07:44.37,0:07:45.58,Dialogue,,0,0,0,,Nu ne deranjează.
-Dialogue: 100,0:07:51.45,0:07:53.12,Dialogue,,0,0,0,,În acest caz, vă rog să mă urmați.
-Dialogue: 100,0:07:54.20,0:07:56.16,Dialogue,,0,0,0,,Mulțumim.
-Dialogue: 100,0:07:56.16,0:07:57.08,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:07:57.08,0:07:59.00,Dialogue,,0,0,0,,Pentru ce a fost asta?!
-Dialogue: 100,0:07:59.00,0:08:01.25,Dialogue,,0,0,0,,A-Acela este...
-Dialogue: 100,0:08:02.08,0:08:04.20,Dialogue,,0,0,0,,A-Apa a intrat intrat pe partea greșită...
-Dialogue: 100,0:08:04.20,0:08:05.95,Dialogue,,0,0,0,,Domnișoară Alice...
-Dialogue: 100,0:08:05.95,0:08:07.75,Dialogue,,0,0,0,,Cum îndrăznești să ne ataci astfel!
-Dialogue: 100,0:08:07.75,0:08:09.12,Dialogue,,0,0,0,,A-Ai înțeles complet greșit!
-Dialogue: 100,0:08:09.12,0:08:11.41,Dialogue,,0,0,0,,Atunci, ce cauți aici?!
-Dialogue: 100,0:08:11.41,0:08:14.66,Dialogue,,0,0,0,,Am venit aici deoarece este cel mai apropiat restaurant de operă...
-Dialogue: 100,0:08:14.66,0:08:16.58,Dialogue,,0,0,0,,Și mai este și foarte popular.
-Dialogue: 100,0:08:16.58,0:08:19.70,Dialogue,,0,0,0,,Pe lângă asta, am și rezervare!
-Dialogue: 100,0:08:21.70,0:08:23.87,Dialogue,,0,0,0,,Ce părere aveți, domnișoară Alice?
-Dialogue: 100,0:08:23.87,0:08:25.58,Dialogue,,0,0,0,,Nu pare să mintă.
-Dialogue: 100,0:08:25.58,0:08:28.87,Dialogue,,0,0,0,,Dar nu-ți lăsa garda jos, Rin. Continuă să fii cu ochii pe el.
-Dialogue: 100,0:08:28.87,0:08:33.83,Dialogue,,0,0,0,,Vă dați seama că sunt chiar aici și vă pot auzi?
-Dialogue: 100,0:08:36.87,0:08:39.20,Dialogue,,0,0,0,,Domnișoară Alice, sunteți sigură?
-Dialogue: 100,0:08:39.20,0:08:43.54,Dialogue,,0,0,0,,Poate că suntem într-un oraș neutru, dar să luați masa alături de un soldat al Imperiului...
-Dialogue: 100,0:08:43.54,0:08:46.95,Dialogue,,0,0,0,,Dar ar părea că am fugit speriată dacă aș pleca acum.
-Dialogue: 100,0:08:46.95,0:08:48.25,Dialogue,,0,0,0,,A-Asta așa e.
-Dialogue: 100,0:08:48.25,0:08:49.91,Dialogue,,0,0,0,,Oricum, să mâncăm...
-Dialogue: 100,0:08:51.50,0:08:53.00,Dialogue,,0,0,0,,Î-Îmi cer scuze.
-Dialogue: 100,0:08:53.00,0:08:56.62,Dialogue,,0,0,0,,Nu, scuze, a fost vina mea...
-Dialogue: 100,0:08:56.62,0:08:58.41,Dialogue,,0,0,0,,Tu prima, te rog.
-Dialogue: 100,0:08:58.41,0:09:00.79,Dialogue,,0,0,0,,Este în regulă, poți fi tu primul.
-Dialogue: 100,0:09:00.79,0:09:02.20,Dialogue,,0,0,0,,Pot aștepta.
-Dialogue: 100,0:09:02.20,0:09:03.91,Dialogue,,0,0,0,,Tu te-ai întins primul după el.
-Dialogue: 100,0:09:03.91,0:09:05.62,Dialogue,,0,0,0,,Atunci, haide să facem așa.
-Dialogue: 100,0:09:13.25,0:09:14.20,Dialogue,,0,0,0,,Hei...
-Dialogue: 100,0:09:14.20,0:09:16.83,Dialogue,,0,0,0,,C-Ce este?
-Dialogue: 100,0:09:16.83,0:09:19.50,Dialogue,,0,0,0,,Știi deja ce vrei să comanzi?
-Dialogue: 100,0:09:19.50,0:09:22.62,Dialogue,,0,0,0,,Da. Mă scuzați?
-Dialogue: 100,0:09:22.62,0:09:23.91,Dialogue,,0,0,0,,Vin imediat!
-Dialogue: 100,0:09:25.37,0:09:28.04,Dialogue,,0,0,0,,Somon și paste cu dovlecei și smântână de gătit.
-Dialogue: 100,0:09:28.04,0:09:30.91,Dialogue,,0,0,0,,Gătite în stil "ben cotta" și nu cu foarte multe paste.
-Dialogue: 100,0:09:30.91,0:09:34.87,Dialogue,,0,0,0,,Și o ceașcă de ceai cu un cubuleț de zahar după masă, vă rog.
-Dialogue: 100,0:09:34.87,0:09:36.16,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:09:36.16,0:09:38.58,Dialogue,,0,0,0,,Vai, voi doi vă sincronizați perfect.
-Dialogue: 100,0:09:38.58,0:09:39.50,Dialogue,,0,0,0,,Vă cunoaște...
-Dialogue: 100,0:09:39.50,0:09:41.12,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:09:44.79,0:09:47.12,Dialogue,,0,0,0,,Îți plac pastele?
-Dialogue: 100,0:09:47.12,0:09:48.25,Dialogue,,0,0,0,,Mie?
-Dialogue: 100,0:09:48.25,0:09:50.16,Dialogue,,0,0,0,,Cu cine altcineva crezi că vorbesc?
-Dialogue: 100,0:09:50.16,0:09:53.75,Dialogue,,0,0,0,,Da. Probabil este felul meu de mâncare favorit.
-Dialogue: 100,0:09:53.75,0:09:56.62,Dialogue,,0,0,0,,Îmi plac cu servite cu un sos cremos ca acesta,
-Dialogue: 100,0:09:56.62,0:09:59.37,Dialogue,,0,0,0,,dar sunt bune și cu puțin piper.
-Dialogue: 100,0:09:59.37,0:10:02.08,Dialogue,,0,0,0,,Oh, chiar știi despre ce vorbești.
-Dialogue: 100,0:10:02.08,0:10:04.62,Dialogue,,0,0,0,,Este un mod simplu de a le servi, și totuși delicios.
-Dialogue: 100,0:10:04.62,0:10:09.08,Dialogue,,0,0,0,,Dar când este cald afară, pastele reci sunt o altă opțiune bună.
-Dialogue: 100,0:10:09.08,0:10:12.12,Dialogue,,0,0,0,,O, da! Pastele reci sunt grozave.
-Dialogue: 100,0:10:12.12,0:10:15.45,Dialogue,,0,0,0,,Îmi fac mereu când văd roșii cherry la magazin.
-Dialogue: 100,0:10:15.45,0:10:19.45,Dialogue,,0,0,0,,Știu! Pastele reci cu roșii sunt delicioase!
-Dialogue: 100,0:10:19.45,0:10:21.41,Dialogue,,0,0,0,,Le-aș putea mânca toată vara...
-Dialogue: 100,0:10:21.41,0:10:23.41,Dialogue,,0,0,0,,Domnișoară Alice.
-Dialogue: 100,0:10:23.41,0:10:25.95,Dialogue,,0,0,0,,Se pare că v-ați oprit din mâncat.
-Dialogue: 100,0:10:27.54,0:10:30.25,Dialogue,,0,0,0,,Îmi pare rău. Te-am întrerupt din mâncat.
-Dialogue: 100,0:10:30.25,0:10:32.33,Dialogue,,0,0,0,,Ș-Și mie.
-Dialogue: 100,0:10:34.58,0:10:37.54,Dialogue,,0,0,0,,Iar pastele ar trebui să fie gătite mereu în stil "al dente".
-Dialogue: 100,0:10:37.54,0:10:39.79,Dialogue,,0,0,0,,Ce amatori.
-Dialogue: 100,0:10:39.79,0:10:42.16,Dialogue,,0,0,0,,Cele în stil "ben cotta" sunt cele mai bune!
-Dialogue: 100,0:10:46.95,0:10:51.62,Dialogue,,0,0,0,,Vă rog să nu vorbiți cu nimeni despre cele întâmplate astăzi, domnișoară Alice.
-Dialogue: 100,0:10:51.62,0:10:55.33,Dialogue,,0,0,0,,În mod normal, ar trebui să raportez acest lucru Maiestății Sale.
-Dialogue: 100,0:10:55.33,0:10:59.54,Dialogue,,0,0,0,,Poate nu ne-am luptat, dar tot am dat peste un soldat inamic.
-Dialogue: 100,0:10:59.54,0:11:01.45,Dialogue,,0,0,0,,Știu asta.
-Dialogue: 100,0:11:03.45,0:11:07.08,Dialogue,,0,0,0,,Acel lucru aparține inamicului. Nu ai de ce să-l păstrezi.
-Dialogue: 100,0:11:07.08,0:11:08.33,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:11:08.33,0:11:10.50,Dialogue,,0,0,0,,Acel spadasin este un monstru.
-Dialogue: 100,0:11:10.50,0:11:16.25,Dialogue,,0,0,0,,S-ar putea ca el să devină marele tău obstacol într-o bună zi.
-Dialogue: 100,0:11:16.25,0:11:19.58,Dialogue,,0,0,0,,Dar, Rin, este și vina ta.
-Dialogue: 100,0:11:19.58,0:11:21.75,Dialogue,,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:11:21.75,0:11:26.83,Dialogue,,0,0,0,,Ai făcut acel comentariu despre cum pastele ar trebui să fie gătite în stil "al dente",
-Dialogue: 100,0:11:26.83,0:11:29.91,Dialogue,,0,0,0,,iar eu și cu Iska am format această alianță ciudată...
-Dialogue: 100,0:11:29.91,0:11:32.83,Dialogue,,0,0,0,,Doar am spus un adevăr.
-Dialogue: 100,0:11:32.83,0:11:34.66,Dialogue,,0,0,0,,Pastele în stil "al dente" reprezintă apogeul lor.
-Dialogue: 100,0:11:34.66,0:11:36.37,Dialogue,,0,0,0,,Nimeni nu ar trebui să poată nega asta.
-Dialogue: 100,0:11:36.37,0:11:37.79,Dialogue,,0,0,0,,Așa încăpățânată!
-Dialogue: 100,0:11:55.25,0:11:59.91,Dialogue,,0,0,0,,Doamne, de ce-mi este atât de greu să adorm?!
-Dialogue: 100,0:12:47.58,0:12:51.00,Dialogue,,0,0,0,,Apă... Am nevoie de apă!
-Dialogue: 100,0:12:51.00,0:12:55.91,Dialogue,,0,0,0,,Atunci, bea. Acest antrenament necesită ca noi să alergă întreaga distanță în timp ce ne hidratăm.
-Dialogue: 100,0:12:55.91,0:12:58.79,Dialogue,,0,0,0,,Deja mi-am băut-o pe a mea.
-Dialogue: 100,0:12:58.79,0:13:03.33,Dialogue,,0,0,0,,Jhin, lasă-mă să iau o gură din a ta!
-Dialogue: 100,0:13:03.33,0:13:04.83,Dialogue,,0,0,0,,Te vei balona.
-Dialogue: 100,0:13:04.83,0:13:07.41,Dialogue,,0,0,0,,Jhin, ești așa un rău!
-Dialogue: 100,0:13:07.41,0:13:08.91,Dialogue,,0,0,0,,Salutare!
-Dialogue: 100,0:13:11.20,0:13:14.16,Dialogue,,0,0,0,,O-Oh, tu erai, Risya.
-Dialogue: 100,0:13:14.16,0:13:18.54,Dialogue,,0,0,0,,Issy, Nens, Jhin-Jhin! Nu ne-am mai văzut de un an!
-Dialogue: 100,0:13:18.54,0:13:23.79,Dialogue,,0,0,0,,Risya, tu ești consilierul special al Special Defense for Humankind HQ, nu?
-Dialogue: 100,0:13:23.79,0:13:25.08,Dialogue,,0,0,0,,Asta e uimitor.
-Dialogue: 100,0:13:25.08,0:13:26.79,Dialogue,,0,0,0,,Nu este așa mare lucru.
-Dialogue: 100,0:13:26.79,0:13:30.62,Dialogue,,0,0,0,,Deci ce fel de probleme ne-ați adus astăzi?
-Dialogue: 100,0:13:30.62,0:13:36.66,Dialogue,,0,0,0,,Well, Mismis' unit will be under\Nmy command for this next mission.
-Dialogue: 100,0:13:36.66,0:13:38.16,Dialogue,,0,0,0,,Aww...
-Dialogue: 100,0:13:38.16,0:13:40.00,Dialogue,,0,0,0,,Ce? Nu-ți place?
-Dialogue: 100,0:13:40.00,0:13:43.79,Dialogue,,0,0,0,,Doar că... tu ești prea deșteaptă, Risya.
-Dialogue: 100,0:13:43.79,0:13:46.95,Dialogue,,0,0,0,,Nu sunt sigură dacă-ți voi înțelege toate strategiile...
-Dialogue: 100,0:13:46.95,0:13:48.66,Dialogue,,0,0,0,,Va fi bine.
-Dialogue: 100,0:13:48.66,0:13:51.54,Dialogue,,0,0,0,,I reviewed your reports\Nof the engagement in Nelka.
-Dialogue: 100,0:13:51.54,0:13:56.16,Dialogue,,0,0,0,,I could tell everyone's intuitions\Nare still sharp.
-Dialogue: 100,0:13:56.16,0:14:01.08,Dialogue,,0,0,0,,Though, I heard you're\Nhaving trouble sleeping, Issy?
-Dialogue: 100,0:14:01.08,0:14:03.00,Dialogue,,0,0,0,,Just a little.
-Dialogue: 100,0:14:03.00,0:14:05.54,Dialogue,,0,0,0,,Were you not able to enjoy the opera?
-Dialogue: 100,0:14:05.54,0:14:09.08,Dialogue,,0,0,0,,Oh no, it was great. Thank you very much.
-Dialogue: 100,0:14:09.08,0:14:11.75,Dialogue,,0,0,0,,Tragic love stories like that\Nare good from time to time!
-Dialogue: 100,0:14:11.75,0:14:14.29,Dialogue,,0,0,0,,Even though Risya says it's boring...
-Dialogue: 100,0:14:14.29,0:14:19.00,Dialogue,,0,0,0,,I'm the type of person who\Ndoesn't understand art and stuff.
-Dialogue: 100,0:14:19.00,0:14:22.83,Dialogue,,0,0,0,,Speaking of... Issy, you want this?
-Dialogue: 100,0:14:24.25,0:14:26.62,Dialogue,,0,0,0,,Salil Viblanc's art exhibition?
-Dialogue: 100,0:14:26.62,0:14:31.37,Dialogue,,0,0,0,,I won this from a subordinate in a game,\Nbut I don't care for these things.
-Dialogue: 100,0:14:31.37,0:14:33.54,Dialogue,,0,0,0,,So take it, Issy.
-Dialogue: 100,0:14:34.95,0:14:37.04,Dialogue,,0,0,0,,Ein, huh?
-Dialogue: 100,0:14:44.16,0:14:47.37,Dialogue,,0,0,0,,I apologize for being late, Mother.
-Dialogue: 100,0:14:47.37,0:14:53.75,Dialogue,,0,0,0,,Alice, the other day, you mentioned\Nyou fought against an Imperial swordsman.
-Dialogue: 100,0:14:53.75,0:14:56.75,Dialogue,,0,0,0,,That he was as strong as the Saint Disciples.
-Dialogue: 100,0:14:56.75,0:14:57.95,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:14:57.95,0:15:03.54,Dialogue,,0,0,0,,The Saint Disciples protect the Emperor\Nand are the strongest in the Empire.
-Dialogue: 100,0:15:03.54,0:15:06.50,Dialogue,,0,0,0,,And you are saying he is on par with them.
-Dialogue: 100,0:15:06.50,0:15:10.20,Dialogue,,0,0,0,,Mother? Is something wrong?
-Dialogue: 100,0:15:10.20,0:15:11.83,Dialogue,,0,0,0,,Look above.
-Dialogue: 100,0:15:13.08,0:15:14.45,Dialogue,,0,0,0,,One hundred years ago,
-Dialogue: 100,0:15:14.45,0:15:20.12,Dialogue,,0,0,0,,the Founder fought against tens of\Nthousands of Imperial Army soldiers.
-Dialogue: 100,0:15:20.12,0:15:22.58,Dialogue,,0,0,0,,She still lives.
-Dialogue: 100,0:15:23.50,0:15:26.66,Dialogue,,0,0,0,,The Founder had a younger twin sister.
-Dialogue: 100,0:15:26.66,0:15:29.45,Dialogue,,0,0,0,,She was none other than Nebulis I.
-Dialogue: 100,0:15:29.45,0:15:34.41,Dialogue,,0,0,0,,The royal bloodline starts with her.\NShe is our ancestor.
-Dialogue: 100,0:15:35.45,0:15:39.62,Dialogue,,0,0,0,,Of course, the Empire never knew\Nthat the "Grand Witch,"
-Dialogue: 100,0:15:39.62,0:15:42.41,Dialogue,,0,0,0,,as they fearfully called her, had a sister.
-Dialogue: 100,0:15:42.41,0:15:49.62,Dialogue,,0,0,0,,Hence, they rejoiced over the "Grand Witch's"\Ndeath when Nebulis I passed away.
-Dialogue: 100,0:15:51.83,0:15:55.83,Dialogue,,0,0,0,,The bind on the Founder is weakening.
-Dialogue: 100,0:15:55.83,0:15:58.50,Dialogue,,0,0,0,,We saw this change in the Founder when,
-Dialogue: 100,0:15:58.50,0:16:05.54,Dialogue,,0,0,0,,Alice, you fought against the swordsman\Nof the Empire in the Nelka forest.
-Dialogue: 100,0:16:05.54,0:16:07.41,Dialogue,,0,0,0,,What does that mean?
-Dialogue: 100,0:16:07.41,0:16:11.83,Dialogue,,0,0,0,,Astral power reacts when its host is in danger.
-Dialogue: 100,0:16:11.83,0:16:15.20,Dialogue,,0,0,0,,Long ago, when the Imperial Army\Nreached the Sovereignty,
-Dialogue: 100,0:16:15.20,0:16:19.95,Dialogue,,0,0,0,,there were many recordings of\Nastral powers reacting at once.
-Dialogue: 100,0:16:19.95,0:16:22.70,Dialogue,,0,0,0,,The same is true for the Founder's astral power.
-Dialogue: 100,0:16:23.70,0:16:26.25,Dialogue,,0,0,0,,Like a sign of her awakening.
-Dialogue: 100,0:16:26.25,0:16:29.33,Dialogue,,0,0,0,,Alice, does anything come to mind?
-Dialogue: 100,0:16:31.41,0:16:32.66,Dialogue,,0,0,0,,Awaken.
-Dialogue: 100,0:16:36.70,0:16:41.08,Dialogue,,0,0,0,,Many mysteries remain in regard\Nto the Founder's astral power.
-Dialogue: 100,0:16:41.08,0:16:44.45,Dialogue,,0,0,0,,I will have the Astral Institution\Nquickly look into this, but...
-Dialogue: 100,0:16:44.45,0:16:48.87,Dialogue,,0,0,0,,Alice, you shall refrain\Nfrom going to the battlefield.
-Dialogue: 100,0:16:48.87,0:16:51.29,Dialogue,,0,0,0,,At least until we know who\Nthis Imperial swordsman is.
-Dialogue: 100,0:16:51.29,0:16:52.12,Dialogue,,0,0,0,,Understood.
-Dialogue: 100,0:16:57.83,0:17:01.16,Dialogue,,0,0,0,,Lady Alice, is something the matter?
-Dialogue: 100,0:17:01.16,0:17:03.00,Dialogue,,0,0,0,,N-No.
-Dialogue: 100,0:17:03.00,0:17:06.45,Dialogue,,0,0,0,,I'll try to not overthink things.
-Dialogue: 100,0:17:06.45,0:17:10.66,Dialogue,,0,0,0,,I've been having trouble sleeping,\Nso I need a change in scenery.
-Dialogue: 100,0:17:10.66,0:17:13.83,Dialogue,,0,0,0,,Not the Neutral city again?
-Dialogue: 100,0:17:13.83,0:17:15.95,Dialogue,,0,0,0,,If something like the other day happens again...
-Dialogue: 100,0:17:15.95,0:17:20.29,Dialogue,,0,0,0,,That was just a coincidence.\NTo be safe, I won't go to the opera this time.
-Dialogue: 100,0:17:20.29,0:17:23.79,Dialogue,,0,0,0,,This time, I should actually enjoy my break.
-Dialogue: 100,0:17:23.79,0:17:25.87,Dialogue,,0,0,0,,Then where to?
-Dialogue: 100,0:17:26.83,0:17:29.04,Dialogue,,0,0,0,,Oh my god.
-Dialogue: 100,0:17:29.04,0:17:31.83,Dialogue,,0,0,0,,Why are you here again?!
-Dialogue: 100,0:17:31.83,0:17:34.41,Dialogue,,0,0,0,,Alice? Why are you here?
-Dialogue: 100,0:17:34.41,0:17:37.16,Dialogue,,0,0,0,,Even the art exhibit we're going to is the same?
-Dialogue: 100,0:17:37.16,0:17:41.66,Dialogue,,0,0,0,,Why would an Imperial soldier\Ncome to Neutral city this often?
-Dialogue: 100,0:17:41.66,0:17:44.54,Dialogue,,0,0,0,,Whatever happened to your duty\Nto protect the Empire?!
-Dialogue: 100,0:17:44.54,0:17:48.58,Dialogue,,0,0,0,,Let me just point out that Viblanc is\Nan impressionist artist of the Empire,
-Dialogue: 100,0:17:48.58,0:17:50.95,Dialogue,,0,0,0,,and that it isn't weird for me\Nto come see his art.
-Dialogue: 100,0:17:50.95,0:17:53.79,Dialogue,,0,0,0,,But should {\i1}you {\i0}be enjoying the art\Nof an Imperial artist?
-Dialogue: 100,0:17:53.79,0:17:56.45,Dialogue,,0,0,0,,Art has no borders.
-Dialogue: 100,0:17:56.45,0:17:58.75,Dialogue,,0,0,0,,That's true.
-Dialogue: 100,0:17:58.75,0:18:02.41,Dialogue,,0,0,0,,I think the art museum is this way.\NShould we go?
-Dialogue: 100,0:18:02.41,0:18:04.20,Dialogue,,0,0,0,,All right.
-Dialogue: 100,0:18:04.20,0:18:05.54,Dialogue,,0,0,0,,Wait, no!
-Dialogue: 100,0:18:05.54,0:18:08.87,Dialogue,,0,0,0,,I'll go this way.
-Dialogue: 100,0:18:08.87,0:18:10.75,Dialogue,,0,0,0,,Hey, wait, Alice.
-Dialogue: 100,0:18:19.45,0:18:20.91,Dialogue,,0,0,0,,Ugh, jeez...
-Dialogue: 100,0:18:20.91,0:18:23.20,Dialogue,,0,0,0,,Just because it's the city of art
-Dialogue: 100,0:18:23.20,0:18:26.70,Dialogue,,0,0,0,,doesn't mean they just have\Nto clean up the main streets.
-Dialogue: 100,0:18:29.91,0:18:32.91,Dialogue,,0,0,0,,Rin... Help me...
-Dialogue: 100,0:18:32.91,0:18:34.75,Dialogue,,0,0,0,,I think I'm lost...
-Dialogue: 100,0:18:48.54,0:18:49.62,Dialogue,,0,0,0,,Alice?
-Dialogue: 100,0:18:50.75,0:18:54.70,Dialogue,,0,0,0,,Why are you here?! You're supposed\Nto be at the art museum!
-Dialogue: 100,0:18:54.70,0:18:56.58,Dialogue,,0,0,0,,I already saw most of it.
-Dialogue: 100,0:18:56.58,0:19:01.70,Dialogue,,0,0,0,,But I didn't see you around,\Nso I thought maybe you got lost.
-Dialogue: 100,0:19:02.70,0:19:03.75,Dialogue,,0,0,0,,I can take you.
-Dialogue: 100,0:19:03.75,0:19:05.41,Dialogue,,0,0,0,,W-We can't!
-Dialogue: 100,0:19:05.41,0:19:07.70,Dialogue,,0,0,0,,I'm the princess of the Nebulis Sovereignty,
-Dialogue: 100,0:19:07.70,0:19:10.20,Dialogue,,0,0,0,,and you're a swordsman of the Empire!
-Dialogue: 100,0:19:10.20,0:19:12.62,Dialogue,,0,0,0,,So you're a princess?
-Dialogue: 100,0:19:12.62,0:19:14.62,Dialogue,,0,0,0,,Well, I figured you might be.
-Dialogue: 100,0:19:16.45,0:19:19.66,Dialogue,,0,0,0,,There's no reason to hide it from you now.
-Dialogue: 100,0:19:19.66,0:19:22.29,Dialogue,,0,0,0,,Anyway, my point is we're enemies.
-Dialogue: 100,0:19:22.29,0:19:25.70,Dialogue,,0,0,0,,Of course it's inappropriate\Nto go to the art museum together.
-Dialogue: 100,0:19:25.70,0:19:28.70,Dialogue,,0,0,0,,We're enemies, but art has no borders.
-Dialogue: 100,0:19:28.70,0:19:30.79,Dialogue,,0,0,0,,Those were your words, Alice.
-Dialogue: 100,0:19:40.50,0:19:43.04,Dialogue,,0,0,0,,I wanted to see this piece.
-Dialogue: 100,0:19:48.16,0:19:49.33,Dialogue,,0,0,0,,Iska.
-Dialogue: 100,0:19:49.33,0:19:50.58,Dialogue,,0,0,0,,Yeah?
-Dialogue: 100,0:19:50.58,0:19:54.45,Dialogue,,0,0,0,,Why do you like this artist?
-Dialogue: 100,0:19:54.45,0:19:58.29,Dialogue,,0,0,0,,The paint right here is a little raised.
-Dialogue: 100,0:19:58.29,0:20:00.87,Dialogue,,0,0,0,,This is just my imagination,
-Dialogue: 100,0:20:00.87,0:20:05.70,Dialogue,,0,0,0,,but I think he paused when he tried\Nto add paint with a painting knife.
-Dialogue: 100,0:20:05.70,0:20:09.95,Dialogue,,0,0,0,,And here, he repainted it with\Na completely different shade.
-Dialogue: 100,0:20:09.95,0:20:14.58,Dialogue,,0,0,0,,It makes me wonder if the image in his head\Nchanges while he's painting.
-Dialogue: 100,0:20:14.58,0:20:18.75,Dialogue,,0,0,0,,Needing to paint in stronger colors,\Nwith more passion...
-Dialogue: 100,0:20:18.75,0:20:25.00,Dialogue,,0,0,0,,This artist, Viblanc, only paints landscapes.\NCities, streets, boating docks...
-Dialogue: 100,0:20:25.00,0:20:27.91,Dialogue,,0,0,0,,And he never draws people in them.
-Dialogue: 100,0:20:27.91,0:20:32.04,Dialogue,,0,0,0,,The subject he draws is inorganic\Nand his colors are dark, but...
-Dialogue: 100,0:20:32.04,0:20:34.20,Dialogue,,0,0,0,,He's very passionate?
-Dialogue: 100,0:20:34.20,0:20:38.20,Dialogue,,0,0,0,,Right. I can see his personality\Nthrough his art,
-Dialogue: 100,0:20:38.20,0:20:40.58,Dialogue,,0,0,0,,and I think that's what I like about it.
-Dialogue: 100,0:20:40.58,0:20:43.41,Dialogue,,0,0,0,,I get it. I feel the same--
-Dialogue: 100,0:20:47.37,0:20:50.04,Dialogue,,0,0,0,,Here, for showing me the way.
-Dialogue: 100,0:20:50.04,0:20:52.20,Dialogue,,0,0,0,,You don't need to do that.
-Dialogue: 100,0:20:52.20,0:20:55.87,Dialogue,,0,0,0,,I don't want to owe you. Especially you.
-Dialogue: 100,0:20:55.87,0:20:58.54,Dialogue,,0,0,0,,It wasn't a big deal.
-Dialogue: 100,0:20:58.54,0:21:01.12,Dialogue,,0,0,0,,I have my own money...
-Dialogue: 100,0:21:01.12,0:21:02.45,Dialogue,,0,0,0,,What is it?
-Dialogue: 100,0:21:02.45,0:21:05.20,Dialogue,,0,0,0,,Maybe I don't have enough money.
-Dialogue: 100,0:21:05.20,0:21:07.91,Dialogue,,0,0,0,,Ești așa de prostuț.
-Dialogue: 100,0:21:07.91,0:21:10.20,Dialogue,,0,0,0,,I'm saying you can have it.
-Dialogue: 100,0:21:10.20,0:21:12.75,Dialogue,,0,0,0,,Don't worry about it.
-Dialogue: 100,0:21:12.75,0:21:15.16,Dialogue,,0,0,0,,So, how old are you anyway?
-Dialogue: 100,0:21:15.16,0:21:16.83,Dialogue,,0,0,0,,I'm 16.
-Dialogue: 100,0:21:16.83,0:21:19.79,Dialogue,,0,0,0,,Atunci, sunt mai mare ca tine.
-Dialogue: 100,0:21:27.04,0:21:29.04,Dialogue,,0,0,0,,What was I--?
-Dialogue: 100,0:21:46.08,0:21:49.25,Dialogue,,0,0,0,,Suntem inamici, știi?
-Dialogue: 100,0:21:49.25,0:21:55.29,Dialogue,,0,0,0,,If I... If I wanted to,\Nin your current state, I could...
-Dialogue: 100,0:23:34.16,0:23:38.58,Dialogue,,0,0,0,,That is all for today's deliberation.
-Dialogue: 100,0:23:38.58,0:23:43.83,Dialogue,,0,0,0,,We will reinstate the Successor of the\NBlack Steel, Iska, back to Saint Disciple
-Dialogue: 100,0:23:43.83,0:23:49.25,Dialogue,,0,0,0,,under the condition that he captures\Nthe Ice Calamity Witch.
+Dialogue: 99,0:00:22.79,0:00:25.33,Dialogue,,0,0,0,,Nu pot dormi deloc.
+Dialogue: 99,0:01:57.41,0:01:59.79,Dialogue,,0,0,0,,Iska, cum te simți?
+Dialogue: 99,0:01:59.79,0:02:01.50,Dialogue,,0,0,0,,Sunt bine.
+Dialogue: 99,0:02:01.50,0:02:04.29,Dialogue,,0,0,0,,Doar că... nu prea reușesc să dorm.
+Dialogue: 99,0:02:04.29,0:02:08.41,Dialogue,,0,0,0,,Știi, nu prea reușesc să fac lucruri pentru voi, deși sunt căpitanul vostru...
+Dialogue: 99,0:02:08.41,0:02:12.00,Dialogue,,0,0,0,,Deci încerc să fiu mereu acolo dacă aveți nevoie să vorbiți cu cineva.
+Dialogue: 99,0:02:13.00,0:02:14.50,Dialogue,,0,0,0,,Vezi, știam eu!
+Dialogue: 99,0:02:14.50,0:02:18.16,Dialogue,,0,0,0,,Știam că ai fața aia de \Nparcă ceva este în neregulă!
+Dialogue: 99,0:02:18.16,0:02:20.62,Dialogue,,0,0,0,,Ce? Serios?
+Dialogue: 99,0:02:20.62,0:02:22.04,Dialogue,,0,0,0,,Da, așa este!
+Dialogue: 99,0:02:22.04,0:02:25.79,Dialogue,,0,0,0,,Haide, spune-mi ce este!
+Dialogue: 99,0:02:25.79,0:02:28.87,Dialogue,,0,0,0,,Mă gândesc continuu la acea luptă.
+Dialogue: 99,0:02:28.87,0:02:32.08,Dialogue,,0,0,0,,Cea care s-a terminat la egalitate?
+Dialogue: 99,0:02:32.08,0:02:35.66,Dialogue,,0,0,0,,Poate te-a lăsat cu o cicatrice emoțională.
+Dialogue: 99,0:02:35.66,0:02:37.20,Dialogue,,0,0,0,,Ca o traumă?
+Dialogue: 99,0:02:37.20,0:02:40.54,Dialogue,,0,0,0,,Da... După ce ai dus o luptă grea,
+Dialogue: 99,0:02:40.54,0:02:44.87,Dialogue,,0,0,0,,poți rămâne cu răni psihologice de la teamă sau răni fizice.
+Dialogue: 99,0:02:44.87,0:02:50.45,Dialogue,,0,0,0,,Asta nu e de mirare după ce te-ai luptat cu Vrăjitoarea Calamității de Gheață.
+Dialogue: 99,0:02:50.45,0:02:51.95,Dialogue,,0,0,0,,O, și...
+Dialogue: 99,0:02:51.95,0:02:53.00,Dialogue,,0,0,0,,Și?
+Dialogue: 99,0:02:53.00,0:02:54.95,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:02:54.95,0:02:57.04,Dialogue,,0,0,0,,Nu, nu mai contează.
+Dialogue: 99,0:02:57.04,0:03:01.54,Dialogue,,0,0,0,,Hm... Oare ce ai putea face că să repari asta?
+Dialogue: 99,0:03:01.54,0:03:07.87,Dialogue,,0,0,0,,Când ceva mă deranjează, un grătar și un somn bun mă ajută să-mi revin.
+Dialogue: 99,0:03:07.87,0:03:10.12,Dialogue,,0,0,0,,Nu prea cred că am chef de așa ceva...
+Dialogue: 99,0:03:10.12,0:03:13.95,Dialogue,,0,0,0,,O schimbare de peisaj \Ns-ar putea să-ți facă bine.
+Dialogue: 99,0:03:14.95,0:03:16.41,Dialogue,,0,0,0,,Știu!
+Dialogue: 99,0:03:20.20,0:03:23.16,Dialogue,,0,0,0,,Este puțin dezordine, \Ndar intră fără griji!
+Dialogue: 99,0:03:23.16,0:03:25.87,Dialogue,,0,0,0,,Colecția ta de animale de pluș a crescut.
+Dialogue: 99,0:03:27.00,0:03:28.87,Dialogue,,0,0,0,,Nu-i așa? \NSunt așa drăguțe.
+Dialogue: 99,0:03:28.87,0:03:30.37,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:03:30.37,0:03:32.04,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:03:32.04,0:03:35.62,Dialogue,,0,0,0,,Dar, păi, asta este ceva...
+Dialogue: 99,0:03:35.62,0:03:36.83,Dialogue,,0,0,0,,ce nu ar trebui să văd...
+Dialogue: 99,0:03:36.83,0:03:38.75,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:03:39.75,0:03:41.20,Dialogue,,0,0,0,,A-Aha.
+Dialogue: 99,0:03:41.20,0:03:45.45,Dialogue,,0,0,0,,Oricum, nimic bun nu o să ți se întâmple dacă stai în casă.
+Dialogue: 99,0:03:45.45,0:03:48.08,Dialogue,,0,0,0,,Ceea ce-ți trebuie ție acum este să ieși!
+Dialogue: 99,0:03:48.08,0:03:50.08,Dialogue,,0,0,0,,Un bilet la operă?
+Dialogue: 99,0:03:50.08,0:03:53.08,Dialogue,,0,0,0,,Este la o piesă numită {\i1}Dragostea \Ntragică a femeii-cavaler Beatrix{\i0}.
+Dialogue: 99,0:03:53.08,0:03:55.70,Dialogue,,0,0,0,,Se ține în fiecare an în orașul neutru.
+Dialogue: 99,0:03:55.70,0:04:00.95,Dialogue,,0,0,0,,Îmi place mult această piesă, deci am cumpărat bilete pentru întreaga perioadă și am folosit 9 din 10,
+Dialogue: 99,0:04:00.95,0:04:02.50,Dialogue,,0,0,0,,dar îl poți lua tu pe ultimul, Iska!
+Dialogue: 99,0:04:02.50,0:04:05.16,Dialogue,,0,0,0,,Ce? Dar când voi merge?
+Dialogue: 99,0:04:05.16,0:04:07.29,Dialogue,,0,0,0,,Înainte de următoarea misiune!
+Dialogue: 99,0:04:07.29,0:04:09.12,Dialogue,,0,0,0,,De ce nu chiar mâine?
+Dialogue: 99,0:04:09.12,0:04:10.45,Dialogue,,0,0,0,,Mâine...
+Dialogue: 99,0:04:10.45,0:04:13.83,Dialogue,,0,0,0,,Ăsta e un ordin, ne-am înțeles?!
+Dialogue: 99,0:04:21.50,0:04:27.95,Dialogue,,0,0,0,,Ține-le mereu aproape. Acele săbii sunt singura noastră speranță de a restabili această lume.
+Dialogue: 99,0:04:31.95,0:04:35.25,Dialogue,,0,0,0,,Iska, aproape am ajuns în Ein.
+Dialogue: 99,0:04:35.25,0:04:36.70,Dialogue,,0,0,0,,Ce? Deja?
+Dialogue: 99,0:04:36.70,0:04:41.08,Dialogue,,0,0,0,,Ei bine, ai adormit imediat indiferent cât de mult am încercat să te țin de vorbă.
+Dialogue: 99,0:04:41.08,0:04:42.04,Dialogue,,0,0,0,,Scuze.
+Dialogue: 99,0:04:42.04,0:04:45.04,Dialogue,,0,0,0,,A trecut ceva timp de ultima oară când l-am visat pe maestrul meu.
+Dialogue: 99,0:04:45.04,0:04:48.20,Dialogue,,0,0,0,,În vis, eu și cu Jhin eram supuși la un antrenament intens...
+Dialogue: 99,0:04:48.20,0:04:50.04,Dialogue,,0,0,0,,Părea mai mult un coșmar.
+Dialogue: 99,0:04:50.04,0:04:51.66,Dialogue,,0,0,0,,Asta-mi aduce aminte.
+Dialogue: 99,0:04:51.66,0:04:55.20,Dialogue,,0,0,0,,Nu l-ai mai visat de mult pe maestrul Cro, nu-i așa?
+Dialogue: 99,0:04:55.20,0:04:58.87,Dialogue,,0,0,0,,Probabil pentru că nu am mai folosit săbiile astrale de ceva timp.
+Dialogue: 99,0:05:04.00,0:05:09.08,Dialogue,,0,0,0,,Adio, Beatrix. Nu pot fi cu tine.
+Dialogue: 99,0:05:09.08,0:05:11.87,Dialogue,,0,0,0,,Adio, Azel.
+Dialogue: 99,0:05:11.87,0:05:16.83,Dialogue,,0,0,0,,Data viitoare când ne vom întâlni, nu va fi într-o biserică ca acum, ci pe câmpul de luptă.
+Dialogue: 99,0:05:16.83,0:05:21.41,Dialogue,,0,0,0,,Azel, ești așa un prost... Cum poți să...
+Dialogue: 99,0:05:21.41,0:05:23.87,Dialogue,,0,0,0,,Șșș, mai încet.
+Dialogue: 99,0:05:23.87,0:05:25.33,Dialogue,,0,0,0,,Unde-ți este batista?
+Dialogue: 99,0:05:25.33,0:05:27.79,Dialogue,,0,0,0,,Este fleașcă deja.
+Dialogue: 99,0:05:27.79,0:05:29.00,Dialogue,,0,0,0,,Plângi prea mult.
+Dialogue: 99,0:05:29.00,0:05:32.25,Dialogue,,0,0,0,,Se pare că fata din fața mea este ușor mișcată până la lacrimi.
+Dialogue: 99,0:05:32.25,0:05:35.20,Dialogue,,0,0,0,,Nu mă pot concentra asupra piesei.
+Dialogue: 99,0:05:35.20,0:05:37.20,Dialogue,,0,0,0,,Ei bine, de ce nu o folosești pe aceasta?
+Dialogue: 99,0:05:38.62,0:05:40.83,Dialogue,,0,0,0,,Mulțumesc foarte mult.
+Dialogue: 99,0:05:48.50,0:05:52.50,Dialogue,,0,0,0,,Ei bine, îmi cer scuze că ți-am udat batista.
+Dialogue: 99,0:05:52.50,0:05:54.45,Dialogue,,0,0,0,,Voi plăti pentru ea.
+Dialogue: 99,0:05:54.45,0:05:56.95,Dialogue,,0,0,0,,O, nu, nu trebuie să-ți faci griji.
+Dialogue: 99,0:05:56.95,0:05:58.87,Dialogue,,0,0,0,,Este doar o batistă iefti...
+Dialogue: 99,0:06:02.00,0:06:03.50,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:06:03.50,0:06:07.58,Dialogue,,0,0,0,,C-C-C-Ce cauți tu aici?!
+Dialogue: 99,0:06:07.58,0:06:09.79,Dialogue,,0,0,0,,M-ai urmărit?!
+Dialogue: 99,0:06:09.79,0:06:12.00,Dialogue,,0,0,0,,Bine, vom termina asta odată pentru...
+Dialogue: 99,0:06:12.00,0:06:14.08,Dialogue,,0,0,0,,Domnișoară Alice! Nu faceți asta!
+Dialogue: 99,0:06:14.08,0:06:15.87,Dialogue,,0,0,0,,Ne aflăm într-un oraș neutru!
+Dialogue: 99,0:06:15.87,0:06:16.33,Dialogue,,0,0,0,,Ce se petrece?
+Dialogue: 99,0:06:16.33,0:06:19.95,Dialogue,,0,0,0,,Orice fel de conflict este interzis în acest oraș.
+Dialogue: 99,0:06:19.95,0:06:22.00,Dialogue,,0,0,0,,Știu asta.
+Dialogue: 99,0:06:22.00,0:06:26.58,Dialogue,,0,0,0,,Dacă-l atac acum, toate orașele neutre se vor întoarce împotriva noastră.
+Dialogue: 99,0:06:26.58,0:06:28.54,Dialogue,,0,0,0,,Asta ar fi o catastrofă.
+Dialogue: 99,0:06:28.54,0:06:31.62,Dialogue,,0,0,0,,Dar nu-mi vine să cred că stăteam în fața ta.
+Dialogue: 99,0:06:31.62,0:06:33.66,Dialogue,,0,0,0,,Nu e de mirare că mă simțeam neliniștită.
+Dialogue: 99,0:06:33.66,0:06:37.16,Dialogue,,0,0,0,,Dar erai foarte atentă la piesă și plângeai în hohote...
+Dialogue: 99,0:06:37.16,0:06:40.70,Dialogue,,0,0,0,,Ce?! A-Asta e doar transpirație!
+Dialogue: 99,0:06:40.70,0:06:43.50,Dialogue,,0,0,0,,Vei uita ceea ce ai văzut astăzi aici! Bine?!
+Dialogue: 99,0:06:43.50,0:06:48.41,Dialogue,,0,0,0,,Domnișoară Alice, veți atrage atenția dacă vorbiți prea tare.
+Dialogue: 99,0:06:48.41,0:06:51.83,Dialogue,,0,0,0,,O, bine. Ne vom retrage pentru astăzi.
+Dialogue: 99,0:06:51.83,0:06:53.41,Dialogue,,0,0,0,,O zi bună, Iska.
+Dialogue: 99,0:06:53.41,0:06:57.20,Dialogue,,0,0,0,,O, bine, mersi.
+Dialogue: 99,0:06:58.62,0:07:00.50,Dialogue,,0,0,0,,Domnișoară Alice.
+Dialogue: 99,0:07:00.50,0:07:04.41,Dialogue,,0,0,0,,N-Nu e ceea ce crezi, Rin! Am făcut-o din reflex!
+Dialogue: 99,0:07:04.41,0:07:06.95,Dialogue,,0,0,0,,Credeam că voi face infarct.
+Dialogue: 99,0:07:06.95,0:07:09.16,Dialogue,,0,0,0,,Mi-ai luat cuvintele din gură.
+Dialogue: 99,0:07:09.16,0:07:12.62,Dialogue,,0,0,0,,Credeam că vei porni un război.
+Dialogue: 99,0:07:12.62,0:07:14.62,Dialogue,,0,0,0,,Nu ne urmărește, nu?
+Dialogue: 99,0:07:14.62,0:07:20.04,Dialogue,,0,0,0,,Nu. Acel spadasin nu a făcut niciun pas până nu am părăsit sala.
+Dialogue: 99,0:07:21.00,0:07:25.04,Dialogue,,0,0,0,,Tot nu-mi vine să cred că stătea în spatele nostru.
+Dialogue: 99,0:07:25.04,0:07:27.87,Dialogue,,0,0,0,,Ar fi trebuit să luăm în considerare această posibilitate.
+Dialogue: 99,0:07:27.87,0:07:30.00,Dialogue,,0,0,0,,D-Da...
+Dialogue: 99,0:07:30.00,0:07:32.37,Dialogue,,0,0,0,,Haide să uităm despre asta și să mergem să mâncăm.
+Dialogue: 99,0:07:32.37,0:07:35.37,Dialogue,,0,0,0,,Pe aici ar trebui să fie un reustaurant faimos pentru pastele servite.
+Dialogue: 99,0:07:36.37,0:07:39.75,Dialogue,,0,0,0,,Îmi cer scuze, dar toate mesele sunt ocupate.
+Dialogue: 99,0:07:39.75,0:07:41.95,Dialogue,,0,0,0,,Dacă nu vă deranjează să împărțiți o masă cu cineva,
+Dialogue: 99,0:07:41.95,0:07:44.37,Dialogue,,0,0,0,,vă pot conduce chiar acum acolo.
+Dialogue: 99,0:07:44.37,0:07:45.58,Dialogue,,0,0,0,,Nu ne deranjează.
+Dialogue: 99,0:07:51.45,0:07:53.12,Dialogue,,0,0,0,,În acest caz, vă rog să mă urmați.
+Dialogue: 99,0:07:54.20,0:07:56.16,Dialogue,,0,0,0,,Mulțumim.
+Dialogue: 99,0:07:56.16,0:07:57.08,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:07:57.08,0:07:59.00,Dialogue,,0,0,0,,Pentru ce a fost asta?!
+Dialogue: 99,0:07:59.00,0:08:01.25,Dialogue,,0,0,0,,A-Acela este...
+Dialogue: 99,0:08:02.08,0:08:04.20,Dialogue,,0,0,0,,A-Apa a intrat intrat pe partea greșită...
+Dialogue: 99,0:08:04.20,0:08:05.95,Dialogue,,0,0,0,,Domnișoară Alice...
+Dialogue: 99,0:08:05.95,0:08:07.75,Dialogue,,0,0,0,,Cum îndrăznești să ne ataci astfel!
+Dialogue: 99,0:08:07.75,0:08:09.12,Dialogue,,0,0,0,,A-Ai înțeles complet greșit!
+Dialogue: 99,0:08:09.12,0:08:11.41,Dialogue,,0,0,0,,Atunci, ce cauți aici?!
+Dialogue: 99,0:08:11.41,0:08:14.66,Dialogue,,0,0,0,,Am venit aici deoarece este cel mai apropiat restaurant de operă...
+Dialogue: 99,0:08:14.66,0:08:16.58,Dialogue,,0,0,0,,Și mai este și foarte popular.
+Dialogue: 99,0:08:16.58,0:08:19.70,Dialogue,,0,0,0,,Pe lângă asta, am și rezervare!
+Dialogue: 99,0:08:21.70,0:08:23.87,Dialogue,,0,0,0,,Ce părere aveți, domnișoară Alice?
+Dialogue: 99,0:08:23.87,0:08:25.58,Dialogue,,0,0,0,,Nu pare să mintă.
+Dialogue: 99,0:08:25.58,0:08:28.87,Dialogue,,0,0,0,,Dar nu-ți lăsa garda jos, Rin. Continuă să fii cu ochii pe el.
+Dialogue: 99,0:08:28.87,0:08:33.83,Dialogue,,0,0,0,,Vă dați seama că sunt chiar aici și vă pot auzi?
+Dialogue: 99,0:08:36.87,0:08:39.20,Dialogue,,0,0,0,,Domnișoară Alice, sunteți sigură?
+Dialogue: 99,0:08:39.20,0:08:43.54,Dialogue,,0,0,0,,Poate că suntem într-un oraș neutru, dar să luați masa alături de un soldat al Imperiului...
+Dialogue: 99,0:08:43.54,0:08:46.95,Dialogue,,0,0,0,,Dar ar părea că am fugit speriată dacă aș pleca acum.
+Dialogue: 99,0:08:46.95,0:08:48.25,Dialogue,,0,0,0,,A-Asta așa e.
+Dialogue: 99,0:08:48.25,0:08:49.91,Dialogue,,0,0,0,,Oricum, să mâncăm...
+Dialogue: 99,0:08:51.50,0:08:53.00,Dialogue,,0,0,0,,Î-Îmi cer scuze.
+Dialogue: 99,0:08:53.00,0:08:56.62,Dialogue,,0,0,0,,Nu, scuze, a fost vina mea...
+Dialogue: 99,0:08:56.62,0:08:58.41,Dialogue,,0,0,0,,Tu prima, te rog.
+Dialogue: 99,0:08:58.41,0:09:00.79,Dialogue,,0,0,0,,Este în regulă, poți fi tu primul.
+Dialogue: 99,0:09:00.79,0:09:02.20,Dialogue,,0,0,0,,Pot aștepta.
+Dialogue: 99,0:09:02.20,0:09:03.91,Dialogue,,0,0,0,,Tu te-ai întins primul după el.
+Dialogue: 99,0:09:03.91,0:09:05.62,Dialogue,,0,0,0,,Atunci, haide să facem așa.
+Dialogue: 99,0:09:13.25,0:09:14.20,Dialogue,,0,0,0,,Hei...
+Dialogue: 99,0:09:14.20,0:09:16.83,Dialogue,,0,0,0,,C-Ce este?
+Dialogue: 99,0:09:16.83,0:09:19.50,Dialogue,,0,0,0,,Știi deja ce vrei să comanzi?
+Dialogue: 99,0:09:19.50,0:09:22.62,Dialogue,,0,0,0,,Da. Mă scuzați?
+Dialogue: 99,0:09:22.62,0:09:23.91,Dialogue,,0,0,0,,Vin imediat!
+Dialogue: 99,0:09:25.37,0:09:28.04,Dialogue,,0,0,0,,Somon și paste cu dovlecei și smântână de gătit.
+Dialogue: 99,0:09:28.04,0:09:30.91,Dialogue,,0,0,0,,Gătite în stil "ben cotta" și nu cu foarte multe paste.
+Dialogue: 99,0:09:30.91,0:09:34.87,Dialogue,,0,0,0,,Și o ceașcă de ceai cu un cubuleț de zahar după masă, vă rog.
+Dialogue: 99,0:09:34.87,0:09:36.16,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:09:36.16,0:09:38.58,Dialogue,,0,0,0,,Vai, voi doi vă sincronizați perfect.
+Dialogue: 99,0:09:38.58,0:09:39.50,Dialogue,,0,0,0,,Vă cunoaște...
+Dialogue: 99,0:09:39.50,0:09:41.12,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:09:44.79,0:09:47.12,Dialogue,,0,0,0,,Îți plac pastele?
+Dialogue: 99,0:09:47.12,0:09:48.25,Dialogue,,0,0,0,,Mie?
+Dialogue: 99,0:09:48.25,0:09:50.16,Dialogue,,0,0,0,,Cu cine altcineva crezi că vorbesc?
+Dialogue: 99,0:09:50.16,0:09:53.75,Dialogue,,0,0,0,,Da. Probabil este felul meu de mâncare favorit.
+Dialogue: 99,0:09:53.75,0:09:56.62,Dialogue,,0,0,0,,Îmi plac cu servite cu un sos cremos ca acesta,
+Dialogue: 99,0:09:56.62,0:09:59.37,Dialogue,,0,0,0,,dar sunt bune și cu puțin piper.
+Dialogue: 99,0:09:59.37,0:10:02.08,Dialogue,,0,0,0,,Oh, chiar știi despre ce vorbești.
+Dialogue: 99,0:10:02.08,0:10:04.62,Dialogue,,0,0,0,,Este un mod simplu de a le servi, și totuși delicios.
+Dialogue: 99,0:10:04.62,0:10:09.08,Dialogue,,0,0,0,,Dar când este cald afară, pastele reci sunt o altă opțiune bună.
+Dialogue: 99,0:10:09.08,0:10:12.12,Dialogue,,0,0,0,,O, da! Pastele reci sunt grozave.
+Dialogue: 99,0:10:12.12,0:10:15.45,Dialogue,,0,0,0,,Îmi fac mereu când văd roșii cherry la magazin.
+Dialogue: 99,0:10:15.45,0:10:19.45,Dialogue,,0,0,0,,Știu! Pastele reci cu roșii sunt delicioase!
+Dialogue: 99,0:10:19.45,0:10:21.41,Dialogue,,0,0,0,,Le-aș putea mânca toată vara...
+Dialogue: 99,0:10:21.41,0:10:23.41,Dialogue,,0,0,0,,Domnișoară Alice.
+Dialogue: 99,0:10:23.41,0:10:25.95,Dialogue,,0,0,0,,Se pare că v-ați oprit din mâncat.
+Dialogue: 99,0:10:27.54,0:10:30.25,Dialogue,,0,0,0,,Îmi pare rău. Te-am întrerupt din mâncat.
+Dialogue: 99,0:10:30.25,0:10:32.33,Dialogue,,0,0,0,,Ș-Și mie.
+Dialogue: 99,0:10:34.58,0:10:37.54,Dialogue,,0,0,0,,Iar pastele ar trebui să fie gătite mereu în stil "al dente".
+Dialogue: 99,0:10:37.54,0:10:39.79,Dialogue,,0,0,0,,Ce amatori.
+Dialogue: 99,0:10:39.79,0:10:42.16,Dialogue,,0,0,0,,Cele în stil "ben cotta" sunt cele mai bune!
+Dialogue: 99,0:10:46.95,0:10:51.62,Dialogue,,0,0,0,,Vă rog să nu vorbiți cu nimeni despre cele întâmplate astăzi, domnișoară Alice.
+Dialogue: 99,0:10:51.62,0:10:55.33,Dialogue,,0,0,0,,În mod normal, ar trebui să raportez acest lucru Maiestății Sale.
+Dialogue: 99,0:10:55.33,0:10:59.54,Dialogue,,0,0,0,,Poate nu ne-am luptat, dar tot am dat peste un soldat inamic.
+Dialogue: 99,0:10:59.54,0:11:01.45,Dialogue,,0,0,0,,Știu asta.
+Dialogue: 99,0:11:03.45,0:11:07.08,Dialogue,,0,0,0,,Acel lucru aparține inamicului. Nu ai de ce să-l păstrezi.
+Dialogue: 99,0:11:07.08,0:11:08.33,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:11:08.33,0:11:10.50,Dialogue,,0,0,0,,Acel spadasin este un monstru.
+Dialogue: 99,0:11:10.50,0:11:16.25,Dialogue,,0,0,0,,S-ar putea ca el să devină marele tău obstacol într-o bună zi.
+Dialogue: 99,0:11:16.25,0:11:19.58,Dialogue,,0,0,0,,Dar, Rin, este și vina ta.
+Dialogue: 99,0:11:19.58,0:11:21.75,Dialogue,,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:11:21.75,0:11:26.83,Dialogue,,0,0,0,,Ai făcut acel comentariu despre cum pastele ar trebui să fie gătite în stil "al dente",
+Dialogue: 99,0:11:26.83,0:11:29.91,Dialogue,,0,0,0,,iar eu și cu Iska am format această alianță ciudată...
+Dialogue: 99,0:11:29.91,0:11:32.83,Dialogue,,0,0,0,,Doar am spus un adevăr.
+Dialogue: 99,0:11:32.83,0:11:34.66,Dialogue,,0,0,0,,Pastele în stil "al dente" reprezintă apogeul lor.
+Dialogue: 99,0:11:34.66,0:11:36.37,Dialogue,,0,0,0,,Nimeni nu ar trebui să poată nega asta.
+Dialogue: 99,0:11:36.37,0:11:37.79,Dialogue,,0,0,0,,Așa încăpățânată!
+Dialogue: 99,0:11:55.25,0:11:59.91,Dialogue,,0,0,0,,Doamne, de ce-mi este atât de greu să adorm?!
+Dialogue: 99,0:12:47.58,0:12:51.00,Dialogue,,0,0,0,,Apă... Am nevoie de apă!
+Dialogue: 99,0:12:51.00,0:12:55.91,Dialogue,,0,0,0,,Atunci, bea. Acest antrenament necesită ca noi să alergă întreaga distanță în timp ce ne hidratăm.
+Dialogue: 99,0:12:55.91,0:12:58.79,Dialogue,,0,0,0,,Deja mi-am băut-o pe a mea.
+Dialogue: 99,0:12:58.79,0:13:03.33,Dialogue,,0,0,0,,Jhin, lasă-mă să iau o gură din a ta!
+Dialogue: 99,0:13:03.33,0:13:04.83,Dialogue,,0,0,0,,Te vei balona.
+Dialogue: 99,0:13:04.83,0:13:07.41,Dialogue,,0,0,0,,Jhin, ești așa un rău!
+Dialogue: 99,0:13:07.41,0:13:08.91,Dialogue,,0,0,0,,Salutare!
+Dialogue: 99,0:13:11.20,0:13:14.16,Dialogue,,0,0,0,,O-Oh, tu erai, Risya.
+Dialogue: 99,0:13:14.16,0:13:18.54,Dialogue,,0,0,0,,Issy, Nens, Jhin-Jhin! Nu ne-am mai văzut de un an!
+Dialogue: 99,0:13:18.54,0:13:23.79,Dialogue,,0,0,0,,Risya, tu ești consilierul special al Special Defense for Humankind HQ, nu?
+Dialogue: 99,0:13:23.79,0:13:25.08,Dialogue,,0,0,0,,Asta e uimitor.
+Dialogue: 99,0:13:25.08,0:13:26.79,Dialogue,,0,0,0,,Nu este așa mare lucru.
+Dialogue: 99,0:13:26.79,0:13:30.62,Dialogue,,0,0,0,,Deci ce fel de probleme ne-ați adus astăzi?
+Dialogue: 99,0:13:30.62,0:13:36.66,Dialogue,,0,0,0,,Well, Mismis' unit will be under\Nmy command for this next mission.
+Dialogue: 99,0:13:36.66,0:13:38.16,Dialogue,,0,0,0,,Aww...
+Dialogue: 99,0:13:38.16,0:13:40.00,Dialogue,,0,0,0,,Ce? Nu-ți place?
+Dialogue: 99,0:13:40.00,0:13:43.79,Dialogue,,0,0,0,,Doar că... tu ești prea deșteaptă, Risya.
+Dialogue: 99,0:13:43.79,0:13:46.95,Dialogue,,0,0,0,,Nu sunt sigură dacă-ți voi înțelege toate strategiile...
+Dialogue: 99,0:13:46.95,0:13:48.66,Dialogue,,0,0,0,,Va fi bine.
+Dialogue: 99,0:13:48.66,0:13:51.54,Dialogue,,0,0,0,,I reviewed your reports\Nof the engagement in Nelka.
+Dialogue: 99,0:13:51.54,0:13:56.16,Dialogue,,0,0,0,,I could tell everyone's intuitions\Nare still sharp.
+Dialogue: 99,0:13:56.16,0:14:01.08,Dialogue,,0,0,0,,Though, I heard you're\Nhaving trouble sleeping, Issy?
+Dialogue: 99,0:14:01.08,0:14:03.00,Dialogue,,0,0,0,,Just a little.
+Dialogue: 99,0:14:03.00,0:14:05.54,Dialogue,,0,0,0,,Were you not able to enjoy the opera?
+Dialogue: 99,0:14:05.54,0:14:09.08,Dialogue,,0,0,0,,Oh no, it was great. Thank you very much.
+Dialogue: 99,0:14:09.08,0:14:11.75,Dialogue,,0,0,0,,Tragic love stories like that\Nare good from time to time!
+Dialogue: 99,0:14:11.75,0:14:14.29,Dialogue,,0,0,0,,Even though Risya says it's boring...
+Dialogue: 99,0:14:14.29,0:14:19.00,Dialogue,,0,0,0,,I'm the type of person who\Ndoesn't understand art and stuff.
+Dialogue: 99,0:14:19.00,0:14:22.83,Dialogue,,0,0,0,,Speaking of... Issy, you want this?
+Dialogue: 99,0:14:24.25,0:14:26.62,Dialogue,,0,0,0,,Salil Viblanc's art exhibition?
+Dialogue: 99,0:14:26.62,0:14:31.37,Dialogue,,0,0,0,,I won this from a subordinate in a game,\Nbut I don't care for these things.
+Dialogue: 99,0:14:31.37,0:14:33.54,Dialogue,,0,0,0,,So take it, Issy.
+Dialogue: 99,0:14:34.95,0:14:37.04,Dialogue,,0,0,0,,Ein, huh?
+Dialogue: 99,0:14:44.16,0:14:47.37,Dialogue,,0,0,0,,I apologize for being late, Mother.
+Dialogue: 99,0:14:47.37,0:14:53.75,Dialogue,,0,0,0,,Alice, the other day, you mentioned\Nyou fought against an Imperial swordsman.
+Dialogue: 99,0:14:53.75,0:14:56.75,Dialogue,,0,0,0,,That he was as strong as the Saint Disciples.
+Dialogue: 99,0:14:56.75,0:14:57.95,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:14:57.95,0:15:03.54,Dialogue,,0,0,0,,The Saint Disciples protect the Emperor\Nand are the strongest in the Empire.
+Dialogue: 99,0:15:03.54,0:15:06.50,Dialogue,,0,0,0,,And you are saying he is on par with them.
+Dialogue: 99,0:15:06.50,0:15:10.20,Dialogue,,0,0,0,,Mother? Is something wrong?
+Dialogue: 99,0:15:10.20,0:15:11.83,Dialogue,,0,0,0,,Look above.
+Dialogue: 99,0:15:13.08,0:15:14.45,Dialogue,,0,0,0,,One hundred years ago,
+Dialogue: 99,0:15:14.45,0:15:20.12,Dialogue,,0,0,0,,the Founder fought against tens of\Nthousands of Imperial Army soldiers.
+Dialogue: 99,0:15:20.12,0:15:22.58,Dialogue,,0,0,0,,She still lives.
+Dialogue: 99,0:15:23.50,0:15:26.66,Dialogue,,0,0,0,,The Founder had a younger twin sister.
+Dialogue: 99,0:15:26.66,0:15:29.45,Dialogue,,0,0,0,,She was none other than Nebulis I.
+Dialogue: 99,0:15:29.45,0:15:34.41,Dialogue,,0,0,0,,The royal bloodline starts with her.\NShe is our ancestor.
+Dialogue: 99,0:15:35.45,0:15:39.62,Dialogue,,0,0,0,,Of course, the Empire never knew\Nthat the "Grand Witch,"
+Dialogue: 99,0:15:39.62,0:15:42.41,Dialogue,,0,0,0,,as they fearfully called her, had a sister.
+Dialogue: 99,0:15:42.41,0:15:49.62,Dialogue,,0,0,0,,Hence, they rejoiced over the "Grand Witch's"\Ndeath when Nebulis I passed away.
+Dialogue: 99,0:15:51.83,0:15:55.83,Dialogue,,0,0,0,,The bind on the Founder is weakening.
+Dialogue: 99,0:15:55.83,0:15:58.50,Dialogue,,0,0,0,,We saw this change in the Founder when,
+Dialogue: 99,0:15:58.50,0:16:05.54,Dialogue,,0,0,0,,Alice, you fought against the swordsman\Nof the Empire in the Nelka forest.
+Dialogue: 99,0:16:05.54,0:16:07.41,Dialogue,,0,0,0,,What does that mean?
+Dialogue: 99,0:16:07.41,0:16:11.83,Dialogue,,0,0,0,,Astral power reacts when its host is in danger.
+Dialogue: 99,0:16:11.83,0:16:15.20,Dialogue,,0,0,0,,Long ago, when the Imperial Army\Nreached the Sovereignty,
+Dialogue: 99,0:16:15.20,0:16:19.95,Dialogue,,0,0,0,,there were many recordings of\Nastral powers reacting at once.
+Dialogue: 99,0:16:19.95,0:16:22.70,Dialogue,,0,0,0,,The same is true for the Founder's astral power.
+Dialogue: 99,0:16:23.70,0:16:26.25,Dialogue,,0,0,0,,Like a sign of her awakening.
+Dialogue: 99,0:16:26.25,0:16:29.33,Dialogue,,0,0,0,,Alice, does anything come to mind?
+Dialogue: 99,0:16:31.41,0:16:32.66,Dialogue,,0,0,0,,Awaken.
+Dialogue: 99,0:16:36.70,0:16:41.08,Dialogue,,0,0,0,,Many mysteries remain in regard\Nto the Founder's astral power.
+Dialogue: 99,0:16:41.08,0:16:44.45,Dialogue,,0,0,0,,I will have the Astral Institution\Nquickly look into this, but...
+Dialogue: 99,0:16:44.45,0:16:48.87,Dialogue,,0,0,0,,Alice, you shall refrain\Nfrom going to the battlefield.
+Dialogue: 99,0:16:48.87,0:16:51.29,Dialogue,,0,0,0,,At least until we know who\Nthis Imperial swordsman is.
+Dialogue: 99,0:16:51.29,0:16:52.12,Dialogue,,0,0,0,,Understood.
+Dialogue: 99,0:16:57.83,0:17:01.16,Dialogue,,0,0,0,,Lady Alice, is something the matter?
+Dialogue: 99,0:17:01.16,0:17:03.00,Dialogue,,0,0,0,,N-No.
+Dialogue: 99,0:17:03.00,0:17:06.45,Dialogue,,0,0,0,,I'll try to not overthink things.
+Dialogue: 99,0:17:06.45,0:17:10.66,Dialogue,,0,0,0,,I've been having trouble sleeping,\Nso I need a change in scenery.
+Dialogue: 99,0:17:10.66,0:17:13.83,Dialogue,,0,0,0,,Not the Neutral city again?
+Dialogue: 99,0:17:13.83,0:17:15.95,Dialogue,,0,0,0,,If something like the other day happens again...
+Dialogue: 99,0:17:15.95,0:17:20.29,Dialogue,,0,0,0,,That was just a coincidence.\NTo be safe, I won't go to the opera this time.
+Dialogue: 99,0:17:20.29,0:17:23.79,Dialogue,,0,0,0,,This time, I should actually enjoy my break.
+Dialogue: 99,0:17:23.79,0:17:25.87,Dialogue,,0,0,0,,Then where to?
+Dialogue: 99,0:17:26.83,0:17:29.04,Dialogue,,0,0,0,,Oh my god.
+Dialogue: 99,0:17:29.04,0:17:31.83,Dialogue,,0,0,0,,Why are you here again?!
+Dialogue: 99,0:17:31.83,0:17:34.41,Dialogue,,0,0,0,,Alice? Why are you here?
+Dialogue: 99,0:17:34.41,0:17:37.16,Dialogue,,0,0,0,,Even the art exhibit we're going to is the same?
+Dialogue: 99,0:17:37.16,0:17:41.66,Dialogue,,0,0,0,,Why would an Imperial soldier\Ncome to Neutral city this often?
+Dialogue: 99,0:17:41.66,0:17:44.54,Dialogue,,0,0,0,,Whatever happened to your duty\Nto protect the Empire?!
+Dialogue: 99,0:17:44.54,0:17:48.58,Dialogue,,0,0,0,,Let me just point out that Viblanc is\Nan impressionist artist of the Empire,
+Dialogue: 99,0:17:48.58,0:17:50.95,Dialogue,,0,0,0,,and that it isn't weird for me\Nto come see his art.
+Dialogue: 99,0:17:50.95,0:17:53.79,Dialogue,,0,0,0,,But should {\i1}you {\i0}be enjoying the art\Nof an Imperial artist?
+Dialogue: 99,0:17:53.79,0:17:56.45,Dialogue,,0,0,0,,Art has no borders.
+Dialogue: 99,0:17:56.45,0:17:58.75,Dialogue,,0,0,0,,That's true.
+Dialogue: 99,0:17:58.75,0:18:02.41,Dialogue,,0,0,0,,I think the art museum is this way.\NShould we go?
+Dialogue: 99,0:18:02.41,0:18:04.20,Dialogue,,0,0,0,,All right.
+Dialogue: 99,0:18:04.20,0:18:05.54,Dialogue,,0,0,0,,Wait, no!
+Dialogue: 99,0:18:05.54,0:18:08.87,Dialogue,,0,0,0,,I'll go this way.
+Dialogue: 99,0:18:08.87,0:18:10.75,Dialogue,,0,0,0,,Hey, wait, Alice.
+Dialogue: 99,0:18:19.45,0:18:20.91,Dialogue,,0,0,0,,Ugh, jeez...
+Dialogue: 99,0:18:20.91,0:18:23.20,Dialogue,,0,0,0,,Just because it's the city of art
+Dialogue: 99,0:18:23.20,0:18:26.70,Dialogue,,0,0,0,,doesn't mean they just have\Nto clean up the main streets.
+Dialogue: 99,0:18:29.91,0:18:32.91,Dialogue,,0,0,0,,Rin... Help me...
+Dialogue: 99,0:18:32.91,0:18:34.75,Dialogue,,0,0,0,,I think I'm lost...
+Dialogue: 99,0:18:48.54,0:18:49.62,Dialogue,,0,0,0,,Alice?
+Dialogue: 99,0:18:50.75,0:18:54.70,Dialogue,,0,0,0,,Why are you here?! You're supposed\Nto be at the art museum!
+Dialogue: 99,0:18:54.70,0:18:56.58,Dialogue,,0,0,0,,I already saw most of it.
+Dialogue: 99,0:18:56.58,0:19:01.70,Dialogue,,0,0,0,,But I didn't see you around,\Nso I thought maybe you got lost.
+Dialogue: 99,0:19:02.70,0:19:03.75,Dialogue,,0,0,0,,I can take you.
+Dialogue: 99,0:19:03.75,0:19:05.41,Dialogue,,0,0,0,,W-We can't!
+Dialogue: 99,0:19:05.41,0:19:07.70,Dialogue,,0,0,0,,I'm the princess of the Nebulis Sovereignty,
+Dialogue: 99,0:19:07.70,0:19:10.20,Dialogue,,0,0,0,,and you're a swordsman of the Empire!
+Dialogue: 99,0:19:10.20,0:19:12.62,Dialogue,,0,0,0,,So you're a princess?
+Dialogue: 99,0:19:12.62,0:19:14.62,Dialogue,,0,0,0,,Well, I figured you might be.
+Dialogue: 99,0:19:16.45,0:19:19.66,Dialogue,,0,0,0,,There's no reason to hide it from you now.
+Dialogue: 99,0:19:19.66,0:19:22.29,Dialogue,,0,0,0,,Anyway, my point is we're enemies.
+Dialogue: 99,0:19:22.29,0:19:25.70,Dialogue,,0,0,0,,Of course it's inappropriate\Nto go to the art museum together.
+Dialogue: 99,0:19:25.70,0:19:28.70,Dialogue,,0,0,0,,We're enemies, but art has no borders.
+Dialogue: 99,0:19:28.70,0:19:30.79,Dialogue,,0,0,0,,Those were your words, Alice.
+Dialogue: 99,0:19:40.50,0:19:43.04,Dialogue,,0,0,0,,I wanted to see this piece.
+Dialogue: 99,0:19:48.16,0:19:49.33,Dialogue,,0,0,0,,Iska.
+Dialogue: 99,0:19:49.33,0:19:50.58,Dialogue,,0,0,0,,Yeah?
+Dialogue: 99,0:19:50.58,0:19:54.45,Dialogue,,0,0,0,,Why do you like this artist?
+Dialogue: 99,0:19:54.45,0:19:58.29,Dialogue,,0,0,0,,The paint right here is a little raised.
+Dialogue: 99,0:19:58.29,0:20:00.87,Dialogue,,0,0,0,,This is just my imagination,
+Dialogue: 99,0:20:00.87,0:20:05.70,Dialogue,,0,0,0,,but I think he paused when he tried\Nto add paint with a painting knife.
+Dialogue: 99,0:20:05.70,0:20:09.95,Dialogue,,0,0,0,,And here, he repainted it with\Na completely different shade.
+Dialogue: 99,0:20:09.95,0:20:14.58,Dialogue,,0,0,0,,It makes me wonder if the image in his head\Nchanges while he's painting.
+Dialogue: 99,0:20:14.58,0:20:18.75,Dialogue,,0,0,0,,Needing to paint in stronger colors,\Nwith more passion...
+Dialogue: 99,0:20:18.75,0:20:25.00,Dialogue,,0,0,0,,This artist, Viblanc, only paints landscapes.\NCities, streets, boating docks...
+Dialogue: 99,0:20:25.00,0:20:27.91,Dialogue,,0,0,0,,And he never draws people in them.
+Dialogue: 99,0:20:27.91,0:20:32.04,Dialogue,,0,0,0,,The subject he draws is inorganic\Nand his colors are dark, but...
+Dialogue: 99,0:20:32.04,0:20:34.20,Dialogue,,0,0,0,,He's very passionate?
+Dialogue: 99,0:20:34.20,0:20:38.20,Dialogue,,0,0,0,,Right. I can see his personality\Nthrough his art,
+Dialogue: 99,0:20:38.20,0:20:40.58,Dialogue,,0,0,0,,and I think that's what I like about it.
+Dialogue: 99,0:20:40.58,0:20:43.41,Dialogue,,0,0,0,,I get it. I feel the same--
+Dialogue: 99,0:20:47.37,0:20:50.04,Dialogue,,0,0,0,,Here, for showing me the way.
+Dialogue: 99,0:20:50.04,0:20:52.20,Dialogue,,0,0,0,,You don't need to do that.
+Dialogue: 99,0:20:52.20,0:20:55.87,Dialogue,,0,0,0,,I don't want to owe you. Especially you.
+Dialogue: 99,0:20:55.87,0:20:58.54,Dialogue,,0,0,0,,It wasn't a big deal.
+Dialogue: 99,0:20:58.54,0:21:01.12,Dialogue,,0,0,0,,I have my own money...
+Dialogue: 99,0:21:01.12,0:21:02.45,Dialogue,,0,0,0,,What is it?
+Dialogue: 99,0:21:02.45,0:21:05.20,Dialogue,,0,0,0,,Maybe I don't have enough money.
+Dialogue: 99,0:21:05.20,0:21:07.91,Dialogue,,0,0,0,,Ești așa de prostuț.
+Dialogue: 99,0:21:07.91,0:21:10.20,Dialogue,,0,0,0,,I'm saying you can have it.
+Dialogue: 99,0:21:10.20,0:21:12.75,Dialogue,,0,0,0,,Don't worry about it.
+Dialogue: 99,0:21:12.75,0:21:15.16,Dialogue,,0,0,0,,So, how old are you anyway?
+Dialogue: 99,0:21:15.16,0:21:16.83,Dialogue,,0,0,0,,I'm 16.
+Dialogue: 99,0:21:16.83,0:21:19.79,Dialogue,,0,0,0,,Atunci, sunt mai mare ca tine.
+Dialogue: 99,0:21:27.04,0:21:29.04,Dialogue,,0,0,0,,What was I--?
+Dialogue: 99,0:21:46.08,0:21:49.25,Dialogue,,0,0,0,,Suntem inamici, știi?
+Dialogue: 99,0:21:49.25,0:21:55.29,Dialogue,,0,0,0,,If I... If I wanted to,\Nin your current state, I could...
+Dialogue: 99,0:23:34.16,0:23:38.58,Dialogue,,0,0,0,,That is all for today's deliberation.
+Dialogue: 99,0:23:38.58,0:23:43.83,Dialogue,,0,0,0,,We will reinstate the Successor of the\NBlack Steel, Iska, back to Saint Disciple
+Dialogue: 99,0:23:43.83,0:23:49.25,Dialogue,,0,0,0,,under the condition that he captures\Nthe Ice Calamity Witch.
 Dialogue: 0,0:00:45.23,0:00:48.61,Our Last TS,,0,0,0,,{\fad(550,0)\an1\pos(210,275)\fnHeuristica\fs120\c&H000000&\blur0.6}Ultima noastră cruciadă
 Dialogue: 1,0:00:45.23,0:00:48.61,Our Last TS,,0,0,0,,{\fad(550,0)\an1\pos(210,275)\fnHeuristica\fs120\c&H7F01E3&\blur0.6\clip(m 152 184 l 379 236 380 88 153 102)}Ultima noastră cruciadă
 Dialogue: 1,0:00:45.23,0:00:48.61,Our Last TS,,0,0,0,,{\fad(550,0)\an1\pos(210,275)\fnHeuristica\fs120\c&HE8A001&\blur0.6\clip(m 694 249 l 900 207 900 305)}Ultima noastră cruciadă

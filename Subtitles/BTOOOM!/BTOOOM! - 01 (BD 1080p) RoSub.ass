@@ -30,312 +30,312 @@ Style: OP TL,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:14.71,0:00:16.39,Dialogue,,0,0,0,,Bun, acesta a fost al treilea asasinat.
-Dialogue: 100,0:00:16.78,0:00:17.57,Dialogue,,0,0,0,,Fă o scanare cu sonarul!
-Dialogue: 100,0:00:17.97,0:00:18.77,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:00:21.84,0:00:23.23,Dialogue,,0,0,0,,Te-am prins!
-Dialogue: 100,0:00:25.63,0:00:27.99,Dialogue,,0,0,0,,Idiotule, ăia erau doar niște civili!
-Dialogue: 100,0:00:31.71,0:00:33.12,Dialogue,,0,0,0,,Nu mai face asta.
-Dialogue: 100,0:00:33.20,0:00:34.27,Dialogue,,0,0,0,,Câți ai ucis până acum?
-Dialogue: 100,0:00:34.36,0:00:36.92,Dialogue,,0,0,0,,Fir-ar. Nu ar fi trebuit să stea acolo.
-Dialogue: 100,0:00:39.86,0:00:40.83,Dialogue,,0,0,0,,Nu vei scăpa!
-Dialogue: 100,0:00:42.01,0:00:43.53,Dialogue,,0,0,0,,{\fad(0,791)}Nu mai fugi...
-Dialogue: 100,0:00:46.28,0:00:47.49,Dialogue,,0,0,0,,Hei, unde s-a dus?
-Dialogue: 100,0:00:51.60,0:00:52.54,Dialogue,,0,0,0,,Oare să folosim din nou sonarul?
-Dialogue: 100,0:00:53.89,0:00:55.88,Dialogue,,0,0,0,,Nu, probabil se ascunde deja.
-Dialogue: 100,0:00:58.60,0:00:59.56,Dialogue,,0,0,0,,Fir-ar să fie.
-Dialogue: 100,0:01:03.27,0:01:05.52,Dialogue,,0,0,0,,Băieți, sunteți varză.
-Dialogue: 100,0:01:06.53,0:01:07.08,Dialogue,,0,0,0,,Priviți-mă.
-Dialogue: 100,0:01:31.75,0:01:32.74,Dialogue,,0,0,0,,Uimitor!
-Dialogue: 100,0:01:32.97,0:01:34.00,Dialogue,,0,0,0,,A făcut să pară atât de ușor!
-Dialogue: 100,0:01:36.10,0:01:37.45,Dialogue,,0,0,0,,Doar mori, fraiere.
-Dialogue: 100,0:01:49.21,0:01:51.97,Dialogue,,0,0,0,,Chiar nu pot pierde aici.
-Dialogue: 100,0:03:25.56,0:03:26.71,Dialogue,,0,0,0,,Pe bune?
-Dialogue: 100,0:03:26.75,0:03:28.28,Dialogue,,0,0,0,,Asta este a douazecea victorie la rând!
-Dialogue: 100,0:03:28.68,0:03:30.35,Dialogue,,0,0,0,,A fost floare la ureche, nu-i așa, Sakamoto?
-Dialogue: 100,0:03:30.98,0:03:31.98,Dialogue,,0,0,0,,Uite cine vorbește.
-Dialogue: 100,0:03:32.43,0:03:34.03,Dialogue,,0,0,0,,Eu am făcut aproape toată treabă.
-Dialogue: 100,0:03:36.00,0:03:38.12,Dialogue,,0,0,0,,Uau, ai patru stele acum!
-Dialogue: 100,0:03:39.33,0:03:41.76,Dialogue,,0,0,0,,Ești numărul zece în lume...
-Dialogue: 100,0:03:42.33,0:03:45.47,Dialogue,,0,0,0,,Niciun jucător de {\i1}BTOOOM!{\i0} din \NJaponia nu se poate compara cu noi.
-Dialogue: 100,0:03:46.49,0:03:50.19,Dialogue,,0,0,0,,Va trebui să începem să jucăm cu adversari mai puternici din afara Japoniei sau nu voi mai urca în clasament.
-Dialogue: 100,0:03:50.72,0:03:51.69,Dialogue,,0,0,0,,Un adversar nou!
-Dialogue: 100,0:03:53.12,0:03:54.97,Dialogue,,0,0,0,,Se pare că cineva te-a auzit.
-Dialogue: 100,0:03:56.42,0:03:58.71,Dialogue,,0,0,0,,Spune că este numărul doi mondial!
-Dialogue: 100,0:03:58.89,0:03:59.40,Dialogue,,0,0,0,,Ce facem?
-Dialogue: 100,0:04:00.42,0:04:01.87,Dialogue,,0,0,0,,Evident că vom accepta.
-Dialogue: 100,0:04:02.88,0:04:04.14,Dialogue,,0,0,0,,Să începem!
-Dialogue: 100,0:04:04.23,0:04:06.76,Dialogue,,0,0,0,,Să urcăm pe primul loc!
-Dialogue: 100,0:04:08.62,0:04:09.31,Dialogue,,0,0,0,,{\i1}BTOOOM!
-Dialogue: 100,0:04:09.96,0:04:13.01,Dialogue,,0,0,0,,{\i1}Acest joc s-a vândut în peste trei \Nmilioane de exemplare în întreaga lume.
-Dialogue: 100,0:04:13.56,0:04:14.75,Dialogue,,0,0,0,,{\i1}Și nu se joacă cu arme.
-Dialogue: 100,0:04:15.84,0:04:16.82,Dialogue,,0,0,0,,{\i1}Ci numai cu bombe.
-Dialogue: 100,0:04:19.71,0:04:22.80,Dialogue,,0,0,0,,{\i1}Există opt tipuri de bombe sau BIM-uri, \Npe care le poți folosi în funcție de situație,
-Dialogue: 100,0:04:23.84,0:04:27.71,Dialogue,,0,0,0,,{\i1}și un sonar pentru localizarea \Ninamicilor în timp ce stai ascuns.
-Dialogue: 100,0:04:29.17,0:04:32.09,Dialogue,,0,0,0,,{\i1}Așa se câștigă în acest joc.
-Dialogue: 100,0:04:32.92,0:04:33.95,Dialogue,,0,0,0,,BTOOOM!
-Dialogue: 100,0:04:34.16,0:04:35.65,Dialogue,,0,0,0,,Ești uimitor, Sakamoto...
-Dialogue: 100,0:04:35.87,0:04:38.41,Dialogue,,0,0,0,,Le ținem piept celor de pe locul 2!
-Dialogue: 100,0:04:38.97,0:04:39.85,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:04:40.52,0:04:42.57,Dialogue,,0,0,0,,Vom deveni numărul unu mondial.
-Dialogue: 100,0:04:46.32,0:04:48.00,Dialogue,,0,0,0,,{\i1}Am douăzeci și doi de ani și încă nu lucrez.
-Dialogue: 100,0:04:48.65,0:04:50.80,Dialogue,,0,0,0,,{\i1}Îmi petrec întreaga zi făcând nimic.
-Dialogue: 100,0:04:52.59,0:04:56.04,Dialogue,,0,0,0,,{\i1}Dar în lumea {\i0}BTOOOM!{\i1},
-Dialogue: 100,0:04:57.29,0:04:58.30,Dialogue,,0,0,0,,{\i1}sunt mai puternic ca toți,
-Dialogue: 100,0:04:59.09,0:05:00.33,Dialogue,,0,0,0,,{\i1}mai respectat ca toți
-Dialogue: 100,0:05:00.87,0:05:03.12,Dialogue,,0,0,0,,{\i1}și mai grozav ca toți.
-Dialogue: 100,0:05:05.08,0:05:06.16,Dialogue,,0,0,0,,{\i1}M-am și căsătorit.
-Dialogue: 100,0:05:07.60,0:05:10.57,Dialogue,,0,0,0,,{\i1}Desigur, doar în lumea jocului,
-Dialogue: 100,0:05:12.05,0:05:13.32,Dialogue,,0,0,0,,{\i1}dar eram mulțumit.
-Dialogue: 100,0:05:14.39,0:05:16.08,Dialogue,,0,0,0,,{\i1}Aici, în acest loc minunat.
-Dialogue: 100,0:05:18.29,0:05:19.76,Dialogue,,0,0,0,,{\i1}Nu mi-am dat seama că \Ndoar fugeam de realitate.
-Dialogue: 100,0:05:25.97,0:05:27.66,Dialogue,,0,0,0,,{\i1}Unde sunt?
-Dialogue: 100,0:05:35.86,0:05:36.87,Dialogue,,0,0,0,,{\i1}Mă doare tot corpul...
-Dialogue: 100,0:05:37.53,0:05:38.24,Dialogue,,0,0,0,,{\i1}De ce?
-Dialogue: 100,0:05:41.32,0:05:42.17,Dialogue,,0,0,0,,O parașută?
-Dialogue: 100,0:05:42.63,0:05:43.10,Dialogue,,0,0,0,,De ce?
-Dialogue: 100,0:05:44.70,0:05:46.04,Dialogue,,0,0,0,,Fir-ar, nu mă pot da jos.
-Dialogue: 100,0:05:47.82,0:05:48.54,Dialogue,,0,0,0,,Este...
-Dialogue: 100,0:05:49.06,0:05:50.25,Dialogue,,0,0,0,,Este cineva pe aici?
-Dialogue: 100,0:06:00.08,0:06:01.32,Dialogue,,0,0,0,,Ce naiba este asta?
-Dialogue: 100,0:06:04.79,0:06:07.10,Dialogue,,0,0,0,,Auci...
-Dialogue: 100,0:06:09.53,0:06:10.72,Dialogue,,0,0,0,,{\i1}Ce naiba este locul ăsta?
-Dialogue: 100,0:06:12.30,0:06:13.03,Dialogue,,0,0,0,,{\i1}Nu am nicio idee.
-Dialogue: 100,0:06:13.89,0:06:15.55,Dialogue,,0,0,0,,{\i1}Ce naiba caut aici?
-Dialogue: 100,0:06:17.03,0:06:18.76,Dialogue,,0,0,0,,{\i1}De ce nu-mi pot aminti nimic?
-Dialogue: 100,0:06:20.85,0:06:23.50,Dialogue,,0,0,0,,{\i1}Cred că mă jucam \N{\i0}BTOOOM!{\i1} în camera mea...
-Dialogue: 100,0:06:24.07,0:06:24.92,Dialogue,,0,0,0,,{\i1}Și apoi...
-Dialogue: 100,0:06:30.81,0:06:31.72,Dialogue,,0,0,0,,{\i1}Sânge?
-Dialogue: 100,0:06:33.04,0:06:36.20,Dialogue,,0,0,0,,{\i1}Ce naiba s-a întâmplat de nu-mi pot aminti?!
-Dialogue: 100,0:06:42.08,0:06:42.57,Dialogue,,0,0,0,,Telefonul meu...
-Dialogue: 100,0:06:45.15,0:06:46.17,Dialogue,,0,0,0,,Fără semnal?
-Dialogue: 100,0:06:47.28,0:06:47.86,Dialogue,,0,0,0,,La naiba.
-Dialogue: 100,0:06:51.31,0:06:51.70,Dialogue,,0,0,0,,Ce—
-Dialogue: 100,0:06:52.75,0:06:53.50,Dialogue,,0,0,0,,Ce naiba e asta?
-Dialogue: 100,0:06:54.35,0:06:55.30,Dialogue,,0,0,0,,S-Sticlă?
-Dialogue: 100,0:06:56.83,0:06:58.16,Dialogue,,0,0,0,,Îmi este integrată în piele?
-Dialogue: 100,0:07:00.69,0:07:03.64,Dialogue,,0,0,0,,{\i1}O pot simți, dar nu mă doare sau ceva.
-Dialogue: 100,0:07:04.57,0:07:08.33,Dialogue,,0,0,0,,{\i1}Nu-mi spune că am fost \Nrăpit de un OZN sau ceva...
-Dialogue: 100,0:07:21.75,0:07:22.64,Dialogue,,0,0,0,,Geanta mea!
-Dialogue: 100,0:07:24.51,0:07:25.44,Dialogue,,0,0,0,,Portofelul e aici.
-Dialogue: 100,0:07:25.96,0:07:27.17,Dialogue,,0,0,0,,Și haine de schimb...
-Dialogue: 100,0:07:27.32,0:07:28.30,Dialogue,,0,0,0,,Deci mergeam să-mi petrec noaptea undeva?
-Dialogue: 100,0:07:30.14,0:07:30.84,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:07:35.16,0:07:36.14,Dialogue,,0,0,0,,O pungă de la magazin.
-Dialogue: 100,0:07:37.04,0:07:37.69,Dialogue,,0,0,0,,O cutie pentru prânz și...
-Dialogue: 100,0:07:38.88,0:07:40.03,Dialogue,,0,0,0,,Perfect!
-Dialogue: 100,0:07:49.58,0:07:52.67,Dialogue,,0,0,0,,Pentru început, cred că ar trebui să aflu unde sunt.
-Dialogue: 100,0:07:59.66,0:08:00.70,Dialogue,,0,0,0,,Este foarte cald!
-Dialogue: 100,0:08:02.99,0:08:05.28,Dialogue,,0,0,0,,{\i1}Seems like I'm pretty far south...
-Dialogue: 100,0:08:08.78,0:08:10.07,Dialogue,,0,0,0,,{\i1}Aș face bine să păstrez și pentru mai târziu.
-Dialogue: 100,0:08:16.68,0:08:18.20,Dialogue,,0,0,0,,Gândacul ăla nu era cam mare?
-Dialogue: 100,0:08:20.54,0:08:22.59,Dialogue,,0,0,0,,Chiar este asta o pădure tropicală?
-Dialogue: 100,0:08:26.21,0:08:27.34,Dialogue,,0,0,0,,{\i1}I'm dead meat...
-Dialogue: 100,0:08:39.75,0:08:40.97,Dialogue,,0,0,0,,{\i1}M-ai lasă-mă.
-Dialogue: 100,0:08:41.93,0:08:43.69,Dialogue,,0,0,0,,{\i1}Ce am făcut ca să merit asta?
-Dialogue: 100,0:08:44.50,0:08:45.20,Dialogue,,0,0,0,,{\i1}What...
-Dialogue: 100,0:08:51.83,0:08:53.26,Dialogue,,0,0,0,,A-Auci...
-Dialogue: 100,0:09:01.93,0:09:02.93,Dialogue,,0,0,0,,Unde naiba...
-Dialogue: 100,0:09:03.46,0:09:05.52,Dialogue,,0,0,0,,Unde naiba sunt?!
-Dialogue: 100,0:09:09.99,0:09:11.19,Dialogue,,0,0,0,,{\i1}Mom!
-Dialogue: 100,0:09:12.43,0:09:16.95,Dialogue,,0,0,0,,{\i1}You wrote me a resume and sent it \Nto the grocery store, didn't you?
-Dialogue: 100,0:09:17.39,0:09:19.95,Dialogue,,0,0,0,,{\i1}I won't work there...
-Dialogue: 100,0:09:22.73,0:09:24.89,Dialogue,,0,0,0,,{\i1}There's a job I already want.
-Dialogue: 100,0:09:24.89,0:09:26.56,Dialogue,,0,0,0,,{\i1}Stay out of my business!
-Dialogue: 100,0:09:35.36,0:09:37.21,Dialogue,,0,0,0,,{\i1}Maybe I'll go to Satoru's.
-Dialogue: 100,0:09:37.77,0:09:38.85,Dialogue,,0,0,0,,{\i1}You, there...
-Dialogue: 100,0:09:40.02,0:09:42.85,Dialogue,,0,0,0,,{\i1}You're Sakamoto Ryouta-san, correct?
-Dialogue: 100,0:09:50.95,0:09:53.59,Dialogue,,0,0,0,,{\i1}It's starting to come back to me.
-Dialogue: 100,0:09:54.58,0:09:57.61,Dialogue,,0,0,0,,{\i1}Someone stopped me as I was leaving.
-Dialogue: 100,0:10:00.22,0:10:03.49,Dialogue,,0,0,0,,{\i1}Forcing myself to remember \Njust makes my head hurt.
-Dialogue: 100,0:10:12.08,0:10:14.80,Dialogue,,0,0,0,,{\i1}Good thing I bought a lunch.
-Dialogue: 100,0:10:15.53,0:10:18.51,Dialogue,,0,0,0,,{\i1}But what will I do tomorrow?
-Dialogue: 100,0:10:19.98,0:10:22.35,Dialogue,,0,0,0,,{\i1}I don't recognize this pouch...
-Dialogue: 100,0:10:22.99,0:10:24.52,Dialogue,,0,0,0,,{\i1}It probably isn't mine.
-Dialogue: 100,0:10:26.98,0:10:28.80,Dialogue,,0,0,0,,{\i1}Did someone put it in my bag?
-Dialogue: 100,0:10:31.39,0:10:33.40,Dialogue,,0,0,0,,What is this?
-Dialogue: 100,0:10:37.43,0:10:39.19,Dialogue,,0,0,0,,Oops, I pressed something...
-Dialogue: 100,0:10:43.42,0:10:45.54,Dialogue,,0,0,0,,{\i1}I have a bad feeling.
-Dialogue: 100,0:10:51.28,0:10:52.29,Dialogue,,0,0,0,,No way—
-Dialogue: 100,0:11:00.51,0:11:01.51,Dialogue,,0,0,0,,What?
-Dialogue: 100,0:11:02.49,0:11:04.48,Dialogue,,0,0,0,,What the hell was that?
-Dialogue: 100,0:11:07.51,0:11:09.94,Dialogue,,0,0,0,,{\i1}Are all of these bombs?
-Dialogue: 100,0:11:10.77,0:11:13.48,Dialogue,,0,0,0,,{\i1}What are they doing in my bag?
-Dialogue: 100,0:11:17.52,0:11:18.56,Dialogue,,0,0,0,,I...
-Dialogue: 100,0:11:18.56,0:11:20.75,Dialogue,,0,0,0,,I don't want anything to do with them!
-Dialogue: 100,0:11:26.55,0:11:27.92,Dialogue,,0,0,0,,{\i1}Someone's over there.
-Dialogue: 100,0:11:29.48,0:11:31.42,Dialogue,,0,0,0,,Excuse me!
-Dialogue: 100,0:11:32.11,0:11:33.89,Dialogue,,0,0,0,,Could you help me?
-Dialogue: 100,0:11:43.66,0:11:44.73,Dialogue,,0,0,0,,{\i1}What?
-Dialogue: 100,0:11:52.73,0:11:53.98,Dialogue,,0,0,0,,What's his problem?
-Dialogue: 100,0:11:55.81,0:11:57.02,Dialogue,,0,0,0,,{\i1}This is just like
-Dialogue: 100,0:11:58.19,0:11:58.82,Dialogue,,0,0,0,,{\i1}the game!
-Dialogue: 100,0:12:00.31,0:12:01.53,Dialogue,,0,0,0,,{\i1}No way.
-Dialogue: 100,0:12:02.50,0:12:03.61,Dialogue,,0,0,0,,{\i1}No way!
-Dialogue: 100,0:12:05.74,0:12:08.30,Dialogue,,0,0,0,,{\i1}I'm supposed to play BTOOOM! for real now?
-Dialogue: 100,0:12:12.66,0:12:14.62,Dialogue,,0,0,0,,I'm supposed to play BTOOOM! for real?
-Dialogue: 100,0:12:15.11,0:12:16.58,Dialogue,,0,0,0,,You've gotta be kidding!
-Dialogue: 100,0:12:16.83,0:12:18.37,Dialogue,,0,0,0,,I can't do that!
-Dialogue: 100,0:12:23.67,0:12:25.50,Dialogue,,0,0,0,,{\i1}El chiar încearcă să mă omoare.
-Dialogue: 100,0:12:26.00,0:12:29.00,Dialogue,,0,0,0,,Quit running around, coward!
-Dialogue: 100,0:12:29.41,0:12:31.34,Dialogue,,0,0,0,,You piece of crap!
-Dialogue: 100,0:12:39.54,0:12:40.52,Dialogue,,0,0,0,,Did I lose him?
-Dialogue: 100,0:12:41.75,0:12:45.01,Dialogue,,0,0,0,,The most important part of {\i1}BTOOOM!{\i0} \Nis hiding from the enemy.
-Dialogue: 100,0:12:45.01,0:12:46.19,Dialogue,,0,0,0,,Running is how you win—
-Dialogue: 100,0:12:50.49,0:12:51.48,Dialogue,,0,0,0,,{\i1}He's here?
-Dialogue: 100,0:12:51.48,0:12:52.49,Dialogue,,0,0,0,,{\i1}How did he know my location?
-Dialogue: 100,0:12:53.38,0:12:54.89,Dialogue,,0,0,0,,{\i1}Do I have to fight him?
-Dialogue: 100,0:12:55.70,0:12:57.87,Dialogue,,0,0,0,,{\i1}But if one of these hits him,
-Dialogue: 100,0:12:58.78,0:13:00.62,Dialogue,,0,0,0,,{\i1}I'll kill him for sure!
-Dialogue: 100,0:13:03.11,0:13:04.42,Dialogue,,0,0,0,,Hot!
-Dialogue: 100,0:13:04.42,0:13:06.00,Dialogue,,0,0,0,,I don't have a choice!
-Dialogue: 100,0:13:06.70,0:13:09.20,Dialogue,,0,0,0,,Why isn't he fighting back?
-Dialogue: 100,0:13:09.20,0:13:11.84,Dialogue,,0,0,0,,Is he still spouting that purist crap?
-Dialogue: 100,0:13:19.09,0:13:21.62,Dialogue,,0,0,0,,What? It didn't explode?
-Dialogue: 100,0:13:21.62,0:13:24.03,Dialogue,,0,0,0,,The last one did!
-Dialogue: 100,0:13:27.15,0:13:28.36,Dialogue,,0,0,0,,Right, the switch...
-Dialogue: 100,0:13:29.95,0:13:30.86,Dialogue,,0,0,0,,Okay.
-Dialogue: 100,0:13:31.33,0:13:33.24,Dialogue,,0,0,0,,That was close.
-Dialogue: 100,0:13:33.24,0:13:35.52,Dialogue,,0,0,0,,He's got a good arm.
-Dialogue: 100,0:13:35.52,0:13:37.12,Dialogue,,0,0,0,,I'd better get farther back.
-Dialogue: 100,0:13:41.80,0:13:43.48,Dialogue,,0,0,0,,Another dud?
-Dialogue: 100,0:13:43.48,0:13:45.46,Dialogue,,0,0,0,,You've gotta be kidding me!
-Dialogue: 100,0:13:46.65,0:13:48.73,Dialogue,,0,0,0,,Why would it explode just now?
-Dialogue: 100,0:13:49.83,0:13:54.29,Dialogue,,0,0,0,,That moron doesn't even know \Nhow to use his bombs?
-Dialogue: 100,0:13:55.42,0:13:56.89,Dialogue,,0,0,0,,How do I use these?
-Dialogue: 100,0:13:56.89,0:13:58.66,Dialogue,,0,0,0,,Isn't there a manual somewhere?
-Dialogue: 100,0:14:05.45,0:14:07.72,Dialogue,,0,0,0,,Damn, where did he go?
-Dialogue: 100,0:14:08.90,0:14:10.05,Dialogue,,0,0,0,,Don't move!
-Dialogue: 100,0:14:11.32,0:14:13.25,Dialogue,,0,0,0,,Answer me.
-Dialogue: 100,0:14:13.25,0:14:15.00,Dialogue,,0,0,0,,Why are you attacking me?
-Dialogue: 100,0:14:16.23,0:14:18.35,Dialogue,,0,0,0,,Where are we?
-Dialogue: 100,0:14:19.22,0:14:20.98,Dialogue,,0,0,0,,And these bombs,
-Dialogue: 100,0:14:20.98,0:14:22.69,Dialogue,,0,0,0,,this glass crystal on my hand...
-Dialogue: 100,0:14:23.39,0:14:26.87,Dialogue,,0,0,0,,Have you ever heard of the online \Ngame called {\i1}BTOOOM!{\i0}?
-Dialogue: 100,0:14:31.64,0:14:33.54,Dialogue,,0,0,0,,Wow, you're a dumbass!
-Dialogue: 100,0:14:33.54,0:14:35.38,Dialogue,,0,0,0,,You can't remember anything?
-Dialogue: 100,0:14:35.90,0:14:38.43,Dialogue,,0,0,0,,You don't even know how to use a bomb,
-Dialogue: 100,0:14:38.43,0:14:40.62,Dialogue,,0,0,0,,but you think you've cornered me?
-Dialogue: 100,0:14:41.59,0:14:42.97,Dialogue,,0,0,0,,Don't make me laugh.
-Dialogue: 100,0:14:43.46,0:14:46.39,Dialogue,,0,0,0,,I won't tell you a thing before you die!
-Dialogue: 100,0:14:46.76,0:14:47.81,Dialogue,,0,0,0,,Die!
-Dialogue: 100,0:14:55.79,0:14:57.42,Dialogue,,0,0,0,,I missed again?
-Dialogue: 100,0:14:58.34,0:15:00.31,Dialogue,,0,0,0,,{\i1}Why is this happening to me?
-Dialogue: 100,0:15:01.30,0:15:03.79,Dialogue,,0,0,0,,{\i1}What did I do?
-Dialogue: 100,0:15:05.45,0:15:07.88,Dialogue,,0,0,0,,{\i1}He's just a normal Japanese guy, right?
-Dialogue: 100,0:15:07.88,0:15:09.82,Dialogue,,0,0,0,,{\i1}I spoke to him.
-Dialogue: 100,0:15:09.82,0:15:11.71,Dialogue,,0,0,0,,{\i1}There's no reason for him to kill me.
-Dialogue: 100,0:15:13.46,0:15:14.42,Dialogue,,0,0,0,,I give up.
-Dialogue: 100,0:15:14.42,0:15:15.63,Dialogue,,0,0,0,,I surrender!
-Dialogue: 100,0:15:15.63,0:15:16.92,Dialogue,,0,0,0,,Please don't kill me...
-Dialogue: 100,0:15:20.95,0:15:22.63,Dialogue,,0,0,0,,{\i1}That was so stupid.
-Dialogue: 100,0:15:27.25,0:15:31.42,Dialogue,,0,0,0,,{\i1}Am I going to die here?
-Dialogue: 100,0:15:34.12,0:15:36.28,Dialogue,,0,0,0,,Where did you go?!
-Dialogue: 100,0:15:36.46,0:15:38.93,Dialogue,,0,0,0,,I know you aren't dead yet...
-Dialogue: 100,0:15:38.93,0:15:41.06,Dialogue,,0,0,0,,Come out, wuss!
-Dialogue: 100,0:15:42.63,0:15:45.22,Dialogue,,0,0,0,,{\i1}No, I don't want to die...
-Dialogue: 100,0:15:46.68,0:15:48.31,Dialogue,,0,0,0,,{\i1}Wh-What's this?
-Dialogue: 100,0:15:48.81,0:15:49.83,Dialogue,,0,0,0,,{\i1}I can feel it.
-Dialogue: 100,0:15:50.33,0:15:52.39,Dialogue,,0,0,0,,{\i1}I can tell he's near me.
-Dialogue: 100,0:15:53.40,0:15:55.07,Dialogue,,0,0,0,,{\i1}Could this be...
-Dialogue: 100,0:15:56.82,0:15:59.13,Dialogue,,0,0,0,,{\i1}...just like the BTOOOM! radar?
-Dialogue: 100,0:16:00.96,0:16:02.76,Dialogue,,0,0,0,,{\i1}Then hiding won't help.
-Dialogue: 100,0:16:10.89,0:16:13.15,Dialogue,,0,0,0,,Another miss?
-Dialogue: 100,0:16:13.15,0:16:16.42,Dialogue,,0,0,0,,But I'm certain he's holed up nearby.
-Dialogue: 100,0:16:16.42,0:16:18.36,Dialogue,,0,0,0,,I'm sure of it...
-Dialogue: 100,0:16:18.71,0:16:21.70,Dialogue,,0,0,0,,{\i1}If he has radar, then hiding is pointless.
-Dialogue: 100,0:16:21.70,0:16:24.41,Dialogue,,0,0,0,,{\i1}But why won't my bombs...
-Dialogue: 100,0:16:26.16,0:16:28.37,Dialogue,,0,0,0,,{\i1}There was a number!
-Dialogue: 100,0:16:28.88,0:16:30.56,Dialogue,,0,0,0,,{\i1}It's on a timer?
-Dialogue: 100,0:16:30.56,0:16:31.77,Dialogue,,0,0,0,,{\i1}Damn it!
-Dialogue: 100,0:16:31.77,0:16:33.76,Dialogue,,0,0,0,,{\i1}Why didn't I notice earlier?
-Dialogue: 100,0:16:34.40,0:16:37.45,Dialogue,,0,0,0,,{\i1}In BTOOOM!, his bombs \Nare called "Crackers."
-Dialogue: 100,0:16:38.11,0:16:41.23,Dialogue,,0,0,0,,{\i1}They explode upon impact.
-Dialogue: 100,0:16:42.05,0:16:43.90,Dialogue,,0,0,0,,{\i1}Mine use timers...
-Dialogue: 100,0:16:43.90,0:16:47.74,Dialogue,,0,0,0,,{\i1}You press the switch, and it explodes \Nwhen the timer reaches zero.
-Dialogue: 100,0:16:50.35,0:16:52.65,Dialogue,,0,0,0,,{\i1}So it's just like BTOOOM!?
-Dialogue: 100,0:16:55.40,0:16:56.45,Dialogue,,0,0,0,,{\i1}Calm down...
-Dialogue: 100,0:16:56.45,0:16:57.63,Dialogue,,0,0,0,,{\i1}Relax.
-Dialogue: 100,0:16:58.17,0:17:01.16,Dialogue,,0,0,0,,{\i1}I'm the ace of the world's #10 team.
-Dialogue: 100,0:17:01.95,0:17:04.03,Dialogue,,0,0,0,,{\i1}I can use bombs with timers!
-Dialogue: 100,0:17:08.73,0:17:10.13,Dialogue,,0,0,0,,{\i1}I can't move...
-Dialogue: 100,0:17:13.42,0:17:14.67,Dialogue,,0,0,0,,{\i1}I can't see him.
-Dialogue: 100,0:17:18.79,0:17:20.01,Dialogue,,0,0,0,,{\i1}Damn it!
-Dialogue: 100,0:17:20.01,0:17:23.20,Dialogue,,0,0,0,,{\i1}If this were the game... \NIf this were the game...!
-Dialogue: 100,0:17:24.10,0:17:26.20,Dialogue,,0,0,0,,{\i1}Then this is for real, huh?
-Dialogue: 100,0:17:26.81,0:17:28.76,Dialogue,,0,0,0,,{\i1}Tenth in the world?
-Dialogue: 100,0:17:29.64,0:17:32.98,Dialogue,,0,0,0,,{\i1}It's all just virtual glory...
-Dialogue: 100,0:17:34.74,0:17:36.77,Dialogue,,0,0,0,,Hey, coward!
-Dialogue: 100,0:17:38.38,0:17:42.61,Dialogue,,0,0,0,,I know you're hiding in that \Ncrack between the rocks!
-Dialogue: 100,0:17:43.66,0:17:44.86,Dialogue,,0,0,0,,{\i1}He doesn't know where I am?
-Dialogue: 100,0:17:44.86,0:17:45.87,Dialogue,,0,0,0,,{\i1}This is my chance.
-Dialogue: 100,0:17:46.45,0:17:48.09,Dialogue,,0,0,0,,Wait.
-Dialogue: 100,0:17:48.09,0:17:50.49,Dialogue,,0,0,0,,If he's in those bushes,
-Dialogue: 100,0:17:51.00,0:17:53.04,Dialogue,,0,0,0,,couldn't he blow me up from behind?
-Dialogue: 100,0:17:53.04,0:17:54.92,Dialogue,,0,0,0,,{\i1}Don't figure it out, damn it!
-Dialogue: 100,0:17:55.51,0:17:59.12,Dialogue,,0,0,0,,Well, it doesn't matter...
-Dialogue: 100,0:18:02.63,0:18:04.93,Dialogue,,0,0,0,,...if I throw bombs at both spots.
-Dialogue: 100,0:18:05.65,0:18:06.68,Dialogue,,0,0,0,,{\i1}I...
-Dialogue: 100,0:18:07.36,0:18:09.93,Dialogue,,0,0,0,,Farewell, coward.
-Dialogue: 100,0:18:10.69,0:18:12.31,Dialogue,,0,0,0,,{\i1}...have no choice.
-Dialogue: 100,0:18:20.77,0:18:21.99,Dialogue,,0,0,0,,Idiot!
-Dialogue: 100,0:18:21.99,0:18:24.11,Dialogue,,0,0,0,,Can you stay underwater forever?
-Dialogue: 100,0:18:24.11,0:18:27.11,Dialogue,,0,0,0,,When you surface for air, I'll nail you.
-Dialogue: 100,0:18:29.86,0:18:32.62,Dialogue,,0,0,0,,{\i1}7... 6... 5...
-Dialogue: 100,0:18:32.62,0:18:34.87,Dialogue,,0,0,0,,{\i1}4... 3...
-Dialogue: 100,0:19:06.80,0:19:09.19,Dialogue,,0,0,0,,I-I had no choice...
-Dialogue: 100,0:19:10.19,0:19:12.23,Dialogue,,0,0,0,,He would've killed me.
-Dialogue: 100,0:19:13.13,0:19:14.83,Dialogue,,0,0,0,,It was self-defense.
-Dialogue: 100,0:19:15.82,0:19:17.52,Dialogue,,0,0,0,,I didn't do anything wrong.
-Dialogue: 100,0:19:18.31,0:19:20.05,Dialogue,,0,0,0,,It's not my fault.
-Dialogue: 100,0:19:20.05,0:19:21.64,Dialogue,,0,0,0,,It's not...
-Dialogue: 100,0:19:24.01,0:19:25.72,Dialogue,,0,0,0,,His bombs.
-Dialogue: 100,0:19:29.10,0:19:32.70,Dialogue,,0,0,0,,{\i1}So I'm supposed to take them to survive?
-Dialogue: 100,0:19:33.76,0:19:36.48,Dialogue,,0,0,0,,{\i1}A game of murder, just like online.
-Dialogue: 100,0:19:36.94,0:19:38.31,Dialogue,,0,0,0,,{\i1}And...
-Dialogue: 100,0:19:38.67,0:19:40.66,Dialogue,,0,0,0,,{\i1}I have to play it in real life?
-Dialogue: 100,0:21:17.29,0:21:18.04,Dialogue,,0,0,0,,Excuse me,
-Dialogue: 100,0:21:18.54,0:21:19.87,Dialogue,,0,0,0,,Iida-senpai...
-Dialogue: 100,0:21:21.07,0:21:23.25,Dialogue,,0,0,0,,About what we discussed earlier.
-Dialogue: 100,0:21:23.70,0:21:26.83,Dialogue,,0,0,0,,About hiring me...
-Dialogue: 100,0:21:27.34,0:21:29.67,Dialogue,,0,0,0,,Oh, that.
-Dialogue: 100,0:21:29.99,0:21:32.81,Dialogue,,0,0,0,,Would you wait just a little longer?
-Dialogue: 100,0:21:33.63,0:21:35.67,Dialogue,,0,0,0,,The company's so busy right now.
-Dialogue: 100,0:21:37.36,0:21:38.54,Dialogue,,0,0,0,,Ryouta?
-Dialogue: 100,0:21:39.94,0:21:42.18,Dialogue,,0,0,0,,You're playing that game again.
-Dialogue: 100,0:21:42.69,0:21:43.60,Dialogue,,0,0,0,,Hey...
-Dialogue: 100,0:21:43.60,0:21:45.18,Dialogue,,0,0,0,,Don't open my door without knocking!
-Dialogue: 100,0:21:45.18,0:21:46.59,Dialogue,,0,0,0,,I did knock,
-Dialogue: 100,0:21:46.59,0:21:49.14,Dialogue,,0,0,0,,but you had those things on.
-Dialogue: 100,0:21:49.94,0:21:51.72,Dialogue,,0,0,0,,What, Sakamoto?
-Dialogue: 100,0:21:51.72,0:21:53.55,Dialogue,,0,0,0,,You're fighting with your mom again?
-Dialogue: 100,0:21:53.55,0:21:55.03,Dialogue,,0,0,0,,Lame...
-Dialogue: 100,0:21:55.03,0:21:56.45,Dialogue,,0,0,0,,It spoils all the fun.
-Dialogue: 100,0:21:58.04,0:22:00.22,Dialogue,,0,0,0,,I'm online now. Leave me alone...
-Dialogue: 100,0:22:00.22,0:22:01.79,Dialogue,,0,0,0,,We need to talk.
-Dialogue: 100,0:22:02.17,0:22:05.33,Dialogue,,0,0,0,,About a job for you...
-Dialogue: 100,0:22:05.33,0:22:07.95,Dialogue,,0,0,0,,I spoke with a relative of mine, Uncle Kazu,
-Dialogue: 100,0:22:07.95,0:22:11.01,Dialogue,,0,0,0,,to see if they could do anything for you.
-Dialogue: 100,0:22:11.52,0:22:14.65,Dialogue,,0,0,0,,You remember Uncle Kazu, right?
-Dialogue: 100,0:22:14.65,0:22:17.01,Dialogue,,0,0,0,,He currently runs an udon restaurant.
-Dialogue: 100,0:22:17.01,0:22:18.97,Dialogue,,0,0,0,,Leave me alone...
-Dialogue: 100,0:22:19.44,0:22:21.90,Dialogue,,0,0,0,,There's a job I already want.
-Dialogue: 100,0:22:23.00,0:22:26.56,Dialogue,,0,0,0,,You've been saying that for two years, \Nand you're still unemployed.
-Dialogue: 100,0:22:27.29,0:22:31.56,Dialogue,,0,0,0,,It's time to stop dreaming about \Nworking for a video game company.
-Dialogue: 100,0:22:31.85,0:22:34.31,Dialogue,,0,0,0,,Go out, and find a real job!
-Dialogue: 100,0:22:35.95,0:22:39.06,Dialogue,,0,0,0,,Can't I do that later?
-Dialogue: 100,0:22:39.43,0:22:42.17,Dialogue,,0,0,0,,I'm thinking about your future here!
-Dialogue: 100,0:22:42.39,0:22:44.42,Dialogue,,0,0,0,,Just get out!
-Dialogue: 100,0:22:58.46,0:22:59.10,Dialogue,,0,0,0,,{\i1}Un vis?
-Dialogue: 100,0:23:02.94,0:23:03.82,Dialogue,,0,0,0,,{\i1}Stai o clipă...
-Dialogue: 100,0:23:04.51,0:23:05.80,Dialogue,,0,0,0,,{\i1}Asta este lumea reală.
-Dialogue: 100,0:23:07.85,0:23:09.10,Dialogue,,0,0,0,,{\i1}Îmi este foame...
-Dialogue: 100,0:23:10.30,0:23:13.19,Dialogue,,0,0,0,,{\i1}Dacă stau bine să mă gândesc, \Nam vomitat tot ce am mâncat ieri.
-Dialogue: 100,0:24:06.83,0:24:10.01,Dialogue,,0,0,0,,Există un motiv pentru care \Nam ajuns pe această insulă.
-Dialogue: 100,0:24:10.70,0:24:11.88,Dialogue,,0,0,0,,Există un motiv pentru \Ncare nu mă pot întoarce.
-Dialogue: 100,0:24:12.75,0:24:15.32,Dialogue,,0,0,0,,Asta este pedeapsa mea.
-Dialogue: 100,0:24:16.15,0:24:17.50,Dialogue,,0,0,0,,Pedeapsa pentru trădarea mea.
-Dialogue: 100,0:24:18.53,0:24:20.39,Dialogue,,0,0,0,,{\pos(500,1015)}Dar chiar și așa...
+Dialogue: 99,0:00:14.71,0:00:16.39,Dialogue,,0,0,0,,Bun, acesta a fost al treilea asasinat.
+Dialogue: 99,0:00:16.78,0:00:17.57,Dialogue,,0,0,0,,Fă o scanare cu sonarul!
+Dialogue: 99,0:00:17.97,0:00:18.77,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:00:21.84,0:00:23.23,Dialogue,,0,0,0,,Te-am prins!
+Dialogue: 99,0:00:25.63,0:00:27.99,Dialogue,,0,0,0,,Idiotule, ăia erau doar niște civili!
+Dialogue: 99,0:00:31.71,0:00:33.12,Dialogue,,0,0,0,,Nu mai face asta.
+Dialogue: 99,0:00:33.20,0:00:34.27,Dialogue,,0,0,0,,Câți ai ucis până acum?
+Dialogue: 99,0:00:34.36,0:00:36.92,Dialogue,,0,0,0,,Fir-ar. Nu ar fi trebuit să stea acolo.
+Dialogue: 99,0:00:39.86,0:00:40.83,Dialogue,,0,0,0,,Nu vei scăpa!
+Dialogue: 99,0:00:42.01,0:00:43.53,Dialogue,,0,0,0,,{\fad(0,791)}Nu mai fugi...
+Dialogue: 99,0:00:46.28,0:00:47.49,Dialogue,,0,0,0,,Hei, unde s-a dus?
+Dialogue: 99,0:00:51.60,0:00:52.54,Dialogue,,0,0,0,,Oare să folosim din nou sonarul?
+Dialogue: 99,0:00:53.89,0:00:55.88,Dialogue,,0,0,0,,Nu, probabil se ascunde deja.
+Dialogue: 99,0:00:58.60,0:00:59.56,Dialogue,,0,0,0,,Fir-ar să fie.
+Dialogue: 99,0:01:03.27,0:01:05.52,Dialogue,,0,0,0,,Băieți, sunteți varză.
+Dialogue: 99,0:01:06.53,0:01:07.08,Dialogue,,0,0,0,,Priviți-mă.
+Dialogue: 99,0:01:31.75,0:01:32.74,Dialogue,,0,0,0,,Uimitor!
+Dialogue: 99,0:01:32.97,0:01:34.00,Dialogue,,0,0,0,,A făcut să pară atât de ușor!
+Dialogue: 99,0:01:36.10,0:01:37.45,Dialogue,,0,0,0,,Doar mori, fraiere.
+Dialogue: 99,0:01:49.21,0:01:51.97,Dialogue,,0,0,0,,Chiar nu pot pierde aici.
+Dialogue: 99,0:03:25.56,0:03:26.71,Dialogue,,0,0,0,,Pe bune?
+Dialogue: 99,0:03:26.75,0:03:28.28,Dialogue,,0,0,0,,Asta este a douazecea victorie la rând!
+Dialogue: 99,0:03:28.68,0:03:30.35,Dialogue,,0,0,0,,A fost floare la ureche, nu-i așa, Sakamoto?
+Dialogue: 99,0:03:30.98,0:03:31.98,Dialogue,,0,0,0,,Uite cine vorbește.
+Dialogue: 99,0:03:32.43,0:03:34.03,Dialogue,,0,0,0,,Eu am făcut aproape toată treabă.
+Dialogue: 99,0:03:36.00,0:03:38.12,Dialogue,,0,0,0,,Uau, ai patru stele acum!
+Dialogue: 99,0:03:39.33,0:03:41.76,Dialogue,,0,0,0,,Ești numărul zece în lume...
+Dialogue: 99,0:03:42.33,0:03:45.47,Dialogue,,0,0,0,,Niciun jucător de {\i1}BTOOOM!{\i0} din \NJaponia nu se poate compara cu noi.
+Dialogue: 99,0:03:46.49,0:03:50.19,Dialogue,,0,0,0,,Va trebui să începem să jucăm cu adversari mai puternici din afara Japoniei sau nu voi mai urca în clasament.
+Dialogue: 99,0:03:50.72,0:03:51.69,Dialogue,,0,0,0,,Un adversar nou!
+Dialogue: 99,0:03:53.12,0:03:54.97,Dialogue,,0,0,0,,Se pare că cineva te-a auzit.
+Dialogue: 99,0:03:56.42,0:03:58.71,Dialogue,,0,0,0,,Spune că este numărul doi mondial!
+Dialogue: 99,0:03:58.89,0:03:59.40,Dialogue,,0,0,0,,Ce facem?
+Dialogue: 99,0:04:00.42,0:04:01.87,Dialogue,,0,0,0,,Evident că vom accepta.
+Dialogue: 99,0:04:02.88,0:04:04.14,Dialogue,,0,0,0,,Să începem!
+Dialogue: 99,0:04:04.23,0:04:06.76,Dialogue,,0,0,0,,Să urcăm pe primul loc!
+Dialogue: 99,0:04:08.62,0:04:09.31,Dialogue,,0,0,0,,{\i1}BTOOOM!
+Dialogue: 99,0:04:09.96,0:04:13.01,Dialogue,,0,0,0,,{\i1}Acest joc s-a vândut în peste trei \Nmilioane de exemplare în întreaga lume.
+Dialogue: 99,0:04:13.56,0:04:14.75,Dialogue,,0,0,0,,{\i1}Și nu se joacă cu arme.
+Dialogue: 99,0:04:15.84,0:04:16.82,Dialogue,,0,0,0,,{\i1}Ci numai cu bombe.
+Dialogue: 99,0:04:19.71,0:04:22.80,Dialogue,,0,0,0,,{\i1}Există opt tipuri de bombe sau BIM-uri, \Npe care le poți folosi în funcție de situație,
+Dialogue: 99,0:04:23.84,0:04:27.71,Dialogue,,0,0,0,,{\i1}și un sonar pentru localizarea \Ninamicilor în timp ce stai ascuns.
+Dialogue: 99,0:04:29.17,0:04:32.09,Dialogue,,0,0,0,,{\i1}Așa se câștigă în acest joc.
+Dialogue: 99,0:04:32.92,0:04:33.95,Dialogue,,0,0,0,,BTOOOM!
+Dialogue: 99,0:04:34.16,0:04:35.65,Dialogue,,0,0,0,,Ești uimitor, Sakamoto...
+Dialogue: 99,0:04:35.87,0:04:38.41,Dialogue,,0,0,0,,Le ținem piept celor de pe locul 2!
+Dialogue: 99,0:04:38.97,0:04:39.85,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:04:40.52,0:04:42.57,Dialogue,,0,0,0,,Vom deveni numărul unu mondial.
+Dialogue: 99,0:04:46.32,0:04:48.00,Dialogue,,0,0,0,,{\i1}Am douăzeci și doi de ani și încă nu lucrez.
+Dialogue: 99,0:04:48.65,0:04:50.80,Dialogue,,0,0,0,,{\i1}Îmi petrec întreaga zi făcând nimic.
+Dialogue: 99,0:04:52.59,0:04:56.04,Dialogue,,0,0,0,,{\i1}Dar în lumea {\i0}BTOOOM!{\i1},
+Dialogue: 99,0:04:57.29,0:04:58.30,Dialogue,,0,0,0,,{\i1}sunt mai puternic ca toți,
+Dialogue: 99,0:04:59.09,0:05:00.33,Dialogue,,0,0,0,,{\i1}mai respectat ca toți
+Dialogue: 99,0:05:00.87,0:05:03.12,Dialogue,,0,0,0,,{\i1}și mai grozav ca toți.
+Dialogue: 99,0:05:05.08,0:05:06.16,Dialogue,,0,0,0,,{\i1}M-am și căsătorit.
+Dialogue: 99,0:05:07.60,0:05:10.57,Dialogue,,0,0,0,,{\i1}Desigur, doar în lumea jocului,
+Dialogue: 99,0:05:12.05,0:05:13.32,Dialogue,,0,0,0,,{\i1}dar eram mulțumit.
+Dialogue: 99,0:05:14.39,0:05:16.08,Dialogue,,0,0,0,,{\i1}Aici, în acest loc minunat.
+Dialogue: 99,0:05:18.29,0:05:19.76,Dialogue,,0,0,0,,{\i1}Nu mi-am dat seama că \Ndoar fugeam de realitate.
+Dialogue: 99,0:05:25.97,0:05:27.66,Dialogue,,0,0,0,,{\i1}Unde sunt?
+Dialogue: 99,0:05:35.86,0:05:36.87,Dialogue,,0,0,0,,{\i1}Mă doare tot corpul...
+Dialogue: 99,0:05:37.53,0:05:38.24,Dialogue,,0,0,0,,{\i1}De ce?
+Dialogue: 99,0:05:41.32,0:05:42.17,Dialogue,,0,0,0,,O parașută?
+Dialogue: 99,0:05:42.63,0:05:43.10,Dialogue,,0,0,0,,De ce?
+Dialogue: 99,0:05:44.70,0:05:46.04,Dialogue,,0,0,0,,Fir-ar, nu mă pot da jos.
+Dialogue: 99,0:05:47.82,0:05:48.54,Dialogue,,0,0,0,,Este...
+Dialogue: 99,0:05:49.06,0:05:50.25,Dialogue,,0,0,0,,Este cineva pe aici?
+Dialogue: 99,0:06:00.08,0:06:01.32,Dialogue,,0,0,0,,Ce naiba este asta?
+Dialogue: 99,0:06:04.79,0:06:07.10,Dialogue,,0,0,0,,Auci...
+Dialogue: 99,0:06:09.53,0:06:10.72,Dialogue,,0,0,0,,{\i1}Ce naiba este locul ăsta?
+Dialogue: 99,0:06:12.30,0:06:13.03,Dialogue,,0,0,0,,{\i1}Nu am nicio idee.
+Dialogue: 99,0:06:13.89,0:06:15.55,Dialogue,,0,0,0,,{\i1}Ce naiba caut aici?
+Dialogue: 99,0:06:17.03,0:06:18.76,Dialogue,,0,0,0,,{\i1}De ce nu-mi pot aminti nimic?
+Dialogue: 99,0:06:20.85,0:06:23.50,Dialogue,,0,0,0,,{\i1}Cred că mă jucam \N{\i0}BTOOOM!{\i1} în camera mea...
+Dialogue: 99,0:06:24.07,0:06:24.92,Dialogue,,0,0,0,,{\i1}Și apoi...
+Dialogue: 99,0:06:30.81,0:06:31.72,Dialogue,,0,0,0,,{\i1}Sânge?
+Dialogue: 99,0:06:33.04,0:06:36.20,Dialogue,,0,0,0,,{\i1}Ce naiba s-a întâmplat de nu-mi pot aminti?!
+Dialogue: 99,0:06:42.08,0:06:42.57,Dialogue,,0,0,0,,Telefonul meu...
+Dialogue: 99,0:06:45.15,0:06:46.17,Dialogue,,0,0,0,,Fără semnal?
+Dialogue: 99,0:06:47.28,0:06:47.86,Dialogue,,0,0,0,,La naiba.
+Dialogue: 99,0:06:51.31,0:06:51.70,Dialogue,,0,0,0,,Ce—
+Dialogue: 99,0:06:52.75,0:06:53.50,Dialogue,,0,0,0,,Ce naiba e asta?
+Dialogue: 99,0:06:54.35,0:06:55.30,Dialogue,,0,0,0,,S-Sticlă?
+Dialogue: 99,0:06:56.83,0:06:58.16,Dialogue,,0,0,0,,Îmi este integrată în piele?
+Dialogue: 99,0:07:00.69,0:07:03.64,Dialogue,,0,0,0,,{\i1}O pot simți, dar nu mă doare sau ceva.
+Dialogue: 99,0:07:04.57,0:07:08.33,Dialogue,,0,0,0,,{\i1}Nu-mi spune că am fost \Nrăpit de un OZN sau ceva...
+Dialogue: 99,0:07:21.75,0:07:22.64,Dialogue,,0,0,0,,Geanta mea!
+Dialogue: 99,0:07:24.51,0:07:25.44,Dialogue,,0,0,0,,Portofelul e aici.
+Dialogue: 99,0:07:25.96,0:07:27.17,Dialogue,,0,0,0,,Și haine de schimb...
+Dialogue: 99,0:07:27.32,0:07:28.30,Dialogue,,0,0,0,,Deci mergeam să-mi petrec noaptea undeva?
+Dialogue: 99,0:07:30.14,0:07:30.84,Dialogue,,0,0,0,,Ce este asta?
+Dialogue: 99,0:07:35.16,0:07:36.14,Dialogue,,0,0,0,,O pungă de la magazin.
+Dialogue: 99,0:07:37.04,0:07:37.69,Dialogue,,0,0,0,,O cutie pentru prânz și...
+Dialogue: 99,0:07:38.88,0:07:40.03,Dialogue,,0,0,0,,Perfect!
+Dialogue: 99,0:07:49.58,0:07:52.67,Dialogue,,0,0,0,,Pentru început, cred că ar trebui să aflu unde sunt.
+Dialogue: 99,0:07:59.66,0:08:00.70,Dialogue,,0,0,0,,Este foarte cald!
+Dialogue: 99,0:08:02.99,0:08:05.28,Dialogue,,0,0,0,,{\i1}Seems like I'm pretty far south...
+Dialogue: 99,0:08:08.78,0:08:10.07,Dialogue,,0,0,0,,{\i1}Aș face bine să păstrez și pentru mai târziu.
+Dialogue: 99,0:08:16.68,0:08:18.20,Dialogue,,0,0,0,,Gândacul ăla nu era cam mare?
+Dialogue: 99,0:08:20.54,0:08:22.59,Dialogue,,0,0,0,,Chiar este asta o pădure tropicală?
+Dialogue: 99,0:08:26.21,0:08:27.34,Dialogue,,0,0,0,,{\i1}I'm dead meat...
+Dialogue: 99,0:08:39.75,0:08:40.97,Dialogue,,0,0,0,,{\i1}M-ai lasă-mă.
+Dialogue: 99,0:08:41.93,0:08:43.69,Dialogue,,0,0,0,,{\i1}Ce am făcut ca să merit asta?
+Dialogue: 99,0:08:44.50,0:08:45.20,Dialogue,,0,0,0,,{\i1}What...
+Dialogue: 99,0:08:51.83,0:08:53.26,Dialogue,,0,0,0,,A-Auci...
+Dialogue: 99,0:09:01.93,0:09:02.93,Dialogue,,0,0,0,,Unde naiba...
+Dialogue: 99,0:09:03.46,0:09:05.52,Dialogue,,0,0,0,,Unde naiba sunt?!
+Dialogue: 99,0:09:09.99,0:09:11.19,Dialogue,,0,0,0,,{\i1}Mom!
+Dialogue: 99,0:09:12.43,0:09:16.95,Dialogue,,0,0,0,,{\i1}You wrote me a resume and sent it \Nto the grocery store, didn't you?
+Dialogue: 99,0:09:17.39,0:09:19.95,Dialogue,,0,0,0,,{\i1}I won't work there...
+Dialogue: 99,0:09:22.73,0:09:24.89,Dialogue,,0,0,0,,{\i1}There's a job I already want.
+Dialogue: 99,0:09:24.89,0:09:26.56,Dialogue,,0,0,0,,{\i1}Stay out of my business!
+Dialogue: 99,0:09:35.36,0:09:37.21,Dialogue,,0,0,0,,{\i1}Maybe I'll go to Satoru's.
+Dialogue: 99,0:09:37.77,0:09:38.85,Dialogue,,0,0,0,,{\i1}You, there...
+Dialogue: 99,0:09:40.02,0:09:42.85,Dialogue,,0,0,0,,{\i1}You're Sakamoto Ryouta-san, correct?
+Dialogue: 99,0:09:50.95,0:09:53.59,Dialogue,,0,0,0,,{\i1}It's starting to come back to me.
+Dialogue: 99,0:09:54.58,0:09:57.61,Dialogue,,0,0,0,,{\i1}Someone stopped me as I was leaving.
+Dialogue: 99,0:10:00.22,0:10:03.49,Dialogue,,0,0,0,,{\i1}Forcing myself to remember \Njust makes my head hurt.
+Dialogue: 99,0:10:12.08,0:10:14.80,Dialogue,,0,0,0,,{\i1}Good thing I bought a lunch.
+Dialogue: 99,0:10:15.53,0:10:18.51,Dialogue,,0,0,0,,{\i1}But what will I do tomorrow?
+Dialogue: 99,0:10:19.98,0:10:22.35,Dialogue,,0,0,0,,{\i1}I don't recognize this pouch...
+Dialogue: 99,0:10:22.99,0:10:24.52,Dialogue,,0,0,0,,{\i1}It probably isn't mine.
+Dialogue: 99,0:10:26.98,0:10:28.80,Dialogue,,0,0,0,,{\i1}Did someone put it in my bag?
+Dialogue: 99,0:10:31.39,0:10:33.40,Dialogue,,0,0,0,,What is this?
+Dialogue: 99,0:10:37.43,0:10:39.19,Dialogue,,0,0,0,,Oops, I pressed something...
+Dialogue: 99,0:10:43.42,0:10:45.54,Dialogue,,0,0,0,,{\i1}I have a bad feeling.
+Dialogue: 99,0:10:51.28,0:10:52.29,Dialogue,,0,0,0,,No way—
+Dialogue: 99,0:11:00.51,0:11:01.51,Dialogue,,0,0,0,,What?
+Dialogue: 99,0:11:02.49,0:11:04.48,Dialogue,,0,0,0,,What the hell was that?
+Dialogue: 99,0:11:07.51,0:11:09.94,Dialogue,,0,0,0,,{\i1}Are all of these bombs?
+Dialogue: 99,0:11:10.77,0:11:13.48,Dialogue,,0,0,0,,{\i1}What are they doing in my bag?
+Dialogue: 99,0:11:17.52,0:11:18.56,Dialogue,,0,0,0,,I...
+Dialogue: 99,0:11:18.56,0:11:20.75,Dialogue,,0,0,0,,I don't want anything to do with them!
+Dialogue: 99,0:11:26.55,0:11:27.92,Dialogue,,0,0,0,,{\i1}Someone's over there.
+Dialogue: 99,0:11:29.48,0:11:31.42,Dialogue,,0,0,0,,Excuse me!
+Dialogue: 99,0:11:32.11,0:11:33.89,Dialogue,,0,0,0,,Could you help me?
+Dialogue: 99,0:11:43.66,0:11:44.73,Dialogue,,0,0,0,,{\i1}What?
+Dialogue: 99,0:11:52.73,0:11:53.98,Dialogue,,0,0,0,,What's his problem?
+Dialogue: 99,0:11:55.81,0:11:57.02,Dialogue,,0,0,0,,{\i1}This is just like
+Dialogue: 99,0:11:58.19,0:11:58.82,Dialogue,,0,0,0,,{\i1}the game!
+Dialogue: 99,0:12:00.31,0:12:01.53,Dialogue,,0,0,0,,{\i1}No way.
+Dialogue: 99,0:12:02.50,0:12:03.61,Dialogue,,0,0,0,,{\i1}No way!
+Dialogue: 99,0:12:05.74,0:12:08.30,Dialogue,,0,0,0,,{\i1}I'm supposed to play BTOOOM! for real now?
+Dialogue: 99,0:12:12.66,0:12:14.62,Dialogue,,0,0,0,,I'm supposed to play BTOOOM! for real?
+Dialogue: 99,0:12:15.11,0:12:16.58,Dialogue,,0,0,0,,You've gotta be kidding!
+Dialogue: 99,0:12:16.83,0:12:18.37,Dialogue,,0,0,0,,I can't do that!
+Dialogue: 99,0:12:23.67,0:12:25.50,Dialogue,,0,0,0,,{\i1}El chiar încearcă să mă omoare.
+Dialogue: 99,0:12:26.00,0:12:29.00,Dialogue,,0,0,0,,Quit running around, coward!
+Dialogue: 99,0:12:29.41,0:12:31.34,Dialogue,,0,0,0,,You piece of crap!
+Dialogue: 99,0:12:39.54,0:12:40.52,Dialogue,,0,0,0,,Did I lose him?
+Dialogue: 99,0:12:41.75,0:12:45.01,Dialogue,,0,0,0,,The most important part of {\i1}BTOOOM!{\i0} \Nis hiding from the enemy.
+Dialogue: 99,0:12:45.01,0:12:46.19,Dialogue,,0,0,0,,Running is how you win—
+Dialogue: 99,0:12:50.49,0:12:51.48,Dialogue,,0,0,0,,{\i1}He's here?
+Dialogue: 99,0:12:51.48,0:12:52.49,Dialogue,,0,0,0,,{\i1}How did he know my location?
+Dialogue: 99,0:12:53.38,0:12:54.89,Dialogue,,0,0,0,,{\i1}Do I have to fight him?
+Dialogue: 99,0:12:55.70,0:12:57.87,Dialogue,,0,0,0,,{\i1}But if one of these hits him,
+Dialogue: 99,0:12:58.78,0:13:00.62,Dialogue,,0,0,0,,{\i1}I'll kill him for sure!
+Dialogue: 99,0:13:03.11,0:13:04.42,Dialogue,,0,0,0,,Hot!
+Dialogue: 99,0:13:04.42,0:13:06.00,Dialogue,,0,0,0,,I don't have a choice!
+Dialogue: 99,0:13:06.70,0:13:09.20,Dialogue,,0,0,0,,Why isn't he fighting back?
+Dialogue: 99,0:13:09.20,0:13:11.84,Dialogue,,0,0,0,,Is he still spouting that purist crap?
+Dialogue: 99,0:13:19.09,0:13:21.62,Dialogue,,0,0,0,,What? It didn't explode?
+Dialogue: 99,0:13:21.62,0:13:24.03,Dialogue,,0,0,0,,The last one did!
+Dialogue: 99,0:13:27.15,0:13:28.36,Dialogue,,0,0,0,,Right, the switch...
+Dialogue: 99,0:13:29.95,0:13:30.86,Dialogue,,0,0,0,,Okay.
+Dialogue: 99,0:13:31.33,0:13:33.24,Dialogue,,0,0,0,,That was close.
+Dialogue: 99,0:13:33.24,0:13:35.52,Dialogue,,0,0,0,,He's got a good arm.
+Dialogue: 99,0:13:35.52,0:13:37.12,Dialogue,,0,0,0,,I'd better get farther back.
+Dialogue: 99,0:13:41.80,0:13:43.48,Dialogue,,0,0,0,,Another dud?
+Dialogue: 99,0:13:43.48,0:13:45.46,Dialogue,,0,0,0,,You've gotta be kidding me!
+Dialogue: 99,0:13:46.65,0:13:48.73,Dialogue,,0,0,0,,Why would it explode just now?
+Dialogue: 99,0:13:49.83,0:13:54.29,Dialogue,,0,0,0,,That moron doesn't even know \Nhow to use his bombs?
+Dialogue: 99,0:13:55.42,0:13:56.89,Dialogue,,0,0,0,,How do I use these?
+Dialogue: 99,0:13:56.89,0:13:58.66,Dialogue,,0,0,0,,Isn't there a manual somewhere?
+Dialogue: 99,0:14:05.45,0:14:07.72,Dialogue,,0,0,0,,Damn, where did he go?
+Dialogue: 99,0:14:08.90,0:14:10.05,Dialogue,,0,0,0,,Don't move!
+Dialogue: 99,0:14:11.32,0:14:13.25,Dialogue,,0,0,0,,Answer me.
+Dialogue: 99,0:14:13.25,0:14:15.00,Dialogue,,0,0,0,,Why are you attacking me?
+Dialogue: 99,0:14:16.23,0:14:18.35,Dialogue,,0,0,0,,Where are we?
+Dialogue: 99,0:14:19.22,0:14:20.98,Dialogue,,0,0,0,,And these bombs,
+Dialogue: 99,0:14:20.98,0:14:22.69,Dialogue,,0,0,0,,this glass crystal on my hand...
+Dialogue: 99,0:14:23.39,0:14:26.87,Dialogue,,0,0,0,,Have you ever heard of the online \Ngame called {\i1}BTOOOM!{\i0}?
+Dialogue: 99,0:14:31.64,0:14:33.54,Dialogue,,0,0,0,,Wow, you're a dumbass!
+Dialogue: 99,0:14:33.54,0:14:35.38,Dialogue,,0,0,0,,You can't remember anything?
+Dialogue: 99,0:14:35.90,0:14:38.43,Dialogue,,0,0,0,,You don't even know how to use a bomb,
+Dialogue: 99,0:14:38.43,0:14:40.62,Dialogue,,0,0,0,,but you think you've cornered me?
+Dialogue: 99,0:14:41.59,0:14:42.97,Dialogue,,0,0,0,,Don't make me laugh.
+Dialogue: 99,0:14:43.46,0:14:46.39,Dialogue,,0,0,0,,I won't tell you a thing before you die!
+Dialogue: 99,0:14:46.76,0:14:47.81,Dialogue,,0,0,0,,Die!
+Dialogue: 99,0:14:55.79,0:14:57.42,Dialogue,,0,0,0,,I missed again?
+Dialogue: 99,0:14:58.34,0:15:00.31,Dialogue,,0,0,0,,{\i1}Why is this happening to me?
+Dialogue: 99,0:15:01.30,0:15:03.79,Dialogue,,0,0,0,,{\i1}What did I do?
+Dialogue: 99,0:15:05.45,0:15:07.88,Dialogue,,0,0,0,,{\i1}He's just a normal Japanese guy, right?
+Dialogue: 99,0:15:07.88,0:15:09.82,Dialogue,,0,0,0,,{\i1}I spoke to him.
+Dialogue: 99,0:15:09.82,0:15:11.71,Dialogue,,0,0,0,,{\i1}There's no reason for him to kill me.
+Dialogue: 99,0:15:13.46,0:15:14.42,Dialogue,,0,0,0,,I give up.
+Dialogue: 99,0:15:14.42,0:15:15.63,Dialogue,,0,0,0,,I surrender!
+Dialogue: 99,0:15:15.63,0:15:16.92,Dialogue,,0,0,0,,Please don't kill me...
+Dialogue: 99,0:15:20.95,0:15:22.63,Dialogue,,0,0,0,,{\i1}That was so stupid.
+Dialogue: 99,0:15:27.25,0:15:31.42,Dialogue,,0,0,0,,{\i1}Am I going to die here?
+Dialogue: 99,0:15:34.12,0:15:36.28,Dialogue,,0,0,0,,Where did you go?!
+Dialogue: 99,0:15:36.46,0:15:38.93,Dialogue,,0,0,0,,I know you aren't dead yet...
+Dialogue: 99,0:15:38.93,0:15:41.06,Dialogue,,0,0,0,,Come out, wuss!
+Dialogue: 99,0:15:42.63,0:15:45.22,Dialogue,,0,0,0,,{\i1}No, I don't want to die...
+Dialogue: 99,0:15:46.68,0:15:48.31,Dialogue,,0,0,0,,{\i1}Wh-What's this?
+Dialogue: 99,0:15:48.81,0:15:49.83,Dialogue,,0,0,0,,{\i1}I can feel it.
+Dialogue: 99,0:15:50.33,0:15:52.39,Dialogue,,0,0,0,,{\i1}I can tell he's near me.
+Dialogue: 99,0:15:53.40,0:15:55.07,Dialogue,,0,0,0,,{\i1}Could this be...
+Dialogue: 99,0:15:56.82,0:15:59.13,Dialogue,,0,0,0,,{\i1}...just like the BTOOOM! radar?
+Dialogue: 99,0:16:00.96,0:16:02.76,Dialogue,,0,0,0,,{\i1}Then hiding won't help.
+Dialogue: 99,0:16:10.89,0:16:13.15,Dialogue,,0,0,0,,Another miss?
+Dialogue: 99,0:16:13.15,0:16:16.42,Dialogue,,0,0,0,,But I'm certain he's holed up nearby.
+Dialogue: 99,0:16:16.42,0:16:18.36,Dialogue,,0,0,0,,I'm sure of it...
+Dialogue: 99,0:16:18.71,0:16:21.70,Dialogue,,0,0,0,,{\i1}If he has radar, then hiding is pointless.
+Dialogue: 99,0:16:21.70,0:16:24.41,Dialogue,,0,0,0,,{\i1}But why won't my bombs...
+Dialogue: 99,0:16:26.16,0:16:28.37,Dialogue,,0,0,0,,{\i1}There was a number!
+Dialogue: 99,0:16:28.88,0:16:30.56,Dialogue,,0,0,0,,{\i1}It's on a timer?
+Dialogue: 99,0:16:30.56,0:16:31.77,Dialogue,,0,0,0,,{\i1}Damn it!
+Dialogue: 99,0:16:31.77,0:16:33.76,Dialogue,,0,0,0,,{\i1}Why didn't I notice earlier?
+Dialogue: 99,0:16:34.40,0:16:37.45,Dialogue,,0,0,0,,{\i1}In BTOOOM!, his bombs \Nare called "Crackers."
+Dialogue: 99,0:16:38.11,0:16:41.23,Dialogue,,0,0,0,,{\i1}They explode upon impact.
+Dialogue: 99,0:16:42.05,0:16:43.90,Dialogue,,0,0,0,,{\i1}Mine use timers...
+Dialogue: 99,0:16:43.90,0:16:47.74,Dialogue,,0,0,0,,{\i1}You press the switch, and it explodes \Nwhen the timer reaches zero.
+Dialogue: 99,0:16:50.35,0:16:52.65,Dialogue,,0,0,0,,{\i1}So it's just like BTOOOM!?
+Dialogue: 99,0:16:55.40,0:16:56.45,Dialogue,,0,0,0,,{\i1}Calm down...
+Dialogue: 99,0:16:56.45,0:16:57.63,Dialogue,,0,0,0,,{\i1}Relax.
+Dialogue: 99,0:16:58.17,0:17:01.16,Dialogue,,0,0,0,,{\i1}I'm the ace of the world's #10 team.
+Dialogue: 99,0:17:01.95,0:17:04.03,Dialogue,,0,0,0,,{\i1}I can use bombs with timers!
+Dialogue: 99,0:17:08.73,0:17:10.13,Dialogue,,0,0,0,,{\i1}I can't move...
+Dialogue: 99,0:17:13.42,0:17:14.67,Dialogue,,0,0,0,,{\i1}I can't see him.
+Dialogue: 99,0:17:18.79,0:17:20.01,Dialogue,,0,0,0,,{\i1}Damn it!
+Dialogue: 99,0:17:20.01,0:17:23.20,Dialogue,,0,0,0,,{\i1}If this were the game... \NIf this were the game...!
+Dialogue: 99,0:17:24.10,0:17:26.20,Dialogue,,0,0,0,,{\i1}Then this is for real, huh?
+Dialogue: 99,0:17:26.81,0:17:28.76,Dialogue,,0,0,0,,{\i1}Tenth in the world?
+Dialogue: 99,0:17:29.64,0:17:32.98,Dialogue,,0,0,0,,{\i1}It's all just virtual glory...
+Dialogue: 99,0:17:34.74,0:17:36.77,Dialogue,,0,0,0,,Hey, coward!
+Dialogue: 99,0:17:38.38,0:17:42.61,Dialogue,,0,0,0,,I know you're hiding in that \Ncrack between the rocks!
+Dialogue: 99,0:17:43.66,0:17:44.86,Dialogue,,0,0,0,,{\i1}He doesn't know where I am?
+Dialogue: 99,0:17:44.86,0:17:45.87,Dialogue,,0,0,0,,{\i1}This is my chance.
+Dialogue: 99,0:17:46.45,0:17:48.09,Dialogue,,0,0,0,,Wait.
+Dialogue: 99,0:17:48.09,0:17:50.49,Dialogue,,0,0,0,,If he's in those bushes,
+Dialogue: 99,0:17:51.00,0:17:53.04,Dialogue,,0,0,0,,couldn't he blow me up from behind?
+Dialogue: 99,0:17:53.04,0:17:54.92,Dialogue,,0,0,0,,{\i1}Don't figure it out, damn it!
+Dialogue: 99,0:17:55.51,0:17:59.12,Dialogue,,0,0,0,,Well, it doesn't matter...
+Dialogue: 99,0:18:02.63,0:18:04.93,Dialogue,,0,0,0,,...if I throw bombs at both spots.
+Dialogue: 99,0:18:05.65,0:18:06.68,Dialogue,,0,0,0,,{\i1}I...
+Dialogue: 99,0:18:07.36,0:18:09.93,Dialogue,,0,0,0,,Farewell, coward.
+Dialogue: 99,0:18:10.69,0:18:12.31,Dialogue,,0,0,0,,{\i1}...have no choice.
+Dialogue: 99,0:18:20.77,0:18:21.99,Dialogue,,0,0,0,,Idiot!
+Dialogue: 99,0:18:21.99,0:18:24.11,Dialogue,,0,0,0,,Can you stay underwater forever?
+Dialogue: 99,0:18:24.11,0:18:27.11,Dialogue,,0,0,0,,When you surface for air, I'll nail you.
+Dialogue: 99,0:18:29.86,0:18:32.62,Dialogue,,0,0,0,,{\i1}7... 6... 5...
+Dialogue: 99,0:18:32.62,0:18:34.87,Dialogue,,0,0,0,,{\i1}4... 3...
+Dialogue: 99,0:19:06.80,0:19:09.19,Dialogue,,0,0,0,,I-I had no choice...
+Dialogue: 99,0:19:10.19,0:19:12.23,Dialogue,,0,0,0,,He would've killed me.
+Dialogue: 99,0:19:13.13,0:19:14.83,Dialogue,,0,0,0,,It was self-defense.
+Dialogue: 99,0:19:15.82,0:19:17.52,Dialogue,,0,0,0,,I didn't do anything wrong.
+Dialogue: 99,0:19:18.31,0:19:20.05,Dialogue,,0,0,0,,It's not my fault.
+Dialogue: 99,0:19:20.05,0:19:21.64,Dialogue,,0,0,0,,It's not...
+Dialogue: 99,0:19:24.01,0:19:25.72,Dialogue,,0,0,0,,His bombs.
+Dialogue: 99,0:19:29.10,0:19:32.70,Dialogue,,0,0,0,,{\i1}So I'm supposed to take them to survive?
+Dialogue: 99,0:19:33.76,0:19:36.48,Dialogue,,0,0,0,,{\i1}A game of murder, just like online.
+Dialogue: 99,0:19:36.94,0:19:38.31,Dialogue,,0,0,0,,{\i1}And...
+Dialogue: 99,0:19:38.67,0:19:40.66,Dialogue,,0,0,0,,{\i1}I have to play it in real life?
+Dialogue: 99,0:21:17.29,0:21:18.04,Dialogue,,0,0,0,,Excuse me,
+Dialogue: 99,0:21:18.54,0:21:19.87,Dialogue,,0,0,0,,Iida-senpai...
+Dialogue: 99,0:21:21.07,0:21:23.25,Dialogue,,0,0,0,,About what we discussed earlier.
+Dialogue: 99,0:21:23.70,0:21:26.83,Dialogue,,0,0,0,,About hiring me...
+Dialogue: 99,0:21:27.34,0:21:29.67,Dialogue,,0,0,0,,Oh, that.
+Dialogue: 99,0:21:29.99,0:21:32.81,Dialogue,,0,0,0,,Would you wait just a little longer?
+Dialogue: 99,0:21:33.63,0:21:35.67,Dialogue,,0,0,0,,The company's so busy right now.
+Dialogue: 99,0:21:37.36,0:21:38.54,Dialogue,,0,0,0,,Ryouta?
+Dialogue: 99,0:21:39.94,0:21:42.18,Dialogue,,0,0,0,,You're playing that game again.
+Dialogue: 99,0:21:42.69,0:21:43.60,Dialogue,,0,0,0,,Hey...
+Dialogue: 99,0:21:43.60,0:21:45.18,Dialogue,,0,0,0,,Don't open my door without knocking!
+Dialogue: 99,0:21:45.18,0:21:46.59,Dialogue,,0,0,0,,I did knock,
+Dialogue: 99,0:21:46.59,0:21:49.14,Dialogue,,0,0,0,,but you had those things on.
+Dialogue: 99,0:21:49.94,0:21:51.72,Dialogue,,0,0,0,,What, Sakamoto?
+Dialogue: 99,0:21:51.72,0:21:53.55,Dialogue,,0,0,0,,You're fighting with your mom again?
+Dialogue: 99,0:21:53.55,0:21:55.03,Dialogue,,0,0,0,,Lame...
+Dialogue: 99,0:21:55.03,0:21:56.45,Dialogue,,0,0,0,,It spoils all the fun.
+Dialogue: 99,0:21:58.04,0:22:00.22,Dialogue,,0,0,0,,I'm online now. Leave me alone...
+Dialogue: 99,0:22:00.22,0:22:01.79,Dialogue,,0,0,0,,We need to talk.
+Dialogue: 99,0:22:02.17,0:22:05.33,Dialogue,,0,0,0,,About a job for you...
+Dialogue: 99,0:22:05.33,0:22:07.95,Dialogue,,0,0,0,,I spoke with a relative of mine, Uncle Kazu,
+Dialogue: 99,0:22:07.95,0:22:11.01,Dialogue,,0,0,0,,to see if they could do anything for you.
+Dialogue: 99,0:22:11.52,0:22:14.65,Dialogue,,0,0,0,,You remember Uncle Kazu, right?
+Dialogue: 99,0:22:14.65,0:22:17.01,Dialogue,,0,0,0,,He currently runs an udon restaurant.
+Dialogue: 99,0:22:17.01,0:22:18.97,Dialogue,,0,0,0,,Leave me alone...
+Dialogue: 99,0:22:19.44,0:22:21.90,Dialogue,,0,0,0,,There's a job I already want.
+Dialogue: 99,0:22:23.00,0:22:26.56,Dialogue,,0,0,0,,You've been saying that for two years, \Nand you're still unemployed.
+Dialogue: 99,0:22:27.29,0:22:31.56,Dialogue,,0,0,0,,It's time to stop dreaming about \Nworking for a video game company.
+Dialogue: 99,0:22:31.85,0:22:34.31,Dialogue,,0,0,0,,Go out, and find a real job!
+Dialogue: 99,0:22:35.95,0:22:39.06,Dialogue,,0,0,0,,Can't I do that later?
+Dialogue: 99,0:22:39.43,0:22:42.17,Dialogue,,0,0,0,,I'm thinking about your future here!
+Dialogue: 99,0:22:42.39,0:22:44.42,Dialogue,,0,0,0,,Just get out!
+Dialogue: 99,0:22:58.46,0:22:59.10,Dialogue,,0,0,0,,{\i1}Un vis?
+Dialogue: 99,0:23:02.94,0:23:03.82,Dialogue,,0,0,0,,{\i1}Stai o clipă...
+Dialogue: 99,0:23:04.51,0:23:05.80,Dialogue,,0,0,0,,{\i1}Asta este lumea reală.
+Dialogue: 99,0:23:07.85,0:23:09.10,Dialogue,,0,0,0,,{\i1}Îmi este foame...
+Dialogue: 99,0:23:10.30,0:23:13.19,Dialogue,,0,0,0,,{\i1}Dacă stau bine să mă gândesc, \Nam vomitat tot ce am mâncat ieri.
+Dialogue: 99,0:24:06.83,0:24:10.01,Dialogue,,0,0,0,,Există un motiv pentru care \Nam ajuns pe această insulă.
+Dialogue: 99,0:24:10.70,0:24:11.88,Dialogue,,0,0,0,,Există un motiv pentru \Ncare nu mă pot întoarce.
+Dialogue: 99,0:24:12.75,0:24:15.32,Dialogue,,0,0,0,,Asta este pedeapsa mea.
+Dialogue: 99,0:24:16.15,0:24:17.50,Dialogue,,0,0,0,,Pedeapsa pentru trădarea mea.
+Dialogue: 99,0:24:18.53,0:24:20.39,Dialogue,,0,0,0,,{\pos(500,1015)}Dar chiar și așa...
 Dialogue: 0,0:04:18.23,0:04:18.27,KazuyaShuuSign,,0,0,0,,{=3}{\fnHeuristica\fs54\an1\frz30.7\pos(698.57,363.64)\blur2\bord1\shad2\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\alpha&H90&\b1\fax0.1\fay0.02}U{*\frz30.327\fay0.026\fax0.108}n {*\frz29.58\fay0.038\fax0.124}i{*\frz29.207\fay0.044\fax0.132}n{*\frz28.833\fay0.05\fax0.14}t{*\frz28.46\fay0.056\fax0.148}e{*\frz28.087\fay0.062\fax0.156}r{*\frz27.713\fay0.068\fax0.164}v{*\frz27.34\fay0.074\fax0.172}i{*\frz26.967\fay0.08\fax0.18}u {*\frz26.22\fay0.092\fax0.196}c{*\frz25.847\fay0.098\fax0.204}u {*\frz25.1\fay0.11\fax0.22}T{*\frz24.727\fay0.116\fax0.228}y{*\frz24.353\fay0.122\fax0.236}r{*\frz23.98\fay0.128\fax0.244}a{*\frz23.607\fay0.134\fax0.252}n{*\frz23.233\fay0.14\fax0.26}n{*\frz22.86\fay0.146\fax0.268}o{*\frz22.487\fay0.152\fax0.276}s {*\frz21.74\fay0.164\fax0.292}J{*\frz21.367\fay0.17\fax0.3}a{*\frz20.993\fay0.176\fax0.308}p{*\frz20.62\fay0.182\fax0.316}o{*\frz20.247\fay0.188\fax0.324}n{*\frz19.873\fay0.194\fax0.332}i{\frz19.5\fax0.34\fay0.2}a
 Dialogue: 1,0:04:18.23,0:04:18.27,KazuyaShuuSign,,0,0,0,,{=2}{\alpha&H00&\fnHeuristica\fs54\an1\frz30.7\pos(698.57,363.64)\blur1.1\c&H0C1113&\b1\fax0.1\fay0.02}U{*\frz30.327\fay0.026\fax0.108}n {*\frz29.58\fay0.038\fax0.124}i{*\frz29.207\fay0.044\fax0.132}n{*\frz28.833\fay0.05\fax0.14}t{*\frz28.46\fay0.056\fax0.148}e{*\frz28.087\fay0.062\fax0.156}r{*\frz27.713\fay0.068\fax0.164}v{*\frz27.34\fay0.074\fax0.172}i{*\frz26.967\fay0.08\fax0.18}u {*\frz26.22\fay0.092\fax0.196}c{*\frz25.847\fay0.098\fax0.204}u {*\frz25.1\fay0.11\fax0.22}T{*\frz24.727\fay0.116\fax0.228}y{*\frz24.353\fay0.122\fax0.236}r{*\frz23.98\fay0.128\fax0.244}a{*\frz23.607\fay0.134\fax0.252}n{*\frz23.233\fay0.14\fax0.26}n{*\frz22.86\fay0.146\fax0.268}o{*\frz22.487\fay0.152\fax0.276}s {*\frz21.74\fay0.164\fax0.292}J{*\frz21.367\fay0.17\fax0.3}a{*\frz20.993\fay0.176\fax0.308}p{*\frz20.62\fay0.182\fax0.316}o{*\frz20.247\fay0.188\fax0.324}n{*\frz19.873\fay0.194\fax0.332}i{\frz19.5\fax0.34\fay0.2}a
 Dialogue: 0,0:04:18.27,0:04:18.32,KazuyaShuuSign,,0,0,0,,{=3}{\fnHeuristica\fs54\an1\frz30.7\pos(699.5,363.64)\blur2\bord1\shad2\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\alpha&H90&\b1\fax0.1\fay0.02}U{*\frz30.327\fay0.026\fax0.108}n {*\frz29.58\fay0.038\fax0.124}i{*\frz29.207\fay0.044\fax0.132}n{*\frz28.833\fay0.05\fax0.14}t{*\frz28.46\fay0.056\fax0.148}e{*\frz28.087\fay0.062\fax0.156}r{*\frz27.713\fay0.068\fax0.164}v{*\frz27.34\fay0.074\fax0.172}i{*\frz26.967\fay0.08\fax0.18}u {*\frz26.22\fay0.092\fax0.196}c{*\frz25.847\fay0.098\fax0.204}u {*\frz25.1\fay0.11\fax0.22}T{*\frz24.727\fay0.116\fax0.228}y{*\frz24.353\fay0.122\fax0.236}r{*\frz23.98\fay0.128\fax0.244}a{*\frz23.607\fay0.134\fax0.252}n{*\frz23.233\fay0.14\fax0.26}n{*\frz22.86\fay0.146\fax0.268}o{*\frz22.487\fay0.152\fax0.276}s {*\frz21.74\fay0.164\fax0.292}J{*\frz21.367\fay0.17\fax0.3}a{*\frz20.993\fay0.176\fax0.308}p{*\frz20.62\fay0.182\fax0.316}o{*\frz20.247\fay0.188\fax0.324}n{*\frz19.873\fay0.194\fax0.332}i{\frz19.5\fax0.34\fay0.2}a

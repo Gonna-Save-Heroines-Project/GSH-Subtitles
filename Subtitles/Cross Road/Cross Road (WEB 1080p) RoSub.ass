@@ -28,27 +28,27 @@ Style: Cross Road TL,Gunny Manual Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Episod}
 Comment: 0,0:01:52.35,0:01:52.39,Default,chptr,0,0,0,,{Credits}
-Dialogue: 100,0:00:06.85,0:00:09.97,Default,,0,0,0,,{\i1}Nu este ca și cum vreau să trăiesc fericită până la adânci bătrâneți.
-Dialogue: 100,0:00:11.13,0:00:14.58,Default,,0,0,0,,{\i1}Sau că vreau să mi se promită ceva sigur.
-Dialogue: 100,0:00:15.90,0:00:17.97,Default,,0,0,0,,{\i1}Dar lăsând asta de o parte...
-Dialogue: 100,0:00:18.74,0:00:21.22,Default,,0,0,0,,{\i1}Undeva departe ar trebui să fie...
-Dialogue: 100,0:00:22.20,0:00:25.29,Default,,0,0,0,,{\i1}locul unde vreau să fiu.
-Dialogue: 100,0:00:22.20,0:00:25.29,Default,,0,0,0,,{\pos(960,487)\i1}locul unde vreau să fiu.
-Dialogue: 100,0:00:33.90,0:00:36.73,Default,,0,0,0,,Nu trebuie să bați tot drumul până la o universitate din Tokyo.
-Dialogue: 100,0:00:36.73,0:00:38.94,Default,,0,0,0,,Nu avem școli de pregătire \Naici care să te ajute.
-Dialogue: 100,0:00:39.37,0:00:40.99,Default,,0,0,0,,Fir-ar. Trebuie să ajung la meditații.
-Dialogue: 100,0:00:40.99,0:00:41.94,Default,,0,0,0,,Ne mai vedem.
-Dialogue: 100,0:00:43.36,0:00:44.97,Default,,0,0,0,,Nu are admiterea la \Nfacultate anul acesta?
-Dialogue: 100,0:00:44.59,0:00:45.77,Default,,0,0,0,,{\an8}Vă mulțumim.
-Dialogue: 100,0:00:44.97,0:00:47.34,Default,,0,0,0,,Mă întreb oare când mai \Nare timp și de învățat...
-Dialogue: 100,0:00:55.21,0:00:56.28,Default,,0,0,0,,Ce?
-Dialogue: 100,0:00:56.28,0:00:57.22,Default,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:00:57.22,0:01:00.18,Default,,0,0,0,,Nimic, doar că aceștia doi \Nsunt atât de asemănători.
-Dialogue: 100,0:01:00.18,0:01:02.68,Default,,0,0,0,,Aceleași greșeli simple, \Nacelași raționament.
-Dialogue: 100,0:01:21.44,0:01:23.13,Default,,0,0,0,,Să nu fii prea dezamăgită \Ndacă cumva nu intri.
-Dialogue: 100,0:01:23.13,0:01:24.97,Default,,0,0,0,,Vai... Am plecat!
-Dialogue: 100,0:01:24.97,0:01:26.35,Default,,0,0,0,,Am plecat.
-Dialogue: 100,0:01:29.40,0:01:33.60,Default,,0,0,0,,O, este astăzi, nu-i așa? \NMă întreb cum s-au descurcat cei doi...
+Dialogue: 99,0:00:06.85,0:00:09.97,Default,,0,0,0,,{\i1}Nu este ca și cum vreau să trăiesc fericită până la adânci bătrâneți.
+Dialogue: 99,0:00:11.13,0:00:14.58,Default,,0,0,0,,{\i1}Sau că vreau să mi se promită ceva sigur.
+Dialogue: 99,0:00:15.90,0:00:17.97,Default,,0,0,0,,{\i1}Dar lăsând asta de o parte...
+Dialogue: 99,0:00:18.74,0:00:21.22,Default,,0,0,0,,{\i1}Undeva departe ar trebui să fie...
+Dialogue: 99,0:00:22.20,0:00:25.29,Default,,0,0,0,,{\i1}locul unde vreau să fiu.
+Dialogue: 99,0:00:22.20,0:00:25.29,Default,,0,0,0,,{\pos(960,487)\i1}locul unde vreau să fiu.
+Dialogue: 99,0:00:33.90,0:00:36.73,Default,,0,0,0,,Nu trebuie să bați tot drumul până la o universitate din Tokyo.
+Dialogue: 99,0:00:36.73,0:00:38.94,Default,,0,0,0,,Nu avem școli de pregătire \Naici care să te ajute.
+Dialogue: 99,0:00:39.37,0:00:40.99,Default,,0,0,0,,Fir-ar. Trebuie să ajung la meditații.
+Dialogue: 99,0:00:40.99,0:00:41.94,Default,,0,0,0,,Ne mai vedem.
+Dialogue: 99,0:00:43.36,0:00:44.97,Default,,0,0,0,,Nu are admiterea la \Nfacultate anul acesta?
+Dialogue: 99,0:00:44.59,0:00:45.77,Default,,0,0,0,,{\an8}Vă mulțumim.
+Dialogue: 99,0:00:44.97,0:00:47.34,Default,,0,0,0,,Mă întreb oare când mai \Nare timp și de învățat...
+Dialogue: 99,0:00:55.21,0:00:56.28,Default,,0,0,0,,Ce?
+Dialogue: 99,0:00:56.28,0:00:57.22,Default,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:00:57.22,0:01:00.18,Default,,0,0,0,,Nimic, doar că aceștia doi \Nsunt atât de asemănători.
+Dialogue: 99,0:01:00.18,0:01:02.68,Default,,0,0,0,,Aceleași greșeli simple, \Nacelași raționament.
+Dialogue: 99,0:01:21.44,0:01:23.13,Default,,0,0,0,,Să nu fii prea dezamăgită \Ndacă cumva nu intri.
+Dialogue: 99,0:01:23.13,0:01:24.97,Default,,0,0,0,,Vai... Am plecat!
+Dialogue: 99,0:01:24.97,0:01:26.35,Default,,0,0,0,,Am plecat.
+Dialogue: 99,0:01:29.40,0:01:33.60,Default,,0,0,0,,O, este astăzi, nu-i așa? \NMă întreb cum s-au descurcat cei doi...
 Dialogue: 0,0:00:52.39,0:00:54.02,DedzuyaSigns,,0,0,0,,{\an2\pos(503.511,257.915)\frz359.4\fry2\frx1\fax0.02\fnAlte Haas Grotesk\fs30\fsp1\b1\c&H75A472&\blur0.6\clip(m 379 255 l 627 258 626 233 380 229)}Stația Shibuya
 Dialogue: 0,0:01:03.10,0:01:03.14,DedzuyaSigns,,0,0,0,,{=1}{\pos(1239.63,700.35)\fscx100.33\fscy100.33\frz13.05\frx5\fax0.32\fnAlyssa Kayla\fs70\c&H291F49&\alpha&H20&\blur1\clip(m 1258.65 739.78 b 1377.65 636.78 1409.65 604.78 1483.65 550.78 l 1650.65 574.78 1642.65 734.78)}T{\blur1.05}e{\blur1.1}-{\blur1.15}a{\blur1.2}i {\blur1.3}d{\blur1.35}e{\blur1.4}s{\blur1.45}c{\blur1.5}u{\blur1.55}r{\blur1.6}c{\blur1.65}a{\blur1.7}t {\blur1.8}b{\blur1.85}i{\blur1.9}n{\blur1.95}e{\blur2}!
 Dialogue: 0,0:01:03.14,0:01:03.18,DedzuyaSigns,,0,0,0,,{=1}{\pos(1236.98,690.57)\fscx100.43\fscy100.43\frz12.79\frx5\fax0.32\fnAlyssa Kayla\fs70\c&H291F49&\alpha&H20&\blur1\clip(m 1256 730 b 1375 627 1407 595 1481 541 l 1648 565 1640 725)}T{\blur1.05}e{\blur1.1}-{\blur1.15}a{\blur1.2}i {\blur1.3}d{\blur1.35}e{\blur1.4}s{\blur1.45}c{\blur1.5}u{\blur1.55}r{\blur1.6}c{\blur1.65}a{\blur1.7}t {\blur1.8}b{\blur1.85}i{\blur1.9}n{\blur1.95}e{\blur2}!

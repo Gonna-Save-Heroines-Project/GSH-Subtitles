@@ -29,23 +29,23 @@ Style: Song TL,Turkeyface,84,&H00FFFFFF,&H000000FF,&H00A47A6A,&H00000000,-1,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:05:44.99,Default,,0,0,0,chptr,{Episod}
 Comment: 0,0:05:44.99,0:06:07.34,Default,,0,0,0,chptr,{Credite}
-Dialogue: 100,0:00:03.25,0:00:06.36,Default,,0,0,0,,{\i1}Ce se va întâmpla cu \Nmine de acum înainte?
-Dialogue: 100,0:00:11.42,0:00:14.72,Default,,0,0,0,,{\i1}După un timp, am încetat \Nsă mă mai gândesc la asta.
-Dialogue: 100,0:00:16.62,0:00:17.99,Default,,0,0,0,,{\i1}Poate că am uitat complet...
-Dialogue: 100,0:00:22.12,0:00:25.09,Default,,0,0,0,,{\i1}cum să mai gândesc.
-Dialogue: 100,0:00:29.42,0:00:31.13,Default,,0,0,0,,{\i1}Nimic nu se schimbă.
-Dialogue: 100,0:00:31.13,0:00:33.51,Default,,0,0,0,,{\i1}Lumea asta care îmi \Naparține numai mie,
-Dialogue: 100,0:00:33.51,0:00:36.43,Default,,0,0,0,,{\i1}zi de zi, continuă.
-Dialogue: 100,0:00:37.72,0:00:40.39,Default,,0,0,0,,{\i1}Dar nu mă simt singură.
-Dialogue: 100,0:00:41.43,0:00:43.21,Default,,0,0,0,,{\i1}Asta nu mă deranjează deloc.
-Dialogue: 100,0:04:57.94,0:05:02.19,Default,,0,0,0,,{\i1}Chiar dacă aceste \Namintiri mă întristează,
-Dialogue: 100,0:05:02.57,0:05:05.26,Default,,0,0,0,,{\i1}trebuie să merg înainte, \Ncrezând în viitor.
-Dialogue: 100,0:05:06.03,0:05:08.39,Default,,0,0,0,,{\i1}Chiar și când îmi dau \Nseama de singurătatea mea
-Dialogue: 100,0:05:08.99,0:05:10.97,Default,,0,0,0,,{\i1}și sunt pe cale să-mi \Npierd orice speranță,
-Dialogue: 100,0:05:11.99,0:05:17.17,Default,,0,0,0,,{\i1}aceste amintiri mă \Nfac mai puternică.
-Dialogue: 100,0:05:19.00,0:05:20.29,Default,,0,0,0,,{\i1}Nu sunt singură...
-Dialogue: 100,0:05:21.25,0:05:23.07,Default,,0,0,0,,{\i1}datorită ție.
-Dialogue: 100,0:05:40.36,0:05:42.09,Default,,0,0,0,,{\i1}Îți mulțumesc.
+Dialogue: 99,0:00:03.25,0:00:06.36,Default,,0,0,0,,{\i1}Ce se va întâmpla cu \Nmine de acum înainte?
+Dialogue: 99,0:00:11.42,0:00:14.72,Default,,0,0,0,,{\i1}După un timp, am încetat \Nsă mă mai gândesc la asta.
+Dialogue: 99,0:00:16.62,0:00:17.99,Default,,0,0,0,,{\i1}Poate că am uitat complet...
+Dialogue: 99,0:00:22.12,0:00:25.09,Default,,0,0,0,,{\i1}cum să mai gândesc.
+Dialogue: 99,0:00:29.42,0:00:31.13,Default,,0,0,0,,{\i1}Nimic nu se schimbă.
+Dialogue: 99,0:00:31.13,0:00:33.51,Default,,0,0,0,,{\i1}Lumea asta care îmi \Naparține numai mie,
+Dialogue: 99,0:00:33.51,0:00:36.43,Default,,0,0,0,,{\i1}zi de zi, continuă.
+Dialogue: 99,0:00:37.72,0:00:40.39,Default,,0,0,0,,{\i1}Dar nu mă simt singură.
+Dialogue: 99,0:00:41.43,0:00:43.21,Default,,0,0,0,,{\i1}Asta nu mă deranjează deloc.
+Dialogue: 99,0:04:57.94,0:05:02.19,Default,,0,0,0,,{\i1}Chiar dacă aceste \Namintiri mă întristează,
+Dialogue: 99,0:05:02.57,0:05:05.26,Default,,0,0,0,,{\i1}trebuie să merg înainte, \Ncrezând în viitor.
+Dialogue: 99,0:05:06.03,0:05:08.39,Default,,0,0,0,,{\i1}Chiar și când îmi dau \Nseama de singurătatea mea
+Dialogue: 99,0:05:08.99,0:05:10.97,Default,,0,0,0,,{\i1}și sunt pe cale să-mi \Npierd orice speranță,
+Dialogue: 99,0:05:11.99,0:05:17.17,Default,,0,0,0,,{\i1}aceste amintiri mă \Nfac mai puternică.
+Dialogue: 99,0:05:19.00,0:05:20.29,Default,,0,0,0,,{\i1}Nu sunt singură...
+Dialogue: 99,0:05:21.25,0:05:23.07,Default,,0,0,0,,{\i1}datorită ție.
+Dialogue: 99,0:05:40.36,0:05:42.09,Default,,0,0,0,,{\i1}Îți mulțumesc.
 Dialogue: 0,0:00:47.08,0:00:49.11,KazuyaShuuSigns,,0,0,0,,{\pos(1135.143,708.857)\frz327\frx0.5\fax0.02\fnFuture n0t Found\fs66\shad3\c&HC0A78C&\4a&HDD&\blur1.2}N{\c&HC1A98F&}i{\c&HC1AB93&}c{\c&HC2AD96&}i{\c&HC3B09A&}u{\c&HC4B29D&}n {\c&HC5B6A4&}m{\c&HC5B4A1&}e{\c&HC5B29D&}s{\c&HC5B09A&}a{\c&HC5AE96&}j {\c&HC6AA8F&}î{\c&HC6A88C&}n {\c&HC6A485&}2{\c&HC6A281&}5{\c&HC6A07E&}3{\c&HC6A180&}9 {\c&HC7A482&}d{\c&HC7A584&}e {\c&HC7A887&}z{\c&HC7A988&}i{\c&HC8AA8A&}l{\c&HC8AC8C&}e{\c&HC8AD8D&}.
 Dialogue: 0,0:03:23.22,0:03:24.47,KazuyaShuuSigns,,0,0,0,,{\pos(858.182,550.909)\frz41.43\fry4\frx10\fax0.36\fnFuture n0t Found\fs34\shad3\c&HBBA592&\4a&HDD&\blur1.1}N{\c&HBBA694&}i{\c&HBBA897&}c{\c&HBBA999&}i{\c&HBBAB9C&}u{\c&HBBAC9E&}n {\c&HBBAA9A&}m{\c&HBAA898&}e{\c&HBAA795&}s{\c&HBAA693&}a{\c&HBAA491&}j {\c&HBAA28D&}î{\c&HBAA18A&}n {\c&HB99E86&}2{\c&HB99D84&}5{\c&HB99E85&}7{\c&HB99F86&}8 {\c&HB9A089&}d{\c&HB9A18A&}e {\c&HB8A38C&}z{\c&HB8A48D&}i{\c&HB8A48F&}l{\c&HB8A590&}e{\c&HB8A691&}.
 Dialogue: 0,0:03:54.54,0:03:56.04,KazuyaShuuSigns,,0,0,0,,{\pos(1528.612,797.714)\frz347.2\fax0.03\fnLato\fs72\b1\bord4.8\shad4\xshad-4\c&HBAB7B4&\3c&HBAB7B4&\4a&HCC&\blur2}Situația Actuală din Tokyo

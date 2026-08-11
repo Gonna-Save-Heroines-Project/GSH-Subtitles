@@ -42,350 +42,350 @@ Style: Status Text,Arial,30,&H28FFFFFF,&H000000FF,&H00000000,&HA0000000,0,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.24,0:00:03.48,Main,INNKEEPER,0,0,0,,You want to move to a two-person room?
-Dialogue: 100,0:00:03.87,0:00:06.22,Main,MICHIO,0,0,0,,Yeah. I'll need meals for two as well.
-Dialogue: 100,0:00:08.50,0:00:10.48,Main,INNKEEPER,0,0,0,,You're okay with a double, right?
-Dialogue: 100,0:00:10.48,0:00:14.24,Main,MICHIO,0,0,0,,What? Yeah, that's fine.
-Dialogue: 100,0:01:46.71,0:01:48.00,Main,MICHIO,0,0,0,,Huh..
-Dialogue: 100,0:01:48.22,0:01:50.94,Main,MICHIO,0,0,0,,I guess it's a little bigger \Nthan my previous room.
-Dialogue: 100,0:01:57.12,0:02:00.24,Italics,MICHIO,0,0,0,,She seems nervous, or rather...
-Dialogue: 100,0:02:00.24,0:02:02.43,Main,MICHIO,0,0,0,,Why don't you put your stuff down?
-Dialogue: 100,0:02:02.43,0:02:04.06,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:02:05.52,0:02:07.85,Main,MICHIO,0,0,0,,Is she a little scared?
-Dialogue: 100,0:02:10.05,0:02:10.98,Main,MICHIO,0,0,0,,Your ears...
-Dialogue: 100,0:02:12.11,0:02:13.03,Main,ROXANNE,0,0,0,,Yes?
-Dialogue: 100,0:02:13.03,0:02:14.69,Main,MICHIO,0,0,0,,Can I touch them?
-Dialogue: 100,0:02:14.69,0:02:16.78,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:02:19.34,0:02:22.20,Italics,MICHIO,0,0,0,,This is just friendly physical contact.
-Dialogue: 100,0:02:22.20,0:02:24.29,Italics,MICHIO,0,0,0,,Physical contact between \Nfriends is important.
-Dialogue: 100,0:02:24.29,0:02:27.29,Italics,MICHIO,0,0,0,,Don't get any weird ideas.
-Dialogue: 100,0:02:27.29,0:02:32.47,Italics,MICHIO,0,0,0,,Suppress your urges, suppress your \Nurges, suppress your urges...
-Dialogue: 100,0:02:32.47,0:02:35.17,Italics,MICHIO,0,0,0,,Crap, I'm addicted.
-Dialogue: 100,0:02:35.37,0:02:36.78,Italics,MICHIO,0,0,0,,So cute.
-Dialogue: 100,0:02:36.78,0:02:38.04,Main,ROXANNE,0,0,0,,Um, excuse me.
-Dialogue: 100,0:02:38.04,0:02:39.54,Main,MICHIO,0,0,0,,What is it?
-Dialogue: 100,0:02:39.54,0:02:43.14,Main,ROXANNE,0,0,0,,Shall I continue calling you Master?
-Dialogue: 100,0:02:43.52,0:02:46.90,Italics,MICHIO,0,0,0,,M-a-s-t-e-r!
-Dialogue: 100,0:02:48.06,0:02:49.73,Main,MICHIO,0,0,0,,Roxanne!
-Dialogue: 100,0:02:53.28,0:02:57.09,Italics,MICHIO,0,0,0,,Crap. Why am I trying to scare her even more?
-Dialogue: 100,0:02:57.09,0:03:02.28,Main,MICHIO,0,0,0,,Anyway, there's only one \Nbed in this room, huh?
-Dialogue: 100,0:03:02.28,0:03:02.91,Main,ROXANNE,0,0,0,,What?
-Dialogue: 100,0:03:03.29,0:03:04.14,Main,MICHIO,0,0,0,,What?
-Dialogue: 100,0:03:04.14,0:03:07.16,Main,ROXANNE,0,0,0,,You're the one who requested that.
-Dialogue: 100,0:03:07.16,0:03:08.29,Main,MICHIO,0,0,0,,What?
-Dialogue: 100,0:03:08.54,0:03:11.21,Italics,MICHIO,0,0,0,,So that's what he meant by "double."
-Dialogue: 100,0:03:11.21,0:03:13.75,Italics,MICHIO,0,0,0,,He would've said "twin" \Nif there were two beds.
-Dialogue: 100,0:03:14.10,0:03:15.92,Flashback,INNKEEPER,0,0,0,,You're okay with a double, right?
-Dialogue: 100,0:03:15.92,0:03:18.21,Italics,MICHIO,0,0,0,,He knew what he was doing.
-Dialogue: 100,0:03:18.54,0:03:20.27,Italics,MICHIO,0,0,0,,Good job.
-Dialogue: 100,0:03:20.87,0:03:22.78,Italics,MICHIO,0,0,0,,So that's why she's scared.
-Dialogue: 100,0:03:24.09,0:03:25.20,Main,MICHIO,0,0,0,,Roxanne.
-Dialogue: 100,0:03:26.77,0:03:28.56,Main,ROXANNE,0,0,0,,What is it, Master?
-Dialogue: 100,0:03:29.15,0:03:35.11,Main,MICHIO,0,0,0,,You wouldn't believe me if I told \Nyou how far away my homeland is.
-Dialogue: 100,0:03:36.52,0:03:38.48,Main,ROXANNE,0,0,0,,Is that right?
-Dialogue: 100,0:03:38.48,0:03:43.41,Main,MICHIO,0,0,0,,Yeah. So I'm not really familiar \Nwith what's considered normal here.
-Dialogue: 100,0:03:44.03,0:03:46.26,Main,MICHIO,0,0,0,,I'd appreciate it if you could teach me.
-Dialogue: 100,0:03:46.78,0:03:48.44,Main,ROXANNE,0,0,0,,Understood.
-Dialogue: 100,0:03:48.44,0:03:51.66,Main,MICHIO,0,0,0,,Also, you may have heard that
-Dialogue: 100,0:03:51.66,0:03:56.17,Main,MICHIO,0,0,0,,I'll be bringing you into the labyrinth \Nwith me, so keep that in mind.
-Dialogue: 100,0:03:58.05,0:03:59.67,Main,ROXANNE,0,0,0,,You can count on me.
-Dialogue: 100,0:03:59.94,0:04:02.46,Main,ROXANNE,0,0,0,,I believe I can be useful to you in battle.
-Dialogue: 100,0:04:06.00,0:04:08.88,Main,MICHIO,0,0,0,,You're rather confident.
-Dialogue: 100,0:04:16.99,0:04:19.12,Main,MICHIO,0,0,0,,Roxanne, where are your shoes?
-Dialogue: 100,0:04:20.13,0:04:22.07,Main,ROXANNE,0,0,0,,I don't have any.
-Dialogue: 100,0:04:22.07,0:04:24.64,Main,MICHIO,0,0,0,,What? You've been barefoot?
-Dialogue: 100,0:04:24.64,0:04:26.69,Main,MICHIO,0,0,0,,While we were walking outside, too?
-Dialogue: 100,0:04:26.69,0:04:28.33,Main,ROXANNE,0,0,0,,Yes?
-Dialogue: 100,0:04:28.33,0:04:31.33,Italics,MICHIO,0,0,0,,I totally didn't notice.
-Dialogue: 100,0:04:31.76,0:04:34.00,Main,MICHIO,0,0,0,,Why don't you wear these for now?
-Dialogue: 100,0:04:34.00,0:04:35.58,Main,ROXANNE,0,0,0,,Are you sure?
-Dialogue: 100,0:04:35.58,0:04:36.29,Main,MICHIO,0,0,0,,Yeah.
-Dialogue: 100,0:04:38.53,0:04:40.79,Main,MICHIO,0,0,0,,Well? They're not too big, are they?
-Dialogue: 100,0:04:40.79,0:04:42.06,Main,ROXANNE,0,0,0,,It's all right.
-Dialogue: 100,0:04:45.19,0:04:49.14,Main,ROXANNE,0,0,0,,Equipment is made to fit the wearer.
-Dialogue: 100,0:04:49.14,0:04:51.14,Main,MICHIO,0,0,0,,Is that normal here?
-Dialogue: 100,0:04:51.14,0:04:55.10,Main,ROXANNE,0,0,0,,Yes. Thank you, Master.
-Dialogue: 100,0:04:56.49,0:05:00.11,Main,ROXANNE,0,0,0,,I'll treasure my first gift from you.
-Dialogue: 100,0:05:10.96,0:05:13.54,Italics,MICHIO,0,0,0,,Of course she tensed up.
-Dialogue: 100,0:05:14.29,0:05:16.84,Italics,MICHIO,0,0,0,,But she doesn't seem to be resisting.
-Dialogue: 100,0:05:17.54,0:05:20.90,Italics,MICHIO,0,0,0,,Maybe it's because she's \Naccepted her fate as a slave,
-Dialogue: 100,0:05:20.90,0:05:22.64,Italics,MICHIO,0,0,0,,but I don't know how she really feels.
-Dialogue: 100,0:05:22.64,0:05:24.54,Italics,MICHIO,0,0,0,,But still...
-Dialogue: 100,0:05:25.00,0:05:26.84,Main,MICHIO,0,0,0,,I'm not letting you get away.
-Dialogue: 100,0:05:26.84,0:05:28.55,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:05:29.57,0:05:31.81,Main,MICHIO,0,0,0,,For your equipment,
-Dialogue: 100,0:05:31.81,0:05:35.78,Main,MICHIO,0,0,0,,you can use one of the swords I have, \Nbut what about protective gear?
-Dialogue: 100,0:05:35.78,0:05:38.33,Main,ROXANNE,0,0,0,,I don't mind using your spare equipment.
-Dialogue: 100,0:05:38.33,0:05:39.92,Main,ROXANNE,0,0,0,,Do you have a shield?
-Dialogue: 100,0:05:39.92,0:05:41.94,Main,MICHIO,0,0,0,,Come to think of it, I don't.
-Dialogue: 100,0:05:42.18,0:05:44.94,Main,ROXANNE,0,0,0,,Then I'd like one wooden shield, please.
-Dialogue: 100,0:05:45.23,0:05:47.45,Main,MICHIO,0,0,0,,A wooden shield, huh?
-Dialogue: 100,0:05:47.45,0:05:49.90,Italics,ROXANNE,0,0,0,,Stare...
-Dialogue: 100,0:05:51.94,0:05:53.33,Italics,MICHIO,0,0,0,,She's staring really intently.
-Dialogue: 100,0:05:53.33,0:05:56.34,Italics,MICHIO,0,0,0,,I'm glad she's taking this seriously, but...
-Dialogue: 100,0:05:57.43,0:06:01.34,Main,MICHIO,0,0,0,,This one, this one, and \Nthis one are good products.
-Dialogue: 100,0:06:01.34,0:06:03.60,Main,ROXANNE,0,0,0,,You can tell?
-Dialogue: 100,0:06:03.60,0:06:04.84,Main,MICHIO,0,0,0,,Yeah.
-Dialogue: 100,0:06:07.59,0:06:09.84,Italics,MICHIO,0,0,0,,She's really particular about this.
-Dialogue: 100,0:06:11.72,0:06:13.35,Main,ROXANNE,0,0,0,,I'd like this one, please.
-Dialogue: 100,0:06:13.35,0:06:15.35,Main,MICHIO,0,0,0,,All right. Onto the next item, then.
-Dialogue: 100,0:06:17.88,0:06:19.20,Main,MICHIO,0,0,0,,We'd like these, please.
-Dialogue: 100,0:06:19.20,0:06:21.11,Main,ARMOR VENDOR,0,0,0,,Thank you.
-Dialogue: 100,0:06:21.32,0:06:27.16,Main,MICHIO,0,0,0,,A set of protective equipment, olive oil, \Ncanteens, backpacks, socks, towels,
-Dialogue: 100,0:06:27.16,0:06:29.77,Main,MICHIO,0,0,0,,koichi fruit, and shukure branches.
-Dialogue: 100,0:06:30.20,0:06:32.26,Main,MICHIO,0,0,0,,We bought everything we need.
-Dialogue: 100,0:06:32.26,0:06:33.03,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:06:33.03,0:06:34.12,Main,MICHIO,0,0,0,,That just leaves...
-Dialogue: 100,0:06:34.44,0:06:39.00,Italics,MICHIO,0,0,0,,I threw out the cloak I bought before \Nbecause it was covered in blood.
-Dialogue: 100,0:06:41.67,0:06:44.17,Main,MICHIO,0,0,0,,Do we really need these?
-Dialogue: 100,0:06:44.17,0:06:48.02,Main,ROXANNE,0,0,0,,They're good to have on rainy days.
-Dialogue: 100,0:06:48.02,0:06:50.60,Main,MICHIO,0,0,0,,I see. In that case, I'll get this one.
-Dialogue: 100,0:06:50.60,0:06:53.05,Main,MICHIO,0,0,0,,Roxanne, you can choose \None to your liking, too.
-Dialogue: 100,0:06:53.49,0:06:54.94,Main,ROXANNE,0,0,0,,Are you sure?
-Dialogue: 100,0:06:55.56,0:06:58.17,Italics,ROXANNE,0,0,0,,Stare...
-Dialogue: 100,0:06:58.56,0:07:01.56,Italics,MICHIO,0,0,0,,This is gonna take a while.
-Dialogue: 100,0:07:01.56,0:07:03.66,Italics,MICHIO,0,0,0,,Not that it matters.
-Dialogue: 100,0:07:03.66,0:07:05.09,Italics,MICHIO,0,0,0,,She's pretty and cute.
-Dialogue: 100,0:07:05.09,0:07:07.24,Italics,MICHIO,0,0,0,,I'm happy to pass the time watching her.
-Dialogue: 100,0:07:07.24,0:07:08.57,Main,ROXANNE,0,0,0,,Master.
-Dialogue: 100,0:07:08.81,0:07:09.55,Main,MICHIO,0,0,0,,Hm?
-Dialogue: 100,0:07:09.55,0:07:11.57,Main,ROXANNE,0,0,0,,Which one do you prefer?
-Dialogue: 100,0:07:13.04,0:07:15.58,Italics,MICHIO,0,0,0,,I'm being tested here?
-Dialogue: 100,0:07:15.83,0:07:20.41,Italics,MICHIO,0,0,0,,If she's asking me, then she \Nprobably already has her answer.
-Dialogue: 100,0:07:20.41,0:07:23.37,Italics,MICHIO,0,0,0,,If I choose wrong, I'll lose her trust.
-Dialogue: 100,0:07:23.37,0:07:26.59,Italics,MICHIO,0,0,0,,"The cheaper one" is definitely \Nnot the right answer.
-Dialogue: 100,0:07:26.59,0:07:29.14,Italics,MICHIO,0,0,0,,Think. Think, Michio.
-Dialogue: 100,0:07:29.53,0:07:30.59,Main,MICHIO,0,0,0,,Well...
-Dialogue: 100,0:07:30.88,0:07:34.43,Italics,MICHIO,0,0,0,,She's been carrying that one for a while.
-Dialogue: 100,0:07:34.43,0:07:37.44,Italics,MICHIO,0,0,0,,She must've been holding onto \Nit because she liked it.
-Dialogue: 100,0:07:37.44,0:07:38.22,Italics,MICHIO,0,0,0,,In that case...
-Dialogue: 100,0:07:38.22,0:07:41.61,Main,MICHIO,0,0,0,,This one is looser and more stylish.
-Dialogue: 100,0:07:41.61,0:07:44.11,Main,MICHIO,0,0,0,,It's a delicate and subdued color, too.
-Dialogue: 100,0:07:44.11,0:07:45.56,Main,ROXANNE,0,0,0,,Is that right?
-Dialogue: 100,0:07:45.94,0:07:48.00,Italics,MICHIO,0,0,0,,Did I get it wrong?
-Dialogue: 100,0:07:48.00,0:07:52.40,Main,ROXANNE,0,0,0,,This one is better made, \Nbut the color is a bit heavy.
-Dialogue: 100,0:07:52.40,0:07:54.36,Main,ROXANNE,0,0,0,,But you're right.
-Dialogue: 100,0:07:54.36,0:07:57.84,Main,ROXANNE,0,0,0,,Now that you mention it, \Na subdued color could be good.
-Dialogue: 100,0:07:57.84,0:08:02.41,Italics,MICHIO,0,0,0,,I see. She was having trouble deciding\Nbetween better quality or better color.
-Dialogue: 100,0:08:02.41,0:08:04.64,Main,ROXANNE,0,0,0,,Very well. I'll get this one.
-Dialogue: 100,0:08:04.64,0:08:06.34,Italics,MICHIO,0,0,0,,I passed the test.
-Dialogue: 100,0:08:07.18,0:08:08.87,Main,MICHIO,0,0,0,,Is there anything else you need?
-Dialogue: 100,0:08:09.71,0:08:11.32,Main,ROXANNE,0,0,0,,No, nothing else.
-Dialogue: 100,0:08:11.87,0:08:14.82,Main,MICHIO,0,0,0,,If there's anything you need, don't be shy.
-Dialogue: 100,0:08:14.82,0:08:18.81,Main,MICHIO,0,0,0,,Besides, today's a special day to remember.
-Dialogue: 100,0:08:19.95,0:08:24.27,Main,ROXANNE,0,0,0,,In that case, may I purchase \Nsome undergarments?
-Dialogue: 100,0:08:24.97,0:08:26.94,Main,MICHIO,0,0,0,,Undergarments?
-Dialogue: 100,0:08:29.11,0:08:31.44,Italics,MICHIO,0,0,0,,Does she mean underwear?!
-Dialogue: 100,0:08:31.44,0:08:36.60,Italics,MICHIO,0,0,0,,No, no. This world doesn't have \Nthat kind of bras or panties.
-Dialogue: 100,0:08:36.60,0:08:40.63,Main,ROXANNE,0,0,0,,I actually only have the \Nones I'm wearing right now.
-Dialogue: 100,0:08:40.63,0:08:43.46,Main,MICHIO,0,0,0,,Then you'll need a spare \Nset, too. Get two.
-Dialogue: 100,0:08:44.35,0:08:46.78,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
-Dialogue: 100,0:08:48.11,0:08:50.25,Main,MICHIO,0,0,0,,Now we've bought everything, right?
-Dialogue: 100,0:08:50.54,0:08:51.32,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:08:51.32,0:08:55.14,Main,MICHIO,0,0,0,,Then, let's head back to the inn.
-Dialogue: 100,0:08:58.74,0:08:59.64,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:09:10.48,0:09:11.75,Main,MICHIO,0,0,0,,You can have a seat.
-Dialogue: 100,0:09:12.91,0:09:13.61,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:09:14.50,0:09:16.52,Main,MICHIO,0,0,0,,Not on the floor.
-Dialogue: 100,0:09:17.54,0:09:18.95,Main,MICHIO,0,0,0,,Come here.
-Dialogue: 100,0:09:18.95,0:09:22.09,Main,ROXANNE,0,0,0,,But that's your bed, Master.
-Dialogue: 100,0:09:25.42,0:09:26.75,Main,MICHIO,0,0,0,,Don't worry about it.
-Dialogue: 100,0:09:27.05,0:09:30.08,Main,MICHIO,0,0,0,,You'll be sleeping here, too.
-Dialogue: 100,0:09:30.72,0:09:34.76,Main,ROXANNE,0,0,0,,I shall use the bed while \Naccepting your affection,
-Dialogue: 100,0:09:34.76,0:09:37.00,Main,ROXANNE,0,0,0,,but I don't mind sleeping on the floor.
-Dialogue: 100,0:09:37.00,0:09:38.76,Main,MICHIO,0,0,0,,Is that normal in this world?
-Dialogue: 100,0:09:38.76,0:09:42.32,Main,ROXANNE,0,0,0,,I've heard that's what some masters do.
-Dialogue: 100,0:09:42.32,0:09:46.33,Main,MICHIO,0,0,0,,Then, I'll pass. It seems cold \Nand kind of a hassle.
-Dialogue: 100,0:09:46.99,0:09:49.50,Main,MICHIO,0,0,0,,Let's sleep together on the bed.
-Dialogue: 100,0:09:50.12,0:09:50.77,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:09:52.44,0:09:53.82,Main,ROXANNE,0,0,0,,Um...
-Dialogue: 100,0:09:54.76,0:09:55.98,Main,ROXANNE,0,0,0,,There's still some daylight left.
-Dialogue: 100,0:09:55.98,0:09:57.87,Main,ROXANNE,0,0,0,,I'll maintain our equipment.
-Dialogue: 100,0:09:58.38,0:09:59.70,Main,MICHIO,0,0,0,,Oh, yeah?
-Dialogue: 100,0:10:05.08,0:10:06.46,Main,MICHIO,0,0,0,,Well?
-Dialogue: 100,0:10:06.46,0:10:08.12,Main,ROXANNE,0,0,0,,It's not bad.
-Dialogue: 100,0:10:08.12,0:10:09.00,Main,MICHIO,0,0,0,,Then...
-Dialogue: 100,0:10:09.00,0:10:11.46,Main,ROXANNE,0,0,0,,That said, it's not good either.
-Dialogue: 100,0:10:12.18,0:10:14.90,Main,ROXANNE,0,0,0,,You're entrusting your \Nlife to your equipment.
-Dialogue: 100,0:10:15.47,0:10:17.42,Main,ROXANNE,0,0,0,,You should keep it properly maintained.
-Dialogue: 100,0:10:17.42,0:10:19.72,Italics,MICHIO,0,0,0,,I figured she would be,
-Dialogue: 100,0:10:19.72,0:10:23.57,Italics,MICHIO,0,0,0,,but she's particular about the \Ncondition of our equipment, too.
-Dialogue: 100,0:10:23.57,0:10:24.46,Main,ROXANNE,0,0,0,,Um...
-Dialogue: 100,0:10:24.86,0:10:25.43,Main,MICHIO,0,0,0,,Hm?
-Dialogue: 100,0:10:25.43,0:10:28.04,Main,ROXANNE,0,0,0,,Since you bought new undergarments for me,
-Dialogue: 100,0:10:28.04,0:10:31.25,Main,ROXANNE,0,0,0,,I'd like to use my old ones as rags \Nfor maintaining our equipment.
-Dialogue: 100,0:10:31.25,0:10:33.28,Main,MICHIO,0,0,0,,Yeah, that's fine.
-Dialogue: 100,0:10:33.28,0:10:34.36,Main,ROXANNE,0,0,0,,Um...
-Dialogue: 100,0:10:34.82,0:10:38.78,Main,ROXANNE,0,0,0,,Please feel free to go eat while \NI'm performing maintenance.
-Dialogue: 100,0:10:38.78,0:10:43.99,Main,MICHIO,0,0,0,,What? No, let's eat together.
-Dialogue: 100,0:10:43.99,0:10:45.12,Main,ROXANNE,0,0,0,,But...
-Dialogue: 100,0:10:46.38,0:10:48.21,Main,MICHIO,0,0,0,,You don't want to?
-Dialogue: 100,0:10:48.21,0:10:49.80,Main,ROXANNE,0,0,0,,Oh, no. I didn't say that.
-Dialogue: 100,0:10:49.80,0:10:51.63,Main,MICHIO,0,0,0,,Then, that's what we'll do.
-Dialogue: 100,0:10:53.03,0:10:54.59,Main,ROXANNE,0,0,0,,All right, then.
-Dialogue: 100,0:10:57.16,0:10:58.92,Main,ROXANNE,0,0,0,,Excuse me.
-Dialogue: 100,0:11:01.89,0:11:05.35,Italics,MICHIO,0,0,0,,Oh, right. Her old undergarments are \Nthe ones she's wearing right now.
-Dialogue: 100,0:11:08.46,0:11:10.77,Main,MICHIO,0,0,0,,Uh, sorry. Don't mind me.
-Dialogue: 100,0:11:11.11,0:11:13.90,Italics,MICHIO,0,0,0,,If anything, I should try to be considerate.
-Dialogue: 100,0:11:16.18,0:11:18.15,Italics,MICHIO,0,0,0,,But I can't help looking at her.
-Dialogue: 100,0:11:27.76,0:11:30.83,Italics,MICHIO,0,0,0,,Of course she'd notice me looking.
-Dialogue: 100,0:11:34.69,0:11:35.96,Italics,MICHIO,0,0,0,,She's got a tail.
-Dialogue: 100,0:11:36.50,0:11:39.46,Italics,MICHIO,0,0,0,,So it does grow out of her tailbone.
-Dialogue: 100,0:11:39.83,0:11:41.59,Italics,MICHIO,0,0,0,,I'll have to touch it later.
-Dialogue: 100,0:11:47.35,0:11:51.81,Italics,MICHIO,0,0,0,,That was quick. I guess we \Ncan save the fun for later.
-Dialogue: 100,0:11:55.27,0:11:58.19,Main,MICHIO,0,0,0,,So this is why you bought olive oil.
-Dialogue: 100,0:11:58.51,0:12:01.53,Main,ROXANNE,0,0,0,,This will keep it good as new forever.
-Dialogue: 100,0:12:01.53,0:12:04.99,Main,MICHIO,0,0,0,,Does not maintaining your \Nequipment lower its performance?
-Dialogue: 100,0:12:05.40,0:12:07.60,Main,ROXANNE,0,0,0,,If it doesn't feel good to use,
-Dialogue: 100,0:12:07.60,0:12:09.45,Main,ROXANNE,0,0,0,,then you can't operate at peak performance.
-Dialogue: 100,0:12:09.45,0:12:13.46,Italics,MICHIO,0,0,0,,You mean it's all psychological, then?
-Dialogue: 100,0:12:17.36,0:12:18.88,Main,INNKEEPER,0,0,0,,I brought you some hot water.
-Dialogue: 100,0:12:19.26,0:12:21.32,Main,INNKEEPER,0,0,0,,You want enough for two, right?
-Dialogue: 100,0:12:21.32,0:12:22.38,Main,MICHIO,0,0,0,,Yeah.
-Dialogue: 100,0:12:25.39,0:12:28.89,Italics,MICHIO,0,0,0,,Finally, the time has come.
-Dialogue: 100,0:12:28.89,0:12:33.14,Italics,MICHIO,0,0,0,,Don't rush. There's a proper \Norder to things. First...
-Dialogue: 100,0:12:34.05,0:12:36.65,Main,MICHIO,0,0,0,,Could you scrub my back, Roxanne?
-Dialogue: 100,0:12:38.60,0:12:40.65,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:12:40.98,0:12:42.57,Italics,MICHIO,0,0,0,,Don't be embarrassed.
-Dialogue: 100,0:12:42.57,0:12:45.88,Italics,MICHIO,0,0,0,,We're all naked when we come into this world.
-Dialogue: 100,0:12:45.88,0:12:50.04,Italics,MICHIO,0,0,0,,And besides, if I get embarrassed, \Nit'll make Roxanne nervous.
-Dialogue: 100,0:12:50.76,0:12:51.87,Main,MICHIO,0,0,0,,Go ahead.
-Dialogue: 100,0:12:52.18,0:12:54.66,Main,ROXANNE,0,0,0,,Is this the right amount of pressure?
-Dialogue: 100,0:12:54.66,0:12:56.64,Main,MICHIO,0,0,0,,Yeah, it feels good.
-Dialogue: 100,0:12:57.20,0:12:59.28,Main,MICHIO,0,0,0,,If I could be a little greedy,
-Dialogue: 100,0:12:59.28,0:13:01.88,Main,,0,0,0,,I wish I could bathe in the \Nwater up to my shoulders.
-Dialogue: 100,0:13:01.88,0:13:02.94,Main,ROXANNE,0,0,0,,In the water?
-Dialogue: 100,0:13:02.94,0:13:05.84,Main,MICHIO,0,0,0,,Yeah. Roxanne, are you familiar with baths?
-Dialogue: 100,0:13:08.29,0:13:09.18,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:13:09.44,0:13:12.65,Main,ROXANNE,0,0,0,,But it's difficult to get a \Nlarge amount of hot water.
-Dialogue: 100,0:13:12.65,0:13:15.94,Main,ROXANNE,0,0,0,,I doubt many people take baths \Nunless they're very wealthy.
-Dialogue: 100,0:13:18.00,0:13:19.84,Main,MICHIO,0,0,0,,Huh, I see.
-Dialogue: 100,0:13:20.64,0:13:23.82,Italics,MICHIO,0,0,0,,She didn't react much to \Nseeing the front of my body.
-Dialogue: 100,0:13:23.82,0:13:26.20,Italics,MICHIO,0,0,0,,That makes me kind of sad.
-Dialogue: 100,0:13:29.07,0:13:31.54,Main,MICHIO,0,0,0,,Now it's your turn, Roxanne.
-Dialogue: 100,0:13:31.54,0:13:32.99,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:13:35.66,0:13:38.11,Italics,MICHIO,0,0,0,,I feel like I shouldn't watch.
-Dialogue: 100,0:13:38.11,0:13:42.80,Main,ROXANNE,0,0,0,,Um, since I'm a wolfkin, \NI may be a bit hairy.
-Dialogue: 100,0:13:42.80,0:13:44.46,Main,MICHIO,0,0,0,,Oh, really?
-Dialogue: 100,0:13:49.88,0:13:52.01,Italics,MICHIO,0,0,0,,This is an act of violence!
-Dialogue: 100,0:13:52.01,0:13:55.18,Italics,MICHIO,0,0,0,,Projectile weapons! \NThat's gotta be against the rules!
-Dialogue: 100,0:13:56.30,0:13:58.14,Main,ROXANNE,0,0,0,,E-Especially my back...
-Dialogue: 100,0:13:58.42,0:14:00.43,Italics,MICHIO,0,0,0,,She doesn't need to hide anything.
-Dialogue: 100,0:14:00.43,0:14:02.85,Italics,MICHIO,0,0,0,,Not that she's managing to hide anything.
-Dialogue: 100,0:14:02.85,0:14:04.73,Italics,MICHIO,0,0,0,,Yeah, this is all right.
-Dialogue: 100,0:14:05.48,0:14:06.99,Main,ROXANNE,0,0,0,,Master?
-Dialogue: 100,0:14:06.99,0:14:08.69,Main,MICHIO,0,0,0,,Oh, right.
-Dialogue: 100,0:14:14.89,0:14:18.79,Italics,MICHIO,0,0,0,,This isn't her hair. It's growing \Ndirectly out of her back.
-Dialogue: 100,0:14:19.20,0:14:22.75,Main,MICHIO,0,0,0,,It's so thick and soft. I like it.
-Dialogue: 100,0:14:23.05,0:14:25.28,Main,ROXANNE,0,0,0,,Thank you.
-Dialogue: 100,0:14:29.44,0:14:33.19,Main,ROXANNE,0,0,0,,I don't think I can ask you \Nto scrub my back after all.
-Dialogue: 100,0:14:33.19,0:14:36.14,Main,MICHIO,0,0,0,,It's all right. It'll be faster this way.
-Dialogue: 100,0:14:36.14,0:14:41.10,Italics,MICHIO,0,0,0,,I want to see those peaks \Nsway as I scrub her back.
-Dialogue: 100,0:14:42.04,0:14:46.03,Italics,MICHIO,0,0,0,,I must see them. No, the privilege \Nof seeing them will be mine.
-Dialogue: 100,0:14:48.24,0:14:50.32,Italics,MICHIO,0,0,0,,Viva Roxanne!
-Dialogue: 100,0:14:50.68,0:14:54.00,Italics,MICHIO,0,0,0,,But just looking at them isn't enough.
-Dialogue: 100,0:14:54.00,0:14:58.93,Italics,MICHIO,0,0,0,,I must worship them. \NI must worship these swelling peaks.
-Dialogue: 100,0:15:00.17,0:15:01.31,Main,MICHIO,0,0,0,,What?
-Dialogue: 100,0:15:01.31,0:15:03.13,Main,ROXANNE,0,0,0,,Nothing.
-Dialogue: 100,0:15:03.13,0:15:06.09,Italics,MICHIO,0,0,0,,I touched them. I'm finally touching \Nthem with my own two hands.
-Dialogue: 100,0:15:06.63,0:15:09.59,Italics,MICHIO,0,0,0,,I can feel how soft they \Nare, even through the cloth.
-Dialogue: 100,0:15:09.59,0:15:11.55,Italics,MICHIO,0,0,0,,They're so freaking soft.
-Dialogue: 100,0:15:12.57,0:15:14.48,Italics,MICHIO,0,0,0,,But they're also bouncy,
-Dialogue: 100,0:15:14.48,0:15:17.93,Italics,MICHIO,0,0,0,,and my fingers sink into \Nthem at the lightest touch.
-Dialogue: 100,0:15:18.53,0:15:20.16,Italics,MICHIO,0,0,0,,They don't fit in my hands,
-Dialogue: 100,0:15:20.16,0:15:22.92,Italics,MICHIO,0,0,0,,and a single touch isn't enough \Nto get the full picture.
-Dialogue: 100,0:15:24.15,0:15:28.50,Italics,MICHIO,0,0,0,,Their texture is like a cross between \Nmarshmallows and water balloons.
-Dialogue: 100,0:15:30.59,0:15:32.32,Main,MICHIO,0,0,0,,They're amazing.
-Dialogue: 100,0:15:33.37,0:15:35.78,Italics,MICHIO,0,0,0,,Crap, did I spend too long touching them?
-Dialogue: 100,0:15:36.20,0:15:39.24,Main,MICHIO,0,0,0,,Um, is it all right to wash your tail?
-Dialogue: 100,0:15:39.24,0:15:41.55,Main,ROXANNE,0,0,0,,Yes, Master. I'll do it myself.
-Dialogue: 100,0:15:41.55,0:15:42.29,Main,MICHIO,0,0,0,,It's fine.
-Dialogue: 100,0:15:45.42,0:15:47.74,Italics,MICHIO,0,0,0,,There doesn't seem to be a core.
-Dialogue: 100,0:15:47.74,0:15:49.63,Main,MICHIO,0,0,0,,Can you move this?
-Dialogue: 100,0:15:49.63,0:15:52.78,Main,ROXANNE,0,0,0,,It's difficult to move just my tail.
-Dialogue: 100,0:15:52.78,0:15:53.55,Main,ROXANNE,0,0,0,,If I do this...
-Dialogue: 100,0:15:56.76,0:15:58.57,Main,ROXANNE,0,0,0,,then it's not impossible.
-Dialogue: 100,0:15:59.18,0:16:02.56,Italics,MICHIO,0,0,0,,Roxanne is shaking her \Nhips right in front of me!
-Dialogue: 100,0:16:02.84,0:16:05.20,Italics,MICHIO,0,0,0,,This isn't fair!
-Dialogue: 100,0:16:05.20,0:16:08.57,Main,ROXANNE,0,0,0,,Also, sometimes it moves \Ninvoluntarily when I'm happy.
-Dialogue: 100,0:16:08.57,0:16:13.85,Main,MICHIO,0,0,0,,I see. Then we'd better keep your \Ntail moving as much as possible.
-Dialogue: 100,0:16:13.85,0:16:15.07,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:16:15.42,0:16:17.84,Main,ROXANNE,0,0,0,,Thank you, Master.
-Dialogue: 100,0:16:18.54,0:16:22.00,Main,MICHIO,0,0,0,,Why don't we perform an experiment?
-Dialogue: 100,0:16:29.88,0:16:30.68,Main,MICHIO,0,0,0,,How is it?
-Dialogue: 100,0:16:31.17,0:16:35.01,Main,RXOANNE,0,0,0,,That feels good, Master.
-Dialogue: 100,0:16:35.72,0:16:38.18,Main,MICHIO,0,0,0,,With two of us, we can wash our heads, too.
-Dialogue: 100,0:16:41.76,0:16:44.08,Main,ROXANNE,0,0,0,,Master, shall I wash yours, as well?
-Dialogue: 100,0:16:44.08,0:16:45.06,Main,MICHIO,0,0,0,,Yes, please.
-Dialogue: 100,0:16:45.94,0:16:48.69,Italics,MICHIO,0,0,0,,This feels great.
-Dialogue: 100,0:16:48.69,0:16:52.02,Italics,MICHIO,0,0,0,,I hadn't washed my hair \Nonce yet since coming here.
-Dialogue: 100,0:16:54.72,0:16:56.50,Italics,MICHIO,0,0,0,,This is paradise!
-Dialogue: 100,0:16:57.35,0:17:00.90,Italics,MICHIO,0,0,0,,No, no. I should focus on having \Nmy hair washed right now.
-Dialogue: 100,0:17:00.90,0:17:02.38,Italics,MICHIO,0,0,0,,Stay calm.
-Dialogue: 100,0:17:03.00,0:17:07.50,Main,ROXANNE,0,0,0,,Master, did I miss any spots?
-Dialogue: 100,0:17:07.50,0:17:09.51,Main,MICHIO,0,0,0,,No, that's enough.
-Dialogue: 100,0:17:11.20,0:17:13.34,Italics,MICHIO,0,0,0,,There was another ambush waiting for me here!
-Dialogue: 100,0:17:13.61,0:17:18.20,Italics,MICHIO,0,0,0,,This is great. I wish I \Ncould stare at them forever.
-Dialogue: 100,0:17:18.20,0:17:22.36,Italics,MICHIO,0,0,0,,Wait, no! Why am I being satisfied \Nby just looking at them?
-Dialogue: 100,0:17:22.36,0:17:25.23,Italics,MICHIO,0,0,0,,Now is the time to take one big step forward.
-Dialogue: 100,0:17:26.84,0:17:28.15,Main,MICHIO,0,0,0,,Roxanne.
-Dialogue: 100,0:17:34.01,0:17:35.53,Main,ROXANNE,0,0,0,,Um, uh...
-Dialogue: 100,0:17:39.42,0:17:41.06,Main,ROXANNE,0,0,0,,I'll put these clothes on.
-Dialogue: 100,0:17:41.06,0:17:41.49,Main,MICHIO,0,0,0,,Huh?
-Dialogue: 100,0:17:41.73,0:17:45.66,Main,ROXANNE,0,0,0,,Wouldn't you be pleased if I wore this?
-Dialogue: 100,0:17:46.28,0:17:50.25,Italics,MICHIO,0,0,0,,What did that slave trader teach her?
-Dialogue: 100,0:17:50.65,0:17:52.75,Main,MICHIO,0,0,0,,You can wear that another time.
-Dialogue: 100,0:17:53.11,0:17:54.00,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:18:01.55,0:18:02.74,Main,MICHIO,0,0,0,,Remove your undergarments.
-Dialogue: 100,0:18:03.98,0:18:04.82,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:18:08.87,0:18:10.73,Main,,0,0,0,,Is this all right?
-Dialogue: 100,0:18:14.23,0:18:15.74,Main,ROXANNE,0,0,0,,Excuse me.
-Dialogue: 100,0:18:29.50,0:18:32.90,Italics,MICHIO,0,0,0,,Now Roxanne is in her birthday suit.
-Dialogue: 100,0:18:38.72,0:18:41.97,Italics,MICHIO,0,0,0,,She closed her eyes. \NWhich means this is all right, right?
-Dialogue: 100,0:18:48.60,0:18:51.54,Italics,MICHIO,0,0,0,,I'm kissing her.
-Dialogue: 100,0:18:52.42,0:18:54.82,Italics,MICHIO,0,0,0,,I'm kissing a beautiful girl.
-Dialogue: 100,0:18:56.33,0:18:59.48,Italics,MICHIO,0,0,0,,I wish I could be more aggressive, \Nbut I need to be patient.
-Dialogue: 100,0:18:59.48,0:19:02.08,Italics,MICHIO,0,0,0,,I can't use tongue from the get-go.
-Dialogue: 100,0:19:02.08,0:19:04.63,Italics,MICHIO,0,0,0,,At least, I think I've heard people say that.
-Dialogue: 100,0:19:04.63,0:19:08.90,Italics,MICHIO,0,0,0,,Gently, like a tender invitation.
-Dialogue: 100,0:19:08.90,0:19:10.62,Italics,MICHIO,0,0,0,,Don't scare her.
-Dialogue: 100,0:19:14.04,0:19:16.98,Main,MICHIO,0,0,0,,From now on, I want you to kiss \Nme before we go to bed at night
-Dialogue: 100,0:19:16.98,0:19:19.14,Main,MICHIO,0,0,0,,and when we wake up in the morning.
-Dialogue: 100,0:19:19.14,0:19:20.04,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:19:20.04,0:19:22.14,Main,MICHIO,0,0,0,,One more time.
-Dialogue: 100,0:19:22.56,0:19:24.82,Italics,MICHIO,0,0,0,,I'll be a little more \Naggressive the second time.
-Dialogue: 100,0:19:27.16,0:19:29.98,Italics,MICHIO,0,0,0,,Good. She's accepting my advances.
-Dialogue: 100,0:19:30.42,0:19:33.98,Italics,MICHIO,0,0,0,,I don't want to stop, but I want \Nto savor other parts of her, too.
-Dialogue: 100,0:19:33.98,0:19:37.44,Italics,MICHIO,0,0,0,,This time I want to get a \Nproper look at Roxanne's breasts,
-Dialogue: 100,0:19:37.44,0:19:39.43,Italics,MICHIO,0,0,0,,not just steal glances at them.
-Dialogue: 100,0:19:39.43,0:19:42.43,Main,MICHIO,0,0,0,,May I touch them?
-Dialogue: 100,0:19:42.43,0:19:43.41,Main,ROXANNE,0,0,0,,Go ahead.
-Dialogue: 100,0:19:49.79,0:19:52.21,Main,MICHIO,0,0,0,,So soft.
-Dialogue: 100,0:19:52.21,0:19:55.26,Italics,MICHIO,0,0,0,,It's far smoother than touching \Nthem through fabric,
-Dialogue: 100,0:19:55.26,0:19:57.17,Italics,MICHIO,0,0,0,,and they cling to my hands a little.
-Dialogue: 100,0:19:57.17,0:19:59.24,Italics,MICHIO,0,0,0,,My hands sink into them forever,
-Dialogue: 100,0:19:59.24,0:20:02.18,Italics,MICHIO,0,0,0,,but they bounce right back \Ninto their original shape.
-Dialogue: 100,0:20:03.09,0:20:05.68,Italics,MICHIO,0,0,0,,This is bliss.
-Dialogue: 100,0:20:13.20,0:20:17.41,Italics,MICHIO,0,0,0,,I'd only tasted the fruit \Nof Roxanne in my dreams,
-Dialogue: 100,0:20:17.41,0:20:19.94,Italics,MICHIO,0,0,0,,but they're even juicier than I imagined.
-Dialogue: 100,0:20:23.08,0:20:24.38,Main,MICHIO,0,0,0,,Roxanne.
-Dialogue: 100,0:20:27.28,0:20:28.21,Main,MICHIO,0,0,0,,Can I?
-Dialogue: 100,0:20:53.27,0:20:56.58,Main,ROXANNE,0,0,0,,Master, I'm gonna...
-Dialogue: 100,0:21:04.83,0:21:06.83,Main,ROXANNE,0,0,0,,Master...
-Dialogue: 100,0:21:19.77,0:21:21.66,Italics,MICHIO,0,0,0,,It's morning.
-Dialogue: 100,0:21:24.59,0:21:29.43,Italics,MICHIO,0,0,0,,I never knew the weight of another \Nperson could feel so comfortable.
-Dialogue: 100,0:21:29.43,0:21:32.55,Italics,MICHIO,0,0,0,,I can't believe I'm getting to \Nexperience a morning like this.
-Dialogue: 100,0:21:37.06,0:21:38.51,Italics,MICHIO,0,0,0,,Oh, right.
-Dialogue: 100,0:21:38.51,0:21:42.52,Italics,MICHIO,0,0,0,,I told her to kiss me before \Nbed and when I wake up.
-Dialogue: 100,0:21:42.52,0:21:44.97,Italics,MICHIO,0,0,0,,She's faithfully following my instructions.
-Dialogue: 100,0:21:47.75,0:21:50.07,Main,ROXANNE,0,0,0,,Good morning, Master.
-Dialogue: 100,0:21:50.28,0:21:52.33,Main,MICHIO,0,0,0,,Good morning, Roxanne.
-Dialogue: 100,0:21:52.33,0:21:53.08,Italics,MICHIO,0,0,0,,Whoops.
-Dialogue: 100,0:21:53.08,0:21:55.08,Italics,MICHIO,0,0,0,,I responded to her touch.
-Dialogue: 100,0:21:55.08,0:21:58.55,Italics,MICHIO,0,0,0,,I hate to get out of bed, but \Nwe can have fun again tonight.
-Dialogue: 100,0:21:58.55,0:21:59.08,Main,MICHIO,0,0,0,,For now...
-Dialogue: 100,0:22:00.41,0:22:03.79,Main,MICHIO,0,0,0,,Shall we head into the labyrinth, Roxanne?
-Dialogue: 100,0:22:04.44,0:22:06.36,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:00:01.24,0:00:03.48,Main,INNKEEPER,0,0,0,,You want to move to a two-person room?
+Dialogue: 99,0:00:03.87,0:00:06.22,Main,MICHIO,0,0,0,,Yeah. I'll need meals for two as well.
+Dialogue: 99,0:00:08.50,0:00:10.48,Main,INNKEEPER,0,0,0,,You're okay with a double, right?
+Dialogue: 99,0:00:10.48,0:00:14.24,Main,MICHIO,0,0,0,,What? Yeah, that's fine.
+Dialogue: 99,0:01:46.71,0:01:48.00,Main,MICHIO,0,0,0,,Huh..
+Dialogue: 99,0:01:48.22,0:01:50.94,Main,MICHIO,0,0,0,,I guess it's a little bigger \Nthan my previous room.
+Dialogue: 99,0:01:57.12,0:02:00.24,Italics,MICHIO,0,0,0,,She seems nervous, or rather...
+Dialogue: 99,0:02:00.24,0:02:02.43,Main,MICHIO,0,0,0,,Why don't you put your stuff down?
+Dialogue: 99,0:02:02.43,0:02:04.06,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:02:05.52,0:02:07.85,Main,MICHIO,0,0,0,,Is she a little scared?
+Dialogue: 99,0:02:10.05,0:02:10.98,Main,MICHIO,0,0,0,,Your ears...
+Dialogue: 99,0:02:12.11,0:02:13.03,Main,ROXANNE,0,0,0,,Yes?
+Dialogue: 99,0:02:13.03,0:02:14.69,Main,MICHIO,0,0,0,,Can I touch them?
+Dialogue: 99,0:02:14.69,0:02:16.78,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:02:19.34,0:02:22.20,Italics,MICHIO,0,0,0,,This is just friendly physical contact.
+Dialogue: 99,0:02:22.20,0:02:24.29,Italics,MICHIO,0,0,0,,Physical contact between \Nfriends is important.
+Dialogue: 99,0:02:24.29,0:02:27.29,Italics,MICHIO,0,0,0,,Don't get any weird ideas.
+Dialogue: 99,0:02:27.29,0:02:32.47,Italics,MICHIO,0,0,0,,Suppress your urges, suppress your \Nurges, suppress your urges...
+Dialogue: 99,0:02:32.47,0:02:35.17,Italics,MICHIO,0,0,0,,Crap, I'm addicted.
+Dialogue: 99,0:02:35.37,0:02:36.78,Italics,MICHIO,0,0,0,,So cute.
+Dialogue: 99,0:02:36.78,0:02:38.04,Main,ROXANNE,0,0,0,,Um, excuse me.
+Dialogue: 99,0:02:38.04,0:02:39.54,Main,MICHIO,0,0,0,,What is it?
+Dialogue: 99,0:02:39.54,0:02:43.14,Main,ROXANNE,0,0,0,,Shall I continue calling you Master?
+Dialogue: 99,0:02:43.52,0:02:46.90,Italics,MICHIO,0,0,0,,M-a-s-t-e-r!
+Dialogue: 99,0:02:48.06,0:02:49.73,Main,MICHIO,0,0,0,,Roxanne!
+Dialogue: 99,0:02:53.28,0:02:57.09,Italics,MICHIO,0,0,0,,Crap. Why am I trying to scare her even more?
+Dialogue: 99,0:02:57.09,0:03:02.28,Main,MICHIO,0,0,0,,Anyway, there's only one \Nbed in this room, huh?
+Dialogue: 99,0:03:02.28,0:03:02.91,Main,ROXANNE,0,0,0,,What?
+Dialogue: 99,0:03:03.29,0:03:04.14,Main,MICHIO,0,0,0,,What?
+Dialogue: 99,0:03:04.14,0:03:07.16,Main,ROXANNE,0,0,0,,You're the one who requested that.
+Dialogue: 99,0:03:07.16,0:03:08.29,Main,MICHIO,0,0,0,,What?
+Dialogue: 99,0:03:08.54,0:03:11.21,Italics,MICHIO,0,0,0,,So that's what he meant by "double."
+Dialogue: 99,0:03:11.21,0:03:13.75,Italics,MICHIO,0,0,0,,He would've said "twin" \Nif there were two beds.
+Dialogue: 99,0:03:14.10,0:03:15.92,Flashback,INNKEEPER,0,0,0,,You're okay with a double, right?
+Dialogue: 99,0:03:15.92,0:03:18.21,Italics,MICHIO,0,0,0,,He knew what he was doing.
+Dialogue: 99,0:03:18.54,0:03:20.27,Italics,MICHIO,0,0,0,,Good job.
+Dialogue: 99,0:03:20.87,0:03:22.78,Italics,MICHIO,0,0,0,,So that's why she's scared.
+Dialogue: 99,0:03:24.09,0:03:25.20,Main,MICHIO,0,0,0,,Roxanne.
+Dialogue: 99,0:03:26.77,0:03:28.56,Main,ROXANNE,0,0,0,,What is it, Master?
+Dialogue: 99,0:03:29.15,0:03:35.11,Main,MICHIO,0,0,0,,You wouldn't believe me if I told \Nyou how far away my homeland is.
+Dialogue: 99,0:03:36.52,0:03:38.48,Main,ROXANNE,0,0,0,,Is that right?
+Dialogue: 99,0:03:38.48,0:03:43.41,Main,MICHIO,0,0,0,,Yeah. So I'm not really familiar \Nwith what's considered normal here.
+Dialogue: 99,0:03:44.03,0:03:46.26,Main,MICHIO,0,0,0,,I'd appreciate it if you could teach me.
+Dialogue: 99,0:03:46.78,0:03:48.44,Main,ROXANNE,0,0,0,,Understood.
+Dialogue: 99,0:03:48.44,0:03:51.66,Main,MICHIO,0,0,0,,Also, you may have heard that
+Dialogue: 99,0:03:51.66,0:03:56.17,Main,MICHIO,0,0,0,,I'll be bringing you into the labyrinth \Nwith me, so keep that in mind.
+Dialogue: 99,0:03:58.05,0:03:59.67,Main,ROXANNE,0,0,0,,You can count on me.
+Dialogue: 99,0:03:59.94,0:04:02.46,Main,ROXANNE,0,0,0,,I believe I can be useful to you in battle.
+Dialogue: 99,0:04:06.00,0:04:08.88,Main,MICHIO,0,0,0,,You're rather confident.
+Dialogue: 99,0:04:16.99,0:04:19.12,Main,MICHIO,0,0,0,,Roxanne, where are your shoes?
+Dialogue: 99,0:04:20.13,0:04:22.07,Main,ROXANNE,0,0,0,,I don't have any.
+Dialogue: 99,0:04:22.07,0:04:24.64,Main,MICHIO,0,0,0,,What? You've been barefoot?
+Dialogue: 99,0:04:24.64,0:04:26.69,Main,MICHIO,0,0,0,,While we were walking outside, too?
+Dialogue: 99,0:04:26.69,0:04:28.33,Main,ROXANNE,0,0,0,,Yes?
+Dialogue: 99,0:04:28.33,0:04:31.33,Italics,MICHIO,0,0,0,,I totally didn't notice.
+Dialogue: 99,0:04:31.76,0:04:34.00,Main,MICHIO,0,0,0,,Why don't you wear these for now?
+Dialogue: 99,0:04:34.00,0:04:35.58,Main,ROXANNE,0,0,0,,Are you sure?
+Dialogue: 99,0:04:35.58,0:04:36.29,Main,MICHIO,0,0,0,,Yeah.
+Dialogue: 99,0:04:38.53,0:04:40.79,Main,MICHIO,0,0,0,,Well? They're not too big, are they?
+Dialogue: 99,0:04:40.79,0:04:42.06,Main,ROXANNE,0,0,0,,It's all right.
+Dialogue: 99,0:04:45.19,0:04:49.14,Main,ROXANNE,0,0,0,,Equipment is made to fit the wearer.
+Dialogue: 99,0:04:49.14,0:04:51.14,Main,MICHIO,0,0,0,,Is that normal here?
+Dialogue: 99,0:04:51.14,0:04:55.10,Main,ROXANNE,0,0,0,,Yes. Thank you, Master.
+Dialogue: 99,0:04:56.49,0:05:00.11,Main,ROXANNE,0,0,0,,I'll treasure my first gift from you.
+Dialogue: 99,0:05:10.96,0:05:13.54,Italics,MICHIO,0,0,0,,Of course she tensed up.
+Dialogue: 99,0:05:14.29,0:05:16.84,Italics,MICHIO,0,0,0,,But she doesn't seem to be resisting.
+Dialogue: 99,0:05:17.54,0:05:20.90,Italics,MICHIO,0,0,0,,Maybe it's because she's \Naccepted her fate as a slave,
+Dialogue: 99,0:05:20.90,0:05:22.64,Italics,MICHIO,0,0,0,,but I don't know how she really feels.
+Dialogue: 99,0:05:22.64,0:05:24.54,Italics,MICHIO,0,0,0,,But still...
+Dialogue: 99,0:05:25.00,0:05:26.84,Main,MICHIO,0,0,0,,I'm not letting you get away.
+Dialogue: 99,0:05:26.84,0:05:28.55,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:05:29.57,0:05:31.81,Main,MICHIO,0,0,0,,For your equipment,
+Dialogue: 99,0:05:31.81,0:05:35.78,Main,MICHIO,0,0,0,,you can use one of the swords I have, \Nbut what about protective gear?
+Dialogue: 99,0:05:35.78,0:05:38.33,Main,ROXANNE,0,0,0,,I don't mind using your spare equipment.
+Dialogue: 99,0:05:38.33,0:05:39.92,Main,ROXANNE,0,0,0,,Do you have a shield?
+Dialogue: 99,0:05:39.92,0:05:41.94,Main,MICHIO,0,0,0,,Come to think of it, I don't.
+Dialogue: 99,0:05:42.18,0:05:44.94,Main,ROXANNE,0,0,0,,Then I'd like one wooden shield, please.
+Dialogue: 99,0:05:45.23,0:05:47.45,Main,MICHIO,0,0,0,,A wooden shield, huh?
+Dialogue: 99,0:05:47.45,0:05:49.90,Italics,ROXANNE,0,0,0,,Stare...
+Dialogue: 99,0:05:51.94,0:05:53.33,Italics,MICHIO,0,0,0,,She's staring really intently.
+Dialogue: 99,0:05:53.33,0:05:56.34,Italics,MICHIO,0,0,0,,I'm glad she's taking this seriously, but...
+Dialogue: 99,0:05:57.43,0:06:01.34,Main,MICHIO,0,0,0,,This one, this one, and \Nthis one are good products.
+Dialogue: 99,0:06:01.34,0:06:03.60,Main,ROXANNE,0,0,0,,You can tell?
+Dialogue: 99,0:06:03.60,0:06:04.84,Main,MICHIO,0,0,0,,Yeah.
+Dialogue: 99,0:06:07.59,0:06:09.84,Italics,MICHIO,0,0,0,,She's really particular about this.
+Dialogue: 99,0:06:11.72,0:06:13.35,Main,ROXANNE,0,0,0,,I'd like this one, please.
+Dialogue: 99,0:06:13.35,0:06:15.35,Main,MICHIO,0,0,0,,All right. Onto the next item, then.
+Dialogue: 99,0:06:17.88,0:06:19.20,Main,MICHIO,0,0,0,,We'd like these, please.
+Dialogue: 99,0:06:19.20,0:06:21.11,Main,ARMOR VENDOR,0,0,0,,Thank you.
+Dialogue: 99,0:06:21.32,0:06:27.16,Main,MICHIO,0,0,0,,A set of protective equipment, olive oil, \Ncanteens, backpacks, socks, towels,
+Dialogue: 99,0:06:27.16,0:06:29.77,Main,MICHIO,0,0,0,,koichi fruit, and shukure branches.
+Dialogue: 99,0:06:30.20,0:06:32.26,Main,MICHIO,0,0,0,,We bought everything we need.
+Dialogue: 99,0:06:32.26,0:06:33.03,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:06:33.03,0:06:34.12,Main,MICHIO,0,0,0,,That just leaves...
+Dialogue: 99,0:06:34.44,0:06:39.00,Italics,MICHIO,0,0,0,,I threw out the cloak I bought before \Nbecause it was covered in blood.
+Dialogue: 99,0:06:41.67,0:06:44.17,Main,MICHIO,0,0,0,,Do we really need these?
+Dialogue: 99,0:06:44.17,0:06:48.02,Main,ROXANNE,0,0,0,,They're good to have on rainy days.
+Dialogue: 99,0:06:48.02,0:06:50.60,Main,MICHIO,0,0,0,,I see. In that case, I'll get this one.
+Dialogue: 99,0:06:50.60,0:06:53.05,Main,MICHIO,0,0,0,,Roxanne, you can choose \None to your liking, too.
+Dialogue: 99,0:06:53.49,0:06:54.94,Main,ROXANNE,0,0,0,,Are you sure?
+Dialogue: 99,0:06:55.56,0:06:58.17,Italics,ROXANNE,0,0,0,,Stare...
+Dialogue: 99,0:06:58.56,0:07:01.56,Italics,MICHIO,0,0,0,,This is gonna take a while.
+Dialogue: 99,0:07:01.56,0:07:03.66,Italics,MICHIO,0,0,0,,Not that it matters.
+Dialogue: 99,0:07:03.66,0:07:05.09,Italics,MICHIO,0,0,0,,She's pretty and cute.
+Dialogue: 99,0:07:05.09,0:07:07.24,Italics,MICHIO,0,0,0,,I'm happy to pass the time watching her.
+Dialogue: 99,0:07:07.24,0:07:08.57,Main,ROXANNE,0,0,0,,Master.
+Dialogue: 99,0:07:08.81,0:07:09.55,Main,MICHIO,0,0,0,,Hm?
+Dialogue: 99,0:07:09.55,0:07:11.57,Main,ROXANNE,0,0,0,,Which one do you prefer?
+Dialogue: 99,0:07:13.04,0:07:15.58,Italics,MICHIO,0,0,0,,I'm being tested here?
+Dialogue: 99,0:07:15.83,0:07:20.41,Italics,MICHIO,0,0,0,,If she's asking me, then she \Nprobably already has her answer.
+Dialogue: 99,0:07:20.41,0:07:23.37,Italics,MICHIO,0,0,0,,If I choose wrong, I'll lose her trust.
+Dialogue: 99,0:07:23.37,0:07:26.59,Italics,MICHIO,0,0,0,,"The cheaper one" is definitely \Nnot the right answer.
+Dialogue: 99,0:07:26.59,0:07:29.14,Italics,MICHIO,0,0,0,,Think. Think, Michio.
+Dialogue: 99,0:07:29.53,0:07:30.59,Main,MICHIO,0,0,0,,Well...
+Dialogue: 99,0:07:30.88,0:07:34.43,Italics,MICHIO,0,0,0,,She's been carrying that one for a while.
+Dialogue: 99,0:07:34.43,0:07:37.44,Italics,MICHIO,0,0,0,,She must've been holding onto \Nit because she liked it.
+Dialogue: 99,0:07:37.44,0:07:38.22,Italics,MICHIO,0,0,0,,In that case...
+Dialogue: 99,0:07:38.22,0:07:41.61,Main,MICHIO,0,0,0,,This one is looser and more stylish.
+Dialogue: 99,0:07:41.61,0:07:44.11,Main,MICHIO,0,0,0,,It's a delicate and subdued color, too.
+Dialogue: 99,0:07:44.11,0:07:45.56,Main,ROXANNE,0,0,0,,Is that right?
+Dialogue: 99,0:07:45.94,0:07:48.00,Italics,MICHIO,0,0,0,,Did I get it wrong?
+Dialogue: 99,0:07:48.00,0:07:52.40,Main,ROXANNE,0,0,0,,This one is better made, \Nbut the color is a bit heavy.
+Dialogue: 99,0:07:52.40,0:07:54.36,Main,ROXANNE,0,0,0,,But you're right.
+Dialogue: 99,0:07:54.36,0:07:57.84,Main,ROXANNE,0,0,0,,Now that you mention it, \Na subdued color could be good.
+Dialogue: 99,0:07:57.84,0:08:02.41,Italics,MICHIO,0,0,0,,I see. She was having trouble deciding\Nbetween better quality or better color.
+Dialogue: 99,0:08:02.41,0:08:04.64,Main,ROXANNE,0,0,0,,Very well. I'll get this one.
+Dialogue: 99,0:08:04.64,0:08:06.34,Italics,MICHIO,0,0,0,,I passed the test.
+Dialogue: 99,0:08:07.18,0:08:08.87,Main,MICHIO,0,0,0,,Is there anything else you need?
+Dialogue: 99,0:08:09.71,0:08:11.32,Main,ROXANNE,0,0,0,,No, nothing else.
+Dialogue: 99,0:08:11.87,0:08:14.82,Main,MICHIO,0,0,0,,If there's anything you need, don't be shy.
+Dialogue: 99,0:08:14.82,0:08:18.81,Main,MICHIO,0,0,0,,Besides, today's a special day to remember.
+Dialogue: 99,0:08:19.95,0:08:24.27,Main,ROXANNE,0,0,0,,In that case, may I purchase \Nsome undergarments?
+Dialogue: 99,0:08:24.97,0:08:26.94,Main,MICHIO,0,0,0,,Undergarments?
+Dialogue: 99,0:08:29.11,0:08:31.44,Italics,MICHIO,0,0,0,,Does she mean underwear?!
+Dialogue: 99,0:08:31.44,0:08:36.60,Italics,MICHIO,0,0,0,,No, no. This world doesn't have \Nthat kind of bras or panties.
+Dialogue: 99,0:08:36.60,0:08:40.63,Main,ROXANNE,0,0,0,,I actually only have the \Nones I'm wearing right now.
+Dialogue: 99,0:08:40.63,0:08:43.46,Main,MICHIO,0,0,0,,Then you'll need a spare \Nset, too. Get two.
+Dialogue: 99,0:08:44.35,0:08:46.78,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
+Dialogue: 99,0:08:48.11,0:08:50.25,Main,MICHIO,0,0,0,,Now we've bought everything, right?
+Dialogue: 99,0:08:50.54,0:08:51.32,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:08:51.32,0:08:55.14,Main,MICHIO,0,0,0,,Then, let's head back to the inn.
+Dialogue: 99,0:08:58.74,0:08:59.64,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:09:10.48,0:09:11.75,Main,MICHIO,0,0,0,,You can have a seat.
+Dialogue: 99,0:09:12.91,0:09:13.61,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:09:14.50,0:09:16.52,Main,MICHIO,0,0,0,,Not on the floor.
+Dialogue: 99,0:09:17.54,0:09:18.95,Main,MICHIO,0,0,0,,Come here.
+Dialogue: 99,0:09:18.95,0:09:22.09,Main,ROXANNE,0,0,0,,But that's your bed, Master.
+Dialogue: 99,0:09:25.42,0:09:26.75,Main,MICHIO,0,0,0,,Don't worry about it.
+Dialogue: 99,0:09:27.05,0:09:30.08,Main,MICHIO,0,0,0,,You'll be sleeping here, too.
+Dialogue: 99,0:09:30.72,0:09:34.76,Main,ROXANNE,0,0,0,,I shall use the bed while \Naccepting your affection,
+Dialogue: 99,0:09:34.76,0:09:37.00,Main,ROXANNE,0,0,0,,but I don't mind sleeping on the floor.
+Dialogue: 99,0:09:37.00,0:09:38.76,Main,MICHIO,0,0,0,,Is that normal in this world?
+Dialogue: 99,0:09:38.76,0:09:42.32,Main,ROXANNE,0,0,0,,I've heard that's what some masters do.
+Dialogue: 99,0:09:42.32,0:09:46.33,Main,MICHIO,0,0,0,,Then, I'll pass. It seems cold \Nand kind of a hassle.
+Dialogue: 99,0:09:46.99,0:09:49.50,Main,MICHIO,0,0,0,,Let's sleep together on the bed.
+Dialogue: 99,0:09:50.12,0:09:50.77,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:09:52.44,0:09:53.82,Main,ROXANNE,0,0,0,,Um...
+Dialogue: 99,0:09:54.76,0:09:55.98,Main,ROXANNE,0,0,0,,There's still some daylight left.
+Dialogue: 99,0:09:55.98,0:09:57.87,Main,ROXANNE,0,0,0,,I'll maintain our equipment.
+Dialogue: 99,0:09:58.38,0:09:59.70,Main,MICHIO,0,0,0,,Oh, yeah?
+Dialogue: 99,0:10:05.08,0:10:06.46,Main,MICHIO,0,0,0,,Well?
+Dialogue: 99,0:10:06.46,0:10:08.12,Main,ROXANNE,0,0,0,,It's not bad.
+Dialogue: 99,0:10:08.12,0:10:09.00,Main,MICHIO,0,0,0,,Then...
+Dialogue: 99,0:10:09.00,0:10:11.46,Main,ROXANNE,0,0,0,,That said, it's not good either.
+Dialogue: 99,0:10:12.18,0:10:14.90,Main,ROXANNE,0,0,0,,You're entrusting your \Nlife to your equipment.
+Dialogue: 99,0:10:15.47,0:10:17.42,Main,ROXANNE,0,0,0,,You should keep it properly maintained.
+Dialogue: 99,0:10:17.42,0:10:19.72,Italics,MICHIO,0,0,0,,I figured she would be,
+Dialogue: 99,0:10:19.72,0:10:23.57,Italics,MICHIO,0,0,0,,but she's particular about the \Ncondition of our equipment, too.
+Dialogue: 99,0:10:23.57,0:10:24.46,Main,ROXANNE,0,0,0,,Um...
+Dialogue: 99,0:10:24.86,0:10:25.43,Main,MICHIO,0,0,0,,Hm?
+Dialogue: 99,0:10:25.43,0:10:28.04,Main,ROXANNE,0,0,0,,Since you bought new undergarments for me,
+Dialogue: 99,0:10:28.04,0:10:31.25,Main,ROXANNE,0,0,0,,I'd like to use my old ones as rags \Nfor maintaining our equipment.
+Dialogue: 99,0:10:31.25,0:10:33.28,Main,MICHIO,0,0,0,,Yeah, that's fine.
+Dialogue: 99,0:10:33.28,0:10:34.36,Main,ROXANNE,0,0,0,,Um...
+Dialogue: 99,0:10:34.82,0:10:38.78,Main,ROXANNE,0,0,0,,Please feel free to go eat while \NI'm performing maintenance.
+Dialogue: 99,0:10:38.78,0:10:43.99,Main,MICHIO,0,0,0,,What? No, let's eat together.
+Dialogue: 99,0:10:43.99,0:10:45.12,Main,ROXANNE,0,0,0,,But...
+Dialogue: 99,0:10:46.38,0:10:48.21,Main,MICHIO,0,0,0,,You don't want to?
+Dialogue: 99,0:10:48.21,0:10:49.80,Main,ROXANNE,0,0,0,,Oh, no. I didn't say that.
+Dialogue: 99,0:10:49.80,0:10:51.63,Main,MICHIO,0,0,0,,Then, that's what we'll do.
+Dialogue: 99,0:10:53.03,0:10:54.59,Main,ROXANNE,0,0,0,,All right, then.
+Dialogue: 99,0:10:57.16,0:10:58.92,Main,ROXANNE,0,0,0,,Excuse me.
+Dialogue: 99,0:11:01.89,0:11:05.35,Italics,MICHIO,0,0,0,,Oh, right. Her old undergarments are \Nthe ones she's wearing right now.
+Dialogue: 99,0:11:08.46,0:11:10.77,Main,MICHIO,0,0,0,,Uh, sorry. Don't mind me.
+Dialogue: 99,0:11:11.11,0:11:13.90,Italics,MICHIO,0,0,0,,If anything, I should try to be considerate.
+Dialogue: 99,0:11:16.18,0:11:18.15,Italics,MICHIO,0,0,0,,But I can't help looking at her.
+Dialogue: 99,0:11:27.76,0:11:30.83,Italics,MICHIO,0,0,0,,Of course she'd notice me looking.
+Dialogue: 99,0:11:34.69,0:11:35.96,Italics,MICHIO,0,0,0,,She's got a tail.
+Dialogue: 99,0:11:36.50,0:11:39.46,Italics,MICHIO,0,0,0,,So it does grow out of her tailbone.
+Dialogue: 99,0:11:39.83,0:11:41.59,Italics,MICHIO,0,0,0,,I'll have to touch it later.
+Dialogue: 99,0:11:47.35,0:11:51.81,Italics,MICHIO,0,0,0,,That was quick. I guess we \Ncan save the fun for later.
+Dialogue: 99,0:11:55.27,0:11:58.19,Main,MICHIO,0,0,0,,So this is why you bought olive oil.
+Dialogue: 99,0:11:58.51,0:12:01.53,Main,ROXANNE,0,0,0,,This will keep it good as new forever.
+Dialogue: 99,0:12:01.53,0:12:04.99,Main,MICHIO,0,0,0,,Does not maintaining your \Nequipment lower its performance?
+Dialogue: 99,0:12:05.40,0:12:07.60,Main,ROXANNE,0,0,0,,If it doesn't feel good to use,
+Dialogue: 99,0:12:07.60,0:12:09.45,Main,ROXANNE,0,0,0,,then you can't operate at peak performance.
+Dialogue: 99,0:12:09.45,0:12:13.46,Italics,MICHIO,0,0,0,,You mean it's all psychological, then?
+Dialogue: 99,0:12:17.36,0:12:18.88,Main,INNKEEPER,0,0,0,,I brought you some hot water.
+Dialogue: 99,0:12:19.26,0:12:21.32,Main,INNKEEPER,0,0,0,,You want enough for two, right?
+Dialogue: 99,0:12:21.32,0:12:22.38,Main,MICHIO,0,0,0,,Yeah.
+Dialogue: 99,0:12:25.39,0:12:28.89,Italics,MICHIO,0,0,0,,Finally, the time has come.
+Dialogue: 99,0:12:28.89,0:12:33.14,Italics,MICHIO,0,0,0,,Don't rush. There's a proper \Norder to things. First...
+Dialogue: 99,0:12:34.05,0:12:36.65,Main,MICHIO,0,0,0,,Could you scrub my back, Roxanne?
+Dialogue: 99,0:12:38.60,0:12:40.65,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:12:40.98,0:12:42.57,Italics,MICHIO,0,0,0,,Don't be embarrassed.
+Dialogue: 99,0:12:42.57,0:12:45.88,Italics,MICHIO,0,0,0,,We're all naked when we come into this world.
+Dialogue: 99,0:12:45.88,0:12:50.04,Italics,MICHIO,0,0,0,,And besides, if I get embarrassed, \Nit'll make Roxanne nervous.
+Dialogue: 99,0:12:50.76,0:12:51.87,Main,MICHIO,0,0,0,,Go ahead.
+Dialogue: 99,0:12:52.18,0:12:54.66,Main,ROXANNE,0,0,0,,Is this the right amount of pressure?
+Dialogue: 99,0:12:54.66,0:12:56.64,Main,MICHIO,0,0,0,,Yeah, it feels good.
+Dialogue: 99,0:12:57.20,0:12:59.28,Main,MICHIO,0,0,0,,If I could be a little greedy,
+Dialogue: 99,0:12:59.28,0:13:01.88,Main,,0,0,0,,I wish I could bathe in the \Nwater up to my shoulders.
+Dialogue: 99,0:13:01.88,0:13:02.94,Main,ROXANNE,0,0,0,,In the water?
+Dialogue: 99,0:13:02.94,0:13:05.84,Main,MICHIO,0,0,0,,Yeah. Roxanne, are you familiar with baths?
+Dialogue: 99,0:13:08.29,0:13:09.18,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:13:09.44,0:13:12.65,Main,ROXANNE,0,0,0,,But it's difficult to get a \Nlarge amount of hot water.
+Dialogue: 99,0:13:12.65,0:13:15.94,Main,ROXANNE,0,0,0,,I doubt many people take baths \Nunless they're very wealthy.
+Dialogue: 99,0:13:18.00,0:13:19.84,Main,MICHIO,0,0,0,,Huh, I see.
+Dialogue: 99,0:13:20.64,0:13:23.82,Italics,MICHIO,0,0,0,,She didn't react much to \Nseeing the front of my body.
+Dialogue: 99,0:13:23.82,0:13:26.20,Italics,MICHIO,0,0,0,,That makes me kind of sad.
+Dialogue: 99,0:13:29.07,0:13:31.54,Main,MICHIO,0,0,0,,Now it's your turn, Roxanne.
+Dialogue: 99,0:13:31.54,0:13:32.99,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:13:35.66,0:13:38.11,Italics,MICHIO,0,0,0,,I feel like I shouldn't watch.
+Dialogue: 99,0:13:38.11,0:13:42.80,Main,ROXANNE,0,0,0,,Um, since I'm a wolfkin, \NI may be a bit hairy.
+Dialogue: 99,0:13:42.80,0:13:44.46,Main,MICHIO,0,0,0,,Oh, really?
+Dialogue: 99,0:13:49.88,0:13:52.01,Italics,MICHIO,0,0,0,,This is an act of violence!
+Dialogue: 99,0:13:52.01,0:13:55.18,Italics,MICHIO,0,0,0,,Projectile weapons! \NThat's gotta be against the rules!
+Dialogue: 99,0:13:56.30,0:13:58.14,Main,ROXANNE,0,0,0,,E-Especially my back...
+Dialogue: 99,0:13:58.42,0:14:00.43,Italics,MICHIO,0,0,0,,She doesn't need to hide anything.
+Dialogue: 99,0:14:00.43,0:14:02.85,Italics,MICHIO,0,0,0,,Not that she's managing to hide anything.
+Dialogue: 99,0:14:02.85,0:14:04.73,Italics,MICHIO,0,0,0,,Yeah, this is all right.
+Dialogue: 99,0:14:05.48,0:14:06.99,Main,ROXANNE,0,0,0,,Master?
+Dialogue: 99,0:14:06.99,0:14:08.69,Main,MICHIO,0,0,0,,Oh, right.
+Dialogue: 99,0:14:14.89,0:14:18.79,Italics,MICHIO,0,0,0,,This isn't her hair. It's growing \Ndirectly out of her back.
+Dialogue: 99,0:14:19.20,0:14:22.75,Main,MICHIO,0,0,0,,It's so thick and soft. I like it.
+Dialogue: 99,0:14:23.05,0:14:25.28,Main,ROXANNE,0,0,0,,Thank you.
+Dialogue: 99,0:14:29.44,0:14:33.19,Main,ROXANNE,0,0,0,,I don't think I can ask you \Nto scrub my back after all.
+Dialogue: 99,0:14:33.19,0:14:36.14,Main,MICHIO,0,0,0,,It's all right. It'll be faster this way.
+Dialogue: 99,0:14:36.14,0:14:41.10,Italics,MICHIO,0,0,0,,I want to see those peaks \Nsway as I scrub her back.
+Dialogue: 99,0:14:42.04,0:14:46.03,Italics,MICHIO,0,0,0,,I must see them. No, the privilege \Nof seeing them will be mine.
+Dialogue: 99,0:14:48.24,0:14:50.32,Italics,MICHIO,0,0,0,,Viva Roxanne!
+Dialogue: 99,0:14:50.68,0:14:54.00,Italics,MICHIO,0,0,0,,But just looking at them isn't enough.
+Dialogue: 99,0:14:54.00,0:14:58.93,Italics,MICHIO,0,0,0,,I must worship them. \NI must worship these swelling peaks.
+Dialogue: 99,0:15:00.17,0:15:01.31,Main,MICHIO,0,0,0,,What?
+Dialogue: 99,0:15:01.31,0:15:03.13,Main,ROXANNE,0,0,0,,Nothing.
+Dialogue: 99,0:15:03.13,0:15:06.09,Italics,MICHIO,0,0,0,,I touched them. I'm finally touching \Nthem with my own two hands.
+Dialogue: 99,0:15:06.63,0:15:09.59,Italics,MICHIO,0,0,0,,I can feel how soft they \Nare, even through the cloth.
+Dialogue: 99,0:15:09.59,0:15:11.55,Italics,MICHIO,0,0,0,,They're so freaking soft.
+Dialogue: 99,0:15:12.57,0:15:14.48,Italics,MICHIO,0,0,0,,But they're also bouncy,
+Dialogue: 99,0:15:14.48,0:15:17.93,Italics,MICHIO,0,0,0,,and my fingers sink into \Nthem at the lightest touch.
+Dialogue: 99,0:15:18.53,0:15:20.16,Italics,MICHIO,0,0,0,,They don't fit in my hands,
+Dialogue: 99,0:15:20.16,0:15:22.92,Italics,MICHIO,0,0,0,,and a single touch isn't enough \Nto get the full picture.
+Dialogue: 99,0:15:24.15,0:15:28.50,Italics,MICHIO,0,0,0,,Their texture is like a cross between \Nmarshmallows and water balloons.
+Dialogue: 99,0:15:30.59,0:15:32.32,Main,MICHIO,0,0,0,,They're amazing.
+Dialogue: 99,0:15:33.37,0:15:35.78,Italics,MICHIO,0,0,0,,Crap, did I spend too long touching them?
+Dialogue: 99,0:15:36.20,0:15:39.24,Main,MICHIO,0,0,0,,Um, is it all right to wash your tail?
+Dialogue: 99,0:15:39.24,0:15:41.55,Main,ROXANNE,0,0,0,,Yes, Master. I'll do it myself.
+Dialogue: 99,0:15:41.55,0:15:42.29,Main,MICHIO,0,0,0,,It's fine.
+Dialogue: 99,0:15:45.42,0:15:47.74,Italics,MICHIO,0,0,0,,There doesn't seem to be a core.
+Dialogue: 99,0:15:47.74,0:15:49.63,Main,MICHIO,0,0,0,,Can you move this?
+Dialogue: 99,0:15:49.63,0:15:52.78,Main,ROXANNE,0,0,0,,It's difficult to move just my tail.
+Dialogue: 99,0:15:52.78,0:15:53.55,Main,ROXANNE,0,0,0,,If I do this...
+Dialogue: 99,0:15:56.76,0:15:58.57,Main,ROXANNE,0,0,0,,then it's not impossible.
+Dialogue: 99,0:15:59.18,0:16:02.56,Italics,MICHIO,0,0,0,,Roxanne is shaking her \Nhips right in front of me!
+Dialogue: 99,0:16:02.84,0:16:05.20,Italics,MICHIO,0,0,0,,This isn't fair!
+Dialogue: 99,0:16:05.20,0:16:08.57,Main,ROXANNE,0,0,0,,Also, sometimes it moves \Ninvoluntarily when I'm happy.
+Dialogue: 99,0:16:08.57,0:16:13.85,Main,MICHIO,0,0,0,,I see. Then we'd better keep your \Ntail moving as much as possible.
+Dialogue: 99,0:16:13.85,0:16:15.07,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:16:15.42,0:16:17.84,Main,ROXANNE,0,0,0,,Thank you, Master.
+Dialogue: 99,0:16:18.54,0:16:22.00,Main,MICHIO,0,0,0,,Why don't we perform an experiment?
+Dialogue: 99,0:16:29.88,0:16:30.68,Main,MICHIO,0,0,0,,How is it?
+Dialogue: 99,0:16:31.17,0:16:35.01,Main,RXOANNE,0,0,0,,That feels good, Master.
+Dialogue: 99,0:16:35.72,0:16:38.18,Main,MICHIO,0,0,0,,With two of us, we can wash our heads, too.
+Dialogue: 99,0:16:41.76,0:16:44.08,Main,ROXANNE,0,0,0,,Master, shall I wash yours, as well?
+Dialogue: 99,0:16:44.08,0:16:45.06,Main,MICHIO,0,0,0,,Yes, please.
+Dialogue: 99,0:16:45.94,0:16:48.69,Italics,MICHIO,0,0,0,,This feels great.
+Dialogue: 99,0:16:48.69,0:16:52.02,Italics,MICHIO,0,0,0,,I hadn't washed my hair \Nonce yet since coming here.
+Dialogue: 99,0:16:54.72,0:16:56.50,Italics,MICHIO,0,0,0,,This is paradise!
+Dialogue: 99,0:16:57.35,0:17:00.90,Italics,MICHIO,0,0,0,,No, no. I should focus on having \Nmy hair washed right now.
+Dialogue: 99,0:17:00.90,0:17:02.38,Italics,MICHIO,0,0,0,,Stay calm.
+Dialogue: 99,0:17:03.00,0:17:07.50,Main,ROXANNE,0,0,0,,Master, did I miss any spots?
+Dialogue: 99,0:17:07.50,0:17:09.51,Main,MICHIO,0,0,0,,No, that's enough.
+Dialogue: 99,0:17:11.20,0:17:13.34,Italics,MICHIO,0,0,0,,There was another ambush waiting for me here!
+Dialogue: 99,0:17:13.61,0:17:18.20,Italics,MICHIO,0,0,0,,This is great. I wish I \Ncould stare at them forever.
+Dialogue: 99,0:17:18.20,0:17:22.36,Italics,MICHIO,0,0,0,,Wait, no! Why am I being satisfied \Nby just looking at them?
+Dialogue: 99,0:17:22.36,0:17:25.23,Italics,MICHIO,0,0,0,,Now is the time to take one big step forward.
+Dialogue: 99,0:17:26.84,0:17:28.15,Main,MICHIO,0,0,0,,Roxanne.
+Dialogue: 99,0:17:34.01,0:17:35.53,Main,ROXANNE,0,0,0,,Um, uh...
+Dialogue: 99,0:17:39.42,0:17:41.06,Main,ROXANNE,0,0,0,,I'll put these clothes on.
+Dialogue: 99,0:17:41.06,0:17:41.49,Main,MICHIO,0,0,0,,Huh?
+Dialogue: 99,0:17:41.73,0:17:45.66,Main,ROXANNE,0,0,0,,Wouldn't you be pleased if I wore this?
+Dialogue: 99,0:17:46.28,0:17:50.25,Italics,MICHIO,0,0,0,,What did that slave trader teach her?
+Dialogue: 99,0:17:50.65,0:17:52.75,Main,MICHIO,0,0,0,,You can wear that another time.
+Dialogue: 99,0:17:53.11,0:17:54.00,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:18:01.55,0:18:02.74,Main,MICHIO,0,0,0,,Remove your undergarments.
+Dialogue: 99,0:18:03.98,0:18:04.82,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:18:08.87,0:18:10.73,Main,,0,0,0,,Is this all right?
+Dialogue: 99,0:18:14.23,0:18:15.74,Main,ROXANNE,0,0,0,,Excuse me.
+Dialogue: 99,0:18:29.50,0:18:32.90,Italics,MICHIO,0,0,0,,Now Roxanne is in her birthday suit.
+Dialogue: 99,0:18:38.72,0:18:41.97,Italics,MICHIO,0,0,0,,She closed her eyes. \NWhich means this is all right, right?
+Dialogue: 99,0:18:48.60,0:18:51.54,Italics,MICHIO,0,0,0,,I'm kissing her.
+Dialogue: 99,0:18:52.42,0:18:54.82,Italics,MICHIO,0,0,0,,I'm kissing a beautiful girl.
+Dialogue: 99,0:18:56.33,0:18:59.48,Italics,MICHIO,0,0,0,,I wish I could be more aggressive, \Nbut I need to be patient.
+Dialogue: 99,0:18:59.48,0:19:02.08,Italics,MICHIO,0,0,0,,I can't use tongue from the get-go.
+Dialogue: 99,0:19:02.08,0:19:04.63,Italics,MICHIO,0,0,0,,At least, I think I've heard people say that.
+Dialogue: 99,0:19:04.63,0:19:08.90,Italics,MICHIO,0,0,0,,Gently, like a tender invitation.
+Dialogue: 99,0:19:08.90,0:19:10.62,Italics,MICHIO,0,0,0,,Don't scare her.
+Dialogue: 99,0:19:14.04,0:19:16.98,Main,MICHIO,0,0,0,,From now on, I want you to kiss \Nme before we go to bed at night
+Dialogue: 99,0:19:16.98,0:19:19.14,Main,MICHIO,0,0,0,,and when we wake up in the morning.
+Dialogue: 99,0:19:19.14,0:19:20.04,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:19:20.04,0:19:22.14,Main,MICHIO,0,0,0,,One more time.
+Dialogue: 99,0:19:22.56,0:19:24.82,Italics,MICHIO,0,0,0,,I'll be a little more \Naggressive the second time.
+Dialogue: 99,0:19:27.16,0:19:29.98,Italics,MICHIO,0,0,0,,Good. She's accepting my advances.
+Dialogue: 99,0:19:30.42,0:19:33.98,Italics,MICHIO,0,0,0,,I don't want to stop, but I want \Nto savor other parts of her, too.
+Dialogue: 99,0:19:33.98,0:19:37.44,Italics,MICHIO,0,0,0,,This time I want to get a \Nproper look at Roxanne's breasts,
+Dialogue: 99,0:19:37.44,0:19:39.43,Italics,MICHIO,0,0,0,,not just steal glances at them.
+Dialogue: 99,0:19:39.43,0:19:42.43,Main,MICHIO,0,0,0,,May I touch them?
+Dialogue: 99,0:19:42.43,0:19:43.41,Main,ROXANNE,0,0,0,,Go ahead.
+Dialogue: 99,0:19:49.79,0:19:52.21,Main,MICHIO,0,0,0,,So soft.
+Dialogue: 99,0:19:52.21,0:19:55.26,Italics,MICHIO,0,0,0,,It's far smoother than touching \Nthem through fabric,
+Dialogue: 99,0:19:55.26,0:19:57.17,Italics,MICHIO,0,0,0,,and they cling to my hands a little.
+Dialogue: 99,0:19:57.17,0:19:59.24,Italics,MICHIO,0,0,0,,My hands sink into them forever,
+Dialogue: 99,0:19:59.24,0:20:02.18,Italics,MICHIO,0,0,0,,but they bounce right back \Ninto their original shape.
+Dialogue: 99,0:20:03.09,0:20:05.68,Italics,MICHIO,0,0,0,,This is bliss.
+Dialogue: 99,0:20:13.20,0:20:17.41,Italics,MICHIO,0,0,0,,I'd only tasted the fruit \Nof Roxanne in my dreams,
+Dialogue: 99,0:20:17.41,0:20:19.94,Italics,MICHIO,0,0,0,,but they're even juicier than I imagined.
+Dialogue: 99,0:20:23.08,0:20:24.38,Main,MICHIO,0,0,0,,Roxanne.
+Dialogue: 99,0:20:27.28,0:20:28.21,Main,MICHIO,0,0,0,,Can I?
+Dialogue: 99,0:20:53.27,0:20:56.58,Main,ROXANNE,0,0,0,,Master, I'm gonna...
+Dialogue: 99,0:21:04.83,0:21:06.83,Main,ROXANNE,0,0,0,,Master...
+Dialogue: 99,0:21:19.77,0:21:21.66,Italics,MICHIO,0,0,0,,It's morning.
+Dialogue: 99,0:21:24.59,0:21:29.43,Italics,MICHIO,0,0,0,,I never knew the weight of another \Nperson could feel so comfortable.
+Dialogue: 99,0:21:29.43,0:21:32.55,Italics,MICHIO,0,0,0,,I can't believe I'm getting to \Nexperience a morning like this.
+Dialogue: 99,0:21:37.06,0:21:38.51,Italics,MICHIO,0,0,0,,Oh, right.
+Dialogue: 99,0:21:38.51,0:21:42.52,Italics,MICHIO,0,0,0,,I told her to kiss me before \Nbed and when I wake up.
+Dialogue: 99,0:21:42.52,0:21:44.97,Italics,MICHIO,0,0,0,,She's faithfully following my instructions.
+Dialogue: 99,0:21:47.75,0:21:50.07,Main,ROXANNE,0,0,0,,Good morning, Master.
+Dialogue: 99,0:21:50.28,0:21:52.33,Main,MICHIO,0,0,0,,Good morning, Roxanne.
+Dialogue: 99,0:21:52.33,0:21:53.08,Italics,MICHIO,0,0,0,,Whoops.
+Dialogue: 99,0:21:53.08,0:21:55.08,Italics,MICHIO,0,0,0,,I responded to her touch.
+Dialogue: 99,0:21:55.08,0:21:58.55,Italics,MICHIO,0,0,0,,I hate to get out of bed, but \Nwe can have fun again tonight.
+Dialogue: 99,0:21:58.55,0:21:59.08,Main,MICHIO,0,0,0,,For now...
+Dialogue: 99,0:22:00.41,0:22:03.79,Main,MICHIO,0,0,0,,Shall we head into the labyrinth, Roxanne?
+Dialogue: 99,0:22:04.44,0:22:06.36,Main,ROXANNE,0,0,0,,Yes, Master.
 Dialogue: 0,0:00:20.29,0:00:25.08,Sign_Basic,ShowTitle,0,0,0,,{\fad(1500,0)\fnTimes New Roman\b1\c&H8A0001&\bord9\3c&HFFFFFF&\blur9\shad0\fs90\fscy150}in the Labyrinth of Another World
 Dialogue: 0,0:00:21.83,0:00:25.08,Sign_Basic,ShowTitle,0,0,0,,{\fad(1075,0)\pos(960,30)\bord9\an8\fnTimes New Roman\b1\fs132\fsp30\shad0\c&HFFFFFF&\3c&H2281EA&\blur9}H{\3c&H3463E2&}a{\3c&H4546D9&}r{\3c&H5728D1&}e{\3c&H680AC8&}m
 Dialogue: 0,0:05:56.83,0:05:59.08,Status Text,SIGN,0,0,0,,{\fs21\move(444,213,-516,756)}Identify

@@ -39,355 +39,355 @@ Style: ED TL,FOT-Rowdy Std EB,68,&H00FFFFFF,&H000000FF,&H004F03C8,&H004F03C8,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:06.84,0:00:10.01,Dialogue,MICHIO,0,0,0,,Ugh, de ce sare atât de mult sânge?
-Dialogue: 100,0:00:11.17,0:00:13.99,Dialogue,MICHIO,0,0,0,,Da, jocul ăsta e varză.
-Dialogue: 100,0:01:49.38,0:01:49.94,Dialogue,MICHIO,0,0,0,,Ce?
-Dialogue: 100,0:01:51.12,0:01:52.54,Dialogue,MICHIO,0,0,0,,Unde mă aflu?
-Dialogue: 100,0:01:53.22,0:01:58.30,Dialogue,MICHIO,0,0,0,,{\i1}Parcă încercam să mă joc \Nun joc online foarte ciudat.
-Dialogue: 100,0:01:58.73,0:02:00.90,Dialogue,MICHIO,0,0,0,,{\i1}Dar nu-mi amintesc nimic după aceea.
-Dialogue: 100,0:02:01.80,0:02:03.98,Dialogue,MICHIO,0,0,0,,Vai, ce m-a speriat!
-Dialogue: 100,0:02:05.32,0:02:06.38,Dialogue,MICHIO,0,0,0,,Un cal?
-Dialogue: 100,0:02:07.00,0:02:09.02,Dialogue,MICHIO,0,0,0,,Da, acela e un cal.
-Dialogue: 100,0:02:11.30,0:02:12.67,Dialogue,MICHIO,0,0,0,,Asta e cumva?
-Dialogue: 100,0:02:14.96,0:02:17.36,Dialogue,MICHIO,0,0,0,,Bun, „identificare”.
-Dialogue: 100,0:02:19.01,0:02:23.91,Dialogue,MICHIO,0,0,0,,Știam eu. Asta înseamnă că sunt în joc.
-Dialogue: 100,0:02:24.83,0:02:29.23,Dialogue,MICHIO,0,0,0,,Asta e incredibil. \NParcă ar fi corpul meu real.
-Dialogue: 100,0:02:29.23,0:02:31.35,Dialogue,MICHIO,0,0,0,,Chiar și treningul meu a fost recreat.
-Dialogue: 100,0:02:33.61,0:02:38.01,Dialogue,MICHIO,0,0,0,,Mi-aș fi dorit ca jocul să-mi fi dat ceva de purtat în picioare în loc să mă recreeze la perfecție.
-Dialogue: 100,0:02:39.00,0:02:40.01,Dialogue,MICHIO,0,0,0,,Acelea sunt...
-Dialogue: 100,0:02:42.63,0:02:45.52,Dialogue,MICHIO,0,0,0,,Chestia asta e mult \Nmai comodă în jocurile
-Dialogue: 100,0:02:45.52,0:02:48.89,Dialogue,MICHIO,0,0,0,,în care poți schimba \Nechipamentul cu un singur click
-Dialogue: 100,0:02:48.89,0:02:51.03,Dialogue,MICHIO,0,0,0,,spre deosebire de VR.
-Dialogue: 100,0:02:52.68,0:02:53.90,Dialogue,MICHIO,0,0,0,,În regulă.
-Dialogue: 100,0:02:55.64,0:02:58.02,Dialogue,MICHIO,0,0,0,,Îmi pare rău că am \Nfurat lucrurile altcuiva.
-Dialogue: 100,0:02:58.75,0:03:02.41,Dialogue,MICHIO,0,0,0,,Dacă-mi aduc bine aminte, \Nnu alesesem și niște echipament bonus?
-Dialogue: 100,0:03:02.66,0:03:03.79,Dialogue,MICHIO,0,0,0,,Oare unde sunt?
-Dialogue: 100,0:03:05.14,0:03:07.23,Dialogue,MICHIO,0,0,0,,Oh, cât de drăguț.
-Dialogue: 100,0:03:07.72,0:03:08.79,Dialogue,MICHIO,0,0,0,,Acesta e unul dintre ele.
-Dialogue: 100,0:03:10.84,0:03:13.92,Dialogue,MICHIO,0,0,0,,Durandal, nu? Nu e rea deloc.
-Dialogue: 100,0:03:15.04,0:03:18.67,Dialogue,MICHIO,0,0,0,,Iar acesta trebuie să fie \Naccesoriul pe care l-am ales.
-Dialogue: 100,0:03:20.45,0:03:22.15,Dialogue,MICHIO,0,0,0,,Nici abilitățile sale nu sunt rele.
-Dialogue: 100,0:03:22.15,0:03:24.68,Dialogue,MICHIO,0,0,0,,E un nume potrivit \Npentru începutul unui joc.
-Dialogue: 100,0:03:25.09,0:03:28.16,Dialogue,MICHIO,0,0,0,,Nu am idee cum au făcut \Nacest VR atât de realist,
-Dialogue: 100,0:03:28.16,0:03:30.07,Dialogue,MICHIO,0,0,0,,dar sunt în interiorul jocului.
-Dialogue: 100,0:03:30.07,0:03:31.44,Dialogue,MICHIO,0,0,0,,Iar acum că știu asta...
-Dialogue: 100,0:03:32.57,0:03:35.89,Dialogue,MICHIO,0,0,0,,E timpul să înceapă \Naventura, strigați: „Ura!”
-Dialogue: 100,0:03:42.16,0:03:45.46,Dialogue,MICHIO,0,0,0,,Se pare că încep într-un \Nloc destul de pașnic.
-Dialogue: 100,0:03:46.24,0:03:46.95,Dialogue,MICHIO,0,0,0,,Oh!
-Dialogue: 100,0:03:47.48,0:03:48.78,Dialogue,MICHIO,0,0,0,,Fir-ar!
-Dialogue: 100,0:03:50.45,0:03:52.33,Dialogue,MICHIO,0,0,0,,{\i1}Un sătean și un fermier, nu?
-Dialogue: 100,0:03:52.33,0:03:53.58,Dialogue,MICHIO,0,0,0,,{\i1}Mă întreb cum sunt ei diferiți.
-Dialogue: 100,0:03:55.76,0:03:56.88,Dialogue,MICHIO,0,0,0,,{\i1}Ce se petrece?
-Dialogue: 100,0:03:56.22,0:03:58.04,Dialogue Overlap,VILLAGER,0,0,0,,Se apropie!
-Dialogue: 100,0:03:59.29,0:04:00.38,Dialogue,MICHIO,0,0,0,,{\i1}Identificare.
-Dialogue: 100,0:04:02.72,0:04:05.72,Dialogue,MICHIO,0,0,0,,{\i1}Jocul începe cu un atac al bandiților?
-Dialogue: 100,0:04:06.60,0:04:08.35,Dialogue,MICHIO,0,0,0,,{\i1}Plănuiesc cumva să li se opună?
-Dialogue: 100,0:04:08.35,0:04:11.42,Dialogue,MICHIO,0,0,0,,{\i1}Au nivelurile destul de apropiate, \Ndar oare vor fi în regulă?
-Dialogue: 100,0:04:13.31,0:04:17.15,Dialogue,MICHIO,0,0,0,,{\an8\i1}Unul dintre ei are nivelul mult mai mare. \NEl trebuie să fie liderul.
-Dialogue: 100,0:04:17.45,0:04:20.90,Dialogue,MICHIO,0,0,0,,{\i1}„Bandana unui hoț?” \NAre un echipament destul de drăguț.
-Dialogue: 100,0:04:25.57,0:04:28.79,Dialogue,MICHIO,0,0,0,,Știam eu. Nu le pot face față.
-Dialogue: 100,0:04:29.30,0:04:29.95,Dialogue,MICHIO,0,0,0,,Ce?
-Dialogue: 100,0:04:30.35,0:04:35.92,Dialogue,MICHIO,0,0,0,,Asta ar putea fi șansa mea să mă strecor prin spate și să-l străpung cu sabia.
-Dialogue: 100,0:04:38.04,0:04:41.35,Dialogue,MICHIO,0,0,0,,{\i1}E în regulă. \NAcesta e primul event din joc.
-Dialogue: 100,0:04:41.35,0:04:44.59,Dialogue,MICHIO,0,0,0,,{\i1}Chiar și un personaj de nivel 1 ca mine ar trebui să-i poată învinge.
-Dialogue: 100,0:04:46.65,0:04:48.22,Dialogue,MICHIO,0,0,0,,{\i1}Bun, s-o facem!
-Dialogue: 100,0:04:54.01,0:04:55.77,Dialogue,MICHIO,0,0,0,,De ce sare atât de mult sânge?
-Dialogue: 100,0:04:55.77,0:04:57.15,Dialogue,MICHIO,0,0,0,,Da, jocul ăsta chiar e varză.
-Dialogue: 100,0:04:59.99,0:05:02.52,Dialogue,MICHIO,0,0,0,,{\i1}Armura lui mă oprește din a-i tăia corpul.
-Dialogue: 100,0:05:02.52,0:05:05.76,Dialogue,MICHIO,0,0,0,,{\i1}În acest caz, voi face asta și apoi asta!
-Dialogue: 100,0:05:08.74,0:05:11.92,Dialogue,MICHIO,0,0,0,,Pfiu, mă bucur că iau lecții de kendo.
-Dialogue: 100,0:05:15.33,0:05:18.74,Dialogue,MICHIO,0,0,0,,{\i1}Au luat-o la fugă imediat cum situația nu a mai fost în favoarea lor.
-Dialogue: 100,0:05:18.74,0:05:20.91,Dialogue,MICHIO,0,0,0,,{\i1}Doar sunt niște bandiți, la urma urmei.
-Dialogue: 100,0:05:20.91,0:05:22.88,Dialogue,MICHIO,0,0,0,,{\i1}Nu am de ce să le arăt milă.
-Dialogue: 100,0:05:22.88,0:05:26.13,Dialogue,MICHIO,0,0,0,,{\i1}Voi obține puncte de \Nexperiență de pe urma lor.
-Dialogue: 100,0:05:34.35,0:05:37.36,Dialogue,MICHIO,0,0,0,,Vai, sunt extenuat.
-Dialogue: 100,0:05:38.00,0:05:39.06,Dialogue,MICHIO,0,0,0,,Identificare.
-Dialogue: 100,0:05:39.36,0:05:41.31,Dialogue,MICHIO,0,0,0,,Hei, am crescut în nivel.
-Dialogue: 100,0:05:41.79,0:05:44.58,Dialogue,MICHIO,0,0,0,,Dar doar cu un singur nivel după toți bandiții pe care i-am eliminat?
-Dialogue: 100,0:05:46.48,0:05:50.24,Dialogue,SOMARA,0,0,0,,Îți mulțumesc că ne-ai salvat satul.
-Dialogue: 100,0:05:50.88,0:05:54.50,Dialogue,SOMARA,0,0,0,,Eu sunt Somara, \Nprimarul acestui sat.
-Dialogue: 100,0:05:55.07,0:05:58.15,Dialogue,SOMARA,0,0,0,,Te rog să vii la mine acasă.
-Dialogue: 100,0:05:58.72,0:06:02.25,Dialogue,SOMARA,0,0,0,,Mi-ar plăcea să-ți mulțumesc \Nîn orice mod aș putea.
-Dialogue: 100,0:06:02.48,0:06:05.32,Dialogue,MICHIO,0,0,0,,Serios? În acest caz, \Nîți voi accepta oferta.
-Dialogue: 100,0:06:07.65,0:06:09.01,Dialogue,MICHIO,0,0,0,,Ce sunt astea?
-Dialogue: 100,0:06:09.50,0:06:11.24,Dialogue,SOMARA,0,0,0,,Prada de după luptă.
-Dialogue: 100,0:06:11.24,0:06:16.02,Dialogue,SOMARA,0,0,0,,Sunt sigur că ești extenuat, \Ndar aș dori să arunci și tu o privire.
-Dialogue: 100,0:06:16.28,0:06:17.25,Dialogue,MICHIO,0,0,0,,Eu?
-Dialogue: 100,0:06:17.25,0:06:22.22,Dialogue,SOMARA,0,0,0,,Da. Sătenii au învins doi bandiți,
-Dialogue: 100,0:06:22.22,0:06:24.48,Dialogue,SOMARA,0,0,0,,deci ne vom lua și noi partea.
-Dialogue: 100,0:06:24.78,0:06:28.52,Dialogue,SOMARA,0,0,0,,Dar restul îți aparține ție, dle Michio.
-Dialogue: 100,0:06:29.22,0:06:32.74,Dialogue,MICHIO,0,0,0,,Înțeleg, deci așa funcționează. \NAcestea fiind spuse...
-Dialogue: 100,0:06:33.09,0:06:33.99,Dialogue,MICHIO,0,0,0,,Identificare.
-Dialogue: 100,0:06:34.48,0:06:36.25,Dialogue,MICHIO,0,0,0,,Nu are niciun rost să \Niau astea cu mine.
-Dialogue: 100,0:06:36.78,0:06:37.42,Dialogue,SOMARA,0,0,0,,Ce?
-Dialogue: 100,0:06:38.19,0:06:39.98,Dialogue,SOMARA,0,0,0,,S-a întâmplat ceva?
-Dialogue: 100,0:06:40.56,0:06:41.75,Dialogue,MICHIO,0,0,0,,Nici asta nu e.
-Dialogue: 100,0:06:45.00,0:06:50.62,Dialogue,MICHIO,0,0,0,,Acel tip purta o bandană de hoț, \Nnu una normală.
-Dialogue: 100,0:06:50.62,0:06:52.89,Dialogue,SOMARA,0,0,0,,Ce? D-Dar...
-Dialogue: 100,0:06:53.17,0:06:55.26,Dialogue,SOMARA,0,0,0,,Voi investiga de-ndată ce s-a întâmplat.
-Dialogue: 100,0:06:55.26,0:06:58.67,Dialogue,SOMARA,0,0,0,,Îți voi pregăti o cameră.
-Dialogue: 100,0:06:58.67,0:07:00.84,Dialogue,SOMARA,0,0,0,,Te rog să te odihnești acolo.
-Dialogue: 100,0:07:00.84,0:07:03.15,Dialogue,MICHIO,0,0,0,,Foarte bine. Așa voi face.
-Dialogue: 100,0:07:06.13,0:07:08.74,Dialogue,MICHIO,0,0,0,,Destulă acțiune pentru astăzi.
-Dialogue: 100,0:07:10.15,0:07:10.79,Dialogue,MICHIO,0,0,0,,{\i1}Ce?
-Dialogue: 100,0:07:11.41,0:07:13.44,Dialogue,MICHIO,0,0,0,,{\i1}Cum ies din joc?
-Dialogue: 100,0:07:13.91,0:07:15.37,Dialogue,MICHIO,0,0,0,,„Delogare.”
-Dialogue: 100,0:07:18.35,0:07:22.35,Dialogue,MICHIO,0,0,0,,„Deloghează-mă. Închide jocul. Sfârșește sesiunea. Ieșire.”
-Dialogue: 100,0:07:27.02,0:07:28.02,Dialogue,MICHIO,0,0,0,,„Salvare.”
-Dialogue: 100,0:07:28.77,0:07:31.56,Dialogue,MICHIO,0,0,0,,„Meniu. Deschide meniul. \NDeschide fereastra.”
-Dialogue: 100,0:07:31.56,0:07:33.51,Dialogue,MICHIO,0,0,0,,„Închide fereastra. \NOpțiuni de închidere.”
-Dialogue: 100,0:07:33.51,0:07:36.31,Dialogue,MICHIO,0,0,0,,„Salvează. Salvează și închide.”
-Dialogue: 100,0:07:36.31,0:07:39.14,Dialogue,MICHIO,0,0,0,,„Închide fără să salvezi. Oprire.”
-Dialogue: 100,0:07:39.14,0:07:40.52,Dialogue,MICHIO,0,0,0,,Închide jocul!
-Dialogue: 100,0:07:40.52,0:07:42.02,Dialogue,MICHIO,0,0,0,,Închide-te!
-Dialogue: 100,0:07:48.28,0:07:52.46,Dialogue,MICHIO,0,0,0,,{\i1}Stai puțin. Oare chiar \Nsunt în interiorul unui joc?
-Dialogue: 100,0:07:52.46,0:07:55.54,Dialogue,MICHIO,0,0,0,,{\i1}Totul e atât de real. \NPoate că asta e, de fapt, viața reală.
-Dialogue: 100,0:07:55.54,0:07:57.28,Dialogue,MICHIO,0,0,0,,{\i1}Nu, așa ceva nu e posibil.
-Dialogue: 100,0:07:57.73,0:07:58.62,Dialogue,MICHIO,0,0,0,,Identificare.
-Dialogue: 100,0:07:59.92,0:08:03.04,Dialogue,MICHIO,0,0,0,,{\i1}Vezi? Așa ceva nu e posibil în viața reală.
-Dialogue: 100,0:08:03.04,0:08:04.94,Dialogue,MICHIO,0,0,0,,{\i1}Trebuie să fie un joc.
-Dialogue: 100,0:08:08.05,0:08:10.83,Dialogue,MICHIO,0,0,0,,Acel mesaj era pe bune?
-Dialogue: 100,0:08:14.31,0:08:16.40,Dialogue,SOMARA,0,0,0,,Ți-am adus niște apă caldă.
-Dialogue: 100,0:08:16.40,0:08:18.35,Dialogue,SOMARA,0,0,0,,Te poți spăla cu ea.
-Dialogue: 100,0:08:18.85,0:08:22.49,Dialogue,SOMARA,0,0,0,,Ți-am adus și niște haine de schimb.
-Dialogue: 100,0:08:22.49,0:08:23.26,Dialogue,MICHIO,0,0,0,,Ce?
-Dialogue: 100,0:08:24.44,0:08:28.27,Dialogue,SOMARA,0,0,0,,Hainele pe care le porți \Nacum sunt murdare.
-Dialogue: 100,0:08:28.27,0:08:30.86,Dialogue,SOMARA,0,0,0,,Ți le vom spăla noi.
-Dialogue: 100,0:08:31.28,0:08:33.56,Dialogue,MICHIO,0,0,0,,{\i1}Chiar dacă sunt în interiorul unui joc,
-Dialogue: 100,0:08:33.56,0:08:36.41,Dialogue,MICHIO,0,0,0,,{\i1}dacă nu pot ieși din el, atunci, acest loc devine realitatea mea.
-Dialogue: 100,0:08:37.23,0:08:39.62,Dialogue,MICHIO,0,0,0,,{\i1}Iar dacă asta e realitatea,
-Dialogue: 100,0:08:40.12,0:08:42.40,Dialogue,MICHIO,0,0,0,,{\i1}atunci, nu am omorât niște \Nsimple personaje dintr-un joc.
-Dialogue: 100,0:08:42.97,0:08:44.62,Dialogue,MICHIO,0,0,0,,{\i1}Ci oameni.
-Dialogue: 100,0:08:44.84,0:08:47.99,Dialogue,SOMARA,0,0,0,,Dle Michio, s-a întâmplat ceva?
-Dialogue: 100,0:08:48.87,0:08:51.13,Dialogue,MICHIO,0,0,0,,Nu, nimic.
-Dialogue: 100,0:08:51.33,0:08:52.85,Dialogue,SOMARA,0,0,0,,Înțeleg.
-Dialogue: 100,0:08:52.85,0:08:57.19,Dialogue,SOMARA,0,0,0,,În acest caz, cheamă-mă \Ndupă ce te-ai schimbat.
-Dialogue: 100,0:09:06.19,0:09:08.47,Dialogue,MICHIO,0,0,0,,{\i1}Am omorât oameni.
-Dialogue: 100,0:09:08.47,0:09:10.01,Dialogue,MICHIO,0,0,0,,{\i1}Ăsta e un fapt.
-Dialogue: 100,0:09:10.57,0:09:13.08,Dialogue,MICHIO,0,0,0,,{\i1}Dar e o chestiune de perspectivă.
-Dialogue: 100,0:09:14.53,0:09:18.00,Dialogue,MICHIO,0,0,0,,{\fad(200,0)\i1}În acestă lume, e ceva normal \Nca bandiții să atace săte.
-Dialogue: 100,0:09:18.00,0:09:21.71,Dialogue,MICHIO,0,0,0,,{\i1}It's likely the same thing will happen again.
-Dialogue: 100,0:09:21.71,0:09:25.11,Dialogue,MICHIO,0,0,0,,{\i1}And when it does, if I lose my nerve, I won't \Neven be able to watch what's happening.
-Dialogue: 100,0:09:26.05,0:09:28.54,Dialogue,MICHIO,0,0,0,,{\i1}I'm glad I got to experience this early on.
-Dialogue: 100,0:09:28.54,0:09:29.71,Dialogue,MICHIO,0,0,0,,{\i1}That's how I feel.
-Dialogue: 100,0:09:31.45,0:09:34.26,Dialogue,MICHIO,0,0,0,,{\i1}Așa este. Asta e lumea reală.
-Dialogue: 100,0:09:35.08,0:09:40.27,Dialogue,MICHIO,0,0,0,,{\i1}Și trebuie să trăiesc aici.
-Dialogue: 100,0:09:42.96,0:09:45.43,Dialogue,SOMARA,0,0,0,,Îmi cer scuze, dle Michio.
-Dialogue: 100,0:09:45.43,0:09:48.48,Dialogue,SOMARA,0,0,0,,Acest bărbat a furat bandana.
-Dialogue: 100,0:09:48.81,0:09:50.34,Dialogue,MICHIO,0,0,0,,E din sat?
-Dialogue: 100,0:09:50.96,0:09:52.47,Dialogue,SOMARA,0,0,0,,Îmi e rușine să recunosc, dar da.
-Dialogue: 100,0:09:53.23,0:09:55.74,Dialogue,SOMARA,0,0,0,,Acesta e obiectul pe care-l ascundea.
-Dialogue: 100,0:09:56.13,0:09:57.36,Dialogue,MICHIO,0,0,0,,Asta e ceea ce căutam.
-Dialogue: 100,0:09:57.77,0:10:00.99,Dialogue,SOMARA,0,0,0,,Cum ar trebui să-l pedepsim?
-Dialogue: 100,0:10:01.37,0:10:03.66,Dialogue,MICHIO,0,0,0,,Sunt sigur că satul vostru are propriile reguli.
-Dialogue: 100,0:10:04.14,0:10:07.00,Dialogue,MICHIO,0,0,0,,I don't intend to dispute them.
-Dialogue: 100,0:10:07.44,0:10:10.44,Dialogue,SOMARA,0,0,0,,S-Serios?
-Dialogue: 100,0:10:10.44,0:10:12.00,Dialogue,MICHIO,0,0,0,,{\i1}Ce? De ce a făcut fața asta?
-Dialogue: 100,0:10:14.71,0:10:17.33,Dialogue,SOMARA,0,0,0,,Will of the swiftly flowing spirits,
-Dialogue: 100,0:10:17.33,0:10:19.76,Dialogue,SOMARA,0,0,0,,steady breath of wisdom.
-Dialogue: 100,0:10:20.09,0:10:22.75,Dialogue,SOMARA,0,0,0,,Open Intelligence Card.
-Dialogue: 100,0:10:22.75,0:10:24.51,Dialogue,MICHIO,0,0,0,,A apărut ceva.
-Dialogue: 100,0:10:24.51,0:10:26.31,Dialogue,MICHIO,0,0,0,,Ce faceți acolo?
-Dialogue: 100,0:10:26.80,0:10:32.02,Dialogue,SOMARA,0,0,0,,Am scris pe Cardul Informațional al acestui bărbat că este sclav.
-Dialogue: 100,0:10:32.42,0:10:33.80,Dialogue,MICHIO,0,0,0,,{\i1}Înțeleg.
-Dialogue: 100,0:10:33.80,0:10:37.53,Dialogue,MICHIO,0,0,0,,{\i1}Acel card arată statusul social al unei persoane.
-Dialogue: 100,0:10:39.11,0:10:40.71,Dialogue,MICHIO,0,0,0,,Ai spus „sclav”?
-Dialogue: 100,0:10:40.71,0:10:46.33,Dialogue,SOMARA,0,0,0,,Da. În acest sat, cei care fură \Nsunt vânduți drept sclavi.
-Dialogue: 100,0:10:46.33,0:10:51.28,Dialogue,SOMARA,0,0,0,,Jumătate din banii obținuți din vânzare sunt dați păgubitului.
-Dialogue: 100,0:10:51.28,0:10:52.54,Dialogue,MICHIO,0,0,0,,Cum rămâne cu cealaltă jumătate?
-Dialogue: 100,0:10:52.54,0:10:56.05,Dialogue,SOMARA,0,0,0,,E dată familiei lor care \Na pierdut un muncitor.
-Dialogue: 100,0:10:56.44,0:10:57.80,Dialogue,MICHIO,0,0,0,,Înțeleg.
-Dialogue: 100,0:10:57.80,0:11:02.30,Dialogue,MICHIO,0,0,0,,{\i1}He was hoping I'd go easy on \Nhim so this wouldn't happen.
-Dialogue: 100,0:11:02.63,0:11:04.18,Dialogue,MICHIO,0,0,0,,{\i1}Atunci, ar fi trebuit să spună asta!
-Dialogue: 100,0:11:04.68,0:11:06.03,Dialogue,MICHIO,0,0,0,,{\i1}Asta e o lume crudă.
-Dialogue: 100,0:11:06.03,0:11:08.68,Dialogue,MICHIO,0,0,0,,{\i1}Există chiar și sclavi aici, nu?
-Dialogue: 100,0:11:08.68,0:11:11.94,Dialogue,SOMARA,0,0,0,,Oh, aproape uitasem.
-Dialogue: 100,0:11:11.94,0:11:15.84,Dialogue,SOMARA,0,0,0,,Acestea sunt Cardule \NInformaționale ale bandiților.
-Dialogue: 100,0:11:15.84,0:11:16.40,Dialogue,MICHIO,0,0,0,,Oh.
-Dialogue: 100,0:11:16.65,0:11:19.44,Dialogue,SOMARA,0,0,0,,Dacă există cumva vreo \Nrecompensă pe capul lor,
-Dialogue: 100,0:11:19.44,0:11:22.16,Dialogue,SOMARA,0,0,0,,o poți obține cu ajutorul lor.
-Dialogue: 100,0:11:22.16,0:11:25.29,Dialogue,MICHIO,0,0,0,,O recompensă, nu?
-Dialogue: 100,0:11:25.29,0:11:28.76,Dialogue,SOMARA,0,0,0,,Există o garnizoană a \Ncavalerilor în orașul Vale.
-Dialogue: 100,0:11:28.76,0:11:31.23,Dialogue,SOMARA,0,0,0,,Vei putea obține recompensele acolo.
-Dialogue: 100,0:11:31.23,0:11:32.17,Dialogue,MICHIO,0,0,0,,Vale?
-Dialogue: 100,0:11:32.17,0:11:35.67,Dialogue,SOMARA,0,0,0,,E cel mai mare oraș din zonă.
-Dialogue: 100,0:11:35.92,0:11:38.62,Dialogue,SOMARA,0,0,0,,Mâine e zi comercială.
-Dialogue: 100,0:11:38.62,0:11:42.80,Dialogue,SOMARA,0,0,0,,Va fi locul pefect să vinzi \Nbunurile pe care le ai.
-Dialogue: 100,0:11:43.01,0:11:45.68,Dialogue,MICHIO,0,0,0,,{\i1}Înțeleg. Aș putea vinde toate aceste obiecte.
-Dialogue: 100,0:11:45.68,0:11:48.77,Dialogue,SOMARA,0,0,0,,Dacă ai nevoie, pot pregăti \Nși o căruță pentru tine.
-Dialogue: 100,0:11:48.77,0:11:51.56,Dialogue,SOMARA,0,0,0,,Vei pleca mâine dimineață?
-Dialogue: 100,0:11:51.56,0:11:53.81,Dialogue,MICHIO,0,0,0,,Da, vă rog.
-Dialogue: 100,0:11:56.05,0:12:00.08,Dialogue,MICHIO,0,0,0,,{\i1}Chiar mi-au dat tot ce am avut nevoie.
-Dialogue: 100,0:12:00.08,0:12:02.77,Dialogue,MICHIO,0,0,0,,{\i1}Nu doar că mi-au dat de mâncare, dar mi-au dat o și o recompensă.
-Dialogue: 100,0:12:03.74,0:12:06.02,Dialogue,MICHIO,0,0,0,,{\i1}Îmi pare puțin rău pentru \Nprimarul satului și acel bărbat,
-Dialogue: 100,0:12:06.02,0:12:08.03,Dialogue,MICHIO,0,0,0,,{\i1}dar asta a fost destul de bine \Npentru prima mea misiune.
-Dialogue: 100,0:12:08.27,0:12:10.29,Dialogue,SOMARA,0,0,0,,Îl putem vedea acum.
-Dialogue: 100,0:12:12.29,0:12:14.41,Dialogue,SOMARA,0,0,0,,Acela e orașul Vale.
-Dialogue: 100,0:12:22.31,0:12:24.05,Dialogue,MICHIO,0,0,0,,E un loc plin de viață.
-Dialogue: 100,0:12:24.44,0:12:27.56,Dialogue,SOMARA,0,0,0,,Ziua comercială e o \Ndată la fiecare cinci zile.
-Dialogue: 100,0:12:27.56,0:12:30.81,Dialogue,SOMARA,0,0,0,,La ea vin oameni din \Ntoate satele din apropiere.
-Dialogue: 100,0:12:35.12,0:12:39.72,Dialogue,FEMALE KNIGHT,0,0,0,,Bărbații pe care i-ai învins fac parte dintr-un grup de bandiți care-și face veacul pe lângă acest oraș.
-Dialogue: 100,0:12:39.72,0:12:42.47,Dialogue,FEMALE KNIGHT,0,0,0,,Doi dintre ei aveau \Nrecompense puse pe capul lor.
-Dialogue: 100,0:12:42.47,0:12:45.45,Dialogue,FEMALE KNIGHT,0,0,0,,Vei fi plătit în consecință, \Ndar, mai întâi...
-Dialogue: 100,0:12:47.32,0:12:47.70,Dialogue,MICHIO,0,0,0,,Ce?
-Dialogue: 100,0:12:48.36,0:12:52.18,Dialogue,SOMARA,0,0,0,,Dle Michio, ei ar dori să-ți \Nvadă Cardul Informațional...
-Dialogue: 100,0:12:53.31,0:12:54.92,Dialogue,MICHIO,0,0,0,,Oh, bine.
-Dialogue: 100,0:12:55.15,0:12:58.59,Dialogue,MICHIO,0,0,0,,{\i1}Nu vor crede că sunt un tip suspicios dacă nu va apărea nimic?
-Dialogue: 100,0:12:59.05,0:13:01.64,Dialogue,MALE KNIGHT,0,0,0,,Will of the swiftly flowing spirits,
-Dialogue: 100,0:13:01.64,0:13:04.00,Dialogue,MALE KNIGHT,0,0,0,,steady breath of wisdom.
-Dialogue: 100,0:13:04.00,0:13:06.40,Dialogue,MALE KNIGHT,0,0,0,,Open Intelligence Card.
-Dialogue: 100,0:13:08.01,0:13:09.72,Dialogue,MICHIO,0,0,0,,{\i1}Am scăpat.
-Dialogue: 100,0:13:10.19,0:13:11.32,Dialogue,MALE KNIGHT,0,0,0,,Totul e în regulă.
-Dialogue: 100,0:13:12.84,0:13:14.06,Dialogue,FEMALE KNIGHT,0,0,0,,Ține asta.
-Dialogue: 100,0:13:15.76,0:13:17.88,Dialogue,FEMALE KNIGHT,0,0,0,,Acum dispari.
-Dialogue: 100,0:13:18.76,0:13:21.28,Dialogue,MICHIO,0,0,0,,Niciun „mulțumesc”?
-Dialogue: 100,0:13:21.28,0:13:23.74,Dialogue,SOMARA,0,0,0,,Așa sunt cavalerii.
-Dialogue: 100,0:13:33.80,0:13:36.89,Dialogue,MICHIO,0,0,0,,{\i1}Simt că atmosfera din oraș s-a schimbat.
-Dialogue: 100,0:13:36.89,0:13:40.29,Dialogue,SOMARA,0,0,0,,Dle Michio, încearcă să nu te holbezi prea mult prin jur.
-Dialogue: 100,0:13:40.72,0:13:43.96,Dialogue,SOMARA,0,0,0,,Există câteva zone periculoase pe aici.
-Dialogue: 100,0:13:43.96,0:13:48.55,Dialogue,SOMARA,0,0,0,,Există și bordeluri pe aici, \Ndar ți-aș recomanda să nu le vizitezi.
-Dialogue: 100,0:13:48.84,0:13:50.29,Dialogue,MICHIO,0,0,0,,Bordeluri?
-Dialogue: 100,0:13:52.52,0:13:56.98,Dialogue,MICHIO,0,0,0,,{\i1}Bordeluri? Adică locul \Nunde găsești prostituate?
-Dialogue: 100,0:13:56.98,0:13:59.10,Dialogue,MICHIO,0,0,0,,{\i1}In other words, a whorehouse?
-Dialogue: 100,0:13:59.10,0:14:01.89,Dialogue,MICHIO,0,0,0,,{\i1}Un loc unde poți face dragoste cu femei sexy?
-Dialogue: 100,0:14:01.89,0:14:05.59,Dialogue,MICHIO,0,0,0,,{\i1}For squishing and squeezing, \Ndazzling and satiating!
-Dialogue: 100,0:14:05.59,0:14:08.04,Dialogue,SOMARA,0,0,0,,Dle Michio, dle Michio!
-Dialogue: 100,0:14:08.04,0:14:09.57,Dialogue,MICHIO,0,0,0,,Ce? Ce este?
-Dialogue: 100,0:14:09.57,0:14:13.83,Dialogue,SOMARA,0,0,0,,Am ajuns. Acesta e conacul \Nnegustorului de sclavi.
-Dialogue: 100,0:14:17.84,0:14:19.74,Dialogue,ALAN,0,0,0,,Îți mulțumesc pentru așteptare.
-Dialogue: 100,0:14:20.24,0:14:23.59,Dialogue,ALAN,0,0,0,,Eu sunt Alan, stăpânul acestei case.
-Dialogue: 100,0:14:24.30,0:14:27.34,Dialogue,ALAN,0,0,0,,Te rog să mă scuzi. \NAm mulți clienți astăzi.
-Dialogue: 100,0:14:27.83,0:14:29.66,Dialogue,SOMARA,0,0,0,,S-a întâmplat ceva?
-Dialogue: 100,0:14:29.66,0:14:31.34,Dialogue,ALAN,0,0,0,,Nu ai auzit?
-Dialogue: 100,0:14:31.59,0:14:35.60,Dialogue,ALAN,0,0,0,,Acum două zile, a fost descoperit un labirint în apropierea orașului.
-Dialogue: 100,0:14:35.92,0:14:38.35,Dialogue,MICHIO,0,0,0,,{\i1}Există labirinturi aici?
-Dialogue: 100,0:14:38.81,0:14:42.11,Dialogue,ALAN,0,0,0,,Mi s-a spus că ai sclav de vânzare.
-Dialogue: 100,0:14:45.13,0:14:47.32,Dialogue,ALAN,0,0,0,,Înțeleg situația.
-Dialogue: 100,0:14:47.32,0:14:51.74,Dialogue,ALAN,0,0,0,,Oricum, sunt impresionat că ai doborât majoritatea bandiților de unul singur.
-Dialogue: 100,0:14:52.37,0:14:54.13,Dialogue,MICHIO,0,0,0,,Îmi dai prea mult credit.
-Dialogue: 100,0:14:54.13,0:14:55.95,Dialogue,MICHIO,0,0,0,,Erau foarte slabi.
-Dialogue: 100,0:14:56.49,0:14:57.37,Dialogue,ALAN,0,0,0,,Oh?
-Dialogue: 100,0:14:58.21,0:15:01.24,Dialogue,SOMARA,0,0,0,,Oricum, ce spui de acest preț...
-Dialogue: 100,0:15:01.24,0:15:03.84,Dialogue,ALAN,0,0,0,,E sănătos și în floarea vârstei.
-Dialogue: 100,0:15:03.84,0:15:06.68,Dialogue,ALAN,0,0,0,,Cred că prețul pieței e \Nde vreo 30.000 de nari.
-Dialogue: 100,0:15:13.33,0:15:15.01,Dialogue,MICHIO,0,0,0,,Asta e partea satului.
-Dialogue: 100,0:15:15.40,0:15:20.16,Dialogue,SOMARA,0,0,0,,Arată bine. Ai grijă de tine, dle Michio.
-Dialogue: 100,0:15:20.16,0:15:22.42,Dialogue,MICHIO,0,0,0,,Și tu. Îți mulțumesc pentru tot.
-Dialogue: 100,0:15:34.88,0:15:39.81,Dialogue,MICHIO,0,0,0,,{\i1}Aici nimeni nu știe cine sunt.
-Dialogue: 100,0:15:41.20,0:15:43.67,Dialogue,MICHIO,0,0,0,,{\i1}Nu le înțeleg limba.
-Dialogue: 100,0:15:44.36,0:15:47.15,Dialogue,MICHIO,0,0,0,,{\i1}Nu știu ce e considerat \Nnormal în această lume.
-Dialogue: 100,0:15:47.92,0:15:53.18,Dialogue,MICHIO,0,0,0,,{\i1}Sunt într-o altă lume și \Nsunt un străin complet.
-Dialogue: 100,0:15:54.35,0:15:57.59,Dialogue,MICHIO,0,0,0,,{\i1}Oare voi reuși să mă \Ndescurc pe cont propriu?
-Dialogue: 100,0:15:58.18,0:15:59.54,Dialogue,ALAN,0,0,0,,Dle Michio.
-Dialogue: 100,0:16:00.53,0:16:02.42,Dialogue,MICHIO,0,0,0,,{\i1}Acum că mă gândesc mai bine, \Nexistă o pesoană, de fapt.
-Dialogue: 100,0:16:03.34,0:16:04.14,Dialogue,MICHIO,0,0,0,,Ce este?
-Dialogue: 100,0:16:04.77,0:16:09.23,Dialogue,ALAN,0,0,0,,Dacă nu ești în grabă, ai putea să-mi acorzi puțin din timpul tău?
-Dialogue: 100,0:16:09.23,0:16:10.83,Dialogue,MICHIO,0,0,0,,Desigur.
-Dialogue: 100,0:16:13.54,0:16:15.66,Dialogue,MICHIO,0,0,0,,{\i1}Suntem într-o altă cameră acum.
-Dialogue: 100,0:16:16.11,0:16:18.70,Dialogue,MICHIO,0,0,0,,{\i1}Covorul și mobilierul par scumpe.
-Dialogue: 100,0:16:19.15,0:16:21.38,Dialogue,MICHIO,0,0,0,,{\i1}Are chiar și tablouri pe pereți.
-Dialogue: 100,0:16:21.38,0:16:22.96,Dialogue,MICHIO,0,0,0,,{\i1}Ce plănuiește?
-Dialogue: 100,0:16:23.36,0:16:28.70,Dialogue,ALAN,0,0,0,,Scuză-mă că întreb, \Ndar ești un aventurier, nu-i așa?
-Dialogue: 100,0:16:29.25,0:16:31.42,Dialogue,MICHIO,0,0,0,,Da, ceva de genul.
-Dialogue: 100,0:16:32.05,0:16:36.30,Dialogue,ALAN,0,0,0,,În acest caz, ai vrea să \Ncumperi niște sclavi?
-Dialogue: 100,0:16:36.68,0:16:39.01,Dialogue,MICHIO,0,0,0,,Ce? Sclavi?
-Dialogue: 100,0:16:39.43,0:16:42.23,Dialogue,MICHIO,0,0,0,,Aventurierii cumpără sclavi?
-Dialogue: 100,0:16:42.64,0:16:45.19,Dialogue,ALAN,0,0,0,,Cei mai mulți, da.
-Dialogue: 100,0:16:45.43,0:16:47.91,Dialogue,MICHIO,0,0,0,,{\i1}Cumpărarea unui sclav, nu?
-Dialogue: 100,0:16:47.91,0:16:49.47,Dialogue,MICHIO,0,0,0,,{\i1}Doar ce am vândut unul.
-Dialogue: 100,0:16:49.47,0:16:51.94,Dialogue,MICHIO,0,0,0,,{\i1}Are sens că aș putea cumpăra unul.
-Dialogue: 100,0:16:52.32,0:16:54.95,Dialogue,MICHIO,0,0,0,,{\i1}Nici nu mi-a trecut prin cap asta.
-Dialogue: 100,0:16:54.95,0:16:58.83,Dialogue,ALAN,0,0,0,,Compania mea vinde și \Nsclavi de sex feminin.
-Dialogue: 100,0:17:02.01,0:17:04.67,Dialogue,MICHIO,0,0,0,,{\i1}Vinde și sclavi de sex feminin?
-Dialogue: 100,0:17:05.68,0:17:10.00,Dialogue,MICHIO,0,0,0,,{\i1}Chiar pot cumpăra o femeie-sclav?
-Dialogue: 100,0:17:10.58,0:17:12.42,Dialogue,MICHIO,0,0,0,,{\i1}Does that mean
-Dialogue: 100,0:17:13.84,0:17:17.55,Dialogue,MICHIO,0,0,0,,{\i1}I can get freaky with a female slave?
-Dialogue: 100,0:17:18.87,0:17:21.07,Dialogue,MICHIO,0,0,0,,{\i1}Nu, nu pot face. \NTrebuie să mă calmez.
-Dialogue: 100,0:17:21.07,0:17:23.72,Dialogue,MICHIO,0,0,0,,{\i1}O să-mi iau câteva \Nclipe ca să mă adun.
-Dialogue: 100,0:17:23.72,0:17:24.97,Dialogue,ROXANNE,0,0,0,,Mă scuzați.
-Dialogue: 100,0:17:24.97,0:17:25.52,Dialogue,MICHIO,0,0,0,,Ce?
-Dialogue: 100,0:17:30.24,0:17:34.20,Dialogue,MICHIO,0,0,0,,{\i1}Se mișcă! Chiar se mișcă!
-Dialogue: 100,0:17:34.20,0:17:36.30,Dialogue,MICHIO,0,0,0,,{\i1}Chiar e real așa ceva?
-Dialogue: 100,0:17:37.11,0:17:38.06,Dialogue,ROXANNE,0,0,0,,Poftim.
-Dialogue: 100,0:17:39.00,0:17:41.28,Dialogue,MICHIO,0,0,0,,Oh, mulțumesc.
-Dialogue: 100,0:17:41.70,0:17:43.38,Dialogue,ALAN,0,0,0,,Servește niște ceai.
-Dialogue: 100,0:17:44.67,0:17:45.50,Dialogue,MICHIO,0,0,0,,Mulțumesc.
-Dialogue: 100,0:17:47.45,0:17:48.88,Dialogue,ROXANNE,0,0,0,,Vă rog să mă scuzați.
-Dialogue: 100,0:17:51.46,0:17:54.55,Dialogue,MICHIO,0,0,0,,{\i1}S-au mișcat din nou. Acei pepeni frumoși s-au mișcat din nou.
-Dialogue: 100,0:17:58.02,0:18:04.33,Dialogue,MICHIO,0,0,0,,{\i1}E, fără îndoială, cea mai frumoasă femeie pe care am întâlnit-o astăzi, nu... în această lume.
-Dialogue: 100,0:18:04.33,0:18:05.56,Dialogue,MICHIO,0,0,0,,{\i1}Și...
-Dialogue: 100,0:18:05.88,0:18:07.64,Dialogue,MICHIO,0,0,0,,{\i1}Are și cei mai mari sâni.
-Dialogue: 100,0:18:07.88,0:18:10.15,Dialogue,ALAN,0,0,0,,Pari încântat.
-Dialogue: 100,0:18:10.35,0:18:12.35,Dialogue,MICHIO,0,0,0,,Ceaiul chiar e bun.
-Dialogue: 100,0:18:12.35,0:18:14.65,Dialogue,ALAN,0,0,0,,Mă refeream la servitoare.
-Dialogue: 100,0:18:14.65,0:18:16.15,Dialogue,MICHIO,0,0,0,,{\i1}Știam eu!
-Dialogue: 100,0:18:16.15,0:18:21.12,Dialogue,ALAN,0,0,0,,Ea este, în prezent, sclava \Nmea cea mai recomandată.
-Dialogue: 100,0:18:24.28,0:18:26.50,Dialogue,MICHIO,0,0,0,,{\i1}Deci e o sclavă.
-Dialogue: 100,0:18:27.29,0:18:30.12,Dialogue,MICHIO,0,0,0,,{\i1}Ceea ce înseamnă că o pot cumpăra.
-Dialogue: 100,0:18:31.67,0:18:33.88,Dialogue,MICHIO,0,0,0,,Sclavii își pot trăda stăpânul?
-Dialogue: 100,0:18:34.14,0:18:39.38,Dialogue,ALAN,0,0,0,,No. Without someone to inherit them, \Nor a will promising them their freedom,
-Dialogue: 100,0:18:39.38,0:18:42.76,Dialogue,ALAN,0,0,0,,un sclav care-și pierde stăpânul îl urmează în mormânt.
-Dialogue: 100,0:18:42.76,0:18:44.61,Dialogue,MICHIO,0,0,0,,Vrei să spui că mor?
-Dialogue: 100,0:18:45.01,0:18:45.75,Dialogue,ALAN,0,0,0,,Da.
-Dialogue: 100,0:18:47.07,0:18:49.31,Dialogue,MICHIO,0,0,0,,Dacă nu-și pot omorî \Nstăpânul, atunci, pot fugi?
-Dialogue: 100,0:18:49.31,0:18:52.55,Dialogue,ALAN,0,0,0,,Sclavii care fug sunt retrogradați \Nla statutul de bandiți.
-Dialogue: 100,0:18:52.55,0:18:55.89,Dialogue,ALAN,0,0,0,,Bandiții pot fi omorâți,
-Dialogue: 100,0:18:55.89,0:18:58.53,Dialogue,ALAN,0,0,0,,iar bunurile furate în mod legal.
-Dialogue: 100,0:18:58.84,0:19:02.36,Dialogue,ALAN,0,0,0,,Even if they stole money from \Ntheir master before escaping,
-Dialogue: 100,0:19:02.36,0:19:06.07,Dialogue,ALAN,0,0,0,,it's unlikely they'd live a better life.
-Dialogue: 100,0:19:06.48,0:19:07.79,Dialogue,MICHIO,0,0,0,,Înțeleg.
-Dialogue: 100,0:19:08.05,0:19:14.20,Dialogue,ALAN,0,0,0,,Also, the girl who was here earlier \Nis a wolfkin and a beast warrior.
-Dialogue: 100,0:19:14.20,0:19:17.12,Dialogue,ALAN,0,0,0,,Va fi foarte utilă într-un labirint.
-Dialogue: 100,0:19:17.12,0:19:19.94,Dialogue,ALAN,0,0,0,,Pe lângă asta, e inteligentă \Nși are o personalitate bună.
-Dialogue: 100,0:19:19.94,0:19:23.85,Dialogue,ALAN,0,0,0,,She's perfect for someone's first slave.
-Dialogue: 100,0:19:23.85,0:19:28.93,Dialogue,ALAN,0,0,0,,And there's another advantage \Nto her being a wolfkin.
-Dialogue: 100,0:19:28.93,0:19:30.14,Dialogue,MICHIO,0,0,0,,Care este?
-Dialogue: 100,0:19:30.43,0:19:34.72,Dialogue,ALAN,0,0,0,,Humans and non-humans \Ncannot produce offspring.
-Dialogue: 100,0:19:34.72,0:19:35.96,Dialogue,MICHIO,0,0,0,,Adică...
-Dialogue: 100,0:19:36.36,0:19:39.61,Dialogue,ALAN,0,0,0,,Și mai există un lucru \Nimportant de luat în considerare.
-Dialogue: 100,0:19:40.03,0:19:43.36,Dialogue,ALAN,0,0,0,,E virgină.
-Dialogue: 100,0:19:45.32,0:19:48.33,Dialogue,ALAN,0,0,0,,Astfel, nu trebuie să-ți faci griji de boli.
-Dialogue: 100,0:19:48.33,0:19:49.51,Dialogue,ALAN,0,0,0,,În plus...
-Dialogue: 100,0:19:49.51,0:19:50.75,Dialogue,MICHIO,0,0,0,,{\i1}Mai sunt chestii?
-Dialogue: 100,0:19:51.04,0:19:55.75,Dialogue,ALAN,0,0,0,,A spus că e de acord să \Nfacă sex cu stăpânul ei.
-Dialogue: 100,0:19:56.01,0:20:00.26,Dialogue,ALAN,0,0,0,,I believe that would be meaningful to you.
-Dialogue: 100,0:20:01.21,0:20:02.14,Dialogue,MICHIO,0,0,0,,De ce?
-Dialogue: 100,0:20:02.76,0:20:10.07,Dialogue,ALAN,0,0,0,,Because some of my customers feel\Nconflicted about laying hands on a slave,
-Dialogue: 100,0:20:10.70,0:20:12.77,Dialogue,ALAN,0,0,0,,especially the younger ones.
-Dialogue: 100,0:20:13.04,0:20:17.34,Dialogue,ALAN,0,0,0,,Dar dacă acceptă de bună \Nvoie o astfel de relație...
-Dialogue: 100,0:20:17.81,0:20:18.87,Dialogue,ALAN,0,0,0,,Ce părere ai?
-Dialogue: 100,0:20:19.33,0:20:20.78,Dialogue,MICHIO,0,0,0,,Înțeleg.
-Dialogue: 100,0:20:21.19,0:20:25.66,Dialogue,ALAN,0,0,0,,De asta ți-o recomand ție.
-Dialogue: 100,0:20:26.19,0:20:28.11,Dialogue,ALAN,0,0,0,,Are sens?
-Dialogue: 100,0:20:28.60,0:20:29.63,Dialogue,MICHIO,0,0,0,,Da.
-Dialogue: 100,0:20:30.53,0:20:32.91,Dialogue,MICHIO,0,0,0,,{\i1}O pot cumpăra pe Roxanne?
-Dialogue: 100,0:20:33.87,0:20:36.42,Dialogue,MICHIO,0,0,0,,{\i1}Și pot face orice-mi dorește inima cu o sclavă atât de frumoasă?
-Dialogue: 100,0:20:36.70,0:20:39.56,Dialogue,MICHIO,0,0,0,,{\i1}Dar oare e în regulă să cumpăr un sclav?
-Dialogue: 100,0:20:39.56,0:20:42.27,Dialogue,MICHIO,0,0,0,,{\i1}Stai, așa funcționează această lume.
-Dialogue: 100,0:20:42.27,0:20:45.93,Dialogue,MICHIO,0,0,0,,{\i1}Chiar dacă nu o cumpăr eu, \Ntot va ajunge sclava sexuală a cuiva.
-Dialogue: 100,0:20:45.93,0:20:49.10,Dialogue,MICHIO,0,0,0,,{\i1}Și nu pot permite așa ceva, \Nceea ce înseamnă...
-Dialogue: 100,0:20:49.72,0:20:50.60,Dialogue,MICHIO,0,0,0,,Cât de mult?
-Dialogue: 100,0:20:50.60,0:20:54.09,Dialogue,ALAN,0,0,0,,600.000 de nari mi-ar plăcea să spun,
-Dialogue: 100,0:20:54.09,0:20:56.56,Dialogue,ALAN,0,0,0,,dar după ce am \Nrecomandat-o atât de agresiv,
-Dialogue: 100,0:20:56.82,0:21:02.75,Dialogue,ALAN,0,0,0,,incluzând și costumația pe care tocmai o purta, ea a ta pentru doar 422.800 de nari.
-Dialogue: 100,0:21:04.36,0:21:06.57,Dialogue,MICHIO,0,0,0,,Nu am atâția bani.
-Dialogue: 100,0:21:07.07,0:21:10.80,Dialogue,ALAN,0,0,0,,Înțeleg. Bănuiesc că asta e, atunci.
-Dialogue: 100,0:21:20.48,0:21:23.03,Dialogue,MICHIO,0,0,0,,{\i1}E așa de drăguță.
-Dialogue: 100,0:21:24.20,0:21:26.81,Dialogue,ALAN,0,0,0,,Te pot aștepta cinci zile.
-Dialogue: 100,0:21:26.81,0:21:28.00,Dialogue,MICHIO,0,0,0,,Ce?
-Dialogue: 100,0:21:28.00,0:21:31.43,Dialogue,ALAN,0,0,0,,Strânge banii în acest timp.
-Dialogue: 100,0:21:31.98,0:21:32.89,Dialogue,MICHIO,0,0,0,,Dar...
-Dialogue: 100,0:21:34.56,0:21:37.36,Dialogue,ALAN,0,0,0,,Acest client a prins drag de tine.
-Dialogue: 100,0:21:37.36,0:21:38.81,Dialogue,ROXANNE,0,0,0,,Vă mulțumesc.
-Dialogue: 100,0:21:39.43,0:21:42.19,Dialogue,MICHIO,0,0,0,,{\i1}Acum nu mai pot refuza.
-Dialogue: 100,0:21:42.19,0:21:43.21,Dialogue,ROXANNE,0,0,0,,Mă scuzați...
-Dialogue: 100,0:21:43.21,0:21:43.69,Dialogue,MICHIO,0,0,0,,Ce?
-Dialogue: 100,0:21:45.23,0:21:46.83,Dialogue,ROXANNE,0,0,0,,Mă bucur să vă cunosc.
-Dialogue: 100,0:21:47.23,0:21:48.77,Dialogue,MICHIO,0,0,0,,D-Da.
-Dialogue: 100,0:21:51.65,0:21:54.48,Dialogue,ALAN,0,0,0,,Ne vedem în cinci zile.
-Dialogue: 100,0:21:54.48,0:21:55.48,Dialogue,MICHIO,0,0,0,,Da.
-Dialogue: 100,0:21:55.48,0:22:01.24,Dialogue,MICHIO,0,0,0,,{\i1}Nu știu cum voi face atât de mulți bani, \Ndar știu un lucru cu siguranță.
-Dialogue: 100,0:22:02.63,0:22:06.46,Dialogue,MICHIO,0,0,0,,{\i1}Roxanne va fi a mea.
+Dialogue: 99,0:00:06.84,0:00:10.01,Dialogue,MICHIO,0,0,0,,Ugh, de ce sare atât de mult sânge?
+Dialogue: 99,0:00:11.17,0:00:13.99,Dialogue,MICHIO,0,0,0,,Da, jocul ăsta e varză.
+Dialogue: 99,0:01:49.38,0:01:49.94,Dialogue,MICHIO,0,0,0,,Ce?
+Dialogue: 99,0:01:51.12,0:01:52.54,Dialogue,MICHIO,0,0,0,,Unde mă aflu?
+Dialogue: 99,0:01:53.22,0:01:58.30,Dialogue,MICHIO,0,0,0,,{\i1}Parcă încercam să mă joc \Nun joc online foarte ciudat.
+Dialogue: 99,0:01:58.73,0:02:00.90,Dialogue,MICHIO,0,0,0,,{\i1}Dar nu-mi amintesc nimic după aceea.
+Dialogue: 99,0:02:01.80,0:02:03.98,Dialogue,MICHIO,0,0,0,,Vai, ce m-a speriat!
+Dialogue: 99,0:02:05.32,0:02:06.38,Dialogue,MICHIO,0,0,0,,Un cal?
+Dialogue: 99,0:02:07.00,0:02:09.02,Dialogue,MICHIO,0,0,0,,Da, acela e un cal.
+Dialogue: 99,0:02:11.30,0:02:12.67,Dialogue,MICHIO,0,0,0,,Asta e cumva?
+Dialogue: 99,0:02:14.96,0:02:17.36,Dialogue,MICHIO,0,0,0,,Bun, „identificare”.
+Dialogue: 99,0:02:19.01,0:02:23.91,Dialogue,MICHIO,0,0,0,,Știam eu. Asta înseamnă că sunt în joc.
+Dialogue: 99,0:02:24.83,0:02:29.23,Dialogue,MICHIO,0,0,0,,Asta e incredibil. \NParcă ar fi corpul meu real.
+Dialogue: 99,0:02:29.23,0:02:31.35,Dialogue,MICHIO,0,0,0,,Chiar și treningul meu a fost recreat.
+Dialogue: 99,0:02:33.61,0:02:38.01,Dialogue,MICHIO,0,0,0,,Mi-aș fi dorit ca jocul să-mi fi dat ceva de purtat în picioare în loc să mă recreeze la perfecție.
+Dialogue: 99,0:02:39.00,0:02:40.01,Dialogue,MICHIO,0,0,0,,Acelea sunt...
+Dialogue: 99,0:02:42.63,0:02:45.52,Dialogue,MICHIO,0,0,0,,Chestia asta e mult \Nmai comodă în jocurile
+Dialogue: 99,0:02:45.52,0:02:48.89,Dialogue,MICHIO,0,0,0,,în care poți schimba \Nechipamentul cu un singur click
+Dialogue: 99,0:02:48.89,0:02:51.03,Dialogue,MICHIO,0,0,0,,spre deosebire de VR.
+Dialogue: 99,0:02:52.68,0:02:53.90,Dialogue,MICHIO,0,0,0,,În regulă.
+Dialogue: 99,0:02:55.64,0:02:58.02,Dialogue,MICHIO,0,0,0,,Îmi pare rău că am \Nfurat lucrurile altcuiva.
+Dialogue: 99,0:02:58.75,0:03:02.41,Dialogue,MICHIO,0,0,0,,Dacă-mi aduc bine aminte, \Nnu alesesem și niște echipament bonus?
+Dialogue: 99,0:03:02.66,0:03:03.79,Dialogue,MICHIO,0,0,0,,Oare unde sunt?
+Dialogue: 99,0:03:05.14,0:03:07.23,Dialogue,MICHIO,0,0,0,,Oh, cât de drăguț.
+Dialogue: 99,0:03:07.72,0:03:08.79,Dialogue,MICHIO,0,0,0,,Acesta e unul dintre ele.
+Dialogue: 99,0:03:10.84,0:03:13.92,Dialogue,MICHIO,0,0,0,,Durandal, nu? Nu e rea deloc.
+Dialogue: 99,0:03:15.04,0:03:18.67,Dialogue,MICHIO,0,0,0,,Iar acesta trebuie să fie \Naccesoriul pe care l-am ales.
+Dialogue: 99,0:03:20.45,0:03:22.15,Dialogue,MICHIO,0,0,0,,Nici abilitățile sale nu sunt rele.
+Dialogue: 99,0:03:22.15,0:03:24.68,Dialogue,MICHIO,0,0,0,,E un nume potrivit \Npentru începutul unui joc.
+Dialogue: 99,0:03:25.09,0:03:28.16,Dialogue,MICHIO,0,0,0,,Nu am idee cum au făcut \Nacest VR atât de realist,
+Dialogue: 99,0:03:28.16,0:03:30.07,Dialogue,MICHIO,0,0,0,,dar sunt în interiorul jocului.
+Dialogue: 99,0:03:30.07,0:03:31.44,Dialogue,MICHIO,0,0,0,,Iar acum că știu asta...
+Dialogue: 99,0:03:32.57,0:03:35.89,Dialogue,MICHIO,0,0,0,,E timpul să înceapă \Naventura, strigați: „Ura!”
+Dialogue: 99,0:03:42.16,0:03:45.46,Dialogue,MICHIO,0,0,0,,Se pare că încep într-un \Nloc destul de pașnic.
+Dialogue: 99,0:03:46.24,0:03:46.95,Dialogue,MICHIO,0,0,0,,Oh!
+Dialogue: 99,0:03:47.48,0:03:48.78,Dialogue,MICHIO,0,0,0,,Fir-ar!
+Dialogue: 99,0:03:50.45,0:03:52.33,Dialogue,MICHIO,0,0,0,,{\i1}Un sătean și un fermier, nu?
+Dialogue: 99,0:03:52.33,0:03:53.58,Dialogue,MICHIO,0,0,0,,{\i1}Mă întreb cum sunt ei diferiți.
+Dialogue: 99,0:03:55.76,0:03:56.88,Dialogue,MICHIO,0,0,0,,{\i1}Ce se petrece?
+Dialogue: 99,0:03:56.22,0:03:58.04,Dialogue Overlap,VILLAGER,0,0,0,,Se apropie!
+Dialogue: 99,0:03:59.29,0:04:00.38,Dialogue,MICHIO,0,0,0,,{\i1}Identificare.
+Dialogue: 99,0:04:02.72,0:04:05.72,Dialogue,MICHIO,0,0,0,,{\i1}Jocul începe cu un atac al bandiților?
+Dialogue: 99,0:04:06.60,0:04:08.35,Dialogue,MICHIO,0,0,0,,{\i1}Plănuiesc cumva să li se opună?
+Dialogue: 99,0:04:08.35,0:04:11.42,Dialogue,MICHIO,0,0,0,,{\i1}Au nivelurile destul de apropiate, \Ndar oare vor fi în regulă?
+Dialogue: 99,0:04:13.31,0:04:17.15,Dialogue,MICHIO,0,0,0,,{\an8\i1}Unul dintre ei are nivelul mult mai mare. \NEl trebuie să fie liderul.
+Dialogue: 99,0:04:17.45,0:04:20.90,Dialogue,MICHIO,0,0,0,,{\i1}„Bandana unui hoț?” \NAre un echipament destul de drăguț.
+Dialogue: 99,0:04:25.57,0:04:28.79,Dialogue,MICHIO,0,0,0,,Știam eu. Nu le pot face față.
+Dialogue: 99,0:04:29.30,0:04:29.95,Dialogue,MICHIO,0,0,0,,Ce?
+Dialogue: 99,0:04:30.35,0:04:35.92,Dialogue,MICHIO,0,0,0,,Asta ar putea fi șansa mea să mă strecor prin spate și să-l străpung cu sabia.
+Dialogue: 99,0:04:38.04,0:04:41.35,Dialogue,MICHIO,0,0,0,,{\i1}E în regulă. \NAcesta e primul event din joc.
+Dialogue: 99,0:04:41.35,0:04:44.59,Dialogue,MICHIO,0,0,0,,{\i1}Chiar și un personaj de nivel 1 ca mine ar trebui să-i poată învinge.
+Dialogue: 99,0:04:46.65,0:04:48.22,Dialogue,MICHIO,0,0,0,,{\i1}Bun, s-o facem!
+Dialogue: 99,0:04:54.01,0:04:55.77,Dialogue,MICHIO,0,0,0,,De ce sare atât de mult sânge?
+Dialogue: 99,0:04:55.77,0:04:57.15,Dialogue,MICHIO,0,0,0,,Da, jocul ăsta chiar e varză.
+Dialogue: 99,0:04:59.99,0:05:02.52,Dialogue,MICHIO,0,0,0,,{\i1}Armura lui mă oprește din a-i tăia corpul.
+Dialogue: 99,0:05:02.52,0:05:05.76,Dialogue,MICHIO,0,0,0,,{\i1}În acest caz, voi face asta și apoi asta!
+Dialogue: 99,0:05:08.74,0:05:11.92,Dialogue,MICHIO,0,0,0,,Pfiu, mă bucur că iau lecții de kendo.
+Dialogue: 99,0:05:15.33,0:05:18.74,Dialogue,MICHIO,0,0,0,,{\i1}Au luat-o la fugă imediat cum situația nu a mai fost în favoarea lor.
+Dialogue: 99,0:05:18.74,0:05:20.91,Dialogue,MICHIO,0,0,0,,{\i1}Doar sunt niște bandiți, la urma urmei.
+Dialogue: 99,0:05:20.91,0:05:22.88,Dialogue,MICHIO,0,0,0,,{\i1}Nu am de ce să le arăt milă.
+Dialogue: 99,0:05:22.88,0:05:26.13,Dialogue,MICHIO,0,0,0,,{\i1}Voi obține puncte de \Nexperiență de pe urma lor.
+Dialogue: 99,0:05:34.35,0:05:37.36,Dialogue,MICHIO,0,0,0,,Vai, sunt extenuat.
+Dialogue: 99,0:05:38.00,0:05:39.06,Dialogue,MICHIO,0,0,0,,Identificare.
+Dialogue: 99,0:05:39.36,0:05:41.31,Dialogue,MICHIO,0,0,0,,Hei, am crescut în nivel.
+Dialogue: 99,0:05:41.79,0:05:44.58,Dialogue,MICHIO,0,0,0,,Dar doar cu un singur nivel după toți bandiții pe care i-am eliminat?
+Dialogue: 99,0:05:46.48,0:05:50.24,Dialogue,SOMARA,0,0,0,,Îți mulțumesc că ne-ai salvat satul.
+Dialogue: 99,0:05:50.88,0:05:54.50,Dialogue,SOMARA,0,0,0,,Eu sunt Somara, \Nprimarul acestui sat.
+Dialogue: 99,0:05:55.07,0:05:58.15,Dialogue,SOMARA,0,0,0,,Te rog să vii la mine acasă.
+Dialogue: 99,0:05:58.72,0:06:02.25,Dialogue,SOMARA,0,0,0,,Mi-ar plăcea să-ți mulțumesc \Nîn orice mod aș putea.
+Dialogue: 99,0:06:02.48,0:06:05.32,Dialogue,MICHIO,0,0,0,,Serios? În acest caz, \Nîți voi accepta oferta.
+Dialogue: 99,0:06:07.65,0:06:09.01,Dialogue,MICHIO,0,0,0,,Ce sunt astea?
+Dialogue: 99,0:06:09.50,0:06:11.24,Dialogue,SOMARA,0,0,0,,Prada de după luptă.
+Dialogue: 99,0:06:11.24,0:06:16.02,Dialogue,SOMARA,0,0,0,,Sunt sigur că ești extenuat, \Ndar aș dori să arunci și tu o privire.
+Dialogue: 99,0:06:16.28,0:06:17.25,Dialogue,MICHIO,0,0,0,,Eu?
+Dialogue: 99,0:06:17.25,0:06:22.22,Dialogue,SOMARA,0,0,0,,Da. Sătenii au învins doi bandiți,
+Dialogue: 99,0:06:22.22,0:06:24.48,Dialogue,SOMARA,0,0,0,,deci ne vom lua și noi partea.
+Dialogue: 99,0:06:24.78,0:06:28.52,Dialogue,SOMARA,0,0,0,,Dar restul îți aparține ție, dle Michio.
+Dialogue: 99,0:06:29.22,0:06:32.74,Dialogue,MICHIO,0,0,0,,Înțeleg, deci așa funcționează. \NAcestea fiind spuse...
+Dialogue: 99,0:06:33.09,0:06:33.99,Dialogue,MICHIO,0,0,0,,Identificare.
+Dialogue: 99,0:06:34.48,0:06:36.25,Dialogue,MICHIO,0,0,0,,Nu are niciun rost să \Niau astea cu mine.
+Dialogue: 99,0:06:36.78,0:06:37.42,Dialogue,SOMARA,0,0,0,,Ce?
+Dialogue: 99,0:06:38.19,0:06:39.98,Dialogue,SOMARA,0,0,0,,S-a întâmplat ceva?
+Dialogue: 99,0:06:40.56,0:06:41.75,Dialogue,MICHIO,0,0,0,,Nici asta nu e.
+Dialogue: 99,0:06:45.00,0:06:50.62,Dialogue,MICHIO,0,0,0,,Acel tip purta o bandană de hoț, \Nnu una normală.
+Dialogue: 99,0:06:50.62,0:06:52.89,Dialogue,SOMARA,0,0,0,,Ce? D-Dar...
+Dialogue: 99,0:06:53.17,0:06:55.26,Dialogue,SOMARA,0,0,0,,Voi investiga de-ndată ce s-a întâmplat.
+Dialogue: 99,0:06:55.26,0:06:58.67,Dialogue,SOMARA,0,0,0,,Îți voi pregăti o cameră.
+Dialogue: 99,0:06:58.67,0:07:00.84,Dialogue,SOMARA,0,0,0,,Te rog să te odihnești acolo.
+Dialogue: 99,0:07:00.84,0:07:03.15,Dialogue,MICHIO,0,0,0,,Foarte bine. Așa voi face.
+Dialogue: 99,0:07:06.13,0:07:08.74,Dialogue,MICHIO,0,0,0,,Destulă acțiune pentru astăzi.
+Dialogue: 99,0:07:10.15,0:07:10.79,Dialogue,MICHIO,0,0,0,,{\i1}Ce?
+Dialogue: 99,0:07:11.41,0:07:13.44,Dialogue,MICHIO,0,0,0,,{\i1}Cum ies din joc?
+Dialogue: 99,0:07:13.91,0:07:15.37,Dialogue,MICHIO,0,0,0,,„Delogare.”
+Dialogue: 99,0:07:18.35,0:07:22.35,Dialogue,MICHIO,0,0,0,,„Deloghează-mă. Închide jocul. Sfârșește sesiunea. Ieșire.”
+Dialogue: 99,0:07:27.02,0:07:28.02,Dialogue,MICHIO,0,0,0,,„Salvare.”
+Dialogue: 99,0:07:28.77,0:07:31.56,Dialogue,MICHIO,0,0,0,,„Meniu. Deschide meniul. \NDeschide fereastra.”
+Dialogue: 99,0:07:31.56,0:07:33.51,Dialogue,MICHIO,0,0,0,,„Închide fereastra. \NOpțiuni de închidere.”
+Dialogue: 99,0:07:33.51,0:07:36.31,Dialogue,MICHIO,0,0,0,,„Salvează. Salvează și închide.”
+Dialogue: 99,0:07:36.31,0:07:39.14,Dialogue,MICHIO,0,0,0,,„Închide fără să salvezi. Oprire.”
+Dialogue: 99,0:07:39.14,0:07:40.52,Dialogue,MICHIO,0,0,0,,Închide jocul!
+Dialogue: 99,0:07:40.52,0:07:42.02,Dialogue,MICHIO,0,0,0,,Închide-te!
+Dialogue: 99,0:07:48.28,0:07:52.46,Dialogue,MICHIO,0,0,0,,{\i1}Stai puțin. Oare chiar \Nsunt în interiorul unui joc?
+Dialogue: 99,0:07:52.46,0:07:55.54,Dialogue,MICHIO,0,0,0,,{\i1}Totul e atât de real. \NPoate că asta e, de fapt, viața reală.
+Dialogue: 99,0:07:55.54,0:07:57.28,Dialogue,MICHIO,0,0,0,,{\i1}Nu, așa ceva nu e posibil.
+Dialogue: 99,0:07:57.73,0:07:58.62,Dialogue,MICHIO,0,0,0,,Identificare.
+Dialogue: 99,0:07:59.92,0:08:03.04,Dialogue,MICHIO,0,0,0,,{\i1}Vezi? Așa ceva nu e posibil în viața reală.
+Dialogue: 99,0:08:03.04,0:08:04.94,Dialogue,MICHIO,0,0,0,,{\i1}Trebuie să fie un joc.
+Dialogue: 99,0:08:08.05,0:08:10.83,Dialogue,MICHIO,0,0,0,,Acel mesaj era pe bune?
+Dialogue: 99,0:08:14.31,0:08:16.40,Dialogue,SOMARA,0,0,0,,Ți-am adus niște apă caldă.
+Dialogue: 99,0:08:16.40,0:08:18.35,Dialogue,SOMARA,0,0,0,,Te poți spăla cu ea.
+Dialogue: 99,0:08:18.85,0:08:22.49,Dialogue,SOMARA,0,0,0,,Ți-am adus și niște haine de schimb.
+Dialogue: 99,0:08:22.49,0:08:23.26,Dialogue,MICHIO,0,0,0,,Ce?
+Dialogue: 99,0:08:24.44,0:08:28.27,Dialogue,SOMARA,0,0,0,,Hainele pe care le porți \Nacum sunt murdare.
+Dialogue: 99,0:08:28.27,0:08:30.86,Dialogue,SOMARA,0,0,0,,Ți le vom spăla noi.
+Dialogue: 99,0:08:31.28,0:08:33.56,Dialogue,MICHIO,0,0,0,,{\i1}Chiar dacă sunt în interiorul unui joc,
+Dialogue: 99,0:08:33.56,0:08:36.41,Dialogue,MICHIO,0,0,0,,{\i1}dacă nu pot ieși din el, atunci, acest loc devine realitatea mea.
+Dialogue: 99,0:08:37.23,0:08:39.62,Dialogue,MICHIO,0,0,0,,{\i1}Iar dacă asta e realitatea,
+Dialogue: 99,0:08:40.12,0:08:42.40,Dialogue,MICHIO,0,0,0,,{\i1}atunci, nu am omorât niște \Nsimple personaje dintr-un joc.
+Dialogue: 99,0:08:42.97,0:08:44.62,Dialogue,MICHIO,0,0,0,,{\i1}Ci oameni.
+Dialogue: 99,0:08:44.84,0:08:47.99,Dialogue,SOMARA,0,0,0,,Dle Michio, s-a întâmplat ceva?
+Dialogue: 99,0:08:48.87,0:08:51.13,Dialogue,MICHIO,0,0,0,,Nu, nimic.
+Dialogue: 99,0:08:51.33,0:08:52.85,Dialogue,SOMARA,0,0,0,,Înțeleg.
+Dialogue: 99,0:08:52.85,0:08:57.19,Dialogue,SOMARA,0,0,0,,În acest caz, cheamă-mă \Ndupă ce te-ai schimbat.
+Dialogue: 99,0:09:06.19,0:09:08.47,Dialogue,MICHIO,0,0,0,,{\i1}Am omorât oameni.
+Dialogue: 99,0:09:08.47,0:09:10.01,Dialogue,MICHIO,0,0,0,,{\i1}Ăsta e un fapt.
+Dialogue: 99,0:09:10.57,0:09:13.08,Dialogue,MICHIO,0,0,0,,{\i1}Dar e o chestiune de perspectivă.
+Dialogue: 99,0:09:14.53,0:09:18.00,Dialogue,MICHIO,0,0,0,,{\fad(200,0)\i1}În acestă lume, e ceva normal \Nca bandiții să atace săte.
+Dialogue: 99,0:09:18.00,0:09:21.71,Dialogue,MICHIO,0,0,0,,{\i1}It's likely the same thing will happen again.
+Dialogue: 99,0:09:21.71,0:09:25.11,Dialogue,MICHIO,0,0,0,,{\i1}And when it does, if I lose my nerve, I won't \Neven be able to watch what's happening.
+Dialogue: 99,0:09:26.05,0:09:28.54,Dialogue,MICHIO,0,0,0,,{\i1}I'm glad I got to experience this early on.
+Dialogue: 99,0:09:28.54,0:09:29.71,Dialogue,MICHIO,0,0,0,,{\i1}That's how I feel.
+Dialogue: 99,0:09:31.45,0:09:34.26,Dialogue,MICHIO,0,0,0,,{\i1}Așa este. Asta e lumea reală.
+Dialogue: 99,0:09:35.08,0:09:40.27,Dialogue,MICHIO,0,0,0,,{\i1}Și trebuie să trăiesc aici.
+Dialogue: 99,0:09:42.96,0:09:45.43,Dialogue,SOMARA,0,0,0,,Îmi cer scuze, dle Michio.
+Dialogue: 99,0:09:45.43,0:09:48.48,Dialogue,SOMARA,0,0,0,,Acest bărbat a furat bandana.
+Dialogue: 99,0:09:48.81,0:09:50.34,Dialogue,MICHIO,0,0,0,,E din sat?
+Dialogue: 99,0:09:50.96,0:09:52.47,Dialogue,SOMARA,0,0,0,,Îmi e rușine să recunosc, dar da.
+Dialogue: 99,0:09:53.23,0:09:55.74,Dialogue,SOMARA,0,0,0,,Acesta e obiectul pe care-l ascundea.
+Dialogue: 99,0:09:56.13,0:09:57.36,Dialogue,MICHIO,0,0,0,,Asta e ceea ce căutam.
+Dialogue: 99,0:09:57.77,0:10:00.99,Dialogue,SOMARA,0,0,0,,Cum ar trebui să-l pedepsim?
+Dialogue: 99,0:10:01.37,0:10:03.66,Dialogue,MICHIO,0,0,0,,Sunt sigur că satul vostru are propriile reguli.
+Dialogue: 99,0:10:04.14,0:10:07.00,Dialogue,MICHIO,0,0,0,,I don't intend to dispute them.
+Dialogue: 99,0:10:07.44,0:10:10.44,Dialogue,SOMARA,0,0,0,,S-Serios?
+Dialogue: 99,0:10:10.44,0:10:12.00,Dialogue,MICHIO,0,0,0,,{\i1}Ce? De ce a făcut fața asta?
+Dialogue: 99,0:10:14.71,0:10:17.33,Dialogue,SOMARA,0,0,0,,Will of the swiftly flowing spirits,
+Dialogue: 99,0:10:17.33,0:10:19.76,Dialogue,SOMARA,0,0,0,,steady breath of wisdom.
+Dialogue: 99,0:10:20.09,0:10:22.75,Dialogue,SOMARA,0,0,0,,Open Intelligence Card.
+Dialogue: 99,0:10:22.75,0:10:24.51,Dialogue,MICHIO,0,0,0,,A apărut ceva.
+Dialogue: 99,0:10:24.51,0:10:26.31,Dialogue,MICHIO,0,0,0,,Ce faceți acolo?
+Dialogue: 99,0:10:26.80,0:10:32.02,Dialogue,SOMARA,0,0,0,,Am scris pe Cardul Informațional al acestui bărbat că este sclav.
+Dialogue: 99,0:10:32.42,0:10:33.80,Dialogue,MICHIO,0,0,0,,{\i1}Înțeleg.
+Dialogue: 99,0:10:33.80,0:10:37.53,Dialogue,MICHIO,0,0,0,,{\i1}Acel card arată statusul social al unei persoane.
+Dialogue: 99,0:10:39.11,0:10:40.71,Dialogue,MICHIO,0,0,0,,Ai spus „sclav”?
+Dialogue: 99,0:10:40.71,0:10:46.33,Dialogue,SOMARA,0,0,0,,Da. În acest sat, cei care fură \Nsunt vânduți drept sclavi.
+Dialogue: 99,0:10:46.33,0:10:51.28,Dialogue,SOMARA,0,0,0,,Jumătate din banii obținuți din vânzare sunt dați păgubitului.
+Dialogue: 99,0:10:51.28,0:10:52.54,Dialogue,MICHIO,0,0,0,,Cum rămâne cu cealaltă jumătate?
+Dialogue: 99,0:10:52.54,0:10:56.05,Dialogue,SOMARA,0,0,0,,E dată familiei lor care \Na pierdut un muncitor.
+Dialogue: 99,0:10:56.44,0:10:57.80,Dialogue,MICHIO,0,0,0,,Înțeleg.
+Dialogue: 99,0:10:57.80,0:11:02.30,Dialogue,MICHIO,0,0,0,,{\i1}He was hoping I'd go easy on \Nhim so this wouldn't happen.
+Dialogue: 99,0:11:02.63,0:11:04.18,Dialogue,MICHIO,0,0,0,,{\i1}Atunci, ar fi trebuit să spună asta!
+Dialogue: 99,0:11:04.68,0:11:06.03,Dialogue,MICHIO,0,0,0,,{\i1}Asta e o lume crudă.
+Dialogue: 99,0:11:06.03,0:11:08.68,Dialogue,MICHIO,0,0,0,,{\i1}Există chiar și sclavi aici, nu?
+Dialogue: 99,0:11:08.68,0:11:11.94,Dialogue,SOMARA,0,0,0,,Oh, aproape uitasem.
+Dialogue: 99,0:11:11.94,0:11:15.84,Dialogue,SOMARA,0,0,0,,Acestea sunt Cardule \NInformaționale ale bandiților.
+Dialogue: 99,0:11:15.84,0:11:16.40,Dialogue,MICHIO,0,0,0,,Oh.
+Dialogue: 99,0:11:16.65,0:11:19.44,Dialogue,SOMARA,0,0,0,,Dacă există cumva vreo \Nrecompensă pe capul lor,
+Dialogue: 99,0:11:19.44,0:11:22.16,Dialogue,SOMARA,0,0,0,,o poți obține cu ajutorul lor.
+Dialogue: 99,0:11:22.16,0:11:25.29,Dialogue,MICHIO,0,0,0,,O recompensă, nu?
+Dialogue: 99,0:11:25.29,0:11:28.76,Dialogue,SOMARA,0,0,0,,Există o garnizoană a \Ncavalerilor în orașul Vale.
+Dialogue: 99,0:11:28.76,0:11:31.23,Dialogue,SOMARA,0,0,0,,Vei putea obține recompensele acolo.
+Dialogue: 99,0:11:31.23,0:11:32.17,Dialogue,MICHIO,0,0,0,,Vale?
+Dialogue: 99,0:11:32.17,0:11:35.67,Dialogue,SOMARA,0,0,0,,E cel mai mare oraș din zonă.
+Dialogue: 99,0:11:35.92,0:11:38.62,Dialogue,SOMARA,0,0,0,,Mâine e zi comercială.
+Dialogue: 99,0:11:38.62,0:11:42.80,Dialogue,SOMARA,0,0,0,,Va fi locul pefect să vinzi \Nbunurile pe care le ai.
+Dialogue: 99,0:11:43.01,0:11:45.68,Dialogue,MICHIO,0,0,0,,{\i1}Înțeleg. Aș putea vinde toate aceste obiecte.
+Dialogue: 99,0:11:45.68,0:11:48.77,Dialogue,SOMARA,0,0,0,,Dacă ai nevoie, pot pregăti \Nși o căruță pentru tine.
+Dialogue: 99,0:11:48.77,0:11:51.56,Dialogue,SOMARA,0,0,0,,Vei pleca mâine dimineață?
+Dialogue: 99,0:11:51.56,0:11:53.81,Dialogue,MICHIO,0,0,0,,Da, vă rog.
+Dialogue: 99,0:11:56.05,0:12:00.08,Dialogue,MICHIO,0,0,0,,{\i1}Chiar mi-au dat tot ce am avut nevoie.
+Dialogue: 99,0:12:00.08,0:12:02.77,Dialogue,MICHIO,0,0,0,,{\i1}Nu doar că mi-au dat de mâncare, dar mi-au dat o și o recompensă.
+Dialogue: 99,0:12:03.74,0:12:06.02,Dialogue,MICHIO,0,0,0,,{\i1}Îmi pare puțin rău pentru \Nprimarul satului și acel bărbat,
+Dialogue: 99,0:12:06.02,0:12:08.03,Dialogue,MICHIO,0,0,0,,{\i1}dar asta a fost destul de bine \Npentru prima mea misiune.
+Dialogue: 99,0:12:08.27,0:12:10.29,Dialogue,SOMARA,0,0,0,,Îl putem vedea acum.
+Dialogue: 99,0:12:12.29,0:12:14.41,Dialogue,SOMARA,0,0,0,,Acela e orașul Vale.
+Dialogue: 99,0:12:22.31,0:12:24.05,Dialogue,MICHIO,0,0,0,,E un loc plin de viață.
+Dialogue: 99,0:12:24.44,0:12:27.56,Dialogue,SOMARA,0,0,0,,Ziua comercială e o \Ndată la fiecare cinci zile.
+Dialogue: 99,0:12:27.56,0:12:30.81,Dialogue,SOMARA,0,0,0,,La ea vin oameni din \Ntoate satele din apropiere.
+Dialogue: 99,0:12:35.12,0:12:39.72,Dialogue,FEMALE KNIGHT,0,0,0,,Bărbații pe care i-ai învins fac parte dintr-un grup de bandiți care-și face veacul pe lângă acest oraș.
+Dialogue: 99,0:12:39.72,0:12:42.47,Dialogue,FEMALE KNIGHT,0,0,0,,Doi dintre ei aveau \Nrecompense puse pe capul lor.
+Dialogue: 99,0:12:42.47,0:12:45.45,Dialogue,FEMALE KNIGHT,0,0,0,,Vei fi plătit în consecință, \Ndar, mai întâi...
+Dialogue: 99,0:12:47.32,0:12:47.70,Dialogue,MICHIO,0,0,0,,Ce?
+Dialogue: 99,0:12:48.36,0:12:52.18,Dialogue,SOMARA,0,0,0,,Dle Michio, ei ar dori să-ți \Nvadă Cardul Informațional...
+Dialogue: 99,0:12:53.31,0:12:54.92,Dialogue,MICHIO,0,0,0,,Oh, bine.
+Dialogue: 99,0:12:55.15,0:12:58.59,Dialogue,MICHIO,0,0,0,,{\i1}Nu vor crede că sunt un tip suspicios dacă nu va apărea nimic?
+Dialogue: 99,0:12:59.05,0:13:01.64,Dialogue,MALE KNIGHT,0,0,0,,Will of the swiftly flowing spirits,
+Dialogue: 99,0:13:01.64,0:13:04.00,Dialogue,MALE KNIGHT,0,0,0,,steady breath of wisdom.
+Dialogue: 99,0:13:04.00,0:13:06.40,Dialogue,MALE KNIGHT,0,0,0,,Open Intelligence Card.
+Dialogue: 99,0:13:08.01,0:13:09.72,Dialogue,MICHIO,0,0,0,,{\i1}Am scăpat.
+Dialogue: 99,0:13:10.19,0:13:11.32,Dialogue,MALE KNIGHT,0,0,0,,Totul e în regulă.
+Dialogue: 99,0:13:12.84,0:13:14.06,Dialogue,FEMALE KNIGHT,0,0,0,,Ține asta.
+Dialogue: 99,0:13:15.76,0:13:17.88,Dialogue,FEMALE KNIGHT,0,0,0,,Acum dispari.
+Dialogue: 99,0:13:18.76,0:13:21.28,Dialogue,MICHIO,0,0,0,,Niciun „mulțumesc”?
+Dialogue: 99,0:13:21.28,0:13:23.74,Dialogue,SOMARA,0,0,0,,Așa sunt cavalerii.
+Dialogue: 99,0:13:33.80,0:13:36.89,Dialogue,MICHIO,0,0,0,,{\i1}Simt că atmosfera din oraș s-a schimbat.
+Dialogue: 99,0:13:36.89,0:13:40.29,Dialogue,SOMARA,0,0,0,,Dle Michio, încearcă să nu te holbezi prea mult prin jur.
+Dialogue: 99,0:13:40.72,0:13:43.96,Dialogue,SOMARA,0,0,0,,Există câteva zone periculoase pe aici.
+Dialogue: 99,0:13:43.96,0:13:48.55,Dialogue,SOMARA,0,0,0,,Există și bordeluri pe aici, \Ndar ți-aș recomanda să nu le vizitezi.
+Dialogue: 99,0:13:48.84,0:13:50.29,Dialogue,MICHIO,0,0,0,,Bordeluri?
+Dialogue: 99,0:13:52.52,0:13:56.98,Dialogue,MICHIO,0,0,0,,{\i1}Bordeluri? Adică locul \Nunde găsești prostituate?
+Dialogue: 99,0:13:56.98,0:13:59.10,Dialogue,MICHIO,0,0,0,,{\i1}In other words, a whorehouse?
+Dialogue: 99,0:13:59.10,0:14:01.89,Dialogue,MICHIO,0,0,0,,{\i1}Un loc unde poți face dragoste cu femei sexy?
+Dialogue: 99,0:14:01.89,0:14:05.59,Dialogue,MICHIO,0,0,0,,{\i1}For squishing and squeezing, \Ndazzling and satiating!
+Dialogue: 99,0:14:05.59,0:14:08.04,Dialogue,SOMARA,0,0,0,,Dle Michio, dle Michio!
+Dialogue: 99,0:14:08.04,0:14:09.57,Dialogue,MICHIO,0,0,0,,Ce? Ce este?
+Dialogue: 99,0:14:09.57,0:14:13.83,Dialogue,SOMARA,0,0,0,,Am ajuns. Acesta e conacul \Nnegustorului de sclavi.
+Dialogue: 99,0:14:17.84,0:14:19.74,Dialogue,ALAN,0,0,0,,Îți mulțumesc pentru așteptare.
+Dialogue: 99,0:14:20.24,0:14:23.59,Dialogue,ALAN,0,0,0,,Eu sunt Alan, stăpânul acestei case.
+Dialogue: 99,0:14:24.30,0:14:27.34,Dialogue,ALAN,0,0,0,,Te rog să mă scuzi. \NAm mulți clienți astăzi.
+Dialogue: 99,0:14:27.83,0:14:29.66,Dialogue,SOMARA,0,0,0,,S-a întâmplat ceva?
+Dialogue: 99,0:14:29.66,0:14:31.34,Dialogue,ALAN,0,0,0,,Nu ai auzit?
+Dialogue: 99,0:14:31.59,0:14:35.60,Dialogue,ALAN,0,0,0,,Acum două zile, a fost descoperit un labirint în apropierea orașului.
+Dialogue: 99,0:14:35.92,0:14:38.35,Dialogue,MICHIO,0,0,0,,{\i1}Există labirinturi aici?
+Dialogue: 99,0:14:38.81,0:14:42.11,Dialogue,ALAN,0,0,0,,Mi s-a spus că ai sclav de vânzare.
+Dialogue: 99,0:14:45.13,0:14:47.32,Dialogue,ALAN,0,0,0,,Înțeleg situația.
+Dialogue: 99,0:14:47.32,0:14:51.74,Dialogue,ALAN,0,0,0,,Oricum, sunt impresionat că ai doborât majoritatea bandiților de unul singur.
+Dialogue: 99,0:14:52.37,0:14:54.13,Dialogue,MICHIO,0,0,0,,Îmi dai prea mult credit.
+Dialogue: 99,0:14:54.13,0:14:55.95,Dialogue,MICHIO,0,0,0,,Erau foarte slabi.
+Dialogue: 99,0:14:56.49,0:14:57.37,Dialogue,ALAN,0,0,0,,Oh?
+Dialogue: 99,0:14:58.21,0:15:01.24,Dialogue,SOMARA,0,0,0,,Oricum, ce spui de acest preț...
+Dialogue: 99,0:15:01.24,0:15:03.84,Dialogue,ALAN,0,0,0,,E sănătos și în floarea vârstei.
+Dialogue: 99,0:15:03.84,0:15:06.68,Dialogue,ALAN,0,0,0,,Cred că prețul pieței e \Nde vreo 30.000 de nari.
+Dialogue: 99,0:15:13.33,0:15:15.01,Dialogue,MICHIO,0,0,0,,Asta e partea satului.
+Dialogue: 99,0:15:15.40,0:15:20.16,Dialogue,SOMARA,0,0,0,,Arată bine. Ai grijă de tine, dle Michio.
+Dialogue: 99,0:15:20.16,0:15:22.42,Dialogue,MICHIO,0,0,0,,Și tu. Îți mulțumesc pentru tot.
+Dialogue: 99,0:15:34.88,0:15:39.81,Dialogue,MICHIO,0,0,0,,{\i1}Aici nimeni nu știe cine sunt.
+Dialogue: 99,0:15:41.20,0:15:43.67,Dialogue,MICHIO,0,0,0,,{\i1}Nu le înțeleg limba.
+Dialogue: 99,0:15:44.36,0:15:47.15,Dialogue,MICHIO,0,0,0,,{\i1}Nu știu ce e considerat \Nnormal în această lume.
+Dialogue: 99,0:15:47.92,0:15:53.18,Dialogue,MICHIO,0,0,0,,{\i1}Sunt într-o altă lume și \Nsunt un străin complet.
+Dialogue: 99,0:15:54.35,0:15:57.59,Dialogue,MICHIO,0,0,0,,{\i1}Oare voi reuși să mă \Ndescurc pe cont propriu?
+Dialogue: 99,0:15:58.18,0:15:59.54,Dialogue,ALAN,0,0,0,,Dle Michio.
+Dialogue: 99,0:16:00.53,0:16:02.42,Dialogue,MICHIO,0,0,0,,{\i1}Acum că mă gândesc mai bine, \Nexistă o pesoană, de fapt.
+Dialogue: 99,0:16:03.34,0:16:04.14,Dialogue,MICHIO,0,0,0,,Ce este?
+Dialogue: 99,0:16:04.77,0:16:09.23,Dialogue,ALAN,0,0,0,,Dacă nu ești în grabă, ai putea să-mi acorzi puțin din timpul tău?
+Dialogue: 99,0:16:09.23,0:16:10.83,Dialogue,MICHIO,0,0,0,,Desigur.
+Dialogue: 99,0:16:13.54,0:16:15.66,Dialogue,MICHIO,0,0,0,,{\i1}Suntem într-o altă cameră acum.
+Dialogue: 99,0:16:16.11,0:16:18.70,Dialogue,MICHIO,0,0,0,,{\i1}Covorul și mobilierul par scumpe.
+Dialogue: 99,0:16:19.15,0:16:21.38,Dialogue,MICHIO,0,0,0,,{\i1}Are chiar și tablouri pe pereți.
+Dialogue: 99,0:16:21.38,0:16:22.96,Dialogue,MICHIO,0,0,0,,{\i1}Ce plănuiește?
+Dialogue: 99,0:16:23.36,0:16:28.70,Dialogue,ALAN,0,0,0,,Scuză-mă că întreb, \Ndar ești un aventurier, nu-i așa?
+Dialogue: 99,0:16:29.25,0:16:31.42,Dialogue,MICHIO,0,0,0,,Da, ceva de genul.
+Dialogue: 99,0:16:32.05,0:16:36.30,Dialogue,ALAN,0,0,0,,În acest caz, ai vrea să \Ncumperi niște sclavi?
+Dialogue: 99,0:16:36.68,0:16:39.01,Dialogue,MICHIO,0,0,0,,Ce? Sclavi?
+Dialogue: 99,0:16:39.43,0:16:42.23,Dialogue,MICHIO,0,0,0,,Aventurierii cumpără sclavi?
+Dialogue: 99,0:16:42.64,0:16:45.19,Dialogue,ALAN,0,0,0,,Cei mai mulți, da.
+Dialogue: 99,0:16:45.43,0:16:47.91,Dialogue,MICHIO,0,0,0,,{\i1}Cumpărarea unui sclav, nu?
+Dialogue: 99,0:16:47.91,0:16:49.47,Dialogue,MICHIO,0,0,0,,{\i1}Doar ce am vândut unul.
+Dialogue: 99,0:16:49.47,0:16:51.94,Dialogue,MICHIO,0,0,0,,{\i1}Are sens că aș putea cumpăra unul.
+Dialogue: 99,0:16:52.32,0:16:54.95,Dialogue,MICHIO,0,0,0,,{\i1}Nici nu mi-a trecut prin cap asta.
+Dialogue: 99,0:16:54.95,0:16:58.83,Dialogue,ALAN,0,0,0,,Compania mea vinde și \Nsclavi de sex feminin.
+Dialogue: 99,0:17:02.01,0:17:04.67,Dialogue,MICHIO,0,0,0,,{\i1}Vinde și sclavi de sex feminin?
+Dialogue: 99,0:17:05.68,0:17:10.00,Dialogue,MICHIO,0,0,0,,{\i1}Chiar pot cumpăra o femeie-sclav?
+Dialogue: 99,0:17:10.58,0:17:12.42,Dialogue,MICHIO,0,0,0,,{\i1}Does that mean
+Dialogue: 99,0:17:13.84,0:17:17.55,Dialogue,MICHIO,0,0,0,,{\i1}I can get freaky with a female slave?
+Dialogue: 99,0:17:18.87,0:17:21.07,Dialogue,MICHIO,0,0,0,,{\i1}Nu, nu pot face. \NTrebuie să mă calmez.
+Dialogue: 99,0:17:21.07,0:17:23.72,Dialogue,MICHIO,0,0,0,,{\i1}O să-mi iau câteva \Nclipe ca să mă adun.
+Dialogue: 99,0:17:23.72,0:17:24.97,Dialogue,ROXANNE,0,0,0,,Mă scuzați.
+Dialogue: 99,0:17:24.97,0:17:25.52,Dialogue,MICHIO,0,0,0,,Ce?
+Dialogue: 99,0:17:30.24,0:17:34.20,Dialogue,MICHIO,0,0,0,,{\i1}Se mișcă! Chiar se mișcă!
+Dialogue: 99,0:17:34.20,0:17:36.30,Dialogue,MICHIO,0,0,0,,{\i1}Chiar e real așa ceva?
+Dialogue: 99,0:17:37.11,0:17:38.06,Dialogue,ROXANNE,0,0,0,,Poftim.
+Dialogue: 99,0:17:39.00,0:17:41.28,Dialogue,MICHIO,0,0,0,,Oh, mulțumesc.
+Dialogue: 99,0:17:41.70,0:17:43.38,Dialogue,ALAN,0,0,0,,Servește niște ceai.
+Dialogue: 99,0:17:44.67,0:17:45.50,Dialogue,MICHIO,0,0,0,,Mulțumesc.
+Dialogue: 99,0:17:47.45,0:17:48.88,Dialogue,ROXANNE,0,0,0,,Vă rog să mă scuzați.
+Dialogue: 99,0:17:51.46,0:17:54.55,Dialogue,MICHIO,0,0,0,,{\i1}S-au mișcat din nou. Acei pepeni frumoși s-au mișcat din nou.
+Dialogue: 99,0:17:58.02,0:18:04.33,Dialogue,MICHIO,0,0,0,,{\i1}E, fără îndoială, cea mai frumoasă femeie pe care am întâlnit-o astăzi, nu... în această lume.
+Dialogue: 99,0:18:04.33,0:18:05.56,Dialogue,MICHIO,0,0,0,,{\i1}Și...
+Dialogue: 99,0:18:05.88,0:18:07.64,Dialogue,MICHIO,0,0,0,,{\i1}Are și cei mai mari sâni.
+Dialogue: 99,0:18:07.88,0:18:10.15,Dialogue,ALAN,0,0,0,,Pari încântat.
+Dialogue: 99,0:18:10.35,0:18:12.35,Dialogue,MICHIO,0,0,0,,Ceaiul chiar e bun.
+Dialogue: 99,0:18:12.35,0:18:14.65,Dialogue,ALAN,0,0,0,,Mă refeream la servitoare.
+Dialogue: 99,0:18:14.65,0:18:16.15,Dialogue,MICHIO,0,0,0,,{\i1}Știam eu!
+Dialogue: 99,0:18:16.15,0:18:21.12,Dialogue,ALAN,0,0,0,,Ea este, în prezent, sclava \Nmea cea mai recomandată.
+Dialogue: 99,0:18:24.28,0:18:26.50,Dialogue,MICHIO,0,0,0,,{\i1}Deci e o sclavă.
+Dialogue: 99,0:18:27.29,0:18:30.12,Dialogue,MICHIO,0,0,0,,{\i1}Ceea ce înseamnă că o pot cumpăra.
+Dialogue: 99,0:18:31.67,0:18:33.88,Dialogue,MICHIO,0,0,0,,Sclavii își pot trăda stăpânul?
+Dialogue: 99,0:18:34.14,0:18:39.38,Dialogue,ALAN,0,0,0,,No. Without someone to inherit them, \Nor a will promising them their freedom,
+Dialogue: 99,0:18:39.38,0:18:42.76,Dialogue,ALAN,0,0,0,,un sclav care-și pierde stăpânul îl urmează în mormânt.
+Dialogue: 99,0:18:42.76,0:18:44.61,Dialogue,MICHIO,0,0,0,,Vrei să spui că mor?
+Dialogue: 99,0:18:45.01,0:18:45.75,Dialogue,ALAN,0,0,0,,Da.
+Dialogue: 99,0:18:47.07,0:18:49.31,Dialogue,MICHIO,0,0,0,,Dacă nu-și pot omorî \Nstăpânul, atunci, pot fugi?
+Dialogue: 99,0:18:49.31,0:18:52.55,Dialogue,ALAN,0,0,0,,Sclavii care fug sunt retrogradați \Nla statutul de bandiți.
+Dialogue: 99,0:18:52.55,0:18:55.89,Dialogue,ALAN,0,0,0,,Bandiții pot fi omorâți,
+Dialogue: 99,0:18:55.89,0:18:58.53,Dialogue,ALAN,0,0,0,,iar bunurile furate în mod legal.
+Dialogue: 99,0:18:58.84,0:19:02.36,Dialogue,ALAN,0,0,0,,Even if they stole money from \Ntheir master before escaping,
+Dialogue: 99,0:19:02.36,0:19:06.07,Dialogue,ALAN,0,0,0,,it's unlikely they'd live a better life.
+Dialogue: 99,0:19:06.48,0:19:07.79,Dialogue,MICHIO,0,0,0,,Înțeleg.
+Dialogue: 99,0:19:08.05,0:19:14.20,Dialogue,ALAN,0,0,0,,Also, the girl who was here earlier \Nis a wolfkin and a beast warrior.
+Dialogue: 99,0:19:14.20,0:19:17.12,Dialogue,ALAN,0,0,0,,Va fi foarte utilă într-un labirint.
+Dialogue: 99,0:19:17.12,0:19:19.94,Dialogue,ALAN,0,0,0,,Pe lângă asta, e inteligentă \Nși are o personalitate bună.
+Dialogue: 99,0:19:19.94,0:19:23.85,Dialogue,ALAN,0,0,0,,She's perfect for someone's first slave.
+Dialogue: 99,0:19:23.85,0:19:28.93,Dialogue,ALAN,0,0,0,,And there's another advantage \Nto her being a wolfkin.
+Dialogue: 99,0:19:28.93,0:19:30.14,Dialogue,MICHIO,0,0,0,,Care este?
+Dialogue: 99,0:19:30.43,0:19:34.72,Dialogue,ALAN,0,0,0,,Humans and non-humans \Ncannot produce offspring.
+Dialogue: 99,0:19:34.72,0:19:35.96,Dialogue,MICHIO,0,0,0,,Adică...
+Dialogue: 99,0:19:36.36,0:19:39.61,Dialogue,ALAN,0,0,0,,Și mai există un lucru \Nimportant de luat în considerare.
+Dialogue: 99,0:19:40.03,0:19:43.36,Dialogue,ALAN,0,0,0,,E virgină.
+Dialogue: 99,0:19:45.32,0:19:48.33,Dialogue,ALAN,0,0,0,,Astfel, nu trebuie să-ți faci griji de boli.
+Dialogue: 99,0:19:48.33,0:19:49.51,Dialogue,ALAN,0,0,0,,În plus...
+Dialogue: 99,0:19:49.51,0:19:50.75,Dialogue,MICHIO,0,0,0,,{\i1}Mai sunt chestii?
+Dialogue: 99,0:19:51.04,0:19:55.75,Dialogue,ALAN,0,0,0,,A spus că e de acord să \Nfacă sex cu stăpânul ei.
+Dialogue: 99,0:19:56.01,0:20:00.26,Dialogue,ALAN,0,0,0,,I believe that would be meaningful to you.
+Dialogue: 99,0:20:01.21,0:20:02.14,Dialogue,MICHIO,0,0,0,,De ce?
+Dialogue: 99,0:20:02.76,0:20:10.07,Dialogue,ALAN,0,0,0,,Because some of my customers feel\Nconflicted about laying hands on a slave,
+Dialogue: 99,0:20:10.70,0:20:12.77,Dialogue,ALAN,0,0,0,,especially the younger ones.
+Dialogue: 99,0:20:13.04,0:20:17.34,Dialogue,ALAN,0,0,0,,Dar dacă acceptă de bună \Nvoie o astfel de relație...
+Dialogue: 99,0:20:17.81,0:20:18.87,Dialogue,ALAN,0,0,0,,Ce părere ai?
+Dialogue: 99,0:20:19.33,0:20:20.78,Dialogue,MICHIO,0,0,0,,Înțeleg.
+Dialogue: 99,0:20:21.19,0:20:25.66,Dialogue,ALAN,0,0,0,,De asta ți-o recomand ție.
+Dialogue: 99,0:20:26.19,0:20:28.11,Dialogue,ALAN,0,0,0,,Are sens?
+Dialogue: 99,0:20:28.60,0:20:29.63,Dialogue,MICHIO,0,0,0,,Da.
+Dialogue: 99,0:20:30.53,0:20:32.91,Dialogue,MICHIO,0,0,0,,{\i1}O pot cumpăra pe Roxanne?
+Dialogue: 99,0:20:33.87,0:20:36.42,Dialogue,MICHIO,0,0,0,,{\i1}Și pot face orice-mi dorește inima cu o sclavă atât de frumoasă?
+Dialogue: 99,0:20:36.70,0:20:39.56,Dialogue,MICHIO,0,0,0,,{\i1}Dar oare e în regulă să cumpăr un sclav?
+Dialogue: 99,0:20:39.56,0:20:42.27,Dialogue,MICHIO,0,0,0,,{\i1}Stai, așa funcționează această lume.
+Dialogue: 99,0:20:42.27,0:20:45.93,Dialogue,MICHIO,0,0,0,,{\i1}Chiar dacă nu o cumpăr eu, \Ntot va ajunge sclava sexuală a cuiva.
+Dialogue: 99,0:20:45.93,0:20:49.10,Dialogue,MICHIO,0,0,0,,{\i1}Și nu pot permite așa ceva, \Nceea ce înseamnă...
+Dialogue: 99,0:20:49.72,0:20:50.60,Dialogue,MICHIO,0,0,0,,Cât de mult?
+Dialogue: 99,0:20:50.60,0:20:54.09,Dialogue,ALAN,0,0,0,,600.000 de nari mi-ar plăcea să spun,
+Dialogue: 99,0:20:54.09,0:20:56.56,Dialogue,ALAN,0,0,0,,dar după ce am \Nrecomandat-o atât de agresiv,
+Dialogue: 99,0:20:56.82,0:21:02.75,Dialogue,ALAN,0,0,0,,incluzând și costumația pe care tocmai o purta, ea a ta pentru doar 422.800 de nari.
+Dialogue: 99,0:21:04.36,0:21:06.57,Dialogue,MICHIO,0,0,0,,Nu am atâția bani.
+Dialogue: 99,0:21:07.07,0:21:10.80,Dialogue,ALAN,0,0,0,,Înțeleg. Bănuiesc că asta e, atunci.
+Dialogue: 99,0:21:20.48,0:21:23.03,Dialogue,MICHIO,0,0,0,,{\i1}E așa de drăguță.
+Dialogue: 99,0:21:24.20,0:21:26.81,Dialogue,ALAN,0,0,0,,Te pot aștepta cinci zile.
+Dialogue: 99,0:21:26.81,0:21:28.00,Dialogue,MICHIO,0,0,0,,Ce?
+Dialogue: 99,0:21:28.00,0:21:31.43,Dialogue,ALAN,0,0,0,,Strânge banii în acest timp.
+Dialogue: 99,0:21:31.98,0:21:32.89,Dialogue,MICHIO,0,0,0,,Dar...
+Dialogue: 99,0:21:34.56,0:21:37.36,Dialogue,ALAN,0,0,0,,Acest client a prins drag de tine.
+Dialogue: 99,0:21:37.36,0:21:38.81,Dialogue,ROXANNE,0,0,0,,Vă mulțumesc.
+Dialogue: 99,0:21:39.43,0:21:42.19,Dialogue,MICHIO,0,0,0,,{\i1}Acum nu mai pot refuza.
+Dialogue: 99,0:21:42.19,0:21:43.21,Dialogue,ROXANNE,0,0,0,,Mă scuzați...
+Dialogue: 99,0:21:43.21,0:21:43.69,Dialogue,MICHIO,0,0,0,,Ce?
+Dialogue: 99,0:21:45.23,0:21:46.83,Dialogue,ROXANNE,0,0,0,,Mă bucur să vă cunosc.
+Dialogue: 99,0:21:47.23,0:21:48.77,Dialogue,MICHIO,0,0,0,,D-Da.
+Dialogue: 99,0:21:51.65,0:21:54.48,Dialogue,ALAN,0,0,0,,Ne vedem în cinci zile.
+Dialogue: 99,0:21:54.48,0:21:55.48,Dialogue,MICHIO,0,0,0,,Da.
+Dialogue: 99,0:21:55.48,0:22:01.24,Dialogue,MICHIO,0,0,0,,{\i1}Nu știu cum voi face atât de mulți bani, \Ndar știu un lucru cu siguranță.
+Dialogue: 99,0:22:02.63,0:22:06.46,Dialogue,MICHIO,0,0,0,,{\i1}Roxanne va fi a mea.
 Dialogue: 0,0:00:20.79,0:00:24.08,DedzuyaSigns,,0,0,0,,{\an2\pos(960,140)\fscx140\fscy140\fnReimin Y40 ExtraBold\fsp1\bord5\c&H0889FC&\3c&H0889FC&\alpha&HFF&\blur12\t(0,120,\alpha&H00&)}H{\c&H2269F6&\3c&H2269F6&\alpha&HFF&\t(25,145,\alpha&H00&)}a{\c&H3C49F1&\3c&H3C49F1&\alpha&HFF&\t(51,171,\alpha&H00&)}r{\c&H5629EB&\3c&H5629EB&\alpha&HFF&\t(77,197,\alpha&H00&)}e{\c&H710AE6&\3c&H710AE6&\alpha&HFF&\t(103,223,\alpha&H00&)}m {\c&HFFFFFF&\3c&HFFFFFF&\alpha&HFF&\t(129,249,\alpha&H00&)}î{\alpha&HFF&\t(155,275,\alpha&H00&)}n{\alpha&HFF&\t(181,301,\alpha&H00&)}t{\alpha&HFF&\t(207,327,\alpha&H00&)}r{\alpha&HFF&\t(232,352,\alpha&H00&)}-{\alpha&HFF&\t(258,378,\alpha&H00&)}u{\alpha&HFF&\t(284,404,\alpha&H00&)}n {\alpha&HFF&\t(310,430,\alpha&H00&)}l{\alpha&HFF&\t(336,456,\alpha&H00&)}a{\alpha&HFF&\t(362,482,\alpha&H00&)}b{\alpha&HFF&\t(388,508,\alpha&H00&)}i{\alpha&HFF&\t(414,534,\alpha&H00&)}r{\alpha&HFF&\t(440,560,\alpha&H00&)}i{\alpha&HFF&\t(465,585,\alpha&H00&)}n{\alpha&HFF&\t(491,611,\alpha&H00&)}t {\alpha&HFF&\t(517,637,\alpha&H00&)}d{\alpha&HFF&\t(543,663,\alpha&H00&)}i{\alpha&HFF&\t(569,689,\alpha&H00&)}n{\alpha&HFF&\t(595,715,\alpha&H00&)}t{\alpha&HFF&\t(621,741,\alpha&H00&)}r{\alpha&HFF&\t(647,767,\alpha&H00&)}-{\alpha&HFF&\t(672,792,\alpha&H00&)}o {\alpha&HFF&\t(698,818,\alpha&H00&)}a{\alpha&HFF&\t(724,844,\alpha&H00&)}l{\alpha&HFF&\t(750,870,\alpha&H00&)}t{\alpha&HFF&\t(776,896,\alpha&H00&)}ă {\alpha&HFF&\t(802,922,\alpha&H00&)}l{\alpha&HFF&\t(828,948,\alpha&H00&)}u{\alpha&HFF&\t(854,974,\alpha&H00&)}m{\alpha&HFF&\t(880,1000,\alpha&H00&)}e
 Dialogue: 1,0:00:20.79,0:00:24.08,DedzuyaSigns,,0,0,0,,{\an2\pos(960,140)\fscx140\fscy140\fnReimin Y40 ExtraBold\fsp1\bord5\c&H0889FC&\3c&H0889FC&\alpha&HFF&\blur6\t(0,120,\alpha&H00&)}H{\c&H2269F6&\3c&H2269F6&\alpha&HFF&\t(25,145,\alpha&H00&)}a{\c&H3C49F1&\3c&H3C49F1&\alpha&HFF&\t(51,171,\alpha&H00&)}r{\c&H5629EB&\3c&H5629EB&\alpha&HFF&\t(77,197,\alpha&H00&)}e{\c&H710AE6&\3c&H710AE6&\alpha&HFF&\t(103,223,\alpha&H00&)}m {\c&HFFFFFF&\3c&HFFFFFF&\alpha&HFF&\blur0.8\t(129,249,\alpha&H00&)}î{\alpha&HFF&\t(155,275,\alpha&H00&)}n{\alpha&HFF&\t(181,301,\alpha&H00&)}t{\alpha&HFF&\t(207,327,\alpha&H00&)}r{\alpha&HFF&\t(232,352,\alpha&H00&)}-{\alpha&HFF&\t(258,378,\alpha&H00&)}u{\alpha&HFF&\t(284,404,\alpha&H00&)}n {\alpha&HFF&\t(310,430,\alpha&H00&)}l{\alpha&HFF&\t(336,456,\alpha&H00&)}a{\alpha&HFF&\t(362,482,\alpha&H00&)}b{\alpha&HFF&\t(388,508,\alpha&H00&)}i{\alpha&HFF&\t(414,534,\alpha&H00&)}r{\alpha&HFF&\t(440,560,\alpha&H00&)}i{\alpha&HFF&\t(465,585,\alpha&H00&)}n{\alpha&HFF&\t(491,611,\alpha&H00&)}t {\alpha&HFF&\t(517,637,\alpha&H00&)}d{\alpha&HFF&\t(543,663,\alpha&H00&)}i{\alpha&HFF&\t(569,689,\alpha&H00&)}n{\alpha&HFF&\t(595,715,\alpha&H00&)}t{\alpha&HFF&\t(621,741,\alpha&H00&)}r{\alpha&HFF&\t(647,767,\alpha&H00&)}-{\alpha&HFF&\t(672,792,\alpha&H00&)}o {\alpha&HFF&\t(698,818,\alpha&H00&)}a{\alpha&HFF&\t(724,844,\alpha&H00&)}l{\alpha&HFF&\t(750,870,\alpha&H00&)}t{\alpha&HFF&\t(776,896,\alpha&H00&)}ă {\alpha&HFF&\t(802,922,\alpha&H00&)}l{\alpha&HFF&\t(828,948,\alpha&H00&)}u{\alpha&HFF&\t(854,974,\alpha&H00&)}m{\alpha&HFF&\t(880,1000,\alpha&H00&)}e
 Dialogue: 2,0:00:20.79,0:00:24.08,DedzuyaSigns,,0,0,0,,{\an2\pos(960,140)\fscx140\fscy140\fnReimin Y40 ExtraBold\fsp1\alpha&HFF&\blur0.9\t(0,120,\alpha&H00&)}H{\alpha&HFF&\t(25,145,\alpha&H00&)}a{\alpha&HFF&\t(51,171,\alpha&H00&)}r{\alpha&HFF&\t(77,197,\alpha&H00&)}e{\alpha&HFF&\t(103,223,\alpha&H00&)}m {\c&H900000&\alpha&HFF&\t(129,249,\alpha&H00&)}î{\alpha&HFF&\t(155,275,\alpha&H00&)}n{\alpha&HFF&\t(181,301,\alpha&H00&)}t{\alpha&HFF&\t(207,327,\alpha&H00&)}r{\alpha&HFF&\t(232,352,\alpha&H00&)\c&HE09A0C&}-{\alpha&HFF&\t(258,378,\alpha&H00&)\c&H900000&}u{\alpha&HFF&\t(284,404,\alpha&H00&)}n {\alpha&HFF&\t(310,430,\alpha&H00&)}l{\alpha&HFF&\t(336,456,\alpha&H00&)}a{\alpha&HFF&\t(362,482,\alpha&H00&)}b{\alpha&HFF&\t(388,508,\alpha&H00&)}i{\alpha&HFF&\t(414,534,\alpha&H00&)}r{\alpha&HFF&\t(440,560,\alpha&H00&)}i{\alpha&HFF&\t(465,585,\alpha&H00&)}n{\alpha&HFF&\t(491,611,\alpha&H00&)}t {\alpha&HFF&\t(517,637,\alpha&H00&)}d{\alpha&HFF&\t(543,663,\alpha&H00&)}i{\alpha&HFF&\t(569,689,\alpha&H00&)}n{\alpha&HFF&\t(595,715,\alpha&H00&)}t{\alpha&HFF&\t(621,741,\alpha&H00&)}r{\alpha&HFF&\t(647,767,\alpha&H00&)\c&HE09A0C&}-{\alpha&HFF&\t(672,792,\alpha&H00&)\c&H900000&}o {\alpha&HFF&\t(698,818,\alpha&H00&)}a{\alpha&HFF&\t(724,844,\alpha&H00&)}l{\alpha&HFF&\t(750,870,\alpha&H00&)}t{\alpha&HFF&\t(776,896,\alpha&H00&)}ă {\alpha&HFF&\t(802,922,\alpha&H00&)}l{\alpha&HFF&\t(828,948,\alpha&H00&)}u{\alpha&HFF&\t(854,974,\alpha&H00&)}m{\alpha&HFF&\t(880,1000,\alpha&H00&)}e

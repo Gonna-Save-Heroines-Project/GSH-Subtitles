@@ -39,430 +39,430 @@ Style: Shirushibi TL,Cardo,74,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:02.49,0:00:03.67,Dialogue,Will,0,0,0,,Nu arată prea bine.
-Dialogue: 100,0:00:03.97,0:00:06.29,Dialogue,Villager1,0,0,0,,Au luat toate animalele
-Dialogue: 100,0:00:06.29,0:00:09.30,Dialogue,Villager1,0,0,0,,și au distrus multe unelte \Ncare nu pot fi înlocuite.
-Dialogue: 100,0:00:09.30,0:00:12.47,Dialogue,Villager2,0,0,0,,Va trebui să mergem în Pânzele Albe ca să cumpărăm.
-Dialogue: 100,0:00:12.47,0:00:13.98,Dialogue,Menel,0,0,0,,Cu ce bani?
-Dialogue: 100,0:00:13.98,0:00:16.66,Dialogue,Villager1,0,0,0,,Ei bine, nu vom putea înlocui totul.
-Dialogue: 100,0:00:16.66,0:00:19.59,Dialogue,Will,0,0,0,,Hei... ce sunt Pânzele Albe?
-Dialogue: 100,0:00:20.95,0:00:23.06,Dialogue,Menel,0,0,0,,Serios, cine naiba {\i1}ești{\i0} tu?
-Dialogue: 100,0:00:23.06,0:00:24.81,Dialogue,Menel,0,0,0,,Ai putea fi mai neștiutor de atât?
-Dialogue: 100,0:00:24.81,0:00:26.13,Dialogue,Will,0,0,0,,Scuze.
-Dialogue: 100,0:00:26.13,0:00:29.16,Dialogue,Menel,0,0,0,,Deci... Pânzele Albe este...
-Dialogue: 100,0:00:29.16,0:00:32.18,Dialogue,Will,0,0,0,,Oh, ei bine... dacă mi-ai putea spune mai multe și despre istoria acestui loc...
-Dialogue: 100,0:00:32.18,0:00:34.39,Dialogue,Menel,0,0,0,,Da, bine.
-Dialogue: 100,0:00:34.59,0:00:38.59,Dialogue,Menel,0,0,0,,Știi că acesta e continentul sudic, izolat cunoscut ca Semnul Sudului, nu?
-Dialogue: 100,0:00:38.59,0:00:40.16,Dialogue,Will,0,0,0,,Da, știu asta.
-Dialogue: 100,0:00:40.16,0:00:42.40,Dialogue,Menel,0,0,0,,Deci, cam acum... două sute de ani a fost?
-Dialogue: 100,0:00:42.86,0:00:45.94,Dialogue,Menel,0,0,0,,Semnul Sudului a fost înghițit de o hoardă de demoni.
-Dialogue: 100,0:00:45.94,0:00:49.25,Dialogue,Menel,0,0,0,,Grupul celor o sută de eroi l-a învins pe regele demonilor,
-Dialogue: 100,0:00:49.25,0:00:51.50,Dialogue,Menel,0,0,0,,dar oamenii au abandonat acest continent,
-Dialogue: 100,0:00:51.50,0:00:54.52,Dialogue,Menel,0,0,0,,trecând marea ca să se retragă în Ținutului Ierbii, aflat în nord.
-Dialogue: 100,0:00:54.86,0:00:58.24,Dialogue,Menel,0,0,0,,{\i1}Grupul celor o sută de eroi... Se referă la Blood și prietenii lui.
-Dialogue: 100,0:00:58.24,0:01:02.16,Dialogue,Menel,0,0,0,,De când Regatul Fertil a unificat regiunea sud-vestică a Ținutului Ierbii,
-Dialogue: 100,0:01:02.16,0:01:05.63,Dialogue,Menel,0,0,0,,au cultivat pământurile cu \Nintenția de a le recupera.
-Dialogue: 100,0:01:05.63,0:01:11.68,Dialogue,Menel,0,0,0,,Iar Pânzele Albe e orașul port care a devenit centrul imigrărilor spre nord.
-Dialogue: 100,0:01:11.68,0:01:12.78,Dialogue,Will,0,0,0,,Înțeleg.
-Dialogue: 100,0:01:12.78,0:01:16.12,Dialogue,Menel,0,0,0,,Mulți oameni cu istorie și sperând să devină eroi, merg acolo.
-Dialogue: 100,0:01:16.12,0:01:18.75,Dialogue,Menel,0,0,0,,Și oameni care au avut \Nparte de revelații divine.
-Dialogue: 100,0:01:19.02,0:01:21.75,Dialogue,Menel,0,0,0,,Speri și să aduni mai mulți credincioși în această călătorie, nu?
-Dialogue: 100,0:01:21.75,0:01:26.48,Dialogue,Menel,0,0,0,,Gracefeel obișnuia sa aibă mulți credincioși pe continentul sudic.
-Dialogue: 100,0:01:26.48,0:01:27.93,Dialogue,Will,0,0,0,,Mi-ai putea spune mai multe?
-Dialogue: 100,0:01:27.93,0:01:32.19,Dialogue,Menel,0,0,0,,Cred că adepții ei au fost împrăștiați în timpul Măreței Prăbușiri...
-Dialogue: 100,0:01:32.19,0:01:33.54,Dialogue,Villager1,0,0,0,,Da, așa este.
-Dialogue: 100,0:01:33.54,0:01:38.32,Dialogue,Villager1,0,0,0,,Iar cei care au reușit să scape spre Ținutul Ierbii i-au păstrat numele viu.
-Dialogue: 100,0:01:38.32,0:01:41.70,Dialogue,Villager2,0,0,0,,Dar adepții ei tot au scăzut mult.
-Dialogue: 100,0:01:41.96,0:01:43.78,Dialogue,Will,0,0,0,,{\i1}Demoni și bestii demonice scăpate de sub control,
-Dialogue: 100,0:01:43.78,0:01:45.89,Dialogue,Will,0,0,0,,{\i1}sate care recurg la furturi
-Dialogue: 100,0:01:45.89,0:01:47.89,Dialogue,Will,0,0,0,,{\i1}și credința tot mai mică a oamenilor în zeița mea...
-Dialogue: 100,0:01:47.89,0:01:52.45,Dialogue,Will,0,0,0,,Deci să fac ceva în legătură cu toate astea e misiunea pe care o am de la zeița mea?
-Dialogue: 100,0:01:53.16,0:01:55.83,Dialogue,Menel,0,0,0,,Oricum, de ajuns cu legendele vechi.
-Dialogue: 100,0:01:55.83,0:01:57.68,Dialogue,Will,0,0,0,,Trebuie să repunem satul pe picioare, mai întâi.
-Dialogue: 100,0:01:57.68,0:02:00.07,Dialogue,Menel,0,0,0,,Da, în legătură cu asta...
-Dialogue: 100,0:02:00.07,0:02:02.48,Dialogue,Menel,0,0,0,,Oamenii acestui sat nu au niciun ban.
-Dialogue: 100,0:02:02.48,0:02:05.04,Dialogue,Will,0,0,0,,Menel, vrei să explorăm niște ruine?
-Dialogue: 100,0:02:05.04,0:02:06.52,Dialogue,Will,0,0,0,,Vom împărți tot ce găsim în mod egal.
-Dialogue: 100,0:02:07.09,0:02:08.10,Dialogue,Menel,0,0,0,,Ce?
-Dialogue: 100,0:03:39.58,0:03:42.98,Dialogue,Menel,0,0,0,,Nu aș fi ghicit niciodată că ești bun la cotrobăit prin ruine!
-Dialogue: 100,0:03:42.98,0:03:44.27,Dialogue,Will,0,0,0,,Sunt obișnuit cu ele.
-Dialogue: 100,0:03:44.27,0:03:46.36,Dialogue,Menel,0,0,0,,Serios, cine naiba {\i1}ești{\i0} tu?
-Dialogue: 100,0:03:46.36,0:03:49.57,Dialogue,Menel,0,0,0,,Totuși, am reușit să facem rost de destui bani ca să reconstruim satul.
-Dialogue: 100,0:03:49.57,0:03:51.66,Dialogue,Menel,0,0,0,,Putem chiar să cumpărăm alte animale și unelte noi.
-Dialogue: 100,0:03:51.66,0:03:54.41,Dialogue,Will,0,0,0,,Și eu mi-am recuperat toate cheltuielile.
-Dialogue: 100,0:03:54.41,0:03:56.20,Dialogue,Will,0,0,0,,Abia asțept să mergem în oraș.
-Dialogue: 100,0:03:56.20,0:03:58.63,Dialogue,Menel,0,0,0,,Când vom ajunge, primul lucru pe care-l vom face va fi să mâncăm.
-Dialogue: 100,0:03:58.63,0:04:00.42,Dialogue,Menel,0,0,0,,Fructele de mare din această perioadă sunt...
-Dialogue: 100,0:04:01.11,0:04:02.04,Dialogue,Tonio,0,0,0,,Cineva!
-Dialogue: 100,0:04:02.04,0:04:03.56,Dialogue,Tonio,0,0,0,,Ajutor!
-Dialogue: 100,0:04:06.60,0:04:07.75,Dialogue,Will,0,0,0,,O maimuță uriașă!
-Dialogue: 100,0:04:08.09,0:04:10.13,Dialogue,Bee,0,0,0,,{\an8}Hei! Ce tot faci?!
-Dialogue: 100,0:04:09.59,0:04:12.82,Dialogue,Menel,0,0,0,,Cei doi care fug de chestia aia sunt un pitic.... și un negustor ambulant?
-Dialogue: 100,0:04:11.09,0:04:13.28,Dialogue,Bee,0,0,0,,{\an8}Aruncă aia odată!
-Dialogue: 100,0:04:13.28,0:04:14.13,Dialogue,Tonio,0,0,0,,Dar...
-Dialogue: 100,0:04:14.13,0:04:15.93,Dialogue,Bee,0,0,0,,Nici să nu te aud!
-Dialogue: 100,0:04:15.93,0:04:17.81,Dialogue,Bee,0,0,0,,Vai, Doamne! Aici, arătate!
-Dialogue: 100,0:04:23.78,0:04:25.01,Dialogue,Bee,0,0,0,,Vino aici!
-Dialogue: 100,0:04:25.01,0:04:25.54,Dialogue,Bee,0,0,0,,Ce?
-Dialogue: 100,0:04:27.85,0:04:28.61,Dialogue,Bee,0,0,0,,Cine ești?
-Dialogue: 100,0:04:29.29,0:04:30.73,Dialogue,Bee,0,0,0,,Stai, e periculos!
-Dialogue: 100,0:04:31.46,0:04:33.04,Dialogue,Will,0,0,0,,{\i1}Blood mi-a spus că
-Dialogue: 100,0:04:33.04,0:04:36.28,Dialogue,Will,0,0,0,,{\i1}atunci când înfrunți un animal sălbatic, \Nai pierdut imediat cum ai rupt contactul vizual.
-Dialogue: 100,0:04:38.29,0:04:40.73,Dialogue,Will,0,0,0,,{\i1}Ei bine, haide, atacă-mă.
-Dialogue: 100,0:04:40.73,0:04:42.50,Dialogue,Will,0,0,0,,{\i1}Ne putem tăvăli puțin.
-Dialogue: 100,0:05:01.15,0:05:04.04,Dialogue,Will,0,0,0,,Ce ușurare. Nu a trebuit să mă lupt cu ea.
-Dialogue: 100,0:05:04.41,0:05:05.42,Dialogue,Will,0,0,0,,Ești bine?
-Dialogue: 100,0:05:05.42,0:05:08.07,Dialogue,Bee,0,0,0,,Hei, cine naiba ești tu?! \NUn aventurier?!
-Dialogue: 100,0:05:08.07,0:05:11.71,Dialogue,Bee,0,0,0,,Nu mulți oameni pot opri o maimuță uriașă, agitată doar uitându-se la ea!
-Dialogue: 100,0:05:11.71,0:05:13.31,Dialogue,Bee,0,0,0,,Ești incredibil! Incredibil!
-Dialogue: 100,0:05:13.31,0:05:16.07,Dialogue,Bee,0,0,0,,Oh! Numele meu e Robina! \NRobina Om-bun!
-Dialogue: 100,0:05:16.07,0:05:19.62,Dialogue,Bee,0,0,0,,Sunt un trubadur! Cânt, dansez și merg oriunde mă poartă vântul!
-Dialogue: 100,0:05:19.62,0:05:21.08,Dialogue,Bee,0,0,0,,Îmi poți spune Bee!
-Dialogue: 100,0:05:21.08,0:05:23.84,Dialogue,Bee,0,0,0,,Iar ciudatul de acolo e negustorul ambulant Antonio.
-Dialogue: 100,0:05:23.84,0:05:25.36,Dialogue,Bee,0,0,0,,Eu îi spun Tonio!
-Dialogue: 100,0:05:25.36,0:05:27.11,Dialogue,Bee,0,0,0,,Compania pentru care lucra a dat faliment,
-Dialogue: 100,0:05:27.11,0:05:30.41,Dialogue,Bee,0,0,0,,deci acum se dă drept negustor ambulant pe drumurile de țară mai izolate!
-Dialogue: 100,0:05:31.70,0:05:34.62,Dialogue,Tonio,0,0,0,,Nici măcar nu am avut ocazia să spun ceva.
-Dialogue: 100,0:05:34.62,0:05:38.09,Dialogue,Tonio,0,0,0,,Mă întorc în Pânzele Albe, \Nlocul unde-mi fac veacul.
-Dialogue: 100,0:05:38.34,0:05:39.82,Dialogue,Will,0,0,0,,Pânzele Albe?
-Dialogue: 100,0:05:39.82,0:05:41.97,Dialogue,Tonio,0,0,0,,Vai, chiar ne-ai salvat pieile acolo.
-Dialogue: 100,0:05:41.97,0:05:44.02,Dialogue,Tonio,0,0,0,,Îți mulțumim.
-Dialogue: 100,0:05:44.02,0:05:47.30,Dialogue,Menel,0,0,0,,Eu sunt Meneldor. Vânez prin zonă.
-Dialogue: 100,0:05:47.30,0:05:49.93,Dialogue,Menel,0,0,0,,Noi doar mergeam în oraș ca \Nsă facem niște cumpărături.
-Dialogue: 100,0:05:49.93,0:05:51.17,Dialogue,Will,0,0,0,,Iar acela este...
-Dialogue: 100,0:05:51.17,0:05:54.47,Dialogue,Will,0,0,0,,William. William G. Maryblood.
-Dialogue: 100,0:05:54.47,0:05:58.27,Dialogue,Will,0,0,0,,Sunt un preot în serviciul Zeiței Luminii, Gracefeel.
-Dialogue: 100,0:05:58.27,0:05:59.62,Dialogue,Will,0,0,0,,Îmi puteți spune Will.
-Dialogue: 100,0:05:59.62,0:06:01.83,Dialogue,Bee,0,0,0,,Uau, ce nume aristrocratic ai!
-Dialogue: 100,0:06:01.83,0:06:04.69,Dialogue,Bee,0,0,0,,Iar Gracefeel e zeița adorată pe continentul sudic, nu-i așa?
-Dialogue: 100,0:06:04.69,0:06:07.89,Dialogue,Bee,0,0,0,,Uau, uau! Nu știam că încă mai are preoți!
-Dialogue: 100,0:06:07.89,0:06:09.89,Dialogue,Bee,0,0,0,,Și nu ești un simplu preot, \Nci un preot războinic capabil, nu?
-Dialogue: 100,0:06:09.89,0:06:11.37,Dialogue,Bee,0,0,0,,Am dreptate?! Am dreptate?!
-Dialogue: 100,0:06:11.37,0:06:15.83,Dialogue,Menel,0,0,0,,Da, poate pare puțin aerian, \Ndar e prostesc de puternic.
-Dialogue: 100,0:06:15.83,0:06:19.26,Dialogue,Menel,0,0,0,,Adică, nu prea mă atacă \Nnicio bestie când sunt cu el.
-Dialogue: 100,0:06:19.26,0:06:22.69,Dialogue,Bee,0,0,0,,Vrei să spui că bestiile știu cât e de puternic și îl evită?!
-Dialogue: 100,0:06:22.69,0:06:24.19,Dialogue,Bee,0,0,0,,Ce naiba?! Asta e așa de tare!
-Dialogue: 100,0:06:24.33,0:06:26.80,Dialogue,Will,0,0,0,,Ce? Ar fi trebuit să vedem mai multe bestii?
-Dialogue: 100,0:06:26.80,0:06:28.23,Dialogue,Tonio,0,0,0,,Desigur.
-Dialogue: 100,0:06:28.23,0:06:30.12,Dialogue,Tonio,0,0,0,,De asta acest loc e numit Pădurea Bestiilor.
-Dialogue: 100,0:06:30.94,0:06:33.08,Dialogue,Will,0,0,0,,{\i1}Mă simt de parcă privirile lor încearcă să mă străpungă.
-Dialogue: 100,0:06:33.08,0:06:35.28,Dialogue,Menel,0,0,0,,Oricum, sunteți doar voi doi?
-Dialogue: 100,0:06:35.28,0:06:37.00,Dialogue,Menel,0,0,0,,Nu aveți o gardă de corp? \NSau a fost omorâtă?
-Dialogue: 100,0:06:37.00,0:06:41.21,Dialogue,Tonio,0,0,0,,De fapt, când am dat peste maimuța uriașă de mai devreme...
-Dialogue: 100,0:06:41.21,0:06:43.51,Dialogue,Tonio,0,0,0,,Mi-e cam rușine să recunosc, dar au fugit.
-Dialogue: 100,0:06:45.44,0:06:48.96,Dialogue,Menel,0,0,0,,Niște tipi v-au păcălit să-i plătiți în avans pentru protecție, iar apoi, au dat bir cu fugiții?
-Dialogue: 100,0:06:48.96,0:06:52.61,Dialogue,Menel,0,0,0,,Ai trebui să fii mai atent, \Nnegustorule ambulant.
-Dialogue: 100,0:06:52.61,0:06:53.88,Dialogue,Tonio,0,0,0,,Chiar îmi doresc să intru în pământ...
-Dialogue: 100,0:06:53.88,0:06:57.77,Dialogue,Bee,0,0,0,,Și au făcut multă zarvă când au fugit! A fost haos total!
-Dialogue: 100,0:06:57.77,0:07:01.40,Dialogue,Bee,0,0,0,,De regulă, maimuțele uriașe nu atacă oamenii. {\i1}Sunt{\i0} doar înfricoșătoare!
-Dialogue: 100,0:07:01.40,0:07:04.10,Dialogue,Will,0,0,0,,{\i1}Amândoi și-au pierdut gărzile de corp?
-Dialogue: 100,0:07:04.10,0:07:05.99,Dialogue,Will,0,0,0,,Ce veți face acum?
-Dialogue: 100,0:07:05.99,0:07:08.93,Dialogue,Menel,0,0,0,,V-am putea lua cu noi, dacă doriți.
-Dialogue: 100,0:07:08.93,0:07:10.82,Dialogue,Menel,0,0,0,,Să zicem că ne veți rămâne datori.
-Dialogue: 100,0:07:11.07,0:07:12.70,Dialogue,Menel,0,0,0,,Mă voi ocupa eu de negocieri.
-Dialogue: 100,0:07:14.72,0:07:17.07,Dialogue,Tonio,0,0,0,,Să vă rămânem datori? Cu ce anume?
-Dialogue: 100,0:07:17.34,0:07:20.59,Dialogue,Menel,0,0,0,,Vrem să cumpărăm niște vaci, cai și lucruri de acest gen din Pânzele Albe.
-Dialogue: 100,0:07:20.59,0:07:22.21,Dialogue,Tonio,0,0,0,,Oh, înțeleg.
-Dialogue: 100,0:07:22.21,0:07:25.00,Dialogue,Tonio,0,0,0,,Dacă asta vreți, atunci, \Nvoi fi bucuros să vă ajut.
-Dialogue: 100,0:07:25.00,0:07:27.84,Dialogue,Tonio,0,0,0,,Vă voi prezenta unui \Nvânzător pe care-l cunosc.
-Dialogue: 100,0:07:27.84,0:07:31.17,Dialogue,Menel,0,0,0,,Apreciem. Și scuze că m-am băgat astfel.
-Dialogue: 100,0:07:31.17,0:07:33.88,Dialogue,Menel,0,0,0,,Vezi tu, el nu prea știe multe despre cum funcționează lumea.
-Dialogue: 100,0:07:33.88,0:07:36.75,Dialogue,Bee,0,0,0,,Oh, deci chiar e de viță nobilă?
-Dialogue: 100,0:07:36.75,0:07:40.59,Dialogue,Bee,0,0,0,,Oferă această senzație! Că e pur și neprihănit!
-Dialogue: 100,0:07:40.59,0:07:41.78,Dialogue,Will,0,0,0,,N-Nu chiar...
-Dialogue: 100,0:07:41.78,0:07:45.97,Dialogue,Will,0,0,0,,Chiar dacă ți-aș spune despre originile mele, mă îndoiesc că m-ai crede...
-Dialogue: 100,0:07:45.97,0:07:49.74,Dialogue,Bee,0,0,0,,Vrei să spui că vița ta e atât de nobilă încât nu poți vorbi despre familita ta?!
-Dialogue: 100,0:07:49.74,0:07:52.07,Dialogue,Bee,0,0,0,,Să nu mai sunt și că ești preot al unei zeițe uitate!
-Dialogue: 100,0:07:52.07,0:07:54.01,Dialogue,Bee,0,0,0,,Uau, fantastic! Incredibil!
-Dialogue: 100,0:07:54.01,0:07:56.96,Dialogue,Bee,0,0,0,,Simt cum inspirația mă cuprinde!
-Dialogue: 100,0:07:57.18,0:07:58.91,Dialogue,Will,0,0,0,,B-Bine...
-Dialogue: 100,0:07:58.91,0:08:02.75,Dialogue,Will,0,0,0,,{\i1}Stai... Tot ce spun e înțeles greșit...
-Dialogue: 100,0:08:02.75,0:08:03.70,Dialogue,Will,0,0,0,,{\i1}Ce?
-Dialogue: 100,0:08:03.70,0:08:06.23,Dialogue,Menel,0,0,0,,Bun, deci ne-am înțeles. Să pornim.
-Dialogue: 100,0:08:06.23,0:08:08.56,Dialogue,Bee,0,0,0,,Da! Haideți să mergem!
-Dialogue: 100,0:08:16.27,0:08:18.64,Dialogue,Bee,0,0,0,,{\an8}Oh, locul ăsta e perfect!
-Dialogue: 100,0:08:18.64,0:08:21.88,Dialogue,Bee,0,0,0,,{\an8}Zum-zum! Și am ajuns!
-Dialogue: 100,0:08:21.24,0:08:23.95,Dialogue,Will,0,0,0,,{\i1}M-am împrietenit destul \Nde repede cu Bee și Tonio.
-Dialogue: 100,0:08:24.22,0:08:28.02,Dialogue,Will,0,0,0,,{\i1}Tonio are o fire blândă și \Nse apropie ușor de ceilalți.
-Dialogue: 100,0:08:28.02,0:08:32.10,Dialogue,Will,0,0,0,,{\i1}Iar Bee nu pare să aibă niciun concept despre distanța dintre oameni.
-Dialogue: 100,0:08:32.37,0:08:36.34,Dialogue,Bee,0,0,0,,Bun, bănuiesc că a venit \Nmomentul să vă cânt ceva!
-Dialogue: 100,0:08:36.34,0:08:39.65,Dialogue,Bee,0,0,0,,Will, bate din palme pe ritmul muzicii și strânge donațiile!
-Dialogue: 100,0:08:39.65,0:08:41.79,Dialogue,Will,0,0,0,,Sigur. Te poți baza pe mine, Bee.
-Dialogue: 100,0:08:49.90,0:08:57.32,Dialogue,Bee,0,0,0,,{\an8\i1}Ascultați aceste vorbe de aur...
-Dialogue: 100,0:08:55.79,0:08:57.19,Dialogue,Will,0,0,0,,E uimitoare.
-Dialogue: 100,0:08:57.19,0:09:00.12,Dialogue,Will,0,0,0,,Prin toate satele prin care trecem, \Nea se dezlănțuie și îi atrage pe toți la ea.
-Dialogue: 100,0:09:00.12,0:09:03.16,Dialogue,Menel,0,0,0,,Mereu e așa. Sunt impresionat că nu obosește niciodată.
-Dialogue: 100,0:09:03.16,0:09:04.26,Dialogue,Tonio BG,0,0,0,,{\an8}Înțeleg.
-Dialogue: 100,0:09:04.48,0:09:08.70,Dialogue,Tonio BG,0,0,0,,{\an8}Atunci, aceste obiecte ar trebui să vă satisfacă nevoile.
-Dialogue: 100,0:09:05.45,0:09:08.03,Dialogue,Menel,0,0,0,,Fac combinația perfectă pentru afaceri.
-Dialogue: 100,0:09:08.03,0:09:08.69,Dialogue,Will,0,0,0,,Ce?
-Dialogue: 100,0:09:08.69,0:09:13.48,Dialogue,Menel,0,0,0,,Mulți negustori recurg la tactici de păcălire sau chiar la furturi jalnice.
-Dialogue: 100,0:09:09.58,0:09:11.60,Dialogue,Tonio BG,0,0,0,,{\an8}S-a lovit?
-Dialogue: 100,0:09:11.60,0:09:14.43,Dialogue,Tonio BG,0,0,0,,{\an8}Să vedem dacă-l pot convinge pe preot să arunce o privire.
-Dialogue: 100,0:09:13.48,0:09:14.85,Dialogue,Will,0,0,0,,Înțeleg...
-Dialogue: 100,0:09:14.85,0:09:17.68,Dialogue,Menel,0,0,0,,Se pare că nu mințea cu faptul că lucrase la o companie.
-Dialogue: 100,0:09:17.68,0:09:18.68,Dialogue,Tonio,0,0,0,,Hei, Will...
-Dialogue: 100,0:09:18.90,0:09:21.50,Dialogue,Tonio,0,0,0,,vreau să te întreb ceva.
-Dialogue: 100,0:09:21.50,0:09:22.57,Dialogue,Will,0,0,0,,Ce este?
-Dialogue: 100,0:09:23.05,0:09:28.07,Dialogue,Tonio,0,0,0,,Binecuvântarea ta poate vindeca boli și răni?
-Dialogue: 100,0:09:28.07,0:09:29.42,Dialogue,Will,0,0,0,,Da.
-Dialogue: 100,0:09:29.42,0:09:32.25,Dialogue,Tonio,0,0,0,,Înțeleg. Atunci, am o propunere pentru tine.
-Dialogue: 100,0:09:33.88,0:09:35.42,Dialogue,Will,0,0,0,,Zeiță a Luminii...
-Dialogue: 100,0:09:36.73,0:09:38.62,Dialogue,Will,0,0,0,,Rana a dispărut acum.
-Dialogue: 100,0:09:39.80,0:09:43.14,Dialogue,Mom,0,0,0,,E-Ei bine... Cât îți datorez?
-Dialogue: 100,0:09:43.41,0:09:45.18,Dialogue,Will,0,0,0,,Oh, nu vă faceți griji în legătură cu asta.
-Dialogue: 100,0:09:45.18,0:09:47.51,Dialogue,Will,0,0,0,,Vă puteți arăta recunoștința \Nfață de zeița Gracefeel.
-Dialogue: 100,0:09:47.51,0:09:51.43,Dialogue,Will,0,0,0,,Și dacă Tonio are ceva ce vă face, \Nvă rog să cumpărați acel lucru de la el.
-Dialogue: 100,0:09:51.43,0:09:54.06,Dialogue,Will,0,0,0,,Eu încă sunt în pregătire.
-Dialogue: 100,0:09:54.95,0:09:57.37,Dialogue,Mom,0,0,0,,Am înțeles! Îți mulțumesc foarte mult!
-Dialogue: 100,0:09:57.74,0:10:00.29,Dialogue,Mom,0,0,0,,Îți voi lua ceva ca să \Nsărbătorim vindecarea rănii.
-Dialogue: 100,0:10:00.29,0:10:02.27,Dialogue,Tonio,0,0,0,,Ce spuneți de un accesoriu de păr?
-Dialogue: 100,0:10:03.18,0:10:08.22,Dialogue,Menel,0,0,0,,Deci, Bee atrage oameni, Will îi vindecă, și amândoi îl ajută cu afacerea sa.
-Dialogue: 100,0:10:08.22,0:10:10.60,Dialogue,Menel,0,0,0,,Tonio e destul de deștept.
-Dialogue: 100,0:10:10.60,0:10:14.13,Dialogue,Will,0,0,0,,Da. Și ne va ajuta să s-o vestim din nou pe Zeița Luminii.
-Dialogue: 100,0:10:14.13,0:10:16.60,Dialogue,Menel,0,0,0,,Totuși, puterea ta e \Ndestul de impresionantă.
-Dialogue: 100,0:10:16.60,0:10:21.31,Dialogue,Will,0,0,0,,Ei bine, binecuvântarea mea e o rescriere a realității prin puterea zeiței mele.
-Dialogue: 100,0:10:21.31,0:10:24.56,Dialogue,Will,0,0,0,,De asta poate vindeca o rană de parcă ea nu ar fi existat niciodată.
-Dialogue: 100,0:10:24.56,0:10:25.68,Dialogue,Menel,0,0,0,,Hm...
-Dialogue: 100,0:10:25.68,0:10:28.64,Dialogue,Will,0,0,0,,Împrumut această \Nputere de la zeița mea.
-Dialogue: 100,0:10:28.64,0:10:32.00,Dialogue,Will,0,0,0,,Trebuie să am grijă să n-o consider ca fiind puterea mea.
-Dialogue: 100,0:10:32.71,0:10:33.85,Dialogue,Will,0,0,0,,C-Ce?
-Dialogue: 100,0:10:34.48,0:10:36.36,Dialogue,Menel,0,0,0,,Încă în pregătire, nu?
-Dialogue: 100,0:10:36.36,0:10:39.18,Dialogue,Will,0,0,0,,Ei bine... Chiar încă sunt în pregătire.
-Dialogue: 100,0:10:39.18,0:10:40.15,Dialogue,Bee,0,0,0,,Will!
-Dialogue: 100,0:10:40.15,0:10:41.60,Dialogue,Bee,0,0,0,,Ai terminat cu vindecările gratuite?
-Dialogue: 100,0:10:41.60,0:10:42.72,Dialogue,Will,0,0,0,,O, da.
-Dialogue: 100,0:10:42.72,0:10:44.12,Dialogue,Bee,0,0,0,,Atunci, vino cu mine!
-Dialogue: 100,0:10:44.12,0:10:44.77,Dialogue,Will,0,0,0,,Ce? De ce?
-Dialogue: 100,0:10:44.77,0:10:47.45,Dialogue,Bee,0,0,0,,Se dă o petrecere ca să sărbătorim vindecarea tuturor!
-Dialogue: 100,0:10:47.45,0:10:48.33,Dialogue,Will,0,0,0,,Chiar acum?!
-Dialogue: 100,0:10:48.33,0:10:50.68,Dialogue,Menel,0,0,0,,Dacă dau o petrecere, \Nea poate cânta,
-Dialogue: 100,0:10:50.68,0:10:52.98,Dialogue,Menel,0,0,0,,iar el poate vinde mai multe bunuri.
-Dialogue: 100,0:10:52.98,0:10:54.87,Dialogue,Menel,0,0,0,,Chiar e un negustor bun.
-Dialogue: 100,0:10:57.95,0:11:02.22,Dialogue,Will,0,0,0,,{\i1}Am continuat să mai trecem prin câteva sate și să facem bani astfel,
-Dialogue: 100,0:11:02.22,0:11:04.34,Dialogue,Will,0,0,0,,{\i1}în călătoria noastră de \Ncâteva săptămâni spre nord.
-Dialogue: 100,0:11:04.34,0:11:06.00,Dialogue,Will,0,0,0,,{\i1}Iar apoi, am ajuns pe Drumul Grâului.
-Dialogue: 100,0:11:09.12,0:11:11.17,Dialogue,Menel,0,0,0,,Haideți să dormim acolo astă-seară.
-Dialogue: 100,0:11:12.93,0:11:16.08,Dialogue,Menel,0,0,0,,Vai, chiar v-ați lăsat duși \Nde val. S-a întunecat deja.
-Dialogue: 100,0:11:16.51,0:11:17.66,Dialogue,Will,0,0,0,,Ne pare rău.
-Dialogue: 100,0:11:17.66,0:11:20.20,Dialogue,Bee,0,0,0,,Sunt binedispusă astăzi!
-Dialogue: 100,0:11:20.20,0:11:22.71,Dialogue,Bee,0,0,0,,Vă voi oferi un spectacol gratuit!
-Dialogue: 100,0:11:22.71,0:11:24.42,Dialogue,Menel,0,0,0,,Uau, cât de generos din partea ta.
-Dialogue: 100,0:11:24.42,0:11:27.59,Dialogue,Bee,0,0,0,,Hi-hi! Oare ce ar trebui să cânt?
-Dialogue: 100,0:11:27.59,0:11:31.98,Dialogue,Bee,0,0,0,,{\i1}Reystov Străpungătorul{\i0} e \Nmult prea cunoscută acum...
-Dialogue: 100,0:11:33.05,0:11:36.74,Dialogue,Bee,0,0,0,,Știu! Ce spuneți de epopeea {\i1}Cei trei eroi{\i0} din {\i1}Moartea Marelui Rege{\i0},
-Dialogue: 100,0:11:36.74,0:11:42.01,Dialogue,Bee,0,0,0,,{\i1}Înțeleptul Rătăcitor{\i0}, {\i1}Căpcăunul Războinic{\i0} și {\i1}Iubita Fiică a lui Mater{\i0}?
-Dialogue: 100,0:11:42.01,0:11:43.54,Dialogue,Tonio,0,0,0,,Oh, sună minunat.
-Dialogue: 100,0:11:43.54,0:11:45.16,Dialogue,Menel,0,0,0,,Pare potrivită.
-Dialogue: 100,0:11:46.09,0:11:48.87,Dialogue,Bee,0,0,0,,Bănuiesc că nu am mai \Ncântat-o de ceva timp.
-Dialogue: 100,0:11:48.87,0:11:50.46,Dialogue,Bee,0,0,0,,Hei, ce s-a întâmplat, Will?
-Dialogue: 100,0:11:50.46,0:11:52.50,Dialogue,Will,0,0,0,,Oh, nimic.
-Dialogue: 100,0:11:52.50,0:11:54.55,Dialogue,Will,0,0,0,,Cântă, cântă. Vreau să te ascult.
-Dialogue: 100,0:11:54.55,0:11:57.74,Dialogue,Bee,0,0,0,,Oh, îmi place asta! \NVăd că ideea mea te-a captivat!
-Dialogue: 100,0:11:57.74,0:11:59.75,Dialogue,Bee,0,0,0,,Bun, să începem!
-Dialogue: 100,0:12:00.62,0:12:04.57,Dialogue,Bee,0,0,0,,{\an8}Timpul este trecător... sau nu, poate că noi suntem trecători.
-Dialogue: 100,0:12:04.57,0:12:09.10,Dialogue,Bee,0,0,0,,{\an8}Fie că e vorba de puternicul războinic sau de strălucitorul înțelept sau de femeia sfântă,
-Dialogue: 100,0:12:09.10,0:12:13.91,Dialogue,Bee,0,0,0,,{\an8}odată cu trecerea lunilor, doar cenușa și numele lor au mai rămas.
-Dialogue: 100,0:12:09.19,0:12:11.76,Dialogue,Will,0,0,0,,{\i1}Numele lor chiar au rămas în istorie...
-Dialogue: 100,0:12:14.19,0:12:17.33,Dialogue,Bee,0,0,0,,{\an8}De asta acest cântec trebuie să răsune cât mai departe,
-Dialogue: 100,0:12:17.33,0:12:19.31,Dialogue,Bee,0,0,0,,{\an8}alături de o rugăciune \Nca faptele lor să dănuie
-Dialogue: 100,0:12:19.31,0:12:22.59,Dialogue,Bee,0,0,0,,{\an8}și numele lor eroice să \Nrăsune în întrega lume.
-Dialogue: 100,0:12:22.59,0:12:25.05,Dialogue,Bee,0,0,0,,{\an8}Voi cânta în această seară despre Ucigașul de Dragoni,
-Dialogue: 100,0:12:25.05,0:12:28.74,Dialogue,Bee,0,0,0,,{\an8}una din multele fapte \Neroice ale celor trei eroi.
-Dialogue: 100,0:12:28.96,0:12:32.62,Dialogue,Bee,0,0,0,,{\an8}Vă rog să faceți liniște și \Nsă mă ascultați cu atenție...
-Dialogue: 100,0:12:37.75,0:12:43.12,Dialogue,Bee,0,0,0,,{\an8\i1}Sabia demonică făurită de către stele...
-Dialogue: 100,0:12:43.12,0:12:44.43,Dialogue,Will,0,0,0,,{\i1}Vai, Blood...
-Dialogue: 100,0:12:44.43,0:12:47.21,Dialogue,Will,0,0,0,,{\i1}Nu mi-ai vorbit niciodată despre tine.
-Dialogue: 100,0:12:47.67,0:12:49.58,Dialogue,Will,0,0,0,,{\i1}Deci astfel de lucruri ai făcut în trecut.
-Dialogue: 100,0:12:49.89,0:12:54.88,Dialogue,Bee,0,0,0,,{\an8\i1}Lăsând de o parte orice fel de laudă
-Dialogue: 100,0:12:54.88,0:13:00.56,Dialogue,Bee,0,0,0,,{\an8\i1}Și-a ținut numele său adevărat secret,
-Dialogue: 100,0:13:00.56,0:13:06.81,Dialogue,Bee,0,0,0,,{\an8\i1}Iar noi nu am reușit să-l află nici până azi
-Dialogue: 100,0:13:02.87,0:13:05.99,Dialogue,Will,0,0,0,,{\i1}Deci, bănuiesc că nimeni nu știe numele adevărat al lui Augustus...
-Dialogue: 100,0:13:06.81,0:13:12.41,Dialogue,Bee,0,0,0,,{\an8\i1}Ea era la fel de frumoasă precum prințesa unui ținut îndepărtat
-Dialogue: 100,0:13:12.41,0:13:19.62,Dialogue,Bee,0,0,0,,{\an8\i1}When asked about her lineage,\Nthe healer would just gently smile
-Dialogue: 100,0:13:16.56,0:13:20.80,Dialogue,Will,0,0,0,,{\i1}Mary's refined manner definitely gave \Nthe impression of noble origins,
-Dialogue: 100,0:13:20.80,0:13:23.98,Dialogue,Will,0,0,0,,{\i1}but I'd believe it if someone told me \Nshe came from a poor village, too.
-Dialogue: 100,0:13:26.05,0:13:30.17,Dialogue,Bee,0,0,0,,These days are now long in the past.
-Dialogue: 100,0:13:30.17,0:13:33.40,Dialogue,Bee,0,0,0,,O countless wishes now \Nleft with no way home,
-Dialogue: 100,0:13:33.90,0:13:38.83,Dialogue,Bee,0,0,0,,I can but play your melody loudly, \Nto be carried on the passing winds.
-Dialogue: 100,0:13:39.53,0:13:42.75,Dialogue,Will,0,0,0,,{\i1}The story takes place before \Nthey were known as heroes,
-Dialogue: 100,0:13:42.75,0:13:45.00,Dialogue,Will,0,0,0,,{\i1}when the three of them \Nwere traveling together.
-Dialogue: 100,0:13:45.42,0:13:47.69,Dialogue,Will,0,0,0,,{\i1}A certain remote village that they visited
-Dialogue: 100,0:13:47.69,0:13:50.10,Dialogue,Will,0,0,0,,{\i1}was attacked by a wyvern,
-Dialogue: 100,0:13:50.10,0:13:53.93,Dialogue,Will,0,0,0,,{\i1}and a beautiful half-elf was chosen \Nas a sacrifice to appease it.
-Dialogue: 100,0:13:54.85,0:13:58.07,Dialogue,Will,0,0,0,,{\i1}Upon hearing of this, \NMary said they should save her,
-Dialogue: 100,0:13:58.07,0:14:00.93,Dialogue,Will,0,0,0,,{\i1}but Blood asked where they \Ncould possibly get the money,
-Dialogue: 100,0:14:00.93,0:14:02.75,Dialogue,Will,0,0,0,,{\i1}and Gus said nothing.
-Dialogue: 100,0:14:03.35,0:14:07.11,Dialogue,Will,0,0,0,,{\i1}Their personalities in the \Nsong are a bit off, I think.
-Dialogue: 100,0:14:07.51,0:14:12.96,Dialogue,Will,0,0,0,,{\i1}But still, it brings their voices, words, \Nand expressions clearly to my mind.
-Dialogue: 100,0:14:31.59,0:14:32.94,Dialogue,Mary,0,0,0,,Who are you?
-Dialogue: 100,0:14:35.82,0:14:38.98,Dialogue,Blood,0,0,0,,You think we're gonna take \Non a wyvern for that?
-Dialogue: 100,0:14:44.50,0:14:48.99,Dialogue,Gus,0,0,0,,Ah, what fine money. Look how it shines.
-Dialogue: 100,0:14:48.99,0:14:51.69,Dialogue,Gus,0,0,0,,If we're given such fine payment...
-Dialogue: 100,0:14:51.69,0:14:54.03,Dialogue,Mary,0,0,0,,Then we have no choice but to do the job.
-Dialogue: 100,0:14:54.03,0:14:57.70,Dialogue,Blood,0,0,0,,Damn, you're such pushovers. \NThere's no profit in this.
-Dialogue: 100,0:14:57.70,0:14:59.77,Dialogue,Boy,0,0,0,,If it's not enough, I'll pay more!
-Dialogue: 100,0:14:59.77,0:15:01.91,Dialogue,Boy,0,0,0,,Sell me to a slave trader \Nor whatever you want!
-Dialogue: 100,0:15:01.91,0:15:03.79,Dialogue,Blood,0,0,0,,You think even that would be enough?
-Dialogue: 100,0:15:09.04,0:15:10.93,Dialogue,Blood,0,0,0,,But you do have some guts on ya.
-Dialogue: 100,0:15:10.93,0:15:13.26,Dialogue,Blood,0,0,0,,You're small, but you're a warrior.
-Dialogue: 100,0:15:13.65,0:15:18.71,Dialogue,Blood,0,0,0,,It's only right to help a warrior who \Nswallows his pride to ask for help.
-Dialogue: 100,0:15:19.25,0:15:20.44,Dialogue,Blood,0,0,0,,Let's do it.
-Dialogue: 100,0:15:20.44,0:15:21.50,Dialogue,Mary,0,0,0,,Yes.
-Dialogue: 100,0:15:21.50,0:15:22.35,Dialogue,Gus,0,0,0,,Indeed.
-Dialogue: 100,0:15:30.40,0:15:31.78,Dialogue,Gus,0,0,0,,{\an8}Ligatur!
-Dialogue: 100,0:15:31.78,0:15:32.45,Dialogue,Gus,0,0,0,,{\an8}Nodus!
-Dialogue: 100,0:15:32.45,0:15:33.52,Dialogue,Gus,0,0,0,,{\an8}Obligatio!
-Dialogue: 100,0:16:09.29,0:16:11.66,Dialogue,Blood,0,0,0,,Deci, ce veți face acum?
-Dialogue: 100,0:16:11.66,0:16:14.56,Dialogue,Mary,0,0,0,,Niciunul dintre voi nu mai \Nputeți rămâne în acel sat.
-Dialogue: 100,0:16:14.83,0:16:16.19,Dialogue,Boy,0,0,0,,Ne vom descurca noi cumva.
-Dialogue: 100,0:16:17.03,0:16:18.70,Dialogue,Blood,0,0,0,,Atunci, luați acest pumnal cu voi.
-Dialogue: 100,0:16:18.70,0:16:21.31,Dialogue,Blood,0,0,0,,Bătrânul Gus a gravat Cuvinte pe el.
-Dialogue: 100,0:16:21.31,0:16:23.78,Dialogue,Blood,0,0,0,,Vă va fi mai de folos decât \Nun talisman noroc, ieftin.
-Dialogue: 100,0:16:24.26,0:16:28.25,Dialogue,Blood,0,0,0,,Nu poți fi un războinic dacă nu ai măcar un pumnal cu tine.
-Dialogue: 100,0:16:28.68,0:16:30.38,Dialogue,Mary,0,0,0,,Luați și asta.
-Dialogue: 100,0:16:30.38,0:16:33.71,Dialogue,Mary,0,0,0,,Aveți grijă de voi și unul de celălalt.
-Dialogue: 100,0:16:33.71,0:16:35.87,Dialogue,Mary,0,0,0,,Veți avea de înfruntat multe obstacole,
-Dialogue: 100,0:16:35.87,0:16:38.32,Dialogue,Mary,0,0,0,,dar nu uitați niciodată \Nsemnificația perseverenței.
-Dialogue: 100,0:16:38.32,0:16:40.44,Dialogue,Boy,0,0,0,,Aici sunt mai mulți bani \Ndecât v-am dat noi!
-Dialogue: 100,0:16:40.44,0:16:41.98,Dialogue,Girl,0,0,0,,Nu-i putem accepta.
-Dialogue: 100,0:16:41.98,0:16:44.49,Dialogue,Gus,0,0,0,,Hah! Cine a spus că vi dăm pur și simplu?
-Dialogue: 100,0:16:44.49,0:16:47.56,Dialogue,Gus,0,0,0,,E o investiție. Doar vi împrumutăm.
-Dialogue: 100,0:16:47.56,0:16:48.59,Dialogue,Girl,0,0,0,,Ni împrumutați?
-Dialogue: 100,0:16:48.59,0:16:49.56,Dialogue,Gus,0,0,0,,Ascultați.
-Dialogue: 100,0:16:49.56,0:16:52.10,Dialogue,Gus,0,0,0,,You two must live the best you can,
-Dialogue: 100,0:16:52.10,0:16:54.59,Dialogue,Gus,0,0,0,,build up savings, and make \Nnames for yourselves.
-Dialogue: 100,0:16:54.59,0:16:57.03,Dialogue,Gus,0,0,0,,If your names someday reach our ears,
-Dialogue: 100,0:16:57.03,0:17:01.29,Dialogue,Gus,0,0,0,,we will come to collect what \Nwe've lent you, plus interest.
-Dialogue: 100,0:17:01.29,0:17:05.44,Dialogue,Gus,0,0,0,,In preparation, I will \Ngive you my real name.
-Dialogue: 100,0:17:05.44,0:17:08.73,Dialogue,Gus,0,0,0,,Asta va fi parola noastră. \NAscultați cu atenție.
-Dialogue: 100,0:17:08.73,0:17:12.68,Dialogue,Bee,0,0,0,,Și astfel, băiatul și fata au aflat numele adevărat al Înțeleptului Rătăcitor,
-Dialogue: 100,0:17:12.68,0:17:15.96,Dialogue,Bee,0,0,0,,neștiut de nimeni altcineva.
-Dialogue: 100,0:17:16.18,0:17:20.11,Dialogue,Bee,0,0,0,,Ținându-se de mână, băiatul și fata au pronit spre oraș,
-Dialogue: 100,0:17:20.11,0:17:25.97,Dialogue,Bee,0,0,0,,iar cei trei eroi și-au continuat drumul în căutarea unei noi aventuri.
-Dialogue: 100,0:17:26.43,0:17:28.74,Dialogue,Bee,0,0,0,,Cântecul se termină aici,
-Dialogue: 100,0:17:28.74,0:17:30.89,Dialogue,Bee,0,0,0,,dar povestea continuă.
-Dialogue: 100,0:17:30.89,0:17:33.15,Dialogue,Bee,0,0,0,,Contele Pumnal al Regatului Fertil...
-Dialogue: 100,0:17:33.15,0:17:36.44,Dialogue,Bee,0,0,0,,Adevăratul său nume de familie este Pumnalul Vrăjitorului.
-Dialogue: 100,0:17:36.68,0:17:41.41,Dialogue,Bee,0,0,0,,To this day, an elderly half-elf \Nwoman still waits at his mansion.
-Dialogue: 100,0:17:41.41,0:17:42.66,Dialogue,Will,0,0,0,,{\i1}Asta înseamnă că...
-Dialogue: 100,0:17:42.92,0:17:47.75,Dialogue,Bee,0,0,0,,She believes someone who knows the sage's \Ntrue name will come to her one day,
-Dialogue: 100,0:17:47.75,0:17:50.23,Dialogue,Bee,0,0,0,,so that she can return what he lent to her,
-Dialogue: 100,0:17:50.23,0:17:52.74,Dialogue,Bee,0,0,0,,along with what he lent to her husband.
-Dialogue: 100,0:17:53.08,0:17:57.30,Dialogue,Bee,0,0,0,,She plans to offer her thanks \Nto him when that day comes.
-Dialogue: 100,0:17:57.30,0:17:59.38,Dialogue,Bee,0,0,0,,That's what the story is about...
-Dialogue: 100,0:17:59.38,0:18:03.32,Dialogue,Bee,0,0,0,,A story of three great heroes \Nthat still echoes to this day.
-Dialogue: 100,0:18:03.32,0:18:06.18,Dialogue,Bee,0,0,0,,Ce? Will, plângi?
-Dialogue: 100,0:18:06.18,0:18:09.08,Dialogue,Will,0,0,0,,N-Nu. Nu plâng.
-Dialogue: 100,0:18:09.08,0:18:11.12,Dialogue,Bee,0,0,0,,Oh, haide acum!
-Dialogue: 100,0:18:11.12,0:18:15.00,Dialogue,Bee,0,0,0,,Chiar te impresionat povestea măreței Bee, nu?
-Dialogue: 100,0:18:14.41,0:18:16.80,Dialogue,Will,0,0,0,,{\an8}Nu, nu este așa!
-Dialogue: 100,0:18:16.80,0:18:18.15,Dialogue,Bee,0,0,0,,Haide, nu fi timid!
-Dialogue: 100,0:18:18.68,0:18:23.50,Dialogue,Will,0,0,0,,{\i1}Încă mai sunt mulți oameni care-și amintesc de voi trei.
-Dialogue: 100,0:18:23.84,0:18:25.29,Dialogue,Will,0,0,0,,{\i1}Mereu au făcut-o.
-Dialogue: 100,0:18:25.94,0:18:29.00,Dialogue,Will,0,0,0,,{\i1}Asta mă face foarte fericit.
-Dialogue: 100,0:18:37.25,0:18:39.01,Dialogue,Will,0,0,0,,{\i1}Regatul Fertil, nu?
-Dialogue: 100,0:18:39.33,0:18:43.36,Dialogue,Will,0,0,0,,{\i1}Și după ce vom trece marea, vom mai întâlni oameni care vor vorbi despre Blood și ceilalți.
-Dialogue: 100,0:18:44.88,0:18:45.70,Dialogue,Tonio,0,0,0,,Hei.
-Dialogue: 100,0:18:45.70,0:18:48.76,Dialogue,Tonio,0,0,0,,Văd că te antrenezi din greu.
-Dialogue: 100,0:18:48.76,0:18:49.95,Dialogue,Will,0,0,0,,Tonio.
-Dialogue: 100,0:18:51.02,0:18:53.73,Dialogue,Tonio,0,0,0,,Will, ești puternic.
-Dialogue: 100,0:18:53.73,0:18:55.07,Dialogue,Will,0,0,0,,Chiar crezi asta?
-Dialogue: 100,0:18:55.07,0:18:59.75,Dialogue,Tonio,0,0,0,,Mișcările tale sunt foarte rafinate.
-Dialogue: 100,0:18:59.75,0:19:03.11,Dialogue,Tonio,0,0,0,,Și totuși, nu cred că vrei să auzi asta de la tipul
-Dialogue: 100,0:19:03.11,0:19:05.71,Dialogue,Tonio,0,0,0,,care a fost păcălit de niște persoane care se dădeau drept aventurieri...
-Dialogue: 100,0:19:05.71,0:19:10.28,Dialogue,Tonio,0,0,0,,Dar se vede cu ochiul liber că ești obișnuit să folosești acea lance minunată, făurită de pitici.
-Dialogue: 100,0:19:10.72,0:19:14.34,Dialogue,Tonio,0,0,0,,Toți cei care pot mânui o capodoperă a piticilor, sunt și ei la rândul lor o capodoperă.
-Dialogue: 100,0:19:14.66,0:19:17.58,Dialogue,Tonio,0,0,0,,Dar nu înțeleg un lucru.
-Dialogue: 100,0:19:17.82,0:19:20.21,Dialogue,Will,0,0,0,,Ce anume?
-Dialogue: 100,0:19:20.21,0:19:23.03,Dialogue,Tonio,0,0,0,,Ce anume îți dorești tu?
-Dialogue: 100,0:19:23.03,0:19:25.84,Dialogue,Will,0,0,0,,Ce anume... îmi doresc?
-Dialogue: 100,0:19:25.84,0:19:28.25,Dialogue,Tonio,0,0,0,,Deoarece sunt un negustor.
-Dialogue: 100,0:19:28.25,0:19:33.41,Dialogue,Tonio,0,0,0,,E treaba mea să pun marfa în mișcare și să îndeplinesc dorințele oamenilor
-Dialogue: 100,0:19:33.41,0:19:36.61,Dialogue,Tonio,0,0,0,,în schimbul unei remunerații \Nde aceeași valoare.
-Dialogue: 100,0:19:36.61,0:19:38.79,Dialogue,Tonio,0,0,0,,Tu ești un mister pentru mine.
-Dialogue: 100,0:19:39.13,0:19:42.80,Dialogue,Tonio,0,0,0,,Nu am mai întâlnit pe \Nnimeni ca tine până acum.
-Dialogue: 100,0:19:42.99,0:19:45.50,Dialogue,Tonio,0,0,0,,Ești puternic și curajos.
-Dialogue: 100,0:19:45.50,0:19:47.66,Dialogue,Tonio,0,0,0,,Ești educat, politicos
-Dialogue: 100,0:19:47.66,0:19:49.61,Dialogue,Tonio,0,0,0,,și nu urmărești să scoți bani.
-Dialogue: 100,0:19:50.12,0:19:52.26,Dialogue,Tonio,0,0,0,,Dar nu prea pare să fii de viță nobilă.
-Dialogue: 100,0:19:52.26,0:19:55.96,Dialogue,Tonio,0,0,0,,Semeni mai mult cu cavalerii sfinți despre care auzeam în basme.
-Dialogue: 100,0:19:57.75,0:20:01.50,Dialogue,Tonio,0,0,0,,De asta m-am decis să te întreb direct.
-Dialogue: 100,0:20:01.91,0:20:05.36,Dialogue,Tonio,0,0,0,,Ce îți dorești tu, ca persoană?
-Dialogue: 100,0:20:05.36,0:20:09.90,Dialogue,Tonio,0,0,0,,Sau ești doar un reprezentativ al zeiței tale?
-Dialogue: 100,0:20:10.30,0:20:12.33,Dialogue,Will,0,0,0,,Eu... ei bine...
-Dialogue: 100,0:20:12.86,0:20:16.22,Dialogue,Will,0,0,0,,Am dus o viață obișnuită \Nși fericită până de curând,
-Dialogue: 100,0:20:16.22,0:20:19.05,Dialogue,Will,0,0,0,,dar am pierdut-o înainte să pornesc în călătoria mea.
-Dialogue: 100,0:20:19.64,0:20:22.95,Dialogue,Will,0,0,0,,Am obținut protecția divină a Zeiței Luminii în schimb.
-Dialogue: 100,0:20:24.13,0:20:27.41,Dialogue,Will,0,0,0,,Încă nu știu prea multe despre această lume.
-Dialogue: 100,0:20:27.41,0:20:30.25,Dialogue,Will,0,0,0,,Deci vreau mai întâi să aflu mai multe despre ea.
-Dialogue: 100,0:20:30.25,0:20:32.69,Dialogue,Will,0,0,0,,Cred că, printre lucrurile \Npe care le voi afla,
-Dialogue: 100,0:20:32.69,0:20:35.49,Dialogue,Will,0,0,0,,voi găsi și ceea ce-mi doresc eu să fac.
-Dialogue: 100,0:20:35.93,0:20:40.67,Dialogue,Will,0,0,0,,Oh... și prieteni. \NVreau și prieteni, presupun.
-Dialogue: 100,0:20:40.90,0:20:43.31,Dialogue,Tonio,0,0,0,,Menel nu e prietenul tău?
-Dialogue: 100,0:20:43.31,0:20:44.88,Dialogue,Will,0,0,0,,Păi, legat de asta...
-Dialogue: 100,0:20:44.88,0:20:47.41,Dialogue,Will,0,0,0,,cred că ne înțelegem destul de bine,
-Dialogue: 100,0:20:47.41,0:20:50.51,Dialogue,Will,0,0,0,,dar el nu vrea să mă vada ca prietenul lui.
-Dialogue: 100,0:20:50.90,0:20:55.24,Dialogue,Will,0,0,0,,El îmi tot spune „preot”, \Nde parcă m-ar pune pe un piedestal.
-Dialogue: 100,0:20:55.52,0:20:58.83,Dialogue,Will,0,0,0,,Da... vreau prieteni.
-Dialogue: 100,0:20:59.45,0:21:00.75,Dialogue,Tonio,0,0,0,,Înțeleg.
-Dialogue: 100,0:21:00.75,0:21:04.52,Dialogue,Tonio,0,0,0,,În acest caz, mă voi oferi eu să fiu al treilea.
-Dialogue: 100,0:21:04.52,0:21:05.23,Dialogue,Will,0,0,0,,Ce?
-Dialogue: 100,0:21:05.45,0:21:09.96,Dialogue,Tonio,0,0,0,,Menel și Robina ar fi foarte furioși pe mine dacă aș încerca să fiu înaintea lor.
-Dialogue: 100,0:21:09.96,0:21:11.64,Dialogue,Tonio,0,0,0,,Asta ar fi foarte înfricoșător.
-Dialogue: 100,0:21:14.16,0:21:17.87,Dialogue,Tonio,0,0,0,,Ei bine, ar trebui să aducem niște apă și să începem să preparăm micul dejun?
-Dialogue: 100,0:21:18.17,0:21:18.94,Dialogue,Will,0,0,0,,Da.
-Dialogue: 100,0:21:21.40,0:21:22.71,Dialogue,Tonio,0,0,0,,Poftim.
-Dialogue: 100,0:21:23.76,0:21:24.81,Dialogue,Bee,0,0,0,,E foarte bun!
-Dialogue: 100,0:21:24.81,0:21:27.93,Dialogue,Will,0,0,0,,Chiar este. Ești un bucătar grozav, Tonio.
-Dialogue: 100,0:21:27.93,0:21:29.25,Dialogue,Bee,0,0,0,,Așa este!
-Dialogue: 100,0:21:29.25,0:21:32.63,Dialogue,Bee,0,0,0,,Să fiu sinceră, ăsta e motivul pentru care călătoresc cu el!
-Dialogue: 100,0:21:33.60,0:21:37.13,Dialogue,Will,0,0,0,,Mâncăm mult mai bine acum, mulțumită lui Tonio.
-Dialogue: 100,0:21:37.13,0:21:39.62,Dialogue,Menel,0,0,0,,Da, din moment ce tu nu știi să gătești.
-Dialogue: 100,0:21:39.62,0:21:40.92,Dialogue,Will,0,0,0,,Ei bine...
-Dialogue: 100,0:21:41.51,0:21:44.19,Dialogue,Will,0,0,0,,Nici tu nu ești mai \Nbreaz la gătit, Menel!
-Dialogue: 100,0:21:44.19,0:21:46.07,Dialogue,Menel,0,0,0,,Ce? Tot ce trebuie să faci e s-o mănânci.
-Dialogue: 100,0:21:47.24,0:21:50.20,Dialogue,Tonio,0,0,0,,Și mereu primim pâine \Nde la Will pentru prânz.
-Dialogue: 100,0:21:50.20,0:21:53.55,Dialogue,Bee,0,0,0,,Nu-i așa că e grozav? \NDoar se roagă, iar pâinea apare!
-Dialogue: 100,0:21:53.55,0:21:56.17,Dialogue,Tonio,0,0,0,,Eu prefer să mă opresc \Ncât mai puțin posibil,
-Dialogue: 100,0:21:56.17,0:21:59.05,Dialogue,Tonio,0,0,0,,deci sunt recunoscător că am mâncare pe care o pot mânca în timp ce merg.
-Dialogue: 100,0:21:59.05,0:22:02.23,Dialogue,Menel,0,0,0,,Atunci, haideți să ne pregătim de plecare imediat cum am terminat de mâncat.
-Dialogue: 100,0:22:02.23,0:22:02.89,Dialogue,Will,0,0,0,,Da.
-Dialogue: 100,0:22:03.41,0:22:05.93,Dialogue,Bee,0,0,0,,{\an8}Mă întrebi când ne vom întoarce acasă,
-Dialogue: 100,0:22:05.93,0:22:08.29,Dialogue,Bee,0,0,0,,{\an8}dar ne e imposibil să știm acest lucru.
-Dialogue: 100,0:22:07.38,0:22:10.87,Dialogue,Menel,0,0,0,,Apropo, care e situația \Nacum în Pânzele Albe?
-Dialogue: 100,0:22:08.29,0:22:10.85,Dialogue,Bee,0,0,0,,{\an8}As the rain falls, the water \Nin the lake stagnates,
-Dialogue: 100,0:22:10.85,0:22:12.16,Dialogue,Bee,0,0,0,,{\an8}and the two fall silent.
-Dialogue: 100,0:22:10.87,0:22:13.48,Dialogue,Menel,0,0,0,,M-am ascuns prin Pădurea Bestiilor o vreme.
-Dialogue: 100,0:22:12.16,0:22:16.63,Dialogue,Bee,0,0,0,,{\an8}As the rain pounds, someday, \Nsomeday... ah, someday...
-Dialogue: 100,0:22:13.48,0:22:15.39,Dialogue,Menel,0,0,0,,deci nu am mai fost în port de ceva timp.
-Dialogue: 100,0:22:15.39,0:22:18.48,Dialogue,Tonio,0,0,0,,Un nou conducător a ajuns la conducerea Regatului Fertil.
-Dialogue: 100,0:22:16.63,0:22:19.38,Dialogue,Bee,0,0,0,,{\an8}the two will draw closer together.
-Dialogue: 100,0:22:18.48,0:22:19.89,Dialogue,Menel,0,0,0,,Deci Egbert al II-lea este...
-Dialogue: 100,0:22:19.89,0:22:21.98,Dialogue,Bee,0,0,0,,Numele său post-mortem este „Egbert cel Îndrăzneț”.
-Dialogue: 100,0:22:21.98,0:22:24.36,Dialogue,Bee,0,0,0,,Nu a fost un rege rău deloc.
-Dialogue: 100,0:22:24.36,0:22:27.10,Dialogue,Menel,0,0,0,,Înțeleg... Deci a murit...
-Dialogue: 100,0:22:27.10,0:22:29.31,Dialogue,Tonio,0,0,0,,Da... doar că acum există o mică problemă.
-Dialogue: 100,0:22:29.70,0:22:32.72,Dialogue,Tonio,0,0,0,,His legitimate heir, \NPrince Owen, succeeded him,
-Dialogue: 100,0:22:32.72,0:22:34.42,Dialogue,Tonio,0,0,0,,but he falls short of his father,
-Dialogue: 100,0:22:34.42,0:22:38.46,Dialogue,Tonio,0,0,0,,and the lords have suggested that \Nnow is the time to advance south.
-Dialogue: 100,0:22:38.66,0:22:40.45,Dialogue,Will,0,0,0,,Asta sună destul de rău...
-Dialogue: 100,0:22:40.45,0:22:44.70,Dialogue,Tonio,0,0,0,,Fortunately, this hasn't had any \Ngreat effect on Southmark yet.
-Dialogue: 100,0:22:44.70,0:22:49.72,Dialogue,Tonio,0,0,0,,The king's brother, who was dispatched \Nto Whitesails, is a great, wise man.
-Dialogue: 100,0:22:49.72,0:22:53.32,Dialogue,Tonio,0,0,0,,The crown prince, Ethelbald Rex Fertile.
-Dialogue: 100,0:22:53.32,0:22:55.91,Dialogue,Tonio,0,0,0,,He comes from a different \Nmother than King Owen,
-Dialogue: 100,0:22:55.91,0:22:58.95,Dialogue,Tonio,0,0,0,,but he excels with both the pen \Nand the sword, like his father.
-Dialogue: 100,0:22:59.38,0:23:02.19,Dialogue,Tonio,0,0,0,,It is due to Prince Ethel's rule
-Dialogue: 100,0:23:02.19,0:23:04.84,Dialogue,Tonio,0,0,0,,that the government of \NWhitesails continues to run.
-Dialogue: 100,0:23:05.36,0:23:07.72,Dialogue,Will,0,0,0,,Pare o situație complicată...
-Dialogue: 100,0:23:11.02,0:23:11.65,Dialogue,Bee,0,0,0,,Will!
-Dialogue: 100,0:23:12.09,0:23:13.84,Dialogue,Bee,0,0,0,,Haide, pe aici!
-Dialogue: 100,0:23:12.70,0:23:13.62,Dialogue,Menel,0,0,0,,Ce mai e acum?
-Dialogue: 100,0:23:14.16,0:23:16.15,Dialogue,Bee,0,0,0,,E prima oară când îl vezi, nu?
-Dialogue: 100,0:23:16.41,0:23:17.42,Dialogue,Bee,0,0,0,,Privește, acolo!
-Dialogue: 100,0:23:20.58,0:23:21.50,Dialogue,Will,0,0,0,,{\i1}Orașul...
-Dialogue: 100,0:23:22.61,0:23:28.58,Dialogue,Will,0,0,0,,{\i1}Unul din simbolurile pentru care Blood, Mary și Gus și-au dat viața ca să-l protejeze.
-Dialogue: 100,0:23:29.76,0:23:32.64,Dialogue,Bee,0,0,0,,Acela e orașul Pânzele Albe!
+Dialogue: 99,0:00:02.49,0:00:03.67,Dialogue,Will,0,0,0,,Nu arată prea bine.
+Dialogue: 99,0:00:03.97,0:00:06.29,Dialogue,Villager1,0,0,0,,Au luat toate animalele
+Dialogue: 99,0:00:06.29,0:00:09.30,Dialogue,Villager1,0,0,0,,și au distrus multe unelte \Ncare nu pot fi înlocuite.
+Dialogue: 99,0:00:09.30,0:00:12.47,Dialogue,Villager2,0,0,0,,Va trebui să mergem în Pânzele Albe ca să cumpărăm.
+Dialogue: 99,0:00:12.47,0:00:13.98,Dialogue,Menel,0,0,0,,Cu ce bani?
+Dialogue: 99,0:00:13.98,0:00:16.66,Dialogue,Villager1,0,0,0,,Ei bine, nu vom putea înlocui totul.
+Dialogue: 99,0:00:16.66,0:00:19.59,Dialogue,Will,0,0,0,,Hei... ce sunt Pânzele Albe?
+Dialogue: 99,0:00:20.95,0:00:23.06,Dialogue,Menel,0,0,0,,Serios, cine naiba {\i1}ești{\i0} tu?
+Dialogue: 99,0:00:23.06,0:00:24.81,Dialogue,Menel,0,0,0,,Ai putea fi mai neștiutor de atât?
+Dialogue: 99,0:00:24.81,0:00:26.13,Dialogue,Will,0,0,0,,Scuze.
+Dialogue: 99,0:00:26.13,0:00:29.16,Dialogue,Menel,0,0,0,,Deci... Pânzele Albe este...
+Dialogue: 99,0:00:29.16,0:00:32.18,Dialogue,Will,0,0,0,,Oh, ei bine... dacă mi-ai putea spune mai multe și despre istoria acestui loc...
+Dialogue: 99,0:00:32.18,0:00:34.39,Dialogue,Menel,0,0,0,,Da, bine.
+Dialogue: 99,0:00:34.59,0:00:38.59,Dialogue,Menel,0,0,0,,Știi că acesta e continentul sudic, izolat cunoscut ca Semnul Sudului, nu?
+Dialogue: 99,0:00:38.59,0:00:40.16,Dialogue,Will,0,0,0,,Da, știu asta.
+Dialogue: 99,0:00:40.16,0:00:42.40,Dialogue,Menel,0,0,0,,Deci, cam acum... două sute de ani a fost?
+Dialogue: 99,0:00:42.86,0:00:45.94,Dialogue,Menel,0,0,0,,Semnul Sudului a fost înghițit de o hoardă de demoni.
+Dialogue: 99,0:00:45.94,0:00:49.25,Dialogue,Menel,0,0,0,,Grupul celor o sută de eroi l-a învins pe regele demonilor,
+Dialogue: 99,0:00:49.25,0:00:51.50,Dialogue,Menel,0,0,0,,dar oamenii au abandonat acest continent,
+Dialogue: 99,0:00:51.50,0:00:54.52,Dialogue,Menel,0,0,0,,trecând marea ca să se retragă în Ținutului Ierbii, aflat în nord.
+Dialogue: 99,0:00:54.86,0:00:58.24,Dialogue,Menel,0,0,0,,{\i1}Grupul celor o sută de eroi... Se referă la Blood și prietenii lui.
+Dialogue: 99,0:00:58.24,0:01:02.16,Dialogue,Menel,0,0,0,,De când Regatul Fertil a unificat regiunea sud-vestică a Ținutului Ierbii,
+Dialogue: 99,0:01:02.16,0:01:05.63,Dialogue,Menel,0,0,0,,au cultivat pământurile cu \Nintenția de a le recupera.
+Dialogue: 99,0:01:05.63,0:01:11.68,Dialogue,Menel,0,0,0,,Iar Pânzele Albe e orașul port care a devenit centrul imigrărilor spre nord.
+Dialogue: 99,0:01:11.68,0:01:12.78,Dialogue,Will,0,0,0,,Înțeleg.
+Dialogue: 99,0:01:12.78,0:01:16.12,Dialogue,Menel,0,0,0,,Mulți oameni cu istorie și sperând să devină eroi, merg acolo.
+Dialogue: 99,0:01:16.12,0:01:18.75,Dialogue,Menel,0,0,0,,Și oameni care au avut \Nparte de revelații divine.
+Dialogue: 99,0:01:19.02,0:01:21.75,Dialogue,Menel,0,0,0,,Speri și să aduni mai mulți credincioși în această călătorie, nu?
+Dialogue: 99,0:01:21.75,0:01:26.48,Dialogue,Menel,0,0,0,,Gracefeel obișnuia sa aibă mulți credincioși pe continentul sudic.
+Dialogue: 99,0:01:26.48,0:01:27.93,Dialogue,Will,0,0,0,,Mi-ai putea spune mai multe?
+Dialogue: 99,0:01:27.93,0:01:32.19,Dialogue,Menel,0,0,0,,Cred că adepții ei au fost împrăștiați în timpul Măreței Prăbușiri...
+Dialogue: 99,0:01:32.19,0:01:33.54,Dialogue,Villager1,0,0,0,,Da, așa este.
+Dialogue: 99,0:01:33.54,0:01:38.32,Dialogue,Villager1,0,0,0,,Iar cei care au reușit să scape spre Ținutul Ierbii i-au păstrat numele viu.
+Dialogue: 99,0:01:38.32,0:01:41.70,Dialogue,Villager2,0,0,0,,Dar adepții ei tot au scăzut mult.
+Dialogue: 99,0:01:41.96,0:01:43.78,Dialogue,Will,0,0,0,,{\i1}Demoni și bestii demonice scăpate de sub control,
+Dialogue: 99,0:01:43.78,0:01:45.89,Dialogue,Will,0,0,0,,{\i1}sate care recurg la furturi
+Dialogue: 99,0:01:45.89,0:01:47.89,Dialogue,Will,0,0,0,,{\i1}și credința tot mai mică a oamenilor în zeița mea...
+Dialogue: 99,0:01:47.89,0:01:52.45,Dialogue,Will,0,0,0,,Deci să fac ceva în legătură cu toate astea e misiunea pe care o am de la zeița mea?
+Dialogue: 99,0:01:53.16,0:01:55.83,Dialogue,Menel,0,0,0,,Oricum, de ajuns cu legendele vechi.
+Dialogue: 99,0:01:55.83,0:01:57.68,Dialogue,Will,0,0,0,,Trebuie să repunem satul pe picioare, mai întâi.
+Dialogue: 99,0:01:57.68,0:02:00.07,Dialogue,Menel,0,0,0,,Da, în legătură cu asta...
+Dialogue: 99,0:02:00.07,0:02:02.48,Dialogue,Menel,0,0,0,,Oamenii acestui sat nu au niciun ban.
+Dialogue: 99,0:02:02.48,0:02:05.04,Dialogue,Will,0,0,0,,Menel, vrei să explorăm niște ruine?
+Dialogue: 99,0:02:05.04,0:02:06.52,Dialogue,Will,0,0,0,,Vom împărți tot ce găsim în mod egal.
+Dialogue: 99,0:02:07.09,0:02:08.10,Dialogue,Menel,0,0,0,,Ce?
+Dialogue: 99,0:03:39.58,0:03:42.98,Dialogue,Menel,0,0,0,,Nu aș fi ghicit niciodată că ești bun la cotrobăit prin ruine!
+Dialogue: 99,0:03:42.98,0:03:44.27,Dialogue,Will,0,0,0,,Sunt obișnuit cu ele.
+Dialogue: 99,0:03:44.27,0:03:46.36,Dialogue,Menel,0,0,0,,Serios, cine naiba {\i1}ești{\i0} tu?
+Dialogue: 99,0:03:46.36,0:03:49.57,Dialogue,Menel,0,0,0,,Totuși, am reușit să facem rost de destui bani ca să reconstruim satul.
+Dialogue: 99,0:03:49.57,0:03:51.66,Dialogue,Menel,0,0,0,,Putem chiar să cumpărăm alte animale și unelte noi.
+Dialogue: 99,0:03:51.66,0:03:54.41,Dialogue,Will,0,0,0,,Și eu mi-am recuperat toate cheltuielile.
+Dialogue: 99,0:03:54.41,0:03:56.20,Dialogue,Will,0,0,0,,Abia asțept să mergem în oraș.
+Dialogue: 99,0:03:56.20,0:03:58.63,Dialogue,Menel,0,0,0,,Când vom ajunge, primul lucru pe care-l vom face va fi să mâncăm.
+Dialogue: 99,0:03:58.63,0:04:00.42,Dialogue,Menel,0,0,0,,Fructele de mare din această perioadă sunt...
+Dialogue: 99,0:04:01.11,0:04:02.04,Dialogue,Tonio,0,0,0,,Cineva!
+Dialogue: 99,0:04:02.04,0:04:03.56,Dialogue,Tonio,0,0,0,,Ajutor!
+Dialogue: 99,0:04:06.60,0:04:07.75,Dialogue,Will,0,0,0,,O maimuță uriașă!
+Dialogue: 99,0:04:08.09,0:04:10.13,Dialogue,Bee,0,0,0,,{\an8}Hei! Ce tot faci?!
+Dialogue: 99,0:04:09.59,0:04:12.82,Dialogue,Menel,0,0,0,,Cei doi care fug de chestia aia sunt un pitic.... și un negustor ambulant?
+Dialogue: 99,0:04:11.09,0:04:13.28,Dialogue,Bee,0,0,0,,{\an8}Aruncă aia odată!
+Dialogue: 99,0:04:13.28,0:04:14.13,Dialogue,Tonio,0,0,0,,Dar...
+Dialogue: 99,0:04:14.13,0:04:15.93,Dialogue,Bee,0,0,0,,Nici să nu te aud!
+Dialogue: 99,0:04:15.93,0:04:17.81,Dialogue,Bee,0,0,0,,Vai, Doamne! Aici, arătate!
+Dialogue: 99,0:04:23.78,0:04:25.01,Dialogue,Bee,0,0,0,,Vino aici!
+Dialogue: 99,0:04:25.01,0:04:25.54,Dialogue,Bee,0,0,0,,Ce?
+Dialogue: 99,0:04:27.85,0:04:28.61,Dialogue,Bee,0,0,0,,Cine ești?
+Dialogue: 99,0:04:29.29,0:04:30.73,Dialogue,Bee,0,0,0,,Stai, e periculos!
+Dialogue: 99,0:04:31.46,0:04:33.04,Dialogue,Will,0,0,0,,{\i1}Blood mi-a spus că
+Dialogue: 99,0:04:33.04,0:04:36.28,Dialogue,Will,0,0,0,,{\i1}atunci când înfrunți un animal sălbatic, \Nai pierdut imediat cum ai rupt contactul vizual.
+Dialogue: 99,0:04:38.29,0:04:40.73,Dialogue,Will,0,0,0,,{\i1}Ei bine, haide, atacă-mă.
+Dialogue: 99,0:04:40.73,0:04:42.50,Dialogue,Will,0,0,0,,{\i1}Ne putem tăvăli puțin.
+Dialogue: 99,0:05:01.15,0:05:04.04,Dialogue,Will,0,0,0,,Ce ușurare. Nu a trebuit să mă lupt cu ea.
+Dialogue: 99,0:05:04.41,0:05:05.42,Dialogue,Will,0,0,0,,Ești bine?
+Dialogue: 99,0:05:05.42,0:05:08.07,Dialogue,Bee,0,0,0,,Hei, cine naiba ești tu?! \NUn aventurier?!
+Dialogue: 99,0:05:08.07,0:05:11.71,Dialogue,Bee,0,0,0,,Nu mulți oameni pot opri o maimuță uriașă, agitată doar uitându-se la ea!
+Dialogue: 99,0:05:11.71,0:05:13.31,Dialogue,Bee,0,0,0,,Ești incredibil! Incredibil!
+Dialogue: 99,0:05:13.31,0:05:16.07,Dialogue,Bee,0,0,0,,Oh! Numele meu e Robina! \NRobina Om-bun!
+Dialogue: 99,0:05:16.07,0:05:19.62,Dialogue,Bee,0,0,0,,Sunt un trubadur! Cânt, dansez și merg oriunde mă poartă vântul!
+Dialogue: 99,0:05:19.62,0:05:21.08,Dialogue,Bee,0,0,0,,Îmi poți spune Bee!
+Dialogue: 99,0:05:21.08,0:05:23.84,Dialogue,Bee,0,0,0,,Iar ciudatul de acolo e negustorul ambulant Antonio.
+Dialogue: 99,0:05:23.84,0:05:25.36,Dialogue,Bee,0,0,0,,Eu îi spun Tonio!
+Dialogue: 99,0:05:25.36,0:05:27.11,Dialogue,Bee,0,0,0,,Compania pentru care lucra a dat faliment,
+Dialogue: 99,0:05:27.11,0:05:30.41,Dialogue,Bee,0,0,0,,deci acum se dă drept negustor ambulant pe drumurile de țară mai izolate!
+Dialogue: 99,0:05:31.70,0:05:34.62,Dialogue,Tonio,0,0,0,,Nici măcar nu am avut ocazia să spun ceva.
+Dialogue: 99,0:05:34.62,0:05:38.09,Dialogue,Tonio,0,0,0,,Mă întorc în Pânzele Albe, \Nlocul unde-mi fac veacul.
+Dialogue: 99,0:05:38.34,0:05:39.82,Dialogue,Will,0,0,0,,Pânzele Albe?
+Dialogue: 99,0:05:39.82,0:05:41.97,Dialogue,Tonio,0,0,0,,Vai, chiar ne-ai salvat pieile acolo.
+Dialogue: 99,0:05:41.97,0:05:44.02,Dialogue,Tonio,0,0,0,,Îți mulțumim.
+Dialogue: 99,0:05:44.02,0:05:47.30,Dialogue,Menel,0,0,0,,Eu sunt Meneldor. Vânez prin zonă.
+Dialogue: 99,0:05:47.30,0:05:49.93,Dialogue,Menel,0,0,0,,Noi doar mergeam în oraș ca \Nsă facem niște cumpărături.
+Dialogue: 99,0:05:49.93,0:05:51.17,Dialogue,Will,0,0,0,,Iar acela este...
+Dialogue: 99,0:05:51.17,0:05:54.47,Dialogue,Will,0,0,0,,William. William G. Maryblood.
+Dialogue: 99,0:05:54.47,0:05:58.27,Dialogue,Will,0,0,0,,Sunt un preot în serviciul Zeiței Luminii, Gracefeel.
+Dialogue: 99,0:05:58.27,0:05:59.62,Dialogue,Will,0,0,0,,Îmi puteți spune Will.
+Dialogue: 99,0:05:59.62,0:06:01.83,Dialogue,Bee,0,0,0,,Uau, ce nume aristrocratic ai!
+Dialogue: 99,0:06:01.83,0:06:04.69,Dialogue,Bee,0,0,0,,Iar Gracefeel e zeița adorată pe continentul sudic, nu-i așa?
+Dialogue: 99,0:06:04.69,0:06:07.89,Dialogue,Bee,0,0,0,,Uau, uau! Nu știam că încă mai are preoți!
+Dialogue: 99,0:06:07.89,0:06:09.89,Dialogue,Bee,0,0,0,,Și nu ești un simplu preot, \Nci un preot războinic capabil, nu?
+Dialogue: 99,0:06:09.89,0:06:11.37,Dialogue,Bee,0,0,0,,Am dreptate?! Am dreptate?!
+Dialogue: 99,0:06:11.37,0:06:15.83,Dialogue,Menel,0,0,0,,Da, poate pare puțin aerian, \Ndar e prostesc de puternic.
+Dialogue: 99,0:06:15.83,0:06:19.26,Dialogue,Menel,0,0,0,,Adică, nu prea mă atacă \Nnicio bestie când sunt cu el.
+Dialogue: 99,0:06:19.26,0:06:22.69,Dialogue,Bee,0,0,0,,Vrei să spui că bestiile știu cât e de puternic și îl evită?!
+Dialogue: 99,0:06:22.69,0:06:24.19,Dialogue,Bee,0,0,0,,Ce naiba?! Asta e așa de tare!
+Dialogue: 99,0:06:24.33,0:06:26.80,Dialogue,Will,0,0,0,,Ce? Ar fi trebuit să vedem mai multe bestii?
+Dialogue: 99,0:06:26.80,0:06:28.23,Dialogue,Tonio,0,0,0,,Desigur.
+Dialogue: 99,0:06:28.23,0:06:30.12,Dialogue,Tonio,0,0,0,,De asta acest loc e numit Pădurea Bestiilor.
+Dialogue: 99,0:06:30.94,0:06:33.08,Dialogue,Will,0,0,0,,{\i1}Mă simt de parcă privirile lor încearcă să mă străpungă.
+Dialogue: 99,0:06:33.08,0:06:35.28,Dialogue,Menel,0,0,0,,Oricum, sunteți doar voi doi?
+Dialogue: 99,0:06:35.28,0:06:37.00,Dialogue,Menel,0,0,0,,Nu aveți o gardă de corp? \NSau a fost omorâtă?
+Dialogue: 99,0:06:37.00,0:06:41.21,Dialogue,Tonio,0,0,0,,De fapt, când am dat peste maimuța uriașă de mai devreme...
+Dialogue: 99,0:06:41.21,0:06:43.51,Dialogue,Tonio,0,0,0,,Mi-e cam rușine să recunosc, dar au fugit.
+Dialogue: 99,0:06:45.44,0:06:48.96,Dialogue,Menel,0,0,0,,Niște tipi v-au păcălit să-i plătiți în avans pentru protecție, iar apoi, au dat bir cu fugiții?
+Dialogue: 99,0:06:48.96,0:06:52.61,Dialogue,Menel,0,0,0,,Ai trebui să fii mai atent, \Nnegustorule ambulant.
+Dialogue: 99,0:06:52.61,0:06:53.88,Dialogue,Tonio,0,0,0,,Chiar îmi doresc să intru în pământ...
+Dialogue: 99,0:06:53.88,0:06:57.77,Dialogue,Bee,0,0,0,,Și au făcut multă zarvă când au fugit! A fost haos total!
+Dialogue: 99,0:06:57.77,0:07:01.40,Dialogue,Bee,0,0,0,,De regulă, maimuțele uriașe nu atacă oamenii. {\i1}Sunt{\i0} doar înfricoșătoare!
+Dialogue: 99,0:07:01.40,0:07:04.10,Dialogue,Will,0,0,0,,{\i1}Amândoi și-au pierdut gărzile de corp?
+Dialogue: 99,0:07:04.10,0:07:05.99,Dialogue,Will,0,0,0,,Ce veți face acum?
+Dialogue: 99,0:07:05.99,0:07:08.93,Dialogue,Menel,0,0,0,,V-am putea lua cu noi, dacă doriți.
+Dialogue: 99,0:07:08.93,0:07:10.82,Dialogue,Menel,0,0,0,,Să zicem că ne veți rămâne datori.
+Dialogue: 99,0:07:11.07,0:07:12.70,Dialogue,Menel,0,0,0,,Mă voi ocupa eu de negocieri.
+Dialogue: 99,0:07:14.72,0:07:17.07,Dialogue,Tonio,0,0,0,,Să vă rămânem datori? Cu ce anume?
+Dialogue: 99,0:07:17.34,0:07:20.59,Dialogue,Menel,0,0,0,,Vrem să cumpărăm niște vaci, cai și lucruri de acest gen din Pânzele Albe.
+Dialogue: 99,0:07:20.59,0:07:22.21,Dialogue,Tonio,0,0,0,,Oh, înțeleg.
+Dialogue: 99,0:07:22.21,0:07:25.00,Dialogue,Tonio,0,0,0,,Dacă asta vreți, atunci, \Nvoi fi bucuros să vă ajut.
+Dialogue: 99,0:07:25.00,0:07:27.84,Dialogue,Tonio,0,0,0,,Vă voi prezenta unui \Nvânzător pe care-l cunosc.
+Dialogue: 99,0:07:27.84,0:07:31.17,Dialogue,Menel,0,0,0,,Apreciem. Și scuze că m-am băgat astfel.
+Dialogue: 99,0:07:31.17,0:07:33.88,Dialogue,Menel,0,0,0,,Vezi tu, el nu prea știe multe despre cum funcționează lumea.
+Dialogue: 99,0:07:33.88,0:07:36.75,Dialogue,Bee,0,0,0,,Oh, deci chiar e de viță nobilă?
+Dialogue: 99,0:07:36.75,0:07:40.59,Dialogue,Bee,0,0,0,,Oferă această senzație! Că e pur și neprihănit!
+Dialogue: 99,0:07:40.59,0:07:41.78,Dialogue,Will,0,0,0,,N-Nu chiar...
+Dialogue: 99,0:07:41.78,0:07:45.97,Dialogue,Will,0,0,0,,Chiar dacă ți-aș spune despre originile mele, mă îndoiesc că m-ai crede...
+Dialogue: 99,0:07:45.97,0:07:49.74,Dialogue,Bee,0,0,0,,Vrei să spui că vița ta e atât de nobilă încât nu poți vorbi despre familita ta?!
+Dialogue: 99,0:07:49.74,0:07:52.07,Dialogue,Bee,0,0,0,,Să nu mai sunt și că ești preot al unei zeițe uitate!
+Dialogue: 99,0:07:52.07,0:07:54.01,Dialogue,Bee,0,0,0,,Uau, fantastic! Incredibil!
+Dialogue: 99,0:07:54.01,0:07:56.96,Dialogue,Bee,0,0,0,,Simt cum inspirația mă cuprinde!
+Dialogue: 99,0:07:57.18,0:07:58.91,Dialogue,Will,0,0,0,,B-Bine...
+Dialogue: 99,0:07:58.91,0:08:02.75,Dialogue,Will,0,0,0,,{\i1}Stai... Tot ce spun e înțeles greșit...
+Dialogue: 99,0:08:02.75,0:08:03.70,Dialogue,Will,0,0,0,,{\i1}Ce?
+Dialogue: 99,0:08:03.70,0:08:06.23,Dialogue,Menel,0,0,0,,Bun, deci ne-am înțeles. Să pornim.
+Dialogue: 99,0:08:06.23,0:08:08.56,Dialogue,Bee,0,0,0,,Da! Haideți să mergem!
+Dialogue: 99,0:08:16.27,0:08:18.64,Dialogue,Bee,0,0,0,,{\an8}Oh, locul ăsta e perfect!
+Dialogue: 99,0:08:18.64,0:08:21.88,Dialogue,Bee,0,0,0,,{\an8}Zum-zum! Și am ajuns!
+Dialogue: 99,0:08:21.24,0:08:23.95,Dialogue,Will,0,0,0,,{\i1}M-am împrietenit destul \Nde repede cu Bee și Tonio.
+Dialogue: 99,0:08:24.22,0:08:28.02,Dialogue,Will,0,0,0,,{\i1}Tonio are o fire blândă și \Nse apropie ușor de ceilalți.
+Dialogue: 99,0:08:28.02,0:08:32.10,Dialogue,Will,0,0,0,,{\i1}Iar Bee nu pare să aibă niciun concept despre distanța dintre oameni.
+Dialogue: 99,0:08:32.37,0:08:36.34,Dialogue,Bee,0,0,0,,Bun, bănuiesc că a venit \Nmomentul să vă cânt ceva!
+Dialogue: 99,0:08:36.34,0:08:39.65,Dialogue,Bee,0,0,0,,Will, bate din palme pe ritmul muzicii și strânge donațiile!
+Dialogue: 99,0:08:39.65,0:08:41.79,Dialogue,Will,0,0,0,,Sigur. Te poți baza pe mine, Bee.
+Dialogue: 99,0:08:49.90,0:08:57.32,Dialogue,Bee,0,0,0,,{\an8\i1}Ascultați aceste vorbe de aur...
+Dialogue: 99,0:08:55.79,0:08:57.19,Dialogue,Will,0,0,0,,E uimitoare.
+Dialogue: 99,0:08:57.19,0:09:00.12,Dialogue,Will,0,0,0,,Prin toate satele prin care trecem, \Nea se dezlănțuie și îi atrage pe toți la ea.
+Dialogue: 99,0:09:00.12,0:09:03.16,Dialogue,Menel,0,0,0,,Mereu e așa. Sunt impresionat că nu obosește niciodată.
+Dialogue: 99,0:09:03.16,0:09:04.26,Dialogue,Tonio BG,0,0,0,,{\an8}Înțeleg.
+Dialogue: 99,0:09:04.48,0:09:08.70,Dialogue,Tonio BG,0,0,0,,{\an8}Atunci, aceste obiecte ar trebui să vă satisfacă nevoile.
+Dialogue: 99,0:09:05.45,0:09:08.03,Dialogue,Menel,0,0,0,,Fac combinația perfectă pentru afaceri.
+Dialogue: 99,0:09:08.03,0:09:08.69,Dialogue,Will,0,0,0,,Ce?
+Dialogue: 99,0:09:08.69,0:09:13.48,Dialogue,Menel,0,0,0,,Mulți negustori recurg la tactici de păcălire sau chiar la furturi jalnice.
+Dialogue: 99,0:09:09.58,0:09:11.60,Dialogue,Tonio BG,0,0,0,,{\an8}S-a lovit?
+Dialogue: 99,0:09:11.60,0:09:14.43,Dialogue,Tonio BG,0,0,0,,{\an8}Să vedem dacă-l pot convinge pe preot să arunce o privire.
+Dialogue: 99,0:09:13.48,0:09:14.85,Dialogue,Will,0,0,0,,Înțeleg...
+Dialogue: 99,0:09:14.85,0:09:17.68,Dialogue,Menel,0,0,0,,Se pare că nu mințea cu faptul că lucrase la o companie.
+Dialogue: 99,0:09:17.68,0:09:18.68,Dialogue,Tonio,0,0,0,,Hei, Will...
+Dialogue: 99,0:09:18.90,0:09:21.50,Dialogue,Tonio,0,0,0,,vreau să te întreb ceva.
+Dialogue: 99,0:09:21.50,0:09:22.57,Dialogue,Will,0,0,0,,Ce este?
+Dialogue: 99,0:09:23.05,0:09:28.07,Dialogue,Tonio,0,0,0,,Binecuvântarea ta poate vindeca boli și răni?
+Dialogue: 99,0:09:28.07,0:09:29.42,Dialogue,Will,0,0,0,,Da.
+Dialogue: 99,0:09:29.42,0:09:32.25,Dialogue,Tonio,0,0,0,,Înțeleg. Atunci, am o propunere pentru tine.
+Dialogue: 99,0:09:33.88,0:09:35.42,Dialogue,Will,0,0,0,,Zeiță a Luminii...
+Dialogue: 99,0:09:36.73,0:09:38.62,Dialogue,Will,0,0,0,,Rana a dispărut acum.
+Dialogue: 99,0:09:39.80,0:09:43.14,Dialogue,Mom,0,0,0,,E-Ei bine... Cât îți datorez?
+Dialogue: 99,0:09:43.41,0:09:45.18,Dialogue,Will,0,0,0,,Oh, nu vă faceți griji în legătură cu asta.
+Dialogue: 99,0:09:45.18,0:09:47.51,Dialogue,Will,0,0,0,,Vă puteți arăta recunoștința \Nfață de zeița Gracefeel.
+Dialogue: 99,0:09:47.51,0:09:51.43,Dialogue,Will,0,0,0,,Și dacă Tonio are ceva ce vă face, \Nvă rog să cumpărați acel lucru de la el.
+Dialogue: 99,0:09:51.43,0:09:54.06,Dialogue,Will,0,0,0,,Eu încă sunt în pregătire.
+Dialogue: 99,0:09:54.95,0:09:57.37,Dialogue,Mom,0,0,0,,Am înțeles! Îți mulțumesc foarte mult!
+Dialogue: 99,0:09:57.74,0:10:00.29,Dialogue,Mom,0,0,0,,Îți voi lua ceva ca să \Nsărbătorim vindecarea rănii.
+Dialogue: 99,0:10:00.29,0:10:02.27,Dialogue,Tonio,0,0,0,,Ce spuneți de un accesoriu de păr?
+Dialogue: 99,0:10:03.18,0:10:08.22,Dialogue,Menel,0,0,0,,Deci, Bee atrage oameni, Will îi vindecă, și amândoi îl ajută cu afacerea sa.
+Dialogue: 99,0:10:08.22,0:10:10.60,Dialogue,Menel,0,0,0,,Tonio e destul de deștept.
+Dialogue: 99,0:10:10.60,0:10:14.13,Dialogue,Will,0,0,0,,Da. Și ne va ajuta să s-o vestim din nou pe Zeița Luminii.
+Dialogue: 99,0:10:14.13,0:10:16.60,Dialogue,Menel,0,0,0,,Totuși, puterea ta e \Ndestul de impresionantă.
+Dialogue: 99,0:10:16.60,0:10:21.31,Dialogue,Will,0,0,0,,Ei bine, binecuvântarea mea e o rescriere a realității prin puterea zeiței mele.
+Dialogue: 99,0:10:21.31,0:10:24.56,Dialogue,Will,0,0,0,,De asta poate vindeca o rană de parcă ea nu ar fi existat niciodată.
+Dialogue: 99,0:10:24.56,0:10:25.68,Dialogue,Menel,0,0,0,,Hm...
+Dialogue: 99,0:10:25.68,0:10:28.64,Dialogue,Will,0,0,0,,Împrumut această \Nputere de la zeița mea.
+Dialogue: 99,0:10:28.64,0:10:32.00,Dialogue,Will,0,0,0,,Trebuie să am grijă să n-o consider ca fiind puterea mea.
+Dialogue: 99,0:10:32.71,0:10:33.85,Dialogue,Will,0,0,0,,C-Ce?
+Dialogue: 99,0:10:34.48,0:10:36.36,Dialogue,Menel,0,0,0,,Încă în pregătire, nu?
+Dialogue: 99,0:10:36.36,0:10:39.18,Dialogue,Will,0,0,0,,Ei bine... Chiar încă sunt în pregătire.
+Dialogue: 99,0:10:39.18,0:10:40.15,Dialogue,Bee,0,0,0,,Will!
+Dialogue: 99,0:10:40.15,0:10:41.60,Dialogue,Bee,0,0,0,,Ai terminat cu vindecările gratuite?
+Dialogue: 99,0:10:41.60,0:10:42.72,Dialogue,Will,0,0,0,,O, da.
+Dialogue: 99,0:10:42.72,0:10:44.12,Dialogue,Bee,0,0,0,,Atunci, vino cu mine!
+Dialogue: 99,0:10:44.12,0:10:44.77,Dialogue,Will,0,0,0,,Ce? De ce?
+Dialogue: 99,0:10:44.77,0:10:47.45,Dialogue,Bee,0,0,0,,Se dă o petrecere ca să sărbătorim vindecarea tuturor!
+Dialogue: 99,0:10:47.45,0:10:48.33,Dialogue,Will,0,0,0,,Chiar acum?!
+Dialogue: 99,0:10:48.33,0:10:50.68,Dialogue,Menel,0,0,0,,Dacă dau o petrecere, \Nea poate cânta,
+Dialogue: 99,0:10:50.68,0:10:52.98,Dialogue,Menel,0,0,0,,iar el poate vinde mai multe bunuri.
+Dialogue: 99,0:10:52.98,0:10:54.87,Dialogue,Menel,0,0,0,,Chiar e un negustor bun.
+Dialogue: 99,0:10:57.95,0:11:02.22,Dialogue,Will,0,0,0,,{\i1}Am continuat să mai trecem prin câteva sate și să facem bani astfel,
+Dialogue: 99,0:11:02.22,0:11:04.34,Dialogue,Will,0,0,0,,{\i1}în călătoria noastră de \Ncâteva săptămâni spre nord.
+Dialogue: 99,0:11:04.34,0:11:06.00,Dialogue,Will,0,0,0,,{\i1}Iar apoi, am ajuns pe Drumul Grâului.
+Dialogue: 99,0:11:09.12,0:11:11.17,Dialogue,Menel,0,0,0,,Haideți să dormim acolo astă-seară.
+Dialogue: 99,0:11:12.93,0:11:16.08,Dialogue,Menel,0,0,0,,Vai, chiar v-ați lăsat duși \Nde val. S-a întunecat deja.
+Dialogue: 99,0:11:16.51,0:11:17.66,Dialogue,Will,0,0,0,,Ne pare rău.
+Dialogue: 99,0:11:17.66,0:11:20.20,Dialogue,Bee,0,0,0,,Sunt binedispusă astăzi!
+Dialogue: 99,0:11:20.20,0:11:22.71,Dialogue,Bee,0,0,0,,Vă voi oferi un spectacol gratuit!
+Dialogue: 99,0:11:22.71,0:11:24.42,Dialogue,Menel,0,0,0,,Uau, cât de generos din partea ta.
+Dialogue: 99,0:11:24.42,0:11:27.59,Dialogue,Bee,0,0,0,,Hi-hi! Oare ce ar trebui să cânt?
+Dialogue: 99,0:11:27.59,0:11:31.98,Dialogue,Bee,0,0,0,,{\i1}Reystov Străpungătorul{\i0} e \Nmult prea cunoscută acum...
+Dialogue: 99,0:11:33.05,0:11:36.74,Dialogue,Bee,0,0,0,,Știu! Ce spuneți de epopeea {\i1}Cei trei eroi{\i0} din {\i1}Moartea Marelui Rege{\i0},
+Dialogue: 99,0:11:36.74,0:11:42.01,Dialogue,Bee,0,0,0,,{\i1}Înțeleptul Rătăcitor{\i0}, {\i1}Căpcăunul Războinic{\i0} și {\i1}Iubita Fiică a lui Mater{\i0}?
+Dialogue: 99,0:11:42.01,0:11:43.54,Dialogue,Tonio,0,0,0,,Oh, sună minunat.
+Dialogue: 99,0:11:43.54,0:11:45.16,Dialogue,Menel,0,0,0,,Pare potrivită.
+Dialogue: 99,0:11:46.09,0:11:48.87,Dialogue,Bee,0,0,0,,Bănuiesc că nu am mai \Ncântat-o de ceva timp.
+Dialogue: 99,0:11:48.87,0:11:50.46,Dialogue,Bee,0,0,0,,Hei, ce s-a întâmplat, Will?
+Dialogue: 99,0:11:50.46,0:11:52.50,Dialogue,Will,0,0,0,,Oh, nimic.
+Dialogue: 99,0:11:52.50,0:11:54.55,Dialogue,Will,0,0,0,,Cântă, cântă. Vreau să te ascult.
+Dialogue: 99,0:11:54.55,0:11:57.74,Dialogue,Bee,0,0,0,,Oh, îmi place asta! \NVăd că ideea mea te-a captivat!
+Dialogue: 99,0:11:57.74,0:11:59.75,Dialogue,Bee,0,0,0,,Bun, să începem!
+Dialogue: 99,0:12:00.62,0:12:04.57,Dialogue,Bee,0,0,0,,{\an8}Timpul este trecător... sau nu, poate că noi suntem trecători.
+Dialogue: 99,0:12:04.57,0:12:09.10,Dialogue,Bee,0,0,0,,{\an8}Fie că e vorba de puternicul războinic sau de strălucitorul înțelept sau de femeia sfântă,
+Dialogue: 99,0:12:09.10,0:12:13.91,Dialogue,Bee,0,0,0,,{\an8}odată cu trecerea lunilor, doar cenușa și numele lor au mai rămas.
+Dialogue: 99,0:12:09.19,0:12:11.76,Dialogue,Will,0,0,0,,{\i1}Numele lor chiar au rămas în istorie...
+Dialogue: 99,0:12:14.19,0:12:17.33,Dialogue,Bee,0,0,0,,{\an8}De asta acest cântec trebuie să răsune cât mai departe,
+Dialogue: 99,0:12:17.33,0:12:19.31,Dialogue,Bee,0,0,0,,{\an8}alături de o rugăciune \Nca faptele lor să dănuie
+Dialogue: 99,0:12:19.31,0:12:22.59,Dialogue,Bee,0,0,0,,{\an8}și numele lor eroice să \Nrăsune în întrega lume.
+Dialogue: 99,0:12:22.59,0:12:25.05,Dialogue,Bee,0,0,0,,{\an8}Voi cânta în această seară despre Ucigașul de Dragoni,
+Dialogue: 99,0:12:25.05,0:12:28.74,Dialogue,Bee,0,0,0,,{\an8}una din multele fapte \Neroice ale celor trei eroi.
+Dialogue: 99,0:12:28.96,0:12:32.62,Dialogue,Bee,0,0,0,,{\an8}Vă rog să faceți liniște și \Nsă mă ascultați cu atenție...
+Dialogue: 99,0:12:37.75,0:12:43.12,Dialogue,Bee,0,0,0,,{\an8\i1}Sabia demonică făurită de către stele...
+Dialogue: 99,0:12:43.12,0:12:44.43,Dialogue,Will,0,0,0,,{\i1}Vai, Blood...
+Dialogue: 99,0:12:44.43,0:12:47.21,Dialogue,Will,0,0,0,,{\i1}Nu mi-ai vorbit niciodată despre tine.
+Dialogue: 99,0:12:47.67,0:12:49.58,Dialogue,Will,0,0,0,,{\i1}Deci astfel de lucruri ai făcut în trecut.
+Dialogue: 99,0:12:49.89,0:12:54.88,Dialogue,Bee,0,0,0,,{\an8\i1}Lăsând de o parte orice fel de laudă
+Dialogue: 99,0:12:54.88,0:13:00.56,Dialogue,Bee,0,0,0,,{\an8\i1}Și-a ținut numele său adevărat secret,
+Dialogue: 99,0:13:00.56,0:13:06.81,Dialogue,Bee,0,0,0,,{\an8\i1}Iar noi nu am reușit să-l află nici până azi
+Dialogue: 99,0:13:02.87,0:13:05.99,Dialogue,Will,0,0,0,,{\i1}Deci, bănuiesc că nimeni nu știe numele adevărat al lui Augustus...
+Dialogue: 99,0:13:06.81,0:13:12.41,Dialogue,Bee,0,0,0,,{\an8\i1}Ea era la fel de frumoasă precum prințesa unui ținut îndepărtat
+Dialogue: 99,0:13:12.41,0:13:19.62,Dialogue,Bee,0,0,0,,{\an8\i1}When asked about her lineage,\Nthe healer would just gently smile
+Dialogue: 99,0:13:16.56,0:13:20.80,Dialogue,Will,0,0,0,,{\i1}Mary's refined manner definitely gave \Nthe impression of noble origins,
+Dialogue: 99,0:13:20.80,0:13:23.98,Dialogue,Will,0,0,0,,{\i1}but I'd believe it if someone told me \Nshe came from a poor village, too.
+Dialogue: 99,0:13:26.05,0:13:30.17,Dialogue,Bee,0,0,0,,These days are now long in the past.
+Dialogue: 99,0:13:30.17,0:13:33.40,Dialogue,Bee,0,0,0,,O countless wishes now \Nleft with no way home,
+Dialogue: 99,0:13:33.90,0:13:38.83,Dialogue,Bee,0,0,0,,I can but play your melody loudly, \Nto be carried on the passing winds.
+Dialogue: 99,0:13:39.53,0:13:42.75,Dialogue,Will,0,0,0,,{\i1}The story takes place before \Nthey were known as heroes,
+Dialogue: 99,0:13:42.75,0:13:45.00,Dialogue,Will,0,0,0,,{\i1}when the three of them \Nwere traveling together.
+Dialogue: 99,0:13:45.42,0:13:47.69,Dialogue,Will,0,0,0,,{\i1}A certain remote village that they visited
+Dialogue: 99,0:13:47.69,0:13:50.10,Dialogue,Will,0,0,0,,{\i1}was attacked by a wyvern,
+Dialogue: 99,0:13:50.10,0:13:53.93,Dialogue,Will,0,0,0,,{\i1}and a beautiful half-elf was chosen \Nas a sacrifice to appease it.
+Dialogue: 99,0:13:54.85,0:13:58.07,Dialogue,Will,0,0,0,,{\i1}Upon hearing of this, \NMary said they should save her,
+Dialogue: 99,0:13:58.07,0:14:00.93,Dialogue,Will,0,0,0,,{\i1}but Blood asked where they \Ncould possibly get the money,
+Dialogue: 99,0:14:00.93,0:14:02.75,Dialogue,Will,0,0,0,,{\i1}and Gus said nothing.
+Dialogue: 99,0:14:03.35,0:14:07.11,Dialogue,Will,0,0,0,,{\i1}Their personalities in the \Nsong are a bit off, I think.
+Dialogue: 99,0:14:07.51,0:14:12.96,Dialogue,Will,0,0,0,,{\i1}But still, it brings their voices, words, \Nand expressions clearly to my mind.
+Dialogue: 99,0:14:31.59,0:14:32.94,Dialogue,Mary,0,0,0,,Who are you?
+Dialogue: 99,0:14:35.82,0:14:38.98,Dialogue,Blood,0,0,0,,You think we're gonna take \Non a wyvern for that?
+Dialogue: 99,0:14:44.50,0:14:48.99,Dialogue,Gus,0,0,0,,Ah, what fine money. Look how it shines.
+Dialogue: 99,0:14:48.99,0:14:51.69,Dialogue,Gus,0,0,0,,If we're given such fine payment...
+Dialogue: 99,0:14:51.69,0:14:54.03,Dialogue,Mary,0,0,0,,Then we have no choice but to do the job.
+Dialogue: 99,0:14:54.03,0:14:57.70,Dialogue,Blood,0,0,0,,Damn, you're such pushovers. \NThere's no profit in this.
+Dialogue: 99,0:14:57.70,0:14:59.77,Dialogue,Boy,0,0,0,,If it's not enough, I'll pay more!
+Dialogue: 99,0:14:59.77,0:15:01.91,Dialogue,Boy,0,0,0,,Sell me to a slave trader \Nor whatever you want!
+Dialogue: 99,0:15:01.91,0:15:03.79,Dialogue,Blood,0,0,0,,You think even that would be enough?
+Dialogue: 99,0:15:09.04,0:15:10.93,Dialogue,Blood,0,0,0,,But you do have some guts on ya.
+Dialogue: 99,0:15:10.93,0:15:13.26,Dialogue,Blood,0,0,0,,You're small, but you're a warrior.
+Dialogue: 99,0:15:13.65,0:15:18.71,Dialogue,Blood,0,0,0,,It's only right to help a warrior who \Nswallows his pride to ask for help.
+Dialogue: 99,0:15:19.25,0:15:20.44,Dialogue,Blood,0,0,0,,Let's do it.
+Dialogue: 99,0:15:20.44,0:15:21.50,Dialogue,Mary,0,0,0,,Yes.
+Dialogue: 99,0:15:21.50,0:15:22.35,Dialogue,Gus,0,0,0,,Indeed.
+Dialogue: 99,0:15:30.40,0:15:31.78,Dialogue,Gus,0,0,0,,{\an8}Ligatur!
+Dialogue: 99,0:15:31.78,0:15:32.45,Dialogue,Gus,0,0,0,,{\an8}Nodus!
+Dialogue: 99,0:15:32.45,0:15:33.52,Dialogue,Gus,0,0,0,,{\an8}Obligatio!
+Dialogue: 99,0:16:09.29,0:16:11.66,Dialogue,Blood,0,0,0,,Deci, ce veți face acum?
+Dialogue: 99,0:16:11.66,0:16:14.56,Dialogue,Mary,0,0,0,,Niciunul dintre voi nu mai \Nputeți rămâne în acel sat.
+Dialogue: 99,0:16:14.83,0:16:16.19,Dialogue,Boy,0,0,0,,Ne vom descurca noi cumva.
+Dialogue: 99,0:16:17.03,0:16:18.70,Dialogue,Blood,0,0,0,,Atunci, luați acest pumnal cu voi.
+Dialogue: 99,0:16:18.70,0:16:21.31,Dialogue,Blood,0,0,0,,Bătrânul Gus a gravat Cuvinte pe el.
+Dialogue: 99,0:16:21.31,0:16:23.78,Dialogue,Blood,0,0,0,,Vă va fi mai de folos decât \Nun talisman noroc, ieftin.
+Dialogue: 99,0:16:24.26,0:16:28.25,Dialogue,Blood,0,0,0,,Nu poți fi un războinic dacă nu ai măcar un pumnal cu tine.
+Dialogue: 99,0:16:28.68,0:16:30.38,Dialogue,Mary,0,0,0,,Luați și asta.
+Dialogue: 99,0:16:30.38,0:16:33.71,Dialogue,Mary,0,0,0,,Aveți grijă de voi și unul de celălalt.
+Dialogue: 99,0:16:33.71,0:16:35.87,Dialogue,Mary,0,0,0,,Veți avea de înfruntat multe obstacole,
+Dialogue: 99,0:16:35.87,0:16:38.32,Dialogue,Mary,0,0,0,,dar nu uitați niciodată \Nsemnificația perseverenței.
+Dialogue: 99,0:16:38.32,0:16:40.44,Dialogue,Boy,0,0,0,,Aici sunt mai mulți bani \Ndecât v-am dat noi!
+Dialogue: 99,0:16:40.44,0:16:41.98,Dialogue,Girl,0,0,0,,Nu-i putem accepta.
+Dialogue: 99,0:16:41.98,0:16:44.49,Dialogue,Gus,0,0,0,,Hah! Cine a spus că vi dăm pur și simplu?
+Dialogue: 99,0:16:44.49,0:16:47.56,Dialogue,Gus,0,0,0,,E o investiție. Doar vi împrumutăm.
+Dialogue: 99,0:16:47.56,0:16:48.59,Dialogue,Girl,0,0,0,,Ni împrumutați?
+Dialogue: 99,0:16:48.59,0:16:49.56,Dialogue,Gus,0,0,0,,Ascultați.
+Dialogue: 99,0:16:49.56,0:16:52.10,Dialogue,Gus,0,0,0,,You two must live the best you can,
+Dialogue: 99,0:16:52.10,0:16:54.59,Dialogue,Gus,0,0,0,,build up savings, and make \Nnames for yourselves.
+Dialogue: 99,0:16:54.59,0:16:57.03,Dialogue,Gus,0,0,0,,If your names someday reach our ears,
+Dialogue: 99,0:16:57.03,0:17:01.29,Dialogue,Gus,0,0,0,,we will come to collect what \Nwe've lent you, plus interest.
+Dialogue: 99,0:17:01.29,0:17:05.44,Dialogue,Gus,0,0,0,,In preparation, I will \Ngive you my real name.
+Dialogue: 99,0:17:05.44,0:17:08.73,Dialogue,Gus,0,0,0,,Asta va fi parola noastră. \NAscultați cu atenție.
+Dialogue: 99,0:17:08.73,0:17:12.68,Dialogue,Bee,0,0,0,,Și astfel, băiatul și fata au aflat numele adevărat al Înțeleptului Rătăcitor,
+Dialogue: 99,0:17:12.68,0:17:15.96,Dialogue,Bee,0,0,0,,neștiut de nimeni altcineva.
+Dialogue: 99,0:17:16.18,0:17:20.11,Dialogue,Bee,0,0,0,,Ținându-se de mână, băiatul și fata au pronit spre oraș,
+Dialogue: 99,0:17:20.11,0:17:25.97,Dialogue,Bee,0,0,0,,iar cei trei eroi și-au continuat drumul în căutarea unei noi aventuri.
+Dialogue: 99,0:17:26.43,0:17:28.74,Dialogue,Bee,0,0,0,,Cântecul se termină aici,
+Dialogue: 99,0:17:28.74,0:17:30.89,Dialogue,Bee,0,0,0,,dar povestea continuă.
+Dialogue: 99,0:17:30.89,0:17:33.15,Dialogue,Bee,0,0,0,,Contele Pumnal al Regatului Fertil...
+Dialogue: 99,0:17:33.15,0:17:36.44,Dialogue,Bee,0,0,0,,Adevăratul său nume de familie este Pumnalul Vrăjitorului.
+Dialogue: 99,0:17:36.68,0:17:41.41,Dialogue,Bee,0,0,0,,To this day, an elderly half-elf \Nwoman still waits at his mansion.
+Dialogue: 99,0:17:41.41,0:17:42.66,Dialogue,Will,0,0,0,,{\i1}Asta înseamnă că...
+Dialogue: 99,0:17:42.92,0:17:47.75,Dialogue,Bee,0,0,0,,She believes someone who knows the sage's \Ntrue name will come to her one day,
+Dialogue: 99,0:17:47.75,0:17:50.23,Dialogue,Bee,0,0,0,,so that she can return what he lent to her,
+Dialogue: 99,0:17:50.23,0:17:52.74,Dialogue,Bee,0,0,0,,along with what he lent to her husband.
+Dialogue: 99,0:17:53.08,0:17:57.30,Dialogue,Bee,0,0,0,,She plans to offer her thanks \Nto him when that day comes.
+Dialogue: 99,0:17:57.30,0:17:59.38,Dialogue,Bee,0,0,0,,That's what the story is about...
+Dialogue: 99,0:17:59.38,0:18:03.32,Dialogue,Bee,0,0,0,,A story of three great heroes \Nthat still echoes to this day.
+Dialogue: 99,0:18:03.32,0:18:06.18,Dialogue,Bee,0,0,0,,Ce? Will, plângi?
+Dialogue: 99,0:18:06.18,0:18:09.08,Dialogue,Will,0,0,0,,N-Nu. Nu plâng.
+Dialogue: 99,0:18:09.08,0:18:11.12,Dialogue,Bee,0,0,0,,Oh, haide acum!
+Dialogue: 99,0:18:11.12,0:18:15.00,Dialogue,Bee,0,0,0,,Chiar te impresionat povestea măreței Bee, nu?
+Dialogue: 99,0:18:14.41,0:18:16.80,Dialogue,Will,0,0,0,,{\an8}Nu, nu este așa!
+Dialogue: 99,0:18:16.80,0:18:18.15,Dialogue,Bee,0,0,0,,Haide, nu fi timid!
+Dialogue: 99,0:18:18.68,0:18:23.50,Dialogue,Will,0,0,0,,{\i1}Încă mai sunt mulți oameni care-și amintesc de voi trei.
+Dialogue: 99,0:18:23.84,0:18:25.29,Dialogue,Will,0,0,0,,{\i1}Mereu au făcut-o.
+Dialogue: 99,0:18:25.94,0:18:29.00,Dialogue,Will,0,0,0,,{\i1}Asta mă face foarte fericit.
+Dialogue: 99,0:18:37.25,0:18:39.01,Dialogue,Will,0,0,0,,{\i1}Regatul Fertil, nu?
+Dialogue: 99,0:18:39.33,0:18:43.36,Dialogue,Will,0,0,0,,{\i1}Și după ce vom trece marea, vom mai întâlni oameni care vor vorbi despre Blood și ceilalți.
+Dialogue: 99,0:18:44.88,0:18:45.70,Dialogue,Tonio,0,0,0,,Hei.
+Dialogue: 99,0:18:45.70,0:18:48.76,Dialogue,Tonio,0,0,0,,Văd că te antrenezi din greu.
+Dialogue: 99,0:18:48.76,0:18:49.95,Dialogue,Will,0,0,0,,Tonio.
+Dialogue: 99,0:18:51.02,0:18:53.73,Dialogue,Tonio,0,0,0,,Will, ești puternic.
+Dialogue: 99,0:18:53.73,0:18:55.07,Dialogue,Will,0,0,0,,Chiar crezi asta?
+Dialogue: 99,0:18:55.07,0:18:59.75,Dialogue,Tonio,0,0,0,,Mișcările tale sunt foarte rafinate.
+Dialogue: 99,0:18:59.75,0:19:03.11,Dialogue,Tonio,0,0,0,,Și totuși, nu cred că vrei să auzi asta de la tipul
+Dialogue: 99,0:19:03.11,0:19:05.71,Dialogue,Tonio,0,0,0,,care a fost păcălit de niște persoane care se dădeau drept aventurieri...
+Dialogue: 99,0:19:05.71,0:19:10.28,Dialogue,Tonio,0,0,0,,Dar se vede cu ochiul liber că ești obișnuit să folosești acea lance minunată, făurită de pitici.
+Dialogue: 99,0:19:10.72,0:19:14.34,Dialogue,Tonio,0,0,0,,Toți cei care pot mânui o capodoperă a piticilor, sunt și ei la rândul lor o capodoperă.
+Dialogue: 99,0:19:14.66,0:19:17.58,Dialogue,Tonio,0,0,0,,Dar nu înțeleg un lucru.
+Dialogue: 99,0:19:17.82,0:19:20.21,Dialogue,Will,0,0,0,,Ce anume?
+Dialogue: 99,0:19:20.21,0:19:23.03,Dialogue,Tonio,0,0,0,,Ce anume îți dorești tu?
+Dialogue: 99,0:19:23.03,0:19:25.84,Dialogue,Will,0,0,0,,Ce anume... îmi doresc?
+Dialogue: 99,0:19:25.84,0:19:28.25,Dialogue,Tonio,0,0,0,,Deoarece sunt un negustor.
+Dialogue: 99,0:19:28.25,0:19:33.41,Dialogue,Tonio,0,0,0,,E treaba mea să pun marfa în mișcare și să îndeplinesc dorințele oamenilor
+Dialogue: 99,0:19:33.41,0:19:36.61,Dialogue,Tonio,0,0,0,,în schimbul unei remunerații \Nde aceeași valoare.
+Dialogue: 99,0:19:36.61,0:19:38.79,Dialogue,Tonio,0,0,0,,Tu ești un mister pentru mine.
+Dialogue: 99,0:19:39.13,0:19:42.80,Dialogue,Tonio,0,0,0,,Nu am mai întâlnit pe \Nnimeni ca tine până acum.
+Dialogue: 99,0:19:42.99,0:19:45.50,Dialogue,Tonio,0,0,0,,Ești puternic și curajos.
+Dialogue: 99,0:19:45.50,0:19:47.66,Dialogue,Tonio,0,0,0,,Ești educat, politicos
+Dialogue: 99,0:19:47.66,0:19:49.61,Dialogue,Tonio,0,0,0,,și nu urmărești să scoți bani.
+Dialogue: 99,0:19:50.12,0:19:52.26,Dialogue,Tonio,0,0,0,,Dar nu prea pare să fii de viță nobilă.
+Dialogue: 99,0:19:52.26,0:19:55.96,Dialogue,Tonio,0,0,0,,Semeni mai mult cu cavalerii sfinți despre care auzeam în basme.
+Dialogue: 99,0:19:57.75,0:20:01.50,Dialogue,Tonio,0,0,0,,De asta m-am decis să te întreb direct.
+Dialogue: 99,0:20:01.91,0:20:05.36,Dialogue,Tonio,0,0,0,,Ce îți dorești tu, ca persoană?
+Dialogue: 99,0:20:05.36,0:20:09.90,Dialogue,Tonio,0,0,0,,Sau ești doar un reprezentativ al zeiței tale?
+Dialogue: 99,0:20:10.30,0:20:12.33,Dialogue,Will,0,0,0,,Eu... ei bine...
+Dialogue: 99,0:20:12.86,0:20:16.22,Dialogue,Will,0,0,0,,Am dus o viață obișnuită \Nși fericită până de curând,
+Dialogue: 99,0:20:16.22,0:20:19.05,Dialogue,Will,0,0,0,,dar am pierdut-o înainte să pornesc în călătoria mea.
+Dialogue: 99,0:20:19.64,0:20:22.95,Dialogue,Will,0,0,0,,Am obținut protecția divină a Zeiței Luminii în schimb.
+Dialogue: 99,0:20:24.13,0:20:27.41,Dialogue,Will,0,0,0,,Încă nu știu prea multe despre această lume.
+Dialogue: 99,0:20:27.41,0:20:30.25,Dialogue,Will,0,0,0,,Deci vreau mai întâi să aflu mai multe despre ea.
+Dialogue: 99,0:20:30.25,0:20:32.69,Dialogue,Will,0,0,0,,Cred că, printre lucrurile \Npe care le voi afla,
+Dialogue: 99,0:20:32.69,0:20:35.49,Dialogue,Will,0,0,0,,voi găsi și ceea ce-mi doresc eu să fac.
+Dialogue: 99,0:20:35.93,0:20:40.67,Dialogue,Will,0,0,0,,Oh... și prieteni. \NVreau și prieteni, presupun.
+Dialogue: 99,0:20:40.90,0:20:43.31,Dialogue,Tonio,0,0,0,,Menel nu e prietenul tău?
+Dialogue: 99,0:20:43.31,0:20:44.88,Dialogue,Will,0,0,0,,Păi, legat de asta...
+Dialogue: 99,0:20:44.88,0:20:47.41,Dialogue,Will,0,0,0,,cred că ne înțelegem destul de bine,
+Dialogue: 99,0:20:47.41,0:20:50.51,Dialogue,Will,0,0,0,,dar el nu vrea să mă vada ca prietenul lui.
+Dialogue: 99,0:20:50.90,0:20:55.24,Dialogue,Will,0,0,0,,El îmi tot spune „preot”, \Nde parcă m-ar pune pe un piedestal.
+Dialogue: 99,0:20:55.52,0:20:58.83,Dialogue,Will,0,0,0,,Da... vreau prieteni.
+Dialogue: 99,0:20:59.45,0:21:00.75,Dialogue,Tonio,0,0,0,,Înțeleg.
+Dialogue: 99,0:21:00.75,0:21:04.52,Dialogue,Tonio,0,0,0,,În acest caz, mă voi oferi eu să fiu al treilea.
+Dialogue: 99,0:21:04.52,0:21:05.23,Dialogue,Will,0,0,0,,Ce?
+Dialogue: 99,0:21:05.45,0:21:09.96,Dialogue,Tonio,0,0,0,,Menel și Robina ar fi foarte furioși pe mine dacă aș încerca să fiu înaintea lor.
+Dialogue: 99,0:21:09.96,0:21:11.64,Dialogue,Tonio,0,0,0,,Asta ar fi foarte înfricoșător.
+Dialogue: 99,0:21:14.16,0:21:17.87,Dialogue,Tonio,0,0,0,,Ei bine, ar trebui să aducem niște apă și să începem să preparăm micul dejun?
+Dialogue: 99,0:21:18.17,0:21:18.94,Dialogue,Will,0,0,0,,Da.
+Dialogue: 99,0:21:21.40,0:21:22.71,Dialogue,Tonio,0,0,0,,Poftim.
+Dialogue: 99,0:21:23.76,0:21:24.81,Dialogue,Bee,0,0,0,,E foarte bun!
+Dialogue: 99,0:21:24.81,0:21:27.93,Dialogue,Will,0,0,0,,Chiar este. Ești un bucătar grozav, Tonio.
+Dialogue: 99,0:21:27.93,0:21:29.25,Dialogue,Bee,0,0,0,,Așa este!
+Dialogue: 99,0:21:29.25,0:21:32.63,Dialogue,Bee,0,0,0,,Să fiu sinceră, ăsta e motivul pentru care călătoresc cu el!
+Dialogue: 99,0:21:33.60,0:21:37.13,Dialogue,Will,0,0,0,,Mâncăm mult mai bine acum, mulțumită lui Tonio.
+Dialogue: 99,0:21:37.13,0:21:39.62,Dialogue,Menel,0,0,0,,Da, din moment ce tu nu știi să gătești.
+Dialogue: 99,0:21:39.62,0:21:40.92,Dialogue,Will,0,0,0,,Ei bine...
+Dialogue: 99,0:21:41.51,0:21:44.19,Dialogue,Will,0,0,0,,Nici tu nu ești mai \Nbreaz la gătit, Menel!
+Dialogue: 99,0:21:44.19,0:21:46.07,Dialogue,Menel,0,0,0,,Ce? Tot ce trebuie să faci e s-o mănânci.
+Dialogue: 99,0:21:47.24,0:21:50.20,Dialogue,Tonio,0,0,0,,Și mereu primim pâine \Nde la Will pentru prânz.
+Dialogue: 99,0:21:50.20,0:21:53.55,Dialogue,Bee,0,0,0,,Nu-i așa că e grozav? \NDoar se roagă, iar pâinea apare!
+Dialogue: 99,0:21:53.55,0:21:56.17,Dialogue,Tonio,0,0,0,,Eu prefer să mă opresc \Ncât mai puțin posibil,
+Dialogue: 99,0:21:56.17,0:21:59.05,Dialogue,Tonio,0,0,0,,deci sunt recunoscător că am mâncare pe care o pot mânca în timp ce merg.
+Dialogue: 99,0:21:59.05,0:22:02.23,Dialogue,Menel,0,0,0,,Atunci, haideți să ne pregătim de plecare imediat cum am terminat de mâncat.
+Dialogue: 99,0:22:02.23,0:22:02.89,Dialogue,Will,0,0,0,,Da.
+Dialogue: 99,0:22:03.41,0:22:05.93,Dialogue,Bee,0,0,0,,{\an8}Mă întrebi când ne vom întoarce acasă,
+Dialogue: 99,0:22:05.93,0:22:08.29,Dialogue,Bee,0,0,0,,{\an8}dar ne e imposibil să știm acest lucru.
+Dialogue: 99,0:22:07.38,0:22:10.87,Dialogue,Menel,0,0,0,,Apropo, care e situația \Nacum în Pânzele Albe?
+Dialogue: 99,0:22:08.29,0:22:10.85,Dialogue,Bee,0,0,0,,{\an8}As the rain falls, the water \Nin the lake stagnates,
+Dialogue: 99,0:22:10.85,0:22:12.16,Dialogue,Bee,0,0,0,,{\an8}and the two fall silent.
+Dialogue: 99,0:22:10.87,0:22:13.48,Dialogue,Menel,0,0,0,,M-am ascuns prin Pădurea Bestiilor o vreme.
+Dialogue: 99,0:22:12.16,0:22:16.63,Dialogue,Bee,0,0,0,,{\an8}As the rain pounds, someday, \Nsomeday... ah, someday...
+Dialogue: 99,0:22:13.48,0:22:15.39,Dialogue,Menel,0,0,0,,deci nu am mai fost în port de ceva timp.
+Dialogue: 99,0:22:15.39,0:22:18.48,Dialogue,Tonio,0,0,0,,Un nou conducător a ajuns la conducerea Regatului Fertil.
+Dialogue: 99,0:22:16.63,0:22:19.38,Dialogue,Bee,0,0,0,,{\an8}the two will draw closer together.
+Dialogue: 99,0:22:18.48,0:22:19.89,Dialogue,Menel,0,0,0,,Deci Egbert al II-lea este...
+Dialogue: 99,0:22:19.89,0:22:21.98,Dialogue,Bee,0,0,0,,Numele său post-mortem este „Egbert cel Îndrăzneț”.
+Dialogue: 99,0:22:21.98,0:22:24.36,Dialogue,Bee,0,0,0,,Nu a fost un rege rău deloc.
+Dialogue: 99,0:22:24.36,0:22:27.10,Dialogue,Menel,0,0,0,,Înțeleg... Deci a murit...
+Dialogue: 99,0:22:27.10,0:22:29.31,Dialogue,Tonio,0,0,0,,Da... doar că acum există o mică problemă.
+Dialogue: 99,0:22:29.70,0:22:32.72,Dialogue,Tonio,0,0,0,,His legitimate heir, \NPrince Owen, succeeded him,
+Dialogue: 99,0:22:32.72,0:22:34.42,Dialogue,Tonio,0,0,0,,but he falls short of his father,
+Dialogue: 99,0:22:34.42,0:22:38.46,Dialogue,Tonio,0,0,0,,and the lords have suggested that \Nnow is the time to advance south.
+Dialogue: 99,0:22:38.66,0:22:40.45,Dialogue,Will,0,0,0,,Asta sună destul de rău...
+Dialogue: 99,0:22:40.45,0:22:44.70,Dialogue,Tonio,0,0,0,,Fortunately, this hasn't had any \Ngreat effect on Southmark yet.
+Dialogue: 99,0:22:44.70,0:22:49.72,Dialogue,Tonio,0,0,0,,The king's brother, who was dispatched \Nto Whitesails, is a great, wise man.
+Dialogue: 99,0:22:49.72,0:22:53.32,Dialogue,Tonio,0,0,0,,The crown prince, Ethelbald Rex Fertile.
+Dialogue: 99,0:22:53.32,0:22:55.91,Dialogue,Tonio,0,0,0,,He comes from a different \Nmother than King Owen,
+Dialogue: 99,0:22:55.91,0:22:58.95,Dialogue,Tonio,0,0,0,,but he excels with both the pen \Nand the sword, like his father.
+Dialogue: 99,0:22:59.38,0:23:02.19,Dialogue,Tonio,0,0,0,,It is due to Prince Ethel's rule
+Dialogue: 99,0:23:02.19,0:23:04.84,Dialogue,Tonio,0,0,0,,that the government of \NWhitesails continues to run.
+Dialogue: 99,0:23:05.36,0:23:07.72,Dialogue,Will,0,0,0,,Pare o situație complicată...
+Dialogue: 99,0:23:11.02,0:23:11.65,Dialogue,Bee,0,0,0,,Will!
+Dialogue: 99,0:23:12.09,0:23:13.84,Dialogue,Bee,0,0,0,,Haide, pe aici!
+Dialogue: 99,0:23:12.70,0:23:13.62,Dialogue,Menel,0,0,0,,Ce mai e acum?
+Dialogue: 99,0:23:14.16,0:23:16.15,Dialogue,Bee,0,0,0,,E prima oară când îl vezi, nu?
+Dialogue: 99,0:23:16.41,0:23:17.42,Dialogue,Bee,0,0,0,,Privește, acolo!
+Dialogue: 99,0:23:20.58,0:23:21.50,Dialogue,Will,0,0,0,,{\i1}Orașul...
+Dialogue: 99,0:23:22.61,0:23:28.58,Dialogue,Will,0,0,0,,{\i1}Unul din simbolurile pentru care Blood, Mary și Gus și-au dat viața ca să-l protejeze.
+Dialogue: 99,0:23:29.76,0:23:32.64,Dialogue,Bee,0,0,0,,Acela e orașul Pânzele Albe!
 Dialogue: 0,0:02:13.82,0:02:19.16,DedzuyaSigns,,0,0,0,,{\an8\pos(960,730)\fnLinux Libertine\fs100\bord5\yshad0.001\3c&HFFFFFF&\4c&HFFFFFF&\1a&HFE&\blur5\fad(1200,0)\fscx110\fscy110}Paladinul Ținutului Îndepărtat
 Dialogue: 1,0:02:13.82,0:02:19.16,DedzuyaSigns,,0,0,0,,{\an8\pos(960,730)\fnLinux Libertine\fs100\c&H060416&\blur5\fad(1200,0)\fscx110\fscy110\t(0,1200,1.2,\blur0.6)}P{\c&H08063C&}a{\c&H0A0962&}l{\c&H0C0B89&}a{\c&H0E0EAF&}d{\c&H1011D6&}i{\c&H0E0EAF&}n{\c&H0C0B89&}u{\c&H0A0962&}l {\c&H060416&}Ț{\c&H08063C&}i{\c&H0A0962&}n{\c&H0C0B89&}u{\c&H0E0EAF&}t{\c&H1011D6&}u{\c&H0E0EAF&}l{\c&H0C0B89&}u{\c&H0A0962&}i {\c&H060416&}Î{\c&H08063C&}n{\c&H0A0962&}d{\c&H0C0B89&}e{\c&H0E0EAF&}p{\c&H1011D6&}ă{\c&H0D0DA6&}r{\c&H0B0A76&}t{\c&H080746&}a{\c&H060416&}t
 Dialogue: 0,0:12:25.14,0:12:30.98,DedzuyaSigns,,0,0,0,,{\an7\pos(100,50)\fnLinux Libertine\fsp1\bord2.8\yshad0.001\3c&H3F3F3F&\4c&H3F3F3F&\alpha&H60&\1a&HFE&\blur3\fad(750,750)}Cântece de eroism \N{\fscx80\fscy80}Episodul 8

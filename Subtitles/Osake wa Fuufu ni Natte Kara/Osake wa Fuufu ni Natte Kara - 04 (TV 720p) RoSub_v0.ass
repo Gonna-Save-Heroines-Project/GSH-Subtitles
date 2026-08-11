@@ -37,57 +37,57 @@ Style: ED TL,Lemon Squeezy,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:00.44,0:00:03.23,Dialogue,,0,0,0,,{\an8\i1}Priviți acest curry. Este gătit timp de 100 de ore,
-Dialogue: 100,0:00:03.23,0:00:04.84,Dialogue,,0,0,0,,{\an8\i1}iar toate ingredientele sale se completează perfect.
-Dialogue: 100,0:00:04.84,0:00:07.15,Dialogue,,0,0,0,,{\an8\i1}Arată foarte bine!
-Dialogue: 100,0:00:07.15,0:00:09.31,Dialogue,,0,0,0,,{\an8\i1}Ce spuneți dacă am începe?
-Dialogue: 100,0:00:07.72,0:00:09.31,Dialogue,,0,500,0,,Arată foarte bine.
-Dialogue: 100,0:00:09.31,0:00:10.34,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:00:09.31,0:00:10.74,Dialogue,,0,0,0,,{\an8\i1}Să mâncăm!
-Dialogue: 100,0:00:12.12,0:00:13.86,Dialogue,,0,0,0,,{\an8\i1}Ne vedem săptămâna viitoare.
-Dialogue: 100,0:00:13.86,0:00:15.13,Dialogue,,0,0,0,,Ar trebui să ne băgăm în pat.
-Dialogue: 100,0:00:15.13,0:00:16.02,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:00:25.00,0:00:26.23,Dialogue,,0,0,0,,Îți este foame?
-Dialogue: 100,0:00:26.23,0:00:27.72,Dialogue,,0,0,0,,S-Sunt bine—
-Dialogue: 100,0:00:29.91,0:00:33.62,Dialogue,,0,0,0,,Chi-chan, ce spui dacă am mânca ceva?
-Dialogue: 100,0:00:33.62,0:00:34.55,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:00:35.20,0:00:39.21,Dialogue,,0,0,0,,Cheese wraps, chikuwa and cucumber, \Ngarlic miso, and cabbage.
-Dialogue: 100,0:00:39.21,0:00:40.21,Dialogue,,0,0,0,,Mănâncă.
-Dialogue: 100,0:00:40.21,0:00:41.97,Dialogue,,0,0,0,,Mersi...
-Dialogue: 100,0:00:45.53,0:00:46.91,Dialogue,,0,0,0,,Este bun.
-Dialogue: 100,0:00:46.91,0:00:48.18,Dialogue,,0,0,0,,Mă bucur.
-Dialogue: 100,0:00:50.71,0:00:52.63,Dialogue,,0,0,0,,Am pregătit un șpriț.
-Dialogue: 100,0:00:53.53,0:00:54.74,Dialogue,,0,0,0,,Bea.
-Dialogue: 100,0:00:55.46,0:00:57.24,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:01:06.80,0:01:09.88,Dialogue,,0,0,0,,{\i1}Este foarte bun.
-Dialogue: 100,0:01:10.14,0:01:13.21,Dialogue,,0,0,0,,{\i1}Este foarte răcoritor! \NȘi doar foarte puțin carbogazos.
-Dialogue: 100,0:01:13.48,0:01:14.65,Dialogue,,0,0,0,,Spumos!
-Dialogue: 100,0:01:15.29,0:01:17.91,Dialogue,,0,0,0,,{\i1}Băutura din această seară este șprițul.
-Dialogue: 100,0:01:18.90,0:01:20.41,Dialogue,,0,0,0,,Simțiți că aveți bule în gură.
-Dialogue: 100,0:01:20.41,0:01:22.62,Dialogue,,0,0,0,,Nici nu conține foarte mult alcool.
-Dialogue: 100,0:01:22.62,0:01:24.60,Dialogue,,0,0,0,,Lămâile verzi și lămâile \Nnormale sunt diferite la culoare,
-Dialogue: 100,0:01:24.60,0:01:26.82,Dialogue,,0,0,0,,dar lămâile vezi se fac galbene \Ndupă ce s-au copt complet.
-Dialogue: 100,0:01:26.82,0:01:28.66,Dialogue,,0,0,0,,Vă amintiți care era lămâia normală?
-Dialogue: 100,0:01:32.28,0:01:34.38,Dialogue,,0,0,0,,Mă simt grozav.
-Dialogue: 100,0:01:35.52,0:01:37.64,Dialogue,,0,0,0,,Simt un miros plăcut...
-Dialogue: 100,0:01:38.49,0:01:40.80,Dialogue,,0,0,0,,Am pregătit cel mai bun lucru \N cu care să încheiem această masă.
-Dialogue: 100,0:01:41.36,0:01:42.33,Dialogue,,0,0,0,,Poftim.
-Dialogue: 100,0:01:42.79,0:01:45.08,Dialogue,,0,0,0,,Am ajuns în rai?
-Dialogue: 100,0:01:53.03,0:01:55.73,Dialogue,,0,0,0,,Mă vei distruge.
-Dialogue: 100,0:01:59.27,0:02:02.55,Dialogue,,0,0,0,,Sunt satisfăcută.
-Dialogue: 100,0:02:02.55,0:02:03.64,Dialogue,,0,0,0,,Mă bucur.
-Dialogue: 100,0:02:04.13,0:02:05.89,Dialogue,,0,0,0,,A fost foarte bun.
-Dialogue: 100,0:02:07.67,0:02:08.50,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:02:08.50,0:02:09.31,Dialogue,,0,0,0,,Nimic.
-Dialogue: 100,0:02:09.31,0:02:11.94,Dialogue,,0,0,0,,Spune-mi.
-Dialogue: 100,0:02:13.96,0:02:15.11,Dialogue,,0,0,0,,Chi-chan,
-Dialogue: 100,0:02:16.00,0:02:18.21,Dialogue,,0,0,0,,de ce ești așa drăguță?
-Dialogue: 100,0:02:18.93,0:02:20.11,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:02:20.11,0:02:23.05,Dialogue,,0,0,0,,C-Ce tot spui? Mă simt așa jenată.
-Dialogue: 100,0:02:23.05,0:02:23.91,Dialogue,,0,0,0,,Scuze.
-Dialogue: 100,0:02:23.91,0:02:25.82,Dialogue,,0,0,0,,Te voi face să plătești.
-Dialogue: 100,0:02:25.82,0:02:28.67,Dialogue,,0,0,0,,Te voi strânge foarte tare \Ncând ne băgăm în pat.
-Dialogue: 100,0:02:28.67,0:02:30.00,Dialogue,,0,0,0,,Oare ce mă voi face?
+Dialogue: 99,0:00:00.44,0:00:03.23,Dialogue,,0,0,0,,{\an8\i1}Priviți acest curry. Este gătit timp de 100 de ore,
+Dialogue: 99,0:00:03.23,0:00:04.84,Dialogue,,0,0,0,,{\an8\i1}iar toate ingredientele sale se completează perfect.
+Dialogue: 99,0:00:04.84,0:00:07.15,Dialogue,,0,0,0,,{\an8\i1}Arată foarte bine!
+Dialogue: 99,0:00:07.15,0:00:09.31,Dialogue,,0,0,0,,{\an8\i1}Ce spuneți dacă am începe?
+Dialogue: 99,0:00:07.72,0:00:09.31,Dialogue,,0,500,0,,Arată foarte bine.
+Dialogue: 99,0:00:09.31,0:00:10.34,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:00:09.31,0:00:10.74,Dialogue,,0,0,0,,{\an8\i1}Să mâncăm!
+Dialogue: 99,0:00:12.12,0:00:13.86,Dialogue,,0,0,0,,{\an8\i1}Ne vedem săptămâna viitoare.
+Dialogue: 99,0:00:13.86,0:00:15.13,Dialogue,,0,0,0,,Ar trebui să ne băgăm în pat.
+Dialogue: 99,0:00:15.13,0:00:16.02,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:00:25.00,0:00:26.23,Dialogue,,0,0,0,,Îți este foame?
+Dialogue: 99,0:00:26.23,0:00:27.72,Dialogue,,0,0,0,,S-Sunt bine—
+Dialogue: 99,0:00:29.91,0:00:33.62,Dialogue,,0,0,0,,Chi-chan, ce spui dacă am mânca ceva?
+Dialogue: 99,0:00:33.62,0:00:34.55,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:00:35.20,0:00:39.21,Dialogue,,0,0,0,,Cheese wraps, chikuwa and cucumber, \Ngarlic miso, and cabbage.
+Dialogue: 99,0:00:39.21,0:00:40.21,Dialogue,,0,0,0,,Mănâncă.
+Dialogue: 99,0:00:40.21,0:00:41.97,Dialogue,,0,0,0,,Mersi...
+Dialogue: 99,0:00:45.53,0:00:46.91,Dialogue,,0,0,0,,Este bun.
+Dialogue: 99,0:00:46.91,0:00:48.18,Dialogue,,0,0,0,,Mă bucur.
+Dialogue: 99,0:00:50.71,0:00:52.63,Dialogue,,0,0,0,,Am pregătit un șpriț.
+Dialogue: 99,0:00:53.53,0:00:54.74,Dialogue,,0,0,0,,Bea.
+Dialogue: 99,0:00:55.46,0:00:57.24,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:01:06.80,0:01:09.88,Dialogue,,0,0,0,,{\i1}Este foarte bun.
+Dialogue: 99,0:01:10.14,0:01:13.21,Dialogue,,0,0,0,,{\i1}Este foarte răcoritor! \NȘi doar foarte puțin carbogazos.
+Dialogue: 99,0:01:13.48,0:01:14.65,Dialogue,,0,0,0,,Spumos!
+Dialogue: 99,0:01:15.29,0:01:17.91,Dialogue,,0,0,0,,{\i1}Băutura din această seară este șprițul.
+Dialogue: 99,0:01:18.90,0:01:20.41,Dialogue,,0,0,0,,Simțiți că aveți bule în gură.
+Dialogue: 99,0:01:20.41,0:01:22.62,Dialogue,,0,0,0,,Nici nu conține foarte mult alcool.
+Dialogue: 99,0:01:22.62,0:01:24.60,Dialogue,,0,0,0,,Lămâile verzi și lămâile \Nnormale sunt diferite la culoare,
+Dialogue: 99,0:01:24.60,0:01:26.82,Dialogue,,0,0,0,,dar lămâile vezi se fac galbene \Ndupă ce s-au copt complet.
+Dialogue: 99,0:01:26.82,0:01:28.66,Dialogue,,0,0,0,,Vă amintiți care era lămâia normală?
+Dialogue: 99,0:01:32.28,0:01:34.38,Dialogue,,0,0,0,,Mă simt grozav.
+Dialogue: 99,0:01:35.52,0:01:37.64,Dialogue,,0,0,0,,Simt un miros plăcut...
+Dialogue: 99,0:01:38.49,0:01:40.80,Dialogue,,0,0,0,,Am pregătit cel mai bun lucru \N cu care să încheiem această masă.
+Dialogue: 99,0:01:41.36,0:01:42.33,Dialogue,,0,0,0,,Poftim.
+Dialogue: 99,0:01:42.79,0:01:45.08,Dialogue,,0,0,0,,Am ajuns în rai?
+Dialogue: 99,0:01:53.03,0:01:55.73,Dialogue,,0,0,0,,Mă vei distruge.
+Dialogue: 99,0:01:59.27,0:02:02.55,Dialogue,,0,0,0,,Sunt satisfăcută.
+Dialogue: 99,0:02:02.55,0:02:03.64,Dialogue,,0,0,0,,Mă bucur.
+Dialogue: 99,0:02:04.13,0:02:05.89,Dialogue,,0,0,0,,A fost foarte bun.
+Dialogue: 99,0:02:07.67,0:02:08.50,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:02:08.50,0:02:09.31,Dialogue,,0,0,0,,Nimic.
+Dialogue: 99,0:02:09.31,0:02:11.94,Dialogue,,0,0,0,,Spune-mi.
+Dialogue: 99,0:02:13.96,0:02:15.11,Dialogue,,0,0,0,,Chi-chan,
+Dialogue: 99,0:02:16.00,0:02:18.21,Dialogue,,0,0,0,,de ce ești așa drăguță?
+Dialogue: 99,0:02:18.93,0:02:20.11,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:02:20.11,0:02:23.05,Dialogue,,0,0,0,,C-Ce tot spui? Mă simt așa jenată.
+Dialogue: 99,0:02:23.05,0:02:23.91,Dialogue,,0,0,0,,Scuze.
+Dialogue: 99,0:02:23.91,0:02:25.82,Dialogue,,0,0,0,,Te voi face să plătești.
+Dialogue: 99,0:02:25.82,0:02:28.67,Dialogue,,0,0,0,,Te voi strânge foarte tare \Ncând ne băgăm în pat.
+Dialogue: 99,0:02:28.67,0:02:30.00,Dialogue,,0,0,0,,Oare ce mă voi face?
 Dialogue: 0,0:00:00.00,0:00:04.44,KazuyaShuuSign,,0,0,0,,{\fad(0,450)\fnCrimson\fs70\blur2\bord1.5\1a&HFF&\pos(1100,575)\3c&HFFFFFF&}Love is\NLike a\NCocktail
 Dialogue: 1,0:00:00.00,0:00:04.44,KazuyaShuuSign,,0,0,0,,{\fad(0,450)\fnCrimson\fs70\blur0.4\c&H000000&\pos(1100,575)\iclip(1177.5,620,1190,633.75)}Love is\NLike a\NCocktail
 Dialogue: 2,0:00:00.00,0:00:04.44,KazuyaShuuSign,,0,0,0,,{\fad(0,450)\fnCrimson\fs70\blur0.4\c&HB699FA&\pos(1100,575)\clip(1177.5,620,1190,633.75)}Love is\NLike a\NCocktail

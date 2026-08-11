@@ -30,306 +30,306 @@ Style: Signs,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:06.24,0:00:08.91,Dialogue,,0,0,0,,{\i1}Supervizorul unu către Gropar.
-Dialogue: 100,0:00:08.91,0:00:13.58,Dialogue,,0,0,0,,{\i1}Forțele inamice de interceptare au fost detectate în punctele 30 și 504.
-Dialogue: 100,0:00:13.58,0:00:18.37,Dialogue,,0,0,0,,{\i1}Conțin unități de tipul \Ntanc și rază scurtă.
-Dialogue: 100,0:00:18.37,0:00:21.58,Dialogue,,0,0,0,,{\i1}Către toate unitățile: \NAvansați și eliminați-le.
-Dialogue: 100,0:00:22.33,0:00:28.49,Dialogue,,0,0,0,,{\i1}Deși, cu atât de multe, pariez că niciunul dintre voi nu va scăpa cu viață!
-Dialogue: 100,0:00:30.97,0:00:32.93,Dialogue,,0,0,0,,{\i1}Haideți! Mai repede!
-Dialogue: 100,0:00:32.93,0:00:34.85,Dialogue,,0,0,0,,{\i1}Mergeți, porcilor!
-Dialogue: 100,0:00:35.85,0:00:41.02,Dialogue,,0,0,0,,{\i1}Luptați până la moarte, \Ngunoaie din Sectorul 86!
-Dialogue: 100,0:00:48.03,0:00:49.90,Dialogue,,0,0,0,,{\i1}Ce e asta?
-Dialogue: 100,0:00:50.49,0:00:52.70,Dialogue,,0,0,0,,{\i1}Hei, încetează!
-Dialogue: 100,0:00:54.03,0:00:55.95,Dialogue,,0,0,0,,{\i1}Oprește-te! Nu te apropia!
-Dialogue: 100,0:00:56.66,0:00:58.96,Dialogue,,0,0,0,,{\i1}Taci! Taci dracului odată!
-Dialogue: 100,0:01:52.30,0:02:00.18,Dialogue,,0,0,0,,{\i1}După cum puteți vedea, avem parte de o altă zi frumoasă în toate cele 85 de sectoare ale Republicii!
-Dialogue: 100,0:02:00.18,0:02:03.27,Dialogue,,0,0,0,,{\i1}Deci, de ce nu vă petrece timpul \Nafară cu prietenii și familia?
-Dialogue: 100,0:02:03.27,0:02:08.32,Dialogue,,0,0,0,,{\i1}Vremea se va înrăutăți puțin mâine, dar nu veți avea nevoie de umbrelă.
-Dialogue: 100,0:02:08.57,0:02:10.82,Dialogue,,0,0,0,,{\i1}Vă doresc un weekend plăcut tuturor!
-Dialogue: 100,0:02:12.95,0:02:17.78,Dialogue,,0,0,0,,{\i1}Acum, urmează raportul sediului \Nmilitar din San Magnolia!
-Dialogue: 100,0:02:18.58,0:02:22.30,Dialogue,,0,0,0,,{\i1}Un grup de drone din armata fostului Imperiu \NGiadian, cunoscută sub numele de Legiune,
-Dialogue: 100,0:02:22.30,0:02:25.29,Dialogue,,0,0,0,,{\i1}au invadat zona de luptă a Sectorului 17,
-Dialogue: 100,0:02:25.29,0:02:28.64,Dialogue,,0,0,0,,{\i1}unde au suferit daune masive de la unitățile noastre autonome, cunoscute ca Distrugătoare,
-Dialogue: 100,0:02:28.64,0:02:31.05,Dialogue,,0,0,0,,{\i1}și au fost forțate să se retragă.
-Dialogue: 100,0:02:31.05,0:02:35.43,Dialogue,,0,0,0,,{\i1}Daunele suferite de armata noastră au fost minime, fără a fi înregistrare decese.
-Dialogue: 100,0:02:35.43,0:02:38.60,Dialogue,,0,0,0,,{\i1}Apărarea țării cu ajutorul dronelor avansate, care respectă principiile eticii,
-Dialogue: 100,0:02:38.93,0:02:41.85,Dialogue,,0,0,0,,{\i1}a făcut ca Republica să nu \Nînregistreze pierderi de vieți umane.
-Dialogue: 100,0:02:42.35,0:02:45.98,Dialogue,,0,0,0,,{\i1}Ziua când corectitudinea națiunii noastre va distruge complet ultimele rămășițe
-Dialogue: 100,0:02:45.98,0:02:47.73,Dialogue,,0,0,0,,{\i1}ale maleficului Imperiu nu este departe!
-Dialogue: 100,0:02:48.52,0:02:50.61,Dialogue,,0,0,0,,{\i1}Trăiască Republica San Magnolia!
-Dialogue: 100,0:02:50.61,0:02:52.65,Dialogue,,0,0,0,,{\i1}Glorie steagului ei cvint-color!
-Dialogue: 100,0:03:03.45,0:03:06.54,Dialogue,,0,0,0,,Bună dimineața, \Ndomnișoară maior!
-Dialogue: 100,0:03:10.50,0:03:14.92,Dialogue,,0,0,0,,Acei porci țipau cât \Nîi țineau plămânii ieri.
-Dialogue: 100,0:03:14.92,0:03:18.09,Dialogue,,0,0,0,,A fost o luptă destul de nebună. \NPariez că au murit cel puțin cincizeci.
-Dialogue: 100,0:03:18.09,0:03:20.60,Dialogue,,0,0,0,,Nu e ca și cum era \Nvreun om în chestiile alea.
-Dialogue: 100,0:03:22.18,0:03:26.10,Dialogue,,0,0,0,,Hei, ia priviți! Prințesa care încă se joacă cu păpușile se holbează la noi!
-Dialogue: 100,0:03:26.10,0:03:29.77,Dialogue,,0,0,0,,Ce e cu fața aia lungă, maior Milizé?
-Dialogue: 100,0:03:29.77,0:03:32.61,Dialogue,,0,0,0,,Sunt doar câteva drone distruse!
-Dialogue: 100,0:03:33.28,0:03:34.24,Dialogue,,0,0,0,,Voi...
-Dialogue: 100,0:03:34.24,0:03:35.45,Dialogue,,0,0,0,,'Neața.
-Dialogue: 100,0:03:35.45,0:03:37.16,Dialogue,,0,0,0,,'Neața, Annette.
-Dialogue: 100,0:03:37.16,0:03:40.16,Dialogue,,0,0,0,,Te-ai trezit devreme. \NDe obicei, dormi la ora asta.
-Dialogue: 100,0:03:40.16,0:03:42.29,Dialogue,,0,0,0,,Am fost nevoită să lucrez toată noaptea.
-Dialogue: 100,0:03:42.29,0:03:44.75,Dialogue,,0,0,0,,Spre deosebire de acei idioți.
-Dialogue: 100,0:03:45.66,0:03:47.46,Dialogue,,0,0,0,,Uită de ei!
-Dialogue: 100,0:03:48.88,0:03:50.46,Dialogue,,0,0,0,,Nu suntem pe câmpul de luptă.
-Dialogue: 100,0:03:50.46,0:03:51.96,Dialogue,,0,0,0,,Suntem în Gran Mur.
-Dialogue: 100,0:03:51.96,0:03:54.17,Dialogue,,0,0,0,,Oricum, inamicul va dispărea în doi ani.
-Dialogue: 100,0:03:54.17,0:03:58.59,Dialogue,,0,0,0,,Știi, tu ești cea ciudată pentru \Ncă iei toată treaba asta în serios.
-Dialogue: 100,0:03:58.89,0:04:01.05,Dialogue,,0,0,0,,Conștiința acestei țări pare că s-a cam...
-Dialogue: 100,0:04:01.05,0:04:03.26,Dialogue,,0,0,0,,Da, da.
-Dialogue: 100,0:04:03.26,0:04:06.23,Dialogue,,0,0,0,,Nu sunt destul de trează \Nîncât să-ți ascult discursurile.
-Dialogue: 100,0:04:06.85,0:04:11.19,Dialogue,,0,0,0,,Ce naiba e cu acel Procesor? \NEste doar o componentă!
-Dialogue: 100,0:04:11.19,0:04:12.52,Dialogue,,0,0,0,,Așa este!
-Dialogue: 100,0:04:12.52,0:04:17.82,Dialogue,,0,0,0,,Noi suntem din Sectorul 1. De ce trebuie să ascultăm tâmpeniile porcilor din Sectorul 86?
-Dialogue: 100,0:04:24.12,0:04:27.46,Dialogue,,0,0,0,,Why do you care so much about the drones, Lena?
-Dialogue: 100,0:04:27.96,0:04:30.54,Dialogue,,0,0,0,,They're not drones.
-Dialogue: 100,0:04:31.75,0:04:33.63,Dialogue,,0,0,0,,I'll put it this way, then.
-Dialogue: 100,0:04:33.63,0:04:37.30,Dialogue,,0,0,0,,Why do you care so much about the Eighty-Six?
-Dialogue: 100,0:04:45.18,0:04:48.56,Dialogue,,0,0,0,,Looks like the battlefield calls, princess.
-Dialogue: 100,0:05:08.45,0:05:10.04,Dialogue,,0,0,0,,Initiate ID confirmation.
-Dialogue: 100,0:05:10.04,0:05:11.87,Dialogue,,0,0,0,,Major Vladilena Milizé,
-Dialogue: 100,0:05:11.87,0:05:16.34,Dialogue,,0,0,0,,commanding officer for the eastern front's ninth ward's third defensive squadron.
-Dialogue: 100,0:05:27.93,0:05:29.43,Dialogue,,0,0,0,,Para-RAID, activate.
-Dialogue: 100,0:05:29.85,0:05:33.27,Dialogue,,0,0,0,,Synchronization target: Pleiades Processors.
-Dialogue: 100,0:05:36.15,0:05:37.28,Dialogue,,0,0,0,,Synchronization complete.
-Dialogue: 100,0:05:37.98,0:05:40.28,Dialogue,,0,0,0,,Handler One to Pleiades:
-Dialogue: 100,0:05:40.28,0:05:42.36,Dialogue,,0,0,0,,Pleasure to work with you today.
-Dialogue: 100,0:05:43.70,0:05:45.95,Dialogue,,0,0,0,,Pleiades to Handler One:
-Dialogue: 100,0:05:45.95,0:05:47.33,Dialogue,,0,0,0,,Synchronization successful.
-Dialogue: 100,0:05:48.45,0:05:52.21,Dialogue,,0,0,0,,Be careful. The enemy is entering firing range.
-Dialogue: 100,0:05:52.21,0:05:53.04,Dialogue,,0,0,0,,Proceed with caution—
-Dialogue: 100,0:05:53.04,0:05:57.80,Dialogue,,0,0,0,,As always, such kind formalities for us subhuman Eighty-Six.
-Dialogue: 100,0:05:58.55,0:06:02.01,Dialogue,,0,0,0,,How sweet, Miss Human.
-Dialogue: 100,0:06:06.89,0:06:11.31,Dialogue,,0,0,0,,You're reassigning me to a different unit, Brigadier General Karlstahl?
-Dialogue: 100,0:06:11.31,0:06:12.06,Dialogue,,0,0,0,,Yes.
-Dialogue: 100,0:06:12.56,0:06:16.73,Dialogue,,0,0,0,,The truth is, the previous Handler transferred out of the unit.
-Dialogue: 100,0:06:16.73,0:06:21.36,Dialogue,,0,0,0,,As such, we need to find an immediate replacement.
-Dialogue: 100,0:06:21.36,0:06:24.24,Dialogue,,0,0,0,,If the unit isn't being withdrawn while we find a replacement,
-Dialogue: 100,0:06:24.24,0:06:26.49,Dialogue,,0,0,0,,does that mean it's defending an important base?
-Dialogue: 100,0:06:26.49,0:06:30.33,Dialogue,,0,0,0,,Yes, it's the eastern front's first ward's first defensive squadron.
-Dialogue: 100,0:06:30.62,0:06:33.21,Dialogue,,0,0,0,,Officially called the Spearhead Squadron.
-Dialogue: 100,0:06:33.46,0:06:36.75,Dialogue,,0,0,0,,It's comprised of veterans from all across the eastern front.
-Dialogue: 100,0:06:36.75,0:06:39.13,Dialogue,,0,0,0,,You could consider them an elite unit.
-Dialogue: 100,0:06:39.13,0:06:40.30,Dialogue,,0,0,0,,But...
-Dialogue: 100,0:06:40.30,0:06:44.22,Dialogue,,0,0,0,,I've just been commissioned as a major, I don't have the experience for this.
-Dialogue: 100,0:06:44.22,0:06:48.76,Dialogue,,0,0,0,,And you're also the youngest person ever to make it to the post of major.
-Dialogue: 100,0:06:48.76,0:06:51.97,Dialogue,,0,0,0,,If you try to be too humble, \Nyou'll make unnecessary enemies, Lena.
-Dialogue: 100,0:06:52.98,0:06:55.81,Dialogue,,0,0,0,,I'm sorry, Uncle Jérôme.
-Dialogue: 100,0:06:55.81,0:07:01.32,Dialogue,,0,0,0,,I'm sure Václav would be proud if he could see his daughter, too.
-Dialogue: 100,0:07:03.24,0:07:04.45,Dialogue,,0,0,0,,How is Margareta?
-Dialogue: 100,0:07:04.78,0:07:08.66,Dialogue,,0,0,0,,She's the same as ever—pestering me to get married.
-Dialogue: 100,0:07:08.66,0:07:10.58,Dialogue,,0,0,0,,Sounds like her.
-Dialogue: 100,0:07:10.58,0:07:13.70,Dialogue,,0,0,0,,To be frank, we can't find anyone else who'll accept the position.
-Dialogue: 100,0:07:13.70,0:07:15.96,Dialogue,,0,0,0,,Aren't they an elite unit?
-Dialogue: 100,0:07:15.96,0:07:21.00,Dialogue,,0,0,0,,Wouldn't it be an honor for a Republic soldier to command them?
-Dialogue: 100,0:07:21.00,0:07:25.17,Dialogue,,0,0,0,,Correct, but there are some strings attached.
-Dialogue: 100,0:07:25.17,0:07:29.64,Dialogue,,0,0,0,,The unit leader, Personal Name: Undertaker.
-Dialogue: 100,0:07:29.64,0:07:31.89,Dialogue,,0,0,0,,He's got a bit of a reputation.
-Dialogue: 100,0:07:31.89,0:07:32.72,Dialogue,,0,0,0,,A reputation?
-Dialogue: 100,0:07:33.52,0:07:35.48,Dialogue,,0,0,0,,They call him the Reaper.
-Dialogue: 100,0:07:36.14,0:07:39.52,Dialogue,,0,0,0,,He has a tendency to destroy his Handlers.
-Dialogue: 100,0:07:40.90,0:07:44.28,Dialogue,,0,0,0,,The Processor destroys the Handler? \NNot the other way around?
-Dialogue: 100,0:07:44.28,0:07:45.44,Dialogue,,0,0,0,,Correct.
-Dialogue: 100,0:07:45.44,0:07:47.57,Dialogue,,0,0,0,,It's not just a ghost story?
-Dialogue: 100,0:07:47.57,0:07:52.16,Dialogue,,0,0,0,,I don't have time in my schedule to share ghost stories with my subordinates.
-Dialogue: 100,0:07:52.16,0:07:58.58,Dialogue,,0,0,0,,Almost all of the Handlers that have been assigned to Undertaker have either retired or transferred.
-Dialogue: 100,0:07:59.00,0:08:00.79,Dialogue,,0,0,0,,Some of them even committed suicide.
-Dialogue: 100,0:08:01.79,0:08:04.00,Dialogue,,0,0,0,,I know it's hard to believe,
-Dialogue: 100,0:08:04.00,0:08:07.38,Dialogue,,0,0,0,,but they claim to be haunted by the "voices of the dead."
-Dialogue: 100,0:08:07.97,0:08:09.18,Dialogue,,0,0,0,,The dead?
-Dialogue: 100,0:08:10.22,0:08:12.89,Dialogue,,0,0,0,,You're free to refuse, Lena.
-Dialogue: 100,0:08:13.31,0:08:15.18,Dialogue,,0,0,0,,You work too hard, anyway.
-Dialogue: 100,0:08:15.18,0:08:19.48,Dialogue,,0,0,0,,A Handler merely needs to monitor their unit and let those on the field take control—
-Dialogue: 100,0:08:19.48,0:08:20.40,Dialogue,,0,0,0,,I'll do it.
-Dialogue: 100,0:08:20.40,0:08:24.15,Dialogue,,0,0,0,,I'll do my utmost as the Spearhead Squadron's commanding officer.
-Dialogue: 100,0:08:24.82,0:08:27.70,Dialogue,,0,0,0,,You only need to do the bare minimum.
-Dialogue: 100,0:08:27.70,0:08:31.16,Dialogue,,0,0,0,,And you should try to keep your interactions with them to a minimum.
-Dialogue: 100,0:08:31.16,0:08:34.16,Dialogue,,0,0,0,,Knowing one's subordinates is part of a commanding officer's duties.
-Dialogue: 100,0:08:34.49,0:08:38.25,Dialogue,,0,0,0,,Well, while I'm lecturing you, let me add one more thing.
-Dialogue: 100,0:08:38.25,0:08:41.92,Dialogue,,0,0,0,,Stop putting the number of casualties in your reports.
-Dialogue: 100,0:08:41.92,0:08:45.38,Dialogue,,0,0,0,,Officially, there are no humans on the battlefield.
-Dialogue: 100,0:08:46.30,0:08:48.72,Dialogue,,0,0,0,,So there are no casualties.
-Dialogue: 100,0:08:48.72,0:08:51.18,Dialogue,,0,0,0,,But that doesn't mean we can ignore them.
-Dialogue: 100,0:08:51.18,0:08:53.39,Dialogue,,0,0,0,,What we're doing is unforgivable.
-Dialogue: 100,0:08:53.39,0:08:54.10,Dialogue,,0,0,0,,Lena.
-Dialogue: 100,0:08:57.31,0:08:59.85,Dialogue,,0,0,0,,You really are just like Václav.
-Dialogue: 100,0:09:02.98,0:09:04.27,Dialogue,,0,0,0,,All right.
-Dialogue: 100,0:09:04.27,0:09:06.07,Dialogue,,0,0,0,,I appoint you, Vladilena Milizé,
-Dialogue: 100,0:09:06.07,0:09:11.07,Dialogue,,0,0,0,,as the commanding officer—the Handler—of the eastern front's first ward's first defensive squadron.
-Dialogue: 100,0:09:11.07,0:09:13.49,Dialogue,,0,0,0,,Have the paperwork done by the time you get there.
-Dialogue: 100,0:09:14.28,0:09:15.12,Dialogue,,0,0,0,,Best of luck to you.
-Dialogue: 100,0:09:16.41,0:09:19.33,Dialogue,,0,0,0,,I'll do my best until my final mission.
-Dialogue: 100,0:09:20.33,0:09:22.12,Dialogue,,0,0,0,,So you accepted it?
-Dialogue: 100,0:09:24.84,0:09:26.50,Dialogue,,0,0,0,,{\an8}Sheesh...
-Dialogue: 100,0:09:26.50,0:09:29.22,Dialogue,,0,0,0,,You're such a weirdo.
-Dialogue: 100,0:09:29.22,0:09:31.93,Dialogue,,0,0,0,,It's an honor to command such an elite unit.
-Dialogue: 100,0:09:31.93,0:09:33.34,Dialogue,,0,0,0,,Plus, it's worth doing.
-Dialogue: 100,0:09:33.34,0:09:36.97,Dialogue,,0,0,0,,And all that stuff about destroying Handlers is a lie, right?
-Dialogue: 100,0:09:36.97,0:09:40.14,Dialogue,,0,0,0,,I bet they were slacking and wanted an easy excuse.
-Dialogue: 100,0:09:40.14,0:09:42.35,Dialogue,,0,0,0,,It's true that some of them committed suicide.
-Dialogue: 100,0:09:43.48,0:09:49.19,Dialogue,,0,0,0,,One of Spearhead's Handlers went crazy and blew his head off with a shotgun.
-Dialogue: 100,0:09:49.57,0:09:52.45,Dialogue,,0,0,0,,All right, the checkup's done. No problems, as usual.
-Dialogue: 100,0:09:52.99,0:09:54.16,Dialogue,,0,0,0,,Thank you for your cooperation.
-Dialogue: 100,0:09:56.20,0:09:58.41,Dialogue,,0,0,0,,But why suicide?
-Dialogue: 100,0:09:58.41,0:10:00.25,Dialogue,,0,0,0,,Naturally, we were asked to investigate.
-Dialogue: 100,0:10:00.58,0:10:02.75,Dialogue,,0,0,0,,They thought that it might be a problem with the Para-RAID.
-Dialogue: 100,0:10:02.75,0:10:06.75,Dialogue,,0,0,0,,Transfers aren't a big deal, but we can't ignore suicides.
-Dialogue: 100,0:10:07.09,0:10:08.25,Dialogue,,0,0,0,,What did you find?
-Dialogue: 100,0:10:08.25,0:10:08.96,Dialogue,,0,0,0,,Who knows.
-Dialogue: 100,0:10:09.21,0:10:10.34,Dialogue,,0,0,0,,You don't know?
-Dialogue: 100,0:10:10.34,0:10:14.18,Dialogue,,0,0,0,,The Handler was dead. \NHow were we supposed to investigate it?
-Dialogue: 100,0:10:14.51,0:10:17.14,Dialogue,,0,0,0,,You're the leader of the development team. \NIs that really okay?
-Dialogue: 100,0:10:17.14,0:10:18.85,Dialogue,,0,0,0,,We did our jobs.
-Dialogue: 100,0:10:18.85,0:10:22.35,Dialogue,,0,0,0,,There was nothing wrong with the RAID Device. End of story.
-Dialogue: 100,0:10:22.35,0:10:26.40,Dialogue,,0,0,0,,We told them that if they wanted to know more, \Nthey'd have to bring us Undertaker.
-Dialogue: 100,0:10:26.86,0:10:32.28,Dialogue,,0,0,0,,But those idiots in Transport said, "This flight has no seats open for pigs!"
-Dialogue: 100,0:10:33.45,0:10:35.91,Dialogue,,0,0,0,,So, you didn't talk to Undertaker?
-Dialogue: 100,0:10:35.91,0:10:37.20,Dialogue,,0,0,0,,We just read their report.
-Dialogue: 100,0:10:37.20,0:10:39.41,Dialogue,,0,0,0,,"No idea," they said.
-Dialogue: 100,0:10:39.41,0:10:43.21,Dialogue,,0,0,0,,We told them about the dead Handler, \Nand all they said was, "I see."
-Dialogue: 100,0:10:43.21,0:10:45.33,Dialogue,,0,0,0,,Well, they're Eighty-Six.
-Dialogue: 100,0:10:46.00,0:10:50.46,Dialogue,,0,0,0,,It's within the realm of possibility that using a Para-RAID could lead to insanity.
-Dialogue: 100,0:10:50.46,0:10:54.63,Dialogue,,0,0,0,,It puts a lot of extra load on the brain to share sensory data with another person.
-Dialogue: 100,0:10:54.97,0:10:58.05,Dialogue,,0,0,0,,And even now, we're only sharing the sense of hearing.
-Dialogue: 100,0:10:58.05,0:11:01.22,Dialogue,,0,0,0,,If you tried synchronizing vision as well, \Nyour brain just wouldn't hold up.
-Dialogue: 100,0:11:01.22,0:11:04.27,Dialogue,,0,0,0,,Put too much load on the brain, and you don't come back.
-Dialogue: 100,0:11:04.73,0:11:08.90,Dialogue,,0,0,0,,Using the Para-RAID means accepting those risks.
-Dialogue: 100,0:11:11.61,0:11:15.49,Dialogue,,0,0,0,,But your father was one of the pioneers in this field of research.
-Dialogue: 100,0:11:15.49,0:11:18.66,Dialogue,,0,0,0,,All of the core principles were developed by someone else.
-Dialogue: 100,0:11:19.07,0:11:21.83,Dialogue,,0,0,0,,In truth, there's a lot I still don't understand.
-Dialogue: 100,0:11:23.12,0:11:26.33,Dialogue,,0,0,0,,Lena, you really should join us in R&D.
-Dialogue: 100,0:11:26.33,0:11:29.08,Dialogue,,0,0,0,,The military's just an unemployment relief right now.
-Dialogue: 100,0:11:29.08,0:11:31.05,Dialogue,,0,0,0,,When the Legion shuts down in two years,
-Dialogue: 100,0:11:31.05,0:11:33.76,Dialogue,,0,0,0,,"former military personnel" isn't going to mean a thing on your résumé.
-Dialogue: 100,0:11:34.51,0:11:35.67,Dialogue,,0,0,0,,Thanks.
-Dialogue: 100,0:11:35.67,0:11:37.22,Dialogue,,0,0,0,,But we're at war right now.
-Dialogue: 100,0:11:37.22,0:11:39.64,Dialogue,,0,0,0,,Those Processors are crazy!
-Dialogue: 100,0:11:39.64,0:11:41.97,Dialogue,,0,0,0,,We don't even know the long-term effects of Para-RAIDs.
-Dialogue: 100,0:11:41.97,0:11:44.85,Dialogue,,0,0,0,,The Eighty-Six die quickly, \Nso the long term doesn't matter.
-Dialogue: 100,0:11:44.85,0:11:46.52,Dialogue,,0,0,0,,But I don't want that for you.
-Dialogue: 100,0:11:46.52,0:11:49.06,Dialogue,,0,0,0,,Still, it's cowardly.
-Dialogue: 100,0:11:51.52,0:11:52.65,Dialogue,,0,0,0,,Right, right.
-Dialogue: 100,0:11:54.78,0:11:56.57,Dialogue,,0,0,0,,You really are weird.
-Dialogue: 100,0:11:59.20,0:12:01.03,Dialogue,,0,0,0,,I modified the settings.
-Dialogue: 100,0:12:01.49,0:12:02.20,Dialogue,,0,0,0,,Thanks.
-Dialogue: 100,0:12:02.20,0:12:05.16,Dialogue,,0,0,0,,Oh, Lena! I made chiffon cake.
-Dialogue: 100,0:12:05.16,0:12:06.46,Dialogue,,0,0,0,,Want some?
-Dialogue: 100,0:12:06.46,0:12:09.50,Dialogue,,0,0,0,,I'll pass for today.
-Dialogue: 100,0:12:09.50,0:12:10.25,Dialogue,,0,0,0,,See you later.
-Dialogue: 100,0:12:10.25,0:12:12.34,Dialogue,,0,0,0,,I used real eggs.
-Dialogue: 100,0:12:14.96,0:12:16.05,Dialogue,,0,0,0,,And real milk.
-Dialogue: 100,0:12:19.26,0:12:20.97,Dialogue,,0,0,0,,It's so good!
-Dialogue: 100,0:12:22.10,0:12:24.60,Dialogue,,0,0,0,,How's it feel to actually eat the real thing for once?
-Dialogue: 100,0:12:24.60,0:12:26.02,Dialogue,,0,0,0,,It's wonderful!
-Dialogue: 100,0:12:26.02,0:12:28.60,Dialogue,,0,0,0,,But part of me wonders if this is how it really tasted.
-Dialogue: 100,0:12:29.44,0:12:32.23,Dialogue,,0,0,0,,You forget when you eat only artificial stuff.
-Dialogue: 100,0:12:33.11,0:12:35.19,Dialogue,,0,0,0,,I've got cream puffs, too.
-Dialogue: 100,0:12:36.15,0:12:39.45,Dialogue,,0,0,0,,They don't taste like cheese when they don't have cheese in them,
-Dialogue: 100,0:12:39.45,0:12:42.49,Dialogue,,0,0,0,,or look like they're about to spit out black smoke, right?
-Dialogue: 100,0:12:42.49,0:12:47.12,Dialogue,,0,0,0,,Are you talking about the cream puffs I made last time?
-Dialogue: 100,0:12:50.42,0:12:51.83,Dialogue,,0,0,0,,It'll be fine this time!
-Dialogue: 100,0:12:52.21,0:12:56.01,Dialogue,,0,0,0,,I gave some to a potential marriage partner yesterday, and he cried tears of joy.
-Dialogue: 100,0:12:56.01,0:12:58.09,Dialogue,,0,0,0,,Sounds like you got a good match for once.
-Dialogue: 100,0:12:58.09,0:13:00.30,Dialogue,,0,0,0,,He must've really loved it.
-Dialogue: 100,0:13:00.30,0:13:01.64,Dialogue,,0,0,0,,Of course!
-Dialogue: 100,0:13:01.64,0:13:07.02,Dialogue,,0,0,0,,I also gave him a card with a lipstick kiss and the words, "To my beloved."
-Dialogue: 100,0:13:07.02,0:13:09.85,Dialogue,,0,0,0,,I dropped them off at the place where he's living with his mistress.
-Dialogue: 100,0:13:16.40,0:13:18.03,Dialogue,,0,0,0,,{\an8}What's wrong, Pleiades?
-Dialogue: 100,0:13:18.03,0:13:19.36,Dialogue,,0,0,0,,{\an8}Please respond!
-Dialogue: 100,0:13:19.36,0:13:21.28,Dialogue,,0,0,0,,What's wrong?
-Dialogue: 100,0:13:21.28,0:13:22.87,Dialogue,,0,0,0,,Handler One to Pleiades!
-Dialogue: 100,0:13:22.87,0:13:23.87,Dialogue,,0,0,0,,Enough already.
-Dialogue: 100,0:13:24.87,0:13:26.16,Dialogue,,0,0,0,,He's dead!
-Dialogue: 100,0:13:33.79,0:13:35.71,Dialogue,,0,0,0,,Pull back! Evasive maneuvers!
-Dialogue: 100,0:13:35.71,0:13:37.34,Dialogue,,0,0,0,,Damn it!
-Dialogue: 100,0:13:38.96,0:13:41.63,Dialogue,,0,0,0,,Handler One to all members of the third squadron:
-Dialogue: 100,0:13:42.55,0:13:45.26,Dialogue,,0,0,0,,Enemy forces have begun their retreat.
-Dialogue: 100,0:13:45.26,0:13:48.02,Dialogue,,0,0,0,,The fourth squadron will take over the patrol.
-Dialogue: 100,0:13:48.39,0:13:51.31,Dialogue,,0,0,0,,Return to base.
-Dialogue: 100,0:13:51.31,0:13:52.35,Dialogue,,0,0,0,,Roger.
-Dialogue: 100,0:13:55.11,0:13:58.40,Dialogue,,0,0,0,,Pleiades and the other six who died...
-Dialogue: 100,0:13:59.94,0:14:02.40,Dialogue,,0,0,0,,I'm so sorry about them.
-Dialogue: 100,0:14:03.99,0:14:08.83,Dialogue,,0,0,0,,Always... Always with the kind words, Handler One.
-Dialogue: 100,0:14:11.08,0:14:12.62,Dialogue,,0,0,0,,Just so you're aware,
-Dialogue: 100,0:14:12.62,0:14:18.05,Dialogue,,0,0,0,,the third squadron will be assigned a new Handler.
-Dialogue: 100,0:14:18.88,0:14:20.88,Dialogue,,0,0,0,,Thank you for everything.
-Dialogue: 100,0:14:23.47,0:14:27.10,Dialogue,,0,0,0,,I'm going to be the commanding officer for the Spearhead Squadron.
-Dialogue: 100,0:14:28.06,0:14:30.06,Dialogue,,0,0,0,,That's great news.
-Dialogue: 100,0:14:31.02,0:14:34.19,Dialogue,,0,0,0,,Eager to see you out, Handler One. My utmost sympathies.
-Dialogue: 100,0:14:34.19,0:14:35.19,Dialogue,,0,0,0,,What does that mean—
-Dialogue: 100,0:14:35.19,0:14:36.69,Dialogue,,0,0,0,,Give the Reaper my regards.
-Dialogue: 100,0:15:01.05,0:15:02.92,Dialogue,,0,0,0,,Para-RAID, activate.
-Dialogue: 100,0:15:04.34,0:15:05.51,Dialogue,,0,0,0,,Synchronization target:
-Dialogue: 100,0:15:10.51,0:15:13.35,Dialogue,,0,0,0,,Spearhead Processors.
-Dialogue: 100,0:15:45.26,0:15:46.80,Dialogue,,0,0,0,,Nice, man!
-Dialogue: 100,0:15:48.93,0:15:51.81,Dialogue,,0,0,0,,Guys, start cleaning already—
-Dialogue: 100,0:15:59.69,0:16:01.57,Dialogue,,0,0,0,,Sounds like they're having a good time.
-Dialogue: 100,0:16:01.57,0:16:02.73,Dialogue,,0,0,0,,The same goes for them.
-Dialogue: 100,0:16:02.73,0:16:05.36,Dialogue,,0,0,0,,Wait! Wait up!
-Dialogue: 100,0:16:08.78,0:16:10.41,Dialogue,,0,0,0,,Eggs!
-Dialogue: 100,0:16:13.45,0:16:14.62,Dialogue,,0,0,0,,Welcome back.
-Dialogue: 100,0:16:17.54,0:16:18.33,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:16:20.79,0:16:22.21,Dialogue,,0,0,0,,Hey, lend me a hand.
-Dialogue: 100,0:16:22.54,0:16:23.84,Dialogue,,0,0,0,,Coming.
-Dialogue: 100,0:16:27.72,0:16:28.72,Dialogue,,0,0,0,,And, done!
-Dialogue: 100,0:16:30.01,0:16:31.89,Dialogue,,0,0,0,,Thanks for all the hard work, man!
-Dialogue: 100,0:16:31.89,0:16:33.85,Dialogue,,0,0,0,,It's "thank you, sir!"
-Dialogue: 100,0:16:53.95,0:16:57.62,Dialogue,,0,0,0,,Members of Spearhead, it's breakfast time!
-Dialogue: 100,0:16:58.21,0:16:59.50,Dialogue,,0,0,0,,Gather round!
-Dialogue: 100,0:16:59.50,0:17:01.04,Dialogue,,0,0,0,,Right, right.
-Dialogue: 100,0:17:01.04,0:17:01.96,Dialogue,,0,0,0,,Coming, coming.
-Dialogue: 100,0:17:01.96,0:17:04.80,Dialogue,,0,0,0,,Morning! Morning!
-Dialogue: 100,0:17:04.80,0:17:05.67,Dialogue,,0,0,0,,Morning.
-Dialogue: 100,0:17:13.80,0:17:15.97,Dialogue,,0,0,0,,Let's eat!
-Dialogue: 100,0:17:15.97,0:17:17.72,Dialogue,,0,0,0,,There're more omelets.
-Dialogue: 100,0:17:17.72,0:17:18.73,Dialogue,,0,0,0,,Seconds!
-Dialogue: 100,0:17:18.73,0:17:20.06,Dialogue,,0,0,0,,Calm down.
-Dialogue: 100,0:17:20.06,0:17:22.27,Dialogue,,0,0,0,,Can't you savor your food?
-Dialogue: 100,0:17:22.27,0:17:23.90,Dialogue,,0,0,0,,Is it good, Kuro?
-Dialogue: 100,0:17:23.90,0:17:24.73,Dialogue,,0,0,0,,Very.
-Dialogue: 100,0:17:26.32,0:17:30.03,Dialogue,,0,0,0,,Hey, didn't our Handler go crazy again?
-Dialogue: 100,0:17:30.03,0:17:31.95,Dialogue,,0,0,0,,The one in the battle yesterday?
-Dialogue: 100,0:17:31.95,0:17:33.78,Dialogue,,0,0,0,,He's done for.
-Dialogue: 100,0:17:33.78,0:17:36.70,Dialogue,,0,0,0,,Didn't you hear him?
-Dialogue: 100,0:17:36.70,0:17:39.08,Dialogue,,0,0,0,,"Stay away! Hey, stop!"
-Dialogue: 100,0:17:41.71,0:17:43.33,Dialogue,,0,0,0,,Cut it out, guys.
-Dialogue: 100,0:17:44.04,0:17:47.84,Dialogue,,0,0,0,,Those white pigs sure are irredeemable.
-Dialogue: 100,0:17:48.46,0:17:51.59,Dialogue,,0,0,0,,It doesn't matter who it is, it's always the same in the end.
-Dialogue: 100,0:17:51.59,0:17:52.43,Dialogue,,0,0,0,,Right?
-Dialogue: 100,0:17:52.72,0:17:57.43,Dialogue,,0,0,0,,But everyone made it back yesterday, right, Shin?
-Dialogue: 100,0:17:58.27,0:18:00.60,Dialogue,,0,0,0,,Yeah, that's right.
-Dialogue: 100,0:18:03.15,0:18:05.44,Dialogue,,0,0,0,,Well, if we're going to die anyway,
-Dialogue: 100,0:18:05.44,0:18:09.44,Dialogue,,0,0,0,,we'd rather have our Reaper guide us.
-Dialogue: 100,0:18:12.78,0:18:14.74,Dialogue,,0,0,0,,What now?
-Dialogue: 100,0:18:15.49,0:18:16.37,Dialogue,,0,0,0,,Here.
-Dialogue: 100,0:18:36.85,0:18:39.01,Dialogue,,0,0,0,,Fuck, that hurts...
-Dialogue: 100,0:18:39.01,0:18:41.10,Dialogue,,0,0,0,,Damn it!
-Dialogue: 100,0:18:41.10,0:18:45.35,Dialogue,,0,0,0,,Damn it all!
-Dialogue: 100,0:19:14.30,0:19:17.14,Dialogue,,0,0,0,,I don't want to die.
-Dialogue: 100,0:19:40.20,0:19:41.28,Dialogue,,0,0,0,,Shin...
-Dialogue: 100,0:19:46.16,0:19:47.62,Dialogue,,0,0,0,,Our promise...
-Dialogue: 100,0:19:49.75,0:19:51.88,Dialogue,,0,0,0,,Don't forget...
-Dialogue: 100,0:20:22.12,0:20:25.12,Dialogue,,0,0,0,,Has Kujo moved on?
-Dialogue: 100,0:20:25.12,0:20:25.83,Dialogue,,0,0,0,,Yeah.
-Dialogue: 100,0:20:26.79,0:20:28.04,Dialogue,,0,0,0,,And your brother's voice?
-Dialogue: 100,0:20:29.17,0:20:29.79,Dialogue,,0,0,0,,Not yet.
-Dialogue: 100,0:20:30.46,0:20:31.33,Dialogue,,0,0,0,,I see.
-Dialogue: 100,0:20:54.61,0:20:56.32,Dialogue,,0,0,0,,There's none left.
-Dialogue: 100,0:20:58.15,0:20:59.65,Dialogue,,0,0,0,,You suck.
-Dialogue: 100,0:20:59.65,0:21:00.61,Dialogue,,0,0,0,,I win!
-Dialogue: 100,0:21:22.55,0:21:26.35,Dialogue,,0,0,0,,Handler One to all Spearhead units:
-Dialogue: 100,0:21:26.85,0:21:31.73,Dialogue,,0,0,0,,Greetings. I will be serving as your commanding officer.
-Dialogue: 100,0:21:31.73,0:21:32.98,Dialogue,,0,0,0,,A woman?
-Dialogue: 100,0:21:33.06,0:21:36.53,Dialogue,,0,0,0,,I've contacted you tonight to introduce myself.
-Dialogue: 100,0:21:40.36,0:21:41.99,Dialogue,,0,0,0,,Hello, Handler One.
-Dialogue: 100,0:21:42.45,0:21:45.03,Dialogue,,0,0,0,,This is the captain of the Spearhead Squadron.
-Dialogue: 100,0:21:45.03,0:21:47.66,Dialogue,,0,0,0,,Personal Name: Undertaker.
-Dialogue: 100,0:21:47.95,0:21:51.08,Dialogue,,0,0,0,,We've received word of the Handler change.
-Dialogue: 100,0:21:51.08,0:21:52.67,Dialogue,,0,0,0,,We look forward to working with you.
-Dialogue: 100,0:21:54.92,0:21:56.25,Dialogue,,0,0,0,,As do I.
-Dialogue: 100,0:21:56.71,0:22:00.09,Dialogue,,0,0,0,,Nice to meet you, Undertaker.
-Dialogue: 100,0:23:36.44,0:23:37.77,Dialogue,,0,0,0,,Spearhead.
+Dialogue: 99,0:00:06.24,0:00:08.91,Dialogue,,0,0,0,,{\i1}Supervizorul unu către Gropar.
+Dialogue: 99,0:00:08.91,0:00:13.58,Dialogue,,0,0,0,,{\i1}Forțele inamice de interceptare au fost detectate în punctele 30 și 504.
+Dialogue: 99,0:00:13.58,0:00:18.37,Dialogue,,0,0,0,,{\i1}Conțin unități de tipul \Ntanc și rază scurtă.
+Dialogue: 99,0:00:18.37,0:00:21.58,Dialogue,,0,0,0,,{\i1}Către toate unitățile: \NAvansați și eliminați-le.
+Dialogue: 99,0:00:22.33,0:00:28.49,Dialogue,,0,0,0,,{\i1}Deși, cu atât de multe, pariez că niciunul dintre voi nu va scăpa cu viață!
+Dialogue: 99,0:00:30.97,0:00:32.93,Dialogue,,0,0,0,,{\i1}Haideți! Mai repede!
+Dialogue: 99,0:00:32.93,0:00:34.85,Dialogue,,0,0,0,,{\i1}Mergeți, porcilor!
+Dialogue: 99,0:00:35.85,0:00:41.02,Dialogue,,0,0,0,,{\i1}Luptați până la moarte, \Ngunoaie din Sectorul 86!
+Dialogue: 99,0:00:48.03,0:00:49.90,Dialogue,,0,0,0,,{\i1}Ce e asta?
+Dialogue: 99,0:00:50.49,0:00:52.70,Dialogue,,0,0,0,,{\i1}Hei, încetează!
+Dialogue: 99,0:00:54.03,0:00:55.95,Dialogue,,0,0,0,,{\i1}Oprește-te! Nu te apropia!
+Dialogue: 99,0:00:56.66,0:00:58.96,Dialogue,,0,0,0,,{\i1}Taci! Taci dracului odată!
+Dialogue: 99,0:01:52.30,0:02:00.18,Dialogue,,0,0,0,,{\i1}După cum puteți vedea, avem parte de o altă zi frumoasă în toate cele 85 de sectoare ale Republicii!
+Dialogue: 99,0:02:00.18,0:02:03.27,Dialogue,,0,0,0,,{\i1}Deci, de ce nu vă petrece timpul \Nafară cu prietenii și familia?
+Dialogue: 99,0:02:03.27,0:02:08.32,Dialogue,,0,0,0,,{\i1}Vremea se va înrăutăți puțin mâine, dar nu veți avea nevoie de umbrelă.
+Dialogue: 99,0:02:08.57,0:02:10.82,Dialogue,,0,0,0,,{\i1}Vă doresc un weekend plăcut tuturor!
+Dialogue: 99,0:02:12.95,0:02:17.78,Dialogue,,0,0,0,,{\i1}Acum, urmează raportul sediului \Nmilitar din San Magnolia!
+Dialogue: 99,0:02:18.58,0:02:22.30,Dialogue,,0,0,0,,{\i1}Un grup de drone din armata fostului Imperiu \NGiadian, cunoscută sub numele de Legiune,
+Dialogue: 99,0:02:22.30,0:02:25.29,Dialogue,,0,0,0,,{\i1}au invadat zona de luptă a Sectorului 17,
+Dialogue: 99,0:02:25.29,0:02:28.64,Dialogue,,0,0,0,,{\i1}unde au suferit daune masive de la unitățile noastre autonome, cunoscute ca Distrugătoare,
+Dialogue: 99,0:02:28.64,0:02:31.05,Dialogue,,0,0,0,,{\i1}și au fost forțate să se retragă.
+Dialogue: 99,0:02:31.05,0:02:35.43,Dialogue,,0,0,0,,{\i1}Daunele suferite de armata noastră au fost minime, fără a fi înregistrare decese.
+Dialogue: 99,0:02:35.43,0:02:38.60,Dialogue,,0,0,0,,{\i1}Apărarea țării cu ajutorul dronelor avansate, care respectă principiile eticii,
+Dialogue: 99,0:02:38.93,0:02:41.85,Dialogue,,0,0,0,,{\i1}a făcut ca Republica să nu \Nînregistreze pierderi de vieți umane.
+Dialogue: 99,0:02:42.35,0:02:45.98,Dialogue,,0,0,0,,{\i1}Ziua când corectitudinea națiunii noastre va distruge complet ultimele rămășițe
+Dialogue: 99,0:02:45.98,0:02:47.73,Dialogue,,0,0,0,,{\i1}ale maleficului Imperiu nu este departe!
+Dialogue: 99,0:02:48.52,0:02:50.61,Dialogue,,0,0,0,,{\i1}Trăiască Republica San Magnolia!
+Dialogue: 99,0:02:50.61,0:02:52.65,Dialogue,,0,0,0,,{\i1}Glorie steagului ei cvint-color!
+Dialogue: 99,0:03:03.45,0:03:06.54,Dialogue,,0,0,0,,Bună dimineața, \Ndomnișoară maior!
+Dialogue: 99,0:03:10.50,0:03:14.92,Dialogue,,0,0,0,,Acei porci țipau cât \Nîi țineau plămânii ieri.
+Dialogue: 99,0:03:14.92,0:03:18.09,Dialogue,,0,0,0,,A fost o luptă destul de nebună. \NPariez că au murit cel puțin cincizeci.
+Dialogue: 99,0:03:18.09,0:03:20.60,Dialogue,,0,0,0,,Nu e ca și cum era \Nvreun om în chestiile alea.
+Dialogue: 99,0:03:22.18,0:03:26.10,Dialogue,,0,0,0,,Hei, ia priviți! Prințesa care încă se joacă cu păpușile se holbează la noi!
+Dialogue: 99,0:03:26.10,0:03:29.77,Dialogue,,0,0,0,,Ce e cu fața aia lungă, maior Milizé?
+Dialogue: 99,0:03:29.77,0:03:32.61,Dialogue,,0,0,0,,Sunt doar câteva drone distruse!
+Dialogue: 99,0:03:33.28,0:03:34.24,Dialogue,,0,0,0,,Voi...
+Dialogue: 99,0:03:34.24,0:03:35.45,Dialogue,,0,0,0,,'Neața.
+Dialogue: 99,0:03:35.45,0:03:37.16,Dialogue,,0,0,0,,'Neața, Annette.
+Dialogue: 99,0:03:37.16,0:03:40.16,Dialogue,,0,0,0,,Te-ai trezit devreme. \NDe obicei, dormi la ora asta.
+Dialogue: 99,0:03:40.16,0:03:42.29,Dialogue,,0,0,0,,Am fost nevoită să lucrez toată noaptea.
+Dialogue: 99,0:03:42.29,0:03:44.75,Dialogue,,0,0,0,,Spre deosebire de acei idioți.
+Dialogue: 99,0:03:45.66,0:03:47.46,Dialogue,,0,0,0,,Uită de ei!
+Dialogue: 99,0:03:48.88,0:03:50.46,Dialogue,,0,0,0,,Nu suntem pe câmpul de luptă.
+Dialogue: 99,0:03:50.46,0:03:51.96,Dialogue,,0,0,0,,Suntem în Gran Mur.
+Dialogue: 99,0:03:51.96,0:03:54.17,Dialogue,,0,0,0,,Oricum, inamicul va dispărea în doi ani.
+Dialogue: 99,0:03:54.17,0:03:58.59,Dialogue,,0,0,0,,Știi, tu ești cea ciudată pentru \Ncă iei toată treaba asta în serios.
+Dialogue: 99,0:03:58.89,0:04:01.05,Dialogue,,0,0,0,,Conștiința acestei țări pare că s-a cam...
+Dialogue: 99,0:04:01.05,0:04:03.26,Dialogue,,0,0,0,,Da, da.
+Dialogue: 99,0:04:03.26,0:04:06.23,Dialogue,,0,0,0,,Nu sunt destul de trează \Nîncât să-ți ascult discursurile.
+Dialogue: 99,0:04:06.85,0:04:11.19,Dialogue,,0,0,0,,Ce naiba e cu acel Procesor? \NEste doar o componentă!
+Dialogue: 99,0:04:11.19,0:04:12.52,Dialogue,,0,0,0,,Așa este!
+Dialogue: 99,0:04:12.52,0:04:17.82,Dialogue,,0,0,0,,Noi suntem din Sectorul 1. De ce trebuie să ascultăm tâmpeniile porcilor din Sectorul 86?
+Dialogue: 99,0:04:24.12,0:04:27.46,Dialogue,,0,0,0,,Why do you care so much about the drones, Lena?
+Dialogue: 99,0:04:27.96,0:04:30.54,Dialogue,,0,0,0,,They're not drones.
+Dialogue: 99,0:04:31.75,0:04:33.63,Dialogue,,0,0,0,,I'll put it this way, then.
+Dialogue: 99,0:04:33.63,0:04:37.30,Dialogue,,0,0,0,,Why do you care so much about the Eighty-Six?
+Dialogue: 99,0:04:45.18,0:04:48.56,Dialogue,,0,0,0,,Looks like the battlefield calls, princess.
+Dialogue: 99,0:05:08.45,0:05:10.04,Dialogue,,0,0,0,,Initiate ID confirmation.
+Dialogue: 99,0:05:10.04,0:05:11.87,Dialogue,,0,0,0,,Major Vladilena Milizé,
+Dialogue: 99,0:05:11.87,0:05:16.34,Dialogue,,0,0,0,,commanding officer for the eastern front's ninth ward's third defensive squadron.
+Dialogue: 99,0:05:27.93,0:05:29.43,Dialogue,,0,0,0,,Para-RAID, activate.
+Dialogue: 99,0:05:29.85,0:05:33.27,Dialogue,,0,0,0,,Synchronization target: Pleiades Processors.
+Dialogue: 99,0:05:36.15,0:05:37.28,Dialogue,,0,0,0,,Synchronization complete.
+Dialogue: 99,0:05:37.98,0:05:40.28,Dialogue,,0,0,0,,Handler One to Pleiades:
+Dialogue: 99,0:05:40.28,0:05:42.36,Dialogue,,0,0,0,,Pleasure to work with you today.
+Dialogue: 99,0:05:43.70,0:05:45.95,Dialogue,,0,0,0,,Pleiades to Handler One:
+Dialogue: 99,0:05:45.95,0:05:47.33,Dialogue,,0,0,0,,Synchronization successful.
+Dialogue: 99,0:05:48.45,0:05:52.21,Dialogue,,0,0,0,,Be careful. The enemy is entering firing range.
+Dialogue: 99,0:05:52.21,0:05:53.04,Dialogue,,0,0,0,,Proceed with caution—
+Dialogue: 99,0:05:53.04,0:05:57.80,Dialogue,,0,0,0,,As always, such kind formalities for us subhuman Eighty-Six.
+Dialogue: 99,0:05:58.55,0:06:02.01,Dialogue,,0,0,0,,How sweet, Miss Human.
+Dialogue: 99,0:06:06.89,0:06:11.31,Dialogue,,0,0,0,,You're reassigning me to a different unit, Brigadier General Karlstahl?
+Dialogue: 99,0:06:11.31,0:06:12.06,Dialogue,,0,0,0,,Yes.
+Dialogue: 99,0:06:12.56,0:06:16.73,Dialogue,,0,0,0,,The truth is, the previous Handler transferred out of the unit.
+Dialogue: 99,0:06:16.73,0:06:21.36,Dialogue,,0,0,0,,As such, we need to find an immediate replacement.
+Dialogue: 99,0:06:21.36,0:06:24.24,Dialogue,,0,0,0,,If the unit isn't being withdrawn while we find a replacement,
+Dialogue: 99,0:06:24.24,0:06:26.49,Dialogue,,0,0,0,,does that mean it's defending an important base?
+Dialogue: 99,0:06:26.49,0:06:30.33,Dialogue,,0,0,0,,Yes, it's the eastern front's first ward's first defensive squadron.
+Dialogue: 99,0:06:30.62,0:06:33.21,Dialogue,,0,0,0,,Officially called the Spearhead Squadron.
+Dialogue: 99,0:06:33.46,0:06:36.75,Dialogue,,0,0,0,,It's comprised of veterans from all across the eastern front.
+Dialogue: 99,0:06:36.75,0:06:39.13,Dialogue,,0,0,0,,You could consider them an elite unit.
+Dialogue: 99,0:06:39.13,0:06:40.30,Dialogue,,0,0,0,,But...
+Dialogue: 99,0:06:40.30,0:06:44.22,Dialogue,,0,0,0,,I've just been commissioned as a major, I don't have the experience for this.
+Dialogue: 99,0:06:44.22,0:06:48.76,Dialogue,,0,0,0,,And you're also the youngest person ever to make it to the post of major.
+Dialogue: 99,0:06:48.76,0:06:51.97,Dialogue,,0,0,0,,If you try to be too humble, \Nyou'll make unnecessary enemies, Lena.
+Dialogue: 99,0:06:52.98,0:06:55.81,Dialogue,,0,0,0,,I'm sorry, Uncle Jérôme.
+Dialogue: 99,0:06:55.81,0:07:01.32,Dialogue,,0,0,0,,I'm sure Václav would be proud if he could see his daughter, too.
+Dialogue: 99,0:07:03.24,0:07:04.45,Dialogue,,0,0,0,,How is Margareta?
+Dialogue: 99,0:07:04.78,0:07:08.66,Dialogue,,0,0,0,,She's the same as ever—pestering me to get married.
+Dialogue: 99,0:07:08.66,0:07:10.58,Dialogue,,0,0,0,,Sounds like her.
+Dialogue: 99,0:07:10.58,0:07:13.70,Dialogue,,0,0,0,,To be frank, we can't find anyone else who'll accept the position.
+Dialogue: 99,0:07:13.70,0:07:15.96,Dialogue,,0,0,0,,Aren't they an elite unit?
+Dialogue: 99,0:07:15.96,0:07:21.00,Dialogue,,0,0,0,,Wouldn't it be an honor for a Republic soldier to command them?
+Dialogue: 99,0:07:21.00,0:07:25.17,Dialogue,,0,0,0,,Correct, but there are some strings attached.
+Dialogue: 99,0:07:25.17,0:07:29.64,Dialogue,,0,0,0,,The unit leader, Personal Name: Undertaker.
+Dialogue: 99,0:07:29.64,0:07:31.89,Dialogue,,0,0,0,,He's got a bit of a reputation.
+Dialogue: 99,0:07:31.89,0:07:32.72,Dialogue,,0,0,0,,A reputation?
+Dialogue: 99,0:07:33.52,0:07:35.48,Dialogue,,0,0,0,,They call him the Reaper.
+Dialogue: 99,0:07:36.14,0:07:39.52,Dialogue,,0,0,0,,He has a tendency to destroy his Handlers.
+Dialogue: 99,0:07:40.90,0:07:44.28,Dialogue,,0,0,0,,The Processor destroys the Handler? \NNot the other way around?
+Dialogue: 99,0:07:44.28,0:07:45.44,Dialogue,,0,0,0,,Correct.
+Dialogue: 99,0:07:45.44,0:07:47.57,Dialogue,,0,0,0,,It's not just a ghost story?
+Dialogue: 99,0:07:47.57,0:07:52.16,Dialogue,,0,0,0,,I don't have time in my schedule to share ghost stories with my subordinates.
+Dialogue: 99,0:07:52.16,0:07:58.58,Dialogue,,0,0,0,,Almost all of the Handlers that have been assigned to Undertaker have either retired or transferred.
+Dialogue: 99,0:07:59.00,0:08:00.79,Dialogue,,0,0,0,,Some of them even committed suicide.
+Dialogue: 99,0:08:01.79,0:08:04.00,Dialogue,,0,0,0,,I know it's hard to believe,
+Dialogue: 99,0:08:04.00,0:08:07.38,Dialogue,,0,0,0,,but they claim to be haunted by the "voices of the dead."
+Dialogue: 99,0:08:07.97,0:08:09.18,Dialogue,,0,0,0,,The dead?
+Dialogue: 99,0:08:10.22,0:08:12.89,Dialogue,,0,0,0,,You're free to refuse, Lena.
+Dialogue: 99,0:08:13.31,0:08:15.18,Dialogue,,0,0,0,,You work too hard, anyway.
+Dialogue: 99,0:08:15.18,0:08:19.48,Dialogue,,0,0,0,,A Handler merely needs to monitor their unit and let those on the field take control—
+Dialogue: 99,0:08:19.48,0:08:20.40,Dialogue,,0,0,0,,I'll do it.
+Dialogue: 99,0:08:20.40,0:08:24.15,Dialogue,,0,0,0,,I'll do my utmost as the Spearhead Squadron's commanding officer.
+Dialogue: 99,0:08:24.82,0:08:27.70,Dialogue,,0,0,0,,You only need to do the bare minimum.
+Dialogue: 99,0:08:27.70,0:08:31.16,Dialogue,,0,0,0,,And you should try to keep your interactions with them to a minimum.
+Dialogue: 99,0:08:31.16,0:08:34.16,Dialogue,,0,0,0,,Knowing one's subordinates is part of a commanding officer's duties.
+Dialogue: 99,0:08:34.49,0:08:38.25,Dialogue,,0,0,0,,Well, while I'm lecturing you, let me add one more thing.
+Dialogue: 99,0:08:38.25,0:08:41.92,Dialogue,,0,0,0,,Stop putting the number of casualties in your reports.
+Dialogue: 99,0:08:41.92,0:08:45.38,Dialogue,,0,0,0,,Officially, there are no humans on the battlefield.
+Dialogue: 99,0:08:46.30,0:08:48.72,Dialogue,,0,0,0,,So there are no casualties.
+Dialogue: 99,0:08:48.72,0:08:51.18,Dialogue,,0,0,0,,But that doesn't mean we can ignore them.
+Dialogue: 99,0:08:51.18,0:08:53.39,Dialogue,,0,0,0,,What we're doing is unforgivable.
+Dialogue: 99,0:08:53.39,0:08:54.10,Dialogue,,0,0,0,,Lena.
+Dialogue: 99,0:08:57.31,0:08:59.85,Dialogue,,0,0,0,,You really are just like Václav.
+Dialogue: 99,0:09:02.98,0:09:04.27,Dialogue,,0,0,0,,All right.
+Dialogue: 99,0:09:04.27,0:09:06.07,Dialogue,,0,0,0,,I appoint you, Vladilena Milizé,
+Dialogue: 99,0:09:06.07,0:09:11.07,Dialogue,,0,0,0,,as the commanding officer—the Handler—of the eastern front's first ward's first defensive squadron.
+Dialogue: 99,0:09:11.07,0:09:13.49,Dialogue,,0,0,0,,Have the paperwork done by the time you get there.
+Dialogue: 99,0:09:14.28,0:09:15.12,Dialogue,,0,0,0,,Best of luck to you.
+Dialogue: 99,0:09:16.41,0:09:19.33,Dialogue,,0,0,0,,I'll do my best until my final mission.
+Dialogue: 99,0:09:20.33,0:09:22.12,Dialogue,,0,0,0,,So you accepted it?
+Dialogue: 99,0:09:24.84,0:09:26.50,Dialogue,,0,0,0,,{\an8}Sheesh...
+Dialogue: 99,0:09:26.50,0:09:29.22,Dialogue,,0,0,0,,You're such a weirdo.
+Dialogue: 99,0:09:29.22,0:09:31.93,Dialogue,,0,0,0,,It's an honor to command such an elite unit.
+Dialogue: 99,0:09:31.93,0:09:33.34,Dialogue,,0,0,0,,Plus, it's worth doing.
+Dialogue: 99,0:09:33.34,0:09:36.97,Dialogue,,0,0,0,,And all that stuff about destroying Handlers is a lie, right?
+Dialogue: 99,0:09:36.97,0:09:40.14,Dialogue,,0,0,0,,I bet they were slacking and wanted an easy excuse.
+Dialogue: 99,0:09:40.14,0:09:42.35,Dialogue,,0,0,0,,It's true that some of them committed suicide.
+Dialogue: 99,0:09:43.48,0:09:49.19,Dialogue,,0,0,0,,One of Spearhead's Handlers went crazy and blew his head off with a shotgun.
+Dialogue: 99,0:09:49.57,0:09:52.45,Dialogue,,0,0,0,,All right, the checkup's done. No problems, as usual.
+Dialogue: 99,0:09:52.99,0:09:54.16,Dialogue,,0,0,0,,Thank you for your cooperation.
+Dialogue: 99,0:09:56.20,0:09:58.41,Dialogue,,0,0,0,,But why suicide?
+Dialogue: 99,0:09:58.41,0:10:00.25,Dialogue,,0,0,0,,Naturally, we were asked to investigate.
+Dialogue: 99,0:10:00.58,0:10:02.75,Dialogue,,0,0,0,,They thought that it might be a problem with the Para-RAID.
+Dialogue: 99,0:10:02.75,0:10:06.75,Dialogue,,0,0,0,,Transfers aren't a big deal, but we can't ignore suicides.
+Dialogue: 99,0:10:07.09,0:10:08.25,Dialogue,,0,0,0,,What did you find?
+Dialogue: 99,0:10:08.25,0:10:08.96,Dialogue,,0,0,0,,Who knows.
+Dialogue: 99,0:10:09.21,0:10:10.34,Dialogue,,0,0,0,,You don't know?
+Dialogue: 99,0:10:10.34,0:10:14.18,Dialogue,,0,0,0,,The Handler was dead. \NHow were we supposed to investigate it?
+Dialogue: 99,0:10:14.51,0:10:17.14,Dialogue,,0,0,0,,You're the leader of the development team. \NIs that really okay?
+Dialogue: 99,0:10:17.14,0:10:18.85,Dialogue,,0,0,0,,We did our jobs.
+Dialogue: 99,0:10:18.85,0:10:22.35,Dialogue,,0,0,0,,There was nothing wrong with the RAID Device. End of story.
+Dialogue: 99,0:10:22.35,0:10:26.40,Dialogue,,0,0,0,,We told them that if they wanted to know more, \Nthey'd have to bring us Undertaker.
+Dialogue: 99,0:10:26.86,0:10:32.28,Dialogue,,0,0,0,,But those idiots in Transport said, "This flight has no seats open for pigs!"
+Dialogue: 99,0:10:33.45,0:10:35.91,Dialogue,,0,0,0,,So, you didn't talk to Undertaker?
+Dialogue: 99,0:10:35.91,0:10:37.20,Dialogue,,0,0,0,,We just read their report.
+Dialogue: 99,0:10:37.20,0:10:39.41,Dialogue,,0,0,0,,"No idea," they said.
+Dialogue: 99,0:10:39.41,0:10:43.21,Dialogue,,0,0,0,,We told them about the dead Handler, \Nand all they said was, "I see."
+Dialogue: 99,0:10:43.21,0:10:45.33,Dialogue,,0,0,0,,Well, they're Eighty-Six.
+Dialogue: 99,0:10:46.00,0:10:50.46,Dialogue,,0,0,0,,It's within the realm of possibility that using a Para-RAID could lead to insanity.
+Dialogue: 99,0:10:50.46,0:10:54.63,Dialogue,,0,0,0,,It puts a lot of extra load on the brain to share sensory data with another person.
+Dialogue: 99,0:10:54.97,0:10:58.05,Dialogue,,0,0,0,,And even now, we're only sharing the sense of hearing.
+Dialogue: 99,0:10:58.05,0:11:01.22,Dialogue,,0,0,0,,If you tried synchronizing vision as well, \Nyour brain just wouldn't hold up.
+Dialogue: 99,0:11:01.22,0:11:04.27,Dialogue,,0,0,0,,Put too much load on the brain, and you don't come back.
+Dialogue: 99,0:11:04.73,0:11:08.90,Dialogue,,0,0,0,,Using the Para-RAID means accepting those risks.
+Dialogue: 99,0:11:11.61,0:11:15.49,Dialogue,,0,0,0,,But your father was one of the pioneers in this field of research.
+Dialogue: 99,0:11:15.49,0:11:18.66,Dialogue,,0,0,0,,All of the core principles were developed by someone else.
+Dialogue: 99,0:11:19.07,0:11:21.83,Dialogue,,0,0,0,,In truth, there's a lot I still don't understand.
+Dialogue: 99,0:11:23.12,0:11:26.33,Dialogue,,0,0,0,,Lena, you really should join us in R&D.
+Dialogue: 99,0:11:26.33,0:11:29.08,Dialogue,,0,0,0,,The military's just an unemployment relief right now.
+Dialogue: 99,0:11:29.08,0:11:31.05,Dialogue,,0,0,0,,When the Legion shuts down in two years,
+Dialogue: 99,0:11:31.05,0:11:33.76,Dialogue,,0,0,0,,"former military personnel" isn't going to mean a thing on your résumé.
+Dialogue: 99,0:11:34.51,0:11:35.67,Dialogue,,0,0,0,,Thanks.
+Dialogue: 99,0:11:35.67,0:11:37.22,Dialogue,,0,0,0,,But we're at war right now.
+Dialogue: 99,0:11:37.22,0:11:39.64,Dialogue,,0,0,0,,Those Processors are crazy!
+Dialogue: 99,0:11:39.64,0:11:41.97,Dialogue,,0,0,0,,We don't even know the long-term effects of Para-RAIDs.
+Dialogue: 99,0:11:41.97,0:11:44.85,Dialogue,,0,0,0,,The Eighty-Six die quickly, \Nso the long term doesn't matter.
+Dialogue: 99,0:11:44.85,0:11:46.52,Dialogue,,0,0,0,,But I don't want that for you.
+Dialogue: 99,0:11:46.52,0:11:49.06,Dialogue,,0,0,0,,Still, it's cowardly.
+Dialogue: 99,0:11:51.52,0:11:52.65,Dialogue,,0,0,0,,Right, right.
+Dialogue: 99,0:11:54.78,0:11:56.57,Dialogue,,0,0,0,,You really are weird.
+Dialogue: 99,0:11:59.20,0:12:01.03,Dialogue,,0,0,0,,I modified the settings.
+Dialogue: 99,0:12:01.49,0:12:02.20,Dialogue,,0,0,0,,Thanks.
+Dialogue: 99,0:12:02.20,0:12:05.16,Dialogue,,0,0,0,,Oh, Lena! I made chiffon cake.
+Dialogue: 99,0:12:05.16,0:12:06.46,Dialogue,,0,0,0,,Want some?
+Dialogue: 99,0:12:06.46,0:12:09.50,Dialogue,,0,0,0,,I'll pass for today.
+Dialogue: 99,0:12:09.50,0:12:10.25,Dialogue,,0,0,0,,See you later.
+Dialogue: 99,0:12:10.25,0:12:12.34,Dialogue,,0,0,0,,I used real eggs.
+Dialogue: 99,0:12:14.96,0:12:16.05,Dialogue,,0,0,0,,And real milk.
+Dialogue: 99,0:12:19.26,0:12:20.97,Dialogue,,0,0,0,,It's so good!
+Dialogue: 99,0:12:22.10,0:12:24.60,Dialogue,,0,0,0,,How's it feel to actually eat the real thing for once?
+Dialogue: 99,0:12:24.60,0:12:26.02,Dialogue,,0,0,0,,It's wonderful!
+Dialogue: 99,0:12:26.02,0:12:28.60,Dialogue,,0,0,0,,But part of me wonders if this is how it really tasted.
+Dialogue: 99,0:12:29.44,0:12:32.23,Dialogue,,0,0,0,,You forget when you eat only artificial stuff.
+Dialogue: 99,0:12:33.11,0:12:35.19,Dialogue,,0,0,0,,I've got cream puffs, too.
+Dialogue: 99,0:12:36.15,0:12:39.45,Dialogue,,0,0,0,,They don't taste like cheese when they don't have cheese in them,
+Dialogue: 99,0:12:39.45,0:12:42.49,Dialogue,,0,0,0,,or look like they're about to spit out black smoke, right?
+Dialogue: 99,0:12:42.49,0:12:47.12,Dialogue,,0,0,0,,Are you talking about the cream puffs I made last time?
+Dialogue: 99,0:12:50.42,0:12:51.83,Dialogue,,0,0,0,,It'll be fine this time!
+Dialogue: 99,0:12:52.21,0:12:56.01,Dialogue,,0,0,0,,I gave some to a potential marriage partner yesterday, and he cried tears of joy.
+Dialogue: 99,0:12:56.01,0:12:58.09,Dialogue,,0,0,0,,Sounds like you got a good match for once.
+Dialogue: 99,0:12:58.09,0:13:00.30,Dialogue,,0,0,0,,He must've really loved it.
+Dialogue: 99,0:13:00.30,0:13:01.64,Dialogue,,0,0,0,,Of course!
+Dialogue: 99,0:13:01.64,0:13:07.02,Dialogue,,0,0,0,,I also gave him a card with a lipstick kiss and the words, "To my beloved."
+Dialogue: 99,0:13:07.02,0:13:09.85,Dialogue,,0,0,0,,I dropped them off at the place where he's living with his mistress.
+Dialogue: 99,0:13:16.40,0:13:18.03,Dialogue,,0,0,0,,{\an8}What's wrong, Pleiades?
+Dialogue: 99,0:13:18.03,0:13:19.36,Dialogue,,0,0,0,,{\an8}Please respond!
+Dialogue: 99,0:13:19.36,0:13:21.28,Dialogue,,0,0,0,,What's wrong?
+Dialogue: 99,0:13:21.28,0:13:22.87,Dialogue,,0,0,0,,Handler One to Pleiades!
+Dialogue: 99,0:13:22.87,0:13:23.87,Dialogue,,0,0,0,,Enough already.
+Dialogue: 99,0:13:24.87,0:13:26.16,Dialogue,,0,0,0,,He's dead!
+Dialogue: 99,0:13:33.79,0:13:35.71,Dialogue,,0,0,0,,Pull back! Evasive maneuvers!
+Dialogue: 99,0:13:35.71,0:13:37.34,Dialogue,,0,0,0,,Damn it!
+Dialogue: 99,0:13:38.96,0:13:41.63,Dialogue,,0,0,0,,Handler One to all members of the third squadron:
+Dialogue: 99,0:13:42.55,0:13:45.26,Dialogue,,0,0,0,,Enemy forces have begun their retreat.
+Dialogue: 99,0:13:45.26,0:13:48.02,Dialogue,,0,0,0,,The fourth squadron will take over the patrol.
+Dialogue: 99,0:13:48.39,0:13:51.31,Dialogue,,0,0,0,,Return to base.
+Dialogue: 99,0:13:51.31,0:13:52.35,Dialogue,,0,0,0,,Roger.
+Dialogue: 99,0:13:55.11,0:13:58.40,Dialogue,,0,0,0,,Pleiades and the other six who died...
+Dialogue: 99,0:13:59.94,0:14:02.40,Dialogue,,0,0,0,,I'm so sorry about them.
+Dialogue: 99,0:14:03.99,0:14:08.83,Dialogue,,0,0,0,,Always... Always with the kind words, Handler One.
+Dialogue: 99,0:14:11.08,0:14:12.62,Dialogue,,0,0,0,,Just so you're aware,
+Dialogue: 99,0:14:12.62,0:14:18.05,Dialogue,,0,0,0,,the third squadron will be assigned a new Handler.
+Dialogue: 99,0:14:18.88,0:14:20.88,Dialogue,,0,0,0,,Thank you for everything.
+Dialogue: 99,0:14:23.47,0:14:27.10,Dialogue,,0,0,0,,I'm going to be the commanding officer for the Spearhead Squadron.
+Dialogue: 99,0:14:28.06,0:14:30.06,Dialogue,,0,0,0,,That's great news.
+Dialogue: 99,0:14:31.02,0:14:34.19,Dialogue,,0,0,0,,Eager to see you out, Handler One. My utmost sympathies.
+Dialogue: 99,0:14:34.19,0:14:35.19,Dialogue,,0,0,0,,What does that mean—
+Dialogue: 99,0:14:35.19,0:14:36.69,Dialogue,,0,0,0,,Give the Reaper my regards.
+Dialogue: 99,0:15:01.05,0:15:02.92,Dialogue,,0,0,0,,Para-RAID, activate.
+Dialogue: 99,0:15:04.34,0:15:05.51,Dialogue,,0,0,0,,Synchronization target:
+Dialogue: 99,0:15:10.51,0:15:13.35,Dialogue,,0,0,0,,Spearhead Processors.
+Dialogue: 99,0:15:45.26,0:15:46.80,Dialogue,,0,0,0,,Nice, man!
+Dialogue: 99,0:15:48.93,0:15:51.81,Dialogue,,0,0,0,,Guys, start cleaning already—
+Dialogue: 99,0:15:59.69,0:16:01.57,Dialogue,,0,0,0,,Sounds like they're having a good time.
+Dialogue: 99,0:16:01.57,0:16:02.73,Dialogue,,0,0,0,,The same goes for them.
+Dialogue: 99,0:16:02.73,0:16:05.36,Dialogue,,0,0,0,,Wait! Wait up!
+Dialogue: 99,0:16:08.78,0:16:10.41,Dialogue,,0,0,0,,Eggs!
+Dialogue: 99,0:16:13.45,0:16:14.62,Dialogue,,0,0,0,,Welcome back.
+Dialogue: 99,0:16:17.54,0:16:18.33,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:16:20.79,0:16:22.21,Dialogue,,0,0,0,,Hey, lend me a hand.
+Dialogue: 99,0:16:22.54,0:16:23.84,Dialogue,,0,0,0,,Coming.
+Dialogue: 99,0:16:27.72,0:16:28.72,Dialogue,,0,0,0,,And, done!
+Dialogue: 99,0:16:30.01,0:16:31.89,Dialogue,,0,0,0,,Thanks for all the hard work, man!
+Dialogue: 99,0:16:31.89,0:16:33.85,Dialogue,,0,0,0,,It's "thank you, sir!"
+Dialogue: 99,0:16:53.95,0:16:57.62,Dialogue,,0,0,0,,Members of Spearhead, it's breakfast time!
+Dialogue: 99,0:16:58.21,0:16:59.50,Dialogue,,0,0,0,,Gather round!
+Dialogue: 99,0:16:59.50,0:17:01.04,Dialogue,,0,0,0,,Right, right.
+Dialogue: 99,0:17:01.04,0:17:01.96,Dialogue,,0,0,0,,Coming, coming.
+Dialogue: 99,0:17:01.96,0:17:04.80,Dialogue,,0,0,0,,Morning! Morning!
+Dialogue: 99,0:17:04.80,0:17:05.67,Dialogue,,0,0,0,,Morning.
+Dialogue: 99,0:17:13.80,0:17:15.97,Dialogue,,0,0,0,,Let's eat!
+Dialogue: 99,0:17:15.97,0:17:17.72,Dialogue,,0,0,0,,There're more omelets.
+Dialogue: 99,0:17:17.72,0:17:18.73,Dialogue,,0,0,0,,Seconds!
+Dialogue: 99,0:17:18.73,0:17:20.06,Dialogue,,0,0,0,,Calm down.
+Dialogue: 99,0:17:20.06,0:17:22.27,Dialogue,,0,0,0,,Can't you savor your food?
+Dialogue: 99,0:17:22.27,0:17:23.90,Dialogue,,0,0,0,,Is it good, Kuro?
+Dialogue: 99,0:17:23.90,0:17:24.73,Dialogue,,0,0,0,,Very.
+Dialogue: 99,0:17:26.32,0:17:30.03,Dialogue,,0,0,0,,Hey, didn't our Handler go crazy again?
+Dialogue: 99,0:17:30.03,0:17:31.95,Dialogue,,0,0,0,,The one in the battle yesterday?
+Dialogue: 99,0:17:31.95,0:17:33.78,Dialogue,,0,0,0,,He's done for.
+Dialogue: 99,0:17:33.78,0:17:36.70,Dialogue,,0,0,0,,Didn't you hear him?
+Dialogue: 99,0:17:36.70,0:17:39.08,Dialogue,,0,0,0,,"Stay away! Hey, stop!"
+Dialogue: 99,0:17:41.71,0:17:43.33,Dialogue,,0,0,0,,Cut it out, guys.
+Dialogue: 99,0:17:44.04,0:17:47.84,Dialogue,,0,0,0,,Those white pigs sure are irredeemable.
+Dialogue: 99,0:17:48.46,0:17:51.59,Dialogue,,0,0,0,,It doesn't matter who it is, it's always the same in the end.
+Dialogue: 99,0:17:51.59,0:17:52.43,Dialogue,,0,0,0,,Right?
+Dialogue: 99,0:17:52.72,0:17:57.43,Dialogue,,0,0,0,,But everyone made it back yesterday, right, Shin?
+Dialogue: 99,0:17:58.27,0:18:00.60,Dialogue,,0,0,0,,Yeah, that's right.
+Dialogue: 99,0:18:03.15,0:18:05.44,Dialogue,,0,0,0,,Well, if we're going to die anyway,
+Dialogue: 99,0:18:05.44,0:18:09.44,Dialogue,,0,0,0,,we'd rather have our Reaper guide us.
+Dialogue: 99,0:18:12.78,0:18:14.74,Dialogue,,0,0,0,,What now?
+Dialogue: 99,0:18:15.49,0:18:16.37,Dialogue,,0,0,0,,Here.
+Dialogue: 99,0:18:36.85,0:18:39.01,Dialogue,,0,0,0,,Fuck, that hurts...
+Dialogue: 99,0:18:39.01,0:18:41.10,Dialogue,,0,0,0,,Damn it!
+Dialogue: 99,0:18:41.10,0:18:45.35,Dialogue,,0,0,0,,Damn it all!
+Dialogue: 99,0:19:14.30,0:19:17.14,Dialogue,,0,0,0,,I don't want to die.
+Dialogue: 99,0:19:40.20,0:19:41.28,Dialogue,,0,0,0,,Shin...
+Dialogue: 99,0:19:46.16,0:19:47.62,Dialogue,,0,0,0,,Our promise...
+Dialogue: 99,0:19:49.75,0:19:51.88,Dialogue,,0,0,0,,Don't forget...
+Dialogue: 99,0:20:22.12,0:20:25.12,Dialogue,,0,0,0,,Has Kujo moved on?
+Dialogue: 99,0:20:25.12,0:20:25.83,Dialogue,,0,0,0,,Yeah.
+Dialogue: 99,0:20:26.79,0:20:28.04,Dialogue,,0,0,0,,And your brother's voice?
+Dialogue: 99,0:20:29.17,0:20:29.79,Dialogue,,0,0,0,,Not yet.
+Dialogue: 99,0:20:30.46,0:20:31.33,Dialogue,,0,0,0,,I see.
+Dialogue: 99,0:20:54.61,0:20:56.32,Dialogue,,0,0,0,,There's none left.
+Dialogue: 99,0:20:58.15,0:20:59.65,Dialogue,,0,0,0,,You suck.
+Dialogue: 99,0:20:59.65,0:21:00.61,Dialogue,,0,0,0,,I win!
+Dialogue: 99,0:21:22.55,0:21:26.35,Dialogue,,0,0,0,,Handler One to all Spearhead units:
+Dialogue: 99,0:21:26.85,0:21:31.73,Dialogue,,0,0,0,,Greetings. I will be serving as your commanding officer.
+Dialogue: 99,0:21:31.73,0:21:32.98,Dialogue,,0,0,0,,A woman?
+Dialogue: 99,0:21:33.06,0:21:36.53,Dialogue,,0,0,0,,I've contacted you tonight to introduce myself.
+Dialogue: 99,0:21:40.36,0:21:41.99,Dialogue,,0,0,0,,Hello, Handler One.
+Dialogue: 99,0:21:42.45,0:21:45.03,Dialogue,,0,0,0,,This is the captain of the Spearhead Squadron.
+Dialogue: 99,0:21:45.03,0:21:47.66,Dialogue,,0,0,0,,Personal Name: Undertaker.
+Dialogue: 99,0:21:47.95,0:21:51.08,Dialogue,,0,0,0,,We've received word of the Handler change.
+Dialogue: 99,0:21:51.08,0:21:52.67,Dialogue,,0,0,0,,We look forward to working with you.
+Dialogue: 99,0:21:54.92,0:21:56.25,Dialogue,,0,0,0,,As do I.
+Dialogue: 99,0:21:56.71,0:22:00.09,Dialogue,,0,0,0,,Nice to meet you, Undertaker.
+Dialogue: 99,0:23:36.44,0:23:37.77,Dialogue,,0,0,0,,Spearhead.
 Dialogue: 0,0:01:35.07,0:01:38.08,Signs,,0,0,0,,{\an2\pos(960,930)\fnNewCinemaB Std D\fscx90\fs80\fsp2\bord2\1a&HFF&\3a&H30&\blur5\b0}May 13th, Stellar Year 2148
 Dialogue: 1,0:01:35.07,0:01:38.08,Signs,,0,0,0,,{\an2\pos(960,930)\fnNewCinemaB Std D\fscx90\fs80\fsp2\bord1\c&H000000&\blur0.5\b0}May 13th, Stellar Year 2148
 Dialogue: 2,0:01:35.07,0:01:38.08,Signs,,0,0,0,,{\an2\pos(960,930)\fnNewCinemaB Std D\fs80\\fscx90\fsp2\blur0.5\b0}May 13th, Stellar Year 2148

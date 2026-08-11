@@ -32,386 +32,386 @@ Style: ED TL,Arial,70,&H00DC9AFE,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.61,0:00:04.11,Dialogue,,0,0,0,,Cineva a spus cândva:
-Dialogue: 100,0:00:05.44,0:00:06.86,Dialogue,,0,0,0,,„Iubirea este...
-Dialogue: 100,0:00:07.57,0:00:10.44,Dialogue,,0,0,0,,sursa de putere a unei fete.”
-Dialogue: 100,0:01:43.65,0:01:45.27,Dialogue,,0,0,0,,U-Un iubit?!
-Dialogue: 100,0:01:45.98,0:01:49.07,Dialogue,,0,0,0,,N-Nu cred că sunt pregătită să am unul...
-Dialogue: 100,0:01:49.44,0:01:52.32,Dialogue,,0,0,0,,Ce ar trebui să facă o liceană dacă nu să se îndrăgostească?
-Dialogue: 100,0:01:52.69,0:01:55.52,Dialogue,,0,0,0,,Iubirea e sursa de putere a unei fete, știi?
-Dialogue: 100,0:01:55.94,0:01:58.94,Dialogue,,0,0,0,,Natsuki chiar e grozavă.
-Dialogue: 100,0:01:59.23,0:02:04.98,Dialogue,,0,0,0,,E frumoasă precum o păpușă, are o inimă pură și interacționează la fel cu toată lumea...
-Dialogue: 100,0:02:04.98,0:02:06.11,Dialogue,,0,0,0,,E un adevărat înger!
-Dialogue: 100,0:02:06.11,0:02:08.82,Dialogue,,0,0,0,,Am auzit că o altă școală au creat un fanclub pentru ea.
-Dialogue: 100,0:02:08.98,0:02:13.90,Dialogue,,0,0,0,,E destul de evident că Natsuki va câștiga concursul de frumusețe al festivalului școlii din acest an, nu?
-Dialogue: 100,0:02:13.90,0:02:15.90,Dialogue,,0,0,0,,Nu prea știu ce să zic despre asta.
-Dialogue: 100,0:02:16.11,0:02:18.57,Dialogue,,0,0,0,,Mie-mi place mai mult de Itsuyo.
-Dialogue: 100,0:02:18.57,0:02:21.52,Dialogue,,0,0,0,,A devenit președinta consiliului elevilor imediat cum a fost admisă!
-Dialogue: 100,0:02:21.52,0:02:23.61,Dialogue,,0,0,0,,E foarte frumoasă! Și carismatică!
-Dialogue: 100,0:02:23.61,0:02:26.15,Dialogue,,0,0,0,,Nu există niciun băiat care să nu se îndrăgostească de ea!
-Dialogue: 100,0:02:26.40,0:02:27.82,Dialogue,,0,0,0,,Vreau să fiu legat de ea!
-Dialogue: 100,0:02:28.36,0:02:31.65,Dialogue,,0,0,0,,If you wanna talk about popular,\NMutsumi-chan in class C is tops!
-Dialogue: 100,0:02:31.65,0:02:34.27,Dialogue,,0,0,0,,She's the latest up-and-coming idol!
-Dialogue: 100,0:02:34.27,0:02:38.02,Dialogue,,0,0,0,,Just once, I want to try to talk with her,\Neven though she rarely comes to school!
-Dialogue: 100,0:02:38.48,0:02:41.57,Dialogue,,0,0,0,,Hey, you guys are in the same class\Nas Natsuki-chan, so support her!
-Dialogue: 100,0:02:41.57,0:02:42.65,Dialogue,,0,0,0,,Mutsumi!
-Dialogue: 100,0:02:42.65,0:02:43.57,Dialogue,,0,0,0,,Itsuyo!
-Dialogue: 100,0:02:43.57,0:02:44.40,Dialogue,,0,0,0,,Oribil.
-Dialogue: 100,0:02:44.40,0:02:46.61,Dialogue,,0,0,0,,Văd că ești la fel de \Npopulară ca întotdeauna...
-Dialogue: 100,0:02:46.61,0:02:48.44,Dialogue,,0,0,0,,Crezi că vei câștiga?
-Dialogue: 100,0:02:49.15,0:02:51.73,Dialogue,,0,0,0,,Nu sunt interesată deloc \Nde concursul de frumusețe.
-Dialogue: 100,0:02:51.73,0:02:54.82,Dialogue,,0,0,0,,Sau mai bine spus, \Nnu-mi place să atrag atenția...
-Dialogue: 100,0:02:56.73,0:02:58.36,Dialogue,,0,0,0,,Evident că nu.
-Dialogue: 100,0:02:58.36,0:03:01.82,Dialogue,,0,0,0,,Between the two of you, you'd get\Nthe booby prize in the chest department!
-Dialogue: 100,0:03:02.52,0:03:05.15,Dialogue,,0,0,0,,H-Hei! Nu mă atinge acolo!
-Dialogue: 100,0:03:05.15,0:03:07.52,Dialogue,,0,0,0,,{\an8}Haide, nu e ca și cum se vor \Nmicșora dacă mă joc cu ei.
-Dialogue: 100,0:03:06.61,0:03:08.63,Dialogue,,0,0,0,,Î-Îmi sângerează nasul...
-Dialogue: 100,0:03:11.65,0:03:13.65,Dialogue,,0,0,0,,U-Un demon!
-Dialogue: 100,0:03:13.65,0:03:16.11,Dialogue,,0,0,0,,V-Vreau să spun, Akutsu Takuma.
-Dialogue: 100,0:03:16.11,0:03:17.57,Dialogue,,0,0,0,,S-S-a întâmplat ceva?
-Dialogue: 100,0:03:19.69,0:03:21.19,Dialogue,,0,0,0,,Î-Îmi cer scuze.
-Dialogue: 100,0:03:21.19,0:03:23.98,Dialogue,,0,0,0,,Făceam prea multă gălăgie, nu?
-Dialogue: 100,0:03:24.23,0:03:26.23,Dialogue,,0,0,0,,Așa că... e-ei bine...
-Dialogue: 100,0:03:27.82,0:03:29.23,Dialogue,,0,0,0,,Nu m-ați deranjat sau ceva...
-Dialogue: 100,0:03:29.52,0:03:31.40,Dialogue,,0,0,0,,Te rog să mă cruți!
-Dialogue: 100,0:03:31.61,0:03:33.48,Dialogue,,0,0,0,,Yamada a căzut pe fereastră!
-Dialogue: 100,0:03:35.61,0:03:37.44,Dialogue,,0,0,0,,A câta oară e când se \Nîntâmpla asta astăzi?
-Dialogue: 100,0:03:37.44,0:03:40.69,Dialogue,,0,0,0,,There's an ambulance on standby\Noutside of the main gate.
-Dialogue: 100,0:03:39.98,0:03:40.69,Dialogue,,0,0,0,,{\an8}Ce?
-Dialogue: 100,0:03:41.11,0:03:42.48,Dialogue,,0,0,0,,Mai încet!
-Dialogue: 100,0:03:42.48,0:03:45.57,Dialogue,,0,0,0,,Don't just stand there yammerin' away to...
-Dialogue: 100,0:03:45.90,0:03:47.11,Dialogue,,0,0,0,,Un demon?!
-Dialogue: 100,0:03:47.36,0:03:51.23,Dialogue,,0,0,0,,Adică, Akutsu, ai făcut-o din nou?
-Dialogue: 100,0:03:53.57,0:03:56.73,Dialogue,,0,0,0,,Înțeleg! Doar am înțeles eu greșit, nu?
-Dialogue: 100,0:03:56.73,0:03:58.94,Dialogue,,0,0,0,,Atunci, voi pleca!
-Dialogue: 100,0:04:04.61,0:04:07.27,Dialogue,,0,0,0,,A fost așa de înfricoșător. \NCredeam că-i va rupe capul!
-Dialogue: 100,0:04:07.27,0:04:09.90,Dialogue,,0,0,0,,That Akuma guy's just having a free for all today.
-Dialogue: 100,0:04:09.90,0:04:14.48,Dialogue,,0,0,0,,Crezi că el e vinovatul pentru incidentele în serie cu demoni?
-Dialogue: 100,0:04:14.61,0:04:16.90,Dialogue,,0,0,0,,Incidentele în serie cu demoni...
-Dialogue: 100,0:04:17.57,0:04:20.15,Dialogue,,0,0,0,,Chestiile care tot apar \Nla știri în ultima vreme?
-Dialogue: 100,0:04:20.15,0:04:24.23,Dialogue,,0,0,0,,Un tip purtând o mască de \Ndemon a atacat pietonii!
-Dialogue: 100,0:04:24.23,0:04:26.11,Dialogue,,0,0,0,,Cred că el e făptașul.
-Dialogue: 100,0:04:26.11,0:04:29.27,Dialogue,,0,0,0,,Se zvonește că se aud mai multe voci venind din casa lui, deși trăiește de unul singur!
-Dialogue: 100,0:04:29.27,0:04:30.15,Dialogue,,0,0,0,,Înfiorător!
-Dialogue: 100,0:04:31.02,0:04:34.36,Dialogue,,0,0,0,,Natsuki, și tu ar trebui să \Nstai la distanță de acel tip...
-Dialogue: 100,0:04:34.69,0:04:36.82,Dialogue,,0,0,0,,Natsuki, s-a întâmplat ceva?
-Dialogue: 100,0:04:38.57,0:04:40.61,Dialogue,,0,0,0,,Nu, totul e în regulă.
-Dialogue: 100,0:04:44.15,0:04:45.15,Dialogue,,0,0,0,,E așa un ciudat.
-Dialogue: 100,0:04:45.15,0:04:46.19,Dialogue,,0,0,0,,E Demonul Takuma.
-Dialogue: 100,0:04:46.19,0:04:48.23,Dialogue,,0,0,0,,Ce carte citește?
-Dialogue: 100,0:04:48.44,0:04:50.73,Dialogue,,0,0,0,,Ar trebui să dispară pur și simplu.
-Dialogue: 100,0:04:50.98,0:04:52.61,Dialogue,,0,0,0,,Hei, te poate auzi.
-Dialogue: 100,0:04:52.61,0:04:54.44,Dialogue,,0,0,0,,Dar e numai vina lui...
-Dialogue: 100,0:04:56.98,0:04:58.82,Dialogue,,0,0,0,,What might all this commotion be?
-Dialogue: 100,0:04:59.40,0:05:02.07,Dialogue,,0,0,0,,Student Council President, it's that guy.
-Dialogue: 100,0:05:02.07,0:05:04.48,Dialogue,,0,0,0,,It looks like Akuma is causing problems again.
-Dialogue: 100,0:05:04.48,0:05:04.77,Subtitle-2,,0,0,0,,It's the Student Council President!\N{\rDialogue}It looks like Akuma is causing problems again.{\r}
-Dialogue: 100,0:05:04.77,0:05:05.32,Subtitle-2,,0,0,0,,It's the Student Council President!
-Dialogue: 100,0:05:05.32,0:05:06.73,Subtitle-2,,0,0,0,,She's so cool!\N{\rDialogue}Since the school festival is coming up,{\r}
-Dialogue: 100,0:05:06.73,0:05:07.36,Dialogue,,0,0,0,,Since the school festival is coming up,
-Dialogue: 100,0:05:07.36,0:05:10.15,Dialogue,,0,0,0,,I thought it'd be awful if we had\Neven more problems come up now.
-Dialogue: 100,0:05:12.77,0:05:14.65,Dialogue,,0,0,0,,You mustn't do that, Matsumura-san.
-Dialogue: 100,0:05:14.65,0:05:15.52,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:05:15.52,0:05:19.98,Dialogue,,0,0,0,,This is something that can only be corrected by\Nthe student council at that time.
-Dialogue: 100,0:05:20.40,0:05:24.15,Dialogue,,0,0,0,,The student council must not be the chain\Nby which the students are tied down.
-Dialogue: 100,0:05:24.40,0:05:28.73,Dialogue,,0,0,0,,For the sake of the students and\Nthe academy, let's all do our best...
-Dialogue: 100,0:05:30.19,0:05:32.65,Dialogue,,0,0,0,,Vice President Matsumura.
-Dialogue: 100,0:05:35.15,0:05:38.02,Dialogue,,0,0,0,,Lovely... the Student Council President is just so lovely!
-Dialogue: 100,0:05:38.02,0:05:41.61,Dialogue,,0,0,0,,I'm definitely voting for her in the beauty contest!
-Dialogue: 100,0:05:43.94,0:05:47.73,Dialogue,,0,0,0,,Besides, I don't think that person is an akuma.
-Dialogue: 100,0:05:48.48,0:05:52.86,Dialogue,,0,0,0,,He looks more like a cowardly child.
-Dialogue: 100,0:05:54.23,0:05:56.19,Dialogue,,0,0,0,,Scary... Is that an akuma?
-Dialogue: 100,0:05:56.19,0:05:57.23,Dialogue,,0,0,0,,He's looking over here!
-Dialogue: 100,0:05:57.23,0:05:59.48,Dialogue,,0,0,0,,Let's go so we don't get involved in those incidents.
-Dialogue: 100,0:06:03.61,0:06:08.32,Dialogue,,0,0,0,,I'm not an akuma at all, though.
-Dialogue: 100,0:06:09.23,0:06:13.86,Dialogue,,0,0,0,,This "Akuma" is Takuma Akutsu, 16,\Nwho was once a normal boy.
-Dialogue: 100,0:06:14.48,0:06:15.73,Dialogue,,0,0,0,,True, however...
-Dialogue: 100,0:06:15.73,0:06:18.52,Dialogue,,0,0,0,,Hey c'mon, let's play dodge ball!
-Dialogue: 100,0:06:18.98,0:06:20.69,Dialogue,,0,0,0,,Uh... With you, Akutsu-kun?
-Dialogue: 100,0:06:20.69,0:06:22.73,Dialogue,,0,0,0,,Sorry, I'm kinda scared to.
-Dialogue: 100,0:06:22.90,0:06:26.73,Dialogue,,0,0,0,,Due to his intimidating air, everyone has been\Nscared of him since early childhood.
-Dialogue: 100,0:06:26.73,0:06:29.52,Dialogue,,0,0,0,,Everyone that approached him was like that.
-Dialogue: 100,0:06:29.52,0:06:30.98,Dialogue,,0,0,0,,Why the hell you lookin' at us like that?!
-Dialogue: 100,0:06:30.98,0:06:32.73,Dialogue,,0,0,0,,You tryin' to pick a fight, fool?!
-Dialogue: 100,0:06:32.73,0:06:38.36,Dialogue,,0,0,0,,As a result, he stopped directly interacting\Nwith others and developed a phobia of humans.
-Dialogue: 100,0:06:39.27,0:06:43.69,Dialogue,,0,0,0,,Just like earlier when I stood up a little,\Nthey'd get surprised and fall out of the window.
-Dialogue: 100,0:06:43.69,0:06:46.98,Dialogue,,0,0,0,,And even when I want to deny it,\NI'm so petrified I can't say anything.
-Dialogue: 100,0:06:46.98,0:06:48.23,Dialogue,,0,0,0,,I'm sick of this.
-Dialogue: 100,0:06:48.77,0:06:52.65,Dialogue,,0,0,0,,Today's guest is the currently\Ninsanely popular Mutsumi-chan!
-Dialogue: 100,0:06:52.98,0:06:55.77,Dialogue,,0,0,0,,You've been so busy lately you don't even\Nhave time to hang out with friends, right?
-Dialogue: 100,0:06:55.77,0:06:57.77,Dialogue,,0,0,0,,That isn't true!
-Dialogue: 100,0:06:58.02,0:07:00.52,Dialogue,,0,0,0,,Our high school campus festival is coming up soon,
-Dialogue: 100,0:07:00.52,0:07:02.77,Dialogue,,0,0,0,,and I've been really looking forward to it!
-Dialogue: 100,0:07:02.98,0:07:05.98,Dialogue,,0,0,0,,I promised my friends that I'd\Nwalk around with them there.
-Dialogue: 100,0:07:05.98,0:07:09.77,Dialogue,,0,0,0,,About the culture festival, Mutsumi-chan,\Nwill you be in charge of any of the events there?
-Dialogue: 100,0:07:10.77,0:07:14.15,Dialogue,,0,0,0,,I don't need any friends.
-Dialogue: 100,0:07:14.15,0:07:16.44,Dialogue,,0,0,0,,I sincerely believe that.
-Dialogue: 100,0:07:16.90,0:07:19.48,Dialogue,,0,0,0,,As long as I have that one thing, I'm okay.
-Dialogue: 100,0:07:19.48,0:07:20.90,Dialogue,,0,0,0,,What I need is...
-Dialogue: 100,0:07:22.36,0:07:23.77,Dialogue,,0,0,0,,my studies!
-Dialogue: 100,0:07:27.65,0:07:29.07,Dialogue,,0,0,0,,I got this correct.
-Dialogue: 100,0:07:29.77,0:07:31.27,Dialogue,,0,0,0,,This is correct, too.
-Dialogue: 100,0:07:31.27,0:07:32.27,Dialogue,,0,0,0,,What do we do?
-Dialogue: 100,0:07:32.27,0:07:33.90,Dialogue,,0,0,0,,Like I would know...
-Dialogue: 100,0:07:33.90,0:07:35.44,Dialogue,,0,0,0,,And these, too.
-Dialogue: 100,0:07:35.44,0:07:36.90,Dialogue,,0,0,0,,We should go to the police!
-Dialogue: 100,0:07:36.90,0:07:38.61,Dialogue,,0,0,0,,But he's just sitting there.
-Dialogue: 100,0:07:39.07,0:07:40.65,Dialogue,,0,0,0,,Correct!
-Dialogue: 100,0:07:40.77,0:07:42.57,Dialogue,,0,0,0,,Akuma!
-Dialogue: 100,0:07:43.86,0:07:47.48,Dialogue,,0,0,0,,Jeez, they almost gave me a heart attack\Nwith all the sudden shouting.
-Dialogue: 100,0:07:47.77,0:07:49.52,Dialogue,,0,0,0,,Hello, is this the police?!
-Dialogue: 100,0:07:49.52,0:07:52.15,Dialogue,,0,0,0,,There's an Akuma engrossed in\Nreading his book of spells!
-Dialogue: 100,0:07:55.57,0:07:58.32,Dialogue,,0,0,0,,I want to study by myself.
-Dialogue: 100,0:07:58.57,0:08:01.57,Dialogue,,0,0,0,,Nothing good comes from\Ninteracting with other people.
-Dialogue: 100,0:08:03.02,0:08:08.44,Dialogue,,0,0,0,,This house that my parents left to me\Nis the only place I can be alone.
-Dialogue: 100,0:08:11.40,0:08:13.32,Dialogue,,0,0,0,,Or so I thought...
-Dialogue: 100,0:08:13.57,0:08:14.94,Dialogue,,0,0,0,,T...Takuma-kun?
-Dialogue: 100,0:08:14.94,0:08:16.73,Dialogue,,0,0,0,,Oh my, welcome home.
-Dialogue: 100,0:08:17.82,0:08:18.86,Dialogue,,0,0,0,,Disgraceful!
-Dialogue: 100,0:08:23.11,0:08:26.23,Dialogue,,0,0,0,,Ugh, just how many times do you jerks have to
-Dialogue: 100,0:08:26.23,0:08:29.23,Dialogue,,0,0,0,,do these disgraceful things before you're satisfied?!
-Dialogue: 100,0:08:29.23,0:08:30.73,Dialogue,,0,0,0,,You pervert!
-Dialogue: 100,0:08:30.98,0:08:32.90,Dialogue,,0,0,0,,I-I-I'm leaving now!
-Dialogue: 100,0:08:34.40,0:08:38.40,Dialogue,,0,0,0,,Oh my, Takuma-san, let's talk a little more.
-Dialogue: 100,0:08:38.73,0:08:40.44,Dialogue,,0,0,0,,S-Student Council President?!
-Dialogue: 100,0:08:40.44,0:08:43.44,Dialogue,,0,0,0,,I don't like how stiff that sounds.
-Dialogue: 100,0:08:43.65,0:08:46.44,Dialogue,,0,0,0,,Will you call me "Itsuyo"?
-Dialogue: 100,0:08:46.73,0:08:49.40,Dialogue,,0,0,0,,And don't make that face, either.
-Dialogue: 100,0:08:50.36,0:08:52.19,Dialogue,,0,0,0,,Hey!
-Dialogue: 100,0:08:52.19,0:08:55.23,Dialogue,,0,0,0,,Wh-what're you doing?! Get away from her!
-Dialogue: 100,0:08:55.23,0:08:57.77,Dialogue,,0,0,0,,Aren't you going to get dressed first, Itsuyo?!
-Dialogue: 100,0:08:57.77,0:09:00.52,Dialogue,,0,0,0,,It doesn't matter what I'm going to do, does it?
-Dialogue: 100,0:09:00.52,0:09:05.86,Dialogue,,0,0,0,,Well, it is inevitable that someone like you with\Nsuch a depressing chest would be jealous, though.
-Dialogue: 100,0:09:05.86,0:09:08.19,Dialogue,,0,0,0,,The size of my chest has nothing to do with this!
-Dialogue: 100,0:09:08.19,0:09:10.15,Dialogue,,0,0,0,,And I'm not jealous of you at all!
-Dialogue: 100,0:09:10.15,0:09:12.48,Dialogue,,0,0,0,,Oh? Do you want me to tie you up?
-Dialogue: 100,0:09:12.48,0:09:14.15,Dialogue,,0,0,0,,Now's my chance!
-Dialogue: 100,0:09:17.86,0:09:19.07,Dialogue,,0,0,0,,Ah, no!
-Dialogue: 100,0:09:19.32,0:09:23.11,Dialogue,,0,0,0,,I can't do it today! I get so sweaty after a live show!
-Dialogue: 100,0:09:28.48,0:09:32.23,Dialogue,,0,0,0,,Oh, Natsuki, you still wear childish ones like that?
-Dialogue: 100,0:09:32.23,0:09:34.23,Dialogue,,0,0,0,,I'm so sorry, you two!
-Dialogue: 100,0:09:35.11,0:09:38.90,Dialogue,,0,0,0,,How many times must you do these\Ndisgraceful things before you're satisfied?
-Dialogue: 100,0:09:38.90,0:09:40.40,Dialogue,,0,0,0,,I-I'm sorry!
-Dialogue: 100,0:09:40.40,0:09:42.73,Dialogue,,0,0,0,,Oh, it's Takumatchi! Welcome home!
-Dialogue: 100,0:09:43.57,0:09:44.65,Dialogue,,0,0,0,,Welcome back.
-Dialogue: 100,0:09:46.90,0:09:48.44,Dialogue,,0,0,0,,What's up with him?
-Dialogue: 100,0:09:48.44,0:09:49.98,Dialogue,,0,0,0,,I don't know.
-Dialogue: 100,0:09:54.15,0:09:56.07,Dialogue,,0,0,0,,Right now, this house...
-Dialogue: 100,0:09:56.07,0:09:59.23,Dialogue,,0,0,0,,is being controlled by nine women!
-Dialogue: 100,0:09:59.52,0:10:03.86,Dialogue,,0,0,0,,They're like demons on an all-out rage fest\Nthat just showed up out of nowhere.
-Dialogue: 100,0:10:04.11,0:10:06.77,Dialogue,,0,0,0,,I was completely enjoying my\Ncarefully-crafted life alone,
-Dialogue: 100,0:10:06.77,0:10:09.07,Dialogue,,0,0,0,,but now I can't even concentrate on studying.
-Dialogue: 100,0:10:09.07,0:10:11.48,Dialogue,,0,0,0,,Since it's come to this, I'm gonna call the police!
-Dialogue: 100,0:10:11.73,0:10:14.15,Dialogue,,0,0,0,,Are you saying you want us to leave?
-Dialogue: 100,0:10:17.07,0:10:18.23,Dialogue,,0,0,0,,Yo!
-Dialogue: 100,0:10:19.07,0:10:23.32,Dialogue,,0,0,0,,Since you allowed us to\Nso brazenly occupy your home,
-Dialogue: 100,0:10:23.32,0:10:27.07,Dialogue,,0,0,0,,if this is what you have decided, we will obey.
-Dialogue: 100,0:10:27.07,0:10:28.44,Dialogue,,0,0,0,,We will.
-Dialogue: 100,0:10:28.44,0:10:33.07,Dialogue,,0,0,0,,However, what would our dear father say,\Nwere we to return home empty handed as we are?
-Dialogue: 100,0:10:33.07,0:10:34.27,Dialogue,,0,0,0,,We are!
-Dialogue: 100,0:10:35.23,0:10:37.61,Dialogue,,0,0,0,,You don't have to leave.
-Dialogue: 100,0:10:37.61,0:10:38.94,Dialogue,,0,0,0,,Hooray!
-Dialogue: 100,0:10:38.94,0:10:41.44,Dialogue,,0,0,0,,Really? Thank goodness.
-Dialogue: 100,0:10:41.44,0:10:42.27,Dialogue,,0,0,0,,By the way, why aren't they all\Nafraid of being around me?
-Dialogue: 100,0:10:42.27,0:10:46.15,Subtitle-2,,0,0,0,,Big Bro Takuma, let's play! Big Bro Takuma?\N{\rDialogue}By the way, why aren't they all{\r}\N{\rDialogue}afraid of being around me?{\r}
-Dialogue: 100,0:10:46.61,0:10:48.36,Dialogue,,0,0,0,,This is too scary!
-Dialogue: 100,0:10:49.32,0:10:51.40,Subtitle-2,,0,0,0,,Concerning the frequent demon incidents,
-Dialogue: 100,0:10:51.40,0:10:53.77,Subtitle-2,,0,0,0,,the police are having a hard time\Nwith their investigation.
-Dialogue: 100,0:10:53.77,0:10:54.90,Subtitle-2,,0,0,0,,They have yet to obtain any clues on the matter.
-Dialogue: 100,0:10:54.90,0:10:55.98,Dialogue,,0,0,0,,Pass the soy sauce!\N{\rSubtitle-2}They have yet to obtain any clues on the matter.{\r}
-Dialogue: 100,0:10:55.98,0:10:56.77,Dialogue,,0,0,0,,Pass the soy sauce!
-Dialogue: 100,0:10:56.94,0:10:58.11,Dialogue,,0,0,0,,Here you go!
-Dialogue: 100,0:11:00.07,0:11:01.77,Dialogue,,0,0,0,,Mutsumi, what about work today?
-Dialogue: 100,0:11:01.77,0:11:02.77,Dialogue,,0,0,0,,I'm off.
-Dialogue: 100,0:11:02.77,0:11:04.61,Dialogue,,0,0,0,,My, that's rare.
-Dialogue: 100,0:11:04.61,0:11:05.73,Dialogue,,0,0,0,,More, please!
-Dialogue: 100,0:11:05.73,0:11:08.73,Dialogue,,0,0,0,,Takuma-chan, you haven't even\Ntouched your chopsticks.
-Dialogue: 100,0:11:08.73,0:11:10.19,Dialogue,,0,0,0,,Oh, uh...
-Dialogue: 100,0:11:11.90,0:11:14.07,Dialogue,,0,0,0,,I'm afraid of people!
-Dialogue: 100,0:11:14.07,0:11:16.02,Dialogue,,0,0,0,,I don't want to associate with other people!
-Dialogue: 100,0:11:16.02,0:11:18.19,Dialogue,,0,0,0,,I just want to study by myself!
-Dialogue: 100,0:11:18.19,0:11:19.82,Dialogue,,0,0,0,,The entrance exams are next year, you know!
-Dialogue: 100,0:11:19.82,0:11:22.61,Dialogue,,0,0,0,,So please, leave my house right now!
-Dialogue: 100,0:11:23.07,0:11:25.32,Dialogue,,0,0,0,,I could never say something like that, though.
-Dialogue: 100,0:11:25.32,0:11:26.52,Dialogue,,0,0,0,,More, please!
-Dialogue: 100,0:11:28.07,0:11:31.19,Dialogue,,0,0,0,,I wonder how I can get them to leave peacefully...
-Dialogue: 100,0:11:31.90,0:11:34.61,Dialogue,,0,0,0,,If this keeps up, it will affect\Nmy entrance exam studies...
-Dialogue: 100,0:11:46.02,0:11:48.44,Dialogue,,0,0,0,,Has Natsuki-chan piqued your interest?
-Dialogue: 100,0:11:49.94,0:11:52.07,Dialogue,,0,0,0,,There's a hole in the wall!
-Dialogue: 100,0:11:53.77,0:11:55.77,Dialogue,,0,0,0,,If that's the case...
-Dialogue: 100,0:11:56.57,0:11:58.57,Dialogue,,0,0,0,,Why did this happen?
-Dialogue: 100,0:11:58.57,0:12:02.48,Dialogue,,0,0,0,,Natsuki-san is always angry and I can't deal with her.
-Dialogue: 100,0:12:02.48,0:12:04.57,Dialogue,,0,0,0,,I want to be alone as soon as possible.
-Dialogue: 100,0:12:07.44,0:12:08.90,Dialogue,,0,0,0,,What is it?
-Dialogue: 100,0:12:09.11,0:12:10.48,Dialogue,,0,0,0,,N-nothing.
-Dialogue: 100,0:12:10.48,0:12:13.23,Dialogue,,0,0,0,,Were you always wearing glasses?
-Dialogue: 100,0:12:13.23,0:12:15.65,Dialogue,,0,0,0,,Are you making fun of me?
-Dialogue: 100,0:12:15.65,0:12:17.69,Dialogue,,0,0,0,,I only wear them when I'm studying.
-Dialogue: 100,0:12:17.98,0:12:21.48,Dialogue,,0,0,0,,Glasses are something you wear\Nwhen studying, right?
-Dialogue: 100,0:12:21.48,0:12:23.40,Dialogue,,0,0,0,,So, they're just for show.
-Dialogue: 100,0:12:26.27,0:12:28.36,Dialogue,,0,0,0,,Do you really hate it that much?
-Dialogue: 100,0:12:30.02,0:12:32.94,Dialogue,,0,0,0,,Do you hate studying with me?
-Dialogue: 100,0:12:33.86,0:12:37.44,Dialogue,,0,0,0,,Yes! If at all possible, I want to study by myself!
-Dialogue: 100,0:12:38.44,0:12:41.23,Dialogue,,0,0,0,,You idiot! Just get on with it!
-Dialogue: 100,0:12:41.44,0:12:43.82,Dialogue,,0,0,0,,I will not go along with this!
-Dialogue: 100,0:12:44.11,0:12:47.36,Dialogue,,0,0,0,,Itsuyo-chan, you're as aggressive as always!
-Dialogue: 100,0:12:47.36,0:12:49.15,Dialogue,,0,0,0,,Don't act like that, Itsuyo.
-Dialogue: 100,0:12:49.15,0:12:51.32,Dialogue,,0,0,0,,We all decided on this beforehand.
-Dialogue: 100,0:12:51.32,0:12:52.48,Dialogue,,0,0,0,,She's right.
-Dialogue: 100,0:12:52.48,0:12:55.57,Dialogue,,0,0,0,,We said that we'd give priority to\Nraising Natsuki-chan's level.
-Dialogue: 100,0:12:56.77,0:13:00.65,Dialogue,,0,0,0,,Itsuyo, cheer up! I'll give you candy later.
-Dialogue: 100,0:13:01.61,0:13:04.86,Dialogue,,0,0,0,,More importantly, is Big Brother okay?
-Dialogue: 100,0:13:04.86,0:13:07.15,Dialogue,,0,0,0,,He goes on and on about studying,
-Dialogue: 100,0:13:07.15,0:13:10.90,Dialogue,,0,0,0,,and I don't feel he's motivated to do\Nthe most crucial thing.
-Dialogue: 100,0:13:11.32,0:13:12.65,Dialogue,,0,0,0,,Oh really?
-Dialogue: 100,0:13:12.65,0:13:14.61,Dialogue,,0,0,0,,I totally get it.
-Dialogue: 100,0:13:14.61,0:13:17.07,Dialogue,,0,0,0,,He's completely unmotivated by that.
-Dialogue: 100,0:13:18.32,0:13:20.36,Dialogue,,0,0,0,,You need to show some motivation too!
-Dialogue: 100,0:13:20.82,0:13:24.44,Dialogue,,0,0,0,,I'm not worried about anything in regards to that.
-Dialogue: 100,0:13:25.94,0:13:30.86,Dialogue,,0,0,0,,After all, Takuma-san is the man\Nthat our father approves of.
-Dialogue: 100,0:13:33.65,0:13:36.69,Dialogue,,0,0,0,,I'm so nervous I can't concentrate on studying.
-Dialogue: 100,0:13:36.69,0:13:39.44,Dialogue,,0,0,0,,Calm down... I need to calm down.
-Dialogue: 100,0:13:41.77,0:13:44.69,Dialogue,,0,0,0,,I have to focus more. Focus...
-Dialogue: 100,0:13:44.69,0:13:46.52,Dialogue,,0,0,0,,FOCUS!
-Dialogue: 100,0:13:47.07,0:13:49.90,Dialogue,,0,0,0,,Of all places, that's where it chooses to go...
-Dialogue: 100,0:13:50.69,0:13:51.82,Dialogue,,0,0,0,,What do I do?
-Dialogue: 100,0:13:51.82,0:13:53.52,Dialogue,,0,0,0,,What is the meaning of this?
-Dialogue: 100,0:13:53.52,0:13:56.44,Dialogue,,0,0,0,,I even put on glasses like Dad said to, but...
-Dialogue: 100,0:13:56.98,0:13:59.52,Dialogue,,0,0,0,,I don't understand this problem at all!
-Dialogue: 100,0:13:59.98,0:14:02.07,Dialogue,,0,0,0,,And what on earth is up with math?
-Dialogue: 100,0:14:02.07,0:14:04.73,Dialogue,,0,0,0,,Do I really need this type of thing?
-Dialogue: 100,0:14:04.94,0:14:07.19,Dialogue,,0,0,0,,Trig...Trigonometric function?
-Dialogue: 100,0:14:07.19,0:14:09.65,Dialogue,,0,0,0,,Is that some sort of esoteric technique?
-Dialogue: 100,0:14:13.61,0:14:14.07,Dialogue,,0,0,0,,Disgraceful!
-Dialogue: 100,0:14:14.07,0:14:14.69,Subtitle-2,,0,0,0,,I'b shorry!\N{\rDialogue}Disgraceful!{\r}
-Dialogue: 100,0:14:14.69,0:14:15.65,Subtitle-2,,0,0,0,,I'b shorry!
-Dialogue: 100,0:14:15.94,0:14:18.07,Dialogue,,0,0,0,,I was trying to get my eraser...
-Dialogue: 100,0:14:19.19,0:14:21.36,Dialogue,,0,0,0,,Are you seriously even motivated to do this?!
-Dialogue: 100,0:14:25.11,0:14:26.44,Dialogue,,0,0,0,,I am.
-Dialogue: 100,0:14:27.48,0:14:30.61,Dialogue,,0,0,0,,I promised my deceased mother.
-Dialogue: 100,0:14:33.94,0:14:37.23,Dialogue,,0,0,0,,I said I'd study... and become...
-Dialogue: 100,0:14:37.61,0:14:40.02,Dialogue,,0,0,0,,become a respectable person.
-Dialogue: 100,0:14:42.86,0:14:47.32,Dialogue,,0,0,0,,Are the two of you just about done studying?
-Dialogue: 100,0:14:47.32,0:14:49.48,Dialogue,,0,0,0,,Come and take a little break.
-Dialogue: 100,0:14:54.77,0:14:57.40,Dialogue,,0,0,0,,Why is this happening again...
-Dialogue: 100,0:14:57.94,0:15:01.23,Dialogue,,0,0,0,,I accidentally forgot to buy toilet paper,
-Dialogue: 100,0:15:01.23,0:15:03.86,Dialogue,,0,0,0,,so I'd like you two to go get some.
-Dialogue: 100,0:15:03.86,0:15:06.23,Dialogue,,0,0,0,,Oh right, when you do this,
-Dialogue: 100,0:15:06.23,0:15:09.52,Dialogue,,0,0,0,,you must hold hands and go shopping.
-Dialogue: 100,0:15:09.73,0:15:11.52,Dialogue,,0,0,0,,Make sure you don't forget, okay?
-Dialogue: 100,0:15:12.61,0:15:15.07,Dialogue,,0,0,0,,I want to go home now.
-Dialogue: 100,0:15:15.69,0:15:19.48,Subtitle-2,,0,0,0,,This is a notice to all residents of the neighborhood.
-Dialogue: 100,0:15:19.77,0:15:23.40,Subtitle-2,,0,0,0,,There have been many dangerous incidents\Noccurring around this area.
-Dialogue: 100,0:15:23.40,0:15:26.15,Subtitle-2,,0,0,0,,Please refrain from going out at night.
-Dialogue: 100,0:15:26.65,0:15:30.77,Dialogue,,0,0,0,,You know they suspect that you're the culprit\Nin the akuma incidents, right?
-Dialogue: 100,0:15:30.77,0:15:31.73,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:15:32.11,0:15:37.11,Dialogue,,0,0,0,,It's because they see an incident in the classroom,\Nand you let everyone continue to misunderstand it.
-Dialogue: 100,0:15:38.23,0:15:40.32,Dialogue,,0,0,0,,Why don't you even try to defend yourself.
-Dialogue: 100,0:15:42.61,0:15:45.32,Dialogue,,0,0,0,,It'd be pointless to do that.
-Dialogue: 100,0:15:45.32,0:15:48.61,Dialogue,,0,0,0,,My face is scary and my body is big.
-Dialogue: 100,0:15:48.61,0:15:53.36,Dialogue,,0,0,0,,I only cause problems, so I can't do anything\Nabout being treated like a criminal.
-Dialogue: 100,0:15:54.27,0:15:55.77,Dialogue,,0,0,0,,Is she angry?!
-Dialogue: 100,0:15:56.07,0:15:59.77,Dialogue,,0,0,0,,Speaking of the akuma incidents,\Nthey were right around here, right?
-Dialogue: 100,0:15:59.77,0:16:03.11,Dialogue,,0,0,0,,And the place where you saved my life...
-Dialogue: 100,0:16:03.27,0:16:05.36,Dialogue,,0,0,0,,Yeah... it was.
-Dialogue: 100,0:16:05.77,0:16:08.36,Dialogue,,0,0,0,,Seeing you right now, I get annoyed.
-Dialogue: 100,0:16:08.77,0:16:10.77,Dialogue,,0,0,0,,I-I'm sorry.
-Dialogue: 100,0:16:10.77,0:16:12.69,Dialogue,,0,0,0,,Even though back then,
-Dialogue: 100,0:16:13.98,0:16:16.98,Dialogue,,0,0,0,,you were... so cool.
-Dialogue: 100,0:16:25.73,0:16:26.73,Dialogue,,0,0,0,,An akuma!
-Dialogue: 100,0:16:29.32,0:16:30.27,Dialogue,,0,0,0,,What is that?
-Dialogue: 100,0:16:30.27,0:16:31.23,Dialogue,,0,0,0,,Is this for TV?
-Dialogue: 100,0:16:43.65,0:16:44.86,Dialogue,,0,0,0,,It disappeared?
-Dialogue: 100,0:16:45.52,0:16:48.40,Dialogue,,0,0,0,,It seems they've safely deployed the barrier.
-Dialogue: 100,0:16:48.82,0:16:50.23,Dialogue,,0,0,0,,It's huge!
-Dialogue: 100,0:16:50.82,0:16:55.36,Dialogue,,0,0,0,,This summon brought a much stronger one\Ncompared to the previous ones.
-Dialogue: 100,0:16:55.36,0:16:59.61,Dialogue,,0,0,0,,Does this mean that Father's oracle\Nis one hundred percent true?
-Dialogue: 100,0:17:01.02,0:17:02.98,Dialogue,,0,0,0,,Huh? What do we do?
-Dialogue: 100,0:17:02.98,0:17:06.15,Dialogue,,0,0,0,,It doesn't look like Natsuki can\Ndefeat it at her current level,
-Dialogue: 100,0:17:06.15,0:17:07.98,Dialogue,,0,0,0,,but we have to believe in her.
-Dialogue: 100,0:17:08.61,0:17:12.15,Dialogue,,0,0,0,,You can do it, Natsuki-chan, Takuma-kun.
-Dialogue: 100,0:17:15.44,0:17:17.77,Dialogue,,0,0,0,,This is definitely a Hrugnir!
-Dialogue: 100,0:17:18.02,0:17:21.36,Dialogue,,0,0,0,,I can't believe such a high-level\Ndemon was summoned!
-Dialogue: 100,0:17:21.36,0:17:24.11,Dialogue,,0,0,0,,I can't buy us any extra time for the barrier!
-Dialogue: 100,0:17:24.44,0:17:25.69,Dialogue,,0,0,0,,What do I do?
-Dialogue: 100,0:17:25.69,0:17:29.77,Dialogue,,0,0,0,,I'll lose the opportunity to raise my level\Nif I hold hands and shop.
-Dialogue: 100,0:17:30.57,0:17:33.69,Dialogue,,0,0,0,,Then, we have to do it the other way...
-Dialogue: 100,0:17:34.65,0:17:36.57,Dialogue,,0,0,0,,It's impossible to get rid of this akuma!
-Dialogue: 100,0:17:36.57,0:17:37.90,Dialogue,,0,0,0,,Let's just run for it!
-Dialogue: 100,0:17:37.90,0:17:40.40,Dialogue,,0,0,0,,What a loathsome thing to say at a time like this.
-Dialogue: 100,0:17:40.40,0:17:42.36,Dialogue,,0,0,0,,That's really the type of man he is.
-Dialogue: 100,0:17:42.73,0:17:44.27,Dialogue,,0,0,0,,Find somewhere and take cover!
-Dialogue: 100,0:17:44.27,0:17:45.11,Dialogue,,0,0,0,,Okay!
-Dialogue: 100,0:17:45.11,0:17:46.73,Dialogue,,0,0,0,,I really hate him.
-Dialogue: 100,0:18:00.90,0:18:03.44,Dialogue,,0,0,0,,Hey, get ahold of yourself! Hey!
-Dialogue: 100,0:18:03.44,0:18:05.82,Dialogue,,0,0,0,,You protected me? Why?
-Dialogue: 100,0:18:06.86,0:18:08.23,Dialogue,,0,0,0,,I knew it.
-Dialogue: 100,0:18:08.23,0:18:11.11,Dialogue,,0,0,0,,Nothing good comes from\Nbeing involved with other people.
-Dialogue: 100,0:18:11.11,0:18:13.61,Dialogue,,0,0,0,,I'm okay with being alone my whole life.
-Dialogue: 100,0:18:13.61,0:18:14.69,Dialogue,,0,0,0,,I wholeheartedly believe that.
-Dialogue: 100,0:18:14.69,0:18:15.40,Subtitle-2,,0,0,0,,Yay! C'mon, this way!\N{\rDialogue}I wholeheartedly believe that.{\r}
-Dialogue: 100,0:18:15.40,0:18:16.61,Subtitle-2,,0,0,0,,Yay! C'mon, this way!
-Dialogue: 100,0:18:17.32,0:18:18.19,Dialogue,,0,0,0,,Wait!
-Dialogue: 100,0:18:18.40,0:18:19.61,Dialogue,,0,0,0,,And yet...
-Dialogue: 100,0:18:20.69,0:18:23.73,Dialogue,,0,0,0,,My body had moved before I realized it.
-Dialogue: 100,0:18:29.57,0:18:31.86,Dialogue,,0,0,0,,This is how you really are.
-Dialogue: 100,0:18:32.27,0:18:34.27,Dialogue,,0,0,0,,Nothing's changed at all.
-Dialogue: 100,0:18:34.61,0:18:37.73,Dialogue,,0,0,0,,Natsuki-san, get out of here and get someone to help!
-Dialogue: 100,0:18:38.23,0:18:39.44,Dialogue,,0,0,0,,I can't.
-Dialogue: 100,0:18:39.90,0:18:42.40,Dialogue,,0,0,0,,That demon can't be defeated by humans.
-Dialogue: 100,0:18:43.94,0:18:46.19,Dialogue,,0,0,0,,This is my first time...
-Dialogue: 100,0:18:46.94,0:18:49.82,Dialogue,,0,0,0,,So... be gentle with me.
-Dialogue: 100,0:19:06.82,0:19:09.32,Dialogue,,0,0,0,,"Hold hands and go shopping," cancelled.
-Dialogue: 100,0:19:10.15,0:19:12.77,Dialogue,,0,0,0,,Val x Love "Massage chest" complete.
-Dialogue: 100,0:19:13.02,0:19:14.65,Dialogue,,0,0,0,,Entering experience points.
-Dialogue: 100,0:19:14.65,0:19:17.27,Dialogue,,0,0,0,,Siegrune level up confirmed,
-Dialogue: 100,0:19:17.27,0:19:20.02,Dialogue,,0,0,0,,and "Kiss with a Lover" acknowledged.
-Dialogue: 100,0:19:20.44,0:19:21.82,Dialogue,,0,0,0,,Valkyrie, invoked.
-Dialogue: 100,0:19:24.69,0:19:26.44,Dialogue,,0,0,0,,As told in the myths,
-Dialogue: 100,0:19:26.44,0:19:30.77,Dialogue,,0,0,0,,in Asgard's Valhalla, there live\Ngoddesses called Valkyries.
-Dialogue: 100,0:19:31.65,0:19:33.73,Dialogue,,0,0,0,,Natsuki-san...
-Dialogue: 100,0:19:34.40,0:19:37.86,Dialogue,,0,0,0,,Valkyries grow stronger as long as they are in love.
-Dialogue: 100,0:19:39.36,0:19:41.36,Dialogue,,0,0,0,,The reason being that, love is...
-Dialogue: 100,0:19:46.40,0:19:50.44,Dialogue,,0,0,0,,the source of a maiden's power.
-Dialogue: 100,0:19:54.61,0:19:56.52,Dialogue,,0,0,0,,Bun! S-au descurcat destul de bine!
-Dialogue: 100,0:19:56.52,0:19:57.40,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:19:57.73,0:19:59.40,Dialogue,,0,0,0,,Asta e grozav, Itsuyo!
-Dialogue: 100,0:19:59.40,0:20:01.86,Dialogue,,0,0,0,,Of course they'd be able to do at least that.
-Dialogue: 100,0:20:02.48,0:20:04.40,Dialogue,,0,0,0,,Ai văzut asta?
-Dialogue: 100,0:20:04.40,0:20:07.02,Dialogue,,0,0,0,,Takuma dă tot ce poate.
-Dialogue: 100,0:20:07.32,0:20:10.52,Dialogue,,0,0,0,,Why don't you give it up\Nand show your face around here,
-Dialogue: 100,0:20:10.52,0:20:12.02,Dialogue,,0,0,0,,Soră mai mare Ichika?
-Dialogue: 100,0:20:12.27,0:20:15.15,Dialogue,,0,0,0,,Hmpf, 320 de secunde.
-Dialogue: 100,0:20:15.15,0:20:18.19,Dialogue,,0,0,0,,Dacă de atât are nevoie \Nca să elimine un demon,
-Dialogue: 100,0:20:18.19,0:20:20.40,Dialogue,,0,0,0,,atunci, spiritul său e mult prea slab.
-Dialogue: 100,0:20:20.94,0:20:25.82,Dialogue,,0,0,0,,Nu aș putea recunoaște niciodată o asemenea persoană ca iubitul nostru.
-Dialogue: 100,0:20:40.94,0:20:44.57,Dialogue,,0,0,0,,Currently, this world is in grave danger of destruction.
-Dialogue: 100,0:20:44.98,0:20:46.90,Dialogue,,0,0,0,,Brave young man,
-Dialogue: 100,0:20:46.90,0:20:50.94,Dialogue,,0,0,0,,you should surely understand this personally now.
-Dialogue: 100,0:20:51.48,0:20:55.61,Dialogue,,0,0,0,,At this rate, in not even a few days' time,\Nthis world will be enveloped in flame.
-Dialogue: 100,0:20:55.61,0:21:00.11,Dialogue,,0,0,0,,This world, this land of Midgard...\NI want you to protect it from the akuma's grasp.
-Dialogue: 100,0:21:00.11,0:21:01.52,Dialogue,,0,0,0,,Who are you?
-Dialogue: 100,0:21:01.52,0:21:05.07,Dialogue,,0,0,0,,I am Odin, ruler of the gods of Asgard.
-Dialogue: 100,0:21:05.07,0:21:07.94,Dialogue,,0,0,0,,You will need a sword to win this battle.
-Dialogue: 100,0:21:07.94,0:21:10.02,Dialogue,,0,0,0,,I will bestow one upon you.
-Dialogue: 100,0:21:10.44,0:21:12.15,Dialogue,,0,0,0,,There are nine sacred swords.
-Dialogue: 100,0:21:12.15,0:21:14.32,Dialogue,,0,0,0,,The nine beautiful, young Valkyries.
-Dialogue: 100,0:21:14.32,0:21:17.19,Dialogue,,0,0,0,,As long as a Valkyrie is in love,\Nshe will grow stronger.
-Dialogue: 100,0:21:18.27,0:21:20.98,Dialogue,,0,0,0,,You will become the Valkyries' lover.
-Dialogue: 100,0:21:22.19,0:21:23.98,Dialogue,,0,0,0,,You will fall in love with them.
-Dialogue: 100,0:21:24.98,0:21:26.98,Dialogue,,0,0,0,,Grow, and refine yourself.
-Dialogue: 100,0:21:28.15,0:21:29.98,Dialogue,,0,0,0,,You must show proof...
-Dialogue: 100,0:21:31.19,0:21:34.27,Dialogue,,0,0,0,,Love is what will save the world!
-Dialogue: 100,0:23:05.65,0:23:08.77,Dialogue,,0,0,0,,We managed to defeat the akuma\Nthis time around, but to fight well,
-Dialogue: 100,0:23:08.77,0:23:11.69,Dialogue,,0,0,0,,it's important to raise our levels higher than normal\Nso this won't happen again.
-Dialogue: 100,0:23:11.69,0:23:14.36,Dialogue,,0,0,0,,Okay. The Val Love sure have a lot of different levels.
-Dialogue: 100,0:23:14.36,0:23:16.82,Dialogue,,0,0,0,,What does that mean? Do you have\Nsome sort of objection to being our lovers?
-Dialogue: 100,0:23:16.82,0:23:20.11,Dialogue,,0,0,0,,Not at all! I'm just wondering why I was chosen.
-Dialogue: 100,0:23:20.11,0:23:24.90,Dialogue,,0,0,0,,The ruler of the gods of Asgard, who's my papa...\Nmy Father, accepted you as the one.
-Dialogue: 100,0:23:25.07,0:23:30.02,Dialogue,,0,0,0,,In any case, as our lover Einherjar,\Nyou will raise the levels of my sisters and I.
-Dialogue: 100,0:23:30.02,0:23:34.40,Dialogue,,0,0,0,,And if we don't kiss you to start with,\Nwe cannot manifest the true power of the Valkyries.
-Dialogue: 100,0:23:34.40,0:23:36.15,Dialogue,,0,0,0,,Simt cum stomacul mi \Nzdrobește de la presiune...
-Dialogue: 100,0:23:37.23,0:23:39.36,Dialogue,,0,700,0,,Data viitoare: {\i1}Fata cu lanțul{\i0}.
+Dialogue: 99,0:00:01.61,0:00:04.11,Dialogue,,0,0,0,,Cineva a spus cândva:
+Dialogue: 99,0:00:05.44,0:00:06.86,Dialogue,,0,0,0,,„Iubirea este...
+Dialogue: 99,0:00:07.57,0:00:10.44,Dialogue,,0,0,0,,sursa de putere a unei fete.”
+Dialogue: 99,0:01:43.65,0:01:45.27,Dialogue,,0,0,0,,U-Un iubit?!
+Dialogue: 99,0:01:45.98,0:01:49.07,Dialogue,,0,0,0,,N-Nu cred că sunt pregătită să am unul...
+Dialogue: 99,0:01:49.44,0:01:52.32,Dialogue,,0,0,0,,Ce ar trebui să facă o liceană dacă nu să se îndrăgostească?
+Dialogue: 99,0:01:52.69,0:01:55.52,Dialogue,,0,0,0,,Iubirea e sursa de putere a unei fete, știi?
+Dialogue: 99,0:01:55.94,0:01:58.94,Dialogue,,0,0,0,,Natsuki chiar e grozavă.
+Dialogue: 99,0:01:59.23,0:02:04.98,Dialogue,,0,0,0,,E frumoasă precum o păpușă, are o inimă pură și interacționează la fel cu toată lumea...
+Dialogue: 99,0:02:04.98,0:02:06.11,Dialogue,,0,0,0,,E un adevărat înger!
+Dialogue: 99,0:02:06.11,0:02:08.82,Dialogue,,0,0,0,,Am auzit că o altă școală au creat un fanclub pentru ea.
+Dialogue: 99,0:02:08.98,0:02:13.90,Dialogue,,0,0,0,,E destul de evident că Natsuki va câștiga concursul de frumusețe al festivalului școlii din acest an, nu?
+Dialogue: 99,0:02:13.90,0:02:15.90,Dialogue,,0,0,0,,Nu prea știu ce să zic despre asta.
+Dialogue: 99,0:02:16.11,0:02:18.57,Dialogue,,0,0,0,,Mie-mi place mai mult de Itsuyo.
+Dialogue: 99,0:02:18.57,0:02:21.52,Dialogue,,0,0,0,,A devenit președinta consiliului elevilor imediat cum a fost admisă!
+Dialogue: 99,0:02:21.52,0:02:23.61,Dialogue,,0,0,0,,E foarte frumoasă! Și carismatică!
+Dialogue: 99,0:02:23.61,0:02:26.15,Dialogue,,0,0,0,,Nu există niciun băiat care să nu se îndrăgostească de ea!
+Dialogue: 99,0:02:26.40,0:02:27.82,Dialogue,,0,0,0,,Vreau să fiu legat de ea!
+Dialogue: 99,0:02:28.36,0:02:31.65,Dialogue,,0,0,0,,If you wanna talk about popular,\NMutsumi-chan in class C is tops!
+Dialogue: 99,0:02:31.65,0:02:34.27,Dialogue,,0,0,0,,She's the latest up-and-coming idol!
+Dialogue: 99,0:02:34.27,0:02:38.02,Dialogue,,0,0,0,,Just once, I want to try to talk with her,\Neven though she rarely comes to school!
+Dialogue: 99,0:02:38.48,0:02:41.57,Dialogue,,0,0,0,,Hey, you guys are in the same class\Nas Natsuki-chan, so support her!
+Dialogue: 99,0:02:41.57,0:02:42.65,Dialogue,,0,0,0,,Mutsumi!
+Dialogue: 99,0:02:42.65,0:02:43.57,Dialogue,,0,0,0,,Itsuyo!
+Dialogue: 99,0:02:43.57,0:02:44.40,Dialogue,,0,0,0,,Oribil.
+Dialogue: 99,0:02:44.40,0:02:46.61,Dialogue,,0,0,0,,Văd că ești la fel de \Npopulară ca întotdeauna...
+Dialogue: 99,0:02:46.61,0:02:48.44,Dialogue,,0,0,0,,Crezi că vei câștiga?
+Dialogue: 99,0:02:49.15,0:02:51.73,Dialogue,,0,0,0,,Nu sunt interesată deloc \Nde concursul de frumusețe.
+Dialogue: 99,0:02:51.73,0:02:54.82,Dialogue,,0,0,0,,Sau mai bine spus, \Nnu-mi place să atrag atenția...
+Dialogue: 99,0:02:56.73,0:02:58.36,Dialogue,,0,0,0,,Evident că nu.
+Dialogue: 99,0:02:58.36,0:03:01.82,Dialogue,,0,0,0,,Between the two of you, you'd get\Nthe booby prize in the chest department!
+Dialogue: 99,0:03:02.52,0:03:05.15,Dialogue,,0,0,0,,H-Hei! Nu mă atinge acolo!
+Dialogue: 99,0:03:05.15,0:03:07.52,Dialogue,,0,0,0,,{\an8}Haide, nu e ca și cum se vor \Nmicșora dacă mă joc cu ei.
+Dialogue: 99,0:03:06.61,0:03:08.63,Dialogue,,0,0,0,,Î-Îmi sângerează nasul...
+Dialogue: 99,0:03:11.65,0:03:13.65,Dialogue,,0,0,0,,U-Un demon!
+Dialogue: 99,0:03:13.65,0:03:16.11,Dialogue,,0,0,0,,V-Vreau să spun, Akutsu Takuma.
+Dialogue: 99,0:03:16.11,0:03:17.57,Dialogue,,0,0,0,,S-S-a întâmplat ceva?
+Dialogue: 99,0:03:19.69,0:03:21.19,Dialogue,,0,0,0,,Î-Îmi cer scuze.
+Dialogue: 99,0:03:21.19,0:03:23.98,Dialogue,,0,0,0,,Făceam prea multă gălăgie, nu?
+Dialogue: 99,0:03:24.23,0:03:26.23,Dialogue,,0,0,0,,Așa că... e-ei bine...
+Dialogue: 99,0:03:27.82,0:03:29.23,Dialogue,,0,0,0,,Nu m-ați deranjat sau ceva...
+Dialogue: 99,0:03:29.52,0:03:31.40,Dialogue,,0,0,0,,Te rog să mă cruți!
+Dialogue: 99,0:03:31.61,0:03:33.48,Dialogue,,0,0,0,,Yamada a căzut pe fereastră!
+Dialogue: 99,0:03:35.61,0:03:37.44,Dialogue,,0,0,0,,A câta oară e când se \Nîntâmpla asta astăzi?
+Dialogue: 99,0:03:37.44,0:03:40.69,Dialogue,,0,0,0,,There's an ambulance on standby\Noutside of the main gate.
+Dialogue: 99,0:03:39.98,0:03:40.69,Dialogue,,0,0,0,,{\an8}Ce?
+Dialogue: 99,0:03:41.11,0:03:42.48,Dialogue,,0,0,0,,Mai încet!
+Dialogue: 99,0:03:42.48,0:03:45.57,Dialogue,,0,0,0,,Don't just stand there yammerin' away to...
+Dialogue: 99,0:03:45.90,0:03:47.11,Dialogue,,0,0,0,,Un demon?!
+Dialogue: 99,0:03:47.36,0:03:51.23,Dialogue,,0,0,0,,Adică, Akutsu, ai făcut-o din nou?
+Dialogue: 99,0:03:53.57,0:03:56.73,Dialogue,,0,0,0,,Înțeleg! Doar am înțeles eu greșit, nu?
+Dialogue: 99,0:03:56.73,0:03:58.94,Dialogue,,0,0,0,,Atunci, voi pleca!
+Dialogue: 99,0:04:04.61,0:04:07.27,Dialogue,,0,0,0,,A fost așa de înfricoșător. \NCredeam că-i va rupe capul!
+Dialogue: 99,0:04:07.27,0:04:09.90,Dialogue,,0,0,0,,That Akuma guy's just having a free for all today.
+Dialogue: 99,0:04:09.90,0:04:14.48,Dialogue,,0,0,0,,Crezi că el e vinovatul pentru incidentele în serie cu demoni?
+Dialogue: 99,0:04:14.61,0:04:16.90,Dialogue,,0,0,0,,Incidentele în serie cu demoni...
+Dialogue: 99,0:04:17.57,0:04:20.15,Dialogue,,0,0,0,,Chestiile care tot apar \Nla știri în ultima vreme?
+Dialogue: 99,0:04:20.15,0:04:24.23,Dialogue,,0,0,0,,Un tip purtând o mască de \Ndemon a atacat pietonii!
+Dialogue: 99,0:04:24.23,0:04:26.11,Dialogue,,0,0,0,,Cred că el e făptașul.
+Dialogue: 99,0:04:26.11,0:04:29.27,Dialogue,,0,0,0,,Se zvonește că se aud mai multe voci venind din casa lui, deși trăiește de unul singur!
+Dialogue: 99,0:04:29.27,0:04:30.15,Dialogue,,0,0,0,,Înfiorător!
+Dialogue: 99,0:04:31.02,0:04:34.36,Dialogue,,0,0,0,,Natsuki, și tu ar trebui să \Nstai la distanță de acel tip...
+Dialogue: 99,0:04:34.69,0:04:36.82,Dialogue,,0,0,0,,Natsuki, s-a întâmplat ceva?
+Dialogue: 99,0:04:38.57,0:04:40.61,Dialogue,,0,0,0,,Nu, totul e în regulă.
+Dialogue: 99,0:04:44.15,0:04:45.15,Dialogue,,0,0,0,,E așa un ciudat.
+Dialogue: 99,0:04:45.15,0:04:46.19,Dialogue,,0,0,0,,E Demonul Takuma.
+Dialogue: 99,0:04:46.19,0:04:48.23,Dialogue,,0,0,0,,Ce carte citește?
+Dialogue: 99,0:04:48.44,0:04:50.73,Dialogue,,0,0,0,,Ar trebui să dispară pur și simplu.
+Dialogue: 99,0:04:50.98,0:04:52.61,Dialogue,,0,0,0,,Hei, te poate auzi.
+Dialogue: 99,0:04:52.61,0:04:54.44,Dialogue,,0,0,0,,Dar e numai vina lui...
+Dialogue: 99,0:04:56.98,0:04:58.82,Dialogue,,0,0,0,,What might all this commotion be?
+Dialogue: 99,0:04:59.40,0:05:02.07,Dialogue,,0,0,0,,Student Council President, it's that guy.
+Dialogue: 99,0:05:02.07,0:05:04.48,Dialogue,,0,0,0,,It looks like Akuma is causing problems again.
+Dialogue: 99,0:05:04.48,0:05:04.77,Subtitle-2,,0,0,0,,It's the Student Council President!\N{\rDialogue}It looks like Akuma is causing problems again.{\r}
+Dialogue: 99,0:05:04.77,0:05:05.32,Subtitle-2,,0,0,0,,It's the Student Council President!
+Dialogue: 99,0:05:05.32,0:05:06.73,Subtitle-2,,0,0,0,,She's so cool!\N{\rDialogue}Since the school festival is coming up,{\r}
+Dialogue: 99,0:05:06.73,0:05:07.36,Dialogue,,0,0,0,,Since the school festival is coming up,
+Dialogue: 99,0:05:07.36,0:05:10.15,Dialogue,,0,0,0,,I thought it'd be awful if we had\Neven more problems come up now.
+Dialogue: 99,0:05:12.77,0:05:14.65,Dialogue,,0,0,0,,You mustn't do that, Matsumura-san.
+Dialogue: 99,0:05:14.65,0:05:15.52,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:05:15.52,0:05:19.98,Dialogue,,0,0,0,,This is something that can only be corrected by\Nthe student council at that time.
+Dialogue: 99,0:05:20.40,0:05:24.15,Dialogue,,0,0,0,,The student council must not be the chain\Nby which the students are tied down.
+Dialogue: 99,0:05:24.40,0:05:28.73,Dialogue,,0,0,0,,For the sake of the students and\Nthe academy, let's all do our best...
+Dialogue: 99,0:05:30.19,0:05:32.65,Dialogue,,0,0,0,,Vice President Matsumura.
+Dialogue: 99,0:05:35.15,0:05:38.02,Dialogue,,0,0,0,,Lovely... the Student Council President is just so lovely!
+Dialogue: 99,0:05:38.02,0:05:41.61,Dialogue,,0,0,0,,I'm definitely voting for her in the beauty contest!
+Dialogue: 99,0:05:43.94,0:05:47.73,Dialogue,,0,0,0,,Besides, I don't think that person is an akuma.
+Dialogue: 99,0:05:48.48,0:05:52.86,Dialogue,,0,0,0,,He looks more like a cowardly child.
+Dialogue: 99,0:05:54.23,0:05:56.19,Dialogue,,0,0,0,,Scary... Is that an akuma?
+Dialogue: 99,0:05:56.19,0:05:57.23,Dialogue,,0,0,0,,He's looking over here!
+Dialogue: 99,0:05:57.23,0:05:59.48,Dialogue,,0,0,0,,Let's go so we don't get involved in those incidents.
+Dialogue: 99,0:06:03.61,0:06:08.32,Dialogue,,0,0,0,,I'm not an akuma at all, though.
+Dialogue: 99,0:06:09.23,0:06:13.86,Dialogue,,0,0,0,,This "Akuma" is Takuma Akutsu, 16,\Nwho was once a normal boy.
+Dialogue: 99,0:06:14.48,0:06:15.73,Dialogue,,0,0,0,,True, however...
+Dialogue: 99,0:06:15.73,0:06:18.52,Dialogue,,0,0,0,,Hey c'mon, let's play dodge ball!
+Dialogue: 99,0:06:18.98,0:06:20.69,Dialogue,,0,0,0,,Uh... With you, Akutsu-kun?
+Dialogue: 99,0:06:20.69,0:06:22.73,Dialogue,,0,0,0,,Sorry, I'm kinda scared to.
+Dialogue: 99,0:06:22.90,0:06:26.73,Dialogue,,0,0,0,,Due to his intimidating air, everyone has been\Nscared of him since early childhood.
+Dialogue: 99,0:06:26.73,0:06:29.52,Dialogue,,0,0,0,,Everyone that approached him was like that.
+Dialogue: 99,0:06:29.52,0:06:30.98,Dialogue,,0,0,0,,Why the hell you lookin' at us like that?!
+Dialogue: 99,0:06:30.98,0:06:32.73,Dialogue,,0,0,0,,You tryin' to pick a fight, fool?!
+Dialogue: 99,0:06:32.73,0:06:38.36,Dialogue,,0,0,0,,As a result, he stopped directly interacting\Nwith others and developed a phobia of humans.
+Dialogue: 99,0:06:39.27,0:06:43.69,Dialogue,,0,0,0,,Just like earlier when I stood up a little,\Nthey'd get surprised and fall out of the window.
+Dialogue: 99,0:06:43.69,0:06:46.98,Dialogue,,0,0,0,,And even when I want to deny it,\NI'm so petrified I can't say anything.
+Dialogue: 99,0:06:46.98,0:06:48.23,Dialogue,,0,0,0,,I'm sick of this.
+Dialogue: 99,0:06:48.77,0:06:52.65,Dialogue,,0,0,0,,Today's guest is the currently\Ninsanely popular Mutsumi-chan!
+Dialogue: 99,0:06:52.98,0:06:55.77,Dialogue,,0,0,0,,You've been so busy lately you don't even\Nhave time to hang out with friends, right?
+Dialogue: 99,0:06:55.77,0:06:57.77,Dialogue,,0,0,0,,That isn't true!
+Dialogue: 99,0:06:58.02,0:07:00.52,Dialogue,,0,0,0,,Our high school campus festival is coming up soon,
+Dialogue: 99,0:07:00.52,0:07:02.77,Dialogue,,0,0,0,,and I've been really looking forward to it!
+Dialogue: 99,0:07:02.98,0:07:05.98,Dialogue,,0,0,0,,I promised my friends that I'd\Nwalk around with them there.
+Dialogue: 99,0:07:05.98,0:07:09.77,Dialogue,,0,0,0,,About the culture festival, Mutsumi-chan,\Nwill you be in charge of any of the events there?
+Dialogue: 99,0:07:10.77,0:07:14.15,Dialogue,,0,0,0,,I don't need any friends.
+Dialogue: 99,0:07:14.15,0:07:16.44,Dialogue,,0,0,0,,I sincerely believe that.
+Dialogue: 99,0:07:16.90,0:07:19.48,Dialogue,,0,0,0,,As long as I have that one thing, I'm okay.
+Dialogue: 99,0:07:19.48,0:07:20.90,Dialogue,,0,0,0,,What I need is...
+Dialogue: 99,0:07:22.36,0:07:23.77,Dialogue,,0,0,0,,my studies!
+Dialogue: 99,0:07:27.65,0:07:29.07,Dialogue,,0,0,0,,I got this correct.
+Dialogue: 99,0:07:29.77,0:07:31.27,Dialogue,,0,0,0,,This is correct, too.
+Dialogue: 99,0:07:31.27,0:07:32.27,Dialogue,,0,0,0,,What do we do?
+Dialogue: 99,0:07:32.27,0:07:33.90,Dialogue,,0,0,0,,Like I would know...
+Dialogue: 99,0:07:33.90,0:07:35.44,Dialogue,,0,0,0,,And these, too.
+Dialogue: 99,0:07:35.44,0:07:36.90,Dialogue,,0,0,0,,We should go to the police!
+Dialogue: 99,0:07:36.90,0:07:38.61,Dialogue,,0,0,0,,But he's just sitting there.
+Dialogue: 99,0:07:39.07,0:07:40.65,Dialogue,,0,0,0,,Correct!
+Dialogue: 99,0:07:40.77,0:07:42.57,Dialogue,,0,0,0,,Akuma!
+Dialogue: 99,0:07:43.86,0:07:47.48,Dialogue,,0,0,0,,Jeez, they almost gave me a heart attack\Nwith all the sudden shouting.
+Dialogue: 99,0:07:47.77,0:07:49.52,Dialogue,,0,0,0,,Hello, is this the police?!
+Dialogue: 99,0:07:49.52,0:07:52.15,Dialogue,,0,0,0,,There's an Akuma engrossed in\Nreading his book of spells!
+Dialogue: 99,0:07:55.57,0:07:58.32,Dialogue,,0,0,0,,I want to study by myself.
+Dialogue: 99,0:07:58.57,0:08:01.57,Dialogue,,0,0,0,,Nothing good comes from\Ninteracting with other people.
+Dialogue: 99,0:08:03.02,0:08:08.44,Dialogue,,0,0,0,,This house that my parents left to me\Nis the only place I can be alone.
+Dialogue: 99,0:08:11.40,0:08:13.32,Dialogue,,0,0,0,,Or so I thought...
+Dialogue: 99,0:08:13.57,0:08:14.94,Dialogue,,0,0,0,,T...Takuma-kun?
+Dialogue: 99,0:08:14.94,0:08:16.73,Dialogue,,0,0,0,,Oh my, welcome home.
+Dialogue: 99,0:08:17.82,0:08:18.86,Dialogue,,0,0,0,,Disgraceful!
+Dialogue: 99,0:08:23.11,0:08:26.23,Dialogue,,0,0,0,,Ugh, just how many times do you jerks have to
+Dialogue: 99,0:08:26.23,0:08:29.23,Dialogue,,0,0,0,,do these disgraceful things before you're satisfied?!
+Dialogue: 99,0:08:29.23,0:08:30.73,Dialogue,,0,0,0,,You pervert!
+Dialogue: 99,0:08:30.98,0:08:32.90,Dialogue,,0,0,0,,I-I-I'm leaving now!
+Dialogue: 99,0:08:34.40,0:08:38.40,Dialogue,,0,0,0,,Oh my, Takuma-san, let's talk a little more.
+Dialogue: 99,0:08:38.73,0:08:40.44,Dialogue,,0,0,0,,S-Student Council President?!
+Dialogue: 99,0:08:40.44,0:08:43.44,Dialogue,,0,0,0,,I don't like how stiff that sounds.
+Dialogue: 99,0:08:43.65,0:08:46.44,Dialogue,,0,0,0,,Will you call me "Itsuyo"?
+Dialogue: 99,0:08:46.73,0:08:49.40,Dialogue,,0,0,0,,And don't make that face, either.
+Dialogue: 99,0:08:50.36,0:08:52.19,Dialogue,,0,0,0,,Hey!
+Dialogue: 99,0:08:52.19,0:08:55.23,Dialogue,,0,0,0,,Wh-what're you doing?! Get away from her!
+Dialogue: 99,0:08:55.23,0:08:57.77,Dialogue,,0,0,0,,Aren't you going to get dressed first, Itsuyo?!
+Dialogue: 99,0:08:57.77,0:09:00.52,Dialogue,,0,0,0,,It doesn't matter what I'm going to do, does it?
+Dialogue: 99,0:09:00.52,0:09:05.86,Dialogue,,0,0,0,,Well, it is inevitable that someone like you with\Nsuch a depressing chest would be jealous, though.
+Dialogue: 99,0:09:05.86,0:09:08.19,Dialogue,,0,0,0,,The size of my chest has nothing to do with this!
+Dialogue: 99,0:09:08.19,0:09:10.15,Dialogue,,0,0,0,,And I'm not jealous of you at all!
+Dialogue: 99,0:09:10.15,0:09:12.48,Dialogue,,0,0,0,,Oh? Do you want me to tie you up?
+Dialogue: 99,0:09:12.48,0:09:14.15,Dialogue,,0,0,0,,Now's my chance!
+Dialogue: 99,0:09:17.86,0:09:19.07,Dialogue,,0,0,0,,Ah, no!
+Dialogue: 99,0:09:19.32,0:09:23.11,Dialogue,,0,0,0,,I can't do it today! I get so sweaty after a live show!
+Dialogue: 99,0:09:28.48,0:09:32.23,Dialogue,,0,0,0,,Oh, Natsuki, you still wear childish ones like that?
+Dialogue: 99,0:09:32.23,0:09:34.23,Dialogue,,0,0,0,,I'm so sorry, you two!
+Dialogue: 99,0:09:35.11,0:09:38.90,Dialogue,,0,0,0,,How many times must you do these\Ndisgraceful things before you're satisfied?
+Dialogue: 99,0:09:38.90,0:09:40.40,Dialogue,,0,0,0,,I-I'm sorry!
+Dialogue: 99,0:09:40.40,0:09:42.73,Dialogue,,0,0,0,,Oh, it's Takumatchi! Welcome home!
+Dialogue: 99,0:09:43.57,0:09:44.65,Dialogue,,0,0,0,,Welcome back.
+Dialogue: 99,0:09:46.90,0:09:48.44,Dialogue,,0,0,0,,What's up with him?
+Dialogue: 99,0:09:48.44,0:09:49.98,Dialogue,,0,0,0,,I don't know.
+Dialogue: 99,0:09:54.15,0:09:56.07,Dialogue,,0,0,0,,Right now, this house...
+Dialogue: 99,0:09:56.07,0:09:59.23,Dialogue,,0,0,0,,is being controlled by nine women!
+Dialogue: 99,0:09:59.52,0:10:03.86,Dialogue,,0,0,0,,They're like demons on an all-out rage fest\Nthat just showed up out of nowhere.
+Dialogue: 99,0:10:04.11,0:10:06.77,Dialogue,,0,0,0,,I was completely enjoying my\Ncarefully-crafted life alone,
+Dialogue: 99,0:10:06.77,0:10:09.07,Dialogue,,0,0,0,,but now I can't even concentrate on studying.
+Dialogue: 99,0:10:09.07,0:10:11.48,Dialogue,,0,0,0,,Since it's come to this, I'm gonna call the police!
+Dialogue: 99,0:10:11.73,0:10:14.15,Dialogue,,0,0,0,,Are you saying you want us to leave?
+Dialogue: 99,0:10:17.07,0:10:18.23,Dialogue,,0,0,0,,Yo!
+Dialogue: 99,0:10:19.07,0:10:23.32,Dialogue,,0,0,0,,Since you allowed us to\Nso brazenly occupy your home,
+Dialogue: 99,0:10:23.32,0:10:27.07,Dialogue,,0,0,0,,if this is what you have decided, we will obey.
+Dialogue: 99,0:10:27.07,0:10:28.44,Dialogue,,0,0,0,,We will.
+Dialogue: 99,0:10:28.44,0:10:33.07,Dialogue,,0,0,0,,However, what would our dear father say,\Nwere we to return home empty handed as we are?
+Dialogue: 99,0:10:33.07,0:10:34.27,Dialogue,,0,0,0,,We are!
+Dialogue: 99,0:10:35.23,0:10:37.61,Dialogue,,0,0,0,,You don't have to leave.
+Dialogue: 99,0:10:37.61,0:10:38.94,Dialogue,,0,0,0,,Hooray!
+Dialogue: 99,0:10:38.94,0:10:41.44,Dialogue,,0,0,0,,Really? Thank goodness.
+Dialogue: 99,0:10:41.44,0:10:42.27,Dialogue,,0,0,0,,By the way, why aren't they all\Nafraid of being around me?
+Dialogue: 99,0:10:42.27,0:10:46.15,Subtitle-2,,0,0,0,,Big Bro Takuma, let's play! Big Bro Takuma?\N{\rDialogue}By the way, why aren't they all{\r}\N{\rDialogue}afraid of being around me?{\r}
+Dialogue: 99,0:10:46.61,0:10:48.36,Dialogue,,0,0,0,,This is too scary!
+Dialogue: 99,0:10:49.32,0:10:51.40,Subtitle-2,,0,0,0,,Concerning the frequent demon incidents,
+Dialogue: 99,0:10:51.40,0:10:53.77,Subtitle-2,,0,0,0,,the police are having a hard time\Nwith their investigation.
+Dialogue: 99,0:10:53.77,0:10:54.90,Subtitle-2,,0,0,0,,They have yet to obtain any clues on the matter.
+Dialogue: 99,0:10:54.90,0:10:55.98,Dialogue,,0,0,0,,Pass the soy sauce!\N{\rSubtitle-2}They have yet to obtain any clues on the matter.{\r}
+Dialogue: 99,0:10:55.98,0:10:56.77,Dialogue,,0,0,0,,Pass the soy sauce!
+Dialogue: 99,0:10:56.94,0:10:58.11,Dialogue,,0,0,0,,Here you go!
+Dialogue: 99,0:11:00.07,0:11:01.77,Dialogue,,0,0,0,,Mutsumi, what about work today?
+Dialogue: 99,0:11:01.77,0:11:02.77,Dialogue,,0,0,0,,I'm off.
+Dialogue: 99,0:11:02.77,0:11:04.61,Dialogue,,0,0,0,,My, that's rare.
+Dialogue: 99,0:11:04.61,0:11:05.73,Dialogue,,0,0,0,,More, please!
+Dialogue: 99,0:11:05.73,0:11:08.73,Dialogue,,0,0,0,,Takuma-chan, you haven't even\Ntouched your chopsticks.
+Dialogue: 99,0:11:08.73,0:11:10.19,Dialogue,,0,0,0,,Oh, uh...
+Dialogue: 99,0:11:11.90,0:11:14.07,Dialogue,,0,0,0,,I'm afraid of people!
+Dialogue: 99,0:11:14.07,0:11:16.02,Dialogue,,0,0,0,,I don't want to associate with other people!
+Dialogue: 99,0:11:16.02,0:11:18.19,Dialogue,,0,0,0,,I just want to study by myself!
+Dialogue: 99,0:11:18.19,0:11:19.82,Dialogue,,0,0,0,,The entrance exams are next year, you know!
+Dialogue: 99,0:11:19.82,0:11:22.61,Dialogue,,0,0,0,,So please, leave my house right now!
+Dialogue: 99,0:11:23.07,0:11:25.32,Dialogue,,0,0,0,,I could never say something like that, though.
+Dialogue: 99,0:11:25.32,0:11:26.52,Dialogue,,0,0,0,,More, please!
+Dialogue: 99,0:11:28.07,0:11:31.19,Dialogue,,0,0,0,,I wonder how I can get them to leave peacefully...
+Dialogue: 99,0:11:31.90,0:11:34.61,Dialogue,,0,0,0,,If this keeps up, it will affect\Nmy entrance exam studies...
+Dialogue: 99,0:11:46.02,0:11:48.44,Dialogue,,0,0,0,,Has Natsuki-chan piqued your interest?
+Dialogue: 99,0:11:49.94,0:11:52.07,Dialogue,,0,0,0,,There's a hole in the wall!
+Dialogue: 99,0:11:53.77,0:11:55.77,Dialogue,,0,0,0,,If that's the case...
+Dialogue: 99,0:11:56.57,0:11:58.57,Dialogue,,0,0,0,,Why did this happen?
+Dialogue: 99,0:11:58.57,0:12:02.48,Dialogue,,0,0,0,,Natsuki-san is always angry and I can't deal with her.
+Dialogue: 99,0:12:02.48,0:12:04.57,Dialogue,,0,0,0,,I want to be alone as soon as possible.
+Dialogue: 99,0:12:07.44,0:12:08.90,Dialogue,,0,0,0,,What is it?
+Dialogue: 99,0:12:09.11,0:12:10.48,Dialogue,,0,0,0,,N-nothing.
+Dialogue: 99,0:12:10.48,0:12:13.23,Dialogue,,0,0,0,,Were you always wearing glasses?
+Dialogue: 99,0:12:13.23,0:12:15.65,Dialogue,,0,0,0,,Are you making fun of me?
+Dialogue: 99,0:12:15.65,0:12:17.69,Dialogue,,0,0,0,,I only wear them when I'm studying.
+Dialogue: 99,0:12:17.98,0:12:21.48,Dialogue,,0,0,0,,Glasses are something you wear\Nwhen studying, right?
+Dialogue: 99,0:12:21.48,0:12:23.40,Dialogue,,0,0,0,,So, they're just for show.
+Dialogue: 99,0:12:26.27,0:12:28.36,Dialogue,,0,0,0,,Do you really hate it that much?
+Dialogue: 99,0:12:30.02,0:12:32.94,Dialogue,,0,0,0,,Do you hate studying with me?
+Dialogue: 99,0:12:33.86,0:12:37.44,Dialogue,,0,0,0,,Yes! If at all possible, I want to study by myself!
+Dialogue: 99,0:12:38.44,0:12:41.23,Dialogue,,0,0,0,,You idiot! Just get on with it!
+Dialogue: 99,0:12:41.44,0:12:43.82,Dialogue,,0,0,0,,I will not go along with this!
+Dialogue: 99,0:12:44.11,0:12:47.36,Dialogue,,0,0,0,,Itsuyo-chan, you're as aggressive as always!
+Dialogue: 99,0:12:47.36,0:12:49.15,Dialogue,,0,0,0,,Don't act like that, Itsuyo.
+Dialogue: 99,0:12:49.15,0:12:51.32,Dialogue,,0,0,0,,We all decided on this beforehand.
+Dialogue: 99,0:12:51.32,0:12:52.48,Dialogue,,0,0,0,,She's right.
+Dialogue: 99,0:12:52.48,0:12:55.57,Dialogue,,0,0,0,,We said that we'd give priority to\Nraising Natsuki-chan's level.
+Dialogue: 99,0:12:56.77,0:13:00.65,Dialogue,,0,0,0,,Itsuyo, cheer up! I'll give you candy later.
+Dialogue: 99,0:13:01.61,0:13:04.86,Dialogue,,0,0,0,,More importantly, is Big Brother okay?
+Dialogue: 99,0:13:04.86,0:13:07.15,Dialogue,,0,0,0,,He goes on and on about studying,
+Dialogue: 99,0:13:07.15,0:13:10.90,Dialogue,,0,0,0,,and I don't feel he's motivated to do\Nthe most crucial thing.
+Dialogue: 99,0:13:11.32,0:13:12.65,Dialogue,,0,0,0,,Oh really?
+Dialogue: 99,0:13:12.65,0:13:14.61,Dialogue,,0,0,0,,I totally get it.
+Dialogue: 99,0:13:14.61,0:13:17.07,Dialogue,,0,0,0,,He's completely unmotivated by that.
+Dialogue: 99,0:13:18.32,0:13:20.36,Dialogue,,0,0,0,,You need to show some motivation too!
+Dialogue: 99,0:13:20.82,0:13:24.44,Dialogue,,0,0,0,,I'm not worried about anything in regards to that.
+Dialogue: 99,0:13:25.94,0:13:30.86,Dialogue,,0,0,0,,After all, Takuma-san is the man\Nthat our father approves of.
+Dialogue: 99,0:13:33.65,0:13:36.69,Dialogue,,0,0,0,,I'm so nervous I can't concentrate on studying.
+Dialogue: 99,0:13:36.69,0:13:39.44,Dialogue,,0,0,0,,Calm down... I need to calm down.
+Dialogue: 99,0:13:41.77,0:13:44.69,Dialogue,,0,0,0,,I have to focus more. Focus...
+Dialogue: 99,0:13:44.69,0:13:46.52,Dialogue,,0,0,0,,FOCUS!
+Dialogue: 99,0:13:47.07,0:13:49.90,Dialogue,,0,0,0,,Of all places, that's where it chooses to go...
+Dialogue: 99,0:13:50.69,0:13:51.82,Dialogue,,0,0,0,,What do I do?
+Dialogue: 99,0:13:51.82,0:13:53.52,Dialogue,,0,0,0,,What is the meaning of this?
+Dialogue: 99,0:13:53.52,0:13:56.44,Dialogue,,0,0,0,,I even put on glasses like Dad said to, but...
+Dialogue: 99,0:13:56.98,0:13:59.52,Dialogue,,0,0,0,,I don't understand this problem at all!
+Dialogue: 99,0:13:59.98,0:14:02.07,Dialogue,,0,0,0,,And what on earth is up with math?
+Dialogue: 99,0:14:02.07,0:14:04.73,Dialogue,,0,0,0,,Do I really need this type of thing?
+Dialogue: 99,0:14:04.94,0:14:07.19,Dialogue,,0,0,0,,Trig...Trigonometric function?
+Dialogue: 99,0:14:07.19,0:14:09.65,Dialogue,,0,0,0,,Is that some sort of esoteric technique?
+Dialogue: 99,0:14:13.61,0:14:14.07,Dialogue,,0,0,0,,Disgraceful!
+Dialogue: 99,0:14:14.07,0:14:14.69,Subtitle-2,,0,0,0,,I'b shorry!\N{\rDialogue}Disgraceful!{\r}
+Dialogue: 99,0:14:14.69,0:14:15.65,Subtitle-2,,0,0,0,,I'b shorry!
+Dialogue: 99,0:14:15.94,0:14:18.07,Dialogue,,0,0,0,,I was trying to get my eraser...
+Dialogue: 99,0:14:19.19,0:14:21.36,Dialogue,,0,0,0,,Are you seriously even motivated to do this?!
+Dialogue: 99,0:14:25.11,0:14:26.44,Dialogue,,0,0,0,,I am.
+Dialogue: 99,0:14:27.48,0:14:30.61,Dialogue,,0,0,0,,I promised my deceased mother.
+Dialogue: 99,0:14:33.94,0:14:37.23,Dialogue,,0,0,0,,I said I'd study... and become...
+Dialogue: 99,0:14:37.61,0:14:40.02,Dialogue,,0,0,0,,become a respectable person.
+Dialogue: 99,0:14:42.86,0:14:47.32,Dialogue,,0,0,0,,Are the two of you just about done studying?
+Dialogue: 99,0:14:47.32,0:14:49.48,Dialogue,,0,0,0,,Come and take a little break.
+Dialogue: 99,0:14:54.77,0:14:57.40,Dialogue,,0,0,0,,Why is this happening again...
+Dialogue: 99,0:14:57.94,0:15:01.23,Dialogue,,0,0,0,,I accidentally forgot to buy toilet paper,
+Dialogue: 99,0:15:01.23,0:15:03.86,Dialogue,,0,0,0,,so I'd like you two to go get some.
+Dialogue: 99,0:15:03.86,0:15:06.23,Dialogue,,0,0,0,,Oh right, when you do this,
+Dialogue: 99,0:15:06.23,0:15:09.52,Dialogue,,0,0,0,,you must hold hands and go shopping.
+Dialogue: 99,0:15:09.73,0:15:11.52,Dialogue,,0,0,0,,Make sure you don't forget, okay?
+Dialogue: 99,0:15:12.61,0:15:15.07,Dialogue,,0,0,0,,I want to go home now.
+Dialogue: 99,0:15:15.69,0:15:19.48,Subtitle-2,,0,0,0,,This is a notice to all residents of the neighborhood.
+Dialogue: 99,0:15:19.77,0:15:23.40,Subtitle-2,,0,0,0,,There have been many dangerous incidents\Noccurring around this area.
+Dialogue: 99,0:15:23.40,0:15:26.15,Subtitle-2,,0,0,0,,Please refrain from going out at night.
+Dialogue: 99,0:15:26.65,0:15:30.77,Dialogue,,0,0,0,,You know they suspect that you're the culprit\Nin the akuma incidents, right?
+Dialogue: 99,0:15:30.77,0:15:31.73,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:15:32.11,0:15:37.11,Dialogue,,0,0,0,,It's because they see an incident in the classroom,\Nand you let everyone continue to misunderstand it.
+Dialogue: 99,0:15:38.23,0:15:40.32,Dialogue,,0,0,0,,Why don't you even try to defend yourself.
+Dialogue: 99,0:15:42.61,0:15:45.32,Dialogue,,0,0,0,,It'd be pointless to do that.
+Dialogue: 99,0:15:45.32,0:15:48.61,Dialogue,,0,0,0,,My face is scary and my body is big.
+Dialogue: 99,0:15:48.61,0:15:53.36,Dialogue,,0,0,0,,I only cause problems, so I can't do anything\Nabout being treated like a criminal.
+Dialogue: 99,0:15:54.27,0:15:55.77,Dialogue,,0,0,0,,Is she angry?!
+Dialogue: 99,0:15:56.07,0:15:59.77,Dialogue,,0,0,0,,Speaking of the akuma incidents,\Nthey were right around here, right?
+Dialogue: 99,0:15:59.77,0:16:03.11,Dialogue,,0,0,0,,And the place where you saved my life...
+Dialogue: 99,0:16:03.27,0:16:05.36,Dialogue,,0,0,0,,Yeah... it was.
+Dialogue: 99,0:16:05.77,0:16:08.36,Dialogue,,0,0,0,,Seeing you right now, I get annoyed.
+Dialogue: 99,0:16:08.77,0:16:10.77,Dialogue,,0,0,0,,I-I'm sorry.
+Dialogue: 99,0:16:10.77,0:16:12.69,Dialogue,,0,0,0,,Even though back then,
+Dialogue: 99,0:16:13.98,0:16:16.98,Dialogue,,0,0,0,,you were... so cool.
+Dialogue: 99,0:16:25.73,0:16:26.73,Dialogue,,0,0,0,,An akuma!
+Dialogue: 99,0:16:29.32,0:16:30.27,Dialogue,,0,0,0,,What is that?
+Dialogue: 99,0:16:30.27,0:16:31.23,Dialogue,,0,0,0,,Is this for TV?
+Dialogue: 99,0:16:43.65,0:16:44.86,Dialogue,,0,0,0,,It disappeared?
+Dialogue: 99,0:16:45.52,0:16:48.40,Dialogue,,0,0,0,,It seems they've safely deployed the barrier.
+Dialogue: 99,0:16:48.82,0:16:50.23,Dialogue,,0,0,0,,It's huge!
+Dialogue: 99,0:16:50.82,0:16:55.36,Dialogue,,0,0,0,,This summon brought a much stronger one\Ncompared to the previous ones.
+Dialogue: 99,0:16:55.36,0:16:59.61,Dialogue,,0,0,0,,Does this mean that Father's oracle\Nis one hundred percent true?
+Dialogue: 99,0:17:01.02,0:17:02.98,Dialogue,,0,0,0,,Huh? What do we do?
+Dialogue: 99,0:17:02.98,0:17:06.15,Dialogue,,0,0,0,,It doesn't look like Natsuki can\Ndefeat it at her current level,
+Dialogue: 99,0:17:06.15,0:17:07.98,Dialogue,,0,0,0,,but we have to believe in her.
+Dialogue: 99,0:17:08.61,0:17:12.15,Dialogue,,0,0,0,,You can do it, Natsuki-chan, Takuma-kun.
+Dialogue: 99,0:17:15.44,0:17:17.77,Dialogue,,0,0,0,,This is definitely a Hrugnir!
+Dialogue: 99,0:17:18.02,0:17:21.36,Dialogue,,0,0,0,,I can't believe such a high-level\Ndemon was summoned!
+Dialogue: 99,0:17:21.36,0:17:24.11,Dialogue,,0,0,0,,I can't buy us any extra time for the barrier!
+Dialogue: 99,0:17:24.44,0:17:25.69,Dialogue,,0,0,0,,What do I do?
+Dialogue: 99,0:17:25.69,0:17:29.77,Dialogue,,0,0,0,,I'll lose the opportunity to raise my level\Nif I hold hands and shop.
+Dialogue: 99,0:17:30.57,0:17:33.69,Dialogue,,0,0,0,,Then, we have to do it the other way...
+Dialogue: 99,0:17:34.65,0:17:36.57,Dialogue,,0,0,0,,It's impossible to get rid of this akuma!
+Dialogue: 99,0:17:36.57,0:17:37.90,Dialogue,,0,0,0,,Let's just run for it!
+Dialogue: 99,0:17:37.90,0:17:40.40,Dialogue,,0,0,0,,What a loathsome thing to say at a time like this.
+Dialogue: 99,0:17:40.40,0:17:42.36,Dialogue,,0,0,0,,That's really the type of man he is.
+Dialogue: 99,0:17:42.73,0:17:44.27,Dialogue,,0,0,0,,Find somewhere and take cover!
+Dialogue: 99,0:17:44.27,0:17:45.11,Dialogue,,0,0,0,,Okay!
+Dialogue: 99,0:17:45.11,0:17:46.73,Dialogue,,0,0,0,,I really hate him.
+Dialogue: 99,0:18:00.90,0:18:03.44,Dialogue,,0,0,0,,Hey, get ahold of yourself! Hey!
+Dialogue: 99,0:18:03.44,0:18:05.82,Dialogue,,0,0,0,,You protected me? Why?
+Dialogue: 99,0:18:06.86,0:18:08.23,Dialogue,,0,0,0,,I knew it.
+Dialogue: 99,0:18:08.23,0:18:11.11,Dialogue,,0,0,0,,Nothing good comes from\Nbeing involved with other people.
+Dialogue: 99,0:18:11.11,0:18:13.61,Dialogue,,0,0,0,,I'm okay with being alone my whole life.
+Dialogue: 99,0:18:13.61,0:18:14.69,Dialogue,,0,0,0,,I wholeheartedly believe that.
+Dialogue: 99,0:18:14.69,0:18:15.40,Subtitle-2,,0,0,0,,Yay! C'mon, this way!\N{\rDialogue}I wholeheartedly believe that.{\r}
+Dialogue: 99,0:18:15.40,0:18:16.61,Subtitle-2,,0,0,0,,Yay! C'mon, this way!
+Dialogue: 99,0:18:17.32,0:18:18.19,Dialogue,,0,0,0,,Wait!
+Dialogue: 99,0:18:18.40,0:18:19.61,Dialogue,,0,0,0,,And yet...
+Dialogue: 99,0:18:20.69,0:18:23.73,Dialogue,,0,0,0,,My body had moved before I realized it.
+Dialogue: 99,0:18:29.57,0:18:31.86,Dialogue,,0,0,0,,This is how you really are.
+Dialogue: 99,0:18:32.27,0:18:34.27,Dialogue,,0,0,0,,Nothing's changed at all.
+Dialogue: 99,0:18:34.61,0:18:37.73,Dialogue,,0,0,0,,Natsuki-san, get out of here and get someone to help!
+Dialogue: 99,0:18:38.23,0:18:39.44,Dialogue,,0,0,0,,I can't.
+Dialogue: 99,0:18:39.90,0:18:42.40,Dialogue,,0,0,0,,That demon can't be defeated by humans.
+Dialogue: 99,0:18:43.94,0:18:46.19,Dialogue,,0,0,0,,This is my first time...
+Dialogue: 99,0:18:46.94,0:18:49.82,Dialogue,,0,0,0,,So... be gentle with me.
+Dialogue: 99,0:19:06.82,0:19:09.32,Dialogue,,0,0,0,,"Hold hands and go shopping," cancelled.
+Dialogue: 99,0:19:10.15,0:19:12.77,Dialogue,,0,0,0,,Val x Love "Massage chest" complete.
+Dialogue: 99,0:19:13.02,0:19:14.65,Dialogue,,0,0,0,,Entering experience points.
+Dialogue: 99,0:19:14.65,0:19:17.27,Dialogue,,0,0,0,,Siegrune level up confirmed,
+Dialogue: 99,0:19:17.27,0:19:20.02,Dialogue,,0,0,0,,and "Kiss with a Lover" acknowledged.
+Dialogue: 99,0:19:20.44,0:19:21.82,Dialogue,,0,0,0,,Valkyrie, invoked.
+Dialogue: 99,0:19:24.69,0:19:26.44,Dialogue,,0,0,0,,As told in the myths,
+Dialogue: 99,0:19:26.44,0:19:30.77,Dialogue,,0,0,0,,in Asgard's Valhalla, there live\Ngoddesses called Valkyries.
+Dialogue: 99,0:19:31.65,0:19:33.73,Dialogue,,0,0,0,,Natsuki-san...
+Dialogue: 99,0:19:34.40,0:19:37.86,Dialogue,,0,0,0,,Valkyries grow stronger as long as they are in love.
+Dialogue: 99,0:19:39.36,0:19:41.36,Dialogue,,0,0,0,,The reason being that, love is...
+Dialogue: 99,0:19:46.40,0:19:50.44,Dialogue,,0,0,0,,the source of a maiden's power.
+Dialogue: 99,0:19:54.61,0:19:56.52,Dialogue,,0,0,0,,Bun! S-au descurcat destul de bine!
+Dialogue: 99,0:19:56.52,0:19:57.40,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:19:57.73,0:19:59.40,Dialogue,,0,0,0,,Asta e grozav, Itsuyo!
+Dialogue: 99,0:19:59.40,0:20:01.86,Dialogue,,0,0,0,,Of course they'd be able to do at least that.
+Dialogue: 99,0:20:02.48,0:20:04.40,Dialogue,,0,0,0,,Ai văzut asta?
+Dialogue: 99,0:20:04.40,0:20:07.02,Dialogue,,0,0,0,,Takuma dă tot ce poate.
+Dialogue: 99,0:20:07.32,0:20:10.52,Dialogue,,0,0,0,,Why don't you give it up\Nand show your face around here,
+Dialogue: 99,0:20:10.52,0:20:12.02,Dialogue,,0,0,0,,Soră mai mare Ichika?
+Dialogue: 99,0:20:12.27,0:20:15.15,Dialogue,,0,0,0,,Hmpf, 320 de secunde.
+Dialogue: 99,0:20:15.15,0:20:18.19,Dialogue,,0,0,0,,Dacă de atât are nevoie \Nca să elimine un demon,
+Dialogue: 99,0:20:18.19,0:20:20.40,Dialogue,,0,0,0,,atunci, spiritul său e mult prea slab.
+Dialogue: 99,0:20:20.94,0:20:25.82,Dialogue,,0,0,0,,Nu aș putea recunoaște niciodată o asemenea persoană ca iubitul nostru.
+Dialogue: 99,0:20:40.94,0:20:44.57,Dialogue,,0,0,0,,Currently, this world is in grave danger of destruction.
+Dialogue: 99,0:20:44.98,0:20:46.90,Dialogue,,0,0,0,,Brave young man,
+Dialogue: 99,0:20:46.90,0:20:50.94,Dialogue,,0,0,0,,you should surely understand this personally now.
+Dialogue: 99,0:20:51.48,0:20:55.61,Dialogue,,0,0,0,,At this rate, in not even a few days' time,\Nthis world will be enveloped in flame.
+Dialogue: 99,0:20:55.61,0:21:00.11,Dialogue,,0,0,0,,This world, this land of Midgard...\NI want you to protect it from the akuma's grasp.
+Dialogue: 99,0:21:00.11,0:21:01.52,Dialogue,,0,0,0,,Who are you?
+Dialogue: 99,0:21:01.52,0:21:05.07,Dialogue,,0,0,0,,I am Odin, ruler of the gods of Asgard.
+Dialogue: 99,0:21:05.07,0:21:07.94,Dialogue,,0,0,0,,You will need a sword to win this battle.
+Dialogue: 99,0:21:07.94,0:21:10.02,Dialogue,,0,0,0,,I will bestow one upon you.
+Dialogue: 99,0:21:10.44,0:21:12.15,Dialogue,,0,0,0,,There are nine sacred swords.
+Dialogue: 99,0:21:12.15,0:21:14.32,Dialogue,,0,0,0,,The nine beautiful, young Valkyries.
+Dialogue: 99,0:21:14.32,0:21:17.19,Dialogue,,0,0,0,,As long as a Valkyrie is in love,\Nshe will grow stronger.
+Dialogue: 99,0:21:18.27,0:21:20.98,Dialogue,,0,0,0,,You will become the Valkyries' lover.
+Dialogue: 99,0:21:22.19,0:21:23.98,Dialogue,,0,0,0,,You will fall in love with them.
+Dialogue: 99,0:21:24.98,0:21:26.98,Dialogue,,0,0,0,,Grow, and refine yourself.
+Dialogue: 99,0:21:28.15,0:21:29.98,Dialogue,,0,0,0,,You must show proof...
+Dialogue: 99,0:21:31.19,0:21:34.27,Dialogue,,0,0,0,,Love is what will save the world!
+Dialogue: 99,0:23:05.65,0:23:08.77,Dialogue,,0,0,0,,We managed to defeat the akuma\Nthis time around, but to fight well,
+Dialogue: 99,0:23:08.77,0:23:11.69,Dialogue,,0,0,0,,it's important to raise our levels higher than normal\Nso this won't happen again.
+Dialogue: 99,0:23:11.69,0:23:14.36,Dialogue,,0,0,0,,Okay. The Val Love sure have a lot of different levels.
+Dialogue: 99,0:23:14.36,0:23:16.82,Dialogue,,0,0,0,,What does that mean? Do you have\Nsome sort of objection to being our lovers?
+Dialogue: 99,0:23:16.82,0:23:20.11,Dialogue,,0,0,0,,Not at all! I'm just wondering why I was chosen.
+Dialogue: 99,0:23:20.11,0:23:24.90,Dialogue,,0,0,0,,The ruler of the gods of Asgard, who's my papa...\Nmy Father, accepted you as the one.
+Dialogue: 99,0:23:25.07,0:23:30.02,Dialogue,,0,0,0,,In any case, as our lover Einherjar,\Nyou will raise the levels of my sisters and I.
+Dialogue: 99,0:23:30.02,0:23:34.40,Dialogue,,0,0,0,,And if we don't kiss you to start with,\Nwe cannot manifest the true power of the Valkyries.
+Dialogue: 99,0:23:34.40,0:23:36.15,Dialogue,,0,0,0,,Simt cum stomacul mi \Nzdrobește de la presiune...
+Dialogue: 99,0:23:37.23,0:23:39.36,Dialogue,,0,700,0,,Data viitoare: {\i1}Fata cu lanțul{\i0}.
 Dialogue: 0,0:00:11.86,0:00:16.89,OP TL,,0,0,0,,{\bord4\yshad0.01\3c&HFFFFFF&\4c&HFFFFFF&\blur6\fad(200,0)}Still unseen by anyone
 Dialogue: 1,0:00:11.86,0:00:16.89,OP TL,,0,0,0,,{\yshad0.01\blur1\fad(200,0)\t(\c&H75163B&\3c&H75163B&\4c&H75163B&)}Still unseen by anyone
 Dialogue: 2,0:00:11.86,0:00:16.89,OP TL,,0,0,0,,{\bord0\blur0.8\fad(200,0)}Still unseen by anyone
@@ -466,26 +466,26 @@ Dialogue: 2,0:01:29.36,0:01:34.70,OP TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}I'l
 Dialogue: 0,0:01:34.70,0:01:39.09,OP TL,,0,0,0,,{\bord4\yshad0.01\3c&HFFFFFF&\4c&HFFFFFF&\blur6\fad(200,200)}Pentru binele meu
 Dialogue: 1,0:01:34.70,0:01:39.09,OP TL,,0,0,0,,{\yshad0.01\c&H47007E&\3c&H47007E&\4c&H47007E&\blur1\fad(200,200)}Pentru binele meu
 Dialogue: 2,0:01:34.70,0:01:39.09,OP TL,,0,0,0,,{\bord0\blur0.8\fad(200,200)}Pentru binele meu
-Dialogue: 100,0:21:35.07,0:21:38.43,ED TL,,0,0,0,,Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
-Dialogue: 100,0:21:38.65,0:21:41.52,ED TL,,0,0,0,,Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
-Dialogue: 100,0:21:41.87,0:21:48.15,ED TL,,0,0,0,,If we don't understand love,\Nyou & I won't get anywhere, you know?
-Dialogue: 100,0:21:49.94,0:22:00.66,ED TL,,0,0,0,,Nine times out of love on cloud nine
-Dialogue: 100,0:22:01.01,0:22:02.77,ED TL,,0,0,0,,Vrem să-ți împărțim inima!
-Dialogue: 100,0:22:02.86,0:22:06.02,ED TL,,0,0,0,,(How do you tell me?)\NInput sweet nothings
-Dialogue: 100,0:22:06.02,0:22:09.23,ED TL,,0,0,0,,Failed - Cancelled - They don't resonate at all\N(Please don't be shy)
-Dialogue: 100,0:22:09.23,0:22:12.44,ED TL,,0,0,0,,(How to make dream)\NTouch me and bring me one
-Dialogue: 100,0:22:12.44,0:22:16.86,ED TL,,0,0,0,,Successful - Complete - Isn't cutting-edge tech great?\N(Hold me tight)
-Dialogue: 100,0:22:16.86,0:22:21.57,ED TL,,0,0,0,,Why won't you say romance?
-Dialogue: 100,0:22:21.52,0:22:24.61,ED TL,,0,0,0,,Let's bring it to love
-Dialogue: 100,0:22:24.79,0:22:31.83,ED TL,,0,0,0,,Get more experience and level up my maiden heart
-Dialogue: 100,0:22:33.00,0:22:36.48,ED TL,,0,0,0,,{\c&H9B9B99&}Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
-Dialogue: 100,0:22:36.48,0:22:39.82,ED TL,,0,0,0,,{\c&H9B9B99&}Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
-Dialogue: 100,0:22:39.90,0:22:45.74,ED TL,,0,0,0,,{\c&H9B9B99&}I'll teach you that love is a maiden's power!\N(Love gave the power to Valkyrie)
-Dialogue: 100,0:22:45.92,0:22:49.16,ED TL,,0,0,0,,{\c&H9B9B99&}Nine times out of ten, they're surely already lovers!\N(Please, please up-date my love)
-Dialogue: 100,0:22:49.32,0:22:52.69,ED TL,,0,0,0,,{\c&H9B9B99&}Fluttering in my chest, dance, dance!\N(Please, please show your heart)
-Dialogue: 100,0:22:52.77,0:22:55.81,ED TL,,0,0,0,,{\c&H9B9B99&}Your shy akuma mind, kiss for you!
-Dialogue: 100,0:22:55.99,0:22:59.04,ED TL,,0,0,0,,{\c&H9B9B99&}Will completely change, kiss for me!
-Dialogue: 100,0:22:59.22,0:23:02.42,ED TL,,0,0,0,,Let's begin our romance!
+Dialogue: 99,0:21:35.07,0:21:38.43,ED TL,,0,0,0,,Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
+Dialogue: 99,0:21:38.65,0:21:41.52,ED TL,,0,0,0,,Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
+Dialogue: 99,0:21:41.87,0:21:48.15,ED TL,,0,0,0,,If we don't understand love,\Nyou & I won't get anywhere, you know?
+Dialogue: 99,0:21:49.94,0:22:00.66,ED TL,,0,0,0,,Nine times out of love on cloud nine
+Dialogue: 99,0:22:01.01,0:22:02.77,ED TL,,0,0,0,,Vrem să-ți împărțim inima!
+Dialogue: 99,0:22:02.86,0:22:06.02,ED TL,,0,0,0,,(How do you tell me?)\NInput sweet nothings
+Dialogue: 99,0:22:06.02,0:22:09.23,ED TL,,0,0,0,,Failed - Cancelled - They don't resonate at all\N(Please don't be shy)
+Dialogue: 99,0:22:09.23,0:22:12.44,ED TL,,0,0,0,,(How to make dream)\NTouch me and bring me one
+Dialogue: 99,0:22:12.44,0:22:16.86,ED TL,,0,0,0,,Successful - Complete - Isn't cutting-edge tech great?\N(Hold me tight)
+Dialogue: 99,0:22:16.86,0:22:21.57,ED TL,,0,0,0,,Why won't you say romance?
+Dialogue: 99,0:22:21.52,0:22:24.61,ED TL,,0,0,0,,Let's bring it to love
+Dialogue: 99,0:22:24.79,0:22:31.83,ED TL,,0,0,0,,Get more experience and level up my maiden heart
+Dialogue: 99,0:22:33.00,0:22:36.48,ED TL,,0,0,0,,{\c&H9B9B99&}Up-date! Date! Date! Please, please!\N(Please, please up-date my love)
+Dialogue: 99,0:22:36.48,0:22:39.82,ED TL,,0,0,0,,{\c&H9B9B99&}Heart! Heart! Heart! Please, please!\N(Please, please show your heart)
+Dialogue: 99,0:22:39.90,0:22:45.74,ED TL,,0,0,0,,{\c&H9B9B99&}I'll teach you that love is a maiden's power!\N(Love gave the power to Valkyrie)
+Dialogue: 99,0:22:45.92,0:22:49.16,ED TL,,0,0,0,,{\c&H9B9B99&}Nine times out of ten, they're surely already lovers!\N(Please, please up-date my love)
+Dialogue: 99,0:22:49.32,0:22:52.69,ED TL,,0,0,0,,{\c&H9B9B99&}Fluttering in my chest, dance, dance!\N(Please, please show your heart)
+Dialogue: 99,0:22:52.77,0:22:55.81,ED TL,,0,0,0,,{\c&H9B9B99&}Your shy akuma mind, kiss for you!
+Dialogue: 99,0:22:55.99,0:22:59.04,ED TL,,0,0,0,,{\c&H9B9B99&}Will completely change, kiss for me!
+Dialogue: 99,0:22:59.22,0:23:02.42,ED TL,,0,0,0,,Let's begin our romance!
 Dialogue: 0,0:00:01.02,0:00:04.11,DedzuyaSigns,,0,0,0,,Cineva a spus cândva:
 Dialogue: 0,0:00:04.86,0:00:06.86,DedzuyaSigns,,0,0,0,,„Iubirea este
 Dialogue: 0,0:00:07.57,0:00:10.44,DedzuyaSigns,,0,0,0,,sursa de putere a unei fete.”

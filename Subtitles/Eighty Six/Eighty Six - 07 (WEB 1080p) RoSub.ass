@@ -38,292 +38,292 @@ Style: ED TL,Handage AOE,89,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:02:27.81,0:02:32.86,Dialogue,,0,0,0,,{\an8}Provizii pentru escadronul Vârf de Lance din zona de luptă a Sectorului 1?
-Dialogue: 100,0:02:35.21,0:02:38.31,Dialogue,,0,0,0,,Domnișoară maior, ce e în acea cutie?
-Dialogue: 100,0:02:38.31,0:02:40.48,Dialogue,,0,0,0,,M-Muniție specială.
-Dialogue: 100,0:02:41.41,0:02:43.55,Dialogue,,0,0,0,,Ce e cu adevărat în ea?
-Dialogue: 100,0:02:44.78,0:02:47.04,Dialogue,,0,0,0,,Muniție specială.
-Dialogue: 100,0:02:51.33,0:02:54.07,Dialogue,,0,0,0,,Încă puțin... Încă puțin la dreapta.
-Dialogue: 100,0:02:54.84,0:02:55.73,Dialogue,,0,0,0,,Stop!
-Dialogue: 100,0:03:01.91,0:03:03.14,Dialogue,,0,0,0,,Bună treabă, domnișoară!
-Dialogue: 100,0:03:03.14,0:03:05.32,Dialogue,,0,0,0,,Ți-ar plăcea să ni te alături \Nla festivități, dșoară maior?
-Dialogue: 100,0:03:16.27,0:03:17.63,Dialogue,,0,0,0,,Inițiez confirmarea identității.
-Dialogue: 100,0:03:17.63,0:03:19.49,Dialogue,,0,0,0,,Maior Vladilena Milizé.
-Dialogue: 100,0:03:19.49,0:03:21.05,Dialogue,,0,0,0,,Regiunea estică a zonei de luptă din Sectorul 1,
-Dialogue: 100,0:03:21.05,0:03:23.55,Dialogue,,0,0,0,,ofițerul de comandament \Nși control al escadronului 1.
-Dialogue: 100,0:03:24.04,0:03:25.84,Dialogue,,0,0,0,,Activez Para-RAID.
-Dialogue: 100,0:03:27.43,0:03:30.44,Dialogue,,0,0,0,,Sincronizare cu Procesoarele \Nescadronului Vârf de Lance.
-Dialogue: 100,0:03:43.11,0:03:44.95,Dialogue,,0,0,0,,Uau!
-Dialogue: 100,0:03:44.95,0:03:46.57,Dialogue,,0,0,0,,Priviți!
-Dialogue: 100,0:03:51.48,0:03:54.00,Dialogue,,0,0,0,,{\i1}Dacă-ți este prea greu, \Nar trebui să te retragi.
-Dialogue: 100,0:03:56.19,0:03:59.13,Dialogue,,0,0,0,,{\i1}Ne descurcăm și fără tine.
-Dialogue: 100,0:03:59.13,0:04:02.38,Dialogue,,0,0,0,,{\i1}Nu se va schimba nimic dacă nu vom avea un ofițer de control cu noi.
-Dialogue: 100,0:04:02.79,0:04:04.14,Dialogue,,0,0,0,,Locotenent Kukumila...
-Dialogue: 100,0:04:04.14,0:04:08.51,Dialogue,,0,0,0,,{\i1}Ne distrage să te auzim cum te sperii, deși nu ești pe câmpul de luptă.
-Dialogue: 100,0:04:09.51,0:04:12.64,Dialogue,,0,0,0,,Pe voi nu vă deranjează?
-Dialogue: 100,0:04:13.17,0:04:14.73,Dialogue,,0,0,0,,Acele voci?
-Dialogue: 100,0:04:18.44,0:04:19.57,Dialogue,,0,0,0,,Doare!
-Dialogue: 100,0:04:22.24,0:04:24.79,Dialogue,,0,0,0,,{\an8}Mami!
-Dialogue: 100,0:04:22.90,0:04:26.45,Dialogue,,0,0,0,,Oh, haide. Fii mai atent.
-Dialogue: 100,0:04:27.04,0:04:28.73,Dialogue,,0,0,0,,Micuțule.
-Dialogue: 100,0:04:32.75,0:04:38.54,Dialogue,,0,0,0,,{\i1}Chiar și fără abilitatea lui Shin, Procesoarele aud mereu strigătele camarazilor lor care mor.
-Dialogue: 100,0:04:38.89,0:04:42.67,Dialogue,,0,0,0,,{\i1}Cel mai bine este să mori instant când îți explodează Distrugătorul.
-Dialogue: 100,0:04:43.50,0:04:46.84,Dialogue,,0,0,0,,{\i1}Cu toții ne-am văzut prietenii cu membrele sfâșiate, fețele distruse,
-Dialogue: 100,0:04:46.84,0:04:50.31,Dialogue,,0,0,0,,{\i1}arsuri pe întregul corp sau stomacele perforate și cu mațele ieșite,
-Dialogue: 100,0:04:51.06,0:04:56.19,Dialogue,,0,0,0,,{\i1}strigând de durere în timp ce își dădeau duhul.
-Dialogue: 100,0:04:56.63,0:05:01.23,Dialogue,,0,0,0,,{\i1}În comparație cu asta, \Nvocile celor morți sunt o nimica toată.
-Dialogue: 100,0:05:02.78,0:05:08.49,Dialogue,,0,0,0,,{\i1}Pentru noi, gândul că am putea muri în orice moment nu este ceva neobișnuit.
-Dialogue: 100,0:05:17.33,0:05:20.04,Dialogue,,0,0,0,,Bună seara tuturor.
-Dialogue: 100,0:05:20.04,0:05:21.98,Dialogue,,0,0,0,,{\i1}Te auzim tare și clar, \Ndomnișoară maior.
-Dialogue: 100,0:05:21.98,0:05:24.55,Dialogue,,0,0,0,,{\i1}Scuze, e puțin monoton \Ndoar cu noi în seara asta.
-Dialogue: 100,0:05:24.55,0:05:25.87,Dialogue,,0,0,0,,Locotenent Shuga?
-Dialogue: 100,0:05:26.49,0:05:29.56,Dialogue,,0,0,0,,Ei bine, unde e căpitanul Nouzen?
-Dialogue: 100,0:05:29.56,0:05:31.52,Dialogue,,0,0,0,,S-a întâmplat ceva în timpul bătăliei de astăzi?
-Dialogue: 100,0:05:31.52,0:05:35.10,Dialogue,,0,0,0,,{\i1}Nu, doar doarme. A spus că era obosit.
-Dialogue: 100,0:05:35.10,0:05:36.71,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:05:36.71,0:05:38.40,Dialogue,,0,0,0,,{\i1}Se întâmplă din când în când.
-Dialogue: 100,0:05:38.81,0:05:42.99,Dialogue,,0,0,0,,{\i1}Nu... Ei bine, nu știm cu certitudine,
-Dialogue: 100,0:05:42.99,0:05:46.32,Dialogue,,0,0,0,,{\i1}dar pariez că e extenuant \Nsă le auzi 24 de ore pe zi.
-Dialogue: 100,0:05:46.32,0:05:48.86,Dialogue,,0,0,0,,Te referi la vocile Legiunii?
-Dialogue: 100,0:05:48.86,0:05:52.16,Dialogue,,0,0,0,,{\i1}Nu ai de ce să-ți faci griji.
-Dialogue: 100,0:05:52.16,0:05:55.42,Dialogue,,0,0,0,,{\i1}Se întâmplă deoarece e aici. Nu ai ce-i face.
-Dialogue: 100,0:05:56.40,0:05:58.19,Dialogue,,0,0,0,,Nu este doar căpitanul,
-Dialogue: 100,0:05:58.19,0:06:00.85,Dialogue,,0,0,0,,ci și voi păreți extenuați.
-Dialogue: 100,0:06:01.54,0:06:04.24,Dialogue,,0,0,0,,Din cauza că ați pierdut \Natâtea persoane în bătălii.
-Dialogue: 100,0:06:04.95,0:06:05.72,Dialogue,,0,0,0,,{\i1}Da.
-Dialogue: 100,0:06:06.30,0:06:11.09,Dialogue,,0,0,0,,Nu ați primit întăriri deloc \Nde când am venit eu.
-Dialogue: 100,0:06:11.09,0:06:12.87,Dialogue,,0,0,0,,Mă voi asigura că se va întâmpla.
-Dialogue: 100,0:06:12.87,0:06:16.55,Dialogue,,0,0,0,,Voi face tot ce pot ca \Nacest lucru să fie prioritar.
-Dialogue: 100,0:06:18.76,0:06:20.62,Dialogue,,0,0,0,,Locotenent Shuga?
-Dialogue: 100,0:06:20.62,0:06:22.81,Dialogue,,0,0,0,,{\i1}Da, asta ar fi grozav.
-Dialogue: 100,0:06:22.81,0:06:26.10,Dialogue,,0,0,0,,Unitatea voastră apără cea \Nmai importantă bază a noastră.
-Dialogue: 100,0:06:26.10,0:06:28.65,Dialogue,,0,0,0,,Înlocuirea pierderilor ar trebui să aibă cea mai înaltă prioritate.
-Dialogue: 100,0:06:29.01,0:06:33.21,Dialogue,,0,0,0,,Până se va întâmpla, voi continua să cer întăriri de la unitățile din apropiere.
-Dialogue: 100,0:06:33.21,0:06:35.99,Dialogue,,0,0,0,,Deci, vă rog să mai rezistați puțin!
-Dialogue: 100,0:06:36.77,0:06:37.84,Dialogue,,0,0,0,,{\i1}Bine.
-Dialogue: 100,0:06:37.84,0:06:39.41,Dialogue,,0,0,0,,{\i1}Păi, presupun că vom \Nlăsa asta în seama ta.
-Dialogue: 100,0:06:40.43,0:06:41.20,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:06:46.89,0:06:52.39,Dialogue,,0,0,0,,{\an8}Deci ai decis să-ți ignori poziția și ai venit să mi te plângi direct mie, maior Milizé?
-Dialogue: 100,0:06:52.67,0:06:58.81,Dialogue,,0,0,0,,Sir, I can't wait any longer for replacements\Nfor the Spearhead Squadron.
-Dialogue: 100,0:06:58.81,0:07:02.73,Dialogue,,0,0,0,,Voi face orice ca să-i ajut,
-Dialogue: 100,0:07:02.73,0:07:06.03,Dialogue,,0,0,0,,chiar și să implor ajutor.
-Dialogue: 100,0:07:08.16,0:07:10.36,Dialogue,,0,0,0,,Am mers la fiecare \Ndepartament pentru ajutor, dar...
-Dialogue: 100,0:07:10.36,0:07:15.62,Dialogue,,0,0,0,,The resupply and Processor replacement plans \Nfor the Eastern Theater are a settled matter.
-Dialogue: 100,0:07:16.76,0:07:20.24,Dialogue,,0,0,0,,I-am informat deja în legătură cu cererea ta.
-Dialogue: 100,0:07:20.24,0:07:22.75,Dialogue,,0,0,0,,Probabil nu știi asta din moment \Nce e o chestiune internă.
-Dialogue: 100,0:07:22.75,0:07:24.16,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:07:24.16,0:07:25.73,Dialogue,,0,0,0,,Vom primi în sfârșit înlocuitori?
-Dialogue: 100,0:07:25.73,0:07:29.35,Dialogue,,0,0,0,,Deci fă-ți treaba cât de bine poți.
-Dialogue: 100,0:07:30.19,0:07:33.60,Dialogue,,0,0,0,,Ești gata pentru petrecerea \Nde la Festivalul Revoluției?
-Dialogue: 100,0:07:35.85,0:07:38.68,Dialogue,,0,0,0,,Vino la petrecere într-o rochie adecvată.
-Dialogue: 100,0:07:38.68,0:07:42.98,Dialogue,,0,0,0,,Nu e asta adevărata treabă \Na fiicei familiei Milizé?
-Dialogue: 100,0:07:45.47,0:07:46.40,Dialogue,,0,0,0,,Am înțeles.
-Dialogue: 100,0:07:51.82,0:07:54.32,Dialogue,,0,0,0,,{\an8}Lena, ascultă...
-Dialogue: 100,0:07:55.20,0:07:57.80,Dialogue,,0,0,0,,De ce ai crezut că acea \Nrochie e o alegere bună?
-Dialogue: 100,0:07:57.80,0:08:00.90,Dialogue,,0,0,0,,Este toată neagră, parcă ar fi o rochie de înmormântare.
-Dialogue: 100,0:08:00.90,0:08:02.48,Dialogue,,0,0,0,,Este minunată, nu-i așa?
-Dialogue: 100,0:08:02.48,0:08:04.71,Dialogue,,0,0,0,,Mulțumită ei, nimeni nu mă invită la dans.
-Dialogue: 100,0:08:05.76,0:08:09.55,Dialogue,,0,0,0,,Sunt de acord că această petrecere este plictisitoare și o pierdere de timp.
-Dialogue: 100,0:08:09.55,0:08:12.34,Dialogue,,0,0,0,,Dar asta nu înseamnă că poți veni într-o rochie nepotrivită.
-Dialogue: 100,0:08:12.34,0:08:15.11,Dialogue,,0,0,0,,Ei bine, eu cred că este destul de drăguță pentru mine.
-Dialogue: 100,0:08:15.11,0:08:16.85,Dialogue,,0,0,0,,Nu asta e ideea...
-Dialogue: 100,0:08:17.61,0:08:18.78,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:08:18.78,0:08:23.03,Dialogue,,0,0,0,,Unul din logodnicii mei este acolo. Cel care mi-a trimis acele dulciuri noi și extravagante.
-Dialogue: 100,0:08:23.03,0:08:24.19,Dialogue,,0,0,0,,Ne mai vedem, Lena!
-Dialogue: 100,0:08:31.39,0:08:32.11,Dialogue,,0,0,0,,Domnișoară maior.
-Dialogue: 100,0:08:32.43,0:08:36.51,Dialogue,,0,0,0,,S-a întâmplat ceva, căpitan Nouzen? Este cumva legat de Legiune?
-Dialogue: 100,0:08:36.51,0:08:41.03,Dialogue,,0,0,0,,Nu, nu ne-ai sunat la ora obișnuită, deci m-am să văd care-i treaba.
-Dialogue: 100,0:08:41.03,0:08:42.86,Dialogue,,0,0,0,,Este totul în regulă?
-Dialogue: 100,0:08:42.86,0:08:45.31,Dialogue,,0,0,0,,Dacă ești ocupată, te pot suna mai târziu.
-Dialogue: 100,0:08:47.06,0:08:48.54,Dialogue,,0,0,0,,Este în regulă.
-Dialogue: 100,0:08:52.39,0:08:56.64,Dialogue,,0,0,0,,Scuze, de obicei vă sun pe la ora asta, nu?
-Dialogue: 100,0:08:56.64,0:08:58.34,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:08:58.34,0:09:01.47,Dialogue,,0,0,0,,Voiam să-ți spun ca muniția specială a ajuns.
-Dialogue: 100,0:09:05.23,0:09:06.98,Dialogue,,0,0,0,,A ajuns acolo în siguranță, nu?
-Dialogue: 100,0:09:06.98,0:09:10.21,Dialogue,,0,0,0,,Da. Îți mulțumim pentru artificii.
-Dialogue: 100,0:09:10.21,0:09:12.22,Dialogue,,0,0,0,,Doar este Festivalul Revolutiei, la urma urmei.
-Dialogue: 100,0:09:12.22,0:09:15.62,Dialogue,,0,0,0,,Le-ai mai văzut cu fratele tău și părinții tăi când erai mic, nu?
-Dialogue: 100,0:09:15.62,0:09:18.38,Dialogue,,0,0,0,,Sunt sigur că și ceilalți au amintiri asemănătoare.
-Dialogue: 100,0:09:18.38,0:09:21.18,Dialogue,,0,0,0,,Tradiția de Festivalul Revoluției, nu?
-Dialogue: 100,0:09:21.18,0:09:24.88,Dialogue,,0,0,0,,Poți vedea artificiile de la Palatul Lunii?
-Dialogue: 100,0:09:24.88,0:09:26.46,Dialogue,,0,0,0,,Să vedem...
-Dialogue: 100,0:09:27.54,0:09:28.68,Dialogue,,0,0,0,,Da, pot.
-Dialogue: 100,0:09:28.68,0:09:31.46,Dialogue,,0,0,0,,Dar cerul este mult prea luminat.
-Dialogue: 100,0:09:33.35,0:09:36.06,Dialogue,,0,0,0,,Sunt sigură că artificiile voastre sunt frumoase.
-Dialogue: 100,0:09:36.96,0:09:40.41,Dialogue,,0,0,0,,Noaptea este întunecată și aerul curat.
-Dialogue: 100,0:09:41.17,0:09:42.70,Dialogue,,0,0,0,,Mi-aș dori să le putem vedea...
-Dialogue: 100,0:09:46.06,0:09:49.31,Dialogue,,0,0,0,,Haideți să privim artificiile împreună în Sectorul 1 într-o bună zi.
-Dialogue: 100,0:09:49.31,0:09:50.92,Dialogue,,0,0,0,,Sunt sigură că veți râde.
-Dialogue: 100,0:09:52.00,0:09:54.38,Dialogue,,0,0,0,,Nu-mi aminteam să fie așa de slabe.
-Dialogue: 100,0:09:54.38,0:09:56.20,Dialogue,,0,0,0,,Atunci, veți vedea cu ochii voștri.
-Dialogue: 100,0:09:56.20,0:09:57.70,Dialogue,,0,0,0,,Când războiul va lua sfârșit...
-Dialogue: 100,0:09:57.70,0:09:59.85,Dialogue,,0,0,0,,Când nu veți mai fi în serviciul militar, le vom putea privi împreună.
-Dialogue: 100,0:10:02.22,0:10:05.87,Dialogue,,0,0,0,,Mi-aș fi dorit ca locotenentul Irma și ceilalți să le fi putut vedea.
-Dialogue: 100,0:10:05.87,0:10:09.63,Dialogue,,0,0,0,,Scuze, am ales un moment prost, nu?
-Dialogue: 100,0:10:09.63,0:10:13.17,Dialogue,,0,0,0,,No, this is the first time we've been able\Nto give them a proper gun salute.
-Dialogue: 100,0:10:13.17,0:10:15.70,Dialogue,,0,0,0,,Sunt sigur că Daiya și ceilalți ar fi fericiți.
-Dialogue: 100,0:10:15.70,0:10:17.76,Dialogue,,0,0,0,,Nu au fost niciodată genul de persoane sentimentale.
-Dialogue: 100,0:10:18.38,0:10:19.74,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:10:23.17,0:10:24.30,Dialogue,,0,0,0,,Și...
-Dialogue: 100,0:10:24.30,0:10:26.67,Dialogue,,0,0,0,,Anju a reușit în sfârșit să plângă, mai devreme.
-Dialogue: 100,0:10:27.50,0:10:32.61,Dialogue,,0,0,0,,Este genul de persoană care ține totul în ea, deci mă bucur că a făcut-o.
-Dialogue: 100,0:10:33.59,0:10:36.62,Dialogue,,0,0,0,,Nu-l va uita niciodată pe locotenentul Irma.
-Dialogue: 100,0:10:36.62,0:10:38.91,Dialogue,,0,0,0,,Niciunul din noi nu o va face.
-Dialogue: 100,0:10:38.91,0:10:42.37,Dialogue,,0,0,0,,Și tu ți-l amintești pe fratele meu, nu?
-Dialogue: 100,0:10:44.05,0:10:45.25,Dialogue,,0,0,0,,Am fost foarte fericit să aud asta.
-Dialogue: 100,0:10:46.02,0:10:49.16,Dialogue,,0,0,0,,Deoarece eu nu mi-l pot aminti.
-Dialogue: 100,0:10:50.49,0:10:51.79,Dialogue,,0,0,0,,Căpitane Nouzen...
-Dialogue: 100,0:10:55.82,0:10:59.43,Dialogue,,0,0,0,,Domnișoară maior, ai vrea să nu ne uiți?
-Dialogue: 100,0:11:09.85,0:11:10.73,Dialogue,,0,0,0,,Evident că nu o voi face.
-Dialogue: 100,0:11:11.38,0:11:11.98,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:11:13.86,0:11:16.07,Dialogue,,0,0,0,,Înainte de asta, nu vă voi lăsa să muriți.
-Dialogue: 100,0:11:18.56,0:11:21.61,Dialogue,,0,0,0,,Nu voi mai lăsa pe nimeni să moară.
-Dialogue: 100,0:11:31.84,0:11:33.30,Dialogue,,0,0,0,,Hei, gunoaie din Sectorul 86.
-Dialogue: 100,0:11:33.30,0:11:34.84,Dialogue,,0,0,0,,Și asta.
-Dialogue: 100,0:11:34.84,0:11:38.30,Dialogue,,0,0,0,,Se presupune a fi un cadou de la stăpâna vostru.
-Dialogue: 100,0:11:38.30,0:11:42.22,Dialogue,,0,0,0,,De parcă niște porci ar merita un cadou de la un om...
-Dialogue: 100,0:11:42.75,0:11:45.48,Dialogue,,0,0,0,,Cât de mult ați implorat-o ca să semneze pentru el?
-Dialogue: 100,0:11:45.48,0:11:49.52,Dialogue,,0,0,0,,Și noi suntem ocupati cu festivalul.
-Dialogue: 100,0:11:54.54,0:11:55.39,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:11:55.39,0:11:56.28,Dialogue,,0,0,0,,Care-i treaba, Shin?
-Dialogue: 100,0:11:56.28,0:11:57.18,Dialogue,,0,0,0,,Ce este asta?
-Dialogue: 100,0:11:57.18,0:11:57.72,Dialogue,,0,0,0,,Artificii?
-Dialogue: 100,0:11:57.72,0:11:58.40,Dialogue,,0,0,0,,Atât de multe...
-Dialogue: 100,0:11:58.73,0:12:02.03,Dialogue,,0,0,0,,De la domnișoara maior? Uimitor!
-Dialogue: 100,0:12:03.82,0:12:05.95,Dialogue,,0,0,0,,Hei, Anju, ei bine...
-Dialogue: 100,0:12:05.95,0:12:07.03,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:12:07.03,0:12:12.12,Dialogue,,0,0,0,,Mă întrebam dacă ar trebui să încetăm să mai vorbim cu ea.
-Dialogue: 100,0:12:12.12,0:12:15.38,Dialogue,,0,0,0,,Acum a început să ne trimită și cadouri.
-Dialogue: 100,0:12:15.38,0:12:16.75,Dialogue,,0,0,0,,Îți faci griji pentru ea?
-Dialogue: 100,0:12:16.75,0:12:20.31,Dialogue,,0,0,0,,Nu! De ce mi-aș face griji pentru ea?
-Dialogue: 100,0:12:20.31,0:12:21.62,Dialogue,,0,0,0,,Dar, ei bine...
-Dialogue: 100,0:12:21.62,0:12:26.34,Dialogue,,0,0,0,,Nu i-a fost frică de Shin... Dar măcar atât putem face.
-Dialogue: 100,0:12:26.34,0:12:27.10,Dialogue,,0,0,0,,Asta e tot.
-Dialogue: 100,0:12:29.29,0:12:31.44,Dialogue,,0,0,0,,Shin, Raiden și ceilalți...
-Dialogue: 100,0:12:31.44,0:12:34.34,Dialogue,,0,0,0,,Niciunul nu spune nimic.
-Dialogue: 100,0:12:36.24,0:12:39.96,Dialogue,,0,0,0,,Dacă i-am spune, probabil ar înceta să ne mai contacteze.
-Dialogue: 100,0:12:39.96,0:12:42.91,Dialogue,,0,0,0,,Iar asta ar fi mai bine pentru toți.
-Dialogue: 100,0:12:42.91,0:12:44.70,Dialogue,,0,0,0,,Da...
-Dialogue: 100,0:12:44.70,0:12:48.24,Dialogue,,0,0,0,,Îmi amintesc ce i-a spus Kaie...
-Dialogue: 100,0:12:48.24,0:12:52.00,Dialogue,,0,0,0,,Că nu este o persoană rea, deci nu ar trebui să aibă de a face cu noi.
-Dialogue: 100,0:12:52.48,0:12:57.49,Dialogue,,0,0,0,,Cred că de asta Shin și Raiden nu au curajul s-o spună.
-Dialogue: 100,0:12:57.49,0:13:01.55,Dialogue,,0,0,0,,Se gândesc că ar răni-o.
-Dialogue: 100,0:13:07.64,0:13:09.47,Dialogue,,0,0,0,,Anju, ești bine?
-Dialogue: 100,0:13:10.14,0:13:11.61,Dialogue,,0,0,0,,Cu ce anume?
-Dialogue: 100,0:13:11.61,0:13:16.97,Dialogue,,0,0,0,,Nu ai mai făcut duș cu nimeni până acum.
-Dialogue: 100,0:13:16.97,0:13:20.42,Dialogue,,0,0,0,,Cred că este în regulă acum, sincer.
-Dialogue: 100,0:13:20.42,0:13:23.56,Dialogue,,0,0,0,,Suntem doar noi două, deci nu am de ce să le ascund.
-Dialogue: 100,0:13:25.63,0:13:31.54,Dialogue,,0,0,0,,Daiya... a spus că am un păr foarte frumos când ne-am întâlnit prima oară.
-Dialogue: 100,0:13:32.40,0:13:35.70,Dialogue,,0,0,0,,Știa că-mi las părul să crească ca să le ascund,
-Dialogue: 100,0:13:35.70,0:13:39.92,Dialogue,,0,0,0,,dar el m-a întrebat dacă o fac pentru că este așa de frumos.
-Dialogue: 100,0:13:41.61,0:13:44.41,Dialogue,,0,0,0,,Daiya nu mai e printre noi acum.
-Dialogue: 100,0:13:44.41,0:13:47.68,Dialogue,,0,0,0,,Deci cred că este copilăresc să continui să-mi fac griji în legătură cu ele.
-Dialogue: 100,0:13:50.25,0:13:52.93,Dialogue,,0,0,0,,Dar tu? Tu nu vrei să-i spui?
-Dialogue: 100,0:13:57.96,0:13:58.69,Dialogue,,0,0,0,,Nu.
-Dialogue: 100,0:13:59.54,0:14:03.90,Dialogue,,0,0,0,,Nu cred că ar trebui s-o fac eu.
-Dialogue: 100,0:14:21.02,0:14:24.55,Dialogue,,0,0,0,,Chiar dacă vom muri, el ne va duce acolo.
-Dialogue: 100,0:14:25.29,0:14:28.11,Dialogue,,0,0,0,,Dragul nostru Zeu al Morții ne va lua de mâini și ne va conduce.
-Dialogue: 100,0:14:30.56,0:14:35.26,Dialogue,,0,0,0,,Sunt sigură că mă va duce acolo. Dar...
-Dialogue: 100,0:14:36.88,0:14:39.39,Dialogue,,0,0,0,,Dar cum va rămâne cu Shin?
-Dialogue: 100,0:14:40.08,0:14:43.79,Dialogue,,0,0,0,,Cine va căra inima lui?
-Dialogue: 100,0:14:50.22,0:14:52.03,Dialogue,,0,0,0,,{\an8}Groparul la raport.
-Dialogue: 100,0:14:52.52,0:14:56.66,Dialogue,,0,0,0,,All personnel are ready to begin the attack \Non the Legion forward base.
-Dialogue: 100,0:14:56.98,0:14:59.48,Dialogue,,0,0,0,,Nu uitați. Această bază este o momeală.
-Dialogue: 100,0:14:59.48,0:15:01.92,Dialogue,,0,0,0,,Aveți grijă la potențiale ambuscade.
-Dialogue: 100,0:15:01.92,0:15:05.80,Dialogue,,0,0,0,,Odată ce i-am ademenit în câmp deschis, a doua echipă{divizie? needs to be check in the earlier episodes} a plutonului patru va deschide focul.
-Dialogue: 100,0:15:26.86,0:15:31.24,Dialogue,,0,0,0,,A-Analizare completă! Poziția de tragere este la 120 de kilometri spre est-nord-est.
-Dialogue: 100,0:15:31.24,0:15:34.62,Dialogue,,0,0,0,,Viteza estimată a proiectilului este de... 4.000 de metri pe secundă?
-Dialogue: 100,0:15:34.62,0:15:38.50,Dialogue,,0,0,0,,Este un tun de artilerie de rază ultra-mare. Nu am mai dat peste unul ca acesta până acum!
-Dialogue: 100,0:15:43.58,0:15:44.97,Dialogue,,0,0,0,,Anulez misiunea!
-Dialogue: 100,0:15:44.97,0:15:47.54,Dialogue,,0,0,0,,Retrageți-vă, vă rog! Retrageți-vă!
-Dialogue: 100,0:15:48.81,0:15:49.92,Dialogue,,0,0,0,,Recepționat.
-Dialogue: 100,0:16:06.44,0:16:09.35,Dialogue,,0,0,0,,Se pare că am reușit să scăpam de ei.
-Dialogue: 100,0:16:09.35,0:16:13.62,Dialogue,,0,0,0,,V-Vă voi aduce mai mulți oameni! O voi face chiar azi!
-Dialogue: 100,0:16:13.62,0:16:14.41,Dialogue,,0,0,0,,Domnișoară maior.
-Dialogue: 100,0:16:15.12,0:16:17.37,Dialogue,,0,0,0,,Asta nu are niciun sens!
-Dialogue: 100,0:16:17.72,0:16:20.54,Dialogue,,0,0,0,,Generalul chiar a spus că plănuiește să aducă...
-Dialogue: 100,0:16:20.54,0:16:21.77,Dialogue,,0,0,0,,Maior Milizé!
-Dialogue: 100,0:16:23.64,0:16:25.63,Dialogue,,0,0,0,,Toată lumea, sunteți în regulă cu asta, nu?
-Dialogue: 100,0:16:27.55,0:16:28.84,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:16:33.07,0:16:34.60,Dialogue,,0,0,0,,C-Ce este?
-Dialogue: 100,0:16:35.38,0:16:37.59,Dialogue,,0,0,0,,Domnișoară maior, ai făcut destule.
-Dialogue: 100,0:16:37.59,0:16:40.65,Dialogue,,0,0,0,,Orice ai face, nimic nu se va schimba.
-Dialogue: 100,0:16:40.65,0:16:42.78,Dialogue,,0,0,0,,Căpitane Nouzen, ce încerci să spui?
-Dialogue: 100,0:16:42.78,0:16:44.06,Dialogue,,0,0,0,,Nu vor veni înlocuitori.
-Dialogue: 100,0:16:44.06,0:16:46.08,Dialogue,,0,0,0,,Nici măcar unul. Niciodată.
-Dialogue: 100,0:16:47.73,0:16:49.95,Dialogue,,0,0,0,,Noi vom fi cu toții nimiciți.
-Dialogue: 100,0:16:49.95,0:16:52.07,Dialogue,,0,0,0,,Asta este unitatea pentru exterminare.
-Dialogue: 100,0:16:59.87,0:17:02.43,Dialogue,,0,0,0,,C-Ce tot spui acolo?
-Dialogue: 100,0:17:02.43,0:17:07.96,Dialogue,,0,0,0,,„Înlocuitorii” despre care vorbeai sunt Procesoarele care vor veni după noi.
-Dialogue: 100,0:17:07.96,0:17:10.80,Dialogue,,0,0,0,,Vrea să spună: „După ce vom fi uciși.”
-Dialogue: 100,0:17:10.80,0:17:13.59,Dialogue,,0,0,0,,Am primit recent niște Distrugătoare noi-nouțe.
-Dialogue: 100,0:17:14.21,0:17:15.72,Dialogue,,0,0,0,,Acele sunt pentru ei.
-Dialogue: 100,0:17:17.97,0:17:24.06,Dialogue,,0,0,0,,Acei porci albi nu intenționează să lase niciun rezident al Sectorului 86 să-l părăsească.
-Dialogue: 100,0:17:24.06,0:17:29.22,Dialogue,,0,0,0,,Suntem înrolați sub pretextul că servim cinci ani, iar apoi suntem liberi.
-Dialogue: 100,0:17:29.22,0:17:32.15,Dialogue,,0,0,0,,Dar suntem doar trimiși spre propria moarte.
-Dialogue: 100,0:17:32.15,0:17:34.84,Dialogue,,0,0,0,,Chiar sunt niște porci. Este îngrozitor.
-Dialogue: 100,0:17:34.84,0:17:38.10,Dialogue,,0,0,0,,Asta... Asta e imposibil!
-Dialogue: 100,0:17:38.10,0:17:41.25,Dialogue,,0,0,0,,Marea majoritate a Procesoarelor mor înainte să li se apropie data eliberării.
-Dialogue: 100,0:17:41.25,0:17:45.02,Dialogue,,0,0,0,,Deci nu prea contează ce promisiuni se fac.
-Dialogue: 100,0:17:45.02,0:17:47.38,Dialogue,,0,0,0,,Problema apare când dai peste persoane ca noi,
-Dialogue: 100,0:17:47.38,0:17:51.26,Dialogue,,0,0,0,,care reușesc să supraviețuiască pe câmpul de luptă în ciuda tuturor șanselor.
-Dialogue: 100,0:17:51.26,0:17:53.52,Dialogue,,0,0,0,,Cu cât supravietuim mai mult, cu atât devenim mai inteligenți.
-Dialogue: 100,0:17:53.52,0:17:56.63,Dialogue,,0,0,0,,Pentru ceilalți rezidenti ai Sectorului 86, noi suntem văzuți ca niște eroi.
-Dialogue: 100,0:17:56.63,0:17:59.47,Dialogue,,0,0,0,,Nu-și pot permite posibilitatea ca noi să pornim o rebeliune.
-Dialogue: 100,0:17:59.78,0:18:04.33,Dialogue,,0,0,0,,Deci suntem trimiși pe frontul cu cele mai groaznice lupte
-Dialogue: 100,0:18:04.33,0:18:06.62,Dialogue,,0,0,0,,ca să fim omorâți.
-Dialogue: 100,0:18:06.62,0:18:11.89,Dialogue,,0,0,0,,Și dacă reușim să supraviețuim cumva, atunci ajungem aici.
-Dialogue: 100,0:18:11.89,0:18:14.48,Dialogue,,0,0,0,,Escadronul 1, cunoscut ca Vârf de Lance, din zona de luptă a Sectorului 1.
-Dialogue: 100,0:18:15.11,0:18:19.80,Dialogue,,0,0,0,,Această unitate a fost creată \Nca noi să luptăm până murim.
-Dialogue: 100,0:18:19.80,0:18:22.12,Dialogue,,0,0,0,,Acesta este capătul drumul pentru noi.
-Dialogue: 100,0:18:22.84,0:18:25.62,Dialogue,,0,0,0,,Vom muri cu toții aici.
-Dialogue: 100,0:18:26.01,0:18:29.78,Dialogue,,0,0,0,,Doar după ce mor cu toții, vor veni înlocuitori.
-Dialogue: 100,0:18:29.78,0:18:32.09,Dialogue,,0,0,0,,Adică următorul grup care-și va aștepta execuția.
-Dialogue: 100,0:18:32.92,0:18:37.17,Dialogue,,0,0,0,,Deci noi nu vă formțăm să luptați ca să ne protejati, ci ca să vă omorâm noi înșine?
-Dialogue: 100,0:18:37.17,0:18:40.22,Dialogue,,0,0,0,,Asta nu este cu nimic diferit față de un masacru!
-Dialogue: 100,0:18:41.62,0:18:43.69,Dialogue,,0,0,0,,Știati cu toții...
-Dialogue: 100,0:18:43.69,0:18:45.81,Dialogue,,0,0,0,,Da, îmi cer scuze.
-Dialogue: 100,0:18:45.81,0:18:47.46,Dialogue,,0,0,0,,De când?
-Dialogue: 100,0:18:47.46,0:18:49.06,Dialogue,,0,0,0,,De la bun început.
-Dialogue: 100,0:18:49.06,0:18:54.50,Dialogue,,0,0,0,,Nimeni care a mers la război, nici sora mea, nici oricine altcineva, nu s-a mai întors.
-Dialogue: 100,0:18:54.50,0:18:57.58,Dialogue,,0,0,0,,Iar noi nu aveam voie să părăsim taberele.
-Dialogue: 100,0:18:57.58,0:19:02.74,Dialogue,,0,0,0,,Știam cu toții de la bun început că acei porci albi nu-și țin promisiunile.
-Dialogue: 100,0:19:02.74,0:19:05.87,Dialogue,,0,0,0,,Dacă știați, atunci ați ales să luptați?
-Dialogue: 100,0:19:05.87,0:19:10.79,Dialogue,,0,0,0,,De ce nu ati fugit... sau de ce nu ați încercat să vă răzbunați pe Republică?
-Dialogue: 100,0:19:11.20,0:19:14.12,Dialogue,,0,0,0,,Răzbunarea ar fi fost simplă.
-Dialogue: 100,0:19:14.12,0:19:17.86,Dialogue,,0,0,0,,Trebuia doar să stăm cu mâinile în sân și să lăsăm Legiunea să treacă.
-Dialogue: 100,0:19:17.86,0:19:22.83,Dialogue,,0,0,0,,Desigur, am fi murit și noi, dar i-am fi luat și pe acei porci albi cu noi.
-Dialogue: 100,0:19:23.51,0:19:25.10,Dialogue,,0,0,0,,Atunci, de ce?
-Dialogue: 100,0:19:27.31,0:19:31.73,Dialogue,,0,0,0,,Până la vârsta de 12 ani, o bătrână Alba a avut grijă de mine în Sectorul 9.
-Dialogue: 100,0:19:32.96,0:19:34.59,Dialogue,,0,0,0,,Shin a fost crescut de un preot Alba,
-Dialogue: 100,0:19:34.59,0:19:38.61,Dialogue,,0,0,0,,care a refuzat să-și cedeze pământul și a fost trimis în tabere.
-Dialogue: 100,0:19:39.06,0:19:42.61,Dialogue,,0,0,0,,Theo ți-a spus despre căpitanul său.
-Dialogue: 100,0:19:43.04,0:19:46.54,Dialogue,,0,0,0,,Kurena i-a cunoscut pe cei mai groaznici Alba.
-Dialogue: 100,0:19:46.54,0:19:50.62,Dialogue,,0,0,0,,Desigur, cu toții știm cât de groaznici pot fi acei porci albi, dar...
-Dialogue: 100,0:19:52.31,0:19:54.17,Dialogue,,0,0,0,,Există și persoane precum Kaie,
-Dialogue: 100,0:19:54.17,0:19:57.94,Dialogue,,0,0,0,,care a fost abuzată de rezidenti ai Sectorului 86 din cauza culorii pielii ei.
-Dialogue: 100,0:19:59.14,0:20:04.22,Dialogue,,0,0,0,,Prin venele lui Anju, Haruto și Shin curge fie sânge de porc alb, fie sânge imperial. Dar nu e nicio diferență între noi.
-Dialogue: 100,0:20:05.00,0:20:07.60,Dialogue,,0,0,0,,Există gunoaie și printre rezidenții Sectorului 86.
-Dialogue: 100,0:20:07.90,0:20:15.40,Dialogue,,0,0,0,,Și o grămadă de rezidenti ai Sectorului 86 care au luptat cu mândrie până la final.
-Dialogue: 100,0:20:16.36,0:20:18.32,Dialogue,,0,0,0,,Chiar dacă majoritatea oamenilor Alba sunt niște gunoaie,
-Dialogue: 100,0:20:18.32,0:20:21.87,Dialogue,,0,0,0,,există persoane care nu ne-au putut lăsa să murim fără motiv.
-Dialogue: 100,0:20:21.87,0:20:25.00,Dialogue,,0,0,0,,Și nici toți rezidentii Sectorului 86 sunt buni.
-Dialogue: 100,0:20:27.03,0:20:32.13,Dialogue,,0,0,0,,Deci am ales fiecare de care parte dorim să fim.
-Dialogue: 100,0:20:34.26,0:20:36.44,Dialogue,,0,0,0,,Doar pentru că niște gunoaie ne-a tratat astfel,
-Dialogue: 100,0:20:36.44,0:20:39.35,Dialogue,,0,0,0,,nu am fi cu nimic diferiți de ele dacă le-am oferi același tratament.
-Dialogue: 100,0:20:39.35,0:20:44.06,Dialogue,,0,0,0,,Dacă singurele noastre drumuri sunt să murim luptând contra Legiunii și să murim renunțând,
-Dialogue: 100,0:20:44.06,0:20:47.34,Dialogue,,0,0,0,,atunci vom supraviețui până în ultimul moment și vom muri luptând.
-Dialogue: 100,0:20:47.34,0:20:49.79,Dialogue,,0,0,0,,Acesta este motivul pentru care luptăm.
-Dialogue: 100,0:20:49.79,0:20:50.68,Dialogue,,0,0,0,,Asta e mândria noastră.
-Dialogue: 100,0:20:51.30,0:20:55.35,Dialogue,,0,0,0,,Dacă asta înseamnă să-i protejăm pe acei porci albi, deși nu ne dorim asta,
-Dialogue: 100,0:20:55.35,0:20:56.56,Dialogue,,0,0,0,,atunci așa să fie.
-Dialogue: 100,0:21:01.61,0:21:06.95,Dialogue,,0,0,0,,{\i1}Chiar dacă știți că veți muri, în cele din urmă?
-Dialogue: 100,0:21:07.24,0:21:11.08,Dialogue,,0,0,0,,Ce idiot își pregătește astăzi ștreangul știind că va muri mâine?
-Dialogue: 100,0:21:11.72,0:21:13.67,Dialogue,,0,0,0,,Chiar dacă știi că vei merge la spânzurătoare,
-Dialogue: 100,0:21:13.67,0:21:17.00,Dialogue,,0,0,0,,poți alege cum ajungi acolo.
-Dialogue: 100,0:21:17.00,0:21:19.88,Dialogue,,0,0,0,,Am ales singuri ceea ce vrem să facem.
-Dialogue: 100,0:21:19.88,0:21:22.59,Dialogue,,0,0,0,,Apoi, tot ceea ce a trebuit \Nsă facem a fost să trăim.
-Dialogue: 100,0:23:36.20,0:23:37.04,Dialogue,,0,0,0,,„Să mergem.”
+Dialogue: 99,0:02:27.81,0:02:32.86,Dialogue,,0,0,0,,{\an8}Provizii pentru escadronul Vârf de Lance din zona de luptă a Sectorului 1?
+Dialogue: 99,0:02:35.21,0:02:38.31,Dialogue,,0,0,0,,Domnișoară maior, ce e în acea cutie?
+Dialogue: 99,0:02:38.31,0:02:40.48,Dialogue,,0,0,0,,M-Muniție specială.
+Dialogue: 99,0:02:41.41,0:02:43.55,Dialogue,,0,0,0,,Ce e cu adevărat în ea?
+Dialogue: 99,0:02:44.78,0:02:47.04,Dialogue,,0,0,0,,Muniție specială.
+Dialogue: 99,0:02:51.33,0:02:54.07,Dialogue,,0,0,0,,Încă puțin... Încă puțin la dreapta.
+Dialogue: 99,0:02:54.84,0:02:55.73,Dialogue,,0,0,0,,Stop!
+Dialogue: 99,0:03:01.91,0:03:03.14,Dialogue,,0,0,0,,Bună treabă, domnișoară!
+Dialogue: 99,0:03:03.14,0:03:05.32,Dialogue,,0,0,0,,Ți-ar plăcea să ni te alături \Nla festivități, dșoară maior?
+Dialogue: 99,0:03:16.27,0:03:17.63,Dialogue,,0,0,0,,Inițiez confirmarea identității.
+Dialogue: 99,0:03:17.63,0:03:19.49,Dialogue,,0,0,0,,Maior Vladilena Milizé.
+Dialogue: 99,0:03:19.49,0:03:21.05,Dialogue,,0,0,0,,Regiunea estică a zonei de luptă din Sectorul 1,
+Dialogue: 99,0:03:21.05,0:03:23.55,Dialogue,,0,0,0,,ofițerul de comandament \Nși control al escadronului 1.
+Dialogue: 99,0:03:24.04,0:03:25.84,Dialogue,,0,0,0,,Activez Para-RAID.
+Dialogue: 99,0:03:27.43,0:03:30.44,Dialogue,,0,0,0,,Sincronizare cu Procesoarele \Nescadronului Vârf de Lance.
+Dialogue: 99,0:03:43.11,0:03:44.95,Dialogue,,0,0,0,,Uau!
+Dialogue: 99,0:03:44.95,0:03:46.57,Dialogue,,0,0,0,,Priviți!
+Dialogue: 99,0:03:51.48,0:03:54.00,Dialogue,,0,0,0,,{\i1}Dacă-ți este prea greu, \Nar trebui să te retragi.
+Dialogue: 99,0:03:56.19,0:03:59.13,Dialogue,,0,0,0,,{\i1}Ne descurcăm și fără tine.
+Dialogue: 99,0:03:59.13,0:04:02.38,Dialogue,,0,0,0,,{\i1}Nu se va schimba nimic dacă nu vom avea un ofițer de control cu noi.
+Dialogue: 99,0:04:02.79,0:04:04.14,Dialogue,,0,0,0,,Locotenent Kukumila...
+Dialogue: 99,0:04:04.14,0:04:08.51,Dialogue,,0,0,0,,{\i1}Ne distrage să te auzim cum te sperii, deși nu ești pe câmpul de luptă.
+Dialogue: 99,0:04:09.51,0:04:12.64,Dialogue,,0,0,0,,Pe voi nu vă deranjează?
+Dialogue: 99,0:04:13.17,0:04:14.73,Dialogue,,0,0,0,,Acele voci?
+Dialogue: 99,0:04:18.44,0:04:19.57,Dialogue,,0,0,0,,Doare!
+Dialogue: 99,0:04:22.24,0:04:24.79,Dialogue,,0,0,0,,{\an8}Mami!
+Dialogue: 99,0:04:22.90,0:04:26.45,Dialogue,,0,0,0,,Oh, haide. Fii mai atent.
+Dialogue: 99,0:04:27.04,0:04:28.73,Dialogue,,0,0,0,,Micuțule.
+Dialogue: 99,0:04:32.75,0:04:38.54,Dialogue,,0,0,0,,{\i1}Chiar și fără abilitatea lui Shin, Procesoarele aud mereu strigătele camarazilor lor care mor.
+Dialogue: 99,0:04:38.89,0:04:42.67,Dialogue,,0,0,0,,{\i1}Cel mai bine este să mori instant când îți explodează Distrugătorul.
+Dialogue: 99,0:04:43.50,0:04:46.84,Dialogue,,0,0,0,,{\i1}Cu toții ne-am văzut prietenii cu membrele sfâșiate, fețele distruse,
+Dialogue: 99,0:04:46.84,0:04:50.31,Dialogue,,0,0,0,,{\i1}arsuri pe întregul corp sau stomacele perforate și cu mațele ieșite,
+Dialogue: 99,0:04:51.06,0:04:56.19,Dialogue,,0,0,0,,{\i1}strigând de durere în timp ce își dădeau duhul.
+Dialogue: 99,0:04:56.63,0:05:01.23,Dialogue,,0,0,0,,{\i1}În comparație cu asta, \Nvocile celor morți sunt o nimica toată.
+Dialogue: 99,0:05:02.78,0:05:08.49,Dialogue,,0,0,0,,{\i1}Pentru noi, gândul că am putea muri în orice moment nu este ceva neobișnuit.
+Dialogue: 99,0:05:17.33,0:05:20.04,Dialogue,,0,0,0,,Bună seara tuturor.
+Dialogue: 99,0:05:20.04,0:05:21.98,Dialogue,,0,0,0,,{\i1}Te auzim tare și clar, \Ndomnișoară maior.
+Dialogue: 99,0:05:21.98,0:05:24.55,Dialogue,,0,0,0,,{\i1}Scuze, e puțin monoton \Ndoar cu noi în seara asta.
+Dialogue: 99,0:05:24.55,0:05:25.87,Dialogue,,0,0,0,,Locotenent Shuga?
+Dialogue: 99,0:05:26.49,0:05:29.56,Dialogue,,0,0,0,,Ei bine, unde e căpitanul Nouzen?
+Dialogue: 99,0:05:29.56,0:05:31.52,Dialogue,,0,0,0,,S-a întâmplat ceva în timpul bătăliei de astăzi?
+Dialogue: 99,0:05:31.52,0:05:35.10,Dialogue,,0,0,0,,{\i1}Nu, doar doarme. A spus că era obosit.
+Dialogue: 99,0:05:35.10,0:05:36.71,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:05:36.71,0:05:38.40,Dialogue,,0,0,0,,{\i1}Se întâmplă din când în când.
+Dialogue: 99,0:05:38.81,0:05:42.99,Dialogue,,0,0,0,,{\i1}Nu... Ei bine, nu știm cu certitudine,
+Dialogue: 99,0:05:42.99,0:05:46.32,Dialogue,,0,0,0,,{\i1}dar pariez că e extenuant \Nsă le auzi 24 de ore pe zi.
+Dialogue: 99,0:05:46.32,0:05:48.86,Dialogue,,0,0,0,,Te referi la vocile Legiunii?
+Dialogue: 99,0:05:48.86,0:05:52.16,Dialogue,,0,0,0,,{\i1}Nu ai de ce să-ți faci griji.
+Dialogue: 99,0:05:52.16,0:05:55.42,Dialogue,,0,0,0,,{\i1}Se întâmplă deoarece e aici. Nu ai ce-i face.
+Dialogue: 99,0:05:56.40,0:05:58.19,Dialogue,,0,0,0,,Nu este doar căpitanul,
+Dialogue: 99,0:05:58.19,0:06:00.85,Dialogue,,0,0,0,,ci și voi păreți extenuați.
+Dialogue: 99,0:06:01.54,0:06:04.24,Dialogue,,0,0,0,,Din cauza că ați pierdut \Natâtea persoane în bătălii.
+Dialogue: 99,0:06:04.95,0:06:05.72,Dialogue,,0,0,0,,{\i1}Da.
+Dialogue: 99,0:06:06.30,0:06:11.09,Dialogue,,0,0,0,,Nu ați primit întăriri deloc \Nde când am venit eu.
+Dialogue: 99,0:06:11.09,0:06:12.87,Dialogue,,0,0,0,,Mă voi asigura că se va întâmpla.
+Dialogue: 99,0:06:12.87,0:06:16.55,Dialogue,,0,0,0,,Voi face tot ce pot ca \Nacest lucru să fie prioritar.
+Dialogue: 99,0:06:18.76,0:06:20.62,Dialogue,,0,0,0,,Locotenent Shuga?
+Dialogue: 99,0:06:20.62,0:06:22.81,Dialogue,,0,0,0,,{\i1}Da, asta ar fi grozav.
+Dialogue: 99,0:06:22.81,0:06:26.10,Dialogue,,0,0,0,,Unitatea voastră apără cea \Nmai importantă bază a noastră.
+Dialogue: 99,0:06:26.10,0:06:28.65,Dialogue,,0,0,0,,Înlocuirea pierderilor ar trebui să aibă cea mai înaltă prioritate.
+Dialogue: 99,0:06:29.01,0:06:33.21,Dialogue,,0,0,0,,Până se va întâmpla, voi continua să cer întăriri de la unitățile din apropiere.
+Dialogue: 99,0:06:33.21,0:06:35.99,Dialogue,,0,0,0,,Deci, vă rog să mai rezistați puțin!
+Dialogue: 99,0:06:36.77,0:06:37.84,Dialogue,,0,0,0,,{\i1}Bine.
+Dialogue: 99,0:06:37.84,0:06:39.41,Dialogue,,0,0,0,,{\i1}Păi, presupun că vom \Nlăsa asta în seama ta.
+Dialogue: 99,0:06:40.43,0:06:41.20,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:06:46.89,0:06:52.39,Dialogue,,0,0,0,,{\an8}Deci ai decis să-ți ignori poziția și ai venit să mi te plângi direct mie, maior Milizé?
+Dialogue: 99,0:06:52.67,0:06:58.81,Dialogue,,0,0,0,,Sir, I can't wait any longer for replacements\Nfor the Spearhead Squadron.
+Dialogue: 99,0:06:58.81,0:07:02.73,Dialogue,,0,0,0,,Voi face orice ca să-i ajut,
+Dialogue: 99,0:07:02.73,0:07:06.03,Dialogue,,0,0,0,,chiar și să implor ajutor.
+Dialogue: 99,0:07:08.16,0:07:10.36,Dialogue,,0,0,0,,Am mers la fiecare \Ndepartament pentru ajutor, dar...
+Dialogue: 99,0:07:10.36,0:07:15.62,Dialogue,,0,0,0,,The resupply and Processor replacement plans \Nfor the Eastern Theater are a settled matter.
+Dialogue: 99,0:07:16.76,0:07:20.24,Dialogue,,0,0,0,,I-am informat deja în legătură cu cererea ta.
+Dialogue: 99,0:07:20.24,0:07:22.75,Dialogue,,0,0,0,,Probabil nu știi asta din moment \Nce e o chestiune internă.
+Dialogue: 99,0:07:22.75,0:07:24.16,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:07:24.16,0:07:25.73,Dialogue,,0,0,0,,Vom primi în sfârșit înlocuitori?
+Dialogue: 99,0:07:25.73,0:07:29.35,Dialogue,,0,0,0,,Deci fă-ți treaba cât de bine poți.
+Dialogue: 99,0:07:30.19,0:07:33.60,Dialogue,,0,0,0,,Ești gata pentru petrecerea \Nde la Festivalul Revoluției?
+Dialogue: 99,0:07:35.85,0:07:38.68,Dialogue,,0,0,0,,Vino la petrecere într-o rochie adecvată.
+Dialogue: 99,0:07:38.68,0:07:42.98,Dialogue,,0,0,0,,Nu e asta adevărata treabă \Na fiicei familiei Milizé?
+Dialogue: 99,0:07:45.47,0:07:46.40,Dialogue,,0,0,0,,Am înțeles.
+Dialogue: 99,0:07:51.82,0:07:54.32,Dialogue,,0,0,0,,{\an8}Lena, ascultă...
+Dialogue: 99,0:07:55.20,0:07:57.80,Dialogue,,0,0,0,,De ce ai crezut că acea \Nrochie e o alegere bună?
+Dialogue: 99,0:07:57.80,0:08:00.90,Dialogue,,0,0,0,,Este toată neagră, parcă ar fi o rochie de înmormântare.
+Dialogue: 99,0:08:00.90,0:08:02.48,Dialogue,,0,0,0,,Este minunată, nu-i așa?
+Dialogue: 99,0:08:02.48,0:08:04.71,Dialogue,,0,0,0,,Mulțumită ei, nimeni nu mă invită la dans.
+Dialogue: 99,0:08:05.76,0:08:09.55,Dialogue,,0,0,0,,Sunt de acord că această petrecere este plictisitoare și o pierdere de timp.
+Dialogue: 99,0:08:09.55,0:08:12.34,Dialogue,,0,0,0,,Dar asta nu înseamnă că poți veni într-o rochie nepotrivită.
+Dialogue: 99,0:08:12.34,0:08:15.11,Dialogue,,0,0,0,,Ei bine, eu cred că este destul de drăguță pentru mine.
+Dialogue: 99,0:08:15.11,0:08:16.85,Dialogue,,0,0,0,,Nu asta e ideea...
+Dialogue: 99,0:08:17.61,0:08:18.78,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:08:18.78,0:08:23.03,Dialogue,,0,0,0,,Unul din logodnicii mei este acolo. Cel care mi-a trimis acele dulciuri noi și extravagante.
+Dialogue: 99,0:08:23.03,0:08:24.19,Dialogue,,0,0,0,,Ne mai vedem, Lena!
+Dialogue: 99,0:08:31.39,0:08:32.11,Dialogue,,0,0,0,,Domnișoară maior.
+Dialogue: 99,0:08:32.43,0:08:36.51,Dialogue,,0,0,0,,S-a întâmplat ceva, căpitan Nouzen? Este cumva legat de Legiune?
+Dialogue: 99,0:08:36.51,0:08:41.03,Dialogue,,0,0,0,,Nu, nu ne-ai sunat la ora obișnuită, deci m-am să văd care-i treaba.
+Dialogue: 99,0:08:41.03,0:08:42.86,Dialogue,,0,0,0,,Este totul în regulă?
+Dialogue: 99,0:08:42.86,0:08:45.31,Dialogue,,0,0,0,,Dacă ești ocupată, te pot suna mai târziu.
+Dialogue: 99,0:08:47.06,0:08:48.54,Dialogue,,0,0,0,,Este în regulă.
+Dialogue: 99,0:08:52.39,0:08:56.64,Dialogue,,0,0,0,,Scuze, de obicei vă sun pe la ora asta, nu?
+Dialogue: 99,0:08:56.64,0:08:58.34,Dialogue,,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:08:58.34,0:09:01.47,Dialogue,,0,0,0,,Voiam să-ți spun ca muniția specială a ajuns.
+Dialogue: 99,0:09:05.23,0:09:06.98,Dialogue,,0,0,0,,A ajuns acolo în siguranță, nu?
+Dialogue: 99,0:09:06.98,0:09:10.21,Dialogue,,0,0,0,,Da. Îți mulțumim pentru artificii.
+Dialogue: 99,0:09:10.21,0:09:12.22,Dialogue,,0,0,0,,Doar este Festivalul Revolutiei, la urma urmei.
+Dialogue: 99,0:09:12.22,0:09:15.62,Dialogue,,0,0,0,,Le-ai mai văzut cu fratele tău și părinții tăi când erai mic, nu?
+Dialogue: 99,0:09:15.62,0:09:18.38,Dialogue,,0,0,0,,Sunt sigur că și ceilalți au amintiri asemănătoare.
+Dialogue: 99,0:09:18.38,0:09:21.18,Dialogue,,0,0,0,,Tradiția de Festivalul Revoluției, nu?
+Dialogue: 99,0:09:21.18,0:09:24.88,Dialogue,,0,0,0,,Poți vedea artificiile de la Palatul Lunii?
+Dialogue: 99,0:09:24.88,0:09:26.46,Dialogue,,0,0,0,,Să vedem...
+Dialogue: 99,0:09:27.54,0:09:28.68,Dialogue,,0,0,0,,Da, pot.
+Dialogue: 99,0:09:28.68,0:09:31.46,Dialogue,,0,0,0,,Dar cerul este mult prea luminat.
+Dialogue: 99,0:09:33.35,0:09:36.06,Dialogue,,0,0,0,,Sunt sigură că artificiile voastre sunt frumoase.
+Dialogue: 99,0:09:36.96,0:09:40.41,Dialogue,,0,0,0,,Noaptea este întunecată și aerul curat.
+Dialogue: 99,0:09:41.17,0:09:42.70,Dialogue,,0,0,0,,Mi-aș dori să le putem vedea...
+Dialogue: 99,0:09:46.06,0:09:49.31,Dialogue,,0,0,0,,Haideți să privim artificiile împreună în Sectorul 1 într-o bună zi.
+Dialogue: 99,0:09:49.31,0:09:50.92,Dialogue,,0,0,0,,Sunt sigură că veți râde.
+Dialogue: 99,0:09:52.00,0:09:54.38,Dialogue,,0,0,0,,Nu-mi aminteam să fie așa de slabe.
+Dialogue: 99,0:09:54.38,0:09:56.20,Dialogue,,0,0,0,,Atunci, veți vedea cu ochii voștri.
+Dialogue: 99,0:09:56.20,0:09:57.70,Dialogue,,0,0,0,,Când războiul va lua sfârșit...
+Dialogue: 99,0:09:57.70,0:09:59.85,Dialogue,,0,0,0,,Când nu veți mai fi în serviciul militar, le vom putea privi împreună.
+Dialogue: 99,0:10:02.22,0:10:05.87,Dialogue,,0,0,0,,Mi-aș fi dorit ca locotenentul Irma și ceilalți să le fi putut vedea.
+Dialogue: 99,0:10:05.87,0:10:09.63,Dialogue,,0,0,0,,Scuze, am ales un moment prost, nu?
+Dialogue: 99,0:10:09.63,0:10:13.17,Dialogue,,0,0,0,,No, this is the first time we've been able\Nto give them a proper gun salute.
+Dialogue: 99,0:10:13.17,0:10:15.70,Dialogue,,0,0,0,,Sunt sigur că Daiya și ceilalți ar fi fericiți.
+Dialogue: 99,0:10:15.70,0:10:17.76,Dialogue,,0,0,0,,Nu au fost niciodată genul de persoane sentimentale.
+Dialogue: 99,0:10:18.38,0:10:19.74,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:10:23.17,0:10:24.30,Dialogue,,0,0,0,,Și...
+Dialogue: 99,0:10:24.30,0:10:26.67,Dialogue,,0,0,0,,Anju a reușit în sfârșit să plângă, mai devreme.
+Dialogue: 99,0:10:27.50,0:10:32.61,Dialogue,,0,0,0,,Este genul de persoană care ține totul în ea, deci mă bucur că a făcut-o.
+Dialogue: 99,0:10:33.59,0:10:36.62,Dialogue,,0,0,0,,Nu-l va uita niciodată pe locotenentul Irma.
+Dialogue: 99,0:10:36.62,0:10:38.91,Dialogue,,0,0,0,,Niciunul din noi nu o va face.
+Dialogue: 99,0:10:38.91,0:10:42.37,Dialogue,,0,0,0,,Și tu ți-l amintești pe fratele meu, nu?
+Dialogue: 99,0:10:44.05,0:10:45.25,Dialogue,,0,0,0,,Am fost foarte fericit să aud asta.
+Dialogue: 99,0:10:46.02,0:10:49.16,Dialogue,,0,0,0,,Deoarece eu nu mi-l pot aminti.
+Dialogue: 99,0:10:50.49,0:10:51.79,Dialogue,,0,0,0,,Căpitane Nouzen...
+Dialogue: 99,0:10:55.82,0:10:59.43,Dialogue,,0,0,0,,Domnișoară maior, ai vrea să nu ne uiți?
+Dialogue: 99,0:11:09.85,0:11:10.73,Dialogue,,0,0,0,,Evident că nu o voi face.
+Dialogue: 99,0:11:11.38,0:11:11.98,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:11:13.86,0:11:16.07,Dialogue,,0,0,0,,Înainte de asta, nu vă voi lăsa să muriți.
+Dialogue: 99,0:11:18.56,0:11:21.61,Dialogue,,0,0,0,,Nu voi mai lăsa pe nimeni să moară.
+Dialogue: 99,0:11:31.84,0:11:33.30,Dialogue,,0,0,0,,Hei, gunoaie din Sectorul 86.
+Dialogue: 99,0:11:33.30,0:11:34.84,Dialogue,,0,0,0,,Și asta.
+Dialogue: 99,0:11:34.84,0:11:38.30,Dialogue,,0,0,0,,Se presupune a fi un cadou de la stăpâna vostru.
+Dialogue: 99,0:11:38.30,0:11:42.22,Dialogue,,0,0,0,,De parcă niște porci ar merita un cadou de la un om...
+Dialogue: 99,0:11:42.75,0:11:45.48,Dialogue,,0,0,0,,Cât de mult ați implorat-o ca să semneze pentru el?
+Dialogue: 99,0:11:45.48,0:11:49.52,Dialogue,,0,0,0,,Și noi suntem ocupati cu festivalul.
+Dialogue: 99,0:11:54.54,0:11:55.39,Dialogue,,0,0,0,,Ce este asta?
+Dialogue: 99,0:11:55.39,0:11:56.28,Dialogue,,0,0,0,,Care-i treaba, Shin?
+Dialogue: 99,0:11:56.28,0:11:57.18,Dialogue,,0,0,0,,Ce este asta?
+Dialogue: 99,0:11:57.18,0:11:57.72,Dialogue,,0,0,0,,Artificii?
+Dialogue: 99,0:11:57.72,0:11:58.40,Dialogue,,0,0,0,,Atât de multe...
+Dialogue: 99,0:11:58.73,0:12:02.03,Dialogue,,0,0,0,,De la domnișoara maior? Uimitor!
+Dialogue: 99,0:12:03.82,0:12:05.95,Dialogue,,0,0,0,,Hei, Anju, ei bine...
+Dialogue: 99,0:12:05.95,0:12:07.03,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:12:07.03,0:12:12.12,Dialogue,,0,0,0,,Mă întrebam dacă ar trebui să încetăm să mai vorbim cu ea.
+Dialogue: 99,0:12:12.12,0:12:15.38,Dialogue,,0,0,0,,Acum a început să ne trimită și cadouri.
+Dialogue: 99,0:12:15.38,0:12:16.75,Dialogue,,0,0,0,,Îți faci griji pentru ea?
+Dialogue: 99,0:12:16.75,0:12:20.31,Dialogue,,0,0,0,,Nu! De ce mi-aș face griji pentru ea?
+Dialogue: 99,0:12:20.31,0:12:21.62,Dialogue,,0,0,0,,Dar, ei bine...
+Dialogue: 99,0:12:21.62,0:12:26.34,Dialogue,,0,0,0,,Nu i-a fost frică de Shin... Dar măcar atât putem face.
+Dialogue: 99,0:12:26.34,0:12:27.10,Dialogue,,0,0,0,,Asta e tot.
+Dialogue: 99,0:12:29.29,0:12:31.44,Dialogue,,0,0,0,,Shin, Raiden și ceilalți...
+Dialogue: 99,0:12:31.44,0:12:34.34,Dialogue,,0,0,0,,Niciunul nu spune nimic.
+Dialogue: 99,0:12:36.24,0:12:39.96,Dialogue,,0,0,0,,Dacă i-am spune, probabil ar înceta să ne mai contacteze.
+Dialogue: 99,0:12:39.96,0:12:42.91,Dialogue,,0,0,0,,Iar asta ar fi mai bine pentru toți.
+Dialogue: 99,0:12:42.91,0:12:44.70,Dialogue,,0,0,0,,Da...
+Dialogue: 99,0:12:44.70,0:12:48.24,Dialogue,,0,0,0,,Îmi amintesc ce i-a spus Kaie...
+Dialogue: 99,0:12:48.24,0:12:52.00,Dialogue,,0,0,0,,Că nu este o persoană rea, deci nu ar trebui să aibă de a face cu noi.
+Dialogue: 99,0:12:52.48,0:12:57.49,Dialogue,,0,0,0,,Cred că de asta Shin și Raiden nu au curajul s-o spună.
+Dialogue: 99,0:12:57.49,0:13:01.55,Dialogue,,0,0,0,,Se gândesc că ar răni-o.
+Dialogue: 99,0:13:07.64,0:13:09.47,Dialogue,,0,0,0,,Anju, ești bine?
+Dialogue: 99,0:13:10.14,0:13:11.61,Dialogue,,0,0,0,,Cu ce anume?
+Dialogue: 99,0:13:11.61,0:13:16.97,Dialogue,,0,0,0,,Nu ai mai făcut duș cu nimeni până acum.
+Dialogue: 99,0:13:16.97,0:13:20.42,Dialogue,,0,0,0,,Cred că este în regulă acum, sincer.
+Dialogue: 99,0:13:20.42,0:13:23.56,Dialogue,,0,0,0,,Suntem doar noi două, deci nu am de ce să le ascund.
+Dialogue: 99,0:13:25.63,0:13:31.54,Dialogue,,0,0,0,,Daiya... a spus că am un păr foarte frumos când ne-am întâlnit prima oară.
+Dialogue: 99,0:13:32.40,0:13:35.70,Dialogue,,0,0,0,,Știa că-mi las părul să crească ca să le ascund,
+Dialogue: 99,0:13:35.70,0:13:39.92,Dialogue,,0,0,0,,dar el m-a întrebat dacă o fac pentru că este așa de frumos.
+Dialogue: 99,0:13:41.61,0:13:44.41,Dialogue,,0,0,0,,Daiya nu mai e printre noi acum.
+Dialogue: 99,0:13:44.41,0:13:47.68,Dialogue,,0,0,0,,Deci cred că este copilăresc să continui să-mi fac griji în legătură cu ele.
+Dialogue: 99,0:13:50.25,0:13:52.93,Dialogue,,0,0,0,,Dar tu? Tu nu vrei să-i spui?
+Dialogue: 99,0:13:57.96,0:13:58.69,Dialogue,,0,0,0,,Nu.
+Dialogue: 99,0:13:59.54,0:14:03.90,Dialogue,,0,0,0,,Nu cred că ar trebui s-o fac eu.
+Dialogue: 99,0:14:21.02,0:14:24.55,Dialogue,,0,0,0,,Chiar dacă vom muri, el ne va duce acolo.
+Dialogue: 99,0:14:25.29,0:14:28.11,Dialogue,,0,0,0,,Dragul nostru Zeu al Morții ne va lua de mâini și ne va conduce.
+Dialogue: 99,0:14:30.56,0:14:35.26,Dialogue,,0,0,0,,Sunt sigură că mă va duce acolo. Dar...
+Dialogue: 99,0:14:36.88,0:14:39.39,Dialogue,,0,0,0,,Dar cum va rămâne cu Shin?
+Dialogue: 99,0:14:40.08,0:14:43.79,Dialogue,,0,0,0,,Cine va căra inima lui?
+Dialogue: 99,0:14:50.22,0:14:52.03,Dialogue,,0,0,0,,{\an8}Groparul la raport.
+Dialogue: 99,0:14:52.52,0:14:56.66,Dialogue,,0,0,0,,All personnel are ready to begin the attack \Non the Legion forward base.
+Dialogue: 99,0:14:56.98,0:14:59.48,Dialogue,,0,0,0,,Nu uitați. Această bază este o momeală.
+Dialogue: 99,0:14:59.48,0:15:01.92,Dialogue,,0,0,0,,Aveți grijă la potențiale ambuscade.
+Dialogue: 99,0:15:01.92,0:15:05.80,Dialogue,,0,0,0,,Odată ce i-am ademenit în câmp deschis, a doua echipă{divizie? needs to be check in the earlier episodes} a plutonului patru va deschide focul.
+Dialogue: 99,0:15:26.86,0:15:31.24,Dialogue,,0,0,0,,A-Analizare completă! Poziția de tragere este la 120 de kilometri spre est-nord-est.
+Dialogue: 99,0:15:31.24,0:15:34.62,Dialogue,,0,0,0,,Viteza estimată a proiectilului este de... 4.000 de metri pe secundă?
+Dialogue: 99,0:15:34.62,0:15:38.50,Dialogue,,0,0,0,,Este un tun de artilerie de rază ultra-mare. Nu am mai dat peste unul ca acesta până acum!
+Dialogue: 99,0:15:43.58,0:15:44.97,Dialogue,,0,0,0,,Anulez misiunea!
+Dialogue: 99,0:15:44.97,0:15:47.54,Dialogue,,0,0,0,,Retrageți-vă, vă rog! Retrageți-vă!
+Dialogue: 99,0:15:48.81,0:15:49.92,Dialogue,,0,0,0,,Recepționat.
+Dialogue: 99,0:16:06.44,0:16:09.35,Dialogue,,0,0,0,,Se pare că am reușit să scăpam de ei.
+Dialogue: 99,0:16:09.35,0:16:13.62,Dialogue,,0,0,0,,V-Vă voi aduce mai mulți oameni! O voi face chiar azi!
+Dialogue: 99,0:16:13.62,0:16:14.41,Dialogue,,0,0,0,,Domnișoară maior.
+Dialogue: 99,0:16:15.12,0:16:17.37,Dialogue,,0,0,0,,Asta nu are niciun sens!
+Dialogue: 99,0:16:17.72,0:16:20.54,Dialogue,,0,0,0,,Generalul chiar a spus că plănuiește să aducă...
+Dialogue: 99,0:16:20.54,0:16:21.77,Dialogue,,0,0,0,,Maior Milizé!
+Dialogue: 99,0:16:23.64,0:16:25.63,Dialogue,,0,0,0,,Toată lumea, sunteți în regulă cu asta, nu?
+Dialogue: 99,0:16:27.55,0:16:28.84,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:16:33.07,0:16:34.60,Dialogue,,0,0,0,,C-Ce este?
+Dialogue: 99,0:16:35.38,0:16:37.59,Dialogue,,0,0,0,,Domnișoară maior, ai făcut destule.
+Dialogue: 99,0:16:37.59,0:16:40.65,Dialogue,,0,0,0,,Orice ai face, nimic nu se va schimba.
+Dialogue: 99,0:16:40.65,0:16:42.78,Dialogue,,0,0,0,,Căpitane Nouzen, ce încerci să spui?
+Dialogue: 99,0:16:42.78,0:16:44.06,Dialogue,,0,0,0,,Nu vor veni înlocuitori.
+Dialogue: 99,0:16:44.06,0:16:46.08,Dialogue,,0,0,0,,Nici măcar unul. Niciodată.
+Dialogue: 99,0:16:47.73,0:16:49.95,Dialogue,,0,0,0,,Noi vom fi cu toții nimiciți.
+Dialogue: 99,0:16:49.95,0:16:52.07,Dialogue,,0,0,0,,Asta este unitatea pentru exterminare.
+Dialogue: 99,0:16:59.87,0:17:02.43,Dialogue,,0,0,0,,C-Ce tot spui acolo?
+Dialogue: 99,0:17:02.43,0:17:07.96,Dialogue,,0,0,0,,„Înlocuitorii” despre care vorbeai sunt Procesoarele care vor veni după noi.
+Dialogue: 99,0:17:07.96,0:17:10.80,Dialogue,,0,0,0,,Vrea să spună: „După ce vom fi uciși.”
+Dialogue: 99,0:17:10.80,0:17:13.59,Dialogue,,0,0,0,,Am primit recent niște Distrugătoare noi-nouțe.
+Dialogue: 99,0:17:14.21,0:17:15.72,Dialogue,,0,0,0,,Acele sunt pentru ei.
+Dialogue: 99,0:17:17.97,0:17:24.06,Dialogue,,0,0,0,,Acei porci albi nu intenționează să lase niciun rezident al Sectorului 86 să-l părăsească.
+Dialogue: 99,0:17:24.06,0:17:29.22,Dialogue,,0,0,0,,Suntem înrolați sub pretextul că servim cinci ani, iar apoi suntem liberi.
+Dialogue: 99,0:17:29.22,0:17:32.15,Dialogue,,0,0,0,,Dar suntem doar trimiși spre propria moarte.
+Dialogue: 99,0:17:32.15,0:17:34.84,Dialogue,,0,0,0,,Chiar sunt niște porci. Este îngrozitor.
+Dialogue: 99,0:17:34.84,0:17:38.10,Dialogue,,0,0,0,,Asta... Asta e imposibil!
+Dialogue: 99,0:17:38.10,0:17:41.25,Dialogue,,0,0,0,,Marea majoritate a Procesoarelor mor înainte să li se apropie data eliberării.
+Dialogue: 99,0:17:41.25,0:17:45.02,Dialogue,,0,0,0,,Deci nu prea contează ce promisiuni se fac.
+Dialogue: 99,0:17:45.02,0:17:47.38,Dialogue,,0,0,0,,Problema apare când dai peste persoane ca noi,
+Dialogue: 99,0:17:47.38,0:17:51.26,Dialogue,,0,0,0,,care reușesc să supraviețuiască pe câmpul de luptă în ciuda tuturor șanselor.
+Dialogue: 99,0:17:51.26,0:17:53.52,Dialogue,,0,0,0,,Cu cât supravietuim mai mult, cu atât devenim mai inteligenți.
+Dialogue: 99,0:17:53.52,0:17:56.63,Dialogue,,0,0,0,,Pentru ceilalți rezidenti ai Sectorului 86, noi suntem văzuți ca niște eroi.
+Dialogue: 99,0:17:56.63,0:17:59.47,Dialogue,,0,0,0,,Nu-și pot permite posibilitatea ca noi să pornim o rebeliune.
+Dialogue: 99,0:17:59.78,0:18:04.33,Dialogue,,0,0,0,,Deci suntem trimiși pe frontul cu cele mai groaznice lupte
+Dialogue: 99,0:18:04.33,0:18:06.62,Dialogue,,0,0,0,,ca să fim omorâți.
+Dialogue: 99,0:18:06.62,0:18:11.89,Dialogue,,0,0,0,,Și dacă reușim să supraviețuim cumva, atunci ajungem aici.
+Dialogue: 99,0:18:11.89,0:18:14.48,Dialogue,,0,0,0,,Escadronul 1, cunoscut ca Vârf de Lance, din zona de luptă a Sectorului 1.
+Dialogue: 99,0:18:15.11,0:18:19.80,Dialogue,,0,0,0,,Această unitate a fost creată \Nca noi să luptăm până murim.
+Dialogue: 99,0:18:19.80,0:18:22.12,Dialogue,,0,0,0,,Acesta este capătul drumul pentru noi.
+Dialogue: 99,0:18:22.84,0:18:25.62,Dialogue,,0,0,0,,Vom muri cu toții aici.
+Dialogue: 99,0:18:26.01,0:18:29.78,Dialogue,,0,0,0,,Doar după ce mor cu toții, vor veni înlocuitori.
+Dialogue: 99,0:18:29.78,0:18:32.09,Dialogue,,0,0,0,,Adică următorul grup care-și va aștepta execuția.
+Dialogue: 99,0:18:32.92,0:18:37.17,Dialogue,,0,0,0,,Deci noi nu vă formțăm să luptați ca să ne protejati, ci ca să vă omorâm noi înșine?
+Dialogue: 99,0:18:37.17,0:18:40.22,Dialogue,,0,0,0,,Asta nu este cu nimic diferit față de un masacru!
+Dialogue: 99,0:18:41.62,0:18:43.69,Dialogue,,0,0,0,,Știati cu toții...
+Dialogue: 99,0:18:43.69,0:18:45.81,Dialogue,,0,0,0,,Da, îmi cer scuze.
+Dialogue: 99,0:18:45.81,0:18:47.46,Dialogue,,0,0,0,,De când?
+Dialogue: 99,0:18:47.46,0:18:49.06,Dialogue,,0,0,0,,De la bun început.
+Dialogue: 99,0:18:49.06,0:18:54.50,Dialogue,,0,0,0,,Nimeni care a mers la război, nici sora mea, nici oricine altcineva, nu s-a mai întors.
+Dialogue: 99,0:18:54.50,0:18:57.58,Dialogue,,0,0,0,,Iar noi nu aveam voie să părăsim taberele.
+Dialogue: 99,0:18:57.58,0:19:02.74,Dialogue,,0,0,0,,Știam cu toții de la bun început că acei porci albi nu-și țin promisiunile.
+Dialogue: 99,0:19:02.74,0:19:05.87,Dialogue,,0,0,0,,Dacă știați, atunci ați ales să luptați?
+Dialogue: 99,0:19:05.87,0:19:10.79,Dialogue,,0,0,0,,De ce nu ati fugit... sau de ce nu ați încercat să vă răzbunați pe Republică?
+Dialogue: 99,0:19:11.20,0:19:14.12,Dialogue,,0,0,0,,Răzbunarea ar fi fost simplă.
+Dialogue: 99,0:19:14.12,0:19:17.86,Dialogue,,0,0,0,,Trebuia doar să stăm cu mâinile în sân și să lăsăm Legiunea să treacă.
+Dialogue: 99,0:19:17.86,0:19:22.83,Dialogue,,0,0,0,,Desigur, am fi murit și noi, dar i-am fi luat și pe acei porci albi cu noi.
+Dialogue: 99,0:19:23.51,0:19:25.10,Dialogue,,0,0,0,,Atunci, de ce?
+Dialogue: 99,0:19:27.31,0:19:31.73,Dialogue,,0,0,0,,Până la vârsta de 12 ani, o bătrână Alba a avut grijă de mine în Sectorul 9.
+Dialogue: 99,0:19:32.96,0:19:34.59,Dialogue,,0,0,0,,Shin a fost crescut de un preot Alba,
+Dialogue: 99,0:19:34.59,0:19:38.61,Dialogue,,0,0,0,,care a refuzat să-și cedeze pământul și a fost trimis în tabere.
+Dialogue: 99,0:19:39.06,0:19:42.61,Dialogue,,0,0,0,,Theo ți-a spus despre căpitanul său.
+Dialogue: 99,0:19:43.04,0:19:46.54,Dialogue,,0,0,0,,Kurena i-a cunoscut pe cei mai groaznici Alba.
+Dialogue: 99,0:19:46.54,0:19:50.62,Dialogue,,0,0,0,,Desigur, cu toții știm cât de groaznici pot fi acei porci albi, dar...
+Dialogue: 99,0:19:52.31,0:19:54.17,Dialogue,,0,0,0,,Există și persoane precum Kaie,
+Dialogue: 99,0:19:54.17,0:19:57.94,Dialogue,,0,0,0,,care a fost abuzată de rezidenti ai Sectorului 86 din cauza culorii pielii ei.
+Dialogue: 99,0:19:59.14,0:20:04.22,Dialogue,,0,0,0,,Prin venele lui Anju, Haruto și Shin curge fie sânge de porc alb, fie sânge imperial. Dar nu e nicio diferență între noi.
+Dialogue: 99,0:20:05.00,0:20:07.60,Dialogue,,0,0,0,,Există gunoaie și printre rezidenții Sectorului 86.
+Dialogue: 99,0:20:07.90,0:20:15.40,Dialogue,,0,0,0,,Și o grămadă de rezidenti ai Sectorului 86 care au luptat cu mândrie până la final.
+Dialogue: 99,0:20:16.36,0:20:18.32,Dialogue,,0,0,0,,Chiar dacă majoritatea oamenilor Alba sunt niște gunoaie,
+Dialogue: 99,0:20:18.32,0:20:21.87,Dialogue,,0,0,0,,există persoane care nu ne-au putut lăsa să murim fără motiv.
+Dialogue: 99,0:20:21.87,0:20:25.00,Dialogue,,0,0,0,,Și nici toți rezidentii Sectorului 86 sunt buni.
+Dialogue: 99,0:20:27.03,0:20:32.13,Dialogue,,0,0,0,,Deci am ales fiecare de care parte dorim să fim.
+Dialogue: 99,0:20:34.26,0:20:36.44,Dialogue,,0,0,0,,Doar pentru că niște gunoaie ne-a tratat astfel,
+Dialogue: 99,0:20:36.44,0:20:39.35,Dialogue,,0,0,0,,nu am fi cu nimic diferiți de ele dacă le-am oferi același tratament.
+Dialogue: 99,0:20:39.35,0:20:44.06,Dialogue,,0,0,0,,Dacă singurele noastre drumuri sunt să murim luptând contra Legiunii și să murim renunțând,
+Dialogue: 99,0:20:44.06,0:20:47.34,Dialogue,,0,0,0,,atunci vom supraviețui până în ultimul moment și vom muri luptând.
+Dialogue: 99,0:20:47.34,0:20:49.79,Dialogue,,0,0,0,,Acesta este motivul pentru care luptăm.
+Dialogue: 99,0:20:49.79,0:20:50.68,Dialogue,,0,0,0,,Asta e mândria noastră.
+Dialogue: 99,0:20:51.30,0:20:55.35,Dialogue,,0,0,0,,Dacă asta înseamnă să-i protejăm pe acei porci albi, deși nu ne dorim asta,
+Dialogue: 99,0:20:55.35,0:20:56.56,Dialogue,,0,0,0,,atunci așa să fie.
+Dialogue: 99,0:21:01.61,0:21:06.95,Dialogue,,0,0,0,,{\i1}Chiar dacă știți că veți muri, în cele din urmă?
+Dialogue: 99,0:21:07.24,0:21:11.08,Dialogue,,0,0,0,,Ce idiot își pregătește astăzi ștreangul știind că va muri mâine?
+Dialogue: 99,0:21:11.72,0:21:13.67,Dialogue,,0,0,0,,Chiar dacă știi că vei merge la spânzurătoare,
+Dialogue: 99,0:21:13.67,0:21:17.00,Dialogue,,0,0,0,,poți alege cum ajungi acolo.
+Dialogue: 99,0:21:17.00,0:21:19.88,Dialogue,,0,0,0,,Am ales singuri ceea ce vrem să facem.
+Dialogue: 99,0:21:19.88,0:21:22.59,Dialogue,,0,0,0,,Apoi, tot ceea ce a trebuit \Nsă facem a fost să trăim.
+Dialogue: 99,0:23:36.20,0:23:37.04,Dialogue,,0,0,0,,„Să mergem.”
 Dialogue: 0,0:00:01.06,0:00:05.07,DedzuyaSigns,,0,0,0,,{\an2\pos(960,930)\fscx90\fnNewCinemaB Std D\fs80\fsp2\bord2\1a&HFF&\3a&H30&\blur5\fad(500,500)}25 august, anul stelar 2148
 Dialogue: 1,0:00:01.06,0:00:05.07,DedzuyaSigns,,0,0,0,,{\an2\pos(960,930)\fscx90\fnNewCinemaB Std D\fs80\fsp2\bord1\c&H000000&\1a&HFF&\blur0.5\fad(500,500)\t(0,500,\1a&H00&)\t(3510,4010,\1a&HFF&)}25 august, anul stelar 2148
 Dialogue: 2,0:00:01.06,0:00:05.07,DedzuyaSigns,,0,0,0,,{\an2\pos(960,930)\fscx90\fnNewCinemaB Std D\fs80\fsp2\blur0.5\fad(500,500)}25 august, anul stelar 2148

@@ -44,430 +44,430 @@ Style: ED Română,Gunny Rewritten,58,&H008B0A58,&H000000FF,&H00FFFFFF,&H00BF6A3
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:04.18,0:00:05.90,Dialogue,,0,0,0,,O întoarcere cu lovitură în aer?!
-Dialogue: 100,0:00:06.26,0:00:08.47,Dialogue,,0,0,0,,Î-În niciun caz!
-Dialogue: 100,0:00:08.47,0:00:11.06,Dialogue,,0,0,0,,A-Am reuşit!
-Dialogue: 100,0:00:11.06,0:00:13.69,Dialogue,,0,0,0,,Am înscris un punct!
-Dialogue: 100,0:00:15.94,0:00:18.87,Dialogue,,0,0,0,,Sunt întoarcerile cu lovituri în aer atât de uimitoare?
-Dialogue: 100,0:00:19.10,0:00:23.25,Dialogue,,0,0,0,,Este una dintre cele mai dificile mişcări de făcut în Arena Zburătoare.
-Dialogue: 100,0:00:24.10,0:00:27.13,Dialogue,,0,0,0,,Ca să foloseşti o lovitură în aer pentru schimbarea direcţiei,
-Dialogue: 100,0:00:27.13,0:00:29.55,Dialogue,,0,0,0,,trebuie să ai un control precis al membranei.
-Dialogue: 100,0:00:30.50,0:00:32.61,Dialogue,,0,0,0,,"Mem... brană"?
-Dialogue: 100,0:00:32.61,0:00:34.88,Dialogue,,0,0,0,,Un strat de particule antigravitaţie.
-Dialogue: 100,0:00:34.88,0:00:38.33,Dialogue,,0,0,0,,Chiar şi atunci, nu ai vedea de obicei pe \Ncineva să facă o întoarcele cu lovitură în aer
-Dialogue: 100,0:00:38.33,0:00:39.56,Dialogue,,0,0,0,,folosind Pantofii Grav de şcoală.
-Dialogue: 100,0:00:39.56,0:00:43.21,Dialogue,,0,0,0,,Ca un începător folosind Li Men Ding Zhou?
-Dialogue: 100,0:00:45.19,0:00:46.71,Dialogue,,0,0,0,,Meciul s-a terminat!
-Dialogue: 100,0:00:46.71,0:00:49.23,Dialogue,,0,0,0,,Câştigătoarea este Kurashina Asuka!
-Dialogue: 100,0:00:49.64,0:00:51.78,Dialogue,,0,0,0,,Antrenorule! Am câştigat!
-Dialogue: 100,0:00:52.76,0:00:54.15,Dialogue,,0,0,0,,Am câştigat!
-Dialogue: 100,0:00:54.58,0:00:59.11,Dialogue,,0,0,0,,Nu înţeleg chiar tot, dar Arena Zburătoare este distractivă!
-Dialogue: 100,0:00:59.11,0:01:01.05,Dialogue,,0,0,0,,Felicitări, Kurashina—
-Dialogue: 100,0:01:01.76,0:01:03.13,Dialogue,,0,0,0,,Mersi mult!
-Dialogue: 100,0:01:03.13,0:01:06.04,Dialogue,,0,0,0,,Institutul Kunahama nu trebuie să-şi piardă "In"-ul acum!
-Dialogue: 100,0:01:06.86,0:01:08.30,Dialogue,,0,0,0,,Mă recunosc învinsă.
-Dialogue: 100,0:01:10.06,0:01:12.86,Dialogue,,0,0,0,,Aia a fost teribil de neglijent din partea mea.
-Dialogue: 100,0:01:12.86,0:01:13.95,Dialogue,,0,0,0,,Satouin-san!
-Dialogue: 100,0:01:13.95,0:01:15.09,Dialogue,,0,0,0,,C-Ce este?
-Dialogue: 100,0:01:15.49,0:01:19.05,Dialogue,,0,0,0,,Mersi pentru că ai jucat împotriva mea!
-Dialogue: 100,0:01:19.92,0:01:24.16,Dialogue,,0,0,0,,Ei bine, ai fost haotică, dar eşti amuzantă.
-Dialogue: 100,0:01:24.16,0:01:26.10,Dialogue,,0,0,0,,Să jucăm din nou cândva.
-Dialogue: 100,0:01:26.76,0:01:27.60,Dialogue,,0,0,0,,Sigur!
-Dialogue: 100,0:01:28.21,0:01:31.20,Dialogue,,0,0,0,,Fie ca aripile mele să fie acoperite în binecuvântarea albastrului.
-Dialogue: 100,0:01:36.68,0:01:38.88,Dialogue,,0,0,0,,Antrenor Hinata, mersi mu—
-Dialogue: 100,0:01:38.88,0:01:40.78,Dialogue,,0,0,0,,Hinata-kun, era?!
-Dialogue: 100,0:01:41.71,0:01:44.10,Dialogue,,0,0,0,,Ai experienţă în Arena Zburătoare, nu-i aşa?
-Dialogue: 100,0:01:44.10,0:01:46.26,Dialogue,,0,0,0,,Strategiile şi sfaturile tale au fost la fix!
-Dialogue: 100,0:01:46.26,0:01:47.54,Dialogue,,0,0,0,,Experienţă în Arena Zburătoare?
-Dialogue: 100,0:01:47.91,0:01:49.76,Dialogue,,0,0,0,,Nu, nu chiar.
-Dialogue: 100,0:01:49.76,0:01:53.97,Dialogue,,0,0,0,,Doar că Satouin-san s-a mişcă numai înainte şi pe laterale,
-Dialogue: 100,0:01:53.97,0:01:57.34,Dialogue,,0,0,0,,deci am crezut că poate este slabă la mişcările verticale.
-Dialogue: 100,0:01:57.34,0:01:58.75,Dialogue,,0,0,0,,Minunat!
-Dialogue: 100,0:01:58.75,0:02:00.74,Dialogue,,0,0,0,,Mare noroc că ne-am întâlnit aici!
-Dialogue: 100,0:02:00.74,0:02:02.48,Dialogue,,0,0,0,,Nu, este distinul!
-Dialogue: 100,0:02:02.48,0:02:07.04,Dialogue,,0,0,0,,Cu toţii sunteţi predestinaţi să fiţi salvatorii echipei de Arena Zburătoare Kunahama!
-Dialogue: 100,0:02:07.04,0:02:09.49,Dialogue,,0,0,0,,Să lucrăm împreună de acum în—
-Dialogue: 100,0:02:09.49,0:02:11.02,Dialogue,,0,0,0,,Hei!
-Dialogue: 100,0:03:42.86,0:03:45.88,Dialogue,,0,0,0,,Misaki-senpai...
-Dialogue: 100,0:03:45.88,0:03:48.33,Dialogue,,0,0,0,,Senpai-Misaki...
-Dialogue: 100,0:03:48.33,0:03:51.09,Dialogue,,0,0,0,,Cât de dor îmi e de tine...
-Dialogue: 100,0:03:51.09,0:03:54.33,Dialogue,,0,0,0,,Misaki!
-Dialogue: 100,0:03:54.96,0:03:56.67,Dialogue,,0,0,0,,Senpai, Senpai!
-Dialogue: 100,0:03:57.32,0:03:58.96,Dialogue,,0,0,0,,Bună dimineaţa!
-Dialogue: 100,0:03:59.79,0:04:01.97,Dialogue,,0,0,0,,Bună dimineaţa, Mashiro-chan.
-Dialogue: 100,0:04:01.97,0:04:03.36,Dialogue,,0,0,0,,Îţi mulţumesc pentru că ai grijă mereu de Misaki.
-Dialogue: 100,0:04:03.36,0:04:04.47,Dialogue,,0,0,0,,Nici o problemă!
-Dialogue: 100,0:04:09.38,0:04:11.21,Dialogue,,0,0,0,,Bună dimineaţa.
-Dialogue: 100,0:04:11.21,0:04:14.35,Dialogue,,0,0,0,,Văd că începi încă o zi ca frumoasa adormită.
-Dialogue: 100,0:04:14.60,0:04:17.92,Dialogue,,0,0,0,,Trezeşte-te, Misaki-senpai.
-Dialogue: 100,0:04:17.92,0:04:20.11,Dialogue,,0,0,0,,Udonul tău este aici.
-Dialogue: 100,0:04:21.20,0:04:22.29,Dialogue,,0,0,0,,Udon...?
-Dialogue: 100,0:04:23.31,0:04:24.70,Dialogue,,0,0,0,,Bună dimineaţa.
-Dialogue: 100,0:04:25.46,0:04:27.20,Dialogue,,0,0,0,,Eşti o adevărată problemă în fiecare dimineaţă.
-Dialogue: 100,0:04:27.58,0:04:29.70,Dialogue,,0,0,0,,Dar iubesc şi asta la tine.
-Dialogue: 100,0:04:29.70,0:04:31.75,Dialogue,,0,0,0,,Aşa somnoroasă...
-Dialogue: 100,0:04:32.10,0:04:33.59,Dialogue,,0,0,0,,Plecăm!
-Dialogue: 100,0:04:33.59,0:04:34.96,Dialogue,,0,0,0,,Să aveţi o zi minunată.
-Dialogue: 100,0:04:36.48,0:04:40.74,Dialogue,,0,0,0,,De ce trebuie să mergem la şcoală în fiecare dimineaţă?
-Dialogue: 100,0:04:40.74,0:04:43.41,Dialogue,,0,0,0,,Senpai, spui asta în fiecare zi.
-Dialogue: 100,0:04:44.56,0:04:45.87,Dialogue,,0,0,0,,Ce este cu tot acest zgomotul?
-Dialogue: 100,0:04:49.35,0:04:51.14,Dialogue,,0,0,0,,Bună dimineaţa!
-Dialogue: 100,0:04:52.54,0:04:56.25,Dialogue,,0,0,0,,Deci ea chiar nu poate sta în echilibru fără acea poziţie.
-Dialogue: 100,0:04:56.25,0:04:57.66,Dialogue,,0,0,0,,Doamne.
-Dialogue: 100,0:04:57.66,0:05:01.03,Dialogue,,0,0,0,,Presupun că ce s-a întâmplat ieri \Na fost doar norocul începătorului.
-Dialogue: 100,0:05:04.00,0:05:05.69,Dialogue,,0,0,0,,Am auzit totul, Kurashina-san!
-Dialogue: 100,0:05:05.99,0:05:08.53,Dialogue,,0,0,0,,Chiar ai înscris un punct împotriva lui Satouin-san
-Dialogue: 100,0:05:08.53,0:05:10.28,Dialogue,,0,0,0,,de la Academia Takafuji ieri?
-Dialogue: 100,0:05:10.77,0:05:14.24,Dialogue,,0,0,0,,Deci toată şcoala ştie deja că
-Dialogue: 100,0:05:14.24,0:05:17.07,Dialogue,,0,0,0,,am protejat "In"-ul din Institutul Kunahama?
-Dialogue: 100,0:05:17.07,0:05:18.00,Dialogue,,0,0,0,,"In"?
-Dialogue: 100,0:05:18.26,0:05:22.04,Dialogue,,0,0,0,,Oricum, Academia Takafuji este foarte puternică la Arena Zburătoare,
-Dialogue: 100,0:05:22.04,0:05:24.88,Dialogue,,0,0,0,,şi Satouin-san este vice căpitanul lor!
-Dialogue: 100,0:05:25.52,0:05:28.57,Dialogue,,0,0,0,,Uou, acel echipament este incredibil!
-Dialogue: 100,0:05:28.57,0:05:30.30,Dialogue,,0,0,0,,Este un costum de zbor pentru concurs.
-Dialogue: 100,0:05:30.52,0:05:33.60,Dialogue,,0,0,0,,Şi {\i1}tu{\i0} eşti cea incredibilă!
-Dialogue: 100,0:05:34.31,0:05:38.24,Dialogue,,0,0,0,,O începătoare totală care înscrie un punct împotriva lui Satouin-san
-Dialogue: 100,0:05:38.24,0:05:41.19,Dialogue,,0,0,0,,este practic surpriza secolului!
-Dialogue: 100,0:05:41.19,0:05:43.46,Dialogue,,0,0,0,,Exact ca meciul dintre Statele Unite şi Anglia!
-Dialogue: 100,0:05:43.46,0:05:45.43,Dialogue,,0,0,0,,Cel mai şocant rezultat din istoria Cupei Mondiale!
-Dialogue: 100,0:05:45.43,0:05:49.38,Dialogue,,0,0,0,,Treizeci şi şase de ani de când jucătorii ei profesionişti au fost suspendaţi, o echipă a SUA plină de amatori
-Dialogue: 100,0:05:49.38,0:05:53.54,Dialogue,,0,0,0,,bate Anglina, care se s-a clasat sus, cu un record incredibil de 22-4!
-Dialogue: 100,0:05:54.61,0:05:56.39,Dialogue,,0,0,0,,Ce interesant!
-Dialogue: 100,0:05:56.39,0:05:57.92,Dialogue,,0,0,0,,Oh, poţi păstra acea revistă.
-Dialogue: 100,0:05:57.92,0:05:59.99,Dialogue,,0,0,0,,Mersi mult.
-Dialogue: 100,0:05:59.99,0:06:03.60,Dialogue,,0,0,0,,Joci Arena Zburătoare, Aoyagi-san?
-Dialogue: 100,0:06:03.60,0:06:05.11,Dialogue,,0,0,0,,Nu chiar, sunt doar manager.
-Dialogue: 100,0:06:05.11,0:06:07.55,Dialogue,,0,0,0,,M-am alăturat recent echipei, \Ndeoarece fratele meu mi-a cerut asta.
-Dialogue: 100,0:06:08.16,0:06:10.06,Dialogue,,0,0,0,,Din moment ce toţi seniorii au absolvit,
-Dialogue: 100,0:06:10.06,0:06:12.14,Dialogue,,0,0,0,,singurii membri rămaşi sunt \Ncăpitanul—fratele meu—şi eu.
-Dialogue: 100,0:06:12.62,0:06:14.36,Dialogue,,0,0,0,,Te rog, alătură-te, dacă ţi-ar plăcea.
-Dialogue: 100,0:06:14.36,0:06:15.25,Dialogue,,0,0,0,,Bună dimineaţa.
-Dialogue: 100,0:06:15.25,0:06:17.31,Dialogue,,0,0,0,,Bună dimineaţa, antrenorule.
-Dialogue: 100,0:06:17.31,0:06:20.79,Dialogue,,0,0,0,,Am auzit totul despre treaba genială făcută ca secund ieri!
-Dialogue: 100,0:06:20.79,0:06:23.29,Dialogue,,0,0,0,,Nu ştiam că jucasei AZ, Hinata-kun.
-Dialogue: 100,0:06:23.29,0:06:26.44,Dialogue,,0,0,0,,Am jucat doar puţin când eram copil.
-Dialogue: 100,0:06:26.66,0:06:29.01,Dialogue,,0,0,0,,Ne-ar plăcea să avem jucători experimentaţi!
-Dialogue: 100,0:06:29.01,0:06:31.68,Dialogue,,0,0,0,,Şi tu ar trebui să te alături echipei de AZ—
-Dialogue: 100,0:06:30.42,0:06:31.68,Alternative,,0,0,0,,Nu mă voi alătura.
-Dialogue: 100,0:06:34.72,0:06:36.92,Dialogue,,0,0,0,,Ora este pe cale să înceapă, Aoyagi.
-Dialogue: 100,0:06:36.92,0:06:38.08,Dialogue,,0,0,0,,A-Aşa este...
-Dialogue: 100,0:06:42.06,0:06:45.13,Dialogue,,0,0,0,,Să mănânci tsuke udon afară este aşa grozav, miau!
-Dialogue: 100,0:06:45.13,0:06:48.97,Dialogue,,0,0,0,,Şi murăturile nukazuke pe care le-ai făcut sunt super-delicioase!
-Dialogue: 100,0:06:49.60,0:06:50.65,Dialogue,,0,0,0,,Poftim.
-Dialogue: 100,0:06:51.89,0:06:53.47,Dialogue,,0,0,0,,C-Ce este asta?
-Dialogue: 100,0:06:53.83,0:06:56.77,Dialogue,,0,0,0,,Am completat-o eu pentru tine, deci tot ce trebuie să faci este s-o depui.
-Dialogue: 100,0:06:56.77,0:06:58.27,Dialogue,,0,0,0,,La fel şi pentru voi două.
-Dialogue: 100,0:06:58.27,0:06:59.87,Dialogue,,0,0,0,,Vorbind despre completarea informaţiilor.
-Dialogue: 100,0:06:59.87,0:07:01.35,Dialogue,,0,0,0,,Uh, sunt destul de sigură ca asta este falsificare.
-Dialogue: 100,0:07:01.93,0:07:04.98,Dialogue,,0,0,0,,Asta chiar seamănă mult ca scrisul meu de mână.
-Dialogue: 100,0:07:04.98,0:07:07.46,Dialogue,,0,0,0,,Alăturaţi-vă acum şi veţi primi o băutură gratis la petrecerea de bun-venit!
-Dialogue: 100,0:07:07.46,0:07:09.32,Dialogue,,0,0,0,,Ce e asta, o campanie promoţională?
-Dialogue: 100,0:07:09.32,0:07:10.37,Dialogue,,0,0,0,,Pe bune?!
-Dialogue: 100,0:07:10.37,0:07:13.03,Dialogue,,0,0,0,,Arăţi ca un recrutor excelent, Aoyagi-senpai!
-Dialogue: 100,0:07:13.63,0:07:15.24,Dialogue,,0,0,0,,Mă voi alătura!
-Dialogue: 100,0:07:15.61,0:07:18.91,Dialogue,,0,0,0,,Nu sunt bună deloc, dar abia aştept să lucrez cu tine!
-Dialogue: 100,0:07:18.91,0:07:23.21,Dialogue,,0,0,0,,{\an8}Ce bine! Mersi, Kurashina-san!
-Dialogue: 100,0:07:19.79,0:07:21.92,Dialogue,,0,0,0,,Băutura gratis a făcut-o să se decidă?
-Dialogue: 100,0:07:21.92,0:07:23.21,Dialogue,,0,0,0,,Desigur că nu.
-Dialogue: 100,0:07:23.54,0:07:25.29,Dialogue,,0,0,0,,Alătură-te nouă, Misaki.
-Dialogue: 100,0:07:25.29,0:07:26.63,Dialogue,,0,0,0,,Obişnuiai să joci, nu-i aşa?
-Dialogue: 100,0:07:26.96,0:07:30.21,Dialogue,,0,0,0,,Hmm... Nu ştiu, miau.
-Dialogue: 100,0:07:30.97,0:07:34.39,Dialogue,,0,0,0,,Nu poate veni sub nicio formă la antrenamentul de dimineaţă.
-Dialogue: 100,0:07:34.39,0:07:37.43,Dialogue,,0,0,0,,Şi ea face lucrurile în felul ei, deci \Nnu poate avea un stil de viaţă sportiv.
-Dialogue: 100,0:07:37.76,0:07:39.79,Dialogue,,0,0,0,,Oh, presupun că ai dreptate.
-Dialogue: 100,0:07:39.79,0:07:41.74,Dialogue,,0,0,0,,Haide, Tobisawa-san!
-Dialogue: 100,0:07:43.68,0:07:45.73,Dialogue,,0,0,0,,Ei bine, mă voi gândi la asta.
-Dialogue: 100,0:07:48.61,0:07:52.24,Dialogue,,0,0,0,,{\an8}Deci, pentru a rămâne sănătos în viaţă...
-Dialogue: 100,0:07:50.44,0:07:52.24,Italic,,0,0,0,,Omule...
-Dialogue: 100,0:07:52.88,0:07:57.67,Italic,,0,0,0,,Şi eu care credeam că nu am nicio dorinţă de a mă reîntoarce.
-Dialogue: 100,0:07:59.81,0:08:00.95,Dialogue,,0,0,0,,Kurashina.
-Dialogue: 100,0:08:02.26,0:08:03.43,Dialogue,,0,0,0,,Nu o ascunzi foarte bine.
-Dialogue: 100,0:08:05.13,0:08:07.48,Dialogue,,0,0,0,,Îmi pa-pare...
-Dialogue: 100,0:08:07.48,0:08:08.29,Dialogue,,0,0,0,,...rău.
-Dialogue: 100,0:08:17.05,0:08:19.60,Dialogue,,0,0,0,,Bun-venit în echipa Arenei Zburătoare!
-Dialogue: 100,0:08:20.02,0:08:21.93,Dialogue,,0,0,0,,Oh, ce bine că ai venit!
-Dialogue: 100,0:08:22.32,0:08:23.95,Dialogue,,0,0,0,,D-Da...
-Dialogue: 100,0:08:23.95,0:08:24.69,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:08:25.68,0:08:26.94,Dialogue,,0,0,0,,Asta este sala clubul nostru?
-Dialogue: 100,0:08:26.94,0:08:29.69,Dialogue,,0,0,0,,Aşa este. Intră.
-Dialogue: 100,0:08:30.15,0:08:32.07,Dialogue,,0,0,0,,Scuze că este înghesuit.
-Dialogue: 100,0:08:32.38,0:08:35.65,Dialogue,,0,0,0,,La naiba, frate, ţi-am spus că cureţi locul acesta!
-Dialogue: 100,0:08:35.65,0:08:37.51,Dialogue,,0,0,0,,Nu am avut timp.
-Dialogue: 100,0:08:37.51,0:08:38.83,Dialogue,,0,0,0,,Bine, bine.
-Dialogue: 100,0:08:39.50,0:08:41.96,Dialogue,,0,0,0,,Huh, asta este sala clubului?
-Dialogue: 100,0:08:42.56,0:08:44.56,Dialogue,,0,0,0,,Hei, Tobisawa-san!
-Dialogue: 100,0:08:44.56,0:08:45.82,Dialogue,,0,0,0,,Şi Arisaka-san!
-Dialogue: 100,0:08:45.82,0:08:48.98,Dialogue,,0,0,0,,Ce, nu-mi este permis să mă alătur?
-Dialogue: 100,0:08:48.98,0:08:51.30,Dialogue,,0,0,0,,Doar ca să ştiţi, oriunde merge Misaki-senpai,
-Dialogue: 100,0:08:51.30,0:08:53.22,Dialogue,,0,0,0,,merg şi eu cu ea.
-Dialogue: 100,0:08:55.20,0:08:57.89,Dialogue,,0,0,0,,Am primit trei membri odată!
-Dialogue: 100,0:08:57.89,0:08:59.10,Dialogue,,0,0,0,,Mă bucur pentru tine, frate.
-Dialogue: 100,0:08:59.38,0:09:02.43,Dialogue,,0,0,0,,În regulă! Antrenamentul începe mâine!
-Dialogue: 100,0:09:03.35,0:09:04.77,Dialogue,,0,0,0,,Scuze că am întârziat.
-Dialogue: 100,0:09:05.37,0:09:06.81,Dialogue,,0,0,0,,Bună treabă în ziua de serviciu.
-Dialogue: 100,0:09:08.32,0:09:09.82,Dialogue,,0,0,0,,Ce crezi, Masaya?
-Dialogue: 100,0:09:12.05,0:09:15.85,Dialogue,,0,0,0,,Kurashina, Tobisawa, şi acea boboacă Arisaka şi-au depus formularele de înregistrare.
-Dialogue: 100,0:09:16.38,0:09:19.25,Dialogue,,0,0,0,,Echipa de AZ Kunahama, \Ncare a fost redusă la un fan club
-Dialogue: 100,0:09:19.25,0:09:21.69,Dialogue,,0,0,0,,tocmai a primit trei membri noi deodată.
-Dialogue: 100,0:09:22.32,0:09:23.75,Dialogue,,0,0,0,,S-a întâmplat ceva?
-Dialogue: 100,0:09:24.94,0:09:25.94,Dialogue,,0,0,0,,N-am idee.
-Dialogue: 100,0:09:26.41,0:09:28.63,Dialogue,,0,0,0,,Nu mă pot gândi la nimic.
-Dialogue: 100,0:09:30.58,0:09:31.52,Dialogue,,0,0,0,,Înţeleg.
-Dialogue: 100,0:09:32.03,0:09:32.89,Dialogue,,0,0,0,,Um...
-Dialogue: 100,0:09:33.36,0:09:36.71,Dialogue,,0,0,0,,Nu mai trebuie să fiu instructorul lui Kurashina-san, nu-i aşa?
-Dialogue: 100,0:09:36.71,0:09:38.31,Dialogue,,0,0,0,,Vreau să spun, ea se alătură echipei de AZ.
-Dialogue: 100,0:09:38.97,0:09:40.47,Dialogue,,0,0,0,,Fă cum doreşti.
-Dialogue: 100,0:09:41.94,0:09:44.47,Amintire,,0,0,0,,Sunt în grija ta, antrenorule!
-Dialogue: 100,0:09:44.88,0:09:49.99,Amintire,,0,0,0,,Zbor! Chiar zbor!
-Dialogue: 100,0:10:34.50,0:10:37.23,Dialogue,,0,0,0,,Ce s-a întâmplat cu antrenorul Hinata?
-Dialogue: 100,0:10:37.23,0:10:38.99,Dialogue,,0,0,0,,N-am idee.
-Dialogue: 100,0:10:41.26,0:10:44.41,Dialogue,,0,0,0,,Kurashina-san, nu mai sunt antrenorul tău.
-Dialogue: 100,0:10:45.83,0:10:46.66,Dialogue,,0,0,0,,Ce e în neregulă?
-Dialogue: 100,0:10:47.46,0:10:50.22,Dialogue,,0,0,0,,I-am spui lui Kagami-sensei că nu mai este nevoie de mine,
-Dialogue: 100,0:10:50.22,0:10:51.92,Dialogue,,0,0,0,,din moment ce te-ai alăturat echipei de AZ.
-Dialogue: 100,0:10:52.67,0:10:54.26,Dialogue,,0,0,0,,Aşa este?
-Dialogue: 100,0:10:56.66,0:10:57.57,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:10:57.57,0:10:59.01,Dialogue,,0,0,0,,Să începem să ne antrenăm!
-Dialogue: 100,0:10:59.76,0:11:02.62,Dialogue,,0,0,0,,Puneţi spirit în asta!
-Dialogue: 100,0:11:04.41,0:11:07.52,Dialogue,,0,0,0,,Mai întâi, să ne antrenăm zburând de la o baliză la alta.
-Dialogue: 100,0:11:07.78,0:11:08.48,Dialogue,,0,0,0,,Am înţeles!
-Dialogue: 100,0:11:08.48,0:11:09.96,Dialogue,,0,0,0,,Mult noroc.
-Dialogue: 100,0:11:10.96,0:11:13.40,Dialogue,,0,0,0,,Presupun că voi face ceva din când în când, miau.
-Dialogue: 100,0:11:13.79,0:11:16.24,Dialogue,,0,0,0,,O Misaki-senpai motivată?!
-Dialogue: 100,0:11:18.44,0:11:20.38,Dialogue,,0,0,0,,Te duci acasă, Masaya?
-Dialogue: 100,0:11:22.38,0:11:23.16,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:11:23.85,0:11:25.52,Dialogue,,0,0,0,,De ce nu rămâi să priveşti?
-Dialogue: 100,0:11:25.52,0:11:26.91,Dialogue,,0,0,0,,A trecut ceva timp.
-Dialogue: 100,0:11:34.12,0:11:37.60,Dialogue,,0,0,0,,Aşteaptă-mă, Misaki-senpai!
-Dialogue: 100,0:11:41.98,0:11:45.37,Dialogue,,0,0,0,,Aceşti nou-veniţi au potenţial cam puţin.
-Dialogue: 100,0:11:45.37,0:11:47.84,Dialogue,,0,0,0,,Trebuie să înceapă cu noţiunile de bază.
-Dialogue: 100,0:11:47.84,0:11:50.98,Dialogue,,0,0,0,,Alergat, antrenarea muşchilor
-Dialogue: 100,0:11:50.98,0:11:53.15,Dialogue,,0,0,0,,şi îmbunătăţirea reflexelor.
-Dialogue: 100,0:11:53.15,0:11:55.65,Dialogue,,0,0,0,,Atunci, de ce nu le dai tu aceste sfaturi?
-Dialogue: 100,0:11:56.64,0:11:58.28,Dialogue,,0,0,0,,Eu sunt un străin.
-Dialogue: 100,0:12:02.09,0:12:04.36,Dialogue,,0,0,0,,Misaki-senpai!
-Dialogue: 100,0:12:04.98,0:12:07.11,Dialogue,,0,0,0,,N-Nu mai pot...
-Dialogue: 100,0:12:07.11,0:12:09.06,Dialogue,,0,0,0,,N-Nici eu...
-Dialogue: 100,0:12:09.06,0:12:12.91,Dialogue,,0,0,0,,PV-ul meu a fost redus la zero.
-Dialogue: 100,0:12:13.26,0:12:14.72,Dialogue,,0,0,0,,Vă lipseşte spiritul!
-Dialogue: 100,0:12:14.72,0:12:17.06,Dialogue,,0,0,0,,Aşa nu vom fi pregătiţi pentru turneul din vară!
-Dialogue: 100,0:12:17.06,0:12:19.88,Dialogue,,0,0,0,,Haide acum. Este prima lor zi.
-Dialogue: 100,0:12:19.88,0:12:23.68,Dialogue,,0,0,0,,Şi trebuie să-le luăm Pantofi Grav de concurs şi costume de zbor.
-Dialogue: 100,0:12:24.02,0:12:25.29,Dialogue,,0,0,0,,Da, da!
-Dialogue: 100,0:12:25.29,0:12:28.05,Dialogue,,0,0,0,,Nu e corect că tu eşti singurul cu set de echipament complet!
-Dialogue: 100,0:12:29.28,0:12:30.48,Dialogue,,0,0,0,,Scuze.
-Dialogue: 100,0:12:30.48,0:12:33.06,Dialogue,,0,0,0,,Mâine este sâmbătă, deci ce ziceţi să mergem toţi la cumpărături?
-Dialogue: 100,0:12:33.38,0:12:34.69,Dialogue,,0,0,0,,Mă bag.
-Dialogue: 100,0:12:34.69,0:12:36.88,Dialogue,,0,0,0,,Nu mi-am mai folosit Pantofii Grav de mult timp,
-Dialogue: 100,0:12:36.88,0:12:38.57,Dialogue,,0,0,0,,deci va trebui să-i reglez.
-Dialogue: 100,0:12:38.57,0:12:39.57,Dialogue,,0,0,0,,Dar tu, Kurashina-san?
-Dialogue: 100,0:12:39.84,0:12:41.68,Dialogue,,0,0,0,,Voi merge!
-Dialogue: 100,0:12:41.68,0:12:44.67,Dialogue,,0,0,0,,Şi hai să întrăm toţi în concursul de vară!
-Dialogue: 100,0:12:44.67,0:12:46.13,Dialogue,,0,0,0,,Abia aştept!
-Dialogue: 100,0:12:46.13,0:12:48.47,Dialogue,,0,0,0,,Atunci trebuie să arătăm mai mult spirit!
-Dialogue: 100,0:12:48.47,0:12:49.36,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:12:53.30,0:12:54.96,Dialogue,,0,0,0,,Aici, aici!
-Dialogue: 100,0:12:55.31,0:12:56.87,Dialogue,,0,0,0,,Bună dimineaţa.
-Dialogue: 100,0:12:56.87,0:12:57.50,Dialogue,,0,0,0,,Bună dimineaţa.
-Dialogue: 100,0:12:57.50,0:12:58.71,Dialogue,,0,0,0,,Bună dimineaţa.
-Dialogue: 100,0:12:58.92,0:13:00.06,Dialogue,,0,0,0,,Bună dimineaţa.
-Dialogue: 100,0:13:00.06,0:13:01.44,Dialogue,,0,0,0,,Pe aici.
-Dialogue: 100,0:13:01.44,0:13:02.63,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:13:04.08,0:13:07.05,Dialogue,,0,0,0,,Uou, tavanul este atât de înalt.
-Dialogue: 100,0:13:07.62,0:13:10.56,Dialogue,,0,0,0,,Pentru ca oamenii să poată da testul de zbor.
-Dialogue: 100,0:13:10.96,0:13:12.81,Dialogue,,0,0,0,,Bună dimineaţa, Shirase-san.
-Dialogue: 100,0:13:13.11,0:13:14.34,Dialogue,,0,0,0,,Bine aţi venit.
-Dialogue: 100,0:13:14.34,0:13:16.02,Dialogue,,0,0,0,,Oh, Madoka-chan.
-Dialogue: 100,0:13:16.02,0:13:17.73,Dialogue,,0,0,0,,Nu eşti cu fratele tău astăzi?
-Dialogue: 100,0:13:18.10,0:13:22.58,Dialogue,,0,0,0,,Am adus noii membri ai echipei \Nde AZ Kunahama cu mine astăzi.
-Dialogue: 100,0:13:22.58,0:13:25.30,Dialogue,,0,0,0,,Î-Încâtată de cunoştinţă!
-Dialogue: 100,0:13:28.72,0:13:31.79,Dialogue,,0,0,0,,A-Acela este un înger păzitor?
-Dialogue: 100,0:13:32.16,0:13:34.27,Dialogue,,0,0,0,,Aceea este sora mea mai mică, Minamo.
-Dialogue: 100,0:13:34.27,0:13:35.68,Dialogue,,0,0,0,,Să mergem la etajul doi.
-Dialogue: 100,0:13:35.68,0:13:37.95,Dialogue,,0,0,0,,Vă voi alege Pantofii Grav care vi se potrivesc.
-Dialogue: 100,0:13:37.95,0:13:39.42,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:13:42.12,0:13:44.96,Dialogue,,0,0,0,,C-Ce fel de tip de Pantofi Grav?
-Dialogue: 100,0:13:44.96,0:13:46.05,Dialogue,,0,0,0,,Manechinul a vorbit!
-Dialogue: 100,0:13:46.66,0:13:48.18,Dialogue,,0,0,0,,"Tip"?
-Dialogue: 100,0:13:48.84,0:13:54.18,Dialogue,,0,0,0,,Există trei tipuri de Pantofi Grav: pentru viteză, luptă şi echilibraţi.
-Dialogue: 100,0:13:55.58,0:13:58.44,Dialogue,,0,0,0,,Există diferite stiluri de joc, fiecare \Nnecesitând un tip diferit de pantofi.
-Dialogue: 100,0:13:59.13,0:14:02.69,Dialogue,,0,0,0,,Cei pentru viteză sunt specializaţi în adunarea de puncte prin atingerea rapidă balizelor.
-Dialogue: 100,0:14:03.42,0:14:06.95,Dialogue,,0,0,0,,Cei pentru luptă se concentrează pe adunarea de puncte prin atingerea spatelui adversarului.
-Dialogue: 100,0:14:07.27,0:14:09.82,Dialogue,,0,0,0,,Şi cei echilibraţi, care sunt buni la ambele.
-Dialogue: 100,0:14:10.29,0:14:14.20,Dialogue,,0,0,0,,Aceste stiluri de joc necesită Pantofi Grav care emit membrane în moduri diferite.
-Dialogue: 100,0:14:14.57,0:14:15.73,Dialogue,,0,0,0,,Oh, membrane.
-Dialogue: 100,0:14:15.73,0:14:17.95,Dialogue,,0,0,0,,Straturi de particule antigravitaţie, nu-i aşa?
-Dialogue: 100,0:14:17.95,0:14:19.08,Dialogue,,0,0,0,,Aşa este.
-Dialogue: 100,0:14:19.41,0:14:21.61,Dialogue,,0,0,0,,Pantofii Grav te ajută să pluteşti folosind particule antigravitaţie
-Dialogue: 100,0:14:21.61,0:14:24.49,Dialogue,,0,0,0,,şi se miscă folosind câmpul gravitaţional al Pământului.
-Dialogue: 100,0:14:24.49,0:14:25.68,Dialogue,,0,0,0,,Ştiţi asta, nu-i aşa?
-Dialogue: 100,0:14:25.68,0:14:28.88,Dialogue,,0,0,0,,Şi vă propulsează înainte şi înapoi
-Dialogue: 100,0:14:28.88,0:14:30.51,Dialogue,,0,0,0,,prin potrivirea grosimii membranei.
-Dialogue: 100,0:14:30.70,0:14:34.50,Dialogue,,0,0,0,,Pantofii Grav de viteză sunt calibraţi pentru obţinerea celei mai mari viteze maxime,
-Dialogue: 100,0:14:34.50,0:14:38.92,Dialogue,,0,0,0,,în timp ce, cei pentru lupta au o viteză maximă mai mică, dar agilitate îmbunătăţită.
-Dialogue: 100,0:14:38.92,0:14:41.21,Dialogue,,0,0,0,,Faci lucrurile să fie aşa uşor de înţeles, Senpai!
-Dialogue: 100,0:14:41.21,0:14:43.40,Dialogue,,0,0,0,,Dar nu ştiu pe care să aleg.
-Dialogue: 100,0:14:43.40,0:14:45.23,Dialogue,,0,0,0,,Sunt complet începătoare.
-Dialogue: 100,0:14:45.55,0:14:49.61,Dialogue,,0,0,0,,At-Atunci îţi recomand să începi cu cei echilibraţi.
-Dialogue: 100,0:14:50.20,0:14:52.77,Dialogue,,0,0,0,,Pantofii vin cu unelte de echilibrare,
-Dialogue: 100,0:14:52.77,0:14:54.88,Dialogue,,0,0,0,,care permit un reglaj fin.
-Dialogue: 100,0:14:54.88,0:14:57.00,Dialogue,,0,0,0,,Me-Mersi.
-Dialogue: 100,0:14:57.42,0:15:00.00,Dialogue,,0,0,0,,Ce tip eşti tu, Misaki-senpai?
-Dialogue: 100,0:15:00.00,0:15:02.51,Dialogue,,0,0,0,,Eh? Sunt luptătoare.
-Dialogue: 100,0:15:02.51,0:15:05.54,Dialogue,,0,0,0,,Atunci şi eu sunt luptătoare.
-Dialogue: 100,0:15:05.54,0:15:08.13,Dialogue,,0,0,0,,Şi îi voi lua pe aceştia.
-Dialogue: 100,0:15:08.85,0:15:10.40,Dialogue,,0,0,0,,Drăguţi.
-Dialogue: 100,0:15:10.40,0:15:14.30,Dialogue,,0,0,0,,Am decis să o atrag pe \NMisaki-senpai folosind frumuseţe.
-Dialogue: 100,0:15:14.30,0:15:16.24,Dialogue,,0,0,0,,Aceia sunt pentru viteză.
-Dialogue: 100,0:15:16.24,0:15:19.27,Dialogue,,0,0,0,,Şi-a amestecat priorităţile.
-Dialogue: 100,0:15:19.62,0:15:23.07,Dialogue,,0,0,0,,Î-Îi vom calibra pentru folosirea în luptă.
-Dialogue: 100,0:15:23.07,0:15:24.92,Dialogue,,0,0,0,,Me-Mersi.
-Dialogue: 100,0:15:27.55,0:15:28.65,Dialogue,,0,0,0,,Nu merge, huh?
-Dialogue: 100,0:15:29.47,0:15:31.15,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:15:31.86,0:15:35.81,Dialogue,,0,0,0,,Costumele de zbor vor lua aproximativ o lună până sunt gata, se pare.
-Dialogue: 100,0:15:36.71,0:15:38.12,Dialogue,,0,0,0,,Abia aştept!
-Dialogue: 100,0:15:38.12,0:15:41.79,Dialogue,,0,0,0,,Până atunci, va trebui să fim destul de bune să concurăm în meciuri.
-Dialogue: 100,0:15:41.79,0:15:42.75,Dialogue,,0,0,0,,Aşa este.
-Dialogue: 100,0:15:42.75,0:15:45.08,Dialogue,,0,0,0,,Eu încă nu sunt bună deloc.
-Dialogue: 100,0:15:46.15,0:15:46.92,Dialogue,,0,0,0,,Aia este...
-Dialogue: 100,0:15:46.92,0:15:50.33,Dialogue,,0,0,0,,Ar putea fi versiunea relansată a "Downhill",
-Dialogue: 100,0:15:50.33,0:15:52.80,Dialogue,,0,0,0,,legendarul joc arcade electro-mecanic?!
-Dialogue: 100,0:15:53.14,0:15:55.46,Dialogue,,0,0,0,,Ei bine, eu mă duc acasă acum.
-Dialogue: 100,0:15:55.46,0:15:56.09,Dialogue,,0,0,0,,Aşteaptă...
-Dialogue: 100,0:15:57.14,0:15:58.09,Dialogue,,0,0,0,,Ce e în neregulă?
-Dialogue: 100,0:15:57.37,0:15:59.55,Dialogue,,0,0,0,,{\an8}Hai să jucăm!
-Dialogue: 100,0:15:59.55,0:16:01.31,Dialogue,,0,0,0,,Nu vreau. Sună ca o durere.
-Dialogue: 100,0:16:01.73,0:16:03.99,Dialogue,,0,0,0,,Ele două sunt cu siguranţă apropiate.
-Dialogue: 100,0:16:02.50,0:16:03.99,Dialogue,,0,0,0,,{\an8}Senpai!
-Dialogue: 100,0:16:03.99,0:16:05.06,Dialogue,,0,0,0,,Cu siguranţă sunt.
-Dialogue: 100,0:16:04.54,0:16:06.21,Dialogue,,0,0,0,,{\an8}Nu vreau. Sună ca o durere.
-Dialogue: 100,0:16:06.21,0:16:07.87,Dialogue,,0,0,0,,Atunci şi eu voi pleca.
-Dialogue: 100,0:16:07.87,0:16:09.36,Dialogue,,0,0,0,,Ne vedem luni la şcoală.
-Dialogue: 100,0:16:09.74,0:16:12.16,Dialogue,,0,0,0,,Alătură-te nouă, Kurashina-senpai!
-Dialogue: 100,0:16:12.16,0:16:15.24,Dialogue,,0,0,0,,Scuze, nu prea sunt o jucătoare.
-Dialogue: 100,0:16:31.89,0:16:34.23,Italic,,0,0,0,,Relaxează-ţi talia, doamne.
-Dialogue: 100,0:16:41.76,0:16:44.35,Dialogue,,0,0,0,,În sfârşit am Pantofi Grav de concurs!
-Dialogue: 100,0:16:44.35,0:16:46.23,Dialogue,,0,0,0,,Pune-ţi piciorul jos, Kurashina.
-Dialogue: 100,0:16:46.87,0:16:48.24,Dialogue,,0,0,0,,Scuze.
-Dialogue: 100,0:16:48.24,0:16:50.50,Dialogue,,0,0,0,,Bine, hai să ne antrenăm cu spirit—
-Dialogue: 100,0:16:50.50,0:16:53.01,Dialogue,,0,0,0,,Căpitane, am o cerere.
-Dialogue: 100,0:16:53.01,0:16:53.49,Dialogue,,0,0,0,,Care este?
-Dialogue: 100,0:16:53.88,0:16:55.96,Dialogue,,0,0,0,,Vreau să joc un meci.
-Dialogue: 100,0:16:55.96,0:16:59.28,Dialogue,,0,0,0,,Oh, uou. Te sacrifici pentru noi, huh?
-Dialogue: 100,0:16:59.57,0:17:00.45,Dialogue,,0,0,0,,Cu mine?
-Dialogue: 100,0:17:00.70,0:17:02.58,Dialogue,,0,0,0,,Nu, cu Kurashina-san.
-Dialogue: 100,0:17:03.12,0:17:04.83,Dialogue,,0,0,0,,Cine, eu?
-Dialogue: 100,0:17:05.14,0:17:07.22,Dialogue,,0,0,0,,Oh, asta sună bine.
-Dialogue: 100,0:17:07.22,0:17:10.50,Dialogue,,0,0,0,,Arată-ne întoarcerea ta cu lovitură în aer din nou, Kurashina.
-Dialogue: 100,0:17:10.50,0:17:11.88,Dialogue,,0,0,0,,C-Ce?!
-Dialogue: 100,0:17:12.56,0:17:14.76,Dialogue,,0,0,0,,Hai să ne jucăm împreună.
-Dialogue: 100,0:17:16.10,0:17:18.01,Dialogue,,0,0,0,,F-Foarte bine.
-Dialogue: 100,0:17:23.34,0:17:25.12,Dialogue,,0,0,0,,Oh, un meci?
-Dialogue: 100,0:17:25.12,0:17:27.04,Dialogue,,0,0,0,,Sincronizare perfectă, Sensei.
-Dialogue: 100,0:17:27.04,0:17:28.73,Dialogue,,0,0,0,,Avem nevoie de tine ca secund.
-Dialogue: 100,0:17:29.17,0:17:29.96,Dialogue,,0,0,0,,Sigur.
-Dialogue: 100,0:17:30.87,0:17:31.44,Dialogue,,0,0,0,,De fapt...
-Dialogue: 100,0:17:32.26,0:17:35.77,Dialogue,,0,0,0,,Nu este cineva mai potrivit decât mine?
-Dialogue: 100,0:17:39.04,0:17:39.96,Dialogue,,0,0,0,,Deci scuze.
-Dialogue: 100,0:17:40.39,0:17:41.37,Dialogue,,0,0,0,,Este în regulă.
-Dialogue: 100,0:17:41.67,0:17:43.16,Dialogue,,0,0,0,,Nu voi face asta din nou.
-Dialogue: 100,0:17:43.51,0:17:44.81,Dialogue,,0,0,0,,Hinata-san!
-Dialogue: 100,0:17:44.81,0:17:46.54,Dialogue,,0,0,0,,Sunt în grija ta din nou!
-Dialogue: 100,0:17:47.12,0:17:48.29,Dialogue,,0,0,0,,S-Sigur.
-Dialogue: 100,0:17:48.73,0:17:49.54,Dialogue,,0,0,0,,Tobisawa!
-Dialogue: 100,0:17:49.88,0:17:50.77,Italic,,0,0,0,,Eşti pregătită?!
-Dialogue: 100,0:17:50.77,0:17:51.88,Dialogue,,0,0,0,,Prea gălăgios!
-Dialogue: 100,0:17:52.73,0:17:53.61,Dialogue,,0,0,0,,Er...
-Dialogue: 100,0:17:53.61,0:17:56.30,Dialogue,,0,0,0,,Trebuie să ating fie balizele consecutiv,
-Dialogue: 100,0:17:56.30,0:17:58.80,Dialogue,,0,0,0,,fie spatele tău, nu-i aşa?
-Dialogue: 100,0:17:58.80,0:17:59.59,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:17:59.59,0:18:03.06,Dialogue,,0,0,0,,Dar nu te voi lăsa să atingi nimic atât de uşor.
-Dialogue: 100,0:18:03.06,0:18:04.17,Dialogue,,0,0,0,,Voi da tot ce pot!
-Dialogue: 100,0:18:04.17,0:18:05.31,Dialogue,,0,0,0,,Pregătiţi-vă...
-Dialogue: 100,0:18:07.34,0:18:08.20,Dialogue,,0,0,0,,Porniţi!
-Dialogue: 100,0:18:14.18,0:18:15.54,Dialogue,,0,0,0,,Nu-i rău.
-Dialogue: 100,0:18:15.54,0:18:17.07,Dialogue,,0,0,0,,A spus că era luptătoare, dar este rapidă.
-Dialogue: 100,0:18:19.30,0:18:21.38,Dialogue,,0,0,0,,Punct înscris de Misaki! 1-0!
-Dialogue: 100,0:18:21.38,0:18:22.95,Dialogue,,0,0,0,,Eşti uimitoare, Misaki-senpai!
-Dialogue: 100,0:18:26.92,0:18:27.90,Dialogue,,0,0,0,,Kurashina-san!
-Dialogue: 100,0:18:27.90,0:18:28.87,Dialogue,,0,0,0,,Apleacă-te pe faţă mai mult!
-Dialogue: 100,0:18:29.20,0:18:30.31,Dialogue,,0,0,0,,Bine!
-Dialogue: 100,0:18:34.06,0:18:35.27,Dialogue,,0,0,0,,2-0!
-Dialogue: 100,0:18:36.26,0:18:39.92,Dialogue,,0,0,0,,În acest rimt, va lua şi al treilea punct.
-Dialogue: 100,0:18:39.92,0:18:41.35,Italic,,0,0,0,,Uită de al treilea punct.
-Dialogue: 100,0:18:41.35,0:18:42.64,Dialogue,,0,0,0,,Ia-o pe scurtătură!
-Dialogue: 100,0:18:42.84,0:18:44.55,Italic,,0,0,0,,Mergi direct spre linia patru!
-Dialogue: 100,0:18:44.55,0:18:46.52,Dialogue,,0,0,0,,Ce este o scurtătură, din nou?
-Dialogue: 100,0:18:46.89,0:18:51.10,Dialogue,,0,0,0,,Abandonarea balizei şi intrarea pe \Nurmătoarea linie înaintea adversarului.
-Dialogue: 100,0:18:55.74,0:18:58.70,Dialogue,,0,0,0,,Kurashina-san, vrei să încercăm acea mişcare din nou?
-Dialogue: 100,0:19:00.39,0:19:02.58,Dialogue,,0,0,0,,Punct pentru Misaki! 3-0!
-Dialogue: 100,0:19:03.53,0:19:04.80,Dialogue,,0,0,0,,Am înţeles.
-Dialogue: 100,0:19:10.45,0:19:11.10,Italic,,0,0,0,,Du-te!
-Dialogue: 100,0:19:11.10,0:19:11.77,Dialogue,,0,0,0,,Am înţeles!
-Dialogue: 100,0:19:17.16,0:19:18.88,Dialogue,,0,0,0,,Va urma întroarcerea cu lovitură în aer?
-Dialogue: 100,0:19:24.43,0:19:25.85,Dialogue,,0,0,0,,Deschide-ţi picioarele pentru a te opri!
-Dialogue: 100,0:19:29.59,0:19:30.02,Dialogue,,0,0,0,,Te-am prins!
-Dialogue: 100,0:19:32.48,0:19:34.36,Dialogue,,0,0,0,,Punct pentru Misaki! 4-0!
-Dialogue: 100,0:19:34.86,0:19:37.03,Dialogue,,0,0,0,,Asta a fost aproape. Frumos, Misaki!
-Dialogue: 100,0:19:37.03,0:19:38.90,Dialogue,,0,0,0,,Totuşi, tot a înscris un punct.
-Dialogue: 100,0:19:38.90,0:19:41.40,Dialogue,,0,0,0,,Deci chiar a fost norocul începătorului.
-Dialogue: 100,0:19:43.27,0:19:44.62,Dialogue,,0,0,0,,Încă o dată!
-Dialogue: 100,0:19:45.90,0:19:47.66,Dialogue,,0,0,0,,Punct pentru Misaki! 5-0!
-Dialogue: 100,0:19:51.19,0:19:52.71,Dialogue,,0,0,0,,Nu am terminat încă!
-Dialogue: 100,0:19:53.54,0:19:54.83,Dialogue,,0,0,0,,6-0!
-Dialogue: 100,0:19:55.51,0:19:59.51,Dialogue,,0,0,0,,Arată de parcă Kurashina-senpai are o ţintă pe spatele ei.
-Dialogue: 100,0:20:03.39,0:20:04.05,Dialogue,,0,0,0,,Prea încet!
-Dialogue: 100,0:20:05.55,0:20:06.30,Dialogue,,0,0,0,,7-0!
-Dialogue: 100,0:20:08.30,0:20:09.58,Dialogue,,0,0,0,,8—
-Dialogue: 100,0:20:09.58,0:20:10.43,Dialogue,,0,0,0,,9-0!
-Dialogue: 100,0:20:10.95,0:20:13.19,Dialogue,,0,0,0,,Fă orice poţi ca s-o pierzi!
-Dialogue: 100,0:20:13.19,0:20:14.58,Dialogue,,0,0,0,,Schimbă acest moment!
-Dialogue: 100,0:20:15.72,0:20:17.77,Italic,,0,0,0,,Voi înscrie cel putin un punct!
-Dialogue: 100,0:20:25.51,0:20:27.84,Italic,,0,0,0,,Cel puţin un punct!
-Dialogue: 100,0:20:31.16,0:20:32.62,Dialogue,,0,0,0,,Meciul s-a terminat!
-Dialogue: 100,0:20:33.03,0:20:36.54,Dialogue,,0,0,0,,Tobisawa Misaki câştigă cu 9-0!
-Dialogue: 100,0:20:43.85,0:20:44.93,Dialogue,,0,0,0,,Eşti bine?
-Dialogue: 100,0:20:45.76,0:20:49.41,Dialogue,,0,0,0,,Nu am putut face întoarcerea cu lovitură în aer
-Dialogue: 100,0:20:50.00,0:20:52.05,Dialogue,,0,0,0,,şi nu am putut înscrie nici măcar un punct.
-Dialogue: 100,0:20:53.17,0:20:54.44,Dialogue,,0,0,0,,Nu sunt bună deloc.
-Dialogue: 100,0:20:54.67,0:20:56.68,Dialogue,,0,0,0,,Misaki are experienţă la AZ,
-Dialogue: 100,0:20:56.68,0:20:59.86,Dialogue,,0,0,0,,iar tu doar ai început—
-Dialogue: 100,0:20:58.43,0:20:59.86,Alternative,,0,0,0,,Vreau să devin bună!
-Dialogue: 100,0:21:00.21,0:21:01.73,Dialogue,,0,0,0,,Vreau să devin mai bună!
-Dialogue: 100,0:21:02.32,0:21:05.56,Dialogue,,0,0,0,,Te rog, fii antrenorul meu din nou, Hinata-san!
-Dialogue: 100,0:21:06.83,0:21:08.12,Dialogue,,0,0,0,,Eu...
-Dialogue: 100,0:21:08.12,0:21:11.08,Dialogue,,0,0,0,,Vei refuza aşa o plăcinţică drăguţă?
-Dialogue: 100,0:21:11.08,0:21:12.50,Dialogue,,0,0,0,,Haide, ajut-o.
-Dialogue: 100,0:21:12.50,0:21:13.90,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:21:13.90,0:21:16.46,Dialogue,,0,0,0,,Ce zici dacă o faci cel puţin până la concursul din vară?
-Dialogue: 100,0:21:17.63,0:21:20.75,Dialogue,,0,0,0,,Nu sunt bună deloc, deci te rog, antrenează-mă!
-Dialogue: 100,0:21:24.14,0:21:25.52,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:21:25.52,0:21:27.35,Dialogue,,0,0,0,,Atât timp cât este doar până la concursul din vară.
-Dialogue: 100,0:21:28.28,0:21:30.89,Dialogue,,0,0,0,,Mersi! Mersi!
-Dialogue: 100,0:21:32.21,0:21:33.64,Dialogue,,0,0,0,,Totul e bine când se termină cu bine, huh?
-Dialogue: 100,0:21:34.25,0:21:35.69,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:21:36.17,0:21:41.02,Italic,,0,0,0,,Nu ştiu ce e acest sentiment, dar nu e rău deloc.
-Dialogue: 100,0:21:41.36,0:21:44.08,Dialogue,,0,0,0,,M-am îndrăgostit din nou de tine, Misaki-senpai.
-Dialogue: 100,0:21:44.08,0:21:46.48,Dialogue,,0,0,0,,Erai ca o pumă urmărindu-şi prada.
-Dialogue: 100,0:21:46.48,0:21:47.83,Dialogue,,0,0,0,,O pumă?
-Dialogue: 100,0:21:48.24,0:21:50.26,Dialogue,,0,0,0,,Trebuie să-ţi celebrăm victoria.
-Dialogue: 100,0:21:50.26,0:21:52.29,Dialogue,,0,0,0,,Te voi cinsti cu o porţie de udon foarte mare.
-Dialogue: 100,0:21:52.29,0:21:53.68,Dialogue,,0,0,0,,Udon...?!
-Dialogue: 100,0:21:54.44,0:21:56.14,Dialogue,,0,0,0,,Foarte mare!
-Dialogue: 100,0:21:56.14,0:21:56.62,Dialogue,,0,0,0,,Heh.
-Dialogue: 100,0:21:57.37,0:22:00.93,Dialogue,,0,0,0,,Alo? Kagami de la Liceul Kunahama la telefon.
-Dialogue: 100,0:21:57.79,0:21:59.97,Dialogue,,0,0,0,,{\an8}Să ne grăbim şi să merge!
-Dialogue: 100,0:21:59.97,0:22:01.35,Dialogue,,0,0,0,,{\an8}Linişteşte-te, Senpai!
-Dialogue: 100,0:22:01.35,0:22:02.96,Dialogue,,0,0,0,,{\an8}Plecaţi deja?
-Dialogue: 100,0:22:01.39,0:22:03.97,Dialogue,,0,0,0,,Da. Avem mai mulţi membri acum,
-Dialogue: 100,0:22:02.96,0:22:04.80,Dialogue,,0,0,0,,La revedere!{\an8}
-Dialogue: 100,0:22:03.97,0:22:07.63,Dialogue,,0,0,0,,dacă este posibil, ne-ar plăcea ajutor de la Takafuji, şcoala cea mai puternică.
-Dialogue: 100,0:22:08.41,0:22:10.00,Dialogue,,0,0,0,,Dacă ai fii atât de drăguţ,
-Dialogue: 100,0:22:10.00,0:22:12.10,Dialogue,,0,0,0,,ne-ar plăcea să ţinem o tabără de antrenament împreună cu voi.
-Dialogue: 100,0:23:46.83,0:23:49.74,Dialogue,,0,0,0,,Uou, asta e aşa incitant!
-Dialogue: 100,0:23:47.94,0:23:50.70,Dialogue,,0,0,0,,{\an8}Desigur că antrenamentul va fi greu.
-Dialogue: 100,0:23:51.28,0:23:52.11,Dialogue,,0,0,0,,Totul e în regulă.
-Dialogue: 100,0:23:52.49,0:23:54.56,Dialogue,,0,0,0,,Doar m-am încins puţin.
+Dialogue: 99,0:00:04.18,0:00:05.90,Dialogue,,0,0,0,,O întoarcere cu lovitură în aer?!
+Dialogue: 99,0:00:06.26,0:00:08.47,Dialogue,,0,0,0,,Î-În niciun caz!
+Dialogue: 99,0:00:08.47,0:00:11.06,Dialogue,,0,0,0,,A-Am reuşit!
+Dialogue: 99,0:00:11.06,0:00:13.69,Dialogue,,0,0,0,,Am înscris un punct!
+Dialogue: 99,0:00:15.94,0:00:18.87,Dialogue,,0,0,0,,Sunt întoarcerile cu lovituri în aer atât de uimitoare?
+Dialogue: 99,0:00:19.10,0:00:23.25,Dialogue,,0,0,0,,Este una dintre cele mai dificile mişcări de făcut în Arena Zburătoare.
+Dialogue: 99,0:00:24.10,0:00:27.13,Dialogue,,0,0,0,,Ca să foloseşti o lovitură în aer pentru schimbarea direcţiei,
+Dialogue: 99,0:00:27.13,0:00:29.55,Dialogue,,0,0,0,,trebuie să ai un control precis al membranei.
+Dialogue: 99,0:00:30.50,0:00:32.61,Dialogue,,0,0,0,,"Mem... brană"?
+Dialogue: 99,0:00:32.61,0:00:34.88,Dialogue,,0,0,0,,Un strat de particule antigravitaţie.
+Dialogue: 99,0:00:34.88,0:00:38.33,Dialogue,,0,0,0,,Chiar şi atunci, nu ai vedea de obicei pe \Ncineva să facă o întoarcele cu lovitură în aer
+Dialogue: 99,0:00:38.33,0:00:39.56,Dialogue,,0,0,0,,folosind Pantofii Grav de şcoală.
+Dialogue: 99,0:00:39.56,0:00:43.21,Dialogue,,0,0,0,,Ca un începător folosind Li Men Ding Zhou?
+Dialogue: 99,0:00:45.19,0:00:46.71,Dialogue,,0,0,0,,Meciul s-a terminat!
+Dialogue: 99,0:00:46.71,0:00:49.23,Dialogue,,0,0,0,,Câştigătoarea este Kurashina Asuka!
+Dialogue: 99,0:00:49.64,0:00:51.78,Dialogue,,0,0,0,,Antrenorule! Am câştigat!
+Dialogue: 99,0:00:52.76,0:00:54.15,Dialogue,,0,0,0,,Am câştigat!
+Dialogue: 99,0:00:54.58,0:00:59.11,Dialogue,,0,0,0,,Nu înţeleg chiar tot, dar Arena Zburătoare este distractivă!
+Dialogue: 99,0:00:59.11,0:01:01.05,Dialogue,,0,0,0,,Felicitări, Kurashina—
+Dialogue: 99,0:01:01.76,0:01:03.13,Dialogue,,0,0,0,,Mersi mult!
+Dialogue: 99,0:01:03.13,0:01:06.04,Dialogue,,0,0,0,,Institutul Kunahama nu trebuie să-şi piardă "In"-ul acum!
+Dialogue: 99,0:01:06.86,0:01:08.30,Dialogue,,0,0,0,,Mă recunosc învinsă.
+Dialogue: 99,0:01:10.06,0:01:12.86,Dialogue,,0,0,0,,Aia a fost teribil de neglijent din partea mea.
+Dialogue: 99,0:01:12.86,0:01:13.95,Dialogue,,0,0,0,,Satouin-san!
+Dialogue: 99,0:01:13.95,0:01:15.09,Dialogue,,0,0,0,,C-Ce este?
+Dialogue: 99,0:01:15.49,0:01:19.05,Dialogue,,0,0,0,,Mersi pentru că ai jucat împotriva mea!
+Dialogue: 99,0:01:19.92,0:01:24.16,Dialogue,,0,0,0,,Ei bine, ai fost haotică, dar eşti amuzantă.
+Dialogue: 99,0:01:24.16,0:01:26.10,Dialogue,,0,0,0,,Să jucăm din nou cândva.
+Dialogue: 99,0:01:26.76,0:01:27.60,Dialogue,,0,0,0,,Sigur!
+Dialogue: 99,0:01:28.21,0:01:31.20,Dialogue,,0,0,0,,Fie ca aripile mele să fie acoperite în binecuvântarea albastrului.
+Dialogue: 99,0:01:36.68,0:01:38.88,Dialogue,,0,0,0,,Antrenor Hinata, mersi mu—
+Dialogue: 99,0:01:38.88,0:01:40.78,Dialogue,,0,0,0,,Hinata-kun, era?!
+Dialogue: 99,0:01:41.71,0:01:44.10,Dialogue,,0,0,0,,Ai experienţă în Arena Zburătoare, nu-i aşa?
+Dialogue: 99,0:01:44.10,0:01:46.26,Dialogue,,0,0,0,,Strategiile şi sfaturile tale au fost la fix!
+Dialogue: 99,0:01:46.26,0:01:47.54,Dialogue,,0,0,0,,Experienţă în Arena Zburătoare?
+Dialogue: 99,0:01:47.91,0:01:49.76,Dialogue,,0,0,0,,Nu, nu chiar.
+Dialogue: 99,0:01:49.76,0:01:53.97,Dialogue,,0,0,0,,Doar că Satouin-san s-a mişcă numai înainte şi pe laterale,
+Dialogue: 99,0:01:53.97,0:01:57.34,Dialogue,,0,0,0,,deci am crezut că poate este slabă la mişcările verticale.
+Dialogue: 99,0:01:57.34,0:01:58.75,Dialogue,,0,0,0,,Minunat!
+Dialogue: 99,0:01:58.75,0:02:00.74,Dialogue,,0,0,0,,Mare noroc că ne-am întâlnit aici!
+Dialogue: 99,0:02:00.74,0:02:02.48,Dialogue,,0,0,0,,Nu, este distinul!
+Dialogue: 99,0:02:02.48,0:02:07.04,Dialogue,,0,0,0,,Cu toţii sunteţi predestinaţi să fiţi salvatorii echipei de Arena Zburătoare Kunahama!
+Dialogue: 99,0:02:07.04,0:02:09.49,Dialogue,,0,0,0,,Să lucrăm împreună de acum în—
+Dialogue: 99,0:02:09.49,0:02:11.02,Dialogue,,0,0,0,,Hei!
+Dialogue: 99,0:03:42.86,0:03:45.88,Dialogue,,0,0,0,,Misaki-senpai...
+Dialogue: 99,0:03:45.88,0:03:48.33,Dialogue,,0,0,0,,Senpai-Misaki...
+Dialogue: 99,0:03:48.33,0:03:51.09,Dialogue,,0,0,0,,Cât de dor îmi e de tine...
+Dialogue: 99,0:03:51.09,0:03:54.33,Dialogue,,0,0,0,,Misaki!
+Dialogue: 99,0:03:54.96,0:03:56.67,Dialogue,,0,0,0,,Senpai, Senpai!
+Dialogue: 99,0:03:57.32,0:03:58.96,Dialogue,,0,0,0,,Bună dimineaţa!
+Dialogue: 99,0:03:59.79,0:04:01.97,Dialogue,,0,0,0,,Bună dimineaţa, Mashiro-chan.
+Dialogue: 99,0:04:01.97,0:04:03.36,Dialogue,,0,0,0,,Îţi mulţumesc pentru că ai grijă mereu de Misaki.
+Dialogue: 99,0:04:03.36,0:04:04.47,Dialogue,,0,0,0,,Nici o problemă!
+Dialogue: 99,0:04:09.38,0:04:11.21,Dialogue,,0,0,0,,Bună dimineaţa.
+Dialogue: 99,0:04:11.21,0:04:14.35,Dialogue,,0,0,0,,Văd că începi încă o zi ca frumoasa adormită.
+Dialogue: 99,0:04:14.60,0:04:17.92,Dialogue,,0,0,0,,Trezeşte-te, Misaki-senpai.
+Dialogue: 99,0:04:17.92,0:04:20.11,Dialogue,,0,0,0,,Udonul tău este aici.
+Dialogue: 99,0:04:21.20,0:04:22.29,Dialogue,,0,0,0,,Udon...?
+Dialogue: 99,0:04:23.31,0:04:24.70,Dialogue,,0,0,0,,Bună dimineaţa.
+Dialogue: 99,0:04:25.46,0:04:27.20,Dialogue,,0,0,0,,Eşti o adevărată problemă în fiecare dimineaţă.
+Dialogue: 99,0:04:27.58,0:04:29.70,Dialogue,,0,0,0,,Dar iubesc şi asta la tine.
+Dialogue: 99,0:04:29.70,0:04:31.75,Dialogue,,0,0,0,,Aşa somnoroasă...
+Dialogue: 99,0:04:32.10,0:04:33.59,Dialogue,,0,0,0,,Plecăm!
+Dialogue: 99,0:04:33.59,0:04:34.96,Dialogue,,0,0,0,,Să aveţi o zi minunată.
+Dialogue: 99,0:04:36.48,0:04:40.74,Dialogue,,0,0,0,,De ce trebuie să mergem la şcoală în fiecare dimineaţă?
+Dialogue: 99,0:04:40.74,0:04:43.41,Dialogue,,0,0,0,,Senpai, spui asta în fiecare zi.
+Dialogue: 99,0:04:44.56,0:04:45.87,Dialogue,,0,0,0,,Ce este cu tot acest zgomotul?
+Dialogue: 99,0:04:49.35,0:04:51.14,Dialogue,,0,0,0,,Bună dimineaţa!
+Dialogue: 99,0:04:52.54,0:04:56.25,Dialogue,,0,0,0,,Deci ea chiar nu poate sta în echilibru fără acea poziţie.
+Dialogue: 99,0:04:56.25,0:04:57.66,Dialogue,,0,0,0,,Doamne.
+Dialogue: 99,0:04:57.66,0:05:01.03,Dialogue,,0,0,0,,Presupun că ce s-a întâmplat ieri \Na fost doar norocul începătorului.
+Dialogue: 99,0:05:04.00,0:05:05.69,Dialogue,,0,0,0,,Am auzit totul, Kurashina-san!
+Dialogue: 99,0:05:05.99,0:05:08.53,Dialogue,,0,0,0,,Chiar ai înscris un punct împotriva lui Satouin-san
+Dialogue: 99,0:05:08.53,0:05:10.28,Dialogue,,0,0,0,,de la Academia Takafuji ieri?
+Dialogue: 99,0:05:10.77,0:05:14.24,Dialogue,,0,0,0,,Deci toată şcoala ştie deja că
+Dialogue: 99,0:05:14.24,0:05:17.07,Dialogue,,0,0,0,,am protejat "In"-ul din Institutul Kunahama?
+Dialogue: 99,0:05:17.07,0:05:18.00,Dialogue,,0,0,0,,"In"?
+Dialogue: 99,0:05:18.26,0:05:22.04,Dialogue,,0,0,0,,Oricum, Academia Takafuji este foarte puternică la Arena Zburătoare,
+Dialogue: 99,0:05:22.04,0:05:24.88,Dialogue,,0,0,0,,şi Satouin-san este vice căpitanul lor!
+Dialogue: 99,0:05:25.52,0:05:28.57,Dialogue,,0,0,0,,Uou, acel echipament este incredibil!
+Dialogue: 99,0:05:28.57,0:05:30.30,Dialogue,,0,0,0,,Este un costum de zbor pentru concurs.
+Dialogue: 99,0:05:30.52,0:05:33.60,Dialogue,,0,0,0,,Şi {\i1}tu{\i0} eşti cea incredibilă!
+Dialogue: 99,0:05:34.31,0:05:38.24,Dialogue,,0,0,0,,O începătoare totală care înscrie un punct împotriva lui Satouin-san
+Dialogue: 99,0:05:38.24,0:05:41.19,Dialogue,,0,0,0,,este practic surpriza secolului!
+Dialogue: 99,0:05:41.19,0:05:43.46,Dialogue,,0,0,0,,Exact ca meciul dintre Statele Unite şi Anglia!
+Dialogue: 99,0:05:43.46,0:05:45.43,Dialogue,,0,0,0,,Cel mai şocant rezultat din istoria Cupei Mondiale!
+Dialogue: 99,0:05:45.43,0:05:49.38,Dialogue,,0,0,0,,Treizeci şi şase de ani de când jucătorii ei profesionişti au fost suspendaţi, o echipă a SUA plină de amatori
+Dialogue: 99,0:05:49.38,0:05:53.54,Dialogue,,0,0,0,,bate Anglina, care se s-a clasat sus, cu un record incredibil de 22-4!
+Dialogue: 99,0:05:54.61,0:05:56.39,Dialogue,,0,0,0,,Ce interesant!
+Dialogue: 99,0:05:56.39,0:05:57.92,Dialogue,,0,0,0,,Oh, poţi păstra acea revistă.
+Dialogue: 99,0:05:57.92,0:05:59.99,Dialogue,,0,0,0,,Mersi mult.
+Dialogue: 99,0:05:59.99,0:06:03.60,Dialogue,,0,0,0,,Joci Arena Zburătoare, Aoyagi-san?
+Dialogue: 99,0:06:03.60,0:06:05.11,Dialogue,,0,0,0,,Nu chiar, sunt doar manager.
+Dialogue: 99,0:06:05.11,0:06:07.55,Dialogue,,0,0,0,,M-am alăturat recent echipei, \Ndeoarece fratele meu mi-a cerut asta.
+Dialogue: 99,0:06:08.16,0:06:10.06,Dialogue,,0,0,0,,Din moment ce toţi seniorii au absolvit,
+Dialogue: 99,0:06:10.06,0:06:12.14,Dialogue,,0,0,0,,singurii membri rămaşi sunt \Ncăpitanul—fratele meu—şi eu.
+Dialogue: 99,0:06:12.62,0:06:14.36,Dialogue,,0,0,0,,Te rog, alătură-te, dacă ţi-ar plăcea.
+Dialogue: 99,0:06:14.36,0:06:15.25,Dialogue,,0,0,0,,Bună dimineaţa.
+Dialogue: 99,0:06:15.25,0:06:17.31,Dialogue,,0,0,0,,Bună dimineaţa, antrenorule.
+Dialogue: 99,0:06:17.31,0:06:20.79,Dialogue,,0,0,0,,Am auzit totul despre treaba genială făcută ca secund ieri!
+Dialogue: 99,0:06:20.79,0:06:23.29,Dialogue,,0,0,0,,Nu ştiam că jucasei AZ, Hinata-kun.
+Dialogue: 99,0:06:23.29,0:06:26.44,Dialogue,,0,0,0,,Am jucat doar puţin când eram copil.
+Dialogue: 99,0:06:26.66,0:06:29.01,Dialogue,,0,0,0,,Ne-ar plăcea să avem jucători experimentaţi!
+Dialogue: 99,0:06:29.01,0:06:31.68,Dialogue,,0,0,0,,Şi tu ar trebui să te alături echipei de AZ—
+Dialogue: 99,0:06:30.42,0:06:31.68,Alternative,,0,0,0,,Nu mă voi alătura.
+Dialogue: 99,0:06:34.72,0:06:36.92,Dialogue,,0,0,0,,Ora este pe cale să înceapă, Aoyagi.
+Dialogue: 99,0:06:36.92,0:06:38.08,Dialogue,,0,0,0,,A-Aşa este...
+Dialogue: 99,0:06:42.06,0:06:45.13,Dialogue,,0,0,0,,Să mănânci tsuke udon afară este aşa grozav, miau!
+Dialogue: 99,0:06:45.13,0:06:48.97,Dialogue,,0,0,0,,Şi murăturile nukazuke pe care le-ai făcut sunt super-delicioase!
+Dialogue: 99,0:06:49.60,0:06:50.65,Dialogue,,0,0,0,,Poftim.
+Dialogue: 99,0:06:51.89,0:06:53.47,Dialogue,,0,0,0,,C-Ce este asta?
+Dialogue: 99,0:06:53.83,0:06:56.77,Dialogue,,0,0,0,,Am completat-o eu pentru tine, deci tot ce trebuie să faci este s-o depui.
+Dialogue: 99,0:06:56.77,0:06:58.27,Dialogue,,0,0,0,,La fel şi pentru voi două.
+Dialogue: 99,0:06:58.27,0:06:59.87,Dialogue,,0,0,0,,Vorbind despre completarea informaţiilor.
+Dialogue: 99,0:06:59.87,0:07:01.35,Dialogue,,0,0,0,,Uh, sunt destul de sigură ca asta este falsificare.
+Dialogue: 99,0:07:01.93,0:07:04.98,Dialogue,,0,0,0,,Asta chiar seamănă mult ca scrisul meu de mână.
+Dialogue: 99,0:07:04.98,0:07:07.46,Dialogue,,0,0,0,,Alăturaţi-vă acum şi veţi primi o băutură gratis la petrecerea de bun-venit!
+Dialogue: 99,0:07:07.46,0:07:09.32,Dialogue,,0,0,0,,Ce e asta, o campanie promoţională?
+Dialogue: 99,0:07:09.32,0:07:10.37,Dialogue,,0,0,0,,Pe bune?!
+Dialogue: 99,0:07:10.37,0:07:13.03,Dialogue,,0,0,0,,Arăţi ca un recrutor excelent, Aoyagi-senpai!
+Dialogue: 99,0:07:13.63,0:07:15.24,Dialogue,,0,0,0,,Mă voi alătura!
+Dialogue: 99,0:07:15.61,0:07:18.91,Dialogue,,0,0,0,,Nu sunt bună deloc, dar abia aştept să lucrez cu tine!
+Dialogue: 99,0:07:18.91,0:07:23.21,Dialogue,,0,0,0,,{\an8}Ce bine! Mersi, Kurashina-san!
+Dialogue: 99,0:07:19.79,0:07:21.92,Dialogue,,0,0,0,,Băutura gratis a făcut-o să se decidă?
+Dialogue: 99,0:07:21.92,0:07:23.21,Dialogue,,0,0,0,,Desigur că nu.
+Dialogue: 99,0:07:23.54,0:07:25.29,Dialogue,,0,0,0,,Alătură-te nouă, Misaki.
+Dialogue: 99,0:07:25.29,0:07:26.63,Dialogue,,0,0,0,,Obişnuiai să joci, nu-i aşa?
+Dialogue: 99,0:07:26.96,0:07:30.21,Dialogue,,0,0,0,,Hmm... Nu ştiu, miau.
+Dialogue: 99,0:07:30.97,0:07:34.39,Dialogue,,0,0,0,,Nu poate veni sub nicio formă la antrenamentul de dimineaţă.
+Dialogue: 99,0:07:34.39,0:07:37.43,Dialogue,,0,0,0,,Şi ea face lucrurile în felul ei, deci \Nnu poate avea un stil de viaţă sportiv.
+Dialogue: 99,0:07:37.76,0:07:39.79,Dialogue,,0,0,0,,Oh, presupun că ai dreptate.
+Dialogue: 99,0:07:39.79,0:07:41.74,Dialogue,,0,0,0,,Haide, Tobisawa-san!
+Dialogue: 99,0:07:43.68,0:07:45.73,Dialogue,,0,0,0,,Ei bine, mă voi gândi la asta.
+Dialogue: 99,0:07:48.61,0:07:52.24,Dialogue,,0,0,0,,{\an8}Deci, pentru a rămâne sănătos în viaţă...
+Dialogue: 99,0:07:50.44,0:07:52.24,Italic,,0,0,0,,Omule...
+Dialogue: 99,0:07:52.88,0:07:57.67,Italic,,0,0,0,,Şi eu care credeam că nu am nicio dorinţă de a mă reîntoarce.
+Dialogue: 99,0:07:59.81,0:08:00.95,Dialogue,,0,0,0,,Kurashina.
+Dialogue: 99,0:08:02.26,0:08:03.43,Dialogue,,0,0,0,,Nu o ascunzi foarte bine.
+Dialogue: 99,0:08:05.13,0:08:07.48,Dialogue,,0,0,0,,Îmi pa-pare...
+Dialogue: 99,0:08:07.48,0:08:08.29,Dialogue,,0,0,0,,...rău.
+Dialogue: 99,0:08:17.05,0:08:19.60,Dialogue,,0,0,0,,Bun-venit în echipa Arenei Zburătoare!
+Dialogue: 99,0:08:20.02,0:08:21.93,Dialogue,,0,0,0,,Oh, ce bine că ai venit!
+Dialogue: 99,0:08:22.32,0:08:23.95,Dialogue,,0,0,0,,D-Da...
+Dialogue: 99,0:08:23.95,0:08:24.69,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:08:25.68,0:08:26.94,Dialogue,,0,0,0,,Asta este sala clubul nostru?
+Dialogue: 99,0:08:26.94,0:08:29.69,Dialogue,,0,0,0,,Aşa este. Intră.
+Dialogue: 99,0:08:30.15,0:08:32.07,Dialogue,,0,0,0,,Scuze că este înghesuit.
+Dialogue: 99,0:08:32.38,0:08:35.65,Dialogue,,0,0,0,,La naiba, frate, ţi-am spus că cureţi locul acesta!
+Dialogue: 99,0:08:35.65,0:08:37.51,Dialogue,,0,0,0,,Nu am avut timp.
+Dialogue: 99,0:08:37.51,0:08:38.83,Dialogue,,0,0,0,,Bine, bine.
+Dialogue: 99,0:08:39.50,0:08:41.96,Dialogue,,0,0,0,,Huh, asta este sala clubului?
+Dialogue: 99,0:08:42.56,0:08:44.56,Dialogue,,0,0,0,,Hei, Tobisawa-san!
+Dialogue: 99,0:08:44.56,0:08:45.82,Dialogue,,0,0,0,,Şi Arisaka-san!
+Dialogue: 99,0:08:45.82,0:08:48.98,Dialogue,,0,0,0,,Ce, nu-mi este permis să mă alătur?
+Dialogue: 99,0:08:48.98,0:08:51.30,Dialogue,,0,0,0,,Doar ca să ştiţi, oriunde merge Misaki-senpai,
+Dialogue: 99,0:08:51.30,0:08:53.22,Dialogue,,0,0,0,,merg şi eu cu ea.
+Dialogue: 99,0:08:55.20,0:08:57.89,Dialogue,,0,0,0,,Am primit trei membri odată!
+Dialogue: 99,0:08:57.89,0:08:59.10,Dialogue,,0,0,0,,Mă bucur pentru tine, frate.
+Dialogue: 99,0:08:59.38,0:09:02.43,Dialogue,,0,0,0,,În regulă! Antrenamentul începe mâine!
+Dialogue: 99,0:09:03.35,0:09:04.77,Dialogue,,0,0,0,,Scuze că am întârziat.
+Dialogue: 99,0:09:05.37,0:09:06.81,Dialogue,,0,0,0,,Bună treabă în ziua de serviciu.
+Dialogue: 99,0:09:08.32,0:09:09.82,Dialogue,,0,0,0,,Ce crezi, Masaya?
+Dialogue: 99,0:09:12.05,0:09:15.85,Dialogue,,0,0,0,,Kurashina, Tobisawa, şi acea boboacă Arisaka şi-au depus formularele de înregistrare.
+Dialogue: 99,0:09:16.38,0:09:19.25,Dialogue,,0,0,0,,Echipa de AZ Kunahama, \Ncare a fost redusă la un fan club
+Dialogue: 99,0:09:19.25,0:09:21.69,Dialogue,,0,0,0,,tocmai a primit trei membri noi deodată.
+Dialogue: 99,0:09:22.32,0:09:23.75,Dialogue,,0,0,0,,S-a întâmplat ceva?
+Dialogue: 99,0:09:24.94,0:09:25.94,Dialogue,,0,0,0,,N-am idee.
+Dialogue: 99,0:09:26.41,0:09:28.63,Dialogue,,0,0,0,,Nu mă pot gândi la nimic.
+Dialogue: 99,0:09:30.58,0:09:31.52,Dialogue,,0,0,0,,Înţeleg.
+Dialogue: 99,0:09:32.03,0:09:32.89,Dialogue,,0,0,0,,Um...
+Dialogue: 99,0:09:33.36,0:09:36.71,Dialogue,,0,0,0,,Nu mai trebuie să fiu instructorul lui Kurashina-san, nu-i aşa?
+Dialogue: 99,0:09:36.71,0:09:38.31,Dialogue,,0,0,0,,Vreau să spun, ea se alătură echipei de AZ.
+Dialogue: 99,0:09:38.97,0:09:40.47,Dialogue,,0,0,0,,Fă cum doreşti.
+Dialogue: 99,0:09:41.94,0:09:44.47,Amintire,,0,0,0,,Sunt în grija ta, antrenorule!
+Dialogue: 99,0:09:44.88,0:09:49.99,Amintire,,0,0,0,,Zbor! Chiar zbor!
+Dialogue: 99,0:10:34.50,0:10:37.23,Dialogue,,0,0,0,,Ce s-a întâmplat cu antrenorul Hinata?
+Dialogue: 99,0:10:37.23,0:10:38.99,Dialogue,,0,0,0,,N-am idee.
+Dialogue: 99,0:10:41.26,0:10:44.41,Dialogue,,0,0,0,,Kurashina-san, nu mai sunt antrenorul tău.
+Dialogue: 99,0:10:45.83,0:10:46.66,Dialogue,,0,0,0,,Ce e în neregulă?
+Dialogue: 99,0:10:47.46,0:10:50.22,Dialogue,,0,0,0,,I-am spui lui Kagami-sensei că nu mai este nevoie de mine,
+Dialogue: 99,0:10:50.22,0:10:51.92,Dialogue,,0,0,0,,din moment ce te-ai alăturat echipei de AZ.
+Dialogue: 99,0:10:52.67,0:10:54.26,Dialogue,,0,0,0,,Aşa este?
+Dialogue: 99,0:10:56.66,0:10:57.57,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:10:57.57,0:10:59.01,Dialogue,,0,0,0,,Să începem să ne antrenăm!
+Dialogue: 99,0:10:59.76,0:11:02.62,Dialogue,,0,0,0,,Puneţi spirit în asta!
+Dialogue: 99,0:11:04.41,0:11:07.52,Dialogue,,0,0,0,,Mai întâi, să ne antrenăm zburând de la o baliză la alta.
+Dialogue: 99,0:11:07.78,0:11:08.48,Dialogue,,0,0,0,,Am înţeles!
+Dialogue: 99,0:11:08.48,0:11:09.96,Dialogue,,0,0,0,,Mult noroc.
+Dialogue: 99,0:11:10.96,0:11:13.40,Dialogue,,0,0,0,,Presupun că voi face ceva din când în când, miau.
+Dialogue: 99,0:11:13.79,0:11:16.24,Dialogue,,0,0,0,,O Misaki-senpai motivată?!
+Dialogue: 99,0:11:18.44,0:11:20.38,Dialogue,,0,0,0,,Te duci acasă, Masaya?
+Dialogue: 99,0:11:22.38,0:11:23.16,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:11:23.85,0:11:25.52,Dialogue,,0,0,0,,De ce nu rămâi să priveşti?
+Dialogue: 99,0:11:25.52,0:11:26.91,Dialogue,,0,0,0,,A trecut ceva timp.
+Dialogue: 99,0:11:34.12,0:11:37.60,Dialogue,,0,0,0,,Aşteaptă-mă, Misaki-senpai!
+Dialogue: 99,0:11:41.98,0:11:45.37,Dialogue,,0,0,0,,Aceşti nou-veniţi au potenţial cam puţin.
+Dialogue: 99,0:11:45.37,0:11:47.84,Dialogue,,0,0,0,,Trebuie să înceapă cu noţiunile de bază.
+Dialogue: 99,0:11:47.84,0:11:50.98,Dialogue,,0,0,0,,Alergat, antrenarea muşchilor
+Dialogue: 99,0:11:50.98,0:11:53.15,Dialogue,,0,0,0,,şi îmbunătăţirea reflexelor.
+Dialogue: 99,0:11:53.15,0:11:55.65,Dialogue,,0,0,0,,Atunci, de ce nu le dai tu aceste sfaturi?
+Dialogue: 99,0:11:56.64,0:11:58.28,Dialogue,,0,0,0,,Eu sunt un străin.
+Dialogue: 99,0:12:02.09,0:12:04.36,Dialogue,,0,0,0,,Misaki-senpai!
+Dialogue: 99,0:12:04.98,0:12:07.11,Dialogue,,0,0,0,,N-Nu mai pot...
+Dialogue: 99,0:12:07.11,0:12:09.06,Dialogue,,0,0,0,,N-Nici eu...
+Dialogue: 99,0:12:09.06,0:12:12.91,Dialogue,,0,0,0,,PV-ul meu a fost redus la zero.
+Dialogue: 99,0:12:13.26,0:12:14.72,Dialogue,,0,0,0,,Vă lipseşte spiritul!
+Dialogue: 99,0:12:14.72,0:12:17.06,Dialogue,,0,0,0,,Aşa nu vom fi pregătiţi pentru turneul din vară!
+Dialogue: 99,0:12:17.06,0:12:19.88,Dialogue,,0,0,0,,Haide acum. Este prima lor zi.
+Dialogue: 99,0:12:19.88,0:12:23.68,Dialogue,,0,0,0,,Şi trebuie să-le luăm Pantofi Grav de concurs şi costume de zbor.
+Dialogue: 99,0:12:24.02,0:12:25.29,Dialogue,,0,0,0,,Da, da!
+Dialogue: 99,0:12:25.29,0:12:28.05,Dialogue,,0,0,0,,Nu e corect că tu eşti singurul cu set de echipament complet!
+Dialogue: 99,0:12:29.28,0:12:30.48,Dialogue,,0,0,0,,Scuze.
+Dialogue: 99,0:12:30.48,0:12:33.06,Dialogue,,0,0,0,,Mâine este sâmbătă, deci ce ziceţi să mergem toţi la cumpărături?
+Dialogue: 99,0:12:33.38,0:12:34.69,Dialogue,,0,0,0,,Mă bag.
+Dialogue: 99,0:12:34.69,0:12:36.88,Dialogue,,0,0,0,,Nu mi-am mai folosit Pantofii Grav de mult timp,
+Dialogue: 99,0:12:36.88,0:12:38.57,Dialogue,,0,0,0,,deci va trebui să-i reglez.
+Dialogue: 99,0:12:38.57,0:12:39.57,Dialogue,,0,0,0,,Dar tu, Kurashina-san?
+Dialogue: 99,0:12:39.84,0:12:41.68,Dialogue,,0,0,0,,Voi merge!
+Dialogue: 99,0:12:41.68,0:12:44.67,Dialogue,,0,0,0,,Şi hai să întrăm toţi în concursul de vară!
+Dialogue: 99,0:12:44.67,0:12:46.13,Dialogue,,0,0,0,,Abia aştept!
+Dialogue: 99,0:12:46.13,0:12:48.47,Dialogue,,0,0,0,,Atunci trebuie să arătăm mai mult spirit!
+Dialogue: 99,0:12:48.47,0:12:49.36,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:12:53.30,0:12:54.96,Dialogue,,0,0,0,,Aici, aici!
+Dialogue: 99,0:12:55.31,0:12:56.87,Dialogue,,0,0,0,,Bună dimineaţa.
+Dialogue: 99,0:12:56.87,0:12:57.50,Dialogue,,0,0,0,,Bună dimineaţa.
+Dialogue: 99,0:12:57.50,0:12:58.71,Dialogue,,0,0,0,,Bună dimineaţa.
+Dialogue: 99,0:12:58.92,0:13:00.06,Dialogue,,0,0,0,,Bună dimineaţa.
+Dialogue: 99,0:13:00.06,0:13:01.44,Dialogue,,0,0,0,,Pe aici.
+Dialogue: 99,0:13:01.44,0:13:02.63,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:13:04.08,0:13:07.05,Dialogue,,0,0,0,,Uou, tavanul este atât de înalt.
+Dialogue: 99,0:13:07.62,0:13:10.56,Dialogue,,0,0,0,,Pentru ca oamenii să poată da testul de zbor.
+Dialogue: 99,0:13:10.96,0:13:12.81,Dialogue,,0,0,0,,Bună dimineaţa, Shirase-san.
+Dialogue: 99,0:13:13.11,0:13:14.34,Dialogue,,0,0,0,,Bine aţi venit.
+Dialogue: 99,0:13:14.34,0:13:16.02,Dialogue,,0,0,0,,Oh, Madoka-chan.
+Dialogue: 99,0:13:16.02,0:13:17.73,Dialogue,,0,0,0,,Nu eşti cu fratele tău astăzi?
+Dialogue: 99,0:13:18.10,0:13:22.58,Dialogue,,0,0,0,,Am adus noii membri ai echipei \Nde AZ Kunahama cu mine astăzi.
+Dialogue: 99,0:13:22.58,0:13:25.30,Dialogue,,0,0,0,,Î-Încâtată de cunoştinţă!
+Dialogue: 99,0:13:28.72,0:13:31.79,Dialogue,,0,0,0,,A-Acela este un înger păzitor?
+Dialogue: 99,0:13:32.16,0:13:34.27,Dialogue,,0,0,0,,Aceea este sora mea mai mică, Minamo.
+Dialogue: 99,0:13:34.27,0:13:35.68,Dialogue,,0,0,0,,Să mergem la etajul doi.
+Dialogue: 99,0:13:35.68,0:13:37.95,Dialogue,,0,0,0,,Vă voi alege Pantofii Grav care vi se potrivesc.
+Dialogue: 99,0:13:37.95,0:13:39.42,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:13:42.12,0:13:44.96,Dialogue,,0,0,0,,C-Ce fel de tip de Pantofi Grav?
+Dialogue: 99,0:13:44.96,0:13:46.05,Dialogue,,0,0,0,,Manechinul a vorbit!
+Dialogue: 99,0:13:46.66,0:13:48.18,Dialogue,,0,0,0,,"Tip"?
+Dialogue: 99,0:13:48.84,0:13:54.18,Dialogue,,0,0,0,,Există trei tipuri de Pantofi Grav: pentru viteză, luptă şi echilibraţi.
+Dialogue: 99,0:13:55.58,0:13:58.44,Dialogue,,0,0,0,,Există diferite stiluri de joc, fiecare \Nnecesitând un tip diferit de pantofi.
+Dialogue: 99,0:13:59.13,0:14:02.69,Dialogue,,0,0,0,,Cei pentru viteză sunt specializaţi în adunarea de puncte prin atingerea rapidă balizelor.
+Dialogue: 99,0:14:03.42,0:14:06.95,Dialogue,,0,0,0,,Cei pentru luptă se concentrează pe adunarea de puncte prin atingerea spatelui adversarului.
+Dialogue: 99,0:14:07.27,0:14:09.82,Dialogue,,0,0,0,,Şi cei echilibraţi, care sunt buni la ambele.
+Dialogue: 99,0:14:10.29,0:14:14.20,Dialogue,,0,0,0,,Aceste stiluri de joc necesită Pantofi Grav care emit membrane în moduri diferite.
+Dialogue: 99,0:14:14.57,0:14:15.73,Dialogue,,0,0,0,,Oh, membrane.
+Dialogue: 99,0:14:15.73,0:14:17.95,Dialogue,,0,0,0,,Straturi de particule antigravitaţie, nu-i aşa?
+Dialogue: 99,0:14:17.95,0:14:19.08,Dialogue,,0,0,0,,Aşa este.
+Dialogue: 99,0:14:19.41,0:14:21.61,Dialogue,,0,0,0,,Pantofii Grav te ajută să pluteşti folosind particule antigravitaţie
+Dialogue: 99,0:14:21.61,0:14:24.49,Dialogue,,0,0,0,,şi se miscă folosind câmpul gravitaţional al Pământului.
+Dialogue: 99,0:14:24.49,0:14:25.68,Dialogue,,0,0,0,,Ştiţi asta, nu-i aşa?
+Dialogue: 99,0:14:25.68,0:14:28.88,Dialogue,,0,0,0,,Şi vă propulsează înainte şi înapoi
+Dialogue: 99,0:14:28.88,0:14:30.51,Dialogue,,0,0,0,,prin potrivirea grosimii membranei.
+Dialogue: 99,0:14:30.70,0:14:34.50,Dialogue,,0,0,0,,Pantofii Grav de viteză sunt calibraţi pentru obţinerea celei mai mari viteze maxime,
+Dialogue: 99,0:14:34.50,0:14:38.92,Dialogue,,0,0,0,,în timp ce, cei pentru lupta au o viteză maximă mai mică, dar agilitate îmbunătăţită.
+Dialogue: 99,0:14:38.92,0:14:41.21,Dialogue,,0,0,0,,Faci lucrurile să fie aşa uşor de înţeles, Senpai!
+Dialogue: 99,0:14:41.21,0:14:43.40,Dialogue,,0,0,0,,Dar nu ştiu pe care să aleg.
+Dialogue: 99,0:14:43.40,0:14:45.23,Dialogue,,0,0,0,,Sunt complet începătoare.
+Dialogue: 99,0:14:45.55,0:14:49.61,Dialogue,,0,0,0,,At-Atunci îţi recomand să începi cu cei echilibraţi.
+Dialogue: 99,0:14:50.20,0:14:52.77,Dialogue,,0,0,0,,Pantofii vin cu unelte de echilibrare,
+Dialogue: 99,0:14:52.77,0:14:54.88,Dialogue,,0,0,0,,care permit un reglaj fin.
+Dialogue: 99,0:14:54.88,0:14:57.00,Dialogue,,0,0,0,,Me-Mersi.
+Dialogue: 99,0:14:57.42,0:15:00.00,Dialogue,,0,0,0,,Ce tip eşti tu, Misaki-senpai?
+Dialogue: 99,0:15:00.00,0:15:02.51,Dialogue,,0,0,0,,Eh? Sunt luptătoare.
+Dialogue: 99,0:15:02.51,0:15:05.54,Dialogue,,0,0,0,,Atunci şi eu sunt luptătoare.
+Dialogue: 99,0:15:05.54,0:15:08.13,Dialogue,,0,0,0,,Şi îi voi lua pe aceştia.
+Dialogue: 99,0:15:08.85,0:15:10.40,Dialogue,,0,0,0,,Drăguţi.
+Dialogue: 99,0:15:10.40,0:15:14.30,Dialogue,,0,0,0,,Am decis să o atrag pe \NMisaki-senpai folosind frumuseţe.
+Dialogue: 99,0:15:14.30,0:15:16.24,Dialogue,,0,0,0,,Aceia sunt pentru viteză.
+Dialogue: 99,0:15:16.24,0:15:19.27,Dialogue,,0,0,0,,Şi-a amestecat priorităţile.
+Dialogue: 99,0:15:19.62,0:15:23.07,Dialogue,,0,0,0,,Î-Îi vom calibra pentru folosirea în luptă.
+Dialogue: 99,0:15:23.07,0:15:24.92,Dialogue,,0,0,0,,Me-Mersi.
+Dialogue: 99,0:15:27.55,0:15:28.65,Dialogue,,0,0,0,,Nu merge, huh?
+Dialogue: 99,0:15:29.47,0:15:31.15,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:15:31.86,0:15:35.81,Dialogue,,0,0,0,,Costumele de zbor vor lua aproximativ o lună până sunt gata, se pare.
+Dialogue: 99,0:15:36.71,0:15:38.12,Dialogue,,0,0,0,,Abia aştept!
+Dialogue: 99,0:15:38.12,0:15:41.79,Dialogue,,0,0,0,,Până atunci, va trebui să fim destul de bune să concurăm în meciuri.
+Dialogue: 99,0:15:41.79,0:15:42.75,Dialogue,,0,0,0,,Aşa este.
+Dialogue: 99,0:15:42.75,0:15:45.08,Dialogue,,0,0,0,,Eu încă nu sunt bună deloc.
+Dialogue: 99,0:15:46.15,0:15:46.92,Dialogue,,0,0,0,,Aia este...
+Dialogue: 99,0:15:46.92,0:15:50.33,Dialogue,,0,0,0,,Ar putea fi versiunea relansată a "Downhill",
+Dialogue: 99,0:15:50.33,0:15:52.80,Dialogue,,0,0,0,,legendarul joc arcade electro-mecanic?!
+Dialogue: 99,0:15:53.14,0:15:55.46,Dialogue,,0,0,0,,Ei bine, eu mă duc acasă acum.
+Dialogue: 99,0:15:55.46,0:15:56.09,Dialogue,,0,0,0,,Aşteaptă...
+Dialogue: 99,0:15:57.14,0:15:58.09,Dialogue,,0,0,0,,Ce e în neregulă?
+Dialogue: 99,0:15:57.37,0:15:59.55,Dialogue,,0,0,0,,{\an8}Hai să jucăm!
+Dialogue: 99,0:15:59.55,0:16:01.31,Dialogue,,0,0,0,,Nu vreau. Sună ca o durere.
+Dialogue: 99,0:16:01.73,0:16:03.99,Dialogue,,0,0,0,,Ele două sunt cu siguranţă apropiate.
+Dialogue: 99,0:16:02.50,0:16:03.99,Dialogue,,0,0,0,,{\an8}Senpai!
+Dialogue: 99,0:16:03.99,0:16:05.06,Dialogue,,0,0,0,,Cu siguranţă sunt.
+Dialogue: 99,0:16:04.54,0:16:06.21,Dialogue,,0,0,0,,{\an8}Nu vreau. Sună ca o durere.
+Dialogue: 99,0:16:06.21,0:16:07.87,Dialogue,,0,0,0,,Atunci şi eu voi pleca.
+Dialogue: 99,0:16:07.87,0:16:09.36,Dialogue,,0,0,0,,Ne vedem luni la şcoală.
+Dialogue: 99,0:16:09.74,0:16:12.16,Dialogue,,0,0,0,,Alătură-te nouă, Kurashina-senpai!
+Dialogue: 99,0:16:12.16,0:16:15.24,Dialogue,,0,0,0,,Scuze, nu prea sunt o jucătoare.
+Dialogue: 99,0:16:31.89,0:16:34.23,Italic,,0,0,0,,Relaxează-ţi talia, doamne.
+Dialogue: 99,0:16:41.76,0:16:44.35,Dialogue,,0,0,0,,În sfârşit am Pantofi Grav de concurs!
+Dialogue: 99,0:16:44.35,0:16:46.23,Dialogue,,0,0,0,,Pune-ţi piciorul jos, Kurashina.
+Dialogue: 99,0:16:46.87,0:16:48.24,Dialogue,,0,0,0,,Scuze.
+Dialogue: 99,0:16:48.24,0:16:50.50,Dialogue,,0,0,0,,Bine, hai să ne antrenăm cu spirit—
+Dialogue: 99,0:16:50.50,0:16:53.01,Dialogue,,0,0,0,,Căpitane, am o cerere.
+Dialogue: 99,0:16:53.01,0:16:53.49,Dialogue,,0,0,0,,Care este?
+Dialogue: 99,0:16:53.88,0:16:55.96,Dialogue,,0,0,0,,Vreau să joc un meci.
+Dialogue: 99,0:16:55.96,0:16:59.28,Dialogue,,0,0,0,,Oh, uou. Te sacrifici pentru noi, huh?
+Dialogue: 99,0:16:59.57,0:17:00.45,Dialogue,,0,0,0,,Cu mine?
+Dialogue: 99,0:17:00.70,0:17:02.58,Dialogue,,0,0,0,,Nu, cu Kurashina-san.
+Dialogue: 99,0:17:03.12,0:17:04.83,Dialogue,,0,0,0,,Cine, eu?
+Dialogue: 99,0:17:05.14,0:17:07.22,Dialogue,,0,0,0,,Oh, asta sună bine.
+Dialogue: 99,0:17:07.22,0:17:10.50,Dialogue,,0,0,0,,Arată-ne întoarcerea ta cu lovitură în aer din nou, Kurashina.
+Dialogue: 99,0:17:10.50,0:17:11.88,Dialogue,,0,0,0,,C-Ce?!
+Dialogue: 99,0:17:12.56,0:17:14.76,Dialogue,,0,0,0,,Hai să ne jucăm împreună.
+Dialogue: 99,0:17:16.10,0:17:18.01,Dialogue,,0,0,0,,F-Foarte bine.
+Dialogue: 99,0:17:23.34,0:17:25.12,Dialogue,,0,0,0,,Oh, un meci?
+Dialogue: 99,0:17:25.12,0:17:27.04,Dialogue,,0,0,0,,Sincronizare perfectă, Sensei.
+Dialogue: 99,0:17:27.04,0:17:28.73,Dialogue,,0,0,0,,Avem nevoie de tine ca secund.
+Dialogue: 99,0:17:29.17,0:17:29.96,Dialogue,,0,0,0,,Sigur.
+Dialogue: 99,0:17:30.87,0:17:31.44,Dialogue,,0,0,0,,De fapt...
+Dialogue: 99,0:17:32.26,0:17:35.77,Dialogue,,0,0,0,,Nu este cineva mai potrivit decât mine?
+Dialogue: 99,0:17:39.04,0:17:39.96,Dialogue,,0,0,0,,Deci scuze.
+Dialogue: 99,0:17:40.39,0:17:41.37,Dialogue,,0,0,0,,Este în regulă.
+Dialogue: 99,0:17:41.67,0:17:43.16,Dialogue,,0,0,0,,Nu voi face asta din nou.
+Dialogue: 99,0:17:43.51,0:17:44.81,Dialogue,,0,0,0,,Hinata-san!
+Dialogue: 99,0:17:44.81,0:17:46.54,Dialogue,,0,0,0,,Sunt în grija ta din nou!
+Dialogue: 99,0:17:47.12,0:17:48.29,Dialogue,,0,0,0,,S-Sigur.
+Dialogue: 99,0:17:48.73,0:17:49.54,Dialogue,,0,0,0,,Tobisawa!
+Dialogue: 99,0:17:49.88,0:17:50.77,Italic,,0,0,0,,Eşti pregătită?!
+Dialogue: 99,0:17:50.77,0:17:51.88,Dialogue,,0,0,0,,Prea gălăgios!
+Dialogue: 99,0:17:52.73,0:17:53.61,Dialogue,,0,0,0,,Er...
+Dialogue: 99,0:17:53.61,0:17:56.30,Dialogue,,0,0,0,,Trebuie să ating fie balizele consecutiv,
+Dialogue: 99,0:17:56.30,0:17:58.80,Dialogue,,0,0,0,,fie spatele tău, nu-i aşa?
+Dialogue: 99,0:17:58.80,0:17:59.59,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:17:59.59,0:18:03.06,Dialogue,,0,0,0,,Dar nu te voi lăsa să atingi nimic atât de uşor.
+Dialogue: 99,0:18:03.06,0:18:04.17,Dialogue,,0,0,0,,Voi da tot ce pot!
+Dialogue: 99,0:18:04.17,0:18:05.31,Dialogue,,0,0,0,,Pregătiţi-vă...
+Dialogue: 99,0:18:07.34,0:18:08.20,Dialogue,,0,0,0,,Porniţi!
+Dialogue: 99,0:18:14.18,0:18:15.54,Dialogue,,0,0,0,,Nu-i rău.
+Dialogue: 99,0:18:15.54,0:18:17.07,Dialogue,,0,0,0,,A spus că era luptătoare, dar este rapidă.
+Dialogue: 99,0:18:19.30,0:18:21.38,Dialogue,,0,0,0,,Punct înscris de Misaki! 1-0!
+Dialogue: 99,0:18:21.38,0:18:22.95,Dialogue,,0,0,0,,Eşti uimitoare, Misaki-senpai!
+Dialogue: 99,0:18:26.92,0:18:27.90,Dialogue,,0,0,0,,Kurashina-san!
+Dialogue: 99,0:18:27.90,0:18:28.87,Dialogue,,0,0,0,,Apleacă-te pe faţă mai mult!
+Dialogue: 99,0:18:29.20,0:18:30.31,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:18:34.06,0:18:35.27,Dialogue,,0,0,0,,2-0!
+Dialogue: 99,0:18:36.26,0:18:39.92,Dialogue,,0,0,0,,În acest rimt, va lua şi al treilea punct.
+Dialogue: 99,0:18:39.92,0:18:41.35,Italic,,0,0,0,,Uită de al treilea punct.
+Dialogue: 99,0:18:41.35,0:18:42.64,Dialogue,,0,0,0,,Ia-o pe scurtătură!
+Dialogue: 99,0:18:42.84,0:18:44.55,Italic,,0,0,0,,Mergi direct spre linia patru!
+Dialogue: 99,0:18:44.55,0:18:46.52,Dialogue,,0,0,0,,Ce este o scurtătură, din nou?
+Dialogue: 99,0:18:46.89,0:18:51.10,Dialogue,,0,0,0,,Abandonarea balizei şi intrarea pe \Nurmătoarea linie înaintea adversarului.
+Dialogue: 99,0:18:55.74,0:18:58.70,Dialogue,,0,0,0,,Kurashina-san, vrei să încercăm acea mişcare din nou?
+Dialogue: 99,0:19:00.39,0:19:02.58,Dialogue,,0,0,0,,Punct pentru Misaki! 3-0!
+Dialogue: 99,0:19:03.53,0:19:04.80,Dialogue,,0,0,0,,Am înţeles.
+Dialogue: 99,0:19:10.45,0:19:11.10,Italic,,0,0,0,,Du-te!
+Dialogue: 99,0:19:11.10,0:19:11.77,Dialogue,,0,0,0,,Am înţeles!
+Dialogue: 99,0:19:17.16,0:19:18.88,Dialogue,,0,0,0,,Va urma întroarcerea cu lovitură în aer?
+Dialogue: 99,0:19:24.43,0:19:25.85,Dialogue,,0,0,0,,Deschide-ţi picioarele pentru a te opri!
+Dialogue: 99,0:19:29.59,0:19:30.02,Dialogue,,0,0,0,,Te-am prins!
+Dialogue: 99,0:19:32.48,0:19:34.36,Dialogue,,0,0,0,,Punct pentru Misaki! 4-0!
+Dialogue: 99,0:19:34.86,0:19:37.03,Dialogue,,0,0,0,,Asta a fost aproape. Frumos, Misaki!
+Dialogue: 99,0:19:37.03,0:19:38.90,Dialogue,,0,0,0,,Totuşi, tot a înscris un punct.
+Dialogue: 99,0:19:38.90,0:19:41.40,Dialogue,,0,0,0,,Deci chiar a fost norocul începătorului.
+Dialogue: 99,0:19:43.27,0:19:44.62,Dialogue,,0,0,0,,Încă o dată!
+Dialogue: 99,0:19:45.90,0:19:47.66,Dialogue,,0,0,0,,Punct pentru Misaki! 5-0!
+Dialogue: 99,0:19:51.19,0:19:52.71,Dialogue,,0,0,0,,Nu am terminat încă!
+Dialogue: 99,0:19:53.54,0:19:54.83,Dialogue,,0,0,0,,6-0!
+Dialogue: 99,0:19:55.51,0:19:59.51,Dialogue,,0,0,0,,Arată de parcă Kurashina-senpai are o ţintă pe spatele ei.
+Dialogue: 99,0:20:03.39,0:20:04.05,Dialogue,,0,0,0,,Prea încet!
+Dialogue: 99,0:20:05.55,0:20:06.30,Dialogue,,0,0,0,,7-0!
+Dialogue: 99,0:20:08.30,0:20:09.58,Dialogue,,0,0,0,,8—
+Dialogue: 99,0:20:09.58,0:20:10.43,Dialogue,,0,0,0,,9-0!
+Dialogue: 99,0:20:10.95,0:20:13.19,Dialogue,,0,0,0,,Fă orice poţi ca s-o pierzi!
+Dialogue: 99,0:20:13.19,0:20:14.58,Dialogue,,0,0,0,,Schimbă acest moment!
+Dialogue: 99,0:20:15.72,0:20:17.77,Italic,,0,0,0,,Voi înscrie cel putin un punct!
+Dialogue: 99,0:20:25.51,0:20:27.84,Italic,,0,0,0,,Cel puţin un punct!
+Dialogue: 99,0:20:31.16,0:20:32.62,Dialogue,,0,0,0,,Meciul s-a terminat!
+Dialogue: 99,0:20:33.03,0:20:36.54,Dialogue,,0,0,0,,Tobisawa Misaki câştigă cu 9-0!
+Dialogue: 99,0:20:43.85,0:20:44.93,Dialogue,,0,0,0,,Eşti bine?
+Dialogue: 99,0:20:45.76,0:20:49.41,Dialogue,,0,0,0,,Nu am putut face întoarcerea cu lovitură în aer
+Dialogue: 99,0:20:50.00,0:20:52.05,Dialogue,,0,0,0,,şi nu am putut înscrie nici măcar un punct.
+Dialogue: 99,0:20:53.17,0:20:54.44,Dialogue,,0,0,0,,Nu sunt bună deloc.
+Dialogue: 99,0:20:54.67,0:20:56.68,Dialogue,,0,0,0,,Misaki are experienţă la AZ,
+Dialogue: 99,0:20:56.68,0:20:59.86,Dialogue,,0,0,0,,iar tu doar ai început—
+Dialogue: 99,0:20:58.43,0:20:59.86,Alternative,,0,0,0,,Vreau să devin bună!
+Dialogue: 99,0:21:00.21,0:21:01.73,Dialogue,,0,0,0,,Vreau să devin mai bună!
+Dialogue: 99,0:21:02.32,0:21:05.56,Dialogue,,0,0,0,,Te rog, fii antrenorul meu din nou, Hinata-san!
+Dialogue: 99,0:21:06.83,0:21:08.12,Dialogue,,0,0,0,,Eu...
+Dialogue: 99,0:21:08.12,0:21:11.08,Dialogue,,0,0,0,,Vei refuza aşa o plăcinţică drăguţă?
+Dialogue: 99,0:21:11.08,0:21:12.50,Dialogue,,0,0,0,,Haide, ajut-o.
+Dialogue: 99,0:21:12.50,0:21:13.90,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:21:13.90,0:21:16.46,Dialogue,,0,0,0,,Ce zici dacă o faci cel puţin până la concursul din vară?
+Dialogue: 99,0:21:17.63,0:21:20.75,Dialogue,,0,0,0,,Nu sunt bună deloc, deci te rog, antrenează-mă!
+Dialogue: 99,0:21:24.14,0:21:25.52,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:21:25.52,0:21:27.35,Dialogue,,0,0,0,,Atât timp cât este doar până la concursul din vară.
+Dialogue: 99,0:21:28.28,0:21:30.89,Dialogue,,0,0,0,,Mersi! Mersi!
+Dialogue: 99,0:21:32.21,0:21:33.64,Dialogue,,0,0,0,,Totul e bine când se termină cu bine, huh?
+Dialogue: 99,0:21:34.25,0:21:35.69,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:21:36.17,0:21:41.02,Italic,,0,0,0,,Nu ştiu ce e acest sentiment, dar nu e rău deloc.
+Dialogue: 99,0:21:41.36,0:21:44.08,Dialogue,,0,0,0,,M-am îndrăgostit din nou de tine, Misaki-senpai.
+Dialogue: 99,0:21:44.08,0:21:46.48,Dialogue,,0,0,0,,Erai ca o pumă urmărindu-şi prada.
+Dialogue: 99,0:21:46.48,0:21:47.83,Dialogue,,0,0,0,,O pumă?
+Dialogue: 99,0:21:48.24,0:21:50.26,Dialogue,,0,0,0,,Trebuie să-ţi celebrăm victoria.
+Dialogue: 99,0:21:50.26,0:21:52.29,Dialogue,,0,0,0,,Te voi cinsti cu o porţie de udon foarte mare.
+Dialogue: 99,0:21:52.29,0:21:53.68,Dialogue,,0,0,0,,Udon...?!
+Dialogue: 99,0:21:54.44,0:21:56.14,Dialogue,,0,0,0,,Foarte mare!
+Dialogue: 99,0:21:56.14,0:21:56.62,Dialogue,,0,0,0,,Heh.
+Dialogue: 99,0:21:57.37,0:22:00.93,Dialogue,,0,0,0,,Alo? Kagami de la Liceul Kunahama la telefon.
+Dialogue: 99,0:21:57.79,0:21:59.97,Dialogue,,0,0,0,,{\an8}Să ne grăbim şi să merge!
+Dialogue: 99,0:21:59.97,0:22:01.35,Dialogue,,0,0,0,,{\an8}Linişteşte-te, Senpai!
+Dialogue: 99,0:22:01.35,0:22:02.96,Dialogue,,0,0,0,,{\an8}Plecaţi deja?
+Dialogue: 99,0:22:01.39,0:22:03.97,Dialogue,,0,0,0,,Da. Avem mai mulţi membri acum,
+Dialogue: 99,0:22:02.96,0:22:04.80,Dialogue,,0,0,0,,La revedere!{\an8}
+Dialogue: 99,0:22:03.97,0:22:07.63,Dialogue,,0,0,0,,dacă este posibil, ne-ar plăcea ajutor de la Takafuji, şcoala cea mai puternică.
+Dialogue: 99,0:22:08.41,0:22:10.00,Dialogue,,0,0,0,,Dacă ai fii atât de drăguţ,
+Dialogue: 99,0:22:10.00,0:22:12.10,Dialogue,,0,0,0,,ne-ar plăcea să ţinem o tabără de antrenament împreună cu voi.
+Dialogue: 99,0:23:46.83,0:23:49.74,Dialogue,,0,0,0,,Uou, asta e aşa incitant!
+Dialogue: 99,0:23:47.94,0:23:50.70,Dialogue,,0,0,0,,{\an8}Desigur că antrenamentul va fi greu.
+Dialogue: 99,0:23:51.28,0:23:52.11,Dialogue,,0,0,0,,Totul e în regulă.
+Dialogue: 99,0:23:52.49,0:23:54.56,Dialogue,,0,0,0,,Doar m-am încins puţin.
 Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,Opening
 Comment: 0,0:00:00.00,0:00:00.00,OP Romaji,,0,0,0,template line,{\fad(200,200)}
 Comment: 0,0:00:00.00,0:00:00.00,OP Romaji,,0,0,0,template syl,{\fad(200,200)\pos($x,$y)\bord0}{\r\t($start,$end,\fscx130\c&HBA9C08&)\t($mid,$end,\alpha&HFF)}

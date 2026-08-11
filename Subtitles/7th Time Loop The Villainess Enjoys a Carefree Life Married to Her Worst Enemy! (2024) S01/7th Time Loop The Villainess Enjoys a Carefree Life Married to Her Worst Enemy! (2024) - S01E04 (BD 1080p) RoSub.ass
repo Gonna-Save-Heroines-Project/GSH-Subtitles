@@ -37,648 +37,648 @@ Style: sign_generic,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:00.90,0:00:04.10,Dialogue,Tully,0,0,0,,Permiteți-mi să vă felicit \Npentru logodna dumneavoastră.
-Dialogue: 100,0:00:04.31,0:00:07.61,Dialogue,Tully,0,0,0,,Sunt Kaine Tully, de la \NCompania Comercială Aria.
-Dialogue: 100,0:00:08.40,0:00:11.17,Dialogue,Rishe,0,0,0,,Eu sunt Rishe Irmgard Weitzner.
-Dialogue: 100,0:00:11.17,0:00:14.86,Dialogue,Rishe,0,0,0,,Vă mulțumesc că ați făcut un drum \Natât de lung pentru a mă întâlni.
-Dialogue: 100,0:00:16.99,0:00:19.92,Dialogue,Tully; background,0,0,0,,{\an8}E cu adevărat o perioadă minunată \Na anului, nu-i așa?
-Dialogue: 100,0:00:18.42,0:00:19.92,Dialogue,Rishe; internal,0,0,0,,{\i1}Este la fel de impunător cum îl țineam minte.
-Dialogue: 100,0:00:19.92,0:00:23.03,Dialogue,Rishe; internal,0,0,0,,{\i1}Doar o privire de-a lui mă face să simt \Ncă a văzut direct prin mine.
-Dialogue: 100,0:00:19.92,0:00:23.71,Dialogue,Tully; background,0,0,0,,{\an8}Lady Rishe, ați spus că nunta va avea \Nloc la mijlocul lunii a opta?
-Dialogue: 100,0:00:23.71,0:00:27.00,Dialogue,Rishe; internal,0,0,0,,{\i1}Dar cum îl cunosc bine, ar trebui să am avantajul.
-Dialogue: 100,0:00:23.71,0:00:27.00,Dialogue,Tully; background,0,0,0,,{\an8}Asta înseamnă că veți deveni o mireasă \Nsub cerul verii.
-Dialogue: 100,0:00:27.30,0:00:32.01,Dialogue,Tully; background,0,0,0,,{\an8}Să ai o femeie atât de frumoasă ca viitoare \Nmamă a țării...
-Dialogue: 100,0:00:27.30,0:00:32.01,Dialogue,Rishe; internal,0,0,0,,{\i1}Pentru a evita războiul și \Na trăi o viață lungă,
-Dialogue: 100,0:00:32.01,0:00:35.01,Dialogue,Tully; background,0,0,0,,{\an8}Trebuie să spun că îi invidiez pe \Ncei din Galkhein.
-Dialogue: 100,0:00:32.01,0:00:35.01,Dialogue,Rishe; internal,0,0,0,,{\i1}Voi avea nevoie de ajutorul tău, șefule!
-Dialogue: 100,0:00:36.89,0:00:41.94,Dialogue,Rishe,0,0,0,,Sunt sigură că ați aflat deja, dar \Nvă doresc ca tot ce va fi folosit la nunta mea
-Dialogue: 100,0:00:41.94,0:00:44.46,Dialogue,Rishe,0,0,0,,să fie achiziționat prin Compania Comercială Aria.
-Dialogue: 100,0:00:44.46,0:00:47.77,Dialogue,Tully,0,0,0,,Ei bine, ei bine! Nu vă imaginați cât \Napreciez o asemenea declarație.
-Dialogue: 100,0:00:47.77,0:00:51.34,Dialogue,Rishe,0,0,0,,Atunci, ar fi posibil \Nsă văd mărfurile chiar acum?
-Dialogue: 100,0:00:52.53,0:00:53.78,Dialogue,Tully,0,0,0,,Lady Rishe...
-Dialogue: 100,0:00:55.10,0:00:59.03,Dialogue,Tully,0,0,0,,Nu am niciun produs pe care să \Nvă doresc să vi-l vând.
-Dialogue: 100,0:02:32.36,0:02:35.58,Dialogue,Tully,0,0,0,,{\an8}Oh, iertați-mă. Se pare că m-ați înțeles greșit.
-Dialogue: 100,0:02:35.58,0:02:37.96,Dialogue,Tully,0,0,0,,{\an8}Totuși, este exact cum am spus.
-Dialogue: 100,0:02:37.96,0:02:42.01,Dialogue,Tully,0,0,0,,O doamnă ca dumneavoastră pur și simplu \Nnu poate deveni clienta noastră.
-Dialogue: 100,0:02:43.10,0:02:44.26,Dialogue,Rishe,0,0,0,,Pot întreba de ce?
-Dialogue: 100,0:02:44.59,0:02:49.77,Dialogue,Tully,0,0,0,,Produsele pe care le putem procura \Nnu se potrivesc cu nivelul dumneavoastră de determinare.
-Dialogue: 100,0:02:49.77,0:02:51.15,Dialogue,Rishe,0,0,0,,Determinare?
-Dialogue: 100,0:02:52.11,0:02:56.53,Dialogue,Tully,0,0,0,,Se pare că, dintr-un motiv sau altul, \Nvă puneți viața în joc pentru această tranzacție.
-Dialogue: 100,0:02:57.78,0:03:00.64,Dialogue,Tully,0,0,0,,Am cunoscut mulți oameni de-a lungul timpului,
-Dialogue: 100,0:03:00.64,0:03:05.03,Dialogue,Tully,0,0,0,,dar păreți să aveți o hotărâre mai puternică \Ndecât oricare dintre ei.
-Dialogue: 100,0:03:05.44,0:03:10.82,Dialogue,Tully,0,0,0,,Și totuși, nu faceți decât \Nsă cumpărați produse de nuntă de la un comerciant, nu?
-Dialogue: 100,0:03:11.36,0:03:13.68,Dialogue,Rishe,0,0,0,,Ei bine, e un eveniment unic în viață.
-Dialogue: 100,0:03:13.68,0:03:16.01,Dialogue,Rishe,0,0,0,,M-am lăsat dusă de val.
-Dialogue: 100,0:03:16.01,0:03:18.46,Dialogue,Rishe,0,0,0,,Sunt atât de lipsită de experiență. \NE destul de stânjenitor.
-Dialogue: 100,0:03:19.30,0:03:24.30,Dialogue,Tully,0,0,0,,Vă rog, fiți liniștită. Sunt sigur că \Nceremonia de nuntă va fi splendidă.
-Dialogue: 100,0:03:24.30,0:03:29.66,Dialogue,Tully,0,0,0,,Totuși, din păcate, mărfurile noastre \Nnu se ridică la nivelul necesar.
-Dialogue: 100,0:03:30.24,0:03:32.61,Dialogue,Tully,0,0,0,,Vă mulțumesc pentru ofertă. A fost o onoare.
-Dialogue: 100,0:03:32.61,0:03:34.31,Dialogue,Rishe,0,0,0,,D-Domnule Tully!
-Dialogue: 100,0:03:34.52,0:03:38.57,Dialogue,Tully,0,0,0,,Lăsând toate astea deoparte, Galkhein \Nest un loc cu adevărat impresionant, nu-i așa?
-Dialogue: 100,0:03:40.03,0:03:45.47,Dialogue,Tully,0,0,0,,Ne gândim să uităm de muncă pentru o vreme \Nși să petrecem câteva zile bucurându-ne de peisaj.
-Dialogue: 100,0:03:46.41,0:03:49.02,Dialogue,Rishe,0,0,0,,Vă rog, așteptați! Dacă am putea \Nvorbi puțin mai mult!
-Dialogue: 100,0:03:49.02,0:03:53.50,Dialogue,Tully,0,0,0,,Rămas bun, frumoasă viitoare prințesă moștenitoare.
-Dialogue: 100,0:04:09.16,0:04:10.72,Dialogue,Tully,0,0,0,,{\i1}Ascultă bine, Rishe.
-Dialogue: 100,0:04:11.22,0:04:13.72,Dialogue,Tully,0,0,0,,Devino o comerciantă care își poate alege clienții.
-Dialogue: 100,0:04:14.26,0:04:18.98,Dialogue,Tully,0,0,0,,Oferă produse sau valoare pe care \Nnumai prin noi le pot obține.
-Dialogue: 100,0:04:18.98,0:04:23.53,Dialogue,Tully,0,0,0,,Când vom face asta, atunci noi \Nvom fi cei care alegem clienții.
-Dialogue: 100,0:04:24.73,0:04:27.32,Dialogue,Rishe; internal,0,0,0,,{\i1}N-am reușit să-l fac pe șef să mă aleagă.
-Dialogue: 100,0:04:27.84,0:04:32.40,Dialogue,Rishe; internal,0,0,0,,{\i1}Dar voi avea nevoie de conexiunile lui când Compania \NAria se va extinde în toată lumea.
-Dialogue: 100,0:04:34.20,0:04:35.90,Dialogue,Kamil,0,0,0,,Um, Lady Rishe?
-Dialogue: 100,0:04:36.98,0:04:40.87,Dialogue,Kamil,0,0,0,,De ce lucrează viitoarea prințesă \Nmoștenitoare într-o grădină?
-Dialogue: 100,0:04:40.87,0:04:46.09,Dialogue,Rishe,0,0,0,,Prințul Arnold mi-a oferit această parcelă, \Nașa că m-am gândit să cultiv plante medicinale.
-Dialogue: 100,0:04:46.09,0:04:49.60,Dialogue,Rishe,0,0,0,,În funcție de cum le combin, voi putea \Nface tot felul de medicamente.
-Dialogue: 100,0:04:49.98,0:04:52.10,Dialogue,Kamil,0,0,0,,Înțeleg...
-Dialogue: 100,0:04:53.38,0:04:57.44,Dialogue,Rishe; internal,0,0,0,,{\i1}Totuși, a fost doar suspicios cu mine?
-Dialogue: 100,0:04:57.90,0:05:03.18,Dialogue,Rishe; internal,0,0,0,,{\i1}Este un om prudent, dar adoră și \Npariul „totul sau nimic”.
-Dialogue: 100,0:05:04.67,0:05:06.80,Dialogue,Rishe; internal,0,0,0,,{\i1}Să fi scăpat ceva din vedere?
-Dialogue: 100,0:05:08.77,0:05:14.08,Dialogue,Tully,0,0,0,,Ne gândim să uităm de muncă pentru o vreme \Nși să petrecem câteva zile bucurându-ne de peisaj.
-Dialogue: 100,0:05:15.47,0:05:17.76,Dialogue,Rishe,0,0,0,,Asta e tot pentru grădinăritul de azi.
-Dialogue: 100,0:05:17.76,0:05:19.25,Dialogue,Kamil,0,0,0,,D-Deja?
-Dialogue: 100,0:05:19.25,0:05:23.51,Dialogue,Rishe,0,0,0,,Merg să mă odihnesc în cameră. Vă \Nlas vouă să păziți coridoarele.
-Dialogue: 100,0:05:23.51,0:05:24.76,Dialogue,Kamil; Dennis,0,0,0,,D-Da, domnișoară!
-Dialogue: 100,0:05:28.09,0:05:31.01,Dialogue,Chester,0,0,0,,Totuși, ești sigur de asta, șefule?
-Dialogue: 100,0:05:31.01,0:05:33.89,Dialogue,Chester,0,0,0,,Renunți la o oportunitate de a \Ncâștiga o avere de la prințesa moștenitoare.
-Dialogue: 100,0:05:33.89,0:05:38.44,Dialogue,Tully,0,0,0,,Prostule. Dacă am accepta-o \Npe acea doamnă ca și clientă, am avea pierderi mari.
-Dialogue: 100,0:05:41.90,0:05:44.51,Dialogue,Rishe,0,0,0,,Bine ați revenit, domnule Tully.
-Dialogue: 100,0:05:43.28,0:05:45.03,Dialogue,traders,0,0,0,,{\an8}Nu mai pot bea.
-Dialogue: 100,0:05:45.03,0:05:47.03,Dialogue,traders,0,0,0,,{\an8}Ai câștigat, domnișoară.
-Dialogue: 100,0:05:47.84,0:05:51.91,Dialogue,Tully,0,0,0,,Mă așteptam să ne vizitați curând, \Ndar așa ceva?
-Dialogue: 100,0:05:51.91,0:05:55.73,Dialogue,Rishe,0,0,0,,Deci, aceea chiar a fost o invitație.
-Dialogue: 100,0:05:55.73,0:05:56.98,Dialogue,Rishe,0,0,0,,Sunt onorată.
-Dialogue: 100,0:05:59.24,0:06:01.29,Dialogue,Tully,0,0,0,,Sunt uimit.
-Dialogue: 100,0:06:01.29,0:06:04.19,Dialogue,Tully,0,0,0,,Să-ți învingi oamenii \Nla băutură în timp ce așteptai?
-Dialogue: 100,0:06:04.19,0:06:08.63,Dialogue,Rishe,0,0,0,,Sunt atât de amabili, că băutura \Na tot curs fără să-mi dau seama.
-Dialogue: 100,0:06:08.63,0:06:12.26,Dialogue,Tully,0,0,0,,Lăsând asta deoparte, acea vopsea \Ns-a prins foarte frumos în părul tău.
-Dialogue: 100,0:06:12.72,0:06:15.70,Dialogue,Rishe,0,0,0,,Culoarea părului meu tinde să \Niasă în evidență, știi.
-Dialogue: 100,0:06:16.77,0:06:21.87,Dialogue,Rishe,0,0,0,,Dacă ți-aș spune că îți vând metoda, \Nai fi deschis la negocieri cu mine?
-Dialogue: 100,0:06:22.66,0:06:24.15,Dialogue,Tully,0,0,0,,Niciodată!
-Dialogue: 100,0:06:24.15,0:06:28.65,Dialogue,Tully,0,0,0,,La urma urmei, ai adus ceva și \Nmai valoros decât atât, nu-i așa?
-Dialogue: 100,0:06:30.16,0:06:34.43,Dialogue,Tully,0,0,0,,Și acum, exact cum ți-ai dorit, \Nvom începe negocierile noastre.
-Dialogue: 100,0:06:34.43,0:06:36.09,Dialogue,Tully,0,0,0,,Să începem cu un pahar.
-Dialogue: 100,0:06:36.09,0:06:37.58,Dialogue,Rishe,0,0,0,,Doar un lucru înainte.
-Dialogue: 100,0:06:38.11,0:06:41.79,Dialogue,Rishe,0,0,0,,Cât timp suntem aici, te rog, vorbește liber.
-Dialogue: 100,0:06:42.19,0:06:46.55,Dialogue,Rishe; internal,0,0,0,,{\i1}Când vorbește atât de formal cu mine, \Nmă dezechilibrează.
-Dialogue: 100,0:06:46.55,0:06:49.55,Dialogue,Tully,0,0,0,,Ei bine, dacă insiști.
-Dialogue: 100,0:06:55.98,0:07:03.46,Dialogue,Tully,0,0,0,,Așadar, domnișoară, \Ngata cu această poveste cu „vreau o rochie de nuntă”, da?
-Dialogue: 100,0:07:03.46,0:07:08.00,Dialogue,Rishe,0,0,0,,Desigur. E evident că astfel de \Ntrucuri nu vor merge cu dumneavoastră.
-Dialogue: 100,0:07:08.00,0:07:09.36,Dialogue,Tully,0,0,0,,Bine.
-Dialogue: 100,0:07:09.80,0:07:12.36,Dialogue,Tully,0,0,0,,Intuiția mea îmi spune ceva.
-Dialogue: 100,0:07:12.62,0:07:17.62,Dialogue,Tully,0,0,0,,Lady Rishe, îmi spune că ar trebui să \Nvă privesc nu ca pe o clientă, ci ca pe un partener.
-Dialogue: 100,0:07:18.14,0:07:21.03,Dialogue,Tully,0,0,0,,Nu voi participa la niciun plan \Ndacă nu cunosc întreaga sa amploare.
-Dialogue: 100,0:07:21.03,0:07:25.31,Dialogue,Tully,0,0,0,,Dar nu-ți face griji, în ciuda aparențelor, \Nsunt foarte dedicat muncii mele.
-Dialogue: 100,0:07:25.31,0:07:31.13,Dialogue,Tully,0,0,0,,Îți pot promite orice profituri, ba nu, \Nchiar mai mari decât îți imaginezi.
-Dialogue: 100,0:07:31.13,0:07:36.26,Dialogue,Tully,0,0,0,,Acum, ce-ai zice să spui fiecare detaliu \Ndin această schemă de făcut bani!
-Dialogue: 100,0:07:37.19,0:07:38.27,Dialogue,Rishe,0,0,0,,Nu pot să-ți spun.
-Dialogue: 100,0:07:38.99,0:07:39.80,Dialogue,Tully,0,0,0,,Ce?
-Dialogue: 100,0:07:40.61,0:07:43.63,Dialogue,Rishe,0,0,0,,Nu pot să-ți spun planul meu.
-Dialogue: 100,0:07:43.63,0:07:48.28,Dialogue,Rishe,0,0,0,,Chiar și așa, vreau ca \NCompania Aria să fie de partea mea.
-Dialogue: 100,0:07:48.28,0:07:51.58,Dialogue,Tully,0,0,0,,Spui cele mai interesante lucruri, domnișoară.
-Dialogue: 100,0:07:52.31,0:07:55.21,Dialogue,Tully,0,0,0,,Vrei să semnez un contract \Nfără să mi se spună nimic,
-Dialogue: 100,0:07:55.21,0:07:57.01,Dialogue,Tully,0,0,0,,și nici măcar nu e sigur \Ncă voi obține profit.
-Dialogue: 100,0:07:57.01,0:08:00.27,Dialogue,Tully,0,0,0,,Acesta este genul de ofertă \Npe care comercianții o detestă cel mai mult.
-Dialogue: 100,0:08:00.27,0:08:02.47,Dialogue,Rishe,0,0,0,,Desigur, voi pregăti o compensație.
-Dialogue: 100,0:08:02.47,0:08:07.29,Dialogue,Tully,0,0,0,,Vrei să am încredere doar în ceea ce spui, \Ncă voi obține un câștig? O idee minunată!
-Dialogue: 100,0:08:07.70,0:08:09.54,Dialogue,Rishe; internal,0,0,0,,{\i1}În următorii câțiva ani,
-Dialogue: 100,0:08:09.54,0:08:12.67,Dialogue,Rishe; internal,0,0,0,,{\i1}prințul moștenitor al acestei națiuni \Nva porni războaie împotriva altora,
-Dialogue: 100,0:08:12.67,0:08:17.55,Dialogue,Rishe; internal,0,0,0,,{\i1}și eu formulez un plan pentru a-l opri... dar \Nnu pot să-i spun asta.
-Dialogue: 100,0:08:17.55,0:08:19.27,Dialogue,Tully,0,0,0,,Ascultă bine, domnișoară,
-Dialogue: 100,0:08:19.27,0:08:22.94,Dialogue,Tully,0,0,0,,Am mare încredere în intuiția mea,
-Dialogue: 100,0:08:22.94,0:08:25.69,Dialogue,Tully,0,0,0,,dar ceea ce consider chiar \Nmai important sunt rezultatele și—
-Dialogue: 100,0:08:25.69,0:08:28.23,Dialogue,Rishe; overlapped,0,0,0,,Rezultatele și dovezile clare, nu-i așa?
-Dialogue: 100,0:08:30.05,0:08:34.84,Dialogue,Rishe,0,0,0,,Mă voi gândi la o afacere care \Nva avea succes aici în capitală.
-Dialogue: 100,0:08:34.84,0:08:38.69,Dialogue,Rishe,0,0,0,,Dacă atunci veți considera că merit \Nîncrederea dumneavoastră,
-Dialogue: 100,0:08:38.69,0:08:41.66,Dialogue,Rishe,0,0,0,,atunci pot să vă rog să \Nreevaluați decizia de azi?
-Dialogue: 100,0:08:47.46,0:08:48.84,Dialogue,Tully,0,0,0,,Îmi place!
-Dialogue: 100,0:08:48.84,0:08:51.61,Dialogue,Tully,0,0,0,,Spui că dacă ideea ta \Npare să aducă profit,
-Dialogue: 100,0:08:51.61,0:08:53.66,Dialogue,Tully,0,0,0,,atunci vrei să te recunosc ca partener.
-Dialogue: 100,0:08:53.66,0:08:55.59,Dialogue,Tully,0,0,0,,That's exactly the sort of thing I like.
-Dialogue: 100,0:08:55.59,0:08:57.84,Dialogue,Rishe; internal,0,0,0,,{\i1}Da, știu asta foarte bine.
-Dialogue: 100,0:08:58.07,0:09:02.46,Dialogue,Tully,0,0,0,,You have a week. I'm looking \Nforward to this, milady.
-Dialogue: 100,0:09:02.46,0:09:04.45,Dialogue,Rishe,0,0,0,,Atunci e o promisiune.
-Dialogue: 100,0:09:08.64,0:09:10.63,Dialogue,Rishe,0,0,0,,Thank you for your time.
-Dialogue: 100,0:09:10.63,0:09:15.13,Dialogue,Rishe,0,0,0,,Și când toți se trezesc, te rog \Nsă le dai această doctorie.
-Dialogue: 100,0:09:16.61,0:09:18.12,Dialogue,Tully,0,0,0,,What is it?
-Dialogue: 100,0:09:18.12,0:09:21.24,Dialogue,Rishe,0,0,0,,Cred că vei înțelege \Nrepede după ce o folosești.
-Dialogue: 100,0:09:27.93,0:09:30.63,Dialogue,Rishe,0,0,0,,It isn't a simple thing to \Nsneak out of this place.
-Dialogue: 100,0:09:37.95,0:09:39.51,Dialogue,Arnold,0,0,0,,Ai fost plecată până târziu.
-Dialogue: 100,0:09:40.61,0:09:42.76,Dialogue,Rishe,0,0,0,,Your Highness, why are you here?
-Dialogue: 100,0:09:42.76,0:09:45.50,Dialogue,Arnold,0,0,0,,Am auzit că oferta ta \Nde schimb a fost refuzată.
-Dialogue: 100,0:09:46.70,0:09:48.58,Dialogue,Arnold,0,0,0,,It's a strange story.
-Dialogue: 100,0:09:48.58,0:09:53.61,Dialogue,Arnold,0,0,0,,Un simplu negustor care refuză o cerere \Na unei viitoare prințese moștenitoare?
-Dialogue: 100,0:09:55.48,0:09:58.22,Dialogue,Arnold,0,0,0,,I'm the one who said to \Nspend your time as you like.
-Dialogue: 100,0:09:58.22,0:10:02.03,Dialogue,Arnold,0,0,0,,De aceea cred că ar fi \Nnejustificat din partea mea să-ți critic acțiunile,
-Dialogue: 100,0:10:02.03,0:10:04.09,Dialogue,Arnold,0,0,0,,so I awaited your return instead. However...
-Dialogue: 100,0:10:37.36,0:10:43.69,Dialogue,Arnold,0,0,0,,Deci chiar și tu arăți așa \Ncând te afli singură cu un bărbat, noaptea.
-Dialogue: 100,0:10:49.80,0:10:52.88,Dialogue,Rishe,0,0,0,,I... îmi pare foarte rău.
-Dialogue: 100,0:10:54.50,0:11:00.07,Dialogue,Rishe,0,0,0,,Să plec singură din vilă noaptea \Nnu e potrivit pentru logodnica ta.
-Dialogue: 100,0:11:00.07,0:11:01.62,Dialogue,Rishe,0,0,0,,If your reputation were damaged because—
-Dialogue: 100,0:11:01.62,0:11:03.31,Dialogue,Arnold,0,0,0,,Nu mă interesează asta.
-Dialogue: 100,0:11:06.23,0:11:08.02,Dialogue,Arnold,0,0,0,,Nu ești rănită, nu?
-Dialogue: 100,0:11:08.24,0:11:08.86,Dialogue,Rishe,0,0,0,,Ce?
-Dialogue: 100,0:11:10.00,0:11:12.52,Dialogue,Rishe,0,0,0,,Nu, nu sunt.
-Dialogue: 100,0:11:14.73,0:11:18.69,Dialogue,Arnold,0,0,0,,De acum încolo, de fiecare dată când vei merge \Nîn oraș, voi merge cu tine.
-Dialogue: 100,0:11:18.69,0:11:19.26,Dialogue,Rishe,0,0,0,,Ce?
-Dialogue: 100,0:11:19.70,0:11:22.53,Dialogue,Arnold,0,0,0,,Ți-am spus. Ești liberă să faci ce dorești.
-Dialogue: 100,0:11:22.53,0:11:25.47,Dialogue,Arnold,0,0,0,,Ți-am mai spus că te \Nvoi ajuta în asta.
-Dialogue: 100,0:11:25.47,0:11:29.80,Dialogue,Rishe,0,0,0,,Oh, dar... Nu aș putea cere ca \NAlteta Ta să-mi tolereze egoismul!
-Dialogue: 100,0:11:29.80,0:11:32.06,Dialogue,Arnold,0,0,0,,Am zis că ești liberă să faci ce dorești.
-Dialogue: 100,0:11:32.06,0:11:34.58,Dialogue,Arnold,0,0,0,,Nu am spus că ești liberă \Nsă te pui în pericol.
-Dialogue: 100,0:11:36.29,0:11:37.17,Dialogue,Arnold,0,0,0,,Ce este?
-Dialogue: 100,0:11:37.48,0:11:39.67,Dialogue,Rishe,0,0,0,,Ești mult prea indulgent cu mine.
-Dialogue: 100,0:11:41.15,0:11:42.43,Dialogue,Arnold,0,0,0,,Ei bine, fiind tu,
-Dialogue: 100,0:11:42.89,0:11:45.87,Dialogue,Arnold,0,0,0,,dacă aș încerca să te opresc spunând că \Nnu ai voie să mai mergi în oraș,
-Dialogue: 100,0:11:45.87,0:11:47.84,Dialogue,Arnold,0,0,0,,ai pleca pe furiș \Ndin nou, nu-i așa?
-Dialogue: 100,0:11:48.42,0:11:50.23,Dialogue,Arnold,0,0,0,,Chiar și dacă ar însemna să-ți vopsești părul.
-Dialogue: 100,0:11:50.99,0:11:55.19,Dialogue,Arnold,0,0,0,,A da permisiunea cu condiții \Npare mai eficient ca restricție.
-Dialogue: 100,0:11:55.19,0:11:58.19,Dialogue,Rishe,0,0,0,,Sunt chiar așa de ușor de înțeles?
-Dialogue: 100,0:11:58.19,0:11:59.11,Dialogue,Arnold,0,0,0,,Deloc.
-Dialogue: 100,0:11:59.64,0:12:03.75,Dialogue,Arnold,0,0,0,,Ești genul atât de greu de \Nînțeles încât nu pot să te anticipez deloc.
-Dialogue: 100,0:12:05.60,0:12:07.44,Dialogue,Rishe,0,0,0,,Te distrezi, nu-i așa?
-Dialogue: 100,0:12:07.44,0:12:09.74,Dialogue,Rishe,0,0,0,,Tu și șeful, amândoi.
-Dialogue: 100,0:12:10.36,0:12:11.72,Dialogue,Arnold,0,0,0,,Șeful?
-Dialogue: 100,0:12:12.40,0:12:15.96,Dialogue,Arnold,0,0,0,,Ce s-a întâmplat între tine \Nși Compania Comercială Aria?
-Dialogue: 100,0:12:18.68,0:12:19.69,Dialogue,Rishe,0,0,0,,Alteta Ta?
-Dialogue: 100,0:12:19.69,0:12:20.59,Dialogue,Arnold,0,0,0,,Da?
-Dialogue: 100,0:12:21.01,0:12:23.09,Dialogue,Rishe,0,0,0,,Îți este cumva foame?
-Dialogue: 100,0:13:00.80,0:13:03.24,Dialogue,Rishe,0,0,0,,Um, A-Alteta Ta?
-Dialogue: 100,0:13:04.39,0:13:06.73,Dialogue,Rishe,0,0,0,,Este ceva pentru care trebuie să-mi cer scuze.
-Dialogue: 100,0:13:06.73,0:13:07.64,Dialogue,Arnold,0,0,0,,Ce este?
-Dialogue: 100,0:13:09.20,0:13:13.99,Dialogue,Rishe,0,0,0,,Îmi pare atât de rău, deși \Neu am fost cea care a propus asta...
-Dialogue: 100,0:13:14.58,0:13:15.71,Dialogue,Rishe,0,0,0,,Eu, um...
-Dialogue: 100,0:13:16.65,0:13:19.88,Dialogue,Rishe,0,0,0,,Gătesc groaznic!
-Dialogue: 100,0:13:23.28,0:13:24.30,Dialogue,Arnold,0,0,0,,Înțeleg.
-Dialogue: 100,0:13:25.07,0:13:27.08,Dialogue,Rishe,0,0,0,,Îmi pare foarte rău.
-Dialogue: 100,0:13:27.08,0:13:31.99,Dialogue,Arnold,0,0,0,,Ei bine, e ceva rar ca o \Ndomnișoară nobilă să știe să gătească.
-Dialogue: 100,0:13:33.28,0:13:39.09,Dialogue,Rishe; internal,0,0,0,,{\i1}În viețile mele anterioare, mesele erau doar momente \Nîn care îmi umpleam stomacul.
-Dialogue: 100,0:13:39.99,0:13:43.00,Dialogue,Rishe,0,0,0,,Nu cred că această supă va \Nfi pe placul Alteței Voastre.
-Dialogue: 100,0:13:46.99,0:13:48.01,Dialogue,Arnold,0,0,0,,E bună.
-Dialogue: 100,0:13:48.01,0:13:48.79,Dialogue,Rishe,0,0,0,,Ce?
-Dialogue: 100,0:13:50.00,0:13:51.76,Dialogue,Arnold,0,0,0,,Această supă este perfectă.
-Dialogue: 100,0:13:53.19,0:13:56.50,Dialogue,Rishe; internal,0,0,0,,{\i1}Nu cred că poate face diferența \Nîntre gust bun și rău.
-Dialogue: 100,0:13:55.64,0:13:56.50,Dialogue,Arnold,0,0,0,,{\an8}Hei.
-Dialogue: 100,0:13:56.50,0:13:58.90,Dialogue,Arnold,0,0,0,,Te gândești la ceva \Nnepoliticos, nu-i așa?
-Dialogue: 100,0:13:58.90,0:14:00.88,Dialogue,Rishe,0,0,0,,Nu, deloc!
-Dialogue: 100,0:14:02.33,0:14:04.06,Dialogue,Rishe,0,0,0,,Mulțumesc.
-Dialogue: 100,0:14:04.06,0:14:06.02,Dialogue,Arnold,0,0,0,,E vina ta că mi-e foame.
-Dialogue: 100,0:14:06.47,0:14:08.12,Dialogue,Arnold,0,0,0,,Haide să așezăm masa.
-Dialogue: 100,0:14:08.69,0:14:09.66,Dialogue,Rishe,0,0,0,,Desigur!
-Dialogue: 100,0:14:12.26,0:14:13.66,Dialogue,Rishe,0,0,0,,Tocmai de aceea...
-Dialogue: 100,0:14:13.89,0:14:18.23,Dialogue,Rishe,0,0,0,,Acum trebuie să propun o nouă \Nidee de afacere în decurs de o săptămână.
-Dialogue: 100,0:14:20.04,0:14:21.21,Dialogue,Arnold,0,0,0,,Înțeleg.
-Dialogue: 100,0:14:21.21,0:14:22.56,Dialogue,Rishe,0,0,0,,Adică?
-Dialogue: 100,0:14:22.56,0:14:24.67,Dialogue,Arnold,0,0,0,,Am spus că înțeleg.
-Dialogue: 100,0:14:24.67,0:14:27.30,Dialogue,Arnold,0,0,0,,Am înțeles ce vrei să faci.
-Dialogue: 100,0:14:28.46,0:14:33.81,Dialogue,Rishe,0,0,0,,Nu o să mă întrebi pentru ce \Nplănuiesc să folosesc Compania Aria?
-Dialogue: 100,0:14:34.07,0:14:36.89,Dialogue,Arnold,0,0,0,,Ai ținut asta secret față de \Ncompanie, nu-i așa?
-Dialogue: 100,0:14:36.89,0:14:39.06,Dialogue,Arnold,0,0,0,,Atunci, nu-mi imaginez că mi-ai spune mie.
-Dialogue: 100,0:14:39.06,0:14:40.86,Dialogue,Rishe,0,0,0,,Așa este, dar...
-Dialogue: 100,0:14:41.32,0:14:44.60,Dialogue,Arnold,0,0,0,,Te-ai decis asupra afacerii \Nsau ideii la care te gândești?
-Dialogue: 100,0:14:44.60,0:14:46.48,Dialogue,Rishe,0,0,0,,Am câteva idei.
-Dialogue: 100,0:14:46.48,0:14:49.07,Dialogue,Rishe,0,0,0,,Dar nu știu \Ndacă vreuna va funcționa.
-Dialogue: 100,0:14:49.64,0:14:52.22,Dialogue,Rishe,0,0,0,,Ce fel de oameni trăiesc în capitală?
-Dialogue: 100,0:14:52.22,0:14:54.33,Dialogue,Rishe,0,0,0,,Ce lucruri le plac?
-Dialogue: 100,0:14:54.33,0:14:56.88,Dialogue,Rishe,0,0,0,,E o grămadă de \Nlucruri pe care trebuie să le cercetez.
-Dialogue: 100,0:14:56.88,0:14:59.51,Dialogue,Arnold,0,0,0,,Spui că va fi o luptă dificilă.
-Dialogue: 100,0:14:59.51,0:15:00.35,Dialogue,Rishe,0,0,0,,Da.
-Dialogue: 100,0:15:05.13,0:15:07.59,Dialogue,Rishe,0,0,0,,Îți place asta, nu-i așa?
-Dialogue: 100,0:15:08.38,0:15:09.74,Dialogue,Arnold,0,0,0,,Fă cum dorești.
-Dialogue: 100,0:15:10.28,0:15:11.92,Dialogue,Arnold,0,0,0,,Trebuie să plec.
-Dialogue: 100,0:15:11.92,0:15:13.96,Dialogue,Rishe,0,0,0,,Desigur. Noapte bună.
-Dialogue: 100,0:15:17.35,0:15:19.27,Dialogue,Rishe,0,0,0,,Ceva nu e în regulă?
-Dialogue: 100,0:15:19.65,0:15:21.62,Dialogue,Arnold,0,0,0,,L-ai întâlnit pe fratele meu mai mic?
-Dialogue: 100,0:15:21.62,0:15:24.35,Dialogue,Rishe,0,0,0,,Fratele mai mic al Alteței Voastre? Nu.
-Dialogue: 100,0:15:24.35,0:15:25.52,Dialogue,Arnold,0,0,0,,Mă bucur.
-Dialogue: 100,0:15:25.75,0:15:28.82,Dialogue,Arnold,0,0,0,,Dacă se apropie de tine, nu-i răspunde.
-Dialogue: 100,0:15:28.82,0:15:30.28,Dialogue,Rishe,0,0,0,,Este ceva ce ar trebui să știu?
-Dialogue: 100,0:15:30.28,0:15:32.18,Dialogue,Arnold,0,0,0,,Nu e nevoie să știi.
-Dialogue: 100,0:15:52.08,0:15:54.40,Dialogue,Rishe; internal,0,0,0,,{\i1}Populația acestui oraș, \Nraportul bărbați-femei,  
-Dialogue: 100,0:15:54.40,0:15:57.27,Dialogue,Rishe; internal,0,0,0,,{\i1}și distribuția pe vârste sunt \Ninformațiile minime de care am nevoie.  
-Dialogue: 100,0:15:57.27,0:15:59.18,Dialogue,Rishe; internal,0,0,0,,{\i1}Schimbările în dezvoltarea sa economică...  
-Dialogue: 100,0:15:59.18,0:16:01.31,Dialogue,Rishe; internal,0,0,0,,{\i1}starea regiunilor învecinate...  
-Dialogue: 100,0:16:01.31,0:16:04.94,Dialogue,Rishe; internal,0,0,0,,{\i1}informații despre comercianții și călătorii \Ncare intră și ies, de asemenea...  
-Dialogue: 100,0:16:07.36,0:16:10.77,Dialogue,Rishe; internal,0,0,0,,{\i1}Grădinăresc dimineața, verific \Nmaterialele de predare după-amiaza,  
-Dialogue: 100,0:16:10.77,0:16:13.45,Dialogue,Rishe; internal,0,0,0,,{\i1}și trebuie să mă pregătesc și pentru \Nceremonia de nuntă.  
-Dialogue: 100,0:16:13.45,0:16:15.75,Dialogue,Rishe; internal,0,0,0,,{\i1}Nu voi dormi sau mă voi odihni prea curând!  
-Dialogue: 100,0:16:17.14,0:16:18.95,Dialogue,Oliver,0,0,0,,O gustare la miezul nopții? Dumneavoastră, sire?  
-Dialogue: 100,0:16:18.95,0:16:20.03,Dialogue,Arnold,0,0,0,,Și ce dacă?  
-Dialogue: 100,0:16:20.03,0:16:21.00,Dialogue,Oliver,0,0,0,,Nimic.  
-Dialogue: 100,0:16:21.00,0:16:24.00,Dialogue,Oliver,0,0,0,,Lady Rishe trebuie să fie o bucătăreasă excelentă.  
-Dialogue: 100,0:16:24.68,0:16:27.21,Dialogue,Arnold,0,0,0,,A spus că este groaznică la gătit...  
-Dialogue: 100,0:16:27.61,0:16:28.66,Dialogue,Arnold,0,0,0,,dar a fost bun.  
-Dialogue: 100,0:16:30.84,0:16:31.56,Dialogue,Arnold,0,0,0,,Hei.  
-Dialogue: 100,0:16:31.96,0:16:36.35,Dialogue,Arnold,0,0,0,,Este normal să adaugi plante medicinale \Nîn supă?  
-Dialogue: 100,0:16:36.79,0:16:38.23,Dialogue,Oliver,0,0,0,,În supă?  
-Dialogue: 100,0:16:38.23,0:16:40.60,Dialogue,Oliver,0,0,0,,Nu, nu se face de obicei.  
-Dialogue: 100,0:16:42.08,0:16:42.98,Dialogue,Arnold,0,0,0,,Înțeleg.  
-Dialogue: 100,0:16:48.67,0:16:51.86,Dialogue,Kamil,0,0,0,,Nu ai reușit să te odihnești bine aseară?  
-Dialogue: 100,0:16:51.86,0:16:54.34,Dialogue,Rishe,0,0,0,,Făceam niște cercetări.  
-Dialogue: 100,0:16:54.34,0:16:56.70,Dialogue,Kamil,0,0,0,,Te rog, nu te forța prea tare.  
-Dialogue: 100,0:17:00.57,0:17:03.33,Dialogue,Dennis,0,0,0,,Lady Rishe! Vă rog, dați-vă înapoi!  
-Dialogue: 100,0:17:03.33,0:17:04.78,Dialogue,Dennis,0,0,0,,Hai să ne întoarcem în cameră.  
-Dialogue: 100,0:17:06.89,0:17:09.68,Dialogue,Rishe; internal,0,0,0,,{\i1}Părul negru este rar pe acest continent.  
-Dialogue: 100,0:17:09.68,0:17:10.90,Dialogue,Dennis,0,0,0,,Lady Rishe!  
-Dialogue: 100,0:17:12.74,0:17:13.95,Dialogue,Theodore,0,0,0,,Rishe?  
-Dialogue: 100,0:17:13.95,0:17:14.75,Dialogue,Dennis,0,0,0,,Oh, nu!  
-Dialogue: 100,0:17:17.68,0:17:20.05,Dialogue,Theodore,0,0,0,,Ești logodnica fratelui meu mai mare...  
-Dialogue: 100,0:17:23.50,0:17:26.52,Dialogue,Theodore,0,0,0,,Încântat de cunoștință, sora mea frumoasă!  
-Dialogue: 100,0:17:27.94,0:17:29.81,Dialogue,Theodore,0,0,0,,În sfârșit ne întâlnim!  
-Dialogue: 100,0:17:29.81,0:17:33.04,Dialogue,Theodore,0,0,0,,Am trimis atâtea scrisori \Nspunând că vreau să te cunosc,  
-Dialogue: 100,0:17:33.04,0:17:35.79,Dialogue,Theodore,0,0,0,,dar fratele meu nu a răspuns nici măcar o dată.  
-Dialogue: 100,0:17:35.79,0:17:37.07,Dialogue,Theodore,0,0,0,,Nu e crud din partea lui?  
-Dialogue: 100,0:17:40.16,0:17:43.08,Dialogue,Theodore,0,0,0,,Nu trebuie să fii atât de tensionată.  
-Dialogue: 100,0:17:44.14,0:17:46.07,Dialogue,Theodore,0,0,0,,Eu sunt Theodore.  
-Dialogue: 100,0:17:46.07,0:17:48.06,Dialogue,Theodore,0,0,0,,Theodore Auguste Hein.  
-Dialogue: 100,0:17:48.06,0:17:52.34,Dialogue,Theodore,0,0,0,,Sunt al doilea în linia de succesiune \Nși fratele mai mic al lui Arnold Hein.  
-Dialogue: 100,0:17:52.74,0:17:55.65,Dialogue,Rishe; internal,0,0,0,,{\i1}Mi s-a spus să nu petrec \Ntimp cu el, dar...  
-Dialogue: 100,0:17:58.65,0:18:00.61,Dialogue,Rishe,0,0,0,,Sunt onorată să te cunosc.  
-Dialogue: 100,0:18:00.61,0:18:03.19,Dialogue,Rishe,0,0,0,,Numele meu este Rishe Irmgard Weitzner.  
-Dialogue: 100,0:18:03.92,0:18:09.00,Dialogue,Rishe,0,0,0,,O întorsătură a sorții m-a adus în \Ncea mai joasă poziție a familiei imperiale.  
-Dialogue: 100,0:18:09.00,0:18:11.14,Dialogue,Rishe,0,0,0,,Sper că ne vom înțelege bine.  
-Dialogue: 100,0:18:11.14,0:18:13.86,Dialogue,Theodore,0,0,0,,Mă întrebam, ce faci aici, \Nsora mea dragă?  
-Dialogue: 100,0:18:13.86,0:18:17.36,Dialogue,Rishe,0,0,0,,Această parcelă de grădină e creată de mine.  
-Dialogue: 100,0:18:17.36,0:18:18.88,Dialogue,Theodore,0,0,0,,Ai făcut-o tu?  
-Dialogue: 100,0:18:18.88,0:18:21.30,Dialogue,Theodore,0,0,0,,Minunat!  
-Dialogue: 100,0:18:21.30,0:18:23.91,Dialogue,Theodore,0,0,0,,E rar să găsești un strat atât de pufos!  
-Dialogue: 100,0:18:24.38,0:18:27.67,Dialogue,Theodore,0,0,0,,Dar e ceva ce mă deranjează.  
-Dialogue: 100,0:18:27.67,0:18:28.92,Dialogue,Theodore,0,0,0,,Poți să te uiți aici pentru mine?  
-Dialogue: 100,0:18:28.92,0:18:30.92,Dialogue,Rishe,0,0,0,,Ceva nu este în regulă?  
-Dialogue: 100,0:18:31.33,0:18:32.61,Dialogue,Theodore,0,0,0,,Vezi? Chiar aici.  
-Dialogue: 100,0:18:33.72,0:18:35.26,Dialogue,Rishe,0,0,0,,Ei bine...  
-Dialogue: 100,0:18:36.61,0:18:38.09,Dialogue,Theodore,0,0,0,,Vreau să te salvez.  
-Dialogue: 100,0:18:40.80,0:18:44.84,Dialogue,Theodore,0,0,0,,Săraca de tine. Târâtă \Npână într-un loc ca ăsta.  
-Dialogue: 100,0:18:44.84,0:18:48.43,Dialogue,Theodore,0,0,0,,Nu ești cu adevărat o mireasă. Ești ostatică.  
-Dialogue: 100,0:18:50.36,0:18:51.81,Dialogue,Rishe,0,0,0,,Sunt conștientă.  
-Dialogue: 100,0:18:51.81,0:18:52.86,Dialogue,Theodore,0,0,0,,Ești?  
-Dialogue: 100,0:18:53.75,0:18:58.15,Dialogue,Rishe,0,0,0,,Prințul Arnold este mai mult decât \Nconsiderat cu mine.  
-Dialogue: 100,0:18:59.65,0:19:00.83,Dialogue,Theodore,0,0,0,,Înțeleg.  
-Dialogue: 100,0:19:04.28,0:19:07.18,Dialogue,Theodore,0,0,0,,Mă bucur că te-am putut \Nvedea azi! Ne mai vedem.  
-Dialogue: 100,0:19:13.18,0:19:16.17,Dialogue,Rishe; internal,0,0,0,,{\i1}Al doilea în linia de succesiune?  
-Dialogue: 100,0:19:16.17,0:19:20.00,Dialogue,Rishe; internal,0,0,0,,{\i1}Asta nu e ceva ce spui \Ncând te prezinți logodnicei fratelui tău.  
-Dialogue: 100,0:19:23.52,0:19:25.68,Dialogue,Rishe,0,0,0,,Poate că nu are legătură,  
-Dialogue: 100,0:19:25.68,0:19:29.63,Dialogue,Rishe,0,0,0,,dar mai devreme nu păreați \Nvă comportați normal.  
-Dialogue: 100,0:19:30.24,0:19:33.81,Dialogue,Rishe,0,0,0,,Aveți ordine să nu mă lăsați \Nsă mă apropii de fratele său mai mic?  
-Dialogue: 100,0:19:34.25,0:19:37.52,Dialogue,Kamil,0,0,0,,Asta nu este ceva ce \Nam putea să vă spunem.  
-Dialogue: 100,0:19:37.52,0:19:41.15,Dialogue,Rishe,0,0,0,,Atunci, se înțeleg bine frații?  
-Dialogue: 100,0:19:42.88,0:19:44.57,Dialogue,Kamil,0,0,0,,Nici la asta nu putem răspunde.  
-Dialogue: 100,0:19:44.96,0:19:47.12,Dialogue,Rishe,0,0,0,,Îmi pare rău pentru întrebările ciudate.  
-Dialogue: 100,0:19:47.12,0:19:47.95,Dialogue,Kamil,0,0,0,,Deloc.  
-Dialogue: 100,0:19:49.83,0:19:53.14,Dialogue,Rishe; internal,0,0,0,,{\i1}Va trebui să rezolv \Naceastă problemă în cele din urmă,  
-Dialogue: 100,0:19:53.14,0:19:55.58,Dialogue,Rishe; internal,0,0,0,,{\i1}dar momentan, negocierea cu șeful \Nest e prioritatea.  
-Dialogue: 100,0:19:56.34,0:19:57.91,Dialogue,Arnold,0,0,0,,Nu mă face să repet.  
-Dialogue: 100,0:19:58.32,0:20:00.88,Dialogue,Arnold,0,0,0,,Forța noastră militară va fi \Ndestinată protejării oamenilor.  
-Dialogue: 100,0:20:00.88,0:20:02.57,Dialogue,Arnold,0,0,0,,Decizia a fost deja luată.  
-Dialogue: 100,0:20:02.57,0:20:06.16,Dialogue,Earl in military affairs,0,0,0,,Ignorarea seniorilor locali pentru a \Nproteja cu blândețe oamenii de rând?  
-Dialogue: 100,0:20:06.16,0:20:07.78,Dialogue,Earl in military affairs,0,0,0,,Ce înseamnă asta?  
-Dialogue: 100,0:20:07.78,0:20:12.85,Dialogue,Arnold,0,0,0,,Nobilimea are armate proprii, iar \Nnațiunea le oferă fonduri pentru întreținere.  
-Dialogue: 100,0:20:12.85,0:20:14.03,Dialogue,Arnold,0,0,0,,Poți spune ce vrei.  
-Dialogue: 100,0:20:14.03,0:20:16.90,Dialogue,Earl in military affairs,0,0,0,,Alteța Voastră, vă rugăm să reconsiderați!  
-Dialogue: 100,0:20:17.43,0:20:21.99,Dialogue,Earl in military affairs,0,0,0,,Nu cred că tatăl dumneavoastră \Nva fi mulțumit de acest ordin.  
-Dialogue: 100,0:20:23.85,0:20:26.41,Dialogue,Arnold,0,0,0,,Nu voi discuta cu tine. Cunoaște-ți locul.  
-Dialogue: 100,0:20:33.54,0:20:35.33,Dialogue,Rishe,0,0,0,,Um...  
-Dialogue: 100,0:20:52.08,0:20:54.61,Dialogue,Arnold,0,0,0,,Voi trimite notificări separate seniorilor.  
-Dialogue: 100,0:20:54.61,0:20:56.68,Dialogue,Earl in military affairs,0,0,0,,Notificări?  
-Dialogue: 100,0:20:56.68,0:21:01.19,Dialogue,Arnold,0,0,0,,Tot ce trebuie este ca protejarea oamenilor \Nsă le convină, nu?  
-Dialogue: 100,0:21:01.59,0:21:07.22,Dialogue,Arnold,0,0,0,,Dacă trupele noastre se ocupă de protecția \Npoporului și le oferă siguranță,  
-Dialogue: 100,0:21:07.22,0:21:11.08,Dialogue,Arnold,0,0,0,,asta va duce la creșterea veniturilor \Ndin taxe, în beneficiul seniorilor.  
-Dialogue: 100,0:21:14.75,0:21:19.09,Dialogue,Earl in military affairs,0,0,0,,Dacă e așa, e probabil ca seniorii \Nsă accepte schimbarea.  
-Dialogue: 100,0:21:19.09,0:21:20.71,Dialogue,Arnold,0,0,0,,Această conversație s-a încheiat.  
-Dialogue: 100,0:21:25.90,0:21:28.28,Dialogue,Rishe,0,0,0,,Despăgubirile obținute prin război  
-Dialogue: 100,0:21:28.28,0:21:31.97,Dialogue,Rishe,0,0,0,,sunt reinvestite local în revitalizare \Nși creare de locuri de muncă.  
-Dialogue: 100,0:21:31.97,0:21:35.60,Dialogue,Rishe,0,0,0,,Această politică a fost creată de Arnold Hein.  
-Dialogue: 100,0:21:36.64,0:21:40.99,Dialogue,Rishe; internal,0,0,0,,{\i1}El introduce forțat politici \Nîn beneficiul poporului.  
-Dialogue: 100,0:21:41.48,0:21:45.56,Dialogue,Rishe; internal,0,0,0,,{\i1}Chiar este foarte diferit de \Nimpresiile pe care le aveam din viețile anterioare.  
-Dialogue: 100,0:21:48.74,0:21:51.18,Dialogue,Rishe,0,0,0,,Ei bine, noapte bună.  
-Dialogue: 100,0:21:51.18,0:21:52.49,Dialogue,Dennis; Kamil,0,0,0,,Noapte bună, domnișoară.  
-Dialogue: 100,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\an7\pos(6.409,261.138)\fs18}Îți voi încredința un secret.\NFii la capelă\Nesta seară la miezul nopții.  
-Dialogue: 100,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\pos(118.878,335.988)\fs18}Arnold Hein  
-Dialogue: 100,0:22:26.08,0:22:27.65,Dialogue,Rishe,0,0,0,,Bună seara,  
-Dialogue: 100,0:22:27.65,0:22:29.13,Dialogue,Rishe,0,0,0,,Prințule Theodore.  
-Dialogue: 100,0:22:30.58,0:22:32.03,Dialogue,Theodore,0,0,0,,Bună seara,  
-Dialogue: 100,0:22:32.42,0:22:34.10,Dialogue,Theodore,0,0,0,,draga mea soră mai mare.
+Dialogue: 99,0:00:00.90,0:00:04.10,Dialogue,Tully,0,0,0,,Permiteți-mi să vă felicit \Npentru logodna dumneavoastră.
+Dialogue: 99,0:00:04.31,0:00:07.61,Dialogue,Tully,0,0,0,,Sunt Kaine Tully, de la \NCompania Comercială Aria.
+Dialogue: 99,0:00:08.40,0:00:11.17,Dialogue,Rishe,0,0,0,,Eu sunt Rishe Irmgard Weitzner.
+Dialogue: 99,0:00:11.17,0:00:14.86,Dialogue,Rishe,0,0,0,,Vă mulțumesc că ați făcut un drum \Natât de lung pentru a mă întâlni.
+Dialogue: 99,0:00:16.99,0:00:19.92,Dialogue,Tully; background,0,0,0,,{\an8}E cu adevărat o perioadă minunată \Na anului, nu-i așa?
+Dialogue: 99,0:00:18.42,0:00:19.92,Dialogue,Rishe; internal,0,0,0,,{\i1}Este la fel de impunător cum îl țineam minte.
+Dialogue: 99,0:00:19.92,0:00:23.03,Dialogue,Rishe; internal,0,0,0,,{\i1}Doar o privire de-a lui mă face să simt \Ncă a văzut direct prin mine.
+Dialogue: 99,0:00:19.92,0:00:23.71,Dialogue,Tully; background,0,0,0,,{\an8}Lady Rishe, ați spus că nunta va avea \Nloc la mijlocul lunii a opta?
+Dialogue: 99,0:00:23.71,0:00:27.00,Dialogue,Rishe; internal,0,0,0,,{\i1}Dar cum îl cunosc bine, ar trebui să am avantajul.
+Dialogue: 99,0:00:23.71,0:00:27.00,Dialogue,Tully; background,0,0,0,,{\an8}Asta înseamnă că veți deveni o mireasă \Nsub cerul verii.
+Dialogue: 99,0:00:27.30,0:00:32.01,Dialogue,Tully; background,0,0,0,,{\an8}Să ai o femeie atât de frumoasă ca viitoare \Nmamă a țării...
+Dialogue: 99,0:00:27.30,0:00:32.01,Dialogue,Rishe; internal,0,0,0,,{\i1}Pentru a evita războiul și \Na trăi o viață lungă,
+Dialogue: 99,0:00:32.01,0:00:35.01,Dialogue,Tully; background,0,0,0,,{\an8}Trebuie să spun că îi invidiez pe \Ncei din Galkhein.
+Dialogue: 99,0:00:32.01,0:00:35.01,Dialogue,Rishe; internal,0,0,0,,{\i1}Voi avea nevoie de ajutorul tău, șefule!
+Dialogue: 99,0:00:36.89,0:00:41.94,Dialogue,Rishe,0,0,0,,Sunt sigură că ați aflat deja, dar \Nvă doresc ca tot ce va fi folosit la nunta mea
+Dialogue: 99,0:00:41.94,0:00:44.46,Dialogue,Rishe,0,0,0,,să fie achiziționat prin Compania Comercială Aria.
+Dialogue: 99,0:00:44.46,0:00:47.77,Dialogue,Tully,0,0,0,,Ei bine, ei bine! Nu vă imaginați cât \Napreciez o asemenea declarație.
+Dialogue: 99,0:00:47.77,0:00:51.34,Dialogue,Rishe,0,0,0,,Atunci, ar fi posibil \Nsă văd mărfurile chiar acum?
+Dialogue: 99,0:00:52.53,0:00:53.78,Dialogue,Tully,0,0,0,,Lady Rishe...
+Dialogue: 99,0:00:55.10,0:00:59.03,Dialogue,Tully,0,0,0,,Nu am niciun produs pe care să \Nvă doresc să vi-l vând.
+Dialogue: 99,0:02:32.36,0:02:35.58,Dialogue,Tully,0,0,0,,{\an8}Oh, iertați-mă. Se pare că m-ați înțeles greșit.
+Dialogue: 99,0:02:35.58,0:02:37.96,Dialogue,Tully,0,0,0,,{\an8}Totuși, este exact cum am spus.
+Dialogue: 99,0:02:37.96,0:02:42.01,Dialogue,Tully,0,0,0,,O doamnă ca dumneavoastră pur și simplu \Nnu poate deveni clienta noastră.
+Dialogue: 99,0:02:43.10,0:02:44.26,Dialogue,Rishe,0,0,0,,Pot întreba de ce?
+Dialogue: 99,0:02:44.59,0:02:49.77,Dialogue,Tully,0,0,0,,Produsele pe care le putem procura \Nnu se potrivesc cu nivelul dumneavoastră de determinare.
+Dialogue: 99,0:02:49.77,0:02:51.15,Dialogue,Rishe,0,0,0,,Determinare?
+Dialogue: 99,0:02:52.11,0:02:56.53,Dialogue,Tully,0,0,0,,Se pare că, dintr-un motiv sau altul, \Nvă puneți viața în joc pentru această tranzacție.
+Dialogue: 99,0:02:57.78,0:03:00.64,Dialogue,Tully,0,0,0,,Am cunoscut mulți oameni de-a lungul timpului,
+Dialogue: 99,0:03:00.64,0:03:05.03,Dialogue,Tully,0,0,0,,dar păreți să aveți o hotărâre mai puternică \Ndecât oricare dintre ei.
+Dialogue: 99,0:03:05.44,0:03:10.82,Dialogue,Tully,0,0,0,,Și totuși, nu faceți decât \Nsă cumpărați produse de nuntă de la un comerciant, nu?
+Dialogue: 99,0:03:11.36,0:03:13.68,Dialogue,Rishe,0,0,0,,Ei bine, e un eveniment unic în viață.
+Dialogue: 99,0:03:13.68,0:03:16.01,Dialogue,Rishe,0,0,0,,M-am lăsat dusă de val.
+Dialogue: 99,0:03:16.01,0:03:18.46,Dialogue,Rishe,0,0,0,,Sunt atât de lipsită de experiență. \NE destul de stânjenitor.
+Dialogue: 99,0:03:19.30,0:03:24.30,Dialogue,Tully,0,0,0,,Vă rog, fiți liniștită. Sunt sigur că \Nceremonia de nuntă va fi splendidă.
+Dialogue: 99,0:03:24.30,0:03:29.66,Dialogue,Tully,0,0,0,,Totuși, din păcate, mărfurile noastre \Nnu se ridică la nivelul necesar.
+Dialogue: 99,0:03:30.24,0:03:32.61,Dialogue,Tully,0,0,0,,Vă mulțumesc pentru ofertă. A fost o onoare.
+Dialogue: 99,0:03:32.61,0:03:34.31,Dialogue,Rishe,0,0,0,,D-Domnule Tully!
+Dialogue: 99,0:03:34.52,0:03:38.57,Dialogue,Tully,0,0,0,,Lăsând toate astea deoparte, Galkhein \Nest un loc cu adevărat impresionant, nu-i așa?
+Dialogue: 99,0:03:40.03,0:03:45.47,Dialogue,Tully,0,0,0,,Ne gândim să uităm de muncă pentru o vreme \Nși să petrecem câteva zile bucurându-ne de peisaj.
+Dialogue: 99,0:03:46.41,0:03:49.02,Dialogue,Rishe,0,0,0,,Vă rog, așteptați! Dacă am putea \Nvorbi puțin mai mult!
+Dialogue: 99,0:03:49.02,0:03:53.50,Dialogue,Tully,0,0,0,,Rămas bun, frumoasă viitoare prințesă moștenitoare.
+Dialogue: 99,0:04:09.16,0:04:10.72,Dialogue,Tully,0,0,0,,{\i1}Ascultă bine, Rishe.
+Dialogue: 99,0:04:11.22,0:04:13.72,Dialogue,Tully,0,0,0,,Devino o comerciantă care își poate alege clienții.
+Dialogue: 99,0:04:14.26,0:04:18.98,Dialogue,Tully,0,0,0,,Oferă produse sau valoare pe care \Nnumai prin noi le pot obține.
+Dialogue: 99,0:04:18.98,0:04:23.53,Dialogue,Tully,0,0,0,,Când vom face asta, atunci noi \Nvom fi cei care alegem clienții.
+Dialogue: 99,0:04:24.73,0:04:27.32,Dialogue,Rishe; internal,0,0,0,,{\i1}N-am reușit să-l fac pe șef să mă aleagă.
+Dialogue: 99,0:04:27.84,0:04:32.40,Dialogue,Rishe; internal,0,0,0,,{\i1}Dar voi avea nevoie de conexiunile lui când Compania \NAria se va extinde în toată lumea.
+Dialogue: 99,0:04:34.20,0:04:35.90,Dialogue,Kamil,0,0,0,,Um, Lady Rishe?
+Dialogue: 99,0:04:36.98,0:04:40.87,Dialogue,Kamil,0,0,0,,De ce lucrează viitoarea prințesă \Nmoștenitoare într-o grădină?
+Dialogue: 99,0:04:40.87,0:04:46.09,Dialogue,Rishe,0,0,0,,Prințul Arnold mi-a oferit această parcelă, \Nașa că m-am gândit să cultiv plante medicinale.
+Dialogue: 99,0:04:46.09,0:04:49.60,Dialogue,Rishe,0,0,0,,În funcție de cum le combin, voi putea \Nface tot felul de medicamente.
+Dialogue: 99,0:04:49.98,0:04:52.10,Dialogue,Kamil,0,0,0,,Înțeleg...
+Dialogue: 99,0:04:53.38,0:04:57.44,Dialogue,Rishe; internal,0,0,0,,{\i1}Totuși, a fost doar suspicios cu mine?
+Dialogue: 99,0:04:57.90,0:05:03.18,Dialogue,Rishe; internal,0,0,0,,{\i1}Este un om prudent, dar adoră și \Npariul „totul sau nimic”.
+Dialogue: 99,0:05:04.67,0:05:06.80,Dialogue,Rishe; internal,0,0,0,,{\i1}Să fi scăpat ceva din vedere?
+Dialogue: 99,0:05:08.77,0:05:14.08,Dialogue,Tully,0,0,0,,Ne gândim să uităm de muncă pentru o vreme \Nși să petrecem câteva zile bucurându-ne de peisaj.
+Dialogue: 99,0:05:15.47,0:05:17.76,Dialogue,Rishe,0,0,0,,Asta e tot pentru grădinăritul de azi.
+Dialogue: 99,0:05:17.76,0:05:19.25,Dialogue,Kamil,0,0,0,,D-Deja?
+Dialogue: 99,0:05:19.25,0:05:23.51,Dialogue,Rishe,0,0,0,,Merg să mă odihnesc în cameră. Vă \Nlas vouă să păziți coridoarele.
+Dialogue: 99,0:05:23.51,0:05:24.76,Dialogue,Kamil; Dennis,0,0,0,,D-Da, domnișoară!
+Dialogue: 99,0:05:28.09,0:05:31.01,Dialogue,Chester,0,0,0,,Totuși, ești sigur de asta, șefule?
+Dialogue: 99,0:05:31.01,0:05:33.89,Dialogue,Chester,0,0,0,,Renunți la o oportunitate de a \Ncâștiga o avere de la prințesa moștenitoare.
+Dialogue: 99,0:05:33.89,0:05:38.44,Dialogue,Tully,0,0,0,,Prostule. Dacă am accepta-o \Npe acea doamnă ca și clientă, am avea pierderi mari.
+Dialogue: 99,0:05:41.90,0:05:44.51,Dialogue,Rishe,0,0,0,,Bine ați revenit, domnule Tully.
+Dialogue: 99,0:05:43.28,0:05:45.03,Dialogue,traders,0,0,0,,{\an8}Nu mai pot bea.
+Dialogue: 99,0:05:45.03,0:05:47.03,Dialogue,traders,0,0,0,,{\an8}Ai câștigat, domnișoară.
+Dialogue: 99,0:05:47.84,0:05:51.91,Dialogue,Tully,0,0,0,,Mă așteptam să ne vizitați curând, \Ndar așa ceva?
+Dialogue: 99,0:05:51.91,0:05:55.73,Dialogue,Rishe,0,0,0,,Deci, aceea chiar a fost o invitație.
+Dialogue: 99,0:05:55.73,0:05:56.98,Dialogue,Rishe,0,0,0,,Sunt onorată.
+Dialogue: 99,0:05:59.24,0:06:01.29,Dialogue,Tully,0,0,0,,Sunt uimit.
+Dialogue: 99,0:06:01.29,0:06:04.19,Dialogue,Tully,0,0,0,,Să-ți învingi oamenii \Nla băutură în timp ce așteptai?
+Dialogue: 99,0:06:04.19,0:06:08.63,Dialogue,Rishe,0,0,0,,Sunt atât de amabili, că băutura \Na tot curs fără să-mi dau seama.
+Dialogue: 99,0:06:08.63,0:06:12.26,Dialogue,Tully,0,0,0,,Lăsând asta deoparte, acea vopsea \Ns-a prins foarte frumos în părul tău.
+Dialogue: 99,0:06:12.72,0:06:15.70,Dialogue,Rishe,0,0,0,,Culoarea părului meu tinde să \Niasă în evidență, știi.
+Dialogue: 99,0:06:16.77,0:06:21.87,Dialogue,Rishe,0,0,0,,Dacă ți-aș spune că îți vând metoda, \Nai fi deschis la negocieri cu mine?
+Dialogue: 99,0:06:22.66,0:06:24.15,Dialogue,Tully,0,0,0,,Niciodată!
+Dialogue: 99,0:06:24.15,0:06:28.65,Dialogue,Tully,0,0,0,,La urma urmei, ai adus ceva și \Nmai valoros decât atât, nu-i așa?
+Dialogue: 99,0:06:30.16,0:06:34.43,Dialogue,Tully,0,0,0,,Și acum, exact cum ți-ai dorit, \Nvom începe negocierile noastre.
+Dialogue: 99,0:06:34.43,0:06:36.09,Dialogue,Tully,0,0,0,,Să începem cu un pahar.
+Dialogue: 99,0:06:36.09,0:06:37.58,Dialogue,Rishe,0,0,0,,Doar un lucru înainte.
+Dialogue: 99,0:06:38.11,0:06:41.79,Dialogue,Rishe,0,0,0,,Cât timp suntem aici, te rog, vorbește liber.
+Dialogue: 99,0:06:42.19,0:06:46.55,Dialogue,Rishe; internal,0,0,0,,{\i1}Când vorbește atât de formal cu mine, \Nmă dezechilibrează.
+Dialogue: 99,0:06:46.55,0:06:49.55,Dialogue,Tully,0,0,0,,Ei bine, dacă insiști.
+Dialogue: 99,0:06:55.98,0:07:03.46,Dialogue,Tully,0,0,0,,Așadar, domnișoară, \Ngata cu această poveste cu „vreau o rochie de nuntă”, da?
+Dialogue: 99,0:07:03.46,0:07:08.00,Dialogue,Rishe,0,0,0,,Desigur. E evident că astfel de \Ntrucuri nu vor merge cu dumneavoastră.
+Dialogue: 99,0:07:08.00,0:07:09.36,Dialogue,Tully,0,0,0,,Bine.
+Dialogue: 99,0:07:09.80,0:07:12.36,Dialogue,Tully,0,0,0,,Intuiția mea îmi spune ceva.
+Dialogue: 99,0:07:12.62,0:07:17.62,Dialogue,Tully,0,0,0,,Lady Rishe, îmi spune că ar trebui să \Nvă privesc nu ca pe o clientă, ci ca pe un partener.
+Dialogue: 99,0:07:18.14,0:07:21.03,Dialogue,Tully,0,0,0,,Nu voi participa la niciun plan \Ndacă nu cunosc întreaga sa amploare.
+Dialogue: 99,0:07:21.03,0:07:25.31,Dialogue,Tully,0,0,0,,Dar nu-ți face griji, în ciuda aparențelor, \Nsunt foarte dedicat muncii mele.
+Dialogue: 99,0:07:25.31,0:07:31.13,Dialogue,Tully,0,0,0,,Îți pot promite orice profituri, ba nu, \Nchiar mai mari decât îți imaginezi.
+Dialogue: 99,0:07:31.13,0:07:36.26,Dialogue,Tully,0,0,0,,Acum, ce-ai zice să spui fiecare detaliu \Ndin această schemă de făcut bani!
+Dialogue: 99,0:07:37.19,0:07:38.27,Dialogue,Rishe,0,0,0,,Nu pot să-ți spun.
+Dialogue: 99,0:07:38.99,0:07:39.80,Dialogue,Tully,0,0,0,,Ce?
+Dialogue: 99,0:07:40.61,0:07:43.63,Dialogue,Rishe,0,0,0,,Nu pot să-ți spun planul meu.
+Dialogue: 99,0:07:43.63,0:07:48.28,Dialogue,Rishe,0,0,0,,Chiar și așa, vreau ca \NCompania Aria să fie de partea mea.
+Dialogue: 99,0:07:48.28,0:07:51.58,Dialogue,Tully,0,0,0,,Spui cele mai interesante lucruri, domnișoară.
+Dialogue: 99,0:07:52.31,0:07:55.21,Dialogue,Tully,0,0,0,,Vrei să semnez un contract \Nfără să mi se spună nimic,
+Dialogue: 99,0:07:55.21,0:07:57.01,Dialogue,Tully,0,0,0,,și nici măcar nu e sigur \Ncă voi obține profit.
+Dialogue: 99,0:07:57.01,0:08:00.27,Dialogue,Tully,0,0,0,,Acesta este genul de ofertă \Npe care comercianții o detestă cel mai mult.
+Dialogue: 99,0:08:00.27,0:08:02.47,Dialogue,Rishe,0,0,0,,Desigur, voi pregăti o compensație.
+Dialogue: 99,0:08:02.47,0:08:07.29,Dialogue,Tully,0,0,0,,Vrei să am încredere doar în ceea ce spui, \Ncă voi obține un câștig? O idee minunată!
+Dialogue: 99,0:08:07.70,0:08:09.54,Dialogue,Rishe; internal,0,0,0,,{\i1}În următorii câțiva ani,
+Dialogue: 99,0:08:09.54,0:08:12.67,Dialogue,Rishe; internal,0,0,0,,{\i1}prințul moștenitor al acestei națiuni \Nva porni războaie împotriva altora,
+Dialogue: 99,0:08:12.67,0:08:17.55,Dialogue,Rishe; internal,0,0,0,,{\i1}și eu formulez un plan pentru a-l opri... dar \Nnu pot să-i spun asta.
+Dialogue: 99,0:08:17.55,0:08:19.27,Dialogue,Tully,0,0,0,,Ascultă bine, domnișoară,
+Dialogue: 99,0:08:19.27,0:08:22.94,Dialogue,Tully,0,0,0,,Am mare încredere în intuiția mea,
+Dialogue: 99,0:08:22.94,0:08:25.69,Dialogue,Tully,0,0,0,,dar ceea ce consider chiar \Nmai important sunt rezultatele și—
+Dialogue: 99,0:08:25.69,0:08:28.23,Dialogue,Rishe; overlapped,0,0,0,,Rezultatele și dovezile clare, nu-i așa?
+Dialogue: 99,0:08:30.05,0:08:34.84,Dialogue,Rishe,0,0,0,,Mă voi gândi la o afacere care \Nva avea succes aici în capitală.
+Dialogue: 99,0:08:34.84,0:08:38.69,Dialogue,Rishe,0,0,0,,Dacă atunci veți considera că merit \Nîncrederea dumneavoastră,
+Dialogue: 99,0:08:38.69,0:08:41.66,Dialogue,Rishe,0,0,0,,atunci pot să vă rog să \Nreevaluați decizia de azi?
+Dialogue: 99,0:08:47.46,0:08:48.84,Dialogue,Tully,0,0,0,,Îmi place!
+Dialogue: 99,0:08:48.84,0:08:51.61,Dialogue,Tully,0,0,0,,Spui că dacă ideea ta \Npare să aducă profit,
+Dialogue: 99,0:08:51.61,0:08:53.66,Dialogue,Tully,0,0,0,,atunci vrei să te recunosc ca partener.
+Dialogue: 99,0:08:53.66,0:08:55.59,Dialogue,Tully,0,0,0,,That's exactly the sort of thing I like.
+Dialogue: 99,0:08:55.59,0:08:57.84,Dialogue,Rishe; internal,0,0,0,,{\i1}Da, știu asta foarte bine.
+Dialogue: 99,0:08:58.07,0:09:02.46,Dialogue,Tully,0,0,0,,You have a week. I'm looking \Nforward to this, milady.
+Dialogue: 99,0:09:02.46,0:09:04.45,Dialogue,Rishe,0,0,0,,Atunci e o promisiune.
+Dialogue: 99,0:09:08.64,0:09:10.63,Dialogue,Rishe,0,0,0,,Thank you for your time.
+Dialogue: 99,0:09:10.63,0:09:15.13,Dialogue,Rishe,0,0,0,,Și când toți se trezesc, te rog \Nsă le dai această doctorie.
+Dialogue: 99,0:09:16.61,0:09:18.12,Dialogue,Tully,0,0,0,,What is it?
+Dialogue: 99,0:09:18.12,0:09:21.24,Dialogue,Rishe,0,0,0,,Cred că vei înțelege \Nrepede după ce o folosești.
+Dialogue: 99,0:09:27.93,0:09:30.63,Dialogue,Rishe,0,0,0,,It isn't a simple thing to \Nsneak out of this place.
+Dialogue: 99,0:09:37.95,0:09:39.51,Dialogue,Arnold,0,0,0,,Ai fost plecată până târziu.
+Dialogue: 99,0:09:40.61,0:09:42.76,Dialogue,Rishe,0,0,0,,Your Highness, why are you here?
+Dialogue: 99,0:09:42.76,0:09:45.50,Dialogue,Arnold,0,0,0,,Am auzit că oferta ta \Nde schimb a fost refuzată.
+Dialogue: 99,0:09:46.70,0:09:48.58,Dialogue,Arnold,0,0,0,,It's a strange story.
+Dialogue: 99,0:09:48.58,0:09:53.61,Dialogue,Arnold,0,0,0,,Un simplu negustor care refuză o cerere \Na unei viitoare prințese moștenitoare?
+Dialogue: 99,0:09:55.48,0:09:58.22,Dialogue,Arnold,0,0,0,,I'm the one who said to \Nspend your time as you like.
+Dialogue: 99,0:09:58.22,0:10:02.03,Dialogue,Arnold,0,0,0,,De aceea cred că ar fi \Nnejustificat din partea mea să-ți critic acțiunile,
+Dialogue: 99,0:10:02.03,0:10:04.09,Dialogue,Arnold,0,0,0,,so I awaited your return instead. However...
+Dialogue: 99,0:10:37.36,0:10:43.69,Dialogue,Arnold,0,0,0,,Deci chiar și tu arăți așa \Ncând te afli singură cu un bărbat, noaptea.
+Dialogue: 99,0:10:49.80,0:10:52.88,Dialogue,Rishe,0,0,0,,I... îmi pare foarte rău.
+Dialogue: 99,0:10:54.50,0:11:00.07,Dialogue,Rishe,0,0,0,,Să plec singură din vilă noaptea \Nnu e potrivit pentru logodnica ta.
+Dialogue: 99,0:11:00.07,0:11:01.62,Dialogue,Rishe,0,0,0,,If your reputation were damaged because—
+Dialogue: 99,0:11:01.62,0:11:03.31,Dialogue,Arnold,0,0,0,,Nu mă interesează asta.
+Dialogue: 99,0:11:06.23,0:11:08.02,Dialogue,Arnold,0,0,0,,Nu ești rănită, nu?
+Dialogue: 99,0:11:08.24,0:11:08.86,Dialogue,Rishe,0,0,0,,Ce?
+Dialogue: 99,0:11:10.00,0:11:12.52,Dialogue,Rishe,0,0,0,,Nu, nu sunt.
+Dialogue: 99,0:11:14.73,0:11:18.69,Dialogue,Arnold,0,0,0,,De acum încolo, de fiecare dată când vei merge \Nîn oraș, voi merge cu tine.
+Dialogue: 99,0:11:18.69,0:11:19.26,Dialogue,Rishe,0,0,0,,Ce?
+Dialogue: 99,0:11:19.70,0:11:22.53,Dialogue,Arnold,0,0,0,,Ți-am spus. Ești liberă să faci ce dorești.
+Dialogue: 99,0:11:22.53,0:11:25.47,Dialogue,Arnold,0,0,0,,Ți-am mai spus că te \Nvoi ajuta în asta.
+Dialogue: 99,0:11:25.47,0:11:29.80,Dialogue,Rishe,0,0,0,,Oh, dar... Nu aș putea cere ca \NAlteta Ta să-mi tolereze egoismul!
+Dialogue: 99,0:11:29.80,0:11:32.06,Dialogue,Arnold,0,0,0,,Am zis că ești liberă să faci ce dorești.
+Dialogue: 99,0:11:32.06,0:11:34.58,Dialogue,Arnold,0,0,0,,Nu am spus că ești liberă \Nsă te pui în pericol.
+Dialogue: 99,0:11:36.29,0:11:37.17,Dialogue,Arnold,0,0,0,,Ce este?
+Dialogue: 99,0:11:37.48,0:11:39.67,Dialogue,Rishe,0,0,0,,Ești mult prea indulgent cu mine.
+Dialogue: 99,0:11:41.15,0:11:42.43,Dialogue,Arnold,0,0,0,,Ei bine, fiind tu,
+Dialogue: 99,0:11:42.89,0:11:45.87,Dialogue,Arnold,0,0,0,,dacă aș încerca să te opresc spunând că \Nnu ai voie să mai mergi în oraș,
+Dialogue: 99,0:11:45.87,0:11:47.84,Dialogue,Arnold,0,0,0,,ai pleca pe furiș \Ndin nou, nu-i așa?
+Dialogue: 99,0:11:48.42,0:11:50.23,Dialogue,Arnold,0,0,0,,Chiar și dacă ar însemna să-ți vopsești părul.
+Dialogue: 99,0:11:50.99,0:11:55.19,Dialogue,Arnold,0,0,0,,A da permisiunea cu condiții \Npare mai eficient ca restricție.
+Dialogue: 99,0:11:55.19,0:11:58.19,Dialogue,Rishe,0,0,0,,Sunt chiar așa de ușor de înțeles?
+Dialogue: 99,0:11:58.19,0:11:59.11,Dialogue,Arnold,0,0,0,,Deloc.
+Dialogue: 99,0:11:59.64,0:12:03.75,Dialogue,Arnold,0,0,0,,Ești genul atât de greu de \Nînțeles încât nu pot să te anticipez deloc.
+Dialogue: 99,0:12:05.60,0:12:07.44,Dialogue,Rishe,0,0,0,,Te distrezi, nu-i așa?
+Dialogue: 99,0:12:07.44,0:12:09.74,Dialogue,Rishe,0,0,0,,Tu și șeful, amândoi.
+Dialogue: 99,0:12:10.36,0:12:11.72,Dialogue,Arnold,0,0,0,,Șeful?
+Dialogue: 99,0:12:12.40,0:12:15.96,Dialogue,Arnold,0,0,0,,Ce s-a întâmplat între tine \Nși Compania Comercială Aria?
+Dialogue: 99,0:12:18.68,0:12:19.69,Dialogue,Rishe,0,0,0,,Alteta Ta?
+Dialogue: 99,0:12:19.69,0:12:20.59,Dialogue,Arnold,0,0,0,,Da?
+Dialogue: 99,0:12:21.01,0:12:23.09,Dialogue,Rishe,0,0,0,,Îți este cumva foame?
+Dialogue: 99,0:13:00.80,0:13:03.24,Dialogue,Rishe,0,0,0,,Um, A-Alteta Ta?
+Dialogue: 99,0:13:04.39,0:13:06.73,Dialogue,Rishe,0,0,0,,Este ceva pentru care trebuie să-mi cer scuze.
+Dialogue: 99,0:13:06.73,0:13:07.64,Dialogue,Arnold,0,0,0,,Ce este?
+Dialogue: 99,0:13:09.20,0:13:13.99,Dialogue,Rishe,0,0,0,,Îmi pare atât de rău, deși \Neu am fost cea care a propus asta...
+Dialogue: 99,0:13:14.58,0:13:15.71,Dialogue,Rishe,0,0,0,,Eu, um...
+Dialogue: 99,0:13:16.65,0:13:19.88,Dialogue,Rishe,0,0,0,,Gătesc groaznic!
+Dialogue: 99,0:13:23.28,0:13:24.30,Dialogue,Arnold,0,0,0,,Înțeleg.
+Dialogue: 99,0:13:25.07,0:13:27.08,Dialogue,Rishe,0,0,0,,Îmi pare foarte rău.
+Dialogue: 99,0:13:27.08,0:13:31.99,Dialogue,Arnold,0,0,0,,Ei bine, e ceva rar ca o \Ndomnișoară nobilă să știe să gătească.
+Dialogue: 99,0:13:33.28,0:13:39.09,Dialogue,Rishe; internal,0,0,0,,{\i1}În viețile mele anterioare, mesele erau doar momente \Nîn care îmi umpleam stomacul.
+Dialogue: 99,0:13:39.99,0:13:43.00,Dialogue,Rishe,0,0,0,,Nu cred că această supă va \Nfi pe placul Alteței Voastre.
+Dialogue: 99,0:13:46.99,0:13:48.01,Dialogue,Arnold,0,0,0,,E bună.
+Dialogue: 99,0:13:48.01,0:13:48.79,Dialogue,Rishe,0,0,0,,Ce?
+Dialogue: 99,0:13:50.00,0:13:51.76,Dialogue,Arnold,0,0,0,,Această supă este perfectă.
+Dialogue: 99,0:13:53.19,0:13:56.50,Dialogue,Rishe; internal,0,0,0,,{\i1}Nu cred că poate face diferența \Nîntre gust bun și rău.
+Dialogue: 99,0:13:55.64,0:13:56.50,Dialogue,Arnold,0,0,0,,{\an8}Hei.
+Dialogue: 99,0:13:56.50,0:13:58.90,Dialogue,Arnold,0,0,0,,Te gândești la ceva \Nnepoliticos, nu-i așa?
+Dialogue: 99,0:13:58.90,0:14:00.88,Dialogue,Rishe,0,0,0,,Nu, deloc!
+Dialogue: 99,0:14:02.33,0:14:04.06,Dialogue,Rishe,0,0,0,,Mulțumesc.
+Dialogue: 99,0:14:04.06,0:14:06.02,Dialogue,Arnold,0,0,0,,E vina ta că mi-e foame.
+Dialogue: 99,0:14:06.47,0:14:08.12,Dialogue,Arnold,0,0,0,,Haide să așezăm masa.
+Dialogue: 99,0:14:08.69,0:14:09.66,Dialogue,Rishe,0,0,0,,Desigur!
+Dialogue: 99,0:14:12.26,0:14:13.66,Dialogue,Rishe,0,0,0,,Tocmai de aceea...
+Dialogue: 99,0:14:13.89,0:14:18.23,Dialogue,Rishe,0,0,0,,Acum trebuie să propun o nouă \Nidee de afacere în decurs de o săptămână.
+Dialogue: 99,0:14:20.04,0:14:21.21,Dialogue,Arnold,0,0,0,,Înțeleg.
+Dialogue: 99,0:14:21.21,0:14:22.56,Dialogue,Rishe,0,0,0,,Adică?
+Dialogue: 99,0:14:22.56,0:14:24.67,Dialogue,Arnold,0,0,0,,Am spus că înțeleg.
+Dialogue: 99,0:14:24.67,0:14:27.30,Dialogue,Arnold,0,0,0,,Am înțeles ce vrei să faci.
+Dialogue: 99,0:14:28.46,0:14:33.81,Dialogue,Rishe,0,0,0,,Nu o să mă întrebi pentru ce \Nplănuiesc să folosesc Compania Aria?
+Dialogue: 99,0:14:34.07,0:14:36.89,Dialogue,Arnold,0,0,0,,Ai ținut asta secret față de \Ncompanie, nu-i așa?
+Dialogue: 99,0:14:36.89,0:14:39.06,Dialogue,Arnold,0,0,0,,Atunci, nu-mi imaginez că mi-ai spune mie.
+Dialogue: 99,0:14:39.06,0:14:40.86,Dialogue,Rishe,0,0,0,,Așa este, dar...
+Dialogue: 99,0:14:41.32,0:14:44.60,Dialogue,Arnold,0,0,0,,Te-ai decis asupra afacerii \Nsau ideii la care te gândești?
+Dialogue: 99,0:14:44.60,0:14:46.48,Dialogue,Rishe,0,0,0,,Am câteva idei.
+Dialogue: 99,0:14:46.48,0:14:49.07,Dialogue,Rishe,0,0,0,,Dar nu știu \Ndacă vreuna va funcționa.
+Dialogue: 99,0:14:49.64,0:14:52.22,Dialogue,Rishe,0,0,0,,Ce fel de oameni trăiesc în capitală?
+Dialogue: 99,0:14:52.22,0:14:54.33,Dialogue,Rishe,0,0,0,,Ce lucruri le plac?
+Dialogue: 99,0:14:54.33,0:14:56.88,Dialogue,Rishe,0,0,0,,E o grămadă de \Nlucruri pe care trebuie să le cercetez.
+Dialogue: 99,0:14:56.88,0:14:59.51,Dialogue,Arnold,0,0,0,,Spui că va fi o luptă dificilă.
+Dialogue: 99,0:14:59.51,0:15:00.35,Dialogue,Rishe,0,0,0,,Da.
+Dialogue: 99,0:15:05.13,0:15:07.59,Dialogue,Rishe,0,0,0,,Îți place asta, nu-i așa?
+Dialogue: 99,0:15:08.38,0:15:09.74,Dialogue,Arnold,0,0,0,,Fă cum dorești.
+Dialogue: 99,0:15:10.28,0:15:11.92,Dialogue,Arnold,0,0,0,,Trebuie să plec.
+Dialogue: 99,0:15:11.92,0:15:13.96,Dialogue,Rishe,0,0,0,,Desigur. Noapte bună.
+Dialogue: 99,0:15:17.35,0:15:19.27,Dialogue,Rishe,0,0,0,,Ceva nu e în regulă?
+Dialogue: 99,0:15:19.65,0:15:21.62,Dialogue,Arnold,0,0,0,,L-ai întâlnit pe fratele meu mai mic?
+Dialogue: 99,0:15:21.62,0:15:24.35,Dialogue,Rishe,0,0,0,,Fratele mai mic al Alteței Voastre? Nu.
+Dialogue: 99,0:15:24.35,0:15:25.52,Dialogue,Arnold,0,0,0,,Mă bucur.
+Dialogue: 99,0:15:25.75,0:15:28.82,Dialogue,Arnold,0,0,0,,Dacă se apropie de tine, nu-i răspunde.
+Dialogue: 99,0:15:28.82,0:15:30.28,Dialogue,Rishe,0,0,0,,Este ceva ce ar trebui să știu?
+Dialogue: 99,0:15:30.28,0:15:32.18,Dialogue,Arnold,0,0,0,,Nu e nevoie să știi.
+Dialogue: 99,0:15:52.08,0:15:54.40,Dialogue,Rishe; internal,0,0,0,,{\i1}Populația acestui oraș, \Nraportul bărbați-femei,  
+Dialogue: 99,0:15:54.40,0:15:57.27,Dialogue,Rishe; internal,0,0,0,,{\i1}și distribuția pe vârste sunt \Ninformațiile minime de care am nevoie.  
+Dialogue: 99,0:15:57.27,0:15:59.18,Dialogue,Rishe; internal,0,0,0,,{\i1}Schimbările în dezvoltarea sa economică...  
+Dialogue: 99,0:15:59.18,0:16:01.31,Dialogue,Rishe; internal,0,0,0,,{\i1}starea regiunilor învecinate...  
+Dialogue: 99,0:16:01.31,0:16:04.94,Dialogue,Rishe; internal,0,0,0,,{\i1}informații despre comercianții și călătorii \Ncare intră și ies, de asemenea...  
+Dialogue: 99,0:16:07.36,0:16:10.77,Dialogue,Rishe; internal,0,0,0,,{\i1}Grădinăresc dimineața, verific \Nmaterialele de predare după-amiaza,  
+Dialogue: 99,0:16:10.77,0:16:13.45,Dialogue,Rishe; internal,0,0,0,,{\i1}și trebuie să mă pregătesc și pentru \Nceremonia de nuntă.  
+Dialogue: 99,0:16:13.45,0:16:15.75,Dialogue,Rishe; internal,0,0,0,,{\i1}Nu voi dormi sau mă voi odihni prea curând!  
+Dialogue: 99,0:16:17.14,0:16:18.95,Dialogue,Oliver,0,0,0,,O gustare la miezul nopții? Dumneavoastră, sire?  
+Dialogue: 99,0:16:18.95,0:16:20.03,Dialogue,Arnold,0,0,0,,Și ce dacă?  
+Dialogue: 99,0:16:20.03,0:16:21.00,Dialogue,Oliver,0,0,0,,Nimic.  
+Dialogue: 99,0:16:21.00,0:16:24.00,Dialogue,Oliver,0,0,0,,Lady Rishe trebuie să fie o bucătăreasă excelentă.  
+Dialogue: 99,0:16:24.68,0:16:27.21,Dialogue,Arnold,0,0,0,,A spus că este groaznică la gătit...  
+Dialogue: 99,0:16:27.61,0:16:28.66,Dialogue,Arnold,0,0,0,,dar a fost bun.  
+Dialogue: 99,0:16:30.84,0:16:31.56,Dialogue,Arnold,0,0,0,,Hei.  
+Dialogue: 99,0:16:31.96,0:16:36.35,Dialogue,Arnold,0,0,0,,Este normal să adaugi plante medicinale \Nîn supă?  
+Dialogue: 99,0:16:36.79,0:16:38.23,Dialogue,Oliver,0,0,0,,În supă?  
+Dialogue: 99,0:16:38.23,0:16:40.60,Dialogue,Oliver,0,0,0,,Nu, nu se face de obicei.  
+Dialogue: 99,0:16:42.08,0:16:42.98,Dialogue,Arnold,0,0,0,,Înțeleg.  
+Dialogue: 99,0:16:48.67,0:16:51.86,Dialogue,Kamil,0,0,0,,Nu ai reușit să te odihnești bine aseară?  
+Dialogue: 99,0:16:51.86,0:16:54.34,Dialogue,Rishe,0,0,0,,Făceam niște cercetări.  
+Dialogue: 99,0:16:54.34,0:16:56.70,Dialogue,Kamil,0,0,0,,Te rog, nu te forța prea tare.  
+Dialogue: 99,0:17:00.57,0:17:03.33,Dialogue,Dennis,0,0,0,,Lady Rishe! Vă rog, dați-vă înapoi!  
+Dialogue: 99,0:17:03.33,0:17:04.78,Dialogue,Dennis,0,0,0,,Hai să ne întoarcem în cameră.  
+Dialogue: 99,0:17:06.89,0:17:09.68,Dialogue,Rishe; internal,0,0,0,,{\i1}Părul negru este rar pe acest continent.  
+Dialogue: 99,0:17:09.68,0:17:10.90,Dialogue,Dennis,0,0,0,,Lady Rishe!  
+Dialogue: 99,0:17:12.74,0:17:13.95,Dialogue,Theodore,0,0,0,,Rishe?  
+Dialogue: 99,0:17:13.95,0:17:14.75,Dialogue,Dennis,0,0,0,,Oh, nu!  
+Dialogue: 99,0:17:17.68,0:17:20.05,Dialogue,Theodore,0,0,0,,Ești logodnica fratelui meu mai mare...  
+Dialogue: 99,0:17:23.50,0:17:26.52,Dialogue,Theodore,0,0,0,,Încântat de cunoștință, sora mea frumoasă!  
+Dialogue: 99,0:17:27.94,0:17:29.81,Dialogue,Theodore,0,0,0,,În sfârșit ne întâlnim!  
+Dialogue: 99,0:17:29.81,0:17:33.04,Dialogue,Theodore,0,0,0,,Am trimis atâtea scrisori \Nspunând că vreau să te cunosc,  
+Dialogue: 99,0:17:33.04,0:17:35.79,Dialogue,Theodore,0,0,0,,dar fratele meu nu a răspuns nici măcar o dată.  
+Dialogue: 99,0:17:35.79,0:17:37.07,Dialogue,Theodore,0,0,0,,Nu e crud din partea lui?  
+Dialogue: 99,0:17:40.16,0:17:43.08,Dialogue,Theodore,0,0,0,,Nu trebuie să fii atât de tensionată.  
+Dialogue: 99,0:17:44.14,0:17:46.07,Dialogue,Theodore,0,0,0,,Eu sunt Theodore.  
+Dialogue: 99,0:17:46.07,0:17:48.06,Dialogue,Theodore,0,0,0,,Theodore Auguste Hein.  
+Dialogue: 99,0:17:48.06,0:17:52.34,Dialogue,Theodore,0,0,0,,Sunt al doilea în linia de succesiune \Nși fratele mai mic al lui Arnold Hein.  
+Dialogue: 99,0:17:52.74,0:17:55.65,Dialogue,Rishe; internal,0,0,0,,{\i1}Mi s-a spus să nu petrec \Ntimp cu el, dar...  
+Dialogue: 99,0:17:58.65,0:18:00.61,Dialogue,Rishe,0,0,0,,Sunt onorată să te cunosc.  
+Dialogue: 99,0:18:00.61,0:18:03.19,Dialogue,Rishe,0,0,0,,Numele meu este Rishe Irmgard Weitzner.  
+Dialogue: 99,0:18:03.92,0:18:09.00,Dialogue,Rishe,0,0,0,,O întorsătură a sorții m-a adus în \Ncea mai joasă poziție a familiei imperiale.  
+Dialogue: 99,0:18:09.00,0:18:11.14,Dialogue,Rishe,0,0,0,,Sper că ne vom înțelege bine.  
+Dialogue: 99,0:18:11.14,0:18:13.86,Dialogue,Theodore,0,0,0,,Mă întrebam, ce faci aici, \Nsora mea dragă?  
+Dialogue: 99,0:18:13.86,0:18:17.36,Dialogue,Rishe,0,0,0,,Această parcelă de grădină e creată de mine.  
+Dialogue: 99,0:18:17.36,0:18:18.88,Dialogue,Theodore,0,0,0,,Ai făcut-o tu?  
+Dialogue: 99,0:18:18.88,0:18:21.30,Dialogue,Theodore,0,0,0,,Minunat!  
+Dialogue: 99,0:18:21.30,0:18:23.91,Dialogue,Theodore,0,0,0,,E rar să găsești un strat atât de pufos!  
+Dialogue: 99,0:18:24.38,0:18:27.67,Dialogue,Theodore,0,0,0,,Dar e ceva ce mă deranjează.  
+Dialogue: 99,0:18:27.67,0:18:28.92,Dialogue,Theodore,0,0,0,,Poți să te uiți aici pentru mine?  
+Dialogue: 99,0:18:28.92,0:18:30.92,Dialogue,Rishe,0,0,0,,Ceva nu este în regulă?  
+Dialogue: 99,0:18:31.33,0:18:32.61,Dialogue,Theodore,0,0,0,,Vezi? Chiar aici.  
+Dialogue: 99,0:18:33.72,0:18:35.26,Dialogue,Rishe,0,0,0,,Ei bine...  
+Dialogue: 99,0:18:36.61,0:18:38.09,Dialogue,Theodore,0,0,0,,Vreau să te salvez.  
+Dialogue: 99,0:18:40.80,0:18:44.84,Dialogue,Theodore,0,0,0,,Săraca de tine. Târâtă \Npână într-un loc ca ăsta.  
+Dialogue: 99,0:18:44.84,0:18:48.43,Dialogue,Theodore,0,0,0,,Nu ești cu adevărat o mireasă. Ești ostatică.  
+Dialogue: 99,0:18:50.36,0:18:51.81,Dialogue,Rishe,0,0,0,,Sunt conștientă.  
+Dialogue: 99,0:18:51.81,0:18:52.86,Dialogue,Theodore,0,0,0,,Ești?  
+Dialogue: 99,0:18:53.75,0:18:58.15,Dialogue,Rishe,0,0,0,,Prințul Arnold este mai mult decât \Nconsiderat cu mine.  
+Dialogue: 99,0:18:59.65,0:19:00.83,Dialogue,Theodore,0,0,0,,Înțeleg.  
+Dialogue: 99,0:19:04.28,0:19:07.18,Dialogue,Theodore,0,0,0,,Mă bucur că te-am putut \Nvedea azi! Ne mai vedem.  
+Dialogue: 99,0:19:13.18,0:19:16.17,Dialogue,Rishe; internal,0,0,0,,{\i1}Al doilea în linia de succesiune?  
+Dialogue: 99,0:19:16.17,0:19:20.00,Dialogue,Rishe; internal,0,0,0,,{\i1}Asta nu e ceva ce spui \Ncând te prezinți logodnicei fratelui tău.  
+Dialogue: 99,0:19:23.52,0:19:25.68,Dialogue,Rishe,0,0,0,,Poate că nu are legătură,  
+Dialogue: 99,0:19:25.68,0:19:29.63,Dialogue,Rishe,0,0,0,,dar mai devreme nu păreați \Nvă comportați normal.  
+Dialogue: 99,0:19:30.24,0:19:33.81,Dialogue,Rishe,0,0,0,,Aveți ordine să nu mă lăsați \Nsă mă apropii de fratele său mai mic?  
+Dialogue: 99,0:19:34.25,0:19:37.52,Dialogue,Kamil,0,0,0,,Asta nu este ceva ce \Nam putea să vă spunem.  
+Dialogue: 99,0:19:37.52,0:19:41.15,Dialogue,Rishe,0,0,0,,Atunci, se înțeleg bine frații?  
+Dialogue: 99,0:19:42.88,0:19:44.57,Dialogue,Kamil,0,0,0,,Nici la asta nu putem răspunde.  
+Dialogue: 99,0:19:44.96,0:19:47.12,Dialogue,Rishe,0,0,0,,Îmi pare rău pentru întrebările ciudate.  
+Dialogue: 99,0:19:47.12,0:19:47.95,Dialogue,Kamil,0,0,0,,Deloc.  
+Dialogue: 99,0:19:49.83,0:19:53.14,Dialogue,Rishe; internal,0,0,0,,{\i1}Va trebui să rezolv \Naceastă problemă în cele din urmă,  
+Dialogue: 99,0:19:53.14,0:19:55.58,Dialogue,Rishe; internal,0,0,0,,{\i1}dar momentan, negocierea cu șeful \Nest e prioritatea.  
+Dialogue: 99,0:19:56.34,0:19:57.91,Dialogue,Arnold,0,0,0,,Nu mă face să repet.  
+Dialogue: 99,0:19:58.32,0:20:00.88,Dialogue,Arnold,0,0,0,,Forța noastră militară va fi \Ndestinată protejării oamenilor.  
+Dialogue: 99,0:20:00.88,0:20:02.57,Dialogue,Arnold,0,0,0,,Decizia a fost deja luată.  
+Dialogue: 99,0:20:02.57,0:20:06.16,Dialogue,Earl in military affairs,0,0,0,,Ignorarea seniorilor locali pentru a \Nproteja cu blândețe oamenii de rând?  
+Dialogue: 99,0:20:06.16,0:20:07.78,Dialogue,Earl in military affairs,0,0,0,,Ce înseamnă asta?  
+Dialogue: 99,0:20:07.78,0:20:12.85,Dialogue,Arnold,0,0,0,,Nobilimea are armate proprii, iar \Nnațiunea le oferă fonduri pentru întreținere.  
+Dialogue: 99,0:20:12.85,0:20:14.03,Dialogue,Arnold,0,0,0,,Poți spune ce vrei.  
+Dialogue: 99,0:20:14.03,0:20:16.90,Dialogue,Earl in military affairs,0,0,0,,Alteța Voastră, vă rugăm să reconsiderați!  
+Dialogue: 99,0:20:17.43,0:20:21.99,Dialogue,Earl in military affairs,0,0,0,,Nu cred că tatăl dumneavoastră \Nva fi mulțumit de acest ordin.  
+Dialogue: 99,0:20:23.85,0:20:26.41,Dialogue,Arnold,0,0,0,,Nu voi discuta cu tine. Cunoaște-ți locul.  
+Dialogue: 99,0:20:33.54,0:20:35.33,Dialogue,Rishe,0,0,0,,Um...  
+Dialogue: 99,0:20:52.08,0:20:54.61,Dialogue,Arnold,0,0,0,,Voi trimite notificări separate seniorilor.  
+Dialogue: 99,0:20:54.61,0:20:56.68,Dialogue,Earl in military affairs,0,0,0,,Notificări?  
+Dialogue: 99,0:20:56.68,0:21:01.19,Dialogue,Arnold,0,0,0,,Tot ce trebuie este ca protejarea oamenilor \Nsă le convină, nu?  
+Dialogue: 99,0:21:01.59,0:21:07.22,Dialogue,Arnold,0,0,0,,Dacă trupele noastre se ocupă de protecția \Npoporului și le oferă siguranță,  
+Dialogue: 99,0:21:07.22,0:21:11.08,Dialogue,Arnold,0,0,0,,asta va duce la creșterea veniturilor \Ndin taxe, în beneficiul seniorilor.  
+Dialogue: 99,0:21:14.75,0:21:19.09,Dialogue,Earl in military affairs,0,0,0,,Dacă e așa, e probabil ca seniorii \Nsă accepte schimbarea.  
+Dialogue: 99,0:21:19.09,0:21:20.71,Dialogue,Arnold,0,0,0,,Această conversație s-a încheiat.  
+Dialogue: 99,0:21:25.90,0:21:28.28,Dialogue,Rishe,0,0,0,,Despăgubirile obținute prin război  
+Dialogue: 99,0:21:28.28,0:21:31.97,Dialogue,Rishe,0,0,0,,sunt reinvestite local în revitalizare \Nși creare de locuri de muncă.  
+Dialogue: 99,0:21:31.97,0:21:35.60,Dialogue,Rishe,0,0,0,,Această politică a fost creată de Arnold Hein.  
+Dialogue: 99,0:21:36.64,0:21:40.99,Dialogue,Rishe; internal,0,0,0,,{\i1}El introduce forțat politici \Nîn beneficiul poporului.  
+Dialogue: 99,0:21:41.48,0:21:45.56,Dialogue,Rishe; internal,0,0,0,,{\i1}Chiar este foarte diferit de \Nimpresiile pe care le aveam din viețile anterioare.  
+Dialogue: 99,0:21:48.74,0:21:51.18,Dialogue,Rishe,0,0,0,,Ei bine, noapte bună.  
+Dialogue: 99,0:21:51.18,0:21:52.49,Dialogue,Dennis; Kamil,0,0,0,,Noapte bună, domnișoară.  
+Dialogue: 99,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\an7\pos(6.409,261.138)\fs18}Îți voi încredința un secret.\NFii la capelă\Nesta seară la miezul nopții.  
+Dialogue: 99,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\pos(118.878,335.988)\fs18}Arnold Hein  
+Dialogue: 99,0:22:26.08,0:22:27.65,Dialogue,Rishe,0,0,0,,Bună seara,  
+Dialogue: 99,0:22:27.65,0:22:29.13,Dialogue,Rishe,0,0,0,,Prințule Theodore.  
+Dialogue: 99,0:22:30.58,0:22:32.03,Dialogue,Theodore,0,0,0,,Bună seara,  
+Dialogue: 99,0:22:32.42,0:22:34.10,Dialogue,Theodore,0,0,0,,draga mea soră mai mare.
 Comment: 0,0:22:34.10,0:22:37.10,Dialogue,,0,0,0,,
 Comment: 0,0:22:37.10,0:22:40.10,Dialogue,,0,0,0,,
 Comment: 0,0:22:40.10,0:22:43.10,Dialogue,,0,0,0,,
 Comment: 0,0:22:43.10,0:22:46.10,Dialogue,,0,0,0,,
 Comment: 0,0:22:46.10,0:22:49.10,Dialogue,,0,0,0,,
 Comment: 0,0:22:49.10,0:22:52.10,Dialogue,,0,0,0,,
-Dialogue: 100,0:00:00.90,0:00:04.10,Dialogue,Tully,0,0,0,,Allow me to congratulate you \Non your upcoming nuptials.
-Dialogue: 100,0:00:04.31,0:00:07.61,Dialogue,Tully,0,0,0,,I am Kaine Tully, from \Nthe Aria Trading Company.
-Dialogue: 100,0:00:08.40,0:00:11.17,Dialogue,Rishe,0,0,0,,I'm Rishe Irmgard Weitzner.
-Dialogue: 100,0:00:11.17,0:00:14.86,Dialogue,Rishe,0,0,0,,Thank you for coming such \Na long way to meet with me.
-Dialogue: 100,0:00:16.99,0:00:19.92,Dialogue,Tully; background,0,0,0,,{\an8}This really is a lovely \Ntime of year, isn't it?
-Dialogue: 100,0:00:18.42,0:00:19.92,Dialogue,Rishe; internal,0,0,0,,{\i1}He's as impressive as I remember.
-Dialogue: 100,0:00:19.92,0:00:23.03,Dialogue,Rishe; internal,0,0,0,,{\i1}Just meeting his eye makes me \Nfeel like he's seen through me.
-Dialogue: 100,0:00:19.92,0:00:23.71,Dialogue,Tully; background,0,0,0,,{\an8}Lady Rishe, did you say your wedding will \Nbe in the middle of the eighth month?
-Dialogue: 100,0:00:23.71,0:00:27.00,Dialogue,Rishe; internal,0,0,0,,{\i1}But since I know him well, I \Nshould have the upper hand.
-Dialogue: 100,0:00:23.71,0:00:27.00,Dialogue,Tully; background,0,0,0,,{\an8}That means you'll become a \Nbride under the summer skies.
-Dialogue: 100,0:00:27.30,0:00:32.01,Dialogue,Tully; background,0,0,0,,{\an8}To have such a beautiful lady as \Nthe future mother of the country...
-Dialogue: 100,0:00:27.30,0:00:32.01,Dialogue,Rishe; internal,0,0,0,,{\i1}In order to avoid the war, \Nand to live a long life,
-Dialogue: 100,0:00:32.01,0:00:35.01,Dialogue,Tully; background,0,0,0,,{\an8}I must say I'm jealous of \Nthe people of Galkhein.
-Dialogue: 100,0:00:32.01,0:00:35.01,Dialogue,Rishe; internal,0,0,0,,{\i1}I will have you lend me your aid, chief!
-Dialogue: 100,0:00:36.89,0:00:41.94,Dialogue,Rishe,0,0,0,,I'm sure you've already heard, but \NI want everything used in my wedding
-Dialogue: 100,0:00:41.94,0:00:44.46,Dialogue,Rishe,0,0,0,,to be procured by the Aria Trading Company.
-Dialogue: 100,0:00:44.46,0:00:47.77,Dialogue,Tully,0,0,0,,Well, well! You have no idea how \Nmuch I appreciate such a statement.
-Dialogue: 100,0:00:47.77,0:00:51.34,Dialogue,Rishe,0,0,0,,Then, would it be possible \Nto see your wares right now?
-Dialogue: 100,0:00:52.53,0:00:53.78,Dialogue,Tully,0,0,0,,Lady Rishe...
-Dialogue: 100,0:00:55.10,0:00:59.03,Dialogue,Tully,0,0,0,,I haven't a single item I would sell to you.
-Dialogue: 100,0:02:32.36,0:02:35.58,Dialogue,Tully,0,0,0,,{\an8}Oh, pardon me. It seems you've misunderstood.
-Dialogue: 100,0:02:35.58,0:02:37.96,Dialogue,Tully,0,0,0,,{\an8}However, it's just as I said.
-Dialogue: 100,0:02:37.96,0:02:42.01,Dialogue,Tully,0,0,0,,A lady such as yourself simply \Ncannot become a customer of ours.
-Dialogue: 100,0:02:43.10,0:02:44.26,Dialogue,Rishe,0,0,0,,May I ask why?
-Dialogue: 100,0:02:44.59,0:02:49.77,Dialogue,Tully,0,0,0,,The items which we are able to procure \Naren't in keeping with your level of resolve.
-Dialogue: 100,0:02:49.77,0:02:51.15,Dialogue,Rishe,0,0,0,,Resolve?
-Dialogue: 100,0:02:52.11,0:02:56.53,Dialogue,Tully,0,0,0,,It seems that, for some reason, you're \Nstaking your life on this transaction.
-Dialogue: 100,0:02:57.78,0:03:00.64,Dialogue,Tully,0,0,0,,I've seen many different people in my time,
-Dialogue: 100,0:03:00.64,0:03:05.03,Dialogue,Tully,0,0,0,,but you seem to have a stronger \Nresolve than any of them.
-Dialogue: 100,0:03:05.44,0:03:10.82,Dialogue,Tully,0,0,0,,This despite the fact that you're only \Nbuying wedding goods from a simple trader, you see?
-Dialogue: 100,0:03:11.36,0:03:13.68,Dialogue,Rishe,0,0,0,,Well, it is a once-in-a-lifetime event.
-Dialogue: 100,0:03:13.68,0:03:16.01,Dialogue,Rishe,0,0,0,,I've allowed myself to \Nbecome overenthusiastic.
-Dialogue: 100,0:03:16.01,0:03:18.46,Dialogue,Rishe,0,0,0,,I'm so inexperienced. \NIt's quite embarrassing.
-Dialogue: 100,0:03:19.30,0:03:24.30,Dialogue,Tully,0,0,0,,Please, rest at ease. I'm certain your \Nwedding ceremony will be splendid.
-Dialogue: 100,0:03:24.30,0:03:29.66,Dialogue,Tully,0,0,0,,However, unfortunately, our wares \Nseem to be inadequate to the task.
-Dialogue: 100,0:03:30.24,0:03:32.61,Dialogue,Tully,0,0,0,,Thank you for your offer. It's been an honor.
-Dialogue: 100,0:03:32.61,0:03:34.31,Dialogue,Rishe,0,0,0,,Ch-Chief Tully!
-Dialogue: 100,0:03:34.52,0:03:38.57,Dialogue,Tully,0,0,0,,All else aside, Galkhein is quite \Nan impressive country, isn't it?
-Dialogue: 100,0:03:40.03,0:03:45.47,Dialogue,Tully,0,0,0,,We're thinking of forgetting our work for a \Nwhile and spending a few days enjoying the sights.
-Dialogue: 100,0:03:46.41,0:03:49.02,Dialogue,Rishe,0,0,0,,Please wait! If we could \Nspeak a little longer!
-Dialogue: 100,0:03:49.02,0:03:53.50,Dialogue,Tully,0,0,0,,Farewell, beautiful future crown princess.
-Dialogue: 100,0:04:09.16,0:04:10.72,Dialogue,Tully,0,0,0,,{\i1}Listen well, Rishe.
-Dialogue: 100,0:04:11.22,0:04:13.72,Dialogue,Tully,0,0,0,,Become a merchant who can pick her customers.
-Dialogue: 100,0:04:14.26,0:04:18.98,Dialogue,Tully,0,0,0,,Offer wares or other value that \Nthey can only get through us.
-Dialogue: 100,0:04:18.98,0:04:23.53,Dialogue,Tully,0,0,0,,When you do that, then we're the \Nones who can choose our customers.
-Dialogue: 100,0:04:24.73,0:04:27.32,Dialogue,Rishe; internal,0,0,0,,{\i1}I couldn't make the chief choose me.
-Dialogue: 100,0:04:27.84,0:04:32.40,Dialogue,Rishe; internal,0,0,0,,{\i1}But I'll need his connections when the Aria \NTrading Company spreads across the world.
-Dialogue: 100,0:04:34.20,0:04:35.90,Dialogue,Kamil,0,0,0,,Um, Lady Rishe?
-Dialogue: 100,0:04:36.98,0:04:40.87,Dialogue,Kamil,0,0,0,,Why is the future crown \Nprincess working in a garden?
-Dialogue: 100,0:04:40.87,0:04:46.09,Dialogue,Rishe,0,0,0,,Prince Arnold gave me this plot, so \NI thought I'd grow medicinal plants.
-Dialogue: 100,0:04:46.09,0:04:49.60,Dialogue,Rishe,0,0,0,,Depending on how I mix them, I'll be \Nable to make all sorts of medicines.
-Dialogue: 100,0:04:49.98,0:04:52.10,Dialogue,Kamil,0,0,0,,I see...
-Dialogue: 100,0:04:53.38,0:04:57.44,Dialogue,Rishe; internal,0,0,0,,{\i1}Still, was he simply being wary of me?
-Dialogue: 100,0:04:57.90,0:05:03.18,Dialogue,Rishe; internal,0,0,0,,{\i1}He is a cautious man, but he also \Nloves an all-or-nothing gamble.
-Dialogue: 100,0:05:04.67,0:05:06.80,Dialogue,Rishe; internal,0,0,0,,{\i1}Have I overlooked something?
-Dialogue: 100,0:05:08.77,0:05:14.08,Dialogue,Tully,0,0,0,,We're thinking of forgetting our work for a \Nwhile and spending a few days enjoying the sights.
-Dialogue: 100,0:05:15.47,0:05:17.76,Dialogue,Rishe,0,0,0,,That's the end of my \Ngardening this afternoon.
-Dialogue: 100,0:05:17.76,0:05:19.25,Dialogue,Kamil,0,0,0,,A-Already?
-Dialogue: 100,0:05:19.25,0:05:23.51,Dialogue,Rishe,0,0,0,,I'm going to rest in my room. I'll \Nleave guarding the halls to you.
-Dialogue: 100,0:05:23.51,0:05:24.76,Dialogue,Kamil; Dennis,0,0,0,,Y-Yes, my lady!
-Dialogue: 100,0:05:28.09,0:05:31.01,Dialogue,Chester,0,0,0,,Still, are you sure about this, chief?
-Dialogue: 100,0:05:31.01,0:05:33.89,Dialogue,Chester,0,0,0,,You're kicking aside a way to make \Nhuge money from the crown princess.
-Dialogue: 100,0:05:33.89,0:05:38.44,Dialogue,Tully,0,0,0,,You dummy. If we took that lady on \Nas a customer, we'd see heavy losses.
-Dialogue: 100,0:05:41.90,0:05:44.51,Dialogue,Rishe,0,0,0,,Welcome back, Chief Tully.
-Dialogue: 100,0:05:43.28,0:05:45.03,Dialogue,traders,0,0,0,,{\an8}I can't drink any more.
-Dialogue: 100,0:05:45.03,0:05:47.03,Dialogue,traders,0,0,0,,{\an8}You win, miss.
-Dialogue: 100,0:05:47.84,0:05:51.91,Dialogue,Tully,0,0,0,,I did think you might deign \Nto visit us soon, but this?
-Dialogue: 100,0:05:51.91,0:05:55.73,Dialogue,Rishe,0,0,0,,Then, that was an invitation after all.
-Dialogue: 100,0:05:55.73,0:05:56.98,Dialogue,Rishe,0,0,0,,I'm honored.
-Dialogue: 100,0:05:59.24,0:06:01.29,Dialogue,Tully,0,0,0,,I'm astounded.
-Dialogue: 100,0:06:01.29,0:06:04.19,Dialogue,Tully,0,0,0,,To think you'd outdrink \Nmy men while you waited.
-Dialogue: 100,0:06:04.19,0:06:08.63,Dialogue,Rishe,0,0,0,,Since they're such enjoyable company, \Nthe drink just kept flowing.
-Dialogue: 100,0:06:08.63,0:06:12.26,Dialogue,Tully,0,0,0,,Setting that aside, that dye has \Ntaken quite beautifully to your hair.
-Dialogue: 100,0:06:12.72,0:06:15.70,Dialogue,Rishe,0,0,0,,My hair color tends to \Nstand out a bit, you see.
-Dialogue: 100,0:06:16.77,0:06:21.87,Dialogue,Rishe,0,0,0,,If I told you I'd sell you the method, \Nwould you be open to negotiations with me?
-Dialogue: 100,0:06:22.66,0:06:24.15,Dialogue,Tully,0,0,0,,I would never!
-Dialogue: 100,0:06:24.15,0:06:28.65,Dialogue,Tully,0,0,0,,After all, you've brought something\N even more lucrative, haven't you?
-Dialogue: 100,0:06:30.16,0:06:34.43,Dialogue,Tully,0,0,0,,And now, just as you wished, \Nwe will begin our negotiations.
-Dialogue: 100,0:06:34.43,0:06:36.09,Dialogue,Tully,0,0,0,,Let's start with a drink.
-Dialogue: 100,0:06:36.09,0:06:37.58,Dialogue,Rishe,0,0,0,,Just one thing first.
-Dialogue: 100,0:06:38.11,0:06:41.79,Dialogue,Rishe,0,0,0,,While we're here, please speak freely.
-Dialogue: 100,0:06:42.19,0:06:46.55,Dialogue,Rishe; internal,0,0,0,,{\i1}When he speaks so formally to \Nme, it sets me off-balance.
-Dialogue: 100,0:06:46.55,0:06:49.55,Dialogue,Tully,0,0,0,,Well, if you insist.
-Dialogue: 100,0:06:55.98,0:07:03.46,Dialogue,Tully,0,0,0,,So, milady, no more of this "I want a \Ndress for my wedding" charade, all right?
-Dialogue: 100,0:07:03.46,0:07:08.00,Dialogue,Rishe,0,0,0,,Of course. It's obvious that trying \Nsuch tricks on you won't work.
-Dialogue: 100,0:07:08.00,0:07:09.36,Dialogue,Tully,0,0,0,,Good.
-Dialogue: 100,0:07:09.80,0:07:12.36,Dialogue,Tully,0,0,0,,My intuition is telling me something.
-Dialogue: 100,0:07:12.62,0:07:17.62,Dialogue,Tully,0,0,0,,Lady Rishe, it says that I should take you \Non not as a client, but as a trading partner.
-Dialogue: 100,0:07:18.14,0:07:21.03,Dialogue,Tully,0,0,0,,I won't help with a plan \Nif I don't know the full scope of it.
-Dialogue: 100,0:07:21.03,0:07:25.31,Dialogue,Tully,0,0,0,,But don't worry, despite appearances, \NI'm very dedicated to my work.
-Dialogue: 100,0:07:25.31,0:07:31.13,Dialogue,Tully,0,0,0,,I can promise you whatever profits, no, \Neven greater profits than you've imagined.
-Dialogue: 100,0:07:31.13,0:07:36.26,Dialogue,Tully,0,0,0,,Now, how about you spill every last detail \Nof this money-making scheme of yours!
-Dialogue: 100,0:07:37.19,0:07:38.27,Dialogue,Rishe,0,0,0,,I can't tell you.
-Dialogue: 100,0:07:38.99,0:07:39.80,Dialogue,Tully,0,0,0,,What?
-Dialogue: 100,0:07:40.61,0:07:43.63,Dialogue,Rishe,0,0,0,,I can't tell you about my plan.
-Dialogue: 100,0:07:43.63,0:07:48.28,Dialogue,Rishe,0,0,0,,Even so, I want the Aria Trading \NCompany to become my ally.
-Dialogue: 100,0:07:48.28,0:07:51.58,Dialogue,Tully,0,0,0,,You say the most interesting things, milady.
-Dialogue: 100,0:07:52.31,0:07:55.21,Dialogue,Tully,0,0,0,,You want me to enter into a contract \Nwithout being told anything,
-Dialogue: 100,0:07:55.21,0:07:57.01,Dialogue,Tully,0,0,0,,and it isn't even certain \Nthat I'll profit from it.
-Dialogue: 100,0:07:57.01,0:08:00.27,Dialogue,Tully,0,0,0,,This is the type of offer \Nthat traders hate the most.
-Dialogue: 100,0:08:00.27,0:08:02.47,Dialogue,Rishe,0,0,0,,I will, of course, prepare compensation.
-Dialogue: 100,0:08:02.47,0:08:07.29,Dialogue,Tully,0,0,0,,You're telling me to just trust you when \Nyou say I'll make a profit? A fine idea!
-Dialogue: 100,0:08:07.70,0:08:09.54,Dialogue,Rishe; internal,0,0,0,,{\i1}Within the next few years,
-Dialogue: 100,0:08:09.54,0:08:12.67,Dialogue,Rishe; internal,0,0,0,,{\i1}the crown prince of this nation \Nwill wage wars on other countries,
-Dialogue: 100,0:08:12.67,0:08:17.55,Dialogue,Rishe; internal,0,0,0,,{\i1}and I'm formulating a plan to stop him... but \Nit's not as though I can tell him that.
-Dialogue: 100,0:08:17.55,0:08:19.27,Dialogue,Tully,0,0,0,,Listen well, milady,
-Dialogue: 100,0:08:19.27,0:08:22.94,Dialogue,Tully,0,0,0,,I trust my intuition a great deal,
-Dialogue: 100,0:08:22.94,0:08:25.69,Dialogue,Tully,0,0,0,,but what I regard as even more \Nimportant is results and—
-Dialogue: 100,0:08:25.69,0:08:28.23,Dialogue,Rishe; overlapped,0,0,0,,Results and proof of performance, right?
-Dialogue: 100,0:08:30.05,0:08:34.84,Dialogue,Rishe,0,0,0,,I will think of a business which will \Nprove successful here in the capital.
-Dialogue: 100,0:08:34.84,0:08:38.69,Dialogue,Rishe,0,0,0,,If you deem me worthy of \Nyour trust because of it,
-Dialogue: 100,0:08:38.69,0:08:41.66,Dialogue,Rishe,0,0,0,,then may I ask that you reevaluate \Nthis decision at that time?
-Dialogue: 100,0:08:47.46,0:08:48.84,Dialogue,Tully,0,0,0,,I like it!
-Dialogue: 100,0:08:48.84,0:08:51.61,Dialogue,Tully,0,0,0,,You're saying that if your idea \Nseems likely to turn a profit,
-Dialogue: 100,0:08:51.61,0:08:53.66,Dialogue,Tully,0,0,0,,you want me to acknowledge you.
-Dialogue: 100,0:08:53.66,0:08:55.59,Dialogue,Tully,0,0,0,,That's exactly the sort of thing I like.
-Dialogue: 100,0:08:55.59,0:08:57.84,Dialogue,Rishe; internal,0,0,0,,{\i1}Yes, I know that very well.
-Dialogue: 100,0:08:58.07,0:09:02.46,Dialogue,Tully,0,0,0,,You have a week. I'm looking \Nforward to this, milady.
-Dialogue: 100,0:09:02.46,0:09:04.45,Dialogue,Rishe,0,0,0,,Then it's a promise.
-Dialogue: 100,0:09:08.64,0:09:10.63,Dialogue,Rishe,0,0,0,,Thank you for your time.
-Dialogue: 100,0:09:10.63,0:09:15.13,Dialogue,Rishe,0,0,0,,And when everyone wakes, please \Nhave them drink this medicine.
-Dialogue: 100,0:09:16.61,0:09:18.12,Dialogue,Tully,0,0,0,,What is it?
-Dialogue: 100,0:09:18.12,0:09:21.24,Dialogue,Rishe,0,0,0,,I think you'll understand \Nquickly once you use it.
-Dialogue: 100,0:09:27.93,0:09:30.63,Dialogue,Rishe,0,0,0,,It isn't a simple thing to \Nsneak out of this place.
-Dialogue: 100,0:09:37.95,0:09:39.51,Dialogue,Arnold,0,0,0,,You were out late.
-Dialogue: 100,0:09:40.61,0:09:42.76,Dialogue,Rishe,0,0,0,,Your Highness, why are you here?
-Dialogue: 100,0:09:42.76,0:09:45.50,Dialogue,Arnold,0,0,0,,I heard that your offer \Nof trade was turned down.
-Dialogue: 100,0:09:46.70,0:09:48.58,Dialogue,Arnold,0,0,0,,It's a strange story.
-Dialogue: 100,0:09:48.58,0:09:53.61,Dialogue,Arnold,0,0,0,,A simple trader rejecting a request \Nfrom a future crown princess?
-Dialogue: 100,0:09:55.48,0:09:58.22,Dialogue,Arnold,0,0,0,,I'm the one who said to \Nspend your time as you like.
-Dialogue: 100,0:09:58.22,0:10:02.03,Dialogue,Arnold,0,0,0,,That's why I believe it would be \Nunreasonable of me to criticize your actions,
-Dialogue: 100,0:10:02.03,0:10:04.09,Dialogue,Arnold,0,0,0,,so I awaited your return instead. However...
-Dialogue: 100,0:10:37.36,0:10:43.69,Dialogue,Arnold,0,0,0,,So, even you look like that \Nwhen faced with a man alone at night.
-Dialogue: 100,0:10:49.80,0:10:52.88,Dialogue,Rishe,0,0,0,,I... am very sorry.
-Dialogue: 100,0:10:54.50,0:11:00.07,Dialogue,Rishe,0,0,0,,Sneaking out of the villa alone at night is \Nunbecoming of my position as your fiancée.
-Dialogue: 100,0:11:00.07,0:11:01.62,Dialogue,Rishe,0,0,0,,If your reputation were damaged because—
-Dialogue: 100,0:11:01.62,0:11:03.31,Dialogue,Arnold,0,0,0,,I don't care about that.
-Dialogue: 100,0:11:06.23,0:11:08.02,Dialogue,Arnold,0,0,0,,You're not hurt, are you?
-Dialogue: 100,0:11:08.24,0:11:08.86,Dialogue,Rishe,0,0,0,,What?
-Dialogue: 100,0:11:10.00,0:11:12.52,Dialogue,Rishe,0,0,0,,No, I'm not.
-Dialogue: 100,0:11:14.73,0:11:18.69,Dialogue,Arnold,0,0,0,,From now on, whenever you visit \Ntown, I will go with you.
-Dialogue: 100,0:11:18.69,0:11:19.26,Dialogue,Rishe,0,0,0,,What?
-Dialogue: 100,0:11:19.70,0:11:22.53,Dialogue,Arnold,0,0,0,,I told you. You're free to do as you like.
-Dialogue: 100,0:11:22.53,0:11:25.47,Dialogue,Arnold,0,0,0,,I also told you that I \Nwould help you in that.
-Dialogue: 100,0:11:25.47,0:11:29.80,Dialogue,Rishe,0,0,0,,Oh, but... I couldn't possibly ask Your \NHighness to go along with my selfish behavior!
-Dialogue: 100,0:11:29.80,0:11:32.06,Dialogue,Arnold,0,0,0,,I said that you're free to do as you like.
-Dialogue: 100,0:11:32.06,0:11:34.58,Dialogue,Arnold,0,0,0,,I didn't say you're free \Nto put yourself in danger.
-Dialogue: 100,0:11:36.29,0:11:37.17,Dialogue,Arnold,0,0,0,,What is it?
-Dialogue: 100,0:11:37.48,0:11:39.67,Dialogue,Rishe,0,0,0,,You're much too indulgent with me.
-Dialogue: 100,0:11:41.15,0:11:42.43,Dialogue,Arnold,0,0,0,,Well, as it's you,
-Dialogue: 100,0:11:42.89,0:11:45.87,Dialogue,Arnold,0,0,0,,if I try to restrict you by saying that \Nyou're never allowed to visit town again,
-Dialogue: 100,0:11:45.87,0:11:47.84,Dialogue,Arnold,0,0,0,,you'd just slip out quietly \Nagain, wouldn't you?
-Dialogue: 100,0:11:48.42,0:11:50.23,Dialogue,Arnold,0,0,0,,Even if it meant dyeing your hair.
-Dialogue: 100,0:11:50.99,0:11:55.19,Dialogue,Arnold,0,0,0,,Giving permission with conditions attached \Nseems more likely to work as a restraint.
-Dialogue: 100,0:11:55.19,0:11:58.19,Dialogue,Rishe,0,0,0,,Am I really so easily understood?
-Dialogue: 100,0:11:58.19,0:11:59.11,Dialogue,Arnold,0,0,0,,Not at all.
-Dialogue: 100,0:11:59.64,0:12:03.75,Dialogue,Arnold,0,0,0,,You're the type that's so difficult to \Nunderstand that I can't predict you at all.
-Dialogue: 100,0:12:05.60,0:12:07.44,Dialogue,Rishe,0,0,0,,You're enjoying this, aren't you?
-Dialogue: 100,0:12:07.44,0:12:09.74,Dialogue,Rishe,0,0,0,,You and the chief both.
-Dialogue: 100,0:12:10.36,0:12:11.72,Dialogue,Arnold,0,0,0,,The chief?
-Dialogue: 100,0:12:12.40,0:12:15.96,Dialogue,Arnold,0,0,0,,What has passed between you \Nand the Aria Trading Company?
-Dialogue: 100,0:12:18.68,0:12:19.69,Dialogue,Rishe,0,0,0,,Your Highness?
-Dialogue: 100,0:12:19.69,0:12:20.59,Dialogue,Arnold,0,0,0,,Yes?
-Dialogue: 100,0:12:21.01,0:12:23.09,Dialogue,Rishe,0,0,0,,Do you happen to be hungry?
-Dialogue: 100,0:13:00.80,0:13:03.24,Dialogue,Rishe,0,0,0,,Um, Y-Your Highness?
-Dialogue: 100,0:13:04.39,0:13:06.73,Dialogue,Rishe,0,0,0,,There's something I must apologize for.
-Dialogue: 100,0:13:06.73,0:13:07.64,Dialogue,Arnold,0,0,0,,What is it?
-Dialogue: 100,0:13:09.20,0:13:13.99,Dialogue,Rishe,0,0,0,,I'm terribly sorry, even though \NI'm the one who proposed it...
-Dialogue: 100,0:13:14.58,0:13:15.71,Dialogue,Rishe,0,0,0,,I, um...
-Dialogue: 100,0:13:16.65,0:13:19.88,Dialogue,Rishe,0,0,0,,I'm a terrible cook!
-Dialogue: 100,0:13:23.28,0:13:24.30,Dialogue,Arnold,0,0,0,,I see.
-Dialogue: 100,0:13:25.07,0:13:27.08,Dialogue,Rishe,0,0,0,,I'm very sorry.
-Dialogue: 100,0:13:27.08,0:13:31.99,Dialogue,Arnold,0,0,0,,Well, it's unusual to find a noble \N lady who has experience cooking.
-Dialogue: 100,0:13:33.28,0:13:39.09,Dialogue,Rishe; internal,0,0,0,,{\i1}In my past lives, meals were just a time \Nwhen I prioritized putting food in my stomach.
-Dialogue: 100,0:13:39.99,0:13:43.00,Dialogue,Rishe,0,0,0,,I don't think this soup will \Nsuit your tastes, Your Highness.
-Dialogue: 100,0:13:46.99,0:13:48.01,Dialogue,Arnold,0,0,0,,It's good.
-Dialogue: 100,0:13:48.01,0:13:48.79,Dialogue,Rishe,0,0,0,,What?
-Dialogue: 100,0:13:50.00,0:13:51.76,Dialogue,Arnold,0,0,0,,This soup will do just fine.
-Dialogue: 100,0:13:53.19,0:13:56.50,Dialogue,Rishe; internal,0,0,0,,{\i1}I don't think he can tell \Ngood flavors from bad.
-Dialogue: 100,0:13:55.64,0:13:56.50,Dialogue,Arnold,0,0,0,,{\an8}Hey.
-Dialogue: 100,0:13:56.50,0:13:58.90,Dialogue,Arnold,0,0,0,,You're thinking something \Ndisrespectful, aren't you?
-Dialogue: 100,0:13:58.90,0:14:00.88,Dialogue,Rishe,0,0,0,,No, not at all!
-Dialogue: 100,0:14:02.33,0:14:04.06,Dialogue,Rishe,0,0,0,,Thank you.
-Dialogue: 100,0:14:04.06,0:14:06.02,Dialogue,Arnold,0,0,0,,It's your fault that I'm hungry.
-Dialogue: 100,0:14:06.47,0:14:08.12,Dialogue,Arnold,0,0,0,,Let's hurry up and set out the dishes.
-Dialogue: 100,0:14:08.69,0:14:09.66,Dialogue,Rishe,0,0,0,,Of course!
-Dialogue: 100,0:14:12.26,0:14:13.66,Dialogue,Rishe,0,0,0,,Which is why...
-Dialogue: 100,0:14:13.89,0:14:18.23,Dialogue,Rishe,0,0,0,,I now have to propose a new \Nbusiness idea within a week.
-Dialogue: 100,0:14:20.04,0:14:21.21,Dialogue,Arnold,0,0,0,,I understand.
-Dialogue: 100,0:14:21.21,0:14:22.56,Dialogue,Rishe,0,0,0,,Which means?
-Dialogue: 100,0:14:22.56,0:14:24.67,Dialogue,Arnold,0,0,0,,I said I understand.
-Dialogue: 100,0:14:24.67,0:14:27.30,Dialogue,Arnold,0,0,0,,I comprehend what it is you want to do.
-Dialogue: 100,0:14:28.46,0:14:33.81,Dialogue,Rishe,0,0,0,,You're not going to ask me what I plan \Nto use the Aria Trading Company for?
-Dialogue: 100,0:14:34.07,0:14:36.89,Dialogue,Arnold,0,0,0,,You kept that a secret from the \Ntrading company, didn't you?
-Dialogue: 100,0:14:36.89,0:14:39.06,Dialogue,Arnold,0,0,0,,Then, I can't imagine that you'd tell me.
-Dialogue: 100,0:14:39.06,0:14:40.86,Dialogue,Rishe,0,0,0,,It's just as you say, but...
-Dialogue: 100,0:14:41.32,0:14:44.60,Dialogue,Arnold,0,0,0,,Have you figured out this business \Nor whatever you're thinking up?
-Dialogue: 100,0:14:44.60,0:14:46.48,Dialogue,Rishe,0,0,0,,I have several ideas.
-Dialogue: 100,0:14:46.48,0:14:49.07,Dialogue,Rishe,0,0,0,,It's just that I don't know \Nif any of them will work.
-Dialogue: 100,0:14:49.64,0:14:52.22,Dialogue,Rishe,0,0,0,,What kinds of people live in the capital?
-Dialogue: 100,0:14:52.22,0:14:54.33,Dialogue,Rishe,0,0,0,,What sorts of things do they love?
-Dialogue: 100,0:14:54.33,0:14:56.88,Dialogue,Rishe,0,0,0,,There's a mountain of \Nthings I need to research.
-Dialogue: 100,0:14:56.88,0:14:59.51,Dialogue,Arnold,0,0,0,,You're saying this will be a difficult fight.
-Dialogue: 100,0:14:59.51,0:15:00.35,Dialogue,Rishe,0,0,0,,Yes.
-Dialogue: 100,0:15:05.13,0:15:07.59,Dialogue,Rishe,0,0,0,,You really are enjoying this, aren't you?
-Dialogue: 100,0:15:08.38,0:15:09.74,Dialogue,Arnold,0,0,0,,You should do as you like.
-Dialogue: 100,0:15:10.28,0:15:11.92,Dialogue,Arnold,0,0,0,,I have to get back.
-Dialogue: 100,0:15:11.92,0:15:13.96,Dialogue,Rishe,0,0,0,,Yes, of course. Good night.
-Dialogue: 100,0:15:17.35,0:15:19.27,Dialogue,Rishe,0,0,0,,Is something wrong?
-Dialogue: 100,0:15:19.65,0:15:21.62,Dialogue,Arnold,0,0,0,,Have you met my younger brother?
-Dialogue: 100,0:15:21.62,0:15:24.35,Dialogue,Rishe,0,0,0,,Your Highness's younger brother? No.
-Dialogue: 100,0:15:24.35,0:15:25.52,Dialogue,Arnold,0,0,0,,That's good.
-Dialogue: 100,0:15:25.75,0:15:28.82,Dialogue,Arnold,0,0,0,,If he approaches you, don't entertain him.
-Dialogue: 100,0:15:28.82,0:15:30.28,Dialogue,Rishe,0,0,0,,Is there something I should know?
-Dialogue: 100,0:15:30.28,0:15:32.18,Dialogue,Arnold,0,0,0,,There's no need for you to know.
-Dialogue: 100,0:15:52.08,0:15:54.40,Dialogue,Rishe; internal,0,0,0,,{\i1}This town's population, \Nits male to female ratio,
-Dialogue: 100,0:15:54.40,0:15:57.27,Dialogue,Rishe; internal,0,0,0,,{\i1}and its age distribution are \Nthe minimum information I need.
-Dialogue: 100,0:15:57.27,0:15:59.18,Dialogue,Rishe; internal,0,0,0,,{\i1}Changes in its economic development...
-Dialogue: 100,0:15:59.18,0:16:01.31,Dialogue,Rishe; internal,0,0,0,,{\i1}the state of the surrounding regions...
-Dialogue: 100,0:16:01.31,0:16:04.94,Dialogue,Rishe; internal,0,0,0,,{\i1}information on traders and travelers \Nentering and leaving, too...
-Dialogue: 100,0:16:07.36,0:16:10.77,Dialogue,Rishe; internal,0,0,0,,{\i1}I garden in the morning, check \Nteaching materials in the afternoon,
-Dialogue: 100,0:16:10.77,0:16:13.45,Dialogue,Rishe; internal,0,0,0,,{\i1}and I have to prepare for the \Nwedding ceremony as well.
-Dialogue: 100,0:16:13.45,0:16:15.75,Dialogue,Rishe; internal,0,0,0,,{\i1}I won't be getting any \Nsleep or rest for a while!
-Dialogue: 100,0:16:17.14,0:16:18.95,Dialogue,Oliver,0,0,0,,A midnight snack? You, my lord?
-Dialogue: 100,0:16:18.95,0:16:20.03,Dialogue,Arnold,0,0,0,,What of it?
-Dialogue: 100,0:16:20.03,0:16:21.00,Dialogue,Oliver,0,0,0,,Nothing.
-Dialogue: 100,0:16:21.00,0:16:24.00,Dialogue,Oliver,0,0,0,,Lady Rishe must be an excellent cook.
-Dialogue: 100,0:16:24.68,0:16:27.21,Dialogue,Arnold,0,0,0,,She said she's terrible at cooking...
-Dialogue: 100,0:16:27.61,0:16:28.66,Dialogue,Arnold,0,0,0,,but it was good.
-Dialogue: 100,0:16:30.84,0:16:31.56,Dialogue,Arnold,0,0,0,,Hey.
-Dialogue: 100,0:16:31.96,0:16:36.35,Dialogue,Arnold,0,0,0,,Is adding medicinal herbs \Nto soup a standard practice?
-Dialogue: 100,0:16:36.79,0:16:38.23,Dialogue,Oliver,0,0,0,,To soup?
-Dialogue: 100,0:16:38.23,0:16:40.60,Dialogue,Oliver,0,0,0,,No, that isn't usually done.
-Dialogue: 100,0:16:42.08,0:16:42.98,Dialogue,Arnold,0,0,0,,I see.
-Dialogue: 100,0:16:48.67,0:16:51.86,Dialogue,Kamil,0,0,0,,Were you unable to get much rest last night?
-Dialogue: 100,0:16:51.86,0:16:54.34,Dialogue,Rishe,0,0,0,,I was doing a little research.
-Dialogue: 100,0:16:54.34,0:16:56.70,Dialogue,Kamil,0,0,0,,Please don't push yourself too hard.
-Dialogue: 100,0:17:00.57,0:17:03.33,Dialogue,Dennis,0,0,0,,Lady Rishe! Please stand back!
-Dialogue: 100,0:17:03.33,0:17:04.78,Dialogue,Dennis,0,0,0,,Let's return to your room.
-Dialogue: 100,0:17:06.89,0:17:09.68,Dialogue,Rishe; internal,0,0,0,,{\i1}Black hair is rare on this continent.
-Dialogue: 100,0:17:09.68,0:17:10.90,Dialogue,Dennis,0,0,0,,Lady Rishe!
-Dialogue: 100,0:17:12.74,0:17:13.95,Dialogue,Theodore,0,0,0,,Rishe?
-Dialogue: 100,0:17:13.95,0:17:14.75,Dialogue,Dennis,0,0,0,,Oh no!
-Dialogue: 100,0:17:17.68,0:17:20.05,Dialogue,Theodore,0,0,0,,You are my older brother's...
-Dialogue: 100,0:17:23.50,0:17:26.52,Dialogue,Theodore,0,0,0,,Pleased to meet you, my lovely older sister!
-Dialogue: 100,0:17:27.94,0:17:29.81,Dialogue,Theodore,0,0,0,,Finally, we meet!
-Dialogue: 100,0:17:29.81,0:17:33.04,Dialogue,Theodore,0,0,0,,I've sent so many letters \Nsaying I wanted to meet you,
-Dialogue: 100,0:17:33.04,0:17:35.79,Dialogue,Theodore,0,0,0,,but my brother hasn't sent a single reply.
-Dialogue: 100,0:17:35.79,0:17:37.07,Dialogue,Theodore,0,0,0,,Isn't that just mean?
-Dialogue: 100,0:17:40.16,0:17:43.08,Dialogue,Theodore,0,0,0,,There's no need to be so tense.
-Dialogue: 100,0:17:44.14,0:17:46.07,Dialogue,Theodore,0,0,0,,I'm Theodore.
-Dialogue: 100,0:17:46.07,0:17:48.06,Dialogue,Theodore,0,0,0,,Theodore Auguste Hein.
-Dialogue: 100,0:17:48.06,0:17:52.34,Dialogue,Theodore,0,0,0,,I'm second in line to the throne \Nand Arnold Hein's younger brother.
-Dialogue: 100,0:17:52.74,0:17:55.65,Dialogue,Rishe; internal,0,0,0,,{\i1}I've been told not to spend \Ntime with him, but...
-Dialogue: 100,0:17:58.65,0:18:00.61,Dialogue,Rishe,0,0,0,,I'm honored to meet you.
-Dialogue: 100,0:18:00.61,0:18:03.19,Dialogue,Rishe,0,0,0,,My name is Rishe Irmgard Weitzner.
-Dialogue: 100,0:18:03.92,0:18:09.00,Dialogue,Rishe,0,0,0,,A twist of fate has allowed me to fill the \Nlowest position in the imperial family.
-Dialogue: 100,0:18:09.00,0:18:11.14,Dialogue,Rishe,0,0,0,,I hope that we will get on well together.
-Dialogue: 100,0:18:11.14,0:18:13.86,Dialogue,Theodore,0,0,0,,I was wondering, what are you \Ndoing out here, dear sister?
-Dialogue: 100,0:18:13.86,0:18:17.36,Dialogue,Rishe,0,0,0,,This garden plot is one that I've created.
-Dialogue: 100,0:18:17.36,0:18:18.88,Dialogue,Theodore,0,0,0,,You made this?
-Dialogue: 100,0:18:18.88,0:18:21.30,Dialogue,Theodore,0,0,0,,That's amazing!
-Dialogue: 100,0:18:21.30,0:18:23.91,Dialogue,Theodore,0,0,0,,It's rare to find a bed so fluffy!
-Dialogue: 100,0:18:24.38,0:18:27.67,Dialogue,Theodore,0,0,0,,But there is one thing bothering me.
-Dialogue: 100,0:18:27.67,0:18:28.92,Dialogue,Theodore,0,0,0,,Will you look here for me?
-Dialogue: 100,0:18:28.92,0:18:30.92,Dialogue,Rishe,0,0,0,,Is something the matter?
-Dialogue: 100,0:18:31.33,0:18:32.61,Dialogue,Theodore,0,0,0,,See? Right here.
-Dialogue: 100,0:18:33.72,0:18:35.26,Dialogue,Rishe,0,0,0,,Well...
-Dialogue: 100,0:18:36.61,0:18:38.09,Dialogue,Theodore,0,0,0,,I want to save you.
-Dialogue: 100,0:18:40.80,0:18:44.84,Dialogue,Theodore,0,0,0,,You poor thing. Dragged all \Nthe way to a place like this.
-Dialogue: 100,0:18:44.84,0:18:48.43,Dialogue,Theodore,0,0,0,,You aren't truly a bride. You're a hostage.
-Dialogue: 100,0:18:50.36,0:18:51.81,Dialogue,Rishe,0,0,0,,I'm aware.
-Dialogue: 100,0:18:51.81,0:18:52.86,Dialogue,Theodore,0,0,0,,You are?
-Dialogue: 100,0:18:53.75,0:18:58.15,Dialogue,Rishe,0,0,0,,Prince Arnold is more than \Nsatisfactorily considerate toward me.
-Dialogue: 100,0:18:59.65,0:19:00.83,Dialogue,Theodore,0,0,0,,I see.
-Dialogue: 100,0:19:04.28,0:19:07.18,Dialogue,Theodore,0,0,0,,I'm glad I was able to meet \Nyou today! I'll see you again.
-Dialogue: 100,0:19:13.18,0:19:16.17,Dialogue,Rishe; internal,0,0,0,,{\i1}Second in line to the throne?
-Dialogue: 100,0:19:16.17,0:19:20.00,Dialogue,Rishe; internal,0,0,0,,{\i1}That's not something you say as an \Nintroduction to your older brother's fiancée.
-Dialogue: 100,0:19:23.52,0:19:25.68,Dialogue,Rishe,0,0,0,,This may seem apropos of nothing,
-Dialogue: 100,0:19:25.68,0:19:29.63,Dialogue,Rishe,0,0,0,,but earlier, you didn't \Nseem your usual selves.
-Dialogue: 100,0:19:30.24,0:19:33.81,Dialogue,Rishe,0,0,0,,Do you have orders not to let \Nme near his younger brother?
-Dialogue: 100,0:19:34.25,0:19:37.52,Dialogue,Kamil,0,0,0,,That isn't something we \Nwould be able to tell you.
-Dialogue: 100,0:19:37.52,0:19:41.15,Dialogue,Rishe,0,0,0,,Then, do the brothers get along well?
-Dialogue: 100,0:19:42.88,0:19:44.57,Dialogue,Kamil,0,0,0,,We can't speak to that either.
-Dialogue: 100,0:19:44.96,0:19:47.12,Dialogue,Rishe,0,0,0,,I'm sorry for asking such strange questions.
-Dialogue: 100,0:19:47.12,0:19:47.95,Dialogue,Kamil,0,0,0,,Not at all.
-Dialogue: 100,0:19:49.83,0:19:53.14,Dialogue,Rishe; internal,0,0,0,,{\i1}I'll have to deal with \Nthis matter eventually,
-Dialogue: 100,0:19:53.14,0:19:55.58,Dialogue,Rishe; internal,0,0,0,,{\i1}but right now, my negotiation \Nwith the chief comes first.
-Dialogue: 100,0:19:56.34,0:19:57.91,Dialogue,Arnold,0,0,0,,Don't make me repeat myself.
-Dialogue: 100,0:19:58.32,0:20:00.88,Dialogue,Arnold,0,0,0,,Our military force will be \Nturned to the protection of the people.
-Dialogue: 100,0:20:00.88,0:20:02.57,Dialogue,Arnold,0,0,0,,The decision has already been made.
-Dialogue: 100,0:20:02.57,0:20:06.16,Dialogue,Earl in military affairs,0,0,0,,Ignoring the regional lords in order to \Ntenderheartedly protect the commoners?
-Dialogue: 100,0:20:06.16,0:20:07.78,Dialogue,Earl in military affairs,0,0,0,,What's the meaning of this?
-Dialogue: 100,0:20:07.78,0:20:12.85,Dialogue,Arnold,0,0,0,,The nobility has their private armies, and \Nthe nation provides the funds to maintain them.
-Dialogue: 100,0:20:12.85,0:20:14.03,Dialogue,Arnold,0,0,0,,You can say whatever you like.
-Dialogue: 100,0:20:14.03,0:20:16.90,Dialogue,Earl in military affairs,0,0,0,,Your Highness, please reconsider!
-Dialogue: 100,0:20:17.43,0:20:21.99,Dialogue,Earl in military affairs,0,0,0,,I can't say that your father \Nwill be pleased by this order.
-Dialogue: 100,0:20:23.85,0:20:26.41,Dialogue,Arnold,0,0,0,,I will not argue with you. Know your place.
-Dialogue: 100,0:20:33.54,0:20:35.33,Dialogue,Rishe,0,0,0,,Um...
-Dialogue: 100,0:20:52.08,0:20:54.61,Dialogue,Arnold,0,0,0,,I'll have separate notices sent to the lords.
-Dialogue: 100,0:20:54.61,0:20:56.68,Dialogue,Earl in military affairs,0,0,0,,Notices?
-Dialogue: 100,0:20:56.68,0:21:01.19,Dialogue,Arnold,0,0,0,,Our protecting the people just needs to \Nend up being in their favor, correct?
-Dialogue: 100,0:21:01.59,0:21:07.22,Dialogue,Arnold,0,0,0,,If our forces are turned to protecting the \Npeople and they are able to live in safety,
-Dialogue: 100,0:21:07.22,0:21:11.08,Dialogue,Arnold,0,0,0,,that will ultimately lead to increased tax \Nrevenue which should benefit the lords.
-Dialogue: 100,0:21:14.75,0:21:19.09,Dialogue,Earl in military affairs,0,0,0,,If that's the case, then the lords \Nwill likely accept the change.
-Dialogue: 100,0:21:19.09,0:21:20.71,Dialogue,Arnold,0,0,0,,This conversation is over.
-Dialogue: 100,0:21:25.90,0:21:28.28,Dialogue,Rishe,0,0,0,,The indemnities gained through war
-Dialogue: 100,0:21:28.28,0:21:31.97,Dialogue,Rishe,0,0,0,,are invested locally in revitalization \Nand creating employment.
-Dialogue: 100,0:21:31.97,0:21:35.60,Dialogue,Rishe,0,0,0,,This policy was created by Arnold Hein.
-Dialogue: 100,0:21:36.64,0:21:40.99,Dialogue,Rishe; internal,0,0,0,,{\i1}He is forcefully introducing \Npolicies which benefit the people.
-Dialogue: 100,0:21:41.48,0:21:45.56,Dialogue,Rishe; internal,0,0,0,,{\i1}He really is very different from the \Nimpressions I have of him from my past lives.
-Dialogue: 100,0:21:48.74,0:21:51.18,Dialogue,Rishe,0,0,0,,Well then, good night.
-Dialogue: 100,0:21:51.18,0:21:52.49,Dialogue,Dennis; Kamil,0,0,0,,Good night, my lady.
-Dialogue: 100,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\an7\pos(6.409,261.138)\fs18}I will confide a secret to\Nyou. Be at the chapel\Ntonight at twelve.
-Dialogue: 100,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\pos(118.878,335.988)\fs18}Arnold Hein
-Dialogue: 100,0:22:26.08,0:22:27.65,Dialogue,Rishe,0,0,0,,Good evening,
-Dialogue: 100,0:22:27.65,0:22:29.13,Dialogue,Rishe,0,0,0,,Prince Theodore.
-Dialogue: 100,0:22:30.58,0:22:32.03,Dialogue,Theodore,0,0,0,,Good evening,
-Dialogue: 100,0:22:32.42,0:22:34.10,Dialogue,Theodore,0,0,0,,my lovely older sister.
+Dialogue: 99,0:00:00.90,0:00:04.10,Dialogue,Tully,0,0,0,,Allow me to congratulate you \Non your upcoming nuptials.
+Dialogue: 99,0:00:04.31,0:00:07.61,Dialogue,Tully,0,0,0,,I am Kaine Tully, from \Nthe Aria Trading Company.
+Dialogue: 99,0:00:08.40,0:00:11.17,Dialogue,Rishe,0,0,0,,I'm Rishe Irmgard Weitzner.
+Dialogue: 99,0:00:11.17,0:00:14.86,Dialogue,Rishe,0,0,0,,Thank you for coming such \Na long way to meet with me.
+Dialogue: 99,0:00:16.99,0:00:19.92,Dialogue,Tully; background,0,0,0,,{\an8}This really is a lovely \Ntime of year, isn't it?
+Dialogue: 99,0:00:18.42,0:00:19.92,Dialogue,Rishe; internal,0,0,0,,{\i1}He's as impressive as I remember.
+Dialogue: 99,0:00:19.92,0:00:23.03,Dialogue,Rishe; internal,0,0,0,,{\i1}Just meeting his eye makes me \Nfeel like he's seen through me.
+Dialogue: 99,0:00:19.92,0:00:23.71,Dialogue,Tully; background,0,0,0,,{\an8}Lady Rishe, did you say your wedding will \Nbe in the middle of the eighth month?
+Dialogue: 99,0:00:23.71,0:00:27.00,Dialogue,Rishe; internal,0,0,0,,{\i1}But since I know him well, I \Nshould have the upper hand.
+Dialogue: 99,0:00:23.71,0:00:27.00,Dialogue,Tully; background,0,0,0,,{\an8}That means you'll become a \Nbride under the summer skies.
+Dialogue: 99,0:00:27.30,0:00:32.01,Dialogue,Tully; background,0,0,0,,{\an8}To have such a beautiful lady as \Nthe future mother of the country...
+Dialogue: 99,0:00:27.30,0:00:32.01,Dialogue,Rishe; internal,0,0,0,,{\i1}In order to avoid the war, \Nand to live a long life,
+Dialogue: 99,0:00:32.01,0:00:35.01,Dialogue,Tully; background,0,0,0,,{\an8}I must say I'm jealous of \Nthe people of Galkhein.
+Dialogue: 99,0:00:32.01,0:00:35.01,Dialogue,Rishe; internal,0,0,0,,{\i1}I will have you lend me your aid, chief!
+Dialogue: 99,0:00:36.89,0:00:41.94,Dialogue,Rishe,0,0,0,,I'm sure you've already heard, but \NI want everything used in my wedding
+Dialogue: 99,0:00:41.94,0:00:44.46,Dialogue,Rishe,0,0,0,,to be procured by the Aria Trading Company.
+Dialogue: 99,0:00:44.46,0:00:47.77,Dialogue,Tully,0,0,0,,Well, well! You have no idea how \Nmuch I appreciate such a statement.
+Dialogue: 99,0:00:47.77,0:00:51.34,Dialogue,Rishe,0,0,0,,Then, would it be possible \Nto see your wares right now?
+Dialogue: 99,0:00:52.53,0:00:53.78,Dialogue,Tully,0,0,0,,Lady Rishe...
+Dialogue: 99,0:00:55.10,0:00:59.03,Dialogue,Tully,0,0,0,,I haven't a single item I would sell to you.
+Dialogue: 99,0:02:32.36,0:02:35.58,Dialogue,Tully,0,0,0,,{\an8}Oh, pardon me. It seems you've misunderstood.
+Dialogue: 99,0:02:35.58,0:02:37.96,Dialogue,Tully,0,0,0,,{\an8}However, it's just as I said.
+Dialogue: 99,0:02:37.96,0:02:42.01,Dialogue,Tully,0,0,0,,A lady such as yourself simply \Ncannot become a customer of ours.
+Dialogue: 99,0:02:43.10,0:02:44.26,Dialogue,Rishe,0,0,0,,May I ask why?
+Dialogue: 99,0:02:44.59,0:02:49.77,Dialogue,Tully,0,0,0,,The items which we are able to procure \Naren't in keeping with your level of resolve.
+Dialogue: 99,0:02:49.77,0:02:51.15,Dialogue,Rishe,0,0,0,,Resolve?
+Dialogue: 99,0:02:52.11,0:02:56.53,Dialogue,Tully,0,0,0,,It seems that, for some reason, you're \Nstaking your life on this transaction.
+Dialogue: 99,0:02:57.78,0:03:00.64,Dialogue,Tully,0,0,0,,I've seen many different people in my time,
+Dialogue: 99,0:03:00.64,0:03:05.03,Dialogue,Tully,0,0,0,,but you seem to have a stronger \Nresolve than any of them.
+Dialogue: 99,0:03:05.44,0:03:10.82,Dialogue,Tully,0,0,0,,This despite the fact that you're only \Nbuying wedding goods from a simple trader, you see?
+Dialogue: 99,0:03:11.36,0:03:13.68,Dialogue,Rishe,0,0,0,,Well, it is a once-in-a-lifetime event.
+Dialogue: 99,0:03:13.68,0:03:16.01,Dialogue,Rishe,0,0,0,,I've allowed myself to \Nbecome overenthusiastic.
+Dialogue: 99,0:03:16.01,0:03:18.46,Dialogue,Rishe,0,0,0,,I'm so inexperienced. \NIt's quite embarrassing.
+Dialogue: 99,0:03:19.30,0:03:24.30,Dialogue,Tully,0,0,0,,Please, rest at ease. I'm certain your \Nwedding ceremony will be splendid.
+Dialogue: 99,0:03:24.30,0:03:29.66,Dialogue,Tully,0,0,0,,However, unfortunately, our wares \Nseem to be inadequate to the task.
+Dialogue: 99,0:03:30.24,0:03:32.61,Dialogue,Tully,0,0,0,,Thank you for your offer. It's been an honor.
+Dialogue: 99,0:03:32.61,0:03:34.31,Dialogue,Rishe,0,0,0,,Ch-Chief Tully!
+Dialogue: 99,0:03:34.52,0:03:38.57,Dialogue,Tully,0,0,0,,All else aside, Galkhein is quite \Nan impressive country, isn't it?
+Dialogue: 99,0:03:40.03,0:03:45.47,Dialogue,Tully,0,0,0,,We're thinking of forgetting our work for a \Nwhile and spending a few days enjoying the sights.
+Dialogue: 99,0:03:46.41,0:03:49.02,Dialogue,Rishe,0,0,0,,Please wait! If we could \Nspeak a little longer!
+Dialogue: 99,0:03:49.02,0:03:53.50,Dialogue,Tully,0,0,0,,Farewell, beautiful future crown princess.
+Dialogue: 99,0:04:09.16,0:04:10.72,Dialogue,Tully,0,0,0,,{\i1}Listen well, Rishe.
+Dialogue: 99,0:04:11.22,0:04:13.72,Dialogue,Tully,0,0,0,,Become a merchant who can pick her customers.
+Dialogue: 99,0:04:14.26,0:04:18.98,Dialogue,Tully,0,0,0,,Offer wares or other value that \Nthey can only get through us.
+Dialogue: 99,0:04:18.98,0:04:23.53,Dialogue,Tully,0,0,0,,When you do that, then we're the \Nones who can choose our customers.
+Dialogue: 99,0:04:24.73,0:04:27.32,Dialogue,Rishe; internal,0,0,0,,{\i1}I couldn't make the chief choose me.
+Dialogue: 99,0:04:27.84,0:04:32.40,Dialogue,Rishe; internal,0,0,0,,{\i1}But I'll need his connections when the Aria \NTrading Company spreads across the world.
+Dialogue: 99,0:04:34.20,0:04:35.90,Dialogue,Kamil,0,0,0,,Um, Lady Rishe?
+Dialogue: 99,0:04:36.98,0:04:40.87,Dialogue,Kamil,0,0,0,,Why is the future crown \Nprincess working in a garden?
+Dialogue: 99,0:04:40.87,0:04:46.09,Dialogue,Rishe,0,0,0,,Prince Arnold gave me this plot, so \NI thought I'd grow medicinal plants.
+Dialogue: 99,0:04:46.09,0:04:49.60,Dialogue,Rishe,0,0,0,,Depending on how I mix them, I'll be \Nable to make all sorts of medicines.
+Dialogue: 99,0:04:49.98,0:04:52.10,Dialogue,Kamil,0,0,0,,I see...
+Dialogue: 99,0:04:53.38,0:04:57.44,Dialogue,Rishe; internal,0,0,0,,{\i1}Still, was he simply being wary of me?
+Dialogue: 99,0:04:57.90,0:05:03.18,Dialogue,Rishe; internal,0,0,0,,{\i1}He is a cautious man, but he also \Nloves an all-or-nothing gamble.
+Dialogue: 99,0:05:04.67,0:05:06.80,Dialogue,Rishe; internal,0,0,0,,{\i1}Have I overlooked something?
+Dialogue: 99,0:05:08.77,0:05:14.08,Dialogue,Tully,0,0,0,,We're thinking of forgetting our work for a \Nwhile and spending a few days enjoying the sights.
+Dialogue: 99,0:05:15.47,0:05:17.76,Dialogue,Rishe,0,0,0,,That's the end of my \Ngardening this afternoon.
+Dialogue: 99,0:05:17.76,0:05:19.25,Dialogue,Kamil,0,0,0,,A-Already?
+Dialogue: 99,0:05:19.25,0:05:23.51,Dialogue,Rishe,0,0,0,,I'm going to rest in my room. I'll \Nleave guarding the halls to you.
+Dialogue: 99,0:05:23.51,0:05:24.76,Dialogue,Kamil; Dennis,0,0,0,,Y-Yes, my lady!
+Dialogue: 99,0:05:28.09,0:05:31.01,Dialogue,Chester,0,0,0,,Still, are you sure about this, chief?
+Dialogue: 99,0:05:31.01,0:05:33.89,Dialogue,Chester,0,0,0,,You're kicking aside a way to make \Nhuge money from the crown princess.
+Dialogue: 99,0:05:33.89,0:05:38.44,Dialogue,Tully,0,0,0,,You dummy. If we took that lady on \Nas a customer, we'd see heavy losses.
+Dialogue: 99,0:05:41.90,0:05:44.51,Dialogue,Rishe,0,0,0,,Welcome back, Chief Tully.
+Dialogue: 99,0:05:43.28,0:05:45.03,Dialogue,traders,0,0,0,,{\an8}I can't drink any more.
+Dialogue: 99,0:05:45.03,0:05:47.03,Dialogue,traders,0,0,0,,{\an8}You win, miss.
+Dialogue: 99,0:05:47.84,0:05:51.91,Dialogue,Tully,0,0,0,,I did think you might deign \Nto visit us soon, but this?
+Dialogue: 99,0:05:51.91,0:05:55.73,Dialogue,Rishe,0,0,0,,Then, that was an invitation after all.
+Dialogue: 99,0:05:55.73,0:05:56.98,Dialogue,Rishe,0,0,0,,I'm honored.
+Dialogue: 99,0:05:59.24,0:06:01.29,Dialogue,Tully,0,0,0,,I'm astounded.
+Dialogue: 99,0:06:01.29,0:06:04.19,Dialogue,Tully,0,0,0,,To think you'd outdrink \Nmy men while you waited.
+Dialogue: 99,0:06:04.19,0:06:08.63,Dialogue,Rishe,0,0,0,,Since they're such enjoyable company, \Nthe drink just kept flowing.
+Dialogue: 99,0:06:08.63,0:06:12.26,Dialogue,Tully,0,0,0,,Setting that aside, that dye has \Ntaken quite beautifully to your hair.
+Dialogue: 99,0:06:12.72,0:06:15.70,Dialogue,Rishe,0,0,0,,My hair color tends to \Nstand out a bit, you see.
+Dialogue: 99,0:06:16.77,0:06:21.87,Dialogue,Rishe,0,0,0,,If I told you I'd sell you the method, \Nwould you be open to negotiations with me?
+Dialogue: 99,0:06:22.66,0:06:24.15,Dialogue,Tully,0,0,0,,I would never!
+Dialogue: 99,0:06:24.15,0:06:28.65,Dialogue,Tully,0,0,0,,After all, you've brought something\N even more lucrative, haven't you?
+Dialogue: 99,0:06:30.16,0:06:34.43,Dialogue,Tully,0,0,0,,And now, just as you wished, \Nwe will begin our negotiations.
+Dialogue: 99,0:06:34.43,0:06:36.09,Dialogue,Tully,0,0,0,,Let's start with a drink.
+Dialogue: 99,0:06:36.09,0:06:37.58,Dialogue,Rishe,0,0,0,,Just one thing first.
+Dialogue: 99,0:06:38.11,0:06:41.79,Dialogue,Rishe,0,0,0,,While we're here, please speak freely.
+Dialogue: 99,0:06:42.19,0:06:46.55,Dialogue,Rishe; internal,0,0,0,,{\i1}When he speaks so formally to \Nme, it sets me off-balance.
+Dialogue: 99,0:06:46.55,0:06:49.55,Dialogue,Tully,0,0,0,,Well, if you insist.
+Dialogue: 99,0:06:55.98,0:07:03.46,Dialogue,Tully,0,0,0,,So, milady, no more of this "I want a \Ndress for my wedding" charade, all right?
+Dialogue: 99,0:07:03.46,0:07:08.00,Dialogue,Rishe,0,0,0,,Of course. It's obvious that trying \Nsuch tricks on you won't work.
+Dialogue: 99,0:07:08.00,0:07:09.36,Dialogue,Tully,0,0,0,,Good.
+Dialogue: 99,0:07:09.80,0:07:12.36,Dialogue,Tully,0,0,0,,My intuition is telling me something.
+Dialogue: 99,0:07:12.62,0:07:17.62,Dialogue,Tully,0,0,0,,Lady Rishe, it says that I should take you \Non not as a client, but as a trading partner.
+Dialogue: 99,0:07:18.14,0:07:21.03,Dialogue,Tully,0,0,0,,I won't help with a plan \Nif I don't know the full scope of it.
+Dialogue: 99,0:07:21.03,0:07:25.31,Dialogue,Tully,0,0,0,,But don't worry, despite appearances, \NI'm very dedicated to my work.
+Dialogue: 99,0:07:25.31,0:07:31.13,Dialogue,Tully,0,0,0,,I can promise you whatever profits, no, \Neven greater profits than you've imagined.
+Dialogue: 99,0:07:31.13,0:07:36.26,Dialogue,Tully,0,0,0,,Now, how about you spill every last detail \Nof this money-making scheme of yours!
+Dialogue: 99,0:07:37.19,0:07:38.27,Dialogue,Rishe,0,0,0,,I can't tell you.
+Dialogue: 99,0:07:38.99,0:07:39.80,Dialogue,Tully,0,0,0,,What?
+Dialogue: 99,0:07:40.61,0:07:43.63,Dialogue,Rishe,0,0,0,,I can't tell you about my plan.
+Dialogue: 99,0:07:43.63,0:07:48.28,Dialogue,Rishe,0,0,0,,Even so, I want the Aria Trading \NCompany to become my ally.
+Dialogue: 99,0:07:48.28,0:07:51.58,Dialogue,Tully,0,0,0,,You say the most interesting things, milady.
+Dialogue: 99,0:07:52.31,0:07:55.21,Dialogue,Tully,0,0,0,,You want me to enter into a contract \Nwithout being told anything,
+Dialogue: 99,0:07:55.21,0:07:57.01,Dialogue,Tully,0,0,0,,and it isn't even certain \Nthat I'll profit from it.
+Dialogue: 99,0:07:57.01,0:08:00.27,Dialogue,Tully,0,0,0,,This is the type of offer \Nthat traders hate the most.
+Dialogue: 99,0:08:00.27,0:08:02.47,Dialogue,Rishe,0,0,0,,I will, of course, prepare compensation.
+Dialogue: 99,0:08:02.47,0:08:07.29,Dialogue,Tully,0,0,0,,You're telling me to just trust you when \Nyou say I'll make a profit? A fine idea!
+Dialogue: 99,0:08:07.70,0:08:09.54,Dialogue,Rishe; internal,0,0,0,,{\i1}Within the next few years,
+Dialogue: 99,0:08:09.54,0:08:12.67,Dialogue,Rishe; internal,0,0,0,,{\i1}the crown prince of this nation \Nwill wage wars on other countries,
+Dialogue: 99,0:08:12.67,0:08:17.55,Dialogue,Rishe; internal,0,0,0,,{\i1}and I'm formulating a plan to stop him... but \Nit's not as though I can tell him that.
+Dialogue: 99,0:08:17.55,0:08:19.27,Dialogue,Tully,0,0,0,,Listen well, milady,
+Dialogue: 99,0:08:19.27,0:08:22.94,Dialogue,Tully,0,0,0,,I trust my intuition a great deal,
+Dialogue: 99,0:08:22.94,0:08:25.69,Dialogue,Tully,0,0,0,,but what I regard as even more \Nimportant is results and—
+Dialogue: 99,0:08:25.69,0:08:28.23,Dialogue,Rishe; overlapped,0,0,0,,Results and proof of performance, right?
+Dialogue: 99,0:08:30.05,0:08:34.84,Dialogue,Rishe,0,0,0,,I will think of a business which will \Nprove successful here in the capital.
+Dialogue: 99,0:08:34.84,0:08:38.69,Dialogue,Rishe,0,0,0,,If you deem me worthy of \Nyour trust because of it,
+Dialogue: 99,0:08:38.69,0:08:41.66,Dialogue,Rishe,0,0,0,,then may I ask that you reevaluate \Nthis decision at that time?
+Dialogue: 99,0:08:47.46,0:08:48.84,Dialogue,Tully,0,0,0,,I like it!
+Dialogue: 99,0:08:48.84,0:08:51.61,Dialogue,Tully,0,0,0,,You're saying that if your idea \Nseems likely to turn a profit,
+Dialogue: 99,0:08:51.61,0:08:53.66,Dialogue,Tully,0,0,0,,you want me to acknowledge you.
+Dialogue: 99,0:08:53.66,0:08:55.59,Dialogue,Tully,0,0,0,,That's exactly the sort of thing I like.
+Dialogue: 99,0:08:55.59,0:08:57.84,Dialogue,Rishe; internal,0,0,0,,{\i1}Yes, I know that very well.
+Dialogue: 99,0:08:58.07,0:09:02.46,Dialogue,Tully,0,0,0,,You have a week. I'm looking \Nforward to this, milady.
+Dialogue: 99,0:09:02.46,0:09:04.45,Dialogue,Rishe,0,0,0,,Then it's a promise.
+Dialogue: 99,0:09:08.64,0:09:10.63,Dialogue,Rishe,0,0,0,,Thank you for your time.
+Dialogue: 99,0:09:10.63,0:09:15.13,Dialogue,Rishe,0,0,0,,And when everyone wakes, please \Nhave them drink this medicine.
+Dialogue: 99,0:09:16.61,0:09:18.12,Dialogue,Tully,0,0,0,,What is it?
+Dialogue: 99,0:09:18.12,0:09:21.24,Dialogue,Rishe,0,0,0,,I think you'll understand \Nquickly once you use it.
+Dialogue: 99,0:09:27.93,0:09:30.63,Dialogue,Rishe,0,0,0,,It isn't a simple thing to \Nsneak out of this place.
+Dialogue: 99,0:09:37.95,0:09:39.51,Dialogue,Arnold,0,0,0,,You were out late.
+Dialogue: 99,0:09:40.61,0:09:42.76,Dialogue,Rishe,0,0,0,,Your Highness, why are you here?
+Dialogue: 99,0:09:42.76,0:09:45.50,Dialogue,Arnold,0,0,0,,I heard that your offer \Nof trade was turned down.
+Dialogue: 99,0:09:46.70,0:09:48.58,Dialogue,Arnold,0,0,0,,It's a strange story.
+Dialogue: 99,0:09:48.58,0:09:53.61,Dialogue,Arnold,0,0,0,,A simple trader rejecting a request \Nfrom a future crown princess?
+Dialogue: 99,0:09:55.48,0:09:58.22,Dialogue,Arnold,0,0,0,,I'm the one who said to \Nspend your time as you like.
+Dialogue: 99,0:09:58.22,0:10:02.03,Dialogue,Arnold,0,0,0,,That's why I believe it would be \Nunreasonable of me to criticize your actions,
+Dialogue: 99,0:10:02.03,0:10:04.09,Dialogue,Arnold,0,0,0,,so I awaited your return instead. However...
+Dialogue: 99,0:10:37.36,0:10:43.69,Dialogue,Arnold,0,0,0,,So, even you look like that \Nwhen faced with a man alone at night.
+Dialogue: 99,0:10:49.80,0:10:52.88,Dialogue,Rishe,0,0,0,,I... am very sorry.
+Dialogue: 99,0:10:54.50,0:11:00.07,Dialogue,Rishe,0,0,0,,Sneaking out of the villa alone at night is \Nunbecoming of my position as your fiancée.
+Dialogue: 99,0:11:00.07,0:11:01.62,Dialogue,Rishe,0,0,0,,If your reputation were damaged because—
+Dialogue: 99,0:11:01.62,0:11:03.31,Dialogue,Arnold,0,0,0,,I don't care about that.
+Dialogue: 99,0:11:06.23,0:11:08.02,Dialogue,Arnold,0,0,0,,You're not hurt, are you?
+Dialogue: 99,0:11:08.24,0:11:08.86,Dialogue,Rishe,0,0,0,,What?
+Dialogue: 99,0:11:10.00,0:11:12.52,Dialogue,Rishe,0,0,0,,No, I'm not.
+Dialogue: 99,0:11:14.73,0:11:18.69,Dialogue,Arnold,0,0,0,,From now on, whenever you visit \Ntown, I will go with you.
+Dialogue: 99,0:11:18.69,0:11:19.26,Dialogue,Rishe,0,0,0,,What?
+Dialogue: 99,0:11:19.70,0:11:22.53,Dialogue,Arnold,0,0,0,,I told you. You're free to do as you like.
+Dialogue: 99,0:11:22.53,0:11:25.47,Dialogue,Arnold,0,0,0,,I also told you that I \Nwould help you in that.
+Dialogue: 99,0:11:25.47,0:11:29.80,Dialogue,Rishe,0,0,0,,Oh, but... I couldn't possibly ask Your \NHighness to go along with my selfish behavior!
+Dialogue: 99,0:11:29.80,0:11:32.06,Dialogue,Arnold,0,0,0,,I said that you're free to do as you like.
+Dialogue: 99,0:11:32.06,0:11:34.58,Dialogue,Arnold,0,0,0,,I didn't say you're free \Nto put yourself in danger.
+Dialogue: 99,0:11:36.29,0:11:37.17,Dialogue,Arnold,0,0,0,,What is it?
+Dialogue: 99,0:11:37.48,0:11:39.67,Dialogue,Rishe,0,0,0,,You're much too indulgent with me.
+Dialogue: 99,0:11:41.15,0:11:42.43,Dialogue,Arnold,0,0,0,,Well, as it's you,
+Dialogue: 99,0:11:42.89,0:11:45.87,Dialogue,Arnold,0,0,0,,if I try to restrict you by saying that \Nyou're never allowed to visit town again,
+Dialogue: 99,0:11:45.87,0:11:47.84,Dialogue,Arnold,0,0,0,,you'd just slip out quietly \Nagain, wouldn't you?
+Dialogue: 99,0:11:48.42,0:11:50.23,Dialogue,Arnold,0,0,0,,Even if it meant dyeing your hair.
+Dialogue: 99,0:11:50.99,0:11:55.19,Dialogue,Arnold,0,0,0,,Giving permission with conditions attached \Nseems more likely to work as a restraint.
+Dialogue: 99,0:11:55.19,0:11:58.19,Dialogue,Rishe,0,0,0,,Am I really so easily understood?
+Dialogue: 99,0:11:58.19,0:11:59.11,Dialogue,Arnold,0,0,0,,Not at all.
+Dialogue: 99,0:11:59.64,0:12:03.75,Dialogue,Arnold,0,0,0,,You're the type that's so difficult to \Nunderstand that I can't predict you at all.
+Dialogue: 99,0:12:05.60,0:12:07.44,Dialogue,Rishe,0,0,0,,You're enjoying this, aren't you?
+Dialogue: 99,0:12:07.44,0:12:09.74,Dialogue,Rishe,0,0,0,,You and the chief both.
+Dialogue: 99,0:12:10.36,0:12:11.72,Dialogue,Arnold,0,0,0,,The chief?
+Dialogue: 99,0:12:12.40,0:12:15.96,Dialogue,Arnold,0,0,0,,What has passed between you \Nand the Aria Trading Company?
+Dialogue: 99,0:12:18.68,0:12:19.69,Dialogue,Rishe,0,0,0,,Your Highness?
+Dialogue: 99,0:12:19.69,0:12:20.59,Dialogue,Arnold,0,0,0,,Yes?
+Dialogue: 99,0:12:21.01,0:12:23.09,Dialogue,Rishe,0,0,0,,Do you happen to be hungry?
+Dialogue: 99,0:13:00.80,0:13:03.24,Dialogue,Rishe,0,0,0,,Um, Y-Your Highness?
+Dialogue: 99,0:13:04.39,0:13:06.73,Dialogue,Rishe,0,0,0,,There's something I must apologize for.
+Dialogue: 99,0:13:06.73,0:13:07.64,Dialogue,Arnold,0,0,0,,What is it?
+Dialogue: 99,0:13:09.20,0:13:13.99,Dialogue,Rishe,0,0,0,,I'm terribly sorry, even though \NI'm the one who proposed it...
+Dialogue: 99,0:13:14.58,0:13:15.71,Dialogue,Rishe,0,0,0,,I, um...
+Dialogue: 99,0:13:16.65,0:13:19.88,Dialogue,Rishe,0,0,0,,I'm a terrible cook!
+Dialogue: 99,0:13:23.28,0:13:24.30,Dialogue,Arnold,0,0,0,,I see.
+Dialogue: 99,0:13:25.07,0:13:27.08,Dialogue,Rishe,0,0,0,,I'm very sorry.
+Dialogue: 99,0:13:27.08,0:13:31.99,Dialogue,Arnold,0,0,0,,Well, it's unusual to find a noble \N lady who has experience cooking.
+Dialogue: 99,0:13:33.28,0:13:39.09,Dialogue,Rishe; internal,0,0,0,,{\i1}In my past lives, meals were just a time \Nwhen I prioritized putting food in my stomach.
+Dialogue: 99,0:13:39.99,0:13:43.00,Dialogue,Rishe,0,0,0,,I don't think this soup will \Nsuit your tastes, Your Highness.
+Dialogue: 99,0:13:46.99,0:13:48.01,Dialogue,Arnold,0,0,0,,It's good.
+Dialogue: 99,0:13:48.01,0:13:48.79,Dialogue,Rishe,0,0,0,,What?
+Dialogue: 99,0:13:50.00,0:13:51.76,Dialogue,Arnold,0,0,0,,This soup will do just fine.
+Dialogue: 99,0:13:53.19,0:13:56.50,Dialogue,Rishe; internal,0,0,0,,{\i1}I don't think he can tell \Ngood flavors from bad.
+Dialogue: 99,0:13:55.64,0:13:56.50,Dialogue,Arnold,0,0,0,,{\an8}Hey.
+Dialogue: 99,0:13:56.50,0:13:58.90,Dialogue,Arnold,0,0,0,,You're thinking something \Ndisrespectful, aren't you?
+Dialogue: 99,0:13:58.90,0:14:00.88,Dialogue,Rishe,0,0,0,,No, not at all!
+Dialogue: 99,0:14:02.33,0:14:04.06,Dialogue,Rishe,0,0,0,,Thank you.
+Dialogue: 99,0:14:04.06,0:14:06.02,Dialogue,Arnold,0,0,0,,It's your fault that I'm hungry.
+Dialogue: 99,0:14:06.47,0:14:08.12,Dialogue,Arnold,0,0,0,,Let's hurry up and set out the dishes.
+Dialogue: 99,0:14:08.69,0:14:09.66,Dialogue,Rishe,0,0,0,,Of course!
+Dialogue: 99,0:14:12.26,0:14:13.66,Dialogue,Rishe,0,0,0,,Which is why...
+Dialogue: 99,0:14:13.89,0:14:18.23,Dialogue,Rishe,0,0,0,,I now have to propose a new \Nbusiness idea within a week.
+Dialogue: 99,0:14:20.04,0:14:21.21,Dialogue,Arnold,0,0,0,,I understand.
+Dialogue: 99,0:14:21.21,0:14:22.56,Dialogue,Rishe,0,0,0,,Which means?
+Dialogue: 99,0:14:22.56,0:14:24.67,Dialogue,Arnold,0,0,0,,I said I understand.
+Dialogue: 99,0:14:24.67,0:14:27.30,Dialogue,Arnold,0,0,0,,I comprehend what it is you want to do.
+Dialogue: 99,0:14:28.46,0:14:33.81,Dialogue,Rishe,0,0,0,,You're not going to ask me what I plan \Nto use the Aria Trading Company for?
+Dialogue: 99,0:14:34.07,0:14:36.89,Dialogue,Arnold,0,0,0,,You kept that a secret from the \Ntrading company, didn't you?
+Dialogue: 99,0:14:36.89,0:14:39.06,Dialogue,Arnold,0,0,0,,Then, I can't imagine that you'd tell me.
+Dialogue: 99,0:14:39.06,0:14:40.86,Dialogue,Rishe,0,0,0,,It's just as you say, but...
+Dialogue: 99,0:14:41.32,0:14:44.60,Dialogue,Arnold,0,0,0,,Have you figured out this business \Nor whatever you're thinking up?
+Dialogue: 99,0:14:44.60,0:14:46.48,Dialogue,Rishe,0,0,0,,I have several ideas.
+Dialogue: 99,0:14:46.48,0:14:49.07,Dialogue,Rishe,0,0,0,,It's just that I don't know \Nif any of them will work.
+Dialogue: 99,0:14:49.64,0:14:52.22,Dialogue,Rishe,0,0,0,,What kinds of people live in the capital?
+Dialogue: 99,0:14:52.22,0:14:54.33,Dialogue,Rishe,0,0,0,,What sorts of things do they love?
+Dialogue: 99,0:14:54.33,0:14:56.88,Dialogue,Rishe,0,0,0,,There's a mountain of \Nthings I need to research.
+Dialogue: 99,0:14:56.88,0:14:59.51,Dialogue,Arnold,0,0,0,,You're saying this will be a difficult fight.
+Dialogue: 99,0:14:59.51,0:15:00.35,Dialogue,Rishe,0,0,0,,Yes.
+Dialogue: 99,0:15:05.13,0:15:07.59,Dialogue,Rishe,0,0,0,,You really are enjoying this, aren't you?
+Dialogue: 99,0:15:08.38,0:15:09.74,Dialogue,Arnold,0,0,0,,You should do as you like.
+Dialogue: 99,0:15:10.28,0:15:11.92,Dialogue,Arnold,0,0,0,,I have to get back.
+Dialogue: 99,0:15:11.92,0:15:13.96,Dialogue,Rishe,0,0,0,,Yes, of course. Good night.
+Dialogue: 99,0:15:17.35,0:15:19.27,Dialogue,Rishe,0,0,0,,Is something wrong?
+Dialogue: 99,0:15:19.65,0:15:21.62,Dialogue,Arnold,0,0,0,,Have you met my younger brother?
+Dialogue: 99,0:15:21.62,0:15:24.35,Dialogue,Rishe,0,0,0,,Your Highness's younger brother? No.
+Dialogue: 99,0:15:24.35,0:15:25.52,Dialogue,Arnold,0,0,0,,That's good.
+Dialogue: 99,0:15:25.75,0:15:28.82,Dialogue,Arnold,0,0,0,,If he approaches you, don't entertain him.
+Dialogue: 99,0:15:28.82,0:15:30.28,Dialogue,Rishe,0,0,0,,Is there something I should know?
+Dialogue: 99,0:15:30.28,0:15:32.18,Dialogue,Arnold,0,0,0,,There's no need for you to know.
+Dialogue: 99,0:15:52.08,0:15:54.40,Dialogue,Rishe; internal,0,0,0,,{\i1}This town's population, \Nits male to female ratio,
+Dialogue: 99,0:15:54.40,0:15:57.27,Dialogue,Rishe; internal,0,0,0,,{\i1}and its age distribution are \Nthe minimum information I need.
+Dialogue: 99,0:15:57.27,0:15:59.18,Dialogue,Rishe; internal,0,0,0,,{\i1}Changes in its economic development...
+Dialogue: 99,0:15:59.18,0:16:01.31,Dialogue,Rishe; internal,0,0,0,,{\i1}the state of the surrounding regions...
+Dialogue: 99,0:16:01.31,0:16:04.94,Dialogue,Rishe; internal,0,0,0,,{\i1}information on traders and travelers \Nentering and leaving, too...
+Dialogue: 99,0:16:07.36,0:16:10.77,Dialogue,Rishe; internal,0,0,0,,{\i1}I garden in the morning, check \Nteaching materials in the afternoon,
+Dialogue: 99,0:16:10.77,0:16:13.45,Dialogue,Rishe; internal,0,0,0,,{\i1}and I have to prepare for the \Nwedding ceremony as well.
+Dialogue: 99,0:16:13.45,0:16:15.75,Dialogue,Rishe; internal,0,0,0,,{\i1}I won't be getting any \Nsleep or rest for a while!
+Dialogue: 99,0:16:17.14,0:16:18.95,Dialogue,Oliver,0,0,0,,A midnight snack? You, my lord?
+Dialogue: 99,0:16:18.95,0:16:20.03,Dialogue,Arnold,0,0,0,,What of it?
+Dialogue: 99,0:16:20.03,0:16:21.00,Dialogue,Oliver,0,0,0,,Nothing.
+Dialogue: 99,0:16:21.00,0:16:24.00,Dialogue,Oliver,0,0,0,,Lady Rishe must be an excellent cook.
+Dialogue: 99,0:16:24.68,0:16:27.21,Dialogue,Arnold,0,0,0,,She said she's terrible at cooking...
+Dialogue: 99,0:16:27.61,0:16:28.66,Dialogue,Arnold,0,0,0,,but it was good.
+Dialogue: 99,0:16:30.84,0:16:31.56,Dialogue,Arnold,0,0,0,,Hey.
+Dialogue: 99,0:16:31.96,0:16:36.35,Dialogue,Arnold,0,0,0,,Is adding medicinal herbs \Nto soup a standard practice?
+Dialogue: 99,0:16:36.79,0:16:38.23,Dialogue,Oliver,0,0,0,,To soup?
+Dialogue: 99,0:16:38.23,0:16:40.60,Dialogue,Oliver,0,0,0,,No, that isn't usually done.
+Dialogue: 99,0:16:42.08,0:16:42.98,Dialogue,Arnold,0,0,0,,I see.
+Dialogue: 99,0:16:48.67,0:16:51.86,Dialogue,Kamil,0,0,0,,Were you unable to get much rest last night?
+Dialogue: 99,0:16:51.86,0:16:54.34,Dialogue,Rishe,0,0,0,,I was doing a little research.
+Dialogue: 99,0:16:54.34,0:16:56.70,Dialogue,Kamil,0,0,0,,Please don't push yourself too hard.
+Dialogue: 99,0:17:00.57,0:17:03.33,Dialogue,Dennis,0,0,0,,Lady Rishe! Please stand back!
+Dialogue: 99,0:17:03.33,0:17:04.78,Dialogue,Dennis,0,0,0,,Let's return to your room.
+Dialogue: 99,0:17:06.89,0:17:09.68,Dialogue,Rishe; internal,0,0,0,,{\i1}Black hair is rare on this continent.
+Dialogue: 99,0:17:09.68,0:17:10.90,Dialogue,Dennis,0,0,0,,Lady Rishe!
+Dialogue: 99,0:17:12.74,0:17:13.95,Dialogue,Theodore,0,0,0,,Rishe?
+Dialogue: 99,0:17:13.95,0:17:14.75,Dialogue,Dennis,0,0,0,,Oh no!
+Dialogue: 99,0:17:17.68,0:17:20.05,Dialogue,Theodore,0,0,0,,You are my older brother's...
+Dialogue: 99,0:17:23.50,0:17:26.52,Dialogue,Theodore,0,0,0,,Pleased to meet you, my lovely older sister!
+Dialogue: 99,0:17:27.94,0:17:29.81,Dialogue,Theodore,0,0,0,,Finally, we meet!
+Dialogue: 99,0:17:29.81,0:17:33.04,Dialogue,Theodore,0,0,0,,I've sent so many letters \Nsaying I wanted to meet you,
+Dialogue: 99,0:17:33.04,0:17:35.79,Dialogue,Theodore,0,0,0,,but my brother hasn't sent a single reply.
+Dialogue: 99,0:17:35.79,0:17:37.07,Dialogue,Theodore,0,0,0,,Isn't that just mean?
+Dialogue: 99,0:17:40.16,0:17:43.08,Dialogue,Theodore,0,0,0,,There's no need to be so tense.
+Dialogue: 99,0:17:44.14,0:17:46.07,Dialogue,Theodore,0,0,0,,I'm Theodore.
+Dialogue: 99,0:17:46.07,0:17:48.06,Dialogue,Theodore,0,0,0,,Theodore Auguste Hein.
+Dialogue: 99,0:17:48.06,0:17:52.34,Dialogue,Theodore,0,0,0,,I'm second in line to the throne \Nand Arnold Hein's younger brother.
+Dialogue: 99,0:17:52.74,0:17:55.65,Dialogue,Rishe; internal,0,0,0,,{\i1}I've been told not to spend \Ntime with him, but...
+Dialogue: 99,0:17:58.65,0:18:00.61,Dialogue,Rishe,0,0,0,,I'm honored to meet you.
+Dialogue: 99,0:18:00.61,0:18:03.19,Dialogue,Rishe,0,0,0,,My name is Rishe Irmgard Weitzner.
+Dialogue: 99,0:18:03.92,0:18:09.00,Dialogue,Rishe,0,0,0,,A twist of fate has allowed me to fill the \Nlowest position in the imperial family.
+Dialogue: 99,0:18:09.00,0:18:11.14,Dialogue,Rishe,0,0,0,,I hope that we will get on well together.
+Dialogue: 99,0:18:11.14,0:18:13.86,Dialogue,Theodore,0,0,0,,I was wondering, what are you \Ndoing out here, dear sister?
+Dialogue: 99,0:18:13.86,0:18:17.36,Dialogue,Rishe,0,0,0,,This garden plot is one that I've created.
+Dialogue: 99,0:18:17.36,0:18:18.88,Dialogue,Theodore,0,0,0,,You made this?
+Dialogue: 99,0:18:18.88,0:18:21.30,Dialogue,Theodore,0,0,0,,That's amazing!
+Dialogue: 99,0:18:21.30,0:18:23.91,Dialogue,Theodore,0,0,0,,It's rare to find a bed so fluffy!
+Dialogue: 99,0:18:24.38,0:18:27.67,Dialogue,Theodore,0,0,0,,But there is one thing bothering me.
+Dialogue: 99,0:18:27.67,0:18:28.92,Dialogue,Theodore,0,0,0,,Will you look here for me?
+Dialogue: 99,0:18:28.92,0:18:30.92,Dialogue,Rishe,0,0,0,,Is something the matter?
+Dialogue: 99,0:18:31.33,0:18:32.61,Dialogue,Theodore,0,0,0,,See? Right here.
+Dialogue: 99,0:18:33.72,0:18:35.26,Dialogue,Rishe,0,0,0,,Well...
+Dialogue: 99,0:18:36.61,0:18:38.09,Dialogue,Theodore,0,0,0,,I want to save you.
+Dialogue: 99,0:18:40.80,0:18:44.84,Dialogue,Theodore,0,0,0,,You poor thing. Dragged all \Nthe way to a place like this.
+Dialogue: 99,0:18:44.84,0:18:48.43,Dialogue,Theodore,0,0,0,,You aren't truly a bride. You're a hostage.
+Dialogue: 99,0:18:50.36,0:18:51.81,Dialogue,Rishe,0,0,0,,I'm aware.
+Dialogue: 99,0:18:51.81,0:18:52.86,Dialogue,Theodore,0,0,0,,You are?
+Dialogue: 99,0:18:53.75,0:18:58.15,Dialogue,Rishe,0,0,0,,Prince Arnold is more than \Nsatisfactorily considerate toward me.
+Dialogue: 99,0:18:59.65,0:19:00.83,Dialogue,Theodore,0,0,0,,I see.
+Dialogue: 99,0:19:04.28,0:19:07.18,Dialogue,Theodore,0,0,0,,I'm glad I was able to meet \Nyou today! I'll see you again.
+Dialogue: 99,0:19:13.18,0:19:16.17,Dialogue,Rishe; internal,0,0,0,,{\i1}Second in line to the throne?
+Dialogue: 99,0:19:16.17,0:19:20.00,Dialogue,Rishe; internal,0,0,0,,{\i1}That's not something you say as an \Nintroduction to your older brother's fiancée.
+Dialogue: 99,0:19:23.52,0:19:25.68,Dialogue,Rishe,0,0,0,,This may seem apropos of nothing,
+Dialogue: 99,0:19:25.68,0:19:29.63,Dialogue,Rishe,0,0,0,,but earlier, you didn't \Nseem your usual selves.
+Dialogue: 99,0:19:30.24,0:19:33.81,Dialogue,Rishe,0,0,0,,Do you have orders not to let \Nme near his younger brother?
+Dialogue: 99,0:19:34.25,0:19:37.52,Dialogue,Kamil,0,0,0,,That isn't something we \Nwould be able to tell you.
+Dialogue: 99,0:19:37.52,0:19:41.15,Dialogue,Rishe,0,0,0,,Then, do the brothers get along well?
+Dialogue: 99,0:19:42.88,0:19:44.57,Dialogue,Kamil,0,0,0,,We can't speak to that either.
+Dialogue: 99,0:19:44.96,0:19:47.12,Dialogue,Rishe,0,0,0,,I'm sorry for asking such strange questions.
+Dialogue: 99,0:19:47.12,0:19:47.95,Dialogue,Kamil,0,0,0,,Not at all.
+Dialogue: 99,0:19:49.83,0:19:53.14,Dialogue,Rishe; internal,0,0,0,,{\i1}I'll have to deal with \Nthis matter eventually,
+Dialogue: 99,0:19:53.14,0:19:55.58,Dialogue,Rishe; internal,0,0,0,,{\i1}but right now, my negotiation \Nwith the chief comes first.
+Dialogue: 99,0:19:56.34,0:19:57.91,Dialogue,Arnold,0,0,0,,Don't make me repeat myself.
+Dialogue: 99,0:19:58.32,0:20:00.88,Dialogue,Arnold,0,0,0,,Our military force will be \Nturned to the protection of the people.
+Dialogue: 99,0:20:00.88,0:20:02.57,Dialogue,Arnold,0,0,0,,The decision has already been made.
+Dialogue: 99,0:20:02.57,0:20:06.16,Dialogue,Earl in military affairs,0,0,0,,Ignoring the regional lords in order to \Ntenderheartedly protect the commoners?
+Dialogue: 99,0:20:06.16,0:20:07.78,Dialogue,Earl in military affairs,0,0,0,,What's the meaning of this?
+Dialogue: 99,0:20:07.78,0:20:12.85,Dialogue,Arnold,0,0,0,,The nobility has their private armies, and \Nthe nation provides the funds to maintain them.
+Dialogue: 99,0:20:12.85,0:20:14.03,Dialogue,Arnold,0,0,0,,You can say whatever you like.
+Dialogue: 99,0:20:14.03,0:20:16.90,Dialogue,Earl in military affairs,0,0,0,,Your Highness, please reconsider!
+Dialogue: 99,0:20:17.43,0:20:21.99,Dialogue,Earl in military affairs,0,0,0,,I can't say that your father \Nwill be pleased by this order.
+Dialogue: 99,0:20:23.85,0:20:26.41,Dialogue,Arnold,0,0,0,,I will not argue with you. Know your place.
+Dialogue: 99,0:20:33.54,0:20:35.33,Dialogue,Rishe,0,0,0,,Um...
+Dialogue: 99,0:20:52.08,0:20:54.61,Dialogue,Arnold,0,0,0,,I'll have separate notices sent to the lords.
+Dialogue: 99,0:20:54.61,0:20:56.68,Dialogue,Earl in military affairs,0,0,0,,Notices?
+Dialogue: 99,0:20:56.68,0:21:01.19,Dialogue,Arnold,0,0,0,,Our protecting the people just needs to \Nend up being in their favor, correct?
+Dialogue: 99,0:21:01.59,0:21:07.22,Dialogue,Arnold,0,0,0,,If our forces are turned to protecting the \Npeople and they are able to live in safety,
+Dialogue: 99,0:21:07.22,0:21:11.08,Dialogue,Arnold,0,0,0,,that will ultimately lead to increased tax \Nrevenue which should benefit the lords.
+Dialogue: 99,0:21:14.75,0:21:19.09,Dialogue,Earl in military affairs,0,0,0,,If that's the case, then the lords \Nwill likely accept the change.
+Dialogue: 99,0:21:19.09,0:21:20.71,Dialogue,Arnold,0,0,0,,This conversation is over.
+Dialogue: 99,0:21:25.90,0:21:28.28,Dialogue,Rishe,0,0,0,,The indemnities gained through war
+Dialogue: 99,0:21:28.28,0:21:31.97,Dialogue,Rishe,0,0,0,,are invested locally in revitalization \Nand creating employment.
+Dialogue: 99,0:21:31.97,0:21:35.60,Dialogue,Rishe,0,0,0,,This policy was created by Arnold Hein.
+Dialogue: 99,0:21:36.64,0:21:40.99,Dialogue,Rishe; internal,0,0,0,,{\i1}He is forcefully introducing \Npolicies which benefit the people.
+Dialogue: 99,0:21:41.48,0:21:45.56,Dialogue,Rishe; internal,0,0,0,,{\i1}He really is very different from the \Nimpressions I have of him from my past lives.
+Dialogue: 99,0:21:48.74,0:21:51.18,Dialogue,Rishe,0,0,0,,Well then, good night.
+Dialogue: 99,0:21:51.18,0:21:52.49,Dialogue,Dennis; Kamil,0,0,0,,Good night, my lady.
+Dialogue: 99,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\an7\pos(6.409,261.138)\fs18}I will confide a secret to\Nyou. Be at the chapel\Ntonight at twelve.
+Dialogue: 99,0:22:02.59,0:22:06.84,sign_generic,text,0,0,0,,{\bord1\blur1\pos(118.878,335.988)\fs18}Arnold Hein
+Dialogue: 99,0:22:26.08,0:22:27.65,Dialogue,Rishe,0,0,0,,Good evening,
+Dialogue: 99,0:22:27.65,0:22:29.13,Dialogue,Rishe,0,0,0,,Prince Theodore.
+Dialogue: 99,0:22:30.58,0:22:32.03,Dialogue,Theodore,0,0,0,,Good evening,
+Dialogue: 99,0:22:32.42,0:22:34.10,Dialogue,Theodore,0,0,0,,my lovely older sister.
 Dialogue: 0,0:22:52.10,0:22:55.10,Dialogue,,0,0,0,,

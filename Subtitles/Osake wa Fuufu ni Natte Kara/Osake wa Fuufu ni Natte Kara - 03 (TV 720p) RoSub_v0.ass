@@ -40,68 +40,68 @@ Style: ED TL,Lemon Squeezy,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,{Episod}
 Comment: 0,0:02:30.00,0:02:30.04,Dialogue,,0,0,0,,{ED}
-Dialogue: 100,0:00:03.78,0:00:04.48,Dialogue,,0,0,0,,{\an8}Ce?
-Dialogue: 100,0:00:04.48,0:00:06.65,Dialogue,,0,0,0,,{\an8}Șefă, ești bine?!
-Dialogue: 100,0:00:07.11,0:00:08.11,Dialogue,,0,0,0,,Chisato?
-Dialogue: 100,0:00:09.59,0:00:11.19,Dialogue,,0,0,0,,A fost numai vina mea.
-Dialogue: 100,0:00:11.19,0:00:14.73,Dialogue,,0,0,0,,Aduceam Omul Lămâie înaripat și...
-Dialogue: 100,0:00:14.73,0:00:16.18,Dialogue,,0,0,0,,Zbor!
-Dialogue: 100,0:00:16.18,0:00:18.34,Dialogue,,0,0,0,,Nu, a fost vina mea.
-Dialogue: 100,0:00:18.34,0:00:20.41,Dialogue,,0,0,0,,Voiam să-l agăț de tavan.
-Dialogue: 100,0:00:20.41,0:00:21.66,Dialogue,,0,0,0,,Ce tot faceți?
-Dialogue: 100,0:00:21.66,0:00:23.71,Dialogue,,0,0,0,,Cum îți este piciorul?
-Dialogue: 100,0:00:23.71,0:00:24.89,Dialogue,,0,0,0,,Poți merge?
-Dialogue: 100,0:00:26.32,0:00:27.33,Dialogue,,0,0,0,,Au...
-Dialogue: 100,0:00:27.33,0:00:29.63,Dialogue,,0,0,0,,Piciorul tău...
-Dialogue: 100,0:00:28.66,0:00:30.81,Dialogue Top,,0,0,0,,Sună-ți soțul să vină să te ia.
-Dialogue: 100,0:00:30.81,0:00:31.88,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:00:31.88,0:00:36.10,Dialogue,,0,0,0,,Koharu s-ar putea să se simtă responsabilă și să încerce să te ducă ea acasă.
-Dialogue: 100,0:00:36.10,0:00:37.40,Dialogue,,0,0,0,,În acest caz...
-Dialogue: 100,0:00:37.40,0:00:38.70,Dialogue,,0,0,0,,Îmi cer scuze pentru deranj.
-Dialogue: 100,0:00:39.26,0:00:40.79,Dialogue,,0,0,0,,Sunt soțul lui Mizusawa.
-Dialogue: 100,0:00:43.73,0:00:46.24,Dialogue,,0,0,0,,Încântată de cunoștință. Eu sunt Shiraishi, colega ei de muncă.
-Dialogue: 100,0:00:46.24,0:00:47.81,Dialogue,,0,0,0,,Vă mulțumesc pentru că \Naveți grijă de soția mea.
-Dialogue: 100,0:00:48.25,0:00:50.40,Dialogue,,0,0,0,,Te rog să împarți astea cu toată lumea.
-Dialogue: 100,0:00:50.40,0:00:53.42,Dialogue,,0,0,0,,O, mulțumim foarte mult.
-Dialogue: 100,0:00:55.86,0:00:57.17,Dialogue,,0,0,0,,Oricum...
-Dialogue: 100,0:00:57.17,0:00:58.45,Dialogue,,0,0,0,,Să mergem.
-Dialogue: 100,0:00:58.45,0:01:00.66,Dialogue,,0,0,0,,Mulțumesc, toată lumea.
-Dialogue: 100,0:01:00.66,0:01:02.79,Dialogue,,0,0,0,,Arată exact ca mine când eram tânăr.
-Dialogue: 100,0:01:02.79,0:01:03.54,Dialogue,,0,0,0,,Nu mai spune.
-Dialogue: 100,0:01:05.67,0:01:08.62,Dialogue,,0,0,0,,Au spus că se va vindeca în două sau trei zile. Asta este minunat.
-Dialogue: 100,0:01:08.62,0:01:09.70,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:01:09.70,0:01:11.52,Dialogue,,0,0,0,,Vom ajunge acasă imediat.
-Dialogue: 100,0:01:11.52,0:01:12.73,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:01:15.26,0:01:16.19,Dialogue,,0,0,0,,Ești în regulă?
-Dialogue: 100,0:01:16.19,0:01:17.09,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:01:17.68,0:01:20.33,Dialogue,,0,0,0,,Sora, mi-ar plăcea să beau ceva.
-Dialogue: 100,0:01:20.33,0:01:22.14,Dialogue,,0,0,0,,Nu cred că ar trebui să bei astăzi..
-Dialogue: 100,0:01:22.14,0:01:23.78,Dialogue,,0,0,0,,Mi-ar plăcea să
-Dialogue: 100,0:01:23.78,0:01:25.23,Dialogue,,0,0,0,,mă amețesc.
-Dialogue: 100,0:01:28.85,0:01:30.81,Dialogue,,0,0,0,,Asta este Cenușăreasa.
-Dialogue: 100,0:01:30.81,0:01:31.98,Dialogue,,0,0,0,,Bea.
-Dialogue: 100,0:01:33.16,0:01:34.23,Dialogue,,0,0,0,,Ce este în neregulă?
-Dialogue: 100,0:01:34.23,0:01:35.64,Dialogue,,0,0,0,,N-Nu este nimic.
-Dialogue: 100,0:01:35.64,0:01:37.08,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:01:44.77,0:01:47.37,Dialogue,,0,0,0,,{\i1}Este așa de bună.
-Dialogue: 100,0:01:47.37,0:01:50.88,Dialogue,,0,0,0,,{\i1}Este foarte gustoasă și are \Nacest suc dulce de ananas în ea.
-Dialogue: 100,0:01:54.41,0:01:56.33,Dialogue,,0,0,0,,Te iubesc așa de mult, Sora!
-Dialogue: 100,0:01:55.57,0:01:57.42,Dialogue Overlap,,0,0,0,,Ce este în neregulă, Chi-chan?
-Dialogue: 100,0:01:57.42,0:02:01.98,Dialogue,,0,0,0,,M-ai cărat tot drumul \Nde la lucru până acasă—
-Dialogue: 100,0:02:01.98,0:02:04.14,Dialogue,,0,0,0,,a fost foarte dulce.
-Dialogue: 100,0:02:04.14,0:02:06.15,Dialogue,,0,0,0,,Chi-chan, te-ai... îmbătat?
-Dialogue: 100,0:02:06.15,0:02:08.06,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:02:08.95,0:02:09.84,Dialogue,,0,0,0,,Scuze, dar...
-Dialogue: 100,0:02:09.84,0:02:14.50,Dialogue,,0,0,0,,Cocktail-ul nu avea alcool în el deloc.
-Dialogue: 100,0:02:14.99,0:02:15.90,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:02:17.42,0:02:20.12,Dialogue,,0,0,0,,{\i1}Băutura din această seară este Cenușăreasa.
-Dialogue: 100,0:02:20.12,0:02:22.74,Dialogue,,0,0,0,,Nu conține deloc alcool, \Ndeci o puteți face pentru oricine.
-Dialogue: 100,0:02:22.74,0:02:23.81,Dialogue,,0,0,0,,Fără alcool!
-Dialogue: 100,0:02:23.81,0:02:24.68,Dialogue,,0,0,0,,Da!
-Dialogue: 100,0:02:24.68,0:02:25.52,Dialogue,,0,0,0,,Așa este!
-Dialogue: 100,0:02:25.52,0:02:26.79,Dialogue,,0,0,0,,E-Este în regulă!
-Dialogue: 100,0:02:26.79,0:02:28.29,Dialogue,,0,0,0,,Uneori te simți ca și cum te-ai fi îmbătat!
-Dialogue: 100,0:02:28.29,0:02:30.00,Dialogue,,0,0,0,,Este în regulă!
+Dialogue: 99,0:00:03.78,0:00:04.48,Dialogue,,0,0,0,,{\an8}Ce?
+Dialogue: 99,0:00:04.48,0:00:06.65,Dialogue,,0,0,0,,{\an8}Șefă, ești bine?!
+Dialogue: 99,0:00:07.11,0:00:08.11,Dialogue,,0,0,0,,Chisato?
+Dialogue: 99,0:00:09.59,0:00:11.19,Dialogue,,0,0,0,,A fost numai vina mea.
+Dialogue: 99,0:00:11.19,0:00:14.73,Dialogue,,0,0,0,,Aduceam Omul Lămâie înaripat și...
+Dialogue: 99,0:00:14.73,0:00:16.18,Dialogue,,0,0,0,,Zbor!
+Dialogue: 99,0:00:16.18,0:00:18.34,Dialogue,,0,0,0,,Nu, a fost vina mea.
+Dialogue: 99,0:00:18.34,0:00:20.41,Dialogue,,0,0,0,,Voiam să-l agăț de tavan.
+Dialogue: 99,0:00:20.41,0:00:21.66,Dialogue,,0,0,0,,Ce tot faceți?
+Dialogue: 99,0:00:21.66,0:00:23.71,Dialogue,,0,0,0,,Cum îți este piciorul?
+Dialogue: 99,0:00:23.71,0:00:24.89,Dialogue,,0,0,0,,Poți merge?
+Dialogue: 99,0:00:26.32,0:00:27.33,Dialogue,,0,0,0,,Au...
+Dialogue: 99,0:00:27.33,0:00:29.63,Dialogue,,0,0,0,,Piciorul tău...
+Dialogue: 99,0:00:28.66,0:00:30.81,Dialogue Top,,0,0,0,,Sună-ți soțul să vină să te ia.
+Dialogue: 99,0:00:30.81,0:00:31.88,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:00:31.88,0:00:36.10,Dialogue,,0,0,0,,Koharu s-ar putea să se simtă responsabilă și să încerce să te ducă ea acasă.
+Dialogue: 99,0:00:36.10,0:00:37.40,Dialogue,,0,0,0,,În acest caz...
+Dialogue: 99,0:00:37.40,0:00:38.70,Dialogue,,0,0,0,,Îmi cer scuze pentru deranj.
+Dialogue: 99,0:00:39.26,0:00:40.79,Dialogue,,0,0,0,,Sunt soțul lui Mizusawa.
+Dialogue: 99,0:00:43.73,0:00:46.24,Dialogue,,0,0,0,,Încântată de cunoștință. Eu sunt Shiraishi, colega ei de muncă.
+Dialogue: 99,0:00:46.24,0:00:47.81,Dialogue,,0,0,0,,Vă mulțumesc pentru că \Naveți grijă de soția mea.
+Dialogue: 99,0:00:48.25,0:00:50.40,Dialogue,,0,0,0,,Te rog să împarți astea cu toată lumea.
+Dialogue: 99,0:00:50.40,0:00:53.42,Dialogue,,0,0,0,,O, mulțumim foarte mult.
+Dialogue: 99,0:00:55.86,0:00:57.17,Dialogue,,0,0,0,,Oricum...
+Dialogue: 99,0:00:57.17,0:00:58.45,Dialogue,,0,0,0,,Să mergem.
+Dialogue: 99,0:00:58.45,0:01:00.66,Dialogue,,0,0,0,,Mulțumesc, toată lumea.
+Dialogue: 99,0:01:00.66,0:01:02.79,Dialogue,,0,0,0,,Arată exact ca mine când eram tânăr.
+Dialogue: 99,0:01:02.79,0:01:03.54,Dialogue,,0,0,0,,Nu mai spune.
+Dialogue: 99,0:01:05.67,0:01:08.62,Dialogue,,0,0,0,,Au spus că se va vindeca în două sau trei zile. Asta este minunat.
+Dialogue: 99,0:01:08.62,0:01:09.70,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:01:09.70,0:01:11.52,Dialogue,,0,0,0,,Vom ajunge acasă imediat.
+Dialogue: 99,0:01:11.52,0:01:12.73,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:01:15.26,0:01:16.19,Dialogue,,0,0,0,,Ești în regulă?
+Dialogue: 99,0:01:16.19,0:01:17.09,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:01:17.68,0:01:20.33,Dialogue,,0,0,0,,Sora, mi-ar plăcea să beau ceva.
+Dialogue: 99,0:01:20.33,0:01:22.14,Dialogue,,0,0,0,,Nu cred că ar trebui să bei astăzi..
+Dialogue: 99,0:01:22.14,0:01:23.78,Dialogue,,0,0,0,,Mi-ar plăcea să
+Dialogue: 99,0:01:23.78,0:01:25.23,Dialogue,,0,0,0,,mă amețesc.
+Dialogue: 99,0:01:28.85,0:01:30.81,Dialogue,,0,0,0,,Asta este Cenușăreasa.
+Dialogue: 99,0:01:30.81,0:01:31.98,Dialogue,,0,0,0,,Bea.
+Dialogue: 99,0:01:33.16,0:01:34.23,Dialogue,,0,0,0,,Ce este în neregulă?
+Dialogue: 99,0:01:34.23,0:01:35.64,Dialogue,,0,0,0,,N-Nu este nimic.
+Dialogue: 99,0:01:35.64,0:01:37.08,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:01:44.77,0:01:47.37,Dialogue,,0,0,0,,{\i1}Este așa de bună.
+Dialogue: 99,0:01:47.37,0:01:50.88,Dialogue,,0,0,0,,{\i1}Este foarte gustoasă și are \Nacest suc dulce de ananas în ea.
+Dialogue: 99,0:01:54.41,0:01:56.33,Dialogue,,0,0,0,,Te iubesc așa de mult, Sora!
+Dialogue: 99,0:01:55.57,0:01:57.42,Dialogue Overlap,,0,0,0,,Ce este în neregulă, Chi-chan?
+Dialogue: 99,0:01:57.42,0:02:01.98,Dialogue,,0,0,0,,M-ai cărat tot drumul \Nde la lucru până acasă—
+Dialogue: 99,0:02:01.98,0:02:04.14,Dialogue,,0,0,0,,a fost foarte dulce.
+Dialogue: 99,0:02:04.14,0:02:06.15,Dialogue,,0,0,0,,Chi-chan, te-ai... îmbătat?
+Dialogue: 99,0:02:06.15,0:02:08.06,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:02:08.95,0:02:09.84,Dialogue,,0,0,0,,Scuze, dar...
+Dialogue: 99,0:02:09.84,0:02:14.50,Dialogue,,0,0,0,,Cocktail-ul nu avea alcool în el deloc.
+Dialogue: 99,0:02:14.99,0:02:15.90,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:02:17.42,0:02:20.12,Dialogue,,0,0,0,,{\i1}Băutura din această seară este Cenușăreasa.
+Dialogue: 99,0:02:20.12,0:02:22.74,Dialogue,,0,0,0,,Nu conține deloc alcool, \Ndeci o puteți face pentru oricine.
+Dialogue: 99,0:02:22.74,0:02:23.81,Dialogue,,0,0,0,,Fără alcool!
+Dialogue: 99,0:02:23.81,0:02:24.68,Dialogue,,0,0,0,,Da!
+Dialogue: 99,0:02:24.68,0:02:25.52,Dialogue,,0,0,0,,Așa este!
+Dialogue: 99,0:02:25.52,0:02:26.79,Dialogue,,0,0,0,,E-Este în regulă!
+Dialogue: 99,0:02:26.79,0:02:28.29,Dialogue,,0,0,0,,Uneori te simți ca și cum te-ai fi îmbătat!
+Dialogue: 99,0:02:28.29,0:02:30.00,Dialogue,,0,0,0,,Este în regulă!
 Dialogue: 0,0:00:00.00,0:00:05.56,KazuyaShuuSign,,0,0,0,,{\fad(0,400)\fnCrimson\fs70\blur2\bord1.5\1a&HFF&\pos(1100,150)\3c&HFFFFFF&}Love is\NLike a\NCocktail
 Dialogue: 1,0:00:00.00,0:00:05.56,KazuyaShuuSign,,0,0,0,,{\fad(0,400)\fnCrimson\fs70\blur0.4\c&H000000&\pos(1100,150)\iclip(1177.5,195,1190,208.75)}Love is\NLike a\NCocktail
 Dialogue: 2,0:00:00.00,0:00:05.56,KazuyaShuuSign,,0,0,0,,{\fad(0,400)\fnCrimson\fs70\blur0.4\c&HB699FA&\pos(1100,150)\clip(1177.5,195,1190,208.75)}Love is\NLike a\NCocktail

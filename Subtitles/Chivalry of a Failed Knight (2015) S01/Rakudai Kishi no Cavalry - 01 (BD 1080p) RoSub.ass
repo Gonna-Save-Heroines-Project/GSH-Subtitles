@@ -39,424 +39,424 @@ Style: OP TL,Niew CroMagnon,68,&H00FFFFFF,&H000000FF,&H00210EA3,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:02.19,0:00:05.19,Dialogue,,0,0,0,,{\i1}Astăzi, a doua prințesă imperială \Na Imperiului Vermiliion,
-Dialogue: 100,0:00:05.19,0:00:07.98,Dialogue,,0,0,0,,{\i1}Altețea Sa, Stella Vermillion,\N ajunge în Japonia.
-Dialogue: 100,0:00:07.98,0:00:11.99,Dialogue,,0,0,0,,{\i1}Altețea Sa Stella, care a fost admisă la Academia de Cavaleri Hagun din Tokyo...
-Dialogue: 100,0:00:11.99,0:00:16.62,Dialogue,,0,0,0,,{\i1}...cu cel mai mare punctaj din totdeauna, e adesea numită cavalerul geniu...
-Dialogue: 100,0:00:17.24,0:00:19.37,Dialogue,,0,0,0,,{\i1}Oh, uitați-o!
-Dialogue: 100,0:00:19.37,0:00:21.79,Dialogue,,0,0,0,,{\i1}Prințesa Stacojie, Altețea Sa Stella!
-Dialogue: 100,0:00:23.29,0:00:25.46,Dialogue,,0,0,0,,{\an8\i1}Alteța Voastră, ce părere aveți despre admiterea la...
-Dialogue: 100,0:00:29.50,0:00:32.42,Dialogue,,0,0,0,,{\i1}Există oameni care cred că viața e nedreaptă.
-Dialogue: 100,0:00:33.59,0:00:38.68,Dialogue,,0,0,0,,{\i1}Că locul unde te naști îți \Ndetermină tot restul vieții.
-Dialogue: 100,0:00:42.73,0:00:43.69,Dialogue,,0,0,0,,Bun-venit,
-Dialogue: 100,0:00:44.10,0:00:45.48,Dialogue,,0,0,0,,Stella Vermillion.
-Dialogue: 100,0:00:45.48,0:00:47.40,Dialogue,,0,0,0,,Dnă directoare,
-Dialogue: 100,0:00:47.40,0:00:49.07,Dialogue,,0,0,0,,voi fi în grija dumneavoastră.
-Dialogue: 100,0:00:52.74,0:00:54.90,Dialogue,,0,0,0,,{\i1}Oameni talentați și oameni obișnuiți.
-Dialogue: 100,0:00:54.90,0:00:57.66,Dialogue,,0,0,0,,{\i1}Cu siguranță, asta e decis în \Nmomentul în care te naști.
-Dialogue: 100,0:00:57.66,0:00:58.99,Dialogue,,0,0,0,,{\i1}E o ierarhie absolută.
-Dialogue: 100,0:00:59.91,0:01:05.25,Dialogue,,0,0,0,,{\i1}Oamenii fără talent nu-i pot \Nînvinge pe cei talentați.
-Dialogue: 100,0:01:05.25,0:01:07.25,Dialogue,,0,0,0,,{\i1}Ba chiar sunt nevoiți să \Nrenunțe și la visurile lor.
-Dialogue: 100,0:01:12.84,0:01:14.26,Dialogue,,0,0,0,,{\i1}Dar...
-Dialogue: 100,0:01:14.26,0:01:16.05,Dialogue,,0,0,0,,{\i1}nu pot să nu mă întreb dacă e adevărat.
-Dialogue: 100,0:01:19.30,0:01:21.60,Dialogue,,0,0,0,,{\i1}Te frustrează, băiete?
-Dialogue: 100,0:01:21.93,0:01:27.48,Dialogue,,0,0,0,,{\i1}Chiar dacă ești cel mai slab, \Nsă nu uiți niciodată această frustrare.
-Dialogue: 100,0:01:27.48,0:01:32.32,Dialogue,,0,0,0,,{\i1}Ea este dovada că nu ai renunțat...
-Dialogue: 100,0:01:32.32,0:01:34.49,Dialogue,,0,0,0,,{\i1}...la tine însuți.
-Dialogue: 100,0:01:41.74,0:01:43.29,Dialogue,,0,0,0,,Apari, Sabia Oțelului Ascuns.
-Dialogue: 100,0:01:45.62,0:01:46.71,Dialogue,,0,0,0,,{\i1}Blazers.
-Dialogue: 100,0:01:47.29,0:01:50.67,Dialogue,,0,0,0,,{\i1}Oameni care-și pot \Ntransforma sufletul într-o armă
-Dialogue: 100,0:01:50.67,0:01:54.21,Dialogue,,0,0,0,,{\i1}și manifestă abilități supranaturale \Nprin intermediul magiei.
-Dialogue: 100,0:01:56.34,0:02:00.76,Dialogue,,0,0,0,,{\i1}Blazers care primesc aprobarea organizațiilor internaționale devin Cavaleri Magici.
-Dialogue: 100,0:02:02.81,0:02:05.14,Dialogue,,0,0,0,,{\i1}Eu, Kurogane Ikki,
-Dialogue: 100,0:02:06.48,0:02:08.52,Dialogue,,0,0,0,,{\i1}vreau să devin un Cavaler Magic.
-Dialogue: 100,0:02:38.72,0:02:39.97,Dialogue,,0,0,0,,Stai.
-Dialogue: 100,0:02:39.97,0:02:41.93,Dialogue,,0,0,0,,Știu ce vrei să spui.
-Dialogue: 100,0:02:41.93,0:02:45.52,Dialogue,,0,0,0,,Și nu mă voi preface că nu am văzut nimic.
-Dialogue: 100,0:02:45.77,0:02:46.43,Dialogue,,0,0,0,,Deci...
-Dialogue: 100,0:02:47.02,0:02:49.77,Dialogue,,0,0,0,,Mă voi dezbrăca și eu ca să fim chit!
-Dialogue: 100,0:02:52.15,0:02:56.11,Dialogue,,0,0,0,,{\t(900,3200,1,\fscx110\fscy110)}N-Nu!
-Dialogue: 100,0:02:57.99,0:03:00.49,Dialogue,,0,700,0,,După cum știi, academia noastră se mândrește
-Dialogue: 100,0:03:01.24,0:03:06.24,Dialogue,,0,0,0,,cu cele mai bune rezultate dintre toate celelalte școli de cavaleri din Japonia.
+Dialogue: 99,0:00:02.19,0:00:05.19,Dialogue,,0,0,0,,{\i1}Astăzi, a doua prințesă imperială \Na Imperiului Vermiliion,
+Dialogue: 99,0:00:05.19,0:00:07.98,Dialogue,,0,0,0,,{\i1}Altețea Sa, Stella Vermillion,\N ajunge în Japonia.
+Dialogue: 99,0:00:07.98,0:00:11.99,Dialogue,,0,0,0,,{\i1}Altețea Sa Stella, care a fost admisă la Academia de Cavaleri Hagun din Tokyo...
+Dialogue: 99,0:00:11.99,0:00:16.62,Dialogue,,0,0,0,,{\i1}...cu cel mai mare punctaj din totdeauna, e adesea numită cavalerul geniu...
+Dialogue: 99,0:00:17.24,0:00:19.37,Dialogue,,0,0,0,,{\i1}Oh, uitați-o!
+Dialogue: 99,0:00:19.37,0:00:21.79,Dialogue,,0,0,0,,{\i1}Prințesa Stacojie, Altețea Sa Stella!
+Dialogue: 99,0:00:23.29,0:00:25.46,Dialogue,,0,0,0,,{\an8\i1}Alteța Voastră, ce părere aveți despre admiterea la...
+Dialogue: 99,0:00:29.50,0:00:32.42,Dialogue,,0,0,0,,{\i1}Există oameni care cred că viața e nedreaptă.
+Dialogue: 99,0:00:33.59,0:00:38.68,Dialogue,,0,0,0,,{\i1}Că locul unde te naști îți \Ndetermină tot restul vieții.
+Dialogue: 99,0:00:42.73,0:00:43.69,Dialogue,,0,0,0,,Bun-venit,
+Dialogue: 99,0:00:44.10,0:00:45.48,Dialogue,,0,0,0,,Stella Vermillion.
+Dialogue: 99,0:00:45.48,0:00:47.40,Dialogue,,0,0,0,,Dnă directoare,
+Dialogue: 99,0:00:47.40,0:00:49.07,Dialogue,,0,0,0,,voi fi în grija dumneavoastră.
+Dialogue: 99,0:00:52.74,0:00:54.90,Dialogue,,0,0,0,,{\i1}Oameni talentați și oameni obișnuiți.
+Dialogue: 99,0:00:54.90,0:00:57.66,Dialogue,,0,0,0,,{\i1}Cu siguranță, asta e decis în \Nmomentul în care te naști.
+Dialogue: 99,0:00:57.66,0:00:58.99,Dialogue,,0,0,0,,{\i1}E o ierarhie absolută.
+Dialogue: 99,0:00:59.91,0:01:05.25,Dialogue,,0,0,0,,{\i1}Oamenii fără talent nu-i pot \Nînvinge pe cei talentați.
+Dialogue: 99,0:01:05.25,0:01:07.25,Dialogue,,0,0,0,,{\i1}Ba chiar sunt nevoiți să \Nrenunțe și la visurile lor.
+Dialogue: 99,0:01:12.84,0:01:14.26,Dialogue,,0,0,0,,{\i1}Dar...
+Dialogue: 99,0:01:14.26,0:01:16.05,Dialogue,,0,0,0,,{\i1}nu pot să nu mă întreb dacă e adevărat.
+Dialogue: 99,0:01:19.30,0:01:21.60,Dialogue,,0,0,0,,{\i1}Te frustrează, băiete?
+Dialogue: 99,0:01:21.93,0:01:27.48,Dialogue,,0,0,0,,{\i1}Chiar dacă ești cel mai slab, \Nsă nu uiți niciodată această frustrare.
+Dialogue: 99,0:01:27.48,0:01:32.32,Dialogue,,0,0,0,,{\i1}Ea este dovada că nu ai renunțat...
+Dialogue: 99,0:01:32.32,0:01:34.49,Dialogue,,0,0,0,,{\i1}...la tine însuți.
+Dialogue: 99,0:01:41.74,0:01:43.29,Dialogue,,0,0,0,,Apari, Sabia Oțelului Ascuns.
+Dialogue: 99,0:01:45.62,0:01:46.71,Dialogue,,0,0,0,,{\i1}Blazers.
+Dialogue: 99,0:01:47.29,0:01:50.67,Dialogue,,0,0,0,,{\i1}Oameni care-și pot \Ntransforma sufletul într-o armă
+Dialogue: 99,0:01:50.67,0:01:54.21,Dialogue,,0,0,0,,{\i1}și manifestă abilități supranaturale \Nprin intermediul magiei.
+Dialogue: 99,0:01:56.34,0:02:00.76,Dialogue,,0,0,0,,{\i1}Blazers care primesc aprobarea organizațiilor internaționale devin Cavaleri Magici.
+Dialogue: 99,0:02:02.81,0:02:05.14,Dialogue,,0,0,0,,{\i1}Eu, Kurogane Ikki,
+Dialogue: 99,0:02:06.48,0:02:08.52,Dialogue,,0,0,0,,{\i1}vreau să devin un Cavaler Magic.
+Dialogue: 99,0:02:38.72,0:02:39.97,Dialogue,,0,0,0,,Stai.
+Dialogue: 99,0:02:39.97,0:02:41.93,Dialogue,,0,0,0,,Știu ce vrei să spui.
+Dialogue: 99,0:02:41.93,0:02:45.52,Dialogue,,0,0,0,,Și nu mă voi preface că nu am văzut nimic.
+Dialogue: 99,0:02:45.77,0:02:46.43,Dialogue,,0,0,0,,Deci...
+Dialogue: 99,0:02:47.02,0:02:49.77,Dialogue,,0,0,0,,Mă voi dezbrăca și eu ca să fim chit!
+Dialogue: 99,0:02:52.15,0:02:56.11,Dialogue,,0,0,0,,{\t(900,3200,1,\fscx110\fscy110)}N-Nu!
+Dialogue: 99,0:02:57.99,0:03:00.49,Dialogue,,0,700,0,,După cum știi, academia noastră se mândrește
+Dialogue: 99,0:03:01.24,0:03:06.24,Dialogue,,0,0,0,,cu cele mai bune rezultate dintre toate celelalte școli de cavaleri din Japonia.
 Comment: 100,0:03:06.99,0:03:10.42,Dialogue,,0,0,0,,Even {when it comes to}at the martial arts festival {which}to determine the strongest student knight,
 Comment: 100,0:03:10.42,0:03:12.79,Dialogue,,0,0,0,,the Seven Stars Swordsmanship {Festival}Tournament,{check TL. I did it cause of previous line-ojii}
 Comment: 100,0:03:12.79,0:03:17.34,Dialogue,,0,0,0,,we've acquired the championship{ like} every year.
-Dialogue: 100,0:03:17.34,0:03:22.18,Dialogue,,0,0,0,,Dar, în ultimii ani, nu am mai \Nobținut rezultate prea bune.
-Dialogue: 100,0:03:22.84,0:03:27.93,Dialogue,,0,0,0,,Am preluat postul de directoare ca să reorganizez această școală.
-Dialogue: 100,0:03:28.85,0:03:30.44,Dialogue,,0,0,0,,And right after that,
-Dialogue: 100,0:03:30.44,0:03:34.06,Dialogue,,0,0,0,,you cause this mess, huh, Kurogane?
-Dialogue: 100,0:03:34.06,0:03:36.61,Dialogue,,0,0,0,,E-Ei bine, a fost un accident nefericit.
-Dialogue: 100,0:03:36.61,0:03:39.49,Dialogue,,0,0,0,,Să tragi cu ochiul la cineva care se schimbă e deja destul de rău,
-Dialogue: 100,0:03:39.49,0:03:41.82,Dialogue,,0,0,0,,dar să te mai și dezbraci pe deasupra...
-Dialogue: 100,0:03:41.82,0:03:43.32,Dialogue,,0,0,0,,Și ăsta tot un accident a fost?
-Dialogue: 100,0:03:43.32,0:03:44.82,Dialogue,,0,0,0,,Doar pe jumătate.
-Dialogue: 100,0:03:44.82,0:03:48.12,Dialogue,,0,0,0,,În acel moment, mi s-a \Npărut lucrul corect de făcut.
-Dialogue: 100,0:03:48.12,0:03:50.58,Dialogue,,0,0,0,,It certainly is gentlemanly in a way.
-Dialogue: 100,0:03:50.58,0:03:53.08,Dialogue,,0,0,0,,I don't mean in a perverted old man kind of way.
-Dialogue: 100,0:03:53.08,0:03:56.79,Dialogue,,0,0,0,,Well then, I'll have you take\Nresponsibility like a gentleman.
-Dialogue: 100,0:03:58.96,0:03:59.80,Dialogue,,0,0,0,,Ah.
-Dialogue: 100,0:03:59.80,0:04:01.38,Dialogue,,0,0,0,,Domnișoară Stella Vermillion!
-Dialogue: 100,0:04:02.72,0:04:03.89,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:04:03.89,0:04:06.35,Dialogue,,0,0,0,,What happened was absolutely not on purpose.
-Dialogue: 100,0:04:06.35,0:04:08.56,Dialogue,,0,0,0,,Dar sunt sigur că te-am speriat.
-Dialogue: 100,0:04:10.93,0:04:13.10,Dialogue,,0,0,0,,I'll take {my }responsibility as a man.
-Dialogue: 100,0:04:13.10,0:04:15.15,Dialogue,,0,0,0,,Do to me whatever you like.
-Dialogue: 100,0:04:16.81,0:04:18.90,Dialogue,,0,0,0,,Cum te cheamă?
-Dialogue: 100,0:04:20.19,0:04:21.40,Dialogue,,0,0,0,,Kurogane Ikki.
-Dialogue: 100,0:04:21.90,0:04:23.70,Dialogue,,0,0,0,,How upright of you, Ikki.
-Dialogue: 100,0:04:23.70,0:04:27.87,Dialogue,,0,0,0,,Honestly, I already considered making this an international issue,
-Dialogue: 100,0:04:27.87,0:04:31.87,Dialogue,,0,0,0,,but considering your attitude, I'll respond leniently{ too}.
-Dialogue: 100,0:04:31.87,0:04:32.96,Dialogue,,0,0,0,,Thank you.
-Dialogue: 100,0:04:32.96,0:04:35.08,Dialogue,,0,0,0,,Te voi ierta dacă te vei face harakiri.
-Dialogue: 100,0:04:35.37,0:04:36.04,Dialogue,,0,0,0,,Poftim?
-Dialogue: 100,0:04:38.00,0:04:39.30,Dialogue,,0,0,0,,Stai...
-Dialogue: 100,0:04:39.30,0:04:40.76,Dialogue,,0,0,0,,Asta e o glumă, nu?
-Dialogue: 100,0:04:40.76,0:04:43.01,Dialogue,,0,0,0,,I wouldn't compromise this much with a joke.
-Dialogue: 100,0:04:43.01,0:04:45.01,Dialogue,,0,0,0,,So suicide is a great bargain?!{You're saying harakiri is a great bargain?!}
-Dialogue: 100,0:04:45.01,0:04:46.76,Dialogue,,0,0,0,,You told me to do whatever I like!
-Dialogue: 100,0:04:46.76,0:04:49.39,Dialogue,,0,0,0,,That's a figure of speech, and it was an accident to begin with!
-Dialogue: 100,0:04:49.39,0:04:50.47,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:04:50.47,0:04:53.10,Dialogue,,0,0,0,,I'm not paying this little debt with my life!{I'm not paying back something like this with my life!}
-Dialogue: 100,0:04:53.10,0:04:54.35,Dialogue,,0,0,0,,Something like this?
-Dialogue: 100,0:04:54.81,0:04:58.06,Dialogue,,0,0,0,,I {just}only saw you in your underwear, right?
-Dialogue: 100,0:04:58.06,0:04:59.40,Dialogue,,0,0,0,,No way,
-Dialogue: 100,0:04:59.40,0:05:02.28,Dialogue,,0,0,0,,killing myself just because of underwear{\fscx300}-{\fscx100}
-Dialogue: 100,0:05:04.49,0:05:06.11,Dialogue,,0,0,0,,C-Ce?
-Dialogue: 100,0:05:06.11,0:05:06.70,Dialogue,,0,0,0,,Pe mai târziu.
-Dialogue: 100,0:05:06.70,0:05:07.95,Dialogue,,0,0,0,,Hei, dnă directoare!
-Dialogue: 100,0:05:07.95,0:05:09.62,Dialogue,,0,0,0,,Sper că ești pregătit.
-Dialogue: 100,0:05:09.62,0:05:16.83,Dialogue,,0,0,0,,I'll turn you pervert molester {three}strike-out{like in baseball -alta} commoner into cinders all by myself!
-Dialogue: 100,0:05:20.17,0:05:21.80,Dialogue,,0,0,0,,Stai puțin, domnișoară Stella!
-Dialogue: 100,0:05:21.80,0:05:23.01,Dialogue,,0,0,0,,Te rog să te liniștești!
-Dialogue: 100,0:05:23.01,0:05:25.22,Dialogue,,0,0,0,,Sneaking into somebody else's room,
-Dialogue: 100,0:05:25.22,0:05:27.59,Dialogue,,0,0,0,,defiling my skin...
-Dialogue: 100,0:05:27.59,0:05:28.68,Dialogue,,0,0,0,,How dare you!
-Dialogue: 100,0:05:28.68,0:05:30.76,Dialogue,,0,0,0,,Defiling?!
-Dialogue: 100,0:05:30.76,0:05:31.68,Dialogue,,0,0,0,,No, no, no!
-Dialogue: 100,0:05:31.68,0:05:35.10,Dialogue,,0,0,0,,Even though you looked at me naked with lewd eyes.
-Dialogue: 100,0:05:35.10,0:05:38.94,Dialogue,,0,0,0,,Even though you kept staring at me with contempt!
-Dialogue: 100,0:05:38.94,0:05:40.31,Dialogue,,0,0,0,,I-I certainly did look at you,
-Dialogue: 100,0:05:40.31,0:05:41.65,Dialogue,,0,0,0,,but that was, um...
-Dialogue: 100,0:05:44.44,0:05:46.70,Dialogue,,0,0,0,,Because Stella-san, you were too beautiful,
-Dialogue: 100,0:05:46.70,0:05:47.86,Dialogue,,0,0,0,,I was totally charmed!
-Dialogue: 100,0:05:54.16,0:05:54.79,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:05:54.79,0:05:56.83,Dialogue,,0,0,0,,C-Ce tot spui acolo?!
-Dialogue: 100,0:05:56.83,0:06:00.21,Dialogue,,0,0,0,,C-Calling an unmarried woman beautiful so lightly...
-Dialogue: 100,0:06:00.21,0:06:02.84,Dialogue,,0,0,0,,De asta oamenii de rând sunt așa de....
-Dialogue: 100,0:06:02.84,0:06:04.05,Dialogue,,0,0,0,,Ce mai e acum?
-Dialogue: 100,0:06:04.05,0:06:06.55,Dialogue,,0,0,0,,Well, you said "somebody else's room",
-Dialogue: 100,0:06:06.55,0:06:09.55,Dialogue,,0,0,0,,dar aceea e camera mea...
-Dialogue: 100,0:06:09.55,0:06:11.39,Dialogue,,0,0,0,,You're still going on about{\fscx300}-{\fscx100}
-Dialogue: 100,0:06:11.39,0:06:13.81,Dialogue,,0,0,0,,Oh, that reminds me that I forgot to mention this,
-Dialogue: 100,0:06:13.81,0:06:17.06,Dialogue,,0,0,0,,dar, începând de astăzi, \Nsunteți colegi de cameră.
-Dialogue: 100,0:06:18.77,0:06:20.81,Dialogue,,0,0,0,,{\t(0,1700,1,\fscx110\fscy110)}Ce?!
-Dialogue: 100,0:06:23.44,0:06:24.40,Dialogue,,0,0,0,,Așa stau lucrurile...
-Dialogue: 100,0:06:24.40,0:06:25.94,Dialogue,,0,0,0,,Am o întreare.
-Dialogue: 100,0:06:25.94,0:06:26.61,Dialogue,,0,0,0,,Hm?
-Dialogue: 100,0:06:26.61,0:06:30.36,Dialogue,,0,0,0,,Roommates are supposed to be people of the same level, right?{People of the same level are supposed to become roommates, right?}
-Dialogue: 100,0:06:30.36,0:06:34.58,Dialogue,,0,0,0,,Why is the A-ranked Stella-san roommates with someone repeating a year like me?{Why is the A-rank Stella-san in the same room with me who is repeating a year?}
-Dialogue: 100,0:06:34.58,0:06:35.16,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:06:35.16,0:06:36.75,Dialogue,,0,0,0,,Repeți anul?
-Dialogue: 100,0:06:36.75,0:06:37.96,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:06:37.96,0:06:39.50,Dialogue,,0,0,0,,Am rangul F,
-Dialogue: 100,0:06:39.50,0:06:43.25,Dialogue,,0,0,0,,and the ability I wield is {only}the lowest-level physical ability improvement.
-Dialogue: 100,0:06:43.25,0:06:46.05,Dialogue,,0,0,0,,My magic power is a tenth of the average.
-Dialogue: 100,0:06:46.05,0:06:49.38,Dialogue,,0,0,0,,His ability scores are low as\Ncan be across the board,{His other ability scores are at the lowest level across the board,}
-Dialogue: 100,0:06:49.38,0:06:51.47,Dialogue,,0,0,0,,so he's been given the nickname Worst One.
-Dialogue: 100,0:06:51.93,0:06:54.97,Dialogue,,0,0,0,,He is, without exaggerating,\Nthe weakest guy in the academy.{He's literally the weakest guy in the academy.}
-Dialogue: 100,0:06:54.97,0:06:56.81,Dialogue,,0,0,0,,„Cel mai slab”...
-Dialogue: 100,0:06:57.14,0:07:00.52,Dialogue,,0,0,0,,And that is also the answer to the question.
-Dialogue: 100,0:07:00.90,0:07:03.94,Dialogue,,0,0,0,,There is nobody inferior to Kurogane.
-Dialogue: 100,0:07:03.94,0:07:07.11,Dialogue,,0,0,0,,Meanwhile{And again}, nobody surpasses Vermillion.
-Dialogue: 100,0:07:07.11,0:07:09.40,Dialogue,,0,0,0,,So that's why.
-Dialogue: 100,0:07:09.40,0:07:11.36,Dialogue,,0,0,0,,Wh-Wh...
-Dialogue: 100,0:07:09.40,0:07:11.36,Dialogue,,0,0,0,,{\an8}Such half-baked...
-Dialogue: 100,0:07:11.36,0:07:13.66,Dialogue,,0,0,0,,What if something improper happens?!
-Dialogue: 100,0:07:13.66,0:07:16.87,Dialogue,,0,0,0,,Huh, what kinds of improper things might happen?
-Dialogue: 100,0:07:18.00,0:07:19.75,Dialogue,,0,0,0,,Th-That's...
-Dialogue: 100,0:07:19.75,0:07:22.71,Dialogue,,0,0,0,,There are other girl-guy pairs too.
-Dialogue: 100,0:07:22.71,0:07:25.13,Dialogue,,0,0,0,,If you don't like it, you can always drop out.
-Dialogue: 100,0:07:28.01,0:07:29.42,Dialogue,,0,0,0,,Got it.
-Dialogue: 100,0:07:29.42,0:07:32.59,Dialogue,,0,0,0,,However, if we're going to live in the same room,
-Dialogue: 100,0:07:32.59,0:07:34.10,Dialogue,,0,0,0,,I have three conditions.
-Dialogue: 100,0:07:34.10,0:07:34.97,Dialogue,,0,0,0,,What?
-Dialogue: 100,0:07:34.97,0:07:36.72,Dialogue,,0,0,0,,Don't talk to me.
-Dialogue: 100,0:07:36.72,0:07:38.56,Dialogue,,0,0,0,,Don't open your eyes.
-Dialogue: 100,0:07:38.56,0:07:40.43,Dialogue,,0,0,0,,Don't breathe.
-Dialogue: 100,0:07:40.43,0:07:42.60,Dialogue,,0,0,0,,So{That} Ikki-kun will probably die.
-Dialogue: 100,0:07:42.60,0:07:46.61,Dialogue,,0,0,0,,If you can agree to these three points, you can live in front of the room.
-Dialogue: 100,0:07:46.61,0:07:47.98,Dialogue,,0,0,0,,{\i1}And{\i0} I'm getting thrown out?!
-Dialogue: 100,0:07:47.98,0:07:49.40,Dialogue,,0,0,0,,What? You can't do that?
-Dialogue: 100,0:07:49.40,0:07:50.24,Dialogue,,0,0,0,,I can't!
-Dialogue: 100,0:07:50.24,0:07:51.74,Dialogue,,0,0,0,,At least let me breathe!
-Dialogue: 100,0:07:51.74,0:07:52.53,Dialogue,,0,0,0,,No way!
-Dialogue: 100,0:07:52.53,0:07:55.32,Dialogue,,0,0,0,,You're just trying to sniff my smell, aren't you, you pervert!
-Dialogue: 100,0:07:54.74,0:07:55.99,Dialogue,,0,0,0,,I can breathe through my mouth!
-Dialogue: 100,0:07:55.99,0:07:56.74,Dialogue,,0,0,0,,No!
-Dialogue: 100,0:07:56.74,0:07:59.75,Dialogue,,0,0,0,,You're just trying to taste my breath, aren't you, you pervert!
-Dialogue: 100,0:07:59.75,0:08:00.87,Dialogue,,0,0,0,,I didn't even think of that!
-Dialogue: 100,0:08:00.87,0:08:03.75,Dialogue,,0,0,0,,Dacă nu vă place, vă puteți \Nretrage de la această școală!
-Dialogue: 100,0:08:02.50,0:08:03.75,Dialogue,,0,0,0,,{\an8}Asta e absurd!
-Dialogue: 100,0:08:03.75,0:08:06.38,Dialogue,,0,0,0,,Bun, calmați-vă, amândoi!
-Dialogue: 100,0:08:06.38,0:08:09.76,Dialogue,,0,0,0,,It's the knights' way to clear their paths with swords.
-Dialogue: 100,0:08:09.76,0:08:11.01,Dialogue,,0,0,0,,Right?
-Dialogue: 100,0:08:12.22,0:08:14.72,Dialogue,,0,0,0,,Do you mean we should settle this{the matter} with our skill?
-Dialogue: 100,0:08:14.72,0:08:15.43,Dialogue,,0,0,0,,Yeah.
-Dialogue: 100,0:08:15.43,0:08:16.55,Dialogue,,0,0,0,,O luptă de antrenament,
-Dialogue: 100,0:08:16.55,0:08:19.01,Dialogue,,0,0,0,,iar învingătorul poate decide regulile camerei.
-Dialogue: 100,0:08:19.01,0:08:19.77,Dialogue,,0,0,0,,Oh?
-Dialogue: 100,0:08:19.77,0:08:20.93,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:08:20.93,0:08:23.19,Dialogue,,0,0,0,,I'm fine with doing it fairly like that.
-Dialogue: 100,0:08:23.19,0:08:24.65,Dialogue,,0,0,0,,Let's do that, Stella-san.
-Dialogue: 100,0:08:24.94,0:08:25.98,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:08:25.98,0:08:28.90,Dialogue,,0,0,0,,You're an F-rank failure of a knight, aren't you?
-Dialogue: 100,0:08:28.90,0:08:32.53,Dialogue,,0,0,0,,You have no chance of beating an A-rank like me.{You have no chance of beating me, an A-rank.}
-Dialogue: 100,0:08:32.53,0:08:35.24,Dialogue,,0,0,0,,You can't know that without having a match.
-Dialogue: 100,0:08:35.24,0:08:37.78,Dialogue,,0,0,0,,I'm working as hard as I can myself.
-Dialogue: 100,0:08:39.03,0:08:40.24,Dialogue,,0,0,0,,Got it.
-Dialogue: 100,0:08:40.24,0:08:42.33,Dialogue,,0,0,0,,Let's have a match, then!
-Dialogue: 100,0:08:42.71,0:08:46.92,Dialogue,,0,0,0,,But if that's the case, it's not the rules of the room that {is}are on the line.
-Dialogue: 100,0:08:46.92,0:08:48.17,Dialogue,,0,0,0,,Huh?
-Dialogue: 100,0:08:48.46,0:08:51.59,Dialogue,,0,0,0,,The loser will submit to the winner for life!
-Dialogue: 100,0:08:51.59,0:08:56.55,Dialogue,,0,0,0,,They'll become a dog-like servant who obeys all orders, no matter how embarassing.{They'll become a servant who obeys like a dog, no matter how humiliating an order.}
-Dialogue: 100,0:08:56.55,0:08:58.51,Dialogue,,0,0,0,,Isn't that going a bit too far?
-Dialogue: 100,0:08:58.51,0:09:01.72,Dialogue,,0,0,0,,Are we clear?
-Dialogue: 100,0:09:02.22,0:09:04.35,Dialogue,,0,0,0,,Y-Yes.
-Dialogue: 100,0:09:04.35,0:09:05.69,Dialogue,,0,0,0,,So it's decided.
-Dialogue: 100,0:09:08.02,0:09:10.11,Dialogue,,0,0,0,,You two keep those.
-Dialogue: 100,0:09:10.11,0:09:14.74,Dialogue,,0,0,0,,One hour from now, a mock battle will take place at practice arena number four.
-Dialogue: 100,0:09:20.53,0:09:22.20,Dialogue,,0,0,0,,Doamne.
-Dialogue: 100,0:09:22.75,0:09:24.91,Dialogue,,0,0,0,,De ce trebuie să fac asta?
-Dialogue: 100,0:09:26.87,0:09:29.38,Dialogue,,0,0,0,,"Working as hard as he can", my ass.
-Dialogue: 100,0:09:33.76,0:09:36.09,Dialogue,,0,0,0,,{\i1}Stella, stop already.
-Dialogue: 100,0:09:36.09,0:09:38.59,Dialogue,,0,0,0,,{\i1}Nu trebuie să mergi atât de \Ndeparte ca să devii un cavaler.
-Dialogue: 100,0:09:38.59,0:09:40.22,Dialogue,,0,0,0,,{\i1}Nu, mamă.
-Dialogue: 100,0:09:40.22,0:09:44.64,Dialogue,,0,0,0,,{\i1}O țară mică precum a noastră are nevoie de un Cavaler Magic puternic.
-Dialogue: 100,0:09:45.06,0:09:48.65,Dialogue,,0,0,0,,{\i1}I'll definitely learn to wield this power.
-Dialogue: 100,0:09:49.23,0:09:51.11,Dialogue,,0,0,0,,{\i1}If that's what it's for...
-Dialogue: 100,0:09:51.44,0:09:53.11,Dialogue,,0,0,0,,If that's what it's for,
-Dialogue: 100,0:09:53.11,0:09:54.74,Dialogue,,0,0,0,,no matter how hard I have to work...
-Dialogue: 100,0:09:56.45,0:10:00.53,Dialogue,,0,0,0,,...te voi zdrobi, Kurogane Ikki.
-Dialogue: 100,0:10:01.99,0:10:03.79,Dialogue,,0,0,0,,Look, it's the crimson princess!
-Dialogue: 100,0:10:03.79,0:10:05.62,Dialogue,,0,0,0,,O prințesă care e {\i1}și{\i0} talentată?
-Dialogue: 100,0:10:05.62,0:10:08.00,Dialogue,,0,0,0,,Sigur are parte de o viață ușoară.
-Dialogue: 100,0:10:08.00,0:10:09.79,Dialogue,,0,0,0,,But why is that guy...
-Dialogue: 100,0:10:09.79,0:10:11.63,Dialogue,,0,0,0,,Ah, probabil e o luptă de antrenament.
-Dialogue: 100,0:10:11.63,0:10:13.88,Dialogue,,0,0,0,,Împotriva celui mai slab cavaler, dintre toți.
-Dialogue: 100,0:10:21.30,0:10:23.51,Dialogue,,0,0,0,,To think that you really took the challenge.
-Dialogue: 100,0:10:23.97,0:10:26.64,Dialogue,,0,0,0,,{Because}Well, she's someone I have to beat sooner or later.
-Dialogue: 100,0:10:26.64,0:10:28.14,Dialogue,,0,0,0,,Will you win?
-Dialogue: 100,0:10:28.14,0:10:29.48,Dialogue,,0,0,0,,E puternică.
-Dialogue: 100,0:10:29.81,0:10:34.32,Dialogue,,0,0,0,,I'll have to take first place in the\NSeven Stars Swordsmanship {Festival}Tournament.{consistency. If you changed it back previously, then here too-ojii}
-Dialogue: 100,0:10:34.32,0:10:38.49,Dialogue,,0,0,0,,If I do that, even if my ability points are low, I can graduate.
-Dialogue: 100,0:10:38.49,0:10:39.99,Dialogue,,0,0,0,,That's what you told me.
-Dialogue: 100,0:10:41.62,0:10:44.87,Dialogue,,0,0,0,,And she'll definitely participate in the Swordsmanship {Festival}Tournament.{and here-ojii}
-Dialogue: 100,0:10:45.66,0:10:48.33,Dialogue,,0,0,0,,It's just a question of when it will happen.
-Dialogue: 100,0:10:48.91,0:10:50.42,Dialogue,,0,0,0,,On time!
-Dialogue: 100,0:10:50.42,0:10:53.29,Dialogue,,0,0,0,,To witness something like this\Nafter coming in for {enrolment }paperwork...{To be able to see something like this when I came for enrolment paperwork...}
-Dialogue: 100,0:10:53.29,0:10:55.00,Dialogue,,0,0,0,,So lucky!
-Dialogue: 100,0:10:56.01,0:10:56.71,Dialogue,,0,0,0,,There she is!
-Dialogue: 100,0:10:59.93,0:11:01.51,Dialogue,,0,0,0,,Bună, domnișoară Stella.
-Dialogue: 100,0:11:01.51,0:11:03.05,Dialogue,,0,0,0,,Ești pregătită?
-Dialogue: 100,0:11:03.80,0:11:05.47,Dialogue,,0,0,0,,Am auzit un zvon.
-Dialogue: 100,0:11:05.47,0:11:08.14,Dialogue,,0,0,0,,Because you don't have enough ability points,
-Dialogue: 100,0:11:08.14,0:11:11.27,Dialogue,,0,0,0,,you haven't been able to participate in battle training either.
-Dialogue: 100,0:11:11.27,0:11:16.90,Dialogue,,0,0,0,,Nu ar fi mai bine dacă ai renunța să mai devii un Cavaler Magic?
-Dialogue: 100,0:11:16.90,0:11:18.74,Dialogue,,0,0,0,,Poate ar fi.
-Dialogue: 100,0:11:19.07,0:11:22.36,Dialogue,,0,0,0,,Dar nu plănuiesc să renunț la acest duel.
-Dialogue: 100,0:11:22.66,0:11:26.58,Dialogue,,0,0,0,,Vrei să spui că efortul \Npoate învinge talentul?
-Dialogue: 100,0:11:26.58,0:11:28.16,Dialogue,,0,0,0,,Chiar crezi asta?
-Dialogue: 100,0:11:28.16,0:11:30.00,Dialogue,,0,0,0,,Da, așa îmi place să cred.
-Dialogue: 100,0:11:33.67,0:11:34.92,Dialogue,,0,0,0,,{\i1}Fir-ar...
-Dialogue: 100,0:11:34.92,0:11:35.63,Dialogue,,0,0,0,,{\i1}La naiba!
-Dialogue: 100,0:11:36.25,0:11:40.22,Dialogue,,0,0,0,,{\i1}Am muncit din greu și tot \Nam pierdut în fața talentului?!
-Dialogue: 100,0:11:42.05,0:11:45.93,Dialogue,,0,0,0,,Nu e ca și cum eu nu depun efort deloc.
-Dialogue: 100,0:11:45.93,0:11:47.22,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:11:47.22,0:11:48.68,Dialogue,,0,0,0,,Nimic.
-Dialogue: 100,0:11:48.68,0:11:52.06,Dialogue,,0,0,0,,Bun, putem începe, dnă directoare.
-Dialogue: 100,0:11:52.06,0:11:54.15,Dialogue,,0,0,0,,Well then, a mock battle is beginning.
-Dialogue: 100,0:11:54.69,0:11:56.07,Dialogue,,0,0,0,,I'm sure you know,
-Dialogue: 100,0:11:56.07,0:11:58.86,Dialogue,,0,0,0,,but a mock battle poses no risk of bodily harm,{but a mock battle is a fight in which no bodily harm is caused,}
-Dialogue: 100,0:11:58.86,0:12:01.07,Dialogue,,0,0,0,,instead whittling down the other's endurance.{instead only whittling away at the other's endurance.}
-Dialogue: 100,0:12:01.53,0:12:04.78,Dialogue,,0,0,0,,Be sure to deploy your device in illusion form.
-Dialogue: 100,0:12:07.33,0:12:09.16,Dialogue,,0,0,0,,Apari, Sabia Oțelului Ascuns!
-Dialogue: 100,0:12:18.59,0:12:21.17,Dialogue,,0,0,0,,Slujește-mă, Laevateinn!
-Dialogue: 100,0:12:34.44,0:12:36.06,Dialogue,,0,0,0,,Asta a fost o decizie bună.
-Dialogue: 100,0:12:36.06,0:12:39.15,Dialogue,,0,0,0,,The flames of my Dragon Breath are 3000 degrees centigrade.
-Dialogue: 100,0:12:39.15,0:12:41.82,Dialogue,,0,0,0,,If you take them full on, it won't be pretty!
-Dialogue: 100,0:12:49.37,0:12:50.45,Dialogue,,0,0,0,,Ah...
-Dialogue: 100,0:12:50.45,0:12:51.87,Dialogue,,0,0,0,,As you'd expect{think}.
-Dialogue: 100,0:12:51.87,0:12:54.87,Dialogue,,0,0,0,,Doamne, Guu.
-Dialogue: 100,0:12:55.17,0:12:57.58,Dialogue,,0,0,0,,You have to tell me these things.
-Dialogue: 100,0:12:57.58,0:13:00.92,Dialogue,,0,0,0,,You'll catch wind of it one way or another{ anyway}.
-Dialogue: 100,0:13:01.67,0:13:02.76,Dialogue,,0,0,0,,Evident.
-Dialogue: 100,0:13:02.76,0:13:05.88,Dialogue,,0,0,0,,Still, isn't this a bit unexpected?
-Dialogue: 100,0:13:05.88,0:13:08.85,Dialogue,,0,0,0,,From that genius knight, Stella Vermillion.
-Dialogue: 100,0:13:09.22,0:13:10.43,Dialogue,,0,0,0,,What's this?
-Dialogue: 100,0:13:12.31,0:13:13.43,Dialogue,,0,0,0,,He keeps parrying me.
-Dialogue: 100,0:13:16.40,0:13:18.36,Dialogue,,0,0,0,,Are you only good at running away?
-Dialogue: 100,0:13:18.36,0:13:20.44,Dialogue,,0,0,0,,No, I'm just barely managing.
-Dialogue: 100,0:13:20.44,0:13:22.32,Dialogue,,0,0,0,,Stella-san, your polished swordsmanship...
-Dialogue: 100,0:13:22.78,0:13:23.74,Dialogue,,0,0,0,,I feel it.
-Dialogue: 100,0:13:23.74,0:13:25.28,Dialogue,,0,0,0,,Nu e doar talent.
-Dialogue: 100,0:13:25.28,0:13:26.78,Dialogue,,0,0,0,,Ai depus și foarte mult efort.
-Dialogue: 100,0:13:28.82,0:13:30.78,Dialogue,,0,0,0,,Ești destul de perspicace.
-Dialogue: 100,0:13:30.78,0:13:34.54,Dialogue,,0,0,0,,Dar stilul meu de luptă \Nnu e atât de ușor de citit!
-Dialogue: 100,0:13:34.91,0:13:36.87,Dialogue,,0,0,0,,Cam târziu, deja am făcut-o.
-Dialogue: 100,0:13:39.75,0:13:40.84,Dialogue,,0,0,0,,Tehnica mea?
-Dialogue: 100,0:13:40.84,0:13:42.17,Dialogue,,0,0,0,,Cum de poți s-o...
-Dialogue: 100,0:13:44.47,0:13:47.59,Dialogue,,0,0,0,,Ai furat-o în timpul acestui meci?
-Dialogue: 100,0:13:48.72,0:13:52.93,Dialogue,,0,0,0,,Nobody taught me anything for the longest time,
-Dialogue: 100,0:13:52.93,0:13:55.39,Dialogue,,0,0,0,,so I only got good at this kind of thing!
-Dialogue: 100,0:13:55.85,0:13:58.15,Dialogue,,0,0,0,,{\i1}When you follow the leaves and branches back to the trunk,
-Dialogue: 100,0:13:58.15,0:13:59.69,Dialogue,,0,0,0,,{\i1}you can understand everything.
-Dialogue: 100,0:13:59.69,0:14:01.02,Dialogue,,0,0,0,,{\i1}And you can overcome!
-Dialogue: 100,0:14:06.78,0:14:08.41,Dialogue,,0,0,0,,Acesta e stilul meu de luptă:
-Dialogue: 100,0:14:09.07,0:14:10.37,Dialogue,,0,0,0,,Furtul Tehnicii!
-Dialogue: 100,0:14:11.45,0:14:12.49,Dialogue,,0,0,0,,{\i1}Saw through, he says?
-Dialogue: 100,0:14:12.49,0:14:13.62,Dialogue,,0,0,0,,{\i1}So I'll feint!
-Dialogue: 100,0:14:17.21,0:14:18.79,Dialogue,,0,0,0,,It's like you're half asleep.
-Dialogue: 100,0:14:20.63,0:14:21.71,Dialogue,,0,0,0,,Nu se poate!
-Dialogue: 100,0:14:21.71,0:14:23.42,Dialogue,,0,0,0,,Asta nu e stilul tău de luptă.
-Dialogue: 100,0:14:23.42,0:14:25.67,Dialogue,,0,0,0,,This crooked attack is fatal!
-Dialogue: 100,0:14:30.89,0:14:31.85,Dialogue,,0,0,0,,Did it end?
-Dialogue: 100,0:14:31.85,0:14:33.39,Dialogue,,0,0,0,,Did an A-rank...
-Dialogue: 100,0:14:33.39,0:14:34.18,Dialogue,,0,0,0,,Nu, privește!
-Dialogue: 100,0:14:39.85,0:14:41.90,Dialogue,,0,0,0,,E așa de nașpa...
-Dialogue: 100,0:14:41.90,0:14:43.27,Dialogue,,0,0,0,,...să fiu nevoită să câștig astfel.
-Dialogue: 100,0:14:44.07,0:14:47.69,Dialogue,,0,0,0,,Știai că sabia mea nu te poate răni, nu?
-Dialogue: 100,0:14:47.69,0:14:50.32,Dialogue,,0,0,0,,De asta m-ai provocat la o luptă \Ncu săbiile noastre adevărate.
-Dialogue: 100,0:14:50.32,0:14:51.49,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:14:51.49,0:14:56.75,Dialogue,,0,0,0,,To let everybody know that by beating you in a sword fight, {that }there's more to me than talent.
-Dialogue: 100,0:14:57.54,0:14:59.21,Dialogue,,0,0,0,,Dar trebuie să recunosc.
-Dialogue: 100,0:14:59.21,0:15:04.17,Dialogue,,0,0,0,,It was thanks to magical ability that I was able to win this fight.
-Dialogue: 100,0:15:04.84,0:15:07.38,Dialogue,,0,0,0,,Deci cu cel mai mare respect,
-Dialogue: 100,0:15:07.71,0:15:09.17,Dialogue,,0,0,0,,te voi învinge.
-Dialogue: 100,0:15:11.14,0:15:14.56,Dialogue,,0,0,0,,Într-adevăr, nu am talentul \Nnecesar unui Cavaler Magic.
-Dialogue: 100,0:15:14.56,0:15:16.43,Dialogue,,0,0,0,,{\i1}Dar nu pot renunța.
-Dialogue: 100,0:15:14.85,0:15:18.52,Dialogue,,0,0,0,,{\an8}Străpungeți cerul, Flăcări ale Purgatoriului!
-Dialogue: 100,0:15:16.43,0:15:20.77,Dialogue,,0,0,0,,{\i1}I can't step down now and give up on the vow which defines me.{I can't give up on the vow which defines me by stepping down now.}
-Dialogue: 100,0:15:20.77,0:15:22.31,Dialogue,,0,0,0,,{\i1}De asta m-am întrebat:
-Dialogue: 100,0:15:22.31,0:15:25.65,Dialogue,,0,0,0,,{\i1}„Cum poate cel mai slab să-l \Nînvingă pe cel mai puternic?”
-Dialogue: 100,0:15:23.44,0:15:26.61,Dialogue,,0,0,0,,{\an8}Fă totul scrum, Salamandră Katharterio!
-Dialogue: 100,0:15:25.65,0:15:26.61,Dialogue,,0,0,0,,{\i1}Și am găsit răspunsul.
-Dialogue: 100,0:15:27.15,0:15:28.07,Dialogue,,0,0,0,,Ittou Shura!
-Dialogue: 100,0:15:29.28,0:15:30.45,Dialogue,,0,0,0,,Ce a fost asta?
-Dialogue: 100,0:15:33.78,0:15:34.78,Dialogue,,0,0,0,,A devent mai rapid...
-Dialogue: 100,0:15:34.78,0:15:36.74,Dialogue,,0,0,0,,Iar puterea lui magică a crescut...
-Dialogue: 100,0:15:36.74,0:15:37.95,Dialogue,,0,0,0,,Nu a crescut.
-Dialogue: 100,0:15:38.37,0:15:40.66,Dialogue,,0,0,0,,Doar lupt cu tot ce am!
-Dialogue: 100,0:15:40.66,0:15:41.58,Dialogue,,0,0,0,,Chiar și așa!
-Dialogue: 100,0:15:43.33,0:15:44.33,Dialogue,,0,0,0,,Nu se poate!
-Dialogue: 100,0:15:44.33,0:15:47.25,Dialogue,,0,0,0,,Focusing all life energy into one minute and unleashing everything.{Concentrating all life energy into one minute and squeezing out all of it.}
-Dialogue: 100,0:15:47.25,0:15:49.26,Dialogue,,0,0,0,,This is the Noble Art I've devised!
-Dialogue: 100,0:15:50.30,0:15:53.76,Dialogue,,0,0,0,,I'll destroy your strongest with my strongest!
-Dialogue: 100,0:16:01.94,0:16:04.73,Dialogue,,0,0,0,,Ca un om obișnuit să poată învinge un geniu,
-Dialogue: 100,0:16:04.73,0:16:07.65,Dialogue,,0,0,0,,acesta trebuie să devină un demon.
-Dialogue: 100,0:16:07.65,0:16:09.11,Dialogue,,0,0,0,,Destul!
-Dialogue: 100,0:16:09.57,0:16:12.32,Dialogue,,0,0,0,,Învingător: Kurogane Ikki!
-Dialogue: 100,0:16:16.99,0:16:18.12,Dialogue,,0,0,0,,Vai...
-Dialogue: 100,0:16:18.12,0:16:22.46,Dialogue,,0,0,0,,The representative selection matches this year\Nwill be something to look forward to.
-Dialogue: 100,0:16:30.59,0:16:33.05,Dialogue,,0,0,0,,Vermillion, cum te simți?
-Dialogue: 100,0:16:33.43,0:16:35.72,Dialogue,,0,0,0,,Am uitat acum mult timp...
-Dialogue: 100,0:16:35.72,0:16:38.68,Dialogue,,0,0,0,,...cum este să pierzi.
-Dialogue: 100,0:16:39.43,0:16:40.52,Dialogue,,0,0,0,,El cum este?
-Dialogue: 100,0:16:40.52,0:16:42.89,Dialogue,,0,0,0,,A major move that fully spends him in one minute,
-Dialogue: 100,0:16:42.89,0:16:45.23,Dialogue,,0,0,0,,that he can only use once a day...{It's a major move he can only use once in a day, which uses him up in a minute.}
-Dialogue: 100,0:16:45.23,0:16:47.52,Dialogue,,0,0,0,,Asta e ceea ce a folosit.
-Dialogue: 100,0:16:47.52,0:16:49.44,Dialogue,,0,0,0,,El este mult mai extenuat decât tine.
-Dialogue: 100,0:16:49.44,0:16:51.90,Dialogue,,0,0,0,,Ei bine, viața nu îi este pusă în pericol.
-Dialogue: 100,0:16:52.36,0:16:56.16,Dialogue,,0,0,0,,Dnă directoare, de ce e tratat astfel?
-Dialogue: 100,0:16:56.16,0:16:57.37,Dialogue,,0,0,0,,La ce te referi?
-Dialogue: 100,0:16:57.37,0:16:59.41,Dialogue,,0,0,0,,Nu vă faceți că nu știți!
-Dialogue: 100,0:16:59.41,0:17:01.83,Dialogue,,0,0,0,,E ciudat ca acel tip să aibă rangul F.
-Dialogue: 100,0:17:03.08,0:17:06.67,Dialogue,,0,0,0,,Ranks are something which evaluate{assess} Blazer skills.
-Dialogue: 100,0:17:07.29,0:17:12.67,Dialogue,,0,0,0,,Fighting skills {\fscx200}-{\fscx100} that is, sword skills and martial arts {\fscx200}-{\fscx100} aren't assessment points.
-Dialogue: 100,0:17:12.67,0:17:17.09,Dialogue,,0,0,0,,Currently, there's no system which can properly assess Kurogane.
-Dialogue: 100,0:17:17.09,0:17:18.35,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:17:18.35,0:17:19.51,Dialogue,,0,0,0,,Să repete anul...
-Dialogue: 100,0:17:22.10,0:17:24.48,Dialogue,,0,0,0,,There are various complicated circumstances.
-Dialogue: 100,0:17:25.06,0:17:28.44,Dialogue,,0,0,0,,Or rather: simple, classical circumstances.{Or should I say simple, classical circumstances.}
-Dialogue: 100,0:17:30.61,0:17:35.20,Dialogue,,0,0,0,,I will say this: even though his chances have been unfairly stolen time and time again,{I can say that even though his chances have time and again been unfairly stolen from him,}
-Dialogue: 100,0:17:35.20,0:17:39.37,Dialogue,,0,0,0,,he still didn't stop believing in himself and reaching higher.
-Dialogue: 100,0:17:39.83,0:17:43.08,Dialogue,,0,0,0,,That's the kind of man he is.
-Dialogue: 100,0:17:44.33,0:17:45.62,Dialogue,,0,0,0,,Vermillion,
-Dialogue: 100,0:17:45.62,0:17:47.50,Dialogue,,0,0,0,,I asked you this morning
-Dialogue: 100,0:17:47.50,0:17:49.54,Dialogue,,0,0,0,,why you wanted to study abroad.
-Dialogue: 100,0:17:50.13,0:17:54.38,Dialogue,,0,0,0,,{\i1}If I stay in that country, I can't aim higher{ up}.
-Dialogue: 100,0:17:54.38,0:17:57.68,Dialogue,,0,0,0,,{\i1}I'm trapped in the frame of being a "genius".
-Dialogue: 100,0:17:58.22,0:17:59.97,Dialogue,,0,0,0,,For this one year,
-Dialogue: 100,0:17:59.97,0:18:02.43,Dialogue,,0,0,0,,follow after Kurogane with everything you've got.
-Dialogue: 100,0:18:02.93,0:18:07.52,Dialogue,,0,0,0,,I'm sure you stand to gain something from it too.{I'm sure that won't be in vain for your life either.}
-Dialogue: 100,0:18:30.75,0:18:34.63,Dialogue,,0,0,0,,This is a man's back, huh?
-Dialogue: 100,0:18:38.76,0:18:40.30,Dialogue,,0,0,0,,{\i1}A-Asta e de rău!
-Dialogue: 100,0:18:43.18,0:18:44.22,Dialogue,,0,0,0,,{\i1}Ei bine...
-Dialogue: 100,0:18:44.22,0:18:45.97,Dialogue,,0,0,0,,{\i1}Da, dacă fac asta...
-Dialogue: 100,0:18:45.97,0:18:47.06,Dialogue,,0,0,0,,{\i1}C-Ce?
-Dialogue: 100,0:19:05.58,0:19:06.75,Dialogue,,0,0,0,,{\i1}N-Nu pot face asta!
-Dialogue: 100,0:19:06.75,0:19:09.62,Dialogue,,0,0,0,,{\i1}Sunt o prințesă nemăritată!
-Dialogue: 100,0:19:09.62,0:19:10.71,Dialogue,,0,0,0,,{\i1}So immodest...
-Dialogue: 100,0:19:13.42,0:19:17.13,Dialogue,,0,0,0,,{\i1}Dar el m-a văzut în lenjerie intimă,
-Dialogue: 100,0:19:17.63,0:19:19.84,Dialogue,,0,0,0,,{\i1}deci am fi chit acum, nu?
-Dialogue: 100,0:19:20.47,0:19:23.93,Dialogue,,0,0,0,,{\i1}Corpul acestui băiat e...
-Dialogue: 100,0:19:25.18,0:19:26.43,Dialogue,,0,0,0,,{\i1}Uimitor!
-Dialogue: 100,0:19:26.43,0:19:28.35,Dialogue,,0,0,0,,{\i1}Emană o energia atât de puternică!
-Dialogue: 100,0:19:32.56,0:19:35.69,Dialogue,,0,0,0,,Ce m-a apucat...
-Dialogue: 100,0:19:35.69,0:19:36.40,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:19:37.03,0:19:39.28,Dialogue,,0,0,0,,Și eu mă întreb același lucru.
-Dialogue: 100,0:19:40.11,0:19:42.57,Dialogue,,0,0,0,,Stella, ce crezi că faci?
-Dialogue: 100,0:19:49.66,0:19:52.04,Dialogue,,0,0,0,,Bun. Vei fi bine acum.
-Dialogue: 100,0:19:52.04,0:19:54.33,Dialogue,,0,0,0,,M-Mersi.
-Dialogue: 100,0:19:54.33,0:19:56.50,Dialogue,,0,0,0,,Good that it's not a big wound.
-Dialogue: 100,0:19:58.00,0:19:59.46,Dialogue,,0,0,0,,Îmi pare rău.
-Dialogue: 100,0:19:59.46,0:20:00.22,Dialogue,,0,0,0,,Poftim?
-Dialogue: 100,0:20:00.72,0:20:04.80,Dialogue,,0,0,0,,I scorned the people who saw me inside a frame,
-Dialogue: 100,0:20:04.80,0:20:07.26,Dialogue,,0,0,0,,but at the same time I saw you inside a frame.
-Dialogue: 100,0:20:07.89,0:20:10.18,Dialogue,,0,0,0,,I never tried to take a good look.
-Dialogue: 100,0:20:10.52,0:20:14.35,Dialogue,,0,0,0,,If I had taken a proper look,\NI wouldn't have lost like that.
-Dialogue: 100,0:20:14.35,0:20:17.40,Dialogue,,0,0,0,,A fost înfrăngerea mea, Ikki.
-Dialogue: 100,0:20:18.86,0:20:20.07,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:20:20.07,0:20:21.61,Dialogue,,0,0,0,,Deci, domnișoară Stella,
-Dialogue: 100,0:20:22.24,0:20:24.57,Dialogue,,0,0,0,,ești servitoarea mea acum, nu?
-Dialogue: 100,0:20:24.57,0:20:25.41,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:20:25.41,0:20:28.03,Dialogue,,0,0,0,,The loser will submit to the winner for life, right?
-Dialogue: 100,0:20:28.03,0:20:28.95,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:20:28.95,0:20:31.04,Dialogue,,0,0,0,,That was, um... a figure of speech...
-Dialogue: 100,0:20:31.04,0:20:33.29,Dialogue,,0,0,0,,Îmi vei urma ordinele, nu?
-Dialogue: 100,0:20:33.29,0:20:34.58,Dialogue,,0,0,0,,Oricare ar fi acestea.
-Dialogue: 100,0:20:35.42,0:20:36.71,Dialogue,,0,0,0,,O-Oricare ar fi?!
-Dialogue: 100,0:20:36.71,0:20:38.21,Dialogue,,0,0,0,,A-Asta e prea mult!
-Dialogue: 100,0:20:38.21,0:20:39.50,Dialogue,,0,0,0,,Nu pot face așa ceva.
-Dialogue: 100,0:20:39.50,0:20:40.71,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:20:40.71,0:20:45.97,Dialogue,,0,0,0,,Deci membrii familiei imperiale Vermillion sunt genul de oameni care nu-și țin promisiunile?
-Dialogue: 100,0:20:45.97,0:20:48.22,Dialogue,,0,0,0,,Cine a zis că nu-mi \Nvoi ține promisiunea?!
-Dialogue: 100,0:20:48.22,0:20:49.10,Dialogue,,0,0,0,,Foarte bine!
-Dialogue: 100,0:20:49.10,0:20:51.60,Dialogue,,0,0,0,,Voi deveni servitoarea ta sau \Ncâinele tău sau orice altceva!
-Dialogue: 100,0:20:51.60,0:20:54.02,Dialogue,,0,0,0,,Ordonă-mi orice dorești!
-Dialogue: 100,0:20:54.02,0:20:56.44,Dialogue,,0,0,0,,Ordonă-mi să fac lucruri indecente!
-Dialogue: 100,0:20:56.44,0:20:57.15,Dialogue,,0,0,0,,Perversule!
-Dialogue: 100,0:20:57.15,0:20:57.86,Dialogue,,0,0,0,,Prostule!
-Dialogue: 100,0:20:57.86,0:20:59.23,Dialogue,,0,0,0,,Te urăsc!
-Dialogue: 100,0:21:02.94,0:21:04.15,Dialogue,,0,0,0,,Și acum?
-Dialogue: 100,0:21:04.15,0:21:07.20,Dialogue,,0,0,0,,Uite primul ordin, Stella.
-Dialogue: 100,0:21:10.12,0:21:12.20,Dialogue,,0,0,0,,Devino colega mea de cameră.
-Dialogue: 100,0:21:13.83,0:21:17.17,Dialogue,,0,0,0,,Stella-san, I want to get along better with you.
-Dialogue: 100,0:21:17.63,0:21:19.13,Dialogue,,0,0,0,,G-Get along...
-Dialogue: 100,0:21:19.13,0:21:21.21,Dialogue,,0,0,0,,Să spui așa ceva unei prințese nemăritate...
-Dialogue: 100,0:21:21.21,0:21:23.63,Dialogue,,0,0,0,,How{So} insensitive.
-Dialogue: 100,0:21:23.63,0:21:26.64,Dialogue,,0,0,0,,You really hate living in the same room as{with} a guy, don't you?
-Dialogue: 100,0:21:27.14,0:21:29.89,Dialogue,,0,0,0,,In that case, let's go talk with the Chairman once more...
-Dialogue: 100,0:21:29.89,0:21:31.35,Dialogue,,0,0,0,,I-I don't hate it.
-Dialogue: 100,0:21:32.22,0:21:33.06,Dialogue,,0,0,0,,Ești sigură?
-Dialogue: 100,0:21:33.06,0:21:35.94,Dialogue,,0,0,0,,Doar ca să știi, o fac doar \Npentru că e un ordin!
-Dialogue: 100,0:21:35.94,0:21:41.07,Dialogue,,0,0,0,,I don't really want to get along\Nbetter with you in the slightest!
-Dialogue: 100,0:21:42.32,0:21:44.36,Dialogue,,0,0,0,,Sper să ne înțelegem bine, domnișoară Stella.
-Dialogue: 100,0:21:48.16,0:21:49.28,Dialogue,,0,0,0,,Stella.
-Dialogue: 100,0:21:49.57,0:21:50.49,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:21:50.78,0:21:53.95,Dialogue,,0,0,0,,Dacă nu-mi vei spune doar \N„Stella”, nu-ți voi răspunde.
-Dialogue: 100,0:21:55.12,0:21:56.37,Dialogue,,0,0,0,,În acest caz,
-Dialogue: 100,0:21:56.37,0:21:58.42,Dialogue,,0,0,0,,sper să ne înțelegem bine, Stella.
-Dialogue: 100,0:21:59.21,0:22:01.04,Dialogue,,0,0,0,,Se pare că nu am de ales, nu?
+Dialogue: 99,0:03:17.34,0:03:22.18,Dialogue,,0,0,0,,Dar, în ultimii ani, nu am mai \Nobținut rezultate prea bune.
+Dialogue: 99,0:03:22.84,0:03:27.93,Dialogue,,0,0,0,,Am preluat postul de directoare ca să reorganizez această școală.
+Dialogue: 99,0:03:28.85,0:03:30.44,Dialogue,,0,0,0,,And right after that,
+Dialogue: 99,0:03:30.44,0:03:34.06,Dialogue,,0,0,0,,you cause this mess, huh, Kurogane?
+Dialogue: 99,0:03:34.06,0:03:36.61,Dialogue,,0,0,0,,E-Ei bine, a fost un accident nefericit.
+Dialogue: 99,0:03:36.61,0:03:39.49,Dialogue,,0,0,0,,Să tragi cu ochiul la cineva care se schimbă e deja destul de rău,
+Dialogue: 99,0:03:39.49,0:03:41.82,Dialogue,,0,0,0,,dar să te mai și dezbraci pe deasupra...
+Dialogue: 99,0:03:41.82,0:03:43.32,Dialogue,,0,0,0,,Și ăsta tot un accident a fost?
+Dialogue: 99,0:03:43.32,0:03:44.82,Dialogue,,0,0,0,,Doar pe jumătate.
+Dialogue: 99,0:03:44.82,0:03:48.12,Dialogue,,0,0,0,,În acel moment, mi s-a \Npărut lucrul corect de făcut.
+Dialogue: 99,0:03:48.12,0:03:50.58,Dialogue,,0,0,0,,It certainly is gentlemanly in a way.
+Dialogue: 99,0:03:50.58,0:03:53.08,Dialogue,,0,0,0,,I don't mean in a perverted old man kind of way.
+Dialogue: 99,0:03:53.08,0:03:56.79,Dialogue,,0,0,0,,Well then, I'll have you take\Nresponsibility like a gentleman.
+Dialogue: 99,0:03:58.96,0:03:59.80,Dialogue,,0,0,0,,Ah.
+Dialogue: 99,0:03:59.80,0:04:01.38,Dialogue,,0,0,0,,Domnișoară Stella Vermillion!
+Dialogue: 99,0:04:02.72,0:04:03.89,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:04:03.89,0:04:06.35,Dialogue,,0,0,0,,What happened was absolutely not on purpose.
+Dialogue: 99,0:04:06.35,0:04:08.56,Dialogue,,0,0,0,,Dar sunt sigur că te-am speriat.
+Dialogue: 99,0:04:10.93,0:04:13.10,Dialogue,,0,0,0,,I'll take {my }responsibility as a man.
+Dialogue: 99,0:04:13.10,0:04:15.15,Dialogue,,0,0,0,,Do to me whatever you like.
+Dialogue: 99,0:04:16.81,0:04:18.90,Dialogue,,0,0,0,,Cum te cheamă?
+Dialogue: 99,0:04:20.19,0:04:21.40,Dialogue,,0,0,0,,Kurogane Ikki.
+Dialogue: 99,0:04:21.90,0:04:23.70,Dialogue,,0,0,0,,How upright of you, Ikki.
+Dialogue: 99,0:04:23.70,0:04:27.87,Dialogue,,0,0,0,,Honestly, I already considered making this an international issue,
+Dialogue: 99,0:04:27.87,0:04:31.87,Dialogue,,0,0,0,,but considering your attitude, I'll respond leniently{ too}.
+Dialogue: 99,0:04:31.87,0:04:32.96,Dialogue,,0,0,0,,Thank you.
+Dialogue: 99,0:04:32.96,0:04:35.08,Dialogue,,0,0,0,,Te voi ierta dacă te vei face harakiri.
+Dialogue: 99,0:04:35.37,0:04:36.04,Dialogue,,0,0,0,,Poftim?
+Dialogue: 99,0:04:38.00,0:04:39.30,Dialogue,,0,0,0,,Stai...
+Dialogue: 99,0:04:39.30,0:04:40.76,Dialogue,,0,0,0,,Asta e o glumă, nu?
+Dialogue: 99,0:04:40.76,0:04:43.01,Dialogue,,0,0,0,,I wouldn't compromise this much with a joke.
+Dialogue: 99,0:04:43.01,0:04:45.01,Dialogue,,0,0,0,,So suicide is a great bargain?!{You're saying harakiri is a great bargain?!}
+Dialogue: 99,0:04:45.01,0:04:46.76,Dialogue,,0,0,0,,You told me to do whatever I like!
+Dialogue: 99,0:04:46.76,0:04:49.39,Dialogue,,0,0,0,,That's a figure of speech, and it was an accident to begin with!
+Dialogue: 99,0:04:49.39,0:04:50.47,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:04:50.47,0:04:53.10,Dialogue,,0,0,0,,I'm not paying this little debt with my life!{I'm not paying back something like this with my life!}
+Dialogue: 99,0:04:53.10,0:04:54.35,Dialogue,,0,0,0,,Something like this?
+Dialogue: 99,0:04:54.81,0:04:58.06,Dialogue,,0,0,0,,I {just}only saw you in your underwear, right?
+Dialogue: 99,0:04:58.06,0:04:59.40,Dialogue,,0,0,0,,No way,
+Dialogue: 99,0:04:59.40,0:05:02.28,Dialogue,,0,0,0,,killing myself just because of underwear{\fscx300}-{\fscx100}
+Dialogue: 99,0:05:04.49,0:05:06.11,Dialogue,,0,0,0,,C-Ce?
+Dialogue: 99,0:05:06.11,0:05:06.70,Dialogue,,0,0,0,,Pe mai târziu.
+Dialogue: 99,0:05:06.70,0:05:07.95,Dialogue,,0,0,0,,Hei, dnă directoare!
+Dialogue: 99,0:05:07.95,0:05:09.62,Dialogue,,0,0,0,,Sper că ești pregătit.
+Dialogue: 99,0:05:09.62,0:05:16.83,Dialogue,,0,0,0,,I'll turn you pervert molester {three}strike-out{like in baseball -alta} commoner into cinders all by myself!
+Dialogue: 99,0:05:20.17,0:05:21.80,Dialogue,,0,0,0,,Stai puțin, domnișoară Stella!
+Dialogue: 99,0:05:21.80,0:05:23.01,Dialogue,,0,0,0,,Te rog să te liniștești!
+Dialogue: 99,0:05:23.01,0:05:25.22,Dialogue,,0,0,0,,Sneaking into somebody else's room,
+Dialogue: 99,0:05:25.22,0:05:27.59,Dialogue,,0,0,0,,defiling my skin...
+Dialogue: 99,0:05:27.59,0:05:28.68,Dialogue,,0,0,0,,How dare you!
+Dialogue: 99,0:05:28.68,0:05:30.76,Dialogue,,0,0,0,,Defiling?!
+Dialogue: 99,0:05:30.76,0:05:31.68,Dialogue,,0,0,0,,No, no, no!
+Dialogue: 99,0:05:31.68,0:05:35.10,Dialogue,,0,0,0,,Even though you looked at me naked with lewd eyes.
+Dialogue: 99,0:05:35.10,0:05:38.94,Dialogue,,0,0,0,,Even though you kept staring at me with contempt!
+Dialogue: 99,0:05:38.94,0:05:40.31,Dialogue,,0,0,0,,I-I certainly did look at you,
+Dialogue: 99,0:05:40.31,0:05:41.65,Dialogue,,0,0,0,,but that was, um...
+Dialogue: 99,0:05:44.44,0:05:46.70,Dialogue,,0,0,0,,Because Stella-san, you were too beautiful,
+Dialogue: 99,0:05:46.70,0:05:47.86,Dialogue,,0,0,0,,I was totally charmed!
+Dialogue: 99,0:05:54.16,0:05:54.79,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:05:54.79,0:05:56.83,Dialogue,,0,0,0,,C-Ce tot spui acolo?!
+Dialogue: 99,0:05:56.83,0:06:00.21,Dialogue,,0,0,0,,C-Calling an unmarried woman beautiful so lightly...
+Dialogue: 99,0:06:00.21,0:06:02.84,Dialogue,,0,0,0,,De asta oamenii de rând sunt așa de....
+Dialogue: 99,0:06:02.84,0:06:04.05,Dialogue,,0,0,0,,Ce mai e acum?
+Dialogue: 99,0:06:04.05,0:06:06.55,Dialogue,,0,0,0,,Well, you said "somebody else's room",
+Dialogue: 99,0:06:06.55,0:06:09.55,Dialogue,,0,0,0,,dar aceea e camera mea...
+Dialogue: 99,0:06:09.55,0:06:11.39,Dialogue,,0,0,0,,You're still going on about{\fscx300}-{\fscx100}
+Dialogue: 99,0:06:11.39,0:06:13.81,Dialogue,,0,0,0,,Oh, that reminds me that I forgot to mention this,
+Dialogue: 99,0:06:13.81,0:06:17.06,Dialogue,,0,0,0,,dar, începând de astăzi, \Nsunteți colegi de cameră.
+Dialogue: 99,0:06:18.77,0:06:20.81,Dialogue,,0,0,0,,{\t(0,1700,1,\fscx110\fscy110)}Ce?!
+Dialogue: 99,0:06:23.44,0:06:24.40,Dialogue,,0,0,0,,Așa stau lucrurile...
+Dialogue: 99,0:06:24.40,0:06:25.94,Dialogue,,0,0,0,,Am o întreare.
+Dialogue: 99,0:06:25.94,0:06:26.61,Dialogue,,0,0,0,,Hm?
+Dialogue: 99,0:06:26.61,0:06:30.36,Dialogue,,0,0,0,,Roommates are supposed to be people of the same level, right?{People of the same level are supposed to become roommates, right?}
+Dialogue: 99,0:06:30.36,0:06:34.58,Dialogue,,0,0,0,,Why is the A-ranked Stella-san roommates with someone repeating a year like me?{Why is the A-rank Stella-san in the same room with me who is repeating a year?}
+Dialogue: 99,0:06:34.58,0:06:35.16,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:06:35.16,0:06:36.75,Dialogue,,0,0,0,,Repeți anul?
+Dialogue: 99,0:06:36.75,0:06:37.96,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:06:37.96,0:06:39.50,Dialogue,,0,0,0,,Am rangul F,
+Dialogue: 99,0:06:39.50,0:06:43.25,Dialogue,,0,0,0,,and the ability I wield is {only}the lowest-level physical ability improvement.
+Dialogue: 99,0:06:43.25,0:06:46.05,Dialogue,,0,0,0,,My magic power is a tenth of the average.
+Dialogue: 99,0:06:46.05,0:06:49.38,Dialogue,,0,0,0,,His ability scores are low as\Ncan be across the board,{His other ability scores are at the lowest level across the board,}
+Dialogue: 99,0:06:49.38,0:06:51.47,Dialogue,,0,0,0,,so he's been given the nickname Worst One.
+Dialogue: 99,0:06:51.93,0:06:54.97,Dialogue,,0,0,0,,He is, without exaggerating,\Nthe weakest guy in the academy.{He's literally the weakest guy in the academy.}
+Dialogue: 99,0:06:54.97,0:06:56.81,Dialogue,,0,0,0,,„Cel mai slab”...
+Dialogue: 99,0:06:57.14,0:07:00.52,Dialogue,,0,0,0,,And that is also the answer to the question.
+Dialogue: 99,0:07:00.90,0:07:03.94,Dialogue,,0,0,0,,There is nobody inferior to Kurogane.
+Dialogue: 99,0:07:03.94,0:07:07.11,Dialogue,,0,0,0,,Meanwhile{And again}, nobody surpasses Vermillion.
+Dialogue: 99,0:07:07.11,0:07:09.40,Dialogue,,0,0,0,,So that's why.
+Dialogue: 99,0:07:09.40,0:07:11.36,Dialogue,,0,0,0,,Wh-Wh...
+Dialogue: 99,0:07:09.40,0:07:11.36,Dialogue,,0,0,0,,{\an8}Such half-baked...
+Dialogue: 99,0:07:11.36,0:07:13.66,Dialogue,,0,0,0,,What if something improper happens?!
+Dialogue: 99,0:07:13.66,0:07:16.87,Dialogue,,0,0,0,,Huh, what kinds of improper things might happen?
+Dialogue: 99,0:07:18.00,0:07:19.75,Dialogue,,0,0,0,,Th-That's...
+Dialogue: 99,0:07:19.75,0:07:22.71,Dialogue,,0,0,0,,There are other girl-guy pairs too.
+Dialogue: 99,0:07:22.71,0:07:25.13,Dialogue,,0,0,0,,If you don't like it, you can always drop out.
+Dialogue: 99,0:07:28.01,0:07:29.42,Dialogue,,0,0,0,,Got it.
+Dialogue: 99,0:07:29.42,0:07:32.59,Dialogue,,0,0,0,,However, if we're going to live in the same room,
+Dialogue: 99,0:07:32.59,0:07:34.10,Dialogue,,0,0,0,,I have three conditions.
+Dialogue: 99,0:07:34.10,0:07:34.97,Dialogue,,0,0,0,,What?
+Dialogue: 99,0:07:34.97,0:07:36.72,Dialogue,,0,0,0,,Don't talk to me.
+Dialogue: 99,0:07:36.72,0:07:38.56,Dialogue,,0,0,0,,Don't open your eyes.
+Dialogue: 99,0:07:38.56,0:07:40.43,Dialogue,,0,0,0,,Don't breathe.
+Dialogue: 99,0:07:40.43,0:07:42.60,Dialogue,,0,0,0,,So{That} Ikki-kun will probably die.
+Dialogue: 99,0:07:42.60,0:07:46.61,Dialogue,,0,0,0,,If you can agree to these three points, you can live in front of the room.
+Dialogue: 99,0:07:46.61,0:07:47.98,Dialogue,,0,0,0,,{\i1}And{\i0} I'm getting thrown out?!
+Dialogue: 99,0:07:47.98,0:07:49.40,Dialogue,,0,0,0,,What? You can't do that?
+Dialogue: 99,0:07:49.40,0:07:50.24,Dialogue,,0,0,0,,I can't!
+Dialogue: 99,0:07:50.24,0:07:51.74,Dialogue,,0,0,0,,At least let me breathe!
+Dialogue: 99,0:07:51.74,0:07:52.53,Dialogue,,0,0,0,,No way!
+Dialogue: 99,0:07:52.53,0:07:55.32,Dialogue,,0,0,0,,You're just trying to sniff my smell, aren't you, you pervert!
+Dialogue: 99,0:07:54.74,0:07:55.99,Dialogue,,0,0,0,,I can breathe through my mouth!
+Dialogue: 99,0:07:55.99,0:07:56.74,Dialogue,,0,0,0,,No!
+Dialogue: 99,0:07:56.74,0:07:59.75,Dialogue,,0,0,0,,You're just trying to taste my breath, aren't you, you pervert!
+Dialogue: 99,0:07:59.75,0:08:00.87,Dialogue,,0,0,0,,I didn't even think of that!
+Dialogue: 99,0:08:00.87,0:08:03.75,Dialogue,,0,0,0,,Dacă nu vă place, vă puteți \Nretrage de la această școală!
+Dialogue: 99,0:08:02.50,0:08:03.75,Dialogue,,0,0,0,,{\an8}Asta e absurd!
+Dialogue: 99,0:08:03.75,0:08:06.38,Dialogue,,0,0,0,,Bun, calmați-vă, amândoi!
+Dialogue: 99,0:08:06.38,0:08:09.76,Dialogue,,0,0,0,,It's the knights' way to clear their paths with swords.
+Dialogue: 99,0:08:09.76,0:08:11.01,Dialogue,,0,0,0,,Right?
+Dialogue: 99,0:08:12.22,0:08:14.72,Dialogue,,0,0,0,,Do you mean we should settle this{the matter} with our skill?
+Dialogue: 99,0:08:14.72,0:08:15.43,Dialogue,,0,0,0,,Yeah.
+Dialogue: 99,0:08:15.43,0:08:16.55,Dialogue,,0,0,0,,O luptă de antrenament,
+Dialogue: 99,0:08:16.55,0:08:19.01,Dialogue,,0,0,0,,iar învingătorul poate decide regulile camerei.
+Dialogue: 99,0:08:19.01,0:08:19.77,Dialogue,,0,0,0,,Oh?
+Dialogue: 99,0:08:19.77,0:08:20.93,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:08:20.93,0:08:23.19,Dialogue,,0,0,0,,I'm fine with doing it fairly like that.
+Dialogue: 99,0:08:23.19,0:08:24.65,Dialogue,,0,0,0,,Let's do that, Stella-san.
+Dialogue: 99,0:08:24.94,0:08:25.98,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:08:25.98,0:08:28.90,Dialogue,,0,0,0,,You're an F-rank failure of a knight, aren't you?
+Dialogue: 99,0:08:28.90,0:08:32.53,Dialogue,,0,0,0,,You have no chance of beating an A-rank like me.{You have no chance of beating me, an A-rank.}
+Dialogue: 99,0:08:32.53,0:08:35.24,Dialogue,,0,0,0,,You can't know that without having a match.
+Dialogue: 99,0:08:35.24,0:08:37.78,Dialogue,,0,0,0,,I'm working as hard as I can myself.
+Dialogue: 99,0:08:39.03,0:08:40.24,Dialogue,,0,0,0,,Got it.
+Dialogue: 99,0:08:40.24,0:08:42.33,Dialogue,,0,0,0,,Let's have a match, then!
+Dialogue: 99,0:08:42.71,0:08:46.92,Dialogue,,0,0,0,,But if that's the case, it's not the rules of the room that {is}are on the line.
+Dialogue: 99,0:08:46.92,0:08:48.17,Dialogue,,0,0,0,,Huh?
+Dialogue: 99,0:08:48.46,0:08:51.59,Dialogue,,0,0,0,,The loser will submit to the winner for life!
+Dialogue: 99,0:08:51.59,0:08:56.55,Dialogue,,0,0,0,,They'll become a dog-like servant who obeys all orders, no matter how embarassing.{They'll become a servant who obeys like a dog, no matter how humiliating an order.}
+Dialogue: 99,0:08:56.55,0:08:58.51,Dialogue,,0,0,0,,Isn't that going a bit too far?
+Dialogue: 99,0:08:58.51,0:09:01.72,Dialogue,,0,0,0,,Are we clear?
+Dialogue: 99,0:09:02.22,0:09:04.35,Dialogue,,0,0,0,,Y-Yes.
+Dialogue: 99,0:09:04.35,0:09:05.69,Dialogue,,0,0,0,,So it's decided.
+Dialogue: 99,0:09:08.02,0:09:10.11,Dialogue,,0,0,0,,You two keep those.
+Dialogue: 99,0:09:10.11,0:09:14.74,Dialogue,,0,0,0,,One hour from now, a mock battle will take place at practice arena number four.
+Dialogue: 99,0:09:20.53,0:09:22.20,Dialogue,,0,0,0,,Doamne.
+Dialogue: 99,0:09:22.75,0:09:24.91,Dialogue,,0,0,0,,De ce trebuie să fac asta?
+Dialogue: 99,0:09:26.87,0:09:29.38,Dialogue,,0,0,0,,"Working as hard as he can", my ass.
+Dialogue: 99,0:09:33.76,0:09:36.09,Dialogue,,0,0,0,,{\i1}Stella, stop already.
+Dialogue: 99,0:09:36.09,0:09:38.59,Dialogue,,0,0,0,,{\i1}Nu trebuie să mergi atât de \Ndeparte ca să devii un cavaler.
+Dialogue: 99,0:09:38.59,0:09:40.22,Dialogue,,0,0,0,,{\i1}Nu, mamă.
+Dialogue: 99,0:09:40.22,0:09:44.64,Dialogue,,0,0,0,,{\i1}O țară mică precum a noastră are nevoie de un Cavaler Magic puternic.
+Dialogue: 99,0:09:45.06,0:09:48.65,Dialogue,,0,0,0,,{\i1}I'll definitely learn to wield this power.
+Dialogue: 99,0:09:49.23,0:09:51.11,Dialogue,,0,0,0,,{\i1}If that's what it's for...
+Dialogue: 99,0:09:51.44,0:09:53.11,Dialogue,,0,0,0,,If that's what it's for,
+Dialogue: 99,0:09:53.11,0:09:54.74,Dialogue,,0,0,0,,no matter how hard I have to work...
+Dialogue: 99,0:09:56.45,0:10:00.53,Dialogue,,0,0,0,,...te voi zdrobi, Kurogane Ikki.
+Dialogue: 99,0:10:01.99,0:10:03.79,Dialogue,,0,0,0,,Look, it's the crimson princess!
+Dialogue: 99,0:10:03.79,0:10:05.62,Dialogue,,0,0,0,,O prințesă care e {\i1}și{\i0} talentată?
+Dialogue: 99,0:10:05.62,0:10:08.00,Dialogue,,0,0,0,,Sigur are parte de o viață ușoară.
+Dialogue: 99,0:10:08.00,0:10:09.79,Dialogue,,0,0,0,,But why is that guy...
+Dialogue: 99,0:10:09.79,0:10:11.63,Dialogue,,0,0,0,,Ah, probabil e o luptă de antrenament.
+Dialogue: 99,0:10:11.63,0:10:13.88,Dialogue,,0,0,0,,Împotriva celui mai slab cavaler, dintre toți.
+Dialogue: 99,0:10:21.30,0:10:23.51,Dialogue,,0,0,0,,To think that you really took the challenge.
+Dialogue: 99,0:10:23.97,0:10:26.64,Dialogue,,0,0,0,,{Because}Well, she's someone I have to beat sooner or later.
+Dialogue: 99,0:10:26.64,0:10:28.14,Dialogue,,0,0,0,,Will you win?
+Dialogue: 99,0:10:28.14,0:10:29.48,Dialogue,,0,0,0,,E puternică.
+Dialogue: 99,0:10:29.81,0:10:34.32,Dialogue,,0,0,0,,I'll have to take first place in the\NSeven Stars Swordsmanship {Festival}Tournament.{consistency. If you changed it back previously, then here too-ojii}
+Dialogue: 99,0:10:34.32,0:10:38.49,Dialogue,,0,0,0,,If I do that, even if my ability points are low, I can graduate.
+Dialogue: 99,0:10:38.49,0:10:39.99,Dialogue,,0,0,0,,That's what you told me.
+Dialogue: 99,0:10:41.62,0:10:44.87,Dialogue,,0,0,0,,And she'll definitely participate in the Swordsmanship {Festival}Tournament.{and here-ojii}
+Dialogue: 99,0:10:45.66,0:10:48.33,Dialogue,,0,0,0,,It's just a question of when it will happen.
+Dialogue: 99,0:10:48.91,0:10:50.42,Dialogue,,0,0,0,,On time!
+Dialogue: 99,0:10:50.42,0:10:53.29,Dialogue,,0,0,0,,To witness something like this\Nafter coming in for {enrolment }paperwork...{To be able to see something like this when I came for enrolment paperwork...}
+Dialogue: 99,0:10:53.29,0:10:55.00,Dialogue,,0,0,0,,So lucky!
+Dialogue: 99,0:10:56.01,0:10:56.71,Dialogue,,0,0,0,,There she is!
+Dialogue: 99,0:10:59.93,0:11:01.51,Dialogue,,0,0,0,,Bună, domnișoară Stella.
+Dialogue: 99,0:11:01.51,0:11:03.05,Dialogue,,0,0,0,,Ești pregătită?
+Dialogue: 99,0:11:03.80,0:11:05.47,Dialogue,,0,0,0,,Am auzit un zvon.
+Dialogue: 99,0:11:05.47,0:11:08.14,Dialogue,,0,0,0,,Because you don't have enough ability points,
+Dialogue: 99,0:11:08.14,0:11:11.27,Dialogue,,0,0,0,,you haven't been able to participate in battle training either.
+Dialogue: 99,0:11:11.27,0:11:16.90,Dialogue,,0,0,0,,Nu ar fi mai bine dacă ai renunța să mai devii un Cavaler Magic?
+Dialogue: 99,0:11:16.90,0:11:18.74,Dialogue,,0,0,0,,Poate ar fi.
+Dialogue: 99,0:11:19.07,0:11:22.36,Dialogue,,0,0,0,,Dar nu plănuiesc să renunț la acest duel.
+Dialogue: 99,0:11:22.66,0:11:26.58,Dialogue,,0,0,0,,Vrei să spui că efortul \Npoate învinge talentul?
+Dialogue: 99,0:11:26.58,0:11:28.16,Dialogue,,0,0,0,,Chiar crezi asta?
+Dialogue: 99,0:11:28.16,0:11:30.00,Dialogue,,0,0,0,,Da, așa îmi place să cred.
+Dialogue: 99,0:11:33.67,0:11:34.92,Dialogue,,0,0,0,,{\i1}Fir-ar...
+Dialogue: 99,0:11:34.92,0:11:35.63,Dialogue,,0,0,0,,{\i1}La naiba!
+Dialogue: 99,0:11:36.25,0:11:40.22,Dialogue,,0,0,0,,{\i1}Am muncit din greu și tot \Nam pierdut în fața talentului?!
+Dialogue: 99,0:11:42.05,0:11:45.93,Dialogue,,0,0,0,,Nu e ca și cum eu nu depun efort deloc.
+Dialogue: 99,0:11:45.93,0:11:47.22,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:11:47.22,0:11:48.68,Dialogue,,0,0,0,,Nimic.
+Dialogue: 99,0:11:48.68,0:11:52.06,Dialogue,,0,0,0,,Bun, putem începe, dnă directoare.
+Dialogue: 99,0:11:52.06,0:11:54.15,Dialogue,,0,0,0,,Well then, a mock battle is beginning.
+Dialogue: 99,0:11:54.69,0:11:56.07,Dialogue,,0,0,0,,I'm sure you know,
+Dialogue: 99,0:11:56.07,0:11:58.86,Dialogue,,0,0,0,,but a mock battle poses no risk of bodily harm,{but a mock battle is a fight in which no bodily harm is caused,}
+Dialogue: 99,0:11:58.86,0:12:01.07,Dialogue,,0,0,0,,instead whittling down the other's endurance.{instead only whittling away at the other's endurance.}
+Dialogue: 99,0:12:01.53,0:12:04.78,Dialogue,,0,0,0,,Be sure to deploy your device in illusion form.
+Dialogue: 99,0:12:07.33,0:12:09.16,Dialogue,,0,0,0,,Apari, Sabia Oțelului Ascuns!
+Dialogue: 99,0:12:18.59,0:12:21.17,Dialogue,,0,0,0,,Slujește-mă, Laevateinn!
+Dialogue: 99,0:12:34.44,0:12:36.06,Dialogue,,0,0,0,,Asta a fost o decizie bună.
+Dialogue: 99,0:12:36.06,0:12:39.15,Dialogue,,0,0,0,,The flames of my Dragon Breath are 3000 degrees centigrade.
+Dialogue: 99,0:12:39.15,0:12:41.82,Dialogue,,0,0,0,,If you take them full on, it won't be pretty!
+Dialogue: 99,0:12:49.37,0:12:50.45,Dialogue,,0,0,0,,Ah...
+Dialogue: 99,0:12:50.45,0:12:51.87,Dialogue,,0,0,0,,As you'd expect{think}.
+Dialogue: 99,0:12:51.87,0:12:54.87,Dialogue,,0,0,0,,Doamne, Guu.
+Dialogue: 99,0:12:55.17,0:12:57.58,Dialogue,,0,0,0,,You have to tell me these things.
+Dialogue: 99,0:12:57.58,0:13:00.92,Dialogue,,0,0,0,,You'll catch wind of it one way or another{ anyway}.
+Dialogue: 99,0:13:01.67,0:13:02.76,Dialogue,,0,0,0,,Evident.
+Dialogue: 99,0:13:02.76,0:13:05.88,Dialogue,,0,0,0,,Still, isn't this a bit unexpected?
+Dialogue: 99,0:13:05.88,0:13:08.85,Dialogue,,0,0,0,,From that genius knight, Stella Vermillion.
+Dialogue: 99,0:13:09.22,0:13:10.43,Dialogue,,0,0,0,,What's this?
+Dialogue: 99,0:13:12.31,0:13:13.43,Dialogue,,0,0,0,,He keeps parrying me.
+Dialogue: 99,0:13:16.40,0:13:18.36,Dialogue,,0,0,0,,Are you only good at running away?
+Dialogue: 99,0:13:18.36,0:13:20.44,Dialogue,,0,0,0,,No, I'm just barely managing.
+Dialogue: 99,0:13:20.44,0:13:22.32,Dialogue,,0,0,0,,Stella-san, your polished swordsmanship...
+Dialogue: 99,0:13:22.78,0:13:23.74,Dialogue,,0,0,0,,I feel it.
+Dialogue: 99,0:13:23.74,0:13:25.28,Dialogue,,0,0,0,,Nu e doar talent.
+Dialogue: 99,0:13:25.28,0:13:26.78,Dialogue,,0,0,0,,Ai depus și foarte mult efort.
+Dialogue: 99,0:13:28.82,0:13:30.78,Dialogue,,0,0,0,,Ești destul de perspicace.
+Dialogue: 99,0:13:30.78,0:13:34.54,Dialogue,,0,0,0,,Dar stilul meu de luptă \Nnu e atât de ușor de citit!
+Dialogue: 99,0:13:34.91,0:13:36.87,Dialogue,,0,0,0,,Cam târziu, deja am făcut-o.
+Dialogue: 99,0:13:39.75,0:13:40.84,Dialogue,,0,0,0,,Tehnica mea?
+Dialogue: 99,0:13:40.84,0:13:42.17,Dialogue,,0,0,0,,Cum de poți s-o...
+Dialogue: 99,0:13:44.47,0:13:47.59,Dialogue,,0,0,0,,Ai furat-o în timpul acestui meci?
+Dialogue: 99,0:13:48.72,0:13:52.93,Dialogue,,0,0,0,,Nobody taught me anything for the longest time,
+Dialogue: 99,0:13:52.93,0:13:55.39,Dialogue,,0,0,0,,so I only got good at this kind of thing!
+Dialogue: 99,0:13:55.85,0:13:58.15,Dialogue,,0,0,0,,{\i1}When you follow the leaves and branches back to the trunk,
+Dialogue: 99,0:13:58.15,0:13:59.69,Dialogue,,0,0,0,,{\i1}you can understand everything.
+Dialogue: 99,0:13:59.69,0:14:01.02,Dialogue,,0,0,0,,{\i1}And you can overcome!
+Dialogue: 99,0:14:06.78,0:14:08.41,Dialogue,,0,0,0,,Acesta e stilul meu de luptă:
+Dialogue: 99,0:14:09.07,0:14:10.37,Dialogue,,0,0,0,,Furtul Tehnicii!
+Dialogue: 99,0:14:11.45,0:14:12.49,Dialogue,,0,0,0,,{\i1}Saw through, he says?
+Dialogue: 99,0:14:12.49,0:14:13.62,Dialogue,,0,0,0,,{\i1}So I'll feint!
+Dialogue: 99,0:14:17.21,0:14:18.79,Dialogue,,0,0,0,,It's like you're half asleep.
+Dialogue: 99,0:14:20.63,0:14:21.71,Dialogue,,0,0,0,,Nu se poate!
+Dialogue: 99,0:14:21.71,0:14:23.42,Dialogue,,0,0,0,,Asta nu e stilul tău de luptă.
+Dialogue: 99,0:14:23.42,0:14:25.67,Dialogue,,0,0,0,,This crooked attack is fatal!
+Dialogue: 99,0:14:30.89,0:14:31.85,Dialogue,,0,0,0,,Did it end?
+Dialogue: 99,0:14:31.85,0:14:33.39,Dialogue,,0,0,0,,Did an A-rank...
+Dialogue: 99,0:14:33.39,0:14:34.18,Dialogue,,0,0,0,,Nu, privește!
+Dialogue: 99,0:14:39.85,0:14:41.90,Dialogue,,0,0,0,,E așa de nașpa...
+Dialogue: 99,0:14:41.90,0:14:43.27,Dialogue,,0,0,0,,...să fiu nevoită să câștig astfel.
+Dialogue: 99,0:14:44.07,0:14:47.69,Dialogue,,0,0,0,,Știai că sabia mea nu te poate răni, nu?
+Dialogue: 99,0:14:47.69,0:14:50.32,Dialogue,,0,0,0,,De asta m-ai provocat la o luptă \Ncu săbiile noastre adevărate.
+Dialogue: 99,0:14:50.32,0:14:51.49,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:14:51.49,0:14:56.75,Dialogue,,0,0,0,,To let everybody know that by beating you in a sword fight, {that }there's more to me than talent.
+Dialogue: 99,0:14:57.54,0:14:59.21,Dialogue,,0,0,0,,Dar trebuie să recunosc.
+Dialogue: 99,0:14:59.21,0:15:04.17,Dialogue,,0,0,0,,It was thanks to magical ability that I was able to win this fight.
+Dialogue: 99,0:15:04.84,0:15:07.38,Dialogue,,0,0,0,,Deci cu cel mai mare respect,
+Dialogue: 99,0:15:07.71,0:15:09.17,Dialogue,,0,0,0,,te voi învinge.
+Dialogue: 99,0:15:11.14,0:15:14.56,Dialogue,,0,0,0,,Într-adevăr, nu am talentul \Nnecesar unui Cavaler Magic.
+Dialogue: 99,0:15:14.56,0:15:16.43,Dialogue,,0,0,0,,{\i1}Dar nu pot renunța.
+Dialogue: 99,0:15:14.85,0:15:18.52,Dialogue,,0,0,0,,{\an8}Străpungeți cerul, Flăcări ale Purgatoriului!
+Dialogue: 99,0:15:16.43,0:15:20.77,Dialogue,,0,0,0,,{\i1}I can't step down now and give up on the vow which defines me.{I can't give up on the vow which defines me by stepping down now.}
+Dialogue: 99,0:15:20.77,0:15:22.31,Dialogue,,0,0,0,,{\i1}De asta m-am întrebat:
+Dialogue: 99,0:15:22.31,0:15:25.65,Dialogue,,0,0,0,,{\i1}„Cum poate cel mai slab să-l \Nînvingă pe cel mai puternic?”
+Dialogue: 99,0:15:23.44,0:15:26.61,Dialogue,,0,0,0,,{\an8}Fă totul scrum, Salamandră Katharterio!
+Dialogue: 99,0:15:25.65,0:15:26.61,Dialogue,,0,0,0,,{\i1}Și am găsit răspunsul.
+Dialogue: 99,0:15:27.15,0:15:28.07,Dialogue,,0,0,0,,Ittou Shura!
+Dialogue: 99,0:15:29.28,0:15:30.45,Dialogue,,0,0,0,,Ce a fost asta?
+Dialogue: 99,0:15:33.78,0:15:34.78,Dialogue,,0,0,0,,A devent mai rapid...
+Dialogue: 99,0:15:34.78,0:15:36.74,Dialogue,,0,0,0,,Iar puterea lui magică a crescut...
+Dialogue: 99,0:15:36.74,0:15:37.95,Dialogue,,0,0,0,,Nu a crescut.
+Dialogue: 99,0:15:38.37,0:15:40.66,Dialogue,,0,0,0,,Doar lupt cu tot ce am!
+Dialogue: 99,0:15:40.66,0:15:41.58,Dialogue,,0,0,0,,Chiar și așa!
+Dialogue: 99,0:15:43.33,0:15:44.33,Dialogue,,0,0,0,,Nu se poate!
+Dialogue: 99,0:15:44.33,0:15:47.25,Dialogue,,0,0,0,,Focusing all life energy into one minute and unleashing everything.{Concentrating all life energy into one minute and squeezing out all of it.}
+Dialogue: 99,0:15:47.25,0:15:49.26,Dialogue,,0,0,0,,This is the Noble Art I've devised!
+Dialogue: 99,0:15:50.30,0:15:53.76,Dialogue,,0,0,0,,I'll destroy your strongest with my strongest!
+Dialogue: 99,0:16:01.94,0:16:04.73,Dialogue,,0,0,0,,Ca un om obișnuit să poată învinge un geniu,
+Dialogue: 99,0:16:04.73,0:16:07.65,Dialogue,,0,0,0,,acesta trebuie să devină un demon.
+Dialogue: 99,0:16:07.65,0:16:09.11,Dialogue,,0,0,0,,Destul!
+Dialogue: 99,0:16:09.57,0:16:12.32,Dialogue,,0,0,0,,Învingător: Kurogane Ikki!
+Dialogue: 99,0:16:16.99,0:16:18.12,Dialogue,,0,0,0,,Vai...
+Dialogue: 99,0:16:18.12,0:16:22.46,Dialogue,,0,0,0,,The representative selection matches this year\Nwill be something to look forward to.
+Dialogue: 99,0:16:30.59,0:16:33.05,Dialogue,,0,0,0,,Vermillion, cum te simți?
+Dialogue: 99,0:16:33.43,0:16:35.72,Dialogue,,0,0,0,,Am uitat acum mult timp...
+Dialogue: 99,0:16:35.72,0:16:38.68,Dialogue,,0,0,0,,...cum este să pierzi.
+Dialogue: 99,0:16:39.43,0:16:40.52,Dialogue,,0,0,0,,El cum este?
+Dialogue: 99,0:16:40.52,0:16:42.89,Dialogue,,0,0,0,,A major move that fully spends him in one minute,
+Dialogue: 99,0:16:42.89,0:16:45.23,Dialogue,,0,0,0,,that he can only use once a day...{It's a major move he can only use once in a day, which uses him up in a minute.}
+Dialogue: 99,0:16:45.23,0:16:47.52,Dialogue,,0,0,0,,Asta e ceea ce a folosit.
+Dialogue: 99,0:16:47.52,0:16:49.44,Dialogue,,0,0,0,,El este mult mai extenuat decât tine.
+Dialogue: 99,0:16:49.44,0:16:51.90,Dialogue,,0,0,0,,Ei bine, viața nu îi este pusă în pericol.
+Dialogue: 99,0:16:52.36,0:16:56.16,Dialogue,,0,0,0,,Dnă directoare, de ce e tratat astfel?
+Dialogue: 99,0:16:56.16,0:16:57.37,Dialogue,,0,0,0,,La ce te referi?
+Dialogue: 99,0:16:57.37,0:16:59.41,Dialogue,,0,0,0,,Nu vă faceți că nu știți!
+Dialogue: 99,0:16:59.41,0:17:01.83,Dialogue,,0,0,0,,E ciudat ca acel tip să aibă rangul F.
+Dialogue: 99,0:17:03.08,0:17:06.67,Dialogue,,0,0,0,,Ranks are something which evaluate{assess} Blazer skills.
+Dialogue: 99,0:17:07.29,0:17:12.67,Dialogue,,0,0,0,,Fighting skills {\fscx200}-{\fscx100} that is, sword skills and martial arts {\fscx200}-{\fscx100} aren't assessment points.
+Dialogue: 99,0:17:12.67,0:17:17.09,Dialogue,,0,0,0,,Currently, there's no system which can properly assess Kurogane.
+Dialogue: 99,0:17:17.09,0:17:18.35,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:17:18.35,0:17:19.51,Dialogue,,0,0,0,,Să repete anul...
+Dialogue: 99,0:17:22.10,0:17:24.48,Dialogue,,0,0,0,,There are various complicated circumstances.
+Dialogue: 99,0:17:25.06,0:17:28.44,Dialogue,,0,0,0,,Or rather: simple, classical circumstances.{Or should I say simple, classical circumstances.}
+Dialogue: 99,0:17:30.61,0:17:35.20,Dialogue,,0,0,0,,I will say this: even though his chances have been unfairly stolen time and time again,{I can say that even though his chances have time and again been unfairly stolen from him,}
+Dialogue: 99,0:17:35.20,0:17:39.37,Dialogue,,0,0,0,,he still didn't stop believing in himself and reaching higher.
+Dialogue: 99,0:17:39.83,0:17:43.08,Dialogue,,0,0,0,,That's the kind of man he is.
+Dialogue: 99,0:17:44.33,0:17:45.62,Dialogue,,0,0,0,,Vermillion,
+Dialogue: 99,0:17:45.62,0:17:47.50,Dialogue,,0,0,0,,I asked you this morning
+Dialogue: 99,0:17:47.50,0:17:49.54,Dialogue,,0,0,0,,why you wanted to study abroad.
+Dialogue: 99,0:17:50.13,0:17:54.38,Dialogue,,0,0,0,,{\i1}If I stay in that country, I can't aim higher{ up}.
+Dialogue: 99,0:17:54.38,0:17:57.68,Dialogue,,0,0,0,,{\i1}I'm trapped in the frame of being a "genius".
+Dialogue: 99,0:17:58.22,0:17:59.97,Dialogue,,0,0,0,,For this one year,
+Dialogue: 99,0:17:59.97,0:18:02.43,Dialogue,,0,0,0,,follow after Kurogane with everything you've got.
+Dialogue: 99,0:18:02.93,0:18:07.52,Dialogue,,0,0,0,,I'm sure you stand to gain something from it too.{I'm sure that won't be in vain for your life either.}
+Dialogue: 99,0:18:30.75,0:18:34.63,Dialogue,,0,0,0,,This is a man's back, huh?
+Dialogue: 99,0:18:38.76,0:18:40.30,Dialogue,,0,0,0,,{\i1}A-Asta e de rău!
+Dialogue: 99,0:18:43.18,0:18:44.22,Dialogue,,0,0,0,,{\i1}Ei bine...
+Dialogue: 99,0:18:44.22,0:18:45.97,Dialogue,,0,0,0,,{\i1}Da, dacă fac asta...
+Dialogue: 99,0:18:45.97,0:18:47.06,Dialogue,,0,0,0,,{\i1}C-Ce?
+Dialogue: 99,0:19:05.58,0:19:06.75,Dialogue,,0,0,0,,{\i1}N-Nu pot face asta!
+Dialogue: 99,0:19:06.75,0:19:09.62,Dialogue,,0,0,0,,{\i1}Sunt o prințesă nemăritată!
+Dialogue: 99,0:19:09.62,0:19:10.71,Dialogue,,0,0,0,,{\i1}So immodest...
+Dialogue: 99,0:19:13.42,0:19:17.13,Dialogue,,0,0,0,,{\i1}Dar el m-a văzut în lenjerie intimă,
+Dialogue: 99,0:19:17.63,0:19:19.84,Dialogue,,0,0,0,,{\i1}deci am fi chit acum, nu?
+Dialogue: 99,0:19:20.47,0:19:23.93,Dialogue,,0,0,0,,{\i1}Corpul acestui băiat e...
+Dialogue: 99,0:19:25.18,0:19:26.43,Dialogue,,0,0,0,,{\i1}Uimitor!
+Dialogue: 99,0:19:26.43,0:19:28.35,Dialogue,,0,0,0,,{\i1}Emană o energia atât de puternică!
+Dialogue: 99,0:19:32.56,0:19:35.69,Dialogue,,0,0,0,,Ce m-a apucat...
+Dialogue: 99,0:19:35.69,0:19:36.40,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:19:37.03,0:19:39.28,Dialogue,,0,0,0,,Și eu mă întreb același lucru.
+Dialogue: 99,0:19:40.11,0:19:42.57,Dialogue,,0,0,0,,Stella, ce crezi că faci?
+Dialogue: 99,0:19:49.66,0:19:52.04,Dialogue,,0,0,0,,Bun. Vei fi bine acum.
+Dialogue: 99,0:19:52.04,0:19:54.33,Dialogue,,0,0,0,,M-Mersi.
+Dialogue: 99,0:19:54.33,0:19:56.50,Dialogue,,0,0,0,,Good that it's not a big wound.
+Dialogue: 99,0:19:58.00,0:19:59.46,Dialogue,,0,0,0,,Îmi pare rău.
+Dialogue: 99,0:19:59.46,0:20:00.22,Dialogue,,0,0,0,,Poftim?
+Dialogue: 99,0:20:00.72,0:20:04.80,Dialogue,,0,0,0,,I scorned the people who saw me inside a frame,
+Dialogue: 99,0:20:04.80,0:20:07.26,Dialogue,,0,0,0,,but at the same time I saw you inside a frame.
+Dialogue: 99,0:20:07.89,0:20:10.18,Dialogue,,0,0,0,,I never tried to take a good look.
+Dialogue: 99,0:20:10.52,0:20:14.35,Dialogue,,0,0,0,,If I had taken a proper look,\NI wouldn't have lost like that.
+Dialogue: 99,0:20:14.35,0:20:17.40,Dialogue,,0,0,0,,A fost înfrăngerea mea, Ikki.
+Dialogue: 99,0:20:18.86,0:20:20.07,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:20:20.07,0:20:21.61,Dialogue,,0,0,0,,Deci, domnișoară Stella,
+Dialogue: 99,0:20:22.24,0:20:24.57,Dialogue,,0,0,0,,ești servitoarea mea acum, nu?
+Dialogue: 99,0:20:24.57,0:20:25.41,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:20:25.41,0:20:28.03,Dialogue,,0,0,0,,The loser will submit to the winner for life, right?
+Dialogue: 99,0:20:28.03,0:20:28.95,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:20:28.95,0:20:31.04,Dialogue,,0,0,0,,That was, um... a figure of speech...
+Dialogue: 99,0:20:31.04,0:20:33.29,Dialogue,,0,0,0,,Îmi vei urma ordinele, nu?
+Dialogue: 99,0:20:33.29,0:20:34.58,Dialogue,,0,0,0,,Oricare ar fi acestea.
+Dialogue: 99,0:20:35.42,0:20:36.71,Dialogue,,0,0,0,,O-Oricare ar fi?!
+Dialogue: 99,0:20:36.71,0:20:38.21,Dialogue,,0,0,0,,A-Asta e prea mult!
+Dialogue: 99,0:20:38.21,0:20:39.50,Dialogue,,0,0,0,,Nu pot face așa ceva.
+Dialogue: 99,0:20:39.50,0:20:40.71,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:20:40.71,0:20:45.97,Dialogue,,0,0,0,,Deci membrii familiei imperiale Vermillion sunt genul de oameni care nu-și țin promisiunile?
+Dialogue: 99,0:20:45.97,0:20:48.22,Dialogue,,0,0,0,,Cine a zis că nu-mi \Nvoi ține promisiunea?!
+Dialogue: 99,0:20:48.22,0:20:49.10,Dialogue,,0,0,0,,Foarte bine!
+Dialogue: 99,0:20:49.10,0:20:51.60,Dialogue,,0,0,0,,Voi deveni servitoarea ta sau \Ncâinele tău sau orice altceva!
+Dialogue: 99,0:20:51.60,0:20:54.02,Dialogue,,0,0,0,,Ordonă-mi orice dorești!
+Dialogue: 99,0:20:54.02,0:20:56.44,Dialogue,,0,0,0,,Ordonă-mi să fac lucruri indecente!
+Dialogue: 99,0:20:56.44,0:20:57.15,Dialogue,,0,0,0,,Perversule!
+Dialogue: 99,0:20:57.15,0:20:57.86,Dialogue,,0,0,0,,Prostule!
+Dialogue: 99,0:20:57.86,0:20:59.23,Dialogue,,0,0,0,,Te urăsc!
+Dialogue: 99,0:21:02.94,0:21:04.15,Dialogue,,0,0,0,,Și acum?
+Dialogue: 99,0:21:04.15,0:21:07.20,Dialogue,,0,0,0,,Uite primul ordin, Stella.
+Dialogue: 99,0:21:10.12,0:21:12.20,Dialogue,,0,0,0,,Devino colega mea de cameră.
+Dialogue: 99,0:21:13.83,0:21:17.17,Dialogue,,0,0,0,,Stella-san, I want to get along better with you.
+Dialogue: 99,0:21:17.63,0:21:19.13,Dialogue,,0,0,0,,G-Get along...
+Dialogue: 99,0:21:19.13,0:21:21.21,Dialogue,,0,0,0,,Să spui așa ceva unei prințese nemăritate...
+Dialogue: 99,0:21:21.21,0:21:23.63,Dialogue,,0,0,0,,How{So} insensitive.
+Dialogue: 99,0:21:23.63,0:21:26.64,Dialogue,,0,0,0,,You really hate living in the same room as{with} a guy, don't you?
+Dialogue: 99,0:21:27.14,0:21:29.89,Dialogue,,0,0,0,,In that case, let's go talk with the Chairman once more...
+Dialogue: 99,0:21:29.89,0:21:31.35,Dialogue,,0,0,0,,I-I don't hate it.
+Dialogue: 99,0:21:32.22,0:21:33.06,Dialogue,,0,0,0,,Ești sigură?
+Dialogue: 99,0:21:33.06,0:21:35.94,Dialogue,,0,0,0,,Doar ca să știi, o fac doar \Npentru că e un ordin!
+Dialogue: 99,0:21:35.94,0:21:41.07,Dialogue,,0,0,0,,I don't really want to get along\Nbetter with you in the slightest!
+Dialogue: 99,0:21:42.32,0:21:44.36,Dialogue,,0,0,0,,Sper să ne înțelegem bine, domnișoară Stella.
+Dialogue: 99,0:21:48.16,0:21:49.28,Dialogue,,0,0,0,,Stella.
+Dialogue: 99,0:21:49.57,0:21:50.49,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:21:50.78,0:21:53.95,Dialogue,,0,0,0,,Dacă nu-mi vei spune doar \N„Stella”, nu-ți voi răspunde.
+Dialogue: 99,0:21:55.12,0:21:56.37,Dialogue,,0,0,0,,În acest caz,
+Dialogue: 99,0:21:56.37,0:21:58.42,Dialogue,,0,0,0,,sper să ne înțelegem bine, Stella.
+Dialogue: 99,0:21:59.21,0:22:01.04,Dialogue,,0,0,0,,Se pare că nu am de ales, nu?
 Dialogue: 0,0:00:23.46,0:00:24.92,OP TL,,0,0,0,,{\an7\1c&H4B2DE4&\alpha&HC0&\blur3\p1\move(6,358.5,6,126,0,800)}m 268.75 914 l 331.875 797.25 b 335.125 792.25 341.125 792 345.5 792 345.5 792 350.5 792.125 352.5 788.75 l 380.875 740.5 b 382.75 737.125 386.375 735 390.375 735 l 946.25 731 b 953 731 959.75 737.125 958.75 743.75 l 951.5 779.75 b 950.5 786.375 951 784.5 957.625 784.625 l 1641.375 784.5 b 1661.25 784.5 1670.625 802.125 1662.75 817.125 l 1602 929.375 b 1599.25 935.25 1586.75 943.125 1576.75 943.125 l 293.25 943 b 272.75 945.25 264.25 923 268.75 914{\p0}
 Dialogue: 1,0:00:23.46,0:00:24.92,DedzuyaSigns,,0,0,0,,{\an7\1c&HD592FB&\alpha&H60&\blur1.5\p1\move(0,352.5,0,120,0,800)}m 268.75 914 l 331.875 797.25 b 335.125 792.25 341.125 792 345.5 792 345.5 792 350.5 792.125 352.5 788.75 l 380.875 740.5 b 382.75 737.125 386.375 735 390.375 735 l 946.25 731 b 953 731 959.75 737.125 958.75 743.75 l 951.5 779.75 b 950.5 786.375 951 784.5 957.625 784.625 l 1641.375 784.5 b 1661.25 784.5 1670.625 802.125 1662.75 817.125 l 1602 929.375 b 1599.25 935.25 1586.75 943.125 1576.75 943.125 l 293.25 943 b 272.75 945.25 264.25 923 268.75 914{\p0}
 Dialogue: 2,0:00:23.46,0:00:24.92,DedzuyaSigns,,0,0,0,,{\an7\1c&H8F6AF4&\alpha&HB0&\blur9\p1\move(0,352.5,0,120,0,800)}m 268.75 914 l 331.875 797.25 b 335.125 792.25 341.125 792 345.5 792 345.5 792 350.5 792.125 352.5 788.75 l 380.875 740.5 b 382.75 737.125 386.375 735 390.375 735 l 946.25 731 b 953 731 959.75 737.125 958.75 743.75 l 951.5 779.75 b 950.5 786.375 951 784.5 957.625 784.625 l 1641.375 784.5 b 1661.25 784.5 1670.625 802.125 1662.75 817.125 l 1602 929.375 b 1599.25 935.25 1586.75 943.125 1576.75 943.125 l 293.25 943 b 272.75 945.25 264.25 923 268.75 914{\p0}

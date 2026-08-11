@@ -42,353 +42,353 @@ Style: Status Text,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:02.15,0:00:03.61,Main,MICHIO,0,0,0,,Hey, Roxanne.
-Dialogue: 100,0:00:03.61,0:00:05.90,Main,MICHIO,0,0,0,,I want to add skills to my equipment.
-Dialogue: 100,0:00:05.90,0:00:07.15,Main,MICHIO,0,0,0,,How do I do that?
-Dialogue: 100,0:00:07.64,0:00:12.40,Main,ROXANNE,0,0,0,,Normally you purchase gear that \Ncomes with skills equipped.
-Dialogue: 100,0:00:12.40,0:00:14.32,Main,MICHIO,0,0,0,,I'm not talking about buying equipment.
-Dialogue: 100,0:00:14.32,0:00:15.66,Main,MICHIO,0,0,0,,How do I add them myself?
-Dialogue: 100,0:00:15.66,0:00:18.59,Main,ROXANNE,0,0,0,,Are you talking about Skill Crystals?
-Dialogue: 100,0:00:18.59,0:00:19.91,Main,MICHIO,0,0,0,,Skill Crystals?
-Dialogue: 100,0:00:20.26,0:00:25.25,Main,ROXANNE,0,0,0,,They're formed through the \Naccumulation of monster skills.
-Dialogue: 100,0:00:25.25,0:00:28.89,Main,ROXANNE,0,0,0,,They're found rarely in labyrinths, \Nand when fused with equipment...
-Dialogue: 100,0:00:29.42,0:00:31.42,Main,MICHIO,0,0,0,,It applies that skill?
-Dialogue: 100,0:00:31.80,0:00:35.68,Main,ROXANNE,0,0,0,,It all depends on the skill of \Nthe blacksmith fusing the items.
-Dialogue: 100,0:00:35.68,0:00:39.69,Italics,MICHIO,0,0,0,,A blacksmith, huh? I'll need that job.
-Dialogue: 100,0:00:39.69,0:00:40.93,Main,MICHIO,0,0,0,,How can I become one?
-Dialogue: 100,0:00:41.17,0:00:45.69,Main,ROXANNE,0,0,0,,I'm sorry, but Blacksmith \Nis a job unique to dwarves.
-Dialogue: 100,0:00:45.69,0:00:46.88,Main,ROXANNE,0,0,0,,You aren't eligible.
-Dialogue: 100,0:00:46.88,0:00:48.44,Italics,MICHIO,0,0,0,,I can't become one?!
-Dialogue: 100,0:00:48.72,0:00:53.44,Main,MICHIO,0,0,0,,So I'll have to hire a blacksmith if I \Nwant to make any equipment with skills.
-Dialogue: 100,0:00:53.76,0:00:56.12,Main,ROXANNE,0,0,0,,I wouldn't recommend it.
-Dialogue: 100,0:00:56.12,0:01:01.16,Main,ROXANNE,0,0,0,,It fails most of the time, \Nand blacksmiths dislike direct transactions.
-Dialogue: 100,0:01:01.39,0:01:04.58,Main,ROXANNE,0,0,0,,Even if you found one, \Nthere's no telling if you can trust them.
-Dialogue: 100,0:01:04.83,0:01:09.99,Main,ROXANNE,0,0,0,,Some dwarves have made a fortune by \Npretending the fusion process failed.
-Dialogue: 100,0:01:09.99,0:01:11.09,Main,MICHIO,0,0,0,,I see.
-Dialogue: 100,0:01:11.73,0:01:17.52,Main,MICHIO,0,0,0,,They tell their client they failed and make a \Nprofit selling the equipment with skills later.
-Dialogue: 100,0:01:17.52,0:01:20.60,Main,MICHIO,0,0,0,,Sounds like fusing Skill Crystals \Nis a source of a lot of problems.
-Dialogue: 100,0:01:20.60,0:01:24.93,Main,ROXANNE,0,0,0,,Yes, Master. Though it's a different story \Nif you're on friendly terms with a blacksmith.
-Dialogue: 100,0:01:25.30,0:01:27.35,Main,MICHIO,0,0,0,,Then we'll recruit a blacksmith to our party.
-Dialogue: 100,0:01:27.35,0:01:27.89,Main,ROXANNE,0,0,0,,What?
-Dialogue: 100,0:01:27.89,0:01:30.81,Main,MICHIO,0,0,0,,Nothing. Mind if I open the window?
-Dialogue: 100,0:01:30.81,0:01:31.94,Main,ROXANNE,0,0,0,,That's fine.
-Dialogue: 100,0:01:35.91,0:01:37.21,Main,ROXANNE,0,0,0,,Thank you for waiting.
-Dialogue: 100,0:01:39.35,0:01:42.20,Italics,MICHIO,0,0,0,,Roxanne really is beautiful.
-Dialogue: 100,0:01:43.46,0:01:45.62,Main,MICHIO,0,0,0,,Roxanne, take this leather armor.
-Dialogue: 100,0:01:46.77,0:01:49.38,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
-Dialogue: 100,0:01:51.66,0:01:54.55,Main,MICHIO,0,0,0,,Roxanne, were you able to get it on okay?
-Dialogue: 100,0:01:58.20,0:01:59.30,Main,ROXANNE,0,0,0,,Um...
-Dialogue: 100,0:01:59.30,0:02:03.56,Italics,MICHIO,0,0,0,,I know equipment stretches and \Nshrinks to fit the wearer,
-Dialogue: 100,0:02:03.97,0:02:06.89,Italics,MICHIO,0,0,0,,but this is too much.
-Dialogue: 100,0:02:10.15,0:02:11.83,Main,ROXANNE,0,0,0,,Thank you.
-Dialogue: 100,0:02:11.83,0:02:14.65,Main,MICHIO,0,0,0,,I guess leather armor isn't for women.
-Dialogue: 100,0:02:14.88,0:02:18.95,Italics,MICHIO,0,0,0,,It looks like the jacket \Ndoesn't emphasize her figure.
-Dialogue: 100,0:02:19.63,0:02:22.53,Italics,MICHIO,0,0,0,,Party Organization, Roxanne.
-Dialogue: 100,0:02:23.24,0:02:24.99,Main,MICHIO,0,0,0,,Shall we get going?
-Dialogue: 100,0:02:24.99,0:02:27.12,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:04:05.22,0:04:10.08,Main,ROXANNE,0,0,0,,Master, aren't we going to the labyrinth?
-Dialogue: 100,0:04:10.71,0:04:11.55,Italics,MICHIO,0,0,0,,Teleport.
-Dialogue: 100,0:04:14.94,0:04:16.73,Main,ROXANNE,0,0,0,,Huh? Um...
-Dialogue: 100,0:04:24.02,0:04:25.56,Main,ROXANNE,0,0,0,,Huh? What?
-Dialogue: 100,0:04:25.56,0:04:27.48,Main,MICHIO,0,0,0,,Are you okay, Roxanne?
-Dialogue: 100,0:04:27.48,0:04:29.99,Main,ROXANNE,0,0,0,,Master, where are we?
-Dialogue: 100,0:04:29.99,0:04:32.36,Main,MICHIO,0,0,0,,On the first floor of the labyrinth.
-Dialogue: 100,0:04:32.36,0:04:36.48,Main,ROXANNE,0,0,0,,But I thought Dungeon Walk could \Nonly be used inside labyrinths.
-Dialogue: 100,0:04:36.48,0:04:38.59,Main,MICHIO,0,0,0,,I used Teleportation magic.
-Dialogue: 100,0:04:39.84,0:04:41.59,Main,ROXANNE,0,0,0,,I've never heard of that.
-Dialogue: 100,0:04:41.80,0:04:46.59,Main,MICHIO,0,0,0,,It's possible not many others can \Nuse it, so don't tell anyone.
-Dialogue: 100,0:04:47.40,0:04:49.85,Main,ROXANNE,0,0,0,,Master, you're amazing.
-Dialogue: 100,0:04:53.65,0:04:56.10,Main,MICHIO,0,0,0,,Which way should we go?
-Dialogue: 100,0:04:57.96,0:05:02.16,Main,ROXANNE,0,0,0,,Master, if you're looking for monsters, \Nthere are some nearby to the right.
-Dialogue: 100,0:05:02.16,0:05:03.36,Main,ROXANNE,0,0,0,,I can smell them.
-Dialogue: 100,0:05:03.36,0:05:04.78,Main,MICHIO,0,0,0,,What? You can?
-Dialogue: 100,0:05:06.18,0:05:08.27,Main,MICHIO,0,0,0,,I don't smell anything unusual.
-Dialogue: 100,0:05:08.76,0:05:11.10,Main,MICHIO,0,0,0,,Is it because you're a wolfkin?
-Dialogue: 100,0:05:11.10,0:05:14.79,Main,ROXANNE,0,0,0,,My nose is exceptionally good, even for a wolfkin.
-Dialogue: 100,0:05:15.10,0:05:17.38,Main,ROXANNE,0,0,0,,I'm good at detecting prey.
-Dialogue: 100,0:05:17.38,0:05:18.85,Main,MICHIO,0,0,0,,That's amazing.
-Dialogue: 100,0:05:18.85,0:05:21.38,Main,MICHIO,0,0,0,,Then could you take us towards the monsters?
-Dialogue: 100,0:05:21.38,0:05:22.56,Main,ROXANNE,0,0,0,,Very well.
-Dialogue: 100,0:05:22.56,0:05:25.68,Main,ROXANNE,0,0,0,,In that case, could you \Nlend me a Magic Crystal?
-Dialogue: 100,0:05:25.68,0:05:27.51,Main,MICHIO,0,0,0,,Magic Crystal? What's that?
-Dialogue: 100,0:05:27.76,0:05:31.20,Main,ROXANNE,0,0,0,,Monsters are made of magic power.
-Dialogue: 100,0:05:31.20,0:05:34.36,Main,ROXANNE,0,0,0,,When monsters are defeated, \Ntheir magic power gradually accumulates,
-Dialogue: 100,0:05:34.36,0:05:36.27,Main,ROXANNE,0,0,0,,eventually forming a Magic Crystal.
-Dialogue: 100,0:05:37.40,0:05:42.25,Main,ROXANNE,0,0,0,,Magic Crystals filled with magic power are \Nused by guild temples as energy sources.
-Dialogue: 100,0:05:42.25,0:05:44.36,Main,MICHIO,0,0,0,,Why do you want me to lend you one?
-Dialogue: 100,0:05:44.36,0:05:48.93,Main,ROXANNE,0,0,0,,Because you can't store magic power when you \Ndefeat monsters unless you have a Magic Crystal.
-Dialogue: 100,0:05:49.49,0:05:52.70,Italics,MICHIO,0,0,0,,Have I been screwing myself?
-Dialogue: 100,0:05:52.94,0:05:55.15,Main,MICHIO,0,0,0,,Do Magic Crystals sell for a lot?
-Dialogue: 100,0:05:55.15,0:05:59.59,Main,ROXANNE,0,0,0,,They're probably the most valuable item \Nthat can be acquired in labyrinths.
-Dialogue: 100,0:06:00.71,0:06:02.71,Main,ROXANNE,0,0,0,,Well, they're valuable,
-Dialogue: 100,0:06:02.71,0:06:05.63,Main,ROXANNE,0,0,0,,but you only accumulate a \Ntiny amount of magic power at a time.
-Dialogue: 100,0:06:06.05,0:06:09.75,Main,ROXANNE,0,0,0,,A person sells Magic Crystals only a handful \Nof times over the course of their life.
-Dialogue: 100,0:06:09.75,0:06:13.97,Main,ROXANNE,0,0,0,,Even if you haven't had one \Nuntil now, you didn't lose much.
-Dialogue: 100,0:06:13.97,0:06:15.77,Main,ROXANNE,0,0,0,,So it's all right.
-Dialogue: 100,0:06:16.41,0:06:17.86,Main,MICHIO,0,0,0,,Roxanne...
-Dialogue: 100,0:06:18.50,0:06:20.69,Italics,MICHIO,0,0,0,,I made her concerned about me.
-Dialogue: 100,0:06:20.95,0:06:23.44,Main,MICHIO,0,0,0,,How can we acquire a Magic Crystal?
-Dialogue: 100,0:06:23.44,0:06:29.03,Main,ROXANNE,0,0,0,,You can find them in labyrinths or \Npurchase empty ones from guilds.
-Dialogue: 100,0:06:29.03,0:06:31.53,Main,MICHIO,0,0,0,,Then, let's go buy some later.
-Dialogue: 100,0:06:35.60,0:06:37.70,Italics,MICHIO,0,0,0,,Hey, there really was a monster.
-Dialogue: 100,0:06:39.12,0:06:40.16,Main,ROXANNE,0,0,0,,Here I go.
-Dialogue: 100,0:06:40.60,0:06:41.54,Main,MICHIO,0,0,0,,I got it.
-Dialogue: 100,0:06:49.30,0:06:51.18,Main,ROXANNE,0,0,0,,A single blow?
-Dialogue: 100,0:06:51.44,0:06:54.57,Main,ROXANNE,0,0,0,,Impressive, Master.
-Dialogue: 100,0:06:54.57,0:06:56.39,Main,MICHIO,0,0,0,,It's this sword that's impressive.
-Dialogue: 100,0:06:57.12,0:06:58.35,Main,MICHIO,0,0,0,,Don't tell anyone.
-Dialogue: 100,0:07:02.44,0:07:03.90,Main,MICHIO,0,0,0,,Which way next?
-Dialogue: 100,0:07:05.37,0:07:06.94,Main,ROXANNE,0,0,0,,Straight ahead.
-Dialogue: 100,0:07:09.84,0:07:11.34,Italics,MICHIO,0,0,0,,She's happy?
-Dialogue: 100,0:07:13.54,0:07:16.41,Italics,MICHIO,0,0,0,,All right. Let's keep going a little longer.
-Dialogue: 100,0:07:19.64,0:07:21.67,Main,MICHIO,0,0,0,,You're the reason we got all of this.
-Dialogue: 100,0:07:21.88,0:07:23.84,Main,ROXANNE,0,0,0,,Not at all.
-Dialogue: 100,0:07:23.84,0:07:28.30,Main,ROXANNE,0,0,0,,We were able to defeat so many \Nbecause you're so strong, Master.
-Dialogue: 100,0:07:28.30,0:07:31.30,Main,MICHIO,0,0,0,,No, it's your power that's impressive.
-Dialogue: 100,0:07:31.55,0:07:36.74,Main,ROXANNE,0,0,0,,Because I was a newcomer to the \Nparty I used to be part of,
-Dialogue: 100,0:07:36.74,0:07:39.31,Main,ROXANNE,0,0,0,,nobody listened to my opinions.
-Dialogue: 100,0:07:39.31,0:07:42.33,Main,ROXANNE,0,0,0,,I either watched battles from a distance
-Dialogue: 100,0:07:42.33,0:07:47.07,Main,ROXANNE,0,0,0,,or was told to attack inconspicuously \Nfrom behind, but you...
-Dialogue: 100,0:07:47.07,0:07:51.00,Main,MICHIO,0,0,0,,Well... You've got a great power.
-Dialogue: 100,0:07:51.00,0:07:52.76,Main,MICHIO,0,0,0,,We'd better put it to good use.
-Dialogue: 100,0:07:52.76,0:07:56.07,Main,ROXANNE,0,0,0,,Yes, Master. I'm glad I \Ncould be useful to you.
-Dialogue: 100,0:07:56.71,0:07:58.00,Main,MICHIO,0,0,0,,Come here and have a seat.
-Dialogue: 100,0:07:59.04,0:08:00.69,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:08:04.00,0:08:07.40,Main,MICHIO,0,0,0,,From now on, when we enter the room, \Nyou don't need to wait to be told to sit.
-Dialogue: 100,0:08:07.40,0:08:10.26,Main,MICHIO,0,0,0,,Actually, sit as close to me as possible.
-Dialogue: 100,0:08:10.66,0:08:16.43,Main,MICHIO,0,0,0,,I'll try not to climb on top of you \Njust because you're sitting next to me.
-Dialogue: 100,0:08:16.68,0:08:21.52,Main,ROXANNE,0,0,0,,I-I'm fine. I wouldn't mind—
-Dialogue: 100,0:08:24.52,0:08:27.61,Italics,MICHIO,0,0,0,,I like the sound of that.
-Dialogue: 100,0:08:28.25,0:08:31.36,Main,MICHIO,0,0,0,,Can I taste your ears?
-Dialogue: 100,0:08:31.60,0:08:35.74,Main,ROXANNE,0,0,0,,What? I-I doubt they taste very good.
-Dialogue: 100,0:08:36.21,0:08:38.34,Main,MICHIO,0,0,0,,I'm just going to play with them.
-Dialogue: 100,0:08:42.09,0:08:44.48,Main,MICHIO,0,0,0,,I'll stop if it hurts or you don't like it.
-Dialogue: 100,0:08:44.48,0:08:45.75,Main,MICHIO,0,0,0,,Let me know right away.
-Dialogue: 100,0:08:46.34,0:08:50.60,Main,ROXANNE,0,0,0,,Actually, it feels good to have them stroked.
-Dialogue: 100,0:08:50.60,0:08:53.22,Italics,MICHIO,0,0,0,,Would it be all right to eat them after all?
-Dialogue: 100,0:08:53.66,0:08:57.64,Italics,MICHIO,0,0,0,,Anyway, these dog ears \Nreminds me of something.
-Dialogue: 100,0:08:57.64,0:09:01.83,Italics,MICHIO,0,0,0,,Not sponge cake, but something springier.
-Dialogue: 100,0:09:01.83,0:09:02.64,Italics,MICHIO,0,0,0,,Oh, I know.
-Dialogue: 100,0:09:03.01,0:09:05.56,Main,MICHIO,0,0,0,,Do they have grilled seaweed-wrapped \Nmochi around here?
-Dialogue: 100,0:09:05.56,0:09:08.01,Main,ROXANNE,0,0,0,,Grilled seaweed-wrapped mochi?
-Dialogue: 100,0:09:08.01,0:09:10.61,Main,MICHIO,0,0,0,,It's a food I like from my homeland.
-Dialogue: 100,0:09:10.84,0:09:13.18,Main,ROXANNE,0,0,0,,I don't know about around here,
-Dialogue: 100,0:09:13.18,0:09:14.65,Main,ROXANNE,0,0,0,,but if you head to the coast,
-Dialogue: 100,0:09:14.65,0:09:17.41,Main,ROXANNE,0,0,0,,you might find people \Ngrilling fish on the beach.
-Dialogue: 100,0:09:17.41,0:09:20.05,Italics,MICHIO,0,0,0,,Yeah, that's not quite the same thing.
-Dialogue: 100,0:09:20.05,0:09:22.91,Main,MICHIO,0,0,0,,I see. Maybe I'll try looking for some.
-Dialogue: 100,0:09:24.08,0:09:26.87,Main,ROXANNE,0,0,0,,Um, Master...
-Dialogue: 100,0:09:26.87,0:09:30.75,Main,ROXANNE,0,0,0,,Will you be returning to \Nyour homeland someday?
-Dialogue: 100,0:09:32.16,0:09:33.69,Italics,MICHIO,0,0,0,,My homeland, huh?
-Dialogue: 100,0:09:34.26,0:09:40.54,Italics,MICHIO,0,0,0,,I know. I should've been \Nthinking about it, but...
-Dialogue: 100,0:09:41.22,0:09:43.39,Main,MICHIO,0,0,0,,I'm not going back.
-Dialogue: 100,0:09:44.40,0:09:45.92,Main,MICHIO,0,0,0,,And besides, I probably can't.
-Dialogue: 100,0:09:47.05,0:09:49.37,Main,MICHIO,0,0,0,,Unfortunately for you,
-Dialogue: 100,0:09:49.37,0:09:53.52,Main,MICHIO,0,0,0,,I won't be disbanding our party \Nso I can return to my homeland.
-Dialogue: 100,0:09:53.52,0:09:57.07,Main,ROXANNE,0,0,0,,Actually, that's not why I asked.
-Dialogue: 100,0:09:57.07,0:09:58.36,Main,MICHIO,0,0,0,,I know.
-Dialogue: 100,0:09:58.80,0:10:03.55,Main,ROXANNE,0,0,0,,Typically people sell slaves \Nthey no longer need.
-Dialogue: 100,0:10:03.55,0:10:04.79,Main,MICHIO,0,0,0,,It's all right.
-Dialogue: 100,0:10:05.13,0:10:08.29,Main,MICHIO,0,0,0,,I plan on keeping you forever.
-Dialogue: 100,0:10:10.08,0:10:12.75,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
-Dialogue: 100,0:10:12.75,0:10:17.30,Main,MICHIO,0,0,0,,But naturally, I do want to \Nmaximize our party's strength.
-Dialogue: 100,0:10:17.30,0:10:19.54,Main,MICHIO,0,0,0,,I'll probably recruit more members.
-Dialogue: 100,0:10:19.54,0:10:22.05,Main,ROXANNE,0,0,0,,Yes, Master. It's only natural.
-Dialogue: 100,0:10:22.38,0:10:27.54,Italics,MICHIO,0,0,0,,Great. I'll take that to \Nmean she consents to forming a harem.
-Dialogue: 100,0:10:28.97,0:10:30.77,Main,MICHIO,0,0,0,,Two Magic Crystals, please.
-Dialogue: 100,0:10:31.10,0:10:33.18,Main,GUILD MEMBER A,0,0,0,,Are black Magic Crystals acceptable?
-Dialogue: 100,0:10:33.70,0:10:34.49,Italics,MICHIO,0,0,0,,Black?
-Dialogue: 100,0:10:34.90,0:10:38.40,Main,MICHIO,0,0,0,,I'd like empty crystals, please.
-Dialogue: 100,0:10:38.64,0:10:40.51,Main,GUILD MEMBER A,0,0,0,,Those would be black Magic Crystals.
-Dialogue: 100,0:10:41.11,0:10:43.16,Main,GUILD MEMBER A,0,0,0,,They're ten nars per crystal.
-Dialogue: 100,0:10:43.58,0:10:44.57,Main,MICHIO,0,0,0,,Roxanne,
-Dialogue: 100,0:10:45.96,0:10:48.29,Main,MICHIO,0,0,0,,thanks for waiting. Here they are.
-Dialogue: 100,0:10:48.60,0:10:52.29,Main,ROXANNE,0,0,0,,A Magic Crystal's color changes depending \Non the magic power stored inside it.
-Dialogue: 100,0:10:52.76,0:10:57.80,Main,ROXANNE,0,0,0,,They turn red after defeating ten monsters \Nand purple after defeating a hundred.
-Dialogue: 100,0:10:57.80,0:11:00.97,Italics,MICHIO,0,0,0,,So the color changes with \Neach tenfold increase.
-Dialogue: 100,0:11:00.97,0:11:02.30,Main,MICHIO,0,0,0,,Is there a maximum limit?
-Dialogue: 100,0:11:02.30,0:11:05.72,Main,ROXANNE,0,0,0,,Apparently, they turn white after \Ndefeating one million monsters,
-Dialogue: 100,0:11:05.72,0:11:07.98,Main,ROXANNE,0,0,0,,but most stop at green, \Nwhich is ten thousand.
-Dialogue: 100,0:11:07.98,0:11:10.76,Main,ROXANNE,0,0,0,,It's typical for people to sell \Nthem once they turn blue,
-Dialogue: 100,0:11:10.76,0:11:13.27,Main,ROXANNE,0,0,0,,after defeating 100 thousand monsters.
-Dialogue: 100,0:11:13.27,0:11:16.71,Main,MICHIO,0,0,0,,Got it. Then, let's head to the labyrinth.
-Dialogue: 100,0:11:20.80,0:11:21.66,Main,MICHIO,0,0,0,,All right.
-Dialogue: 100,0:11:21.88,0:11:27.64,Main,ROXANNE,0,0,0,,Impressive. The first floor monsters \Nno longer stand a chance against you.
-Dialogue: 100,0:11:27.64,0:11:30.16,Main,ROXANNE,0,0,0,,Why don't we head to a higher floor?
-Dialogue: 100,0:11:31.28,0:11:33.37,Main,MICHIO,0,0,0,,You mean it doesn't go down?
-Dialogue: 100,0:11:33.37,0:11:37.31,Main,ROXANNE,0,0,0,,It goes upwards because \Nthe labyrinth is growing.
-Dialogue: 100,0:11:37.31,0:11:37.88,Main,MICHIO,0,0,0,,What?
-Dialogue: 100,0:11:37.88,0:11:40.55,Main,MICHIO,0,0,0,,The labyrinth is growing?
-Dialogue: 100,0:11:40.87,0:11:44.53,Main,ROXANNE,0,0,0,,Labyrinths are thought \Nto be living creatures.
-Dialogue: 100,0:11:44.53,0:11:47.60,Main,ROXANNE,0,0,0,,They lure people to them, \Nuse monsters to defeat them,
-Dialogue: 100,0:11:47.60,0:11:49.56,Main,ROXANNE,0,0,0,,and feed on their bodies.
-Dialogue: 100,0:11:49.84,0:11:54.20,Main,ROXANNE,0,0,0,,There are labyrinths other than this \None because the labyrinths multiplied.
-Dialogue: 100,0:11:54.79,0:11:58.94,Main,MICHIO,0,0,0,,How do you defeat—no, kill a labyrinth?
-Dialogue: 100,0:11:59.24,0:12:03.70,Main,ROXANNE,0,0,0,,The only way is to defeat the boss on \Nevery level and reach the highest floor.
-Dialogue: 100,0:12:03.92,0:12:06.31,Italics,MICHIO,0,0,0,,Sounds like a tough battle.
-Dialogue: 100,0:12:06.31,0:12:12.13,Italics,MICHIO,0,0,0,,I should think about acquiring ways \Nto attack multiple monsters at once.
-Dialogue: 100,0:12:12.13,0:12:13.71,Italics,MICHIO,0,0,0,,Which means...
-Dialogue: 100,0:12:13.99,0:12:16.40,Main,MICHIO,0,0,0,,Are there any spells that attack all targets?
-Dialogue: 100,0:12:16.40,0:12:22.70,Main,ROXANNE,0,0,0,,Spells? I've heard such spells exist, \Nbut I don't know much about them.
-Dialogue: 100,0:12:26.12,0:12:31.77,Italics,MICHIO,0,0,0,,If I want to become a Mage, I should \Nprobably try actually casting spells.
-Dialogue: 100,0:12:32.15,0:12:36.77,Italics,MICHIO,0,0,0,,I have Bonus Incantations \NI can use without being a Mage.
-Dialogue: 100,0:12:37.15,0:12:39.84,Italics,MICHIO,0,0,0,,I may be able to acquire the Mage job
-Dialogue: 100,0:12:39.84,0:12:43.19,Italics - Top,MICHIO,0,0,0,,by casting the attack spells \Nin my Bonus Incantations.
-Dialogue: 100,0:12:43.19,0:12:45.36,Italics - Top,MICHIO,0,0,0,,I'll start with this one.
-Dialogue: 100,0:12:50.45,0:12:51.62,Italics,MICHIO,0,0,0,,In that case...
-Dialogue: 100,0:12:56.67,0:12:58.38,Main,MICHIO,0,0,0,,I'm not done yet.
-Dialogue: 100,0:13:03.66,0:13:07.59,Italics,MICHIO,0,0,0,,I must not have enough MP to cast it yet.
-Dialogue: 100,0:13:07.81,0:13:11.73,Main,ROXANNE,0,0,0,,Master, that needle wood \Nwas our tenth monster.
-Dialogue: 100,0:13:11.73,0:13:13.64,Main,ROXANNE,0,0,0,,How is your Magic Crystal looking?
-Dialogue: 100,0:13:15.68,0:13:16.85,Main,MICHIO,0,0,0,,It changed color.
-Dialogue: 100,0:13:17.31,0:13:18.98,Main,MICHIO,0,0,0,,What about yours?
-Dialogue: 100,0:13:18.98,0:13:21.20,Main,ROXANNE,0,0,0,,Mine is still black.
-Dialogue: 100,0:13:21.20,0:13:24.61,Main,ROXANNE,0,0,0,,Only the person who strikes the \Nkilling blow gains its magic power.
-Dialogue: 100,0:13:24.61,0:13:26.74,Italics,MICHIO,0,0,0,,I didn't notice earlier,
-Dialogue: 100,0:13:26.74,0:13:30.37,Italics,MICHIO,0,0,0,,but I have something called \NCrystallization Upgrade as a Bonus Skill.
-Dialogue: 100,0:13:31.43,0:13:32.24,Main,ROXANNE,0,0,0,,This way.
-Dialogue: 100,0:13:32.24,0:13:35.15,Italics,MICHIO,0,0,0,,It's probably a Magic Crystal-related buff.
-Dialogue: 100,0:13:36.79,0:13:37.96,Main,ROXANNE,0,0,0,,Right.
-Dialogue: 100,0:13:37.96,0:13:40.12,Main,MICHIO,0,0,0,,x32...
-Dialogue: 100,0:13:40.84,0:13:41.71,Main,ROXANNE,0,0,0,,Left.
-Dialogue: 100,0:13:41.71,0:13:42.88,Main,MICHIO,0,0,0,,Should be enough.
-Dialogue: 100,0:13:45.97,0:13:47.76,Main,MICHIO,0,0,0,,Roxanne, take a look.
-Dialogue: 100,0:13:48.28,0:13:50.90,Main,ROXANNE,0,0,0,,Purple? But how?
-Dialogue: 100,0:13:50.90,0:13:52.18,Main,MICHIO,0,0,0,,Don't tell anyone.
-Dialogue: 100,0:13:52.68,0:13:55.23,Main,ROXANNE,0,0,0,,Master, that's incredible.
-Dialogue: 100,0:13:55.49,0:13:58.26,Main,MICHIO,0,0,0,,Do you know how much Magic Crystals sell for?
-Dialogue: 100,0:13:58.26,0:14:02.17,Main,ROXANNE,0,0,0,,Greens go for ten thousand nars, \Nand yellows go for 100 thousand nars.
-Dialogue: 100,0:14:03.13,0:14:06.20,Italics,MICHIO,0,0,0,,It's not as though I need \Nthe money right now,
-Dialogue: 100,0:14:06.20,0:14:08.66,Italics,MICHIO,0,0,0,,so I guess I'll deactivate \NCrystallization Upgrade.
-Dialogue: 100,0:14:10.55,0:14:12.58,Italics,MICHIO,0,0,0,,Unlock Party Settings?
-Dialogue: 100,0:14:12.98,0:14:15.32,Italics,MICHIO,0,0,0,,It didn't matter when I was alone,
-Dialogue: 100,0:14:15.32,0:14:17.29,Italics,MICHIO,0,0,0,,but now I'm grouping with Roxanne.
-Dialogue: 100,0:14:17.53,0:14:18.87,Italics,MICHIO,0,0,0,,I should test it out.
-Dialogue: 100,0:14:20.23,0:14:21.71,Italics - Top,MICHIO,0,0,0,,Party Job Settings.
-Dialogue: 100,0:14:24.21,0:14:27.02,Italics,MICHIO,0,0,0,,So these are Roxanne's jobs.
-Dialogue: 100,0:14:27.48,0:14:29.80,Italics,MICHIO,0,0,0,,Beast Warrior seems to have good effects,
-Dialogue: 100,0:14:29.80,0:14:31.22,Italics,MICHIO,0,0,0,,so I'll keep her the way she is.
-Dialogue: 100,0:14:31.48,0:14:34.45,Main,MICHIO,0,0,0,,That just leaves healing.
-Dialogue: 100,0:14:34.87,0:14:37.14,Main,MICHIO,0,0,0,,Do you have any healing skills or spells?
-Dialogue: 100,0:14:37.39,0:14:40.84,Main,ROXANNE,0,0,0,,The Monk and Priest jobs can use those.
-Dialogue: 100,0:14:40.84,0:14:44.15,Main,ROXANNE,0,0,0,,To become one, you must defeat \Nmonsters with your bare hands.
-Dialogue: 100,0:14:44.15,0:14:45.40,Main,MICHIO,0,0,0,,Your bare hands?
-Dialogue: 100,0:14:45.96,0:14:49.65,Italics,MICHIO,0,0,0,,But it seems worth trying out.
-Dialogue: 100,0:14:49.92,0:14:54.98,Main,MICHIO,0,0,0,,Roxanne, could you put away your \Nsword and fight bare-handed?
-Dialogue: 100,0:14:54.98,0:14:55.82,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:14:58.37,0:15:01.79,Italics,MICHIO,0,0,0,,That said, it'll probably be \Ndifficult even for the both of us
-Dialogue: 100,0:15:01.79,0:15:03.84,Italics,MICHIO,0,0,0,,to defeat monsters bare-handed \Nfrom the get-go.
-Dialogue: 100,0:15:13.30,0:15:13.97,Main,MICHIO,0,0,0,,How was that?
-Dialogue: 100,0:15:15.28,0:15:17.85,Italics,MICHIO,0,0,0,,Simply fighting bare-handed \Nisn't good enough.
-Dialogue: 100,0:15:18.16,0:15:21.40,Italics,MICHIO,0,0,0,,But I don't know how long it'll take \Nif we fight bare-handed from the start.
-Dialogue: 100,0:15:22.09,0:15:23.73,Italics,MICHIO,0,0,0,,I'll start with the killing blow only.
-Dialogue: 100,0:15:24.17,0:15:27.41,Italics,MICHIO,0,0,0,,Durandal one-shots monsters, so...
-Dialogue: 100,0:15:29.22,0:15:31.72,Main,ROXANNE,0,0,0,,You have all kinds of weapons.
-Dialogue: 100,0:15:31.72,0:15:33.99,Main,MICHIO,0,0,0,,I'll try this sword next.
-Dialogue: 100,0:15:34.27,0:15:36.61,Italics,MICHIO,0,0,0,,I don't mind going at a turtle's pace.
-Dialogue: 100,0:15:36.61,0:15:40.83,Italics,MICHIO,0,0,0,,Slow and steady does it.
-Dialogue: 100,0:15:43.38,0:15:47.09,Main,MICHIO,0,0,0,,Lowering my weapon's strength by \None level makes it ineffective?
-Dialogue: 100,0:15:49.51,0:15:50.88,Main,MICHIO,0,0,0,,Watch out, Rox—
-Dialogue: 100,0:15:54.64,0:15:55.60,Main,MICHIO,0,0,0,,Huh?
-Dialogue: 100,0:15:58.22,0:16:01.24,Italics,MICHIO,0,0,0,,She's dodging all the monster's attacks.
-Dialogue: 100,0:16:01.24,0:16:03.60,Italics,MICHIO,0,0,0,,At first glance, it seems like \Nshe's barely dodging them,
-Dialogue: 100,0:16:03.60,0:16:05.16,Italics,MICHIO,0,0,0,,but it's actually the other way around.
-Dialogue: 100,0:16:05.16,0:16:07.46,Italics,MICHIO,0,0,0,,Large movements are inefficient.
-Dialogue: 100,0:16:07.46,0:16:10.56,Italics,MICHIO,0,0,0,,Look, dodge, and attack.
-Dialogue: 100,0:16:14.74,0:16:17.40,Italics,MICHIO,0,0,0,,It's like a magnificent dance.
-Dialogue: 100,0:16:18.49,0:16:19.79,Italics,MICHIO,0,0,0,,Don't get distracted.
-Dialogue: 100,0:16:19.79,0:16:22.30,Italics,MICHIO,0,0,0,,Now I just have to finish \Nit off with punches.
-Dialogue: 100,0:16:37.89,0:16:39.71,Main,MICHIO,0,0,0,,Huh? It's not there?
-Dialogue: 100,0:16:43.10,0:16:45.50,Main,MICHIO,0,0,0,,Roxanne, did you kill it?
-Dialogue: 100,0:16:45.50,0:16:49.82,Main,ROXANNE,0,0,0,,Yes, Master. It was defeated when \NI struck it after you punched it.
-Dialogue: 100,0:16:49.82,0:16:53.44,Main,MICHIO,0,0,0,,Impressive work. \NYou dodged all its attacks, too.
-Dialogue: 100,0:16:53.44,0:16:55.45,Main,ROXANNE,0,0,0,,Because we had it surrounded.
-Dialogue: 100,0:16:55.72,0:16:59.67,Main,ROXANNE,0,0,0,,And those attacks can be dodged \Neasily if you're watching closely.
-Dialogue: 100,0:16:59.67,0:17:00.70,Italics,MICHIO,0,0,0,,Yeah, I don't think so.
-Dialogue: 100,0:17:01.12,0:17:03.36,Main,MICHIO,0,0,0,,I'll finish off the next one.
-Dialogue: 100,0:17:03.36,0:17:06.51,Main,MICHIO,0,0,0,,Roxanne, just help me \Nflank it and don't attack.
-Dialogue: 100,0:17:06.51,0:17:07.71,Main,ROXANNE,0,0,0,,Understood.
-Dialogue: 100,0:17:09.21,0:17:10.39,Main,ROXANNE,0,0,0,,This way.
-Dialogue: 100,0:17:12.17,0:17:15.79,Italics,MICHIO,0,0,0,,If I want to get its health as low as \Npossible with a single sword attack,
-Dialogue: 100,0:17:15.79,0:17:17.59,Italics,MICHIO,0,0,0,,then I need to adjust my Strength stat.
-Dialogue: 100,0:17:19.93,0:17:21.44,Italics,MICHIO,0,0,0,,Forty-five.
-Dialogue: 100,0:17:23.98,0:17:25.31,Italics,MICHIO,0,0,0,,That was too much.
-Dialogue: 100,0:17:26.23,0:17:27.60,Italics,MICHIO,0,0,0,,How about 20?
-Dialogue: 100,0:17:29.31,0:17:30.77,Italics,MICHIO,0,0,0,,Thirteen, maybe?
-Dialogue: 100,0:17:34.28,0:17:36.91,Italics,MICHIO,0,0,0,,Okay, it wasn't defeated.
-Dialogue: 100,0:17:36.91,0:17:37.49,Main,MICHIO,0,0,0,,Roxanne.
-Dialogue: 100,0:17:37.49,0:17:38.91,Main,ROXANNE,0,0,0,,I know.
-Dialogue: 100,0:17:38.91,0:17:40.66,Italics,MICHIO,0,0,0,,Character Settings.
-Dialogue: 100,0:17:41.24,0:17:45.54,Italics,MICHIO,0,0,0,,I'll unequip my Bonus Weapons and put all \Nmy points in increasing my Strength stat.
-Dialogue: 100,0:17:45.54,0:17:49.83,Italics,MICHIO,0,0,0,,Now I'll pour everything I've \Ngot into this single blow.
-Dialogue: 100,0:17:50.79,0:17:52.32,Italics,MICHIO,0,0,0,,It noticed me?
-Dialogue: 100,0:17:52.32,0:17:54.55,Italics,MICHIO,0,0,0,,Either way, I'm too close \Nto evade its attack.
-Dialogue: 100,0:17:54.55,0:17:57.22,Italics,MICHIO,0,0,0,,So I'll keep pushing forward.
-Dialogue: 100,0:18:06.29,0:18:08.31,Main,ROXANNE,0,0,0,,I-I'm impressed.
-Dialogue: 100,0:18:09.56,0:18:10.94,Main,ROXANNE,0,0,0,,You killed it in a single blow.
-Dialogue: 100,0:18:12.78,0:18:14.32,Italics,MICHIO,0,0,0,,That took forever.
-Dialogue: 100,0:18:15.28,0:18:16.22,Italics,MICHIO,0,0,0,,Treat Wounds.
-Dialogue: 100,0:18:19.35,0:18:21.25,Main,MICHIO,0,0,0,,The pain went away.
-Dialogue: 100,0:18:21.69,0:18:27.08,Main,MICHIO,0,0,0,,From now on, I'll use my skill to \Nheal us if we're damaged by monsters.
-Dialogue: 100,0:18:27.08,0:18:29.32,Main,ROXANNE,0,0,0,,You can do that?
-Dialogue: 100,0:18:29.33,0:18:32.76,Main,MICHIO,0,0,0,,I just set your job to Monk, too.
-Dialogue: 100,0:18:32.76,0:18:33.34,Main,ROXANNE,0,0,0,,What?
-Dialogue: 100,0:18:33.34,0:18:34.09,Main,MICHIO,0,0,0,,What?
-Dialogue: 100,0:18:34.29,0:18:34.96,Main,BOTH,0,0,0,,What?
-Dialogue: 100,0:18:35.59,0:18:38.17,Main,ROXANNE,0,0,0,,My job is Beast Warrior.
-Dialogue: 100,0:18:38.17,0:18:40.59,Main,ROXANNE,0,0,0,,I've never been a Monk.
-Dialogue: 100,0:18:40.59,0:18:43.78,Main,MICHIO,0,0,0,,It's uh, you know...
-Dialogue: 100,0:18:44.19,0:18:45.35,Main,MICHIO,0,0,0,,Don't tell anyone.
-Dialogue: 100,0:18:47.28,0:18:48.85,Main,ROXANNE,0,0,0,,Amazing.
-Dialogue: 100,0:18:51.10,0:18:52.37,Main,ROXANNE,0,0,0,,Excuse me.
-Dialogue: 100,0:18:53.23,0:18:55.43,Main,MICHIO,0,0,0,,Good work today.
-Dialogue: 100,0:18:55.43,0:18:58.43,Main,ROXANNE,0,0,0,,Yes, Master. You, too.
-Dialogue: 100,0:18:58.43,0:19:00.64,Main,MICHIO,0,0,0,,How did you feel about today's combats?
-Dialogue: 100,0:19:00.64,0:19:03.74,Main,MICHIO,0,0,0,,Did you notice anything strange \Nfrom your perspective?
-Dialogue: 100,0:19:03.96,0:19:07.00,Main,ROXANNE,0,0,0,,The way you fought was impressive.
-Dialogue: 100,0:19:07.48,0:19:10.25,Main,ROXANNE,0,0,0,,I'm sorry I wasn't very useful.
-Dialogue: 100,0:19:10.56,0:19:13.58,Main,MICHIO,0,0,0,,You were plenty useful at finding monsters.
-Dialogue: 100,0:19:13.58,0:19:16.50,Main,MICHIO,0,0,0,,And besides, your movements in \Ncombat seemed reliable, too.
-Dialogue: 100,0:19:18.92,0:19:20.70,Main,MICHIO,0,0,0,,I look forward to fighting alongside you.
-Dialogue: 100,0:19:20.70,0:19:22.81,Main,ROXANNE,0,0,0,,Yes, Master. You can count on me.
-Dialogue: 100,0:19:33.89,0:19:37.44,Main,MICHIO,0,0,0,,Your fingers are so elegant and soft.
-Dialogue: 100,0:19:37.75,0:19:39.98,Main,ROXANNE,0,0,0,,Yours are large, Master.
-Dialogue: 100,0:19:40.40,0:19:43.52,Main,ROXANNE,0,0,0,,I thought we were around the same age.
-Dialogue: 100,0:19:44.16,0:19:47.09,Main,ROXANNE,0,0,0,,Is it because you're a man?
-Dialogue: 100,0:19:47.09,0:19:48.70,Main,ROXANNE,0,0,0,,They're so sturdy.
-Dialogue: 100,0:19:48.93,0:19:53.45,Main,MICHIO,0,0,0,,I'm sure it's the same for most men \Nwhether they're humans or wolfkin.
-Dialogue: 100,0:19:55.67,0:19:56.89,Main,ROXANNE,0,0,0,,U-Um...
-Dialogue: 100,0:19:56.89,0:19:58.38,Main,MICHIO,0,0,0,,Don't worry about it.
-Dialogue: 100,0:20:02.04,0:20:03.55,Main,ROXANNE,0,0,0,,But...
-Dialogue: 100,0:20:05.68,0:20:07.46,Main,MICHIO,0,0,0,,Trust your Master.
-Dialogue: 100,0:20:12.17,0:20:15.40,Main,ROXANNE,0,0,0,,I can't allow you to do this for me.
-Dialogue: 100,0:20:15.40,0:20:17.04,Main,MICHIO,0,0,0,,It's okay.
-Dialogue: 100,0:20:19.44,0:20:21.42,Italics,MICHIO,0,0,0,,Every time I scrub Roxanne,
-Dialogue: 100,0:20:21.42,0:20:25.45,Italics,MICHIO,0,0,0,,the vibrations reach the tips, \Nmaking them jiggle.
-Dialogue: 100,0:20:25.76,0:20:28.85,Italics,MICHIO,0,0,0,,I must calm these unruly peaks.
-Dialogue: 100,0:20:29.64,0:20:33.46,Main,ROXANNE,0,0,0,,I haven't washed that yet.
-Dialogue: 100,0:20:33.46,0:20:36.24,Main,ROXANNE,0,0,0,,It's sweaty and dirty.
-Dialogue: 100,0:20:36.24,0:20:37.52,Main,MICHIO,0,0,0,,Don't worry about it.
-Dialogue: 100,0:20:38.35,0:20:39.40,Main,MICHIO,0,0,0,,Raise your arm.
-Dialogue: 100,0:20:42.22,0:20:44.68,Main,ROXANNE,0,0,0,,But I'm a slave.
-Dialogue: 100,0:20:44.68,0:20:47.33,Main,ROXANNE,0,0,0,,I can't allow you to wash me.
-Dialogue: 100,0:20:49.28,0:20:51.39,Main,MICHIO,0,0,0,,I'm doing this because I want to.
-Dialogue: 100,0:20:51.39,0:20:55.24,Main,MICHIO,0,0,0,,And besides, we'll sweat \Neven more after this.
-Dialogue: 100,0:20:55.24,0:20:58.51,Main,ROXANNE,0,0,0,,You're not wrong.
-Dialogue: 100,0:20:59.76,0:21:01.78,Main,ROXANNE,0,0,0,,But that's not what I meant.
-Dialogue: 100,0:21:02.87,0:21:07.39,Main,ROXANNE,0,0,0,,At least, allow me to wash your body first.
-Dialogue: 100,0:21:07.39,0:21:11.38,Main,MICHIO,0,0,0,,Then, maybe I'll have you \Ndo that once I finish here.
-Dialogue: 100,0:21:12.01,0:21:13.76,Main,ROXANNE,0,0,0,,I can clean that myself.
-Dialogue: 100,0:21:17.00,0:21:20.13,Main,MICHIO,0,0,0,,Could you wash my body, too?
-Dialogue: 100,0:21:20.13,0:21:21.38,Main,ROXANNE,0,0,0,,Yes, Master.
-Dialogue: 100,0:21:24.42,0:21:29.38,Italics,MICHIO,0,0,0,,I could never imagine this happening \Nin the world I came from.
-Dialogue: 100,0:21:30.14,0:21:37.15,Italics,MICHIO,0,0,0,,But that's why I feel so alive.
-Dialogue: 100,0:21:43.40,0:21:46.84,Main,MICHIO,0,0,0,,There aren't any monsters, but there's \Nsomething about this room that feels off.
-Dialogue: 100,0:21:46.84,0:21:48.18,Main,ROXANNE,0,0,0,,It's a waiting room.
-Dialogue: 100,0:21:48.18,0:21:48.91,Main,MICHIO,0,0,0,,A waiting room?
-Dialogue: 100,0:21:49.29,0:21:52.74,Main,ROXANNE,0,0,0,,The first floor boss is beyond this door.
-Dialogue: 100,0:21:54.34,0:21:56.26,Main,MICHIO,0,0,0,,Let's go, Roxanne.
-Dialogue: 100,0:21:56.26,0:21:56.99,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:00:02.15,0:00:03.61,Main,MICHIO,0,0,0,,Hey, Roxanne.
+Dialogue: 99,0:00:03.61,0:00:05.90,Main,MICHIO,0,0,0,,I want to add skills to my equipment.
+Dialogue: 99,0:00:05.90,0:00:07.15,Main,MICHIO,0,0,0,,How do I do that?
+Dialogue: 99,0:00:07.64,0:00:12.40,Main,ROXANNE,0,0,0,,Normally you purchase gear that \Ncomes with skills equipped.
+Dialogue: 99,0:00:12.40,0:00:14.32,Main,MICHIO,0,0,0,,I'm not talking about buying equipment.
+Dialogue: 99,0:00:14.32,0:00:15.66,Main,MICHIO,0,0,0,,How do I add them myself?
+Dialogue: 99,0:00:15.66,0:00:18.59,Main,ROXANNE,0,0,0,,Are you talking about Skill Crystals?
+Dialogue: 99,0:00:18.59,0:00:19.91,Main,MICHIO,0,0,0,,Skill Crystals?
+Dialogue: 99,0:00:20.26,0:00:25.25,Main,ROXANNE,0,0,0,,They're formed through the \Naccumulation of monster skills.
+Dialogue: 99,0:00:25.25,0:00:28.89,Main,ROXANNE,0,0,0,,They're found rarely in labyrinths, \Nand when fused with equipment...
+Dialogue: 99,0:00:29.42,0:00:31.42,Main,MICHIO,0,0,0,,It applies that skill?
+Dialogue: 99,0:00:31.80,0:00:35.68,Main,ROXANNE,0,0,0,,It all depends on the skill of \Nthe blacksmith fusing the items.
+Dialogue: 99,0:00:35.68,0:00:39.69,Italics,MICHIO,0,0,0,,A blacksmith, huh? I'll need that job.
+Dialogue: 99,0:00:39.69,0:00:40.93,Main,MICHIO,0,0,0,,How can I become one?
+Dialogue: 99,0:00:41.17,0:00:45.69,Main,ROXANNE,0,0,0,,I'm sorry, but Blacksmith \Nis a job unique to dwarves.
+Dialogue: 99,0:00:45.69,0:00:46.88,Main,ROXANNE,0,0,0,,You aren't eligible.
+Dialogue: 99,0:00:46.88,0:00:48.44,Italics,MICHIO,0,0,0,,I can't become one?!
+Dialogue: 99,0:00:48.72,0:00:53.44,Main,MICHIO,0,0,0,,So I'll have to hire a blacksmith if I \Nwant to make any equipment with skills.
+Dialogue: 99,0:00:53.76,0:00:56.12,Main,ROXANNE,0,0,0,,I wouldn't recommend it.
+Dialogue: 99,0:00:56.12,0:01:01.16,Main,ROXANNE,0,0,0,,It fails most of the time, \Nand blacksmiths dislike direct transactions.
+Dialogue: 99,0:01:01.39,0:01:04.58,Main,ROXANNE,0,0,0,,Even if you found one, \Nthere's no telling if you can trust them.
+Dialogue: 99,0:01:04.83,0:01:09.99,Main,ROXANNE,0,0,0,,Some dwarves have made a fortune by \Npretending the fusion process failed.
+Dialogue: 99,0:01:09.99,0:01:11.09,Main,MICHIO,0,0,0,,I see.
+Dialogue: 99,0:01:11.73,0:01:17.52,Main,MICHIO,0,0,0,,They tell their client they failed and make a \Nprofit selling the equipment with skills later.
+Dialogue: 99,0:01:17.52,0:01:20.60,Main,MICHIO,0,0,0,,Sounds like fusing Skill Crystals \Nis a source of a lot of problems.
+Dialogue: 99,0:01:20.60,0:01:24.93,Main,ROXANNE,0,0,0,,Yes, Master. Though it's a different story \Nif you're on friendly terms with a blacksmith.
+Dialogue: 99,0:01:25.30,0:01:27.35,Main,MICHIO,0,0,0,,Then we'll recruit a blacksmith to our party.
+Dialogue: 99,0:01:27.35,0:01:27.89,Main,ROXANNE,0,0,0,,What?
+Dialogue: 99,0:01:27.89,0:01:30.81,Main,MICHIO,0,0,0,,Nothing. Mind if I open the window?
+Dialogue: 99,0:01:30.81,0:01:31.94,Main,ROXANNE,0,0,0,,That's fine.
+Dialogue: 99,0:01:35.91,0:01:37.21,Main,ROXANNE,0,0,0,,Thank you for waiting.
+Dialogue: 99,0:01:39.35,0:01:42.20,Italics,MICHIO,0,0,0,,Roxanne really is beautiful.
+Dialogue: 99,0:01:43.46,0:01:45.62,Main,MICHIO,0,0,0,,Roxanne, take this leather armor.
+Dialogue: 99,0:01:46.77,0:01:49.38,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
+Dialogue: 99,0:01:51.66,0:01:54.55,Main,MICHIO,0,0,0,,Roxanne, were you able to get it on okay?
+Dialogue: 99,0:01:58.20,0:01:59.30,Main,ROXANNE,0,0,0,,Um...
+Dialogue: 99,0:01:59.30,0:02:03.56,Italics,MICHIO,0,0,0,,I know equipment stretches and \Nshrinks to fit the wearer,
+Dialogue: 99,0:02:03.97,0:02:06.89,Italics,MICHIO,0,0,0,,but this is too much.
+Dialogue: 99,0:02:10.15,0:02:11.83,Main,ROXANNE,0,0,0,,Thank you.
+Dialogue: 99,0:02:11.83,0:02:14.65,Main,MICHIO,0,0,0,,I guess leather armor isn't for women.
+Dialogue: 99,0:02:14.88,0:02:18.95,Italics,MICHIO,0,0,0,,It looks like the jacket \Ndoesn't emphasize her figure.
+Dialogue: 99,0:02:19.63,0:02:22.53,Italics,MICHIO,0,0,0,,Party Organization, Roxanne.
+Dialogue: 99,0:02:23.24,0:02:24.99,Main,MICHIO,0,0,0,,Shall we get going?
+Dialogue: 99,0:02:24.99,0:02:27.12,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:04:05.22,0:04:10.08,Main,ROXANNE,0,0,0,,Master, aren't we going to the labyrinth?
+Dialogue: 99,0:04:10.71,0:04:11.55,Italics,MICHIO,0,0,0,,Teleport.
+Dialogue: 99,0:04:14.94,0:04:16.73,Main,ROXANNE,0,0,0,,Huh? Um...
+Dialogue: 99,0:04:24.02,0:04:25.56,Main,ROXANNE,0,0,0,,Huh? What?
+Dialogue: 99,0:04:25.56,0:04:27.48,Main,MICHIO,0,0,0,,Are you okay, Roxanne?
+Dialogue: 99,0:04:27.48,0:04:29.99,Main,ROXANNE,0,0,0,,Master, where are we?
+Dialogue: 99,0:04:29.99,0:04:32.36,Main,MICHIO,0,0,0,,On the first floor of the labyrinth.
+Dialogue: 99,0:04:32.36,0:04:36.48,Main,ROXANNE,0,0,0,,But I thought Dungeon Walk could \Nonly be used inside labyrinths.
+Dialogue: 99,0:04:36.48,0:04:38.59,Main,MICHIO,0,0,0,,I used Teleportation magic.
+Dialogue: 99,0:04:39.84,0:04:41.59,Main,ROXANNE,0,0,0,,I've never heard of that.
+Dialogue: 99,0:04:41.80,0:04:46.59,Main,MICHIO,0,0,0,,It's possible not many others can \Nuse it, so don't tell anyone.
+Dialogue: 99,0:04:47.40,0:04:49.85,Main,ROXANNE,0,0,0,,Master, you're amazing.
+Dialogue: 99,0:04:53.65,0:04:56.10,Main,MICHIO,0,0,0,,Which way should we go?
+Dialogue: 99,0:04:57.96,0:05:02.16,Main,ROXANNE,0,0,0,,Master, if you're looking for monsters, \Nthere are some nearby to the right.
+Dialogue: 99,0:05:02.16,0:05:03.36,Main,ROXANNE,0,0,0,,I can smell them.
+Dialogue: 99,0:05:03.36,0:05:04.78,Main,MICHIO,0,0,0,,What? You can?
+Dialogue: 99,0:05:06.18,0:05:08.27,Main,MICHIO,0,0,0,,I don't smell anything unusual.
+Dialogue: 99,0:05:08.76,0:05:11.10,Main,MICHIO,0,0,0,,Is it because you're a wolfkin?
+Dialogue: 99,0:05:11.10,0:05:14.79,Main,ROXANNE,0,0,0,,My nose is exceptionally good, even for a wolfkin.
+Dialogue: 99,0:05:15.10,0:05:17.38,Main,ROXANNE,0,0,0,,I'm good at detecting prey.
+Dialogue: 99,0:05:17.38,0:05:18.85,Main,MICHIO,0,0,0,,That's amazing.
+Dialogue: 99,0:05:18.85,0:05:21.38,Main,MICHIO,0,0,0,,Then could you take us towards the monsters?
+Dialogue: 99,0:05:21.38,0:05:22.56,Main,ROXANNE,0,0,0,,Very well.
+Dialogue: 99,0:05:22.56,0:05:25.68,Main,ROXANNE,0,0,0,,In that case, could you \Nlend me a Magic Crystal?
+Dialogue: 99,0:05:25.68,0:05:27.51,Main,MICHIO,0,0,0,,Magic Crystal? What's that?
+Dialogue: 99,0:05:27.76,0:05:31.20,Main,ROXANNE,0,0,0,,Monsters are made of magic power.
+Dialogue: 99,0:05:31.20,0:05:34.36,Main,ROXANNE,0,0,0,,When monsters are defeated, \Ntheir magic power gradually accumulates,
+Dialogue: 99,0:05:34.36,0:05:36.27,Main,ROXANNE,0,0,0,,eventually forming a Magic Crystal.
+Dialogue: 99,0:05:37.40,0:05:42.25,Main,ROXANNE,0,0,0,,Magic Crystals filled with magic power are \Nused by guild temples as energy sources.
+Dialogue: 99,0:05:42.25,0:05:44.36,Main,MICHIO,0,0,0,,Why do you want me to lend you one?
+Dialogue: 99,0:05:44.36,0:05:48.93,Main,ROXANNE,0,0,0,,Because you can't store magic power when you \Ndefeat monsters unless you have a Magic Crystal.
+Dialogue: 99,0:05:49.49,0:05:52.70,Italics,MICHIO,0,0,0,,Have I been screwing myself?
+Dialogue: 99,0:05:52.94,0:05:55.15,Main,MICHIO,0,0,0,,Do Magic Crystals sell for a lot?
+Dialogue: 99,0:05:55.15,0:05:59.59,Main,ROXANNE,0,0,0,,They're probably the most valuable item \Nthat can be acquired in labyrinths.
+Dialogue: 99,0:06:00.71,0:06:02.71,Main,ROXANNE,0,0,0,,Well, they're valuable,
+Dialogue: 99,0:06:02.71,0:06:05.63,Main,ROXANNE,0,0,0,,but you only accumulate a \Ntiny amount of magic power at a time.
+Dialogue: 99,0:06:06.05,0:06:09.75,Main,ROXANNE,0,0,0,,A person sells Magic Crystals only a handful \Nof times over the course of their life.
+Dialogue: 99,0:06:09.75,0:06:13.97,Main,ROXANNE,0,0,0,,Even if you haven't had one \Nuntil now, you didn't lose much.
+Dialogue: 99,0:06:13.97,0:06:15.77,Main,ROXANNE,0,0,0,,So it's all right.
+Dialogue: 99,0:06:16.41,0:06:17.86,Main,MICHIO,0,0,0,,Roxanne...
+Dialogue: 99,0:06:18.50,0:06:20.69,Italics,MICHIO,0,0,0,,I made her concerned about me.
+Dialogue: 99,0:06:20.95,0:06:23.44,Main,MICHIO,0,0,0,,How can we acquire a Magic Crystal?
+Dialogue: 99,0:06:23.44,0:06:29.03,Main,ROXANNE,0,0,0,,You can find them in labyrinths or \Npurchase empty ones from guilds.
+Dialogue: 99,0:06:29.03,0:06:31.53,Main,MICHIO,0,0,0,,Then, let's go buy some later.
+Dialogue: 99,0:06:35.60,0:06:37.70,Italics,MICHIO,0,0,0,,Hey, there really was a monster.
+Dialogue: 99,0:06:39.12,0:06:40.16,Main,ROXANNE,0,0,0,,Here I go.
+Dialogue: 99,0:06:40.60,0:06:41.54,Main,MICHIO,0,0,0,,I got it.
+Dialogue: 99,0:06:49.30,0:06:51.18,Main,ROXANNE,0,0,0,,A single blow?
+Dialogue: 99,0:06:51.44,0:06:54.57,Main,ROXANNE,0,0,0,,Impressive, Master.
+Dialogue: 99,0:06:54.57,0:06:56.39,Main,MICHIO,0,0,0,,It's this sword that's impressive.
+Dialogue: 99,0:06:57.12,0:06:58.35,Main,MICHIO,0,0,0,,Don't tell anyone.
+Dialogue: 99,0:07:02.44,0:07:03.90,Main,MICHIO,0,0,0,,Which way next?
+Dialogue: 99,0:07:05.37,0:07:06.94,Main,ROXANNE,0,0,0,,Straight ahead.
+Dialogue: 99,0:07:09.84,0:07:11.34,Italics,MICHIO,0,0,0,,She's happy?
+Dialogue: 99,0:07:13.54,0:07:16.41,Italics,MICHIO,0,0,0,,All right. Let's keep going a little longer.
+Dialogue: 99,0:07:19.64,0:07:21.67,Main,MICHIO,0,0,0,,You're the reason we got all of this.
+Dialogue: 99,0:07:21.88,0:07:23.84,Main,ROXANNE,0,0,0,,Not at all.
+Dialogue: 99,0:07:23.84,0:07:28.30,Main,ROXANNE,0,0,0,,We were able to defeat so many \Nbecause you're so strong, Master.
+Dialogue: 99,0:07:28.30,0:07:31.30,Main,MICHIO,0,0,0,,No, it's your power that's impressive.
+Dialogue: 99,0:07:31.55,0:07:36.74,Main,ROXANNE,0,0,0,,Because I was a newcomer to the \Nparty I used to be part of,
+Dialogue: 99,0:07:36.74,0:07:39.31,Main,ROXANNE,0,0,0,,nobody listened to my opinions.
+Dialogue: 99,0:07:39.31,0:07:42.33,Main,ROXANNE,0,0,0,,I either watched battles from a distance
+Dialogue: 99,0:07:42.33,0:07:47.07,Main,ROXANNE,0,0,0,,or was told to attack inconspicuously \Nfrom behind, but you...
+Dialogue: 99,0:07:47.07,0:07:51.00,Main,MICHIO,0,0,0,,Well... You've got a great power.
+Dialogue: 99,0:07:51.00,0:07:52.76,Main,MICHIO,0,0,0,,We'd better put it to good use.
+Dialogue: 99,0:07:52.76,0:07:56.07,Main,ROXANNE,0,0,0,,Yes, Master. I'm glad I \Ncould be useful to you.
+Dialogue: 99,0:07:56.71,0:07:58.00,Main,MICHIO,0,0,0,,Come here and have a seat.
+Dialogue: 99,0:07:59.04,0:08:00.69,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:08:04.00,0:08:07.40,Main,MICHIO,0,0,0,,From now on, when we enter the room, \Nyou don't need to wait to be told to sit.
+Dialogue: 99,0:08:07.40,0:08:10.26,Main,MICHIO,0,0,0,,Actually, sit as close to me as possible.
+Dialogue: 99,0:08:10.66,0:08:16.43,Main,MICHIO,0,0,0,,I'll try not to climb on top of you \Njust because you're sitting next to me.
+Dialogue: 99,0:08:16.68,0:08:21.52,Main,ROXANNE,0,0,0,,I-I'm fine. I wouldn't mind—
+Dialogue: 99,0:08:24.52,0:08:27.61,Italics,MICHIO,0,0,0,,I like the sound of that.
+Dialogue: 99,0:08:28.25,0:08:31.36,Main,MICHIO,0,0,0,,Can I taste your ears?
+Dialogue: 99,0:08:31.60,0:08:35.74,Main,ROXANNE,0,0,0,,What? I-I doubt they taste very good.
+Dialogue: 99,0:08:36.21,0:08:38.34,Main,MICHIO,0,0,0,,I'm just going to play with them.
+Dialogue: 99,0:08:42.09,0:08:44.48,Main,MICHIO,0,0,0,,I'll stop if it hurts or you don't like it.
+Dialogue: 99,0:08:44.48,0:08:45.75,Main,MICHIO,0,0,0,,Let me know right away.
+Dialogue: 99,0:08:46.34,0:08:50.60,Main,ROXANNE,0,0,0,,Actually, it feels good to have them stroked.
+Dialogue: 99,0:08:50.60,0:08:53.22,Italics,MICHIO,0,0,0,,Would it be all right to eat them after all?
+Dialogue: 99,0:08:53.66,0:08:57.64,Italics,MICHIO,0,0,0,,Anyway, these dog ears \Nreminds me of something.
+Dialogue: 99,0:08:57.64,0:09:01.83,Italics,MICHIO,0,0,0,,Not sponge cake, but something springier.
+Dialogue: 99,0:09:01.83,0:09:02.64,Italics,MICHIO,0,0,0,,Oh, I know.
+Dialogue: 99,0:09:03.01,0:09:05.56,Main,MICHIO,0,0,0,,Do they have grilled seaweed-wrapped \Nmochi around here?
+Dialogue: 99,0:09:05.56,0:09:08.01,Main,ROXANNE,0,0,0,,Grilled seaweed-wrapped mochi?
+Dialogue: 99,0:09:08.01,0:09:10.61,Main,MICHIO,0,0,0,,It's a food I like from my homeland.
+Dialogue: 99,0:09:10.84,0:09:13.18,Main,ROXANNE,0,0,0,,I don't know about around here,
+Dialogue: 99,0:09:13.18,0:09:14.65,Main,ROXANNE,0,0,0,,but if you head to the coast,
+Dialogue: 99,0:09:14.65,0:09:17.41,Main,ROXANNE,0,0,0,,you might find people \Ngrilling fish on the beach.
+Dialogue: 99,0:09:17.41,0:09:20.05,Italics,MICHIO,0,0,0,,Yeah, that's not quite the same thing.
+Dialogue: 99,0:09:20.05,0:09:22.91,Main,MICHIO,0,0,0,,I see. Maybe I'll try looking for some.
+Dialogue: 99,0:09:24.08,0:09:26.87,Main,ROXANNE,0,0,0,,Um, Master...
+Dialogue: 99,0:09:26.87,0:09:30.75,Main,ROXANNE,0,0,0,,Will you be returning to \Nyour homeland someday?
+Dialogue: 99,0:09:32.16,0:09:33.69,Italics,MICHIO,0,0,0,,My homeland, huh?
+Dialogue: 99,0:09:34.26,0:09:40.54,Italics,MICHIO,0,0,0,,I know. I should've been \Nthinking about it, but...
+Dialogue: 99,0:09:41.22,0:09:43.39,Main,MICHIO,0,0,0,,I'm not going back.
+Dialogue: 99,0:09:44.40,0:09:45.92,Main,MICHIO,0,0,0,,And besides, I probably can't.
+Dialogue: 99,0:09:47.05,0:09:49.37,Main,MICHIO,0,0,0,,Unfortunately for you,
+Dialogue: 99,0:09:49.37,0:09:53.52,Main,MICHIO,0,0,0,,I won't be disbanding our party \Nso I can return to my homeland.
+Dialogue: 99,0:09:53.52,0:09:57.07,Main,ROXANNE,0,0,0,,Actually, that's not why I asked.
+Dialogue: 99,0:09:57.07,0:09:58.36,Main,MICHIO,0,0,0,,I know.
+Dialogue: 99,0:09:58.80,0:10:03.55,Main,ROXANNE,0,0,0,,Typically people sell slaves \Nthey no longer need.
+Dialogue: 99,0:10:03.55,0:10:04.79,Main,MICHIO,0,0,0,,It's all right.
+Dialogue: 99,0:10:05.13,0:10:08.29,Main,MICHIO,0,0,0,,I plan on keeping you forever.
+Dialogue: 99,0:10:10.08,0:10:12.75,Main,ROXANNE,0,0,0,,Yes, Master. Thank you.
+Dialogue: 99,0:10:12.75,0:10:17.30,Main,MICHIO,0,0,0,,But naturally, I do want to \Nmaximize our party's strength.
+Dialogue: 99,0:10:17.30,0:10:19.54,Main,MICHIO,0,0,0,,I'll probably recruit more members.
+Dialogue: 99,0:10:19.54,0:10:22.05,Main,ROXANNE,0,0,0,,Yes, Master. It's only natural.
+Dialogue: 99,0:10:22.38,0:10:27.54,Italics,MICHIO,0,0,0,,Great. I'll take that to \Nmean she consents to forming a harem.
+Dialogue: 99,0:10:28.97,0:10:30.77,Main,MICHIO,0,0,0,,Two Magic Crystals, please.
+Dialogue: 99,0:10:31.10,0:10:33.18,Main,GUILD MEMBER A,0,0,0,,Are black Magic Crystals acceptable?
+Dialogue: 99,0:10:33.70,0:10:34.49,Italics,MICHIO,0,0,0,,Black?
+Dialogue: 99,0:10:34.90,0:10:38.40,Main,MICHIO,0,0,0,,I'd like empty crystals, please.
+Dialogue: 99,0:10:38.64,0:10:40.51,Main,GUILD MEMBER A,0,0,0,,Those would be black Magic Crystals.
+Dialogue: 99,0:10:41.11,0:10:43.16,Main,GUILD MEMBER A,0,0,0,,They're ten nars per crystal.
+Dialogue: 99,0:10:43.58,0:10:44.57,Main,MICHIO,0,0,0,,Roxanne,
+Dialogue: 99,0:10:45.96,0:10:48.29,Main,MICHIO,0,0,0,,thanks for waiting. Here they are.
+Dialogue: 99,0:10:48.60,0:10:52.29,Main,ROXANNE,0,0,0,,A Magic Crystal's color changes depending \Non the magic power stored inside it.
+Dialogue: 99,0:10:52.76,0:10:57.80,Main,ROXANNE,0,0,0,,They turn red after defeating ten monsters \Nand purple after defeating a hundred.
+Dialogue: 99,0:10:57.80,0:11:00.97,Italics,MICHIO,0,0,0,,So the color changes with \Neach tenfold increase.
+Dialogue: 99,0:11:00.97,0:11:02.30,Main,MICHIO,0,0,0,,Is there a maximum limit?
+Dialogue: 99,0:11:02.30,0:11:05.72,Main,ROXANNE,0,0,0,,Apparently, they turn white after \Ndefeating one million monsters,
+Dialogue: 99,0:11:05.72,0:11:07.98,Main,ROXANNE,0,0,0,,but most stop at green, \Nwhich is ten thousand.
+Dialogue: 99,0:11:07.98,0:11:10.76,Main,ROXANNE,0,0,0,,It's typical for people to sell \Nthem once they turn blue,
+Dialogue: 99,0:11:10.76,0:11:13.27,Main,ROXANNE,0,0,0,,after defeating 100 thousand monsters.
+Dialogue: 99,0:11:13.27,0:11:16.71,Main,MICHIO,0,0,0,,Got it. Then, let's head to the labyrinth.
+Dialogue: 99,0:11:20.80,0:11:21.66,Main,MICHIO,0,0,0,,All right.
+Dialogue: 99,0:11:21.88,0:11:27.64,Main,ROXANNE,0,0,0,,Impressive. The first floor monsters \Nno longer stand a chance against you.
+Dialogue: 99,0:11:27.64,0:11:30.16,Main,ROXANNE,0,0,0,,Why don't we head to a higher floor?
+Dialogue: 99,0:11:31.28,0:11:33.37,Main,MICHIO,0,0,0,,You mean it doesn't go down?
+Dialogue: 99,0:11:33.37,0:11:37.31,Main,ROXANNE,0,0,0,,It goes upwards because \Nthe labyrinth is growing.
+Dialogue: 99,0:11:37.31,0:11:37.88,Main,MICHIO,0,0,0,,What?
+Dialogue: 99,0:11:37.88,0:11:40.55,Main,MICHIO,0,0,0,,The labyrinth is growing?
+Dialogue: 99,0:11:40.87,0:11:44.53,Main,ROXANNE,0,0,0,,Labyrinths are thought \Nto be living creatures.
+Dialogue: 99,0:11:44.53,0:11:47.60,Main,ROXANNE,0,0,0,,They lure people to them, \Nuse monsters to defeat them,
+Dialogue: 99,0:11:47.60,0:11:49.56,Main,ROXANNE,0,0,0,,and feed on their bodies.
+Dialogue: 99,0:11:49.84,0:11:54.20,Main,ROXANNE,0,0,0,,There are labyrinths other than this \None because the labyrinths multiplied.
+Dialogue: 99,0:11:54.79,0:11:58.94,Main,MICHIO,0,0,0,,How do you defeat—no, kill a labyrinth?
+Dialogue: 99,0:11:59.24,0:12:03.70,Main,ROXANNE,0,0,0,,The only way is to defeat the boss on \Nevery level and reach the highest floor.
+Dialogue: 99,0:12:03.92,0:12:06.31,Italics,MICHIO,0,0,0,,Sounds like a tough battle.
+Dialogue: 99,0:12:06.31,0:12:12.13,Italics,MICHIO,0,0,0,,I should think about acquiring ways \Nto attack multiple monsters at once.
+Dialogue: 99,0:12:12.13,0:12:13.71,Italics,MICHIO,0,0,0,,Which means...
+Dialogue: 99,0:12:13.99,0:12:16.40,Main,MICHIO,0,0,0,,Are there any spells that attack all targets?
+Dialogue: 99,0:12:16.40,0:12:22.70,Main,ROXANNE,0,0,0,,Spells? I've heard such spells exist, \Nbut I don't know much about them.
+Dialogue: 99,0:12:26.12,0:12:31.77,Italics,MICHIO,0,0,0,,If I want to become a Mage, I should \Nprobably try actually casting spells.
+Dialogue: 99,0:12:32.15,0:12:36.77,Italics,MICHIO,0,0,0,,I have Bonus Incantations \NI can use without being a Mage.
+Dialogue: 99,0:12:37.15,0:12:39.84,Italics,MICHIO,0,0,0,,I may be able to acquire the Mage job
+Dialogue: 99,0:12:39.84,0:12:43.19,Italics - Top,MICHIO,0,0,0,,by casting the attack spells \Nin my Bonus Incantations.
+Dialogue: 99,0:12:43.19,0:12:45.36,Italics - Top,MICHIO,0,0,0,,I'll start with this one.
+Dialogue: 99,0:12:50.45,0:12:51.62,Italics,MICHIO,0,0,0,,In that case...
+Dialogue: 99,0:12:56.67,0:12:58.38,Main,MICHIO,0,0,0,,I'm not done yet.
+Dialogue: 99,0:13:03.66,0:13:07.59,Italics,MICHIO,0,0,0,,I must not have enough MP to cast it yet.
+Dialogue: 99,0:13:07.81,0:13:11.73,Main,ROXANNE,0,0,0,,Master, that needle wood \Nwas our tenth monster.
+Dialogue: 99,0:13:11.73,0:13:13.64,Main,ROXANNE,0,0,0,,How is your Magic Crystal looking?
+Dialogue: 99,0:13:15.68,0:13:16.85,Main,MICHIO,0,0,0,,It changed color.
+Dialogue: 99,0:13:17.31,0:13:18.98,Main,MICHIO,0,0,0,,What about yours?
+Dialogue: 99,0:13:18.98,0:13:21.20,Main,ROXANNE,0,0,0,,Mine is still black.
+Dialogue: 99,0:13:21.20,0:13:24.61,Main,ROXANNE,0,0,0,,Only the person who strikes the \Nkilling blow gains its magic power.
+Dialogue: 99,0:13:24.61,0:13:26.74,Italics,MICHIO,0,0,0,,I didn't notice earlier,
+Dialogue: 99,0:13:26.74,0:13:30.37,Italics,MICHIO,0,0,0,,but I have something called \NCrystallization Upgrade as a Bonus Skill.
+Dialogue: 99,0:13:31.43,0:13:32.24,Main,ROXANNE,0,0,0,,This way.
+Dialogue: 99,0:13:32.24,0:13:35.15,Italics,MICHIO,0,0,0,,It's probably a Magic Crystal-related buff.
+Dialogue: 99,0:13:36.79,0:13:37.96,Main,ROXANNE,0,0,0,,Right.
+Dialogue: 99,0:13:37.96,0:13:40.12,Main,MICHIO,0,0,0,,x32...
+Dialogue: 99,0:13:40.84,0:13:41.71,Main,ROXANNE,0,0,0,,Left.
+Dialogue: 99,0:13:41.71,0:13:42.88,Main,MICHIO,0,0,0,,Should be enough.
+Dialogue: 99,0:13:45.97,0:13:47.76,Main,MICHIO,0,0,0,,Roxanne, take a look.
+Dialogue: 99,0:13:48.28,0:13:50.90,Main,ROXANNE,0,0,0,,Purple? But how?
+Dialogue: 99,0:13:50.90,0:13:52.18,Main,MICHIO,0,0,0,,Don't tell anyone.
+Dialogue: 99,0:13:52.68,0:13:55.23,Main,ROXANNE,0,0,0,,Master, that's incredible.
+Dialogue: 99,0:13:55.49,0:13:58.26,Main,MICHIO,0,0,0,,Do you know how much Magic Crystals sell for?
+Dialogue: 99,0:13:58.26,0:14:02.17,Main,ROXANNE,0,0,0,,Greens go for ten thousand nars, \Nand yellows go for 100 thousand nars.
+Dialogue: 99,0:14:03.13,0:14:06.20,Italics,MICHIO,0,0,0,,It's not as though I need \Nthe money right now,
+Dialogue: 99,0:14:06.20,0:14:08.66,Italics,MICHIO,0,0,0,,so I guess I'll deactivate \NCrystallization Upgrade.
+Dialogue: 99,0:14:10.55,0:14:12.58,Italics,MICHIO,0,0,0,,Unlock Party Settings?
+Dialogue: 99,0:14:12.98,0:14:15.32,Italics,MICHIO,0,0,0,,It didn't matter when I was alone,
+Dialogue: 99,0:14:15.32,0:14:17.29,Italics,MICHIO,0,0,0,,but now I'm grouping with Roxanne.
+Dialogue: 99,0:14:17.53,0:14:18.87,Italics,MICHIO,0,0,0,,I should test it out.
+Dialogue: 99,0:14:20.23,0:14:21.71,Italics - Top,MICHIO,0,0,0,,Party Job Settings.
+Dialogue: 99,0:14:24.21,0:14:27.02,Italics,MICHIO,0,0,0,,So these are Roxanne's jobs.
+Dialogue: 99,0:14:27.48,0:14:29.80,Italics,MICHIO,0,0,0,,Beast Warrior seems to have good effects,
+Dialogue: 99,0:14:29.80,0:14:31.22,Italics,MICHIO,0,0,0,,so I'll keep her the way she is.
+Dialogue: 99,0:14:31.48,0:14:34.45,Main,MICHIO,0,0,0,,That just leaves healing.
+Dialogue: 99,0:14:34.87,0:14:37.14,Main,MICHIO,0,0,0,,Do you have any healing skills or spells?
+Dialogue: 99,0:14:37.39,0:14:40.84,Main,ROXANNE,0,0,0,,The Monk and Priest jobs can use those.
+Dialogue: 99,0:14:40.84,0:14:44.15,Main,ROXANNE,0,0,0,,To become one, you must defeat \Nmonsters with your bare hands.
+Dialogue: 99,0:14:44.15,0:14:45.40,Main,MICHIO,0,0,0,,Your bare hands?
+Dialogue: 99,0:14:45.96,0:14:49.65,Italics,MICHIO,0,0,0,,But it seems worth trying out.
+Dialogue: 99,0:14:49.92,0:14:54.98,Main,MICHIO,0,0,0,,Roxanne, could you put away your \Nsword and fight bare-handed?
+Dialogue: 99,0:14:54.98,0:14:55.82,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:14:58.37,0:15:01.79,Italics,MICHIO,0,0,0,,That said, it'll probably be \Ndifficult even for the both of us
+Dialogue: 99,0:15:01.79,0:15:03.84,Italics,MICHIO,0,0,0,,to defeat monsters bare-handed \Nfrom the get-go.
+Dialogue: 99,0:15:13.30,0:15:13.97,Main,MICHIO,0,0,0,,How was that?
+Dialogue: 99,0:15:15.28,0:15:17.85,Italics,MICHIO,0,0,0,,Simply fighting bare-handed \Nisn't good enough.
+Dialogue: 99,0:15:18.16,0:15:21.40,Italics,MICHIO,0,0,0,,But I don't know how long it'll take \Nif we fight bare-handed from the start.
+Dialogue: 99,0:15:22.09,0:15:23.73,Italics,MICHIO,0,0,0,,I'll start with the killing blow only.
+Dialogue: 99,0:15:24.17,0:15:27.41,Italics,MICHIO,0,0,0,,Durandal one-shots monsters, so...
+Dialogue: 99,0:15:29.22,0:15:31.72,Main,ROXANNE,0,0,0,,You have all kinds of weapons.
+Dialogue: 99,0:15:31.72,0:15:33.99,Main,MICHIO,0,0,0,,I'll try this sword next.
+Dialogue: 99,0:15:34.27,0:15:36.61,Italics,MICHIO,0,0,0,,I don't mind going at a turtle's pace.
+Dialogue: 99,0:15:36.61,0:15:40.83,Italics,MICHIO,0,0,0,,Slow and steady does it.
+Dialogue: 99,0:15:43.38,0:15:47.09,Main,MICHIO,0,0,0,,Lowering my weapon's strength by \None level makes it ineffective?
+Dialogue: 99,0:15:49.51,0:15:50.88,Main,MICHIO,0,0,0,,Watch out, Rox—
+Dialogue: 99,0:15:54.64,0:15:55.60,Main,MICHIO,0,0,0,,Huh?
+Dialogue: 99,0:15:58.22,0:16:01.24,Italics,MICHIO,0,0,0,,She's dodging all the monster's attacks.
+Dialogue: 99,0:16:01.24,0:16:03.60,Italics,MICHIO,0,0,0,,At first glance, it seems like \Nshe's barely dodging them,
+Dialogue: 99,0:16:03.60,0:16:05.16,Italics,MICHIO,0,0,0,,but it's actually the other way around.
+Dialogue: 99,0:16:05.16,0:16:07.46,Italics,MICHIO,0,0,0,,Large movements are inefficient.
+Dialogue: 99,0:16:07.46,0:16:10.56,Italics,MICHIO,0,0,0,,Look, dodge, and attack.
+Dialogue: 99,0:16:14.74,0:16:17.40,Italics,MICHIO,0,0,0,,It's like a magnificent dance.
+Dialogue: 99,0:16:18.49,0:16:19.79,Italics,MICHIO,0,0,0,,Don't get distracted.
+Dialogue: 99,0:16:19.79,0:16:22.30,Italics,MICHIO,0,0,0,,Now I just have to finish \Nit off with punches.
+Dialogue: 99,0:16:37.89,0:16:39.71,Main,MICHIO,0,0,0,,Huh? It's not there?
+Dialogue: 99,0:16:43.10,0:16:45.50,Main,MICHIO,0,0,0,,Roxanne, did you kill it?
+Dialogue: 99,0:16:45.50,0:16:49.82,Main,ROXANNE,0,0,0,,Yes, Master. It was defeated when \NI struck it after you punched it.
+Dialogue: 99,0:16:49.82,0:16:53.44,Main,MICHIO,0,0,0,,Impressive work. \NYou dodged all its attacks, too.
+Dialogue: 99,0:16:53.44,0:16:55.45,Main,ROXANNE,0,0,0,,Because we had it surrounded.
+Dialogue: 99,0:16:55.72,0:16:59.67,Main,ROXANNE,0,0,0,,And those attacks can be dodged \Neasily if you're watching closely.
+Dialogue: 99,0:16:59.67,0:17:00.70,Italics,MICHIO,0,0,0,,Yeah, I don't think so.
+Dialogue: 99,0:17:01.12,0:17:03.36,Main,MICHIO,0,0,0,,I'll finish off the next one.
+Dialogue: 99,0:17:03.36,0:17:06.51,Main,MICHIO,0,0,0,,Roxanne, just help me \Nflank it and don't attack.
+Dialogue: 99,0:17:06.51,0:17:07.71,Main,ROXANNE,0,0,0,,Understood.
+Dialogue: 99,0:17:09.21,0:17:10.39,Main,ROXANNE,0,0,0,,This way.
+Dialogue: 99,0:17:12.17,0:17:15.79,Italics,MICHIO,0,0,0,,If I want to get its health as low as \Npossible with a single sword attack,
+Dialogue: 99,0:17:15.79,0:17:17.59,Italics,MICHIO,0,0,0,,then I need to adjust my Strength stat.
+Dialogue: 99,0:17:19.93,0:17:21.44,Italics,MICHIO,0,0,0,,Forty-five.
+Dialogue: 99,0:17:23.98,0:17:25.31,Italics,MICHIO,0,0,0,,That was too much.
+Dialogue: 99,0:17:26.23,0:17:27.60,Italics,MICHIO,0,0,0,,How about 20?
+Dialogue: 99,0:17:29.31,0:17:30.77,Italics,MICHIO,0,0,0,,Thirteen, maybe?
+Dialogue: 99,0:17:34.28,0:17:36.91,Italics,MICHIO,0,0,0,,Okay, it wasn't defeated.
+Dialogue: 99,0:17:36.91,0:17:37.49,Main,MICHIO,0,0,0,,Roxanne.
+Dialogue: 99,0:17:37.49,0:17:38.91,Main,ROXANNE,0,0,0,,I know.
+Dialogue: 99,0:17:38.91,0:17:40.66,Italics,MICHIO,0,0,0,,Character Settings.
+Dialogue: 99,0:17:41.24,0:17:45.54,Italics,MICHIO,0,0,0,,I'll unequip my Bonus Weapons and put all \Nmy points in increasing my Strength stat.
+Dialogue: 99,0:17:45.54,0:17:49.83,Italics,MICHIO,0,0,0,,Now I'll pour everything I've \Ngot into this single blow.
+Dialogue: 99,0:17:50.79,0:17:52.32,Italics,MICHIO,0,0,0,,It noticed me?
+Dialogue: 99,0:17:52.32,0:17:54.55,Italics,MICHIO,0,0,0,,Either way, I'm too close \Nto evade its attack.
+Dialogue: 99,0:17:54.55,0:17:57.22,Italics,MICHIO,0,0,0,,So I'll keep pushing forward.
+Dialogue: 99,0:18:06.29,0:18:08.31,Main,ROXANNE,0,0,0,,I-I'm impressed.
+Dialogue: 99,0:18:09.56,0:18:10.94,Main,ROXANNE,0,0,0,,You killed it in a single blow.
+Dialogue: 99,0:18:12.78,0:18:14.32,Italics,MICHIO,0,0,0,,That took forever.
+Dialogue: 99,0:18:15.28,0:18:16.22,Italics,MICHIO,0,0,0,,Treat Wounds.
+Dialogue: 99,0:18:19.35,0:18:21.25,Main,MICHIO,0,0,0,,The pain went away.
+Dialogue: 99,0:18:21.69,0:18:27.08,Main,MICHIO,0,0,0,,From now on, I'll use my skill to \Nheal us if we're damaged by monsters.
+Dialogue: 99,0:18:27.08,0:18:29.32,Main,ROXANNE,0,0,0,,You can do that?
+Dialogue: 99,0:18:29.33,0:18:32.76,Main,MICHIO,0,0,0,,I just set your job to Monk, too.
+Dialogue: 99,0:18:32.76,0:18:33.34,Main,ROXANNE,0,0,0,,What?
+Dialogue: 99,0:18:33.34,0:18:34.09,Main,MICHIO,0,0,0,,What?
+Dialogue: 99,0:18:34.29,0:18:34.96,Main,BOTH,0,0,0,,What?
+Dialogue: 99,0:18:35.59,0:18:38.17,Main,ROXANNE,0,0,0,,My job is Beast Warrior.
+Dialogue: 99,0:18:38.17,0:18:40.59,Main,ROXANNE,0,0,0,,I've never been a Monk.
+Dialogue: 99,0:18:40.59,0:18:43.78,Main,MICHIO,0,0,0,,It's uh, you know...
+Dialogue: 99,0:18:44.19,0:18:45.35,Main,MICHIO,0,0,0,,Don't tell anyone.
+Dialogue: 99,0:18:47.28,0:18:48.85,Main,ROXANNE,0,0,0,,Amazing.
+Dialogue: 99,0:18:51.10,0:18:52.37,Main,ROXANNE,0,0,0,,Excuse me.
+Dialogue: 99,0:18:53.23,0:18:55.43,Main,MICHIO,0,0,0,,Good work today.
+Dialogue: 99,0:18:55.43,0:18:58.43,Main,ROXANNE,0,0,0,,Yes, Master. You, too.
+Dialogue: 99,0:18:58.43,0:19:00.64,Main,MICHIO,0,0,0,,How did you feel about today's combats?
+Dialogue: 99,0:19:00.64,0:19:03.74,Main,MICHIO,0,0,0,,Did you notice anything strange \Nfrom your perspective?
+Dialogue: 99,0:19:03.96,0:19:07.00,Main,ROXANNE,0,0,0,,The way you fought was impressive.
+Dialogue: 99,0:19:07.48,0:19:10.25,Main,ROXANNE,0,0,0,,I'm sorry I wasn't very useful.
+Dialogue: 99,0:19:10.56,0:19:13.58,Main,MICHIO,0,0,0,,You were plenty useful at finding monsters.
+Dialogue: 99,0:19:13.58,0:19:16.50,Main,MICHIO,0,0,0,,And besides, your movements in \Ncombat seemed reliable, too.
+Dialogue: 99,0:19:18.92,0:19:20.70,Main,MICHIO,0,0,0,,I look forward to fighting alongside you.
+Dialogue: 99,0:19:20.70,0:19:22.81,Main,ROXANNE,0,0,0,,Yes, Master. You can count on me.
+Dialogue: 99,0:19:33.89,0:19:37.44,Main,MICHIO,0,0,0,,Your fingers are so elegant and soft.
+Dialogue: 99,0:19:37.75,0:19:39.98,Main,ROXANNE,0,0,0,,Yours are large, Master.
+Dialogue: 99,0:19:40.40,0:19:43.52,Main,ROXANNE,0,0,0,,I thought we were around the same age.
+Dialogue: 99,0:19:44.16,0:19:47.09,Main,ROXANNE,0,0,0,,Is it because you're a man?
+Dialogue: 99,0:19:47.09,0:19:48.70,Main,ROXANNE,0,0,0,,They're so sturdy.
+Dialogue: 99,0:19:48.93,0:19:53.45,Main,MICHIO,0,0,0,,I'm sure it's the same for most men \Nwhether they're humans or wolfkin.
+Dialogue: 99,0:19:55.67,0:19:56.89,Main,ROXANNE,0,0,0,,U-Um...
+Dialogue: 99,0:19:56.89,0:19:58.38,Main,MICHIO,0,0,0,,Don't worry about it.
+Dialogue: 99,0:20:02.04,0:20:03.55,Main,ROXANNE,0,0,0,,But...
+Dialogue: 99,0:20:05.68,0:20:07.46,Main,MICHIO,0,0,0,,Trust your Master.
+Dialogue: 99,0:20:12.17,0:20:15.40,Main,ROXANNE,0,0,0,,I can't allow you to do this for me.
+Dialogue: 99,0:20:15.40,0:20:17.04,Main,MICHIO,0,0,0,,It's okay.
+Dialogue: 99,0:20:19.44,0:20:21.42,Italics,MICHIO,0,0,0,,Every time I scrub Roxanne,
+Dialogue: 99,0:20:21.42,0:20:25.45,Italics,MICHIO,0,0,0,,the vibrations reach the tips, \Nmaking them jiggle.
+Dialogue: 99,0:20:25.76,0:20:28.85,Italics,MICHIO,0,0,0,,I must calm these unruly peaks.
+Dialogue: 99,0:20:29.64,0:20:33.46,Main,ROXANNE,0,0,0,,I haven't washed that yet.
+Dialogue: 99,0:20:33.46,0:20:36.24,Main,ROXANNE,0,0,0,,It's sweaty and dirty.
+Dialogue: 99,0:20:36.24,0:20:37.52,Main,MICHIO,0,0,0,,Don't worry about it.
+Dialogue: 99,0:20:38.35,0:20:39.40,Main,MICHIO,0,0,0,,Raise your arm.
+Dialogue: 99,0:20:42.22,0:20:44.68,Main,ROXANNE,0,0,0,,But I'm a slave.
+Dialogue: 99,0:20:44.68,0:20:47.33,Main,ROXANNE,0,0,0,,I can't allow you to wash me.
+Dialogue: 99,0:20:49.28,0:20:51.39,Main,MICHIO,0,0,0,,I'm doing this because I want to.
+Dialogue: 99,0:20:51.39,0:20:55.24,Main,MICHIO,0,0,0,,And besides, we'll sweat \Neven more after this.
+Dialogue: 99,0:20:55.24,0:20:58.51,Main,ROXANNE,0,0,0,,You're not wrong.
+Dialogue: 99,0:20:59.76,0:21:01.78,Main,ROXANNE,0,0,0,,But that's not what I meant.
+Dialogue: 99,0:21:02.87,0:21:07.39,Main,ROXANNE,0,0,0,,At least, allow me to wash your body first.
+Dialogue: 99,0:21:07.39,0:21:11.38,Main,MICHIO,0,0,0,,Then, maybe I'll have you \Ndo that once I finish here.
+Dialogue: 99,0:21:12.01,0:21:13.76,Main,ROXANNE,0,0,0,,I can clean that myself.
+Dialogue: 99,0:21:17.00,0:21:20.13,Main,MICHIO,0,0,0,,Could you wash my body, too?
+Dialogue: 99,0:21:20.13,0:21:21.38,Main,ROXANNE,0,0,0,,Yes, Master.
+Dialogue: 99,0:21:24.42,0:21:29.38,Italics,MICHIO,0,0,0,,I could never imagine this happening \Nin the world I came from.
+Dialogue: 99,0:21:30.14,0:21:37.15,Italics,MICHIO,0,0,0,,But that's why I feel so alive.
+Dialogue: 99,0:21:43.40,0:21:46.84,Main,MICHIO,0,0,0,,There aren't any monsters, but there's \Nsomething about this room that feels off.
+Dialogue: 99,0:21:46.84,0:21:48.18,Main,ROXANNE,0,0,0,,It's a waiting room.
+Dialogue: 99,0:21:48.18,0:21:48.91,Main,MICHIO,0,0,0,,A waiting room?
+Dialogue: 99,0:21:49.29,0:21:52.74,Main,ROXANNE,0,0,0,,The first floor boss is beyond this door.
+Dialogue: 99,0:21:54.34,0:21:56.26,Main,MICHIO,0,0,0,,Let's go, Roxanne.
+Dialogue: 99,0:21:56.26,0:21:56.99,Main,ROXANNE,0,0,0,,Yes, Master.
 Dialogue: 0,0:00:21.41,0:00:25.62,Status Text,SIGN,0,0,0,,{\fad(500,875)\bord12\3c&H8C8989&\1a&H00&\c&HC5C5C0&\fs24\pos(750,140.001)}Error\N\N{\b1\fs30\3c&HA2A5A3&}Image cannot be displayed.
 Dialogue: 0,0:01:55.21,0:01:56.84,Status Text,SIGN,0,0,0,,{\pos(750,138)\bord12\3c&H8C8989&\1a&H00&\c&HC5C5C0&}Error\N\N{\b1\fs36\3c&HA2A5A3&}Image cannot be displayed.
 Dialogue: 0,0:01:59.30,0:02:02.43,Status Text,SIGN,0,0,0,,{\fad(0,500)\pos(750,138)\bord12\3c&H8C8989&\1a&H00&\c&HC5C5C0&}Error\N\N{\b1\fs36\3c&HA2A5A3&}Image cannot be displayed.

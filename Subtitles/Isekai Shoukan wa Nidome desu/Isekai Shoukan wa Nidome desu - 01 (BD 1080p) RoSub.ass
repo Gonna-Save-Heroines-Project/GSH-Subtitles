@@ -35,309 +35,309 @@ Style: DedzuyaSigns,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.53,0:00:06.52,Dialogue,Male Student,0,0,0,,Vai, mi-era așa de somn la ultima oră!
-Dialogue: 100,0:00:06.52,0:00:08.34,Dialogue,Yuhi,0,0,0,,Yuki, la ce te uiți?
-Dialogue: 100,0:00:10.03,0:00:14.75,Dialogue,Setsu,0,0,0,,Ți-am mai spus să nu vorbești cu mine. \NVor apărea zvonuri enervante.
-Dialogue: 100,0:00:14.75,0:00:17.15,Dialogue,Yuhi,0,0,0,,Și ce dacă?
-Dialogue: 100,0:00:17.15,0:00:19.24,Dialogue,Yuhi,0,0,0,,Suntem prieteni din copilărie, \Ndeci cui îi pasă?
-Dialogue: 100,0:00:19.74,0:00:23.02,Dialogue,Setsu,0,0,0,,Poate ție nu-ți pasă de bărfe, \Ndar celorlalți da.
-Dialogue: 100,0:00:23.02,0:00:25.81,Dialogue,Yuhi,0,0,0,,Chiar ți-a crescut părul, Yuki.
-Dialogue: 100,0:00:25.81,0:00:28.37,Dialogue,Yuhi,0,0,0,,Pari anti-social când ai \Nun ochi acoperit astfel.
-Dialogue: 100,0:00:28.37,0:00:29.01,Dialogue,Setsu,0,0,0,,Hei.
-Dialogue: 100,0:00:29.01,0:00:31.46,Dialogue,Yuhi,0,0,0,,Ai vrea să te tund la fel ca pe vremuri?
-Dialogue: 100,0:00:34.93,0:00:37.63,Dialogue,Setsu,0,0,0,,Yuhi, nu te-ai schimbat deloc.
-Dialogue: 100,0:00:37.63,0:00:40.21,Dialogue,Yuhi,0,0,0,,Pentru mine, tu ești și mereu vei fi Yuki.
-Dialogue: 100,0:00:40.21,0:00:42.79,Dialogue,Yuhi,0,0,0,,Iar asta nu se va schimba vreodată!
-Dialogue: 100,0:00:43.80,0:00:45.44,Dialogue,Setsu,0,0,0,,Sigur, îți voi accepta oferta.
-Dialogue: 100,0:00:45.44,0:00:49.07,Dialogue,Yuhi,0,0,0,,Perfect. Te voi face să arăți grozav!
-Dialogue: 100,0:00:51.09,0:00:54.95,Dialogue,Setsu,0,0,0,,{\i1}Mă întreb cum merg \Nlucrurile în „cealaltă lume”.
-Dialogue: 100,0:00:57.67,0:00:58.42,Dialogue,Setsu,0,0,0,,Ce?
-Dialogue: 100,0:00:58.42,0:01:00.15,Dialogue,Female Student 2,0,0,0,,Hei, ce se petrece?!
-Dialogue: 100,0:01:03.50,0:01:04.76,Dialogue,Female Students,0,0,0,,Ce e asta?
-Dialogue: 100,0:01:08.90,0:01:10.02,Dialogue,Setsu,0,0,0,,{\i1}Nu se poate...
-Dialogue: 100,0:01:28.01,0:01:29.82,Dialogue,Male Student D,0,0,0,,Ce e asta?
-Dialogue: 100,0:01:29.82,0:01:32.23,Dialogue,Female Student 6,0,0,0,,Eram în clasă acum câteva momente, nu?
-Dialogue: 100,0:01:33.81,0:01:36.35,Dialogue,Setsu,0,0,0,,Știam eu! Acest loc este...
-Dialogue: 100,0:01:38.96,0:01:40.20,Dialogue,Yuhi,0,0,0,,Yuki?
-Dialogue: 100,0:01:40.92,0:01:42.28,Dialogue,Male Student A,0,0,0,,Hei, ați auzit cumva ceva?
-Dialogue: 100,0:01:52.23,0:01:54.00,Dialogue,Male Student D,0,0,0,,C-Ce e chestia aia?
-Dialogue: 100,0:01:54.00,0:01:55.76,Dialogue,Female Student 7,0,0,0,,Se filmează cumva un film?
-Dialogue: 100,0:02:00.19,0:02:01.64,Dialogue,Setsu,0,0,0,,Sunt controlați prin magie.
-Dialogue: 100,0:02:03.67,0:02:05.57,Dialogue,Male Student H,0,0,0,,Hei, pare destul de real, nu?!
-Dialogue: 100,0:02:05.57,0:02:06.96,Dialogue,Female Student 9,0,0,0,,Se îndreaptă spre noi!
-Dialogue: 100,0:02:06.96,0:02:08.77,Dialogue,Male Student A,0,0,0,,Toată lumea, fugiți! Repede!
-Dialogue: 100,0:02:12.93,0:02:14.16,Dialogue,Yuhi,0,0,0,,Yuki!
-Dialogue: 100,0:02:26.96,0:02:28.73,Dialogue,Yuhi,0,0,0,,Ce? Yuki?!
-Dialogue: 100,0:02:29.72,0:02:31.71,Dialogue,Yuhi,0,0,0,,Stai, ce tocmai am făcut...
-Dialogue: 100,0:02:31.71,0:02:33.59,Dialogue,Setsu,0,0,0,,Nu avem timp de asta \Nacum. Haide, să fugim!
-Dialogue: 100,0:02:33.59,0:02:35.71,Dialogue,Yuhi,0,0,0,,H-Hei, Yuki!
-Dialogue: 100,0:02:43.68,0:02:45.10,Dialogue,Yuhi,0,0,0,,Yuki! Privește!
-Dialogue: 100,0:02:48.55,0:02:49.63,Dialogue,Soldier A,0,0,0,,La atac!
-Dialogue: 100,0:02:49.63,0:02:51.95,Dialogue,Soldier B,0,0,0,,Eliminați demonii!
-Dialogue: 100,0:02:58.53,0:03:01.69,Dialogue,Soldier C,0,0,0,,Divizia de Magie, foc!
-Dialogue: 100,0:03:21.03,0:03:22.84,Dialogue,Female Student 6,0,0,0,,Ce se petrece?
-Dialogue: 100,0:03:23.13,0:03:25.85,Dialogue,Setsu,0,0,0,,{\i1}Aceste războaie ar fi trebuit \Nsă se sfârșească până acum.
-Dialogue: 100,0:03:27.84,0:03:31.02,Dialogue,Setsu,0,0,0,,{\i1}Acea magie... E cumva un blestem?!
-Dialogue: 100,0:03:31.64,0:03:36.11,Dialogue,Setsu,0,0,0,,{\i1}Această senzație... Nu e nicio \Nîndoială. Este cu siguranță...
-Dialogue: 100,0:03:37.17,0:03:38.60,Dialogue,Yuhi,0,0,0,,Yuki?
-Dialogue: 100,0:03:38.60,0:03:39.54,Dialogue,Elka,0,0,0,,Hei, voi!
-Dialogue: 100,0:03:41.03,0:03:42.45,Dialogue,Elka,0,0,0,,Ce căutați aici?
-Dialogue: 100,0:03:42.90,0:03:46.08,Dialogue,Elka,0,0,0,,Nu sunteți în siguranța \Naici. Plecați imediat!
-Dialogue: 100,0:03:48.39,0:03:51.86,Dialogue,Elka,0,0,0,,Cavalerii Regali vă vor \Nproteja. Haide, plecați!
-Dialogue: 100,0:03:51.86,0:03:52.83,Dialogue,Yuhi,0,0,0,,B-Bine!
-Dialogue: 100,0:03:53.48,0:03:54.69,Dialogue,Glein,0,0,0,,Bun. Să mergem!
-Dialogue: 100,0:03:55.20,0:03:58.76,Dialogue,Glein,0,0,0,,Cavaleri Regali, pregătiți-vă de luptă!
-Dialogue: 100,0:03:58.76,0:04:01.20,Dialogue,Glein,0,0,0,,Urmați-mă!
-Dialogue: 100,0:04:16.69,0:04:18.63,Dialogue,Yuhi,0,0,0,,S-Sunt puternici!
-Dialogue: 100,0:04:18.63,0:04:20.05,Dialogue,Setsu,0,0,0,,Da, fără îndoială.
-Dialogue: 100,0:04:20.52,0:04:22.76,Dialogue,Setsu,0,0,0,,Bun, haide să mergem, \NYuhi! Poți alerga?
-Dialogue: 100,0:04:22.76,0:04:24.45,Dialogue,Yuhi,0,0,0,,D-Da!
-Dialogue: 100,0:04:40.50,0:04:46.05,Dialogue,King,0,0,0,,Vă mulțumim că ați venit într-un moment critic cum este acesta, eroi străini!
-Dialogue: 100,0:04:46.72,0:04:51.43,Dialogue,King,0,0,0,,{\an8}Regatul nostru, Distinia, e invadat de demoni.
-Dialogue: 100,0:04:51.73,0:04:54.58,Dialogue,King,0,0,0,,La fel ca în războiul purtat acum cinci ani,
-Dialogue: 100,0:04:54.58,0:04:58.89,Dialogue,King,0,0,0,,a group of heroes has rushed to \Nour aid from a foreign world!
-Dialogue: 100,0:04:58.89,0:05:01.74,Dialogue,King,0,0,0,,Dacă asta nu e mâna destinului, \Natunci nu știu ce e.
-Dialogue: 100,0:05:01.74,0:05:03.40,Dialogue,Male Student A,0,0,0,,Ce vrea să spună prin „eroi”?
-Dialogue: 100,0:05:03.40,0:05:05.31,Dialogue,Male Student B,0,0,0,,La ce se referă prin „mâna destinului”?
-Dialogue: 100,0:05:06.68,0:05:10.07,Dialogue,Princess,0,0,0,,{\an8}I'm sure you are all confused \Nby this sudden turn of events,
-Dialogue: 100,0:05:10.07,0:05:15.46,Dialogue,Princess,0,0,0,,{\an8}but the fact is that a hero who came to \Nus from a foreign world five years ago
-Dialogue: 100,0:05:15.46,0:05:18.46,Dialogue,Princess,0,0,0,,{\an8}ended the war raging across our world,\N Eclaire, and brought peace.
-Dialogue: 100,0:05:18.46,0:05:21.04,Dialogue,Setsu,0,0,0,,{\i1}That was five years ago, huh?
-Dialogue: 100,0:05:23.65,0:05:27.32,Dialogue,Princess,0,0,0,,I know this alien world is confusing to you,
-Dialogue: 100,0:05:27.32,0:05:30.77,Dialogue,Princess,0,0,0,,but please understand that we \Ncannot see this as a coincidence.
-Dialogue: 100,0:05:31.33,0:05:34.98,Dialogue,Princess,0,0,0,,Could you please lend us aid?
-Dialogue: 100,0:05:35.40,0:05:40.17,Dialogue,Female Student 6,0,0,0,,Lend aid? I don't know how to fight.
-Dialogue: 100,0:05:40.17,0:05:43.69,Dialogue,Female Student 7,0,0,0,,But I don't want to get \Nthrown out of the castle...
-Dialogue: 100,0:05:43.69,0:05:47.30,Dialogue,Male Student D,0,0,0,,If we have to do it, I guess \Nit's better to stay here...
-Dialogue: 100,0:05:47.30,0:05:52.41,Dialogue,Male Student E,0,0,0,,Yeah, if we go outside and get attacked \Nagain, we'll definitely be done for.
-Dialogue: 100,0:05:53.95,0:05:57.12,Dialogue,Princess,0,0,0,,Thank you for your determination, everyone.
-Dialogue: 100,0:05:57.83,0:06:00.19,Dialogue,Princess,0,0,0,,We have prepared rooms for you.
-Dialogue: 100,0:06:01.07,0:06:04.04,Dialogue,Princess,0,0,0,,Please rest for today.
-Dialogue: 100,0:06:05.28,0:06:07.13,Dialogue,Students,0,0,0,,Ce se petrece?
-Dialogue: 100,0:06:08.26,0:06:09.68,Dialogue,Yuhi,0,0,0,,Yuki...
-Dialogue: 100,0:06:09.68,0:06:10.76,Dialogue,Setsu,0,0,0,,Nu-ți face griji.
-Dialogue: 100,0:06:11.55,0:06:13.97,Dialogue,Setsu,0,0,0,,I won't let any danger come to you.
-Dialogue: 100,0:06:17.48,0:06:18.33,Dialogue,Yuhi,0,0,0,,Bine.
-Dialogue: 100,0:06:28.41,0:06:30.85,Dialogue,Glein,0,0,0,,Don't let your swing waver, \Neven unconsciously!
-Dialogue: 100,0:06:31.32,0:06:33.78,Dialogue,Glein,0,0,0,,Make the proper form second nature!
-Dialogue: 100,0:06:34.35,0:06:36.81,Dialogue,Elka,0,0,0,,Magic is a manifestation \Nof your mental image.
-Dialogue: 100,0:06:42.37,0:06:45.25,Dialogue,Elka,0,0,0,,Try to create a solid image inside you.
-Dialogue: 100,0:06:47.65,0:06:48.72,Dialogue,Female Student 2,0,0,0,,Huh?
-Dialogue: 100,0:06:51.74,0:06:53.57,Dialogue,Yuhi,0,0,0,,I-I did it!
-Dialogue: 100,0:06:55.81,0:06:58.15,Dialogue,Setsu,0,0,0,,Yuhi has talent.
-Dialogue: 100,0:07:03.20,0:07:06.17,Dialogue,Elka,0,0,0,,Slacking off on your first day? \NThat's not very admirable.
-Dialogue: 100,0:07:06.17,0:07:08.03,Dialogue,Setsu,0,0,0,,Ack... Elka!
-Dialogue: 100,0:07:08.74,0:07:10.40,Dialogue,Elka,0,0,0,,We're going to war.
-Dialogue: 100,0:07:10.40,0:07:13.28,Dialogue,Elka,0,0,0,,Addressing your superior officer \Nlike that is not permissible.
-Dialogue: 100,0:07:13.28,0:07:17.51,Dialogue,Setsu,0,0,0,,Sheesh, who cares how I address you?
-Dialogue: 100,0:07:17.51,0:07:21.08,Dialogue,Setsu,0,0,0,,Why don't you add "-sama" to your name,\N if that's what you want?
-Dialogue: 100,0:07:22.92,0:07:26.00,Dialogue,Elka,0,0,0,,Your calm composure in an alien \Nenvironment is commendable,
-Dialogue: 100,0:07:26.00,0:07:29.62,Dialogue,Elka,0,0,0,,but your selfish attitude reminds \Nme of the hero from five years ago.
-Dialogue: 100,0:07:30.14,0:07:35.39,Dialogue,Elka,0,0,0,,Capricious, egotistical, and uncaring \Nof how the women around him felt...
-Dialogue: 100,0:07:35.69,0:07:40.11,Dialogue,Elka,0,0,0,,In any case, this world is more \Ndangerous than you might think.
-Dialogue: 100,0:07:40.11,0:07:41.84,Dialogue,Elka,0,0,0,,Return to your training,
-Dialogue: 100,0:07:42.83,0:07:45.69,Dialogue,Elka,0,0,0,,unless you want me to force you.
-Dialogue: 100,0:07:45.69,0:07:50.03,Dialogue,Setsu,0,0,0,,Sounds fun. I'd like to see you try.
-Dialogue: 100,0:07:50.85,0:07:56.74,Dialogue,Elka,0,0,0,,I see. I guess a little pain\N is needed as a lesson.
-Dialogue: 100,0:08:12.64,0:08:16.39,Dialogue,Elka,0,0,0,,Th-This impact... Could it be...
-Dialogue: 100,0:08:16.74,0:08:19.49,Dialogue,Setsu,0,0,0,,Remember me now?
-Dialogue: 100,0:08:19.49,0:08:21.33,Dialogue,Elka,0,0,0,,Se... Se...
-Dialogue: 100,0:08:23.17,0:08:25.49,Dialogue,Elka,0,0,0,,Setsu-sama!
-Dialogue: 100,0:08:25.49,0:08:28.97,Dialogue,Elka,0,0,0,,S-S-S-Setsu-sama! I-It's been such a long time!
-Dialogue: 100,0:08:28.97,0:08:33.31,Dialogue,Elka,0,0,0,,I've waited for this moment, \Nto see you again, for so long!
-Dialogue: 100,0:08:33.31,0:08:35.18,Dialogue,Setsu,0,0,0,,Er, yeah. Long time no see.
-Dialogue: 100,0:08:35.87,0:08:37.95,Dialogue,Setsu,0,0,0,,How long are you gonna stay like that?
-Dialogue: 100,0:08:37.95,0:08:40.94,Dialogue,Elka,0,0,0,,Oh! My apologies! Yes, the chair, right away!
-Dialogue: 100,0:08:40.94,0:08:42.58,Dialogue,Setsu,0,0,0,,No, I didn't ask for that...
-Dialogue: 100,0:08:43.32,0:08:46.22,Dialogue,Elka,0,0,0,,Ah, the weight of Setsu-sama!
-Dialogue: 100,0:08:46.22,0:08:48.67,Dialogue,Elka,0,0,0,,Oh, did you lose weight?
-Dialogue: 100,0:08:48.67,0:08:51.38,Dialogue,Setsu,0,0,0,,Yeah, this body is built differently \Nfrom the previous one.
-Dialogue: 100,0:08:52.23,0:08:55.68,Dialogue,Setsu,0,0,0,,You know, it's kind of creepy that you can tell.
-Dialogue: 100,0:08:55.68,0:09:00.46,Dialogue,Elka,0,0,0,,I only feel pleasure from servitude \Nwhen providing it to you!
-Dialogue: 100,0:09:00.46,0:09:02.85,Dialogue,Elka,0,0,0,,Oh, my master!
-Dialogue: 100,0:09:02.85,0:09:06.90,Dialogue,Setsu,0,0,0,,{\i1}Her masochism has only accelerated \Nsince the last time...
-Dialogue: 100,0:09:08.98,0:09:10.42,Dialogue,Glein,0,0,0,,What are you doing?
-Dialogue: 100,0:09:10.42,0:09:11.40,Dialogue,Elka,0,0,0,,Glein!
-Dialogue: 100,0:09:11.40,0:09:14.95,Dialogue,Elka,0,0,0,,It's Setsu-sama! Setsu-sama is back!
-Dialogue: 100,0:09:15.27,0:09:19.91,Dialogue,Glein,0,0,0,,Setsu-san? Wait, is that him?
-Dialogue: 100,0:09:20.85,0:09:24.11,Dialogue,Glein,0,0,0,,I guess it has to be, given Elka's state...
-Dialogue: 100,0:09:28.28,0:09:30.04,Dialogue,Glein,0,0,0,,Thea! Great news!
-Dialogue: 100,0:09:30.39,0:09:31.49,Dialogue,Glein,0,0,0,,{\an8}Listen—
-Dialogue: 100,0:09:30.39,0:09:34.21,Dialogue,Thea,0,0,0,,Welcome back, Setsu. \NIt's good to see you again.
-Dialogue: 100,0:09:36.64,0:09:40.32,Dialogue,Setsu,0,0,0,,I knew you'd catch on quick, Thea.
-Dialogue: 100,0:09:42.74,0:09:45.13,Dialogue,Thea,0,0,0,,Even with your new look,
-Dialogue: 100,0:09:45.13,0:09:48.27,Dialogue,Thea,0,0,0,,I would never mistake \Nyour magic power, Setsu.
-Dialogue: 100,0:09:48.27,0:09:53.32,Dialogue,Glein,0,0,0,,I see. Magic is not my strong suit. I'm sorry.
-Dialogue: 100,0:09:53.32,0:09:57.99,Dialogue,Elka,0,0,0,,I-I kinda sorta knew, too! I just wasn't sure!
-Dialogue: 100,0:09:58.97,0:10:00.66,Dialogue,Setsu,0,0,0,,Anyway...
-Dialogue: 100,0:10:01.61,0:10:03.49,Dialogue,Setsu,0,0,0,,I'm back, as promised.
-Dialogue: 100,0:10:06.92,0:10:08.12,Dialogue,Setsu,0,0,0,,I'm home.
-Dialogue: 100,0:10:10.55,0:10:12.54,Dialogue,Thea,0,0,0,,Welcome home, Setsu.
-Dialogue: 100,0:10:12.54,0:10:14.10,Dialogue,Elka,0,0,0,,I've been waiting for you.
-Dialogue: 100,0:10:14.10,0:10:15.96,Dialogue,Glein,0,0,0,,I had no doubt you were alive!
-Dialogue: 100,0:10:16.49,0:10:18.05,Dialogue,Setsu,0,0,0,,Damn right I am!
-Dialogue: 100,0:10:20.15,0:10:22.30,Dialogue,Setsu,0,0,0,,{\i1}I guess it's not a given, actually.
-Dialogue: 100,0:10:24.27,0:10:30.60,Dialogue,Setsu,0,0,0,,{\i1}They could have died in battle \Nwhile I was gone from this world.
-Dialogue: 100,0:10:31.85,0:10:33.19,Dialogue,Glein,0,0,0,,Is something wrong?
-Dialogue: 100,0:10:35.08,0:10:38.20,Dialogue,Thea,0,0,0,,The war with the demons, right?
-Dialogue: 100,0:10:42.59,0:10:46.45,Dialogue,Elka,0,0,0,,We have many questions \Nfor you, too, Setsu-sama.
-Dialogue: 100,0:10:47.73,0:10:49.36,Dialogue,Elka,0,0,0,,Let's go someplace else.
-Dialogue: 100,0:10:57.47,0:11:02.93,Dialogue,Elka,0,0,0,,So, how did you return \Nto our world, Setsu-sama?
-Dialogue: 100,0:11:03.37,0:11:06.99,Dialogue,Glein,0,0,0,,There's no doubt that you're Setsu-san,
-Dialogue: 100,0:11:06.99,0:11:09.64,Dialogue,Glein,0,0,0,,but why do you look so different?
-Dialogue: 100,0:11:09.64,0:11:14.91,Dialogue,Thea,0,0,0,,From our point of view, you simply \Ndisappeared after that battle.
-Dialogue: 100,0:11:18.71,0:11:22.09,Dialogue,Setsu,0,0,0,,To be honest, I don't know for sure, either.
-Dialogue: 100,0:11:28.73,0:11:30.37,Dialogue,Previous Setsu,0,0,0,,Toma!
-Dialogue: 100,0:11:30.37,0:11:32.08,Dialogue,Toma,0,0,0,,Setsu!
-Dialogue: 100,0:11:44.93,0:11:46.51,Dialogue,Setsu,0,0,0,,What I know for sure is that
-Dialogue: 100,0:11:47.43,0:11:51.39,Dialogue,Setsu,0,0,0,,I was reborn in a different world while \Nkeeping my memories and magic power,
-Dialogue: 100,0:11:52.52,0:11:55.52,Dialogue,Setsu,0,0,0,,then got summoned into this world again.
-Dialogue: 100,0:11:56.19,0:12:00.65,Dialogue,Thea,0,0,0,,We don't know how you were summoned \Nto our world from a different world.
-Dialogue: 100,0:12:01.02,0:12:05.84,Dialogue,Elka,0,0,0,,So, not to quote the princess,\N but this doesn't seem like a coincidence.
-Dialogue: 100,0:12:05.84,0:12:09.62,Dialogue,Glein,0,0,0,,The will of God is a mystery \Nto ordinary men like us.
-Dialogue: 100,0:12:09.62,0:12:12.16,Dialogue,Setsu,0,0,0,,Enough about me for now.
-Dialogue: 100,0:12:12.65,0:12:15.54,Dialogue,Setsu,0,0,0,,What happened to Toma after all that?
-Dialogue: 100,0:12:15.82,0:12:19.78,Dialogue,Setsu,0,0,0,,He could be behind this war, too, right?
-Dialogue: 100,0:12:20.55,0:12:24.55,Dialogue,Thea,0,0,0,,Are those demons being controlled by a curse?
-Dialogue: 100,0:12:25.51,0:12:30.09,Dialogue,Setsu,0,0,0,,Yeah, that feeling in their \Nmagic power... I'm certain.
-Dialogue: 100,0:12:30.61,0:12:32.06,Dialogue,Setsu,0,0,0,,It's a curse.
-Dialogue: 100,0:12:33.20,0:12:36.39,Dialogue,Setsu,0,0,0,,Toma's the only one who could \Ndo something like that.
-Dialogue: 100,0:12:36.39,0:12:40.69,Dialogue,Elka,0,0,0,,We searched for him, too, \Nlike we searched for you, but...
-Dialogue: 100,0:12:41.37,0:12:44.74,Dialogue,Glein,0,0,0,,We weren't able to find anything.
-Dialogue: 100,0:12:44.74,0:12:50.42,Dialogue,Thea,0,0,0,,But seeing as Setsu is alive, \NToma could be, too...
-Dialogue: 100,0:12:50.42,0:12:51.35,Dialogue,Messenger Soldier,0,0,0,,Glein-sama!
-Dialogue: 100,0:12:52.93,0:12:56.64,Dialogue,Messenger Soldier,0,0,0,,Glein-sama, the king requires \Nyour immediate presence.
-Dialogue: 100,0:12:56.64,0:12:58.74,Dialogue,Messenger Soldier,0,0,0,,Please come to the throne room.
-Dialogue: 100,0:13:00.20,0:13:01.42,Dialogue,Glein,0,0,0,,Well, you heard him.
-Dialogue: 100,0:13:01.42,0:13:04.30,Dialogue,Elka,0,0,0,,Yikes. Sounds like trouble.
-Dialogue: 100,0:13:04.30,0:13:06.13,Dialogue,Thea,0,0,0,,It's not hard to imagine what's up.
-Dialogue: 100,0:13:06.63,0:13:08.83,Dialogue,Glein,0,0,0,,I'll be off, then.
-Dialogue: 100,0:13:11.38,0:13:13.38,Dialogue,Setsu,0,0,0,,It's not easy being important.
-Dialogue: 100,0:13:13.38,0:13:16.14,Dialogue,Elka,0,0,0,,That was supposed to be your job, you know.
-Dialogue: 100,0:13:17.68,0:13:21.57,Dialogue,Setsu,0,0,0,,As if I'd ever accept a stuffy job like that.
-Dialogue: 100,0:13:22.30,0:13:26.98,Dialogue,Setsu,0,0,0,,My plan was to travel around \Nthis world after the war.
-Dialogue: 100,0:13:32.02,0:13:34.98,Dialogue,Elka,0,0,0,,I love this peaceful scenery.
-Dialogue: 100,0:13:34.98,0:13:39.20,Dialogue,Thea,0,0,0,,The peace that Setsu won for \Nus has to be maintained.
-Dialogue: 100,0:13:39.20,0:13:41.46,Dialogue,Setsu,0,0,0,,Yeah, you're right.
-Dialogue: 100,0:13:43.22,0:13:47.35,Dialogue,Setsu,0,0,0,,{\i1}Toma, what are you thinking?
-Dialogue: 100,0:13:49.03,0:13:52.72,Dialogue,King,0,0,0,,We should never have struck \Npeace with the demons!
-Dialogue: 100,0:13:53.02,0:13:57.98,Dialogue,King,0,0,0,,Our kingdom will now declare \Nall-out war on them!
-Dialogue: 100,0:14:00.92,0:14:02.47,Dialogue,Glein,0,0,0,,Please be patient, my king!
-Dialogue: 100,0:14:02.47,0:14:05.82,Dialogue,Glein,0,0,0,,The emissary we sent to the demonic \Ncontinent has not sent back word yet!
-Dialogue: 100,0:14:06.53,0:14:09.70,Dialogue,Glein,0,0,0,,We must first accurately \Nunderstand the situation.
-Dialogue: 100,0:14:11.42,0:14:14.94,Dialogue,Princess,0,0,0,,It's the demons who've begun an \Nunprovoked invasion against us.
-Dialogue: 100,0:14:15.41,0:14:22.38,Dialogue,Princess,0,0,0,,The new heroes being summoned at the same \Ntime is proof that justice is on our side.
-Dialogue: 100,0:14:25.16,0:14:25.90,Dialogue,King,0,0,0,,Hmph.
-Dialogue: 100,0:14:26.73,0:14:31.13,Dialogue,King,0,0,0,,We never should have listened to the \Nhero's cheap words five years ago
-Dialogue: 100,0:14:31.13,0:14:32.80,Dialogue,King,0,0,0,,and agreed to that peace charter.
-Dialogue: 100,0:14:33.14,0:14:39.69,Dialogue,King,0,0,0,,That hero going missing feels to me \Nlike God wants us to unify the world.
-Dialogue: 100,0:14:52.03,0:14:54.86,Dialogue,Yuhi,0,0,0,,Yes! Success!
-Dialogue: 100,0:14:54.86,0:14:56.50,Dialogue,Setsu,0,0,0,,Good job, Yuhi.
-Dialogue: 100,0:14:57.72,0:15:01.13,Dialogue,Yuhi,0,0,0,,Y-Yuki-kun?! You surprised me!
-Dialogue: 100,0:15:01.13,0:15:03.71,Dialogue,Yuhi,0,0,0,,Don't sneak up on me like that!
-Dialogue: 100,0:15:04.26,0:15:06.08,Dialogue,Setsu,0,0,0,,I saw your other attempt, as well.
-Dialogue: 100,0:15:06.08,0:15:08.75,Dialogue,Setsu,0,0,0,,You seem to have a knack for magic.
-Dialogue: 100,0:15:08.75,0:15:10.34,Dialogue,Yuhi,0,0,0,,You think so?
-Dialogue: 100,0:15:15.41,0:15:16.49,Dialogue,Setsu,0,0,0,,What's wrong?
-Dialogue: 100,0:15:17.84,0:15:22.12,Dialogue,Yuhi,0,0,0,,This is practice to hurt someone, isn't it?
-Dialogue: 100,0:15:23.12,0:15:24.35,Dialogue,Setsu,0,0,0,,Well...
-Dialogue: 100,0:15:25.33,0:15:28.66,Dialogue,Yuhi,0,0,0,,Why would anyone go to war?
-Dialogue: 100,0:15:28.66,0:15:29.53,Dialogue,Setsu,0,0,0,,Yuhi...
-Dialogue: 100,0:15:37.65,0:15:41.91,Dialogue,Yuhi,0,0,0,,But if I really have a talent for magic,
-Dialogue: 100,0:15:43.80,0:15:47.09,Dialogue,Yuhi,0,0,0,,I'll protect you, Yuki-kun.
-Dialogue: 100,0:15:47.47,0:15:48.51,Dialogue,Setsu,0,0,0,,Yuhi...
-Dialogue: 100,0:15:49.47,0:15:54.94,Dialogue,Setsu,0,0,0,,Yeah, just overthinking something \Nnever changes anything.
-Dialogue: 100,0:16:02.80,0:16:05.65,Dialogue,Elka,0,0,0,,There you are, Setsu-sama.
-Dialogue: 100,0:16:10.36,0:16:12.62,Dialogue,Glein,0,0,0,,I was able to buy us some time
-Dialogue: 100,0:16:12.62,0:16:14.95,Dialogue,Glein,0,0,0,,by saying the heroes need more training,
-Dialogue: 100,0:16:15.97,0:16:19.45,Dialogue,Glein,0,0,0,,but all-out war seems \Nunavoidable at this point.
-Dialogue: 100,0:16:19.81,0:16:21.17,Dialogue,Glein,0,0,0,,I'm sorry.
-Dialogue: 100,0:16:21.17,0:16:22.76,Dialogue,Setsu,0,0,0,,Oh, well.
-Dialogue: 100,0:16:30.39,0:16:35.22,Dialogue,Setsu,0,0,0,,Right, then. I guess I'll go out \Nand stop the war by myself again.
-Dialogue: 100,0:16:36.24,0:16:37.47,Dialogue,Elka,0,0,0,,Setsu-sama?
-Dialogue: 100,0:16:38.76,0:16:42.39,Dialogue,Setsu,0,0,0,,War is stupid. It has to be stopped.
-Dialogue: 100,0:16:42.39,0:16:45.44,Dialogue,Setsu,0,0,0,,Especially if Toma is behind it.
-Dialogue: 100,0:16:47.09,0:16:48.44,Dialogue,Thea,0,0,0,,Setsu...
-Dialogue: 100,0:16:48.86,0:16:53.99,Dialogue,Elka,0,0,0,,Then we will follow you, \Nas your personal guard!
-Dialogue: 100,0:16:53.99,0:16:57.18,Dialogue,Glein,0,0,0,,It would be great to fight \Nalongside you again.
-Dialogue: 100,0:16:57.18,0:17:02.36,Dialogue,Thea,0,0,0,,Researching magic is fun, \Nbut traveling together is more fun.
-Dialogue: 100,0:17:02.36,0:17:04.89,Dialogue,Setsu,0,0,0,,No. This time around, I'm going alone.
-Dialogue: 100,0:17:06.45,0:17:10.34,Dialogue,Setsu,0,0,0,,Given the situation, \Nyou can't all leave this place.
-Dialogue: 100,0:17:10.91,0:17:14.62,Dialogue,Setsu,0,0,0,,Besides, if Toma really is behind this,
-Dialogue: 100,0:17:14.62,0:17:17.47,Dialogue,Setsu,0,0,0,,there needs to be enough of a \Nfighting force staying here, as well.
-Dialogue: 100,0:17:17.47,0:17:18.55,Dialogue,Elka,0,0,0,,But...
-Dialogue: 100,0:17:19.04,0:17:21.64,Dialogue,Setsu,0,0,0,,If you're my personal guard, \Nyou'll listen, right?
-Dialogue: 100,0:17:23.66,0:17:28.69,Dialogue,Elka,0,0,0,,How can I turn down a request like that?
-Dialogue: 100,0:17:28.69,0:17:30.57,Dialogue,Thea,0,0,0,,Setsu is cruel.
-Dialogue: 100,0:17:31.03,0:17:36.91,Dialogue,Setsu,0,0,0,,Okay. Now I have to go and get what I need.
-Dialogue: 100,0:17:48.93,0:17:50.77,Dialogue,Setsu,0,0,0,,Why are there so many people?
-Dialogue: 100,0:17:50.77,0:17:53.90,Dialogue,Glein,0,0,0,,We're going to war. Everyone's preparing.
-Dialogue: 100,0:17:53.90,0:17:57.33,Dialogue,Elka,0,0,0,,Elka, I'm going in. Glein, cover me.
-Dialogue: 100,0:17:57.33,0:17:58.78,Dialogue,Glein,0,0,0,,Wait, Elka!
-Dialogue: 100,0:17:58.78,0:18:00.77,Dialogue,Glein,0,0,0,,{\an8}Let's do this peacefully!
-Dialogue: 100,0:17:59.71,0:18:03.90,Dialogue,Setsu,0,0,0,,Feels like going back to \Nour dungeon crawling days.
-Dialogue: 100,0:18:03.90,0:18:08.10,Dialogue,Thea,0,0,0,,Yeah. Most of the time, \NElka would dive in head-first and...
-Dialogue: 100,0:18:08.10,0:18:09.23,Dialogue,Elka,0,0,0,,Sorry!
-Dialogue: 100,0:18:11.93,0:18:14.03,Dialogue,Elka,0,0,0,,Oh, no, old habits...
-Dialogue: 100,0:18:14.56,0:18:16.78,Dialogue,Glein,0,0,0,,I said we should do this peacefully...
-Dialogue: 100,0:18:17.82,0:18:19.91,Dialogue,Setsu,0,0,0,,Well, as long as no one finds him.
-Dialogue: 100,0:18:19.91,0:18:21.78,Dialogue,Thea,0,0,0,,You think they won't?
-Dialogue: 100,0:18:21.78,0:18:23.33,Dialogue,Setsu,0,0,0,,It's a matter of time.
-Dialogue: 100,0:18:24.16,0:18:25.15,Dialogue,Elka,0,0,0,,It's open.
-Dialogue: 100,0:18:25.15,0:18:25.79,Dialogue,Setsu,0,0,0,,Good!
-Dialogue: 100,0:18:27.55,0:18:28.67,Dialogue,Yuhi,0,0,0,,Huh?
-Dialogue: 100,0:18:28.91,0:18:30.34,Dialogue,Yuhi,0,0,0,,Yuki-kun?
-Dialogue: 100,0:18:31.46,0:18:33.76,Dialogue,Female Classmate 4,0,0,0,,Yuhi, we're going without you!
-Dialogue: 100,0:18:33.76,0:18:35.13,Dialogue,Yuhi,0,0,0,,Oh, sorry!
-Dialogue: 100,0:18:46.55,0:18:48.81,Dialogue,Setsu,0,0,0,,Ah, here it is.
-Dialogue: 100,0:18:50.08,0:18:53.98,Dialogue,Setsu,0,0,0,,Long time no see to you, too, Kuromaru!
-Dialogue: 100,0:18:55.11,0:18:55.97,Dialogue,Royal Soldier A,0,0,0,,What?!
-Dialogue: 100,0:18:55.97,0:18:57.11,Dialogue,Royal Soldier B,0,0,0,,Hey, are you all right?!
-Dialogue: 100,0:18:57.45,0:18:59.30,Dialogue,Royal Soldier C,0,0,0,,Guards! Lock down the gates!
-Dialogue: 100,0:18:59.30,0:19:00.53,Dialogue,Royal Soldier D,0,0,0,,Don't let them escape!
-Dialogue: 100,0:19:02.46,0:19:04.73,Dialogue,Thea,0,0,0,,They must've found out.
-Dialogue: 100,0:19:05.62,0:19:08.54,Dialogue,Glein,0,0,0,,I'll buy us some time within the castle.
-Dialogue: 100,0:19:09.23,0:19:11.28,Dialogue,Thea,0,0,0,,I guess I have to help him.
-Dialogue: 100,0:19:11.28,0:19:14.33,Dialogue,Thea,0,0,0,,Elka, follow Setsu. You'll get in our way.
-Dialogue: 100,0:19:14.33,0:19:15.04,Dialogue,Elka,0,0,0,,Hey!
-Dialogue: 100,0:19:15.04,0:19:17.45,Dialogue,Setsu,0,0,0,,She's right and you know it. Come on.
-Dialogue: 100,0:19:17.45,0:19:19.05,Dialogue,Elka,0,0,0,,Oh, Setsu-sama!
-Dialogue: 100,0:19:19.05,0:19:22.34,Dialogue,Elka,0,0,0,,Please, don't be so forceful!
-Dialogue: 100,0:19:25.27,0:19:28.27,Dialogue,Setsu,0,0,0,,Good. Everything is ready.
-Dialogue: 100,0:19:28.79,0:19:34.16,Dialogue,Elka,0,0,0,,We'll try to buy as much time \Nas possible until you return.
-Dialogue: 100,0:19:34.16,0:19:35.32,Dialogue,Setsu,0,0,0,,I'm counting on you.
-Dialogue: 100,0:19:35.32,0:19:36.57,Dialogue,Yuhi,0,0,0,,Yuki-kun!
-Dialogue: 100,0:19:42.19,0:19:45.53,Dialogue,Yuhi,0,0,0,,Wh-Why? Where are you going?!
-Dialogue: 100,0:19:45.96,0:19:47.33,Dialogue,Elka,0,0,0,,Hanabashira-san...
-Dialogue: 100,0:19:47.33,0:19:50.48,Dialogue,Setsu,0,0,0,,No. It's all right, Elka.
-Dialogue: 100,0:19:52.66,0:19:57.00,Dialogue,Setsu,0,0,0,,To tell you the truth, this is actually the \Nsecond time I've been summoned to this world.
-Dialogue: 100,0:19:57.53,0:19:58.86,Dialogue,Yuhi,0,0,0,,Second time?
-Dialogue: 100,0:19:58.86,0:20:03.54,Dialogue,Setsu,0,0,0,,So, to stop this war, I'm going \Nto go meet an old acquaintance.
-Dialogue: 100,0:20:04.74,0:20:08.26,Dialogue,Yuhi,0,0,0,,If you're going somewhere, \NI'm going with you!
-Dialogue: 100,0:20:08.26,0:20:10.35,Dialogue,Yuhi,0,0,0,,I want to go with you!
-Dialogue: 100,0:20:10.74,0:20:15.28,Dialogue,Yuhi,0,0,0,,I promise I'll be useful! So please, I...
-Dialogue: 100,0:20:15.28,0:20:17.82,Dialogue,Setsu,0,0,0,,No. It's too dangerous for you, Yuhi.
-Dialogue: 100,0:20:18.36,0:20:22.78,Dialogue,Setsu,0,0,0,,Besides, this is something I have to do.
-Dialogue: 100,0:20:23.22,0:20:26.17,Dialogue,Yuhi,0,0,0,,Then that's all the more reason...
-Dialogue: 100,0:20:29.42,0:20:33.58,Dialogue,Setsu,0,0,0,,I'm going because I don't \Nwant to put you in danger.
-Dialogue: 100,0:20:34.16,0:20:35.29,Dialogue,Setsu,0,0,0,,You understand, don't you?
-Dialogue: 100,0:20:36.07,0:20:38.21,Dialogue,Yuhi,0,0,0,,Yuki-kun...
-Dialogue: 100,0:20:45.01,0:20:48.98,Dialogue,Yuhi,0,0,0,,Yeah, you're a kind person.
-Dialogue: 100,0:20:51.14,0:20:54.54,Dialogue,Yuhi,0,0,0,,Hey, close your eyes for a moment.
-Dialogue: 100,0:20:54.54,0:20:55.35,Dialogue,Setsu,0,0,0,,My eyes?
-Dialogue: 100,0:20:56.63,0:20:57.74,Dialogue,Setsu,0,0,0,,What for?
-Dialogue: 100,0:20:57.74,0:20:59.01,Dialogue,Yuhi,0,0,0,,Just do it.
-Dialogue: 100,0:21:00.07,0:21:01.32,Dialogue,Setsu,0,0,0,,Like this?
-Dialogue: 100,0:21:16.71,0:21:20.27,Dialogue,Setsu,0,0,0,,Wind magic and fire magic? Nice!
-Dialogue: 100,0:21:20.27,0:21:21.21,Dialogue,Yuhi,0,0,0,,I know, right?
-Dialogue: 100,0:21:21.88,0:21:25.63,Dialogue,Yuhi,0,0,0,,I'll do my best to get strong,
-Dialogue: 100,0:21:25.63,0:21:29.08,Dialogue,Yuhi,0,0,0,,so that I can protect you in this world, too!
-Dialogue: 100,0:21:30.60,0:21:31.35,Dialogue,Yuhi,0,0,0,,Ow!
-Dialogue: 100,0:21:31.83,0:21:32.93,Dialogue,Yuhi,0,0,0,,What was that for?!
-Dialogue: 100,0:21:33.71,0:21:37.27,Dialogue,Setsu,0,0,0,,If you can dodge that the next \Ntime I see you, you pass the test.
-Dialogue: 100,0:21:39.48,0:21:41.77,Dialogue,Setsu,0,0,0,,All right, I'm off!
-Dialogue: 100,0:21:42.03,0:21:42.84,Dialogue,Yuhi,0,0,0,,Right!
-Dialogue: 100,0:23:27.78,0:23:30.84,Dialogue,Setsu,0,0,0,,Data viitoare: {\i1}Pornind a \Ndoua oară într-o călătorie{\i0}.
+Dialogue: 99,0:00:03.53,0:00:06.52,Dialogue,Male Student,0,0,0,,Vai, mi-era așa de somn la ultima oră!
+Dialogue: 99,0:00:06.52,0:00:08.34,Dialogue,Yuhi,0,0,0,,Yuki, la ce te uiți?
+Dialogue: 99,0:00:10.03,0:00:14.75,Dialogue,Setsu,0,0,0,,Ți-am mai spus să nu vorbești cu mine. \NVor apărea zvonuri enervante.
+Dialogue: 99,0:00:14.75,0:00:17.15,Dialogue,Yuhi,0,0,0,,Și ce dacă?
+Dialogue: 99,0:00:17.15,0:00:19.24,Dialogue,Yuhi,0,0,0,,Suntem prieteni din copilărie, \Ndeci cui îi pasă?
+Dialogue: 99,0:00:19.74,0:00:23.02,Dialogue,Setsu,0,0,0,,Poate ție nu-ți pasă de bărfe, \Ndar celorlalți da.
+Dialogue: 99,0:00:23.02,0:00:25.81,Dialogue,Yuhi,0,0,0,,Chiar ți-a crescut părul, Yuki.
+Dialogue: 99,0:00:25.81,0:00:28.37,Dialogue,Yuhi,0,0,0,,Pari anti-social când ai \Nun ochi acoperit astfel.
+Dialogue: 99,0:00:28.37,0:00:29.01,Dialogue,Setsu,0,0,0,,Hei.
+Dialogue: 99,0:00:29.01,0:00:31.46,Dialogue,Yuhi,0,0,0,,Ai vrea să te tund la fel ca pe vremuri?
+Dialogue: 99,0:00:34.93,0:00:37.63,Dialogue,Setsu,0,0,0,,Yuhi, nu te-ai schimbat deloc.
+Dialogue: 99,0:00:37.63,0:00:40.21,Dialogue,Yuhi,0,0,0,,Pentru mine, tu ești și mereu vei fi Yuki.
+Dialogue: 99,0:00:40.21,0:00:42.79,Dialogue,Yuhi,0,0,0,,Iar asta nu se va schimba vreodată!
+Dialogue: 99,0:00:43.80,0:00:45.44,Dialogue,Setsu,0,0,0,,Sigur, îți voi accepta oferta.
+Dialogue: 99,0:00:45.44,0:00:49.07,Dialogue,Yuhi,0,0,0,,Perfect. Te voi face să arăți grozav!
+Dialogue: 99,0:00:51.09,0:00:54.95,Dialogue,Setsu,0,0,0,,{\i1}Mă întreb cum merg \Nlucrurile în „cealaltă lume”.
+Dialogue: 99,0:00:57.67,0:00:58.42,Dialogue,Setsu,0,0,0,,Ce?
+Dialogue: 99,0:00:58.42,0:01:00.15,Dialogue,Female Student 2,0,0,0,,Hei, ce se petrece?!
+Dialogue: 99,0:01:03.50,0:01:04.76,Dialogue,Female Students,0,0,0,,Ce e asta?
+Dialogue: 99,0:01:08.90,0:01:10.02,Dialogue,Setsu,0,0,0,,{\i1}Nu se poate...
+Dialogue: 99,0:01:28.01,0:01:29.82,Dialogue,Male Student D,0,0,0,,Ce e asta?
+Dialogue: 99,0:01:29.82,0:01:32.23,Dialogue,Female Student 6,0,0,0,,Eram în clasă acum câteva momente, nu?
+Dialogue: 99,0:01:33.81,0:01:36.35,Dialogue,Setsu,0,0,0,,Știam eu! Acest loc este...
+Dialogue: 99,0:01:38.96,0:01:40.20,Dialogue,Yuhi,0,0,0,,Yuki?
+Dialogue: 99,0:01:40.92,0:01:42.28,Dialogue,Male Student A,0,0,0,,Hei, ați auzit cumva ceva?
+Dialogue: 99,0:01:52.23,0:01:54.00,Dialogue,Male Student D,0,0,0,,C-Ce e chestia aia?
+Dialogue: 99,0:01:54.00,0:01:55.76,Dialogue,Female Student 7,0,0,0,,Se filmează cumva un film?
+Dialogue: 99,0:02:00.19,0:02:01.64,Dialogue,Setsu,0,0,0,,Sunt controlați prin magie.
+Dialogue: 99,0:02:03.67,0:02:05.57,Dialogue,Male Student H,0,0,0,,Hei, pare destul de real, nu?!
+Dialogue: 99,0:02:05.57,0:02:06.96,Dialogue,Female Student 9,0,0,0,,Se îndreaptă spre noi!
+Dialogue: 99,0:02:06.96,0:02:08.77,Dialogue,Male Student A,0,0,0,,Toată lumea, fugiți! Repede!
+Dialogue: 99,0:02:12.93,0:02:14.16,Dialogue,Yuhi,0,0,0,,Yuki!
+Dialogue: 99,0:02:26.96,0:02:28.73,Dialogue,Yuhi,0,0,0,,Ce? Yuki?!
+Dialogue: 99,0:02:29.72,0:02:31.71,Dialogue,Yuhi,0,0,0,,Stai, ce tocmai am făcut...
+Dialogue: 99,0:02:31.71,0:02:33.59,Dialogue,Setsu,0,0,0,,Nu avem timp de asta \Nacum. Haide, să fugim!
+Dialogue: 99,0:02:33.59,0:02:35.71,Dialogue,Yuhi,0,0,0,,H-Hei, Yuki!
+Dialogue: 99,0:02:43.68,0:02:45.10,Dialogue,Yuhi,0,0,0,,Yuki! Privește!
+Dialogue: 99,0:02:48.55,0:02:49.63,Dialogue,Soldier A,0,0,0,,La atac!
+Dialogue: 99,0:02:49.63,0:02:51.95,Dialogue,Soldier B,0,0,0,,Eliminați demonii!
+Dialogue: 99,0:02:58.53,0:03:01.69,Dialogue,Soldier C,0,0,0,,Divizia de Magie, foc!
+Dialogue: 99,0:03:21.03,0:03:22.84,Dialogue,Female Student 6,0,0,0,,Ce se petrece?
+Dialogue: 99,0:03:23.13,0:03:25.85,Dialogue,Setsu,0,0,0,,{\i1}Aceste războaie ar fi trebuit \Nsă se sfârșească până acum.
+Dialogue: 99,0:03:27.84,0:03:31.02,Dialogue,Setsu,0,0,0,,{\i1}Acea magie... E cumva un blestem?!
+Dialogue: 99,0:03:31.64,0:03:36.11,Dialogue,Setsu,0,0,0,,{\i1}Această senzație... Nu e nicio \Nîndoială. Este cu siguranță...
+Dialogue: 99,0:03:37.17,0:03:38.60,Dialogue,Yuhi,0,0,0,,Yuki?
+Dialogue: 99,0:03:38.60,0:03:39.54,Dialogue,Elka,0,0,0,,Hei, voi!
+Dialogue: 99,0:03:41.03,0:03:42.45,Dialogue,Elka,0,0,0,,Ce căutați aici?
+Dialogue: 99,0:03:42.90,0:03:46.08,Dialogue,Elka,0,0,0,,Nu sunteți în siguranța \Naici. Plecați imediat!
+Dialogue: 99,0:03:48.39,0:03:51.86,Dialogue,Elka,0,0,0,,Cavalerii Regali vă vor \Nproteja. Haide, plecați!
+Dialogue: 99,0:03:51.86,0:03:52.83,Dialogue,Yuhi,0,0,0,,B-Bine!
+Dialogue: 99,0:03:53.48,0:03:54.69,Dialogue,Glein,0,0,0,,Bun. Să mergem!
+Dialogue: 99,0:03:55.20,0:03:58.76,Dialogue,Glein,0,0,0,,Cavaleri Regali, pregătiți-vă de luptă!
+Dialogue: 99,0:03:58.76,0:04:01.20,Dialogue,Glein,0,0,0,,Urmați-mă!
+Dialogue: 99,0:04:16.69,0:04:18.63,Dialogue,Yuhi,0,0,0,,S-Sunt puternici!
+Dialogue: 99,0:04:18.63,0:04:20.05,Dialogue,Setsu,0,0,0,,Da, fără îndoială.
+Dialogue: 99,0:04:20.52,0:04:22.76,Dialogue,Setsu,0,0,0,,Bun, haide să mergem, \NYuhi! Poți alerga?
+Dialogue: 99,0:04:22.76,0:04:24.45,Dialogue,Yuhi,0,0,0,,D-Da!
+Dialogue: 99,0:04:40.50,0:04:46.05,Dialogue,King,0,0,0,,Vă mulțumim că ați venit într-un moment critic cum este acesta, eroi străini!
+Dialogue: 99,0:04:46.72,0:04:51.43,Dialogue,King,0,0,0,,{\an8}Regatul nostru, Distinia, e invadat de demoni.
+Dialogue: 99,0:04:51.73,0:04:54.58,Dialogue,King,0,0,0,,La fel ca în războiul purtat acum cinci ani,
+Dialogue: 99,0:04:54.58,0:04:58.89,Dialogue,King,0,0,0,,a group of heroes has rushed to \Nour aid from a foreign world!
+Dialogue: 99,0:04:58.89,0:05:01.74,Dialogue,King,0,0,0,,Dacă asta nu e mâna destinului, \Natunci nu știu ce e.
+Dialogue: 99,0:05:01.74,0:05:03.40,Dialogue,Male Student A,0,0,0,,Ce vrea să spună prin „eroi”?
+Dialogue: 99,0:05:03.40,0:05:05.31,Dialogue,Male Student B,0,0,0,,La ce se referă prin „mâna destinului”?
+Dialogue: 99,0:05:06.68,0:05:10.07,Dialogue,Princess,0,0,0,,{\an8}I'm sure you are all confused \Nby this sudden turn of events,
+Dialogue: 99,0:05:10.07,0:05:15.46,Dialogue,Princess,0,0,0,,{\an8}but the fact is that a hero who came to \Nus from a foreign world five years ago
+Dialogue: 99,0:05:15.46,0:05:18.46,Dialogue,Princess,0,0,0,,{\an8}ended the war raging across our world,\N Eclaire, and brought peace.
+Dialogue: 99,0:05:18.46,0:05:21.04,Dialogue,Setsu,0,0,0,,{\i1}That was five years ago, huh?
+Dialogue: 99,0:05:23.65,0:05:27.32,Dialogue,Princess,0,0,0,,I know this alien world is confusing to you,
+Dialogue: 99,0:05:27.32,0:05:30.77,Dialogue,Princess,0,0,0,,but please understand that we \Ncannot see this as a coincidence.
+Dialogue: 99,0:05:31.33,0:05:34.98,Dialogue,Princess,0,0,0,,Could you please lend us aid?
+Dialogue: 99,0:05:35.40,0:05:40.17,Dialogue,Female Student 6,0,0,0,,Lend aid? I don't know how to fight.
+Dialogue: 99,0:05:40.17,0:05:43.69,Dialogue,Female Student 7,0,0,0,,But I don't want to get \Nthrown out of the castle...
+Dialogue: 99,0:05:43.69,0:05:47.30,Dialogue,Male Student D,0,0,0,,If we have to do it, I guess \Nit's better to stay here...
+Dialogue: 99,0:05:47.30,0:05:52.41,Dialogue,Male Student E,0,0,0,,Yeah, if we go outside and get attacked \Nagain, we'll definitely be done for.
+Dialogue: 99,0:05:53.95,0:05:57.12,Dialogue,Princess,0,0,0,,Thank you for your determination, everyone.
+Dialogue: 99,0:05:57.83,0:06:00.19,Dialogue,Princess,0,0,0,,We have prepared rooms for you.
+Dialogue: 99,0:06:01.07,0:06:04.04,Dialogue,Princess,0,0,0,,Please rest for today.
+Dialogue: 99,0:06:05.28,0:06:07.13,Dialogue,Students,0,0,0,,Ce se petrece?
+Dialogue: 99,0:06:08.26,0:06:09.68,Dialogue,Yuhi,0,0,0,,Yuki...
+Dialogue: 99,0:06:09.68,0:06:10.76,Dialogue,Setsu,0,0,0,,Nu-ți face griji.
+Dialogue: 99,0:06:11.55,0:06:13.97,Dialogue,Setsu,0,0,0,,I won't let any danger come to you.
+Dialogue: 99,0:06:17.48,0:06:18.33,Dialogue,Yuhi,0,0,0,,Bine.
+Dialogue: 99,0:06:28.41,0:06:30.85,Dialogue,Glein,0,0,0,,Don't let your swing waver, \Neven unconsciously!
+Dialogue: 99,0:06:31.32,0:06:33.78,Dialogue,Glein,0,0,0,,Make the proper form second nature!
+Dialogue: 99,0:06:34.35,0:06:36.81,Dialogue,Elka,0,0,0,,Magic is a manifestation \Nof your mental image.
+Dialogue: 99,0:06:42.37,0:06:45.25,Dialogue,Elka,0,0,0,,Try to create a solid image inside you.
+Dialogue: 99,0:06:47.65,0:06:48.72,Dialogue,Female Student 2,0,0,0,,Huh?
+Dialogue: 99,0:06:51.74,0:06:53.57,Dialogue,Yuhi,0,0,0,,I-I did it!
+Dialogue: 99,0:06:55.81,0:06:58.15,Dialogue,Setsu,0,0,0,,Yuhi has talent.
+Dialogue: 99,0:07:03.20,0:07:06.17,Dialogue,Elka,0,0,0,,Slacking off on your first day? \NThat's not very admirable.
+Dialogue: 99,0:07:06.17,0:07:08.03,Dialogue,Setsu,0,0,0,,Ack... Elka!
+Dialogue: 99,0:07:08.74,0:07:10.40,Dialogue,Elka,0,0,0,,We're going to war.
+Dialogue: 99,0:07:10.40,0:07:13.28,Dialogue,Elka,0,0,0,,Addressing your superior officer \Nlike that is not permissible.
+Dialogue: 99,0:07:13.28,0:07:17.51,Dialogue,Setsu,0,0,0,,Sheesh, who cares how I address you?
+Dialogue: 99,0:07:17.51,0:07:21.08,Dialogue,Setsu,0,0,0,,Why don't you add "-sama" to your name,\N if that's what you want?
+Dialogue: 99,0:07:22.92,0:07:26.00,Dialogue,Elka,0,0,0,,Your calm composure in an alien \Nenvironment is commendable,
+Dialogue: 99,0:07:26.00,0:07:29.62,Dialogue,Elka,0,0,0,,but your selfish attitude reminds \Nme of the hero from five years ago.
+Dialogue: 99,0:07:30.14,0:07:35.39,Dialogue,Elka,0,0,0,,Capricious, egotistical, and uncaring \Nof how the women around him felt...
+Dialogue: 99,0:07:35.69,0:07:40.11,Dialogue,Elka,0,0,0,,In any case, this world is more \Ndangerous than you might think.
+Dialogue: 99,0:07:40.11,0:07:41.84,Dialogue,Elka,0,0,0,,Return to your training,
+Dialogue: 99,0:07:42.83,0:07:45.69,Dialogue,Elka,0,0,0,,unless you want me to force you.
+Dialogue: 99,0:07:45.69,0:07:50.03,Dialogue,Setsu,0,0,0,,Sounds fun. I'd like to see you try.
+Dialogue: 99,0:07:50.85,0:07:56.74,Dialogue,Elka,0,0,0,,I see. I guess a little pain\N is needed as a lesson.
+Dialogue: 99,0:08:12.64,0:08:16.39,Dialogue,Elka,0,0,0,,Th-This impact... Could it be...
+Dialogue: 99,0:08:16.74,0:08:19.49,Dialogue,Setsu,0,0,0,,Remember me now?
+Dialogue: 99,0:08:19.49,0:08:21.33,Dialogue,Elka,0,0,0,,Se... Se...
+Dialogue: 99,0:08:23.17,0:08:25.49,Dialogue,Elka,0,0,0,,Setsu-sama!
+Dialogue: 99,0:08:25.49,0:08:28.97,Dialogue,Elka,0,0,0,,S-S-S-Setsu-sama! I-It's been such a long time!
+Dialogue: 99,0:08:28.97,0:08:33.31,Dialogue,Elka,0,0,0,,I've waited for this moment, \Nto see you again, for so long!
+Dialogue: 99,0:08:33.31,0:08:35.18,Dialogue,Setsu,0,0,0,,Er, yeah. Long time no see.
+Dialogue: 99,0:08:35.87,0:08:37.95,Dialogue,Setsu,0,0,0,,How long are you gonna stay like that?
+Dialogue: 99,0:08:37.95,0:08:40.94,Dialogue,Elka,0,0,0,,Oh! My apologies! Yes, the chair, right away!
+Dialogue: 99,0:08:40.94,0:08:42.58,Dialogue,Setsu,0,0,0,,No, I didn't ask for that...
+Dialogue: 99,0:08:43.32,0:08:46.22,Dialogue,Elka,0,0,0,,Ah, the weight of Setsu-sama!
+Dialogue: 99,0:08:46.22,0:08:48.67,Dialogue,Elka,0,0,0,,Oh, did you lose weight?
+Dialogue: 99,0:08:48.67,0:08:51.38,Dialogue,Setsu,0,0,0,,Yeah, this body is built differently \Nfrom the previous one.
+Dialogue: 99,0:08:52.23,0:08:55.68,Dialogue,Setsu,0,0,0,,You know, it's kind of creepy that you can tell.
+Dialogue: 99,0:08:55.68,0:09:00.46,Dialogue,Elka,0,0,0,,I only feel pleasure from servitude \Nwhen providing it to you!
+Dialogue: 99,0:09:00.46,0:09:02.85,Dialogue,Elka,0,0,0,,Oh, my master!
+Dialogue: 99,0:09:02.85,0:09:06.90,Dialogue,Setsu,0,0,0,,{\i1}Her masochism has only accelerated \Nsince the last time...
+Dialogue: 99,0:09:08.98,0:09:10.42,Dialogue,Glein,0,0,0,,What are you doing?
+Dialogue: 99,0:09:10.42,0:09:11.40,Dialogue,Elka,0,0,0,,Glein!
+Dialogue: 99,0:09:11.40,0:09:14.95,Dialogue,Elka,0,0,0,,It's Setsu-sama! Setsu-sama is back!
+Dialogue: 99,0:09:15.27,0:09:19.91,Dialogue,Glein,0,0,0,,Setsu-san? Wait, is that him?
+Dialogue: 99,0:09:20.85,0:09:24.11,Dialogue,Glein,0,0,0,,I guess it has to be, given Elka's state...
+Dialogue: 99,0:09:28.28,0:09:30.04,Dialogue,Glein,0,0,0,,Thea! Great news!
+Dialogue: 99,0:09:30.39,0:09:31.49,Dialogue,Glein,0,0,0,,{\an8}Listen—
+Dialogue: 99,0:09:30.39,0:09:34.21,Dialogue,Thea,0,0,0,,Welcome back, Setsu. \NIt's good to see you again.
+Dialogue: 99,0:09:36.64,0:09:40.32,Dialogue,Setsu,0,0,0,,I knew you'd catch on quick, Thea.
+Dialogue: 99,0:09:42.74,0:09:45.13,Dialogue,Thea,0,0,0,,Even with your new look,
+Dialogue: 99,0:09:45.13,0:09:48.27,Dialogue,Thea,0,0,0,,I would never mistake \Nyour magic power, Setsu.
+Dialogue: 99,0:09:48.27,0:09:53.32,Dialogue,Glein,0,0,0,,I see. Magic is not my strong suit. I'm sorry.
+Dialogue: 99,0:09:53.32,0:09:57.99,Dialogue,Elka,0,0,0,,I-I kinda sorta knew, too! I just wasn't sure!
+Dialogue: 99,0:09:58.97,0:10:00.66,Dialogue,Setsu,0,0,0,,Anyway...
+Dialogue: 99,0:10:01.61,0:10:03.49,Dialogue,Setsu,0,0,0,,I'm back, as promised.
+Dialogue: 99,0:10:06.92,0:10:08.12,Dialogue,Setsu,0,0,0,,I'm home.
+Dialogue: 99,0:10:10.55,0:10:12.54,Dialogue,Thea,0,0,0,,Welcome home, Setsu.
+Dialogue: 99,0:10:12.54,0:10:14.10,Dialogue,Elka,0,0,0,,I've been waiting for you.
+Dialogue: 99,0:10:14.10,0:10:15.96,Dialogue,Glein,0,0,0,,I had no doubt you were alive!
+Dialogue: 99,0:10:16.49,0:10:18.05,Dialogue,Setsu,0,0,0,,Damn right I am!
+Dialogue: 99,0:10:20.15,0:10:22.30,Dialogue,Setsu,0,0,0,,{\i1}I guess it's not a given, actually.
+Dialogue: 99,0:10:24.27,0:10:30.60,Dialogue,Setsu,0,0,0,,{\i1}They could have died in battle \Nwhile I was gone from this world.
+Dialogue: 99,0:10:31.85,0:10:33.19,Dialogue,Glein,0,0,0,,Is something wrong?
+Dialogue: 99,0:10:35.08,0:10:38.20,Dialogue,Thea,0,0,0,,The war with the demons, right?
+Dialogue: 99,0:10:42.59,0:10:46.45,Dialogue,Elka,0,0,0,,We have many questions \Nfor you, too, Setsu-sama.
+Dialogue: 99,0:10:47.73,0:10:49.36,Dialogue,Elka,0,0,0,,Let's go someplace else.
+Dialogue: 99,0:10:57.47,0:11:02.93,Dialogue,Elka,0,0,0,,So, how did you return \Nto our world, Setsu-sama?
+Dialogue: 99,0:11:03.37,0:11:06.99,Dialogue,Glein,0,0,0,,There's no doubt that you're Setsu-san,
+Dialogue: 99,0:11:06.99,0:11:09.64,Dialogue,Glein,0,0,0,,but why do you look so different?
+Dialogue: 99,0:11:09.64,0:11:14.91,Dialogue,Thea,0,0,0,,From our point of view, you simply \Ndisappeared after that battle.
+Dialogue: 99,0:11:18.71,0:11:22.09,Dialogue,Setsu,0,0,0,,To be honest, I don't know for sure, either.
+Dialogue: 99,0:11:28.73,0:11:30.37,Dialogue,Previous Setsu,0,0,0,,Toma!
+Dialogue: 99,0:11:30.37,0:11:32.08,Dialogue,Toma,0,0,0,,Setsu!
+Dialogue: 99,0:11:44.93,0:11:46.51,Dialogue,Setsu,0,0,0,,What I know for sure is that
+Dialogue: 99,0:11:47.43,0:11:51.39,Dialogue,Setsu,0,0,0,,I was reborn in a different world while \Nkeeping my memories and magic power,
+Dialogue: 99,0:11:52.52,0:11:55.52,Dialogue,Setsu,0,0,0,,then got summoned into this world again.
+Dialogue: 99,0:11:56.19,0:12:00.65,Dialogue,Thea,0,0,0,,We don't know how you were summoned \Nto our world from a different world.
+Dialogue: 99,0:12:01.02,0:12:05.84,Dialogue,Elka,0,0,0,,So, not to quote the princess,\N but this doesn't seem like a coincidence.
+Dialogue: 99,0:12:05.84,0:12:09.62,Dialogue,Glein,0,0,0,,The will of God is a mystery \Nto ordinary men like us.
+Dialogue: 99,0:12:09.62,0:12:12.16,Dialogue,Setsu,0,0,0,,Enough about me for now.
+Dialogue: 99,0:12:12.65,0:12:15.54,Dialogue,Setsu,0,0,0,,What happened to Toma after all that?
+Dialogue: 99,0:12:15.82,0:12:19.78,Dialogue,Setsu,0,0,0,,He could be behind this war, too, right?
+Dialogue: 99,0:12:20.55,0:12:24.55,Dialogue,Thea,0,0,0,,Are those demons being controlled by a curse?
+Dialogue: 99,0:12:25.51,0:12:30.09,Dialogue,Setsu,0,0,0,,Yeah, that feeling in their \Nmagic power... I'm certain.
+Dialogue: 99,0:12:30.61,0:12:32.06,Dialogue,Setsu,0,0,0,,It's a curse.
+Dialogue: 99,0:12:33.20,0:12:36.39,Dialogue,Setsu,0,0,0,,Toma's the only one who could \Ndo something like that.
+Dialogue: 99,0:12:36.39,0:12:40.69,Dialogue,Elka,0,0,0,,We searched for him, too, \Nlike we searched for you, but...
+Dialogue: 99,0:12:41.37,0:12:44.74,Dialogue,Glein,0,0,0,,We weren't able to find anything.
+Dialogue: 99,0:12:44.74,0:12:50.42,Dialogue,Thea,0,0,0,,But seeing as Setsu is alive, \NToma could be, too...
+Dialogue: 99,0:12:50.42,0:12:51.35,Dialogue,Messenger Soldier,0,0,0,,Glein-sama!
+Dialogue: 99,0:12:52.93,0:12:56.64,Dialogue,Messenger Soldier,0,0,0,,Glein-sama, the king requires \Nyour immediate presence.
+Dialogue: 99,0:12:56.64,0:12:58.74,Dialogue,Messenger Soldier,0,0,0,,Please come to the throne room.
+Dialogue: 99,0:13:00.20,0:13:01.42,Dialogue,Glein,0,0,0,,Well, you heard him.
+Dialogue: 99,0:13:01.42,0:13:04.30,Dialogue,Elka,0,0,0,,Yikes. Sounds like trouble.
+Dialogue: 99,0:13:04.30,0:13:06.13,Dialogue,Thea,0,0,0,,It's not hard to imagine what's up.
+Dialogue: 99,0:13:06.63,0:13:08.83,Dialogue,Glein,0,0,0,,I'll be off, then.
+Dialogue: 99,0:13:11.38,0:13:13.38,Dialogue,Setsu,0,0,0,,It's not easy being important.
+Dialogue: 99,0:13:13.38,0:13:16.14,Dialogue,Elka,0,0,0,,That was supposed to be your job, you know.
+Dialogue: 99,0:13:17.68,0:13:21.57,Dialogue,Setsu,0,0,0,,As if I'd ever accept a stuffy job like that.
+Dialogue: 99,0:13:22.30,0:13:26.98,Dialogue,Setsu,0,0,0,,My plan was to travel around \Nthis world after the war.
+Dialogue: 99,0:13:32.02,0:13:34.98,Dialogue,Elka,0,0,0,,I love this peaceful scenery.
+Dialogue: 99,0:13:34.98,0:13:39.20,Dialogue,Thea,0,0,0,,The peace that Setsu won for \Nus has to be maintained.
+Dialogue: 99,0:13:39.20,0:13:41.46,Dialogue,Setsu,0,0,0,,Yeah, you're right.
+Dialogue: 99,0:13:43.22,0:13:47.35,Dialogue,Setsu,0,0,0,,{\i1}Toma, what are you thinking?
+Dialogue: 99,0:13:49.03,0:13:52.72,Dialogue,King,0,0,0,,We should never have struck \Npeace with the demons!
+Dialogue: 99,0:13:53.02,0:13:57.98,Dialogue,King,0,0,0,,Our kingdom will now declare \Nall-out war on them!
+Dialogue: 99,0:14:00.92,0:14:02.47,Dialogue,Glein,0,0,0,,Please be patient, my king!
+Dialogue: 99,0:14:02.47,0:14:05.82,Dialogue,Glein,0,0,0,,The emissary we sent to the demonic \Ncontinent has not sent back word yet!
+Dialogue: 99,0:14:06.53,0:14:09.70,Dialogue,Glein,0,0,0,,We must first accurately \Nunderstand the situation.
+Dialogue: 99,0:14:11.42,0:14:14.94,Dialogue,Princess,0,0,0,,It's the demons who've begun an \Nunprovoked invasion against us.
+Dialogue: 99,0:14:15.41,0:14:22.38,Dialogue,Princess,0,0,0,,The new heroes being summoned at the same \Ntime is proof that justice is on our side.
+Dialogue: 99,0:14:25.16,0:14:25.90,Dialogue,King,0,0,0,,Hmph.
+Dialogue: 99,0:14:26.73,0:14:31.13,Dialogue,King,0,0,0,,We never should have listened to the \Nhero's cheap words five years ago
+Dialogue: 99,0:14:31.13,0:14:32.80,Dialogue,King,0,0,0,,and agreed to that peace charter.
+Dialogue: 99,0:14:33.14,0:14:39.69,Dialogue,King,0,0,0,,That hero going missing feels to me \Nlike God wants us to unify the world.
+Dialogue: 99,0:14:52.03,0:14:54.86,Dialogue,Yuhi,0,0,0,,Yes! Success!
+Dialogue: 99,0:14:54.86,0:14:56.50,Dialogue,Setsu,0,0,0,,Good job, Yuhi.
+Dialogue: 99,0:14:57.72,0:15:01.13,Dialogue,Yuhi,0,0,0,,Y-Yuki-kun?! You surprised me!
+Dialogue: 99,0:15:01.13,0:15:03.71,Dialogue,Yuhi,0,0,0,,Don't sneak up on me like that!
+Dialogue: 99,0:15:04.26,0:15:06.08,Dialogue,Setsu,0,0,0,,I saw your other attempt, as well.
+Dialogue: 99,0:15:06.08,0:15:08.75,Dialogue,Setsu,0,0,0,,You seem to have a knack for magic.
+Dialogue: 99,0:15:08.75,0:15:10.34,Dialogue,Yuhi,0,0,0,,You think so?
+Dialogue: 99,0:15:15.41,0:15:16.49,Dialogue,Setsu,0,0,0,,What's wrong?
+Dialogue: 99,0:15:17.84,0:15:22.12,Dialogue,Yuhi,0,0,0,,This is practice to hurt someone, isn't it?
+Dialogue: 99,0:15:23.12,0:15:24.35,Dialogue,Setsu,0,0,0,,Well...
+Dialogue: 99,0:15:25.33,0:15:28.66,Dialogue,Yuhi,0,0,0,,Why would anyone go to war?
+Dialogue: 99,0:15:28.66,0:15:29.53,Dialogue,Setsu,0,0,0,,Yuhi...
+Dialogue: 99,0:15:37.65,0:15:41.91,Dialogue,Yuhi,0,0,0,,But if I really have a talent for magic,
+Dialogue: 99,0:15:43.80,0:15:47.09,Dialogue,Yuhi,0,0,0,,I'll protect you, Yuki-kun.
+Dialogue: 99,0:15:47.47,0:15:48.51,Dialogue,Setsu,0,0,0,,Yuhi...
+Dialogue: 99,0:15:49.47,0:15:54.94,Dialogue,Setsu,0,0,0,,Yeah, just overthinking something \Nnever changes anything.
+Dialogue: 99,0:16:02.80,0:16:05.65,Dialogue,Elka,0,0,0,,There you are, Setsu-sama.
+Dialogue: 99,0:16:10.36,0:16:12.62,Dialogue,Glein,0,0,0,,I was able to buy us some time
+Dialogue: 99,0:16:12.62,0:16:14.95,Dialogue,Glein,0,0,0,,by saying the heroes need more training,
+Dialogue: 99,0:16:15.97,0:16:19.45,Dialogue,Glein,0,0,0,,but all-out war seems \Nunavoidable at this point.
+Dialogue: 99,0:16:19.81,0:16:21.17,Dialogue,Glein,0,0,0,,I'm sorry.
+Dialogue: 99,0:16:21.17,0:16:22.76,Dialogue,Setsu,0,0,0,,Oh, well.
+Dialogue: 99,0:16:30.39,0:16:35.22,Dialogue,Setsu,0,0,0,,Right, then. I guess I'll go out \Nand stop the war by myself again.
+Dialogue: 99,0:16:36.24,0:16:37.47,Dialogue,Elka,0,0,0,,Setsu-sama?
+Dialogue: 99,0:16:38.76,0:16:42.39,Dialogue,Setsu,0,0,0,,War is stupid. It has to be stopped.
+Dialogue: 99,0:16:42.39,0:16:45.44,Dialogue,Setsu,0,0,0,,Especially if Toma is behind it.
+Dialogue: 99,0:16:47.09,0:16:48.44,Dialogue,Thea,0,0,0,,Setsu...
+Dialogue: 99,0:16:48.86,0:16:53.99,Dialogue,Elka,0,0,0,,Then we will follow you, \Nas your personal guard!
+Dialogue: 99,0:16:53.99,0:16:57.18,Dialogue,Glein,0,0,0,,It would be great to fight \Nalongside you again.
+Dialogue: 99,0:16:57.18,0:17:02.36,Dialogue,Thea,0,0,0,,Researching magic is fun, \Nbut traveling together is more fun.
+Dialogue: 99,0:17:02.36,0:17:04.89,Dialogue,Setsu,0,0,0,,No. This time around, I'm going alone.
+Dialogue: 99,0:17:06.45,0:17:10.34,Dialogue,Setsu,0,0,0,,Given the situation, \Nyou can't all leave this place.
+Dialogue: 99,0:17:10.91,0:17:14.62,Dialogue,Setsu,0,0,0,,Besides, if Toma really is behind this,
+Dialogue: 99,0:17:14.62,0:17:17.47,Dialogue,Setsu,0,0,0,,there needs to be enough of a \Nfighting force staying here, as well.
+Dialogue: 99,0:17:17.47,0:17:18.55,Dialogue,Elka,0,0,0,,But...
+Dialogue: 99,0:17:19.04,0:17:21.64,Dialogue,Setsu,0,0,0,,If you're my personal guard, \Nyou'll listen, right?
+Dialogue: 99,0:17:23.66,0:17:28.69,Dialogue,Elka,0,0,0,,How can I turn down a request like that?
+Dialogue: 99,0:17:28.69,0:17:30.57,Dialogue,Thea,0,0,0,,Setsu is cruel.
+Dialogue: 99,0:17:31.03,0:17:36.91,Dialogue,Setsu,0,0,0,,Okay. Now I have to go and get what I need.
+Dialogue: 99,0:17:48.93,0:17:50.77,Dialogue,Setsu,0,0,0,,Why are there so many people?
+Dialogue: 99,0:17:50.77,0:17:53.90,Dialogue,Glein,0,0,0,,We're going to war. Everyone's preparing.
+Dialogue: 99,0:17:53.90,0:17:57.33,Dialogue,Elka,0,0,0,,Elka, I'm going in. Glein, cover me.
+Dialogue: 99,0:17:57.33,0:17:58.78,Dialogue,Glein,0,0,0,,Wait, Elka!
+Dialogue: 99,0:17:58.78,0:18:00.77,Dialogue,Glein,0,0,0,,{\an8}Let's do this peacefully!
+Dialogue: 99,0:17:59.71,0:18:03.90,Dialogue,Setsu,0,0,0,,Feels like going back to \Nour dungeon crawling days.
+Dialogue: 99,0:18:03.90,0:18:08.10,Dialogue,Thea,0,0,0,,Yeah. Most of the time, \NElka would dive in head-first and...
+Dialogue: 99,0:18:08.10,0:18:09.23,Dialogue,Elka,0,0,0,,Sorry!
+Dialogue: 99,0:18:11.93,0:18:14.03,Dialogue,Elka,0,0,0,,Oh, no, old habits...
+Dialogue: 99,0:18:14.56,0:18:16.78,Dialogue,Glein,0,0,0,,I said we should do this peacefully...
+Dialogue: 99,0:18:17.82,0:18:19.91,Dialogue,Setsu,0,0,0,,Well, as long as no one finds him.
+Dialogue: 99,0:18:19.91,0:18:21.78,Dialogue,Thea,0,0,0,,You think they won't?
+Dialogue: 99,0:18:21.78,0:18:23.33,Dialogue,Setsu,0,0,0,,It's a matter of time.
+Dialogue: 99,0:18:24.16,0:18:25.15,Dialogue,Elka,0,0,0,,It's open.
+Dialogue: 99,0:18:25.15,0:18:25.79,Dialogue,Setsu,0,0,0,,Good!
+Dialogue: 99,0:18:27.55,0:18:28.67,Dialogue,Yuhi,0,0,0,,Huh?
+Dialogue: 99,0:18:28.91,0:18:30.34,Dialogue,Yuhi,0,0,0,,Yuki-kun?
+Dialogue: 99,0:18:31.46,0:18:33.76,Dialogue,Female Classmate 4,0,0,0,,Yuhi, we're going without you!
+Dialogue: 99,0:18:33.76,0:18:35.13,Dialogue,Yuhi,0,0,0,,Oh, sorry!
+Dialogue: 99,0:18:46.55,0:18:48.81,Dialogue,Setsu,0,0,0,,Ah, here it is.
+Dialogue: 99,0:18:50.08,0:18:53.98,Dialogue,Setsu,0,0,0,,Long time no see to you, too, Kuromaru!
+Dialogue: 99,0:18:55.11,0:18:55.97,Dialogue,Royal Soldier A,0,0,0,,What?!
+Dialogue: 99,0:18:55.97,0:18:57.11,Dialogue,Royal Soldier B,0,0,0,,Hey, are you all right?!
+Dialogue: 99,0:18:57.45,0:18:59.30,Dialogue,Royal Soldier C,0,0,0,,Guards! Lock down the gates!
+Dialogue: 99,0:18:59.30,0:19:00.53,Dialogue,Royal Soldier D,0,0,0,,Don't let them escape!
+Dialogue: 99,0:19:02.46,0:19:04.73,Dialogue,Thea,0,0,0,,They must've found out.
+Dialogue: 99,0:19:05.62,0:19:08.54,Dialogue,Glein,0,0,0,,I'll buy us some time within the castle.
+Dialogue: 99,0:19:09.23,0:19:11.28,Dialogue,Thea,0,0,0,,I guess I have to help him.
+Dialogue: 99,0:19:11.28,0:19:14.33,Dialogue,Thea,0,0,0,,Elka, follow Setsu. You'll get in our way.
+Dialogue: 99,0:19:14.33,0:19:15.04,Dialogue,Elka,0,0,0,,Hey!
+Dialogue: 99,0:19:15.04,0:19:17.45,Dialogue,Setsu,0,0,0,,She's right and you know it. Come on.
+Dialogue: 99,0:19:17.45,0:19:19.05,Dialogue,Elka,0,0,0,,Oh, Setsu-sama!
+Dialogue: 99,0:19:19.05,0:19:22.34,Dialogue,Elka,0,0,0,,Please, don't be so forceful!
+Dialogue: 99,0:19:25.27,0:19:28.27,Dialogue,Setsu,0,0,0,,Good. Everything is ready.
+Dialogue: 99,0:19:28.79,0:19:34.16,Dialogue,Elka,0,0,0,,We'll try to buy as much time \Nas possible until you return.
+Dialogue: 99,0:19:34.16,0:19:35.32,Dialogue,Setsu,0,0,0,,I'm counting on you.
+Dialogue: 99,0:19:35.32,0:19:36.57,Dialogue,Yuhi,0,0,0,,Yuki-kun!
+Dialogue: 99,0:19:42.19,0:19:45.53,Dialogue,Yuhi,0,0,0,,Wh-Why? Where are you going?!
+Dialogue: 99,0:19:45.96,0:19:47.33,Dialogue,Elka,0,0,0,,Hanabashira-san...
+Dialogue: 99,0:19:47.33,0:19:50.48,Dialogue,Setsu,0,0,0,,No. It's all right, Elka.
+Dialogue: 99,0:19:52.66,0:19:57.00,Dialogue,Setsu,0,0,0,,To tell you the truth, this is actually the \Nsecond time I've been summoned to this world.
+Dialogue: 99,0:19:57.53,0:19:58.86,Dialogue,Yuhi,0,0,0,,Second time?
+Dialogue: 99,0:19:58.86,0:20:03.54,Dialogue,Setsu,0,0,0,,So, to stop this war, I'm going \Nto go meet an old acquaintance.
+Dialogue: 99,0:20:04.74,0:20:08.26,Dialogue,Yuhi,0,0,0,,If you're going somewhere, \NI'm going with you!
+Dialogue: 99,0:20:08.26,0:20:10.35,Dialogue,Yuhi,0,0,0,,I want to go with you!
+Dialogue: 99,0:20:10.74,0:20:15.28,Dialogue,Yuhi,0,0,0,,I promise I'll be useful! So please, I...
+Dialogue: 99,0:20:15.28,0:20:17.82,Dialogue,Setsu,0,0,0,,No. It's too dangerous for you, Yuhi.
+Dialogue: 99,0:20:18.36,0:20:22.78,Dialogue,Setsu,0,0,0,,Besides, this is something I have to do.
+Dialogue: 99,0:20:23.22,0:20:26.17,Dialogue,Yuhi,0,0,0,,Then that's all the more reason...
+Dialogue: 99,0:20:29.42,0:20:33.58,Dialogue,Setsu,0,0,0,,I'm going because I don't \Nwant to put you in danger.
+Dialogue: 99,0:20:34.16,0:20:35.29,Dialogue,Setsu,0,0,0,,You understand, don't you?
+Dialogue: 99,0:20:36.07,0:20:38.21,Dialogue,Yuhi,0,0,0,,Yuki-kun...
+Dialogue: 99,0:20:45.01,0:20:48.98,Dialogue,Yuhi,0,0,0,,Yeah, you're a kind person.
+Dialogue: 99,0:20:51.14,0:20:54.54,Dialogue,Yuhi,0,0,0,,Hey, close your eyes for a moment.
+Dialogue: 99,0:20:54.54,0:20:55.35,Dialogue,Setsu,0,0,0,,My eyes?
+Dialogue: 99,0:20:56.63,0:20:57.74,Dialogue,Setsu,0,0,0,,What for?
+Dialogue: 99,0:20:57.74,0:20:59.01,Dialogue,Yuhi,0,0,0,,Just do it.
+Dialogue: 99,0:21:00.07,0:21:01.32,Dialogue,Setsu,0,0,0,,Like this?
+Dialogue: 99,0:21:16.71,0:21:20.27,Dialogue,Setsu,0,0,0,,Wind magic and fire magic? Nice!
+Dialogue: 99,0:21:20.27,0:21:21.21,Dialogue,Yuhi,0,0,0,,I know, right?
+Dialogue: 99,0:21:21.88,0:21:25.63,Dialogue,Yuhi,0,0,0,,I'll do my best to get strong,
+Dialogue: 99,0:21:25.63,0:21:29.08,Dialogue,Yuhi,0,0,0,,so that I can protect you in this world, too!
+Dialogue: 99,0:21:30.60,0:21:31.35,Dialogue,Yuhi,0,0,0,,Ow!
+Dialogue: 99,0:21:31.83,0:21:32.93,Dialogue,Yuhi,0,0,0,,What was that for?!
+Dialogue: 99,0:21:33.71,0:21:37.27,Dialogue,Setsu,0,0,0,,If you can dodge that the next \Ntime I see you, you pass the test.
+Dialogue: 99,0:21:39.48,0:21:41.77,Dialogue,Setsu,0,0,0,,All right, I'm off!
+Dialogue: 99,0:21:42.03,0:21:42.84,Dialogue,Yuhi,0,0,0,,Right!
+Dialogue: 99,0:23:27.78,0:23:30.84,Dialogue,Setsu,0,0,0,,Data viitoare: {\i1}Pornind a \Ndoua oară într-o călătorie{\i0}.
 Dialogue: 0,0:04:35.25,0:04:39.96,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\bord4\3c&HFFFFFF&\alpha&HD0&\blur15\fad(800,0)\t(0,1200,0.6,\blur2)}Episodul 1
 Dialogue: 1,0:04:35.25,0:04:39.96,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\blur15\fad(800,0)\t(0,1200,0.6,\blur0.6)}Episodul 1
 Dialogue: 2,0:04:35.25,0:04:39.96,DedzuyaSigns,,0,0,0,,{\an2\pos(980,390)\fscx90\fscy90\fax-0.15\fnLinux Libertine Semibold\i1\alpha&HA0&\blur15\fad(800,0)\t(0,1200,0.6,\blur5)}Episodul 1

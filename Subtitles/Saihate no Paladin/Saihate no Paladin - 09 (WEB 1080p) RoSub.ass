@@ -39,404 +39,404 @@ Style: Shirushibi TL,Cardo,74,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:01.98,0:00:04.31,Dialogue,Bee,0,0,0,,Am ajuns în Pânzele Albe!
-Dialogue: 100,0:00:04.31,0:00:06.15,Dialogue,Menel,0,0,0,,Nu am mai fost aici de ceva timp.
-Dialogue: 100,0:00:06.57,0:00:07.49,Dialogue,Menel,0,0,0,,Will?
-Dialogue: 100,0:00:09.72,0:00:11.14,Dialogue,Will,0,0,0,,E uimitor...
-Dialogue: 100,0:01:44.97,0:01:47.60,Dialogue,Will,0,0,0,,Nu ești verificat la intrare?
-Dialogue: 100,0:01:47.60,0:01:48.92,Dialogue,Tonio,0,0,0,,Nu.
-Dialogue: 100,0:01:48.92,0:01:52.41,Dialogue,Tonio,0,0,0,,E politica conducătorului acestui oraș, Înălțimea Sa Ethel.
-Dialogue: 100,0:01:52.41,0:01:55.95,Dialogue,Tonio,0,500,0,,Bunurile ajung în mare parte cu barca în acest oraș,
-Dialogue: 100,0:01:55.95,0:02:00.30,Dialogue,Tonio,0,500,0,,și sunt distribuite pe întreg continentul și pe pământ, și pe apă.
-Dialogue: 100,0:02:00.30,0:02:04.28,Dialogue,Will,0,0,0,,Asta nu înseamnă cumva că o cantitate imensă de bunuri trec prin acest oraș?
-Dialogue: 100,0:02:04.28,0:02:06.84,Dialogue,Tonio,0,0,0,,Așa este, și dacă ar fi să le verifice pe toate la intrare,
-Dialogue: 100,0:02:06.84,0:02:09.81,Dialogue,Tonio,0,0,0,,ar deveni locul perfect pentru a fura oamenii și bunurile lor.
-Dialogue: 100,0:02:09.81,0:02:11.06,Dialogue,Will,0,0,0,,Înțeleg...
-Dialogue: 100,0:02:11.06,0:02:13.60,Dialogue,Tonio,0,0,0,,Deci Ethel a pus taxe de ancorare și taxe de închiriere
-Dialogue: 100,0:02:13.60,0:02:17.36,Dialogue,Tonio,0,0,0,,pentru companiile care-și deschid magazine aici ca să strângă bani pentru oraș,
-Dialogue: 100,0:02:17.36,0:02:21.70,Dialogue,Tonio,0,0,0,,păstrând mișcarea oamenilor și bunurilor cât se poate de liberă.
-Dialogue: 100,0:02:21.70,0:02:22.87,Dialogue,Will,0,0,0,,Oh...
-Dialogue: 100,0:02:23.30,0:02:26.94,Dialogue,Will,0,0,0,,{\i1}Se pare că economia e pe primul loc.
-Dialogue: 100,0:02:26.94,0:02:29.78,Dialogue,Will,0,0,0,,{\i1}E un oraș foarte avansat, \Ncare știe ce înseamnă libertatea.
-Dialogue: 100,0:02:30.37,0:02:33.10,Dialogue,Bee,0,0,0,,Gata cu discuția asta plictisitoare!
-Dialogue: 100,0:02:33.10,0:02:35.52,Dialogue,Bee,0,0,0,,Will vizitează pentru prima oară acest oraș! Trebuie să ne distrăm!
-Dialogue: 100,0:02:35.52,0:02:37.01,Dialogue,Bee,0,0,0,,Haide, pe aici!
-Dialogue: 100,0:02:39.43,0:02:42.90,Dialogue,Bee,0,0,0,,Will, asta e cea mai \Nmare piață din acest oraș.
-Dialogue: 100,0:02:42.90,0:02:44.88,Dialogue,Will,0,0,0,,Uau... Câți oameni...
-Dialogue: 100,0:02:44.88,0:02:46.27,Dialogue,Menel,0,0,0,,De ce ești surprins?
-Dialogue: 100,0:02:46.27,0:02:47.89,Dialogue,Bee,0,0,0,,Oh, acolo!
-Dialogue: 100,0:02:47.89,0:02:51.31,Dialogue,Bee,0,0,0,,Privește! Aceste accesorii sunt în vogă acum!
-Dialogue: 100,0:02:51.31,0:02:52.38,Dialogue,Will,0,0,0,,În vogă?
-Dialogue: 100,0:02:52.38,0:02:53.82,Dialogue,Bee,0,0,0,,Da!
-Dialogue: 100,0:02:53.82,0:02:55.89,Dialogue,Will,0,0,0,,{\i1}Aici există lucruri care sunt „în vogă”?!
-Dialogue: 100,0:02:54.24,0:02:55.89,Dialogue,Menel,0,0,0,,{\an8}Piatra asta chiar valorează mult?
-Dialogue: 100,0:02:55.89,0:02:58.11,Dialogue,Bee,0,0,0,,{\an8}Vai, Menel...
-Dialogue: 100,0:02:55.89,0:02:59.93,Dialogue,Will,0,0,0,,{\i1}Asta înseamnă că oameni de aici își permit să se gândească și la modă!
-Dialogue: 100,0:03:01.22,0:03:04.45,Dialogue,Will,0,0,0,,Acest loc mă uimește la fiecare pas.
-Dialogue: 100,0:03:05.60,0:03:06.70,Dialogue,Will,0,0,0,,Acela este...
-Dialogue: 100,0:03:06.70,0:03:08.17,Dialogue,Menel,0,0,0,,Un felinar.
-Dialogue: 100,0:03:08.17,0:03:09.06,Dialogue,Will,0,0,0,,Felinar?!
-Dialogue: 100,0:03:09.06,0:03:10.55,Dialogue,Bee,0,0,0,,Nu știi ce sunt?
-Dialogue: 100,0:03:10.55,0:03:12.78,Dialogue,Bee,0,0,0,,Vai, Will, ești atât de în urmă cu toate!
-Dialogue: 100,0:03:12.78,0:03:15.32,Dialogue,Bee,0,0,0,,Învățăcei de la Academia Înțelepților
-Dialogue: 100,0:03:15.32,0:03:17.84,Dialogue,Bee,0,0,0,,vin seara și aprind felinarele
-Dialogue: 100,0:03:17.84,0:03:21.09,Dialogue,Bee,0,0,0,,care au Cuvinte de \Nlumină gravate pe ele.
-Dialogue: 100,0:03:21.09,0:03:23.73,Dialogue,Bee,0,0,0,,Deci oamenii de aici au lumină chiar și noaptea!
-Dialogue: 100,0:03:23.73,0:03:26.23,Dialogue,Tonio,0,0,0,,E folosit drept antrenament pentru vrăjitorii învățăcei,
-Dialogue: 100,0:03:26.23,0:03:29.39,Dialogue,Tonio,0,0,0,,iar aceștia mai fac și niște bani de buzunar.
-Dialogue: 100,0:03:29.39,0:03:34.14,Dialogue,Tonio,0,0,0,,Și chestia aia de acolo mai e o sursă bună de venit pentru vrăjitorii învățăcei.
-Dialogue: 100,0:03:34.14,0:03:35.24,Dialogue,Will,0,0,0,,Ce este aia?
-Dialogue: 100,0:03:36.06,0:03:38.96,Dialogue,Bee,0,0,0,,Chiar și tu trebuie să știi ce este!
-Dialogue: 100,0:03:39.35,0:03:42.12,Dialogue,Bee,0,0,0,,E o baie publică, numită Balnea!
-Dialogue: 100,0:03:42.12,0:03:43.47,Dialogue,Will,0,0,0,,Balnea?
-Dialogue: 100,0:03:45.18,0:03:46.08,Dialogue,Menel,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:03:46.08,0:03:49.03,Dialogue,Will,0,0,0,,{\i1}O baie publică?! Au băi?!
-Dialogue: 100,0:03:50.79,0:03:53.71,Dialogue,Will,0,0,0,,Apa e așa de curată \Nîncât poți vedea prin ea.
-Dialogue: 100,0:03:53.71,0:03:57.13,Dialogue,Tonio,0,0,0,,Da, acesta e efectul \NCuvintelor purificării.
-Dialogue: 100,0:03:57.47,0:04:00.42,Dialogue,Tonio,0,0,0,,{\an8}În loc să folosească cantități imense de combustibil ca să încălzească băile,
-Dialogue: 100,0:04:00.42,0:04:02.67,Dialogue,Tonio,0,0,0,,{\an8}ei folosesc Cuvinte de căldură.
-Dialogue: 100,0:04:02.67,0:04:04.00,Dialogue,Will,0,0,0,,Înțeleg.
-Dialogue: 100,0:04:04.00,0:04:08.43,Dialogue,Will,0,0,0,,{\i1}Deci e mai mult ca o saună și o piscină cu apă rece decât ca o baie,
-Dialogue: 100,0:04:08.43,0:04:09.89,Dialogue,Will,0,0,0,,{\i1}dar tot e uimitor!
-Dialogue: 100,0:04:13.89,0:04:15.95,Dialogue,Will,0,0,0,,Briza e așa de plăcută.
-Dialogue: 100,0:04:16.28,0:04:20.55,Dialogue,Will,0,0,0,,{\i1}Am folosit Cuvinte de purificare ca să-mi mențin o igienă curată pe drum,
-Dialogue: 100,0:04:20.55,0:04:23.18,Dialogue,Will,0,0,0,,{\i1}dar e grozav să faci o baie adevărată.
-Dialogue: 100,0:04:23.78,0:04:26.71,Dialogue,Bee,0,0,0,,Vai, e așa de bine să faci \No baie după atâta timp.
-Dialogue: 100,0:04:26.71,0:04:27.87,Dialogue,Tonio,0,0,0,,Sunt sigur de asta.
-Dialogue: 100,0:04:27.87,0:04:30.68,Dialogue,Menel,0,0,0,,Sper doar ca lucrurile să nu devină complicate de acum.
-Dialogue: 100,0:04:31.13,0:04:32.66,Dialogue,Will,0,0,0,,Ce vom face acum?
-Dialogue: 100,0:04:33.60,0:04:35.34,Dialogue,Bee,0,0,0,,Acum urmează...
-Dialogue: 100,0:04:36.69,0:04:40.33,Dialogue,Bee,0,0,0,,Vai, mereu mi se face \Nfoame după o baie bună!
-Dialogue: 100,0:04:41.71,0:04:44.51,Dialogue,Bee,0,0,0,,Și voi sunteți lihniți, nu?
-Dialogue: 100,0:04:44.51,0:04:46.29,Dialogue,Tonio,0,0,0,,Mâncarea e destul de bună.
-Dialogue: 100,0:04:46.29,0:04:47.44,Dialogue,Bee,0,0,0,,Da.
-Dialogue: 100,0:04:47.44,0:04:50.64,Dialogue,Bee,0,0,0,,Totuși, cred că putea \Nfi puțin mai suculentă.
-Dialogue: 100,0:04:50.64,0:04:53.16,Dialogue,Will,0,0,0,,{\i1}A absorbit gustul peștelui atât de bine,
-Dialogue: 100,0:04:53.16,0:04:54.65,Dialogue,Will,0,0,0,,{\i1}iar sarea e fix cât trebuie.
-Dialogue: 100,0:04:54.90,0:04:57.77,Dialogue,Will,0,0,0,,{\i1}Nu am mai mâncat nimic atât de bun de când am plecat de la templu!
-Dialogue: 100,0:04:57.77,0:05:00.67,Dialogue,Will,0,0,0,,{\i1}Are gustul... civilizației!
-Dialogue: 100,0:05:02.87,0:05:04.29,Dialogue,Will,0,0,0,,Toate felurile sunt așa de bune
-Dialogue: 100,0:05:04.29,0:05:07.09,Dialogue,Will,0,0,0,,încât am uitat despre ce vorbeam.
-Dialogue: 100,0:05:10.29,0:05:11.61,Dialogue,Will,0,0,0,,Și asta e bună!
-Dialogue: 100,0:05:11.61,0:05:13.47,Dialogue,Menel,0,0,0,,Îmi mai puteți aduce una?
-Dialogue: 100,0:05:13.47,0:05:14.70,Dialogue,Will,0,0,0,,Și mie!
-Dialogue: 100,0:05:14.70,0:05:16.16,Dialogue,Server,0,0,0,,Imediat.
-Dialogue: 100,0:05:16.16,0:05:19.18,Dialogue,Tonio,0,0,0,,După ce terminăm de mâncat, vom merge la templu.
-Dialogue: 100,0:05:19.18,0:05:22.68,Dialogue,Tonio,0,0,0,,Din moment ce ești un preot, \Ntrebuie să treci pe acolo, nu-i așa, Will?
-Dialogue: 100,0:05:22.68,0:05:24.87,Dialogue,Will,0,0,0,,Oh... Da, așa este.
-Dialogue: 100,0:05:27.57,0:05:28.54,Dialogue,Menel,0,0,0,,Uau...
-Dialogue: 100,0:05:28.89,0:05:30.63,Dialogue,Menel,0,0,0,,Au băgat o grămadă de bani aici.
-Dialogue: 100,0:05:30.63,0:05:32.71,Dialogue,Bee,0,0,0,,Vai, Menel...
-Dialogue: 100,0:05:32.71,0:05:34.77,Dialogue,Will,0,0,0,,Mă voi întoarce imediat \Ncum am terminat.
-Dialogue: 100,0:05:34.77,0:05:36.38,Dialogue,Will,0,0,0,,Vă rog să mă așteptați aici puțin.
-Dialogue: 100,0:05:39.23,0:05:42.10,Dialogue,Will,0,0,0,,{\i1}Templele orașelor sunt mereu așa de mari?
-Dialogue: 100,0:05:42.10,0:05:45.07,Dialogue,Will,0,0,0,,{\i1}Toate par opere de artă.
-Dialogue: 100,0:05:45.07,0:05:47.35,Dialogue,Will,0,0,0,,{\i1}Seamănă mai mult cu o destinație turistică.
-Dialogue: 100,0:05:48.13,0:05:49.81,Dialogue,Will,0,0,0,,Oh, scuzați-mă.
-Dialogue: 100,0:05:49.81,0:05:51.64,Dialogue,Deacon,0,0,0,,Da, cu ce vă putem ajuta?
-Dialogue: 100,0:05:51.64,0:05:54.58,Dialogue,Will,0,0,0,,E cumva acum un preot de rang înalt aici?
-Dialogue: 100,0:05:54.58,0:05:57.46,Dialogue,Will,0,0,0,,Am primit protecția divină \Nși am devenit un preot,
-Dialogue: 100,0:05:57.46,0:05:59.02,Dialogue,Will,0,0,0,,deci am venit să mă prezint.
-Dialogue: 100,0:05:59.02,0:06:03.01,Dialogue,Deacon,0,0,0,,Ah... Scuză-mă că întreb, \Ndar în serviciul cărui zeu ești?
-Dialogue: 100,0:06:03.01,0:06:05.60,Dialogue,Will,0,0,0,,Gracefeel, Zeița Luminii.
-Dialogue: 100,0:06:06.03,0:06:09.81,Dialogue,Deacon,0,0,0,,Oh... Zeița Luminii? \NAsta e puțin problematic...
-Dialogue: 100,0:06:09.81,0:06:11.01,Dialogue,Will,0,0,0,,De ce?
-Dialogue: 100,0:06:11.01,0:06:13.23,Dialogue,Deacon,0,0,0,,Preoții Zeiței Luminii sunt destul de rari,
-Dialogue: 100,0:06:13.23,0:06:16.73,Dialogue,Deacon,0,0,0,,deci regulile îmi cer să folosesc Detectarea Credinței.
-Dialogue: 100,0:06:16.73,0:06:18.47,Dialogue,Will,0,0,0,,Bine, sunt în regulă cu asta.
-Dialogue: 100,0:06:18.82,0:06:20.58,Dialogue,Will,0,0,0,,{\i1}Bănuiesc că are sens.
-Dialogue: 100,0:06:20.58,0:06:23.08,Dialogue,Will,0,0,0,,{\i1}E ceva normal ca oamenii să se îndoiască
-Dialogue: 100,0:06:23.08,0:06:24.76,Dialogue,Will,0,0,0,,{\i1}de un preot al unui zeu mic.
-Dialogue: 100,0:06:24.76,0:06:27.53,Dialogue,Will,0,0,0,,{\i1}Aș putea fi, de fapt, \Npreotul unui zeu rău.
-Dialogue: 100,0:06:27.86,0:06:31.31,Dialogue,Deacon,0,0,0,,Chestia e că... toți cei \Ncare au protecția divină
-Dialogue: 100,0:06:31.31,0:06:34.94,Dialogue,Deacon,0,0,0,,care să le permită să determine credința altora nu sunt acum aici.
-Dialogue: 100,0:06:34.94,0:06:36.47,Dialogue,Will,0,0,0,,Sunt toți plecați?
-Dialogue: 100,0:06:36.47,0:06:41.37,Dialogue,Deacon,0,0,0,,Da. Atacurile bestiilor demonice s-au intensificat peste tot în ultima vreme.
-Dialogue: 100,0:06:41.37,0:06:44.96,Dialogue,Deacon,0,0,0,,Toți, cu excepția episcopului secund, \Nsunt foarte ocupați acum.
-Dialogue: 100,0:06:44.96,0:06:46.03,Dialogue,Will,0,0,0,,{\i1}Secund?
-Dialogue: 100,0:06:46.03,0:06:48.75,Dialogue,Bagley,0,0,0,,Ce faceți pe mijlocul culoarului?
-Dialogue: 100,0:06:48.75,0:06:50.29,Dialogue,Deacon,0,0,0,,Episcop Bagley!
-Dialogue: 100,0:06:50.55,0:06:52.76,Dialogue,Bagley,0,0,0,,V-am întrebat ce faceți!
-Dialogue: 100,0:06:52.76,0:06:54.79,Dialogue,Deacon,0,0,0,,Oh, ei bine... d-doar...
-Dialogue: 100,0:06:54.79,0:06:56.57,Dialogue,Will,0,0,0,,E o onoare să vă întâlnesc.
-Dialogue: 100,0:06:56.57,0:06:59.18,Dialogue,Will,0,0,0,,Eu sunt William G. Maryblood.
-Dialogue: 100,0:06:59.53,0:07:03.04,Dialogue,Will,0,0,0,,Am obținut protecția divină a Zeiței Luminii, Gracefeel,
-Dialogue: 100,0:07:03.04,0:07:06.43,Dialogue,Will,0,0,0,,și am venit la templul din Pânzele Albe ca să mă prezint.
-Dialogue: 100,0:07:07.77,0:07:08.73,Dialogue,Bagley,0,0,0,,Hm...
-Dialogue: 100,0:07:09.28,0:07:12.70,Dialogue,Bagley,0,0,0,,Bart Bagley. Eu sunt liderul acestui templu.
-Dialogue: 100,0:07:12.70,0:07:14.48,Dialogue,Bagley,0,0,0,,Gracefeel...
-Dialogue: 100,0:07:14.48,0:07:17.93,Dialogue,Bagley,0,0,0,,Zeița Luminii, o zeitate care a dispărut?
-Dialogue: 100,0:07:17.93,0:07:23.57,Dialogue,Bagley,0,0,0,,Și de unde știu că nu ești un individ suspicios care doar se folosește de numele ei ca să facă rele?
-Dialogue: 100,0:07:23.57,0:07:25.88,Dialogue,Will,0,0,0,,Aveți tot dreptul să fiți suspicios.
-Dialogue: 100,0:07:25.88,0:07:28.50,Dialogue,Will,0,0,0,,Există ceva ce aș putea binecuvânta ca să-mi dovedesc credința?
-Dialogue: 100,0:07:28.50,0:07:32.77,Dialogue,Bagley,0,0,0,,Hah! Voi, începătorii, mereu apelați imediat la protecția voastră divină!
-Dialogue: 100,0:07:33.22,0:07:38.11,Dialogue,Bagley,0,0,0,,Ascultă. Protecția divină nu trebuie folosită pentru orice lucru mărunt
-Dialogue: 100,0:07:38.11,0:07:40.47,Dialogue,Bagley,0,0,0,,și nici ca să impresionezi.
-Dialogue: 100,0:07:41.69,0:07:43.11,Dialogue,Will,0,0,0,,{\i1}Are dreptate.
-Dialogue: 100,0:07:43.11,0:07:46.04,Dialogue,Will,0,0,0,,{\i1\3c&HFFFFFF&\4c&HFFFFFF&\t(0,350,1,\3c&H471729&\4c&H000000&)}Gus a spus același lucru despre magie.
-Dialogue: 100,0:07:46.04,0:07:49.50,Dialogue,Will,0,0,0,,{\i1}Îmi foloseam binecuvântarea la orice, \Ndeoarece nu presupunea vreun risc major, dar...
-Dialogue: 100,0:07:50.36,0:07:52.31,Dialogue,Will,0,0,0,,Aveți completă dreptate.
-Dialogue: 100,0:07:52.31,0:07:55.34,Dialogue,Will,0,0,0,,Vă mulțumesc pentru că mi-ai arătat cât de neexperimentat sunt...
-Dialogue: 100,0:07:55.34,0:07:56.07,Dialogue,Bagley,0,0,0,,Hmpf!
-Dialogue: 100,0:07:56.07,0:07:59.44,Dialogue,Bagley,0,0,0,,Ce reprezintă învățăturile Zeiței Luminii pentru tine?
-Dialogue: 100,0:07:59.74,0:08:01.67,Dialogue,Will,0,0,0,,Lumina poate exista doar acolo unde este și întuneric,
-Dialogue: 100,0:08:01.67,0:08:03.73,Dialogue,Will,0,0,0,,cuvintele pot exista doar \Nacolo unde este și liniște,
-Dialogue: 100,0:08:03.73,0:08:06.46,Dialogue,Will,0,0,0,,iar viața poate exista doar acolo unde este și moarte.
-Dialogue: 100,0:08:08.47,0:08:12.33,Dialogue,Bagley,0,0,0,,Tu. Trece-i numele în registru și fă-i un tur al templului.
-Dialogue: 100,0:08:12.33,0:08:13.10,Dialogue,Deacon,0,0,0,,Ce?
-Dialogue: 100,0:08:13.10,0:08:17.10,Dialogue,Deacon,0,0,0,,Dar nu am folosit pe el Detectarea Credinței sau Detectarea Minciunii...
-Dialogue: 100,0:08:17.10,0:08:17.75,Dialogue,Bagley,0,0,0,,Neghiobule!
-Dialogue: 100,0:08:17.75,0:08:20.22,Dialogue,Bagley,0,0,0,,Ce ți-am zis să faci, prostule?!
-Dialogue: 100,0:08:20.51,0:08:24.85,Dialogue,Bagley,0,0,0,,Eu trebuie să fiu prezent la banchetul Breslei Croitorilor.
-Dialogue: 100,0:08:24.85,0:08:28.27,Dialogue,Bagley,0,0,0,,Petrece-ți timpul cum dorești, dar nu cauza probleme.
-Dialogue: 100,0:08:28.27,0:08:30.61,Dialogue,Bagley,0,0,0,,Și donează niște bani.
-Dialogue: 100,0:08:31.95,0:08:34.36,Dialogue,Deacon,0,0,0,,E-Ei bine, în acest caz, \Npe aici, te rog.
-Dialogue: 100,0:08:34.36,0:08:35.44,Dialogue,Will,0,0,0,,B-Bine.
-Dialogue: 100,0:08:36.40,0:08:40.91,Dialogue,Deacon,0,0,0,,Cred că a fost foarte neplăcut să-l întâlnești pe episcopul Bagley.
-Dialogue: 100,0:08:40.91,0:08:42.90,Dialogue,Deacon,0,0,0,,Dar te-ai descurcat destul de bine.
-Dialogue: 100,0:08:42.90,0:08:43.70,Dialogue,Will,0,0,0,,Ce?
-Dialogue: 100,0:08:43.70,0:08:47.84,Dialogue,Deacon,0,0,0,,Ei bine, liderul acestui templu se lasă în voia petrecerilor și a altor plăceri.
-Dialogue: 100,0:08:47.84,0:08:49.67,Dialogue,Deacon,0,0,0,,Se enervează repede \Nși se plânge mereu.
-Dialogue: 100,0:08:49.67,0:08:52.53,Dialogue,Deacon,0,0,0,,În ciuda a tot ce spune, \Nnu-și folosește niciodată binecuvântarea.
-Dialogue: 100,0:08:52.85,0:08:56.34,Dialogue,Deacon,0,0,0,,Episcopul secund, pe de altă parte, \Ne o persoană credincioasă și minunată.
-Dialogue: 100,0:08:56.34,0:08:56.92,Dialogue,Will,0,0,0,,Hei...
-Dialogue: 100,0:08:58.02,0:09:00.68,Dialogue,Deacon,0,0,0,,O, vai, scuze! Nu spune nimănui că am spus aceste lucruri!
-Dialogue: 100,0:09:00.68,0:09:01.66,Dialogue,Will,0,0,0,,Sigur...
-Dialogue: 100,0:09:02.76,0:09:05.68,Dialogue,Will,0,0,0,,Hei, ce știți despre liderul templului?
-Dialogue: 100,0:09:05.68,0:09:09.18,Dialogue,Bee,0,0,0,,Hm... Nu prea am auzit lucruri bune despre el.
-Dialogue: 100,0:09:09.18,0:09:10.72,Dialogue,Bee,0,0,0,,Am auzit că e vulgar.
-Dialogue: 100,0:09:10.72,0:09:12.90,Dialogue,Tonio,0,0,0,,He seems to have some \Nsort of influence behind-the-scenes
-Dialogue: 100,0:09:12.90,0:09:16.08,Dialogue,Tonio,0,0,0,,of the city's commercial and \Nindustrial guilds, as well.
-Dialogue: 100,0:09:16.31,0:09:18.52,Dialogue,Will,0,0,0,,Deci așa e văzut de ceilalți?
-Dialogue: 100,0:09:18.52,0:09:20.56,Dialogue,Bee,0,0,0,,Still, talk about living it up!
-Dialogue: 100,0:09:20.56,0:09:23.09,Dialogue,Bee,0,0,0,,Nu-mi vine să cred că ne-a lăsat să folosim camera de oaspeți a templului!
-Dialogue: 100,0:09:23.09,0:09:24.70,Dialogue,Bee,0,0,0,,Ba chiar două camere!
-Dialogue: 100,0:09:24.70,0:09:27.08,Dialogue,Tonio,0,0,0,,Oricum, ce ar trebui să facem acum?
-Dialogue: 100,0:09:27.08,0:09:30.25,Dialogue,Tonio,0,0,0,,We could take in the sights, \Nor visit some guilds...
-Dialogue: 100,0:09:30.25,0:09:33.19,Dialogue,Bee,0,0,0,,Oh, if we do that, I'd recommend the...
-Dialogue: 100,0:09:33.19,0:09:35.42,Dialogue,Will,0,0,0,,Hang on. Something's going on outside.
-Dialogue: 100,0:09:35.42,0:09:37.85,Dialogue,Bee,0,0,0,,That's not the bell that gives the time. \NThey're hammering it...
-Dialogue: 100,0:09:37.85,0:09:39.16,Dialogue,Bee,0,0,0,,Is there a fire or something?
-Dialogue: 100,0:09:39.16,0:09:41.42,Dialogue,Tonio,0,0,0,,It's an emergency alert.
-Dialogue: 100,0:09:41.76,0:09:44.11,Dialogue,Townie,0,0,0,,It's a wyvern! Everybody run!
-Dialogue: 100,0:09:44.11,0:09:45.00,Dialogue,Menel,0,0,0,,What?
-Dialogue: 100,0:10:01.43,0:10:03.57,Dialogue,KnightA,0,0,0,,Move! Be ready for anything!
-Dialogue: 100,0:10:03.57,0:10:06.28,Dialogue,ManA,0,0,0,,Someone come help us! \NA person's pinned under rubble!
-Dialogue: 100,0:10:06.28,0:10:07.92,Dialogue,InjuredB,0,0,0,,Au, au, au!
-Dialogue: 100,0:10:07.92,0:10:09.35,Dialogue,ManB,0,0,0,,Ce se petrece?!
-Dialogue: 100,0:10:08.30,0:10:10.08,Dialogue,Priest,0,0,0,,{\an8}Nu împingeți! Vă rugăm să nu împingeți!
-Dialogue: 100,0:10:10.08,0:10:11.95,Dialogue,WomanA,0,0,0,,Mi-a văzut cineva copilul?!
-Dialogue: 100,0:10:11.95,0:10:13.25,Dialogue,Old,0,0,0,,Oh, zeilor...
-Dialogue: 100,0:10:21.56,0:10:23.72,Dialogue,Menel,0,0,0,,Will, stai! Will!
-Dialogue: 100,0:10:30.20,0:10:31.93,Dialogue,Will,0,0,0,,{\i1}Ce caută un dragon aici?
-Dialogue: 100,0:10:33.93,0:10:34.95,Dialogue,KnightB,0,0,0,,Foc!
-Dialogue: 100,0:10:37.36,0:10:40.54,Dialogue,Will,0,0,0,,{\i1}He said all the high-ranking \Nclergy are out right now...
-Dialogue: 100,0:10:46.15,0:10:48.53,Dialogue,Will,0,0,0,,{\i1}Civilizația lor... Orașul lor...
-Dialogue: 100,0:10:48.95,0:10:51.23,Dialogue,Will,0,0,0,,{\i1}Tot ceea ce cei trei au protejat...
-Dialogue: 100,0:10:51.23,0:10:53.54,Dialogue,Will,0,0,0,,{\i1}Locul unde oamenii pot trăi liberi...
-Dialogue: 100,0:10:56.56,0:10:57.38,Dialogue,Will,0,0,0,,{\an8}Verba!
-Dialogue: 100,0:10:57.38,0:10:58.21,Dialogue,Will,0,0,0,,{\an8}Volanto!
-Dialogue: 100,0:10:58.21,0:10:59.40,Dialogue,Will,0,0,0,,{\an8}Tonitrus!
-Dialogue: 100,0:11:01.10,0:11:02.28,Dialogue,Will,0,0,0,,{\i1}It missed!
-Dialogue: 100,0:11:02.59,0:11:06.59,Dialogue,Will,0,0,0,,{\i1}But those are the longest-ranged \NWords I can use!
-Dialogue: 100,0:11:06.84,0:11:09.59,Dialogue,Will,0,0,0,,{\i1}Then I'll just have to keep \Nfiring until I hit it!
-Dialogue: 100,0:11:09.59,0:11:11.66,Dialogue,Menel,0,0,0,,Idiotule! Ce naiba faci?!
-Dialogue: 100,0:11:11.66,0:11:14.92,Dialogue,Menel,0,0,0,,Why are you shooting off high magic \Nlike that in a blind fury?!
-Dialogue: 100,0:11:14.92,0:11:16.07,Dialogue,Menel,0,0,0,,You'll get yourself killed!
-Dialogue: 100,0:11:16.07,0:11:16.72,Dialogue,Will,0,0,0,,Dar...
-Dialogue: 100,0:11:16.72,0:11:17.56,Dialogue,Menel,0,0,0,,Niciun dar!
-Dialogue: 100,0:11:17.56,0:11:21.11,Dialogue,Menel,0,0,0,,Te lupți cu un dragon! Îți spun doar că trebuie să fii mai eficient!
-Dialogue: 100,0:11:21.11,0:11:23.69,Dialogue,Menel,0,0,0,,Folosește-ți capul ca să gândești, prostule!
-Dialogue: 100,0:11:23.69,0:11:25.34,Dialogue,Menel,0,0,0,,Nu doar să sari cu el înainte!
-Dialogue: 100,0:11:25.70,0:11:31.03,Dialogue,Gus,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,350,1,\3c&H471729&\4c&H000000&)}You'll start by learning how to use \Nminor magic skillfully and accurately.
-Dialogue: 100,0:11:32.62,0:11:33.77,Dialogue,Will,0,0,0,,Am înțeles.
-Dialogue: 100,0:11:33.77,0:11:34.79,Dialogue,Menel,0,0,0,,Bun.
-Dialogue: 100,0:11:35.16,0:11:39.70,Dialogue,Will,0,0,0,,{\i1}Gândește. Ce pot face în legătură cu acest dragon cu informațiile pe care le știu deja?
-Dialogue: 100,0:11:41.31,0:11:43.44,Dialogue,Will,0,0,0,,Menel, îmi vei da o mână de ajutor?
-Dialogue: 100,0:11:43.44,0:11:45.46,Dialogue,Will,0,0,0,,Am nevoie de tine și de zânele tale.
-Dialogue: 100,0:11:45.46,0:11:46.19,Dialogue,Menel,0,0,0,,Sigur.
-Dialogue: 100,0:11:46.90,0:11:48.40,Dialogue,Will,0,0,0,,Bee, Tonio!
-Dialogue: 100,0:11:48.40,0:11:52.61,Dialogue,Will,0,0,0,,Colaborați cu oamenii din apropiere ca să-i scoateți pe toți din grădina din fața templului!
-Dialogue: 100,0:11:52.61,0:11:54.76,Dialogue,Will,0,0,0,,Acolo voi doborî dragonul!
-Dialogue: 100,0:11:54.76,0:11:55.69,Dialogue,Priest,0,0,0,,Înălțimea Voastră!
-Dialogue: 100,0:11:55.69,0:11:57.91,Dialogue,Priest,0,0,0,,Trebuie să vă adăpostiți, repede!
-Dialogue: 100,0:11:57.91,0:11:59.44,Dialogue,Ethelbald,0,0,0,,De ce se întâmplă una ca asta?
-Dialogue: 100,0:11:59.44,0:12:02.79,Dialogue,Ethelbald,0,0,0,,Zeci de oameni... \Nsute de oameni... vor muri.
-Dialogue: 100,0:12:04.36,0:12:05.94,Dialogue,Menel,0,0,0,,Și acum...
-Dialogue: 100,0:12:05.94,0:12:09.00,Dialogue,Menel,0,0,0,,Silfi, silfi, zâne ale vântului.
-Dialogue: 100,0:12:09.00,0:12:11.17,Dialogue,Menel,0,0,0,,Pașii voștri sunt pașii vântului.
-Dialogue: 100,0:12:11.17,0:12:13.02,Dialogue,Menel,0,0,0,,Cântecul vostru e cântecul vântului.
-Dialogue: 100,0:12:13.45,0:12:16.93,Dialogue,Menel,0,0,0,,Sing in chorus, sing in rounds, \Ncheer and applaud.
-Dialogue: 100,0:12:17.32,0:12:21.64,Dialogue,Menel,0,0,0,,Your harmony shall spread the Words \Nof Origin in the ten directions.
-Dialogue: 100,0:12:21.89,0:12:22.78,Dialogue,Will,0,0,0,,{\an8}Verba.
-Dialogue: 100,0:12:22.78,0:12:23.77,Dialogue,Will,0,0,0,,{\an8}Volanto.
-Dialogue: 100,0:12:23.77,0:12:24.83,Dialogue,Will,0,0,0,,{\an8}Conciliat.
-Dialogue: 100,0:12:24.83,0:12:25.63,Dialogue,Will,0,0,0,,{\an8}Sequitur.
-Dialogue: 100,0:12:25.89,0:12:26.87,Dialogue,Will,0,0,0,,{\an8}Tonitrus...
-Dialogue: 100,0:12:26.87,0:12:27.77,Dialogue,Will,0,0,0,,{\an8}Araneum!
-Dialogue: 100,0:12:37.82,0:12:40.14,Dialogue,KnightC,0,0,0,,Aia este... magie?
-Dialogue: 100,0:12:40.14,0:12:43.26,Dialogue,KnightD,0,0,0,,E și o persoană care poate folosi zâne acolo? Omule, chiar avem noroc!
-Dialogue: 100,0:12:43.26,0:12:45.52,Dialogue,KnightC,0,0,0,,We've got this! We can do it! Hurry!
-Dialogue: 100,0:12:50.29,0:12:52.38,Dialogue,Will,0,0,0,,{\i1}Probabil nu-l rănesc prea mult.
-Dialogue: 100,0:12:54.60,0:12:55.65,Dialogue,Will,0,0,0,,{\i1}Dar e în regulă.
-Dialogue: 100,0:12:56.06,0:12:58.62,Dialogue,Will,0,0,0,,{\i1}Cât timp dragonul ne \Nvede ca pe inamicii lui.
-Dialogue: 100,0:12:58.62,0:13:01.55,Dialogue,Will,0,0,0,,{\i1}Aproape toate bestiile de acest tip sunt foarte agresive.
-Dialogue: 100,0:13:01.55,0:13:03.65,Dialogue,Will,0,0,0,,{\i1}Chiar și în situații în care ar putea scăpa,
-Dialogue: 100,0:13:03.65,0:13:05.53,Dialogue,Will,0,0,0,,{\i1}vor alege să atace.
-Dialogue: 100,0:13:05.84,0:13:06.75,Dialogue,Menel,0,0,0,,Uite-l că vine.
-Dialogue: 100,0:13:06.75,0:13:07.39,Dialogue,Will,0,0,0,,Da.
-Dialogue: 100,0:13:09.23,0:13:14.47,Dialogue,Will,0,0,0,,{\i1}The rest depends on how close \Nmy skills have come to theirs.
-Dialogue: 100,0:13:14.91,0:13:18.44,Dialogue,Will,0,0,0,,{\i1}Goddess, I now fight for \Nthe sake of my oath.
-Dialogue: 100,0:13:18.44,0:13:21.76,Dialogue,Will,0,0,0,,{\i1}To banish evil and save the suffering.
-Dialogue: 100,0:13:21.76,0:13:23.85,Dialogue,Will,0,0,0,,{\i1}Pray! Pray!
-Dialogue: 100,0:13:23.85,0:13:25.86,Dialogue,Will,0,0,0,,{\i1}Be as unbreakable as adamantine!
-Dialogue: 100,0:13:25.86,0:13:28.46,Dialogue,Will,0,0,0,,{\i1}For eternity... For all eternity...
-Dialogue: 100,0:13:29.16,0:13:31.20,Dialogue,Will,0,0,0,,{\i1}Reject all that is evil!
-Dialogue: 100,0:13:31.20,0:13:33.78,Dialogue,Will,0,0,0,,On the flame of Gracefeel!
-Dialogue: 100,0:13:43.66,0:13:45.56,Dialogue,Townie,0,0,0,,What the heck is that?!
-Dialogue: 100,0:13:51.31,0:13:54.82,Dialogue,Menel,0,0,0,,Sylphs! Beautiful maidens of \Nwind, dancers in the gale!
-Dialogue: 100,0:13:54.82,0:13:57.81,Dialogue,Menel,0,0,0,,Show those foolish enough to fancy themselves
-Dialogue: 100,0:13:57.81,0:14:00.10,Dialogue,Menel,0,0,0,,better dancers the bitter taste of earth!
-Dialogue: 100,0:14:05.28,0:14:06.31,Dialogue,Will,0,0,0,,{\an8}Ligatur!
-Dialogue: 100,0:14:06.31,0:14:07.03,Dialogue,Will,0,0,0,,{\an8}Nodus!
-Dialogue: 100,0:14:07.03,0:14:08.47,Dialogue,Will,0,0,0,,{\an8}Obligatio!
-Dialogue: 100,0:14:11.00,0:14:12.13,Dialogue,KnightE,0,0,0,,It's bound!
-Dialogue: 100,0:14:12.13,0:14:15.30,Dialogue,KnightD,0,0,0,,No, it's trying to tear them off! \NDamn, it's strong!
-Dialogue: 100,0:14:15.90,0:14:17.21,Dialogue,Will,0,0,0,,{\an8}Acceleratio!
-Dialogue: 100,0:14:20.79,0:14:22.00,Dialogue,Townfolk,0,0,0,,All right!
-Dialogue: 100,0:14:25.29,0:14:26.59,Dialogue,Bee,0,0,0,,No way...
-Dialogue: 100,0:14:26.91,0:14:28.47,Dialogue,Will,0,0,0,,{\i1}That didn't finish it off?!
-Dialogue: 100,0:14:29.42,0:14:31.38,Dialogue,Bee,0,0,0,,Run! It's gonna use its breath!
-Dialogue: 100,0:14:31.70,0:14:33.52,Dialogue,Will,0,0,0,,{\i1}There are still people back there.
-Dialogue: 100,0:14:33.52,0:14:35.89,Dialogue,Will,0,0,0,,{\i1}What do I do? What can I do?!
-Dialogue: 100,0:14:38.44,0:14:39.40,Dialogue,Blood,0,0,0,,Get 'em!
-Dialogue: 100,0:14:40.00,0:14:41.22,Dialogue,Will,0,0,0,,{\an8}Acceleratio!
-Dialogue: 100,0:14:44.61,0:14:46.44,Dialogue,Blood,0,0,0,,{\i1}If you don't know, use your muscles!
-Dialogue: 100,0:14:46.44,0:14:48.99,Dialogue,Blood,0,0,0,,{\i1}Be violent! Get 'em!
-Dialogue: 100,0:14:56.74,0:14:57.87,Dialogue,Priest,0,0,0,,A n-neck throw?!
-Dialogue: 100,0:15:01.88,0:15:03.53,Dialogue,Will,0,0,0,,You're not getting away!
-Dialogue: 100,0:15:06.62,0:15:11.56,Dialogue,Will,0,0,0,,Your fangs and claws will harm no one!
-Dialogue: 100,0:15:29.78,0:15:32.15,Dialogue,Tonio,0,0,0,,Well done! Excellent work!
-Dialogue: 100,0:15:32.15,0:15:38.16,Dialogue,Tonio,0,0,0,,I give thanks to all the gods for allowing \Nme to serve a hero such as you!
-Dialogue: 100,0:15:38.16,0:15:42.79,Dialogue,Bee,0,0,0,,It's the birth of a new Wyvern Killer! \NA brand new hero!
-Dialogue: 100,0:15:42.79,0:15:45.42,Dialogue,Bee,0,0,0,,Sing his praises with your applause!
-Dialogue: 100,0:15:49.62,0:15:50.63,Dialogue,People,0,0,0,,Thank you!
-Dialogue: 100,0:15:51.05,0:15:51.96,Dialogue,People,0,0,0,,Thank you!
-Dialogue: 100,0:15:52.55,0:15:53.96,Dialogue,People,0,0,0,,Thank you!
-Dialogue: 100,0:15:57.69,0:15:59.63,Dialogue,KnightD,0,0,0,,I guess we were too late, huh?
-Dialogue: 100,0:16:00.22,0:16:02.77,Dialogue,KnightC,0,0,0,,Still, I had no idea so many magic users
-Dialogue: 100,0:16:02.77,0:16:05.98,Dialogue,KnightC,0,0,0,,and a warrior strong enough to \Nkill a wyvern were staying here!
-Dialogue: 100,0:16:05.98,0:16:08.03,Dialogue,KnightC,0,0,0,,It is truly divine providence!
-Dialogue: 100,0:16:15.34,0:16:18.05,Dialogue,Menel,0,0,0,,I guess anything goes with you, huh?
-Dialogue: 100,0:16:18.05,0:16:19.21,Dialogue,Will,0,0,0,,You're surprised?
-Dialogue: 100,0:16:19.21,0:16:21.18,Dialogue,Menel,0,0,0,,I'm used to the way you defy logic.
-Dialogue: 100,0:16:22.94,0:16:26.31,Dialogue,Will,0,0,0,,Well, I was reminded of \Nhow inexperienced I am.
-Dialogue: 100,0:16:26.31,0:16:26.80,Dialogue,Menel,0,0,0,,Huh?
-Dialogue: 100,0:16:26.80,0:16:29.00,Dialogue,Will,0,0,0,,It was great for a first attempt,
-Dialogue: 100,0:16:29.00,0:16:31.18,Dialogue,Will,0,0,0,,but I was just lucky to \Nland a surprise attack.
-Dialogue: 100,0:16:31.18,0:16:34.33,Dialogue,Will,0,0,0,,And what was that black miasma around it?
-Dialogue: 100,0:16:34.33,0:16:35.00,Dialogue,Menel,0,0,0,,Hey!
-Dialogue: 100,0:16:35.00,0:16:36.85,Dialogue,Menel,0,0,0,,You brought down a real monster!
-Dialogue: 100,0:16:36.85,0:16:39.13,Dialogue,Menel,0,0,0,,Critique yourself all you want, \Nbut at least be a little bit happy.
-Dialogue: 100,0:16:39.13,0:16:41.43,Dialogue,Menel,0,0,0,,It's hard for me to be happy if you're not.
-Dialogue: 100,0:16:41.86,0:16:42.69,Dialogue,Will,0,0,0,,Okay.
-Dialogue: 100,0:16:43.35,0:16:44.97,Dialogue,Will,0,0,0,,{\i1}When he puts it that way...
-Dialogue: 100,0:16:44.97,0:16:46.84,Dialogue,Will,0,0,0,,{\i1}There's a lot I could've done better,
-Dialogue: 100,0:16:46.84,0:16:49.52,Dialogue,Will,0,0,0,,{\i1}but now I'm a Wyvern Killer \Nlike the three of them.
-Dialogue: 100,0:16:49.91,0:16:51.97,Dialogue,Will,0,0,0,,{\i1}That makes me happy.
-Dialogue: 100,0:16:52.19,0:16:53.88,Dialogue,Will,0,0,0,,Yeah... Yeah.
-Dialogue: 100,0:16:53.88,0:16:56.94,Dialogue,Will,0,0,0,,Thanks, Menel! I owe it all to you!
-Dialogue: 100,0:16:56.94,0:16:58.79,Dialogue,Menel,0,0,0,,Yeah. We did it, man.
-Dialogue: 100,0:17:00.28,0:17:04.17,Dialogue,Menel,0,0,0,,Also, you know damn well it was \Nnearly all your doing, idiot!
-Dialogue: 100,0:17:05.87,0:17:07.37,Dialogue,Priest,0,0,0,,Wyvern Killer!
-Dialogue: 100,0:17:08.19,0:17:10.48,Dialogue,Will,0,0,0,,Yes, that's me! What can I do for you?
-Dialogue: 100,0:17:10.48,0:17:12.38,Dialogue,Priest,0,0,0,,Please come with me, quickly!
-Dialogue: 100,0:17:12.38,0:17:13.79,Dialogue,Will,0,0,0,,Uh...
-Dialogue: 100,0:17:13.79,0:17:17.60,Dialogue,Priest,0,0,0,,The crown prince wishes to see you.
-Dialogue: 100,0:17:18.72,0:17:22.24,Dialogue,Ethelbald,0,0,0,,Welcome to my mansion, hero.
-Dialogue: 100,0:17:22.59,0:17:27.73,Dialogue,Will,0,0,0,,{\i1}So this is the crown prince of the \NFertile Kingdom, the lord of Whitesails,
-Dialogue: 100,0:17:27.73,0:17:29.80,Dialogue,Will,0,0,0,,{\i1}and the ruler of Southmark...
-Dialogue: 100,0:17:31.40,0:17:35.73,Dialogue,Will,0,0,0,,It is a greater honor than I deserve \Nto stand in Your Highness's presence.
-Dialogue: 100,0:17:35.73,0:17:38.63,Dialogue,Will,0,0,0,,I have come here per your request.
-Dialogue: 100,0:17:38.63,0:17:41.02,Dialogue,Will,0,0,0,,My name is William G. Maryblood.
-Dialogue: 100,0:17:41.02,0:17:44.29,Dialogue,Ethelbald,0,0,0,,Oh? You are well-versed \Nin the old etiquette.
-Dialogue: 100,0:17:44.29,0:17:46.37,Dialogue,Ethelbald,0,0,0,,I assume you are of high birth?
-Dialogue: 100,0:17:46.37,0:17:48.18,Dialogue,Will,0,0,0,,No, um...
-Dialogue: 100,0:17:48.18,0:17:51.33,Dialogue,Will,0,0,0,,If Your Highness could please refrain \Nfrom asking about my origins...
-Dialogue: 100,0:17:52.37,0:17:55.47,Dialogue,Ethelbald,0,0,0,,You have your circumstances, then. \NI understand.
-Dialogue: 100,0:17:57.66,0:17:59.40,Dialogue,Ethelbald,0,0,0,,Please, have a seat.
-Dialogue: 100,0:17:59.40,0:18:00.29,Dialogue,Will,0,0,0,,Thank you.
-Dialogue: 100,0:18:14.28,0:18:18.12,Dialogue,Ethelbald,0,0,0,,William, there are four or five \Nin your group, are there not?
-Dialogue: 100,0:18:18.12,0:18:19.66,Dialogue,Will,0,0,0,,Yes, four of us.
-Dialogue: 100,0:18:19.66,0:18:23.99,Dialogue,Ethelbald,0,0,0,,Which makes you a magic user, a priest, \Na fairy user, and a warrior?
-Dialogue: 100,0:18:23.99,0:18:24.66,Dialogue,Will,0,0,0,,Huh?
-Dialogue: 100,0:18:26.24,0:18:31.06,Dialogue,Will,0,0,0,,A traveling priest, hunter, \Nmerchant, and bard, actually.
-Dialogue: 100,0:18:32.01,0:18:35.78,Dialogue,Ethelbald,0,0,0,,One who shot lightning at the wyvern, \None who made a wall of light,
-Dialogue: 100,0:18:35.78,0:18:39.39,Dialogue,Ethelbald,0,0,0,,one who controlled air currents, \Nand one who broke its neck.
-Dialogue: 100,0:18:39.39,0:18:40.64,Dialogue,Ethelbald,0,0,0,,That makes four, no?
-Dialogue: 100,0:18:40.64,0:18:44.55,Dialogue,Will,0,0,0,,If that makes four people, \Nit is indeed correct we are two of them.
-Dialogue: 100,0:18:45.25,0:18:46.54,Dialogue,Ethelbald,0,0,0,,What does that mean?
-Dialogue: 100,0:18:46.54,0:18:48.82,Dialogue,Will,0,0,0,,My friend there, Meneldor, \Ncalled the fairies,
-Dialogue: 100,0:18:48.82,0:18:51.56,Dialogue,Will,0,0,0,,spread Words, \Nand manipulated the air currents
-Dialogue: 100,0:18:51.56,0:18:54.93,Dialogue,Will,0,0,0,,to bring the wyvern down to the ground.
-Dialogue: 100,0:18:54.93,0:18:58.05,Dialogue,Ethelbald,0,0,0,,So he is the fairy user, then?
-Dialogue: 100,0:18:58.05,0:18:59.03,Dialogue,Ethelbald,0,0,0,,And the rest?
-Dialogue: 100,0:18:59.03,0:19:00.66,Dialogue,Will,0,0,0,,Was me.
-Dialogue: 100,0:19:03.03,0:19:06.79,Dialogue,Ethelbald,0,0,0,,I'm sorry, but would you mind \Ntelling me what you did?
-Dialogue: 100,0:19:09.60,0:19:12.87,Dialogue,Will,0,0,0,,I used brute force to break its neck.
-Dialogue: 100,0:19:12.87,0:19:15.79,Dialogue,Ethelbald,0,0,0,,You kill a wyvern and feel no pride?
-Dialogue: 100,0:19:15.79,0:19:18.38,Dialogue,Ethelbald,0,0,0,,You really are a warrior \Nof unparalleled bravery.
-Dialogue: 100,0:19:18.38,0:19:19.45,Dialogue,Will,0,0,0,,Uh...
-Dialogue: 100,0:19:20.33,0:19:23.42,Dialogue,Will,0,0,0,,Does anything need to be done to fix \Nthe damage that the wyvern caused?
-Dialogue: 100,0:19:23.74,0:19:27.05,Dialogue,Ethelbald,0,0,0,,Of course, work has already been \Ndone, and more is yet to come.
-Dialogue: 100,0:19:27.31,0:19:30.76,Dialogue,Ethelbald,0,0,0,,But there is something more \Nimportant that must be done.
-Dialogue: 100,0:19:30.99,0:19:35.42,Dialogue,Ethelbald,0,0,0,,Yes. Offering my thanks to \Nthe hero, for example.
-Dialogue: 100,0:19:35.42,0:19:36.78,Dialogue,Will,0,0,0,,No, I—
-Dialogue: 100,0:19:36.78,0:19:38.52,Dialogue,Ethelbald,0,0,0,,Do not be modest.
-Dialogue: 100,0:19:38.52,0:19:41.82,Dialogue,Ethelbald,0,0,0,,I do not want my people to see \Nme as an ungrateful man.
-Dialogue: 100,0:19:42.89,0:19:48.51,Dialogue,Ethelbald,0,0,0,,I, Ethelbald, thank you both on behalf \Nof the people of Whitesails.
-Dialogue: 100,0:19:49.15,0:19:53.96,Dialogue,Ethelbald,0,0,0,,You did well to minimize the damage \Ncaused by a wyvern's surprise attack.
-Dialogue: 100,0:19:53.96,0:19:56.62,Dialogue,Will,0,0,0,,I am unworthy of such praise.
-Dialogue: 100,0:19:57.46,0:20:01.55,Dialogue,Ethelbald,0,0,0,,I would like to give you a reward. \NIs there anything you want?
-Dialogue: 100,0:20:03.90,0:20:08.73,Dialogue,Will,0,0,0,,I traveled here today via \NBeast Woods to the south.
-Dialogue: 100,0:20:09.09,0:20:11.48,Dialogue,Will,0,0,0,,The villages in that area \Nare currently under threat
-Dialogue: 100,0:20:11.48,0:20:15.39,Dialogue,Will,0,0,0,,by an army of demons commanding \Nsavage demon beasts.
-Dialogue: 100,0:20:17.90,0:20:19.22,Dialogue,Will,0,0,0,,Um, if I may ask...
-Dialogue: 100,0:20:19.48,0:20:21.73,Dialogue,Will,0,0,0,,Would it be possible for Your Highness
-Dialogue: 100,0:20:21.73,0:20:24.89,Dialogue,Will,0,0,0,,to send soldiers to hunt down the demons?
-Dialogue: 100,0:20:24.89,0:20:26.69,Dialogue,Ethelbald,0,0,0,,It's not impossible,
-Dialogue: 100,0:20:26.69,0:20:28.50,Dialogue,Ethelbald,0,0,0,,but it would be difficult.
-Dialogue: 100,0:20:28.50,0:20:30.50,Dialogue,Ethelbald,0,0,0,,You saw that wyvern.
-Dialogue: 100,0:20:30.50,0:20:32.74,Dialogue,Ethelbald,0,0,0,,Demon beasts much like it have \Nbeen causing frequent incidents
-Dialogue: 100,0:20:32.74,0:20:35.33,Dialogue,Ethelbald,0,0,0,,within the parts of \NSouthmark that I govern.
-Dialogue: 100,0:20:35.33,0:20:36.70,Dialogue,Will,0,0,0,,You mean...
-Dialogue: 100,0:20:36.70,0:20:39.29,Dialogue,Ethelbald,0,0,0,,Yes. It's that toxic miasma.
-Dialogue: 100,0:20:39.73,0:20:42.71,Dialogue,Ethelbald,0,0,0,,Any being it touches is corrupted \Nby the poison and turns savage.
-Dialogue: 100,0:20:43.23,0:20:45.80,Dialogue,Ethelbald,0,0,0,,Are you certain you are \Nwell yourself, William?
-Dialogue: 100,0:20:46.13,0:20:48.38,Dialogue,Will,0,0,0,,I am naturally resistant to poisons.
-Dialogue: 100,0:20:48.38,0:20:50.02,Dialogue,Ethelbald,0,0,0,,That is good to hear.
-Dialogue: 100,0:20:50.50,0:20:52.31,Dialogue,Ethelbald,0,0,0,,Under the previous king's policies,
-Dialogue: 100,0:20:52.31,0:20:54.39,Dialogue,Ethelbald,0,0,0,,we expanded our domain too much.
-Dialogue: 100,0:20:54.39,0:20:59.27,Dialogue,Ethelbald,0,0,0,,We cannot even sufficiently protect \Nthe villages we directly govern.
-Dialogue: 100,0:20:59.58,0:21:01.68,Dialogue,Ethelbald,0,0,0,,Do you understand my meaning?
-Dialogue: 100,0:21:04.27,0:21:07.15,Dialogue,Will,0,0,0,,Then... would you give me permission
-Dialogue: 100,0:21:07.15,0:21:09.36,Dialogue,Will,0,0,0,,to hire adventurers and \Nmercenaries with my own money
-Dialogue: 100,0:21:09.36,0:21:12.03,Dialogue,Will,0,0,0,,and organize an army to \Ndrive out the demons?
-Dialogue: 100,0:21:14.05,0:21:19.08,Dialogue,Ethelbald,0,0,0,,William, do you realize \Nwhat that would mean?
-Dialogue: 100,0:21:19.08,0:21:23.52,Dialogue,Will,0,0,0,,I understand that I am asking \Na great deal of you.
-Dialogue: 100,0:21:23.52,0:21:25.67,Dialogue,Ethelbald,0,0,0,,Yet you stand by your request?
-Dialogue: 100,0:21:26.02,0:21:26.77,Dialogue,Will,0,0,0,,Yes.
-Dialogue: 100,0:21:27.29,0:21:28.82,Dialogue,Will,0,0,0,,If I do not,
-Dialogue: 100,0:21:28.82,0:21:32.82,Dialogue,Will,0,0,0,,how many tragedies would we be \Nforced to simply overlook?
-Dialogue: 100,0:21:32.82,0:21:37.68,Dialogue,Ethelbald,0,0,0,,But to save everyone is a task \Nnot even the gods can achieve.
-Dialogue: 100,0:21:42.56,0:21:44.18,Dialogue,Ethelbald,0,0,0,,Honestly...
-Dialogue: 100,0:21:44.18,0:21:48.54,Dialogue,Ethelbald,0,0,0,,If only you were some nameless man \Nmaking this request of me...
-Dialogue: 100,0:21:48.54,0:21:49.94,Dialogue,Will,0,0,0,,Aveți dreptate.
-Dialogue: 100,0:21:49.94,0:21:52.58,Dialogue,Will,0,0,0,,That said, had I not killed the wyvern,
-Dialogue: 100,0:21:52.58,0:21:55.09,Dialogue,Will,0,0,0,,I may never have had the opportunity \Nto speak with Your Highness.
-Dialogue: 100,0:21:55.09,0:21:56.97,Dialogue,Ethelbald,0,0,0,,Asta așa este.
-Dialogue: 100,0:21:57.30,0:21:58.25,Dialogue,Ethelbald,0,0,0,,Dar...
-Dialogue: 100,0:21:59.07,0:22:03.03,Dialogue,Ethelbald,0,0,0,,Trebuie să iau în considerare \Nvarianta de a te ucide.
+Dialogue: 99,0:00:01.98,0:00:04.31,Dialogue,Bee,0,0,0,,Am ajuns în Pânzele Albe!
+Dialogue: 99,0:00:04.31,0:00:06.15,Dialogue,Menel,0,0,0,,Nu am mai fost aici de ceva timp.
+Dialogue: 99,0:00:06.57,0:00:07.49,Dialogue,Menel,0,0,0,,Will?
+Dialogue: 99,0:00:09.72,0:00:11.14,Dialogue,Will,0,0,0,,E uimitor...
+Dialogue: 99,0:01:44.97,0:01:47.60,Dialogue,Will,0,0,0,,Nu ești verificat la intrare?
+Dialogue: 99,0:01:47.60,0:01:48.92,Dialogue,Tonio,0,0,0,,Nu.
+Dialogue: 99,0:01:48.92,0:01:52.41,Dialogue,Tonio,0,0,0,,E politica conducătorului acestui oraș, Înălțimea Sa Ethel.
+Dialogue: 99,0:01:52.41,0:01:55.95,Dialogue,Tonio,0,500,0,,Bunurile ajung în mare parte cu barca în acest oraș,
+Dialogue: 99,0:01:55.95,0:02:00.30,Dialogue,Tonio,0,500,0,,și sunt distribuite pe întreg continentul și pe pământ, și pe apă.
+Dialogue: 99,0:02:00.30,0:02:04.28,Dialogue,Will,0,0,0,,Asta nu înseamnă cumva că o cantitate imensă de bunuri trec prin acest oraș?
+Dialogue: 99,0:02:04.28,0:02:06.84,Dialogue,Tonio,0,0,0,,Așa este, și dacă ar fi să le verifice pe toate la intrare,
+Dialogue: 99,0:02:06.84,0:02:09.81,Dialogue,Tonio,0,0,0,,ar deveni locul perfect pentru a fura oamenii și bunurile lor.
+Dialogue: 99,0:02:09.81,0:02:11.06,Dialogue,Will,0,0,0,,Înțeleg...
+Dialogue: 99,0:02:11.06,0:02:13.60,Dialogue,Tonio,0,0,0,,Deci Ethel a pus taxe de ancorare și taxe de închiriere
+Dialogue: 99,0:02:13.60,0:02:17.36,Dialogue,Tonio,0,0,0,,pentru companiile care-și deschid magazine aici ca să strângă bani pentru oraș,
+Dialogue: 99,0:02:17.36,0:02:21.70,Dialogue,Tonio,0,0,0,,păstrând mișcarea oamenilor și bunurilor cât se poate de liberă.
+Dialogue: 99,0:02:21.70,0:02:22.87,Dialogue,Will,0,0,0,,Oh...
+Dialogue: 99,0:02:23.30,0:02:26.94,Dialogue,Will,0,0,0,,{\i1}Se pare că economia e pe primul loc.
+Dialogue: 99,0:02:26.94,0:02:29.78,Dialogue,Will,0,0,0,,{\i1}E un oraș foarte avansat, \Ncare știe ce înseamnă libertatea.
+Dialogue: 99,0:02:30.37,0:02:33.10,Dialogue,Bee,0,0,0,,Gata cu discuția asta plictisitoare!
+Dialogue: 99,0:02:33.10,0:02:35.52,Dialogue,Bee,0,0,0,,Will vizitează pentru prima oară acest oraș! Trebuie să ne distrăm!
+Dialogue: 99,0:02:35.52,0:02:37.01,Dialogue,Bee,0,0,0,,Haide, pe aici!
+Dialogue: 99,0:02:39.43,0:02:42.90,Dialogue,Bee,0,0,0,,Will, asta e cea mai \Nmare piață din acest oraș.
+Dialogue: 99,0:02:42.90,0:02:44.88,Dialogue,Will,0,0,0,,Uau... Câți oameni...
+Dialogue: 99,0:02:44.88,0:02:46.27,Dialogue,Menel,0,0,0,,De ce ești surprins?
+Dialogue: 99,0:02:46.27,0:02:47.89,Dialogue,Bee,0,0,0,,Oh, acolo!
+Dialogue: 99,0:02:47.89,0:02:51.31,Dialogue,Bee,0,0,0,,Privește! Aceste accesorii sunt în vogă acum!
+Dialogue: 99,0:02:51.31,0:02:52.38,Dialogue,Will,0,0,0,,În vogă?
+Dialogue: 99,0:02:52.38,0:02:53.82,Dialogue,Bee,0,0,0,,Da!
+Dialogue: 99,0:02:53.82,0:02:55.89,Dialogue,Will,0,0,0,,{\i1}Aici există lucruri care sunt „în vogă”?!
+Dialogue: 99,0:02:54.24,0:02:55.89,Dialogue,Menel,0,0,0,,{\an8}Piatra asta chiar valorează mult?
+Dialogue: 99,0:02:55.89,0:02:58.11,Dialogue,Bee,0,0,0,,{\an8}Vai, Menel...
+Dialogue: 99,0:02:55.89,0:02:59.93,Dialogue,Will,0,0,0,,{\i1}Asta înseamnă că oameni de aici își permit să se gândească și la modă!
+Dialogue: 99,0:03:01.22,0:03:04.45,Dialogue,Will,0,0,0,,Acest loc mă uimește la fiecare pas.
+Dialogue: 99,0:03:05.60,0:03:06.70,Dialogue,Will,0,0,0,,Acela este...
+Dialogue: 99,0:03:06.70,0:03:08.17,Dialogue,Menel,0,0,0,,Un felinar.
+Dialogue: 99,0:03:08.17,0:03:09.06,Dialogue,Will,0,0,0,,Felinar?!
+Dialogue: 99,0:03:09.06,0:03:10.55,Dialogue,Bee,0,0,0,,Nu știi ce sunt?
+Dialogue: 99,0:03:10.55,0:03:12.78,Dialogue,Bee,0,0,0,,Vai, Will, ești atât de în urmă cu toate!
+Dialogue: 99,0:03:12.78,0:03:15.32,Dialogue,Bee,0,0,0,,Învățăcei de la Academia Înțelepților
+Dialogue: 99,0:03:15.32,0:03:17.84,Dialogue,Bee,0,0,0,,vin seara și aprind felinarele
+Dialogue: 99,0:03:17.84,0:03:21.09,Dialogue,Bee,0,0,0,,care au Cuvinte de \Nlumină gravate pe ele.
+Dialogue: 99,0:03:21.09,0:03:23.73,Dialogue,Bee,0,0,0,,Deci oamenii de aici au lumină chiar și noaptea!
+Dialogue: 99,0:03:23.73,0:03:26.23,Dialogue,Tonio,0,0,0,,E folosit drept antrenament pentru vrăjitorii învățăcei,
+Dialogue: 99,0:03:26.23,0:03:29.39,Dialogue,Tonio,0,0,0,,iar aceștia mai fac și niște bani de buzunar.
+Dialogue: 99,0:03:29.39,0:03:34.14,Dialogue,Tonio,0,0,0,,Și chestia aia de acolo mai e o sursă bună de venit pentru vrăjitorii învățăcei.
+Dialogue: 99,0:03:34.14,0:03:35.24,Dialogue,Will,0,0,0,,Ce este aia?
+Dialogue: 99,0:03:36.06,0:03:38.96,Dialogue,Bee,0,0,0,,Chiar și tu trebuie să știi ce este!
+Dialogue: 99,0:03:39.35,0:03:42.12,Dialogue,Bee,0,0,0,,E o baie publică, numită Balnea!
+Dialogue: 99,0:03:42.12,0:03:43.47,Dialogue,Will,0,0,0,,Balnea?
+Dialogue: 99,0:03:45.18,0:03:46.08,Dialogue,Menel,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:03:46.08,0:03:49.03,Dialogue,Will,0,0,0,,{\i1}O baie publică?! Au băi?!
+Dialogue: 99,0:03:50.79,0:03:53.71,Dialogue,Will,0,0,0,,Apa e așa de curată \Nîncât poți vedea prin ea.
+Dialogue: 99,0:03:53.71,0:03:57.13,Dialogue,Tonio,0,0,0,,Da, acesta e efectul \NCuvintelor purificării.
+Dialogue: 99,0:03:57.47,0:04:00.42,Dialogue,Tonio,0,0,0,,{\an8}În loc să folosească cantități imense de combustibil ca să încălzească băile,
+Dialogue: 99,0:04:00.42,0:04:02.67,Dialogue,Tonio,0,0,0,,{\an8}ei folosesc Cuvinte de căldură.
+Dialogue: 99,0:04:02.67,0:04:04.00,Dialogue,Will,0,0,0,,Înțeleg.
+Dialogue: 99,0:04:04.00,0:04:08.43,Dialogue,Will,0,0,0,,{\i1}Deci e mai mult ca o saună și o piscină cu apă rece decât ca o baie,
+Dialogue: 99,0:04:08.43,0:04:09.89,Dialogue,Will,0,0,0,,{\i1}dar tot e uimitor!
+Dialogue: 99,0:04:13.89,0:04:15.95,Dialogue,Will,0,0,0,,Briza e așa de plăcută.
+Dialogue: 99,0:04:16.28,0:04:20.55,Dialogue,Will,0,0,0,,{\i1}Am folosit Cuvinte de purificare ca să-mi mențin o igienă curată pe drum,
+Dialogue: 99,0:04:20.55,0:04:23.18,Dialogue,Will,0,0,0,,{\i1}dar e grozav să faci o baie adevărată.
+Dialogue: 99,0:04:23.78,0:04:26.71,Dialogue,Bee,0,0,0,,Vai, e așa de bine să faci \No baie după atâta timp.
+Dialogue: 99,0:04:26.71,0:04:27.87,Dialogue,Tonio,0,0,0,,Sunt sigur de asta.
+Dialogue: 99,0:04:27.87,0:04:30.68,Dialogue,Menel,0,0,0,,Sper doar ca lucrurile să nu devină complicate de acum.
+Dialogue: 99,0:04:31.13,0:04:32.66,Dialogue,Will,0,0,0,,Ce vom face acum?
+Dialogue: 99,0:04:33.60,0:04:35.34,Dialogue,Bee,0,0,0,,Acum urmează...
+Dialogue: 99,0:04:36.69,0:04:40.33,Dialogue,Bee,0,0,0,,Vai, mereu mi se face \Nfoame după o baie bună!
+Dialogue: 99,0:04:41.71,0:04:44.51,Dialogue,Bee,0,0,0,,Și voi sunteți lihniți, nu?
+Dialogue: 99,0:04:44.51,0:04:46.29,Dialogue,Tonio,0,0,0,,Mâncarea e destul de bună.
+Dialogue: 99,0:04:46.29,0:04:47.44,Dialogue,Bee,0,0,0,,Da.
+Dialogue: 99,0:04:47.44,0:04:50.64,Dialogue,Bee,0,0,0,,Totuși, cred că putea \Nfi puțin mai suculentă.
+Dialogue: 99,0:04:50.64,0:04:53.16,Dialogue,Will,0,0,0,,{\i1}A absorbit gustul peștelui atât de bine,
+Dialogue: 99,0:04:53.16,0:04:54.65,Dialogue,Will,0,0,0,,{\i1}iar sarea e fix cât trebuie.
+Dialogue: 99,0:04:54.90,0:04:57.77,Dialogue,Will,0,0,0,,{\i1}Nu am mai mâncat nimic atât de bun de când am plecat de la templu!
+Dialogue: 99,0:04:57.77,0:05:00.67,Dialogue,Will,0,0,0,,{\i1}Are gustul... civilizației!
+Dialogue: 99,0:05:02.87,0:05:04.29,Dialogue,Will,0,0,0,,Toate felurile sunt așa de bune
+Dialogue: 99,0:05:04.29,0:05:07.09,Dialogue,Will,0,0,0,,încât am uitat despre ce vorbeam.
+Dialogue: 99,0:05:10.29,0:05:11.61,Dialogue,Will,0,0,0,,Și asta e bună!
+Dialogue: 99,0:05:11.61,0:05:13.47,Dialogue,Menel,0,0,0,,Îmi mai puteți aduce una?
+Dialogue: 99,0:05:13.47,0:05:14.70,Dialogue,Will,0,0,0,,Și mie!
+Dialogue: 99,0:05:14.70,0:05:16.16,Dialogue,Server,0,0,0,,Imediat.
+Dialogue: 99,0:05:16.16,0:05:19.18,Dialogue,Tonio,0,0,0,,După ce terminăm de mâncat, vom merge la templu.
+Dialogue: 99,0:05:19.18,0:05:22.68,Dialogue,Tonio,0,0,0,,Din moment ce ești un preot, \Ntrebuie să treci pe acolo, nu-i așa, Will?
+Dialogue: 99,0:05:22.68,0:05:24.87,Dialogue,Will,0,0,0,,Oh... Da, așa este.
+Dialogue: 99,0:05:27.57,0:05:28.54,Dialogue,Menel,0,0,0,,Uau...
+Dialogue: 99,0:05:28.89,0:05:30.63,Dialogue,Menel,0,0,0,,Au băgat o grămadă de bani aici.
+Dialogue: 99,0:05:30.63,0:05:32.71,Dialogue,Bee,0,0,0,,Vai, Menel...
+Dialogue: 99,0:05:32.71,0:05:34.77,Dialogue,Will,0,0,0,,Mă voi întoarce imediat \Ncum am terminat.
+Dialogue: 99,0:05:34.77,0:05:36.38,Dialogue,Will,0,0,0,,Vă rog să mă așteptați aici puțin.
+Dialogue: 99,0:05:39.23,0:05:42.10,Dialogue,Will,0,0,0,,{\i1}Templele orașelor sunt mereu așa de mari?
+Dialogue: 99,0:05:42.10,0:05:45.07,Dialogue,Will,0,0,0,,{\i1}Toate par opere de artă.
+Dialogue: 99,0:05:45.07,0:05:47.35,Dialogue,Will,0,0,0,,{\i1}Seamănă mai mult cu o destinație turistică.
+Dialogue: 99,0:05:48.13,0:05:49.81,Dialogue,Will,0,0,0,,Oh, scuzați-mă.
+Dialogue: 99,0:05:49.81,0:05:51.64,Dialogue,Deacon,0,0,0,,Da, cu ce vă putem ajuta?
+Dialogue: 99,0:05:51.64,0:05:54.58,Dialogue,Will,0,0,0,,E cumva acum un preot de rang înalt aici?
+Dialogue: 99,0:05:54.58,0:05:57.46,Dialogue,Will,0,0,0,,Am primit protecția divină \Nși am devenit un preot,
+Dialogue: 99,0:05:57.46,0:05:59.02,Dialogue,Will,0,0,0,,deci am venit să mă prezint.
+Dialogue: 99,0:05:59.02,0:06:03.01,Dialogue,Deacon,0,0,0,,Ah... Scuză-mă că întreb, \Ndar în serviciul cărui zeu ești?
+Dialogue: 99,0:06:03.01,0:06:05.60,Dialogue,Will,0,0,0,,Gracefeel, Zeița Luminii.
+Dialogue: 99,0:06:06.03,0:06:09.81,Dialogue,Deacon,0,0,0,,Oh... Zeița Luminii? \NAsta e puțin problematic...
+Dialogue: 99,0:06:09.81,0:06:11.01,Dialogue,Will,0,0,0,,De ce?
+Dialogue: 99,0:06:11.01,0:06:13.23,Dialogue,Deacon,0,0,0,,Preoții Zeiței Luminii sunt destul de rari,
+Dialogue: 99,0:06:13.23,0:06:16.73,Dialogue,Deacon,0,0,0,,deci regulile îmi cer să folosesc Detectarea Credinței.
+Dialogue: 99,0:06:16.73,0:06:18.47,Dialogue,Will,0,0,0,,Bine, sunt în regulă cu asta.
+Dialogue: 99,0:06:18.82,0:06:20.58,Dialogue,Will,0,0,0,,{\i1}Bănuiesc că are sens.
+Dialogue: 99,0:06:20.58,0:06:23.08,Dialogue,Will,0,0,0,,{\i1}E ceva normal ca oamenii să se îndoiască
+Dialogue: 99,0:06:23.08,0:06:24.76,Dialogue,Will,0,0,0,,{\i1}de un preot al unui zeu mic.
+Dialogue: 99,0:06:24.76,0:06:27.53,Dialogue,Will,0,0,0,,{\i1}Aș putea fi, de fapt, \Npreotul unui zeu rău.
+Dialogue: 99,0:06:27.86,0:06:31.31,Dialogue,Deacon,0,0,0,,Chestia e că... toți cei \Ncare au protecția divină
+Dialogue: 99,0:06:31.31,0:06:34.94,Dialogue,Deacon,0,0,0,,care să le permită să determine credința altora nu sunt acum aici.
+Dialogue: 99,0:06:34.94,0:06:36.47,Dialogue,Will,0,0,0,,Sunt toți plecați?
+Dialogue: 99,0:06:36.47,0:06:41.37,Dialogue,Deacon,0,0,0,,Da. Atacurile bestiilor demonice s-au intensificat peste tot în ultima vreme.
+Dialogue: 99,0:06:41.37,0:06:44.96,Dialogue,Deacon,0,0,0,,Toți, cu excepția episcopului secund, \Nsunt foarte ocupați acum.
+Dialogue: 99,0:06:44.96,0:06:46.03,Dialogue,Will,0,0,0,,{\i1}Secund?
+Dialogue: 99,0:06:46.03,0:06:48.75,Dialogue,Bagley,0,0,0,,Ce faceți pe mijlocul culoarului?
+Dialogue: 99,0:06:48.75,0:06:50.29,Dialogue,Deacon,0,0,0,,Episcop Bagley!
+Dialogue: 99,0:06:50.55,0:06:52.76,Dialogue,Bagley,0,0,0,,V-am întrebat ce faceți!
+Dialogue: 99,0:06:52.76,0:06:54.79,Dialogue,Deacon,0,0,0,,Oh, ei bine... d-doar...
+Dialogue: 99,0:06:54.79,0:06:56.57,Dialogue,Will,0,0,0,,E o onoare să vă întâlnesc.
+Dialogue: 99,0:06:56.57,0:06:59.18,Dialogue,Will,0,0,0,,Eu sunt William G. Maryblood.
+Dialogue: 99,0:06:59.53,0:07:03.04,Dialogue,Will,0,0,0,,Am obținut protecția divină a Zeiței Luminii, Gracefeel,
+Dialogue: 99,0:07:03.04,0:07:06.43,Dialogue,Will,0,0,0,,și am venit la templul din Pânzele Albe ca să mă prezint.
+Dialogue: 99,0:07:07.77,0:07:08.73,Dialogue,Bagley,0,0,0,,Hm...
+Dialogue: 99,0:07:09.28,0:07:12.70,Dialogue,Bagley,0,0,0,,Bart Bagley. Eu sunt liderul acestui templu.
+Dialogue: 99,0:07:12.70,0:07:14.48,Dialogue,Bagley,0,0,0,,Gracefeel...
+Dialogue: 99,0:07:14.48,0:07:17.93,Dialogue,Bagley,0,0,0,,Zeița Luminii, o zeitate care a dispărut?
+Dialogue: 99,0:07:17.93,0:07:23.57,Dialogue,Bagley,0,0,0,,Și de unde știu că nu ești un individ suspicios care doar se folosește de numele ei ca să facă rele?
+Dialogue: 99,0:07:23.57,0:07:25.88,Dialogue,Will,0,0,0,,Aveți tot dreptul să fiți suspicios.
+Dialogue: 99,0:07:25.88,0:07:28.50,Dialogue,Will,0,0,0,,Există ceva ce aș putea binecuvânta ca să-mi dovedesc credința?
+Dialogue: 99,0:07:28.50,0:07:32.77,Dialogue,Bagley,0,0,0,,Hah! Voi, începătorii, mereu apelați imediat la protecția voastră divină!
+Dialogue: 99,0:07:33.22,0:07:38.11,Dialogue,Bagley,0,0,0,,Ascultă. Protecția divină nu trebuie folosită pentru orice lucru mărunt
+Dialogue: 99,0:07:38.11,0:07:40.47,Dialogue,Bagley,0,0,0,,și nici ca să impresionezi.
+Dialogue: 99,0:07:41.69,0:07:43.11,Dialogue,Will,0,0,0,,{\i1}Are dreptate.
+Dialogue: 99,0:07:43.11,0:07:46.04,Dialogue,Will,0,0,0,,{\i1\3c&HFFFFFF&\4c&HFFFFFF&\t(0,350,1,\3c&H471729&\4c&H000000&)}Gus a spus același lucru despre magie.
+Dialogue: 99,0:07:46.04,0:07:49.50,Dialogue,Will,0,0,0,,{\i1}Îmi foloseam binecuvântarea la orice, \Ndeoarece nu presupunea vreun risc major, dar...
+Dialogue: 99,0:07:50.36,0:07:52.31,Dialogue,Will,0,0,0,,Aveți completă dreptate.
+Dialogue: 99,0:07:52.31,0:07:55.34,Dialogue,Will,0,0,0,,Vă mulțumesc pentru că mi-ai arătat cât de neexperimentat sunt...
+Dialogue: 99,0:07:55.34,0:07:56.07,Dialogue,Bagley,0,0,0,,Hmpf!
+Dialogue: 99,0:07:56.07,0:07:59.44,Dialogue,Bagley,0,0,0,,Ce reprezintă învățăturile Zeiței Luminii pentru tine?
+Dialogue: 99,0:07:59.74,0:08:01.67,Dialogue,Will,0,0,0,,Lumina poate exista doar acolo unde este și întuneric,
+Dialogue: 99,0:08:01.67,0:08:03.73,Dialogue,Will,0,0,0,,cuvintele pot exista doar \Nacolo unde este și liniște,
+Dialogue: 99,0:08:03.73,0:08:06.46,Dialogue,Will,0,0,0,,iar viața poate exista doar acolo unde este și moarte.
+Dialogue: 99,0:08:08.47,0:08:12.33,Dialogue,Bagley,0,0,0,,Tu. Trece-i numele în registru și fă-i un tur al templului.
+Dialogue: 99,0:08:12.33,0:08:13.10,Dialogue,Deacon,0,0,0,,Ce?
+Dialogue: 99,0:08:13.10,0:08:17.10,Dialogue,Deacon,0,0,0,,Dar nu am folosit pe el Detectarea Credinței sau Detectarea Minciunii...
+Dialogue: 99,0:08:17.10,0:08:17.75,Dialogue,Bagley,0,0,0,,Neghiobule!
+Dialogue: 99,0:08:17.75,0:08:20.22,Dialogue,Bagley,0,0,0,,Ce ți-am zis să faci, prostule?!
+Dialogue: 99,0:08:20.51,0:08:24.85,Dialogue,Bagley,0,0,0,,Eu trebuie să fiu prezent la banchetul Breslei Croitorilor.
+Dialogue: 99,0:08:24.85,0:08:28.27,Dialogue,Bagley,0,0,0,,Petrece-ți timpul cum dorești, dar nu cauza probleme.
+Dialogue: 99,0:08:28.27,0:08:30.61,Dialogue,Bagley,0,0,0,,Și donează niște bani.
+Dialogue: 99,0:08:31.95,0:08:34.36,Dialogue,Deacon,0,0,0,,E-Ei bine, în acest caz, \Npe aici, te rog.
+Dialogue: 99,0:08:34.36,0:08:35.44,Dialogue,Will,0,0,0,,B-Bine.
+Dialogue: 99,0:08:36.40,0:08:40.91,Dialogue,Deacon,0,0,0,,Cred că a fost foarte neplăcut să-l întâlnești pe episcopul Bagley.
+Dialogue: 99,0:08:40.91,0:08:42.90,Dialogue,Deacon,0,0,0,,Dar te-ai descurcat destul de bine.
+Dialogue: 99,0:08:42.90,0:08:43.70,Dialogue,Will,0,0,0,,Ce?
+Dialogue: 99,0:08:43.70,0:08:47.84,Dialogue,Deacon,0,0,0,,Ei bine, liderul acestui templu se lasă în voia petrecerilor și a altor plăceri.
+Dialogue: 99,0:08:47.84,0:08:49.67,Dialogue,Deacon,0,0,0,,Se enervează repede \Nși se plânge mereu.
+Dialogue: 99,0:08:49.67,0:08:52.53,Dialogue,Deacon,0,0,0,,În ciuda a tot ce spune, \Nnu-și folosește niciodată binecuvântarea.
+Dialogue: 99,0:08:52.85,0:08:56.34,Dialogue,Deacon,0,0,0,,Episcopul secund, pe de altă parte, \Ne o persoană credincioasă și minunată.
+Dialogue: 99,0:08:56.34,0:08:56.92,Dialogue,Will,0,0,0,,Hei...
+Dialogue: 99,0:08:58.02,0:09:00.68,Dialogue,Deacon,0,0,0,,O, vai, scuze! Nu spune nimănui că am spus aceste lucruri!
+Dialogue: 99,0:09:00.68,0:09:01.66,Dialogue,Will,0,0,0,,Sigur...
+Dialogue: 99,0:09:02.76,0:09:05.68,Dialogue,Will,0,0,0,,Hei, ce știți despre liderul templului?
+Dialogue: 99,0:09:05.68,0:09:09.18,Dialogue,Bee,0,0,0,,Hm... Nu prea am auzit lucruri bune despre el.
+Dialogue: 99,0:09:09.18,0:09:10.72,Dialogue,Bee,0,0,0,,Am auzit că e vulgar.
+Dialogue: 99,0:09:10.72,0:09:12.90,Dialogue,Tonio,0,0,0,,He seems to have some \Nsort of influence behind-the-scenes
+Dialogue: 99,0:09:12.90,0:09:16.08,Dialogue,Tonio,0,0,0,,of the city's commercial and \Nindustrial guilds, as well.
+Dialogue: 99,0:09:16.31,0:09:18.52,Dialogue,Will,0,0,0,,Deci așa e văzut de ceilalți?
+Dialogue: 99,0:09:18.52,0:09:20.56,Dialogue,Bee,0,0,0,,Still, talk about living it up!
+Dialogue: 99,0:09:20.56,0:09:23.09,Dialogue,Bee,0,0,0,,Nu-mi vine să cred că ne-a lăsat să folosim camera de oaspeți a templului!
+Dialogue: 99,0:09:23.09,0:09:24.70,Dialogue,Bee,0,0,0,,Ba chiar două camere!
+Dialogue: 99,0:09:24.70,0:09:27.08,Dialogue,Tonio,0,0,0,,Oricum, ce ar trebui să facem acum?
+Dialogue: 99,0:09:27.08,0:09:30.25,Dialogue,Tonio,0,0,0,,We could take in the sights, \Nor visit some guilds...
+Dialogue: 99,0:09:30.25,0:09:33.19,Dialogue,Bee,0,0,0,,Oh, if we do that, I'd recommend the...
+Dialogue: 99,0:09:33.19,0:09:35.42,Dialogue,Will,0,0,0,,Hang on. Something's going on outside.
+Dialogue: 99,0:09:35.42,0:09:37.85,Dialogue,Bee,0,0,0,,That's not the bell that gives the time. \NThey're hammering it...
+Dialogue: 99,0:09:37.85,0:09:39.16,Dialogue,Bee,0,0,0,,Is there a fire or something?
+Dialogue: 99,0:09:39.16,0:09:41.42,Dialogue,Tonio,0,0,0,,It's an emergency alert.
+Dialogue: 99,0:09:41.76,0:09:44.11,Dialogue,Townie,0,0,0,,It's a wyvern! Everybody run!
+Dialogue: 99,0:09:44.11,0:09:45.00,Dialogue,Menel,0,0,0,,What?
+Dialogue: 99,0:10:01.43,0:10:03.57,Dialogue,KnightA,0,0,0,,Move! Be ready for anything!
+Dialogue: 99,0:10:03.57,0:10:06.28,Dialogue,ManA,0,0,0,,Someone come help us! \NA person's pinned under rubble!
+Dialogue: 99,0:10:06.28,0:10:07.92,Dialogue,InjuredB,0,0,0,,Au, au, au!
+Dialogue: 99,0:10:07.92,0:10:09.35,Dialogue,ManB,0,0,0,,Ce se petrece?!
+Dialogue: 99,0:10:08.30,0:10:10.08,Dialogue,Priest,0,0,0,,{\an8}Nu împingeți! Vă rugăm să nu împingeți!
+Dialogue: 99,0:10:10.08,0:10:11.95,Dialogue,WomanA,0,0,0,,Mi-a văzut cineva copilul?!
+Dialogue: 99,0:10:11.95,0:10:13.25,Dialogue,Old,0,0,0,,Oh, zeilor...
+Dialogue: 99,0:10:21.56,0:10:23.72,Dialogue,Menel,0,0,0,,Will, stai! Will!
+Dialogue: 99,0:10:30.20,0:10:31.93,Dialogue,Will,0,0,0,,{\i1}Ce caută un dragon aici?
+Dialogue: 99,0:10:33.93,0:10:34.95,Dialogue,KnightB,0,0,0,,Foc!
+Dialogue: 99,0:10:37.36,0:10:40.54,Dialogue,Will,0,0,0,,{\i1}He said all the high-ranking \Nclergy are out right now...
+Dialogue: 99,0:10:46.15,0:10:48.53,Dialogue,Will,0,0,0,,{\i1}Civilizația lor... Orașul lor...
+Dialogue: 99,0:10:48.95,0:10:51.23,Dialogue,Will,0,0,0,,{\i1}Tot ceea ce cei trei au protejat...
+Dialogue: 99,0:10:51.23,0:10:53.54,Dialogue,Will,0,0,0,,{\i1}Locul unde oamenii pot trăi liberi...
+Dialogue: 99,0:10:56.56,0:10:57.38,Dialogue,Will,0,0,0,,{\an8}Verba!
+Dialogue: 99,0:10:57.38,0:10:58.21,Dialogue,Will,0,0,0,,{\an8}Volanto!
+Dialogue: 99,0:10:58.21,0:10:59.40,Dialogue,Will,0,0,0,,{\an8}Tonitrus!
+Dialogue: 99,0:11:01.10,0:11:02.28,Dialogue,Will,0,0,0,,{\i1}It missed!
+Dialogue: 99,0:11:02.59,0:11:06.59,Dialogue,Will,0,0,0,,{\i1}But those are the longest-ranged \NWords I can use!
+Dialogue: 99,0:11:06.84,0:11:09.59,Dialogue,Will,0,0,0,,{\i1}Then I'll just have to keep \Nfiring until I hit it!
+Dialogue: 99,0:11:09.59,0:11:11.66,Dialogue,Menel,0,0,0,,Idiotule! Ce naiba faci?!
+Dialogue: 99,0:11:11.66,0:11:14.92,Dialogue,Menel,0,0,0,,Why are you shooting off high magic \Nlike that in a blind fury?!
+Dialogue: 99,0:11:14.92,0:11:16.07,Dialogue,Menel,0,0,0,,You'll get yourself killed!
+Dialogue: 99,0:11:16.07,0:11:16.72,Dialogue,Will,0,0,0,,Dar...
+Dialogue: 99,0:11:16.72,0:11:17.56,Dialogue,Menel,0,0,0,,Niciun dar!
+Dialogue: 99,0:11:17.56,0:11:21.11,Dialogue,Menel,0,0,0,,Te lupți cu un dragon! Îți spun doar că trebuie să fii mai eficient!
+Dialogue: 99,0:11:21.11,0:11:23.69,Dialogue,Menel,0,0,0,,Folosește-ți capul ca să gândești, prostule!
+Dialogue: 99,0:11:23.69,0:11:25.34,Dialogue,Menel,0,0,0,,Nu doar să sari cu el înainte!
+Dialogue: 99,0:11:25.70,0:11:31.03,Dialogue,Gus,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(0,350,1,\3c&H471729&\4c&H000000&)}You'll start by learning how to use \Nminor magic skillfully and accurately.
+Dialogue: 99,0:11:32.62,0:11:33.77,Dialogue,Will,0,0,0,,Am înțeles.
+Dialogue: 99,0:11:33.77,0:11:34.79,Dialogue,Menel,0,0,0,,Bun.
+Dialogue: 99,0:11:35.16,0:11:39.70,Dialogue,Will,0,0,0,,{\i1}Gândește. Ce pot face în legătură cu acest dragon cu informațiile pe care le știu deja?
+Dialogue: 99,0:11:41.31,0:11:43.44,Dialogue,Will,0,0,0,,Menel, îmi vei da o mână de ajutor?
+Dialogue: 99,0:11:43.44,0:11:45.46,Dialogue,Will,0,0,0,,Am nevoie de tine și de zânele tale.
+Dialogue: 99,0:11:45.46,0:11:46.19,Dialogue,Menel,0,0,0,,Sigur.
+Dialogue: 99,0:11:46.90,0:11:48.40,Dialogue,Will,0,0,0,,Bee, Tonio!
+Dialogue: 99,0:11:48.40,0:11:52.61,Dialogue,Will,0,0,0,,Colaborați cu oamenii din apropiere ca să-i scoateți pe toți din grădina din fața templului!
+Dialogue: 99,0:11:52.61,0:11:54.76,Dialogue,Will,0,0,0,,Acolo voi doborî dragonul!
+Dialogue: 99,0:11:54.76,0:11:55.69,Dialogue,Priest,0,0,0,,Înălțimea Voastră!
+Dialogue: 99,0:11:55.69,0:11:57.91,Dialogue,Priest,0,0,0,,Trebuie să vă adăpostiți, repede!
+Dialogue: 99,0:11:57.91,0:11:59.44,Dialogue,Ethelbald,0,0,0,,De ce se întâmplă una ca asta?
+Dialogue: 99,0:11:59.44,0:12:02.79,Dialogue,Ethelbald,0,0,0,,Zeci de oameni... \Nsute de oameni... vor muri.
+Dialogue: 99,0:12:04.36,0:12:05.94,Dialogue,Menel,0,0,0,,Și acum...
+Dialogue: 99,0:12:05.94,0:12:09.00,Dialogue,Menel,0,0,0,,Silfi, silfi, zâne ale vântului.
+Dialogue: 99,0:12:09.00,0:12:11.17,Dialogue,Menel,0,0,0,,Pașii voștri sunt pașii vântului.
+Dialogue: 99,0:12:11.17,0:12:13.02,Dialogue,Menel,0,0,0,,Cântecul vostru e cântecul vântului.
+Dialogue: 99,0:12:13.45,0:12:16.93,Dialogue,Menel,0,0,0,,Sing in chorus, sing in rounds, \Ncheer and applaud.
+Dialogue: 99,0:12:17.32,0:12:21.64,Dialogue,Menel,0,0,0,,Your harmony shall spread the Words \Nof Origin in the ten directions.
+Dialogue: 99,0:12:21.89,0:12:22.78,Dialogue,Will,0,0,0,,{\an8}Verba.
+Dialogue: 99,0:12:22.78,0:12:23.77,Dialogue,Will,0,0,0,,{\an8}Volanto.
+Dialogue: 99,0:12:23.77,0:12:24.83,Dialogue,Will,0,0,0,,{\an8}Conciliat.
+Dialogue: 99,0:12:24.83,0:12:25.63,Dialogue,Will,0,0,0,,{\an8}Sequitur.
+Dialogue: 99,0:12:25.89,0:12:26.87,Dialogue,Will,0,0,0,,{\an8}Tonitrus...
+Dialogue: 99,0:12:26.87,0:12:27.77,Dialogue,Will,0,0,0,,{\an8}Araneum!
+Dialogue: 99,0:12:37.82,0:12:40.14,Dialogue,KnightC,0,0,0,,Aia este... magie?
+Dialogue: 99,0:12:40.14,0:12:43.26,Dialogue,KnightD,0,0,0,,E și o persoană care poate folosi zâne acolo? Omule, chiar avem noroc!
+Dialogue: 99,0:12:43.26,0:12:45.52,Dialogue,KnightC,0,0,0,,We've got this! We can do it! Hurry!
+Dialogue: 99,0:12:50.29,0:12:52.38,Dialogue,Will,0,0,0,,{\i1}Probabil nu-l rănesc prea mult.
+Dialogue: 99,0:12:54.60,0:12:55.65,Dialogue,Will,0,0,0,,{\i1}Dar e în regulă.
+Dialogue: 99,0:12:56.06,0:12:58.62,Dialogue,Will,0,0,0,,{\i1}Cât timp dragonul ne \Nvede ca pe inamicii lui.
+Dialogue: 99,0:12:58.62,0:13:01.55,Dialogue,Will,0,0,0,,{\i1}Aproape toate bestiile de acest tip sunt foarte agresive.
+Dialogue: 99,0:13:01.55,0:13:03.65,Dialogue,Will,0,0,0,,{\i1}Chiar și în situații în care ar putea scăpa,
+Dialogue: 99,0:13:03.65,0:13:05.53,Dialogue,Will,0,0,0,,{\i1}vor alege să atace.
+Dialogue: 99,0:13:05.84,0:13:06.75,Dialogue,Menel,0,0,0,,Uite-l că vine.
+Dialogue: 99,0:13:06.75,0:13:07.39,Dialogue,Will,0,0,0,,Da.
+Dialogue: 99,0:13:09.23,0:13:14.47,Dialogue,Will,0,0,0,,{\i1}The rest depends on how close \Nmy skills have come to theirs.
+Dialogue: 99,0:13:14.91,0:13:18.44,Dialogue,Will,0,0,0,,{\i1}Goddess, I now fight for \Nthe sake of my oath.
+Dialogue: 99,0:13:18.44,0:13:21.76,Dialogue,Will,0,0,0,,{\i1}To banish evil and save the suffering.
+Dialogue: 99,0:13:21.76,0:13:23.85,Dialogue,Will,0,0,0,,{\i1}Pray! Pray!
+Dialogue: 99,0:13:23.85,0:13:25.86,Dialogue,Will,0,0,0,,{\i1}Be as unbreakable as adamantine!
+Dialogue: 99,0:13:25.86,0:13:28.46,Dialogue,Will,0,0,0,,{\i1}For eternity... For all eternity...
+Dialogue: 99,0:13:29.16,0:13:31.20,Dialogue,Will,0,0,0,,{\i1}Reject all that is evil!
+Dialogue: 99,0:13:31.20,0:13:33.78,Dialogue,Will,0,0,0,,On the flame of Gracefeel!
+Dialogue: 99,0:13:43.66,0:13:45.56,Dialogue,Townie,0,0,0,,What the heck is that?!
+Dialogue: 99,0:13:51.31,0:13:54.82,Dialogue,Menel,0,0,0,,Sylphs! Beautiful maidens of \Nwind, dancers in the gale!
+Dialogue: 99,0:13:54.82,0:13:57.81,Dialogue,Menel,0,0,0,,Show those foolish enough to fancy themselves
+Dialogue: 99,0:13:57.81,0:14:00.10,Dialogue,Menel,0,0,0,,better dancers the bitter taste of earth!
+Dialogue: 99,0:14:05.28,0:14:06.31,Dialogue,Will,0,0,0,,{\an8}Ligatur!
+Dialogue: 99,0:14:06.31,0:14:07.03,Dialogue,Will,0,0,0,,{\an8}Nodus!
+Dialogue: 99,0:14:07.03,0:14:08.47,Dialogue,Will,0,0,0,,{\an8}Obligatio!
+Dialogue: 99,0:14:11.00,0:14:12.13,Dialogue,KnightE,0,0,0,,It's bound!
+Dialogue: 99,0:14:12.13,0:14:15.30,Dialogue,KnightD,0,0,0,,No, it's trying to tear them off! \NDamn, it's strong!
+Dialogue: 99,0:14:15.90,0:14:17.21,Dialogue,Will,0,0,0,,{\an8}Acceleratio!
+Dialogue: 99,0:14:20.79,0:14:22.00,Dialogue,Townfolk,0,0,0,,All right!
+Dialogue: 99,0:14:25.29,0:14:26.59,Dialogue,Bee,0,0,0,,No way...
+Dialogue: 99,0:14:26.91,0:14:28.47,Dialogue,Will,0,0,0,,{\i1}That didn't finish it off?!
+Dialogue: 99,0:14:29.42,0:14:31.38,Dialogue,Bee,0,0,0,,Run! It's gonna use its breath!
+Dialogue: 99,0:14:31.70,0:14:33.52,Dialogue,Will,0,0,0,,{\i1}There are still people back there.
+Dialogue: 99,0:14:33.52,0:14:35.89,Dialogue,Will,0,0,0,,{\i1}What do I do? What can I do?!
+Dialogue: 99,0:14:38.44,0:14:39.40,Dialogue,Blood,0,0,0,,Get 'em!
+Dialogue: 99,0:14:40.00,0:14:41.22,Dialogue,Will,0,0,0,,{\an8}Acceleratio!
+Dialogue: 99,0:14:44.61,0:14:46.44,Dialogue,Blood,0,0,0,,{\i1}If you don't know, use your muscles!
+Dialogue: 99,0:14:46.44,0:14:48.99,Dialogue,Blood,0,0,0,,{\i1}Be violent! Get 'em!
+Dialogue: 99,0:14:56.74,0:14:57.87,Dialogue,Priest,0,0,0,,A n-neck throw?!
+Dialogue: 99,0:15:01.88,0:15:03.53,Dialogue,Will,0,0,0,,You're not getting away!
+Dialogue: 99,0:15:06.62,0:15:11.56,Dialogue,Will,0,0,0,,Your fangs and claws will harm no one!
+Dialogue: 99,0:15:29.78,0:15:32.15,Dialogue,Tonio,0,0,0,,Well done! Excellent work!
+Dialogue: 99,0:15:32.15,0:15:38.16,Dialogue,Tonio,0,0,0,,I give thanks to all the gods for allowing \Nme to serve a hero such as you!
+Dialogue: 99,0:15:38.16,0:15:42.79,Dialogue,Bee,0,0,0,,It's the birth of a new Wyvern Killer! \NA brand new hero!
+Dialogue: 99,0:15:42.79,0:15:45.42,Dialogue,Bee,0,0,0,,Sing his praises with your applause!
+Dialogue: 99,0:15:49.62,0:15:50.63,Dialogue,People,0,0,0,,Thank you!
+Dialogue: 99,0:15:51.05,0:15:51.96,Dialogue,People,0,0,0,,Thank you!
+Dialogue: 99,0:15:52.55,0:15:53.96,Dialogue,People,0,0,0,,Thank you!
+Dialogue: 99,0:15:57.69,0:15:59.63,Dialogue,KnightD,0,0,0,,I guess we were too late, huh?
+Dialogue: 99,0:16:00.22,0:16:02.77,Dialogue,KnightC,0,0,0,,Still, I had no idea so many magic users
+Dialogue: 99,0:16:02.77,0:16:05.98,Dialogue,KnightC,0,0,0,,and a warrior strong enough to \Nkill a wyvern were staying here!
+Dialogue: 99,0:16:05.98,0:16:08.03,Dialogue,KnightC,0,0,0,,It is truly divine providence!
+Dialogue: 99,0:16:15.34,0:16:18.05,Dialogue,Menel,0,0,0,,I guess anything goes with you, huh?
+Dialogue: 99,0:16:18.05,0:16:19.21,Dialogue,Will,0,0,0,,You're surprised?
+Dialogue: 99,0:16:19.21,0:16:21.18,Dialogue,Menel,0,0,0,,I'm used to the way you defy logic.
+Dialogue: 99,0:16:22.94,0:16:26.31,Dialogue,Will,0,0,0,,Well, I was reminded of \Nhow inexperienced I am.
+Dialogue: 99,0:16:26.31,0:16:26.80,Dialogue,Menel,0,0,0,,Huh?
+Dialogue: 99,0:16:26.80,0:16:29.00,Dialogue,Will,0,0,0,,It was great for a first attempt,
+Dialogue: 99,0:16:29.00,0:16:31.18,Dialogue,Will,0,0,0,,but I was just lucky to \Nland a surprise attack.
+Dialogue: 99,0:16:31.18,0:16:34.33,Dialogue,Will,0,0,0,,And what was that black miasma around it?
+Dialogue: 99,0:16:34.33,0:16:35.00,Dialogue,Menel,0,0,0,,Hey!
+Dialogue: 99,0:16:35.00,0:16:36.85,Dialogue,Menel,0,0,0,,You brought down a real monster!
+Dialogue: 99,0:16:36.85,0:16:39.13,Dialogue,Menel,0,0,0,,Critique yourself all you want, \Nbut at least be a little bit happy.
+Dialogue: 99,0:16:39.13,0:16:41.43,Dialogue,Menel,0,0,0,,It's hard for me to be happy if you're not.
+Dialogue: 99,0:16:41.86,0:16:42.69,Dialogue,Will,0,0,0,,Okay.
+Dialogue: 99,0:16:43.35,0:16:44.97,Dialogue,Will,0,0,0,,{\i1}When he puts it that way...
+Dialogue: 99,0:16:44.97,0:16:46.84,Dialogue,Will,0,0,0,,{\i1}There's a lot I could've done better,
+Dialogue: 99,0:16:46.84,0:16:49.52,Dialogue,Will,0,0,0,,{\i1}but now I'm a Wyvern Killer \Nlike the three of them.
+Dialogue: 99,0:16:49.91,0:16:51.97,Dialogue,Will,0,0,0,,{\i1}That makes me happy.
+Dialogue: 99,0:16:52.19,0:16:53.88,Dialogue,Will,0,0,0,,Yeah... Yeah.
+Dialogue: 99,0:16:53.88,0:16:56.94,Dialogue,Will,0,0,0,,Thanks, Menel! I owe it all to you!
+Dialogue: 99,0:16:56.94,0:16:58.79,Dialogue,Menel,0,0,0,,Yeah. We did it, man.
+Dialogue: 99,0:17:00.28,0:17:04.17,Dialogue,Menel,0,0,0,,Also, you know damn well it was \Nnearly all your doing, idiot!
+Dialogue: 99,0:17:05.87,0:17:07.37,Dialogue,Priest,0,0,0,,Wyvern Killer!
+Dialogue: 99,0:17:08.19,0:17:10.48,Dialogue,Will,0,0,0,,Yes, that's me! What can I do for you?
+Dialogue: 99,0:17:10.48,0:17:12.38,Dialogue,Priest,0,0,0,,Please come with me, quickly!
+Dialogue: 99,0:17:12.38,0:17:13.79,Dialogue,Will,0,0,0,,Uh...
+Dialogue: 99,0:17:13.79,0:17:17.60,Dialogue,Priest,0,0,0,,The crown prince wishes to see you.
+Dialogue: 99,0:17:18.72,0:17:22.24,Dialogue,Ethelbald,0,0,0,,Welcome to my mansion, hero.
+Dialogue: 99,0:17:22.59,0:17:27.73,Dialogue,Will,0,0,0,,{\i1}So this is the crown prince of the \NFertile Kingdom, the lord of Whitesails,
+Dialogue: 99,0:17:27.73,0:17:29.80,Dialogue,Will,0,0,0,,{\i1}and the ruler of Southmark...
+Dialogue: 99,0:17:31.40,0:17:35.73,Dialogue,Will,0,0,0,,It is a greater honor than I deserve \Nto stand in Your Highness's presence.
+Dialogue: 99,0:17:35.73,0:17:38.63,Dialogue,Will,0,0,0,,I have come here per your request.
+Dialogue: 99,0:17:38.63,0:17:41.02,Dialogue,Will,0,0,0,,My name is William G. Maryblood.
+Dialogue: 99,0:17:41.02,0:17:44.29,Dialogue,Ethelbald,0,0,0,,Oh? You are well-versed \Nin the old etiquette.
+Dialogue: 99,0:17:44.29,0:17:46.37,Dialogue,Ethelbald,0,0,0,,I assume you are of high birth?
+Dialogue: 99,0:17:46.37,0:17:48.18,Dialogue,Will,0,0,0,,No, um...
+Dialogue: 99,0:17:48.18,0:17:51.33,Dialogue,Will,0,0,0,,If Your Highness could please refrain \Nfrom asking about my origins...
+Dialogue: 99,0:17:52.37,0:17:55.47,Dialogue,Ethelbald,0,0,0,,You have your circumstances, then. \NI understand.
+Dialogue: 99,0:17:57.66,0:17:59.40,Dialogue,Ethelbald,0,0,0,,Please, have a seat.
+Dialogue: 99,0:17:59.40,0:18:00.29,Dialogue,Will,0,0,0,,Thank you.
+Dialogue: 99,0:18:14.28,0:18:18.12,Dialogue,Ethelbald,0,0,0,,William, there are four or five \Nin your group, are there not?
+Dialogue: 99,0:18:18.12,0:18:19.66,Dialogue,Will,0,0,0,,Yes, four of us.
+Dialogue: 99,0:18:19.66,0:18:23.99,Dialogue,Ethelbald,0,0,0,,Which makes you a magic user, a priest, \Na fairy user, and a warrior?
+Dialogue: 99,0:18:23.99,0:18:24.66,Dialogue,Will,0,0,0,,Huh?
+Dialogue: 99,0:18:26.24,0:18:31.06,Dialogue,Will,0,0,0,,A traveling priest, hunter, \Nmerchant, and bard, actually.
+Dialogue: 99,0:18:32.01,0:18:35.78,Dialogue,Ethelbald,0,0,0,,One who shot lightning at the wyvern, \None who made a wall of light,
+Dialogue: 99,0:18:35.78,0:18:39.39,Dialogue,Ethelbald,0,0,0,,one who controlled air currents, \Nand one who broke its neck.
+Dialogue: 99,0:18:39.39,0:18:40.64,Dialogue,Ethelbald,0,0,0,,That makes four, no?
+Dialogue: 99,0:18:40.64,0:18:44.55,Dialogue,Will,0,0,0,,If that makes four people, \Nit is indeed correct we are two of them.
+Dialogue: 99,0:18:45.25,0:18:46.54,Dialogue,Ethelbald,0,0,0,,What does that mean?
+Dialogue: 99,0:18:46.54,0:18:48.82,Dialogue,Will,0,0,0,,My friend there, Meneldor, \Ncalled the fairies,
+Dialogue: 99,0:18:48.82,0:18:51.56,Dialogue,Will,0,0,0,,spread Words, \Nand manipulated the air currents
+Dialogue: 99,0:18:51.56,0:18:54.93,Dialogue,Will,0,0,0,,to bring the wyvern down to the ground.
+Dialogue: 99,0:18:54.93,0:18:58.05,Dialogue,Ethelbald,0,0,0,,So he is the fairy user, then?
+Dialogue: 99,0:18:58.05,0:18:59.03,Dialogue,Ethelbald,0,0,0,,And the rest?
+Dialogue: 99,0:18:59.03,0:19:00.66,Dialogue,Will,0,0,0,,Was me.
+Dialogue: 99,0:19:03.03,0:19:06.79,Dialogue,Ethelbald,0,0,0,,I'm sorry, but would you mind \Ntelling me what you did?
+Dialogue: 99,0:19:09.60,0:19:12.87,Dialogue,Will,0,0,0,,I used brute force to break its neck.
+Dialogue: 99,0:19:12.87,0:19:15.79,Dialogue,Ethelbald,0,0,0,,You kill a wyvern and feel no pride?
+Dialogue: 99,0:19:15.79,0:19:18.38,Dialogue,Ethelbald,0,0,0,,You really are a warrior \Nof unparalleled bravery.
+Dialogue: 99,0:19:18.38,0:19:19.45,Dialogue,Will,0,0,0,,Uh...
+Dialogue: 99,0:19:20.33,0:19:23.42,Dialogue,Will,0,0,0,,Does anything need to be done to fix \Nthe damage that the wyvern caused?
+Dialogue: 99,0:19:23.74,0:19:27.05,Dialogue,Ethelbald,0,0,0,,Of course, work has already been \Ndone, and more is yet to come.
+Dialogue: 99,0:19:27.31,0:19:30.76,Dialogue,Ethelbald,0,0,0,,But there is something more \Nimportant that must be done.
+Dialogue: 99,0:19:30.99,0:19:35.42,Dialogue,Ethelbald,0,0,0,,Yes. Offering my thanks to \Nthe hero, for example.
+Dialogue: 99,0:19:35.42,0:19:36.78,Dialogue,Will,0,0,0,,No, I—
+Dialogue: 99,0:19:36.78,0:19:38.52,Dialogue,Ethelbald,0,0,0,,Do not be modest.
+Dialogue: 99,0:19:38.52,0:19:41.82,Dialogue,Ethelbald,0,0,0,,I do not want my people to see \Nme as an ungrateful man.
+Dialogue: 99,0:19:42.89,0:19:48.51,Dialogue,Ethelbald,0,0,0,,I, Ethelbald, thank you both on behalf \Nof the people of Whitesails.
+Dialogue: 99,0:19:49.15,0:19:53.96,Dialogue,Ethelbald,0,0,0,,You did well to minimize the damage \Ncaused by a wyvern's surprise attack.
+Dialogue: 99,0:19:53.96,0:19:56.62,Dialogue,Will,0,0,0,,I am unworthy of such praise.
+Dialogue: 99,0:19:57.46,0:20:01.55,Dialogue,Ethelbald,0,0,0,,I would like to give you a reward. \NIs there anything you want?
+Dialogue: 99,0:20:03.90,0:20:08.73,Dialogue,Will,0,0,0,,I traveled here today via \NBeast Woods to the south.
+Dialogue: 99,0:20:09.09,0:20:11.48,Dialogue,Will,0,0,0,,The villages in that area \Nare currently under threat
+Dialogue: 99,0:20:11.48,0:20:15.39,Dialogue,Will,0,0,0,,by an army of demons commanding \Nsavage demon beasts.
+Dialogue: 99,0:20:17.90,0:20:19.22,Dialogue,Will,0,0,0,,Um, if I may ask...
+Dialogue: 99,0:20:19.48,0:20:21.73,Dialogue,Will,0,0,0,,Would it be possible for Your Highness
+Dialogue: 99,0:20:21.73,0:20:24.89,Dialogue,Will,0,0,0,,to send soldiers to hunt down the demons?
+Dialogue: 99,0:20:24.89,0:20:26.69,Dialogue,Ethelbald,0,0,0,,It's not impossible,
+Dialogue: 99,0:20:26.69,0:20:28.50,Dialogue,Ethelbald,0,0,0,,but it would be difficult.
+Dialogue: 99,0:20:28.50,0:20:30.50,Dialogue,Ethelbald,0,0,0,,You saw that wyvern.
+Dialogue: 99,0:20:30.50,0:20:32.74,Dialogue,Ethelbald,0,0,0,,Demon beasts much like it have \Nbeen causing frequent incidents
+Dialogue: 99,0:20:32.74,0:20:35.33,Dialogue,Ethelbald,0,0,0,,within the parts of \NSouthmark that I govern.
+Dialogue: 99,0:20:35.33,0:20:36.70,Dialogue,Will,0,0,0,,You mean...
+Dialogue: 99,0:20:36.70,0:20:39.29,Dialogue,Ethelbald,0,0,0,,Yes. It's that toxic miasma.
+Dialogue: 99,0:20:39.73,0:20:42.71,Dialogue,Ethelbald,0,0,0,,Any being it touches is corrupted \Nby the poison and turns savage.
+Dialogue: 99,0:20:43.23,0:20:45.80,Dialogue,Ethelbald,0,0,0,,Are you certain you are \Nwell yourself, William?
+Dialogue: 99,0:20:46.13,0:20:48.38,Dialogue,Will,0,0,0,,I am naturally resistant to poisons.
+Dialogue: 99,0:20:48.38,0:20:50.02,Dialogue,Ethelbald,0,0,0,,That is good to hear.
+Dialogue: 99,0:20:50.50,0:20:52.31,Dialogue,Ethelbald,0,0,0,,Under the previous king's policies,
+Dialogue: 99,0:20:52.31,0:20:54.39,Dialogue,Ethelbald,0,0,0,,we expanded our domain too much.
+Dialogue: 99,0:20:54.39,0:20:59.27,Dialogue,Ethelbald,0,0,0,,We cannot even sufficiently protect \Nthe villages we directly govern.
+Dialogue: 99,0:20:59.58,0:21:01.68,Dialogue,Ethelbald,0,0,0,,Do you understand my meaning?
+Dialogue: 99,0:21:04.27,0:21:07.15,Dialogue,Will,0,0,0,,Then... would you give me permission
+Dialogue: 99,0:21:07.15,0:21:09.36,Dialogue,Will,0,0,0,,to hire adventurers and \Nmercenaries with my own money
+Dialogue: 99,0:21:09.36,0:21:12.03,Dialogue,Will,0,0,0,,and organize an army to \Ndrive out the demons?
+Dialogue: 99,0:21:14.05,0:21:19.08,Dialogue,Ethelbald,0,0,0,,William, do you realize \Nwhat that would mean?
+Dialogue: 99,0:21:19.08,0:21:23.52,Dialogue,Will,0,0,0,,I understand that I am asking \Na great deal of you.
+Dialogue: 99,0:21:23.52,0:21:25.67,Dialogue,Ethelbald,0,0,0,,Yet you stand by your request?
+Dialogue: 99,0:21:26.02,0:21:26.77,Dialogue,Will,0,0,0,,Yes.
+Dialogue: 99,0:21:27.29,0:21:28.82,Dialogue,Will,0,0,0,,If I do not,
+Dialogue: 99,0:21:28.82,0:21:32.82,Dialogue,Will,0,0,0,,how many tragedies would we be \Nforced to simply overlook?
+Dialogue: 99,0:21:32.82,0:21:37.68,Dialogue,Ethelbald,0,0,0,,But to save everyone is a task \Nnot even the gods can achieve.
+Dialogue: 99,0:21:42.56,0:21:44.18,Dialogue,Ethelbald,0,0,0,,Honestly...
+Dialogue: 99,0:21:44.18,0:21:48.54,Dialogue,Ethelbald,0,0,0,,If only you were some nameless man \Nmaking this request of me...
+Dialogue: 99,0:21:48.54,0:21:49.94,Dialogue,Will,0,0,0,,Aveți dreptate.
+Dialogue: 99,0:21:49.94,0:21:52.58,Dialogue,Will,0,0,0,,That said, had I not killed the wyvern,
+Dialogue: 99,0:21:52.58,0:21:55.09,Dialogue,Will,0,0,0,,I may never have had the opportunity \Nto speak with Your Highness.
+Dialogue: 99,0:21:55.09,0:21:56.97,Dialogue,Ethelbald,0,0,0,,Asta așa este.
+Dialogue: 99,0:21:57.30,0:21:58.25,Dialogue,Ethelbald,0,0,0,,Dar...
+Dialogue: 99,0:21:59.07,0:22:03.03,Dialogue,Ethelbald,0,0,0,,Trebuie să iau în considerare \Nvarianta de a te ucide.
 Dialogue: 0,0:01:53.05,0:02:00.30,DedzuyaSigns,Title,0,0,0,,Pânzele Albe \NEpisodul 9
 Dialogue: 0,0:03:57.13,0:04:01.51,DedzuyaSigns,Text,0,0,0,,Căldură
 Dialogue: 0,0:10:56.67,0:10:57.17,DedzuyaSigns,Text,0,0,0,,{\blur1}Words

@@ -41,341 +41,341 @@ Style: logo,Amperzand,30,&H00D3D3D6,&H000000FF,&H00303033,&HFF000000,-1,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:19.16,0:00:22.64,Dialogue,,0,0,0,,Elevi ai clasei 1-B...
-Dialogue: 100,0:00:22.64,0:00:25.50,Dialogue,,0,0,0,,Să avem o zi grozavă și astăzi.
-Dialogue: 100,0:00:25.50,0:00:26.32,Dialogue,,0,0,0,,Bleah!
-Dialogue: 100,0:00:26.32,0:00:28.35,Dialogue,,0,0,0,,Doamna profesoară, \Nmirosiți a alcool!
-Dialogue: 100,0:00:28.35,0:00:30.79,Dialogue,,0,0,0,,Am băut prea mult aseară.
-Dialogue: 100,0:00:32.88,0:00:37.26,Dialogue,,0,0,0,,Voi anunța acum punctele totale \Nale fiecărei clase din această lună!
-Dialogue: 100,0:00:37.83,0:00:42.77,Dialogue,,0,0,0,,Punctele voastre personale \Nvor fi alocate mâine...
-Dialogue: 100,0:00:43.14,0:00:45.24,Dialogue,,0,0,0,,Am mai obținut puncte!
-Dialogue: 100,0:00:45.24,0:00:46.57,Dialogue,,0,0,0,,Da! Da!
-Dialogue: 100,0:00:46.57,0:00:48.77,Dialogue,,0,0,0,,Credeți că este datorită \Nnotelor noastre la teste?
-Dialogue: 100,0:00:48.77,0:00:51.42,Dialogue,,0,0,0,,Sesiunea de învățat i-a ajutat \Npe toți să ia note mai mari!
-Dialogue: 100,0:00:51.42,0:00:53.85,Dialogue,,0,0,0,,O, nu, este datorită \Nfaptului că v-ați străduit...
-Dialogue: 100,0:00:53.85,0:00:55.66,Dialogue,,0,0,0,,Te iubesc, Ichinose-san!
-Dialogue: 100,0:00:55.66,0:00:57.41,Dialogue,,0,0,0,,Hei! Ch-Chihiro-chan!
-Dialogue: 100,0:00:57.41,0:00:58.74,Dialogue,,0,0,0,,Și eu!
-Dialogue: 100,0:00:59.49,0:01:00.90,Dialogue,,0,0,0,,Așteptați! Așteptați!
-Dialogue: 100,0:01:00.90,0:01:01.93,Dialogue,,0,0,0,,Nu așteptăm!
-Dialogue: 100,0:01:01.93,0:01:02.90,Dialogue,,0,0,0,,Fetelor...
-Dialogue: 100,0:01:02.90,0:01:06.49,Dialogue,,0,0,0,,Sunt așa fericită că am \Nfac parte din clasa B.
-Dialogue: 100,0:01:06.49,0:01:08.92,Dialogue,,0,0,0,,Deoarece ești și tu în ea, Ichinose-san.
-Dialogue: 100,0:01:10.84,0:01:13.92,Dialogue,,0,0,0,,{\i1}Și eu mă bucur că sunt în clasa B.
-Dialogue: 100,0:01:13.92,0:01:17.43,Dialogue,,0,0,0,,{\i1}Diriginta noastră este \Npuțin neobișnuită,
-Dialogue: 100,0:01:17.93,0:01:20.19,Dialogue,,0,0,0,,{\i1}dar colegii mei de clasa sunt cu \Ntoții niște persoane cumsecade.
-Dialogue: 100,0:01:20.66,0:01:26.19,Dialogue,,0,0,0,,{\i1}De asta vreau să ajungem \Ncu toții în clasa A împreună!
-Dialogue: 100,0:01:37.25,0:01:39.20,Dialogue,,0,0,0,,Intri sau nu?
-Dialogue: 100,0:01:39.20,0:01:41.95,Dialogue,,0,0,0,,Intru. Mă voi urca dacă nu te deranjează.
-Dialogue: 100,0:01:46.74,0:01:49.08,Dialogue,,0,0,0,,'Neața, Ayanokoji-kun.
-Dialogue: 100,0:01:49.08,0:01:52.37,Dialogue,,0,0,0,,Ai părul puțin nearanjat la spate.
-Dialogue: 100,0:01:52.37,0:01:54.71,Dialogue,,0,0,0,,Părul natural este la modă zilele astea.
-Dialogue: 100,0:01:56.04,0:01:58.73,Dialogue,,0,0,0,,Ești așa amuzant, Ayanokoji-kun!
-Dialogue: 100,0:02:00.51,0:02:02.93,Dialogue,,0,0,0,,Dacă mă trădezi, vei plăti.
-Dialogue: 100,0:02:03.22,0:02:06.98,Dialogue,,0,0,0,,Poate voi încerca și eu părul natural!
-Dialogue: 100,0:02:07.86,0:02:11.48,Dialogue,,0,0,0,,{\i1}Vom fi în același cămin până la absolvire...
-Dialogue: 100,0:02:12.30,0:02:16.39,Dialogue,,0,0,0,,Sunt surprins să te văd pe \Ntine și pe Kushida împreună.
-Dialogue: 100,0:02:16.39,0:02:18.60,Dialogue,,0,0,0,,M-a așteptat la ușa camerei.
-Dialogue: 100,0:02:25.19,0:02:26.45,Dialogue,,0,0,0,,Of...
-Dialogue: 100,0:02:26.45,0:02:29.85,Dialogue,,0,0,0,,Chiar speram să putem \Nmerge spre școală împreună.
-Dialogue: 100,0:02:29.85,0:02:32.04,Dialogue,,0,0,0,,'Neața, Kushida-san!
-Dialogue: 100,0:02:32.42,0:02:33.92,Dialogue,,0,0,0,,Ichinose-san.
-Dialogue: 100,0:02:34.70,0:02:36.94,Dialogue,,0,0,0,,Kushida-san, acesta este iubitul tău?
-Dialogue: 100,0:02:37.64,0:02:39.01,Dialogue,,0,0,0,,Desigur că nu!
-Dialogue: 100,0:02:39.01,0:02:41.08,Dialogue Overlap,,0,0,0,,Serios? Eram sigură că...
-Dialogue: 100,0:02:39.54,0:02:42.01,Dialogue,,0,0,0,,{\i1}Cred că voia aia cu adevărat, probabil.
-Dialogue: 100,0:02:41.08,0:02:42.01,Dialogue Overlap,,0,0,0,,Nu, nu!
-Dialogue: 100,0:02:42.69,0:02:47.52,Dialogue,,0,0,0,,Asta-mi aduce aminte... \NV-ați primit punctele astăzi?
-Dialogue: 100,0:04:21.86,0:04:23.91,Dialogue,,0,0,0,,Există o mică problemă.
-Dialogue: 100,0:04:25.05,0:04:27.99,Dialogue,,0,0,0,,Furnizarea de puncte pentru \Ncei din anul 1 a fost întârziată.
-Dialogue: 100,0:04:27.99,0:04:29.88,Dialogue,,0,0,0,,Glumiți?
-Dialogue: 100,0:04:29.88,0:04:33.62,Dialogue,,0,0,0,,Primim vreun fel de compesație \Npentru greșelile școlii?
-Dialogue: 100,0:04:33.62,0:04:36.55,Dialogue,,0,0,0,,Eu nu pot face nimic.
-Dialogue: 100,0:04:36.55,0:04:39.69,Dialogue,,0,0,0,,În clipa în care problema se va \Nrezolva, punctele vor fi distribuite.
-Dialogue: 100,0:04:40.21,0:04:43.01,Dialogue,,0,0,0,,Presupunând că încă mai \Naveți puncte până atunci.
-Dialogue: 100,0:04:57.55,0:04:59.90,Dialogue,,0,0,0,,Îmi cer scuze că te-am chemat până aici.
-Dialogue: 100,0:05:00.25,0:05:02.53,Dialogue,,0,0,0,,Ce este?
-Dialogue: 100,0:05:03.33,0:05:06.74,Dialogue,,0,0,0,,Îți voi spune imediat, \Nfără a devia de la subiect...
-Dialogue: 100,0:05:15.93,0:05:17.34,Dialogue,,0,0,0,,Cred că...
-Dialogue: 100,0:05:20.93,0:05:23.81,Dialogue,,0,0,0,,...cineva își va mărturisi sentimentele pentru mine! Exact în acest loc!
-Dialogue: 100,0:05:26.38,0:05:27.18,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:05:27.93,0:05:31.31,Dialogue,,0,0,0,,Stai, ei bine... Atunci, nu ar fi \Nmai bine dacă nu aș fi aici?
-Dialogue: 100,0:05:31.31,0:05:34.90,Dialogue,,0,0,0,,Dar nu știu nimic despre ieșitul împreună.
-Dialogue: 100,0:05:35.53,0:05:38.31,Dialogue,,0,0,0,,Am găsit această scrisoare \Nieri în dulapul meu.
-Dialogue: 100,0:05:38.31,0:05:40.77,Dialogue,,0,0,0,,Eu nu simt același lucru.
-Dialogue: 100,0:05:41.22,0:05:44.97,Dialogue,,0,0,0,,Și nu știu cum s-o pe refuz \Nacea persoană fără s-o rănesc.
-Dialogue: 100,0:05:46.30,0:05:50.69,Dialogue,,0,0,0,,Deci mă gândeam că, dacă te-ai \Npreface că ești iubitul meu... și...
-Dialogue: 100,0:05:50.69,0:05:52.90,Dialogue,,0,0,0,,{\i1}Acel clișeu vechi, nu?
-Dialogue: 100,0:05:52.90,0:05:54.33,Dialogue,,0,0,0,,Te rog!
-Dialogue: 100,0:05:54.33,0:05:58.45,Dialogue,,0,0,0,,Ar fi mai bine dacă ai vorbi cu acea persoană, față în față.
-Dialogue: 100,0:05:58.45,0:05:59.30,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:06:05.83,0:06:08.47,Dialogue,,0,0,0,,Ichinose-san... cine este el?
-Dialogue: 100,0:06:08.47,0:06:14.43,Dialogue,,0,0,0,,E-Ei bine, scuze, Chihiro-chan... \NAm adus pe cineva pe care nu-l cunoști.
-Dialogue: 100,0:06:15.97,0:06:19.23,Dialogue,,0,0,0,,El este Ayanokoji-kun din clasa D.
-Dialogue: 100,0:06:20.53,0:06:24.48,Dialogue,,0,0,0,,Este cumva... iubitul tău?
-Dialogue: 100,0:06:26.18,0:06:29.12,Dialogue,,0,0,0,,Ayanokoji-kun este... El este—
-Dialogue: 100,0:06:29.12,0:06:30.49,Dialogue,,0,0,0,,Suntem doar prieteni.
-Dialogue: 100,0:06:31.99,0:06:37.44,Dialogue,,0,0,0,,Ichinose, să-ți mărturisești sentimentele pentru cineva nu este o treabă ușoară.
-Dialogue: 100,0:06:38.03,0:06:42.90,Dialogue,,0,0,0,,Îți petreci fiecare zi în chinuindu-te, și tot nu reușești s-o faci.
-Dialogue: 100,0:06:42.90,0:06:47.01,Dialogue,,0,0,0,,Cuvintele "Te iubesc" îți stau pe limbă, dar nu reușești să le spui.
-Dialogue: 100,0:06:47.89,0:06:52.26,Dialogue,,0,0,0,,Eu cred că sentimentele ei sincere merită un răspuns, nu-i așa
-Dialogue: 100,0:06:56.76,0:06:59.77,Dialogue,,0,0,0,,Desigur, nu eu ar trebui să vorbesc...
-Dialogue: 100,0:07:24.68,0:07:26.92,Dialogue,,0,0,0,,Presupun că ați reușit să vorbiți, nu?
-Dialogue: 100,0:07:27.43,0:07:28.51,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:07:30.28,0:07:34.49,Dialogue,,0,0,0,,Am fost foarte concentrată \Nsă nu-i rănesc sentimentele...
-Dialogue: 100,0:07:34.49,0:07:35.93,Dialogue,,0,0,0,,Încercam doar să fug.
-Dialogue: 100,0:07:36.60,0:07:38.03,Dialogue,,0,0,0,,Era greșit, nu-i așa?
-Dialogue: 100,0:07:39.40,0:07:42.93,Dialogue,,0,0,0,,Ne-am spus că vom încerca să revenim la normal mâine...
-Dialogue: 100,0:07:43.34,0:07:44.94,Dialogue,,0,0,0,,Mă întreb dacă vom reuși s-o facem.
-Dialogue: 100,0:07:46.03,0:07:48.07,Dialogue,,0,0,0,,Cred că asta depinde de voi două.
-Dialogue: 100,0:07:48.07,0:07:49.09,Dialogue,,0,0,0,,Da...
-Dialogue: 100,0:07:51.42,0:07:54.66,Dialogue,,0,0,0,,Îmi cer scuze pentru astăzi, \Npentru că te-am implicat în asta.
-Dialogue: 100,0:07:55.06,0:07:58.37,Dialogue,,0,0,0,,Nu mă deranjează să am o zi \Nca aceasta din când în când.
-Dialogue: 100,0:08:00.46,0:08:02.77,Dialogue,,0,0,0,,Se pare că îți sunt datoare, nu?
-Dialogue: 100,0:08:20.69,0:08:22.07,Dialogue,,0,0,0,,Interesant.
-Dialogue: 100,0:08:25.30,0:08:28.40,Dialogue,,0,0,0,,Vă spun că nu este așa!
-Dialogue: 100,0:08:28.40,0:08:30.65,Dialogue,,0,0,0,,Ei erau trei!
-Dialogue: 100,0:08:30.65,0:08:32.06,Dialogue,,0,0,0,,Și totuși...
-Dialogue: 100,0:08:32.06,0:08:33.49,Dialogue,,0,0,0,,Da...
-Dialogue: 100,0:08:34.63,0:08:35.69,Dialogue,,0,0,0,,{\i1}Ce se întâmplă?
-Dialogue: 100,0:08:35.69,0:08:39.41,Dialogue,,0,0,0,,Ayanokoji-kun... Cred că ceva \Nrău se poate să se fi întâmplat.
-Dialogue: 100,0:08:40.10,0:08:41.91,Dialogue,,0,0,0,,Membrii clubului de baschet din clasa C
-Dialogue: 100,0:08:41.91,0:08:45.16,Dialogue,,0,0,0,,au depus o plângere la \Nșcoală împotriva lui Sudo.
-Dialogue: 100,0:08:45.16,0:08:48.86,Dialogue,,0,0,0,,Au susținut că după antrenament, Sudo i-a atacat și i-a rănit
-Dialogue: 100,0:08:48.86,0:08:50.67,Dialogue,,0,0,0,,fără a-l provoca.
-Dialogue: 100,0:08:50.67,0:08:53.33,Dialogue,,0,0,0,,A fost autoapărare! Autoapărare!
-Dialogue: 100,0:08:53.33,0:08:57.69,Dialogue,,0,0,0,,Erau invidioși că am devenit un jucător de start al echipei, așa că au sărit la bătaie!
-Dialogue: 100,0:08:57.69,0:08:59.65,Dialogue,,0,0,0,,Nu există nicio dovadă pentru asta.
-Dialogue: 100,0:08:59.65,0:09:02.61,Dialogue,,0,0,0,,Totuși, dacă ar exista un martor, \Nar fi o poveste diferită.
-Dialogue: 100,0:09:03.82,0:09:04.96,Dialogue,,0,0,0,,Toată lumea!
-Dialogue: 100,0:09:04.96,0:09:09.23,Dialogue,,0,0,0,,A văzut cineva din întâmplare bătaia lui Sudo-kun? Știe cineva ceva despre ea?
-Dialogue: 100,0:09:18.05,0:09:23.09,Dialogue,,0,0,0,,Poate că ar fi fost mai bine dacă erai exmatriculat, Păr roșu-kun.
-Dialogue: 100,0:09:23.09,0:09:26.83,Dialogue,,0,0,0,,Prezența ta nu este deloc frumoasă.
-Dialogue: 100,0:09:27.83,0:09:29.87,Dialogue,,0,0,0,,Sudo-kun! Oprește-te!
-Dialogue: 100,0:09:29.87,0:09:31.34,Dialogue,,0,0,0,,Într-o săptămână,
-Dialogue: 100,0:09:31.74,0:09:35.59,Dialogue,,0,0,0,,va fi o discuție cu clasa C, \Nunde va participa și consiliul elevilor.
-Dialogue: 100,0:09:36.10,0:09:39.32,Dialogue,,0,0,0,,În funcție de cum se va termina, \Nar putea să vă fie retrase punctele
-Dialogue: 100,0:09:39.32,0:09:41.79,Dialogue,,0,0,0,,și să se ia măsuri disciplinare pentru Sudo.
-Dialogue: 100,0:09:56.63,0:10:00.87,Dialogue,,0,0,0,,Acele maimuțe din clasa D cu \Nsiguranță sunt foarte agitați acum.
-Dialogue: 100,0:10:15.66,0:10:16.82,Dialogue,,0,0,0,,Ryuen-san...
-Dialogue: 100,0:10:18.09,0:10:20.59,Dialogue,,0,0,0,,Cred că am fost văzuți.
-Dialogue: 100,0:10:21.27,0:10:25.52,Dialogue,,0,0,0,,Când ne-am bătut cu Sudo, aveam \Nsentimentul că cineva era în apropiere...
-Dialogue: 100,0:10:26.87,0:10:28.52,Dialogue,,0,0,0,,Băiat rău.
-Dialogue: 100,0:10:44.07,0:10:46.14,Dialogue,,0,0,0,,Arăți ca o victimă adevărată acum.
-Dialogue: 100,0:10:47.48,0:10:49.92,Dialogue,,0,0,0,,M-Mulțumesc, domnule.
-Dialogue: 100,0:10:50.99,0:10:54.25,Dialogue,,0,0,0,,Dansează bine, exact cum plănuisem.
-Dialogue: 100,0:11:01.35,0:11:03.05,Dialogue,,0,0,0,,Și este numai vina lui Sudo.
-Dialogue: 100,0:11:03.05,0:11:04.22,Dialogue,,0,0,0,,Asta este nașpa.
-Dialogue: 100,0:11:04.22,0:11:07.56,Dialogue,,0,0,0,,Încă o lună în care trebuie \Nsă trăim cu zero puncte...
-Dialogue: 100,0:11:07.56,0:11:10.50,Dialogue,,0,0,0,,Poate ar fi fost mai bine \Ndacă ar fi fost exmatriculat.
-Dialogue: 100,0:11:10.50,0:11:11.93,Dialogue,,0,0,0,,Știu...
-Dialogue: 100,0:11:12.63,0:11:14.31,Dialogue,,0,0,0,,Ești de acord cu ele?
-Dialogue: 100,0:11:14.31,0:11:17.94,Dialogue,,0,0,0,,Că Sudo-kun ar fi trebuit să fie exmatriculat.
-Dialogue: 100,0:11:18.39,0:11:19.62,Dialogue,,0,0,0,,Nu am o părere.
-Dialogue: 100,0:11:20.12,0:11:21.90,Dialogue,,0,0,0,,Tu ce crezi,
-Dialogue: 100,0:11:21.90,0:11:23.70,Dialogue,,0,0,0,,ca una din persoanele care l-a ajutat?
-Dialogue: 100,0:11:24.45,0:11:26.89,Dialogue,,0,0,0,,În acest moment, avem zero puncte.
-Dialogue: 100,0:11:26.89,0:11:29.84,Dialogue,,0,0,0,,Chiar dacă am fi fost penalizați pentru \Ncă cineva din clasa a fost exmatriculat,
-Dialogue: 100,0:11:29.84,0:11:31.46,Dialogue,,0,0,0,,nu am mai fi putut pierde puncte.
-Dialogue: 100,0:11:32.28,0:11:33.83,Dialogue,,0,0,0,,Da, cred că ai dreptate.
-Dialogue: 100,0:11:35.71,0:11:38.59,Dialogue,,0,0,0,,Ce? Nu-mi place felul cum ai spus-o.
-Dialogue: 100,0:11:38.59,0:11:42.28,Dialogue,,0,0,0,,Nu știm niciodată când experimentăm \Npierderi sau obțineri pe care nu le vedem.
-Dialogue: 100,0:11:42.28,0:11:43.47,Dialogue,,0,0,0,,Ce vrea să însemne asta?
-Dialogue: 100,0:11:43.86,0:11:48.47,Dialogue,,0,0,0,,Poate sunt valori negative ale punctelor pe care le obținem și nu ne sunt arătate.
-Dialogue: 100,0:11:48.47,0:11:54.71,Dialogue,,0,0,0,,Dezavantajele unei exmatriculări s-ar \Nputea să nu ne lovească acum, ci în viitor.
-Dialogue: 100,0:11:55.48,0:12:01.50,Dialogue,,0,0,0,,De exemplu, "să nu fie persoane exmatriculate" ar putea fi o condiție ca să ajungi în clasa A.
-Dialogue: 100,0:12:02.68,0:12:04.11,Dialogue,,0,0,0,,Prea despici firul în patru.
-Dialogue: 100,0:12:04.49,0:12:08.23,Dialogue,,0,0,0,,Nu știm cum funcționează sistemul școlii.
-Dialogue: 100,0:12:08.65,0:12:10.58,Dialogue,,0,0,0,,Dacă vrei să ajungi în clasa A,
-Dialogue: 100,0:12:10.58,0:12:13.87,Dialogue,,0,0,0,,ar trebui să elimini toate \Namenințările la care te poți gândi.
-Dialogue: 100,0:12:15.50,0:12:19.46,Dialogue,,0,0,0,,Pe lângă asta, Sudo este atletic și \Nare o reputație bună în clubul său.
-Dialogue: 100,0:12:19.46,0:12:21.09,Dialogue,,0,0,0,,Ar putea fi de fo—
-Dialogue: 100,0:12:21.09,0:12:22.88,Dialogue,,0,0,0,,Toată lumea, ascultați-mă.
-Dialogue: 100,0:12:23.56,0:12:25.83,Dialogue,,0,0,0,,Eu vreau să am încredere \Nîn colegii mei de clasă.
-Dialogue: 100,0:12:26.47,0:12:30.53,Dialogue,,0,0,0,,De ce nu lucrăm împreună ca să găsim martori sau indicii?
-Dialogue: 100,0:12:30.53,0:12:32.85,Dialogue,,0,0,0,,Tare, mă bag!
-Dialogue: 100,0:12:32.85,0:12:34.77,Dialogue,,0,0,0,,Dacă asta vrei, Hirata-kun...
-Dialogue: 100,0:12:34.77,0:12:36.47,Dialogue,,0,0,0,,Și eu voi participa!
-Dialogue: 100,0:12:36.47,0:12:38.65,Dialogue,,0,0,0,,Dacă noi nu vom crede în el, atunci cine o va face?
-Dialogue: 100,0:12:38.65,0:12:40.20,Dialogue,,0,0,0,,Dacă așa spune Kushida-chan...
-Dialogue: 100,0:12:40.20,0:12:41.28,Dialogue,,0,0,0,,...și noi vom participa!
-Dialogue: 100,0:12:41.71,0:12:44.28,Dialogue,,0,0,0,,Hei, Horikita-san, Ayanokoji-kun...
-Dialogue: 100,0:12:44.28,0:12:46.16,Dialogue,,0,0,0,,Ne veți ajuta, nu-i așa?
-Dialogue: 100,0:12:46.51,0:12:51.29,Dialogue,,0,0,0,,După tot ce ai spus, sunt \Nsigură că vei ajuta, nu-i așa?
-Dialogue: 100,0:12:51.29,0:12:54.49,Dialogue,,0,0,0,,Ei bine, nu este ca și cum vreau să ajung în clasa A...
-Dialogue: 100,0:12:54.49,0:12:57.26,Dialogue,,0,0,0,,Ne vei ajuta? Mersi!
-Dialogue: 100,0:12:58.26,0:13:00.30,Dialogue,,0,0,0,,Da... așa cred.
-Dialogue: 100,0:13:00.30,0:13:02.35,Dialogue,,0,0,0,,Horikita-san, ne vei...
-Dialogue: 100,0:13:07.95,0:13:09.90,Dialogue,,0,0,0,,Să dăm tot ce putem împreună.
-Dialogue: 100,0:13:09.90,0:13:12.15,Dialogue,,0,0,0,,Dar dacă căutăm martori...
-Dialogue: 100,0:13:12.15,0:13:15.81,Dialogue,,0,0,0,,Sudo-kun nu ar trebui \Nsă ia parte la asta, nu?
-Dialogue: 100,0:13:15.81,0:13:19.70,Dialogue,,0,0,0,,Da, nu ar arăta bine dacă l-am implica pe cel care a participat la incident.
-Dialogue: 100,0:13:19.70,0:13:21.32,Dialogue,,0,0,0,,Așa este...
-Dialogue: 100,0:13:21.63,0:13:25.21,Dialogue,,0,0,0,,Bine. Îi voi spune lui Sudo-kun despre asta eu însămi.
-Dialogue: 100,0:13:25.21,0:13:26.94,Dialogue,,0,0,0,,Ne vedem după ore, bine?
-Dialogue: 100,0:13:31.48,0:13:34.51,Dialogue,,0,0,0,,Nu am putut găsi vreun martor sau indiciu.
-Dialogue: 100,0:13:34.51,0:13:38.35,Dialogue,,0,0,0,,Există și posibilitatea ca Sudo să mintă.
-Dialogue: 100,0:13:38.35,0:13:40.00,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:13:40.00,0:13:41.59,Dialogue,,0,0,0,,Cum rămâne cu grupul lui Hirata?
-Dialogue: 100,0:13:41.59,0:13:45.47,Dialogue,,0,0,0,,I-am întrebat, dar se pare că n-au găsit nimic.
-Dialogue: 100,0:13:45.47,0:13:49.59,Dialogue,,0,0,0,,Hei! Ayanokoji-kun! Kushida-san!
-Dialogue: 100,0:13:49.59,0:13:51.35,Dialogue,,0,0,0,,Ichinose-san?
-Dialogue: 100,0:13:51.35,0:13:54.38,Dialogue,,0,0,0,,Câteva persoane din clasa mea mi-au spus...
-Dialogue: 100,0:13:54.38,0:13:56.48,Dialogue,,0,0,0,,Investigați ceva?
-Dialogue: 100,0:13:59.32,0:14:02.23,Dialogue,,0,0,0,,Înțeleg... Clasa C...
-Dialogue: 100,0:14:02.23,0:14:06.46,Dialogue,,0,0,0,,Da. Deci dacă cineva știe ceva, \Nne-ar plăcea să ne spună și nouă.
-Dialogue: 100,0:14:06.46,0:14:09.85,Dialogue,,0,0,0,,Scuze. Eu una nu știu nimic...
-Dialogue: 100,0:14:09.85,0:14:12.80,Dialogue,,0,0,0,,Totuși, clasa B vă va ajuta să căutați indicii.
-Dialogue: 100,0:14:12.80,0:14:13.50,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:14:13.50,0:14:14.39,Dialogue,,0,0,0,,Mulțu—
-Dialogue: 100,0:14:14.95,0:14:16.50,Dialogue,,0,0,0,,Ce tot faci?
-Dialogue: 100,0:14:16.89,0:14:18.87,Dialogue,,0,0,0,,{\i1}Probabil că este o schemă.
-Dialogue: 100,0:14:19.47,0:14:22.30,Dialogue,,0,0,0,,Ei bine, nu sunt sigur că ar trebui să contăm pe celelalte clase pentru—
-Dialogue: 100,0:14:22.30,0:14:23.59,Dialogue,,0,0,0,,Nu-ți face griji!
-Dialogue: 100,0:14:23.59,0:14:25.46,Dialogue,,0,0,0,,Nu voi face nimic ciudat.
-Dialogue: 100,0:14:25.87,0:14:28.34,Dialogue,,0,0,0,,Îți sunt datoare. \NÎți amintești , Ayanokoji-kun?
-Dialogue: 100,0:14:30.84,0:14:31.89,Dialogue,,0,0,0,,Sunteți gata?
-Dialogue: 100,0:14:31.89,0:14:32.32,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:32.63,0:14:33.10,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:33.33,0:14:33.87,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:34.24,0:14:35.19,Dialogue,,0,0,0,,Sunteți gata?
-Dialogue: 100,0:14:35.19,0:14:35.72,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:36.16,0:14:36.48,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:36.83,0:14:37.10,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:37.55,0:14:38.60,Dialogue,,0,0,0,,Sunteți gata?
-Dialogue: 100,0:14:38.60,0:14:39.08,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:39.44,0:14:39.82,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:40.24,0:14:40.56,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:40.98,0:14:42.03,Dialogue,,0,0,0,,Sunteți gata?
-Dialogue: 100,0:14:42.03,0:14:42.40,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:42.86,0:14:43.23,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:43.61,0:14:43.95,Dialogue,,0,0,0,,Luptați!
-Dialogue: 100,0:14:44.27,0:14:45.48,Dialogue,,0,0,0,,Ayanokoji-kun!
-Dialogue: 100,0:14:46.02,0:14:46.78,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:14:47.56,0:14:48.82,Dialogue,,0,0,0,,Acest anunț...
-Dialogue: 100,0:14:48.82,0:14:51.74,Dialogue,,0,0,0,,Da, a fost ideea lui Kanzaki-kun.
-Dialogue: 100,0:14:51.74,0:14:55.10,Dialogue,,0,0,0,,Cerem informații prin panoul de mesaje online al clasei...
-Dialogue: 100,0:14:56.23,0:14:57.95,Dialogue,,0,0,0,,Am primit un email deja.
-Dialogue: 100,0:14:57.95,0:14:59.16,Dialogue,,0,0,0,,Ce spune?
-Dialogue: 100,0:15:01.32,0:15:03.95,Dialogue,,0,0,0,,Se pare că unul din băieții care s-au bătut cu Sudo-kun,
-Dialogue: 100,0:15:03.95,0:15:07.76,Dialogue,,0,0,0,,Ishizaki-kun, era destul de sălbatic în gimnaziu.
-Dialogue: 100,0:15:07.76,0:15:12.12,Dialogue,,0,0,0,,Mai spune și că era bun la bataie și că toată lumea din zonă se temea de el.
-Dialogue: 100,0:15:12.12,0:15:15.75,Dialogue,,0,0,0,,Dacă și ceilalți doi sunt în clubul de baschet, atunci probabil că sunt destul de puternici.
-Dialogue: 100,0:15:15.75,0:15:17.03,Dialogue,,0,0,0,,Nu are sens ca
-Dialogue: 100,0:15:17.03,0:15:20.00,Dialogue,,0,0,0,,Sudo să-i fi putut bate pe \Ntoți trei fără să fie lovit și el.
-Dialogue: 100,0:15:20.00,0:15:21.39,Dialogue,,0,0,0,,Asta e adevărat...
-Dialogue: 100,0:15:21.39,0:15:24.06,Dialogue,,0,0,0,,Există posibilitatea ca ei \Nsă fi vrut ca Sudo să-i bată.
-Dialogue: 100,0:15:24.06,0:15:29.25,Dialogue,,0,0,0,,Pare mult mai logic dacă au făcut asta ca să-l înscheneze pe Sudo.
-Dialogue: 100,0:15:29.25,0:15:31.01,Dialogue,,0,0,0,,Sunt de acord.
-Dialogue: 100,0:15:31.01,0:15:33.46,Dialogue,,0,0,0,,Oricum, ar trebui să-l plătesc pe \Ncel care ne-a trimis informațiile...
-Dialogue: 100,0:15:33.46,0:15:35.77,Dialogue,,0,0,0,,O, este anonim.
-Dialogue: 100,0:15:35.77,0:15:38.27,Dialogue,,0,0,0,,Mă întreb cum îi voi trimite punctele.
-Dialogue: 100,0:15:38.27,0:15:39.86,Dialogue,,0,0,0,,Știu eu cum.
-Dialogue: 100,0:15:41.04,0:15:42.54,Dialogue,,0,0,0,,Atunci, spune-mi!
-Dialogue: 100,0:15:42.54,0:15:44.42,Dialogue,,0,0,0,,{\i1}Este complet fără apărare...
-Dialogue: 100,0:15:44.93,0:15:46.68,Dialogue,,0,0,0,,Va trebui să-ți împrumut \Ncarnetul electronic de elev.
-Dialogue: 100,0:15:46.68,0:15:47.67,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:15:52.38,0:15:53.18,Dialogue,,0,0,0,,Gata.
-Dialogue: 100,0:15:57.23,0:15:58.47,Dialogue,,0,0,0,,Hopa!
-Dialogue: 100,0:15:58.47,0:16:02.12,Dialogue,,0,0,0,,Mersi! Dacă voi mai primi vreo informație, ți-o voi transmite!
-Dialogue: 100,0:16:02.12,0:16:02.98,Dialogue,,0,0,0,,Bine...
-Dialogue: 100,0:16:11.65,0:16:14.35,Dialogue,,0,0,0,,{\i1}Cum a făcut rost de atât de multe puncte?
-Dialogue: 100,0:16:23.70,0:16:24.96,Dialogue,,0,0,0,,Voi toți.
-Dialogue: 100,0:16:24.96,0:16:26.46,Dialogue,,0,0,0,,Hei, bine ai revenit.
-Dialogue: 100,0:16:26.46,0:16:27.94,Dialogue,,0,0,0,,Ayanokoji-kun!
-Dialogue: 100,0:16:27.94,0:16:29.88,Dialogue,,0,0,0,,I-am adunat pe toți pentru tine.
-Dialogue: 100,0:16:29.88,0:16:32.22,Dialogue,,0,0,0,,Este o întrunire în care \Nvom spune ce am aflat!
-Dialogue: 100,0:16:32.22,0:16:34.84,Dialogue,,0,0,0,,Știți, nu-mi vine să cred cât \Nde goală este camera asta.
-Dialogue: 100,0:16:34.84,0:16:37.97,Dialogue,,0,0,0,,Așa este. Nu ai niciun lucru de-al tău.
-Dialogue: 100,0:16:38.44,0:16:40.59,Dialogue,,0,0,0,,Sunt doar lucrurile care ți-au fost oferite.
-Dialogue: 100,0:16:40.59,0:16:42.98,Dialogue,,0,0,0,,Ayanokoji-kun, ești un minimalist?
-Dialogue: 100,0:16:42.98,0:16:45.78,Dialogue,,0,0,0,,Nu am puncte ca să cumpăr ceva.
-Dialogue: 100,0:16:45.78,0:16:48.57,Dialogue,,0,0,0,,Oricum, cum ați intrat aici?
-Dialogue: 100,0:16:48.57,0:16:50.23,Dialogue,,0,0,0,,Am făcut copii la cheie!
-Dialogue: 100,0:16:50.23,0:16:51.82,Dialogue,,0,0,0,,Când ați făcut-o?
-Dialogue: 100,0:16:51.82,0:16:54.20,Dialogue,,0,0,0,,Păi, acesta este locul \Nnostru de întrunire, nu?
-Dialogue: 100,0:16:54.20,0:16:57.16,Dialogue,,0,0,0,,Ce? Stai, nu ar fi trebuit s-o facem?
-Dialogue: 100,0:16:58.13,0:16:59.84,Dialogue,,0,0,0,,Hei... Ți-o voi da înapoi.
-Dialogue: 100,0:16:59.84,0:17:01.87,Dialogue,,0,0,0,,Deși noi n-o vom face!
-Dialogue: 100,0:17:02.57,0:17:04.07,Dialogue,,0,0,0,,Ei bine, nu mai contează...
-Dialogue: 100,0:17:09.23,0:17:10.41,Dialogue,,0,0,0,,Horikita.
-Dialogue: 100,0:17:10.41,0:17:12.02,Dialogue,,0,0,0,,Legat de martori...
-Dialogue: 100,0:17:15.01,0:17:16.01,Dialogue,,0,0,0,,Plec.
-Dialogue: 100,0:17:16.82,0:17:19.15,Dialogue,,0,0,0,,Horikita-san! Ai venit!
-Dialogue: 100,0:17:19.58,0:17:22.26,Dialogue,,0,0,0,,Cred că ar trebui să ne spui ceea ce știi.
-Dialogue: 100,0:17:22.68,0:17:25.61,Dialogue,,0,0,0,,Dacă dorești, putem doar să ascultăm.
-Dialogue: 100,0:17:27.40,0:17:30.44,Dialogue,,0,0,0,,În timp ce voi ați depus atât de mult \Nefort ca să obțineți câteva informații,
-Dialogue: 100,0:17:30.44,0:17:32.09,Dialogue,,0,0,0,,permiteți-mi să vă dau un mic sfat.
-Dialogue: 100,0:17:32.53,0:17:33.88,Dialogue,,0,0,0,,Există un martor.
-Dialogue: 100,0:17:34.78,0:17:36.25,Dialogue,,0,0,0,,Este cineva apropiat.
-Dialogue: 100,0:17:36.71,0:17:38.13,Dialogue,,0,0,0,,Știi cine este?
-Dialogue: 100,0:17:38.69,0:17:41.28,Dialogue,,0,0,0,,Este Sakura-san din clasa noastră.
-Dialogue: 100,0:18:16.50,0:18:19.15,Dialogue,,0,0,0,,Ce te face să crezi că \NSakura a fost martoră?
-Dialogue: 100,0:18:19.15,0:18:22.20,Dialogue,,0,0,0,,În clasă, când Kushida-san a \Ncerut ca să-l ajutăm pe Sudo,
-Dialogue: 100,0:18:22.20,0:18:25.58,Dialogue,,0,0,0,,aproape toți și-au \Nîntors privirile spre ea,
-Dialogue: 100,0:18:25.58,0:18:27.96,Dialogue,,0,0,0,,în timp ce ea și-a ținut \Nprivirea în pământ.
-Dialogue: 100,0:18:28.38,0:18:30.38,Dialogue,,0,0,0,,Numai ea.
-Dialogue: 100,0:18:31.50,0:18:33.33,Dialogue,,0,0,0,,Este inutil. Nu răspunde...
-Dialogue: 100,0:18:34.67,0:18:38.34,Dialogue,,0,0,0,,La naiba. Exact când obținusem \Nniște informații utile...
-Dialogue: 100,0:18:38.34,0:18:43.41,Dialogue,,0,0,0,,Dar chiar dacă ar fi vrut să depună \Nmărturie, nu ar fi însemnat prea mult.
-Dialogue: 100,0:18:44.22,0:18:48.76,Dialogue,,0,0,0,,Întrebarea dacă a fost sau nu \Nautoapărare este un detaliu neimportant.
-Dialogue: 100,0:18:49.24,0:18:50.77,Dialogue,,0,0,0,,Nu v-ați dat seama de asta încă?
-Dialogue: 100,0:18:51.63,0:18:52.94,Dialogue,,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:18:53.98,0:18:55.36,Dialogue,,0,0,0,,Nimic.
-Dialogue: 100,0:18:56.67,0:18:57.86,Dialogue,,0,0,0,,La revedere.
-Dialogue: 100,0:19:06.37,0:19:08.58,Dialogue,,0,0,0,,{\i1}Sakura, nu?
-Dialogue: 100,0:19:08.58,0:19:11.81,Dialogue,,0,0,0,,{\i1}Nu reușesc să-mi amintesc nimic despre ea...
-Dialogue: 100,0:19:15.93,0:19:16.88,Dialogue,,0,0,0,,Kushida.
-Dialogue: 100,0:19:17.41,0:19:20.01,Dialogue,,0,0,0,,Există ceva la care mă tot gândeam.
-Dialogue: 100,0:19:20.33,0:19:26.14,Dialogue,,0,0,0,,Tu ai înțeles ce spunea Horikita-san?
-Dialogue: 100,0:19:28.89,0:19:35.43,Dialogue,,0,0,0,,Chiar dacă ceea ce s-a întâmplat a fost \Nautoapărare, nu este asta sursa problemei.
-Dialogue: 100,0:19:36.02,0:19:41.11,Dialogue,,0,0,0,,Sudo mereu vorbește \Nurât și acționează violent.
-Dialogue: 100,0:19:41.11,0:19:44.35,Dialogue,,0,0,0,,Se poartă într-un fel care aduce inevitabil ură.
-Dialogue: 100,0:19:44.35,0:19:46.74,Dialogue,,0,0,0,,Le oferă o impresie proastă celor din jurul lui.
-Dialogue: 100,0:19:48.22,0:19:50.77,Dialogue,,0,0,0,,Haide să presupunem că are loc o crimă.
-Dialogue: 100,0:19:50.77,0:19:52.47,Dialogue,,0,0,0,,Există doi suspecți.
-Dialogue: 100,0:19:52.47,0:19:55.83,Dialogue,,0,0,0,,Unul care a mai ucis în trecut.
-Dialogue: 100,0:19:55.83,0:19:59.05,Dialogue,,0,0,0,,Iar celălalt este un cetățean \Ncinstit care respectă legea.
-Dialogue: 100,0:19:59.89,0:20:01.30,Dialogue,,0,0,0,,Pe cine ai crede?
-Dialogue: 100,0:20:02.06,0:20:05.30,Dialogue,,0,0,0,,Pe cetățeanul care respectă legea cred.
-Dialogue: 100,0:20:05.30,0:20:08.07,Dialogue,,0,0,0,,S-ar putea să nu fie așa de fapt.
-Dialogue: 100,0:20:08.07,0:20:11.01,Dialogue,,0,0,0,,Dar cu atât de puține dovezi de oferit,
-Dialogue: 100,0:20:11.01,0:20:13.71,Dialogue,,0,0,0,,oamenii trebuie să ia deciziile \Npe baza a ceea ce au deja.
-Dialogue: 100,0:20:14.44,0:20:20.66,Dialogue,,0,0,0,,Spui că Sudo-kun și-a făcut asta singur din cauza istoriei și a comportamentului său?
-Dialogue: 100,0:20:20.66,0:20:23.82,Dialogue,,0,0,0,,Și Sudo nu crede că a făcut ceva greșit.
-Dialogue: 100,0:20:24.23,0:20:27.33,Dialogue,,0,0,0,,Acesta ar putea fi motivul pentru care Horikita nu vrea să ne ajute.
-Dialogue: 100,0:20:27.33,0:20:31.36,Dialogue,,0,0,0,,Dar eu tot cred că trebuie să spune ceva.
-Dialogue: 100,0:20:31.36,0:20:32.96,Dialogue,,0,0,0,,Asta înseamnă să fii prieteni.
-Dialogue: 100,0:20:34.61,0:20:37.68,Dialogue,,0,0,0,,Ar trebui să urmezi ceea ce crezi că este corect.
-Dialogue: 100,0:20:37.68,0:20:39.84,Dialogue,,0,0,0,,Nu cred că greșești făcând asta.
-Dialogue: 100,0:20:40.74,0:20:41.48,Dialogue,,0,0,0,,Așa este.
-Dialogue: 100,0:20:42.37,0:20:47.72,Dialogue,,0,0,0,,Dar presupun că tu chiar știi \Ntotul despre Horikita-san, nu?
-Dialogue: 100,0:20:48.21,0:20:50.12,Dialogue,,0,0,0,,Nu cred că este adevărat.
-Dialogue: 100,0:20:53.75,0:20:55.75,Dialogue,,0,0,0,,Hei, Ayanokoji-kun.
-Dialogue: 100,0:20:56.26,0:20:58.68,Dialogue,,0,0,0,,Crezi... Crezi că...
-Dialogue: 100,0:20:59.73,0:21:00.91,Dialogue,,0,0,0,,Dacă te-aș...
-Dialogue: 100,0:21:02.82,0:21:03.87,Dialogue,,0,0,0,,Dacă te-aș...
-Dialogue: 100,0:21:06.79,0:21:09.62,Dialogue,,0,0,0,,Nu, nu mai contează.
-Dialogue: 100,0:21:10.50,0:21:14.64,Dialogue,,0,0,0,,Legat de Sakura-san, \Nvoi merge să vorbesc cu ea mâine.
-Dialogue: 100,0:21:14.64,0:21:17.79,Dialogue,,0,0,0,,She'd probably put her guard \Nup if we all went together.
-Dialogue: 100,0:21:17.79,0:21:18.81,Dialogue,,0,0,0,,Ne mai vedem!
-Dialogue: 100,0:21:30.01,0:21:31.76,Dialogue,,0,0,0,,Sakura-san.
-Dialogue: 100,0:21:32.23,0:21:33.80,Dialogue,,0,0,0,,C-Ce este?
-Dialogue: 100,0:21:33.80,0:21:36.79,Dialogue,,0,0,0,,Vreau să te întreb ceva.
-Dialogue: 100,0:21:36.79,0:21:38.01,Dialogue,,0,0,0,,Te deranjează?
-Dialogue: 100,0:21:38.01,0:21:39.77,Dialogue,,0,0,0,,Este legat de Sudo-kun.
-Dialogue: 100,0:21:40.23,0:21:44.53,Dialogue,,0,0,0,,Î-Îmi cer scuze, am... am ceva de făcut.
-Dialogue: 100,0:21:45.79,0:21:47.47,Dialogue,,0,0,0,,Nu va dura mult.
-Dialogue: 100,0:21:47.47,0:21:48.57,Dialogue,,0,0,0,,Este important!
-Dialogue: 100,0:21:48.57,0:21:51.41,Dialogue,,0,0,0,,N-Nu știu! Nu știu nimic!
-Dialogue: 100,0:21:53.69,0:21:56.05,Dialogue,,0,0,0,,Î-Îmi cer scuze! Ești bine?
-Dialogue: 100,0:22:00.77,0:22:03.70,Dialogue,,0,0,0,,Nu se poate... Nu se deschide...
-Dialogue: 100,0:22:03.70,0:22:05.42,Dialogue,,0,0,0,,Îmi cer scuze! Eu...
-Dialogue: 100,0:22:05.42,0:22:08.47,Dialogue,,0,0,0,,Nu, a fost vina mea.
-Dialogue: 100,0:22:10.17,0:22:11.55,Dialogue,,0,0,0,,Așteaptă!
-Dialogue: 100,0:22:14.87,0:22:16.59,Dialogue,,0,0,0,,{\i1}Nu vreau să fiu implicată.
-Dialogue: 100,0:22:17.25,0:22:19.81,Dialogue,,0,0,0,,{\i1}Masca mea...
-Dialogue: 100,0:22:20.52,0:22:23.62,Dialogue,,0,0,0,,{\i1}Nu vreau ca cineva să afle de ea.
+Dialogue: 99,0:00:19.16,0:00:22.64,Dialogue,,0,0,0,,Elevi ai clasei 1-B...
+Dialogue: 99,0:00:22.64,0:00:25.50,Dialogue,,0,0,0,,Să avem o zi grozavă și astăzi.
+Dialogue: 99,0:00:25.50,0:00:26.32,Dialogue,,0,0,0,,Bleah!
+Dialogue: 99,0:00:26.32,0:00:28.35,Dialogue,,0,0,0,,Doamna profesoară, \Nmirosiți a alcool!
+Dialogue: 99,0:00:28.35,0:00:30.79,Dialogue,,0,0,0,,Am băut prea mult aseară.
+Dialogue: 99,0:00:32.88,0:00:37.26,Dialogue,,0,0,0,,Voi anunța acum punctele totale \Nale fiecărei clase din această lună!
+Dialogue: 99,0:00:37.83,0:00:42.77,Dialogue,,0,0,0,,Punctele voastre personale \Nvor fi alocate mâine...
+Dialogue: 99,0:00:43.14,0:00:45.24,Dialogue,,0,0,0,,Am mai obținut puncte!
+Dialogue: 99,0:00:45.24,0:00:46.57,Dialogue,,0,0,0,,Da! Da!
+Dialogue: 99,0:00:46.57,0:00:48.77,Dialogue,,0,0,0,,Credeți că este datorită \Nnotelor noastre la teste?
+Dialogue: 99,0:00:48.77,0:00:51.42,Dialogue,,0,0,0,,Sesiunea de învățat i-a ajutat \Npe toți să ia note mai mari!
+Dialogue: 99,0:00:51.42,0:00:53.85,Dialogue,,0,0,0,,O, nu, este datorită \Nfaptului că v-ați străduit...
+Dialogue: 99,0:00:53.85,0:00:55.66,Dialogue,,0,0,0,,Te iubesc, Ichinose-san!
+Dialogue: 99,0:00:55.66,0:00:57.41,Dialogue,,0,0,0,,Hei! Ch-Chihiro-chan!
+Dialogue: 99,0:00:57.41,0:00:58.74,Dialogue,,0,0,0,,Și eu!
+Dialogue: 99,0:00:59.49,0:01:00.90,Dialogue,,0,0,0,,Așteptați! Așteptați!
+Dialogue: 99,0:01:00.90,0:01:01.93,Dialogue,,0,0,0,,Nu așteptăm!
+Dialogue: 99,0:01:01.93,0:01:02.90,Dialogue,,0,0,0,,Fetelor...
+Dialogue: 99,0:01:02.90,0:01:06.49,Dialogue,,0,0,0,,Sunt așa fericită că am \Nfac parte din clasa B.
+Dialogue: 99,0:01:06.49,0:01:08.92,Dialogue,,0,0,0,,Deoarece ești și tu în ea, Ichinose-san.
+Dialogue: 99,0:01:10.84,0:01:13.92,Dialogue,,0,0,0,,{\i1}Și eu mă bucur că sunt în clasa B.
+Dialogue: 99,0:01:13.92,0:01:17.43,Dialogue,,0,0,0,,{\i1}Diriginta noastră este \Npuțin neobișnuită,
+Dialogue: 99,0:01:17.93,0:01:20.19,Dialogue,,0,0,0,,{\i1}dar colegii mei de clasa sunt cu \Ntoții niște persoane cumsecade.
+Dialogue: 99,0:01:20.66,0:01:26.19,Dialogue,,0,0,0,,{\i1}De asta vreau să ajungem \Ncu toții în clasa A împreună!
+Dialogue: 99,0:01:37.25,0:01:39.20,Dialogue,,0,0,0,,Intri sau nu?
+Dialogue: 99,0:01:39.20,0:01:41.95,Dialogue,,0,0,0,,Intru. Mă voi urca dacă nu te deranjează.
+Dialogue: 99,0:01:46.74,0:01:49.08,Dialogue,,0,0,0,,'Neața, Ayanokoji-kun.
+Dialogue: 99,0:01:49.08,0:01:52.37,Dialogue,,0,0,0,,Ai părul puțin nearanjat la spate.
+Dialogue: 99,0:01:52.37,0:01:54.71,Dialogue,,0,0,0,,Părul natural este la modă zilele astea.
+Dialogue: 99,0:01:56.04,0:01:58.73,Dialogue,,0,0,0,,Ești așa amuzant, Ayanokoji-kun!
+Dialogue: 99,0:02:00.51,0:02:02.93,Dialogue,,0,0,0,,Dacă mă trădezi, vei plăti.
+Dialogue: 99,0:02:03.22,0:02:06.98,Dialogue,,0,0,0,,Poate voi încerca și eu părul natural!
+Dialogue: 99,0:02:07.86,0:02:11.48,Dialogue,,0,0,0,,{\i1}Vom fi în același cămin până la absolvire...
+Dialogue: 99,0:02:12.30,0:02:16.39,Dialogue,,0,0,0,,Sunt surprins să te văd pe \Ntine și pe Kushida împreună.
+Dialogue: 99,0:02:16.39,0:02:18.60,Dialogue,,0,0,0,,M-a așteptat la ușa camerei.
+Dialogue: 99,0:02:25.19,0:02:26.45,Dialogue,,0,0,0,,Of...
+Dialogue: 99,0:02:26.45,0:02:29.85,Dialogue,,0,0,0,,Chiar speram să putem \Nmerge spre școală împreună.
+Dialogue: 99,0:02:29.85,0:02:32.04,Dialogue,,0,0,0,,'Neața, Kushida-san!
+Dialogue: 99,0:02:32.42,0:02:33.92,Dialogue,,0,0,0,,Ichinose-san.
+Dialogue: 99,0:02:34.70,0:02:36.94,Dialogue,,0,0,0,,Kushida-san, acesta este iubitul tău?
+Dialogue: 99,0:02:37.64,0:02:39.01,Dialogue,,0,0,0,,Desigur că nu!
+Dialogue: 99,0:02:39.01,0:02:41.08,Dialogue Overlap,,0,0,0,,Serios? Eram sigură că...
+Dialogue: 99,0:02:39.54,0:02:42.01,Dialogue,,0,0,0,,{\i1}Cred că voia aia cu adevărat, probabil.
+Dialogue: 99,0:02:41.08,0:02:42.01,Dialogue Overlap,,0,0,0,,Nu, nu!
+Dialogue: 99,0:02:42.69,0:02:47.52,Dialogue,,0,0,0,,Asta-mi aduce aminte... \NV-ați primit punctele astăzi?
+Dialogue: 99,0:04:21.86,0:04:23.91,Dialogue,,0,0,0,,Există o mică problemă.
+Dialogue: 99,0:04:25.05,0:04:27.99,Dialogue,,0,0,0,,Furnizarea de puncte pentru \Ncei din anul 1 a fost întârziată.
+Dialogue: 99,0:04:27.99,0:04:29.88,Dialogue,,0,0,0,,Glumiți?
+Dialogue: 99,0:04:29.88,0:04:33.62,Dialogue,,0,0,0,,Primim vreun fel de compesație \Npentru greșelile școlii?
+Dialogue: 99,0:04:33.62,0:04:36.55,Dialogue,,0,0,0,,Eu nu pot face nimic.
+Dialogue: 99,0:04:36.55,0:04:39.69,Dialogue,,0,0,0,,În clipa în care problema se va \Nrezolva, punctele vor fi distribuite.
+Dialogue: 99,0:04:40.21,0:04:43.01,Dialogue,,0,0,0,,Presupunând că încă mai \Naveți puncte până atunci.
+Dialogue: 99,0:04:57.55,0:04:59.90,Dialogue,,0,0,0,,Îmi cer scuze că te-am chemat până aici.
+Dialogue: 99,0:05:00.25,0:05:02.53,Dialogue,,0,0,0,,Ce este?
+Dialogue: 99,0:05:03.33,0:05:06.74,Dialogue,,0,0,0,,Îți voi spune imediat, \Nfără a devia de la subiect...
+Dialogue: 99,0:05:15.93,0:05:17.34,Dialogue,,0,0,0,,Cred că...
+Dialogue: 99,0:05:20.93,0:05:23.81,Dialogue,,0,0,0,,...cineva își va mărturisi sentimentele pentru mine! Exact în acest loc!
+Dialogue: 99,0:05:26.38,0:05:27.18,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:05:27.93,0:05:31.31,Dialogue,,0,0,0,,Stai, ei bine... Atunci, nu ar fi \Nmai bine dacă nu aș fi aici?
+Dialogue: 99,0:05:31.31,0:05:34.90,Dialogue,,0,0,0,,Dar nu știu nimic despre ieșitul împreună.
+Dialogue: 99,0:05:35.53,0:05:38.31,Dialogue,,0,0,0,,Am găsit această scrisoare \Nieri în dulapul meu.
+Dialogue: 99,0:05:38.31,0:05:40.77,Dialogue,,0,0,0,,Eu nu simt același lucru.
+Dialogue: 99,0:05:41.22,0:05:44.97,Dialogue,,0,0,0,,Și nu știu cum s-o pe refuz \Nacea persoană fără s-o rănesc.
+Dialogue: 99,0:05:46.30,0:05:50.69,Dialogue,,0,0,0,,Deci mă gândeam că, dacă te-ai \Npreface că ești iubitul meu... și...
+Dialogue: 99,0:05:50.69,0:05:52.90,Dialogue,,0,0,0,,{\i1}Acel clișeu vechi, nu?
+Dialogue: 99,0:05:52.90,0:05:54.33,Dialogue,,0,0,0,,Te rog!
+Dialogue: 99,0:05:54.33,0:05:58.45,Dialogue,,0,0,0,,Ar fi mai bine dacă ai vorbi cu acea persoană, față în față.
+Dialogue: 99,0:05:58.45,0:05:59.30,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:06:05.83,0:06:08.47,Dialogue,,0,0,0,,Ichinose-san... cine este el?
+Dialogue: 99,0:06:08.47,0:06:14.43,Dialogue,,0,0,0,,E-Ei bine, scuze, Chihiro-chan... \NAm adus pe cineva pe care nu-l cunoști.
+Dialogue: 99,0:06:15.97,0:06:19.23,Dialogue,,0,0,0,,El este Ayanokoji-kun din clasa D.
+Dialogue: 99,0:06:20.53,0:06:24.48,Dialogue,,0,0,0,,Este cumva... iubitul tău?
+Dialogue: 99,0:06:26.18,0:06:29.12,Dialogue,,0,0,0,,Ayanokoji-kun este... El este—
+Dialogue: 99,0:06:29.12,0:06:30.49,Dialogue,,0,0,0,,Suntem doar prieteni.
+Dialogue: 99,0:06:31.99,0:06:37.44,Dialogue,,0,0,0,,Ichinose, să-ți mărturisești sentimentele pentru cineva nu este o treabă ușoară.
+Dialogue: 99,0:06:38.03,0:06:42.90,Dialogue,,0,0,0,,Îți petreci fiecare zi în chinuindu-te, și tot nu reușești s-o faci.
+Dialogue: 99,0:06:42.90,0:06:47.01,Dialogue,,0,0,0,,Cuvintele "Te iubesc" îți stau pe limbă, dar nu reușești să le spui.
+Dialogue: 99,0:06:47.89,0:06:52.26,Dialogue,,0,0,0,,Eu cred că sentimentele ei sincere merită un răspuns, nu-i așa
+Dialogue: 99,0:06:56.76,0:06:59.77,Dialogue,,0,0,0,,Desigur, nu eu ar trebui să vorbesc...
+Dialogue: 99,0:07:24.68,0:07:26.92,Dialogue,,0,0,0,,Presupun că ați reușit să vorbiți, nu?
+Dialogue: 99,0:07:27.43,0:07:28.51,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:07:30.28,0:07:34.49,Dialogue,,0,0,0,,Am fost foarte concentrată \Nsă nu-i rănesc sentimentele...
+Dialogue: 99,0:07:34.49,0:07:35.93,Dialogue,,0,0,0,,Încercam doar să fug.
+Dialogue: 99,0:07:36.60,0:07:38.03,Dialogue,,0,0,0,,Era greșit, nu-i așa?
+Dialogue: 99,0:07:39.40,0:07:42.93,Dialogue,,0,0,0,,Ne-am spus că vom încerca să revenim la normal mâine...
+Dialogue: 99,0:07:43.34,0:07:44.94,Dialogue,,0,0,0,,Mă întreb dacă vom reuși s-o facem.
+Dialogue: 99,0:07:46.03,0:07:48.07,Dialogue,,0,0,0,,Cred că asta depinde de voi două.
+Dialogue: 99,0:07:48.07,0:07:49.09,Dialogue,,0,0,0,,Da...
+Dialogue: 99,0:07:51.42,0:07:54.66,Dialogue,,0,0,0,,Îmi cer scuze pentru astăzi, \Npentru că te-am implicat în asta.
+Dialogue: 99,0:07:55.06,0:07:58.37,Dialogue,,0,0,0,,Nu mă deranjează să am o zi \Nca aceasta din când în când.
+Dialogue: 99,0:08:00.46,0:08:02.77,Dialogue,,0,0,0,,Se pare că îți sunt datoare, nu?
+Dialogue: 99,0:08:20.69,0:08:22.07,Dialogue,,0,0,0,,Interesant.
+Dialogue: 99,0:08:25.30,0:08:28.40,Dialogue,,0,0,0,,Vă spun că nu este așa!
+Dialogue: 99,0:08:28.40,0:08:30.65,Dialogue,,0,0,0,,Ei erau trei!
+Dialogue: 99,0:08:30.65,0:08:32.06,Dialogue,,0,0,0,,Și totuși...
+Dialogue: 99,0:08:32.06,0:08:33.49,Dialogue,,0,0,0,,Da...
+Dialogue: 99,0:08:34.63,0:08:35.69,Dialogue,,0,0,0,,{\i1}Ce se întâmplă?
+Dialogue: 99,0:08:35.69,0:08:39.41,Dialogue,,0,0,0,,Ayanokoji-kun... Cred că ceva \Nrău se poate să se fi întâmplat.
+Dialogue: 99,0:08:40.10,0:08:41.91,Dialogue,,0,0,0,,Membrii clubului de baschet din clasa C
+Dialogue: 99,0:08:41.91,0:08:45.16,Dialogue,,0,0,0,,au depus o plângere la \Nșcoală împotriva lui Sudo.
+Dialogue: 99,0:08:45.16,0:08:48.86,Dialogue,,0,0,0,,Au susținut că după antrenament, Sudo i-a atacat și i-a rănit
+Dialogue: 99,0:08:48.86,0:08:50.67,Dialogue,,0,0,0,,fără a-l provoca.
+Dialogue: 99,0:08:50.67,0:08:53.33,Dialogue,,0,0,0,,A fost autoapărare! Autoapărare!
+Dialogue: 99,0:08:53.33,0:08:57.69,Dialogue,,0,0,0,,Erau invidioși că am devenit un jucător de start al echipei, așa că au sărit la bătaie!
+Dialogue: 99,0:08:57.69,0:08:59.65,Dialogue,,0,0,0,,Nu există nicio dovadă pentru asta.
+Dialogue: 99,0:08:59.65,0:09:02.61,Dialogue,,0,0,0,,Totuși, dacă ar exista un martor, \Nar fi o poveste diferită.
+Dialogue: 99,0:09:03.82,0:09:04.96,Dialogue,,0,0,0,,Toată lumea!
+Dialogue: 99,0:09:04.96,0:09:09.23,Dialogue,,0,0,0,,A văzut cineva din întâmplare bătaia lui Sudo-kun? Știe cineva ceva despre ea?
+Dialogue: 99,0:09:18.05,0:09:23.09,Dialogue,,0,0,0,,Poate că ar fi fost mai bine dacă erai exmatriculat, Păr roșu-kun.
+Dialogue: 99,0:09:23.09,0:09:26.83,Dialogue,,0,0,0,,Prezența ta nu este deloc frumoasă.
+Dialogue: 99,0:09:27.83,0:09:29.87,Dialogue,,0,0,0,,Sudo-kun! Oprește-te!
+Dialogue: 99,0:09:29.87,0:09:31.34,Dialogue,,0,0,0,,Într-o săptămână,
+Dialogue: 99,0:09:31.74,0:09:35.59,Dialogue,,0,0,0,,va fi o discuție cu clasa C, \Nunde va participa și consiliul elevilor.
+Dialogue: 99,0:09:36.10,0:09:39.32,Dialogue,,0,0,0,,În funcție de cum se va termina, \Nar putea să vă fie retrase punctele
+Dialogue: 99,0:09:39.32,0:09:41.79,Dialogue,,0,0,0,,și să se ia măsuri disciplinare pentru Sudo.
+Dialogue: 99,0:09:56.63,0:10:00.87,Dialogue,,0,0,0,,Acele maimuțe din clasa D cu \Nsiguranță sunt foarte agitați acum.
+Dialogue: 99,0:10:15.66,0:10:16.82,Dialogue,,0,0,0,,Ryuen-san...
+Dialogue: 99,0:10:18.09,0:10:20.59,Dialogue,,0,0,0,,Cred că am fost văzuți.
+Dialogue: 99,0:10:21.27,0:10:25.52,Dialogue,,0,0,0,,Când ne-am bătut cu Sudo, aveam \Nsentimentul că cineva era în apropiere...
+Dialogue: 99,0:10:26.87,0:10:28.52,Dialogue,,0,0,0,,Băiat rău.
+Dialogue: 99,0:10:44.07,0:10:46.14,Dialogue,,0,0,0,,Arăți ca o victimă adevărată acum.
+Dialogue: 99,0:10:47.48,0:10:49.92,Dialogue,,0,0,0,,M-Mulțumesc, domnule.
+Dialogue: 99,0:10:50.99,0:10:54.25,Dialogue,,0,0,0,,Dansează bine, exact cum plănuisem.
+Dialogue: 99,0:11:01.35,0:11:03.05,Dialogue,,0,0,0,,Și este numai vina lui Sudo.
+Dialogue: 99,0:11:03.05,0:11:04.22,Dialogue,,0,0,0,,Asta este nașpa.
+Dialogue: 99,0:11:04.22,0:11:07.56,Dialogue,,0,0,0,,Încă o lună în care trebuie \Nsă trăim cu zero puncte...
+Dialogue: 99,0:11:07.56,0:11:10.50,Dialogue,,0,0,0,,Poate ar fi fost mai bine \Ndacă ar fi fost exmatriculat.
+Dialogue: 99,0:11:10.50,0:11:11.93,Dialogue,,0,0,0,,Știu...
+Dialogue: 99,0:11:12.63,0:11:14.31,Dialogue,,0,0,0,,Ești de acord cu ele?
+Dialogue: 99,0:11:14.31,0:11:17.94,Dialogue,,0,0,0,,Că Sudo-kun ar fi trebuit să fie exmatriculat.
+Dialogue: 99,0:11:18.39,0:11:19.62,Dialogue,,0,0,0,,Nu am o părere.
+Dialogue: 99,0:11:20.12,0:11:21.90,Dialogue,,0,0,0,,Tu ce crezi,
+Dialogue: 99,0:11:21.90,0:11:23.70,Dialogue,,0,0,0,,ca una din persoanele care l-a ajutat?
+Dialogue: 99,0:11:24.45,0:11:26.89,Dialogue,,0,0,0,,În acest moment, avem zero puncte.
+Dialogue: 99,0:11:26.89,0:11:29.84,Dialogue,,0,0,0,,Chiar dacă am fi fost penalizați pentru \Ncă cineva din clasa a fost exmatriculat,
+Dialogue: 99,0:11:29.84,0:11:31.46,Dialogue,,0,0,0,,nu am mai fi putut pierde puncte.
+Dialogue: 99,0:11:32.28,0:11:33.83,Dialogue,,0,0,0,,Da, cred că ai dreptate.
+Dialogue: 99,0:11:35.71,0:11:38.59,Dialogue,,0,0,0,,Ce? Nu-mi place felul cum ai spus-o.
+Dialogue: 99,0:11:38.59,0:11:42.28,Dialogue,,0,0,0,,Nu știm niciodată când experimentăm \Npierderi sau obțineri pe care nu le vedem.
+Dialogue: 99,0:11:42.28,0:11:43.47,Dialogue,,0,0,0,,Ce vrea să însemne asta?
+Dialogue: 99,0:11:43.86,0:11:48.47,Dialogue,,0,0,0,,Poate sunt valori negative ale punctelor pe care le obținem și nu ne sunt arătate.
+Dialogue: 99,0:11:48.47,0:11:54.71,Dialogue,,0,0,0,,Dezavantajele unei exmatriculări s-ar \Nputea să nu ne lovească acum, ci în viitor.
+Dialogue: 99,0:11:55.48,0:12:01.50,Dialogue,,0,0,0,,De exemplu, "să nu fie persoane exmatriculate" ar putea fi o condiție ca să ajungi în clasa A.
+Dialogue: 99,0:12:02.68,0:12:04.11,Dialogue,,0,0,0,,Prea despici firul în patru.
+Dialogue: 99,0:12:04.49,0:12:08.23,Dialogue,,0,0,0,,Nu știm cum funcționează sistemul școlii.
+Dialogue: 99,0:12:08.65,0:12:10.58,Dialogue,,0,0,0,,Dacă vrei să ajungi în clasa A,
+Dialogue: 99,0:12:10.58,0:12:13.87,Dialogue,,0,0,0,,ar trebui să elimini toate \Namenințările la care te poți gândi.
+Dialogue: 99,0:12:15.50,0:12:19.46,Dialogue,,0,0,0,,Pe lângă asta, Sudo este atletic și \Nare o reputație bună în clubul său.
+Dialogue: 99,0:12:19.46,0:12:21.09,Dialogue,,0,0,0,,Ar putea fi de fo—
+Dialogue: 99,0:12:21.09,0:12:22.88,Dialogue,,0,0,0,,Toată lumea, ascultați-mă.
+Dialogue: 99,0:12:23.56,0:12:25.83,Dialogue,,0,0,0,,Eu vreau să am încredere \Nîn colegii mei de clasă.
+Dialogue: 99,0:12:26.47,0:12:30.53,Dialogue,,0,0,0,,De ce nu lucrăm împreună ca să găsim martori sau indicii?
+Dialogue: 99,0:12:30.53,0:12:32.85,Dialogue,,0,0,0,,Tare, mă bag!
+Dialogue: 99,0:12:32.85,0:12:34.77,Dialogue,,0,0,0,,Dacă asta vrei, Hirata-kun...
+Dialogue: 99,0:12:34.77,0:12:36.47,Dialogue,,0,0,0,,Și eu voi participa!
+Dialogue: 99,0:12:36.47,0:12:38.65,Dialogue,,0,0,0,,Dacă noi nu vom crede în el, atunci cine o va face?
+Dialogue: 99,0:12:38.65,0:12:40.20,Dialogue,,0,0,0,,Dacă așa spune Kushida-chan...
+Dialogue: 99,0:12:40.20,0:12:41.28,Dialogue,,0,0,0,,...și noi vom participa!
+Dialogue: 99,0:12:41.71,0:12:44.28,Dialogue,,0,0,0,,Hei, Horikita-san, Ayanokoji-kun...
+Dialogue: 99,0:12:44.28,0:12:46.16,Dialogue,,0,0,0,,Ne veți ajuta, nu-i așa?
+Dialogue: 99,0:12:46.51,0:12:51.29,Dialogue,,0,0,0,,După tot ce ai spus, sunt \Nsigură că vei ajuta, nu-i așa?
+Dialogue: 99,0:12:51.29,0:12:54.49,Dialogue,,0,0,0,,Ei bine, nu este ca și cum vreau să ajung în clasa A...
+Dialogue: 99,0:12:54.49,0:12:57.26,Dialogue,,0,0,0,,Ne vei ajuta? Mersi!
+Dialogue: 99,0:12:58.26,0:13:00.30,Dialogue,,0,0,0,,Da... așa cred.
+Dialogue: 99,0:13:00.30,0:13:02.35,Dialogue,,0,0,0,,Horikita-san, ne vei...
+Dialogue: 99,0:13:07.95,0:13:09.90,Dialogue,,0,0,0,,Să dăm tot ce putem împreună.
+Dialogue: 99,0:13:09.90,0:13:12.15,Dialogue,,0,0,0,,Dar dacă căutăm martori...
+Dialogue: 99,0:13:12.15,0:13:15.81,Dialogue,,0,0,0,,Sudo-kun nu ar trebui \Nsă ia parte la asta, nu?
+Dialogue: 99,0:13:15.81,0:13:19.70,Dialogue,,0,0,0,,Da, nu ar arăta bine dacă l-am implica pe cel care a participat la incident.
+Dialogue: 99,0:13:19.70,0:13:21.32,Dialogue,,0,0,0,,Așa este...
+Dialogue: 99,0:13:21.63,0:13:25.21,Dialogue,,0,0,0,,Bine. Îi voi spune lui Sudo-kun despre asta eu însămi.
+Dialogue: 99,0:13:25.21,0:13:26.94,Dialogue,,0,0,0,,Ne vedem după ore, bine?
+Dialogue: 99,0:13:31.48,0:13:34.51,Dialogue,,0,0,0,,Nu am putut găsi vreun martor sau indiciu.
+Dialogue: 99,0:13:34.51,0:13:38.35,Dialogue,,0,0,0,,Există și posibilitatea ca Sudo să mintă.
+Dialogue: 99,0:13:38.35,0:13:40.00,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:13:40.00,0:13:41.59,Dialogue,,0,0,0,,Cum rămâne cu grupul lui Hirata?
+Dialogue: 99,0:13:41.59,0:13:45.47,Dialogue,,0,0,0,,I-am întrebat, dar se pare că n-au găsit nimic.
+Dialogue: 99,0:13:45.47,0:13:49.59,Dialogue,,0,0,0,,Hei! Ayanokoji-kun! Kushida-san!
+Dialogue: 99,0:13:49.59,0:13:51.35,Dialogue,,0,0,0,,Ichinose-san?
+Dialogue: 99,0:13:51.35,0:13:54.38,Dialogue,,0,0,0,,Câteva persoane din clasa mea mi-au spus...
+Dialogue: 99,0:13:54.38,0:13:56.48,Dialogue,,0,0,0,,Investigați ceva?
+Dialogue: 99,0:13:59.32,0:14:02.23,Dialogue,,0,0,0,,Înțeleg... Clasa C...
+Dialogue: 99,0:14:02.23,0:14:06.46,Dialogue,,0,0,0,,Da. Deci dacă cineva știe ceva, \Nne-ar plăcea să ne spună și nouă.
+Dialogue: 99,0:14:06.46,0:14:09.85,Dialogue,,0,0,0,,Scuze. Eu una nu știu nimic...
+Dialogue: 99,0:14:09.85,0:14:12.80,Dialogue,,0,0,0,,Totuși, clasa B vă va ajuta să căutați indicii.
+Dialogue: 99,0:14:12.80,0:14:13.50,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:14:13.50,0:14:14.39,Dialogue,,0,0,0,,Mulțu—
+Dialogue: 99,0:14:14.95,0:14:16.50,Dialogue,,0,0,0,,Ce tot faci?
+Dialogue: 99,0:14:16.89,0:14:18.87,Dialogue,,0,0,0,,{\i1}Probabil că este o schemă.
+Dialogue: 99,0:14:19.47,0:14:22.30,Dialogue,,0,0,0,,Ei bine, nu sunt sigur că ar trebui să contăm pe celelalte clase pentru—
+Dialogue: 99,0:14:22.30,0:14:23.59,Dialogue,,0,0,0,,Nu-ți face griji!
+Dialogue: 99,0:14:23.59,0:14:25.46,Dialogue,,0,0,0,,Nu voi face nimic ciudat.
+Dialogue: 99,0:14:25.87,0:14:28.34,Dialogue,,0,0,0,,Îți sunt datoare. \NÎți amintești , Ayanokoji-kun?
+Dialogue: 99,0:14:30.84,0:14:31.89,Dialogue,,0,0,0,,Sunteți gata?
+Dialogue: 99,0:14:31.89,0:14:32.32,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:32.63,0:14:33.10,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:33.33,0:14:33.87,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:34.24,0:14:35.19,Dialogue,,0,0,0,,Sunteți gata?
+Dialogue: 99,0:14:35.19,0:14:35.72,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:36.16,0:14:36.48,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:36.83,0:14:37.10,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:37.55,0:14:38.60,Dialogue,,0,0,0,,Sunteți gata?
+Dialogue: 99,0:14:38.60,0:14:39.08,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:39.44,0:14:39.82,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:40.24,0:14:40.56,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:40.98,0:14:42.03,Dialogue,,0,0,0,,Sunteți gata?
+Dialogue: 99,0:14:42.03,0:14:42.40,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:42.86,0:14:43.23,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:43.61,0:14:43.95,Dialogue,,0,0,0,,Luptați!
+Dialogue: 99,0:14:44.27,0:14:45.48,Dialogue,,0,0,0,,Ayanokoji-kun!
+Dialogue: 99,0:14:46.02,0:14:46.78,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:14:47.56,0:14:48.82,Dialogue,,0,0,0,,Acest anunț...
+Dialogue: 99,0:14:48.82,0:14:51.74,Dialogue,,0,0,0,,Da, a fost ideea lui Kanzaki-kun.
+Dialogue: 99,0:14:51.74,0:14:55.10,Dialogue,,0,0,0,,Cerem informații prin panoul de mesaje online al clasei...
+Dialogue: 99,0:14:56.23,0:14:57.95,Dialogue,,0,0,0,,Am primit un email deja.
+Dialogue: 99,0:14:57.95,0:14:59.16,Dialogue,,0,0,0,,Ce spune?
+Dialogue: 99,0:15:01.32,0:15:03.95,Dialogue,,0,0,0,,Se pare că unul din băieții care s-au bătut cu Sudo-kun,
+Dialogue: 99,0:15:03.95,0:15:07.76,Dialogue,,0,0,0,,Ishizaki-kun, era destul de sălbatic în gimnaziu.
+Dialogue: 99,0:15:07.76,0:15:12.12,Dialogue,,0,0,0,,Mai spune și că era bun la bataie și că toată lumea din zonă se temea de el.
+Dialogue: 99,0:15:12.12,0:15:15.75,Dialogue,,0,0,0,,Dacă și ceilalți doi sunt în clubul de baschet, atunci probabil că sunt destul de puternici.
+Dialogue: 99,0:15:15.75,0:15:17.03,Dialogue,,0,0,0,,Nu are sens ca
+Dialogue: 99,0:15:17.03,0:15:20.00,Dialogue,,0,0,0,,Sudo să-i fi putut bate pe \Ntoți trei fără să fie lovit și el.
+Dialogue: 99,0:15:20.00,0:15:21.39,Dialogue,,0,0,0,,Asta e adevărat...
+Dialogue: 99,0:15:21.39,0:15:24.06,Dialogue,,0,0,0,,Există posibilitatea ca ei \Nsă fi vrut ca Sudo să-i bată.
+Dialogue: 99,0:15:24.06,0:15:29.25,Dialogue,,0,0,0,,Pare mult mai logic dacă au făcut asta ca să-l înscheneze pe Sudo.
+Dialogue: 99,0:15:29.25,0:15:31.01,Dialogue,,0,0,0,,Sunt de acord.
+Dialogue: 99,0:15:31.01,0:15:33.46,Dialogue,,0,0,0,,Oricum, ar trebui să-l plătesc pe \Ncel care ne-a trimis informațiile...
+Dialogue: 99,0:15:33.46,0:15:35.77,Dialogue,,0,0,0,,O, este anonim.
+Dialogue: 99,0:15:35.77,0:15:38.27,Dialogue,,0,0,0,,Mă întreb cum îi voi trimite punctele.
+Dialogue: 99,0:15:38.27,0:15:39.86,Dialogue,,0,0,0,,Știu eu cum.
+Dialogue: 99,0:15:41.04,0:15:42.54,Dialogue,,0,0,0,,Atunci, spune-mi!
+Dialogue: 99,0:15:42.54,0:15:44.42,Dialogue,,0,0,0,,{\i1}Este complet fără apărare...
+Dialogue: 99,0:15:44.93,0:15:46.68,Dialogue,,0,0,0,,Va trebui să-ți împrumut \Ncarnetul electronic de elev.
+Dialogue: 99,0:15:46.68,0:15:47.67,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:15:52.38,0:15:53.18,Dialogue,,0,0,0,,Gata.
+Dialogue: 99,0:15:57.23,0:15:58.47,Dialogue,,0,0,0,,Hopa!
+Dialogue: 99,0:15:58.47,0:16:02.12,Dialogue,,0,0,0,,Mersi! Dacă voi mai primi vreo informație, ți-o voi transmite!
+Dialogue: 99,0:16:02.12,0:16:02.98,Dialogue,,0,0,0,,Bine...
+Dialogue: 99,0:16:11.65,0:16:14.35,Dialogue,,0,0,0,,{\i1}Cum a făcut rost de atât de multe puncte?
+Dialogue: 99,0:16:23.70,0:16:24.96,Dialogue,,0,0,0,,Voi toți.
+Dialogue: 99,0:16:24.96,0:16:26.46,Dialogue,,0,0,0,,Hei, bine ai revenit.
+Dialogue: 99,0:16:26.46,0:16:27.94,Dialogue,,0,0,0,,Ayanokoji-kun!
+Dialogue: 99,0:16:27.94,0:16:29.88,Dialogue,,0,0,0,,I-am adunat pe toți pentru tine.
+Dialogue: 99,0:16:29.88,0:16:32.22,Dialogue,,0,0,0,,Este o întrunire în care \Nvom spune ce am aflat!
+Dialogue: 99,0:16:32.22,0:16:34.84,Dialogue,,0,0,0,,Știți, nu-mi vine să cred cât \Nde goală este camera asta.
+Dialogue: 99,0:16:34.84,0:16:37.97,Dialogue,,0,0,0,,Așa este. Nu ai niciun lucru de-al tău.
+Dialogue: 99,0:16:38.44,0:16:40.59,Dialogue,,0,0,0,,Sunt doar lucrurile care ți-au fost oferite.
+Dialogue: 99,0:16:40.59,0:16:42.98,Dialogue,,0,0,0,,Ayanokoji-kun, ești un minimalist?
+Dialogue: 99,0:16:42.98,0:16:45.78,Dialogue,,0,0,0,,Nu am puncte ca să cumpăr ceva.
+Dialogue: 99,0:16:45.78,0:16:48.57,Dialogue,,0,0,0,,Oricum, cum ați intrat aici?
+Dialogue: 99,0:16:48.57,0:16:50.23,Dialogue,,0,0,0,,Am făcut copii la cheie!
+Dialogue: 99,0:16:50.23,0:16:51.82,Dialogue,,0,0,0,,Când ați făcut-o?
+Dialogue: 99,0:16:51.82,0:16:54.20,Dialogue,,0,0,0,,Păi, acesta este locul \Nnostru de întrunire, nu?
+Dialogue: 99,0:16:54.20,0:16:57.16,Dialogue,,0,0,0,,Ce? Stai, nu ar fi trebuit s-o facem?
+Dialogue: 99,0:16:58.13,0:16:59.84,Dialogue,,0,0,0,,Hei... Ți-o voi da înapoi.
+Dialogue: 99,0:16:59.84,0:17:01.87,Dialogue,,0,0,0,,Deși noi n-o vom face!
+Dialogue: 99,0:17:02.57,0:17:04.07,Dialogue,,0,0,0,,Ei bine, nu mai contează...
+Dialogue: 99,0:17:09.23,0:17:10.41,Dialogue,,0,0,0,,Horikita.
+Dialogue: 99,0:17:10.41,0:17:12.02,Dialogue,,0,0,0,,Legat de martori...
+Dialogue: 99,0:17:15.01,0:17:16.01,Dialogue,,0,0,0,,Plec.
+Dialogue: 99,0:17:16.82,0:17:19.15,Dialogue,,0,0,0,,Horikita-san! Ai venit!
+Dialogue: 99,0:17:19.58,0:17:22.26,Dialogue,,0,0,0,,Cred că ar trebui să ne spui ceea ce știi.
+Dialogue: 99,0:17:22.68,0:17:25.61,Dialogue,,0,0,0,,Dacă dorești, putem doar să ascultăm.
+Dialogue: 99,0:17:27.40,0:17:30.44,Dialogue,,0,0,0,,În timp ce voi ați depus atât de mult \Nefort ca să obțineți câteva informații,
+Dialogue: 99,0:17:30.44,0:17:32.09,Dialogue,,0,0,0,,permiteți-mi să vă dau un mic sfat.
+Dialogue: 99,0:17:32.53,0:17:33.88,Dialogue,,0,0,0,,Există un martor.
+Dialogue: 99,0:17:34.78,0:17:36.25,Dialogue,,0,0,0,,Este cineva apropiat.
+Dialogue: 99,0:17:36.71,0:17:38.13,Dialogue,,0,0,0,,Știi cine este?
+Dialogue: 99,0:17:38.69,0:17:41.28,Dialogue,,0,0,0,,Este Sakura-san din clasa noastră.
+Dialogue: 99,0:18:16.50,0:18:19.15,Dialogue,,0,0,0,,Ce te face să crezi că \NSakura a fost martoră?
+Dialogue: 99,0:18:19.15,0:18:22.20,Dialogue,,0,0,0,,În clasă, când Kushida-san a \Ncerut ca să-l ajutăm pe Sudo,
+Dialogue: 99,0:18:22.20,0:18:25.58,Dialogue,,0,0,0,,aproape toți și-au \Nîntors privirile spre ea,
+Dialogue: 99,0:18:25.58,0:18:27.96,Dialogue,,0,0,0,,în timp ce ea și-a ținut \Nprivirea în pământ.
+Dialogue: 99,0:18:28.38,0:18:30.38,Dialogue,,0,0,0,,Numai ea.
+Dialogue: 99,0:18:31.50,0:18:33.33,Dialogue,,0,0,0,,Este inutil. Nu răspunde...
+Dialogue: 99,0:18:34.67,0:18:38.34,Dialogue,,0,0,0,,La naiba. Exact când obținusem \Nniște informații utile...
+Dialogue: 99,0:18:38.34,0:18:43.41,Dialogue,,0,0,0,,Dar chiar dacă ar fi vrut să depună \Nmărturie, nu ar fi însemnat prea mult.
+Dialogue: 99,0:18:44.22,0:18:48.76,Dialogue,,0,0,0,,Întrebarea dacă a fost sau nu \Nautoapărare este un detaliu neimportant.
+Dialogue: 99,0:18:49.24,0:18:50.77,Dialogue,,0,0,0,,Nu v-ați dat seama de asta încă?
+Dialogue: 99,0:18:51.63,0:18:52.94,Dialogue,,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:18:53.98,0:18:55.36,Dialogue,,0,0,0,,Nimic.
+Dialogue: 99,0:18:56.67,0:18:57.86,Dialogue,,0,0,0,,La revedere.
+Dialogue: 99,0:19:06.37,0:19:08.58,Dialogue,,0,0,0,,{\i1}Sakura, nu?
+Dialogue: 99,0:19:08.58,0:19:11.81,Dialogue,,0,0,0,,{\i1}Nu reușesc să-mi amintesc nimic despre ea...
+Dialogue: 99,0:19:15.93,0:19:16.88,Dialogue,,0,0,0,,Kushida.
+Dialogue: 99,0:19:17.41,0:19:20.01,Dialogue,,0,0,0,,Există ceva la care mă tot gândeam.
+Dialogue: 99,0:19:20.33,0:19:26.14,Dialogue,,0,0,0,,Tu ai înțeles ce spunea Horikita-san?
+Dialogue: 99,0:19:28.89,0:19:35.43,Dialogue,,0,0,0,,Chiar dacă ceea ce s-a întâmplat a fost \Nautoapărare, nu este asta sursa problemei.
+Dialogue: 99,0:19:36.02,0:19:41.11,Dialogue,,0,0,0,,Sudo mereu vorbește \Nurât și acționează violent.
+Dialogue: 99,0:19:41.11,0:19:44.35,Dialogue,,0,0,0,,Se poartă într-un fel care aduce inevitabil ură.
+Dialogue: 99,0:19:44.35,0:19:46.74,Dialogue,,0,0,0,,Le oferă o impresie proastă celor din jurul lui.
+Dialogue: 99,0:19:48.22,0:19:50.77,Dialogue,,0,0,0,,Haide să presupunem că are loc o crimă.
+Dialogue: 99,0:19:50.77,0:19:52.47,Dialogue,,0,0,0,,Există doi suspecți.
+Dialogue: 99,0:19:52.47,0:19:55.83,Dialogue,,0,0,0,,Unul care a mai ucis în trecut.
+Dialogue: 99,0:19:55.83,0:19:59.05,Dialogue,,0,0,0,,Iar celălalt este un cetățean \Ncinstit care respectă legea.
+Dialogue: 99,0:19:59.89,0:20:01.30,Dialogue,,0,0,0,,Pe cine ai crede?
+Dialogue: 99,0:20:02.06,0:20:05.30,Dialogue,,0,0,0,,Pe cetățeanul care respectă legea cred.
+Dialogue: 99,0:20:05.30,0:20:08.07,Dialogue,,0,0,0,,S-ar putea să nu fie așa de fapt.
+Dialogue: 99,0:20:08.07,0:20:11.01,Dialogue,,0,0,0,,Dar cu atât de puține dovezi de oferit,
+Dialogue: 99,0:20:11.01,0:20:13.71,Dialogue,,0,0,0,,oamenii trebuie să ia deciziile \Npe baza a ceea ce au deja.
+Dialogue: 99,0:20:14.44,0:20:20.66,Dialogue,,0,0,0,,Spui că Sudo-kun și-a făcut asta singur din cauza istoriei și a comportamentului său?
+Dialogue: 99,0:20:20.66,0:20:23.82,Dialogue,,0,0,0,,Și Sudo nu crede că a făcut ceva greșit.
+Dialogue: 99,0:20:24.23,0:20:27.33,Dialogue,,0,0,0,,Acesta ar putea fi motivul pentru care Horikita nu vrea să ne ajute.
+Dialogue: 99,0:20:27.33,0:20:31.36,Dialogue,,0,0,0,,Dar eu tot cred că trebuie să spune ceva.
+Dialogue: 99,0:20:31.36,0:20:32.96,Dialogue,,0,0,0,,Asta înseamnă să fii prieteni.
+Dialogue: 99,0:20:34.61,0:20:37.68,Dialogue,,0,0,0,,Ar trebui să urmezi ceea ce crezi că este corect.
+Dialogue: 99,0:20:37.68,0:20:39.84,Dialogue,,0,0,0,,Nu cred că greșești făcând asta.
+Dialogue: 99,0:20:40.74,0:20:41.48,Dialogue,,0,0,0,,Așa este.
+Dialogue: 99,0:20:42.37,0:20:47.72,Dialogue,,0,0,0,,Dar presupun că tu chiar știi \Ntotul despre Horikita-san, nu?
+Dialogue: 99,0:20:48.21,0:20:50.12,Dialogue,,0,0,0,,Nu cred că este adevărat.
+Dialogue: 99,0:20:53.75,0:20:55.75,Dialogue,,0,0,0,,Hei, Ayanokoji-kun.
+Dialogue: 99,0:20:56.26,0:20:58.68,Dialogue,,0,0,0,,Crezi... Crezi că...
+Dialogue: 99,0:20:59.73,0:21:00.91,Dialogue,,0,0,0,,Dacă te-aș...
+Dialogue: 99,0:21:02.82,0:21:03.87,Dialogue,,0,0,0,,Dacă te-aș...
+Dialogue: 99,0:21:06.79,0:21:09.62,Dialogue,,0,0,0,,Nu, nu mai contează.
+Dialogue: 99,0:21:10.50,0:21:14.64,Dialogue,,0,0,0,,Legat de Sakura-san, \Nvoi merge să vorbesc cu ea mâine.
+Dialogue: 99,0:21:14.64,0:21:17.79,Dialogue,,0,0,0,,She'd probably put her guard \Nup if we all went together.
+Dialogue: 99,0:21:17.79,0:21:18.81,Dialogue,,0,0,0,,Ne mai vedem!
+Dialogue: 99,0:21:30.01,0:21:31.76,Dialogue,,0,0,0,,Sakura-san.
+Dialogue: 99,0:21:32.23,0:21:33.80,Dialogue,,0,0,0,,C-Ce este?
+Dialogue: 99,0:21:33.80,0:21:36.79,Dialogue,,0,0,0,,Vreau să te întreb ceva.
+Dialogue: 99,0:21:36.79,0:21:38.01,Dialogue,,0,0,0,,Te deranjează?
+Dialogue: 99,0:21:38.01,0:21:39.77,Dialogue,,0,0,0,,Este legat de Sudo-kun.
+Dialogue: 99,0:21:40.23,0:21:44.53,Dialogue,,0,0,0,,Î-Îmi cer scuze, am... am ceva de făcut.
+Dialogue: 99,0:21:45.79,0:21:47.47,Dialogue,,0,0,0,,Nu va dura mult.
+Dialogue: 99,0:21:47.47,0:21:48.57,Dialogue,,0,0,0,,Este important!
+Dialogue: 99,0:21:48.57,0:21:51.41,Dialogue,,0,0,0,,N-Nu știu! Nu știu nimic!
+Dialogue: 99,0:21:53.69,0:21:56.05,Dialogue,,0,0,0,,Î-Îmi cer scuze! Ești bine?
+Dialogue: 99,0:22:00.77,0:22:03.70,Dialogue,,0,0,0,,Nu se poate... Nu se deschide...
+Dialogue: 99,0:22:03.70,0:22:05.42,Dialogue,,0,0,0,,Îmi cer scuze! Eu...
+Dialogue: 99,0:22:05.42,0:22:08.47,Dialogue,,0,0,0,,Nu, a fost vina mea.
+Dialogue: 99,0:22:10.17,0:22:11.55,Dialogue,,0,0,0,,Așteaptă!
+Dialogue: 99,0:22:14.87,0:22:16.59,Dialogue,,0,0,0,,{\i1}Nu vreau să fiu implicată.
+Dialogue: 99,0:22:17.25,0:22:19.81,Dialogue,,0,0,0,,{\i1}Masca mea...
+Dialogue: 99,0:22:20.52,0:22:23.62,Dialogue,,0,0,0,,{\i1}Nu vreau ca cineva să afle de ea.
 Dialogue: 0,0:01:00.16,0:01:03.79,KazuyaShuuSign,,0,0,0,,{\fad(1130,0)\fnRexlia\b1\an1\fs44\fscy140\blur0.9\c&H000000&\pos(163,159)\t(2340,2340,\c&HFFFFFF&)\1a&H00&\t(3590,3590,\1a&HFF&)}Wel{\1a&H00&\t(3050,3050,\1a&HFF&)}co{\1a&H00&\t(3170,3170,\1a&HFF&)}me {\1a&H00&\t(3380,3380,\1a&HFF&)}to {\1a&H00&\t(3260,3260,\1a&HFF&)}the
 Dialogue: 0,0:01:00.16,0:01:03.79,KazuyaShuuSign,,0,0,0,,{\fad(1130,0)\fnRexlia\b1\an1\fs61\fscy140\blur0.9\c&H000000&\pos(490,260)\t(2340,2340,\c&HFFFFFF&)\1a&H00&\t(3550,3550,\1a&HFFF&)}Cla{\1a&H00&\t(3420,3420,\1a&HFFF&)}ss{\1a&H00&\t(3300,3300,\1a&HFFF&)}ro{\1a&H00&\t(3630,3630,\1a&HFFF&)}om {\1a&H00&\t(3130,3130,\1a&HFFF&)}of {\1a&H00&\t(3510,3510,\1a&HFFF&)}the {\1a&H00&\t(3090,3090,\1a&HFFF&)}E{\1a&H00&\t(3460,3460,\1a&HFFF&)}li{\1a&H00&\t(3340,3340,\1a&HFFF&)}te
 Dialogue: 0,0:02:06.98,0:02:10.98,KazuyaShuuSign,,0,0,0,,{\fad(1500,0)\fnRexlia\b1\an1\fs44\fscy140\blur0.5\c&H000000&\pos(163,130)}Welcome to the

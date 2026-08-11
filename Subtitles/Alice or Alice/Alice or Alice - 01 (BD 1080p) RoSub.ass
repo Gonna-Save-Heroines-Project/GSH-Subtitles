@@ -29,39 +29,39 @@ Style: KazuyaShuuSign,Arial,75,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:44.58,0:00:45.71,Dialogue,,0,0,0,,Airi...
-Dialogue: 100,0:00:46.40,0:00:47.92,Dialogue,,0,0,0,,Este dimineață.
-Dialogue: 100,0:00:48.69,0:00:51.68,Dialogue,,0,0,0,,"Un frate cu complex de soră și surorile lui gemene."
-Dialogue: 100,0:00:53.97,0:00:58.11,Dialogue,,0,0,0,,Airi! Trebuie să te trezești! Hei!
-Dialogue: 100,0:01:05.44,0:01:07.79,Dialogue,,0,0,0,,Rise! Parcă ți-am spus să \Nîncetezi cu asta, nu-i așa?!
-Dialogue: 100,0:01:07.79,0:01:10.43,Dialogue,,0,0,0,,Dar nu voiai să te trezești!
-Dialogue: 100,0:01:19.11,0:01:21.43,Dialogue,,0,0,0,,Airi! Prânzul este gata—
-Dialogue: 100,0:01:21.43,0:01:23.14,Dialogue,,0,0,0,,Nu se poate!
-Dialogue: 100,0:01:24.00,0:01:25.28,Dialogue,,0,0,0,,Ești bine?!
-Dialogue: 100,0:01:25.28,0:01:26.25,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:01:27.24,0:01:28.83,Dialogue,,0,0,0,,Merg să mă spăl pe față...
-Dialogue: 100,0:01:29.49,0:01:31.82,Dialogue,,0,0,0,,Așteaptă, gelul de față este chiar aici—
-Dialogue: 100,0:01:34.55,0:01:37.22,Dialogue,,0,0,0,,Nu-mi spune că ai folosit \Npastă de dinți în schimb!
-Dialogue: 100,0:01:37.22,0:01:40.28,Dialogue,,0,0,0,,Ochii și fața mă ustură. M-am săturat!
-Dialogue: 100,0:01:40.84,0:01:41.95,Dialogue,,0,0,0,,Bună dimineața!
-Dialogue: 100,0:01:41.95,0:01:45.38,Dialogue,,0,0,0,,Astăzi v-am făcut desertul vostru \Nfavorit. Clătitele mele super speciale.
-Dialogue: 100,0:01:46.10,0:01:48.74,Dialogue,,0,0,0,,Frățioare, ești mereu așa de drăguț cu noi.
-Dialogue: 100,0:01:48.74,0:01:50.42,Dialogue,,0,0,0,,Rise te iubește!
-Dialogue: 100,0:01:50.42,0:01:53.47,Dialogue,,0,0,0,,Nu chiar, îmi fac doar treaba! \NSunt fratele vostru mai mare, la urma urmei.
-Dialogue: 100,0:01:53.47,0:01:55.32,Dialogue,,0,0,0,,Hm? Ce este în neregulă, Airi?
-Dialogue: 100,0:01:55.32,0:01:58.00,Dialogue,,0,0,0,,Am fost acoperită de bule de săpun și acum nu mă simt prea bine...
-Dialogue: 100,0:01:58.00,0:01:59.01,Dialogue,,0,0,0,,Este fierbinte!
-Dialogue: 100,0:01:59.26,0:02:00.15,Dialogue,,0,0,0,,Lasă-mă să văd.
-Dialogue: 100,0:02:00.15,0:02:01.30,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:02:02.64,0:02:04.86,Dialogue,,0,0,0,,Ce?! Hei, Airi!
-Dialogue: 100,0:02:06.28,0:02:10.21,Dialogue,,0,0,0,,Atunci, te voi lăsa să te odihnești, \Ndar nu te vei simți singură fără mine?
-Dialogue: 100,0:02:10.21,0:02:12.38,Dialogue,,0,0,0,,N-Nu fi ridicol!
-Dialogue: 100,0:02:13.31,0:02:15.91,Dialogue,,0,0,0,,Dacă te vei preface că acesta sunt eu, sunt sigur că nu te vei simți singură.
-Dialogue: 100,0:02:15.91,0:02:17.36,Dialogue,,0,0,0,,O, este așa de drăguț!
-Dialogue: 100,0:02:17.36,0:02:20.49,Dialogue,,0,0,0,,Acesta este domnul Alpaca. \NEste o zână a pădurii.
-Dialogue: 100,0:02:20.97,0:02:23.06,Dialogue,,0,0,0,,O place mult pe Airi!
-Dialogue: 100,0:02:25.09,0:02:27.07,Dialogue,,0,0,0,,Îți mulțumesc, frățioare!
-Dialogue: 100,0:02:27.74,0:02:28.91,Dialogue,,0,0,0,,Te iubesc.
+Dialogue: 99,0:00:44.58,0:00:45.71,Dialogue,,0,0,0,,Airi...
+Dialogue: 99,0:00:46.40,0:00:47.92,Dialogue,,0,0,0,,Este dimineață.
+Dialogue: 99,0:00:48.69,0:00:51.68,Dialogue,,0,0,0,,"Un frate cu complex de soră și surorile lui gemene."
+Dialogue: 99,0:00:53.97,0:00:58.11,Dialogue,,0,0,0,,Airi! Trebuie să te trezești! Hei!
+Dialogue: 99,0:01:05.44,0:01:07.79,Dialogue,,0,0,0,,Rise! Parcă ți-am spus să \Nîncetezi cu asta, nu-i așa?!
+Dialogue: 99,0:01:07.79,0:01:10.43,Dialogue,,0,0,0,,Dar nu voiai să te trezești!
+Dialogue: 99,0:01:19.11,0:01:21.43,Dialogue,,0,0,0,,Airi! Prânzul este gata—
+Dialogue: 99,0:01:21.43,0:01:23.14,Dialogue,,0,0,0,,Nu se poate!
+Dialogue: 99,0:01:24.00,0:01:25.28,Dialogue,,0,0,0,,Ești bine?!
+Dialogue: 99,0:01:25.28,0:01:26.25,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:01:27.24,0:01:28.83,Dialogue,,0,0,0,,Merg să mă spăl pe față...
+Dialogue: 99,0:01:29.49,0:01:31.82,Dialogue,,0,0,0,,Așteaptă, gelul de față este chiar aici—
+Dialogue: 99,0:01:34.55,0:01:37.22,Dialogue,,0,0,0,,Nu-mi spune că ai folosit \Npastă de dinți în schimb!
+Dialogue: 99,0:01:37.22,0:01:40.28,Dialogue,,0,0,0,,Ochii și fața mă ustură. M-am săturat!
+Dialogue: 99,0:01:40.84,0:01:41.95,Dialogue,,0,0,0,,Bună dimineața!
+Dialogue: 99,0:01:41.95,0:01:45.38,Dialogue,,0,0,0,,Astăzi v-am făcut desertul vostru \Nfavorit. Clătitele mele super speciale.
+Dialogue: 99,0:01:46.10,0:01:48.74,Dialogue,,0,0,0,,Frățioare, ești mereu așa de drăguț cu noi.
+Dialogue: 99,0:01:48.74,0:01:50.42,Dialogue,,0,0,0,,Rise te iubește!
+Dialogue: 99,0:01:50.42,0:01:53.47,Dialogue,,0,0,0,,Nu chiar, îmi fac doar treaba! \NSunt fratele vostru mai mare, la urma urmei.
+Dialogue: 99,0:01:53.47,0:01:55.32,Dialogue,,0,0,0,,Hm? Ce este în neregulă, Airi?
+Dialogue: 99,0:01:55.32,0:01:58.00,Dialogue,,0,0,0,,Am fost acoperită de bule de săpun și acum nu mă simt prea bine...
+Dialogue: 99,0:01:58.00,0:01:59.01,Dialogue,,0,0,0,,Este fierbinte!
+Dialogue: 99,0:01:59.26,0:02:00.15,Dialogue,,0,0,0,,Lasă-mă să văd.
+Dialogue: 99,0:02:00.15,0:02:01.30,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:02:02.64,0:02:04.86,Dialogue,,0,0,0,,Ce?! Hei, Airi!
+Dialogue: 99,0:02:06.28,0:02:10.21,Dialogue,,0,0,0,,Atunci, te voi lăsa să te odihnești, \Ndar nu te vei simți singură fără mine?
+Dialogue: 99,0:02:10.21,0:02:12.38,Dialogue,,0,0,0,,N-Nu fi ridicol!
+Dialogue: 99,0:02:13.31,0:02:15.91,Dialogue,,0,0,0,,Dacă te vei preface că acesta sunt eu, sunt sigur că nu te vei simți singură.
+Dialogue: 99,0:02:15.91,0:02:17.36,Dialogue,,0,0,0,,O, este așa de drăguț!
+Dialogue: 99,0:02:17.36,0:02:20.49,Dialogue,,0,0,0,,Acesta este domnul Alpaca. \NEste o zână a pădurii.
+Dialogue: 99,0:02:20.97,0:02:23.06,Dialogue,,0,0,0,,O place mult pe Airi!
+Dialogue: 99,0:02:25.09,0:02:27.07,Dialogue,,0,0,0,,Îți mulțumesc, frățioare!
+Dialogue: 99,0:02:27.74,0:02:28.91,Dialogue,,0,0,0,,Te iubesc.
 Dialogue: 0,0:00:05.90,0:00:07.65,KazuyaShuuSign,,0,0,0,,{\fad(150,0)\fnCrocodile Feet\an1\fs180\c&HD9CDF9&\blur0.8\pos(100,1050)\bord10\3c&HD9CDF9&\1a&HFF&\fsp5\t(0,150,1,\1a&H00&)}Rise
 Dialogue: 1,0:00:05.90,0:00:07.65,KazuyaShuuSign,,0,0,0,,{\fad(150,0)\fnCrocodile Feet\an1\fs180\c&H7346F5&\blur1\pos(100,1050)\fsp5}Rise
 Dialogue: 0,0:00:07.86,0:00:09.61,KazuyaShuuSign,,0,0,0,,{\fad(150,0)\fnCrocodile Feet\an3\fs180\c&HFBE8D6&\blur0.8\pos(1820,1050)\bord10\3c&HFBE8D6&\1a&HFF&\fsp5\t(0,150,1,\1a&H00&)}Airi

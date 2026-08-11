@@ -28,345 +28,345 @@ Style: Shirushibi TL,Cardo,74,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.61,0:00:04.59,Dialogue,,0,0,0,,Pe aici.
-Dialogue: 100,0:00:05.35,0:00:06.84,Dialogue,,0,0,0,,Putem trece pe aici?
-Dialogue: 100,0:00:15.11,0:00:16.98,Dialogue,,0,0,0,,Vom campa aici astă-seară.
-Dialogue: 100,0:00:17.64,0:00:20.12,Dialogue,,0,0,0,,Zâne ale naturii, oferiți-mi \Nadapost pentru noapte:
-Dialogue: 100,0:00:20.12,0:00:24.09,Dialogue,,0,0,0,,un pat de iarbă, un acoperiș din copaci și un loc ferit de oaspeții nepoftiți.
-Dialogue: 100,0:00:28.75,0:00:30.03,Dialogue,,0,0,0,,Uimitor!
-Dialogue: 100,0:00:30.03,0:00:31.62,Dialogue,,0,0,0,,Nu e mare lucru.
-Dialogue: 100,0:00:41.62,0:00:44.36,Dialogue,,0,0,0,,Hei, am făcut ceva greșit?
-Dialogue: 100,0:00:44.36,0:00:46.33,Dialogue,,0,0,0,,Nu am fost crescut în cele \Nmai bune circumstanțe.
-Dialogue: 100,0:00:46.33,0:00:49.07,Dialogue,,0,0,0,,Nu prea mă înțeleg bine cu persoanele crescute în puf, așa ca tine.
-Dialogue: 100,0:00:49.07,0:00:52.56,Dialogue,,0,0,0,,Dar îmi voi plăti datoria față de tine și îmi voi face treaba.
-Dialogue: 100,0:00:52.91,0:00:55.46,Dialogue,,0,0,0,,Nu am fost crescut în {\i1}puf{\i0}.
-Dialogue: 100,0:00:56.28,0:00:58.07,Dialogue,,0,0,0,,Vom ajunge în sat în zori.
-Dialogue: 100,0:00:59.63,0:01:02.16,Dialogue,,0,0,0,,Ține minte, doar te duc acolo.
-Dialogue: 100,0:01:02.16,0:01:04.86,Dialogue,,0,0,0,,Nu te voi ajuta să lupți \Ncu demonii sau ceva.
-Dialogue: 100,0:01:04.86,0:01:07.16,Dialogue,,0,0,0,,Știu. E în regulă.
-Dialogue: 100,0:01:10.38,0:01:11.67,Dialogue,,0,0,0,,Nu ar trebui să stea cineva de pază?
-Dialogue: 100,0:01:11.67,0:01:13.43,Dialogue,,0,0,0,,Zânele o vor face.
-Dialogue: 100,0:01:13.43,0:01:15.78,Dialogue,,0,0,0,,Dacă se va întâmpla ceva, \Nvor face zgomot ca să ne trezească.
-Dialogue: 100,0:01:17.19,0:01:19.69,Dialogue,,0,0,0,,Hei, de ce nu stăm puțin de vorbă?
-Dialogue: 100,0:01:19.69,0:01:21.26,Dialogue,,0,0,0,,Sunt obosit.
-Dialogue: 100,0:01:21.26,0:01:23.05,Dialogue,,0,0,0,,Dacă vrei să stai treaz, fă-o singur.
-Dialogue: 100,0:01:26.70,0:01:29.73,Dialogue,,0,0,0,,{\i1}Oare cât timp a trecut de când am pornit în călătoria mea?
-Dialogue: 100,0:01:29.73,0:01:34.71,Dialogue,,0,0,0,,{\i1}Asta e prima noapte pe care o petrec cu cineva de când am plecat.
-Dialogue: 100,0:03:08.45,0:03:09.71,Dialogue,,0,0,0,,Ruine?
-Dialogue: 100,0:03:09.71,0:03:11.03,Dialogue,,0,0,0,,Obișnuiau să fie.
-Dialogue: 100,0:03:11.03,0:03:14.36,Dialogue,,0,0,0,,Pietrele și celelalte lucruri sunt destul de utile la construcții.
-Dialogue: 100,0:03:15.34,0:03:16.66,Dialogue,,0,0,0,,Satul e drept înainte.
-Dialogue: 100,0:03:24.48,0:03:25.51,Dialogue,,0,0,0,,Sunt acolo.
-Dialogue: 100,0:03:25.51,0:03:26.34,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:03:26.34,0:03:28.81,Dialogue,,0,0,0,,Voi cerceta zona. Așteaptă aici.
-Dialogue: 100,0:03:35.95,0:03:36.99,Dialogue,,0,0,0,,Un ritual?
-Dialogue: 100,0:03:36.99,0:03:40.05,Dialogue,,0,0,0,,Da, la ruinele templului din sat.
-Dialogue: 100,0:03:40.67,0:03:42.20,Dialogue,,0,0,0,,Acei demoni nenorociți...
-Dialogue: 100,0:03:42.20,0:03:44.75,Dialogue,,0,0,0,,Care e structura templului și cum sunt organizați demonii?
-Dialogue: 100,0:03:47.10,0:03:48.59,Dialogue,,0,0,0,,Cam așa ceva.
-Dialogue: 100,0:03:48.92,0:03:52.29,Dialogue,,0,0,0,,Nu are acoperiș și câteva \Nziduri s-au prăbușit.
-Dialogue: 100,0:03:52.29,0:03:55.00,Dialogue,,0,0,0,,Au creat un cerc în mijlocul templului ca să-și facă ritualul.
-Dialogue: 100,0:03:55.00,0:03:56.37,Dialogue,,0,0,0,,Sunt doi comandanți.
-Dialogue: 100,0:03:56.37,0:03:59.39,Dialogue,,0,0,0,,Au capete de șopârlă. \NAm uitat cum erau numiți...
-Dialogue: 100,0:03:59.39,0:04:00.49,Dialogue,,0,0,0,,Vraskus?
-Dialogue: 100,0:04:00.49,0:04:02.64,Dialogue,,0,0,0,,Da, ceva de genul.
-Dialogue: 100,0:04:02.64,0:04:03.47,Dialogue,,0,0,0,,Altceva?
-Dialogue: 100,0:04:03.47,0:04:06.46,Dialogue,,0,0,0,,Au câțiva soldați care \Npatrulează în jurul templului.
-Dialogue: 100,0:04:06.46,0:04:09.11,Dialogue,,0,0,0,,Și mai știu că este cel puțin o bestie demon înăuntru.
-Dialogue: 100,0:04:09.11,0:04:10.77,Dialogue,,0,0,0,,Cum arată bestia demon?
-Dialogue: 100,0:04:10.77,0:04:14.37,Dialogue,,0,0,0,,Are cap de om, corp de leu
-Dialogue: 100,0:04:14.37,0:04:16.06,Dialogue,,0,0,0,,și aripi de liliac.
-Dialogue: 100,0:04:16.06,0:04:17.44,Dialogue,,0,0,0,,O manticoră.
-Dialogue: 100,0:04:17.44,0:04:18.93,Dialogue,,0,0,0,,Știi multe despre chestiile astea, nu?
-Dialogue: 100,0:04:18.93,0:04:21.09,Dialogue,,0,0,0,,Le-am studiat o vreme.
-Dialogue: 100,0:04:21.61,0:04:22.49,Dialogue,,0,0,0,,Dar...
-Dialogue: 100,0:04:22.80,0:04:24.34,Dialogue,,0,0,0,,Mă bucur că e doar atât.
-Dialogue: 100,0:04:24.34,0:04:25.36,Dialogue,,0,0,0,,Că e doar atât?
-Dialogue: 100,0:04:25.36,0:04:27.61,Dialogue,,0,0,0,,Voi merge peste ei și-i voi elimina.
-Dialogue: 100,0:04:51.72,0:04:53.44,Dialogue,,0,0,0,,{\an8}Cadere Araneum!
-Dialogue: 100,0:05:02.22,0:05:03.05,Dialogue,,0,0,0,,{\an8}Currere!
-Dialogue: 100,0:05:03.05,0:05:03.69,Dialogue,,0,0,0,,{\an8}Oleum!
-Dialogue: 100,0:05:09.63,0:05:11.01,Dialogue,,0,0,0,,{\an8}Acceleratio!
-Dialogue: 100,0:05:13.02,0:05:14.21,Dialogue,,0,0,0,,{\an8}Vastare!
-Dialogue: 100,0:05:21.80,0:05:23.89,Dialogue,,0,0,0,,Credeam că nu intenționezi să lupți.
-Dialogue: 100,0:05:24.21,0:05:26.81,Dialogue,,0,0,0,,M-am băgat doar pentru că tu urma să ieși învingător.
-Dialogue: 100,0:05:27.23,0:05:30.38,Dialogue,,0,0,0,,Nu mulți oameni se pot pune cu chestiile alea de unii singuri și să câștige.
-Dialogue: 100,0:05:30.38,0:05:32.38,Dialogue,,0,0,0,,Condițiile erau în favoarea mea.
-Dialogue: 100,0:05:32.38,0:05:34.68,Dialogue,,0,0,0,,Oricum ar fi, puterea ta e anormal.
-Dialogue: 100,0:05:34.68,0:05:36.77,Dialogue,,0,0,0,,Ai făcut vreun antrenament special sau ceva?
-Dialogue: 100,0:05:36.77,0:05:39.78,Dialogue,,0,0,0,,Ei bine... Bănuiesc că mănânc multă pâine.
-Dialogue: 100,0:05:39.78,0:05:42.34,Dialogue,,0,0,0,,Oamenii nu devin mai puternici doar prin asta.
-Dialogue: 100,0:05:43.21,0:05:46.49,Dialogue,,0,0,0,,Păi, oricum, cred că ne-am ocupat de majoritatea inamicilor.
-Dialogue: 100,0:05:46.49,0:05:48.89,Dialogue,,0,0,0,,Bănuiesc că tot ce a mai rămas e să-i eliminăm pe demonii rămași.
-Dialogue: 100,0:05:49.84,0:05:51.77,Dialogue,,0,0,0,,Sper că au reușit să \Nsupraviețuiască câțiva săteni.
-Dialogue: 100,0:05:52.04,0:05:52.80,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:05:53.58,0:05:55.06,Dialogue,,0,0,0,,Oh, așteaptă o secundă.
-Dialogue: 100,0:06:24.89,0:06:26.96,Dialogue,,0,0,0,,Fră... țioare...
-Dialogue: 100,0:06:33.22,0:06:35.87,Dialogue,,0,0,0,,Frățioare Menel...
-Dialogue: 100,0:06:37.23,0:06:41.05,Dialogue,,0,0,0,,Demonii... au atacat satul.
-Dialogue: 100,0:06:41.53,0:06:43.34,Dialogue,,0,0,0,,Ardea foarte rău...
-Dialogue: 100,0:06:43.34,0:06:46.51,Dialogue,,0,0,0,,Dar am fost puternic și \Nnu am scos niciun sunet.
-Dialogue: 100,0:06:46.51,0:06:50.48,Dialogue,,0,0,0,,Deoarece... am avut încredere...
-Dialogue: 100,0:06:51.28,0:06:53.06,Dialogue,,0,0,0,,că vei veni...
-Dialogue: 100,0:06:54.79,0:06:57.45,Dialogue,,0,0,0,,Și chiar ai făcut-o.
-Dialogue: 100,0:06:58.19,0:06:59.67,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:07:04.73,0:07:07.50,Dialogue,,0,0,0,,Ce... De ce?
-Dialogue: 100,0:07:09.79,0:07:12.21,Dialogue,,0,0,0,,Ce? Eu...
-Dialogue: 100,0:07:13.12,0:07:14.22,Dialogue,,0,0,0,,H-Hei!
-Dialogue: 100,0:07:14.22,0:07:16.14,Dialogue,,0,0,0,,Te-ai descurcat foarte bine.
-Dialogue: 100,0:07:16.14,0:07:17.50,Dialogue,,0,0,0,,Ai făcut o treabă bună.
-Dialogue: 100,0:07:17.78,0:07:20.01,Dialogue,,0,0,0,,Cine ești tu?
-Dialogue: 100,0:07:20.48,0:07:22.97,Dialogue,,0,0,0,,Eu sunt unul din prietenii lui Menel.
-Dialogue: 100,0:07:22.97,0:07:24.07,Dialogue,,0,0,0,,Îmi pare rău.
-Dialogue: 100,0:07:24.07,0:07:27.23,Dialogue,,0,0,0,,Nu-și prea poate ține \Nechilibrul deoarece e obosit.
-Dialogue: 100,0:07:27.93,0:07:29.12,Dialogue,,0,0,0,,Oh, înțeleg.
-Dialogue: 100,0:07:29.12,0:07:30.91,Dialogue,,0,0,0,,Așa. Bun băiat.
-Dialogue: 100,0:07:30.91,0:07:31.72,Dialogue,,0,0,0,,Haide...
-Dialogue: 100,0:07:32.52,0:07:33.39,Dialogue,,0,0,0,,Menel.
-Dialogue: 100,0:07:37.56,0:07:40.55,Dialogue,,0,0,0,,Îmi pare rău că am întârziat.
-Dialogue: 100,0:07:41.07,0:07:43.10,Dialogue,,0,0,0,,Nu, e în regulă.
-Dialogue: 100,0:07:43.49,0:07:46.35,Dialogue,,0,0,0,,Sunt sigur că ești obosit. \NAr fi bine să dormi.
-Dialogue: 100,0:07:46.35,0:07:48.68,Dialogue,,0,0,0,,Așa... este.
-Dialogue: 100,0:07:49.21,0:07:52.23,Dialogue,,0,0,0,,Simt... cum mi se închid ochii...
-Dialogue: 100,0:07:53.18,0:07:54.87,Dialogue,,0,0,0,,Vise frumoase.
-Dialogue: 100,0:07:55.07,0:07:55.82,Dialogue,,0,0,0,,Mersi.
-Dialogue: 100,0:07:58.91,0:08:01.11,Dialogue,,0,0,0,,Gracefeel, Zeiță a Luminii,
-Dialogue: 100,0:08:01.58,0:08:03.27,Dialogue,,0,0,0,,oferă-i acestui suflet \Npacea și îndrumarea ta.
-Dialogue: 100,0:08:11.91,0:08:12.73,Dialogue,,0,0,0,,Hei...
-Dialogue: 100,0:08:12.73,0:08:13.63,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:08:14.79,0:08:16.02,Dialogue,,0,0,0,,Scuze?
-Dialogue: 100,0:08:16.29,0:08:17.41,Dialogue,,0,0,0,,Pentru?
-Dialogue: 100,0:08:17.91,0:08:19.90,Dialogue,,0,0,0,,Faptul că nu te-am luat în serios.
-Dialogue: 100,0:08:20.49,0:08:22.82,Dialogue,,0,0,0,,Credeam că ești un băiețel \Nbogat, cu bani și mușchi,
-Dialogue: 100,0:08:22.82,0:08:25.16,Dialogue,,0,0,0,,care a avut noroc să obțină protecția unui zeu și a devenit arogant,
-Dialogue: 100,0:08:25.59,0:08:27.76,Dialogue,,0,0,0,,spunând doar lucruri banale și inutile.
-Dialogue: 100,0:08:29.15,0:08:31.77,Dialogue,,0,0,0,,Deci... îmi pare rău.
-Dialogue: 100,0:08:32.28,0:08:34.02,Dialogue,,0,0,0,,E în regulă.
-Dialogue: 100,0:08:35.38,0:08:38.18,Dialogue,,0,0,0,,{\i1}Încă mai avea o privire îndurerată,
-Dialogue: 100,0:08:38.18,0:08:41.20,Dialogue,,0,0,0,,{\i1}dar Menel a reușit să zâmbească puțin.
-Dialogue: 100,0:08:41.78,0:08:44.52,Dialogue,,0,0,0,,{\i1}Nu a mai ezitat apoi.
-Dialogue: 100,0:08:44.78,0:08:46.73,Dialogue,,0,0,0,,{\i1}I-a ținut de mână pe morții vii
-Dialogue: 100,0:08:47.04,0:08:49.05,Dialogue,,0,0,0,,{\i1}și și-a luat rămas bun de la ei.
-Dialogue: 100,0:09:00.56,0:09:03.43,Dialogue,,0,0,0,,Cred că am verificat \Ntoate locațiile mari.
-Dialogue: 100,0:09:03.43,0:09:05.35,Dialogue,,0,0,0,,Nu simt niciun demon.
-Dialogue: 100,0:09:06.06,0:09:07.22,Dialogue,,0,0,0,,Mai e un loc...
-Dialogue: 100,0:09:17.98,0:09:20.21,Dialogue,,0,0,0,,Hei, bătrână Marple! Ești acasă?
-Dialogue: 100,0:09:21.21,0:09:22.34,Dialogue,,0,0,0,,Oh?
-Dialogue: 100,0:09:22.80,0:09:25.98,Dialogue,,0,0,0,,Această voce... Dacă nu e chiar Menel!
-Dialogue: 100,0:09:26.46,0:09:29.62,Dialogue,,0,0,0,,Fantoma asta pare să fie destul de aproape de cel mai înalt rang!
-Dialogue: 100,0:09:30.99,0:09:33.20,Dialogue,,0,0,0,,{\i1}Sufletului ei trebuie să fie destul de puternic.
-Dialogue: 100,0:09:33.20,0:09:37.06,Dialogue,,0,0,0,,{\i1}Dacă se va opune, s-ar putea ca puterea mea să nu fie de ajuns...
-Dialogue: 100,0:09:39.63,0:09:43.26,Dialogue,,0,0,0,,{\i1}Dacă se va ajunge la asta, va trebui să folosesc o armă magică care să funcționeze pe spirite.
-Dialogue: 100,0:09:44.41,0:09:47.64,Dialogue,,0,0,0,,Nu trebuie să-ți faci atâtea griji, tinere.
-Dialogue: 100,0:09:48.51,0:09:51.61,Dialogue,,0,0,0,,Nu mi-am pierdut mințile încă.
-Dialogue: 100,0:09:51.61,0:09:54.36,Dialogue,,0,0,0,,Serios? Păi, mă bucur să aud asta.
-Dialogue: 100,0:09:54.36,0:09:58.52,Dialogue,,0,0,0,,Se pare că ai rămas în această lume din cauza unui atașament,
-Dialogue: 100,0:09:58.52,0:10:02.37,Dialogue,,0,0,0,,dar acest băiat e un \Nadevărat preot bun.
-Dialogue: 100,0:10:03.12,0:10:06.38,Dialogue,,0,0,0,,Întoarcerea sufletelor pierdute, \Ncum ești tu acum, în ciclul morții și renașterii
-Dialogue: 100,0:10:06.38,0:10:09.14,Dialogue,,0,0,0,,și tratarea oamenilor răniți \Nsunt punctele sale forte.
-Dialogue: 100,0:10:09.14,0:10:09.95,Dialogue,,0,0,0,,Serios?
-Dialogue: 100,0:10:09.95,0:10:12.60,Dialogue,,0,0,0,,Ne vom ocupa noi de sat.
-Dialogue: 100,0:10:12.60,0:10:14.49,Dialogue,,0,0,0,,Deci te poți duce pe lumea cealaltă.
-Dialogue: 100,0:10:16.95,0:10:20.31,Dialogue,,0,0,0,,Sau vrei să mai transmiți cuiva ceva?
-Dialogue: 100,0:10:20.31,0:10:21.93,Dialogue,,0,0,0,,Dacă da, o voi face eu în locul...
-Dialogue: 100,0:10:21.93,0:10:22.80,Dialogue,,0,0,0,,Menel!
-Dialogue: 100,0:10:22.80,0:10:24.47,Dialogue,,0,0,0,,Iar nu ai fost cuminte!
-Dialogue: 100,0:10:24.47,0:10:26.30,Dialogue,,0,0,0,,Nu, nu e adevărat...
-Dialogue: 100,0:10:26.30,0:10:27.99,Dialogue,,0,0,0,,Oricum, ce te face să spui asta?
-Dialogue: 100,0:10:27.99,0:10:29.88,Dialogue,,0,0,0,,Poate chiar ți-ai pierdut mințile?
-Dialogue: 100,0:10:29.88,0:10:31.88,Dialogue,,0,0,0,,Te citesc ca pe o carte deschisă!
-Dialogue: 100,0:10:32.46,0:10:33.84,Dialogue,,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:10:33.84,0:10:35.55,Dialogue,,0,0,0,,E evident că minți!
-Dialogue: 100,0:10:35.55,0:10:37.52,Dialogue,,0,0,0,,Mereu îmi dau seama când o faci!
-Dialogue: 100,0:10:38.54,0:10:42.28,Dialogue,,0,0,0,,Ești arogant, dar, \Nînăuntrul tău, ești corect și precis.
-Dialogue: 100,0:10:43.33,0:10:48.09,Dialogue,,0,0,0,,Furtul și omorâtul nu sunt pentru tine.
-Dialogue: 100,0:10:48.09,0:10:49.45,Dialogue,,0,0,0,,Înțelegi acum?
-Dialogue: 100,0:10:49.45,0:10:50.22,Dialogue,,0,0,0,,Mai taci.
-Dialogue: 100,0:10:50.22,0:10:51.13,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:10:51.13,0:10:54.10,Dialogue,,0,0,0,,Mai taci! Ce te face \Nsă crezi că știi totul?!
-Dialogue: 100,0:10:55.63,0:10:58.51,Dialogue,,0,0,0,,Atunci, ce trebuia să fac?!
-Dialogue: 100,0:10:59.00,0:11:01.81,Dialogue,,0,0,0,,Tu ai dat colțul, \Nceilalți mureau de foame...
-Dialogue: 100,0:11:01.81,0:11:03.64,Dialogue,,0,0,0,,Ce altceva aș fi putut face?!
-Dialogue: 100,0:11:03.64,0:11:06.13,Dialogue,,0,0,0,,Crezi că ar fi trebuit să \Nmă rog zeilor sau ceva?!
-Dialogue: 100,0:11:06.73,0:11:10.90,Dialogue,,0,0,0,,Zeii... Zeii nu m-au ajutat niciodată!
-Dialogue: 100,0:11:15.82,0:11:18.60,Dialogue,,0,0,0,,La naiba! La naiba! La naiba!
-Dialogue: 100,0:11:18.60,0:11:20.09,Dialogue,,0,0,0,,La naiba! La naiba!
-Dialogue: 100,0:11:28.54,0:11:29.41,Dialogue,,0,0,0,,La naiba cu tot...
-Dialogue: 100,0:11:30.16,0:11:31.50,Dialogue,,0,0,0,,M-am săturat!
-Dialogue: 100,0:11:32.26,0:11:34.51,Dialogue,,0,0,0,,Vreau să mor alături de tine!
-Dialogue: 100,0:11:36.51,0:11:40.59,Dialogue,,0,0,0,,Viața unui semi-elf e mult \Nprea lungă pentru mine.
-Dialogue: 100,0:11:42.79,0:11:46.35,Dialogue,,0,0,0,,{\i1}Cei care au sânge de elf \Ntrăiesc pentru sute de ani.
-Dialogue: 100,0:11:46.79,0:11:51.27,Dialogue,,0,0,0,,{\i1}Chiar și după ce-și pierd \Npersoanele și locurile dragi,
-Dialogue: 100,0:11:52.03,0:11:53.23,Dialogue,,0,0,0,,{\i1}viața lor continuă.
-Dialogue: 100,0:11:54.31,0:11:55.86,Dialogue,,0,0,0,,Ascultă-mă, Menel.
-Dialogue: 100,0:11:56.30,0:11:57.70,Dialogue,,0,0,0,,Meneldor!
-Dialogue: 100,0:11:58.43,0:12:02.19,Dialogue,,0,0,0,,În ciuda a tot, \Nzeii ți-au oferit o a doua șansă.
-Dialogue: 100,0:12:02.44,0:12:04.06,Dialogue,,0,0,0,,Asta e {\i1}ultima{\i0} ta șansă.
-Dialogue: 100,0:12:04.06,0:12:06.74,Dialogue,,0,0,0,,Renunță la această viață \Nde vagabond inutil.
-Dialogue: 100,0:12:07.32,0:12:09.82,Dialogue,,0,0,0,,Poate că tu îi urăști pe zei,
-Dialogue: 100,0:12:09.82,0:12:13.49,Dialogue,,0,0,0,,dar ei te vor iubi mereu.
-Dialogue: 100,0:12:13.49,0:12:15.44,Dialogue,,0,0,0,,Chiar dacă tu nu reușești să observi asta,
-Dialogue: 100,0:12:15.79,0:12:17.45,Dialogue,,0,0,0,,ei îți vor lumina mereu calea
-Dialogue: 100,0:12:17.45,0:12:19.61,Dialogue,,0,0,0,,și nu se vor sătura niciodată de tine.
-Dialogue: 100,0:12:20.44,0:12:24.82,Dialogue,,0,0,0,,Deci tot ce trebuie să faci e să-ți dai seama că lumina lor este acolo.
-Dialogue: 100,0:12:28.96,0:12:31.69,Dialogue,,0,0,0,,Și acum, preotule, \Ndacă nu te deranjează...
-Dialogue: 100,0:12:31.69,0:12:32.68,Dialogue,,0,0,0,,Da?
-Dialogue: 100,0:12:32.68,0:12:35.84,Dialogue,,0,0,0,,Ai dori să ai grijă de \Nacest băiețel nătâng?
-Dialogue: 100,0:12:35.84,0:12:38.60,Dialogue,,0,0,0,,Nu are o inimă rea.
-Dialogue: 100,0:12:38.60,0:12:42.36,Dialogue,,0,0,0,,Deci... te rog să fii \Ndrăguț cu el, bine?
-Dialogue: 100,0:12:44.34,0:12:45.31,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:12:45.70,0:12:49.75,Dialogue,,0,0,0,,Și legat de demoni și bestiile demonice care au atacat acest sat...
-Dialogue: 100,0:12:49.75,0:12:52.33,Dialogue,,0,0,0,,Sunt destul de sigură că nu erau pe aici din întâmplare.
-Dialogue: 100,0:12:52.33,0:12:55.28,Dialogue,,0,0,0,,Fortăreața unde se află \Nliderul lor e adânc în pădure,
-Dialogue: 100,0:12:55.28,0:12:59.17,Dialogue,,0,0,0,,iar acesta își trimite \Nminionii săi demoni peste tot.
-Dialogue: 100,0:12:59.50,0:13:01.85,Dialogue,,0,0,0,,Aceștia comandă niște bestii demonice și atacă oameni...
-Dialogue: 100,0:13:01.85,0:13:06.10,Dialogue,,0,0,0,,Se pare că-și îndreaptă toate eforturile spre ceva cu adevărat sinistru.
-Dialogue: 100,0:13:06.51,0:13:09.77,Dialogue,,0,0,0,,Mă scuzați, dar atașamentul dumneavoastră e cumva...
-Dialogue: 100,0:13:09.77,0:13:13.38,Dialogue,,0,0,0,,Ei bine, nu puteam să mor fără să mă asigur că aceste lucruri nu sunt știute și de o altă persoană!
-Dialogue: 100,0:13:14.47,0:13:18.47,Dialogue,,0,0,0,,Oricum, apreciez oferta, \Ndar nu am nevoie de îndrumarea ta.
-Dialogue: 100,0:13:19.36,0:13:22.19,Dialogue,,0,0,0,,Vezi tu, mă așteaptă deja \Ncineva pe partea cealaltă.
-Dialogue: 100,0:13:22.50,0:13:25.06,Dialogue,,0,0,0,,{\i1}Oh... Are pe cineva.
-Dialogue: 100,0:13:25.24,0:13:27.86,Dialogue,,0,0,0,,Deci voi pleca acum.
-Dialogue: 100,0:13:29.72,0:13:32.87,Dialogue,,0,0,0,,Menel, ai grijă de tine.
-Dialogue: 100,0:13:33.24,0:13:37.62,Dialogue,,0,0,0,,În această lume au loc multe lucruri care nu mai pot fi schimbate apoi.
-Dialogue: 100,0:13:38.12,0:13:42.07,Dialogue,,0,0,0,,Deci, ridică-te și mergi înainte. \NSunt lucruri pe care trebuie să le faci.
-Dialogue: 100,0:13:42.87,0:13:47.09,Dialogue,,0,0,0,,La naiba, femeie bătrână, \Nești mult prea egoistă!
-Dialogue: 100,0:13:48.30,0:13:50.00,Dialogue,,0,0,0,,Păi, așa ești și tu.
-Dialogue: 100,0:13:51.18,0:13:54.68,Dialogue,,0,0,0,,Doamne, ce ne vom face cu tine?
-Dialogue: 100,0:14:01.76,0:14:04.98,Dialogue,,0,0,0,,Ei bine, voi lăsa restul în mâinile tale.
-Dialogue: 100,0:14:06.17,0:14:08.50,Dialogue,,0,0,0,,Desigur. Puteți conta pe mine.
-Dialogue: 100,0:14:19.65,0:14:21.77,Dialogue,,0,0,0,,{\i1}Starea actuală a acestei \Nlumi este una întunecată.
-Dialogue: 100,0:14:21.77,0:14:25.83,Dialogue,,0,0,0,,{\i1}Cel puțin aici, în această zonă cunoscută ca Padurea Bestiilor,
-Dialogue: 100,0:14:25.83,0:14:30.43,Dialogue,,0,0,0,,{\i1}unde demonii și bestiile \Ndemonice pot face ce doresc.
-Dialogue: 100,0:14:30.43,0:14:32.63,Dialogue,,0,0,0,,{\i1}Acest loc nu are legi,
-Dialogue: 100,0:14:32.63,0:14:36.23,Dialogue,,0,0,0,,{\i1}deci, chiar și între oameni, \Nfurturile sunt la tot pasul.
-Dialogue: 100,0:14:36.23,0:14:39.68,Dialogue,,0,0,0,,{\i1}Desigur, ca o persoană din afară, \Ncare doar trece pe aici,
-Dialogue: 100,0:14:39.68,0:14:41.23,Dialogue,,0,0,0,,{\i1}nu sunt obligat să fac nimic.
-Dialogue: 100,0:14:41.61,0:14:43.50,Dialogue,,0,0,0,,{\i1}Aș putea doar să-mi văd de drum.
-Dialogue: 100,0:14:44.69,0:14:45.48,Dialogue,,0,0,0,,{\i1}Dar...
-Dialogue: 100,0:14:48.19,0:14:51.80,Dialogue,,0,0,0,,Mă voi ruga ca în călătoria ta
-Dialogue: 100,0:14:51.80,0:14:55.18,Dialogue,,0,0,0,,să aduci lumină în întunericul îndepărtat.
-Dialogue: 100,0:15:05.99,0:15:09.13,Dialogue,,0,0,0,,{\i1}Câteva zile mai târziu, \Nsătenii s-au întors.
-Dialogue: 100,0:15:09.42,0:15:13.14,Dialogue,,0,0,0,,{\i1}Deși au fost șocați să vadă \Nîn ce stare se afla satul lor,
-Dialogue: 100,0:15:13.14,0:15:16.07,Dialogue,,0,0,0,,{\i1}au luat, în cele din urmă, \Nuneltele agricole rămase
-Dialogue: 100,0:15:16.07,0:15:18.65,Dialogue,,0,0,0,,{\i1}și au început să sape gropi ca să-i îngroape pe cei morți,
-Dialogue: 100,0:15:18.65,0:15:20.34,Dialogue,,0,0,0,,{\i1}conducându-i împreună \Npe ultimul lor drum.
-Dialogue: 100,0:15:24.02,0:15:25.02,Dialogue,,0,0,0,,Deci...
-Dialogue: 100,0:15:25.02,0:15:26.99,Dialogue,,0,0,0,,Ce veți face acum?
-Dialogue: 100,0:15:28.16,0:15:30.28,Dialogue,,0,0,0,,Ei bine, privește asta.
-Dialogue: 100,0:15:37.67,0:15:40.21,Dialogue,,0,0,0,,În seara asta vom da o micuță petrecere
-Dialogue: 100,0:15:40.56,0:15:43.83,Dialogue,,0,0,0,,ca să sărbătorim întoarcerea în sat și să-i cinstim pe cei morți.
-Dialogue: 100,0:15:43.83,0:15:47.16,Dialogue,,0,0,0,,Tu ești salvatorul care ne-a ajutat să ne recuperăm satul,
-Dialogue: 100,0:15:47.16,0:15:49.04,Dialogue,,0,0,0,,deci chiar ne-am dori să ni te alături.
-Dialogue: 100,0:15:49.04,0:15:50.23,Dialogue,,0,0,0,,Aș fi bucuros s-o fac.
-Dialogue: 100,0:16:04.34,0:16:05.16,Dialogue,,0,0,0,,Menel...
-Dialogue: 100,0:16:22.89,0:16:23.77,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:16:25.54,0:16:27.53,Dialogue,,0,0,0,,E o priveliște frumoasă.
-Dialogue: 100,0:16:27.53,0:16:29.17,Dialogue,,0,0,0,,Presupun că se {\i1}vede{\i0} frumos de aici.
-Dialogue: 100,0:16:30.73,0:16:33.53,Dialogue,,0,0,0,,Acele ruine colcăie cu morți vii.
-Dialogue: 100,0:16:34.19,0:16:36.73,Dialogue,,0,0,0,,Nenumărați aventurieri au intrat în ele,
-Dialogue: 100,0:16:36.73,0:16:38.48,Dialogue,,0,0,0,,dar niciunul nu s-a mai întors.
-Dialogue: 100,0:16:39.01,0:16:40.32,Dialogue,,0,0,0,,Înțeleg.
-Dialogue: 100,0:16:40.85,0:16:42.89,Dialogue,,0,0,0,,Bun, în acest caz, \Nvoi merge mâine acolo.
-Dialogue: 100,0:16:42.89,0:16:45.26,Dialogue,,0,0,0,,Ce? Mă ascultai măcar?
-Dialogue: 100,0:16:45.26,0:16:48.15,Dialogue,,0,0,0,,Da. Colcăie cu morți vii, nu-i așa?
-Dialogue: 100,0:16:48.15,0:16:51.20,Dialogue,,0,0,0,,Dacă așa stă treaba, atunci, trebuie să merg acolo și să-i reîntorc în ciclu.
-Dialogue: 100,0:16:53.11,0:16:55.12,Dialogue,,0,0,0,,Bănuiesc că ăsta e genul \Nde persoană care ești.
-Dialogue: 100,0:16:55.43,0:16:57.97,Dialogue,,0,0,0,,Faptul că sunt în preajma \Nta mă scoate din ritm.
-Dialogue: 100,0:16:58.29,0:17:01.81,Dialogue,,0,0,0,,Credeam că sunt o \Npersoană mai rece de atât.
-Dialogue: 100,0:17:02.80,0:17:05.83,Dialogue,,0,0,0,,Puțin cam târziu să spui asta după cum boceai mai devreme.
-Dialogue: 100,0:17:05.83,0:17:06.85,Dialogue,,0,0,0,,Tu...
-Dialogue: 100,0:17:07.19,0:17:10.00,Dialogue,,0,0,0,,Chiar spui astfel de lucruri unei persoane care e deja melancolică?
-Dialogue: 100,0:17:10.31,0:17:14.01,Dialogue,,0,0,0,,Menel, ce fel de persoană era Marple?
-Dialogue: 100,0:17:14.65,0:17:17.76,Dialogue,,0,0,0,,Era o bătrână ciudată, \Ndupă cum ai văzut și tu.
-Dialogue: 100,0:17:18.19,0:17:20.14,Dialogue,,0,0,0,,M-am născut în nord, \Nîn Ținutul Ierbii,
-Dialogue: 100,0:17:20.14,0:17:24.13,Dialogue,,0,0,0,,în Măreața Pădure a \Nlui Erin, unde trăiesc elfii.
-Dialogue: 100,0:17:24.61,0:17:27.59,Dialogue,,0,0,0,,Mama mea a fost o \Nfemeie curioasă din fire.
-Dialogue: 100,0:17:27.59,0:17:29.80,Dialogue,,0,0,0,,Într-o zi, a plecat în afara pădurii
-Dialogue: 100,0:17:29.80,0:17:32.86,Dialogue,,0,0,0,,și s-a întors având în \Npântece copilul unui străin,
-Dialogue: 100,0:17:33.21,0:17:35.82,Dialogue,,0,0,0,,ca apoi să-mi dea naștere mie și să moară la scurt timp după.
-Dialogue: 100,0:17:36.43,0:17:39.38,Dialogue,,0,0,0,,{\fad(200,0)}Am crescut într-un ritm diferit față de ceilalți din jurul meu,
-Dialogue: 100,0:17:39.38,0:17:41.07,Dialogue,,0,0,0,,iar situația mamei mele \Nnu m-a ajutat deloc.
-Dialogue: 100,0:17:41.46,0:17:45.52,Dialogue,,0,0,0,,Au spus că sunt o rușine și, oricum, nu mă integram,
-Dialogue: 100,0:17:45.52,0:17:47.55,Dialogue,,0,0,0,,deci am ajuns să fug din pădure.
-Dialogue: 100,0:17:48.52,0:17:51.09,Dialogue,,0,0,0,,Desigur, nici lumea din \Nafară nu era un paradis.
-Dialogue: 100,0:17:52.17,0:17:55.43,Dialogue,,0,0,0,,Dar, din fericire pentru mine, \Nputeam folosi cuțitul, arcul și săgețile.
-Dialogue: 100,0:17:55.74,0:17:57.81,Dialogue,,0,0,0,,Și, mai mult decât atât, \Nputeam vedea zânele.
-Dialogue: 100,0:17:57.81,0:18:00.58,Dialogue,,0,0,0,,Când dădeam peste inamici care voiau să mă mănânce,
-Dialogue: 100,0:18:00.58,0:18:03.08,Dialogue,,0,0,0,,aveam puterea necesară ca să-i elimin.
-Dialogue: 100,0:18:03.71,0:18:08.19,Dialogue,,0,0,0,,Dacă nu aș fi avut-o, probabil acum îmi {\i1}vindeam{\i0} corpul prin vreo alee întunecată.
-Dialogue: 100,0:18:08.19,0:18:10.33,Dialogue,,0,0,0,,Chiar ai o față drăguță.
-Dialogue: 100,0:18:10.33,0:18:10.90,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:18:10.90,0:18:13.56,Dialogue,,0,0,0,,Oh, nimic... \NContinuă, te rog.
-Dialogue: 100,0:18:13.94,0:18:16.62,Dialogue,,0,0,0,,Oricum, am devenit aventurier
-Dialogue: 100,0:18:16.62,0:18:20.04,Dialogue,,0,0,0,,și am ajuns până în Semnul Sudului, unde încă erau multe ruine vechi...
-Dialogue: 100,0:18:20.56,0:18:22.85,Dialogue,,0,0,0,,Dar un membru din \Ngrupul meu m-a trădat
-Dialogue: 100,0:18:23.29,0:18:25.60,Dialogue,,0,0,0,,de la o ceartă pe \Nprada găsită în ruine.
-Dialogue: 100,0:18:27.51,0:18:30.02,Dialogue,,0,0,0,,Mi-a otrăvit mâncarea și aproape murisem de la asta.
-Dialogue: 100,0:18:30.32,0:18:32.55,Dialogue,,0,0,0,,Dar l-am ucis cu mâinile mele,
-Dialogue: 100,0:18:32.93,0:18:35.38,Dialogue,,0,0,0,,însă toți, cu excepția mea, au murit.
-Dialogue: 100,0:18:35.74,0:18:38.17,Dialogue,,0,0,0,,Nu știam încotro mă îndrept.
-Dialogue: 100,0:18:38.17,0:18:40.26,Dialogue,,0,0,0,,Dar am leșinat în \Napropierea acestui sat.
-Dialogue: 100,0:18:46.07,0:18:48.74,Dialogue,,0,0,0,,Marple m-a găsit și \Nm-a primit în casa ei.
-Dialogue: 100,0:18:49.17,0:18:51.47,Dialogue,,0,0,0,,Pe atunci, nu era atât de bătrână,
-Dialogue: 100,0:18:52.22,0:18:54.43,Dialogue,,0,0,0,,dar era o femeie foarte ciudată.
-Dialogue: 100,0:18:55.34,0:18:59.10,Dialogue,,0,0,0,,A lăsat un copil antisocial, pe care l-a găsit în pădure, să-i folosească patul,
-Dialogue: 100,0:18:59.10,0:19:01.03,Dialogue,,0,0,0,,i-a dat de mâncare
-Dialogue: 100,0:19:01.47,0:19:05.07,Dialogue,,0,0,0,,și chiar i-a făcut morală despre faptul că ar trebui să ducă o viață decentă.
-Dialogue: 100,0:19:05.51,0:19:09.47,Dialogue,,0,0,0,,Mulți oameni au ajuns în acel sat după ce au fost găsiți de ea.
-Dialogue: 100,0:19:09.97,0:19:11.68,Dialogue,,0,0,0,,Cum era ea, mai exact?
-Dialogue: 100,0:19:11.68,0:19:14.08,Dialogue,,0,0,0,,Nu am nicio idee.
-Dialogue: 100,0:19:14.47,0:19:17.89,Dialogue,,0,0,0,,Desigur, a murit acum, \Ndeci nu vom știi niciodată.
-Dialogue: 100,0:19:18.63,0:19:20.83,Dialogue,,0,0,0,,Asta se întâmplă destul \Nde des pe acest continent.
-Dialogue: 100,0:19:22.14,0:19:24.91,Dialogue,,0,0,0,,M-a primit în casa ei \Nși a avut grijă de mine.
-Dialogue: 100,0:19:24.91,0:19:27.42,Dialogue,,0,0,0,,Pe atunci am început să \Nmă prefac că sunt vânător.
-Dialogue: 100,0:19:27.91,0:19:31.02,Dialogue,,0,0,0,,Există multe creaturi oribile și bestii demonice în această zonă.
-Dialogue: 100,0:19:31.44,0:19:34.85,Dialogue,,0,0,0,,Eram cât de cât folositor, \Naveam un loc unde să aparțin...
-Dialogue: 100,0:19:35.68,0:19:38.28,Dialogue,,0,0,0,,și am pierdut totul cât ai zice pește.
-Dialogue: 100,0:19:38.87,0:19:43.08,Dialogue,,0,0,0,,I-am adunat pe toți supraviețuitorii ca să devenim noi cei care furau,
-Dialogue: 100,0:19:43.08,0:19:45.50,Dialogue,,0,0,0,,dar, mulțumită ție, \Nam eșuat lamentabil.
-Dialogue: 100,0:19:46.55,0:19:50.34,Dialogue,,0,0,0,,E nașpa să trăiești o viață mai lungă decât ceilalți, într-un astfel de loc.
-Dialogue: 100,0:19:51.20,0:19:52.59,Dialogue,,0,0,0,,E atât de nașpa încât...
-Dialogue: 100,0:19:53.45,0:19:55.17,Dialogue,,0,0,0,,uneori, îmi doresc să mor.
-Dialogue: 100,0:20:02.42,0:20:03.30,Dialogue,,0,0,0,,În regulă.
-Dialogue: 100,0:20:03.30,0:20:06.19,Dialogue,,0,0,0,,Trebuie să-mi revin și \Nsă mă pun pe picioare.
-Dialogue: 100,0:20:06.19,0:20:06.94,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:20:06.94,0:20:09.40,Dialogue,,0,0,0,,Ce? Gata cu fețele \Ncaraghioase pe care le făceai?
-Dialogue: 100,0:20:09.40,0:20:11.74,Dialogue,,0,0,0,,Ce... stai... Ce?!
-Dialogue: 100,0:20:11.74,0:20:16.17,Dialogue,,0,0,0,,E o diferență mare între latura ta normală și cea de preot, nu?
-Dialogue: 100,0:20:16.17,0:20:17.75,Dialogue,,0,0,0,,C-Ce?!
-Dialogue: 100,0:20:18.71,0:20:22.24,Dialogue,,0,0,0,,Will... Preot al Zeiței Luminii...
-Dialogue: 100,0:20:22.60,0:20:24.08,Dialogue,,0,0,0,,Îți sunt recunoscător.
-Dialogue: 100,0:20:24.49,0:20:27.33,Dialogue,,0,0,0,,M-ai oprit din a face ceva iremediabil
-Dialogue: 100,0:20:27.81,0:20:29.99,Dialogue,,0,0,0,,și i-ai salvat pe oamenii satului meu.
-Dialogue: 100,0:20:31.54,0:20:32.51,Dialogue,,0,0,0,,Deci...
-Dialogue: 100,0:20:32.86,0:20:36.70,Dialogue,,0,0,0,,Vreau să primesc protecția divină a Zeiței Luminii prin intermediul tău.
-Dialogue: 100,0:20:40.93,0:20:42.87,Dialogue,,0,0,0,,Ești de acord?
-Dialogue: 100,0:20:43.66,0:20:45.58,Dialogue,,0,0,0,,Voi fi mediul tău
-Dialogue: 100,0:20:45.58,0:20:48.00,Dialogue,,0,0,0,,ca să stabilești o legătură cu zeița mea.
-Dialogue: 100,0:20:48.64,0:20:50.47,Dialogue,,0,0,0,,Mă voi ruga pentru tine.
-Dialogue: 100,0:20:50.94,0:20:53.72,Dialogue,,0,0,0,,Fie ca Zeița Luminii, Gracefeel,
-Dialogue: 100,0:20:53.72,0:20:56.78,Dialogue,,0,0,0,,să te iubească, \Nsă-ți lumineze calea
-Dialogue: 100,0:20:56.78,0:20:59.31,Dialogue,,0,0,0,,și să meargă alături de \Ntine în călătoriile tale.
-Dialogue: 100,0:20:59.31,0:21:01.51,Dialogue,,0,0,0,,Jur zeiței mele protectoare
-Dialogue: 100,0:21:01.51,0:21:05.07,Dialogue,,0,0,0,,că-mi voi ispăși păcatele și-mi voi trăi viața privind înainte.
-Dialogue: 100,0:21:05.71,0:21:09.77,Dialogue,,0,0,0,,Te rog să-mi luminezi mereu calea.
-Dialogue: 100,0:21:13.34,0:21:17.15,Dialogue,,0,0,0,,Mă vor aștepta multe momente grele în viitor și s-ar putea să-mi doresc să mor din când în când,
-Dialogue: 100,0:21:17.15,0:21:19.04,Dialogue,,0,0,0,,dar nu mă voi da bătut.
-Dialogue: 100,0:21:19.37,0:21:23.05,Dialogue,,0,0,0,,Mă voi ridica și voi privi înainte, \Nexact cum a spus acea femeie bătrână.
-Dialogue: 100,0:21:23.32,0:21:26.19,Dialogue,,0,0,0,,Menel... Ești puternic.
-Dialogue: 100,0:21:26.19,0:21:28.44,Dialogue,,0,0,0,,E incredibil. Admir asta la tine.
-Dialogue: 100,0:21:28.44,0:21:30.61,Dialogue,,0,0,0,,Hei, nu spune chestii ciudate.
-Dialogue: 100,0:21:30.61,0:21:32.48,Dialogue,,0,0,0,,Tu ești cel puternic.
-Dialogue: 100,0:21:32.48,0:21:34.31,Dialogue,,0,0,0,,De unde naiba ai \Natât de multă putere?
-Dialogue: 100,0:21:34.31,0:21:37.74,Dialogue,,0,0,0,,E-Ei bine... Nu sunt \Nchiar atât de puternic.
-Dialogue: 100,0:21:37.74,0:21:40.00,Dialogue,,0,0,0,,Am avut doar niște \Nprofesori uimitori.
-Dialogue: 100,0:21:40.00,0:21:42.44,Dialogue,,0,0,0,,Păi, nu voi mai insista.
-Dialogue: 100,0:21:42.44,0:21:44.82,Dialogue,,0,0,0,,Oricum, ești gata să ne întoarcem?
-Dialogue: 100,0:21:44.82,0:21:45.62,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:21:51.57,0:21:53.81,Dialogue,,0,0,0,,{\i1}Blood, Mary...
-Dialogue: 100,0:21:54.30,0:21:57.19,Dialogue,,0,0,0,,{\i1}Păi, știți... E posibil...
-Dialogue: 100,0:21:57.78,0:22:03.49,Dialogue,,0,0,0,,{\i1}Să fi găsit prima persoană \Npe care s-o numesc prieten.
+Dialogue: 99,0:00:03.61,0:00:04.59,Dialogue,,0,0,0,,Pe aici.
+Dialogue: 99,0:00:05.35,0:00:06.84,Dialogue,,0,0,0,,Putem trece pe aici?
+Dialogue: 99,0:00:15.11,0:00:16.98,Dialogue,,0,0,0,,Vom campa aici astă-seară.
+Dialogue: 99,0:00:17.64,0:00:20.12,Dialogue,,0,0,0,,Zâne ale naturii, oferiți-mi \Nadapost pentru noapte:
+Dialogue: 99,0:00:20.12,0:00:24.09,Dialogue,,0,0,0,,un pat de iarbă, un acoperiș din copaci și un loc ferit de oaspeții nepoftiți.
+Dialogue: 99,0:00:28.75,0:00:30.03,Dialogue,,0,0,0,,Uimitor!
+Dialogue: 99,0:00:30.03,0:00:31.62,Dialogue,,0,0,0,,Nu e mare lucru.
+Dialogue: 99,0:00:41.62,0:00:44.36,Dialogue,,0,0,0,,Hei, am făcut ceva greșit?
+Dialogue: 99,0:00:44.36,0:00:46.33,Dialogue,,0,0,0,,Nu am fost crescut în cele \Nmai bune circumstanțe.
+Dialogue: 99,0:00:46.33,0:00:49.07,Dialogue,,0,0,0,,Nu prea mă înțeleg bine cu persoanele crescute în puf, așa ca tine.
+Dialogue: 99,0:00:49.07,0:00:52.56,Dialogue,,0,0,0,,Dar îmi voi plăti datoria față de tine și îmi voi face treaba.
+Dialogue: 99,0:00:52.91,0:00:55.46,Dialogue,,0,0,0,,Nu am fost crescut în {\i1}puf{\i0}.
+Dialogue: 99,0:00:56.28,0:00:58.07,Dialogue,,0,0,0,,Vom ajunge în sat în zori.
+Dialogue: 99,0:00:59.63,0:01:02.16,Dialogue,,0,0,0,,Ține minte, doar te duc acolo.
+Dialogue: 99,0:01:02.16,0:01:04.86,Dialogue,,0,0,0,,Nu te voi ajuta să lupți \Ncu demonii sau ceva.
+Dialogue: 99,0:01:04.86,0:01:07.16,Dialogue,,0,0,0,,Știu. E în regulă.
+Dialogue: 99,0:01:10.38,0:01:11.67,Dialogue,,0,0,0,,Nu ar trebui să stea cineva de pază?
+Dialogue: 99,0:01:11.67,0:01:13.43,Dialogue,,0,0,0,,Zânele o vor face.
+Dialogue: 99,0:01:13.43,0:01:15.78,Dialogue,,0,0,0,,Dacă se va întâmpla ceva, \Nvor face zgomot ca să ne trezească.
+Dialogue: 99,0:01:17.19,0:01:19.69,Dialogue,,0,0,0,,Hei, de ce nu stăm puțin de vorbă?
+Dialogue: 99,0:01:19.69,0:01:21.26,Dialogue,,0,0,0,,Sunt obosit.
+Dialogue: 99,0:01:21.26,0:01:23.05,Dialogue,,0,0,0,,Dacă vrei să stai treaz, fă-o singur.
+Dialogue: 99,0:01:26.70,0:01:29.73,Dialogue,,0,0,0,,{\i1}Oare cât timp a trecut de când am pornit în călătoria mea?
+Dialogue: 99,0:01:29.73,0:01:34.71,Dialogue,,0,0,0,,{\i1}Asta e prima noapte pe care o petrec cu cineva de când am plecat.
+Dialogue: 99,0:03:08.45,0:03:09.71,Dialogue,,0,0,0,,Ruine?
+Dialogue: 99,0:03:09.71,0:03:11.03,Dialogue,,0,0,0,,Obișnuiau să fie.
+Dialogue: 99,0:03:11.03,0:03:14.36,Dialogue,,0,0,0,,Pietrele și celelalte lucruri sunt destul de utile la construcții.
+Dialogue: 99,0:03:15.34,0:03:16.66,Dialogue,,0,0,0,,Satul e drept înainte.
+Dialogue: 99,0:03:24.48,0:03:25.51,Dialogue,,0,0,0,,Sunt acolo.
+Dialogue: 99,0:03:25.51,0:03:26.34,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:03:26.34,0:03:28.81,Dialogue,,0,0,0,,Voi cerceta zona. Așteaptă aici.
+Dialogue: 99,0:03:35.95,0:03:36.99,Dialogue,,0,0,0,,Un ritual?
+Dialogue: 99,0:03:36.99,0:03:40.05,Dialogue,,0,0,0,,Da, la ruinele templului din sat.
+Dialogue: 99,0:03:40.67,0:03:42.20,Dialogue,,0,0,0,,Acei demoni nenorociți...
+Dialogue: 99,0:03:42.20,0:03:44.75,Dialogue,,0,0,0,,Care e structura templului și cum sunt organizați demonii?
+Dialogue: 99,0:03:47.10,0:03:48.59,Dialogue,,0,0,0,,Cam așa ceva.
+Dialogue: 99,0:03:48.92,0:03:52.29,Dialogue,,0,0,0,,Nu are acoperiș și câteva \Nziduri s-au prăbușit.
+Dialogue: 99,0:03:52.29,0:03:55.00,Dialogue,,0,0,0,,Au creat un cerc în mijlocul templului ca să-și facă ritualul.
+Dialogue: 99,0:03:55.00,0:03:56.37,Dialogue,,0,0,0,,Sunt doi comandanți.
+Dialogue: 99,0:03:56.37,0:03:59.39,Dialogue,,0,0,0,,Au capete de șopârlă. \NAm uitat cum erau numiți...
+Dialogue: 99,0:03:59.39,0:04:00.49,Dialogue,,0,0,0,,Vraskus?
+Dialogue: 99,0:04:00.49,0:04:02.64,Dialogue,,0,0,0,,Da, ceva de genul.
+Dialogue: 99,0:04:02.64,0:04:03.47,Dialogue,,0,0,0,,Altceva?
+Dialogue: 99,0:04:03.47,0:04:06.46,Dialogue,,0,0,0,,Au câțiva soldați care \Npatrulează în jurul templului.
+Dialogue: 99,0:04:06.46,0:04:09.11,Dialogue,,0,0,0,,Și mai știu că este cel puțin o bestie demon înăuntru.
+Dialogue: 99,0:04:09.11,0:04:10.77,Dialogue,,0,0,0,,Cum arată bestia demon?
+Dialogue: 99,0:04:10.77,0:04:14.37,Dialogue,,0,0,0,,Are cap de om, corp de leu
+Dialogue: 99,0:04:14.37,0:04:16.06,Dialogue,,0,0,0,,și aripi de liliac.
+Dialogue: 99,0:04:16.06,0:04:17.44,Dialogue,,0,0,0,,O manticoră.
+Dialogue: 99,0:04:17.44,0:04:18.93,Dialogue,,0,0,0,,Știi multe despre chestiile astea, nu?
+Dialogue: 99,0:04:18.93,0:04:21.09,Dialogue,,0,0,0,,Le-am studiat o vreme.
+Dialogue: 99,0:04:21.61,0:04:22.49,Dialogue,,0,0,0,,Dar...
+Dialogue: 99,0:04:22.80,0:04:24.34,Dialogue,,0,0,0,,Mă bucur că e doar atât.
+Dialogue: 99,0:04:24.34,0:04:25.36,Dialogue,,0,0,0,,Că e doar atât?
+Dialogue: 99,0:04:25.36,0:04:27.61,Dialogue,,0,0,0,,Voi merge peste ei și-i voi elimina.
+Dialogue: 99,0:04:51.72,0:04:53.44,Dialogue,,0,0,0,,{\an8}Cadere Araneum!
+Dialogue: 99,0:05:02.22,0:05:03.05,Dialogue,,0,0,0,,{\an8}Currere!
+Dialogue: 99,0:05:03.05,0:05:03.69,Dialogue,,0,0,0,,{\an8}Oleum!
+Dialogue: 99,0:05:09.63,0:05:11.01,Dialogue,,0,0,0,,{\an8}Acceleratio!
+Dialogue: 99,0:05:13.02,0:05:14.21,Dialogue,,0,0,0,,{\an8}Vastare!
+Dialogue: 99,0:05:21.80,0:05:23.89,Dialogue,,0,0,0,,Credeam că nu intenționezi să lupți.
+Dialogue: 99,0:05:24.21,0:05:26.81,Dialogue,,0,0,0,,M-am băgat doar pentru că tu urma să ieși învingător.
+Dialogue: 99,0:05:27.23,0:05:30.38,Dialogue,,0,0,0,,Nu mulți oameni se pot pune cu chestiile alea de unii singuri și să câștige.
+Dialogue: 99,0:05:30.38,0:05:32.38,Dialogue,,0,0,0,,Condițiile erau în favoarea mea.
+Dialogue: 99,0:05:32.38,0:05:34.68,Dialogue,,0,0,0,,Oricum ar fi, puterea ta e anormal.
+Dialogue: 99,0:05:34.68,0:05:36.77,Dialogue,,0,0,0,,Ai făcut vreun antrenament special sau ceva?
+Dialogue: 99,0:05:36.77,0:05:39.78,Dialogue,,0,0,0,,Ei bine... Bănuiesc că mănânc multă pâine.
+Dialogue: 99,0:05:39.78,0:05:42.34,Dialogue,,0,0,0,,Oamenii nu devin mai puternici doar prin asta.
+Dialogue: 99,0:05:43.21,0:05:46.49,Dialogue,,0,0,0,,Păi, oricum, cred că ne-am ocupat de majoritatea inamicilor.
+Dialogue: 99,0:05:46.49,0:05:48.89,Dialogue,,0,0,0,,Bănuiesc că tot ce a mai rămas e să-i eliminăm pe demonii rămași.
+Dialogue: 99,0:05:49.84,0:05:51.77,Dialogue,,0,0,0,,Sper că au reușit să \Nsupraviețuiască câțiva săteni.
+Dialogue: 99,0:05:52.04,0:05:52.80,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:05:53.58,0:05:55.06,Dialogue,,0,0,0,,Oh, așteaptă o secundă.
+Dialogue: 99,0:06:24.89,0:06:26.96,Dialogue,,0,0,0,,Fră... țioare...
+Dialogue: 99,0:06:33.22,0:06:35.87,Dialogue,,0,0,0,,Frățioare Menel...
+Dialogue: 99,0:06:37.23,0:06:41.05,Dialogue,,0,0,0,,Demonii... au atacat satul.
+Dialogue: 99,0:06:41.53,0:06:43.34,Dialogue,,0,0,0,,Ardea foarte rău...
+Dialogue: 99,0:06:43.34,0:06:46.51,Dialogue,,0,0,0,,Dar am fost puternic și \Nnu am scos niciun sunet.
+Dialogue: 99,0:06:46.51,0:06:50.48,Dialogue,,0,0,0,,Deoarece... am avut încredere...
+Dialogue: 99,0:06:51.28,0:06:53.06,Dialogue,,0,0,0,,că vei veni...
+Dialogue: 99,0:06:54.79,0:06:57.45,Dialogue,,0,0,0,,Și chiar ai făcut-o.
+Dialogue: 99,0:06:58.19,0:06:59.67,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:07:04.73,0:07:07.50,Dialogue,,0,0,0,,Ce... De ce?
+Dialogue: 99,0:07:09.79,0:07:12.21,Dialogue,,0,0,0,,Ce? Eu...
+Dialogue: 99,0:07:13.12,0:07:14.22,Dialogue,,0,0,0,,H-Hei!
+Dialogue: 99,0:07:14.22,0:07:16.14,Dialogue,,0,0,0,,Te-ai descurcat foarte bine.
+Dialogue: 99,0:07:16.14,0:07:17.50,Dialogue,,0,0,0,,Ai făcut o treabă bună.
+Dialogue: 99,0:07:17.78,0:07:20.01,Dialogue,,0,0,0,,Cine ești tu?
+Dialogue: 99,0:07:20.48,0:07:22.97,Dialogue,,0,0,0,,Eu sunt unul din prietenii lui Menel.
+Dialogue: 99,0:07:22.97,0:07:24.07,Dialogue,,0,0,0,,Îmi pare rău.
+Dialogue: 99,0:07:24.07,0:07:27.23,Dialogue,,0,0,0,,Nu-și prea poate ține \Nechilibrul deoarece e obosit.
+Dialogue: 99,0:07:27.93,0:07:29.12,Dialogue,,0,0,0,,Oh, înțeleg.
+Dialogue: 99,0:07:29.12,0:07:30.91,Dialogue,,0,0,0,,Așa. Bun băiat.
+Dialogue: 99,0:07:30.91,0:07:31.72,Dialogue,,0,0,0,,Haide...
+Dialogue: 99,0:07:32.52,0:07:33.39,Dialogue,,0,0,0,,Menel.
+Dialogue: 99,0:07:37.56,0:07:40.55,Dialogue,,0,0,0,,Îmi pare rău că am întârziat.
+Dialogue: 99,0:07:41.07,0:07:43.10,Dialogue,,0,0,0,,Nu, e în regulă.
+Dialogue: 99,0:07:43.49,0:07:46.35,Dialogue,,0,0,0,,Sunt sigur că ești obosit. \NAr fi bine să dormi.
+Dialogue: 99,0:07:46.35,0:07:48.68,Dialogue,,0,0,0,,Așa... este.
+Dialogue: 99,0:07:49.21,0:07:52.23,Dialogue,,0,0,0,,Simt... cum mi se închid ochii...
+Dialogue: 99,0:07:53.18,0:07:54.87,Dialogue,,0,0,0,,Vise frumoase.
+Dialogue: 99,0:07:55.07,0:07:55.82,Dialogue,,0,0,0,,Mersi.
+Dialogue: 99,0:07:58.91,0:08:01.11,Dialogue,,0,0,0,,Gracefeel, Zeiță a Luminii,
+Dialogue: 99,0:08:01.58,0:08:03.27,Dialogue,,0,0,0,,oferă-i acestui suflet \Npacea și îndrumarea ta.
+Dialogue: 99,0:08:11.91,0:08:12.73,Dialogue,,0,0,0,,Hei...
+Dialogue: 99,0:08:12.73,0:08:13.63,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:08:14.79,0:08:16.02,Dialogue,,0,0,0,,Scuze?
+Dialogue: 99,0:08:16.29,0:08:17.41,Dialogue,,0,0,0,,Pentru?
+Dialogue: 99,0:08:17.91,0:08:19.90,Dialogue,,0,0,0,,Faptul că nu te-am luat în serios.
+Dialogue: 99,0:08:20.49,0:08:22.82,Dialogue,,0,0,0,,Credeam că ești un băiețel \Nbogat, cu bani și mușchi,
+Dialogue: 99,0:08:22.82,0:08:25.16,Dialogue,,0,0,0,,care a avut noroc să obțină protecția unui zeu și a devenit arogant,
+Dialogue: 99,0:08:25.59,0:08:27.76,Dialogue,,0,0,0,,spunând doar lucruri banale și inutile.
+Dialogue: 99,0:08:29.15,0:08:31.77,Dialogue,,0,0,0,,Deci... îmi pare rău.
+Dialogue: 99,0:08:32.28,0:08:34.02,Dialogue,,0,0,0,,E în regulă.
+Dialogue: 99,0:08:35.38,0:08:38.18,Dialogue,,0,0,0,,{\i1}Încă mai avea o privire îndurerată,
+Dialogue: 99,0:08:38.18,0:08:41.20,Dialogue,,0,0,0,,{\i1}dar Menel a reușit să zâmbească puțin.
+Dialogue: 99,0:08:41.78,0:08:44.52,Dialogue,,0,0,0,,{\i1}Nu a mai ezitat apoi.
+Dialogue: 99,0:08:44.78,0:08:46.73,Dialogue,,0,0,0,,{\i1}I-a ținut de mână pe morții vii
+Dialogue: 99,0:08:47.04,0:08:49.05,Dialogue,,0,0,0,,{\i1}și și-a luat rămas bun de la ei.
+Dialogue: 99,0:09:00.56,0:09:03.43,Dialogue,,0,0,0,,Cred că am verificat \Ntoate locațiile mari.
+Dialogue: 99,0:09:03.43,0:09:05.35,Dialogue,,0,0,0,,Nu simt niciun demon.
+Dialogue: 99,0:09:06.06,0:09:07.22,Dialogue,,0,0,0,,Mai e un loc...
+Dialogue: 99,0:09:17.98,0:09:20.21,Dialogue,,0,0,0,,Hei, bătrână Marple! Ești acasă?
+Dialogue: 99,0:09:21.21,0:09:22.34,Dialogue,,0,0,0,,Oh?
+Dialogue: 99,0:09:22.80,0:09:25.98,Dialogue,,0,0,0,,Această voce... Dacă nu e chiar Menel!
+Dialogue: 99,0:09:26.46,0:09:29.62,Dialogue,,0,0,0,,Fantoma asta pare să fie destul de aproape de cel mai înalt rang!
+Dialogue: 99,0:09:30.99,0:09:33.20,Dialogue,,0,0,0,,{\i1}Sufletului ei trebuie să fie destul de puternic.
+Dialogue: 99,0:09:33.20,0:09:37.06,Dialogue,,0,0,0,,{\i1}Dacă se va opune, s-ar putea ca puterea mea să nu fie de ajuns...
+Dialogue: 99,0:09:39.63,0:09:43.26,Dialogue,,0,0,0,,{\i1}Dacă se va ajunge la asta, va trebui să folosesc o armă magică care să funcționeze pe spirite.
+Dialogue: 99,0:09:44.41,0:09:47.64,Dialogue,,0,0,0,,Nu trebuie să-ți faci atâtea griji, tinere.
+Dialogue: 99,0:09:48.51,0:09:51.61,Dialogue,,0,0,0,,Nu mi-am pierdut mințile încă.
+Dialogue: 99,0:09:51.61,0:09:54.36,Dialogue,,0,0,0,,Serios? Păi, mă bucur să aud asta.
+Dialogue: 99,0:09:54.36,0:09:58.52,Dialogue,,0,0,0,,Se pare că ai rămas în această lume din cauza unui atașament,
+Dialogue: 99,0:09:58.52,0:10:02.37,Dialogue,,0,0,0,,dar acest băiat e un \Nadevărat preot bun.
+Dialogue: 99,0:10:03.12,0:10:06.38,Dialogue,,0,0,0,,Întoarcerea sufletelor pierdute, \Ncum ești tu acum, în ciclul morții și renașterii
+Dialogue: 99,0:10:06.38,0:10:09.14,Dialogue,,0,0,0,,și tratarea oamenilor răniți \Nsunt punctele sale forte.
+Dialogue: 99,0:10:09.14,0:10:09.95,Dialogue,,0,0,0,,Serios?
+Dialogue: 99,0:10:09.95,0:10:12.60,Dialogue,,0,0,0,,Ne vom ocupa noi de sat.
+Dialogue: 99,0:10:12.60,0:10:14.49,Dialogue,,0,0,0,,Deci te poți duce pe lumea cealaltă.
+Dialogue: 99,0:10:16.95,0:10:20.31,Dialogue,,0,0,0,,Sau vrei să mai transmiți cuiva ceva?
+Dialogue: 99,0:10:20.31,0:10:21.93,Dialogue,,0,0,0,,Dacă da, o voi face eu în locul...
+Dialogue: 99,0:10:21.93,0:10:22.80,Dialogue,,0,0,0,,Menel!
+Dialogue: 99,0:10:22.80,0:10:24.47,Dialogue,,0,0,0,,Iar nu ai fost cuminte!
+Dialogue: 99,0:10:24.47,0:10:26.30,Dialogue,,0,0,0,,Nu, nu e adevărat...
+Dialogue: 99,0:10:26.30,0:10:27.99,Dialogue,,0,0,0,,Oricum, ce te face să spui asta?
+Dialogue: 99,0:10:27.99,0:10:29.88,Dialogue,,0,0,0,,Poate chiar ți-ai pierdut mințile?
+Dialogue: 99,0:10:29.88,0:10:31.88,Dialogue,,0,0,0,,Te citesc ca pe o carte deschisă!
+Dialogue: 99,0:10:32.46,0:10:33.84,Dialogue,,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:10:33.84,0:10:35.55,Dialogue,,0,0,0,,E evident că minți!
+Dialogue: 99,0:10:35.55,0:10:37.52,Dialogue,,0,0,0,,Mereu îmi dau seama când o faci!
+Dialogue: 99,0:10:38.54,0:10:42.28,Dialogue,,0,0,0,,Ești arogant, dar, \Nînăuntrul tău, ești corect și precis.
+Dialogue: 99,0:10:43.33,0:10:48.09,Dialogue,,0,0,0,,Furtul și omorâtul nu sunt pentru tine.
+Dialogue: 99,0:10:48.09,0:10:49.45,Dialogue,,0,0,0,,Înțelegi acum?
+Dialogue: 99,0:10:49.45,0:10:50.22,Dialogue,,0,0,0,,Mai taci.
+Dialogue: 99,0:10:50.22,0:10:51.13,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:10:51.13,0:10:54.10,Dialogue,,0,0,0,,Mai taci! Ce te face \Nsă crezi că știi totul?!
+Dialogue: 99,0:10:55.63,0:10:58.51,Dialogue,,0,0,0,,Atunci, ce trebuia să fac?!
+Dialogue: 99,0:10:59.00,0:11:01.81,Dialogue,,0,0,0,,Tu ai dat colțul, \Nceilalți mureau de foame...
+Dialogue: 99,0:11:01.81,0:11:03.64,Dialogue,,0,0,0,,Ce altceva aș fi putut face?!
+Dialogue: 99,0:11:03.64,0:11:06.13,Dialogue,,0,0,0,,Crezi că ar fi trebuit să \Nmă rog zeilor sau ceva?!
+Dialogue: 99,0:11:06.73,0:11:10.90,Dialogue,,0,0,0,,Zeii... Zeii nu m-au ajutat niciodată!
+Dialogue: 99,0:11:15.82,0:11:18.60,Dialogue,,0,0,0,,La naiba! La naiba! La naiba!
+Dialogue: 99,0:11:18.60,0:11:20.09,Dialogue,,0,0,0,,La naiba! La naiba!
+Dialogue: 99,0:11:28.54,0:11:29.41,Dialogue,,0,0,0,,La naiba cu tot...
+Dialogue: 99,0:11:30.16,0:11:31.50,Dialogue,,0,0,0,,M-am săturat!
+Dialogue: 99,0:11:32.26,0:11:34.51,Dialogue,,0,0,0,,Vreau să mor alături de tine!
+Dialogue: 99,0:11:36.51,0:11:40.59,Dialogue,,0,0,0,,Viața unui semi-elf e mult \Nprea lungă pentru mine.
+Dialogue: 99,0:11:42.79,0:11:46.35,Dialogue,,0,0,0,,{\i1}Cei care au sânge de elf \Ntrăiesc pentru sute de ani.
+Dialogue: 99,0:11:46.79,0:11:51.27,Dialogue,,0,0,0,,{\i1}Chiar și după ce-și pierd \Npersoanele și locurile dragi,
+Dialogue: 99,0:11:52.03,0:11:53.23,Dialogue,,0,0,0,,{\i1}viața lor continuă.
+Dialogue: 99,0:11:54.31,0:11:55.86,Dialogue,,0,0,0,,Ascultă-mă, Menel.
+Dialogue: 99,0:11:56.30,0:11:57.70,Dialogue,,0,0,0,,Meneldor!
+Dialogue: 99,0:11:58.43,0:12:02.19,Dialogue,,0,0,0,,În ciuda a tot, \Nzeii ți-au oferit o a doua șansă.
+Dialogue: 99,0:12:02.44,0:12:04.06,Dialogue,,0,0,0,,Asta e {\i1}ultima{\i0} ta șansă.
+Dialogue: 99,0:12:04.06,0:12:06.74,Dialogue,,0,0,0,,Renunță la această viață \Nde vagabond inutil.
+Dialogue: 99,0:12:07.32,0:12:09.82,Dialogue,,0,0,0,,Poate că tu îi urăști pe zei,
+Dialogue: 99,0:12:09.82,0:12:13.49,Dialogue,,0,0,0,,dar ei te vor iubi mereu.
+Dialogue: 99,0:12:13.49,0:12:15.44,Dialogue,,0,0,0,,Chiar dacă tu nu reușești să observi asta,
+Dialogue: 99,0:12:15.79,0:12:17.45,Dialogue,,0,0,0,,ei îți vor lumina mereu calea
+Dialogue: 99,0:12:17.45,0:12:19.61,Dialogue,,0,0,0,,și nu se vor sătura niciodată de tine.
+Dialogue: 99,0:12:20.44,0:12:24.82,Dialogue,,0,0,0,,Deci tot ce trebuie să faci e să-ți dai seama că lumina lor este acolo.
+Dialogue: 99,0:12:28.96,0:12:31.69,Dialogue,,0,0,0,,Și acum, preotule, \Ndacă nu te deranjează...
+Dialogue: 99,0:12:31.69,0:12:32.68,Dialogue,,0,0,0,,Da?
+Dialogue: 99,0:12:32.68,0:12:35.84,Dialogue,,0,0,0,,Ai dori să ai grijă de \Nacest băiețel nătâng?
+Dialogue: 99,0:12:35.84,0:12:38.60,Dialogue,,0,0,0,,Nu are o inimă rea.
+Dialogue: 99,0:12:38.60,0:12:42.36,Dialogue,,0,0,0,,Deci... te rog să fii \Ndrăguț cu el, bine?
+Dialogue: 99,0:12:44.34,0:12:45.31,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:12:45.70,0:12:49.75,Dialogue,,0,0,0,,Și legat de demoni și bestiile demonice care au atacat acest sat...
+Dialogue: 99,0:12:49.75,0:12:52.33,Dialogue,,0,0,0,,Sunt destul de sigură că nu erau pe aici din întâmplare.
+Dialogue: 99,0:12:52.33,0:12:55.28,Dialogue,,0,0,0,,Fortăreața unde se află \Nliderul lor e adânc în pădure,
+Dialogue: 99,0:12:55.28,0:12:59.17,Dialogue,,0,0,0,,iar acesta își trimite \Nminionii săi demoni peste tot.
+Dialogue: 99,0:12:59.50,0:13:01.85,Dialogue,,0,0,0,,Aceștia comandă niște bestii demonice și atacă oameni...
+Dialogue: 99,0:13:01.85,0:13:06.10,Dialogue,,0,0,0,,Se pare că-și îndreaptă toate eforturile spre ceva cu adevărat sinistru.
+Dialogue: 99,0:13:06.51,0:13:09.77,Dialogue,,0,0,0,,Mă scuzați, dar atașamentul dumneavoastră e cumva...
+Dialogue: 99,0:13:09.77,0:13:13.38,Dialogue,,0,0,0,,Ei bine, nu puteam să mor fără să mă asigur că aceste lucruri nu sunt știute și de o altă persoană!
+Dialogue: 99,0:13:14.47,0:13:18.47,Dialogue,,0,0,0,,Oricum, apreciez oferta, \Ndar nu am nevoie de îndrumarea ta.
+Dialogue: 99,0:13:19.36,0:13:22.19,Dialogue,,0,0,0,,Vezi tu, mă așteaptă deja \Ncineva pe partea cealaltă.
+Dialogue: 99,0:13:22.50,0:13:25.06,Dialogue,,0,0,0,,{\i1}Oh... Are pe cineva.
+Dialogue: 99,0:13:25.24,0:13:27.86,Dialogue,,0,0,0,,Deci voi pleca acum.
+Dialogue: 99,0:13:29.72,0:13:32.87,Dialogue,,0,0,0,,Menel, ai grijă de tine.
+Dialogue: 99,0:13:33.24,0:13:37.62,Dialogue,,0,0,0,,În această lume au loc multe lucruri care nu mai pot fi schimbate apoi.
+Dialogue: 99,0:13:38.12,0:13:42.07,Dialogue,,0,0,0,,Deci, ridică-te și mergi înainte. \NSunt lucruri pe care trebuie să le faci.
+Dialogue: 99,0:13:42.87,0:13:47.09,Dialogue,,0,0,0,,La naiba, femeie bătrână, \Nești mult prea egoistă!
+Dialogue: 99,0:13:48.30,0:13:50.00,Dialogue,,0,0,0,,Păi, așa ești și tu.
+Dialogue: 99,0:13:51.18,0:13:54.68,Dialogue,,0,0,0,,Doamne, ce ne vom face cu tine?
+Dialogue: 99,0:14:01.76,0:14:04.98,Dialogue,,0,0,0,,Ei bine, voi lăsa restul în mâinile tale.
+Dialogue: 99,0:14:06.17,0:14:08.50,Dialogue,,0,0,0,,Desigur. Puteți conta pe mine.
+Dialogue: 99,0:14:19.65,0:14:21.77,Dialogue,,0,0,0,,{\i1}Starea actuală a acestei \Nlumi este una întunecată.
+Dialogue: 99,0:14:21.77,0:14:25.83,Dialogue,,0,0,0,,{\i1}Cel puțin aici, în această zonă cunoscută ca Padurea Bestiilor,
+Dialogue: 99,0:14:25.83,0:14:30.43,Dialogue,,0,0,0,,{\i1}unde demonii și bestiile \Ndemonice pot face ce doresc.
+Dialogue: 99,0:14:30.43,0:14:32.63,Dialogue,,0,0,0,,{\i1}Acest loc nu are legi,
+Dialogue: 99,0:14:32.63,0:14:36.23,Dialogue,,0,0,0,,{\i1}deci, chiar și între oameni, \Nfurturile sunt la tot pasul.
+Dialogue: 99,0:14:36.23,0:14:39.68,Dialogue,,0,0,0,,{\i1}Desigur, ca o persoană din afară, \Ncare doar trece pe aici,
+Dialogue: 99,0:14:39.68,0:14:41.23,Dialogue,,0,0,0,,{\i1}nu sunt obligat să fac nimic.
+Dialogue: 99,0:14:41.61,0:14:43.50,Dialogue,,0,0,0,,{\i1}Aș putea doar să-mi văd de drum.
+Dialogue: 99,0:14:44.69,0:14:45.48,Dialogue,,0,0,0,,{\i1}Dar...
+Dialogue: 99,0:14:48.19,0:14:51.80,Dialogue,,0,0,0,,Mă voi ruga ca în călătoria ta
+Dialogue: 99,0:14:51.80,0:14:55.18,Dialogue,,0,0,0,,să aduci lumină în întunericul îndepărtat.
+Dialogue: 99,0:15:05.99,0:15:09.13,Dialogue,,0,0,0,,{\i1}Câteva zile mai târziu, \Nsătenii s-au întors.
+Dialogue: 99,0:15:09.42,0:15:13.14,Dialogue,,0,0,0,,{\i1}Deși au fost șocați să vadă \Nîn ce stare se afla satul lor,
+Dialogue: 99,0:15:13.14,0:15:16.07,Dialogue,,0,0,0,,{\i1}au luat, în cele din urmă, \Nuneltele agricole rămase
+Dialogue: 99,0:15:16.07,0:15:18.65,Dialogue,,0,0,0,,{\i1}și au început să sape gropi ca să-i îngroape pe cei morți,
+Dialogue: 99,0:15:18.65,0:15:20.34,Dialogue,,0,0,0,,{\i1}conducându-i împreună \Npe ultimul lor drum.
+Dialogue: 99,0:15:24.02,0:15:25.02,Dialogue,,0,0,0,,Deci...
+Dialogue: 99,0:15:25.02,0:15:26.99,Dialogue,,0,0,0,,Ce veți face acum?
+Dialogue: 99,0:15:28.16,0:15:30.28,Dialogue,,0,0,0,,Ei bine, privește asta.
+Dialogue: 99,0:15:37.67,0:15:40.21,Dialogue,,0,0,0,,În seara asta vom da o micuță petrecere
+Dialogue: 99,0:15:40.56,0:15:43.83,Dialogue,,0,0,0,,ca să sărbătorim întoarcerea în sat și să-i cinstim pe cei morți.
+Dialogue: 99,0:15:43.83,0:15:47.16,Dialogue,,0,0,0,,Tu ești salvatorul care ne-a ajutat să ne recuperăm satul,
+Dialogue: 99,0:15:47.16,0:15:49.04,Dialogue,,0,0,0,,deci chiar ne-am dori să ni te alături.
+Dialogue: 99,0:15:49.04,0:15:50.23,Dialogue,,0,0,0,,Aș fi bucuros s-o fac.
+Dialogue: 99,0:16:04.34,0:16:05.16,Dialogue,,0,0,0,,Menel...
+Dialogue: 99,0:16:22.89,0:16:23.77,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:16:25.54,0:16:27.53,Dialogue,,0,0,0,,E o priveliște frumoasă.
+Dialogue: 99,0:16:27.53,0:16:29.17,Dialogue,,0,0,0,,Presupun că se {\i1}vede{\i0} frumos de aici.
+Dialogue: 99,0:16:30.73,0:16:33.53,Dialogue,,0,0,0,,Acele ruine colcăie cu morți vii.
+Dialogue: 99,0:16:34.19,0:16:36.73,Dialogue,,0,0,0,,Nenumărați aventurieri au intrat în ele,
+Dialogue: 99,0:16:36.73,0:16:38.48,Dialogue,,0,0,0,,dar niciunul nu s-a mai întors.
+Dialogue: 99,0:16:39.01,0:16:40.32,Dialogue,,0,0,0,,Înțeleg.
+Dialogue: 99,0:16:40.85,0:16:42.89,Dialogue,,0,0,0,,Bun, în acest caz, \Nvoi merge mâine acolo.
+Dialogue: 99,0:16:42.89,0:16:45.26,Dialogue,,0,0,0,,Ce? Mă ascultai măcar?
+Dialogue: 99,0:16:45.26,0:16:48.15,Dialogue,,0,0,0,,Da. Colcăie cu morți vii, nu-i așa?
+Dialogue: 99,0:16:48.15,0:16:51.20,Dialogue,,0,0,0,,Dacă așa stă treaba, atunci, trebuie să merg acolo și să-i reîntorc în ciclu.
+Dialogue: 99,0:16:53.11,0:16:55.12,Dialogue,,0,0,0,,Bănuiesc că ăsta e genul \Nde persoană care ești.
+Dialogue: 99,0:16:55.43,0:16:57.97,Dialogue,,0,0,0,,Faptul că sunt în preajma \Nta mă scoate din ritm.
+Dialogue: 99,0:16:58.29,0:17:01.81,Dialogue,,0,0,0,,Credeam că sunt o \Npersoană mai rece de atât.
+Dialogue: 99,0:17:02.80,0:17:05.83,Dialogue,,0,0,0,,Puțin cam târziu să spui asta după cum boceai mai devreme.
+Dialogue: 99,0:17:05.83,0:17:06.85,Dialogue,,0,0,0,,Tu...
+Dialogue: 99,0:17:07.19,0:17:10.00,Dialogue,,0,0,0,,Chiar spui astfel de lucruri unei persoane care e deja melancolică?
+Dialogue: 99,0:17:10.31,0:17:14.01,Dialogue,,0,0,0,,Menel, ce fel de persoană era Marple?
+Dialogue: 99,0:17:14.65,0:17:17.76,Dialogue,,0,0,0,,Era o bătrână ciudată, \Ndupă cum ai văzut și tu.
+Dialogue: 99,0:17:18.19,0:17:20.14,Dialogue,,0,0,0,,M-am născut în nord, \Nîn Ținutul Ierbii,
+Dialogue: 99,0:17:20.14,0:17:24.13,Dialogue,,0,0,0,,în Măreața Pădure a \Nlui Erin, unde trăiesc elfii.
+Dialogue: 99,0:17:24.61,0:17:27.59,Dialogue,,0,0,0,,Mama mea a fost o \Nfemeie curioasă din fire.
+Dialogue: 99,0:17:27.59,0:17:29.80,Dialogue,,0,0,0,,Într-o zi, a plecat în afara pădurii
+Dialogue: 99,0:17:29.80,0:17:32.86,Dialogue,,0,0,0,,și s-a întors având în \Npântece copilul unui străin,
+Dialogue: 99,0:17:33.21,0:17:35.82,Dialogue,,0,0,0,,ca apoi să-mi dea naștere mie și să moară la scurt timp după.
+Dialogue: 99,0:17:36.43,0:17:39.38,Dialogue,,0,0,0,,{\fad(200,0)}Am crescut într-un ritm diferit față de ceilalți din jurul meu,
+Dialogue: 99,0:17:39.38,0:17:41.07,Dialogue,,0,0,0,,iar situația mamei mele \Nnu m-a ajutat deloc.
+Dialogue: 99,0:17:41.46,0:17:45.52,Dialogue,,0,0,0,,Au spus că sunt o rușine și, oricum, nu mă integram,
+Dialogue: 99,0:17:45.52,0:17:47.55,Dialogue,,0,0,0,,deci am ajuns să fug din pădure.
+Dialogue: 99,0:17:48.52,0:17:51.09,Dialogue,,0,0,0,,Desigur, nici lumea din \Nafară nu era un paradis.
+Dialogue: 99,0:17:52.17,0:17:55.43,Dialogue,,0,0,0,,Dar, din fericire pentru mine, \Nputeam folosi cuțitul, arcul și săgețile.
+Dialogue: 99,0:17:55.74,0:17:57.81,Dialogue,,0,0,0,,Și, mai mult decât atât, \Nputeam vedea zânele.
+Dialogue: 99,0:17:57.81,0:18:00.58,Dialogue,,0,0,0,,Când dădeam peste inamici care voiau să mă mănânce,
+Dialogue: 99,0:18:00.58,0:18:03.08,Dialogue,,0,0,0,,aveam puterea necesară ca să-i elimin.
+Dialogue: 99,0:18:03.71,0:18:08.19,Dialogue,,0,0,0,,Dacă nu aș fi avut-o, probabil acum îmi {\i1}vindeam{\i0} corpul prin vreo alee întunecată.
+Dialogue: 99,0:18:08.19,0:18:10.33,Dialogue,,0,0,0,,Chiar ai o față drăguță.
+Dialogue: 99,0:18:10.33,0:18:10.90,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:18:10.90,0:18:13.56,Dialogue,,0,0,0,,Oh, nimic... \NContinuă, te rog.
+Dialogue: 99,0:18:13.94,0:18:16.62,Dialogue,,0,0,0,,Oricum, am devenit aventurier
+Dialogue: 99,0:18:16.62,0:18:20.04,Dialogue,,0,0,0,,și am ajuns până în Semnul Sudului, unde încă erau multe ruine vechi...
+Dialogue: 99,0:18:20.56,0:18:22.85,Dialogue,,0,0,0,,Dar un membru din \Ngrupul meu m-a trădat
+Dialogue: 99,0:18:23.29,0:18:25.60,Dialogue,,0,0,0,,de la o ceartă pe \Nprada găsită în ruine.
+Dialogue: 99,0:18:27.51,0:18:30.02,Dialogue,,0,0,0,,Mi-a otrăvit mâncarea și aproape murisem de la asta.
+Dialogue: 99,0:18:30.32,0:18:32.55,Dialogue,,0,0,0,,Dar l-am ucis cu mâinile mele,
+Dialogue: 99,0:18:32.93,0:18:35.38,Dialogue,,0,0,0,,însă toți, cu excepția mea, au murit.
+Dialogue: 99,0:18:35.74,0:18:38.17,Dialogue,,0,0,0,,Nu știam încotro mă îndrept.
+Dialogue: 99,0:18:38.17,0:18:40.26,Dialogue,,0,0,0,,Dar am leșinat în \Napropierea acestui sat.
+Dialogue: 99,0:18:46.07,0:18:48.74,Dialogue,,0,0,0,,Marple m-a găsit și \Nm-a primit în casa ei.
+Dialogue: 99,0:18:49.17,0:18:51.47,Dialogue,,0,0,0,,Pe atunci, nu era atât de bătrână,
+Dialogue: 99,0:18:52.22,0:18:54.43,Dialogue,,0,0,0,,dar era o femeie foarte ciudată.
+Dialogue: 99,0:18:55.34,0:18:59.10,Dialogue,,0,0,0,,A lăsat un copil antisocial, pe care l-a găsit în pădure, să-i folosească patul,
+Dialogue: 99,0:18:59.10,0:19:01.03,Dialogue,,0,0,0,,i-a dat de mâncare
+Dialogue: 99,0:19:01.47,0:19:05.07,Dialogue,,0,0,0,,și chiar i-a făcut morală despre faptul că ar trebui să ducă o viață decentă.
+Dialogue: 99,0:19:05.51,0:19:09.47,Dialogue,,0,0,0,,Mulți oameni au ajuns în acel sat după ce au fost găsiți de ea.
+Dialogue: 99,0:19:09.97,0:19:11.68,Dialogue,,0,0,0,,Cum era ea, mai exact?
+Dialogue: 99,0:19:11.68,0:19:14.08,Dialogue,,0,0,0,,Nu am nicio idee.
+Dialogue: 99,0:19:14.47,0:19:17.89,Dialogue,,0,0,0,,Desigur, a murit acum, \Ndeci nu vom știi niciodată.
+Dialogue: 99,0:19:18.63,0:19:20.83,Dialogue,,0,0,0,,Asta se întâmplă destul \Nde des pe acest continent.
+Dialogue: 99,0:19:22.14,0:19:24.91,Dialogue,,0,0,0,,M-a primit în casa ei \Nși a avut grijă de mine.
+Dialogue: 99,0:19:24.91,0:19:27.42,Dialogue,,0,0,0,,Pe atunci am început să \Nmă prefac că sunt vânător.
+Dialogue: 99,0:19:27.91,0:19:31.02,Dialogue,,0,0,0,,Există multe creaturi oribile și bestii demonice în această zonă.
+Dialogue: 99,0:19:31.44,0:19:34.85,Dialogue,,0,0,0,,Eram cât de cât folositor, \Naveam un loc unde să aparțin...
+Dialogue: 99,0:19:35.68,0:19:38.28,Dialogue,,0,0,0,,și am pierdut totul cât ai zice pește.
+Dialogue: 99,0:19:38.87,0:19:43.08,Dialogue,,0,0,0,,I-am adunat pe toți supraviețuitorii ca să devenim noi cei care furau,
+Dialogue: 99,0:19:43.08,0:19:45.50,Dialogue,,0,0,0,,dar, mulțumită ție, \Nam eșuat lamentabil.
+Dialogue: 99,0:19:46.55,0:19:50.34,Dialogue,,0,0,0,,E nașpa să trăiești o viață mai lungă decât ceilalți, într-un astfel de loc.
+Dialogue: 99,0:19:51.20,0:19:52.59,Dialogue,,0,0,0,,E atât de nașpa încât...
+Dialogue: 99,0:19:53.45,0:19:55.17,Dialogue,,0,0,0,,uneori, îmi doresc să mor.
+Dialogue: 99,0:20:02.42,0:20:03.30,Dialogue,,0,0,0,,În regulă.
+Dialogue: 99,0:20:03.30,0:20:06.19,Dialogue,,0,0,0,,Trebuie să-mi revin și \Nsă mă pun pe picioare.
+Dialogue: 99,0:20:06.19,0:20:06.94,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:20:06.94,0:20:09.40,Dialogue,,0,0,0,,Ce? Gata cu fețele \Ncaraghioase pe care le făceai?
+Dialogue: 99,0:20:09.40,0:20:11.74,Dialogue,,0,0,0,,Ce... stai... Ce?!
+Dialogue: 99,0:20:11.74,0:20:16.17,Dialogue,,0,0,0,,E o diferență mare între latura ta normală și cea de preot, nu?
+Dialogue: 99,0:20:16.17,0:20:17.75,Dialogue,,0,0,0,,C-Ce?!
+Dialogue: 99,0:20:18.71,0:20:22.24,Dialogue,,0,0,0,,Will... Preot al Zeiței Luminii...
+Dialogue: 99,0:20:22.60,0:20:24.08,Dialogue,,0,0,0,,Îți sunt recunoscător.
+Dialogue: 99,0:20:24.49,0:20:27.33,Dialogue,,0,0,0,,M-ai oprit din a face ceva iremediabil
+Dialogue: 99,0:20:27.81,0:20:29.99,Dialogue,,0,0,0,,și i-ai salvat pe oamenii satului meu.
+Dialogue: 99,0:20:31.54,0:20:32.51,Dialogue,,0,0,0,,Deci...
+Dialogue: 99,0:20:32.86,0:20:36.70,Dialogue,,0,0,0,,Vreau să primesc protecția divină a Zeiței Luminii prin intermediul tău.
+Dialogue: 99,0:20:40.93,0:20:42.87,Dialogue,,0,0,0,,Ești de acord?
+Dialogue: 99,0:20:43.66,0:20:45.58,Dialogue,,0,0,0,,Voi fi mediul tău
+Dialogue: 99,0:20:45.58,0:20:48.00,Dialogue,,0,0,0,,ca să stabilești o legătură cu zeița mea.
+Dialogue: 99,0:20:48.64,0:20:50.47,Dialogue,,0,0,0,,Mă voi ruga pentru tine.
+Dialogue: 99,0:20:50.94,0:20:53.72,Dialogue,,0,0,0,,Fie ca Zeița Luminii, Gracefeel,
+Dialogue: 99,0:20:53.72,0:20:56.78,Dialogue,,0,0,0,,să te iubească, \Nsă-ți lumineze calea
+Dialogue: 99,0:20:56.78,0:20:59.31,Dialogue,,0,0,0,,și să meargă alături de \Ntine în călătoriile tale.
+Dialogue: 99,0:20:59.31,0:21:01.51,Dialogue,,0,0,0,,Jur zeiței mele protectoare
+Dialogue: 99,0:21:01.51,0:21:05.07,Dialogue,,0,0,0,,că-mi voi ispăși păcatele și-mi voi trăi viața privind înainte.
+Dialogue: 99,0:21:05.71,0:21:09.77,Dialogue,,0,0,0,,Te rog să-mi luminezi mereu calea.
+Dialogue: 99,0:21:13.34,0:21:17.15,Dialogue,,0,0,0,,Mă vor aștepta multe momente grele în viitor și s-ar putea să-mi doresc să mor din când în când,
+Dialogue: 99,0:21:17.15,0:21:19.04,Dialogue,,0,0,0,,dar nu mă voi da bătut.
+Dialogue: 99,0:21:19.37,0:21:23.05,Dialogue,,0,0,0,,Mă voi ridica și voi privi înainte, \Nexact cum a spus acea femeie bătrână.
+Dialogue: 99,0:21:23.32,0:21:26.19,Dialogue,,0,0,0,,Menel... Ești puternic.
+Dialogue: 99,0:21:26.19,0:21:28.44,Dialogue,,0,0,0,,E incredibil. Admir asta la tine.
+Dialogue: 99,0:21:28.44,0:21:30.61,Dialogue,,0,0,0,,Hei, nu spune chestii ciudate.
+Dialogue: 99,0:21:30.61,0:21:32.48,Dialogue,,0,0,0,,Tu ești cel puternic.
+Dialogue: 99,0:21:32.48,0:21:34.31,Dialogue,,0,0,0,,De unde naiba ai \Natât de multă putere?
+Dialogue: 99,0:21:34.31,0:21:37.74,Dialogue,,0,0,0,,E-Ei bine... Nu sunt \Nchiar atât de puternic.
+Dialogue: 99,0:21:37.74,0:21:40.00,Dialogue,,0,0,0,,Am avut doar niște \Nprofesori uimitori.
+Dialogue: 99,0:21:40.00,0:21:42.44,Dialogue,,0,0,0,,Păi, nu voi mai insista.
+Dialogue: 99,0:21:42.44,0:21:44.82,Dialogue,,0,0,0,,Oricum, ești gata să ne întoarcem?
+Dialogue: 99,0:21:44.82,0:21:45.62,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:21:51.57,0:21:53.81,Dialogue,,0,0,0,,{\i1}Blood, Mary...
+Dialogue: 99,0:21:54.30,0:21:57.19,Dialogue,,0,0,0,,{\i1}Păi, știți... E posibil...
+Dialogue: 99,0:21:57.78,0:22:03.49,Dialogue,,0,0,0,,{\i1}Să fi găsit prima persoană \Npe care s-o numesc prieten.
 Dialogue: 0,0:01:40.83,0:01:46.17,DedzuyaSigns,,0,0,0,,{\an8\pos(960,730)\fnLinux Libertine\fs100\bord5\yshad0.001\3c&HFFFFFF&\4c&HFFFFFF&\1a&HFE&\blur5\fad(1200,0)}Paladinul ținutului îndepărtat
 Dialogue: 1,0:01:40.83,0:01:46.17,DedzuyaSigns,,0,0,0,,{\an8\pos(960,730)\fnLinux Libertine\fs100\c&H060416&\blur5\fad(1200,0)\t(0,1200,1.2,\blur0.6)}P{\c&H08063C&}a{\c&H0A0962&}l{\c&H0C0B89&}a{\c&H0E0EAF&}d{\c&H1011D6&}i{\c&H0E0EAF&}n{\c&H0C0B89&}u{\c&H0A0962&}l {\c&H060416&}ț{\c&H08063C&}i{\c&H0A0962&}n{\c&H0C0B89&}u{\c&H0E0EAF&}t{\c&H1011D6&}u{\c&H0E0EAF&}l{\c&H0C0B89&}u{\c&H0A0962&}i {\c&H060416&}î{\c&H08063C&}n{\c&H0A0962&}d{\c&H0C0B89&}e{\c&H0E0EAF&}p{\c&H1011D6&}ă{\c&H0D0DA6&}r{\c&H0B0A76&}t{\c&H080746&}a{\c&H060416&}t
 Dialogue: 0,0:04:51.81,0:04:53.27,DedzuyaSigns,,0,0,0,,{\an2\pos(960,920)\fnNewCinemaB Std D\fs80\bord1\yshad0.001\c&H000000&\alpha&H40&\1a&HFE&\blur4}Cazi, pânză de păianjen

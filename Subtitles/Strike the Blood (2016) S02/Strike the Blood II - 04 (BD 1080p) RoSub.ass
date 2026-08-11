@@ -34,414 +34,414 @@ Comment: 0,0:03:08.96,0:03:09.00,Dialogue,chptr,0,0,0,,{OP}
 Comment: 0,0:04:39.01,0:04:39.05,Dialogue,chptr,0,0,0,,{Partea A}
 Comment: 0,0:13:00.47,0:13:00.51,Dialogue,chptr,0,0,0,,{Partea B}
 Comment: 0,0:22:38.00,0:22:38.04,Dialogue,chptr,0,0,0,,{ED}
-Dialogue: 100,0:00:01.81,0:00:03.32,Dialogue,Kojou,0,0,0,,Înțeleg...
-Dialogue: 100,0:00:03.32,0:00:06.82,Dialogue,Kojou,0,0,0,,Deci poți rămâne pe insula \NItogami fără să-ți faci griji, nu?
-Dialogue: 100,0:00:06.82,0:00:08.11,Dialogue,Kojou,0,0,0,,Asta e grozav, Yume.
-Dialogue: 100,0:00:08.24,0:00:09.53,Dialogue,Yume,0,0,0,,Da!
-Dialogue: 100,0:00:09.78,0:00:12.53,Dialogue,Yume,0,0,0,,Și mulțumită băiatului \Nnepoliticos de colo,
-Dialogue: 100,0:00:12.53,0:00:15.75,Dialogue,Yume,0,0,0,,am și pe cineva care \Nsă aibă grijă de mine.
-Dialogue: 100,0:00:15.75,0:00:16.58,Dialogue,Yaze,0,0,0,,Hei...
-Dialogue: 100,0:00:16.83,0:00:18.58,Dialogue,Yume,0,0,0,,Deci, așteaptă-mă, bine?
-Dialogue: 100,0:00:18.71,0:00:21.04,Dialogue,Kojou,0,0,0,,Ce? Pentru ce anume să te aștept?
-Dialogue: 100,0:00:22.71,0:00:25.84,Dialogue,Yume,0,0,0,,Mi-ai... promis, nu-i așa?
-Dialogue: 100,0:00:25.84,0:00:29.88,Dialogue,Yume,0,0,0,,Că mă vei face fericită \Npentru tot restul vieții...
-Dialogue: 100,0:00:29.88,0:00:32.05,Dialogue,Yume,0,0,0,,Voi da tot ce pot în orice voi face!
-Dialogue: 100,0:00:34.51,0:00:37.02,Dialogue,Kojou,0,0,0,,Stai, nu la asta mă refeream prin...
-Dialogue: 100,0:00:37.02,0:00:39.19,Dialogue,Yume,0,0,0,,Ce? Nu vorbeai serios?
-Dialogue: 100,0:00:39.19,0:00:41.77,Dialogue,Yaze,0,0,0,,Dle polițist! Avem un escroc aici!
-Dialogue: 100,0:00:41.77,0:00:43.27,Dialogue,Kojou,0,0,0,,{\an8}Hei! Yaze!
-Dialogue: 100,0:00:41.77,0:00:45.44,Dialogue,Yukina,0,0,0,,Doamne... Ce naiba face?
-Dialogue: 100,0:00:45.61,0:00:48.61,Dialogue,Nagisa,0,0,0,,Dar tu, Yukina? \NCe încerci să {\i1}faci{\i0}?
-Dialogue: 100,0:00:50.28,0:00:52.16,Dialogue,Nagisa,0,0,0,,Dacă vrei să-i spui ceva lui Kojou,
-Dialogue: 100,0:00:52.16,0:00:54.24,Dialogue,Nagisa,0,0,0,,doar mergi la el și spune-i.
-Dialogue: 100,0:00:54.99,0:00:58.75,Dialogue,Yukina,0,0,0,,Dar nu pot da buzna pur \Nși simplu în restaurant...
-Dialogue: 100,0:00:58.87,0:01:00.29,Dialogue,Nagisa,0,0,0,,De ce nu?
-Dialogue: 100,0:01:00.29,0:01:03.08,Dialogue,Nagisa,0,0,0,,Nu cred că ar trebui să-ți \Nfaci griji în legătură cu asta.
-Dialogue: 100,0:01:03.08,0:01:04.38,Dialogue,Nagisa,0,0,0,,Nu-i așa, Kanon?
-Dialogue: 100,0:01:04.92,0:01:09.84,Dialogue,Kanon,0,0,0,,Eu... pot spune că o \Nînțeleg puțin pe Yukina.
-Dialogue: 100,0:01:09.84,0:01:11.05,Dialogue,Nagisa,0,0,0,,Serios?
-Dialogue: 100,0:01:11.05,0:01:12.80,Dialogue,Nagisa,0,0,0,,Dar e în regulă.
-Dialogue: 100,0:01:12.80,0:01:15.51,Dialogue,Nagisa,0,0,0,,E destul de amuzant \Nsă te văd astfel, Yukina.
-Dialogue: 100,0:01:15.72,0:01:17.18,Dialogue,Yukina,0,0,0,,Ei bine...
-Dialogue: 100,0:01:17.18,0:01:20.77,Dialogue,Yukina,0,0,0,,Îmi cer scuze că v-am implicat în asta.
-Dialogue: 100,0:01:20.77,0:01:22.19,Dialogue,Kanon,0,0,0,,E în regulă.
-Dialogue: 100,0:01:22.19,0:01:28.74,Dialogue,Kanon,0,0,0,,Mereu mi s-a părut distractiv \Nsă-i privesc împreună astfel.
-Dialogue: 100,0:01:28.74,0:01:31.03,Dialogue,Nagisa,0,0,0,,Vai, e așa de cald.
-Dialogue: 100,0:01:31.03,0:01:33.87,Dialogue,Nagisa,0,0,0,,Voi merge să-mi iau ceva de băut.
-Dialogue: 100,0:01:33.87,0:01:35.33,Dialogue,Nagisa,0,0,0,,Vino cu mine, Kanon.
-Dialogue: 100,0:01:35.33,0:01:36.99,Dialogue,Nagisa,0,0,0,,Tu vrei ceva, Yukina?
-Dialogue: 100,0:01:36.99,0:01:40.29,Dialogue,Yukina,0,0,0,,Ei bine... Eu vreau un \Nceai verde cu gheață.
-Dialogue: 100,0:01:40.29,0:01:42.04,Dialogue,Nagisa,0,0,0,,Bine, am înțeles!
-Dialogue: 100,0:01:46.92,0:01:49.92,Dialogue,Gajou,0,0,0,,Scuză-mă, domnișoara \Nde școală generală.
-Dialogue: 100,0:01:52.13,0:01:54.26,Dialogue,Gajou,0,0,0,,Banca aceea este liberă?
-Dialogue: 100,0:01:54.26,0:01:56.64,Dialogue,Yukina,0,0,0,,Oh, da, este. \NVă puteți așeza.
-Dialogue: 100,0:01:56.76,0:01:57.93,Dialogue,Gajou,0,0,0,,Mulțumesc.
-Dialogue: 100,0:01:57.93,0:01:59.89,Dialogue,Gajou,0,0,0,,Vai, ce bine.
-Dialogue: 100,0:02:01.48,0:02:07.44,Dialogue,Gajou,0,0,0,,Deci ce treabă are o fetiță de școală generală ca tine cu Akatsuki Kojou?
-Dialogue: 100,0:02:07.52,0:02:08.40,Dialogue,Yukina,0,0,0,,Poftim?!
-Dialogue: 100,0:02:08.40,0:02:13.11,Dialogue,Gajou,0,0,0,,Ei bine, te holbai la Kojou \Nde parcă voiai să-l omori.
-Dialogue: 100,0:02:13.11,0:02:18.08,Dialogue,Gajou,0,0,0,,Mă gândeam că poate ești... \Nștii tu, geloasă sau ceva.
-Dialogue: 100,0:02:18.08,0:02:19.08,Dialogue,Gajou,0,0,0,,Am dreptate?
-Dialogue: 100,0:02:19.08,0:02:20.75,Dialogue,Yukina,0,0,0,,Nu!
-Dialogue: 100,0:02:20.75,0:02:25.58,Dialogue,Yukina,0,0,0,,D-Doar îl supraveghez! \NNu sunt geloasă deloc!
-Dialogue: 100,0:02:26.75,0:02:29.00,Dialogue,Gajou,0,0,0,,Supraveghezi... \NSupraveghezi, nu?
-Dialogue: 100,0:02:29.00,0:02:32.80,Dialogue,Gajou,0,0,0,,Așa se numește acum când îl urmărești insistent pe băiatul de care-ți place?
-Dialogue: 100,0:02:32.80,0:02:33.80,Dialogue,Yukina,0,0,0,,Poftim?!
-Dialogue: 100,0:02:33.93,0:02:36.89,Dialogue,Gajou,0,0,0,,„Supraveghezi”! Îmi place! \NCe frumos e să fii tânăr!
-Dialogue: 100,0:02:36.89,0:02:39.22,Dialogue,Gajou,0,0,0,,Vai, o iubire dulce-amară!
-Dialogue: 100,0:02:39.22,0:02:41.39,Dialogue,Yukina,0,0,0,,De ce naiba discutăm despre asta?!
-Dialogue: 100,0:02:41.39,0:02:44.10,Dialogue,Yukina,0,0,0,,Și, mai întâi, cine ești {\i1}tu{\i0}?!
-Dialogue: 100,0:02:44.69,0:02:45.81,Dialogue,Nagisa,0,0,0,,Gajou?!
-Dialogue: 100,0:02:47.23,0:02:49.11,Dialogue,Gajou,0,0,0,,Oh, hei, Nagisa.
-Dialogue: 100,0:02:49.77,0:02:51.69,Dialogue,Kojou,0,0,0,,Chiar ești tu!
-Dialogue: 100,0:02:51.69,0:02:53.61,Dialogue,Kojou,0,0,0,,Ce cauți aici, tată oribil ce ești?!
-Dialogue: 100,0:02:53.74,0:02:55.20,Dialogue,Yukina,0,0,0,,Tată?
-Dialogue: 100,0:02:55.99,0:02:58.83,Dialogue,Yukina,0,0,0,,S-Sunteți tatăl...
-Dialogue: 100,0:03:00.03,0:03:01.62,Dialogue,Yukina,0,0,0,,lui Akatsuki?!
-Dialogue: 100,0:03:03.37,0:03:07.58,Dialogue,Gajou,0,0,0,,Eu sunt tatăl lui Kojou și \NNagisa, Akatsuki Gajou.
-Dialogue: 100,0:03:07.79,0:03:08.96,Dialogue,Gajou,0,0,0,,Încântat de cunoștință.
-Dialogue: 100,0:04:39.76,0:04:42.01,Dialogue,Kojou,0,0,0,,E așa de cald...
-Dialogue: 100,0:04:42.09,0:04:45.52,Dialogue,Kojou,0,0,0,,Hei, Natsuki, astăzi... Au!
-Dialogue: 100,0:04:47.43,0:04:52.86,Dialogue,Natsuki,0,0,0,,Idiotule, nu i te adresa profesoarei tale pe prenume când e deja iritată de la căldura asta nesuferită.
-Dialogue: 100,0:04:55.32,0:04:58.65,Dialogue,Kojou,0,0,0,,Astăzi e Ajunul Anului Nou, nu?
-Dialogue: 100,0:04:58.74,0:05:00.20,Dialogue,Natsuki,0,0,0,,Da, așa este.
-Dialogue: 100,0:05:00.20,0:05:04.37,Dialogue,Kojou,0,0,0,,Atunci, de ce sunt forțat să \Nrecuperez orele chiar acum?
-Dialogue: 100,0:05:04.37,0:05:10.16,Dialogue,Natsuki,0,0,0,,Întreabă-l pe idiotul care a picat testul de refacere din cauza absențelor.
-Dialogue: 100,0:05:10.41,0:05:11.71,Dialogue,Natsuki,0,0,0,,Astarte.
-Dialogue: 100,0:05:11.71,0:05:12.92,Dialogue,Astarte,0,0,0,,Accept.
-Dialogue: 100,0:05:14.21,0:05:15.63,Dialogue,Kojou,0,0,0,,Ești cumva sarcastică?!
-Dialogue: 100,0:05:17.21,0:05:18.59,Dialogue,Natsuki,0,0,0,,Apropo, Akatsuki...
-Dialogue: 100,0:05:19.67,0:05:22.30,Dialogue,Natsuki,0,0,0,,Unde e tatăl tău în acest moment?
-Dialogue: 100,0:05:22.30,0:05:24.43,Dialogue,Kojou,0,0,0,,Nu e pe insula Itogami.
-Dialogue: 100,0:05:24.43,0:05:26.31,Dialogue,Kojou,0,0,0,,Nu e ca și cum el e vreodată aici,
-Dialogue: 100,0:05:26.31,0:05:29.39,Dialogue,Kojou,0,0,0,,dar, în acest moment, vizitează continentul alături de sora mea.
-Dialogue: 100,0:05:29.39,0:05:30.27,Dialogue,Natsuki,0,0,0,,Poftim?
-Dialogue: 100,0:05:30.39,0:05:33.94,Dialogue,Kojou,0,0,0,,Păi, ei bine... cam acum o săptămână?
-Dialogue: 100,0:05:33.94,0:05:36.15,Dialogue,Kojou,0,0,0,,A apărut de nicăieri
-Dialogue: 100,0:05:36.15,0:05:39.15,Dialogue,Kojou,0,0,0,,spunând că o ia pe Nagisa ca s-o viziteze pe bunica în Tanzawa.
-Dialogue: 100,0:05:40.15,0:05:42.41,Dialogue,Natsuki,0,0,0,,Tanzawa... hm...
-Dialogue: 100,0:05:42.61,0:05:43.74,Dialogue,Natsuki,0,0,0,,Înțeleg.
-Dialogue: 100,0:05:44.16,0:05:47.66,Dialogue,Kojou,0,0,0,,Stai puțin, Natsuki... \NÎl cunoști pe tatăl meu?
-Dialogue: 100,0:05:47.66,0:05:49.29,Dialogue,Natsuki,0,0,0,,Din nefericire.
-Dialogue: 100,0:05:49.29,0:05:52.96,Dialogue,Natsuki,0,0,0,,Akatsuki Gajou era de multe \Nori o adevărată bătaie de cap
-Dialogue: 100,0:05:52.96,0:05:54.96,Dialogue,Natsuki,0,0,0,,la cealaltă slujbă a mea.
-Dialogue: 100,0:05:54.96,0:05:57.63,Dialogue,Natsuki,0,0,0,,Dar a fost și util în câteva ocazii rare.
-Dialogue: 100,0:05:57.63,0:05:59.59,Dialogue,Kojou,0,0,0,,Slujba de Magician Ofensiv?
-Dialogue: 100,0:06:00.30,0:06:02.68,Dialogue,Kojou,0,0,0,,Ce naiba făcea acel bătrân nemernic?
-Dialogue: 100,0:06:02.97,0:06:04.43,Dialogue,Natsuki,0,0,0,,Poți lua legătura cu el?
-Dialogue: 100,0:06:04.43,0:06:05.68,Dialogue,Kojou,0,0,0,,Nu sunt sigur.
-Dialogue: 100,0:06:05.97,0:06:08.35,Dialogue,Kojou,0,0,0,,Zona din jurul lacului Kannawa,
-Dialogue: 100,0:06:08.35,0:06:11.77,Dialogue,Kojou,0,0,0,,unde locuiește bunica mea, \Nnu prea are semnal pentru telefoane.
-Dialogue: 100,0:06:12.23,0:06:13.94,Dialogue,Kojou,0,0,0,,Dar de ce întrebi?
-Dialogue: 100,0:06:14.06,0:06:15.44,Dialogue,Kojou,0,0,0,,Ai treabă cu el?
-Dialogue: 100,0:06:15.73,0:06:18.86,Dialogue,Natsuki,0,0,0,,Nu, eram doar puțin curioasă,
-Dialogue: 100,0:06:18.86,0:06:20.19,Dialogue,Natsuki,0,0,0,,dintr-un oarecare motiv.
-Dialogue: 100,0:06:21.82,0:06:25.82,Dialogue,Astarte,0,0,0,,Noi suntem extratereștii...
-Dialogue: 100,0:06:32.46,0:06:33.46,Dialogue,Kojou,0,0,0,,Himeragi?
-Dialogue: 100,0:06:33.46,0:06:34.62,Dialogue,Yukina,0,0,0,,D-Da?
-Dialogue: 100,0:06:34.67,0:06:37.50,Dialogue,Kojou,0,0,0,,Îți voi lăsa aici niște haine de schimb. \NSunt ale lui Nagisa, dar ar trebui să-ți vină.
-Dialogue: 100,0:06:38.17,0:06:40.50,Dialogue,Yukina,0,0,0,,Bine, mersi.
-Dialogue: 100,0:06:43.42,0:06:45.72,Dialogue,Yukina,0,0,0,,Îți mulțumesc că m-ai \Nlăsat să-ți folosesc baia.
-Dialogue: 100,0:06:46.26,0:06:49.56,Dialogue,Kojou,0,0,0,,Scuze că te-am făcut să mă ajuți cu curățenia de final de an.
-Dialogue: 100,0:06:49.56,0:06:50.81,Dialogue,Yukina,0,0,0,,Ei bine, nu am avut de ales.
-Dialogue: 100,0:06:51.18,0:06:53.73,Dialogue,Yukina,0,0,0,,Dacă te-aș fi lăsat singur,
-Dialogue: 100,0:06:53.73,0:06:55.52,Dialogue,Yukina,0,0,0,,nu ai fi terminat înainte \Nde intrarea în noul an.
-Dialogue: 100,0:06:55.69,0:06:58.52,Dialogue,Kojou,0,0,0,,Doamne... La ce naiba se \Ngândește mama mea netoată
-Dialogue: 100,0:06:58.52,0:07:02.03,Dialogue,Kojou,0,0,0,,cu replica ei: „Dacă vrei bani pentru Anul Nou, trebuie să faci curat! He-he!”?
-Dialogue: 100,0:07:02.99,0:07:07.16,Dialogue,Kojou,0,0,0,,Nu e ca și cum i-ar păsa de Anul Nou. Muncește mereu ca în orice altă zi a anului.
-Dialogue: 100,0:07:08.32,0:07:10.28,Dialogue,Yukina,0,0,0,,Voi pregăti tăiețeii pentru Anul Nou.
-Dialogue: 100,0:07:10.70,0:07:13.41,Dialogue,Yukina,0,0,0,,Tu poți face baie între timp.
-Dialogue: 100,0:07:19.34,0:07:20.88,Dialogue,Yukina,0,0,0,,Dna profesoară Minamiya a spus asta?
-Dialogue: 100,0:07:21.21,0:07:25.38,Dialogue,Kojou,0,0,0,,Da. Părea că-și face griji \Npentru Nagisa și tatăl meu.
-Dialogue: 100,0:07:25.68,0:07:30.10,Dialogue,Yukina,0,0,0,,Apropo, a trecut o \Nsăptămână de când au plecat.
-Dialogue: 100,0:07:30.68,0:07:32.89,Dialogue,Yukina,0,0,0,,Ai primit vreo veste de la Nagisa?
-Dialogue: 100,0:07:32.89,0:07:33.85,Dialogue,Kojou,0,0,0,,Nu.
-Dialogue: 100,0:07:34.43,0:07:36.19,Dialogue,Kojou,0,0,0,,Nici tu?
-Dialogue: 100,0:07:36.19,0:07:37.52,Dialogue,Yukina,0,0,0,,Nici eu.
-Dialogue: 100,0:07:37.52,0:07:40.69,Dialogue,Kojou,0,0,0,,Înțeleg... Nici măcar un mesaj, nu?
-Dialogue: 100,0:07:43.69,0:07:45.99,Dialogue,Yaze,0,0,0,,Hei, Kojou. Am venit să te văd.
-Dialogue: 100,0:07:45.99,0:07:48.86,Dialogue,Kojou,0,0,0,,Ce faci aici la ora asta?
-Dialogue: 100,0:07:48.86,0:07:50.32,Dialogue,Yaze,0,0,0,,Ce tot spui acolo?
-Dialogue: 100,0:07:50.32,0:07:53.20,Dialogue,Yaze,0,0,0,,Am spus că vom merge cu toții \Nîmpreună să vizităm altarul.
-Dialogue: 100,0:07:53.20,0:07:55.71,Dialogue,Kojou,0,0,0,,Fir-ar! Scuze, am uitat complet!
-Dialogue: 100,0:07:55.91,0:07:57.25,Dialogue,Kojou,0,0,0,,Unde sunt restul?
-Dialogue: 100,0:07:57.25,0:07:58.79,Dialogue,Yaze,0,0,0,,Vor ajunge și ele imediat.
-Dialogue: 100,0:08:00.04,0:08:00.84,Dialogue,Yaze,0,0,0,,Și uite-le.
-Dialogue: 100,0:08:17.89,0:08:20.02,Dialogue,Kojou,0,0,0,,Cu ce sunteți îmbrăcate?
-Dialogue: 100,0:08:20.02,0:08:22.86,Dialogue,Asagi,0,0,0,,E-Ei bine, e Anul Nou.
-Dialogue: 100,0:08:22.86,0:08:24.69,Dialogue,Asagi,0,0,0,,Așa că ne-am gândit \Nsă ne îmbrăcăm elegant.
-Dialogue: 100,0:08:25.36,0:08:28.65,Dialogue,Kanon,0,0,0,,Ne stă bine, Akatsuki?
-Dialogue: 100,0:08:28.74,0:08:32.37,Dialogue,Kojou,0,0,0,,Dar e o nebunie curată să purtați mânecă lungă pe căldura asta!
-Dialogue: 100,0:08:32.37,0:08:33.41,Dialogue,Kojou,0,0,0,,Sunteți bine?!
-Dialogue: 100,0:08:33.49,0:08:36.58,Dialogue,Yume,0,0,0,,S-Suntem bine.
-Dialogue: 100,0:08:36.58,0:08:38.87,Dialogue,Yume,0,0,0,,Cât timp ne dai niște apă...
-Dialogue: 100,0:08:43.00,0:08:46.34,Dialogue,Yukina,0,0,0,,Aduc acum apă pentru toată lumea. Vă rog să beți oricât aveți nevoie.
-Dialogue: 100,0:08:46.34,0:08:47.80,Dialogue,Kanon,0,0,0,,Yukina?
-Dialogue: 100,0:08:48.26,0:08:50.80,Dialogue,Asagi,0,0,0,,Parcă ești de-a casei deja, Yukina.
-Dialogue: 100,0:08:50.97,0:08:55.14,Dialogue,Yukina,0,0,0,,Oh, ei bine... Nagisa e plecată \Nsă-și viziteze bunica,
-Dialogue: 100,0:08:55.14,0:08:58.68,Dialogue,Yukina,0,0,0,,așa că l-am ajutat pe Akatsuki cu curățenia de sfârșit de an și cu tăiețeii pentru Anul Nou.
-Dialogue: 100,0:09:04.40,0:09:09.90,Dialogue,Yaze,0,0,0,,Ia te uită, proaspăt ieșiți din baie și mirosind a același șampon...
-Dialogue: 100,0:09:09.90,0:09:12.62,Dialogue,Yaze,0,0,0,,Stai puțin! Ați făcut \Ncumva baie împreună...
-Dialogue: 100,0:09:13.12,0:09:14.49,Dialogue,Kojou,0,0,0,,Ce naiba spui acolo?!
-Dialogue: 100,0:09:14.49,0:09:16.08,Dialogue,Asagi,0,0,0,,Avem un copil aici!
-Dialogue: 100,0:09:16.08,0:09:17.54,Dialogue,Yaze,0,0,0,,Hei, m-a durut!
-Dialogue: 100,0:09:17.54,0:09:20.33,Dialogue,Yaze,0,0,0,,Era o simplă glumiță pentru a \Nmai înveseli puțin atmosfera!
-Dialogue: 100,0:09:21.33,0:09:22.67,Dialogue,Kojou,0,0,0,,Oricum...
-Dialogue: 100,0:09:22.67,0:09:24.96,Dialogue,Kojou,0,0,0,,Himeragi și cu mine vom \Nmerge să ne pregătim,
-Dialogue: 100,0:09:24.96,0:09:26.30,Dialogue,Kojou,0,0,0,,așa că fiți cuminți și așteptați-ne.
-Dialogue: 100,0:09:26.30,0:09:28.21,Dialogue,Kojou,0,0,0,,Oh, da... Aerul condiționat...
-Dialogue: 100,0:09:30.42,0:09:31.63,Dialogue,Yukina,0,0,0,,Tocmai l-am oprit.
-Dialogue: 100,0:09:31.63,0:09:32.89,Dialogue,Kojou,0,0,0,,Mersi, Himeragi.
-Dialogue: 100,0:09:33.39,0:09:35.47,Dialogue,Yaze,0,0,0,,Parcă ar fi proaspăt căsătoriți.
-Dialogue: 100,0:09:35.47,0:09:39.18,Dialogue,Asagi,0,0,0,,Motoki, căldura asta mă \Nirită deja destul de tare.
-Dialogue: 100,0:09:39.18,0:09:41.89,Dialogue,Yaze,0,0,0,,Atunci, de ce nu mergi să \Nte schimbi alături de el?
-Dialogue: 100,0:09:46.11,0:09:49.07,Dialogue,Kojou,0,0,0,,E Nagisa. În sfârșit...
-Dialogue: 100,0:09:49.82,0:09:50.78,Dialogue,Kojou,0,0,0,,Ăsta este...
-Dialogue: 100,0:09:53.99,0:09:55.37,Dialogue,Yukina,0,0,0,,Un cerc magic?
-Dialogue: 100,0:09:58.45,0:09:59.54,Dialogue,All,0,0,0,,Trei!
-Dialogue: 100,0:09:59.66,0:10:00.50,Dialogue,All,0,0,0,,Doi!
-Dialogue: 100,0:10:00.62,0:10:01.46,Dialogue,All,0,0,0,,Unu!
-Dialogue: 100,0:10:01.75,0:10:04.42,Dialogue,All,0,0,0,,Zero!
-Dialogue: 100,0:10:04.42,0:10:06.38,Dialogue,Guy,0,0,0,,An Nou fericit!
-Dialogue: 100,0:10:05.79,0:10:07.59,Dialogue,Guy,0,0,0,,{\an8}An Nou fericit!
-Dialogue: 100,0:10:09.00,0:10:12.13,Dialogue,Asagi,0,0,0,,Hei, Kojou, ce e cu fața asta?
-Dialogue: 100,0:10:12.13,0:10:15.30,Dialogue,Asagi,0,0,0,,Nu știm sigur dacă \NNagisa a pățit sau nu ceva.
-Dialogue: 100,0:10:15.59,0:10:18.85,Dialogue,Kojou,0,0,0,,Știu! Nu-mi fac griji sau ceva!
-Dialogue: 100,0:10:18.85,0:10:20.52,Dialogue,Asagi,0,0,0,,Da, sigur.
-Dialogue: 100,0:10:20.85,0:10:22.98,Dialogue,Asagi,0,0,0,,Ei bine, ia-o înainte și roagă-te.
-Dialogue: 100,0:10:22.98,0:10:25.44,Dialogue,Asagi,0,0,0,,Se spune că rugăciunile spuse la acest altar ajung să se îndeplinească.
-Dialogue: 100,0:10:39.41,0:10:40.49,Dialogue,Kojou,0,0,0,,Încă o dată!
-Dialogue: 100,0:10:47.33,0:10:48.63,Dialogue,Kanon,0,0,0,,Akatsuki...
-Dialogue: 100,0:10:48.88,0:10:50.63,Dialogue,Yume,0,0,0,,Vrei să facem schimb?
-Dialogue: 100,0:10:50.71,0:10:52.55,Dialogue,Yukina,0,0,0,,E-E în regulă!
-Dialogue: 100,0:10:52.55,0:10:56.22,Dialogue,Yukina,0,0,0,,Dacă ești în cel mai prost moment al tău, \Nasta înseamnă că nu se poate mai rău!
-Dialogue: 100,0:10:56.22,0:11:01.14,Dialogue,Asagi,0,0,0,,Da. Poate că Nagisa e mai norocoasă cu cât ești tu mai ghinionist!
-Dialogue: 100,0:11:04.14,0:11:08.56,Dialogue,Kojou,0,0,0,,Nu ne va spune că erau \Ndoar niște artificii, nu?
-Dialogue: 100,0:11:08.56,0:11:11.15,Dialogue,Asagi,0,0,0,,Chiar mă îndoiesc de asta,
-Dialogue: 100,0:11:11.15,0:11:14.57,Dialogue,Asagi,0,0,0,,dar informația digitală poate fi alterată în tot felul de moduri.
-Dialogue: 100,0:11:14.57,0:11:16.99,Dialogue,Asagi,0,0,0,,Nu ar trebui să-ți bați capul prea mult.
-Dialogue: 100,0:11:19.20,0:11:20.66,Dialogue,Kojou,0,0,0,,Hei, Himeragi...
-Dialogue: 100,0:11:21.16,0:11:23.25,Dialogue,Kojou,0,0,0,,Dacă ăsta e un cerc magic,
-Dialogue: 100,0:11:23.25,0:11:26.00,Dialogue,Kojou,0,0,0,,ai idee ce fel de efect ar putea avea?
-Dialogue: 100,0:11:26.00,0:11:30.17,Dialogue,Yukina,0,0,0,,Îmi pare rău. Eu nu-mi pot da seama, dar Sayaka ar putea ști.
-Dialogue: 100,0:11:30.17,0:11:31.63,Dialogue,Kojou,0,0,0,,Kirasaka?
-Dialogue: 100,0:11:32.88,0:11:35.05,Dialogue,Kojou,0,0,0,,Acum că spui asta, acest \Ncerc magic arată precum...
-Dialogue: 100,0:11:35.97,0:11:38.59,Dialogue,Yukina,0,0,0,,...Balanța Strălucitoare al lui Sayaka, da.
-Dialogue: 100,0:11:38.80,0:11:41.76,Dialogue,Kojou,0,0,0,,Mai există persoane \Ncare au un arc ca al ei?
-Dialogue: 100,0:11:41.76,0:11:44.22,Dialogue,Yukina,0,0,0,,Nu, sunt greu de folosit.
-Dialogue: 100,0:11:44.22,0:11:47.73,Dialogue,Yukina,0,0,0,,Am auzit că Sayaka e singura care a reușit să-l stăpânească.
-Dialogue: 100,0:11:48.35,0:11:48.94,Dialogue,Yukina,0,0,0,,Dar...
-Dialogue: 100,0:11:49.36,0:11:51.44,Dialogue,Yukina,0,0,0,,Am auzit și că există un \Nmodel produs în masă
-Dialogue: 100,0:11:51.44,0:11:55.32,Dialogue,Yukina,0,0,0,,care a fost simplificat \Npentru a fi mai uor de folosit.
-Dialogue: 100,0:11:55.53,0:11:57.78,Dialogue,Yukina,0,0,0,,Dar e doar un zvon.
-Dialogue: 100,0:11:57.78,0:11:59.07,Dialogue,Kojou,0,0,0,,O voi contacta ca s-o întreb.
-Dialogue: 100,0:12:00.24,0:12:01.91,Dialogue,Asagi,0,0,0,,Pe cine sună?
-Dialogue: 100,0:12:01.91,0:12:03.49,Dialogue,Yukina,0,0,0,,Sayaka.
-Dialogue: 100,0:12:03.49,0:12:06.96,Dialogue,Yukina,0,0,0,,Știe multe despre genul \Nacela de cercuri magice.
-Dialogue: 100,0:12:06.96,0:12:09.83,Dialogue,Asagi,0,0,0,,Cum de are numărul lui Kirasaka?
-Dialogue: 100,0:12:09.83,0:12:11.04,Dialogue,Yukina,0,0,0,,Nu am idee...
-Dialogue: 100,0:12:12.50,0:12:13.80,Dialogue,Kojou,0,0,0,,Nu răspunde.
-Dialogue: 100,0:12:13.80,0:12:16.88,Dialogue,Kojou,0,0,0,,De fapt, îmi spune că \Nnumărul nu e folosit.
-Dialogue: 100,0:12:17.05,0:12:18.80,Dialogue,Yukina,0,0,0,,În acest caz, telefonul lui Sayaka...
-Dialogue: 100,0:12:18.80,0:12:20.14,Dialogue,Kojou,0,0,0,,Hei, Himeragi!
-Dialogue: 100,0:12:20.47,0:12:22.97,Dialogue,Kojou,0,0,0,,Există vreo altă \Nmetodă de a o contacta?
-Dialogue: 100,0:12:22.97,0:12:24.10,Dialogue,Asagi,0,0,0,,Hei!
-Dialogue: 100,0:12:24.31,0:12:26.93,Dialogue,Asagi,0,0,0,,Știu că-ți faci griji pentru Nagisa,
-Dialogue: 100,0:12:26.93,0:12:28.94,Dialogue,Asagi,0,0,0,,dar nu e frumos să apuci o fată astfel!
-Dialogue: 100,0:12:29.19,0:12:31.48,Dialogue,Kojou,0,0,0,,Scuze, Himeragi. \NNu gândeam limpede.
-Dialogue: 100,0:12:31.48,0:12:32.73,Dialogue,Yukina,0,0,0,,E în regulă.
-Dialogue: 100,0:12:32.73,0:12:35.53,Dialogue,Yukina,0,0,0,,Și eu îmi fac griji pentru Nagisa.
-Dialogue: 100,0:12:37.28,0:12:39.15,Dialogue,Asagi,0,0,0,,Se pare că nu am de ales.
-Dialogue: 100,0:12:39.53,0:12:40.45,Dialogue,Kojou,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:12:41.57,0:12:43.66,Dialogue,Asagi,0,0,0,,H-Hei, Kojou...
-Dialogue: 100,0:12:44.28,0:12:48.62,Dialogue,Asagi,0,0,0,,Părinții mei nu vor fi acasă în seara asta.
-Dialogue: 100,0:12:50.46,0:12:51.75,Dialogue,Asagi,0,0,0,,Deci ai vrea să vii pe la mine?
-Dialogue: 100,0:12:55.67,0:12:58.30,Dialogue,Kojou,0,0,0,,C-Ce?
-Dialogue: 100,0:13:05.35,0:13:07.93,Dialogue,Asagi,0,0,0,,I-am găsit! Ei sunt \NNagisa și tatăl tău, nu?
-Dialogue: 100,0:13:08.06,0:13:09.69,Dialogue,Kojou,0,0,0,,Camerele de securitate, nu?
-Dialogue: 100,0:13:09.69,0:13:12.44,Dialogue,Kojou,0,0,0,,Am înțeles. Așa vom \Nputea vedea unde au mers.
-Dialogue: 100,0:13:12.44,0:13:18.28,Dialogue,Yukina,0,0,0,,Oh, înțeleg... Deci la asta se referea.
-Dialogue: 100,0:13:18.28,0:13:19.03,Dialogue,Kojou,0,0,0,,Ce vrei să spui?
-Dialogue: 100,0:13:19.03,0:13:21.32,Dialogue,Yukina,0,0,0,,Nimic! Nu mai contează!
-Dialogue: 100,0:13:22.78,0:13:25.28,Dialogue,Mogwai,0,0,0,,{\i1}Tatăl ei a închiriat o \Nmașină de la aeroport...
-Dialogue: 100,0:13:25.58,0:13:27.24,Dialogue,Mogwai,0,0,0,,{\i1}folosind un nume fals.
-Dialogue: 100,0:13:27.41,0:13:29.12,Dialogue,Kojou,0,0,0,,De ce sub un nume fals?
-Dialogue: 100,0:13:29.12,0:13:32.21,Dialogue,ASagi,0,0,0,,Au plecat cu mașina din Haneda pe autostrada metropolitană care duce spre Tokyo...
-Dialogue: 100,0:13:32.71,0:13:35.13,Dialogue,Asagi,0,0,0,,Dar au făcut o mică oprire \Nfix înainte de Shibuya.
-Dialogue: 100,0:13:35.13,0:13:36.21,Dialogue,Kojou,0,0,0,,Shibuya?
-Dialogue: 100,0:13:36.80,0:13:39.97,Dialogue,Mogwai,0,0,0,,{\i1}Există o înregistrare cu ei făcând cumpărături la un magazin secondhand din Harajuku.
-Dialogue: 100,0:13:40.38,0:13:42.43,Dialogue,Mogwai,0,0,0,,{\i1}S-au oprit și să mănânce o prăjitură.
-Dialogue: 100,0:13:43.01,0:13:45.64,Dialogue,Asagi,0,0,0,,Apoi, s-au cazat la un hotel și...
-Dialogue: 100,0:13:45.64,0:13:47.93,Dialogue,Asagi,0,0,0,,Ce e acest loc? Un bar de striptease?
-Dialogue: 100,0:13:47.93,0:13:49.14,Dialogue,Kojou,0,0,0,,Stai, cu Nagisa?!
-Dialogue: 100,0:13:49.39,0:13:50.98,Dialogue,Asagi,0,0,0,,Nu, e singur.
-Dialogue: 100,0:13:50.98,0:13:52.60,Dialogue,Kojou,0,0,0,,Acel nemernic!
-Dialogue: 100,0:13:53.15,0:13:55.77,Dialogue,Mogwai,0,0,0,,{\i1}Și-au petrecut următoarea \Nzi la un parc de distracții
-Dialogue: 100,0:13:55.77,0:13:58.36,Dialogue,Mogwai,0,0,0,,{\i1}și s-au cazat la un hotel \Ndin incinta acestuia.
-Dialogue: 100,0:13:58.36,0:14:01.32,Dialogue,Kojou,0,0,0,,Chiar are vreun rost să ne uităm peste toate aceste înregistrări?
-Dialogue: 100,0:14:01.32,0:14:05.28,Dialogue,Mogwai,0,0,0,,{\i1}Oh, se pare că în sfârșit s-au pus pe treabă în următoarea zi.
-Dialogue: 100,0:14:05.28,0:14:06.78,Dialogue,Kojou,0,0,0,,În sfârșit?
-Dialogue: 100,0:14:06.78,0:14:10.04,Dialogue,Yukina,0,0,0,,Data e aceeași cu cea \Na mesajului lui Nagisa.
-Dialogue: 100,0:14:10.70,0:14:12.04,Dialogue,Asagi,0,0,0,,Asta e ciudat.
-Dialogue: 100,0:14:12.33,0:14:13.67,Dialogue,Asagi,0,0,0,,Ai observat, Mogwai?
-Dialogue: 100,0:14:13.67,0:14:14.54,Dialogue,Mogwai,0,0,0,,{\i1}Da.
-Dialogue: 100,0:14:14.54,0:14:16.25,Dialogue,Kojou,0,0,0,,Ciudat? Ce e ciudat?
-Dialogue: 100,0:14:16.71,0:14:19.09,Dialogue,Asagi,0,0,0,,Se deplasează mult prea lejer.
-Dialogue: 100,0:14:19.09,0:14:23.51,Dialogue,Asagi,0,0,0,,E Anul Nou și nu au fost \Nprinși în trafic nici măcar o dată.
-Dialogue: 100,0:14:23.51,0:14:27.51,Dialogue,Asagi,0,0,0,,De parcă toate celelalte mașini \Nevită ruta spre Kannawa.
-Dialogue: 100,0:14:27.85,0:14:29.93,Dialogue,Kojou,0,0,0,,Nu ar putea fi o simplă coincidență?
-Dialogue: 100,0:14:29.93,0:14:32.98,Dialogue,Yukina,0,0,0,,{\i1}Oare a pus cineva o barieră \Npentru respingerea oamenilor?
-Dialogue: 100,0:14:33.23,0:14:38.19,Dialogue,Yukina,0,0,0,,{\i1}Dar ar fi nevoie de o organizare masivă pentru a pune o barieră de acest nivel.
-Dialogue: 100,0:14:38.44,0:14:41.11,Dialogue,Mogwai,0,0,0,,{\i1}Am înțeles. Cred că mi-am \Ndat seama de șmecherie.
-Dialogue: 100,0:14:41.11,0:14:43.15,Dialogue,Mogwai,0,0,0,,{\i1}Forțele Armate Japoneze sunt implicate.
-Dialogue: 100,0:14:43.15,0:14:45.61,Dialogue,Mogwai,0,0,0,,{\i1}Se îndreaptă spre lacul Kannawa sub pretextul oferirii de ajutor
-Dialogue: 100,0:14:45.61,0:14:47.41,Dialogue,Mogwai,0,0,0,,{\i1}în urma ninsorilor și \Nalunecărilor de teren.
-Dialogue: 100,0:14:47.66,0:14:48.62,Dialogue,Kojou,0,0,0,,Forțele Armate Japoneze?
-Dialogue: 100,0:14:48.78,0:14:52.87,Dialogue,Mogwai,0,0,0,,{\i1}Dar organizația care \Ntrage sforile este CDM,
-Dialogue: 100,0:14:52.87,0:14:55.12,Dialogue,Mogwai,0,0,0,,{\i1}cunoscută drept Controlul \NDezastrelor Magice.
-Dialogue: 100,0:14:55.37,0:14:56.63,Dialogue,Yukina,0,0,0,,CDM?
-Dialogue: 100,0:14:57.58,0:14:59.80,Dialogue,Yukina,0,0,0,,Nu... Dar de ce...
-Dialogue: 100,0:14:59.80,0:15:00.59,Dialogue,Kojou,0,0,0,,Himeragi?
-Dialogue: 100,0:15:00.71,0:15:01.88,Dialogue,Asagi,0,0,0,,Ce s-a întâmplat?
-Dialogue: 100,0:15:03.88,0:15:05.38,Dialogue,Yukina,0,0,0,,Vă rog să mă scuzați!
-Dialogue: 100,0:15:06.80,0:15:09.26,Dialogue,Kojou,0,0,0,,Hei, Himeragi! Unde te duci?!
-Dialogue: 100,0:15:09.26,0:15:10.18,Dialogue,Asagi,0,0,0,,Așteaptă, Kojou!
-Dialogue: 100,0:15:10.93,0:15:14.64,Dialogue,Kojou,0,0,0,,Mersi, Asagi! Ne-ai fost de mare ajutor! \NÎți rămân dator cu a te scoate la cină sau ceva!
-Dialogue: 100,0:15:16.65,0:15:19.06,Dialogue,Asagi,0,0,0,,Doamne, ce se petrece?
-Dialogue: 100,0:15:20.40,0:15:23.03,Dialogue,Kojou,0,0,0,,Hei, Himeragi! Ce te-a apucat?
-Dialogue: 100,0:15:23.11,0:15:25.32,Dialogue,Yukina,0,0,0,,Nu veni după mine!
-Dialogue: 100,0:15:25.32,0:15:27.49,Dialogue,Yukina,0,0,0,,Trebuie să aflu cu certitudine.
-Dialogue: 100,0:15:27.91,0:15:29.74,Dialogue,Kojou,0,0,0,,Ce anume?
-Dialogue: 100,0:15:29.74,0:15:35.41,Dialogue,Yukina,0,0,0,,CDM e una din organizațiile fantomă aflate în subordinea Organizației Regele Leu.
-Dialogue: 100,0:15:35.83,0:15:37.75,Dialogue,Kojou,0,0,0,,Organizației Regele Leu?
-Dialogue: 100,0:15:37.75,0:15:41.63,Dialogue,Kojou,0,0,0,,Ce înseamnă asta? E numită Controlul Dezastrelor Magice, nu?
-Dialogue: 100,0:15:41.63,0:15:45.42,Dialogue,Kojou,0,0,0,,Deci Nagisa a fost implicată \Nîntr-un dezastru magic?
-Dialogue: 100,0:15:45.55,0:15:47.89,Dialogue,Yukina,0,0,0,,Sau ei au implicat-o într-unul...
-Dialogue: 100,0:15:48.51,0:15:50.85,Dialogue,Yukina,0,0,0,,De asta trebuie să merg și să aflu cu certitudine.
-Dialogue: 100,0:15:51.93,0:15:53.47,Dialogue,Kojou,0,0,0,,La acel magazin de antichități?
-Dialogue: 100,0:15:53.97,0:15:56.39,Dialogue,Kojou,0,0,0,,Cel unde erau dna profesoară pisică și acea păpușă cu Kirasaka?
-Dialogue: 100,0:16:00.65,0:16:03.57,Dialogue,Kojou,0,0,0,,Credeam că se află în zona asta...
-Dialogue: 100,0:16:04.74,0:16:07.57,Dialogue,Yukina,0,0,0,,Bariera a fost schimbată.
-Dialogue: 100,0:16:07.57,0:16:09.99,Dialogue,Yukina,0,0,0,,Nici eu nu o pot descifra acum.
-Dialogue: 100,0:16:10.70,0:16:12.74,Dialogue,Yukina,0,0,0,,Dacă asta e ceea ce vor...
-Dialogue: 100,0:16:14.33,0:16:15.33,Dialogue,Kojou,0,0,0,,Himeragi?
-Dialogue: 100,0:16:15.33,0:16:17.33,Dialogue,Yukina,0,0,0,,Akatsuki, te rog să stai în spate.
-Dialogue: 100,0:16:17.66,0:16:18.92,Dialogue,Yukina,0,0,0,,Lupul Viscolului!
-Dialogue: 100,0:16:24.46,0:16:26.01,Dialogue,Kojou,0,0,0,,Asta a fost puțin cam exagerat...
-Dialogue: 100,0:16:26.01,0:16:27.47,Dialogue,Yukina,0,0,0,,E o urgență!
-Dialogue: 100,0:16:30.72,0:16:33.47,Dialogue,Kojou,0,0,0,,Se pare că magazin e închis.
-Dialogue: 100,0:16:33.47,0:16:35.39,Dialogue,Kojou,0,0,0,,Bănuiesc că e normal din \Nmoment ce am intrat în Noul An.
-Dialogue: 100,0:16:44.07,0:16:45.53,Dialogue,Kojou,0,0,0,,Hei, Himeragi!
-Dialogue: 100,0:16:45.53,0:16:46.86,Dialogue,Yukina,0,0,0,,Nu încerca să mă oprești!
-Dialogue: 100,0:16:46.86,0:16:48.24,Dialogue,Kojou,0,0,0,,Nu-ți mai bate capul! Liniștește-te!
-Dialogue: 100,0:16:48.24,0:16:49.20,Dialogue,Yukina,0,0,0,,Dă-mi drumul!
-Dialogue: 100,0:16:49.20,0:16:52.16,Dialogue,Kojou,0,0,0,,Nu are niciun rost să intrăm \Nînăuntru dacă nu e nimeni!
-Dialogue: 100,0:16:52.16,0:16:53.16,Dialogue,Yukina,0,0,0,,Dar...
-Dialogue: 100,0:16:53.16,0:16:56.04,Dialogue,Kojou,0,0,0,,Dacă nimeni nu ți-a spus nimic,
-Dialogue: 100,0:16:56.04,0:17:00.29,Dialogue,Kojou,0,0,0,,asta înseamnă că Organizația Regele Leu te-a lăsat intenționat pe dinafară.
-Dialogue: 100,0:17:00.54,0:17:02.75,Dialogue,Kojou,0,0,0,,Asta ar explica și treaba cu Kirasaka.
-Dialogue: 100,0:17:03.21,0:17:06.51,Dialogue,Yukina,0,0,0,,Cum de poți fi atât de calm acum?!
-Dialogue: 100,0:17:06.59,0:17:10.93,Dialogue,Yukina,0,0,0,,E posibil ca Organizația Regele Leu s-o fi implicat pe Nagisa în ceva teribil!
-Dialogue: 100,0:17:11.26,0:17:14.05,Dialogue,Kojou,0,0,0,,Nu aș spune că sunt calm.
-Dialogue: 100,0:17:14.05,0:17:14.97,Dialogue,Kojou,0,0,0,,Dar...
-Dialogue: 100,0:17:15.43,0:17:20.44,Dialogue,Kojou,0,0,0,,Organizațiile au mereu facțiuni diferite care luptă pentru a obține întreaga putere.
-Dialogue: 100,0:17:20.44,0:17:24.56,Dialogue,Kojou,0,0,0,,Deci, dacă există o latură a Organizației Regele Leu pe care nu o cunoști,
-Dialogue: 100,0:17:24.56,0:17:26.98,Dialogue,Kojou,0,0,0,,nu ai de ce să te simți responsabilă.
-Dialogue: 100,0:17:27.11,0:17:28.49,Dialogue,Yukina,0,0,0,,Akatsuki...
-Dialogue: 100,0:17:28.65,0:17:33.12,Dialogue,Kojou,0,0,0,,Pe lângă asta, Kirasaka \Nnu te-ar trăda niciodată.
-Dialogue: 100,0:17:34.28,0:17:36.66,Dialogue,Yukina,0,0,0,,Ai dreptate...
-Dialogue: 100,0:17:36.66,0:17:40.54,Dialogue,Yukina,0,0,0,,Am înțeles... deci, Akatsuki...
-Dialogue: 100,0:17:40.54,0:17:44.08,Dialogue,Yukina,0,0,0,,aș aprecia dacă mi-ai da drumul acum.
-Dialogue: 100,0:17:44.08,0:17:46.30,Dialogue,Yukina,0,0,0,,Oricum, unde crezi că mă atingi?
-Dialogue: 100,0:17:46.30,0:17:47.75,Dialogue,Kojou,0,0,0,,Oh, scuze!
-Dialogue: 100,0:17:47.75,0:17:52.43,Dialogue,Yukina,0,0,0,,Nu, e în regulă. \NDe la mine a pornit totul.
-Dialogue: 100,0:17:52.93,0:17:57.31,Dialogue,Kojou,0,0,0,,Dar bănuiesc că încă nu știm ce intenționează să facă Organizația Regele Leu, nu?
-Dialogue: 100,0:17:57.31,0:17:58.89,Dialogue,Kojou,0,0,0,,Deci ne-am întors \Nde unde am plecat.
-Dialogue: 100,0:17:58.89,0:18:01.44,Dialogue,Kiriha,0,0,0,,Pari destul de afectat, \Nal IV-lea Străbun.
-Dialogue: 100,0:18:03.35,0:18:04.86,Dialogue,Kojou,0,0,0,,Kisaki Kiriha!
-Dialogue: 100,0:18:04.86,0:18:06.19,Dialogue,Kiriha,0,0,0,,Îmi cer scuze că vă întrerup
-Dialogue: 100,0:18:06.19,0:18:09.57,Dialogue,Kiriha,0,0,0,,când vă îmbrățișați atât de pasional pe o stradă plină cu hoteluri pentru îndrăgostiți
-Dialogue: 100,0:18:09.57,0:18:11.19,Dialogue,Kiriha,0,0,0,,în prima zi a noului an.
-Dialogue: 100,0:18:11.19,0:18:12.95,Dialogue,Yukina,0,0,0,,Ce?! Nu e deloc așa!
-Dialogue: 100,0:18:12.95,0:18:14.57,Dialogue,Kojou,0,0,0,,Nu stăteam îmbrățișați!
-Dialogue: 100,0:18:14.57,0:18:16.83,Dialogue,Kojou,0,0,0,,Oricum, ce treabă ai cu noi?!
-Dialogue: 100,0:18:17.12,0:18:18.62,Dialogue,Kiriha,0,0,0,,Vreți să aflați
-Dialogue: 100,0:18:18.62,0:18:23.37,Dialogue,Kiriha,0,0,0,,ce face Organizația Regele \NLeu la lacul Kannawa, nu?
-Dialogue: 100,0:18:24.46,0:18:26.84,Dialogue,Kiriha,0,0,0,,Vă voi spune.
-Dialogue: 100,0:18:28.13,0:18:32.84,Dialogue,Kiriha,0,0,0,,Desigur, odată ce aflați, \Ns-ar putea să regretați.
-Dialogue: 100,0:18:37.85,0:18:40.06,Dialogue,Nurse,0,0,0,,Bun, asta va durea puțin.
-Dialogue: 100,0:18:45.06,0:18:47.61,Dialogue,Asagi,0,0,0,,E așa o bătaie de cap să \Nfac asta de fiecare dată.
-Dialogue: 100,0:18:47.61,0:18:49.98,Dialogue,Asagi,0,0,0,,Știu că e necesar din moment ce ne aflăm într-un distrct cu demoni, dar...
-Dialogue: 100,0:18:51.23,0:18:52.94,Dialogue,Mogwai,0,0,0,,{\i1}Ești foarte curajoasă, domniță,
-Dialogue: 100,0:18:53.57,0:18:57.07,Dialogue,Mogwai,0,0,0,,{\i1}să mergi până pe continent \Nca să-l ajuți pe Kojou.
-Dialogue: 100,0:18:57.07,0:18:59.70,Dialogue,Asagi,0,0,0,,Nu o fac pentru el, bine?!
-Dialogue: 100,0:18:59.70,0:19:02.95,Dialogue,Asagi,0,0,0,,Și sora mea locuiește pe \Ncontinent și vreau s-o văd.
-Dialogue: 100,0:19:03.04,0:19:05.33,Dialogue,Asagi,0,0,0,,Și m-am gândit să dau și de \NNagisa dacă tot ajung acolo.
-Dialogue: 100,0:19:05.33,0:19:06.08,Dialogue,Mogwai,0,0,0,,{\i1}Oh?
-Dialogue: 100,0:19:06.08,0:19:08.59,Dialogue,Asagi,0,0,0,,Ține-ți gura, bine?! \NE timpul să mergem!
-Dialogue: 100,0:19:08.59,0:19:10.63,Dialogue,Asagi,0,0,0,,Poarta 4, nu?
-Dialogue: 100,0:19:11.38,0:19:13.51,Dialogue,Mogwai,0,0,0,,{\i1}Avem probleme. \NA venit paza insulei.
-Dialogue: 100,0:19:13.72,0:19:14.67,Dialogue,Asagi,0,0,0,,Ce?
-Dialogue: 100,0:19:14.67,0:19:16.76,Dialogue,Mogwai,0,0,0,,{\i1}Sunt pe urmele tale sută la sută.
-Dialogue: 100,0:19:16.97,0:19:19.85,Dialogue,Mogwai,0,0,0,,{\i1}Vei fi complet înconjurată într-un minut și patruzeci de secunde.
-Dialogue: 100,0:19:20.31,0:19:21.93,Dialogue,Asagi,0,0,0,,Cred că-ți bați joc de mine!
-Dialogue: 100,0:19:21.93,0:19:25.35,Dialogue,Mogwai,0,0,0,,{\i1}Poți ajunge la pista de rulare pe niște scări aflate la 60 de metri în față.
-Dialogue: 100,0:19:25.35,0:19:26.60,Dialogue,Mogwai,0,0,0,,{\i1}Apoi, restul va depinde de noroc.
-Dialogue: 100,0:19:26.69,0:19:30.82,Dialogue,Asagi,0,0,0,,La naiba! De ce am parte \Nde asta în prima zi din an?!
-Dialogue: 100,0:19:31.61,0:19:34.61,Dialogue,Kojou,0,0,0,,Ești sigură că vrei să vii cu mine?
-Dialogue: 100,0:19:34.90,0:19:37.82,Dialogue,Yukina,0,0,0,,Sunt supraveghetoarea ta, știi?
-Dialogue: 100,0:19:38.16,0:19:43.08,Dialogue,Yukina,0,0,0,,Dacă vrei să părăsești insula în mod ilegal cu ajutorul dnei profesoare Minamiya,
-Dialogue: 100,0:19:43.08,0:19:45.25,Dialogue,Yukina,0,0,0,,atunci, e evident că vin cu tine.
-Dialogue: 100,0:19:45.25,0:19:47.08,Dialogue,Kojou,0,0,0,,Dar vom comite o ilegalitate.
-Dialogue: 100,0:19:47.62,0:19:50.09,Dialogue,Yukina,0,0,0,,Spui asta abia {\i1}acum{\i0}?
-Dialogue: 100,0:19:52.17,0:19:53.34,Dialogue,Kojou,0,0,0,,Ai dreptate.
-Dialogue: 100,0:19:56.09,0:19:59.76,Dialogue,Kojou,0,0,0,,Și casa lui Asagi e mare, \Ndar asta e la cu totul alt nivel.
-Dialogue: 100,0:20:03.18,0:20:04.60,Dialogue,Astarte,0,0,0,,An Nou fericit.
-Dialogue: 100,0:20:04.85,0:20:07.14,Dialogue,Kojou,0,0,0,,Ne-am urat deja asta!
-Dialogue: 100,0:20:07.14,0:20:08.35,Dialogue,Kojou,0,0,0,,Și de ce ești dezbrăcată?!
-Dialogue: 100,0:20:08.35,0:20:11.82,Dialogue,Kanon,0,0,0,,Nu, Astarte! Nu ar trebui să \Nalergi dezbrăcată prin casă!
-Dialogue: 100,0:20:19.57,0:20:20.49,Dialogue,Kojou,0,0,0,,Scuze...
-Dialogue: 100,0:20:20.82,0:20:23.12,Dialogue,Kojou,0,0,0,,D-Doar ce ați ieșit din baie, nu?
-Dialogue: 100,0:20:23.12,0:20:25.83,Dialogue,Yukina,0,0,0,,Cât mai ai de gând să te holbezi la ele?
-Dialogue: 100,0:20:26.12,0:20:28.96,Dialogue,Yukina,0,0,0,,Akatsuki, ești așa...
-Dialogue: 100,0:20:29.29,0:20:31.29,Dialogue,Yukina,0,0,0,,un pervers!
-Dialogue: 100,0:20:29.67,0:20:31.29,Dialogue,Kojou,0,0,0,,{\an8}Stai, stai, stai!
-Dialogue: 100,0:20:34.67,0:20:36.63,Dialogue,Natsuki,0,0,0,,Deci ai dat buzna în casa cuiva
-Dialogue: 100,0:20:36.63,0:20:39.72,Dialogue,Natsuki,0,0,0,,și te-ai comportat ca un abuzator \Nsexual în prima zi din an?
-Dialogue: 100,0:20:39.93,0:20:42.01,Dialogue,Kojou,0,0,0,,Încă-mi scoți ochii cu asta?
-Dialogue: 100,0:20:42.01,0:20:44.81,Dialogue,Kojou,0,0,0,,Cred că am plătit deja cu vârf \Nși îndesat pentru faptele mele.
-Dialogue: 100,0:20:46.06,0:20:47.98,Dialogue,Natsuki,0,0,0,,Atunci, de ce ești aici?
-Dialogue: 100,0:20:47.98,0:20:50.31,Dialogue,Natsuki,0,0,0,,Să-mi ceri bani pentru Noul An?
-Dialogue: 100,0:20:50.31,0:20:51.48,Dialogue,Kojou,0,0,0,,Ești pe aproape.
-Dialogue: 100,0:20:52.81,0:20:55.73,Dialogue,Kojou,0,0,0,,Am nevoie de ajutorul tău. \NVreau să merg pe continent.
-Dialogue: 100,0:20:58.40,0:21:01.66,Dialogue,Natsuki,0,0,0,,Atunci, trebuie să mergi la biroul care se ocupă cu asta și să obții o viză.
-Dialogue: 100,0:21:01.66,0:21:04.87,Dialogue,Natsuki,0,0,0,,Dar va trebui să fii înregistrat ca demon înainte să fie aprobată,
-Dialogue: 100,0:21:04.87,0:21:07.54,Dialogue,Natsuki,0,0,0,,ceea ce-ți va dezvălui identitatea.
-Dialogue: 100,0:21:07.54,0:21:09.79,Dialogue,Kojou,0,0,0,,De asta am venit la tine \Nca să-ți cer ajutorul.
-Dialogue: 100,0:21:09.79,0:21:14.54,Dialogue,Kojou,0,0,0,,Tu mă poți scoate cu ușurință de pe insulă fără vreo inspecție, nu?
-Dialogue: 100,0:21:16.38,0:21:18.38,Dialogue,Natsuki,0,0,0,,Chiar dacă aș putea,
-Dialogue: 100,0:21:18.38,0:21:21.72,Dialogue,Natsuki,0,0,0,,nu văd de ce aș fi obligată s-o fac.
-Dialogue: 100,0:21:21.72,0:21:24.01,Dialogue,Kojou,0,0,0,,Chiar și dacă ți-aș spune că \Nviața cuiva depinde de asta?
-Dialogue: 100,0:21:25.43,0:21:28.64,Dialogue,Natsuki,0,0,0,,Nu încerca să-ți bagi nasul în problema de la lacul Kannawa, Akatsuki Kojou.
-Dialogue: 100,0:21:29.35,0:21:32.15,Dialogue,Natsuki,0,0,0,,Indiferent cât de mult îți \Nfaci griji pentru sora ta.
-Dialogue: 100,0:21:32.56,0:21:34.15,Dialogue,Kojou,0,0,0,,Știi despre asta?
-Dialogue: 100,0:21:34.15,0:21:36.82,Dialogue,Kojou,0,0,0,,Atunci, te rog, Natsuki! \NTrebuie să mă ajuți!
-Dialogue: 100,0:21:36.82,0:21:37.86,Dialogue,Natsuki,0,0,0,,Refuz.
-Dialogue: 100,0:21:38.24,0:21:39.36,Dialogue,Kojou,0,0,0,,De ce?!
-Dialogue: 100,0:21:40.24,0:21:43.99,Dialogue,Natsuki,0,0,0,,Chiar am nevoie de un motiv ca să-mi opresc elevul din a încălca legea?
-Dialogue: 100,0:21:47.62,0:21:49.20,Dialogue,Kojou,0,0,0,,Bine. Am înțeles.
-Dialogue: 100,0:21:49.20,0:21:50.41,Dialogue,Yukina,0,0,0,,Akatsuki?
-Dialogue: 100,0:21:51.50,0:21:53.38,Dialogue,Kojou,0,0,0,,E în regulă, Natsuki.
-Dialogue: 100,0:21:53.38,0:21:57.17,Dialogue,Kojou,0,0,0,,Îmi cer scuze că ți-am cerut asta fără să mă gândesc la poziția în care te afli.
-Dialogue: 100,0:21:59.21,0:22:00.22,Dialogue,Yukina,0,0,0,,Akatsuki!
-Dialogue: 100,0:22:00.22,0:22:03.01,Dialogue,Natsuki,0,0,0,,Așteaptă, Akatsuki. \NUnde crezi că mergi?
-Dialogue: 100,0:22:04.39,0:22:05.55,Dialogue,Kojou,0,0,0,,Să cer ajutorul altcuiva.
-Dialogue: 100,0:22:05.55,0:22:06.39,Dialogue,Natsuki,0,0,0,,Nu.
-Dialogue: 100,0:22:22.24,0:22:23.53,Dialogue,Kojou,0,0,0,,Natsuki!
-Dialogue: 100,0:22:23.74,0:22:28.41,Dialogue,Natsuki,0,0,0,,De câte ori ți-am spus să nu mi te mai adresezi cu prenumele?
-Dialogue: 100,0:22:30.12,0:22:31.08,Dialogue,Yukina,0,0,0,,Akatsuki!
-Dialogue: 100,0:22:32.54,0:22:34.04,Dialogue,Natsuki,0,0,0,,Akatsuki Kojou...
-Dialogue: 100,0:22:34.50,0:22:37.29,Dialogue,Natsuki,0,0,0,,Nu-ți voi permite să ajungi pe continent.
+Dialogue: 99,0:00:01.81,0:00:03.32,Dialogue,Kojou,0,0,0,,Înțeleg...
+Dialogue: 99,0:00:03.32,0:00:06.82,Dialogue,Kojou,0,0,0,,Deci poți rămâne pe insula \NItogami fără să-ți faci griji, nu?
+Dialogue: 99,0:00:06.82,0:00:08.11,Dialogue,Kojou,0,0,0,,Asta e grozav, Yume.
+Dialogue: 99,0:00:08.24,0:00:09.53,Dialogue,Yume,0,0,0,,Da!
+Dialogue: 99,0:00:09.78,0:00:12.53,Dialogue,Yume,0,0,0,,Și mulțumită băiatului \Nnepoliticos de colo,
+Dialogue: 99,0:00:12.53,0:00:15.75,Dialogue,Yume,0,0,0,,am și pe cineva care \Nsă aibă grijă de mine.
+Dialogue: 99,0:00:15.75,0:00:16.58,Dialogue,Yaze,0,0,0,,Hei...
+Dialogue: 99,0:00:16.83,0:00:18.58,Dialogue,Yume,0,0,0,,Deci, așteaptă-mă, bine?
+Dialogue: 99,0:00:18.71,0:00:21.04,Dialogue,Kojou,0,0,0,,Ce? Pentru ce anume să te aștept?
+Dialogue: 99,0:00:22.71,0:00:25.84,Dialogue,Yume,0,0,0,,Mi-ai... promis, nu-i așa?
+Dialogue: 99,0:00:25.84,0:00:29.88,Dialogue,Yume,0,0,0,,Că mă vei face fericită \Npentru tot restul vieții...
+Dialogue: 99,0:00:29.88,0:00:32.05,Dialogue,Yume,0,0,0,,Voi da tot ce pot în orice voi face!
+Dialogue: 99,0:00:34.51,0:00:37.02,Dialogue,Kojou,0,0,0,,Stai, nu la asta mă refeream prin...
+Dialogue: 99,0:00:37.02,0:00:39.19,Dialogue,Yume,0,0,0,,Ce? Nu vorbeai serios?
+Dialogue: 99,0:00:39.19,0:00:41.77,Dialogue,Yaze,0,0,0,,Dle polițist! Avem un escroc aici!
+Dialogue: 99,0:00:41.77,0:00:43.27,Dialogue,Kojou,0,0,0,,{\an8}Hei! Yaze!
+Dialogue: 99,0:00:41.77,0:00:45.44,Dialogue,Yukina,0,0,0,,Doamne... Ce naiba face?
+Dialogue: 99,0:00:45.61,0:00:48.61,Dialogue,Nagisa,0,0,0,,Dar tu, Yukina? \NCe încerci să {\i1}faci{\i0}?
+Dialogue: 99,0:00:50.28,0:00:52.16,Dialogue,Nagisa,0,0,0,,Dacă vrei să-i spui ceva lui Kojou,
+Dialogue: 99,0:00:52.16,0:00:54.24,Dialogue,Nagisa,0,0,0,,doar mergi la el și spune-i.
+Dialogue: 99,0:00:54.99,0:00:58.75,Dialogue,Yukina,0,0,0,,Dar nu pot da buzna pur \Nși simplu în restaurant...
+Dialogue: 99,0:00:58.87,0:01:00.29,Dialogue,Nagisa,0,0,0,,De ce nu?
+Dialogue: 99,0:01:00.29,0:01:03.08,Dialogue,Nagisa,0,0,0,,Nu cred că ar trebui să-ți \Nfaci griji în legătură cu asta.
+Dialogue: 99,0:01:03.08,0:01:04.38,Dialogue,Nagisa,0,0,0,,Nu-i așa, Kanon?
+Dialogue: 99,0:01:04.92,0:01:09.84,Dialogue,Kanon,0,0,0,,Eu... pot spune că o \Nînțeleg puțin pe Yukina.
+Dialogue: 99,0:01:09.84,0:01:11.05,Dialogue,Nagisa,0,0,0,,Serios?
+Dialogue: 99,0:01:11.05,0:01:12.80,Dialogue,Nagisa,0,0,0,,Dar e în regulă.
+Dialogue: 99,0:01:12.80,0:01:15.51,Dialogue,Nagisa,0,0,0,,E destul de amuzant \Nsă te văd astfel, Yukina.
+Dialogue: 99,0:01:15.72,0:01:17.18,Dialogue,Yukina,0,0,0,,Ei bine...
+Dialogue: 99,0:01:17.18,0:01:20.77,Dialogue,Yukina,0,0,0,,Îmi cer scuze că v-am implicat în asta.
+Dialogue: 99,0:01:20.77,0:01:22.19,Dialogue,Kanon,0,0,0,,E în regulă.
+Dialogue: 99,0:01:22.19,0:01:28.74,Dialogue,Kanon,0,0,0,,Mereu mi s-a părut distractiv \Nsă-i privesc împreună astfel.
+Dialogue: 99,0:01:28.74,0:01:31.03,Dialogue,Nagisa,0,0,0,,Vai, e așa de cald.
+Dialogue: 99,0:01:31.03,0:01:33.87,Dialogue,Nagisa,0,0,0,,Voi merge să-mi iau ceva de băut.
+Dialogue: 99,0:01:33.87,0:01:35.33,Dialogue,Nagisa,0,0,0,,Vino cu mine, Kanon.
+Dialogue: 99,0:01:35.33,0:01:36.99,Dialogue,Nagisa,0,0,0,,Tu vrei ceva, Yukina?
+Dialogue: 99,0:01:36.99,0:01:40.29,Dialogue,Yukina,0,0,0,,Ei bine... Eu vreau un \Nceai verde cu gheață.
+Dialogue: 99,0:01:40.29,0:01:42.04,Dialogue,Nagisa,0,0,0,,Bine, am înțeles!
+Dialogue: 99,0:01:46.92,0:01:49.92,Dialogue,Gajou,0,0,0,,Scuză-mă, domnișoara \Nde școală generală.
+Dialogue: 99,0:01:52.13,0:01:54.26,Dialogue,Gajou,0,0,0,,Banca aceea este liberă?
+Dialogue: 99,0:01:54.26,0:01:56.64,Dialogue,Yukina,0,0,0,,Oh, da, este. \NVă puteți așeza.
+Dialogue: 99,0:01:56.76,0:01:57.93,Dialogue,Gajou,0,0,0,,Mulțumesc.
+Dialogue: 99,0:01:57.93,0:01:59.89,Dialogue,Gajou,0,0,0,,Vai, ce bine.
+Dialogue: 99,0:02:01.48,0:02:07.44,Dialogue,Gajou,0,0,0,,Deci ce treabă are o fetiță de școală generală ca tine cu Akatsuki Kojou?
+Dialogue: 99,0:02:07.52,0:02:08.40,Dialogue,Yukina,0,0,0,,Poftim?!
+Dialogue: 99,0:02:08.40,0:02:13.11,Dialogue,Gajou,0,0,0,,Ei bine, te holbai la Kojou \Nde parcă voiai să-l omori.
+Dialogue: 99,0:02:13.11,0:02:18.08,Dialogue,Gajou,0,0,0,,Mă gândeam că poate ești... \Nștii tu, geloasă sau ceva.
+Dialogue: 99,0:02:18.08,0:02:19.08,Dialogue,Gajou,0,0,0,,Am dreptate?
+Dialogue: 99,0:02:19.08,0:02:20.75,Dialogue,Yukina,0,0,0,,Nu!
+Dialogue: 99,0:02:20.75,0:02:25.58,Dialogue,Yukina,0,0,0,,D-Doar îl supraveghez! \NNu sunt geloasă deloc!
+Dialogue: 99,0:02:26.75,0:02:29.00,Dialogue,Gajou,0,0,0,,Supraveghezi... \NSupraveghezi, nu?
+Dialogue: 99,0:02:29.00,0:02:32.80,Dialogue,Gajou,0,0,0,,Așa se numește acum când îl urmărești insistent pe băiatul de care-ți place?
+Dialogue: 99,0:02:32.80,0:02:33.80,Dialogue,Yukina,0,0,0,,Poftim?!
+Dialogue: 99,0:02:33.93,0:02:36.89,Dialogue,Gajou,0,0,0,,„Supraveghezi”! Îmi place! \NCe frumos e să fii tânăr!
+Dialogue: 99,0:02:36.89,0:02:39.22,Dialogue,Gajou,0,0,0,,Vai, o iubire dulce-amară!
+Dialogue: 99,0:02:39.22,0:02:41.39,Dialogue,Yukina,0,0,0,,De ce naiba discutăm despre asta?!
+Dialogue: 99,0:02:41.39,0:02:44.10,Dialogue,Yukina,0,0,0,,Și, mai întâi, cine ești {\i1}tu{\i0}?!
+Dialogue: 99,0:02:44.69,0:02:45.81,Dialogue,Nagisa,0,0,0,,Gajou?!
+Dialogue: 99,0:02:47.23,0:02:49.11,Dialogue,Gajou,0,0,0,,Oh, hei, Nagisa.
+Dialogue: 99,0:02:49.77,0:02:51.69,Dialogue,Kojou,0,0,0,,Chiar ești tu!
+Dialogue: 99,0:02:51.69,0:02:53.61,Dialogue,Kojou,0,0,0,,Ce cauți aici, tată oribil ce ești?!
+Dialogue: 99,0:02:53.74,0:02:55.20,Dialogue,Yukina,0,0,0,,Tată?
+Dialogue: 99,0:02:55.99,0:02:58.83,Dialogue,Yukina,0,0,0,,S-Sunteți tatăl...
+Dialogue: 99,0:03:00.03,0:03:01.62,Dialogue,Yukina,0,0,0,,lui Akatsuki?!
+Dialogue: 99,0:03:03.37,0:03:07.58,Dialogue,Gajou,0,0,0,,Eu sunt tatăl lui Kojou și \NNagisa, Akatsuki Gajou.
+Dialogue: 99,0:03:07.79,0:03:08.96,Dialogue,Gajou,0,0,0,,Încântat de cunoștință.
+Dialogue: 99,0:04:39.76,0:04:42.01,Dialogue,Kojou,0,0,0,,E așa de cald...
+Dialogue: 99,0:04:42.09,0:04:45.52,Dialogue,Kojou,0,0,0,,Hei, Natsuki, astăzi... Au!
+Dialogue: 99,0:04:47.43,0:04:52.86,Dialogue,Natsuki,0,0,0,,Idiotule, nu i te adresa profesoarei tale pe prenume când e deja iritată de la căldura asta nesuferită.
+Dialogue: 99,0:04:55.32,0:04:58.65,Dialogue,Kojou,0,0,0,,Astăzi e Ajunul Anului Nou, nu?
+Dialogue: 99,0:04:58.74,0:05:00.20,Dialogue,Natsuki,0,0,0,,Da, așa este.
+Dialogue: 99,0:05:00.20,0:05:04.37,Dialogue,Kojou,0,0,0,,Atunci, de ce sunt forțat să \Nrecuperez orele chiar acum?
+Dialogue: 99,0:05:04.37,0:05:10.16,Dialogue,Natsuki,0,0,0,,Întreabă-l pe idiotul care a picat testul de refacere din cauza absențelor.
+Dialogue: 99,0:05:10.41,0:05:11.71,Dialogue,Natsuki,0,0,0,,Astarte.
+Dialogue: 99,0:05:11.71,0:05:12.92,Dialogue,Astarte,0,0,0,,Accept.
+Dialogue: 99,0:05:14.21,0:05:15.63,Dialogue,Kojou,0,0,0,,Ești cumva sarcastică?!
+Dialogue: 99,0:05:17.21,0:05:18.59,Dialogue,Natsuki,0,0,0,,Apropo, Akatsuki...
+Dialogue: 99,0:05:19.67,0:05:22.30,Dialogue,Natsuki,0,0,0,,Unde e tatăl tău în acest moment?
+Dialogue: 99,0:05:22.30,0:05:24.43,Dialogue,Kojou,0,0,0,,Nu e pe insula Itogami.
+Dialogue: 99,0:05:24.43,0:05:26.31,Dialogue,Kojou,0,0,0,,Nu e ca și cum el e vreodată aici,
+Dialogue: 99,0:05:26.31,0:05:29.39,Dialogue,Kojou,0,0,0,,dar, în acest moment, vizitează continentul alături de sora mea.
+Dialogue: 99,0:05:29.39,0:05:30.27,Dialogue,Natsuki,0,0,0,,Poftim?
+Dialogue: 99,0:05:30.39,0:05:33.94,Dialogue,Kojou,0,0,0,,Păi, ei bine... cam acum o săptămână?
+Dialogue: 99,0:05:33.94,0:05:36.15,Dialogue,Kojou,0,0,0,,A apărut de nicăieri
+Dialogue: 99,0:05:36.15,0:05:39.15,Dialogue,Kojou,0,0,0,,spunând că o ia pe Nagisa ca s-o viziteze pe bunica în Tanzawa.
+Dialogue: 99,0:05:40.15,0:05:42.41,Dialogue,Natsuki,0,0,0,,Tanzawa... hm...
+Dialogue: 99,0:05:42.61,0:05:43.74,Dialogue,Natsuki,0,0,0,,Înțeleg.
+Dialogue: 99,0:05:44.16,0:05:47.66,Dialogue,Kojou,0,0,0,,Stai puțin, Natsuki... \NÎl cunoști pe tatăl meu?
+Dialogue: 99,0:05:47.66,0:05:49.29,Dialogue,Natsuki,0,0,0,,Din nefericire.
+Dialogue: 99,0:05:49.29,0:05:52.96,Dialogue,Natsuki,0,0,0,,Akatsuki Gajou era de multe \Nori o adevărată bătaie de cap
+Dialogue: 99,0:05:52.96,0:05:54.96,Dialogue,Natsuki,0,0,0,,la cealaltă slujbă a mea.
+Dialogue: 99,0:05:54.96,0:05:57.63,Dialogue,Natsuki,0,0,0,,Dar a fost și util în câteva ocazii rare.
+Dialogue: 99,0:05:57.63,0:05:59.59,Dialogue,Kojou,0,0,0,,Slujba de Magician Ofensiv?
+Dialogue: 99,0:06:00.30,0:06:02.68,Dialogue,Kojou,0,0,0,,Ce naiba făcea acel bătrân nemernic?
+Dialogue: 99,0:06:02.97,0:06:04.43,Dialogue,Natsuki,0,0,0,,Poți lua legătura cu el?
+Dialogue: 99,0:06:04.43,0:06:05.68,Dialogue,Kojou,0,0,0,,Nu sunt sigur.
+Dialogue: 99,0:06:05.97,0:06:08.35,Dialogue,Kojou,0,0,0,,Zona din jurul lacului Kannawa,
+Dialogue: 99,0:06:08.35,0:06:11.77,Dialogue,Kojou,0,0,0,,unde locuiește bunica mea, \Nnu prea are semnal pentru telefoane.
+Dialogue: 99,0:06:12.23,0:06:13.94,Dialogue,Kojou,0,0,0,,Dar de ce întrebi?
+Dialogue: 99,0:06:14.06,0:06:15.44,Dialogue,Kojou,0,0,0,,Ai treabă cu el?
+Dialogue: 99,0:06:15.73,0:06:18.86,Dialogue,Natsuki,0,0,0,,Nu, eram doar puțin curioasă,
+Dialogue: 99,0:06:18.86,0:06:20.19,Dialogue,Natsuki,0,0,0,,dintr-un oarecare motiv.
+Dialogue: 99,0:06:21.82,0:06:25.82,Dialogue,Astarte,0,0,0,,Noi suntem extratereștii...
+Dialogue: 99,0:06:32.46,0:06:33.46,Dialogue,Kojou,0,0,0,,Himeragi?
+Dialogue: 99,0:06:33.46,0:06:34.62,Dialogue,Yukina,0,0,0,,D-Da?
+Dialogue: 99,0:06:34.67,0:06:37.50,Dialogue,Kojou,0,0,0,,Îți voi lăsa aici niște haine de schimb. \NSunt ale lui Nagisa, dar ar trebui să-ți vină.
+Dialogue: 99,0:06:38.17,0:06:40.50,Dialogue,Yukina,0,0,0,,Bine, mersi.
+Dialogue: 99,0:06:43.42,0:06:45.72,Dialogue,Yukina,0,0,0,,Îți mulțumesc că m-ai \Nlăsat să-ți folosesc baia.
+Dialogue: 99,0:06:46.26,0:06:49.56,Dialogue,Kojou,0,0,0,,Scuze că te-am făcut să mă ajuți cu curățenia de final de an.
+Dialogue: 99,0:06:49.56,0:06:50.81,Dialogue,Yukina,0,0,0,,Ei bine, nu am avut de ales.
+Dialogue: 99,0:06:51.18,0:06:53.73,Dialogue,Yukina,0,0,0,,Dacă te-aș fi lăsat singur,
+Dialogue: 99,0:06:53.73,0:06:55.52,Dialogue,Yukina,0,0,0,,nu ai fi terminat înainte \Nde intrarea în noul an.
+Dialogue: 99,0:06:55.69,0:06:58.52,Dialogue,Kojou,0,0,0,,Doamne... La ce naiba se \Ngândește mama mea netoată
+Dialogue: 99,0:06:58.52,0:07:02.03,Dialogue,Kojou,0,0,0,,cu replica ei: „Dacă vrei bani pentru Anul Nou, trebuie să faci curat! He-he!”?
+Dialogue: 99,0:07:02.99,0:07:07.16,Dialogue,Kojou,0,0,0,,Nu e ca și cum i-ar păsa de Anul Nou. Muncește mereu ca în orice altă zi a anului.
+Dialogue: 99,0:07:08.32,0:07:10.28,Dialogue,Yukina,0,0,0,,Voi pregăti tăiețeii pentru Anul Nou.
+Dialogue: 99,0:07:10.70,0:07:13.41,Dialogue,Yukina,0,0,0,,Tu poți face baie între timp.
+Dialogue: 99,0:07:19.34,0:07:20.88,Dialogue,Yukina,0,0,0,,Dna profesoară Minamiya a spus asta?
+Dialogue: 99,0:07:21.21,0:07:25.38,Dialogue,Kojou,0,0,0,,Da. Părea că-și face griji \Npentru Nagisa și tatăl meu.
+Dialogue: 99,0:07:25.68,0:07:30.10,Dialogue,Yukina,0,0,0,,Apropo, a trecut o \Nsăptămână de când au plecat.
+Dialogue: 99,0:07:30.68,0:07:32.89,Dialogue,Yukina,0,0,0,,Ai primit vreo veste de la Nagisa?
+Dialogue: 99,0:07:32.89,0:07:33.85,Dialogue,Kojou,0,0,0,,Nu.
+Dialogue: 99,0:07:34.43,0:07:36.19,Dialogue,Kojou,0,0,0,,Nici tu?
+Dialogue: 99,0:07:36.19,0:07:37.52,Dialogue,Yukina,0,0,0,,Nici eu.
+Dialogue: 99,0:07:37.52,0:07:40.69,Dialogue,Kojou,0,0,0,,Înțeleg... Nici măcar un mesaj, nu?
+Dialogue: 99,0:07:43.69,0:07:45.99,Dialogue,Yaze,0,0,0,,Hei, Kojou. Am venit să te văd.
+Dialogue: 99,0:07:45.99,0:07:48.86,Dialogue,Kojou,0,0,0,,Ce faci aici la ora asta?
+Dialogue: 99,0:07:48.86,0:07:50.32,Dialogue,Yaze,0,0,0,,Ce tot spui acolo?
+Dialogue: 99,0:07:50.32,0:07:53.20,Dialogue,Yaze,0,0,0,,Am spus că vom merge cu toții \Nîmpreună să vizităm altarul.
+Dialogue: 99,0:07:53.20,0:07:55.71,Dialogue,Kojou,0,0,0,,Fir-ar! Scuze, am uitat complet!
+Dialogue: 99,0:07:55.91,0:07:57.25,Dialogue,Kojou,0,0,0,,Unde sunt restul?
+Dialogue: 99,0:07:57.25,0:07:58.79,Dialogue,Yaze,0,0,0,,Vor ajunge și ele imediat.
+Dialogue: 99,0:08:00.04,0:08:00.84,Dialogue,Yaze,0,0,0,,Și uite-le.
+Dialogue: 99,0:08:17.89,0:08:20.02,Dialogue,Kojou,0,0,0,,Cu ce sunteți îmbrăcate?
+Dialogue: 99,0:08:20.02,0:08:22.86,Dialogue,Asagi,0,0,0,,E-Ei bine, e Anul Nou.
+Dialogue: 99,0:08:22.86,0:08:24.69,Dialogue,Asagi,0,0,0,,Așa că ne-am gândit \Nsă ne îmbrăcăm elegant.
+Dialogue: 99,0:08:25.36,0:08:28.65,Dialogue,Kanon,0,0,0,,Ne stă bine, Akatsuki?
+Dialogue: 99,0:08:28.74,0:08:32.37,Dialogue,Kojou,0,0,0,,Dar e o nebunie curată să purtați mânecă lungă pe căldura asta!
+Dialogue: 99,0:08:32.37,0:08:33.41,Dialogue,Kojou,0,0,0,,Sunteți bine?!
+Dialogue: 99,0:08:33.49,0:08:36.58,Dialogue,Yume,0,0,0,,S-Suntem bine.
+Dialogue: 99,0:08:36.58,0:08:38.87,Dialogue,Yume,0,0,0,,Cât timp ne dai niște apă...
+Dialogue: 99,0:08:43.00,0:08:46.34,Dialogue,Yukina,0,0,0,,Aduc acum apă pentru toată lumea. Vă rog să beți oricât aveți nevoie.
+Dialogue: 99,0:08:46.34,0:08:47.80,Dialogue,Kanon,0,0,0,,Yukina?
+Dialogue: 99,0:08:48.26,0:08:50.80,Dialogue,Asagi,0,0,0,,Parcă ești de-a casei deja, Yukina.
+Dialogue: 99,0:08:50.97,0:08:55.14,Dialogue,Yukina,0,0,0,,Oh, ei bine... Nagisa e plecată \Nsă-și viziteze bunica,
+Dialogue: 99,0:08:55.14,0:08:58.68,Dialogue,Yukina,0,0,0,,așa că l-am ajutat pe Akatsuki cu curățenia de sfârșit de an și cu tăiețeii pentru Anul Nou.
+Dialogue: 99,0:09:04.40,0:09:09.90,Dialogue,Yaze,0,0,0,,Ia te uită, proaspăt ieșiți din baie și mirosind a același șampon...
+Dialogue: 99,0:09:09.90,0:09:12.62,Dialogue,Yaze,0,0,0,,Stai puțin! Ați făcut \Ncumva baie împreună...
+Dialogue: 99,0:09:13.12,0:09:14.49,Dialogue,Kojou,0,0,0,,Ce naiba spui acolo?!
+Dialogue: 99,0:09:14.49,0:09:16.08,Dialogue,Asagi,0,0,0,,Avem un copil aici!
+Dialogue: 99,0:09:16.08,0:09:17.54,Dialogue,Yaze,0,0,0,,Hei, m-a durut!
+Dialogue: 99,0:09:17.54,0:09:20.33,Dialogue,Yaze,0,0,0,,Era o simplă glumiță pentru a \Nmai înveseli puțin atmosfera!
+Dialogue: 99,0:09:21.33,0:09:22.67,Dialogue,Kojou,0,0,0,,Oricum...
+Dialogue: 99,0:09:22.67,0:09:24.96,Dialogue,Kojou,0,0,0,,Himeragi și cu mine vom \Nmerge să ne pregătim,
+Dialogue: 99,0:09:24.96,0:09:26.30,Dialogue,Kojou,0,0,0,,așa că fiți cuminți și așteptați-ne.
+Dialogue: 99,0:09:26.30,0:09:28.21,Dialogue,Kojou,0,0,0,,Oh, da... Aerul condiționat...
+Dialogue: 99,0:09:30.42,0:09:31.63,Dialogue,Yukina,0,0,0,,Tocmai l-am oprit.
+Dialogue: 99,0:09:31.63,0:09:32.89,Dialogue,Kojou,0,0,0,,Mersi, Himeragi.
+Dialogue: 99,0:09:33.39,0:09:35.47,Dialogue,Yaze,0,0,0,,Parcă ar fi proaspăt căsătoriți.
+Dialogue: 99,0:09:35.47,0:09:39.18,Dialogue,Asagi,0,0,0,,Motoki, căldura asta mă \Nirită deja destul de tare.
+Dialogue: 99,0:09:39.18,0:09:41.89,Dialogue,Yaze,0,0,0,,Atunci, de ce nu mergi să \Nte schimbi alături de el?
+Dialogue: 99,0:09:46.11,0:09:49.07,Dialogue,Kojou,0,0,0,,E Nagisa. În sfârșit...
+Dialogue: 99,0:09:49.82,0:09:50.78,Dialogue,Kojou,0,0,0,,Ăsta este...
+Dialogue: 99,0:09:53.99,0:09:55.37,Dialogue,Yukina,0,0,0,,Un cerc magic?
+Dialogue: 99,0:09:58.45,0:09:59.54,Dialogue,All,0,0,0,,Trei!
+Dialogue: 99,0:09:59.66,0:10:00.50,Dialogue,All,0,0,0,,Doi!
+Dialogue: 99,0:10:00.62,0:10:01.46,Dialogue,All,0,0,0,,Unu!
+Dialogue: 99,0:10:01.75,0:10:04.42,Dialogue,All,0,0,0,,Zero!
+Dialogue: 99,0:10:04.42,0:10:06.38,Dialogue,Guy,0,0,0,,An Nou fericit!
+Dialogue: 99,0:10:05.79,0:10:07.59,Dialogue,Guy,0,0,0,,{\an8}An Nou fericit!
+Dialogue: 99,0:10:09.00,0:10:12.13,Dialogue,Asagi,0,0,0,,Hei, Kojou, ce e cu fața asta?
+Dialogue: 99,0:10:12.13,0:10:15.30,Dialogue,Asagi,0,0,0,,Nu știm sigur dacă \NNagisa a pățit sau nu ceva.
+Dialogue: 99,0:10:15.59,0:10:18.85,Dialogue,Kojou,0,0,0,,Știu! Nu-mi fac griji sau ceva!
+Dialogue: 99,0:10:18.85,0:10:20.52,Dialogue,Asagi,0,0,0,,Da, sigur.
+Dialogue: 99,0:10:20.85,0:10:22.98,Dialogue,Asagi,0,0,0,,Ei bine, ia-o înainte și roagă-te.
+Dialogue: 99,0:10:22.98,0:10:25.44,Dialogue,Asagi,0,0,0,,Se spune că rugăciunile spuse la acest altar ajung să se îndeplinească.
+Dialogue: 99,0:10:39.41,0:10:40.49,Dialogue,Kojou,0,0,0,,Încă o dată!
+Dialogue: 99,0:10:47.33,0:10:48.63,Dialogue,Kanon,0,0,0,,Akatsuki...
+Dialogue: 99,0:10:48.88,0:10:50.63,Dialogue,Yume,0,0,0,,Vrei să facem schimb?
+Dialogue: 99,0:10:50.71,0:10:52.55,Dialogue,Yukina,0,0,0,,E-E în regulă!
+Dialogue: 99,0:10:52.55,0:10:56.22,Dialogue,Yukina,0,0,0,,Dacă ești în cel mai prost moment al tău, \Nasta înseamnă că nu se poate mai rău!
+Dialogue: 99,0:10:56.22,0:11:01.14,Dialogue,Asagi,0,0,0,,Da. Poate că Nagisa e mai norocoasă cu cât ești tu mai ghinionist!
+Dialogue: 99,0:11:04.14,0:11:08.56,Dialogue,Kojou,0,0,0,,Nu ne va spune că erau \Ndoar niște artificii, nu?
+Dialogue: 99,0:11:08.56,0:11:11.15,Dialogue,Asagi,0,0,0,,Chiar mă îndoiesc de asta,
+Dialogue: 99,0:11:11.15,0:11:14.57,Dialogue,Asagi,0,0,0,,dar informația digitală poate fi alterată în tot felul de moduri.
+Dialogue: 99,0:11:14.57,0:11:16.99,Dialogue,Asagi,0,0,0,,Nu ar trebui să-ți bați capul prea mult.
+Dialogue: 99,0:11:19.20,0:11:20.66,Dialogue,Kojou,0,0,0,,Hei, Himeragi...
+Dialogue: 99,0:11:21.16,0:11:23.25,Dialogue,Kojou,0,0,0,,Dacă ăsta e un cerc magic,
+Dialogue: 99,0:11:23.25,0:11:26.00,Dialogue,Kojou,0,0,0,,ai idee ce fel de efect ar putea avea?
+Dialogue: 99,0:11:26.00,0:11:30.17,Dialogue,Yukina,0,0,0,,Îmi pare rău. Eu nu-mi pot da seama, dar Sayaka ar putea ști.
+Dialogue: 99,0:11:30.17,0:11:31.63,Dialogue,Kojou,0,0,0,,Kirasaka?
+Dialogue: 99,0:11:32.88,0:11:35.05,Dialogue,Kojou,0,0,0,,Acum că spui asta, acest \Ncerc magic arată precum...
+Dialogue: 99,0:11:35.97,0:11:38.59,Dialogue,Yukina,0,0,0,,...Balanța Strălucitoare al lui Sayaka, da.
+Dialogue: 99,0:11:38.80,0:11:41.76,Dialogue,Kojou,0,0,0,,Mai există persoane \Ncare au un arc ca al ei?
+Dialogue: 99,0:11:41.76,0:11:44.22,Dialogue,Yukina,0,0,0,,Nu, sunt greu de folosit.
+Dialogue: 99,0:11:44.22,0:11:47.73,Dialogue,Yukina,0,0,0,,Am auzit că Sayaka e singura care a reușit să-l stăpânească.
+Dialogue: 99,0:11:48.35,0:11:48.94,Dialogue,Yukina,0,0,0,,Dar...
+Dialogue: 99,0:11:49.36,0:11:51.44,Dialogue,Yukina,0,0,0,,Am auzit și că există un \Nmodel produs în masă
+Dialogue: 99,0:11:51.44,0:11:55.32,Dialogue,Yukina,0,0,0,,care a fost simplificat \Npentru a fi mai uor de folosit.
+Dialogue: 99,0:11:55.53,0:11:57.78,Dialogue,Yukina,0,0,0,,Dar e doar un zvon.
+Dialogue: 99,0:11:57.78,0:11:59.07,Dialogue,Kojou,0,0,0,,O voi contacta ca s-o întreb.
+Dialogue: 99,0:12:00.24,0:12:01.91,Dialogue,Asagi,0,0,0,,Pe cine sună?
+Dialogue: 99,0:12:01.91,0:12:03.49,Dialogue,Yukina,0,0,0,,Sayaka.
+Dialogue: 99,0:12:03.49,0:12:06.96,Dialogue,Yukina,0,0,0,,Știe multe despre genul \Nacela de cercuri magice.
+Dialogue: 99,0:12:06.96,0:12:09.83,Dialogue,Asagi,0,0,0,,Cum de are numărul lui Kirasaka?
+Dialogue: 99,0:12:09.83,0:12:11.04,Dialogue,Yukina,0,0,0,,Nu am idee...
+Dialogue: 99,0:12:12.50,0:12:13.80,Dialogue,Kojou,0,0,0,,Nu răspunde.
+Dialogue: 99,0:12:13.80,0:12:16.88,Dialogue,Kojou,0,0,0,,De fapt, îmi spune că \Nnumărul nu e folosit.
+Dialogue: 99,0:12:17.05,0:12:18.80,Dialogue,Yukina,0,0,0,,În acest caz, telefonul lui Sayaka...
+Dialogue: 99,0:12:18.80,0:12:20.14,Dialogue,Kojou,0,0,0,,Hei, Himeragi!
+Dialogue: 99,0:12:20.47,0:12:22.97,Dialogue,Kojou,0,0,0,,Există vreo altă \Nmetodă de a o contacta?
+Dialogue: 99,0:12:22.97,0:12:24.10,Dialogue,Asagi,0,0,0,,Hei!
+Dialogue: 99,0:12:24.31,0:12:26.93,Dialogue,Asagi,0,0,0,,Știu că-ți faci griji pentru Nagisa,
+Dialogue: 99,0:12:26.93,0:12:28.94,Dialogue,Asagi,0,0,0,,dar nu e frumos să apuci o fată astfel!
+Dialogue: 99,0:12:29.19,0:12:31.48,Dialogue,Kojou,0,0,0,,Scuze, Himeragi. \NNu gândeam limpede.
+Dialogue: 99,0:12:31.48,0:12:32.73,Dialogue,Yukina,0,0,0,,E în regulă.
+Dialogue: 99,0:12:32.73,0:12:35.53,Dialogue,Yukina,0,0,0,,Și eu îmi fac griji pentru Nagisa.
+Dialogue: 99,0:12:37.28,0:12:39.15,Dialogue,Asagi,0,0,0,,Se pare că nu am de ales.
+Dialogue: 99,0:12:39.53,0:12:40.45,Dialogue,Kojou,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:12:41.57,0:12:43.66,Dialogue,Asagi,0,0,0,,H-Hei, Kojou...
+Dialogue: 99,0:12:44.28,0:12:48.62,Dialogue,Asagi,0,0,0,,Părinții mei nu vor fi acasă în seara asta.
+Dialogue: 99,0:12:50.46,0:12:51.75,Dialogue,Asagi,0,0,0,,Deci ai vrea să vii pe la mine?
+Dialogue: 99,0:12:55.67,0:12:58.30,Dialogue,Kojou,0,0,0,,C-Ce?
+Dialogue: 99,0:13:05.35,0:13:07.93,Dialogue,Asagi,0,0,0,,I-am găsit! Ei sunt \NNagisa și tatăl tău, nu?
+Dialogue: 99,0:13:08.06,0:13:09.69,Dialogue,Kojou,0,0,0,,Camerele de securitate, nu?
+Dialogue: 99,0:13:09.69,0:13:12.44,Dialogue,Kojou,0,0,0,,Am înțeles. Așa vom \Nputea vedea unde au mers.
+Dialogue: 99,0:13:12.44,0:13:18.28,Dialogue,Yukina,0,0,0,,Oh, înțeleg... Deci la asta se referea.
+Dialogue: 99,0:13:18.28,0:13:19.03,Dialogue,Kojou,0,0,0,,Ce vrei să spui?
+Dialogue: 99,0:13:19.03,0:13:21.32,Dialogue,Yukina,0,0,0,,Nimic! Nu mai contează!
+Dialogue: 99,0:13:22.78,0:13:25.28,Dialogue,Mogwai,0,0,0,,{\i1}Tatăl ei a închiriat o \Nmașină de la aeroport...
+Dialogue: 99,0:13:25.58,0:13:27.24,Dialogue,Mogwai,0,0,0,,{\i1}folosind un nume fals.
+Dialogue: 99,0:13:27.41,0:13:29.12,Dialogue,Kojou,0,0,0,,De ce sub un nume fals?
+Dialogue: 99,0:13:29.12,0:13:32.21,Dialogue,ASagi,0,0,0,,Au plecat cu mașina din Haneda pe autostrada metropolitană care duce spre Tokyo...
+Dialogue: 99,0:13:32.71,0:13:35.13,Dialogue,Asagi,0,0,0,,Dar au făcut o mică oprire \Nfix înainte de Shibuya.
+Dialogue: 99,0:13:35.13,0:13:36.21,Dialogue,Kojou,0,0,0,,Shibuya?
+Dialogue: 99,0:13:36.80,0:13:39.97,Dialogue,Mogwai,0,0,0,,{\i1}Există o înregistrare cu ei făcând cumpărături la un magazin secondhand din Harajuku.
+Dialogue: 99,0:13:40.38,0:13:42.43,Dialogue,Mogwai,0,0,0,,{\i1}S-au oprit și să mănânce o prăjitură.
+Dialogue: 99,0:13:43.01,0:13:45.64,Dialogue,Asagi,0,0,0,,Apoi, s-au cazat la un hotel și...
+Dialogue: 99,0:13:45.64,0:13:47.93,Dialogue,Asagi,0,0,0,,Ce e acest loc? Un bar de striptease?
+Dialogue: 99,0:13:47.93,0:13:49.14,Dialogue,Kojou,0,0,0,,Stai, cu Nagisa?!
+Dialogue: 99,0:13:49.39,0:13:50.98,Dialogue,Asagi,0,0,0,,Nu, e singur.
+Dialogue: 99,0:13:50.98,0:13:52.60,Dialogue,Kojou,0,0,0,,Acel nemernic!
+Dialogue: 99,0:13:53.15,0:13:55.77,Dialogue,Mogwai,0,0,0,,{\i1}Și-au petrecut următoarea \Nzi la un parc de distracții
+Dialogue: 99,0:13:55.77,0:13:58.36,Dialogue,Mogwai,0,0,0,,{\i1}și s-au cazat la un hotel \Ndin incinta acestuia.
+Dialogue: 99,0:13:58.36,0:14:01.32,Dialogue,Kojou,0,0,0,,Chiar are vreun rost să ne uităm peste toate aceste înregistrări?
+Dialogue: 99,0:14:01.32,0:14:05.28,Dialogue,Mogwai,0,0,0,,{\i1}Oh, se pare că în sfârșit s-au pus pe treabă în următoarea zi.
+Dialogue: 99,0:14:05.28,0:14:06.78,Dialogue,Kojou,0,0,0,,În sfârșit?
+Dialogue: 99,0:14:06.78,0:14:10.04,Dialogue,Yukina,0,0,0,,Data e aceeași cu cea \Na mesajului lui Nagisa.
+Dialogue: 99,0:14:10.70,0:14:12.04,Dialogue,Asagi,0,0,0,,Asta e ciudat.
+Dialogue: 99,0:14:12.33,0:14:13.67,Dialogue,Asagi,0,0,0,,Ai observat, Mogwai?
+Dialogue: 99,0:14:13.67,0:14:14.54,Dialogue,Mogwai,0,0,0,,{\i1}Da.
+Dialogue: 99,0:14:14.54,0:14:16.25,Dialogue,Kojou,0,0,0,,Ciudat? Ce e ciudat?
+Dialogue: 99,0:14:16.71,0:14:19.09,Dialogue,Asagi,0,0,0,,Se deplasează mult prea lejer.
+Dialogue: 99,0:14:19.09,0:14:23.51,Dialogue,Asagi,0,0,0,,E Anul Nou și nu au fost \Nprinși în trafic nici măcar o dată.
+Dialogue: 99,0:14:23.51,0:14:27.51,Dialogue,Asagi,0,0,0,,De parcă toate celelalte mașini \Nevită ruta spre Kannawa.
+Dialogue: 99,0:14:27.85,0:14:29.93,Dialogue,Kojou,0,0,0,,Nu ar putea fi o simplă coincidență?
+Dialogue: 99,0:14:29.93,0:14:32.98,Dialogue,Yukina,0,0,0,,{\i1}Oare a pus cineva o barieră \Npentru respingerea oamenilor?
+Dialogue: 99,0:14:33.23,0:14:38.19,Dialogue,Yukina,0,0,0,,{\i1}Dar ar fi nevoie de o organizare masivă pentru a pune o barieră de acest nivel.
+Dialogue: 99,0:14:38.44,0:14:41.11,Dialogue,Mogwai,0,0,0,,{\i1}Am înțeles. Cred că mi-am \Ndat seama de șmecherie.
+Dialogue: 99,0:14:41.11,0:14:43.15,Dialogue,Mogwai,0,0,0,,{\i1}Forțele Armate Japoneze sunt implicate.
+Dialogue: 99,0:14:43.15,0:14:45.61,Dialogue,Mogwai,0,0,0,,{\i1}Se îndreaptă spre lacul Kannawa sub pretextul oferirii de ajutor
+Dialogue: 99,0:14:45.61,0:14:47.41,Dialogue,Mogwai,0,0,0,,{\i1}în urma ninsorilor și \Nalunecărilor de teren.
+Dialogue: 99,0:14:47.66,0:14:48.62,Dialogue,Kojou,0,0,0,,Forțele Armate Japoneze?
+Dialogue: 99,0:14:48.78,0:14:52.87,Dialogue,Mogwai,0,0,0,,{\i1}Dar organizația care \Ntrage sforile este CDM,
+Dialogue: 99,0:14:52.87,0:14:55.12,Dialogue,Mogwai,0,0,0,,{\i1}cunoscută drept Controlul \NDezastrelor Magice.
+Dialogue: 99,0:14:55.37,0:14:56.63,Dialogue,Yukina,0,0,0,,CDM?
+Dialogue: 99,0:14:57.58,0:14:59.80,Dialogue,Yukina,0,0,0,,Nu... Dar de ce...
+Dialogue: 99,0:14:59.80,0:15:00.59,Dialogue,Kojou,0,0,0,,Himeragi?
+Dialogue: 99,0:15:00.71,0:15:01.88,Dialogue,Asagi,0,0,0,,Ce s-a întâmplat?
+Dialogue: 99,0:15:03.88,0:15:05.38,Dialogue,Yukina,0,0,0,,Vă rog să mă scuzați!
+Dialogue: 99,0:15:06.80,0:15:09.26,Dialogue,Kojou,0,0,0,,Hei, Himeragi! Unde te duci?!
+Dialogue: 99,0:15:09.26,0:15:10.18,Dialogue,Asagi,0,0,0,,Așteaptă, Kojou!
+Dialogue: 99,0:15:10.93,0:15:14.64,Dialogue,Kojou,0,0,0,,Mersi, Asagi! Ne-ai fost de mare ajutor! \NÎți rămân dator cu a te scoate la cină sau ceva!
+Dialogue: 99,0:15:16.65,0:15:19.06,Dialogue,Asagi,0,0,0,,Doamne, ce se petrece?
+Dialogue: 99,0:15:20.40,0:15:23.03,Dialogue,Kojou,0,0,0,,Hei, Himeragi! Ce te-a apucat?
+Dialogue: 99,0:15:23.11,0:15:25.32,Dialogue,Yukina,0,0,0,,Nu veni după mine!
+Dialogue: 99,0:15:25.32,0:15:27.49,Dialogue,Yukina,0,0,0,,Trebuie să aflu cu certitudine.
+Dialogue: 99,0:15:27.91,0:15:29.74,Dialogue,Kojou,0,0,0,,Ce anume?
+Dialogue: 99,0:15:29.74,0:15:35.41,Dialogue,Yukina,0,0,0,,CDM e una din organizațiile fantomă aflate în subordinea Organizației Regele Leu.
+Dialogue: 99,0:15:35.83,0:15:37.75,Dialogue,Kojou,0,0,0,,Organizației Regele Leu?
+Dialogue: 99,0:15:37.75,0:15:41.63,Dialogue,Kojou,0,0,0,,Ce înseamnă asta? E numită Controlul Dezastrelor Magice, nu?
+Dialogue: 99,0:15:41.63,0:15:45.42,Dialogue,Kojou,0,0,0,,Deci Nagisa a fost implicată \Nîntr-un dezastru magic?
+Dialogue: 99,0:15:45.55,0:15:47.89,Dialogue,Yukina,0,0,0,,Sau ei au implicat-o într-unul...
+Dialogue: 99,0:15:48.51,0:15:50.85,Dialogue,Yukina,0,0,0,,De asta trebuie să merg și să aflu cu certitudine.
+Dialogue: 99,0:15:51.93,0:15:53.47,Dialogue,Kojou,0,0,0,,La acel magazin de antichități?
+Dialogue: 99,0:15:53.97,0:15:56.39,Dialogue,Kojou,0,0,0,,Cel unde erau dna profesoară pisică și acea păpușă cu Kirasaka?
+Dialogue: 99,0:16:00.65,0:16:03.57,Dialogue,Kojou,0,0,0,,Credeam că se află în zona asta...
+Dialogue: 99,0:16:04.74,0:16:07.57,Dialogue,Yukina,0,0,0,,Bariera a fost schimbată.
+Dialogue: 99,0:16:07.57,0:16:09.99,Dialogue,Yukina,0,0,0,,Nici eu nu o pot descifra acum.
+Dialogue: 99,0:16:10.70,0:16:12.74,Dialogue,Yukina,0,0,0,,Dacă asta e ceea ce vor...
+Dialogue: 99,0:16:14.33,0:16:15.33,Dialogue,Kojou,0,0,0,,Himeragi?
+Dialogue: 99,0:16:15.33,0:16:17.33,Dialogue,Yukina,0,0,0,,Akatsuki, te rog să stai în spate.
+Dialogue: 99,0:16:17.66,0:16:18.92,Dialogue,Yukina,0,0,0,,Lupul Viscolului!
+Dialogue: 99,0:16:24.46,0:16:26.01,Dialogue,Kojou,0,0,0,,Asta a fost puțin cam exagerat...
+Dialogue: 99,0:16:26.01,0:16:27.47,Dialogue,Yukina,0,0,0,,E o urgență!
+Dialogue: 99,0:16:30.72,0:16:33.47,Dialogue,Kojou,0,0,0,,Se pare că magazin e închis.
+Dialogue: 99,0:16:33.47,0:16:35.39,Dialogue,Kojou,0,0,0,,Bănuiesc că e normal din \Nmoment ce am intrat în Noul An.
+Dialogue: 99,0:16:44.07,0:16:45.53,Dialogue,Kojou,0,0,0,,Hei, Himeragi!
+Dialogue: 99,0:16:45.53,0:16:46.86,Dialogue,Yukina,0,0,0,,Nu încerca să mă oprești!
+Dialogue: 99,0:16:46.86,0:16:48.24,Dialogue,Kojou,0,0,0,,Nu-ți mai bate capul! Liniștește-te!
+Dialogue: 99,0:16:48.24,0:16:49.20,Dialogue,Yukina,0,0,0,,Dă-mi drumul!
+Dialogue: 99,0:16:49.20,0:16:52.16,Dialogue,Kojou,0,0,0,,Nu are niciun rost să intrăm \Nînăuntru dacă nu e nimeni!
+Dialogue: 99,0:16:52.16,0:16:53.16,Dialogue,Yukina,0,0,0,,Dar...
+Dialogue: 99,0:16:53.16,0:16:56.04,Dialogue,Kojou,0,0,0,,Dacă nimeni nu ți-a spus nimic,
+Dialogue: 99,0:16:56.04,0:17:00.29,Dialogue,Kojou,0,0,0,,asta înseamnă că Organizația Regele Leu te-a lăsat intenționat pe dinafară.
+Dialogue: 99,0:17:00.54,0:17:02.75,Dialogue,Kojou,0,0,0,,Asta ar explica și treaba cu Kirasaka.
+Dialogue: 99,0:17:03.21,0:17:06.51,Dialogue,Yukina,0,0,0,,Cum de poți fi atât de calm acum?!
+Dialogue: 99,0:17:06.59,0:17:10.93,Dialogue,Yukina,0,0,0,,E posibil ca Organizația Regele Leu s-o fi implicat pe Nagisa în ceva teribil!
+Dialogue: 99,0:17:11.26,0:17:14.05,Dialogue,Kojou,0,0,0,,Nu aș spune că sunt calm.
+Dialogue: 99,0:17:14.05,0:17:14.97,Dialogue,Kojou,0,0,0,,Dar...
+Dialogue: 99,0:17:15.43,0:17:20.44,Dialogue,Kojou,0,0,0,,Organizațiile au mereu facțiuni diferite care luptă pentru a obține întreaga putere.
+Dialogue: 99,0:17:20.44,0:17:24.56,Dialogue,Kojou,0,0,0,,Deci, dacă există o latură a Organizației Regele Leu pe care nu o cunoști,
+Dialogue: 99,0:17:24.56,0:17:26.98,Dialogue,Kojou,0,0,0,,nu ai de ce să te simți responsabilă.
+Dialogue: 99,0:17:27.11,0:17:28.49,Dialogue,Yukina,0,0,0,,Akatsuki...
+Dialogue: 99,0:17:28.65,0:17:33.12,Dialogue,Kojou,0,0,0,,Pe lângă asta, Kirasaka \Nnu te-ar trăda niciodată.
+Dialogue: 99,0:17:34.28,0:17:36.66,Dialogue,Yukina,0,0,0,,Ai dreptate...
+Dialogue: 99,0:17:36.66,0:17:40.54,Dialogue,Yukina,0,0,0,,Am înțeles... deci, Akatsuki...
+Dialogue: 99,0:17:40.54,0:17:44.08,Dialogue,Yukina,0,0,0,,aș aprecia dacă mi-ai da drumul acum.
+Dialogue: 99,0:17:44.08,0:17:46.30,Dialogue,Yukina,0,0,0,,Oricum, unde crezi că mă atingi?
+Dialogue: 99,0:17:46.30,0:17:47.75,Dialogue,Kojou,0,0,0,,Oh, scuze!
+Dialogue: 99,0:17:47.75,0:17:52.43,Dialogue,Yukina,0,0,0,,Nu, e în regulă. \NDe la mine a pornit totul.
+Dialogue: 99,0:17:52.93,0:17:57.31,Dialogue,Kojou,0,0,0,,Dar bănuiesc că încă nu știm ce intenționează să facă Organizația Regele Leu, nu?
+Dialogue: 99,0:17:57.31,0:17:58.89,Dialogue,Kojou,0,0,0,,Deci ne-am întors \Nde unde am plecat.
+Dialogue: 99,0:17:58.89,0:18:01.44,Dialogue,Kiriha,0,0,0,,Pari destul de afectat, \Nal IV-lea Străbun.
+Dialogue: 99,0:18:03.35,0:18:04.86,Dialogue,Kojou,0,0,0,,Kisaki Kiriha!
+Dialogue: 99,0:18:04.86,0:18:06.19,Dialogue,Kiriha,0,0,0,,Îmi cer scuze că vă întrerup
+Dialogue: 99,0:18:06.19,0:18:09.57,Dialogue,Kiriha,0,0,0,,când vă îmbrățișați atât de pasional pe o stradă plină cu hoteluri pentru îndrăgostiți
+Dialogue: 99,0:18:09.57,0:18:11.19,Dialogue,Kiriha,0,0,0,,în prima zi a noului an.
+Dialogue: 99,0:18:11.19,0:18:12.95,Dialogue,Yukina,0,0,0,,Ce?! Nu e deloc așa!
+Dialogue: 99,0:18:12.95,0:18:14.57,Dialogue,Kojou,0,0,0,,Nu stăteam îmbrățișați!
+Dialogue: 99,0:18:14.57,0:18:16.83,Dialogue,Kojou,0,0,0,,Oricum, ce treabă ai cu noi?!
+Dialogue: 99,0:18:17.12,0:18:18.62,Dialogue,Kiriha,0,0,0,,Vreți să aflați
+Dialogue: 99,0:18:18.62,0:18:23.37,Dialogue,Kiriha,0,0,0,,ce face Organizația Regele \NLeu la lacul Kannawa, nu?
+Dialogue: 99,0:18:24.46,0:18:26.84,Dialogue,Kiriha,0,0,0,,Vă voi spune.
+Dialogue: 99,0:18:28.13,0:18:32.84,Dialogue,Kiriha,0,0,0,,Desigur, odată ce aflați, \Ns-ar putea să regretați.
+Dialogue: 99,0:18:37.85,0:18:40.06,Dialogue,Nurse,0,0,0,,Bun, asta va durea puțin.
+Dialogue: 99,0:18:45.06,0:18:47.61,Dialogue,Asagi,0,0,0,,E așa o bătaie de cap să \Nfac asta de fiecare dată.
+Dialogue: 99,0:18:47.61,0:18:49.98,Dialogue,Asagi,0,0,0,,Știu că e necesar din moment ce ne aflăm într-un distrct cu demoni, dar...
+Dialogue: 99,0:18:51.23,0:18:52.94,Dialogue,Mogwai,0,0,0,,{\i1}Ești foarte curajoasă, domniță,
+Dialogue: 99,0:18:53.57,0:18:57.07,Dialogue,Mogwai,0,0,0,,{\i1}să mergi până pe continent \Nca să-l ajuți pe Kojou.
+Dialogue: 99,0:18:57.07,0:18:59.70,Dialogue,Asagi,0,0,0,,Nu o fac pentru el, bine?!
+Dialogue: 99,0:18:59.70,0:19:02.95,Dialogue,Asagi,0,0,0,,Și sora mea locuiește pe \Ncontinent și vreau s-o văd.
+Dialogue: 99,0:19:03.04,0:19:05.33,Dialogue,Asagi,0,0,0,,Și m-am gândit să dau și de \NNagisa dacă tot ajung acolo.
+Dialogue: 99,0:19:05.33,0:19:06.08,Dialogue,Mogwai,0,0,0,,{\i1}Oh?
+Dialogue: 99,0:19:06.08,0:19:08.59,Dialogue,Asagi,0,0,0,,Ține-ți gura, bine?! \NE timpul să mergem!
+Dialogue: 99,0:19:08.59,0:19:10.63,Dialogue,Asagi,0,0,0,,Poarta 4, nu?
+Dialogue: 99,0:19:11.38,0:19:13.51,Dialogue,Mogwai,0,0,0,,{\i1}Avem probleme. \NA venit paza insulei.
+Dialogue: 99,0:19:13.72,0:19:14.67,Dialogue,Asagi,0,0,0,,Ce?
+Dialogue: 99,0:19:14.67,0:19:16.76,Dialogue,Mogwai,0,0,0,,{\i1}Sunt pe urmele tale sută la sută.
+Dialogue: 99,0:19:16.97,0:19:19.85,Dialogue,Mogwai,0,0,0,,{\i1}Vei fi complet înconjurată într-un minut și patruzeci de secunde.
+Dialogue: 99,0:19:20.31,0:19:21.93,Dialogue,Asagi,0,0,0,,Cred că-ți bați joc de mine!
+Dialogue: 99,0:19:21.93,0:19:25.35,Dialogue,Mogwai,0,0,0,,{\i1}Poți ajunge la pista de rulare pe niște scări aflate la 60 de metri în față.
+Dialogue: 99,0:19:25.35,0:19:26.60,Dialogue,Mogwai,0,0,0,,{\i1}Apoi, restul va depinde de noroc.
+Dialogue: 99,0:19:26.69,0:19:30.82,Dialogue,Asagi,0,0,0,,La naiba! De ce am parte \Nde asta în prima zi din an?!
+Dialogue: 99,0:19:31.61,0:19:34.61,Dialogue,Kojou,0,0,0,,Ești sigură că vrei să vii cu mine?
+Dialogue: 99,0:19:34.90,0:19:37.82,Dialogue,Yukina,0,0,0,,Sunt supraveghetoarea ta, știi?
+Dialogue: 99,0:19:38.16,0:19:43.08,Dialogue,Yukina,0,0,0,,Dacă vrei să părăsești insula în mod ilegal cu ajutorul dnei profesoare Minamiya,
+Dialogue: 99,0:19:43.08,0:19:45.25,Dialogue,Yukina,0,0,0,,atunci, e evident că vin cu tine.
+Dialogue: 99,0:19:45.25,0:19:47.08,Dialogue,Kojou,0,0,0,,Dar vom comite o ilegalitate.
+Dialogue: 99,0:19:47.62,0:19:50.09,Dialogue,Yukina,0,0,0,,Spui asta abia {\i1}acum{\i0}?
+Dialogue: 99,0:19:52.17,0:19:53.34,Dialogue,Kojou,0,0,0,,Ai dreptate.
+Dialogue: 99,0:19:56.09,0:19:59.76,Dialogue,Kojou,0,0,0,,Și casa lui Asagi e mare, \Ndar asta e la cu totul alt nivel.
+Dialogue: 99,0:20:03.18,0:20:04.60,Dialogue,Astarte,0,0,0,,An Nou fericit.
+Dialogue: 99,0:20:04.85,0:20:07.14,Dialogue,Kojou,0,0,0,,Ne-am urat deja asta!
+Dialogue: 99,0:20:07.14,0:20:08.35,Dialogue,Kojou,0,0,0,,Și de ce ești dezbrăcată?!
+Dialogue: 99,0:20:08.35,0:20:11.82,Dialogue,Kanon,0,0,0,,Nu, Astarte! Nu ar trebui să \Nalergi dezbrăcată prin casă!
+Dialogue: 99,0:20:19.57,0:20:20.49,Dialogue,Kojou,0,0,0,,Scuze...
+Dialogue: 99,0:20:20.82,0:20:23.12,Dialogue,Kojou,0,0,0,,D-Doar ce ați ieșit din baie, nu?
+Dialogue: 99,0:20:23.12,0:20:25.83,Dialogue,Yukina,0,0,0,,Cât mai ai de gând să te holbezi la ele?
+Dialogue: 99,0:20:26.12,0:20:28.96,Dialogue,Yukina,0,0,0,,Akatsuki, ești așa...
+Dialogue: 99,0:20:29.29,0:20:31.29,Dialogue,Yukina,0,0,0,,un pervers!
+Dialogue: 99,0:20:29.67,0:20:31.29,Dialogue,Kojou,0,0,0,,{\an8}Stai, stai, stai!
+Dialogue: 99,0:20:34.67,0:20:36.63,Dialogue,Natsuki,0,0,0,,Deci ai dat buzna în casa cuiva
+Dialogue: 99,0:20:36.63,0:20:39.72,Dialogue,Natsuki,0,0,0,,și te-ai comportat ca un abuzator \Nsexual în prima zi din an?
+Dialogue: 99,0:20:39.93,0:20:42.01,Dialogue,Kojou,0,0,0,,Încă-mi scoți ochii cu asta?
+Dialogue: 99,0:20:42.01,0:20:44.81,Dialogue,Kojou,0,0,0,,Cred că am plătit deja cu vârf \Nși îndesat pentru faptele mele.
+Dialogue: 99,0:20:46.06,0:20:47.98,Dialogue,Natsuki,0,0,0,,Atunci, de ce ești aici?
+Dialogue: 99,0:20:47.98,0:20:50.31,Dialogue,Natsuki,0,0,0,,Să-mi ceri bani pentru Noul An?
+Dialogue: 99,0:20:50.31,0:20:51.48,Dialogue,Kojou,0,0,0,,Ești pe aproape.
+Dialogue: 99,0:20:52.81,0:20:55.73,Dialogue,Kojou,0,0,0,,Am nevoie de ajutorul tău. \NVreau să merg pe continent.
+Dialogue: 99,0:20:58.40,0:21:01.66,Dialogue,Natsuki,0,0,0,,Atunci, trebuie să mergi la biroul care se ocupă cu asta și să obții o viză.
+Dialogue: 99,0:21:01.66,0:21:04.87,Dialogue,Natsuki,0,0,0,,Dar va trebui să fii înregistrat ca demon înainte să fie aprobată,
+Dialogue: 99,0:21:04.87,0:21:07.54,Dialogue,Natsuki,0,0,0,,ceea ce-ți va dezvălui identitatea.
+Dialogue: 99,0:21:07.54,0:21:09.79,Dialogue,Kojou,0,0,0,,De asta am venit la tine \Nca să-ți cer ajutorul.
+Dialogue: 99,0:21:09.79,0:21:14.54,Dialogue,Kojou,0,0,0,,Tu mă poți scoate cu ușurință de pe insulă fără vreo inspecție, nu?
+Dialogue: 99,0:21:16.38,0:21:18.38,Dialogue,Natsuki,0,0,0,,Chiar dacă aș putea,
+Dialogue: 99,0:21:18.38,0:21:21.72,Dialogue,Natsuki,0,0,0,,nu văd de ce aș fi obligată s-o fac.
+Dialogue: 99,0:21:21.72,0:21:24.01,Dialogue,Kojou,0,0,0,,Chiar și dacă ți-aș spune că \Nviața cuiva depinde de asta?
+Dialogue: 99,0:21:25.43,0:21:28.64,Dialogue,Natsuki,0,0,0,,Nu încerca să-ți bagi nasul în problema de la lacul Kannawa, Akatsuki Kojou.
+Dialogue: 99,0:21:29.35,0:21:32.15,Dialogue,Natsuki,0,0,0,,Indiferent cât de mult îți \Nfaci griji pentru sora ta.
+Dialogue: 99,0:21:32.56,0:21:34.15,Dialogue,Kojou,0,0,0,,Știi despre asta?
+Dialogue: 99,0:21:34.15,0:21:36.82,Dialogue,Kojou,0,0,0,,Atunci, te rog, Natsuki! \NTrebuie să mă ajuți!
+Dialogue: 99,0:21:36.82,0:21:37.86,Dialogue,Natsuki,0,0,0,,Refuz.
+Dialogue: 99,0:21:38.24,0:21:39.36,Dialogue,Kojou,0,0,0,,De ce?!
+Dialogue: 99,0:21:40.24,0:21:43.99,Dialogue,Natsuki,0,0,0,,Chiar am nevoie de un motiv ca să-mi opresc elevul din a încălca legea?
+Dialogue: 99,0:21:47.62,0:21:49.20,Dialogue,Kojou,0,0,0,,Bine. Am înțeles.
+Dialogue: 99,0:21:49.20,0:21:50.41,Dialogue,Yukina,0,0,0,,Akatsuki?
+Dialogue: 99,0:21:51.50,0:21:53.38,Dialogue,Kojou,0,0,0,,E în regulă, Natsuki.
+Dialogue: 99,0:21:53.38,0:21:57.17,Dialogue,Kojou,0,0,0,,Îmi cer scuze că ți-am cerut asta fără să mă gândesc la poziția în care te afli.
+Dialogue: 99,0:21:59.21,0:22:00.22,Dialogue,Yukina,0,0,0,,Akatsuki!
+Dialogue: 99,0:22:00.22,0:22:03.01,Dialogue,Natsuki,0,0,0,,Așteaptă, Akatsuki. \NUnde crezi că mergi?
+Dialogue: 99,0:22:04.39,0:22:05.55,Dialogue,Kojou,0,0,0,,Să cer ajutorul altcuiva.
+Dialogue: 99,0:22:05.55,0:22:06.39,Dialogue,Natsuki,0,0,0,,Nu.
+Dialogue: 99,0:22:22.24,0:22:23.53,Dialogue,Kojou,0,0,0,,Natsuki!
+Dialogue: 99,0:22:23.74,0:22:28.41,Dialogue,Natsuki,0,0,0,,De câte ori ți-am spus să nu mi te mai adresezi cu prenumele?
+Dialogue: 99,0:22:30.12,0:22:31.08,Dialogue,Yukina,0,0,0,,Akatsuki!
+Dialogue: 99,0:22:32.54,0:22:34.04,Dialogue,Natsuki,0,0,0,,Akatsuki Kojou...
+Dialogue: 99,0:22:34.50,0:22:37.29,Dialogue,Natsuki,0,0,0,,Nu-ți voi permite să ajungi pe continent.
 Dialogue: 0,0:08:28.95,0:08:28.99,DedzuyaSigns,,0,0,0,,{=11=34}{\an7\pos(527,-42.13)\c&H3F1812&\blur1\clip(m 266 -58.76 l 601 -3.17 601 2.52 266 -53.07)\p1}m -258 -4 l 71 42 70 -23 -258 -75
 Dialogue: 0,0:08:28.95,0:08:28.99,DedzuyaSigns,,0,0,0,,{=11=33}{\an7\pos(527,-42.13)\c&H411912&\blur1\clip(m 266 -53.82 l 601 1.77 601 7.47 266 -48.12)\p1}m -258 -4 l 71 42 70 -23 -258 -75
 Dialogue: 0,0:08:28.99,0:08:29.03,DedzuyaSigns,,0,0,0,,{=11=34}{\an7\pos(526.99,-39.82)\c&H3F1812&\blur1\clip(m 265.99 -56.44 l 600.99 -0.85 600.99 4.84 265.99 -50.75)\p1}m -258 -4 l 71 42 70 -23 -258 -75

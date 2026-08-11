@@ -30,296 +30,296 @@ Style: ED TL,Free Serif,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.92,0:00:06.60,Dialogue,,0,0,0,,Hei, ești sigur că este în regulă
-Dialogue: 100,0:00:06.60,0:00:08.86,Dialogue,,0,0,0,,să venim și noi la nunta fratelui cu tine?
-Dialogue: 100,0:00:09.33,0:00:12.71,Dialogue,,0,0,0,,Fratele Erich a spus că ar trebui să-mi aduc prietenii dacă am.
-Dialogue: 100,0:00:12.71,0:00:15.90,Dialogue,,0,0,0,,Dar mă bucur că academia este închisă deoarece este vacanța de vară.
-Dialogue: 100,0:00:15.21,0:00:16.60,Dialogue,,0,0,0,,{\an8}Priviți!
-Dialogue: 100,0:00:17.60,0:00:20.10,Dialogue,,0,0,0,,Când voi apărea în această \Nrochie pe care am ales-o,
-Dialogue: 100,0:00:20.10,0:00:24.54,Dialogue,,0,0,0,,sunt sigură că toți nobilii vor vrea să mă ia în serviciul lor!
-Dialogue: 100,0:00:24.83,0:00:27.12,Dialogue,,0,0,0,,Deoarece îți atrage privirea atât de tare!
-Dialogue: 100,0:00:29.52,0:00:33.25,Dialogue,,0,0,0,,Vor veni nobili la nunta fratelui tău?
-Dialogue: 100,0:00:33.25,0:00:33.97,Dialogue,,0,0,0,,Hei.
-Dialogue: 100,0:00:34.20,0:00:37.32,Dialogue,,0,0,0,,Se însoară în familia Brandt, \Ndespre care am auzit că dețin un domeniu,
-Dialogue: 100,0:00:37.32,0:00:39.68,Dialogue,,0,0,0,,deci da, ar trebui să fie măcar câțiva.
-Dialogue: 100,0:00:39.93,0:00:43.14,Dialogue,,0,0,0,,Drumul spre a ajunge în serviciul \Nunui nobil mă așteaptă!
-Dialogue: 100,0:00:48.14,0:00:49.91,Dialogue,,0,0,0,,O, scuză-mă...
-Dialogue: 100,0:00:49.91,0:00:50.69,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:00:51.49,0:00:52.49,Dialogue,,0,0,0,,Er?
-Dialogue: 100,0:00:53.65,0:00:55.71,Dialogue,,0,0,0,,Nu voi avea încredere în așa ceva.
-Dialogue: 100,0:00:55.71,0:00:57.85,Dialogue,,0,0,0,,O navă care zboară pe cer?
-Dialogue: 100,0:00:59.64,0:01:02.08,Dialogue,,0,0,0,,Nu-ți face griji, micuțele Er.
-Dialogue: 100,0:01:06.40,0:01:10.04,Dialogue,,0,0,0,,O aeronavă magică nu se va prăbuși.
-Dialogue: 100,0:01:10.64,0:01:13.73,Dialogue,,0,0,0,,Nu doar prietenii tăi fuseseră invitați?
-Dialogue: 100,0:01:13.73,0:01:18.82,Dialogue,,0,0,0,,Ba da. Brantag merge în capitală ca să dea raportul despre domeniul său,
-Dialogue: 100,0:01:18.82,0:01:21.26,Dialogue,,0,0,0,,deci el doar ne ghidează din moment ce este în drumul său.
-Dialogue: 100,0:01:21.26,0:01:21.97,Dialogue,,0,0,0,,Oh?
-Dialogue: 100,0:01:22.48,0:01:24.31,Dialogue,,0,0,0,,Acela este un ghid turistic al capitalei?
-Dialogue: 100,0:01:24.31,0:01:27.44,Dialogue,,0,0,0,,Da. Să fiu sincer, există un lucru pe care l-am vrut mereu.
-Dialogue: 100,0:01:32.12,0:01:34.32,Dialogue,,0,0,0,,Înțeleg... Deci nu se va prăbuși, nu?
-Dialogue: 100,0:01:35.03,0:01:37.78,Dialogue,,0,0,0,,Ei bine, nu spun că este imposibil.
-Dialogue: 100,0:01:42.39,0:01:45.55,Dialogue,,0,0,0,,Adică, dacă ar fi atacată de un dragon uriaș,
-Dialogue: 100,0:01:45.55,0:01:47.34,Dialogue,,0,0,0,,atunci e posibil să se prăbușească, știi?
-Dialogue: 100,0:01:55.04,0:01:58.56,Dialogue,,0,0,0,,Ai dreptate. În acest caz, s-ar prăbuși.
-Dialogue: 100,0:03:31.44,0:03:33.06,Dialogue,,0,0,120,,Hei, Ce se petrece?!
-Dialogue: 100,0:03:33.06,0:03:36.90,Dialogue,,0,0,0,,{\move(640,600,640,685,1300,1800)}Credeam că această aeronavă trebuia să zboare prin zona în care nu sunt monștri?
-Dialogue: 100,0:03:36.90,0:03:40.56,Dialogue,,0,0,0,,Da, dar ceea ce vedeți afară este un dragon străvechi zombi,
-Dialogue: 100,0:03:40.56,0:03:42.86,Dialogue,,0,0,0,,deci acea logică nu se aplică aici.
-Dialogue: 100,0:03:42.86,0:03:44.87,Dialogue,,0,0,0,,Destul cu scuzele! \NDoar faceți ceva în legătură cu asta!
-Dialogue: 100,0:03:44.87,0:03:45.80,Dialogue,,0,0,0,,Vrei să murim cumva?!
-Dialogue: 100,0:03:45.80,0:03:49.06,Dialogue,,0,0,0,,Toată lumea, vă rugăm să rămâneți calmi!
-Dialogue: 100,0:03:49.06,0:03:55.00,Dialogue,,0,0,0,,Puternicul magician, Brantag Ringstat, \Nse va ocupa de el imediat!
-Dialogue: 100,0:03:58.17,0:04:00.42,Dialogue,,0,0,0,,Nu pot învinge chestia aia.
-Dialogue: 100,0:04:00.72,0:04:01.57,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:04:01.57,0:04:03.24,Dialogue,,0,0,0,,Este un zombi.
-Dialogue: 100,0:04:03.24,0:04:06.39,Dialogue,,0,0,0,,Singurul mod de a-l învinge \Neste purificarea cu magie sfântă.
-Dialogue: 100,0:04:06.74,0:04:09.37,Dialogue,,0,0,0,,Dar eu nu pot folosi acel tip de magie.
-Dialogue: 100,0:04:09.37,0:04:11.81,Dialogue,,0,0,0,,Atunci, această navă se va...
-Dialogue: 100,0:04:12.51,0:04:16.27,Dialogue,,0,0,0,,Nu vă faceți griji. \NAveți un alt magician la bord.
-Dialogue: 100,0:04:19.20,0:04:21.78,Dialogue,,0,0,0,,Ce?! Stai, nu o pot face!
-Dialogue: 100,0:04:21.78,0:04:23.70,Dialogue,,0,0,0,,Vreau să spun, a-a-asta este—
-Dialogue: 100,0:04:24.31,0:04:28.16,Dialogue,,0,0,0,,Maestrul tău s-ar fi ocupat de el zâmbind.
-Dialogue: 100,0:04:32.21,0:04:34.62,Dialogue,,0,0,0,,Ascultă. Eu voi proteja nava.
-Dialogue: 100,0:04:34.89,0:04:36.90,Dialogue,,0,0,0,,În momentul în care ești acolo afară,
-Dialogue: 100,0:04:36.90,0:04:39.71,Dialogue,,0,0,0,,concentrează-te doar asupra \Npurificării cu magie sfântă.
-Dialogue: 100,0:04:40.53,0:04:42.70,Dialogue,,0,0,0,,Acum, pregătește-te, băiete.
-Dialogue: 100,0:04:42.70,0:04:43.49,Dialogue,,0,0,0,,Deschid ușa.
-Dialogue: 100,0:04:46.94,0:04:48.99,Dialogue,,0,0,0,,O, stai o secundă.
-Dialogue: 100,0:04:48.99,0:04:50.77,Dialogue,,0,0,0,,Încă ceva.
-Dialogue: 100,0:05:07.67,0:05:09.37,Dialogue,,0,0,0,,O barieră magică!
-Dialogue: 100,0:05:10.45,0:05:13.33,Dialogue,,0,0,0,,Ți-am spus că o voi proteja, nu-i așa, \Ndiscipolul discipolului meu?
-Dialogue: 100,0:05:13.33,0:05:15.71,Dialogue,,0,0,0,,Ar fi trebuit să mă aștept la asta de la maestrul maestrului meu.
-Dialogue: 100,0:05:15.71,0:05:16.29,Dialogue,,0,0,0,,Și acum...
-Dialogue: 100,0:05:20.58,0:05:23.21,Dialogue,,0,0,0,,Mă pot concentra asupra \Nacestei păpuși umblătoare.
-Dialogue: 100,0:05:36.23,0:05:38.02,Dialogue,,0,0,0,,Bună treabă, Well!
-Dialogue: 100,0:05:36.51,0:05:38.02,Dialogue Overlap,,0,0,0,,Ocupă-te de el!
-Dialogue: 100,0:05:38.02,0:05:38.68,Dialogue,,0,0,0,,Nu te lăsa învins!
-Dialogue: 100,0:05:38.68,0:05:41.19,Dialogue,,0,0,0,,Liniștiți-vă, voi trei. Este periculos!
-Dialogue: 100,0:05:48.39,0:05:49.76,Dialogue,,0,0,0,,Am nevoie de mai multă.
-Dialogue: 100,0:05:49.76,0:05:51.84,Dialogue,,0,0,0,,Mai multă, mai multă...
-Dialogue: 100,0:05:51.84,0:05:53.96,Dialogue,,0,0,0,,De o lumină sfântă și mai strălucitoare!
-Dialogue: 100,0:05:57.29,0:05:59.92,Dialogue,,0,0,0,,Acum, sper ca asta...
-Dialogue: 100,0:06:02.80,0:06:04.47,Dialogue,,0,0,0,,să-l termine!
-Dialogue: 100,0:06:15.72,0:06:17.39,Dialogue,,0,0,0,,Haide!
-Dialogue: 100,0:06:16.05,0:06:17.39,Dialogue Overlap,,0,0,0,,Hei, voi trei!
-Dialogue: 100,0:06:52.02,0:06:53.64,Dialogue,,0,0,0,,Da!
-Dialogue: 100,0:06:56.61,0:06:58.07,Dialogue,,0,0,0,,Hei, băiete!
-Dialogue: 100,0:06:58.07,0:07:01.56,Dialogue,,0,0,0,,Ți-am spus să aduni acele \Noase cu săculețul tău!
-Dialogue: 100,0:07:06.00,0:07:06.76,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:07:07.18,0:07:08.44,Dialogue,,0,0,0,,O, fir-ar.
-Dialogue: 100,0:07:34.47,0:07:36.43,Dialogue,,0,0,0,,Noroc!
-Dialogue: 100,0:07:41.03,0:07:43.57,Dialogue,,0,0,0,,Se pare că vom ajunge \Nîn siguranță în capitală.
-Dialogue: 100,0:07:43.57,0:07:44.97,Dialogue,,0,0,0,,Mă bucur să aud asta.
-Dialogue: 100,0:07:44.97,0:07:46.84,Dialogue,,0,0,0,,Voiam să fac niște cumpărături acolo.
-Dialogue: 100,0:07:46.84,0:07:49.49,Dialogue,,0,0,0,,S-ar putea să fie destul de \Ngreu să mergi la cumpărături.
-Dialogue: 100,0:07:49.70,0:07:53.22,Dialogue,,0,0,0,,Hei, Aruterio. Și tu erai \Nla bordul acestei nave?
-Dialogue: 100,0:07:53.22,0:07:56.97,Dialogue,,0,0,0,,Da. A fost o plăcere să urmăresc de departe modul cum a-i învins acel dragon.
-Dialogue: 100,0:07:56.97,0:07:58.29,Dialogue,,0,0,0,,Doamne...
-Dialogue: 100,0:07:58.29,0:08:02.36,Dialogue,,0,0,0,,O, el este unul din partenerii mei de pe vreme când încă eram aventurier.
-Dialogue: 100,0:08:02.36,0:08:04.94,Dialogue,,0,0,0,,Ce? Ați fost în același grup?
-Dialogue: 100,0:08:04.94,0:08:08.69,Dialogue,,0,0,0,,El este acum liderul unei mari companii comerciale din capitală.
-Dialogue: 100,0:08:08.69,0:08:11.61,Dialogue,,0,0,0,,Este cunoscut pentru relațiile \Nsale politice de afaceri.
-Dialogue: 100,0:08:12.34,0:08:15.91,Dialogue,,0,0,0,,Cam asta este în mare. \NMă bucur să te cunosc, micule erou.
-Dialogue: 100,0:08:15.91,0:08:17.68,Dialogue,,0,0,0,,Este o plăcere și pentru mine.
-Dialogue: 100,0:08:18.16,0:08:21.77,Dialogue,,0,0,0,,Deci, la ce v-ați referit când ați spus că-mi va fi greu să merg la cumpărături?
-Dialogue: 100,0:08:21.77,0:08:24.35,Dialogue,,0,0,0,,O, ei bine, vei înțelege când \Nvom ajunge în capitală.
-Dialogue: 100,0:08:42.73,0:08:44.67,Dialogue,,0,0,0,,O, priviți!
-Dialogue: 100,0:08:47.87,0:08:50.14,Dialogue,,0,0,0,,Aceea este capitala,
-Dialogue: 100,0:08:50.40,0:08:52.00,Dialogue,,0,0,0,,Stuttburg.
-Dialogue: 100,0:08:59.26,0:09:02.93,Dialogue,,0,0,0,,Hei, de ce nu începem prin \Na ne bucura puțin de oraș?
-Dialogue: 100,0:09:02.93,0:09:04.14,Dialogue,,0,0,0,,Bună idee!
-Dialogue: 100,0:09:04.14,0:09:06.25,Dialogue,,0,0,0,,Cred că vreau să cumpăr \Nuna din rochiile capitalei!
-Dialogue: 100,0:09:06.25,0:09:09.27,Dialogue,,0,0,0,,O, ei bine, eu trebuie să fiu prezent undeva,
-Dialogue: 100,0:09:10.58,0:09:13.84,Dialogue,,0,0,0,,deci, te rog să te ocup de restul. Și prin asta mă refer la toate.
-Dialogue: 100,0:09:17.16,0:09:18.64,Dialogue,,0,0,0,,A fugit.
-Dialogue: 100,0:09:18.64,0:09:19.79,Dialogue,,0,0,0,,Fugit?
-Dialogue: 100,0:09:24.68,0:09:25.66,Dialogue,,0,0,0,,Stai, ce?
-Dialogue: 100,0:09:25.66,0:09:27.62,Dialogue,,0,0,0,,Am făcut ceva greșit?
-Dialogue: 100,0:09:34.59,0:09:38.22,Dialogue,,0,0,0,,Ați făcut o treabă excelentă omorând acel dragon străvechi.
-Dialogue: 100,0:09:41.40,0:09:43.34,Dialogue,,0,0,0,,Maiestatea Sa vă așteaptă la castel.
-Dialogue: 100,0:09:43.83,0:09:45.06,Dialogue,,0,0,0,,Vă rog să veniți pe aici.
-Dialogue: 100,0:09:49.85,0:09:50.73,Dialogue,,0,0,0,,Maiestatea Sa?
-Dialogue: 100,0:09:55.25,0:09:56.80,Dialogue,,0,0,0,,{\i1}Acest loc este uriaș...
-Dialogue: 100,0:09:57.81,0:09:59.01,Dialogue,,0,0,0,,Well!
-Dialogue: 100,0:10:00.15,0:10:02.71,Dialogue,,0,0,0,,Noi vom merge la fratele tău, bine?
-Dialogue: 100,0:10:02.71,0:10:04.25,Dialogue,,0,0,0,,Pa!
-Dialogue: 100,0:10:05.58,0:10:06.69,Dialogue,,0,0,0,,Ce?!
-Dialogue: 100,0:10:06.69,0:10:08.80,Dialogue,,0,0,0,,Hei, băiete, te vei pierde.
-Dialogue: 100,0:10:08.80,0:10:11.88,Dialogue,,0,0,0,,O, v-vă rog să mă așteptați!
-Dialogue: 100,0:10:17.67,0:10:22.58,Dialogue,,0,0,0,,Ucigașul dragonului străvechi, Wendelin von Benno Baumeister,
-Dialogue: 100,0:10:22.58,0:10:25.25,Dialogue,,0,0,0,,și înlocuitorul lui Brantag Ringstat,
-Dialogue: 100,0:10:25.25,0:10:28.98,Dialogue,,0,0,0,,Aruterio Märchen, au ajuns!
-Dialogue: 100,0:10:44.03,0:10:45.97,Dialogue,,0,0,0,,Ridică-ți capul!
-Dialogue: 100,0:10:57.09,0:10:59.56,Dialogue,,0,0,0,,Chiar ești tânăr...
-Dialogue: 100,0:11:03.65,0:11:07.00,Dialogue,,0,0,0,,Wendelin von Benno Baumeister.
-Dialogue: 100,0:11:07.00,0:11:07.47,Dialogue,,0,0,0,,Da?
-Dialogue: 100,0:11:08.60,0:11:10.31,Dialogue,,0,0,0,,În onoarea faptelor tale de vitejie
-Dialogue: 100,0:11:10.31,0:11:15.36,Dialogue,,0,0,0,,reprezentate de uciderea dragonului străvechi și apărarea pasagerilor de pe aeronava noastră magică,
-Dialogue: 100,0:11:15.36,0:11:20.26,Dialogue,,0,0,0,,îți ofer al șaselea rang, \Nși anume, rangul baronet.
-Dialogue: 100,0:11:24.40,0:11:27.85,Dialogue,,0,0,0,,Hei, îți amintești ce te-am învățat mai devreme? Jurământul.
-Dialogue: 100,0:11:30.79,0:11:33.46,Dialogue,,0,0,0,,Îmi voi folosi sabia pentru \NMaiestatea Voastră,
-Dialogue: 100,0:11:33.46,0:11:34.85,Dialogue,,0,0,0,,pentru regatul nostru
-Dialogue: 100,0:11:34.85,0:11:36.80,Dialogue,,0,0,0,,și pentru poporul nostru.
-Dialogue: 100,0:11:38.77,0:11:43.28,Dialogue,,0,0,0,,{\i1}Ce? Tocmai am devenit un baronet?
-Dialogue: 100,0:11:43.28,0:11:47.95,Dialogue,,0,0,0,,În plus, îți vom oferi și \Nmedalia dragonilor gemeni.
-Dialogue: 100,0:11:50.36,0:11:53.60,Dialogue,,0,0,0,,Ești sigur că e în regulă să \Nnu te vezi cu Maiestatea Sa?
-Dialogue: 100,0:11:53.60,0:11:54.77,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:11:54.77,0:11:57.12,Dialogue,,0,0,0,,Oricum, băiatul este \Nvedeta acestui spectacol.
-Dialogue: 100,0:11:57.12,0:11:58.57,Dialogue,,0,0,0,,O, mulțumesc.
-Dialogue: 100,0:11:58.57,0:12:02.28,Dialogue,,0,0,0,,Hei, chiar va deveni Well un baronet?
-Dialogue: 100,0:12:02.53,0:12:05.49,Dialogue,,0,0,0,,Ei bine, sunt sigur că va primi un rang de nobil cel puțin la fel de mare.
-Dialogue: 100,0:12:06.24,0:12:08.55,Dialogue,,0,0,0,,Nu-mi vine să cred că va primi un rang de nobil mai mare
-Dialogue: 100,0:12:08.55,0:12:11.46,Dialogue,,0,0,0,,ca al tatălui nostru prin simplul fapt că a venit la nunta mea.
-Dialogue: 100,0:12:11.70,0:12:15.65,Dialogue,,0,0,0,,O, da, familia ta avea \Nrangul de cavaler, nu-i așa?
-Dialogue: 100,0:12:15.65,0:12:19.09,Dialogue,,0,0,0,,Hei, dacă chiar va deveni baronet,
-Dialogue: 100,0:12:19.09,0:12:22.36,Dialogue,,0,0,0,,nu ar crea asta o descendență separată?
-Dialogue: 100,0:12:22.69,0:12:25.42,Dialogue,,0,0,0,,Ba da. Asta înseamnă că numele său va fi scos din descendența familiei tale
-Dialogue: 100,0:12:25.42,0:12:28.56,Dialogue,,0,0,0,,și va fi pus drept capul \Nunei noi familii Baumeister.
-Dialogue: 100,0:12:30.48,0:12:34.44,Dialogue,,0,0,0,,Va alege Well să nu mai fie aventurier și să ne părăsească?
-Dialogue: 100,0:12:35.17,0:12:37.38,Dialogue,,0,0,0,,Nu, nu, chiar dacă va \Nprimi un rang de nobil,
-Dialogue: 100,0:12:37.38,0:12:40.02,Dialogue,,0,0,0,,va fi doar un nobil de robă, \Nunul care nu deține niciun pământ.
-Dialogue: 100,0:12:40.02,0:12:42.60,Dialogue,,0,0,0,,Nu va avea niciun motiv \Nsă rămână în capitală,
-Dialogue: 100,0:12:42.60,0:12:46.11,Dialogue,,0,0,0,,deci faptul dacă deveni sau nu aventurier ar trebui să țină doar de el.
-Dialogue: 100,0:12:47.32,0:12:50.43,Dialogue,,0,0,0,,Da, asta este o promovare \Nîmbucurătoare pentru Well!
-Dialogue: 100,0:12:52.10,0:12:55.54,Dialogue,,0,0,0,,Este adevărat că sunt niște aspecte care să te bucure, dar...
-Dialogue: 100,0:12:55.81,0:12:56.67,Dialogue,,0,0,0,,Dar?
-Dialogue: 100,0:12:56.67,0:13:00.21,Dialogue,,0,0,0,,Ei bine, sunt sigur că băiatul \Nnostru simte pe pielea sa
-Dialogue: 100,0:13:02.42,0:13:05.66,Dialogue,,0,0,0,,lanțurile care vin odată cu \Nintrarea în lumea nobililor.
-Dialogue: 100,0:13:08.45,0:13:12.41,Dialogue,,0,0,0,,170.000 de monede de aur \Npentru oase și piatra magică?
-Dialogue: 100,0:13:12.41,0:13:16.62,Dialogue,,0,0,0,,Lord Mareșal Edgar, cred că 130.000 de monede ar fi cantitatea corectă.
-Dialogue: 100,0:13:16.62,0:13:19.80,Dialogue,,0,0,0,,Deci mi-a spus să le adun deoarece valorează foarte mult.
-Dialogue: 100,0:13:20.13,0:13:22.59,Dialogue,,0,0,0,,Lord Comisar Ruckner,
-Dialogue: 100,0:13:22.59,0:13:25.90,Dialogue,,0,0,0,,vreți să spuneți că ar trebui să fim zgârciți cu recompensa domnului Baumeister
-Dialogue: 100,0:13:25.90,0:13:27.82,Dialogue,,0,0,0,,după ce și-a riscat viața în luptă?
-Dialogue: 100,0:13:27.82,0:13:29.83,Dialogue,,0,0,0,,O, dar eu chiar nu am—
-Dialogue: 100,0:13:28.64,0:13:31.06,Dialogue Overlap,,0,0,0,,Nu avem un buget nelimiat.
-Dialogue: 100,0:13:31.06,0:13:33.87,Dialogue,,0,0,0,,Domnul Baumeister este deja un cetățean al acestui regat,
-Dialogue: 100,0:13:33.87,0:13:36.44,Dialogue,,0,0,0,,deci sunt sigur că știe cum stă treaba.
-Dialogue: 100,0:13:36.44,0:13:37.54,Dialogue,,0,0,0,,Ei bine...
-Dialogue: 100,0:13:37.54,0:13:40.66,Dialogue,,0,0,0,,Cu oasele acelui dragon \Nstrăvechi și cristalele magice
-Dialogue: 100,0:13:40.66,0:13:42.56,Dialogue,,0,0,0,,pe care le putem crea dintr-o \Npiatră magică atât de mare,
-Dialogue: 100,0:13:42.56,0:13:46.53,Dialogue,,0,0,0,,am putea face să funcționeze din nou multe dintre aeronavele noastre!
-Dialogue: 100,0:13:46.53,0:13:51.31,Dialogue,,0,0,0,,Domnul Baumeister a reușit să prevadă acest lucru, iar dumneata vrei ca eforturile sale să fi fost în zadar?
-Dialogue: 100,0:13:51.31,0:13:52.12,Dialogue,,0,0,0,,Ei bine, eu doar—
-Dialogue: 100,0:13:52.12,0:13:55.03,Dialogue,,0,0,0,,Discutăm despre priorități în acest moment.
-Dialogue: 100,0:13:55.03,0:13:58.56,Dialogue,,0,0,0,,Sunt sigur că domnul \NBaumeister înțelege deja asta!
-Dialogue: 100,0:13:59.78,0:14:03.36,Dialogue,,0,0,0,,Cred că trebuie să vă liniștiți amândoi.
-Dialogue: 100,0:14:04.00,0:14:06.63,Dialogue,,0,0,0,,Fiecare dintre voi are dreptate.
-Dialogue: 100,0:14:06.63,0:14:10.50,Dialogue,,0,0,0,,Deci de ce nu facem un compromis și îi oferim 150.000 de monede de aur?
-Dialogue: 100,0:14:10.50,0:14:14.45,Dialogue,,0,0,0,,Cardinal Hohenheim, asta nu este o problemă atât de simplă.
-Dialogue: 100,0:14:14.72,0:14:16.37,Dialogue,,0,0,0,,Cu tot respectul,
-Dialogue: 100,0:14:16.37,0:14:21.45,Dialogue,,0,0,0,,domnul Baumeister ar trebui fie centrul atenției acum în capitală,
-Dialogue: 100,0:14:21.45,0:14:24.84,Dialogue,,0,0,0,,ca discipolul luminii care a \Nînvins acel dragon zombi.
-Dialogue: 100,0:14:25.06,0:14:30.00,Dialogue,,0,0,0,,Nu cred că ar fi prea \Nînțelept ca familia regală
-Dialogue: 100,0:14:30.00,0:14:33.22,Dialogue,,0,0,0,,să se facă de râs și mai mult în fața domnului Baumeister.
-Dialogue: 100,0:14:37.39,0:14:40.62,Dialogue,,0,0,0,,Scuză-mi intervenția. Pur și simplu nu am mai putut să-i privesc
-Dialogue: 100,0:14:40.62,0:14:43.58,Dialogue,,0,0,0,,cum îți irosesc timpul prețios, \Ndomnule Baumeister.
-Dialogue: 100,0:14:43.58,0:14:44.88,Dialogue,,0,0,0,,O, eu doar—
-Dialogue: 100,0:14:44.20,0:14:47.18,Dialogue Overlap,,0,0,0,,Și acum, haideți să începem pregătirile.
-Dialogue: 100,0:14:52.49,0:14:54.84,Dialogue,,0,0,0,,Și aici îl avem pe Cardinalul \NHohenheim care încearcă
-Dialogue: 100,0:14:54.84,0:14:57.64,Dialogue,,0,0,0,,să te facă să-l favorizezi ca să te aducă sub influența bisericii,
-Dialogue: 100,0:14:57.64,0:15:01.89,Dialogue,,0,0,0,,în timp ce Lordul Mareșal Edgar speră să te poată folosi în eforturile sale de a întări armata.
-Dialogue: 100,0:15:01.89,0:15:07.13,Dialogue,,0,0,0,,Între timp, Lordul Comisar Ruckner se concentrează doar să reducă suma de bani pe care ți-o vor da.
-Dialogue: 100,0:15:15.96,0:15:17.56,Dialogue,,0,0,0,,Domnule Baumeister!
-Dialogue: 100,0:15:18.31,0:15:19.78,Dialogue,,0,0,0,,Vă rog să priviți asta!
-Dialogue: 100,0:15:19.78,0:15:22.81,Dialogue,,0,0,0,,Tehnica mea secretă: Lancea Învârtită!
-Dialogue: 100,0:15:26.45,0:15:29.03,Dialogue,,0,0,0,,Ăsta este cumva un actor de stradă?
-Dialogue: 100,0:15:29.03,0:15:32.64,Dialogue,,0,0,0,,Nu, este doar o persoană care speră că-l vei lua în serviciul tău.
-Dialogue: 100,0:15:32.64,0:15:33.98,Dialogue,,0,0,0,,Ce? Al meu?!
-Dialogue: 100,0:15:33.98,0:15:35.36,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:15:35.36,0:15:37.55,Dialogue,,0,0,0,,Ești un nobil cu un viitor promițător,
-Dialogue: 100,0:15:37.55,0:15:41.73,Dialogue,,0,0,0,,care tocmai a primit medalia dragonilor gemeni care nu a mai fost primită de nimeni în ultimele două secole.
-Dialogue: 100,0:15:41.73,0:15:45.76,Dialogue,,0,0,0,,Ce credeți?! Pot spune cu încredere că sunt cel mai bun când vine vorba de mânuirea lăncii!
-Dialogue: 100,0:15:45.76,0:15:46.94,Dialogue,,0,0,0,,Hei, ce naiba crezi că faci?!
-Dialogue: 100,0:15:47.16,0:15:48.63,Dialogue,,0,0,0,,Numele meu este—
-Dialogue: 100,0:15:47.16,0:15:48.63,Dialogue,,0,0,0,,{\an8}Destul! Destul!
-Dialogue: 100,0:15:48.63,0:15:50.51,Dialogue,,0,0,0,,Fă asta la tine acasă!
-Dialogue: 100,0:15:49.31,0:15:50.51,Dialogue,,0,0,0,,S-Stați o se...
-Dialogue: 100,0:15:51.47,0:15:53.84,Dialogue,,0,0,0,,Vei fi asaltat de persoane de genul,
-Dialogue: 100,0:15:53.84,0:15:58.79,Dialogue,,0,0,0,,alături de negustori bogați implorându-te să te căsătorești cu fetele lor.
-Dialogue: 100,0:15:58.79,0:16:00.64,Dialogue,,0,0,0,,Voi fi asaltat de persoane de genul?
-Dialogue: 100,0:16:02.06,0:16:05.87,Dialogue,,0,0,0,,Probabil nu vei reuși să ieși \Npe afară pentru o vreme.
-Dialogue: 100,0:16:05.87,0:16:08.55,Dialogue,,0,0,0,,Ce? Atunci, cum ar trebui \Nsă fac cumpărături?!
-Dialogue: 100,0:16:08.55,0:16:11.57,Dialogue,,0,0,0,,De asta am spus că s-ar putea să fie greu.
-Dialogue: 100,0:16:13.47,0:16:17.43,Dialogue,,0,0,0,,Este prețul faimei pe care-l \Nplătești deoarece ești nobil.
-Dialogue: 100,0:16:17.43,0:16:19.50,Dialogue,,0,0,0,,Asta este atât de neplăcut...
-Dialogue: 100,0:16:30.72,0:16:32.30,Dialogue,,0,0,0,,A trecut ceva timp.
-Dialogue: 100,0:16:32.98,0:16:34.64,Dialogue,,0,0,0,,Hei, Well.
-Dialogue: 100,0:16:34.64,0:16:35.76,Dialogue,,0,0,0,,Ce mai faci?
-Dialogue: 100,0:16:36.27,0:16:38.97,Dialogue,,0,0,0,,Nu păreți foarte fericiți.
-Dialogue: 100,0:16:39.20,0:16:43.44,Dialogue,,0,0,0,,Adevărul este că nu am primit încă darurile de nuntă de la familia noastră.
-Dialogue: 100,0:16:47.17,0:16:50.84,Dialogue,,0,0,0,,Asta e de rău... nu?
-Dialogue: 100,0:16:50.84,0:16:52.48,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:16:52.48,0:16:58.41,Dialogue,,0,0,0,,Toți cei care vor veni vor crede că familia mirelui este una lipsită de maniere și eleganță.
-Dialogue: 100,0:16:58.41,0:17:01.79,Dialogue,,0,0,0,,Și mai rău, tocmai am primit o scrisoare de la fratele nostru Kurt...
-Dialogue: 100,0:17:01.79,0:17:04.87,Dialogue,,0,0,0,,Totuși, sunt sigur că cea \Ncare a scris-o a fost Amalie.
-Dialogue: 100,0:17:05.33,0:17:07.49,Dialogue,,0,0,0,,Oricum, pe scurt,
-Dialogue: 100,0:17:07.49,0:17:11.93,Dialogue,,0,0,0,,a spus că nu are bani, deci îmi cere mie și lui Paul să plătim pentru el.
-Dialogue: 100,0:17:12.58,0:17:16.29,Dialogue,,0,0,0,,Ce crede că pot face două gărzi ca noi?
-Dialogue: 100,0:17:16.29,0:17:19.80,Dialogue,,0,0,0,,Are măcar idee cât de modest \Nsuntem nevoiți să trăim?
-Dialogue: 100,0:17:20.09,0:17:22.77,Dialogue,,0,0,0,,Atunci, ce spuneți de niște flori drept cadou?
-Dialogue: 100,0:17:23.23,0:17:27.81,Dialogue,,0,0,0,,Ei bine, un dar de nuntă reprezintă, de asemenea, statutul nobililor.
-Dialogue: 100,0:17:27.81,0:17:30.25,Dialogue,,0,0,0,,Deci trebuie să fie ceva sclipitor și scump.
-Dialogue: 100,0:17:30.48,0:17:32.37,Dialogue,,0,0,0,,Statutul, nu?
-Dialogue: 100,0:17:32.37,0:17:38.19,Dialogue,,0,0,0,,Dar nu înseamnă asta că-l vor face de râs și pe Ducele de Bleichröder?
-Dialogue: 100,0:17:38.19,0:17:40.20,Dialogue,,0,0,0,,Ce? De ce s-ar întâmpla una ca asta?
-Dialogue: 100,0:17:40.43,0:17:42.16,Dialogue,,0,0,0,,Deoarece, Well,
-Dialogue: 100,0:17:42.16,0:17:48.66,Dialogue,,0,0,0,,familia Baumeister este \Nvasalul Ducelui de Bleichröder.
-Dialogue: 100,0:17:49.99,0:17:53.10,Dialogue,,0,0,0,,Lordul ar trebui să împrumute bani vasalilor săi
-Dialogue: 100,0:17:53.10,0:17:56.94,Dialogue,,0,0,0,,atunci când aceștia nu pot pregăti un dar de nuntă.
-Dialogue: 100,0:18:00.69,0:18:04.41,Dialogue,,0,0,0,,Deci, în acest caz, \Nva părea că Ducele Bleichröder
-Dialogue: 100,0:18:04.41,0:18:07.03,Dialogue,,0,0,0,,a refuzat să ne împrumute bani.
-Dialogue: 100,0:18:07.03,0:18:10.00,Dialogue,,0,0,0,,Dar asta este vina familiei noastre
-Dialogue: 100,0:18:10.00,0:18:12.75,Dialogue,,0,0,0,,deoarece nu i-a cerut ducelui niște bani.
-Dialogue: 100,0:18:12.75,0:18:15.11,Dialogue,,0,0,0,,Probabil nu am făcut-o deoarece știam că nu avem cum să-i dăm înapoi.
-Dialogue: 100,0:18:21.30,0:18:23.89,Dialogue,,0,0,0,,Hei, ar trebui să plătesc eu în schimb?
-Dialogue: 100,0:18:24.33,0:18:28.11,Dialogue,,0,0,0,,Casă de piatră!
-Dialogue: 100,0:18:34.19,0:18:38.17,Dialogue,,0,0,0,,{\i1}Să fii nobil este așa o bătaie de cap.
-Dialogue: 100,0:18:44.54,0:18:47.43,Dialogue,,0,0,0,,Hei, nu pari prea încântat, micuțule nobil.
-Dialogue: 100,0:18:47.43,0:18:49.56,Dialogue,,0,0,0,,Dacă vei continua să oftezi, \Ntoată fericirea te va părăsi.
-Dialogue: 100,0:18:50.24,0:18:51.92,Dialogue,,0,0,0,,Hei, Aruterio.
-Dialogue: 100,0:18:51.92,0:18:53.44,Dialogue,,0,0,0,,Vai, a fost o provocare să găsesc asta.
-Dialogue: 100,0:18:53.44,0:18:55.49,Dialogue,,0,0,0,,Nu am avut în niciunul \Ndin magazinele noastre,
-Dialogue: 100,0:18:55.49,0:18:57.70,Dialogue,,0,0,0,,așa că a trebuit să-i cer \Nunei cunoștințe de-a mea.
-Dialogue: 100,0:18:57.70,0:18:59.13,Dialogue,,0,0,0,,Ce? Vrei să spui că...
-Dialogue: 100,0:18:59.13,0:19:01.03,Dialogue,,0,0,0,,Mi-ai găsit?!
-Dialogue: 100,0:19:01.26,0:19:04.01,Dialogue,,0,0,0,,Se pare că a reușit să-l obțină din Mizuho, din regiunea nordică.
-Dialogue: 100,0:19:04.01,0:19:07.88,Dialogue,,0,0,0,,Oricum, ce este acest "malț de orez"?
-Dialogue: 100,0:19:08.16,0:19:11.42,Dialogue,,0,0,0,,Hei, încerci să începi vreun fel de afacere?
-Dialogue: 100,0:19:12.85,0:19:16.64,Dialogue,,0,0,0,,Dacă da, ai putea să-mi spui mie primul?
-Dialogue: 100,0:19:24.43,0:19:26.33,Dialogue,,0,0,0,,Ce te-a apucat atât de brusc?
-Dialogue: 100,0:19:26.33,0:19:30.61,Dialogue,,0,0,0,,Brantag a spus că ne va arăta viața de noapte din capitală.
-Dialogue: 100,0:19:30.61,0:19:31.74,Dialogue,,0,0,0,,Doar veniți cu mine!
-Dialogue: 100,0:19:31.74,0:19:33.27,Dialogue,,0,0,0,,Haideți! Ne-am întors!
-Dialogue: 100,0:19:32.56,0:19:33.68,Dialogue Overlap,,0,0,0,,Stai... Așteaptă!
-Dialogue: 100,0:19:33.68,0:19:35.18,Dialogue,,0,0,0,,Nu mă mai trage!
-Dialogue: 100,0:19:33.68,0:19:36.24,Dialogue Overlap,,0,0,0,,Haideți! Repede!
-Dialogue: 100,0:19:35.18,0:19:36.24,Dialogue,,0,0,0,,Am spus să aștepți!
-Dialogue: 100,0:20:00.21,0:20:02.86,Dialogue,,0,0,0,,Ai încercat să faci asta acasă, nu?
-Dialogue: 100,0:20:02.86,0:20:04.84,Dialogue,,0,0,0,,Facem "miso", parcă așa ai zis, nu?
-Dialogue: 100,0:20:04.84,0:20:08.15,Dialogue,,0,0,0,,Da, nu am reușit s-o fac să \Nfermenteze cum trebuie.
-Dialogue: 100,0:20:08.15,0:20:10.11,Dialogue,,0,0,0,,Mereu a prins mucegai.
-Dialogue: 100,0:20:10.11,0:20:13.31,Dialogue,,0,0,0,,Mi-am dat seama că este \Ndificil s-o faci fără malț de orez.
-Dialogue: 100,0:20:27.37,0:20:28.51,Dialogue,,0,0,0,,Bun...
-Dialogue: 100,0:20:29.87,0:20:33.86,Dialogue,,0,0,0,,În regulă. În mod normal, \Nar trebui să stea așa timp de un an...
-Dialogue: 100,0:20:37.84,0:20:39.46,Dialogue,,0,0,0,,Dar îmi voi folosi magia.
-Dialogue: 100,0:20:43.65,0:20:46.46,Dialogue,,0,0,0,,Te rog să fermentezi \Ncum trebuie de data asta!
-Dialogue: 100,0:20:50.52,0:20:52.00,Dialogue,,0,0,0,,{\i1}Acum că stau să mă gândesc,
-Dialogue: 100,0:20:52.00,0:20:54.52,Dialogue,,0,0,0,,{\i1}am vorbit odată cu cineva care face miso
-Dialogue: 100,0:20:54.88,0:20:57.58,Dialogue,,0,0,0,,{\i1}când încă eram angajat \Nla o companie comercială.
-Dialogue: 100,0:20:58.36,0:21:01.36,Dialogue,,0,0,0,,{\i1}M-a întrebat dacă știu care e diferența dintre fermentație și mucezire.
-Dialogue: 100,0:21:05.80,0:21:09.24,Dialogue,,0,0,0,,{\i1}Dacă-mi amintesc corect, \Nrăspunsul era că procesul este identic,
-Dialogue: 100,0:21:09.79,0:21:12.64,Dialogue,,0,0,0,,{\i1}dar fermentația este bună pentru oameni,
-Dialogue: 100,0:21:12.64,0:21:15.69,Dialogue,,0,0,0,,{\i1}în timp ce mucezirea este dăunătoare.
-Dialogue: 100,0:21:18.89,0:21:21.10,Dialogue,,0,0,0,,{\i1}Poate la fel este și cu a fi nobil.
-Dialogue: 100,0:21:23.64,0:21:25.77,Dialogue,,0,0,0,,{\i1}Aduce o grămadă de probleme cu statutul,
-Dialogue: 100,0:21:26.14,0:21:31.62,Dialogue,,0,0,0,,{\i1}dar nu am de ales decât să \Ntrăiesc în această lume, deci...
-Dialogue: 100,0:21:33.70,0:21:35.00,Dialogue,,0,0,0,,Este foarte bună!
-Dialogue: 100,0:21:36.04,0:21:39.14,Dialogue,,0,0,0,,{\i1}Cred că este mai bine dacă-mi \Ntrăiesc viața inteligent
-Dialogue: 100,0:21:39.63,0:21:42.36,Dialogue,,0,0,0,,{\i1}și îi fac pe ceilalți să creadă că sunt genul de nobil care fermentează.
-Dialogue: 100,0:21:54.55,0:21:56.82,Dialogue,,0,0,0,,M-ai chemat, bunicule?
-Dialogue: 100,0:21:57.20,0:21:59.15,Dialogue,,0,0,0,,O, ai venit.
-Dialogue: 100,0:22:04.04,0:22:07.99,Dialogue,,0,0,0,,Elise, m-am hotărât cine va fi soțul tău.
+Dialogue: 99,0:00:03.92,0:00:06.60,Dialogue,,0,0,0,,Hei, ești sigur că este în regulă
+Dialogue: 99,0:00:06.60,0:00:08.86,Dialogue,,0,0,0,,să venim și noi la nunta fratelui cu tine?
+Dialogue: 99,0:00:09.33,0:00:12.71,Dialogue,,0,0,0,,Fratele Erich a spus că ar trebui să-mi aduc prietenii dacă am.
+Dialogue: 99,0:00:12.71,0:00:15.90,Dialogue,,0,0,0,,Dar mă bucur că academia este închisă deoarece este vacanța de vară.
+Dialogue: 99,0:00:15.21,0:00:16.60,Dialogue,,0,0,0,,{\an8}Priviți!
+Dialogue: 99,0:00:17.60,0:00:20.10,Dialogue,,0,0,0,,Când voi apărea în această \Nrochie pe care am ales-o,
+Dialogue: 99,0:00:20.10,0:00:24.54,Dialogue,,0,0,0,,sunt sigură că toți nobilii vor vrea să mă ia în serviciul lor!
+Dialogue: 99,0:00:24.83,0:00:27.12,Dialogue,,0,0,0,,Deoarece îți atrage privirea atât de tare!
+Dialogue: 99,0:00:29.52,0:00:33.25,Dialogue,,0,0,0,,Vor veni nobili la nunta fratelui tău?
+Dialogue: 99,0:00:33.25,0:00:33.97,Dialogue,,0,0,0,,Hei.
+Dialogue: 99,0:00:34.20,0:00:37.32,Dialogue,,0,0,0,,Se însoară în familia Brandt, \Ndespre care am auzit că dețin un domeniu,
+Dialogue: 99,0:00:37.32,0:00:39.68,Dialogue,,0,0,0,,deci da, ar trebui să fie măcar câțiva.
+Dialogue: 99,0:00:39.93,0:00:43.14,Dialogue,,0,0,0,,Drumul spre a ajunge în serviciul \Nunui nobil mă așteaptă!
+Dialogue: 99,0:00:48.14,0:00:49.91,Dialogue,,0,0,0,,O, scuză-mă...
+Dialogue: 99,0:00:49.91,0:00:50.69,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:00:51.49,0:00:52.49,Dialogue,,0,0,0,,Er?
+Dialogue: 99,0:00:53.65,0:00:55.71,Dialogue,,0,0,0,,Nu voi avea încredere în așa ceva.
+Dialogue: 99,0:00:55.71,0:00:57.85,Dialogue,,0,0,0,,O navă care zboară pe cer?
+Dialogue: 99,0:00:59.64,0:01:02.08,Dialogue,,0,0,0,,Nu-ți face griji, micuțele Er.
+Dialogue: 99,0:01:06.40,0:01:10.04,Dialogue,,0,0,0,,O aeronavă magică nu se va prăbuși.
+Dialogue: 99,0:01:10.64,0:01:13.73,Dialogue,,0,0,0,,Nu doar prietenii tăi fuseseră invitați?
+Dialogue: 99,0:01:13.73,0:01:18.82,Dialogue,,0,0,0,,Ba da. Brantag merge în capitală ca să dea raportul despre domeniul său,
+Dialogue: 99,0:01:18.82,0:01:21.26,Dialogue,,0,0,0,,deci el doar ne ghidează din moment ce este în drumul său.
+Dialogue: 99,0:01:21.26,0:01:21.97,Dialogue,,0,0,0,,Oh?
+Dialogue: 99,0:01:22.48,0:01:24.31,Dialogue,,0,0,0,,Acela este un ghid turistic al capitalei?
+Dialogue: 99,0:01:24.31,0:01:27.44,Dialogue,,0,0,0,,Da. Să fiu sincer, există un lucru pe care l-am vrut mereu.
+Dialogue: 99,0:01:32.12,0:01:34.32,Dialogue,,0,0,0,,Înțeleg... Deci nu se va prăbuși, nu?
+Dialogue: 99,0:01:35.03,0:01:37.78,Dialogue,,0,0,0,,Ei bine, nu spun că este imposibil.
+Dialogue: 99,0:01:42.39,0:01:45.55,Dialogue,,0,0,0,,Adică, dacă ar fi atacată de un dragon uriaș,
+Dialogue: 99,0:01:45.55,0:01:47.34,Dialogue,,0,0,0,,atunci e posibil să se prăbușească, știi?
+Dialogue: 99,0:01:55.04,0:01:58.56,Dialogue,,0,0,0,,Ai dreptate. În acest caz, s-ar prăbuși.
+Dialogue: 99,0:03:31.44,0:03:33.06,Dialogue,,0,0,120,,Hei, Ce se petrece?!
+Dialogue: 99,0:03:33.06,0:03:36.90,Dialogue,,0,0,0,,{\move(640,600,640,685,1300,1800)}Credeam că această aeronavă trebuia să zboare prin zona în care nu sunt monștri?
+Dialogue: 99,0:03:36.90,0:03:40.56,Dialogue,,0,0,0,,Da, dar ceea ce vedeți afară este un dragon străvechi zombi,
+Dialogue: 99,0:03:40.56,0:03:42.86,Dialogue,,0,0,0,,deci acea logică nu se aplică aici.
+Dialogue: 99,0:03:42.86,0:03:44.87,Dialogue,,0,0,0,,Destul cu scuzele! \NDoar faceți ceva în legătură cu asta!
+Dialogue: 99,0:03:44.87,0:03:45.80,Dialogue,,0,0,0,,Vrei să murim cumva?!
+Dialogue: 99,0:03:45.80,0:03:49.06,Dialogue,,0,0,0,,Toată lumea, vă rugăm să rămâneți calmi!
+Dialogue: 99,0:03:49.06,0:03:55.00,Dialogue,,0,0,0,,Puternicul magician, Brantag Ringstat, \Nse va ocupa de el imediat!
+Dialogue: 99,0:03:58.17,0:04:00.42,Dialogue,,0,0,0,,Nu pot învinge chestia aia.
+Dialogue: 99,0:04:00.72,0:04:01.57,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:04:01.57,0:04:03.24,Dialogue,,0,0,0,,Este un zombi.
+Dialogue: 99,0:04:03.24,0:04:06.39,Dialogue,,0,0,0,,Singurul mod de a-l învinge \Neste purificarea cu magie sfântă.
+Dialogue: 99,0:04:06.74,0:04:09.37,Dialogue,,0,0,0,,Dar eu nu pot folosi acel tip de magie.
+Dialogue: 99,0:04:09.37,0:04:11.81,Dialogue,,0,0,0,,Atunci, această navă se va...
+Dialogue: 99,0:04:12.51,0:04:16.27,Dialogue,,0,0,0,,Nu vă faceți griji. \NAveți un alt magician la bord.
+Dialogue: 99,0:04:19.20,0:04:21.78,Dialogue,,0,0,0,,Ce?! Stai, nu o pot face!
+Dialogue: 99,0:04:21.78,0:04:23.70,Dialogue,,0,0,0,,Vreau să spun, a-a-asta este—
+Dialogue: 99,0:04:24.31,0:04:28.16,Dialogue,,0,0,0,,Maestrul tău s-ar fi ocupat de el zâmbind.
+Dialogue: 99,0:04:32.21,0:04:34.62,Dialogue,,0,0,0,,Ascultă. Eu voi proteja nava.
+Dialogue: 99,0:04:34.89,0:04:36.90,Dialogue,,0,0,0,,În momentul în care ești acolo afară,
+Dialogue: 99,0:04:36.90,0:04:39.71,Dialogue,,0,0,0,,concentrează-te doar asupra \Npurificării cu magie sfântă.
+Dialogue: 99,0:04:40.53,0:04:42.70,Dialogue,,0,0,0,,Acum, pregătește-te, băiete.
+Dialogue: 99,0:04:42.70,0:04:43.49,Dialogue,,0,0,0,,Deschid ușa.
+Dialogue: 99,0:04:46.94,0:04:48.99,Dialogue,,0,0,0,,O, stai o secundă.
+Dialogue: 99,0:04:48.99,0:04:50.77,Dialogue,,0,0,0,,Încă ceva.
+Dialogue: 99,0:05:07.67,0:05:09.37,Dialogue,,0,0,0,,O barieră magică!
+Dialogue: 99,0:05:10.45,0:05:13.33,Dialogue,,0,0,0,,Ți-am spus că o voi proteja, nu-i așa, \Ndiscipolul discipolului meu?
+Dialogue: 99,0:05:13.33,0:05:15.71,Dialogue,,0,0,0,,Ar fi trebuit să mă aștept la asta de la maestrul maestrului meu.
+Dialogue: 99,0:05:15.71,0:05:16.29,Dialogue,,0,0,0,,Și acum...
+Dialogue: 99,0:05:20.58,0:05:23.21,Dialogue,,0,0,0,,Mă pot concentra asupra \Nacestei păpuși umblătoare.
+Dialogue: 99,0:05:36.23,0:05:38.02,Dialogue,,0,0,0,,Bună treabă, Well!
+Dialogue: 99,0:05:36.51,0:05:38.02,Dialogue Overlap,,0,0,0,,Ocupă-te de el!
+Dialogue: 99,0:05:38.02,0:05:38.68,Dialogue,,0,0,0,,Nu te lăsa învins!
+Dialogue: 99,0:05:38.68,0:05:41.19,Dialogue,,0,0,0,,Liniștiți-vă, voi trei. Este periculos!
+Dialogue: 99,0:05:48.39,0:05:49.76,Dialogue,,0,0,0,,Am nevoie de mai multă.
+Dialogue: 99,0:05:49.76,0:05:51.84,Dialogue,,0,0,0,,Mai multă, mai multă...
+Dialogue: 99,0:05:51.84,0:05:53.96,Dialogue,,0,0,0,,De o lumină sfântă și mai strălucitoare!
+Dialogue: 99,0:05:57.29,0:05:59.92,Dialogue,,0,0,0,,Acum, sper ca asta...
+Dialogue: 99,0:06:02.80,0:06:04.47,Dialogue,,0,0,0,,să-l termine!
+Dialogue: 99,0:06:15.72,0:06:17.39,Dialogue,,0,0,0,,Haide!
+Dialogue: 99,0:06:16.05,0:06:17.39,Dialogue Overlap,,0,0,0,,Hei, voi trei!
+Dialogue: 99,0:06:52.02,0:06:53.64,Dialogue,,0,0,0,,Da!
+Dialogue: 99,0:06:56.61,0:06:58.07,Dialogue,,0,0,0,,Hei, băiete!
+Dialogue: 99,0:06:58.07,0:07:01.56,Dialogue,,0,0,0,,Ți-am spus să aduni acele \Noase cu săculețul tău!
+Dialogue: 99,0:07:06.00,0:07:06.76,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:07:07.18,0:07:08.44,Dialogue,,0,0,0,,O, fir-ar.
+Dialogue: 99,0:07:34.47,0:07:36.43,Dialogue,,0,0,0,,Noroc!
+Dialogue: 99,0:07:41.03,0:07:43.57,Dialogue,,0,0,0,,Se pare că vom ajunge \Nîn siguranță în capitală.
+Dialogue: 99,0:07:43.57,0:07:44.97,Dialogue,,0,0,0,,Mă bucur să aud asta.
+Dialogue: 99,0:07:44.97,0:07:46.84,Dialogue,,0,0,0,,Voiam să fac niște cumpărături acolo.
+Dialogue: 99,0:07:46.84,0:07:49.49,Dialogue,,0,0,0,,S-ar putea să fie destul de \Ngreu să mergi la cumpărături.
+Dialogue: 99,0:07:49.70,0:07:53.22,Dialogue,,0,0,0,,Hei, Aruterio. Și tu erai \Nla bordul acestei nave?
+Dialogue: 99,0:07:53.22,0:07:56.97,Dialogue,,0,0,0,,Da. A fost o plăcere să urmăresc de departe modul cum a-i învins acel dragon.
+Dialogue: 99,0:07:56.97,0:07:58.29,Dialogue,,0,0,0,,Doamne...
+Dialogue: 99,0:07:58.29,0:08:02.36,Dialogue,,0,0,0,,O, el este unul din partenerii mei de pe vreme când încă eram aventurier.
+Dialogue: 99,0:08:02.36,0:08:04.94,Dialogue,,0,0,0,,Ce? Ați fost în același grup?
+Dialogue: 99,0:08:04.94,0:08:08.69,Dialogue,,0,0,0,,El este acum liderul unei mari companii comerciale din capitală.
+Dialogue: 99,0:08:08.69,0:08:11.61,Dialogue,,0,0,0,,Este cunoscut pentru relațiile \Nsale politice de afaceri.
+Dialogue: 99,0:08:12.34,0:08:15.91,Dialogue,,0,0,0,,Cam asta este în mare. \NMă bucur să te cunosc, micule erou.
+Dialogue: 99,0:08:15.91,0:08:17.68,Dialogue,,0,0,0,,Este o plăcere și pentru mine.
+Dialogue: 99,0:08:18.16,0:08:21.77,Dialogue,,0,0,0,,Deci, la ce v-ați referit când ați spus că-mi va fi greu să merg la cumpărături?
+Dialogue: 99,0:08:21.77,0:08:24.35,Dialogue,,0,0,0,,O, ei bine, vei înțelege când \Nvom ajunge în capitală.
+Dialogue: 99,0:08:42.73,0:08:44.67,Dialogue,,0,0,0,,O, priviți!
+Dialogue: 99,0:08:47.87,0:08:50.14,Dialogue,,0,0,0,,Aceea este capitala,
+Dialogue: 99,0:08:50.40,0:08:52.00,Dialogue,,0,0,0,,Stuttburg.
+Dialogue: 99,0:08:59.26,0:09:02.93,Dialogue,,0,0,0,,Hei, de ce nu începem prin \Na ne bucura puțin de oraș?
+Dialogue: 99,0:09:02.93,0:09:04.14,Dialogue,,0,0,0,,Bună idee!
+Dialogue: 99,0:09:04.14,0:09:06.25,Dialogue,,0,0,0,,Cred că vreau să cumpăr \Nuna din rochiile capitalei!
+Dialogue: 99,0:09:06.25,0:09:09.27,Dialogue,,0,0,0,,O, ei bine, eu trebuie să fiu prezent undeva,
+Dialogue: 99,0:09:10.58,0:09:13.84,Dialogue,,0,0,0,,deci, te rog să te ocup de restul. Și prin asta mă refer la toate.
+Dialogue: 99,0:09:17.16,0:09:18.64,Dialogue,,0,0,0,,A fugit.
+Dialogue: 99,0:09:18.64,0:09:19.79,Dialogue,,0,0,0,,Fugit?
+Dialogue: 99,0:09:24.68,0:09:25.66,Dialogue,,0,0,0,,Stai, ce?
+Dialogue: 99,0:09:25.66,0:09:27.62,Dialogue,,0,0,0,,Am făcut ceva greșit?
+Dialogue: 99,0:09:34.59,0:09:38.22,Dialogue,,0,0,0,,Ați făcut o treabă excelentă omorând acel dragon străvechi.
+Dialogue: 99,0:09:41.40,0:09:43.34,Dialogue,,0,0,0,,Maiestatea Sa vă așteaptă la castel.
+Dialogue: 99,0:09:43.83,0:09:45.06,Dialogue,,0,0,0,,Vă rog să veniți pe aici.
+Dialogue: 99,0:09:49.85,0:09:50.73,Dialogue,,0,0,0,,Maiestatea Sa?
+Dialogue: 99,0:09:55.25,0:09:56.80,Dialogue,,0,0,0,,{\i1}Acest loc este uriaș...
+Dialogue: 99,0:09:57.81,0:09:59.01,Dialogue,,0,0,0,,Well!
+Dialogue: 99,0:10:00.15,0:10:02.71,Dialogue,,0,0,0,,Noi vom merge la fratele tău, bine?
+Dialogue: 99,0:10:02.71,0:10:04.25,Dialogue,,0,0,0,,Pa!
+Dialogue: 99,0:10:05.58,0:10:06.69,Dialogue,,0,0,0,,Ce?!
+Dialogue: 99,0:10:06.69,0:10:08.80,Dialogue,,0,0,0,,Hei, băiete, te vei pierde.
+Dialogue: 99,0:10:08.80,0:10:11.88,Dialogue,,0,0,0,,O, v-vă rog să mă așteptați!
+Dialogue: 99,0:10:17.67,0:10:22.58,Dialogue,,0,0,0,,Ucigașul dragonului străvechi, Wendelin von Benno Baumeister,
+Dialogue: 99,0:10:22.58,0:10:25.25,Dialogue,,0,0,0,,și înlocuitorul lui Brantag Ringstat,
+Dialogue: 99,0:10:25.25,0:10:28.98,Dialogue,,0,0,0,,Aruterio Märchen, au ajuns!
+Dialogue: 99,0:10:44.03,0:10:45.97,Dialogue,,0,0,0,,Ridică-ți capul!
+Dialogue: 99,0:10:57.09,0:10:59.56,Dialogue,,0,0,0,,Chiar ești tânăr...
+Dialogue: 99,0:11:03.65,0:11:07.00,Dialogue,,0,0,0,,Wendelin von Benno Baumeister.
+Dialogue: 99,0:11:07.00,0:11:07.47,Dialogue,,0,0,0,,Da?
+Dialogue: 99,0:11:08.60,0:11:10.31,Dialogue,,0,0,0,,În onoarea faptelor tale de vitejie
+Dialogue: 99,0:11:10.31,0:11:15.36,Dialogue,,0,0,0,,reprezentate de uciderea dragonului străvechi și apărarea pasagerilor de pe aeronava noastră magică,
+Dialogue: 99,0:11:15.36,0:11:20.26,Dialogue,,0,0,0,,îți ofer al șaselea rang, \Nși anume, rangul baronet.
+Dialogue: 99,0:11:24.40,0:11:27.85,Dialogue,,0,0,0,,Hei, îți amintești ce te-am învățat mai devreme? Jurământul.
+Dialogue: 99,0:11:30.79,0:11:33.46,Dialogue,,0,0,0,,Îmi voi folosi sabia pentru \NMaiestatea Voastră,
+Dialogue: 99,0:11:33.46,0:11:34.85,Dialogue,,0,0,0,,pentru regatul nostru
+Dialogue: 99,0:11:34.85,0:11:36.80,Dialogue,,0,0,0,,și pentru poporul nostru.
+Dialogue: 99,0:11:38.77,0:11:43.28,Dialogue,,0,0,0,,{\i1}Ce? Tocmai am devenit un baronet?
+Dialogue: 99,0:11:43.28,0:11:47.95,Dialogue,,0,0,0,,În plus, îți vom oferi și \Nmedalia dragonilor gemeni.
+Dialogue: 99,0:11:50.36,0:11:53.60,Dialogue,,0,0,0,,Ești sigur că e în regulă să \Nnu te vezi cu Maiestatea Sa?
+Dialogue: 99,0:11:53.60,0:11:54.77,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:11:54.77,0:11:57.12,Dialogue,,0,0,0,,Oricum, băiatul este \Nvedeta acestui spectacol.
+Dialogue: 99,0:11:57.12,0:11:58.57,Dialogue,,0,0,0,,O, mulțumesc.
+Dialogue: 99,0:11:58.57,0:12:02.28,Dialogue,,0,0,0,,Hei, chiar va deveni Well un baronet?
+Dialogue: 99,0:12:02.53,0:12:05.49,Dialogue,,0,0,0,,Ei bine, sunt sigur că va primi un rang de nobil cel puțin la fel de mare.
+Dialogue: 99,0:12:06.24,0:12:08.55,Dialogue,,0,0,0,,Nu-mi vine să cred că va primi un rang de nobil mai mare
+Dialogue: 99,0:12:08.55,0:12:11.46,Dialogue,,0,0,0,,ca al tatălui nostru prin simplul fapt că a venit la nunta mea.
+Dialogue: 99,0:12:11.70,0:12:15.65,Dialogue,,0,0,0,,O, da, familia ta avea \Nrangul de cavaler, nu-i așa?
+Dialogue: 99,0:12:15.65,0:12:19.09,Dialogue,,0,0,0,,Hei, dacă chiar va deveni baronet,
+Dialogue: 99,0:12:19.09,0:12:22.36,Dialogue,,0,0,0,,nu ar crea asta o descendență separată?
+Dialogue: 99,0:12:22.69,0:12:25.42,Dialogue,,0,0,0,,Ba da. Asta înseamnă că numele său va fi scos din descendența familiei tale
+Dialogue: 99,0:12:25.42,0:12:28.56,Dialogue,,0,0,0,,și va fi pus drept capul \Nunei noi familii Baumeister.
+Dialogue: 99,0:12:30.48,0:12:34.44,Dialogue,,0,0,0,,Va alege Well să nu mai fie aventurier și să ne părăsească?
+Dialogue: 99,0:12:35.17,0:12:37.38,Dialogue,,0,0,0,,Nu, nu, chiar dacă va \Nprimi un rang de nobil,
+Dialogue: 99,0:12:37.38,0:12:40.02,Dialogue,,0,0,0,,va fi doar un nobil de robă, \Nunul care nu deține niciun pământ.
+Dialogue: 99,0:12:40.02,0:12:42.60,Dialogue,,0,0,0,,Nu va avea niciun motiv \Nsă rămână în capitală,
+Dialogue: 99,0:12:42.60,0:12:46.11,Dialogue,,0,0,0,,deci faptul dacă deveni sau nu aventurier ar trebui să țină doar de el.
+Dialogue: 99,0:12:47.32,0:12:50.43,Dialogue,,0,0,0,,Da, asta este o promovare \Nîmbucurătoare pentru Well!
+Dialogue: 99,0:12:52.10,0:12:55.54,Dialogue,,0,0,0,,Este adevărat că sunt niște aspecte care să te bucure, dar...
+Dialogue: 99,0:12:55.81,0:12:56.67,Dialogue,,0,0,0,,Dar?
+Dialogue: 99,0:12:56.67,0:13:00.21,Dialogue,,0,0,0,,Ei bine, sunt sigur că băiatul \Nnostru simte pe pielea sa
+Dialogue: 99,0:13:02.42,0:13:05.66,Dialogue,,0,0,0,,lanțurile care vin odată cu \Nintrarea în lumea nobililor.
+Dialogue: 99,0:13:08.45,0:13:12.41,Dialogue,,0,0,0,,170.000 de monede de aur \Npentru oase și piatra magică?
+Dialogue: 99,0:13:12.41,0:13:16.62,Dialogue,,0,0,0,,Lord Mareșal Edgar, cred că 130.000 de monede ar fi cantitatea corectă.
+Dialogue: 99,0:13:16.62,0:13:19.80,Dialogue,,0,0,0,,Deci mi-a spus să le adun deoarece valorează foarte mult.
+Dialogue: 99,0:13:20.13,0:13:22.59,Dialogue,,0,0,0,,Lord Comisar Ruckner,
+Dialogue: 99,0:13:22.59,0:13:25.90,Dialogue,,0,0,0,,vreți să spuneți că ar trebui să fim zgârciți cu recompensa domnului Baumeister
+Dialogue: 99,0:13:25.90,0:13:27.82,Dialogue,,0,0,0,,după ce și-a riscat viața în luptă?
+Dialogue: 99,0:13:27.82,0:13:29.83,Dialogue,,0,0,0,,O, dar eu chiar nu am—
+Dialogue: 99,0:13:28.64,0:13:31.06,Dialogue Overlap,,0,0,0,,Nu avem un buget nelimiat.
+Dialogue: 99,0:13:31.06,0:13:33.87,Dialogue,,0,0,0,,Domnul Baumeister este deja un cetățean al acestui regat,
+Dialogue: 99,0:13:33.87,0:13:36.44,Dialogue,,0,0,0,,deci sunt sigur că știe cum stă treaba.
+Dialogue: 99,0:13:36.44,0:13:37.54,Dialogue,,0,0,0,,Ei bine...
+Dialogue: 99,0:13:37.54,0:13:40.66,Dialogue,,0,0,0,,Cu oasele acelui dragon \Nstrăvechi și cristalele magice
+Dialogue: 99,0:13:40.66,0:13:42.56,Dialogue,,0,0,0,,pe care le putem crea dintr-o \Npiatră magică atât de mare,
+Dialogue: 99,0:13:42.56,0:13:46.53,Dialogue,,0,0,0,,am putea face să funcționeze din nou multe dintre aeronavele noastre!
+Dialogue: 99,0:13:46.53,0:13:51.31,Dialogue,,0,0,0,,Domnul Baumeister a reușit să prevadă acest lucru, iar dumneata vrei ca eforturile sale să fi fost în zadar?
+Dialogue: 99,0:13:51.31,0:13:52.12,Dialogue,,0,0,0,,Ei bine, eu doar—
+Dialogue: 99,0:13:52.12,0:13:55.03,Dialogue,,0,0,0,,Discutăm despre priorități în acest moment.
+Dialogue: 99,0:13:55.03,0:13:58.56,Dialogue,,0,0,0,,Sunt sigur că domnul \NBaumeister înțelege deja asta!
+Dialogue: 99,0:13:59.78,0:14:03.36,Dialogue,,0,0,0,,Cred că trebuie să vă liniștiți amândoi.
+Dialogue: 99,0:14:04.00,0:14:06.63,Dialogue,,0,0,0,,Fiecare dintre voi are dreptate.
+Dialogue: 99,0:14:06.63,0:14:10.50,Dialogue,,0,0,0,,Deci de ce nu facem un compromis și îi oferim 150.000 de monede de aur?
+Dialogue: 99,0:14:10.50,0:14:14.45,Dialogue,,0,0,0,,Cardinal Hohenheim, asta nu este o problemă atât de simplă.
+Dialogue: 99,0:14:14.72,0:14:16.37,Dialogue,,0,0,0,,Cu tot respectul,
+Dialogue: 99,0:14:16.37,0:14:21.45,Dialogue,,0,0,0,,domnul Baumeister ar trebui fie centrul atenției acum în capitală,
+Dialogue: 99,0:14:21.45,0:14:24.84,Dialogue,,0,0,0,,ca discipolul luminii care a \Nînvins acel dragon zombi.
+Dialogue: 99,0:14:25.06,0:14:30.00,Dialogue,,0,0,0,,Nu cred că ar fi prea \Nînțelept ca familia regală
+Dialogue: 99,0:14:30.00,0:14:33.22,Dialogue,,0,0,0,,să se facă de râs și mai mult în fața domnului Baumeister.
+Dialogue: 99,0:14:37.39,0:14:40.62,Dialogue,,0,0,0,,Scuză-mi intervenția. Pur și simplu nu am mai putut să-i privesc
+Dialogue: 99,0:14:40.62,0:14:43.58,Dialogue,,0,0,0,,cum îți irosesc timpul prețios, \Ndomnule Baumeister.
+Dialogue: 99,0:14:43.58,0:14:44.88,Dialogue,,0,0,0,,O, eu doar—
+Dialogue: 99,0:14:44.20,0:14:47.18,Dialogue Overlap,,0,0,0,,Și acum, haideți să începem pregătirile.
+Dialogue: 99,0:14:52.49,0:14:54.84,Dialogue,,0,0,0,,Și aici îl avem pe Cardinalul \NHohenheim care încearcă
+Dialogue: 99,0:14:54.84,0:14:57.64,Dialogue,,0,0,0,,să te facă să-l favorizezi ca să te aducă sub influența bisericii,
+Dialogue: 99,0:14:57.64,0:15:01.89,Dialogue,,0,0,0,,în timp ce Lordul Mareșal Edgar speră să te poată folosi în eforturile sale de a întări armata.
+Dialogue: 99,0:15:01.89,0:15:07.13,Dialogue,,0,0,0,,Între timp, Lordul Comisar Ruckner se concentrează doar să reducă suma de bani pe care ți-o vor da.
+Dialogue: 99,0:15:15.96,0:15:17.56,Dialogue,,0,0,0,,Domnule Baumeister!
+Dialogue: 99,0:15:18.31,0:15:19.78,Dialogue,,0,0,0,,Vă rog să priviți asta!
+Dialogue: 99,0:15:19.78,0:15:22.81,Dialogue,,0,0,0,,Tehnica mea secretă: Lancea Învârtită!
+Dialogue: 99,0:15:26.45,0:15:29.03,Dialogue,,0,0,0,,Ăsta este cumva un actor de stradă?
+Dialogue: 99,0:15:29.03,0:15:32.64,Dialogue,,0,0,0,,Nu, este doar o persoană care speră că-l vei lua în serviciul tău.
+Dialogue: 99,0:15:32.64,0:15:33.98,Dialogue,,0,0,0,,Ce? Al meu?!
+Dialogue: 99,0:15:33.98,0:15:35.36,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:15:35.36,0:15:37.55,Dialogue,,0,0,0,,Ești un nobil cu un viitor promițător,
+Dialogue: 99,0:15:37.55,0:15:41.73,Dialogue,,0,0,0,,care tocmai a primit medalia dragonilor gemeni care nu a mai fost primită de nimeni în ultimele două secole.
+Dialogue: 99,0:15:41.73,0:15:45.76,Dialogue,,0,0,0,,Ce credeți?! Pot spune cu încredere că sunt cel mai bun când vine vorba de mânuirea lăncii!
+Dialogue: 99,0:15:45.76,0:15:46.94,Dialogue,,0,0,0,,Hei, ce naiba crezi că faci?!
+Dialogue: 99,0:15:47.16,0:15:48.63,Dialogue,,0,0,0,,Numele meu este—
+Dialogue: 99,0:15:47.16,0:15:48.63,Dialogue,,0,0,0,,{\an8}Destul! Destul!
+Dialogue: 99,0:15:48.63,0:15:50.51,Dialogue,,0,0,0,,Fă asta la tine acasă!
+Dialogue: 99,0:15:49.31,0:15:50.51,Dialogue,,0,0,0,,S-Stați o se...
+Dialogue: 99,0:15:51.47,0:15:53.84,Dialogue,,0,0,0,,Vei fi asaltat de persoane de genul,
+Dialogue: 99,0:15:53.84,0:15:58.79,Dialogue,,0,0,0,,alături de negustori bogați implorându-te să te căsătorești cu fetele lor.
+Dialogue: 99,0:15:58.79,0:16:00.64,Dialogue,,0,0,0,,Voi fi asaltat de persoane de genul?
+Dialogue: 99,0:16:02.06,0:16:05.87,Dialogue,,0,0,0,,Probabil nu vei reuși să ieși \Npe afară pentru o vreme.
+Dialogue: 99,0:16:05.87,0:16:08.55,Dialogue,,0,0,0,,Ce? Atunci, cum ar trebui \Nsă fac cumpărături?!
+Dialogue: 99,0:16:08.55,0:16:11.57,Dialogue,,0,0,0,,De asta am spus că s-ar putea să fie greu.
+Dialogue: 99,0:16:13.47,0:16:17.43,Dialogue,,0,0,0,,Este prețul faimei pe care-l \Nplătești deoarece ești nobil.
+Dialogue: 99,0:16:17.43,0:16:19.50,Dialogue,,0,0,0,,Asta este atât de neplăcut...
+Dialogue: 99,0:16:30.72,0:16:32.30,Dialogue,,0,0,0,,A trecut ceva timp.
+Dialogue: 99,0:16:32.98,0:16:34.64,Dialogue,,0,0,0,,Hei, Well.
+Dialogue: 99,0:16:34.64,0:16:35.76,Dialogue,,0,0,0,,Ce mai faci?
+Dialogue: 99,0:16:36.27,0:16:38.97,Dialogue,,0,0,0,,Nu păreți foarte fericiți.
+Dialogue: 99,0:16:39.20,0:16:43.44,Dialogue,,0,0,0,,Adevărul este că nu am primit încă darurile de nuntă de la familia noastră.
+Dialogue: 99,0:16:47.17,0:16:50.84,Dialogue,,0,0,0,,Asta e de rău... nu?
+Dialogue: 99,0:16:50.84,0:16:52.48,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:16:52.48,0:16:58.41,Dialogue,,0,0,0,,Toți cei care vor veni vor crede că familia mirelui este una lipsită de maniere și eleganță.
+Dialogue: 99,0:16:58.41,0:17:01.79,Dialogue,,0,0,0,,Și mai rău, tocmai am primit o scrisoare de la fratele nostru Kurt...
+Dialogue: 99,0:17:01.79,0:17:04.87,Dialogue,,0,0,0,,Totuși, sunt sigur că cea \Ncare a scris-o a fost Amalie.
+Dialogue: 99,0:17:05.33,0:17:07.49,Dialogue,,0,0,0,,Oricum, pe scurt,
+Dialogue: 99,0:17:07.49,0:17:11.93,Dialogue,,0,0,0,,a spus că nu are bani, deci îmi cere mie și lui Paul să plătim pentru el.
+Dialogue: 99,0:17:12.58,0:17:16.29,Dialogue,,0,0,0,,Ce crede că pot face două gărzi ca noi?
+Dialogue: 99,0:17:16.29,0:17:19.80,Dialogue,,0,0,0,,Are măcar idee cât de modest \Nsuntem nevoiți să trăim?
+Dialogue: 99,0:17:20.09,0:17:22.77,Dialogue,,0,0,0,,Atunci, ce spuneți de niște flori drept cadou?
+Dialogue: 99,0:17:23.23,0:17:27.81,Dialogue,,0,0,0,,Ei bine, un dar de nuntă reprezintă, de asemenea, statutul nobililor.
+Dialogue: 99,0:17:27.81,0:17:30.25,Dialogue,,0,0,0,,Deci trebuie să fie ceva sclipitor și scump.
+Dialogue: 99,0:17:30.48,0:17:32.37,Dialogue,,0,0,0,,Statutul, nu?
+Dialogue: 99,0:17:32.37,0:17:38.19,Dialogue,,0,0,0,,Dar nu înseamnă asta că-l vor face de râs și pe Ducele de Bleichröder?
+Dialogue: 99,0:17:38.19,0:17:40.20,Dialogue,,0,0,0,,Ce? De ce s-ar întâmpla una ca asta?
+Dialogue: 99,0:17:40.43,0:17:42.16,Dialogue,,0,0,0,,Deoarece, Well,
+Dialogue: 99,0:17:42.16,0:17:48.66,Dialogue,,0,0,0,,familia Baumeister este \Nvasalul Ducelui de Bleichröder.
+Dialogue: 99,0:17:49.99,0:17:53.10,Dialogue,,0,0,0,,Lordul ar trebui să împrumute bani vasalilor săi
+Dialogue: 99,0:17:53.10,0:17:56.94,Dialogue,,0,0,0,,atunci când aceștia nu pot pregăti un dar de nuntă.
+Dialogue: 99,0:18:00.69,0:18:04.41,Dialogue,,0,0,0,,Deci, în acest caz, \Nva părea că Ducele Bleichröder
+Dialogue: 99,0:18:04.41,0:18:07.03,Dialogue,,0,0,0,,a refuzat să ne împrumute bani.
+Dialogue: 99,0:18:07.03,0:18:10.00,Dialogue,,0,0,0,,Dar asta este vina familiei noastre
+Dialogue: 99,0:18:10.00,0:18:12.75,Dialogue,,0,0,0,,deoarece nu i-a cerut ducelui niște bani.
+Dialogue: 99,0:18:12.75,0:18:15.11,Dialogue,,0,0,0,,Probabil nu am făcut-o deoarece știam că nu avem cum să-i dăm înapoi.
+Dialogue: 99,0:18:21.30,0:18:23.89,Dialogue,,0,0,0,,Hei, ar trebui să plătesc eu în schimb?
+Dialogue: 99,0:18:24.33,0:18:28.11,Dialogue,,0,0,0,,Casă de piatră!
+Dialogue: 99,0:18:34.19,0:18:38.17,Dialogue,,0,0,0,,{\i1}Să fii nobil este așa o bătaie de cap.
+Dialogue: 99,0:18:44.54,0:18:47.43,Dialogue,,0,0,0,,Hei, nu pari prea încântat, micuțule nobil.
+Dialogue: 99,0:18:47.43,0:18:49.56,Dialogue,,0,0,0,,Dacă vei continua să oftezi, \Ntoată fericirea te va părăsi.
+Dialogue: 99,0:18:50.24,0:18:51.92,Dialogue,,0,0,0,,Hei, Aruterio.
+Dialogue: 99,0:18:51.92,0:18:53.44,Dialogue,,0,0,0,,Vai, a fost o provocare să găsesc asta.
+Dialogue: 99,0:18:53.44,0:18:55.49,Dialogue,,0,0,0,,Nu am avut în niciunul \Ndin magazinele noastre,
+Dialogue: 99,0:18:55.49,0:18:57.70,Dialogue,,0,0,0,,așa că a trebuit să-i cer \Nunei cunoștințe de-a mea.
+Dialogue: 99,0:18:57.70,0:18:59.13,Dialogue,,0,0,0,,Ce? Vrei să spui că...
+Dialogue: 99,0:18:59.13,0:19:01.03,Dialogue,,0,0,0,,Mi-ai găsit?!
+Dialogue: 99,0:19:01.26,0:19:04.01,Dialogue,,0,0,0,,Se pare că a reușit să-l obțină din Mizuho, din regiunea nordică.
+Dialogue: 99,0:19:04.01,0:19:07.88,Dialogue,,0,0,0,,Oricum, ce este acest "malț de orez"?
+Dialogue: 99,0:19:08.16,0:19:11.42,Dialogue,,0,0,0,,Hei, încerci să începi vreun fel de afacere?
+Dialogue: 99,0:19:12.85,0:19:16.64,Dialogue,,0,0,0,,Dacă da, ai putea să-mi spui mie primul?
+Dialogue: 99,0:19:24.43,0:19:26.33,Dialogue,,0,0,0,,Ce te-a apucat atât de brusc?
+Dialogue: 99,0:19:26.33,0:19:30.61,Dialogue,,0,0,0,,Brantag a spus că ne va arăta viața de noapte din capitală.
+Dialogue: 99,0:19:30.61,0:19:31.74,Dialogue,,0,0,0,,Doar veniți cu mine!
+Dialogue: 99,0:19:31.74,0:19:33.27,Dialogue,,0,0,0,,Haideți! Ne-am întors!
+Dialogue: 99,0:19:32.56,0:19:33.68,Dialogue Overlap,,0,0,0,,Stai... Așteaptă!
+Dialogue: 99,0:19:33.68,0:19:35.18,Dialogue,,0,0,0,,Nu mă mai trage!
+Dialogue: 99,0:19:33.68,0:19:36.24,Dialogue Overlap,,0,0,0,,Haideți! Repede!
+Dialogue: 99,0:19:35.18,0:19:36.24,Dialogue,,0,0,0,,Am spus să aștepți!
+Dialogue: 99,0:20:00.21,0:20:02.86,Dialogue,,0,0,0,,Ai încercat să faci asta acasă, nu?
+Dialogue: 99,0:20:02.86,0:20:04.84,Dialogue,,0,0,0,,Facem "miso", parcă așa ai zis, nu?
+Dialogue: 99,0:20:04.84,0:20:08.15,Dialogue,,0,0,0,,Da, nu am reușit s-o fac să \Nfermenteze cum trebuie.
+Dialogue: 99,0:20:08.15,0:20:10.11,Dialogue,,0,0,0,,Mereu a prins mucegai.
+Dialogue: 99,0:20:10.11,0:20:13.31,Dialogue,,0,0,0,,Mi-am dat seama că este \Ndificil s-o faci fără malț de orez.
+Dialogue: 99,0:20:27.37,0:20:28.51,Dialogue,,0,0,0,,Bun...
+Dialogue: 99,0:20:29.87,0:20:33.86,Dialogue,,0,0,0,,În regulă. În mod normal, \Nar trebui să stea așa timp de un an...
+Dialogue: 99,0:20:37.84,0:20:39.46,Dialogue,,0,0,0,,Dar îmi voi folosi magia.
+Dialogue: 99,0:20:43.65,0:20:46.46,Dialogue,,0,0,0,,Te rog să fermentezi \Ncum trebuie de data asta!
+Dialogue: 99,0:20:50.52,0:20:52.00,Dialogue,,0,0,0,,{\i1}Acum că stau să mă gândesc,
+Dialogue: 99,0:20:52.00,0:20:54.52,Dialogue,,0,0,0,,{\i1}am vorbit odată cu cineva care face miso
+Dialogue: 99,0:20:54.88,0:20:57.58,Dialogue,,0,0,0,,{\i1}când încă eram angajat \Nla o companie comercială.
+Dialogue: 99,0:20:58.36,0:21:01.36,Dialogue,,0,0,0,,{\i1}M-a întrebat dacă știu care e diferența dintre fermentație și mucezire.
+Dialogue: 99,0:21:05.80,0:21:09.24,Dialogue,,0,0,0,,{\i1}Dacă-mi amintesc corect, \Nrăspunsul era că procesul este identic,
+Dialogue: 99,0:21:09.79,0:21:12.64,Dialogue,,0,0,0,,{\i1}dar fermentația este bună pentru oameni,
+Dialogue: 99,0:21:12.64,0:21:15.69,Dialogue,,0,0,0,,{\i1}în timp ce mucezirea este dăunătoare.
+Dialogue: 99,0:21:18.89,0:21:21.10,Dialogue,,0,0,0,,{\i1}Poate la fel este și cu a fi nobil.
+Dialogue: 99,0:21:23.64,0:21:25.77,Dialogue,,0,0,0,,{\i1}Aduce o grămadă de probleme cu statutul,
+Dialogue: 99,0:21:26.14,0:21:31.62,Dialogue,,0,0,0,,{\i1}dar nu am de ales decât să \Ntrăiesc în această lume, deci...
+Dialogue: 99,0:21:33.70,0:21:35.00,Dialogue,,0,0,0,,Este foarte bună!
+Dialogue: 99,0:21:36.04,0:21:39.14,Dialogue,,0,0,0,,{\i1}Cred că este mai bine dacă-mi \Ntrăiesc viața inteligent
+Dialogue: 99,0:21:39.63,0:21:42.36,Dialogue,,0,0,0,,{\i1}și îi fac pe ceilalți să creadă că sunt genul de nobil care fermentează.
+Dialogue: 99,0:21:54.55,0:21:56.82,Dialogue,,0,0,0,,M-ai chemat, bunicule?
+Dialogue: 99,0:21:57.20,0:21:59.15,Dialogue,,0,0,0,,O, ai venit.
+Dialogue: 99,0:22:04.04,0:22:07.99,Dialogue,,0,0,0,,Elise, m-am hotărât cine va fi soțul tău.
 Dialogue: 0,0:00:08.86,0:00:08.98,DedzuyaSigns,,0,0,0,,{=41}{\an7\pos(1016.67,503)\c&HC7D8E4&\blur1\p1}m -57 6 l -64 45 b -17 51 49 61 115 83 l 131 38 b 80 13 5 -19 -45 -28
 Dialogue: 1,0:00:08.86,0:00:08.98,DedzuyaSigns,,0,0,0,,{=40}{\pos(1016.67,503)\frz344.8\fry3\frx-7\fax-0.04\fnDJB Drives Me Dotty\fs32\c&H0E105E&\blur0.9}Capitala
 Dialogue: 1,0:00:08.86,0:00:08.98,DedzuyaSigns,,0,0,0,,{=39}{\pos(1079.62,551.81)\frz342.7\fry3\frx-7\fnDJB Drives Me Dotty\fs32\c&H0E105E&\blur0.9}Stuttburg

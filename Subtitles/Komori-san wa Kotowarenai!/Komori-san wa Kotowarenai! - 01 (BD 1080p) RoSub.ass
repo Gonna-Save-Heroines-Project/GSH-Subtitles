@@ -44,48 +44,48 @@ Style: DedzuyaSigns,Biko,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Dialogue,,0,0,0,,{Episod}
 Comment: 0,0:01:14.01,0:01:14.05,Dialogue,,0,0,0,,{ED}
-Dialogue: 100,0:00:01.81,0:00:04.07,Dialogue,,0,0,0,,Hei, Komori, mi-ai putea \Nda o mână de ajutor?
-Dialogue: 100,0:00:04.07,0:00:05.49,Dialogue,,0,0,0,,Komori, am nevoie de ajutorul tău!
-Dialogue: 100,0:00:05.49,0:00:06.86,Dialogue,,0,0,0,,Komori!
-Dialogue: 100,0:00:06.07,0:00:06.86,Default_alt,,0,0,0,,Komori!
-Dialogue: 100,0:00:11.57,0:00:13.79,Dialogue,,0,0,0,,{\i1}Eu sunt Komori Shuri \Nși am cincisprezece ani.
-Dialogue: 100,0:00:13.79,0:00:16.29,Dialogue,,0,0,0,,{\i1}Oamenii mereu îmi cer să-i ajut.
-Dialogue: 100,0:00:17.91,0:00:18.62,Dialogue,,0,0,0,,{\fad(0,75)}Komori!
-Dialogue: 100,0:00:18.62,0:00:19.46,Dialogue,,0,0,0,,{\fad(75,0)}Komori!
-Dialogue: 100,0:00:20.00,0:00:21.92,Dialogue,,0,0,0,,„Komori nu poate refuza!”
-Dialogue: 100,0:00:22.42,0:00:24.42,Dialogue,,0,0,0,,{\an8}Scuză-mă, pot merge eu prima?
-Dialogue: 100,0:00:24.42,0:00:25.09,Dialogue,,0,0,0,,{\an8}Ești invitata mea.
-Dialogue: 100,0:00:25.21,0:00:27.17,Dialogue,,0,0,0,,Scuze, dar chiar nu mă mai pot ține!
-Dialogue: 100,0:00:27.30,0:00:29.30,Dialogue,,0,0,0,,Scuze, nu mă mai pot ține!
-Dialogue: 100,0:00:30.80,0:00:31.68,Dialogue,,0,0,0,,Scuză-mă!
-Dialogue: 100,0:00:33.39,0:00:34.43,Dialogue,,0,0,0,,Ești invitata mea...
-Dialogue: 100,0:00:35.39,0:00:37.31,Dialogue,,0,0,0,,Să vedem acum cine va \Nrezolva următorul exercițiu...
-Dialogue: 100,0:00:37.31,0:00:38.52,Dialogue,,0,0,0,,Komori.
-Dialogue: 100,0:00:38.52,0:00:39.31,Dialogue,,0,0,0,,Desigur.
-Dialogue: 100,0:00:39.44,0:00:41.85,Dialogue,,0,0,0,,Acest exercițiu îl va rezolva... Komori.
-Dialogue: 100,0:00:41.85,0:00:42.40,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:00:42.52,0:00:45.15,Dialogue,,0,0,0,,Persoana care va rezolva acest exercițiu este... Komori.
-Dialogue: 100,0:00:45.15,0:00:45.82,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:00:45.94,0:00:47.57,Dialogue,,0,0,0,,Următorul exercițiu \Neste pentru Komori.
-Dialogue: 100,0:00:47.57,0:00:48.53,Dialogue,,0,0,0,,Oh, bine...
-Dialogue: 100,0:00:50.57,0:00:53.49,Dialogue,,0,0,0,,Deci, de ce oamenii apelează mereu la tine?
-Dialogue: 100,0:00:53.49,0:00:54.41,Dialogue,,0,0,0,,Nu am nicio idee.
-Dialogue: 100,0:00:54.41,0:00:56.41,Dialogue,,0,0,0,,Fața ta arată de parcă ai vrea să-i ajuți.
-Dialogue: 100,0:00:56.41,0:00:58.37,Dialogue,,0,0,0,,Vei fi în regulă dacă te vei deghiza.
-Dialogue: 100,0:01:01.08,0:01:03.04,Dialogue,,0,0,0,,Aș avea nevoie de ajutorul tău.
-Dialogue: 100,0:01:03.88,0:01:05.30,Dialogue,,0,0,0,,Deci e, de fapt, înălțimea ei.
-Dialogue: 100,0:01:05.34,0:01:07.67,Dialogue,,0,0,0,,Fă-te mică astfel încât \Nsă nu te observe nimeni!
-Dialogue: 100,0:01:07.67,0:01:08.67,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:01:08.67,0:01:10.26,Dialogue,,0,0,0,,Te rog, Komori!
-Dialogue: 100,0:01:10.26,0:01:10.88,Dialogue,,0,0,0,,Ce?
-Dialogue: 100,0:01:10.88,0:01:12.72,Dialogue,,0,0,0,,Ajută-mă să-mi găsesc \Nlentilele de contact!
-Dialogue: 100,0:01:12.72,0:01:14.01,Dialogue,,0,0,0,,Ah...
-Dialogue: 100,0:01:43.04,0:01:45.54,Dialogue,,0,0,0,,Toți pleacă după ce-i ajuți cu problemele lor.
-Dialogue: 100,0:01:45.54,0:01:47.42,Dialogue,,0,0,0,,You're too nice for your own good.
-Dialogue: 100,0:01:47.42,0:01:50.42,Dialogue,,0,0,0,,Faptul că pot să-i ajut mă face fericită.
-Dialogue: 100,0:01:52.59,0:01:53.80,Dialogue,,0,0,0,,Then here's our request!
-Dialogue: 100,0:01:53.80,0:01:55.35,Dialogue,,0,0,0,,Mergi cu noi spre casă!
-Dialogue: 100,0:01:55.97,0:01:56.80,Dialogue,,0,0,0,,Bine!
+Dialogue: 99,0:00:01.81,0:00:04.07,Dialogue,,0,0,0,,Hei, Komori, mi-ai putea \Nda o mână de ajutor?
+Dialogue: 99,0:00:04.07,0:00:05.49,Dialogue,,0,0,0,,Komori, am nevoie de ajutorul tău!
+Dialogue: 99,0:00:05.49,0:00:06.86,Dialogue,,0,0,0,,Komori!
+Dialogue: 99,0:00:06.07,0:00:06.86,Default_alt,,0,0,0,,Komori!
+Dialogue: 99,0:00:11.57,0:00:13.79,Dialogue,,0,0,0,,{\i1}Eu sunt Komori Shuri \Nși am cincisprezece ani.
+Dialogue: 99,0:00:13.79,0:00:16.29,Dialogue,,0,0,0,,{\i1}Oamenii mereu îmi cer să-i ajut.
+Dialogue: 99,0:00:17.91,0:00:18.62,Dialogue,,0,0,0,,{\fad(0,75)}Komori!
+Dialogue: 99,0:00:18.62,0:00:19.46,Dialogue,,0,0,0,,{\fad(75,0)}Komori!
+Dialogue: 99,0:00:20.00,0:00:21.92,Dialogue,,0,0,0,,„Komori nu poate refuza!”
+Dialogue: 99,0:00:22.42,0:00:24.42,Dialogue,,0,0,0,,{\an8}Scuză-mă, pot merge eu prima?
+Dialogue: 99,0:00:24.42,0:00:25.09,Dialogue,,0,0,0,,{\an8}Ești invitata mea.
+Dialogue: 99,0:00:25.21,0:00:27.17,Dialogue,,0,0,0,,Scuze, dar chiar nu mă mai pot ține!
+Dialogue: 99,0:00:27.30,0:00:29.30,Dialogue,,0,0,0,,Scuze, nu mă mai pot ține!
+Dialogue: 99,0:00:30.80,0:00:31.68,Dialogue,,0,0,0,,Scuză-mă!
+Dialogue: 99,0:00:33.39,0:00:34.43,Dialogue,,0,0,0,,Ești invitata mea...
+Dialogue: 99,0:00:35.39,0:00:37.31,Dialogue,,0,0,0,,Să vedem acum cine va \Nrezolva următorul exercițiu...
+Dialogue: 99,0:00:37.31,0:00:38.52,Dialogue,,0,0,0,,Komori.
+Dialogue: 99,0:00:38.52,0:00:39.31,Dialogue,,0,0,0,,Desigur.
+Dialogue: 99,0:00:39.44,0:00:41.85,Dialogue,,0,0,0,,Acest exercițiu îl va rezolva... Komori.
+Dialogue: 99,0:00:41.85,0:00:42.40,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:00:42.52,0:00:45.15,Dialogue,,0,0,0,,Persoana care va rezolva acest exercițiu este... Komori.
+Dialogue: 99,0:00:45.15,0:00:45.82,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:00:45.94,0:00:47.57,Dialogue,,0,0,0,,Următorul exercițiu \Neste pentru Komori.
+Dialogue: 99,0:00:47.57,0:00:48.53,Dialogue,,0,0,0,,Oh, bine...
+Dialogue: 99,0:00:50.57,0:00:53.49,Dialogue,,0,0,0,,Deci, de ce oamenii apelează mereu la tine?
+Dialogue: 99,0:00:53.49,0:00:54.41,Dialogue,,0,0,0,,Nu am nicio idee.
+Dialogue: 99,0:00:54.41,0:00:56.41,Dialogue,,0,0,0,,Fața ta arată de parcă ai vrea să-i ajuți.
+Dialogue: 99,0:00:56.41,0:00:58.37,Dialogue,,0,0,0,,Vei fi în regulă dacă te vei deghiza.
+Dialogue: 99,0:01:01.08,0:01:03.04,Dialogue,,0,0,0,,Aș avea nevoie de ajutorul tău.
+Dialogue: 99,0:01:03.88,0:01:05.30,Dialogue,,0,0,0,,Deci e, de fapt, înălțimea ei.
+Dialogue: 99,0:01:05.34,0:01:07.67,Dialogue,,0,0,0,,Fă-te mică astfel încât \Nsă nu te observe nimeni!
+Dialogue: 99,0:01:07.67,0:01:08.67,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:01:08.67,0:01:10.26,Dialogue,,0,0,0,,Te rog, Komori!
+Dialogue: 99,0:01:10.26,0:01:10.88,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:01:10.88,0:01:12.72,Dialogue,,0,0,0,,Ajută-mă să-mi găsesc \Nlentilele de contact!
+Dialogue: 99,0:01:12.72,0:01:14.01,Dialogue,,0,0,0,,Ah...
+Dialogue: 99,0:01:43.04,0:01:45.54,Dialogue,,0,0,0,,Toți pleacă după ce-i ajuți cu problemele lor.
+Dialogue: 99,0:01:45.54,0:01:47.42,Dialogue,,0,0,0,,You're too nice for your own good.
+Dialogue: 99,0:01:47.42,0:01:50.42,Dialogue,,0,0,0,,Faptul că pot să-i ajut mă face fericită.
+Dialogue: 99,0:01:52.59,0:01:53.80,Dialogue,,0,0,0,,Then here's our request!
+Dialogue: 99,0:01:53.80,0:01:55.35,Dialogue,,0,0,0,,Mergi cu noi spre casă!
+Dialogue: 99,0:01:55.97,0:01:56.80,Dialogue,,0,0,0,,Bine!
 Dialogue: 0,0:00:19.54,0:00:19.58,DedzuyaSigns,,0,0,0,,{=3}{\alpha&H00&\an1\pos(1855.48,455.84)\fscx173.42\fscy173.42\fs60\shad4.8777\blur6.82275\c&H000000&\4c&H62766B&}Komori \Nnu poate \Nrefuza!
 Dialogue: 0,0:00:19.58,0:00:19.62,DedzuyaSigns,,0,0,0,,{=3}{\alpha&H00&\an1\pos(1679.95,467.76)\fscx140.76\fscy140.76\fs60\shad4.6131\blur5.46825\c&H000000&\4c&H62766B&}Komori \Nnu poate \Nrefuza!
 Dialogue: 0,0:00:19.62,0:00:19.66,DedzuyaSigns,,0,0,0,,{=3}{\alpha&H00&\an1\pos(1567.31,475.46)\fscx119.8\fscy119.8\fs60\shad4.3485\blur4.11375\c&H000000&\4c&H62766B&}Komori \Nnu poate \Nrefuza!

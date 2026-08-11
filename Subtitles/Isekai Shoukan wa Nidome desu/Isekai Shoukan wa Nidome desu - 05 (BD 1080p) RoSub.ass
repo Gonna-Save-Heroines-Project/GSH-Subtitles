@@ -36,218 +36,218 @@ Style: OP TL,FOT-Comic Reggae Std,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:03.90,0:00:06.82,Dialogue,Mother,0,0,0,,Come on, Setsu. Say hi to Yuhi-chan.
-Dialogue: 100,0:00:09.16,0:00:10.20,Dialogue,Young Setsu,0,0,0,,Hey.
-Dialogue: 100,0:00:10.45,0:00:13.33,Dialogue,Young Yuhi,0,0,0,,Um, uh...
-Dialogue: 100,0:00:13.87,0:00:15.58,Dialogue,Young Yuhi,0,0,0,,Want to play with me?
-Dialogue: 100,0:00:15.58,0:00:17.04,Dialogue,Young Setsu,0,0,0,,No, thanks.
-Dialogue: 100,0:00:17.62,0:00:18.54,Dialogue,Young Setsu,0,0,0,,It's too hot.
-Dialogue: 100,0:00:19.04,0:00:20.54,Dialogue,Young Yuhi,0,0,0,,What?!
-Dialogue: 100,0:00:22.63,0:00:27.13,Dialogue,Yuhi,0,0,0,,{\i1}At first, he seemed like \Na scary, unfriendly boy.
-Dialogue: 100,0:00:29.01,0:00:31.39,Dialogue,Yuhi,0,0,0,,{\i1}But because we lived so close,
-Dialogue: 100,0:00:31.39,0:00:33.51,Dialogue,Yuhi,0,0,0,,{\i1}we spent a lot of time together.
-Dialogue: 100,0:00:34.97,0:00:39.52,Dialogue,Yuhi,0,0,0,,{\i1}He helped me with school, \Nplayed with me, and over time...
-Dialogue: 100,0:00:40.69,0:00:43.82,Dialogue,Yuhi,0,0,0,,{\i1}As I learned how kind he was, I...
-Dialogue: 100,0:00:47.49,0:00:48.32,Dialogue,Setsu,0,0,0,,What's wrong?
-Dialogue: 100,0:00:53.20,0:00:58.75,Dialogue,Yuhi,0,0,0,,Would I have to go to a place like this if \NI wanted to go to the same high school as you?
-Dialogue: 100,0:01:00.46,0:01:03.04,Dialogue,Yuhi,0,0,0,,Just kidding. Let's go home.
-Dialogue: 100,0:01:03.04,0:01:05.34,Dialogue,,0,0,0,,I have to help make dinner.
-Dialogue: 100,0:01:14.30,0:01:15.10,Dialogue,Yuhi,0,0,0,,Hey!
-Dialogue: 100,0:01:17.81,0:01:21.85,Dialogue,Yuhi,0,0,0,,What do you think... about what I said?
-Dialogue: 100,0:01:26.65,0:01:30.99,Dialogue,Setsu,0,0,0,,Maybe you should aim for an easier school.
-Dialogue: 100,0:01:31.40,0:01:34.74,Dialogue,Setsu,0,0,0,,We don't have to go to the same \Nschool if it's too much trouble.
-Dialogue: 100,0:01:34.74,0:01:38.37,Dialogue,Setsu,0,0,0,,You'd just make things harder \Nfor yourself in the long run.
-Dialogue: 100,0:01:44.33,0:01:46.88,Dialogue,Yuhi,0,0,0,,I get it. Never mind.
-Dialogue: 100,0:01:48.76,0:01:50.38,Dialogue,Setsu,0,0,0,,Hey, Yuhi?
-Dialogue: 100,0:02:05.90,0:02:06.86,Dialogue,Male Student,0,0,0,,See ya.
-Dialogue: 100,0:02:20.87,0:02:24.00,Dialogue,Yuhi,0,0,0,,I guess I'm not good enough...
-Dialogue: 100,0:02:28.88,0:02:31.92,Dialogue,Man A,0,0,0,,Hey, why the gloomy face?
-Dialogue: 100,0:02:31.92,0:02:34.68,Dialogue,Man B,0,0,0,,Were your mock exam results bad?
-Dialogue: 100,0:02:36.64,0:02:39.64,Dialogue,Man C,0,0,0,,Poor thing. She looks crushed.
-Dialogue: 100,0:02:39.64,0:02:40.93,Dialogue,Man A,0,0,0,,Seriously?
-Dialogue: 100,0:02:40.93,0:02:44.69,Dialogue,Man A,0,0,0,,If it's beyond your abilities, \Njust give up. You'll have more fun.
-Dialogue: 100,0:02:44.69,0:02:46.40,Dialogue,Yuhi,0,0,0,,I...
-Dialogue: 100,0:02:46.40,0:02:49.02,Dialogue,Man B,0,0,0,,Deep down, you get it, don't you?
-Dialogue: 100,0:02:49.86,0:02:53.19,Dialogue,Man B,0,0,0,,Just stop studying and hang out with us.
-Dialogue: 100,0:02:53.49,0:02:54.99,Dialogue,Men,0,0,0,,Come on, let's do it.
-Dialogue: 100,0:02:54.99,0:02:56.99,Dialogue,Men,0,0,0,,Let's play. We know more fun stuff.
-Dialogue: 100,0:02:56.99,0:02:59.41,Dialogue,Men,0,0,0,,Let's let all the stress out, right?
-Dialogue: 100,0:02:57.78,0:02:59.41,Dialogue,Setsu,0,0,0,,Uh, sorry, guys.
-Dialogue: 100,0:03:00.79,0:03:05.33,Dialogue,Setsu,0,0,0,,We're busy studying,\N so please find someone else to pick on.
-Dialogue: 100,0:03:05.33,0:03:06.46,Dialogue,Man B,0,0,0,,Huh?
-Dialogue: 100,0:03:06.67,0:03:08.21,Dialogue,Yuhi,0,0,0,,Yuki-kun...
-Dialogue: 100,0:03:08.54,0:03:10.04,Dialogue,Man C,0,0,0,,"Yuki-kun"?
-Dialogue: 100,0:03:10.04,0:03:12.09,Dialogue,Man A,0,0,0,,What, she has a guy?
-Dialogue: 100,0:03:12.09,0:03:14.09,Dialogue,Man B,0,0,0,,Sorry to bother you.
-Dialogue: 100,0:03:14.09,0:03:16.01,Dialogue,Men,0,0,0,,Damn, what a buzzkill.
-Dialogue: 100,0:03:16.01,0:03:17.89,Dialogue,Men,0,0,0,,Let's go grab something to eat.
-Dialogue: 100,0:03:17.89,0:03:18.64,Dialogue,Men,0,0,0,,Yeah.
-Dialogue: 100,0:03:22.01,0:03:23.77,Dialogue,Yuhi,0,0,0,,Why are you here?
-Dialogue: 100,0:03:23.77,0:03:26.02,Dialogue,Setsu,0,0,0,,So? What are you going to do?
-Dialogue: 100,0:03:26.02,0:03:28.23,Dialogue,Yuhi,0,0,0,,Huh? What do you mean?
-Dialogue: 100,0:03:29.19,0:03:32.73,Dialogue,Setsu,0,0,0,,What they said wasn't entirely wrong.
-Dialogue: 100,0:03:33.28,0:03:35.74,Dialogue,Setsu,0,0,0,,Reaching beyond your \Nlimits won't help anyone.
-Dialogue: 100,0:03:58.30,0:03:59.76,Dialogue,Yuhi,0,0,0,,I...
-Dialogue: 100,0:04:00.39,0:04:03.39,Dialogue,Yuhi,0,0,0,,Even if people tell me I'm not good enough,
-Dialogue: 100,0:04:03.39,0:04:07.98,Dialogue,Yuhi,0,0,0,,I still want to go to the same school as you.
-Dialogue: 100,0:04:21.28,0:04:23.28,Dialogue,Setsu,0,0,0,,Then there's no other way, I guess.
-Dialogue: 100,0:04:24.37,0:04:26.79,Dialogue,Setsu,0,0,0,,If that's what you're determined to do,
-Dialogue: 100,0:04:26.79,0:04:29.04,Dialogue,Setsu,0,0,0,,I'll have to buckle down and pitch in.
-Dialogue: 100,0:04:29.46,0:04:30.08,Dialogue,Yuhi,0,0,0,,Huh?
-Dialogue: 100,0:04:30.58,0:04:33.29,Dialogue,Setsu,0,0,0,,I'm saying I'll help you study.
-Dialogue: 100,0:04:33.54,0:04:37.55,Dialogue,Setsu,0,0,0,,But I won't go easy on you, no matter \Nhow much you cry and complain.
-Dialogue: 100,0:04:42.55,0:04:45.18,Dialogue,Yuhi,0,0,0,,Yes, please! Thank you!
-Dialogue: 100,0:04:47.56,0:04:55.61,Dialogue,Yuhi,0,0,0,,{\i1}I wanted to be with Yuki-kun, \Nwho I love so much, forever...
-Dialogue: 100,0:06:36.75,0:06:38.46,Dialogue,Elka,0,0,0,,Open fire!
-Dialogue: 100,0:06:43.67,0:06:45.01,Dialogue,Female Student 8 & 9,0,0,0,,We did it!
-Dialogue: 100,0:06:45.26,0:06:46.64,Dialogue,Female Student 8,0,0,0,,It worked!
-Dialogue: 100,0:06:46.64,0:06:49.06,Dialogue,Female Student 9,0,0,0,,I know, right?! It's awesome!
-Dialogue: 100,0:06:59.77,0:07:00.78,Dialogue,Elka,0,0,0,,Finish!
-Dialogue: 100,0:07:05.57,0:07:07.70,Dialogue,Elka,0,0,0,,Yuhi-san, that was impressive.
-Dialogue: 100,0:07:07.70,0:07:10.03,Dialogue,Elka,0,0,0,,The others have improved a lot, as well.
-Dialogue: 100,0:07:10.95,0:07:13.00,Dialogue,Elka,0,0,0,,We'll call it a day for now.
-Dialogue: 100,0:07:13.00,0:07:14.29,Dialogue,Elka,0,0,0,,Good work, everyone.
-Dialogue: 100,0:07:14.96,0:07:16.75,Dialogue,Students,0,0,0,,Thank you!
-Dialogue: 100,0:07:17.88,0:07:20.00,Dialogue,Students,0,0,0,,Good work, guys.
-Dialogue: 100,0:07:20.00,0:07:21.30,Dialogue,Students,0,0,0,,I'm so hungry.
-Dialogue: 100,0:07:25.93,0:07:28.30,Dialogue,Yuhi,0,0,0,,Um, do you have a moment?
-Dialogue: 100,0:07:29.85,0:07:34.56,Dialogue,Yuhi,0,0,0,,You're Yuki-kun's friends from \Nthe last time he was here...
-Dialogue: 100,0:07:35.02,0:07:37.56,Dialogue,Yuhi,0,0,0,,Or rather, his companions, right?
-Dialogue: 100,0:07:39.48,0:07:43.86,Dialogue,Glein,0,0,0,,That's right. We still see him \Nas a friend and a companion.
-Dialogue: 100,0:07:44.44,0:07:47.70,Dialogue,Elka,0,0,0,,Setsu-sama tends to draw \Nothers in unconsciously,
-Dialogue: 100,0:07:48.61,0:07:52.03,Dialogue,Elka,0,0,0,,so who knows if he feels \Nthe same way about us?
-Dialogue: 100,0:07:55.16,0:07:57.71,Dialogue,Elka,0,0,0,,I still have the utmost respect for him,
-Dialogue: 100,0:07:58.42,0:08:03.71,Dialogue,Elka,0,0,0,,and wish I could stand by him forever \Nand gaze at the same scenery with him.
-Dialogue: 100,0:08:10.22,0:08:12.22,Dialogue,Elka,0,0,0,,Anyway, what is your question?
-Dialogue: 100,0:08:14.10,0:08:17.98,Dialogue,Yuhi,0,0,0,,C-Can you give me special training?!
-Dialogue: 100,0:08:17.98,0:08:20.86,Dialogue,Yuhi,0,0,0,,I want to be with Yuki-kun, too!
-Dialogue: 100,0:08:32.45,0:08:36.62,Dialogue,Elka,0,0,0,,This is the peaceful world \Nthat Setsu-sama created.
-Dialogue: 100,0:08:37.71,0:08:42.08,Dialogue,Elka,0,0,0,,And, as we speak, Setsu-sama is surely \Nfighting somewhere beyond this sky we see
-Dialogue: 100,0:08:42.08,0:08:45.13,Dialogue,Elka,0,0,0,,to maintain peace in this world.
-Dialogue: 100,0:08:49.88,0:08:52.85,Dialogue,Elka,0,0,0,,As Setsu-sama's companions,
-Dialogue: 100,0:08:53.14,0:08:58.85,Dialogue,Elka,0,0,0,,we're staying prepared so we \Ncan act at a moment's notice.
-Dialogue: 100,0:09:01.98,0:09:07.28,Dialogue,Yuhi,0,0,0,,I have both the desire to be with Yuki-kun \Nand the determination to do what it takes.
-Dialogue: 100,0:09:07.28,0:09:10.70,Dialogue,Yuhi,0,0,0,,But I lack the strength, so...
-Dialogue: 100,0:09:13.99,0:09:15.28,Dialogue,Yuhi,0,0,0,,Elka-san,
-Dialogue: 100,0:09:16.58,0:09:17.91,Dialogue,Yuhi,0,0,0,,please!
-Dialogue: 100,0:09:19.75,0:09:23.75,Dialogue,Elka,0,0,0,,Once you've spoken those words to me...
-Dialogue: 100,0:09:25.13,0:09:27.71,Dialogue,Elka,0,0,0,,I'll never let you say you were just joking!
-Dialogue: 100,0:09:33.51,0:09:34.35,Dialogue,Elka,0,0,0,,Here I come!
-Dialogue: 100,0:09:41.35,0:09:42.19,Dialogue,Elka,0,0,0,,It's not over!
-Dialogue: 100,0:09:57.12,0:10:01.33,Dialogue,Elka,0,0,0,,You've grown much stronger than you realize.
-Dialogue: 100,0:10:02.79,0:10:06.17,Dialogue,Elka,0,0,0,,All of the kids that came from \Nthe other world are exceptional,
-Dialogue: 100,0:10:06.17,0:10:08.25,Dialogue,Elka,0,0,0,,but you're quite special, even among them.
-Dialogue: 100,0:10:11.26,0:10:15.59,Dialogue,Elka,0,0,0,,But still, if you wish to \Nstand by Setsu-sama's side,
-Dialogue: 100,0:10:15.59,0:10:18.60,Dialogue,Elka,0,0,0,,there is something you definitely lack.
-Dialogue: 100,0:10:26.94,0:10:29.98,Dialogue,Yuhi,0,0,0,,What's the thing that I lack?
-Dialogue: 100,0:10:31.44,0:10:34.36,Dialogue,Elka,0,0,0,,This is a sewer infested with monsters.
-Dialogue: 100,0:10:34.70,0:10:37.91,Dialogue,Elka,0,0,0,,We sometimes use this as a final \Ntraining ground for soldiers.
-Dialogue: 100,0:10:38.41,0:10:41.37,Dialogue,Yuhi,0,0,0,,M-Monsters? Final training?
-Dialogue: 100,0:10:43.46,0:10:45.54,Dialogue,Elka,0,0,0,,Here it comes.
-Dialogue: 100,0:10:45.54,0:10:46.38,Dialogue,Yuhi,0,0,0,,Huh?
-Dialogue: 100,0:11:07.48,0:11:09.52,Dialogue,Elka,0,0,0,,This is no time to be startled!
-Dialogue: 100,0:11:15.40,0:11:17.24,Dialogue,Elka,0,0,0,,Now fight!
-Dialogue: 100,0:11:24.50,0:11:26.17,Dialogue,Elka,0,0,0,,Don't flinch! Fight!
-Dialogue: 100,0:11:26.17,0:11:29.17,Dialogue,Elka,0,0,0,,You have more than enough strength!
-Dialogue: 100,0:11:30.29,0:11:31.67,Dialogue,Yuhi,0,0,0,,Elka-san!
-Dialogue: 100,0:11:38.68,0:11:41.68,Dialogue,Yuhi,0,0,0,,I did it! I fought!
-Dialogue: 100,0:11:41.68,0:11:42.93,Dialogue,Elka,0,0,0,,Don't let your guard down!
-Dialogue: 100,0:11:58.11,0:11:58.74,Dialogue,Elka,0,0,0,,Now!
-Dialogue: 100,0:11:58.74,0:12:00.53,Dialogue,Yuhi,0,0,0,,Take this!
-Dialogue: 100,0:12:13.55,0:12:15.46,Dialogue,Yuhi,0,0,0,,H-Haven't you had enough?
-Dialogue: 100,0:12:15.46,0:12:17.38,Dialogue,Yuhi,0,0,0,,You're hurt. If you move now...
-Dialogue: 100,0:12:17.38,0:12:18.68,Dialogue,Elka,0,0,0,,Finish it.
-Dialogue: 100,0:12:20.51,0:12:22.93,Dialogue,Elka,0,0,0,,You have indeed become stronger.
-Dialogue: 100,0:12:22.93,0:12:26.85,Dialogue,Elka,0,0,0,,In terms of magic ability alone, \Nyou're almost equal to me.
-Dialogue: 100,0:12:26.85,0:12:27.94,Dialogue,Elka,0,0,0,,But...
-Dialogue: 100,0:12:27.94,0:12:29.52,Dialogue,Elka,0,0,0,,This is war.
-Dialogue: 100,0:12:30.31,0:12:32.77,Dialogue,Elka,0,0,0,,Kill the enemy, or they \Nwill kill your friends.
-Dialogue: 100,0:12:32.77,0:12:34.53,Dialogue,Elka,0,0,0,,The other side thinks the same way.
-Dialogue: 100,0:12:35.19,0:12:39.57,Dialogue,Elka,0,0,0,,If you want to protect those dear to you,\N you must fight and end lives.
-Dialogue: 100,0:12:39.86,0:12:43.58,Dialogue,Elka,0,0,0,,{\i1}That{\i0} determination is what you lack.
-Dialogue: 100,0:12:44.62,0:12:47.58,Dialogue,Yuhi,0,0,0,,The determination... to take lives...
-Dialogue: 100,0:13:10.19,0:13:11.69,Dialogue,Yuhi,0,0,0,,Elka-san...
-Dialogue: 100,0:13:23.70,0:13:27.41,Dialogue,Yuhi,0,0,0,,This is what I lack...
-Dialogue: 100,0:13:47.43,0:13:49.18,Dialogue,Yuhi,0,0,0,,Yes, come in!
-Dialogue: 100,0:13:50.31,0:13:52.56,Dialogue,Thea,0,0,0,,Hey there. Mind if I come in?
-Dialogue: 100,0:14:01.78,0:14:03.45,Dialogue,Thea,0,0,0,,There, that's better.
-Dialogue: 100,0:14:04.66,0:14:07.45,Dialogue,Yuhi,0,0,0,,Thank you. I appreciate it.
-Dialogue: 100,0:14:07.45,0:14:12.96,Dialogue,Thea,0,0,0,,Elka was crazy to throw you into \Na real battle so suddenly.
-Dialogue: 100,0:14:12.96,0:14:16.21,Dialogue,Yuhi,0,0,0,,No, I asked for it.
-Dialogue: 100,0:14:20.13,0:14:24.09,Dialogue,Thea,0,0,0,,I see you as one of us, too.
-Dialogue: 100,0:14:24.51,0:14:25.26,Dialogue,Yuhi,0,0,0,,Huh?
-Dialogue: 100,0:14:25.26,0:14:28.85,Dialogue,Thea,0,0,0,,We don't know what Setsu was \Nlike in the other world,
-Dialogue: 100,0:14:29.97,0:14:35.77,Dialogue,Thea,0,0,0,,but he looks at you the same way he looks at us.
-Dialogue: 100,0:14:38.15,0:14:42.11,Dialogue,Thea,0,0,0,,That's also why I understand \Nwhere Elka's coming from.
-Dialogue: 100,0:14:42.82,0:14:45.74,Dialogue,Thea,0,0,0,,We can't teach determination.
-Dialogue: 100,0:14:45.74,0:14:50.70,Dialogue,Thea,0,0,0,,Elka is hard on you because she \Nwants to treat you as a true equal.
-Dialogue: 100,0:14:52.00,0:14:53.54,Dialogue,Yuhi,0,0,0,,Thea-san...
-Dialogue: 100,0:14:53.91,0:14:58.09,Dialogue,Thea,0,0,0,,Why do you want to be with Setsu so badly?
-Dialogue: 100,0:14:58.54,0:15:01.88,Dialogue,Thea,0,0,0,,You know being near him will \Nput you in lots of danger.
-Dialogue: 100,0:15:03.80,0:15:08.64,Dialogue,Yuhi,0,0,0,,Because Yuki-kun has helped \Nme out my whole life.
-Dialogue: 100,0:15:15.19,0:15:20.40,Dialogue,Yuhi,0,0,0,,So, this time, I want to be the one to help him.
-Dialogue: 100,0:15:20.40,0:15:21.61,Dialogue,Thea,0,0,0,,I see.
-Dialogue: 100,0:15:24.40,0:15:29.12,Dialogue,Thea,0,0,0,,Well, all we can do is meddle,\N but I do wish you good luck.
-Dialogue: 100,0:15:29.12,0:15:30.08,Dialogue,Yuhi,0,0,0,,Thanks!
-Dialogue: 100,0:15:35.91,0:15:39.33,Dialogue,Thea,0,0,0,,It'll be all right. Yuhi is strong.
-Dialogue: 100,0:15:39.33,0:15:41.67,Dialogue,Elka,0,0,0,,That much is obvious.
-Dialogue: 100,0:15:42.42,0:15:48.55,Dialogue,Elka,0,0,0,,Defending herself on the battlefield \Nshould be easy for her at this point.
-Dialogue: 100,0:15:49.09,0:15:52.31,Dialogue,Elka,0,0,0,,But if she fights alongside us,
-Dialogue: 100,0:15:53.02,0:15:56.56,Dialogue,Elka,0,0,0,,who knows what kind of dangerous \Nfoes she'll eventually face?
-Dialogue: 100,0:15:57.23,0:16:02.90,Dialogue,Thea,0,0,0,,And you don't think Setsu wants us to \Nforce that kind of determination on Yuhi?
-Dialogue: 100,0:16:05.28,0:16:09.99,Dialogue,Thea,0,0,0,,But that's not for us to decide, \Nand not for Setsu to decide, either.
-Dialogue: 100,0:16:09.99,0:16:11.91,Dialogue,Thea,0,0,0,,It's all up to Yuhi herself.
-Dialogue: 100,0:16:11.91,0:16:16.33,Dialogue,Thea,0,0,0,,All we can do is respect the determination \Nthat Yuhi finds for herself.
-Dialogue: 100,0:16:19.33,0:16:21.50,Dialogue,Thea,0,0,0,,I'll sleep a bit more.
-Dialogue: 100,0:16:21.50,0:16:22.54,Dialogue,Thea,0,0,0,,Goodnight.
-Dialogue: 100,0:16:26.59,0:16:27.76,Dialogue,Elka,0,0,0,,I...
-Dialogue: 100,0:16:29.26,0:16:30.64,Dialogue,Glein,0,0,0,,Excuse me.
-Dialogue: 100,0:16:44.69,0:16:46.19,Dialogue,Glein,0,0,0,,Is this about last night?
-Dialogue: 100,0:16:46.19,0:16:47.53,Dialogue,Yuhi,0,0,0,,Glein-san...
-Dialogue: 100,0:16:50.61,0:16:54.41,Dialogue,Glein,0,0,0,,Being hesitant about taking lives is natural.
-Dialogue: 100,0:16:54.41,0:16:58.41,Dialogue,Glein,0,0,0,,Even if it's for the sake \Nof someone precious to you.
-Dialogue: 100,0:16:59.96,0:17:04.04,Dialogue,Yuhi,0,0,0,,Glein-san, how did you gather \Nthe determination to fight?
-Dialogue: 100,0:17:05.13,0:17:08.22,Dialogue,Glein,0,0,0,,I just chose to make others suffer,
-Dialogue: 100,0:17:09.09,0:17:11.97,Dialogue,Glein,0,0,0,,rather than watch the \Npeople around me suffer.
-Dialogue: 100,0:17:12.80,0:17:14.43,Dialogue,Glein,0,0,0,,Like any other soldier.
-Dialogue: 100,0:17:18.60,0:17:22.19,Dialogue,Glein,0,0,0,,But that's just what works for me.
-Dialogue: 100,0:17:24.31,0:17:26.44,Dialogue,Glein,0,0,0,,You have your own determination.
-Dialogue: 100,0:17:26.90,0:17:30.70,Dialogue,Glein,0,0,0,,You have to find the answer by yourself.
-Dialogue: 100,0:17:31.11,0:17:32.36,Dialogue,Yuhi,0,0,0,,{\i1}My...
-Dialogue: 100,0:17:34.03,0:17:35.20,Dialogue,Yuhi,0,0,0,,{\i1}determination...
-Dialogue: 100,0:17:36.95,0:17:40.87,Dialogue,Glein,0,0,0,,Setsu-san probably wants you to come up \Nwith the answer that best suits you.
-Dialogue: 100,0:17:46.50,0:17:51.30,Dialogue,Yuhi,0,0,0,,{\i1}I want to stay true to myself, \Nyet I want to fight...
-Dialogue: 100,0:18:33.30,0:18:35.76,Dialogue,Elka,0,0,0,,Since you've returned,
-Dialogue: 100,0:18:35.76,0:18:38.56,Dialogue,Elka,0,0,0,,does that mean you've \Nfound your determination?
-Dialogue: 100,0:18:39.85,0:18:42.14,Dialogue,Yuhi,0,0,0,,Yes. I've made my decision.
-Dialogue: 100,0:19:06.63,0:19:10.46,Dialogue,Elka,0,0,0,,Forcing yourself out of your \Ncomfort zone in battle might break you.
-Dialogue: 100,0:19:10.96,0:19:15.97,Dialogue,Yuhi,0,0,0,,Elka-san, please witness my determination.
-Dialogue: 100,0:19:52.42,0:19:53.63,Dialogue,Elka,0,0,0,,Impressive.
-Dialogue: 100,0:19:54.59,0:19:57.34,Dialogue,Elka,0,0,0,,Outstanding power and accuracy alike.
-Dialogue: 100,0:19:57.34,0:20:00.55,Dialogue,Elka,0,0,0,,Yuhi-san, I'll admit, your determination is—
-Dialogue: 100,0:20:00.93,0:20:01.97,Dialogue,Yuhi,0,0,0,,No.
-Dialogue: 100,0:20:04.56,0:20:05.93,Dialogue,Yuhi,0,0,0,,It's not dead.
-Dialogue: 100,0:20:07.81,0:20:10.31,Dialogue,Yuhi,0,0,0,,I just temporarily incapacitated it.
-Dialogue: 100,0:20:12.90,0:20:17.15,Dialogue,Yuhi,0,0,0,,This is my determination:\Nto never take a life.
-Dialogue: 100,0:20:17.15,0:20:21.58,Dialogue,Yuhi,0,0,0,,I will never lose, and I will \Nnever take anyone's life!
-Dialogue: 100,0:20:22.16,0:20:23.58,Dialogue,Elka,0,0,0,,Yuhi-san...
-Dialogue: 100,0:20:26.37,0:20:30.50,Dialogue,Elka,0,0,0,,Well, you got me. That answer \Nis just like Setsu-sama's.
-Dialogue: 100,0:20:31.63,0:20:33.63,Dialogue,Elka,0,0,0,,I'm impressed by your determination,
-Dialogue: 100,0:20:34.13,0:20:36.97,Dialogue,Elka,0,0,0,,but that would require an astounding \Namount of power to pull off.
-Dialogue: 100,0:20:36.97,0:20:41.09,Dialogue,Yuhi,0,0,0,,Yes! I'll become much, much stronger!
-Dialogue: 100,0:20:43.47,0:20:46.27,Dialogue,Yuhi,0,0,0,,{\i1}So that I can protect Elka-san, Yuki-kun,
-Dialogue: 100,0:20:48.56,0:20:50.65,Dialogue,Yuhi,0,0,0,,{\i1}and everyone else.
-Dialogue: 100,0:20:55.19,0:20:57.24,Dialogue,Glein,0,0,0,,The king has issued his decree.
-Dialogue: 100,0:20:58.57,0:21:02.87,Dialogue,Glein,0,0,0,,We, the Knights of Distinia, in order \Nto protect our nation and its citizens,
-Dialogue: 100,0:21:02.87,0:21:07.25,Dialogue,Glein,0,0,0,,will leave tomorrow at dawn for \Nthe demonic nation of Eviltheon.
-Dialogue: 100,0:21:08.25,0:21:11.71,Dialogue,Glein,0,0,0,,Everyone, prepare yourselves, \Nboth physically and mentally!
-Dialogue: 100,0:21:12.54,0:21:13.50,Dialogue,Glein,0,0,0,,Sunteți liberi!
-Dialogue: 100,0:21:13.50,0:21:15.55,Dialogue,Male Student A,0,0,0,,So the time is finally here...
-Dialogue: 100,0:21:13.50,0:21:15.55,Dialogue,Female Student 1,0,0,0,,{\an8}I have to fight. I don't wanna die...
-Dialogue: 100,0:21:15.55,0:21:17.13,Dialogue,Female Student 2,0,0,0,,{\an8}Can I really shoot a person?
-Dialogue: 100,0:21:15.55,0:21:18.51,Dialogue,Male Student B,0,0,0,,Can we really fight, \Nafter such brief training?
-Dialogue: 100,0:21:32.10,0:21:34.23,Dialogue,Yuhi,0,0,0,,Așteaptă doar, Yuki.
-Dialogue: 100,0:23:27.76,0:23:31.01,Dialogue,Yuhi,0,0,0,,Data viitoare: {\i1}Maestru și \Nucenic pentru a doua oară{\i0}.
+Dialogue: 99,0:00:03.90,0:00:06.82,Dialogue,Mother,0,0,0,,Come on, Setsu. Say hi to Yuhi-chan.
+Dialogue: 99,0:00:09.16,0:00:10.20,Dialogue,Young Setsu,0,0,0,,Hey.
+Dialogue: 99,0:00:10.45,0:00:13.33,Dialogue,Young Yuhi,0,0,0,,Um, uh...
+Dialogue: 99,0:00:13.87,0:00:15.58,Dialogue,Young Yuhi,0,0,0,,Want to play with me?
+Dialogue: 99,0:00:15.58,0:00:17.04,Dialogue,Young Setsu,0,0,0,,No, thanks.
+Dialogue: 99,0:00:17.62,0:00:18.54,Dialogue,Young Setsu,0,0,0,,It's too hot.
+Dialogue: 99,0:00:19.04,0:00:20.54,Dialogue,Young Yuhi,0,0,0,,What?!
+Dialogue: 99,0:00:22.63,0:00:27.13,Dialogue,Yuhi,0,0,0,,{\i1}At first, he seemed like \Na scary, unfriendly boy.
+Dialogue: 99,0:00:29.01,0:00:31.39,Dialogue,Yuhi,0,0,0,,{\i1}But because we lived so close,
+Dialogue: 99,0:00:31.39,0:00:33.51,Dialogue,Yuhi,0,0,0,,{\i1}we spent a lot of time together.
+Dialogue: 99,0:00:34.97,0:00:39.52,Dialogue,Yuhi,0,0,0,,{\i1}He helped me with school, \Nplayed with me, and over time...
+Dialogue: 99,0:00:40.69,0:00:43.82,Dialogue,Yuhi,0,0,0,,{\i1}As I learned how kind he was, I...
+Dialogue: 99,0:00:47.49,0:00:48.32,Dialogue,Setsu,0,0,0,,What's wrong?
+Dialogue: 99,0:00:53.20,0:00:58.75,Dialogue,Yuhi,0,0,0,,Would I have to go to a place like this if \NI wanted to go to the same high school as you?
+Dialogue: 99,0:01:00.46,0:01:03.04,Dialogue,Yuhi,0,0,0,,Just kidding. Let's go home.
+Dialogue: 99,0:01:03.04,0:01:05.34,Dialogue,,0,0,0,,I have to help make dinner.
+Dialogue: 99,0:01:14.30,0:01:15.10,Dialogue,Yuhi,0,0,0,,Hey!
+Dialogue: 99,0:01:17.81,0:01:21.85,Dialogue,Yuhi,0,0,0,,What do you think... about what I said?
+Dialogue: 99,0:01:26.65,0:01:30.99,Dialogue,Setsu,0,0,0,,Maybe you should aim for an easier school.
+Dialogue: 99,0:01:31.40,0:01:34.74,Dialogue,Setsu,0,0,0,,We don't have to go to the same \Nschool if it's too much trouble.
+Dialogue: 99,0:01:34.74,0:01:38.37,Dialogue,Setsu,0,0,0,,You'd just make things harder \Nfor yourself in the long run.
+Dialogue: 99,0:01:44.33,0:01:46.88,Dialogue,Yuhi,0,0,0,,I get it. Never mind.
+Dialogue: 99,0:01:48.76,0:01:50.38,Dialogue,Setsu,0,0,0,,Hey, Yuhi?
+Dialogue: 99,0:02:05.90,0:02:06.86,Dialogue,Male Student,0,0,0,,See ya.
+Dialogue: 99,0:02:20.87,0:02:24.00,Dialogue,Yuhi,0,0,0,,I guess I'm not good enough...
+Dialogue: 99,0:02:28.88,0:02:31.92,Dialogue,Man A,0,0,0,,Hey, why the gloomy face?
+Dialogue: 99,0:02:31.92,0:02:34.68,Dialogue,Man B,0,0,0,,Were your mock exam results bad?
+Dialogue: 99,0:02:36.64,0:02:39.64,Dialogue,Man C,0,0,0,,Poor thing. She looks crushed.
+Dialogue: 99,0:02:39.64,0:02:40.93,Dialogue,Man A,0,0,0,,Seriously?
+Dialogue: 99,0:02:40.93,0:02:44.69,Dialogue,Man A,0,0,0,,If it's beyond your abilities, \Njust give up. You'll have more fun.
+Dialogue: 99,0:02:44.69,0:02:46.40,Dialogue,Yuhi,0,0,0,,I...
+Dialogue: 99,0:02:46.40,0:02:49.02,Dialogue,Man B,0,0,0,,Deep down, you get it, don't you?
+Dialogue: 99,0:02:49.86,0:02:53.19,Dialogue,Man B,0,0,0,,Just stop studying and hang out with us.
+Dialogue: 99,0:02:53.49,0:02:54.99,Dialogue,Men,0,0,0,,Come on, let's do it.
+Dialogue: 99,0:02:54.99,0:02:56.99,Dialogue,Men,0,0,0,,Let's play. We know more fun stuff.
+Dialogue: 99,0:02:56.99,0:02:59.41,Dialogue,Men,0,0,0,,Let's let all the stress out, right?
+Dialogue: 99,0:02:57.78,0:02:59.41,Dialogue,Setsu,0,0,0,,Uh, sorry, guys.
+Dialogue: 99,0:03:00.79,0:03:05.33,Dialogue,Setsu,0,0,0,,We're busy studying,\N so please find someone else to pick on.
+Dialogue: 99,0:03:05.33,0:03:06.46,Dialogue,Man B,0,0,0,,Huh?
+Dialogue: 99,0:03:06.67,0:03:08.21,Dialogue,Yuhi,0,0,0,,Yuki-kun...
+Dialogue: 99,0:03:08.54,0:03:10.04,Dialogue,Man C,0,0,0,,"Yuki-kun"?
+Dialogue: 99,0:03:10.04,0:03:12.09,Dialogue,Man A,0,0,0,,What, she has a guy?
+Dialogue: 99,0:03:12.09,0:03:14.09,Dialogue,Man B,0,0,0,,Sorry to bother you.
+Dialogue: 99,0:03:14.09,0:03:16.01,Dialogue,Men,0,0,0,,Damn, what a buzzkill.
+Dialogue: 99,0:03:16.01,0:03:17.89,Dialogue,Men,0,0,0,,Let's go grab something to eat.
+Dialogue: 99,0:03:17.89,0:03:18.64,Dialogue,Men,0,0,0,,Yeah.
+Dialogue: 99,0:03:22.01,0:03:23.77,Dialogue,Yuhi,0,0,0,,Why are you here?
+Dialogue: 99,0:03:23.77,0:03:26.02,Dialogue,Setsu,0,0,0,,So? What are you going to do?
+Dialogue: 99,0:03:26.02,0:03:28.23,Dialogue,Yuhi,0,0,0,,Huh? What do you mean?
+Dialogue: 99,0:03:29.19,0:03:32.73,Dialogue,Setsu,0,0,0,,What they said wasn't entirely wrong.
+Dialogue: 99,0:03:33.28,0:03:35.74,Dialogue,Setsu,0,0,0,,Reaching beyond your \Nlimits won't help anyone.
+Dialogue: 99,0:03:58.30,0:03:59.76,Dialogue,Yuhi,0,0,0,,I...
+Dialogue: 99,0:04:00.39,0:04:03.39,Dialogue,Yuhi,0,0,0,,Even if people tell me I'm not good enough,
+Dialogue: 99,0:04:03.39,0:04:07.98,Dialogue,Yuhi,0,0,0,,I still want to go to the same school as you.
+Dialogue: 99,0:04:21.28,0:04:23.28,Dialogue,Setsu,0,0,0,,Then there's no other way, I guess.
+Dialogue: 99,0:04:24.37,0:04:26.79,Dialogue,Setsu,0,0,0,,If that's what you're determined to do,
+Dialogue: 99,0:04:26.79,0:04:29.04,Dialogue,Setsu,0,0,0,,I'll have to buckle down and pitch in.
+Dialogue: 99,0:04:29.46,0:04:30.08,Dialogue,Yuhi,0,0,0,,Huh?
+Dialogue: 99,0:04:30.58,0:04:33.29,Dialogue,Setsu,0,0,0,,I'm saying I'll help you study.
+Dialogue: 99,0:04:33.54,0:04:37.55,Dialogue,Setsu,0,0,0,,But I won't go easy on you, no matter \Nhow much you cry and complain.
+Dialogue: 99,0:04:42.55,0:04:45.18,Dialogue,Yuhi,0,0,0,,Yes, please! Thank you!
+Dialogue: 99,0:04:47.56,0:04:55.61,Dialogue,Yuhi,0,0,0,,{\i1}I wanted to be with Yuki-kun, \Nwho I love so much, forever...
+Dialogue: 99,0:06:36.75,0:06:38.46,Dialogue,Elka,0,0,0,,Open fire!
+Dialogue: 99,0:06:43.67,0:06:45.01,Dialogue,Female Student 8 & 9,0,0,0,,We did it!
+Dialogue: 99,0:06:45.26,0:06:46.64,Dialogue,Female Student 8,0,0,0,,It worked!
+Dialogue: 99,0:06:46.64,0:06:49.06,Dialogue,Female Student 9,0,0,0,,I know, right?! It's awesome!
+Dialogue: 99,0:06:59.77,0:07:00.78,Dialogue,Elka,0,0,0,,Finish!
+Dialogue: 99,0:07:05.57,0:07:07.70,Dialogue,Elka,0,0,0,,Yuhi-san, that was impressive.
+Dialogue: 99,0:07:07.70,0:07:10.03,Dialogue,Elka,0,0,0,,The others have improved a lot, as well.
+Dialogue: 99,0:07:10.95,0:07:13.00,Dialogue,Elka,0,0,0,,We'll call it a day for now.
+Dialogue: 99,0:07:13.00,0:07:14.29,Dialogue,Elka,0,0,0,,Good work, everyone.
+Dialogue: 99,0:07:14.96,0:07:16.75,Dialogue,Students,0,0,0,,Thank you!
+Dialogue: 99,0:07:17.88,0:07:20.00,Dialogue,Students,0,0,0,,Good work, guys.
+Dialogue: 99,0:07:20.00,0:07:21.30,Dialogue,Students,0,0,0,,I'm so hungry.
+Dialogue: 99,0:07:25.93,0:07:28.30,Dialogue,Yuhi,0,0,0,,Um, do you have a moment?
+Dialogue: 99,0:07:29.85,0:07:34.56,Dialogue,Yuhi,0,0,0,,You're Yuki-kun's friends from \Nthe last time he was here...
+Dialogue: 99,0:07:35.02,0:07:37.56,Dialogue,Yuhi,0,0,0,,Or rather, his companions, right?
+Dialogue: 99,0:07:39.48,0:07:43.86,Dialogue,Glein,0,0,0,,That's right. We still see him \Nas a friend and a companion.
+Dialogue: 99,0:07:44.44,0:07:47.70,Dialogue,Elka,0,0,0,,Setsu-sama tends to draw \Nothers in unconsciously,
+Dialogue: 99,0:07:48.61,0:07:52.03,Dialogue,Elka,0,0,0,,so who knows if he feels \Nthe same way about us?
+Dialogue: 99,0:07:55.16,0:07:57.71,Dialogue,Elka,0,0,0,,I still have the utmost respect for him,
+Dialogue: 99,0:07:58.42,0:08:03.71,Dialogue,Elka,0,0,0,,and wish I could stand by him forever \Nand gaze at the same scenery with him.
+Dialogue: 99,0:08:10.22,0:08:12.22,Dialogue,Elka,0,0,0,,Anyway, what is your question?
+Dialogue: 99,0:08:14.10,0:08:17.98,Dialogue,Yuhi,0,0,0,,C-Can you give me special training?!
+Dialogue: 99,0:08:17.98,0:08:20.86,Dialogue,Yuhi,0,0,0,,I want to be with Yuki-kun, too!
+Dialogue: 99,0:08:32.45,0:08:36.62,Dialogue,Elka,0,0,0,,This is the peaceful world \Nthat Setsu-sama created.
+Dialogue: 99,0:08:37.71,0:08:42.08,Dialogue,Elka,0,0,0,,And, as we speak, Setsu-sama is surely \Nfighting somewhere beyond this sky we see
+Dialogue: 99,0:08:42.08,0:08:45.13,Dialogue,Elka,0,0,0,,to maintain peace in this world.
+Dialogue: 99,0:08:49.88,0:08:52.85,Dialogue,Elka,0,0,0,,As Setsu-sama's companions,
+Dialogue: 99,0:08:53.14,0:08:58.85,Dialogue,Elka,0,0,0,,we're staying prepared so we \Ncan act at a moment's notice.
+Dialogue: 99,0:09:01.98,0:09:07.28,Dialogue,Yuhi,0,0,0,,I have both the desire to be with Yuki-kun \Nand the determination to do what it takes.
+Dialogue: 99,0:09:07.28,0:09:10.70,Dialogue,Yuhi,0,0,0,,But I lack the strength, so...
+Dialogue: 99,0:09:13.99,0:09:15.28,Dialogue,Yuhi,0,0,0,,Elka-san,
+Dialogue: 99,0:09:16.58,0:09:17.91,Dialogue,Yuhi,0,0,0,,please!
+Dialogue: 99,0:09:19.75,0:09:23.75,Dialogue,Elka,0,0,0,,Once you've spoken those words to me...
+Dialogue: 99,0:09:25.13,0:09:27.71,Dialogue,Elka,0,0,0,,I'll never let you say you were just joking!
+Dialogue: 99,0:09:33.51,0:09:34.35,Dialogue,Elka,0,0,0,,Here I come!
+Dialogue: 99,0:09:41.35,0:09:42.19,Dialogue,Elka,0,0,0,,It's not over!
+Dialogue: 99,0:09:57.12,0:10:01.33,Dialogue,Elka,0,0,0,,You've grown much stronger than you realize.
+Dialogue: 99,0:10:02.79,0:10:06.17,Dialogue,Elka,0,0,0,,All of the kids that came from \Nthe other world are exceptional,
+Dialogue: 99,0:10:06.17,0:10:08.25,Dialogue,Elka,0,0,0,,but you're quite special, even among them.
+Dialogue: 99,0:10:11.26,0:10:15.59,Dialogue,Elka,0,0,0,,But still, if you wish to \Nstand by Setsu-sama's side,
+Dialogue: 99,0:10:15.59,0:10:18.60,Dialogue,Elka,0,0,0,,there is something you definitely lack.
+Dialogue: 99,0:10:26.94,0:10:29.98,Dialogue,Yuhi,0,0,0,,What's the thing that I lack?
+Dialogue: 99,0:10:31.44,0:10:34.36,Dialogue,Elka,0,0,0,,This is a sewer infested with monsters.
+Dialogue: 99,0:10:34.70,0:10:37.91,Dialogue,Elka,0,0,0,,We sometimes use this as a final \Ntraining ground for soldiers.
+Dialogue: 99,0:10:38.41,0:10:41.37,Dialogue,Yuhi,0,0,0,,M-Monsters? Final training?
+Dialogue: 99,0:10:43.46,0:10:45.54,Dialogue,Elka,0,0,0,,Here it comes.
+Dialogue: 99,0:10:45.54,0:10:46.38,Dialogue,Yuhi,0,0,0,,Huh?
+Dialogue: 99,0:11:07.48,0:11:09.52,Dialogue,Elka,0,0,0,,This is no time to be startled!
+Dialogue: 99,0:11:15.40,0:11:17.24,Dialogue,Elka,0,0,0,,Now fight!
+Dialogue: 99,0:11:24.50,0:11:26.17,Dialogue,Elka,0,0,0,,Don't flinch! Fight!
+Dialogue: 99,0:11:26.17,0:11:29.17,Dialogue,Elka,0,0,0,,You have more than enough strength!
+Dialogue: 99,0:11:30.29,0:11:31.67,Dialogue,Yuhi,0,0,0,,Elka-san!
+Dialogue: 99,0:11:38.68,0:11:41.68,Dialogue,Yuhi,0,0,0,,I did it! I fought!
+Dialogue: 99,0:11:41.68,0:11:42.93,Dialogue,Elka,0,0,0,,Don't let your guard down!
+Dialogue: 99,0:11:58.11,0:11:58.74,Dialogue,Elka,0,0,0,,Now!
+Dialogue: 99,0:11:58.74,0:12:00.53,Dialogue,Yuhi,0,0,0,,Take this!
+Dialogue: 99,0:12:13.55,0:12:15.46,Dialogue,Yuhi,0,0,0,,H-Haven't you had enough?
+Dialogue: 99,0:12:15.46,0:12:17.38,Dialogue,Yuhi,0,0,0,,You're hurt. If you move now...
+Dialogue: 99,0:12:17.38,0:12:18.68,Dialogue,Elka,0,0,0,,Finish it.
+Dialogue: 99,0:12:20.51,0:12:22.93,Dialogue,Elka,0,0,0,,You have indeed become stronger.
+Dialogue: 99,0:12:22.93,0:12:26.85,Dialogue,Elka,0,0,0,,In terms of magic ability alone, \Nyou're almost equal to me.
+Dialogue: 99,0:12:26.85,0:12:27.94,Dialogue,Elka,0,0,0,,But...
+Dialogue: 99,0:12:27.94,0:12:29.52,Dialogue,Elka,0,0,0,,This is war.
+Dialogue: 99,0:12:30.31,0:12:32.77,Dialogue,Elka,0,0,0,,Kill the enemy, or they \Nwill kill your friends.
+Dialogue: 99,0:12:32.77,0:12:34.53,Dialogue,Elka,0,0,0,,The other side thinks the same way.
+Dialogue: 99,0:12:35.19,0:12:39.57,Dialogue,Elka,0,0,0,,If you want to protect those dear to you,\N you must fight and end lives.
+Dialogue: 99,0:12:39.86,0:12:43.58,Dialogue,Elka,0,0,0,,{\i1}That{\i0} determination is what you lack.
+Dialogue: 99,0:12:44.62,0:12:47.58,Dialogue,Yuhi,0,0,0,,The determination... to take lives...
+Dialogue: 99,0:13:10.19,0:13:11.69,Dialogue,Yuhi,0,0,0,,Elka-san...
+Dialogue: 99,0:13:23.70,0:13:27.41,Dialogue,Yuhi,0,0,0,,This is what I lack...
+Dialogue: 99,0:13:47.43,0:13:49.18,Dialogue,Yuhi,0,0,0,,Yes, come in!
+Dialogue: 99,0:13:50.31,0:13:52.56,Dialogue,Thea,0,0,0,,Hey there. Mind if I come in?
+Dialogue: 99,0:14:01.78,0:14:03.45,Dialogue,Thea,0,0,0,,There, that's better.
+Dialogue: 99,0:14:04.66,0:14:07.45,Dialogue,Yuhi,0,0,0,,Thank you. I appreciate it.
+Dialogue: 99,0:14:07.45,0:14:12.96,Dialogue,Thea,0,0,0,,Elka was crazy to throw you into \Na real battle so suddenly.
+Dialogue: 99,0:14:12.96,0:14:16.21,Dialogue,Yuhi,0,0,0,,No, I asked for it.
+Dialogue: 99,0:14:20.13,0:14:24.09,Dialogue,Thea,0,0,0,,I see you as one of us, too.
+Dialogue: 99,0:14:24.51,0:14:25.26,Dialogue,Yuhi,0,0,0,,Huh?
+Dialogue: 99,0:14:25.26,0:14:28.85,Dialogue,Thea,0,0,0,,We don't know what Setsu was \Nlike in the other world,
+Dialogue: 99,0:14:29.97,0:14:35.77,Dialogue,Thea,0,0,0,,but he looks at you the same way he looks at us.
+Dialogue: 99,0:14:38.15,0:14:42.11,Dialogue,Thea,0,0,0,,That's also why I understand \Nwhere Elka's coming from.
+Dialogue: 99,0:14:42.82,0:14:45.74,Dialogue,Thea,0,0,0,,We can't teach determination.
+Dialogue: 99,0:14:45.74,0:14:50.70,Dialogue,Thea,0,0,0,,Elka is hard on you because she \Nwants to treat you as a true equal.
+Dialogue: 99,0:14:52.00,0:14:53.54,Dialogue,Yuhi,0,0,0,,Thea-san...
+Dialogue: 99,0:14:53.91,0:14:58.09,Dialogue,Thea,0,0,0,,Why do you want to be with Setsu so badly?
+Dialogue: 99,0:14:58.54,0:15:01.88,Dialogue,Thea,0,0,0,,You know being near him will \Nput you in lots of danger.
+Dialogue: 99,0:15:03.80,0:15:08.64,Dialogue,Yuhi,0,0,0,,Because Yuki-kun has helped \Nme out my whole life.
+Dialogue: 99,0:15:15.19,0:15:20.40,Dialogue,Yuhi,0,0,0,,So, this time, I want to be the one to help him.
+Dialogue: 99,0:15:20.40,0:15:21.61,Dialogue,Thea,0,0,0,,I see.
+Dialogue: 99,0:15:24.40,0:15:29.12,Dialogue,Thea,0,0,0,,Well, all we can do is meddle,\N but I do wish you good luck.
+Dialogue: 99,0:15:29.12,0:15:30.08,Dialogue,Yuhi,0,0,0,,Thanks!
+Dialogue: 99,0:15:35.91,0:15:39.33,Dialogue,Thea,0,0,0,,It'll be all right. Yuhi is strong.
+Dialogue: 99,0:15:39.33,0:15:41.67,Dialogue,Elka,0,0,0,,That much is obvious.
+Dialogue: 99,0:15:42.42,0:15:48.55,Dialogue,Elka,0,0,0,,Defending herself on the battlefield \Nshould be easy for her at this point.
+Dialogue: 99,0:15:49.09,0:15:52.31,Dialogue,Elka,0,0,0,,But if she fights alongside us,
+Dialogue: 99,0:15:53.02,0:15:56.56,Dialogue,Elka,0,0,0,,who knows what kind of dangerous \Nfoes she'll eventually face?
+Dialogue: 99,0:15:57.23,0:16:02.90,Dialogue,Thea,0,0,0,,And you don't think Setsu wants us to \Nforce that kind of determination on Yuhi?
+Dialogue: 99,0:16:05.28,0:16:09.99,Dialogue,Thea,0,0,0,,But that's not for us to decide, \Nand not for Setsu to decide, either.
+Dialogue: 99,0:16:09.99,0:16:11.91,Dialogue,Thea,0,0,0,,It's all up to Yuhi herself.
+Dialogue: 99,0:16:11.91,0:16:16.33,Dialogue,Thea,0,0,0,,All we can do is respect the determination \Nthat Yuhi finds for herself.
+Dialogue: 99,0:16:19.33,0:16:21.50,Dialogue,Thea,0,0,0,,I'll sleep a bit more.
+Dialogue: 99,0:16:21.50,0:16:22.54,Dialogue,Thea,0,0,0,,Goodnight.
+Dialogue: 99,0:16:26.59,0:16:27.76,Dialogue,Elka,0,0,0,,I...
+Dialogue: 99,0:16:29.26,0:16:30.64,Dialogue,Glein,0,0,0,,Excuse me.
+Dialogue: 99,0:16:44.69,0:16:46.19,Dialogue,Glein,0,0,0,,Is this about last night?
+Dialogue: 99,0:16:46.19,0:16:47.53,Dialogue,Yuhi,0,0,0,,Glein-san...
+Dialogue: 99,0:16:50.61,0:16:54.41,Dialogue,Glein,0,0,0,,Being hesitant about taking lives is natural.
+Dialogue: 99,0:16:54.41,0:16:58.41,Dialogue,Glein,0,0,0,,Even if it's for the sake \Nof someone precious to you.
+Dialogue: 99,0:16:59.96,0:17:04.04,Dialogue,Yuhi,0,0,0,,Glein-san, how did you gather \Nthe determination to fight?
+Dialogue: 99,0:17:05.13,0:17:08.22,Dialogue,Glein,0,0,0,,I just chose to make others suffer,
+Dialogue: 99,0:17:09.09,0:17:11.97,Dialogue,Glein,0,0,0,,rather than watch the \Npeople around me suffer.
+Dialogue: 99,0:17:12.80,0:17:14.43,Dialogue,Glein,0,0,0,,Like any other soldier.
+Dialogue: 99,0:17:18.60,0:17:22.19,Dialogue,Glein,0,0,0,,But that's just what works for me.
+Dialogue: 99,0:17:24.31,0:17:26.44,Dialogue,Glein,0,0,0,,You have your own determination.
+Dialogue: 99,0:17:26.90,0:17:30.70,Dialogue,Glein,0,0,0,,You have to find the answer by yourself.
+Dialogue: 99,0:17:31.11,0:17:32.36,Dialogue,Yuhi,0,0,0,,{\i1}My...
+Dialogue: 99,0:17:34.03,0:17:35.20,Dialogue,Yuhi,0,0,0,,{\i1}determination...
+Dialogue: 99,0:17:36.95,0:17:40.87,Dialogue,Glein,0,0,0,,Setsu-san probably wants you to come up \Nwith the answer that best suits you.
+Dialogue: 99,0:17:46.50,0:17:51.30,Dialogue,Yuhi,0,0,0,,{\i1}I want to stay true to myself, \Nyet I want to fight...
+Dialogue: 99,0:18:33.30,0:18:35.76,Dialogue,Elka,0,0,0,,Since you've returned,
+Dialogue: 99,0:18:35.76,0:18:38.56,Dialogue,Elka,0,0,0,,does that mean you've \Nfound your determination?
+Dialogue: 99,0:18:39.85,0:18:42.14,Dialogue,Yuhi,0,0,0,,Yes. I've made my decision.
+Dialogue: 99,0:19:06.63,0:19:10.46,Dialogue,Elka,0,0,0,,Forcing yourself out of your \Ncomfort zone in battle might break you.
+Dialogue: 99,0:19:10.96,0:19:15.97,Dialogue,Yuhi,0,0,0,,Elka-san, please witness my determination.
+Dialogue: 99,0:19:52.42,0:19:53.63,Dialogue,Elka,0,0,0,,Impressive.
+Dialogue: 99,0:19:54.59,0:19:57.34,Dialogue,Elka,0,0,0,,Outstanding power and accuracy alike.
+Dialogue: 99,0:19:57.34,0:20:00.55,Dialogue,Elka,0,0,0,,Yuhi-san, I'll admit, your determination is—
+Dialogue: 99,0:20:00.93,0:20:01.97,Dialogue,Yuhi,0,0,0,,No.
+Dialogue: 99,0:20:04.56,0:20:05.93,Dialogue,Yuhi,0,0,0,,It's not dead.
+Dialogue: 99,0:20:07.81,0:20:10.31,Dialogue,Yuhi,0,0,0,,I just temporarily incapacitated it.
+Dialogue: 99,0:20:12.90,0:20:17.15,Dialogue,Yuhi,0,0,0,,This is my determination:\Nto never take a life.
+Dialogue: 99,0:20:17.15,0:20:21.58,Dialogue,Yuhi,0,0,0,,I will never lose, and I will \Nnever take anyone's life!
+Dialogue: 99,0:20:22.16,0:20:23.58,Dialogue,Elka,0,0,0,,Yuhi-san...
+Dialogue: 99,0:20:26.37,0:20:30.50,Dialogue,Elka,0,0,0,,Well, you got me. That answer \Nis just like Setsu-sama's.
+Dialogue: 99,0:20:31.63,0:20:33.63,Dialogue,Elka,0,0,0,,I'm impressed by your determination,
+Dialogue: 99,0:20:34.13,0:20:36.97,Dialogue,Elka,0,0,0,,but that would require an astounding \Namount of power to pull off.
+Dialogue: 99,0:20:36.97,0:20:41.09,Dialogue,Yuhi,0,0,0,,Yes! I'll become much, much stronger!
+Dialogue: 99,0:20:43.47,0:20:46.27,Dialogue,Yuhi,0,0,0,,{\i1}So that I can protect Elka-san, Yuki-kun,
+Dialogue: 99,0:20:48.56,0:20:50.65,Dialogue,Yuhi,0,0,0,,{\i1}and everyone else.
+Dialogue: 99,0:20:55.19,0:20:57.24,Dialogue,Glein,0,0,0,,The king has issued his decree.
+Dialogue: 99,0:20:58.57,0:21:02.87,Dialogue,Glein,0,0,0,,We, the Knights of Distinia, in order \Nto protect our nation and its citizens,
+Dialogue: 99,0:21:02.87,0:21:07.25,Dialogue,Glein,0,0,0,,will leave tomorrow at dawn for \Nthe demonic nation of Eviltheon.
+Dialogue: 99,0:21:08.25,0:21:11.71,Dialogue,Glein,0,0,0,,Everyone, prepare yourselves, \Nboth physically and mentally!
+Dialogue: 99,0:21:12.54,0:21:13.50,Dialogue,Glein,0,0,0,,Sunteți liberi!
+Dialogue: 99,0:21:13.50,0:21:15.55,Dialogue,Male Student A,0,0,0,,So the time is finally here...
+Dialogue: 99,0:21:13.50,0:21:15.55,Dialogue,Female Student 1,0,0,0,,{\an8}I have to fight. I don't wanna die...
+Dialogue: 99,0:21:15.55,0:21:17.13,Dialogue,Female Student 2,0,0,0,,{\an8}Can I really shoot a person?
+Dialogue: 99,0:21:15.55,0:21:18.51,Dialogue,Male Student B,0,0,0,,Can we really fight, \Nafter such brief training?
+Dialogue: 99,0:21:32.10,0:21:34.23,Dialogue,Yuhi,0,0,0,,Așteaptă doar, Yuki.
+Dialogue: 99,0:23:27.76,0:23:31.01,Dialogue,Yuhi,0,0,0,,Data viitoare: {\i1}Maestru și \Nucenic pentru a doua oară{\i0}.
 Dialogue: 0,0:00:59.33,0:01:02.92,DedzuyaSigns,,0,0,0,,{\fad(1,1000)}L {\c&H3E4674&\3c&HA5D8F4&}Academy
 Dialogue: 0,0:00:59.33,0:01:02.92,DedzuyaSigns,,0,0,0,,{\fad(1,1000)}Free Trial \N{\c&H3B395B&}Available
 Dialogue: 0,0:01:05.34,0:01:07.84,DedzuyaSigns,,0,0,0,,Anul acesta, devino cel mai bun tu.

@@ -26,129 +26,129 @@ Style: KazuyaShuuSigns,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 100,0:00:02.62,0:00:03.83,Dialogue,,0,0,0,,Hai, să te văd!
-Dialogue: 100,0:00:03.83,0:00:04.76,Dialogue,,0,0,0,,Uite că vine!
-Dialogue: 100,0:00:04.76,0:00:05.29,Dialogue,,0,0,0,,Exact așa!
-Dialogue: 100,0:00:05.29,0:00:06.29,Dialogue,,0,0,0,,Nu-ți face griji!
-Dialogue: 100,0:00:06.29,0:00:07.53,Dialogue,,0,0,0,,Aoi!
-Dialogue: 100,0:00:11.44,0:00:12.35,Dialogue,,0,0,0,,Ține asta!
-Dialogue: 100,0:00:16.69,0:00:18.10,Dialogue,,0,0,0,,Să începem!
-Dialogue: 100,0:00:19.99,0:00:21.38,Dialogue,,0,0,0,,Căpitane!
-Dialogue: 100,0:00:21.38,0:00:22.08,Dialogue,,0,0,0,,Hm?
-Dialogue: 100,0:00:22.08,0:00:23.17,Dialogue,,0,0,0,,Îmi cer scuze.
-Dialogue: 100,0:00:23.17,0:00:25.06,Dialogue,,0,0,0,,Mingea iar s-o dus departe.
-Dialogue: 100,0:00:25.06,0:00:26.52,Dialogue,,0,0,0,,Stai liniștită. Nu trebuie să-ți faci griji.
-Dialogue: 100,0:00:26.52,0:00:28.54,Dialogue,,0,0,0,,Îți mulțumesc că ai oprit-o.
-Dialogue: 100,0:00:28.54,0:00:30.73,Dialogue,,0,0,0,,Nu mai visa cu ochii deschiși, Tsukishima!
-Dialogue: 100,0:00:30.73,0:00:32.19,Dialogue,,0,0,0,,Nemernicule!
-Dialogue: 100,0:00:32.19,0:00:34.09,Dialogue,,0,0,0,,Drăguț blocaj al prostului!
-Dialogue: 100,0:00:34.09,0:00:35.76,Dialogue,,0,0,0,,Mai taci, nesimțito!
-Dialogue: 100,0:00:35.76,0:00:36.53,Dialogue,,0,0,0,,Bine, bine!
-Dialogue: 100,0:00:36.53,0:00:39.08,Dialogue,,0,0,0,,Nu voi sta în calea celui mai \Nslab băiat din echipa de volei.
-Dialogue: 100,0:00:39.08,0:00:40.46,Dialogue,,0,0,0,,Ce ai spus?
-Dialogue: 100,0:00:47.73,0:00:51.49,Dialogue,,0,0,0,,Și acum vom vizita o baie publică.
-Dialogue: 100,0:00:51.49,0:00:57.65,Dialogue,,0,0,0,,Invitatul nostru de astăzi este \Ndomnul Tsukishima Genzou.
-Dialogue: 100,0:00:57.65,0:00:58.75,Dialogue,,0,0,0,,Hm?
-Dialogue: 100,0:00:59.08,0:01:01.07,Dialogue,,0,0,0,,Acela nu este bunicul tău?
-Dialogue: 100,0:01:01.07,0:01:01.80,Dialogue,,0,0,0,,Ba da.
-Dialogue: 100,0:01:01.80,0:01:03.09,Dialogue,,0,0,0,,Cât de norocos ești.
-Dialogue: 100,0:01:03.09,0:01:05.37,Dialogue,,0,0,0,,Poți vedea fete drăguțe în fiecare zi.
-Dialogue: 100,0:01:05.37,0:01:07.95,Dialogue,,0,0,0,,Prostule, sunt doar femei în vârstă.
-Dialogue: 100,0:01:07.95,0:01:09.85,Dialogue,,0,0,0,,Drept informație,
-Dialogue: 100,0:01:09.85,0:01:13.17,Dialogue,,0,0,0,,domnul Genzou este unul din puținii \Nbărbați care administrează o baie publică.
-Dialogue: 100,0:01:13.17,0:01:17.91,Dialogue,,0,0,20,,Apa îți curăță corpul și ți-l face suplu!
-Dialogue: 100,0:01:17.91,0:01:20.86,Dialogue,,0,0,0,,{\i1}Ce naiba? Este prima oară când îl \Naud spunând că te ajută să slăbești.
-Dialogue: 100,0:01:20.86,0:01:21.87,Dialogue,,0,0,0,,Un corp suplu?
-Dialogue: 100,0:01:21.87,0:01:23.79,Dialogue,,0,0,0,,Acea baie publică este \Naproape, nu-i așa?
-Dialogue: 100,0:01:23.79,0:01:25.28,Dialogue,,0,0,0,,Da, așa este!
-Dialogue: 100,0:01:25.28,0:01:27.04,Dialogue,,0,0,0,,Oare chiar te ajută să slăbești?
-Dialogue: 100,0:01:27.04,0:01:30.54,Dialogue,,0,0,0,,Căpitane, ai spus că vom \Nmerge după antrenament!
-Dialogue: 100,0:01:30.54,0:01:34.16,Dialogue,,0,0,0,,În plus, nu vrei să faci \No baie și să slăbești?
-Dialogue: 100,0:01:34.16,0:01:36.15,Dialogue,,0,0,0,,Vai, chiar ești naivă.
-Dialogue: 100,0:01:36.15,0:01:38.77,Dialogue,,0,0,0,,Nu există așa ceva.
-Dialogue: 100,0:01:38.77,0:01:41.51,Dialogue,,0,0,0,,Dacă vrei să slăbești, \Nîncepe prin a nu mai mânca...
-Dialogue: 100,0:01:43.25,0:01:45.16,Dialogue,,0,0,0,,Tsukishima!
-Dialogue: 100,0:01:45.16,0:01:46.75,Dialogue,,0,0,0,,Ești bine?
-Dialogue: 100,0:01:46.75,0:01:50.79,Dialogue,,0,0,0,,{\i1}Ce femeie violentă este Yuzuki...
-Dialogue: 100,0:01:52.46,0:01:53.25,Dialogue,,0,0,0,,Poftim?
-Dialogue: 100,0:01:53.25,0:01:54.62,Dialogue,,0,0,0,,O durere de spate?!
-Dialogue: 100,0:01:54.62,0:01:58.17,Dialogue,,0,0,0,,Scuze, dar m-ai putea înlocui astăzi?
-Dialogue: 100,0:01:58.17,0:01:59.72,Dialogue,,0,0,0,,Stai o secundă!
-Dialogue: 100,0:01:59.95,0:02:01.86,Dialogue,,0,0,0,,Nu știu ce trebuie să fac!
-Dialogue: 100,0:02:01.86,0:02:05.24,Dialogue,,0,0,0,,Și în plus, nu sunt un însoțitor de baie...
-Dialogue: 100,0:02:06.25,0:02:09.60,Dialogue,,0,0,0,,Scuze, momentan ești \Ndoar un spălător de spate.
-Dialogue: 100,0:02:09.60,0:02:13.29,Dialogue,,0,0,0,,Cu timpul, vei ajunge să \Nfii un însoțitor de baie!
-Dialogue: 100,0:02:13.29,0:02:15.23,Dialogue,,0,0,0,,Deci, fă așa cum poți tu!
-Dialogue: 100,0:02:15.23,0:02:16.66,Dialogue,,0,0,0,,Ești prea aproape, \Nmult prea aproape!
-Dialogue: 100,0:02:16.66,0:02:18.71,Dialogue,,0,0,0,,Ei bine, te vom lăsa să te ocupi!
-Dialogue: 100,0:02:18.71,0:02:19.59,Dialogue,,0,0,0,,{\i1}Ce?!
-Dialogue: 100,0:02:19.59,0:02:22.49,Dialogue,,0,0,0,,Dar să nu faci nimic indecent, nici măcar din greșeală!
-Dialogue: 100,0:02:22.49,0:02:24.12,Dialogue,,0,0,0,,{\i1}Îți tot spun că ești prea aproape!
-Dialogue: 100,0:02:27.86,0:02:29.21,Dialogue,,0,0,0,,{\i1}Baia femeilor, nu?
-Dialogue: 100,0:02:30.13,0:02:32.53,Dialogue,,0,0,0,,{\i1}Stai... Aici sunt doar femei în vârstă.
-Dialogue: 100,0:02:32.53,0:02:33.37,Dialogue,,0,0,0,,{\i1}E minunat...
-Dialogue: 100,0:02:36.69,0:02:38.18,Dialogue,,0,0,0,,{\i1}Ce?!
-Dialogue: 100,0:02:38.18,0:02:39.56,Dialogue,,0,0,0,,{\i1}Este cumva o glumă?!
-Dialogue: 100,0:02:39.56,0:02:40.67,Dialogue,,0,0,0,,{\i1}Fetele din clubul de volei?!
-Dialogue: 100,0:02:40.67,0:02:42.75,Dialogue,,0,0,0,,{\i1}Au venit din cauza reclamei?!
-Dialogue: 100,0:02:42.75,0:02:43.85,Dialogue,,0,0,0,,Uite-l, uite-l!
-Dialogue: 100,0:02:43.85,0:02:46.59,Dialogue,,0,0,0,,Aha, este foarte tânăr!
-Dialogue: 100,0:02:46.59,0:02:47.86,Dialogue,,0,0,0,,Așa este!
-Dialogue: 100,0:02:47.86,0:02:49.55,Dialogue,,0,0,0,,Este puțin jenant!
-Dialogue: 100,0:02:49.55,0:02:50.85,Dialogue,,0,0,0,,{\i1}N-Nu mă recunosc?!
-Dialogue: 100,0:02:50.85,0:02:52.16,Dialogue,,0,0,0,,{\i1}Stai... Aia este...
-Dialogue: 100,0:02:52.95,0:02:54.20,Dialogue,,0,0,0,,{\i1}Yuzuki!
-Dialogue: 100,0:02:55.70,0:02:59.78,Dialogue,,0,0,0,,{\i1}Asta este șansa mea să mă răzbun!
-Dialogue: 100,0:02:59.97,0:03:01.95,Dialogue,,0,0,0,,Ți-ar plăcea să te spăl pe spatele?
-Dialogue: 100,0:03:02.59,0:03:03.86,Dialogue,,0,0,0,,D-Da...
-Dialogue: 100,0:03:03.86,0:03:04.65,Dialogue,,0,0,0,,Atunci...
-Dialogue: 100,0:03:06.34,0:03:08.81,Dialogue,,0,0,0,,N-Nu vei folosi un prosop?!
-Dialogue: 100,0:03:08.81,0:03:12.12,Dialogue,,0,0,0,,Este mai eficient așa pentru o curățare mai profundă.
-Dialogue: 100,0:03:17.07,0:03:18.01,Dialogue,,0,0,0,,{\i1}Exact cum credeam,
-Dialogue: 100,0:03:18.01,0:03:19.86,Dialogue,,0,0,0,,{\i1}asta nu este în regulă.
-Dialogue: 100,0:03:21.06,0:03:22.35,Dialogue,,0,0,0,,{\i1}Nu vei scăpa!
-Dialogue: 100,0:03:23.04,0:03:24.18,Dialogue,,0,0,0,,Mușchii tăi...
-Dialogue: 100,0:03:24.18,0:03:26.16,Dialogue,,0,0,0,,Practici un sport, nu-i așa?
-Dialogue: 100,0:03:26.16,0:03:27.59,Dialogue,,0,0,0,,Volei, nu?
-Dialogue: 100,0:03:27.59,0:03:29.02,Dialogue,,0,0,0,,Ce? Da...
-Dialogue: 100,0:03:29.02,0:03:30.08,Dialogue,,0,0,0,,Cum de știi...
-Dialogue: 100,0:03:30.08,0:03:32.22,Dialogue,,0,0,0,,Sunt profesionist.
-Dialogue: 100,0:03:32.22,0:03:34.33,Dialogue,,0,0,0,,Deci, lasă-mă să-mi fac treaba.
-Dialogue: 100,0:03:34.90,0:03:36.43,Dialogue,,0,0,0,,Te rog.
-Dialogue: 100,0:03:36.43,0:03:38.45,Dialogue,,0,0,0,,{\i1}Vai, prea ușor!
-Dialogue: 100,0:03:38.45,0:03:40.38,Dialogue,,0,0,0,,{\i1}Acum nu mai este suspicioasă!
-Dialogue: 100,0:03:40.38,0:03:41.70,Dialogue,,0,0,0,,{\i1}De acum pot să...
-Dialogue: 100,0:03:41.70,0:03:43.12,Dialogue,,0,0,0,,H-Hei!
-Dialogue: 100,0:03:44.68,0:03:47.12,Dialogue,,0,0,0,,Desfă-ți puțin picioarele, te rog.
-Dialogue: 100,0:03:51.62,0:03:52.65,Dialogue,,0,0,0,,Nu!
-Dialogue: 100,0:04:02.26,0:04:04.85,Dialogue,,0,0,0,,{\i1}Se abține să nu geamă.
-Dialogue: 100,0:04:05.29,0:04:08.94,Dialogue,,0,0,0,,{\i1}E destul de drăguță \Natunci când tace.
-Dialogue: 100,0:04:10.81,0:04:12.01,Dialogue,,0,0,0,,Cum este?
-Dialogue: 100,0:04:12.01,0:04:13.53,Dialogue,,0,0,0,,Îți place?
-Dialogue: 100,0:04:13.53,0:04:14.89,Dialogue,,0,0,0,,Dar....
-Dialogue: 100,0:04:14.89,0:04:15.95,Dialogue,,0,0,0,,asta este...
-Dialogue: 100,0:04:15.95,0:04:19.97,Dialogue,,0,0,0,,Dacă este plăcut, atunci înseamnă \Ncă-mi simți abilitățile de profesionist.
-Dialogue: 100,0:04:19.97,0:04:23.35,Dialogue,,0,0,0,,Ei bine, voi începe masajul \Npentru un corp suplu.
-Dialogue: 100,0:04:23.35,0:04:25.50,Dialogue,,0,0,0,,Acolo jos?!
-Dialogue: 100,0:04:25.69,0:04:27.82,Dialogue,,0,0,0,,Frecând bine aici,
-Dialogue: 100,0:04:27.82,0:04:30.87,Dialogue,,0,0,0,,corpul este purificat \Nși devine mai suplu.
-Dialogue: 100,0:04:38.01,0:04:42.49,Dialogue Top,,0,0,0,,Nu!
-Dialogue: 100,0:04:39.49,0:04:40.44,Dialogue,,0,0,0,,{\i1}Nu mai pot...
-Dialogue: 100,0:04:41.05,0:04:42.71,Dialogue,,0,0,0,,{\i1}să mă abțin!
-Dialogue: 100,0:04:45.31,0:04:48.56,Dialogue,,0,0,0,,Aoi, cum este masajul \Npentru un corp suplu?
-Dialogue: 100,0:04:48.56,0:04:50.75,Dialogue,,0,0,0,,E-Este foarte intens!
-Dialogue: 100,0:04:50.75,0:04:52.12,Dialogue,,0,0,0,,{\i1}Nu face asta!
-Dialogue: 100,0:04:52.89,0:04:56.73,Dialogue,,0,0,0,,Fă-te frumoasă și spune-i \Nce simți lui Tsukishima.
-Dialogue: 100,0:04:57.33,0:04:59.23,Dialogue,,0,0,0,,Aoi, haide să mergem în saună.
-Dialogue: 100,0:04:59.94,0:05:01.05,Dialogue,,0,0,0,,Bine.
-Dialogue: 100,0:05:01.05,0:05:02.56,Dialogue,,0,0,0,,Ești bine, Aoi?
-Dialogue: 100,0:05:02.56,0:05:02.93,Dialogue,,0,0,0,,Da.
-Dialogue: 100,0:05:03.14,0:05:05.40,Dialogue,,0,0,0,,{\i1}Yuzuki mă place?
-Dialogue: 100,0:05:05.40,0:05:06.92,Dialogue,,0,0,0,,{\i1}Ce vrea să însemne asta?
-Dialogue: 100,0:05:09.21,0:05:09.94,Dialogue,,0,0,0,,Eu urmez.
-Dialogue: 100,0:05:09.94,0:05:11.89,Dialogue,,0,0,0,,Voi fi în mâinile tale capabile!
-Dialogue: 100,0:05:13.89,0:05:16.19,Dialogue,,0,0,0,,Se pare că însoțitorul \Nde baie nu mai vine.
-Dialogue: 100,0:06:47.17,0:06:49.65,Dialogue,,0,0,0,,Hai s-o facem din nou și data viitoare!
+Dialogue: 99,0:00:02.62,0:00:03.83,Dialogue,,0,0,0,,Hai, să te văd!
+Dialogue: 99,0:00:03.83,0:00:04.76,Dialogue,,0,0,0,,Uite că vine!
+Dialogue: 99,0:00:04.76,0:00:05.29,Dialogue,,0,0,0,,Exact așa!
+Dialogue: 99,0:00:05.29,0:00:06.29,Dialogue,,0,0,0,,Nu-ți face griji!
+Dialogue: 99,0:00:06.29,0:00:07.53,Dialogue,,0,0,0,,Aoi!
+Dialogue: 99,0:00:11.44,0:00:12.35,Dialogue,,0,0,0,,Ține asta!
+Dialogue: 99,0:00:16.69,0:00:18.10,Dialogue,,0,0,0,,Să începem!
+Dialogue: 99,0:00:19.99,0:00:21.38,Dialogue,,0,0,0,,Căpitane!
+Dialogue: 99,0:00:21.38,0:00:22.08,Dialogue,,0,0,0,,Hm?
+Dialogue: 99,0:00:22.08,0:00:23.17,Dialogue,,0,0,0,,Îmi cer scuze.
+Dialogue: 99,0:00:23.17,0:00:25.06,Dialogue,,0,0,0,,Mingea iar s-o dus departe.
+Dialogue: 99,0:00:25.06,0:00:26.52,Dialogue,,0,0,0,,Stai liniștită. Nu trebuie să-ți faci griji.
+Dialogue: 99,0:00:26.52,0:00:28.54,Dialogue,,0,0,0,,Îți mulțumesc că ai oprit-o.
+Dialogue: 99,0:00:28.54,0:00:30.73,Dialogue,,0,0,0,,Nu mai visa cu ochii deschiși, Tsukishima!
+Dialogue: 99,0:00:30.73,0:00:32.19,Dialogue,,0,0,0,,Nemernicule!
+Dialogue: 99,0:00:32.19,0:00:34.09,Dialogue,,0,0,0,,Drăguț blocaj al prostului!
+Dialogue: 99,0:00:34.09,0:00:35.76,Dialogue,,0,0,0,,Mai taci, nesimțito!
+Dialogue: 99,0:00:35.76,0:00:36.53,Dialogue,,0,0,0,,Bine, bine!
+Dialogue: 99,0:00:36.53,0:00:39.08,Dialogue,,0,0,0,,Nu voi sta în calea celui mai \Nslab băiat din echipa de volei.
+Dialogue: 99,0:00:39.08,0:00:40.46,Dialogue,,0,0,0,,Ce ai spus?
+Dialogue: 99,0:00:47.73,0:00:51.49,Dialogue,,0,0,0,,Și acum vom vizita o baie publică.
+Dialogue: 99,0:00:51.49,0:00:57.65,Dialogue,,0,0,0,,Invitatul nostru de astăzi este \Ndomnul Tsukishima Genzou.
+Dialogue: 99,0:00:57.65,0:00:58.75,Dialogue,,0,0,0,,Hm?
+Dialogue: 99,0:00:59.08,0:01:01.07,Dialogue,,0,0,0,,Acela nu este bunicul tău?
+Dialogue: 99,0:01:01.07,0:01:01.80,Dialogue,,0,0,0,,Ba da.
+Dialogue: 99,0:01:01.80,0:01:03.09,Dialogue,,0,0,0,,Cât de norocos ești.
+Dialogue: 99,0:01:03.09,0:01:05.37,Dialogue,,0,0,0,,Poți vedea fete drăguțe în fiecare zi.
+Dialogue: 99,0:01:05.37,0:01:07.95,Dialogue,,0,0,0,,Prostule, sunt doar femei în vârstă.
+Dialogue: 99,0:01:07.95,0:01:09.85,Dialogue,,0,0,0,,Drept informație,
+Dialogue: 99,0:01:09.85,0:01:13.17,Dialogue,,0,0,0,,domnul Genzou este unul din puținii \Nbărbați care administrează o baie publică.
+Dialogue: 99,0:01:13.17,0:01:17.91,Dialogue,,0,0,20,,Apa îți curăță corpul și ți-l face suplu!
+Dialogue: 99,0:01:17.91,0:01:20.86,Dialogue,,0,0,0,,{\i1}Ce naiba? Este prima oară când îl \Naud spunând că te ajută să slăbești.
+Dialogue: 99,0:01:20.86,0:01:21.87,Dialogue,,0,0,0,,Un corp suplu?
+Dialogue: 99,0:01:21.87,0:01:23.79,Dialogue,,0,0,0,,Acea baie publică este \Naproape, nu-i așa?
+Dialogue: 99,0:01:23.79,0:01:25.28,Dialogue,,0,0,0,,Da, așa este!
+Dialogue: 99,0:01:25.28,0:01:27.04,Dialogue,,0,0,0,,Oare chiar te ajută să slăbești?
+Dialogue: 99,0:01:27.04,0:01:30.54,Dialogue,,0,0,0,,Căpitane, ai spus că vom \Nmerge după antrenament!
+Dialogue: 99,0:01:30.54,0:01:34.16,Dialogue,,0,0,0,,În plus, nu vrei să faci \No baie și să slăbești?
+Dialogue: 99,0:01:34.16,0:01:36.15,Dialogue,,0,0,0,,Vai, chiar ești naivă.
+Dialogue: 99,0:01:36.15,0:01:38.77,Dialogue,,0,0,0,,Nu există așa ceva.
+Dialogue: 99,0:01:38.77,0:01:41.51,Dialogue,,0,0,0,,Dacă vrei să slăbești, \Nîncepe prin a nu mai mânca...
+Dialogue: 99,0:01:43.25,0:01:45.16,Dialogue,,0,0,0,,Tsukishima!
+Dialogue: 99,0:01:45.16,0:01:46.75,Dialogue,,0,0,0,,Ești bine?
+Dialogue: 99,0:01:46.75,0:01:50.79,Dialogue,,0,0,0,,{\i1}Ce femeie violentă este Yuzuki...
+Dialogue: 99,0:01:52.46,0:01:53.25,Dialogue,,0,0,0,,Poftim?
+Dialogue: 99,0:01:53.25,0:01:54.62,Dialogue,,0,0,0,,O durere de spate?!
+Dialogue: 99,0:01:54.62,0:01:58.17,Dialogue,,0,0,0,,Scuze, dar m-ai putea înlocui astăzi?
+Dialogue: 99,0:01:58.17,0:01:59.72,Dialogue,,0,0,0,,Stai o secundă!
+Dialogue: 99,0:01:59.95,0:02:01.86,Dialogue,,0,0,0,,Nu știu ce trebuie să fac!
+Dialogue: 99,0:02:01.86,0:02:05.24,Dialogue,,0,0,0,,Și în plus, nu sunt un însoțitor de baie...
+Dialogue: 99,0:02:06.25,0:02:09.60,Dialogue,,0,0,0,,Scuze, momentan ești \Ndoar un spălător de spate.
+Dialogue: 99,0:02:09.60,0:02:13.29,Dialogue,,0,0,0,,Cu timpul, vei ajunge să \Nfii un însoțitor de baie!
+Dialogue: 99,0:02:13.29,0:02:15.23,Dialogue,,0,0,0,,Deci, fă așa cum poți tu!
+Dialogue: 99,0:02:15.23,0:02:16.66,Dialogue,,0,0,0,,Ești prea aproape, \Nmult prea aproape!
+Dialogue: 99,0:02:16.66,0:02:18.71,Dialogue,,0,0,0,,Ei bine, te vom lăsa să te ocupi!
+Dialogue: 99,0:02:18.71,0:02:19.59,Dialogue,,0,0,0,,{\i1}Ce?!
+Dialogue: 99,0:02:19.59,0:02:22.49,Dialogue,,0,0,0,,Dar să nu faci nimic indecent, nici măcar din greșeală!
+Dialogue: 99,0:02:22.49,0:02:24.12,Dialogue,,0,0,0,,{\i1}Îți tot spun că ești prea aproape!
+Dialogue: 99,0:02:27.86,0:02:29.21,Dialogue,,0,0,0,,{\i1}Baia femeilor, nu?
+Dialogue: 99,0:02:30.13,0:02:32.53,Dialogue,,0,0,0,,{\i1}Stai... Aici sunt doar femei în vârstă.
+Dialogue: 99,0:02:32.53,0:02:33.37,Dialogue,,0,0,0,,{\i1}E minunat...
+Dialogue: 99,0:02:36.69,0:02:38.18,Dialogue,,0,0,0,,{\i1}Ce?!
+Dialogue: 99,0:02:38.18,0:02:39.56,Dialogue,,0,0,0,,{\i1}Este cumva o glumă?!
+Dialogue: 99,0:02:39.56,0:02:40.67,Dialogue,,0,0,0,,{\i1}Fetele din clubul de volei?!
+Dialogue: 99,0:02:40.67,0:02:42.75,Dialogue,,0,0,0,,{\i1}Au venit din cauza reclamei?!
+Dialogue: 99,0:02:42.75,0:02:43.85,Dialogue,,0,0,0,,Uite-l, uite-l!
+Dialogue: 99,0:02:43.85,0:02:46.59,Dialogue,,0,0,0,,Aha, este foarte tânăr!
+Dialogue: 99,0:02:46.59,0:02:47.86,Dialogue,,0,0,0,,Așa este!
+Dialogue: 99,0:02:47.86,0:02:49.55,Dialogue,,0,0,0,,Este puțin jenant!
+Dialogue: 99,0:02:49.55,0:02:50.85,Dialogue,,0,0,0,,{\i1}N-Nu mă recunosc?!
+Dialogue: 99,0:02:50.85,0:02:52.16,Dialogue,,0,0,0,,{\i1}Stai... Aia este...
+Dialogue: 99,0:02:52.95,0:02:54.20,Dialogue,,0,0,0,,{\i1}Yuzuki!
+Dialogue: 99,0:02:55.70,0:02:59.78,Dialogue,,0,0,0,,{\i1}Asta este șansa mea să mă răzbun!
+Dialogue: 99,0:02:59.97,0:03:01.95,Dialogue,,0,0,0,,Ți-ar plăcea să te spăl pe spatele?
+Dialogue: 99,0:03:02.59,0:03:03.86,Dialogue,,0,0,0,,D-Da...
+Dialogue: 99,0:03:03.86,0:03:04.65,Dialogue,,0,0,0,,Atunci...
+Dialogue: 99,0:03:06.34,0:03:08.81,Dialogue,,0,0,0,,N-Nu vei folosi un prosop?!
+Dialogue: 99,0:03:08.81,0:03:12.12,Dialogue,,0,0,0,,Este mai eficient așa pentru o curățare mai profundă.
+Dialogue: 99,0:03:17.07,0:03:18.01,Dialogue,,0,0,0,,{\i1}Exact cum credeam,
+Dialogue: 99,0:03:18.01,0:03:19.86,Dialogue,,0,0,0,,{\i1}asta nu este în regulă.
+Dialogue: 99,0:03:21.06,0:03:22.35,Dialogue,,0,0,0,,{\i1}Nu vei scăpa!
+Dialogue: 99,0:03:23.04,0:03:24.18,Dialogue,,0,0,0,,Mușchii tăi...
+Dialogue: 99,0:03:24.18,0:03:26.16,Dialogue,,0,0,0,,Practici un sport, nu-i așa?
+Dialogue: 99,0:03:26.16,0:03:27.59,Dialogue,,0,0,0,,Volei, nu?
+Dialogue: 99,0:03:27.59,0:03:29.02,Dialogue,,0,0,0,,Ce? Da...
+Dialogue: 99,0:03:29.02,0:03:30.08,Dialogue,,0,0,0,,Cum de știi...
+Dialogue: 99,0:03:30.08,0:03:32.22,Dialogue,,0,0,0,,Sunt profesionist.
+Dialogue: 99,0:03:32.22,0:03:34.33,Dialogue,,0,0,0,,Deci, lasă-mă să-mi fac treaba.
+Dialogue: 99,0:03:34.90,0:03:36.43,Dialogue,,0,0,0,,Te rog.
+Dialogue: 99,0:03:36.43,0:03:38.45,Dialogue,,0,0,0,,{\i1}Vai, prea ușor!
+Dialogue: 99,0:03:38.45,0:03:40.38,Dialogue,,0,0,0,,{\i1}Acum nu mai este suspicioasă!
+Dialogue: 99,0:03:40.38,0:03:41.70,Dialogue,,0,0,0,,{\i1}De acum pot să...
+Dialogue: 99,0:03:41.70,0:03:43.12,Dialogue,,0,0,0,,H-Hei!
+Dialogue: 99,0:03:44.68,0:03:47.12,Dialogue,,0,0,0,,Desfă-ți puțin picioarele, te rog.
+Dialogue: 99,0:03:51.62,0:03:52.65,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:04:02.26,0:04:04.85,Dialogue,,0,0,0,,{\i1}Se abține să nu geamă.
+Dialogue: 99,0:04:05.29,0:04:08.94,Dialogue,,0,0,0,,{\i1}E destul de drăguță \Natunci când tace.
+Dialogue: 99,0:04:10.81,0:04:12.01,Dialogue,,0,0,0,,Cum este?
+Dialogue: 99,0:04:12.01,0:04:13.53,Dialogue,,0,0,0,,Îți place?
+Dialogue: 99,0:04:13.53,0:04:14.89,Dialogue,,0,0,0,,Dar....
+Dialogue: 99,0:04:14.89,0:04:15.95,Dialogue,,0,0,0,,asta este...
+Dialogue: 99,0:04:15.95,0:04:19.97,Dialogue,,0,0,0,,Dacă este plăcut, atunci înseamnă \Ncă-mi simți abilitățile de profesionist.
+Dialogue: 99,0:04:19.97,0:04:23.35,Dialogue,,0,0,0,,Ei bine, voi începe masajul \Npentru un corp suplu.
+Dialogue: 99,0:04:23.35,0:04:25.50,Dialogue,,0,0,0,,Acolo jos?!
+Dialogue: 99,0:04:25.69,0:04:27.82,Dialogue,,0,0,0,,Frecând bine aici,
+Dialogue: 99,0:04:27.82,0:04:30.87,Dialogue,,0,0,0,,corpul este purificat \Nși devine mai suplu.
+Dialogue: 99,0:04:38.01,0:04:42.49,Dialogue Top,,0,0,0,,Nu!
+Dialogue: 99,0:04:39.49,0:04:40.44,Dialogue,,0,0,0,,{\i1}Nu mai pot...
+Dialogue: 99,0:04:41.05,0:04:42.71,Dialogue,,0,0,0,,{\i1}să mă abțin!
+Dialogue: 99,0:04:45.31,0:04:48.56,Dialogue,,0,0,0,,Aoi, cum este masajul \Npentru un corp suplu?
+Dialogue: 99,0:04:48.56,0:04:50.75,Dialogue,,0,0,0,,E-Este foarte intens!
+Dialogue: 99,0:04:50.75,0:04:52.12,Dialogue,,0,0,0,,{\i1}Nu face asta!
+Dialogue: 99,0:04:52.89,0:04:56.73,Dialogue,,0,0,0,,Fă-te frumoasă și spune-i \Nce simți lui Tsukishima.
+Dialogue: 99,0:04:57.33,0:04:59.23,Dialogue,,0,0,0,,Aoi, haide să mergem în saună.
+Dialogue: 99,0:04:59.94,0:05:01.05,Dialogue,,0,0,0,,Bine.
+Dialogue: 99,0:05:01.05,0:05:02.56,Dialogue,,0,0,0,,Ești bine, Aoi?
+Dialogue: 99,0:05:02.56,0:05:02.93,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:05:03.14,0:05:05.40,Dialogue,,0,0,0,,{\i1}Yuzuki mă place?
+Dialogue: 99,0:05:05.40,0:05:06.92,Dialogue,,0,0,0,,{\i1}Ce vrea să însemne asta?
+Dialogue: 99,0:05:09.21,0:05:09.94,Dialogue,,0,0,0,,Eu urmez.
+Dialogue: 99,0:05:09.94,0:05:11.89,Dialogue,,0,0,0,,Voi fi în mâinile tale capabile!
+Dialogue: 99,0:05:13.89,0:05:16.19,Dialogue,,0,0,0,,Se pare că însoțitorul \Nde baie nu mai vine.
+Dialogue: 99,0:06:47.17,0:06:49.65,Dialogue,,0,0,0,,Hai s-o facem din nou și data viitoare!
 Comment: 0,0:00:43.03,0:00:43.09,KazuyaShuuSigns,,0,0,0,,{=143}{\fscx97\fscy97\alpha&H00&\an2\pos(640,140)\blur10\bord4\fs58\fsp1\3c&HFBF8FE&\c&HFBF8FE&\fnSubscribe}Mister Washer!: Her and I in Female Bath?!
 Comment: 0,0:00:43.09,0:00:43.14,KazuyaShuuSigns,,0,0,0,,{=143}{\pos(640,139.907)\alpha&H00&\an2\blur10\bord4\fs58\fsp1\3c&HF5EDFD&\c&HF5EDFD&\fnSubscribe\fscy97.056\fscx97.056}Mister Washer!: Her and I in Female Bath?!
 Comment: 0,0:00:43.14,0:00:43.19,KazuyaShuuSigns,,0,0,0,,{=143}{\pos(640,139.815)\alpha&H00&\an2\blur10\bord4\fs58\fsp1\3c&HEFE2FC&\c&HEFE2FC&\fnSubscribe\fscy97.111\fscx97.111}Mister Washer!: Her and I in Female Bath?!
