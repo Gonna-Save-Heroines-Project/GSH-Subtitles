@@ -25,13 +25,14 @@ Audio File: ../../../../Anime/[Orphan] Elf 17 (BD 1440x1080) [D3ECF62F].mkv
 Video File: ../../../../Anime/[Orphan] Elf 17 (BD 1440x1080) [D3ECF62F].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.687500
-Active Line: 5
-Video Position: 1111
+Video Zoom Percent: 0.531250
+Scroll Position: 246
+Active Line: 250
+Video Position: 20234
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Dialogue,Aurulent Sans,72,&H00FFFFFF,&H000000FF,&H00401100,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,120,120,60,1
+Style: Dialogue,Averia Sans Libre,72,&H00FFFFFF,&H000000FF,&H00401100,&HB4000000,-1,0,0,0,100,100,0,0,1,4,1.6,2,120,120,60,1
 Style: Thought,Aurulent Sans,72,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,-1,-1,0,0,100,100,0,0,1,5,0,2,120,120,50,1
 Style: Overlap,Aurulent Sans,72,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,120,120,50,1
 Style: Sign,Aurulent Sans,72,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
@@ -41,267 +42,256 @@ Style: ED-E,Ariendezze,72,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,0,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Prolog}
-Comment: 0,0:00:00.00,0:00:00.00,Dialogue,chptr,0,0,0,,{Prolog}
-Comment: 0,0:00:00.00,0:00:00.00,Dialogue,chptr,0,0,0,,{Prolog}
-Comment: 0,0:00:00.00,0:00:00.00,Dialogue,chptr,0,0,0,,{Prolog}
-Comment: 0,0:00:00.00,0:00:00.00,Dialogue,chptr,0,0,0,,{Prolog}
+Comment: 0,0:00:00.00,0:00:00.02,Dialogue,chptr,0,0,0,,{Turneul de arte marțiale}
+Comment: 0,0:07:17.54,0:07:17.58,Dialogue,chptr,0,0,0,,{Lu, K.K. și Prințul}
+Comment: 0,0:13:21.74,0:13:21.78,Dialogue,chptr,0,0,0,,{Planeta Arahasu}
+Comment: 0,0:18:45.31,0:18:45.35,Dialogue,chptr,0,0,0,,{Schimbul}
+Comment: 0,0:24:47.05,0:24:47.09,Dialogue,chptr,0,0,0,,{Complotul dejucat}
+Comment: 0,0:27:20.16,0:27:20.20,Dialogue,chptr,0,0,0,,{ED}
 Dialogue: 99,0:00:46.32,0:00:49.49,Dialogue,,0,0,0,,În acest mare turneu de arte marțiale, \Nunde fiecare își etalează abilitățile,
 Dialogue: 99,0:00:49.49,0:00:52.99,Dialogue,,0,0,0,,lovitura finală va fi dată în \Ntimpul unei lupte nebune!
-Dialogue: 99,0:01:23.15,0:01:27.40,Dialogue,,0,0,0,,Și acum, în runda \Nfinală a turneului!
-Dialogue: 99,0:01:27.40,0:01:31.12,Dialogue,,0,0,0,,Într-un colț, învingătorul rundei trecute,\N cartușul liber cu ciocanul de luptă,
-Dialogue: 99,0:01:31.12,0:01:33.53,Dialogue,,0,0,0,,Distrugătorul Omul-ciocan!
+Dialogue: 99,0:01:23.15,0:01:27.40,Dialogue,,0,0,0,,Iar acum, va avea loc \Nrunda finală a turneului!
+Dialogue: 99,0:01:27.40,0:01:31.12,Dialogue,,0,0,0,,Într-un colț, câștigătorul ultimei runde, \Ntunul dezlănțuit ce-i ciocănește pe toți,
+Dialogue: 99,0:01:31.12,0:01:33.53,Dialogue,,0,0,0,,Distrugătorul Om-ciocan!
 Dialogue: 99,0:01:34.29,0:01:37.00,Dialogue,,0,0,0,,Iar în colțul opus, \Ndin armata demonică Anman,
-Dialogue: 99,0:01:37.00,0:01:41.46,Dialogue,,0,0,0,,însuși Armaghedonul într-un singur om,\N K.K. Dispozitivul Mecanic!
+Dialogue: 99,0:01:37.00,0:01:41.46,Dialogue,,0,0,0,,Armagedonul însuși, \NRobotul K.K.!
 Dialogue: 99,0:01:41.46,0:01:42.92,Dialogue,,0,0,0,,Hei, hei!
-Dialogue: 99,0:01:42.92,0:01:43.96,Dialogue,,0,0,0,,E permis așa ceva?
-Dialogue: 99,0:01:43.96,0:01:45.67,Dialogue,,0,0,0,,Ce legătură are el cu artele marțiale?
-Dialogue: 99,0:01:45.67,0:01:48.84,Dialogue,,0,0,0,,Armele la distanță controlate personal sunt permise.
-Dialogue: 99,0:01:48.84,0:01:49.93,Dialogue,,0,0,0,,Nu a încălcat nicio regulă.
+Dialogue: 99,0:01:42.92,0:01:43.96,Dialogue,,0,0,0,,Chiar e permis așa ceva?
+Dialogue: 99,0:01:43.96,0:01:45.67,Dialogue,,0,0,0,,Ce treabă are el \Ncu artele marțiale?
+Dialogue: 99,0:01:45.67,0:01:48.84,Dialogue,,0,0,0,,Sunt permise armele de foc cât \Ntimp sunt folosite de tine.
+Dialogue: 99,0:01:48.84,0:01:49.93,Dialogue,,0,0,0,,Nu încalcă nicio regulă.
 Dialogue: 99,0:01:49.93,0:01:51.09,Dialogue,,0,0,0,,Hei, moșule,
-Dialogue: 99,0:01:51.09,0:01:54.39,Dialogue,,0,0,0,,nu-ți face griji că lupta nu e dreaptă.\N Fă-ți griji pentru tine.
+Dialogue: 99,0:01:51.09,0:01:54.39,Dialogue,,0,0,0,,nu-ți face griji dacă lupta e corectă \Nsau nu. Fă-ți griji pentru tine.
 Dialogue: 99,0:01:54.39,0:01:56.77,Dialogue,,0,0,0,,Ce tot îndrugi acolo?
-Dialogue: 99,0:01:56.77,0:01:58.18,Dialogue,,0,0,0,,Am să te omor dracului!
-Dialogue: 99,0:01:58.89,0:02:01.31,Dialogue,,0,0,0,,Bine, mai sunt 30 de secunde până la luptă!
-Dialogue: 99,0:02:01.31,0:02:03.69,Dialogue,,0,0,0,,Numărătoarea inversă a început!
+Dialogue: 99,0:01:56.77,0:01:58.18,Dialogue,,0,0,0,,Te voi face praf!
+Dialogue: 99,0:01:58.89,0:02:01.31,Dialogue,,0,0,0,,În regulă! Lupta va \Nîncepe în 30 de secunde!
+Dialogue: 99,0:02:01.31,0:02:03.69,Dialogue,,0,0,0,,S-a dat startul la numărătoarea inversă!
 Dialogue: 99,0:02:11.16,0:02:12.12,Dialogue,,0,0,0,,Luptați!
-Dialogue: 99,0:02:12.49,0:02:14.08,Dialogue,,0,0,0,,Stați, vă rog!
+Dialogue: 99,0:02:12.49,0:02:14.08,Dialogue,,0,0,0,,Vă rog să așteptați!
 Dialogue: 99,0:02:14.08,0:02:15.03,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:02:15.37,0:02:18.37,Dialogue,,0,0,0,,Ăă, eu vreau...
-Dialogue: 99,0:02:19.41,0:02:21.08,Dialogue,,0,0,0,,Vreau să particip și eu!
-Dialogue: 99,0:02:36.56,0:02:38.22,Dialogue,,0,0,0,,C-Ce faci?
+Dialogue: 99,0:02:15.37,0:02:18.37,Dialogue,,0,0,0,,E-Ei bine, și eu vreau...
+Dialogue: 99,0:02:19.41,0:02:21.08,Dialogue,,0,0,0,,Și eu vreau să particip!
+Dialogue: 99,0:02:36.56,0:02:38.22,Dialogue,,0,0,0,,C-Ce naiba crezi că faci?
 Dialogue: 99,0:02:38.22,0:02:40.52,Dialogue,,0,0,0,,Doar luptătorii au voie în ring!
-Dialogue: 99,0:02:41.02,0:02:42.39,Dialogue,,0,0,0,,Ă-Ăă...
-Dialogue: 99,0:02:42.98,0:02:43.98,Dialogue,,0,0,0,,Hm?
+Dialogue: 99,0:02:41.02,0:02:42.39,Dialogue,,0,0,0,,E-Ei bine...
+Dialogue: 99,0:02:42.98,0:02:43.98,Dialogue,,0,0,0,,Ce?
 Dialogue: 99,0:02:43.98,0:02:46.15,Dialogue,,0,0,0,,Vreau să fac un tur al galaxiei.
 Dialogue: 99,0:02:46.15,0:02:46.94,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:02:46.94,0:02:49.86,Dialogue,,0,0,0,,Vreau să fac un tur al galaxiei!
-Dialogue: 99,0:02:51.36,0:02:54.62,Dialogue,,0,0,0,,Uite, domnișoară, dacă vrei\N să mergi în tur,
+Dialogue: 99,0:02:46.94,0:02:49.86,Dialogue,,0,0,0,,Vreau să fac un \Ntur al galaxiei!
+Dialogue: 99,0:02:51.36,0:02:54.62,Dialogue,,0,0,0,,Ei bine, domnișoară, dacă vrei \Nsă iei parte la turul galexiei,
 Dialogue: 99,0:02:54.62,0:02:57.54,Dialogue,,0,0,0,,trebuie să câștigi turneul.
-Dialogue: 99,0:02:57.54,0:02:59.83,Dialogue,,0,0,0,,Asta înseamnă să te lupți cu {\i1}ăia{\i0}!
-Dialogue: 99,0:02:59.83,0:03:00.87,Dialogue,,0,0,0,,Da, o voi face.
+Dialogue: 99,0:02:57.54,0:02:59.83,Dialogue,,0,0,0,,Asta înseamnă să \Nte lupți cu {\i1}acei{\i0} tipi!
+Dialogue: 99,0:02:59.83,0:03:00.87,Dialogue,,0,0,0,,Nicio problemă.
 Dialogue: 99,0:03:00.87,0:03:02.33,Dialogue,,0,0,0,,Mă voi lupta cu ei!
-Dialogue: 99,0:03:03.79,0:03:05.17,Dialogue,,0,0,0,,Asta devine interesant!
-Dialogue: 99,0:03:05.17,0:03:08.25,Dialogue,,0,0,0,,Mulțimea râde de apariția bruscă a unei noi provocatoare!
-Dialogue: 99,0:03:08.25,0:03:11.59,Dialogue,,0,0,0,,L-La naiba, de ce trebuia să apară\N tocmai fata asta nebună?!
+Dialogue: 99,0:03:03.79,0:03:05.17,Dialogue,,0,0,0,,Lucrurile devin interesante!
+Dialogue: 99,0:03:05.17,0:03:08.25,Dialogue,,0,0,0,,Mulțimea râde de apariția de \Nnicăieri a unei noi „luptătoare”!
+Dialogue: 99,0:03:08.25,0:03:11.59,Dialogue,,0,0,0,,L-La naiba, de ce a trebuit să \Napară această fată țăcănită?!
 Dialogue: 99,0:03:11.92,0:03:13.38,Dialogue,,0,0,0,,Hei, domnișoară.
-Dialogue: 99,0:03:13.38,0:03:15.72,Dialogue,,0,0,0,,Du-te acasă înainte să te rănești!
-Dialogue: 99,0:03:15.72,0:03:17.81,Dialogue,,0,0,0,,Ce-ar fi să încep cu tine, atunci?
-Dialogue: 99,0:03:17.81,0:03:18.68,Dialogue,,0,0,0,,Hm?
-Dialogue: 99,0:03:19.43,0:03:21.27,Dialogue,,0,0,0,,Uau! Ce fată plină de spirit!
-Dialogue: 99,0:03:21.27,0:03:23.39,Dialogue,,0,0,0,,Chiar și marele Hammerman e uluit!
-Dialogue: 99,0:03:23.69,0:03:26.98,Thought,,0,0,0,,Ce pumn a fost ăsta? I-Imposibil... {bakana}
-Dialogue: 99,0:03:27.32,0:03:28.98,Dialogue,,0,0,0,,Nu-mi pasă dacă ești o fetiță,
+Dialogue: 99,0:03:13.38,0:03:15.72,Dialogue,,0,0,0,,Du-te acasă înainte \Nsă faci buba!
+Dialogue: 99,0:03:15.72,0:03:17.81,Dialogue,,0,0,0,,Bănuiesc că tu \Nvei fi primul, nu?
+Dialogue: 99,0:03:17.81,0:03:18.68,Dialogue,,0,0,0,,Ce?
+Dialogue: 99,0:03:19.43,0:03:21.27,Dialogue,,0,0,0,,Uimitor! Ce fată \Nplină de energie!
+Dialogue: 99,0:03:21.27,0:03:23.39,Dialogue,,0,0,0,,Nici măcar mărețului \NOm-ciocan nu-i vine să creadă!
+Dialogue: 99,0:03:23.69,0:03:26.98,Dialogue,,0,0,0,,{\i1}Ce a fost acel pumn? \NN-Nu-mi vine să cred...
+Dialogue: 99,0:03:27.32,0:03:28.98,Dialogue,,0,0,0,,Nu-mi pasă dacă \Nești doar o fetiță,
 Dialogue: 99,0:03:28.98,0:03:30.94,Dialogue,,0,0,0,,oricine mă lovește o pățește!
-Dialogue: 99,0:03:30.94,0:03:31.82,Dialogue,,0,0,0,,Mori!
+Dialogue: 99,0:03:30.94,0:03:31.82,Dialogue,,0,0,0,,S-a zis cu tine!
 Dialogue: 99,0:03:34.78,0:03:35.41,Dialogue,,0,0,0,,S-a ferit!
-Dialogue: 99,0:03:35.41,0:03:36.37,Dialogue,,0,0,0,,Lu atacă!
+Dialogue: 99,0:03:35.41,0:03:36.37,Dialogue,,0,0,0,,E rândului lui Lu acum!
 Dialogue: 99,0:03:37.91,0:03:38.62,Dialogue,,0,0,0,,Ce?!
-Dialogue: 99,0:03:43.12,0:03:45.21,Dialogue,,0,0,0,,Lu câștigă!
-Dialogue: 99,0:03:45.21,0:03:47.25,Dialogue,,0,0,0,,Ce ziceți de asta?!
-Dialogue: 99,0:03:47.25,0:03:51.67,Dialogue,,0,0,0,,Invincibilul Hammerman a fost făcut praf de o fetiță!
-Dialogue: 99,0:03:51.67,0:03:54.18,Dialogue,,0,0,0,,Bine, e rândul tău.
-Dialogue: 99,0:03:54.80,0:03:56.64,Dialogue,,0,0,0,,Hai, pune-ți puterea la încercare cu mine!
-Dialogue: 99,0:03:56.97,0:03:59.89,Dialogue,,0,0,0,,S-Stai. Poate nu pare, dar sunt feminist.
-Dialogue: 99,0:03:59.89,0:04:02.10,Dialogue,,0,0,0,,Nu pot să mă bat cu o fată!
-Dialogue: 99,0:04:02.10,0:04:04.73,Dialogue,,0,0,0,,Ce, asta e o scuză ca să nu te lupți cu mine?
-Dialogue: 99,0:04:04.73,0:04:05.56,Dialogue,,0,0,0,,Nu asta e!
-Dialogue: 99,0:04:05.56,0:04:06.85,Dialogue,,0,0,0,,Eu doar...
+Dialogue: 99,0:03:43.12,0:03:45.21,Dialogue,,0,0,0,,Și Lu a câștigat!
+Dialogue: 99,0:03:45.21,0:03:47.25,Dialogue,,0,0,0,,Măi să fie!
+Dialogue: 99,0:03:47.25,0:03:51.67,Dialogue,,0,0,0,,Invincibilul Om-ciocan \Na fost făcut praf de o fetiță!
+Dialogue: 99,0:03:51.67,0:03:54.18,Dialogue,,0,0,0,,Iar acum, tu urmezi.
+Dialogue: 99,0:03:54.80,0:03:56.64,Dialogue,,0,0,0,,Haide să vedem de \Nce ești în stare!
+Dialogue: 99,0:03:56.97,0:03:59.89,Dialogue,,0,0,0,,S-Stai puțin. Poate nu pare, \Ndar sunt feminist.
+Dialogue: 99,0:03:59.89,0:04:02.10,Dialogue,,0,0,0,,Nu mă pot bate cu o fată!
+Dialogue: 99,0:04:02.10,0:04:04.73,Dialogue,,0,0,0,,Ce? Asta e cumva scuza ta \Nca să nu te lupți cu mine?
+Dialogue: 99,0:04:04.73,0:04:05.56,Dialogue,,0,0,0,,Nu!
+Dialogue: 99,0:04:05.56,0:04:06.85,Dialogue,,0,0,0,,Pur și simplu, eu...
 Dialogue: 99,0:04:06.85,0:04:08.52,Dialogue,,0,0,0,,nu vreau să mă lupt cu fete.
-Dialogue: 99,0:04:08.52,0:04:09.48,Dialogue,,0,0,0,,Nici vorbă!
-Dialogue: 99,0:04:09.48,0:04:12.74,Dialogue,,0,0,0,,Mă voi bate cu tine, domnule,\N și voi merge într-un tur al galaxiei!
-Dialogue: 99,0:04:12.74,0:04:14.11,Dialogue,,0,0,0,,Nu mă lupt cu tine!
-Dialogue: 99,0:04:14.11,0:04:15.32,Dialogue,,0,0,0,,Ba eu zic că da!
-Dialogue: 99,0:04:15.32,0:04:16.36,Dialogue,,0,0,0,,Eu zic că nu!
-Dialogue: 99,0:04:16.36,0:04:17.28,Dialogue,,0,0,0,,Ba da, tu{\fscx400}-
-Dialogue: 99,0:04:20.95,0:04:23.91,Dialogue,,0,0,0,,Meciul a fost decis.
-Dialogue: 99,0:04:29.96,0:04:32.42,Dialogue,,0,0,0,,Învingătoarea acestei runde... este ea!
-Dialogue: 99,0:04:32.84,0:04:34.13,Dialogue,,0,0,0,,Ce-ai spus?
-Dialogue: 99,0:04:35.55,0:04:38.97,Dialogue,,0,0,0,,Hei, moșule, ești sigur că te simți bine?{dc: rephrase closer to jp}
-Dialogue: 99,0:04:38.97,0:04:40.68,Dialogue,,0,0,0,,Cum naiba am {\i1}pierdut{\i0} meciul ăla?!{dc: again, closer to jp}
-Dialogue: 99,0:04:40.68,0:04:42.60,Dialogue,,0,0,0,,Pentru că așa am spus eu.
-Dialogue: 99,0:04:42.60,0:04:43.64,Dialogue,,0,0,0,,Ce?!
-Dialogue: 99,0:04:52.53,0:04:53.61,Dialogue,,0,0,0,,Atenție, vă rog!
-Dialogue: 99,0:04:53.61,0:05:00.20,Dialogue,,0,0,0,,Câștigătoarea Turneului Imperial de Arte Marțiale din acest an este fata elf înaripată!
-Dialogue: 99,0:05:01.16,0:05:03.33,Dialogue,,0,0,0,,Ei bine, să trecem\N la ceremonia de premiere.
-Dialogue: 99,0:05:03.33,0:05:03.87,Dialogue,,0,0,0,,Desigur.
-Dialogue: 99,0:05:03.87,0:05:04.95,Dialogue,,0,0,0,,H-Hey!
+Dialogue: 99,0:04:08.52,0:04:09.48,Dialogue,,0,0,0,,Nu voi accepta asta!
+Dialogue: 99,0:04:09.48,0:04:12.74,Dialogue,,0,0,0,,Mă voi lupta cu tine, domnule, \Nși voi merge într-un tur al galaxiei!
+Dialogue: 99,0:04:12.74,0:04:14.11,Dialogue,,0,0,0,,Dar eu nu vreau \Nsă mă lupt cu tine!
+Dialogue: 99,0:04:14.11,0:04:15.32,Dialogue,,0,0,0,,Ba da!
+Dialogue: 99,0:04:15.32,0:04:16.36,Dialogue,,0,0,0,,Ba nu!
+Dialogue: 99,0:04:16.36,0:04:17.28,Dialogue,,0,0,0,,Ba da...
+Dialogue: 99,0:04:20.95,0:04:23.91,Dialogue,,0,0,0,,Rezultatul meciului a fost decis.
+Dialogue: 99,0:04:29.96,0:04:32.42,Dialogue,,0,0,0,,Câștigătorul este... ea!
+Dialogue: 99,0:04:32.84,0:04:34.13,Dialogue,,0,0,0,,Poftim?
+Dialogue: 99,0:04:35.55,0:04:38.97,Dialogue,,0,0,0,,Hei, moșule, ești \Nsigur că te simți bine?
+Dialogue: 99,0:04:38.97,0:04:40.68,Dialogue,,0,0,0,,Cum naiba de sunt \N{\i1}eu{\i0} pierzătorul?!
+Dialogue: 99,0:04:40.68,0:04:42.60,Dialogue,,0,0,0,,Pentru că așa am decis eu.
+Dialogue: 99,0:04:42.60,0:04:43.64,Dialogue,,0,0,0,,Poftim?!
+Dialogue: 99,0:04:52.53,0:04:53.61,Dialogue,,0,0,0,,Vă rugăm să fiți atenți!
+Dialogue: 99,0:04:53.61,0:05:00.20,Dialogue,,0,0,0,,{\q2}Câștigătorul din acest an al Turneului Imperial \Nde Arte Marțiale este fata-elf înaripată!
+Dialogue: 99,0:05:01.16,0:05:03.33,Dialogue,,0,0,0,,Să începem acum \Nceremonia de premiere.
+Dialogue: 99,0:05:03.33,0:05:03.87,Dialogue,,0,0,0,,Da.
+Dialogue: 99,0:05:03.87,0:05:04.95,Dialogue,,0,0,0,,H-Hei!
 Dialogue: 99,0:05:04.95,0:05:05.87,Dialogue,,0,0,0,,Nu!
-Dialogue: 99,0:05:05.87,0:05:07.33,Dialogue,,0,0,0,,Nu vreau!
-Dialogue: 99,0:05:08.75,0:05:11.54,Dialogue,,0,0,0,,Nici măcar nu m-am luptat cu tipul ăsta!
-Dialogue: 99,0:05:11.54,0:05:15.76,Dialogue,,0,0,0,,Doar faptul că am fost declarată câștigătoare\N nu mă face deloc fericită!
-Dialogue: 99,0:05:15.76,0:05:16.72,Dialogue,,0,0,0,,Hei, stai!
-Dialogue: 99,0:05:20.97,0:05:22.85,Dialogue,,0,0,0,,Lu câștigă din nou!
-Dialogue: 99,0:05:23.39,0:05:24.97,Dialogue,,0,0,0,,Oh, bravo! Bravo!
+Dialogue: 99,0:05:05.87,0:05:07.33,Dialogue,,0,0,0,,Nu vreau să câștig așa!
+Dialogue: 99,0:05:08.75,0:05:11.54,Dialogue,,0,0,0,,Încă nu m-am luptat \Ncu acest domn!
+Dialogue: 99,0:05:11.54,0:05:15.76,Dialogue,,0,0,0,,Nu mă bucură deloc dacă sunt \Ndeclarată câștigătoare pur și simplu!
+Dialogue: 99,0:05:15.76,0:05:16.72,Dialogue,,0,0,0,,Hei, așteaptă!
+Dialogue: 99,0:05:20.97,0:05:22.85,Dialogue,,0,0,0,,Și Lu a câștigat din nou!
+Dialogue: 99,0:05:23.39,0:05:24.97,Dialogue,,0,0,0,,Vai, bravo, bravo!
 Dialogue: 99,0:05:24.97,0:05:26.31,Dialogue,,0,0,0,,Ce zâmbet de învingătoare!
 Dialogue: 99,0:05:26.64,0:05:27.69,Dialogue,,0,0,0,,Poftim, domnișoară.
-Dialogue: 99,0:05:27.69,0:05:31.48,Dialogue,,0,0,0,,Ca semn al victoriei tale,\N iată certificatul pentru călătoria ta.
-Dialogue: 99,0:05:31.81,0:05:32.44,Dialogue,,0,0,0,,Așa!
-Dialogue: 99,0:05:32.44,0:05:33.73,Dialogue,,0,0,0,,Așteaptă o secundă!
-Dialogue: 99,0:05:36.07,0:05:37.90,Dialogue,,0,0,0,,Încă nu am fost scoasă din luptă!
+Dialogue: 99,0:05:27.69,0:05:31.48,Dialogue,,0,0,0,,Ca dovadă a victoriei tale, \Nîți înmânăm certificatul pentru călătorie.
+Dialogue: 99,0:05:31.81,0:05:32.44,Dialogue,,0,0,0,,Ura!
+Dialogue: 99,0:05:32.44,0:05:33.73,Dialogue,,0,0,0,,Așteptați puțin!
+Dialogue: 99,0:05:36.07,0:05:37.90,Dialogue,,0,0,0,,Nu am pierdut încă!
 Dialogue: 99,0:05:38.53,0:05:40.36,Dialogue,,0,0,0,,Uau!
-Dialogue: 99,0:05:41.49,0:05:45.20,Dialogue,,0,0,0,,Ești prima persoană care a reușit\N să se ridice după ce am lovit-o!
-Dialogue: 99,0:05:45.20,0:05:46.45,Dialogue,,0,0,0,,Ce tare!
-Dialogue: 99,0:05:46.45,0:05:48.21,Dialogue,,0,0,0,,Ce-a fost asta?!
+Dialogue: 99,0:05:41.49,0:05:45.20,Dialogue,,0,0,0,,Ești primul care a reușit să \Nse ridice după ce l-am lovit!
+Dialogue: 99,0:05:45.20,0:05:46.45,Dialogue,,0,0,0,,Cât de tare!
+Dialogue: 99,0:05:46.45,0:05:48.21,Dialogue,,0,0,0,,Poftim?!
 Dialogue: 99,0:05:50.21,0:05:51.08,Dialogue,,0,0,0,,Termină cu prostiile!
-Dialogue: 99,0:05:51.08,0:05:53.46,Dialogue,,0,0,0,,Am fost drăguț cu tine,\N iar tu ai profitat de asta!
-Dialogue: 99,0:05:53.46,0:05:56.42,Dialogue,,0,0,0,,Poate că ești fată, dar dacă tot faci mișto de mine, o să...
-Dialogue: 99,0:05:57.30,0:06:00.51,Dialogue,,0,0,0,,Aha, am înțeles. Sunteți cu toții implicați în asta!
-Dialogue: 99,0:06:00.93,0:06:03.39,Dialogue,,0,0,0,,Vorbiți cu gura mare despre Turneul Imperial de Arte Marțiale,
+Dialogue: 99,0:05:51.08,0:05:53.46,Dialogue,,0,0,0,,Eu am fost drăguț cu tine, \Niar tu ai profitat de asta!
+Dialogue: 99,0:05:53.46,0:05:56.42,Dialogue,,0,0,0,,Poate ești fată, dar dacă vei continua \Nsă mă iei peste picior, atunci...
+Dialogue: 99,0:05:57.30,0:06:00.51,Dialogue,,0,0,0,,Oh, am înțeles acum. \NSunteți cu toții în cârdășie!
+Dialogue: 99,0:06:00.93,0:06:03.39,Dialogue,,0,0,0,,Vă lăudați cu marele vostru \Nturneu de arte marțiale,
 Dialogue: 99,0:06:03.39,0:06:05.10,Dialogue,,0,0,0,,dar totul a fost aranjat dinainte!
-Dialogue: 99,0:06:05.10,0:06:05.97,Dialogue,,0,0,0,,Acum înțeleg!
-Dialogue: 99,0:06:05.97,0:06:07.73,Dialogue,,0,0,0,,Cum îndrăznești să vorbești așa!
-Dialogue: 99,0:06:07.73,0:06:09.94,Dialogue,,0,0,0,,Nu știi cu cine vorbești?!
-Dialogue: 99,0:06:09.94,0:06:10.98,Dialogue,,0,0,0,,Taci dracului din gură!
-Dialogue: 99,0:06:11.02,0:06:12.40,Dialogue,,0,0,0,,Mori!
-Dialogue: 99,0:06:17.61,0:06:19.95,Dialogue,,0,0,0,,Ce?! Cum a reușit să se ferească de asta?
-Dialogue: 99,0:06:36.05,0:06:38.30,ED-E 2,,0,0,0,,Nu, nu, rău, rău!
-Dialogue: 99,0:06:38.30,0:06:40.84,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
-Dialogue: 99,0:06:40.84,0:06:42.97,ED-E 2,,0,0,0,,Nu ești un băiat rău?
-Dialogue: 99,0:06:42.97,0:06:45.39,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
-Dialogue: 99,0:06:45.72,0:06:49.68,ED-E 2,,0,0,0,,Ține-ți pentru tine inima năzuroasă și intențiile ascunse
-Dialogue: 99,0:06:50.43,0:06:53.90,ED-E 2,,0,0,0,,păstrează-le pentru tine
-Dialogue: 99,0:06:55.31,0:06:57.48,ED-E 2,,0,0,0,,Nu, nu, ce scârbos, ce scârbos!
-Dialogue: 99,0:06:57.48,0:07:00.15,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
-Dialogue: 99,0:07:00.15,0:07:02.28,ED-E 2,,0,0,0,,Nu ești un băiat precoce?
-Dialogue: 99,0:07:02.28,0:07:04.99,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
-Dialogue: 99,0:07:04.99,0:07:09.45,ED-E 2,,0,0,0,,De ce sunt bărbații, toți,
-Dialogue: 99,0:07:09.45,0:07:13.50,ED-E 2,,0,0,0,,atât de afemeiați?
-Dialogue: 99,0:06:20.91,0:06:23.24,Dialogue,,0,0,0,,Fir-ar să fie, știam eu că totul a fost o înscenare!
-Dialogue: 99,0:06:57.10,0:06:58.36,Dialogue,,0,0,0,,Asta s-a transformat într-un dezastru!
-Dialogue: 99,0:06:58.40,0:07:01.74,Dialogue,,0,0,0,,Costumul de putere al lui K.K. Dispozitivul Mecanic\N a ieșit de sub control!
+Dialogue: 99,0:06:05.10,0:06:05.97,Dialogue,,0,0,0,,V-am prins cu mâța în sac!
+Dialogue: 99,0:06:05.97,0:06:07.73,Dialogue,,0,0,0,,Cum îndrăznești \Nsă spui așa ceva?!
+Dialogue: 99,0:06:07.73,0:06:09.94,Dialogue,,0,0,0,,Ai idee cu cine vorbești măcar?!
+Dialogue: 99,0:06:09.94,0:06:10.98,Dialogue,,0,0,0,,Gura!
+Dialogue: 99,0:06:11.02,0:06:12.40,Dialogue,,0,0,0,,Vă voi face praf!
+Dialogue: 99,0:06:17.61,0:06:19.95,Dialogue,,0,0,0,,Ce?! Cum a reușit \Nsă se ferească?
+Dialogue: 99,0:06:20.91,0:06:23.24,Dialogue,,0,0,0,,La naiba, știam eu \Ncă e o înșelătorie!
+Dialogue: 99,0:06:57.10,0:06:58.36,Dialogue,,0,0,0,,Lucrurile au luat-o razna!
+Dialogue: 99,0:06:58.40,0:07:01.74,Dialogue,,0,0,0,,Costumul Robotului K.K. \Na scăpat de sub control!
 Dialogue: 99,0:07:01.74,0:07:05.58,Dialogue,,0,0,0,,Puterea sa de foc a transformat\N Stadionul Abi într-un infern!
-Dialogue: 99,0:07:09.45,0:07:11.29,Dialogue,,0,0,0,,Alteță, sunteți bine?
+Dialogue: 99,0:07:09.45,0:07:11.29,Dialogue,,0,0,0,,Sunteți bine, Alteță?
 Dialogue: 99,0:07:11.29,0:07:13.50,Dialogue,,0,0,0,,Alteță! Alteță!
 Dialogue: 99,0:07:17.55,0:07:18.92,Dialogue,,0,0,0,,Hm...
-Dialogue: 99,0:07:18.92,0:07:23.26,Dialogue,,0,0,0,,Arde, arde... Flăcările roșii se potrivesc bine cu vinul roșu.
+Dialogue: 99,0:07:18.92,0:07:23.26,Dialogue,,0,0,0,,Arde, arde... Flăcările roșii \Nmerg bine cu vinul meu roșu.
 Dialogue: 99,0:07:23.26,0:07:24.47,Dialogue,,0,0,0,,Ce priveliște magnifică.
 Dialogue: 99,0:07:25.39,0:07:26.97,Dialogue,,0,0,0,,Ar trebui să mă prezint.
-Dialogue: 99,0:07:26.97,0:07:31.43,Dialogue,,0,0,0,,Domnișoară, eu sunt Muscat Tylor,\N prinț al Imperiului Galactic.
-Dialogue: 99,0:07:31.81,0:07:32.89,Dialogue,,0,0,0,,Un prinț?
-Dialogue: 99,0:07:33.89,0:07:37.06,Dialogue,,0,0,0,,Mi-am dorit să vizitez Imperiul în secret.
-Dialogue: 99,0:07:37.06,0:07:40.86,Dialogue,,0,0,0,,Am organizat turneul de arte marțiale\N pentru a găsi tovarăși pentru călătoria mea.
-Dialogue: 99,0:07:40.86,0:07:42.86,Dialogue,,0,0,0,,Dar, până în runda finală,
-Dialogue: 99,0:07:42.86,0:07:46.57,Dialogue,,0,0,0,,rămăseseră doar doi neghiobi\N neciopliți și plini de mușchi.
-Dialogue: 99,0:07:46.57,0:07:50.12,Dialogue,,0,0,0,,Apoi ai apărut tu,\N chiar când eram pe punctul să-mi pierd tot interesul.
-Dialogue: 99,0:07:50.12,0:07:52.37,Dialogue,,0,0,0,,Prin urmare, te-am declarat câștigătoare.
+Dialogue: 99,0:07:26.97,0:07:31.43,Dialogue,,0,0,0,,Domnișoară, eu sunt Muscat Tylor, \Nprinț al Imperiului Galactic.
+Dialogue: 99,0:07:31.81,0:07:32.89,Dialogue,,0,0,0,,Prinț?
+Dialogue: 99,0:07:33.89,0:07:37.06,Dialogue,,0,0,0,,Mi-am dorit să vizitez \Nîn secret Imperiul.
+Dialogue: 99,0:07:37.06,0:07:40.86,Dialogue,,0,0,0,,Am organizat turneul de arte marțiale \Npentru a-mi găsi companioni de călatorie.
+Dialogue: 99,0:07:40.86,0:07:42.86,Dialogue,,0,0,0,,Dar, în runda finală,
+Dialogue: 99,0:07:42.86,0:07:46.57,Dialogue,,0,0,0,,rămăseseră doar două \Ncapete pătrate, necioplite.
+Dialogue: 99,0:07:46.57,0:07:50.12,Dialogue,,0,0,0,,Și exact când era să-mi pierd \Ntot interesul, ai apărut tu.
+Dialogue: 99,0:07:50.12,0:07:52.37,Dialogue,,0,0,0,,De asta te-am declarat câștigătoare.
 Dialogue: 99,0:07:52.37,0:07:54.08,Dialogue,,0,0,0,,Ai vreo întrebare?
-Dialogue: 99,0:07:55.08,0:07:57.63,Dialogue,,0,0,0,,Vreau să păstrezi\N secretă această conversație.
-Dialogue: 99,0:07:57.63,0:08:02.55,Dialogue,,0,0,0,,În călătorie, nu-mi pot folosi autoritatea imperială, așa că voi plăti toate cheltuielile.
-Dialogue: 99,0:08:02.55,0:08:05.05,Dialogue,,0,0,0,,Nu știu când ne vom întoarce\N din această călătorie.
-Dialogue: 99,0:08:05.05,0:08:06.47,Dialogue,,0,0,0,,Mai vrei să vii?
-Dialogue: 99,0:08:06.47,0:08:07.76,Dialogue,,0,0,0,,Da, voi merge!
-Dialogue: 99,0:08:07.76,0:08:11.89,Dialogue,,0,0,0,,A fost visul meu de-o viață să vizitez\N tot felul de planete diferite!\N
+Dialogue: 99,0:07:55.08,0:07:57.63,Dialogue,,0,0,0,,Vreau să ții secret \Ndiscuția dintre noi.
+Dialogue: 99,0:07:57.63,0:08:02.55,Dialogue,,0,0,0,,Nu-mi voi putea folosi autoritatea în această călătorie, dar voi suporta toate cheltuielile.
+Dialogue: 99,0:08:02.55,0:08:05.05,Dialogue,,0,0,0,,Și nici nu știu când \Nne vom întoarce.
+Dialogue: 99,0:08:05.05,0:08:06.47,Dialogue,,0,0,0,,Încă mai dorești să vii?
+Dialogue: 99,0:08:06.47,0:08:07.76,Dialogue,,0,0,0,,Da, doresc!
+Dialogue: 99,0:08:07.76,0:08:11.89,Dialogue,,0,0,0,,A fost mereu visul meu să \Nvizitez tot felul de planete!
 Dialogue: 99,0:08:11.89,0:08:12.89,Dialogue,,0,0,0,,Foarte bine.
-Dialogue: 99,0:08:12.89,0:08:16.06,Dialogue,,0,0,0,,Vino la Blocul 101\N de la Aeroportul Național mâine.
-Dialogue: 99,0:08:16.06,0:08:17.44,Dialogue,,0,0,0,,Îți voi elibera pașaportul.
-Dialogue: 99,0:08:17.44,0:08:18.36,Dialogue,,0,0,0,,Uraaa!
-Dialogue: 99,0:08:21.73,0:08:23.44,Dialogue,,0,0,0,,Stați, voi doi.
-Dialogue: 99,0:08:23.44,0:08:25.20,Dialogue,,0,0,0,,Lupta asta încă nu s-a terminat.
-Dialogue: 99,0:08:25.53,0:08:26.66,Dialogue,,0,0,0,,Tu ești!
-Dialogue: 99,0:08:26.66,0:08:29.03,Dialogue,,0,0,0,,Nu cedez chiar așa ușor.
-Dialogue: 99,0:08:29.03,0:08:32.37,Dialogue,,0,0,0,,Sunt genul de tip\N care trebuie să ducă lucrurile până la capăt.
-Dialogue: 99,0:08:32.37,0:08:33.25,Dialogue,,0,0,0,,Haide!
-Dialogue: 99,0:08:41.88,0:08:43.46,Dialogue,,0,0,0,,Vai, vai. Uite cine apare.
-Dialogue: 99,0:08:43.46,0:08:44.59,Dialogue,,0,0,0,,Ai văzut, moșule?
-Dialogue: 99,0:08:44.59,0:08:46.88,Dialogue,,0,0,0,,Asta a fost un amestec de matatabi și crizantemă.
-Dialogue: 99,0:08:46.88,0:08:49.80,Dialogue,,0,0,0,,Nu afectează oamenii,\N dar funcționează de minune asupra elfilor.
-Dialogue: 99,0:08:50.10,0:08:51.47,Dialogue,,0,0,0,,Bravo, bravo!
-Dialogue: 99,0:08:51.47,0:08:53.43,Dialogue,,0,0,0,,Bine, K.K., m-ai făcut\N să mă răzgândesc.
-Dialogue: 99,0:08:53.43,0:08:55.77,Dialogue,,0,0,0,,Vă voi lua pe tine {\i1}și{\i0} pe fată cu mine.
-Dialogue: 99,0:08:56.31,0:08:59.40,Dialogue,,0,0,0,,Mâine îți voi elibera și ție pașaportul pentru turul galactic.
-Dialogue: 99,0:08:59.40,0:09:01.65,Dialogue,,0,0,0,,Dacă vrei să afli mai multe,\N întreab-o pe ea.
+Dialogue: 99,0:08:12.89,0:08:16.06,Dialogue,,0,0,0,,Vino mâine la Blocul 101 \Nde la Aeroportul Național.
+Dialogue: 99,0:08:16.06,0:08:17.44,Dialogue,,0,0,0,,Voi avea pașaportul tău pregătit.
+Dialogue: 99,0:08:17.44,0:08:18.36,Dialogue,,0,0,0,,Ura!
+Dialogue: 99,0:08:21.73,0:08:23.44,Dialogue,,0,0,0,,Așteptați.
+Dialogue: 99,0:08:23.44,0:08:25.20,Dialogue,,0,0,0,,Lupta nu s-a terminat încă.
+Dialogue: 99,0:08:25.53,0:08:26.66,Dialogue,,0,0,0,,Tu din nou!
+Dialogue: 99,0:08:26.66,0:08:29.03,Dialogue,,0,0,0,,Nu mă voi da bătut \Natât de ușor.
+Dialogue: 99,0:08:29.03,0:08:32.37,Dialogue,,0,0,0,,Sunt genul de tip care duce \Nlucrurile până la capăt.
+Dialogue: 99,0:08:32.37,0:08:33.25,Dialogue,,0,0,0,,Să te văd!
+Dialogue: 99,0:08:41.88,0:08:43.46,Dialogue,,0,0,0,,Vai, vai. Ce surpriză neașteptată.
+Dialogue: 99,0:08:43.46,0:08:44.59,Dialogue,,0,0,0,,Ai văzut asta, moșule?
+Dialogue: 99,0:08:44.59,0:08:46.88,Dialogue,,0,0,0,,Am folosit un amestec de \Ncătușnică și crizantemă.
+Dialogue: 99,0:08:46.88,0:08:49.80,Dialogue,,0,0,0,,Nu afectează oamenii, \Ndar merge de minune asupra elfilor.
+Dialogue: 99,0:08:50.10,0:08:51.47,Dialogue,,0,0,0,,Felicitări!
+Dialogue: 99,0:08:51.47,0:08:53.43,Dialogue,,0,0,0,,Foarte bine, K.K., \Nm-ai făcut să mă răzgândesc.
+Dialogue: 99,0:08:53.43,0:08:55.77,Dialogue,,0,0,0,,Vă voi lua pe {\i1}amândoi{\i0} cu mine.
+Dialogue: 99,0:08:56.31,0:08:59.40,Dialogue,,0,0,0,,Voi avea mâine și pașaportul tău \Npregătit pentru turul galaxiei.
+Dialogue: 99,0:08:59.40,0:09:01.65,Dialogue,,0,0,0,,Dacă vrei să afli mai multe, \Nîntreab-o pe ea.
 Dialogue: 99,0:09:01.65,0:09:02.23,Dialogue,,0,0,0,,Ce?
-Dialogue: 99,0:09:02.23,0:09:04.07,Dialogue,,0,0,0,,Nu vă mai bateți acum.
-Dialogue: 99,0:09:04.07,0:09:06.20,Dialogue,,0,0,0,,H-Hey! Stai, moșule!
+Dialogue: 99,0:09:02.23,0:09:04.07,Dialogue,,0,0,0,,Încercați să vă înțelegeți.
+Dialogue: 99,0:09:04.07,0:09:06.20,Dialogue,,0,0,0,,H-Hei! Așteaptă puțin, moșule!
 Dialogue: 99,0:09:06.70,0:09:08.78,Dialogue,,0,0,0,,Moșule! Moșule!
-Dialogue: 99,0:09:10.74,0:09:13.37,Dialogue,,0,0,0,,Presupun că o voi întreba pe ea\N când se trezește peste cinci ore.
-Dialogue: 99,0:09:13.83,0:09:14.95,Dialogue,,0,0,0,,Poftim.
-Dialogue: 99,0:09:46.32,0:09:51.20,Thought,,0,0,0,,Practic, așa am ajuns\N să fac un tur al galaxiei.
-Dialogue: 99,0:09:51.66,0:09:56.54,Thought,,0,0,0,,Domnul Muscat este un bărbat înalt, chipeș, bogat și important.
-Dialogue: 99,0:09:56.54,0:10:01.17,Thought,,0,0,0,,K.K. este un băiat urât, rău, prost,\N și deloc important.
-Dialogue: 99,0:10:01.17,0:10:05.13,Thought,,0,0,0,,Până vă mai scriu, mamă și tată,\N vă rog să aveți grijă de voi.
-Dialogue: 99,0:10:11.80,0:10:13.55,Dialogue,,0,0,0,,Ce naiba făceai?!
-Dialogue: 99,0:10:14.26,0:10:17.31,Dialogue,,0,0,0,,Să te uiți la o fată în baie\N e prea de tot!
-Dialogue: 99,0:10:17.31,0:10:18.52,Dialogue,,0,0,0,,Despre ce vorbești?
-Dialogue: 99,0:10:18.52,0:10:20.39,Dialogue,,0,0,0,,Stăteai atât de mult acolo,
-Dialogue: 99,0:10:20.39,0:10:22.52,Dialogue,,0,0,0,,încât ne-am îngrijorat și am venit să vedem ce faci.
-Dialogue: 99,0:10:22.52,0:10:23.36,Dialogue,,0,0,0,,Asta e o scuză!
-Dialogue: 99,0:10:23.36,0:10:26.07,Dialogue,,0,0,0,,Dar nu răspundeai,\N oricât te-am strigat,
-Dialogue: 99,0:10:26.07,0:10:27.99,Dialogue,,0,0,0,,așa că am început să cred că...
-Dialogue: 99,0:10:27.99,0:10:28.86,Dialogue,,0,0,0,,Minciuni, minciuni!
+Dialogue: 99,0:09:10.74,0:09:13.37,Dialogue,,0,0,0,,Presupun că îi voi pune ei întrebări \Npeste cinci ore când se va trezi.
+Dialogue: 99,0:09:13.83,0:09:14.95,Dialogue,,0,0,0,,Bun.
+Dialogue: 99,0:09:46.32,0:09:51.20,Dialogue,,0,0,0,,{\i1}Și așa am ajuns să \Nfac un tur al galaxiei.
+Dialogue: 99,0:09:51.66,0:09:56.54,Dialogue,,0,0,0,,{\i1}Domnul Muscat este un bărbat înalt, \Nchipeș, bogat și foarte important.
+Dialogue: 99,0:09:56.54,0:10:01.17,Dialogue,,0,0,0,,{\i1}K.K. este un băiat urât, rău, \Nprost și complet neimportant.
+Dialogue: 99,0:10:01.17,0:10:05.13,Dialogue,,0,0,0,,{\i1}Mamă, tată, vă voi scrie curând, \Nașa că aveți grijă de voi.
+Dialogue: 99,0:10:11.80,0:10:13.55,Dialogue,,0,0,0,,Ce naiba faceți?!
+Dialogue: 99,0:10:14.26,0:10:17.31,Dialogue,,0,0,0,,Să vă uitați la o fată când \Nse spală e deja prea mult!
+Dialogue: 99,0:10:17.31,0:10:18.52,Dialogue,,0,0,0,,Ce tot spui acolo?
+Dialogue: 99,0:10:18.52,0:10:20.39,Dialogue,,0,0,0,,Nu mai ieșeai de acolo,
+Dialogue: 99,0:10:20.39,0:10:22.52,Dialogue,,0,0,0,,așa că am venit să te verificăm, \Ndeoarece eram îngrijorați.
+Dialogue: 99,0:10:22.52,0:10:23.36,Dialogue,,0,0,0,,Nu mai minți!
+Dialogue: 99,0:10:23.36,0:10:26.07,Dialogue,,0,0,0,,Dar nu ai răspuns deloc, \Noricât te-am strigat,
+Dialogue: 99,0:10:26.07,0:10:27.99,Dialogue,,0,0,0,,deci am crezut că...
+Dialogue: 99,0:10:27.99,0:10:28.86,Dialogue,,0,0,0,,Minți, minți!
 Dialogue: 99,0:10:28.86,0:10:30.95,Dialogue,,0,0,0,,Doar voiai să mă vezi goală!
-Dialogue: 99,0:10:30.95,0:10:32.03,Dialogue,,0,0,0,,Nu fi prost!
-Dialogue: 99,0:10:32.03,0:10:34.66,Dialogue,,0,0,0,,Cine ar vrea să-ți vadă oricum trupul sfrijit?
-Dialogue: 99,0:10:35.20,0:10:36.62,Dialogue,,0,0,0,,Eu {\i1}nu{\i0} sunt sfrijită!
-Dialogue: 99,0:10:36.62,0:10:39.58,Dialogue,,0,0,0,,Bustul meu a crescut deja cu 3 cm anul ăsta!
+Dialogue: 99,0:10:30.95,0:10:32.03,Dialogue,,0,0,0,,Nu fi proastă!
+Dialogue: 99,0:10:32.03,0:10:34.66,Dialogue,,0,0,0,,Cine ar vrea să se uite \Nla o scândură ca tine?
+Dialogue: 99,0:10:35.20,0:10:36.62,Dialogue,,0,0,0,,{\i1}Nu{\i0} sunt o scândură!
+Dialogue: 99,0:10:36.62,0:10:39.58,Dialogue,,0,0,0,,Pieptul meu a crescut \Ncu 3 cm anul acesta!
 Dialogue: 99,0:10:39.58,0:10:39.96,Dialogue,,0,0,0,,Hei.
-Dialogue: 99,0:10:39.96,0:10:42.46,Dialogue,,0,0,0,,Heh. Continuă să crești așa.
-Dialogue: 99,0:10:42.46,0:10:45.80,Dialogue,,0,0,0,,Știi, dacă mai crești mult,\N aripile tale nu vor mai putea să te țină în aer!
+Dialogue: 99,0:10:39.96,0:10:42.46,Dialogue,,0,0,0,,Da, ține-o tot așa.
+Dialogue: 99,0:10:42.46,0:10:45.80,Dialogue,,0,0,0,,Dar nu cred că vei mai putea \Nzbura dacă vei mai crește mult!
 Dialogue: 99,0:10:45.80,0:10:46.09,Dialogue,,0,0,0,,Hei.
-Dialogue: 99,0:10:46.09,0:10:46.84,Dialogue,,0,0,0,,Ce-ai spus?!
-Dialogue: 99,0:10:46.84,0:10:47.55,Dialogue,,0,0,0,,Ce se întâmplă?!
-Dialogue: 99,0:10:47.55,0:10:49.05,Dialogue,,0,0,0,,Hei!
-Dialogue: 99,0:10:49.05,0:10:51.51,Dialogue,,0,0,0,,Mi s-a făcut cam foame.
-Dialogue: 99,0:10:51.51,0:10:55.01,Dialogue,,0,0,0,,Aș vrea să luați amândoi masa cu mine.
-Dialogue: 99,0:10:55.51,0:10:57.14,Dialogue,,0,0,0,,Da, hai să mâncăm!
-Dialogue: 99,0:11:00.39,0:11:01.81,Dialogue,,0,0,0,,Arată delicios!
-Dialogue: 99,0:11:01.81,0:11:04.73,Dialogue,,0,0,0,,Domnule Șofer, știți și să gătiți? Uau!
-Dialogue: 99,0:11:05.11,0:11:07.69,Dialogue,,0,0,0,,Mă flatați, domnișoară Lu.
-Dialogue: 99,0:11:07.69,0:11:09.49,Dialogue,,0,0,0,,Acum, toată lumea, să mâncăm?
-Dialogue: 99,0:11:09.49,0:11:10.65,Dialogue,,0,0,0,,Să-i dăm bătaie!
-Dialogue: 99,0:11:14.24,0:11:15.36,Dialogue,,0,0,0,,Yummy!
-Dialogue: 99,0:11:15.36,0:11:16.83,Dialogue,,0,0,0,,Mmm. Ce gust minunat.
-Dialogue: 99,0:11:16.83,0:11:18.29,Dialogue,,0,0,0,,Asta-i bună de tot, moșule.
-Dialogue: 99,0:11:18.29,0:11:19.79,Dialogue,,0,0,0,,Mă bucur că-ți place.
-Dialogue: 99,0:11:19.79,0:11:21.12,Dialogue,,0,0,0,,Acesta este tofu-ul meu!
-Dialogue: 99,0:11:21.12,0:11:22.33,Dialogue,,0,0,0,,Acesta este shirataki-ul meu!
-Dialogue: 99,0:11:22.33,0:11:23.75,Dialogue,,0,0,0,,E carne, carne!
-Dialogue: 99,0:11:23.75,0:11:25.38,Dialogue,,0,0,0,,Ah, tu doar iei carne!
-Dialogue: 99,0:11:25.38,0:11:27.46,Dialogue,,0,0,0,,E în regulă, nu? Nu fi zgârcit.
-Dialogue: 99,0:11:27.46,0:11:29.00,Dialogue,,0,0,0,,Vreau să mănânc și eu!
-Dialogue: 99,0:11:29.00,0:11:30.76,Dialogue,,0,0,0,,O să te îngrași\N dacă bagi în tine așa.
-Dialogue: 99,0:11:30.76,0:11:31.51,Dialogue,,0,0,0,,Ce-ai spus?!
-Dialogue: 99,0:11:31.51,0:11:32.72,Dialogue,,0,0,0,,Ce-ai-\fscx400-
+Dialogue: 99,0:10:46.09,0:10:46.84,Dialogue,,0,0,0,,Poftim?!
+Dialogue: 99,0:10:46.84,0:10:47.55,Dialogue,,0,0,0,,Vrei să ne batem?!
+Dialogue: 99,0:10:47.55,0:10:49.05,Dialogue,,0,0,0,,HEI!
+Dialogue: 99,0:10:49.05,0:10:51.51,Dialogue,,0,0,0,,A început să-mi fie foame.
+Dialogue: 99,0:10:51.51,0:10:55.01,Dialogue,,0,0,0,,Aș dori să mă însoțiți la cină.
+Dialogue: 99,0:10:55.51,0:10:57.14,Dialogue,,0,0,0,,Ura, mâncare!
+Dialogue: 99,0:11:00.39,0:11:01.81,Dialogue,,0,0,0,,Arată așa de bine!
+Dialogue: 99,0:11:01.81,0:11:04.73,Dialogue,,0,0,0,,Sunt uimită. Știți și \Nsă gătiți, domnule șofer?
+Dialogue: 99,0:11:05.11,0:11:07.69,Dialogue,,0,0,0,,Mă flatezi, domnișoară Lu.
+Dialogue: 99,0:11:07.69,0:11:09.49,Dialogue,,0,0,0,,Bun. Să mâncăm acum.
+Dialogue: 99,0:11:09.49,0:11:10.65,Dialogue,,0,0,0,,Poftă bună!
+Dialogue: 99,0:11:14.24,0:11:15.36,Dialogue,,0,0,0,,E delicios!
+Dialogue: 99,0:11:15.36,0:11:16.83,Dialogue,,0,0,0,,Ce aromă minunată.
+Dialogue: 99,0:11:16.83,0:11:18.29,Dialogue,,0,0,0,,E foarte bun, moșule.
+Dialogue: 99,0:11:18.29,0:11:19.79,Dialogue,,0,0,0,,Mă bucur că vă place.
+Dialogue: 99,0:11:19.79,0:11:21.12,Dialogue,,0,0,0,,Voi lua eu acest tofu!
+Dialogue: 99,0:11:21.12,0:11:22.33,Dialogue,,0,0,0,,Voi lua eu acești tăieței!
+Dialogue: 99,0:11:22.33,0:11:23.75,Dialogue,,0,0,0,,Carne, carne!
+Dialogue: 99,0:11:23.75,0:11:25.38,Dialogue,,0,0,0,,Hei, tu mănânci doar carne!
+Dialogue: 99,0:11:25.38,0:11:27.46,Dialogue,,0,0,0,,E asta o problemă? \NNu fi zgârcită.
+Dialogue: 99,0:11:27.46,0:11:29.00,Dialogue,,0,0,0,,Dar și eu vreau!
+Dialogue: 99,0:11:29.00,0:11:30.76,Dialogue,,0,0,0,,Te vei îngrășa dacă vei \Ncontinua să bagi în tine.
+Dialogue: 99,0:11:30.76,0:11:31.51,Dialogue,,0,0,0,,Poftim?!
+Dialogue: 99,0:11:31.51,0:11:32.72,Dialogue,,0,0,0,,Ce ai—
 Dialogue: 99,0:11:35.26,0:11:36.05,Dialogue,,0,0,0,,Ce?
 Dialogue: 99,0:11:36.05,0:11:36.80,Dialogue,,0,0,0,,Ce s-a întâmplat?
-Dialogue: 99,0:11:36.80,0:11:37.72,Dialogue,,0,0,0,,Mă duc să verific.
-Dialogue: 99,0:11:40.56,0:11:42.77,Dialogue,,0,0,0,,Oh, nu! Motorul a ieșit de sub control!
-Dialogue: 99,0:11:44.90,0:11:48.61,Dialogue,,0,0,0,,Dacă continuăm să accelerăm așa,\N o să intrăm în hiper-salt!
-Dialogue: 99,0:11:48.61,0:11:51.11,Dialogue,,0,0,0,,Puterea motorului este incontrolabilă.\N Coordonatele nu pot fi stabilite.
-Dialogue: 99,0:11:51.11,0:11:53.03,Dialogue,,0,0,0,,Ce-a fost asta, șoferule?
-Dialogue: 99,0:11:53.03,0:11:55.57,Dialogue,,0,0,0,,Adică nu știm\N unde vom intra în hiper-salt?!
-Dialogue: 99,0:11:56.53,0:11:58.83,Dialogue,,0,0,0,,Ei bine, nu-i nimic. Oricum mergem\N unde avem chef.
-Dialogue: 99,0:11:58.83,0:12:00.49,Dialogue,,0,0,0,,Hai să ne lăsăm purtați de val!
+Dialogue: 99,0:11:36.80,0:11:37.72,Dialogue,,0,0,0,,Merg să verific.
+Dialogue: 99,0:11:40.56,0:11:42.77,Dialogue,,0,0,0,,Oh, nu! Motorul nu mai \Nrăspunde la comenzi!
+Dialogue: 99,0:11:44.90,0:11:48.61,Dialogue,,0,0,0,,Dacă vom continua să accelerăm, \Nvom face un hiper-salt!
+Dialogue: 99,0:11:48.61,0:11:51.11,Dialogue,,0,0,0,,Nu reușesc să stabilizez motorul. \NCoordonatele destinației sunt incerte.
+Dialogue: 99,0:11:51.11,0:11:53.03,Dialogue,,0,0,0,,Stai, ce vrei, șoferule?
+Dialogue: 99,0:11:53.03,0:11:55.57,Dialogue,,0,0,0,,Că nu știm unde vom ajunge?!
+Dialogue: 99,0:11:56.53,0:11:58.83,Dialogue,,0,0,0,,E în regulă. Oricum nu \Naveam o destinație în minte.
+Dialogue: 99,0:11:58.83,0:12:00.49,Dialogue,,0,0,0,,Haideți să ne \Nlăsăm purtați de val!
 Dialogue: 99,0:12:00.49,0:12:02.45,Dialogue,,0,0,0,,Hei, asta sună distractiv!
-Dialogue: 99,0:12:25.73,0:12:26.56,Dialogue,,0,0,0,,Asta e o navă spațială!
+Dialogue: 99,0:12:25.73,0:12:26.56,Dialogue,,0,0,0,,Aceea e o navă spațială!
 Dialogue: 99,0:12:26.56,0:12:27.44,Dialogue,,0,0,0,,O navă spațială!
-Dialogue: 99,0:12:52.05,0:12:54.87,Dialogue,,0,0,0,,Hei, cum naiba s-a întâmplat asta?!
-Dialogue: 99,0:12:55.42,0:12:58.72,Dialogue,,0,0,0,,E ciudat. Totul era în regulă\N când am verificat în dimineața asta.
-Dialogue: 99,0:12:58.72,0:13:00.39,Dialogue,,0,0,0,,Termină, K.K.
-Dialogue: 99,0:13:00.39,0:13:02.18,Dialogue,,0,0,0,,Ei, ei. E perfect în regulă, nu-i așa?
-Dialogue: 99,0:13:02.18,0:13:04.60,Dialogue,,0,0,0,,Dar ce facem acum?
-Dialogue: 99,0:13:04.60,0:13:06.39,Dialogue,,0,0,0,,Ăă, salut!
-Dialogue: 99,0:13:06.39,0:13:09.15,Dialogue,,0,0,0,,Din câte văd, sunteți călători.
+Dialogue: 99,0:12:52.05,0:12:54.87,Dialogue,,0,0,0,,Hei, cum naiba s-a \Nîntâmplat una ca asta?!
+Dialogue: 99,0:12:55.42,0:12:58.72,Dialogue,,0,0,0,,E foarte ciudat. Totul era în regulă \Ncând am verificat de dimineață.
+Dialogue: 99,0:12:58.72,0:13:00.39,Dialogue,,0,0,0,,Oprește-te, K.K.
+Dialogue: 99,0:13:00.39,0:13:02.18,Dialogue,,0,0,0,,Gata, gata. \NTotul e în regulă, nu?
+Dialogue: 99,0:13:02.18,0:13:04.60,Dialogue,,0,0,0,,Dar ce ne facem acum?
+Dialogue: 99,0:13:04.60,0:13:06.39,Dialogue,,0,0,0,,Ei bine... Salutare!
+Dialogue: 99,0:13:06.39,0:13:09.15,Dialogue,,0,0,0,,Sunteți călători, nu-i așa?
 Dialogue: 99,0:13:09.15,0:13:10.86,Dialogue,,0,0,0,,Da, așa este.
-Dialogue: 99,0:13:10.86,0:13:13.48,Dialogue,,0,0,0,,Suntem dintr-un sat din apropiere.
-Dialogue: 99,0:13:13.48,0:13:16.82,Dialogue,,0,0,0,,Păreți să aveți ceva necazuri.\N Să vă ajutăm?
-Dialogue: 99,0:13:16.82,0:13:18.20,Dialogue,,0,0,0,,Ar fi tare bine!
-Dialogue: 99,0:13:18.20,0:13:19.28,Dialogue,,0,0,0,,Mulțumim mult!
-Dialogue: 99,0:13:28.54,0:13:30.50,Dialogue,,0,0,0,,Ah, un tur interplanetar?
-Dialogue: 99,0:13:30.50,0:13:36.30,Dialogue,,0,0,0,,Da. Eu sunt Muscat Tylor, un negustor de haine cu afaceri în tot imperiul.
+Dialogue: 99,0:13:10.86,0:13:13.48,Dialogue,,0,0,0,,Noi suntem dintr-un \Nsat din apropiere.
+Dialogue: 99,0:13:13.48,0:13:16.82,Dialogue,,0,0,0,,Pare că aveți niște necazuri. \NVă putem ajuta?
+Dialogue: 99,0:13:16.82,0:13:18.20,Dialogue,,0,0,0,,Asta ar fi perfect!
+Dialogue: 99,0:13:18.20,0:13:19.28,Dialogue,,0,0,0,,Vă mulțumim!
+Dialogue: 99,0:13:28.54,0:13:30.50,Dialogue,,0,0,0,,Oh, un tur interplanetar?
+Dialogue: 99,0:13:30.50,0:13:36.30,Dialogue,,0,0,0,,Da. Eu sunt Muscat Tylor, un om de afaceri \Ncu magazine de haine în tot Imperiul.
 Dialogue: 99,0:13:36.30,0:13:37.30,Dialogue,,0,0,0,,Eu sunt K.K.
 Dialogue: 99,0:13:37.30,0:13:38.30,Dialogue,,0,0,0,,Iar eu sunt Lu!
 Dialogue: 99,0:13:38.30,0:13:39.47,Dialogue,,0,0,0,,Eu sunt șoferul lor.
-Dialogue: 99,0:13:39.47,0:13:42.81,Dialogue,,0,0,0,,Ne-am prăbușit din greșeală pe planeta asta,
-Dialogue: 99,0:13:42.81,0:13:45.14,Dialogue,,0,0,0,,dar tot am putea să vizităm obiectivele\N cât timp suntem aici.
-Dialogue: 99,0:13:45.14,0:13:46.93,Dialogue,,0,0,0,,Aveți vreun obiectiv\N istoric renumit aici?
-Dialogue: 99,0:13:46.93,0:13:51.90,Dialogue,,0,0,0,,Ei bine, planeta Arahasu este în mare parte nisip\N și stânci, așa că nu prea sunt multe de văzut.
+Dialogue: 99,0:13:39.47,0:13:42.81,Dialogue,,0,0,0,,Ne-am prăbușit din \Ngreșeală pe această planetă,
+Dialogue: 99,0:13:42.81,0:13:45.14,Dialogue,,0,0,0,,dar cred că ne-ar plăcea s-o \Nvizităm puțin dacă tot suntem aici.
+Dialogue: 99,0:13:45.14,0:13:46.93,Dialogue,,0,0,0,,Aveți locații istorice?
+Dialogue: 99,0:13:46.93,0:13:51.90,Dialogue,,0,0,0,,{\q2}Ei bine, planeta Arahasu e formată în mare \Ndin nisip și pietre, deci nu prea aveți ce vedea.
 Dialogue: 99,0:13:51.90,0:13:54.69,Dialogue,,0,0,0,,De ce nu le arătați ruinele?
-Dialogue: 99,0:13:54.69,0:13:55.86,Dialogue,,0,0,0,,Ah, bătrânule.
-Dialogue: 99,0:13:55.86,0:14:00.07,Dialogue,,0,0,0,,Oaspeți onorați, există niște ruine foarte misterioase în apropiere.
+Dialogue: 99,0:13:54.69,0:13:55.86,Dialogue,,0,0,0,TLC,Ah, bătrânule.
+Dialogue: 99,0:13:55.86,0:14:00.07,Dialogue,,0,0,0,,Dragi oaspeți, există niște ruine \Nfoarte misterioase în apropiere.
 Dialogue: 99,0:14:00.07,0:14:02.16,Dialogue,,0,0,0,,Voi fi încântat să vi le arăt.
-Dialogue: 99,0:14:02.16,0:14:03.37,Dialogue,,0,0,0,,Vă mulțumesc.
+Dialogue: 99,0:14:02.16,0:14:03.37,Dialogue,,0,0,0,,Vă mulțumim.
 Dialogue: 99,0:14:03.91,0:14:08.12,Dialogue,,0,0,0,,Acestea sunt ruinele unui templu dedicat idolilor antici.
 Dialogue: 99,0:14:08.12,0:14:10.29,Dialogue,,0,0,0,,Se află în vârful acestui deal.
 Dialogue: 99,0:14:11.71,0:14:13.04,Dialogue,,0,0,0,,Iată-ne ajunși.
@@ -443,7 +433,7 @@ Dialogue: 99,0:23:33.02,0:23:34.98,Dialogue,,0,0,0,,Fir-ar, sunt puternici.
 Dialogue: 99,0:23:38.73,0:23:39.73,Dialogue,,0,0,0,,Asta nu funcționează.
 Dialogue: 99,0:23:39.73,0:23:41.73,Dialogue,,0,0,0,,Ia de-aici!
 Dialogue: 99,0:23:43.94,0:23:46.40,Dialogue,,0,0,0,,Oh, nu, ce să fac?
-Dialogue: 99,0:23:46.95,0:23:48.87,Thought,,0,0,0,,A-Aia... este... ceva foarte important!
+Dialogue: 99,0:23:46.95,0:23:48.87,Dialogue,,0,0,0,,{\i1}A-Aia... este... ceva foarte important!
 Dialogue: 99,0:23:48.87,0:23:50.58,Dialogue,,0,0,0,,Asta e!
 Dialogue: 99,0:23:53.46,0:23:54.04,Dialogue,,0,0,0,,Ce?!
 Dialogue: 99,0:24:00.29,0:24:01.75,Dialogue,,0,0,0,,O, omule...
@@ -507,6 +497,18 @@ Dialogue: 99,0:27:07.03,0:27:08.94,Dialogue,,0,0,0,,Suntem într-o croazieră pr
 Dialogue: 99,0:27:08.94,0:27:10.40,Dialogue,,0,0,0,,Toată lumea, cu toții împreună!
 Dialogue: 99,0:27:10.40,0:27:12.07,Dialogue,,0,0,0,,Da!
 Dialogue: 0,0:00:01.27,0:00:04.90,Sign,,0,0,0,,{\fad(0,1800)\c&H090C00&\t(0,900,1,\c&HCC9962&)\pos(730,880)}ÎN IMPERIUL GALATIC
+Dialogue: 99,0:06:36.05,0:06:38.30,ED-E 2,,0,0,0,,Nu, nu, rău, rău!
+Dialogue: 99,0:06:38.30,0:06:40.84,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
+Dialogue: 99,0:06:40.84,0:06:42.97,ED-E 2,,0,0,0,,Nu ești un băiat rău?
+Dialogue: 99,0:06:42.97,0:06:45.39,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
+Dialogue: 99,0:06:45.72,0:06:49.68,ED-E 2,,0,0,0,,Ține-ți pentru tine inima năzuroasă și intențiile ascunse
+Dialogue: 99,0:06:50.43,0:06:53.90,ED-E 2,,0,0,0,,păstrează-le pentru tine
+Dialogue: 99,0:06:55.31,0:06:57.48,ED-E 2,,0,0,0,,Nu, nu, ce scârbos, ce scârbos!
+Dialogue: 99,0:06:57.48,0:07:00.15,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
+Dialogue: 99,0:07:00.15,0:07:02.28,ED-E 2,,0,0,0,,Nu ești un băiat precoce?
+Dialogue: 99,0:07:02.28,0:07:04.99,ED-E 2,,0,0,0,,(Lu Lu Lu, Lu, fata puternică)
+Dialogue: 99,0:07:04.99,0:07:09.45,ED-E 2,,0,0,0,,De ce sunt bărbații, toți,
+Dialogue: 99,0:07:09.45,0:07:13.50,ED-E 2,,0,0,0,,atât de afemeiați?
 Comment: 0,0:00:00.00,0:00:00.00,Dialogue,,0,0,0,,{chapter - TC done}
 Comment: 0,0:06:19.61,0:06:20.91,Dialogue,,0,0,0,,{insert song}
 Comment: 10,0:06:36.05,0:06:38.30,ED-R,,0,0,0,,dame yo dame dame
@@ -3246,7 +3248,7 @@ Dialogue: 99,0:03:15.72,0:03:17.81,Dialogue,,0,0,0,,How about I start with you, 
 Dialogue: 99,0:03:17.81,0:03:18.68,Dialogue,,0,0,0,,Huh?
 Dialogue: 99,0:03:19.43,0:03:21.27,Dialogue,,0,0,0,,Wow! What a spirited girl!
 Dialogue: 99,0:03:21.27,0:03:23.39,Dialogue,,0,0,0,,Even the great Hammerman is stunned!
-Dialogue: 99,0:03:23.69,0:03:26.98,Thought,,0,0,0,,What was that punch? I-Impossible... {bakana}
+Dialogue: 99,0:03:23.69,0:03:26.98,Dialogue,,0,0,0,,{\i1}What was that punch? I-Impossible... {bakana}
 Dialogue: 99,0:03:27.32,0:03:28.98,Dialogue,,0,0,0,,I don't care if you're a little girl,
 Dialogue: 99,0:03:28.98,0:03:30.94,Dialogue,,0,0,0,,anyone who hits me is gonna get it!
 Dialogue: 99,0:03:30.94,0:03:31.82,Dialogue,,0,0,0,,Die!
@@ -3373,10 +3375,10 @@ Dialogue: 99,0:09:04.07,0:09:06.20,Dialogue,,0,0,0,,H-Hey! Wait up, old man!
 Dialogue: 99,0:09:06.70,0:09:08.78,Dialogue,,0,0,0,,Old man! Old man!
 Dialogue: 99,0:09:10.74,0:09:13.37,Dialogue,,0,0,0,,I guess I'll ask her\N when she wakes up in five hours.
 Dialogue: 99,0:09:13.83,0:09:14.95,Dialogue,,0,0,0,,There you go.
-Dialogue: 99,0:09:46.32,0:09:51.20,Thought,,0,0,0,,So basically, that's how I got\N to go on a tour of the galaxy.
-Dialogue: 99,0:09:51.66,0:09:56.54,Thought,,0,0,0,,Mr. Muscat is a tall, handsome, rich, and important man.
-Dialogue: 99,0:09:56.54,0:10:01.17,Thought,,0,0,0,,K.K. is an ugly, mean, stupid, \Nand not-in-the-least-important boy.
-Dialogue: 99,0:10:01.17,0:10:05.13,Thought,,0,0,0,,Until I write again, Mom and Dad,\N please take care of yourselves.
+Dialogue: 99,0:09:46.32,0:09:51.20,Dialogue,,0,0,0,,{\i1}So basically, that's how I got\N to go on a tour of the galaxy.
+Dialogue: 99,0:09:51.66,0:09:56.54,Dialogue,,0,0,0,,{\i1}Mr. Muscat is a tall, handsome, rich, and important man.
+Dialogue: 99,0:09:56.54,0:10:01.17,Dialogue,,0,0,0,,{\i1}K.K. is an ugly, mean, stupid, \Nand not-in-the-least-important boy.
+Dialogue: 99,0:10:01.17,0:10:05.13,Dialogue,,0,0,0,,{\i1}Until I write again, Mom and Dad,\N please take care of yourselves.
 Dialogue: 99,0:10:11.80,0:10:13.55,Dialogue,,0,0,0,,What the hell were you doing?!
 Dialogue: 99,0:10:14.26,0:10:17.31,Dialogue,,0,0,0,,Peeking on a girl in the bath\N is going too far!
 Dialogue: 99,0:10:17.31,0:10:18.52,Dialogue,,0,0,0,,What are you talking about?
@@ -3599,7 +3601,7 @@ Dialogue: 99,0:23:33.02,0:23:34.98,Dialogue,,0,0,0,,Damn, they're strong.
 Dialogue: 99,0:23:38.73,0:23:39.73,Dialogue,,0,0,0,,This isn't working.
 Dialogue: 99,0:23:39.73,0:23:41.73,Dialogue,,0,0,0,,Take this!
 Dialogue: 99,0:23:43.94,0:23:46.40,Dialogue,,0,0,0,,Oh, no, what should I do?
-Dialogue: 99,0:23:46.95,0:23:48.87,Thought,,0,0,0,,Th-That's... something very important!
+Dialogue: 99,0:23:46.95,0:23:48.87,Dialogue,,0,0,0,,{\i1}Th-That's... something very important!
 Dialogue: 99,0:23:48.87,0:23:50.58,Dialogue,,0,0,0,,That's it!
 Dialogue: 99,0:23:53.46,0:23:54.04,Dialogue,,0,0,0,,What?!
 Dialogue: 99,0:24:00.29,0:24:01.75,Dialogue,,0,0,0,,Oh, man...
