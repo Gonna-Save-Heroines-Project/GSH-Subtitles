@@ -18,6 +18,9 @@ Original Translation: KazuyaShuu
 Original Editing: KazuyaShuu
 Synch Point: KazuyaShuu
 
+[Aegisub Project Garbage]
+Active Line: 1
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Merriweather Sans,88,&H00FDFDFD,&H000000FF,&H002D131F,&HB4000000,-1,0,0,0,100,100,0,0,1,4.6,1.8,2,150,150,60,1
@@ -27,8 +30,8 @@ Style: Shelter TL,Turkeyface,80,&H00FFFFFF,&H000000FF,&H00A47A6A,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:05:44.99,Dialogue,,0,0,0,chptr,{Episod}
-Comment: 0,0:05:44.99,0:06:07.34,Dialogue,,0,0,0,chptr,{Credite}
+Comment: 0,0:00:00.00,0:05:44.99,Dialogue,chptr,0,0,0,,{Episod}
+Comment: 0,0:05:44.99,0:06:07.34,Dialogue,chptr,0,0,0,,{Credite}
 Dialogue: 99,0:00:03.25,0:00:06.36,Dialogue,,0,0,0,,{\i1}Ce se va întâmpla cu \Nmine de acum înainte?
 Dialogue: 99,0:00:11.42,0:00:14.72,Dialogue,,0,0,0,,{\i1}După o vreme, am încetat \Nsă mă mai gândesc la asta.
 Dialogue: 99,0:00:16.62,0:00:17.99,Dialogue,,0,0,0,,{\i1}Sau poate că am uitat complet...
@@ -117,7 +120,6 @@ Dialogue: 1,0:04:36.66,0:04:42.30,Shelter TL,,0,0,0,,{\bord0.5\xshad0.001\4c&HFF
 [Aegisub Extradata]
 Data: 1,_aegi_perspective_ambient_plane,e86;166#7C567;25#7C589;93#7C110;239
 Data: 4,_aegi_perspective_ambient_plane,e88.16;172.22#7C570.15;35.58#7C589.57;92.82#7C110.03;238.44
-Data: 10,_aegi_perspective_ambient_plane,e446.01;86.67#7C601.98;186.66#7C552.01;266.00#7C395.37;166.02
 Data: 20,_aegi_perspective_ambient_plane,e485.82;652.48#7C909.12;291.93#7C1080.43;385.90#7C661.83;758.88
 Data: 21,_aegi_perspective_ambient_plane,e866.67;125.33#7C1782.69;725.34#7C1570.66;1051.98#7C654.66;454.65
 Data: 29,_aegi_perspective_ambient_plane,e1052.58;1001.48#7C1475.08;598.24#7C1615.26;672.57#7C1191.56;1092.88
